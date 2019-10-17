@@ -1,0 +1,5 @@
+the_DT vulnerability_NN detection_NN techniques_NNS have_VBP focused_VBN on_IN server-side_JJ application_NN code_NN ._.
+We_PRP classify_VBP them_PRP based_VBN on_IN the_DT nature_NN of_IN the_DT analysis_NN ,_, below_IN ._.
+•_CD Static_JJ and_CC Quasi-static_JJ techniques_NNS ._.
+Static_JJ analysis_NN =_JJ -_: =[_NN 13_CD ,_, 16_CD ,_, 23_CD -RRB-_-RRB- -_: =_JJ -_: and_CC model_NN checking_NN techniques_NNS -LRB-_-LRB- 22_CD -RRB-_-RRB- aim_NN to_TO identify_VB cases_NNS where_WRB the_DT web_NN application_NN code_NN fails_VBZ to_TO sanitize_VB the_DT input_NN before_IN output_NN ._.
+Most_RBS static_JJ analysis_NN tools_NNS are_VBP equipped_VBN with_IN the_DT policy_NN that_WDT once_RB da_NN

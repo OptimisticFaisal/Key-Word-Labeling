@@ -1,0 +1,5 @@
+g_NN together_RB corpus_NN processing_NN and_CC smarter_RBR queries_NNS ._.
+Twenty_CD classes_NNS of_IN objects_NNS are_VBP identified_VBN and_CC annotated_JJ in_IN the_DT corpus_NN ,_, and_CC corresponding_JJ labels_NNS are_VBP used_VBN to_TO enhance_VB IR_NN queries_NNS ._.
+Along_IN the_DT same_JJ lines_NNS ,_, -LRB-_-LRB- =_JJ -_: =_JJ Agichtein_NNP et_FW al._FW ,_, 2001_CD -_: =--RRB-_NN propose_VBP a_DT method_NN for_IN learning_VBG query_NN transformations_NNS in_IN order_NN to_TO improve_VB answer_NN retrieval_NN ._.
+The_DT method_NN involves_VBZ learning_VBG phrase_NN features_NNS for_IN question_NN classification_NN ._.
+-LRB-_-LRB- Wen_NNP and_CC Zhang_NNP ,_, 2003_CD -RRB-_-RRB- address_NN the_DT

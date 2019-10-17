@@ -1,0 +1,4 @@
+ta_NN in_IN guiding_VBG extraction_NN ,_, and_CC therefore_RB apply_VB more_RBR IE-based_JJ approaches_NNS ._.
+First_RB ,_, to_TO use_VB domain_NN models_NNS ,_, -LRB-_-LRB- 24_CD -RRB-_-RRB- applies_VBZ IE_NN by_IN training_VBG statistical_JJ models_NNS like_IN HMM_NNP or_CC CRF_NNP ._.
+Second_RB ,_, to_TO leverage_NN existing_VBG data_NNS ,_, =_JJ -_: =[_NN 1_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: convert_VB the_DT clean_JJ reference_NN table_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- as_IN extraction_NN models_NNS ._.
+In_IN comparison_NN ,_, our_PRP$ work_NN aims_VBZ at_IN a_DT broader_JJR notion_NN of_IN ``_`` context_NN ,_, ''_'' which_WDT accounts_VBZ for_IN not_RB only_RB prior_JJ knowledge_NN -LRB-_-LRB- domain_NN models_NNS and_CC existing_VBG wrapp_NN

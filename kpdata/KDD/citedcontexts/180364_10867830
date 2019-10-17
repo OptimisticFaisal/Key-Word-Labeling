@@ -1,0 +1,5 @@
+and_CC Samet_NNP 1995_CD -RRB-_-RRB- ,_, is_VBZ presented_VBN ._.
+This_DT search_NN algorithm_NN ensures_VBZ that_IN the_DT exact_JJ answer_NN will_MD be_VB always_RB retrieved_VBN ._.
+Similarly_RB ,_, an_DT upper_JJ bound_VBN value_NN has_VBZ been_VBN defined_VBN for_IN the_DT longest_JJS common_JJ subsequence_NN -LRB-_-LRB- LCS_NN -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Vlachos_NNP et_FW al._FW 2003_CD -_: =-]_NN ,_, which_WDT may_MD be_VB used_VBN also_RB for_IN indexing_NN purposes_NNS ._.
+4.7.5_CD Similarity_NN Search_VB in_IN Protein_NN Databases_NNS ._.
+In_IN the_DT area_NN of_IN bioinformatics_NNS ,_, the_DT Smith-Waterman_NNP algorithm_NN for_IN local_JJ sequence_NN alignment_NN -LRB-_-LRB- SW_NN ,_, see_VB Section_NNP

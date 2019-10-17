@@ -1,0 +1,5 @@
+,_, ULP_NNP returns_VBZ to_TO the_DT second_JJ step_NN using_VBG the_DT newly_RB aligned_VBN kernel_NN matrix_NN to_TO conduct_VB an_DT unsupervised_JJ ,_, membership_NN stability_NN test_NN ._.
+When_WRB the_DT algorithm_NN converges_VBZ ,_, ULP_NNP outputs_VBZ a_DT kernel_NN matrix_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- or_CC function_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+ULP_NNP is_VBZ essential_JJ for_IN large-scale_JJ information_NN management_NN ._.
+First_RB ,_, for_IN a_DT large-scale_JJ task_NN ,_, a_DT supervised_JJ approach_NN for_IN pattern_NN analysis_NN or_CC knowledge_NN discovery_NN is_VBZ not_RB scalable_JJ ._.
+ULP_NNP uses_VBZ the_DT unlabeled_JJ data_NNS

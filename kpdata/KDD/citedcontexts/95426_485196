@@ -1,0 +1,4 @@
+essing_VBG and_CC applied_JJ physics_NN communities_NNS ,_, starting_VBG from_IN the_DT early_JJ days_NNS of_IN ADALINE_NN -LRB-_-LRB- 40_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 41_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 42_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 43_CD -RRB-_-RRB- ._.
+More_RBR recently_RB ,_, some_DT machine_NN learning_NN researchers_NNS have_VBP also_RB got_VBN interested_JJ in_IN this_DT problem_NN -LRB-_-LRB- 44_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 45_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+But_CC to_TO date_NN ,_, there_EX has_VBZ been_VBN little_JJ work_NN on_IN clustering_NN of_IN such_JJ data_NNS -LRB-_-LRB- 46_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 47_CD -RRB-_-RRB- ,_, and_CC there_EX is_VBZ a_DT lack_NN of_IN benchmark_JJ data_NNS sets_NNS for_IN the_DT same_JJ ._.
+An_DT algorithm_NN working_VBG on_IN streaming_NN data_NNS gets_VBZ to_TO read_VB the_DT data_NNS o_NN

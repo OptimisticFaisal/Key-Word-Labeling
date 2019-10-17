@@ -1,0 +1,4 @@
+._.
+The_DT set_VBN cover_NN formulations_NNS and_CC the_DT adaptations_NNS of_IN the_DT greedy_JJ algorithm_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- we_PRP use_VBP are_VBP inspired_VBN by_IN related_JJ variants_NNS of_IN the_DT set_VBN cover_NN problem_NN in_IN the_DT literature_NN ,_, such_JJ as_IN the_DT red-blue_JJ set_NN cover_NN problem_NN =_JJ -_: =[_NN 2_CD ,_, 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC set_VBD cover_NN with_IN minimizing_VBG the_DT overlap_VBP of_IN sets_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Simulated_JJ Annealing_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- is_VBZ a_DT randomised_JJ algorithm_NN that_WDT attempts_VBZ to_TO simulate_VB the_DT physical_JJ process_NN of_IN annealing_NN ._.
+The_DT original_JJ motivation_NN is_VBZ to_TO si_VB

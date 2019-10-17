@@ -1,0 +1,5 @@
+-LRB-_-LRB- used_VBN for_IN identifying_VBG person_NN photos_NNS and_CC email_NN addresses_NNS -RRB-_-RRB- are_VBP `_`` <image>_NN '_'' tags_NNS in_IN the_DT HTML_NNP file_NN ._.
+Terms_NNS are_VBP base_JJ noun_NN phrases_NNS extracted_VBN from_IN the_DT Web_NN page_NN by_IN using_VBG a_DT tool_NN based_VBN on_IN technologies_NNS proposed_VBN in_IN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+-LRB-_-LRB- b_LS -RRB-_-RRB- We_PRP assign_VBP tags_NNS to_TO each_DT token_JJ based_VBN on_IN the_DT token_JJ type_NN ._.
+For_IN example_NN ,_, for_IN a_DT standard_JJ word_NN ,_, we_PRP assign_VBP all_DT possible_JJ tags_NNS corresponding_VBG to_TO all_DT properties_NNS ._.
+For_IN a_DT special_JJ word_NN ,_, we_PRP assign_VBP tags_NNS indicating_VBG

@@ -1,0 +1,4 @@
+the_DT following_JJ three_CD data_NNS subsets_NNS were_VBD created_VBN with_IN varying_VBG levels_NNS of_IN overlap_VBP in_IN the_DT topics_NNS :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- news-similar-3_NN ;_: -LRB-_-LRB- 2_LS -RRB-_-RRB- news-related-3_NN ;_: and_CC -LRB-_-LRB- 3_LS -RRB-_-RRB- newsdifferent-3_NN ._.
+Details_NNS of_IN these_DT datasets_NNS are_VBP outlined_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT vectorspace_NN model_NN of_IN each_DT data_NNS subset_NN was_VBD created_VBN using_VBG standard_JJ text_NN pre-processing_JJ methods_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, and_CC each_DT data_NNS subset_NN has_VBZ 300_CD points_NNS in_IN high-dimensional_JJ space_NN -LRB-_-LRB- -RRB-_-RRB- 1000_CD words_NNS -RRB-_-RRB- ._.
+In_IN this_DT case_NN ,_, I-d_NN

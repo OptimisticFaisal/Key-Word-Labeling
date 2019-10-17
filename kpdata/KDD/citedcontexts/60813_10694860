@@ -1,0 +1,4 @@
+paper_NN 's_POS method_NN ,_, in_IN contrast_NN ,_, may_MD parameterize_VB any_DT k-means_NN type_NN algorithm_NN ._.
+A_DT related_JJ field_NN is_VBZ semi-supervised_JJ clustering_NN ,_, where_WRB the_DT typical_JJ approach_NN is_VBZ also_RB to_TO learn_VB a_DT parameterized_JJ similarity_NN measure_NN =_JJ -_: =[_NN 3_CD ,_, 4_CD ,_, 6_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, this_DT learning_NN problem_NN is_VBZ markedly_RB different_JJ from_IN supervised_JJ clustering_NN ._.
+In_IN semisupervised_JJ clustering_NN ,_, the_DT user_NN has_VBZ a_DT single_JJ large_JJ dataset_NN to_TO cluster_VB ,_, with_IN incomplete_JJ information_NN about_IN the_DT c_NN

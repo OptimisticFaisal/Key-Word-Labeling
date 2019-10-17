@@ -1,0 +1,4 @@
+a_DT classifier_NN to_TO an_DT input_NN text_NN ._.
+Then_RB ,_, a_DT classifier_NN ensemble_NN chooses_VBZ the_DT class_NN that_WDT maximizes_VBZ the_DT posterior_JJ probability_NN for_IN an_DT input_NN text_NN x_NN ,_, that_WDT is_VBZ :_: label_NN -LRB-_-LRB- ensemble_NN ,_, x_NN -RRB-_-RRB- =_JJ arg_NN max_NN -LRB-_-LRB- P_NN -LRB-_-LRB- ensemble_NN ,_, x_NN ,_, c_NN -RRB-_-RRB- -RRB-_-RRB- =_JJ -_: =-LRB-_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: c_NN ∈_NN L_NN 2.2_CD ._.
+Effectiveness_NN Measures_NNS The_DT performance_NN of_IN a_DT classifier_NN ensemble_NN is_VBZ directly_RB measured_VBN by_IN the_DT classification_NN accuracy_NN on_IN the_DT test_NN set_NN ._.
+Moreover_RB ,_, the_DT effectiveness_NN of_IN an_DT ensemble_NN is_VBZ indirectly_RB

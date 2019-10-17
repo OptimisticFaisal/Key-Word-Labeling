@@ -1,0 +1,4 @@
+hood_NN of_IN a_DT collection_NN C_NN as_IN follows_VBZ :_: N_NN ∑_CD M_NN ∑_NN K_NN ∑_NN L_NN -LRB-_-LRB- C_NN -RRB-_-RRB- =_JJ n_NN -LRB-_-LRB- di_FW ,_, wj_NN -RRB-_-RRB- log_NN P_NN -LRB-_-LRB- wj_FW |_FW zk_FW -RRB-_-RRB- P_NN -LRB-_-LRB- zk_FW |_FW di_FW -RRB-_-RRB- ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- i_LS =_JJ 1_CD j_NN =_JJ 1_CD k_NN =_JJ 1_CD The_DT model_NN parameters_NNS φ_NN =_JJ -LCB-_-LRB- P_NN -LRB-_-LRB- wj_FW |_FW zk_FW -RRB-_-RRB- -RCB-_-RRB- and_CC θ_NN =_JJ -LCB-_-LRB- P_NN -LRB-_-LRB- zk_FW |_FW di_FW -RRB-_-RRB- -RCB-_-RRB- can_MD be_VB estimated_VBN by_IN using_VBG standard_JJ EM_NN algorithm_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Thus_RB PLSA_NNP provides_VBZ a_DT simplified_VBN solution_NN to_TO model_NN topics_NNS of_IN documents_NNS in_IN a_DT text-rich_JJ information_NN network_NN ._.
+However_RB ,_, this_DT model_NN ignores_VBZ the_DT associated_VBN heterogeneous_JJ information_NN network_NN as_RB well_RB as_IN othe_NN

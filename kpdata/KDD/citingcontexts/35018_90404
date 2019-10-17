@@ -1,0 +1,4 @@
+ets_NN are_VBP identified_VBN early_RB ._.
+Bayardo_NN -LRB-_-LRB- B98_NN -RRB-_-RRB- presented_VBD an_DT optimized_VBN search_NN method_NN called_VBN Max-Miner_NNP that_WDT prunes_VBZ out_RP subsets_NNS of_IN long_JJ patterns_NNS of_IN frequent_JJ itemsets_NNS that_WDT are_VBP discovered_VBN early_RB ._.
+Gunopulos_NNP et_FW al._FW =_SYM -_: =_JJ -LRB-_-LRB- GMS97_NN -RRB-_-RRB- -_: =_SYM -_: suggested_VBD iteratively_RB extending_VBG a_DT working_VBG pattern_NN until_IN failure_NN ,_, using_VBG a_DT randomized_VBN algorithm_NN ,_, which_WDT is_VBZ similar_JJ to_TO the_DT idea_NN we_PRP used_VBD in_IN our_PRP$ algorithm_NN to_TO grow_VB itemsets_NNS in_IN a_DT greedy_JJ fashion_NN ._.
+Much_JJ work_NN ha_NN

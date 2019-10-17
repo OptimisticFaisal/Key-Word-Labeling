@@ -1,0 +1,5 @@
+arity_NN index_NN in_IN order_NN to_TO cluster_VB them_PRP ._.
+He_PRP studies_VBZ various_JJ greedy_JJ clustering_NN techniques_NNS based_VBN on_IN this_DT dissimilarity_NN index_NN ._.
+Another_DT similarity_NN measure_NN related_JJ to_TO the_DT average_JJ fist-passage_JJ time_NN appears_VBZ in_IN =_JJ -_: =[_NN 52_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP is_VBZ defined_VBN as_IN the_DT escape_NN probability_NN ,_, that_WDT is_VBZ the_DT probability_NN that_IN a_DT random_JJ walker_NN starting_VBG from_IN one_CD node_NN will_MD visit_VB the_DT other_JJ node_NN ,_, before_IN returning_VBG to_TO the_DT starting_VBG node_NN ._.
+The_DT resulting_VBG similarit_NN

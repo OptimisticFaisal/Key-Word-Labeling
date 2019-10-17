@@ -1,0 +1,4 @@
+ies_NNS to_TO all_DT neighboring_VBG peers_NNS ``_`` flooding_NN ''_'' the_DT network_NN with_IN requests_NNS ._.
+Many_JJ researchers_NNS have_VBP attempted_VBN to_TO increase_VB efficiency_NN with_IN content-based_JJ overlay_NN networks_NNS ,_, including_VBG distributed_VBN hash_JJ tables_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 1_CD ,_, 10_CD -RRB-_-RRB- -_: =--RRB-_NN and_CC other_JJ semantic_JJ approaches_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 4_CD ,_, 5_CD ,_, 12_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+An_DT overlay_NN network_NN specifies_VBZ the_DT logical_JJ connections_NNS between_IN peers_NNS in_IN a_DT network_NN and_CC is_VBZ distinct_JJ from_IN the_DT physical_JJ connections_NNS of_IN that_DT network_NN ._.
+It_PRP de_IN

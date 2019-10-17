@@ -1,0 +1,5 @@
+ques_NNS in_IN O_NN -LRB-_-LRB- δ_NN 2_CD -RRB-_-RRB- polynomial_JJ delay_NN time_NN where_WRB δ_NN is_VBZ the_DT maximum_NN degree_NN in_IN the_DT graph_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+Their_PRP$ algorithm_NN is_VBZ the_DT best_JJS known_JJ algorithm_NN in_IN enumerating_VBG all_DT maximal_JJ bipartite_JJ cliques_NNS ._.
+CHARM_NN -LRB-_-LRB- 36_CD -RRB-_-RRB- and_CC CLOSET_NN +_CC =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP two_CD state-of-the-art_JJ algorithms_NNS for_IN mining_NN closed_VBD frequent_JJ itemsets_NNS ._.
+3_CD Method_NN We_PRP will_MD first_RB define_VB the_DT distance_NN between_IN geneexpression_NN matrices_NNS and_CC show_VB how_WRB to_TO compute_VB it_PRP efficiently_RB ._.
+Then_RB we_PRP wil_VBP

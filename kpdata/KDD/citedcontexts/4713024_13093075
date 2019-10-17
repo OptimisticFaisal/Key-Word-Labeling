@@ -1,0 +1,4 @@
+uffer_NN from_IN high_JJ false_JJ alarm_NN rate_NN when_WRB normal_JJ user_NN profiles_NNS and_CC system_NN or_CC network_NN behavior_NN vary_VBP widely_RB ._.
+Anomaly_RB detection_NN can_MD be_VB combined_VBN with_IN signature_NN verification_NN to_TO detect_VB attacks_NNS more_RBR efficiently_RB =_JJ -_: =[_NN 1_CD ,_, 12_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ detection_NN method_NN employ_VBP the_DT combined_VBN of_IN two_CD detection_NN methods_NNS Anomaly_NNP detection_NN with_IN signature_NN detection_NN to_TO detect_VB attacks_NNS more_RBR efficiently_RB ._.
+At_IN the_DT same_JJ time_NN ,_, our_PRP$ model_NN uses_VBZ two_CD anomaly_JJ methods_NNS

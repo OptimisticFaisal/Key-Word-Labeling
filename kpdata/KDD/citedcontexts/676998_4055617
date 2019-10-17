@@ -1,0 +1,4 @@
+frequent_JJ itemset_NN strategy_NN as_IN exemplified_VBN by_IN the_DT Apriori_NNP algorithm_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+OPUS_NN AR_NN utilizes_VBZ an_DT alternative_JJ association_NN rule_NN discovery_NN strategy_NN to_TO find_VB associations_NNS without_IN first_RB finding_VBG frequent_JJ itemsets_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT avoids_VBZ the_DT need_NN to_TO retain_VB the_DT set_NN of_IN frequent_JJ itemsets_NNS in_IN memory_NN ,_, a_DT requirement_NN that_WDT makes_VBZ the_DT frequent_JJ itemset_NN strategy_NN infeasible_JJ for_IN dense_JJ data_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+This_DT paper_NN presents_VBZ and_CC evaluates_VBZ pruning_NN

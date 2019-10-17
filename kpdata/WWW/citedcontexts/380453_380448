@@ -1,0 +1,4 @@
+ent_NN is_VBZ ,_, trivially_RB ,_, impossible_JJ to_TO satisfy_VB ._.
+The_DT literature_NN about_IN both_CC the_DT need_NN and_CC the_DT current_JJ solutions_NNS for_IN streaming_NN validation_NN against_IN XML_NN Schema_NN is_VBZ starting_VBG to_TO appear_VB ._.
+A_DT recent_JJ work_NN is_VBZ XML_NN Screamer_NN =_JJ -_: =_JJ -LRB-_-LRB- Kostoulas06_NN -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT compiler_NN for_IN XML_NN Schema_NN producing_VBG extremely_RB efficient_JJ validating_VBG parsers_NNS that_IN groups_NNS ,_, for_IN optimization_NN purposes_NNS ,_, the_DT phases_NNS of_IN parsing_NN ,_, validation_NN ,_, and_CC de-serialization_NN ._.
+XML_NN Screamer_NN significantly_RB

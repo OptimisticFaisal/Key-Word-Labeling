@@ -1,0 +1,6 @@
+way_NN ,_, which_WDT also_RB leads_VBZ to_TO the_DT greedy_JJ algorithm_NN with_IN an_DT approximation_NN ratio_NN of_IN 1_CD −_FW 1\/e_FW ._.
+Sequence_NN submodularity_NN ._.
+We_PRP now_RB define_VBP sequence_NN submodularity_NN ,_, which_WDT is_VBZ implicitly_RB used_VBN by_IN Streeter_NNP and_CC Golovin_NNP in_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Let_NNP S_NNP be_VB the_DT set_NN of_IN all_DT sequences_NNS of_IN V_NN ,_, including_VBG the_DT empty_JJ sequence_NN ∅_NN ._.
+Let_VB ⊕_CD be_VB the_DT binary_JJ operator_NN that_WDT concatenates_VBZ two_CD sequences_NNS into_IN one_CD ._.
+We_PRP say_VBP that_IN a_DT non-negative_JJ function_NN f_FW defined_VBN on_IN S_NN is_VBZ

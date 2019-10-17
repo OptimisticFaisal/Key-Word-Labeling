@@ -1,0 +1,4 @@
+ored_VBN by_IN means_NNS of_IN the_DT ICS-FORTH_NN RDFSuite_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+RDFSuite_NN is_VBZ a_DT suite_NN of_IN tools_NNS for_IN RDF_NNP validation_NN ,_, storage_NN and_CC querying_VBG ,_, using_VBG an_DT object-relational_JJ DBMS_NN ._.
+The_DT language_NN used_VBN for_IN querying_VBG the_DT database_NN is_VBZ RQL_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT typed_VBN language_NN following_VBG a_DT functional_JJ approach_NN ,_, which_WDT supports_VBZ generalized_JJ path_NN expressions_NNS featuring_VBG variables_NNS on_IN both_DT labels_NNS for_IN nodes_NNS -LRB-_-LRB- classes_NNS -RRB-_-RRB- and_CC edges_NNS -LRB-_-LRB- properties_NNS -RRB-_-RRB- ._.
+A_DT CG-Client_JJ module_NN charac_NN

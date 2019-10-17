@@ -1,0 +1,4 @@
+-_: moving_NN is_VBZ effective_JJ ,_, while_IN all_PDT the_DT other_JJ methods_NNS except_IN soft-ensemble_JJ on_IN enthyroid_NN ,_, cause_VBP negative_JJ effect_NN ._.
+When_WRB dealing_VBG with_IN two-class_JJ tasks_NNS ,_, some_DT powerful_JJ tools_NNS such_JJ as_IN ROC_NN curve_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- or_CC cost_NN curve_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB used_VBN to_TO measure_VB the_DT learning_NN performance_NN ._.
+Note_VB that_IN ROC_NN and_CC cost_NN curves_NNS are_VBP dual_JJ representations_NNS that_WDT can_MD be_VB easily_RB converted_VBN into_IN each_DT other_JJ -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Here_RB cost_NN curve_NN is_VBZ used_VBN since_IN it_PRP explicitly_RB

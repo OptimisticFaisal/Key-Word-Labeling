@@ -1,0 +1,5 @@
+mean_VB that_IN any_DT subset_NN J_NNP ⊂_NNP I_NNP is_VBZ also_RB δ-occurrent_JJ ._.
+It_PRP must_MD be_VB true_JJ ,_, however_RB ,_, that_IN J_NN is_VBZ λ-occurrent_NN for_IN some_DT λ_FW ≥_FW δ_FW ._.
+5_CD A_DT maximal_JJ δ-occurrent_NN itemset_NN is_VBZ essentially_RB a_DT frequent_JJ closed_JJ itemset_NN with_IN support_NN δ_NN =_JJ -_: =[_NN 38_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB δ_NN is_VBZ greater_JJR than_IN or_CC equal_JJ to_TO the_DT support_NN threshold_NN ._.
+This_DT explicit_JJ notation_NN will_MD be_VB handy_JJ for_IN our_PRP$ complexity_NN analysis_NN ._.
+8sThe_NN notion_NN of_IN maximal_JJ occurrent_JJ itemsets_NNS plays_VBZ an_DT important_JJ role_NN in_IN our_PRP$

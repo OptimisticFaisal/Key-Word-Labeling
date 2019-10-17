@@ -1,0 +1,4 @@
+re_VB usually_RB ordinal_JJ and_CC inexact_JJ ._.
+Yang_NNP et_FW al._FW investigated_VBN mining_NN long_JJ sequential_JJ patterns_NNS in_IN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, also_RB dealing_VBG with_IN event_NN series_NN with_IN noise_NN ._.
+Previous_JJ work_NN on_IN detecting_VBG patterns_NNS from_IN time-series_NNS -LRB-_-LRB- e._NN g_NN ,_, =_JJ -_: =[_NN 2_CD ,_, 7_CD -RRB-_-RRB- -_: =--RRB-_NN converted_VBD the_DT problem_NN to_TO finding_VBG subsequences_NNS in_IN lists_NNS of_IN categorical_JJ data_NNS -LRB-_-LRB- e.g._FW ,_, event_NN sequences_NNS -RRB-_-RRB- ,_, by_IN preprocessing_VBG the_DT original_JJ sequence_NN to_TO a_DT string_NN ._.
+A_DT window_NN w_NN of_IN fixed_JJ size_NN is_VBZ slided_VBN along_IN the_DT s_NN

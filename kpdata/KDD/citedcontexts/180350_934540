@@ -1,0 +1,4 @@
+distorsions_NNS in_IN the_DT time_NN axis_NN -LRB-_-LRB- see_VB figure_NN 3_CD ,_, case_NN A_NN -RRB-_-RRB- -RRB-_-RRB- ._.
+Another_DT approach_NN is_VBZ to_TO use_VB the_DT Dynamic_NNP Time_NNP Warping_NNP -LRB-_-LRB- DTW_NNP -RRB-_-RRB- distance_NN which_WDT allows_VBZ stretching_VBG in_IN time_NN and_CC comparing_VBG time-series_NNS of_IN different_JJ lengths_NNS =_JJ -_: =[_NN 16_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- see_VB figure_NN 3_CD ,_, case_NN B_NN -RRB-_-RRB- -RRB-_-RRB- ._.
+However_RB ,_, a_DT great_JJ amount_NN of_IN outliers_NNS still_RB results_VBZ in_IN very_RB large_JJ distances_NNS ,_, even_RB though_IN the_DT difference_NN may_MD be_VB found_VBN in_IN only_RB a_DT few_JJ points_NNS -LRB-_-LRB- see_VB figure_NN 3_CD ,_, case_NN B_NN '_'' -RRB-_-RRB- -RRB-_-RRB- ._.
+Nonmetric_JJ te_NN

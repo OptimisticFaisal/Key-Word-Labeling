@@ -1,0 +1,5 @@
+t_NN of_IN Figure_NNP 5_CD ._.
+Kernel_NNP Weighted_NNP Nonparanormal_NNP is_VBZ still_RB superior_JJ to_TO other_JJ methods_NNS ._.
+For_IN other_JJ time_NN ,_, the_DT ROC_NNP curves_NNS exhibit_VBP similar_JJ patterns_NNS ._.
+Climate_NN Data_NN We_PRP run_VBP our_PRP$ proposed_VBN method_NN on_IN a_DT climate_NN dataset_NN -LRB-_-LRB- =_JJ -_: =_JJ Lozano_NNP et_FW al._FW 2009_CD -_: =--RRB-_NN ,_, which_WDT contains_VBZ monthly_JJ data_NNS of_IN 18_CD different_JJ climatological_JJ factors_NNS from_IN 1999_CD to_TO 2002_CD ._.
+The_DT observations_NNS span_VBP 125_CD locations_NNS in_IN the_DT U.S._NNP on_IN an_DT equally_RB spaced_VBN grid_NN with_IN the_DT range_NN of_IN latitude_NN from_IN 30.47_CD

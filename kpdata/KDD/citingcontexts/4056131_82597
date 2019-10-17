@@ -1,0 +1,3 @@
+esemblance_NN is_VBZ defined_VBN as_IN matching_VBG a_DT single_JJ super_JJ shingle_NN in_IN two_CD documents_NNS ,_, which_WDT is_VBZ much_RB more_RBR efficient_JJ because_IN it_PRP no_RB longer_RB requires_VBZ the_DT calculation_NN of_IN shingle_NN overlap_VBP ._.
+A_DT similar_JJ approach_NN is_VBZ used_VBN in_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, under_IN the_DT name_NN of_IN Locality_NN Sensitive_JJ Hashing_NN -LRB-_-LRB- LSH_NN -RRB-_-RRB- ._.
+Here_RB ,_, instead_RB of_IN shingles_NNS ,_, a_DT number_NN of_IN k-tuples_NNS of_IN words_NNS are_VBP randomly_RB selected_VBN from_IN each_DT document_NN and_CC two_CD documents_NNS having_VBG at_IN least_JJS one_CD such_JJ tuple_NN

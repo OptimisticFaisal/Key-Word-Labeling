@@ -1,0 +1,4 @@
+nd_RB throw_VB away_RP the_DT information_NN regarding_VBG the_DT original_JJ Gaussian_JJ source_NN ._.
+This_DT kind_NN of_IN problem_NN is_VBZ traditionally_RB handled_VBN using_VBG an_DT algorithm_NN known_VBN as_IN Expectation-Maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- ;_: our_PRP$ presentation_NN follows_VBZ =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT mixture_NN of_IN Gaussian_JJ problem_NN ,_, one_CD common_JJ interpretation_NN of_IN the_DT learning_NN task_NN is_VBZ to_TO seek_VB to_TO maximize_VB PN_FW i_FW =_JJ 1_CD log_NN Pr_NN -LRB-_-LRB- xij_NN ~_NN ;_: ~_NN ;_: ~_NN -RRB-_-RRB- ._.
+The_DT problem_NN here_RB is_VBZ that_IN the_DT inner_JJ probabilities_NNS are_VBP themselves_PRP

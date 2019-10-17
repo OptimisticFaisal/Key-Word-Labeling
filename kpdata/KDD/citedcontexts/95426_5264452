@@ -1,0 +1,5 @@
+._.
+Although_IN researchers_NNS have_VBP not_RB yet_RB established_VBN the_DT degree_NN to_TO which_WDT these_DT algorithms_NNS scale_VBP to_TO large_JJ problems_NNS ,_, some_DT have_VBP been_VBN designed_VBN expressly_RB for_IN learning_VBG time-varying_JJ concepts_NNS from_IN large_JJ data_NNS sets_VBZ =_JJ -_: =[_NN 11,24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Other_JJ algorithms_NNS are_VBP amendable_JJ to_TO such_JJ problems_NNS because_IN of_IN their_PRP$ formal_JJ properties_NNS ,_, at_IN least_JJS in_IN theory_NN -LRB-_-LRB- 3_CD ,_, 14_CD ,_, 15_CD -RRB-_-RRB- ._.
+One_CD such_JJ algorithm_NN in_IN this_DT category_NN is_VBZ Weighted_NNP Majority_NNP -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ a_DT method_NN for_IN

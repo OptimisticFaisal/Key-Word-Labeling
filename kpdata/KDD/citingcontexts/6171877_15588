@@ -1,0 +1,4 @@
+t_NN -RRB-_-RRB- andC_NN -LRB-_-LRB- bt_NN -RRB-_-RRB- are_VBP greater_JJR than_IN this_DT bound_VBD ._.
+3.1.6_CD Using_VBG AD_NN Trees_NNP for_IN computing_NN counts_VBZ The_DT required_JJ counts_NNS are_VBP conjunctive_JJ counting_VBG queries_NNS on_IN the_DT dataset_NN ,_, and_CC can_MD be_VB efficiently_RB queried_VBN using_VBG an_DT AD_NN Tree_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT AD_NN Tree_NN building_NN algorithm_NN scans_VBZ the_DT dataset_NN once_RB ,_, and_CC precomputes_NNS information_NN needed_VBN to_TO answer_VB every_DT possible_JJ query_NN in_IN time_NN independent_JJ of_IN the_DT number_NN of_IN records_NNS ._.
+The_DT parameter_NN leaflist_NN size_NN can_MD

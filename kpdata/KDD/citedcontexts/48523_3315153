@@ -1,0 +1,4 @@
+istributed_VBN scheme_NN is_VBZ not_RB discussed_VBN in_IN this_DT dissertation_NN ._.
+3_CD There_EX are_VBP semi-supervised_JJ learning_VBG ensembles_NNS that_WDT construct_VBP classification_NN ensembles_NNS based_VBN on_IN both_CC labeled_JJ and_CC unlabeled_JJ data_NNS ,_, e.g._FW ASSEMEBL_NN =_JJ -_: =[_NN 58_CD -RRB-_-RRB- -_: =_JJ -_: ,_, an_DT adaptive_JJ semi-supervised_JJ ensemble_NN ._.
+11s2_JJ .2_NN ._.
+The_DT Hypothesis_NN :_: Why_WRB Classifier_NNP Ensembles_NNP Work_NNP 12_CD fusing_NN multiple_JJ classifiers_NNS would_MD become_VB redundant_JJ or_CC out_IN of_IN date_NN were_VBD raised_VBN among_IN researchers_NNS in_IN the_DT

@@ -1,0 +1,5 @@
+,_, T_NN -RRB-_-RRB- and_CC -LRB-_-LRB- I_NNP ′_NNP ,_, T_NN ′_NN -RRB-_-RRB- satisfying_VBG the_DT coverage_NN and_CC support_NN constraints_NNS ,_, I_PRP ′_FW ⊆_FW I_PRP ⇒_FW |_FW T_NN ′_FW |_FW ≥_FW |_FW T_NN |_FW ≥_FW θ_FW ._.
+Other_JJ examples_NNS of_IN anti-monotonic_JJ constraints_NNS are_VBP maximum_JJ itemset_JJ size_NN and_CC maximum_NN total_JJ itemset_NN cost_NN -LRB-_-LRB- =_JJ -_: =_JJ Bucila_FW et_FW al._FW 2003_CD -_: =_JJ -_: ;_: Bonchi_NNP and_CC Lucchese_NNP 2007_CD -RRB-_-RRB- ._.
+Assume_VB that_IN every_DT itemhas_NN a_DT cost_NN ci_NN -LRB-_-LRB- for_IN a_DT size_NN constraint_NN ,_, ci_NN =_JJ 1_CD -RRB-_-RRB- ._.
+Then_RB a_DT maximum_NN cost_NN constraint_NN with_IN c_NN -LRB-_-LRB- I_NN -RRB-_-RRB- =_JJ ∑_FW i_FW ∈_FW I_PRP ci_VBP ,_, is_VBZ satisfied_VBN if_IN c_NN -LRB-_-LRB- I_NN -RRB-_-RRB- ≤_FW γ_FW ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Given_VBN that_IN I_PRP ′_FW ⊆_FW I_PRP

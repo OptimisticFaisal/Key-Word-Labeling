@@ -1,0 +1,6 @@
+pairs_NNS of_IN vertices_NNS in_IN a_DT clique_NN covers_VBZ the_DT bounding_VBG box_NN for_IN the_DT clique_NN ,_, which_WDT can_MD be_VB proved_VBN by_IN induction_NN on_IN the_DT number_NN of_IN vertices_NNS ._.
+Due_JJ to_TO the_DT page_NN limit_NN ,_, we_PRP omit_VBP the_DT full_JJ proof_NN ,_, which_WDT can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Based_VBN on_IN Lemma_NNP 1_CD ,_, the_DT following_VBG theorem_NN immediately_RB follows_VBZ ._.
+Theorem_NNP 5_CD ._.
+Given_VBN -LRB-_-LRB- X_NN ,_, t_NN -RRB-_-RRB- for_IN the_DT MRS_NNP problem_NN ,_, where_WRB X_NN is_VBZ in_IN d-dimensional_JJ space_NN with_IN d_FW ≤_FW 2_CD ,_, χ_NN -LRB-_-LRB- Gc_NN -RRB-_-RRB- =_JJ γ_NN -LRB-_-LRB- X_NN ,_, t_NN -RRB-_-RRB- ._.
+Lemma_NN 1_CD and_CC Theorem_NNP 5_CD do_VBP not_RB

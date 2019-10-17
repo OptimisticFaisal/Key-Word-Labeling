@@ -1,0 +1,5 @@
+ic_JJ ._.
+Recent_JJ works_NNS demonstrated_VBD that_IN static_JJ pruning_NN can_MD produce_VB very_RB compact_JJ indices_NNS whilst_IN not_RB suffering_VBG from_IN an_DT unacceptable_JJ precision_NN loss_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Also_RB ,_, this_DT technique_NN has_VBZ been_VBN applied_VBN in_IN web_NN retrieval_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT paper_NN presents_VBZ several_JJ techniques_NNS for_IN reducing_VBG the_DT size_NN of_IN the_DT inverted_JJ file_NN by_IN identifying_VBG a_DT stop-words_JJ set_NN dependent_JJ on_IN the_DT collection_NN ._.
+The_DT main_JJ difference_NN between_IN this_DT method_NN and_CC the_DT one_CD des_FW

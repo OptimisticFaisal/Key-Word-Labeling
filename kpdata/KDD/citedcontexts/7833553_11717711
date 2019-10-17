@@ -1,0 +1,6 @@
+75_CD 20NG_CD 79,962_CD 2,435,219_CD NetFlix_NNP 2,667,199_CD 56,919,190_CD Figure_NNP 2_CD :_: Comparison_NN of_IN speed_NN ._.
+The_DT proposed_VBN iPoG-B_NN achieves_VBZ 4_CD ∼_FW 202x_FW speedup_NN ._.
+See_NNP Section_NNP 6_CD for_IN details_NNS ._.
+network_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, and_CC direction-aware_JJ proximity_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+All_DT these_DT methods_NNS only_RB consider_VBP the_DT graph_NN link_NN structure_NN and_CC ignore_VB the_DT user_NN feedback_NN ._.
+Although_IN we_PRP focus_VBP on_IN random_JJ walk_NN with_IN restart_VB in_IN this_DT paper_NN ,_, our_PRP$ approach_NN -LRB-_-LRB- i.e._FW ,_, to_TO use_VB the_DT feedback_NN informatio_NN

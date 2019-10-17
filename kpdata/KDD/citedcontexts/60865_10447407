@@ -1,0 +1,3 @@
+on_IN problem_NN ,_, where_WRB instance_NN pairs_NNS are_VBP used_VBN as_IN training_NN examples_NNS ,_, and_CC the_DT labels_NNS indicate_VBP the_DT direction_NN of_IN the_DT preference_NN ._.
+Algorithms_NNS based_VBN on_IN this_DT approach_NN ,_, such_JJ as_IN the_DT RankSVM_NN -LRB-_-LRB- Herbrich_JJ et_FW al._FW ,_, 1999_CD ,_, =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =-]_CD ,_, have_VBP been_VBN shown_VBN to_TO achieve_VB high_JJ ranking_NN performance_NN ,_, but_CC often_RB at_IN the_DT cost_NN of_IN computational_JJ efficiency_NN ._.
+Consideration_NN of_IN pairs_NNS instead_RB of_IN individual_JJ instances_NNS results_VBZ in_IN quadratic_JJ growth_NN in_IN the_DT num_NN

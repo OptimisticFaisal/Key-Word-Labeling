@@ -1,0 +1,4 @@
+resent_VB the_DT data_NNS by_IN nodes_NNS in_IN a_DT graph_NN ,_, whose_WP$ edges_NNS are_VBP the_DT distances_NNS between_IN the_DT nodes_NNS ._.
+After_IN the_DT graph_NN is_VBZ constructed_VBN ,_, several_JJ approaches_NNS can_MD be_VB used_VBN ,_, such_JJ as_IN graph_NN mincut_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, Tikhonov_JJ Regularization_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Manifold_JJ Regularization_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, etc._NN ._.
+The_DT key_JJ problem_NN of_IN this_DT method_NN is_VBZ that_IN graph_NN construction_NN needs_VBZ to_TO be_VB hand_NN crafted_VBN for_IN each_DT domain_NN ,_, because_IN it_PRP encodes_VBZ prior_JJ knowledge_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP are_VBP looki_NNS

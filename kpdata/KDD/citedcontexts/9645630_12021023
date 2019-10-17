@@ -1,0 +1,4 @@
+can_MD be_VB expected_VBN to_TO have_VB different_JJ model_NN parameters_NNS and_CC latent_JJ variables_NNS ._.
+We_PRP use_VBP the_DT reconstruction_NN error_NN as_IN an_DT instrument_NN of_IN segmentation_NN ,_, making_VBG pieces_NNS whenever_WRB the_DT error_NN spikes_NNS ._.
+We_PRP refer_VBP reader_NN to_TO =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: for_IN more_RBR technical_JJ details_NNS on_IN DynaMMo_NN ,_, its_PRP$ compression_NN ,_, decompression_NN and_CC segmentation_NN algorithms_NNS ._.
+C._NN Results_NNS We_PRP presented_VBD experiments_NNS on_IN motion_NN capture_NN sequences_NNS 1_CD and_CC chlorine_NN measurements_NNS and_CC demo_NN

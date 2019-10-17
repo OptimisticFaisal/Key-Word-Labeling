@@ -1,0 +1,5 @@
+blem_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- based_VBN on_IN the_DT ESP_NNP search_NN framework_NN in_IN Figure_NNP 3_CD ._.
+We_PRP have_VBP recently_RB developed_VBN CRF-OPT_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, a_DT package_NN for_IN general_JJ unconstrained_JJ CRF_NN training_NN ,_, on_IN top_NN of_IN the_DT Toolkit_NNP for_IN Advanced_NNP Optimization_NNP -LRB-_-LRB- TAO_NNP -RRB-_-RRB- =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+CRF-OPT_NN uses_VBZ the_DT Limited_NNP Memory_NN Variable_NNP Metric_NNP -LRB-_-LRB- LMVM_NNP -RRB-_-RRB- method_NN ,_, a_DT quasi-Newton_JJ method_NN ,_, as_IN the_DT unconstrained_JJ optimization_NN algorithm_NN ._.
+We_PRP develop_VBP our_PRP$ constrained_VBN CRF_NN solver_NN on_IN top_NN of_IN CRFOPT_NNP ._.
+The_DT ℓ_NN m_NN 1_CD -_:

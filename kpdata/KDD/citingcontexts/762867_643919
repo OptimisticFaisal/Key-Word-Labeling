@@ -1,0 +1,4 @@
+haudhuri_RB ,_, Ganjam_NNP ,_, Ganti_NNP ,_, &_CC Motwani_NNP ,_, 2003_CD -RRB-_-RRB- that_WDT may_MD be_VB used_VBN for_IN unsupervised_JJ entity_NN resolution_NN ._.
+The_DT other_JJ approach_NN uses_VBZ adaptive_JJ supervised_JJ algorithms_NNS that_WDT learn_VBP similarity_NN measures_NNS from_IN labeled_VBN data_NNS -LRB-_-LRB- =_JJ -_: =_JJ Tejada_NNP ,_, Knoblock_NNP ,_, &_CC Minton_NNP ,_, 2001_CD -_: =_JJ -_: ;_: Bilenko_NNP &_CC Mooney_NNP ,_, 2003_CD -RRB-_-RRB- ._.
+Resolving_NNP entities_NNS optimally_RB is_VBZ known_VBN to_TO be_VB computationally_RB hard_RB even_RB when_WRB only_JJ attributes_NNS are_VBP considered_VBN -LRB-_-LRB- Cohen_NNP ,_, Kautz_NNP ,_, &_CC McAllester_NNP ,_, 2000_CD -RRB-_-RRB- ._.
+Therefore_RB ,_, efficiency_NN has_VBZ recei_VBN

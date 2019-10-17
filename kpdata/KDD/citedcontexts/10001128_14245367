@@ -1,0 +1,4 @@
+entences_NNS ,_, we_PRP used_VBD several_JJ heuristic_NN rules_NNS based_VBN on_IN some_DT comparative_JJ keywords_NNS ,_, e.g._FW than_IN ,_, win_VB ,_, superior_JJ ,_, etc._NN ._.
+They_PRP achieve_VBP the_DT F-score_NN of_IN 0.9_CD ._.
+We_PRP then_RB followed_VBD the_DT opinion_NN mining_NN method_NN introduced_VBN in_IN -LRB-_-LRB- =_JJ -_: =_JJ Ding_NNP et_FW al._FW 2009_CD -_: =--RRB-_NN to_TO find_VB superior_JJ entities_NNS ._.
+Since_IN a_DT comparative_JJ sentence_NN typically_RB has_VBZ entities_NNS on_IN the_DT two_CD sides_NNS of_IN a_DT comparative_JJ keyword_NN ,_, i.e._FW ,_, ``_`` Camera-X_NN is_VBZ better_JJR than_IN Camera-Y_NN ''_'' ,_, based_VBN on_IN opinion_NN mining_NN ,_, if_IN the_DT se_FW

@@ -1,0 +1,3 @@
+recent_JJ years_NNS ,_, various_JJ researchers_NNS have_VBP recognized_VBN that_IN partitional_JJ clustering_NN algorithms_NNS are_VBP well-suited_JJ for_IN clustering_VBG large_JJ document_NN data_NN sets_NNS due_JJ to_TO their_PRP$ relatively_RB low_JJ computational_JJ requirements_NNS =_JJ -_: =[_NN 8_CD ,_, 1_CD ,_, 32_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN many_JJ document_NN clustering_NN applications_NNS ,_, hierarchical_JJ clustering_NN solutions_NNS are_VBP desirable_JJ ,_, solutions_NNS which_WDT have_VBP been_VBN traditionally_RB obtained_VBN using_VBG agglomerative_JJ algorithms_NNS ._.
+However_RB ,_, partitional_JJ algor_NN

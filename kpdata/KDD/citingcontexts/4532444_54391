@@ -1,0 +1,6 @@
+In_IN Section_NNP 5_CD ,_, we_PRP describe_VBP our_PRP$ experimental_JJ results_NNS ._.
+We_PRP give_VBP our_PRP$ conclusion_NN in_IN Section_NN 6_CD ._.
+2_CD ._.
+RELATED_NNS WORK_VBP Agrawal_NNP and_CC Srikant_NNP proposed_VBD a_DT privacy-preserving_JJ data_NN mining_NN scheme_NN using_VBG random_JJ perturbation_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN their_PRP$ scheme_NN ,_, a_DT random_JJ number_NN is_VBZ added_VBN to_TO the_DT value_NN ofa_NN sensitive_JJ attribute_NN ._.
+For_IN example_NN ,_, if_IN xi_NN is_VBZ the_DT value_NN ofa_NN sensitive_JJ attribute_NN ,_, xi_NN +_CC r_NN ,_, rather_RB than_IN xi_FW ,_, will_MD appear_VB in_IN the_DT database_NN ,_, where_WRB r_NN

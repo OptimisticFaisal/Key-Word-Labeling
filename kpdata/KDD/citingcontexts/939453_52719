@@ -1,0 +1,3 @@
+ld_IN representation_NN entities_NNS ._.
+Concept_NN invention_NN could_MD also_RB ,_, in_IN theory_NN be_VB done_VBN in_IN other_JJ types_NNS of_IN relational_JJ learning_NN ,_, such_JJ as_IN in_IN those_DT using_VBG graphical_JJ models_NNS ,_, e.g._FW Probabilistic_JJ Relational_JJ Models_NNS -LRB-_-LRB- PRMs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT are_VBP generative_JJ models_NNS of_IN joint_JJ probability_NN distribution_NN capturing_VBG probabilistic_JJ influences_NNS between_IN entities_NNS and_CC their_PRP$ attributes_NNS in_IN a_DT relational_JJ domain_NN ._.
+However_RB ,_, such_JJ generative_JJ models_NNS are_VBP not_RB

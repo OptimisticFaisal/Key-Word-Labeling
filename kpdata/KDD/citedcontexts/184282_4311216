@@ -1,0 +1,4 @@
+rch_NN methods_NNS in_IN attempts_NNS to_TO scale_VB to_TO large_JJ ,_, high_JJ dimensional_JJ datasets_NNS ._.
+With_IN such_JJ datasets_NNS ,_, random_JJ searching_VBG becomes_VBZ a_DT viable_JJ heuristic_NN method_NN and_CC has_VBZ been_VBN used_VBN with_IN many_JJ of_IN the_DT aforementioned_JJ criteria_NNS =_JJ -_: =[_NN 1_CD ;_: 12_CD ;_: 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Sampling_NN is_VBZ another_DT method_NN used_VBN to_TO improve_VB the_DT scalability_NN of_IN algorithms_NNS ._.
+Mitra_NNP et_FW al._FW partition_NN the_DT original_JJ feature_NN set_VBN into_IN clusters_NNS based_VBN on_IN a_DT similarity_NN function_NN and_CC select_JJ representatives_NNS from_IN

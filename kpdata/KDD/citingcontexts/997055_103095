@@ -1,0 +1,4 @@
+the_DT dataset_NN is_VBZ very_RB large_JJ ,_, it_PRP may_MD be_VB expensive_JJ to_TO recompute_VB the_DT profile_NN by_IN scanning_VBG the_DT whole_JJ dataset_NN ._.
+Fortunately_RB ,_, it_PRP is_VBZ effective_JJ to_TO profile_VB a_DT new_JJ cluster_NN through_IN sampling_NN based_VBN on_IN Hoeffding_NNP bound_VBD =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3.2_CD K-means_NNS Clustering_VBG One_CD major_JJ computation_NN cost_NN in_IN hierarchical_JJ clustering_NN is_VBZ the_DT pair-wise_JJ KL-divergence_NN calculation_NN ._.
+In_IN each_DT iteration_NN ,_, Algorithm_NN 1_CD has_VBZ to_TO calculate_VB O_NN -LRB-_-LRB- m_NN -RRB-_-RRB- times_NNS of_IN KL-divergence_NN ._.

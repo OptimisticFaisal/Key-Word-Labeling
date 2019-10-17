@@ -1,0 +1,4 @@
+ude_NN content_NN in_IN our_PRP$ clustering_NN algorithms_NNS ,_, with_IN the_DT advantage_NN that_IN by_IN working_VBG with_IN the_DT proxy_NN cache_NN we_PRP do_VBP not_RB require_VB extra_JJ spidering_NN ._.
+Another_DT approach_NN to_TO document_NN categorization_NN is_VBZ ``_`` content_JJ ignora_NN =_JJ -_: =_JJ nt_NN ._. ''_''
+-LRB-_-LRB- 3_LS -RRB-_-RRB- -_: =_JJ -_: ,_, for_IN example_NN ,_, uses_VBZ click-through_JJ data_NNS to_TO discover_VB disjoint_JJ sets_NNS of_IN similar_JJ queries_NNS and_CC disjoint_JJ sets_NNS of_IN similar_JJ URLs_NNS ._.
+Their_PRP$ algorithm_NN represents_VBZ each_DT query_NN and_CC URL_NN as_IN a_DT node_NN in_IN a_DT graph_NN and_CC creates_VBZ ed_VBN

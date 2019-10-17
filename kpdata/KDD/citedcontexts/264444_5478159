@@ -1,0 +1,3 @@
+le_DT preserving_NN the_DT utility_NN of_IN the_DT data_NNS with_IN respect_NN to_TO a_DT target_NN class_NN of_IN workloads_NNS ._.
+While_IN previous_JJ work_NN has_VBZ considered_VBN incorporating_VBG a_DT single_JJ classifier_NN -LRB-_-LRB- constructed_VBN over_IN the_DT entire_JJ released_VBN data_NN set_NN -RRB-_-RRB- =_JJ -_: =[_NN 13_CD ,_, 15_CD ,_, 24_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP incorporate_VBP the_DT following_JJ expressive_JJ workload_NN characteristics_NNS :_: •_CD Classification_NN &_CC Regression_NN We_PRP incorporate_VBP models_NNS predicting_VBG both_CC categorical_JJ and_CC numeric_JJ attributes_NNS ._.
+•_CD Multiple_JJ Target_NN Models_NNS Oft_NN

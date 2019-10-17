@@ -1,0 +1,3 @@
+re_IN partitioned_VBN into_IN two_CD classes_NNS :_: TRUE_JJ ,_, if_IN the_DT zX_NN ,_, i_FW value_NN causes_VBZ the_DT alternative_JJ hypothesis_NN to_TO be_VB accepted_VBN ,_, and_CC FALSE_NNP ,_, if_IN the_DT null_JJ hypothesis_NN is_VBZ accepted_VBN ._.
+This_DT approach_NN does_VBZ not_RB cause_VB privacy_NN breaches_NNS =_JJ -_: =[_NN 9_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: because_IN there_EX are_VBP almost_RB no_DT gains_NNS in_IN information_NN about_IN the_DT local_JJ support_NN of_IN an_DT itemset_NN after_IN the_DT application_NN of_IN the_DT method_NN ._.
+The_DT only_JJ information_NN disclosed_VBN is_VBZ if_IN the_DT itemset_NN is_VBZ skewed_JJ or_CC not_RB ,_, and_CC that_IN

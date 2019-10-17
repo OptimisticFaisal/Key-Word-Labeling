@@ -1,0 +1,4 @@
+detection_NN of_IN malicious_JJ domains_NNS ._.
+6_CD of_IN these_DT features_NNS have_VBP been_VBN used_VBN in_IN previous_JJ research_NN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 29_CD ,_, 30_CD ,_, 36_CD -RRB-_-RRB- -RRB-_-RRB- ,_, in_IN particular_JJ in_IN detecting_VBG malicious_JJ Fast-Flux_NNP services_NNS or_CC in_IN classifying_VBG malicious_JJ URLs_NNS =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT features_NNS that_IN we_PRP use_VBP in_IN the_DT detection_NN and_CC our_PRP$ rationale_NN for_IN selecting_VBG these_DT features_NNS are_VBP explained_VBN in_IN detail_NN in_IN Section_NN 3_CD ._.
+2.2_CD Architecture_NNP of_IN EXPOSURE_NNP Figure_NNP 1_CD gives_VBZ an_DT overview_NN of_IN the_DT system_NN a_DT

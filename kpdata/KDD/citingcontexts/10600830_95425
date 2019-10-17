@@ -1,0 +1,4 @@
+Many_JJ approaches_NNS have_VBP been_VBN proposed_VBN to_TO create_VB accurate_JJ and_CC diverse_JJ ensembles_NNS ._.
+Examples_NNS include_VBP bagging_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, boosting_VBG -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, random_JJ forests_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, the_DT random_JJ subspace_NN method_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC random_JJ decision_NN trees_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN most_JJS ensemble_NN methods_NNS ,_, the_DT diversity_NN and_CC accuracy_NN are_VBP acquired_VBN by_IN manipulating_VBG subsets_NNS of_IN data_NN points_NNS or_CC features_NNS ._.
+One_CD problem_NN with_IN these_DT ensembling_VBG approaches_NNS is_VBZ that_IN they_PRP tend_VBP to_TO construct_VB unne_NN

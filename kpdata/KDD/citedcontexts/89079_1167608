@@ -1,0 +1,4 @@
+matches_NNS ''_'' to_TO a_DT subsequence_NN -LRB-_-LRB- apart_RB from_IN itself_PRP -RRB-_-RRB- tend_VBP to_TO be_VB located_JJ one_CD or_CC two_CD points_NNS to_TO the_DT left_NN or_CC the_DT right_NN of_IN the_DT subsequence_NN in_IN question_NN ._.
+Such_JJ matches_NNS have_VBP previously_RB been_VBN called_VBN trivial_JJ matches_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =-[_CD 5_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ critical_JJ when_WRB finding_VBG discords_NNS to_TO exclude_VB trivial_JJ matches_NNS ;_: otherwise_RB almost_RB all_DT real_JJ datasets_NNS have_VBP degenerate_JJ and_CC unintuitive_JJ solutions_NNS ._.
+We_PRP will_MD therefore_RB take_VB the_DT time_NN to_TO formally_RB define_VB a_DT

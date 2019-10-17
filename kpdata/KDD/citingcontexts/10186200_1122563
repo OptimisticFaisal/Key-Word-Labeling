@@ -1,0 +1,4 @@
+e_LS inverse_JJ temperature_NN -RRB-_-RRB- ._.
+When_WRB θ_NN is_VBZ large_JJ ,_, the_DT dissimilarity_NN reduces_VBZ to_TO the_DT standard_JJ shortest-path_JJ distance_NN while_IN for_IN θ_NN =_JJ 0_CD ,_, it_PRP reduces_VBZ to_TO the_DT commute-time_JJ distance_NN ,_, also_RB called_VBD the_DT resistance_NN distance_NN =_JJ -_: =[_NN 18_CD ,_, 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Third_RB ,_, the_DT dissimilarity_NN between_IN a_DT particular_JJ node_NN and_CC all_PDT the_DT other_JJ nodes_NNS can_MD be_VB computed_VBN efficiently_RB by_IN solving_VBG two_CD linear_JJ systems_NNS of_IN n_NN equations_NNS where_WRB n_NN is_VBZ the_DT number_NN of_IN nodes_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_,

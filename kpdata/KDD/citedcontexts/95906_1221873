@@ -1,0 +1,5 @@
+for_IN each_DT item_NN ._.
+However_RB ,_, this_DT is_VBZ only_RB a_DT very_RB rough_JJ estimate_NN which_WDT gets_VBZ especially_RB unreliable_JJ for_IN small_JJ counts_NNS ._.
+There_EX exist_VBP more_RBR sophisticated_JJ estimation_NN approaches_NNS ._.
+For_IN example_NN ,_, DuMouchel_NN and_CC Pregibon_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: use_VB the_DT assumption_NN that_IN the_DT parameters_NNS of_IN the_DT count_NN processes_NNS for_IN items_NNS in_IN a_DT database_NN are_VBP distributed_VBN according_VBG to_TO a_DT continuous_JJ parametric_JJ 4sdensity_NN function_NN ._.
+This_DT additional_JJ information_NN can_MD improve_VB

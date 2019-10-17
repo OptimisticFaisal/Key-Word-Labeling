@@ -1,0 +1,3 @@
+ince_FW −_FW L_NN ′_NN -LRB-_-LRB- θn_NN -RRB-_-RRB- is_VBZ the_DT direction_NN of_IN steepest_JJ descent_NN ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- constitutes_VBZ a_DT noisy_JJ version_NN of_IN gradient_NN descent_NN ._.
+Stochastic_JJ approximation_NN theory_NN can_MD be_VB used_VBN to_TO show_VB that_IN ,_, under_IN certain_JJ regularity_NN conditions_NNS =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT noise_NN in_IN the_DT gradient_NN estimates_VBZ ``_`` averages_NNS out_RP ''_'' and_CC SGD_NNP converges_VBZ to_TO the_DT set_NN of_IN stationary_JJ points_NNS satisfying_VBG L_NN ′_NN -LRB-_-LRB- θ_NN -RRB-_-RRB- =_JJ 0_CD ._.
+Of_IN course_NN ,_, these_DT stationary_JJ points_NNS can_MD be_VB minima_VBN ,_, maxima_NNS ,_, or_CC saddle_NN point_NN

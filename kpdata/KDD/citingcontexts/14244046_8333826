@@ -1,0 +1,3 @@
+olean_NN factorizations_NNS can_MD yield_VB smaller_JJR reconstruction_NN error_NN than_IN factorizations_NNS of_IN same_JJ size_NN done_VBN under_IN the_DT normal_JJ arithmetic_NN ._.
+Unfortunately_RB ,_, unlike_IN normal_JJ rank_NN ,_, computing_VBG the_DT Boolean_JJ rank_NN is_VBZ NP-hard_NN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC even_RB approximation_NN is_VBZ hard_JJ -LRB-_-LRB- 22_CD -RRB-_-RRB- -LRB-_-LRB- although_IN recent_JJ work_NN shows_VBZ that_IN logarithmic_JJ approximations_NNS can_MD be_VB obtained_VBN by_IN assuming_VBG sparsity_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+But_CC even_RB assuming_VBG we_PRP could_MD compute_VB the_DT Boolean_NNP rank_NN effici_NNS

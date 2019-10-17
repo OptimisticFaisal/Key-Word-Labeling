@@ -1,0 +1,4 @@
+ch_NN transaction_NN is_VBZ -LRB-_-LRB- partially_RB -RRB-_-RRB- covered_VBN by_IN the_DT largest_JJS itemset_NN that_WDT is_VBZ frequent_JJ ._.
+In_IN BMF_NNP ,_, however_RB ,_, we_PRP do_VBP not_RB require_VB every_DT row_NN to_TO be_VB modeled_VBN by_IN at_IN least_JJS one_CD factor_NN ._.
+More_RBR closely_RB related_JJ to_TO BMF_NN is_VBZ Tiling_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT essentially_RB employs_VBZ the_DT well_RB known_VBN greedy_JJ set-cover_JJ algorithm_NN to_TO iteratively_RB cover_VB the_DT data_NNS with_IN that_DT itemset_NN that_WDT covers_VBZ the_DT most_RBS uncovered_JJ 1s_NNS in_IN the_DT data_NNS ._.
+Kontonasios_NNP and_CC De_NNP Bie_NNP -LRB-_-LRB- 17_CD -RRB-_-RRB- iterati_NNS

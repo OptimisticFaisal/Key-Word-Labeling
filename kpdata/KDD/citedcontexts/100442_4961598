@@ -1,0 +1,5 @@
+Some_DT systems_NNS treat_VBP web_NN servers_NNS as_IN a_DT generic_JJ network_NN service_NN ._.
+Incoming_JJ and_CC outgoing_JJ traffic_NN are_VBP modeled_VBN as_IN a_DT stream_NN of_IN bytes_NNS or_CC as_IN discrete_JJ packets_NNS ._.
+Some_DT approaches_NNS search_VBP for_IN anomalous_JJ packet_NN headers_NNS =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_JJ -_: ,_, while_IN others_NNS look_VBP for_IN patterns_NNS in_IN the_DT first_JJ few_JJ packets_NNS of_IN connections_NNS -LRB-_-LRB- 32_CD -RRB-_-RRB- ._.
+Packet_NN payloads_NNS are_VBP natural_JJ places_NNS to_TO look_VB for_IN malicious_JJ content_NN ._.
+Wang_NNP and_CC Stolfo_NNP -LRB-_-LRB- 33_CD -RRB-_-RRB- modeled_VBD packet_NN payloads_NNS by_IN compari_NNS

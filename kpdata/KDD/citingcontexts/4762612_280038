@@ -1,0 +1,5 @@
+cept_RB ,_, but_CC irrelevant_JJ to_TO one_CD another_DT ._.
+The_DT CVV_NN strategy_NN uses_VBZ a_DT heuristic_NN measure_NN to_TO evaluate_VB the_DT correlation_NN between_IN views_NNS ._.
+A_DT similar_JJ heuristic_NN principle_NN has_VBZ been_VBN applied_VBN in_IN the_DT test_NN theory_NN by_IN Ghiselli_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: and_CC feature_NN selection_NN approach_NN by_IN Hall_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Heuristic_NN '_POS goodness_NN '_'' of_IN feature_NN set_NN ._.
+The_DT heuristic_NN '_POS goodness_NN '_'' of_IN a_DT subset_NN of_IN features_NNS is_VBZ formalized_VBN in_IN Equation_NN 4_CD -LRB-_-LRB- 12_CD -RRB-_-RRB- :_: KRcf_NN C_NN =_JJ Õ_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- K_NNP +_CC K_NNP -LRB-_-LRB- K_NNP −_NNP 1_LS -RRB-_-RRB- Rff_NN Whe_NN

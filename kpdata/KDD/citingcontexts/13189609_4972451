@@ -1,0 +1,5 @@
+olumns_NNS ,_, and_CC make_VB homogeneous_JJ regions_NNS into_IN blocks_NNS ._.
+Partitioning_NN algorithms_NNS form_VBP an_DT active_JJ research_NN area_NN ,_, and_CC finding_VBG optimal_JJ partitions_NNS is_VBZ orthogonal_JJ to_TO our_PRP$ work_NN ._.
+Any_DT partition_NN algorithms_NNS ,_, e.g._FW ,_, METIS_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Disco_NN -LRB-_-LRB- 30_CD -RRB-_-RRB- ,_, etc_NN ,_, can_MD be_VB naturally_RB plugged_VBN into_IN GBASE_NNP ._.
+Graph_NN partitioning_NN can_MD be_VB formally_RB defined_VBN as_IN follows_VBZ ._.
+The_DT input_NN is_VBZ the_DT original_JJ raw_JJ graph_NN denoted_VBN by_IN G._NNP Given_IN a_DT graph_NN G_NN ,_, we_PRP partition_NN the_DT nodes_NNS

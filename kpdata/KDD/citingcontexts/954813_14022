@@ -1,0 +1,5 @@
+of_IN radio-signal-strength_NN ,_, RSS_NN ,_, values_NNS -RRB-_-RRB- from_IN different_JJ sensor_NN nodes_NNS that_WDT act_VBP as_IN beacons_NNS ._.
+In_IN the_DT past_NN ,_, some_DT conventional_JJ data_NNS mining_NN technologies_NNS have_VBP been_VBN applied_VBN for_IN solving_VBG the_DT localization_NN problem_NN =_JJ -_: =[_NN 7_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Generally_RB ,_, some_DT statistical_JJ models_NNS are_VBP obtained_VBN offline_JJ which_WDT can_MD map_VB signals_NNS to_TO locations_NNS ._.
+These_DT models_NNS are_VBP then_RB used_VBN online_NN to_TO predict_VB the_DT client_NN locations_NNS based_VBN on_IN the_DT real-time_JJ signal_NN values_NNS ._.
+Am_VBP

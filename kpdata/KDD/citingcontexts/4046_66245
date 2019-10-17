@@ -1,0 +1,7 @@
+from_IN the_DT separating_VBG hyperplane_NN are_VBP presumably_RB more_RBR likely_JJ to_TO be_VB classified_VBN correctly_RB ._.
+Although_IN the_DT range_NN of_IN SVM_NN scores_NNS is_VBZ -LRB-_-LRB- \_FW Gammaa_FW ;_: a_LS -RRB-_-RRB- -LRB-_-LRB- where_WRB a_DT depends_VBZ on_IN the_DT problem_NN -RRB-_-RRB- ,_, we_PRP can_MD map_VB the_DT scores_NNS into_IN the_DT =_JJ -_: =[_NN 0_CD ;_: 1_LS -RRB-_-RRB- -_: =_JJ -_: interval_JJ by_IN re-scaling_VBG them_PRP ._.
+If_IN f_LS -LRB-_-LRB- x_NN -RRB-_-RRB- is_VBZ the_DT original_JJ score_NN ,_, then_RB s_NN -LRB-_-LRB- x_NN -RRB-_-RRB- =_JJ -LRB-_-LRB- f_LS -LRB-_-LRB- x_NN -RRB-_-RRB- +_CC a_DT -RRB-_-RRB- =_JJ 2a_NN is_VBZ a_DT re-scaled_JJ score_NN between_IN 0_CD and_CC 1_CD ,_, such_JJ that_IN if_IN f_FW -LRB-_-LRB- x_NN -RRB-_-RRB- ?_.
+0_CD then_RB s_NN -LRB-_-LRB- x_NN -RRB-_-RRB- ?_.
+0:5_CD and_CC if_IN f_FW -LRB-_-LRB- x_NN -RRB-_-RRB- !_.
+0_CD then_RB s_NN -LRB-_-LRB- x_NN -RRB-_-RRB- !_.
+0:5_CD ._.

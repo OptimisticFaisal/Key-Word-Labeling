@@ -1,0 +1,4 @@
+is_VBZ from_IN a_DT normal_JJ community_NN ,_, the_DT probability_NN of_IN xi_NN =_JJ si_FW increases_NNS as_IN the_DT distance_NN from_IN si_NN to_TO µk_NN gets_VBZ closer_JJR ._.
+For_IN example_NN ,_, we_PRP can_MD choose_VB D_NN to_TO be_VB a_DT distance_NN function_NN from_IN the_DT class_NN of_IN Bregman_NNP divergence_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ a_DT generalization_NN from_IN the_DT Euclidean_JJ distance_NN and_CC is_VBZ known_VBN to_TO have_VB a_DT strong_JJ connection_NN to_TO exponential_JJ families_NNS of_IN distributions_NNS ._.
+5_CD ._.
+EXPERIMENTS_NNS The_DT evaluation_NN of_IN community_NN outlier_NN detection_NN

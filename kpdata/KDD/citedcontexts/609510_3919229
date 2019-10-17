@@ -1,0 +1,5 @@
+iven_VBN by_IN a_DT batch_NN conventional_JJ learner_NN from_IN enough_JJ examples_NNS ._.
+They_PRP also_RB apply_VBP Hoeffding_NNP 's_POS inequalities_NNS to_TO build_VB a_DT scaling_NN --_: up_IN method_NN that_WDT is_VBZ applicable_JJ to_TO any_DT induction_NN algorithm_NN based_VBN on_IN discrete_JJ search_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX is_VBZ also_RB large_JJ literature_NN on_IN scaling_NN --_: up_IN algorithms_NNS -LRB-_-LRB- 7_CD ,_, 1_CD -RRB-_-RRB- ._.
+6_CD ._.
+CONCLUSIONS_NNS A_DT scalable_JJ classification_NN learning_VBG algorithm_NN based_VBN on_IN decision_NN rules_NNS and_CC prototypes_NNS has_VBZ been_VBN introduced_VBN in_IN this_DT paper_NN ._.

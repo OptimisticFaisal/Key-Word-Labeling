@@ -1,0 +1,4 @@
+ty_IN if_IN there_EX exists_VBZ a_DT permutation_NN π_NN of_IN the_DT rows_NNS ,_, such_JJ that_IN in_IN π_NN -LRB-_-LRB- M_NN -RRB-_-RRB- the_DT ones_NNS are_VBP aligned_VBN to_TO consecutive_JJ rows_NNS on_IN every_DT column_NN ._.
+A_DT well_RB known_VBN application_NN of_IN this_DT problem_NN is_VBZ physical_JJ mapping_NN of_IN chromosomes_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, while_IN matrix_NN envelope_NN reduction_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- is_VBZ a_DT related_JJ problem_NN ._.
+In_IN the_DT case_NN where_WRB L_NN -LRB-_-LRB- M_NN |_CD T_NN -RRB-_-RRB- =_JJ 0_CD for_IN some_DT total_JJ order_NN T_NN ,_, the_DT order_NN T_NN can_MD be_VB determined_VBN in_IN linear_JJ time_NN -LRB-_-LRB- 9_CD ,_, 18_CD -RRB-_-RRB- ._.
+In_IN practice_NN ,_, however_RB ,_, the_DT data_NNS

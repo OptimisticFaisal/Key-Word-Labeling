@@ -1,0 +1,3 @@
+d_NN dislikes_NN ;_: in_IN drug_NN discovery_NN ,_, one_CD wants_VBZ to_TO rank_VB chemical_NN compounds_NNS according_VBG to_TO their_PRP$ activity_NN against_IN a_DT therapeutic_JJ target_NN ._.
+Following_VBG the_DT development_NN of_IN classical_JJ ranking_JJ algorithms_NNS such_JJ as_IN RankSVM_NN =_JJ -_: =[_NN 22_CD ,_, 23_CD ,_, 28_CD -RRB-_-RRB- -_: =_JJ -_: ,_, RankBoost_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, and_CC RankNet_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, there_EX has_VBZ been_VBN much_JJ interest_NN recently_RB in_IN ranking_JJ algorithms_NNS that_WDT optimize_VBP ranking_JJ performance_NN near_IN the_DT top_NN of_IN the_DT ranked_VBN list_NN ._.
+Indeed_RB ,_, while_IN early_JJ ranking_NN algorithms_NNS

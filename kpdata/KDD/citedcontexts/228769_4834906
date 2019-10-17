@@ -1,0 +1,6 @@
+hold_NN ._.
+The_DT frequent_JJ itemsets_NNS mining_NN problem_NN is_VBZ to_TO find_VB all_DT frequent_JJ itemsets_NNS in_IN a_DT database_NN ._.
+Frequent_JJ itemset_NN mining_NN problem_NN has_VBZ a_DT wide_JJ range_NN of_IN applications_NNS including_VBG correlation_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, cluster_NN analysis_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: and_CC associative_JJ classification_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+Sequential_JJ pattern_NN mining_NN is_VBZ another_DT important_JJ problem_NN in_IN data_NN mining_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Its_PRP$ objective_NN is_VBZ to_TO discover_VB frequent_JJ subsequences_NNS in_IN a_DT sequence_NN database_NN ._.
+Let_VB I_PRP =_JJ -LCB-_-LRB- i1_NN ,_,

@@ -1,0 +1,3 @@
+el_NN of_IN terminological_JJ variation_NN for_IN each_DT ontology_JJ individual_NN --_: that_DT is_VBZ ,_, given_VBN a_DT single_JJ ontology_NN individual_NN -LRB-_-LRB- e.g._FW ,_, an_DT actor_NN -RRB-_-RRB- ,_, how_WRB many_JJ variations_NNS of_IN its_PRP$ name_NN are_VBP found_VBN in_IN the_DT corpus_NN -LRB-_-LRB- Bilenko_NN and_CC Mooney_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: used_VBD a_DT similar_JJ method_NN in_IN a_DT different_JJ setting_NN -RRB-_-RRB- ._.
+To_TO identify_VB variations_NNS in_IN the_DT text_NN ,_, we_PRP used_VBD the_DT StringMetrics_NNP similarity_NN matching_NN library_NN 4_CD ._.
+We_PRP experimented_VBD with_IN the_DT Levenstein_NNP ,_, Jaro-Winkler_NNP and_CC q-gr_NN

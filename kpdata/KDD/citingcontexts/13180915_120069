@@ -1,0 +1,4 @@
+f_LS features_NNS by_IN the_DT correlation_NN between_IN features_NNS and_CC class_NN label_NN ._.
+The_DT typical_JJ supervised_JJ feature_NN selection_NN methods_NNS include_VBP Pearson_NNP correlation_NN coefficients_NNS -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, Fisher_NNP score_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, and_CC Information_NNP gain_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, in_IN practice_NN ,_, there_EX is_VBZ usually_RB no_DT shortage_NN of_IN unlabeled_JJ data_NNS but_CC labels_NNS are_VBP expensive_JJ ._.
+Hence_RB ,_, it_PRP is_VBZ of_IN great_JJ significance_NN to_TO develop_VB unsupervised_JJ feature_NN selection_NN algorithms_NNS which_WDT can_MD make_VB

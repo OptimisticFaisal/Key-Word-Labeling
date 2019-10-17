@@ -1,0 +1,5 @@
+ources_NNS ,_, D_NN S_NN 1_CD ,_, ..._: ,_, D_NN S_NN hS_NN depicting_VBG the_DT relationships_NNS among_IN samples_NNS ._.
+The_DT representation_NN for_IN the_DT relationships_NNS among_IN genes_NNS and_CC samples_NNS can_MD be_VB heterogenous_JJ ._.
+In_IN the_DT work_NN ,_, we_PRP use_VBP spectral_JJ graph_NN theory_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: as_IN a_DT tool_NN to_TO explore_VB the_DT geometric_JJ structure_NN of_IN a_DT data_NN ._.
+Let_NNP G_NNP denote_VB a_DT graph_NN ,_, its_PRP$ similarity_NN matrix_NN is_VBZ denoted_VBN by_IN W_NN -LRB-_-LRB- i_FW ,_, j_NN -RRB-_-RRB- =_JJ wij_NN ._.
+Let_VB d_NN denote_VB the_DT vector_NN :_: d_NN =_JJ -LCB-_-LRB- d1_NN ,_, d2_NN ,_, ..._: ,_, dn_NN -RCB-_-RRB- ,_, where_WRB di_FW =_JJ ∑_CD n_NN k_NN =_JJ 1_CD wik_NN ,_,

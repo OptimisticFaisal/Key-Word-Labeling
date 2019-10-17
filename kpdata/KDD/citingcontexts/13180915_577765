@@ -1,0 +1,3 @@
+structure_NN of_IN data_NNS ,_, spectral_JJ clustering_NN techniques_NNS -LRB-_-LRB- 8_CD ,_, 22_CD ,_, 26_CD -RRB-_-RRB- received_VBD significant_JJ interests_NNS recently_RB ._.
+The_DT spectral_JJ clustering_NN usually_RB clusters_NNS thedatapointsusingthe_VBP topeigenvectorsof_NN graph_NN Laplacian_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ defined_VBN on_IN the_DT affinity_NN matrix_NN of_IN data_NNS points_NNS ._.
+From_IN the_DT graph_NN partitioning_VBG perspective_NN ,_, spectral_JJ clustering_NN tries_VBZ to_TO find_VB the_DT best_JJS cut_NN of_IN the_DT graph_NN so_IN that_IN the_DT predefined_JJ criterion_NN function_NN

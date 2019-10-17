@@ -1,0 +1,5 @@
+the_DT test_NN set_VBD 18729_CD instances_NNS whose_WP$ class_NN labels_NNS are_VBP not_RB present_JJ in_IN the_DT training_NN set_NN ._.
+†_NN :_: Modified_VBN binary_JJ data_NNS set_VBN of_IN kddcup99data_NN ._.
+ument_NN data_NNS sets_VBZ k1b_NN and_CC la12_NN ,_, for_IN the_DT COG_NN method_NN ,_, we_PRP used_VBD the_DT CLUTO_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: implementation_NN of_IN K-means_NNS on_IN these_DT two_CD data_NNS sets_NNS with_IN cosine_NN similarity_NN as_IN the_DT proximity_NN measure_NN ._.
+Table_NNP 6_CD shows_VBZ the_DT classification_NN results_NNS by_IN pure_JJ SVM_NN and_CC COG_NN ._.
+As_IN can_MD be_VB seen_VBN ,_, for_IN data_NN set_NN k1b_NN ,_, the_DT F_NN

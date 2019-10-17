@@ -1,0 +1,4 @@
+walk_NN is_VBZ performed_VBN by_IN making_VBG at_IN each_DT point_NN a_DT step_NN forwards_RB immediately_RB followed_VBN by_IN a_DT step_NN backwards_RB in_IN the_DT Markov_NNP chains_NNS ._.
+Additional_JJ refinements_NNS to_TO the_DT HITS_NN algorithm_NN are_VBP introduced_VBN by_IN Borodin_NNP et_FW al._FW =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Apart_RB from_IN the_DT pure_JJ link_NN analysis_NN methods_NNS described_VBN above_RB ,_, there_EX have_VBP been_VBN efforts_NNS for_IN the_DT effective_JJ combination_NN of_IN content_NN and_CC link-based_JJ evidence_NN ._.
+Bharat_NN and_CC Henzinger_NN refine_VBP HITS_NN by_IN incorporating_VBG

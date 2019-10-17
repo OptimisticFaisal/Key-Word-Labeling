@@ -1,0 +1,3 @@
+bations_NNS of_IN the_DT feature_NN vectors_NNS ,_, thereby_RB providing_VBG a_DT hedge_NN against_IN overfitting_NN ._.
+The_DT superior_JJ generalization_NN abilities_NNS of_IN SVMs_NNS have_VBP been_VBN borne_VBN out_RP by_IN both_CC theoretical_JJ studies_NNS and_CC experimental_JJ successes_NNS =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT decision_NN rule_NN in_IN SVMs_NNS is_VBZ expressed_VBN in_IN terms_NNS of_IN a_DT kernel_NN function_NN K_NN -LRB-_-LRB- x_NN ,_, x_NN ′_NN -RRB-_-RRB- that_WDT computes_VBZ the_DT similarity_NN between_IN two_CD feature_NN vectors_NNS and_CC non-negative_JJ coefficients_NNS -LCB-_-LRB- αi_FW -RCB-_-RRB- n_NN i_LS =_JJ 1_CD that_WDT indicate_VBP which_WDT t_NN

@@ -1,0 +1,4 @@
+ative_JJ record_NN similarity_NN that_WDT leads_VBZ to_TO poor_JJ accuracy_NN in_IN the_DT duplicate_VBP detection_NN process_NN ._.
+5_CD ._.
+RELATED_NNS WORK_VBP The_DT problem_NN of_IN identifying_VBG duplicate_VB records_NNS in_IN databases_NNS was_VBD originally_RB identified_VBN by_IN Newcombe_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: as_IN record_NN linkage_NN in_IN the_DT context_NN of_IN identifying_VBG medical_JJ records_NNS of_IN the_DT same_JJ individual_NN from_IN different_JJ time_NN periods_NNS ._.
+Fellegi_NNP and_CC Sunter_NNP -LRB-_-LRB- 7_CD -RRB-_-RRB- developed_VBD a_DT formal_JJ theory_NN for_IN record_NN linkage_NN and_CC offered_VBN sta_NN

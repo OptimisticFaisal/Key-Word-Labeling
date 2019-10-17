@@ -1,0 +1,5 @@
+n_NN Y_NN ._.
+A_DT closed_JJ itemset_NN is_VBZ also_RB called_VBN a_DT concept_NN ._.
+The_DT set_NN of_IN all_DT closed_VBN frequent_JJ itemsets_NNS can_MD be_VB orders_NNS of_IN magnitude_NN smaller_JJR than_IN the_DT set_NN of_IN all_DT frequent_JJ itemsets_NNS ,_, especially_RB for_IN real_JJ -LRB-_-LRB- dense_JJ -RRB-_-RRB- datasets_VBZ =_JJ -_: =[_NN 20_CD -RRB-_-RRB- ._.
+-_: =_SYM -_: At_IN the_DT same_JJ time_NN ,_, we_PRP do_VBP n't_RB loose_VB any_DT information_NN ;_: the_DT closed_VBN itemsets_NNS uniquely_RB determine_VBP the_DT set_NN of_IN all_DT frequent_JJ itemsets_NNS and_CC their_PRP$ exact_JJ frequency_NN ._.
+Thus_RB instead_RB of_IN mining_NN all_PDT the_DT frequent_JJ itemsets_NNS

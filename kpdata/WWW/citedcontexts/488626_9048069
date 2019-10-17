@@ -1,0 +1,4 @@
+match_NN only_RB would_MD drastically_RB limit_VB its_PRP$ coverage_NN ,_, making_VBG the_DT results_NNS not_RB comparable_JJ to_TO those_DT of_IN Onyx_NNP ._.
+In_IN Section_NN 4.4_CD we_PRP also_RB compare_VBP Onyx_NNP performance_NN to_TO that_DT of_IN the_DT log-based_JJ query_NN substitution_NN system_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: as_IN another_DT baseline_NN ._.
+Figure_NN 3_CD shows_VBZ the_DT standard_JJ precision-recall_JJ tradeoff_NN curve_NN for_IN Onyx_NNP setting_VBG 1_CD ._.
+In_IN the_DT case_NN of_IN sponsored_VBN advertising_NN ,_, this_DT curve_NN is_VBZ of_IN particular_JJ importance_NN for_IN the_DT following_JJ rea_NN

@@ -1,0 +1,3 @@
+ion_NN in_IN function_NN space_NN -LRB-_-LRB- 13_CD ,_, 16_CD -RRB-_-RRB- ._.
+Depending_VBG on_IN the_DT measure_NN of_IN quality_NN of_IN the_DT classifier_NN ,_, di_FW #erent_FW criteria_NNS are_VBP produced_VBN for_IN choosing_VBG the_DT base_NN classifier_NN and_CC assigning_VBG the_DT step-size_NN ._.
+D'Alche-Buc_NN et_FW al._FW ,_, =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: showed_VBD that_IN these_DT error_NN measures_NNS can_MD be_VB extended_VBN to_TO semi-supervised_JJ learning_NN ,_, but_CC the_DT resulting_VBG algorithm_NN ,_, SSMBoost_NN ,_, is_VBZ of_IN limited_JJ utility_NN because_IN it_PRP requires_VBZ the_DT base_NN learner_NN to_TO be_VB a_DT semi-supervised_JJ

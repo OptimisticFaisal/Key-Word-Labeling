@@ -1,0 +1,5 @@
+t_NN ,_, outliers_NNS and_CC non-outliers_NNS ._.
+Because_IN we_PRP discuss_VBP outlier_NN factor_NN in_IN this_DT paper_NN ,_, we_PRP only_RB concentrate_VBP on_IN the_DT latter_JJ ._.
+Spatial_JJ statistic_NN -LRB-_-LRB- SS_NN -RRB-_-RRB- and_CC scatter_NN plot_NN -LRB-_-LRB- SP_NN -RRB-_-RRB- are_VBP two_CD commonly_RB used_VBN quantitative_JJ tests_NNS =_JJ -_: =[_NN 5_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT original_JJ forms_NNS of_IN these_DT two_CD tests_NNS assign_VBP each_DT site_NN to_TO one_CD of_IN two_CD sets_NNS ,_, outliers_NNS and_CC non-outliers_NNS ,_, with_IN a_DT threshold_NN determined_VBN by_IN the_DT user_NN ._.
+In_IN a_DT straightforward_JJ way_NN ,_, we_PRP generalize_VBP them_PRP to_TO output_NN

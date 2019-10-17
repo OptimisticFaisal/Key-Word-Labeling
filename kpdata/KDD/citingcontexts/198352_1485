@@ -1,0 +1,4 @@
+t._FW In_FW their_PRP$ paper_NN on_IN arithmetic_NN sampling_NN ,_, John_NNP and_CC Langley_NNP -LRB-_-LRB- 8_CD -RRB-_-RRB- model_NN the_DT learning_VBG curve_NN as_IN sampling_NN progresses_VBZ ._.
+They_PRP determine_VBP convergence_NN using_VBG a_DT stopping_VBG criterion_NN modeled_VBD after_IN the_DT work_NN of_IN Valiant_NNP =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Specifically_RB ,_, convergence_NN is_VBZ reached_VBN when_WRB P_NN r_NN -LRB-_-LRB- -LRB-_-LRB- acc_NN -LRB-_-LRB- N_NN -RRB-_-RRB- \_FW Gamma_FW acc_NN -LRB-_-LRB- n_NN i_LS -RRB-_-RRB- -RRB-_-RRB- ?_.
+ffl_NN -RRB-_-RRB- sffi_NN ,_, where_WRB acc_NN -LRB-_-LRB- x_NN -RRB-_-RRB- is_VBZ the_DT accuracy_NN of_IN the_DT model_NN that_IN an_DT algorithm_NN produces_VBZ after_IN seeing_VBG x_NN instances_NNS ,_, ffl_NN refers_VBZ to_TO the_DT m_NN

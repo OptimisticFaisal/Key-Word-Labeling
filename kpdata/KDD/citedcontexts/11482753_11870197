@@ -1,0 +1,4 @@
+rn_IN a_DT set_NN of_IN common_JJ transfer_NN components_NNS across_IN domains_NNS for_IN reducing_VBG the_DT distribution_NN gap_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Compared_VBN to_TO MMDE_NNP ,_, TCA_NNP is_VBZ much_RB more_RBR efficient_JJ and_CC can_MD be_VB generalized_VBN to_TO out-of-sample_JJ patterns_NNS ._.
+Chen_NNP et_FW al._FW =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: also_RB developed_VBD an_DT algorithm_NN that_WDT incorporates_VBZ the_DT MMD_NNP criterion_NN into_IN the_DT Empirical_JJ Risk_NN Minimization_NN -LRB-_-LRB- ERM_NN -RRB-_-RRB- framework_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+It_PRP tries_VBZ to_TO learn_VB the_DT linear_JJ feature_NN subspace_NN where_WRB the_DT distribution_NN gap_NN and_CC

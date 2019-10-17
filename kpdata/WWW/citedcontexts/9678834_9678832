@@ -1,0 +1,4 @@
+erchants_NNS alike_RB ,_, it_PRP has_VBZ complicated_VBN the_DT task_NN of_IN tracking_VBG and_CC predicting_VBG customers_NNS '_POS preferences_NNS ._.
+To_TO cope_VB with_IN this_DT problem_NN ,_, various_JJ recommendation_NN systems_NNS have_VBP been_VBN developed_VBN over_IN the_DT years_NNS -LRB-_-LRB- see_VB ,_, e.g._FW ,_, =_JJ -_: =[_NN 16_CD ,_, 33_CD ,_, 10_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Roughly_RB speaking_VBG ,_, those_DT systems_NNS maintain_VBP a_DT matrix_NN of_IN preferences_NNS ,_, where_WRB the_DT rows_NNS correspond_VBP to_TO users_NNS and_CC columns_NNS correspond_VBP to_TO items_NNS ._.
+When_WRB an_DT user_NN purchases_NNS or_CC browses_VBZ a_DT subset_NN of_IN the_DT items_NNS ,_, she_PRP ca_MD

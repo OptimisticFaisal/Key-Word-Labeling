@@ -1,0 +1,5 @@
+databases_NNS -LRB-_-LRB- AIS93_NN ,_, AS94_NN ,_, SA95_NN ,_, HF95_NN -RRB-_-RRB- ._.
+However_RB ,_, association_NN rules_NNS neither_RB address_VBP the_DT economic_JJ value_NN of_IN transactions_NNS nor_CC produce_VBP a_DT global_JJ action_NN plan_NN for_IN decision_NN making_NN ._.
+The_DT cost-sensitive_JJ classification_NN =_JJ -_: =_JJ -LRB-_-LRB- P99_NN -RRB-_-RRB- -_: =_SYM -_: assumes_VBZ an_DT error_NN metric_NN of_IN misclassification_NN and_CC minimizes_VBZ the_DT error_NN on_IN new_JJ cases_NNS ._.
+No_DT such_JJ error_NN metric_NN is_VBZ given_VBN in_IN profit_NN mining_NN ._.
+Rather_RB ,_, we_PRP assume_VBP that_IN customers_NNS spend_VBP some_DT money_NN on_IN recommended_JJ ite_NN

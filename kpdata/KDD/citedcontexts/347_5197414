@@ -1,0 +1,4 @@
+._.
+The_DT objective_NN of_IN association_NN rule_NN mining_NN is_VBZ to_TO find_VB patterns_NNS or_CC correlations_NNS among_IN the_DT sets_NNS -LRB-_-LRB- or_CC transactions_NNS -RRB-_-RRB- between_IN the_DT data_NNS attributes_NNS ._.
+In_IN the_DT last_JJ decade_NN a_DT lot_NN of_IN algorithms_NNS have_VBP been_VBN developed_VBN =_JJ -_: =[_NN 1,2,3,5,9,10,15,18,19,20,21,22,23,24,26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Association_NN rule_NN mining_NN can_MD be_VB formulated_VBN as_IN :_: given_VBN a_DT set_NN of_IN transaction_NN D_NN ,_, the_DT problem_NN of_IN mining_NN association_NN rules_NNS is_VBZ to_TO generate_VB all_DT associations_NNS that_WDT meet_VBP certain_JJ user-specific_JJ minimum_JJ support_NN an_DT

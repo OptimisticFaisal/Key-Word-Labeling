@@ -1,0 +1,5 @@
+5_CD run_NN time_NN is_VBZ often_RB claimed_VBN to_TO be_VB linear_JJ in_IN the_DT number_NN of_IN instances_NNS ,_, for_IN non-numeric_JJ data_NNS sets_NNS ._.
+This_DT claim_NN is_VBZ based_VBN on_IN an_DT analysis_NN by_IN Utgoff_NNP ,_, where_WRB he_PRP shows_VBZ the_DT asymptotic_JJ time_NN complexity_NN to_TO be_VB O_NN -LRB-_-LRB- n_NN -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Utgoff_NNP ,_, 1989_CD -_: =--RRB-_NN ._.
+With_IN numeric_JJ data_NNS ,_, sorting_NN adds_VBZ a_DT log_NN n_NN term_NN at_IN each_DT node_NN ._.
+However_RB ,_, C4_NN .5_NN has_VBZ been_VBN observed_VBN to_TO be_VB worse_JJR than_IN O_NN -LRB-_-LRB- n_NN 2_CD -RRB-_-RRB- -LRB-_-LRB- Catlett_NNP ,_, 1991a_CD -RRB-_-RRB- ._.
+One_CD explanation_NN for_IN the_DT discrepancy_NN is_VBZ that_IN Utgoff_NNP actually_RB sho_VBP

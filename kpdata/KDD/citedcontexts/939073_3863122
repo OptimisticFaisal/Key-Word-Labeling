@@ -1,0 +1,4 @@
+le_FW to_TO build_VB more_RBR accurate_JJ classifiers_NNS ._.
+Several_JJ publications_NNS have_VBP shown_VBN that_IN associative_JJ classification_NN is_VBZ intuitive_JJ and_CC effective_JJ in_IN many_JJ cases_NNS -LRB-_-LRB- Dong_NNP et_FW al._FW ,_, 1999_CD ,_, Liu_NNP et_FW al._FW ,_, 1998_CD ,_, Liu_NNP et_FW al._FW ,_, 2001_CD ,_, =_JJ -_: =_JJ Wang_NNP and_CC Zhou_NNP ,_, 2000_CD -_: =_JJ -_: and_CC Yin_NNP and_CC Han_NNP ,_, 2003_CD -RRB-_-RRB- ._.
+Normally_RB ,_, association_NN rules_NNS search_VBP globally_RB for_IN all_DT rules_NNS that_WDT satisfy_VBP minimum_JJ support_NN and_CC minimum_NN confidence_NN thresholds_NNS ._.
+The_DT richness_NN of_IN the_DT rules_NNS gives_VBZ this_DT technique_NN the_DT po_NN

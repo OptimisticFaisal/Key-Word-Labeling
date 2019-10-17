@@ -1,0 +1,4 @@
+detection_NN in_IN the_DT web_NN ,_, which_WDT is_VBZ an_DT extremely_RB important_JJ task_NN ._.
+These_DT algorithms_NNS can_MD be_VB roughly_RB divided_VBN into_IN two_CD classes_NNS :_: content-based_JJ methods_NNS ,_, and_CC graph_NN based_JJ approaches_NNS ._.
+The_DT content-based_JJ approaches_NNS -LRB-_-LRB- =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =--RRB-_NN focus_NN on_IN the_DT content_NN of_IN the_DT webpage_NN ,_, e.g._FW number_NN of_IN words_NNS in_IN the_DT page_NN and_CC page_NN title_NN ,_, amount_NN of_IN anchor_NN text_NN ,_, fraction_NN of_IN visible_JJ content_JJ etc._NN to_TO separate_VB a_DT spam-page_NN from_IN a_DT non-spam_JJ page_NN ._.
+Graph-base_NN

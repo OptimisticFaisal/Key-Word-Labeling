@@ -1,0 +1,4 @@
+Conference_NN on_IN Machine_NNP Learning_NNP ,_, Montreal_NNP ,_, Canada_NNP ,_, 2009_CD ._.
+Copyright_NN 2009_CD by_IN the_DT author_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- \/_: owner_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- ._.
+nant_JJ Analysis_NNP -LRB-_-LRB- LDA_NNP -RRB-_-RRB- ,_, and_CC Hypergraph_NNP Spectral_NNP Learning_NNP -LRB-_-LRB- HSL_NN -RRB-_-RRB- -LRB-_-LRB- Hotelling_NNP ,_, 1936_CD ;_: Rosipal_NNP &_CC Krämer_NNP ,_, 2006_CD ;_: =_JJ -_: =_JJ Sun_NNP et_FW al._FW ,_, 2008_CD -_: =_SYM -_: a_DT ;_: Tao_NNP et_FW al._FW ,_, 2009_CD ;_: Ye_NNP ,_, 2007_CD -RRB-_-RRB- ._.
+Although_IN well-established_JJ algorithms_NNS in_IN numerical_JJ linear_JJ algebra_NN have_VBP been_VBN developed_VBN to_TO solve_VB generalized_JJ eigenvalue_NN problems_NNS ,_, they_PRP are_VBP in_IN general_JJ computationally_RB expen_JJ

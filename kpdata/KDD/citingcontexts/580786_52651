@@ -1,0 +1,4 @@
+only_RB SVM_NNP linear_JJ kernels_NNS in_IN the_DT experiments_NNS with_IN real_JJ queries_NNS ._.
+Linear_JJ functions_NNS are_VBP simple_JJ ,_, yet_RB often_RB expressive_JJ enough_RB ,_, and_CC thus_RB have_VBP been_VBN used_VBN as_IN a_DT popular_JJ model_NN for_IN rank_NN -LRB-_-LRB- or_CC top-k_NN -RRB-_-RRB- query_NN processing_NN =_JJ -_: =[_NN 2_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, deploying_VBG nonlinear_JJ functions_NNS might_MD be_VB necessary_JJ to_TO deal_VB with_IN complex_JJ preferences_NNS that_WDT are_VBP not_RB rankable_JJ by_IN linear_JJ functions_NNS ._.
+Nonlinear_JJ ranking_JJ functions_NNS can_MD be_VB learned_VBN directly_RB using_VBG SVM_NNP no_DT

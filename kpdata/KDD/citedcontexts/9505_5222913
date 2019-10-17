@@ -1,0 +1,4 @@
+7_CD -RRB-_-RRB- ,_, numerical_JJ clustering_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC information_NN retrieval_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- ._.
+Due_JJ to_TO the_DT lack_NN of_IN intuitive_JJ distance_NN definition_NN for_IN categorical_JJ values_NNS ,_, recently_RB entropy_NN has_VBZ been_VBN applied_VBN in_IN clustering_NN categorical_JJ data_NN =_JJ -_: =[_NN 4_CD ,_, 25_CD ,_, 9_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT initial_JJ results_NNS have_VBP shown_VBN that_IN the_DT entropy_NN criterion_NN can_MD be_VB very_RB effective_JJ in_IN clustering_VBG categorical_JJ data_NNS ._.
+Paper_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- also_RB proves_VBZ that_IN the_DT entropy_NN criterion_NN can_MD be_VB formally_RB derived_VBN in_IN the_DT frame_NN

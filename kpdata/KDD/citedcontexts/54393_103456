@@ -1,0 +1,5 @@
+ure_NN related_JJ to_TO this_DT work_NN is_VBZ the_DT privacy_NN preserving_NN data_NNS mining_NN ._.
+In_IN general_JJ ,_, there_EX are_VBP two_CD different_JJ approaches_NNS :_: one_CD is_VBZ to_TO use_VB data_NNS distortion_NN approach_NN ,_, in_IN which_WDT data_NNS are_VBP disguised_VBN by_IN the_DT added_VBN noises_NNS =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 13_CD ,_, 14_CD ,_, 22_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Another_DT general_JJ approach_NN is_VBZ the_DT secure_JJ multi-party_JJ computation_NN approach_NN -LRB-_-LRB- 7,12,18,21,25_CD -RRB-_-RRB- ._.
+The_DT advantage_NN of_IN the_DT first_JJ approach_NN is_VBZ its_PRP$ performance_NN ,_, but_CC it_PRP achieves_VBZ this_DT at_IN the_DT cost_NN of_IN accuracy_NN ._.
+On_IN the_DT

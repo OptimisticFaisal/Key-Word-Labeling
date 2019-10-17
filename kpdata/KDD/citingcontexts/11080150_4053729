@@ -1,0 +1,4 @@
+ethod_NN is_VBZ a_DT variational_JJ equivalent_NN to_TO inference_NN method_NN Gibbs3_NN ,_, being_VBG appropriate_JJ for_IN parallelized_NN ,_, streaming_NN environments_NNS ._.
+More_RBR complicated_JJ variational_JJ distributions_NNS have_VBP been_VBN shown_VBN to_TO have_VB lower_JJR bias_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC are_VBP generally_RB more_RBR computationally_RB intensive_JJ per_IN iteration_NN than_IN the_DT simple_NN fully_RB factored_JJ variational_JJ distribution_NN ._.
+5_CD ._.
+CLASSIFICATION-BASED_NNP INFERENCE_NNP The_DT previous_JJ inference_NN methods_NNS theoretically_RB

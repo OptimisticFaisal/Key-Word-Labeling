@@ -1,0 +1,4 @@
+shortest_JJS time_NN series_NN object_NN in_IN the_DT dataset_NN ,_, the_DT number_NN of_IN shapelet_JJ candidates_NNS is_VBZ linear_JJ in_IN k_NN ,_, and_CC quadratic_JJ in_IN m_NN ,_, the_DT average_JJ length_NN of_IN time_NN series_NN objects_NNS ._.
+For_IN example_NN ,_, the_DT well-known_JJ Trace_NNP dataset_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ 200_CD instances_NNS ,_, each_DT of_IN length_NN 275_CD ._.
+If_IN we_PRP set_VBP MINLEN_NN =_JJ 3_CD ,_, MAXLEN_NN =_JJ 275_CD ,_, there_EX will_MD be_VB 7,480,200_CD shapelet_JJ candidates_NNS ._.
+For_IN each_DT of_IN these_DT candidates_NNS ,_, we_PRP need_VBP to_TO find_VB its_PRP$ nearest_JJS neighbor_NN within_IN the_DT k_NN tim_NN

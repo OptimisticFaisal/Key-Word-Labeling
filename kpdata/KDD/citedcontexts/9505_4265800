@@ -1,0 +1,3 @@
+section_NN ,_, we_PRP describe_VBP the_DT two_CD steps_NNS of_IN our_PRP$ CWS_NNP framework_NN one_CD by_IN one_CD ._.
+2.1_CD Cube-Clustering_JJ Approach_NN Inspired_VBN by_IN Dhillon_NNP et_FW al._FW 's_POS Co-Clustering_JJ algorithm_NN for_IN clustering_VBG two-dimensional_JJ co-occurrence_NN data_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP put_VBD forward_RB the_DT Cube-Clustering_NNP approach_NN which_WDT clusters_NNS users_NNS ,_, queries_NNS ,_, and_CC Web_NN pages_NNS simultaneously_RB based_VBN on_IN the_DT threedimensional_JJ co-occurrence_NN among_IN them_PRP ._.
+Our_PRP$ Cube-Clustering_JJ algorithm_NN is_VBZ base_NN

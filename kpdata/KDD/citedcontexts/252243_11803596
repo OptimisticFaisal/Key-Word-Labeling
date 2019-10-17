@@ -1,0 +1,6 @@
+extracting_VBG relationships_NNS among_IN events_NNS and_CC blog_NN summarization_NN ._.
+There_EX are_VBP two_CD challenges_NNS of_IN the_DT tracking_NN problem_NN that_IN our_PRP$ methods_NNS address_NN ._.
+The_DT first_JJ is_VBZ regarding_VBG scalability_NN ._.
+Recent_JJ tracking_NN research_NN -LRB-_-LRB- =_JJ -_: =_JJ Mei_NNP and_CC Zhai_NNP ,_, 2005_CD -_: =--RRB-_NN ,_, -LRB-_-LRB- Zhou_NNP et_NNP ._.
+al._FW 2006_CD -RRB-_-RRB- use_VBP variants_NNS of_IN probabilistic_JJ topic_NN models_NNS -LRB-_-LRB- Blei_NNP ,_, Ng_NNP ,_, Jordan_NNP 2003_CD -RRB-_-RRB- to_TO infer_VB intensity_NN of_IN each_DT event_NN or_CC topic_NN ._.
+However_RB ,_, inference_NN algorithms_NNS of_IN topic_NN models_NNS that_WDT are_VBP based_VBN on_IN Gibb_NNP

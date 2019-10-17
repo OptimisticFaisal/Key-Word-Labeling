@@ -1,0 +1,5 @@
+we_PRP provide_VBP experiments_NNS on_IN real_JJ world_NN data_NNS in_IN order_NN to_TO demonstrate_VB that_IN there_EX is_VBZ some_DT semantic_JJ meaning_NN behind_IN the_DT proposed_VBN outlier_NN ranking_NN ._.
+In_IN our_PRP$ first_JJ experiment_NN ,_, we_PRP employ_VBP the_DT caltech_NN 101_CD data_NNS set_VBD =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT data_NNS set_NN consists_VBZ of_IN 101_CD classes_NNS comprising_VBG 8674_CD images_NNS ._.
+For_IN each_DT image_NN the_DT object_NN of_IN interest_NN is_VBZ annotated_JJ by_IN a_DT polygon_NN comprising_VBG its_PRP$ borders_NNS ._.
+Based_VBN on_IN these_DT outline_NN ,_, we_PRP built_VBD a_DT 200_CD dimensiona_NN

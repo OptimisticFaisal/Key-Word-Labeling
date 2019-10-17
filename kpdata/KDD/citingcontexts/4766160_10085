@@ -1,0 +1,5 @@
+cover_NN ._.
+The_DT MCP_NN problem_NN and_CC many_JJ practical_JJ data_NNS mining_NN applications_NNS can_MD be_VB formulated_VBN as_IN MCSC_NN instances_NNS ._.
+Graph_NN coloring_NN heuristics_NNS can_MD be_VB applied_VBN to_TO complementary_JJ graphs_NNS to_TO solve_VB MCP_NN instances_NNS ._.
+DSATUR_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ one_CD of_IN the_DT most_RBS popular_JJ construction_NN heuristics_NNS ._.
+In_IN DSATUR_NNP ,_, a_DT vertex_NN with_IN the_DT largest_JJS number_NN of_IN different_JJ colors_NNS assigned_VBN to_TO adjacent_JJ vertices_NNS is_VBZ chosen_VBN and_CC assigned_VBN with_IN the_DT first_JJ feasible_JJ color_NN ,_,

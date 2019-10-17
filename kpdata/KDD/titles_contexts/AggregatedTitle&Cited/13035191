@@ -1,0 +1,5 @@
+Can_MD we_PRP learn_VB a_DT template-independent_JJ wrapper_NN for_IN news_NN article_NN extraction_NN from_IN a_DT single_JJ training_NN site_NN ?_.
+ied_VBN and_CC their_PRP$ spatial_JJ proximity_NN must_MD be_VB maintained_VBN to_TO ensure_VB a_DT proper_JJ new_JJ layout_NN ._.
+Extracting_VBG informative_JJ content_NN from_IN web_NN article_NN pages_NNS is_VBZ a_DT very_RB challenging_JJ problem_NN and_CC an_DT active_JJ area_NN of_IN research_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =-[_NN 3_CD -RRB-_-RRB- ._.
+Most_JJS existing_VBG methods_NNS only_RB attempt_VBP to_TO identify_VB the_DT approximate_JJ region_NN of_IN the_DT main_JJ body_NN within_IN a_DT web_NN article_NN page_NN ._.
+Pasternack_NNP and_CC Roth_NNP recently_RB presented_VBD a_DT method_NN based_VBN on_IN the_DT maximum_NN subsequence_NN

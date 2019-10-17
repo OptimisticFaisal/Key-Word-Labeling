@@ -1,0 +1,4 @@
+aBoost_NN is_VBZ not_RB efficient_JJ in_IN graph_NN mining_NN ,_, because_IN it_PRP takes_VBZ too_RB many_JJ iterations_NNS to_TO finish_VB ._.
+Thus_RB recent_JJ papers_NNS use_VBP mathematical_JJ programming-based_JJ approaches_NNS such_JJ as_IN linear_JJ programming_NN boosting_VBG -LRB-_-LRB- LPBoost_NN -RRB-_-RRB- =_JJ -_: =[_NN 3_CD ,_, 24_CD -RRB-_-RRB- -_: =_JJ -_: and_CC quadratic_JJ programming_NN boosting_VBG -LRB-_-LRB- QPBoost_NN -RRB-_-RRB- -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Furthermore_RB ,_, to_TO reduce_VB the_DT number_NN of_IN iterations_NNS ,_, several_JJ patterns_NNS are_VBP collected_VBN at_IN the_DT same_JJ time_NN in_IN one_CD iteration_NN by_IN multiple_JJ pricing_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Neverthe_NNP

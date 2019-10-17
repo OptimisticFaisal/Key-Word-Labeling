@@ -1,0 +1,3 @@
+tain_NN temperature_NN sensors_NNS ,_, which_WDT can_MD be_VB accessed_VBN via_IN interfaces_NNS like_IN ACPI_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Meanwhile_RB ,_, recent_JJ studies_NNS have_VBP demonstrated_VBN the_DT feasibility_NN of_IN predicting_VBG the_DT occurrence_NN of_IN faults_NNS in_IN large-scale_JJ systems_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: and_CC of_IN using_VBG these_DT predictions_NNS in_IN system_NN management_NN strategies_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Hence_RB ,_, it_PRP is_VBZ possible_JJ ,_, under_IN current_JJ technology_NN ,_, to_TO act_VB appropriately_RB before_IN a_DT system_NN fault_NN becomes_VBZ catastrophic_JJ to_TO an_DT application_NN ._.

@@ -1,0 +1,4 @@
+can_MD handle_VB a_DT large_JJ set_NN of_IN features_NNS ,_, there_EX are_VBP several_JJ scenarios_NNS in_IN which_WDT only_RB the_DT incremental_JJ methods_NNS can_MD be_VB applied_VBN ,_, such_JJ as_IN structure_NN learning_NN of_IN graphical_JJ models_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC online_JJ feature_NN selection_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Therefore_RB ,_, we_PRP focus_VBP on_IN the_DT incremental_JJ methods_NNS and_CC present_VB a_DT fast_JJ algorithm_NN for_IN selecting_VBG features_NNS and_CC learning_VBG structures_NNS of_IN Markov_NNP random_JJ fields_NNS ._.
+5_CD ._.
+THE_DT GRAFTING-LIGHT_JJ ALGORITHM_NN In_IN this_DT section_NN ,_, w_NN

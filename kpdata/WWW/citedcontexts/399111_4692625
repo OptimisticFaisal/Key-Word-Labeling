@@ -1,0 +1,4 @@
+iscovery_NN techniques_NNS for_IN semantic_JJ relationships_NNS ._.
+For_IN example_NN ,_, dblp_NN :_: co-authorship_NN and_CC foaf_NN :_: knows_VBZ were_VBD used_VBN to_TO detect_VB possible_JJ conflicts_NNS of_IN interest_NN between_IN reviewers_NNS and_CC authors_NNS in_IN a_DT peer-review_JJ process_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT extension_NN on_IN such_JJ work_NN aims_NNS at_IN determining_VBG possible_JJ reviewers_NNS by_IN comparing_VBG their_PRP$ expertise_NN to_TO the_DT topics_NNS of_IN a_DT paper_NN ._.
+The_DT expertise_NN of_IN a_DT person_NN on_IN different_JJ topics_NNS or_CC areas_NNS is_VBZ described_VBN using_VBG the_DT

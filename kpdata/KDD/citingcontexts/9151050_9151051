@@ -1,0 +1,5 @@
+but_CC it_PRP extracts_VBZ only_RB frequent_JJ trees_NNS ,_, not_RB closed_VBN ones_NNS ._.
+Hsieh_NNP et_FW al._FW -LRB-_-LRB- 10_CD -RRB-_-RRB- propose_VBP STMer_NN ,_, an_DT alternative_NN to_TO StreamT_VB to_TO deal_VB with_IN frequent_JJ trees_NNS over_IN data_NNS streams_NNS ,_, but_CC without_IN using_VBG a_DT sliding_VBG window_NN ._.
+In_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Feng_NNP et_FW al._FW present_JJ SOLARIA_NNP \*_NN ,_, a_DT frequent_JJ closed_JJ XML_NN query_NN pattern_NN mining_NN algorithm_NN ,_, but_CC it_PRP is_VBZ not_RB an_DT incremental_JJ method_NN ._.
+Li_NNP ._.
+et_FW al_FW -LRB-_-LRB- 14_CD -RRB-_-RRB- present_JJ Incre-FXQPMiner_NNP ,_, an_DT incremental_JJ mining_NN algorithm_NN of_IN fr_NN

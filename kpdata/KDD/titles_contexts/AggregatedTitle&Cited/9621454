@@ -1,0 +1,18 @@
+Structured_VBN correspondence_NN topic_NN models_NNS for_IN mining_NN captioned_VBD figures_NNS in_IN biological_JJ literature_NN
+ribution_NN of_IN protein_NN entities_NNS Ωk_NN ,_, and_CC a_DT gaussian_JJ distribution_NN over_IN every_DT image_NN feature_NN s_NN ,_, -LRB-_-LRB- µk_NN ,_, s_NN ,_, σk_NN ,_, s_NNS -RRB-_-RRB- ._.
+Given_VBN these_DT topics_NNS ,_, a_DT graphical_JJ model_NN is_VBZ defined_VBN that_WDT generates_VBZ figure_JJ f_FW given_VBN these_DT topics_NNS -LRB-_-LRB- see_VB =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: for_IN a_DT full_JJ description_NN -RRB-_-RRB- ._.
+There_EX are_VBP two_CD main_JJ steps_NNS involved_VBN in_IN building_VBG our_PRP$ topic_NN model_NN :_: inference_NN and_CC learning_NN ._.
+In_IN learning_NN ,_, given_VBN a_DT set_NN of_IN figures_NNS ,_, the_DT goal_NN is_VBZ to_TO learn_VB the_DT set_NN of_IN topics_NNS -LRB-_-LRB- βk_NN ,_, Ωk_NN ,_, -LCB-_-LRB- µ_NN
+lection_NN ._.
+This_DT problem_NN is_VBZ reminiscent_JJ of_IN the_DT actively_RB evolving_VBG field_NN of_IN multimedia_NNS information_NN management_NN and_CC retrieval_NN ._.
+However_RB ,_, structurally-annotated_JJ biological_JJ figures_NNS pose_VBP a_DT set_NN of_IN new_JJ challenges_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+First_RB ,_, figures_NNS can_MD be_VB comprised_VBN of_IN structured_JJ multiple_JJ panels_NNS ._.
+Portions_NNS of_IN the_DT caption_NN are_VBP associated_VBN with_IN a_DT given_VBN panel_NN ,_, while_IN other_JJ portions_NNS of_IN the_DT caption_NN are_VBP shared_VBN across_IN all_PDT the_DT panels_NNS and_CC pro_NN
+ean_JJ parameters_NNS ,_, that_WDT is_VBZ µ_NNP ∼_NNP Unif_NNP ._.
+and_CC a_DT Jeffrey_NNP 's_POS distribution_NN over_IN the_DT values_NNS of_IN the_DT covariance_NN matrices_NNS to_TO penalize_VB large_JJ covariance_NN matrices_NNS :_: P_NN -LRB-_-LRB- Σ_NN -RRB-_-RRB- ∝_FW |_FW Σ_FW |_FW −_FW -LRB-_-LRB- 3\/2_CD -RRB-_-RRB- ._.
+The_DT same_JJ treatment_NN is_VBZ also_RB used_VBN in_IN =_JJ -_: =[_NN 1_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+By_IN imposing_VBG these_DT prior_JJ distributions_NNS ,_, we_PRP can_MD effectively_RB integrate_VB out_RP µ_NN and_CC Σ_NN ,_, resulting_VBG in_IN a_DT collapsed_JJ Gibbs_NNP sampler_NN for_IN locations_NNS ,_, similar_JJ to_TO -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+More_RBR specifically_RB ,_, we_PRP sample_NN r_NN from_IN the_DT followi_NN
+n_NN schemes_NNS ,_, and_CC the_DT presence_NN of_IN various_JJ image_NN annotations_NNS -LRB-_-LRB- free_JJ form_NN text_NN ,_, protein_NN mentions_VBZ ,_, etc._NN -RRB-_-RRB- in_IN the_DT caption_NN with_IN different_JJ frequency_NN profiles_NNS ._.
+Our_PRP$ model_NN ,_, the_DT structured_JJ correspondence_NN topic_NN model_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, addresses_VBZ the_DT aforementioned_JJ challenges_NNS by_IN extending_VBG the_DT correspondence_NN latent_JJ Dirichlet_NNP allocation_NN model_NN that_WDT was_VBD successfully_RB employed_VBN for_IN modeling_NN annotated_JJ images_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+The_DT input_NN to_TO the_DT topic_NN mod_NN

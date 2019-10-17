@@ -1,0 +1,4 @@
+For_IN classification_NN of_IN imbalanced_JJ data_NNS ,_, various_JJ techniques_NNS have_VBP been_VBN used_VBN during_IN the_DT learning_NN of_IN a_DT classifier_NN ._.
+These_DT techniques_NNS include_VBP resizing_VBG training_NN sets_NNS -LRB-_-LRB- 9_CD ,_, 8_CD -RRB-_-RRB- ,_, adjusting_VBG misclassification_NN costs_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, learning_VBG rules_NNS for_IN skewed_JJ data_NNS -LRB-_-LRB- RLSD_NN -RRB-_-RRB- -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, and_CC cost_NN sensitive_JJ boosting_VBG -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+In_IN resizing_VBG training_NN sets_NNS ,_, either_CC the_DT minority_NN class_NN is_VBZ over-sampled_JJ or_CC the_DT majority_NN class_NN is_VBZ under-sampled_JJ ._.
+In_IN both_DT cas_NNS

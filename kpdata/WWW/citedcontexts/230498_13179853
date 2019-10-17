@@ -1,0 +1,4 @@
+f_LS consumer_NN products_NNS ,_, as_RB well_RB as_IN entities_NNS such_JJ as_IN movies_NNS and_CC restaurants_NNS -LRB-_-LRB- 9_CD ,_, 10_CD -RRB-_-RRB- ._.
+As_IN the_DT technology_NN matured_VBD ,_, it_PRP became_VBD possible_JJ to_TO determine_VB a_DT more_RBR fine-grained_JJ rating_NN ,_, indicating_VBG a_DT scale_NN of_IN sentiment_NN =_JJ -_: =[_NN 11_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN completely_RB unstructured_JJ text_NN ,_, such_JJ as_IN that_DT found_VBN in_IN user-generated_JJ content_NN on_IN the_DT Web_NN ,_, it_PRP is_VBZ also_RB useful_JJ to_TO automatically_RB extract_VB information_NN about_IN individual_JJ features_NNS mentioned_VBN in_IN reviews_NNS ._.
+Feat_NN

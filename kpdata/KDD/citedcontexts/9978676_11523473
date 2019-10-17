@@ -1,0 +1,4 @@
+n_NN algorithm_NN that_WDT will_MD allow_VB the_DT discovery_NN of_IN infrequent_JJ patterns_NNS and_CC also_RB patterns_NNS that_WDT are_VBP meaningful_JJ to_TO a_DT human_JJ observer_NN ._.
+To_TO this_DT end_NN ,_, an_DT algorithm_NN such_JJ as_IN IPLOM_NN -LRB-_-LRB- Iterative_JJ Partitioning_NN Log_NN Mining_NN -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: may_MD help_VB ._.
+IPLoM_NN has_VBZ shown_VBN promise_NN and_CC this_DT work_NN extends_VBZ the_DT testing_NN of_IN IPLoM_NN to_TO supercomputers_NNS ._.
+The_DT aim_NN of_IN this_DT work_NN is_VBZ to_TO see_VB how_WRB well_RB IPLOM_NNP scales_NNS to_TO large_JJ and_CC probably_RB more_RBR complex_JJ data_NN sets_NNS like_IN

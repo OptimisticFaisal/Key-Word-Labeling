@@ -1,0 +1,3 @@
+Time_NN Warping_NN -LRB-_-LRB- DTW_NN -RRB-_-RRB- because_IN a_DT recent_JJ extensive_JJ comparison_NN of_IN dozens_NNS of_IN time_NN series_NN classification_NN algorithms_NNS ,_, on_IN dozens_NNS of_IN datasets_NNS ,_, strongly_RB suggests_VBZ that_IN 1-NN_NNP DTW_NNP is_VBZ exceptionally_RB difficult_JJ to_TO beat_VB =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Note_VB that_IN the_DT 1-NN_JJ classifier_NN using_VBG DTW_NN is_VBZ less_RBR amenable_JJ for_IN realtime_NN classification_NN of_IN time_NN series_NN since_IN it_PRP requires_VBZ an_DT O_NN -LRB-_-LRB- m_NN 2_CD -RRB-_-RRB- distance_NN measure_NN to_TO be_VB computed_VBN for_IN every_DT instance_NN in_IN the_DT dataset_NN ._.
+In_IN

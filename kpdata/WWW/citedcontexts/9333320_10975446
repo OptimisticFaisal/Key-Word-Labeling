@@ -1,0 +1,4 @@
+ata-cleaning_JJ problem_NN is_VBZ coreference_NN ,_, which_WDT is_VBZ the_DT tasks_NNS of_IN clustering_NN mentions\/records_NNS into_IN real-world_JJ entities_NNS ._.
+Their_PRP$ are_VBP many_JJ variations_NNS of_IN the_DT coreference_NN task_NN ,_, including_VBG web-people_JJ disambiguation_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, anaphora_NN resolution_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, author_NN disambiguation_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, and_CC citation_NN matching_NN ._.
+In_IN this_DT paper_NN we_PRP focus_VBP primarily_RB on_IN the_DT anaphora_NN resolution_NN and_CC citation_NN matching_NN tasks_NNS ._.
+However_RB ,_, we_PRP discuss_VBP relevant_JJ wor_NN

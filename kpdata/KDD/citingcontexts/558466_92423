@@ -1,0 +1,4 @@
+n_NN is_VBZ one_CD of_IN the_DT major_JJ tasks_NNS of_IN data_NN mining_NN ._.
+The_DT goal_NN of_IN classification_NN is_VBZ to_TO assign_VB a_DT new_JJ object_NN to_TO a_DT class_NN from_IN a_DT given_VBN set_NN of_IN classes_NNS based_VBN on_IN the_DT attribute_NN values_NNS of_IN this_DT object_NN ._.
+Different_JJ methods_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN proposed_VBN for_IN the_DT task_NN of_IN classification_NN ,_, for_IN instance_NN decision_NN tree_NN classifiers_NNS which_WDT have_VBP become_VBN very_RB popular_JJ ._.
+Decision_NN tree_NN classifiers_NNS are_VBP primarily_RB aimed_VBN at_IN attributes_NNS with_IN a_DT categorica_NN

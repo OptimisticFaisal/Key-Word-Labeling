@@ -1,0 +1,5 @@
+mpute_VB the_DT likelihood_NN of_IN accessing_VBG a_DT given_VBN file_NN ._.
+Such_JJ computation_NN can_MD be_VB done_VBN by_IN employing_VBG Markovian_JJ models_NNS -LRB-_-LRB- 20_CD -RRB-_-RRB- -LRB-_-LRB- 35_CD -RRB-_-RRB- -LRB-_-LRB- 41_CD -RRB-_-RRB- -LRB-_-LRB- 36_CD -RRB-_-RRB- ._.
+Other_JJ works_NNS rely_VBP on_IN data_NNS mining_NN for_IN prediction_NN of_IN popular_JJ documents_NNS -LRB-_-LRB- 38_CD -RRB-_-RRB- =_JJ -_: =[_NN 48_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 29_CD -RRB-_-RRB- -LRB-_-LRB- 34_CD -RRB-_-RRB- ._.
+Numerous_JJ tools_NNS and_CC products_NNS that_WDT support_VBP Web_NN prefetching_NN have_VBP been_VBN developed_VBN -LRB-_-LRB- 1_LS -RRB-_-RRB- --_: -LRB-_-LRB- 4_LS -RRB-_-RRB- ,_, -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Wcol_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- prefetches_VBZ embedded_JJ hyperlinks_NNS and_CC images_NNS ,_, with_IN a_DT configurable_JJ maximum_NN n_NN

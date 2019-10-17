@@ -1,0 +1,4 @@
+arious_JJ means_NNS to_TO detect_VB web_NN objects_NNS ._.
+In_IN the_DT productive_JJ system_NN ,_, XPath_NN 2_CD and_CC regular_JJ expressions_NNS are_VBP supported_VBN ._.
+In_IN research_NN prototypes_NNS ,_, web_NN objects_NNS can_MD also_RB be_VB identified_VBN based_VBN on_IN their_PRP$ visual_JJ rendition_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Further_JJ predicates_NNS can_MD be_VB used_VBN in_IN an_DT Elog_NN rule_NN to_TO support_VB semantic_JJ concepts_NNS ,_, for_IN instance_NN to_TO express_VB that_IN a_DT value_NN x_NN is_VBZ extracted_VBN only_RB if_IN also_RB the_DT ``_`` isCity_NN -LRB-_-LRB- X_NN -RRB-_-RRB- ''_'' predicate_NN holds_VBZ true_JJ for_IN this_DT value_NN ,_, and_CC

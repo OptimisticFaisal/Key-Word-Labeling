@@ -1,0 +1,3 @@
+lower_JJR RMSE_NN value_NN means_VBZ better_JJR results_NNS ._.
+We_PRP note_VBP that_IN even_RB a_DT small_JJ improvement_NN in_IN the_DT RMSE_NN value_NN -LRB-_-LRB- e.g._FW ,_, ∼_CD 0.01_CD -RRB-_-RRB- translates_VBZ to_TO a_DT significant_JJ improvement_NN in_IN the_DT quality_NN of_IN the_DT top-k_NN recommended_VBD products_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Recall_VB ,_, from_IN the_DT Introduction_NN ,_, that_IN our_PRP$ aim_NN here_RB is_VBZ not_RB to_TO invent_VB yet_RB another_DT CF_NN algorithm_NN ,_, but_CC rather_RB to_TO present_VB a_DT generic_JJ technique_NN that_WDT allows_VBZ one_CD to_TO better_RB exploit_VB existing_VBG CF_NN algorithms_NNS in_IN a_DT di_FW

@@ -1,0 +1,4 @@
+sed_VBN by_IN a_DT typo_NN or_CC an_DT abbreviation_NN ._.
+Therefore_RB ,_, adapting_VBG string_NN edit_NN distance_NN to_TO a_DT particular_JJ domain_NN requires_VBZ assigning_VBG different_JJ weights_NNS to_TO different_JJ edit_NN operations_NNS ._.
+In_IN prior_JJ work_NN ,_, Ristad_NN and_CC Yianilos_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP developed_VBN a_DT generative_JJ model_NN for_IN Levenshtein_NNP distance_NN along_IN with_IN an_DT ExpectationMaximization_NN algorithm_NN that_WDT learns_VBZ model_NN parameters_NNS using_VBG a_DT training_NN set_NN consisting_VBG of_IN matched_JJ strings_NNS ._.
+We_PRP propose_VBP

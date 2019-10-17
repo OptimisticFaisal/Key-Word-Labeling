@@ -1,0 +1,4 @@
+data_NNS objects_NNS ._.
+For_IN example_NN ,_, Raghavan_NNP and_CC Sever_NNP -LRB-_-LRB- 18_CD -RRB-_-RRB- tried_VBD to_TO measure_VB the_DT similarity_NN of_IN two_CD queries_NNS by_IN calculating_VBG the_DT similarity_NN relationship_NN of_IN their_PRP$ corresponding_JJ search_NN lists_NNS ._.
+Beeferman_NNP and_CC Berger_NNP =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: clustered_VBN queries_NNS using_VBG the_DT similarity_NN of_IN their_PRP$ clicked_VBN web_NN pages_NNS and_CC cluster_NN web_NN pages_NNS using_VBG the_DT similarity_NN of_IN the_DT queries_NNS that_WDT lead_VBP to_TO the_DT selection_NN of_IN the_DT web_NN pages_NNS ._.
+Wen_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- and_CC Su_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- calculate_VBP

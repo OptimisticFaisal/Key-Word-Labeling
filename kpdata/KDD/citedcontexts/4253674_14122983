@@ -1,0 +1,4 @@
+aluate_VB a_DT large_JJ number_NN of_IN candidates_NNS ._.
+However_RB ,_, many_JJ of_IN those_DT re-evaluations_NNS are_VBP unnecessary_JJ ,_, since_IN the_DT incremental_JJ coverage_NN of_IN a_DT chain_NN can_MD only_RB decrease_VB as_IN our_PRP$ map_NN grows_VBZ larger_JJR ._.
+Therefore_RB ,_, we_PRP use_VBP CELF_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT provides_VBZ the_DT same_JJ approximation_NN guarantees_NNS ,_, but_CC uses_VBZ lazy_JJ evaluations_NNS ,_, often_RB leading_VBG to_TO dramatic_JJ speedups_NNS ._.
+3.3_CD Increasing_VBG connectivity_NN We_PRP now_RB know_VBP how_WRB to_TO find_VB a_DT high-coverage_JJ ,_, coherent_JJ map_NN M0_NN ._.

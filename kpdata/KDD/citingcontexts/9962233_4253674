@@ -1,0 +1,5 @@
+alue_NN ._.
+Thus_RB ,_, a_DT simple_JJ greedy_JJ optimization_NN can_MD provide_VB us_PRP with_IN a_DT near-optimal_JJ solution_NN ._.
+However_RB ,_, since_IN our_PRP$ set_NN of_IN posts_NNS is_VBZ very_RB large_JJ ,_, a_DT naïve_JJ greedy_JJ approach_NN can_MD be_VB too_RB costly_JJ ._.
+Therefore_RB ,_, we_PRP use_VBP CELF_NN -LRB-_-LRB- =_JJ -_: =_JJ Leskovec_NNP et_FW al._FW ,_, 2007_CD -_: =--RRB-_NN ,_, which_WDT provides_VBZ the_DT same_JJ approximation_NN guarantees_NNS ,_, but_CC uses_VBZ lazy_JJ evaluations_NNS ,_, often_RB leading_VBG to_TO dramatic_JJ speedups_NNS ._.
+3_CD Personalization_NN Thus_RB far_RB ,_, we_PRP have_VBP defined_VBN a_DT global_JJ notion_NN of_IN coverage_NN for_IN the_DT blog_NN

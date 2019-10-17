@@ -1,0 +1,6 @@
+the_DT first_JJ place_NN ._.
+Geometric_JJ sampling_NN was_VBD proposed_VBN as_IN an_DT improved_JJ sampling_NN mechanism_NN ._.
+It_PRP uses_VBZ the_DT following_JJ schedule_NN :_: Sgeom_NN =_JJ a_FW i_FW ·_NN n0_NN =_JJ -LCB-_-LRB- n0_NN ,_, a_DT ·_FW n0_FW ,_, a_DT 2_CD ·_FW n0_FW ,_, a_DT 3_CD ·_NN n0_NN ,_, ..._: -RCB-_-RRB- where_WRB a_DT and_CC n0_NN are_VBP constants_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN instance_NN :_: -LCB-_-LRB- 100_CD ,_, 200_CD ,_, 400_CD ,_, 800_CD ,_, ..._: -RCB-_-RRB- ._.
+Although_IN a_DT ,_, which_WDT we_PRP will_MD call_VB it_PRP the_DT geometric_JJ factor_NN ,_, can_MD be_VB any_DT constant_JJ ,_, by_IN default_NN it_PRP has_VBZ been_VBN taken_VBN to_TO be_VB equal_JJ to_TO 2_CD ._.
+Its_PRP$ main_JJ drawback_NN is_VBZ that_IN it_PRP is_VBZ

@@ -1,0 +1,4 @@
+erns_NNS -LRB-_-LRB- see_VB the_DT conclusion_NN of_IN -LRB-_-LRB- 23_CD -RRB-_-RRB- for_IN an_DT example_NN -RRB-_-RRB- ._.
+Furthermore_RB ,_, these_DT approaches_NNS can_MD not_RB benefit_VB from_IN advanced_JJ linguistic_JJ techniques_NNS such_JJ as_IN anaphora_NN resolution_NN ._.
+The_DT few_JJ approaches_NNS that_WDT do_VBP use_VB deep_JJ NLP_NN =_JJ -_: =[_NN 6_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: consider_VB only_RB the_DT shortest_JJS path_NN in_IN the_DT dependency_NN graph_NN as_IN a_DT feature_NN ._.
+Thus_RB ,_, these_DT systems_NNS can_MD not_RB deal_VB with_IN the_DT difference_NN between_IN ''_'' A_DT dog_NN is_VBZ a_DT mammal_NN ''_'' -LRB-_-LRB- which_WDT expresses_VBZ the_DT subConcept-relation_NN -RRB-_-RRB- and_CC ''_'' Th_NN

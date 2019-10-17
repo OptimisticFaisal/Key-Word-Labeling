@@ -1,0 +1,4 @@
+s_NN ,_, recursive_JJ processing_NN ,_, and_CC reassigning_VBG transactions_NNS ._.
+The_DT algorithm_NN is_VBZ very_RB simple_JJ ,_, works_VBZ without_IN complicated_JJ data_NNS structures_NNS ,_, and_CC performs_VBZ reasonably_RB well_RB ._.
+Some_DT other_JJ work_NN in_IN this_DT direction_NN like_IN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, perform_VB approximate_JJ matching_NN only_RB by_IN counting_VBG the_DT number_NN of_IN different_JJ items_NNS in_IN the_DT two_CD item_NN sets_NNS to_TO be_VB compared_VBN ,_, and_CC use_VB an_DT Apriori-like_JJ algorithm_NN ._.
+The_DT algorithm_NN in_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, as_IN reported_VBN ,_, performed_VBN

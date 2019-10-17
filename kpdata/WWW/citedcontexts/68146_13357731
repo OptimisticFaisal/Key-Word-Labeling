@@ -1,0 +1,5 @@
+ly_RB 10_CD 5_CD ._.
+it_PRP took_VBD about_RB 41_CD seconds_NNS with_IN 34_CD MB_NN memory_NN space_NN for_IN MCMAS_NNP to_TO verify_VB 15_CD properties_NNS ._.
+The_DT verification_NN results_NNS were_VBD in_IN accordance_NN with_IN what_WP expected_VBN ._.
+6_CD Conclusions_NNS Although_IN extensive_JJ research_NN =_JJ -_: =[_NN 19,8_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ been_VBN done_VBN on_IN the_DT automated_JJ verification_NN of_IN web_NN service_NN composition_NN using_VBG BPEL4WS_NN ,_, work_NN on_IN verification_NN of_IN OWL-S_NN process_NN models_NNS is_VBZ relatively_RB scant_JJ ._.
+Approaches_NNS closely_RB related_JJ to_TO our_PRP$ work_NN are_VBP -LRB-_-LRB- 2_CD -RRB-_-RRB-

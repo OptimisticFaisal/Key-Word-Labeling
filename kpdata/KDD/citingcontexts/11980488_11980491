@@ -1,0 +1,6 @@
+urrence_NN -LRB-_-LRB- COM_NN -RRB-_-RRB- -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+We_PRP obtained_VBD the_DT SVM-RFE_NN executable_JJ along_IN with_IN the_DT spider_NN machine_NN learning_VBG toolbox_NN from_IN http:\/\/www.kyb.tuebingen.mpg.de\/_NN bs\/people\/spider_NN \/_: ._.
+For_IN gBoosting_NN ,_, we_PRP use_VBP the_DT gboost_JJ toolbox_NN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP obtained_VBD gPLS_NN and_CC COM_NN directly_RB from_IN the_DT original_JJ authors_NNS of_IN the_DT methods_NNS ._.
+All_PDT the_DT experiments_NNS were_VBD conducted_VBN on_IN a_DT PC_NN with_IN a_DT 2.8_CD Ghz_NN duo_NN core_NN CPU_NN and_CC 3GB_NN memory_NN ._.
+5.1_CD Data_NNP sets_VBZ To_TO evaluate_VB our_PRP$ method_NN

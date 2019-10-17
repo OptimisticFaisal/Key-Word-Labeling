@@ -1,0 +1,4 @@
+uch_NN as_IN those_DT on_IN the_DT HTTP_NN protocol_NN ,_, and_CC worms_NNS -LRB-_-LRB- see_VB Wang_NNP and_CC Stolfo_NNP -LRB-_-LRB- 31_CD -RRB-_-RRB- and_CC Costa_NNP et_FW al._FW -LRB-_-LRB- 9_CD -RRB-_-RRB- for_IN a_DT discussion_NN -RRB-_-RRB- ._.
+Notably_RB ,_, PAYL_NN and_CC the_DT system_NN of_IN Kruegel_NNP et_FW al._FW -LRB-_-LRB- 19_CD -RRB-_-RRB- are_VBP mainly_RB payload-based_JJ ,_, while_IN PHAD_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ partly_RB payload_NN based_VBN ._.
+Contribution_NN In_IN this_DT paper_NN we_PRP propose_VBP POSEIDON_NNP -LRB-_-LRB- Payl_NNP Over_NNP Som_NNP for_IN Intrusion_NNP DetectiON_NNP -RRB-_-RRB- :_: a_DT two-tier_JJ network_NN intrusion_NN detection_NN architecture_NN ._.
+The_DT first_JJ tier_NN consists_VBZ of_IN a_DT self_NN

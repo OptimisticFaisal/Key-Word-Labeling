@@ -1,0 +1,4 @@
+udio_NN classification_NN problems_NNS ._.
+Recently_RB ,_, researchers_NNS have_VBP recognized_VBN the_DT importance_NN of_IN deriving_VBG ad_FW hoc_FW domain-specific_JJ features_NNS for_IN specific_JJ audio_JJ classification_NN problems_NNS ._.
+For_IN instance_NN ,_, Mörchen_NNP et_FW al._FW =_SYM -_: =[_NN 47_CD ,_, 48_CD -RRB-_-RRB- -_: =_SYM -_: performed_VBD an_DT extensive_JJ study_NN of_IN a_DT large_JJ set_NN of_IN bag-offrames_JJ features_NNS that_WDT were_VBD obtained_VBN from_IN a_DT cross-product_NN of_IN general_JJ short-term_JJ features_NNS using_VBG several_JJ temporal_JJ aggregation_NN methods_NNS ._.
+The_DT result_NN was_VBD

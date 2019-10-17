@@ -1,0 +1,5 @@
+frequent_JJ subgraphs_NNS has_VBZ to_TO led_VBN to_TO an_DT interest_NN in_IN closed_JJ graphs_NNS -LRB-_-LRB- 30_CD -RRB-_-RRB- which_WDT is_VBZ a_DT much_RB smaller_JJR set_NN as_IN compared_VBN to_TO the_DT set_NN of_IN frequent_JJ graphs_NNS ._.
+An_DT even_RB smaller_JJR set_NN is_VBZ the_DT set_NN of_IN maximal_JJ frequent_JJ subgraphs_NNS ._.
+=_SYM -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: presents_VBZ theoretical_JJ evidence_NN that_IN thesproblem_NN of_IN mining_NN maximal_JJ frequent_JJ itemsets_NNS is_VBZ NP-hard_JJ ._.
+Finding_VBG maximal_JJ frequent_JJ itemsets_NNS has_VBZ been_VBN a_DT well_RB eplored_JJ problem_NN -LRB-_-LRB- 4_CD ,_, 13_CD -RRB-_-RRB- ._.
+The_DT maximal_JJ frequent_JJ subgraph_NN

@@ -1,0 +1,4 @@
+can_MD be_VB combined_VBN with_IN fast_JJ QP_NN approaches_NNS like_IN SMO_FW etc._FW for_IN fast_JJ training_NN and_CC prediction_NN ._.
+However_RB ,_, most_JJS work_NN -LRB-_-LRB- 38_CD -RRB-_-RRB- -LRB-_-LRB- 3_CD -RRB-_-RRB- -LRB-_-LRB- 46_CD -RRB-_-RRB- in_IN data_NNS squashing_VBG +_CC SVM_NNP requires_VBZ clustering_VBG the_DT data_NNS and\/or_CC linear_JJ kernels_NNS -LRB-_-LRB- 38_CD -RRB-_-RRB- -LRB-_-LRB- 46_CD -RRB-_-RRB- =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Clustering_NN usually_RB needs_VBZ O_NN -LRB-_-LRB- m2_NN -RRB-_-RRB- computations_NNS and_CC high-order_JJ kernels_NNS ,_, like_IN the_DT RBF_NN kernel_NN ,_, are_VBP widely_RB used_VBN and_CC essential_JJ to_TO many_JJ successful_JJ applications_NNS ._.
+Therefore_RB ,_, a_DT fast_JJ squashing_NN method_NN and_CC experi_NNS

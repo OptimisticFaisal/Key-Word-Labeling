@@ -1,0 +1,4 @@
+s_NNS and_CC prognostics_NNS ._.
+This_DT dataset_NN exhibits_VBZ a_DT banded_VBN structure_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+The_DT Mammals_NNPS presence_NN data_NNS 4_CD consists_VBZ of_IN presence_NN records_NNS of_IN 124_CD European_JJ mammals_NNS within_IN 2183_CD geographical_JJ areas_NNS of_IN 50_CD ×_CD 50_CD kilometers_NNS =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Newsgroups_NNP is_VBZ a_DT subset_NN of_IN the_DT 20Newsgroups_FW dataset_FW ,_, 5_CD containing_NN ,_, for_IN 400_CD posts_NNS from_IN 4_CD news3_NN http:\/\/www.informatik.uni-trier.de\/~ley\/db\/_NN 4_CD Available_JJ for_IN research_NN purposes_NNS from_IN the_DT Societas_NNP Europaea_NNP

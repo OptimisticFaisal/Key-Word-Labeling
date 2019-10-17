@@ -1,0 +1,4 @@
+the_DT only_JJ input_NN is_VBZ a_DT distance_NN matrix_NN ._.
+More_RBR recently_RB MDS_NN has_VBZ become_VBN a_DT standard_JJ dimensionality_NN reduction_NN and_CC embedding_VBG technique_NN to_TO manage_VB the_DT complexity_NN of_IN dealing_VBG with_IN large_JJ high_JJ dimensional_JJ data_NNS sets_VBZ =_JJ -_: =[_NN 9_CD ,_, 10_CD ,_, 34_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN general_JJ ,_, the_DT problem_NN of_IN embedding_VBG an_DT arbitrary_JJ distance_NN matrix_NN into_IN a_DT fixed_VBN dimensional_JJ Euclidean_JJ space_NN with_IN minimum_JJ error_NN is_VBZ nonconvex_JJ -LRB-_-LRB- because_IN of_IN the_DT dimensionality_NN constraint_NN -RRB-_-RRB- ._.
+Thus_RB ,_, in_FW additi_FW

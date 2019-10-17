@@ -1,0 +1,4 @@
+t_NN ,_, very_RB few_JJ systems_NNS are_VBP designed_VBN to_TO scale_VB over_IN a_DT corpus_NN as_RB large_JJ as_IN ,_, say_VB ,_, the_DT Web_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Among_IN the_DT large_JJ scale_NN systems_NNS that_WDT extract_VBP information_NN from_IN the_DT Web_NN are_VBP KnowItAll_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, InfoSleuth_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- and_CC Kylin_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT goal_NN of_IN the_DT KnowItAll_NNP system_NN is_VBZ a_DT related_JJ ,_, but_CC different_JJ task_NN called_VBN ,_, ``_`` Open_NNP Information_NNP Extraction_NNP ._. ''_''
+In_IN Open_NNP IE_NN ,_, the_DT relations_NNS of_IN interest_NN are_VBP not_RB known_VBN in_IN advance_NN ,_, and_CC the_DT emphasis_NN is_VBZ on_IN discov_NN

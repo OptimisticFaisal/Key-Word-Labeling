@@ -1,0 +1,3 @@
+rising_VBG conclusion_NN :_: For_IN all_DT attempts_NNS at_IN large_JJ scale_NN mining_NN of_IN time_NN series_NN ,_, it_PRP is_VBZ the_DT time_NN complexity_NN of_IN building_VBG the_DT index_NN that_WDT remains_VBZ the_DT most_RBS significant_JJ bottleneck_NN :_: e.g._FW ,_, a_DT state-of-the-art_JJ method_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: needs_VBZ over_IN 6_CD days_NNS to_TO build_VB an_DT index_NN with_IN 100-million_JJ items_NNS ._.
+Additionally_RB ,_, there_EX is_VBZ a_DT pressing_JJ need_NN to_TO reduce_VB retrieval_NN times_NNS ,_, especially_RB as_IN such_JJ data_NNS is_VBZ clearly_RB doomed_VBN to_TO be_VB disk_NN resident_NN ._.
+Once_RB a_DT dim_NN

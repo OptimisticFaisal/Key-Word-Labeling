@@ -1,0 +1,3 @@
+predicted_VBN value_NN of_IN tij_NN ._.
+Note_VB that_IN in_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, Emax_NN is_VBZ the_DT maximum_NN possible_JJ error_NN between_IN the_DT actual_JJ and_CC predicted_VBN series_NN -LRB-_-LRB- defined_VBN as_IN t_NN ðmax-minÞ_NN 2_CD ,_, where_WRB each_DT value_NN tij_NN in_IN Ti_NN are_VBP within_IN min_NN ;_: maxŠ_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, and_CC ErrpredðTiÞ_NN is_VBZ a_DT relative_JJ error_NN ._.
+We_PRP denote_VBP as_IN Tij_NN :_: kŠ_NN the_DT subsequence_NN ftij_NN ;_: t_NN iðjþ1Þ_NN ;_: ..._: ;_: tikg_NN of_IN Ti_NNP ,_, where_WRB j_FW k._FW Those_DT subsequences_NNS that_WDT contain_VBP at_IN least_JJS one_CD future_JJ value_NN are_VBP called_VBN future_JJ sub_NN

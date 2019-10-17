@@ -1,0 +1,4 @@
+f_LS web_NN document_NN collections_NNS ._.
+It_PRP is_VBZ difficult_JJ to_TO avoid_VB downloading_VBG duplicates_NNS during_IN the_DT crawl_NN of_IN a_DT large_JJ set_NN of_IN documents_NNS because_IN they_PRP are_VBP commonly_RB referenced_VBN by_IN distinct_JJ and_CC apparently_RB unrelated_JJ URLs_NNS =_JJ -_: =[_NN 2_CD ,_, 25_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Thus_RB ,_, duplication_NN of_IN documents_NNS is_VBZ prevalent_JJ in_IN web_NN collections_NNS and_CC must_MD be_VB eliminated_VBN at_IN storage_NN level_NN ._.
+Duplicates_NNS are_VBP caused_VBN by_IN the_DT replication_NN of_IN documents_NNS to_TO ensure_VB availability_NN of_IN the_DT informatio_NN

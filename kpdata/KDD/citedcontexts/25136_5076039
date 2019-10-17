@@ -1,0 +1,5 @@
+d_NN should_MD be_VB able_JJ to_TO identify_VB skewed_JJ itemsets_NNS without_IN disclosing_VBG the_DT local_JJ supports_NNS of_IN the_DT itemset_NN ._.
+There_EX are_VBP various_JJ work_NN on_IN privacy-preserving_JJ distributed_VBN association_NN rule_NN mining_NN algorithms_NNS ,_, such_JJ as_IN =_JJ -_: =[_NN 12_CD ,_, 18_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, to_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ,_, none_NN of_IN these_DT algorithms_NNS take_VBP advantage_NN of_IN data_NNS skewness_NN ._.
+This_DT is_VBZ greatly_RB because_IN the_DT lack_NN of_IN a_DT privacy-preserving_JJ method_NN that_WDT identifies_VBZ data_NN skewness_NN ._.
+The_DT hy_NN

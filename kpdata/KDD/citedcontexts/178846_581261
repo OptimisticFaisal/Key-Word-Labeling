@@ -1,0 +1,4 @@
+chniques_NNS reduce_VBP the_DT required_JJ disk_NN accesses_NNS by_IN orders_NNS of_IN magnitude_NN ,_, and_CC enable_VB truly_RB scalable_JJ data_NNS mining_NN ._.
+1_CD Introduction_NN Mining_NN frequent_JJ itemsets_NNS is_VBZ a_DT fundamental_JJ problem_NN for_IN mining_NN association_NN rules_NNS =_JJ -_: =[_NN 4_CD ,_, 5_CD ,_, 11_CD ,_, 13_CD ,_, 14_CD ,_, 17_CD ,_, 20_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP also_RB plays_VBZ an_DT important_JJ role_NN in_IN many_JJ other_JJ data_NNS mining_NN tasks_NNS such_JJ as_IN sequential_JJ patterns_NNS ,_, episodes_NNS ,_, multi-dimensional_JJ patterns_NNS and_CC so_RB on_IN -LRB-_-LRB- 6_CD ,_, 12_CD ,_, 10_CD -RRB-_-RRB- ._.
+In_IN addition_NN ,_, frequent_JJ itemsets_NNS are_VBP one_CD of_IN the_DT

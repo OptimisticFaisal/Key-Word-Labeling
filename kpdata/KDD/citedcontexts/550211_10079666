@@ -1,0 +1,4 @@
+the_DT weight_NN distribution_NN since_IN the_DT difficulty_NN of_IN a_DT sample_NN is_VBZ not_RB known_VBN a_DT priori_FW ._.
+Thus_RB ,_, the_DT basic_JJ idea_NN is_VBZ to_TO estimate_VB the_DT importance_NN λ_NN of_IN a_DT sample_NN by_IN propagating_VBG it_PRP through_IN the_DT set_NN of_IN weak_JJ classifiers_NNS =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN fact_NN ,_, λ_NN is_VBZ increased_VBN proportional_JJ to_TO the_DT error_NN e_SYM of_IN the_DT weak_JJ classifier_NN if_IN the_DT sample_NN is_VBZ misclassified_VBN and_CC decreased_VBN otherwise_RB ._.
+Thus_RB ,_, the_DT work-flow_NN for_IN on-line_JJ boosting_VBG for_IN feature_NN selections_NNS sel_VBP

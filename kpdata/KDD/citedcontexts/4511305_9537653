@@ -1,0 +1,4 @@
+ta_NN set_NN -LRB-_-LRB- CNET_NN -RRB-_-RRB- is_VBZ from_IN Clark_NNP Net_NNP web_NN server_NN which_WDT is_VBZ a_DT full_JJ internet_NN access_NN provider_NN for_IN the_DT Metro_NNP Baltimore-Washington_NNP DC_NNP area_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+Firstly_RB ,_, user_NN sessions_NNS are_VBP extracted_VBN from_IN the_DT data_NNS set_VBP according_VBG to_TO =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Then_RB ,_, since_IN each_DT session_NN consists_VBZ of_IN a_DT sequence_NN of_IN URL_NN requests_NNS ,_, the_DT pairwise_JJ similarities_NNS of_IN these_DT user_NN sessions_NNS are_VBP calculated_VBN with_IN an_DT algorithm_NN based_VBN on_IN FastLSA_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Each_DT user_NN session_NN correspond_VBP

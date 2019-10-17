@@ -1,0 +1,5 @@
+of_IN θ1_NN and_CC θ2_NN ._.
+Step_NN 1_CD is_VBZ trivial_JJ ;_: below_IN we_PRP describe_VBP Steps_NNS 2_CD &_CC 3_CD in_IN detail_NN ._.
+3.1_CD Theme_NN Extraction_NN We_PRP extract_VBP themes_NNS from_IN each_DT subcollection_NN Ci_NN using_VBG a_DT simple_JJ probabilistic_JJ mixture_NN model_NN as_IN described_VBN in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT method_NN ,_, words_NNS are_VBP regarded_VBN as_IN data_NNS drawn_VBN from_IN a_DT mixture_NN model_NN with_IN component_NN models_NNS for_IN the_DT theme_NN word_NN distributions_NNS and_CC a_DT background_NN word_NN distribution_NN ._.
+Words_NNS in_IN the_DT same_JJ document_NN share_NN the_DT

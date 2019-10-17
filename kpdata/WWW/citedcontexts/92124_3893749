@@ -1,0 +1,4 @@
+is_VBZ that_IN we_PRP can_MD change_VB the_DT syntactical_JJ notation_NN for_IN the_DT data_NN values_NNS or_CC the_DT implementation_NN of_IN the_DT same_JJ abstract_JJ data_NNS type_NN keeping_VBG the_DT properties_NNS of_IN the_DT ontologies_NNS ._.
+4_CD The_DT SWRL_NNP Institution_NNP We_PRP recall_VBP from_IN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: the_DT syntax_NN and_CC semantics_NNS for_IN Semantic_JJ Web_NN Rule_NN Language_NN -LRB-_-LRB- SWRL_NN -RRB-_-RRB- ._.
+SWRL_FW extendsOWL_FW DL_NN with_IN Horn-like_JJ rules_NNS inspired_VBN from_IN RuleML_NN ._.
+Let_VB X_NN be_VB a_DT set_NN of_IN the_DT individual_JJ variables_NNS and_CC Z_NN be_VB a_DT set_NN of_IN data_NNS variabl_NN

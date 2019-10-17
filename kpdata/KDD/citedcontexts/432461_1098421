@@ -1,0 +1,4 @@
+eriments_NNS on_IN the_DT ModApte_NNP version_NN of_IN the_DT Reuters-21578_JJ TC_NN task_NN 5_CD ._.
+Many_JJ evaluations_NNS have_VBP been_VBN documented_VBN based_VBN on_IN this_DT corpus_NN -LRB-_-LRB- Denoyer_NNP ,_, et_FW al._FW 2001_CD ,_, Joachims_NNP 1998_CD ,_, Lewis_NNP ,_, et_FW al._FW 1994_CD ,_, Liu_NNP ,_, et_FW al._FW 2001_CD ,_, =_JJ -_: =_JJ Wu_NNP ,_, et_FW al._FW 2002_CD -_: =_JJ -_: ,_, Yang_NNP ,_, et_FW al._FW 1999_CD -RRB-_-RRB- ._.
+The_DT original_JJ format_NN of_IN the_DT text_NN documents_NNS in_IN this_DT corpus_NN is_VBZ in_IN SGML_NNP ._.
+We_PRP first_RB remove_VB all_DT unlabeled_JJ documents_NNS ,_, and_CC perform_VB some_DT preprocessing_NN on_IN the_DT remaining_VBG documents_NNS to_TO filter_NN

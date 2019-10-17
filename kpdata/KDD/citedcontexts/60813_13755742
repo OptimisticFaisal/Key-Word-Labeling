@@ -1,0 +1,4 @@
+._.
+More_RBR generally_RB ,_, relational_JJ learning_NN explores_VBZ use_NN of_IN link_NN structure_NN in_IN inference_NN and_CC learning_NN problems_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Moreover_RB ,_, some_DT semi-supervised_JJ clustering_NN techniques_NNS based_VBN on_IN must-links_NNS and_CC cannot-links_NNS =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB used_VBN to_TO discover_VB communities_NNS on_IN networked_JJ data_NNS as_RB well_RB ,_, where_WRB network_NN structures_NNS provide_VBP must-links_NNS ._.
+As_IN shown_VBN in_IN the_DT experiments_NNS ,_, separating_VBG community_NN discovery_NN and_CC outlier_NN detection_NN can_MD not_RB wo_MD

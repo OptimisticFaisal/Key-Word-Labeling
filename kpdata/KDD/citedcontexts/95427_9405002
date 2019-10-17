@@ -1,0 +1,4 @@
+lternate_FW subtree_FW is_VBZ more_RBR accurate_JJ on_IN new_JJ data_NNS than_IN the_DT original_JJ one_CD ,_, the_DT original_NN is_VBZ replaced_VBN by_IN the_DT alternate_JJ and_CC freed_VBN ._.
+B._NNP Ensemble_NNP of_IN multi-class_JJ classifiers_NNS The_DT streaming_NN ensemble_NN algorithm_NN -LRB-_-LRB- SEA_NN -RRB-_-RRB- =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: builds_VBZ individual_JJ C4_NN .5_CD decision_NN trees_NNS -LRB-_-LRB- 23_CD -RRB-_-RRB- on_IN sequential_JJ chunks_NNS of_IN instances_NNS in_IN the_DT stream_NN ._.
+These_DT classifiers_NNS are_VBP combined_VBN into_IN an_DT ensemble_NN whose_WP$ maximum_NN size_NN is_VBZ fixed_VBN ._.
+To_TO predict_VB the_DT class_NN label_NN of_IN

@@ -1,0 +1,6 @@
+sure_RB the_DT accumulated_VBN utility_NN loss_NN ._.
+Our_PRP$ methodology_NN thus_RB evaluates_VBZ the_DT privacy_NN loss_NN for_IN every_DT individual_NN and_CC the_DT utility_NN loss_NN for_IN all_DT pieces_NNS of_IN useful_JJ knowledge_NN ._.
+5_CD ._.
+EXPERIMENTS_NNS We_PRP implemented_VBD Mondrian_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: to_TO enforce_VB four_CD requirements_NNS :_: k-anonytmity_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ,_, ℓ-diversity_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, t-closeness_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, and_CC semantic_JJ privacy_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+We_PRP used_VBD both_CC generalization_NN and_CC bucketization_NN ._.
+We_PRP used_VBD the_DT Adult_NN dataset_NN -LRB-_-LRB- which_WDT has_VBZ been_VBN

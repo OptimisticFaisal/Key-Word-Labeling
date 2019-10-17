@@ -1,0 +1,4 @@
+urse_NN of_IN dimensionality_NN ''_'' and_CC overfitting_NN of_IN the_DT training_NN data_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Therefore_RB ,_, selecting_VBG a_DT small_JJ number_NN of_IN discriminative_JJ genes_NNS from_IN thousands_NNS of_IN genes_NNS is_VBZ essential_JJ for_IN successful_JJ sample_NN classification_NN =_JJ -_: =[_NN 5_CD ,_, 7_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Research_NN on_IN feature_NN selection_NN is_VBZ receiving_VBG increasing_VBG attention_NN in_IN gene_NN selection_NN for_IN sample_NN classification_NN ._.
+Feature_NN selection_NN ,_, a_DT process_NN of_IN choosing_VBG a_DT subset_NN of_IN features_NNS from_IN the_DT original_JJ ones_NNS ,_, is_VBZ

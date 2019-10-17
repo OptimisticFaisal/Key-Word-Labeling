@@ -1,0 +1,3 @@
+ar_IN value_NN decomposition_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, into_IN the_DT same_JJ framework_NN as_IN matrix_JJ co-clustering_JJ algorithms_NNS like_IN probabilistic_JJ latent_JJ semantic_JJ indexing_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Moreover_RB ,_, recentlystudied_JJ problems_NNS ,_, such_JJ as_IN relational_JJ learning_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: and_CC supervised\/semi-supervised_JJ matrix_NN factorization_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, can_MD be_VB viewed_VBN as_IN the_DT simultaneous_JJ factorization_NN of_IN several_JJ matrices_NNS ,_, where_WRB the_DT low-rank_JJ representations_NNS share_VBP parameters_NNS ._.
+The_DT modeling_NN choices_NNS

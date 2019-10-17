@@ -1,0 +1,5 @@
+informativeness_NN and_CC a_DT measure_NN of_IN phraseness_NN for_IN a_DT bigram_NN into_IN a_DT single_JJ unified_JJ score_NN to_TO produce_VB a_DT ranked_VBN list_NN of_IN key-bigrams_NNS ._.
+One_CD of_IN the_DT methods_NNS we_PRP use_VBP to_TO extract_VB informative_JJ bigrams_NNS is_VBZ described_VBN in_IN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2_CD ._.
+An_DT AprioriPhraseExpander_NNP ,_, which_WDT takes_VBZ the_DT top_JJ N_NN phrases_NNS from_IN a_DT KeyBigramFinder_NNP and_CC expands_VBZ it_PRP into_IN longer_JJR phrases_NNS that_WDT occurs_VBZ more_JJR than_IN M_NN times_NNS ._.
+It_PRP uses_VBZ a_DT priority_NN queue_NN of_IN phrases_NNS sorted_VBN by_IN freq_NN

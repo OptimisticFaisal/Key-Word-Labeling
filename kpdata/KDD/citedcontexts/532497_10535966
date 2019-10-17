@@ -1,0 +1,5 @@
+unction_NN ._.
+Another_DT special_JJ case_NN of_IN a_DT complex_JJ graph_NN is_VBZ a_DT k-partite_NN graph_NN consisting_VBG of_IN multi-type_JJ nodes_NNS ._.
+-LRB-_-LRB- Long_NNP et_FW al._FW 2006_CD -RRB-_-RRB- proposes_VBZ a_DT framework_NN of_IN relation_NN summary_NN network_NN to_TO cluster_VB k-partite_NN graphs_NNS ._.
+-LRB-_-LRB- =_JJ -_: =_JJ Gao_NNP et_FW al._FW 2005_CD -_: =--RRB-_NN proposes_VBZ an_DT algorithm_NN based_VBN on_IN semi-definite_JJ programming_NN for_IN clustering_VBG star-structured_JJ k-partite_NN graphs_NNS ._.
+Note_VB that_IN these_DT approaches_NNS focus_VBP on_IN special_JJ complex_NN graphs_NNS with_IN only_JJ heterogeneous_JJ links_NNS and_CC

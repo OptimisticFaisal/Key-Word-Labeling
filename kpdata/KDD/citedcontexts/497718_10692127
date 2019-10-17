@@ -1,0 +1,4 @@
+h_NN words_NNS represented_VBN as_IN nodes_NNS and_CC relationships_NNS as_IN edges_NNS ,_, but_CC we_PRP compute_VBP word_NN similarity_NN across_IN the_DT two_CD monolingual_JJ graphs_NNS with_IN an_DT inter-graph_JJ similarity_NN algorithm_NN ._.
+This_DT algorithm_NN is_VBZ based_VBN on_IN SimRank_NNP -LRB-_-LRB- =_JJ -_: =_JJ Jeh_NNP and_CC Widom_NNP ,_, 2002_CD -_: =--RRB-_NN ._.
+SimRank_NNP recursively_RB computes_VBZ node_NN similarities_NNS based_VBN on_IN the_DT similarity_NN scores_NNS of_IN neighboring_JJ nodes_NNS within_IN a_DT graph_NN ._.
+Dorow_NNP et_FW al._FW -LRB-_-LRB- 2009_CD -RRB-_-RRB- proposed_VBD an_DT extension_NN that_WDT computes_VBZ node-similarities_NNS across_IN t_NN

@@ -1,0 +1,4 @@
+ith_NN systems_NNS outside_IN of_IN the_DT company_NN is_VBZ restricted_JJ ._.
+We_PRP have_VBP implemented_VBN the_DT solution_NN sketched_VBD above_IN in_IN a_DT Java-based_JJ prototype_NN ,_, using_VBG JXPath_NN 2_CD for_IN evaluating_VBG the_DT XPath_NN expression_NN on_IN Java_NNP objets_NNS and_CC Jena_NNP =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: for_IN RDF_NNP processing_NN ._.
+The_DT parsers_NNS for_IN the_DT rules_NNS were_VBD generated_VBN with_IN JavaCC_NN ._.
+3_CD By_IN using_VBG Java_NNP 's_POS reflection_NN API_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC relying_VBG on_IN the_DT Java_NNP Beans_NNPS specification_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- -LRB-_-LRB- a_DT naming_NN convention_NN for_IN object_NN constr_NN

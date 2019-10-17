@@ -1,0 +1,4 @@
+-LRB-_-LRB- such_JJ as_IN a_DT user-defined_JJ maximum_NN size_NN for_IN episodes_NNS ,_, or_CC when_WRB no_DT frequent_JJ episodes_NNS are_VBP returned_VBN for_IN some_DT level_NN ,_, etc_NN -RRB-_-RRB- ._.
+We_PRP use_VBP the_DT non-overlapped_JJ occurrences-based_JJ frequency_NN counting_NN algorithm_NN proposed_VBN in_IN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: to_TO obtain_VB the_DT frequencies_NNS for_IN each_DT sequence_NN ,_, Xi_NN ∈_NNP DY_NNP ._.
+The_DT algorithm_NN sets-up_JJ finite_JJ state_NN automata_NN to_TO recognize_VB occurrences_NNS of_IN episodes_NNS ._.
+The_DT algorithm_NN is_VBZ very_RB efficient_JJ ,_, both_DT time-wise_JJ and_CC spacewise_JJ ,_,

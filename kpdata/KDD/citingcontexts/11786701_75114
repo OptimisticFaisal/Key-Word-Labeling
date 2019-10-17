@@ -1,0 +1,6 @@
+eatures_NNS to_TO achieve_VB better_JJR performance_NN ._.
+However_RB ,_, -LRB-_-LRB- 31_CD -RRB-_-RRB- detects_VBZ data_NN records_NNS only_RB using_VBG tree_NN regularities_NNS and_CC not_RB consider_VB semantics_NNS ._.
+Furthermore_RB ,_, the_DT data_NNS extracted_VBN by_IN -LRB-_-LRB- 31_CD -RRB-_-RRB- -LRB-_-LRB- 18_CD -RRB-_-RRB- have_VBP no_DT semantic_JJ labels_NNS ._.
+=_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =-[_NN 33_CD -RRB-_-RRB- are_VBP two_CD methods_NNS that_WDT treat_VBP Web_NN information_NN extraction_NN as_IN a_DT classification_NN problem_NN ._.
+-LRB-_-LRB- 12_CD -RRB-_-RRB- uses_VBZ a_DT support_NN vector_NN machine_NN to_TO identify_VB the_DT start_NN and_CC end_NN tags_NNS for_IN a_DT single_JJ attribute_NN ._.
+For_IN the_DT task_NN of_IN ex_FW

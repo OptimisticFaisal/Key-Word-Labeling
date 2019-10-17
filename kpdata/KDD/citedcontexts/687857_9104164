@@ -1,0 +1,3 @@
+eight_CD ..._: 1_CD Scanner_NNP 10_CD 0.1_CD ..._: 2_CD Printer_NN 30_CD 0.3_CD ..._: 3_CD Monitor_NNP 60_CD 0.6_CD ..._: 4_CD Computer_NNP 90_CD 0.9_CD ..._: TID_NN Items_NNS 1_CD 1,2,4_CD 2_CD 2,3_CD 3_CD 1,2,3,4_CD 4_CD 2,3,4_CD sWeighted_JJ ARM_NN deals_NNS with_IN the_DT importance_NN of_IN individual_JJ items_NNS in_IN a_DT database_NN =_JJ -_: =[_NN 2_CD ,_, 3_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, some_DT products_NNS are_VBP more_RBR profitable_JJ or_CC may_MD be_VB under_IN promotion_NN ,_, therefore_RB more_RBR interesting_JJ as_IN compared_VBN to_TO others_NNS ,_, and_CC hence_RB rules_NNS concerning_VBG them_PRP are_VBP of_IN greater_JJR value_NN ._.
+Items_NNS are_VBP assigned_VBN w_NN

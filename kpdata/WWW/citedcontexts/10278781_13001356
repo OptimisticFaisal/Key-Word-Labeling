@@ -1,0 +1,3 @@
+in_IN a_DT follow-up_JJ paper_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- ,_, while_IN others_NNS will_MD be_VB resolved_VBN in_IN future_JJ research_NN .6.2_CD Mediating_VBG Access_NN to_TO Objects_NNP Object_NNP views_NNS offer_VBP a_DT fine_RB grained_VBN control_NN over_IN shared_JJ objects_NNS in_IN a_DT JavaScript_NNP environment_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+By_IN creating_VBG and_CC sharing_VBG a_DT view_NN of_IN an_DT object_NN ,_, instead_RB of_IN the_DT full_JJ object_NN ,_, all_DT calls_NNS to_TO the_DT object_NN pass_NN through_IN the_DT view_NN ,_, where_WRB a_DT security_NN policy_NN can_MD be_VB enforced_VBN ._.
+An_DT example_NN application_NN scenario_NN is_VBZ a_DT

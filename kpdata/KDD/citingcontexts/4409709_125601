@@ -1,0 +1,5 @@
+y_NN classification_NN of_IN the_DT brokers_NNS ,_, we_PRP present_VBP precision_NN and_CC recall_NN results_NNS ._.
+Figure_NN 4_CD shows_VBZ the_DT ROC_NNP curves_NNS on_IN the_DT four_CD test_NN samples_NNS ._.
+ROC_NN curves_NNS show_VBP the_DT quality_NN of_IN the_DT ranking_NN provided_VBN by_IN the_DT classifier_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT curve_NN shows_VBZ how_WRB the_DT false_JJ positive_JJ rate_NN and_CC the_DT false_JJ negative_JJ rate_NN vary_VBP as_IN the_DT probability_NN threshold_NN between_IN classes_NNS is_VBZ varied_VBN between_IN zero_CD and_CC one_CD ._.
+If_IN a_DT model_NN dominates_VBZ the_DT ROC_NNP space_NN it_PRP can_MD be_VB

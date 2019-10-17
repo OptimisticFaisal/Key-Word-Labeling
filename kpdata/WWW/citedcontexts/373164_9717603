@@ -1,0 +1,5 @@
+ont_NN of_IN the_DT list_NN ,_, and_CC only_RB the_DT initial_JJ parts_NNS of_IN the_DT inverted_JJ lists_NNS are_VBP processed_VBN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+In_IN static_JJ pruning_NN schemes_NNS ,_, the_DT number_NN of_IN postings_NNS processed_VBN is_VBZ decided_VBN independently_RB of_IN the_DT query_NN being_VBG evaluated_VBN =_JJ -_: =[_NN 3_CD ,_, 5_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN dynamic_JJ pruning_NN ,_, the_DT number_NN of_IN postings_NNS processed_VBN is_VBZ dependent_JJ on_IN the_DT query_NN -LRB-_-LRB- 7_CD ,_, 14_CD -RRB-_-RRB- ._.
+Anh_NNP and_CC Moffat_NNP propose_VBP impact-ordered_JJ inverted_JJ lists_NNS ,_, and_CC a_DT dynamic_JJ pruning_NN scheme_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN we_PRP exten_VBP

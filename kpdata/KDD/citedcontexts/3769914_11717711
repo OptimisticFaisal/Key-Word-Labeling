@@ -1,0 +1,5 @@
+graph_NN mining_NN settings_NNS ._.
+Representative_JJ work_NN includes_VBZ connection_NN subgraphs_NNS -LRB-_-LRB- 5_CD ,_, 9_CD ,_, 11_CD -RRB-_-RRB- ,_, content-based_JJ image_NN retrieval_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, cross-modal_JJ correlation_NN discovery_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, the_DT BANKS_NN system_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, pattern_NN matching_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, ObjectRank_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, RelationalRank_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC recommendation_NN system_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+6_CD ._.
+CONCLUSION_NN In_IN this_DT paper_NN ,_, we_PRP study_VBD how_WRB to_TO incorporate_VB user_NN 's_POS feedback_NN in_IN proximity_NN searching_VBG on_IN large_JJ graphs_NNS ._.
+Our_PRP$ approach_NN is_VBZ bas_NN

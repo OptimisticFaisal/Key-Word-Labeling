@@ -1,0 +1,4 @@
+ccurs_NNS quite_RB often_RB in_IN real_JJ dynamic_JJ networks_NNS ,_, and_CC thus_RB ,_, they_PRP could_MD be_VB less_RBR useful_JJ for_IN real_JJ data_NNS ._.
+Third_RB ,_, there_EX have_VBP been_VBN few_JJ studies_NNS that_WDT discover_VBP communities_NNS by_IN using_VBG t-partite_NN graph_NN from_IN temporal_JJ data_NN =_JJ -_: =[_NN 11_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP perform_VBP clustering_NN for_IN each_DT network_NN ,_, construct_NN a_DT t-partite_NN graph_NN by_IN connecting_VBG between_IN similar_JJ local_JJ clusters_NNS at_IN different_JJ times_NNS ,_, and_CC find_VB a_DT sequence_NN of_IN local_JJ clusters_NNS as_IN a_DT community_NN ._.
+Especiall_NNP

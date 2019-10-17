@@ -1,0 +1,4 @@
+d_NN on_IN their_PRP$ individual_JJ properties_NNS ._.
+An_DT approach_NN to_TO link_VB prediction_NN is_VBZ to_TO consider_VB the_DT geographic_JJ distance_NN between_IN two_CD users_NNS ,_, since_IN geographic_JJ proximity_NN is_VBZ related_JJ to_TO higher_JJR chances_NNS of_IN social_JJ connection_NN =_JJ -_: =[_NN 16_CD ,_, 2_CD ,_, 19_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP define_VBP ml_NN i_FW as_IN the_DT ``_`` home-location_NN ''_'' where_WRB user_NN ui_NN has_VBZ most_JJS check-ins_NNS :_: given_VBN two_CD users_NNS ,_, we_PRP compute_VBP geodist_NN as_IN the_DT geographic_JJ distance_NN between_IN their_PRP$ home_NN locations_NNS ._.
+At_IN the_DT same_JJ time_NN ,_, w_geodist_NN is_VBZ th_DT

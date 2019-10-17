@@ -1,0 +1,6 @@
+sitions_NNS ._.
+One_CD of_IN our_PRP$ modeling_NN goals_NNS is_VBZ to_TO detect_VB these_DT sudden_JJ changes_NNS in_IN network_NN structure_NN that_WDT occur_VBP over_IN time_NN ._.
+Recently_RB some_DT researchers_NNS have_VBP investigated_VBN the_DT dynamics_NNS in_IN relational_JJ data_NNS ._.
+Tang_NNP et_FW al._FW =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT spectral_JJ clustering-based_JJ model_NN for_IN multi-mode_JJ ,_, time-evolving_JJ relations_NNS ._.
+Yang_NNP et_FW al._FW -LRB-_-LRB- 16_CD -RRB-_-RRB- developed_VBD the_DT time-varying_JJ SBM_NN ._.
+They_PRP assumed_VBD a_DT transition_NN probability_NN matrix_NN like_IN HMM_NNP ,_, which_WDT govern_VBP

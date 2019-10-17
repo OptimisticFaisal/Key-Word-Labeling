@@ -1,0 +1,4 @@
+compact_JJ storage_NN scheme_NN for_IN storing_VBG docID_NN 's_VBZ in_IN a_DT static_JJ cache_NN ._.
+B._NNP Query_NNP Clustering_NNP Query_NNP clustering_NN is_VBZ previously_RB proposed_VBN for_IN two_CD main_JJ goals_NNS :_: a_DT -RRB-_-RRB- enhancing_JJ result_NN ranking_NN ,_, and_CC b_NN -RRB-_-RRB- query_NN recommendation_NN ._.
+=_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ clicktrough_JJ data_NNS ,_, which_WDT consists_VBZ of_IN <query, url>_NN pairs_NNS ,_, in_IN order_NN to_TO find_VB related_JJ queries_NNS and_CC related_JJ URLs_NNS by_IN clustering_NN ._.
+The_DT proposed_VBN approach_NN is_VBZ to_TO see_VB the_DT query_NN log_NN as_IN a_DT bipartite_JJ graph_NN betwee_NN

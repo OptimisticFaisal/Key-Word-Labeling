@@ -1,0 +1,4 @@
+aximally_RB ordered_VBN correctly_RB ._.
+The_DT feature_NN weights_NNS thus_RB implicitly_RB produce_VBP a_DT linear_NN ordering_VBG of_IN all_DT observed_VBN adjectives_NNS ._.
+The_DT examples_NNS can_MD also_RB be_VB regarded_VBN as_IN rank_JJ constraints_NNS in_IN a_DT discriminative_JJ ranker_NN -LRB-_-LRB- =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =--RRB-_NN ._.
+Transitivity_NN is_VBZ achieved_VBN naturally_RB in_IN that_DT if_IN we_PRP correctly_RB order_NN pairs_NNS a_DT ≺_NN b_NN and_CC b_NN ≺_CD c_NN in_IN the_DT training_NN set_NN ,_, then_RB a_DT ≺_NN c_NN by_IN virtue_NN of_IN the_DT weights_NNS on_IN a_DT and_CC c._NN While_IN exploiting_VBG transitivity_NN has_VBZ been_VBN sh_IN

@@ -1,0 +1,7 @@
+:_: This_DT is_VBZ again_RB a_DT dynamic-programming_JJ algorithm_NN ,_, though_IN for_IN a_DT different_JJ optimization_NN criterion_NN ._.
+The_DT algorithm_NN is_VBZ proposed_VBN in_IN -LRB-_-LRB- 35_CD -RRB-_-RRB- ,_, while_IN the_DT optimization_NN measure_NN is_VBZ the_DT haplotypediversity_NN proposed_VBN by_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4_LS ._.
+MDB_NN :_: This_DT is_VBZ a_DT Minimum_NNP Description_NN Length_NN -LRB-_-LRB- MDL_NN -RRB-_-RRB- method_NN proposed_VBN in_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+5_CD ._.
+MDyn_NN :_: This_DT is_VBZ another_DT MDL-based_JJ method_NN proposed_VBN by_IN -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+Figure_NN 4_CD shows_VBZ the_DT block_NN boundaries_NNS found_VBN by_IN each_DT one_CD of_IN the_DT me_PRP

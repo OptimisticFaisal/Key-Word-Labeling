@@ -1,0 +1,3 @@
+he_PRP training_NN accuracy_NN ._.
+We_PRP also_RB tested_VBD a_DT modification_NN of_IN this_DT procedure_NN that_WDT additionally_RB considers_VBZ removing_VBG a_DT single_JJ feature_NN at_IN each_DT step_NN instead_RB of_IN adding_VBG one_CD ,_, known_VBN as_IN the_DT forward-backward_JJ algorithm_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN a_DT practical_JJ observation_NN we_PRP found_VBD that_IN if_IN we_PRP determine_VBP the_DT final_JJ set_NN of_IN features_NNS by_IN selecting_VBG the_DT set_NN that_WDT achieves_VBZ the_DT highest_JJS cross-validation_JJ accuracy_NN for_IN the_DT training_NN data_NNS ,_, we_PRP avoided_VBD overfitt_NN

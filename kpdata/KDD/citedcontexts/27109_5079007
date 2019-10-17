@@ -1,0 +1,4 @@
+ustering_VBG methods_NNS ,_, where_WRB the_DT affinity_NN scores_NNS for_IN every_DT pair_NN of_IN images_NNS and_CC every_DT modality_NN must_MD be_VB calculated_VBN ,_, resulting_VBG in_IN an_DT unrealistically_RB heavy_JJ representation_NN ._.
+Bipartite_JJ spectral_JJ graph_NN partitioning_VBG =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ useful_JJ for_IN coclustering_VBG two_CD modalities_NNS such_JJ as_IN documents_NNS and_CC words_NNS ._.
+Gao_NNP et_FW al._FW -LRB-_-LRB- 11_CD -RRB-_-RRB- extend_VBP this_DT method_NN to_TO handle_VB one_CD more_JJR modality_NN ._.
+In_IN their_PRP$ tripartite_JJ graph_NN model_NN ,_, nodes_NNS are_VBP arranged_VBN in_IN three_CD lay_VBD

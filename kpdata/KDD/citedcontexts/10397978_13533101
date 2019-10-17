@@ -1,0 +1,4 @@
+rent_NN researchers_NNS adopt_VBP a_DT two-phase_JJ procedure_NN as_IN follows_VBZ ._.
+First_RB ,_, a_DT collection_NN of_IN total_JJ orders_NNS of_IN fossil_NN sites_NNS are_VBP sampled_VBN from_IN the_DT absence\/presence_NN data_NNS by_IN using_VBG Markov_NNP Chain_NNP Monte_NNP Carlo_NNP -LRB-_-LRB- MCMC_NNP -RRB-_-RRB- method_NN =_JJ -_: =[_NN 10_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, a_DT dataset_NN called_VBN g10s10_NNP ,_, which_WDT contains_VBZ 2000_CD total_JJ orders_NNS of_IN the_DT 124_CD fossil_NN sites_NNS ,_, is_VBZ used_VBN both_CC in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC this_DT paper_NN ._.
+These_DT total_JJ orders_NNS are_VBP linear_JJ extensions_NNS of_IN the_DT unknown_JJ ``_`` ground_NN t_NN

@@ -1,0 +1,4 @@
+naive_JJ Bayes_NNS naturally_RB provide_VBP those_DT probabilities_NNS while_IN other_JJ classifiers_NNS such_JJ as_IN decision_NN trees_NNS do_VBP not_RB ._.
+It_PRP is_VBZ still_RB possible_JJ to_TO produce_VB ROC_NN curves_NNS for_IN any_DT type_NN of_IN classifier_NN using_VBG minor_JJ adjustments_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Area_NN under_IN the_DT ROC_NN Curve_NN -LRB-_-LRB- AUC_NN -RRB-_-RRB- is_VBZ a_DT single_JJ scalar_NN value_NN for_IN classifier_NN comparison_NN -LRB-_-LRB- 2_CD ,_, 9_CD -RRB-_-RRB- ._.
+Statistically_RB speaking_NN ,_, the_DT AUC_NN of_IN a_DT classifier_NN is_VBZ the_DT probability_NN that_IN a_DT classifier_NN will_MD rank_VB a_DT randomly_RB ch_NN

@@ -1,0 +1,4 @@
+yet_RB we_PRP are_VBP aware_JJ of_IN only_RB one_CD such_JJ pairing_NN -LRB-_-LRB- 38_CD -RRB-_-RRB- ._.
+Recent_JJ work_NN in_IN the_DT active_JJ learning_NN field_NN suggests_VBZ an_DT optimal_JJ way_NN to_TO identify_VB which_WDT instances_NNS to_TO label_VB next_JJ by_IN minimizing_VBG expected_VBN classification_NN error_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT approach_NN is_VBZ also_RB known_VBN as_IN empirical_JJ risk_NN minimization_NN -LRB-_-LRB- ERM_NN -RRB-_-RRB- ._.
+The_DT approach_NN ,_, while_IN having_VBG very_RB good_JJ performance_NN ,_, is_VBZ also_RB computationally_RB expensive_JJ as_IN one_CD need_NN to_TO consider_VB ,_, for_IN each_DT instance_NN ,_, what_WP

@@ -1,0 +1,5 @@
+ls_NNS ''_'' -RRB-_-RRB- from_IN a_DT catalog_NN ._.
+These_DT entity_NN ID_NN annotations_NNS enable_VBP powerful_JJ join_VB operations_NNS that_WDT can_MD combine_VB information_NN across_IN pages_NNS and_CC sites_NNS ._.
+Named_VBN entity_NN recognition_NN and_CC tagging_NN have_VBP seen_VBN widespread_JJ success_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB we_PRP are_VBP concerned_VBN with_IN the_DT second_JJ step_NN :_: entity_NN disambiguation_NN from_IN a_DT given_VBN catalog_NN ,_, such_JJ as_IN Wikipedia_NNP ._.
+-LRB-_-LRB- The_DT availability_NN of_IN a_DT catalog_NN makes_VBZ this_DT a_DT supervised_JJ setting_NN ,_, unlike_IN unsupervised_JJ corefer_NN

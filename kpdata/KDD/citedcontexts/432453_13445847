@@ -1,0 +1,4 @@
+ons_NNS ,_, the_DT trained_JJ model_NN is_VBZ maximizing_VBG the_DT number_NN of_IN users_NNS who_WP are_VBP satisfied_VBN with_IN the_DT alteration_NN decisions_NNS ._.
+Recently_RB ,_, there_EX has_VBZ been_VBN interest_NN in_IN leveraging_VBG user_NN search_NN logs_NNS to_TO automatically_RB suggest_VB -LRB-_-LRB- 21_CD -RRB-_-RRB- =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: or_CC reformulate_VB -LRB-_-LRB- 23_CD -RRB-_-RRB- queries_NNS ._.
+The_DT work_NN presented_VBN here_RB is_VBZ highly_RB related_JJ to_TO the_DT query_NN reformulation_NN work_NN by_IN Wang_NNP and_CC Zhai_NNP -LRB-_-LRB- 23_CD -RRB-_-RRB- in_IN which_WDT a_DT translation_NN model_NN is_VBZ estimated_VBN from_IN user_NN session_NN logs_NNS ._.
+Although_IN

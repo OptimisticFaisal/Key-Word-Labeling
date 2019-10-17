@@ -1,0 +1,5 @@
+statistical_JJ summary_NN of_IN a_DT numeric_JJ attribute_NN of_IN interest_NN -LRB-_-LRB- on_IN the_DT RHS_NN -RRB-_-RRB- ._.
+Numeric_JJ attributes_NNS appearing_VBG on_IN the_DT LHS_NNP are_VBP pre-discretized_JJ ._.
+Other_JJ authors_NNS have_VBP meanwhile_RB improved_VBN some_DT aspects_NNS of_IN the_DT original_JJ QAR_NN =_JJ -_: =[_NN 20_CD ,_, 21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN a_DT different_JJ direction_NN from_IN the_DT work_NN proposed_VBN here_RB ._.
+To_TO learn_VB and_CC discover_VB distributions_NNS we_PRP propose_VBP distribution_NN rules_NNS -LRB-_-LRB- DR_NN -RRB-_-RRB- ._.
+These_DT associate_VBP a_DT frequent_JJ itemset_NN with_IN an_DT empirical_JJ distribution_NN of_IN a_DT n_NN

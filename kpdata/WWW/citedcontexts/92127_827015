@@ -1,0 +1,4 @@
+represent_VB multi-argument_JJ relation_NN ,_, and_CC based_VBN on_IN DL_NNP ,_, OWL_NNP has_VBZ been_VBN designed_VBN especially_RB to_TO model_NN domains_NNS with_IN a_DT rich_JJ hierarchical_JJ structure_NN ._.
+However_RB ,_, Horn_NNP clauses_NNS and_CC DL_NN are_VBP not_RB reducible_JJ to_TO each_DT other_JJ =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+On_IN the_DT one_CD hand_NN ,_, Horn_NNP clauses_NNS lack_VBP the_DT possibility_NN to_TO express_VB existential_JJ quantification_NN ._.
+For_IN example_NN ,_, they_PRP do_VBP not_RB allow_VB to_TO state_NN that_IN every_DT person_NN has_VBZ a_DT father_NN ,_, which_WDT can_MD be_VB easily_RB done_VBN in_IN DL_NN :_: Pers_NNS

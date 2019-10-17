@@ -1,0 +1,5 @@
+ork_NN learning_NN and_CC others_NNS that_WDT require_VBP fast_JJ extraction_NN of_IN counts_NNS from_IN the_DT data_NNS or_CC from_IN the_DT aggregate_JJ counts_NNS -LRB-_-LRB- itemsets_NNS -RRB-_-RRB- ._.
+2_CD ._.
+We_PRP introduce_VBP and_CC study_VBP an_DT approach_NN to_TO the_DT online_JJ learning_NN of_IN Bayesian_JJ networks_NNS =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT is_VBZ based_VBN on_IN frequent_JJ sets_NNS and_CC demonstrate_VB how_WRB ADtrees_NNS can_MD efficiently_RB be_VB used_VBN to_TO speed_VB up_RP the_DT 2_CD model_NN estimation_NN ._.
+3_LS ._.
+We_PRP perform_VBP a_DT detailed_JJ experimental_JJ evaluation_NN of_IN various_JJ probabilistic_JJ models_NNS

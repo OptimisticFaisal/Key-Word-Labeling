@@ -1,0 +1,4 @@
+-_: orderlogic_NN -LRB-_-LRB- FOL_NN -RRB-_-RRB- provides_VBZ the_DT expressivity_NN needed_VBN in_IN our_PRP$ approach_NN ._.
+However_RB ,_, while_IN reasoning_NN in_IN DL_NN is_VBZ decidable_JJ and_CC therefore_RB guaranteed_VBN to_TO terminate_VB ,_, proving_VBG entailment_NN in_IN FOL_NN is_VBZ only_RB semi-decidable_JJ =_JJ -_: =[_NN 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Therefore_RB ,_, the_DT final_JJ decision_NN on_IN a_DT representation_NN language_NN will_MD have_VB to_TO take_VB into_IN account_NN the_DT tradeoff_NN between_IN expressivity_NN of_IN the_DT languages_NNS and_CC the_DT complexity_NN of_IN their_PRP$ reasoning_NN problems_NNS ._.
+In_IN sectio_NN

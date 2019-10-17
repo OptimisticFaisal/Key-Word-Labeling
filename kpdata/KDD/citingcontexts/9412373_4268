@@ -1,0 +1,3 @@
+greedy_JJ algorithm_NN for_IN the_DT set-cover_NN problem_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, which_WDT can_MD be_VB adapted_VBN for_IN many_JJ variants_NNS of_IN it_PRP ,_, and_CC which_WDT achieves_VBZ a_DT O_NN -LRB-_-LRB- log_NN n_NN -RRB-_-RRB- approximation_NN ratio_NN that_WDT matches_VBZ the_DT hardness_NN of_IN approximation_NN lower_RBR bound_VBD =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT basic_JJ greedy_JJ algorithm_NN forms_VBZ the_DT cover_NN solution_NN by_IN adding_VBG one_CD element_NN at_IN a_DT time_NN ._.
+At_IN the_DT i-th_NN iteration_NN ,_, if_IN not_RB all_DT elements_NNS of_IN the_DT base_NN set_NN have_VBP been_VBN covered_VBN ,_, the_DT algorithm_NN maintains_VBZ a_DT partial_JJ s_NN

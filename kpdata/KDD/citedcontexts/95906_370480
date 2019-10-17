@@ -1,0 +1,4 @@
+s_NN significantly_RB better_RBR than_IN Multi-level_JJ w\/o_NN shrinkage_NN ._.
+Shrinkage_NN estimation_NN is_VBZ known_VBN to_TO be_VB a_DT variance_NN reduction_NN technique_NN and_CC has_VBZ proved_VBN effective_JJ in_IN several_JJ large_JJ scale_NN data_NNS mining_NN applications_NNS -LRB-_-LRB- see_VB =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: for_IN an_DT example_NN -RRB-_-RRB- ._.
+Hence_RB ,_, it_PRP is_VBZ no_DT surprise_NN that_IN shrinkage_NN helps_VBZ us_PRP learn_VB CTR_NN distributionssPOLICY_NN 3_CD ._.
+-LRB-_-LRB- UCB1_NN w_NN \/_: shrinkage_NN -RRB-_-RRB- Select_NNP the_DT best_JJS ad-class_JJ k_NN ∗_NN corresponding_VBG to_TO a_DT page-class_JJ si_NN as_IN follows_VBZ :_: k_NN ∗_NN =_JJ

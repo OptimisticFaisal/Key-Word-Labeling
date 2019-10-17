@@ -1,0 +1,3 @@
+epends_NNS on_IN relative_JJ measurements_NNS of_IN contrast_NN intensity_NN differences_NNS and_CC ratio_NN across_IN groups_NNS ._.
+Such_JJ a_DT constraint_NN can_MD not_RB be_VB easily_RB handled_VBN using_VBG the_DT existing_VBG contrast_NN pattern_NN mining_NN techniques_NNS ,_, such_JJ as_IN in_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, as_IN they_PRP can_MD only_RB handle_VB one_CD positive_JJ and_CC one_CD negative_JJ class_NN ._.
+iii_LS -RRB-_-RRB- The_DT influence_NN scoring_VBG function_NN for_IN an_DT attribute_NN depends_VBZ on_IN the_DT contrast_NN intensity_NN differences_NNS between_IN each_DT pattern_NN and_CC its_PRP$ generaliz_NN

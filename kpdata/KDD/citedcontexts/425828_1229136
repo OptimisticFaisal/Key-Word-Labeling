@@ -1,0 +1,5 @@
+._.
+Table_NNP 2_CD shows_VBZ example_NN sets_NNS of_IN items_NNS with_IN different_JJ weights_NNS ._.
+If_IN the_DT minimum_JJ support_NN threshold_NN -LRB-_-LRB- min_sup_NN -RRB-_-RRB- is_VBZ 2_CD ,_, the_DT frequent_JJ list_NN is_VBZ <a:4, b:4, c:4, d:5, f:3, g:3, h:2>_NNP ._.
+As_IN defined_VBN by_IN previous_JJ studies_NNS =_JJ -_: =[_NN 2_CD ,_, 7_CD ,_, 8_CD ,_, 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT problem_NN of_IN weighted_JJ frequent_JJ pattern_NN mining_NN is_VBZ to_TO find_VB the_DT complete_JJ set_NN of_IN patterns_NNS satisfying_VBG a_DT support_NN constraint_NN and_CC a_DT weight_NN constraint_NN in_IN the_DT database_NN ._.
+TID_NN Set_NN of_IN items_NNS 100_CD a_DT ,_, b_NN ,_, c_NN ,_, d_NN ,_, g_NN 20_CD

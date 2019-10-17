@@ -1,0 +1,5 @@
+ledge_NN ,_, apart_RB from_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, the_DT SPM_NNP problem_NN in_IN probabilistic_JJ databases_NNS has_VBZ not_RB been_VBN studied_VBN ._.
+Uncertainty_NN in_IN the_DT time-stamp_JJ attribute_NN was_VBD considered_VBN in_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- --_: we_PRP do_VBP not_RB consider_VB time_NN to_TO be_VB uncertain_JJ ._.
+Also_RB =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: studies_NNS SPM_NNP in_IN ``_`` noisy_JJ ''_'' sequences_NNS ,_, but_CC the_DT model_NN proposed_VBN there_EX is_VBZ very_RB different_JJ to_TO ours_PRP and_CC does_VBZ not_RB fit_VB in_IN the_DT probabilistic_JJ database_NN framework_NN ._.
+2_CD Problem_NNP Statement_NNP Classical_NNP SPM_NNP -LRB-_-LRB- 18,3_CD -RRB-_-RRB- ._.
+Let_VB I_PRP =_JJ -LCB-_-LRB- i_LS

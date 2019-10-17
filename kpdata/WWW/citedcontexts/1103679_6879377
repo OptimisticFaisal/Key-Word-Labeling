@@ -1,0 +1,6 @@
+the_DT database_NN access_NN cache_NN ._.
+Note_VB that_IN in_IN this_DT work_NN we_PRP do_VBP not_RB focus_VB on_IN how_WRB to_TO engineer_VB an_DT efficient_JJ cache_NN invalidation_NN protocol_NN ._.
+Many_JJ sophisticated_JJ approaches_NNS have_VBP been_VBN proposed_VBN and_CC studied_VBN ,_, including_VBG =_JJ -_: =[_NN 26,27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT integrated_JJ view_NN of_IN the_DT cache_NN manager_NN is_VBZ shown_VBN in_IN Figure_NNP 1_CD ._.
+In_IN the_DT window_NN dump_NN ,_, one_PRP can_MD see_VB invalidation_NN and_CC cache_NN hit_VBD frequency_NN of_IN each_DT cached_VBN object_NN and_CC its_PRP$ caching_NN priority_NN ._.
+2.3_CD Issues_NNP in_IN Manag_NNP

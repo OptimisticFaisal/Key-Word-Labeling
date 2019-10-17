@@ -1,0 +1,5 @@
+re_IN F_NN ⊆_NN V1_NN ×_NN V2_NN ,_, |_NN F_NN |_FW ≤_FW k_NN ,_, such_JJ that_IN graph_NN H_NN =_JJ -LRB-_-LRB- V1_NN ,_, V2_NN ,_, E_NN ∪_NN F_NN -RRB-_-RRB- is_VBZ a_DT chain_NN graph_NN ?_.
+was_VBD introduced_VBN by_IN Golumbic_JJ -LRB-_-LRB- 30_CD -RRB-_-RRB- and_CC Yannakakis_NN -LRB-_-LRB- 52_CD -RRB-_-RRB- ._.
+The_DT concept_NN of_IN chain_NN graph_NN has_VBZ surprising_JJ applications_NNS in_IN ecology_NN =_JJ -_: =[_NN 42_CD ,_, 47_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Feder_NNP et_FW al._FW in_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- gave_VBD approximation_NN algorithms_NNS for_IN this_DT problem_NN ._.
+As_IN an_DT almost_RB direct_JJ corollary_NN of_IN our_PRP$ results_NNS ,_, it_PRP follows_VBZ that_IN Minimum_NNP Chain_NNP Completion_NNP is_VBZ solvable_JJ in_IN O_NN -LRB-_-LRB- 2_CD O_NN -LRB-_-LRB- √_CD k_NN log_NN k_NN -RRB-_-RRB- +_CC k_NN 2_CD nm_NN -RRB-_-RRB- t_NN

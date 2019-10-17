@@ -1,0 +1,3 @@
+elects_VBZ only_RB a_DT single_JJ best_JJS kernel_NN and_CC fails_VBZ to_TO exploit_VB such_JJ complementary_JJ information_NN ._.
+We_PRP show_VBP that_IN the_DT integration_NN of_IN -LRB-_-LRB- uncorrelated_JJ -RRB-_-RRB- subspace_NN kernels_NNS can_MD be_VB formulated_VBN as_IN a_DT semidefinite_NN program_NN -LRB-_-LRB- SDP_NN -RRB-_-RRB- =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ computationally_RB expensive_JJ to_TO solve_VB ._.
+To_TO improve_VB the_DT efficiency_NN of_IN the_DT SDP_NNP formulation_NN ,_, we_PRP propose_VBP an_DT equivalent_JJ semi-infinite_JJ linear_NN program_NN -LRB-_-LRB- SILP_NN -RRB-_-RRB- formulation_NN which_WDT can_MD be_VB solved_VBN efficientl_NN

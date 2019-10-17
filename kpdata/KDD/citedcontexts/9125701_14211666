@@ -1,0 +1,4 @@
+fitness_NN ''_'' by_IN abusing_VBG citations_NNS or_CC coasting_VBG on_IN reputation_NN ._.
+Citations_NNS are_VBP meant_VBN to_TO be_VB a_DT signal_NN that_IN an_DT author_NN has_VBZ read_VBN 1_CD All_DT graphs_NNS in_IN this_DT paper_NN have_VBP been_VBN generated_VBN from_IN data_NNS supplied_VBN by_IN arnetminer.org_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT data_NNS set_NN consists_VBZ of_IN papers_NNS known_VBN to_TO DBLP_NNP ,_, linked_VBN together_RB by_IN a_DT citation_NN graph_NN built_VBN by_IN the_DT ArnetMiner_NNP team_NN ,_, and_CC ``_`` cleaned_VBD up_RP ''_'' by_IN the_DT author_NN ._.
+Despite_IN this_DT cleanup_NN process_NN ,_, there_EX are_VBP holes_NNS in_IN the_DT

@@ -1,0 +1,3 @@
+n_NN approximating_VBG Data_NNP Cubes_NNP through_IN various_JJ forms_NNS of_IN compression_NN such_JJ as_IN wavelets_NNS -LRB-_-LRB- VWI98_NN -RRB-_-RRB- ,_, multivariate_JJ polynomials_NNS -LRB-_-LRB- BS98_NN -RRB-_-RRB- ,_, or_CC by_IN using_VBG sampling_NN -LRB-_-LRB- GM98_NN ,_, AGP00_NN -RRB-_-RRB- or_CC data_NN probability_NN density_NN distributions_NNS =_JJ -_: =_JJ -LRB-_-LRB- SFB99_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+While_IN these_DT methods_NNS can_MD substantially_RB reduce_VB the_DT size_NN of_IN the_DT Cube_NN ,_, they_PRP do_VBP not_RB actually_RB store_VB the_DT values_NNS of_IN the_DT group-bys_NNS ,_, but_CC rather_RB approximate_JJ them_PRP ,_, thus_RB not_RB always_RB providing_VBG accurate_JJ results_NNS ._.
+In_IN

@@ -1,0 +1,4 @@
+lumns_NNS -RRB-_-RRB- ._.
+However_RB ,_, its_PRP$ scalability_NN in_IN practice_NN is_VBZ restricted_VBN by_IN the_DT available_JJ main_JJ memory_NN ._.
+This_DT paper_NN addresses_VBZ the_DT scalability_NN issue_NN ;_: specifically_RB ,_, a_DT general_JJ framework_NN ,_, Bregman_NNP co-clustering_JJ algorithm_NN =_JJ -_: =[_NN 2_CD ,_, 3_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ considered_VBN ._.
+Based_VBN on_IN our_PRP$ preliminary_JJ investigation_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, we_PRP describe_VBP an_DT implementation_NN that_WDT utilizes_VBZ a_DT relational_JJ database_NN and_CC an_DT OLAP_NNP engine_NN to_TO improve_VB the_DT performance_NN of_IN Bregman_FW co-clustering_FW alg_NN

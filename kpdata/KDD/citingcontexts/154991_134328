@@ -1,0 +1,5 @@
+e_LS same_JJ contexts_NNS tend_VBP to_TO be_VB similar_JJ ._.
+This_DT is_VBZ known_VBN as_IN the_DT Distributional_JJ Hypothesis_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+There_EX have_VBP been_VBN many_JJ approaches_NNS to_TO compute_VB the_DT similarity_NN between_IN words_NNS based_VBN on_IN their_PRP$ distribution_NN in_IN a_DT corpus_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =-[_NN 8_CD -RRB-_-RRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+The_DT output_NN of_IN these_DT programs_NNS is_VBZ a_DT ranked_VBN list_NN of_IN similar_JJ words_NNS to_TO each_DT word_NN ._.
+For_IN example_NN ,_, -LRB-_-LRB- 12_CD -RRB-_-RRB- outputs_VBZ the_DT following_JJ similar_JJ words_NNS for_IN wine_NN and_CC suit_NN :_: wine_NN :_: beer_NN ,_, white_JJ wine_NN ,_, red_JJ wine_NN ,_, Chardon_NNP

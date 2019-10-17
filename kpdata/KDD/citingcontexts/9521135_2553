@@ -1,0 +1,4 @@
+representative_NN for_IN the_DT data_NNS points_NNS in_IN that_DT cell_NN ._.
+RP_NN trees_NNS are_VBP based_VBN on_IN k-d_NN trees_NNS ,_, which_WDT are_VBP spatial_JJ data_NNS structures_NNS that_IN partition_NN a_DT data_NN space_NN by_IN recursively_RB splitting_JJ along_IN one_CD coordinate_NN at_IN a_DT time_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Rather_RB than_IN splitting_NN along_IN coordinate_JJ directions_NNS ,_, RP_NN tree_NN splits_VBZ are_VBP made_VBN according_VBG to_TO randomly_RB chosen_VBN directions_NNS ._.
+All_DT points_NNS in_IN the_DT current_JJ cell_NN are_VBP projected_VBN along_IN the_DT random_JJ direction_NN and_CC the_DT ce_NN

@@ -1,0 +1,3 @@
+ic_JJ graph_NN ._.
+While_IN we_PRP could_MD use_VB a_DT frequent_JJ subgraph_JJ miner_NN -LRB-_-LRB- 12_CD ,_, 23_CD -RRB-_-RRB- for_IN this_DT purpose_NN ,_, experiments_NNS have_VBP shown_VBN that_IN the_DT best-compressing_JJ patterns_NNS comparably_RB capture_VBP the_DT complete_JJ repeated_JJ structural_JJ changes_NNS =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP define_VBP the_DT best-compressing_JJ subgraphs_NNS as_IN those_DT which_WDT minimize_VBP the_DT description_NN length_NN of_IN the_DT input_NN graph_NN after_IN being_VBG compressed_VBN by_IN the_DT subgraphs_NNS based_VBN on_IN the_DT Minimum_NNP Description_NN Length_NN -LRB-_-LRB- MDL_NN -RRB-_-RRB- princ_NN

@@ -1,0 +1,5 @@
+o_NN use_VB a_DT margin_NN maximization_NN algorithm_NN such_JJ as_IN Transductive_JJ Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- TSVM_NNP -RRB-_-RRB- ._.
+Since_IN finding_VBG the_DT exact_JJ TSVM_NN solution_NN is_VBZ NP-hard_JJ ,_, several_JJ approximation_NN algorithms_NNS have_VBP been_VBN proposed_VBN -LRB-_-LRB- 4_CD -RRB-_-RRB- -LRB-_-LRB- 10_CD -RRB-_-RRB- =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =-[_NN 16_CD -RRB-_-RRB- -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+However_RB ,_, the_DT unique_JJ structure_NN of_IN time_NN series_NN makes_VBZ the_DT density_NN measure_NN less_RBR meaningful_JJ ._.
+For_IN example_NN ,_, in_IN -LRB-_-LRB- 23_CD -RRB-_-RRB- Keogh_NNP et_FW ._.
+al._FW showed_VBD that_IN ``_`` -LRB-_-LRB- abnormal_JJ time_NN series_NN -RRB-_-RRB- do_VBP not_RB necessarily_RB live_VB in_IN spar_NN

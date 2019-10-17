@@ -1,0 +1,5 @@
+the_DT data_NNS structure_NN -RRB-_-RRB- ._.
+Accelerated_VBN algorithms_NNS of_IN this_DT type_NN exist_VBP for_IN many_JJ common_JJ probabilistic_JJ models_NNS ._.
+In_IN some_DT cases_NNS ,_, such_JJ as_IN k-means_NN ,_, it_PRP is_VBZ possible_JJ to_TO accelerate_VB the_DT computation_NN of_IN an_DT exact_JJ solution_NN =_JJ -_: =[_NN 1_CD ,_, 16_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN other_JJ algorithms_NNS ,_, such_JJ as_IN expectation_NN --_: maximization_NN for_IN Gaussian_JJ mixtures_NNS ,_, the_DT evaluations_NNS are_VBP only_RB approximate_JJ but_CC can_MD be_VB controlled_VBN by_IN tuning_NN a_DT quality_NN parameter_NN -LRB-_-LRB- 13_CD ,_, 10_CD ,_, 9_CD -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, a_DT similar_JJ

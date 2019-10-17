@@ -1,0 +1,5 @@
+al_FW knowledge_NN bases_NNS ._.
+2.2_CD Inconsistencies_NNS The_DT handling_NN of_IN inconsistencies_NNS in_IN DL_NN knowledge_NN bases_NNS ,_, often_RB also_RB referred_VBN to_TO as_IN bugs_NNS or_CC defects_NNS ,_, has_VBZ been_VBN well_RB investigated_VBN ._.
+Methods_NNS exist_VBP for_IN finding_VBG defects_NNS =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: and_CC also_RB for_IN automatically_RB resolving_VBG them_PRP -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+Preserving_VBG the_DT formalism_NN used_VBN comes_VBZ at_IN the_DT cost_NN of_IN having_VBG to_TO remove_VB information_NN ._.
+Approximate_JJ reasoning_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- gives_VBZ up_RP correctness_NN ,_, and_CC approaches_NNS like_IN m_NN

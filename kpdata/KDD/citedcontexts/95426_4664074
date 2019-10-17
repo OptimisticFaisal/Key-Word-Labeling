@@ -1,0 +1,4 @@
+streaming_NN data_NNS has_VBZ become_VBN an_DT urgent_JJ problem_NN ._.
+Recently_RB ,_, a_DT lot_NN of_IN research_NN has_VBZ been_VBN performed_VBN on_IN stream_NN data_NNS mining_NN ,_, including_VBG clustering_NN -LRB-_-LRB- 14_CD ,_, 2_CD -RRB-_-RRB- ,_, aggregate_JJ computation_NN -LRB-_-LRB- 13_CD ,_, 6_CD -RRB-_-RRB- ,_, classifier_NN construction_NN =_JJ -_: =[_NN 4_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC frequent_JJ counts_NNS computation_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+However_RB ,_, a_DT lot_NN of_IN issues_NNS still_RB need_VBP to_TO be_VB explored_VBN to_TO ensure_VB that_IN high-speed_JJ ,_, nonstatic_JJ streams_NNS can_MD be_VB mined_VBN in_IN real-time_JJ and_CC at_IN a_DT reasonable_JJ cost_NN ._.
+Let_NNP 's_POS examin_NN

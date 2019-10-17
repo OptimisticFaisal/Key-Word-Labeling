@@ -1,0 +1,4 @@
+47_CD ,_, 57_CD -RRB-_-RRB- ._.
+•_VB The_DT messy_JJ and_CC rather_RB artificial_JJ problem_NN of_IN defining_VBG word_NN boundaries_NNS can_MD be_VB avoided_VBN ._.
+This_DT is_VBZ particularly_RB attractive_JJ to_TO text_NN classification_NN for_IN oriental_JJ languages_NNS -LRB-_-LRB- Chinese_NNP ,_, Japanese_NNP ,_, etc._NN -RRB-_-RRB- =_JJ -_: =[_NN 1_CD ,_, 23_CD ,_, 47_CD -RRB-_-RRB- -_: =_JJ -_: ,_, because_IN many_JJ oriental_JJ languages_NNS do_VBP not_RB utilize_VB word_NN delimiters_NNS as_IN whitespace_NN characters_NNS in_IN western_JJ languages_NNS -LRB-_-LRB- English_NNP ,_, French_NNP ,_, etc._NN -RRB-_-RRB- ._.
+Although_IN it_PRP is_VBZ possible_JJ to_TO perform_VB automatic_JJ word_NN segmentation_NN t_NN

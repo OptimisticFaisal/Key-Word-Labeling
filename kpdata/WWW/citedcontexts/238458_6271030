@@ -1,0 +1,5 @@
+-_: in-the-middle_JJ attacks_NNS -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+Furthermore_RB ,_, out-of-band_JJ techniques_NNS can_MD be_VB logistically_RB difficult_JJ to_TO deploy_VB ._.
+Several_JJ research_NN projects_NNS have_VBP proposed_VBN using_VBG password_NN managers_NNS to_TO protect_VB users_NNS '_POS credentials_NNS =_JJ -_: =[_NN 14_CD ,_, 23_CD ,_, 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Almost_RB all_DT these_DT tools_NNS rely_VBP on_IN a_DT technique_NN known_VBN as_IN ``_`` password_NN hashing_VBG ''_'' to_TO ensure_VB that_IN one_CD user_NN never_RB re-uses_VBZ a_DT password_NN on_IN more_JJR than_IN one_CD Web_NN site_NN ._.
+The_DT idea_NN is_VBZ simple_JJ :_: these_DT techniques_NNS use_VBP some_DT site_NN -_:

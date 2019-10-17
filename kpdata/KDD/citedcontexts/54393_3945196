@@ -1,0 +1,4 @@
+rvey_NN respondents_NNS -LRB-_-LRB- data_NNS providers_NNS -RRB-_-RRB- ._.
+Most_JJS existing_VBG privacy_NN preserving_NN algorithms_NNS in_IN such_JJ system_NN use_VBP an_DT randomization_NN approach_NN which_WDT randomizes_VBZ the_DT original_JJ data_NNS to_TO protect_VB the_DT privacy_NN of_IN data_NNS providers_NNS =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 3_CD ,_, 4_CD ,_, 5_CD ,_, 6_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP establish_VBP the_DT foundation_NN for_IN analyzing_VBG the_DT tradeoff_NN between_IN the_DT accuracy_NN of_IN data_NN mining_NN results_NNS and_CC the_DT privacy_NN protection_NN of_IN sensitive_JJ data_NNS ._.
+Our_PRP$ contribution_NN can_MD be_VB summarized_VBN as_IN

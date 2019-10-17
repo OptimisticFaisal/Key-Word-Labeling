@@ -1,0 +1,5 @@
+inconf_NN =_JJ 95_CD %_NN mation_NN ._.
+Similar_JJ to_TO the_DT representation_NN of_IN all_DT frequent_JJ patterns_NNS by_IN the_DT frequent_JJ closed_JJ patterns_NNS ,_, one_PRP can_MD represent_VB all_DT valid_JJ association_NN rules_NNS by_IN certain_JJ subsets_NNS ,_, so-called_JJ bases_NNS ._.
+In_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 56_CD -_: =-]_CD ,_, and_CC -LRB-_-LRB- 43_CD -RRB-_-RRB- ,_, dierent_JJ bases_NNS for_IN association_NN rules_NNS are_VBP introduced_VBN ._.
+The_DT computation_NN of_IN the_DT bases_NNS does_VBZ not_RB require_VB all_DT frequent_JJ patterns_NNS ,_, but_CC only_RB the_DT closed_JJ ones_NNS ._.
+Here_RB we_PRP will_MD only_RB show_VB by_IN an_DT example_NN -LRB-_-LRB- ta_NN

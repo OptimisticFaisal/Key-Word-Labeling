@@ -1,0 +1,4 @@
+f_LS the_DT function_NN 's_POS value_NN at_IN the_DT neighboring_JJ points_NNS ._.
+The_DT result_NN is_VBZ a_DT principled_JJ ,_, independent_JJ development_NN of_IN the_DT weighted-voting_JJ relational_JJ neighbor_NN classifier_NN -LRB-_-LRB- wvRN_NN -RRB-_-RRB- from_IN statistical_JJ relational_JJ learning_NN =_JJ -_: =[_NN 21_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Experimental_JJ results_NNS show_VBP these_DT two_CD procedures_NNS to_TO yield_VB almost_RB identical_JJ generalization_NN performance_NN ,_, albeit_IN the_DT matrix-based_JJ procedure_NN is_VBZ much_RB slower_JJR than_IN the_DT iterative_JJ wvRN_NN ._.
+This_DT suggests_VBZ that_IN wvRN_NN

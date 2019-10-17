@@ -1,0 +1,4 @@
+point_NN in_IN a_DT n-dimensional_JJ space_NN ._.
+Points_NNS whose_WP$ distance_NN to_TO their_PRP$ k_NN th_DT nearest_JJS neighbor_NN is_VBZ large_JJ are_VBP considered_VBN candidate_NN outliers_NNS ._.
+Several_JJ variations_NNS and_CC efficient_JJ algorithms_NNS on_IN this_DT have_VBP been_VBN proposed_VBN =_JJ -_: =[_NN 2_CD ,_, 9_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT limitation_NN of_IN distancebased_JJ outlier_NN techniques_NNS is_VBZ that_IN they_PRP are_VBP not_RB flexible_JJ to_TO discover_VB local_JJ outliers_NNS ,_, especially_RB in_IN data_NNS sets_NNS which_WDT have_VBP non-uniform_JJ density_NN as_IN one_CD moves_NNS across_IN the_DT data_NNS landsca_NN

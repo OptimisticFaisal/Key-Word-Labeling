@@ -1,0 +1,5 @@
+Social_NNP Networks_NNP ._.
+1_CD ._.
+INTRODUCTION_NNP Social_NNP network_NN plays_VBZ a_DT significant_JJ role_NN as_IN the_DT spread_NN of_IN information_NN and_CC influence_NN for_IN target_NN marketing_NN and_CC immunization_NN setting_NN ._.
+The_DT problem_NN ,_, influence_NN maximization_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, is_VBZ to_TO find_VB a_DT subset_NN of_IN influential_JJ individuals_NNS -LRB-_-LRB- as_IN seeds_NNS -RRB-_-RRB- such_JJ that_IN they_PRP can_MD eventually_RB influence_VB the_DT largest_JJS number_NN of_IN people_NNS in_IN a_DT social_JJ network_NN ._.
+Some_DT greedy_JJ -LRB-_-LRB- 6_CD -RRB-_-RRB- -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC heuristic_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_CD -RRB-_-RRB- methods_NNS a_DT

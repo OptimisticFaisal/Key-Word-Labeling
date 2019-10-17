@@ -1,0 +1,5 @@
+._.
+One_CD would_MD expect_VB this_DT method_NN to_TO be_VB an_DT upper_JJ bound_VBN on_IN the_DT performance_NN of_IN all_DT CDE-based_JJ methods_NNS ._.
+2.3_CD Semi-Supervised_NNP Learning_NNP Methods_NNS In_IN this_DT section_NN we_PRP discuss_VBP semi-supervised_JJ learning_NN -LRB-_-LRB- SSL_NN -RRB-_-RRB- methods_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT induce_VBP a_DT classifier_NN using_VBG examples_NNS from_IN NEW_NN unlabel_NN ._.
+Unlike_IN the_DT methods_NNS in_IN the_DT previous_JJ section_NN ,_, no_DT explicit_JJ adjustment_NN is_VBZ made_VBN for_IN differences_NNS in_IN class_NN distribution_NN ._.
+Our_PRP$ first_JJ SSL-based_JJ metho_NN

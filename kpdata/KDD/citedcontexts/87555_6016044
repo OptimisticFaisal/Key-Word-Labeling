@@ -1,0 +1,5 @@
+or_CC example_NN ,_, -LRB-_-LRB- 15_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Doing_VBG this_DT well_NN is_VBZ often_RB nontrivial_JJ and_CC requires_VBZ considerable_JJ knowledge_NN of_IN the_DT algorithm_NN ._.
+The_DT second_JJ approach_NN uses_VBZ Bayes_NNP risk_NN theory_NN to_TO assign_VB each_DT example_NN to_TO its_PRP$ lowest_JJS risk_NN class_NN =_JJ -_: =[_NN 14_CD ,_, 46_CD ,_, 32_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT requires_VBZ estimating_VBG conditional_JJ class_NN probabilities_NNS and_CC ,_, if_IN costs_NNS are_VBP stochastic_JJ ,_, estimating_VBG expected_VBN costs_NNS -LRB-_-LRB- 46_CD -RRB-_-RRB- ._.
+The_DT third_JJ category_NN concerns_VBZ black-box_JJ reductions_NNS for_IN converting_VBG arbitrary_JJ class_NN

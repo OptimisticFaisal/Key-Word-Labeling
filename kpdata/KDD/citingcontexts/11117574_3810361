@@ -1,0 +1,4 @@
+TML_NN empirically_RB in_IN this_DT section_NN by_IN comparing_VBG it_PRP with_IN two_CD metric_JJ learning_NN methods_NNS ,_, ITML_NN 2_CD -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC RDML_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, and_CC another_DT metric_JJ learning_NN method_NN for_IN transfer_NN learning_NN ,_, L-DML_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- ._.
+We_PRP use_VBP the_DT CVX_NNP solver_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: 3_CD to_TO 2_CD The_DT implementation_NN of_IN ITML_NN can_MD be_VB found_VBN in_IN http:\/\/www.cs.utexas.edu\/users\/pjain\/itml\/_NN ._.
+3_CD http:\/\/stanford.edu\/∼boyd\/cvx_NN solve_VBP problem_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+We_PRP set_VBD the_DT learning_NN rate_NN

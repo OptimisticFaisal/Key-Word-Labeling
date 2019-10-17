@@ -1,0 +1,4 @@
+isting_VBG PHP_NNP code_NN ._.
+Other_JJ security_NN analysis_NN of_IN PHP_NN code_NN ,_, e.g._FW ,_, SQL_NN injection_NN attacks_NNS ,_, use_NN string_NN analyzers_NNS to_TO obtain_VB over-approximations_NNS -LRB-_-LRB- in_IN form_NN of_IN context_NN free_JJ grammars_NNS -RRB-_-RRB- of_IN the_DT HTML_NNP output_NN by_IN a_DT server_NN =_JJ -_: =[_NN 28_CD ,_, 43_CD ,_, 44_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ work_NN is_VBZ complementary_JJ to_TO previous_JJ efforts_NNS in_IN using_VBG SMT_NNP solvers_VBZ to_TO solve_VB problems_NNS related_VBN to_TO list_NN transformations_NNS ._.
+HAMPI_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- and_CC Kaluza_NNP -LRB-_-LRB- 34_CD -RRB-_-RRB- extend_VBP the_DT STP_NN solver_VBZ to_TO handle_VB equations_NNS over_IN string_NN

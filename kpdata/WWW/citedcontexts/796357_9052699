@@ -1,0 +1,5 @@
+e_LS Workers_NNP ._.
+These_DT two_CD traits_NNS limit_VBP its_PRP$ usefulness_NN on_IN an_DT unreliable_JJ network_NN ._.
+While_IN Flexmon_NNP demonstrates_VBZ scalability_NN at_IN least_JJS to_TO hundreds_NNS of_IN nodes_NNS ,_, ANEMOS_NNP has_VBZ only_RB been_VBN tested_VBN to_TO tens_NNS ._.
+The_DT work_NN in_IN ATMEN_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: describes_VBZ an_DT open_JJ framework_NN for_IN providing_VBG network_NN measurement_NN services_NNS and_CC querying_VBG the_DT results_NNS ._.
+Its_PRP$ distributed_VBN architecture_NN provides_VBZ scalability_NN for_IN measurement_NN ,_, but_CC does_VBZ not_RB provide_VB functionality_NN

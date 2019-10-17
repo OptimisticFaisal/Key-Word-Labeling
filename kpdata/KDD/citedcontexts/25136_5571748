@@ -1,0 +1,3 @@
+made_VBN available_JJ through_IN data_NN mining_NN algorithms_NNS ,_, and_CC how_WRB to_TO minimize_VB information_NN leakage_NN -LRB-_-LRB- 3_CD ,_, 10_CD -RRB-_-RRB- ._.
+Also_RB ,_, the_DT extraction_NN of_IN association_NN rules_NNS in_IN horizontally_RB partitioned_VBN data_NNS ,_, was_VBD addressed_VBN in_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, while_IN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: addresses_VBZ the_DT same_JJ problem_NN for_IN vertically_RB partitioned_VBN data_NNS ._.
+Concerning_VBG clustering_NN ,_, in_IN -LRB-_-LRB- 19_CD -RRB-_-RRB- an_DT adaptation_NN of_IN the_DT k-means_NN algorithm_NN using_VBG several_JJ primitives_NNS from_IN the_DT secure_JJ multi-party_JJ computation_NN lite_NN

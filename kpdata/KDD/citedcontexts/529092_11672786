@@ -1,0 +1,5 @@
+d_NN for_IN online_JJ transaction_NN processing_NN systems_NNS ._.
+However_RB ,_, they_PRP could_MD not_RB provide_VB adequate_JJ results_NNS in_IN online_JJ analytical_JJ processing_NN systems_NNS ._.
+These_DT data_NNS structures_NNS needed_VBD space_NN not_RB less_JJR than_IN the_DT data_NNS itself_PRP =_JJ -_: =[_NN 1_CD ,_, 4_CD ,_, 5_CD ,_, 7_CD ,_, 9_CD ,_, 12_CD ,_, 18_CD ,_, 19_CD ,_, 20_CD ,_, 23_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Multidimensional_JJ database_NN systems_NNS need_VBP an_DT indexing_NN system_NN that_WDT stores_VBZ indexes_NNS in_IN less_JJR space_NN and_CC takes_VBZ lesser_JJR time_NN to_TO generate_VB multidimensional_JJ indexes_NNS ._.
+In_IN database_NN ,_, individual_JJ indexes_NNS generated_VBN for_IN

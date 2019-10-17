@@ -1,0 +1,3 @@
+nt_NN of_IN sampling_NN in_IN which_WDT items_NNS are_VBP examined_VBN one_CD at_IN a_DT time_NN ,_, and_CC every_DT time_NN one_CD decides_VBZ whether_IN to_TO continue_VB sampling_NN or_CC to_TO stop_VB and_CC make_VB a_DT decision_NN ._.
+Sequential_JJ sampling_NN and_CC Hoeffding_NNP 's_POS bound_VBN was_VBD used_VBN in_IN =_JJ -_: =[_NN 16_CD ,_, 23_CD ,_, 31_CD ,_, 32_CD ,_, 33_CD -RRB-_-RRB- -_: =_SYM -_: to_TO give_VB sampling-based_JJ algorithms_NNS for_IN various_JJ data_NNS mining_NN tasks_NNS ._.
+For_IN large_JJ datasets_NNS ,_, all_PDT these_DT works_NNS indicate_VBP important_JJ speed_NN gains_NNS over_IN traditional_JJ implementations_NNS in_IN which_WDT the_DT dataset_NN is_VBZ examined_VBN e_SYM

@@ -1,0 +1,3 @@
+ggested_VBN in_IN the_DT case_NN of_IN high-dimensional_JJ data_NNS ,_, if_IN we_PRP apply_VBP co-clustering_JJ to_TO simultaneously_RB cluster_VB both_DT data_NNS points_NNS and_CC features_NNS ,_, we_PRP sometimes_RB improve_VB the_DT regular_JJ clustering_NN results_NNS on_IN the_DT data_NNS points_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN traditional_JJ clustering_NN ,_, generative_JJ models_NNS provide_VBP algorithms_NNS that_WDT can_MD be_VB understood_VBN as_IN statistical_JJ generalizations_NNS of_IN the_DT k-means_NN algorithm_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+The_DT basic_JJ k-means_NN algorithm_NN has_VBZ a_DT fully_RB combinato_JJ

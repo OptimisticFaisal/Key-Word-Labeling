@@ -1,0 +1,5 @@
+d_NN from_IN US_NNP Forest_NNP Service_NNP -LRB-_-LRB- USFS_NNP -RRB-_-RRB- Region_NN 2_CD Resource_NNP Information_NNP System_NNP -LRB-_-LRB- RIS_NNP -RRB-_-RRB- data_NNS ._.
+It_PRP contains_VBZ 581_CD ,_, 012_CD instances_NNS and_CC 54_CD attributes_NNS ,_, and_CC it_PRP has_VBZ been_VBN used_VBN in_IN several_JJ papers_NNS on_IN data_NNS stream_NN classification_NN =_JJ -_: =[_NN 18_CD ,_, 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Poker-Hand_JJ Consists_NNS of_IN 1_CD ,_, 000_CD ,_, 000_CD instances_NNS and_CC 11_CD attributes_NNS ._.
+Each_DT record_NN of_IN the_DT Poker-Hand_NNP dataset_NN is_VBZ an_DT example_NN of_IN a_DT hand_NN consisting_VBG of_IN five_CD playing_NN cards_NNS drawn_VBN from_IN a_DT standard_JJ deck_NN of_IN 52_CD ._.
+Each_DT

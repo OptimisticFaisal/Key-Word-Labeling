@@ -1,0 +1,3 @@
+rning_NN and_CC dense_JJ association_NN rule_NN learning_NN ._.
+But_CC what_WP about_IN real-valued_JJ data_NNS ?_.
+By_IN means_NNS of_IN mrkdtrees_NNS -LRB-_-LRB- multiresolution_JJ k-dimensional_NN trees_NNS -RRB-_-RRB- -LRB-_-LRB- Deng_NNP &_CC Moore_NNP ,_, 1995_CD ;_: Moore_NNP ,_, Schneider_NNP ,_, &_CC ;_: Deng_NNP ,_, 1997_CD ;_: Pelleg_NNP &_CC ;_: =_JJ -_: =_JJ Moore_NNP ,_, 1999_CD -_: =_JJ -_: ,_, 2000_CD -RRB-_-RRB- -LRB-_-LRB- an_DT extension_NN of_IN kd-trees_NNS -LRB-_-LRB- Friedman_NNP ,_, Bentley_NNP ,_, &_CC ;_: Finkel_NNP ,_, 1977_CD -RRB-_-RRB- -RRB-_-RRB- we_PRP can_MD perform_VB clustering_NN ,_, and_CC a_DT very_RB wide_JJ class_NN of_IN non-parametric_JJ statistical_JJ techniques_NNS on_IN enormous_JJ data_NNS sources_NNS hundreds_NNS of_IN t_NN

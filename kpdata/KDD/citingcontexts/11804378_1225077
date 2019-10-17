@@ -1,0 +1,5 @@
+parametric_JJ models_NNS ._.
+We_PRP consider_VBP a_DT time_NN series_NN of_IN monthly_JJ evapotranspiration_NN rates_NNS Xt_NN ,_, t_NN =_JJ 1_CD ,_, ..._: ,_, 96_CD ,_, obtained_VBN during_IN the_DT period_NN of_IN 1960_CD to_TO 1970_CD at_IN Yotvata_NNP ,_, Souther_NNP Israel_NNP ._.
+The_DT problem_NN appears_VBZ in_IN -LRB-_-LRB- =_JJ -_: =_JJ Kedem_NNP and_CC Fokianos_NNP ,_, 2002_CD -_: =-]_CD ._.
+The_DT data_NN is_VBZ analyzed_VBN by_IN clipping_JJ the_DT seasonal_JJ difference_NN Wt_NN =_JJ Xt_FW −_FW Xt_FW −_FW 12_CD ,_, thus_RB Yt_FW −_FW 12_CD =_JJ 1_CD if_IN Wt_NNP ≥_NNP ¯_NNP W_NNP or_CC else_RB Yt_FW −_FW 12_CD =_JJ 0_CD for_IN t_NN =_JJ 13_CD ,_, ..._: ,_, 96_CD ._.
+The_DT clipped_VBN time_NN series_NN Yt_NN ,_, t_NN =_JJ 1_CD ,_, ..._: ,_, 84_CD ,_, can_MD be_VB

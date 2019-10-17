@@ -1,0 +1,5 @@
+sed_VBN to_TO build_VB the_DT coassociation_NN matrix_NN the_DT more_JJR clusters_NNS result_VBP from_IN the_DT combination_NN ._.
+The_DT same_JJ kind_NN of_IN experiments_NNS but_CC with_IN another_DT combination_NN scheme_NN is_VBZ made_VBN by_IN Topchy_NNP et_FW al._FW in_IN -LRB-_-LRB- 58_CD -RRB-_-RRB- ._.
+Lange_NN and_CC Buhmann_NN =_JJ -_: =[_NN 59_CD -RRB-_-RRB- -_: =_SYM -_: optimize_VB a_DT probabilistic_JJ model_NN of_IN the_DT co-association_NN matrix_NN ._.
+The_DT EMalgorithm_NN optimizes_VBZ model_NN parameters_NNS and_CC needs_NNS O_NN -LRB-_-LRB- I2_NN -RRB-_-RRB- operations_NNS for_IN each_DT iteration_NN ,_, where_WRB I_PRP is_VBZ the_DT number_NN of_IN data_NNS samples_NNS ._.
+It_PRP makes_VBZ

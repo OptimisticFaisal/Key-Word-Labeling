@@ -1,0 +1,6 @@
+data_NNS types_NNS ._.
+For_IN example_NN ,_, a_DT float_NN and_CC an_DT integer_NN can_MD in_IN some_DT cases_NNS be_VB used_VBN interchangeably_RB ,_, while_IN a_DT float_NN and_CC a_DT string_NN typically_RB can_MD not_RB ._.
+We_PRP base_VBP this_DT idea_NN and_CC use_VB the_DT actual_JJ sets_NNS of_IN related_JJ types_NNS from_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT other_JJ part_NN of_IN the_DT equation_NN is_VBZ matching_VBG the_DT cardinality_NN of_IN an_DT element_NN in_IN the_DT schema_NN -LRB-_-LRB- simCar_NN or_CC equivalently_RB simcardinality_NN -RRB-_-RRB- ._.
+Elements_NNS in_IN a_DT schema_NN may_MD occur_VB with_IN a_DT varying_VBG degree_NN of_IN cardinality_NN ._.
+T_NN

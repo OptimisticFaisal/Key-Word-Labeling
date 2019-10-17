@@ -1,0 +1,3 @@
+assifiers_NNS in_IN which_WDT later_JJ individuals_NNS focus_VBP on_IN classifying_VBG the_DT more_RBR difficult_JJ points_NNS ._.
+Several_JJ recent_JJ studies_NNS have_VBP examined_VBN the_DT relative_JJ strengths_NNS of_IN these_DT techniques_NNS ;_: see_VB for_IN instance_NN Bauer_NNP and_CC Kohavi_NNP =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC Opitz_NNP and_CC Maclin_NNP -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+The_DT current_JJ evidence_NN seems_VBZ to_TO show_VB that_IN Bagging_NNP consistently_RB improves_VBZ on_IN the_DT accuracy_NN of_IN a_DT single_JJ classifier_NN ,_, while_IN Boosting_VBG is_VBZ sometimes_RB better_JJR -LRB-_-LRB- or_CC even_RB much_RB better_JJR -RRB-_-RRB- than_IN

@@ -1,0 +1,4 @@
+by_IN exchanging_VBG only_RB the_DT minimal_JJ necessary_JJ information_NN among_IN the_DT participating_VBG nodes_NNS without_IN transmitting_VBG the_DT raw_JJ data_NNS ._.
+Privacy_NN preserving_NN association_NN rule_NN mining_NN from_IN homogeneous_JJ -LRB-_-LRB- 9_CD -RRB-_-RRB- and_CC heterogeneous_JJ =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: distributed_VBN data_NNS sets_NNS are_VBP few_JJ examples_NNS ._.
+The_DT second_JJ approach_NN is_VBZ based_VBN onsdata-swapping_JJ which_WDT works_VBZ by_IN swapping_VBG data_NNS values_NNS within_IN same_JJ feature_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+There_EX is_VBZ also_RB an_DT approach_NN which_WDT works_VBZ by_IN adding_VBG rand_NN

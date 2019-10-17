@@ -1,0 +1,5 @@
+-LRB-_-LRB- 7_CD -RRB-_-RRB- -LRB-_-LRB- 15_CD -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Most_JJS existing_VBG models_NNS consider_VBP the_DT social_JJ networks_NNS only_RB as_IN a_DT graph_NN with_IN nodes_NNS and_CC edges_NNS ._.
+Recently_RB ,_, some_DT researchers_NNS have_VBP investigated_VBN social_JJ networks_NNS which_WDT include_VBP attributes_NNS for_IN nodes_NNS =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =-[_NN 11_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN we_PRP investigate_VBP Social_NNP Rating_NNP Networks_NNP -LRB-_-LRB- SRN_NNP -RRB-_-RRB- ._.
+A_DT Social_NNP Rating_NNP Network_NNP is_VBZ a_DT social_JJ network_NN in_IN which_WDT each_DT user_NN expresses_VBZ ratings_NNS on_IN some_DT items_NNS besides_IN creating_VBG social_JJ relations_NNS to_TO oth_VB

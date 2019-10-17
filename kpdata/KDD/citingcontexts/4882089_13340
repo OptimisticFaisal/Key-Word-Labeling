@@ -1,0 +1,5 @@
+5.00_CD ._.
+P._NNP S._NNP Sastry_NNP Indian_NNP Institute_NNP of_IN Science_NNP Bangalore_NNP sastry@ee.iisc.ernet.in_NNP K._NNP P._NNP Unnikrishnan_NNP General_NNP Motors_NNPS R_NNP &_CC D_NNP Center_NNP Warren_NNP k.unnikrishnan@gm.com_NNP 1_CD ._.
+INTRODUCTION_NN Frequent_JJ episode_NN discovery_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT popular_JJ framework_NN for_IN temporal_JJ data_NNS mining_NN ._.
+The_DT framework_NN is_VBZ applicable_JJ on_IN data_NNS available_JJ as_IN a_DT single_JJ long_JJ sequence_NN of_IN ordered_VBN pairs_NNS ,_, -LRB-_-LRB- Ei_NNP ,_, ti_FW -RRB-_-RRB- ,_, which_WDT are_VBP called_VBN as_IN events_NNS ._.
+In_IN each_DT event_NN ,_, -LRB-_-LRB- Ei_NNP ,_, ti_FW

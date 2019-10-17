@@ -1,0 +1,5 @@
+s_NN and_CC open_JJ questions_NNS ._.
+2_CD ._.
+Mining_NN outerplanar_NN graphs_NNS Outerplanar_NNP graphs_NNS are_VBP graphs_NNS that_WDT can_MD be_VB drawn_VBN in_IN a_DT plane_NN without_IN crossing_VBG edges_NNS in_IN such_PDT a_DT way_NN that_IN all_DT vertices_NNS are_VBP adjacent_JJ to_TO the_DT outer_JJ face_NN ._.
+In_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP point_VBP out_RP that_IN 94.5_CD %_NN of_IN the_DT molecules_NNS stored_VBN in_IN the_DT NCI_NN database_NN -LRB-_-LRB- containing_VBG 250251_CD molecules_NNS -RRB-_-RRB- can_MD be_VB represented_VBN as_IN outerplanar_JJ graphs_NNS ._.
+Moreover_RB ,_, only_RB a_DT few_JJ blocks_NNS contain_VBP more_JJR than_IN 10_CD diagonals_NNS

@@ -1,0 +1,5 @@
+ther_NN analysis_NN ._.
+5_CD ._.
+CHI-SQUARE_NN TEST_NN For_IN the_DT proposed_VBN technique_NN ,_, we_PRP need_VBP a_DT statistical_JJ test_NN for_IN homogeneity_NN of_IN a_DT set_NN of_IN proportions_NNS -LRB-_-LRB- support_NN and_CC confidence_NN are_VBP both_DT proportions_NNS -RRB-_-RRB- ._.
+Chi-square_NN -LRB-_-LRB- c_NN 2_CD -RRB-_-RRB- test_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT popular_JJ choice_NN ._.
+Test_NN of_IN homogeneity_NN :_: A_DT test_NN of_IN homogeneity_NN involves_VBZ testing_VBG the_DT null_JJ hypothesis_NN -LRB-_-LRB- H_NN 0_CD -RRB-_-RRB- that_IN the_DT proportions_NNS ,_, p_NN 1_CD ,_, p_NN 2_CD ,_, ..._: ,_, p_NN k_NN ,_, in_IN two_CD or_CC more_JJR populations_NNS are_VBP the_DT same_JJ agains_NNS

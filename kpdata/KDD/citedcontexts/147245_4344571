@@ -1,0 +1,4 @@
+heir_NN weights_NNS as_IN time_NN elapses_VBZ ._.
+Alternatively_RB ,_, other_JJ researchers_NNS explore_VBP some_DT sophisticated_JJ methods_NNS to_TO select_VB old_JJ examples_NNS to_TO help_VB train_VB a_DT better_JJR model_NN rather_RB than_IN just_RB using_VBG the_DT most_RBS recent_JJ data_NNS alone_RB =_JJ -_: =[_NN 10_CD ,_, 2_CD ,_, 9_CD ,_, 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT algorithms_NNS select_JJ either_CC old_JJ examples_NNS or_CC old_JJ models_NNS with_IN respect_NN to_TO how_WRB well_RB they_PRP match_VBP the_DT current_JJ data_NNS ._.
+Hence_RB ,_, they_PRP also_RB implicitly_RB make_VB the_DT assumption_NN that_IN the_DT current_JJ training_NN distribution_NN

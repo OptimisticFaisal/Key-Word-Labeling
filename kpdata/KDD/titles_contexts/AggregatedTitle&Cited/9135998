@@ -1,0 +1,14 @@
+Generating_NNP succinct_JJ titles_NNS for_IN web_NN URLs_NNS
+e_LS links_NNS to_TO websites_NNS frequently_RB visited_VBN by_IN other_JJ users_NNS with_IN similar_JJ information_NN needs_NNS -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+The_DT problem_NN of_IN generating_VBG succinct_JJ titles_NNS for_IN quicklinks_NNS and_CC similar_JJ entry_NN points_NNS was_VBD recently_RB considered_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_RB ,_, the_DT authors_NNS proposed_VBD a_DT probabilistic_JJ model_NN for_IN title_NN generation_NN and_CC used_VBD this_DT model_NN to_TO generate_VB short_JJ yet_RB informative_JJ titles_NNS for_IN quicklinks_NNS ,_, in_IN the_DT context_NN of_IN the_DT title_NN of_IN the_DT root_NN page_NN ._.
+Whil_NN
+Pseudo_NNP Queries_NNPS ._.
+Previous_JJ research_NN has_VBZ investigated_VBN methods_NNS for_IN extracting_VBG implicit_JJ queries_NNS for_IN contextual_JJ advertising_NN -LRB-_-LRB- 3_CD ,_, 27_CD ,_, 39_CD -RRB-_-RRB- and_CC the_DT automatic_JJ generation_NN of_IN titles_NNS and_CC quick-links_NNS for_IN web_NN pages_NNS =_JJ -_: =[_NN 12_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT goal_NN of_IN both_DT tasks_NNS is_VBZ to_TO extract_VB short_JJ phrases_NNS that_WDT are_VBP relevant_JJ to_TO a_DT given_VBN web_NN page_NN ._.
+Such_JJ approaches_NNS extract_VBP important_JJ phrases_NNS from_IN various_JJ sources_NNS ,_, including_VBG high_JJ tf_NN ._.
+idf_NN terms_NNS within_IN a_DT page_NN ,_, t_NN
+e_LS links_NNS to_TO websites_NNS frequently_RB visited_VBN by_IN other_JJ users_NNS with_IN similar_JJ information_NN needs_NNS -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+The_DT problem_NN of_IN generating_VBG succinct_JJ titles_NNS for_IN quicklinks_NNS and_CC similar_JJ entry_NN points_NNS was_VBD recently_RB considered_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_RB ,_, the_DT authors_NNS proposed_VBD a_DT probabilistic_JJ model_NN for_IN title_NN generation_NN and_CC used_VBD this_DT model_NN to_TO generate_VB short_JJ yet_RB informative_JJ titles_NNS for_IN quicklinks_NNS ,_, in_IN the_DT context_NN of_IN the_DT title_NN of_IN the_DT root_NN page_NN ._.
+Whil_NN

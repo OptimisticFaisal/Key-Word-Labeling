@@ -1,0 +1,5 @@
+ed_VBN worse_JJR than_IN each_DT of_IN our_PRP$ algorithms_NNS ,_, which_WDT used_VBD the_DT relatedness_NN definition_NN described_VBN next_RB ._.
+2.4.2_CD M&W_NNP 's_POS inlink-based_JJ g_NN -LRB-_-LRB- γ_NN -RRB-_-RRB- and_CC r_NN -LRB-_-LRB- γ_NN ,_, γ_FW ′_FW -RRB-_-RRB- Cocitation_NNP has_VBZ been_VBN used_VBN to_TO detect_VB relatedness_NN for_IN a_DT long_JJ time_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Milne_NNP and_CC Witten_NNP -LRB-_-LRB- 15_CD -RRB-_-RRB- represented_VBD g_NN -LRB-_-LRB- γ_NN -RRB-_-RRB- as_IN the_DT set_NN of_IN Wikipedia_NNP pages_NNS that_WDT link_VBP to_TO γ_NN ,_, with_IN size_NN |_CD g_NN -LRB-_-LRB- γ_NN -RRB-_-RRB- |_CD ._.
+Let_VB c_NN be_VB the_DT total_JJ number_NN of_IN Wikipedia_NNP pages_NNS ._.
+M&W_NNP defined_VBD a_DT relatedness_NN measure_NN -LRB-_-LRB- larger_JJR value_NN i_FW

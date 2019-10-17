@@ -1,0 +1,5 @@
+-LRB-_-LRB- 1_LS -RRB-_-RRB- leads_VBZ to_TO the_DT so-called_JJ Regularized_NNP Least-Squares_NNP Classification_NN which_WDT requires_VBZ only_RB the_DT solution_NN of_IN a_DT linear_JJ system_NN ._.
+The_DT algorithm_NN has_VBZ been_VBN rediscovered_VBN several_JJ times_NNS and_CC has_VBZ many_JJ different_JJ names_NNS =_JJ -_: =[_NN 11_CD ,_, 10_CD ,_, 4_CD ,_, 15_CD -RRB-_-RRB- ._.
+In_IN -_: =_JJ -_: this_DT paper_NN ,_, we_PRP stick_VBP to_TO the_DT term_NN ``_`` RLSC_NNP ''_'' for_IN consistency_NN ._.
+It_PRP has_VBZ been_VBN shown_VBN in_IN -LRB-_-LRB- 11_CD ,_, 4_CD -RRB-_-RRB- that_IN RLSC_NN achieves_VBZ comparable_JJ accuracy_NN in_IN binary_JJ classification_NN problems_NNS to_TO the_DT popular_JJ SVMs_NNS ._.
+If_IN we_PRP substitut_VBP

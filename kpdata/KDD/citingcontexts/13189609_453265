@@ -1,0 +1,4 @@
+and_CC column-oriented_JJ storages_NNS ._.
+Parallel_JJ Data_NNP Management_NNP ._.
+Parallel_JJ data_NNS processing_NN has_VBZ attracted_VBN a_DT lot_NN of_IN industrial_JJ attention_NN recently_RB due_JJ to_TO the_DT success_NN of_IN MAPREDUCE_NNP ,_, a_DT parallel_JJ programming_NN framework_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC its_PRP$ open_JJ source_NN version_NN HADOOP_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+Due_JJ to_TO its_PRP$ excellent_JJ scalability_NN ,_, ease_NN of_IN use_NN ,_, and_CC cost_NN advantage_NN ,_, MAPREDUCE_NN and_CC MAPREDUCElike_NN systems_NNS have_VBP been_VBN extensively_RB explored_VBN for_IN various_JJ data_NNS process_NN

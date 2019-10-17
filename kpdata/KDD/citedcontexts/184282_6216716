@@ -1,0 +1,4 @@
+ch_NN might_MD be_VB a_DT natural_JJ extension_NN to_TO the_DT sketch_NN we_PRP propose_VBP here_RB ._.
+2_CD Background_NN ._.
+Random_JJ projections_NNS are_VBP a_DT powerful_JJ method_NN of_IN dimensionality_NN reduction_NN that_WDT have_VBP been_VBN applied_VBN in_IN numerous_JJ practical_JJ problems_NNS =_JJ -_: =[_NN 5_CD ,_, 17_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC have_VBP also_RB served_VBN as_IN a_DT useful_JJ tool_NN in_IN algorithmic_JJ design_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+The_DT basis_NN of_IN projections_NNS is_VBZ the_DT remarkable_JJ Johnson-Lindenstrauss_JJ lemma_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, which_WDT say_VBP that_IN for_IN any_DT data_NNS set_NN of_IN n_NN points_NNS in_IN d_NN dimens_NNS

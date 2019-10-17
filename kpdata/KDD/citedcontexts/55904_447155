@@ -1,0 +1,5 @@
+Tehran_NNP ,_, Tehran_NNP ,_, Iran_NNP -LRB-_-LRB- e-mail_JJ :_: rahgozar@ut.ac.ir_NN -RRB-_-RRB- ._.
+This_DT algorithm_NN used_VBD a_DT new_JJ data_NN structure_NN ,_, scope-list_NN ,_, to_TO efficiently_RB count_VB the_DT frequency_NN of_IN candidate_NN subtrees_NNS ._.
+The_DT algorithm_NN was_VBD further_RB extended_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: to_TO build_VB a_DT structural_JJ classifier_NN for_IN XML_NN data_NNS ._.
+Asai_NNP et_FW al._FW in_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- presented_VBD an_DT algorithm_NN ,_, FREQT_NN ,_, to_TO find_VB frequent_JJ rooted_JJ ordered_VBN subtrees_NNS ._.
+Also_RB two_CD algorithms_NNS were_VBD proposed_VBN by_IN Asai_NNP et_FW al._FW and_CC Yun_NNP Chi_NNP

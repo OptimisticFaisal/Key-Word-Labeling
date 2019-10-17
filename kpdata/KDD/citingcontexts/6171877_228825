@@ -1,0 +1,5 @@
+algorithms_NNS ._.
+Balderas_FW et_FW al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- mine_VBP hidden_JJ association_NN rules_NNS ,_, or_CC rules_NNS that_WDT are_VBP not_RB common_JJ ,_, but_CC confident_JJ ._.
+Such_JJ rules_NNS are_VBP assumed_VBN to_TO represent_VB the_DT rare_JJ anomaly_JJ class_NN ._.
+WSARE_NN developed_VBN by_IN Wong_NNP et_FW al._FW =_SYM -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: also_RB uses_VBZ rules_NNS to_TO identify_VB anomalies_NNS ._.
+But_CC in_IN this_DT case_NN ,_, the_DT rules_NNS are_VBP learned_VBN from_IN a_DT historical_JJ dataset_NN ,_, and_CC are_VBP applied_VBN on_IN a_DT collection_NN of_IN records_NNS from_IN the_DT current_JJ time_NN interval_NN ,_, to_TO detect_VB unusual_JJ c_NN

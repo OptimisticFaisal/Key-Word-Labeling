@@ -1,0 +1,4 @@
+t_NN reduction_NN ._.
+An_DT empirical_JJ comparison_NN of_IN the_DT three_CD approaches_NNS is_VBZ presented_VBN in_IN Section_NNP 5_CD ._.
+Prior_JJ work_NN The_DT problem_NN considered_VBN here_RB is_VBZ a_DT noninteractive_JJ version_NN of_IN the_DT bandits_NNS problem_NN with_IN side_JJ information_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT has_VBZ been_VBN analyzed_VBN under_IN various_JJ additional_JJ assumptions_NNS about_IN how_WRB the_DT world_NN behaves_VBZ -LRB-_-LRB- 10_CD ,_, 13_CD ,_, 15_CD ,_, 17_CD -RRB-_-RRB- ,_, including_VBG payoffs_NNS as_IN a_DT linear_JJ function_NN of_IN the_DT side_NN information_NN -LRB-_-LRB- 1_CD ,_, 2_CD -RRB-_-RRB- ._.
+The_DT Exp4_NN algorithm_NN -LRB-_-LRB-

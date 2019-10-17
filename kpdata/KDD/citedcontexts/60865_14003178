@@ -1,0 +1,3 @@
+SI_NNP ,_, 08034_CD Barcelona_NNP ⋆_NN 2_CD Massachusetts_NNP Institute_NNP of_IN Technology_NNP ,_, CSAIL_NNP ,_, Cambridge_NNP MA_NNP 02139_CD -LCB-_-LRB- aquattoni,carreras}@lsi.upc.edu_NNP torralba@csail.mit.edu_NNP Abstract_NNP ._.
+Since_IN their_PRP$ introduction_NN ,_, ranking_VBG SVM_NNP models_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP become_VBN a_DT powerful_JJ tool_NN for_IN training_NN content-based_JJ retrieval_NN systems_NNS ._.
+All_DT we_PRP need_VBP for_IN training_VBG a_DT model_NN are_VBP retrieval_NN examples_NNS in_IN the_DT form_NN of_IN triplet_NN constraints_NNS ,_, i.e._FW examples_NNS specifying_VBG that_DT rel_NN

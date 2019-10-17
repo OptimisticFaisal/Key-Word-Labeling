@@ -1,0 +1,3 @@
+ore_NN realistic_JJ density_NN constraint_NN requires_VBZ only_RB that_IN the_DT graph_NN patterns_NNS are_VBP quasi-cliques_NNS ,_, i.e._FW that_IN every_DT node_NN has_VBZ at_IN least_JJS a_DT specified_JJ percentage_NN α_NN of_IN all_DT possible_JJ edges_NNS within_IN the_DT pattern_NN ._.
+-LRB-_-LRB- 14_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: propose_VB new_JJ search_NN space_NN pruning_NN strategies_NNS for_IN efficiently_RB mining_VBG all_DT frequent_JJ ,_, and_CC all_DT closed_VBD frequent_JJ resp._NN ,_, quasi-cliques_NNS ._.
+In_IN many_JJ applications_NNS ,_, both_CC clique_NN and_CC quasi_FW clique_FW constraints_NNS are_VBP very_RB

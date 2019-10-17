@@ -1,0 +1,3 @@
+n_NN fewer_JJR propagation_NN steps_NNS ;_: while_IN larger_JJR values_NNS of_IN k_NN may_MD bring_VB in_RP more_RBR outside_JJ information_NN ._.
+Thus_RB the_DT final_JJ influence_NN can_MD be_VB inferred_VBN from_IN the_DT sequences_NNS of_IN propagation_NN via_IN a_DT weighted_JJ linear_JJ combination_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: :_: Φ_NN f_FW ∝_FW K_NN ∑_FW δ_FW k_NN −_NN 1_CD ·_NN Φ_NN k_NN k_NN =_JJ 1_CD where_WRB K_NN is_VBZ the_DT number_NN of_IN iterations_NNS andδcan_JJ be_VB viewed_VBN as_IN the_DT damping_VBG factor_NN to_TO penalize_VB larger_JJR k_NN step_NN propagation_NN ._.
+As_IN 0_CD -LRB-_-LRB- δ_NN -LRB-_-LRB- 1_CD ,_, 0_CD ≤_NN Φ_NN k_NN ≤_NN 1_CD ,_, when_WRB k_NN increases_VBZ ,_, δ_NN k_NN −_NN 1_CD decreases_VBZ gr_NN

@@ -1,0 +1,4 @@
+Semantic_JJ Web_NN portal_NN providing_VBG ontology_JJ management_NN facilities_NNS to_TO the_DT community_NN members_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+The_DT infrastructure_NN is_VBZ built_VBN as_IN a_DT Java_NNP application_NN including_VBG servlets_NNS and_CC JSP_NNP technology_NN ,_, exploiting_VBG Jena_NNP 2_CD =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: for_IN manipulating_VBG ontology_NN schemata_NN and_CC instance_NN data_NNS ._.
+Ontology_NN Alignment_NN API_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- with_IN its_PRP$ built-in_JJ methods_NNS for_IN automatic_JJ alignment_NN of_IN OWL_NN ontologies_NNS was_VBD reused_VBN at_IN the_DT environment_NN ._.
+An_DT overview_NN of_IN the_DT

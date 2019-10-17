@@ -1,0 +1,3 @@
+to_TO the_DT t-score_NN ,_, as_IN a_DT kind_NN of_IN fail_VB safe_JJ mechanism_NN for_IN our_PRP$ systems_NNS overall_RB ._.
+In_IN addition_NN ,_, pmi_NN has_VBZ a_DT fairly_RB significant_JJ history_NN of_IN use_NN in_IN identifying_VBG collocations_NNS and_CC features_NNS for_IN other_JJ NLP_NN tasks_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =--RRB-_NN -RRB-_-RRB- ,_, and_CC so_IN it_PRP seemed_VBD like_IN a_DT credible_JJ candidate_NN ._.
+pmi_NN has_VBZ a_DT well_RB known_VBN bias_NN towards_IN identifying_VBG words_NNS that_WDT only_RB occur_VBP together_RB ,_, and_CC tends_VBZ to_TO prefer_VB less_RBR frequent_JJ word_NN pairs_NNS ,_, and_CC this_DT is_VBZ why_WRB it_PRP diverges_VBZ

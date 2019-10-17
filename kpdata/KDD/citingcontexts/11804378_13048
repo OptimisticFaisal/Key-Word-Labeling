@@ -1,0 +1,4 @@
+nonparametric_JJ methods_NNS differing_VBG in_IN the_DT choice_NN of_IN function_NN familities_NNS and_CC combination_NN of_IN function_NN families_NNS ._.
+One_CD of_IN the_DT simplest_JJS nonparametric_JJ regression_NN methods_NNS is_VBZ regression_NN trees_NNS ,_, pioneered_VBN by_IN CART_NN -LRB-_-LRB- =_JJ -_: =_JJ Breiman_NNP et_FW al._FW ,_, 1984_CD -_: =-]_CD ._.
+When_WRB constructing_VBG the_DT regression_NN tree_NN ,_, it_PRP chooses_VBZ one_CD independent_JJ variable_NN as_IN the_DT splitting_NN feature_NN that_WDT can_MD minimize_VB the_DT variance_NN of_IN predictions_NNS after_IN the_DT split_NN ._.
+CART_NN always_RB predicts_VBZ with_IN the_DT aver_NN

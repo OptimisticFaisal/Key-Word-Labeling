@@ -1,0 +1,4 @@
+links_NNS that_WDT are_VBP not_RB explicitly_RB stated_VBN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, and_CC successfully_RB extended_VBD the_DT methods_NNS using_VBG inferred_VBN knowledge_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Semi-supervised_JJ learning_NN methods_NNS may_MD also_RB be_VB useful_JJ for_IN graph_NN labeling_NN ,_, as_IN addressed_VBN in_IN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Finding_VBG authority_NN of_IN a_DT node_NN is_VBZ one_CD specific_JJ labeling_NN task_NN addressed_VBN in_IN the_DT literature_NN ._.
+One_CD way_NN of_IN defining_VBG the_DT authority_NN of_IN a_DT node_NN in_IN a_DT network_NN is_VBZ its_PRP$ ``_`` reputation_NN for_IN knowledge_NN ,_, ''_'' that_DT is_VBZ ,_, how_WRB reliab_NN

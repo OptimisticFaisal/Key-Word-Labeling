@@ -1,0 +1,5 @@
+ce_IN our_PRP$ approach_NN is_VBZ at_IN the_DT level_NN of_IN programming_NN language_NN semantics_NNS ,_, we_PRP are_VBP able_JJ to_TO perform_VB precise_JJ tainting_NN with_IN minimal_JJ overhead_NN ._.
+Huang_NNP et_NNP ._.
+al_NNP developed_VBD a_DT hybrid_NN approach_NN to_TO securing_VBG web_NN applications_NNS =_JJ -_: =_JJ -LRB-_-LRB- Hua04_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+Their_PRP$ WebSSARI_NN tool_NN used_VBD a_DT static_JJ analysis_NN based_VBN on_IN type-based_JJ information_NN flow_NN to_TO identify_VB possible_JJ vulnerabilities_NNS in_IN PHP_NNP web_NN applications_NNS ._.
+Input_NN from_IN external_JJ sources_NNS is_VBZ considered_VBN tainted_JJ and_CC a_DT

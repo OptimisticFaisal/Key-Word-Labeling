@@ -1,0 +1,3 @@
+any_DT notions_NNS from_IN distribution-based_JJ approaches_NNS and_CC is_VBZ further_RB extended_VBN in_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- so_IN that_IN outliers_NNS can_MD be_VB more_RBR efficiently_RB discovered_VBN and_CC ranked_VBN ._.
+In_IN many_JJ clustering_NN algorithms_NNS like_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, DBSCAN_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, BIRCH_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: and_CC CURE_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, outliers_NNS are_VBP by-products_NNS of_IN clustering_NN and_CC we_PRP refer_VBP to_TO such_JJ outlier-detection_JJ method_NN as_IN clustering-based_JJ ._.
+While_IN the_DT above_JJ four_CD categories_NNS of_IN outlier_NN detection_NN are_VBP interesting_JJ and_CC useful_JJ

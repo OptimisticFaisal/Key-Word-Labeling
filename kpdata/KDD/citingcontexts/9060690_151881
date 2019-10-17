@@ -1,0 +1,4 @@
+ple_NN hypothesis_NN tests_NNS ,_, increasing_VBG the_DT expected_VBN number_NN of_IN false_JJ positives_NNS proportional_JJ to_TO the_DT number_NN of_IN tests_NNS performed_VBN ._.
+To_TO compensate_VB for_IN multiple_JJ testing_NN ,_, we_PRP use_VBP the_DT False_NNP Discovery_NNP Rate_NNP -LRB-_-LRB- FDR_NNP -RRB-_-RRB- method_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT guarantees_VBZ that_IN the_DT expected_VBN proportion_NN of_IN the_DT number_NN of_IN false_JJ positives_NNS will_MD be_VB no_RB greater_JJR than_IN α_NN ._.
+It_PRP can_MD be_VB used_VBN to_TO find_VB a_DT cutoff_JJ threshold_NN to_TO determine_VB which_WDT rules_NNS are_VBP significant_JJ ._.
+In_IN our_PRP$ e_SYM

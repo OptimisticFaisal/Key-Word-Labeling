@@ -1,0 +1,4 @@
+y_NN measuresitself_NN and_CC to_TO give_VB its_PRP$ online_NN update_VBP procedure_NN ._.
+Recent_JJ studies_NNS on_IN signal_NN processing_NN have_VBP demonstrated_VBN the_DT utility_NN of_IN change-detection_JJ techniques_NNS to_TO characterize_VB anomalies_NNS of_IN network_NN traffic_NN =_JJ -_: =[_NN 2_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, most_JJS of_IN those_DT studies_NNS address_VBP highly_RB aggregated_VBN data_NNS at_IN the_DT lower_JJR layers_NNS ._.
+We_PRP focus_VBP on_IN the_DT problem_NN at_IN the_DT application_NN layer_NN in_IN Web-based_JJ systems_NNS ,_, where_WRB traditional_JJ autoregressive_JJ models_NNS with_IN

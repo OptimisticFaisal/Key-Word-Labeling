@@ -1,0 +1,5 @@
+distinction_NN between_IN the_DT movie_NN ``_`` 60_CD seconds_NNS ''_'' versus_CC a_DT phrase_NN ``_`` 60_CD seconds_NNS ''_'' -LRB-_-LRB- in_IN reference_NN to_TO time_NN -RRB-_-RRB- is_VBZ important_JJ while_IN extracting_VBG a_DT set_NN of_IN movies_NNS ._.
+We_PRP apply_VBP known_JJ techniques_NNS for_IN the_DT entity_NN recognition_NN step_NN =_JJ -_: =[_NN 10_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP focus_VBP on_IN the_DT first_JJ step_NN of_IN document_NN filtering_VBG for_IN entity_NN extraction_NN ._.
+We_PRP now_RB consider_VBP two_CD simple_JJ approaches_NNS for_IN ad-hoc_JJ entity_NN extraction_NN ._.
+Document_NNP Scan_NNP Approach_NNP :_: A_DT basic_JJ approach_NN ,_, a_DT

@@ -1,0 +1,4 @@
+ssigned_VBN entities_NNS =_JJ -_: =[_NN 15_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Coherence_NN between_IN a_DT pair_NN of_IN entities_NNS is_VBZ computed_VBN using_VBG the_DT knowledge_NN base_NN ,_, e.g._FW ,_, based_VBN on_IN the_DT number_NN of_IN common_JJ Wikipedia_NNP pages_NNS that_WDT link_VBP to_TO Wiki_NNP pages_NNS of_IN these_DT two_CD entities_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+While_IN some_DT approaches_NNS model_VBP the_DT interdependence_NN as_IN sum_NN of_IN their_PRP$ pair-wise_JJ dependencies_NNS -LRB-_-LRB- 18_CD ,_, 15_CD -RRB-_-RRB- ,_, more_RBR recent_JJ techniques_NNS model_VBP the_DT global_JJ interdependence_NN -LRB-_-LRB- 14_CD ,_, 12_CD -RRB-_-RRB- ._.
+These_DT studiesconsideronlyentitiespr_NN

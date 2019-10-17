@@ -1,0 +1,3 @@
+these_DT indexing_NN and_CC query_NN processing_NN methods_NNS ,_, it_PRP has_VBZ been_VBN observed_VBN that_IN with_IN almost_RB any_DT technique_NN ,_, when_WRB the_DT dimensionality_NN is_VBZ above_IN 15_CD or_CC 20_CD ,_, then_RB all_DT of_IN the_DT data_NN is_VBZ accessed_VBN ._.
+In_IN fact_NN ,_, recent_JJ results_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: show_VBP that_IN a_DT simple_JJ sequential_JJ scan_VBP performs_VBZ better_RBR than_IN any_DT of_IN the_DT space_NN partitioning_VBG methods_NNS on_IN uniformly_RB distributed_VBN data_NNS when_WRB the_DT dimensionality_NN is_VBZ larger_JJR than_IN 610_CD ._.
+1_CD This_DT behavior_NN has_VBZ been_VBN valida_VBN

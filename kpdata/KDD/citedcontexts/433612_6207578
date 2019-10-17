@@ -1,0 +1,6 @@
+samples_NNS as_IN negative_JJ ._.
+Thus_RB ,_, a_DT combined_JJ measure_NN is_VBZ required_VBN ._.
+The_DT measure_NN we_PRP used_VBD is_VBZ the_DT proximity_NN of_IN the_DT sensitivity_NN and_CC specificity_NN of_IN the_DT algorithm_NN to_TO perfect_JJ sensitivity_NN and_CC specificity_NN expressed_VBN as_IN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: :_: Note_VB ,_, that_IN we_PRP can_MD not_RB use_VB AUCs_NNS or_CC fix_VB the_DT measures_NNS ._.
+First_RB ,_, AUC_NN 's_POS can_MD not_RB be_VB generated_VBN for_IN the_DT CQF_NNP filters_NNS because_IN the_DT documents_NNS are_VBP not_RB ranked_VBN ._.
+Either_CC the_DT query_NN is_VBZ satisfied_JJ or_CC not_RB ._.
+Second_RB ,_, fixing_VBG sen_NN

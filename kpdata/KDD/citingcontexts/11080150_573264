@@ -1,0 +1,4 @@
+he_PRP data_NNS by_IN removing_VBG stop_NN words_NNS ._.
+We_PRP implemented_VBD the_DT three_CD sampling-based_JJ inference_NN methods_NNS -LRB-_-LRB- using_VBG SparseLDA_NN -RRB-_-RRB- ,_, the_DT variational_JJ updated_VBN method_NN ,_, and_CC the_DT classification-based_JJ methods_NNS in_IN the_DT MALLET_NNP toolkit_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP will_MD be_VB available_JJ as_IN part_NN of_IN its_PRP$ standard_JJ open-source_NN release_NN ._.
+6.1_CD Evaluation_NN Measures_NNS It_PRP is_VBZ difficult_JJ to_TO evaluate_VB topic_NN distribution_NN prediction_NN results_NNS ,_, because_IN the_DT ``_`` true_JJ ''_'' topic_NN distribution_NN i_FW

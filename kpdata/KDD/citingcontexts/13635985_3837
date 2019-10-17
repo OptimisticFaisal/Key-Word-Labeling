@@ -1,0 +1,4 @@
+e_LS size_NN is_VBZ not_RB dependent_JJ on_IN the_DT training_NN set_NN ._.
+SVMs_NNS have_VBP emerged_VBN as_IN useful_JJ tools_NNS for_IN classification_NN in_IN practice_NN ,_, primarily_RB because_IN of_IN the_DT availability_NN of_IN efficient_JJ algorithms_NNS like_IN SMO_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- and_CC chunking_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT solve_VBP the_DT dual_JJ of_IN the_DT SVM_NNP formulation_NN ._.
+However_RB ,_, these_DT algorithms_NNS are_VBP known_VBN to_TO be_VB atleast_JJ O_NN -LRB-_-LRB- m_NN 2_CD -RRB-_-RRB- in_IN running_VBG time_NN -LRB-_-LRB- see_VB -LRB-_-LRB- 13_CD ,_, 16_CD -RRB-_-RRB- -RRB-_-RRB- and_CC hence_RB not_RB scalable_JJ to_TO large_JJ datasets_NNS ._.
+Clustering_NN before_IN comp_NN

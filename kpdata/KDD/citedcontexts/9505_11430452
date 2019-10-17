@@ -1,0 +1,4 @@
+3_LS -RRB-_-RRB- and_CC to_TO isolate_VB and_CC identify_VB the_DT structure_NN of_IN scientific_JJ disciplines_NNS -LRB-_-LRB- 110_CD -RRB-_-RRB- ._.
+Many_JJ other_JJ methods_NNS have_VBP been_VBN developed_VBN to_TO cluster_VB documents_NNS based_VBN on_IN citations_NNS ;_: these_DT include_VBP k-means_NNS -LRB-_-LRB- 55_CD -RRB-_-RRB- ,_, co-clustering_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: and_CC EM_NN methods_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+However_RB ,_, these_DT co-citation-based_JJ methods_NNS make_VBP no_DT use_NN of_IN a_DT background_NN ._.
+Below_NNP ,_, we_PRP describe_VBP a_DT new_JJ algorithm_NN ,_, Streemer_NNP ,_, which_WDT was_VBD designed_VBN to_TO operate_VB on_IN large_JJ ,_, high-dimensional_JJ datas_NNS

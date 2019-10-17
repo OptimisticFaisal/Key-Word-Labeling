@@ -1,0 +1,4 @@
+h_NN as_IN tf-idf_JJ weighting_NN scheme_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC cosine_NN similarity_NN measure_NN from_IN the_DT Information_NNP Retrieval_NNP -LRB-_-LRB- IR_NNP -RRB-_-RRB- domain_NN ._.
+The_DT text_NN similarity_NN join_VBP operator_NN has_VBZ various_JJ application_NN domains_NNS ._.
+Cohen_NNP -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, Gravano_NNP et_FW al._FW =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC Schallehn_NNP et_FW al._FW -LRB-_-LRB- 4_CD -RRB-_-RRB- use_VBP this_DT operator_NN for_IN the_DT integration_NN of_IN data_NNS from_IN distributed_VBN ,_, heterogeneous_JJ databases_NNS that_WDT lack_VBP common_JJ formal_JJ object_NN identifiers_NNS ._.
+For_IN instance_NN ,_, in_IN two_CD Web_NN databases_NNS listin_VBP

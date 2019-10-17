@@ -1,0 +1,5 @@
+advertise_VB inordinate_JJ numbers_NNS of_IN files_NNS ._.
+Peers_NNS can_MD thus_RB individually_RB count_VB advertisements_NNS from_IN IP_NNP prefixes_NNS and_CC assign_VB reputations_NNS to_TO the_DT prefixes_NNS accordingly_RB ._.
+As_IN part_NN of_IN a_DT distributed_VBN reputation_NN system_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT peers_NNS then_RB share_VBP the_DT reputations_NNS with_IN each_DT other_JJ and_CC update_VB the_DT reputations_NNS of_IN the_DT IP_NNP prefixes_NNS ._.
+Finally_RB ,_, each_DT peer_VBP creates_VBZ a_DT blacklist_NN based_VBN on_IN the_DT reputations_NNS it_PRP has_VBZ of_IN the_DT other_JJ peers_NNS ._.
+In_IN a_DT si_NN

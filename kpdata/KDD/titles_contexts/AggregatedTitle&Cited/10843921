@@ -1,0 +1,8 @@
+Improving_NN classification_NN accuracy_NN using_VBG automatically_RB extracted_VBN training_NN data_NNS
+re-defined_JJ category_NN achieving_VBG robust_JJ classification_NN accuracy_NN ._.
+For_IN example_NN ,_, web_NN document_NN mining_NN ,_, spatial_JJ data_NNS mining_NN ,_, and_CC user_NN intent_NN analysis_NN involve_VBP classification_NN tasks_NNS as_IN one_CD of_IN the_DT key_JJ components_NNS =_JJ -_: =[_NN 30_CD ,_, 5_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Dealing_VBG with_IN billions_NNS of_IN web_NN documents_NNS ,_, one_CD interesting_JJ task_NN is_VBZ to_TO classify_VB each_DT document_NN into_IN either_CC a_DT spam_NN or_CC not_RB ,_, significantly_RB impacting_VBG the_DT user_NN experience_NN of_IN a_DT web_NN search_NN engine_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+When_WRB con_NN
+al_FW to_TO our_PRP$ approach_NN ,_, which_WDT only_RB expands_VBZ the_DT feature_NN set_NN ,_, and_CC can_MD be_VB combined_VBN with_IN it_PRP ._.
+The_DT same_JJ holds_VBZ for_IN techniques_NNS that_IN leverage_NN NLP_NN techniques_NNS to_TO automatically_RB extract_VB training_NN data_NNS from_IN web_NN sources_NNS =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN we_PRP will_MD show_VB in_IN our_PRP$ experiments_NNS ,_, our_PRP$ approach_NN results_VBZ in_IN significant_JJ increases_NNS in_IN classification_NN accuracy_NN even_RB in_IN cases_NNS where_WRB very_RB large_JJ amounts_NNS of_IN training_NN data_NNS -LRB-_-LRB- ≈_CD 10_CD 6_CD labeled_VBN examples_NNS -RRB-_-RRB- are_VBP ava_NN

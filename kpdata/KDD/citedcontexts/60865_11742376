@@ -1,0 +1,3 @@
+een_NN proposed_VBN to_TO leverage_NN additional_JJ resources_NNS for_IN learning_VBG to_TO rank_VB ,_, notably_RB click_VBP logs_NNS ._.
+A_DT common_JJ strategy_NN is_VBZ to_TO estimate_VB useful_JJ signals_NNS from_IN click_VBP logs_NNS -LRB-_-LRB- 19_CD -RRB-_-RRB- and_CC use_VB them_PRP as_IN surrogate_JJ relevance_NN labels_VBZ =_JJ -_: =[_NN 18_CD ,_, 7_CD ,_, 9_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: or_CC to_TO define_VB ,_, usually_RB pointwise_JJ ,_, ranking_JJ features_NNS -LRB-_-LRB- 1_CD ,_, 17_CD ,_, 6_CD -RRB-_-RRB- ._.
+Besides_IN click_VBP logs_NNS ,_, there_EX are_VBP other_JJ data_NNS sources_NNS which_WDT contain_VBP different_JJ types_NNS of_IN pairwise_JJ relationships_NNS such_JJ as_IN parentchild_JJ hyperlink_NN re_NN

@@ -1,0 +1,4 @@
+Jester_NN ._.
+However_RB ,_, in_IN a_DT large-scale_JJ recommender_NN system_NN ,_, ratings_NNS to_TO a_DT given_VBN item_NN may_MD have_VB a_DT trend_NN and\/or_CC a_DT seasonality_NN over_IN time_NN ._.
+More_RBR complex_JJ models_NNS -LRB-_-LRB- e.g._FW ,_, the_DT Auto-Regressive_NNP Integrated_NNP Moving_VBG Average_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =--RRB-_NN are_VBP needed_VBN to_TO incorporate_VB such_JJ trends_NNS ._.
+Acknowledgment_NN :_: This_DT material_NN is_VBZ based_VBN in_IN part_NN upon_IN work_NN supported_VBN by_IN the_DT National_NNP Science_NNP Foundation_NNP under_IN award_NN number_NN IDM_NNP 0308229_NNP and_CC CCF_NNP 0448277_CD ,_, and_CC start_VB

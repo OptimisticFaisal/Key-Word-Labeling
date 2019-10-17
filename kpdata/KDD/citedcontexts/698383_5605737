@@ -1,0 +1,4 @@
+ithin_VB the_DT data_NNS mining_NN community_NN in_IN indexing_NN ,_, segmenting_VBG ,_, clustering_NN ,_, and_CC classifying_VBG time_NN series_NN -LRB-_-LRB- 13_CD ,_, 14_CD ,_, 15_CD ,_, 16_CD -RRB-_-RRB- ._.
+A_DT specific_JJ interesting_JJ mining_NN task_NN is_VBZ to_TO detect_VB change_NN points_NNS in_IN a_DT given_VBN time_NN series_NN =_JJ -_: =[_NN 21_CD ,_, 12_CD ,_, 23_CD ,_, 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT are_VBP the_DT time_NN positions_NNS in_IN the_DT original_JJ data_NNS where_WRB the_DT local_JJ trend_NN in_IN the_DT data_NN values_NNS has_VBZ changed_VBN ._.
+They_PRP may_MD indicate_VB the_DT points_NNS in_IN time_NN when_WRB external_JJ events_NNS have_VBP caused_VBN the_DT underlying_JJ process_NN t_NN

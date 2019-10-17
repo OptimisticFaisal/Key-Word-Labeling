@@ -1,0 +1,4 @@
+Full_JJ as_IN the_DT language_NN to_TO specify_VB the_DT concept_NN model_NN for_IN several_JJ reasons_NNS ,_, despite_IN that_DT OWL_NN is_VBZ designed_VBN primarily_RB for_IN Semantic_JJ Web_NN development_NN ._.
+First_JJ ,_, public_JJ interest_NN in_IN OWL_NN results_VBZ in_IN API_NN toolkits_NNS -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =--RRB-_NN and_CC editors_NNS -LRB-_-LRB- e.g._FW -LRB-_-LRB- 12_CD -RRB-_-RRB- -RRB-_-RRB- that_WDT facilitate_VBP the_DT development_NN of_IN the_DT concept_NN layer_NN ._.
+Second_JJ ,_, OWL_NN DL_NN ,_, based_VBN on_IN Description_NN Logic_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, has_VBZ desirable_JJ properties_NNS for_IN inference_NN ._.
+The_DT decidability_NN of_IN DL_NN is_VBZ a_DT majo_NN

@@ -1,0 +1,5 @@
+le_DT could_MD be_VB a_DT statement_NN ,_, like_IN ``_`` if_IN feature_NN X_NN -LRB-_-LRB- 5.0_CD ?_. ''_''
+or_CC ``_`` Y_NN =_JJ =_JJ male_NN ?_. ''_'' ._.
+A_DT parametric_JJ example_NN could_MD be_VB a_DT linear_JJ discriminatnt_NN function_NN -LRB-_-LRB- 4,33_CD -RRB-_-RRB- ,_, a_DT neural_JJ network_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, the_DT Rocchio_NNP algorithm_NN or_CC Naïve_JJ Bayesian_NN =_JJ -_: =[_NN 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Some_DT DT_NNP tools_NNS ,_, such_JJ as_IN CART_NN ,_, ID3_NN and_CC C4_NN .5_CD ,_, have_VBP been_VBN widely_RB adopted_VBN -LRB-_-LRB- 3,28_CD -RRB-_-RRB- for_IN TC_NN applications_NNS ._.
+2.2_CD Binary_JJ Tree_NN Classifier_NN TC_NN is_VBZ often_RB solved_VBN by_IN designing_VBG a_DT set_NN of_IN N_NN binary_JJ classifiers_NNS ,_, each_DT only_RB de_IN

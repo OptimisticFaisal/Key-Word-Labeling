@@ -1,0 +1,4 @@
+luate_NN complex_NN full-text_JJ predicates_NNS improves_VBZ query_NN response_NN time_NN by_IN several_JJ orders_NNS of_IN magnitude_NN when_WRB compared_VBN to_TO a_DT naive_JJ evaluation_NN of_IN the_DT algebra_NN ._.
+Our_PRP$ performance_NN results_NNS compare_VBP favorably_RB to_TO GalaTex_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT reference_NN implementation_NN of_IN XQuery_NNP Full-Text_NNP -LRB-_-LRB- 28_CD -RRB-_-RRB- ._.
+The_DT paper_NN is_VBZ organized_VBN as_IN follows_VBZ ._.
+Section_NN 2_CD presents_VBZ the_DT XFT_NNP algebra_NN ,_, its_PRP$ formal_JJ semantics_NNS ,_, some_DT algebraic_JJ equivalences_NNS ,_, and_CC the_DT translation_NN o_NN

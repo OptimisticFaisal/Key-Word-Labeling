@@ -1,0 +1,4 @@
+has_VBZ been_VBN studied_VBN in_IN the_DT random_JJ order_NN model_NN ,_, where_WRB impressions_NNS arrive_VBP in_IN a_DT random_JJ order_NN -LRB-_-LRB- 1_CD ,_, 3_CD ,_, 4_CD ,_, 14_CD -RRB-_-RRB- ._.
+;_: and_CC the_DT iid_NN model_NN in_IN which_WDT impressions_NNS arrive_VBP iid_NN according_VBG to_TO a_DT known_JJ -LRB-_-LRB- or_CC unknown_JJ -RRB-_-RRB- distribution_NN =_JJ -_: =[_NN 6_CD ,_, 7_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN such_JJ stochastic_JJ settings_NNS ,_, primal_JJ and_CC dual_JJ techniques_NNS have_VBP been_VBN applied_VBN to_TO getting_VBG improved_VBN approximation_NN algorithms_NNS ._.
+These_DT techniques_NNS are_VBP based_VBN on_IN computing_VBG an_DT offline_JJ optimal_JJ primal_JJ or_CC dual_JJ solu_NN

@@ -1,0 +1,8 @@
+the_DT subspaces_NNS containing_VBG clusters_NNS are_VBP identified_VBN ,_, the_DT clusters_NNS in_IN each_DT subspace_NN are_VBP to_TO be_VB determined_VBN ._.
+Recall_VB that_IN clusters_NNS are_VBP connected_VBN dense_JJ units_NNS ._.
+We_PRP can_MD simply_RB use_VB a_DT depth-first_JJ search_NN algorithm_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: to_TO find_VB the_DT connected_JJ components_NNS ._.
+The_DT final_JJ step_NN is_VBZ to_TO generate_VB minimal_JJ cluster_NN descriptions_NNS ._.
+The_DT description_NN is_VBZ given_VBN in_IN the_DT form_NN of_IN DNF_NN expression_NN ,_, e.g._FW -LRB-_-LRB- -LRB-_-LRB- 30sage_NN !_.
+50_CD -RRB-_-RRB- s_NN -LRB-_-LRB- 4ssalary_NN !_.
+8_CD -RRB-_-RRB- -RRB-_-RRB- s_NN -LRB-_-LRB- -LRB-_-LRB- 40sage_NN !_.
+60_CD

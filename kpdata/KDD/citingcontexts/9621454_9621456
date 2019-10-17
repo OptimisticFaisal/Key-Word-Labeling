@@ -1,0 +1,3 @@
+e_LS same_JJ protein_NN entity_NN can_MD be_VB referred_VBN to_TO in_IN the_DT caption_NN using_VBG many_JJ textual_JJ forms_NNS ._.
+Mapping_NN these_DT forms_NNS ,_, also_RB known_VBN as_IN protein_NN mentions_VBZ ,_, to_TO protein_NN entities_NNS is_VBZ a_DT standard_JJ process_NN known_VBN as_IN normalization_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ;_: our_PRP$ implementation_NN followed_VBD our_PRP$ earlier_JJR work_NN in_IN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Second_JJ ,_, protein_NN entities_NNS are_VBP rare_JJ words_NNS and_CC have_VBP different_JJ frequency_NN spectrums_NNS than_IN normal_JJ caption_NN words_NNS ,_, thus_RB modeling_NN them_PRP separately_RB has_VBZ the_DT

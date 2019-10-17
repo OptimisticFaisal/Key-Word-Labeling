@@ -1,0 +1,4 @@
+Seattle_NNP ,_, WA_NNP ,_, USA_NNP Copyright_NNP 2004_CD ACM_NNP 1-58113-737-0_CD \/_: 03\/0008_CD ..._: $_$ 5.00_CD ._.
+Huan_NNP Liu_NNP Department_NNP of_IN Computer_NNP Science_NNP &_CC Engineering_NNP Arizona_NNP State_NNP University_NNP Tempe_NNP ,_, AZ_NNP 85287-8809_CD hliu@asu.edu_NN and_CC gene_NN selection_NN =_JJ -_: =[_NN 20_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN sample_NN classification_NN ,_, a_DT microarray_NN data_NN set_NN is_VBZ provided_VBN as_IN a_DT training_NN set_NN of_IN labeled_JJ samples_NNS ._.
+The_DT task_NN is_VBZ to_TO build_VB a_DT classifier_NN that_WDT accurately_RB predicts_VBZ the_DT classes_NNS -LRB-_-LRB- diseases_NNS or_CC phenotypes_NNS -RRB-_-RRB- of_IN n_NN

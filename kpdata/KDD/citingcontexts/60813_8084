@@ -1,0 +1,4 @@
+istances_NNS ,_, e.g._FW ,_, KL_NN divergence_NN ._.
+In_IN a_DT number_NN of_IN applications_NNS ,_, such_JJ as_IN text-clustering_NN using_VBG a_DT vector-space_JJ model_NN ,_, a_DT directional_JJ similarity_NN measure_NN based_VBN on_IN the_DT angle_NN between_IN vectors_NNS is_VBZ more_RBR appropriate_JJ =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Consequently_RB ,_, clustering_NN algorithms_NNS that_WDT utilize_VBP distortion_NN measures_NNS appropriate_JJ for_IN directional_JJ data_NNS have_VBP recently_RB been_VBN developed_VBN -LRB-_-LRB- 18_CD ,_, 2_CD -RRB-_-RRB- ._.
+Our_PRP$ unified_JJ semi-supervised_JJ clustering_NN framework_NN based_VBN on_IN

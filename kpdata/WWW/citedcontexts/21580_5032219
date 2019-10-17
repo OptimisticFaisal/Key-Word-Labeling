@@ -1,0 +1,6 @@
+a_DT HTTP_NNP access_NN using_VBG the_DT corresponding_JJ main_JJ manifest_JJ file_NN ._.
+It_PRP offers_VBZ support_NN for_IN DIG_NNP 1.1_CD in_IN terms_NNS of_IN a_DT DIG_NNP server_NN and_CC is_VBZ a_DT component_NN of_IN the_DT SWOOP_NN -LRB-_-LRB- 43_CD -RRB-_-RRB- OWL_NN editor_NN ._.
+It_PRP comes_VBZ with_IN a_DT reasoner_NN API_NNP for_IN Jena_NNP =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT OWL_NN API_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Inference_NNP Services_NNPS ._.
+The_DT available_JJ Pellet_NNP inference_NN services_NNS are_VBP detection_NN of_IN unsatisfiable_JJ classes_NNS ,_, checking_VBG for_IN entailed_VBN statements_NNS and_CC building_VBG the_DT class_NN taxonomy_NN ._.
+It_PRP also_RB prov_VBP

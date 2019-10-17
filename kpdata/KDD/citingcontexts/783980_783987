@@ -1,0 +1,4 @@
+scussing_VBG how_WRB SEA_NN can_MD be_VB used_VBN as_IN the_DT basis_NN of_IN algorithms_NNS for_IN finding_VBG either_CC the_DT envelopes_NNS in_IN the_DT support_NN boundary_NN or_CC the_DT support_NN lattice_NN ._.
+Initial_JJ implementations_NNS of_IN these_DT algorithms_NNS are_VBP available_JJ from_IN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Algorithm_NN 1_CD Support_NN Envelope_NN Algorithm_NN -LRB-_-LRB- SEA_NN -RRB-_-RRB- ._.
+1_CD :_: -LCB-_-LRB- Input_NNP :_: Data_NN matrix_NN D_NN and_CC a_DT pair_NN of_IN positive_JJ integers_NNS m_NN and_CC n_NN -RCB-_-RRB- 2_CD :_: repeat_NN 3_CD :_: Eliminate_VB all_DT rows_NNS whose_WP$ sum_NN is_VBZ less_JJR than_IN n._NN -LRB-_-LRB- Eliminate_VB all_DT transactions_NNS

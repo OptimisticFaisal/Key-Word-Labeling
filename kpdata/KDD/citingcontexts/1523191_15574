@@ -1,0 +1,4 @@
+iner_NN are_VBP described_VBN in_IN the_DT next_JJ subsection_NN ._.
+3.3_CD ViewpointMiner_NNP Algorithm_NNP Let_NNP D_NNP be_VB the_DT image_NN object_NN database_NN ,_, where_WRB all_PDT the_DT continuous_JJ value_NN attributes_NNS have_VBP been_VBN discretized_VBN ._.
+Figure_NN 4_CD gives_VBZ the_DT Apriori_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: based_VBN ViewpointMiner_NNP algorithm_NN ._.
+The_DT output_NN SI_NNP k_NN stores_NNS all_PDT the_DT frequent_JJ k-object_NN viewpoint_NN patterns_NNS which_WDT consist_VBP of_IN S_NN k_NN ,_, m_NN and_CC I_PRP k._VBP S_NN k_NN ,_, m_NN are_VBP the_DT frequent_JJ k-object_NN patterns_NNS with_IN the_DT constraint_NN that_IN

@@ -1,0 +1,4 @@
+ime_NN series_NN and_CC each_DT element_NN of_IN data_NNS point_NN xi_NN is_VBZ corresponding_VBG to_TO each_DT series_NN of_IN telemetry_NN data_NNS ._.
+Then_RB ,_, we_PRP divide_VBP them_PRP into_IN M_NN data_NN subsets_NNS ,_, each_DT of_IN which_WDT includes_VBZ N_NN data_NNS points_NNS ,_, using_VBG the_DT sliding_VBG window_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- Figure_NNP 2_CD -RRB-_-RRB- ._.
+These_DT data_NNS subsets_NNS are_VBP denoted_VBN as_IN Dj_NN =_JJ -LCB-_-LRB- x_NN j_NN i_LS -RCB-_-RRB- N_NN i_LS =_JJ 1_CD -LRB-_-LRB- j_NN =_JJ 1_CD ,_, ..._: ,_, M_NN -RRB-_-RRB- ._.
+Then_RB ,_, the_DT proposed_VBN method_NN computes_VBZ the_DT principal_JJ component_NN vector_NN v_LS j_NN corresponding_VBG to_TO the_DT subset_NN Dj_NN mapped_VBN into_IN th_DT

@@ -1,0 +1,4 @@
+pecificiation_NN of_IN the_DT model_NN the_DT nodes_NNS that_WDT are_VBP already_RB active_JJ can_MD possibly_RB influence_VB their_PRP$ neighbors_NNS to_TO become_VB active_JJ as_RB well_RB ._.
+So_RB far_RB two_CD models_NNS of_IN such_JJ type_NN of_IN networks_NNS have_VBP been_VBN extensively_RB studied_VBN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT Linear_NNP Treshold_NNP Model_NNP a_DT node_NN becomes_VBZ active_JJ when_WRB a_DT certain_JJ -LRB-_-LRB- weighted_JJ -RRB-_-RRB- fraction_NN of_IN its_PRP$ neighbors_NNS is_VBZ active_JJ ._.
+In_IN the_DT next_JJ time_NN step_VB all_DT nodes_NNS that_WDT have_VBP been_VBN previously_RB activated_VBN remain_VBP active_JJ an_DT

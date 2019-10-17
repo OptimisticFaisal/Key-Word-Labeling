@@ -1,0 +1,6 @@
+h_NN is_VBZ the_DT difference_NN between_IN the_DT confidence_NN of_IN a_DT rule_NN and_CC the_DT confidence_NN of_IN any_DT proper_JJ subrule_NN with_IN the_DT same_JJ consequent_JJ ._.
+Those_DT rules_NNS that_WDT do_VBP not_RB meet_VB this_DT minimum_JJ improvement_NN in_IN confidence_NN are_VBP pruned_VBN ._.
+=_SYM -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: also_RB proposed_VBD a_DT related_JJ technique_NN ._.
+Our_PRP$ pruning_NN method_NN is_VBZ similar_JJ ._.
+However_RB ,_, we_PRP use_VBP chi-square_JJ test_NN as_IN the_DT basis_NN for_IN pruning_NN -LRB-_-LRB- minimum_NN improvement_NN can_MD be_VB easily_RB incorporated_VBN in_IN our_PRP$ framework_NN -RRB-_-RRB- ._.
+We_PRP will_MD s_NNS

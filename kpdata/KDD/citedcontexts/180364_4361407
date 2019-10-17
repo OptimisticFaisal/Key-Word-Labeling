@@ -1,0 +1,4 @@
+s_NN of_IN the_DT other_JJ sequence_NN ._.
+For_IN comparison_NN ,_, the_DT result_NN of_IN the_DT proposed_VBN Optimal_JJ Subsequence_NN Bijection_NN -LRB-_-LRB- OSB_NN -RRB-_-RRB- is_VBZ shown_VBN in_IN Fig._FW 1a_FW ._.
+The_DT Longest_NNP Common_NNP Subsequence_NN -LRB-_-LRB- LCSS_NN -RRB-_-RRB- measure_NN has_VBZ been_VBN used_VBN in_IN time_NN series_NN =_JJ -_: =[_NN 5_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: to_TO deal_VB with_IN the_DT alignment_NN and_CC outlier_NN problems_NNS ._.
+Given_VBN a_DT query_NN and_CC a_DT target_NN series_NN ,_, LCSS_NNP determines_VBZ their_PRP$ longest_JJS common_JJ subsequence_NN ,_, i.e._FW ,_, LCSS_NN finds_VBZ subsequences_NNS of_IN the_DT query_NN and_CC target_NN that_IN best_JJS c_NN

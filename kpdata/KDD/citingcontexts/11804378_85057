@@ -1,0 +1,4 @@
+IDE_NN as_IN discussed_VBN below_IN ._.
+Using_VBG decision_NN trees_NNS to_TO group_NN examples_NNS with_IN similar_JJ independent_JJ feature_NN values_NNS ,_, GUIDE_NNP replaces_VBZ the_DT average_JJ value_NN prediction_NN in_IN the_DT leaf_NN node_NN of_IN CART_NN by_IN some_DT parametric_JJ models_NNS -LRB-_-LRB- =_JJ -_: =_JJ Loh_NN ,_, 2002_CD -_: =-]_CD ._.
+The_DT current_JJ release_NN of_IN GUIDE_NNP includes_VBZ linear_JJ ,_, piece-wise_JJ linear_NN ,_, quantile_NN ,_, Poisson_NNP ,_, and_CC proportional_JJ hazard_NN regressions_NNS ._.
+Each_DT leaf_NN node_NN has_VBZ its_PRP$ own_JJ parametric_JJ model_NN -LRB-_-LRB- same_JJ kind_NN for_IN every_DT leaf_NN node_NN b_NN

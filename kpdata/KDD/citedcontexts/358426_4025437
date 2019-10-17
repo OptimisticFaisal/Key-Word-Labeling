@@ -1,0 +1,4 @@
+protein_NN ._.
+3_CD For_IN simplicity_NN ,_, we_PRP assume_VBP that_IN all_DT sources_NNS utilize_VBP the_DT same_JJ proteinid_NN to_TO identify_VB proteins_NNS ._.
+If_IN the_DT available_JJ sources_NNS do_VBP not_RB share_VB common_JJ keys_NNS ,_, we_PRP can_MD use_VB record_NN linkage_NN techniques_NNS ,_, such_JJ as_IN =_JJ -_: =_JJ -LRB-_-LRB- TKM02_NN -RRB-_-RRB- -_: =_JJ -_: ,_, to_TO materialize_VB a_DT source_NN that_WDT provides_VBZ mapping_NN between_IN the_DT keys_NNS of_IN different_JJ sources_NNS ._.
+s6_NNP Snehal_NNP Thakkar_NNP ,_, José_NNP Luis_NNP Ambite_NNP ,_, Craig_NNP A._NN Knoblock_NNP Figure_NNP 2_CD shows_VBZ the_DT graphical_JJ representation_NN of_IN the_DT relation_NN

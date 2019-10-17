@@ -1,0 +1,4 @@
+problems_NNS such_JJ as_IN those_DT presented_VBN in_IN Section_NN 3.2.2_NN may_MD be_VB done_VBN efficiently_RB using_VBG SGD_NNP ,_, which_WDT quickly_RB converges_VBZ to_TO approximate_JJ solutions_NNS that_WDT are_VBP highly_RB satisfactory_JJ from_IN a_DT machine_NN learning_NN perspective_NN =_JJ -_: =[_NN 4_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+SGD_NNP is_VBZ an_DT iterative_JJ solver_NN ,_, sequentially_RB examining_VBG data_NNS points_NNS one_CD at_IN a_DT time_NN in_IN a_DT random_JJ order_NN ._.
+The_DT basic_JJ SGD_NNP training_NN paradigm_NN for_IN linear_JJ SVM_NN -LRB-_-LRB- 38_CD -RRB-_-RRB- is_VBZ given_VBN in_IN Algorithm_NN 1_CD ._.
+Algorithm_NN 1_CD Training_NN Line_NN

@@ -1,0 +1,4 @@
+essary_VB that_IN individual_JJ nodes_NNS share_VBP the_DT data_NNS ,_, since_IN all_DT communication_NN revolves_VBZ around_IN sharing_VBG only_JJ values_NNS and_CC gradients_NNS of_IN Remp_NN -LRB-_-LRB- w_NN -RRB-_-RRB- ._.
+•_NNP This_NNP has_VBZ the_DT added_VBN benefit_NN of_IN preserving_VBG a_DT large_JJ degree_NN of_IN privacy_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: between_IN the_DT individual_JJ database_NN owners_NNS and_CC the_DT system_NN using_VBG the_DT solver_NN ._.
+At_IN every_DT step_NN the_DT data_NNS owner_NN will_MD only_RB return_VB a_DT gradient_NN which_WDT is_VBZ the_DT linear_JJ combination_NN of_IN a_DT set_NN of_IN observations_NNS ._.
+Assuming_VBG tha_NN

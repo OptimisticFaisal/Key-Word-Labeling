@@ -1,0 +1,4 @@
+iner_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, which_WDT adopts_VBZ a_DT level_NN wise_JJ ,_, generate_VB and_CC test_VB approach_NN to_TO discover_VB EPs_NNS ,_, which_WDT satisfy_VBP several_JJ constraints_NNS ._.
+All_DT these_DT methods_NNS assume_VBP that_IN data_NNS to_TO be_VB mined_VBN are_VBP stored_VBN in_IN a_DT single_JJ table_NN ._.
+Mr.-EP_NN =_SYM -_: =[_NN 50_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT discovers_VBZ EPs_NNS from_IN data_NNS scattered_VBN in_IN multiple_JJ tables_NNS of_IN a_DT relational_JJ database_NN ._.
+Generated_VBN EPs_NNS can_MD capture_VB the_DT differences_NNS between_IN objects_NNS of_IN two_CD classes_NNS which_WDT involve_VBP properties_NNS possibly_RB spanne_VBP

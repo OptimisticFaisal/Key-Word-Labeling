@@ -1,0 +1,3 @@
+is_VBZ difficult_JJ to_TO evaluate_VB the_DT quality_NN of_IN query_FW similarity\/relevance_FW rankings_NNS due_JJ to_TO the_DT scarcity_NN of_IN data_NNS that_WDT can_MD be_VB examined_VBN publicly_RB ._.
+For_IN an_DT automatic_JJ evaluation_NN ,_, we_PRP utilize_VBP the_DT same_JJ method_NN used_VBN in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: to_TO evaluate_VB the_DT similarity_NN of_IN retrieved_VBN queries_NNS ,_, but_CC engage_VBP the_DT Google_NNP Directory_NNP 2_CD instead_RB of_IN the_DT Open_NNP Directory_NNP Project_NNP 3_CD ._.
+When_WRB a_DT user_NN types_NNS a_DT query_NN in_IN Google_NNP Directory_NNP ,_, besides_IN site_NN matches_NNS ,_, we_PRP ca_MD

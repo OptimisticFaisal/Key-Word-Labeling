@@ -1,0 +1,4 @@
+ties_NNS to_TO be_VB inferred_VBN ._.
+That_DT is_VBZ ,_, the_DT team_NN works_VBZ on_IN the_DT inference_NN detection_NN problem_NN in_IN this_DT semi-structured_JJ data_NN set_NN ._.
+To_TO detect_VB sensitive_JJ inferences_NNS ,_, they_PRP turn_VBP to_TO association_NN rule_NN mining_NN technology_NN -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 2_CD ,_, 1_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Given_VBN a_DT reference_NN corpus_NN ,_, association_NN rule_NN mining_NN analyzes_VBZ the_DT contents_NNS of_IN the_DT corpus_NN to_TO identify_VB words_NNS closely_RB associated_VBN with_IN ``_`` missile_NN ''_'' ,_, thus_RB potentially_RB providing_VBG the_DT team_NN with_IN an_DT efficient_JJ way_NN

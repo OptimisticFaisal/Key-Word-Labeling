@@ -1,0 +1,4 @@
+gy_NN is_VBZ a_DT post-process_NN designed_VBN for_IN transaction_NN databases_NNS ._.
+We_PRP first_RB find_VBP correlative_JJ itemsets_NNS -LRB-_-LRB- 14-15_CD -RRB-_-RRB- based_VBN upon_IN frequent_JJ itemsets_NNS across_IN clusters_NNS ,_, then_RB prune_VB abundant_JJ itemsets_NNS by_IN a_DT setenumeration_NN tree_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC finally_RB calculate_VB the_DT importance_NN of_IN each_DT itemset_NN ._.
+There_EX may_MD be_VB more_JJR than_IN one_CD bridging_VBG rule_NN between_IN two_CD conceptual_JJ clusters_NNS ._.
+We_PRP identify_VBP bridging_VBG rules_NNS of_IN interest_NN based_VBN on_IN the_DT importance_NN `_`` IMPOR_NN '_''

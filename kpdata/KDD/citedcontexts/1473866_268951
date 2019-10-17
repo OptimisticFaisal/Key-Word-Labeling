@@ -1,0 +1,5 @@
+ur_NN experiments_NNS ,_, we_PRP used_VBD clusters_NNS from_IN the_DT Cora_NNP data_NN set_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+This_DT data_NN set_NN contains_VBZ computer_NN science_NN research_NN papers_NNS integrated_VBN from_IN several_JJ sources_NNS ._.
+It_PRP has_VBZ been_VBN used_VBN in_IN other_JJ data_NNS cleaning_VBG projects_NNS =_JJ -_: =[_NN 18_CD ,_, 7_CD -RRB-_-RRB- -_: =_JJ -_: and_CC we_PRP take_VBP advantage_NN of_IN previous_JJ labelings_NNS of_IN the_DT tuples_NNS into_IN clusters_NNS ._.
+As_IN an_DT example_NN ,_, we_PRP considered_VBD a_DT cluster_NN that_WDT corresponds_VBZ to_TO a_DT publication_NN by_IN Robert_NNP E._NNP Shapire_NNP ._.
+It_PRP contains_VBZ 56_CD tuples_NNS and_CC due_JJ t_NN

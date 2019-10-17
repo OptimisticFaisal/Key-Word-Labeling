@@ -1,0 +1,3 @@
+consumidores_NNS ,_, consommateurs_NNS ,_, l’euro_NN ,_, crois_NN ,_, s_NNS '_POS agit_NN ,_, moeda_NN ,_, pouvoir_NN ,_, currency_NN 5.1_CD Single_JJ Language_NN Distributional_JJ Similarity_NN :_: The_DT basic_JJ idea_NN is_VBZ that_IN words_NNS are_VBP similar_JJ if_IN they_PRP occur_VBP in_IN a_DT similar_JJ context_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Hence_RB ,_, one_PRP could_MD build_VB a_DT graph_NN as_IN outlined_VBN in_IN Section_NN 2.2_CD with_IN edges_NNS only_RB between_IN words_NNS which_WDT exceed_VBP a_DT level_NN of_IN proximity_NN ._.
+Lexical_JJ Similarity_NN :_: For_IN interpolation_NN between_IN words_NNS one_PRP could_MD use_VB a_DT distrib_NN

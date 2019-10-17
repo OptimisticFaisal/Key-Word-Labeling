@@ -1,0 +1,4 @@
+rrelations_NNS meeting_VBG some_DT threshold_JJ level_NN ,_, and_CC instead_RB search_NN for_IN only_RB the_DT best_JJS fewrules_NNS in_IN a_DT database_NN ._.
+There_EX are_VBP several_JJ examples_NNS of_IN these_DT algorithms_NNS ,_, including_VBG those_DT of_IN Bayardo_NNP and_CC Agrawal_NNP -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, Webb_NNP =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC Morishita_NNP and_CC Sese_NNP -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+However_RB ,_, there_EX are_VBP two_CD problems_NNS with_IN applying_VBG such_JJ algorithms_NNS to_TO our_PRP$ particular_JJ task_NN ._.
+First_RB ,_, these_DT algorithms_NNS generally_RB search_VBP for_IN the_DT best_JJS few_JJ rules_NNS ,_, instead_RB of_IN the_DT bes_NNS

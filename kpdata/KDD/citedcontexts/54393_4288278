@@ -1,0 +1,4 @@
+cies_NNS and_CC their_PRP$ variances_NNS are_VBP given_VBN to_TO an_DT Apriori-like_JJ mining_NN algorithm_NN ._.
+The_DT degree_NN of_IN randomization_NN depends_VBZ on_IN the_DT needed_VBN amount_NN of_IN privacy_NN ._.
+The_DT algorithm_NN was_VBD implemented_VBN and_CC tested_VBN on_IN real-life_JJ data_NN =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT work_NN was_VBD done_VBN during_IN my_PRP$ summer_NN internship_NN at_IN IBM_NNP Almaden_NNP Research_NNP Center_NNP in_IN 2001_CD ,_, joint_JJ with_IN Dr._NNP Ramakrishnan_NNP Srikant_NNP and_CC Dr._NNP Rakesh_NNP Agrawal_NNP ,_, and_CC later_RB with_IN Prof._NNP Johannes_NNP Gehrke_NNP at_IN Cornell_NNP Uni_NNP

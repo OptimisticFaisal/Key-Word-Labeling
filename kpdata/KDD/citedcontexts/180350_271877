@@ -1,0 +1,4 @@
+of_IN -LRB-_-LRB- local_JJ -RRB-_-RRB- time_NN warping_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- ._.
+In_IN previous_JJ work_NN we_PRP introduced_VBD piecewise_JJ dynamic_JJ time_NN warping_NN -LRB-_-LRB- PDTW_NN -RRB-_-RRB- ,_, a_DT modification_NN of_IN DTW_NN that_WDT performs_VBZ warping_NN on_IN a_DT reduced_VBN dimensionality_NN representation_NN of_IN the_DT data_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+-LRB-_-LRB- Chan_NNP and_CC Fu_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- later_RB introduced_VBD a_DT similar_JJ technique_NN that_WDT operates_VBZ on_IN a_DT different_JJ ,_, but_CC logically_RB equivalent_JJ representation_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._. -RRB-_-RRB-
+We_PRP demonstrated_VBD that_IN this_DT approach_NN allows_VBZ dramatic_JJ speedup_NN with_IN low_JJ

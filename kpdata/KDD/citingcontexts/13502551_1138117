@@ -1,0 +1,4 @@
+vement_NN over_IN the_DT baseline_NN method_NN ._.
+To_TO illustrate_VB our_PRP$ methodology_NN ,_, we_PRP apply_VBP the_DT generalized_JJ Co-HITS_NN algorithm_NN with_IN different_JJ settings_NNS to_TO the_DT query_NN suggestion_NN task_NN using_VBG the_DT real-world_JJ AOL_NNP query_NN log_NN data_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Experimental_JJ results_NNS show_VBP that_IN the_DT CoRegu0_NN .5_CD -LRB-_-LRB- i.e._FW ,_, a_DT model_NN of_IN the_DT regularization_NN framework_NN -RRB-_-RRB- achieves_VBZ the_DT best_JJS performance_NN ,_, and_CC its_PRP$ improvements_NNS are_VBP consistent_JJ and_CC promising_JJ ._.
+In_IN a_DT nutshell_NN ,_, our_PRP$ majo_NN

@@ -1,0 +1,3 @@
+mation_NN methods_NNS -LRB-_-LRB- 2_CD ,_, 32_CD ,_, 3_CD -RRB-_-RRB- have_VBP been_VBN developed_VBN based_VBN on_IN the_DT ℓ1-norm_NN penalized_VBD maximum_NN likelihood_NN estimation_NN ._.
+For_IN the_DT structure_NN learning_NN of_IN directed_JJ Bayesian_JJ networks_NNS ,_, the_DT structural_JJ EM_NN -LRB-_-LRB- SEM_NN -RRB-_-RRB- algorithm_NN =_JJ -_: =[_NN 4_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ a_DT similar_JJ procedure_NN as_IN Grafting_NNP ,_, that_DT is_VBZ ,_, alternatively_RB performing_VBG structural_JJ search_NN to_TO find_VB new_JJ model_NN structures_NNS and_CC parametric_JJ search_NN to_TO obtain_VB the_DT optimal_JJ model_NN parameters_NNS ._.
+Therefore_RB ,_, SEM_NN is_VBZ g_NN

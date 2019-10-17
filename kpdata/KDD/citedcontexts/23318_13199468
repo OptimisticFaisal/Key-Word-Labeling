@@ -1,0 +1,5 @@
+._.
+However_RB ,_, being_VBG a_DT graph_NN based_JJ algorithm_NN ,_, it_PRP is_VBZ rather_RB computationally_RB expensive_JJ ,_, especially_RB in_IN the_DT case_NN where_WRB cliques_NNS are_VBP computed_VBN ._.
+Another_DT partitioning_VBG clustering_NN method_NN is_VBZ employed_VBN by_IN Cadez_NNP et_FW al._FW =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: in_IN the_DT WebCANVAS_NN tool_NN ,_, which_WDT visualizes_VBZ user_NN navigation_NN paths_NNS in_IN each_DT cluster_NN ._.
+In_IN this_DT system_NN ,_, user_NN sessions_NNS are_VBP represented_VBN using_VBG categories_NNS of_IN general_JJ topics_NNS for_IN Web_NN pages_NNS ._.
+A_DT number_NN of_IN predefined_VBN c_NN

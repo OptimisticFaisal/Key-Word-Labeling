@@ -1,0 +1,5 @@
+re_IN learned_VBN from_IN the_DT data_NNS itself_PRP -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Anomaly_JJ detection_NN systems_NNS typically_RB learn_VBP a_DT statistical_JJ model_NN of_IN normal_JJ traffic_NN and_CC anomalies_NNS are_VBP identified_VBN as_IN traffic_NN patterns_NNS which_WDT do_VBP not_RB fit_VB the_DT normal_JJ model_NN =_JJ -_: =[_NN 3_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Hybrid_NN models_NNS attempt_VBP to_TO merge_VB both_DT styles_NNS of_IN intrusion_NN detection_NN ._.
+In_IN the_DT past_NN ,_, anomaly_JJ detection_NN systems_NNS have_VBP performed_VBN poorly_RB for_IN a_DT number_NN of_IN reasons_NNS ._.
+However_RB ,_, given_VBN the_DT increasing_VBG complexity_NN of_IN t_NN

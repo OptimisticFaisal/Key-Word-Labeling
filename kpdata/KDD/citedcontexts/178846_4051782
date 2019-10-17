@@ -1,0 +1,5 @@
+msets_NNS ._.
+An_DT itemset_NN I_PRP is_VBZ closed_VBN if_IN there_EX is_VBZ no_DT superset_NN of_IN I_NN in_IN the_DT database_NN with_IN the_DT same_JJ support_NN ._.
+Consequently_RB ,_, there_EX have_VBP been_VBN some_DT efficient_JJ algorithms_NNS developed_VBN for_IN mining_NN frequent_JJ closed_JJ itemsets_NNS =_JJ -_: =[_NN 17_CD ,_, 22_CD ,_, 25_CD ,_, 7_CD -RRB-_-RRB- -_: =_JJ -_: and_CC closed_VBN sequences_NNS -LRB-_-LRB- 23_CD ,_, 21_CD -RRB-_-RRB- ._.
+Moreover_RB ,_, -LRB-_-LRB- 8_CD ,_, 1_LS -RRB-_-RRB- consider_VB the_DT discovery_NN of_IN association_NN rules_NNS in_IN temporal_JJ databases_NNS and_CC thus_RB the_DT extraction_NN of_IN temporal_JJ features_NNS of_IN associated_JJ items_NNS ._.
+Also_RB ,_, -LRB-_-LRB- 14_CD -RRB-_-RRB- introduc_NN

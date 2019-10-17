@@ -1,0 +1,7 @@
+._.
+All_DT possible_JJ such_JJ -LRB-_-LRB- k_NN +_CC 1_LS -RRB-_-RRB- -_: candidates_NNS are_VBP then_RB generated_VBN ._.
+We_PRP denote_VBP these_DT candidate_NN patterns_NNS by_IN Ck_FW +1_FW ._.
+We_PRP prune_VBP these_DT patterns_NNS by_IN using_VBG an_DT analogous_JJ trick_NN to_TO that_DT which_WDT is_VBZ used_VBN by_IN the_DT Apriori_NNP method_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Specifically_RB ,_, all_DT k-subset_NN patterns_NNS of_IN each_DT member_NN of_IN Ck_FW +1_FW must_MD be_VB frequent_JJ and_CC present_JJ in_IN Lk_NN ._.
+Otherwise_RB ,_, it_PRP can_MD not_RB have_VB the_DT required_VBN support_NN and_CC must_MD be_VB pruned_VBN from_IN Ck_FW +1_FW ._.
+All_DT those_DT patterns_NNS in_IN Ck_NN

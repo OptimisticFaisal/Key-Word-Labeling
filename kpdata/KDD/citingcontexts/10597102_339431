@@ -1,0 +1,4 @@
+and_CC a_DT power-law_NN model_NN ,_, each_DT with_IN parameter_NN α_NN :_: P_NN -LRB-_-LRB- ∆_NN -RRB-_-RRB- ∝_CD e_SYM −_FW ∆_FW α_NN and_CC P_NN -LRB-_-LRB- ∆_NN -RRB-_-RRB- ∝_NN 1_CD ._.
+∆_FW α_FW We_PRP consider_VBP both_CC the_DT power-law_NN and_CC exponential_JJ waiting_VBG time_NN models_NNS since_IN they_PRP have_VBP both_DT been_VBN argued_VBN for_IN in_IN the_DT literature_NN =_JJ -_: =[_NN 3_CD ,_, 23_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT end_NN ,_, our_PRP$ algorithm_NN does_VBZ not_RB depend_VB on_IN the_DT particular_JJ choice_NN of_IN the_DT waiting_VBG time_NN distribution_NN and_CC more_RBR complicated_JJ functions_NNS can_MD easily_RB be_VB chosen_VBN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Also_RB ,_, we_PRP interpret_VBP ∞_NN +_CC ∆_NN =_JJ ∞_CD ,_, i.e._FW ,_, if_IN tu_FW

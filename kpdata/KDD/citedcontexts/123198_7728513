@@ -1,0 +1,3 @@
+will_MD propose_VB ;_: the_DT document_NN content_NN characterization_NN ,_, and_CC information_NN retrieval_NN based_VBN on_IN language_NN modeling_NN ._.
+2.1_CD Topic_NNP Analysis_NNP using_VBG Generative_JJ Models_NNS Related_JJ work_NN on_IN document_NN content_NN characterization_NN =_JJ -_: =[_NN 2_CD ,_, 17_CD ,_, 13_CD ,_, 18_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: introduce_VB a_DT set_NN of_IN probabilistic_JJ models_NNS to_TO simulate_VB the_DT generation_NN of_IN a_DT document_NN ._.
+Several_JJ factors_NNS in_IN producing_VBG a_DT document_NN ,_, either_CC observable_JJ -LRB-_-LRB- e.g._FW author_NN -LRB-_-LRB- 17_CD ,_, 18_CD -RRB-_-RRB- -RRB-_-RRB- or_CC latent_JJ -LRB-_-LRB- e.g._FW topic_NN -LRB-_-LRB- 2_CD ,_, 13_CD -RRB-_-RRB- ,_, comm_NN

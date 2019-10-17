@@ -1,0 +1,3 @@
+not_RB dominate_VB features_NNS that_WDT capture_VBP contextual_JJ words_NNS and_CC positional_JJ information_NN from_IN the_DT limited_JJ labeled_JJ data_NNS ._.
+We_PRP design_VBP a_DT data_NN integration_NN system_NN that_WDT builds_VBZ upon_IN state-of-the-art_JJ semi-Markov_JJ models_NNS =_JJ -_: =[_NN 7_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: for_IN information_NN extraction_NN to_TO exploit_VB useful_JJ information_NN in_IN both_CC structured_JJ data_NNS and_CC labeled_VBN unstructured_JJ data_NNS in_IN spite_NN of_IN their_PRP$ format_NN ,_, structure_NN and_CC size_NN variations_NNS ._.
+Our_PRP$ experiments_NNS show_VBP that_IN our_PRP$ p_NN

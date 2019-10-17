@@ -1,0 +1,4 @@
+anitizers_NNS is_VBZ difficult_JJ to_TO do_VB correctly_RB ._.
+Recent_JJ static_JJ analyses_NNS of_IN web_NN applications_NNS address_VBP cross-site_JJ scripting_NN or_CC SQL_NN injection_NN by_IN explicitly_RB modeling_NN sets_NNS of_IN values_NNS that_IN strings_NNS can_MD take_VB at_IN runtime_NN =_JJ -_: =[_NN 9_CD ,_, 18_CD ,_, 26_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT approaches_NNS use_VBP analysis-specific_JJ models_NNS of_IN strings_NNS that_WDT are_VBP based_VBN on_IN finite_JJ automata_NN or_CC context-free_JJ grammars_NNS ._.
+More_RBR recently_RB ,_, there_EX has_VBZ been_VBN significant_JJ interest_NN in_IN constraint_NN solving_VBG tools_NNS th_DT

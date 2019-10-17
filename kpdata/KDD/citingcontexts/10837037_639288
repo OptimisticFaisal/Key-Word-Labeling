@@ -1,0 +1,4 @@
+n_NN to_TO a_DT pair_NN of_IN consecutive_JJ graphs_NNS ._.
+For_IN the_DT second_JJ algorithm_NN this_DT method_NN allows_VBZ us_PRP to_TO find_VB the_DT subgraphs_NNS repeatedly_RB added_VBN and_CC removed_VBN in_IN the_DT dynamic_JJ graph_NN ._.
+While_IN we_PRP could_MD use_VB a_DT frequent_JJ subgraph_JJ miner_NN =_JJ -_: =[_NN 12_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: for_IN this_DT purpose_NN ,_, experiments_NNS have_VBP shown_VBN that_IN the_DT best-compressing_JJ patterns_NNS comparably_RB capture_VBP the_DT complete_JJ repeated_JJ structural_JJ changes_NNS -LRB-_-LRB- 25_CD -RRB-_-RRB- ._.
+We_PRP define_VBP the_DT best-compressing_JJ subgraphs_NNS as_IN those_DT which_WDT m_NN

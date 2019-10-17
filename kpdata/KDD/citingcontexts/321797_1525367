@@ -1,0 +1,4 @@
+s._NNP This_NNP method_NN controls_VBZ the_DT error_NN rate_NN per_IN family_NN -LRB-_-LRB- PFE_NN -RRB-_-RRB- ,_, which_WDT is_VBZ the_DT expected_JJ number_NN of_IN false_JJ rejections_NNS -LRB-_-LRB- PFEsff_NN -RRB-_-RRB- ,_, for_IN any_DT combination_NN of_IN true_JJ or_CC false_JJ hypotheses_NNS and_CC holds_VBZ even_RB with_IN dependent_JJ tests_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX are_VBP two_CD problems_NNS with_IN applying_VBG this_DT :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- If_IN we_PRP are_VBP reporting_VBG results_NNS incrementally_RB after_IN we_PRP mine_VBP each_DT level_NN ,_, we_PRP do_VBP not_RB know_VB how_WRB many_JJ tests_NNS we_PRP will_MD make_VB in_IN total_NN ._.
+Thus_RB ,_, n_NN is_VBZ unknown_JJ ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- We_PRP use_VBP

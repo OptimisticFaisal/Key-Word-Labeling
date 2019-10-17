@@ -1,0 +1,4 @@
+aphbased_JJ methods_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- -LRB-_-LRB- 32_CD -RRB-_-RRB- ._.
+Some_DT studies_NNS concluded_VBD that_IN significant_JJ improvements_NNS in_IN classification_NN performance_NN can_MD be_VB achieved_VBN when_WRB unlabeled_JJ examples_NNS are_VBP used_VBN ,_, while_IN others_NNS have_VBP indicated_VBN otherwise_RB -LRB-_-LRB- 4_LS -RRB-_-RRB- =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =-[_NN 12_CD -RRB-_-RRB- -LRB-_-LRB- 25_CD -RRB-_-RRB- ._.
+Blum_NNP and_CC Mitchell_NNP -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC Cozman_NNP et_FW al._FW -LRB-_-LRB- 10_CD -RRB-_-RRB- suggested_VBD that_IN unlabeled_JJ data_NNS can_MD help_VB to_TO reduce_VB variance_NN of_IN the_DT estimator_NN as_RB long_RB as_IN the_DT modeling_NN assumptions_NNS match_VBP the_DT ground_NN truth_NN data_NNS ._.
+Other_JJ

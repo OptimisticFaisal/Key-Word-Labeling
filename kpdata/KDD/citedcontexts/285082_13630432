@@ -1,0 +1,5 @@
+cascades_NNS ,_, size_NN of_IN blogs_NNS ,_, and_CC in_IN -_: and_CC out-degrees_NNS ,_, follows_VBZ a_DT power_NN law_NN distribution_NN ._.
+Gomez-Rodriguez_NNP ,_, Leskovec_NNP and_CC Krause_NNP -LRB-_-LRB- 11_CD -RRB-_-RRB- convert_VBP the_DT edge_NN inference_NN problem_NN to_TO combinatorial_JJ optimization_NN problem_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP find_VBP that_IN choosing_VBG the_DT best_JJS set_NN of_IN k_NN edges_NNS maximizing_VBG the_DT likelihood_NN of_IN the_DT data_NN is_VBZ NP-hard_JJ ._.
+They_PRP then_RB develop_VBP NETINF_NN ,_, a_DT greedy_JJ algorithm_NN for_IN inferring_VBG a_DT near-optimal_JJ set_NN of_IN k_NN directed_JJ edges_NNS ._.
+N_NN

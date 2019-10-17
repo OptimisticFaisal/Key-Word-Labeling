@@ -1,0 +1,3 @@
+et_CC intersection_NN method_NN described_VBN in_IN -LRB-_-LRB- 36_CD -RRB-_-RRB- ._.
+If_IN the_DT transactions_NNS are_VBP vertically_RB partitioned_VBN across_IN the_DT sites_NNS ,_, this_DT problem_NN can_MD be_VB solved_VBN by_IN generating_VBG and_CC computing_VBG a_DT set_NN of_IN independent_JJ linear_JJ equations_NNS =_JJ -_: =[_NN 37_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT work_NN in_IN -LRB-_-LRB- 38_CD -RRB-_-RRB- develops_VBZ a_DT log-linear_JJ model_NN approach_NN for_IN strictly_RB vertically_RB partitioned_VBN databases_NNS and_CC a_DT more_RBR general_JJ secure_JJ logistic_JJ regression_NN for_IN problems_NNS involving_VBG partially_RB overlapping_VBG data_NNS ba_NN

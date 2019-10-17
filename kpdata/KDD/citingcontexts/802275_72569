@@ -1,0 +1,4 @@
+and_CC the_DT amount_NN of_IN time_NN it_PRP can_MD take_VB an_DT algorithm_NN to_TO run_VB through_IN all_PDT the_DT isokinetic_JJ exercises_NNS stored_VBN in_IN the_DT database_NN ._.
+One_CD way_NN of_IN making_VBG the_DT search_NN space_NN smaller_JJR is_VBZ to_TO use_VB the_DT property_NN known_VBN as_IN A_DT priori_FW =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT states_VBZ that_IN if_IN a_DT pattern_NN is_VBZ not_RB frequent_JJ ,_, that_DT is_VBZ ,_, if_IN its_PRP$ confidence_NN is_VBZ not_RB over_IN the_DT threshold_NN value_NN ,_, no_DT pattern_NN of_IN a_DT longer_JJR period_NN that_WDT contains_VBZ it_PRP will_MD be_VB able_JJ to_TO be_VB frequent_JJ ._.
+This_DT means_VBZ that_IN

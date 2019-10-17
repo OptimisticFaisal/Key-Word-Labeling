@@ -1,0 +1,5 @@
+number_NN of_IN transactions_NNS ._.
+-LRB-_-LRB- Approaches_NNS from_IN machine_NN learning_NN or_CC inductive_JJ logic_NN programming_NN usually_RB call_VBP the_DT small_JJ graphs_NNS ``_`` examples_NNS ''_'' instead_RB of_IN transactions_NNS ._. -RRB-_-RRB-
+In_IN contrast_NN ,_, in_IN single-graph_JJ mining_NN ,_, e.g._FW ,_, =_JJ -_: =[_NN 7_CD ,_, 11_CD ,_, 17_CD ,_, 20_CD ,_, 29_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT dataset_NN is_VBZ a_DT single_JJ large_JJ graph_NN ,_, and_CC the_DT task_NN is_VBZ to_TO discover_VB patterns_NNS that_WDT occur_VBP sufficiently_RB often_RB in_IN the_DT dataset_NN ._.
+Our_PRP$ approach_NN falls_VBZ squarely_RB within_IN the_DT singlegraph_JJ category_NN ._.
+Note_VB that_DT single_JJ -_:

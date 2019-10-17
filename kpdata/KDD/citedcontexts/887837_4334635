@@ -1,0 +1,4 @@
+ns_NNS should_MD cluster_VB together_RB ._.
+By_IN using_VBG simulated_JJ annealing_NN they_PRP reduce_VBP the_DT run_NN time_NN from_IN polynomial_JJ to_TO linear_NN ._.
+An_DT alternative_JJ approach_NN ,_, that_IN we_PRP have_VBP n't_RB seen_VBN explicitly_RB used_VBN ,_, however_RB is_VBZ sug26sgested_VBN by_IN -LRB-_-LRB- =_JJ -_: =_JJ Sequeira_NNP and_CC Zaki_NNP 2002_CD -_: =--RRB-_NN ,_, is_VBZ the_DT use_NN of_IN clustering_NN for_IN data_NNS reduction_NN or_CC post_NN hoc_FW labeling_NN ._.
+This_DT would_MD allow_VB analysts_NNS to_TO quickly_RB review_VB ,_, and_CC potentially_RB label_NN ,_, a_DT large_JJ corpus_NN of_IN data_NNS ,_, by_IN operating_VBG on_IN a_DT small_JJ number_NN of_IN clust_NN

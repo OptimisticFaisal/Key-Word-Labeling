@@ -1,0 +1,7 @@
+st_IN to_TO understand_VB the_DT complexity_NN of_IN inference_NN ._.
+Proposition_NN 1_CD ._.
+Inference_NN problem_NN maxy_NN -LRB-_-LRB- NP_NN -RRB-_-RRB- +_CC -LRB-_-LRB- CP1_NN -RRB-_-RRB- is_VBZ NP-hard_JJ ,_, even_RB when_WRB ρna_NN =_JJ −_FW ∞_FW and_CC therefore_RB A0_NN =_JJ S0_NN ._.
+The_DT reduction_NN is_VBZ from_IN the_DT maximal_JJ clique_NN problem_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP also_RB note_VBP that_IN other_JJ natural_JJ definitions_NNS of_IN CP_NN do_VBP not_RB make_VB the_DT problem_NN easier_JJR ._.
+Proposition_NN 2_CD ._.
+The_DT inference_NN problem_NN remains_VBZ NP-hard_JJ with_IN the_DT following_JJ alternative_JJ definitions_NNS of_IN CP_NNP :_: 0_CD CP_NN -LRB-_-LRB- y_NN -RRB-_-RRB- =_JJ exp_NN

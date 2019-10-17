@@ -1,0 +1,5 @@
+lar_JJ extensions_NNS were_VBD shown_VBN for_IN other_JJ well-known_JJ distributions_NNS from_IN the_DT exponential_JJ family_NN ._.
+Following_VBG the_DT definition_NN of_IN distance-based_JJ outlier_NN introduced_VBN by_IN Knorr_NNP and_CC Ng_NNP ,_, several_JJ methods_NNS and_CC algorithms_NNS =_JJ -_: =[_NN 3_CD ,_, 6_CD ,_, 33_CD ,_, 47_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN proposed_VBN to_TO detect_VB distance-based_JJ outliers_NNS ._.
+However_RB ,_, the_DT outliers_NNS detected_VBN by_IN these_DT methods_NNS and_CC algorithms_NNS are_VBP global_JJ outliers_NNS ._.
+Breunig_NNP et_NNP ._.
+al._FW -LRB-_-LRB- 14_CD -RRB-_-RRB- argued_VBD that_IN in_IN some_DT situations_NNS local_JJ out_IN

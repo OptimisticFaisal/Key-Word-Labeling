@@ -1,0 +1,4 @@
+3_LS -RRB-_-RRB- This_DT gives_VBZ rise_NN to_TO the_DT hope_NN that_IN if_IN we_PRP have_VBP a_DT set_VBN W_NN =_JJ -LCB-_-LRB- w1_NN ,_, ..._: ,_, wn_NN -RCB-_-RRB- of_IN locations_NNS where_WRB we_PRP compute_VBP such_PDT a_DT Taylor_NNP approximation_NN ,_, we_PRP should_MD be_VB able_JJ to_TO obtain_VB an_DT everimproving_JJ approximation_NN of_IN g_NN -LRB-_-LRB- w_NN -RRB-_-RRB- =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+See_NNP Figure_NNP 2_CD for_IN an_DT illustration_NN ._.
+Formally_RB ,_, we_PRP have_VBP g_NN -LRB-_-LRB- w_NN -RRB-_-RRB- ≥_FW max_FW -LRB-_-LRB- g_NN -LRB-_-LRB- ¯_CD w_NN -RRB-_-RRB- +_CC 〈_FW w_FW −_FW ¯_FW w_NN ,_, ∂_FW wg_FW -LRB-_-LRB- ¯_CD w_NN -RRB-_-RRB- 〉_NN -RRB-_-RRB- ,_, -LRB-_-LRB- 4_CD -RRB-_-RRB- ¯_FW w_FW ∈_NN W_NN which_WDT means_VBZ that_IN g_NN -LRB-_-LRB- w_NN -RRB-_-RRB- can_MD be_VB lower-bounded_JJ by_IN a_DT piecewise_JJ linear_JJ function_NN ._.
+Moreover_RB ,_, the_DT appro_NN

@@ -1,0 +1,5 @@
+lters_NNS to_TO generate_VB a_DT fingerprint_NN of_IN each_DT virtual_JJ machine_NN 's_POS memory_NN image_NN ._.
+A_DT Bloom_NNP Filter_NNP is_VBZ essentially_RB a_DT lookup_NN function_NN implemented_VBD using_VBG hash_JJ functions_NNS ,_, and_CC can_MD be_VB used_VBN to_TO insert_VB and_CC lookup_VB elements_NNS =_JJ -_: =[_NN 1_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN shown_VBN in_IN Figure_NNP 2_CD ,_, a_DT Bloom_NNP Filter_NNP consists_VBZ of_IN an_DT m-bit_NN vector_NN and_CC a_DT set_NN of_IN k_NN hash_JJ functions_NNS H_NN =_JJ h1_NN ,_, h2_NN ,_, h3_NN ,_, ..._: ,_, hk_NN -LRB-_-LRB- k_NN =_JJ 4_CD in_IN the_DT figure_NN -RRB-_-RRB- ._.
+Initially_RB ,_, all_DT bits_NNS of_IN the_DT vector_NN are_VBP set_VBN to_TO zero_VB ._.
+To_TO in_IN

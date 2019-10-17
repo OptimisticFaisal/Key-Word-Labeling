@@ -1,0 +1,3 @@
+computationally_RB inefficient_JJ ,_, requiring_VBG a_DT complexity_NN of_IN O_NN -LRB-_-LRB- N_NN 2_CD -RRB-_-RRB- ._.
+Despite_IN this_DT disadvantage_NN ,_, discriminative_JJ methods_NNS such_JJ as_IN graph_NN partitioning_NN and_CC spectral_JJ clustering_NN algorithms_NNS -LRB-_-LRB- Karypis_NNP et_FW al._FW ,_, 1999_CD ;_: =_JJ -_: =_JJ Dhillon_NNP ,_, 2001_CD -_: =_JJ -_: ;_: Meila_NNP and_CC Shi_NNP ,_, 2001_CD ;_: Ng_NN et_FW al._FW ,_, 2002_CD ;_: Strehl_NNP and_CC Ghosh_NNP ,_, 2002_CD -RRB-_-RRB- have_VBP gained_VBN recent_JJ popularity_NN due_JJ to_TO their_PRP$ ability_NN to_TO produce_VB desirable_JJ clustering_NN results_NNS ._.
+For_IN model-based_JJ clustering_NN approaches_NNS ,_, the_DT m_NN

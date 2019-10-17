@@ -1,0 +1,6 @@
+partially_RB learned_VBN models_NNS ,_, e.g._FW ,_, -LRB-_-LRB- 2_CD ,_, 3_CD -RRB-_-RRB- ._.
+Many_JJ have_VBP maintained_VBN and_CC compared_VBN ``_`` base_NN ''_'' models_NNS trained_VBN on_IN blocks_NNS of_IN consecutive_JJ examples_NNS to_TO identify_VB those_DT that_WDT are_VBP the_DT best_JJS predictors_NNS of_IN new_JJ examples_NNS ,_, e.g._FW ,_, =_JJ -_: =[_NN 4_CD ,_, 5_CD ,_, 6_CD ,_, 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP focus_VBP on_IN this_DT approach_NN ._.
+Such_JJ methods_NNS address_VBP directly_RB the_DT uncertainty_NN about_IN the_DT existence_NN and_CC location_NN of_IN drift_NN ._.
+We_PRP propose_VBP using_VBG probability_NN theory_NN to_TO reason_VB about_IN this_DT uncertainty_NN ._.
+A_DT probabilis_NN

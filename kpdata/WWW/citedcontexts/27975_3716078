@@ -1,0 +1,4 @@
+the_DT object_NN ._.
+According_VBG to_TO the_DT selection_NN of_IN the_DT portions_NNS to_TO cache_NN ,_, we_PRP can_MD classify_VB existing_VBG algorithms_NNS into_IN four_CD categories_NNS :_: sliding-interval_JJ caching_NN -LRB-_-LRB- 2,6,21_CD -RRB-_-RRB- ,_, prefix_NN caching_NN -LRB-_-LRB- 10,14,19_CD -RRB-_-RRB- ,_, segment_NN caching_NN =_JJ -_: =[_NN 4,8,28_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC rate-split_JJ caching_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Our_PRP$ scheme_NN is_VBZ particularly_RB related_JJ to_TO the_DT ratesplit_NN caching_NN in_IN the_DT sense_NN that_IN we_PRP also_RB partition_NN the_DT stream_NN along_IN the_DT rate_NN axis_NN ._.
+However_RB ,_, in_IN rate-split_JJ caching_NN ,_, the_DT prima_NN

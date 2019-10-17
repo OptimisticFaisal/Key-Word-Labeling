@@ -1,0 +1,4 @@
+cern_VB and_CC classify_VB the_DT incoming_JJ requests_NNS and_CC performs_VBZ the_DT dispatch_VBP to_TO the_DT appropriate_JJ backend_JJ server_NN ._.
+Besides_IN ,_, this_DT extracted_VBN information_NN is_VBZ used_VBN to_TO prefetch_VB the_DT data_NNS files_NNS into_IN the_DT web_NN servers_NNS '_POS cache_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Prefetching_NN is_VBZ thus_RB complementary_JJ to_TO the_DT dispatches_NNS being_VBG made_VBN by_IN the_DT distributor_NN at_IN the_DT frontend_NN ._.
+Simulation_NN results_NNS with_IN traces_NNS from_IN real_JJ web_NN servers_NNS show_VBP that_IN the_DT proposed_VBN scheme_NN ,_, PRORD_NN ,_, outperfo_NN

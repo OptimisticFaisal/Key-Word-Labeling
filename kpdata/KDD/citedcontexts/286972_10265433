@@ -1,0 +1,5 @@
+y_VB a_DT 2-dimensional_JJ manifold_NN ._.
+Therefore_RB ,_, its_PRP$ intrinsic_JJ dimensionality_NN is_VBZ 2_CD ._.
+The_DT concept_NN of_IN intrinsic_JJ dimensionality_NN has_VBZ many_JJ applications_NNS in_IN the_DT database_NN and_CC data_NN mining_NN communities_NNS ,_, such_JJ as_IN clustering_NN =_JJ -_: =[_NN 3_CD ,_, 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, outlier_NN detection_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, nearest_JJS neighbor_NN queries_NNS -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, and_CC spatial_JJ query_NN selectivity_NN estimation_NN -LRB-_-LRB- 5_CD ,_, 12_CD -RRB-_-RRB- ._.
+Different_JJ definitions_NNS of_IN intrinsic_JJ dimensionality_NN can_MD be_VB found_VBN in_IN the_DT literature_NN ._.
+For_IN example_NN

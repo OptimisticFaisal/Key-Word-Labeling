@@ -1,0 +1,5 @@
+Incorporating_VBG site-level_JJ knowledge_NN for_IN incremental_JJ crawling_NN of_IN web_NN forums_NNS :_: a_DT list-wise_JJ strategy_NN
+by_IN a_DT particular_JJ user_NN -RRB-_-RRB- ._.
+A_DT crawler_NN that_WDT understands_VBZ these_DT formats_NNS can_MD crawl_VB them_PRP more_RBR efficiently_RB and_CC effectively_RB than_IN a_DT general-purpose_JJ crawler_NN ._.
+There_EX has_VBZ been_VBN some_DT work_NN on_IN crawling_VBG discussion_NN forums_NNS =_JJ -_: =[_NN 119_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC little_JJ else_NN ._.
+Vertical_JJ crawling_NN is_VBZ not_RB the_DT same_JJ as_IN scoped_JJ crawling_NN -LRB-_-LRB- Section_NN 4.2_CD -RRB-_-RRB- :_: Scoped_VBN 237238_CD Future_JJ Directions_NNS crawling_VBG focuses_VBZ on_IN collecting_VBG semantically_RB coherent_JJ content_NN from_IN many_JJ sites_NNS ,_, wh_NN

@@ -1,0 +1,4 @@
+sters_NNS ,_, and_CC the_DT similarities_NNS of_IN our_PRP$ formulation_NN to_TO the_DT subset_NN sum_NN problem_NN ,_, we_PRP propose_VBP the_DT algorithm_NN dynamicM_NN -LRB-_-LRB- Algorithm_NN 1_CD -RRB-_-RRB- ._.
+The_DT algorithm_NN is_VBZ motivated_VBN by_IN the_DT Apriori_NNP class_NN of_IN algorithms_NNS in_IN data_NNS mining_NN =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Shapley_NNP value_NN computation_NN in_IN co-operative_JJ game_NN theory_NN -LRB-_-LRB- 22_CD ,_, 14_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ important_JJ to_TO note_VB that_IN no_DT theoretical_JJ claim_NN is_VBZ being_VBG made_VBN regarding_VBG the_DT optimality_NN of_IN dynamicM_NN ._.
+The_DT belief_NN is_VBZ that_IN such_PDT an_DT ef_NN

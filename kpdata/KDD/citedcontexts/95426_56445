@@ -1,0 +1,5 @@
+set_VBN ._.
+There_EX techniques_NNS directly_RB work_VBP in_IN this_DT unbounded_JJ streaming_NN model_NN -LRB-_-LRB- but_CC not_RB for_IN our_PRP$ windowed_JJ data_NNS streaming_NN model_NN -RRB-_-RRB- ._.
+There_EX has_VBZ been_VBN work_NN on_IN the_DT problem_NN of_IN one_CD pass_NN clustering_NN of_IN data_NNS streams_NNS -LRB-_-LRB- 34_CD -RRB-_-RRB- ._.
+=_SYM -_: =[_NN 17_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: studied_VBD the_DT problem_NN of_IN maintaining_VBG decision_NN trees_NNS on_IN data_NNS streams_NNS ._.
+There_EX has_VBZ been_VBN lot_NN of_IN work_NN -LRB-_-LRB- 32_CD ,_, 33_CD ,_, 27_CD ,_, 28_CD ,_, 29_CD ,_, 31_CD -RRB-_-RRB- on_IN maintaining_VBG histograms_NNS and_CC other_JJ synopsis_NN structures_NNS like_IN top_JJ wavelet_NN coeffic_NN

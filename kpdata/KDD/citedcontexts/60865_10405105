@@ -1,0 +1,5 @@
+ry_NN ._.
+In_IN this_DT work_NN ,_, we_PRP focus_VBP on_IN pairwise_JJ preferences_NNS ._.
+For_IN example_NN ,_, if_IN one_CD has_VBZ click-through_JJ data_NNS yielding_VBG query-target_JJ relationships_NNS ,_, one_PRP can_MD use_VB this_DT to_TO train_VB these_DT models_NNS to_TO perform_VB well_RB on_IN this_DT task_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Or_CC ,_, if_IN one_CD is_VBZ interested_JJ in_IN finding_VBG documents_NNS related_VBN to_TO a_DT given_VBN query_NN document_NN ,_, one_PRP can_MD use_VB known_JJ hyperlinks_NNS to_TO learn_VB a_DT model_NN that_WDT performs_VBZ well_RB on_IN this_DT task_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+Moreover_RB ,_, our_PRP$ approach_NN can_MD model_VB

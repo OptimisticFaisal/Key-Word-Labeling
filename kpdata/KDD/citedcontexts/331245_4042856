@@ -1,0 +1,6 @@
+expressiveness_NN ._.
+This_DT stepwise_JJ approach_NN led_VBD in_IN virtually_RB all_DT cases_NNS to_TO a_DT significant_JJ speed-up_NN ,_, sometimes_RB with_IN a_DT factor_NN of_IN up_IN to_TO 1000_CD ._.
+This_DT work_NN is_VBZ related_JJ to_TO the_DT Quickstart_NNP approach_NN by_IN Nijssen_NN and_CC Kok_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: where_WRB a_DT monotone_NN constraint_NN was_VBD considered_VBN ._.
+In_IN this_DT paper_NN we_PRP study_VBD a_DT branchand-bound_JJ search_NN using_VBG a_DT convex_NN constraint_NN ._.
+This_DT leads_VBZ to_TO further_VB important_JJ differences_NNS ._.
+In_IN our_PRP$ opinion_NN ,_, a_DT constrained_VBN patte_NN

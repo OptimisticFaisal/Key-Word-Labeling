@@ -1,0 +1,3 @@
+movie_NN m_NN ;_: •_NNP Nu_NNP is_VBZ the_DT number_NN of_IN ratings_NNS of_IN user_NN u._NN The_DT model_NN is_VBZ trained_VBN using_VBG alternating_VBG least_JJS squares_NNS regression_NN for_IN three_CD iterations_NNS ,_, starting_VBG with_IN the_DT user_NN parameters_NNS ._.
+This_DT method_NN is_VBZ described_VBN in_IN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: Section_NN 4_CD ._.
+The_DT regularization_NN parameters_NNS were_VBD chosen_VBN using_VBG the_DT assisted_JJ manual_JJ selection_NN -LRB-_-LRB- see_VB Section_NNP 2.4.2_CD -RRB-_-RRB- to_TO minimize_VB the_DT error_NN on_IN the_DT probe_NN set_NN :_: 0.0987708_CD 4.65075_CD 0_CD 0_CD Note_NN that_IN the_DT ze_NN

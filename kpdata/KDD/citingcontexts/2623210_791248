@@ -1,0 +1,5 @@
+the_DT subspace_NN X_NN 1_CD ;_: :_: :_: :_: ;_: X_NN n_NN is_VBZ also_RB correlated_VBN ._.
+2_CD 4.3_CD Complexity_NN Analysis_NN In_IN this_DT section_NN ,_, we_PRP examine_VBP the_DT worst_JJS case_NN complexity_NN of_IN our_PRP$ algorithm_NN ._.
+Note_VB that_IN the_DT target_NN problem_NN of_IN Apriori_NNP is_VBZ NP-hard_NN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: ,_, so_IN an_DT algorithm_NN based_VBN on_IN the_DT same_JJ framework_NN is_VBZ unlikely_JJ to_TO run_VB in_IN polynomial_JJ time_NN theoretically_RB ._.
+However_RB ,_, we_PRP hope_VBP the_DT algorithm_NN would_MD run_VB faster_RBR than_IN its_PRP$ theoretical_JJ bound_VBN in_IN practice_NN ._.
+The_DT performan_NN

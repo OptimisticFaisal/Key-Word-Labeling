@@ -1,0 +1,4 @@
+ned_VBD ,_, only_RB if_IN R_NNP ∈_NNP IR_NNP c_NN ×_NN ℓ2_NN consists_VBZ of_IN the_DT ℓ2_NN eigenvectors_NNS of_IN the_DT matrix_NN MR_NN ,_, corresponding_VBG to_TO the_DT largest_JJS ℓ2_NN eigenvalues_NNS ._.
+The_DT maximization_NN of_IN the_DT variance_NN var_NN -LRB-_-LRB- L_NN ,_, R_NN -RRB-_-RRB- bears_VBZ some_DT resemblance_NN to_TO the_DT one_NN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB the_DT co-clustering_NN of_IN the_DT gene_NN expression_NN data_NNS is_VBZ considered_VBN ._.
+However_RB ,_, the_DT two_CD matrices_NNS L_NN and_CC R_NN in_IN GPCA_NN have_VBP orthonormal_JJ columns_NNS ,_, while_IN they_PRP satisfy_VBP a_DT specific_JJ discrete_JJ structure_NN in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Remark_NN

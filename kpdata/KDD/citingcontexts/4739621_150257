@@ -1,0 +1,4 @@
+es_IN the_DT hard_JJ cases_NNS f_FW ∈_FW F_NN -LRB-_-LRB- µF_NN -LRB-_-LRB- f_LS -RRB-_-RRB- =_JJ 1_CD -RRB-_-RRB- and_CC f_SYM \/_: ∈_NN F_NN -LRB-_-LRB- µF_NN -LRB-_-LRB- f_LS -RRB-_-RRB- =_JJ 0_CD -RRB-_-RRB- ._.
+The_DT most_RBS commonly_RB used_VBN prototype_NN membership_NN functions_NNS are_VBP cone_NN ,_, trapezoidal_NN ,_, B-splines_NNS ,_, exponential_JJ ,_, Cauchy_NNP ,_, and_CC paired_JJ sigmoid_JJ functions_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Since_IN we_PRP could_MD not_RB think_VB of_IN any_DT intrinsic_JJ reason_NN why_WRB a_DT particular_JJ one_NN should_MD be_VB preferred_VBN to_TO any_DT other_JJ ,_, we_PRP tested_VBD the_DT cone_NN ,_, trapezoidal_JJ ,_, exponential_JJ ,_, and_CC Cauchy_NNP functions_NNS in_IN our_PRP$ system_NN ._.
+In_IN general_JJ ,_,

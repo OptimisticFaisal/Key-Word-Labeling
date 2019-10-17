@@ -1,0 +1,4 @@
+repository_NN ,_, currently_RB ,_, as_IN OWL_NN files_NNS ._.
+The_DT resulting_VBG application_NN runs_VBZ on_IN a_DT Tomcat_NNP server_NN ,_, reusing_VBG three_CD major_JJ software_NN components_NNS :_: INRIA_NNP API_NNP -LRB-_-LRB- Euzenat_NNP 2004_CD -RRB-_-RRB- ,_, OWL_NN API_NN -LRB-_-LRB- Bechhofer_NNP et_FW al._FW 2003_CD -RRB-_-RRB- and_CC Jena_NNP 2_CD -LRB-_-LRB- =_JJ -_: =_JJ Carroll_NNP et_FW al._FW 2004_CD -_: =-]_CD ._.
+A_DT JSP_NNP interface_NN to_TO make_VB the_DT application_NN available_JJ for_IN the_DT final_JJ user_NN and_CC to_TO realize_VB the_DT semi-automatic_JJ matching_NN process_NN was_VBD implemented_VBN ._.
+An_DT architecture_NN of_IN the_DT community-driven_JJ ontology_NN matching_NN sy_NN

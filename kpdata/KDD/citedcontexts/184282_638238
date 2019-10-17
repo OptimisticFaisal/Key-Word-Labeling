@@ -1,0 +1,4 @@
+the_DT semantic_JJ space_NN ._.
+Experiments_NNS show_VBP that_IN eLSI_NN retains_VBZ the_DT retrieval_NN quality_NN of_IN LSI_NNP but_CC is_VBZ several_JJ orders_NNS of_IN magnitude_NN more_RBR efficient_JJ ._.
+It_PRP outperforms_VBZ four_CD major_JJ fast_JJ dimensionality_NN reduction_NN methods_NNS =_JJ -_: =[_NN 6_CD ,_, 9_CD ,_, 15_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: in_IN retrieval_NN quality_NN ._. ._.
+We_PRP conducted_VBD extensive_JJ experiments_NNS with_IN LSI_NNP using_VBG a_DT large_JJ corpus_NN and_CC found_VBD that_IN proper_JJ normalization_NN of_IN semantic_JJ vectors_NNS for_IN terms_NNS and_CC documents_NNS improve_VBP recall_NN by_IN 76_CD %_NN compared_VBN

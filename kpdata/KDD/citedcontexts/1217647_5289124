@@ -1,0 +1,4 @@
+viruses_NNS and_CC sexually_RB transmitted_JJ diseases_NNS ,_, among_IN others_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+1.1_CD Motivation_NN The_DT majority_NN of_IN recent_JJ studies_NNS have_VBP focused_VBN on_IN characterizing_VBG the_DT topology_NN ,_, or_CC the_DT change_NN in_IN topology_NN ,_, of_IN complex_JJ networks_NNS =_JJ -_: =[_NN 17_CD ,_, 5_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, in_IN many_JJ real_JJ world_NN applications_NNS ,_, weights_NNS are_VBP often_RB associated_VBN with_IN the_DT vertices_NNS or_CC edges_NNS of_IN the_DT network_NN ._.
+These_DT weights_NNS are_VBP typically_RB changing_VBG with_IN time_NN ,_, thus_RB forming_VBG a_DT time_NN series_NN for_IN each_DT

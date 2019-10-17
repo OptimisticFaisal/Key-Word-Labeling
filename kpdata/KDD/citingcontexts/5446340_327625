@@ -1,0 +1,5 @@
+e_LS the_DT performance_NN of_IN our_PRP$ system_NN ._.
+We_PRP are_VBP planning_VBG to_TO include_VB an_DT engine_NN for_IN the_DT detection_NN of_IN concept_NN drift_NN ,_, so_IN that_IN instead_RB of_IN periodically_RB adding_VBG new_JJ experts_NNS we_PRP will_MD only_RB add_VB when_WRB a_DT change_NN is_VBZ detected_VBN =_JJ -_: =[_NN 16_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP also_RB want_VBP to_TO control_VB for_IN the_DT diversity_NN of_IN the_DT ensemble_NN ._.
+Currently_RB we_PRP do_VBP not_RB check_VB whether_IN we_PRP have_VBP multiple_JJ copies_NNS of_IN the_DT same_JJ model_NN in_IN the_DT ensemble_NN ._.
+If_IN we_PRP are_VBP about_IN to_TO add_VB a_DT new_JJ model_NN ,_, we_PRP should_MD

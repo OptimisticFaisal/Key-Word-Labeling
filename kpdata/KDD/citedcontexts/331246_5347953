@@ -1,0 +1,4 @@
+longer_RB running_VBG times_NNS ._.
+The_DT crawler_NN selects_VBZ randomly_RB one_CD of_IN the_DT authorities_NNS -LRB-_-LRB- SELECTRANDOM_NNS -RRB-_-RRB- at_IN the_DT beginning_NN of_IN each_DT iteration_NN ._.
+This_DT authority_NN is_VBZ used_VBN as_IN a_DT starting_VBG point_NN for_IN a_DT random_JJ walk_NN with_IN restart_VB =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: strategy_NN to_TO explore_VB the_DT Web_NN site_NN graph_NN until_IN the_DT the_DT first_JJ restart_VB event_NN happens_VBZ ._.
+Note_VB ,_, that_IN this_DT strategy_NN has_VBZ the_DT advantage_NN that_IN the_DT search_NN process_NN does_VBZ not_RB get_VB stuck_VBN in_IN non-interesting_JJ or_CC well-expl_JJ

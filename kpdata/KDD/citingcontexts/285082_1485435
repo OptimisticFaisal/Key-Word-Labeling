@@ -1,0 +1,4 @@
+orithms_NNS for_IN the_DT progressive_JJ case_NN carry_VBP over_RP ._.
+Theorem_NN 5.1_CD also_RB implies_VBZ approximation_NN results_NNS for_IN certain_JJ non-progressive_JJ models_NNS used_VBN by_IN Asavathiratham_NNP et_FW al._FW to_TO model_VB cascading_VBG failures_NNS in_IN power_NN grids_NNS =_JJ -_: =[_NN 2_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Note_VB that_IN the_DT non-progressive_JJ model_NN discussed_VBN here_RB differs_VBZ from_IN the_DT model_NN of_IN Domingos_NNP and_CC Richardson_NNP -LRB-_-LRB- 10_CD ,_, 26_CD -RRB-_-RRB- in_IN two_CD ways_NNS ._.
+We_PRP are_VBP concerned_VBN with_IN the_DT sum_NN over_IN all_DT time_NN steps_VBZ t_NN #_# #_# of_IN the_DT expected_VBN num_NN

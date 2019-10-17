@@ -1,0 +1,4 @@
+s_NN above_IN only_JJ deal_NN with_IN atomic_JJ events_NNS ,_, where_WRB these_DT are_VBP either_CC incoming_JJ messages_NNS or_CC -LRB-_-LRB- implicit_JJ -RRB-_-RRB- changes_NNS of_IN XML_NN or_CC RDF_NN data_NNS ._.
+In_IN this_DT respect_NN ,_, there_EX is_VBZ some_DT preliminary_JJ work_NN on_IN composite_JJ events_NNS in_IN the_DT Web_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC that_IN only_RB considers_VBZ composition_NN of_IN events_NNS of_IN modification_NN of_IN XML-data_NN in_IN a_DT single_JJ document_NN ._.
+Detection_NN of_IN composite_JJ events_NNS in_IN distributed_VBN environments_NNS has_VBZ also_RB been_VBN considered_VBN in_IN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+In_IN this_DT sys_NN

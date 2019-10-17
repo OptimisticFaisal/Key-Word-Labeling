@@ -1,0 +1,5 @@
+used_VBD C._NNP Borgelt_NNP 's_POS implementation_NN of_IN Apriori_NNP -LRB-_-LRB- in_IN C_NN -RRB-_-RRB- ._.
+1_CD We_PRP ran_VBD experiments_NNS on_IN five_CD databases_NNS which_WDT are_VBP summarized_VBN in_IN Table_NNP 2_CD ._.
+The_DT first_JJ four_CD databases_NNS are_VBP publically_RB available_JJ from_IN the_DT UCI_NNP KDD_NNP Archive_NNP =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT UCI_NNP Admissions_NNPS dataset_NN represents_VBZ all_DT undergraduate_JJ student_NN applications_NNS to_TO UCI_NNP for_IN the_DT years_NNS 1993-1999_CD ._.
+The_DT data_NN contains_VBZ variables_NNS such_JJ as_IN ethnicity_NN ,_, school_NN -LRB-_-LRB- e.g._FW Arts_NNP ,_, Engineering_NNP ,_, etc._NN -RRB-_-RRB- ,_, if_IN

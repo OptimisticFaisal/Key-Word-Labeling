@@ -1,0 +1,5 @@
+the_DT left-hand_JJ matrix_NN B_NN -RRB-_-RRB- and_CC their_PRP$ occurrences_NNS -LRB-_-LRB- the_DT righthand_NN matrix_NN C_NN -RRB-_-RRB- ._.
+As_IN such_JJ ,_, BMF_NN essentially_RB describes_VBZ the_DT data_NNS with_IN a_DT set_NN of_IN patterns_NNS ._.
+Therefore_RB ,_, pattern_NN set_VBD mining_NN techniques_NNS are_VBP related_VBN ._.
+KRIMP_NN =_JJ -_: =[_NN 38_CD -RRB-_-RRB- -_: =_SYM -_: pioneered_VBD the_DT use_NN of_IN MDL_NN for_IN identifying_VBG good_JJ pattern_NN sets_NNS ,_, and_CC selects_VBZ that_IN group_NN of_IN frequent_JJ itemsets_NNS that_WDT describes_VBZ the_DT data_NNS best_RB ._.
+LESS_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- and_CC PACK_NN -LRB-_-LRB- 35_CD -RRB-_-RRB- follow_VBP a_DT similar_JJ approach_NN ,_, but_CC respective_JJ

@@ -1,0 +1,3 @@
+et_CC by_IN hand_NN ,_, several_JJ recent_JJ papers_NNS have_VBP proposed_VBN determining_VBG edit_NN costs_NNS empirically_RB ._.
+These_DT proposals_NNS arise_VBP from_IN a_DT variety_NN of_IN learning_VBG paradigms_NNS ,_, including_VBG generative_JJ models_NNS -LRB-_-LRB- Ristad_NNP and_CC Yianilos_NNP ,_, 1998_CD ;_: =_JJ -_: =_JJ Bilenko_NNP and_CC Mooney_NNP ,_, 2003_CD -_: =--RRB-_NN ,_, conditional_JJ random_JJ fields_NNS -LRB-_-LRB- McCallum_NNP et_FW al._FW ,_, 2005_CD -RRB-_-RRB- ,_, maximummargin_NN methods_NNS -LRB-_-LRB- Joachims_NNP ,_, 2003_CD -RRB-_-RRB- ,_, and_CC gradient_NN boosting_VBG -LRB-_-LRB- Parker_NNP et_FW al._FW ,_, 2006_CD -RRB-_-RRB- ._.
+While_IN approaches_NNS based_VBN on_IN generative_JJ models_NNS support_VBP only_RB limi_NN

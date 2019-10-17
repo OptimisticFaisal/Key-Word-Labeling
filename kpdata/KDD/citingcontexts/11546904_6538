@@ -1,0 +1,4 @@
+1_CD G_NN '_'' :_: homogeneous_JJ collaboration_NN network_NN 1999_CD 1_CD 2001_CD 1_CD 2000_CD 1_CD a5_NN 2000_CD 2_CD 2003_CD 1_CD 2001_CD 1_CD 2002_CD 1_CD H_NN '_'' :_: candidate_NN DAG_NNP Figure_NNP 2_CD :_: Example_NN of_IN graph_NN transformation_NN ._.
+By_IN means_NNS of_IN link_NN analysis_NN -LRB-_-LRB- e.g._FW ,_, using_VBG PageRank_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, one_PRP can_MD compute_VB the_DT importance_NN of_IN a_DT node_NN and_CC the_DT relevance_NN of_IN neighboring_JJ nodes_NNS ._.
+Studies_NNS have_VBP also_RB shown_VBN links_NNS can_MD be_VB explored_VBN to_TO clean_VB ,_, fuse_NN and_CC reveal_VBP the_DT knowledge_NN hidden_VBN in_IN a_DT network_NN ._.
+For_IN examp_NN

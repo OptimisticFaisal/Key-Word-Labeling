@@ -1,0 +1,4 @@
+ptoms_NNS -LCB-_-LRB- coughing_VBG ,_, fever_NN ,_, runny_JJ nose_NN ,_, headache_NN ,_, sore_JJ throat_NN -RCB-_-RRB- are_VBP catching_VBG a_DT cold_NN ._.
+R2_NN requires_VBZ matching_VBG just_RB part_NN of_IN the_DT data_NNS ,_, which_WDT illustrates_VBZ the_DT sense_NN of_IN allowing_VBG for_IN fault_NN tolerance_NN in_IN data_NN mining_NN ._.
+=_SYM -_: =_JJ -LRB-_-LRB- YFB01_NN -RRB-_-RRB- -_: =_JJ -_: was_VBD the_DT first_JJ to_TO propose_VB discovering_VBG FT_NNP frequent_JJ patterns_NNS in_IN many_JJ dimensions_NNS ._.
+Their_PRP$ primary_JJ motivation_NN was_VBD to_TO find_VB frequent_JJ groups_NNS of_IN transactions_NNS -LRB-_-LRB- user_NN groups_NNS ,_, web_NN sessions_NNS ,_, etc._NN -RRB-_-RRB- instead_RB of_IN focusin_NN

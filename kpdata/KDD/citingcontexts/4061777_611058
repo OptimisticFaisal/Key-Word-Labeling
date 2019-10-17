@@ -1,0 +1,4 @@
+bution_NN is_VBZ imbalanced_JJ ,_, which_WDT is_VBZ common_JJ in_IN real-world_JJ applications_NNS ,_, we_PRP should_MD also_RB pay_VB attention_NN to_TO the_DT problem_NN of_IN feature_NN selection_NN in_IN order_NN to_TO avoid_VB the_DT bias_NN associated_VBN with_IN skewed_JJ class_NN distribution_NN =_JJ -_: =[_NN 9_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT effective_JJ criterion_NN to_TO select_JJ features_NNS can_MD be_VB explored_VBN in_IN combination_NN with_IN the_DT hierarchy_NN information_NN in_IN this_DT regard_NN ._.
+9_CD ._.
+ACKNOWLEDGMENTS_NNP Lei_NNP Tang_NNP is_VBZ partly_RB supported_VBN by_IN GPSA_NNP Research_NNP Grant_NNP of_IN Ariz_NNP

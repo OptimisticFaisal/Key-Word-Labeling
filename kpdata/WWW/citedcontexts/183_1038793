@@ -1,0 +1,4 @@
+defined_VBN matrix_NN ._.
+In_IN the_DT past_JJ years_NNS a_DT number_NN of_IN protocols_NNS have_VBP been_VBN proposed_VBN that_IN in_IN some_DT form_NN or_CC another_DT ,_, rely_VBP on_IN the_DT distributed_VBN calculation_NN of_IN the_DT principal_JJ eigenvector_NN of_IN fully_RB distributed_VBN matrices_NNS =_JJ -_: =[_NN 7_CD ,_, 12_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN these_DT approaches_NNS ,_, the_DT matrix_NN is_VBZ stored_VBN in_IN -LRB-_-LRB- possibly_RB weighted_JJ -RRB-_-RRB- links_NNS among_IN nodes_NNS ,_, and_CC the_DT vector_NN elements_NNS are_VBP stored_VBN at_IN the_DT nodes_NNS ,_, one_CD element_NN per_IN node_NN ._.
+Matrix-vector_JJ multiplication_NN ,_, the_DT kernel_NN op_NN

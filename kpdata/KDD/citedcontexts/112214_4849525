@@ -1,0 +1,5 @@
+presenting_VBG each_DT user_NN with_IN the_DT same_JJ prediction_NN for_IN each_DT item_NN ._.
+More_RBR advanced_JJ ACF_NNP systems_NNS automatically_RB discover_VBP predictive_JJ relationships_NNS between_IN users_NNS ,_, based_VBN on_IN common_JJ patterns_NNS discovered_VBN in_IN the_DT ratings_NNS =_JJ -_: =[_NN 5,20,38,68,79_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT systems_NNS provide_VBP every_DT user_NN with_IN personalized_JJ predictions_NNS that_WDT may_MD be_VB different_JJ from_IN everybody_NN else_RB 's_POS ._.
+An_DT example_NN of_IN ACF_NN is_VBZ the_DT MovieLens_NNP movie_NN recommendation_NN system_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+A_DT user_NN provides_VBZ MovieL_NN

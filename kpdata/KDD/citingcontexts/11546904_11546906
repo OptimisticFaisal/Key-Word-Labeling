@@ -1,0 +1,4 @@
+the_DT addition_NN of_IN structured_JJ semantic_JJ information_NN to_TO plain_JJ text_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 15_CD -RRB-_-RRB- applies_VBZ Natural_NNP Language_NNP Processing_NNP to_TO extract_VB protein-protein_JJ relationships_NNS from_IN rich-annotated_JJ corpus_NN in_IN biomedical_JJ domain_NN ._.
+=_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ a_DT general_JJ framework_NN for_IN syntax-based_JJ relation_NN mining_NN and_CC achieves_VBZ high_JJ accuracy_NN by_IN experimenting_VBG with_IN Support_NN Vector_NNP Machine_NNP as_IN a_DT supervised_JJ approach_NN ._.
+-LRB-_-LRB- 17_CD -RRB-_-RRB- applies_VBZ a_DT clustering-based_JJ approac_NN

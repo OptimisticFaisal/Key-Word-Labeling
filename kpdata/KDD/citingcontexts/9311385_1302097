@@ -1,0 +1,3 @@
+f_LS the_DT kernel_NN feature_NN space_NN ._.
+Kernel_NNP Target_NN Alignment_NN -LRB-_-LRB- KTA_NN -RRB-_-RRB- -LRB-_-LRB- 6_CD -RRB-_-RRB- was_VBD employed_VBN as_IN the_DT learning_NN criterion_NN ,_, resulting_VBG in_IN a_DT complex_JJ nonlinear_JJ optimization_NN problem_NN ,_, for_IN which_WDT the_DT conjugate_NN gradient_NN algorithm_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: was_VBD applied_VBN to_TO compute_VB a_DT locally_RB optimal_JJ solution_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP to_TO construct_VB a_DT subspace_NN kernel_NN using_VBG the_DT Hilbert-Schmidt_JJ Independence_NN Criterion_NN -LRB-_-LRB- HSIC_NN -RRB-_-RRB- recently_RB proposed_VBN for_IN measuring_VBG the_DT

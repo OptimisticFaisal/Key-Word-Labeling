@@ -1,0 +1,4 @@
+edge_NN and_CC Data_NNP Management_NNP Systems_NNP -LRB-_-LRB- KDDMS_NNP -RRB-_-RRB- as_IN second_JJ generation_NN data_NNS mining_NN tools_NNS was_VBD expressed_VBN ._.
+The_DT ideas_NNS of_IN application_NN programming_NN interfaces_NNS and_CC data_NNS mining_NN query_NN optimizers_NNS were_VBD also_RB mentioned_VBN ._.
+In_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: the_DT authors_NNS postulated_VBN to_TO create_VB a_DT knowledge_NN cache_NN that_WDT would_MD keep_VB recently_RB discovered_VBN frequent_JJ itemsets_NNS along_IN with_IN their_PRP$ support_NN value_NN ,_, in_IN order_NN to_TO facilitate_VB interactive_JJ and_CC iterative_JJ mining_NN ._.
+Besid_NN

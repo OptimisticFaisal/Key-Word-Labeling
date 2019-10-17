@@ -1,0 +1,6 @@
+models_NNS while_IN introducing_VBG useful_JJ extensions_NNS ._.
+These_DT extensions_NNS include_VBP a_DT factor_NN model_NN that_WDT allows_VBZ explaining_VBG the_DT reasoning_NN behind_IN recommendations_NNS ._.
+Such_JJ explainability_NN is_VBZ important_JJ for_IN practical_JJ systems_NNS =_JJ -_: =[_NN 11_CD ,_, 23_CD -RRB-_-RRB- -_: =_JJ -_: and_CC known_VBN to_TO be_VB problematic_JJ with_IN latent_JJ factor_NN models_NNS ._.
+The_DT methods_NNS introduced_VBN in_IN Sec_NNP ._.
+3-4_CD are_VBP linked_VBN together_RB in_IN Sec_NNP ._.
+5_CD ,_, through_IN a_DT model_NN that_WDT integrates_VBZ neighborhood_NN and_CC factor_NN models_NNS within_IN a_DT single_JJ

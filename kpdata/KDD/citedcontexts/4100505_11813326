@@ -1,0 +1,4 @@
+h_NN by_IN Banerjee_NNP et_FW al._FW is_VBZ derived_VBN from_IN the_DT Bregman_NNP divergence_NN and_CC it_PRP uses_VBZ an_DT optimization_NN framework_NN ._.
+In_IN comparison_NN ,_, our_PRP$ new_JJ model_NN has_VBZ an_DT underlying_JJ probabilistic_JJ interpretation_NN ._.
+In_IN addition_NN ,_, Chi_NNP et_FW al._FW =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBN to_TO incorporate_VB certain_JJ regularization_NN ,_, such_JJ as_IN the_DT connectivity_NN of_IN subgraphs_NNS and_CC the_DT smoothness_NN of_IN temporal_JJ trends_NNS ,_, in_IN the_DT factorization_NN process_NN ._.
+Lin_NNP et_FW al._FW -LRB-_-LRB- 19_CD -RRB-_-RRB- proposed_VBD a_DT FacetNet_NNP framewor_NN

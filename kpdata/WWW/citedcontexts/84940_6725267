@@ -1,0 +1,5 @@
+s_NNS been_VBN proposed_VBN in_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+All_PDT the_DT above_JJ techniques_NNS deal_VBP with_IN graphs_NNS represented_VBN as_IN list_NN of_IN edges_NNS ._.
+A_DT different_JJ approach_NN is_VBZ to_TO compress_VB the_DT graph_NN so_IN it_PRP can_MD fit_VB into_IN main_JJ memory_NN where_WRB it_PRP can_MD be_VB processed_VBN =_JJ -_: =[_NN 1_CD ,_, 5_CD ,_, 28_CD ,_, 6_CD ,_, 7_CD ,_, 27_CD ,_, 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Among_IN these_DT ones_NNS we_PRP cite_VBP the_DT results_NNS achieved_VBN in_IN the_DT work_NN of_IN Boldi_NNP and_CC Vigna_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Here_RB the_DT authors_NNS ,_, exploiting_VBG some_DT observed_VBN properties_NNS of_IN web_NN addresses_NNS such_JJ as_IN locality_NN ,_, similarity_NN and_CC consecutivit_NN

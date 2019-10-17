@@ -1,0 +1,5 @@
+clustering_NN ._.
+The_DT remainder_NN of_IN this_DT section_NN gives_VBZ a_DT brief_JJ introduction_NN to_TO some_DT of_IN them_PRP ._.
+2.1_CD Mixtures_NNS of_IN Markov_NNP Chains_NNP Finite_NNP mixtures_NNS of_IN Markov_NNP chains_NNS have_VBP been_VBN proposed_VBN for_IN clustering_NN sequential_JJ data_NN =_JJ -_: =[_NN 13_CD ,_, 14_CD ,_, 62_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, the_DT authors_NNS in_IN -LRB-_-LRB- 13_CD -RRB-_-RRB- cluster_NN user_NN behaviors_NNS according_VBG to_TO navigation_NN patterns_NNS on_IN a_DT web_NN site_NN using_VBG a_DT mixture_NN of_IN first-order_JJ Markov_NNP models_NNS ,_, each_DT of_IN which_WDT represents_VBZ a_DT user_NN cluster_NN ._.
+The_DT expe_NN

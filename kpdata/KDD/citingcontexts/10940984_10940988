@@ -1,0 +1,4 @@
+network_NN ,_, the_DT DBLP_NN Computer_NN Science_NN Bibliography_NN Database_NN maintained_VBN by_IN Michael_NNP Ley_NNP ._.
+The_DT other_JJ two_CD datasets_NNS are_VBP published_VBN network_NN data_NNS by_IN Jure_NNP Leskovec_NNP ._.
+One_CD is_VBZ a_DT Who-trustwhom_JJ network_NN of_IN Epinions.com_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB nodes_NNS are_VBP members_NNS of_IN the_DT site_NN and_CC a_DT directed_JJ edge_NN from_IN u_NN to_TO v_LS means_VBZ v_LS trust_NN u_NN -LRB-_-LRB- and_CC thus_RB u_NN has_VBZ influence_NN to_TO v_LS -RRB-_-RRB- ._.
+Another_DT is_VBZ the_DT Amazon_NNP product_NN co-purchasing_NN network_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- dated_VBN on_IN March_NNP 2_CD ,_, 2003_CD ,_,

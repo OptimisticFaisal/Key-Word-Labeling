@@ -1,0 +1,5 @@
+d_NN on_IN the_DT above_JJ conformance_NN ._.
+The_DT system_NN then_RB uses_VBZ the_DT channel_NN theory_NN to_TO infer_VB the_DT mappings_NNS between_IN different_JJ local_JJ ontologies_NNS using_VBG these_DT logic_NN infomorphisms_NNS ._.
+2_CD http:\/\/www.w3.org\/TR\/owl-features\/sGLUE_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ an_DT example_NN of_IN a_DT system_NN that_WDT employs_VBZ machinelearning_VBG techniques_NNS to_TO find_VB mappings_NNS ._.
+GLUE_NN uses_VBZ multiple_JJ learners_NNS exploiting_VBG information_NN in_IN concept_NN instances_NNS and_CC taxonomic_JJ structure_NN of_IN ontologies_NNS ._.
+GLUE_NN

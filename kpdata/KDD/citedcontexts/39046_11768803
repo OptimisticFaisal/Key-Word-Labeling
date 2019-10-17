@@ -1,0 +1,4 @@
+how_WRB much_JJ the_DT answers_NNS of_IN the_DT query_NN have_VBP attracted_VBN the_DT attention_NN of_IN past_JJ users_NNS -RRB-_-RRB- are_VBP suggested_VBN ._.
+The_DT solution_NN is_VBZ evaluated_VBN by_IN using_VBG a_DT query_NN log_NN containing_VBG only_RB 6,042_CD unique_JJ queries_NNS ._.
+Beeferman_NNP and_CC Berger_NNP =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: apply_VB a_DT hierarchical_JJ agglomerative_JJ clustering_NN technique_NN to_TO click-through_JJ data_NNS to_TO find_VB clusters_NNS of_IN similar_JJ queries_NNS and_CC similar_JJ URLs_NNS in_IN a_DT Lycos_NNP log_NN ._.
+A_DT bipartite_JJ graph_NN is_VBZ created_VBN from_IN queries_NNS and_CC relate_VB

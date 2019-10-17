@@ -1,0 +1,4 @@
+g_NN pair_NN on_IN at_IN least_JJS one_CD similarity_NN function_NN ._.
+We_PRP empirically_RB observed_VBD that_IN this_DT property_NN is_VBZ satisfied_VBN in_IN most_JJS record_NN matching_NN scenarios_NNS ._.
+Let_VB us_PRP consider_VB all_DT real_JJ example_NN sets_NNS from_IN the_DT RIDDLE_NN repository_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: and_CC proprietary_JJ data_NNS that_IN we_PRP used_VBD to_TO evaluate_VB our_PRP$ techniques_NNS in_IN Section_NN 7_CD ._.
+Even_RB with_IN small_JJ d_NN values_NNS ,_, more_JJR than_IN 99_CD %_NN of_IN the_DT matching_JJ record_NN pairs_NNS can_MD be_VB covered_VBN by_IN an_DT operator_NN tree_NN in_IN the_DT SJU_NNP class_NN if_IN

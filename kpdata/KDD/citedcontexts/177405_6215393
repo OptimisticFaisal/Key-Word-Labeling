@@ -1,0 +1,4 @@
+ing_NN data_NNS required_VBN and_CC yet_RB maximize_VB its_PRP$ impact_NN ._.
+Several_JJ works_NNS addressed_VBD this_DT problem_NN by_IN developing_VBG techniques_NNS to_TO learn_VB from_IN both_CC a_DT small_JJ set_NN of_IN labeled_JJ documents_NNS and_CC a_DT large_JJ set_NN of_IN unlabeled_JJ documents_NNS =_JJ -_: =[_NN 82_CD ,_, 100_CD ,_, 81_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN Section_NN 3_CD we_PRP describe_VBP the_DT PEBL_NN project_NN which_WDT develops_VBZ such_PDT a_DT technique_NN ._.
+Building_NN Directories_NNS of_IN Data_NN Sources_NNS :_: Besides_IN HTML_NNP pages_NNS ,_, the_DT Web_NN also_RB contains_VBZ a_DT huge_JJ number_NN of_IN data_NNS sources_NNS ,_, such_JJ as_IN amaz_NN

@@ -1,0 +1,5 @@
+s_NN like_IN and_CC ,_, or_CC ,_, xor_FW etc._FW are_VBP needed_VBN ._.
+These_DT operations_NNS may_MD be_VB sufficient_JJ for_IN some_DT inductive_JJ methods_NNS but_CC not_RB for_IN others_NNS ._.
+For_IN example_NN ,_, this_DT model_NN can_MD be_VB successfully_RB used_VBN in_IN the_DT collaborative_JJ filtering_VBG -LRB-_-LRB- =_JJ -_: =_JJ Aggarwal_NNP ,_, 2002_CD -_: =-]_CD ._.
+Preference_NN relations_NNS Preference_NN relations_NNS are_VBP the_DT oldest_JJS model_NN of_IN user_NN preferences_NNS models_NNS ,_, its_PRP$ description_NN may_MD be_VB found_VBN e.g._FW in_FW -LRB-_-LRB- Öztürké_NNP et_FW al._FW ,_, 2006_CD -RRB-_-RRB- ._.
+Basic_JJ idea_NN behind_IN preference_NN relations_NNS is_VBZ to_TO

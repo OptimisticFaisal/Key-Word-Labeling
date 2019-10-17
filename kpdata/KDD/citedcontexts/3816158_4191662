@@ -1,0 +1,4 @@
+and_CC O_NN -LRB-_-LRB- log_NN -LRB-_-LRB- 1_CD \/_: ɛ_NN -RRB-_-RRB- -RRB-_-RRB- convergence_NN ,_, whenever_WRB the_DT loss_NN is_VBZ sufficiently_RB smooth_JJ ._.
+An_DT important_JJ feature_NN of_IN our_PRP$ algorithm_NN is_VBZ that_IN it_PRP automatically_RB takes_VBZ advantage_NN of_IN smoothness_NN in_IN the_DT problem_NN ._.
+Our_PRP$ work_NN builds_VBZ on_IN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT describes_VBZ the_DT basic_JJ extension_NN of_IN SVMPerf_NN to_TO general_JJ convex_NN problems_NNS ._.
+The_DT current_JJ paper_NN provides_VBZ a_DT -RRB-_-RRB- significantly_RB improved_VBD performance_NN bounds_NNS which_WDT match_VBP better_RBR what_WP can_MD be_VB observed_VBN in_IN practice_NN

@@ -1,0 +1,4 @@
+te_NN method_NN can_MD be_VB applied_VBN here_RB ._.
+In_IN our_PRP$ current_JJ implementation_NN ,_, we_PRP adopt_VBP a_DT simple_JJ but_CC sufficiently_RB effective_JJ method_NN for_IN copy_NN detection_NN -LRB-_-LRB- which_WDT we_PRP first_RB applied_VBD to_TO detected_VBN repeated_JJ views_NNS of_IN landmarks_NNS in_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =--RRB-_NN and_CC focus_VB on_IN the_DT evaluation_NN of_IN the_DT novel_JJ concepts_NNS of_IN IIAS_NNP and_CC VMM_NNP ._.
+We_PRP begin_VBP by_IN extracting_VBG scale_NN invariant_JJ feature_NN transform_VB -LRB-_-LRB- SIFT_NN -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- descriptors_NNS for_IN each_DT image_NN ._.
+These_DT features_NNS capture_VBP local_JJ geomet_NN

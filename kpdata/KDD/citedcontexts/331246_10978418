@@ -1,0 +1,4 @@
+ning_VB it_PRP through_IN solving_VBG an_DT auxiliary_JJ problem_NN ._.
+Other_JJ nearest_IN neighbor_NN techniques_NNS for_IN image_NN annotation_NN include_VBP methods_NNS based_VBN on_IN label_NN diffusion_NN over_IN a_DT similarity_NN graph_NN of_IN labeled_JJ and_CC unlabelled_JJ images_NNS =_JJ -_: =[_NN 16_CD ,_, 22_CD -RRB-_-RRB- -_: =_JJ -_: ,_, or_CC learning_VBG discriminative_JJ models_NNS in_IN neighborhoods_NNS of_IN test_NN images_NNS -LRB-_-LRB- 25_CD -RRB-_-RRB- ._.
+Other_JJ related_JJ work_NN includes_VBZ a_DT variety_NN of_IN generative_JJ models_NNS ._.
+To_TO annotate_VB a_DT new_JJ image_NN these_DT models_NNS compute_VBP the_DT conditional_JJ prob_NN

@@ -1,0 +1,3 @@
+iltering_NN has_VBZ typically_RB been_VBN viewed_VBN as_IN training_VBG a_DT model_NN that_WDT fits_VBZ better_RBR individual_JJ user_NN 's_POS mail_NN distribution_NN ,_, instead_RB of_IN adjusting_VBG the_DT filter_NN to_TO learn_VB user_NN preference_NN ._.
+For_IN example_NN ,_, Bickel_NNP and_CC Scheffer_NNP =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: use_VB a_DT Dirichlet_NNP process_NN model_NN to_TO re-sample_VB the_DT training_NN data_NNS for_IN each_DT user_NN and_CC to_TO make_VB the_DT distribution_NN of_IN this_DT new_JJ training_NN dataset_NN close_RB to_TO the_DT messages_NNS this_DT user_NN receives_VBZ ._.
+However_RB ,_, this_DT strategy_NN i_FW

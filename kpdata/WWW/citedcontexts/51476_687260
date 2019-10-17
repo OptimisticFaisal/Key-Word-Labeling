@@ -1,0 +1,3 @@
+processing_NN overhead_NN on_IN each_DT node_NN ,_, unless_IN a_DT hop-count_JJ limit_NN is_VBZ set_VBN for_IN queries_NNS --_: but_CC then_RB the_DT queries_NNS can_MD not_RB guarantee_VB to_TO find_VB results_NNS ,_, even_RB if_IN these_DT results_NNS exist_VBP in_IN the_DT network_NN ._.
+An_DT Edutella_NNP successor_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_JJ -_: provides_VBZ better_JJR scalability_NN by_IN introducing_VBG super-peers_NNS and_CC schema-based_JJ routing_VBG ;_: however_RB ,_, it_PRP requires_VBZ up-front_JJ definition_NN of_IN schemas_NNS and_CC designation_NN of_IN super_JJ peers_NNS ._.
+This_DT paper_NN presents_VBZ a_DT scalable_JJ P2P_NN

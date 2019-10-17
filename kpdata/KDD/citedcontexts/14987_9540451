@@ -1,0 +1,5 @@
+be_VB adaptive_JJ to_TO the_DT changes_NNS ._.
+Some_DT previous_JJ approaches_NNS adjust_VBP an_DT existing_VBG decision_NN tree_NN when_WRB the_DT distribution_NN of_IN the_DT stream_NN changes_NNS by_IN replacing_VBG the_DT affected_VBN leaf_NN nodes_NNS by_IN subtrees_NNS to_TO maintain_VB accuracy_NN =_JJ -_: =[_NN 10_CD ,_, 13_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, this_DT type_NN of_IN approach_NN may_MD lead_VB to_TO serious_JJ inefficiency_NN in_IN clustering_NN ._.
+Consider_VB a_DT simple_JJ scenario_NN ._.
+One_CD import_NN company_NN in_IN US_NNP uses_VBZ a_DT data_NN stream_NN management_NN system_NN to_TO monitor_VB all_DT its_PRP$ transactio_NN

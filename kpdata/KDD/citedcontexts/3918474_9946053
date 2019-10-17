@@ -1,0 +1,5 @@
+imately_RB 50_CD %_NN false_JJ positive_JJ rate_NN using_VBG a_DT modified_VBN AdaBoost_NNP algorithm_NN ._.
+Stages_NNS are_VBP added_VBN to_TO the_DT cascade_NN until_IN the_DT number_NN of_IN false_JJ positives_NNS is_VBZ reduced_VBN below_IN a_DT small_JJ number_NN on_IN a_DT validation_NN set_NN ._.
+Bi_FW et_FW al._FW =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP using_VBG 1-norm_JJ SVM_NN as_IN the_DT stage_NN classifiers_NNS in_IN the_DT cascade_NN ._.
+Like_IN Viola_NNP and_CC Jones_NNP ,_, their_PRP$ approach_NN trains_VBZ the_DT stage_NN classifiers_NNS sequentially_RB from_IN the_DT first_JJ stage_NN to_TO the_DT last_JJ stage_NN ._.
+In_IN every_DT stage_NN

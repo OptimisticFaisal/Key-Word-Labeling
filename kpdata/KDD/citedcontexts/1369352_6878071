@@ -1,0 +1,4 @@
+on_IN levels_NNS ._.
+As_IN this_DT data_NNS will_MD be_VB used_VBN as_IN the_DT input_NN parameter_NN of_IN a_DT RNN_NNP ,_, it_PRP makes_VBZ a_DT dimensional_JJ and_CC noise_NN reduction_NN necessary_JJ ,_, in_IN order_NN to_TO obtain_VB useful_JJ results_NNS in_IN the_DT process_NN of_IN Markov_NNP Chain_NNP extraction_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+To_TO guarantee_VB good_JJ results_NNS a_DT lot_NN of_IN tecniques_NNS have_VBP been_VBN used_VBN with_IN success_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Among_IN them_PRP ,_, there_EX are_VBP Hierarchical_JJ Clustering_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, Nearest_NNP Neighbours_NNP -LRB-_-LRB- 13_CD -RRB-_-RRB- and_CC Self-organizing_JJ Maps_NNS -LRB-_-LRB- SOM_NN -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, w_NN

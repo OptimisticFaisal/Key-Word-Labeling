@@ -1,0 +1,5 @@
+hich_NNS have_VBP arrived_VBN in_IN the_DT time_NN interval_NN -LRB-_-LRB- bj_NN ,_, bj_IN +1_CD -RRB-_-RRB- ._.
+This_DT can_MD again_RB be_VB estimated_VBN from_IN the_DT summary_NN statistics_NNS stored_VBN in_IN the_DT snapshots_NNS at_IN b1_NN ..._: bp_NN ._.
+The_DT corresponding_JJ value_NN is_VBZ equal_JJ to_TO -LRB-_-LRB- Fsk_NN -LRB-_-LRB- DSi_NN -LRB-_-LRB- bj_NN +1_CD -RRB-_-RRB- -RRB-_-RRB- −_NN =_JJ -_: =-LRB-_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: sFsk_NN -LRB-_-LRB- DSi_NN -LRB-_-LRB- bj_NN -RRB-_-RRB- -RRB-_-RRB- -RRB-_-RRB- \/_: -LRB-_-LRB- n_NN -LRB-_-LRB- DSi_NNS -LRB-_-LRB- bj_FW +1_FW -RRB-_-RRB- -RRB-_-RRB- −_CD n_NN -LRB-_-LRB- DSi_NN -LRB-_-LRB- bj_NN -RRB-_-RRB- -RRB-_-RRB- -RRB-_-RRB- ._.
+We_PRP denote_VBP this_DT value_NN by_IN µk_NN -LRB-_-LRB- i_FW ,_, bj_NN -RRB-_-RRB- ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- For_IN each_DT local_JJ stream_NN DSi_NNS -LRB-_-LRB- t_NN -RRB-_-RRB- ,_, j_FW ∈_FW -LCB-_-LRB- 1_CD ..._: p_NN −_NN 1_CD -RCB-_-RRB- ,_, and_CC dimension_NN k_NN ∈_CD -LCB-_-LRB- 1_CD ..._: d_NN -RCB-_-RRB- ,_, we_PRP determine_VBP the_DT variance_NN of_IN the_DT data_NNS

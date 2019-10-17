@@ -1,0 +1,4 @@
+ss_NN to_TO formulate_VB rules_NNS during_IN the_DT learning_NN -LRB-_-LRB- training_NN -RRB-_-RRB- process_NN and\/or_CC provide_VB confidence_NN values_NNS for_IN their_PRP$ predictions_NNS during_IN the_DT prediction_NN -LRB-_-LRB- test_NN -RRB-_-RRB- process_NN ._.
+Ensemble_NN methods_NNS ,_, including_VBG Weighted_NNP Majority_NNP =_SYM -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Boosting_VBG -LRB-_-LRB- 27_CD ,_, 11_CD -RRB-_-RRB- ,_, usually_RB use_VBP belief_NN to_TO combine_VB predictions_NNS from_IN multiple_JJ learned_VBN models_NNS ._.
+Pruning_NN is_VBZ an_DT approach_NN to_TO reduce_VB overfitting_VBG the_DT training_NN data_NNS ._.
+After_IN learning_VBG a_DT decision_NN tree_NN and_CC conve_NN

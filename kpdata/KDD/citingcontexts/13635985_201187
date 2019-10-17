@@ -1,0 +1,4 @@
+size_NN of_IN the_DT optimization_NN problem_NN does_VBZ not_RB increase_VB with_IN the_DT number_NN of_IN data_NNS points_NNS ._.
+Estimation_NN of_IN the_DT moments_NNS of_IN the_DT component_NN distributions_NNS is_VBZ done_VBN using_VBG an_DT efficient_JJ clustering_NN scheme_NN ,_, such_JJ as_IN BIRCH_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+BIRCH_NNP ,_, in_IN a_DT single_JJ pass_NN over_IN the_DT data_NNS constructs_NNS a_DT CF-tree_NN -LRB-_-LRB- Cluster_NN Feature_NN tree_NN -RRB-_-RRB- ,_, given_VBN a_DT limited_JJ amount_NN of_IN resources_NNS ._.
+CF-tree_NN consists_VBZ of_IN the_DT sufficient_JJ statistics_NNS for_IN the_DT hierarchy_NN of_IN clusters_NNS in_IN

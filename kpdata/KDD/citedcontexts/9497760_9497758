@@ -1,0 +1,5 @@
+ckage_FW p2_FW does_VBZ not_RB dominate_VB p1_NN because_IN p1_NN has_VBZ less_JJR stops_NNS ._.
+In_IN a_DT table_NN ,_, a_DT tuple_NN that_WDT is_VBZ not_RB dominated_VBN by_IN any_DT other_JJ tuple_NN is_VBZ said_VBN to_TO be_VB a_DT skyline_FW tuple_FW or_CC it_PRP is_VBZ in_IN the_DT skyline_NN ._.
+Recently_RB ,_, skyline_NN analysis_NN =_JJ -_: =[_NN 17_CD ,_, 12_CD ,_, 20_CD ,_, 10_CD ,_, 15_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ received_VBN a_DT lot_NN of_IN interest_NN in_IN the_DT literature_NN ._.
+In_IN Example_NNP 1_CD ,_, package_NN p_NN is_VBZ in_IN the_DT skyline_NN if_IN it_PRP is_VBZ not_RB dominated_VBN by_IN any_DT other_JJ packages_NNS ._.
+The_DT packages_NNS in_IN the_DT skyline_NN are_VBP the_DT best_JJS possible_JJ tradeoffs_NNS a_DT

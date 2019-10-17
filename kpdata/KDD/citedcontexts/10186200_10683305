@@ -1,0 +1,4 @@
+ding_IN the_DT shortest_JJS sequence_NN of_IN friends_NNS that_WDT connects_VBZ one_CD to_TO a_DT celebrity_NN ._.
+In_IN the_DT web_NN graph_NN ,_, a_DT short_JJ sequence_NN of_IN links_NNS between_IN two_CD URLs_NNS may_MD indicate_VB a_DT certain_JJ degree_NN of_IN relatedness_NN between_IN the_DT two_CD pages_NNS =_JJ -_: =[_NN 13_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, given_VBN the_DT large_JJ size_NN of_IN these_DT graphs_NNS ,_, shortest-path_JJ computation_NN is_VBZ challenging_JJ ._.
+Running_VBG Dijkstra_NNP 's_POS well_RB known_VBN shortest-path_JJ algorithm_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- on_IN a_DT web_NN graph_NN containing_VBG tens_NNS of_IN billions_NNS of_IN nodes_NNS

@@ -1,0 +1,4 @@
+episodes_NNS ,_, a_DT transaction_NN corresponds_VBZ to_TO a_DT sequence_NN of_IN events_NNS in_IN a_DT sliding_VBG time_NN window_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+2_CD There_EX are_VBP algorithms_NNS that_WDT do_VBP not_RB rely_VB on_IN candidate_NN generation_NN -LRB-_-LRB- e.g._FW ,_, FP-growth_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, CHARM_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- and_CC GenMax_NN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+2sments_FW ¦_FW ,_, the_DT OSSM_NNP provides_VBZ for_IN any_DT set_VBN ¡_NN of_IN items_NNS an_DT upper_JJ bound_VBN for_IN the_DT support_NN of_IN ¡_NNP ,_, In_NNP Section_NNP 4_CD ,_, we_PRP consider_VBP the_DT segment_NN minimization_NN problem_NN ._.
+Given_VBN an_DT OSSMs_FW ofsdenoted_FW ¡_FW

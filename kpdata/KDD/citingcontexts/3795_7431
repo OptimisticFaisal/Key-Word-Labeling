@@ -1,0 +1,4 @@
+ical_JJ Evaluation_NN We_PRP study_VBD the_DT effectiveness_NN of_IN the_DT algorithm_NN for_IN pruning_NN and_CC finding_VBG DS_NN rules_NNS ._.
+We_PRP used_VBD 30_CD data_NNS sets_NNS in_IN our_PRP$ experiments_NNS ._.
+25_CD of_IN them_PRP are_VBP obtained_VBN from_IN the_DT UCI_NNP Machine_NNP Learning_NNP Repository_NNP =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC 5_CD are_VBP our_PRP$ real-life_JJ application_NN data_NNS sets_NNS ._.
+All_DT these_DT data_NNS sets_NNS contain_VBP huge_JJ numbers_NNS of_IN associations_NNS ,_, which_WDT present_VBP a_DT major_JJ problem_NN for_IN using_VBG association_NN rule_NN mining_NN to_TO give_VB a_DT complete_JJ picture_NN of_IN

@@ -1,0 +1,3 @@
+at_IN this_DT list_NN ,_, we_PRP need_VBP to_TO process_VB the_DT patterns_NNS outputted_VBN by_IN the_DT data-mining_JJ algorithm_NN according_VBG to_TO their_PRP$ interestingness_NN ._.
+Formalizing_VBG what_WP qualities_NNS measure_VBP a_DT user_NN 's_POS interests_NNS is_VBZ a_DT difficult_JJ problem_NN ._.
+=_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: differentiate_VBP between_IN objective_JJ measures_NNS of_IN interestingness_NN that_WDT depend_VBP only_RB on_IN the_DT structure_NN of_IN the_DT data_NNS and_CC the_DT patterns_NNS extracted_VBN from_IN it_PRP ,_, and_CC subjective_JJ measures_NNS of_IN interestingness_NN that_WDT also_RB depe_VBP

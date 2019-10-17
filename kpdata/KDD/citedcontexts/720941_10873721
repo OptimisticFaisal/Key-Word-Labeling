@@ -1,0 +1,4 @@
+lways_NNS -LRB-_-LRB- Chakrabarti_NNP et_FW al._FW 1998_CD -RRB-_-RRB- ._.
+Alternatively_RB ,_, even_RB greater_JJR -LRB-_-LRB- and_CC usually_RB more_RBR reliable_JJ -RRB-_-RRB- increases_NNS can_MD occur_VB when_WRB the_DT class_NN labels_NNS of_IN the_DT linked_VBN pages_NNS are_VBP used_VBN to_TO derive_VB relevant_JJ relational_JJ features_NNS -LRB-_-LRB- =_JJ -_: =_JJ Jensen_NNP et_FW al._FW 2004_CD -_: =--RRB-_NN ._.
+However_RB ,_, using_VBG features_NNS based_VBN on_IN these_DT labels_NNS is_VBZ challenging_JJ because_IN some_DT or_CC all_DT of_IN these_DT labels_NNS are_VBP initially_RB unknown_JJ ._.
+Thus_RB ,_, their_PRP$ labels_NNS must_MD first_RB be_VB predicted_VBN -LRB-_-LRB- without_IN using_VBG relational_JJ features_NNS

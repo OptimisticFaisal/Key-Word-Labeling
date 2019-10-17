@@ -1,0 +1,6 @@
+t_NN presents_VBZ different_JJ set_NN of_IN problems_NNS ._.
+HTML_NNP tables_NNS are_VBP often_RB used_VBN for_IN formatting_VBG documents_NNS instead_RB of_IN presenting_JJ data_NNS ._.
+The_DT table_NN extraction_NN from_IN web_NN pages_NNS was_VBD performed_VBN mostly_RB based_VBN on_IN the_DT heuristics_NNS ._.
+=_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ an_DT approach_NN called_VBN visual_JJ box_NN modeling_NN for_IN the_DT extraction_NN of_IN tables_NNS from_IN the_DT web_NN ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- proposes_VBZ a_DT method_NN by_IN which_WDT the_DT extraction_NN can_MD be_VB done_VBN with_IN CRFs_NNS ._.
+we_PRP discuss_VBP both_DT of_IN these_DT in_IN this_DT section_NN

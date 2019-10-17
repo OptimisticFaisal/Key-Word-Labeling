@@ -1,0 +1,3 @@
+c_NN caching_NN ,_, peer-to-peer_NN ,_, materialized_VBD views_NNS ,_, query_NN rewriting_VBG 1_CD Introduction_NN P2P_NN computing_NN provides_VBZ a_DT very_RB efficient_JJ way_NN of_IN storing_VBG and_CC accessing_VBG distributed_VBN resources_NNS ._.
+Our_PRP$ goal_NN in_IN the_DT Edutella_NNP project_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ designing_VBG and_CC implementing_VBG a_DT scalable_JJ schema-based_JJ P2P_NN infrastructure_NN for_IN the_DT Semantic_JJ Web_NN ._.
+Edutella_NNP relies_VBZ on_IN the_DT W3C_NN metadata_NN standards_NNS RDF_NN and_CC RDF_NN Schema_NN -LRB-_-LRB- RDFS_NN -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC uses_VBZ basic_JJ P2P_NN primitive_JJ

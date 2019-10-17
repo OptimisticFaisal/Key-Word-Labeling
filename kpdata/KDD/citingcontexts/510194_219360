@@ -1,0 +1,4 @@
+e_LS measures_NNS was_VBD significant_JJ ,_, we_PRP ran_VBD multiple_JJ models_NNS with_IN different_JJ training_NN and_CC verification_NN sets_NNS ._.
+We_PRP calculated_VBD from_IN formulas_NNS that_IN the_DT top_JJ 5_CD %_NN lift_NN had_VBD a_DT standard_JJ deviation_NN of_IN 0.11_CD and_CC the_DT ROC_NN metrics_NNS =_JJ -_: =[_NN 20_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: had_VBD a_DT standard_JJ deviation_NN of_IN 0.0037_CD ._.
+Second_JJ ,_, these_DT results_NNS were_VBD obtained_VBN using_VBG a_DT boosted_VBN naYve_NN bayesian_JJ classifier_NN ;_: a_DT classification_NN tree_NN induction_NN technique_NN produced_VBD analogous_JJ results_NNS ._.
+8_CD Related_JJ Work_NN

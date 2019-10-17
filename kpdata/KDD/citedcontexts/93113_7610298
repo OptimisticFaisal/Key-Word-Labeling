@@ -1,0 +1,5 @@
+shows_VBZ an_DT employee_NN database_NN having_VBG ten_CD transactions_NNS ._.
+I_NN =_JJ -LCB-_-LRB- age_NN ,_, gender_NN ,_, salary_NN ,_, education_NN ,_, service_NN years_NNS -RCB-_-RRB- ,_, among_IN which_WDT age_NN ,_, salary_NN and_CC service_NN years_NNS are_VBP quantitative_JJ attributes_NNS ._.
+An_DT 7sexample_JJ item_NN is_VBZ age_NN =_JJ -_: =[_NN 25,30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+And_CC age_NN -LRB-_-LRB- 25,30_CD -RRB-_-RRB- gender_NN -LRB-_-LRB- M_NN ,_, M_NN -RRB-_-RRB- is_VBZ a_DT 2-itemset_NN with_IN frequency_NN 3_CD and_CC with_IN support_NN 3\/10_CD =_JJ 0.3_CD ._.
+Given_VBN σ_NN =_JJ 0.3_CD and_CC c_NN =_JJ 0.6_CD ,_, age_NN -LRB-_-LRB- 25,30_CD -RRB-_-RRB- ⇒_CD gender_NN -LRB-_-LRB- M_NN ,_, M_NN -RRB-_-RRB- is_VBZ a_DT QAR_NN since_IN supp_NN -LRB-_-LRB- age_NN -LRB-_-LRB- 25,30_CD -RRB-_-RRB- gender_NN -LRB-_-LRB- M_NN ,_, M_NN -RRB-_-RRB- -RRB-_-RRB- =_JJ 0.3_CD ≥_CD σ_NN and_CC co_NN

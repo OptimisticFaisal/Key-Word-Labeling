@@ -1,0 +1,4 @@
+aphs_NNS to_TO be_VB isomorphic_JJ ._.
+It_PRP removes_VBZ edges_NNS from_IN graphs_NNS that_WDT contradict_VBP this_DT assertion_NN until_IN it_PRP converges_VBZ to_TO maximal_JJ frequent_JJ subgraphs_NNS ._.
+Closely_RB related_JJ is_VBZ the_DT work_NN on_IN the_DT frequent_JJ subtree_JJ mining_NN problem_NN =_JJ -_: =[_NN 6_CD ,_, 5_CD ,_, 7_CD ,_, 34_CD -RRB-_-RRB- -_: =_JJ -_: ,_, frequent_JJ graphs_NNS with_IN geometric_JJ constraints_NNS -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, discovering_VBG typical_JJ patterns_NNS of_IN graph_NN data_NNS -LRB-_-LRB- 27_CD -RRB-_-RRB- and_CC graph_NN indexing_NN -LRB-_-LRB- 31_CD ,_, 18_CD -RRB-_-RRB- ._.
+The_DT frequent_JJ subtree_JJ mining_NN problem_NN addresses_VBZ the_DT subtree_JJ isomorphism_NN pr_NN

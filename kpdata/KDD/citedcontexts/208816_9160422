@@ -1,0 +1,6 @@
+in_IN occurrences_NNS of_IN events_NNS in_IN time_NN series_NN as_IN discussed_VBN in_IN -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- d_LS -RRB-_-RRB- Hypothesis_NN Generation_NN as_IN discussed_VBN in_IN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+There_EX has_VBZ been_VBN a_DT lot_NN of_IN work_NN on_IN efficiently_RB detecting_VBG a_DT particular_JJ shape_NN in_IN a_DT time_NN series_NN =_JJ -_: =[_NN 1_CD ,_, 3_CD ,_, 7_CD ,_, 12_CD ,_, 13_CD ,_, 16_CD ,_, 17_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT is_VBZ similar_JJ to_TO querying_VBG the_DT database_NN for_IN a_DT particular_JJ shape_NN ._.
+Our_PRP$ problem_NN ,_, however_RB ,_, is_VBZ finding_VBG matches_NNS for_IN a_DT given_VBN set_NN of_IN shapes_NNS in_IN any_DT given_VBN time_NN series_NN ._.
+This_DT problem_NN can_MD be_VB seen_VBN as_IN a_DT simple_JJ ext_NN

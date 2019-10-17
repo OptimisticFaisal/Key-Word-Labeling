@@ -1,0 +1,5 @@
+epending_VBG on_IN the_DT selected_VBN groups_NNS ._.
+Forming_VBG groups_NNS at_IN random_JJ ,_, however_RB ,_, is_VBZ inevitable_JJ in_IN order_NN to_TO avoid_VB exponential_JJ complexity_NN ._.
+The_DT distance_NN based_VBD notion_NN of_IN outliers_NNS unifies_VBZ distribution_NN based_JJ approaches_NNS =_JJ -_: =[_NN 17_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT object_NN x_NN ∈_FW Dis_FW an_DT outlier_NN if_IN at_IN least_JJS a_DT fraction_NN p_NN of_IN all_DT data_NNS objects_NNS in_IN D_NN has_VBZ a_DT distance_NN above_IN D_NN from_IN x._JJ Variants_NNS of_IN the_DT distance_NN based_JJ notion_NN of_IN outliers_NNS are_VBP -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, and_CC -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, the_DT d_NN

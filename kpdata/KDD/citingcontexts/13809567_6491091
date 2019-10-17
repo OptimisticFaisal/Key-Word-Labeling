@@ -1,0 +1,4 @@
+to_TO measure_VB how_WRB accurately_RB the_DT predictions_NNS reflect_VBP relative_JJ risk_NN of_IN stroke_NN of_IN two_CD randomly_RB selected_VBN individuals_NNS ._.
+A_DT commonly_RB used_VBN metric_JJ in_IN survival_NN models_NNS for_IN this_DT evaluation_NN is_VBZ the_DT concordance_NN index_NN =_JJ -_: =[_NN 15_CD ,_, 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT concordance_NN index_NN is_VBZ a_DT generalization_NN of_IN the_DT concept_NN of_IN AUC_NN designed_VBN to_TO handle_VB -LRB-_-LRB- i_LS -RRB-_-RRB- continuous_JJ values_NNS for_IN prediction_NN and_CC -LRB-_-LRB- ii_LS -RRB-_-RRB- censored_VBN data_NNS ._.
+Similar_JJ to_TO the_DT AUC_NN ,_, it_PRP takes_VBZ values_NNS from_IN 0.5_CD -LRB-_-LRB- complete_JJ

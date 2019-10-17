@@ -1,0 +1,4 @@
+sts_VBZ an_DT algorithm_NN running_VBG in_IN O_NN -LRB-_-LRB- min_NN -LCB-_-LRB- mn_NN 2_CD ,_, m_NN 2_CD n_NN -RCB-_-RRB- -RRB-_-RRB- time_NN such_JJ that_IN ‖_NN A_NN −_FW PCA_FW ‖_FW F_NN ≤_NN -LRB-_-LRB- 1_CD +_CC ɛ_NN -RRB-_-RRB- ‖_NN A_NN −_FW Ak_FW ‖_FW F_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- holds_VBZ with_IN probability_NN at_IN least_JJS 1_CD −_NN 10_CD −_NN 20_CD ,_, where_WRB C_NN contains_VBZ at_IN most_JJS O_NN -LRB-_-LRB- k_NN log_NN k_NN \/_: ɛ_NN 2_CD -RRB-_-RRB- columns_NNS of_IN A_NN =_JJ -_: =[_NN 14_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Prior_JJ work_NN on_IN unsupervised_JJ feature_NN selection_NN ._.
+-LRB-_-LRB- 31_CD ,_, 13_CD -RRB-_-RRB- propose_VBP heuristic_NN approaches_NNS for_IN unsupervised_JJ feature_NN selection_NN for_IN clustering_NN algorithms_NNS ._.
+Their_PRP$ goal_NN is_VBZ to_TO select_VB a_DT subset_NN of_IN features_NNS such_JJ th_DT

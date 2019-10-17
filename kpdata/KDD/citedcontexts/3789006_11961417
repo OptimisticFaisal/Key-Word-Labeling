@@ -1,0 +1,4 @@
+dels_NNS have_VBP introduced_VBN dynamics_NNS on_IN the_DT topics_NNS ,_, modeled_VBN as_IN Gaussian_JJ random_JJ walks_VBZ -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, or_CC Dirichlet_NNP processes_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+A_DT variant_NN to_TO explicit_JJ dynamics_NNS consists_VBZ in_IN modeling_NN the_DT influence_NN of_IN a_DT ''_'' time_NN ''_'' variable_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Some_DT of_IN those_DT techniques_NNS can_MD be_VB expensive_JJ :_: in_IN Dynamic_NNP Topic_NNP Models_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, there_EX is_VBZ one_CD topic-word_JJ matrix_NN per_IN time_NN step_NN ,_, used_VBN to_TO model_VB drift_NN in_IN topic_NN definition_NN ._.
+Moreover_RB ,_, inference_NN in_IN such_JJ topic_NN mode_NN

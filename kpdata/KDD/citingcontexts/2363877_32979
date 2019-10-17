@@ -1,0 +1,4 @@
+._.
+This_DT made_VBD the_DT problem_NN tractable_JJ for_IN the_DT one_CD attribute_NN case_NN ._.
+3_CD Schemes_NNS for_IN clustering_VBG quantitative_JJ association_NN rules_NNS with_IN two_CD uninstantiated_JJ numeric_JJ attributes_NNS in_IN the_DT left_JJ hand_NN side_NN are_VBP presented_VBN in_IN =_JJ -_: =_JJ -LRB-_-LRB- LSW97_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN a_DT given_VBN support_NN and_CC confidence_NN ,_, the_DT authors_NNS present_VBP a_DT clustering_NN algorithm_NN to_TO generate_VB a_DT set_NN of_IN non-overlapping_JJ rectangles_NNS ,_, such_JJ that_IN every_DT point_NN in_IN each_DT rectangle_NN has_VBZ the_DT required_VBN confidence_NN an_DT

@@ -1,0 +1,4 @@
+ects_NNS by_IN supervised_JJ methods_NNS are_VBP limited_VBN to_TO pre-defined_JJ ones_NNS ,_, and_CC can_MD not_RB identify_VB new_JJ aspects_NNS different_JJ from_IN pre-defined_JJ ones_NNS ._.
+Notice_NNP that_IN some_DT semi-sueprvised_JJ methods_NNS exist_VBP for_IN sentiment_NN analysis_NN ,_, like_IN =_JJ -_: =[_NN 59_CD ,_, 48_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+None_NN of_IN these_DT semi-supervised_JJ work_NN is_VBZ concerned_VBN with_IN new_JJ aspect_NN identification_NN ._.
+2.3.3_CD Extracting_VBG Representative_JJ Sentences_NNS for_IN Sentiment_NN Analysis_NNP Opinion_NNP mining_NN has_VBZ been_VBN extensively_RB studied_VBN in_IN recent_JJ

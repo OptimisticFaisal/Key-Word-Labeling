@@ -1,0 +1,5 @@
+ge_NN scale_NN matrix_NN factorization_NN problems_NNS :_: some_DT companies_NNS have_VBP 10_CD 8_CD customers_NNS ._.
+In_IN computational_JJ advertising_NN when_WRB treating_VBG each_DT page_NN as_IN an_DT entity_NN of_IN its_PRP$ own_JJ we_PRP are_VBP faced_VBN with_IN a_DT similar_JJ number_NN of_IN '_POS users_NNS '_POS -LRB-_-LRB- =_JJ -_: =_JJ Agarwal_NNP et_FW al._FW ,_, 2007_CD -_: =--RRB-_NN ._.
+This_DT leads_VBZ to_TO an_DT explosion_NN in_IN storage_NN requirements_NNS in_IN a_DT naive_JJ approach_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP hashing_VBG as_IN an_DT alternative_NN ._.
+Just_RB like_IN in_IN the_DT case_NN of_IN linear_JJ models_NNS -LRB-_-LRB- Weinberger_NNP et_FW al._FW ,_, 2009_CD -RRB-_-RRB- we_PRP us_PRP

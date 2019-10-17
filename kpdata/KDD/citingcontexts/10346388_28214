@@ -1,0 +1,3 @@
+problem_NN ._.
+The_DT approach_NN of_IN building_VBG a_DT spam_NN filter_NN as_IN a_DT classifier_NN trained_VBN by_IN machine_NN learning_NN algorithms_NNS -LRB-_-LRB- e.g._FW ,_, naive_JJ Bayes_NNS -RRB-_-RRB- using_VBG words_NNS or_CC tokens_NNS in_IN email_NN as_IN features_NNS ,_, has_VBZ been_VBN advocated_VBN for_IN a_DT decade_NN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Although_IN various_JJ feature_NN engineering_NN and_CC sophisticated_JJ learning_NN algorithms_NNS have_VBP been_VBN proposed_VBN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 33_CD ,_, 19_CD ,_, 14_CD -RRB-_-RRB- -RRB-_-RRB- ,_, the_DT view_NN that_IN a_DT spam_NN filter_NN is_VBZ a_DT special_JJ text_NN classifier_NN has_VBZ not_RB been_VBN changed_VBN much_RB

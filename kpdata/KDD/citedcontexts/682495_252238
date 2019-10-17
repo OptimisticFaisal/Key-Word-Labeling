@@ -1,0 +1,4 @@
+nimization_NN of_IN scans_NNS over_IN DB_NN and_CC over_IN the_DT rulebase_NN ._.
+Most_JJS contributions_NNS in_IN this_DT area_NN focus_NN on_IN association_NN rules_NNS -LRB-_-LRB- 61,17,19,18,58,23,45,13_CD -RRB-_-RRB- ._.
+The_DT incremental_JJ updating_VBG of_IN frequent_JJ sequences_NNS is_VBZ addressed_VBN in_IN =_JJ -_: =[_NN 60,48,64,41,20,16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, of_IN which_WDT -LRB-_-LRB- 41,20,16_CD -RRB-_-RRB- pay_VBP special_JJ attention_NN to_TO web_NN patterns_NNS ._.
+In_IN incremental_JJ mining_NN for_IN association_NN rules_NNS and_CC frequent_JJ sequences_NNS ,_, the_DT contents_NNS of_IN the_DT rulebase_NN upon_IN DB_NN +_CC db_NN are_VBP well-defined_JJ ,_, so_IN that_DT eff_NN

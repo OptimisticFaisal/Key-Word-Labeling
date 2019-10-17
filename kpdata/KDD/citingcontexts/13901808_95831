@@ -1,0 +1,3 @@
+T_NN -LRB-_-LRB- REpresentational_JJ State_NN Transfer_NN -RRB-_-RRB- framework_NN named_VBN Restlet_NNP which_WDT is_VBZ a_DT lightweight_JJ ,_, comprehensive_JJ and_CC fully_RB Java_NNP implemented_VBD web_NN architecture_NN model_NN designed_VBN for_IN both_CC server_NN and_CC client_NN Web_NN applications_NNS =_JJ -_: =[_NN 3,4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT implementation_NN of_IN the_DT ADSB_NNP API_NNP is_VBZ entirely_RB HTTP-based_JJ and_CC follows_VBZ CRUD_NNP -LRB-_-LRB- Create_VB ,_, Read_NNP ,_, Update_NNP and_CC Delete_NNP -RRB-_-RRB- rules_NNS by_IN specifying_VBG a_DT corresponding_JJ HTTP_NN response_NN code_NN ._.
+As_IN a_DT Restful_JJ resource_NN ,_, ADSB_NN API_NN s_NN

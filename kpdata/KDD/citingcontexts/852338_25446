@@ -1,0 +1,4 @@
+e_LS proposed_VBN method_NN for_IN MLC_NNP group_NN model_NN generation_NN before_IN the_DT paper_NN is_VBZ concluded_VBN ._.
+2_CD ._.
+RELATED_NNP LITERATURE_NNP AND_NNP CHALLENGES_NNP Data_NNP mining_NN has_VBZ been_VBN recently_RB extended_VBN from_IN the_DT traditional_JJ structured_JJ data_NNS mining_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: to_TO the_DT unstructured_JJ data_NN mining_NN -LRB-_-LRB- 15,21_CD -RRB-_-RRB- ,_, and_CC in_IN particular_JJ ,_, to_TO the_DT time-series_JJ data_NN mining_NN -LRB-_-LRB- 3,16,26_CD -RRB-_-RRB- ,_, text_NN mining_NN -LRB-_-LRB- 9,15,24,21_CD -RRB-_-RRB- ,_, and_CC Web_NN mining_NN -LRB-_-LRB- 2,36,20,27,11_CD -RRB-_-RRB- ._.
+This_DT work_NN is_VBZ about_IN automatic_JJ generation_NN

@@ -1,0 +1,3 @@
+existing_VBG literature_NN -LRB-_-LRB- 4_CD ,_, 5_CD ,_, 8_CD ,_, 10_CD -RRB-_-RRB- that_WDT illustrate_VBP the_DT usefulness_NN of_IN particular_JJ instances_NNS of_IN our_PRP$ Bregman_NNP co-clustering_NN framework_NN ._.
+In_IN fact_NN ,_, a_DT large_JJ class_NN of_IN parametric_JJ partitional_JJ clustering_NN algorithms_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: including_VBG kmeans_NNS can_MD be_VB shown_VBN to_TO be_VB special_JJ cases_NNS of_IN the_DT proposed_VBN framework_NN wherein_WRB only_JJ rows_NNS or_CC only_RB columns_NNS are_VBP being_VBG clustered_VBN ._.
+In_IN recent_JJ years_NNS ,_, co-clustering_NN has_VBZ been_VBN successfully_RB applied_VBN to_TO vari_VB

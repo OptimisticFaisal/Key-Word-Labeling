@@ -1,0 +1,4 @@
+OLAP_NN ._.
+Indeed_RB ,_, PLSA_NN and_CC similar_JJ topic_NN models_NNS have_VBP recently_RB been_VBN very_RB successfully_RB applied_VBN to_TO a_DT large_JJ range_NN of_IN text_NN mining_NN problems_NNS including_VBG hierarchical_JJ topic_NN modeling_NN -LRB-_-LRB- 17_CD ,_, 7_CD -RRB-_-RRB- ,_, author-topic_JJ analysis_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_JJ -_: ,_, spatiotemporal_JJ text_NN mining_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, sentiment_NN analysis_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, and_CC multi-stream_JJ bursty_NN pattern_NN finding_NN -LRB-_-LRB- 32_CD -RRB-_-RRB- ._.
+They_PRP are_VBP among_IN the_DT most_RBS effective_JJ text_NN mining_NN techniques_NNS ._.
+We_PRP propose_VBP Topic_JJ Cube_NN to_TO combine_VB the_DT

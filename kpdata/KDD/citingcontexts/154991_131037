@@ -1,0 +1,4 @@
+ds_JJ -RRB-_-RRB- ,_, the_DT frequency_NN counts_NNS of_IN the_DT synsets_NNS in_IN the_DT lower_JJR part_NN of_IN the_DT WordNet_NNP hierarchy_NN are_VBP very_RB sparse_JJ ._.
+We_PRP smooth_VBP the_DT probabilities_NNS by_IN assuming_VBG that_IN all_DT siblings_NNS are_VBP equally_RB likely_RB given_VBN the_DT parent_NN ._.
+Lin_NNP =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: defined_VBN the_DT similarity_NN between_IN two_CD WordNet_NNP synsets_NNS s1_NN and_CC s2_NN as_IN :_: sim_NN -LRB-_-LRB- s_NN ,_, s_NNS -RRB-_-RRB- 1_CD 2_CD ×_CD log_NN P_NN -LRB-_-LRB- -RRB-_-RRB- s_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- +_CC log_NN P_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- 2_CD =_JJ -LRB-_-LRB- 4_LS -RRB-_-RRB- log_NN P_NN where_WRB s_NN is_VBZ the_DT most_RBS specific_JJ synset_NN that_WDT subsumes_VBZ s_NN 1_CD and_CC s_NN 2_CD ._.
+For_IN exam_NN

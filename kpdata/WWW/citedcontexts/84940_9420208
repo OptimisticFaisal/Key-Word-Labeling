@@ -1,0 +1,4 @@
+pages_NNS ,_, of_IN which_WDT about_IN 1.7_CD million_CD are_VBP real_JJ articles_NNS ,_, with_IN the_DT others_NNS being_VBG mostly_RB redirect_VB pages_NNS or_CC images_NNS ._.
+We_PRP use_VBP the_DT Terrier_NNP Information_NNP Retrieval_NNP Platform_NNP -LRB-_-LRB- 8_CD -RRB-_-RRB- for_IN indexing_NN and_CC the_DT Webgraph_NNP library_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: for_IN storing_VBG the_DT links_NNS between_IN articles_NNS ._.
+3.1_CD Evaluation_NN methodology_NN Wikipedia_NNP resolves_VBZ the_DT problem_NN of_IN ambiguous_JJ entity_NN names_NNS by_IN the_DT so_RB called_VBN disambiguation_NN pages_NNS ._.
+For_IN example_NN ,_, when_WRB issuing_VBG the_DT query_NN

@@ -1,0 +1,3 @@
+idered_VBN as_IN a_DT new_JJ data_NNS coming_VBG and_CC expanding_VBG the_DT current_JJ -LRB-_-LRB- actual_JJ -RRB-_-RRB- data_NNS along_IN a_DT single_JJ mode_NN -LRB-_-LRB- usually_RB time_NN -RRB-_-RRB- ,_, the_DT problem_NN is_VBZ referred_VBN to_TO as_IN the_DT dynamic_JJ tensor_NN analysis_NN -LRB-_-LRB- DTA_NN -RRB-_-RRB- or_CC dynamic_JJ tensor_NN factorization_NN =_JJ -_: =[_NN 3_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT problem_NN also_RB often_RB arises_VBZ in_IN factorization_NN of_IN a_DT training_NN dataset_NN ._.
+Tensor_NN factorizations_NNS can_MD be_VB used_VBN as_IN dimensionality_NN reduction_NN methods_NNS in_IN multiway_JJ classification_NN and_CC factors_NNS are_VBP bases_NNS to_TO proje_VB

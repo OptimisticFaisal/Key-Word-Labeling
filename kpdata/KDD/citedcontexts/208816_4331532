@@ -1,0 +1,6 @@
+CG_NNP Arrhythmia_NNP Data_NNP 43_CD 31_CD 30_CD 47_CD 34_CD Figure_NNP 8_CD ._.
+Clustering_NN results_NNS ._.
+35_CD 29_CD 39_CD 41_CD 56_CD 45_CD 32_CD 50_CD 38_CD 36_CD 42_CD 46_CD 48_CD 33_CD 37_CD 51_CD 52_CD 44_CD 53_CD 40_CD 49_CD 54_CD 55_CD We_PRP also_RB considered_VBD a_DT Normal_JJ vs_CC Arrhythmia_NN problem_NN that_WDT appeared_VBD in_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Using_VBG Markov_NNP models_NNS ,_, the_DT authors_NNS reported_VBD an_DT error_NN rate_NN of_IN 2_CD %_NN ._.
+With_IN our_PRP$ technique_NN ,_, under_IN virtually_RB any_DT parameter_NN settings_NNS ,_, we_PRP achieve_VBP 0_CD %_NN error_NN ._.
+We_PRP can_MD achieve_VB perfect_JJ classification_NN using_VBG one_CD neares_NNS

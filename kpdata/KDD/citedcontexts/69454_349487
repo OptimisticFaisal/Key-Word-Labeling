@@ -1,0 +1,5 @@
+hor\/name_NN -LRB-_-LRB- fname_NN ,_, lname_NN -RRB-_-RRB- will_MD belong_VB to_TO different_JJ ,_, but_CC somehow_RB related_JJ equivalence_JJ classes_NNS ._.
+Again_RB ,_, identification_NN of_IN such_JJ patterns_NNS can_MD be_VB supported_VBN by_IN ontologies_NNS ,_, statistics_NNS and_CC machine_NN learning_NN methods_NNS =_JJ -_: =[_NN 8,15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN complex_JJ patterns_NNS ,_, the_DT subsumption_NN relation_NN can_MD be_VB inferred_VBN from_IN atomic_JJ patterns_NNS by_IN means_NNS of_IN rules_NNS proved_VBN in_IN Theorem_NNP 1_CD ._.
+Subsumptions_NNS will_MD be_VB indexed_VBN to_TO enable_VB efficient_JJ subsumption_NN testing_NN ._.
+Index_NN

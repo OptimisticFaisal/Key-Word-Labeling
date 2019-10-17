@@ -1,0 +1,3 @@
+algorithms_NNS have_VBP been_VBN proposed_VBN for_IN this_DT task_NN ._.
+A_DT starting_VBG point_NN for_IN applying_VBG clustering_NN algorithms_NNS to_TO document_VB collections_NNS is_VBZ to_TO create_VB a_DT vector_NN space_NN model_NN ,_, alternatively_RB known_VBN as_IN a_DT bag-of-words_JJ model_NN =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT basic_JJ idea_NN is_VBZ -LRB-_-LRB- a_DT -RRB-_-RRB- to_TO extract_VB unique_JJ content-bearing_JJ words_NNS from_IN the_DT set_NN of_IN documents_NNS treating_VBG these_DT words_NNS as_IN features_NNS and_CC -LRB-_-LRB- b_LS -RRB-_-RRB- to_TO then_RB represent_VB each_DT document_NN as_IN a_DT vector_NN of_IN certain_JJ weighted_JJ word_NN

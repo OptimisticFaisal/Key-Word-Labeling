@@ -1,0 +1,3 @@
+he_PRP problem_NN where_WRB a_DT temporal_JJ predicate_NN is_VBZ specified_VBN by_IN the_DT query_NN -LRB-_-LRB- e.g._FW ,_, ``_`` this_DT morning_NN ''_'' -RRB-_-RRB- ._.
+The_DT general_JJ trajectory_NN join_VBP query_NN requires_VBZ expensive_JJ evaluation_NN algorithms_NNS more_RBR relevant_JJ to_TO mining_NN applications_NNS =_JJ -_: =[_NN 29_CD ,_, 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+By_IN restricting_VBG similarity_NN evaluation_NN only_RB inside_IN a_DT user_NN specified_VBN time-interval_JJ ,_, we_PRP render_VBP the_DT problem_NN more_RBR amenable_JJ to_TO solutions_NNS that_WDT can_MD use_VB specialized_JJ index_NN structures_NNS for_IN evaluating_VBG the_DT joins_VBZ ._.

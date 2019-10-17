@@ -1,0 +1,5 @@
+atively_RB ,_, given_VBN pair-wise_JJ distances_NNS ,_, there_EX is_VBZ a_DT simple_JJ way_NN to_TO produce_VB coordinates_VBZ for_IN the_DT data_NNS that_WDT capture_VBP some_DT of_IN its_PRP$ properties_NNS ._.
+We_PRP explain_VBP the_DT idea_NN briefly_NN here_RB ;_: a_DT full_JJ description_NN can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+First_RB ,_, we_PRP choose_VBP a_DT set_NN of_IN k_NN pivot_JJ elements_NNS ,_, which_WDT we_PRP call_VBP P_NN =_JJ -LCB-_-LRB- p1_NN ,_, ..._: ,_, pk_NN -RCB-_-RRB- ⊆_CD -LCB-_-LRB- 1_CD ,_, ..._: ,_, n_NN -RCB-_-RRB- ._.
+Our_PRP$ requirement_NN from_IN these_DT pivots_NNS is_VBZ that_IN they_PRP are_VBP almost_RB uniformly_RB distributed_VBN over_IN the_DT data_NNS ._.
+3_CD Then_RB we_PRP constru_VBP

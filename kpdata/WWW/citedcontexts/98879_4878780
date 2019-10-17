@@ -1,0 +1,5 @@
+ncludes_NNS with_IN open_JJ problems_NNS ._.
+2_CD Collaborative_JJ Filtering_VBG Collaborative_JJ filters_NNS ,_, or_CC recommender_NN systems_NNS ,_, use_VBP a_DT database_NN of_IN user_NN preferences_NNS to_TO predict_VB items_NNS or_CC topics_NNS a_DT new_JJ user_NN might_MD like_VB or_CC find_VB useful_JJ =_JJ -_: =[_NN 3_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, Amazon_NNP allows_VBZ users_NNS to_TO rate_NN items_NNS for_IN sale_NN on_IN a_DT scale_NN from_IN 1_CD to_TO 10_CD ._.
+A_DT new_JJ user_NN ,_, Alice_NNP ,_, is_VBZ compared_VBN to_TO existing_VBG users_NNS based_VBN on_IN purchase_NN or_CC browsing_VBG history_NN ._.
+Amazon_NNP compares_VBZ the_DT user_NN pref_NN

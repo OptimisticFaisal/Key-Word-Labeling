@@ -1,0 +1,5 @@
+or_CC easy_JJ to_TO obtain_VB ,_, and_CC can_MD be_VB used_VBN to_TO guide_VB the_DT clustering_NN process_NN ._.
+Pair-wise_JJ instance-level_JJ constraints_NNS are_VBP one_CD such_JJ type_NN of_IN knowledge_NN and_CC have_VBP been_VBN used_VBN widely_RB in_IN different_JJ clustering_NN applications_NNS =_JJ -_: =[_NN 23_CD ,_, 3_CD ,_, 5_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Labeling_VBG is_VBZ expensive_JJ ._.
+Therefore_RB these_DT pair-wise_JJ constraints_NNS should_MD be_VB actively_RB learned_VBN rather_RB than_IN randomly_RB selected_VBN ,_, so_IN that_IN clustering_NN benefits_NNS to_TO the_DT greatest_JJS extend_VBP possible_JJ ._.
+Normally_RB a_DT pair_NN is_VBZ

@@ -1,0 +1,4 @@
+res_NNS and_CC coefficients_NNS appear_VBP as_IN candidates_NNS for_IN similarity_NN functions_NNS ._.
+The_DT most_RBS popular_JJ measures_NNS of_IN distance_NN appearing_VBG in_IN literature_NN are_VBP the_DT Euclidean_JJ distance_NN and_CC the_DT Dynamic_NNP Time_NNP Warping_NNP -LRB-_-LRB- DTW_NNP -RRB-_-RRB- measure_NN =_JJ -_: =[_NN 6_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN this_DT particular_JJ problem_NN ,_, the_DT drawback_NN of_IN these_DT two_CD measures_NNS is_VBZ that_IN they_PRP are_VBP not_RB sensitive_JJ to_TO the_DT association_NN linearity_NN between_IN the_DT elements_NNS of_IN the_DT subsequences_NNS ._.
+We_PRP are_VBP interested_JJ in_IN finding_VBG pat_NN

@@ -1,0 +1,3 @@
+arning_VBG ,_, where_WRB the_DT relational_JJ data_NNS are_VBP approximated_VBN by_IN a_DT set_NN of_IN matrix_NN factorizations_NNS which_WDT share_VBP common_JJ factor_NN matrix_NN for_IN the_DT same_JJ set_NN of_IN entities_NNS between_IN two_CD relations_NNS ._.
+A_DT similar_JJ work_NN by_IN Zhou_NNP et_FW al._FW =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: considered_VBN combining_VBG multiple_JJ relations_NNS for_IN document_NN recommendation_NN ,_, where_WRB a_DT single_JJ low-dimensional_JJ embedding_NN of_IN documents_NNS is_VBZ learned_VBN through_IN matrix_NN factorization_NN over_IN multiple_JJ relational_JJ data_NNS ._.
+The_DT m_NN

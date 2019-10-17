@@ -1,0 +1,4 @@
+erate_VB on_IN the_DT Grid_NNP ,_, whereas_IN most_JJS of_IN the_DT proposed_VBN systems_NNS work_VBP on_IN clusters_NNS of_IN computers_NNS or_CC over_IN the_DT Internet_NNP ._.
+Here_RB we_PRP shortly_RB list_VBP their_PRP$ basic_JJ features_NNS and_CC metadata_JJ management_NN modalities_NNS ._.
+Discovery_NNP Net_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: provides_VBZ an_DT architecture_NN for_IN building_VBG and_CC managing_VBG KDD_NNP processes_NNS on_IN the_DT Grid_NNP ._.
+Like_IN in_IN the_DT KNOWLEDGE_NN GRID_NN ,_, metadata_NN are_VBP crucial_JJ in_IN the_DT Discovery_NNP Net_NNP infrastructure_NN :_: an_DT XML_NN language_NN called_VBN Discovery_NNP Pr_NN

@@ -1,0 +1,14 @@
+A_DT robust_JJ and_CC efficient_JJ clustering_NN algorithm_NN based_VBN on_IN cohesion_NN self-merging_NN
+clustering_NN is_VBZ a_DT useful_JJ technique_NN for_IN many_JJ applications_NNS ,_, including_VBG similarity_NN search_NN ,_, pattern_NN recognition_NN ,_, trend_NN analysis_NN ,_, marketing_NN analysis_NN ,_, grouping_NN ,_, classification_NN of_IN documents_NNS ,_, and_CC so_RB forth_RB -LRB-_-LRB- 3_CD -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN data_NN clustering_NN ,_, similar_JJ data_NNS points_NNS are_VBP grouped_VBN together_RB in_IN a_DT cluster_NN ._.
+Since_IN the_DT early_JJ work_NN in_FW k-means_FW algorithm_NN ,_, the_DT data_NNS clustering_NN has_VBZ been_VBN studied_VBN for_IN many_JJ years_NNS and_CC several_JJ technologies_NNS hav_VBP
+aset_NN ._.
+Standard_JJ clustering_NN algorithms_NNS can_MD be_VB applied_VBN over_IN this_DT summary_NN dataset_NN ._.
+Final_JJ clustering_NN is_VBZ obtained_VBN by_IN mapping_VBG the_DT representatives_NNS to_TO the_DT original_JJ set_NN of_IN points_NNS ._.
+This_DT approach_NN is_VBZ taken_VBN by_IN CSM_NN =_JJ -_: =[_NN 75_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Another_DT approach_NN is_VBZ to_TO ``_`` intelligently_RB ''_'' reduce_VB the_DT dataset_NN size_NN ._.
+With_IN a_DT significantly_RB smaller_JJR dataset_NN ,_, even_RB computationally_RB expensive_JJ algorithms_NNS can_MD be_VB applied_VBN ._.
+Reducing_VBG the_DT dataset_NN size_NN in_IN a_DT princip_NN
+ed_VBN and_CC understood_VBN more_RBR easily_RB ._.
+This_DT can_MD be_VB accomplished_VBN by_IN classical_JJ MDS_NN -LRB-_-LRB- BG97_NN -RRB-_-RRB- ,_, the_DT FastMap_NN -LRB-_-LRB- FL95_NN -RRB-_-RRB- algorithm_NN we_PRP are_VBP employing_VBG ,_, or_CC by_IN making_VBG use_NN of_IN clustering_NN techniques_NNS like_IN BUBBLE_NN -LRB-_-LRB- GRG_NN ∗_NN 99_CD -RRB-_-RRB- or_CC CSM_NN =_JJ -_: =_JJ -LRB-_-LRB- LC02_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+Large_JJ datasets_NNS imply_VBP large_JJ processing_NN times_NNS when_WRB working_VBG with_IN them_PRP in_IN any_DT way_NN ,_, and_CC we_PRP believe_VBP that_IN one_CD very_RB important_JJ step_NN is_VBZ to_TO have_VB the_DT shortest_JJS time_NN possible_JJ between_IN first_RB obtaining_VBG a_DT dataset_NN and_CC

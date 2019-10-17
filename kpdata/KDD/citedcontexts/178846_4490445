@@ -1,0 +1,3 @@
+w_NN that_IN we_PRP only_RB need_VBP to_TO condition_NN transition_NN and_CC emission_NN probabilities_NNS on_IN frequent_JJ closed_JJ paths_NNS ._.
+The_DT mining_NN of_IN closed_JJ paths_NNS can_MD be_VB easily_RB implemented_VBN with_IN an_DT efficient_JJ closed_JJ itemset_NN mining_NN algorithm_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: after_IN associating_VBG locations_NNS to_TO nodes_NNS in_IN a_DT duration_NN independent_JJ workflow_NN ._.
+If_IN we_PRP are_VBP computing_VBG not_RB a_DT single_JJ cell_NN but_CC a_DT complete_JJ FlowCube_NN we_PRP can_MD compute_VB all_PDT the_DT frequent_JJ closed_JJ paths_NNS for_IN all_DT cells_NNS at_IN a_DT

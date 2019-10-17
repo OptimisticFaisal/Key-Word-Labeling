@@ -1,0 +1,4 @@
+ature_NN vector_NN C_NN is_VBZ obtained_VBN for_IN each_DT image_NN as_IN a_DT color_NN feature_NN representation_NN ._.
+To_TO extract_VB texture_NN information_NN of_IN an_DT image_NN ,_, we_PRP apply_VBP a_DT set_NN of_IN Gabor_NNP filters_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, which_WDT are_VBP shown_VBN to_TO be_VB effective_JJ for_IN CBIR_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, to_TO the_DT image_NN to_TO measure_VB the_DT response_NN ._.
+The_DT Gabor_NNP filters_NNS are_VBP one_CD kind_NN of_IN two-dimensional_JJ wavelets_NNS ._.
+The_DT discretization_NN =_JJ of_IN a_DT two-dimensional_JJ wavelet_NN applied_VBN to_TO an_DT image_NN is_VBZ given_VBN by_IN Wmlpq_NN I_NN -LRB-_-LRB- x_NN ,_, y_NN -RRB-_-RRB- ψml_NN

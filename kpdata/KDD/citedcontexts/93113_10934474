@@ -1,0 +1,5 @@
+n_NN mining_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, correlation_NN mining_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, and_CC associative_JJ classification_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Many_JJ algorithms_NNS were_VBD proposed_VBN to_TO find_VB frequent_JJ patterns_NNS in_IN transaction_NN databases_NNS namely_RB Apriori_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, FP-growth_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, and_CC Eclat_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+But_CC these_DT methods_NNS generate_VBP large_JJ number_NN of_IN patterns_NNS when_WRB the_DT minimum_JJ support_NN threshold_NN is_VBZ low_JJ ._.
+Out_IN of_IN these_DT patterns_NNS most_JJS are_VBP not_RB required_VBN in_IN data_NN mining_NN tasks_NNS ._.
+To_TO avoid_VB these_DT useless_JJ or_CC redundant_JJ p_NN

@@ -1,0 +1,4 @@
+he_PRP purpose_NN of_IN explanation_NN ._.
+The_DT dashed_VBN curve_NN is_VBZ a_DT more_RBR realistic_JJ illustration_NN of_IN the_DT shape_NN of_IN the_DT Pareto_NNP front_NN ,_, showing_VBG more_RBR clearly_RB how_WRB severe_JJ the_DT pruning_NN damage_NN can_MD be_VB ._.
+In_IN our_PRP$ experiment_NN ,_, PrefixSpan_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, one_CD of_IN the_DT fastest_JJS sequential_JJ mining_NN algorithms_NNS ,_, did_VBD not_RB return_VB after_IN 48_CD hours_NNS on_IN real_JJ dataset_NN human-SMDcDNA_NN -LRB-_-LRB- 12671_CD genes_NNS and_CC 2852_CD conditions_NNS -RRB-_-RRB- -LRB-_-LRB- 15_CD -RRB-_-RRB- for_IN min_NN sup_NN =_JJ 2535_CD ._.
+It_PRP returned_VBD after_IN 36_CD hours_NNS on_IN

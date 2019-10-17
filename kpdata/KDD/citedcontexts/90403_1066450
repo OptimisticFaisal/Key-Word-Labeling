@@ -1,0 +1,4 @@
+in_IN the_DT data_NNS mining_NN community_NN ._.
+In_IN this_DT paper_NN we_PRP introduce_VBP DeEPs_NNS ,_, a_DT new_JJ instance-based_JJ classifier_NN which_WDT makes_VBZ Decisions_NNS through_IN Emerging_VBG Patterns_NN ._.
+The_DT notion_NN of_IN emerging_VBG patterns_NNS -LRB-_-LRB- EPs_NNS -RRB-_-RRB- was_VBD proposed_VBN in_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: and_CC is_VBZ defined_VBN as_IN multivariate_JJ features_NNS -LRB-_-LRB- i.e._FW ,_, itemsets_NNS -RRB-_-RRB- whose_WP$ supports_NNS -LRB-_-LRB- or_CC frequencies_NNS -RRB-_-RRB- change_VBP significantly_RB from_IN one_CD class_NN to_TO another_DT ._.
+Because_IN of_IN sharp_JJ changes_NNS in_IN support_NN ,_, EPs_NNS have_VBP strong_JJ discrimin_NN

@@ -1,0 +1,5 @@
+lot_NN of_IN attention_NN as_IN mechanisms_NNS for_IN limiting_VBG the_DT risk_NN of_IN this_DT kind_NN of_IN attack_NN ._.
+A_DT wide_JJ variety_NN of_IN algorithms_NNS have_VBP been_VBN proposed_VBN for_IN generalizing_VBG ,_, clustering_NN ,_, or_CC aggregating_VBG data_NNS to_TO guarantee_VB k-anonymity_NN =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 3_CD ,_, 5_CD ,_, 6_CD ,_, 7_CD ,_, 10_CD ,_, 12_CD ,_, 16_CD ,_, 19_CD ,_, 20_CD ,_, 22_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, the_DT vast_JJ majority_NN of_IN proposals_NNS assume_VBP that_IN the_DT data_NN fits_VBZ in_IN main_JJ memory_NN ._.
+For_IN larger_JJR data_NNS sets_NNS ,_, memory_NN and_CC I\/O_NN must_MD be_VB managed_VBN explicitly_RB to_TO present_JJ thrashing_NN and_CC performance_NN degradation_NN ._.
+In_IN

@@ -1,0 +1,4 @@
+the_DT input_NN dataset_NN ._.
+In_IN this_DT case_NN it_PRP is_VBZ of_IN interest_NN to_TO determine_VB how_WRB accurate_JJ is_VBZ the_DT knowledge_NN extracted_VBN from_IN the_DT sample_NN ._.
+Several_JJ sampling_NN algorithms_NNS have_VBP been_VBN proposed_VBN with_IN variable_JJ level_NN of_IN accuracy_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, yet_CC the_DT problem_NN remains_VBZ of_IN determining_VBG whether_IN a_DT sample_NN is_VBZ a_DT good_JJ representative_NN of_IN the_DT entire_JJ dataset_NN or_CC not_RB ,_, without_IN running_VBG the_DT mining_NN algorithm_NN ._.
+We_PRP argue_VBP that_IN a_DT sample_NN whose_WP$ entropy_NN ,_, as_IN giv_NN

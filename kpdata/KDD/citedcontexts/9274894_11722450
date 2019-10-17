@@ -1,0 +1,3 @@
+0_CD -RRB-_-RRB- where_WRB the_DT authors_NNS attempted_VBD to_TO build_VB a_DT probabilistic_JJ model_NN of_IN the_DT classifier_NN in_IN absence_NN of_IN a_DT true_JJ label_NN using_VBG a_DT latent_JJ variable_JJ model_NN ._.
+There_EX are_VBP some_DT recent_JJ articles_NNS in_IN natural_JJ language_NN processing_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT computer_NN vision_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- domain_NN where_WRB it_PRP is_VBZ shown_VBN that_IN using_VBG multiple_JJ noisy_JJ labelers_NNS can_MD result_VB in_IN a_DT classifier_NN as_RB good_JJ as_IN one_CD trained_VBN with_IN labels_NNS provided_VBN by_IN experts_NNS ._.
+There_EX are_VBP also_RB some_DT theoret_NN

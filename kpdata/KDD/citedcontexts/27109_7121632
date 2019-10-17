@@ -1,0 +1,4 @@
+parameters_NNS to_TO tune_VB ._.
+The_DT other_JJ technique_NN that_WDT is_VBZ closely_RB related_JJ to_TO this_DT paper_NN is_VBZ the_DT co-clustering_JJ approaches_NNS ,_, which_WDT solves_VBZ the_DT problem_NN of_IN simultaneously_RB clustering_VBG rows_NNS and_CC columns_NNS of_IN a_DT data_NN matrix_NN ._.
+=_SYM -_: =[_NN 5_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: individually_RB developed_VBD a_DT co-clustering_JJ approach_NN by_IN using_VBG the_DT bipartite_JJ graph_NN formulation_NN and_CC spectral_JJ methods_NNS ,_, but_CC that_DT demanded_VBD that_IN each_DT row_NN cluster_NN was_VBD associated_VBN with_IN a_DT column_NN cluster_NN ._.
+Recently_RB ,_,

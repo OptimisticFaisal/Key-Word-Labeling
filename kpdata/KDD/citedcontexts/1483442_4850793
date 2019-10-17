@@ -1,0 +1,4 @@
+data_NNS even_RB after_IN discretization_NN ._.
+Evaluations_NNS and_CC comparisons_NNS of_IN some_DT supervised_JJ and_CC unsupervised_JJ univariate_JJ discretization_NN methods_NNS can_MD be_VB found_VBN in_IN reference_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+As_IN Bay_NNP indicated_VBD in_IN reference_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, the_DT discretized_JJ intervals_NNS should_MD make_VB sense_NN to_TO human_JJ expert_NN ._.
+For_IN example_NN ,_, when_WRB learning_VBG the_DT medical_JJ data_NNS for_IN cardiovascular_JJ patients_NNS ,_, we_PRP know_VBP that_IN a_DT person_NN 's_POS blood_NN pressure_NN is_VBZ increasing_VBG as_IN

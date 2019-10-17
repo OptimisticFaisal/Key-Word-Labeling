@@ -1,0 +1,3 @@
+w_NN can_MD we_PRP employ_VB these_DT resources_NNS to_TO help_VB the_DT retrieval_NN tasks_NNS ?_.
+An_DT intuitive_JJ way_NN is_VBZ to_TO borrow_VB the_DT techniques_NNS in_IN traditional_JJ text-based_JJ information_NN retrieval_NN ,_, such_JJ as_IN the_DT query_NN expansion_NN -LRB-_-LRB- QEX_NN -RRB-_-RRB- techniques_NNS =_JJ -_: =[_NN 106_CD ,_, 107_CD ,_, 108_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Query_JJ expansion_NN can_MD be_VB viewed_VBN as_IN a_DT multiple-instance_JJ sampling_NN technique_NN in_IN which_WDT the_DT returned_VBN samples_NNS of_IN the_DT next_JJ round_NN are_VBP selected_VBN from_IN the_DT neighborhood_NN from_IN the_DT relevant_JJ samples_NNS of_IN the_DT previous_JJ r_NN

@@ -1,0 +1,4 @@
+ch_NN as_IN size_NN and_CC anisotropy_NN of_IN the_DT gray_JJ values_NNS at_IN multiple_JJ scales_NNS ._.
+Furthermore_RB ,_, the_DT intensity_NN homogeneity_NN is_VBZ represented_VBN in_IN a_DT set_NN of_IN entropic_JJ measures_NNS by_IN using_VBG the_DT generalized_JJ Jensen-Shannon_NNP divergence_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Jensen-Shannon_NN divergence_NN extends_VBZ the_DT wellknown_JJ Kullback-Liebler_NNP divergence_NN between_IN a_DT pair_NN of_IN probability_NN distributions_NNS in_IN order_NN to_TO describe_VB overall_JJ similarity_NN of_IN a_DT set_NN of_IN distributions_NNS ._.
+Intensity_NN h_NN

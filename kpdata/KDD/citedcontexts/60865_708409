@@ -1,0 +1,5 @@
+chnique_NN ._.
+Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- are_VBP one_CD of_IN the_DT most_RBS promising_JJ tools_NNS for_IN data_NNS classification_NN ._.
+Several_JJ studies_NNS have_VBP attempted_VBN to_TO adopt_VB SVM_NNP into_IN Raking_VBG problem_NN ._.
+RankingSVM_NN -LRB-_-LRB- Herbrich_JJ et_FW al._FW ,_, 2000_CD ;_: =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =--RRB-_NN applies_VBZ SVM_NN technique_NN to_TO classify_VB object_NN pairs_NNS into_IN two_CD categories_NNS :_: ``_`` correct_JJ ranked_VBD ''_'' and_CC ``_`` incorrect_JJ ranked_VBD ''_'' ._.
+However_RB ,_, as_IN a_DT pairwise_JJ setting_NN may_MD construct_VB too_RB many_JJ instances_NNS for_IN SVM_NNP ,_, the_DT scale_NN of_IN ran_VBD

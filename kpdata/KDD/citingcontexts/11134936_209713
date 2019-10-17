@@ -1,0 +1,6 @@
+if_IN they_PRP share_VBP the_DT same_JJ -LRB-_-LRB- stemmed_VBN -RRB-_-RRB- name_NN ._.
+This_DT reduces_VBZ the_DT total_JJ number_NN of_IN pairs_NNS which_WDT need_VBP to_TO be_VB compared_VBN and_CC eliminates_VBZ the_DT need_NN to_TO compute_VB nameSim_NN -LRB-_-LRB- ,_, -RRB-_-RRB- in_IN Eq_NN ._.
+2_CD ._.
+Second_RB ,_, we_PRP apply_VBP the_DT blocking_VBG approach_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: for_IN efficiently_RB computing_VBG similarity_NN and_CC merging_JJ sapling_NN roots_NNS ._.
+The_DT basic_JJ idea_NN behind_IN this_DT approach_NN is_VBZ to_TO first_RB use_VB a_DT cheap_JJ similarity_NN measure_NN to_TO ``_`` roughly_RB ''_'' group_NN similar_JJ items_NNS ._.
+We_PRP can_MD then_RB thoroughly_RB

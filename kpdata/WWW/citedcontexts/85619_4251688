@@ -1,0 +1,5 @@
+inst_IN the_DT markings_NNS in_IN the_DT attack_NN list_NN ._.
+It_PRP is_VBZ outside_IN the_DT scope_NN of_IN this_DT paper_NN to_TO define_VB an_DT algorithm_NN for_IN attack_NN packet_NN identification_NN ._.
+Jung_NNP ,_, Krishnamurthy_NNP and_CC Rabinovich_NNP further_RB discuss_VB this_DT problem_NN in_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Assuming_VBG such_JJ an_DT algorithm_NN ,_, we_PRP model_VBP our_PRP$ DDoS_NN attack_NN in_IN two_CD phases_NNS ._.
+In_IN the_DT first_JJ phase_NN ,_, the_DT learning_NN phase_NN ,_, all_DT packets_NNS are_VBP assumed_VBN to_TO be_VB analyzed_VBN by_IN the_DT victim_NN ,_, using_VBG the_DT packet_NN identification_NN func_NN

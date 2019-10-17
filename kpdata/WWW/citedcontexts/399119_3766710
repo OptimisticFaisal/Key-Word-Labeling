@@ -1,0 +1,4 @@
+ditors_NNS to_TO map_VB between_IN question_NN templates_NNS and_CC authoritative_JJ sites_NNS ._.
+Recently_RB ,_, several_JJ researchers_NNS used_VBD large_JJ numbers_NNS of_IN Q\/A_NN pairs_NNS mined_VBN from_IN the_DT web_NN for_IN QA_NN system_NN development_NN ._.
+E.g._RB ,_, Ramakrishnan_NNP et_FW al._FW =_SYM -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: use_VB them_PRP to_TO train_VB a_DT strongly_RB datadriven_JJ TREC-style_JJ factoid_NN QA_NN system_NN ._.
+Soricut_NNP and_CC Brill_NNP -LRB-_-LRB- 29_CD -RRB-_-RRB- describe_VBP a_DT statistical_JJ QA_NN system_NN that_WDT is_VBZ trained_VBN using_VBG roughly_RB 1_CD million_CD Q\/A_NN pairs_NNS to_TO deliver_VB answers_NNS to_TO q_VB

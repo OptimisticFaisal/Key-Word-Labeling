@@ -1,0 +1,5 @@
+edges_NNS in_IN a_DT meaningful_JJ way_NN ._.
+Converting_VBG scores_NNS to_TO probabilities_NNS is_VBZ not_RB straightforward_JJ since_IN the_DT relation_NN between_IN them_PRP is_VBZ often_RB not_RB linear_JJ ._.
+This_DT problemhas_VBZ been_VBN studiedfor_JJ differentkinds_NNS of_IN classifiers_NNS =_JJ -_: =[_NN 11_CD ,_, 23_CD ,_, 24_CD ,_, 25_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC with_IN score_NN distributions_NNS different_JJ from_IN the_DT one_NN we_PRP observe_VBP in_IN our_PRP$ case_NN ._.
+In_IN Fig._NNP 15_CD ,_, we_PRP observe_VBP a_DT logarithmic_JJ shape_NN in_IN the_DT distribution_NN of_IN probabilities_NNS with_IN respect_NN to_TO scores_NNS ._.
+Using_VBG a_DT curve_NN fitt_NN

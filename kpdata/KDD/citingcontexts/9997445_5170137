@@ -1,0 +1,4 @@
+additional_JJ nodes_NNS and_CC edges_NNS to_TO form_VB the_DT enhanced_VBN graph_NN H._NN Then_RB ,_, SteinerTree_NNP is_VBZ evoked_VBN to_TO solve_VB the_DT Steiner_NNP Tree_NNP problem_NN on_IN the_DT enhanced_VBN graph_NN H_NN -LRB-_-LRB- for_IN similar_JJ applications_NNS of_IN Steiner_NNP tree_NN algorithms_NNS see_VBP =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT pseudocode_NN that_WDT corresponds_VBZ to_TO these_DT two_CD steps_NNS of_IN the_DT EnhancedSteiner_NNP algorithm_NN is_VBZ shown_VBN in_IN Algorithm_NN 4_CD ._.
+Algorithm_NN 4_CD The_DT EnhancedSteiner_NN algorithm_NN for_IN the_DT MstTf_NN problem_NN ._.
+Input_NN :_: Graph_NN G_NN -LRB-_-LRB- X_NN ,_, E_NN -RRB-_-RRB- ;_:

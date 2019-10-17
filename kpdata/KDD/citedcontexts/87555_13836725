@@ -1,0 +1,4 @@
+real-world_JJ data_NNS are_VBP provided_VBN ._.
+Related_JJ work_NN The_DT majority_NN of_IN published_VBN cost-sensitive_JJ classification_NN algorithms_NNS assume_VBP the_DT availability_NN of_IN supervised_JJ training_NN data_NNS ,_, were_VBD all_DT instances_NNS are_VBP labeled_VBN -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 9,12,24,32,35,38_CD ,_, 39_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Some_DT work_NN considers_VBZ semi-supervised_JJ cost-sensitive_JJ classification_NN ._.
+Qin_NNP et_FW al._FW -LRB-_-LRB- 29_CD -RRB-_-RRB- present_JJ costsensitive_JJ classifiers_NNS for_IN training_NN data_NNS that_WDT consists_VBZ of_IN a_DT relatively_RB small_JJ number_NN of_IN labeled_JJ instance_NN

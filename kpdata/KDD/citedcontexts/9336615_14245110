@@ -1,0 +1,3 @@
+ge_NN precision_NN ranking_NN loss_NN when_WRB the_DT label_NN set_NN can_MD be_VB enumerated_VBN ._.
+-LRB-_-LRB- 19_CD -RRB-_-RRB- relies_VBZ on_IN a_DT counting_NN framework_NN for_IN this_DT purpose_NN ,_, and_CC -LRB-_-LRB- 20_CD -RRB-_-RRB- proposes_VBZ an_DT SSVM_NN formulation_NN for_IN enforcing_VBG diversity_NN between_IN the_DT labels_NNS ._.
+=_SYM -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 22_CD -RRB-_-RRB- identify_VBP shared_JJ subspaces_NNS between_IN sets_NNS of_IN labels_NNS ,_, -LRB-_-LRB- 23_CD -RRB-_-RRB- encodes_VBZ linear_JJ label_NN relations_NNS by_IN a_DT change_NN of_IN the_DT SSVM_NN regularizer_NN ,_, and_CC -LRB-_-LRB- 24_CD -RRB-_-RRB- handles_VBZ the_DT case_NN of_IN tree_NN -_: and_CC DAG-structured_JJ dependencies_NNS

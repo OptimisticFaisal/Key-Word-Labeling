@@ -1,0 +1,3 @@
+nd_IN ordinal_JJ regression_NN ,_, and_CC a_DT particular_JJ regularizer_NN Ω_NN ,_, namely_RB quadratic_JJ regularization_NN ,_, both_DT methods_NNS are_VBP equivalent_JJ ._.
+The_DT advantage_NN in_IN our_PRP$ solver_NN is_VBZ the_DT use_NN of_IN efficient_JJ linear_JJ algebra_NN tools_NNS via_IN PETSc_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT modular_JJ structure_NN ,_, the_DT considerably_RB higher_JJR generality_NN in_IN both_CC loss_NN functions_NNS and_CC regularizers_NNS ,_, and_CC the_DT fact_NN that_IN data_NNS may_MD be_VB decentralized_VBN ._.
+Moreover_RB ,_, our_PRP$ work_NN is_VBZ related_JJ to_TO -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, where_WRB MapReduce_NNP

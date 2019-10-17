@@ -1,0 +1,3 @@
+ain_NN ._.
+Since_IN semi-supervised_JJ learning_NN -LRB-_-LRB- transductive_JJ learning_NN -RRB-_-RRB- is_VBZ closely_RB related_JJ to_TO the_DT problem_NN ,_, we_PRP compare_VBP the_DT proposed_VBN method_NN with_IN Transductive_JJ Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- TSVM_NNP -RRB-_-RRB- implemented_VBN in_IN SVM_NN light_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Furthermore_RB ,_, in_IN the_DT proposed_VBN framework_NN ,_, the_DT two_CD main_JJ steps_NNS are_VBP ,_, predicting_VBG labels_NNS using_VBG weighted_JJ classifiers_NNS if_IN the_DT classifiers_NNS are_VBP sufficiently_RB accurate_JJ in_IN terms_NNS of_IN alignment_NN with_IN clustering_NN struct_NN

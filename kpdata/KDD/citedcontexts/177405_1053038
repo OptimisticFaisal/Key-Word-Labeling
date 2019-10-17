@@ -1,0 +1,6 @@
+are_VBP thus_RB not_RB suitable_JJ for_IN this_DT problem_NN ._.
+Although_IN it_PRP is_VBZ possible_JJ to_TO manually_RB label_VB some_DT negative_JJ examples_NNS ,_, it_PRP is_VBZ labor-intensive_JJ and_CC time_NN consuming_NN ._.
+In_IN the_DT past_JJ three_CD years_NNS ,_, several_JJ techniques_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- -LRB-_-LRB- 13_CD -RRB-_-RRB- =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =-[_NN 11_CD -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- were_VBD proposed_VBN to_TO solve_VB the_DT problem_NN ._.
+These_DT techniques_NNS mainly_RB use_VBP a_DT two-step_JJ strategy_NN ._.
+The_DT first_JJ step_NN tries_VBZ to_TO identify_VB a_DT set_NN of_IN reliable_JJ negative_JJ documents_NNS from_IN the_DT unlabeled_JJ set_NN ._.
+The_DT second_JJ st_NN

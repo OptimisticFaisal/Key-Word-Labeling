@@ -1,0 +1,4 @@
+articular_JJ dependency_NN structure_NN of_IN BBM_NNP ,_, andis_VBZ therefore_RB preferred_VBN to_TO the_DT existing_VBG off-the-shelf_JJ approximate_JJ inference_NN algorithms_NNS such_JJ as_IN expectation_NN propagation_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- and_CC generalized_JJ belief_NN propagation_NN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+First_RB ,_, based_VBN on_IN the_DT Bayes_NNP theorem_NN ,_, we_PRP have_VBP p_NN -LRB-_-LRB- R_NN |_NN C_NN 1_CD :_: n_NN -RRB-_-RRB- ∝_CD p_NN -LRB-_-LRB- R_NN -RRB-_-RRB- n_NN ∏_NN P_NN -LRB-_-LRB- C_NN k_NN |_CD R_NN -RRB-_-RRB- ._.
+-LRB-_-LRB- 17_CD -RRB-_-RRB- k_NN =_JJ 1_CD Our_PRP$ goal_NN is_VBZ to_TO first_RB obtain_VB an_DT un-normalized_JJ posterior_JJ distribution_NN over_IN R_NN ,_, and_CC then_RB to_TO normalize_VB it_PRP later_RB ._.
+Sinc_NNP

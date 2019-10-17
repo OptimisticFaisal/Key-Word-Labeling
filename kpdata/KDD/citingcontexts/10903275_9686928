@@ -1,0 +1,8 @@
+n_NN appropriate_JJ L_NN -LRB-_-LRB- hence_RB the_DT appropriate_JJ step_NN size_NN 1\/L_NN -RRB-_-RRB- by_IN ensuring_VBG the_DT inequality_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+By_IN applying_VBG an_DT appropriate_JJ step_NN size_NN and_CC the_DT associated_VBN projected_JJ gradient_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, we_PRP can_MD verify_VB that_IN =_JJ -_: =[_NN 7_CD ,_, 25_CD -RRB-_-RRB- -_: =_JJ -_: F_NN -LRB-_-LRB- T_NN -RRB-_-RRB- −_NN F_NN -LRB-_-LRB- TL_NN ,_, S_NN -RRB-_-RRB- ≥_FW 〈_FW T_NN −_NN S_NN ,_, PL_NN -LRB-_-LRB- S_NN -RRB-_-RRB- 〉_CD +_CC 1_CD 2L_NN ‖_NN PL_NN -LRB-_-LRB- S_NN -RRB-_-RRB- ‖_NN 2_CD F_NN ._.
+-LRB-_-LRB- 15_CD -RRB-_-RRB- Moreover_RB ,_, by_IN replacing_VBG S_NN with_IN T_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, we_PRP have_VBP F_NN -LRB-_-LRB- T_NN -RRB-_-RRB- −_NN F_NN -LRB-_-LRB- TL_NN ,_, T_NN -RRB-_-RRB- ≥_NN 1_CD 2L_NN ‖_NN PL_NN -LRB-_-LRB- T_NN -RRB-_-RRB- ‖_CD 2F_NN ._.
+-LRB-_-LRB- 16_CD -RRB-_-RRB- Note_VBP that_IN the_DT inequality_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 15_CD -RRB-_-RRB- charac_NN

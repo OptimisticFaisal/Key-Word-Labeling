@@ -1,0 +1,5 @@
+e_LS above_JJ method_NN just_RB returns_VBZ few_JJ alignments_NNS ._.
+LILY_NN uses_VBZ similarity_NN propagation_NN strategy_NN to_TO compensate_VB for_IN it_PRP ._.
+Compared_VBN with_IN other_JJ similarity_NN propagation_NN methods_NNS such_JJ as_IN similarity_NN flood_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC SimRank_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, our_PRP$ similarity_NN propagation_NN defines_VBZ stronger_JJR propagation_NN condition_NN and_CC is_VBZ based_VBN on_IN the_DT semantic_JJ subgraphs_NNS ._.
+The_DT propagation_NN graph_NN is_VBZ not_RB stable_JJ ,_, but_CC is_VBZ incremental_JJ during_IN propagation_NN process_NN ._.
+Using_VBG si_FW

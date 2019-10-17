@@ -1,0 +1,3 @@
+sitive_JJ example_NN is_VBZ labeled_VBN ._.
+This_DT ``_`` selected_VBN completely_RB at_IN random_JJ ''_'' assumption_NN is_VBZ analogous_JJ to_TO the_DT ``_`` missing_VBG completely_RB at_IN random_JJ ''_'' assumption_NN that_WDT is_VBZ often_RB made_VBN when_WRB learning_VBG from_IN data_NNS with_IN missing_VBG values_NNS =_JJ -_: =[_NN 10_CD ,_, 17_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Another_DT way_NN of_IN stating_VBG the_DT assumption_NN is_VBZ that_IN s_NN and_CC x_NN are_VBP conditionally_RB independent_JJ given_VBN y._NN 214_CD So_RB ,_, a_DT training_NN set_NN is_VBZ a_DT random_JJ sample_NN from_IN a_DT distribution_NN p_NN -LRB-_-LRB- x_NN ,_, y_NN ,_, s_NNS -RRB-_-RRB- that_WDT satisfies_VBZ Equations_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- and_CC

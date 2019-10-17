@@ -1,0 +1,3 @@
+countered_VBN in_IN traditional_JJ mining_NN of_IN stored_VBN data_NNS :_: at_IN the_DT physical_JJ level_NN ,_, these_DT include_VBP fast_JJ input_NN rates_NNS and_CC unending_JJ data_NNS sets_NNS ,_, while_IN ,_, at_IN the_DT logical_JJ level_NN ,_, there_EX is_VBZ the_DT need_NN to_TO cope_VB with_IN concept_NN drift_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Therefore_RB ,_, classical_JJ classification_NN algorithms_NNS must_MD be_VB replaced_VBN by_IN ,_, or_CC modified_VBN into_IN ,_, incremental_JJ algorithms_NNS that_WDT are_VBP fast_JJ and_CC light_JJ and_CC gracefully_RB adapt_VB to_TO changes_NNS in_IN data_NN statistics_NNS -LRB-_-LRB- 17,18,5_CD -RRB-_-RRB- ._.
+Rel_NN

@@ -1,0 +1,4 @@
+hod_NN ._.
+Agichtein_NNP et_FW al._FW -LRB-_-LRB- 1_LS -RRB-_-RRB- proposed_VBD a_DT robust_JJ interactive_JJ model_NN to_TO improve_VB ranking_JJ results_NNS ._.
+Various_JJ approaches_NNS using_VBG search_NN logs_NNS were_VBD also_RB proposed_VBN for_IN query_NN suggestion_NN -LRB-_-LRB- e.g._FW -LRB-_-LRB- 3_CD ,_, 12_CD -RRB-_-RRB- -RRB-_-RRB- ,_, expansion_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 4_CD ,_, 8_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, and_CC substitution_NN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 14_CD ,_, 15_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+For_IN example_NN ,_, Cui_NNP et_FW al._FW -LRB-_-LRB- 4_CD -RRB-_-RRB- extracted_VBD probabilistic_JJ correlations_NNS between_IN query_NN terms_NNS and_CC document_NN terms_NNS by_IN analyzing_VBG search_NN logs_NNS and_CC used_VBD the_DT correlations_NNS to_TO sele_VB

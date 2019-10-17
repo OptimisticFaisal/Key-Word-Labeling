@@ -1,0 +1,5 @@
+l_NN data_NN items_NNS get_VBP their_PRP$ annotations_NNS ._.
+Entity_NN identification_NN Entity_NN identification_NN is_VBZ one_CD of_IN the_DT key_JJ components_NNS of_IN data_NNS merging_VBG ._.
+Several_JJ approaches_NNS have_VBP been_VBN proposed_VBN to_TO solve_VB this_DT problem_NN ._.
+For_IN example_NN ,_, =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: applies_VBZ a_DT set_NN of_IN domain-independent_JJ string_NN transformations_NNS to_TO compare_VB the_DT entities_NNS '_POS shared_JJ attributes_NNS in_IN order_NN to_TO identify_VB matching_JJ entities_NNS ._.
+All_DT current_JJ approaches_NNS assume_VBP that_IN they_PRP havesachieved_VBD the_DT

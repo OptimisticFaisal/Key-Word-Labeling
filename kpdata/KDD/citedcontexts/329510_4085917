@@ -1,0 +1,3 @@
+&_CC Pazzani_NNP ,_, 2001_CD ;_: Dong_NNP &_CC Li_NNP ,_, 1999_CD -RRB-_-RRB- ,_, subgroup_NN discovery_NN -LRB-_-LRB- Klösgen_NNP ,_, 1996_CD -RRB-_-RRB- ,_, interesting_JJ itemset_NN discovery_NN -LRB-_-LRB- Jaroszewicz_NNP &_CC Simovici_NNP ,_, 2004_CD -RRB-_-RRB- and_CC impact_NN or_CC quantitative_JJ rule_NN discovery_NN -LRB-_-LRB- Aumann_NNP &_CC Lindell_NNP ,_, 1999_CD ;_: =_JJ -_: =_JJ Webb_NNP ,_, 2001_CD -_: =_JJ -_: ;_: Zhang_NNP ,_, Padmanabhan_NNP ,_, &_CC Tuzhilin_NNP ,_, 2004_CD -RRB-_-RRB- ._.
+All_DT these_DT techniques_NNS search_VBP large_JJ spaces_NNS of_IN possible_JJ patterns_NNS P_NN and_CC return_VB all_DT patterns_NNS that_WDT satisfy_VBP user-defined_JJ constraints_NNS ._.
+Such_JJ a_DT process_NN entails_VBZ evaluatin_NN

@@ -1,0 +1,4 @@
+-RRB-_-RRB- ._.
+The_DT methods_NNS for_IN localizing_VBG patches_NNS on_IN images_NNS can_MD be_VB categorized_VBN into_IN three_CD classes_NNS including_VBG affine-region-detector-based_JJ methods_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, sampling-based_JJ methods_NNS -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, and_CC regular-patch-based_JJ methods_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP extract_VBP dense_JJ features_NNS on_IN regular_JJ patches_NNS on_IN the_DT images_NNS ,_, since_IN such_JJ features_NNS are_VBP commonly_RB used_VBN for_IN aligned_VBN images_NNS ._.
+Due_JJ to_TO the_DT limitations_NNS of_IN the_DT image_NN processing_NN techniques_NNS ,_, local_JJ variations_NNS may_MD

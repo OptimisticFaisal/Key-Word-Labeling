@@ -1,0 +1,4 @@
+rominence_NN of_IN recommender_NN systems_NNS ,_, which_WDT provide_VBP personalized_JJ recommendations_NNS for_IN products_NNS that_WDT suit_VBP a_DT user_NN 's_POS taste_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+Internet_NN leaders_NNS like_IN Amazon_NNP -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, Google_NNP -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, Netflix_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, TiVo_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC Yahoo_NNP !_.
+=_SYM -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP increasingly_RB adopting_VBG such_JJ recommenders_NNS ._.
+Recommender_NN systems_NNS are_VBP often_RB based_VBN on_IN Collaborative_JJ Filtering_NN -LRB-_-LRB- CF_NN -RRB-_-RRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, which_WDT relies_VBZ only_RB on_IN past_JJ user_NN behavior_NN --_: e.g._FW ,_, their_PRP$ previous_JJ transactions_NNS or_CC pro_NN

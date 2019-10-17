@@ -1,0 +1,5 @@
+,_, Data_NNP Envelopment_NNP Analysis_NNP ,_, ROC_NNP 1_CD ._.
+INTRODUCTION_NN Combining_VBG multiple_JJ models_NNS has_VBZ attracted_VBN interest_NN across_IN a_DT variety_NN of_IN fields_NNS including_VBG management_NN science_NN ,_, statistics_NNS ,_, data_NNS mining_NN and_CC machine_NN learning_NN =_JJ -_: =[_NN 1_CD ,_, 4_CD ,_, 6_CD ,_, 9_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Studies_NNS have_VBP shown_VBN that_IN combined_JJ models_NNS consistently_RB outperform_VBP individual_JJ models_NNS for_IN classification_NN tasks_NNS -LRB-_-LRB- 4_CD ,_, 9_CD -RRB-_-RRB- ._.
+However_RB ,_, most_JJS methods_NNS for_IN model_NN combination_NN are_VBP still_RB ad-hoc_JJ in_IN nature_NN ._.
+How_WRB individ_JJ

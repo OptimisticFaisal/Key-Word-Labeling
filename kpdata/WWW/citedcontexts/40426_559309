@@ -1,0 +1,7 @@
+ema_NN ._.
+However_RB ,_, none_NN of_IN these_DT works_NNS exploits_VBZ the_DT link_NN structure_NN to_TO provide_VB keyword-specific_JJ ranking_NN ._.
+Furthermore_RB ,_, they_PRP ignore_VBP the_DT schema_NN semantics_NNS when_WRB computing_VBG the_DT scores_NNS ._.
+Performance_NNP ._.
+A_DT set_NN of_IN works_NNS =_JJ -_: =[_NN 18_CD ,_, 11_CD ,_, 23_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP tackled_VBN the_DT problem_NN of_IN improving_VBG the_DT performance_NN of_IN the_DT original_JJ PageRank_NNP algorithm_NN ._.
+-LRB-_-LRB- 18_CD ,_, 11_CD -RRB-_-RRB- present_JJ algorithms_NNS to_TO improve_VB the_DT calculation_NN of_IN a_DT global_JJ PageRank_NN ._.
+Jeh_NNP and_CC Widom_NNP -LRB-_-LRB- 23_CD -RRB-_-RRB- present_VBP a_DT met_VBN

@@ -1,0 +1,5 @@
+ommendation_NN ._.
+In_IN a_DT similar_JJ work_NN Boldi_NNP et_FW al._FW -LRB-_-LRB- 4_LS -RRB-_-RRB- solve_VB an_DT ATSP_NN problem_NN to_TO obtain_VB the_DT sessionization_NN of_IN user_NN history_NN and_CC then_RB use_VB queries_NNS from_IN the_DT same_JJ session_NN to_TO bias_NN query_NN suggestions_NNS ._.
+Chirita_NNP et_FW al._FW =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: expand_VB a_DT user_NN 's_POS query_NN with_IN terms_NNS collected_VBN in_IN user_NN 's_POS profile_NN to_TO bias_NN search_NN results_NNS ._.
+Concept_NN Based_VBD Query_NN Suggestions_NNS ._.
+The_DT above_JJ methods_NNS all_DT find_VBP queries_NNS related_JJ to_TO the_DT current_JJ user_NN information_NN need_NN ,_,

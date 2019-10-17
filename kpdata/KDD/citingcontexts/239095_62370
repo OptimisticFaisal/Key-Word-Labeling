@@ -1,0 +1,3 @@
+e_LS space_NN -RRB-_-RRB- that_WDT are_VBP pushed_VBN apart_RB as_RB far_RB as_IN possible_JJ ._.
+This_DT formulation_NN ,_, which_WDT can_MD also_RB be_VB interpreted_VBN as_IN regularized_VBN least_JJS squares_NNS and_CC considered_VBN in_IN the_DT much_RB more_RBR general_JJ context_NN of_IN regularized_VBN networks_NNS =_JJ -_: =[_NN 8_CD ,_, 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, leads_VBZ to_TO an_DT extremely_RB fast_JJ and_CC simple_JJ algorithm_NN for_IN generating_VBG a_DT linear_JJ or_CC nonlinear_JJ classifier_NN that_WDT merely_RB requires_VBZ the_DT solution_NN of_IN a_DT single_JJ system_NN of_IN linear_JJ equations_NNS ._.
+In_IN contrast_NN ,_, standard_JJ SVMs_NNS s_NN

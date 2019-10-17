@@ -1,0 +1,4 @@
+;_: only_RB one_CD or_CC a_DT few_JJ of_IN them_PRP are_VBP names_NNS of_IN the_DT destination_NN ._.
+Additionally_RB ,_, traditional_JJ NER_NN methods_NNS suffer_VBP from_IN the_DT ungrammatical_JJ nature_NN of_IN Web_NN pages_NNS ,_, such_JJ as_IN over-capitalization_NN and_CC under-capitalization_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4_CD Algorithm_NN Description_NN In_IN this_DT section_NN ,_, we_PRP describe_VBP our_PRP$ proposed_VBN algorithms_NNS that_WDT classify_VBP the_DT route_NN components_NNS and_CC identify_VBP the_DT destination_NN names_NNS in_IN a_DT direction_NN document_NN ._.
+Given_VBN the_DT list_NN of_IN sentence_NN

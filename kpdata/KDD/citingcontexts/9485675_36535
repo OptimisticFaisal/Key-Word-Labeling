@@ -1,0 +1,3 @@
+iminative_JJ models_NNS ,_, and_CC 2_LS -RRB-_-RRB- the_DT method_NN does_VBZ not_RB depend_VB on_IN specific_JJ applications_NNS and_CC makes_VBZ no_DT assumption_NN about_IN the_DT form_NN of_IN distributions_NNS generating_VBG the_DT training_NN or_CC the_DT test_NN data_NNS ._.
+Multi-task_JJ learning_NN -LRB-_-LRB- MTL_NN -RRB-_-RRB- =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT learns_VBZ several_JJ related_JJ tasks_NNS at_IN the_DT same_JJ time_NN with_IN a_DT shared_JJ representation_NN ,_, considers_VBZ single_JJ P_NN -LRB-_-LRB- x_NN -RRB-_-RRB- and_CC multiple_JJ output_NN variables_NNS ,_, so_IN the_DT basic_JJ setting_NN is_VBZ different_JJ from_IN our_PRP$ problem_NN ._.
+The_DT ``_`` clust_NN

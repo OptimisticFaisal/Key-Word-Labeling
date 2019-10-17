@@ -1,0 +1,4 @@
+n_NN the_DT shingles_NNS set_NN -LRB-_-LRB- shingle_NN values_NNS appearing_VBG in_IN both_DT sets_NNS are_VBP underlined_VBN in_IN the_DT diagram_NN -RRB-_-RRB- ._.
+This_DT property_NN of_IN shingles_NNS has_VBZ made_VBN it_PRP very_RB popular_JJ in_IN estimating_VBG the_DT resemblance_NN and_CC containment_NN of_IN documents_NNS =_JJ -_: =[_NN 5_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Figure_NN 2_CD :_: Example_NN of_IN Shingle_FW Vs_FW MD5_NN 3.2_CD AF_NN Tree_NNP Construction_NNP The_NNP first_RB stepof_VBD our_PRP$ fragment_NN detection_NN process_NN is_VBZ to_TO convert_VB web_NN pages_NNS to_TO their_PRP$ corresponding_JJ AF_NN trees_NNS ._.
+The_DT AF_NN tree_NN can_MD be_VB constructed_VBN i_FW

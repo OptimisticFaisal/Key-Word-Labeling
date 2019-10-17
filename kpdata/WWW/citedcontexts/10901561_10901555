@@ -1,0 +1,4 @@
+-LRB-_-LRB- 6,12,17,20,25,26,28_CD -RRB-_-RRB- ;_: 2_CD ._.
+approaches_NNS for_IN naive_JJ users_NNS ,_, where_WRB no_DT familiarity_NN with_IN ad-hoc_JJ query_NN languages_NNS is_VBZ required_VBN ._.
+In_IN turn_NN ,_, these_DT approaches_NNS can_MD be_VB divided_VBN into_IN :_: --_: keyword-based_JJ approaches_NNS ,_, such_JJ as_IN =_JJ -_: =[_NN 2,4,14_CD ,_, 15,21,29,30,32,34_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB queries_NNS consist_VBP of_IN lists_NNS of_IN keywords_NNS ;_: --_: natural-language-based_JJ approaches_NNS ,_, such_JJ as_IN -LRB-_-LRB- 5,8,11,13,22,23_CD -RRB-_-RRB- ,_, where_WRB users_NNS can_MD express_VB queries_NNS by_IN means_NNS of_IN the_DT natural_JJ language_NN ._.
+In_IN the_DT following_NN ,_, we_PRP giv_VBP

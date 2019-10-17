@@ -1,0 +1,5 @@
+t_NN management_NN or_CC classification_NN ._.
+Most_JJS of_IN these_DT works_NNS exploit_VBP some_DT hierarchical_JJ clustering_NN algorithms_NNS for_IN this_DT task_NN ._.
+There_EX are_VBP two_CD directions_NNS for_IN hierarchical_JJ clustering_NN :_: agglomerative_JJ and_CC divisive_JJ ._.
+In_IN =_JJ -_: =[_NN 2_CD ,_, 5_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, all_DT employ_VBP a_DT hierarchical_JJ agglomerative_JJ clustering_NN -LRB-_-LRB- HAC_NN -RRB-_-RRB- approach_NN ._.
+In_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, the_DT centroids_NNS of_IN each_DT class_NN are_VBP used_VBN as_IN the_DT initial_JJ seeds_NNS and_CC then_RB projected_VBN clustering_NN method_NN is_VBZ applied_VBN to_TO build_VB the_DT hier_NN

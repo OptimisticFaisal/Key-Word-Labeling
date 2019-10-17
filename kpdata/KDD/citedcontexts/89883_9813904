@@ -1,0 +1,4 @@
+a_DT backtrace-like_JJ structure_NN which_WDT helps_VBZ the_DT programmer_NN to_TO find_VB follow_VB up_RP bugs_NNS ._.
+Graph_NN mining_NN is_VBZ a_DT relatively_RB new_JJ discipline_NN in_IN data_NNS mining_NN ,_, and_CC innovative_JJ algorithms_NNS have_VBP been_VBN developed_VBN in_IN recent_JJ years_NNS =_JJ -_: =[_NN 3_CD ,_, 4_CD ,_, 5_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Various_JJ algorithms_NNS deal_VBP with_IN the_DT problem_NN of_IN mining_NN frequent_JJ subgraphs_NNS ,_, i.e._FW ,_, discovering_VBG all_DT subgraphs_NNS which_WDT are_VBP frequent_JJ in_IN a_DT set_NN of_IN graphs_NNS ._.
+A_DT difficulty_NN with_IN graph_NN mining_NN on_IN raw_JJ call_NN graphs_NNS is_VBZ tha_NN

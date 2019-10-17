@@ -1,0 +1,5 @@
+uld_NN like_IN to_TO avoid_VB testing_VBG all_DT possible_JJ settings_NNS -LRB-_-LRB- 2,080_CD in_IN this_DT example_NN -RRB-_-RRB- ._.
+Instead_RB ,_, we_PRP use_VBP combinatorial_JJ design_NN ._.
+Combinatorial_JJ design_NN is_VBZ effectively_RB a_DT disciplined_JJ sampling_NN approach_NN with_IN some_DT guarantees_NNS =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT key_JJ idea_NN of_IN n-factor_NN terchangeably_RB because_IN one_PRP can_MD be_VB computed_VBN from_IN the_DT other_JJ once_IN the_DT data_NN is_VBZ normalized_VBN ._.
+Specifically_RB ,_, Pearson_NNP correlation_NN is_VBZ related_JJ to_TO Euclidean_JJ distance_NN as_IN follows_VBZ :_: D_NN 2_CD -LRB-_-LRB- ˆx_NN ,_,

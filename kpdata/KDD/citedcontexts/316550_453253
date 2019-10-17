@@ -1,0 +1,4 @@
+columns_NNS and_CC rows_NNS ._.
+Our_PRP$ CUR_NN matrix_NN decomposition_NN is_VBZ a_DT direct_JJ formulation_NN of_IN this_DT problem_NN ._.
+For_IN example_NN ,_, the_DT CUR_NN matrix_NN decomposition_NN was_VBD recently_RB applied_VBN to_TO hyperspectrally-resolved_JJ medical_JJ imaging_NN data_NN =_JJ -_: =_JJ -LRB-_-LRB- MMD06_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT application_NN ,_, a_DT column_NN corresponds_VBZ to_TO an_DT image_NN at_IN a_DT single_JJ physical_JJ frequency_NN and_CC a_DT row_NN corresponds_VBZ to_TO a_DT single_JJ spectrally-resolved_JJ pixel_NN ,_, and_CC it_PRP was_VBD shown_VBN that_IN data_NNS reconstruction_NN and_CC classi_NNS

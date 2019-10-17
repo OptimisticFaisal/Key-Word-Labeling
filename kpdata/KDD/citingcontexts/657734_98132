@@ -1,0 +1,5 @@
+points_NNS are_VBP added_VBN to_TO the_DT database_NN sequentially_RB ._.
+But_CC it_PRP has_VBZ been_VBN found_VBN that_IN most_JJS incremental_JJ algorithms_NNS tend_VBP to_TO degrade_VB in_IN performance_NN noticeably_RB and_CC frequent_JJ update_VBP is_VBZ required_VBN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+Some_DT recent_JJ work_NN =_JJ -_: =[_NN 1_CD ,_, 7_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: applies_VBZ random_JJ sampling_NN to_TO speed_VB up_RP the_DT SVD_NNP computation_NN ._.
+However_RB ,_, the_DT effectiveness_NN of_IN these_DT approaches_NNS is_VBZ dependent_JJ on_IN the_DT spectral_JJ structure_NN of_IN the_DT data_NNS matrix_NN ._.
+There_EX is_VBZ little_JJ work_NN in_IN addressing_VBG t_NN

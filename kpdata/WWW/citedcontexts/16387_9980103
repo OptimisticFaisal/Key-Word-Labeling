@@ -1,0 +1,3 @@
+role_NN in_IN the_DT Semantic_JJ Web_NN by_IN providing_VBG common_JJ vocabularies_NNS shared_VBN by_IN applications_NNS ._.
+Currently_RB ,_, the_DT Web_NN Services_NNPS Description_NN Language_NN -LRB-_-LRB- WSDL_NN -RRB-_-RRB- -LRB-_-LRB- 19_CD -RRB-_-RRB- does_VBZ not_RB support_VB semantic_JJ descriptions_NNS for_IN Web_NN services_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC the_DT Universal_NNP Description_NN ,_, Discovery_NNP and_CC Integration_NN -LRB-_-LRB- UDDI_NN -RRB-_-RRB- -LRB-_-LRB- 20_CD -RRB-_-RRB- also_RB can_MD not_RB provide_VB adequate_JJ documentation_NN of_IN Web_NN service_NN capabilities_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+To_TO address_VB their_PRP$ limitations_NNS ,_, ontology_NN languages_NNS -LRB-_-LRB- e.g_NN

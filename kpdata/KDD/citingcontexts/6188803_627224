@@ -1,0 +1,5 @@
+the_DT limitations_NNS of_IN passively_RB collected_VBN data_NNS ,_, consider_VB the_DT typical_JJ interactions_NNS of_IN search_NN engine_NN users_NNS ._.
+Usually_RB ,_, a_DT user_NN executes_VBZ a_DT query_NN then_RB perhaps_RB considers_VBZ the_DT first_JJ two_CD or_CC three_CD results_NNS presented_VBD =_JJ -_: =[_NN 14_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT feedback_NN -LRB-_-LRB- clicks_NNS -RRB-_-RRB- on_IN these_DT results_NNS is_VBZ recorded_VBN and_CC used_VBN to_TO infer_VB relevance_NN judgments_NNS ._.
+These_DT judgments_NNS are_VBP then_RB used_VBN to_TO train_VB a_DT learning_NN algorithm_NN such_JJ as_IN a_DT ranking_JJ support_NN vector_NN machine_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+I_PRP

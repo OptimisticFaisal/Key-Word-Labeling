@@ -1,0 +1,4 @@
+hods_NNS including_VBG AIGA_NN on_IN small_JJ graphs_NNS ,_, graphs_NNS of_IN 100_CD nodes_NNS ,_, and_CC then_RB compare_VB the_DT remaining_VBG methods_NNS on_IN larger_JJR graphs_NNS of_IN 2000_CD nodes_NNS ._.
+For_IN each_DT experiment_NN ,_, we_PRP first_RB report_VBP the_DT average_JJ degree_NN ,_, assortativity_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, how_WRB well_RB the_DT local_JJ model_NN LM_NN does_VBZ on_IN average_NN ,_, and_CC the_DT average_JJ perfect_JJ information_NN P_NN I_CD accuracies_NNS ._.
+The_DT first_JJ set_NN of_IN graphs_NNS of_IN 100_CD nodes_NNS had_VBD an_DT average_JJ degree_NN of_IN 3.36_CD and_CC an_DT assortativity_NN of_IN 0.62_CD ._.
+LM_NN h_NN

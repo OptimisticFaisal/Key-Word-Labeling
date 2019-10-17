@@ -1,0 +1,4 @@
+data_NNS points_NNS from_IN different_JJ clusters_NNS when_WRB the_DT number_NN of_IN clusters_NNS is_VBZ large_JJ ._.
+A_DT similar_JJ issue_NN arises_VBZ in_IN multi-class_JJ learning_NN ,_, and_CC that_DT is_VBZ why_WRB F-measure_NN is_VBZ widely_RB used_VBN for_IN evaluating_VBG multi-class_JJ learning_NN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO verify_VB the_DT efficacy_NN of_IN the_DT proposed_VBN boosting_VBG framework_NN in_IN exploiting_VBG the_DT pairwise_JJ constraints_NNS for_IN data_NNS clustering_NN ,_, three_CD baseline_NN approaches_NNS are_VBP used_VBN :_: 1_CD ._.
+Metric_NNP Pairwise_NNP Constraints_NNPS K-means_NNS -LRB-_-LRB- MPCK_NN

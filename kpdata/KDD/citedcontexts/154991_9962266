@@ -1,0 +1,5 @@
+stances_NNS of_IN relations_NNS ._.
+The_DT approaches_NNS are_VBP known_VBN for_IN their_PRP$ high_JJ accuracy_NN in_IN discovering_VBG relations_NNS ._.
+However_RB they_PRP can_MD not_RB find_VB relations_NNS which_WDT do_VBP not_RB explicitly_RB appear_VB in_IN text_NN ._.
+Clustering-based_JJ approaches_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =-[_NN 7_CD -RRB-_-RRB- hierarchically_RB cluster_NN terms_NNS based_VBN on_IN similarities_NNS of_IN their_PRP$ meanings_NNS usually_RB represented_VBN by_IN a_DT vector_NN of_IN features_NNS ._.
+The_DT approaches_NNS complement_VBP pattern-based_JJ approaches_NNS by_IN their_PRP$ ability_NN to_TO discover_VB re_NN

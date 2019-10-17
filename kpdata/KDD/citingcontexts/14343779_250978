@@ -1,0 +1,3 @@
+ve_RB less_JJR than_IN ideal_JJ results_NNS -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+One_CD approach_NN is_VBZ to_TO set_VB per-class_JJ weights_NNS on_IN the_DT loss_NN function_NN to_TO emphasize_VB the_DT importance_NN of_IN the_DT minority_NN class_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, but_CC we_PRP have_VBP found_VBN -LRB-_-LRB- in_IN accordance_NN with_IN prior_JJ work_NN =_JJ -_: =[_NN 18_CD ,_, 26_CD -RRB-_-RRB- -_: =--RRB-_NN that_IN using_VBG a_DT pairwise_JJ objective_NN function_NN both_CC improves_VBZ results_NNS and_CC eliminates_VBZ the_DT need_NN to_TO tune_VB special_JJ per-class_JJ weights_NNS ._.
+In_IN the_DT binary-class_JJ case_NN ,_, we_PRP refer_VBP to_TO this_DT pairwise_JJ method_NN as_IN the_DT ROC_NNP Area_NNP S_NNP

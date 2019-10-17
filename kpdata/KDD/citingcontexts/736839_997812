@@ -1,0 +1,4 @@
+or_CC any_DT pair_NN of_IN objects_NNS x_NN ,_, y_FW ∈_FW O_NN ,_, and_CC any_DT pair_NN of_IN attributes_NNS a_DT ,_, b_NN ∈_NN A_NN ,_, the_DT difference_NN of_IN change_NN of_IN values_NNS on_IN attributes_NNS a_DT and_CC b_NN between_IN objects_NNS x_NN and_CC y_NN is_VBZ smaller_JJR than_IN a_DT threshold_JJ δ_NN ._.
+In_IN a_DT recent_JJ study_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Pei_NNP et_FW al._FW has_VBZ proposed_VBN an_DT efficient_JJ algorithm_NN ,_, MaPle_NNP to_TO mine_VB the_DT complete_JJ set_NN of_IN maximal_JJ pattern-based_JJ clusters_NNS ._.
+We_PRP borrow_VBP some_DT important_JJ ideas_NNS from_IN previous_JJ studies_NNS on_IN frequent_JJ itemset_NN mining_NN ._.
+Fir_NN

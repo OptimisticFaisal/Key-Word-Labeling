@@ -1,0 +1,4 @@
+support_NN may_MD not_RB be_VB a_DT relevant_JJ criterion_NN to_TO select_JJ rules_NNS ._.
+For_IN example_NN ,_, often_RB high-value_JJ rules_NNS relate_VBP to_TO infrequent_JJ associations_NNS ,_, a_DT problem_NN known_VBN as_IN the_DT vodka_NN and_CC caviar_NN problem_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+The_DT GRD_NNP algorithm_NN =_JJ -_: =[_NN 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: implements_VBZ k-most_NN interesting_JJ rule_NN discovery_NN ._.
+This_DT approach_NN avoids_VBZ the_DT need_NN to_TO specify_VB a_DT minimum_JJ support_NN constraint_NN ,_, replacing_VBG it_PRP by_IN a_DT constraint_NN on_IN the_DT number_NN of_IN rules_NNS to_TO be_VB found_VBN together_RB with_IN the_DT

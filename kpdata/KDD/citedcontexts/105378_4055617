@@ -1,0 +1,6 @@
+overset_NN -LRB-_-LRB- S2_NN -RRB-_-RRB- ⊆_FW coverset_FW -LRB-_-LRB- S1_NN -RRB-_-RRB- holds_VBZ ._.
+⊓_NNP ⊔_NNP Theorem_NNP 2_CD ._.
+Suppose_VB AR_NN by_IN OPUS_NN =_JJ -LRB-_-LRB- C_NN ,_, D_NN ,_, A_NN ,_, M_NN -RRB-_-RRB- ._.
+For_IN any_DT nonempty_JJ S1_NN ,_, S2_NN ,_, S3_NN ⊆_NN C_NN satisfying_JJ S1_NN ∩_NN S2_NN =_JJ ∅_NN ,_, S2_NN ∩_NN S3_NN =_JJ ∅_NN ,_, and_CC S1_NN ∩_NN S3_NN =_JJ ∅_CD ,_, if_IN the_DT following_NN holds_VBZ ._.
+Proof_NN ._.
+From_IN =_JJ -_: =-LRB-_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Definition_NN 1_CD ,_, we_PRP have_VBP From_IN Theorem_NNP 1_CD ,_, From_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 4_LS -RRB-_-RRB- ,_, we_PRP get_VBP cover_NN -LRB-_-LRB- S1_NN -RRB-_-RRB- =_JJ cover_NN -LRB-_-LRB- S1_NN ∪_NN S2_NN -RRB-_-RRB- -LRB-_-LRB- 1_LS -RRB-_-RRB- cover_NN -LRB-_-LRB- S1_NN ∪_NN S3_NN -RRB-_-RRB- =_JJ cover_NN -LRB-_-LRB- S1_NN ∪_NN S2_NN ∪_NN S3_NN -RRB-_-RRB- -LRB-_-LRB- 2_CD -RRB-_-RRB- |_FW coverset_FW -LRB-_-LRB- S1_NN -RRB-_-RRB- |_NN =_JJ |_FW coverset_FW -LRB-_-LRB- S1_NN ∪_NN S2_NN -RRB-_-RRB- |_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- coverset_NN -LRB-_-LRB- S1_NN -RRB-_-RRB- ⊇_NN covers_VBZ

@@ -1,0 +1,5 @@
+ntrusion_NN -RRB-_-RRB- ._.
+We_PRP also_RB use_VBP automatic_JJ pattern_NN encoding_NN and_CC comparison_NN algorithms_NNS to_TO produce_VB input_NN patterns_NNS for_IN the_DT feature_NN construction_NN program_NN ._.
+Our_PRP$ work_NN is_VBZ related_JJ to_TO cost-sensitive_JJ learning_NN ,_, for_IN example_NN =_JJ -_: =_JJ -LRB-_-LRB- Tur95_NN -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB both_CC the_DT cost_NN of_IN tests_NNS -LRB-_-LRB- and_CC features_NNS -RRB-_-RRB- and_CC accuracy_NN are_VBP crucial_JJ criteria_NNS when_WRB building_NN models_NNS ._.
+The_DT cost_NN of_IN model_NN evaluation_NN adds_VBZ a_DT significant_JJ twist_NN to_TO this_DT approach_NN ._.
+We_PRP plan_VBP further_JJ study_NN and_CC

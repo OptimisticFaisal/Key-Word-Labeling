@@ -1,0 +1,5 @@
+scalability_NN is_VBZ the_DT apriori_JJ property_NN ._.
+There_EX are_VBP several_JJ variants_NNS of_IN it_PRP ._.
+Iterative_JJ pattern_NN obeys_VBZ the_DT following_JJ apriori_NN property_NN utilized_VBN by_IN depth-first_JJ search_NN sequential_JJ pattern_NN miners_NNS -LRB-_-LRB- e.g._FW ,_, FreeSpan_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: and_CC PrefixSpan_NNP -LRB-_-LRB- 25_CD -RRB-_-RRB- -RRB-_-RRB- which_WDT states_NNS :_: If_IN P_NN is_VBZ not_RB frequent_JJ then_RB P_NN +_CC +_CC evs_NNS -LRB-_-LRB- where_WRB evs_NN is_VBZ a_DT series_NN of_IN events_NNS -RRB-_-RRB- is_VBZ also_RB not_RB frequent_JJ ._.
+Apriori_JJ property_NN holds_VBZ for_IN both_DT sequential_JJ patterns_NNS and_CC episodes_NNS ._.
+To_TO ensur_VB

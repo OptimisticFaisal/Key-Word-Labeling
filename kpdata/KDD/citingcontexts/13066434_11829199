@@ -1,0 +1,6 @@
+fying_VBG certain_JJ technical_JJ conditions_NNS ._.
+It_PRP runs_VBZ in_IN O_NN -LRB-_-LRB- n_NN -RRB-_-RRB- time_NN per_IN iteration_NN ._.
+For_IN the_DT robust_JJ case_NN -LRB-_-LRB- Err_NN -LRB-_-LRB- δ_NN -RRB-_-RRB- =_JJ |_FW δ_FW |_NN -RRB-_-RRB- ,_, the_DT Karcher_NNP scheme_NN no_RB longer_JJR works_NNS ._.
+For_IN this_DT case_NN ,_, we_PRP make_VBP use_NN of_IN a_DT Weiszfeld-like_JJ adaption_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT again_RB works_VBZ on_IN general_JJ Riemannian_JJ manifolds_NNS ,_, and_CC on_IN the_DT sphere_NN in_IN particular_JJ ._.
+Like_IN the_DT Weiszfeld_NNP scheme_NN ,_, this_DT approach_NN takes_VBZ O_NN -LRB-_-LRB- n_NN -RRB-_-RRB- time_NN per_IN iteration_NN ._.
+4.3_CD Convergence_NN Proofs_NNS Here_RB we_PRP prove_VBP that_IN ea_NN

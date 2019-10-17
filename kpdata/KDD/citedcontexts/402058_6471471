@@ -1,0 +1,5 @@
+robability_NN distribution_NN ,_, where_WRB the_DT number_NN of_IN clusters_NNS has_VBZ to_TO be_VB specified_VBN ._.
+The_DT Cross-association_NN method_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- formulates_VBZ the_DT co-clustering_JJ problem_NN as_IN a_DT binary_JJ matrix_NN compression_NN problem_NN ._.
+Noble_NNP and_CC Cook_NNP =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP an_DT entropy-based_JJ anomaly_NN detection_NN scheme_NN for_IN graphs_NNS ._.
+All_DT these_DT methods_NNS deal_VBP with_IN static_JJ matrices_NNS or_CC graphs_NNS ,_, while_IN GraphScope_NN is_VBZ designed_VBN to_TO work_VB with_IN dynamic_JJ streams_NNS ._.
+Moreover_RB ,_, most_JJS of_IN metho_NN

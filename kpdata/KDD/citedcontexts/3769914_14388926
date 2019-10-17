@@ -1,0 +1,5 @@
+1_CD ._.
+INTRODUCTION_NN Graph_NN pattern_NN matching_NN is_VBZ being_VBG increasingly_RB used_VBN in_IN various_JJ applications_NNS ,_, e.g._FW ,_, software_NN plagiarism_NN detection_NN ,_, protein_NN interaction_NN networks_NNS ,_, social_JJ networks_NNS and_CC intelligence_NN analysis_NN =_JJ -_: =[_NN 18_CD ,_, 25_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Graph_NN matching_NN is_VBZ typically_RB defined_VBN in_IN terms_NNS of_IN subgraph_NN isomorphism_NN -LRB-_-LRB- see_VB ,_, e.g._FW ,_, -LRB-_-LRB- 15_CD -RRB-_-RRB- for_IN a_DT survey_NN -RRB-_-RRB- ._.
+Hence_RB the_DT problem_NN is_VBZ np-complete_JJ -LRB-_-LRB- 27_CD -RRB-_-RRB- ._.
+Furthermore_RB ,_, subgraph_NN isomorphism_NN is_VBZ often_RB too_RB restrictive_JJ

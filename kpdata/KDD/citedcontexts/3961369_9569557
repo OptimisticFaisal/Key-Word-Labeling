@@ -1,0 +1,3 @@
+iting_VBG from_IN Department_NNP of_IN Computer_NNP Science_NNP ,_, Babes-Bolyai_NNP University_NNP ,_, Romania_NNP tuple_NN corresponds_VBZ to_TO one_CD individual_JJ entity_NN -RRB-_-RRB- ._.
+Of_IN particular_JJ interest_NN are_VBP the_DT cost_NN metrics_NNS that_WDT quantify_VBP the_DT information_NN loss_NN =_JJ -_: =[_NN 2_CD ,_, 5_CD ,_, 19_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Although_IN producing_VBG the_DT optimal_JJ solution_NN for_IN the_DT k-anonymity_NN problem_NN w.r.t._NN various_JJ proposed_VBN cost_NN measures_NNS has_VBZ been_VBN proved_VBN to_TO be_VB NP-hard_JJ -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, there_EX are_VBP several_JJ polynomial_JJ algorithms_NNS that_WDT produce_VBP good_JJ

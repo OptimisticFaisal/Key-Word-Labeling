@@ -1,0 +1,4 @@
+uch_NN as_IN R-tree_NN and_CC X-tree_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- are_VBP employed_VBN ._.
+A_DT top-n_NN based_VBN local_JJ outliers_NNS mining_NN algorithm_NN which_WDT uses_VBZ distance_NN bound_VBN of_IN micro-cluster_NN to_TO estimate_VB the_DT density_NN ,_, was_VBD presented_VBN in_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Lazarevic_NNP and_CC Kumar_NNP =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT local_JJ outlier_NN detection_NN algorithm_NN with_IN a_DT technique_NN called_VBN ``_`` feature_NN bagging_NN ''_'' ._.
+Some_DT clustering_NN algorithms_NNS like_IN DBSCAN_NNP -LRB-_-LRB- 9_CD -RRB-_-RRB- consider_VBP identifying_VBG outliers_NNS ,_, but_CC only_RB to_TO the_DT point_NN of_IN ensuring_VBG tha_NN

@@ -1,0 +1,4 @@
+ion_NN we_PRP compare_VBP the_DT different_JJ versions_NNS of_IN DL8_NN in_IN terms_NNS of_IN efficiency_NN ;_: furthermore_RB ,_, we_PRP compare_VBP the_DT quality_NN of_IN the_DT constructed_VBN trees_NNS with_IN those_DT found_VBN by_IN J48_NN ,_, the_DT Java_NNP implementation_NN of_IN C4_NN .5_CD -LRB-_-LRB- 28_CD -RRB-_-RRB- in_IN Weka_NN =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+All_DT experiments_NNS were_VBD performed_VBN on_IN Intel_NNP Pentium_NNP 4_CD machines_NNS with_IN in_IN between_IN 1GB_NN and_CC 2GB_NN of_IN main_JJ memory_NN ,_, running_VBG Linux_NNP ._.
+DL8_NN and_CC the_DT frequent_JJ itemset_NN miners_NNS were_VBD implemented_VBN in_IN C_NN +_CC +_CC ._.
+The_DT experiments_NNS wer_VBP

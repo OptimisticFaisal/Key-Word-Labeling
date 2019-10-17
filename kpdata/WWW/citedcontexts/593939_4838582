@@ -1,0 +1,3 @@
+ly_RB ,_, we_PRP collected_VBD 411_CD result_NN pages_NNS -LRB-_-LRB- some_DT search_NN engines_NNS return_VBP no_DT result_NN for_IN some_DT queries_NNS -RRB-_-RRB- ._.
+The_DT search_NN result_NN records_NNS on_IN every_DT result_NN page_NN are_VBP extracted_VBN using_VBG an_DT automatic_JJ extraction_NN tool_NN called_VBD ViNTs_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- note_NN :_: ViNTs_JJ extracts_NNS SRRs_NNS only_RB and_CC it_PRP does_VBZ not_RB extract_VB publication_NN times_NNS -RRB-_-RRB- ._.
+For_IN each_DT search_NN engine_NN ,_, the_DT 411_CD result_NN pages_NNS are_VBP partitioned_VBN into_IN two_CD sets_NNS :_: Dataset_NN 1_CD contains_VBZ those_DT that_WDT are_VBP returned_VBN from_IN

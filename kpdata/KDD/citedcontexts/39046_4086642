@@ -1,0 +1,4 @@
+t_NN terms_NNS ._.
+With_IN click-through_JJ data_NNS ,_, the_DT probabilistic_JJ correlations_NNS between_IN query_NN terms_NNS and_CC documents_NNS terms_NNS can_MD be_VB extracted_VBN and_CC high_JJ quality_NN term_NN expansion_NN can_MD be_VB conducted_VBN ._.
+Furthermore_RB ,_, Beeferman_NNP etc._NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP methods_NNS for_IN harvesting_VBG clusters_NNS of_IN queries_NNS and_CC web_NN pages_NNS by_IN using_VBG click-through_JJ data_NNS ._.
+Ling_NNP et_FW al_FW -LRB-_-LRB- 14_CD -RRB-_-RRB- investigate_VBP a_DT similar_JJ problem_NN ,_, but_CC focus_VB on_IN the_DT issue_NN of_IN finding_VBG generalized_JJ query_NN patter_NN

@@ -1,0 +1,4 @@
+the_DT user_NN will_MD be_VB interested_JJ in_IN the_DT entity_NN ._.
+3.2.2_CD Mining_NNP PLEDS_NNP Clickthrough_NNP History_NN Search_VB engine_NN clickthrough_JJ data_NNS has_VBZ been_VBN widely_RB accepted_VBN as_IN a_DT useful_JJ source_NN of_IN implicit_JJ user_NN feedback_NN ._.
+Previous_JJ work_NN =_JJ -_: =[_NN 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: analyzed_VBN search_NN clickthrough_NN data_NNS to_TO improve_VB query_NN ranking_NN results_NNS ._.
+In_IN contrast_NN to_TO explicit_JJ feedback_NN -LRB-_-LRB- e.g._FW ,_, users_NNS '_POS servey_NN -RRB-_-RRB- ,_, such_JJ implicit_JJ feedback_NN has_VBZ several_JJ advantages_NNS :_: the_DT collection_NN cost_NN is_VBZ much_RB

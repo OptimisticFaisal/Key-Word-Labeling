@@ -1,0 +1,5 @@
+NA_NN levels_NNS for_IN 6113_CD genes_NNS ,_, over_IN about_IN two_CD and_CC a_DT half_JJ cell_NN cycle_NN periods_NNS ,_, in_IN a_DT yeast_NN culture_NN synchronized_VBN by_IN CDC15_NN ,_, relative_JJ to_TO a_DT reference_NN mRNA_NN from_IN an_DT asynchronous_JJ yeast_NN culture_NN ;_: for_IN more_JJR details_NNS see_VBP =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT dataset_NN was_VBD taken_VBN fromgenome-www_NN ._.
+stanford.edu\/SVD_NN ._.
+This_DT dataset_NN was_VBD heavily_RB processed_VBN in_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, filtering_VBG out_RP the_DT uninteresting_JJ information_NN using_VBG singular_JJ value_NN decomposition_NN ._.
+It_PRP was_VBD shown_VBN there_EX t_NN

@@ -1,0 +1,4 @@
+arge_NN training_NN set_NN sizes_NNS ._.
+We_PRP considered_VBD the_DT use_NN of_IN parallelized_FW SVMs_FW ,_, but_CC preferred_VBD a_DT faster_JJR method_NN that_WDT yields_VBZ an_DT ǫ-accurate_NN model_NN :_: the_DT Pegasos_NNP -LRB-_-LRB- Primal_JJ Estimated_JJ subGrAdient_NN SOlver_NN for_IN SVM_NN -RRB-_-RRB- algorithm_NN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT iterative_JJ SVM_NN solver_NN is_VBZ especially_RB well-suited_JJ for_IN learning_VBG from_IN large_JJ datasets_NNS ._.
+It_PRP proposes_VBZ a_DT method_NN that_WDT alternates_VBZ between_IN two_CD steps_NNS :_: stochastic_JJ sub-gradient_JJ descent_NN and_CC projection_NN of_IN the_DT hy_NN

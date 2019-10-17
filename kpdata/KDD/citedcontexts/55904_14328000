@@ -1,0 +1,4 @@
+-LRB-_-LRB- Jindal_NNP and_CC Liu_NNP ,_, 2006_CD -RRB-_-RRB- ,_, the_DT detection_NN of_IN erroneous_JJ sentences_NNS -LRB-_-LRB- Sun_NNP et_FW al._FW ,_, 2007_CD -RRB-_-RRB- and_CC question_NN sentences_NNS -LRB-_-LRB- Cong_NNP et_FW al._FW ,_, 2008_CD -RRB-_-RRB- etc._NN ._.
+However_RB ,_, works_VBZ on_IN syntactic_JJ patterns_NNS have_VBP only_RB been_VBN partially_RB explored_VBN -LRB-_-LRB- =_JJ -_: =_JJ Zaki_NNP and_CC Aggarwal_NNP ,_, 2003_CD -_: =_JJ -_: ;_: Sun_NNP et_FW al._FW ,_, 2007_CD ;_: Wang_NNP et_FW al._FW ,_, 2009_CD -RRB-_-RRB- ._.
+Grounded_VBN on_IN these_DT previous_JJ works_NNS ,_, we_PRP next_RB explain_VBP our_PRP$ mining_NN approach_NN of_IN the_DT sequential_JJ and_CC syntactic_JJ shallow_JJ patterns_NNS ._.
+2.1_CD Sequential_NNP Pattern_NNP Mining_NNP Sequential_NNP

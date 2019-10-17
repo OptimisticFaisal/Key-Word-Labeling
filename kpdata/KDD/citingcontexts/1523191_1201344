@@ -1,0 +1,5 @@
+ses_NNS ._.
+An_DT example_NN of_IN spatial_JJ association_NN mining_NN in_IN geographic_JJ maps_NNS is_VBZ described_VBN in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+It_PRP has_VBZ recently_RB been_VBN extended_VBN to_TO mine_VB topological_JJ relations_NNS between_IN object_NN pairs_NNS from_IN the_DT general_JJ category_NN images_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, this_DT approach_NN requires_VBZ a_DT pre-defined_JJ concept_NN hierarchy_NN ._.
+In_IN addition_NN ,_, the_DT refinement_NN of_IN the_DT topological_JJ relations_NNS requires_VBZ many_JJ passes_NNS through_IN the_DT object_NN database_NN ,_, rendering_VBG the_DT algorithm_NN ex_FW

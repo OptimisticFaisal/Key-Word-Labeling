@@ -1,0 +1,4 @@
+the_DT primal_JJ variable_NN -RRB-_-RRB- ,_, such_JJ as_IN QR_NN factorization_NN ,_, involve_VBP O_NN -LRB-_-LRB- dn2_NN -RRB-_-RRB- floating_JJ point_NN operations_NNS -LRB-_-LRB- flops_NNS -RRB-_-RRB- 10_CD ._.
+When_WRB d_FW ≫_FW n_NN ,_, one_PRP can_MD reduce_VB the_DT computational_JJ complexity_NN by_IN working_VBG with_IN the_DT kernel_NN version_NN of_IN Eq_NN ._.
+=_SYM -_: =-LRB-_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: instead_RB ._.
+Assuming_VBG that_DT ˆw_NN can_MD be_VB rewritten_VBN as_IN a_DT linear_JJ combination_NN of_IN the_DT training_NN data_NNS ,_, i.e._FW ,_, ˆw_NN =_JJ ˆ_FW Xβ_FW ,_, β_FW ∈_FW Rn_NN ,_, β_NN -LRB-_-LRB- hereafter_RB referred_VBN to_TO as_IN the_DT dual_JJ variable_NN -RRB-_-RRB- can_MD be_VB determined_VBN instead_RB :_: min_NN ˆw_NN

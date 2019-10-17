@@ -1,0 +1,4 @@
+l_NN trust_NN value_NN for_IN every_DT pair_NN of_IN nodes_NNS ,_, or_CC a_DT local_JJ trust_NN system_NN giving_VBG a_DT trust_NN value_NN only_RB for_IN neighbors_NNS ._.
+Both_DT have_VBP been_VBN extensively_RB studied_VBN ._.
+One_CD example_NN of_IN computing_VBG a_DT global_JJ trust_NN state_NN is_VBZ EigenTrust_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+EigenTrust_NNP is_VBZ developed_VBN so_IN that_DT malicious_JJ trust_NN values_NNS can_MD be_VB discovered_VBN and_CC ignored_VBN ;_: this_DT is_VBZ accomplished_VBN via_IN repeating_VBG the_DT computation_NN of_IN a_DT single_JJ node_NN 's_POS trust_NN value_NN on_IN a_DT set_NN of_IN random_JJ nodes_NNS and_CC t_NN

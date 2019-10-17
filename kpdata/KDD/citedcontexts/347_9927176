@@ -1,0 +1,5 @@
+._.
+Support_NN information_NN is_VBZ critical_JJ if_IN the_DT patterns_NNS are_VBP used_VBN for_IN rule_NN generation_NN ,_, as_IN it_PRP is_VBZ essential_JJ for_IN confidence_NN computation_NN ._.
+To_TO circumvent_VB that_IN ,_, Closed_JJ Frequent_JJ Pattern_NNP Mining_NNP was_VBD proposed_VBN by_IN Zaki_NNP -LRB-_-LRB- =_JJ -_: =_JJ Zaki_NNP ,_, 2000_CD -_: =--RRB-_NN ._.
+A_DT pattern_NN is_VBZ called_VBN closed_JJ ,_, if_IN it_PRP has_VBZ no_DT super-pattern_NN with_IN the_DT same_JJ support_NN ._.
+The_DT compressibility_NN of_IN closed_JJ frequent_JJ mining_NN is_VBZ smaller_JJR than_IN the_DT maximal_JJ pattern_NN mining_NN ,_, but_CC for_IN the_DT earlier_JJR ,_, all_DT freq_NN

@@ -1,0 +1,3 @@
+valuation_NN methodology_NN used_VBN was_VBD Interleaved_NNP Test-Then-Train_NNP or_CC Prequential_JJ evaluation_NN -LRB-_-LRB- based_VBN on_IN 10_CD runs_NNS for_IN the_DT artificial_JJ data_NNS -RRB-_-RRB- :_: every_DT example_NN was_VBD used_VBN for_IN testing_VBG the_DT model_NN before_IN using_VBG it_PRP to_TO train_VB -LRB-_-LRB- =_JJ -_: =_JJ Gama_NNP et_FW al._FW ,_, 2009_CD -_: =--RRB-_NN ._.
+This_DT interleaved_JJ test_NN followed_VBN by_IN train_NN procedure_NN was_VBD carried_VBN out_RP on_IN the_DT full_JJ training_NN set_VBN in_IN each_DT case_NN ._.
+The_DT parameters_NNS of_IN the_DT artificial_JJ streams_NNS are_VBP as_IN follows_VBZ :_: •_CD RBF_NN -LRB-_-LRB- x_NN ,_, v_LS -RRB-_-RRB- :_: RandomRBF_NN data_NNS stream_NN o_NN

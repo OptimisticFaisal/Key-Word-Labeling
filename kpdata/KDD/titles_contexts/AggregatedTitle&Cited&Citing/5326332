@@ -1,0 +1,10 @@
+iLink_NN :_: search_NN and_CC routing_VBG in_IN social_JJ networks_NNS
+gorithms_NNS ,_, particularly_RB in_IN P2P_NNP Networks_NNP ._.
+In_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, queries_NNS are_VBP routed_VBN via_IN a_DT relationship-based_JJ overlay_NN network_NN ._.
+In_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, answerers_NNS of_IN a_DT multicast_JJ query_NN are_VBP ranked_VBN via_IN a_DT decentralized_JJ authority_NN score_NN ._.
+In_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, queries_NNS are_VBP routed_VBN through_IN a_DT supernode_NN that_IN routes_NNS to_TO answerers_NNS based_VBN on_IN authority_NN ,_, responsiveness_NN ,_, and_CC expertise_NN ,_, and_CC in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, supernodes_NNS maintain_VBP expertise_NN tables_NNS for_IN routing_VBG ._.
+Banerjee_NNP and_CC Basu_NNP -LRB-_-LRB- 1_CD
+vents_NNS and_CC subject_JJ matter_NN experts_NNS on_IN the_DT Enhanced_VBN Event_NN page_NN ,_, and_CC suggesting_VBG similar_JJ Q&A_NN pairs_NNS and_CC subject_JJ matter_NN experts_NNS on_IN the_DT Ask_NN a_DT Question_NN page_NN ._.
+A_DT technical_JJ paper_NN on_IN iLink_NN is_VBZ available_JJ -LRB-_-LRB- reference_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+3.3.2.1.1_CD Using_VBG iLink_NN as_IN a_DT Recommendation_NNP Engine_NNP iLink_NNP performed_VBD poorly_RB as_IN a_DT recommendation_NN engine_NN ._.
+This_DT was_VBD due_JJ in_IN part_NN to_TO some_DT design_NN choices_NNS in_IN iLink_NNP that_WDT conflict_VBP with_IN the_DT SKIWeb_NN usage_NN paradigm_NN

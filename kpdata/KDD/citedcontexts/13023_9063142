@@ -1,0 +1,5 @@
+d_NN 4_CD ._.
+insert_VB the_DT string_NN s1s2_NN ..._: sh_NN into_IN the_DT aggregate_JJ trie_NN with_IN height_NN h._NN The_DT first_JJ three_CD steps_NNS transform_VBP the_DT time_NN series_NN to_TO its_PRP$ symbolic_JJ representation_NN as_IN proposed_VBN by_IN Lin_NNP et_FW al._FW -LRB-_-LRB- 28_CD -RRB-_-RRB- and_CC Keogh_NNP et_FW al._FW =_SYM -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Fig._NNP 5_CD illustrates_VBZ an_DT example_NN of_IN this_DT transformation_NN ._.
+Assume_VB that_IN the_DT value_NN domain_NN of_IN a_DT time_NN series_NN T_NN 0_CD is_VBZ -LRB-_-LRB- -1.5_CD ,_, 1.5_CD -RRB-_-RRB- ._.
+We_PRP partition_NN it_PRP into_IN three_CD smaller_JJR ranges_NNS of_IN equal_JJ size_NN ,_, say_VB ,_, -LRB-_-LRB- 0.5_CD ,_, 1.5_CD -RRB-_-RRB- ,_, -LRB-_-LRB- -0_CD ._.

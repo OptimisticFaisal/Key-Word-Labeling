@@ -1,0 +1,4 @@
+matrix_NN is_VBZ retained_VBN in_IN the_DT sub-matrix_NN of_IN selected_VBN representatives_NNS ._.
+Co-clustering_JJ algorithms_NNS which_WDT cluster_VBP rows_NNS and_CC columns_NNS of_IN a_DT data_NN matrix_NN simultaneously_RB based_VBN on_IN information_NN theory_NN are_VBP presented_VBN in_IN =_JJ -_: =[_NN 1_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Dhillon_NNP et_FW al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- generates_VBZ a_DT flat_JJ partition_NN of_IN the_DT data_NNS matrix_NN into_IN row_NN and_CC column_NN clusters_NNS that_WDT maximizes_VBZ the_DT mutual_JJ information_NN ._.
+The_DT algorithm_NN proposed_VBN by_IN Chakrabarti_NNP et_FW al._FW -LRB-_-LRB- 1_LS -RRB-_-RRB- partitions_NNS the_DT r_NN

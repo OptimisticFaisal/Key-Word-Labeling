@@ -1,0 +1,4 @@
+a_DT good_JJ indicator_NN to_TO identify_VB the_DT community_NN in_IN the_DT graph_NN ._.
+A_DT significant_JJ deviation_NN from_IN such_JJ structure_NN often_RB implies_VBZ anomalies_NNS in_IN the_DT graph_NN ._.
+For_IN static_JJ graphs_NNS ,_, the_DT most_RBS popular_JJ choices_NNS include_VBP SVD\/PCA_NN =_JJ -_: =[_NN 14_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: and_CC random_JJ projection_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+However_RB ,_, these_DT methods_NNS often_RB ignore_VBP the_DT sparseness_NN of_IN many_JJ real_JJ graphs_NNS and_CC therefore_RB often_RB need_VBP huge_JJ amount_NN of_IN space_NN and_CC processing_NN time_NN -LRB-_-LRB- See_NNP -LRB-_-LRB- 28_CD -RRB-_-RRB- for_IN a_DT detailed_JJ evaluatio_NN

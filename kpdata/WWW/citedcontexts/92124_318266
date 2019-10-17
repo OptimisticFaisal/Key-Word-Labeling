@@ -1,0 +1,4 @@
+shields_NNS the_DT user_NN from_IN error-prone_JJ low-level_JJ access_NN ._.
+It_PRP is_VBZ possible_JJ to_TO further_RB extend_VB this_DT API_NN to_TO define_VB customtailored_JJ classes_NNS for_IN OWL_NN extensions_NNS like_IN OWL-S_NN and_CC the_DT Semantic_JJ Web_NN Rule_NN Language_NN -LRB-_-LRB- SWRL_NN -RRB-_-RRB- =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, individuals_NNS of_IN the_DT SWRL_NN class_NN AtomList_NN could_MD be_VB represented_VBN by_IN instances_NNS of_IN a_DT corresponding_JJ Java_NNP class_NN such_JJ as_IN AtomListInstance_NNP ._.
+Algorithms_NNS for_IN SWRL_NNP could_MD then_RB operate_VB on_IN more_JJR convenien_NN

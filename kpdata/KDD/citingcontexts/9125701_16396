@@ -1,0 +1,4 @@
+pled_VBN for_IN all_DT word_NN tokens_NNS in_IN a_DT paper_NN ._.
+For_IN inference_NN in_IN ACT3_NN ,_, there_EX is_VBZ a_DT slight_JJ difference_NN from_IN that_DT in_IN ACT1_NN and_CC ACT2_NN ,_, as_IN we_PRP also_RB need_VBP to_TO estimate_VB the_DT parameters_NNS η_NN and_CC σ_NN 2_CD ._.
+We_PRP use_VBP a_DT Gibbs_NNP EM_NNP algorithm_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: for_IN inference_NN of_IN this_DT model_NN ._.
+In_IN the_DT E-step_NN ,_, for_IN sampling_NN the_DT topic_NN ,_, the_DT posterior_JJ probability_NN is_VBZ calculated_VBN by_IN P_NN -LRB-_-LRB- zdi_NN ,_, xdi_FW |_FW z_SYM −_FW di_FW ,_, x_CC −_FW di_FW ,_, cd_NN ,_, w_NN ,_, α_NN ,_, β_NN ,_, η_NN ,_, σ_NN 2_CD -RRB-_-RRB- ∝_NN P_NN -LRB-_-LRB- cd_FW |_FW z1_NN :_: N_NN ,_, η_NN ,_, σ_NN d_NN 2_CD -RRB-_-RRB- m_NN −_FW di_FW xdiz_NN +_CC αz_NN d_NN

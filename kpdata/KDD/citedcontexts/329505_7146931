@@ -1,0 +1,5 @@
+minimal_JJ values_NNS ._.
+If_IN the_DT measure_NN is_VBZ greater_JJR than_IN min_NN I_CD ,_, this_DT feature_NN pair_NN is_VBZ considered_VBN to_TO be_VB correlated_VBN ._.
+Line_NN 11_CD builds_VBZ the_DT interaction_NN tree_NN using_VBG the_DT set_NN of_IN interaction_NN pairs_NNS as_IN the_DT tree_NN proposed_VBN in_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Line_NN 12_CD invokes_VBZ algorithm_NN EvalSIP_NN -LRB-_-LRB- ·_NN -RRB-_-RRB- to_TO recursively_RB visit_VB the_DT necessary_JJ feature_NN nodes_NNS in_IN interaction_NN tree_NN ,_, starting_VBG from_IN the_DT root_NN node_NN of_IN tree_NN ._.
+Finally_RB ,_, Line_NNP 13_CD returns_NNS the_DT maximal_JJ pattern_NN set_VBN C._NNP C_NNP

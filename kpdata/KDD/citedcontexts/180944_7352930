@@ -1,0 +1,6 @@
+rocessing_VBG time_NN and_CC overhead_NN ,_, the_DT speed-ups_NNS in_IN actual_JJ CPU_NNP time_NN are_VBP often_RB quite_RB significant_JJ ._.
+-LRB-_-LRB- See_VB -LRB-_-LRB- 6_CD -RRB-_-RRB- for_IN further_JJ details_NNS ._. -RRB-_-RRB-
+Other_JJ algorithms_NNS for_IN accelerating_VBG k-means_NNS have_VBP been_VBN given_VBN by_IN Pelleg_NNP and_CC Moore_NNP =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Phillips_NNP -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+sB_NN ._.
+ISOCLUS_NNP Algorithm_NNP ISOCLUS_NNP is_VBZ a_DT clustering_NN algorithm_NN based_VBN on_IN the_DT ISODATA_NN clustering_NN algorithm_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 13_CD -RRB-_-RRB- with_IN minor_JJ modifications_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Like_IN the_DT k-means_NN algorithm_NN ,_, ISOCLUS_NN tries_VBZ t_NN

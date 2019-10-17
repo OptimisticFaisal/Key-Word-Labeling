@@ -1,0 +1,5 @@
+neighbor_NN methods_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Other_JJ technology_NN that_WDT has_VBZ been_VBN used_VBN is_VBZ Horting_NNP ,_, that_WDT is_VBZ a_DT graphbased_JJ technique_NN in_IN which_WDT nodes_NNS are_VBP users_NNS ,_, and_CC edges_NNS between_IN nodes_NNS indicate_VBP degree_NN of_IN similarity_NN between_IN the_DT users_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Walking_VBG the_DT graph_NN nearby_JJ nodes_NNS and_CC combining_VBG the_DT opinions_NNS of_IN the_DT nearby_JJ users_NNS produces_VBZ predictions_NNS ._.
+3_CD The_DT Systems_NNP 's_POS Model_NNP The_DT recommender_NN system_NN will_MD be_VB used_VBN for_IN performing_VBG the_DT following_JJ tasks_NNS :_: 1_CD ._.
+A_DT

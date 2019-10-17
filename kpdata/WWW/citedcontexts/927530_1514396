@@ -1,0 +1,4 @@
+ding_FW schema_FW formalisms_NNS for_IN semistructured_JJ data_NNS and_CC XML_NN by_IN mechanisms_NNS that_WDT resemble_VBP sophisticated_JJ forms_NNS of_IN key_JJ ,_, foreign_JJ key_NN ,_, and_CC inverse_JJ constraints_NNS known_VBN from_IN relational_JJ and_CC object-oriented_JJ databases_NNS =_JJ -_: =[_NN 5_CD ,_, 4_CD ,_, 14_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT interaction_NN ,_, i.e._FW ,_, implication_NN and_CC consistency_NN ,_, between_IN path_NN constraints_NNS and_CC schema_NN types_NNS has_VBZ been_VBN studied_VBN in_IN -LRB-_-LRB- 6_CD ,_, 13_CD ,_, 1_CD -RRB-_-RRB- ._.
+The_DT aim_NN of_IN these_DT works_NNS can_MD be_VB considered_VBN as_IN orthogonal_JJ to_TO ours_PRP ._.
+Whereas_IN

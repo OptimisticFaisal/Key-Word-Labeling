@@ -1,0 +1,6 @@
+nsitive_JJ scorelearning_NN ,_, and_CC apply_VB it_PRP to_TO Laplacian_JJ smoothing_NN ._.
+Experimental_JJ results_NNS are_VBP promising_JJ ._.
+1_CD ._.
+Introduction_NN Learning_NNP to_TO rank_VB is_VBZ of_IN much_JJ recent_JJ interest_NN ._.
+A_DT series_NN of_IN papers_NNS -LRB-_-LRB- Herbrich_NNP et_FW al._FW ,_, 1999_CD ;_: =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =_JJ -_: ;_: Burges_NNP et_FW al._FW ,_, 2005_CD -RRB-_-RRB- ,_, and_CC even_RB a_DT recent_JJ NIPS_NN workshop_NN -LRB-_-LRB- Agarwal_NNP et_FW al._FW ,_, 2005_CD -RRB-_-RRB- ,_, are_VBP dedicated_VBN to_TO ranking_JJ instances_NNS represented_VBN as_IN feature_NN vectors_NNS in_IN some_DT feature_NN space_NN ._.
+A_DT few_JJ variants_NNS have_VBP been_VBN studie_JJ

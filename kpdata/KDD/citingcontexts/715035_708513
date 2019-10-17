@@ -1,0 +1,5 @@
+sion_NN and\/or_CC a_DT fee_NN ._.
+SIGKDD_FW '02_FW Edmonton_NNP ,_, Alberta_NNP ,_, Canada_NNP Copyright_NNP 2002_CD ACM_NNP 1-58113-567-X_NNP \/_: 02\/0007_CD ..._: $_$ 5.00_CD ._.
+with_IN data_NNS clustering_NN ,_, i.e._FW ,_, numerical_JJ attributes_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC categorical_JJ attributes_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Numerical_JJ attributes_NNS are_VBP those_DT with_IN finite_JJ or_CC infinite_JJ number_NN of_IN ordered_VBN values_NNS ,_, such_JJ as_IN the_DT height_NN of_IN a_DT person_NN or_CC the_DT x-coordinate_NN of_IN a_DT point_NN on_IN a_DT 2-D_JJ domain_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, categorical_JJ attribu_NN

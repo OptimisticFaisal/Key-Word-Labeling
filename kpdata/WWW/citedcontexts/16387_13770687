@@ -1,0 +1,4 @@
+ormal_JJ descriptions_NNS and_CC semantic_JJ matchmaking_NN techniques_NNS for_IN evaluating_VBG these_DT conditions_NNS ._.
+3.2_CD ._.
+Functional_JJ Descriptions_NNS Following_VBG the_DT common_JJ approach_NN for_IN semantically_RB enabled_VBN Web_NN service_NN discovery_NN -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 22,20_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, we_PRP describe_VBP the_DT functionality_NN provided_VBN by_IN a_DT Web_NN service_NN as_RB well_RB as_IN the_DT one_NN requested_VBN by_IN a_DT goal_NN in_IN terms_NNS of_IN inputs_NNS ,_, outputs_NNS ,_, preconditions_NNS ,_, and_CC effects_NNS on_IN the_DT basis_NN of_IN ontologies_NNS ._.
+Formally_RB ,_, we_PRP defin_VBP

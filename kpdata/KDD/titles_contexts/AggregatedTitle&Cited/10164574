@@ -1,0 +1,8 @@
+Structured_VBN entity_NN identification_NN and_CC document_NN categorization_NN :_: two_CD tasks_NNS with_IN one_CD joint_JJ model_NN
+attempts_NNS perform_VBP pairwise_JJ combinations_NNS of_IN these_DT inferences_NNS such_JJ as_IN combining_VBG model_NN link_NN prediction_NN and_CC collective_JJ classification_NN -LRB-_-LRB- 4_CD ;_: 5_CD ;_: 19_CD -RRB-_-RRB- or_CC combining_VBG entity_NN resolution_NN and_CC collective_JJ classification_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX have_VBP also_RB been_VBN work_NN on_IN creating_VBG a_DT general_JJ framework_NN which_WDT allows_VBZ for_IN a_DT general_JJ combination_NN of_IN these_DT problems_NNS -LRB-_-LRB- 16_CD ;_: 17_CD ;_: 8_CD ;_: 15_CD ;_: 18_CD -RRB-_-RRB- ._.
+To_TO our_PRP$ knowledge_NN ,_, none_NN of_IN the_DT previous_JJ work_NN have_VBP explored_VBN the_DT b_NN
+n_NN better_JJR model_NN the_DT language_NN used_VBN to_TO describe_VB relationships_NNS ._.
+Finally_RB ,_, while_IN other_JJ models_NNS have_VBP also_RB leveraged_VBN the_DT machinery_NN of_IN LDA_NNP to_TO understand_VB ensembles_NNS of_IN entities_NNS and_CC the_DT words_NNS associated_VBN with_IN them_PRP =_JJ -_: =[_NN 4_CD ,_, 24_CD ,_, 27_CD -RRB-_-RRB- -_: =_JJ -_: these_DT models_NNS only_RB learn_VBP hidden_JJ topics_NNS for_IN individual_JJ entities_NNS ._.
+Nubbi_NNP models_NNS individual_JJ entities_NNS and_CC pairs_NNS of_IN entities_NNS distinctly_RB ._.
+By_IN controlling_VBG for_IN features_NNS of_IN individual_JJ entities_NNS and_CC explicitly_RB rel_NN

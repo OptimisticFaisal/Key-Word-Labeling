@@ -1,0 +1,3 @@
+actually_RB a_DT 4_CD special_JJ case_NN of_IN a_DT Bayesian_JJ hierarchical_JJ framework_NN for_IN this_DT class_NN of_IN clustering_NN problems_NNS ,_, but_CC due_JJ to_TO space_NN limitations_NNS we_PRP do_VBP not_RB pursue_VB this_DT Bayesian_JJ viewpoint_NN further_RBR in_IN this_DT paper_NN -LRB-_-LRB- see_VB =_JJ -_: =_JJ Cadez_NNP and_CC Smyth_NNP ,_, 1999_CD -_: =_JJ -_: ,_, for_IN more_JJR details_NNS -RRB-_-RRB- ._.
+We_PRP use_VBP notation_NN similar_JJ to_TO that_DT introduced_VBN in_IN the_DT previous_JJ section_NN ._.
+Specifically_RB ,_, let_VB there_RB be_VB N_NN individuals_NNS and_CC let_VB there_RB be_VB a_DT data_NN set_NN D_NN i_FW associated_VBN with_IN each_DT individual_JJ -LRB-_-LRB- note_NN

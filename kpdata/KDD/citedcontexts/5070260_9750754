@@ -1,0 +1,5 @@
+in_IN this_DT case_NN the_DT optimal_JJ error_NN in_IN B_NN units_NNS has_VBZ already_RB been_VBN achieved_VBN ._.
+The_DT complexity_NN effect_NN of_IN this_DT binary_JJ search_NN operation_NN is_VBZ an_DT O_NN -LRB-_-LRB- log_NN ɛ_NN ∗_NN -RRB-_-RRB- factor_NN in_IN time_NN ._.
+The_DT gist_NN of_IN this_DT analysis_NN has_VBZ appeared_VBN in_IN =_JJ -_: =[_NN 35_CD ,_, 29_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN effect_NN ,_, the_DT time_NN complexity_NN of_IN our_PRP$ algorithm_NN for_IN space-bounded_JJ LH_NN construction_NN is_VBZ O_NN -LRB-_-LRB- n_NN 4_CD log_NN ɛ_FW ∗_FW -RRB-_-RRB- with_IN OptimalLH_NN ,_, and_CC O_NN -LRB-_-LRB- -LRB-_-LRB- n_NN +_CC B_NN 2_CD -RRB-_-RRB- log_VBP ɛ_FW ∗_FW -RRB-_-RRB- with_IN GreedyLH_NN ._.
+Coupled_VBN with_IN our_PRP$ OptimalLH_NN algorithm_NN ,_,

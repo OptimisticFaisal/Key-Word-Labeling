@@ -1,0 +1,5 @@
+traints_NNS ._.
+Another_DT work_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- uses_VBZ linear_JJ programming_NN for_IN solving_VBG constraints_NNS on_IN composite_JJ service_NN ._.
+Among_IN the_DT previous_JJ work_NN on_IN composite_JJ services_NNS ,_, the_DT following_JJ ones_NNS are_VBP closer_JJR to_TO this_DT work_NN ._.
+-LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ a_DT logic-based_JJ formalism_NN ,_, Golog_NNP ,_, for_IN composite_JJ service_NN model_NN and_CC verifies_VBZ some_DT properties_NNS of_IN the_DT composite_JJ model_NN through_IN Petri_NNP Nets_NNPS ._.
+Golog_NNP takes_VBZ its_PRP$ roots_NNS from_IN situation_NN calculus_NN and_CC provides_VBZ

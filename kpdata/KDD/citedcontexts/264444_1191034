@@ -1,0 +1,4 @@
+e_LS identity_NN to_TO the_DT record_NN ,_, thus_RB breaking_VBG the_DT privacy_NN of_IN that_DT individual_NN ._.
+The_DT main_JJ technique_NN to_TO obtain_VB a_DT k-anonymous_JJ data_NN set_NN is_VBZ generalization_NN and_CC suppression_NN ._.
+Various_JJ techniques_NNS have_VBP been_VBN proposed_VBN in_IN =_JJ -_: =[_NN 44_CD ,_, 45_CD ,_, 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC they_PRP essentially_RB work_VBP by_IN reducing_VBG the_DT granularity_NN of_IN the_DT data_NNS ,_, making_VBG the_DT attributes_NNS less_RBR specific_JJ ._.
+This_DT is_VBZ typically_RB done_VBN on_IN a_DT selected_VBN subset_NN of_IN the_DT attributes_NNS that_WDT are_VBP deemed_VBN potentially_RB iden_JJ

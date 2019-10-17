@@ -1,0 +1,4 @@
+e-based_JJ approaches_NNS in_IN a_DT unified_JJ probabilistic_JJ model_NN ._.
+We_PRP have_VBP recently_RB shown_VBN that_IN this_DT semi-supervised_JJ clustering_NN framework_NN has_VBZ an_DT underlying_JJ probabilistic_JJ model_NN --_: a_DT Hidden_NNP Markov_NNP Random_NNP Field_NNP -LRB-_-LRB- HMRF_NN -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Basu_NNP et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN ._.
+Then_RB ,_, minimizing_VBG the_DT integrated_VBN clustering_NN objective_NN function_NN becomes_VBZ equivalent_JJ to_TO finding_VBG the_DT maximum_NN a_DT posteriori_JJ probability_NN -LRB-_-LRB- MAP_NN -RRB-_-RRB- configuration_NN of_IN the_DT HMRF_NNP -LRB-_-LRB- Zhang_NNP et_FW al._FW ,_, 2001_CD -RRB-_-RRB- ._.
+It_PRP can_MD be_VB show_NN

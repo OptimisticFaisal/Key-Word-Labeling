@@ -1,0 +1,4 @@
+t_NN hapax_NN legomena_NN -LRB-_-LRB- terms_NNS that_WDT only_RB appear_VBP once_RB in_IN a_DT collection_NN of_IN texts_NNS -RRB-_-RRB- are_VBP good_JJ signs_NNS for_IN detecting_VBG subjectivity_NN ._.
+Other_JJ works_NNS have_VBP also_RB exploited_VBN rarely_RB occurring_VBG terms_NNS for_IN sentiment_NN analysis_NN tasks_NNS -LRB-_-LRB- =_JJ -_: =_JJ Dave_NNP et_FW al._FW ,_, 2003_CD -_: =_JJ -_: ;_: Yang_NNP et_FW al._FW ,_, 2006_CD -RRB-_-RRB- ._.
+The_DT opinion_NN retrieval_NN task_NN is_VBZ a_DT relatively_RB recent_JJ issue_NN that_WDT draws_VBZ both_DT the_DT attention_NN of_IN IR_NN and_CC NLP_NN communities_NNS ._.
+Its_PRP$ task_NN is_VBZ to_TO find_VB relevant_JJ documents_NNS that_WDT also_RB contain_VBP sentimen_NNS

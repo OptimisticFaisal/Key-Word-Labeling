@@ -1,0 +1,5 @@
+eresting_VBG biological_JJ new_JJ hypothesis_NN -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+Following_VBG the_DT same_JJ ideas_NNS ,_, we_PRP can_MD also_RB consider_VB the_DT possibility_NN to_TO build_VB clusters_NNS or_CC co-clusters_NNS by_IN exploiting_VBG the_DT formal_JJ concepts_NNS ._.
+A_DT co-clustering_NN -LRB-_-LRB- see_VB ,_, e.g._FW ,_, =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =--RRB-_NN provides_VBZ linked_VBN partitions_NNS on_IN both_DT dimensions_NNS -LRB-_-LRB- objects_NNS and_CC attributes_NNS -RRB-_-RRB- and_CC ,_, in_IN Boolean_NNP data_NNS ,_, it_PRP tends_VBZ to_TO compute_VB rectangles_NNS with_IN mainly_RB true_JJ -LRB-_-LRB- resp_NN ._.
+false_JJ -RRB-_-RRB- values_NNS ._.
+Heuristic_JJ techniques_NNS -LRB-_-LRB- i.e._FW ,_, local_JJ o_NN

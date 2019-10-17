@@ -1,0 +1,6 @@
+matrix_NN can_MD increase_VB disk_NN access_NN costs_NNS ._.
+Moreover_RB ,_, it_PRP also_RB causes_VBZ network_NN congestion_NN ,_, since_IN we_PRP work_VBP on_IN cluster_NN ._.
+In_IN order_NN to_TO reduce_VB the_DT matrix_NN size_NN ,_, we_PRP look_VBP at_IN a_DT compression_NN method_NN called_VBN Scalar_JJ ITPACK_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT idea_NN is_VBZ to_TO store_VB non-zero_JJ elements_NNS of_IN the_DT matrix_NN with_IN their_PRP$ rows_NNS and_CC column_NN indices_NNS ._.
+To_TO measure_VB the_DT computational_JJ efficiency_NN of_IN our_PRP$ parallel_JJ algorithm_NN ,_, we_PRP examined_VBD the_DT speedup_NN -LRB-_-LRB- S_NN -RRB-_-RRB- ._.
+The_DT speedup_FW i_FW

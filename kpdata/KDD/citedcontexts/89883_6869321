@@ -1,0 +1,4 @@
+patterns_NNS whose_WP$ size_NN is_VBZ no_RB less_JJR than_IN δ_NN ._.
+We_PRP developed_VBD several_JJ heuristics_NNS and_CC applied_VBD our_PRP$ algorithm_NN to_TO mine_VB the_DT AIDS_NNP antiviral_JJ screen_NN compound_NN dataset_NN from_IN Developmental_NNP Theroapeutics_NNP Program_NNP in_IN NCI\/NIH_NN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT dataset_NN contains_VBZ 423_CD chemical_NN compounds_NNS that_WDT are_VBP proved_VBN active_JJ to_TO HIV_NN virus_NN ._.
+Figure_NN 6_CD shows_VBZ the_DT runtime_NN of_IN the_DT two_CD algorithms_NNS with_IN and_CC without_IN pattern_NN separable_JJ D-antimonotone_NN pruning_NN ,_, with_IN diff_NN

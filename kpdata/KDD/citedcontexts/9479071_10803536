@@ -1,0 +1,4 @@
+or_CC partially_RB labeled_VBN network_NN ._.
+Recent_JJ work_NN on_IN active_JJ inference_NN has_VBZ demonstrated_VBN that_IN labeling_NN efforts_NNS can_MD be_VB used_VBN to_TO improve_VB collective_JJ inference_NN ,_, based_VBN on_IN the_DT network_NN topology_NN -LRB-_-LRB- Bilgic_NNP &_CC Getoor_NNP ,_, 2008_CD ;_: =_JJ -_: =_JJ Macskassy_NNP ,_, 2009_CD -_: =--RRB-_NN ._.
+However_RB ,_, it_PRP is_VBZ more_RBR difficult_JJ to_TO incorporate_VB network_NN characteristics_NNS into_IN the_DT learning_NN process_NN ._.
+Two_CD primary_JJ issues_NNS are_VBP :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- how_WRB to_TO learn_VB an_DT accurate_JJ model_NN from_IN a_DT partially-labeled_JJ network_NN ,_, and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB-

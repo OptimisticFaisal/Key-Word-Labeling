@@ -1,0 +1,6 @@
+sing_VB SQL_NNP includes_VBZ the_DT following_NN ._.
+Association_NN rules_NNS mining_NN is_VBZ explored_VBN in_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC later_RB in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+General_JJ data_NNS mining_NN primitives_NNS are_VBP proposed_VBN in_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Primitives_NNS to_TO mine_VB decision_NN trees_NNS are_VBP introduced_VBN in_IN =_JJ -_: =[_NN 4_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Programming_VBG the_DT more_RBR powerful_JJ EM_NN clustering_NN algorithm_NN in_IN SQL_NN is_VBZ explored_VBN in_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Our_PRP$ focus_NN was_VBD more_JJR on_IN the_DT side_NN of_IN writing_VBG efficient_JJ SQL_NN code_NN to_TO implement_VB K-means_NNS rather_RB than_IN proposing_VBG another_DT ''_'' fast_RB

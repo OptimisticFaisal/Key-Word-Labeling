@@ -1,0 +1,5 @@
+which_WDT pairs_NNS do_VBP we_PRP choose_VB ?_.
+But_CC these_DT questions_NNS are_VBP more_RBR amenable_JJ to_TO empirical_JJ investigation_NN ._.
+There_EX is_VBZ another_DT advantage_NN to_TO direct_JJ preference_NN judgments_NNS :_: algorithms_NNS such_JJ as_IN RankNet_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC ranking_JJ SVMs_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP trained_VBN over_IN preferences_NNS ._.
+Sometimes_RB preferences_NNS are_VBP obtained_VBN by_IN inference_NN from_IN absolute_JJ judgments_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+By_IN collecting_VBG preferences_NNS directly_RB ,_, some_DT of_IN the_DT noise_NN associated_VBN with_IN difficulty_NN in_IN distingu_NN

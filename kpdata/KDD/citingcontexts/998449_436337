@@ -1,0 +1,4 @@
+rmula_NN and_CC assign_VB a_DT confidence_NN score_NN of_IN the_DT predicted_VBN class_NN ._.
+P_NN -LRB-_-LRB- Spam_NN -RRB-_-RRB- ∏_NN P_NN -LRB-_-LRB- wordi_FW |_FW Spam_NN -RRB-_-RRB- class_NN ,_, score_NN =_JJ max_NN P_NN -LRB-_-LRB- NotSpam_NN -RRB-_-RRB- ∏_NN P_NN -LRB-_-LRB- word_NN |_FW NotSpam_FW -RRB-_-RRB- 4.4_CD Content-based_JJ Naïve_NNP Bayes_NNP -LRB-_-LRB- PGRAM_NNP -RRB-_-RRB- Recent_JJ work_NN by_IN Graham_NNP =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: on_IN the_DT task_NN of_IN spam_NN detection_NN has_VBZ floated_VBN the_DT idea_NN of_IN a_DT partial_JJ Naive_JJ Bayes_NNP approach_NN ,_, biased_VBN towards_IN low_JJ false_JJ positive_JJ rates_NNS ._.
+It_PRP also_RB uses_VBZ word_NN tokens_NNS ,_, but_CC filters_VBZ out_RP predefined_JJ common_JJ tokens_NNS ._.
+We_PRP i_LS

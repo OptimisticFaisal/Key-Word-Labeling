@@ -1,0 +1,4 @@
+el_NN matrix_NN which_WDT is_VBZ used_VBN in_IN the_DT nonlinear_JJ SVM_NN formulation_NN to_TO avoid_VB the_DT computational_JJ difficulties_NNS ._.
+This_DT reducedskernel_NN technique_NN has_VBZ been_VBN successfully_RB applied_VBN to_TO other_JJ kernel-based_JJ learning_NN algorithms_NNS =_JJ -_: =[_NN 3_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP use_VBP a_DT systematic_JJ sampling_NN mechanism_NN to_TO select_VB a_DT reduced_VBN set_NN which_WDT is_VBZ the_DT most_RBS important_JJ ingredient_NN of_IN RSVM_NN and_CC name_VB it_PRP as_IN Systematic_JJ Sampling_NN RSVM_NN -LRB-_-LRB- SSRSVM_NN -RRB-_-RRB- ._.
+This_DT algorithm_NN is_VBZ inspi_NN

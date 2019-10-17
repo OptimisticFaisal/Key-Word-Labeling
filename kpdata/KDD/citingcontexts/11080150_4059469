@@ -1,0 +1,4 @@
+large_JJ collections_NNS ._.
+Even_RB with_IN fast_JJ sampling_NN methods_NNS ,_, training_NN topic_NN models_NNS remains_VBZ computationally_RB expensive_JJ ._.
+Parallel_JJ implementations_NNS are_VBP hindered_VBN by_IN the_DT need_NN for_IN frequent_JJ interprocess_NN communication_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP would_MD like_VB to_TO be_VB able_JJ to_TO train_VB Evaluation_NN measures_NNS 0.6_CD 0.7_CD 0.8_CD 0.9_CD 1.0_CD Accuracy_NN over_IN Training_NN size_NN on_IN Pubmed_NNP 0.1_CD 0.2_CD 0.3_CD 0.4_CD 0.5_CD 0.6_CD 0.7_CD Training_NN proportion_NN Cosine_NN distance_NN KL_NN divergence_NN F1_NN Figur_NN

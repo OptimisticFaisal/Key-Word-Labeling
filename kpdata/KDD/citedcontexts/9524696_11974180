@@ -1,0 +1,4 @@
+etwork_NN ,_, represented_VBN as_IN a_DT graph_NN ._.
+This_DT fails_VBZ to_TO capture_VB the_DT highly_RB dynamic_JJ nature_NN of_IN social_JJ network_NN data_NNS ._.
+Recently_RB ,_, significant_JJ effort_NN has_VBZ been_VBN made_VBN to_TO analyze_VB the_DT temporal_JJ evolution_NN of_IN social_JJ networks_NNS =_JJ -_: =[_NN 4_CD ,_, 6_CD ,_, 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, so_IN it_PRP follows_VBZ that_IN any_DT attempt_NN at_IN anonymization_NN should_MD also_RB describe_VB the_DT time-varying_JJ nature_NN of_IN the_DT data_NNS ._.
+In_IN particular_JJ ,_, our_PRP$ model_NN should_MD not_RB be_VB of_IN a_DT single_JJ anonymized_JJ snapshot_NN of_IN the_DT network_NN being_VBG

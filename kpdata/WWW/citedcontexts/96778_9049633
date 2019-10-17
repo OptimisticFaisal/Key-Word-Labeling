@@ -1,0 +1,4 @@
+ftware_JJ agents_NNS use_VBP elections_NNS as_RB well_RB ._.
+Examples_NNS of_IN elections_NNS in_IN multiagent_JJ systems_NNS include_VBP planning_VBG scenarios_NNS where_WRB agents_NNS vote_VBP on_IN the_DT next_JJ step_NN of_IN the_DT plan_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, aggregating_VBG search_NN results_NNS for_IN the_DT web_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC others_NNS ._.
+We_PRP point_VBP out_RP that_IN often_RB the_DT voters_NNS in_IN an_DT election_NN are_VBP weighted_VBN ,_, that_DT is_VBZ ,_, have_VBP different_JJ voting_NN powers_NNS ._.
+Unfortunately_RB ,_, all_DT reasonable_JJ deterministic_JJ election_NN systems_NNS share_VBP the_DT problem_NN that_IN

@@ -1,0 +1,5 @@
+-LRB-_-LRB- G_NN -RRB-_-RRB- ,_, let_VB C_NN -LRB-_-LRB- vi_LS -RRB-_-RRB- denote_VB the_DT set_NN of_IN the_DT maximal_JJ cliques_NNS which_WDT contain_VBP vi_LS ,_, so_IN C_NN -LRB-_-LRB- 0_CD -RRB-_-RRB- =_JJ -LCB-_-LRB- -LCB-_-LRB- 0_CD ,_, 1_CD ,_, 2_CD ,_, 3_CD -RCB-_-RRB- -RCB-_-RRB- ,_, and_CC C_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- =_JJ -LCB-_-LRB- -LCB-_-LRB- 0_CD ,_, 1_CD ,_, 2_CD ,_, 3_CD -RCB-_-RRB- ,_, -LCB-_-LRB- 1_CD ,_, 2_CD ,_, 4_CD -RCB-_-RRB- -RCB-_-RRB- ._.
+The_DT complete_JJ clique_NN enumeration_NN is_VBZ a_DT classic_JJ NP-complete_JJ problem_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, real_JJ world_NN social_JJ networks_NNS have_VBP several_JJ unique_JJ properties_NNS such_JJ as_IN the_DT sparsity_NN and_CC scale-freeness_NN ._.
+People_NNS who_WP share_VBP a_DT common_JJ friend_NN are_VBP highly_RB likely_JJ to_TO become_VB friends_NNS themselves_PRP -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+This_DT

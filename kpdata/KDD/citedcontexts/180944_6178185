@@ -1,0 +1,4 @@
+-_: Harmonic_NNP Means_NNP is_VBZ more_RBR insensitive_JJ to_TO initial_JJ configurations_NNS ,_, but_CC it_PRP converges_VBZ slower_JJR near_IN the_DT solution_NN ._.
+An_DT accelerated_JJ ,_, kd-tree-based_JJ variant_NN for_IN the_DT K-means_NNS clustering_NN is_VBZ proposed_VBN by_IN Pelleg_NNP et_FW al._FW =_SYM -_: =[_NN 313_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT authors_NNS suggest_VBP this_DT method_NN for_IN initialization_NN of_IN the_DT ordinary_JJ K-means_NNS algorithm_NN as_RB well_RB ._.
+As_IN a_DT problem_NN the_DT authors_NNS report_VBP the_DT scalability_NN with_IN respect_NN to_TO the_DT number_NN of_IN dimensions_NNS ,_, which_WDT is_VBZ due_JJ t_NN

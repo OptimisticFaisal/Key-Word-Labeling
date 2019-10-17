@@ -1,0 +1,4 @@
+due_JJ to_TO the_DT stability_NN of_IN the_DT PageRank_NNP algorithm_NN ._.
+Then_RB ,_, the_DT ranks_NNS could_MD also_RB be_VB quite_RB volatile_JJ with_IN respect_NN to_TO changes_NNS in_IN the_DT matrix_NN ;_: this_DT is_VBZ the_DT notion_NN of_IN rank-stability_NN ,_, first_RB defined_VBN and_CC studied_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Moreover_RB ,_, stability_NN of_IN the_DT PageRank_NNP algorithm_NN does_VBZ not_RB imply_VB rank-stability_NN ,_, and_CC a_DT change_NN in_IN the_DT outlink_NN of_IN a_DT page_NN of_IN small_JJ rank_NN can_MD completely_RB change_VB the_DT whole_JJ ranking_NN ._.
+The_DT computations_NNS were_VBD perfor_NN

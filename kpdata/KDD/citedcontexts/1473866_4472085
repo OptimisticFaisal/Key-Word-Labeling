@@ -1,0 +1,5 @@
+kage_NN solutions_NNS ._.
+Researchers_NNS have_VBP also_RB explored_VBN domain-independent_JJ techniques_NNS ,_, e.g._FW -LRB-_-LRB- 1_CD ,_, 10_CD ,_, 13_CD ,_, 19_CD ,_, 23_CD -RRB-_-RRB- ._.
+Their_PRP$ work_NN can_MD be_VB viewed_VBN as_IN addressing_VBG two_CD challenges_NNS :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- improving_VBG similarity_NN function_NN ,_, as_IN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ;_: and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- improving_VBG efficiency_NN of_IN linkage_NN ,_, as_IN in_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Typically_RB ,_, two-level_JJ similarity_NN functions_NNS are_VBP employed_VBN to_TO compare_VB two_CD records_NNS ._.
+First_RB ,_, such_PDT a_DT function_NN computes_VBZ attribute-level_JJ similarities_NNS by_IN com_NN

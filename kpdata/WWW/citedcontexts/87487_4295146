@@ -1,0 +1,7 @@
+e._NN WSDLs_NNS can_MD be_VB stored_VBN in_IN UDDI_NNP -LRB-_-LRB- 23_CD -RRB-_-RRB- registries_NNS and\/or_CC published_VBN on_IN the_DT Web_NN ._.
+For_IN web_NN services_NNS defined_VBN using_VBG XML_NN ,_, web_NN service_NN modules_NNS can_MD also_RB be_VB loaded_VBN by_IN the_DT XVM_NNP runtime_NN to_TO accept_VB remote_JJ requests_NNS ._.
+XL_NNP =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ an_DT XML_NN Programming_NN Language_NN whose_WP$ only_JJ type_NN system_NN is_VBZ the_DT XML_NN type_NN system_NN ._.
+Both_CC the_DT input_NN and_CC the_DT output_NN of_IN an_DT XL_NNP program_NN are_VBP XML_NN messages_NNS ._.
+Unlike_IN XL_NNP ,_, the_DT XVM_NNP is_VBZ not_RB a_DT programming_NN language_NN ._.
+6_CD ._.
+CON_NN

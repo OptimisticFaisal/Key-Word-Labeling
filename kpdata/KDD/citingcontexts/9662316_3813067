@@ -1,0 +1,3 @@
+ial_JJ media_NNS ,_, actors_NNS sharing_VBG some_DT interests_NNS tend_VBP to_TO interact_VB with_IN each_DT other_JJ ,_, thus_RB leading_VBG to_TO autocorrelations_NNS between_IN the_DT labels_NNS of_IN connected_JJ actors_NNS ._.
+Relational_JJ learning_NN -LRB-_-LRB- within-network_JJ classification_NN -RRB-_-RRB- =_JJ -_: =[_NN 20_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ been_VBN proposed_VBN specifically_RB to_TO capture_VB the_DT correlations_NNS between_IN connected_JJ objects_NNS ._.
+Specifically_RB ,_, if_IN there_EX is_VBZ only_RB one_CD network_NN among_IN data_NNS objects_NNS ,_, one_CD basic_JJ Markov_NNP assumption_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- is_VBZ that_IN the_DT label_NN

@@ -1,0 +1,4 @@
+ply_RB can_MD not_RB stay_VB in_IN focus_NN for_IN long_JJ ,_, and_CC therefore_RB their_PRP$ output_NN is_VBZ often_RB noisy_JJ and_CC inconsistent_JJ ._.
+This_DT causes_VBZ some_DT frustration_NN among_IN researchers_NNS who_WP apply_VBP crowdsourcing_VBG to_TO text_NN classification_NN -LRB-_-LRB- see_VB ,_, e.g._FW =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Nevertheless_RB ,_, manual_JJ labeling_NN of_IN hundreds_NNS of_IN thousands_NNS data_NNS instances_NNS -LRB-_-LRB- which_WDT was_VBD impractical_JJ just_RB a_DT few_JJ year_NN ago_RB -RRB-_-RRB- is_VBZ now_RB perfectly_RB practical_JJ ._.
+We_PRP introduce_VBP Phrase-Based_NNP Multilabel_NNP Classification_NN as_IN

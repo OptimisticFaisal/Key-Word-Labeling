@@ -1,0 +1,6 @@
+and_CC X_NN such_JJ that_IN CX_NN -LRB-_-LRB- A_NN ,_, k_NN ,_, C_NN ,_, X_NN -RRB-_-RRB- is_VBZ minimized_VBN ._.
+We_PRP use_VBP CX_NNP ∗_NNP -LRB-_-LRB- A_NNP ,_, k_NN -RRB-_-RRB- to_TO denote_VB this_DT minimum_JJ value_NN ._.
+The_DT complexity_NN of_IN finding_VBG the_DT optimal_JJ solution_NN to_TO the_DT CX_NN problem_NN is_VBZ unknown_JJ -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+However_RB ,_, a_DT recent_JJ result_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: strengthens_VBZ the_DT intuition_NN of_IN the_DT NPhardness_NN of_IN the_DT problem_NN ._.
+The_DT CUR_NN decomposition_NN is_VBZ an_DT extension_NN of_IN the_DT CX_NN decomposition_NN ._.
+For_IN an_DT input_NN matrix_NN A_NN and_CC integers_NNS k_NN and_CC r_NN ,_, we_PRP define_VBP the_DT column-row_JJ based_JJ l_NN

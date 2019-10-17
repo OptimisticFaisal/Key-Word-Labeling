@@ -1,0 +1,3 @@
+developed_VBD a_DT route_NN recommendation_NN algorithm_NN ,_, named_VBN LCP_NNP ,_, which_WDT exploits_VBZ the_DT monotone_NN property_NN of_IN the_DT PTD_NN function_NN ._.
+In_IN addition_NN ,_, we_PRP observe_VBP that_IN many_JJ candidate_NN routes_NNS can_MD be_VB dominated_VBN by_IN skyline_NN routes_NNS =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC thus_RB can_MD be_VB pruned_VBN by_IN skyline_NN computing_NN ._.
+However_RB ,_, traditional_JJ skyline_NN computing_NN algorithms_NNS are_VBP not_RB efficient_JJ for_IN querying_VBG skyline_NN of_IN all_DT candidate_NN routes_NNS because_IN it_PRP leads_VBZ to_TO an_DT expensive_JJ network_NN

@@ -1,0 +1,5 @@
+been_VBN applied_VBN successfully_RB to_TO a_DT number_NN of_IN real-life_JJ applications_NNS ._.
+1_CD ._.
+Introduction_NN Association_NNP rules_NNS are_VBP a_DT class_NN of_IN important_JJ regularities_NNS in_IN data_NNS ._.
+Association_NN rule_NN mining_NN is_VBZ commonly_RB stated_VBN as_IN follows_VBZ =_JJ -_: =[_NN 2_CD -RRB-_-RRB- :_: Let_VB I_PRP -_: =_JJ -_: =_JJ -LCB-_-LRB- i_LS 1_CD ,_, ..._: ,_, i_FW n_NN -RCB-_-RRB- be_VB a_DT set_NN of_IN items_NNS ,_, and_CC D_NN be_VB a_DT set_NN of_IN data_NNS cases_NNS ._.
+Each_DT data_NNS case_NN consists_VBZ of_IN a_DT subset_NN of_IN items_NNS in_IN I._NNP An_NNP association_NN rule_NN is_VBZ an_DT implication_NN of_IN the_DT form_NN X_NN Y_NN ,_, where_WRB X_NNP I_NNP ,_,

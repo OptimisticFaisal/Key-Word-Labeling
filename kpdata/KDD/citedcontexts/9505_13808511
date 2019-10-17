@@ -1,0 +1,5 @@
+fee_NN ,_, crude_NN ,_, earn_VB ,_, gold_NN ,_, interest_NN ,_, money_NN -_: 100_CD -LRB-_-LRB- gold-90_NN -RRB-_-RRB- 990_CD Reuters21578_NN ._.
+We_PRP use_VBP fx_NN ,_, ship_NN ,_, sugar_NN ,_, trade_VBP the_DT top_JJ 10_CD most_RBS frequent_JJ categories_NNS ,_, documents_NNS of_IN which_WDT does_VBZ not_RB have_VB multiple_JJ labels_NNS ._.
+documents_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Finally_RB ,_, a_DT feature_NN vector_NN for_IN each_DT document_NN is_VBZ constructed_VBN with_IN TFIDF_NN weighting_NN and_CC then_RB normalized_VBD ._.
+4.2_CD Evaluation_NN Measures_NNS In_IN this_DT paper_NN ,_, we_PRP used_VBD normalized_VBN mutual_JJ information_NN -LRB-_-LRB- NMI_NN -RRB-_-RRB- -LRB-_-LRB- 6_CD -RRB-_-RRB- as_IN the_DT clu_NN

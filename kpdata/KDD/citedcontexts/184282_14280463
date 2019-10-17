@@ -1,0 +1,4 @@
+20_CD -RRB-_-RRB- ._.
+In_IN parallel_NN ,_, random_JJ projections_NNS -LRB-_-LRB- RP_NN -RRB-_-RRB- or_CC the_DT so-called_JJ Johnson-Lindenstrauss_NNP type_NN embeddings_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- became_VBD popular_JJ and_CC found_VBN applications_NNS in_IN both_CC theoretical_JJ computer_NN science_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC data_NN analytics_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT paper_NN focuses_VBZ on_IN the_DT application_NN of_IN the_DT random_JJ projection_NN method_NN -LRB-_-LRB- see_VB Section_NNP 2.3_CD -RRB-_-RRB- to_TO the_DT k-means_NN clustering_NN problem_NN -LRB-_-LRB- see_VB Definition_NNP 1_CD -RRB-_-RRB- ._.
+Formally_RB ,_, assuming_VBG as_IN input_NN a_DT set_NN of_IN n_NN points_NNS in_IN d_FW dimen_FW

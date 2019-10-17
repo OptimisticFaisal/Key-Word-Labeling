@@ -1,0 +1,4 @@
+ownloaded_VBN from_IN NCBI_NN ftp_NN site_NN ._.
+This_DT data_NN set_NN was_VBD created_VBN by_IN randomly_RB selecting_VBG 4000_CD non-overlapping_JJ subsequences_NNS of_IN length_NN 2000_CD from_IN human_JJ chromosome_NN 18_CD -LRB-_-LRB- Chr18_NN -RRB-_-RRB- ._.
+We_PRP employed_VBD Needleman-Wunsch_JJ algorithm_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: to_TO compute_VB the_DT Edit_NNP distance_NN between_IN two_CD subsequences_NNS ._.
+The_DT second_JJ task_NN we_PRP consider_VBP is_VBZ detecing_VBG outlier_NN images_NNS in_IN UCID_NN version_NN 2_CD -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, which_WDT is_VBZ an_DT image_NN database_NN containing_VBG 1338_CD uncompressed_JJ color_NN ima_NN

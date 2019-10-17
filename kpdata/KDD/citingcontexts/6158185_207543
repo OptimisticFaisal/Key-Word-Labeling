@@ -1,0 +1,5 @@
+m_NN the_DT ID_NN lists_NNS of_IN P_NN and_CC X_NN ,_, not_RB by_IN scanning_VBG the_DT database_NN ._.
+The_DT ID_NNP list_NN of_IN a_DT pattern_NN records_VBZ the_DT sequences_NNS and_CC the_DT time_NN stamps_NNS in_IN which_WDT a_DT pattern_NN appears_VBZ ._.
+The_DT concept_NN is_VBZ also_RB used_VBN by_IN the_DT SPADE_NNP algorithm_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: for_IN mining_NN frequent_JJ sequences_NNS ._.
+The_DT depth-first_JJ order_NN and_CC the_DT careful_JJ control_NN of_IN the_DT extend_VBP function_NN guarantees_NNS that_IN the_DT rules_NNS in_IN the_DT output_NN belongs_VBZ to_TO the_DT concise_JJ set_NN ._.
+The_DT efficiency_NN of_IN theFMP_FW algori_FW

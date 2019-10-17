@@ -1,0 +1,7 @@
+or_CC update_VB class_NN membership_NN for_IN each_DT node_NN while_IN fixing_VBG labels_NNS of_IN the_DT other_JJ nodes_NNS ._.
+This_DT process_NN is_VBZ repeated_VBN until_IN convergence_NN ._.
+Relaxation_NN labeling_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, iterative_JJ classification_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- and_CC Gibbs_NNP sampling_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP the_DT commonly_RB used_VBN techniques_NNS ._.
+Please_VB refer_VB to_TO -LRB-_-LRB- 20_CD -RRB-_-RRB- for_IN details_NNS ._.
+The_DT assumption_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- is_VBZ essentially_RB local_JJ ._.
+It_PRP does_VBZ not_RB capture_VB the_DT weak_JJ dependencies_NNS between_IN nodes_NNS that_WDT are_VBP not_RB close_JJ or_CC direc_JJ

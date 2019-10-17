@@ -1,0 +1,5 @@
+s_NN over_IN deterministic_JJ relational_JJ models_NNS in_IN relational_JJ domains_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- SRL_NN algorithms_NNS learn_VBP accurate_JJ models_NNS of_IN structured_JJ data_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- SRL_NN algorithms_NNS learn_VBP accurate_JJ models_NNS of_IN dependent_JJ data_NNS instances_NNS =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT general_JJ framework_NN of_IN SRL_NN contains_VBZ three_CD important_JJ parts_NNS :_: representation_NN models_NNS ,_, learning_VBG mechanisms_NNS and_CC inference_NN algorithms_NNS ._.
+Among_IN them_PRP representation_NN models_NNS are_VBP the_DT probabilistic_JJ presentation_NN

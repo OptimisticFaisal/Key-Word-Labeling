@@ -1,0 +1,5 @@
+h_NN recognition_NN ._.
+Examples_NNS of_IN techniques_NNS which_WDT are_VBP often_RB used_VBN for_IN classification_NN in_IN the_DT data_NNS mining_NN domain_NN include_VBP decision_NN trees_NNS ,_, rule_NN based_VBN classifiers_NNS ,_, nearest_JJS neighbor_NN techniques_NNS and_CC neural_JJ networks_NNS =_JJ -_: =[_NN 5_CD ,_, 6_CD ,_, 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT detailed_JJ survey_NN of_IN classification_NN methods_NNS may_MD be_VB found_VBN in_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+The_DT string_NN domain_NN provides_VBZ some_DT interesting_JJ applications_NNS of_IN the_DT classification_NN problem_NN ._.
+An_DT important_JJ example_NN is_VBZ the_DT biological_JJ domain_NN

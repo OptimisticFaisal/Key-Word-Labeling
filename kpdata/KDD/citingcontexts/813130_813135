@@ -1,0 +1,4 @@
+ry_NN to_TO hold_VB all_PDT the_DT data_NNS at_IN once_RB ._.
+They_PRP can_MD be_VB estimated_VBN incrementally_RB ,_, though_RB ,_, by_IN processing_VBG the_DT data_NNS that_WDT does_VBZ fit_VB in_IN a_DT buffer_NN and_CC then_RB combining_VBG the_DT buffer_NN estimates_VBZ incrementally_RB ._.
+-LRB-_-LRB- See_NNP ,_, for_IN example_NN ,_, =_JJ -_: =[_NN 10_CD ,_, 6_CD ,_, 9_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._. -RRB-_-RRB-
+In_IN dynamic_JJ monitoring_NN ,_, the_DT goal_NN is_VBZ not_RB to_TO reproduce_VB the_DT number_NN that_WDT would_MD be_VB obtained_VBN for_IN the_DT entire_JJ database_NN ,_, but_CC rather_RB to_TO estimate_VB a_DT quantile_NN of_IN the_DT current_JJ behavior_NN of_IN the_DT entity_NN being_VBG tracked_VBN ,_,

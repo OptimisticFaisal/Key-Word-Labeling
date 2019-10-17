@@ -1,0 +1,4 @@
+authored_VBN by_IN Puppin_NNP et_FW al._FW -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+The_DT authors_NNS proposed_VBD a_DT method_NN where_WRB a_DT large_JJ query_NN log_NN is_VBZ used_VBN to_TO form_VB P_NN clusters_NNS of_IN documents_NNS and_CC Q_NNP clusters_NNS of_IN queries_NNS by_IN using_VBG a_DT co-clustering_JJ algorithm_NN proposed_VBN in_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT allows_VBZ defining_VBG a_DT matrix_NN where_WRB each_DT entry_NN contains_VBZ a_DT measure_NN of_IN how_WRB pertinent_JJ a_DT query_NN cluster_NN is_VBZ to_TO a_DT document_NN cluster_NN ._.
+In_IN addition_NN ,_, for_IN each_DT query_JJ cluster_NN a_DT text_NN file_NN containing_VBG all_PDT the_DT terms_NNS

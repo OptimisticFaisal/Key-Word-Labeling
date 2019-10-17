@@ -1,0 +1,6 @@
+Stock_NN n_NN Basic_JJ window_NN Time_NN axis_NN Sliding_VBG window_NN ..._: ..._: Time_NNP Point_NNP Figure_NNP 1_CD :_: Sliding_VBG windows_NNS and_CC basic_JJ windows_NNS ._.
+dimensionality_NN ''_'' by_IN using_VBG groups_NNS of_IN sketches_NNS and_CC combining_VBG the_DT results_NNS as_IN in_IN the_DT scheme_NN due_JJ to_TO =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3_LS ._.
+There_EX are_VBP four_CD parameters_NNS to_TO be_VB set_VBN -LRB-_-LRB- two_CD of_IN which_WDT we_PRP introduce_VBP later_RB -RRB-_-RRB- ._.
+Optimizing_VBG these_DT parameters_NNS to_TO achieve_VB good_JJ recall_NN and_CC precision_NN requires_VBZ a_DT search_NN through_IN a_DT large_JJ parameter_NN space_NN ._.
+For_IN this_DT

@@ -1,0 +1,4 @@
+including_VBG -LRB-_-LRB- 0,0_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 1,1_CD -RRB-_-RRB- ,_, which_WDT are_VBP connected_VBN by_IN line_NN segments_NNS ._.
+If_IN such_PDT a_DT parameter_NN does_VBZ not_RB exist_VB ,_, algorithms_NNS such_JJ as_IN decision_NN trees_NNS can_MD be_VB modified_VBN to_TO include_VB costs_NNS to_TO produce_VB the_DT different_JJ points_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Alternatively_RB the_DT class_NN frequencies_NNS in_IN the_DT training_NN set_NN can_MD be_VB changed_VBN by_IN under_IN or_CC over_IN sampling_NN to_TO simulate_VB a_DT change_NN in_IN class_NN priors_NNS or_CC misclassification_NN costs_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+One_CD point_NN in_IN an_DT ROC_NN diagram_NN domi_NN

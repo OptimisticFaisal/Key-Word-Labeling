@@ -1,0 +1,13 @@
+Relational_JJ data_NNS pre-processing_JJ techniques_NNS for_IN improved_VBN securities_NNS fraud_NN detection_NN
+etermined_VBN by_IN the_DT algorithm_NN ._.
+The_DT RPT_NNP has_VBZ been_VBN used_VBN successfully_RB to_TO predict_VB high-risk_JJ behavior_NN in_IN the_DT securities_NNS industry_NN in_IN the_DT United_NNP States_NNPS using_VBG the_DT social_JJ network_NN among_IN individuals_NNS in_IN the_DT industry_NN =_JJ -_: =[_NN 13_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2.3_CD Relational_NNP Dependency_NNP Networks_NNP The_NNP Relational_NNP Dependency_NNP Network_NNP -LRB-_-LRB- RDN_NNP -RRB-_-RRB- is_VBZ joint_JJ relational_JJ model_NN for_IN performing_VBG collective_JJ classification_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+An_DT RDN_NN is_VBZ a_DT pseudolikelihood_NN model_NN consisting_VBG of_IN a_DT
+s_NN with_IN the_DT National_NNP Association_NNP of_IN Securities_NNP Dealers_NNP -LRB-_-LRB- NASD_NNP -RRB-_-RRB- to_TO analyze_VB large_JJ amounts_NNS of_IN data_NNS on_IN the_DT structure_NN of_IN the_DT US_NNP securities_NNS industry_NN and_CC the_DT behavior_NN of_IN individuals_NNS within_IN that_DT industry_NN -LRB-_-LRB- -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+While_IN the_DT effort_NN to_TO date_NN has_VBZ produced_VBN exclusively_RB associational_JJ models_NNS ,_, the_DT setting_NN and_CC existing_VBG work_NN help_NN make_VB clear_VB the_DT potential_JJ applications_NNS for_IN causal_JJ models_NNS ._.
+3.1_CD NASD_NNP NASD_NNP is_VBZ the_DT primary_JJ
+ities_NNS fraud_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+The_DT authors_NNS later_RB improved_VBD the_DT approach_NN by_IN showing_VBG that_IN one_PRP can_MD often_RB infer_VB links_NNS that_WDT are_VBP not_RB explicitly_RB stated_VBN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, and_CC successfully_RB extended_VBD the_DT methods_NNS using_VBG inferred_VBN knowledge_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Semi-supervised_JJ learning_NN methods_NNS may_MD also_RB be_VB useful_JJ for_IN graph_NN labeling_NN ,_, as_IN addressed_VBN in_IN -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+Finding_VBG authority_NN of_IN a_DT node_NN is_VBZ one_CD specific_JJ labeling_NN task_NN addressed_VBN in_IN the_DT literature_NN ._.
+One_CD way_NN of_IN defini_NNS

@@ -1,0 +1,5 @@
+for_IN brevity_NN ._.
+sizes_NNS varying_VBG from_IN 32_CD to_TO 128_CD ,_, for_IN dimensionalities_NNS varying_VBG from_IN 8_CD to_TO 32_CD ._.
+Extensive_JJ experiments_NNS can_MD be_VB found_VBN in_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+The_DT only_JJ research_NN that_IN we_PRP are_VBP aware_JJ of_IN for_IN very_RB large_JJ time-series_NNS is_VBZ =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ;_: however_RB ,_, this_DT is_VBZ for_IN a_DT very_RB large_JJ number_NN of_IN sequences_NNS of_IN fixed_JJ length_NN and_CC only_RB for_IN whole_JJ matching_NN ._.
+Our_PRP$ index_NN is_VBZ to_TO support_VB sub-sequence_JJ matching_NN and_CC accommodates_VBZ variable_JJ length_NN queries_NNS and_CC arbitrar_NN

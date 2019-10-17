@@ -1,0 +1,5 @@
+ets_NN ._.
+For_IN time_NN series_NN classification_NN ,_, Ye_NNP and_CC Keogh_NNP -LRB-_-LRB- 20_CD -RRB-_-RRB- used_VBN patterns_NNS called_VBD shapelets_NNS to_TO classify_VB time-series_JJ data_NNS ._.
+Other_JJ algorithms_NNS include_VBP DPrefixSpan_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- which_WDT classifies_VBZ action_NN sequences_NNS ,_, XRules_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT classifies_VBZ trees_NNS ,_, and_CC gPLS_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- which_WDT classifies_VBZ graph_NN structures_NNS ._.
+Table_NNP 1_CD ._.
+Comparison_NN of_IN related_JJ work_NN Binary_NNP Numerical_NNP Two-step_NNP MMRFS_NNP SoftMine_NNP ,_, Shapelet_NNP Direct_NNP DDPMine_NN ,_, M_NN b_NN T_NN ,_, gPLS_NN NDPMine_NN DPr_NN

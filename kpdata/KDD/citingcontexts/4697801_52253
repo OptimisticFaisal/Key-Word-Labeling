@@ -1,0 +1,5 @@
+ned_VBN in_IN classical_JJ GMM_NN ._.
+The_DT remainder_NN of_IN this_DT section_NN assumes_VBZ a_DT basic_JJ understanding_NN of_IN the_DT EM_NN framework_NN ,_, and_CC how_WRB it_PRP is_VBZ used_VBN to_TO learn_VB a_DT GMM_NN ._.
+Many_JJ excellent_JJ tutorials_NNS cover_VBP this_DT subject_NN -LRB-_-LRB- Bilmes_NNS '_POS tutorial_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ one_CD of_IN the_DT best_JJS known_VBN and_CC most_RBS complete_JJ -RRB-_-RRB- ._.
+Assume_VB S1_NN has_VBZ dimensionality_NN k._NNP Let_NNP ω1_NNP ,_, ..._: ω_FW |_FW S1_NN |_CD be_VB the_DT Gaussian_JJ kernels_NNS centered_VBN at_IN x1_NN ,_, ..._: x_NN |_NN S1_NN |_CD respectively_RB ._.
+The_DT update_VBP rule_NN for_IN the_DT bandwidth_NN of_IN

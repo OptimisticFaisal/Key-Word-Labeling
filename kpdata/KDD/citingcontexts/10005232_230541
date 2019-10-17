@@ -1,0 +1,4 @@
+y._NN As_IN to_TO search_VB strategy_NN ,_, a_DT simple_JJ way_NN is_VBZ to_TO evaluate_VB each_DT feature_NN independently_RB and_CC form_VB a_DT subset_NN based_VBN on_IN top-ranked_JJ features_NNS ._.
+Such_JJ univariate_JJ methods_NNS have_VBP been_VBN shown_VBN effective_JJ in_IN some_DT applications_NNS =_JJ -_: =[_NN 13_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, they_PRP do_VBP not_RB work_VB well_RB when_WRB features_NNS highly_RB correlate_VBP or_CC interact_VBP with_IN each_DT other_JJ ._.
+Various_JJ subset_NN search_NN methods_NNS evaluate_VBP features_NNS in_IN a_DT subset_NN together_RB and_CC select_VB a_DT small_JJ subset_NN of_IN relevant_JJ

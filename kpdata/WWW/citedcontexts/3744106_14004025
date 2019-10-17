@@ -1,0 +1,4 @@
+edictions_NNS using_VBG query_NN similarity_NN ._.
+Our_PRP$ approach_NN to_TO do_VB similarity-aware_JJ predictions_NNS is_VBZ similar_JJ to_TO techniques_NNS introduced_VBN to_TO handle_VB tail_NN queries_NNS for_IN advertisement_NN display_NN -LRB-_-LRB- 5_CD ,_, 4_CD ,_, 22_CD -RRB-_-RRB- and_CC query_NN suggestions_NNS =_JJ -_: =[_NN 1_CD ,_, 20_CD ,_, 23_CD ,_, 17_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX is_VBZ also_RB recent_JJ work_NN which_WDT create_VBP specialized_JJ ranking_JJ models_NNS for_IN a_DT query_NN by_IN making_VBG use_NN of_IN similar_JJ queries_NNS in_IN the_DT training_NN data_NNS -LRB-_-LRB- 11_CD ,_, 18_CD -RRB-_-RRB- ._.
+Our_PRP$ approach_NN to_TO canonical_JJ query_NN selection_NN is_VBZ reminscent_JJ

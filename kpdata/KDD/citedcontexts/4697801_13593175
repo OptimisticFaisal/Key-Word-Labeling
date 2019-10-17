@@ -1,0 +1,4 @@
+e_LS is_VBZ a_DT special_JJ case_NN of_IN a_DT statistical_JJ problem_NN of_IN detecting_VBG the_DT distribution_NN change_NN from_IN a_DT stream_NN of_IN observations_NNS -LRB-_-LRB- Pollak_NNP ,_, 1985_CD -RRB-_-RRB- ._.
+There_EX are_VBP a_DT number_NN of_IN approaches_NNS to_TO this_DT problem_NN -LRB-_-LRB- Dayanik_NNP et_FW al._FW ,_, 2007_CD ;_: =_JJ -_: =_JJ Song_NN et_FW al._FW ,_, 2007_CD -_: =_JJ -_: ;_: Steyvers_NNP and_CC Brown_NNP ,_, 2006_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN we_PRP provide_VBP a_DT method_NN that_WDT naturally_RB fits_VBZ into_IN the_DT iterative_JJ framework_NN of_IN our_PRP$ context-sensitive_JJ probabilistic_JJ modeling_NN ._.
+Table_NNP 1_CD outlines_VBZ our_PRP$ failure_NN detection_NN

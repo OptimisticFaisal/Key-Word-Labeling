@@ -1,0 +1,4 @@
+mask_NN private_JJ vectors_NNS with_IN random_JJ numbers_NNS ._.
+Solutions_NNPS based_VBN on_IN linear_JJ algebra_NN techniques_NNS are_VBP believed_VBN to_TO scale_VB better_JJR and_CC perform_VB faster_RBR than_IN those_DT based_VBN on_IN cryptographic_JJ techniques_NNS ._.
+sVaidya_NN and_CC Clifton_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: presented_VBD a_DT method_NN to_TO address_VB privacy-preserving_JJ kmeans_NNS clustering_VBG for_IN vertically_RB partitioned_VBN data_NNS involving_VBG multiple_JJ parties_NNS ._.
+Given_VBN a_DT sample_NN input_NN which_WDT are_VBP held_VBN partially_RB by_IN different_JJ parties_NNS ,_, dete_NN

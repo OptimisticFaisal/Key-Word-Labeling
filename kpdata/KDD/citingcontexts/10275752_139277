@@ -1,0 +1,3 @@
+from_IN clickthrough_JJ data_NNS without_IN human_JJ intervention_NN ,_, incorporating_VBG drift_NN in_IN the_DT behavior_NN of_IN users_NNS ,_, advertisers_NNS and_CC publishers_NNS ._.
+We_PRP base_VBP our_PRP$ approach_NN by_IN adapting_VBG the_DT max-margin_NN voted_VBD perceptron_NN algorithm_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: to_TO incorporate_VB moving_VBG average_JJ weighting_NN ,_, commonly_RB used_VBN in_IN time_NN series_NN applications_NNS ._.
+Max-margin_NN voted_VBD perceptron_NN is_VBZ a_DT well-known_JJ discriminative_JJ online_NN linear_NN classifier_NN that_WDT has_VBZ been_VBN shown_VBN to_TO exhibit_VB

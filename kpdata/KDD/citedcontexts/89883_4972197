@@ -1,0 +1,4 @@
+ric_JJ subgraphs_NNS from_IN the_DT database_NN ._.
+gSpan_NN uses_VBZ DFS_NN codes_NNS for_IN canonical_JJ labeling_NN and_CC is_VBZ much_RB more_JJR memory_NN and_CC computationally_RB efficient_JJ than_IN previous_JJ approaches_NNS ._.
+Instead_RB of_IN mining_VBG all_DT subgraphs_NNS ,_, CloseGraph_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: only_JJ mines_NNS closed_VBD subgraphs_NNS ._.
+A_DT graph_NN G_NN is_VBZ closed_VBN in_IN a_DT dataset_NN if_IN there_EX exists_VBZ no_DT supergraph_NN of_IN G_NN that_WDT has_VBZ the_DT same_JJ support_NN as_IN G._NNP Gaston_NNP -LRB-_-LRB- 14_CD -RRB-_-RRB- efficiently_RB mines_NNS graph_NN datasets_NNS by_IN first_RB considering_VBG freq_NN

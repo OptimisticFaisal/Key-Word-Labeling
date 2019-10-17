@@ -1,0 +1,5 @@
+given_VBN goal_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- uses_VBZ FSMs_NNS to_TO model_VB the_DT external_JJ behaviors_NNS of_IN both_DT component_NN services_NNS and_CC composite_JJ services_NNS and_CC checks_NNS the_DT existence_NN of_IN a_DT composition_NN model_NN as_IN a_DT satisfiability_NN problem_NN in_IN DPDL_NNP Logic_NNP ._.
+=_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ situation_NN calculus_NN and_CC Petri_NN nets_NNS to_TO define_VB the_DT semantics_NNS of_IN Web_NN services_NNS described_VBN in_IN DAML-S_NN to_TO enable_VB sequential_JJ service_NN composition_NN ._.
+Some_DT approaches_NNS particularly_RB target_VBP at_IN the_DT BPEL_NNP design_NN ._.
+-LRB-_-LRB- 5_CD

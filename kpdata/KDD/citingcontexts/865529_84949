@@ -1,0 +1,5 @@
+ptimizations_NNS ._.
+Recall_VB that_IN the_DT FindGlobalPR_NN algorithm_NN -LRB-_-LRB- Algorithm_NN 2_CD -RRB-_-RRB- requires_VBZ that_IN the_DT PageRanks_NNP of_IN the_DT current_JJ expanded_JJ local_JJ domain_NN be_VB recomputed_VBN in_IN each_DT iteration_NN ._.
+Recent_JJ work_NN by_IN Langville_NNP and_CC Meyer_NNP =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: gives_VBZ an_DT algorithm_NN to_TO quickly_RB recompute_VB PageRanks_NNP of_IN a_DT given_VBN webgraph_NN if_IN a_DT small_JJ number_NN of_IN nodes_NNS are_VBP added_VBN ._.
+This_DT algorithm_NN was_VBD shown_VBN to_TO give_VB speedup_NN of_IN five_CD to_TO ten_CD times_NNS on_IN some_DT datasets_NNS ._.
+We_PRP plan_VBP to_TO

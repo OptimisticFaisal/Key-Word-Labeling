@@ -1,0 +1,4 @@
+on_IN ._.
+In_IN recent_JJ years_NNS ,_, much_JJ work_NN has_VBZ been_VBN carried_VBN out_RP to_TO address_VB the_DT graph_NN classification_NN problem_NN ._.
+Basically_RB these_DT studies_NNS can_MD be_VB divided_VBN into_IN three_CD approaches_NNS :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- structure_NN or_CC fragment-based_JJ approach_NN =_JJ -_: =[_NN 15_CD ,_, 9_CD ,_, 22_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- kernelbased_JJ approach_NN -LRB-_-LRB- 20_CD ,_, 10_CD -RRB-_-RRB- ,_, and_CC -LRB-_-LRB- 3_LS -RRB-_-RRB- boosting_VBG method_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+Typically_RB ,_, the_DT basic_JJ idea_NN of_IN structure_NN or_CC fragment-based_JJ approach_NN is_VBZ to_TO extract_VB frequent_JJ substructures_NNS -LRB-_-LRB- 15_CD ,_, 9_CD -RRB-_-RRB- ,_, local_JJ graph_NN fragments_NNS

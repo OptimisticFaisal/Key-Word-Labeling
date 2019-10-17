@@ -1,0 +1,5 @@
+any_DT ,_, knowledge_NN about_IN the_DT system_NN ._.
+The_DT approach_NN is_VBZ used_VBN to_TO try_VB and_CC learn_VB which_WDT behaviors_NNS are_VBP abnormal_JJ ._.
+The_DT black_JJ box_NN approach_NN is_VBZ implemented_VBN today_NN in_IN several_JJ systems_NNS ._.
+For_IN example_NN ,_, eBay_NN -LRB-_-LRB- see_VB Chen_NNP et_FW al._FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =--RRB-_NN experimented_VBN with_IN a_DT system_NN that_WDT diagnoses_VBZ failures_NNS by_IN training_VBG a_DT degraded_JJ decision_NN tree_NN on_IN the_DT record_NN of_IN successful_JJ and_CC failed_JJ network_NN transactions_NNS ._.
+The_DT main_JJ disadvantage_NN of_IN eBay_NNP 's_POS system_NN is_VBZ that_IN ea_NN

@@ -1,0 +1,3 @@
+d_NN by_IN the_DT number_NN of_IN potentially_RB relevant_JJ documents_NNS ,_, existing_VBG generative_JJ models_NNS can_MD be_VB deployed_VBN only_RB on_IN narrowly-selected_JJ collections_NNS ._.
+Standard_JJ Bayesian_JJ inference_NN does_VBZ not_RB scale_VB easily_RB to_TO web-size_JJ data_NN =_JJ -_: =[_NN 31_CD ,_, 12_CD -RRB-_-RRB- -_: =_JJ -_: ;_: however_RB ,_, we_PRP believe_VBP that_IN the_DT scalability_NN of_IN topic_NN models_NNS such_JJ as_IN Latent_JJ Dirichlet_NNP Allocation_NNP is_VBZ also_RB limited_VBN on_IN a_DT more_RBR fundamental_JJ level_NN by_IN the_DT underlying_VBG representation_NN ._.
+We_PRP address_VBP both_DT issues_NNS :_: we_PRP

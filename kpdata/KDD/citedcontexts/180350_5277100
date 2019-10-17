@@ -1,0 +1,4 @@
+ve_IN measures_NNS of_IN similarity_NN between_IN trajectories_NNS and\/or_CC defining_VBG a_DT metric_JJ or_CC quasi-metric_JJ to_TO compare_VB them_PRP ._.
+A_DT classical_JJ approach_NN widely_RB used_VBN in_IN time-series_JJ analysis_NN is_VBZ the_DT DTW_NNP -LRB-_-LRB- Dynamic_NNP Time_NNP Warping_NNP ,_, see_VBP =_JJ -_: =[_NN 11_CD ,_, 12_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT main_JJ idea_NN behind_IN DTW_NNP is_VBZ to_TO find_VB an_DT alignment_NN of_IN two_CD time_NN series_NN on_IN a_DT common_JJ time-axis_NN ._.
+Another_DT classical_JJ approach_NN is_VBZ to_TO use_VB a_DT vector-form_NN for_IN trajectories_NNS and_CC use_VB a_DT p-norm_NN to_TO compute_VB distances_NNS

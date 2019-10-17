@@ -1,0 +1,3 @@
+erized_VBN I-Divergence_NN In_IN certain_JJ domains_NNS ,_, data_NNS is_VBZ described_VBN by_IN probability_NN distributions_NNS ,_, e.g._FW text_NN documents_NNS can_MD be_VB represented_VBN as_IN probability_NN distributions_NNS over_IN words_NNS generated_VBN by_IN a_DT multinomial_JJ model_NN =_JJ -_: =[_NN 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+KL-divergence_NN is_VBZ a_DT widely_RB used_VBN distance_NN measure_NN for_IN such_JJ data_NNS :_: DKL_NN -LRB-_-LRB- xi_NN ,_, xj_NN -RRB-_-RRB- =_JJ ∑_FW d_FW m_NN =_JJ 1_CD xim_NN log_NN xim_NN x_NN jm_NN ,_, where_WRB xi_NN and_CC x_NN j_NN are_VBP probability_NN distributions_NNS over_IN d_NN events_NNS :_: ∑_FW d_FW m_NN =_JJ 1_CD xim_NN =_JJ ∑_FW d_FW m_NN =_JJ 1_CD x_NN jm_NN =_JJ 1_CD ._.
+I_PRP

@@ -1,0 +1,4 @@
+e_LS algorithm_NN is_VBZ completely_RB straightforward_JJ ,_, and_CC it_PRP is_VBZ highly_RB parallelizable_JJ ._.
+There_EX are_VBP a_DT variety_NN of_IN PageRank_NN optimizations_NNS which_WDT manipulate_VBP the_DT Web_NN link_NN graph_NN ._.
+For_IN example_NN ,_, dangling_VBG node_NN optimizations_NNS =_JJ -_: =[_NN 14_CD ,_, 24_CD ,_, 30_CD ,_, 31_CD -RRB-_-RRB- -_: =_JJ -_: and_CC matrix-vector_JJ product_NN acceleration_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- further_RBR reduce_VB the_DT work_NN performed_VBN in_IN an_DT iteration_NN ._.
+Our_PRP$ innerouter_NN iterations_NNS ,_, by_IN their_PRP$ nature_NN ,_, can_MD be_VB integrated_VBN with_IN these_DT solution_NN methodologies_NNS in_IN a_DT str_NN

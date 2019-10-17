@@ -1,0 +1,4 @@
+|_CD j_NN =_JJ i_FW |_FW supportCj_NN -LRB-_-LRB- A_NN -RRB-_-RRB- |_CD The_DT selected_VBN patterns_NNS are_VBP those_DT for_IN which_WDT Gr_NNP Rate_NNP is_VBZ greater_JJR than_IN a_DT user-defined_JJ threshold_NN ._.
+That_DT selection_NN criterion_NN is_VBZ clearly_RB related_JJ to_TO the_DT nice_JJ concept_NN of_IN emerging_VBG pattern_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Finally_RB ,_, we_PRP use_VBP one_CD of_IN the_DT two_CD interestingness_NN measures_NNS cited_VBD above_RB to_TO further_RB reduce_VB the_DT number_NN of_IN new_JJ descriptors_NNS while_IN preserving_VBG class_NN separation_NN ._.
+We_PRP can_MD now_RB use_VB the_DT selected_VBN itemsets_NNS as_IN feature_NN

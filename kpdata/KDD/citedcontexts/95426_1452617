@@ -1,0 +1,4 @@
+arget_NN concepts_NNS than_IN algorithms_NNS that_WDT learn_VBP solely_RB from_IN new_JJ examples_NNS ._.
+I._NNP INTRODUCTION_NNP An_DT interesting_JJ class_NN of_IN incremental_JJ learning_NN methods_NNS consists_VBZ of_IN algorithms_NNS that_WDT maintain_VBP past_JJ concept_NN descriptions_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: or_CC previously_RB encountered_VBN examples_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Most_JJS if_IN not_RB all_DT of_IN these_DT efforts_NNS have_VBP been_VBN directed_VBN at_IN learning_VBG concepts_NNS that_IN change_NN or_CC drift_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+If_IN such_JJ learners_NNS successfully_RB identify_VB and_CC leverag_VB

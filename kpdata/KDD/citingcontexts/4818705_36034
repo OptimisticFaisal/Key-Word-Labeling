@@ -1,0 +1,5 @@
+istence_NN ._.
+The_DT higher_JJR this_DT probability_NN ,_, the_DT longer_JJR the_DT intervals_NNS of_IN this_DT particular_JJ state_NN tend_VBP to_TO be_VB ._.
+A_DT well_RB known_VBN measure_NN for_IN comparing_VBG two_CD probability_NN distributions_NNS is_VBZ the_DT Kullback-Leibler_NNP divergence_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN two_CD discrete_JJ probability_NN distributions_NNS P_NN =_JJ -LCB-_-LRB- p1_NN ,_, ..._: ,_, pk_NN -RCB-_-RRB- and_CC Q_NNP =_JJ -LCB-_-LRB- q1_NN ,_, ..._: ,_, qk_IN -RCB-_-RRB- of_IN k_NN symbols_NNS it_PRP is_VBZ defined_VBN in_IN Equation_NN 1_CD ._.
+KL_NN -LRB-_-LRB- P_NN ,_, Q_NNP -RRB-_-RRB- =_JJ kX_FW i_FW =_JJ 1_CD pilog_NN -LRB-_-LRB- pi_NN qi_NN -RRB-_-RRB- -LRB-_-LRB- 1_LS -RRB-_-RRB- A_DT symmetric_JJ version_NN is_VBZ obtained_VBN by_IN t_NN

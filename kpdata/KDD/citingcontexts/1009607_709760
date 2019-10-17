@@ -1,0 +1,4 @@
+butions_NNS are_VBP the_DT following_NN :_: First_JJ ,_, we_PRP present_VBP a_DT distance_NN measure_NN that_WDT allows_VBZ us_PRP to_TO find_VB similar_JJ trajectories_NNS under_IN translation_NN ,_, scaling_NN and_CC rotational_JJ transformations_NNS ._.
+We_PRP adapt_VBP techniques_NNS developed_VBN in_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: to_TO first_RB map_VB each_DT trajectory_NN to_TO a_DT trajectory_NN in_IN a_DT rotation_NN invariant_JJ space_NN ._.
+We_PRP extend_VBP the_DT robustness_NN of_IN this_DT work_NN by_IN introducing_VBG a_DT novel_JJ iterative_JJ modulo_JJ normalization_NN technique_NN ._.
+The_DT distance_NN of_IN two_CD

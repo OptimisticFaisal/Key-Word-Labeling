@@ -1,0 +1,4 @@
+n_NN 5_CD presents_VBZ concluding_VBG remarks_NNS ._.
+2_CD Related_JJ Work_NN In_IN our_PRP$ problem_NN context_NN ,_, sensor_NN data_NNS is_VBZ an_DT unbounded_JJ multivariate_JJ time_NN series_NN data_NNS ._.
+Multivariate_JJ time_NN series_NN data_NNS classification_NN methods_NNS were_VBD studied_VBN in_IN =_JJ -_: =[_NN 4_CD ,_, 5_CD ,_, 6_CD ,_, 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, including_VBG On-demand_JJ Classifier_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, HMM_NNP -LRB-_-LRB- Hidden_NNP Markov_NNP Models_NNS -RRB-_-RRB- -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, RNN_NNP -LRB-_-LRB- Recurrent_NNP Neural_NNP Network_NNP -RRB-_-RRB- ,_, Dynamic_NNP Time_NNP Warping_NNP -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, weighted_JJ ensemble_NN classifier_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC SAX_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+These_DT methods_NNS involve_VBP larg_NN

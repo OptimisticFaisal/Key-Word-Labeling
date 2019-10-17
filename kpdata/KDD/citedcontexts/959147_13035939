@@ -1,0 +1,4 @@
+f_LS BDD_NNP ,_, namely_RB a_DT Zero-suppressed_JJ BDD_NN -LRB-_-LRB- ZBDD_NN -RRB-_-RRB- -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, which_WDT has_VBZ been_VBN introduced_VBN for_IN efficient_JJ representation_NN of_IN monotonic_JJ boolean_JJ functions_NNS and_CC has_VBZ also_RB been_VBN used_VBN for_IN mining_NN frequent_JJ and_CC emerging_VBG patterns_NNS =_JJ -_: =[_NN 18,19,27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Asurveyonother_NNP ZBDD_NNP applications_NNS can_MD be_VB found_VBN in_IN -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+We_PRP will_MD describe_VB how_WRB BDDs_NNS can_MD be_VB adopted_VBN for_IN efficiently_RB mining_VBG frequent_JJ subsequences_NNS in_IN the_DT following_JJ section_NN ._.
+4.1_CD Binary_JJ decision_NN diagrams_NNS Bin_NNP

@@ -1,0 +1,6 @@
+h_NN queries_NNS are_VBP posed_VBN ._.
+2.2_CD Sample_NNP Query_NNP Types_NNPS There_EX are_VBP many_JJ interesting_JJ data_NNS mining_NN operations_NNS one_PRP can_MD perform_VB over_IN F_NN ,_, and_CC many_JJ common_JJ notions_NNS in_IN data_NNS mining_NN ,_, such_JJ as_IN the_DT frequent_JJ itemsets_NNS computation_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- ,_, have_VBP ana_NN -_: =_JJ -_: logues_NNS in_IN the_DT space_NN of_IN formulas_NNS ._.
+Here_RB are_VBP some_DT examples_NNS :_: ._.
+Object_NN similarity_NN ._.
+Two_CD or_CC more_JJR objects_NNS can_MD be_VB considered_VBN similar_JJ if_IN they_PRP satisfy_VBP ``_`` many_JJ ''_'' formulas_NNS in_IN common_NN ._.
+In_IN contrast_NN to_TO previous_JJ

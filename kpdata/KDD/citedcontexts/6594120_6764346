@@ -1,0 +1,5 @@
+`_`` sThe_NN transformations_NNS included_VBD the_DT following_NN :_: 1_LS -RRB-_-RRB- Binary_JJ predictors_NNS indicating_VBG ranges_NNS or_CC categories_NNS within_IN variables_NNS ._.
+2_LS -RRB-_-RRB- Non-linear_JJ piece-wise_JJ Spline_NN Transformations_NNS to_TO adjust_VB non-linear_JJ relationships_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3_LS -RRB-_-RRB- Truncation_NN of_IN predictors_NNS with_IN noisy_JJ outlier_NN values_NNS ._.
+4_LS -RRB-_-RRB- Imputation_NN of_IN outlier_NN values_NNS ._.
+Detected_VBN Interaction_NN Terms_NNS :_: 2-way_JJ Combinations_NNS of_IN the_DT 19_CD predictors_NNS were_VBD analyzed_VBN for_IN statistically_RB significan_JJ

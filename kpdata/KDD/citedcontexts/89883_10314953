@@ -1,0 +1,5 @@
+d_NN and_CC costly_JJ candidate_NN generation_NN ,_, and_CC high_JJ computation_NN time_NN of_IN subgraph_JJ isomorphism_NN -LRB-_-LRB- 47_CD -RRB-_-RRB- ._.
+To_TO circumvent_VB these_DT problems_NNS ,_, gSpan_NN -LRB-_-LRB- 47_CD -RRB-_-RRB- explores_VBZ depth-first_JJ search_NN in_IN frequent_JJ subgraph_JJ mining_NN ._.
+CloseGraph_NN =_JJ -_: =[_NN 48_CD -RRB-_-RRB- -_: =_SYM -_: in_IN turn_NN mines_NNS closed_VBD frequent_JJ graphs_NNS ,_, which_WDT reduces_VBZ the_DT size_NN of_IN outputwithout_NN losing_VBG any_DT information_NN ._.
+The_DT Spin_NN method_NN -LRB-_-LRB- 49_CD -RRB-_-RRB- only_RB looks_VBZ for_IN maximal_JJ connected_JJ frequent_JJ subgraphs_NNS ._.
+Most_JJS of_IN the_DT methods_NNS me_PRP

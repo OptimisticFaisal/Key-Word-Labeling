@@ -1,0 +1,5 @@
+e_LS Web_NN ._.
+It_PRP is_VBZ necessary_JJ in_IN the_DT first_JJ place_NN to_TO mark-up_NN data_NNS on_IN the_DT Web_NN semantically_RB so_IN that_IN they_PRP can_MD be_VB understood_VBN and_CC processed_VBN by_IN agents_NNS autonomously_RB ._.
+Ontology_NN languages_NNS such_JJ as_IN DAML+OIL_NN -LRB-_-LRB- 30_CD -RRB-_-RRB- and_CC OWL_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: provide_VBP basic_JJ vocabularies_NNS for_IN such_JJ markups_NNS ._.
+To_TO support_VB autonomous_JJ reasoning_NN of_IN agents_NNS ,_, -LRB-_-LRB- a_DT large_JJ portion_NN of_IN -RRB-_-RRB- these_DT languages_NNS were_VBD designed_VBN to_TO be_VB decidable_JJ ._.
+The_DT correctness_NN of_IN ontologies_NNS are_VBP vital_JJ to_TO

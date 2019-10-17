@@ -1,0 +1,4 @@
+nces_NNS rather_RB than_IN on_IN concepts_NNS like_IN the_DT k_NN nearest_IN neighbors_NNS or_CC an_DT ε-neighborhood_NN that_WDT rely_VBP on_IN user-specified_JJ parametrization_NN ._.
+An_DT approach_NN claimed_VBD to_TO be_VB suitable_JJ for_IN high_JJ dimensional_JJ data_NNS is_VBZ proposed_VBN in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT idea_NN resembles_VBZ a_DT grid-based_JJ subspace_NN clustering_NN approach_NN where_WRB not_RB dense_JJ but_CC sparse_JJ grid_NN cells_NNS are_VBP sought_VBN to_TO report_VB objects_NNS within_IN sparse_JJ grid_NN cells_NNS as_IN outliers_NNS ._.
+Since_IN this_DT is_VBZ exponential_JJ in_IN the_DT

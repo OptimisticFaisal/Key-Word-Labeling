@@ -1,0 +1,3 @@
+Approaches_NNS combine_VBP learning_NN and_CC feature_NN selection_NN through_IN prior_JJ or_CC posterior_JJ regularization_NN ._.
+-LRB-_-LRB- Tibshirani_NNP ,_, 1994_CD -RRB-_-RRB- pioneered_VBD the_DT use_NN of_IN L1_NN regularization_NN ,_, amenable_JJ to_TO Linear_JJ Programming-based_JJ learning_NN -LRB-_-LRB- =_JJ -_: =_JJ Fung_NNP &_CC Mangasarian_NNP ,_, 2000_CD -_: =--RRB-_NN and_CC paving_VBG the_DT way_NN for_IN the_DT so-called_JJ least_JJS absolute_JJ shrinkage_NN and_CC selection_NN operator_NN -LRB-_-LRB- Lasso_NN -RRB-_-RRB- approach_NN -LRB-_-LRB- Efron_NNP et_FW al._FW ,_, 2004_CD -RRB-_-RRB- ._.
+Quite_RB a_DT few_JJ other_JJ regularization_NN approaches_NNS ,_, mostly_RB considering_VBG linear_JJ hyp_NN

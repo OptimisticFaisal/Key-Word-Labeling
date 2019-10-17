@@ -1,0 +1,4 @@
+ult_FW dataset_FW In_IN this_DT experiment_NN we_PRP compared_VBD the_DT performance_NN of_IN seven_CD different_JJ methods_NNS for_IN linear_JJ classification_NN on_IN different_JJ sized_VBN versions_NNS of_IN the_DT Adult_NN dataset_NN ._.
+Reported_VBN results_NNS on_IN the_DT SOR_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, SMO_NN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- and_CC SVM_NN a_DT -_: =_JJ -_: gent_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- are_VBP from_IN -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+F_NN -LRB-_-LRB- esults_NNS for_IN LSVM_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- resuks_NNS were_VBD computed_VBN here_RB using_VBG ``_`` 1ocopl_NN ''_'' ,_, whereas_IN SSVM_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- and_CC F_NN -LRB-_-LRB- LP_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- are_VBP from_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+The_DT SMO_NN experiments_NNS were_VBD run_VBN on_IN a_DT 266_CD MHz_NN Pentium_NN II_CD p_NN

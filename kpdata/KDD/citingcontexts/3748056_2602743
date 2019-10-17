@@ -1,0 +1,4 @@
+-LRB-_-LRB- Dsk1_NN -LRB-_-LRB- Epk_NN -LRB-_-LRB- m_NN -RRB-_-RRB- -RRB-_-RRB- -RRB-_-RRB- =_JJ m_NN ,_, but_CC where_WRB the_DT knowledge_NN of_IN a_DT single_JJ key_JJ ski_NN does_VBZ not_RB help_VB to_TO distinguish_VB between_IN Epk_NN -LRB-_-LRB- m0_NN -RRB-_-RRB- and_CC Epk_NN -LRB-_-LRB- m1_NN -RRB-_-RRB- ._.
+Such_JJ two-party_JJ homomorphic_JJ cryptosystems_NNS were_VBD proposed_VBN by_IN Damg˚ard_NN and_CC Jurik_NN =_JJ -_: =_JJ -LRB-_-LRB- DJ01_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT semi-honest_JJ case_NN ,_, key-generation_NN becomes_VBZ more_RBR complicated_JJ ,_, encryption_NN remains_VBZ unaltered_JJ and_CC decryption_NN becomes_VBZ only_RB twice_RB more_RBR resource-consuming_JJ compared_VBN to_TO the_DT original_JJ cryptosystem_NN ._.
+3.3_CD Se_NN

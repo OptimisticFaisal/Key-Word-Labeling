@@ -1,0 +1,4 @@
+7_CD ..._: $_$ 10.00_CD ._.
+a_DT mixture_NN of_IN topics_NNS ,_, and_CC a_DT topic_NN is_VBZ modeled_VBN as_IN a_DT probability_NN distribution_NN over_IN words_NNS ._.
+Topic_NN models_NNS are_VBP successfully_RB used_VBN in_IN a_DT wide_JJ variety_NN of_IN applications_NNS including_VBG information_NN retrieval_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, collaborative_JJ filtering_VBG -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, and_CC visualization_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- as_RB well_RB as_IN the_DT analysis_NN of_IN dynamics_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT topic_NN model_NN that_WDT permits_VBZ the_DT sequential_JJ analysis_NN of_IN the_DT dynamics_NNS of_IN topics_NNS with_IN

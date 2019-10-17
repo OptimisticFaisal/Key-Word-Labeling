@@ -1,0 +1,4 @@
+that_IN path_NN summaries_NNS are_VBP generally_RB very_RB small_JJ -LRB-_-LRB- 3_CD to_TO 6_CD orders_NNS of_IN magnitude_NN smaller_JJR than_IN the_DT documents_NNS -RRB-_-RRB- ,_, however_RB ,_, exploiting_VBG them_PRP may_MD still_RB be_VB challenging_JJ ,_, unless_IN carefully_RB designed_VBN algorithms_NNS are_VBP used_VBN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT path_NN summary_NN is_VBZ built_VBN in_IN O_NN -LRB-_-LRB- N_NN -RRB-_-RRB- time_NN ,_, using_VBG O_NN -LRB-_-LRB- |_CD P_NN S_NNP |_NNP -RRB-_-RRB- memory_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Our_PRP$ implementation_NN gathers_NNS 1_CD and_CC +_CC labels_NNS during_IN summary_NN construction_NN ,_, in_IN O_NN -LRB-_-LRB- N_NN +_CC |_NN P_NN S_NN |_CD -RRB-_-RRB- time_NN and_CC O_NN -LRB-_-LRB- |_CD P_NN S_NNP |_NNP -RRB-_-RRB- memory_NN ._.
+Path-partitioned_JJ sto_NN

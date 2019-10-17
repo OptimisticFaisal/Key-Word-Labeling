@@ -1,0 +1,3 @@
+particular_JJ class_NN of_IN questions_NNS -LRB-_-LRB- e.g._FW ,_, ``_`` What_WP is_VBZ the_DT location_NN of_IN the_DT headquarters_NN of_IN X_NN ?_. ''_'' -RRB-_-RRB- ._.
+While_IN question_NN answering_VBG techniques_NNS may_MD be_VB useful_JJ for_IN retrieving_VBG specific_JJ tuples_NNS in_IN the_DT target_NN relation_NN -LRB-_-LRB- e._NN =_JJ -_: =_JJ g._NN ,_, -LRB-_-LRB- 4_CD ,_, 20_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, the_DT problem_NN of_IN retrieving_VBG documents_NNS that_WDT collectively_RB contain_VBP the_DT complete_JJ relation_NN has_VBZ not_RB been_VBN addressed_VBN in_IN the_DT question-answering_JJ literature_NN ,_, to_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ._.
+Our_PRP$ work_NN is_VBZ also_RB relat_VBN

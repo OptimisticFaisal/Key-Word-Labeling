@@ -1,0 +1,5 @@
+n_NN be_VB immediately_RB verified_VBN that_IN HSST_NNP D_NNP ≤_NNP MST_NNP D_NNP ∗_NNP Nb_NNP ._.
+Therefore_RB ,_, HSST_NN D_NN will_MD be_VB reduced_VBN by_IN min1_FW ≤_FW b_NN ≤_CD k_NN imizing_VBG MST_NNP D._NNP Note_VB that_IN minimizing_VBG MST_NN D_NN is_VBZ another_DT well-known_JJ clustering_NN problem_NN ,_, k-Center_NN problem_NN -LRB-_-LRB- =_JJ -_: =_JJ Gonzalez_NNP 1985_CD -_: =--RRB-_NN ._.
+Unfortunately_RB ,_, it_PRP is_VBZ also_RB NP-hard_JJ ._.
+However_RB ,_, it_PRP has_VBZ a_DT good_JJ approximate_JJ algorithm_NN which_WDT achieves_VBZ an_DT approximation_NN ratio_NN 2_CD with_IN a_DT linear_JJ time_NN complexity_NN ._.
+That_DT algorithm_NN was_VBD first_RB proposed_VBN by_IN Gonzalez_NNP

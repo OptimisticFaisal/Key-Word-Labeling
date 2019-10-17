@@ -1,0 +1,4 @@
+tasks_NNS such_JJ as_IN document_NN clustering_NN ._.
+In_IN comparison_NN ,_, one_CD usually_RB has_VBZ to_TO apply_VB further_JJ post-processing_JJ steps_NNS ,_, such_JJ as_IN k-means_NN ,_, to_TO the_DT outputs_NNS of_IN general_JJ matrix_NN factorization_NN ._.
+As_IN demonstrated_VBN by_IN Xu_FW et_FW al._FW =_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: ,_, such_JJ post-processing_JJ steps_NNS are_VBP nonintuitive_JJ and_CC sometimes_RB do_VBP not_RB give_VB as_IN good_JJ performance_NN as_IN directly_RB using_VBG the_DT outputs_NNS of_IN NMF_NN ._.
+Third_RB ,_, another_DT feature_NN of_IN NMF_NN is_VBZ that_IN it_PRP does_VBZ not_RB require_VB orthogonalit_NN

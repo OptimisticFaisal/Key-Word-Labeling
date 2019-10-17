@@ -1,0 +1,4 @@
+f_LS the_DT training_NN data_NNS makes_VBZ them_PRP inappropriate_JJ in_IN the_DT streaming_NN environment_NN where_WRB examples_NNS are_VBP coming_VBG in_RP at_IN a_DT higher_JJR rate_NN than_IN they_PRP can_MD be_VB repeatedly_RB analyzed_VBN ._.
+Incremental_JJ or_CC online_JJ data_NNS mining_NN methods_NNS =_JJ -_: =[_NN 25_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP another_DT option_NN for_IN mining_NN data_NNS streams_NNS ._.
+These_DT methods_NNS continuously_RB revise_VB and_CC refine_VB a_DT model_NN by_IN incorporating_VBG new_JJ data_NNS as_IN they_PRP arrive_VBP ._.
+However_RB ,_, in_IN order_NN to_TO guarantee_VB that_IN the_DT model_NN trained_JJ increm_NN

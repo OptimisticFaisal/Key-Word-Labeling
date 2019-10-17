@@ -1,0 +1,4 @@
+n_NN anomaly_RB to_TO be_VB a_DT point_NN whose_WP$ nearest_JJS neighbors_NNS in_IN feature_NN space_NN are_VBP far_RB away_RB from_IN it_PRP ._.
+It_PRP uses_VBZ a_DT novel_JJ pruning_NN rule_NN to_TO obtain_VB near-linear-time_JJ performance_NN ,_, allowing_VBG it_PRP to_TO scale_VB to_TO very_RB large_JJ datasets_NNS =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+GRITBOT_NNP GritBot_NNP is_VBZ a_DT commercial_JJ product_NN from_IN RuleQuest_NNP Research_NNP -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Rather_RB than_IN just_RB looking_VBG for_IN points_NNS that_WDT are_VBP anomalous_JJ with_IN respect_NN to_TO the_DT entire_JJ dataset_NN ,_, GritBot_NN searches_NNS for_IN subsets_NNS of_IN the_DT d_NN

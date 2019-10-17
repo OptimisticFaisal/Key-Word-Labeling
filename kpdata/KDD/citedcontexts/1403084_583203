@@ -1,0 +1,4 @@
+ng_NN similar_JJ ones_NNS ,_, are_VBP dened_VBN using_VBG support_NN and_CC condence_NN ._.
+Item_NN constraints_NNS -LRB-_-LRB- BAG99_NN ,_, NLHP98_NN -RRB-_-RRB- are_VBP boolean_JJ expressions_NNS that_WDT allow_VBP the_DT user_NN to_TO specify_VB the_DT form_NN of_IN association_NN rules_NNS that_WDT will_MD be_VB selected_VBN ._.
+In_IN -LRB-_-LRB- B_NN =_JJ -_: =_JJ G99_NN -_: =-]_CD ,_, A-maximal_JJ rules_NNS ,_, that_WDT are_VBP rules_NNS for_IN which_WDT the_DT population_NN of_IN objects_NNS concerned_VBN is_VBZ reduced_VBN when_WRB an_DT item_NN is_VBZ added_VBN to_TO the_DT antecedent_JJ ,_, are_VBP dened_VBN ._.
+In_IN -LRB-_-LRB- PBTL99c_NN -RRB-_-RRB- ,_, the_DT Duquenne-Guigues_NNP basis_NN for_IN global_JJ impl_NN

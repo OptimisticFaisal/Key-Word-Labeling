@@ -1,0 +1,3 @@
+tistics_NNS communities_NNS with_IN some_DT variations_NNS to_TO fit_VB this_DT setting_NN ._.
+In_IN particular_JJ ,_, we_PRP tested_VBD the_DT use_NN of_IN auto-regressive_JJ methods_NNS from_IN the_DT time_NN series_NN analysis_NN literature_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, multivariate_JJ regression_NN methods_NNS =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC several_JJ instantiations_NNS of_IN Bayesian_JJ network_NN classifiers_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+As_IN a_DT baseline_NN and_CC sanity_NN check_NN for_IN the_DT accuracy_NN of_IN any_DT of_IN our_PRP$ models_NNS ,_, we_PRP also_RB include_VBP the_DT simplest_JJS possible_JJ model_NN ,_, which_WDT we_PRP will_MD refer_VB

@@ -1,0 +1,4 @@
+of_IN positive_JJ and_CC negative_JJ examples_NNS ._.
+Other_JJ approaches_NNS use_VBP active_JJ learning_NN -LRB-_-LRB- 94_CD ,_, 100_CD -RRB-_-RRB- ,_, where_WRB the_DT user_NN is_VBZ asked_VBN to_TO label_VB ambiguous_JJ examples_NNS by_IN the_DT learner_NN ._.
+6.2_CD Theoretical_JJ Bounds_NNS for_IN Cleaning_NNP Cohen_NNP et_FW al._FW =_SYM -_: =[_NN 29_CD -RRB-_-RRB- -_: =_JJ -_: studies_NNS the_DT theoretical_JJ problem_NN of_IN `_`` hardening_VBG a_DT soft_JJ database_NN '_'' that_WDT has_VBZ many_JJ co-referent_JJ entries_NNS ._.
+Hardening_NNP refers_VBZ to_TO the_DT task_NN of_IN figuring_VBG out_RP which_WDT pairs_NNS of_IN soft_JJ identifiers_NNS refer_VBP to_TO the_DT same_JJ real_JJ w_NN

@@ -1,0 +1,4 @@
+riable_JJ sizes_NNS -RRB-_-RRB- in_IN no_DT particular_JJ order_NN ._.
+2_CD We_PRP evaluated_VBD the_DT performance_NN of_IN the_DT systems_NNS using_VBG two_CD metrics_NNS -_: Mean_NN Reciprocal_NNP Rank_NNP -LRB-_-LRB- MRR_NNP -RRB-_-RRB- -LRB-_-LRB- Voorhees_NNP and_CC Tice_NNP ,_, 2000_CD -RRB-_-RRB- and_CC Total_NNP Reciprocal_NNP Document_NNP Rank_NNP -LRB-_-LRB- TRDR_NN -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Radev_NNP et_FW al._FW ,_, 2005_CD -_: =--RRB-_NN ._.
+MRR_NNP ,_, used_VBN in_IN the_DT TREC_NNP Q&A_NNP evaluations_NNS ,_, is_VBZ the_DT reciprocal_JJ rank_NN of_IN the_DT first_JJ correct_JJ answer_NN -LRB-_-LRB- or_CC sentence_NN ,_, in_IN our_PRP$ case_NN -RRB-_-RRB- to_TO a_DT given_VBN question_NN ._.
+This_DT measure_NN gives_VBZ us_PRP an_DT idea_NN of_IN how_WRB far_RB down_IN we_PRP must_MD look_VB

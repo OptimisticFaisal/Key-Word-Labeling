@@ -1,0 +1,4 @@
+e_LS conditional_JJ probability_NN distribution_NN of_IN C_NN given_VBN the_DT features_NNS ._.
+2.2_CD Irrelevant_JJ and_CC redundant_JJ features_NNS A_DT classical_JJ definition_NN of_IN irrelevant_JJ and_CC redundant_JJ features_NNS is_VBZ that_IN put_VBN forth_RB by_IN Blum_NNP and_CC Langley_NNP =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT notions_NNS apply_VBP to_TO regular_JJ datasets_NNS -LRB-_-LRB- such_JJ as_IN T_NN -RRB-_-RRB- ,_, rather_RB than_IN rank-order_JJ datasets_NNS -LRB-_-LRB- such_JJ as_IN T_NN R_NN -RRB-_-RRB- ._.
+A_DT feature_NN Si_NNP is_VBZ irrelevant_JJ if_IN it_PRP has_VBZ no_DT effect_NN on_IN the_DT class_NN distributions_NNS and_CC is_VBZ independent_JJ of_IN

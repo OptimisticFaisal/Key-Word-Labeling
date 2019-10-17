@@ -1,0 +1,4 @@
+those_DT objects_NNS from_IN the_DT database_NN ,_, the_DT query_NN needs_VBZ to_TO be_VB compared_VBN to_TO fewer_JJR objects_NNS in_IN order_NN to_TO be_VB classified_VBN ._.
+Approaches_NNS that_WDT speed_VBP up_RP classification_NN without_IN reducing_VBG the_DT database_NN size_NN are_VBP described_VBN in_IN =_JJ -_: =[_NN 52_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 53_CD -RRB-_-RRB- ._.
+In_IN those_DT approaches_NNS ,_, tree-based_JJ index_NN structures_NNS are_VBP constructed_VBN separately_RB for_IN each_DT class_NN ._.
+When_WRB it_PRP becomes_VBZ clear_JJ ,_, during_IN search_NN ,_, that_IN a_DT specific_JJ class_NN can_MD not_RB achieve_VB a_DT majority_NN of_IN k-nearest_NN n_NN

@@ -1,0 +1,3 @@
+the_DT training_NN set_VBN by_IN cross-validation_NN works_VBZ well_RB ._.
+Again_RB we_PRP have_VBP almost_RB the_DT same_JJ results_NNS with_IN linear_NN and_CC d-linear_NN 14sSparse_NN Grid_NNP Combination_NNP Technique_NNP Results_NNS with_IN d-linear_NN linear_NN lin_NN ._.
+dim_NN 3_CD refined_JJ SVM_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: Level_NN 10-fold_JJ time_NN -LRB-_-LRB- sec_NN -RRB-_-RRB- time_NN -LRB-_-LRB- sec_NN -RRB-_-RRB- time_NN -LRB-_-LRB- sec_NN -RRB-_-RRB- linear_JJ non-linear_JJ 1_CD train_NN 77.7_CD %_NN 2.2_CD 82.3_CD %_NN 0.1_CD 78.7_CD %_NN 0.2_CD 70.2_CD %_NN 75.8_CD %_NN test_NN 71.8_CD %_NN 72.4_CD %_NN 73.9_CD %_NN 70.0_CD %_NN 73.7_CD %_NN 2_CD train_NN 84.3_CD %_NN 27.0_CD 80.0_CD %_NN 1.0_CD 84.1_CD %_NN 1_CD

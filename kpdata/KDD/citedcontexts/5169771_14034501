@@ -1,0 +1,6 @@
+3_LS -RRB-_-RRB- ._.
+5.2_CD Datasets_NNPS We_PRP aim_VBP to_TO test_VB our_PRP$ approach_NN on_IN data_NNS from_IN a_DT wide_JJ range_NN of_IN applications_NNS and_CC sizes_NNS ._.
+A_DT set_NN of_IN 52_CD time_NN series_NN datasets_NNS available_JJ in_IN the_DT literature_NN are_VBP selected_VBN from_IN several_JJ sources_NNS ._.
+From_IN =_JJ -_: =[_NN 40_CD -RRB-_-RRB- -_: =_JJ -_: ,_, projectile_NN shapes_NNS -LRB-_-LRB- arrowhead_NN -RRB-_-RRB- ,_, brain_NN activity_NN -LRB-_-LRB- eeg_NN -RRB-_-RRB- and_CC motion-capture_NN -LRB-_-LRB- mocap_NN -RRB-_-RRB- data_NNS ._.
+Electrooculogram_NN -LRB-_-LRB- eog_NN -RRB-_-RRB- data_NNS from_IN -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+Sensor_NN networks_NNS monitoring_NN -LRB-_-LRB- sensorsnetwork_NN -RRB-_-RRB- ,_, telecommunication_NN traffic_NN -LRB-_-LRB- te_NN

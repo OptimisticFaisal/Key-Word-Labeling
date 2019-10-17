@@ -1,0 +1,5 @@
+infoboxes_NNS ._.
+This_DT would_MD lead_VB to_TO a_DT cotraining_VBG approach_NN rather_RB than_IN simple_JJ retraining_VBG ._.
+One_CD could_MD iterate_VB the_DT process_NN of_IN getting_VBG more_JJR training_NN date_NN from_IN TextRunner_NNP with_IN improvements_NNS to_TO the_DT Kylin_NNP extractor_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+By_IN adding_VBG new_JJ positive_JJ examples_NNS and_CC excluding_VBG sentences_NNS which_WDT might_MD be_VB false_JJ negatives_NNS ,_, retraining_VBG generates_VBZ a_DT greatly_RB improved_VBN training_NN set_NN ,_, as_IN we_PRP show_VBP in_IN the_DT next_JJ subsection_NN ._.
+4.2_CD Retraining_NNP Experi_NNP

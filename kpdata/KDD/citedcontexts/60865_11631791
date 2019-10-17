@@ -1,0 +1,5 @@
+y_NN are_VBP methods_NNS which_WDT optimize_VBP over_IN labeled_JJ pairwise_JJ preferences_NNS -LRB-_-LRB- e.g._FW ,_, result_NN A_NN better_JJR than_IN result_NN B_NN -RRB-_-RRB- ._.
+Existing_VBG approaches_NNS build_VB upon_IN a_DT variety_NN of_IN conventional_JJ techniques_NNS including_VBG boosting_VBG -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, SVMs_NNS =_SYM -_: =[_NN 13_CD ,_, 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC neural_JJ networks_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Implicit_JJ preference_NN feedback_NN -LRB-_-LRB- such_JJ as_IN the_DT data_NNS gathered_VBN for_IN this_DT study_NN -RRB-_-RRB- can_MD be_VB naturally_RB integrated_VBN into_IN the_DT objective_JJ functions_NNS of_IN such_JJ approaches_NNS ._.
+3_LS ._.
+DATA_NNP COLLECTION_NNP 3.1_CD C_NN

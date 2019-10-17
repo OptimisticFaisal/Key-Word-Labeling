@@ -1,0 +1,4 @@
+n_NN of_IN two_CD 2-SOAPs_NNS and_CC the_DT creation_NN of_IN a_DT 5-SOAP_NN ._.
+5.2_CD Case_NNP Study_NNP 2_CD :_: Vortex_NNP Simulation_NNP Datasets_NNPS The_DT vortex_NN dataset_NN is_VBZ generated_VBN by_IN implementing_VBG a_DT simplistic_JJ version_NN of_IN the_DT algorithm_NN proposed_VBN by_IN Christian_NNP =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT dataset_NN consists_VBZ of_IN 1970_CD snapshots_NNS ,_, with_IN around_IN 200_CD vortices_NNS in_IN each_DT snapshot_NN ._.
+The_DT number_NN of_IN vortices_NNS in_IN each_DT frame_NN is_VBZ changing_VBG over_IN time_NN ,_, as_IN an_DT existing_VBG vortex_NN can_MD dissipate_VB ,_, new_JJ vortex_NN can_MD be_VB

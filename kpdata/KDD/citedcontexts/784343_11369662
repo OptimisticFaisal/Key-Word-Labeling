@@ -1,0 +1,4 @@
+g_NN sections_NNS we_PRP will_MD present_VB data_NN mining_NN applications_NNS in_IN graphs_NNS and_CC a_DT proposed_VBN way_NN of_IN using_VBG our_PRP$ framework_NN in_IN defining_VBG the_DT empirical_JJ p-values_NN ._.
+6.1_CD Clustering_NN Graph_NN clustering_NN has_VBZ received_VBN much_JJ attention_NN =_JJ -_: =[_NN 7_CD ,_, 26_CD ,_, 28_CD ,_, 34_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- see_VB also1_NN -RRB-_-RRB- ._.
+Most_JJS of_IN the_DT clustering_NN methods_NNS define_VBP an_DT objective_JJ function_NN that_WDT has_VBZ to_TO be_VB optimized_VBN to_TO discover_VB the_DT final_JJ cluster_NN structure_NN in_IN the_DT data_NNS ._.
+Many_JJ methods_NNS focus_VBP on_IN minimizing_VBG the_DT number_NN of_IN

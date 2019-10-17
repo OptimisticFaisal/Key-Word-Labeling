@@ -1,0 +1,4 @@
+eed_NN to_TO be_VB normalized_VBN on-line_JJ ._.
+Indeed_RB ,_, working_VBG with_IN unnormalized_JJ data_NNS may_MD have_VB negative_JJ effects_NNS on_IN the_DT significance_NN of_IN any_DT similarity_NN measure_NN -LRB-_-LRB- including_VBG DT_NN W_NN -RRB-_-RRB- ,_, as_IN demonstrated_VBN for_IN static_JJ time_NN series_NN -LRB-_-LRB- =_JJ -_: =_JJ Keogh_NNP and_CC Kasetty_NNP 2003_CD -_: =-]_CD ._.
+Extending_VBG our_PRP$ method_NN to_TO normalized_VBN data_NNS does_VBZ not_RB seem_VB to_TO be_VB a_DT trivial_JJ task_NN ._.
+Intuitively_RB ,_, the_DT problem_NN with_IN normalization_NN is_VBZ that_IN now_RB a_DT data_NN sample_NN no_RB longer_RB has_VBZ a_DT fixed_VBN value_NN ,_, since_IN at_IN each_DT time_NN ste_NN

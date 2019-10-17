@@ -1,0 +1,5 @@
+ed_VBN by_IN the_DT context_NN sensitive_JJ spellers_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- cancatenation_NN of_IN multiple_JJ words_NNS ,_, e.g._FW ``_`` unitedstatesofamerica_JJ ''_'' →_NN ``_`` united_JJ states_NNS of_IN america_NN ''_'' ._.
+This_DT problem_NN can_MD be_VB tackled_VBN by_IN n-gram_NN model_NN based_VBN word_NN breaker_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 4_LS -RRB-_-RRB- splitting_NN a_DT word_NN into_IN parts_NNS ,_, e.g._FW ``_`` power_NN point_NN slides_NNS ''_'' →_NN ``_`` powerpoint_NN slides_NNS ''_'' ._.
+For_IN each_DT type_NN of_IN errors_NNS in_IN search_NN query_NN spelling_NN correction_NN ,_, there_EX are_VBP effective_JJ solutions_NNS ._.
+However_RB ,_, predicting_VBG the_DT e_SYM

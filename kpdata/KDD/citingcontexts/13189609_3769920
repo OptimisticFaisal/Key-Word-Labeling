@@ -1,0 +1,4 @@
+ide_VB a_DT set_NN of_IN core_NN operaTable_NN 1_CD :_: Applications_NNS of_IN GBASE_NN ._.
+Notice_NNP that_IN GBASE_NNP answers_VBZ wide_JJ range_NN of_IN both_CC global_JJ -LRB-_-LRB- top_JJ 3_CD rows_NNS -RRB-_-RRB- and_CC targeted_VBN queries_NNS -LRB-_-LRB- bottom_NN 5_CD rows_NNS with_IN bold_JJ fonts_NNS -RRB-_-RRB- with_IN applications_NNS in_IN browsing_VBG =_JJ -_: =[_NN 29_CD ,_, 35_CD ,_, 24_CD -RRB-_-RRB- -_: =_JJ -_: ,_, ranking_NN -LRB-_-LRB- 29_CD ,_, 35_CD -RRB-_-RRB- ,_, finding_VBG communities_NNS -LRB-_-LRB- 20_CD ,_, 24_CD -RRB-_-RRB- ,_, anomaly_JJ detection_NN -LRB-_-LRB- 34_CD ,_, 20_CD ,_, 19_CD ,_, 6_CD -RRB-_-RRB- ,_, and_CC visualization_NN -LRB-_-LRB- 24_CD ,_, 7_CD -RRB-_-RRB- ._.
+Symbol_NNP Definition_NNP G_NNP Graph_NNP ._.
+A_DT Adjacency_NN matrix_NN of_IN the_DT graph_NN G._NNP B_NNP Incidence_NN matrix_NN of_IN the_DT grap_NN

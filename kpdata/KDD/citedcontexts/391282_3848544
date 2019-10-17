@@ -1,0 +1,4 @@
+erformance_NN penalties_NNS ._.
+Unfortunately_RB ,_, the_DT probabilistic_JJ likelihood_NN of_IN job_NN failure_NN increases_NNS with_IN the_DT number_NN of_IN components_NNS on_IN which_WDT the_DT job_NN is_VBZ running_VBG ._.
+Indeed_RB ,_, it_PRP is_VBZ likely_JJ that_IN failures_NNS are_VBP correlated_VBN =_JJ -_: =[_NN 17_CD ,_, 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, hence_RB the_DT probability_NN of_IN failure_NN grows_VBZ superlinearly_RB with_IN the_DT number_NN of_IN nodes_NNS ._.
+Therefore_RB ,_, massively_RB parallel_JJ applications_NNS are_VBP expected_VBN to_TO fail_VB more_RBR frequently_RB than_IN single-processor_JJ jobs_NNS with_IN the_DT sam_NN

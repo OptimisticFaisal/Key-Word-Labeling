@@ -1,0 +1,4 @@
+tion_NN list_NN :_: :_: =_JJ attribute_NN list_NN list_NN ,_, list_NN commutative_JJ concatenation_NN l_NN ?_.
+optional_JJ attribute_NN l_NN required_VBD attribute_NN ¬_CD l_NN prohibited_VBD attribute_VB Our_PRP$ tree_NN type_NN expressions_NNS capture_VBP most_JJS of_IN the_DT schemas_NNS in_IN use_NN today_NN =_JJ -_: =[_NN 14_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN practice_NN ,_, our_PRP$ system_NN provides_VBZ parsers_NNS that_WDT convert_VBP DTDs_NNS ,_, XML_NN Schemas_NNS ,_, and_CC Relax_VB NGs_NNS to_TO this_DT internal_JJ tree_NN type_NN representation_NN ._.
+Users_NNS may_MD thus_RB define_VB constraints_NNS over_IN XML_NN documents_NNS with_IN the_DT langua_NN

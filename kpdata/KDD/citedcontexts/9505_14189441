@@ -1,0 +1,5 @@
+kenizing_VBG the_DT text_NN into_IN bags-of-words_NNS 6_CD ._.
+Then_RB ,_, we_PRP removed_VBD the_DT stop_NN words_NNS and_CC stemmed_VBD all_PDT the_DT remaining_VBG words_NNS ._.
+Next_RB ,_, we_PRP selected_VBD the_DT top_JJ 2000_CD words_NNS using_VBG mutual_JJ information_NN between_IN words_NNS and_CC documents_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Finally_RB ,_, a_DT feature_NN vector_NN for_IN each_DT document_NN is_VBZ constructed_VBN with_IN TFIDF_NN weighting_NN and_CC then_RB normalized_VBD ._.
+4.2_CD Evaluation_NN Measures_NNS 2_CD http:\/\/people.csail.mit.edu\/jrennie\/20Newsgroups\/_NN 3_CD http:\/\/www.cs.cmu.e_NN

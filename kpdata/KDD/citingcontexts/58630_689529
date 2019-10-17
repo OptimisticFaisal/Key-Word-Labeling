@@ -1,0 +1,5 @@
+stering_VBG as_IN a_DT statistical_JJ problem_NN we_PRP regard_VBP the_DT data_NNS x1_NN ,_, ..._: ,_, xn_NN as_IN a_DT sample_NN from_IN some_DT unknown_JJ probability_NN density_NN p_NN -LRB-_-LRB- x_NN -RRB-_-RRB- ._.
+There_EX are_VBP two_CD statistical_JJ approaches_NNS to_TO clustering_NN ._.
+Nonparametric_JJ clustering_NN =_JJ -_: =[_NN 21_CD ,_, 14_CD ,_, 2_CD ,_, 10_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ based_VBN on_IN the_DT premise_NN that_IN groups_NNS correspond_VBP to_TO modes_NNS of_IN the_DT density_NN p_NN -LRB-_-LRB- x_NN -RRB-_-RRB- ._.
+The_DT goal_NN then_RB is_VBZ to_TO estimate_VB the_DT modes_NNS and_CC assign_VB each_DT observation_NN to_TO the_DT ``_`` domain_NN of_IN attraction_NN ''_'' of_IN a_DT mode_NN ._.
+In_IN contrast_NN ,_, m_NN

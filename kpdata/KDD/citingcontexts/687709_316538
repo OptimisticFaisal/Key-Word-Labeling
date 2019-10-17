@@ -1,0 +1,6 @@
+posed_VBD an_DT approximation_NN of_IN -LRB-_-LRB- 31_CD -RRB-_-RRB- ._.
+Similar_JJ approach_NN is_VBZ also_RB proposed_VBN in_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Xu_FW et_FW al._FW -LRB-_-LRB- 30_CD -RRB-_-RRB- formally_RB presented_VBD the_DT tensor_NN representation_NN for_IN PCA_NNP and_CC applied_VBD it_PRP for_IN face_NN recognition_NN ._.
+Drineas_NNP and_CC Mahoney_NNP =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: showed_VBD how_WRB to_TO approximate_JJ the_DT tensor_NN SVD_NN using_VBG biased_VBN sampling_NN ._.
+These_DT methods_NNS do_VBP one_CD or_CC more_JJR of_IN the_DT following_JJ assumptions_NNS :_: the_DT dataset_NN is_VBZ dense_JJ ,_, or_CC static_JJ ._.
+We_PRP are_VBP interested_JJ in_FW sparse_FW ,_, streams_NNS of_IN ten_CD

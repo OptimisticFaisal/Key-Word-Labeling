@@ -1,0 +1,5 @@
+attempts_NNS to_TO find_VB diverse_JJ sets_NNS of_IN results_NNS that_WDT cover_VBP as_IN many_JJ topics_NNS as_IN possible_JJ ._.
+Their_PRP$ approach_NN is_VBZ based_VBN on_IN the_DT maximum_NN marginal_JJ relevance_NN -LRB-_-LRB- MMR_NN -RRB-_-RRB- technique_NN ,_, first_RB introduced_VBN in_IN Carbonell_NNP and_CC Goldstein_NNP =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN we_PRP will_MD compare_VB our_PRP$ algorithm_NN to_TO this_DT ,_, we_PRP now_RB explain_VBP MMR_NNP in_IN more_JJR detail_NN ._.
+Let_VB Sim1_NN be_VB a_DT similarity_NN function_NN between_IN queries_NNS and_CC documents_NNS ,_, and_CC Sim2_NN be_VB that_IN between_IN pairs_NNS of_IN documents_NNS ._.
+The_DT MMR_NN tec_NN

@@ -1,0 +1,5 @@
+ot_RB be_VB applied_VBN ._.
+Second_JJ ,_, incremental_JJ learning_NN requires_VBZ less_JJR memory_NN and_CC has_VBZ lower_JJR computational_JJ costs_NNS ._.
+In_IN the_DT following_NN we_PRP will_MD focus_VB on_IN incremental_JJ LDA_NN learning_NN ._.
+Existing_VBG incremental_JJ LDA_NN methods_NNS ,_, e.g._FW ,_, =_JJ -_: =[_NN 6_CD ,_, 15_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP based_VBN on_IN directly_RB updating_VBG the_DT between_IN class_NN scatter_NN matrix_NN and_CC the_DT within_IN class_NN scatter_NN matrix_NN ._.
+That_DT is_VBZ ,_, they_PRP consider_VBP mostly_RB discriminative_JJ information_NN focusing_VBG on_IN specific_JJ features_NNS that_IN best_JJS d_NN

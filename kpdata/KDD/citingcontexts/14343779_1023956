@@ -1,0 +1,5 @@
+atisfactory_NN from_IN a_DT machine_NN learning_NN perspective_NN -LRB-_-LRB- 4_CD ,_, 28_CD -RRB-_-RRB- ._.
+SGD_NNP is_VBZ an_DT iterative_JJ solver_NN ,_, sequentially_RB examining_VBG data_NNS points_NNS one_CD at_IN a_DT time_NN in_IN a_DT random_JJ order_NN ._.
+The_DT basic_JJ SGD_NNP training_NN paradigm_NN for_IN linear_JJ SVM_NN =_JJ -_: =[_NN 38_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ given_VBN in_IN Algorithm_NN 1_CD ._.
+Algorithm_NN 1_CD Training_NN Linear_JJ SVM_NN using_VBG SGD_NNP ._.
+1_CD :_: w0_FW ←_FW 0_CD 2_CD :_: for_IN i_LS =_JJ 1_CD to_TO t_NN do_VB 3_CD :_: -LRB-_-LRB- x_NN ,_, y_NN -RRB-_-RRB- ←_CD RandomExample_NN -LRB-_-LRB- D_NN -RRB-_-RRB- 4_CD :_: η_FW ←_FW GetLearningRate_NN -LRB-_-LRB- t_NN -RRB-_-RRB- 5_CD :_: if_IN y_FW 〈_FW wi_FW −_FW 1_CD ,_, x_NN 〉_NN -LRB-_-LRB- 1.0_CD then_RB 6_CD :_: δ_FW ←_FW 1_CD 7_CD :_: else_RB 8_CD

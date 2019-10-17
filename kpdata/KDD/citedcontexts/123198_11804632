@@ -1,0 +1,4 @@
+probabilistic_JJ model_NN ._.
+A_DT variety_NN of_IN algorithms_NNS have_VBP been_VBN proposed_VBN to_TO conduct_VB approximate_JJ estimation_NN ,_, for_IN example_NN variational_JJ EM_NN methods_NNS -LRB-_-LRB- Blei_NNP et_FW al._FW 2003_CD -RRB-_-RRB- ,_, Gibbs_NN sampling_NN -LRB-_-LRB- Griffiths_NNP and_CC Steyvers_NNP 2004_CD ;_: =_JJ -_: =_JJ Steyvers_FW et_FW al._FW 2004_CD -_: =--RRB-_NN ,_, and_CC expectation_NN propagation_NN -LRB-_-LRB- Griffiths_NNP and_CC Steyvers_NNP 2004_CD ;_: Minka_NNP 2003_CD -RRB-_-RRB- ._.
+We_PRP chose_VBD Gibbs_NNP sampling_NN for_IN its_PRP$ ease_NN of_IN implementation_NN ._.
+Instead_RB of_IN estimating_VBG the_DT model_NN parameters_NNS directly_RB ,_, we_PRP evaluate_VBP -LRB-_-LRB- a_LS -RRB-_-RRB- t_NN

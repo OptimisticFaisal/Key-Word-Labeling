@@ -1,0 +1,6 @@
+ture_NN ._.
+3.1.2_FW Example_FW The_DT following_NN is_VBZ a_DT simple_JJ example_NN of_IN results_NNS obtained_VBN using_VBG our_PRP$ implementation_NN of_IN the_DT GBAD-MDL_NN algorithm_NN described_VBN above_IN ._.
+In_IN Noble_NNP and_CC Cook_NNP 's_POS work_NN on_IN graph-based_JJ anomaly_NN detection_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, they_PRP presented_VBD the_DT example_NN shown_VBN in_IN Figure_NNP 1_CD ._.
+sA_NN C_NN B_NN A_NN D_NN B_NN A_NN B_NN C_NN Figure_NN 1_CD ._.
+Example_NN ,_, with_IN anomaly_RB circled_VBN ._.
+Running_VBG the_DT GBAD-MDL_NN algorithm_NN on_IN this_DT example_NN results_VBZ in_IN the_DT -LRB-_-LRB- circled_VBN -RRB-_-RRB- anomalous_JJ substructur_NN

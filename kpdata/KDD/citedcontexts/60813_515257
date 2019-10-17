@@ -1,0 +1,5 @@
+assume_VB that_IN soft_JJ constraints_NNS can_MD be_VB derived_VBN with_IN locations_NNS of_IN sites_NNS ._.
+A_DT relevant_JJ problem_NN is_VBZ semi-supervised_JJ clustering_NN ,_, where_WRB some_DT pairs_NNS of_IN instances_NNS are_VBP known_VBN belonging_VBG to_TO same_JJ or_CC different_JJ clusters_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN their_PRP$ case_NN ,_, the_DT goal_NN is_VBZ to_TO fit_VB the_DT mixture_NN model_NN to_TO the_DT data_NNS while_IN minimizing_VBG the_DT violation_NN of_IN hard_JJ constraints_NNS ._.
+2_CD Basics_NNS of_IN EM_NN A_NN finite_JJ mixture_NN model_NN of_IN K_NN components_NNS has_VBZ the_DT form_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, whe_NN

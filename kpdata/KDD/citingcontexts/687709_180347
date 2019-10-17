@@ -1,0 +1,4 @@
+can_MD also_RB be_VB envisioned_VBN as_IN matrices_NNS :_: each_DT data_NNS source_NN -LRB-_-LRB- sensor_NN -RRB-_-RRB- corresponds_VBZ to_TO a_DT row_NN ,_, and_CC each_DT time-tick_NN to_TO a_DT column_NN ._.
+Then_RB we_PRP can_MD do_VB multivariate_JJ analysis_NN or_CC SVD_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- ,_, ``_`` sketches_NNS ''_'' and_CC random_JJ projections_NNS =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: to_TO find_VB patterns_NNS and_CC outliers_NNS ._.
+The_DT need_NN for_IN tensors_NNS :_: Powerful_JJ as_IN they_PRP may_MD be_VB ,_, matrixbased_JJ tools_NNS can_MD handle_VB neither_DT of_IN the_DT two_CD problems_NNS we_PRP stated_VBD in_IN the_DT beginning_NN ._.
+The_DT crux_NN is_VBZ that_IN matrices_NNS have_VBP only_RB

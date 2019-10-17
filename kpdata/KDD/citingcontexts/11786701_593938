@@ -1,0 +1,6 @@
+as_IN in_IN our_PRP$ application_NN ._.
+-LRB-_-LRB- 32_CD -RRB-_-RRB- -LRB-_-LRB- 10_CD -RRB-_-RRB- -LRB-_-LRB- 3_CD -RRB-_-RRB- -LRB-_-LRB- 5_CD -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- -LRB-_-LRB- 1_LS -RRB-_-RRB- are_VBP also_RB template-dependent_JJ ,_, but_CC they_PRP do_VBP not_RB need_VB labeled_JJ training_NN samples_NNS ._.
+They_PRP automatically_RB produce_VBP wrappers_NNS from_IN a_DT collection_NN of_IN similar_JJ Web_NN pages_NNS ._.
+-LRB-_-LRB- 31_CD -RRB-_-RRB- =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP two_CD template-independent_JJ methods_NNS ._.
+-LRB-_-LRB- 18_CD -RRB-_-RRB- segments_NNS data_NNS on_IN list_NN pages_NNS using_VBG the_DT information_NN contained_VBN in_IN their_PRP$ detail_NN pages_NNS ._.
+The_DT need_NN of_IN detail_NN pages_NNS is_VBZ a_DT limitation_NN because_IN automatically_RB identifyin_NN

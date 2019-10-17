@@ -1,0 +1,4 @@
+s_NN research_NN papers_NNS fit_VBP into_IN a_DT well_RB defined_VBN template_NN ,_, we_PRP have_VBP used_VBN a_DT template-based_JJ reference_NN extraction_NN of_IN research_NN papers_NNS ._.
+Machine_NN learning_NN approaches_NNS discover_VBP patterns_NNS from_IN a_DT dataset_NN as_IN discussed_VBN in_IN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+Such_JJ approaches_NNS as_IN used_VBN for_IN CiteSeer_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- take_VBP advantage_NN of_IN probabilistic_JJ estimation_NN ,_, based_VBN on_IN training_NN sets_NNS of_IN tagged_VBN bibliographic_JJ data_NNS ._.
+Although_IN this_DT technique_NN has_VBZ a_DT good_JJ adaptability_NN ,_, it_PRP nee_VBD

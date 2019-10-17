@@ -1,0 +1,6 @@
+128_CD bits_NNS instead_RB of_IN 32_CD bits_NNS is_VBZ transparent_JJ to_TO the_DT Pi_NN scheme_NN ._.
+17sVII_NN ._.
+Background_NN and_CC Related_NNP Work_NNP There_EX have_VBP been_VBN several_JJ studies_NNS of_IN the_DT frequency_NN and_CC nature_NN of_IN Internet_NN DoS_NN attacks_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 25_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Many_JJ approaches_NNS have_VBP been_VBN proposed_VBN for_IN securing_VBG against_IN DoS_NN and_CC DDoS_NN attacks_NNS ._.
+Ferguson_NNP and_CC Senie_NNP propose_VBP to_TO deploy_VB network_NN ingress_NN filtering_VBG to_TO limit_VB spoofing_NN of_IN the_DT source_NN IP_NNP address_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+However_RB

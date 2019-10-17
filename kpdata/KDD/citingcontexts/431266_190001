@@ -1,0 +1,5 @@
+two_CD groups_NNS are_VBP similar_JJ if_IN sim_NN -LRB-_-LRB- g_NN ,_, h_NN -RRB-_-RRB- ≥_FW β_FW ._.
+Our_PRP$ definition_NN is_VBZ independent_JJ of_IN any_DT specific_JJ set_NN similarity_NN measure_NN ._.
+There_EX are_VBP many_JJ possible_JJ such_JJ measures_NNS ,_, including_VBG the_DT standard_JJ Jaccard_NNP similarity_NN measure_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- the_DT size_NN of_IN the_DT intersection_NN over_IN the_DT union_NN -RRB-_-RRB- ._.
+We_PRP do_VBP assume_VB that_IN the_DT similarity_NN measure_NN is_VBZ efficiently_RB computable_JJ and_CC we_PRP also_RB assume_VBP the_DT following_JJ properties_NNS hold_VBP :_: 1_CD ._.
+sim_NN -LRB-_-LRB- g_NN ,_, g_NN -RRB-_-RRB- has_VBZ maximum_NN similarity_NN

@@ -1,0 +1,4 @@
+counts_NNS of_IN how_WRB many_JJ times_NNS each_DT cache_NN item_NN was_VBD hit_VBN in_IN the_DT past_NN and_CC evicts_VBZ the_DT least_JJS frequently_RB used_VBN item_NN when_WRB needed_VBN ._.
+Several_JJ variants_NNS of_IN lfu_NN have_VBP been_VBN proposed_VBN to_TO deal_VB with_IN its_PRP$ different_JJ shortcomings_NNS =_JJ -_: =[_NN 1_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, it_PRP may_MD happen_VB in_IN lfu_NN that_IN certain_JJ items_NNS occur_VBP in_IN a_DT burst_NN to_TO accumulate_VB such_JJ high_JJ frequency_NN counts_VBZ that_IN they_PRP never_RB get_VBP evicted_VBN from_IN the_DT cache_NN ._.
+Window-lfu_JJ deals_NNS with_IN this_DT by_IN counting_VBG the_DT

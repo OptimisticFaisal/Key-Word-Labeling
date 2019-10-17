@@ -1,0 +1,4 @@
+nd_IN their_PRP$ dependencies_NNS in_IN news_NN stories_NNS ._.
+They_PRP generated_VBD a_DT graph_NN structure_NN by_IN discovering_VBG sub-clusters_NNS in_IN news_NN events_NNS and_CC organizing_VBG them_PRP by_IN their_PRP$ dependencies_NNS ._.
+In_IN a_DT similar_JJ approach_NN ,_, Mei_NN and_CC ChengXiang_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: discovered_VBD latent_JJ themes_NNS from_IN text_NN ,_, constructed_VBD an_DT evolution_NN graph_NN of_IN themes_NNS and_CC used_VBN HMMs_NNS to_TO analyze_VB the_DT life_NN cycle_NN of_IN these_DT themes_NNS ._.
+Recently_RB ,_, Shahaf_NNP and_CC Guestrin_NNP -LRB-_-LRB- 27_CD -RRB-_-RRB- studied_VBD the_DT problem_NN of_IN finding_VBG

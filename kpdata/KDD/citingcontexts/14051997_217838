@@ -1,0 +1,6 @@
+is_VBZ ,_, Dsp_NNP is_VBZ also_RB a_DT superset_NN of_IN D0_NN and_CC it_PRP has_VBZ k_NN arcs_NNS ._.
+Then_RB ,_, provided_VBN that_IN logL_NN -LRB-_-LRB- G0_NN -RRB-_-RRB- -RRB-_-RRB- −_FW ∞_FW ,_, we_PRP have_VBP logL_NN -LRB-_-LRB- Gsp_NN -RRB-_-RRB- ≥_NN 1_CD e_SYM 1_CD logL_NN -LRB-_-LRB- G0_NN -RRB-_-RRB- +_CC -LRB-_-LRB- 1_CD −_NN -RRB-_-RRB- logL_NN -LRB-_-LRB- Dopt_NN -RRB-_-RRB- ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- e_SYM Proof_NNP ._.
+We_PRP use_VBP a_DT well-known_JJ theorem_NN by_IN Nemhauser_NNP et_FW al._FW =_SYM -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: on_IN maximizing_VBG submodular_JJ set_NN functions_NNS ._.
+A_DT set_JJ function_NN f_FW is_VBZ submodular_JJ ,_, when_WRB for_IN any_DT S_NN ⊆_NN T_NN we_PRP have_VBP f_LS -LRB-_-LRB- S_NN ∪_FW u_FW -RRB-_-RRB- −_FW f_FW -LRB-_-LRB- S_NN -RRB-_-RRB- ≥_FW f_FW -LRB-_-LRB- T_NN ∪_FW u_FW -RRB-_-RRB- −_FW f_FW -LRB-_-LRB- T_NN -RRB-_-RRB- ._.
+The_DT theorem_NN in_IN -LRB-_-LRB- 25_CD -RRB-_-RRB- states_VBZ that_IN for_IN non-negative_JJ set_NN functions_NNS f_LS ,_,

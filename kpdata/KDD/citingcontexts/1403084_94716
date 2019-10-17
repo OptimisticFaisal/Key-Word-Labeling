@@ -1,0 +1,3 @@
+uction_NN There_EX are_VBP numerous_JJ proposals_NNS for_IN mining_NN rules_NNS from_IN data_NNS ._.
+Some_DT are_VBP constraint-based_JJ in_IN that_IN they_PRP mine_VBP every_DT rule_NN satisfying_VBG a_DT set_NN of_IN hard_JJ constraints_NNS such_JJ as_IN minimum_JJ support_NN or_CC confidence_NN -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 1,2,6_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Others_NNS are_VBP heuristic_NN in_IN that_IN they_PRP attempt_VBP to_TO find_VB rules_NNS that_WDT are_VBP predictive_JJ ,_, but_CC make_VBP no_DT guarantees_NNS on_IN the_DT predictiveness_NN or_CC the_DT completeness_NN of_IN the_DT returned_VBN rule_NN set_NN -LRB-_-LRB- e.g._FW decision_NN tree_NN and_CC coveri_NNS

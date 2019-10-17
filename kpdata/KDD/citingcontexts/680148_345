@@ -1,0 +1,4 @@
+n_NN rule_NN mining_NN can_MD be_VB formulated_VBN as_IN a_DT query_NN type_NN in_IN our_PRP$ framework_NN ._.
+The_DT traditional_JJ data_NNS mining_NN problem_NN of_IN finding_VBG frequent_JJ itemsets_NNS in_IN market_NN basket_NN data_NNS -LRB-_-LRB- 3_LS -RRB-_-RRB- has_VBZ also_RB been_VBN extended_VBN to_TO graph_NN structures_NNS =_JJ -_: =[_NN 12_CD ,_, 17_CD ,_, 18_CD ,_, 24_CD ,_, 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT focus_NN in_IN graphs_NNS is_VBZ on_IN finding_VBG frequent_JJ substructures_NNS ,_, the_DT graph_NN equivalent_NN of_IN frequent_JJ itemsets_NNS ._.
+Again_RB ,_, such_JJ queries_NNS are_VBP but_CC one_CD instance_NN of_IN the_DT query_NN types_NNS supported_VBN in_IN our_PRP$ framework_NN ,_, as_IN discus_NN

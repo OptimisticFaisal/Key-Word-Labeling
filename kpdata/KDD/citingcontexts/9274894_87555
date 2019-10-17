@@ -1,0 +1,3 @@
+-_: sensitive_JJ learning_NN does_VBZ not_RB consider_VB labeling_NN cost_NN ,_, assuming_VBG that_IN a_DT fixed_JJ set_NN of_IN labeled_JJ training_NN examples_NNS is_VBZ given_VBN ,_, and_CC that_IN the_DT learner_NN can_MD not_RB acquire_VB additional_JJ information_NN during_IN learning_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 7_CD ,_, 8_CD ,_, 30_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Active_JJ learning_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- focuses_VBZ on_IN the_DT problem_NN of_IN costly_JJ label_NN acquisition_NN ,_, although_IN often_RB the_DT cost_NN is_VBZ not_RB made_VBN explicit_JJ ._.
+Active_JJ learning_NN -LRB-_-LRB- cf._VBP ,_, optimal_JJ experimental_JJ design_NN -LRB-_-LRB- 33_CD -RRB-_-RRB- -RRB-_-RRB- uses_VBZ the_DT existing_VBG model_NN

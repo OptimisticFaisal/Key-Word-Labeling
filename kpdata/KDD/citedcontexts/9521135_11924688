@@ -1,0 +1,5 @@
+e_LS clustering_NN problem_NN as_IN a_DT normalized_VBN mincut_NN problem_NN ._.
+Unfortunately_RB the_DT spectral_JJ approach_NN is_VBZ not_RB really_RB scalable_JJ ,_, requiring_VBG O_NN -LRB-_-LRB- N3_NN -RRB-_-RRB- time_NN ._.
+Recently_RB ,_, a_DT scalable_JJ approximate_JJ spectral_JJ method_NN was_VBD introduced_VBN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT first_RB selects_VBZ representative_JJ points_NNS on_IN which_WDT the_DT full_JJ spectral_JJ clustering_NN is_VBZ performed_VBN ._.
+Many_JJ efforts_NNS have_VBP focused_VBN on_IN scaling_VBG spatial_JJ cluster-ing_NN ._.
+For_IN scaling_VBG hierarchical_JJ clustering_NN further_RBR ,_,

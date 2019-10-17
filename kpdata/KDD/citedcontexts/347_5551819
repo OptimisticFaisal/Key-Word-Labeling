@@ -1,0 +1,4 @@
+he_PRP accuracy_NN of_IN the_DT classifier_NN ._.
+Two_CD composite_JJ features_NNS are_VBP said_VBN to_TO provide_VB identical_JJ information_NN if_IN the_DT set_NN of_IN supporting_VBG examples_NNS of_IN these_DT two_CD composite_JJ features_NNS is_VBZ identical_JJ ,_, closed_JJ frequent_JJ itemset_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT lattice_NN representation_NN of_IN the_DT composite_JJ features_NNS obtained_VBN from_IN the_DT FIDA_NNP makes_VBZ the_DT task_NN of_IN identifying_VBG duplicates_NNS extremely_RB easy_JJ ._.
+For_IN every_DT node_NN in_IN the_DT lattice_NN we_PRP compare_VBP its_PRP$ class_NN distribution_NN w_NN

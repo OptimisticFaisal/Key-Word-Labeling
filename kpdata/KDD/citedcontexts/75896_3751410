@@ -1,0 +1,4 @@
+ee_NN can_MD be_VB supported_VBN by_IN rows_NNS that_WDT do_VBP not_RB have_VB all_DT of_IN the_DT items_NNS of_IN the_DT tree_NN ._.
+The_DT tree_NN structure_NN reflects_VBZ more_RBR closely_RB the_DT kinds_NNS of_IN co-occurrence_NN that_WDT are_VBP in_IN fact_NN present_JJ in_IN the_DT data_NNS ._.
+Fragments_NNS of_IN order_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP a_DT type_NN of_IN directed_JJ itemsets_NNS :_: a_DT fragment_NN is_VBZ violated_VBN by_IN rows_NNS having_VBG two_CD of_IN its_PRP$ items_NNS but_CC lacking_VBG at_IN least_JJS one_CD item_NN that_WDT appear_VBP between_IN the_DT two_CD ._.
+Fragments_NNS of_IN order_NN can_MD be_VB viewed_VBN as_IN simple_JJ unrooted_JJ

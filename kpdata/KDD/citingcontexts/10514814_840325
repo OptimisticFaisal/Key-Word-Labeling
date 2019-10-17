@@ -1,0 +1,3 @@
+min_NN -LCB-_-LRB- s1_NN ,_, ..._: ,_, sY_NN −_NN 1_CD -RCB-_-RRB- might_MD be_VB 0_CD ,_, in_IN which_WDT case_NN a_DT small_JJ value_NN ɛ_NN can_MD be_VB added_VBN to_TO this_DT quantity_NN ._.
+Our_PRP$ technique_NN bears_VBZ some_DT resemblance_NN to_TO the_DT bottom-up_JJ segmentation_NN algorithm_NN discussed_VBN by_IN Keogh_NNP et_FW al._FW =_SYM -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: :_: in_IN the_DT first_JJ step_NN ,_, the_DT original_JJ time_NN series_NN of_IN length_NN n_NN is_VBZ replaced_VBN with_IN an_DT initial_JJ approximation_NN of_IN length_NN n\/2_NN ._.
+Then_RB ,_, the_DT cost_NN of_IN merging_VBG each_DT pair_NN of_IN segments_NNS is_VBZ computed_VBN and_CC the_DT pair_NN with_IN the_DT low_JJ

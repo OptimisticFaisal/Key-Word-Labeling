@@ -1,0 +1,5 @@
+ery_NN algorithm_NN discovers_VBZ all_DT faculty_NN members_NNS in_IN the_DT department_NN ._.
+Currently_RB ,_, entity_NN discovery_NN is_VBZ approx_RB ._.
+90_CD %_NN accurate_JJ on_IN faculty_NN members_NNS and_CC 100_CD %_NN accurate_JJ on_IN research_NN groups_NNS ,_, courses_NNS ,_, and_CC other_JJ entities_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2.1.3_CD Record_NNP Linkage_NNP The_DT result_NN of_IN the_DT entity_NN discovery_NN model_NN is_VBZ a_DT collection_NN of_IN Web_NN pages_NNS which_WDT represent_VBP entities_NNS of_IN the_DT same_JJ type_NN ._.
+At_IN this_DT point_NN ,_, the_DT system_NN does_VBZ not_RB know_VB the_DT name_NN or_CC any_DT other_JJ id_NN

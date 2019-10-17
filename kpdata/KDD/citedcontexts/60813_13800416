@@ -1,0 +1,3 @@
+require_VB the_DT user_NN to_TO have_VB significant_JJ prior_JJ knowledge_NN about_IN the_DT categories_NNS in_IN the_DT data_NN set_NN ._.
+Amongst_IN the_DT various_JJ methods_NNS proposed_VBN for_IN utilizing_VBG user_NN provided_VBD constraints_NNS for_IN semi-supervised_JJ clustering_NN =_JJ -_: =[_NN 3_CD ,_, 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, two_CD of_IN the_DT well-known_NN include_VBP the_DT semi-supervised_JJ kernel_NN k-means_NN -LRB-_-LRB- SS-KK_NN -RRB-_-RRB- -LRB-_-LRB- 22_CD -RRB-_-RRB- and_CC semi-supervised_JJ spectral_JJ clustering_NN with_IN normalized_VBN cuts_NNS -LRB-_-LRB- SS-SNC_NN -RRB-_-RRB- -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+While_IN ,_, SS-KK_NN transforms_VBZ the_DT clustering_NN dista_NN

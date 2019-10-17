@@ -1,0 +1,4 @@
+-_: CLOSE_NN performance_NN suffers_VBZ from_IN the_DT high_JJ cost_NN of_IN the_DT off-line_JJ closure_NN calculation_NN and_CC the_DT huge_JJ number_NN of_IN subset_NN searches_NNS ._.
+The_DT authors_NNS of_IN FP-Growth_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- -LRB-_-LRB- J._NNP Han_NNP ,_, et_FW al._FW -RRB-_-RRB- proposed_JJ CLOSET_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC CLOSET_NN +_CC =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT two_CD algorithms_NNS inherit_VBP from_IN FP-Growth_NN the_DT compact_JJ FP-Tree_JJ data_NNS structure_NN and_CC the_DT exploration_NN technique_NN based_VBN on_IN recursive_JJ conditional_JJ projections_NNS of_IN the_DT FP-Tree_NN ._.
+Frequent_JJ single_JJ items_NNS are_VBP dete_NN

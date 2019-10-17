@@ -1,0 +1,3 @@
+riments_NNS ,_, we_PRP compare_VBP our_PRP$ 1-D_JJ optimal_JJ k-anonymity_NN algorithm_NN against_IN the_DT existing_VBG state-ofthe-art_JJ techniques_NNS :_: The_DT multi-dimensional_JJ -LRB-_-LRB- Mondrian_JJ -RRB-_-RRB- kanonymity_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, and_CC the_DT TopDown_JJ clustering-based_JJ technique_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- see_VB Section_NNP 2_CD for_IN details_NNS -RRB-_-RRB- ._.
+For_IN our_PRP$ optimal_JJ 1D_NN algorithm_NN ,_, we_PRP consider_VBP both_DT the_DT Hilbert_NNP -LRB-_-LRB- with_IN 12_CD bits_NNS per_IN dimension_NN -RRB-_-RRB- and_CC iDistance_NN -LRB-_-LRB- with_IN 512_CD reference_NN points_NNS -RRB-_-RRB- mappings_NNS ._.
+For_IN each_DT of_IN the_DT two_CD mappings_NNS ,_,

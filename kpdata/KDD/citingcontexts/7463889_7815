@@ -1,0 +1,3 @@
+into_IN word_NN vectors_NNS using_VBG the_DT bag-of-words_JJ representation_NN with_IN TF-IDF_NN term_NN weighting_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+To_TO examine_VB relevant_JJ terms_NNS ,_, we_PRP rank-ordered_VBD the_DT 20,687_CD unique_JJ terms_NNS from_IN the_DT Rational_JJ data_NNS set_VBN using_VBG χ_NN 2_CD scores_NNS =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT 20_CD -LRB-_-LRB- stemmed_VBN -RRB-_-RRB- terms_NNS that_WDT are_VBP most_RBS discriminative_JJ in_IN identifying_VBG positive_JJ examples_NNS are_VBP listed_VBN below_IN :_: interfac_NN ,_, enabl_NN ,_, deploi_NN ,_, scalabl_NN ,_, integr_NN ,_, deploy_NN ,_, simplifi_NN ,_, autom_NN ,_, multipl_NN ,_, platform_NN ,_, configur_NN ,_,

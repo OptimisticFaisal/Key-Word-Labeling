@@ -1,0 +1,4 @@
+ccuracy_NN ,_, precision_NN ,_, recall_NN ,_, or_CC Fscore_NN have_VBP been_VBN shown_VBN to_TO be_VB insufficient_JJ or_CC inappropriate_JJ -LRB-_-LRB- 1_CD ,_, 2_CD -RRB-_-RRB- ._.
+Furthermore_RB ,_, the_DT usefulness_NN of_IN advanced_JJ evaluation_NN measures_NNS ,_, like_IN ROC_NN curves_NNS -LRB-_-LRB- 3,2_CD ,_, 4_CD -RRB-_-RRB- and_CC cost_NN curves_NNS =_JJ -_: =[_NN 5,6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, deteriorates_VBZ in_IN the_DT presence_NN of_IN a_DT limited_JJ number_NN of_IN positive_JJ examples_NNS ._.
+The_DT need_NN for_IN confidence_NN in_IN classifier_NN evaluation_NN in_IN machine_NN learning_NN has_VBZ lead_VBN to_TO the_DT construction_NN of_IN ROC_NN confidence_NN bands_NNS ._.
+Meth_NNP

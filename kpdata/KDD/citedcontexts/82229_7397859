@@ -1,0 +1,3 @@
+wering_VBG exact_JJ match_NN queries_NNS ._.
+Since_IN the_DT objective_JJ measurements_NNS of_IN the_DT quality_NN of_IN a_DT proposed_VBN similarity_NN measure_NN can_MD be_VB readily_RB obtained_VBN by_IN running_VBG simple_JJ classification_NN experiments_NNS on_IN labeled_JJ data_NNS sets_VBZ =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP first_RB compare_VBP the_DT classification_NN error_NN rates_NNS in_IN results_NNS produced_VBN by_IN the_DT weighted_JJ Euclidean_JJ distances_NNS to_TO those_DT of_IN DTW_NN and_CC LCSS_NN by_IN evaluating_VBG them_PRP on_IN the_DT Control-Chart_NN -LRB-_-LRB- CC_NN -RRB-_-RRB- data_NN set_NN ._.
+We_PRP compare_VBP WED_NN

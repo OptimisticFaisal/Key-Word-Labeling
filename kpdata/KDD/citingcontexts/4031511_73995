@@ -1,0 +1,4 @@
+-LRB-_-LRB- pruned_VBN -RRB-_-RRB- error_NN functions_NNS are_VBP optimized_VBN -LRB-_-LRB- cf._VBP Queries_NNS 1_CD and_CC 3_CD of_IN Section_NN 3_CD -RRB-_-RRB- ._.
+First_RB ,_, both_DT algorithms_NNS were_VBD applied_VBN with_IN the_DT same_JJ minimum_JJ frequency_NN setting_NN constraint_NN ._.
+We_PRP used_VBD a_DT corrected_JJ two-tailed_JJ t-test_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: with_IN a_DT significance_NN threshold_NN of_IN 5_CD %_NN to_TO compare_VB the_DT test_NN accuracies_NNS of_IN both_DT systems_NNS ._.
+A_DT test_NN set_NN accuracy_NN result_NN is_VBZ in_IN bold_JJ when_WRB it_PRP is_VBZ significantly_RB better_JJR than_IN its_PRP$ counterpart_NN result_NN on_IN the_DT other_JJ syst_NN

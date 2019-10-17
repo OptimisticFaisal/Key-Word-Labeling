@@ -1,0 +1,5 @@
+between_IN distributions_NNS are_VBP clearly_RB pinpointed_VBN ._.
+5_CD ._.
+RELATED_NNS WORK_VBP Our_PRP$ dissimilarity_NN measure_NN DS_NN is_VBZ clearly_RB related_JJ to_TO the_DT Normalized_NNP Information_NNP Distance_NNP -LRB-_-LRB- NID_NNP -RRB-_-RRB- and_CC its_PRP$ compression-based_JJ instantiation_NN NCD_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+With_IN the_DT NCD_NNP ,_, general_JJ compressors_NNS like_IN gzip_NN are_VBP used_VBN as_IN Kolmogorov_NNP complexity_NN approximators_NNS and_CC as_IN such_JJ compressed_VBN sizes_NNS are_VBP used_VBN to_TO measure_VB distance_NN between_IN strings_NNS ._.
+As_IN a_DT generic_JJ distance_NN ,_, the_DT NID_NN

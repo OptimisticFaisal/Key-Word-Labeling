@@ -1,0 +1,4 @@
+ibbs_NNS &_CC EM_FW Hybrid_FW Training_NN Given_IN the_DT model_NN structure_NN ,_, the_DT next_JJ step_NN is_VBZ to_TO learn_VB model_NN parameters_NNS ._.
+There_EX are_VBP some_DT standard_JJ learning_NN algorithms_NNS ,_, such_JJ as_IN Gibbs_NNP sampling_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, Expectation-Maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC Gradient_NN descent_NN ._.
+For_IN CCF_NNP ,_, we_PRP propose_VBP a_DT hybrid_NN training_NN strategy_NN :_: We_PRP first_RB run_VBP Gibbs_NNP sampling_NN for_IN a_DT few_JJ iterations_NNS ,_, then_RB switch_NN to_TO EM_NNP ._.
+The_DT model_NN trained_VBN by_IN Gibbs_NNP sampling_NN provides_VBZ the_DT initializa_NN

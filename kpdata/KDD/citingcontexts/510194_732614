@@ -1,0 +1,7 @@
+econd_JJ association_NN measure_NN based_VBN on_IN chi-squared_JJ statistic_NN z2_NN -LRB-_-LRB- X_NN ,_, Y_NN -RRB-_-RRB- =_JJ N_NNP F._NNP jq_NN -LRB-_-LRB- Pjq_NN -_: pj_NN ._.
+p._NN q_NN -RRB-_-RRB- 2_CD \/_: -LRB-_-LRB- pj_NN ._.
+p._NN q_NN -RRB-_-RRB- ._.
+where_WRB N_NN is_VBZ total_JJ number_NN of_IN cases_NNS ._.
+A_DT well_RB known_VBN normalization_NN of_IN chi-squared_JJ statistic_NN scaled_VBN to_TO =_JJ -_: =[_NN 0,1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT represents_VBZ the_DT strength_NN of_IN association_NN is_VBZ Cramer_NNP 's_POS V_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- V_NN -LRB-_-LRB- X_NN ,_, Y_NN -RRB-_-RRB- =_JJ z2_NN -LRB-_-LRB- X_NN ,_, Y_NN -RRB-_-RRB- \/_: -LRB-_-LRB- N_NN rain_NN -LRB-_-LRB- Q_NNP ,_, J_NNP -RRB-_-RRB- -_: l_NN -RRB-_-RRB- ._.
+The_DT third_JJ measure_NN of_IN association_NN used_VBN in_IN EDA_NNP is_VBZ a_DT Goodman-Kruskal_JJ association_NN index_NN ._.
+Consider_VB a_DT

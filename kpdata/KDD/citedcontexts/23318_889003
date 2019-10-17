@@ -1,0 +1,5 @@
+then_RB recommend_VB the_DT given_VBN user_NN items_NNS accessed_VBN by_IN the_DT like-minded_JJ users_NNS ._.
+Clustering_NN ,_, in_IN the_DT context_NN of_IN Web_NN data_NNS ,_, can_MD either_RB be_VB used_VBN to_TO group_VB together_RB similar_JJ items_NNS or_CC users_NNS with_IN similar_JJ usage_NN patterns_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Classification_NN ,_, on_IN the_DT other_JJ hand_NN ,_, is_VBZ the_DT task_NN of_IN categorizing_VBG items_NNS to_TO pre-defined_JJ classes_NNS ._.
+It_PRP 's_VBZ used_VBN to_TO identify_VB users_NNS belonging_VBG to_TO same_JJ classes_NNS ._.
+Decision_NN trees_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, Bayesian_JJ classifiers_NNS ,_, k-neare_NN

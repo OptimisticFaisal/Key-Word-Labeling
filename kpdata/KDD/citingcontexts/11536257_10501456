@@ -1,0 +1,6 @@
+ets_NN ._.
+In_IN this_DT case_NN ,_, the_DT batch_NN method_NN Full-Opt_NNP ._.
+-_: L1_NN is_VBZ optimal_JJ in_IN the_DT sense_NN of_IN obtaining_VBG the_DT best_JJS subset_NN of_IN features_NNS ,_, achieving_VBG the_DT best_JJS predictive_JJ performance_NN ,_, etc._NN ._.
+Although_IN stochastic_JJ gradient_NN methods_NNS =_JJ -_: =[_NN 26_CD ,_, 25_CD -RRB-_-RRB- -_: =_SYM -_: may_MD achieve_VB better_JJR time_NN efficiency_NN than_IN Full-Opt_NNP ._.
+-_: L1_NN ,_, they_PRP usually_RB select_VBP many_JJ irrelevant_JJ features_NNS because_IN of_IN the_DT approximate_JJ stochastic_JJ gradients_NNS they_PRP are_VBP using_VBG ._.
+The_DT main_JJ observation_NN in_IN these_DT experi_NNS

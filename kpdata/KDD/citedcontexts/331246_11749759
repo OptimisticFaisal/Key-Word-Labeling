@@ -1,0 +1,3 @@
+igenvectors_NNS and_CC eigenvalues_NNS of_IN the_DT normalized_VBN laplacian_NN matrix_NN ._.
+We_PRP compare_VBP our_PRP$ method_NN to_TO approaches_NNS which_WDT are_VBP based_VBN on_IN local_JJ features_NNS of_IN a_DT network_NN ,_, such_JJ as_IN FOAF_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, to_TO global_JJ approaches_NNS ,_, such_JJ as_IN RWR_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: and_CC we_PRP also_RB compare_VBP our_PRP$ method_NN with_IN traditional_JJ clustering_NN algorithms_NNS ,_, such_JJ as_IN k-means_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+As_IN will_MD be_VB shown_VBN in_IN the_DT experimental_JJ section_NN our_PRP$ proposed_VBN method_NN outperforms_VBZ ,_, having_VBG many_JJ fine_JJ properties_NNS t_NN

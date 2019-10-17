@@ -1,0 +1,5 @@
+rom_VB the_DT feature_NN set_NN according_VBG to_TO certain_JJ discriminant_JJ score_NN ranking_NN ._.
+Recent_JJ research_NN has_VBZ focused_VBN more_RBR on_IN general_JJ sparsity_NN treatments_NNS to_TO construct_VB sparse_JJ estimates_NNS of_IN classifier_NN parameters_NNS ,_, such_JJ as_IN in_IN =_JJ -_: =[_NN 6_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT models_NNS control_VBP the_DT classifier_NN complexity_NN by_IN sparse-favoring_JJ regularization_NN terms_NNS ,_, such_JJ as_IN the_DT ℓ1-norm_JJ regularization_NN |_NNP |_NNP w_NNP |_NNP |_NNP 1_CD =_JJ |_FW wi_FW |_NN for_IN a_DT linear_JJ classifier_NN of_IN the_DT form_NN sign_NN -LRB-_-LRB- w_NN T_NN x_NN -RRB-_-RRB- ._.
+3_LS ._.
+LUNGCAD_NN

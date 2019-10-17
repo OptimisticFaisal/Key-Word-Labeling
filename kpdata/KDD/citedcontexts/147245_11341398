@@ -1,0 +1,4 @@
+There_EX is_VBZ significant_JJ work_NN on_IN using_VBG ensembles_NNS to_TO tackle_VB concept_NN drift_NN ._.
+These_DT approaches_NNS are_VBP motivated_VBN by_IN the_DT fact_NN that_IN it_PRP is_VBZ often_RB useful_JJ to_TO have_VB multiple_JJ -LRB-_-LRB- weighted_JJ -RRB-_-RRB- opinions_NNS before_IN making_VBG a_DT decision_NN ._.
+=_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: presented_VBD an_DT ensemble_NN method_NN for_IN concept_NN drift_NN by_IN assigning_VBG weights_NNS to_TO classifiers_NNS based_VBN on_IN their_PRP$ accuracies_NNS ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- extended_VBN this_DT work_NN by_IN dynamically_RB creating_VBG and_CC removing_VBG weighted_JJ experts_NNS in_IN response_NN

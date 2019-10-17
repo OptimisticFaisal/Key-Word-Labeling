@@ -1,0 +1,5 @@
+Streaming_VBG feature_NN selection_NN using_VBG alpha-investing_NN
+at_IN iteration_NN i_FW ,_, also_RB let_VBD α_FW ∆_FW be_VB a_DT user_NN selected_JJ parameter_NN ._.
+Then_RB :_: E_NN -LRB-_-LRB- N_NN -RRB-_-RRB- -LRB-_-LRB- -LRB-_-LRB- α_FW ∆_FW E_NN -LRB-_-LRB- M_NN -RRB-_-RRB- +_CC w0_NN -RRB-_-RRB- \/_: -LRB-_-LRB- 1_CD −_FW α_FW ∆_NN -RRB-_-RRB- The_DT proof_NN for_IN multiple_JJ streams_NNS follows_VBZ trivially_RB from_IN the_DT proof_NN for_IN the_DT single_JJ stream_NN case_NN presented_VBN in_IN -LRB-_-LRB- =_JJ -_: =_JJ Zhou_NNP et_FW al._FW ,_, 2005_CD -_: =--RRB-_NN ._.
+Proof_NN :_: The_DT proof_NN relies_VBZ on_IN the_DT fact_NN that_IN Si_NNP ≡_NNP -LRB-_-LRB- 1_CD −_FW α_FW ∆_NN -RRB-_-RRB- Ni_FW −_FW α_FW ∆_FW Mi_FW +_CC wi_FW is_VBZ a_DT super-martingale_JJ i.e._FW Si_NNP is_VBZ ,_, in_IN expectation_NN ,_, non_JJ increasing_VBG in_IN each_DT iteration_NN :_: E_NN -LRB-_-LRB- Si_NNP -RRB-_-RRB- ≤_NNP Si_NNP −_NNP 1_CD ._.
+Thus_RB E_NN -LRB-_-LRB- Si_NNP -RRB-_-RRB- ≤_NN S0_NN but_CC since_IN we_PRP s_VBZ

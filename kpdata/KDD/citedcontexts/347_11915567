@@ -1,0 +1,5 @@
+2_CD -LRB-_-LRB- a_DT -RRB-_-RRB- and_CC 2_CD -LRB-_-LRB- b_NN -RRB-_-RRB- ._.
+-LRB-_-LRB- a_DT -RRB-_-RRB- Insects_NNPS -LRB-_-LRB- b_NN -RRB-_-RRB- Birds_NNPS Fig._NNP 2_CD ._.
+The_DT frequent_JJ lattices_NNS G_NN -LCB-_-LRB- Insects_NNS -RCB-_-RRB- 0.6_CD and_CC G_NN -LCB-_-LRB- Birds_NNS -RCB-_-RRB- 0.6_CD Implication_NN rules_NNS ,_, together_RB with_IN association_NN rules_NNS ,_, are_VBP often_RB built_VBN using_VBG closed_JJ frequent_JJ itemsets_NNS =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT basic_JJ idea_NN is_VBZ that_IN a_DT node_NN in_IN the_DT concept_NN lattice_NN corresponds_VBZ to_TO an_DT equivalence_JJ class_NN of_IN terms_NNS ,_, all_DT sharing_VBG the_DT same_JJ extent_NN ._.
+In_IN particular_JJ ,_, the_DT intent_NN of_IN the_DT node_NN ,_, i.e._FW ,_, the_DT unique_JJ greatest_JJS term_NN ,_,

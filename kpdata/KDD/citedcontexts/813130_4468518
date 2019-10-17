@@ -1,0 +1,3 @@
+log_NN 2_CD log_NN 1Þ_NN space_NN and_CC time_NN algorithm_NN was_VBD given_VBN for_IN this_DT problem_NN ._.
+Note_VB that_IN this_DT is_VBZ independent_JJ of_IN N_NN ,_, dependent_JJ only_RB on_IN probability_NN of_IN failure_NN and_CC approximation_NN factor_NN ._.
+Other_JJ one-pass_JJ algorithms_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 24_CD -RRB-_-RRB- do_VBP notsGILBERT_NNP ET_NNP AL._NNP :_: DOMAIN-DRIVEN_NNP DATA_NNP SYNOPSES_NNS FOR_IN DYNAMIC_JJ QUANTILES_NN 3_CD provide_VBP a_DT priori_FW guarantees_NNS ;_: however_RB ,_, performance_NN of_IN these_DT algorithms_NNS on_IN various_JJ data_NNS sets_NNS has_VBZ been_VBN experimentally_RB inv_RB

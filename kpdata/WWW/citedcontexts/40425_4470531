@@ -1,0 +1,4 @@
+at_IN this_DT node_NN that_WDT will_MD eventually_RB arrive_VB at_IN the_DT target_NN node_NN without_IN performing_VBG a_DT random_JJ jump_NN in_IN between_IN ._.
+We_PRP note_VBP that_IN influence_NN is_VBZ related_JJ to_TO the_DT inverse_JJ distance_NN measure_NN defined_VBN by_IN Jeh_NNP and_CC Widom_NNP in_IN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT overall_JJ impact_NN that_IN a_DT node_NN has_VBZ on_IN the_DT estimation_NN error_NN at_IN the_DT target_NN depends_VBZ on_IN its_PRP$ influence_NN and_CC the_DT absolute_JJ PageRank_NN estimation_NN error_NN at_IN the_DT node_NN -LRB-_-LRB- which_WDT we_PRP do_VBP not_RB know_VB -RRB-_-RRB- ._.
+Formally_RB ,_, the_DT absolut_NN

@@ -1,0 +1,4 @@
+model_VB the_DT relations_NNS between_IN authors_NNS and_CC their_PRP$ research_NN interest_NN topics_NNS ._.
+Supervised_VBN topic_NN model_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- is_VBZ proposed_VBN to_TO model_VB the_DT relations_NNS between_IN topics_NNS and_CC movie_NN ratings_NNS ._.
+Several_JJ sentiment_NN topic_NN models_NNS =_JJ -_: =[_NN 7_CD ,_, 8_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP proposed_VBN to_TO model_VB the_DT relations_NNS between_IN topics_NNS and_CC human_JJ 's_POS sentiments_NNS or_CC opinions_NNS ._.
+However_RB ,_, structured_JJ and_CC unstructured_JJ text_NN information_NN is_VBZ so_RB diversity_NN and_CC only_RB above_IN models_NNS are_VBP not_RB enough_RB to_TO ex_FW

@@ -1,0 +1,4 @@
+provide_VB a_DT different_JJ way_NN of_IN modeling_NN the_DT background_NN transition_NN patterns_NNS we_PRP try_VBP to_TO capture_VB ._.
+Semi-Markov_NNP models_NNS are_VBP a_DT standard_JJ type_NN of_IN stochastic_JJ process_NN for_IN modeling_NN transitions_NNS with_IN timing_NN information_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP contain_VBP parameters_NNS not_RB only_RB for_IN transition_NN probabilities_NNS between_IN states_NNS ,_, but_CC also_RB for_IN durations_NNS of_IN stay_NN in_IN each_DT state_NN ._.
+While_IN our_PRP$ models_NNS neglected_VBD durations_NNS -LRB-_-LRB- in_IN order_NN to_TO focus_VB on_IN simultaneity_NN of_IN

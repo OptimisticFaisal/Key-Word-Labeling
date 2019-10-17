@@ -1,0 +1,3 @@
+profile_NN misclassifies_VBZ the_DT article_NN as_IN interesting_JJ ,_, the_DT cluster_NN is_VBZ updated_VBN to_TO remove_VB the_DT influence_NN of_IN terms_NNS that_WDT are_VBP not_RB useful_JJ for_IN predicting_VBG interestingness_NN ._.
+This_DT technique_NN is_VBZ similar_JJ to_TO query_VB zoning_VBG =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB a_DT select_JJ set_NN of_IN non-relevant_JJ articles_NNS that_WDT have_VBP some_DT relationship_NN to_TO a_DT user_NN 's_POS interests_NNS is_VBZ used_VBN for_IN updating_VBG profile_NN vectors_NNS ._.
+The_DT parameter_NN γ_NN determines_VBZ how_WRB much_JJ weight_NN negative_JJ documents_NNS in_IN t_NN

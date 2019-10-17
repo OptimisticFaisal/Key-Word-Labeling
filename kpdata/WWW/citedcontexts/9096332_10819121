@@ -1,0 +1,4 @@
+e_LS filters_NNS ,_, which_WDT can_MD decrease_VB the_DT number_NN of_IN candidate_NN pairs_NNS whose_WP$ similarity_NN needs_VBZ to_TO be_VB verified_VBN ._.
+In_IN the_DT past_JJ few_JJ years_NNS ,_, there_EX have_VBP been_VBN several_JJ studies_NNS involving_VBG a_DT technique_NN called_VBN prefix_NN filtering_VBG =_JJ -_: =[_NN 6_CD ,_, 4_CD ,_, 29_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ based_VBN on_IN the_DT pigeonhole_NN principle_NN and_CC works_VBZ as_IN follows_VBZ ._.
+The_DT tokens_NNS of_IN strings_NNS are_VBP ordered_VBN based_VBN on_IN a_DT global_JJ token_JJ ordering_VBG ._.
+For_IN each_DT string_NN ,_, we_PRP define_VBP its_PRP$ prefix_NN of_IN length_NN n_NN as_IN the_DT first_JJ n_NN

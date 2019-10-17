@@ -1,0 +1,4 @@
+Serialization_NNP All_NNP communication_NN between_IN the_DT agents_NNS is_VBZ in_IN RDF_NNP ._.
+More_RBR specifically_RB ,_, N-Quads_NNS -LRB-_-LRB- Cyganiak_NNP et_FW al._FW 2009_CD -RRB-_-RRB- is_VBZ used_VBN as_IN the_DT concrete_JJ serialization_NN format_NN in_IN order_NN to_TO allow_VB the_DT use_NN of_IN Named_VBN Graphs_NNS -LRB-_-LRB- =_JJ -_: =_JJ Carroll_NNP et_FW al._FW 2005_CD -_: =--RRB-_NN ._.
+The_DT reason_NN for_IN mandating_VBG support_NN for_IN Named_VBN Graphs_NNS is_VBZ that_IN it_PRP provides_VBZ the_DT notion_NN of_IN contexts_NNS ,_, which_WDT makes_VBZ it_PRP possible_JJ to_TO assert_VB statements_NNS about_IN the_DT RDF-graph_NN itself_PRP ._.
+Examples_NNS of_IN useful_JJ assertions_NNS

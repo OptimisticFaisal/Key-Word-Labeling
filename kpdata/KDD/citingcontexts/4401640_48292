@@ -1,0 +1,3 @@
+transforming_VBG a_DT set_NN of_IN data_NNS points_NNS into_IN a_DT lower_JJR dimensional_JJ one_CD such_JJ that_IN -LRB-_-LRB- some_DT or_CC all_DT -RRB-_-RRB- distances_NNS are_VBP preserved_JJ ._.
+Examples_NNS of_IN these_DT approaches_NNS include_VBP algorithms_NNS such_JJ as_IN Multidimensional_JJ Scaling_NN -LRB-_-LRB- MDS_NN -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Locally_RB Linear_JJ Embeddings_NNS -LRB-_-LRB- LLE_NN -RRB-_-RRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, ISOMAP_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, and_CC low-dimensional_JJ embeddings_NNS via_IN SDP_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+These_DT methods_NNS can_MD implicitly_RB reduce_VB the_DT amount_NN of_IN computation_NN regarding_VBG distance_NN calculations_NNS ;_: however_RB

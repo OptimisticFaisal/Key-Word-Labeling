@@ -1,0 +1,5 @@
+our_PRP$ mining_NN approach_NN ,_, but_CC we_PRP focus_VBP mainly_RB on_IN support_NN ._.
+2.2_CD ._.
+Cost-based_JJ classification_NN The_DT classification_NN model_NN discussed_VBN in_IN this_DT paper_NN can_MD be_VB used_VBN for_IN the_DT general_JJ case_NN of_IN costsensitive_JJ classification_NN -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP ,_, 1999_CD -_: =--RRB-_NN ._.
+In_IN this_DT section_NN ,_, we_PRP provide_VBP some_DT definitions_NNS relevant_JJ to_TO this_DT topic_NN ._.
+We_PRP assume_VBP that_IN the_DT training_NN database_NN D_NN for_IN classification_NN consists_VBZ of_IN a_DT set_NN of_IN |_NN D_NN |_CD structures_NNS ,_, each_DT of_IN which_WDT is_VBZ associated_VBN with_IN

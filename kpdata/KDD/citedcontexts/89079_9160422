@@ -1,0 +1,4 @@
+tion_NN of_IN a_DT time_NN series_NN ._.
+Figure1_NN :_: Example_NN of_IN different_JJ types_NNS of_IN shapes_NNS or_CC events_NNS occurring_VBG in_IN a_DT time_NN series_NN ._.
+The_DT event_NN representation_NN of_IN a_DT time_NN series_NN can_MD be_VB used_VBN for_IN different_JJ purposes_NNS as_IN discussed_VBN in_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, some_DT of_IN which_WDT are_VBP as_IN follows_VBZ :_: -LRB-_-LRB- a_LS -RRB-_-RRB- Association_NN rule_NN mining_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- in_IN time_NN series_NN ,_, which_WDT requires_VBZ an_DT event_NN representation_NN of_IN time_NN series_NN ._.
+Events_NNS in_IN our_PRP$ case_NN are_VBP analogous_JJ to_TO the_DT primitive_JJ shapes_NNS in_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- f_SYM

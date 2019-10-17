@@ -1,0 +1,3 @@
+t-response_NN Web_NN Service_NN operation_NN ._.
+If_IN the_DT user_NN wants_VBZ a_DT full_JJ set_NN of_IN programming_NN functionality_NN to_TO create_VB Web_NN Service_NNP -LRB-_-LRB- such_JJ as_IN event_NN handling_NN -RRB-_-RRB- ,_, a_DT special_JJ programming_NN language_NN for_IN Web_NN Services_NNPS ,_, such_JJ as_IN XL_NNP =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, could_MD be_VB used_VBN instead_RB of_IN WSCD_NNP ._.
+In_IN fact_NN ,_, since_IN XL_NNP uses_VBZ XQuery_NN expressions_NNS to_TO access_NN data_NNS ,_, a_DT possible_JJ extension_NN of_IN WReX_NN is_VBZ to_TO support_VB the_DT XL_NNP language_NN ,_, in_IN addition_NN to_TO WSCD_NNP ,_, for_IN services_NNS with_IN complicate_VBP

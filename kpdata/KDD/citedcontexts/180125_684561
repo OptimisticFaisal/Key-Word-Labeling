@@ -1,0 +1,4 @@
+the_DT recent_JJ past_NN ._.
+Aurora_NNP 's_POS efficiency_NN comes_VBZ from_IN a_DT carefully_RB designed_VBN run-time_NN system_NN and_CC a_DT query_JJ optimizer_NN ,_, rather_RB than_IN Sawzall_NNP 's_POS brute_JJ force_NN parallel_JJ style_NN ._.
+Another_DT stream_NN processing_NN system_NN ,_, Hancock_NNP =_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, goes_VBZ further_RBR and_CC provides_VBZ extensive_JJ support_NN for_IN storing_VBG per-query_JJ intermediate_JJ state_NN ._.
+This_DT is_VBZ quite_RB a_DT contrast_NN to_TO Sawzall_NNP ,_, which_WDT deliberately_RB reverts_VBZ to_TO its_PRP$ initialization_NN state_NN after_IN each_DT input_NN rec_NN

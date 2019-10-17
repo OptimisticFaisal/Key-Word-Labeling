@@ -1,0 +1,6 @@
+quential_RB scan_VB is_VBZ performed_VBN on_IN the_DT database_NN and_CC the_DT objects_NNS are_VBP inserted_VBN into_IN a_DT CF-tree_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+At_IN the_DT end_NN of_IN the_DT process_NN ,_, the_DT centers_NNS of_IN all_PDT the_DT CFs_NNS are_VBP recorded_VBN and_CC inserted_VBN into_IN a_DT memory-based_JJ X-tree_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2_CD ._.
+Fix_VB CF_NN node_NN and_CC generate_VB micro-clusters_NNS ._.
+A_DT second_JJ scan_VBP is_VBZ then_RB performed_VBN on_IN the_DT database_NN and_CC the_DT objects_NNS are_VBP assigned_VBN to_TO their_PRP$ nearest_JJS centers_NNS computed_VBN in_IN the_DT previous_JJ steps_NNS ._.
+In_IN the_DT process_NN ,_, the_DT

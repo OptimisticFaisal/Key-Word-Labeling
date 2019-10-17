@@ -1,0 +1,4 @@
+-RRB-_-RRB- frequent_JJ ,_, -LRB-_-LRB- b_NN -RRB-_-RRB- maximal_JJ ,_, and_CC -LRB-_-LRB- c_LS -RRB-_-RRB- unique_JJ ._.
+3.1_CD Synthetic_NNP Dataset_NNP To_TO evaluate_VB the_DT performance_NN of_IN the_DT SPIN_NN algorithm_NN ,_, we_PRP first_RB generate_VBP a_DT set_NN of_IN synthetic_JJ graph_NN databases_NNS using_VBG a_DT synthetic_JJ data_NN generator_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN Figure_NNP 6_CD ,_, we_PRP represent_VBP the_DT performance_NN comparison_NN of_IN SPIN_NN ,_, FFSM_NN ,_, and_CC gSpan_NN algorithms_NNS for_IN a_DT synthetic_JJ data_NNS set_VBN with_IN different_JJ support_NN values_NNS ._.
+When_WRB the_DT support_NN is_VBZ set_VBN to_TO a_DT pretty_RB high_JJ value_NN e.g._NNP 5_CD

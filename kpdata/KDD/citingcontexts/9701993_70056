@@ -1,0 +1,4 @@
+king_NN ._.
+This_DT is_VBZ of_IN use_NN for_IN graphs_NNS that_WDT have_VBP associated_VBN category_NN or_CC term_NN hierarchy_NN information_NN ._.
+To_TO begin_VB with_IN ,_, the_DT Information_NN Content_NN -LRB-_-LRB- IC_NN -RRB-_-RRB- of_IN a_DT term_NN -LRB-_-LRB- category_NN or_CC keyword-set_NN -RRB-_-RRB- ,_, using_VBG Resnik_NNP 's_POS definition_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, is_VBZ given_VBN as_IN :_: F_NN -LRB-_-LRB- ki_NN -RRB-_-RRB- IC_NN -LRB-_-LRB- ki_NN -RRB-_-RRB- =_JJ −_FW ln_FW F_NN -LRB-_-LRB- root_NN -RRB-_-RRB- where_WRB lcs_NNS -LRB-_-LRB- ki_FW ,_, kj_NN -RRB-_-RRB- refers_VBZ to_TO the_DT lowest_JJS common_JJ subsumer_NN of_IN terms_NNS ki_NN and_CC kj_NN ._.
+To_TO define_VB the_DT semantic_JJ similarity_NN between_IN two_CD clusters_NNS ,_, one_PRP can_MD employ_VB an_DT informa_NN

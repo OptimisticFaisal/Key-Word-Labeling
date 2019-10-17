@@ -1,0 +1,5 @@
+ent_JJ information_NN in_IN a_DT web_NN page_NN ,_, we_PRP first_JJ need_NN to_TO segment_NN a_DT web_NN page_NN into_IN a_DT set_NN of_IN blocks_NNS ._.
+There_EX are_VBP several_JJ kinds_NNS of_IN methods_NNS for_IN web_NN page_NN segmentation_NN ._.
+The_DT most_RBS popular_JJ ones_NNS are_VBP DOM-based_JJ segmentation_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, location-based_JJ segmentation_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- and_CC Vision-based_JJ Page_NNP Segmentation_NN -LRB-_-LRB- VIPS_NN -RRB-_-RRB- -LRB-_-LRB- 17_CD -RRB-_-RRB- -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+These_DT methods_NNS are_VBP distinguished_VBN from_IN one_CD another_DT by_IN considering_VBG various_JJ factors_NNS as_IN the_DT partition_NN basis_NN ._.
+Though_IN thes_NNS

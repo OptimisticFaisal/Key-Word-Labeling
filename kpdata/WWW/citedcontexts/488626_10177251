@@ -1,0 +1,4 @@
+e_LS extracted_VBN patterns_NNS is_VBZ built_VBN ._.
+A_DT click-through_JJ bipartite_JJ graph_NN is_VBZ then_RB used_VBN to_TO identify_VB the_DT concepts_NNS -LRB-_-LRB- synonym_NN ,_, specialization_NN ,_, generalization_NN ,_, etc._NN -RRB-_-RRB- used_VBN to_TO expand_VB the_DT original_JJ query_NN ._.
+Jones_NNP et_FW al._FW in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: introduce_VB the_DT notion_NN of_IN query_NN substitution_NN or_CC query_NN rewriting_VBG ,_, and_CC propose_VBP a_DT solution_NN for_IN sponsored_VBN search_NN ._.
+Such_JJ solution_NN relies_VBZ on_IN the_DT fact_NN that_IN in_IN about_IN half_NN sessions_NNS the_DT user_NN modifies_VBZ a_DT query_NN with_IN

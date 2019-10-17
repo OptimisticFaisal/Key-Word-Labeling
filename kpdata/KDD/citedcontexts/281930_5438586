@@ -1,0 +1,4 @@
+supervised_VBN anomaly_RB detection_NN algorithms_NNS ,_, since_IN they_PRP do_VBP not_RB require_VB labeled_JJ examples_NNS of_IN anomalies_NNS ._.
+This_DT article_NN presents_VBZ nine_CD anomalies_NNS detected_VBN by_IN four_CD unsupervised_JJ anomaly_NN detection_NN algorithms_NNS :_: Orca_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, GritBot_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- -LRB-_-LRB- a_DT commercial_JJ product_NN -RRB-_-RRB- ,_, the_DT Inductive_JJ Monitoring_NN System_NNP -LRB-_-LRB- IMS_NNP -RRB-_-RRB- -LRB-_-LRB- 19,20_CD -RRB-_-RRB- and_CC a_DT one-class_JJ support_NN vector_NN machine_NN -LRB-_-LRB- SVM_NN -RRB-_-RRB- -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+The_DT next_JJ four_CD subsections_NNS describe_VBP these_DT four_CD algorithms_NNS ._.
+A._NNP Orc_NNP

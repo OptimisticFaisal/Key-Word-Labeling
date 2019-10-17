@@ -1,0 +1,4 @@
+EM-based_JJ Mixture_NNP Model_NNP Clustering_NNP -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+The_DT need_NN for_IN such_JJ a_DT fast_JJ algorithm_NN arises_VBZ when_WRB conducting_VBG massive-scale_JJ model_NN selection_NN ,_, and_CC in_IN datasets_NNS with_IN a_DT large_JJ number_NN of_IN attributes_NNS and_CC records_NNS -LRB-_-LRB- see_VB also_RB =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+An_DT extreme_JJ example_NN is_VBZ the_DT data_NN which_WDT is_VBZ gathered_VBN in_IN the_DT Sloan_NNP Digital_NNP Sky_NNP Survey_NNP -LRB-_-LRB- SDSS_NNP -RRB-_-RRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, where_WRB M_NN is_VBZ about_IN 500_CD and_CC R_NN is_VBZ in_IN the_DT millions_NNS ._.
+We_PRP show_VBP that_IN kd-trees_NNS can_MD be_VB used_VBN to_TO reduce_VB the_DT number_NN o_NN

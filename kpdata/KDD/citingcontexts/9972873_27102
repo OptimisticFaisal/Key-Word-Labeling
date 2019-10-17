@@ -1,0 +1,5 @@
+e_LS reader_NN will_MD recall_VB that_IN we_PRP used_VBD the_DT information_NN gain_NN -LRB-_-LRB- or_CC entropy_NN -RRB-_-RRB- as_IN that_DT measure_NN ._.
+However_RB ,_, there_EX are_VBP other_JJ commonly_RB used_VBN measures_NNS for_IN distribution_NN evaluation_NN ,_, such_JJ as_IN the_DT Wilcoxon_NNP signed-rank_JJ test_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP adopted_VBD the_DT entropy_JJ evaluation_NN for_IN two_CD reasons_NNS ._.
+First_RB ,_, it_PRP is_VBZ easily_RB generalized_VBN to_TO the_DT multi-class_JJ problem_NN ._.
+Second_RB ,_, as_IN we_PRP will_MD now_RB show_VB ,_, we_PRP can_MD use_VB a_DT novel_JJ idea_NN called_VBN early_JJ entropy_NN pruning_NN to_TO av_VB

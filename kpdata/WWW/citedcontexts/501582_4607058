@@ -1,0 +1,5 @@
+by_IN finding_VBG the_DT cross-correlation_NN of_IN each_DT series_NN to_TO the_DT seed_NN query_NN ._.
+When_WRB sorted_VBN in_IN this_DT way_NN ,_, the_DT top_JJ matching_NN queries_NNS have_VBP a_DT very_RB similar_JJ distribution_NN in_IN terms_NNS of_IN time_NN ._.
+This_DT is_VBZ inspired_VBN by_IN the_DT work_NN of_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: where_WRB semantic_JJ similarity_NN was_VBD determined_VBN by_IN time_NN series_NN correlations_NNS ._.
+The_DT left_JJ hand_NN display_NN shows_VBZ the_DT output_NN of_IN the_DT DTW_NN on_IN the_DT selected_VBN query_NN variants_NNS ._.
+The_DT thin_JJ lines_NNS connecting_VBG the_DT two_CD curves_NNS repres_NNS

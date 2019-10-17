@@ -1,0 +1,4 @@
+ten_CD billion_CD -RRB-_-RRB- record_NN pair_NN comparisons_NNS ._.
+Techniques_NNS known_VBN as_IN blocking_NN -LRB-_-LRB- 4_CD ,_, 15_CD -RRB-_-RRB- are_VBP applied_VBN to_TO reduce_VB the_DT number_NN of_IN record_NN pairs_NNS that_WDT will_MD be_VB compared_VBN ._.
+These_DT methods_NNS work_VBP by_IN clustering_VBG records_NNS into_IN blocks_NNS =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: and_CC only_RB comparing_VBG records_NNS within_IN the_DT same_JJ block_NN ,_, thereby_RB reducing_VBG the_DT complexity_NN of_IN the_DT overall_JJ linkage_NN process_NN ._.
+In_IN recent_JJ years_NNS ,_, researchers_NNS have_VBP started_VBN to_TO explore_VB the_DT use_NN of_IN techniques_NNS from_IN machi_NNS

@@ -1,0 +1,3 @@
+s_NN in_IN Fig._NNP 3_CD show_VBP the_DT corresponding_JJ normal_JJ quantile-quantile_NN -LRB-_-LRB- Q-Q_NN -RRB-_-RRB- plots_NNS for_IN the_DT raw_JJ and_CC transformed_VBN data_NNS sequences_NNS ,_, which_WDT provide_VBP an_DT indication_NN of_IN the_DT distributional_JJ character_NN of_IN these_DT data_NNS sequences_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN particular_JJ ,_, normally_RB distributed_VBN data_NNS should_MD exhibit_VB a_DT linear_JJ Q-Q_NN plot_NN ,_, much_RB like_IN the_DT one_CD seen_VBN in_IN the_DT lower_JJR right_NN for_IN the_DT log-transformed_JJ ALT_NN values_NNS ._.
+This_DT behavior_NN suggests_VBZ that_IN the_DT ALT_NN values_NNS ha_VBP

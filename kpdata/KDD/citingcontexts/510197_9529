@@ -1,0 +1,3 @@
+we_PRP assume_VBP a_DT particular_JJ functional_JJ form_NN for_IN the_DT f_FW k_NN components_NNS ,_, we_PRP can_MD try_VB to_TO estimate_VB from_IN the_DT data_NNS what_WP the_DT most_RBS likely_JJ values_NNS of_IN the_DT parameters_NNS `_`` k_NN and_CC the_DT weights_NNS w_NN k_NN are_VBP ._.
+The_DT EM_NN algorithm_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =_JJ McLachlan_NNP and_CC Krishnan_NNP ,_, 1997_CD -_: =--RRB-_NN is_VBZ a_DT general_JJ procedure_NN for_IN finding_VBG the_DT maximum_NN likelihood_NN estimates_NNS of_IN the_DT parameters_NNS of_IN a_DT mixture_NN model_NN ._.
+In_IN practice_NN ,_, if_IN each_DT y_FW j_FW is_VBZ a_DT multivariate_JJ vector_NN ,_, it_PRP is_VBZ common_JJ to_TO use_VB simple_JJ functional_JJ for_IN

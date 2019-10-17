@@ -1,0 +1,3 @@
+Fire_NN model_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- and_CC the_DT Kronecker_NNP Graphs_NNP model_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- to_TO generate_VB G_NNP ∗_NNP ._.
+For_IN Kronecker_NNP graphs_NNS ,_, we_PRP consider_VBP three_CD sets_NNS of_IN parameters_NNS that_WDT produce_VBP networks_NNS with_IN a_DT very_RB different_JJ structure_NN :_: a_DT random_JJ graph_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- Kronecker_NNP parameter_NN matrix_NN -LRB-_-LRB- 0.5_CD ,_, 0.5_CD ;_: 0.5_CD ,_, 0.5_CD -RRB-_-RRB- -RRB-_-RRB- ,_, a_DT network_NN with_IN hierarchical_JJ community_NN Figure_NNP 4_CD :_: Score_NN achieved_VBN by_IN NETINF_NN in_IN comparison_NN with_IN the_DT online_NN upper_JJ bound_VBD from_IN Theorem_NNP 4_CD ._.
+In_IN practice_NN NETIN_NN

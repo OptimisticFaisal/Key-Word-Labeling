@@ -1,0 +1,3 @@
+At_IN first_JJ sight_NN ,_, it_PRP may_MD seem_VB unlikely_JJ that_IN all_PDT these_DT constraints_NNS can_MD be_VB satisfied_VBN simultaneously_RB ._.
+However_RB ,_, we_PRP have_VBP developed_VBN a_DT general_JJ framework_NN for_IN mining_NN massive_JJ data_NN streams_NNS that_WDT satisfies_VBZ all_DT six_CD =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Within_IN this_DT framework_NN ,_, we_PRP have_VBP designed_VBN and_CC implemented_VBN massivestream_NN versions_NNS of_IN decision_NN tree_NN induction_NN -LRB-_-LRB- 1_CD ,_, 6_CD -RRB-_-RRB- ,_, Bayesian_JJ network_NN learning_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, k-means_NN clustering_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC the_DT EM_NNP algorithm_NN for_IN mixtu_NN

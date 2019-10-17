@@ -1,0 +1,4 @@
+an_DT of_IN course_NN be_VB filtered_VBN after_IN the_DT mining_NN process_NN but_CC integrating_VBG the_DT filtering_VBG into_IN mining_NN leads_VBZ to_TO a_DT smaller_JJR search_NN space_NN using_VBG less_JJR memory_NN ._.
+The_DT integrated_VBN pruning_NN scheme_NN for_IN MoFa_NN -LRB-_-LRB- BMB04_NN -RRB-_-RRB- and_CC gSpan_NN =_JJ -_: =_JJ -LRB-_-LRB- YH03_NN -RRB-_-RRB- -_: =_SYM -_: works_VBZ more_RBR or_CC less_RBR the_DT same_JJ ._.
+For_IN each_DT extension_NN of_IN a_DT fragment_NN it_PRP is_VBZ checked_VBN if_IN it_PRP can_MD be_VB applied_VBN to_TO all_DT its_PRP$ embeddings_NNS ._.
+This_DT indicates_VBZ that_IN the_DT extended_JJ fragment_NN might_MD have_VB the_DT same_JJ frequency_NN as_IN its_PRP$

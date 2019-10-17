@@ -1,0 +1,4 @@
+,_, so_IN the_DT overall_JJ process_NN is_VBZ order-dependent_JJ and_CC may_MD be_VB inconsistent_JJ ._.
+The_DT model_NN does_VBZ not_RB provide_VB for_IN a_DT principled_JJ way_NN to_TO combine_VB matched_JJ records_NNS ._.
+A_DT richer_JJR probability_NN model_NN is_VBZ developed_VBN by_IN Cohen_NNP et_FW al_FW =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, who_WP model_VBP the_DT database_NN as_IN a_DT combination_NN of_IN some_DT ``_`` original_JJ ''_'' records_NNS that_WDT are_VBP correct_JJ and_CC some_DT number_NN of_IN erroneous_JJ versions_NNS ._.
+They_PRP give_VBP an_DT efficient_JJ greedy_JJ algorithm_NN for_IN finding_VBG a_DT single_JJ locally_RB optima_NN

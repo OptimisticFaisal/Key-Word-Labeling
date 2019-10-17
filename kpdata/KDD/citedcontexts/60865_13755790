@@ -1,0 +1,4 @@
+g_NN SVM_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- as_IN the_DT baseline_NN ,_, where_WRB we_PRP use_VBP all_DT our_PRP$ node_NN features_NNS to_TO train_VB the_DT Ranking_NNP SVM_NNP model_NN ,_, since_IN Ranking_NNP SVM_NNP can_MD not_RB deal_VB with_IN edge_NN features_NNS ._.
+We_PRP use_VBP the_DT default_NN parameter_NN setting_VBG as_IN in_FW Ranking_FW SVM_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- Because_IN Apple_NNP Discussion_NNP and_CC Google_NNP Earth_NNP are_VBP two_CD types_NNS of_IN online_JJ discussion_NN sites_NNS ,_, it_PRP would_MD be_VB interesting_JJ to_TO compare_VB the_DT methods_NNS '_POS performance_NN on_IN these_DT two_CD different_JJ domains_NNS ._.
+We_PRP use_VBP

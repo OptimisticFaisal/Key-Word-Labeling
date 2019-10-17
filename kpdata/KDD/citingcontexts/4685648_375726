@@ -1,0 +1,4 @@
+-LRB-_-LRB- 29_CD -RRB-_-RRB- crawls_VBZ web_NN messages_NNS and_CC extracts_NNS recommendations_NNS from_IN them_PRP rather_RB than_IN using_VBG users_NNS '_POS explicit_JJ ratings_NNS ._.
+GroupLens_NNP has_VBZ also_RB developed_VBN a_DT movie_NN recommender_NN system_NN called_VBN MovieLens_NNP 5_CD -LRB-_-LRB- 11_CD ,_, 26_CD ,_, 27_CD -RRB-_-RRB- ._.
+Fab_NNP =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ the_DT first_JJ hybrid_NN recommender_NN system_NN ,_, which_WDT use_VBP a_DT combination_NN of_IN content-based_JJ and_CC collaborative_JJ filtering_VBG techniques_NNS for_IN web_NN recommendations_NNS ._.
+Tango_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- provides_VBZ online_JJ news_NN recommendations_NNS and_CC Jes_NNS

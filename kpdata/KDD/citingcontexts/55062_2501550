@@ -1,0 +1,4 @@
+echniques_NNS -LRB-_-LRB- 26_CD ,_, 18_CD -RRB-_-RRB- ._.
+Adaptive_JJ resampling_VBG methods_NNS like_IN boosting_VBG are_VBP also_RB useful_JJ in_IN selecting_VBG relevant_JJ examples_NNS even_RB though_IN their_PRP$ original_JJ goal_NN was_VBD to_TO improve_VB the_DT performance_NN of_IN weak_JJ learning_NN algorithms_NNS =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT application_NN of_IN boosting_VBG to_TO selective_JJ labeling_NN has_VBZ been_VBN suggested_VBN in_IN -LRB-_-LRB- 14_CD -RRB-_-RRB- without_IN algorithmic_JJ details_NNS or_CC experimental_JJ results_NNS ._.
+A_DT related_JJ application_NN of_IN boosting_VBG to_TO select_VB a_DT subset_NN of_IN labeled_JJ inst_NN

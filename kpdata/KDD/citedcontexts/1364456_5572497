@@ -1,0 +1,5 @@
+la_FW melanogaster_FW ,_, whereas_IN the_DT Caenorhabditis_NN elegans_NNS was_VBD only_RB 1.6_CD %_NN ._.
+1_CD ._.
+Introduction_NN Prior_JJ work_NN on_IN classification_NN of_IN DNA_NN sequences_NNS includes_VBZ K-nearest_JJ neighbor_NN techniques_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- and_CC wavelet_NN representations_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, little_JJ work_NN has_VBZ focused_VBN on_IN the_DT classification_NN of_IN intron_NN and_CC exon_NN sequences_NNS ._.
+The_DT purpose_NN of_IN BioSPRINT_NN is_VBZ to_TO successfully_RB classify_VB sequences_NNS of_IN DNA_NN as_IN either_CC introns_NNS or_CC exons_NNS using_VBG decision_NN t_NN

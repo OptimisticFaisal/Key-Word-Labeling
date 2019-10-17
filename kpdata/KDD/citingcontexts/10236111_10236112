@@ -1,0 +1,4 @@
+en_IN a_DT single_JJ nucleotide_NN -LRB-_-LRB- A_NN ,_, T_NN ,_, G_NN ,_, or_CC C_NN -RRB-_-RRB- in_IN the_DT genome_NN differs_VBZ between_IN individuals_NNS of_IN a_DT species_NN ._.
+For_IN inbred_JJ species_NNS ,_, a_DT SNP_NN usually_RB shows_VBZ variation_NN between_IN only_RB two_CD of_IN the_DT four_CD possible_JJ nucleotide_NN types_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT allows_VBZ us_PRP to_TO represent_VB it_PRP by_IN a_DT binary_JJ variable_NN ._.
+The_DT binary_JJ representation_NN of_IN a_DT SNP_NN is_VBZ also_RB referred_VBN to_TO as_IN the_DT genotype_NN of_IN the_DT SNP_NN ._.
+Various_JJ statistics_NNS can_MD be_VB applied_VBN to_TO measure_VB the_DT association_NN

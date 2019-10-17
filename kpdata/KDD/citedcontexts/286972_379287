@@ -1,0 +1,6 @@
+tribute_NN 1_CD attribute_NN 2_CD -LRB-_-LRB- b_NN -RRB-_-RRB- Transposed_JJ view_NN ._.
+2_CD ._.
+RELATED_NNS WORK_VBP Traditional_JJ clustering_NN algorithms_NNS such_JJ as_IN k-means_NN or_CC the_DT EM-algorithm_NN search_NN for_IN spatial_JJ clusters_NNS ,_, which_WDT are_VBP spherically_RB shaped_VBN ._.
+In_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: two_CD algorithms_NNS are_VBP proposed_VBN which_WDT are_VBP able_JJ to_TO find_VB clusters_NNS of_IN arbitrary_JJ shape_NN ._.
+However_RB ,_, these_DT approaches_NNS are_VBP not_RB able_JJ to_TO distinguish_VB between_IN arbitrarily_RB shaped_JJ clusters_NNS and_CC correlation_NN clusters_NNS ._.
+In_IN

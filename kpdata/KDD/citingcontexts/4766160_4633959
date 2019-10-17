@@ -1,0 +1,4 @@
+explicitly_RB given_VBN in_IN typical_JJ MCSC_NN instances_NNS ._.
+If_IN we_PRP take_VBP a_DT pre-processing_JJ step_NN to_TO generate_VB all_PDT the_DT consistent_JJ subsets_NNS ,_, then_RB an_DT MCSC_NN instance_NN becomes_VBZ a_DT set_NN covering_VBG instance_NN ._.
+Unfortunately_RB ,_, as_IN argued_VBN in_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT generated_VBN collection_NN of_IN subsets_NNS would_MD be_VB prohibitively_RB large_JJ and_CC this_DT is_VBZ not_RB a_DT feasible_JJ approach_NN to_TO solve_VB MCSC_NN instances_NNS ._.
+3.2_CD Properties_NNP Covering_NNP problems_NNS have_VBP corresponding_JJ partitioning_NN problem_NN

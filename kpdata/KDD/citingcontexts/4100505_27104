@@ -1,0 +1,5 @@
+action_NN intensity_NN within_IN the_DT j-th_NN community_NN over_IN time_NN ._.
+With_IN U_NN and_CC V_NN constrained_VBN to_TO be_VB non-negative_JJ matrices_NNS ,_, this_DT optimization_NN problem_NN falls_VBZ into_IN the_DT category_NN of_IN nonnegative_JJ matrix_NN factorization_NN -LRB-_-LRB- NMF_NN -RRB-_-RRB- =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+NMF_NNP has_VBZ many_JJ advantages_NNS over_IN general_JJ matrix_NN factorization_NN like_IN principal_JJ component_NN analysis_NN -LRB-_-LRB- PCA_NN -RRB-_-RRB- ._.
+First_RB ,_, NMF_NN decomposes_VBZ data_NNS into_IN the_DT addition_NN of_IN several_JJ non-negative_JJ components_NNS ._.
+Such_JJ a_DT nature_NN of_IN a_DT

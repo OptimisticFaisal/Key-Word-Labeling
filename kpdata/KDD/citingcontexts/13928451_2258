@@ -1,0 +1,5 @@
+-LRB-_-LRB- minprob_NN ,_, or_CC •_NN 0_CD -LRB-_-LRB- σ_NN -LRB-_-LRB- 2e_FW −_FW 1_CD and_CC e_SYM −_FW σ2_FW µ_FW 4_CD -LRB-_-LRB- minprob_NN Proof_NN ._.
+Notice_NNP that_IN the_DT probability_NN P_NN -LRB-_-LRB- sup_NN -LRB-_-LRB- X_NN -RRB-_-RRB- ≥_FW minsup_FW -RRB-_-RRB- is_VBZ equal_JJ to_TO P_NN r_NN -LRB-_-LRB- sup_NN -LRB-_-LRB- X_NN -RRB-_-RRB- -RRB-_-RRB- minsup_FW −_FW 1_LS -RRB-_-RRB- ,_, or_CC P_NN r_NN -LRB-_-LRB- sup_NN -LRB-_-LRB- X_NN -RRB-_-RRB- -RRB-_-RRB- -LRB-_-LRB- 1_CD +_CC σ_NN -RRB-_-RRB- µ_NN -RRB-_-RRB- ._.
+Using_VBG the_DT Chernoff_NNP Bound_VBD =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP have_VBP :_: -LCB-_-LRB- −_FW σµ_FW 2_CD ,_, if_IN σ_FW ≥_FW 2e_FW −_FW 1_CD P_NN r_NN -LRB-_-LRB- sup_NN -LRB-_-LRB- X_NN -RRB-_-RRB- -RRB-_-RRB- -LRB-_-LRB- 1_CD +_CC σ_NN -RRB-_-RRB- µ_NN -RRB-_-RRB- -LRB-_-LRB- e_SYM −_FW σ2_FW µ_FW 4_CD ,_, if_IN 0_CD -LRB-_-LRB- σ_NN -LRB-_-LRB- 2e_FW −_FW 1_CD which_WDT is_VBZ less_JJR than_IN minprob_NN ._.
+Hence_RB ,_, according_VBG to_TO Equation_NN 4_CD ,_, X_NN is_VBZ not_RB a_DT p-FP_NN ._.
+To_TO prune_VB X_NN ,_, we_PRP first_RB scan_VBP the_DT dat_NN

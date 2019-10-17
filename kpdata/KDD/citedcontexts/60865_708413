@@ -1,0 +1,4 @@
+de_IN our_PRP$ paper_NN and_CC discuss_VBP future_JJ plans_NNS in_IN Section_NNP 5_CD ._.
+2_CD ._.
+RELATED_NNS WORK_VBP How_WRB to_TO improve_VB IR_NN accuracy_NN is_VBZ attracting_VBG great_JJ attention_NN ,_, and_CC in_IN recent_JJ years_NNS ,_, many_JJ machine_NN learning_NN technologies_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- -LRB-_-LRB- 10_CD -RRB-_-RRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- -LRB-_-LRB- 15_CD -RRB-_-RRB- =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =-[_NN 20_CD -RRB-_-RRB- have_VBP been_VBN studied_VBN to_TO learn_VB underlying_VBG ranking_JJ functions_NNS ._.
+In_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, Nallapati_NNP treated_VBD IR_NNP as_IN a_DT binary_JJ classification_NN problem_NN that_WDT directly_RB classifies_VBZ a_DT document_NN as_IN relevant_JJ or_CC irrelevant_JJ with_IN respec_NN

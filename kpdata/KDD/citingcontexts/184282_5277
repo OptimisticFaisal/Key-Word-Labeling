@@ -1,0 +1,3 @@
+CT_NN is_VBZ also_RB optimal_JJ for_IN human_JJ eye_NN :_: the_DT distortions_NNS introduced_VBN occur_VBP at_IN the_DT highest_JJS frequencies_NNS only_RB ,_, and_CC the_DT human_JJ eye_NN tends_VBZ to_TO neglect_NN these_DT as_IN noise_NN ._.
+DCT_NNP can_MD be_VB performed_VBN by_IN simple_JJ matrix_NN operations_NNS =_JJ -_: =[_NN 23_CD ,_, 27_CD -RRB-_-RRB- -_: =_JJ -_: :_: an_DT image_NN is_VBZ transformed_VBN to_TO the_DT DCT_NNP space_NN and_CC dimensionality_NN reduction_NN is_VBZ done_VBN in_IN the_DT inverse_NN transform_VB by_IN discarding_VBG the_DT transform_VB coecients_NNS corresponding_VBG to_TO the_DT highest_JJS frequencies_NNS ._.
+Computing_NNP the_DT D_NN

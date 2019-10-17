@@ -1,0 +1,5 @@
+can_MD be_VB selected_VBN arbitrarily_RB ,_, kmeans_NNS is_VBZ fully_RB deterministic_JJ ,_, given_VBN the_DT starting_NN centers_NNS ._.
+A_DT bad_JJ choice_NN of_IN initial_JJ centers_NNS can_MD have_VB a_DT great_JJ impact_NN on_IN both_CC performance_NN and_CC distortion_NN ._.
+Bradley_NNP and_CC Fayyad_NNP =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: discuss_VB ways_NNS to_TO re_FW ne_FW the_DT selection_NN of_IN starting_VBG centers_NNS through_IN repeated_VBN sub-sampling_NN and_CC smoothing_NN ._.
+Originally_RB ,_, kd-trees_NNS were_VBD used_VBN to_TO accelerate_VB nearest-neighbor_JJ queries_NNS ._.
+We_PRP could_MD ,_, therefore_RB ,_, use_VBP th_DT

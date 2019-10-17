@@ -1,0 +1,5 @@
+such_JJ as_IN convolution_NN neural_JJ networks_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, support_NN vector_NN machines_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- or_CC a_DT combined_JJ system_NN which_WDT uses_VBZ simple_JJ rules_NNS to_TO reduce_VB the_DT number_NN of_IN nodule_JJ candidates_NNS followed_VBN by_IN linear_JJ discriminant_JJ analysis_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ data_NNS was_VBD collected_VBN from_IN multiple_JJ sites_NNS ._.
+The_DT CT_NNP volumes_NNS are_VBP typically_RB of_IN size_NN 512_CD ×_CD 512_CD ×_CD 350_CD -LRB-_-LRB- approximately_RB -RRB-_-RRB- ,_, representing_VBG a_DT slice_NN thickness_NN of_IN about_IN 1mm_NN ._.
+We_PRP conduct_VBP a_DT pre-processing_JJ step_NN ._.
+The_DT r_NN

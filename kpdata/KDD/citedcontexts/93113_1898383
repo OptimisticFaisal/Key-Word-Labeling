@@ -1,0 +1,4 @@
+episodes_NNS ,_, a_DT transaction_NN corresponds_VBZ to_TO a_DT sequence_NN of_IN events_NNS in_IN a_DT sliding_VBG time_NN window_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+2_CD There_EX are_VBP algorithms_NNS that_WDT do_VBP not_RB rely_VB on_IN candidate_NN generation_NN -LRB-_-LRB- e.g._FW ,_, FP-growth_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, CHARM_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, and_CC GenMax_NN =_JJ -_: =[_NN 20_CD -_: =-]_CD -RRB-_-RRB- ._.
+Given_VBN that_IN the_DT OSSM_NN created_VBN with_IN mmin_NN segments_NNS will_MD consume_VB too_RB much_JJ space_NN ,_, in_IN Section_NN 5_CD we_PRP consider_VBP the_DT constrained_VBN segmentation_NN problem_NN ._.
+Given_VBN an_DT input_NN value_NN m_NN user_NN -LRB-_-LRB- which_WDT is_VBZ smaller_JJR than_IN mmin_NN

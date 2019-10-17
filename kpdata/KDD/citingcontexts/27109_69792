@@ -1,0 +1,4 @@
+he_PRP \_VBD true_JJ ''_'' class_NN label_NN for_IN each_DT document_NN ,_, the_DT confusion_NN matrix_NN captures_VBZ the_DT goodness_NN of_IN document_NN clustering_NN ._.
+In_IN addition_NN ,_, the_DT measures_NNS of_IN purity_NN and_CC entropy_NN are_VBP easily_RB derived_VBN from_IN the_DT confusion_NN m_NN =_JJ -_: =_JJ atrix_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Table_NNP 2_CD summarizes_VBZ the_DT results_NNS of_IN applying_VBG Algorithm_NNP Bipartitionsto_NNP the_DT MedCran_NNP data_NN set_NN ._.
+The_DT confusion_NN matrix_NN at_IN the_DT top_NN of_IN the_DT table_NN shows_VBZ that_IN the_DT document_NN cluster_NN D0_NN consists_VBZ entirely_RB of_IN the_DT Med_NN

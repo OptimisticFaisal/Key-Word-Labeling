@@ -1,0 +1,5 @@
+distributional_JJ variations_NNS are_VBP subtle_JJ ._.
+To_TO better_RBR identify_VB the_DT topics_NNS in_IN an_DT email_JJ thread_NN we_PRP need_VBP to_TO consider_VB the_DT email_NN specific_JJ features_NNS ._.
+The_DT most_RBS important_JJ features_NNS is_VBZ the_DT `_`` conversation_NN structure_NN '_'' ._.
+We_PRP =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: previously_RB showed_VBD how_WRB this_DT structure_NN can_MD be_VB captured_VBN efficiently_RB at_IN the_DT finer_NN granularity_NN level_NN -LRB-_-LRB- i.e._FW ,_, fragment_NN level_NN -RRB-_-RRB- using_VBG the_DT `_`` fragment_NN quotation_NN graph_NN '_'' ._.
+Based_VBN on_IN an_DT analysis_NN of_IN the_DT quotation_NN embe_NN

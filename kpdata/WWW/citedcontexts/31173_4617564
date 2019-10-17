@@ -1,0 +1,4 @@
+and_CC the_DT semantics_NNS is_VBZ provided_VBN by_IN the_DT ontology_NN that_WDT is_VBZ shared_VBN among_IN different_JJ web_NN agents_NNS and_CC applications_NNS ._.
+Usually_RB ,_, the_DT semantic_JJ annotations_NNS are_VBP made_VBN manually_RB using_VBG a_DT toolkit_NN such_JJ as_IN Protege_NN or_CC CREAM_NN =_JJ -_: =[_NN 26_CD ,_, 31_CD -RRB-_-RRB- -_: =_JJ -_: or_CC semi-automatically_RB through_IN user_NN interaction_NN with_IN a_DT disambiguation_NN algorithm_NN -LRB-_-LRB- 18_CD ,_, 4_CD ,_, 5_CD ,_, 6_CD -RRB-_-RRB- ._.
+There_EX are_VBP also_RB some_DT work_NN on_IN automatic_JJ annotation_NN with_IN minimum_JJ human_JJ efforts_NNS ._.
+They_PRP either_CC extract_NN metadata_NN

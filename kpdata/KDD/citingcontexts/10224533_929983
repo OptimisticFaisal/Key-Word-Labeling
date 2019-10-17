@@ -1,0 +1,6 @@
+,_, resident_JJ since_IN ,_, foreign_JJ worker_NN ._.
+3_LS ._.
+BASIC_JJ DEFINITIONS_NNS 3.1_CD Association_NN and_CC Classification_NN Rules_NNS We_PRP recall_VBP the_DT notions_NNS of_IN itemsets_NNS ,_, association_NN rules_NNS and_CC classification_NN rules_NNS from_IN standard_JJ definitions_NNS =_JJ -_: =[_NN 1_CD ,_, 10_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Let_NNP R_NNP be_VB a_DT relation_NN with_IN attributes_NNS a1_NN ,_, ..._: ,_, an_DT ._.
+A_DT class_NN attribute_NN is_VBZ a_DT fixed_JJ attribute_NN c_NN of_IN the_DT relation_NN ._.
+An_DT a-item_NN is_VBZ an_DT expression_NN a_DT =_JJ v_LS ,_, where_WRB a_DT is_VBZ an_DT attribute_NN and_CC v_LS ∈_FW dom_FW -LRB-_-LRB- a_DT -RRB-_-RRB- ,_, the_DT domain_NN of_IN

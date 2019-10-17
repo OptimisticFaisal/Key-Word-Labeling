@@ -1,0 +1,4 @@
+for_IN data-mining_NN for_IN automated_JJ recommendations_NNS ._.
+There_EX are_VBP now_RB -LRB-_-LRB- May_NNP 2005_CD -RRB-_-RRB- over_IN 1,500,000_CD communities_NNS ._.
+While_IN there_EX are_VBP many_JJ forms_NNS of_IN recommender_NN systems_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, we_PRP chose_VBD a_DT collaborative_JJ filtering_VBG approach_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: based_VBN on_IN overlapping_VBG membership_NN of_IN pairs_NNS of_IN communities_NNS ._.
+We_PRP did_VBD not_RB make_VB use_NN of_IN semantic_JJ information_NN ,_, such_JJ as_IN the_DT description_NN of_IN or_CC messages_NNS in_IN a_DT community_NN -LRB-_-LRB- although_IN this_DT may_MD be_VB an_DT area_NN of_IN future_JJ wor_NN

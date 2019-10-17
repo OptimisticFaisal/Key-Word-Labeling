@@ -1,0 +1,4 @@
+rst_NN review_NN the_DT Minimum_NNP Description_NN Length_NN -LRB-_-LRB- MDL_NN -RRB-_-RRB- principle_NN ._.
+Then_RB ,_, we_PRP show_VBP how_WRB to_TO apply_VB this_DT principle_NN to_TO formalize_VB the_DT Summarization_NN problem_NN ._.
+3.1_CD Minimum_NNP Description_NN Length_NN Principle_NN The_DT MDL_NN principle_NN =_JJ -_: =[_NN 15_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: allows_VBZ us_PRP to_TO transform_VB the_DT requirement_NN of_IN balance_NN between_IN over-generalizing_JJ and_CC overfitting_VBG into_IN a_DT computational_JJ requirement_NN ._.
+In_IN brief_NN the_DT MDL_NNP principle_NN states_VBZ the_DT following_NN :_: assume_VB two_CD parties_NNS P_NN and_CC

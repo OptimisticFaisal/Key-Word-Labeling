@@ -1,0 +1,5 @@
+ghbor_NN queries_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+A_DT kd-tree_NN is_VBZ a_DT data_NN structure_NN for_IN storing_VBG a_DT nite_JJ set_NN of_IN points_NNS from_IN a_DT nite-dimensional_JJ space_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+Recently_RB ,_, Moore_NNP has_VBZ shown_VBN its_PRP$ usage_NN in_IN very_RB fast_RB EM-based_JJ Mixture_NNP Model_NNP Clustering_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT need_NN for_IN such_JJ a_DT fast_JJ algorithm_NN arises_VBZ when_WRB conducting_VBG massive-scale_JJ model_NN selection_NN ,_, and_CC in_IN datasets_NNS with_IN a_DT large_JJ number_NN of_IN attributes_NNS and_CC records_NNS -LRB-_-LRB- see_VB also_RB -LRB-_-LRB- 10_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+An_DT extreme_JJ example_NN is_VBZ the_DT data_NNS

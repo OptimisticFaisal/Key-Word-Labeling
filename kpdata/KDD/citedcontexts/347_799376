@@ -1,0 +1,5 @@
+d_NN ,_, it_PRP is_VBZ easy_JJ to_TO derive_VB the_DT whole_JJ collection_NN of_IN the_DT frequent_JJ sets_NNS of_IN genes_NNS from_IN -LCB-_-LRB- X_NNP ∈_NNP LA_NNP |_FW Cminfreq_FW -LRB-_-LRB- X_NN ,_, r_NN -RRB-_-RRB- ∧_FW CClose_FW -LRB-_-LRB- X_NN ,_, r_NN -RRB-_-RRB- satisfied_VBD -RCB-_-RRB- ._.
+This_DT compact_JJ representation_NN can_MD be_VB computed_VBN efficiently_RB ,_, see_VB ,_, e.g._FW ,_, =_JJ -_: =[_NN 20_CD ,_, 5_CD ,_, 21_CD ,_, 25_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT algorithm_NN we_PRP use_VBP is_VBZ based_VBN on_IN free_JJ set_NN extraction_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Freeness_NN characterizes_VBZ the_DT closed_JJ set_NN generators_NNS -LRB-_-LRB- i.e._FW ,_, the_DT closures_NNS of_IN the_DT free_JJ sets_NNS are_VBP the_DT closed_JJ sets_NNS -RRB-_-RRB- ._.
+Definition_NN 7_CD -LRB-_-LRB- Freeness_NN and_CC Cfree_NN

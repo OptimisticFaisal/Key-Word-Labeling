@@ -1,0 +1,5 @@
+28_CD -RRB-_-RRB- ._.
+Each_DT word_NN cluster_NN can_MD then_RB be_VB treated_VBN as_IN a_DT single_JJ feature_NN and_CC thus_RB dimensionality_NN can_MD be_VB drastically_RB reduced_VBN ._.
+As_IN shown_VBN by_IN -LRB-_-LRB- 2_CD ,_, 28_CD -RRB-_-RRB- ,_, such_JJ feature_NN clustering_NN is_VBZ more_RBR effective_JJ than_IN feature_NN selection_NN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_JJ -_: ,_, especially_RB at_IN lower_JJR number_NN of_IN features_NNS ._.
+Also_RB ,_, feature_NN clustering_NN appears_VBZ to_TO preserve_VB classification_NN accuracy_NN as_IN compared_VBN to_TO a_DT full-feature_JJ classifier_NN ._.
+Indeed_RB in_IN some_DT cases_NNS of_IN small_JJ training_NN sets_NNS and_CC

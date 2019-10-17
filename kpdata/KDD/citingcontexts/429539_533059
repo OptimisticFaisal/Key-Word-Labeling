@@ -1,0 +1,4 @@
+o_NN decide_VB whether_IN there_EX is_VBZ a_DT maximal_JJ bipartite_JJ -LRB-_-LRB- k_NN ,_, ∗_NN -RRB-_-RRB- -_: clique_NN in_IN a_DT bipartite_JJ graph_NN ._.
+More_RBR recently_RB ,_, Hunt_NNP et_FW al._FW proved_VBD the_DT #P_NN -_: hardness_NN of_IN many_JJ graph_NN counting_NN problems_NNS when_WRB restricted_JJ to_TO planar_JJ instances_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Some_DT of_IN these_DT results_NNS were_VBD later_RB extended_VBN by_IN Vadhan_NNP to_TO even_VB more_RBR restricted_JJ bipartite_JJ graphs_NNS of_IN bounded_VBN degree_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+Many_JJ algorithms_NNS have_VBP been_VBN proposed_VBN in_IN the_DT literature_NN for_IN mining_NN maximal_JJ frequent_JJ

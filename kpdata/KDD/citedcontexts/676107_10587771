@@ -1,0 +1,4 @@
+igh-dimensional_JJ and_CC large_JJ datasets_NNS ._.
+An_DT algorithm_NN that_WDT selects_VBZ the_DT minimal_JJ number_NN of_IN samples_NNS -LRB-_-LRB- observations_NNS -RRB-_-RRB- from_IN a_DT large_JJ dataset_NN in_IN order_NN to_TO build_VB a_DT Support_NN Vector_NNP Machine_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- Classifier_NNP is_VBZ given_VBN in_IN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+On_IN the_DT other_JJ hand_NN ,_, some_DT classification_NN algorithms_NNS such_JJ as_IN Decision_NNP Trees_NNP perform_VB dimensionality_NN reduction_NN by_IN selecting_VBG the_DT set_NN of_IN features_NNS that_WDT increases_VBZ the_DT classifier_NN accuracy_NN ._.
+3.4.3_FW Summary_FW It_PRP is_VBZ

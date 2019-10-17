@@ -1,0 +1,5 @@
+e_LS record_NN and_CC will_MD have_VB a_DT false-positive_JJ error_NN of_IN 1_CD 5_CD 100_CD %_NN =_JJ 20_CD %_NN ._.
+3_LS ._.
+RELATED_NN WORKS_VBZ Pre-processing_JJ dirty_JJ data_NNS prior_RB to_TO the_DT data_NNS cleaning_NN process_NN leads_VBZ to_TO more_RBR consistent_JJ data_NNS and_CC better_JJR de-duplication_NN ._.
+=_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP that_IN record_NN equivalence_JJ can_MD be_VB determined_VBN by_IN viewing_VBG their_PRP$ similarity_NN at_IN three_CD levels_NNS :_: token_JJ ,_, field_NN and_CC record_NN levels_NNS ._.
+External_JJ source_NN files_NNS are_VBP used_VBN to_TO remove_VB typographical_JJ errors_NNS and_CC incons_NNS

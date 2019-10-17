@@ -1,0 +1,5 @@
+them_PRP through_IN a_DT sigmoid_NN ._.
+Platt_NNP 's_POS method_NN also_RB works_VBZ well_RB for_IN boosted_VBN trees_NNS and_CC boosted_VBD stumps_NNS ._.
+A_DT sigmoid_NN ,_, however_RB ,_, might_MD not_RB be_VB the_DT correct_JJ transformation_NN for_IN all_DT learning_VBG algorithms_NNS ._.
+Zadrozny_NNP and_CC Elkan_NNP =_SYM -_: =[_NN 7,8_CD -RRB-_-RRB- -_: =_SYM -_: used_VBD a_DT more_RBR general_JJ method_NN based_VBN on_IN Isotonic_JJ Regression_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- to_TO calibrate_VB predictions_NNS from_IN SVMs_NNS ,_, naive_JJ bayes_NNS ,_, boosted_VBD naive_JJ bayes_NNS ,_, and_CC decision_NN trees_NNS ._.
+Isotonic_JJ Regression_NN is_VBZ more_RBR general_JJ in_IN that_IN the_DT o_NN

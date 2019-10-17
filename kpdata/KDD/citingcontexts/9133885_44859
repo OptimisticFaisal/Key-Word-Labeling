@@ -1,0 +1,4 @@
+ution_NN in_IN ψF_NN is_VBZ uniquely_RB identified_VBN by_IN its_PRP$ natural_JJ parameters_NNS ._.
+For_IN regular_JJ exponential_JJ families_NNS log_VBP pF_NN -LRB-_-LRB- x_NN |_CD θ_NN -RRB-_-RRB- =_JJ log_NN p0_NN -LRB-_-LRB- x_NN -RRB-_-RRB- +_CC F_NN ∗_NN -LRB-_-LRB- x_NN -RRB-_-RRB- −_FW DF_FW ∗_NN -LRB-_-LRB- x_NN |_FW |_FW f_FW -LRB-_-LRB- θ_NN -RRB-_-RRB- -RRB-_-RRB- where_WRB the_DT matching_JJ prediction_NN link_NN is_VBZ f_LS -LRB-_-LRB- θ_NN -RRB-_-RRB- =_JJ ∇_NN F_NN -LRB-_-LRB- θ_NN -RRB-_-RRB- =_JJ -_: =[_NN 15_CD ,_, 4_CD ,_, 14_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Minimizing_VBG a_DT Bregman_NNP divergence_NN under_IN a_DT matching_JJ link_NN is_VBZ equivalent_JJ to_TO maximum_NN likelihood_NN for_IN the_DT corresponding_JJ exponential_JJ family_NN distribution_NN ._.
+The_DT relationship_NN between_IN matrix_NN factorization_NN and_CC exp_NN

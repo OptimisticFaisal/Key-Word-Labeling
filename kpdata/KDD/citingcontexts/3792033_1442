@@ -1,0 +1,4 @@
+th_DT examples_NNS in_IN an_DT attribute_NN value_NN vector_NN representation_NN ._.
+Hence_RB the_DT text_NN data_NNS needs_VBZ to_TO be_VB pre-processed_JJ ,_, e.g._FW by_IN transforming_VBG the_DT free_JJ text_NN in_IN documents_NNS into_IN document_NN vectors_NNS in_IN the_DT vector_NN space_NN model_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT vector_NN space_NN model_NN -LRB-_-LRB- bag_NN of_IN words_NNS model_NN -RRB-_-RRB- ,_, the_DT order_NN of_IN the_DT words_NNS in_IN a_DT document_NN is_VBZ ignored_VBN ._.
+Each_DT word_NN occurring_VBG in_IN a_DT document_NN is_VBZ considered_VBN as_IN an_DT attribute_NN ,_, and_CC the_DT frequency_NN of_IN this_DT word_NN in_IN a_DT

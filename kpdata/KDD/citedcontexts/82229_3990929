@@ -1,0 +1,4 @@
+ueries_JJ Experiment_NN 2_CD ._.
+This_DT experiment_NN is_VBZ designed_VBN to_TO check_VB the_DT effectiveness_NN and_CC robustness_NN of_IN multi-scale_JJ histograms_NNS in_IN answering_VBG shape_NN match_NN queries_NNS ._.
+According_VBG to_TO a_DT recentssurvey_NN on_IN time_NN series_NN data_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT efficacy_NN of_IN a_DT similarity_NN measure_NN for_IN shape_NN match_NN queries_NNS can_MD be_VB evaluated_VBN by_IN classification_NN results_NNS on_IN labeled_JJ data_NNS sets_NNS ._.
+We_PRP compare_VBP the_DT classification_NN error_NN rates_NNS in_IN results_NNS produced_VBN by_IN CHD_NN to_TO

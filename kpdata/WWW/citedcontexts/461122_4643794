@@ -1,0 +1,5 @@
+roposals_NNS in_IN the_DT literature_NN extend_VBP the_DT traditional_JJ keyword-style_JJ retrieval_NN to_TO the_DT XML_NN model_NN -LRB-_-LRB- 5_CD ,_, 8_CD ,_, 9_CD -RRB-_-RRB- ._.
+Vague_JJ structural_JJ conditions_NNS were_VBD introduced_VBN in_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC complemented_VBN with_IN full-text_JJ conditions_NNS in_IN =_JJ -_: =[_NN 2_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT query_JJ algebra_NN for_IN IR_NN style_NN processing_NN of_IN XML_NN data_NNS was_VBD introduced_VBN in_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Efficient_JJ evaluation_NN of_IN keyword_FW top-k_FW queries_NNS was_VBD considered_VBN in_IN XRANK_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Other_JJ recent_JJ proposals_NNS for_IN XML_NN ranked_VBD retrieval_NN

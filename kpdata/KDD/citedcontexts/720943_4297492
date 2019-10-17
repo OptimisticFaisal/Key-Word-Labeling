@@ -1,0 +1,5 @@
+1,523,856_FW 〉_FW ,_, andBPRICE_NN -LRB-_-LRB- C2_NN ,_, 1_LS -RRB-_-RRB- =_JJ 〈_FW 12.99,9.49,4.99_FW 〉_FW ._.
+Aggregating_VBG each_DT bag_NN of_IN attributes_NNS separately_RB brings_VBZ into_IN play_NN an_DT assumption_NN of_IN class-conditional_JJ independence_NN between_IN attributes_NNS of_IN related_JJ entities_NNS -LRB-_-LRB- =_JJ -_: =_JJ Perlich_NNP &_CC Provost_NNP ,_, 2003_CD -_: =--RRB-_NN ._.
+ACORA_NN may_MD apply_VB one_CD or_CC more_JJR aggregation_NN operators_NNS to_TO each_DT bag_NN ._.
+Simple_JJ operators_NNS that_WDT are_VBP applicable_JJ to_TO bags_NN of_IN numeric_JJ attributes_NNS such_JJ as_IN BTransactions_NNS ._.
+PRICE_NN ,_, orBPRICE_NN for_IN short_JJ ,_, include_VBP the_DT SUM_NN =_JJ

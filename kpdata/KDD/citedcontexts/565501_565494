@@ -1,0 +1,4 @@
+an_DT be_VB easily_RB modified_VBN to_TO consider_VB multiple_JJ objectives_NNS separately_RB ._.
+For_IN readers_NNS who_WP are_VBP interested_JJ in_IN a_DT customer_NN targeting_NN problem_NN using_VBG GAs_NNS that_WDT consider_VBP multiple_JJ objectives_NNS ,_, we_PRP refer_VBP to_TO previous_JJ work_NN =_JJ -_: =[_NN 6,19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Once_IN fitness_NN values_NNS are_VBP assigned_VBN to_TO each_DT chromosome_NN in_IN the_DT current_JJ population_NN ,_, the_DT GA_NNP proceeds_NNS to_TO the_DT next_JJ generation_NN through_IN three_CD genetic_JJ operators_NNS :_: reproduction_NN ,_, crossover_NN ,_, and_CC mutation_NN ._.
+We_PRP descr_VBP

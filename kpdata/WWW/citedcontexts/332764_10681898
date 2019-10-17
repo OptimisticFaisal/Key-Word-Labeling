@@ -1,0 +1,5 @@
+rations_NNS -LRB-_-LRB- i.e._FW ,_, library_NN string_NN methods_NNS such_JJ as_IN String_NNP ._.
+subString_NN -LRB-_-LRB- int_NN ,_, int_NN -RRB-_-RRB- in_IN Java_NNP -RRB-_-RRB- on_IN the_DT right_JJ hand_NN side_NN of_IN productions_NNS ._.
+Then_RB these_DT string_NN operations_NNS are_VBP simulated_JJ with_IN finite-state_JJ transducers_NNS -LRB-_-LRB- FSTs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Finally_RB ,_, the_DT language_NN of_IN the_DT generated_VBN CFG_NNP represents_VBZ all_PDT the_DT possible_JJ values_NNS of_IN the_DT string_NN variable_NN under_IN analysis_NN ._.
+String-taint_JJ analysis_NN is_VBZ a_DT technique_NN proposed_VBN by_IN Wessermann_NNP and_CC Su_NNP -LRB-_-LRB- 18_CD -RRB-_-RRB- for_IN traci_NNS

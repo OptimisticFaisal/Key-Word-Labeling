@@ -1,0 +1,4 @@
+ional_JJ manifolds_NNS ,_, rather_RB than_IN being_VBG evenly_RB spread_VBN out_RP ._.
+Detecting_VBG subsets_NNS of_IN points_NNS with_IN low_JJ intrinsic_JJ dimensionality_NN is_VBZ useful_JJ in_IN tasks_NNS such_JJ as_IN indexing_NN and_CC classification_NN ._.
+It_PRP has_VBZ recently_RB been_VBN proved_VBN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: that_IN the_DT well-known_JJ ``_`` curse_NN of_IN dimensionality_NN ''_'' translates_VBZ essentially_RB to_TO a_DT ``_`` curse_NN of_IN intrinsic_JJ dimensionality_NN ,_, ''_'' in_IN terms_NNS of_IN finding_VBG efficient_JJ approximations_NNS to_TO nearestneighbor_NN queries_NNS ._.
+Furthermore_RB ,_, se_FW

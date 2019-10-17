@@ -1,0 +1,6 @@
+a_DT representative_JJ set_NN -LRB-_-LRB- a_DT -RRB-_-RRB- Multi-Layer_NNP Perceptron_NNP -LRB-_-LRB- MLP_NNP -RRB-_-RRB- -LRB-_-LRB- 14_CD ,_, 2_CD -RRB-_-RRB- -_: connectionist_JJ learning_NN architecture_NN ._.
+Simple_JJ backpropagation_NN algorithm_NN was_VBD used_VBN to_TO train_VB the_DT Neural_NNP Network_NNP ._.
+-LRB-_-LRB- b_LS -RRB-_-RRB- Nearest_JJ Neighbor_NN -LRB-_-LRB- 1-NN_NN -RRB-_-RRB- =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: -_: instancebased_JJ learning_NN architecture_NN ._.
+-LRB-_-LRB- c_LS -RRB-_-RRB- C4_NN .5_CD -LRB-_-LRB- 12_CD -RRB-_-RRB- -_: tree_NN based_JJ classifier_NN ._.
+-LRB-_-LRB- d_LS -RRB-_-RRB- SVM_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- -_: optimal_JJ margin_NN classifier_NN ._.
+The_DT datasets_NNS used_VBN for_IN carrying_VBG out_RP the_DT empirical_JJ Dataset_NNP #_# of_IN Examples_NNS No._NN of_IN A_NN

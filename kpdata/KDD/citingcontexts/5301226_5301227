@@ -1,0 +1,3 @@
+''_'' ,_, then_RB the_DT unnormalized_JJ document_NN vector_NN would_MD be_VB -LRB-_-LRB- 2_CD 1_CD -RRB-_-RRB- -LRB-_-LRB- to_TO indicate_VB two_CD bananas_NNS and_CC one_CD today_NN -RRB-_-RRB- ,_, and_CC the_DT normalized_VBN As_IN our_PRP$ primary_JJ tool_NN for_IN automated_JJ classification_NN ,_, we_PRP used_VBD the_DT k-means_NN algorithm_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: using_VBG a_DT cosine_NN similarity_NN metric_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- to_TO automatically_RB partition_NN the_DT problem_NN tickets_NNS into_IN k_NN disjoint_NN clusters_NNS ._.
+The_DT algorithm_NN is_VBZ very_RB fast_JJ and_CC easyto-implement_JJ ._.
+See_VB -LRB-_-LRB- 5_CD -RRB-_-RRB- for_IN a_DT detailed_JJ discussion_NN of_IN var_NN

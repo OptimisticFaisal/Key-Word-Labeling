@@ -1,0 +1,5 @@
+of_IN an_DT Application_NN Programming_NNP Interface_NNP -LRB-_-LRB- API_NNP -RRB-_-RRB- ._.
+Furthermore_RB ,_, ordering_VBG bug_NN has_VBZ recently_RB been_VBN reported_VBN as_IN one_CD common_JJ family_NN of_IN concurrency_NN bug_NN which_WDT isnot_VBD addressed_VBN by_IN existing_VBG bug_NN detection_NN algorithms_NNS =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO simulate_VB this_DT ordering_VBG bug_NN on_IN API_NNP ,_, we_PRP simply_RB reorder_VB the_DT traces_NNS from_IN our_PRP$ model_NN of_IN CVS_NNP application_NN ._.
+Experiment_NN Details_NNS and_CC Results_NNS ._.
+We_PRP generated_VBD three_CD sets_NNS of_IN traces_NNS from_IN the_DT X11_NN and_CC CVS_NN models_NNS an_DT

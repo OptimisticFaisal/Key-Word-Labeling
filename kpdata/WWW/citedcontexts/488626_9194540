@@ -1,0 +1,6 @@
+ents_NNS in_IN some_DT pre-defined_JJ hierarchy_NN ._.
+Jones_NNP et_FW al._FW introduced_VBD the_DT notion_NN of_IN query_NN substitution_NN ._.
+Similar_JJ queries_NNS can_MD be_VB obtained_VBN by_IN replacing_VBG the_DT query_NN as_IN a_DT whole_NN ,_, or_CC by_IN substituting_VBG constituent_JJ phrases_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Similar_JJ queries_NNS and_CC phrases_NNS are_VBP derived_VBN from_IN user_NN query_NN sessions_NNS ,_, and_CC they_PRP proposed_VBD models_NNS for_IN query_NN re-ranking_NN based_VBN on_IN the_DT similarity_NN of_IN the_DT new_JJ query_NN to_TO the_DT original_JJ query_NN ._.
+Query_NNP Segmentation_NNP ._.
+Se_NN

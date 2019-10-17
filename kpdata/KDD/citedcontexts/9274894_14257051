@@ -1,0 +1,3 @@
+aining_VBG a_DT collection_NN of_IN data_NNS ,_, whereas_IN our_PRP$ method_NN works_VBZ in_IN online_NN settings_NNS ,_, where_WRB it_PRP simultaneously_RB processes_VBZ a_DT stream_NN of_IN arriving_VBG data_NNS while_IN learning_VBG the_DT different_JJ quality_NN estimates_NNS for_IN the_DT labelers_NNS ._.
+-LRB-_-LRB- =_JJ -_: =_JJ Sheng_NNP et_FW al._FW 2008_CD -_: =--RRB-_NN is_VBZ one_CD exception_NN ,_, performing_VBG active_JJ learning_NN by_IN reasoning_NN about_IN the_DT value_NN of_IN seeking_VBG additional_JJ labels_NNS on_IN data_NNS given_VBN the_DT data_NNS obtained_VBN thus_RB far_RB ._.
+-LRB-_-LRB- Donmez_NNP ,_, Carbonell_NNP &_CC Schneider_NNP 2009_CD -RRB-_-RRB- simultaneously_RB e_SYM

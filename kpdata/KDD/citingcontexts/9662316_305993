@@ -1,0 +1,5 @@
+n_NN takes_VBZ extremely_RB long_JJ time_NN to_TO reach_VB a_DT solution_NN ,_, preventing_VBG us_PRP from_IN reporting_VBG any_DT comparative_JJ results_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, some_DT papers_NNS try_VBP to_TO construct_VB kernels_NNS based_VBN on_IN graphs_NNS for_IN SVM_NNP ._.
+Diffusion_NN kernel_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT commonly_RB used_VBN one_CD ._.
+Unfortunately_RB ,_, it_PRP requires_VBZ full_JJ SVD_NN of_IN the_DT graph_NN Laplacian_NNP ,_, which_WDT is_VBZ not_RB applicable_JJ for_IN large-scale_JJ networks_NNS ._.
+Empirically_RB ,_, the_DT classification_NN performance_NN is_VBZ sensitive_JJ to_TO the_DT d_NN

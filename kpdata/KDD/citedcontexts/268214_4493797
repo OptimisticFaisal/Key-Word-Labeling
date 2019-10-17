@@ -1,0 +1,4 @@
+e_LS three_CD classes_NNS produces_VBZ an_DT optimal_JJ ψ_NN ;_: the_DT system_NN returns_VBZ the_DT highest_JJS ψ_NN scoring_VBG cluster_NN as_IN the_DT record_NN cluster_NN ._.
+3_LS ._.
+EVALUATION_NN AND_CC RESULTS_NNS We_PRP compared_VBD the_DT record_NN sets_NNS extracted_VBN by_IN U-REST_NN ,_, Omini_NN and_CC MDR_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: with_IN a_DT reference_NN human-labelled_JJ record_NN set_NN ._.
+The_DT evaluation_NN metric_NN -LRB-_-LRB- reported_VBN in_IN Table_NNP 2_CD -RRB-_-RRB- is_VBZ the_DT number_NN 1348_CD System_NNP #correct_NN -LRB-_-LRB- \/_: 62_CD -RRB-_-RRB- %_NN U-REST_NN 29_CD 46.8_CD Omini_NNP 22_CD 35.5_CD MDR_NNP 14\/54_CD 25.9_CD Best_NN Possible_JJ 37_CD 59.7_CD Ba_NN

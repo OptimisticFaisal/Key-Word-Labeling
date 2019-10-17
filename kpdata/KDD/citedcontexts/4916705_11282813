@@ -1,0 +1,4 @@
+ants_NNS refer_VBP to_TO the_DT correct_JJ interpreted_VBN numbers_NNS of_IN different_JJ classes_NNS found_VBN in_IN reality_NN ._.
+Some_DT measures_NNS can_MD be_VB derived_VBN from_IN the_DT error_NN matrix_NN ,_, such_JJ as_IN producer_NN accuracy_NN ,_, user_NN accuracy_NN and_CC overall_JJ accuracy_NN -LRB-_-LRB- =_JJ -_: =_JJ Liu_NNP et_FW al_FW ,_, 2007_CD -_: =--RRB-_NN ._.
+Producer_NN Accuracy_NN -LRB-_-LRB- PA_NN -RRB-_-RRB- is_VBZ the_DT probability_NN that_IN a_DT sampled_VBN unit_NN in_IN the_DT image_NN is_VBZ in_IN that_DT particular_JJ class_NN ._.
+User_NN Accuracy_NN -LRB-_-LRB- UA_NN -RRB-_-RRB- is_VBZ the_DT probability_NN that_IN a_DT certain_JJ reference_NN class_NN has_VBZ also_RB been_VBN labeled_VBN t_NN

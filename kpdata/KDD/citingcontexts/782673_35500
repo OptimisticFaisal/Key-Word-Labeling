@@ -1,0 +1,3 @@
+of_IN set_NN of_IN multi-dimensional_JJ -LRB-_-LRB- vector_NN -RRB-_-RRB- measurements_NNS as_IN a_DT function_NN of_IN the_DT independent_JJ variable_NN ,_, rather_RB than_IN a_DT single_JJ measurement_NN ._.
+In_IN statistics_NNS ,_, such_JJ data_NNS are_VBP sometimes_RB referred_VBN to_TO as_IN ``_`` functional_JJ data_NNS ''_'' =_SYM -_: =[_NN 32_CD -RRB-_-RRB- -_: =_JJ -_: ,_, emphasizing_VBG the_DT fact_NN that_IN the_DT observed_VBN data_NNS are_VBP functions_NNS of_IN an_DT independent_JJ variable_NN ._.
+The_DT term_NN ``_`` measurement_NN offset_VBD ''_'' will_MD be_VB used_VBN to_TO refer_VB to_TO a_DT real-valued_JJ scalar_NN added_VBN to_TO all_DT of_IN the_DT measurements_NNS in_IN

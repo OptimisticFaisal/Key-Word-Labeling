@@ -1,0 +1,4 @@
+optimization_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+As_IN a_DT special_JJ case_NN of_IN convex_NN non-linear_JJ optimization_NN ,_, SOCPs_NNS have_VBP gained_VBN much_JJ attention_NN in_IN recent_JJ times_NNS ._.
+For_IN a_DT discussion_NN of_IN further_JJ efficient_JJ algorithms_NNS and_CC applications_NNS of_IN SOCP_NN see_VBP =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT problem_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- can_MD be_VB equivalently_RB written_VBN as_IN the_DT following_JJ convex_NN quadratic_JJ programming_NN problem_NN :_: min_NN w_NN ,_, b_NN ,_, ξ_NN j_NN 1_CD 2_CD ‖_CD w_NN ‖_NN 22_CD +_CC C_NN Pm_NN j_NN =_JJ 1_CD ξj_FW s.t._FW yj_FW -LRB-_-LRB- w_FW ⊤_FW xj_FW −_FW b_LS -RRB-_-RRB- −_NN 1_CD +_CC ξj_FW ≥_FW 0_CD ,_, ξj_FW ≥_FW 0_CD ,_, ∀_CD j_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- -LRB-_-LRB- 2_CD -RRB-_-RRB- is_VBZ the_DT famou_NN

@@ -1,0 +1,7 @@
+TP_NN ‖_NN 1_CD ._.
+It_PRP is_VBZ obvious_JJ that_IN each_DT entry_NN of_IN the_DT optimal_JJ matrix_NN TP_NN can_MD be_VB obtained_VBN by_IN solving_VBG min_NN ˆt_FW ∈_FW R_NN β_FW ‖_FW ˆt_FW −_FW ˆs_FW ‖_NN 2_CD +_CC γ_FW |_FW ˆt_FW |_FW ,_, -LRB-_-LRB- 19_CD -RRB-_-RRB- where_WRB ˆs_NN denotes_VBZ the_DT entry_NN in_FW ˆ_FW SP_NN corresponding_VBG to_TO ˆt_NN in_IN TP_NN ._.
+It_PRP is_VBZ known_VBN =_JJ -_: =[_NN 33_CD -RRB-_-RRB- -_: =_SYM -_: that_IN the_DT optimal_JJ ˆt_NN to_TO Eq_NN ._.
+-LRB-_-LRB- 19_CD -RRB-_-RRB- admits_VBZ an_DT analytical_JJ solution_NN ;_: for_IN completeness_NN ,_, we_PRP present_VBP its_PRP$ proof_NN in_IN Lemma_NNP 4.1_CD ._.
+LEMMA_NN 4.1_CD ._.
+The_DT minimizer_NN of_IN Eq_NN ._.
+-LRB-_-LRB- 19_CD -RRB-_-RRB- can_MD be_VB expressed_VBN as_IN ˆt_FW ∗_FW ⎧_FW ⎨_FW ˆs_FW −_NN =_JJ ⎩_FW γ_FW ˆs_FW -RRB-_-RRB- 2_CD

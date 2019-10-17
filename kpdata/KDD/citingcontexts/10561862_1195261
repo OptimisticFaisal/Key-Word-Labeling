@@ -1,0 +1,6 @@
+ition_NN Builder_NN ,_, a_DT complex_JJ J2EE_NN web_NN application_NN -LRB-_-LRB- S_NN -RRB-_-RRB- OOML_NN next_IN OOML_NN java_NN ._.
+lang_NN ._.
+String_NNP payload_NN Figure_NNP 9_CD :_: Most_RBS frequent_JJ grammar_NN in_IN synthetic_JJ linked_VBN list_NN example_NN ._.
+that_WDT makes_VBZ heavy_JJ use_NN of_IN multiple_JJ frameworks_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: including_VBG the_DT Apache_NNP Tomcat_NNP 5.5_CD servlet_NN container_NN ._.
+These_DT heap_NN dumps_NNS were_VBD generated_VBN over_IN a_DT period_NN of_IN several_JJ months_NNS ._.
+When_WRB the_DT server_NN ran_VBD out_IN of_IN memory_NN during_IN intense_JJ testing_NN ,_, developers_NNS would_MD simply_RB s_NN

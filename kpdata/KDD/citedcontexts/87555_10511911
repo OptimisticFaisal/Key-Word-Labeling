@@ -1,0 +1,5 @@
+loan_NN for_IN a_DT customer_NN ._.
+We_PRP want_VBP to_TO able_JJ to_TO structure_VB the_DT loan_NN amount_NN and_CC the_DT interest_NN rate_NN for_IN a_DT customer_NN based_VBN on_IN the_DT propensity_NN to_TO default_NN ._.
+Our_PRP$ work_NN builds_VBZ upon_IN the_DT cost-sensitive_JJ learning_NN literature_NN =_JJ -_: =[_NN 5_CD ,_, 11_CD ,_, 4_CD ,_, 7_CD ,_, 12_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT relevant_JJ literature_NN from_IN finance_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Stein_NNP -LRB-_-LRB- 10_CD -RRB-_-RRB- extends_VBZ a_DT cut-off_JJ score_NN based_VBN approach_NN to_TO a_DT pricing_NN approach_NN resulting_VBG in_IN a_DT more_RBR flexible_JJ and_CC profitable_JJ model_NN ._.
+Using_VBG the_DT ROC_NN curve_NN quantitie_NN

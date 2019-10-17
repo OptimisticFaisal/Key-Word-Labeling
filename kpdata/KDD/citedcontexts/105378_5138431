@@ -1,0 +1,4 @@
+uded_VBD that_IN GenMax_NNP is_VBZ better_JJR for_IN finding_VBG the_DT exact_JJ set_NN of_IN max_NN itemsets_NNS ,_, and_CC that_IN ,_, depending_VBG on_IN thesdataset_NN ,_, MaxMiner_NNP may_MD be_VB the_DT optimal_JJ ._.
+A_DT depth-first_JJ search_NN with_IN pruning_NN was_VBD proposed_VBN by_IN Agarwal_NNP et_FW al._FW =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT reason_NN why_WRB there_EX is_VBZ extensive_JJ work_NN on_IN this_DT topic_NN is_VBZ that_IN max_NN frequent_JJ itemset_NN is_VBZ a_DT good_JJ compact_JJ representation_NN for_IN the_DT set_NN of_IN all_DT frequent_JJ itemsets_NNS ._.
+This_DT is_VBZ one_CD motivation_NN for_IN us_PRP to_TO design_VB good_JJ

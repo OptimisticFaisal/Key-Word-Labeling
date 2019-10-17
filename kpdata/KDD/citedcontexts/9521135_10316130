@@ -1,0 +1,3 @@
+site_NN direction_NN to_TO our_PRP$ work_NN ,_, clustering_NN can_MD be_VB approximated_VBN by_IN finding_VBG representative_JJ objects_NNS ,_, clustering_VBG them_PRP ,_, and_CC assigning_VBG the_DT remaining_VBG objects_NNS to_TO the_DT clusters_NNS of_IN their_PRP$ representatives_NNS ._.
+Yan_NNP et_FW al._FW =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: use_VB k-means_NN or_CC RP_NN trees_NNS to_TO find_VB representative_JJ points_NNS ,_, Kaufman_NNP and_CC Rousseeuw_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- k-medoids_NNS ,_, and_CC Ester_NNP et_FW al._FW -LRB-_-LRB- 4_LS -RRB-_-RRB- the_DT most_RBS central_JJ object_NN of_IN a_DT data_NN page_NN ._.
+Representatives_NNS are_VBP also_RB used_VBN to_TO reduce_VB the_DT nu_NN

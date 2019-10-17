@@ -1,0 +1,4 @@
+sUser_NNP Clustering_NNP Accuracy_NNP ,_, which_WDT measures_VBZ the_DT similarity_NN between_IN the_DT clustering_NN result_NN on_IN the_DT training_NN data_NNS and_CC the_DT one_CD on_IN the_DT testing_NN data_NNS ._.
+This_DT evaluation_NN method_NN presents_VBZ a_DT similar_JJ idea_NN as_IN those_DT in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+However_RB ,_, they_PRP use_VBP the_DT Negative_JJ Log_NN Likelihood_NN Score_NN to_TO measure_VB the_DT results_NNS of_IN clustering_NN sequences_NNS ,_, whereas_IN our_PRP$ strategy_NN is_VBZ specially_RB designed_VBN for_IN user_NN clustering_NN ._.
+To_TO evaluate_VB recommendation_NN

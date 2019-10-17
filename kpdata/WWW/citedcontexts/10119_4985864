@@ -1,0 +1,5 @@
+ppedConfirmations汤宪飞_FW 等_FW :_: 基于_FW Petri_FW 网的语义_FW Web_NN 服务自动组合方法_CD 2999_CD 用的代数规范_NN -LRB-_-LRB- -LRB-_-LRB- SHPhoneLookup_FW |_FW |_FW City2Zipcode_NN -RRB-_-RRB- ⋅_FW OnLineBookShop_FW ⋅_FW VisaCard_NNP ⋅_NNP Shipping_NNP -RRB-_-RRB- ,_, 其中_NN ,_, |_NNP |_NNP 表示并行执行_NNP ,_, ⋅_NNP 表_NNP 示顺序执行_NNP ._.
+根据该调用规范_RB ,_, 结合每个服务的_FW QoS_FW 值可以计算合成服务的_FW QoS_FW 值_FW -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+3_CD 相关工作_CD 文献_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: 使用一组情景演算公理来定义_FW DAML-S_FW 的语义_FW ,_, 使用_FW Petri_FW 网来提供情景演算公式的操作语义_NN ,_, 合_FW 成服务的存在是通过_FW Petri_FW 网的可达性分析来确定的_NN ._.
+但是_NNP ,_, Petri_NNP 网的可达性分析常常遭遇状态空间爆炸问题_NNP ,_, 特别是对于一个规模较大的网络_NNP ._.
+文献_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- 将用_FW DAML-S_FW 描述的_FW Web_NN 服务转化为一组线性逻辑公理_NN ,_, 将用户的查询请求转化为一个线性逻_NN 辑公式_NN ,_, 使用线性逻辑定理证明的方式来进_NN

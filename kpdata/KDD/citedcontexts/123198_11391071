@@ -1,0 +1,4 @@
+the_DT prediction_NN problem_NN -LRB-_-LRB- Blei_NNP and_CC Mcauliffe_NNP ,_, 2007_CD -RRB-_-RRB- ._.
+The_DT correlated_JJ topic_NN model_NN -LRB-_-LRB- CTM_NN -RRB-_-RRB- -LRB-_-LRB- Blei_NNP and_CC Lafferty_NNP ,_, 2007_CD -RRB-_-RRB- addresses_VBZ plain_JJ LDA_NN 's_POS inability_NN to_TO model_VB topic_NN correlation_NN ._.
+The_DT author-topic_JJ model_NN -LRB-_-LRB- AT_NNP -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Steyvers_FW et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN considers_VBZ not_RB only_JJ topics_NNS but_CC also_RB authors_NNS of_IN the_DT documents_NNS ,_, and_CC models_NNS documents_NNS as_IN if_IN they_PRP were_VBD generated_VBN by_IN a_DT two-stage_JJ stochastic_JJ process_NN ._.
+3_CD LDA-based_JJ spoiler_NN ranking_VBG 3.1_CD Methods_NNS Based_VBN on_IN the_DT fa_NN

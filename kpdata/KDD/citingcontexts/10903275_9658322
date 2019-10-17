@@ -1,0 +1,6 @@
++_CC U_NN ⊥_NN T_NN -LRB-_-LRB- λ_FW ∗_FW Σd_NN -RRB-_-RRB- V_NN ⊥_NN T_NN corresponds_VBZ to_TO the_DT SVD_NNP of_IN ˆ_NNP SQ._NNP ._.
+This_DT completes_VBZ the_DT proof_NN of_IN this_DT theorem_NN ._.
+Note_VB that_IN the_DT problem_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 22_CD -RRB-_-RRB- is_VBZ convex_NN ,_, and_CC can_MD be_VB solved_VBN via_IN an_DT algorithm_NN similar_JJ to_TO the_DT one_NN in_IN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBN for_IN solving_VBG the_DT Euclidean_JJ projection_NN onto_IN the_DT ℓ1_NN ball_NN ._.
+5_CD ._.
+ALGORITHMS_NNS AND_CC CONVERGENCE_NN We_PRP present_VBP two_CD algorithms_NNS based_VBN on_IN the_DT projected_VBN gradient_NN scheme_NN presented_VBN in_IN Section_NN 3_CD for_IN solving_VBG the_DT c_NN

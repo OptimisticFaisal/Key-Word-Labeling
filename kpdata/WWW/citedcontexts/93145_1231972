@@ -1,0 +1,5 @@
+have_VBP been_VBN very_RB tedious_JJ ._.
+First_RB ,_, SmartSUMO_NN had_VBD to_TO be_VB extended_VBN by_IN means_NNS of_IN modeling_NN semantic_JJ inputs_NNS and_CC outputs_NNS of_IN Web_NN services_NNS ,_, as_RB well_RB as_IN their_PRP$ behavior_NN ._.
+We_PRP took_VBD parts_NNS of_IN the_DT Core_NNP Ontology_NNP of_IN Services_NNPS =_JJ -_: =_JJ -LRB-_-LRB- MOGS04_NN -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT Ontology_NNP of_IN Plans_NNP -LRB-_-LRB- GBCL04_NN -RRB-_-RRB- to_TO achieve_VB this_DT goal_NN ._.
+Second_JJ ,_, some_DT of_IN the_DT XML-schemata_NN of_IN the_DT Web_NN services_NNS had_VBD to_TO be_VB represented_VBN ontologically_RB ._.
+Let_VB us_PRP consider_VB the_DT getRoute_NN -LRB-_-LRB- -RRB-_-RRB- service_NN as_IN an_DT example_NN

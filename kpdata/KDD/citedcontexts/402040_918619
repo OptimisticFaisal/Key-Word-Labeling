@@ -1,0 +1,3 @@
+winning_VBG entry_NN in_IN a_DT data_NN mining_NN contest_NN based_VBN on_IN naive_JJ Bayesian_JJ learning_NN ,_, modified_VBN -LRB-_-LRB- manually_RB by_IN the_DT author_NN -RRB-_-RRB- to_TO incorporate_VB a_DT few_JJ key_JJ dependencies_NNS between_IN variables_NNS and_CC to_TO discard_VB irrelevant_JJ variables_NNS =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT case_NN ,_, the_DT pre-representational_JJ problem_NN has_VBZ been_VBN solved_VBN directly_RB and_CC completely_RB by_IN the_DT human_JJ encoding_VBG the_DT task_NN ._.
+A_DT more_RBR general_JJ approach_NN to_TO adaptive_JJ optimization_NN ,_, given_VBN a_DT solution_NN space_NN define_VB

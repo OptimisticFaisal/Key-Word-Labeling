@@ -1,0 +1,6 @@
+--_: 27,2008_CD ,_, Las_NNP Vegas_NNP ,_, Nevada_NNP ,_, USA_NNP ._.
+Copyright2008ACM978-1-60558-193-4_NN \/_: 08\/08_CD ..._: $_$ 5.00_CD ._.
+15_CD -RRB-_-RRB- ._.
+Recently_RB ,_, standard_JJ frequent_JJ mining_NN tools_NNS ,_, like_IN Apriori_NNP ,_, have_VBP beenincorporatedintoseveralcommercialdatabasesystems_NNS =_JJ -_: =[_NN 18_CD ,_, 30_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT growing_VBG popularity_NN of_IN frequent_JJ pattern_NN mining_NN ,_, however_RB ,_, doesnotexemptitfromcriticism_NN ._.
+Oneofthemajorissuesfacing_JJ frequentpatternminingisthatitcan_NN -LRB-_-LRB- andoftendoes_NNS -RRB-_-RRB- producean_JJ unwieldy_JJ number_NN of_IN pattern_NN

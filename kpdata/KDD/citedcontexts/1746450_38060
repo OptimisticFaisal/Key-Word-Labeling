@@ -1,0 +1,5 @@
+rsed_JJ cluster_NN ._.
+The_DT authors_NNS introduced_VBD the_DT concept_NN of_IN local_JJ outlier_NN factor_NN -LRB-_-LRB- LOF_NN -RRB-_-RRB- that_WDT specifies_VBZ a_DT degree_NN of_IN outlier-ness_NN ._.
+The_DT definition_NN is_VBZ based_VBN on_IN the_DT distance_NN to_TO the_DT k-nearest_NN neighbor_NN ._.
+Knorr_NNP et_FW al._FW =_SYM -_: =_JJ -LRB-_-LRB- KNZ01_NN -RRB-_-RRB- -_: =_SYM -_: addressed_VBD the_DT inverse_JJ problem_NN of_IN how_WRB to_TO eliminate_VB outliers_NNS in_IN order_NN to_TO compute_VB the_DT appropriate_JJ covariance_NN matrix_NN that_WDT describes_VBZ the_DT given_VBN locality_NN ._.
+To_TO do_VB so_RB ,_, they_PRP utilized_VBD Donoho-Stahel_NNP estimator_NN in_IN

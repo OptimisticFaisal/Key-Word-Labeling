@@ -1,0 +1,4 @@
+ncluding_VBG K-means_NNS and_CC Gibbs_NNP Sampling_NNP ._.
+Other_JJ probabilistic_JJ models_NNS have_VBP also_RB been_VBN used_VBN to_TO model_VB collaborative_JJ relationships_NNS ,_, including_VBG a_DT Bayesian_JJ model_NN -LRB-_-LRB- Chien_NNP and_CC George_NNP ,_, 1999_CD -RRB-_-RRB- ,_, linear_JJ regression_NN model_NN -LRB-_-LRB- =_JJ -_: =_JJ Sarwar_NNP et_FW al._FW ,_, 2001_CD -_: =--RRB-_NN ,_, Gaussian_JJ mixture_NN models_NNS -LRB-_-LRB- Hofmann_NNP ,_, 2003_CD ;_: Hofmann_NNP ,_, 2004_CD -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- Blei_NNP et_FW al._FW ,_, 2001_CD -RRB-_-RRB- a_DT collaborative_JJ filtering_VBG application_NN is_VBZ discussed_VBN using_VBG LDA_NNP ._.
+However_RB in_IN this_DT model_NN ,_, re-estimation_NN of_IN parameters_NNS for_IN t_NN

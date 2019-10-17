@@ -1,0 +1,4 @@
+at_IN slope_NN ._.
+The_DT machine_NN learning_NN community_NN has_VBZ addressed_VBN the_DT issue_NN of_IN class_NN imbalance_NN in_IN two_CD ways_NNS ._.
+One_CD is_VBZ to_TO assign_VB distinct_JJ costs_NNS to_TO training_NN examples_NNS -LRB-_-LRB- Pazzani_NNP ,_, Merz_NNP ,_, Murphy_NNP ,_, Ali_NNP ,_, Hume_NNP ,_, &_CC Brunk_NNP ,_, 1994_CD ;_: =_JJ -_: =_JJ Domingos_NNP ,_, 1999_CD -_: =--RRB-_NN ._.
+The_DT other_JJ is_VBZ to_TO re-sample_VB the_DT original_JJ dataset_NN ,_, either_CC by_IN oversampling_VBG the_DT minority_NN class_NN and\/or_CC under-sampling_JJ the_DT majority_NN class_NN -LRB-_-LRB- Kubat_NNP &_CC Matwin_NNP ,_, 1997_CD ;_: Japkowicz_NNP ,_, 2000_CD ;_: Lewis_NNP &_CC Catlett_NNP ,_, 1994_CD ;_: Lin_NNP

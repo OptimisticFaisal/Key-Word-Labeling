@@ -1,0 +1,5 @@
+alanced_JJ data_NNS sets_NNS ._.
+Here_RB ,_, we_PRP compare_VBP the_DT performances_NNS of_IN COG-OS_NN with_IN two_CD resampling_JJ strategies_NNS --_: under-sampling_JJ and_CC over-sampling_JJ ._.
+Details_NNS of_IN these_DT two_CD resampling_JJ methods_NNS can_MD be_VB found_VBN in_IN various_JJ books_NNS =_JJ -_: =[_NN 29_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT experiment_NN ,_, we_PRP also_RB employed_VBD the_DT six_CD sampled_VBN data_NNS sets_NNS as_IN shown_VBN in_IN Table_NNP 3_CD ._.
+We_PRP set_VBD the_DT sampling_NN ratio_NN for_IN under-sampling_JJ or_CC over-sampling_JJ to_TO make_VB the_DT modified_VBN size_NN of_IN the_DT rare_JJ class_NN be_VB appro_VBN

@@ -1,0 +1,5 @@
+vi_LS ∈_NNP DI_NNP ._.
+But_CC now_RB some_DT of_IN the_DT visual_JJ primitives_NNS are_VBP already_RB labeled_VBN after_IN MIM_NNP ._.
+Thus_RB many_JJ semi-supervised_JJ clustering_NN methods_NNS are_VBP feasible_JJ to_TO our_PRP$ task_NN ._.
+Here_RB we_PRP apply_VBP the_DT nearest_JJS component_NN analysis_NN -LRB-_-LRB- NCA_NN -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: to_TO improve_VB the_DT clustering_NN results_NNS by_IN learning_VBG a_DT better_JJR Mahalanobis_NNP distance_NN metric_NN in_IN the_DT feature_NN space_NN ._.
+Neighborhood_NN Component_NN Analysis_NN -LRB-_-LRB- NCA_NN -RRB-_-RRB- Similar_JJ to_TO linear_JJ discriminative_JJ analysis_NN -LRB-_-LRB- LDA_NN -RRB-_-RRB- ,_, NCA_NN tar_NN

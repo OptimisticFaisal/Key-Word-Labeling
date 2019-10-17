@@ -1,0 +1,3 @@
+er_RB ,_, we_PRP investigate_VBP alternative_JJ solutions_NNS that_WDT integrate_VBP a_DT DNS-based_JJ dispatching_VBG algorithm_NN with_IN some_DT redirection_NN mechanism_NN managed_VBD in_IN a_DT centralized_VBN or_CC distributed_VBN way_NN ._.
+SWEB_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, DPR_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, and_CC DC-Apache_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP examples_NNS of_IN Web_NN system_NN architectures_NNS based_VBN on_IN double_JJ dispatching_VBG ,_, where_WRB the_DT A-DNS_NN decision_NN -LRB-_-LRB- typically_RB ,_, round-robin_NN -RRB-_-RRB- is_VBZ integrated_VBN with_IN some_DT request_NN redirection_NN mechanism_NN ._.
+Our_PRP$ proposal_NN differs_VBZ bec_NN

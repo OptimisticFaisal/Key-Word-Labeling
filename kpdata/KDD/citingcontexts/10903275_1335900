@@ -1,0 +1,4 @@
+st_RB ,_, we_PRP use_VBP the_DT entire_JJ data_NN sets_NNS ;_: for_IN MediaMill_NNP ,_, we_PRP generate_VBP several_JJ subsets_NNS by_IN randomly_RB sampling_NN 8000_CD data_NN points_NNS with_IN different_JJ numbers_NNS of_IN labels_NNS ._.
+References_NNS and_CC Science_NNP are_VBP Yahoo_NNP webpages_NNS data_NN sets_VBZ =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_JJ -_: :_: we_PRP preprocess_VBP the_DT data_NNS sets_NNS following_VBG the_DT same_JJ procedures_NNS in_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+All_DT of_IN the_DT benchmark_JJ data_NN sets_NNS are_VBP normalized_VBN and_CC their_PRP$ statistics_NNS are_VBP summarized_VBN in_IN Table_NNP 1_CD ._.
+Note_VB that_IN in_IN our_PRP$ multi-task_JJ learning_NN

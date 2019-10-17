@@ -1,0 +1,4 @@
+data_NNS will_MD be_VB von_NNP Mises-Fisher_NNP distribution_NN -LRB-_-LRB- vMF_NN distribution_NN -RRB-_-RRB- -LRB-_-LRB- 1_CD ,_, 10_CD -RRB-_-RRB- ._.
+Although_IN -LRB-_-LRB- 1_CD ,_, 10_CD -RRB-_-RRB- discuss_VBP the_DT utility_NN of_IN a_DT mixture_NN model_NN of_IN the_DT vMF_NN distribution_NN ,_, we_PRP applied_VBD the_DT single_JJ vMF_NN model_NN for_IN simplicity_NN ._.
+=_SYM -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ the_DT anomaly_JJ detection_NN method_NN for_IN network_NN systems_NNS using_VBG vMF_NN distribution_NN ._.
+A_DT p-dimensional_JJ unit_NN random_JJ vector_NN v_LS is_VBZ said_VBN to_TO have_VB pvariate_JJ von_NNP Mises-Fisher_NNP distribution_NN Mp_NN -LRB-_-LRB- κ_NN ,_, --_: -RRB-_-RRB- if_IN its_PRP$ probabili_NNS

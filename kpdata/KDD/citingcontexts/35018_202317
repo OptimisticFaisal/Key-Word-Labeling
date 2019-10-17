@@ -1,0 +1,5 @@
+mensional_JJ space_NN -LRB-_-LRB- CS96_NN ,_, DLR77_NN ,_, NH94_NN ,_, ZRL96_NN -RRB-_-RRB- ,_, and_CC cluster_NN membership_NN is_VBZ determined_VBN by_IN some_DT distance_NN function_NN to_TO the_DT centroids_NNS ._.
+This_DT leads_VBZ to_TO cluster_VB shapes_NNS similar_JJ to_TO spheres_NNS ._.
+Later_JJ work_NN by_IN Guha_NNP et_FW al._FW =_SYM -_: =_JJ -LRB-_-LRB- GRS98_NN -RRB-_-RRB- -_: =_JJ -_: was_VBD able_JJ to_TO handle_VB arbitrarilyshaped_JJ clusters_NNS by_IN using_VBG several_JJ representative_JJ points_NNS to_TO define_VB a_DT cluster_NN ._.
+They_PRP also_RB used_VBD a_DT sampling_NN scheme_NN to_TO reduce_VB I\/O_NN costs_NNS ._.
+Recognizing_VBG that_IN most_JJS clusters_NNS are_VBP defi_VBN

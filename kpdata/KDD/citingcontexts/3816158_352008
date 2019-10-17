@@ -1,0 +1,6 @@
+link_NN 2_CD ._.
+The_DT time_NN reported_VBN for_IN the_DT experiments_NNS are_VBP the_DT CPU_NNP time_NN ._.
+One_CD exception_NN is_VBZ for_IN parallel_NN experiments_NNS where_WRB we_PRP report_VBP the_DT CPU_NN and_CC network_NN communication_NN time_NN ._.
+5.1_CD Datasets_NNPS We_PRP use_VBP the_DT datasets_NNS in_IN =_JJ -_: =[_NN 25_CD ,_, 36_CD -RRB-_-RRB- -_: =_SYM -_: for_IN classification_NN tasks_NNS ._.
+For_IN regression_NN tasks_NNS ,_, we_PRP pick_VBP some_DT of_IN the_DT largest_JJS datasets_NNS in_IN Luís_NNP Torgo_NNP 's_POS website_NN 3_CD ._.
+Since_IN some_DT of_IN the_DT regression_NN datasets_VBZ 2_CD http:\/\/nf.apac.edu.au\/facilities\/ac\/hardware.p_NN

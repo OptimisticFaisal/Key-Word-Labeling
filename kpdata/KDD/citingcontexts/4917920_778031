@@ -1,0 +1,4 @@
+rithms_NNS experts_NNS ._.
+Using_VBG proximities_NNS to_TO find_VB communities_NNS in_IN databases_NNS like_IN DBLP_NN can_MD also_RB be_VB useful_JJ for_IN unaliasing_NN ,_, or_CC correcting_VBG errors_NNS introduced_VBN when_WRB the_DT same_JJ person_NN shows_VBZ up_RP with_IN two_CD different_JJ labels_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+By_IN combining_VBG our_PRP$ work_NN with_IN string_NN matching_NN and_CC other_JJ record_NN linkage_NN techniques_NNS ,_, proximity_NN graphs_NNS could_MD contribute_VB to_TO a_DT wide_JJ body_NN of_IN work_NN on_IN deduplication_NN in_IN databases_NNS -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+Example_NN 3_CD :_: IMDB_NN Movie\/TV_NN

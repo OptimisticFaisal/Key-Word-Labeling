@@ -1,0 +1,4 @@
+ummation_NN were_VBD just_RB |_FW π_FW -LRB-_-LRB- u_NN -RRB-_-RRB- −_FW π_FW -LRB-_-LRB- v_LS -RRB-_-RRB- |_CD ,_, then_RB this_DT is_VBZ the_DT well-known_JJ minimum_JJ linear_JJ arrangement_NN -LRB-_-LRB- MLINA_NN -RRB-_-RRB- problem_NN ._.
+MLINA_NN is_VBZ NP-hard_JJ -LRB-_-LRB- 14_CD -RRB-_-RRB- ;_: little_RB ,_, however_RB ,_, is_VBZ known_VBN about_IN its_PRP$ approximability_NN ._.
+The_DT best_JJS algorithm_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: approximates_VBZ MLINA_NNP to_TO O_NN -LRB-_-LRB- √_CD log_NN n_NN log_NN log_NN n_NN -RRB-_-RRB- and_CC this_DT algorithm_NN is_VBZ not_RB practical_JJ for_IN large_JJ graphs_NNS ._.
+From_IN the_DT standpoint_NN of_IN the_DT hardness_NN of_IN approximation_NN ,_, only_RB the_DT existence_NN of_IN a_DT PTAS_NNP has_VBZ been_VBN ruled_VBN out_RP

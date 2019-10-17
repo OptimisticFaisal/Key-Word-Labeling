@@ -1,0 +1,4 @@
+able_JJ ._.
+For_IN example_NN ,_, the_DT most_RBS efficient_JJ known_JJ algorithms_NNS for_IN calculating_VBG betweenness_NN centrality_NN and_CC closeness_NN centrality_NN are_VBP O_NN -LRB-_-LRB- ne_NN +_CC n_NN 2_CD logn_NN -RRB-_-RRB- ,_, where_WRB n_NN and_CC e_SYM are_VBP the_DT number_NN of_IN nodes_NNS and_CC edges_NNS in_IN the_DT graph_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Ad_FW hoc_FW calculations_NNS that_WDT use_VBP basic_JJ path_NN finding_NN can_MD have_VB even_RB higher_JJR complexity_NN ,_, as_IN they_PRP require_VBP bidirectional_JJ breadth-first_JJ search_NN ._.
+Figure_NN 1_CD :_: The_DT average_JJ number_NN of_IN nodes_NNS explored_VBN by_IN bidirectional_JJ b_NN

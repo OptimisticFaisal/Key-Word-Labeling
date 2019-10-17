@@ -1,0 +1,6 @@
+teristic_JJ queries_NNS among_IN infected_JJ users_NNS ._.
+We_PRP give_VBP an_DT evaluation_NN example_NN in_IN section_NN 5_CD ._.
+2_CD ._.
+RELATED_NNS WORK_VBP There_EX is_VBZ a_DT lot_NN of_IN work_NN that_WDT has_VBZ taken_VBN the_DT approach_NN of_IN data_NNS mining_NN to_TO detect_VB anomalous_JJ hosts_NNS or_CC worms_NNS =_JJ -_: =[_NN 2_CD ,_, 3_CD ,_, 9_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, Schultz_NNP et_FW al._FW proposed_VBD a_DT method_NN to_TO detect_VB new_JJ ,_, previously_RB unseen_JJ malicious_JJ executables_NNS -LRB-_-LRB- e.g._FW attached_VBN files_NNS in_IN virus_NN e-mail_JJ -RRB-_-RRB- using_VBG Bayesian_JJ inference_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+As_IN in_IN the_DT usual_JJ Bayesian_JJ est_NN

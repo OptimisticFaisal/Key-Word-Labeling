@@ -1,0 +1,3 @@
+ence_NN services_NNS such_JJ as_IN diagnosing_VBG inconsistencies_NNS using_VBG a_DT ``_`` black-box_JJ ''_'' approach_NN in_IN which_WDT the_DT reasoner_NN is_VBZ frequently_RB used_VBN as_IN an_DT oracle_NN for_IN a_DT certain_JJ set_NN of_IN inferences_NNS about_IN a_DT decreasing_VBG set_NN of_IN KB_NN axioms_NNS =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT core_NN DIG_NNP 2.0_CD specification_NN defines_VBZ a_DT communication_NN interface_NN which_WDT reflects_VBZ some_DT kind_NN of_IN batch-oriented_JJ reasoning_NN procedure_NN that_WDT builds_VBZ up_RP a_DT knowledge_NN base_NN monotonically_RB ._.
+Note_VB that_IN it_PRP is_VBZ always_RB

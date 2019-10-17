@@ -1,0 +1,4 @@
+upport_NN of_IN incremental_JJ multicategorical_JJ classification_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+Proximal_JJ SVMs_NNS has_VBZ also_RB been_VBN shown_VBN to_TO perform_VB at_IN a_DT similar_JJ level_NN of_IN accuracy_NN as_IN regular_JJ SVMs_NNS and_CC at_IN the_DT same_JJ time_NN being_VBG significantly_RB faster_RBR =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN we_PRP propose_VBP a_DT computationally_RB efficient_JJ algorithm_NN that_WDT enables_VBZ decremental_JJ support_NN for_IN Incremental_JJ PSVMs_NNS using_VBG a_DT weight_NN decay_NN coefficient_NN ._.
+The_DT suggested_JJ approach_NN is_VBZ compared_VBN the_DT current_JJ

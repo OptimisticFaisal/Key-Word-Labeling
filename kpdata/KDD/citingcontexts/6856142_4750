@@ -1,0 +1,5 @@
+d_NN ,_, because_IN it_PRP is_VBZ a_DT standard_NN for_IN empirical_JJ comparisons_NNS and_CC it_PRP was_VBD used_VBN as_IN the_DT base_NN learner_NN by_IN Domingos_NNP for_IN the_DT MetaCost_NNP method_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+We_PRP compare_VBP our_PRP$ methods_NNS against_IN three_CD representative_JJ methods_NNS :_: Bagging_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Averaging_VBG cost_NN -LRB-_-LRB- 7_CD ,_, 8_CD -RRB-_-RRB- and_CC MetaCost_NNP ._.
+The_DT Averaging_VBG cost_NN method_NN was_VBD also_RB used_VBN for_IN comparison_NN in_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Note_VB that_IN Bagging_NNP is_VBZ a_DT cost-insensitive_JJ learning_NN method_NN ._.
+Here_RB we_PRP give_VBP a_DT brief_JJ description_NN of_IN these_DT

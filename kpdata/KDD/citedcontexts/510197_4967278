@@ -1,0 +1,4 @@
+ve_IN models_NNS need_VBP long_JJ time_NN series_NN for_IN a_DT good_JJ estimation_NN of_IN their_PRP$ parameters_NNS ._.
+For_IN short_JJ smooth_JJ time_NN series_NN with_IN varying_VBG lengths_NNS and_CC irregular_JJ sampling_NN Gaffney_NNP and_CC Smyth_NNP propose_VBP to_TO use_VB regression_NN models_NNS -LRB-_-LRB- =_JJ -_: =_JJ Gaffney_NNP and_CC Smyth_NNP ,_, 1999_CD -_: =_JJ -_: ,_, 2003_CD -RRB-_-RRB- ._.
+Since_IN the_DT regression_NN models_NNS represent_VBP the_DT shape_NN of_IN the_DT time_NN series_NN with_IN a_DT function_NN ,_, this_DT is_VBZ a_DT hybrid_JJ approach_NN of_IN model-based_JJ and_CC shape-based_JJ representations_NNS ._.
+An_DT approach_NN that_WDT uses_VBZ ideas_NNS from_IN

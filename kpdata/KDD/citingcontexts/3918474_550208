@@ -1,0 +1,4 @@
+RATION_NNP BOOSTING_NNP We_PRP describe_VBP a_DT column_NN generation_NN technique_NN in_IN this_DT section_NN ._.
+The_DT column_NN generation_NN techniques_NNS have_VBP been_VBN widely_RB used_VBN for_IN solving_VBG large-scale_JJ LPs_NNS or_CC difficult_JJ integer_NN programs_NNS since_IN 1950s_CD =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC have_VBP been_VBN introduced_VBN to_TO the_DT machine_NN learning_NN community_NN ,_, i.e._FW ,_, the_DT so-called_JJ LPBoost_NN -LRB-_-LRB- 5_CD ,_, 6_CD -RRB-_-RRB- ._.
+But_CC the_DT LPBoost_NN procedure_NN derived_VBN in_IN -LRB-_-LRB- 5_CD ,_, 6_CD -RRB-_-RRB- does_VBZ not_RB directly_RB solve_VB our_PRP$ formulations_NNS ._.
+Although_IN our_PRP$ for_IN

@@ -1,0 +1,4 @@
+re_IN many_JJ ways_NNS of_IN estimating_VBG the_DT number_NN G_NN of_IN groups_NNS ,_, or_CC components_NNS ,_, in_IN a_DT mixture_NN model_NN -LRB-_-LRB- -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, chapter_NN 6_CD ._. -RRB-_-RRB-
+For_IN example_NN ,_, we_PRP can_MD find_VB the_DT number_NN ˆ_NN G_NN that_WDT maximizes_VBZ the_DT Bayesian_NNP Information_NNP Criterion_NNP -LRB-_-LRB- BIC_NNP -RRB-_-RRB- =_JJ -_: =[_NN 18_CD ,_, 12_CD -RRB-_-RRB- -_: =_JJ -_: :_: ˆG_NN =_JJ argmax_NN G_NN -LRB-_-LRB- 2_CD ×_NN L_NN -LRB-_-LRB- G_NN -RRB-_-RRB- −_CD r_NN log_NN -LRB-_-LRB- n_NN -RRB-_-RRB- -RRB-_-RRB- ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Here_RB ,_, L_NN -LRB-_-LRB- G_NN -RRB-_-RRB- is_VBZ the_DT log-likelihood_NN of_IN the_DT best_JJS G_NN component_NN model_NN ,_, r_NN is_VBZ the_DT number_NN of_IN parameters_NNS of_IN the_DT model_NN and_CC n_NN is_VBZ the_DT number_NN of_IN observations_NNS ._.
+While_IN attrac_NN

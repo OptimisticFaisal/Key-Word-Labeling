@@ -1,0 +1,3 @@
+subgraphs_NNS of_IN feasible_JJ dimensionality_NN by_IN a_DT mining_NN method_NN and_CC then_RB apply_VB a_DT separate_JJ regression_NN algorithm_NN ._.
+This_DT was_VBD achieved_VBN by_IN frequent_JJ substructure_NN mining_NN methods_NNS such_JJ as_IN AGM_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, gSpan_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- or_CC Gaston_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: that_IN enumerate_VB all_DT subgraphs_NNS whose_WP$ frequency_NN is_VBZ above_IN a_DT minimum_NN threshold_NN ._.
+The_DT most_RBS frequent_JJ subgraphs_NNS were_VBD then_RB used_VBN as_IN inputs_NNS to_TO a_DT regularized_VBN regression_NN algorithm_NN such_JJ as_IN L1-SVM_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- or_CC Lasso_NNP -LRB-_-LRB- 7_CD -RRB-_-RRB- w_NN

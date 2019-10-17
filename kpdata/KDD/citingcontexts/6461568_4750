@@ -1,0 +1,4 @@
+for_IN decision_NN tree_NN algorithms_NNS under_IN a_DT variety_NN of_IN conditions_NNS using_VBG real_JJ world_NN data_NNS sets_VBZ that_IN our_PRP$ approach_NN yields_NNS better_RBR predictive_JJ accuracies_NNS than_IN using_VBG a_DT single_JJ model_NN or_CC the_DT ensemble_NN technique_NN bagging_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT conditions_NNS include_VBP the_DT situation_NN where_WRB the_DT quality_NN matrices_NNS are_VBP completely_RB and_CC partially_RB accurate_JJ ._.
+We_PRP then_RB show_VBP that_IN the_DT improvements_NNS are_VBP due_JJ to_TO variance_NN reduction_NN ._.
+Finally_RB ,_, we_PRP discuss_VBP future_JJ

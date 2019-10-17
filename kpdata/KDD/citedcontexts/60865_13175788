@@ -1,0 +1,4 @@
+lta_VB Vista_NNP search_NN engine_NN ._.
+Thereafter_RB ,_, search_NN logs_NNS ,_, especially_RB the_DT click-through_JJ data_NNS ,_, have_VBP been_VBN utilized_VBN for_IN a_DT spectrum_NN of_IN search-related_JJ applications_NNS ,_, and_CC for_IN learning_VBG to_TO rank_VB in_IN particular_JJ ._.
+Joachims_NN =_JJ -_: =[_NN 60_CD -RRB-_-RRB- -_: =_SYM -_: presented_VBD a_DT pioneering_JJ study_NN to_TO exploit_VB clickthrough_JJ data_NNS for_IN optimizing_VBG the_DT ranking_JJ function_NN for_IN search_NN engines_NNS ._.
+Pairwise_JJ preference_NN feedback_NN ,_, such_JJ as_IN web_NN document_NN i_FW is_VBZ more_RBR relevant_JJ as_IN web_NN document_NN

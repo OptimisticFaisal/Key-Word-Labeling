@@ -1,0 +1,4 @@
+ata_NN loss_NN ,_, and_CC privacy_NN preserving_NN perturbation_NN processes_NNS are_VBP only_RB some_DT of_IN the_DT possible_JJ causes_NNS of_IN uncertainty_NN ._.
+To_TO this_DT end_NN ,_, several_JJ pattern_NN mining_NN methods_NNS for_IN uncertain_JJ data_NNS have_VBP recently_RB been_VBN proposed_VBN =_JJ -_: =[_NN 10_CD ,_, 9_CD ,_, 5_CD ,_, 3_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS of_IN them_PRP assume_VBP statistical_JJ independence_NN of_IN the_DT items_NNS in_IN all_DT transactions_NNS and_CC adopt_VB the_DT possible_JJ worlds_NNS interpretation_NN of_IN probabilistic_JJ data_NNS -LRB-_-LRB- 33_CD ,_, 13_CD -RRB-_-RRB- ._.
+In_IN this_DT setting_NN ,_, a_DT probabilistic_JJ transactio_NN

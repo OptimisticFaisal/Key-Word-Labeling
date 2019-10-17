@@ -1,0 +1,3 @@
+co-occurrences_NNS among_IN various_JJ key_JJ audio_JJ elements_NNS in_IN the_DT input_NN audio_NN stream_NN ._.
+Then_RB ,_, these_DT auditory_JJ scenes_NNS are_VBP grouped_VBN into_IN semantic_JJ categories_NNS by_IN using_VBG the_DT information-theoretic_JJ co-clustering_NN algorithm_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT exploits_VBZ the_DT relationships_NNS among_IN various_JJ audio_JJ elements_NNS and_CC auditory_JJ scenes_NNS ._.
+Moreover_RB ,_, we_PRP propose_VBP a_DT strategy_NN based_VBN on_IN the_DT Bayesian_NNP Information_NNP Criterion_NNP -LRB-_-LRB- BIC_NNP -RRB-_-RRB- for_IN selecting_VBG the_DT optimal_JJ cluster_NN

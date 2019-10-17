@@ -1,0 +1,4 @@
+d_NN on_IN a_DT set_NN of_IN observations_NNS where_WRB the_DT status_NN of_IN being_VBG an_DT outlier_NN or_CC not_RB is_VBZ known_VBN and_CC the_DT differences_NNS between_IN those_DT different_JJ types_NNS of_IN observations_NNS is_VBZ learned_VBN ._.
+An_DT example_NN for_IN this_DT type_NN of_IN approaches_NNS is_VBZ =_JJ -_: =[_NN 33_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Usually_RB ,_, supervised_JJ approaches_NNS are_VBP also_RB global_JJ approaches_NNS and_CC can_MD be_VB considered_VBN as_RB very_RB unbalanced_JJ classification_NN problems_NNS -LRB-_-LRB- since_IN the_DT class_NN of_IN outliers_NNS has_VBZ inherently_RB relatively_RB few_JJ members_NNS only_RB -RRB-_-RRB- ._.
+H_NN

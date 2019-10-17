@@ -1,0 +1,4 @@
+1_CD 2_CD ‖_CD w_NN ‖_NN 2_CD ._.
+Then_RB the_DT bundle_NN method_NN produces_VBZ a_DT duality_NN gap_NN of_IN at_IN most_JJS ɛ_NN after_IN t_NN steps_NNS ,_, where_WRB t_NN ≤_NN log_NN 2_CD λRemp_NN -LRB-_-LRB- 0_CD -RRB-_-RRB- −_NN 2_CD log_NN 2_CD G_NN +_CC 8G2_NN λɛ_FW −_FW 4_CD ._.
+-LRB-_-LRB- 13_CD -RRB-_-RRB- Note_VBP that_IN this_DT bound_VBN is_VBZ significantly_RB better_JJR than_IN that_DT of_IN =_JJ -_: =[_NN 40_CD ,_, 35_CD -RRB-_-RRB- -_: =_JJ -_: ,_, since_IN it_PRP only_RB depends_VBZ logarithmically_RB on_IN the_DT value_NN of_IN the_DT loss_NN and_CC offers_VBZ an_DT O_NN -LRB-_-LRB- 1_CD \/_: ɛ_NN -RRB-_-RRB- rate_NN of_IN convergence_NN rather_RB than_IN the_DT O_NN -LRB-_-LRB- 1_CD \/_: ɛ_NN 2_CD -RRB-_-RRB- rate_NN in_IN previous_JJ papers_NNS ._.
+This_DT is_VBZ largely_RB due_JJ to_TO an_DT improved_JJ analysis_NN

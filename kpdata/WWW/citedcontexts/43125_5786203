@@ -1,0 +1,4 @@
+._.
+Although_IN Credence_NN is_VBZ not_RB a_DT recommender_NN system_NN ,_, our_PRP$ distributed_VBN flowbased_JJ correlation_NN computations_NNS resemble_VBP the_DT centralized_JJ recommender_NN algorithms_NNS in_IN -LRB-_-LRB- 27_CD -RRB-_-RRB- for_IN use_NN in_IN online_JJ marketplaces_NNS ._.
+Guha_NNP et_FW al._FW =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: examine_VB how_WRB both_CC positive_JJ and_CC negative_JJ evaluations_NNS might_MD be_VB propagated_VBN through_IN a_DT web_NN of_IN pairwise_JJ observations_NNS ,_, and_CC we_PRP share_VBP a_DT similar_JJ model_NN of_IN information_NN propagation_NN in_IN Credence_NNP ._.
+In_IN general_JJ ,_, however_RB

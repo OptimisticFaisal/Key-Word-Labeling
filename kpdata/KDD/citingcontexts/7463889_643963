@@ -1,0 +1,5 @@
+nsionality_NN ._.
+The_DT SVM_NNP models_NNS perform_VBP quite_RB well_RB and_CC are_VBP not_RB affected_VBN much_RB by_IN feature_NN selection_NN ,_, except_IN when_WRB we_PRP drop_VBP below_IN 2500_CD features_NNS ._.
+This_DT seems_VBZ to_TO be_VB consistent_JJ with_IN the_DT observation_NN by_IN Zheng_NNP et_FW al._FW =_SYM -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, that_WDT regularized_VBD linear_JJ methods_NNS ,_, such_JJ as_IN SVMs_NNS are_VBP not_RB helped_VBN by_IN standard_JJ feature_NN selection_NN methods_NNS ._.
+Naïve_NNP Bayes_NNP ,_, on_IN the_DT hand_NN seems_VBZ to_TO be_VB quite_RB sensitive_JJ to_TO the_DT selection_NN of_IN features_NNS ._.
+The_DT re-weighted_JJ

@@ -1,0 +1,3 @@
+In_IN fact_NN the_DT ME_NN algorithm_NN -LRB-_-LRB- known_VBN as_IN iterative_JJ scaling_NN -RRB-_-RRB- for_IN inferring_VBG an_DT undirected_JJ joint_JJ distribution_NN on_IN the_DT query_NN variables_NNS has_VBZ worst-case_JJ time_NN complexity_NN exponential_JJ in_IN the_DT number_NN of_IN query_JJ variables_NNS =_JJ -_: =[_NN 25_CD ,_, 15_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN -LRB-_-LRB- 24_CD -RRB-_-RRB- we_PRP considered_VBD several_JJ graph-based_JJ algorithms_NNS that_WDT reduce_VBP the_DT time_NN complexity_NN of_IN iterative_JJ scaling_NN to_TO being_VBG exponential_JJ in_IN the_DT induced_VBN width_NN w_NN of_IN the_DT graph_NN of_IN the_DT Markov_NNP random_JJ field_NN ._.
+We_PRP also_RB

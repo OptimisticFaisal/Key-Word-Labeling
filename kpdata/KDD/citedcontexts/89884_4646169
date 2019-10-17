@@ -1,0 +1,4 @@
+core_NN trees_NNS and_CC transform_VB them_PRP to_TO the_DT uniform_JJ graph_NN formats_NNS ._.
+Therefore_RB ,_, it_PRP is_VBZ necessary_JJ to_TO generate_VB all_DT subtrees_NNS from_IN the_DT set_NN of_IN core_NN trees_NNS to_TO form_VB the_DT feature_NN space_NN ._.
+A_DT frequent_JJ tree-mining_JJ algorithm_NN -LRB-_-LRB- =_JJ -_: =_JJ Zaki_NNP 2002_CD -_: =--RRB-_NN is_VBZ used_VBN to_TO generate_VB subtrees_NNS from_IN a_DT set_NN of_IN core_NN trees_NNS ._.
+A_DT minimum_JJ support_NN parameter_NN is_VBZ used_VBN in_IN this_DT algorithm_NN to_TO allow_VB filtering_VBG :_: the_DT filter_NN yields_NNS only_RB those_DT subtrees_NNS that_WDT appear_VBP more_RBR frequently_RB tha_NN

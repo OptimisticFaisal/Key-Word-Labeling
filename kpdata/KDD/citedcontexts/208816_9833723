@@ -1,0 +1,5 @@
+,_, e.g._FW -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+Another_DT major_JJ approach_NN models_NNS the_DT time_NN series_NN using_VBG a_DT generative_JJ probabilistic_JJ model_NN ,_, such_JJ as_IN Hidden_NNP Markov_NNP Models_NNS -LRB-_-LRB- HMM_NN -RRB-_-RRB- ,_, and_CC classifies_VBZ examples_NNS using_VBG maximum_NN likelihood_NN or_CC MAP_NN estimates_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Ourwork_NNP falls_VBZ into_IN a_DT third_JJ category_NN :_: using_VBG similarity_NN functions_NNS or_CC distance_NN measures_NNS for_IN time_NN series_NN data_NNS -LRB-_-LRB- 21_CD ,_, 22_CD -RRB-_-RRB- ._.
+Various_JJ similarity_NN functions_NNS for_IN time_NN series_NN have_VBP been_VBN proposed_VBN ._.
+Notably_RB ,_, Dynamic_NNP

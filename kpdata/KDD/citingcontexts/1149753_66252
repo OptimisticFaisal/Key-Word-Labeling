@@ -1,0 +1,6 @@
+moz_NN ._.
+txt_NN ._.
+While_IN indexing_NN we_PRP skipped_VBD text_NN between_IN html_NN tags_NNS ,_, pruned_VBN words_NNS occurring_VBG in_IN less_JJR than_IN five_CD documents_NNS ,_, used_VBD a_DT stop_NN list_NN but_CC did_VBD not_RB use_VB stemming_VBG ._.
+The_DT resulting_VBG vocabulary_NN had_VBD 14,538_CD words_NNS ._.
+Bow_NN =_SYM -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT library_NN of_IN C_NN code_NN useful_JJ for_IN writing_VBG text_NN analysis_NN ,_, language_NN modeling_NN and_CC information_NN retrieval_NN programs_NNS ._.
+We_PRP extended_VBD Bow_NN to_TO index_NN BdB_NN -LRB-_-LRB- www.sleepycat.com_NN -RRB-_-RRB- flat_JJ file_NN databases_NNS where_WRB we_PRP stored_VBD the_DT

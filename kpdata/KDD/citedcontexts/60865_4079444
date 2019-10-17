@@ -1,0 +1,4 @@
+oposed_VBN in_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC its_PRP$ measurements_NNS --_: Kendall_NNP 's_POS tau_NN distance_NN or_CC Spearman_NNP 's_POS footrule_JJ distance_NN --_: will_MD degenerate_VB ._.
+Another_DT category_NN of_IN ranking_JJ methods_NNS is_VBZ based_VBN on_IN machine_NN learning_NN algorithms_NNS ,_, such_JJ as_IN RankSVM_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, RankBoost_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, and_CC RankNet_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+All_DT of_IN these_DT methods_NNS require_VBP labeled_JJ datasets_NNS to_TO train_VB a_DT model_NN ._.
+In_IN current_JJ settings_NNS ,_, it_PRP is_VBZ difficult_JJ or_CC even_RB impossible_JJ to_TO get_VB these_DT datasets_NNS labeled_VBN as_IN professional_NN

@@ -1,0 +1,4 @@
+ndependence_NN of_IN words_NNS ,_, Naive_JJ Bayes_NNP has_VBZ been_VBN found_VBN to_TO yield_VB surprisingly_RB good_JJ classification_NN performance_NN ,_, especially_RB on_IN text_NN data_NNS ._.
+Plausible_JJ reasons_NNS for_IN the_DT success_NN of_IN Naive_JJ Bayes_NNS have_VBP been_VBN explored_VBN in_IN =_JJ -_: =[_NN 9_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4.2_CD Support_NN Vector_NNP Machines_NNP Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- SVMs_NNS -RRB-_-RRB- -LRB-_-LRB- 29_CD -RRB-_-RRB- are_VBP inductive_JJ learning_VBG schemes_NNS for_IN solving_VBG the_DT two_CD class_NN pattern_NN recognition_NN problem_NN ._.
+Recently_RB SVMs_NNS have_VBP been_VBN shown_VBN to_TO give_VB good_JJ results_NNS

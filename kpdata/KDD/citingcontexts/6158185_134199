@@ -1,0 +1,6 @@
+first_RB proposed_VBN by_IN Agrawal_NNP et_FW al._FW in_IN 1995_CD -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+The_DT target_NN is_VBZ to_TO mine_VB frequent_JJ sequences_NNS from_IN a_DT transactional_JJ database_NN ._.
+Efficient_JJ algorithms_NNS for_IN this_DT problem_NN include_VBP GSP_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, SPADE_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- and_CC PrefixSpan_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+GSP_NNP utilizes_VBZ the_DT apriori_JJ property_NN to_TO prune_VB the_DT huge_JJ search_NN space_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+It_PRP can_MD also_RB be_VB used_VBN to_TO solve_VB other_JJ generalized_JJ versions_NNS of_IN the_DT frequent-sequence_JJ mining_NN problem_NN ._.
+For_IN example_NN ,_, a_DT user_NN can_MD specif_VB

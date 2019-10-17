@@ -1,0 +1,3 @@
+Prostate_NN 6034_CD 102_CD 2_CD Lymphoma_NN 4026_CD 62_CD 3_CD SRBCT_NN 2308_CD 63_CD 4_CD We_PRP experimented_VBD with_IN six_CD frequently_RB studied_VBN public_JJ microarray_NN data_NNS sets_NNS 1_CD ,_, characterized_VBN in_IN Table_NNP 1_CD ._.
+Following_VBG the_DT original_JJ work_NN on_IN Colon_NN data_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, for_IN each_DT data_NNS set_VBN ,_, we_PRP normalized_VBD each_DT feature_NN vector_NN so_IN that_IN the_DT mean_NN over_IN its_PRP$ components_NNS is_VBZ zero_NN and_CC the_DT standard_JJ deviation_NN is_VBZ one_CD ._.
+Note_VB that_IN because_IN of_IN the_DT normalization_NN ,_, the_DT Euclidean_JJ distance_NN be_VB

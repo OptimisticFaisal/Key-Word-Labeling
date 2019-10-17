@@ -1,0 +1,4 @@
+ased_VBN on_IN a_DT generation_NN of_IN Adaboost_NNP -LRB-_-LRB- Schapire_NNP ,_, 1999_CD -RRB-_-RRB- in_IN which_WDT subtrees_NNS mined_VBN from_IN the_DT training_NN data_NNS are_VBP severed_VBN as_IN weak_JJ decision_NN stump_NN functions_NNS ._.
+The_DT technique_NN for_IN mining_NN these_DT subtrees_NNS is_VBZ presented_VBN in_IN -LRB-_-LRB- =_JJ -_: =_JJ Zaki_NNP ,_, 2002_CD -_: =--RRB-_NN which_WDT is_VBZ an_DT efficient_JJ method_NN for_IN mining_VBG a_DT large_JJ corpus_NN of_IN trees_NNS ._.
+Table_NNP 1_CD shows_VBZ an_DT example_NN of_IN mining_NN subtrees_NNS on_IN our_PRP$ corpus_NN ._.
+One_CD Table_NNP 1_CD :_: Subtrees_NNS mined_VBN from_IN the_DT corpus_JJ Frequency_NN Subtree_NN 20_CD -LRB-_-LRB- and_CC -LRB-_-LRB- bown_NN

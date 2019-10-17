@@ -1,0 +1,4 @@
+d_NN finding_VBG a_DT structural_JJ rule_NN cover_NN ,_, which_WDT describes_VBZ the_DT same_JJ database_NN rows_NNS as_IN the_DT original_JJ set_NN of_IN association_NN rules_NNS -LRB-_-LRB- 28_CD -RRB-_-RRB- ._.
+Therefore_RB ,_, those_DT rules_NNS that_WDT are_VBP not_RB in_IN the_DT cover_NN are_VBP regarded_VBN as_IN redundant_JJ ._.
+In_IN =_JJ -_: =[_NN 11,20,24,30_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT definition_NN of_IN redundant_JJ rules_NNS is_VBZ based_VBN on_IN several_JJ inference_NN rules_NNS or_CC an_DT inference_NN system_NN ._.
+Therefore_RB ,_, all_DT association_NN rules_NNS that_WDT can_MD be_VB derived_VBN from_IN other_JJ rules_NNS by_IN applying_VBG inference_NN rules_NNS are_VBP re_IN

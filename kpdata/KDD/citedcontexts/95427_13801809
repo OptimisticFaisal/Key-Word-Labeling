@@ -1,0 +1,6 @@
+sudden_JJ ,_, gradual_JJ and_CC rigorous_JJ -RRB-_-RRB- were_VBD used_VBN ._.
+The_DT data_NNS generation_NN and_CC all_PDT the_DT experiments_NNS were_VBD repeated_VBN 10_CD times_NNS ._.
+The_DT average_JJ test_NN set_NN classification_NN accuracy_NN is_VBZ reported_VBN ._.
+3.1_CD Data_NN Sets_VBZ SEA_NN synthetic_JJ data_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT data_NN consists_VBZ of_IN three_CD attributes_NNS ,_, each_DT one_CD in_IN the_DT range_NN from_IN 0_CD to_TO 10_CD ,_, and_CC the_DT target_NN variable_JJ yi_NN which_WDT is_VBZ set_VBN to_TO +1_CD if_IN xi1_NN +_CC xi2_NN =_JJ b_NN and_CC −_NN 1_CD otherwise_RB ,_, where_WRB b_NN ∈_CD -LCB-_-LRB- 7_CD ,_, 8_CD ,_, 9_CD ,_, 9.5_CD -RCB-_-RRB- ._.
+The_DT data_NNS stream_NN

@@ -1,0 +1,4 @@
+cientific_JJ citations_NNS ._.
+Monge_NNP and_CC Elkan_NNP developed_VBD the_DT iterative_JJ merging_JJ algorithm_NN based_VBN on_IN the_DT union-find_JJ data_NN structure_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- and_CC showed_VBD the_DT advantages_NNS of_IN using_VBG a_DT string_NN distance_NN metric_NN that_WDT allows_VBZ gaps_NNS =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Cohen_NNP et_NNP ._.
+al._FW -LRB-_-LRB- 3_CD -RRB-_-RRB- posed_VBD the_DT duplicate_VBP detection_NN task_NN as_IN an_DT optimization_NN problem_NN ,_, proved_VBD NP-hardness_NN of_IN solving_VBG the_DT problem_NN optimally_RB ,_, and_CC proposed_VBD a_DT nearly_RB linear_JJ algorithm_NN for_IN finding_VBG a_DT local_JJ optim_NN

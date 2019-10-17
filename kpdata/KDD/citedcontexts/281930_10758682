@@ -1,0 +1,3 @@
+the_DT benefit_NN of_IN applying_VBG DROUT_NNP on_IN two_CD popular_JJ outlier_NN detection_NN techniques_NNS ,_, through_IN experiments_NNS on_IN real_JJ datasets_NNS ._.
+4.1_CD Detection_NN Techniques_NNS ORCA_NN :_: In_IN the_DT field_NN of_IN distance-based_JJ outlier_NN detection_NN ,_, ORCA_NN -LRB-_-LRB- =_JJ -_: =_JJ Bay_NNP and_CC Schwabacher_NNP ,_, 2003_CD -_: =--RRB-_NN is_VBZ one_CD of_IN the_DT most_RBS popular_JJ methods_NNS due_JJ to_TO its_PRP$ high_JJ efficiency_NN in_IN terms_NNS of_IN time_NN complexity_NN and_CC accuracy_NN ._.
+In_IN ORCA_NN ,_, we_PRP aim_VBP to_TO detect_VB top_JJ n_NN outliers_NNS whose_WP$ total_JJ distances_NNS to_TO their_PRP$ respective_JJ k_NN nearest_IN n_NN

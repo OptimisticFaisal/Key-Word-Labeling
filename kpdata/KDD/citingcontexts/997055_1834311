@@ -1,0 +1,4 @@
+ns_NNS can_MD be_VB derived_VBN from_IN these_DT representations_NNS ._.
+Lossy_JJ compression_NN methods_NNS were_VBD also_RB developed_VBN in_IN parallel_NN :_: maximal_JJ patterns_NNS by_IN Gunopulos_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, error-tolerant_JJ patterns_NNS by_IN Yang_NNP et_FW al._FW -LRB-_-LRB- 28_CD -RRB-_-RRB- and_CC Pei_NNP et_FW al._FW =_SYM -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC Top-k_NN patterns_NNS by_IN Han_NNP et_FW al._FW -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+These_DT methods_NNS can_MD reduce_VB the_DT pattern_NN set_NN size_NN further_RB ._.
+For_IN example_NN ,_, in_IN maximal_JJ pattern_NN mining_NN ,_, all_DT of_IN the_DT frequent_JJ subpatterns_NNS are_VBP removed_VBN so_IN that_IN the_DT resultin_NN

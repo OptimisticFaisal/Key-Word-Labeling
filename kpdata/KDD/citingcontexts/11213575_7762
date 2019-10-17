@@ -1,0 +1,5 @@
+is_VBZ used_VBN for_IN analyzing_VBG multiscale_JJ patterns_NNS in_IN streaming_NN data_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- as_RB well_RB as_IN topic_NN models_NNS ._.
+However_RB ,_, since_IN SVD_NNP assumes_VBZ Gaussian_JJ noise_NN ,_, it_PRP is_VBZ inappropriate_JJ for_IN discrete_JJ data_NNS such_JJ as_IN document_NN collections_NNS =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4_LS ._.
+EXPERIMENTS_NNS 4.1_CD Setting_VBG We_PRP evaluated_VBD the_DT multiscale_JJ dynamic_JJ topic_NN model_NN with_IN online_JJ inference_NN -LRB-_-LRB- MDTM_NN -RRB-_-RRB- using_VBG four_CD real_JJ document_NN collections_NNS with_IN timestamps_NNS :_: NIPS_NNP ,_, PNAS_NNP ,_, Digg_NNP ,_, and_CC Addresses_NNS ._.
+The_DT NIP_NN

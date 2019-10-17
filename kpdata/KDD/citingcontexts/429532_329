@@ -1,0 +1,4 @@
+raph_NN mining_NN algorithms_NNS can_MD be_VB roughly_RB classified_VBN into_IN two_CD categories_NNS ._.
+Algorithms_NNS in_IN the_DT first_JJ category_NN use_VBP a_DT levelwise_JJ search_NN scheme_NN based_VBN on_IN the_DT Apriori_NNP property_NN to_TO enumerate_VB the_DT recurrent_JJ subgraphs_NN =_JJ -_: =[_NN 13_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Rather_RB than_IN growing_VBG a_DT graph_NN by_IN one_CD single_JJ node\/edge_NN at_IN a_DT time_NN ,_, Vanetik_NNP et_FW al._FW recently_RB proposed_VBD an_DT Apriori-based_JJ algorithm_NN using_VBG paths_NNS as_IN building_NN blocks_VBZ with_IN a_DT novel_JJ support_NN definition_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+Algori_NNP

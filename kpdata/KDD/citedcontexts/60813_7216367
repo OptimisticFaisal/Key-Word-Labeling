@@ -1,0 +1,5 @@
+data_NNS ._.
+The_DT problem_NN of_IN finding_VBG spatially_RB coherent_JJ groupings_NNS is_VBZ related_JJ to_TO image_NN segmentation_NN ;_: see_VB ,_, e.g._FW ,_, -LRB-_-LRB- 29_CD -RRB-_-RRB- ._.
+Other_JJ more_RBR general_JJ models_NNS and_CC techniques_NNS that_WDT could_MD be_VB adapted_VBN to_TO this_DT problem_NN are_VBP ,_, e.g._FW ,_, =_JJ -_: =[_NN 3_CD ,_, 19_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, all_DT deal_NN only_RB with_IN spatial_JJ correlations_NNS and_CC can_MD not_RB be_VB directly_RB used_VBN for_IN simultaneously_RB discovering_VBG feature_NN co-occurrences_NNS ._.
+Prevailing_VBG graph_NN partitioning_NN methods_NNS are_VBP METIS_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- and_CC spectral_JJ

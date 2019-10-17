@@ -1,0 +1,5 @@
+th_DT principle_NN ._.
+5.1_CD MDL_NN ,_, a_DT brief_JJ primer_NN The_DT MDL_NN -LRB-_-LRB- Minimum_NNP Description_NN Length_NN -RRB-_-RRB- -LRB-_-LRB- 14_CD ,_, 31_CD -RRB-_-RRB- principle_NN ,_, like_IN its_PRP$ close_JJ cousin_NN MML_NNP -LRB-_-LRB- Minimum_NNP Message_NNP Length_NN -RRB-_-RRB- -LRB-_-LRB- 39_CD -RRB-_-RRB- ,_, is_VBZ a_DT practical_JJ version_NN of_IN Kolmogorov_NNP complexity_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+All_DT three_CD embrace_VBP the_DT slogan_NN Induction_NN by_IN Compression_NN ._.
+For_IN MDL_NNP ,_, this_DT principle_NN can_MD be_VB roughly_RB described_VBN as_IN follows_VBZ ._.
+Given_VBN a_DT set_NN of_IN models_NNS 1_CD H_NN ,_, the_DT best_JJS model_NN H_NN ∈_NN H_NN is_VBZ the_DT one_NN that_WDT minimizes_VBZ L_NN -LRB-_-LRB- H_NN -RRB-_-RRB- +_CC L_NN

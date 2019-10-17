@@ -1,0 +1,5 @@
+-LRB-_-LRB- noisy_JJ -RRB-_-RRB- point_NN cloud_NN data_NNS ._.
+This_DT is_VBZ the_DT subject_NN of_IN this_DT work_NN ._.
+This_DT problem_NN ,_, clustering-by-dimensionality_NN and_CC stratification_NN learning_NN ,_, has_VBZ recently_RB been_VBN explored_VBN in_IN a_DT handful_NN of_IN works_NNS ._.
+Barbará_NNP and_CC Chen_NNP ,_, =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, proposed_VBD a_DT hard_JJ clustering_NN technique_NN based_VBN on_IN the_DT fractal_JJ dimension_NN -LRB-_-LRB- box-counting_NN -RRB-_-RRB- ._.
+Starting_VBG from_IN an_DT initial_JJ clustering_NN ,_, they_PRP incrementally_RB add_VBP points_NNS into_IN the_DT cluster_NN for_IN which_WDT the_DT change_NN in_IN the_DT fr_NN

@@ -1,0 +1,3 @@
+r_NN than_IN regular_JJ logistic_JJ regression_NN ,_, although_IN the_DT performance_NN could_MD be_VB suboptimal_JJ compared_VBN to_TO what_WP logistic_JJ regression_NN can_MD potentially_RB achieve_VB ._.
+An_DT alternative_JJ hybrid_NN model_NN was_VBD proposed_VBN by_IN Raina_NNP et_FW al._FW =_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: who_WP learn_VBP component_NN naive_JJ Bayes_NNP classifiers_NNS first_RB and_CC then_RB combine_VB them_PRP using_VBG the_DT weights_NNS learned_VBN by_IN logistic_JJ regression_NN with_IN leave-one-out_JJ estimate_NN ._.
+They_PRP demonstrated_VBD that_IN by_IN separating_VBG features_NNS tha_NN

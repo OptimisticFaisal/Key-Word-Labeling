@@ -1,0 +1,5 @@
+alence_NN for_IN two_CD entities_NNS that_WDT are_VBP not_RB completely_RB equivalent_JJ ,_, including_VBG Euclidean_JJ distance_NN and_CC Pearson_NNP correlation_NN ._.
+4.2.4_CD Other_JJ methods_NNS Not_RB all_DT community_NN discover_VBP methods_NNS seek_VBP to_TO partition_NN the_DT network_NN ._.
+=_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: gives_VBZ a_DT method_NN of_IN using_VBG agglomerative_JJ clustering_NN to_TO find_VB `_`` natural_JJ communities_NNS '_POS ._.
+The_DT idea_NN is_VBZ that_IN not_RB all_DT individuals_NNS will_MD naturally_RB fall_VB into_IN communities_NNS ._.
+A_DT `_`` natural_JJ community_NN '_'' is_VBZ a_DT stable_JJ community_NN ;_:

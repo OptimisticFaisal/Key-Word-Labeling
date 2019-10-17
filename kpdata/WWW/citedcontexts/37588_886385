@@ -1,0 +1,5 @@
+needed_VBN ._.
+sThese_NN two_CD key_JJ differences_NNS illustrate_VBP the_DT need_NN for_IN new_JJ approaches_NNS compared_VBN to_TO traditional_JJ web_NN crawling_NN ._.
+A_DT pipelined_JJ document_NN indexing_NN infrastructure_NN has_VBZ already_RB been_VBN defined_VBN and_CC analyzed_VBN -LRB-_-LRB- see_VB =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+However_RB ,_, the_DT same_JJ approach_NN is_VBZ not_RB applicable_JJ for_IN Semantic_JJ Web_NN data_NNS due_JJ to_TO the_DT variety_NN of_IN stages_NNS and_CC different_JJ time_NN and_CC space_NN behavior_NN ._.
+The_DT main_JJ contributions_NNS of_IN this_DT paper_NN are_VBP :_: --_: Following_VBG the_DT gene_NN

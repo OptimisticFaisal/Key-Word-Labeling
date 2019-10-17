@@ -1,0 +1,5 @@
+has_VBZ been_VBN much_JJ research_NN effort_NN devoted_VBN to_TO time_NN series_NN data_NNS mining_NN in_IN recent_JJ years_NNS ._.
+Many_JJ data_NNS mining_NN algorithms_NNS have_VBP similarity_NN measurements_NNS of_IN sequences_NNS at_IN their_PRP$ core_NN ._.
+Examples_NNS include_VBP motif_NN discovery_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, anomaly_JJ detection_NN -LRB-_-LRB- 7_CD ,_, 18_CD -RRB-_-RRB- ,_, rule_NN discovery_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, classification_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC clustering_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN we_PRP deal_VBP with_IN computation_NN of_IN time_NN series_NN distances_NNS based_VBN on_IN elastic_JJ matching_NN ._.
+To_TO solve_VB the_DT problem_NN

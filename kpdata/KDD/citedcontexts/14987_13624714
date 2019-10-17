@@ -1,0 +1,3 @@
+odels_NNS built_VBN on_IN historical_JJ training_NN distributions_NNS can_MD be_VB continuously_RB updated_VBN or_CC new_JJ models_NNS can_MD be_VB built_VBN based_VBN on_IN these_DT newlylabeled_JJ data_NNS in_IN order_NN to_TO effectively_RB adapt_VB to_TO or_CC track_VB the_DT evolving_VBG concept_NN =_JJ -_: =[_NN 3_CD ;_: 4_CD ;_: 8_CD ;_: 9_CD ;_: 30_CD ;_: 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Based_VBN on_IN this_DT feature_NN ,_, we_PRP categorize_VBP state-of-the-art_JJ supervised_JJ stream_NN mining_NN approaches_VBZ into_IN two_CD kinds_NNS of_IN :_: tracking_NN and_CC adaption_NN ._.
+The_DT tracking_NN approach_NN passively_RB renews_VBZ models_NNS after_IN stimulated_VBN by_IN

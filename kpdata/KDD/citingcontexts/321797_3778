@@ -1,0 +1,4 @@
+rune_VB a_DT node_NN on_IN the_DT search_NN tree_NN when_WRB all_DT specializations_NNS of_IN that_DT node_NN can_MD never_RB be_VB a_DT significant_JJ and_CC large_JJ contrast-set_NN ._.
+This_DT is_VBZ similar_JJ to_TO subset-infrequency_NN pruning_NN used_VBN by_IN Apriori_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC Max-Miner_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- ._.
+No_DT -_: =_SYM -_: des_FW are_VBP pruned_VBN based_VBN on_IN :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- minimum_JJ deviation_NN size_NN ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- expected_JJ cell_NN frequencies_NNS ,_, and_CC -LRB-_-LRB- 3_LS -RRB-_-RRB- 2_CD bounds_NNS ._.
+Minimum_NNP Deviation_NNP Size_NN :_: The_DT deviation_NN size_NN of_IN a_DT contrast-set_NN is_VBZ the_DT maximum_NN difference_NN betw_NN

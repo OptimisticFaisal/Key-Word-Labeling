@@ -1,0 +1,5 @@
+C_NN algorithm_NN ._.
+Wrapper_NN selection_NN problem_NN is_VBZ also_RB discussed_VBN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, tree_NN edit_NN distance_NN is_VBZ used_VBN to_TO measure_VB the_DT distance_NN between_IN two_CD pages_NNS ._.
+They_PRP use_VBP traditional_JJ hierarchical_JJ clustering_NN techniques_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: in_IN which_WDT the_DT distance_NN measured_VBN is_VBZ the_DT output_NN of_IN a_DT restricted_JJ top-down_JJ tree_NN mapping_NN algorithm_NN -LRB-_-LRB- RTDM_NN -RRB-_-RRB- ._.
+The_DT RTDM_NNP algorithm_NN does_VBZ not_RB distinguish_VB node_NN tag_NN and_CC it_PRP is_VBZ designed_VBN only_RB for_IN finding_VBG the_DT main_JJ cont_NN

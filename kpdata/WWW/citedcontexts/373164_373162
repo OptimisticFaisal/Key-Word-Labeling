@@ -1,0 +1,4 @@
+%_NN or_CC use_NN less_JJR than_IN half_NN of_IN the_DT words_NNS while_IN maintaining_VBG accuracy_NN ._.
+Our_PRP$ key_JJ idea_NN is_VBZ to_TO take_VB sentences_NNS as_IN the_DT context_NN of_IN words_NNS to_TO find_VB occurrences_NNS in_IN unusual_JJ context_NN ;_: we_PRP use_VBP the_DT ``_`` locality_NN ''_'' of_IN words_NNS as_IN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP find_VBP relevant_JJ terms_NNS by_IN an_DT optimal_JJ trade-off_NN between_IN semantic_JJ coherence_NN and_CC content_NN coverage_NN ._.
+While_IN several_JJ authors_NNS argue_VBP for_IN considering_VBG phrases_NNS -LRB-_-LRB- 8_CD ,_, 27_CD ,_, 23_CD -RRB-_-RRB- due_JJ to_TO their_PRP$ superior_JJ semantic_JJ qualiti_NNS

@@ -1,0 +1,4 @@
+not_RB the_DT case_NN with_IN posts_NNS ._.
+Also_RB ,_, beyond_IN exploiting_VBG regular_JJ structure_NN ,_, the_DT wrapper_NN induction_NN methods_NNS use_VBP supervised_VBN machine_NN learning_VBG instead_RB of_IN unsupervised_JJ methods_NNS ._.
+The_DT system_NN closest_JJS to_TO ours_PRP is_VBZ SemTag_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT first_RB identifies_VBZ tokens_NNS of_IN interest_NN in_IN the_DT text_NN ,_, and_CC then_RB labels_VBZ them_PRP using_VBG the_DT TAP_NN taxonomy_NN ,_, which_WDT is_VBZ similar_JJ to_TO our_PRP$ reference_NN sets_NNS ._.
+This_DT taxonomy_NN is_VBZ carefully_RB crafted_VBN ,_, which_WDT gives_VBZ it_PRP good_JJ ac_NN

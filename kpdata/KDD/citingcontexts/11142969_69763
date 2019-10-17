@@ -1,0 +1,5 @@
+assify_JJ news_NN stories_NNS into_IN broad_JJ categories_NNS using_VBG pattern_NN matching_NN and_CC machine_NN learning_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+However_RB ,_, these_DT methods_NNS assume_VBP the_DT labels_NNS are_VBP known_VBN in_IN advance_NN ,_, and_CC thus_RB are_VBP not_RB applicable_JJ ._.
+Event_NN detection_NN =_JJ -_: =[_NN 9_CD ,_, 19_CD -RRB-_-RRB- -_: =_JJ -_: deals_NNS with_IN discovering_VBG new_JJ events_NNS ,_, but_CC does_VBZ not_RB attempt_VB to_TO string_VB different_JJ events_NNS together_RB ._.
+In_IN contrast_NN ,_, email_NN threading_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- tries_VBZ to_TO discover_VB connections_NNS between_IN related_JJ email_NN messages_NNS ._.
+This_DT is_VBZ cl_NN

@@ -1,0 +1,5 @@
+are_VBP two_CD uninstantiated_JJ numeric_JJ attributes_NNS ._.
+In_IN this_DT case_NN ,_, we_PRP need_VBP to_TO compute_VB a_DT set_NN of_IN k_NN non-overlapping_JJ rectangles_NNS in_IN two-dimensional_JJ space_NN whose_WP$ gain_NN is_VBZ maximum_JJ ._.
+Unfortunately_RB ,_, this_DT problem_NN in_IN NPhard_NN =_JJ -_: =_JJ -LRB-_-LRB- KMP98_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT following_JJ subsection_NN ,_, we_PRP describe_VBP a_DT dynamic_JJ programming_NN algorithm_NN with_IN polynomial_JJ time_NN complexity_NN that_WDT computes_VBZ approximations_NNS to_TO optimized_VBN sets_NNS ._.
+10_CD procedure_NN optGain2D_NN -LRB-_-LRB- -LRB-_-LRB- i_LS ;_: j_NN -RRB-_-RRB- ;_: -LRB-_-LRB- p_NN ;_: q_NN -RRB-_-RRB- ;_: k_NN -RRB-_-RRB- beg_VBP

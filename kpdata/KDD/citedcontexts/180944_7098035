@@ -1,0 +1,5 @@
+algorithm_NN scales_NNS as_IN O_NN -LRB-_-LRB- nkd_NN -RRB-_-RRB- ._.
+The_DT state-of-the-art_JJ kMeans_NN clustering_NN algorithm_NN ,_, due_JJ to_TO Pelleg_NNP and_CC Moore_NNP ,_, improves_VBZ the_DT performance_NN of_IN the_DT above_RB mentioned_VBN algorithm_NN by_IN employing_VBG a_DT multi-resolution_JJ kdtree_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Multi-resolution_JJ kd-trees_NNS have_VBP the_DT following_JJ properties_NNS ._.
+First_RB ,_, they_PRP are_VBP binary_JJ trees_NNS ._.
+Second_JJ ,_, each_DT node_NN in_IN the_DT kd-tree_NN contains_VBZ information_NN about_IN all_DT points_NNS contained_VBN in_IN a_DT hyper-rectangle_JJ h._NN This_DT h_NN

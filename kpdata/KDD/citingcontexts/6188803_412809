@@ -1,0 +1,4 @@
+M_NN |_NN D_NN -RRB-_-RRB- as_IN a_DT set_NN of_IN Gaussians_NNS centered_VBN at_IN νi_NN with_IN variance_NN σ_NN 2_CD i_LS ._.
+For_IN example_NN :_: ν1_FW ν4_FW ν5_FW Research_NNP Track_NNP Paper_NNP Relevance_NNP estimate_VBP This_DT model_NN is_VBZ motivated_VBN by_IN ability_NN estimates_NNS maintained_VBN for_IN chess_NN players_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT most_RBS closely_RB related_JJ previous_JJ work_NN ,_, Chu_NNP and_CC Ghahramani_NNP address_VBP a_DT similar_JJ problem_NN using_VBG Gaussian_JJ Processes_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+However_RB ,_, instead_RB maintaining_VBG the_DT distribution_NN P_NN -LRB-_-LRB- M_NN |_NN D_NN -RRB-_-RRB- ,_, they_PRP directly_RB estimate_VBP M_NN

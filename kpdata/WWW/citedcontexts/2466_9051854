@@ -1,0 +1,4 @@
+rned_VBN to_TO a_DT question_NN in_IN natural_JJ language_NN in_IN the_DT form_NN of_IN sentences_NNS or_CC phrases_NNS ._.
+The_DT typical_JJ QA_NN system_NN architecture_NN consists_VBZ of_IN three_CD phases_NNS :_: question_NN processing_NN ,_, document_NN retrieval_NN and_CC answer_NN extraction_NN -LRB-_-LRB- =_JJ -_: =_JJ Kwok_NNP et_FW al._FW ,_, 2001_CD -_: =--RRB-_NN ._.
+Question_NN processing_NN is_VBZ often_RB centered_VBN on_IN question_NN classification_NN ,_, which_WDT selects_VBZ one_CD of_IN k_NN expected_JJ answer_NN classes_NNS ._.
+Most_JJS accurate_JJ models_NNS apply_VBP supervised_JJ machine_NN learning_NN techniques_NNS ,_, e.g._FW SNoW_FW -LRB-_-LRB- Li_NNP an_DT

@@ -1,0 +1,4 @@
+nough_JJ ._.
+1.3_CD Random_NNP Projections_NNPS for_IN Estimating_VBG l2_NN Distances_NNS The_DT method_NN of_IN -LRB-_-LRB- normal_JJ -RRB-_-RRB- random_JJ projections_NNS -LRB-_-LRB- 26_CD -RRB-_-RRB- has_VBZ become_VBN a_DT standard_JJ technique_NN for_IN efficiently_RB computing_VBG the_DT l2_NN distances_NNS in_IN machine_NN learning_NN =_JJ -_: =[_NN 3_CD ,_, 8_CD ,_, 21_CD ,_, 6_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT idea_NN is_VBZ to_TO multiply_VB the_DT original_JJ data_NNS matrix_NN A_NNP ∈_NNP Rn_NNP ×_NNP D_NNP by_IN a_DT random_JJ matrix_NN R_NNP ∈_NNP RD_NNP ×_NNP k_NN ,_, resulting_VBG in_IN a_DT much_RB smaller_JJR matrix_NN B_NN =_JJ A_NN ×_NN R_NN ∈_FW Rn_FW ×_FW k_NN ._.
+Entries_NNS of_IN R_NN are_VBP sampled_VBN i.i.d._NN from_IN the_DT standard_JJ normal_JJ

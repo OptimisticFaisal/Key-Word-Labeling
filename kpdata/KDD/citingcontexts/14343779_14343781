@@ -1,0 +1,4 @@
+rders_NNS of_IN magnitude_NN more_RBR expensive_JJ than_IN the_DT actual_JJ training_NN ._.
+Langford_NNP et_FW al._FW have_VBP found_VBN it_PRP effective_JJ to_TO reduce_VB this_DT cost_NN by_IN using_VBG a_DT specialized_JJ data_NN format_NN ,_, which_WDT significantly_RB reduces_VBZ disk-read_JJ times_NNS =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT observation_NN allows_VBZ us_PRP to_TO parallelize_VB our_PRP$ training_NN effort_NN with_IN a_DT simpler_JJR approach_NN than_IN those_DT described_VBN above_IN ._.
+As_IN shown_VBN in_IN Figure_NNP 6_CD our_PRP$ approach_NN is_VBZ summarized_VBN as_IN follows_VBZ :_: •_NNP Do_NNP expensive_JJ work_NN in_IN p_NN

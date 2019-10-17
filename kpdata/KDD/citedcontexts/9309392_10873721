@@ -1,0 +1,5 @@
+rmance_NN ._.
+Our_PRP$ focus_NN is_VBZ on_IN the_DT case_NN where_WRB relatively_RB few_JJ attributes_NNS are_VBP available_JJ -LRB-_-LRB- or_CC the_DT attributes_NNS are_VBP not_RB very_RB predictive_JJ -RRB-_-RRB- as_IN may_MD occur_VB in_IN large_JJ real-world_JJ networks_NNS -LRB-_-LRB- c.f._FW ,_, Macskassy_NNP and_CC Provost_NNP 2007_CD ,_, =_JJ -_: =_JJ Gallagher_NNP et_FW al._FW 2008_CD -_: =--RRB-_NN ._.
+Thus_RB ,_, for_IN most_JJS of_IN our_PRP$ experiments_NNS we_PRP randomly_RB select_VBP 10_CD of_IN the_DT 100_CD available_JJ words_NNS to_TO use_VB as_IN attributes_NNS ._.
+We_PRP also_RB briefly_RB discuss_VB results_NNS when_WRB using_VBG 100_CD attributes_NNS ._.
+For_IN the_DT synthetic_JJ data_NNS ,_, ten_CD binar_NN

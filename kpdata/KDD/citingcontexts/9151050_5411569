@@ -1,0 +1,6 @@
+ection_NN 8_CD ,_, and_CC some_DT conclusions_NNS in_IN Section_NN 9_CD ._.
+2_CD ._.
+RELATED_NNS WORK_VBP There_EX is_VBZ a_DT large_JJ body_NN of_IN work_NN done_VBN on_IN itemset_NN mining_NN ._.
+An_DT important_JJ part_NN of_IN the_DT most_RBS recent_JJ work_NN is_VBZ related_JJ to_TO data_NN streams_NNS ;_: see_VB the_DT survey_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT references_NNS there_RB ._.
+We_PRP can_MD divide_VB these_DT data_NNS stream_NN methods_NNS in_IN two_CD different_JJ classes_NNS depending_VBG on_IN whether_IN they_PRP use_VBP a_DT landmark_NN window_NN or_CC a_DT sliding_VBG window_NN ._.
+Only_RB a_DT small_JJ part_NN of_IN these_DT methods_NNS deal_VBP

@@ -1,0 +1,5 @@
+mplish_JJ common_JJ tasks_NNS ,_, and_CC integrate_VB poorly_RB with_IN XML_NN ._.
+In_IN addition_NN ,_, traditional_JJ HTML_NNP forms_NNS introduce_VBP more_JJR complexity_NN in_IN programming_NN Web_NN applications_NNS ._.
+This_DT complexity_NN originates_VBZ from_IN several_JJ main_JJ sources_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+First_JJ ,_, dynamic_JJ web_NN pages_NNS are_VBP often_RB dynamically_RB generated_VBN ,_, which_WDT makes_VBZ application_NN code_NN harder_JJR to_TO understand_VB and_CC makes_VBZ troubleshooting_VBG more_RBR difficult_JJ ._.
+Second_JJ ,_, even_RB when_WRB dynamic_JJ Web_NN pages_NNS are_VBP a_DT single_JJ

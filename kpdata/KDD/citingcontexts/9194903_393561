@@ -1,0 +1,4 @@
+suitable_JJ for_IN parallelizing_VBG iterative_JJ algorithms_NNS than_IN MapReduce_NNP ._.
+Since_IN standard_JJ MPI_NN implementations_NNS -LRB-_-LRB- MPICH2_NN -RRB-_-RRB- can_MD not_RB be_VB directly_RB ported_VBN to_TO our_PRP$ system_NN ,_, we_PRP implemented_VBD our_PRP$ own_JJ system_NN by_IN modifying_VBG MPICH2_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Parallel_JJ Gibbs_NNP sampling_NN We_PRP distribute_VBP the_DT computation_NN among_IN machines_NNS based_VBN on_IN community_NN IDs_NNS ._.
+Thus_RB ,_, each_DT machine_NN i_FW only_JJ deals_NNS with_IN a_DT specified_VBN subset_NN of_IN communities_NNS ci_FW ,_, and_CC is_VBZ aware_JJ of_IN all_DT users_NNS u_VBP an_DT

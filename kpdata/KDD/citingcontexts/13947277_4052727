@@ -1,0 +1,4 @@
+events_NNS overfitting_VBG -RRB-_-RRB- ._.
+We_PRP experimented_VBD with_IN three_CD different_JJ learning_NN algorithms_NNS :_: max-margin_NN averaged_VBD perceptron_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, logistic_JJ regression_NN trained_VBN using_VBG the_DT L-BFGS_NN algorithm_NN with_IN L1_NN and_CC L2_NN regularization_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC boosted_VBD decision_NN trees_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Section_NN 6.3_CD provides_VBZ a_DT summary_NN of_IN results_NNS for_IN the_DT different_JJ learners_NNS ._.
+5.1_CD Predictive_JJ Features_NNS Features_NNS are_VBP functions_NNS of_IN the_DT keyword_JJ candidates_NNS considered_VBN for_IN inclusi_NNS

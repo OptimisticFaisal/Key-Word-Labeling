@@ -1,0 +1,4 @@
+odel_NN framework_NN ,_, and_CC treat_NN text_NN especially_RB important_JJ ._.
+In_IN our_PRP$ algorithm_NN ,_, we_PRP treat_VBP text_NN information_NN just_RB as_IN one_CD common_JJ type_NN of_IN objects_NNS ._.
+Recently_RB ,_, a_DT different_JJ view_NN of_IN clustering_NN on_IN heterogeneous_JJ networks_NNS =_JJ -_: =[_NN 9_CD ,_, 1_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: appears_VBZ ,_, which_WDT aims_VBZ at_IN clustering_NN objects_NNS from_IN different_JJ types_NNS simultaneously_RB ._.
+Given_VBN different_JJ cluster_NN number_NN needed_VBN for_IN each_DT type_NN of_IN objects_NNS ,_, clusters_NNS for_IN each_DT type_NN are_VBP generated_VBN by_IN maximizing_VBG some_DT

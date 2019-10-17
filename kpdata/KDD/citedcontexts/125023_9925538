@@ -1,0 +1,7 @@
+ysis_NN -LRB-_-LRB- true_JJ positive_JJ rate_NN vs_CC false_JJ positive_JJ rate_NN -RRB-_-RRB- ,_, and_CC for_IN other_JJ types_NNS of_IN curves_NNS ._.
+11_CD ._.
+Visualize_VB cost_NN curve_NN ._.
+Generates_VBZ a_DT plot_NN that_WDT gives_VBZ an_DT explicit_JJ representation_NN of_IN the_DT expected_VBN cost_NN ,_, as_IN described_VBN by_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Options_NNS are_VBP greyed_VBN out_RP if_IN they_PRP do_VBP not_RB apply_VB to_TO the_DT specific_JJ set_NN of_IN results_NNS ._.
+5_CD Clustering_NN Selecting_VBG a_DT Clusterer_NN By_IN now_RB you_PRP will_MD be_VB familiar_JJ with_IN the_DT process_NN of_IN selecting_VBG and_CC configuring_VBG objects_NNS ._.
+Clic_JJ

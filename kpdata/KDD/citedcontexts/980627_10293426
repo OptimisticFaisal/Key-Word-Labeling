@@ -1,0 +1,5 @@
+ssible_JJ recursive_JJ calls_NNS ._.
+We_PRP assume_VBP that_IN the_DT BP_NN and_CC a_DT description_NN of_IN the_DT likelihood_NN function_NN are_VBP readily_RB given_VBN ._.
+The_DT design\/inference_NN of_IN both_DT has_VBZ been_VBN the_DT focus_NN of_IN several_JJ previous_JJ works_NNS -LRB-_-LRB- see_VB e.g._FW -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, and_CC is_VBZ outside_IN the_DT scope_NN of_IN this_DT work_NN ._.
+Paper_NN organization_NN :_: In_IN Section_NN II_CD we_PRP informally_RB define_VBP our_PRP$ model_NN and_CC the_DT notion_NN of_IN top-k_NN execution_NN flows_VBZ ._.
+In_IN section_NN III_CD we_PRP present_VBP our_PRP$ algorithms_NNS for_IN finding_VBG

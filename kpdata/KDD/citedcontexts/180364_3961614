@@ -1,0 +1,5 @@
+ify_NN phonemes_NNS in_IN speech_NN ,_, detect_VB arrhythmias_NNS in_IN ECG_NN traces_NNS ,_, and_CC detect_VB mechanical_JJ failures_NNS in_IN a_DT motor_NN simulation_NN ._.
+Generating_NNP a_DT Gaussian_JJ mixture_NN model_NN requires_VBZ a_DT slow_JJ ,_, iterative_JJ process_NN ._.
+Vlachos_FW et_FW ._.
+al._FW =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: describe_VBP a_DT minimum_NN bounding_VBG rectangle_NN -LRB-_-LRB- MBR_NN -RRB-_-RRB- clustering_NN algorithm_NN that_WDT runs_VBZ in_IN O_NN -LRB-_-LRB- n_NN log_NN n_NN -RRB-_-RRB- time_NN that_WDT is_VBZ nearly_RB identical_JJ to_TO the_DT one_CD used_VBN in_IN our_PRP$ system_NN ._.
+A_DT sequence_NN of_IN n_NN points_NNS in_IN feature_NN space_NN is_VBZ first_RB

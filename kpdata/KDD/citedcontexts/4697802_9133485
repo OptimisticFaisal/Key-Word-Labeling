@@ -1,0 +1,4 @@
+pling_NN produces_VBZ an_DT ε-approximation_NN of_IN size_NN O_NN -LRB-_-LRB- 1_CD ε_NN 2_CD log_NN 1_CD ε_NN -RRB-_-RRB- ._.
+ε_FW ε_FW Deterministic_JJ construction_NN of_IN ε-approximations_NNS ._.
+There_EX exist_VBP deterministic_JJ constructions_NNS for_IN ε-approximations_NNS ._.
+When_WRB D_NN is_VBZ the_DT unit_NN cube_NN =_JJ -_: =[_NN 0_CD ,_, 1_CD -RRB-_-RRB- -_: =_JJ -_: d_NN there_EX are_VBP 1_CD constructions_NNS which_WDT can_MD be_VB interpreted_VBN as_IN ε-approximations_NNS of_IN size_NN O_NN -LRB-_-LRB- ε2d_NN \/_: -LRB-_-LRB- d_NN +1_CD -RRB-_-RRB- -RRB-_-RRB- 1_CD for_IN half_NN spaces_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC O_NN -LRB-_-LRB- ε2d_NN \/_: -LRB-_-LRB- d_NN +1_NN -RRB-_-RRB- d_NN \/_: -LRB-_-LRB- d_NN +1_NN -RRB-_-RRB- 1_CD 1_CD log_NN ε_NN polylog_NN -LRB-_-LRB- log_NN ε_NN -RRB-_-RRB- -RRB-_-RRB- for_IN balls_NNS in_IN d1_NN dimensions_NNS -LRB-_-LRB-

@@ -1,0 +1,4 @@
+e_LS SPIN_NN algorithm_NN is_VBZ implemented_VBN using_VBG the_DT C_NN +_CC +_CC programming_NN language_NN and_CC compiled_VBN using_VBG g_NN +_CC +_CC with_IN O3_NN optimization_NN ._.
+We_PRP compared_VBD SPIN_NN with_IN two_CD alternative_JJ subgraph_JJ mining_NN algorithms_NNS :_: FFSM_NN -LRB-_-LRB- -LRB-_-LRB- 10_CD -RRB-_-RRB- -RRB-_-RRB- and_CC gSpan_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Every_DT maximal_JJ subgraph_NN reported_VBN by_IN SPIN_NN in_IN synthetical_JJ and_CC real_JJ data_NNS sets_NNS are_VBP cross_JJ validated_VBN using_VBG results_NNS from_IN FFSM_NN and_CC gSpan_NN to_TO make_VB sure_JJ it_PRP is_VBZ -LRB-_-LRB- a_DT -RRB-_-RRB- frequent_JJ ,_, -LRB-_-LRB- b_NN -RRB-_-RRB- maximal_JJ ,_, and_CC -LRB-_-LRB- c_LS -RRB-_-RRB- unique_JJ ._.
+3.1_CD Synt_NN

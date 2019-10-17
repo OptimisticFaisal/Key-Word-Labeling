@@ -1,0 +1,6 @@
+the_DT sequence_NN classification_NN problem_NN ._.
+They_PRP first_RB mine_VBP frequent_JJ sequences_NNS with_IN restrictions_NNS such_JJ as_IN longest_JJS length_NN and_CC maximal_JJ itemset_NN size_NN ._.
+They_PRP then_RB use_VBP them_PRP in_IN the_DT classification_NN ._.
+Emerging_VBG patterns_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP itemsets_NNS whose_WP$ supports_NNS in_IN one_CD class_NN is_VBZ significantly_RB larger_JJR than_IN those_DT in_IN other_JJ classes_NNS ._.
+In_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, Li_NNP et_FW al._FW make_VB use_NN of_IN emerging_VBG patterns_NNS for_IN classification_NN ._.
+Our_PRP$ paper_NN proposes_VBZ a_DT new_JJ kind_NN of_IN patt_NN

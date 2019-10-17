@@ -1,0 +1,4 @@
+in_IN string_NN kernel_NN is_VBZ extremely_RB large_JJ ,_, it_PRP would_MD be_VB infeasible_JJ to_TO apply_VB effective_JJ feature_NN selection_NN techniques_NNS -LRB-_-LRB- using_VBG χ_NN 2_CD or_CC information_NN gain_NN ,_, etc._NN -RRB-_-RRB- -LRB-_-LRB- 68_CD ,_, 19_CD -RRB-_-RRB- ,_, feature_NN weighting_NN techniques_NNS -LRB-_-LRB- such_JJ as_IN TF_NN ×_CD IDF_NN =_JJ -_: =[_NN 60_CD ,_, 2_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, or_CC advanced_JJ kernel_NN functions_NNS -LRB-_-LRB- 28_CD ,_, 35_CD ,_, 72_CD -RRB-_-RRB- ._.
+3_LS ._.
+KEY-SUBSTRING-GROUP_NN FEATURES_NN A_NN corpus_NN D_NN =_JJ -LCB-_-LRB- d1_NN ,_, d2_NN ,_, ..._: ,_, dm_NN -RCB-_-RRB- of_IN size_NN n_NN -LRB-_-LRB- i.e._FW ,_, m_NN k_NN =_JJ 1_CD |_CD dk_NN |_NN =_JJ n_NN -RRB-_-RRB- contains_VBZ about_IN n_NN -LRB-_-LRB- n_NN +_CC 1_LS -RRB-_-RRB- \/_: 2_CD substrings_NNS ._.
+Our_PRP$ most_RBS important_JJ

@@ -1,0 +1,5 @@
+efficiently_RB using_VBG the_DT Hildreth_NN and_CC D’esopo_NN method_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+To_TO improve_VB the_DT stability_NN of_IN this_DT online_NN method_NN ,_, we_PRP average_VBP the_DT parameter_NN vectors_NNS from_IN each_DT update_VBP at_IN the_DT end_NN of_IN training_NN ,_, as_IN in_IN voted_VBN perceptron_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+6_CD ._.
+EXPERIMENTS_NNS 6.1_CD Data_NNPS We_PRP collect_VBP 3,683_CD citations_NNS to_TO 100_CD distinct_JJ papers_NNS from_IN Rexa_NNP ,_, an_DT online_JJ publications_NNS search_NN engine_NN ._.
+3_CD These_DT citations_NNS were_VBD automatically_RB extracted_VBN from_IN the_DT headers_NNS of_IN research_NN

@@ -1,0 +1,4 @@
+topics_NNS before_IN clustering_NN ._.
+Each_DT topic_NN can_MD be_VB represented_VBN as_IN a_DT vector_NN ,_, and_CC then_RB documents_NNS in_IN the_DT collection_NN will_MD be_VB clustered_VBN by_IN their_PRP$ similarity_NN with_IN topics_NNS ._.
+Some_DT semi-supervised_JJ clustering_NN approaches_VBZ =_JJ -_: =[_NN 4,6_CD -RRB-_-RRB- -_: =_SYM -_: assign_VB class_NN label_NN to_TO parts_NNS of_IN documents_NNS ,_, i.e._FW some_DT constraints_NNS are_VBP put_VBN ,_, and_CC then_RB clustering_NN process_NN will_MD consult_VB these_DT constraints_NNS ._.
+The_DT above_JJ semi-supervised_JJ document_NN clustering_NN approaches_NNS can_MD do_VB no_DT

@@ -1,0 +1,3 @@
+he_PRP number_NN of_IN policies_NNS we_PRP want_VBP to_TO compete_VB with_IN is_VBZ large_JJ ,_, and_CC it_PRP relies_VBZ on_IN careful_JJ control_NN of_IN the_DT action_NN choosing_NN distribution_NN ._.
+Sample_NN complexity_NN results_NNS for_IN policy_NN evaluation_NN in_IN reinforcement_NN learning_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: and_CC contextual_JJ bandits_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- show_VBP that_IN an_DT Empirical_JJ Risk_NN Minimization_NN type_NN algorithms_NNS can_MD succeed_VB in_IN this_DT setting_NN ._.
+Compared_VBN to_TO these_DT results_NNS ,_, -LRB-_-LRB- 1_LS -RRB-_-RRB- we_PRP show_VBP that_IN it_PRP is_VBZ possible_JJ to_TO efficiently_RB reuse_VB exist_VBP

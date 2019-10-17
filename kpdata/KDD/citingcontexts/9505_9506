@@ -1,0 +1,4 @@
+o-clustering_NN ._.
+3_CD Related_JJ work_NN Most_NNP of_IN the_DT clustering_NN literature_NN has_VBZ focused_VBN on_IN one-sided_JJ clustering_NN algorithms_NNS ,_, see_VB -LRB-_-LRB- 12_CD -RRB-_-RRB- for_IN a_DT comprehensive_JJ survey_NN ._.
+There_EX was_VBD some_DT early_JJ work_NN on_IN co-clustering_NN ,_, such_JJ as_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT was_VBD limited_VBN to_TO problems_NNS of_IN small_JJ sizes_NNS and_CC used_VBD a_DT local_JJ greedy_JJ splitting_NN procedure_NN to_TO identify_VB hierarchical_JJ row_NN and_CC column_NN clusters_NNS ._.
+More_RBR recently_RB -LRB-_-LRB- 4_CD -RRB-_-RRB- used_VBD a_DT bipartite_JJ graph_NN formulation_NN and_CC a_DT s_NN

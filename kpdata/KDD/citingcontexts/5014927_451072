@@ -1,0 +1,5 @@
+By_IN simply_RB changing_VBG the_DT last_JJ term_NN in_IN the_DT above_JJ equation_NN to_TO t_NN and_CC moving_VBG it_PRP to_TO the_DT constraint_NN ,_, we_PRP prove_VBP this_DT theorem_NN ._.
+Note_VB that_DT general-purpose_JJ optimization_NN software_NN packages_NNS like_IN SeDuMi_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- and_CC MOSEK_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: also_RB solve_VB the_DT dual_JJ problem_NN ._.
+Thus_RB the_DT coefficients_NNS θ1_NN ,_, ·_FW ·_FW ·_NN ,_, θp_NN can_MD be_VB obtained_VBN from_IN the_DT dual_JJ variables_NNS by_IN dividing_VBG the_DT corresponding_JJ traces_NNS of_IN centered_JJ kernel_NN matrices_NNS ._.
+The_DT formulation_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 28_CD -RRB-_-RRB- is_VBZ

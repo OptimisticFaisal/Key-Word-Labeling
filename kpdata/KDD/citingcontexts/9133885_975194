@@ -1,0 +1,4 @@
+r_NN methods_NNS ,_, such_JJ as_IN the_DT fast_JJ variant_NN of_IN maxmargin_NN matrix_NN factorization_NN -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+The_DT next_JJ level_NN of_IN generality_NN is_VBZ a_DT three-entity-type_JJ model_NN E1_NN ∼_NN E2_NN ∼_NN E3_NN ._.
+A_DT well-known_JJ example_NN of_IN such_PDT a_DT schema_NN is_VBZ pLSI-pHITS_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT models_NNS document-word_JJ counts_NNS and_CC document-document_JJ citations_NNS :_: E1_NN =_JJ words_NNS and_CC E2_NN =_JJ E3_NN =_JJ documents_NNS ,_, but_CC it_PRP is_VBZ trivial_JJ to_TO allow_VB E2_NN ̸_NN =_JJ E3_NN ._.
+Given_VBN relations_NNS E1_NN ∼_NN E2_NN and_CC E2_NN ∼_NN E3_NN ,_, with_IN corresponding_VBG in_IN

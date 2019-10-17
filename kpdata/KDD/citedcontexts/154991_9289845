@@ -1,0 +1,5 @@
+algorithms_NNS using_VBG different_JJ distributional_JJ similarity_NN or_CC dissimilarity_NN measures_NNS :_: cosine_NN ,_, α-skew_NN divergence_NN -LRB-_-LRB- Lee_NNP ,_, 1999_CD -RRB-_-RRB- 4_CD ,_, and_CC Lin_NNP 's_POS similarity_NN -LRB-_-LRB- Lin_NNP ,_, 1998_CD -RRB-_-RRB- ._.
+•_NNP The_NNP CBC_NNP algorithm_NN -LRB-_-LRB- Lin_NNP and_CC Pantel_NNP ,_, 2002_CD ;_: =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =--RRB-_NN ._.
+5.3_CD Evaluation_NN procedure_NN All_PDT the_DT nouns_NNS in_IN the_DT data_NNS set_VBN were_VBD clustered_VBN by_IN the_DT proposed_JJ and_CC baseline_JJ systems_NNS ._.
+5_CD For_IN the_DT mixture_NN models_NNS and_CC K-means_NNS ,_, the_DT number_NN of_IN clusters_NNS was_VBD set_VBN to_TO 1,000_CD ._.
+The_DT parame_NN

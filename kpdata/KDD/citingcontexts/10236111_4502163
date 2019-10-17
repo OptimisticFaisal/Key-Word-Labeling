@@ -1,0 +1,6 @@
+bined_VBN SNPs_NNS from_IN the_DT 140k_FW Broad\/MIT_FW mouse_NN dataset_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- and_CC 10k_NN GNF_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- mouse_NN dataset_NN ._.
+This_DT merged_JJ dataset_NN has_VBZ 156,525_CD SNPs_NNS for_IN 71_CD individuals_NNS ._.
+The_DT missing_VBG values_NNS in_IN the_DT dataset_NN are_VBP imputed_JJ using_VBG NPUTE_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP use_VBP both_DT real_JJ phenotypes_NNS and_CC synthetic_JJ phenotypes_NNS in_IN our_PRP$ experiments_NNS ._.
+The_DT real_JJ phenotype_NN data_NNS is_VBZ available_JJ from_IN the_DT Jackson_NNP Lab_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+6.1_CD Real_NNP Phenotypes_NNPS We_PRP use_VBP three_CD real_JJ phenotypes_NNS in_IN our_PRP$ experi_NNS

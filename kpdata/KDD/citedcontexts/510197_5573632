@@ -1,0 +1,4 @@
+atures_NNS of_IN entities_NNS ._.
+So_RB far_RB ,_, only_RB a_DT limited_JJ number_NN of_IN concrete_JJ proposals_NNS are_VBP available_JJ for_IN the_DT mining_NN of_IN spatio-temporal_JJ data_NNS ,_, such_JJ as_IN sequential_JJ patterns_NNS -LRB-_-LRB- 53_CD -RRB-_-RRB- ,_, movement_NN prediction_NN -LRB-_-LRB- 51_CD -RRB-_-RRB- and_CC clustering_NN =_JJ -_: =[_NN 36_CD ,_, 28_CD ,_, 17_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT work_NN ,_, in_IN particular_JJ ,_, a_DT clustering_NN algorithm_NN for_IN trajectories_NNS is_VBZ designed_VBN within_IN the_DT STACLP_NN system_NN ,_, following_VBG the_DT solution_NN described_VBN in_IN -LRB-_-LRB- 36_CD -RRB-_-RRB- ._.
+However_RB a_DT few_JJ alternative_JJ approaches_NNS can_MD be_VB found_VBN

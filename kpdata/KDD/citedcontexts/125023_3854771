@@ -1,0 +1,5 @@
+ll_IN then_RB equal_JJ n_NN ·_NN Ctr_NN and_CC error_NN cost_NN will_MD be_VB estimated_VBN as_IN e_LS ·_NNP |_NNP S_NNP |_NNP ·_NNP Cerr_NNP ._.
+The_DT total_JJ cost_NN for_IN a_DT classifier_NN then_RB is_VBZ given_VBN by_IN equation_NN 2_CD ,_, which_WDT is_VBZ our_PRP$ measure_NN of_IN total_JJ utility_NN ._.
+Total_JJ Cost_NN =_JJ n_NN ·_NN Ctr_NN +_CC e_LS ·_NNP |_NNP S_NNP |_NNP ·_NNP Cerr_NNP =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: With_IN specific_JJ domain_NN knowledge_NN we_PRP would_MD be_VB able_JJ to_TO estimate_VB Ctr_NNP ,_, Cerr_NNP ,_, and_CC |_NNP S_NNP |_NNP and_CC thus_RB calculate_VB total_JJ cost_NN ._.
+However_RB ,_, in_IN our_PRP$ case_NN we_PRP do_VBP not_RB know_VB these_DT values_NNS ._.
+Therefore_RB we_PRP need_VBP to_TO treat_VB them_PRP as_IN vari_NN

@@ -1,0 +1,3 @@
+rate_NN 0_CD 0.2_CD 0.4_CD 0.6_CD 0.8_CD 1_CD Average_JJ score_NN 0_CD 0.2_CD 0.4_CD 0.6_CD 0.8_CD 1_CD 0_CD 0.2_CD 0.4_CD 0.6_CD 0.8_CD 1_CD DC-1_NN DC-1_NN without_IN profiling_VBG Random_NNP Figure_NNP 4_CD :_: Performance_NNP of_IN several_JJ methods_NNS for_IN news_NN story_NN monitoring_VBG computer_NN networks_NNS =_JJ -_: =[_NN 8_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Within_IN intrusion_NN detection_NN ,_, anomaly_JJ detection_NN systems_NNS characterize_VBP behavior_NN of_IN individual_JJ users_NNS and_CC issue_NN alarms_NNS of_IN intrusions_NNS ,_, based_VBN on_IN anomalies_NNS in_IN behavior_NN ._.
+Since_IN traces_NNS of_IN actual_JJ computer_NN intrus_NN

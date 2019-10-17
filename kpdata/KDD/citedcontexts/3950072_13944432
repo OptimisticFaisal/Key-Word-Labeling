@@ -1,0 +1,5 @@
+e_LS conducted_VBN studies_NNS on_IN mining_NN API_NN usage_NN patterns_NNS via_IN dynamic_JJ analysis_NN ._.
+Lo_FW et_FW al._FW propose_VBP an_DT iterative_JJ pattern_NN mining_NN algorithm_NN to_TO discover_VB temporal_JJ specification_NN of_IN method_NN calls_NNS from_IN execution_NN traces_NNS =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Pradel_NNP et_FW al._FW mine_JJ object_NN usage_NN specifications_NNS in_IN the_DT form_NN of_IN finite_JJ automata_NN from_IN large_JJ method_NN traces_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+Our_PRP$ trace_NN subsumption_NN relation_NN is_VBZ inspired_VBN by_IN trace_NN refinement_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+Trace_NNP refinement_NN sta_NN

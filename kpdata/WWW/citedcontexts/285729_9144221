@@ -1,0 +1,5 @@
+drop_VB the_DT subscript_JJ α_NN ._.
+Note_VB that_IN the_DT above_JJ definition_NN corresponds_VBZ to_TO the_DT normalization_NN ∑_FW u_FW prα_NN -LRB-_-LRB- u_NN -RRB-_-RRB- =_JJ |_CD V_NN |_NN ._.
+Similarly_RB ,_, the_DT personalized_JJ PageRank_NN vector_NN ppr_NN -LRB-_-LRB- α_NN ,_, u_NN -RRB-_-RRB- of_IN a_DT page_NN u_FW ∈_FW V_NN ,_, defined_VBN by_IN Haveliwala_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, satisfies_VBZ the_DT following_JJ equation_NN ._.
+ppr_NN -LRB-_-LRB- α_NN ,_, u_NN -RRB-_-RRB- =_JJ α_FW ·_FW eu_FW +_CC -LRB-_-LRB- 1_CD −_NN α_NN -RRB-_-RRB- ·_NN ppr_NN -LRB-_-LRB- α_NN ,_, u_NN -RRB-_-RRB- ·_CD M_NN ,_, -LRB-_-LRB- 2_CD -RRB-_-RRB- where_WRB eu_NN is_VBZ the_DT row_NN vector_NN whose_WP$ u_NN th_DT entry_NN is_VBZ equal_JJ to_TO 1_CD ._.
+Let_NNP PRMα_NNP denote_VB the_DT matrix_NN whose_WP$ uth_NN row_NN is_VBZ the_DT persona_NN

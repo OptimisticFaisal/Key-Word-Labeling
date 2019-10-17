@@ -1,0 +1,5 @@
+he_PRP mixture-of-kernel_JJ approach_NN is_VBZ f_LS -LRB-_-LRB- x_NN -RRB-_-RRB- =_JJ p_NN j_FW α_FW p_NN j_NN Kp_NN -LRB-_-LRB- x_NN ,_, xj_NN -RRB-_-RRB- ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- 2_CD where_WRB α_NN p_NN j_NN gives_VBZ the_DT weight_NN for_IN the_DT j-th_NN column_NN in_IN the_DT pth_NN kernel_NN matrix_NN ._.
+Similar_JJ strategies_NNS have_VBP appeared_VBN in_IN some_DT works_NNS such_JJ as_IN =_JJ -_: =[_NN 3_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: to_TO improve_VB generalization_NN and_CC reduce_VB training_NN and_CC prediction_NN computational_JJ costs_NNS ._.
+MARK_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- optimized_VBD a_DT heterogeneous_JJ kernel_NN using_VBG a_DT gradient_NN descent_NN algorithm_NN in_IN function_NN space_NN ._.
+GSVC_NN and_CC POKER_NN -LRB-_-LRB- 19_CD ,_, 1_CD

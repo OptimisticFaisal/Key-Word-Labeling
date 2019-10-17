@@ -1,0 +1,4 @@
+Science_NNP University_NNP of_IN California_NNP Santa_NNP Barbara_NNP ,_, CA_NNP panda@cs.ucsb.edu_NN distance_NN -LRB-_-LRB- or_CC more_RBR generally_RB ,_, the_DT Lp-norm_NN -RRB-_-RRB- is_VBZ to_TO weight_VB the_DT data_NNS attributes_NNS -LRB-_-LRB- features_NNS -RRB-_-RRB- based_VBN on_IN their_PRP$ importance_NN for_IN a_DT target_NN task_NN =_JJ -_: =[_NN 2_CD ,_, 9_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, for_IN answering_VBG an_DT ocean_NN image-query_NN ,_, color_NN features_NNS should_MD be_VB weighted_VBN higher_JJR ._.
+For_IN answering_VBG an_DT architecture_NN image-query_NN ,_, shape_NN and_CC texture_NN features_NNS may_MD be_VB more_RBR important_JJ ._.
+Weighting_NN thes_NNS

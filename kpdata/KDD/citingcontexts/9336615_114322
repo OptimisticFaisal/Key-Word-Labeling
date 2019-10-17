@@ -1,0 +1,4 @@
+ing_NN characteristic_NN -LRB-_-LRB- ROC_NN -RRB-_-RRB- curve_NN ,_, called_VBN AUC_NN ,_, and_CC F1_NN score_NN as_IN the_DT performance_NN measure_NN ._.
+To_TO measure_VB the_DT performance_NN across_IN multiple_JJ labels_NNS using_VBG F1_NN score_NN ,_, we_PRP use_VBP both_CC the_DT macro_NN F1_NN and_CC the_DT micro_JJ F1_NN scores_NNS =_JJ -_: =[_NN 21_CD ,_, 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT F1_NN score_NN depends_VBZ on_IN the_DT threshold_NN values_NNS of_IN the_DT classification_NN models_NNS ,_, and_CC the_DT thresholds_NNS computed_VBN by_IN models_NNS are_VBP usually_RB not_RB optimized_VBN for_IN it_PRP ._.
+Indeed_RB ,_, all_DT methods_NNS yield_VBP low_JJ F1_NN scores_NNS when_WRB the_DT th_DT

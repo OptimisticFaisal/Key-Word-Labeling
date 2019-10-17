@@ -1,0 +1,5 @@
+osed_VBN iPoG-B_NN achieves_VBZ 4_CD ∼_FW 202x_FW speedup_NN over_IN the_DT iterative_JJ method_NN ._.
+Note_VB that_IN there_EX is_VBZ no_DT quality_NN loss_NN in_IN iPoG-B_NN ._.
+5_CD ._.
+RELATED_NNS WORK_VBP One_CD of_IN the_DT most_RBS popular_JJ proximity_NN measurements_NNS is_VBZ random_JJ walk_NN with_IN restart_VB =_JJ -_: =[_NN 8_CD ,_, 10_CD ,_, 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ the_DT baseline_NN of_IN iPoG_NN ._.
+Other_JJ representative_JJ proximity_NN measurements_NNS include_VBP the_DT sink-augmented_JJ delivered_VBN current_JJ -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, cycle_NN free_JJ effective_JJ conductance_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, survivable_JJ 1675Table_NN 2_CD :_: Summary_NN of_IN

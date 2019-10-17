@@ -1,0 +1,3 @@
+d_NN in_IN searching_VBG ._.
+In_IN the_DT scan_VBP statistics_NNS framework_NN discussed_VBN below_IN ,_, we_PRP typically_RB search_VBP over_IN the_DT set_NN of_IN all_DT spatial_JJ regions_NNS of_IN some_DT given_VBN shape_NN ,_, and_CC variable_JJ size_NN ._.
+For_IN simplicity_NN ,_, we_PRP assume_VBP here_RB -LRB-_-LRB- as_IN in_IN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =--RRB-_NN that_IN the_DT spatial_JJ locations_NNS si_RB are_VBP aggregated_VBN to_TO a_DT uniform_JJ ,_, two-dimensional_JJ ,_, N_NN ×_NN N_NN grid_NN G_NN ,_, and_CC we_PRP search_VBP over_IN the_DT set_NN of_IN all_DT axis-aligned_JJ rectangular_JJ regions_NNS S_NNP ⊆_NNP G._NNP 1_CD This_NNP allows_VBZ us_PRP to_TO detect_VB both_DT co_NN

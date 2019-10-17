@@ -1,0 +1,3 @@
+icted_VBN to_TO use_VB sublinear_JJ space_NN ._.
+Since_IN then_RB a_DT large_JJ number_NN of_IN algorithms_NNS have_VBP been_VBN proposed_VBN ,_, for_IN many_JJ different_JJ measures_NNS and_CC in_IN particular_JJ the_DT maximum_NN error_NN ,_, many_JJ of_IN which_WDT extend_VBP to_TO streaming_NN algorithms_NNS =_JJ -_: =[_NN 16_CD ,_, 4_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB for_IN every_DT algorithm_NN proposed_VBN till_IN date_NN ,_, for_IN any_DT error_NN measure_NN ,_, the_DT space_NN bound_VBD depends_VBZ either_CC on_IN log_NN n_NN ,_, log_NN E_NN ∗_NN or_CC log_NN M._NN As_IN in_IN the_DT K-center_NN problem_NN ,_, these_DT streaming_NN algorithms_NNS depend_VBP on_IN geo_NN

@@ -1,0 +1,5 @@
+on_IN ._.
+However_RB ,_, their_PRP$ work_NN differs_VBZ from_IN ours_PRP in_IN that_IN it_PRP requires_VBZ bounding_VBG box_NN annotations_NNS ,_, do_VBP not_RB use_VB any_DT networks_NNS ,_, and_CC only_RB applied_VBD two-class_JJ cases_NNS -LRB-_-LRB- positive_JJ and_CC negative_JJ image_NN sets_NNS -RRB-_-RRB- ._.
+Pan_NN et_FW al._FW 's_POS work_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: applies_VBZ the_DT PageRank_NNP algorithm_NN to_TO image_NN data_NNS ._.
+Their_PRP$ task_NN is_VBZ auto-captioning_JJ in_IN which_WDT ,_, given_VBN a_DT novel_JJ image_NN ,_, the_DT most_RBS probable_JJ caption_NN words_NNS are_VBP assigned_VBN by_IN using_VBG the_DT PageRank_NNP algorithm_NN ._.
+However_RB ,_, their_PRP$

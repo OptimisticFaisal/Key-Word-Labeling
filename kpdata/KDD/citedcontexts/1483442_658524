@@ -1,0 +1,5 @@
+C_NN =_JJ c_NN -RRB-_-RRB- ._.
+So_IN a_DT simplification_NN is_VBZ made_VBN :_: if_IN attributes_NNS X1_NN ,_, X2_NN ,_, ·_FW ·_FW ·_NN ,_, Xk_NN are_VBP conditionally_RB independent_JJ of_IN each_DT other_JJ given_VBN the_DT class_NN ,_, then_RB p_NN -LRB-_-LRB- X_NN =_JJ x_NN |_NN C_NN =_JJ c_NN -RRB-_-RRB- =_JJ p_NN -LRB-_-LRB- ∧_CD Xi_NN =_JJ xi_FW |_FW C_NN =_JJ c_NN -RRB-_-RRB- =_JJ p_NN -LRB-_-LRB- Xi_NN =_JJ xi_FW |_FW C_NN =_JJ -_: =_JJ =_JJ c_NN -RRB-_-RRB- ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Com_NNP -_: =_JJ -_: bining_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 3_LS -RRB-_-RRB- ,_, one_PRP can_MD further_RB estimate_VB the_DT probability_NN by_IN :_: p_NN -LRB-_-LRB- C_NN =_JJ c_NN |_NN X_NN =_JJ x_NN -RRB-_-RRB- ∝_CD p_NN -LRB-_-LRB- C_NN =_JJ c_NN -RRB-_-RRB- p_NN -LRB-_-LRB- Xi_NN =_JJ xi_FW |_FW C_NN =_JJ c_NN -RRB-_-RRB- ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Classifiers_NNS using_VBG -LRB-_-LRB- 4_CD -RRB-_-RRB- are_VBP called_VBN naive-Bayes_JJ classifiers_NNS ._.
+Naive-Bayes_FW classif_FW

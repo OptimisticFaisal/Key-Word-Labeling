@@ -1,0 +1,6 @@
+._. ._.
+$_$ 5.00_CD ._.
+Jiong_NNP Yang_NNP Department_NNP of_IN Computer_NNP Science_NNP ,_, University_NNP of_IN Illinois_NNP Urbana-Champaign_NNP ,_, IL_NN 61801_CD ,_, USA_NN jioyang@cs.uiuc.edu_NN clusters_NNS centering_VBG in_IN subspaces_NNS ._.
+The_DT information-theoretic_JJ co-clustering_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: approach_NN simultaneously_RB clusters_NNS the_DT rows_NNS and_CC columns_NNS to_TO maximize_VB their_PRP$ mutual_JJ information_NN ._.
+A_DT common_JJ feature_NN of_IN partitionbased_JJ algorithm_NN is_VBZ that_IN one_CD object_NN can_MD appear_VB in_IN one_CD and_CC only_RB one_CD cluster_NN ._.
+The_DT

@@ -1,0 +1,6 @@
+Ontologies_NNS ._.
+Default_NNP inheritance_NN is_VBZ a_DT well-known_JJ feature_NN of_IN certain_JJ knowledge_NN representation_NN formalisms_NNS ._.
+Thus_RB it_PRP may_MD play_VB a_DT role_NN in_IN ontology_NN languages_NNS ,_, which_WDT currently_RB do_VBP not_RB support_VB this_DT feature_NN ._.
+In_IN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: some_DT ideas_NNS are_VBP presented_VBN for_IN possible_JJ uses_NNS of_IN default_NN inheritance_NN in_IN ontologies_NNS ._.
+A_DT natural_JJ way_NN of_IN representing_VBG default_NN inheritance_NN is_VBZ rules_NNS with_IN exceptions_NNS ,_, plus_CC priority_NN information_NN ._.
+Thus_RB ,_, nonmonoto_NN

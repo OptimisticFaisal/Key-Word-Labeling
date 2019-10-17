@@ -1,0 +1,5 @@
+rding_VBG this_DT fuzziness_NN can_MD improve_VB its_PRP$ performance_NN and_CC lessen_VB the_DT eFect_NN of_IN outliers_NNS ._.
+Traditional_JJ SVM-based_JJ classi1ers_NNS lack_VBP such_JJ a_DT mechanism_NN ._.
+Fung_NNP and_CC Mangasarian_NNP recently_RB proposed_VBD proximal_JJ SVMs_NNS -LRB-_-LRB- PSVMs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT may_MD be_VB thought_VBN of_IN as_IN a_DT kind_NN of_IN regularized_VBN least_JJS squares_NNS SVM_NNP ._.
+PSVMs_NNS require_VBP the_DT solution_NN of_IN a_DT single_JJ set_NN of_IN linear_JJ equations_NNS ,_, and_CC can_MD thus_RB be_VB considerably_RB faster_RBR than_IN traditional_JJ SVMs_NNS ._.
+The_DT sol_NN

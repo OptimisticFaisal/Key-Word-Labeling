@@ -1,0 +1,5 @@
+etter_NN packing_NN and_CC split_NN methods_NNS to_TO build_VB the_DT tree_NN structure_NN ._.
+All_DT of_IN these_DT methods_NNS partition_NN the_DT data_NNS into_IN ranges_NNS which_WDT are_VBP parallel_JJ to_TO the_DT original_JJ axis_NN system_NN ._.
+Subsequently_RB ,_, methods_NNS such_JJ as_IN SS-Trees_NN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_JJ -_: were_VBD proposed_VBN which_WDT do_VBP not_RB necessarily_RB partition_NN the_DT data_NNS using_VBG ranges_NNS from_IN the_DT original_JJ set_NN of_IN attributes_NNS ._.
+Other_JJ prominent_JJ indexes_NNS and_CC query_NN processing_NN methods_NNS may_MD be_VB found_VBN in_IN -LRB-_-LRB- 5_CD ,_, 20_CD ,_, 24_CD ,_, 28_CD -RRB-_-RRB- ._.
+The_DT a_DT

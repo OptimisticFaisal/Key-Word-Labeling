@@ -1,0 +1,4 @@
+contexts_NNS including_VBG bioinformatics_NNS and_CC chemistry_NN and_CC therefore_RB quite_RB a_DT few_JJ heuristics_NNS have_VBP been_VBN proposed_VBN to_TO face_VB this_DT problem_NN ._.
+The_DT most_RBS prominent_JJ approaches_NNS include_VBP gSpan_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- ,_, CloseGraph_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- and_CC ADI_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT following_NN we_PRP provide_VBP some_DT notation_NN prior_RB to_TO reducing_VBG the_DT problem_NN to_TO graph_NN mining_NN ._.
+We_PRP define_VBP a_DT site_NN view_NN as_IN a_DT directed_JJ graph_NN ,_, G_NN -LRB-_-LRB- V_NN ,_, E_NN ,_, fV_NN ,_, fE_NN -RRB-_-RRB- ,_, comprising_VBG of_IN a_DT set_NN of_IN nodes_NNS V_NN ,_, a_DT set_NN of_IN edges_NNS E_NN ,_,

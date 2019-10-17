@@ -1,0 +1,4 @@
+ropagated_VBN over_IN hyperlinks_NNS connecting_VBG the_DT pages_NNS ._.
+TrustRank_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- propagates_VBZ trust_NN over_IN a_DT network_NN of_IN webpages_NNS to_TO identify_VB useful_JJ webpages_NNS from_IN spam_NN -LRB-_-LRB- e.g._FW ,_, phishing_VBG sites_NNS ,_, adult_JJ sites_NNS ,_, etc._NN -RRB-_-RRB- ._.
+Tong_NNP et_FW al._FW =_SYM -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ Random_NNP Walk_VB with_IN Restart_NNP to_TO find_VB arbitrary_JJ userdefined_JJ subgraphs_NNS in_IN an_DT attributed_VBN graph_NN ._.
+For_IN the_DT case_NN of_IN propagation_NN of_IN two_CD or_CC more_JJR competing_VBG labels_NNS on_IN a_DT graph_NN ,_, semi-supervised_JJ learning_NN methods_NNS

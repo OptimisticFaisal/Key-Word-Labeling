@@ -1,0 +1,4 @@
+aphs_NNS ._.
+This_DT is_VBZ based_VBN on_IN the_DT observation_NN that_IN major_JJ problems_NNS in_IN graph_NN mining_NN are_VBP caused_VBN by_IN the_DT existence_NN of_IN cycles_NNS and_CC a_DT majority_NN of_IN these_DT problems_NNS can_MD be_VB handled_VBN efficiently_RB by_IN avoiding_VBG cycles_NNS ._.
+Gaston_NN =_JJ -_: =[_NN 115_CD -RRB-_-RRB- -_: =_SYM -_: relies_VBZ on_IN the_DT same_JJ idea_NN to_TO generate_VB frequent_JJ substructures_NNS hierarchically_RB by_IN starting_VBG from_IN paths_NNS ,_, extending_VBG frequent_JJ paths_NNS to_TO trees_NNS ,_, and_CC further_RB extending_VBG frequent_JJ trees_NNS to_TO graphs_NNS ._.
+Ghazizadeh_NNP and_CC Cha_NNP

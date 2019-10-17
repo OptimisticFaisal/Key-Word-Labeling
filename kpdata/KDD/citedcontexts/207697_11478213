@@ -1,0 +1,5 @@
+0_CD 15_CD 6.2_CD Real_NNP Data_NNP Table_NNP 6_CD :_: Synthetic_JJ data_NNS Three_CD datasets_NNS were_VBD used_VBN to_TO test_VB FITIN_NNP ,_, details_NNS of_IN which_WDT are_VBP given_VBN in_IN Table_NNP 7_CD ._.
+The_DT Retail_NNP Data_NNP is_VBZ supplied_VBN by_IN an_DT anonymous_JJ Belgian_JJ retail_JJ supermarket_NN store_NN -LRB-_-LRB- =_JJ -_: =_JJ Brijs_FW et_FW al._FW 1999_CD -_: =--RRB-_NN ._.
+The_DT data_NNS are_VBP collected_VBN over_IN three_CD non-consecutive_JJ periods_NNS between_IN 1999_CD and_CC 2000_CD ._.
+The_DT two_CD datasets_NNS BMS-WebView-1_NN and_CC BMSWebView-2_NN are_VBP taken_VBN from_IN KDDCUP_NN 2000_CD -LRB-_-LRB- Kohavi_NNP et_FW al._FW 2000_CD -RRB-_-RRB- ._.
+They_PRP contain_VBP severa_NN

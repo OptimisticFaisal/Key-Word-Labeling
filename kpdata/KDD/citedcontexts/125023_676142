@@ -1,0 +1,3 @@
+lities_NNS is_VBZ the_DT difference_NN in_IN performance_NN between_IN classifier_NN C1_NN and_CC classifier_NN C2_NN statistically_RB significant_JJ ?_.
+In_IN this_DT paper_NN we_PRP present_VBP a_DT different_JJ way_NN of_IN visualizing_VBG classifier_NN performance_NN ,_, cost_NN curves_NNS -LRB-_-LRB- =_JJ -_: =_JJ Drummond_NNP &_CC Holte_NNP ,_, 2000_CD -_: =_SYM -_: a_LS -RRB-_-RRB- ,_, that_WDT allows_VBZ all_DT of_IN these_DT questions_NNS to_TO be_VB answered_VBN instantly_RB by_IN visual_JJ inspection_NN ,_, while_IN retaining_VBG almost_RB all_PDT the_DT attractive_JJ features_NNS of_IN ROC_NN plots_NNS ._.
+A_DT software_NN tool_NN based_VBN on_IN cost_NN curves_NNS is_VBZ freely_RB av_IN

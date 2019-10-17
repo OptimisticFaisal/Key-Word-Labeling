@@ -1,0 +1,4 @@
+es_NNS -LRB-_-LRB- data_NNS mining_NN ,_, distributed_VBN systems_NNS ,_, semantic_JJ Web_NN ,_, sWeb_NN services_NNS ,_, etc._FW -RRB-_-RRB- are_VBP tackling_VBG the_DT challenge_NN of_IN data_NNS integration_NN across_IN multiple_JJ providers_NNS ._.
+One_CD interesting_JJ research_NN in_IN this_DT area_NN is_VBZ described_VBN in_IN =_JJ -_: =_JJ -LRB-_-LRB- PerP04_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT goal_NN of_IN this_DT project_NN is_VBZ to_TO develop_VB a_DT context-awareness_NN system_NN to_TO detect_VB and_CC infer_VB domestic_JJ activities_NNS performed_VBN by_IN the_DT users_NNS ._.
+The_DT proposed_VBN approach_NN is_VBZ to_TO infer_VB the_DT activities_NNS of_IN the_DT user_NN on_IN the_DT

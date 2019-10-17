@@ -1,0 +1,4 @@
+ere_NN is_VBZ a_DT small_JJ amount_NN of_IN prior_JJ work_NN on_IN outlier_NN explanation_NN ._.
+For_IN distribution-based_JJ outliers_NNS ,_, Yamanishi_NNP and_CC Takeuchi_NNP propose_VBP to_TO combine_VB statistical_JJ methods_NNS with_IN supervised_JJ methods_NNS to_TO generate_VB outliers_NNS =_JJ -_: =[_NN 37_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT statistical_JJ method_NN is_VBZ first_RB applied_VBN to_TO learn_VB the_DT data_NNS distribution_NN and_CC then_RB to_TO identify_VB the_DT outliers_NNS ._.
+Once_RB the_DT outliers_NNS are_VBP detected_VBN ,_, the_DT classification_NN method_NN can_MD be_VB applied_VBN to_TO extract_VB the_DT filt_NN

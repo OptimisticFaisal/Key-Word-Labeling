@@ -1,0 +1,5 @@
+design_NN ._.
+In_IN essence_NN ,_, the_DT Doptimality_NNP criterion_NN minimizes_VBZ the_DT combined_JJ variance_NN of_IN the_DT unknown_JJ coefficients_NNS of_IN a_DT postulated_VBN linear_NN model_NN ._.
+We_PRP used_VBD a_DT Java_NNP implementation_NN of_IN the_DT Fedorov_NNP exchange_NN algorithm_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT we_PRP modified_VBD so_IN that_IN points_NNS in_IN the_DT design_NN can_MD be_VB selected_VBN at_IN most_RBS once_RB ._.
+The_DT application_NN of_IN Experimental_JJ Design_NN to_TO build_VB a_DT response_NN model_NN has_VBZ the_DT following_JJ complicating_JJ factor_NN ._.
+In_IN a_DT solicitation_NN

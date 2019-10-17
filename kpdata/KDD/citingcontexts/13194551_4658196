@@ -1,0 +1,5 @@
+cs_RB ,_, stoc_NN ,_, stacs_NNS ,_, icml_NN ,_, ecml_NN ,_, colt_NN ,_, uai_NN ,_, and_CC icdt_NN ._.
+We_PRP then_RB extracted_VBD all_DT authors_NNS that_WDT had_VBD in_IN total_NN at_IN least_JJS 2_CD publications_NNS in_IN the_DT selected_VBN conferences_NNS ,_, yielding_VBG a_DT 19_CD ×_CD 6980_CD matrix_NN ._.
+The_DT dialect_NN dataset_NN =_JJ -_: =[_NN 8_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: consists_VBZ of_IN the_DT distribution_NN of_IN 1334_CD dialect_NN features_NNS -LRB-_-LRB- rows_NNS -RRB-_-RRB- across_IN 506_CD municipalities_NNS of_IN Finland_NNP -LRB-_-LRB- columns_NNS -RRB-_-RRB- ._.
+Each_DT municipality_NN is_VBZ additionally_RB characterized_VBN by_IN two_CD spatial_JJ coordinates_VBZ ._.
+The_DT Jester_NNP jok_NN

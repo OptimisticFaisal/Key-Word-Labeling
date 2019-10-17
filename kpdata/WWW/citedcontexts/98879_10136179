@@ -1,0 +1,4 @@
+cademia_NN and_CC deployed_VBN in_IN the_DT industry_NN ,_, such_JJ as_IN Amazon_NNP and_CC Ebay_NNP ,_, most_JJS of_IN these_DT techniques_NNS suffer_VBP several_JJ inherent_JJ weaknesses_NNS ._.
+The_DT first_JJ well_RB known_VBN challenge_NN is_VBZ the_DT data_NN sparsity_NN problem_NN ._.
+As_IN reported_VBN in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT density_NN of_IN the_DT available_JJ ratings_NNS in_IN commercial_JJ recommender_NN systems_NNS is_VBZ often_RB less_JJR than_IN 1_CD %_NN ._.
+Many_JJ collaborative_JJ filtering_VBG algorithms_NNS are_VBP impeded_VBN by_IN the_DT sparsity_NN problem_NN ,_, hence_RB can_MD not_RB handle_VB users_NNS w_NN

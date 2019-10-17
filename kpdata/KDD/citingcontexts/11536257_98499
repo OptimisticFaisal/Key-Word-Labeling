@@ -1,0 +1,3 @@
+is_VBZ desirable_JJ to_TO do_VB feature_NN selection_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC pursue_VB a_DT sparse_JJ representation_NN of_IN such_JJ models_NNS that_WDT leaves_VBZ out_RP irrelevant_JJ features_NNS ._.
+Since_IN the_DT problem_NN of_IN selecting_VBG an_DT optimal_JJ subset_NN of_IN features_NNS is_VBZ NP-hard_NN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT popular_JJ solution_NN is_VBZ to_TO use_VB a_DT convex_NN relaxation_NN of_IN the_DT non-convex_JJ feature_NN selection_NN problem_NN ._.
+ℓ1-norm_NN regularized_VBD maximum_NN likelihood_NN estimation_NN -LRB-_-LRB- MLE_NN -RRB-_-RRB- is_VBZ among_IN the_DT most_RBS popular_JJ approaches_NNS to_TO selectin_NN

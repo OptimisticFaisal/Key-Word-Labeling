@@ -1,0 +1,3 @@
+article_NN of_IN a_DT Communications_NNP of_IN the_DT ACM_NNP journal_NN issue_NN devoted_VBN to_TO recommender_NN systems_NNS in_IN general_JJ ,_, and_CC collaborative_JJ filtering_VBG techniques_NNS in_IN particular_JJ ._.
+Another_DT article_NN in_IN that_DT issue_NN describes_VBZ GroupLens_NNP =_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, collaborative_JJ filtering_VBG which_WDT led_VBD to_TO the_DT founding_NN of_IN Net_NNP Perceptions_NNPS ._.
+In_IN some_DT e-commerce_NN implementations_NNS the_DT various_JJ possible_JJ queries_NNS are_VBP explicitly_RB visible_JJ to_TO the_DT user_NN ,_, while_IN in_IN others_NNS the_DT system_NN g_NN

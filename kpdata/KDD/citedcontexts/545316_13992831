@@ -1,0 +1,6 @@
+2_CD n_NN ·_NN c_NN Although_IN originally_RB MSE_NNP is_VBZ not_RB a_DT calibration_NN measure_NN ,_, it_PRP was_VBD decomposed_VBN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- in_IN terms_NNS of_IN calibration_NN loss_NN and_CC refinement_NN loss_NN ._.
+--_: A_DT calibration_NN measure_NN based_VBN on_IN overlapping_VBG binning_NN is_VBZ CalBin_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT is_VBZ defined_VBN as_IN follows_VBZ ._.
+For_IN each_DT class_NN ,_, we_PRP must_MD order_VB all_DT cases_NNS by_IN predicted_VBN p_NN -LRB-_-LRB- i_FW ,_, j_NN -RRB-_-RRB- ,_, giving_VBG new_JJ indices_NNS i_FW ∗_FW ._.
+Take_VB the_DT 100_CD first_JJ elements_NNS -LRB-_-LRB- i_FW ∗_FW from_IN 1_CD to_TO 100_CD -RRB-_-RRB- as_IN the_DT first_JJ bin_NN ._.
+Calculate_VB the_DT per_IN

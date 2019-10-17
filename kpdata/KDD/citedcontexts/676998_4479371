@@ -1,0 +1,5 @@
+t_NN lattices_NNS ._.
+In_IN our_PRP$ example_NN ,_, if_IN the_DT chi-squared_JJ value_NN is_VBZ selected_VBN as_IN the_DT statistical_JJ metric_NN ,_, AprioriSMP_NN prioritizes_VBZ the_DT second_JJ rule_NN over_IN the_DT first_JJ according_VBG to_TO their_PRP$ chi-squared_JJ values_NNS ._.
+Several_JJ papers_NNS =_JJ -_: =[_NN 13_CD ,_, 7_CD ,_, 18_CD ,_, 4_CD ,_, 9_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP focused_VBN on_IN methods_NNS to_TO improve_VB Apriori_NNP ._.
+These_DT methods_NNS effectively_RB use_VBP a_DT specific_JJ property_NN of_IN the_DT support-confidence_NN framework_NN ,_, called_VBD the_DT anti-monotonicity_NN of_IN the_DT support_NN function_NN ._.
+For_IN example_NN ,_, f_SYM

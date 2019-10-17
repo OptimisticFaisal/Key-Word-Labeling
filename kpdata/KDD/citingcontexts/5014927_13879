@@ -1,0 +1,5 @@
+or_CC a_DT fixed_JJ regularization_NN parameter_NN λ_NN ,_, the_DT optimal_JJ Gram_NN matrix_NN G_NN computed_VBN from_IN the_DT kernel_NN function_NN K_NN that_WDT maximizes_VBZ F_NN ∗_NN 1_CD -LRB-_-LRB- K_NN -RRB-_-RRB- given_VBN in_IN Eq_NN ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- can_MD be_VB p_NN θi_NN =_JJ 1_CD ,_, θi_FW ≥_FW 0_CD ∀_FW i_FW ._.
+sobtained_VBN by_IN solving_VBG a_DT SDP_NN =_JJ -_: =[_NN 4_CD ,_, 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+General-purpose_JJ optimization_NN packages_NNS such_JJ as_IN SeDuMi_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- use_VBP the_DT interiorpoint_JJ methods_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- to_TO solve_VB SDP_NNP ._.
+However_RB ,_, it_PRP is_VBZ known_VBN that_IN SDP_NN is_VBZ expensive_JJ to_TO solve_VB practically_RB ,_, and_CC thus_RB for_IN problems_NNS of_IN m_NN

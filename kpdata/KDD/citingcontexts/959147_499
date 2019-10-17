@@ -1,0 +1,5 @@
+mission_NN and\/or_CC a_DT fee_NN ._.
+KDD_NNP '_POS 06_CD ,_, August_NNP 20_CD --_: 23_CD ,_, 2006_CD ,_, Philadelphia_NNP ,_, Pennsylvania_NNP ,_, USA_NNP ._.
+Copyright_NN 2006_CD ACM_NNP 1-59593-339-5_CD \/_: 06\/0008_CD ..._: $_$ 5.00_CD ._.
+-LRB-_-LRB- ZBDDs_NNS -RRB-_-RRB- -LRB-_-LRB- 23_CD -RRB-_-RRB- as_IN the_DT core_NN data_NNS structure_NN ._.
+Binary_JJ decision_NN diagrams_VBZ =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP a_DT graph_NN based_VBN data_NNS structure_NN which_WDT allow_VBP efficient_JJ representation_NN and_CC manipulation_NN of_IN boolean_FW formulae_FW ,_, and_CC they_PRP have_VBP proved_VBN extremely_RB effective_JJ in_IN diverse_JJ fields_NNS of_IN computer_NN science_NN ,_, such_JJ as_IN SAT_NNP

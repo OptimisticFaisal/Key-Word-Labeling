@@ -1,0 +1,7 @@
+BCL_NN image_NN dataset_NN :_: http:\/\/cbcl.mit.edu\/cbcl\/_NN software-datasets\/FaceData2_NN ._.
+html_NN 3_CD ._.
+ORL_NN image_NN dataset_NN :_: http:\/\/www.cl.cam.ac.uk\/_FW research\/dtg\/attarchive_FW \/_: facedatabase_NN ._.
+html_VB We_PRP follow_VBP the_DT same_JJ setting_NN as_IN in_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: for_IN CBCL_NN and_CC ORL_NN datasets_NNS ._.
+The_DT size_NN of_IN the_DT datasets_NNS are_VBP summarized_VBN in_IN Table_NNP 2_CD ._.
+To_TO ensure_VB a_DT fair_JJ comparison_NN ,_, all_DT experimental_JJ results_NNS in_IN this_DT paper_NN are_VBP the_DT average_NN of_IN 10_CD random_JJ initial_JJ points_NNS ._.
+Table_NNP 2_CD

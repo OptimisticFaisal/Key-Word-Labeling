@@ -1,0 +1,7 @@
+ulls_NNS and_CC flags_NNS objects_NNS in_IN the_DT outer_JJ layer_NN as_IN outliers_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Clustering_NN approach_NN ._.
+Many_JJ clustering_NN algorithms_NNS detect_VBP outliers_NNS as_IN by-products_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Distance-based_JJ approach_NN ._.
+Distance-based_JJ outliers_NNS =_JJ -_: =[_NN 7,8,9,10,3_CD -RRB-_-RRB- -_: =_SYM -_: use_VB a_DT definition_NN based_VBN on_IN a_DT single_JJ ,_, global_JJ criterion_NN ._.
+All_DT of_IN the_DT above_JJ approaches_NNS regard_VBP being_VBG an_DT outlier_NN as_IN a_DT binary_JJ property_NN ._.
+They_PRP do_VBP not_RB take_VB into_IN account_NN both_CC the_DT degree_NN of_IN ''_'' outlier-ness_NN ''_'' and_CC whe_VB

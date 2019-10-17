@@ -1,0 +1,5 @@
+each_DT element_NN to_TO belong_VB to_TO its_PRP$ own_JJ cluster_NN ._.
+They_PRP then_RB proceed_VBP to_TO merge_VB clusters_NNS until_IN a_DT certain_JJ terminating_VBG condition_NN is_VBZ met_VBN ._.
+Examples_NNS of_IN the_DT use_NN of_IN agglomerative_JJ clustering_NN algorithms_NNS can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 3_CD ,_, 57_CD ,_, 44_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Partitive_JJ clustering_NN starts_VBZ with_IN a_DT single_JJ cluster_NN containing_VBG all_DT elements_NNS and_CC proceeds_NNS by_IN splitting_JJ clusters_NNS until_IN a_DT terminating_VBG condition_NN is_VBZ satisfied_VBN ._.
+Examples_NNS of_IN the_DT use_NN of_IN partitive_JJ clustering_NN a_DT

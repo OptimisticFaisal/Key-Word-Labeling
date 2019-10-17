@@ -1,0 +1,4 @@
+se_FW the_DT engineers_NNS can_MD hardly_RB take_VB any_DT action_NN based_VBN on_IN them_PRP ._.
+Furthermore_RB ,_, the_DT data_NNS coverage_NN of_IN long_JJ rules_NNS is_VBZ often_RB so_RB small_JJ that_IN it_PRP is_VBZ not_RB worth_JJ doing_VBG anything_NN about_IN them_PRP ._.
+Class_NN association_NN rule_NN mining_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ found_VBN to_TO be_VB more_RBR suitable_JJ as_IN it_PRP generates_VBZ all_DT rules_NNS in_IN data_NNS that_WDT satisfy_VBP the_DT user_NN specified_VBN minimum_JJ support_NN and_CC minimum_NN confidence_NN thresholds_NNS ._.
+Class_NN association_NN rules_NNS are_VBP a_DT special_JJ type_NN of_IN associa_NN

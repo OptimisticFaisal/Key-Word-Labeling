@@ -1,0 +1,3 @@
+raditional_JJ algorithms_NNS that_WDT require_VBP multiple_JJ scans_NNS of_IN the_DT training_NN samples_NNS are_VBP inappropriate_JJ for_IN our_PRP$ applications_NNS because_IN our_PRP$ applications_NNS require_VBP real-time_JJ predications_NNS ._.
+Several_JJ incremental_JJ algorithm_NN =_JJ -_: =[_NN 10_CD ,_, 7_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: refine_VB models_NNS by_IN continuously_RB incorporating_VBG the_DT influence_NN of_IN the_DT new_JJ training_NN samples_NNS and_CC eliminating_VBG that_DT of_IN old_JJ ones_NNS ._.
+However_RB ,_, it_PRP is_VBZ generally_RB difficult_JJ to_TO determine_VB how_WRB fast_JJ the_DT old_JJ data_NNS should_MD be_VB

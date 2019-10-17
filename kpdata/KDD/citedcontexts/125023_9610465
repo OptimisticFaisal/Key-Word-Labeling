@@ -1,0 +1,6 @@
+tervals_NNS ,_, under_IN various_JJ operating_NN conditions_NNS ._.
+Performances_NNPS of_IN these_DT confidence_NN intervals_NNS are_VBP measured_VBN in_IN terms_NNS of_IN coverage_NN accuracies_NNS ._.
+Simulations_NNS show_VBP excellent_JJ results_NNS ._.
+1_CD ._.
+Introduction_NN A_NN cost_NN curve_NN -LRB-_-LRB- =_JJ -_: =_JJ Drummond_NNP &_CC Holte_NNP ,_, 2000_CD -_: =_JJ -_: ;_: Drummond_NNP &_CC Holte_NNP ,_, 2006_CD -RRB-_-RRB- is_VBZ a_DT plot_NN of_IN a_DT classifier_NN 's_POS expected_VBN cost_NN as_IN a_DT function_NN of_IN operating_NN conditions_NNS ,_, i.e._FW misclassification_NN costs_NNS and_CC class_NN probabilities_NNS ._.
+Performance_NNP assessment_NN in_IN terms_NNS of_IN expe_NN

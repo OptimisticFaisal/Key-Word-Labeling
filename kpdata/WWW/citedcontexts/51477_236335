@@ -1,0 +1,4 @@
+of_IN some_DT classes_NNS also_RB appears_VBZ in_IN at_IN least_JJS the_DT RCF_NN of_IN one_CD of_IN these_DT classes_NNS -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+sq_NN -LRB-_-LRB- ci_NN -RRB-_-RRB- =_JJ -LRB-_-LRB- q1_NN -LRB-_-LRB- ci_NN -RRB-_-RRB- ,_, q2_NN -LRB-_-LRB- ci_NN -RRB-_-RRB- ,_, ..._: ,_, ql_NN -LRB-_-LRB- ci_NN -RRB-_-RRB- -RRB-_-RRB- -LRB-_-LRB- 2_CD -RRB-_-RRB- For_IN simplicity_NN ,_, we_PRP assume_VBP that_IN the_DT value_NN of_IN each_DT qk_NN -LRB-_-LRB- ci_NN -RRB-_-RRB- has_VBZ been_VBN scaled_VBN to_TO =_JJ -_: =[_NN 0_CD ,_, 1_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT higher_JJR the_DT value_NN is_VBZ ,_, the_DT higher_JJR the_DT quality_NN is_VBZ ._.
+It_PRP is_VBZ worth_JJ noting_VBG that_IN QoS_NN criteria_NNS are_VBP not_RB considered_VBN when_WRB selecting_VBG companion_NN communities_NNS ._.
+In_IN fact_NN ,_, each_DT companion_NN community_NN will_MD be_VB in_IN char_NN

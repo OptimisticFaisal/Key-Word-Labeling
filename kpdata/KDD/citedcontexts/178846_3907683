@@ -1,0 +1,5 @@
+ry_NN footprint_NN being_VBG a_DT function_NN of_IN ɛ_NN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 15_CD ,_, 19_CD ,_, 21_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Secondly_RB ,_, rather_RB than_IN discovering_VBG all_DT frequent_JJ itemsets_NNS ,_, well-defined_JJ subsets_NNS of_IN the_DT latter_NN can_MD be_VB discovered_VBN ._.
+One_CD example_NN are_VBP closed_JJ itemsets_NNS =_JJ -_: =[_NN 30_CD ,_, 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT closed_JJ itemset_NN is_VBZ a_DT frequent_JJ itemset_NN that_WDT has_VBZ only_RB proper_JJ supersets_NNS with_IN smaller_JJR support_NN than_IN itself_PRP ._.
+The_DT number_NN of_IN closed_JJ itemsets_NNS is_VBZ often_RB significantly_RB smaller_JJR than_IN the_DT number_NN of_IN frequent_JJ items_NNS

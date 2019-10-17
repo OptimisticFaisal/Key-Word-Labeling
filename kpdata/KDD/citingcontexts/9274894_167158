@@ -1,0 +1,3 @@
+re_IN P_NN r_NN -LRB-_-LRB- +_CC |_CD x_NN ,_, Hi_NN -RRB-_-RRB- is_VBZ the_DT probability_NN of_IN classifying_VBG the_DT example_NN x_NN into_IN +_CC by_IN the_DT learned_VBN model_NN Hi_NN ,_, and_CC m_NN is_VBZ the_DT number_NN of_IN learned_VBN models_NNS ._.
+In_IN our_PRP$ experiments_NNS ,_, m_NN =_JJ 10_CD ,_, and_CC the_DT model_NN set_NN is_VBZ a_DT random_JJ forest_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- generated_VBN by_IN WEKA_NN -RRB-_-RRB- ._.
+Of_IN course_NN ,_, by_IN ignoring_VBG the_DT label_NN set_NN ,_, MU_NN has_VBZ the_DT complementary_JJ problem_NN to_TO LU_NNP :_: even_RB if_IN the_DT model_NN is_VBZ uncertain_JJ about_IN a_DT case_NN ,_, should_MD we_PRP acquire_VB more_JJR labels_NNS if_IN the_DT existing_VBG label_NN mu_NN

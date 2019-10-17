@@ -1,0 +1,5 @@
+._.
+The_DT main_JJ difference_NN with_IN our_PRP$ approach_NN is_VBZ that_IN CMTreeMiner_NN is_VBZ not_RB incremental_JJ and_CC works_VBZ with_IN labeled_JJ nodes_NNS ,_, and_CC we_PRP deal_VBP with_IN unlabeled_JJ trees_NNS ._.
+On_IN synthetic_JJ data_NNS ,_, we_PRP use_VBP the_DT same_JJ dataset_NN as_IN in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: for_IN rooted_JJ ordered_VBN trees_NNS restricting_VBG the_DT number_NN of_IN distinct_JJ node_NN labels_NNS to_TO one_CD ._.
+We_PRP call_VBP this_DT dataset_NN TN1_NN ,_, and_CC is_VBZ generated_VBN by_IN the_DT tree_NN generation_NN program_NN of_IN Zaki_NNP -LRB-_-LRB- 19_CD -RRB-_-RRB- available_JJ from_IN his_PRP$ web_NN page_NN ._.
+Thi_NNP

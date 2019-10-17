@@ -1,0 +1,4 @@
+stem_NN ,_, a_DT history-aware_JJ metric_NN of_IN changes_NNS can_MD be_VB implemented_VBN ._.
+This_DT metric_NN is_VBZ essential_JJ if_IN the_DT freshness_NN of_IN a_DT document_NN should_MD be_VB estimated_VBN automatically_RB or_CC some_DT versions_NNS should_MD be_VB vacuumed_VBN to_TO free_JJ space_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP an_DT approach_NN to_TO calculate_VB the_DT freshness_NN of_IN a_DT document_NN automatically_RB based_VBN on_IN its_PRP$ history_NN ._.
+An_DT important_JJ parameter_NN is_VBZ a_DT document_NN metric_NN ,_, which_WDT measures_VBZ how_WRB much_JJ a_DT document_NN has_VBZ

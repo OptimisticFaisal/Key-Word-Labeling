@@ -1,0 +1,4 @@
+erator_NN ,_, both_CC the_DT features_NNS and_CC the_DT class_NN labels_NNS of_IN several_JJ adjacent_JJ candidates_NNS are_VBP highly_RB correlated_VBN ._.
+This_DT is_VBZ true_JJ both_CC in_IN the_DT training_NN set_NN and_CC in_IN the_DT testing_NN data_NNS ._.
+A_DT batch-classification_JJ algorithm_NN in_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: derives_VBZ a_DT probabilistic_JJ classification_NN model_NN by_IN specifying_VBG a_DT priori_FW guess_NN on_IN the_DT candidate_NN labels_VBZ with_IN a_DT covariance_NN matrix_NN Σ_NN that_WDT encodes_VBZ the_DT spatial-proximity-based_JJ correlations_NNS within_IN an_DT image_NN ._.
+Mul_NN

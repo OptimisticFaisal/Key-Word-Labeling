@@ -1,0 +1,4 @@
+nifold_JJ structure_NN or_CC link_NN structure_NN in_IN unlabeled_JJ data_NNS set_NN -RRB-_-RRB- ,_, but_CC ignore_VBP the_DT other_JJ possible_JJ unlabeled_JJ sources_NNS ._.
+People_NNS have_VBP investigated_VBN the_DT problem_NN of_IN learning_VBG from_IN two_CD complementary_JJ views_NNS -LRB-_-LRB- co-training_NN -RRB-_-RRB- =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: or_CC multiple_JJ views_NNS -LRB-_-LRB- multiple_JJ view_NN learning_NN -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Our_PRP$ proposed_VBN framework_NN is_VBZ more_RBR general_JJ than_IN these_DT studies_NNS in_IN the_DT sense_NN that_IN we_PRP do_VBP not_RB require_VB the_DT labeled_JJ and_CC unlabeled_JJ sources_NNS to_TO be_VB symmetric_JJ ._.
+Furthe_NN

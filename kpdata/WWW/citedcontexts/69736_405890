@@ -1,0 +1,3 @@
+ble_JJ Web_NN resources_NNS have_VBP underscored_VBN the_DT importance_NN of_IN automatic_JJ matching_NN between_IN sets_NNS of_IN elements_NNS ,_, also_RB known_VBN as_IN schema_NN matching_NN ._.
+As_IN a_DT result_NN ,_, several_JJ tools_NNS for_IN automated_JJ schema_NN matching_NN ,_, such_JJ as_IN GLUE_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: and_CC OntoBuilder_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, have_VBP been_VBN developed_VBN in_IN recent_JJ years_NNS ._.
+Given_VBN two_CD data_NNS schemata_NN -LRB-_-LRB- e.g._FW ,_, two_CD sets_NNS of_IN attributes_NNS -RRB-_-RRB- ,_, these_DT tools_NNS output_NN a_DT single_JJ mapping_NN from_IN elements_NNS of_IN one_CD schema_NN to_TO elements_NNS of_IN the_DT o_NN

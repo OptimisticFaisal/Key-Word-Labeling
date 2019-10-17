@@ -1,0 +1,5 @@
+g_NN MOSEK_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+All_DT experiments_NNS were_VBD conducted_VBN on_IN a_DT PENTIUM_NNP IV_NNP 2.4_CD G_NN PC_NN with_IN 1.5_CD GB_NN RAM_NNP ._.
+We_PRP test_VBP the_DT distance_NN metric_JJ learning_NN algorithms_NNS and_CC Kmeans_NNS on_IN eight_CD benchmark_JJ data_NNS sets_NNS ._.
+They_PRP are_VBP six_CD UCI_NNP data_NNS sets_VBZ =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: :_: iris_NN ,_, lymph_NN ,_, promoter_NN ,_, satimage_NN ,_, solar_JJ ,_, wine_NN ,_, and_CC two_CD image_NN data_NNS sets_NNS :_: AR03P_NN 1_CD and_CC ORL10P_NN 2_CD ._.
+SinceMOSEK_NN gives_VBZ memory_NN overflow_NN error_NN when_WRB the_DT number_NN of_IN instances_NNS is_VBZ large_JJ ,_, for_IN the_DT satimage_JJ data_NN set_NN ,_,

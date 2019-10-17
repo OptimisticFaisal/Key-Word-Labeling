@@ -1,0 +1,5 @@
+hiladelphia_NN ,_, Pennsylvania_NNP ,_, USA_NNP ._.
+Copyright_NN 2006_CD ACM_NNP 1-59593-339-5_CD \/_: 06\/0008_CD ..._: $_$ 5.00_CD ._.
+Various_JJ techniques_NNS have_VBP been_VBN developed_VBN for_IN mining_NN frequent_JJ item_NN sets_NNS -LRB-_-LRB- 2_CD ,_, 8_CD -RRB-_-RRB- ,_, sequential_JJ patterns_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, graph_NN patterns_NNS =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: ,_, etc._NN ._.
+These_DT techniques_NNS can_MD usually_RB output_NN a_DT large_JJ ,_, complete_JJ set_NN of_IN frequent_JJ patterns_NNS efficiently_RB ,_, and_CC provide_VB basic_JJ statistic_NN information_NN such_JJ as_IN support_NN for_IN each_DT pattern_NN ._.
+However_RB ,_, the_DT excessive_JJ volu_NN

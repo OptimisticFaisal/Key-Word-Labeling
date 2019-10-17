@@ -1,0 +1,4 @@
+ent_JJ applications_NNS the_DT granularity_NN of_IN access_NN can_MD not_RB be_VB tied_VBN to_TO a_DT specific_JJ metadata_JJ standard_NN ._.
+There_EX are_VBP many_JJ storage_NN systems_NNS for_IN semantic_JJ web_NN metadata_NN ,_, for_IN instance_NN Sesame_NNP -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, RDFSuite_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC Redland_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT systems_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- focus_NN on_IN supportingsRDF_NN Schema_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, on_IN effective_JJ query_NN capabilities_NNS ,_, inference_NN ,_, as_RB well_RB as_IN on_IN how_WRB to_TO store_VB large_JJ quantities_NNS of_IN metadata_NN ._.
+However_RB ,_, as_IN described_VBN in_IN section_NN 3.1_CD there_EX

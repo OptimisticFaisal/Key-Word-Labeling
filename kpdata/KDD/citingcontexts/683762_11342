@@ -1,0 +1,5 @@
+a_DT cascade_NN of_IN transducers_NNS ._.
+Effectively_RB ,_, each_DT cascade_NN may_MD build_VB internal_JJ structure_NN ._.
+The_DT structure_NN built_VBN is_VBZ similar_JJ to_TO a_DT phrase_NN marker_NN ,_, though_IN is_VBZ not_RB constrained_VBN to_TO capture_VB grammatical_JJ structure_NN per_FW se_FW -LRB-_-LRB- =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Once_RB this_DT approximate_JJ grammatical_JJ structure_NN is_VBZ derived_VBN ,_, the_DT semantics_NNS of_IN the_DT expression_NN is_VBZ computed_VBN in_IN a_DT bottom_NN up_RP compositional_JJ manner_NN resulting_VBG in_IN a_DT polarity_NN feature_NN for_IN the_DT span_NN of_IN text_NN ._.
+The_DT fea_NN

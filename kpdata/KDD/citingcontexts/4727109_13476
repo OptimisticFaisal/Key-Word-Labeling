@@ -1,0 +1,4 @@
+aper_NN ,_, we_PRP are_VBP looking_VBG for_IN a_DT general_JJ semi-supervised_JJ classification_NN framework_NN for_IN time_NN series_NN ,_, so_IN we_PRP do_VBP not_RB consider_VB graph-based_JJ methods_NNS ._.
+The_DT idea_NN of_IN co-training_NN was_VBD first_RB proposed_VBN by_IN Blum_NNP and_CC Mitchell_NNP =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP divides_VBZ the_DT features_NNS of_IN the_DT data_NNS into_IN two_CD disjoint_JJ sets_NNS ,_, with_IN each_DT set_NN being_VBG sufficient_JJ to_TO train_VB a_DT good_JJ classifier_NN ._.
+Two_CD classifiers_NNS are_VBP trained_VBN separately_RB on_IN each_DT feature_NN subset_NN ,_, and_CC the_DT predicti_NN

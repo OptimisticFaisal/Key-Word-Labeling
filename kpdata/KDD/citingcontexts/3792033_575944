@@ -1,0 +1,4 @@
+rocess_NN ._.
+MiningMart_NN -LRB-_-LRB- see_VB above_IN -RRB-_-RRB- uses_VBZ M4_NN which_WDT includes_VBZ ,_, besides_IN modeling_NN the_DT mining_NN process_NN ,_, a_DT two-layered_JJ data_NN meta_NN model_NN and_CC can_MD be_VB stored_VBN both_CC in_IN a_DT relational_JJ database_NN or_CC in_IN XML_NN files_NNS -LRB-_-LRB- 7_CD ,_, 6_CD -RRB-_-RRB- ._.
+KDDML_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ been_VBN developed_VBN as_IN a_DT middleware_JJ language_NN for_IN the_DT support_NN of_IN KDD_NNP applications_NNS ._.
+Elements_NNS in_IN KDDML_NNP are_VBP operators_NNS with_IN functional_JJ semantics_NNS ;_: this_DT allows_VBZ to_TO nest_NN operators_NNS like_IN in_IN Yale_NNP ,_, though_IN Yale_NNP use_VB

@@ -1,0 +1,5 @@
+on_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+Most_JJS of_IN the_DT efforts_NNS in_IN error-tolerant_JJ frequent_JJ itemsets_NNS can_MD be_VB viewed_VBN as_IN finding_VBG dense_JJ hyperrectangles_NNS with_IN certain_JJ constraints_NNS ._.
+The_DT support_NN envelope_NN notation_NN proposed_VBN by_IN Steinbach_NNP et_FW al._FW =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: also_RB fits_VBZ into_IN this_DT framework_NN ._.
+Generally_RB speaking_VBG ,_, our_PRP$ work_NN does_VBZ not_RB directly_RB address_VB how_WRB to_TO discover_VB individual_JJ error-tolerant_JJ itemsets_NNS ._.
+Our_PRP$ goal_NN is_VBZ to_TO derive_VB a_DT global_JJ summarization_NN of_IN the_DT entire_JJ tr_NN

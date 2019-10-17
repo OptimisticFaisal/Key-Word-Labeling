@@ -1,0 +1,4 @@
+es_NNS for_IN categorical_JJ data_NNS because_IN of_IN its_PRP$ parsimonious_JJ use_NN of_IN parameters_NNS ,_, and_CC efficient_JJ learning_NN and_CC inference_NN techniques_NNS ._.
+Bayes_NNP Net_NNP have_VBP been_VBN used_VBN for_IN detecting_VBG anomalies_NNS in_IN network_NN intrusion_NN detection_NN =_JJ -_: =[_NN 2_CD ,_, 33_CD -RRB-_-RRB- -_: =_JJ -_: ,_, detecting_VBG malicious_JJ emails_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- and_CC disease_NN outbreak_NN detection_NN -LRB-_-LRB- 32_CD -RRB-_-RRB- ._.
+Any_DT good_JJ structure_NN and_CC parameter_NN learning_NN algorithm_NN is_VBZ appropriate_JJ to_TO learn_VB the_DT model_NN ._.
+For_IN our_PRP$ experiments_NNS ,_, we_PRP used_VBD the_DT optimal_JJ re_NN

@@ -1,0 +1,3 @@
+y_NN step_NN ,_, which_WDT can_MD be_VB solved_VBN via_IN methods_NNS that_WDT perform_VBP short_JJ lookaheads_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+In_IN a_DT related_JJ line_NN of_IN work_NN ,_, researchers_NNS proposed_VBD greedy_JJ and_CC heuristic_NN approaches_NNS for_IN active_JJ learning_NN in_IN crowdsourcing_VBG systems_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ work_NN differs_VBZ from_IN previous_JJ approaches_NNS in_IN the_DT generality_NN of_IN the_DT Bayesian_JJ and_CC decision-theoretic_JJ modeling_NN ,_, and_CC in_IN our_PRP$ focus_NN on_IN learning_VBG and_CC executing_VBG expressive_JJ models_NNS of_IN tasks_NNS and_CC workers_NNS learned_VBD

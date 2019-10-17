@@ -1,0 +1,5 @@
+ining_VBG algorithm_NN ._.
+Realistic_JJ program_NN traces_NNS are_VBP very_RB large_JJ ,_, which_WDT implies_VBZ a_DT large_JJ number_NN of_IN neighborhoods_NNS to_TO be_VB mined_VBN by_IN the_DT frequent_JJ pattern_NN mining_NN algorithm_NN ._.
+This_DT results_VBZ in_IN a_DT high_JJ memory_NN consumption_NN =_JJ -_: =[_NN 17_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO control_VB memory_NN consumption_NN in_IN our_PRP$ analysis_NN we_PRP restrict_VBP ourselves_PRP to_TO mining_NN neighborhoods_NNS of_IN a_DT particular_JJ size_NN l_NN ,_, i.e._FW ,_, neighborhoods_NNS that_WDT include_VBP no_DT more_RBR that_IN l_NN function_NN calls_NNS ._.
+Thus_RB the_DT equation_NN

@@ -1,0 +1,5 @@
+hrase_NN -LRB-_-LRB- i.e._FW an_DT ngram_NN of_IN words_NNS -RRB-_-RRB- ._.
+This_DT setup_NN is_VBZ in_IN the_DT focus_NN of_IN our_PRP$ paper_NN --_: we_PRP term_VBP it_PRP Phrase-Based_JJ Classification_NN -LRB-_-LRB- PBC_NN -RRB-_-RRB- ._.
+Variations_NNS of_IN PBC_NNP have_VBP been_VBN studied_VBN for_IN years_NNS in_IN Information_NNP Retrieval_NNP -LRB-_-LRB- see_VB ,_, e.g._FW =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+PBC_NNP is_VBZ very_RB natural_JJ for_IN multilabel_JJ text_NN classification_NN -LRB-_-LRB- when_WRB each_DT document_NN may_MD belong_VB to_TO a_DT number_NN of_IN classes_NNS -RRB-_-RRB- ,_, as_IN a_DT number_NN of_IN decision_NN stumps_NNS may_MD be_VB triggered_VBN for_IN a_DT document_NN ._.
+Another_DT advantage_NN of_IN P_NN

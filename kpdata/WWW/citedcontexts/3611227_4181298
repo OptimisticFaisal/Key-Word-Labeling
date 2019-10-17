@@ -1,0 +1,4 @@
+es_NNS exist_VBP which_WDT consider_VBP range_NN queries_NNS already_RB as_IN similarity_NN queries_NNS ._.
+However_RB ,_, we_PRP consider_VBP here_RB only_RB systems_NNS that_WDT support_VBP already_RB a_DT more_RBR complex_JJ notion_NN of_IN similarity_NN ,_, such_JJ as_IN top-N_JJ queries_NNS ._.
+LSH_NN forest_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ a_DT locality-sensitive_JJ hashing_VBG -LRB-_-LRB- LSH_NN -RRB-_-RRB- sNumber_NN of_IN messages_NNS 18000_CD 16000_CD 14000_CD 12000_CD 10000_CD 8000 6000 4000 2000_CD 0_CD qsamples_FW qgrams_FW strings_NNS 100 1000 10000_CD 100000_CD Number_NN of_IN peers_NNS -LRB-_-LRB- log_NN ._. -RRB-_-RRB-
+-LRB-_-LRB- a_DT -RRB-_-RRB- Messages_NNS -LRB-_-LRB- bible_NN

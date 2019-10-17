@@ -1,0 +1,5 @@
+le_DT ``_`` hard_JJ ''_'' examples_NNS ,_, that_WDT tend_VBP to_TO be_VB misclassified_VBN ,_, get_VB higher_JJR weights_NNS ._.
+In_IN the_DT last_JJ few_JJ years_NNS many_JJ approaches_NNS to_TO processing_NN data_NNS streams_NNS through_IN classifier_NN ensembles_NNS have_VBP been_VBN proposed_VBN ._.
+Street_NNP and_CC Kim_NNP =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: build_VB individual_JJ classifiers_NNS from_IN chunks_NNS of_IN data_NNS read_VBN sequentially_RB in_IN blocks_NNS ._.
+They_PRP are_VBP then_RB combined_VBN into_IN an_DT ensemble_NN of_IN fixed_JJ size_NN ._.
+When_WRB the_DT ensemble_NN is_VBZ full_JJ ,_, new_JJ classifiers_NNS are_VBP added_VBN only_RB if_IN they_PRP

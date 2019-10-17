@@ -1,0 +1,4 @@
+c_NN model_NN ._.
+Experiments_NNS conducted_VBN on_IN 40_CD million_CD web_NN pages_NNS show_VBP that_IN our_PRP$ approach_NN could_MD yield_VB better_JJR results_NNS than_IN alternative_JJ approaches_NNS ._.
+1_CD Introduction_NN Semantic_JJ class_NN construction_NN -LRB-_-LRB- Lin_NNP and_CC Pantel_NNP ,_, 2001_CD ;_: =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =_JJ -_: ;_: Pasca_NNP ,_, 2004_CD ;_: Shinzato_NNP and_CC Torisawa_NNP ,_, 2005_CD ;_: Ohshima_NNP et_FW al._FW ,_, 2006_CD -RRB-_-RRB- tries_VBZ to_TO discover_VB the_DT peer_VBP or_CC sibling_NN relationship_NN among_IN terms_NNS or_CC phrases_NNS by_IN organizing_VBG them_PRP into_IN semantic_JJ classes_NNS ._.
+For_IN example_NN ,_, -LCB-_-LRB- red_JJ ,_,

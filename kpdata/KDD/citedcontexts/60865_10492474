@@ -1,0 +1,4 @@
+s_NN assigned_VBD a_DT feature_NN vector_NN with_IN 8_CD values_NNS -LRB-_-LRB- length-ratio_NN ,_, 5_CD agreement_NN values_NNS ,_, and_CC 2_CD perplexities_NNS -RRB-_-RRB- ._.
+The_DT target_NN rankings_NNS used_VBN in_IN the_DT experiments_NNS were_VBD 5203sentence-based_JJ -LRB-_-LRB- BLEU-TER_NN -RRB-_-RRB- scores_NNS ._.
+An_DT SVM_NN ranker_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ then_RB used_VBN to_TO learn_VB to_TO rank_VB the_DT system_NN outputs_NNS for_IN each_DT segment_NN ._.
+The_DT SVM_NNP ranker_NN also_RB returns_VBZ a_DT numerical_JJ value_NN for_IN each_DT ranked_VBN hypothesis_NN ,_, based_VBN on_IN its_PRP$ signed_JJ distance_NN from_IN the_DT separating_VBG hyperplan_NN

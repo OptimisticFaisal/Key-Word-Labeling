@@ -1,0 +1,4 @@
+ure_NN 11_CD :_: Sizes_NNS of_IN decision_NN trees_NNS minsup_NN =_JJ 4_CD 7_CD ._.
+RELATED_NNS WORK_VBP The_DT search_NN for_IN optimal_JJ decision_NN trees_NNS dates_VBZ back_RB to_TO the_DT 70s_NNS ,_, when_WRB several_JJ dynamic_JJ programming_NN algorithms_NNS for_IN building_VBG such_JJ trees_NNS were_VBD proposed_VBN =_JJ -_: =[_NN 9_CD ,_, 16_CD ,_, 26_CD ,_, 30_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT early_JJ work_NN concentrated_VBD on_IN finding_VBG small_JJ summarizations_NNS of_IN input_NN data_NNS ,_, and_CC did_VBD not_RB study_VB the_DT prediction_NN of_IN unseen_JJ examples_NNS ._.
+Optimization_NN criteria_NNS were_VBD based_VBN on_IN the_DT cost_NN of_IN attributes_NNS ,_, and_CC the_DT s_NN

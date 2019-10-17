@@ -1,0 +1,4 @@
+ectrum_NN method_NN models_NNS the_DT spatial_JJ relationship_NN of_IN graphlet_NN in_IN an_DT implicit_JJ approach_NN and_CC the_DT association_NN rule_NN net_NN only_RB explore_VBP the_DT overlapping_VBG relationship_NN of_IN features_NNS ._.
+Here_RB we_PRP adopted_VBD our_PRP$ previous_JJ work_NN =_JJ -_: =[_NN 5_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: to_TO construct_VB feature_NN graphs_NNS ._.
+In_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, we_PRP formalize_VBP a_DT concept_NN which_WDT we_PRP called_VBD ``_`` feature_NN consistency_NN map_NN ''_'' ._.
+A_DT feature_NN consistency_NN map_NN is_VBZ a_DT undirected_JJ graph_NN in_IN which_WDT each_DT node_NN represents_VBZ a_DT feature_NN and_CC each_DT

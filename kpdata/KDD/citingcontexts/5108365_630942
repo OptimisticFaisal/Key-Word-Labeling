@@ -1,0 +1,6 @@
+cture_NN and_CC evolution_NN of_IN blogs_NNS were_VBD explored_VBN in_IN -LRB-_-LRB- 16_CD ,_, 17_CD ,_, 18_CD ,_, 1_CD -RRB-_-RRB- ._.
+3_LS ._.
+DATA_NNP SOURCES_NNP In_IN this_DT section_NN we_PRP describe_VBP the_DT various_JJ data_NNS used_VBN in_IN our_PRP$ experiments_NNS ._.
+3.1_CD Online_NNP postings_NNS data_NNS IBM_NNP 's_POS WebFountain_NNP project_NN =_JJ -_: =[_NN 13_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: maintains_VBZ large_JJ collections_NNS of_IN online_NN material_NN ,_, including_VBG postings_NNS from_IN approximately_RB 300K_CD blogs_NNS ._.
+Approximately_RB 200K_JJ postings_NNS arrivesinto_VBP the_DT system_NN per_IN day_NN ._.
+The_DT system_NN also_RB contains_VBZ just_RB under_IN three_CD

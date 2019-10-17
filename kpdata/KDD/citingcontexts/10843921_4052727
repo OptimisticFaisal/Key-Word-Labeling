@@ -1,0 +1,5 @@
++1_FW |_FW x_NN ,_, w_NN -RRB-_-RRB- =_JJ 1_CD 1_CD +_CC exp_NN -LRB-_-LRB- −_FW w_FW T_NN x_NN +_CC b_NN -RRB-_-RRB- ._.
+We_PRP find_VBP the_DT optimal_JJ w_NN ,_, b_NN using_VBG the_DT Orthant-Wise_NNP LimitedMemory_NNP Quasi-Newton_NNP method_NN ,_, which_WDT enables_VBZ handling_VBG large_JJ feature_NN spaces_NNS and_CC a_DT large_JJ number_NN of_IN training_NN points_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Performance_NNP Metric_NNP We_PRP define_VBP precision_NN and_CC recall_NN as_IN follows_VBZ ._.
+Let_VB C_NN be_VB the_DT set_NN of_IN queries_NNS that_WDT have_VBP true_JJ commercial_JJ intent_NN -LRB-_-LRB- as_IN decided_VBN by_IN manual_JJ labeling_NN -RRB-_-RRB- ._.
+Also_RB ,_, for_IN a_DT particular_JJ threshold_NN θ_FW ∈_FW -LRB-_-LRB- 0_CD ,_, 1_CD

@@ -1,0 +1,5 @@
+Set_VB up_RP Four_CD data_NN sets_NNS -LRB-_-LRB- summarized_VBN in_IN Table_NNP 1_LS -RRB-_-RRB- are_VBP used_VBN in_IN this_DT study_NN ._.
+ADULT_NN is_VBZ a_DT population_NN census_NN data_NNS downloaded_VBN from_IN the_DT UCI_NNP machine_NN learning_NN database_NN ._.
+WHIRL_NN is_VBZ an_DT information_NN extraction_NN data_NNS set_VBD =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT trains_VBZ wrappers_NNS to_TO correctly_RB extract_VB relevant_JJ information_NN from_IN a_DT web_NN page_NN ._.
+BOOLEAN_NNP is_VBZ an_DT artificial_JJ boolean_JJ data_NNS set_NN that_WDT has_VBZ 15_CD boolean_JJ variables_NNS ._.
+-LRB-_-LRB- The_DT data_NNS item_NN is_VBZ positive_JJ if_IN 4_CD or_CC 5_CD variables_NNS

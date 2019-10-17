@@ -1,0 +1,5 @@
+have_VB 100_CD ,_, 000_CD benign_JJ URLs_NNS from_IN an_DT open_JJ directory_NN service_NN called_VBN DMOZ_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, and_CC almost_RB 20_CD ,_, 000_CD benign_JJ URLs_NNS from_IN Yahoo_NNP Random_NNP URL_NN generator_NN -LRB-_-LRB- YRUG_NN -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Our_PRP$ experimental_JJ methodology_NN is_VBZ similar_JJ to_TO that_DT in_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT experimental_JJ setup_NN consists_VBZ of_IN two_CD phases_NNS --_: training_NN and_CC testing_NN ._.
+In_IN the_DT training_NN phase_NN ,_, we_PRP create_VBP various_JJ data_NNS structures_NNS -LRB-_-LRB- Section_NNP III_NNP -RRB-_-RRB- using_VBG the_DT phishing_VBG URLs_NNS ._.
+During_IN testing_NN ,_, an_DT input_NN URL_NN is_VBZ fl_NN

@@ -1,0 +1,7 @@
+ould_RB be_VB pruned_VBN ._.
+R1_NN is_VBZ more_RBR general_JJ and_CC simple_JJ ._.
+General_JJ and_CC simple_JJ rules_NNS are_VBP preferred_VBN ._.
+In_IN this_DT work_NN ,_, we_PRP measure_VBP the_DT significance_NN of_IN a_DT rule_NN using_VBG chi-square_JJ test_NN -LRB-_-LRB- c_NN 2_CD -RRB-_-RRB- for_IN correlation_NN from_IN statistics_NNS =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+1.2_CD Summarizing_VBG the_DT unpruned_JJ rules_NNS Pruning_NN can_MD reduce_VB the_DT number_NN of_IN rules_NNS substantially_RB ._.
+However_RB ,_, the_DT number_NN of_IN rules_NNS left_VBN can_MD still_RB be_VB very_RB large_JJ ._.
+This_DT step_NN finds_VBZ a_DT subset_NN of_IN the_DT rules_NNS ,_, called_VBN dire_JJ

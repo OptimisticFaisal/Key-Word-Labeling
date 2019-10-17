@@ -1,0 +1,5 @@
+Classification_NN with_IN partial_JJ labels_NNS
+es_NNS of_IN classifiers_NNS are_VBP multiclass_JJ averaged_VBN perceptrons_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, the_DT naive_JJ Bayes_NNP classifier_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, and_CC the_DT support_NN vector_NN machine_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+The_DT last_JJ two_CD approaches_NNS yield_VBP good_JJ results_NNS at_IN the_DT SemEval07_NN competition_NN ._.
+=_SYM -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: consider_VB the_DT case_NN that_WDT only_RB lumped_VBD labels_NNS are_VBP available_JJ for_IN classification_NN ,_, i.e._FW for_IN each_DT training_NN example_NN a_DT set_NN of_IN possible_JJ labels_NNS is_VBZ observed_VBN ,_, one_CD of_IN which_WDT is_VBZ the_DT correct_JJ label_NN ._.
+They_PRP formulate_VBP a_DT co_NN

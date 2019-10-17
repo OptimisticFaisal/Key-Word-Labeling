@@ -1,0 +1,3 @@
+h_NN will_MD indeed_RB lead_VB to_TO minimum_JJ average_JJ risk_NN classification_NN ._.
+A_DT number_NN of_IN previous_JJ methods_NNS in_IN cost-sensitive_JJ classifier_NN design_NN have_VBP sought_VBN to_TO improve_VB these_DT probability_NN estimates_NNS -LRB-_-LRB- Zadrozny_NNP &_CC Elkan_NNP ,_, 2002_CD ;_: =_JJ -_: =_JJ Domingos_NNP ,_, 1999_CD -_: =--RRB-_NN ._.
+However_RB ,_, accurate_JJ probability_NN estimation_NN is_VBZ not_RB essential_JJ in_IN classification_NN and_CC for_IN 0\/1_CD costs_NNS many_JJ classification_NN algorithms_NNS perform_VBP very_RB well_RB despite_IN their_PRP$ poor_JJ performance_NN as_IN probability_NN estimato_NN

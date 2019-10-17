@@ -1,0 +1,4 @@
+for_IN web_NN data_NNS reduction_NN ._.
+In_IN addition_NN ,_, time-varying_JJ graphs_NNS have_VBP been_VBN analyzed_VBN through_IN ,_, for_IN example_NN ,_, evolutionary_JJ clustering_NN -LRB-_-LRB- Lin_NNP et_FW al._FW 2008_CD -RRB-_-RRB- ._.
+Also_RB ,_, existing_VBG works_NNS in_IN lossless_JJ social_JJ graph_NN compression_NN -LRB-_-LRB- =_JJ -_: =_JJ Chierichetti_NNP et_FW al._FW 2009_CD -_: =-]_CD are_VBP able_JJ to_TO reduce_VB the_DT storage_NN complexity_NN to_TO 3-4_CD bits_NNS per_IN edge_NN ._.
+The_DT graph_NN sampling_NN work_NN has_VBZ a_DT different_JJ goal_NN in_IN that_IN it_PRP seek_VBP to_TO reduce_VB the_DT data_NNS in_IN a_DT way_NN that_WDT preserves_VBZ statistical_JJ and_CC topological_JJ pr_NN

@@ -1,0 +1,4 @@
+cribe_VB a_DT general_JJ framework_NN for_IN integrating_VBG databases_NNS with_IN ontologies_NNS via_IN a_DT first-order_JJ ontology_NN language_NN Web-PDDL_NN ._.
+Barrasa_FW et_FW al._FW -LRB-_-LRB- 3_LS -RRB-_-RRB- design_NN a_DT language_NN R2O_NN for_IN expressing_VBG complex_JJ mappings_NNS ._.
+Motik_NNP et_FW al._FW =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP an_DT extension_NN of_IN OWL_NN with_IN ICs_NNS that_WDT captures_VBZ the_DT intuition_NN behind_IN ICs_NNS in_IN relational_JJ databases_NNS ._.
+An_DT et_FW al._FW -LRB-_-LRB- 1_LS -RRB-_-RRB- develop_VB a_DT prototype_NN MapOnto_NNP for_IN inferring_VBG complex_JJ semantic_JJ mappings_NNS formalized_VBN by_IN Ho_NNP

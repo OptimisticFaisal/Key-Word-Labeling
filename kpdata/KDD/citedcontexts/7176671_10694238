@@ -1,0 +1,4 @@
+ishio_NN ,_, 2008_CD -RRB-_-RRB- parse_NN selected_VBN Wikipedia_NNP sentences_NNS and_CC perform_VB extraction_NN over_IN the_DT phrase_NN structure_NN trees_NNS based_VBN on_IN several_JJ handcrafted_JJ patterns_NNS ._.
+Wu_NNP and_CC Weld_NNP proposed_VBD the_DT KYLIN_NN system_NN -LRB-_-LRB- Wu_NNP and_CC Weld_NNP ,_, 2007_CD ;_: =_JJ -_: =_JJ Wu_NNP et_FW al._FW ,_, 2008_CD -_: =--RRB-_NN which_WDT has_VBZ the_DT same_JJ spirit_NN of_IN matching_VBG Wikipedia_NNP sentences_NNS with_IN infoboxes_NNS to_TO learn_VB extractors_NNS ._.
+However_RB ,_, it_PRP only_RB works_VBZ for_IN relations_NNS defined_VBN in_IN Wikipedia_NNP infoboxes_NNS ._.
+Shallow_JJ or_CC Deep_JJ Parsing_NN :_: Shallow_FW fe_FW

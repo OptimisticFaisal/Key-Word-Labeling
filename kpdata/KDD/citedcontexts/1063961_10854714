@@ -1,0 +1,4 @@
+provide_VB a_DT good_JJ framework_NN for_IN such_JJ studies_NNS ._.
+Thus_RB ,_, we_PRP propose_VBP here_RB a_DT new_JJ model_NN ,_, ccLDA_NN ,_, which_WDT extends_VBZ over_IN the_DT Latent_JJ Dirichlet_NNP Allocation_NNP -LRB-_-LRB- LDA_NNP -RRB-_-RRB- -LRB-_-LRB- Blei_NNP et_FW al._FW ,_, 2003_CD -RRB-_-RRB- and_CC crosscollection_NN mixture_NN -LRB-_-LRB- ccMix_NN -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Zhai_NNP et_FW al._FW ,_, 2004_CD -_: =--RRB-_CD models_NNS on_IN blogs_NNS and_CC forums_NNS ._.
+We_PRP also_RB provide_VBP a_DT qualitative_JJ and_CC quantitative_JJ analysis_NN of_IN the_DT model_NN on_IN the_DT cross-cultural_JJ data_NNS ._.
+1_CD Introduction_NN In_IN today_NN 's_POS society_NN ,_, people_NNS from_IN different_JJ cultural_JJ backgro_NN

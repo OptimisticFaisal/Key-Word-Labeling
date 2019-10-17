@@ -1,0 +1,4 @@
+mount_VB and_CC distribution_NN of_IN training_NN data_NNS used_VBN in_IN their_PRP$ construction_NN ._.
+For_IN a_DT given_VBN budget_NN ,_, some_DT subset_NN of_IN the_DT cases_NNS can_MD be_VB examined_VBN by_IN humans_NNS --_: potentially_RB at_IN very_RB low_JJ cost_NN using_VBG a_DT microoutsourcing_NN system_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_JJ -_: such_JJ as_IN Amazon_NNP 's_POS Mechanical_JJ Turk_NNP -LRB-_-LRB- 2_CD -RRB-_-RRB- --_: to_TO produce_VB training_NN data_NNS ._.
+A_DT critical_JJ question_NN then_RB is_VBZ :_: which_WDT cases_NNS should_MD be_VB selected_VBN for_IN training_NN ?_.
+Simply_RB sampling_NN cases_NNS uniformly_RB at_IN random_JJ is_VBZ unlikely_JJ to_TO be_VB th_DT

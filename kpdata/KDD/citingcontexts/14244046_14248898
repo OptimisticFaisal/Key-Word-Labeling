@@ -1,0 +1,4 @@
+s_NN changed_VBD ,_, from_IN normal_JJ to_TO Boolean_NNP ._.
+As_IN a_DT consequence_NN ,_, it_PRP is_VBZ possible_JJ that_IN BMF_NN obtains_VBZ smaller_JJR reconstruction_NN error_NN than_IN SVD_NNP for_IN the_DT same_JJ decomposition_NN size_NN --_: something_NN that_IN NMF_NNP ,_, by_IN definition_NN ,_, can_MD not_RB do_VB =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Furthermore_RB ,_, it_PRP can_MD be_VB shown_VBN that_IN for_IN sparse_JJ Boolean_JJ matrices_NNS ,_, there_EX is_VBZ always_RB a_DT sparse_JJ exact_JJ factorization_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+But_CC no_DT matter_NN what_WDT factorization_NN method_NN one_CD applies_VBZ ,_, one_CD always_RB has_VBZ to_TO solve_VB the_DT mod_NN

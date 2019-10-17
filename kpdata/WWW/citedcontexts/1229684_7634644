@@ -1,0 +1,4 @@
+cent_NN work_NN by_IN Paton_NNP and_CC Díaz_NNP -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, which_WDT examines_VBZ rules_NNS and_CC triggers_NNS in_IN active_JJ database_NN systems_NNS ._.
+Recent_JJ research_NN on_IN bridging_VBG the_DT gap_NN between_IN OWL_NN and_CC relational_JJ databases_NNS by_IN Motik_NNP ,_, Horrocks_NNP and_CC Sattler_NNP =_SYM -_: =[_NN 24_CD -RRB-_-RRB- -_: =_JJ -_: provides_VBZ unique_JJ insight_NN into_IN the_DT expressiveness_NN of_IN description_NN logics_NNS versus_CC relational_JJ databases_NNS ._.
+The_DT integrity_NN constraints_NNS in_IN databases_NNS can_MD be_VB described_VBN with_IN extended_VBN OWL_NN statements_NNS -LRB-_-LRB- axioms_NNS -RRB-_-RRB- ._.
+An_DT im_NN

@@ -1,0 +1,5 @@
+ering_VBG methods_NNS ._.
+4_LS ._.
+A_DT GENERIC_NNP CONSTRAINED_NNP CO-CLUSTERING_NNP SCHEME_NNP A_NNP large_JJ class_NN of_IN objective_JJ functions_NNS ,_, the_DT so-called_JJ Bregman_NNP divergences_NNS ,_, can_MD be_VB optimized_VBN via_IN a_DT metaalgorithm_NN called_VBN Bregman_NNP Co-clustering_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- see_VB Algorithm_NNP 1_CD -RRB-_-RRB- ._.
+Its_PRP$ principle_NN is_VBZ quite_RB simple_JJ :_: it_PRP alternatively_RB refines_VBZ row_NN and_CC column_NN clusters_NNS ,_, while_IN optimizing_VBG an_DT objective_JJ function_NN which_WDT takes_VBZ into_IN account_NN both_DT partitions_NNS ._.
+In_IN the_DT first_JJ step_NN ,_,

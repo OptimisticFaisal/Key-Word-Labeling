@@ -1,0 +1,4 @@
+r_NN improvements_NNS for_IN entity_NN identification_NN ._.
+Also_RB ,_, all_PDT these_DT generative_JJ models_NNS consider_VBP only_RB unstructured_JJ words_NNS in_IN documents_NNS ,_, whereas_IN we_PRP look_VBP to_TO generate_VB noisy_JJ entity_NN mentions_VBZ as_RB well_RB ._.
+The_DT PRM_NNP framework_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT probabilistic_JJ generative_JJ model_NN over_IN values_NNS in_IN a_DT structured_JJ database_NN that_WDT takes_VBZ into_IN account_NN dependencies_NNS across_IN different_JJ columns_NNS ._.
+Our_PRP$ focus_NN is_VBZ on_IN documents_NNS that_WDT mention_VBP these_DT values_NNS rather_RB than_IN

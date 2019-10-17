@@ -1,0 +1,4 @@
+h_NN dynamic_NN ,_, Method_NN B_NN pruning_NN ,_, as_IN that_DT combination_NN has_VBZ been_VBN shown_VBN to_TO be_VB both_CC efficient_JJ and_CC effective_JJ -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+2.2_CD Caching_NN Several_JJ papers_NNS examine_VBP improving_VBG search_NN engine_NN throughput_NN by_IN caching_VBG inverted_JJ lists_NNS =_JJ -_: =[_NN 7_CD ,_, 11_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+With_IN the_DT exception_NN of_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, these_DT approaches_NNS either_CC cache_NN full_JJ inverted_JJ lists_NNS ,_, or_CC cache_NN intersected_VBD inverted_JJ lists_NNS on_IN disk_NN ._.
+Saraiva_FW et_FW al._FW apply_VB pruning_NN to_TO their_PRP$ inverted_JJ lists_NNS prior_RB to_TO caching_NN ,_, whi_NN

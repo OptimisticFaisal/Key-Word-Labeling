@@ -1,0 +1,3 @@
+reover_NN ,_, to_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ,_, the_DT issue_NN of_IN feature_NN redundance_NN has_VBZ not_RB been_VBN studied_VBN yet_RB in_IN the_DT unsupervised_JJ feature_NN selections_NNS ,_, although_IN it_PRP has_VBZ been_VBN recently_RB studied_VBN in_IN the_DT supervised_JJ learning_NN =_JJ -_: =[_NN 2,13,14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT new_JJ feature_NN selection_NN method_NN ,_, in_IN which_WDT the_DT clustering_NN and_CC the_DT feature_NN selection_NN are_VBP performed_VBN iteratively_RB ._.
+A_DT new_JJ evaluation_NN index_NN is_VBZ firstly_RB introduced_VBN to_TO identify_VB the_DT mo_NN

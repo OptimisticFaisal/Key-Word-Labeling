@@ -1,0 +1,5 @@
+l_NN algorithms_NNS dealing_VBG with_IN random_JJ processes_NNS ._.
+Also_RB important_JJ for_IN our_PRP$ purposes_NNS ,_, ADWIN_NN does_VBZ not_RB maintain_VB the_DT window_NN explicitly_RB ,_, but_CC compresses_VBZ it_PRP using_VBG a_DT variant_NN of_IN the_DT exponential_JJ histogram_NN technique_NN in_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN particular_JJ ,_, it_PRP keeps_VBZ a_DT window_NN of_IN length_NN W_NN using_VBG only_JJ O_NN -LRB-_-LRB- log_NN W_NN -RRB-_-RRB- memory_NN rather_RB than_IN the_DT O_NN -LRB-_-LRB- W_NN -RRB-_-RRB- one_CD expects_VBZ from_IN a_DT naïve_JJ implementation_NN ._.
+The_DT processing_NN time_NN per_IN item_NN is_VBZ also_RB O_NN -LRB-_-LRB- log_NN W_NN -RRB-_-RRB- ._.
+6.2_CD Concept_NN dr_NN

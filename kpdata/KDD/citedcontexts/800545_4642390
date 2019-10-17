@@ -1,0 +1,4 @@
+mall_NN subset_NN of_IN dimensions_NNS keeps_VBZ a_DT high_JJ portion_NN of_IN the_DT information_NN about_IN the_DT feature_NN vectors_NNS ._.
+Several_JJ other_JJ dimensionality_NN reduction_NN based_VBN techniques_NNS are_VBP proposed_VBN -LRB-_-LRB- 34,48,49_CD -RRB-_-RRB- and_CC applied_VBN to_TO time-series_NNS =_JJ -_: =[_NN 50,51_CD -RRB-_-RRB- -_: =_JJ -_: ,_, image_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- ,_, and_CC document_NN data_NNS -LRB-_-LRB- 52_CD --_: 54_CD -RRB-_-RRB- ._.
+For_IN dynamic_JJ data_NNS sets_NNS ,_, approximate_JJ KLT_NNP has_VBZ been_VBN shown_VBN to_TO be_VB an_DT effective_JJ technique_NN compared_VBN to_TO the_DT techniques_NNS based_VBN on_IN exact_JJ transformations_NNS -LRB-_-LRB- 55_CD -RRB-_-RRB- ._.
+VA-file_JJ and_CC

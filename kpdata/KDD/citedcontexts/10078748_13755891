@@ -1,0 +1,4 @@
+We_PRP define_VBP the_DT random_JJ walk_NN probability_NN from_IN one_CD user_NN u_NN to_TO another_DT v_LS according_VBG to_TO the_DT co-liked_JJ objects_NNS and_CC their_PRP$ topics_NNS ._.
+The_DT like-post_JJ graph_NN is_VBZ used_VBN to_TO perform_VB influence_NN analysis_NN similar_JJ to_TO Tang_NNP et_FW al._FW =_SYM -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT difference_NN is_VBZ that_IN we_PRP use_VBP directional_JJ links_NNS based_VBN on_IN like-post_JJ relationship_NN and_CC we_PRP define_VBP the_DT weight_NN on_IN every_DT edge_NN from_IN u_NN to_TO v_LS based_VBN on_IN the_DT posted_VBN and_CC liked_VBN objects_NNS ._.
+We_PRP can_MD further_RB use_VB the_DT resul_NN

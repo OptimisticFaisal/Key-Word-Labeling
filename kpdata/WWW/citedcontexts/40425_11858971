@@ -1,0 +1,4 @@
+ems_NNS ._.
+The_DT fundamental_JJ difference_NN between_IN these_DT models_NNS and_CC our_PRP$ ranking_JJ model_NN is_VBZ that_IN they_PRP still_RB rely_VBP on_IN conventional_JJ ranking_NN models_NNS and_CC do_VBP not_RB ``_`` personalize_VB ''_'' underlying_VBG statistics_NNS ._.
+Personalized_VBN PageRank_NN =_JJ -_: =[_NN 14_CD ,_, 17_CD ,_, 18_CD ,_, 6_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT personalization_NN model_NN specifically_RB studied_VBN in_IN web_NN search_NN ._.
+Instead_RB of_IN using_VBG uniform_JJ distributions_NNS for_IN all_PDT the_DT nodes_NNS at_IN the_DT initial_JJ state_NN ,_, the_DT personalized_VBN PageRank_NNP uses_VBZ a_DT set_NN of_IN query-specific_JJ no_DT

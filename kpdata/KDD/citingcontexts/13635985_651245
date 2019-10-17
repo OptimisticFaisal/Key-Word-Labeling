@@ -1,0 +1,5 @@
+the_DT generalization_NN of_IN the_DT classifier_NN ._.
+The_DT resulting_VBG optimization_NN turns_VBZ out_RP to_TO be_VB a_DT Second_NNP Order_NNP Cone_NNP Programming_NNP -LRB-_-LRB- SOCP_NNP -RRB-_-RRB- problem_NN ,_, which_WDT can_MD be_VB efficiently_RB solved_VBN using_VBG fast_JJ interior_NN points_NNS algorithms_VBZ =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT SOCP_NN problem_NN formulated_VBN as_RB above_RB has_VBZ k_NN linear_JJ inequalities_NNS and_CC one_CD SOC_NN constraint_NN ,_, where_WRB k_NN =_JJ k1_NN +_CC k2_NN ._.
+k1_NN ,_, k2_NN are_VBP the_DT number_NN of_IN components_NNS in_IN the_DT mixture_NN model_NN of_IN the_DT i_FW th_DT class_NN ._.
+Note_VB that_IN the_DT numb_JJ

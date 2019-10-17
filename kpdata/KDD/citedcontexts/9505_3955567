@@ -1,0 +1,4 @@
+Experiments_NNS We_PRP demonstrate_VBP results_NNS on_IN two_CD real-world_JJ datasets_NNS ._.
+The_DT first_JJ is_VBZ CLASSIC_NNP ,_, which_WDT is_VBZ a_DT bipartite_JJ graph_NN of_IN Usenet_NNP documents_NNS from_IN Cornell_NNP 's_POS SMART_JJ collection_NN ,_, and_CC the_DT words_NNS present_JJ in_IN them_PRP -LRB-_-LRB- see_VB =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT documents_NNS belong_VBP to_TO three_CD distinct_JJ groups_NNS :_: MEDLINE_NN -LRB-_-LRB- medicine_NN -RRB-_-RRB- ,_, CISI_NN -LRB-_-LRB- information_NN retrieval_NN -RRB-_-RRB- ,_, and_CC CRANFIELD_NNP -LRB-_-LRB- aerodynamics_NNS -RRB-_-RRB- ._.
+The_DT second_JJ is_VBZ GRANTS_NNP ,_, a_DT set_NN of_IN NSF_NN proposal_NN documents_NNS from_IN several_JJ dis_NN

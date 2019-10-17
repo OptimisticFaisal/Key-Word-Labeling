@@ -1,0 +1,4 @@
+varying_VBG from_IN 5_CD to_TO 50_CD and_CC found_VBD that_IN PAV_NN does_VBZ slightly_RB worse_JJR than_IN binning_VBG with_IN the_DT optimal_JJ number_NN of_IN bins_NNS ._.
+We_PRP also_RB applied_VBD each_DT method_NN to_TO the_DT Adult_NN dataset_NN ,_, which_WDT is_VBZ available_JJ in_IN the_DT UCI_NNP ML_NNP Repository_NNP =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT prediction_NN task_NN is_VBZ to_TO determine_VB whether_IN a_DT person_NN makes_VBZ over_IN $_$ 50K_CD a_DT year_NN ,_, given_VBN demographic_JJ information_NN about_IN the_DT person_NN ._.
+This_DT dataset_NN is_VBZ also_RB divided_VBN in_IN a_DT standard_JJ way_NN into_IN a_DT training_NN set_NN -LRB-_-LRB- 32561_CD

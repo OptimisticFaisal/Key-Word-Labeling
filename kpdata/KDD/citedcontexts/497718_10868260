@@ -1,0 +1,4 @@
+ggested_VBN by_IN Goldman_NNP et_FW al_FW -LRB-_-LRB- 1998_CD -RRB-_-RRB- ,_, where_WRB similarity_NN was_VBD evaluated_VBN according_VBG to_TO the_DT shortest_JJS path_NN between_IN objects_NNS ._.
+Later_JJ models_NNS include_VBP BANKS_NNS -LRB-_-LRB- Bhalotia_NNP et_FW al._FW 2002_CD -RRB-_-RRB- ,_, XRank_NN -LRB-_-LRB- Guo_NN et_FW al._FW 2003_CD -RRB-_-RRB- and_CC SimRank_NN -LRB-_-LRB- =_JJ -_: =_JJ Jeh_NNP and_CC Widom_NNP 2002_CD -_: =-]_CD ._.
+SimRank_NNP is_VBZ a_DT similarity_NN measure_NN adapted_VBN for_IN graphs_NNS describing_VBG relational_JJ data_NNS ._.
+In_IN this_DT model_NN ,_, objects_NNS are_VBP recursively_RB defined_VBN to_TO be_VB similar_JJ if_IN they_PRP are_VBP related_VBN 24_CD The_DT complexity_NN of_IN online_NN iterative_JJ

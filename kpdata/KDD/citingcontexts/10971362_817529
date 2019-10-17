@@ -1,0 +1,4 @@
+be_VB re-infected_VBN by_IN the_DT same_JJ malware_NN ,_, etc._NN ._.
+This_DT step_NN of_IN failure_NN detection_NN is_VBZ the_DT first_JJ step_NN of_IN the_DT software_NN quality_NN assurance_NN process_NN ._.
+After_IN a_DT failure_NN is_VBZ detected_VBN ,_, fault_NN localization_NN approaches_NNS ,_, e.g._FW ,_, =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT assume_VBP that_IN a_DT set_NN of_IN relevant_JJ failures_NNS are_VBP known_VBN ,_, can_MD then_RB be_VB employed_VBN to_TO localize_VB the_DT bug_NN inthe_NN code_NN ._.
+Failure_NN detection_NN techniques_NNS can_MD be_VB applied_VBN periodically_RB in_IN the_DT lifecycle_NN of_IN a_DT software_NN

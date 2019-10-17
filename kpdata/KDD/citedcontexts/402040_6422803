@@ -1,0 +1,5 @@
+ecause_NN of_IN the_DT incomplete_JJ of_IN knowledge_NN ,_, it_PRP is_VBZ a_DT PAC_NN learning_NN process_NN ._.
+However_RB ,_, in_IN some_DT real-problems_NNS ,_, we_PRP are_VBP not_RB sure_JJ whether_IN the_DT learning_NN rules_NNS exist_VBP or_CC not_RB ._.
+So_RB ,_, we_PRP have_VBP to_TO avoid_VB the_DT magical_JJ thinking_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: that_IN ,_, there_EX is_VBZ a_DT perfect_JJ rule_NN which_WDT can_MD cover_VB all_DT positive_JJ examples_NNS ._.
+b_NN -RRB-_-RRB- ._.
+Another_DT important_JJ problem_NN involved_VBN in_IN real-word_JJ data_NNS mining_NN ,_, that_DT is_VBZ ,_, whether_IN the_DT database_NN contains_VBZ the_DT useful_JJ or_CC appropriate_JJ

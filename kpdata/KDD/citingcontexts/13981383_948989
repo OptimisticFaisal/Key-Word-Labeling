@@ -1,0 +1,4 @@
+y_NN with_IN alphabet_NN size_NN ._.
+As_IN a_DT result_NN ,_, researchers_NNS have_VBP proposed_VBN focusing_VBG on_IN special_JJ cases_NNS of_IN partial_JJ orders_NNS -LRB-_-LRB- e.g._FW ,_, series-parallel_NN -RRB-_-RRB- to_TO make_VB the_DT problem_NN tractable_JJ -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Here_RB ,_, we_PRP present_VBP a_DT PQ_NNP tree_NN approach_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: for_IN finding_VBG a_DT recursive_JJ partial_JJ order_NN over_IN the_DT set_NN of_IN frequent_JJ serial_NN episodes_NNS over_IN the_DT same_JJ set_NN of_IN symbols_NNS ._.
+In_IN the_DT context_NN of_IN sequential_JJ data_NNS ,_, a_DT sequence_NN S_NN is_VBZ compatible_JJ with_IN a_DT partial_JJ order_NN α_NN ,_, if_IN f_SYM

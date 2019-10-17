@@ -1,0 +1,4 @@
+h_NN in_IN covariance_NN matrix_NN and_CC as_IN random_JJ variables_NNS ._.
+Figure_NN 2_CD illustrates_VBZ the_DT differences_NNS between_IN these_DT models_NNS ._.
+The_DT linear_JJ combination_NN of_IN random_JJ variables_NNS assumed_VBN in_IN MRGPs_NNS is_VBZ similar_JJ to_TO Singh_NNP and_CC Gordon_NNP 's_POS =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: generalization_NN of_IN linear_JJ models_NNS to_TO multi-relational_JJ domains_NNS ._.
+6_CD Conclusion_NN We_PRP developed_VBD a_DT nonparametric_JJ Bayesian_JJ framework_NN for_IN multi-relational_JJ data_NNS ,_, i.e._FW ,_, colored_JJ graphs_NNS based_VBN on_IN Gaussian_JJ processes_NNS ._.

@@ -1,0 +1,5 @@
+relation_NN clusters_NNS ._.
+Let_VB us_PRP note_VB that_DT none_NN of_IN the_DT proposed_VBN approaches_NNS to_TO correlation_NN clustering_NN provides_VBZ a_DT cluster_NN model_NN including_VBG an_DT explicit_JJ description_NN of_IN the_DT correlations_NNS within_IN the_DT cluster_NN ._.
+CURLER_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: aims_NNS at_IN detecting_VBG arbitrary_JJ ,_, non-linear_JJ correlations_NNS ._.
+It_PRP uses_VBZ the_DT concept_NN of_IN micro-clusters_NNS that_WDT are_VBP generated_VBN using_VBG an_DT EM_NN variant_NN and_CC then_RB are_VBP merged_VBN to_TO uncover_VB correlation_NN clusters_NNS ._.
+The_DT correlations_NNS

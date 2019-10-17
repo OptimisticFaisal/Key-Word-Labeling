@@ -1,0 +1,4 @@
+that_WDT incorporates_VBZ caching_NN is_VBZ much_RB more_RBR scalable_JJ in_IN terms_NNS of_IN efficiency_NN ._.
+Similar_JJ inefficiency_NN is_VBZ also_RB observed_VBN in_IN the_DT Privacy-Preserving_NNP Association_NNP Rule_NNP Mining_NNP -LRB-_-LRB- PPARM_NNP -RRB-_-RRB- algorithm_NN by_IN Vaidya_NNP and_CC Clifton_NNP =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+At_IN each_DT iteration_NN of_IN computing_VBG the_DT frequency_NN count_NN of_IN every_DT itemset_NN ,_, the_DT same_JJ data_NN vectors_NNS that_WDT are_VBP distributed_VBN among_IN different_JJ parties_NNS are_VBP used_VBN ._.
+Each_DT time_NN such_JJ vectors_NNS need_VBP to_TO be_VB used_VBN by_IN the_DT partie_NN

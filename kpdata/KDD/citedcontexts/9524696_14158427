@@ -1,0 +1,4 @@
+e_LS non-trivial_JJ features_NNS of_IN social_JJ networks_NNS including_VBG small_JJ network_NN diameter_NN ,_, high_JJ clustering_NN ,_, and_CC scale-free_JJ or_CC exponential_JJ degree_NN distribution_NN ._.
+The_DT scheme_NN is_VBZ also_RB known_VBN as_IN the_DT triangle-closing_JJ model_NN -LRB-_-LRB- =_JJ -_: =_JJ Leskovec_NNP et_FW al._FW ,_, 2008_CD -_: =--RRB-_NN ._.
+The_DT copying_NN mechanism_NN -LRB-_-LRB- Kumar_NNP et_FW al._FW ,_, 2000_CD -RRB-_-RRB- specifies_VBZ that_IN at_IN each_DT time_NN step_VB a_DT new_JJ node_NN is_VBZ added_VBN to_TO the_DT network_NN ._.
+The_DT new_JJ node_NN copies_NNS a_DT number_NN of_IN links_NNS from_IN a_DT prototype_NN node_NN that_WDT is_VBZ selected_VBN randomly_RB

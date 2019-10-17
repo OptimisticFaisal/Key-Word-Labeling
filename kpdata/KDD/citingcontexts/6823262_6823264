@@ -1,0 +1,5 @@
+ion_NN ._.
+The_DT binary_JJ constraints_NNS in_IN our_PRP$ model_NN optimization_NN is_VBZ a_DT special_JJ case_NN of_IN non-negativity_NN ._.
+The_DT clustering_NN model_NN also_RB shares_VBZ some_DT common_JJ characteristics_NNS with_IN probability_NN matrix_NN decomposition_NN models_NNS in_IN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ clustering_NN model_NN is_VBZ similar_JJ to_TO the_DT data_NNS and_CC feature_NN maps_NNS introduced_VBN in_IN -LRB-_-LRB- 41_CD -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- 41_CD -RRB-_-RRB- ,_, data_NNS and_CC feature_NN maps_NNS are_VBP two_CD functions_NNS from_IN the_DT data_NNS and_CC feature_NN sets_NNS to_TO the_DT number_NN of_IN clusters_NNS and_CC the_DT clu_NN

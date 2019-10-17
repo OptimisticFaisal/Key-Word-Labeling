@@ -1,0 +1,6 @@
+k_NN jX_NN i_LS -RRB-_-RRB- ,_, and_CC P_NN -LRB-_-LRB- R_NN i_FW jY_FW -RRB-_-RRB- ._.
+P_NN -LRB-_-LRB- X_NN i_LS -RRB-_-RRB- is_VBZ simply_RB the_DT fraction_NN of_IN movies_NNS X_NN i_FW rated_VBN ._.
+We_PRP used_VBD a_DT naive_JJ Bayes_NNP model_NN for_IN P_NN -LRB-_-LRB- R_NN j_NN jY_NN -RRB-_-RRB- ._.
+P_NN -LRB-_-LRB- Yk_NN jX_NN i_LS -RRB-_-RRB- ,_, P_NN -LRB-_-LRB- R_NN j_NN jY_NN -RRB-_-RRB- ,_, and_CC P_NN -LRB-_-LRB- X_NN i_LS -RRB-_-RRB- were_VBD all_DT smoothed_VBN using_VBG an_DT m-estimate_NN =_JJ -_: =[_NN 5_CD -_: =-]_NN with_IN m_NN =_JJ 1_CD and_CC the_DT population_NN average_NN as_IN the_DT prior_JJ ._.
+We_PRP did_VBD not_RB know_VB the_DT true_JJ values_NNS of_IN P_NN -LRB-_-LRB- M_NN i_FW jX_FW i_LS -RRB-_-RRB- ._.
+We_PRP expected_VBD marketing_NN to_TO have_VB a_DT larger_JJR eect_NN on_IN a_DT customer_NN who_WP was_VBD already_RB inclined_VBN to_TO see_VB the_DT movi_NN

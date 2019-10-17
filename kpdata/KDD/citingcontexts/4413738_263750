@@ -1,0 +1,3 @@
+s_NN generated_VBD using_VBG three_CD models_NNS :_: random_JJ networks_NNS as_IN defined_VBN by_IN Erdős_NNP and_CC Rényi_NNP -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, rewired_VBD lattices_NNS defined_VBN by_IN Watts_NNP and_CC Strogatz_NNP -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, and_CC the_DT Forest_NNP Fire_NNP graph_NN model_NN recently_RB introduced_VBN by_IN Leskovic_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+-LRB-_-LRB- See_VB Appendix_NN A_NN for_IN more_JJR detail_NN on_IN the_DT network_NN generation_NN procedures_NNS ._. -RRB-_-RRB-
+In_IN Figure_NNP 5_CD ,_, we_PRP compare_VBP the_DT performance_NN of_IN DEGREE_NN ,_, LANDMARK_NN ,_, ZONE_NN ,_, and_CC DTZ_NNP when_WRB implemented_VBN with_IN increasing_VBG numbers_NNS of_IN dimensio_NN

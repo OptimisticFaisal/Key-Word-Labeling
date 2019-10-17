@@ -1,0 +1,5 @@
+Let_VB X_NN be_VB a_DT discrete_JJ random_JJ variable_NN ,_, X_NN be_VB the_DT set_NN of_IN possible_JJ outcomes_NNS of_IN X_NN and_CC p_NN -LRB-_-LRB- x_NN -RRB-_-RRB- be_VB the_DT probability_NN mass_NN function_NN of_IN the_DT random_JJ variable_NN X._NNP The_NNP entropy_NN H_NN -LRB-_-LRB- X_NN -RRB-_-RRB- is_VBZ defined_VBN by_IN the_DT following_VBG expression_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+H_NN -LRB-_-LRB- X_NN -RRB-_-RRB- =_JJ \_FW Gamma_FW X_NN x2X_NN p_NN -LRB-_-LRB- x_NN -RRB-_-RRB- log_NN p_NN -LRB-_-LRB- x_NN -RRB-_-RRB- If_IN the_DT base_NN of_IN log_NN is_VBZ 2_CD ,_, the_DT unit_NN for_IN entropy_NN is_VBZ bit_NN ._.
+If_IN the_DT natural_JJ log_NN is_VBZ used_VBN ,_, the_DT unit_NN for_IN entropy_NN is_VBZ nat_NN ._.
+Note_VB that_IN 1_CD nat_NN =_JJ 1.44_CD bits_NNS -LRB-_-LRB- 34_CD -RRB-_-RRB- ._.
+When_WRB there_EX are_VBP more_JJR

@@ -1,0 +1,4 @@
+SI_NN for_IN dimension_NN reduction_NN with_IN bounded_VBN distance_NN distortion_NN error_NN ,_, the_DT method_NN of_IN Random_JJ Projection_NN -LRB-_-LRB- RP_NN -RRB-_-RRB- has_VBZ recently_RB received_VBN attention_NN from_IN the_DT machine_NN learning_NN and_CC information_NN retrieval_NN communities_NNS =_JJ -_: =[_NN 1_CD ,_, 4_CD ,_, 9_CD ,_, 12_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Unlike_IN LSI_NNP ,_, the_DT new_JJ dimensions_NNS in_IN RP_NN are_VBP generated_VBN randomly_RB -LRB-_-LRB- random_JJ linear_JJ combinations_NNS of_IN original_JJ terms_NNS -RRB-_-RRB- with_IN no_DT ordering_VBG of_IN ''_'' importance_NN ''_'' ._.
+The_DT new_JJ dimensions_NNS are_VBP only_RB approximately_RB orthogonal_JJ ._.
+How_WRB

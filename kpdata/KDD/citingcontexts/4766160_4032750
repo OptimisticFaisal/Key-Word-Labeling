@@ -1,0 +1,3 @@
+ormance_NN of_IN CAG_NN ,_, we_PRP have_VBP considered_VBN two_CD MCSC_NNP applications_NNS ,_, the_DT Minimum_NNP Rule_NNP Set_NNP -LRB-_-LRB- MRS_NNP -RRB-_-RRB- and_CC Minimum_NNP Clique_NNP Partition_NNP -LRB-_-LRB- MCP_NNP -RRB-_-RRB- problems_NNS ._.
+For_IN the_DT MRS_NNP problem_NN ,_, we_PRP compared_VBD CAG_NN with_IN a_DT popular_JJ rule_NN learner_NN AQ21_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT latest_JJS release_NN of_IN the_DT famous_JJ AQ_NN family_NN ,_, on_IN UCI_NN datasets_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+In_IN this_DT series_NN of_IN experiments_NNS ,_, RGB_NNP achieved_VBD about_IN 40_CD %_NN reduction_NN in_IN the_DT number_NN of_IN rules_NNS and_CC 30_CD %_NN reduction_NN in_IN the_DT number_NN of_IN conditions_NNS ._.

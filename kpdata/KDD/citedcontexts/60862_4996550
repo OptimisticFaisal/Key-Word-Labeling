@@ -1,0 +1,6 @@
+uning_NN -LRB-_-LRB- SPMM_NN -RRB-_-RRB- ,_, -LRB-_-LRB- ii_LS -RRB-_-RRB- confidence_NN pruning_NN -LRB-_-LRB- CPMM_NN -RRB-_-RRB- ,_, and_CC -LRB-_-LRB- iii_LS -RRB-_-RRB- error_NN pruning_NN -LRB-_-LRB- EPMM_NN -RRB-_-RRB- ._.
+After_IN experimentation_NN ,_, they_PRP proved_VBD that_IN the_DT pruning_NN techniques_NNS improved_VBD complexity_NN and_CC prediction_NN precision_NN ._.
+Cadez_FW et_FW ._.
+al._FW =_SYM -_: =_JJ -LRB-_-LRB- CGS00_NN -RRB-_-RRB- -_: =_SYM -_: as_RB well_RB as_IN Sen_NNP and_CC Hansen_NNP -LRB-_-LRB- SH03_NN -RRB-_-RRB- also_RB proposed_VBD the_DT use_NN of_IN mixed_JJ Markov_NNP models_NNS ._.
+Nanopoulos_NNP et_NNP ._.
+al._FW -LRB-_-LRB- NKM03_NN -RRB-_-RRB- present_VBP a_DT new_JJ framework_NN for_IN using_VBG prefetching_JJ algorithms_NNS as_IN markovian_JJ prediction_NN algorithms_NNS ._.

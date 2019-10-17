@@ -1,0 +1,5 @@
+-_: independent_JJ -LRB-_-LRB- e.g._FW DFT\/DWT_FW -RRB-_-RRB- ;_: static_JJ and_CC adaptive_JJ -LRB-_-LRB- 50_CD ,_, 31_CD -RRB-_-RRB- ;_: linear_JJ and_CC non-linear_JJ -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+In_IN data_NN stream_NN applications_NNS ,_, the_DT sketch-based_JJ dimension_NN reduction_NN technique_NN has_VBZ attracted_VBN more_JJR and_CC more_JJR interest_NN =_JJ -_: =[_NN 32_CD ,_, 37_CD ,_, 46_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Given_VBN different_JJ data_NNS representation_NN ,_, reduction_NN and_CC summarization_NN techniques_NNS ,_, choosing_VBG the_DT proper_JJ one_NN is_VBZ domain_NN -_: and_CC task-dependent_JJ ._.
+There_EX is_VBZ no_DT one-size-fits-all_JJ technique_NN ._.
+From_IN the_DT data_NNS summarizati_NNS

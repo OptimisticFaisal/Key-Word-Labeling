@@ -1,0 +1,4 @@
+al_FW pattern_NN recognition_NN ._.
+As_IN an_DT example_NN ,_, nearest_IN neighbor_NN determination_NN is_VBZ the_DT rate_NN determining_JJ step_NN in_IN Iterative_NNP Closest_NNP Point_NNP methods_NNS ,_, which_WDT are_VBP ubiquitous_JJ within_IN the_DT field_NN of_IN range_NN image_NN processing_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP will_MD assume_VB that_IN ~_FW pc_FW is_VBZ unique_JJ ._.
+We_PRP also_RB assume_VBP that_IN the_DT distance_NN metric_NN is_VBZ the_DT Euclidean_JJ distance_NN and_CC denote_VB it_PRP as_IN Dij_NN =_JJ j_NN ~_NNP pi_NNP ,_, ~_NNP pj_NNP j._NNP Note_VB that_IN the_DT acceleration_NN methods_NNS we_PRP propose_VBP apply_VB to_TO any_DT met_VBN

@@ -1,0 +1,4 @@
+000_CD and_CC number_NN of_IN permutations_NNS K_NN =_JJ 1_CD ,_, 000_CD ,_, the_DT number_NN of_IN ANOVA_NNP tests_NNS is_VBZ around_IN 5_CD ×_CD 10_CD 10_CD ._.
+Therefore_RB ,_, ANOVA_NNP test_NN is_VBZ often_RB reserved_JJ for_IN validating_VBG a_DT small_JJ set_NN of_IN candidates_NNS identified_VBN by_IN other_JJ methods_NNS =_JJ -_: =[_NN 17_CD ,_, 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP examine_VBP the_DT computational_JJ aspect_NN of_IN ANOVA_NNP test_NN ._.
+We_PRP present_VBP an_DT efficient_JJ algorithm_NN ,_, FastANOVA_NN ,_, and_CC show_VBP that_IN the_DT standard_JJ ANOVA_NNP test_NN can_MD be_VB applied_VBN in_IN genome-wide_JJ scale_NN for_IN two-locu_NN

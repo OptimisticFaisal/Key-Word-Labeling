@@ -1,0 +1,4 @@
+erge_NN steps_NNS only_RB if_IN they_PRP increase_VBP the_DT value_NN of_IN our_PRP$ target_NN function_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Since_IN the_DT proposed_VBN split_NN and_CC merge_VB steps_NNS are_VBP computed_VBN in_IN the_DT sparse_JJ EM_NN framework_NN ,_, the_DT convergence_NN of_IN our_PRP$ algorithm_NN follows_VBZ from_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ framework_NN is_VBZ very_RB general_JJ in_IN that_IN it_PRP allows_VBZ many_JJ possible_JJ selections_NNS of_IN the_DT candidate_NN components_NNS for_IN the_DT split_NN and_CC merge_VB steps_NNS ._.
+We_PRP present_VBP specific_JJ selection_NN methods_NNS of_IN the_DT candidate_NN components_NNS

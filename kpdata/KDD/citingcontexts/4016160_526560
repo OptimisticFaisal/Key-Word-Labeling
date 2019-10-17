@@ -1,0 +1,4 @@
+candidate_NN features_NNS ,_, and_CC does_VBZ another_DT round_NN of_IN linear_JJ regression_NN to_TO select_VB the_DT most_RBS significant_JJ subset_NN of_IN these_DT candidates_NNS ._.
+The_DT second_JJ method_NN -LRB-_-LRB- lasso_NN lambda_NN or_CC modified_VBN lasso_NN time_NN series_NN -RRB-_-RRB- sets_VBZ λ_NN as_IN in_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN completeness_NN ,_, we_PRP also_RB tested_VBD a_DT non-Grangerized_JJ version_NN of_IN lasso_NN -LRB-_-LRB- without_IN lagging_NN -RRB-_-RRB- called_VBD lasso_JJ standard_NN ._.
+3.3_CD The_DT SIN_NN Granger_NN Method_NN As_IN one_CD of_IN the_DT ``_`` baseline_NN ''_'' methods_NNS ,_, we_PRP consider_VBP the_DT ``_`` SIN_NNP ''_'' method_NN

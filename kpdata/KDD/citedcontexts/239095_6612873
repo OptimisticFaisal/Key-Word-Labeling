@@ -1,0 +1,3 @@
+factors_NNS 6_CD 4_CD New_NNP Interpretation_NNP to_TO the_DT standard_JJ SVM_NN in_IN vector_NN space_NN 8s1_NN Introduction_NN 1.1_CD related_JJ work_NN review_NN 1.1.1_CD SVM_NN Note_NN :_: SVM_NN has_VBZ high_JJ generalization_NN ability_NN 1.1.2_CD Proximal_JJ SVM_NN -LRB-_-LRB- PSVM_NN -RRB-_-RRB- Proximal_JJ SVM_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: do_VB an_DT extremely_RB fast_JJ SVM_NNP construction_NN ._.
+And_CC its_PRP$ support_NN vectors_NNS can_MD be_VB set_VBN to_TO the_DT whole_JJ training_NN data-set_NN ._.
+1.1.3_CD Semi-supervised_JJ -LRB-_-LRB- Transductive_JJ -RRB-_-RRB- SVM_NN TSVM_NN exhaustively_RB tests_VBZ the_DT label_NN assignment_NN of_IN any_DT t_NN

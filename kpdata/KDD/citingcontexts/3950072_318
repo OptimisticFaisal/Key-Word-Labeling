@@ -1,0 +1,5 @@
+roposed_VBN ._.
+It_PRP leverages_VBZ the_DT techniques_NNS found_VBN in_IN sequential_JJ pattern_NN mining_NN and_CC episode_NN mining_NN to_TO handle_VB software_NN specification_NN mining_NN ._.
+Sequential_JJ pattern_NN mining_NN first_RB addressed_VBN by_IN Agrawal_NNP and_CC Srikant_NNP in_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: discovers_VBZ temporal_JJ patterns_NNS that_WDT are_VBP supported_VBN by_IN a_DT significant_JJ number_NN of_IN sequences_NNS ._.
+A_DT pattern_NN is_VBZ supported_VBN by_IN a_DT sequence_NN if_IN it_PRP is_VBZ a_DT sub-sequence_NN of_IN it_PRP ._.
+It_PRP has_VBZ application_NN in_IN many_JJ areas_NNS ,_, from_IN analysi_NNS

@@ -1,0 +1,4 @@
+on_IN individually_RB ._.
+The_DT regularization_NN framework_NN we_PRP proposed_VBD is_VBZ closely_RB related_JJ to_TO graph-based_JJ semi-supervised_JJ learning_NN -LRB-_-LRB- 32_CD ,_, 30_CD ,_, 25_CD ,_, 31_CD -RRB-_-RRB- ,_, which_WDT usually_RB assume_VBP label_NN smoothness_NN over_IN the_DT graph_NN ._.
+Mei_FW et_FW al._FW =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: extend_VB the_DT graph_NN harmonic_JJ function_NN -LRB-_-LRB- 32_CD -RRB-_-RRB- to_TO multiple_JJ classes_NNS ._.
+However_RB ,_, our_PRP$ work_NN is_VBZ different_JJ from_IN theirs_PRP ,_, as_IN their_PRP$ tasks_NNS are_VBP mainly_RB used_VBN in_IN query-independent_JJ settings_NNS -LRB-_-LRB- i.e._FW ,_, semi-supervised_JJ classifica_NN

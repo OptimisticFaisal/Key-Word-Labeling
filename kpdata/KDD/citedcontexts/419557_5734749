@@ -1,0 +1,5 @@
+high_JJ confidence_NN may_MD not_RB be_VB possible_JJ in_IN general_JJ ._.
+We_PRP address_VBP this_DT limitation_NN in_IN our_PRP$ work_NN by_IN requiring_VBG only_RB a_DT subset_NN of_IN tokens_NNS to_TO be_VB labeled_VBN with_IN high-precision_NN ._.
+Other_JJ approaches_NNS -LRB-_-LRB- Sarawagi_NNP &_CC Cohen_NNP 2005_CD ;_: =_JJ -_: =_JJ Sarawagi_NNP &_CC Cohen_NNP 2004_CD -_: =--RRB-_NN employ_VBP database_NN or_CC created_VBN through_IN heuristic_NN methods_NNS or_CC the_DT use_NN of_IN an_DT inverted_JJ index_NN ._.
+These_DT associations_NNS may_MD also_RB be_VB created_VBN by_IN asking_VBG the_DT user_NN for_IN a_DT match\/non-match_NN label_NN ._.
+dictionary_NN lookups_NNS in_IN com_NN

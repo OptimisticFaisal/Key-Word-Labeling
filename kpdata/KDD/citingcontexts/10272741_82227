@@ -1,0 +1,4 @@
+vector_NN using_VBG histogram_NN with_IN different_JJ granularity_NN such_JJ that_IN the_DT dimensions_NNS can_MD be_VB reduced_VBN ._.
+Then_RB ,_, similarity_NN is_VBZ defined_VBN based_VBN on_IN the_DT histogram_NN representation_NN of_IN the_DT vectors_NNS using_VBG dynamic_JJ time_NN warping_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Suppose_VB the_DT click-through_JJ data_NNS is_VBZ segmented_JJ into_IN a_DT sequence_NN of_IN n_NN collections_NNS based_VBN on_IN the_DT user-defined_JJ time_NN granularity_NN ._.
+Then_RB there_EX will_MD be_VB a_DT sequence_NN of_IN n_NN strength_NN values_NNS represented_VBN as_IN a_DT vector_NN S_NN

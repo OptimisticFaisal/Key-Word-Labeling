@@ -1,0 +1,6 @@
+Wayne_NNP State_NNP Grid_NNP ._.
+2.2.1_CD Temporal_JJ Clustering_NN Studies_NNS in_IN -LRB-_-LRB- 17_CD ,_, 15_CD ,_, 12_CD -RRB-_-RRB- found_VBD the_DT skewness_NN of_IN failure_NN distribution_NN in_IN time_NN domain_NN ._.
+Multiple_JJ failures_NNS may_MD occur_VB in_IN a_DT short_JJ time_NN period_NN ._.
+Liang_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- and_CC Sahoo_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: used_VBD a_DT fix_NN time_NN window_NN to_TO classify_VB failure_NN patterns_NNS for_IN all_DT types_NNS of_IN failures_NNS ._.
+In_IN reality_NN ,_, the_DT time-between-failure_JJ -LRB-_-LRB- tb_FW f_FW -RRB-_-RRB- may_MD follow_VB various_JJ distributions_NNS for_IN different_JJ types_NNS of_IN failures_NNS ._.
+We_PRP profil_VBP

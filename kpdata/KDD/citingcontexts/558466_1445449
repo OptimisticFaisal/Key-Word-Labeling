@@ -1,0 +1,4 @@
+ith_NN 50_CD attributes_NNS can_MD be_VB represented_VBN in_IN a_DT 374x374_NN window_NN and_CC 10.000_CD objects_NNS with_IN 20_CD attributes_NNS fit_VBP into_IN a_DT 516x516_NN window_NN ._.
+We_PRP have_VBP developed_VBN a_DT color_NN scale_NN for_IN class_NN labels_NNS based_VBN on_IN the_DT HSI_NN color_NN model_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT variation_NN of_IN the_DT HSV_NN model_NN ._.
+The_DT HSI_NN model_NN represents_VBZ each_DT color_NN by_IN a_DT triple_JJ -LRB-_-LRB- hue_NN ,_, saturation_NN ,_, intensity_NN -RRB-_-RRB- ._.
+In_IN our_PRP$ experiments_NNS ,_, we_PRP observed_VBD the_DT most_RBS distinctly_RB perceived_VBN colors_NNS for_IN the_DT following_JJ par_NN

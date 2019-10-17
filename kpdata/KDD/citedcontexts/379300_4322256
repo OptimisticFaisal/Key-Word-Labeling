@@ -1,0 +1,5 @@
+high_JJ dimensional_JJ spaces_NNS -LRB-_-LRB- see_VB ,_, e.g._FW ,_, -LRB-_-LRB- 1,2_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Recent_JJ research_NN has_VBZ focused_VBN on_IN the_DT problem_NN of_IN finding_VBG hidden_JJ sub-structures_NNS in_IN large_JJ matrices_NNS composed_VBN by_IN thousands_NNS of_IN high_JJ dimensional_JJ vectors_NNS -LRB-_-LRB- see_VB ,_, e.g._FW ,_, =_JJ -_: =[_NN 4,30,29,3,32,7,27,21,25,20_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+This_DT problem_NN is_VBZ known_VBN as_IN biclustering_NN ._.
+In_IN biclustering_NN ,_, one_CD is_VBZ interested_JJ in_IN determining_VBG the_DT similarity_NN in_IN a_DT subset_NN of_IN the_DT dimensions_NNS -LRB-_-LRB- subset_NN that_WDT has_VBZ to_TO be_VB determined_VBN as_RB well_RB -RRB-_-RRB- ._.
+Although_IN there_EX exis_NNS

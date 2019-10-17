@@ -1,0 +1,4 @@
+d_NN by_IN one_CD if_IN it_PRP exists_VBZ in_IN the_DT transaction_NN ._.
+A_DT Hash-tree_JJ -LRB-_-LRB- 1,3_CD -RRB-_-RRB- data_NNS structure_NN can_MD be_VB used_VBN to_TO accelerate_VB direct_JJ checking_NN ._.
+Another_DT approach_NN projects_NNS each_DT candidate_NN generated_VBN into_IN a_DT vertical_JJ representation_NN =_JJ -_: =[_NN 8,14,15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT associates_VBZ an_DT occurrence_NN list_NN with_IN each_DT candidate_NN subtree_NN ._.
+If_IN transaction_NN based_VBN support_NN -LRB-_-LRB- 3,15_CD -RRB-_-RRB- is_VBZ used_VBN ,_, the_DT vertical_JJ format_NN will_MD consist_VB of_IN transaction_NN IDs_NNS of_IN the_DT transactions_NNS that_WDT support_VBP it_PRP ._.

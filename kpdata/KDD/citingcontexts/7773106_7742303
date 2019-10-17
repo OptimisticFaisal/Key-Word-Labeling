@@ -1,0 +1,5 @@
+ation_NN to_TO improve_VB classification_NN performance_NN ._.
+Our_PRP$ experiments_NNS in_IN Section_NNP 5_CD show_VBP that_IN both_DT approaches_NNS greatly_RB improve_VBP the_DT categorization_NN accuracy_NN ._.
+A_DT preliminary_JJ report_NN of_IN the_DT work_NN has_VBZ been_VBN presented_VBN in_IN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3.1_CD Modified_VBN Naive_JJ Bayes_NNPS algorithm_NN To_TO facilitate_VB the_DT discussion_NN ,_, Table_NNP 1_CD gives_VBZ an_DT example_NN of_IN the_DT system_NN log_NN files_NNS extracted_VBN from_IN a_DT windows_NNS XP_NN machine_NN 1_CD ._.
+In_IN the_DT example_NN ,_, four_CD columns_NNS ,_, i.e._FW ,_, Time_NNP ,_, Ev_NNP

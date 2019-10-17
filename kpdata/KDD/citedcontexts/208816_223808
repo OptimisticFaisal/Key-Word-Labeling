@@ -1,0 +1,4 @@
+n_NN other_JJ algorithms_NNS ,_, in_IN some_DT cases_NNS by_IN three_CD or_CC four_CD orders_NNS of_IN magnitude_NN ._.
+4_LS -RRB-_-RRB- Many_JJ parameterized_JJ algorithms_NNS require_VBP the_DT data_NNS to_TO be_VB in_IN a_DT special_JJ format_NN ._.
+For_IN concreteness_NN ,_, consider_VB time_NN series_NN data_NNS mining_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =-[_NN 20_CD -RRB-_-RRB- ._.
+Here_RB ,_, the_DT Euclidean_JJ distance_NN requires_VBZ that_IN the_DT dimensionality_NN of_IN two_CD instances_NNS being_VBG compared_VBN is_VBZ exactly_RB the_DT same_JJ ,_, and_CC Dynamic_NNP Time_NNP Warping_NNP -LRB-_-LRB- DTW_NNP -RRB-_-RRB- is_VBZ not_RB defined_VBN if_IN a_DT single_JJ data_NN point_NN is_VBZ missing_VBG

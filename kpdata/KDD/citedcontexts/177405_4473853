@@ -1,0 +1,4 @@
+ses_NNS not_RB from_IN P._NNP The_NNP key_JJ feature_NN of_IN this_DT problem_NN is_VBZ that_IN there_EX is_VBZ no_DT labeled_JJ negative_JJ example_NN ,_, which_WDT makes_VBZ traditional_JJ classification_NN techniques_NNS inapplicable_JJ ._.
+In_IN the_DT past_JJ two_CD years_NNS ,_, several_JJ techniques_NNS =_JJ -_: =[_NN 5_CD ,_, 7_CD ,_, 2_CD ,_, 3_CD ,_, 4_CD -RRB-_-RRB- -_: =_JJ -_: were_VBD proposed_VBN to_TO solve_VB the_DT problem_NN ._.
+These_DT techniques_NNS mainly_RB use_VBP a_DT two-step_JJ strategy_NN ._.
+The_DT first_JJ step_NN tries_VBZ to_TO identify_VB a_DT set_NN of_IN reliable_JJ negative_JJ documents_NNS from_IN U._NNP The_NNP second_JJ step_NN builds_VBZ a_DT classifier_NN

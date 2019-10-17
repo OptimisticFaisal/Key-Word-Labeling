@@ -1,0 +1,4 @@
+pression_NN is_VBZ computed_VBN in_IN a_DT bottom_NN up_RP compositional_JJ manner_NN resulting_VBG in_IN a_DT polarity_NN feature_NN for_IN the_DT span_NN of_IN text_NN ._.
+The_DT features_NNS and_CC rule_NN application_NN for_IN polarity_NN extraction_NN is_VBZ described_VBN in_IN full_JJ detail_NN in_IN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3.6_CD Fact_NN Extraction_NN Having_VBG each_DT message_NN tagged_VBD according_VBG to_TO the_DT topics_NNS and_CC polarity_NN identified_VBN within_IN the_DT message_NN allows_VBZ for_IN some_DT types_NNS of_IN analysis_NN ._.
+However_RB ,_, a_DT message-level_JJ tagging_NN does_VBZ not_RB allow_VB a_DT

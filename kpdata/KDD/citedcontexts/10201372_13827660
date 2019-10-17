@@ -1,0 +1,5 @@
+-RRB-_-RRB- -RRB-_-RRB- is_VBZ proposed_VBN to_TO learn_VB from_IN instances_NNS which_WDT have_VBP multiple_JJ views_NNS in_IN different_JJ feature_NN spaces_NNS ._.
+For_IN example_NN ,_, in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, a_DT framework_NN is_VBZ proposed_VBN to_TO reconcile_VB the_DT clustering_NN results_VBZ from_IN different_JJ views_NNS ._.
+In_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT term_NN called_VBN consensus_NN learning_NN is_VBZ proposed_VBN ._.
+The_DT general_JJ idea_NN is_VBZ to_TO perform_VB learning_VBG on_IN each_DT heterogeneous_JJ feature_NN space_NN independently_RB and_CC then_RB summarize_VB the_DT results_NNS via_IN ensemble_NN ._.
+Recently_RB ,_, -LRB-_-LRB- 7_CD -RRB-_-RRB- pro_NN

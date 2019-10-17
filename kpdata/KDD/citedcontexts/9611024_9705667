@@ -1,0 +1,6 @@
+._.
+We_PRP clean_VBP the_DT dataset_NN by_IN removing_VBG documents_NNS of_IN a_DT particular_JJ query_NN that_WDT has_VBZ conflicting_JJ relevance_NN labels_NNS ._.
+Cleaning_VBG also_RB involves_VBZ removing_VBG those_DT queries_NNS that_WDT have_VBP no_DT relevant_JJ document_NN -LRB-_-LRB- for_IN details_NNS see_VBP =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Yandex_NNP ._.
+Recently_RB ,_, a_DT Russian_JJ Internet_NN company_NN called_VBN Yandex_NNP has_VBZ released_VBN another_DT LETOR-like_JJ dataset_NN ,_, as_IN part_NN of_IN the_DT Internet_NNP Mathematics_NNP Contest_NNP 2009_CD 3_CD ._.
+Specific_JJ permission_NN was_VBD obtained_VBN from_IN the_DT pu_NN

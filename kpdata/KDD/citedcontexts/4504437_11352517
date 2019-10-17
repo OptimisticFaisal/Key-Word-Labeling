@@ -1,0 +1,5 @@
+Data_NN deduplication_NN identifies_VBZ and_CC eliminates_VBZ duplicate_VB data_NNS ._.
+Storage_NN space_NN requirements_NNS can_MD be_VB reduced_VBN by_IN a_DT factor_NN of_IN 10_CD to_TO 20_CD or_CC more_JJR when_WRB backup_JJ data_NNS is_VBZ deduplicated_VBN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Chunk-based_JJ deduplication_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: --_: -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, a_DT popular_JJ deduplication_NN technique_NN ,_, first_RB divides_VBZ input_NN data_NNS streams_NNS into_IN fixed_JJ or_CC variable-length_JJ chunks_NNS ._.
+Typical_JJ chunk_NN sizes_NNS are_VBP 4_CD to_TO 8_CD kB_NN ._.
+A_DT cryptographic_JJ hash_NN or_CC chunk_NN ID_NN of_IN each_DT chunk_NN is_VBZ use_NN

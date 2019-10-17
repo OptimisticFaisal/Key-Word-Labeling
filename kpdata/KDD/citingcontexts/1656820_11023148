@@ -1,0 +1,4 @@
+d_NN its_PRP$ relation_NN to_TO the_DT Euclidean_JJ norm_NN of_IN the_DT signal_NN -LRB-_-LRB- e.g._FW Riesz_FW property_NN -RRB-_-RRB- ._.
+For_IN the_DT application_NN at_IN hand_NN ,_, range_NN sum_NN queries_NNS ,_, the_DT main_JJ relevant_JJ ``_`` wavelet_NN feature_NN ''_'' is_VBZ the_DT ``_`` multiscale_JJ ''_'' or_CC pyramidal_JJ approach_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Of_IN course_NN ,_, for_IN higher_JJR order_NN range_NN queries_NNS such_JJ as_IN variance_NN and_CC covariance_NN queries_NNS ,_, other_JJ wavelets_NNS might_MD be_VB a_DT better_JJR choice_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Our_PRP$ main_JJ result_NN is_VBZ a_DT generalization_NN of_IN the_DT RPS_NN into_IN a_DT Pyramidal_NNP Relat_NNP

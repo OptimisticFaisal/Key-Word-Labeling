@@ -1,0 +1,4 @@
+fication_NN attacks_NNS in_IN the_DT context_NN of_IN transaction_NN data_NNS ._.
+-LRB-_-LRB- 21_CD -RRB-_-RRB- adopts_VBZ the_DT traditional_JJ l-diversity_NN model_NN and_CC employs_VBZ the_DT bucketization_NN approach_NN to_TO deal_VB with_IN the_DT high-dimensionality_JJ issue_NN ._.
+As_IN pointed_VBN out_RP by_IN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, bucketization_NN is_VBZ vulnerable_JJ to_TO background_NN knowledge_NN attacks_NNS due_JJ to_TO its_PRP$ property_NN of_IN preserving_VBG original_JJ items_NNS without_IN generalization_NN ._.
+-LRB-_-LRB- 22_CD -RRB-_-RRB- models_NNS attackers_NNS '_POS prior_JJ knowledge_NN as_IN subset_NN of_IN items_NNS ,_, simila_NN

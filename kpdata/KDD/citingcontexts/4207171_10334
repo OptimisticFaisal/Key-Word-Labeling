@@ -1,0 +1,3 @@
+ian_JJ data_NNS distribution_NN and_CC identifies_VBZ the_DT best_JJS hyper-plane_NN to_TO project_VB the_DT data_NNS onto_IN ,_, so_IN that_IN the_DT Euclidean_JJ projection_NN error_NN is_VBZ minimized_VBN ._.
+That_DT is_VBZ ,_, PCA_NNP finds_VBZ global_JJ correlation_NN structures_NNS of_IN a_DT data_NN set_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Recent_JJ work_NN have_VBP extended_VBN PCA_NNP to_TO identify_VB local_JJ correlation_NN structures_NNS that_WDT are_VBP linear_JJ -LRB-_-LRB- 5_CD -RRB-_-RRB- or_CC nonlinear_JJ -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, however_RB ,_, some_DT method-specific_JJ parameters_NNS such_JJ as_IN neighborhood_NN size_NN or_CC the_DT dimensionality_NN

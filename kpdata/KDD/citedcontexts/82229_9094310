@@ -1,0 +1,5 @@
+=_JJ Dist_NN -LRB-_-LRB- M_NN ,_, C_NN -RRB-_-RRB- ._.
+Although_IN there_EX are_VBP dozens_NNS of_IN distance_NN measures_NNS proposed_VBN for_IN time_NN series_NN in_IN the_DT literature_NN ,_, Euclidean_JJ distance_NN has_VBZ been_VBN shown_VBN to_TO outperform_VB many_JJ of_IN the_DT more_RBR complicated_JJ distance_NN measures_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Therefore_RB ,_, we_PRP will_MD use_VB Euclidean_JJ distance_NN as_IN our_PRP$ choice_NN of_IN distance_NN measure_NN in_IN this_DT paper_NN ._.
+Definition_NN 3_CD ._.
+Euclidean_NNP Distance_NNP :_: Given_VBN two_CD sequences_NNS Q_NNP and_CC C_NN of_IN length_NN n_NN ,_, the_DT Euclidean_JJ distance_NN between_IN t_NN

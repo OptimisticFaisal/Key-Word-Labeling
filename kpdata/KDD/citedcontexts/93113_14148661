@@ -1,0 +1,5 @@
+number_NN of_IN items_NNS in_IN an_DT FP-tree_NN is_VBZ small_JJ enough_RB ._.
+Another_DT possible_JJ solution_NN is_VBZ to_TO reduce_VB the_DT size_NN of_IN the_DT FParray_NN ._.
+This_DT can_MD be_VB done_VBN by_IN generating_VBG a_DT much_RB smaller_JJR set_NN of_IN candidate_NN large_JJ two-item_JJ sets_NNS as_IN in_IN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: and_CC only_RB store_NN in_IN memory_NN cells_NNS of_IN the_DT FP-array_NN corresponding_VBG to_TO a_DT two-item_JJ set_NN in_IN the_DT smaller_JJR set_NN ._.
+However_RB ,_, in_IN this_DT paper_NN ,_, we_PRP suppose_VBP the_DT main_JJ memory_NN is_VBZ big_JJ enough_RB for_IN all_DT FP-arrays_NNS ._.
+The_DT FP-array_NN tec_NN

@@ -1,0 +1,4 @@
+s_NN ,_, classical_JJ game_NN theory_NN is_VBZ concerned_VBN with_IN finding_VBG a_DT combination_NN of_IN strategies_NNS such_JJ that_IN neither_DT player_NN can_MD gain_VB by_IN unilaterally_RB changing_VBG its_PRP$ strategy_NN ._.
+This_DT combination_NN is_VBZ known_VBN as_IN a_DT Nash_NNP equilibrium_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN our_PRP$ case_NN ,_, the_DT actions_NNS are_VBP classifiers_NNS C_NN and_CC feature_NN change_NN strategies_NNS A_NN ,_, and_CC the_DT payoffs_NNS are_VBP UC_NN and_CC UA_NN ._.
+As_IN the_DT following_VBG theorem_NN shows_NNS ,_, some_DT realizations_NNS of_IN the_DT adversarial_JJ classification_NN game_NN al_FW

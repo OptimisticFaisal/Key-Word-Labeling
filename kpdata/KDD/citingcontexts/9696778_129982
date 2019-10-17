@@ -1,0 +1,4 @@
+s_NNS are_VBP becoming_VBG an_DT increasingly_RB important_JJ research_NN area_NN ._.
+We_PRP briefly_RB discuss_VBP related_JJ methods_NNS with_IN respect_NN to_TO their_PRP$ relevance_NN to_TO our_PRP$ work_NN ._.
+Among_IN the_DT early_JJ efforts_NNS in_IN email_NN prioritization_NN ,_, Horvitz_NNP et_FW al._FW =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: built_VBD an_DT email_NN alerting_VBG system_NN which_WDT used_VBD Support_NN Vector_NNP Machines_NNP to_TO classify_VB newly_RB arrived_VBN email_NN messages_NNS into_IN two_CD categories_NNS ,_, i.e._FW ,_, high_JJ or_CC low_JJ in_IN terms_NNS of_IN utility_NN ._.
+Probabilistic_JJ scores_NNS were_VBD also_RB p_NN

@@ -1,0 +1,3 @@
+lity_NN bability_NN 0.7_CD 0.6_CD 0.5_CD 0.4_CD 0.3_CD 0.2_CD 0.1_CD 0_CD 0.35_CD 0.65_CD 0_CD 1_CD Support_NN count_NN -LRB-_-LRB- b_NN -RRB-_-RRB- Figure_NNP 2_CD :_: Sample_FW p-FPs_FW derived_VBN from_IN Figure_NNP 1_CD other_JJ ._.
+Recently_RB ,_, 0_CD a_DT 1_CD Naïve_NNP Bayes_NNP classifier_NN has_VBZ been_VBN develSupport_JJ count_NN oped_VBD =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT goals_NNS of_IN this_DT paper_NN are_VBP :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- propose_VBP a_DT definition_NN of_IN frequent_JJ patterns_NNS and_CC association_NN rules_NNS for_IN the_DT tuple_JJ uncertainty_NN model_NN ;_: and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- develop_VB efficient_JJ algorithms_NNS for_IN mining_NN patterns_NNS and_CC rules_NNS t_NN

@@ -1,0 +1,4 @@
+imensional_JJ data_NNS ,_, such_JJ as_IN gene_NN expression_NN datasets_NNS ,_, where_WRB the_DT number_NN of_IN dimensions_NNS can_MD be_VB in_IN the_DT thousands_NNS and_CC the_DT search_NN space_NN is_VBZ huge_JJ ._.
+Previous_JJ techniques_NNS for_IN mining_NN contrasts_VBZ in_IN such_JJ datasets_NNS ,_, e.g._FW =_JJ -_: =[_NN 12_CD ,_, 9_CD ,_, 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, have_VBP been_VBN unable_JJ to_TO handle_VB more_JJR than_IN about_IN 60_CD dimensions_NNS ._.
+Another_DT challenge_NN arises_VBZ when_WRB contrast_NN patterns_NNS are_VBP allowed_VBN to_TO be_VB expressed_VBN using_VBG disjunction_NN ,_, as_RB well_RB as_IN conjunction_NN ._.
+This_DT means_VBZ the_DT patter_NN

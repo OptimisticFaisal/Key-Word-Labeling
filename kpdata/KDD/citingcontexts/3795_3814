@@ -1,0 +1,5 @@
+he_PRP constraints_NNS restrict_VBP the_DT items_NNS or_CC combination_NN of_IN items_NNS allowed_VBN to_TO participate_VB in_IN mined_VBN rules_NNS ._.
+This_DT approach_NN also_RB does_VBZ not_RB prune_VB those_DT insignificant_JJ rules_NNS and_CC does_VBZ not_RB summarize_VB the_DT unpruned_JJ rules_NNS ._.
+=_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: introduces_VBZ the_DT concept_NN of_IN association_NN rule_NN cover_NN for_IN pruning_NN association_NN rules_NNS ._.
+A_DT cover_NN is_VBZ basically_RB a_DT subset_NN of_IN the_DT discovered_VBN associations_NNS that_WDT can_MD cover_VB the_DT database_NN ._.
+The_DT number_NN of_IN rules_NNS in_IN a_DT cove_NN

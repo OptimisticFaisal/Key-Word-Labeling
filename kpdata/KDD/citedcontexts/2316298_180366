@@ -1,0 +1,5 @@
+enerally_RB yielded_VBD lower_JJR RE_NN c_NN ._.
+The_DT binary_JJ classification_NN problem_NN studied_VBN here_RB is_VBZ concerned_VBN with_IN assigning_VBG a_DT protein_NN to_TO one_CD of_IN two_CD families_NNS ._.
+This_DT problem_NN arises_VBZ frequently_RB in_IN protein_NN homology_NN detection_NN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT performance_NN of_IN our_PRP$ technique_NN degrades_VBZ when_WRB applied_VBN to_TO the_DT n-ary_JJ classification_NN problem_NN ,_, which_WDT is_VBZ concerned_VBN with_IN assigning_VBG a_DT protein_NN to_TO one_CD of_IN many_JJ families_NNS -LRB-_-LRB- 32_CD -RRB-_-RRB- ._.
+For_IN example_NN ,_, we_PRP applied_VBD the_DT tech_NN

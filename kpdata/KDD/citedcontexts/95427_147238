@@ -1,0 +1,6 @@
+the_DT means_NNS to_TO learn_VB from_IN large_JJ data_NNS sets_NNS and_CC stream_NN data_NNS -LRB-_-LRB- 3_CD ;_: 5_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ also_RB based_VBN on_IN adaptive_JJ re-sampling_NN ._.
+However_RB ,_, it_PRP uses_VBZ unweighted_JJ average_NN to_TO build_VB the_DT ensemble_NN classier_NN ._.
+Recently_RB Street_NNP and_CC Kim_NNP -LRB-_-LRB- =_JJ -_: =_JJ 2_CD -_: =_JJ -8_CD -RRB-_-RRB- proposed_VBD Streaming_NNP Ensemble_NNP Algorithm_NNP -LRB-_-LRB- SEA_NN -RRB-_-RRB- that_WDT learns_VBZ an_DT ensemble_NN of_IN decision_NN trees_NNS for_IN large-scale_JJ classication_NN ._.
+SEA_NN maintains_VBZ asxed_JJ number_NN of_IN classiers_NNS ._.
+Once_RB the_DT ensemble_NN becomes_VBZ full_JJ ,_, the_DT k-th_NN

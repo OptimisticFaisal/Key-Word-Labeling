@@ -1,0 +1,6 @@
+r_NN landmarks_NNS -LRB-_-LRB- enough_RB for_IN pose_VB estimation_NN -RRB-_-RRB- ._.
+The_DT camera_NN was_VBD previously_RB calibrated_VBN ._.
+A_DT CSG_NNP model_NN of_IN the_DT marionette_NN was_VBD created_VBN with_IN some_DT free_JJ parameters_NNS ,_, as_IN shown_VBN in_IN figure_NN 1_CD ._.
+A_DT set_NN of_IN constraints_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC =_JJ -_: =-LRB-_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: relating_VBG these_DT parameters_NNS to_TO the_DT position_NN of_IN the_DT landmarks_NNS in_IN 3D_NN space_NN was_VBD constructed_VBN ._.
+We_PRP chose_VBD a_DT gradient_NN descent_NN optimization_NN framework_NN for_IN partial_JJ constraint_NN fulfillment_NN ._.
+The_DT virtual_JJ marionette_FW i_FW

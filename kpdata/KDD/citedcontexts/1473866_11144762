@@ -1,0 +1,3 @@
+ht_NN of_IN these_DT drawbacks_NNS ,_, researchers_NNS have_VBP proposed_VBN string_NN similarity_NN measures_NNS that_WDT can_MD learn_VB from_IN provided_VBN example_NN pairs_NNS and_CC adapt_VB the_DT similarity_NN function_NN to_TO a_DT specific_JJ task_NN -LRB-_-LRB- Ristad_NNP and_CC Yianilos_NNP ,_, 1998_CD ;_: =_JJ -_: =_JJ Bilenko_NNP and_CC Mooney_NNP ,_, 2003_CD -_: =_JJ -_: ;_: McCallum_NNP et_FW al._FW ,_, 2005_CD ;_: Klementiev_NNP and_CC Roth_NNP ,_, 2006_CD -RRB-_-RRB- ._.
+One_CD particularly_RB successful_JJ approach_NN is_VBZ by_IN Bergsma_NNP and_CC Kondrak_NNP -LRB-_-LRB- 2007_CD -RRB-_-RRB- ,_, who_WP use_VBP discriminative_JJ learning_NN with_IN an_DT improved_VBN feature_NN representation_NN ._.
+The_DT

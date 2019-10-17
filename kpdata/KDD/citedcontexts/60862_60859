@@ -1,0 +1,4 @@
+Some_DT methods_NNS use_VBP simple_JJ object_NN relationships_NNS -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, while_IN other_JJ methods_NNS consider_VBP the_DT order_NN at_IN which_WDT requests_NNS are_VBP made_VBN ._.
+Some_DT of_IN them_PRP use_VBP Markov_NNP models_NNS as_IN a_DT framework_NN for_IN modeling_NN user_NN interactions_NNS -LRB-_-LRB- 19_CD -RRB-_-RRB- =_JJ -_: =_JJ -LRB-_-LRB- 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Those_DT methods_NNS would_MD not_RB work_VB for_IN our_PRP$ high-level_JJ datasets_NNS since_IN most_JJS of_IN the_DT sessions_NNS have_VBP small_JJ sizes_NNS ,_, 1_CD or_CC 2_CD requests_NNS at_IN most_JJS ._.
+iii_LS -RRB-_-RRB- Our_PRP$ approach_NN differs_VBZ from_IN classical_JJ clustering_NN techniques_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, fo_NN

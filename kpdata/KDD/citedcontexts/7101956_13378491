@@ -1,0 +1,6 @@
+rithms_NNS ,_, the_DT method_NN performs_VBZ really_RB good_JJ even_RB in_IN its_PRP$ raw_JJ form_NN ._.
+Various_JJ experiments_NNS have_VBP shown_VBN this_DT method_NN to_TO be_VB competitive_JJ with_IN Restricted_NNP Boltzmann_NNP Machines_NNP and_CC neighborhood-based_JJ estimation_NN methods_NNS =_JJ -_: =[_NN 2_CD ,_, 3_CD ,_, 5_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+IV_NNP ._.
+Experiments_NNS The_DT method_NN proposed_VBN above_IN has_VBZ many_JJ free_JJ parameters_NNS ._.
+Among_IN those_DT ,_, I_PRP experimented_VBD with_IN the_DT number_NN of_IN features_NNS used_VBN ,_, the_DT learning_NN rate_NN ,_, and_CC the_DT regularization_NN parameter_NN ._.
+I_PRP also_RB tried_VBD tw_NN

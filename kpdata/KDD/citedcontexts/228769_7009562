@@ -1,0 +1,6 @@
+the_DT clustering_NN process_NN ._.
+Such_JJ constraints_NNS are_VBP automatically_RB imposed_VBN in_IN our_PRP$ case_NN of_IN graph_NN partitioning_VBG with_IN patterns_NNS as_IN vertices_NNS ._.
+There_EX have_VBP been_VBN other_JJ clustering_NN approaches_NNS based_VBN on_IN frequent_JJ itemsets_NNS =_JJ -_: =[_NN 5_CD ,_, 19_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP are_VBP quite_RB different_JJ from_IN ours_PRP ,_, for_IN we_PRP start_VBP directly_RB with_IN sets_NNS of_IN correlated_JJ objects_NNS which_WDT may_MD not_RB be_VB frequent_JJ ._.
+Besides_IN ,_, they_PRP are_VBP not_RB pattern_NN preserving_NN ._.
+Since_IN agglomerative_JJ clustering_NN approach_NN

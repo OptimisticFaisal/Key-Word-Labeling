@@ -1,0 +1,4 @@
+es_IN a_DT loss-function_NN based_VBN on_IN an_DT active_JJ set_NN of_IN currently_RB selected_VBN features_NNS using_VBG path_NN regularization_NN ._.
+Another_DT class_NN of_IN discriminative_JJ pattern_NN mining_NN approaches_NNS for_IN graph_NN mining_NN was_VBD proposed_VBN by_IN -LRB-_-LRB- 37_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: who_WP use_VBP a_DT decision-tree_NN like_IN classifer_NN ._.
+For_IN a_DT given_VBN dataset_NN ,_, -LRB-_-LRB- 11_CD -RRB-_-RRB- iteratively_RB mine_JJ for_IN the_DT most_RBS meaningful_JJ feature_NN according_VBG to_TO information_NN gain_NN ,_, and_CC split_VBD this_DT dataset_NN into_IN two_CD separate_JJ problems_NNS ._.
+Th_NN

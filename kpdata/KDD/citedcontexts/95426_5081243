@@ -1,0 +1,8 @@
+approaches_NNS are_VBP also_RB called_VBN segmentation_NN algorithms_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Trigger-insensitive_JJ approaches_NNS do_VBP not_RB explicitly_RB detect_VB triggers_NNS ._.
+Instead_RB ,_, they_PRP continuously_RB adapt_VBP the_DT current_JJ model_NN to_TO newly_RB coming_VBG instances_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Incremental_JJ vs._NN Batch_NN ._.
+Incremental_JJ approaches_NNS process_NN coming_VBG instances_NNS one_CD by_IN one_CD ._.
+Batch_NN approaches_VBZ exam_NN a_DT batch_NN of_IN instances_NNS at_IN once_RB -LRB-_-LRB- 7_CD ,_, 10_CD ,_, 13_CD -RRB-_-RRB- ._.
+Historical_JJ vs._NN Contemporary_NNP ._.
+After_IN a_DT trigger_NN is_VBZ det_NN

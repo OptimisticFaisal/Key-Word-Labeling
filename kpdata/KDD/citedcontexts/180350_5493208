@@ -1,0 +1,5 @@
+similarity_NN of_IN time-series_JJ data_NNS in_IN data_NNS mining_NN ._.
+The_DT idea_NN is_VBZ to_TO allow_VB stretching_VBG in_IN time_NN in_IN order_NN to_TO get_VB a_DT better_JJR distance_NN ._.
+Recently_RB ,_, indexing_NN techniques_NNS for_IN this_DT similarity_NN measure_NN have_VBP been_VBN proposed_VBN =_JJ -_: =[_NN 28,34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Other_JJ techniques_NNS to_TO define_VB time_NN series_NN similarity_NN extract_NN certain_JJ features_NNS -LRB-_-LRB- Landmarks_NNS -LRB-_-LRB- 36_CD -RRB-_-RRB- or_CC signatures_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- -RRB-_-RRB- from_IN each_DT time-series_NNS and_CC then_RB use_VB these_DT features_NNS to_TO define_VB the_DT similarity_NN ._.
+An_DT interest_NN

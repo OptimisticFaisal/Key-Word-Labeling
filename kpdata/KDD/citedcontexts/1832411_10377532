@@ -1,0 +1,3 @@
+propose_VB a_DT new_JJ traversal_JJ approach_NN for_IN the_DT itemset_NN lattice_NN called_VBD leap-traversal_JJ ._.
+Based_VBN on_IN this_DT approach_NN we_PRP propose_VBP aframework_NN of_IN efficient_JJ algorithms_NNS ,_, founded_VBN on_IN our_PRP$ previously_RB proposed_VBN COFI-trees_NNS in_IN =_JJ -_: =[_NN 3_CD ,_, 4_CD -RRB-_-RRB- -_: =_JJ -_: and_CC FP-trees_NNS presented_VBN in_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, for_IN finding_VBG closed_JJ ,_, maximal_JJ ,_, and_CC all_DT patterns_NNS called_VBN COFI-CLOSED_NNP ,_, COFIMAX_NNP ,_, and_CC COFI-ALL_NN ,_, forming_VBG the_DT YAFIMA_NN package_NN -LRB-_-LRB- Yet_CC Another_DT Frequent_JJ Itemset_NNP Mining_NNP Algorithms_NNPS -RRB-_-RRB- ._.
+T_NN

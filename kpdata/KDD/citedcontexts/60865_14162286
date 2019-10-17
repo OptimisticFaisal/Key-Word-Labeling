@@ -1,0 +1,4 @@
+ed_VBN using_VBG Expectation_NN -_: Maximization_NN ._.
+The_DT approach_NN outperforms_VBZ majority_NN voting_NN on_IN several_JJ image_NN datasets_NNS ._.
+For_IN the_DT sake_NN of_IN comparison_NN ,_, we_PRP compare_VBP GLAD_NN with_IN Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- ,_, using_VBG SVM_NN Light_NN =_JJ -_: =[_NN 43_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+SVM_NN is_VBZ a_DT supervised_JJ learning_NN method_NN that_WDT learns_VBZ a_DT classifier_NN fromTitle_NN Suppressed_VBD Due_JJ to_TO Excessive_JJ Length_NN 13_CD ground_NN truth_NN labels_NNS on_IN a_DT training_NN set_NN ,_, where_WRB each_DT training_NN instance_NN is_VBZ represented_VBN by_IN fe_NN

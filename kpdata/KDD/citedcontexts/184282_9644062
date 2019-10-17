@@ -1,0 +1,4 @@
+ime_NN 4complexity_NN of_IN O_NN -LRB-_-LRB- nd_NN 2_CD -RRB-_-RRB- +_CC O_NN -LRB-_-LRB- d_NN 3_CD -RRB-_-RRB- ,_, which_WDT is_VBZ not_RB suitable_JJ for_IN high_JJ dimensional_JJ data_NNS ._.
+So_RB a_DT computationally_RB simpler_JJR but_CC less_RBR accurate_JJ dimension_NN reduction_NN method_NN ,_, the_DT random_JJ projection_NN ,_, was_VBD proposed_VBN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT projection_NN can_MD be_VB represented_VBN as_IN Y_NN =_JJ XM_NNP ,_, where_WRB X_NN is_VBZ the_DT n_NN ∗_FW d_FW original_JJ dataset_NN ,_, M_NN is_VBZ a_DT d_FW ∗_FW e_LS randomized_VBN matrix_NN ,_, e_SYM is_VBZ the_DT dimension_NN after_IN reduction_NN ._.
+The_DT elements_NNS of_IN M_NN are_VBP i.i.d._JJ samples_NNS of_IN a_DT cer_NN

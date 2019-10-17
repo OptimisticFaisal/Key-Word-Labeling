@@ -1,0 +1,5 @@
+consists_VBZ in_IN representing_VBG the_DT dataset_NN vertically_RB by_IN giving_VBG to_TO each_DT item_NN its_PRP$ tidset_NN ,_, i.e._FW the_DT set_NN of_IN transactions_NNS containing_VBG this_DT item_NN ._.
+Another_DT recent_JJ vertical_JJ format_NN named_VBN Diffset_NNP has_VBZ been_VBN proposed_VBN in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP consists_VBZ in_IN keeping_VBG only_JJ track_NN of_IN differences_NNS between_IN tidsets_NNS ._.
+•_NN Bitvectors_NNS :_: Bitvectors_NNS are_VBP used_VBN in_IN the_DT algorithm_NN Mafia_NNP -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC Viper_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+This_DT format_NN consists_VBZ in_IN representing_VBG data_NNS as_IN bitvectors_NNS

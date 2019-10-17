@@ -1,0 +1,5 @@
+ampling_NN -LRB-_-LRB- 8_CD ,_, 9_CD -RRB-_-RRB- ._.
+Since_IN its_PRP$ introduction_NN there_EX have_VBP been_VBN many_JJ enhancements_NNS to_TO the_DT basic_JJ algorithm_NN ._.
+These_DT include_VBP Weighted_JJ Uncertainty_NN Sampling_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, Error_NN Reduction_NN Sampling_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, and_CC Adaptive_JJ Sampling_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS of_IN these_DT perform_VBP additional_JJ computation_NN to_TO choose_VB a_DT better_JJR sample_NN in_IN order_NN to_TO reduce_VB the_DT number_NN of_IN queries_NNS required_VBN to_TO achieve_VB a_DT given_VBN error_NN rate_NN ._.
+The_DT algorithm_NN described_VBN in_IN this_DT paper_NN could_MD be_VB

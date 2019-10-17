@@ -1,0 +1,3 @@
+and_CC -LRB-_-LRB- 9_CD ,_, 6237_CD -RRB-_-RRB- rules_NNS using_VBG confidence_NN ;_: a_DT more_RBR reasonable_JJ number_NN of_IN rules_NNS to_TO manage_VB ._.
+Although_IN there_EX are_VBP techniques_NNS for_IN pruning_NN and_CC aggregating_VBG association_NN rules_NNS ,_, such_JJ as_IN using_VBG closed_JJ frequent_JJ itemsets_NNS =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: ,_, seeking_VBG highly_RB correlated_VBN itemsets_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, and_CC dimension_NN hierarchies_NNS ,_, these_DT techniques_NNS can_MD still_RB return_VB a_DT larger_JJR number_NN of_IN rules_NNS than_IN our_PRP$ method_NN ._.
+For_IN example_NN ,_, in_IN the_DT Mushroom_NN dataset_NN at_IN θ_NN =_JJ 0.1_CD ,_, Aprior_NNP

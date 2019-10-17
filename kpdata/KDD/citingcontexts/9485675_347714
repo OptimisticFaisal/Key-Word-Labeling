@@ -1,0 +1,3 @@
+x_NN -RRB-_-RRB- and_CC multiple_JJ output_NN variables_NNS ,_, so_IN the_DT basic_JJ setting_NN is_VBZ different_JJ from_IN our_PRP$ problem_NN ._.
+The_DT ``_`` clustering_NN ''_'' assumption_NN in_IN our_PRP$ work_NN is_VBZ exploited_VBN in_IN some_DT transfer_NN learning_NN and_CC semi-supervised_JJ learning_NN works_VBZ =_JJ -_: =[_NN 9_CD ,_, 28_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB clustering_NN structure_NN is_VBZ utilized_VBN in_IN smoothing_VBG predictions_NNS among_IN neighbors_NNS ._.
+Our_PRP$ paper_NN differs_VBZ from_IN these_DT papers_NNS by_IN utilizing_VBG the_DT assumption_NN in_IN weighting_NN different_JJ models_NNS locally_RB to_TO combine_VB all_DT

@@ -1,0 +1,6 @@
+1_CD is_VBZ computed_VBN by_IN the_DT Euclidean_JJ projection_NN πG_NN -LRB-_-LRB- ._. -RRB-_-RRB- ._.
+In_IN our_PRP$ problem_NN ,_, G_NN =_JJ -LCB-_-LRB- x_NN ∈_NN R_NN n_NN |_NN ‖_CD x_CC ‖_CD 1_CD ≤_CD z_SYM -RCB-_-RRB- is_VBZ the_DT ℓ1-ball_NN ,_, and_CC thus_RB πG_NN -LRB-_-LRB- ._. -RRB-_-RRB-
+is_VBZ the_DT Euclidean_JJ projection_NN onto_IN the_DT ℓ1-ball_NN ._.
+We_PRP make_VBP use_NN of_IN method_NN proposed_VBN in_IN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: for_IN computing_VBG the_DT projection_NN ._.
+Second_RB ,_, the_DT condition_NN in_IN Step_NN 6_CD is_VBZ replaced_VBN with_IN g_NN -LRB-_-LRB- xk_NN +1_CD -RRB-_-RRB- ≤_CD g_NN -LRB-_-LRB- sk_NN -RRB-_-RRB- +_CC 〈_CD g_NN ′_NN -LRB-_-LRB- sk_NN -RRB-_-RRB- ,_, xk_FW +1_FW −_FW sk_FW 〉_FW +_CC Lk_NN 2_CD |_FW |_FW xk_FW +1_FW −_FW sk_FW |_FW |_NN 2_CD ._.
+When_WRB this_DT condition_NN holds_VBZ ,_, we_PRP say_VBP that_IN Lk_NN is_VBZ ``_`` appropriat_NN

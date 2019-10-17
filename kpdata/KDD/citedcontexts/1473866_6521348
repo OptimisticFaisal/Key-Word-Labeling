@@ -1,0 +1,4 @@
+tributes_NNS taking_VBG into_IN account_NN such_JJ inter-dependencies_NNS ._.
+However_RB ,_, the_DT kind_NN of_IN inter-dependencies_NNS that_IN they_PRP define_VBP do_VBP not_RB exist_VB in_IN our_PRP$ datasets_NNS ._.
+Learnable_JJ similarity_NN measures_NNS for_IN strings_NNS are_VBP presented_VBN in_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: based_VBN on_IN support_NN vector_NN machines_NNS and_CC expectation_NN maximization_NN and_CC applied_VBD for_IN duplicate_VB detection_NN ._.
+However_RB ,_, they_PRP deal_VBP with_IN natural_JJ language_NN text_NN strings_NNS and_CC the_DT involved_VBN semantics_NNS ,_, while_IN our_PRP$ data_NNS is_VBZ

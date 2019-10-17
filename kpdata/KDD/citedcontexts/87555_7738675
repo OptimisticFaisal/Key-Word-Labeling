@@ -1,0 +1,5 @@
+feature_NN is_VBZ identified_VBN by_IN its_PRP$ number_NN in_IN the_DT x-axis_NN ._.
+The_DT thick_JJ line_NN corresponds_VBZ to_TO the_DT average_JJ value_NN of_IN the_DT first_JJ descriptor_NN for_IN class_NN contraction_NN ._.
+ified_VBN sampling_NN -LRB-_-LRB- Chawla_NNP ,_, 2003_CD -RRB-_-RRB- and_CC cost_NN manipulation_NN -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP ,_, 1999_CD -_: =_JJ -_: ;_: Maloof_NNP ,_, 2003_CD ;_: Ling_NNP and_CC Li_NNP ,_, 1998_CD -RRB-_-RRB- ._.
+Decision_NN trees_NNS -LRB-_-LRB- Zadrozny_NNP and_CC Elkan_NNP ,_, 2001_CD -RRB-_-RRB- and_CC classifier_NN ensembles_NNS -LRB-_-LRB- Tan_NNP et_FW al._FW ,_, 2003_CD -RRB-_-RRB- have_VBP been_VBN adapted_VBN to_TO imbalanced_JJ problems_NNS too_RB ._.
+Semi-supervised_JJ techniques_NNS have_VBP

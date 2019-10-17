@@ -1,0 +1,3 @@
+pendence_NN models_NNS were_VBD proposed_VBN for_IN selectivity_NN query_NN estimation_NN on_IN real-valued_JJ data_NNS sets_NNS from_IN relatively_RB low-dimensional_JJ data_NN cubes_NNS -LRB-_-LRB- 5_CD or_CC fewer_JJR dimensions_NNS -RRB-_-RRB- -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+Generalized_NNP queries_NNS were_VBD considered_VBN by_IN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: in_IN the_DT context_NN of_IN language_NN modeling_NN using_VBG context_NN free_JJ grammars_NNS ._.
+To_TO our_PRP$ knowledge_NN ,_, our_PRP$ paper_NN is_VBZ the_DT first_JJ to_TO directly_RB address_VB the_DT problem_NN of_IN generalization_NN queries_NNS for_IN large_JJ high-dimensional_JJ transact_VB

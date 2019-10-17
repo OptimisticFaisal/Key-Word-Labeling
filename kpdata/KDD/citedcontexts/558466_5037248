@@ -1,0 +1,4 @@
+all_PDT the_DT sub-sequences_NNS that_WDT appear_VBP frequently_RB given_VBN that_IN ordering_VBG will_MD help_VB us_PRP predict_VB what_WP will_MD happen_VB next_JJ -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+•_NNP Building_NNP decision_NN trees_NNS :_: Decision_NN trees_NNS are_VBP used_VBN in_IN classification-related_JJ problems_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT decision_NN tree_NN is_VBZ a_DT tree_NN representation_NN of_IN a_DT decision_NN procedure_NN for_IN assigning_VBG a_DT class_NN label_NN to_TO a_DT given_VBN example_NN ,_, which_WDT distinguishes_VBZ one_CD group_NN from_IN another_DT ._.
+There_EX is_VBZ a_DT test_NN at_IN each_DT internal_JJ node_NN of_IN

@@ -1,0 +1,4 @@
+ion_NN between_IN the_DT two_CD similarity_NN matrices_NNS ._.
+5_CD As_IN default_NN ,_, we_PRP use_VBP the_DT Jaccard_NNP coefficient_NN ._.
+The_DT Jaccard_NNP coefficient_NN is_VBZ a_DT popular_JJ ,_, proven_JJ ,_, and_CC scalable_JJ method_NN of_IN measuring_VBG similarity_NN between_IN Web_NN documents_NNS -LRB-_-LRB- =_JJ -_: =_JJ Haveliwala_NNP et_FW al._FW ,_, 2002_CD -_: =--RRB-_NN ,_, and_CC it_PRP has_VBZ been_VBN used_VBN in_IN co-citation_NN -LRB-_-LRB- Small_NNP and_CC Greenlee_NNP ,_, 1980_CD -RRB-_-RRB- as_RB well_RB as_IN bibliographic-coupling_JJ -LRB-_-LRB- Bani-Ahmad_JJ et_FW al._FW ,_, 2005_CD -RRB-_-RRB- analyses_NNS ._.
+The_DT resulting_VBG similarity_NN values_NNS are_VBP then_RB derived_VBN from_IN the_DT combin_NN

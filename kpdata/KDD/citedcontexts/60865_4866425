@@ -1,0 +1,4 @@
+set_VBN ǫ_NN =_JJ 1_CD since_IN any_DT positive_JJ value_NN would_MD lead_VB to_TO the_DT same_JJ optimization_NN problem_NN -RRB-_-RRB- ._.
+This_DT margin_NN criterion_NN is_VBZ inspired_VBN from_IN the_DT ranking_JJ SVM_NN approach_NN ,_, which_WDT has_VBZ successfully_RB been_VBN applied_VBN to_TO text_NN retrieval_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ model_NN is_VBZ however_RB different_JJ from_IN ranking_JJ SVM_NN in_IN both_DT its_PRP$ parameterization_NN and_CC its_PRP$ optimization_NN procedure_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+In_IN fact_NN ,_, we_PRP use_VBP the_DT online_JJ Passive-Aggressive_JJ minimization_NN algorithm_NN which_WDT does_VBZ not_RB r_NN

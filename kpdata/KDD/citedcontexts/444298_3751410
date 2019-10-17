@@ -1,0 +1,5 @@
+._.
+The_DT size_NN of_IN the_DT class_NN T_NN P_NN -LRB-_-LRB- D_NN ,_, τ_NN ,_, σ_NN -RRB-_-RRB- is_VBZ highly_RB sensitive_JJ to_TO the_DT values_NNS of_IN the_DT two_CD parameters_NNS ._.
+A_DT way_NN to_TO ameliorate_VB this_DT problem_NN is_VBZ to_TO use_VB a_DT top-k_NN algorithm_NN similar_JJ to_TO that_DT developed_VBN for_IN dense_JJ itemsets_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP remarked_VBD in_IN the_DT previous_JJ section_NN that_IN in_IN random_JJ data_NNS trees_NNS of_IN small_JJ depth_NN can_MD have_VB low_JJ conflict_NN count_NN ._.
+It_PRP is_VBZ straightforward_JJ to_TO modify_VB the_DT above_JJ algorithm_NN to_TO construct_VB only_RB ,_, e.g._FW ,_, binary_JJ trees_NNS ,_, t_NN

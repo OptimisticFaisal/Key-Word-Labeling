@@ -1,0 +1,4 @@
+gonal_NN blocks_VBZ Aii_NNP ,_, while_IN the_DT off-diagonal_JJ blocks_NNS Aij_NNP will_MD contain_VB only_RB a_DT few_JJ edges_NNS ._.
+We_PRP would_MD like_VB to_TO remark_VB that_IN not_RB all_DT graphs_NNS contain_VBP natural_JJ clusters_NNS ,_, but_CC many_JJ graphs_NNS are_VBP clusterable_JJ to_TO some_DT extent_NN =_JJ -_: =[_NN 18_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT is_VBZ the_DT case_NN for_IN graphs_NNS arising_VBG in_IN many_JJ real-world_JJ applications_NNS ,_, for_IN example_NN ,_, see_VBP Table_NNP 1_CD ._.
+We_PRP will_MD give_VB a_DT comparison_NN with_IN other_JJ methods_NNS that_IN involving_VBG clustering_NN in_IN Section_NN 3.4_CD after_IN we_PRP have_VBP pre_JJ

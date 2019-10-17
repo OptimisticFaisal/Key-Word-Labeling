@@ -1,0 +1,5 @@
+applications_NNS ._.
+However_RB ,_, ν-semantics_NN unlocks_VBZ its_PRP$ full_JJ potential_NN when_WRB combined_VBN with_IN a_DT language_NN more_RBR expressive_JJ than_IN OWL_NN ._.
+For_IN example_NN ,_, by_IN combining_VBG ν-semantics_NNS with_IN the_DT Semantic_JJ Web_NN Rule_NN Language_NN -LRB-_-LRB- SWRL_NN -RRB-_-RRB- =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, one_PRP can_MD explicitly_RB axiomatize_VB the_DT semantics_NNS of_IN metaconcepts_NNS ._.
+Consider_VB the_DT example_NN from_IN Section_NN 1_CD ._.
+By_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- we_PRP state_VBP that_IN Eagle_NNP is_VBZ an_DT RedListSpecies_NNP ,_, and_CC by_IN a_DT SWRL_NN rule_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- we_PRP state_VBP that_IN instances_NNS of_IN

@@ -1,0 +1,5 @@
+ks_NNS ._.
+We_PRP refer_VBP to_TO each_DT such_JJ block_NN as_IN a_DT co-cluster_NN ._.
+A_DT fundamental_JJ quantity_NN that_WDT measures_VBZ the_DT amount_NN of_IN information_NN random_JJ variable_NN X_NN contains_VBZ about_IN Y_NN -LRB-_-LRB- and_CC vice_NN versa_RB -RRB-_-RRB- is_VBZ the_DT mutual_JJ information_NN I_CD -LRB-_-LRB- X_NN ;_: Y_NN -RRB-_-RRB- =_JJ -_: =[_NN 3_CD -_: =-]_CD ._.
+We_PRP will_MD judge_VB the_DT quality_NN of_IN a_DT co-clustering_NN by_IN the_DT resulting_VBG loss_NN in_IN mutual_JJ information_NN ,_, I_NN -LRB-_-LRB- X_NN ;_: Y_NN -RRB-_-RRB- I_NN -LRB-_-LRB- ^_NN X_NN ;_: ^_CD Y_NN -RRB-_-RRB- -LRB-_-LRB- any_DT non-trivial_JJ coclustering_NN lowers_VBZ mutual_JJ information_NN ,_, see_VBP Lemma_NNP 2.1_CD below_IN -RRB-_-RRB- ._.
+Den_NNP

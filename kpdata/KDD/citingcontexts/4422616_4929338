@@ -1,0 +1,4 @@
+e_LS Hedge_NN algorithm_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+We_PRP briefly_RB describe_VBP how_WRB the_DT algorithm_NN works_VBZ in_IN the_DT next_JJ section_NN ._.
+2.4_CD Supervised_NNP Hedge_NNP Algorithm_NNP The_NNP -LRB-_-LRB- supervised_VBN -RRB-_-RRB- Hedge_NN algorithm_NN was_VBD originally_RB developed_VBN by_IN Freund_NN and_CC Schapire_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: and_CC applied_VBN in_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- to_TO combine_VB the_DT rank_NN information_NN obtained_VBN from_IN multiple_JJ sources_NNS in_IN a_DT supervised_JJ learning_NN setting_NN ._.
+The_DT goal_NN of_IN this_DT algorithm_NN is_VBZ to_TO learn_VB the_DT m_NN appropriate_JJ weights_NNS -LCB-_-LRB- wi_NNS -RCB-_-RRB- i_LS =_JJ 1_CD such_JJ th_DT

@@ -1,0 +1,3 @@
+the_DT new_JJ taxonomy_NN ,_, rather_RB than_IN the_DT accuracy_NN of_IN a_DT training_NN procedure_NN on_IN the_DT original_JJ taxonomy_NN ._.
+The_DT use_NN of_IN unsupervised_JJ clustering_NN for_IN providing_VBG browsing_VBG capabilities_NNS has_VBZ been_VBN discussed_VBN in_IN earlier_JJR work_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Such_JJ methods_NNS do_VBP not_RB use_VB any_DT kind_NN of_IN supervision_NN from_IN a_DT pre-existing_JJ set_NN of_IN classes_NNS ,_, and_CC are_VBP attractive_JJ for_IN creation_NN of_IN a_DT small_JJ number_NN of_IN clusters_NNS such_JJ as_IN fifty_CD or_CC so_RB ,_, though_IN the_DT clustering_NN rapidly_RB d_SYM

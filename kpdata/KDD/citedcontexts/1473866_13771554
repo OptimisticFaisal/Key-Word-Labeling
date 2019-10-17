@@ -1,0 +1,4 @@
+ion_NN problem_NN ,_, i.e._FW ,_, detecting_VBG whether_IN different_JJ data_NNS descriptions_NNS refer_VBP to_TO the_DT same_JJ real_JJ world_NN entity_NN -LRB-_-LRB- e.g._FW the_DT same_JJ person_NN ,_, the_DT same_JJ paper_NN ,_, the_DT same_JJ protein_NN -RRB-_-RRB- ._.
+Different_JJ approaches_NNS have_VBP been_VBN proposed_VBN ._.
+=_SYM -_: =[_NN 5_CD ,_, 19_CD ,_, 2_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP developed_VBN supervised_JJ reference_NN reconciliation_NN methods_NNS which_WDT use_VBP supervised_VBN learning_VBG algorithm_NN in_IN order_NN to_TO learn_VB parameters_NNS and_CC help_VB the_DT duplicate_VB detection_NN ._.
+Such_JJ supervised_JJ approaches_NNS can_MD not_RB be_VB

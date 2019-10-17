@@ -1,0 +1,8 @@
+ysis_NN -LRB-_-LRB- true_JJ positive_JJ rate_NN vs_CC false_JJ positive_JJ rate_NN -RRB-_-RRB- ,_, and_CC for_IN other_JJ types_NNS of_IN curves_NNS ._.
+11_CD ._.
+Visualize_VB cost_NN curve_NN ._.
+Generates_VBZ a_DT plot_NN that_WDT gives_VBZ an_DT explicit_JJ representation_NN of_IN the_DT expected_VBN cost_NN ,_, as_IN described_VBN by_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+12_CD ._.
+Plugins_NNS ._.
+This_DT menu_NN item_NN only_RB appears_VBZ if_IN there_EX are_VBP visualization_NN plugins_NNS available_JJ -LRB-_-LRB- by_IN default_NN :_: none_NN -RRB-_-RRB- ._.
+More_RBR about_IN these_DT plugins_NNS can_MD be_VB found_VBN in_IN the_DT WekaWiki_NNP article_NN ``_`` Explorer_NNP visualization_NN plugin_NN

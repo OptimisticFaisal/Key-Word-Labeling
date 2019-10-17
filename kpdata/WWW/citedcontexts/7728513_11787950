@@ -1,0 +1,5 @@
+tagging_VBG process_NN can_MD also_RB be_VB simulated_JJ using_VBG a_DT language_NN model_NN like_IN the_DT latent_JJ Dirichlet_NNP allocation_NN model_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Tagging_NNP is_VBZ a_DT real-world_JJ experiment_NN in_IN the_DT evolution_NN of_IN a_DT simple_JJ language_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Zhou_NNP et_FW al._FW =_SYM -_: =[_NN 59_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP a_DT probabilistic_JJ generative_JJ model_NN for_IN generation_NN of_IN document_NN content_NN as_RB well_RB as_IN associated_VBN tags_NNS ._.
+This_DT helps_VBZ in_IN simultaneous_JJ topical_JJ analysis_NN of_IN terms_NNS ,_, documents_NNS and_CC users_NNS ._.
+Their_PRP$ user_NN content_NN a_DT

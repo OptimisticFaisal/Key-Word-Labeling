@@ -1,0 +1,5 @@
+urity_NN restrictions_NNS ._.
+Anomaly_JJ Detection_NN ._.
+There_EX has_VBZ also_RB been_VBN a_DT great_JJ deal_NN of_IN research_NN on_IN anomaly_JJ detection_NN in_IN the_DT statistics_NNS ,_, machine_NN learning_NN ,_, and_CC complexevent_JJ processing_NN communities_NNS ._.
+Yamanishi_NNP et_FW al._FW =_SYM -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: develop_VB the_DT SmartSifter_NNP approach_NN that_WDT uses_VBZ Gaussian_JJ or_CC kernel_NN mixture_NN models_NNS to_TO efficiently_RB learn_VB anomaly_JJ detection_NN models_NNS in_IN an_DT online_JJ manner_NN ._.
+Davy_NNP et_FW al._FW -LRB-_-LRB- 26_CD -RRB-_-RRB- develop_VBP an_DT online_JJ approach_NN for_IN anomaly_NN

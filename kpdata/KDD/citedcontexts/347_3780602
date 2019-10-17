@@ -1,0 +1,4 @@
+ty_NN if_IN -LRB-_-LRB- supp_NN -LRB-_-LRB- P_NN x_NN -RRB-_-RRB- =_JJ supp_NN -LRB-_-LRB- P_NN -RRB-_-RRB- -RRB-_-RRB- then_RB pattern_NN P_NN x_NN and_CC all_DT its_PRP$ super_JJ patterns_NNS do_VBP not_RB occur_VB in_IN the_DT optimal_JJ risk_NN pattern_NN set_NN ._.
+This_DT corollary_NN is_VBZ closely_RB association_NN with_IN non-redundant_JJ association_NN rule_NN mining_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: because_IN P_NN is_VBZ a_DT proper_JJ generator_NN of_IN P_NN x_NN when_WRB supp_NN -LRB-_-LRB- P_NN x_NN -RRB-_-RRB- =_JJ supp_NN -LRB-_-LRB- P_NN -RRB-_-RRB- ._.
+A_DT non-redundant_JJ association_NN rule_NN set_NN is_VBZ generated_VBN from_IN a_DT set_NN of_IN minimal_JJ generators_NNS ._.
+Consider_VB this_DT corollary_NN is_VBZ a_DT special_JJ case_NN for_IN the_DT

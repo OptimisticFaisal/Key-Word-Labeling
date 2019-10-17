@@ -1,0 +1,5 @@
+ensemble_NN approach_NN is_VBZ directly_RB applicable_JJ to_TO the_DT distributed_VBN scenario_NN ._.
+Different_JJ models_NNS can_MD be_VB generated_VBN at_IN different_JJ sites_NNS and_CC ultimately_RB aggregated_VBN using_VBG ensemble_NN combining_VBG strategies_NNS ._.
+Fan_NN ,_, et_FW al._FW -LRB-_-LRB- =_JJ -_: =_JJ Fan_NN ,_, Stolfo_NNP ,_, &_CC Zhang_NNP ,_, 1999_CD -_: =--RRB-_NN discussed_VBD an_DT AdaBoost-based_JJ ensemble_NN approach_NN in_IN this_DT perspective_NN ._.
+Breiman_NNP -LRB-_-LRB- Breiman_NNP ,_, 1999_CD -RRB-_-RRB- considered_VBN Arcing_NNP as_IN a_DT mean_NN to_TO aggregate_JJ multiple_JJ blocks_NNS of_IN data_NNS ,_, especially_RB in_IN on-line_JJ setting_NN ._.
+An_DT experim_NN

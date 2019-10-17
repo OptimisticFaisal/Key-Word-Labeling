@@ -1,0 +1,11 @@
+size_NN is_VBZ 30_CD ._.
+The_DT number_NN of_IN labels_NNS is_VBZ 20_CD ._.
+2_CD ._.
+Synthetic_JJ dataset_NN d10000_NN :_: This_DT dataset_NN contains_VBZ 10,000_CD transactions_NNS ._.
+The_DT average_NN of_IN tree_NN size_NN is_VBZ 21_CD ._.
+The_DT number_NN of_IN labels_NNS is_VBZ 20_CD ._.
+3_LS ._.
+Real_JJ world_NN dataset_JJ CSLOGS_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: :_: This_DT dataset_NN contains_VBZ 59,691_CD transactions_NNS ._.
+The_DT average_NN of_IN tree_NN size_NN is_VBZ 13_CD ._.
+The_DT number_NN of_IN labels_NNS is_VBZ 13335_CD ._.
+All_DT experiments_NNS were_VBD done_VBN on_IN a_DT PC_NN -LRB-_-LRB- Celeron_NN M_NN 350_CD 1.3_CD GHz_NNS -RRB-_-RRB- with_IN 1GB_NN of_IN main_JJ memory_NN running_VBG Lin_NNP

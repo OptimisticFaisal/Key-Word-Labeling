@@ -1,0 +1,4 @@
+entially_RB heuristics_NNS that_WDT generate_VBP recommendations_NNS by_IN directly_RB referring_VBG to_TO the_DT raw_JJ user_NN feedback_NN data_NNS ,_, or_CC to_TO values_NNS immediately_RB derived_VBN from_IN it_PRP ._.
+A_DT known_JJ example_NN is_VBZ the_DT item-item_JJ recommendation_NN method_NN =_JJ -_: =[_NN 14_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Model-based_JJ methods_NNS initially_RB construct_VBP a_DT compact_JJ model_NN for_IN representing_VBG the_DT inherent_JJ structure_NN essential_JJ for_IN relating_VBG user_NN with_IN items_NNS ._.
+Consequently_RB ,_, recommendations_NNS are_VBP made_VBN by_IN referring_VBG to_TO the_DT cre_NN

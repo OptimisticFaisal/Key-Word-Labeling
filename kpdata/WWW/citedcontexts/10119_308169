@@ -1,0 +1,5 @@
+ods_NNS into_IN five_CD categories_NNS ,_, namely_RB ,_, the_DT situation_NN calculus_NN ,_, the_DT Planning_NNP Domain_NN Definition_NN Language_NN -LRB-_-LRB- PDDL_NN -RRB-_-RRB- ,_, rule-based_JJ planning_NN ,_, the_DT theorem_NN proving_NN and_CC others_NNS ._.
+4.1_CD Situation_NN calculus_FW McIlraith_FW et_FW ._.
+al._FW =_SYM -_: =[_NN 17,19,16_CD -RRB-_-RRB- -_: =_SYM -_: adapt_VB and_CC extend_VB the_DT Golog_NNP language_NN for_IN automatic_JJ construction_NN of_IN Web_NN services_NNS ._.
+Golog_NNP is_VBZ a_DT logic_NN programming_NN language_NN built_VBN on_IN top_NN of_IN the_DT situation_NN calculus_NN ._.
+The_DT authors_NNS address_VBP the_DT Web_NN service_NN compo_NN

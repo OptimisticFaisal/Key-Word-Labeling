@@ -1,0 +1,3 @@
+eb_IN usage_NN mining_NN intends_VBZ to_TO find_VB the_DT cluster_NN of_IN user_NN ,_, page_NN ,_, or_CC sessions_NNS from_IN web_NN log_NN files_NNS ,_, where_WRB each_DT cluster_NN represents_VBZ a_DT group_NN of_IN objects_NNS with_IN common_JJ interesting_JJ or_CC characteristics_NNS ._.
+User_NN clustering_NN =_JJ -_: =[_NN 56_CD ,_, 10_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ designed_VBN to_TO find_VB user_NN groups_NNS that_WDT have_VBP common_JJ interests_NNS based_VBN on_IN their_PRP$ behaviors_NNS ,_, and_CC it_PRP is_VBZ critical_JJ for_IN user_NN community_NN construction_NN ._.
+Page_NNP clustering_NN is_VBZ the_DT process_NN of_IN clustering_NN pages_NNS according_VBG t_NN

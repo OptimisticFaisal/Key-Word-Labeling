@@ -1,0 +1,4 @@
+l_NN constrained_VBD clustering_NN approach_NN to_TO detect_VB near-duplicated_JJ documents_NNS ._.
+Similarity_NN join_VB algorithms_NNS in_IN the_DT database_NN are_VBP used_VBN to_TO find_VB pairs_NNS of_IN records_NNS whose_WP$ similarity_NN scores_NNS are_VBP above_IN a_DT given_VBN threshold_NN =_JJ -_: =[_NN 23_CD ,_, 9_CD ,_, 40_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- presents_VBZ algorithms_NNS for_IN computing_VBG exact_JJ set-similarity_NN joins_VBZ by_IN converting_VBG the_DT similarity_NN threshold_NN to_TO a_DT threshold_NN on_IN Hamming_VBG distance_NN ._.
+-LRB-_-LRB- 23_CD -RRB-_-RRB- exploited_VBD q-grams_NN to_TO find_VB similar_JJ string_NN pairs_NNS in_IN the_DT

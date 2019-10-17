@@ -1,0 +1,4 @@
+rusion_NN against_IN particular_JJ networks_NNS -LRB-_-LRB- 27_CD -RRB-_-RRB- ._.
+Moshchuk_NNP et_FW al._FW use_VB VMs_NNS to_TO analyze_VB downloaded_VBN trojan_JJ executables_NNS ,_, relying_VBG on_IN third-party_JJ anti-spyware_JJ tools_NNS to_TO detect_VB whether_IN VMs_NNS were_VBD infected_VBN by_IN executables_NNS =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Wang_NNP et_FW al._FW detect_VB drive-by_JJ exploits_NNS by_IN using_VBG behavioral_JJ detection_NN -LRB-_-LRB- monitoring_NN anomalous_JJ state_NN changes_NNS in_IN the_DT VM_NN -RRB-_-RRB- as_RB well_RB as_IN detecting_VBG exploits_NNS of_IN known_JJ vulnerabilities_NNS -LRB-_-LRB- 25_CD -RRB-_-RRB- ._.
+Provos_NNP et_FW al._FW monitor_NN V_NN

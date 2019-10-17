@@ -1,0 +1,3 @@
+dations_NNS of_IN multivariate_JJ data_NNS clustering_NN ,_, these_DT algorithms_NNS can_MD not_RB handle_VB multi-type_JJ interrelated_JJ data_NN objects_NNS ._.
+A_DT multi-type_JJ extension_NN of_IN the_DT bipartite_JJ spectral_JJ graph_NN partitioning_NN has_VBZ been_VBN proposed_VBN in_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: for_IN textual_JJ datasets_NNS and_CC then_RB for_IN images_NNS and_CC surrounding_VBG texts_NNS in_IN web_NN environment_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+The_DT data_NNS objects_NNS form_VBP a_DT tripartite_JJ graph_NN ,_, and_CC the_DT tripartite_JJ graph_NN is_VBZ treated_VBN as_IN two_CD separate_JJ bipartite_JJ graphs_NNS ._.

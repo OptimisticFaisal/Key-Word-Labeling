@@ -1,0 +1,5 @@
+r_NN model_NN ,_, NMF_NN ._.
+1_CD Introduction_NN Collaborative_JJ Filtering_NN -LRB-_-LRB- CF_NN -RRB-_-RRB- algorithms_NNS are_VBP currently_RB quite_RB popular_JJ in_IN recommendation_NN systems_NNS ._.
+Generally_RB ,_, they_PRP can_MD be_VB divided_VBN into_IN two_CD categories_NNS :_: memory_NN based_VBN algorithms_NNS =_JJ -_: =[_NN 1_CD ,_, 6_CD ,_, 16_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: and_CC model_NN based_VBN algorithms_NNS -LRB-_-LRB- 2_CD ,_, 3_CD ,_, 5_CD ,_, 7_CD ,_, 11_CD ,_, 15_CD ,_, 18_CD ,_, 19_CD ,_, 20_CD -RRB-_-RRB- ._.
+Marlin_NNP 's_POS thesis_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- compares_VBZ a_DT number_NN of_IN algorithms_NNS from_IN these_DT two_CD categories_NNS for_IN accuracy_NN on_IN available_JJ data_NNS sets_NNS ._.
+It_PRP is_VBZ shown_VBN in_IN -LRB-_-LRB- 3_LS -RRB-_-RRB- tha_NN

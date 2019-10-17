@@ -1,0 +1,4 @@
+nsitive_JJ hashing_VBG -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, especially_RB the_DT technique_NN of_IN minwise_JJ independent_JJ permutations_NNS -LRB-_-LRB- 2_LS -RRB-_-RRB- that_WDT is_VBZ particularly_RB geared_VBN toward_IN the_DT Jaccard_NNP 's_POS coefficient_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP combine_VBP an_DT AD-tree_JJ data_NN structure_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: with_IN the_DT signature_NN tables_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- approach_NN for_IN efficient_JJ similarity_NN search_NN in_IN categorical_JJ data_NNS ._.
+The_DT signature_NN table_NN is_VBZ constructed_VBN before_IN the_DT Initialization_NNP step_NN mentioned_VBN in_IN Table_NNP 1_CD ._.
+Here_RB ,_, objects_NNS in_IN th_DT

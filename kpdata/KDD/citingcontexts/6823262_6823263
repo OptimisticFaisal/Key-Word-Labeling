@@ -1,0 +1,5 @@
+notonically_RB decreases_VBZ the_DT objective_JJ criterion_NN ,_, it_PRP converges_VBZ to_TO a_DT local_JJ optimum_NN ._.
+The_DT clustering_NN procedure_NN is_VBZ shown_VBN in_IN Algorithm_NN 2_CD ._.
+A_DT preliminary_JJ report_NN of_IN the_DT block_NN diagonal_JJ clustering_NN is_VBZ presented_VBN in_IN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Algorithm_NN 2_CD Block_NNP Diagonal_NNP Clustering_NNP Procedure_NNP Input_NNP :_: -LRB-_-LRB- data_NNS points_NNS :_: Wn_FW ×_FW m_NN ,_, #_# of_IN classes_NNS :_: K_NN -RRB-_-RRB- Output_NN :_: A_NN :_: cluster_NN assignment_NN ;_: B_NN :_: feature_NN assignment_NN ;_: begin_VB 1_CD ._.
+Initialization_NNP :_: 1.1_CD Initialize_NN A_NN 1.2_CD Comput_NN

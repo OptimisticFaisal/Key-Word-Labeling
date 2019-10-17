@@ -1,0 +1,4 @@
+al_FW component_NN classifiers_NNS to_TO obtain_VB the_DT model_NN -LRB-_-LRB- Shyu_NNP ,_, Chen_NNP ,_, Sarinnapakorn_NNP &_CC Chang_NNP 2003_CD -RRB-_-RRB- ._.
+One_CD approach_NN uses_VBZ graphs_NNS for_IN modelling_VBG the_DT normal_JJ data_NNS and_CC detect_VB the_DT irregularities_NNS in_IN the_DT graph_NN for_IN anomalies_NNS -LRB-_-LRB- =_JJ -_: =_JJ Noble_NNP &_CC Cook_NNP 2003_CD -_: =--RRB-_NN ._.
+Another_DT approach_NN uses_VBZ the_DT normal_JJ data_NNS to_TO generate_VB abnormal_JJ data_NNS and_CC uses_VBZ it_PRP as_IN input_NN for_IN a_DT classification_NN algorithm_NN -LRB-_-LRB- Gonzalez_NNP &_CC Dasgupta_NNP 2003_CD -RRB-_-RRB- ._.
+2.2_CD Clustering_NN Clustering_NN is_VBZ a_DT well_RB known_VBN and_CC studied_VBN

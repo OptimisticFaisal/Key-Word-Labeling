@@ -1,0 +1,4 @@
+to_TO MinConf_NNP ._.
+Naturally_RB ,_, with_IN databases_NNS containing_VBG many_JJ transactions_NNS ,_, sum_NN ⊥_CD u_NN and_CC count_NN ⊥_FW u_FW are_VBP set_VBN according_VBG to_TO the_DT agglomerated_JJ vote_NN ._.
+Candidates_NNS generation_NN is_VBZ done_VBN using_VBG a_DT generalization_NN of_IN Apriori_NNP 's_POS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: criterion_NN ,_, and_CC is_VBZ described_VBN in_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+3.2.2_CD Oblivious_JJ Counters_NNS We_PRP denote_VBP a_DT public-key_JJ cryptosystem_NN from_IN ZN_NN by_IN -LRB-_-LRB- E_NN ,_, D_NN -RRB-_-RRB- :_: E_NN -LRB-_-LRB- m_NN -RRB-_-RRB- is_VBZ the_DT encryption_NN of_IN a_DT given_VBN plain_NN text_NN m_NN ∈_NN Zn_NN using_VBG the_DT encryption_NN key_NN ,_, and_CC

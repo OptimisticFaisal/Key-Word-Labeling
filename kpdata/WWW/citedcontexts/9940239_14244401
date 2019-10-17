@@ -1,0 +1,4 @@
+._.
+Instead_RB it_PRP usually_RB arrives_VBZ in_IN batches_NNS over_IN a_DT certain_JJ period_NN of_IN time_NN ._.
+We_PRP now_RB try_VBP to_TO quantify_VB the_DT impact_NN of_IN this_DT delay_NN by_IN doing_VBG some_DT simulations_NNS that_WDT mimic_VBP the_DT problem_NN of_IN news_NN articles_NNS recommendation_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT will_MD be_VB described_VBN in_IN section_NN 5_CD ._.
+4Regret_NN 4500 4000 3500 3000_CD 2500 2000 1500 1000_CD 500_CD α_NN =_JJ 2_CD α_NN =_JJ 1_CD α_NN =_JJ 0.5_CD α_NN =_JJ 0.25_CD Asymptotic_JJ lower_JJR bound_VBD Regret_NNP 7000 6000 5000 4000_CD 3000 2000 1000_CD 10_CD 2_CD 0_CD 10_CD 3_CD 10_CD 4_CD T_NN 10_CD 5_CD

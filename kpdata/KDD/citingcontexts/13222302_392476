@@ -1,0 +1,4 @@
+performances_NNS of_IN taxi_NN companies_NNS ,_, the_DT efficient_JJ use_NN of_IN energy_NN ,_, the_DT productivity_NN of_IN taxi_NN drivers_NNS ,_, and_CC the_DT user_NN experiences_NNS ._.
+The_DT MSR_NN problem_NN is_VBZ different_JJ from_IN traditional_JJ Traveling_VBG Salesman_NNP Problem_NNP -LRB-_-LRB- TSP_NN -RRB-_-RRB- =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT finds_VBZ a_DT shortest_JJS path_NN that_WDT visits_VBZ each_DT given_VBN location_NN exactly_RB once_RB ._.
+The_DT reason_NN is_VBZ that_IN TSP_NN evaluates_VBZ a_DT combination_NN of_IN exact_JJ N_NN given_VBN locations_NNS ._.
+In_IN other_JJ words_NNS ,_, all_DT N_NN locations_NNS have_VBP to_TO be_VB involv_JJ

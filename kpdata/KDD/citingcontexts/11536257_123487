@@ -1,0 +1,3 @@
+hods_NNS is_VBZ exponential_JJ to_TO the_DT size_NN of_IN maximum_NN cliques_NNS ._.
+But_CC for_IN those_DT models_NNS whose_WP$ graph_NN structures_NNS contain_VBP large_JJ loops_NNS ,_, we_PRP have_VBP to_TO turn_VB to_TO approximation_NN methods_NNS ,_, either_CC deterministic_JJ variational_JJ methods_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: and_CC belief_NN propagation_NN -LRB-_-LRB- 31_CD -RRB-_-RRB- -RRB-_-RRB- ,_, or_CC stochastic_JJ Markov_NNP chain_NN Monte_NNP Carlo_NNP -LRB-_-LRB- MCMC_NNP -RRB-_-RRB- methods_NNS ._.
+In_IN general_JJ ,_, the_DT accuracy_NN and_CC timeefficiency_NN of_IN these_DT approximation_NN methods_NNS depend_VBP largely_RB on_IN the_DT graph_NN structures_NNS ._.

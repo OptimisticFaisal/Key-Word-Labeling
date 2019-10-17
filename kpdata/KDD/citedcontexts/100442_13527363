@@ -1,0 +1,4 @@
+deviations_NNS -LRB-_-LRB- or_CC changes_NNS -RRB-_-RRB- in_IN daily_JJ network_NN traffic_NN ._.
+Hence_RB ,_, we_PRP concentrate_VBP on_IN detecting_VBG anomalies_NNS from_IN network_NN connection_NN data_NNS ._.
+Although_IN anomaly_JJ detection_NN has_VBZ been_VBN deeply_RB investigated_VBN in_IN the_DT literature_NN =_JJ -_: =[_NN 7,8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, all_DT proposed_VBN methods_NNS assume_VBP that_IN data_NNS are_VBP stored_VBN in_IN a_DT single_JJ table_NN of_IN a_DT relational_JJ database_NN -LRB-_-LRB- attribute-value_JJ representation_NN -RRB-_-RRB- ._.
+This_DT representation_NN allows_VBZ efficient_JJ algorithmic_JJ solution_NN but_CC it_PRP does_VBZ no_DT

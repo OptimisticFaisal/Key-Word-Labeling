@@ -1,0 +1,4 @@
+ate_VBD traces_NNS from_IN a_DT simple_JJ Traffic_NN alert_NN and_CC Collision_NNP Avoidance_NNP System_NNP -LRB-_-LRB- TCAS_NNP -RRB-_-RRB- from_IN the_DT Sie_NN --_: mens_VBZ Test_NNP Suite_NNP -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, which_WDT has_VBZ been_VBN used_VBN as_IN one_CD of_IN the_DT benchmarks_NNS for_IN research_NN in_IN error_NN localization_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT test_NN suite_NN comes_VBZ with_IN 1578_CD correct_JJ test_NN cases_NNS ._.
+We_PRP run_VBP these_DT test_NN cases_NNS to_TO obtain_VB 1578_CD traces_NNS ._.
+To_TO test_VB for_IN scalability_NN ,_, instead_RB of_IN tracing_VBG method_NN invocations_NNS ,_, we_PRP trace_VBP executions_NNS of_IN basic_JJ blocks_NNS

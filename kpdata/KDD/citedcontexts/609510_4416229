@@ -1,0 +1,3 @@
+ansactions_NNS ._.
+In_IN these_DT environments_NNS ,_, sequential_JJ or_CC incremental_JJ learning_NN methods_NNS become_VBP particularly_RB relevant_JJ ,_, since_IN they_PRP can_MD revise_VB existing_VBG models_NNS efficiently_RB ._.
+It_PRP is_VBZ widely_RB accepted_VBN in_IN the_DT literature_NN -LRB-_-LRB- =_JJ -_: =_JJ Hulten_NNP &_CC Domingos_NNP ,_, 2002_CD -_: =--RRB-_NN that_IN incremental_JJ algorithms_NNS should_MD fulfill_VB four_CD constraints_NNS :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- build_VB a_DT model_NN using_VBG only_RB one_CD scan_VB of_IN data_NNS ,_, -LRB-_-LRB- 2_CD -RRB-_-RRB- require_VBP small_JJ and_CC constant_JJ time_NN per_IN record_NN ,_, -LRB-_-LRB- 3_CD -RRB-_-RRB- require_VBP a_DT fixed_JJ amount_NN of_IN memory_NN irres_NNS

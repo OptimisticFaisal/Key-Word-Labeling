@@ -1,0 +1,4 @@
+e_LS techniques_NNS is_VBZ quadratic_JJ in_IN the_DT number_NN of_IN data_NNS points_NNS and_CC do_VBP not_RB scale_VB to_TO large_JJ datasets_NNS ._.
+Recently_RB ,_, a_DT number_NN of_IN parametric_JJ clustering_NN techniques_NNS were_VBD proposed_VBN to_TO deal_VB with_IN specific_JJ data_NNS ._.
+Chen_NNP et_FW al._FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Cao_NNP et_FW al._FW -LRB-_-LRB- 6_CD -RRB-_-RRB- are_VBP new_JJ methods_NNS for_IN clustering_NN data_NNS streams_NNS without_IN assumption_NN about_IN the_DT number_NN of_IN clusters_NNS ._.
+Chen_NNP et_FW al._FW -LRB-_-LRB- 8_CD -RRB-_-RRB- is_VBZ density_NN based_VBN and_CC uses_VBZ a_DT decay_NN factor_NN to_TO deal_VB with_IN changing_VBG clusters_NNS

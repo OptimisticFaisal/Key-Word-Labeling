@@ -1,0 +1,3 @@
+aph_RB partitioning_VBG algorithm_NN -LRB-_-LRB- Dhillon_NNP ,_, 2001_CD -RRB-_-RRB- ._.
+Investigating_VBG other_JJ approaches_NNS such_JJ as_IN biclustering_VBG algorithms_NNS for_IN biology_NN -LRB-_-LRB- Madeira_NNP and_CC Oliveira_NNP ,_, 2004_CD -RRB-_-RRB- or_CC an_DT information-theoretic_JJ co-clustering_NN approach_NN -LRB-_-LRB- =_JJ -_: =_JJ Dhillon_NNP et_FW al._FW ,_, 2003_CD -_: =--RRB-_NN would_MD be_VB highly_RB interesting_JJ ._.
+It_PRP would_MD likewise_RB be_VB interesting_JJ to_TO attempt_VB to_TO incorporate_VB frequency_NN ,_, by_IN weighting_NN correspondences_NNS that_WDT occur_VBP frequently_RB more_RBR heavily_RB than_IN those_DT which_WDT occur_VBP only_RB infrequ_NN

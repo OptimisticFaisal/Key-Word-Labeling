@@ -1,0 +1,4 @@
+perfect_JJ ._.
+The_DT ``_`` defect_NN ''_'' of_IN a_DT ranking_NN y_FW wrt_FW the_DT ideal_JJ ranking_NN yq_NN is_VBZ encoded_VBN in_IN a_DT loss_NN function_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ∆_NN -LRB-_-LRB- y_NN ,_, yq_NN -RRB-_-RRB- ≥_NN 0_CD ,_, sometimes_RB shorthanded_VBD to_TO ∆_CD q_NN -LRB-_-LRB- y_NN -RRB-_-RRB- ._.
+Naturally_RB ,_, ∆_FW q_FW -LRB-_-LRB- yq_NN -RRB-_-RRB- =_JJ 0_CD ._.
+The_DT second_JJ piece_NN is_VBZ a_DT feature_NN map_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: φ_NN -LRB-_-LRB- xq_NN ,_, y_NN -RRB-_-RRB- ∈_NN Rd_NN that_WDT combines_VBZ individual_JJ document_NN feature_NN vectors_NNS xqi_VBP into_IN a_DT single_JJ vector_NN ,_, using_VBG the_DT proposed_JJ ranking_JJ y._NN As_IN a_DT simple_JJ example_NN ,_, one_PRP may_MD add_VB up_RP the_DT vectors_NNS at_IN ranks_NNS 1_CD through_IN 10_CD ,_, then_RB sub_NN

@@ -1,0 +1,5 @@
+e_LS user_NN to_TO study_VB the_DT data_NNS records_NNS covered_VBN by_IN certain_JJ rules_NNS ._.
+Detailed_JJ examples_NNS will_MD be_VB given_VBN in_IN Section_NN 4_CD ._.
+1.4_CD Parallel_JJ Coordinate_JJ This_DT section_NN presents_VBZ a_DT brief_JJ review_NN of_IN the_DT parallel_JJ coordinate_JJ method_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: for_IN visualizing_VBG multi-variable_JJ data_NNS in_IN a_DT 2D_NN space_NN ._.
+In_IN this_DT approach_NN ,_, a_DT separate_JJ vertical_JJ axis_NN is_VBZ assigned_VBN to_TO each_DT variable_NN ._.
+Multiple_JJ vertical_JJ axes_NNS ,_, i.e._FW ,_, one_CD for_IN each_DT of_IN the_DT coordinates_VBZ -LRB-_-LRB- variables_NNS -RRB-_-RRB- o_NN

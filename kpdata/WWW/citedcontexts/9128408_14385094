@@ -1,0 +1,7 @@
+algorithm_NN ._.
+The_DT experimental_JJ results_NNS are_VBP presented_VBN in_IN Section_NN 6_CD ._.
+Finally_RB ,_, we_PRP conclude_VBP in_IN Section_NN 7_CD ._.
+2_CD ._.
+RELATED_NNS WORK_VBP Community_NN detection_NN in_IN networks_NNS and_CC graphs_NNS has_VBZ been_VBN widely_RB studied_VBN in_IN recently_RB years_NNS =_JJ -_: =[_NN 16_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Many_JJ approaches_NNS mainly_RB focused_VBD on_IN the_DT topological_JJ structures_NNS based_VBN on_IN various_JJ criteria_NNS including_VBG modularity_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, normalized_VBN cut_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, structural_JJ density_NN -LRB-_-LRB- 30_CD -RRB-_-RRB- and_CC partition_NN density_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Given_VBN a_DT grap_NN

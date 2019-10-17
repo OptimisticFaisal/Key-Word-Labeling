@@ -1,0 +1,5 @@
+e_LS MIL_NN problem_NN seeks_VBZ to_TO find_VB the_DT rectilinear_JJ subspace_NN that_WDT maximizes_VBZ the_DT values_NNS of_IN a_DT multinomial_JJ loglikelihood_NN ratio_NN test_NN ,_, under_IN certain_JJ simplifying_VBG assumptions_NNS ._.
+See_VB our_PRP$ previous_JJ work_NN for_IN more_JJR details_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3_LS ._.
+A_DT DATA_NNP DECOMPOSITION_NNP ALGEBRA_NNP As_IN described_VBN in_IN Section_NN 2_CD ,_, the_DT user_NN can_MD supply_VB a_DT penalty_NN parameter_NN p_NN to_TO control_VB search_NN for_IN the_DT MIL_NNP ._.
+For_IN smaller_JJR penalty_NN values_NNS ,_, the_DT MIL_NNP will_MD be_VB extremely_RB conservative_JJ

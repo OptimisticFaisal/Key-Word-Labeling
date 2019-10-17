@@ -1,0 +1,6 @@
+al_FW -LRB-_-LRB- S_NN ,_, T_NN -RRB-_-RRB- ._.
+With_IN the_DT significance_NN scores_NNS for_IN all_DT time_NN intervals_NNS ,_, we_PRP pick_VBP the_DT top-k_NN non-overlapped_JJ time_NN intervals_NNS asT-Motifs_JJ ._.
+This_DT procedure_NN is_VBZ similar_JJ to_TO the_DT selection_NN of_IN discriminative_JJ patterns_NNS in_IN -LRB-_-LRB- 3_LS -RRB-_-RRB- =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+From_IN Algorithm_NN 1_CD ,_, we_PRP can_MD see_VB that_IN the_DT number_NN of_IN all_DT time_NN intervals_NNS is_VBZ O_NN -LRB-_-LRB- P_NN 2_CD -RRB-_-RRB- intheworstcase_NN ._.
+And_CC foreachtimeinterval_NN -LRB-_-LRB- S_NN ,_, T_NN -RRB-_-RRB- ,_, ittakesO_NN -LRB-_-LRB- |_NN D_NN |_CD log_NN |_NN D_NN |_NN -RRB-_-RRB- tocompute_VBP the_DT significance_NN score_NN ._.
+So_IN the_DT overall_JJ time_NN com_NN

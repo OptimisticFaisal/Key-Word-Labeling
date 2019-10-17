@@ -1,0 +1,4 @@
+curacy_NN ,_, recall_NN and_CC precision_NN are_VBP calculated_VBN for_IN each_DT round_NN and_CC are_VBP averaged_VBN at_IN the_DT end_NN -LRB-_-LRB- micro_JJ averaging_NN -RRB-_-RRB- ._.
+In_IN order_NN to_TO sensitize_VB for_IN classes_NNS of_IN unequal_JJ size_NN the_DT results_NNS of_IN an_DT additional_JJ DefaultLearner_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP presented_VBN as_RB well_RB ._.
+The_DT DefaulLearner_NNP creates_VBZ a_DT model_NN based_VBN on_IN a_DT default_NN value_NN -LRB-_-LRB- e.g._FW mode_NN of_IN the_DT true_JJ labels_NNS in_IN case_NN of_IN classification_NN -RRB-_-RRB- for_IN all_DT examples_NNS ._.
+The_DT results_NNS for_IN ``_`` classical_JJ ''_'' model_NN evaluati_NNS

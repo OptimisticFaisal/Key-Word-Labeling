@@ -1,0 +1,4 @@
+for_IN multiple_JJ testing_NN by_IN false_JJ discovery_NN rate_NN detection_NN -LRB-_-LRB- 100_CD permutations_NNS -RRB-_-RRB- ._.
+The_DT second_JJ method_NN uses_VBZ the_DT oPOSSUM_NN tool_NN to_TO identify_VB statistically_RB over-represented_JJ transcription_NN factor_NN binding_NN sites_NNS -LRB-_-LRB- TFBS_NN -RRB-_-RRB- =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT oPOSSUM_NNP API_NNP was_VBD downloaded_VBN and_CC installed_VBN -LRB-_-LRB- www.cisreg.ca\/cgi-bin\/oPOSSUM\/opossum_NN -RRB-_-RRB- ._.
+Each_DT cluster_NN of_IN genes_NNS was_VBD submitted_VBN to_TO the_DT software_NN and_CC statistically_RB overrepresented_VBN TFBSs_NNS were_VBD defined_VBN using_VBG t_NN

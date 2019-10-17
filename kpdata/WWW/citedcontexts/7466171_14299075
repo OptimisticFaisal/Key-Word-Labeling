@@ -1,0 +1,4 @@
+t_NN level_NN analysis_NN ._.
+b_LS -RRB-_-RRB- A_DT simple_JJ example_NN of_IN fine-grained_JJ sentiment_NN analysis_NN epitomized_VBN through_IN sentence_NN predictions_NNS ._.
+to_TO building_VBG user-facing_JJ technologies_NNS such_JJ as_IN faceted_JJ opinion_NN search_NN and_CC summarization_NN =_JJ -_: =[_NN 1_CD ,_, 13_CD ,_, 10_CD ,_, 24_CD ,_, 5_CD ,_, 3_CD ,_, 30_CD ,_, 38_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, lexicons_NNS are_VBP typically_RB deployed_VBN independent_JJ of_IN the_DT context_NN in_IN which_WDT mentions_VBZ occur_VB ,_, often_RB making_VBG them_PRP brittle_JJ ,_, especially_RB in_IN the_DT face_NN of_IN domain_NN shift_NN and_CC complex_JJ syntactic_JJ constructions_NNS -LRB-_-LRB- 35_CD

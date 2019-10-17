@@ -1,0 +1,5 @@
+sssmultiple_NN components_NNS ,_, we_PRP need_VBP to_TO categorize_VB the_DT text_NN messages_NNS with_IN disparate_JJ formats_NNS into_IN common_JJ situations_NNS ._.
+Second_JJ ,_, text_NN messages_NNS in_IN the_DT log_NN files_NNS are_VBP relatively_RB short_JJ with_IN a_DT large_JJ vocabulary_NN size_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Hence_RB ,_, care_NN must_MD be_VB taken_VBN when_WRB applying_VBG traditional_JJ document_NN processing_NN techniques_NNS ._.
+Third_RB ,_, each_DT text_NN message_NN usually_RB contains_VBZ a_DT timestamp_NN ._.
+The_DT temporal_JJ characteristics_NNS provide_VBP additional_JJ context_NN inf_NN

@@ -1,0 +1,3 @@
+sented_VBN in_IN -LRB-_-LRB- Dietterich_NNP &_CC Bakiri_NNP ,_, 1995_CD -RRB-_-RRB- and_CC -LRB-_-LRB- Gamble_NNP et_FW al._FW ,_, 2007_CD -RRB-_-RRB- try_VBP to_TO be_VB robust_JJ to_TO general_JJ additive_JJ noise_NN that_WDT appears_VBZ at_IN classification_NN time_NN ,_, but_CC not_RB necessarily_RB to_TO feature_VB deletion_NN or_CC corruption_NN ._.
+-LRB-_-LRB- =_JJ -_: =_JJ Dalvi_NNP et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN presents_VBZ adversarial_JJ learning_NN as_IN a_DT one-shot_JJ two-player_JJ game_NN between_IN the_DT classifier_NN and_CC an_DT adversary_NN ,_, and_CC designs_VBZ a_DT robust_JJ learning_NN algorithm_NN from_IN a_DT Bayesianlearning_JJ perspective_NN ._.
+Our_PRP$ approach_NN shares_NNS

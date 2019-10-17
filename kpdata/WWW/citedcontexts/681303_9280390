@@ -1,0 +1,4 @@
+n_NN Section_NN 2.1_CD ._.
+We_PRP compare_VBP various_JJ similarity_NN measures_NNS ,_, including_VBG simple_JJ and_CC multi-step_JJ neighborhood_NN ,_, co-citation_NN ,_, cosine_NN and_CC Jaccard_NN similarity_NN of_IN the_DT neighborhood_NN as_RB well_RB as_IN their_PRP$ multistep_JJ variants_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: described_VBN in_IN detail_NN in_IN Section_NN 2_CD ._.
+For_IN the_DT purposes_NNS of_IN evaluation_NN we_PRP consider_VBP these_DT algorithms_NNS separately_RB ,_, by_IN performing_VBG one_CD classification_NN experiment_NN for_IN each_DT feature_NN ._.
+1.1_CD Related_JJ results_NNS Identifying_VBG

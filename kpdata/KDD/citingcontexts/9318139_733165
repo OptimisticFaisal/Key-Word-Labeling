@@ -1,0 +1,5 @@
+with_IN the_DT selected_VBN examples_NNS ,_, and_CC the_DT average_JJ predictive_JJ accuracy_NN on_IN the_DT test_NN set_NN P_NN Asel_NN is_VBZ recorded_VBN ._.
+We_PRP chose_VBD to_TO use_VB the_DT following_JJ classifiers_NNS as_IN a_DT representative_JJ set_NN -LRB-_-LRB- a_DT -RRB-_-RRB- Multi-Layer_NNP Perceptron_NNP -LRB-_-LRB- MLP_NNP -RRB-_-RRB- =_JJ -_: =[_NN 14_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: -_: connectionist_JJ learning_NN architecture_NN ._.
+Simple_JJ backpropagation_NN algorithm_NN was_VBD used_VBN to_TO train_VB the_DT Neural_NNP Network_NNP ._.
+-LRB-_-LRB- b_LS -RRB-_-RRB- Nearest_JJ Neighbor_NN -LRB-_-LRB- 1-NN_NN -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- -_: instancebased_JJ learning_NN architecture_NN ._.
+-LRB-_-LRB- c_LS -RRB-_-RRB- C4_NN .5_CD -LRB-_-LRB- 12_CD -RRB-_-RRB- -_: tre_NN

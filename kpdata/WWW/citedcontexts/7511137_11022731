@@ -1,0 +1,3 @@
+ty_NN mechanisms_NNS ,_, such_JJ as_IN preventing_VBG cross-site_JJ request_NN forgery_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, securing_VBG browser_NN frame_NN communication_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, preventing_VBG DNS_NN rebinding_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, and_CC protecting_VBG highsecurity_JJ web_NN sites_NNS from_IN network_NN attacks_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT and_CC other_JJ previous_JJ studies_NNS suggest_VBP that_IN a_DT few_JJ central_JJ modeling_NN concepts_NNS will_MD prove_VB useful_JJ for_IN evaluating_VBG a_DT wide_JJ range_NN of_IN mechanisms_NNS ._.
+The_DT central_JJ web_NN concepts_NNS we_PRP formalize_VBP in_IN our_PRP$ model_NN include_VBP

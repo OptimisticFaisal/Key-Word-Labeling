@@ -1,0 +1,4 @@
+and_CC explore_VB other_JJ settings_NNS in_IN future_JJ sections_NNS -RRB-_-RRB- ._.
+We_PRP compare_VBP our_PRP$ constrained_VBN clustering_NN framework_NN with_IN simple_JJ unconstrained_JJ k-means_NNS and_CC two_CD constrained_VBN k-means_NN algorihtms_NNS -LRB-_-LRB- MPCK-MEANS_NN and_CC PCKMEANS_NN -RRB-_-RRB- from_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN overall_NN ,_, the_DT number_NN of_IN constraint_NN violations_NNS from_IN our_PRP$ approach_NN -LRB-_-LRB- Fig._NN 5_CD -LRB-_-LRB- left_NN -RRB-_-RRB- -RRB-_-RRB- is_VBZ worse_JJR than_IN that_DT of_IN either_CC MPCK-MEANS_NN and_CC PCK-MEANS_NN ,_, except_IN for_IN a_DT small_JJ number_NN of_IN clusters_NNS ._.
+This_DT is_VBZ to_TO be_VB expected_VBN

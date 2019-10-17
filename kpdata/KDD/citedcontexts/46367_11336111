@@ -1,0 +1,5 @@
+discuss_VB the_DT results_NNS ._.
+A._NN KDD_NNP 99_CD dataset_NN description_NN and_CC preprocessing_VBG MIT_NNP Lincoln_NNP Lab_NNP 's_POS DARPA_NNP intrusion_NN detection_NN evaluation_NN datasets_NNS have_VBP been_VBN employed_VBN to_TO design_NN and_CC test_NN intrusion_NN detection_NN systems_NNS =_JJ -_: =[_NN 40_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN 1999_CD ,_, Stofo_FW et_FW ._.
+al._FW summarized_VBN recorded_JJ network_NN traffic_NN from_IN the_DT DARPA_NNP 98_CD Lincoln_NNP Lab_NN dataset_NN into_IN network_NN connections_NNS with_IN 41-features_NNS per_IN connection_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 41_CD -RRB-_-RRB- ._.
+This_DT formed_VBD the_DT KDD_NNP 99_CD intrusion_NN

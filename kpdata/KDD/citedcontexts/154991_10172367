@@ -1,0 +1,4 @@
+to_TO create_VB an_DT alternative_NN to_TO external_JJ knowledge_NN sources_NNS ._.
+Therefore_RB ,_, clusters_NNS of_IN similar_JJ words_NNS are_VBP usually_RB obtained_VBN solely_RB on_IN the_DT basis_NN of_IN distributional_JJ information_NN -LRB-_-LRB- Grefenstette_NNP ,_, 1994_CD ;_: Schutze_NNP ,_, 1998_CD ;_: =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =_JJ -_: ;_: Dorow_NNP and_CC Widdows_NNP ,_, 2003_CD ;_: Velldal_NNP ,_, 2005_CD -RRB-_-RRB- ._.
+Each_DT word_NN 's_POS representation_NN is_VBZ linked_VBN to_TO a_DT set_NN of_IN contexts_NNS in_IN which_WDT it_PRP occurs_VBZ in_IN a_DT corpus_NN ._.
+Context_NN is_VBZ typically_RB represented_VBN as_IN a_DT feature_NN vector_NN ,_, where_WRB each_DT fe_NN

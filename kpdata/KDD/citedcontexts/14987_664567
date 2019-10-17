@@ -1,0 +1,4 @@
+to_TO deal_VB with_IN numerical_JJ attributes_NNS and_CC the_DT capability_NN to_TO apply_VB naive_JJ Bayes_NNP classifiers_NNS in_IN the_DT tree_NN leaves_VBZ ._.
+This_DT new_JJ extended_JJ version_NN has_VBZ been_VBN called_VBN IADEMc_NN and_CC presents_VBZ the_DT same_JJ extensions_NNS that_IN VFDTc_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: added_VBN to_TO VFDT_NNP ,_, although_IN there_EX are_VBP some_DT differences_NNS ._.
+3.1_CD Numerical_NN Attributes_VBZ Real_JJ world_NN problems_NNS usually_RB contain_VBP numerical_JJ attributes_NNS ,_, so_RB this_DT issue_NN should_MD be_VB addressed_VBN by_IN learning_VBG algorithms_NNS ._.
+Prepro_NN

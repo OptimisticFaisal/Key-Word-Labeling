@@ -1,0 +1,4 @@
+ll_IN the_DT data_NNS across_IN different_JJ parties_NNS ._.
+We_PRP propose_VBP a_DT HPPCox_NN model_NN based_VBN on_IN lower-dimensional_JJ projection_NN methods_NNS such_JJ as_IN random_JJ projection_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, or_CC random_JJ kernel_NN mapping_NN in_IN the_DT general_JJ -LRB-_-LRB- non-linear_JJ -RRB-_-RRB- case_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN simplicity_NN we_PRP focus_VBP on_IN the_DT former_JJ which_WDT only_RB applies_VBZ for_IN linear_JJ survival_NN models_NNS ,_, but_CC the_DT whole_JJ machinery_NN also_RB applies_VBZ to_TO non-linear_JJ models_NNS ._.
+The_DT non-linear_JJ extension_NN will_MD be_VB briefly_RB discussed_VBN in_IN

@@ -1,0 +1,4 @@
+Introduction_NN Object_NN identification_NN is_VBZ the_DT task_NN to_TO identify_VB groups_NNS of_IN equivalent_JJ objects_NNS in_IN a_DT database_NN ._.
+This_DT problem_NN often_RB arises_VBZ when_WRB merging_VBG information_NN from_IN multiple_JJ sources_NNS ._.
+Object_JJ identification_NN =_JJ -_: =[_NN 11_CD ,_, 10_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ also_RB known_VBN among_IN others_NNS as_IN record_NN linkage_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC duplicate_VB detection_NN -LRB-_-LRB- 4_CD ,_, 9_CD -RRB-_-RRB- ._.
+Typical_JJ adaptive_JJ object_NN identification_NN learns_VBZ a_DT model_NN on_IN a_DT training_NN set_NN and_CC utilizes_VBZ it_PRP on_IN a_DT separate_JJ set_NN that_WDT belong_VBP

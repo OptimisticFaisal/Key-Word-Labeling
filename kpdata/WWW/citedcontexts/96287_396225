@@ -1,0 +1,6 @@
+ee_FW et_FW al._FW -LRB-_-LRB- Eds_NNP ._. -RRB-_-RRB-
+:_: AIRS_NN 2005_CD ,_, LNCS_NN 3689_CD ,_, pp_NN ._.
+190_CD --_: 205_CD ,_, 2005_CD ._.
+©_NNP Springer-Verlag_NNP Berlin_NNP Heidelberg_NNP 2005sLearning_NN to_TO Integrate_VB Web_NN Taxonomies_NNS with_IN Fine-Grained_NNP Relations_NNP 191_CD such_JJ as_IN enhanced_VBN Naïve_NNP Bayes_NNP =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Co-Bootstrapping_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, and_CC SVM-based_JJ approaches_NNS -LRB-_-LRB- 19_CD -RRB-_-RRB- have_VBP been_VBN proposed_VBN ._.
+It_PRP is_VBZ straightforward_JJ to_TO formulate_VB taxonomy_NN integration_NN as_IN a_DT classification_NN task_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Suppose_VB we_PRP want_VBP to_TO integrate_VB the_DT BBC_NNP Ne_NN

@@ -1,0 +1,4 @@
+egory_NN ._.
+This_DT particular_JJ method_NN of_IN filling_NN in_IN missing_VBG values_NNS is_VBZ known_VBN in_IN the_DT statistics_NNS literature_NN as_IN conditional_JJ mean_JJ imputation_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+Formally_RB ,_, let_VB a_DT customer_NN profile_NN x_NN consist_VBP of_IN a_DT binary_JJ vector_NN x_NN =_JJ =_JJ -_: =[_NN 0,1_CD -RRB-_-RRB- -_: =_JJ -_: sN_NN where_WRB a_DT x_NN si_NN =_JJ 1_CD means_VBZ that_IN customer_NN s_VBZ purchased\/clicked_JJ product\/web-page_FW i_FW ,_, and_CC a_DT 0_CD means_VBZ that_IN the_DT customer_NN did_VBD not_RB ,_, and_CC N_NN is_VBZ the_DT number_NN of_IN variables_NNS in_IN the_DT profile_NN 1_CD ._.
+We_PRP are_VBP trying_VBG to_TO predict_VB the_DT

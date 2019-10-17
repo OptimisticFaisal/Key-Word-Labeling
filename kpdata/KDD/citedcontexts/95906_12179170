@@ -1,0 +1,6 @@
+1_CD ._.
+Thus_RB less_RBR probable_JJ words_NNS are_VBP given_VBN less_JJR weight_NN ._.
+A_DT general_JJ problem_NN with_IN calculating_VBG associations_NNS is_VBZ that_IN estimates_NNS can_MD be_VB highly_RB variable_JJ when_WRB the_DT number_NN of_IN observed_VBN counts_NNS is_VBZ small_JJ ._.
+The_DT authors_NNS of_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: address_NN this_DT issue_NN for_IN intensity_NN parameter_NN λ_NN ,_, the_DT ratio_NN of_IN observed_VBN counts_NNS to_TO the_DT number_NN expected_VBD given_VBN independence_NN ._.
+Co-occurrence_NN counts_NNS are_VBP modeled_VBN as_IN Poisson_NNP variables_NNS ._.
+Given_VBN maximum_NN liklihood_NN es_VBZ

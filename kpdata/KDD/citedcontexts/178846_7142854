@@ -1,0 +1,4 @@
+sed_VBN in_IN that_DT sample_NN ._.
+Thus_RB ,_, the_DT sample\/gene_NN expression_NN relationships_NNS for_IN relational_JJ microarray_NN data_NNS are_VBP essentially_RB boolean_JJ ._.
+Leading_VBG associated_VBN rule-based_JJ methods_NNS such_JJ as_IN Top-k_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, FARMER_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, CLOSET_NN +_CC =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC CHARM_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- which_WDT have_VBP been_VBN applied_VBN to_TO microarray_NN datasets_NNS aim_VBP to_TO correlate_VB gene_NN expression_NN patterns_NNS with_IN the_DT classification_NN labels_NNS ._.
+For_IN these_DT algorithms_NNS the_DT discovered_VBN correlations_NNS take_VBP the_DT form_NN

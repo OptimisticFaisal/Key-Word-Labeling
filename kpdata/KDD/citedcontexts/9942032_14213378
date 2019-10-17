@@ -1,0 +1,5 @@
+ns_NNS :_: graph_NN separation_NN metrics_NNS ,_, graph_NN centrality_NN ,_, and_CC distance-ranked_JJ social_JJ search_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+Many_JJ other_JJ social_JJ applications_NNS rely_VBP on_IN shortest_JJS path_NN computations_NNS ._.
+For_IN instance_NN ,_, information_NN dissemination_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: can_MD use_VB node_NN distances_NNS to_TO find_VB the_DT most_RBS influential_JJ nodes_NNS ._.
+Community_NN detection_NN algorithms_NNS -LRB-_-LRB- 23_CD -RRB-_-RRB- can_MD use_VB distance_NN between_IN nodes_NNS to_TO cluster_VB them_PRP ._.
+Algorithms_NNS for_IN detecting_VBG Sybil_NNP attacks_NNS rely_VBP on_IN strategie_NN

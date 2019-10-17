@@ -1,0 +1,5 @@
+rimental_JJ result_NN on_IN several_JJ tasks_NNS in_IN biogenetics_NNS domain_NN and_CC conclude_VBP ._.
+2_CD ._.
+RELATED_NNS WORK_VBP Many_JJ early_JJ approaches_NNS to_TO the_DT problem_NN of_IN retrieval_NN on_IN entity-relation_JJ data_NNS graph_NN are_VBP keyword-based_JJ database_NN systems_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =-[_NN 15_CD -RRB-_-RRB- -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+They_PRP are_VBP designed_VBN mainly_RB for_IN ad-hoc_JJ queries_NNS ,_, thus_RB are_VBP not_RB trainable_JJ for_IN specific_JJ IR_NN tasks_NNS ._.
+Another_DT branch_NN of_IN work_NN is_VBZ using_VBG random_JJ walk_NN on_IN graphs_NNS as_IN proximity_NN measures_NNS ,_, notably_RB the_DT PageRank_NN -LRB-_-LRB- 2_CD

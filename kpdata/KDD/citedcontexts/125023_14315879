@@ -1,0 +1,4 @@
+C_NN curves_NNS ,_, precision-recall_JJ curves_NNS and_CC DET_NN curves_NNS ._.
+Others_NNS have_VBP the_DT operating_NN condition_NN explicitly_RB on_IN the_DT x-axis_NN ,_, and_CC a_DT single_JJ performance_NN metric_NN -LRB-_-LRB- accuracy_NN ,_, error_NN rate_NN ,_, loss_NN -RRB-_-RRB- on_IN the_DT yaxis_NN ._.
+Cost_NN curves_NNS -LRB-_-LRB- =_JJ -_: =_JJ Drummond_NNP &_CC Holte_NNP ,_, 2000_CD -_: =_JJ -_: ;_: 2006_CD -RRB-_-RRB- are_VBP in_IN the_DT latter_JJ category_NN ._.
+The_DT basic_JJ idea_NN is_VBZ to_TO draw_VB loss_NN on_IN the_DT y-axis_NN against_IN `_`` probability_NN cost_NN '_'' -LRB-_-LRB- an_DT operating_NN condition_NN depending_VBG on_IN both_CC class_NN and_CC misclassification_NN cost_NN distribution_NN ,_, cal_NN

@@ -1,0 +1,4 @@
+sumption_NN holds_VBZ or_CC not_RB ._.
+This_DT is_VBZ due_JJ to_TO the_DT fact_NN that_IN naive_JJ Bayes_NNS can_MD converge_VB to_TO its_PRP$ asymptotic_JJ accuracy_NN -LRB-_-LRB- i.e._FW ,_, the_DT model_NN trained_VBN on_IN infinitely_RB number_NN of_IN examples_NNS -RRB-_-RRB- much_RB faster_RBR than_IN logistic_JJ regression_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP a_DT novel_JJ learning_NN method_NN ,_, partitioned_VBN logistic_JJ regression_NN -LRB-_-LRB- PLR_NN -RRB-_-RRB- ,_, which_WDT is_VBZ a_DT hybrid_NN model_NN that_WDT can_MD be_VB viewed_VBN as_IN part_NN generative_NN and_CC part_NN discriminative_JJ ._.
+Given_VBN training_NN exam_NN

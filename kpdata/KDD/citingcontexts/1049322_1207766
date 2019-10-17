@@ -1,0 +1,4 @@
+a_DT display_NN but_CC also_RB allow_VBP the_DT user_NN to_TO quickly_RB navigate_VB the_DT tree_NN to_TO gain_VB even_RB more_JJR knowledge_NN ._.
+Numerous_JJ tree_NN visualization_NN techniques_NNS including_VBG some_DT specifically_RB designed_VBN for_IN visualizing_VBG decision_NN trees_NNS =_JJ -_: =[_NN 3_CD ,_, 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, have_VBP been_VBN proposed_VBN in_IN the_DT past_NN ._.
+However_RB ,_, these_DT methods_NNS are_VBP not_RB appropriate_JJ for_IN visualization_NN decision_NN trees_NNS generated_VBN by_IN PaintingClass_NN ._.
+This_DT is_VBZ because_IN each_DT node_NN in_IN PaintingClass_NN is_VBZ itself_PRP a_DT picture_NN

@@ -1,0 +1,5 @@
+ssification_NN model_NN ,_, using_VBG the_DT trained_JJ multi-view_JJ learners_NNS ._.
+Strategies_NNS for_IN combining_VBG models_NNS have_VBP been_VBN investigated_VBN by_IN many_JJ researchers_NNS ._.
+The_DT most_RBS popular_JJ are_VBP those_DT such_JJ as_IN bagging_NN ,_, boosting_VBG and_CC stacking_VBG =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Voting_NNP approaches_VBZ usually_RB only_RB make_VB sense_NN if_IN the_DT learners_NNS perform_VBP comparably_RB well_RB -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+A_DT meta-learner_JJ method_NN ,_, such_JJ as_IN the_DT one_CD used_VBN in_IN stacking_VBG ,_, is_VBZ designed_VBN to_TO learn_VB which_WDT base_NN classifiers_NNS are_VBP the_DT r_NN

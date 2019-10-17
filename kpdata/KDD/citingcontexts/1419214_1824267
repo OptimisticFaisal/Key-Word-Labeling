@@ -1,0 +1,4 @@
+lusters_NNS so_IN that_IN the_DT points_NNS within_IN each_DT cluster_NN are_VBP similar_JJ to_TO one_CD another_DT ._.
+Most_JJS clustering_NN algorithms_NNS do_VBP not_RB work_VB efficiently_RB in_IN higher_JJR dimensional_JJ spaces_NNS because_IN of_IN the_DT inherent_JJ sparsity_NN of_IN the_DT data_NN =_JJ -_: =[_NN 1_CD ,_, 3_CD ,_, 4_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Consequently_RB ,_, techniques_NNS for_IN finding_VBG projected_JJ clusters_NNS in_IN lower_JJR dimensional_JJ spaces_NNS have_VBP been_VBN discussed_VBN in_IN -LRB-_-LRB- 3_CD ,_, 4_CD ,_, 6_CD -RRB-_-RRB- ._.
+Such_JJ clusters_NNS may_MD exist_VB either_CC in_IN projections_NNS of_IN the_DT original_JJ set_NN of_IN attributes_NNS

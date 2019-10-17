@@ -1,0 +1,4 @@
+l_NN cases_NNS ._.
+Recently_RB ,_, semi-supervised_JJ clustering_NN has_VBZ shown_VBN effectiveness_NN in_IN improving_VBG clustering_NN accuracy_NN by_IN exploring_VBG ``_`` weak_JJ ''_'' supervision_NN in_IN the_DT form_NN of_IN pairwise_JJ ``_`` must-link_JJ ''_'' or_CC ``_`` cannot-link_JJ ''_'' constraints_NNS =_JJ -_: =[_NN 1_CD ,_, 3_CD ,_, 5_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+That_DT is_VBZ ,_, if_IN data_NNS items_NNS a_DT and_CC b_NN are_VBP must-linked\/cannot-linked_JJ ,_, then_RB a_DT and_CC b_NN belong_VBP to_TO the_DT same\/different_JJ cluster_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- ._.
+Two_CD basic_JJ semi-supervised_JJ approaches_NNS are_VBP metric_JJ learning_NN that_WDT learns_VBZ a_DT distance_NN me_PRP

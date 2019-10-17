@@ -1,0 +1,3 @@
+aced_VBD a_DT relational_JJ data-mining_JJ algorithm_NN ,_, RDT_NN ,_, with_IN RDBMSs_NNS and_CC Lisi_NNP and_CC Malerba_NNP -LRB-_-LRB- 92_CD -RRB-_-RRB- have_VBP shown_VBN that_IN AL-log_NN is_VBZ suitable_JJ for_IN inducing_VBG multilevel_JJ association_NN rules_NNS from_IN multiple_JJ relations_NNS ._.
+Hulten_NNP et_FW al._FW =_SYM -_: =[_NN 67_CD ,_, 68_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP proposed_VBN methods_NNS for_IN scaling-up_NN any_DT induction_NN algorithm_NN based_VBN on_IN discrete_JJ search_NN so_IN that_IN the_DT running_VBG time_NN becomes_VBZ independent_JJ of_IN the_DT size_NN of_IN the_DT database_NN ._.
+DiMaio_NNP and_CC Shavlik_NNP -LRB-_-LRB- 35_CD ,_, 36_CD -RRB-_-RRB- have_VBP also_RB f_SYM

@@ -1,0 +1,4 @@
+e_LS often_RB not_RB publicly_RB available_JJ ._.
+Also_RB ,_, similar_JJ behaviors_NNS do_VBP not_RB always_RB indicate_VBP friendship_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, although_IN the_DT network_NN structure_NN can_MD be_VB inferred_VBN with_IN some_DT assumptions_NNS of_IN the_DT information_NN diffusion_NN model_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+When_WRB action_NN data_NNS are_VBP unavailable_JJ or_CC insufficient_JJ ,_, it_PRP remains_VBZ a_DT question_NN how_WRB to_TO infer_VB arbitrary_JJ pairwise_JJ influence_NN varying_VBG with_IN time_NN ,_, given_VBN the_DT dynamic_JJ topological_JJ network_NN structures_NNS ._.
+Motivating_VBG Appl_NN

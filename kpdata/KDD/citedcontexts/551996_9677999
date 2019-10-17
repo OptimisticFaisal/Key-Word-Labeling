@@ -1,0 +1,4 @@
+ency_NN and_CC clustering_NN quality_NN ._.
+Recently_RB ,_, a_DT number_NN of_IN algorithms_NNS have_VBP been_VBN developed_VBN for_IN clustering_VBG transactional_JJ data_NNS by_IN utilizing_VBG specific_JJ features_NNS of_IN transactional_JJ data_NNS ,_, such_JJ as_IN LargeItem_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- ,_, CLOPE_NN =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC CCCD_NN -LRB-_-LRB- 31_CD -RRB-_-RRB- ._.
+However_RB ,_, all_DT of_IN the_DT existing_VBG proposals_NNS suffer_VBP from_IN one_CD obvious_JJ drawback_NN ._.
+All_DT proposed_VBN clustering_NN algorithms_NNS require_VBP users_NNS to_TO manually_RB tune_VB at_IN least_JJS one_CD or_CC two_CD parameters_NNS of_IN the_DT cluste_NN

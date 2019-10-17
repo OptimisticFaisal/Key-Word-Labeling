@@ -1,0 +1,5 @@
+omputing_VBG the_DT ranking_JJ vector_NN r_NN -LRB-_-LRB- step_NN 1_CD -RRB-_-RRB- by_IN the_DT most_RBS commonly_RB used_VBN power_NN method_NN ._.
+There_EX are_VBP a_DT lot_NN of_IN fast_JJ methods_NNS for_IN computing_VBG r_NN ,_, either_CC by_IN effective_JJ approximation_NN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 37_CD -RRB-_-RRB- -RRB-_-RRB- ,_, or_CC by_IN parallelism_NN -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+These_DT methods_NNS can_MD be_VB naturally_RB plugged_VBN in_IN our_PRP$ DRAGON_NNP ,_, which_WDT might_MD lead_VB to_TO further_JJ computational_JJ savings_NNS ._.
+Secondly_RB ,_, the_DT O_NN -LRB-_-LRB- nk_NN -RRB-_-RRB- term_NN in_IN Lemma_NNP 2_CD comes_VBZ from_IN the_DT greedy_JJ selection_NN step_NN in_IN steps_NNS 6-12_CD ._.
+Than_IN

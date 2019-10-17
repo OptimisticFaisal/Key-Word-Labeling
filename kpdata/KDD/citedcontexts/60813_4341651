@@ -1,0 +1,4 @@
+e_LS some_DT constrains_VBZ for_IN pairs_NNS of_IN instances_NNS belonging_VBG to_TO the_DT same_JJ or_CC different_JJ clusters_NNS ._.
+Such_JJ a_DT semi-supervised_JJ clustering_NN method_NN has_VBZ demonstrated_VBN its_PRP$ ability_NN in_IN greatly_RB improving_VBG the_DT clustering_NN results_VBZ =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, in_IN our_PRP$ unsupervised_JJ clustering_NN setting_NN ,_, there_EX does_VBZ not_RB exist_VB apparent_JJ supervisions_NNS ._.
+Thus_RB an_DT interesting_JJ question_NN is_VBZ :_: is_VBZ it_PRP possible_JJ to_TO obtain_VB some_DT supervisions_NNS from_IN the_DT completely_RB unlabeled_JJ

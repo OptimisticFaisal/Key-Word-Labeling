@@ -1,0 +1,4 @@
+imbalance_NN in_IN a_DT network_NN can_MD be_VB used_VBN to_TO derive_VB a_DT link_NN prediction_NN algorithm_NN ._.
+Our_PRP$ framework_NN allows_VBZ us_PRP to_TO reinterpret_VB some_DT existing_VBG algorithms_NNS as_RB well_RB as_IN derive_VB new_JJ ones_NNS ._.
+Second_RB ,_, we_PRP extend_VBP the_DT approach_NN of_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, by_IN presenting_VBG a_DT supervised_JJ machine_NN learning_VBG based_VBN link_NN prediction_NN method_NN that_WDT uses_VBZ features_NNS derived_VBN from_IN longer_JJR cycles_NNS in_IN the_DT network_NN ._.
+The_DT supervised_JJ method_NN outperforms_VBZ all_DT previous_JJ approaches_NNS on_IN 3_CD

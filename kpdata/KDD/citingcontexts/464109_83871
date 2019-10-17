@@ -1,0 +1,3 @@
+SVM_NN training_NN ,_, by_IN seeding_VBG successive_JJ SVM_NN trainings_NNS with_IN the_DT results_NNS of_IN previous_JJ similar_JJ trainings_NNS ._.
+1_CD Introduction_NN Recent_JJ progress_NN on_IN speeding_VBG up_RP the_DT training_NN time_NN for_IN support_NN vector_NN machines_NNS -LRB-_-LRB- e.g._FW -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =--RRB-_NN has_VBZ made_VBN SVM_NNP 's_POS practical_JJ now_RB for_IN training_NN sets_NNS that_WDT are_VBP fairly_RB large_JJ ._.
+However_RB ,_, the_DT time_NN complexities_NNS of_IN those_DT approaches_NNS are_VBP still_RB typically_RB quadratic_JJ in_IN the_DT number_NN of_IN examples_NNS -LRB-_-LRB- N_NN -RRB-_-RRB- in_IN the_DT training_NN d_NN

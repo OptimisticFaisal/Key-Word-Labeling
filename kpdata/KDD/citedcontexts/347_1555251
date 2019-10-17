@@ -1,0 +1,3 @@
+th_DT association_NN rules_NNS is_VBZ the_DT prohibitive_JJ number_NN of_IN frequent_JJ itemsets_NNS -LRB-_-LRB- and_CC hence_RB association_NN rules_NNS -RRB-_-RRB- that_WDT results_VBZ from_IN even_RB a_DT reasonably_RB large_JJ dataset_NN ._.
+The_DT frequent_JJ closed_JJ itemsets_NNS -LRB-_-LRB- FCIs_NNS -RRB-_-RRB- research_NN topic_NN =_JJ -_: =[_NN 21_CD ,_, 13_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: constitutes_VBZ a_DT promising_JJ approach_NN to_TO the_DT problem_NN of_IN reducing_VBG the_DT number_NN of_IN the_DT reported_VBN association_NN rules_NNS ._.
+Yet_RB another_DT difficulty_NN arises_VBZ with_IN dynamic_JJ databases_NNS where_WRB the_DT transaction_NN set_NN is_VBZ frequently_RB

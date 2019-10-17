@@ -1,0 +1,4 @@
+tions_NNS ,_, and_CC hence_RB do_VBP not_RB introduce_VB any_DT noises_NNS ._.
+Secure_VB multi-party_JJ data_NNS mining_NN allows_VBZ multiple_JJ distrusted_JJ parties_NNS to_TO cooperatively_RB compute_VB data_NNS mining_NN results_VBZ with_IN minimal_JJ disclosures_NNS of_IN their_PRP$ own_JJ data_NN =_JJ -_: =[_NN 36_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT problem_NN is_VBZ different_JJ from_IN inference_NN control_NN ,_, because_IN the_DT threat_NN of_IN inferences_NNS comes_VBZ from_IN what_WP users_NNS know_VBP ,_, not_RB from_IN the_DT way_NN they_PRP know_VBP it_PRP ._.
+The_DT k-anonymity_NN model_NN releases_VBZ sensitive_JJ values_NNS but_CC rend_NN

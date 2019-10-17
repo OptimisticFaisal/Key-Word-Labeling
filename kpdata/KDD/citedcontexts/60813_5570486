@@ -1,0 +1,4 @@
+e_LS form_NN of_IN pairwise_JJ ``_`` must-links_NNS ''_'' and_CC ``_`` cannot-links_NNS ''_'' ._.
+Objects_NNS connected_VBN by_IN a_DT must-link_NN are_VBP supposed_VBN to_TO be248_NN long_JJ to_TO the_DT same_JJ cluster_NN ;_: those_DT with_IN a_DT cannot-link_NN should_MD be_VB assigned_VBN to_TO different_JJ clusters_NNS ._.
+=_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ a_DT probabilistic_JJ framework_NN based_VBN on_IN Hidden_NNP Markov_NNP Random_NNP Fields_NNP ,_, incorporating_VBG supervision_NN into_IN k-clustering_NN algorithms_NNS ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- also_RB considers_VBZ additional_JJ minimum_JJ separation_NN and_CC minimum_NN connectiv_NN

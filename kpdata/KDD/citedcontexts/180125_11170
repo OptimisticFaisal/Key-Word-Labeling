@@ -1,0 +1,3 @@
+from_IN the_DT query_NN processing_NN architecture_NN ,_, user_NN and_CC application_NN interfaces_NNS need_VBP to_TO be_VB reinvestigated_VBN in_IN a_DT DSMS_NN given_VBN the_DT dynamic_JJ environment_NN in_IN which_WDT it_PRP operates_VBZ ._.
+Systems_NNP such_JJ as_IN Aurora_NNP -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC Hancock_NNP =_SYM -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: completely_RB eliminate_VB declarative_JJ querying_VBG and_CC provide_VB only_JJ procedural_JJ mechanisms_NNS for_IN querying_VBG ._.
+In_IN contrast_NN ,_, we_PRP will_MD provide_VB a_DT declarative_JJ language_NN for_IN continuous_JJ queries_NNS ,_, similar_JJ to_TO SQL_NN but_CC extended_VBD

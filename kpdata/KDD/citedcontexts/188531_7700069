@@ -1,0 +1,4 @@
+it_PRP receives_VBZ from_IN the_DT merging_JJ ._.
+Further_JJ implementation_NN details_NNS are_VBP discussed_VBN in_IN section_NN 3.1_CD 2.5_CD Outlier_NNP detection_NN As_IN we_PRP discussed_VBD earlier_JJR several_JJ techniques_NNS have_VBP addressed_VBN for_IN spatial_JJ outlier_NN detection_NN =_JJ -_: =[_NN 5,11,13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT case_NN of_IN graph_NN based_VBN spatial_JJ outlier_NN detection_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, emphasis_NN has_VBZ clearly_RB been_VBN given_VBN to_TO the_DT identification_NN of_IN the_DT neighborhood_NN ._.
+This_DT neighborhood_NN ,_, however_RB ,_, considers_VBZ the_DT linkage_NN between_IN spatia_NN

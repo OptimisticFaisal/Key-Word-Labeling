@@ -1,0 +1,4 @@
+f_LS -RRB-_-RRB- Running_VBG Time_NNP Figure_NNP 2_CD :_: Performance_NNP :_: -LRB-_-LRB- a_LS -RRB-_-RRB- Precision@10;_NN -LRB-_-LRB- b_NN -RRB-_-RRB- Precision@20;_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Recall@50;_NN -LRB-_-LRB- d_NN -RRB-_-RRB- Precision_NN Recall_VB Curve_NN ;_: -LRB-_-LRB- e_LS -RRB-_-RRB- Parameter_NN Tuning_NN ;_: and_CC -LRB-_-LRB- f_LS -RRB-_-RRB- Running_VBG time_NN ._.
+provide_VB high_JJ quality_NN answers_NNS ._.
+SimRank_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT wellknownsimilarityfunctiondefinedonnetworks_NNS ,_, bywhich_VBP the_DT most_RBS similar_JJ objects_NNS for_IN the_DT given_VBN object_NN can_MD be_VB returned_VBN ._.
+However_RB ,_, due_JJ to_TO the_DT fact_NN that_IN it_PRP is_VBZ a_DT global_JJ graphmeasure_NN ,_, thehighcomputation_NN

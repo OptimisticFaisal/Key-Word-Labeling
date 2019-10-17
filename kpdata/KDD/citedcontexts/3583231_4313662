@@ -1,0 +1,4 @@
+The_DT privacy-preserving_JJ properties_NNS of_IN the_DT perturbation_NN techniques_NNS are_VBP further_RB explored_VBN in_IN -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+Privacy-preserving_JJ data_NNS mining_NN solutions_NNS have_VBP also_RB been_VBN proposed_VBN based_VBN on_IN cryptographic_JJ techniques_NNS -LRB-_-LRB- c.f._NN =_JJ -_: =[_NN 23_CD ,_, 34_CD ,_, 38_CD ,_, 39_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+However_RB ,_, the_DT design_NN of_IN the_DT cryptographic_JJ protocol_NN depends_VBZ on_IN the_DT specific_JJ mining_NN task_NN ,_, unless_IN a_DT prohibitively_RB expensive_JJ general-purpose_JJ secure_JJ multiparty_JJ computation_NN is_VBZ used_VBN -LRB-_-LRB- 40_CD ,_, 15_CD -RRB-_-RRB- ._.
+A_DT class_NN of_IN cl_NN

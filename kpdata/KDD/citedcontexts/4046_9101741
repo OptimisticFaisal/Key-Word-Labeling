@@ -1,0 +1,6 @@
+o_NN not_RB ._.
+Fortunately_RB ,_, the_DT outputs_NNS of_IN these_DT other_JJ methods_NNS can_MD typically_RB be_VB postprocessed_VBN into_IN calibrated_VBN probabilities_NNS ._.
+The_DT two_CD most_RBS common_JJ postprocessing_VBG methods_NNS for_IN calibration_NN are_VBP isotonic_JJ regression_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC fitting_JJ a_DT one-dimensional_JJ logistic_JJ regression_NN function_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+We_PRP apply_VBP the_DT latter_JJ 216_CD method_NN ,_, which_WDT is_VBZ often_RB called_VBN Platt_NNP scaling_NN ,_, to_TO SVM_NNP classifiers_NNS in_IN Section_NNP 5_CD below_IN ._.
+4_LS ._.
+AN_DT ILLUSTRATION_NN To_TO ill_RB

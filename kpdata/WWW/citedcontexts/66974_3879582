@@ -1,0 +1,5 @@
+orithms_NNS ._.
+More_JJR than_IN one_CD front_JJ end_NN server_NN and_CC Domain_NN Name_NN System_NN -LRB-_-LRB- DNS_NN -RRB-_-RRB- can_MD be_VB used_VBN to_TO perform_VB load_NN balancing_NN ._.
+But_CC this_DT still_RB is_VBZ not_RB a_DT scalable_JJ solution_NN especially_RB when_WRB QoS_NN objectives_NNS are_VBP considered_VBN ._.
+In_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: the_DT authors_NNS present_VBP the_DT concept_NN of_IN deploying_VBG an_DT external_JJ component_NN in_IN the_DT request_NN flow_NN path_NN which_WDT performs_VBZ admission_NN control_NN to_TO keep_VB the_DT load_NN on_IN the_DT system_NN below_IN a_DT certain_JJ threshold_NN ._.
+The_DT architecture_NN

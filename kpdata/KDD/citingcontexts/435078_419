@@ -1,0 +1,4 @@
+5-X\/05\/0008_NN ..._: $_$ 5.00_CD ._.
+Jordi_NNP Turmo_NNP Technical_NNP University_NNP of_IN Catalonia_NNP Barcelona_NNP ,_, Spain_NNP turmo@lsi.upc.edu_NNP Alicia_NNP Ageno_NNP Technical_NNP University_NNP of_IN Catalonia_NNP Barcelona_NNP ,_, Spain_NNP ageno@lsi.upc.edu_NN imization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+EM_NN iteratively_RB :_: -LRB-_-LRB- a_LS -RRB-_-RRB- assigns_VBZ membership_NN probabilities_NNS for_IN all_DT data_NNS items_NNS and_CC all_DT clusters_NNS ,_, and_CC -LRB-_-LRB- b_LS -RRB-_-RRB- re-estimates_VBZ its_PRP$ model_NN parameters_NNS based_VBN on_IN the_DT new_JJ assignments_NNS ._.
+The_DT EM_NNP class_NN of_IN clustering_NN algorithm_NN

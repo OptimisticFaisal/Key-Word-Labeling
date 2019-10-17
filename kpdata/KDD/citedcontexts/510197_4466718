@@ -1,0 +1,4 @@
+represented_VBN in_IN terms_NNS of_IN continuous_JJ trajectories_NNS along_IN time_NN in_IN acoustic_JJ parameter_NN space_NN ._.
+The_DT speech_NN trajectories_NNS are_VBP then_RB clustered_VBN into_IN a_DT number_NN of_IN classes_NNS using_VBG the_DT Mixture_NN of_IN Polynomial_JJ Regression_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT way_NN ,_, the_DT dependency_NN of_IN neighboring_JJ frames_NNS and_CC the_DT evolutionary_JJ pattern_NN of_IN a_DT training_NN token_JJ are_VBP preserved_JJ ._.
+One_CD common_JJ but_CC serious_JJ problem_NN for_IN TC_NN is_VBZ that_IN it_PRP is_VBZ highly_RB sensitive_JJ to_TO the_DT initial_JJ

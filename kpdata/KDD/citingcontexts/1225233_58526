@@ -1,0 +1,4 @@
+f_LS model_NN selection_NN ._.
+Finally_RB ,_, it_PRP is_VBZ possible_JJ to_TO express_VB a_DT preference_NN for_IN sparse_JJ and_CC smooth_JJ kernels_NNS as_IN a_DT part_NN of_IN the_DT optimization_NN problem_NN ,_, combining_VBG the_DT quest_NN for_IN decomposability_NN and_CC the_DT actual_JJ learning_NN =_JJ -_: =[_NN 5_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+With_IN the_DT example_NN of_IN Sect_NNP ._.
+3.2_CD ,_, we_PRP pointed_VBD out_RP that_IN nomograms_NNS may_MD be_VB the_DT right_JJ tool_NN for_IN experimental_JJ comparison_NN of_IN different_JJ models_NNS and_CC modelling_NN techniques_NNS ,_, as_IN it_PRP allows_VBZ to_TO easily_RB spot_VB the_DT similarit_NN

@@ -1,0 +1,5 @@
+rmed_VBN on_IN Intel_NNP Pentium_NNP 4_CD machines_NNS with_IN in_IN between_IN 1GB_NN and_CC 2GB_NN of_IN main_JJ memory_NN ,_, running_VBG Linux_NNP ._.
+DL8_NN and_CC the_DT frequent_JJ itemset_NN miners_NNS were_VBD implemented_VBN in_IN C_NN +_CC +_CC ._.
+The_DT experiments_NNS were_VBD performed_VBN on_IN UCI_NN datasets_NNS =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Numerical_JJ data_NNS were_VBD discretized_VBN before_IN applying_VBG the_DT learning_NN algorithms_NNS using_VBG Weka_NNP 's_POS unsupervised_JJ discretization_NN method_NN with_IN a_DT number_NN of_IN bins_NNS equal_JJ to_TO 4_CD ._.
+We_PRP limited_VBD the_DT number_NN of_IN bins_NNS in_IN order_NN to_TO li_VB

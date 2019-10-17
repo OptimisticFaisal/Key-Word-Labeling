@@ -1,0 +1,7 @@
+uting_VBG exact_JJ cover_NN or_CC using_VBG the_DT algorithm_NN greedy-partition_NN ._.
+4_LS ._.
+Apply_JJ algorithm_NN greedy-order_NN with_IN some_DT suitable_JJ ɛ_NN to_TO each_DT member_NN of_IN the_DT partition_NN ._.
+The_DT proposed_VBN method_NN is_VBZ similar_JJ to_TO that_DT of_IN Beil_NNP et_NNP ._.
+al._FW =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, who_WP use_VBP frequent_JJ sets_NNS and_CC a_DT greedy_JJ algorithm_NN to_TO cluster_NN -LRB-_-LRB- hyper_NN -RRB-_-RRB- text_NN documents_NNS ._.
+The_DT first_JJ difference_NN to_TO our_PRP$ approach_NN is_VBZ that_IN we_PRP restrict_VBP the_DT cluster_NN candidates_NNS to_TO frequent_JJ closed_JJ itemsets_NNS ._.
+Also_RB ,_, our_PRP$

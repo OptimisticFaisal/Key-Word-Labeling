@@ -1,0 +1,5 @@
+base_NN interoperability_NN regards_VBZ Web_NN sites_NNS ._.
+Nowadays_RB many_JJ Web_NN sites_NNS are_VBP dynamically_RB generated_VBN from_IN a_DT database_NN ,_, therefore_RB it_PRP would_MD be_VB useful_JJ to_TO let_VB this_DT content_NN be_VB available_JJ for_IN Semantic_JJ Web_NN applications_NNS =_JJ -_: =[_NN 7_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Many_JJ forms_NNS of_IN mappings_NNS between_IN ontologies_NNS and_CC database_NN have_VBP been_VBN proposed_VBN in_IN the_DT literature_NN ._.
+Most_JJS of_IN them_PRP use_VBP an_DT OWL_NN ontology_NN to_TO describe_VB the_DT database_NN structure_NN and_CC data_NNS ._.
+The_DT rules_NNS to_TO implement_VB the_DT

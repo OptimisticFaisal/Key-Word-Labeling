@@ -1,0 +1,5 @@
+r_NN a_DT feature_NN such_JJ as_IN COUNT_NN -LRB-_-LRB- Disclosure_NN ._.
+type_NN =_JJ Bankruptcy_NN -RRB-_-RRB- -RRB-_-RRB- 1_CD where_WRB the_DT type_NN and_CC number_NN of_IN disclosures_NNS is_VBZ determined_VBN by_IN the_DT algorithm_NN ._.
+The_DT RPT_NNP is_VBZ a_DT type_NN of_IN probability_NN estimation_NN tree_NN for_IN relational_JJ data_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT probability_NN estimation_NN tree_NN is_VBZ similar_JJ to_TO a_DT classification_NN tree_NN ,_, however_RB the_DT leaves_NNS contain_VBP a_DT probability_NN distribution_NN rather_RB than_IN a_DT class_NN label_NN assignment_NN ._.
+Tree-based_JJ representations_NNS are_VBP often_RB ch_IN

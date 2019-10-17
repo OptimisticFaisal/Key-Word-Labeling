@@ -1,0 +1,5 @@
+of_IN four_CD animo_JJ acid_NN A_NN ,_, C_NN ,_, G_NN ,_, T_NN and_CC a_DT DNA_NN segment_NN ,_, such_JJ as_IN ACCCCCGT_NNP ,_, is_VBZ a_DT simple_JJ symbolic_JJ sequence_NN ._.
+•_NN A_NN complex_NN symbolic_JJ sequence_NN is_VBZ an_DT ordered_VBN list_NN of_IN vectors_NNS ._.
+Each_DT vector_NN is_VBZ a_DT subset_NN of_IN the_DT alphabet_NN =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, for_IN a_DT sequence_NN of_IN items_NNS bought_VBN by_IN a_DT customer_NN over_IN one_CD year_NN ,_, treating_VBG each_DT transaction_NN as_IN a_DT vector_NN ,_, a_DT sequence_NN can_MD be_VB 〈_JJ -LRB-_-LRB- milk_NN ,_, bread_NN -RRB-_-RRB- -LRB-_-LRB- milk_NN ,_, egg_NN -RRB-_-RRB- ·_FW ·_FW ·_NN -LRB-_-LRB- potatos_NNS ,_, cheese_NN ,_, coke_NN -RRB-_-RRB- 〉_NN ._.
+•_NN A_NN simple_NN

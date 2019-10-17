@@ -1,0 +1,3 @@
+runtime_NN heuristics_NNS ._.
+Besides_IN the_DT detection_NN of_IN code_NN injection_NN attacks_NNS at_IN the_DT network_NN level_NN -LRB-_-LRB- 13_CD --_: 15_CD ,_, 18_CD ,_, 25_CD -RRB-_-RRB- ,_, shellcode_NN identification_NN has_VBZ been_VBN used_VBN for_IN in-browser_JJ detection_NN of_IN drive-by_JJ download_NN attacks_NN =_JJ -_: =[_NN 8,9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, as_RB well_RB as_IN malicious_JJ document_NN scanning_NN -LRB-_-LRB- 18_CD ,_, 22_CD -RRB-_-RRB- ._.
+In_IN a_DT ROP_NN exploit_VB ,_, however_RB ,_, in_IN place_NN of_IN the_DT shellcode_NN ,_, the_DT attack_NN vector_NN contains_VBZ just_RB a_DT chunk_NN of_IN data_NNS --_: to_TO which_WDT we_PRP refer_VBP as_IN the_DT ROP_NNP payload_NN --_: comprising_VBG

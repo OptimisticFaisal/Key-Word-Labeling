@@ -1,0 +1,4 @@
+log_NN information_NN and_CC find_VBP that_IN almost_RB any_DT metric_NN they_PRP examined_VBD ,_, such_JJ as_IN size_NN of_IN cascades_NNS ,_, size_NN of_IN blogs_NNS ,_, and_CC in_IN -_: and_CC out-degrees_NNS ,_, follows_VBZ a_DT power_NN law_NN distribution_NN ._.
+Gomez-Rodriguez_NNP ,_, Leskovec_NNP and_CC Krause_NNP =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: convert_VB the_DT edge_NN inference_NN problem_NN to_TO combinatorial_JJ optimization_NN problem_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+They_PRP find_VBP that_IN choosing_VBG the_DT best_JJS set_NN of_IN k_NN edges_NNS maximizing_VBG the_DT likelihood_NN of_IN the_DT data_NN is_VBZ NP-hard_JJ ._.
+They_PRP then_RB develop_VBP NETIN_NN

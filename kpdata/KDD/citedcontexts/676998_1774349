@@ -1,0 +1,3 @@
+rule_NN mining_NN -LRB-_-LRB- AMS_NN +_CC 96_CD -RRB-_-RRB- with_IN a_DT systematic_JJ search_NN for_IN rules_NNS under_IN strong_JJ pruning_NN techniques_NNS -LRB-_-LRB- Rym93_NN ,_, Web93_NN ,_, Web95_NN ,_, Web00_NN -RRB-_-RRB- ._.
+Our_PRP$ analysis_NN is_VBZ similar_JJ to_TO the_DT general_JJ framework_NN for_IN rule_NN induction_NN proposed_VBN by_IN =_JJ -_: =_JJ -LRB-_-LRB- Web00_NN -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC with_IN important_JJ modifications_NNS -LRB-_-LRB- Section_NN 4_CD -RRB-_-RRB- ._.
+We_PRP show_VBP how_WRB specific_JJ settings_NNS for_IN the_DT modified_VBN framework_NN provide_VBP a_DT principled_JJ approach_NN to_TO the_DT construction_NN of_IN accurate_JJ rules_NNS correlating_VBG computer_NN events_NNS

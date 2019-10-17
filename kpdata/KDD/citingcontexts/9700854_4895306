@@ -1,0 +1,3 @@
+model_NN uses_VBZ predicted_VBN values_NNS from_IN the_DT past_NN to_TO infer_VB future_JJ values_NNS ,_, this_DT approach_NN may_MD lead_VB to_TO an_DT error_NN accumulation_NN problem_NN ,_, which_WDT is_VBZ the_DT propagation_NN of_IN errors_NNS from_IN one_CD prediction_NN step_NN to_TO the_DT next_JJ step_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Long-term_JJ forecasting_NN also_RB requires_VBZ an_DT extensive_JJ amount_NN of_IN historical_JJ data_NNS in_IN order_NN to_TO train_VB a_DT reliable_JJ model_NN ._.
+Instead_RB of_IN predicting_VBG the_DT future_JJ values_NNS of_IN a_DT time_NN series_NN based_VBN on_IN its_PRP$ historical_JJ values_NNS

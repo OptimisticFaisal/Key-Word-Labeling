@@ -1,0 +1,5 @@
+5_CD ,_, repeated-labeling_NN can_MD apply_VB regardless_RB of_IN the_DT number_NN of_IN true_JJ class_NN labels_NNS ._.
+The_DT key_JJ difference_NN is_VBZ whether_IN the_DT labels_NNS are_VBP noisy_JJ ._.
+A_DT closely_RB related_JJ problem_NN setting_NN is_VBZ described_VBN by_IN Jin_NN and_CC Ghahramani_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN their_PRP$ variant_NN of_IN the_DT multiple_JJ label_NN classification_NN problem_NN ,_, each_DT example_NN presents_VBZ itself_PRP with_IN a_DT set_NN mutually_RB exclusive_JJ labels_NNS ,_, one_CD of_IN which_WDT is_VBZ correct_JJ ._.
+The_DT setting_NN for_IN repeated-labeling_NN has_VBZ impor_VBN

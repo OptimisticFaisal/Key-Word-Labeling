@@ -1,0 +1,5 @@
+ess_NN ,_, but_CC not_RB to_TO weight_NN variables_NNS ._.
+Xing_NNP et_NNP ._.
+al_FW -LRB-_-LRB- 12_CD -RRB-_-RRB- propose_VBP a_DT distance-based_JJ semi-supervised_JJ k-means_NN which_WDT learns_VBZ a_DT distance_NN metric_NN by_IN respecting_VBG the_DT known_JJ constraints_NNS between_IN data_NNS points_NNS ._.
+Basu_NNP et_FW al._FW =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: present_VB a_DT hybrid_NN model_NN which_WDT considers_VBZ the_DT constraints_NNS between_IN data_NNS points_NNS during_IN both_CC the_DT clustering_NN process_NN as_RB well_RB as_IN the_DT distance_NN metric_JJ learning_NN ._.
+Although_IN variable_JJ weighting_NN can_MD be_VB regarded_VBN as_IN a_DT

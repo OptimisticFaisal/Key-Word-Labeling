@@ -1,0 +1,5 @@
+arning_VBG algorithm_NN where_WRB each_DT machine_NN handles_VBZ a_DT subset_NN of_IN the_DT data_NNS ._.
+For_IN a_DT discussion_NN of_IN typical_JJ issues_NNS involved_VBN in_IN parallelizing_VBG stochastic_JJ gradient_NN descent_NN ,_, see_VBP the_DT recent_JJ talk_NN by_IN Delalleau_NNP and_CC Bengio_NNP =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4.2_CD ǫ-accurate_NN SVM_NN Regression_NN SVM_NN Regression_NN is_VBZ another_DT state_NN of_IN the_DT art_NN method_NN for_IN regression_NN tasks_NNS -LRB-_-LRB- 29_CD -RRB-_-RRB- ._.
+However_RB ,_, SVM_NN solvers_NNS typically_RB scale_VBP poorly_RB with_IN large_JJ training_NN set_NN sizes_NNS ._.
+We_PRP considered_VBD th_DT

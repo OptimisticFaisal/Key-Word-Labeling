@@ -1,0 +1,5 @@
+of_IN association_NN rule_NN mining_NN is_VBZ find_VB frequent_JJ itemsets_NNS or_CC large_JJ itemsets_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+These_DT are_VBP itemsets_NNS whose_WP$ support_NN is_VBZ larger_JJR than_IN a_DT user-specified_JJ threshold_NN ._.
+A_DT fast_JJ algorithm_NN called_VBN Apriori_NNP was_VBD proposed_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT generatess_NN -LRB-_-LRB- k_NN +1_CD -RRB-_-RRB- -_: candidates_NNS using_VBG joins_VBZ over_IN frequent_JJ k-itemsets_NNS which_WDT were_VBD already_RB generated_VBN ._.
+Thus_RB ,_, for_IN each_DT frequent_JJ itemset_NN ,_, all_DT subsets_NNS of_IN it_PRP need_VBP to_TO be_VB generated_VBN by_IN the_DT algorithm_NN ._.
+Because_IN

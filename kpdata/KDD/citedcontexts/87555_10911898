@@ -1,0 +1,4 @@
+roup_NN --_: post-processing_JJ method_NN ,_, which_WDT mainly_RB relies_VBZ on_IN the_DT posterior_JJ probabilities_NNS produced_VBN by_IN the_DT classifiers_NNS ._.
+Many_JJ papers_NNS have_VBP been_VBN published_VBN in_IN this_DT area_NN such_JJ as_IN meta_NN cost-sensitive_JJ learning_NN -LRB-_-LRB- CSL_NN -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 11_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Most_JJS of_IN them_PRP have_VBP applied_VBN CSL_NNP to_TO C4_NN .5_CD -LRB-_-LRB- -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- -RRB-_-RRB- ,_, Naive_JJ Bayes_NNS -LRB-_-LRB- NB_NN -RRB-_-RRB- -LRB-_-LRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- -RRB-_-RRB- ,_, and_CC support_NN vector_NN machines_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Since_IN the_DT methods_NNS in_IN this_DT group_NN are_VBP based_VBN on_IN posterior_JJ probabilities_NNS ,_, it_PRP is_VBZ

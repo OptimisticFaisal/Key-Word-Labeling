@@ -1,0 +1,5 @@
+erimental_JJ databases_NNS ._.
+In_IN order_NN to_TO compare_VB the_DT effect_NN of_IN the_DT meta-learning_JJ phase_NN of_IN the_DT MRC_NNP approach_NN ,_, we_PRP provide_VBP the_DT experimental_JJ results_NNS when_WRB using_VBG C4_NN .5_CD decision_NN tree_NN ,_, SVMs_NNS and_CC One_CD Rule_NN -LRB-_-LRB- 1R_NN -RRB-_-RRB- algorithm_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: as_IN the_DT meta-learners_NNS ._.
+These_DT three_CD meta-learners_NNS represent_VBP three_CD diverse_JJ strategies_NNS to_TO construct_VB a_DT model_NN ._.
+Each_DT of_IN these_DT experiments_NNS produces_VBZ results_NNS using_VBG ten-fold_JJ cross_NN validation_NN ._.
+We_PRP report_VBP the_DT aver_NN

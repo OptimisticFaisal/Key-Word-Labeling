@@ -1,0 +1,4 @@
+nectivity_NN ._.
+The_DT fastest_JJS deterministic_JJ minimum_JJ cut_NN algorithm_NN in_IN practice_NN has_VBZ time_NN complexity_NN O_NN -LRB-_-LRB- |_CD V_NN |_FW |_FW E_NN |_CD +_CC |_CD V_NN |_NN 2_CD log_NN |_NNP V_NNP |_NNP -RRB-_-RRB- ,_, where_WRB |_NNP V_NNP |_NNP and_CC |_NNP E_NNP |_NNP are_VBP the_DT node_NN set_NN size_NN and_CC the_DT edge_NN set_VBD size_NN of_IN a_DT given_VBN graph_NN =_JJ -_: =[_NN 4_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO compute_VB the_DT edge_NN connectivity_NN in_IN all_DT subgraphs_NNS of_IN closed_JJ graphs_NNS is_VBZ equivalent_JJ to_TO enumerating_VBG all_DT frequent_JJ graphs_NNS and_CC check_VB their_PRP$ connectivity_NN ._.
+Since_IN billions_NNS of_IN frequent_JJ graphs_NNS may_MD exist_VB in_IN the_DT d_NN

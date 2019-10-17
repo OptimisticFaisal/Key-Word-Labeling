@@ -1,0 +1,5 @@
+xpert_NN finding_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+Association_NN search_NN aims_VBZ at_IN finding_VBG connections_NNS between_IN people_NNS ._.
+For_IN example_NN ,_, the_DT ReferralWeb_NNP -LRB-_-LRB- 18_CD -RRB-_-RRB- system_NN helps_VBZ people_NNS search_VB and_CC explore_VB social_JJ networks_NNS on_IN the_DT Web_NN ._.
+Adamic_NNP and_CC Adar_NNP =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP investigated_VBN the_DT problem_NN of_IN association_NN search_NN in_IN email_NN networks_NNS ._.
+However_RB ,_, existing_VBG work_NN mainly_RB focuses_VBZ on_IN how_WRB to_TO find_VB connections_NNS between_IN people_NNS and_CC ignores_VBZ how_WRB to_TO rank_VB the_DT found_VBN associations_NNS ._.

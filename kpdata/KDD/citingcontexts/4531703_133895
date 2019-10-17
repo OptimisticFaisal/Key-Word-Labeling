@@ -1,0 +1,4 @@
+ost_NN information_NN into_IN the_DT C4_NN .5_FW learningsalgorithm_FW ._.
+Other_JJ cost-sensitive_JJ learning_NN methods_NNS that_WDT are_VBP algorithm-independent_JJ include_VBP AdaCost_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, MetaCost_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, and_CC Costing_VBG -LRB-_-LRB- 32_CD -RRB-_-RRB- ._.
+In_IN addition_NN ,_, Joshi_NNP et_FW al._FW =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: discussed_VBD the_DT limitations_NNS of_IN boosting_VBG algorithms_NNS for_IN rare_JJ class_NN modeling_NN and_CC proposed_VBN PNrule_NN ,_, a_DT two-phase_JJ rule_NN induction_NN algorithm_NN ,_, to_TO handle_VB the_DT rare_JJ class_NN purposefully_RB -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+Other_JJ algorithms_NNS develo_VBP

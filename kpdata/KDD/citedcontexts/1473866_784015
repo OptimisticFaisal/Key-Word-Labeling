@@ -1,0 +1,3 @@
+hether_VB the_DT pair_NN should_MD be_VB considered_VBN a_DT ``_`` match_NN ''_'' or_CC a_DT ``_`` mismatch_NN ._. ''_''
+Model_NNP parameters_NNS are_VBP estimated_VBN from_IN both_CC positive_JJ and_CC negative_JJ examples_NNS ,_, unlike_IN in_IN previous_JJ generative_JJ models_NNS -LRB-_-LRB- Ristad_NNP &_CC Yianilos_NNP ,_, 1998_CD ;_: =_JJ -_: =_JJ Bilenko_NNP &_CC Mooney_NNP ,_, 2003_CD -_: =--RRB-_NN ._.
+As_IN in_IN those_DT models_NNS ,_, however_RB ,_, it_PRP is_VBZ not_RB necessary_JJ to_TO provide_VB the_DT desired_VBN edit-operations_NNS or_CC alignments_NNS --_: the_DT alignments_NNS that_WDT enable_VBP the_DT most_RBS accurate_JJ discrimination_NN will_MD be_VB discovered_VBN automatically_RB

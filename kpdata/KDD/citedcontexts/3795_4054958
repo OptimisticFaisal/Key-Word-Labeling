@@ -1,0 +1,4 @@
+equently_RB ,_, Rulecover_NNP does_VBZ quite_RB a_DT good_JJ job_NN ,_, although_IN Setcover_NNP sometimes_RB produces_VBZ even_RB better_JJR results_NNS depending_VBG on_IN the_DT kind_NN of_IN dataset_NN ._.
+Another_DT way_NN of_IN dealing_VBG with_IN redundancy_NN was_VBD proposed_VBN by_IN Liu_NNP et_FW al._FW =_SYM -_: =[_NN 177_CD -RRB-_-RRB- -_: =_SYM -_: as_IN rule_NN summarization_NN ._.
+The_DT idea_NN is_VBZ to_TO represent_VB the_DT essential_JJ underlying_JJ relationships_NNS in_IN the_DT data_NNS by_IN means_NNS of_IN direction_NN setting_NN -LRB-_-LRB- DS_NN -RRB-_-RRB- rules_NNS ._.
+More_RBR specifically_RB ,_, DS_NN rules_NNS provide_VBP summarizations_NNS of_IN othe_NN

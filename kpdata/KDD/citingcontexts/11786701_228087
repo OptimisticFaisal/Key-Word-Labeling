@@ -1,0 +1,4 @@
+mic_JJ nature_NN ,_, -LRB-_-LRB- 20_CD -RRB-_-RRB- must_MD take_VB an_DT iterative_JJ process_NN and_CC the_DT whole_JJ inference_NN is_VBZ approximate_JJ ._.
+But_CC our_PRP$ HCRF_NN model_NN can_MD find_VB the_DT optimal_JJ labeling_NN results_NNS ._.
+Other_JJ work_NN ,_, such_JJ as_IN collective_JJ information_NN extraction_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Semi-Markov_NNP extraction_NN models_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- -LRB-_-LRB- 25_CD -RRB-_-RRB- ,_, could_MD achieve_VB higher_JJR performance_NN in_IN named_VBN entity_NN extraction_NN problems_NNS on_IN flat_JJ text_NN documents_NNS ._.
+However_RB ,_, for_IN the_DT integrated_VBN Web_NN data_NNS extraction_NN ,_, where_WRB the_DT data_NNS

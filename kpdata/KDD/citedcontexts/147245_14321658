@@ -1,0 +1,4 @@
+class_NN learning_NN method_NN ._.
+1_CD Introduction_NN One-class_JJ learning_NN on_IN uncertain_JJ data_NNS streams_NNS is_VBZ a_DT new_JJ and_CC challenging_JJ research_NN issue_NN ._.
+It_PRP involves_VBZ the_DT consolidation_NN of_IN one-class_JJ learning_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, data_NN stream_NN mining_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC uncertain_JJ data_NNS learning_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+The_DT problem-solving_JJ nature_NN of_IN many_JJ real-life_JJ applications_NNS ,_, such_JJ as_IN sensor_NN network_NN ,_, and_CC intrusion_NN detection_NN ,_, can_MD be_VB categorized_VBN as_IN one-class-based_JJ uncertain_JJ data_NNS stre_VBP

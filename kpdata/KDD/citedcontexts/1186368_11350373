@@ -1,0 +1,4 @@
+nized_VBN ,_, and_CC then_RB the_DT resulting_VBG token_JJ strings_NNS are_VBP compared_VBN using_VBG various_JJ string_NN comparison_NN algorithms_NNS -LRB-_-LRB- e.g._FW ,_, Running-Karp-Rabin_NNP Greedy-String-Tiling_NNP in_IN -LRB-_-LRB- 21_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Also_RB the_DT program_NN dependency_NN graphs_NNS used_VBN in_IN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB considered_VBN structure-based_JJ ._.
+2.2_CD Tools_NNS The_DT criteria_NNS for_IN selecting_NN tools_NNS for_IN our_PRP$ comparison_NN largely_RB depend_VBP on_IN the_DT answers_NNS to_TO the_DT following_JJ questions_NNS :_: Can_MD the_DT tool_NN deal_NN with_IN Java_NNP programs_NNS ?_.
+Is_VBZ it_PRP

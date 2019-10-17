@@ -1,0 +1,4 @@
+ally_NN and_CC experimentally_RB ._.
+The_DT program_NN dependence_NN graph_NN ,_, first_RB proposed_VBN by_IN Ferrante_NNP et_FW al._FW -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, has_VBZ previously_RB been_VBN used_VBN in_IN the_DT identification_NN of_IN duplicated_JJ code_NN for_IN the_DT purpose_NN of_IN software_NN maintenance_NN =_JJ -_: =[_NN 10_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT study_NN ,_, we_PRP propose_VBP GPlag_NN as_IN a_DT PDG-based_JJ algorithm_NN for_IN plagiarism_NN detection_NN ._.
+Moreover_RB ,_, for_IN both_CC effectiveness_NN and_CC efficiency_NN ,_, a_DT statistical_JJ lossy_NN filter_NN is_VBZ developed_VBN ,_, which_WDT has_VBZ not_RB been_VBN seen_VBN i_LS

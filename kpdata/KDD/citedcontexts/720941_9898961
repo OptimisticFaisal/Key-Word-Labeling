@@ -1,0 +1,3 @@
+dictions_NNS than_IN disjoint_JJ inference_NN models_NNS by_IN exploiting_VBG the_DT statistical_JJ dependency_NN ,_, which_WDT is_VBZ known_VBN as_IN autocorrelation_NN ,_, between_IN the_DT values_NNS of_IN the_DT same_JJ variable_NN on_IN related_JJ entities_NNS in_IN relational_JJ datasets_NNS =_JJ -_: =[_NN 7_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Similarly_RB ,_, disjoint_JJ learning_NN ignores_VBZ the_DT unlabeled_JJ data_NNS in_IN the_DT graph_NN during_IN learning_NN -LRB-_-LRB- see_VB Figure_NNP 1_CD -LRB-_-LRB- b_NN -RRB-_-RRB- -RRB-_-RRB- ._.
+This_DT approach_NN was_VBD developed_VBN primarily_RB for_IN across-network_JJ settings_NNS ,_, where_WRB it_PRP is_VBZ appropriate_JJ to_TO

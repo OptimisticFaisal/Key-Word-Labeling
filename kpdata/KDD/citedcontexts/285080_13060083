@@ -1,0 +1,4 @@
+,_, the_DT top-k_NN nodes_NNS problem_NN seeks_VBZ to_TO find_VB a_DT subset_NN of_IN nodes_NNS S_NN of_IN cardinality_NN k_NN that_WDT maximizes_VBZ the_DT value_NN of_IN σ_NN -LRB-_-LRB- S_NN -RRB-_-RRB- ._.
+In_IN this_DT setting_NN ,_, we_PRP first_RB cover_VBP certain_JJ fundamental_JJ results_NNS from_IN Domingos_NNP and_CC Richardson_NNP =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Kempe_NNP ,_, Kleinberg_NNP ,_, and_CC Tardos_NNP -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Then_RB we_PRP present_VBP a_DT game_NN theoretic_JJ approach_NN to_TO address_VB the_DT top-k_NN nodes_NNS problem_NN and_CC we_PRP present_VBP a_DT few_JJ results_NNS from_IN Ramasuri_NNP and_CC Narahari_NNP -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+2.5_CD Query_NNP Incentive_NNP Netwo_NNP

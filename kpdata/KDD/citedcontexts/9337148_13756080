@@ -1,0 +1,6 @@
+ned_VBN using_VBG NetClus_NNP ._.
+Leskovec_NNP et_FW al._FW -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- present_VBP a_DT detailed_JJ study_NN of_IN network_NN evolution_NN ._.
+However_RB ,_, they_PRP do_VBP not_RB deal_VB with_IN clustering_NN of_IN these_DT graphs_NNS or_CC study_NN of_IN the_DT evolution_NN of_IN clusters_NNS ._.
+Tang_NNP et_FW al._FW =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: study_NN community_NN evolution_NN in_IN a_DT multi-mode_JJ network_NN using_VBG a_DT spectral_JJ framework_NN ._.
+FacetNet_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- provides_VBZ a_DT framework_NN for_IN analyzing_VBG communities_NNS and_CC their_PRP$ evolution_NN ._.
+We_PRP study_VBD evolution_NN of_IN clusters_NNS in_IN much_JJ

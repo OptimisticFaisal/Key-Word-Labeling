@@ -1,0 +1,4 @@
+incident_NN on_IN it_PRP ._.
+Finding_VBG a_DT globally_RB optimal_JJ solution_NN to_TO such_PDT a_DT graph_NN partitioning_NN problem_NN is_VBZ in_IN general_JJ NP-complete_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, though_IN different_JJ approaches_NNS have_VBP been_VBN developed_VBN for_IN good_JJ solutions_NNS in_IN practice_NN =_JJ -_: =[_NN 16_CD ,_, 1_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB we_PRP employ_VBP Graclus_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, a_DT fast_JJ kernel_NN based_VBN multilevel_JJ algorithm_NN ,_, which_WDT involves_VBZ coarsening_VBG ,_, initial_JJ partitioning_NN and_CC refinement_NN phases_NNS ._.
+Unlike_IN existing_VBG multilevel_JJ approaches_NNS like_IN METIS_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, Gr_NN

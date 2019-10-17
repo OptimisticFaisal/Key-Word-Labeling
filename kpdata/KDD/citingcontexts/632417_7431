@@ -1,0 +1,4 @@
+me_PRP experiments_NNS to_TO examine_VB the_DT usefulness_NN of_IN weight_NN decay_NN and_CC the_DT situations_NNS in_IN which_WDT it_PRP may_MD be_VB beneficial_JJ ._.
+We_PRP use_VBP three_CD datasets_NNS :_: the_DT ``_`` Spam_NNP ''_'' and_CC ``_`` Waveform_NNP ''_'' datasets_NNS ,_, available_JJ from_IN the_DT UCI_NNP repository_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ;_: and_CC the_DT ``_`` Digits_NNP ''_'' handwritten_JJ digits_NNS recognition_NN dataset_NN ,_, discussed_VBN in_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+These_DT were_VBD chosen_VBN since_IN they_PRP are_VBP reasonably_RB large_JJ and_CC represent_VBP very_RB different_JJ problem_NN domains_NNS ._.
+Since_IN we_PRP have_VBP limited_VBN the_DT

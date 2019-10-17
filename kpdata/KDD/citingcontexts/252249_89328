@@ -1,0 +1,4 @@
+,_, recent_JJ technological_JJ advances_NNS in_IN computational_JJ sciences_NNS have_VBP resulted_VBN in_IN huge_JJ amounts_NNS of_IN data_NNS ._.
+Traditional_JJ statistical_JJ approaches_NNS to_TO model_VB such_JJ interactions_NNS do_VBP not_RB scale_VB very_RB well_RB to_TO large_JJ datasets_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN we_PRP propose_VBP a_DT generalpurpose_NN framework_NN to_TO address_VB these_DT challenges_NNS ._.
+To_TO address_VB the_DT first_JJ challenge_NN ,_, a_DT straightforward_JJ solution_NN is_VBZ to_TO represent_VB a_DT feature_NN by_IN its_PRP$ Minimum_NNP Bounding_NNP Box_NNP -LRB-_-LRB- MBB_NNP

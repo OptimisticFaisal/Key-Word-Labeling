@@ -1,0 +1,3 @@
+s_NN to_TO derive_VB large_JJ borders_NNS is_VBZ a_DT very_RB difficult_JJ task_NN ._.
+sChapter_NN 3_CD :_: Problem_NNP Statement_NNP and_CC Previous_JJ Work_NN on_IN Emerging_VBG Patterns_NN 61_CD 3.2.2_CD Constraint-based_JJ Approach_NN The_DT constraint-based_JJ EP_NN miner_NN -LRB-_-LRB- ConsEPMiner_NN -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Zhang_NNP et_FW al._FW 2000_CD -_: =_SYM -_: a_LS -RRB-_-RRB- utilizes_VBZ two_CD types_NNS of_IN constraints_NNS for_IN effectively_RB pruning_NN the_DT search_NN space_NN :_: external_JJ constraints_NNS and_CC internal_JJ constraints_NNS ._.
+The_DT external_JJ constraints_NNS include_VBP user-given_JJ minimums_NNS on_IN support_NN ,_, growth_NN ra_NN

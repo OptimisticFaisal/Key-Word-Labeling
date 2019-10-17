@@ -1,0 +1,3 @@
+network_NN and_CC they_PRP are_VBP expected_VBN to_TO be_VB close_JJ to_TO the_DT true_JJ network_NN ._.
+We_PRP enumerate_VBP putative_JJ gene_NN regulatory_JJ networks_NNS ordered_VBN by_IN scores_NNS generated_VBN by_IN sub-optimal_JJ estimation_NN algorithm_NN ,_, and_CC graph_NN mining_NN methods_NNS =_JJ -_: =[_NN 2_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP applied_VBN to_TO those_DT collected_VBN networks_NNS in_IN order_NN to_TO extract_VB motif_NN networks_NNS ._.
+2_CD Method_NN Proposing_VBG method_NN extracts_NNS gene_NN regulatory_JJ network_NN motifs_NNS from_IN estimated_VBN networks_NNS in_IN order_NN to_TO improve_VB the_DT accuracy_NN

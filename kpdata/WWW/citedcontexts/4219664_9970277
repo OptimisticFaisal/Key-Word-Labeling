@@ -1,0 +1,6 @@
+ack-end_NN to_TO the_DT Firefox_NNP IDL_NNP compiler_NN ._.
+By_IN default_NN ,_, these_DT interfaces_NNS are_VBP implemented_VBN internally_RB by_IN the_DT browser_NN ._.
+However_RB ,_, extensions_NNS can_MD -LRB-_-LRB- and_CC do_VBP -RRB-_-RRB- replace_VB these_DT implementations_NNS ._.
+For_IN example_NN ,_, the_DT SafeCache_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: browser_NN extension_NN replaces_VBZ the_DT HTTP_NNP cache_NN ._.
+Regardless_RB of_IN the_DT implementation_NN of_IN an_DT XPCOM_NNP interface_NN ,_, the_DT browser_NN enforces_VBZ the_DT return_NN and_CC parameter_NN types_NNS declared_VBD in_IN the_DT interface_NN description_NN ._.
+We_PRP analyz_VBP

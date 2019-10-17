@@ -1,0 +1,5 @@
+classifiers_NNS ._.
+This_DT makes_VBZ the_DT method_NN applicable_JJ to_TO large_JJ datasets_NNS in_IN terms_NNS of_IN memory_NN and_CC time_NN requirements_NNS ._.
+However_RB ,_, it_PRP remains_VBZ unclear_JJ how_WRB an_DT appropriate_JJ value_NN for_IN k_NN can_MD be_VB determined_VBN ._.
+Street_NNP and_CC Kim_NNP =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP a_DT variant_NN of_IN bagging_VBG for_IN incremental_JJ learning_NN based_VBN on_IN data_NNS chunks_NNS that_WDT maintains_VBZ a_DT fixed-size_JJ committee_NN ._.
+In_IN each_DT iteration_NN it_PRP attempts_VBZ to_TO identify_VB a_DT committee_NN member_NN that_WDT should_MD be_VB replaced_VBN

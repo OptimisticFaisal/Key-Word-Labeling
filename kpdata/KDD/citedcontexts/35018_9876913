@@ -1,0 +1,4 @@
+ort_NN overview_NN of_IN some_DT fault-tolerant_JJ pattern_NN mining_NN algorithms_NNS focusing_VBG on_IN the_DT binary_JJ case_NN ._.
+The_DT first_JJ proposed_VBN approaches_NNS concerned_VBD mono-dimensional_JJ patterns_NNS and\/or_CC the_DT use_NN of_IN heuristic_NN techniques_NNS ._.
+In_IN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT frequent_JJ set_NN mining_NN task_NN is_VBZ extended_VBN towards_IN fault-tolerance_NN ._.
+A_DT level-wise_JJ algorithm_NN is_VBZ proposed_VBN but_CC their_PRP$ fault-tolerant_JJ property_NN is_VBZ not_RB anti-monotonic_JJ while_IN this_DT is_VBZ needed_VBN to_TO achieve_VB tractabil_NN

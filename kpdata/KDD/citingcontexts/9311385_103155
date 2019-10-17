@@ -1,0 +1,4 @@
+large_JJ data_NNS set_NN -LRB-_-LRB- a_DT large_JJ value_NN of_IN n_NN -RRB-_-RRB- due_JJ to_TO its_PRP$ positive_JJ semidefinite_NN constraints_NNS ._.
+5.3_CD SILP_NNP Formulation_NNP We_PRP propose_VBP to_TO reformulate_VB the_DT maximization_NN problem_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 23_CD -RRB-_-RRB- as_IN a_DT semi-infinite_JJ program_NN -LRB-_-LRB- SIP_NN -RRB-_-RRB- =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT can_MD then_RB be_VB solved_VBN more_RBR efficiently_RB ._.
+The_DT SIP_NNP problem_NN refers_VBZ to_TO optimization_NN problems_NNS that_WDT maximize_VBP a_DT functional_JJ S_NN -LRB-_-LRB- a_DT -RRB-_-RRB- subject_JJ to_TO a_DT system_NN of_IN constraints_NNS on_IN a_DT ,_, i.e._FW ,_, s_NN -LRB-_-LRB- a_DT ,_, b_NN -RRB-_-RRB- ≤_NN 0_CD for_IN all_DT b_NN in_IN som_NN

@@ -1,0 +1,5 @@
+having_VBG their_PRP$ own_JJ copy_NN of_IN the_DT repository_NN ._.
+We_PRP are_VBP also_RB considering_VBG both_CC a_DT centralised_JJ repository_NN and_CC a_DT locally_RB developed_JJ distributed_VBN repository_NN ,_, based_VBN on_IN distributed_VBN hash_NN tables_NNS ,_, inspired_VBN by_IN RDFPeers_NNS -LRB-_-LRB- =_JJ -_: =_JJ Cai_NNP and_CC Frank_NNP ,_, 2004_CD -_: =--RRB-_NN ._.
+The_DT middleware_JJ framework_NN should_MD allow_VB the_DT shared_JJ workspace_NN to_TO move_VB seamlessly_RB at_IN run-time_NN from_IN a_DT centralised_JJ implementation_NN of_IN the_DT RDF_NNP repository_NN to_TO a_DT distributed_VBN implementation_NN ._.
+4_LS ._.
+Related_NNP Work_NNP Ex_FW

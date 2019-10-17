@@ -1,0 +1,5 @@
+the_DT same_JJ parent_NN are_VBP expected_VBN to_TO share_VB some_DT common_JJ characteristics_NNS and_CC hence_RB similar_JJ λr_NN values_NNS ._.
+We_PRP exploit_VBP this_DT correlation_NN by_IN modeling_NN the_DT CTRs_NNS through_IN a_DT multi-resolution_JJ tree-structured_JJ Markov_NNP model_NN =_JJ -_: =[_NN 5_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT central_JJ idea_NN of_IN the_DT model_NN is_VBZ as_IN follows_VBZ ._.
+We_PRP assign_VBP a_DT state_NN variable_JJ to_TO each_DT node_NN in_IN Z._NNP Conditional_NNP on_IN the_DT states_NNS ,_, the_DT observed_VBN CTRs_NNS are_VBP independent_JJ ._.
+Smoothing_NN of_IN CTR_NN estimates_NNS is_VBZ accomplished_VBN th_DT

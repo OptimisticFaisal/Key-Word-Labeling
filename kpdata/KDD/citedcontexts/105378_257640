@@ -1,0 +1,4 @@
+gorithm_NN and_CC the_DT association-first_JJ algorithm_NN ._.
+4.1_CD Level-wise_JJ Algorithm_NN ,_, and_CC Its_PRP$ Variation_NN for_IN Mining_NNP P-patterns_NNS with_IN Known_VBN Period_NN Many_JJ algorithms_NNS have_VBP been_VBN developed_VBN to_TO efficiently_RB mine_VB associations_NNS -LRB-_-LRB- 3_LS -RRB-_-RRB- =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =-[_NN 4_CD -RRB-_-RRB- ,_, most_JJS of_IN which_WDT are_VBP variations_NNS of_IN the_DT Apriori_NNP algorithm_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Here_RB ,_, we_PRP summarize_VBP this_DT algorithm_NN and_CC its_PRP$ variation_NN for_IN mining_NN temporal_JJ associations_NNS -LRB-_-LRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Then_RB ,_, we_PRP show_VBP how_WRB such_JJ an_DT algorithm_NN can_MD be_VB

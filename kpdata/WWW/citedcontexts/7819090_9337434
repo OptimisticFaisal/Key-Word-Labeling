@@ -1,0 +1,4 @@
+onomy_NN into_IN an_DT undirected_JJ weighted_JJ network_NN ,_, used_VBN for_IN computing_VBG a_DT modified_VBN PageRank_NN algorithm_NN called_VBN FolkRank_NNP for_IN ranking_JJ query_NN results_NNS ._.
+Semantic_JJ networksamong_NN tags_NNS have_VBP been_VBN built_VBN using_VBG co-occurrence_NN =_JJ -_: =[_NN 4_CD ,_, 44_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Jaccard_NNP 's_POS coefficient_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, also_RB to_TO reconstruct_VB a_DT concept_NN hierarchy_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+Relationships_NNPS among_IN users_NNS can_MD also_RB be_VB extracted_VBN from_IN tagging_VBG systems_NNS ._.
+Diederich_NNP and_CC Iofciu_NNP use_VBP a_DT cosine_NN variant_NN to_TO comput_VB

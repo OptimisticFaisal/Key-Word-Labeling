@@ -1,0 +1,5 @@
+y_NN satisfies_VBZ the_DT principle_NN ,_, too_RB ._.
+As_IN proved_VBN in_IN Section_NN 5.1_CD ,_, however_RB ,_, -LRB-_-LRB- ε_NN ,_, m_NN -RRB-_-RRB- -_: anonymity_NN is_VBZ not_RB monotonic_JJ ._.
+The_DT difference_NN immediately_RB invalidates_VBZ the_DT applicability_NN of_IN the_DT previous_JJ anonymization_NN algorithms_NNS =_JJ -_: =[_NN 7_CD ,_, 17_CD ,_, 18_CD ,_, 24_CD ,_, 25_CD ,_, 43_CD ,_, 44_CD -RRB-_-RRB- -_: =_SYM -_: to_TO achieving_VBG -LRB-_-LRB- ε_NN ,_, m_NN -RRB-_-RRB- -_: anonymity_NN ._.
+This_DT fact_NN justifies_VBZ the_DT necessity_NN of_IN studying_VBG the_DT characteristics_NNS of_IN -LRB-_-LRB- ε_NN ,_, m_NN -RRB-_-RRB- -_: anonymity_NN ,_, and_CC the_DT corresponding_JJ generalization_NN algorithm_NN ._.
+3.2_CD Inadequacy_NN of_IN Perturbation_NN Th_NN

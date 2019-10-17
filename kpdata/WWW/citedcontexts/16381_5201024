@@ -1,0 +1,6 @@
+balance_VB the_DT selection_NN pressure_NN ._.
+Too_RB strong_JJ pressure_NN leads_VBZ to_TO premature_JJ convergence_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, too_RB low_JJ pressure_NN leads_VBZ to_TO very_RB slow_JJ convergence_NN ._.
+We_PRP choose_VBP the_DT widely_RB used_VBN tournament_NN selection_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: as_IN the_DT selection_NN operator_NN ._.
+Tournament_NN selection_NN can_MD consider_VB fine-tuning_NN the_DT selective_JJ pressure_NN by_IN increasing_VBG or_CC decreasing_VBG the_DT tournament_NN size_NN ._.
+In_IN addition_NN ,_, tournament_NN selection_NN is_VBZ easy_JJ to_TO implement_VB

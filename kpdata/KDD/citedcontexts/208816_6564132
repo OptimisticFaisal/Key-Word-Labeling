@@ -1,0 +1,4 @@
+lustering_VBG obtained_VBN is_VBZ of_IN very_RB high_JJ quality_NN ,_, with_IN Q_NNP =_JJ 0.875_CD ._.
+The_DT minor_JJ mistakes_NNS made_VBN ,_, particularly_RB with_IN the_DT grouping_NN of_IN the_DT Furnace_NN and_CC Evaporator_NN sequences_NNS are_VBP reasonable_JJ and_CC plausible_JJ ._.
+Markov_NNP models_NNS =_JJ -_: =_JJ -LRB-_-LRB- GS00_NN -RRB-_-RRB- -_: =_JJ -_: score_NN Q_NNP =_JJ 0.458_CD ,_, and_CC ARIMA\/ARMA_NN models_NNS -LRB-_-LRB- KL83_NN ,_, XY02_NN -RRB-_-RRB- score_NN Q_NNP =_JJ 0.625_CD ._.
+In_IN the_DT former_JJ case_NN ,_, it_PRP took_VBD considerable_JJ parameter_NN tuning_NN to_TO achieve_VB this_DT score_NN ,_, whereas_IN this_DT proposed_VBN approach_NN has_VBZ no_DT parameters_NNS ._.

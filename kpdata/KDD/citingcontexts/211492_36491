@@ -1,0 +1,4 @@
+orates_VBZ an_DT effective_JJ pruning_NN phase_NN ._.
+Their_PRP$ so-called_JJ minimum_JJ cost_NN complexity_NN pruning_NN cuts_NNS off_IN branches_NNS that_WDT have_VBP a_DT large_JJ number_NN of_IN leaf_NN nodes_NNS yielding_VBG just_RB a_DT small_JJ reduction_NN of_IN the_DT apparent_JJ error_NN ._.
+SLIQ_NN =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT scalable_JJ decision_NN tree_NN classifier_NN that_WDT can_MD handle_VB both_CC numerical_JJ and_CC categorical_JJ attributes_NNS ._.
+In_IN order_NN to_TO make_VB SLIQ_NNP scalable_JJ for_IN large_JJ training_NN sets_NNS ,_, special_JJ data_NNS structures_NNS called_VBN attribute_NN list_NN

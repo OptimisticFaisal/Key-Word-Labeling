@@ -1,0 +1,4 @@
+ty_NN constraint_NN ._.
+3.2_CD Parameter_NNP Space_NNP Methods_NNS Another_DT approach_NN to_TO this_DT problem_NN is_VBZ to_TO search_VB for_IN associations_NNS in_IN the_DT parameter_NN space_NN of_IN the_DT models_NNS themselves_PRP ._.
+One_CD popular_JJ algorithm_NN is_VBZ the_DT Hough_NNP transform_VB =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT idea_NN behind_IN these_DT approaches_NNS is_VBZ that_IN for_IN many_JJ simple_JJ models_NNS ,_, individual_JJ observations_NNS corresponds_VBZ -LRB-_-LRB- A_NN -RRB-_-RRB- -LRB-_-LRB- B_NN -RRB-_-RRB- -LRB-_-LRB- C_NN -RRB-_-RRB- Figure_NNP 2_CD :_: A_DT multiple_JJ hypothesis_NN tracker_NN starts_VBZ from_IN a_DT tentative_JJ set_NN of_IN associations_NNS an_DT

@@ -1,0 +1,4 @@
+synthetic_JJ data_NNS ._.
+1_CD ._.
+Introduction_NN Graph_NN pattern_NN matching_NN is_VBZ being_VBG increasingly_RB used_VBN in_IN a_DT number_NN of_IN applications_NNS ,_, e.g._FW ,_, software_NN plagiarism_NN detection_NN ,_, biology_NN ,_, social_JJ networks_NNS and_CC intelligence_NN analysis_NN =_JJ -_: =[_NN 27_CD ,_, 32_CD ,_, 33_CD ,_, 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Given_VBN a_DT pattern_NN graph_NN Q_NNP and_CC a_DT data_NN graph_NN G_NN ,_, it_PRP is_VBZ to_TO find_VB all_DT subgraphs_NNS of_IN G_NN that_WDT match_VBP Q._NNP Here_NN matching_NN is_VBZ typically_RB defined_VBN in_IN terms_NNS of_IN subgraph_NN isomorphism_NN -LRB-_-LRB- see_VB ,_, e.g._FW ,_, -LRB-_-LRB- 4_CD ,_, 20_CD -RRB-_-RRB- for_IN surveys_NNS -RRB-_-RRB- :_: a_DT sub_NN

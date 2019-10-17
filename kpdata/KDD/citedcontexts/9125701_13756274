@@ -1,0 +1,4 @@
+∪_NN -LCB-_-LRB- θ_NN -RCB-_-RRB- πi_NN ,_, ∗_NN =_JJ 1_CD for_IN each_DT di_NNP in_IN D._NNP IV_NNP ._.
+EXPERIMENTS_NNS In_IN this_DT section_NN ,_, we_PRP evaluate_VBP the_DT effectiveness_NN of_IN our_PRP$ TIDE_NN model_NN on_IN synthetic_JJ datasets_NNS ,_, and_CC data_NNS collected_VBN from_IN two_CD real-world_JJ social_JJ communities_NNS ,_, DBLP_NN =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Twitter_NNP -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+A._NN Experimental_JJ Setup_NN 1_CD -RRB-_-RRB- Data_NNP Collection_NNP :_: The_DT DBLP_NN Dataset_NN -LRB-_-LRB- -LRB-_-LRB- 32_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+The_DT Digital_NNP Bibliography_NNP and_CC Library_NNP Project_NNP -LRB-_-LRB- DBLP_NNP -RRB-_-RRB- is_VBZ a_DT web_NN accessible_JJ database_NN of_IN the_DT bibliographic_JJ information_NN

@@ -1,0 +1,4 @@
+nd_NN auditing_NN ,_, stock_NN market_NN analysis_NN ,_, health_NN monitoring_NN systems_NNS ,_, insurance_NN ,_, banking_NN and_CC telecommunication_NN ..._: ,_, etc_NN -RRB-_-RRB- ._.
+Methods_NNS for_IN finding_VBG such_JJ outliers_NNS in_IN large_JJ datasets_NNS are_VBP drawing_VBG increasing_VBG attention_NN =_JJ -_: =[_NN 2_CD ,_, 3_CD ,_, 10_CD ,_, 15_CD ,_, 16_CD ,_, 18_CD ,_, 19_CD ,_, 20_CD ,_, 21_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A._NNP Outlier_NNP Definition_NNP An_NNP Outlier_NNP is_VBZ an_DT observation_NN that_WDT deviates_VBZ so_RB much_RB from_IN other_JJ observations_NNS as_IN to_TO arouse_VB suspicion_NN that_IN it_PRP was_VBD generated_VBN by_IN a_DT different_JJ mechanism_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ a_DT data_NN object_NN that_IN

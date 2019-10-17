@@ -1,0 +1,4 @@
+to_TO assess_VB and_CC optimize_VB site-capturing_JJ strategies_NNS ._.
+Our_PRP$ framework_NN ,_, coined_VBN SHARC_NNP for_IN Sharp_NNP Archiving_NNP of_IN Web-Site_NNP Captures_NNP ,_, is_VBZ based_VBN on_IN a_DT stochastic_JJ notion_NN of_IN sharpness_NN ._.
+In_IN line_NN with_IN the_DT prior_JJ literature_NN =_JJ -_: =[_NN 1_CD ,_, 7_CD ,_, 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP model_VBP site_NN changes_NNS by_IN Poisson_NNP processes_NNS with_IN page-specific_JJ change_NN rates_NNS ._.
+We_PRP assume_VBP that_IN these_DT rates_NNS can_MD be_VB statistically_RB predicted_VBN based_VBN on_IN page_NN types_NNS -LRB-_-LRB- e.g._FW ,_, MIME_NN types_NNS -RRB-_-RRB- ,_, depths_VBZ within_IN the_DT site_NN -LRB-_-LRB-

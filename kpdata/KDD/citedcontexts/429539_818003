@@ -1,0 +1,4 @@
+O_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- +_CC k_NN o_NN -LRB-_-LRB- k_NN -RRB-_-RRB- -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+A_DT maximal_JJ σ-frequent_NN itemset_NN in_IN D_NN can_MD be_VB found_VBN in_IN time_NN O_NN -LRB-_-LRB- |_CD I_NNP |_NNP |_NNP D_NNP |_NNP -RRB-_-RRB- by_IN Algorithm_NN 1_CD ._.
+Given_VBN a_DT transaction_NN database_NN D_NN ,_, counting_VBG the_DT number_NN of_IN maximal_JJ frequent_JJ itemsets_NNS in_IN D_NN is_VBZ #P_NN -_: hard_RB =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: and_CC deciding_VBG ,_, for_IN a_DT given_JJ positive_JJ integer_NN k_NN ,_, whether_IN there_EX is_VBZ a_DT σ-frequent_JJ itemset_NN of_IN cardinality_NN at_IN least_JJS k_NN in_IN D_NN is_VBZ NP-complete_JJ -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Furthermore_RB ,_, it_PRP is_VBZ NP-complete_JJ to_TO decide_VB ,_, given_VBN a_DT transaction_NN da_NN

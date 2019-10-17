@@ -1,0 +1,5 @@
+e_LS way_NN to_TO model_VB such_JJ uncertainties_NNS -LRB-_-LRB- 1_CD ,_, 7_CD -RRB-_-RRB- ._.
+Recently_RB ,_, many_JJ data_NNS mining_NN problems2_NN Uncertainty_NN in_IN Sequential_NNP Pattern_NNP Mining_NNP have_VBP been_VBN studied_VBN in_IN probabilistic_JJ databases_NNS including_VBG frequent_JJ itemset_NN mining_NN =_JJ -_: =[_NN 1_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP focus_VBP on_IN sequential_JJ pattern_NN mining_NN and_CC our_PRP$ interest_NN is_VBZ in_IN situations_NNS where_WRB there_EX is_VBZ uncertainty_NN either_CC about_IN a_DT source_NN or_CC in_IN the_DT associated_VBN events_NNS ._.
+Source-Level_JJ Uncertainty_NN ._.
+In_IN a_DT retail_JJ transactio_NN

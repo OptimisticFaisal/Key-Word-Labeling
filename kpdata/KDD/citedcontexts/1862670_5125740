@@ -1,0 +1,3 @@
+VM-AR_NN Many_JJ previous_JJ works_NNS have_VBP reported_VBN that_IN the_DT frequent_JJ patterns_NNS occurred_VBD in_IN the_DT training_NN dataset_NN of_IN a_DT complex_JJ and_CC huge_JJ classification_NN problem_NN could_MD lead_VB to_TO measured_JJ improvement_NN on_IN testing_NN accuracy_NN =_JJ -_: =[_NN 90,111,45_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT idea_NN was_VBD named_VBN ``_`` association_NN classification_NN ''_'' -LRB-_-LRB- 111_CD -RRB-_-RRB- ._.
+For_IN a_DT binary_JJ classification_NN problem_NN with_IN continuous_JJ features_NNS ,_, an_DT association_NN rule_NN is_VBZ usually_RB formed_VBN as_IN :_: ∈_NN -LRB-_-LRB- v11_NN ,_, v12_NN -RRB-_-RRB- and_CC a2_FW ∈_FW -LRB-_-LRB- v21_NN ,_, v22_NN -RRB-_-RRB- and_CC ._. ._.

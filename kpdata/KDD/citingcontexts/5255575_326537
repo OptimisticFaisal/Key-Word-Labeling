@@ -1,0 +1,4 @@
+es_NNS ._.
+1_CD ._.
+INTRODUCTION_NN Frequent_JJ closed_JJ itemsets_NNS provide_VBP complete_JJ and_CC condensed_JJ information_NN for_IN non-redundant_JJ association_NN rules_NNS generation_NN ._.
+Recently_RB ,_, much_JJ research_NN has_VBZ been_VBN done_VBN on_IN closed_JJ itemsets_NNS mining_NN =_JJ -_: =[_NN 9_CD ,_, 11-13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC it_PRP is_VBZ mainly_RB for_IN traditional_JJ databases_NNS where_WRB multiple_JJ scans_NNS are_VBP needed_VBN ,_, and_CC whenever_WRB new_JJ transactions_NNS arrive_VBP ,_, additional_JJ scans_NNS must_MD be_VB performed_VBN on_IN the_DT updated_VBN transaction_NN database_NN ;_: therefore_RB ,_, t_NN

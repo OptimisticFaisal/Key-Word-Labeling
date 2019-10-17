@@ -1,0 +1,4 @@
+bility_NN cost_NN function_NN Figure_NNP 5.2_CD :_: The_DT cost_NN curve_NN derived_VBN from_IN the_DT same_JJ dataset_NN and_CC classifier_NN as_IN in_IN Figure_NNP 5.1_CD ._.
+Another_DT proposal_NN for_IN plotting_VBG the_DT performance_NN of_IN a_DT classifier_NN is_VBZ by_IN using_VBG the_DT cost-curve_NN =_JJ -_: =_JJ -LRB-_-LRB- DH00_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN you_PRP can_MD see_VB in_IN figure_NN 5.1_CD ,_, there_EX are_VBP many_JJ thresholds_NNS that_WDT are_VBP suboptimal_JJ :_: there_EX is_VBZ often_RB another_DT operating_VBG point_NN for_IN which_WDT at_IN least_JJS one_CD of_IN the_DT errors_NNS is_VBZ lower_JJR ._.
+For_IN instance_NN ,_, the_DT operating_NN point_NN F_NN

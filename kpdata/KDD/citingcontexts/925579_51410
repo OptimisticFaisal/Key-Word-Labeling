@@ -1,0 +1,5 @@
+e_LS co-citation_NN and_CC the_DT bibliographic_JJ coupling_NN graphs_NNS in_IN place_NN of_IN their_PRP$ adjacency_NN matrices_NNS ,_, and_CC dropping_VBG the_DT first_JJ factors_NNS -LRB-_-LRB- K_NN and_CC M_NN -RRB-_-RRB- from_IN eq_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- yields_VBZ a_DT kernel_NN called_VBN the_DT regularized_VBN Laplacian_NN kernel_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Definition_NN 5_CD Let_NNP G_NNP be_VB an_DT undirected_JJ graph_NN with_IN positive_JJ weights_NNS ._.
+The_DT matrix_JJ ˆL_NN β_NN -LRB-_-LRB- G_NN -RRB-_-RRB- =_JJ ∞_FW ∑_FW β_FW n_NN =_JJ 0_CD n_NN -LRB-_-LRB- −_NN L_NN -LRB-_-LRB- G_NN -RRB-_-RRB- -RRB-_-RRB- n_NN is_VBZ called_VBN the_DT regularized_VBN Laplacian_NN kernel_NN on_IN G_NN with_IN diffusion_NN factor_NN β_NN -LRB-_-LRB- -RRB-_-RRB- 0_CD -RRB-_-RRB- ._.
+In_IN a_DT paralle_NN

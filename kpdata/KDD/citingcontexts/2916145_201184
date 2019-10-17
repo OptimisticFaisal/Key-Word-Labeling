@@ -1,0 +1,3 @@
+effect_NN on_IN the_DT current_JJ method_NN ._.
+Various_JJ other_JJ methods_NNS for_IN finding_VBG ``_`` dense_JJ clusters_NNS ''_'' have_VBP been_VBN proposed_VBN in_IN the_DT data_NNS mining_NN literature_NN ,_, including_VBG grid-based_JJ hierarchical_JJ methods_NNS such_JJ as_IN CLIQUE_NN -LRB-_-LRB- =_JJ -_: =_JJ 1_CD -RRB-_-RRB- ,_, MAFIA_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC STING_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Our_PRP$ work_NN differs_VBZ from_IN these_DT in_IN three_CD main_JJ ways_NNS :_: most_RBS importantly_RB ,_, as_IN discussed_VBN above_IN ,_, our_PRP$ goal_NN is_VBZ not_RB only_RB to_TO find_VB the_DT highest_JJS scoring_VBG cluster_NN ,_, but_CC to_TO determine_VB the_DT statistical_JJ signi_NNS

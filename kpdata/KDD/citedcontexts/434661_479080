@@ -1,0 +1,3 @@
+ounters_NNS along_IN the_DT path_NN from_IN the_DT root_NN to_TO that_DT node_NN ._.
+Finally_RB ,_, the_DT tree_NN is_VBZ used_VBN by_IN Apriori_NNP ,_, as_IN a_DT compressed_VBN data_NN representation_NN ,_, to_TO extract_VB the_DT frequent_JJ patterns_NNS ._.
+Given_VBN an_DT event_NN sequence_NN ,_, Yang_NNP et_FW al._FW in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: studied_VBD the_DT problem_NN of_IN finding_VBG asynchronous_JJ patterns_NNS ,_, which_WDT appear_VBP in_IN at_IN least_JJS a_DT minimum_NN number_NN ,_, min_NN rep_NN ,_, of_IN consecutive_JJ periodic_JJ intervals_NNS and_CC groups_NNS of_IN such_JJ intervals_NNS are_VBP allowed_VBN to_TO be_VB separated_VBN by_IN

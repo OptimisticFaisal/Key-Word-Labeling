@@ -1,0 +1,4 @@
+ve_IN learning_VBG only_RB consider_VBP minimizing_VBG misclassification_NN costs_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 5_CD ,_, 20_CD ,_, 6_CD ,_, 18_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+A_DT few_JJ works_NNS do_VBP attempt_NN to_TO minimize_VB the_DT sum_NN of_IN 638Research_NNP Track_NNP Paper_NNP misclassification_NN costs_NNS and_CC attribute_NN costs_NNS =_JJ -_: =[_NN 21_CD ,_, 4_CD ,_, 24_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, these_DT works_NNS do_VBP not_RB consider_VB data_NN acquisition_NN cost_NN ._.
+That_DT is_VBZ ,_, they_PRP assume_VBP that_IN a_DT fixed_JJ set_NN of_IN training_NN examples_NNS is_VBZ given_VBN ,_, and_CC the_DT leaner_JJR can_MD not_RB acquire_VB additional_JJ information_NN during_IN learning_NN ._.

@@ -1,0 +1,3 @@
+ficiently_RB using_VBG stochastic_JJ gradient_NN descent_NN variants_NNS such_JJ as_IN the_DT Pegasos_NNP SVM_NNP algorithm_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- ._.
+However_RB ,_, in_IN cases_NNS of_IN extreme_JJ class_NN imbalance_NN ,_, linear_JJ SVM_NNP 's_POS have_VBP been_VBN found_VBN to_TO give_VB less_JJR than_IN ideal_JJ results_NNS =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD approach_NN is_VBZ to_TO set_VB per-class_JJ weights_NNS on_IN the_DT loss_NN function_NN to_TO emphasize_VB the_DT importance_NN of_IN the_DT minority_NN class_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, but_CC we_PRP have_VBP found_VBN -LRB-_-LRB- in_IN accordance_NN with_IN prior_JJ work_NN -LRB-_-LRB- 18_CD ,_, 26_CD -RRB-_-RRB- -RRB-_-RRB- that_IN using_VBG a_DT pairwise_JJ

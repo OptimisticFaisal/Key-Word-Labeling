@@ -1,0 +1,4 @@
+le_FW ._.
+Some_DT other_JJ methods_NNS try_VBP to_TO select_VB data_NNS based_VBN on_IN the_DT graph_NN structure_NN and_CC some_DT labeled_JJ nodes_NNS ._.
+Existing_VBG approaches_NNS have_VBP considered_VBN selecting_VBG the_DT data_NNS that_IN the_DT current_JJ classifier_NN is_VBZ the_DT most_RBS uncertain_JJ =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT data_NNS with_IN maximum_JJ expected_VBN information_NN gain_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- or_CC maximum_NN expected_VBD entropy_JJ reduction_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+Based_VBN on_IN the_DT Gaussian_JJ random_JJ field_NN model_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, an_DT empirical_JJ risk_NN minimization_NN framework_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- is_VBZ propo_NN

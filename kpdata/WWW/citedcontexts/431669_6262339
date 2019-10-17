@@ -1,0 +1,4 @@
+ng_NN certain_JJ search_NN engines_NNS and_CC news_NN web_NN sites_NNS ,_, such_JJ dynamic_JJ content_NN is_VBZ uncacheable_JJ ._.
+Indeed_RB ,_, Bent_NNP et_FW al._FW found_VBD that_IN about_IN 60_CD %_NN of_IN HTTP_NN requests_NNS are_VBP generated_VBN for_IN dynamic_JJ content_NN and_CC are_VBP thus_RB uncacheable_JJ =_JJ -_: =[_NN 33_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT second_JJ caveat_NN is_VBZ that_IN certain_JJ programs_NNS ,_, e.g._FW ,_, web_NN crawlers_NNS ,_, repeatedly_RB request_VBP the_DT same_JJ file_NN until_IN a_DT successful_JJ download_NN occurs_VBZ ._.
+The_DT cache_NN server_NN and_CC our_PRP$ detection_NN system_NN can_MD recognize_VB such_JJ fail_VBP

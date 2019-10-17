@@ -1,0 +1,5 @@
+d_NN method_NN has_VBZ linear_JJ time_NN complexity_NN ._.
+5_CD ._.
+RELATED_NNS WORK_VBP Many_JJ studies_NNS have_VBP shown_VBN that_IN ensembles_NNS of_IN multiple_JJ classifiers_NNS can_MD usually_RB reduce_VB variance_NN and_CC achieve_VB higher_JJR accuracy_NN than_IN individual_JJ classifiers_NNS =_JJ -_: =[_NN 5_CD ,_, 13_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT studies_NNS usually_RB focus_VBP on_IN deriving_VBG weak_JJ classifiers_NNS from_IN data_NNS and_CC boosting_VBG their_PRP$ performance_NN by_IN model_NN combination_NN ._.
+Their_PRP$ problem_NN setting_NN is_VBZ different_JJ from_IN what_WP we_PRP discussed_VBD in_IN this_DT paper_NN becaus_NN

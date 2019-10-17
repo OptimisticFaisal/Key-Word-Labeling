@@ -1,0 +1,4 @@
+in_IN the_DT machine_NN learning_NN literature_NN ._.
+One_CD uses_VBZ all_PDT the_DT continuous_JJ substrings_NNS of_IN documents_NNS as_IN features_NNS -LRB-_-LRB- e.g._FW ,_, in_IN -LRB-_-LRB- 62_CD -RRB-_-RRB- -RRB-_-RRB- ,_, while_IN the_DT other_JJ also_RB uses_VBZ non-continuous_JJ substrings_NNS ,_, aka_NN ,_, sub-sequences_NNS -LRB-_-LRB- e.g._FW ,_, in_IN =_JJ -_: =[_NN 41_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+To_TO avoid_VB confusion_NN ,_, we_PRP would_MD like_VB to_TO call_VB the_DT latter_JJ sequence_NN kernel_NN ._.
+In_IN this_DT paper_NN ,_, In_IN this_DT paper_NN we_PRP focus_VBP on_IN string_NN kernel_NN -LRB-_-LRB- defined_VBN on_IN continuous_JJ substrings_NNS -RRB-_-RRB- because_IN they_PRP are_VBP computationally_RB more_JJR

@@ -1,0 +1,4 @@
+sequence_NN size_NN 6_CD than_IN the_DT default_NN size_NN 20_CD when_WRB computing_VBG the_DT similarity_NN between_IN adjacent_JJ groups_NNS of_IN token-sequences_NNS ._.
+To_TO define_VB a_DT single_JJ important_JJ sentence_NN from_IN a_DT segment_NN obtained_VBN ,_, we_PRP applied_VBD SVM_NN ranker_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: to_TO each_DT segment_NN ._.
+We_PRP used_VBD the_DT same_JJ training_NN set_VBN as_IN in_IN Section_NNP 4.2.1_CD ,_, but_CC extracted_VBD the_DT subtree_NN of_IN subroot_NN and_CC leaves_NNS -LRB-_-LRB- 2,654_CD sentences_NNS -RRB-_-RRB- ._.
+We_PRP compared_VBD the_DT score_NN within_IN a_DT segment_NN ,_, and_CC selected_VBD the_DT one_NN ran_VBD

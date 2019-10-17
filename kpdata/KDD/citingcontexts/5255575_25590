@@ -1,0 +1,6 @@
+ithm_NN to_TO mine_VB closed_JJ itemsets_NNS in_IN data_NNS streams_NNS ._.
+For_IN performance_NN evaluation_NN ,_, the_DT synthetic_JJ datasets_NNS T10_NN ._.
+I6_NN ._.
+D100K_NN and_CC T5.I4.D100K-AB_NN are_VBP used_VBN ._.
+Each_DT dataset_NN is_VBZ generated_VBN by_IN the_DT same_JJ method_NN as_IN described_VBN in_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB the_DT three_CD numbers_NNS of_IN each_DT dataset_NN denote_VBP the_DT average_JJ transaction_NN size_NN -LRB-_-LRB- T_NN -RRB-_-RRB- ,_, the_DT average_JJ maximal_JJ potential_JJ frequent_JJ itemset_NN size_NN -LRB-_-LRB- I_NN -RRB-_-RRB- and_CC the_DT total_JJ number_NN of_IN transactions_NNS -LRB-_-LRB- D_NN -RRB-_-RRB- ,_, respectively_RB ._.
+In_FW al_FW

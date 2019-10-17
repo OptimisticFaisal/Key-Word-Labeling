@@ -1,0 +1,4 @@
+nsidered_JJ exceeds_VBZ the_DT available_JJ memory_NN space_NN ._.
+Recently_RB ,_, support-based_JJ row-enumeration_NN AR_NN mining_NN algorithms_NNS have_VBP been_VBN introduced_VBN to_TO prevent_VB itemset_NN explosion_NN ,_, allowing_VBG the_DT mining_NN of_IN dense_JJ datasets_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP will_MD show_VB that_IN mining_NN common_JJ relationships_NNS between_IN attributes_NNS using_VBG supportbased_JJ pruning_NN is_VBZ not_RB suitable_JJ for_IN all_DT types_NNS of_IN microarray_NN experiments_NNS ._.
+Motivated_VBN by_IN this_DT concern_NN we_PRP devel_VBP

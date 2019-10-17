@@ -1,0 +1,4 @@
+eval_NN 's_POS theorem_NN -RRB-_-RRB- ._.
+Notice_NNP that_IN this_DT property_NN is_VBZ proven_VBN in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- for_IN the_DT Euclidean_JJ distance_NN ._.
+Although_IN this_DT distance_NN measure_NN is_VBZ simple_JJ ,_, it_PRP is_VBZ known_VBN to_TO have_VB several_JJ advantages_NNS ,_, as_IN it_PRP has_VBZ been_VBN illustrated_VBN by_IN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Nevertheless_RB ,_, the_DT proposed_VBN methodology_NN does_VBZ not_RB decisively_RB depend_VB on_IN the_DT particular_JJ features_NNS and_CC distance_NN measure_NN ,_, which_WDT are_VBP used_VBN herein_RB following_VBG simplicity_NN as_RB well_RB as_IN computation_NN efficiency_NN reason_NN

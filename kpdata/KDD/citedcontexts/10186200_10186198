@@ -1,0 +1,3 @@
+as_RB well_RB ._.
+This_DT paper_NN proposes_VBZ precisely_RB such_JJ a_DT similarity_NN measure_NN taking_VBG the_DT form_NN of_IN a_DT covariance_NN matrix_NN ,_, by_IN extending_VBG the_DT framework_NN developed_VBN in_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- in_IN the_DT context_NN of_IN routing_VBG and_CC already_RB exploited_VBN in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: in_IN order_NN to_TO define_VB a_DT dissimilarity_NN measure_NN between_IN nodes_NNS generalizing_VBG both_CC the_DT shortest-path_NN and_CC the_DT commute-time_NN --_: or_CC resistance_NN --_: distance_NN ._.
+This_DT quantity_NN will_MD be_VB called_VBN the_DT sum-over-paths_NNS -LRB-_-LRB- SoP_NN -RRB-_-RRB- cov_NN

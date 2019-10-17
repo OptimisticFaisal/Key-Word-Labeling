@@ -1,0 +1,7 @@
+Tapestry_NN 项目_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- 、_FW 加州大学伯克力分校的_FW Telegraph_NNP 项目_NNP -LRB-_-LRB- 3,4_CD -RRB-_-RRB- 、_FW 布朗大学和麻省理工学院合作的_FW Aurora_NNP 项目_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- 等等_NNP ,_, 这些系统针对s1174_NNP Journal_NNP of_IN Software_NNP 软件学报_CD 2004,15_CD -LRB-_-LRB- 8_CD -RRB-_-RRB- 具体行业背景_NN ,_, 给出较全面的数据管理解决方案_NN ;_: 另一方面_NN ,_, 基于流数据模型的数据挖掘技术也得到了广泛的研_NN 究_NN ,_, 包括做聚类分析_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- 、_FW 决策树分析_FW =_SYM -_: =[_NN 7,8_CD -RRB-_-RRB- -_: =_SYM -_: 、_FW 密度估计_FW -LRB-_-LRB- 9_CD -RRB-_-RRB- 等等_NN ._.
+上述数据流研究的核心就是概要数据结构的设计_NN ._.
+文_FW 献_FW -LRB-_-LRB- 1,10,11_CD -RRB-_-RRB- 从不同角度综述了流数据的研究进展_NN ._.
+文献_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- 侧重于如何构建_FW DSMS_FW ._.
+文献_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- 介绍了几种生成概要_FW 数据结构的方法_FW ,_, 但是主要集中于作者自身的成果_NN ._.
+文献_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- 介绍了流数据模型下查询和挖掘的一些算法_NN ,_, 但是_FW 未能涵盖最新的研究成果_FW ._.
+本文试图克服以上文献的不足_RB ,_, 较为全面地介绍构建高效的概要数据结构的各类_FW 算_FW

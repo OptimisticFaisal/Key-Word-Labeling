@@ -1,0 +1,3 @@
+e_LS instances_NNS or_CC classes_NNS are_VBP ordered_VBN or_CC where_WRB the_DT feature_NN values_NNS are_VBP ranked_VBN across_IN instances_NNS ._.
+These_DT other_JJ formulations_NNS are_VBP pertinent_JJ in_IN applications_NNS such_JJ as_IN recommender_NN systems_NNS or_CC information_NN retrieval_NN =_JJ -_: =[_NN 11_CD ,_, 22_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB the_DT goal_NN is_VBZ to_TO learn_VB and_CC mine_VB a_DT ranking_NN or_CC to_TO infer_VB total_JJ orders_NNS from_IN given_VBN preference_NN information_NN ._.
+Here_RB ,_, one_NN assumes_VBZ the_DT existence_NN of_IN a_DT supervised_JJ learning_NN algorithm_NN that_WDT learns_VBZ predictive_JJ ma_NN

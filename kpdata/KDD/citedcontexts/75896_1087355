@@ -1,0 +1,4 @@
+work_NN for_IN classification_NN and_CC ranking_NN ._.
+These_DT papers_NNS do_VBP not_RB directly_RB either_RB address_VB the_DT problem_NN of_IN feature_NN selection_NN or_CC even_RB a_DT supervised_JJ learning_NN scenario_NN from_IN orders_NNS to_TO discrete_JJ classes_NNS ._.
+Gionis_FW et_FW al._FW =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: study_NN `_`` fragments_NNS of_IN order_NN '_'' ,_, although_IN their_PRP$ setting_NN posits_VBZ unlabeled_JJ data_NNS and_CC the_DT learned_VBN orders_NNS are_VBP actually_RB sets_NNS of_IN association_NN rules_NNS summarized_VBN as_IN dependencies_NNS ._.
+Sai_FW et_FW al._FW -LRB-_-LRB- 45_CD -RRB-_-RRB- describe_VBP a_DT scenario_NN

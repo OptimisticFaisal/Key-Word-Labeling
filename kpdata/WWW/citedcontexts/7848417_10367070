@@ -1,0 +1,4 @@
+before_IN deployment_NN ._.
+As_IN discussed_VBN in_IN Section_NN 1_CD ,_, online_JJ runtime_NN monitoring_NN techniques_NNS allow_VBP dynamic_JJ recovery_NN ,_, since_IN recovery_NN strategies_NNS can_MD be_VB applied_VBN as_RB soon_RB as_IN errors_NNS are_VBP detected_VBN ._.
+Existing_VBG work_NN -LRB-_-LRB- 52_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 53_CD -RRB-_-RRB- -_: =_SYM -_: focuses_VBZ on_IN the_DT definition_NN of_IN recovery_NN strategies_NNS for_IN local_JJ properties_NNS ,_, assuming_VBG that_IN process_NN definition_NN is_VBZ correct_JJ and_CC errors_NNS are_VBP introduced_VBN only_RB via_IN interactions_NNS with_IN external_JJ services_NNS ._.
+The_DT recovery_NN

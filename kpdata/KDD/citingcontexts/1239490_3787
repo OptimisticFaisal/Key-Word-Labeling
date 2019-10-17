@@ -1,0 +1,6 @@
+en_IN from_IN 1_CD s_NN =_JJ 1_CD 32_CD to_TO 1_CD 256_CD of_IN the_DT entire_JJ training_NN set_NN ._.
+At_IN the_DT start_NN of_IN the_DT flow_NN of_IN on-line_JJ data_NNS ,_, we_PRP do_VBP n't_RB have_VB k_NN classifiers_NNS ._.
+In_IN this_DT case_NN ,_, we_PRP reuse_VBP all_DT available_JJ classifiers_NNS ._.
+We_PRP used_VBD Cohen_NNP 's_POS RIPPER_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: as_IN the_DT ``_`` weak_JJ ''_'' learner_NN ._.
+RIPPER_NN provides_VBZ an_DT easy_JJ way_NN to_TO change_VB the_DT distribution_NN of_IN the_DT training_NN set_NN -LRB-_-LRB- and_CC it_PRP is_VBZ publicly_RB available_JJ -RRB-_-RRB- ._.
+Since_IN using_VBG the_DT training_NN set_VBN alone_RB usually_RB over-estimates_VBZ the_DT accurac_NN

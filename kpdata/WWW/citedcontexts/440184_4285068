@@ -1,0 +1,4 @@
+the_DT algorithm_NN consumes_VBZ only_RB a_DT fraction_NN of_IN the_DT database_NN size_NN in_IN main_JJ memory_NN ._.
+In_IN cases_NNS where_WRB the_DT size_NN of_IN the_DT databases_NNS is_VBZ too_RB large_JJ ,_, a_DT sampling-based_JJ method_NN such_JJ as_IN the_DT one_NN described_VBN by_IN Gravano_NNP et_FW al._FW =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB used_VBN ._.
+5_CD Schema_NN matching_NN with_IN duplicates_VBZ Schema_NN matching_NN is_VBZ the_DT problem_NN of_IN identifying_VBG schema_NN elements_NNS -LRB-_-LRB- here_RB :_: attributes_NNS -RRB-_-RRB- that_WDT have_VBP same_JJ or_CC similar_JJ semantics_NNS in_IN two_CD different_JJ schemas_NNS ._.
+Not_RB all_PDT a_DT

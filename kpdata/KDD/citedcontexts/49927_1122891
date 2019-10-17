@@ -1,0 +1,4 @@
+6_CD -RRB-_-RRB- ,_, and_CC can_MD handle_VB clusters_NNS of_IN various_JJ shapes_NNS and_CC complicated_JJ databases_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+They_PRP ,_, especially_RB the_DT Gaussian_JJ mixture_NN model_NN ,_, have_VBP been_VBN successfully_RB applied_VBN to_TO various_JJ real_JJ applications_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- --_: =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Due_JJ to_TO its_PRP$ theoretical_JJ and_CC practical_JJ significance_NN ,_, we_PRP focus_VBP on_IN scalable_JJ clustering_NN based_VBN on_IN the_DT Gaussian_JJ mixture_NN model_NN hereafter_RB ._.
+Expectation-Maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- effectively_RB estimates_VBZ maximum_NN likeliho_NN

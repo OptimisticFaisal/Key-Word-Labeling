@@ -1,0 +1,3 @@
+rs_NNS ,_, or_CC anomalies_NNS ,_, refer_VBP to_TO aberrant_JJ or_CC interesting_JJ objects_NNS whose_WP$ characteristics_NNS deviate_VBP significantly_RB from_IN the_DT majority_NN of_IN the_DT data_NNS ._.
+Although_IN the_DT problem_NN of_IN outlier_NN detection_NN has_VBZ been_VBN widely_RB studied_VBN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, most_JJS of_IN the_DT existing_VBG approaches_NNS identify_VBP outliers_NNS from_IN a_DT global_JJ aspect_NN ,_, where_WRB the_DT entire_JJ data_NN set_NN is_VBZ examined_VBN ._.
+In_IN many_JJ scenarios_NNS ,_, however_RB ,_, an_DT object_NN may_MD only_RB be_VB considered_VBN abnormal_JJ in_IN a_DT specific_JJ con_NN

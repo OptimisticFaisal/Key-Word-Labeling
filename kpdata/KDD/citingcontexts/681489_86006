@@ -1,0 +1,5 @@
+se_FW as_IN possible_JJ to_TO P_NN -LRB-_-LRB- C_NN |_NN F_NN -RRB-_-RRB- ,_, where_WRB P_NN -LRB-_-LRB- C_NN |_CD G_NN -RRB-_-RRB- is_VBZ the_DT probability_NN distribution_NN of_IN different_JJ classes_NNS given_VBN the_DT feature_NN values_NNS in_IN G_NN and_CC P_NN -LRB-_-LRB- C_NN |_NN F_NN -RRB-_-RRB- is_VBZ the_DT original_JJ distribution_NN given_VBN the_DT feature_NN values_NNS in_IN F_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP call_VBP such_JJ a_DT minimum_NN subset_NN an_DT optimal_JJ subset_NN ,_, illustrated_VBN by_IN the_DT example_NN below_IN ._.
+Example_NN 1_CD ._.
+-LRB-_-LRB- Optimal_JJ subset_NN -RRB-_-RRB- Let_NNP features_VBZ F1_NN ,_, ..._: ,_, F5_NN be_VB Boolean_NNP ._.
+The_DT target_NN concept_NN is_VBZ C_NN =_JJ g_NN -LRB-_-LRB- F1_NN ,_, F2_NN -RRB-_-RRB- where_WRB g_NN is_VBZ a_DT B_NN

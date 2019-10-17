@@ -1,0 +1,5 @@
+t_NN algorithm_NN we_PRP compared_VBD NNci_NN with_IN is_VBZ the_DT Cox_NNP proportional_JJ hazard_NN model_NN ._.
+The_DT Cox_NNP model_NN outputs_VBZ a_DT prognostic_JJ hazard_NN score_NN ,_, which_WDT is_VBZ a_DT function_NN of_IN a_DT linear_JJ combination_NN of_IN the_DT covariates_NNS -LRB-_-LRB- input_NN features_NNS -RRB-_-RRB- =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT higher_JJR the_DT score_NN is_VBZ ,_, the_DT more_JJR risk_NN the_DT model_NN predicts_VBZ the_DT patient_NN would_MD have_VB ._.
+4.2_CD Results_NNS The_DT empirical_JJ results_NNS are_VBP based_VBN on_IN leave-one-out_JJ cross_NN validation_NN ._.
+For_IN all_PDT the_DT algorithms_NNS ,_, we_PRP conducted_VBD

@@ -1,0 +1,6 @@
+tings_NNS ._.
+Conventional_JJ SVD_NN is_VBZ undefined_VBN when_WRB knowledge_NN about_IN the_DT matrix_NN is_VBZ incomplete_JJ ._.
+Moreover_RB ,_, carelessly_RB addressing_VBG only_RB the_DT relatively_RB few_JJ known_JJ entries_NNS is_VBZ highly_RB prone_JJ to_TO overfitting_NN ._.
+Earlier_RBR works_VBZ =_JJ -_: =[_NN 14_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: relied_VBN on_IN imputation_NN to_TO fill_VB in_IN missing_VBG ratings_NNS and_CC make_VB the_DT rating_NN matrix_NN dense_JJ ._.
+However_RB ,_, imputation_NN can_MD be_VB very_RB expensive_JJ as_IN it_PRP significantly_RB increases_VBZ the_DT amount_NN of_IN data_NNS ._.
+In_IN addition_NN ,_, the_DT data_NNS may_MD

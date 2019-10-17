@@ -1,0 +1,4 @@
+is_VBZ obviously_RB a_DT chasm_NN between_IN what_WP we_PRP can_MD mine_VB today_NN and_CC what_WP needs_VBZ to_TO be_VB mined_VBN ._.
+It_PRP is_VBZ true_JJ that_IN new_JJ attempts_NNS toward_IN solving_VBG such_JJ problems_NNS are_VBP made_VBN by_IN finding_VBG the_DT set_NN of_IN frequent_JJ closed_JJ itemsets_NNS -LRB-_-LRB- FCI_NN -RRB-_-RRB- =_JJ -_: =[_NN 6_CD ,_, 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT frequent_JJ itemset_NN X_NN is_VBZ closed_VBN if_IN and_CC only_RB if_IN there_EX is_VBZ no_DT X_NN ′_NN such_JJ that_IN X_NNP ⊆_NNP X_NNP ′_NNP and_CC the_DT support_NN of_IN X_NN equals_VBZ to_TO the_DT support_NN of_IN X_NN ′_NN ._.
+Finding_VBG only_RB the_DT closed_JJ item_NN patterns_NNS reduces_VBZ dramatically_RB the_DT siz_NN

@@ -1,0 +1,4 @@
+-LRB-_-LRB- 8_CD ,_, 9_CD -RRB-_-RRB- :_: An_DT open-source_JJ package_NN for_IN standard_JJ SVM_NN learning_NN ,_, which_WDT constructs_NNS a_DT hyperplane_NN that_WDT divides_VBZ positive_JJ and_CC negative_JJ examples_NNS ._.
+SVM-Rank_NN -LRB-_-LRB- www.cs.cornell.edu\/people\/tj\/svm_light\/svm_rank.html_NN -RRB-_-RRB- =_JJ -_: =[_NN 7_CD ,_, 9_CD -RRB-_-RRB- -_: =_JJ -_: :_: An_DT open-source_JJ package_NN for_IN a_DT different_JJ version_NN of_IN SVM_NN learning_NN ._.
+It_PRP constructs_NNS a_DT classifier_NN that_WDT ranks_VBZ previously_RB unseen_JJ examples_NNS rather_RB than_IN just_RB dividing_VBG them_PRP into_IN positive_JJ and_CC negative_JJ ._.
+3.4_CD Recomm_NN

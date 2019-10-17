@@ -1,0 +1,5 @@
+veral_JJ papers_NNS ,_, e.g._FW ,_, see_VB -LRB-_-LRB- 1_CD ,_, 11_CD -RRB-_-RRB- for_IN studies_NNS of_IN freeloading_VBG in_IN the_DT Gnutella_NNP system_NN ._.
+Various_JJ mechanisms_NNS to_TO ensure_VB fair_JJ trading_NN in_IN peer-to-peer_JJ networks_NNS have_VBP been_VBN proposed_VBN ,_, e.g._FW ,_, KARMA_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- and_CC EigenRep_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, many_JJ of_IN these_DT mechanisms_NNS are_VBP complex_JJ and_CC introduce_VB an_DT unsustainable_JJ overhead_NN ._.
+The_DT BitTorrent_NNP protocol_NN incorporates_VBZ simple_JJ countermeasures_NNS against_IN freeloading_VBG ._.
+Originally_RB ,_, BitTorrent_NNP used_VBN ti_IN

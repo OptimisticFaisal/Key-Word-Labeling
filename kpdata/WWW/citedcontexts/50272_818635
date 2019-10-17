@@ -1,0 +1,5 @@
+standard_NN ._.
+More_RBR specifically_RB ,_, we_PRP want_VBP our_PRP$ format_NN to_TO be_VB machine_NN understandable_JJ and_CC interoperable_JJ ._.
+The_DT eXtensible_JJ Markup_NN Language_NN -LRB-_-LRB- XML_NN ,_, see_VB e.g._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- -RRB-_-RRB- is_VBZ particularly_RB well_RB suited_VBN for_IN this_DT task_NN -LRB-_-LRB- see_VB e.g._FW =_SYM -_: =[_NN 24_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT following_VBG XML-fragment_NN is_VBZ an_DT example_NN of_IN what_WP a_DT profile_NN could_MD look_VB like_IN :_: <? xml version=&quot;1.0&quot; ?>_FW <!-------------------------------------------------------------- -->_FW -LRB-_-LRB- !_.
+--_: A_DT profile_NN has_VBZ an_DT owner_NN ,_,

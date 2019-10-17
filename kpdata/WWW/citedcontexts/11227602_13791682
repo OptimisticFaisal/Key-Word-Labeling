@@ -1,0 +1,4 @@
+-RRB-_-RRB- is_VBZ a_DT matrix_NN whose_WP$ columns_NNS correspond_VBP to_TO the_DT neighbors_NNS in_IN terms_NNS of_IN their_PRP$ user_NN features_NNS ._.
+The_DT tie_JJ strength_NN between_IN two_CD users_NNS is_VBZ related_JJ to_TO many_JJ factors_NNS such_JJ as_IN user_NN similarity_NN ,_, user_NN connectivity_NN ,_, etc._NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT homophily_JJ principle_NN in_IN social_JJ networks_NNS suggests_VBZ that_IN similarity_NN breeds_NNS connections_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+E.g._RB ,_, a_DT higher_JJR degree_NN of_IN embeddedness_NN -LRB-_-LRB- i.e._FW ,_, common_JJ friends_NNS -RRB-_-RRB- suggests_VBZ stronger_JJR tie_NN strength_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, like-mi_NN

@@ -1,0 +1,5 @@
+social_JJ security_NN number_NN ._.
+Hence_RB ,_, the_DT ontology_NN is_VBZ satisfiable_JJ ;_: furthermore_RB ,_, if_IN we_PRP query_VBP for_IN the_DT social_JJ security_NN number_NN of_IN Peter_NNP ,_, we_PRP do_VBP not_RB get_VB an_DT answer_NN ,_, since_IN this_DT number_NN is_VBZ unknown_JJ ._.
+As_IN we_PRP discussed_VBD in_IN =_JJ -_: =[_NN 7,8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, OWL_NN ontologies_NNS can_MD be_VB understood_VBN as_IN incomplete_JJ databases_NNS ._.
+Many_JJ databases_NNS encountered_VBN in_IN practice_NN are_VBP ,_, however_RB ,_, complete_JJ ._.
+To_TO obtain_VB a_DT flexible_JJ schema_NN language_NN ,_, we_PRP would_MD like_VB to_TO explicitly_RB control_VB the_DT

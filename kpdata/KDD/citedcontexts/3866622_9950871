@@ -1,0 +1,3 @@
+A_DT model_NN to_TO capture_VB the_DT label_NN correlations_NNS and_CC to_TO learn_VB better_JJR predictive_JJ features_NNS from_IN the_DT data_NNS by_IN projective_JJ it_PRP to_TO a_DT subspace_NN directed_VBN by_IN label_NN information_NN ._.
+It_PRP has_VBZ been_VBN empirically_RB and_CC theoretically_RB =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: shown_VBN that_IN incorporating_VBG label_NN information_NN in_IN dimensionality_NN reduction_NN indeed_RB leads_VBZ to_TO better_JJR projections_NNS if_IN the_DT final_JJ goal_NN is_VBZ prediction_NN ._.
+More_RBR concretely_RB ,_, let_VB X_NN =_JJ -LRB-_-LRB- x1_NN ,_, ..._: ,_, xN_NN -RRB-_-RRB- be_VB an_DT D_NN ×_NN N_NN matrix_NN of_IN p_NN

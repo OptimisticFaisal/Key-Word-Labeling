@@ -1,0 +1,6 @@
+likely_RB appear_VB with_IN the_DT given_VBN set_NN based_VBN on_IN the_DT values_NNS of_IN Pr_NN -LRB-_-LRB- x_NN i_FW |_FW C_NN -RRB-_-RRB- ._.
+Intuitively_RB ,_, an_DT item_NN i_FW with_IN a_DT large_JJ corresponding_JJ value_NN of_IN Pr_NN -LRB-_-LRB- x_NN i_FW |_FW C_NN -RRB-_-RRB- would_MD be_VB likely_JJ to_TO occur_VB along_IN with_IN the_DT given_VBN itemset_NN ._.
+See_VB =_JJ -_: =_JJ -LRB-_-LRB- BHK98_NN -RRB-_-RRB- -_: =_SYM -_: for_IN a_DT detailed_JJ description_NN ._.
+Results_NNS are_VBP given_VBN in_IN Section_NNP 5.2.4_CD ._.
+5_CD ._.
+RESULTS_NNS 5.1_CD Synthetic_JJ Data_NN Experiments_NNS We_PRP generated_VBD 70_CD different_JJ synthetic_JJ datasets_NNS while_IN controlling_VBG the_DT following_JJ parameters_NNS :_: tota_NN

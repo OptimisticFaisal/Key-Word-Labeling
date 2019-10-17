@@ -1,0 +1,4 @@
+s_NN of_IN the_DT data_NNS ._.
+In_IN order_NN to_TO produce_VB clustering_NN results_NNS that_WDT are_VBP smooth_JJ over_IN time_NN ,_, past_JJ data_NNS should_MD be_VB used_VBN in_IN some_DT manner_NN ._.
+Frameworks_NNS for_IN evolutionary_JJ clustering_NN have_VBP been_VBN proposed_VBN in_IN previous_JJ studies_NNS =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP adopt_VBP an_DT evolutionary_JJ extension_NN for_IN spectral_JJ clustering_NN proposed_VBN in_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- that_WDT takes_VBZ a_DT convex_JJ combination_NN of_IN current_JJ and_CC past_JJ affinities_NNS between_IN data_NNS points_NNS as_IN the_DT input_NN to_TO the_DT traditional_JJ spectral_NN

@@ -1,0 +1,3 @@
+ing_NN over_IN rules_NNS of_IN the_DT form_NN ``_`` A1_NN =_JJ v1_NN and_CC A2_NN =_JJ v2_NN ''_'' -LRB-_-LRB- e.g._FW Gender_NN =_JJ Male_NN and_CC Symptom_NN =_JJ Cough_NN -RRB-_-RRB- ,_, where_WRB each_DT rule_NN defines_VBZ a_DT subset_NN of_IN records_NNS with_IN the_DT given_VBN attribute_NN values_NNS ._.
+Anomaly_NNP Pattern_NNP Detection_NN -LRB-_-LRB- APD_NN -RRB-_-RRB- =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: begins_VBZ with_IN an_DT individual_JJ anomaly_NN detector_NN and_CC then_RB uses_VBZ the_DT rule_NN learning_NN method_NN to_TO find_VB groups_NNS of_IN records_NNS that_WDT have_VBP an_DT abnormally_RB high_JJ proportion_NN of_IN individual_JJ anomalies_NNS ._.
+What_WP 's_VBZ Strange_NNP About_IN Recen_NNP

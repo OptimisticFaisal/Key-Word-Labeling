@@ -1,0 +1,3 @@
+t._FW In_FW order_NN the_DT person_NN tracking_NN and_CC identification_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 6_CD -RRB-_-RRB- to_TO work_VB accurately_RB ,_, we_PRP need_VBP a_DT technique_NN to_TO detect_VB footstep_NN patterns_NNS from_IN EMFi-data_JJ ._.
+For_IN this_DT purpose_NN ,_, we_PRP have_VBP applied_VBN a_DT method_NN described_VBN in_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: based_VBN on_IN segmental_JJ semi-Markov_JJ models_NNS -LRB-_-LRB- SSMM_NN -RRB-_-RRB- ,_, to_TO detect_VB these_DT patterns_NNS reliably_RB ._.
+In_IN this_DT method_NN ,_, a_DT Markov-based_JJ piecewise_NN linear_NN model_NN is_VBZ constructed_VBN from_IN a_DT single_JJ example_NN pattern_NN and_CC then_RB a_DT Viterbi_NNP -_:

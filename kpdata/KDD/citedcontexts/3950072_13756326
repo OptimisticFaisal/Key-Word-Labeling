@@ -1,0 +1,4 @@
+ules_NNS by_IN up_IN to_TO two_CD orders_NNS of_IN magnitude_NN ._.
+I._NNP INTRODUCTION_NNP Data_NNP mining_NN has_VBZ been_VBN shown_VBN useful_JJ in_IN various_JJ domains_NNS including_VBG finance_NN ,_, marketing_NN ,_, bioinformatics_NNS and_CC recently_RB software_NN engineering_NN ,_, e.g._FW ,_, -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Many_JJ valuable_JJ data_NNS sources_NNS are_VBP in_IN sequential_JJ formats_NNS ranging_VBG from_IN logs_NNS ,_, transaction_NN histories_NNS ,_, medical_JJ histories_NNS ,_, program_NN traces_NNS ,_, and_CC many_JJ more_JJR ._.
+To_TO analyze_VB sequential_JJ data_NNS ,_, Lo_FW et_FW al._FW propose_VBP recurre_NN

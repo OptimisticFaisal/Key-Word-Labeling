@@ -1,0 +1,5 @@
+describing_VBG a_DT query\/object_NN pair_NN ._.
+Given_VBN a_DT query_NN ,_, the_DT function_NN is_VBZ applied_VBN to_TO each_DT object_NN and_CC objects_NNS are_VBP ranked_VBN by_IN decreasing_VBG scores_NNS ._.
+Models_NNS relying_VBG on_IN this_DT paradigm_NN include_VBP ranking_JJ perceptrons_NNS or_CC SVMs_NNS -LRB-_-LRB- =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =--RRB-_NN ,_, rankNet_NN -LRB-_-LRB- Burges_NNP et_FW al._FW ,_, 2005_CD -RRB-_-RRB- or_CC ListNet_NNP -LRB-_-LRB- Cao_NNP et_FW al._FW ,_, 2007_CD -RRB-_-RRB- ,_, amongst_IN others_NNS ._.
+Hence_RB ,_, these_DT approaches_NNS can_MD be_VB referred_VBN to_TO as_IN learning_VBG a_DT functional_JJ embedding_NN ._.
+Methods_NNS such_JJ as_IN Latent_JJ Semantic_JJ Indexing_NN

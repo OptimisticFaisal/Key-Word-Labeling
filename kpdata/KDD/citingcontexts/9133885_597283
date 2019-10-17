@@ -1,0 +1,4 @@
+ediction_NN errors_NNS ._.
+One_CD approach_NN to_TO reducing_VBG this_DT cost_NN is_VBZ to_TO compute_VB errors_NNS only_RB on_IN a_DT subset_NN of_IN observed_VBN relations_NNS ,_, picked_VBD randomly_RB at_IN each_DT iteration_NN ._.
+This_DT technique_NN is_VBZ known_VBN as_IN stochastic_JJ approximation_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT best-known_JJ stochastic_JJ approximation_NN algorithm_NN is_VBZ stochastic_JJ gradient_NN descent_NN ;_: but_CC ,_, since_IN inverting_VBG the_DT Hessian_JJ is_VBZ not_RB a_DT significant_JJ part_NN of_IN our_PRP$ computational_JJ cost_NN ,_, we_PRP will_MD recommend_VB a_DT stochastic_JJ

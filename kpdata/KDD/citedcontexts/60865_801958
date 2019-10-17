@@ -1,0 +1,4 @@
+OSUM62_NN ._.
+To_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ,_, it_PRP is_VBZ the_DT first_JJ evaluation_NN method_NN based_VBN on_IN the_DT biochemical_JJ point_NN of_IN view_NN that_WDT considers_VBZ both_CC HSSP_NN and_CC BLOSUM62_NN information_NN ._.
+3.7_CD Ranking-SVM_NN setup_NN In_IN ranking_JJ SVM_NN -LRB-_-LRB- =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =--RRB-_NN ,_, the_DT target_NN value_NN is_VBZ used_VBN to_TO denote_VB as_IN pair_NN wise_JJ preference_NN constraints_NNS ._.
+We_PRP set_VBD the_DT target_NN value_NN for_IN each_DT member_NN in_IN the_DT cluster_NN by_IN counting_VBG the_DT number_NN of_IN matching_JJ secondary_JJ structure_NN between_IN a_DT membe_NN

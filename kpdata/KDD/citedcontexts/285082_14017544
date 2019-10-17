@@ -1,0 +1,4 @@
+e_LS models_NNS and_CC threshold_NN models_NNS ._.
+The_DT most_RBS basic_JJ models_NNS are_VBP the_DT Independent_NNP Cascade_NNP Model_NNP and_CC the_DT Linear_NNP Threshold_NNP Model_NNP ._.
+The_DT cascade_NN models_NNS are_VBP similar_JJ to_TO the_DT models_NNS of_IN the_DT spread_NN of_IN epidemic_JJ diseases_NNS -LRB-_-LRB- =_JJ -_: =_JJ Kempe_NNP ,_, Kleinberg_NNP ,_, &_CC Tardos_NNP ,_, 2003_CD -_: =_JJ -_: ;_: Leskovec_NNP ,_, Adamic_NNP ,_, &_CC Huberman_NNP ,_, 2006_CD ;_: Moore_NNP &_CC Newman_NNP ,_, 2000_CD ;_: M._NNP E._NNP Newman_NNP ,_, 2002_CD -RRB-_-RRB- ._.
+In_IN the_DT Independent_NNP Cascade_NNP Model_NNP ,_, each_DT node_NN gets_VBZ a_DT chance_NN to_TO influence_VB each_DT of_IN its_PRP$ inactive_JJ neighbors_NNS with_IN a_DT given_VBN prob_NN

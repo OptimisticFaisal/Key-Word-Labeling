@@ -1,0 +1,4 @@
+lgorithms_NNS employing_VBG the_DT levelwise_NN search_NN scheme_NN to_TO enumerate_VB the_DT recurrent_JJ subgraph_NN patterns_NNS ._.
+Hereafter_NNP ,_, a_DT variety_NN of_IN DFS_NN based_VBN algorithms_NNS has_VBZ been_VBN proposed_VBN ,_, including_VBG MoFa_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, gSpan_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, FFSM_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, Gaston_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT most_RBS related_JJ work_NN to_TO this_DT paper_NN in_IN graph_NN mining_NN area_NN is_VBZ TSMiner_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Although_IN TSMiner_NN has_VBZ utilized_VBN the_DT topology_NN minor_JJ to_TO solve_VB the_DT fuzzy_JJ matching_NN problem_NN ,_, the_DT pattern_NN matching_NN of_IN TSMiner_NN is_VBZ still_RB

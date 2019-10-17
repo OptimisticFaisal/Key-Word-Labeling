@@ -1,0 +1,4 @@
+coefficients_NNS βi_NN and_CC bias_NN term_NN b_NN ′_CD ,_, such_JJ that_IN f_FW ′_FW -LRB-_-LRB- x_NN -RRB-_-RRB- =_JJ X_NN βiK_NN -LRB-_-LRB- zi_NN ,_, x_NN -RRB-_-RRB- −_CD b_NN ′_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- i_FW is_VBZ as_RB close_JJ to_TO the_DT output_NN of_IN the_DT original_JJ SVM_NN as_IN possible_JJ ._.
+We_PRP use_VBP the_DT reduced-set_JJ method_NN proposed_VBN by_IN Tang_NNP and_CC Mazzoni_NNP =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT yields_VBZ more_RBR accurate_JJ approximations_NNS more_RBR efficiently_RB than_IN previous_JJ techniques_NNS ._.
+The_DT reduced-set_JJ approach_NN is_VBZ what_WP made_VBD this_DT algorithm_NN feasible_JJ for_IN use_NN on-board_JJ ,_, as_IN discussed_VBN in_IN Section_NN 6_CD ._.
+5.2_CD Ae_NN

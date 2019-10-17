@@ -1,0 +1,4 @@
+xtracted_VBN from_IN the_DT appropriate_JJ training_NN set_VBN by_IN locating_VBG clusters_NNS ofsARTICLE_NN IN_IN PRESS_NN 10_CD P._NNP Remagnino_NNP et_FW al._FW \/_: Pattern_NN Recognition_NN -LRB-_-LRB- -RRB-_-RRB- --_: observations_NNS using_VBG an_DT e_SYM cient_JJ implementation_NN of_IN the_DT EM_NN algorithm_NN =_JJ -_: =[_NN 39_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Second_JJ ,_, trajectories_NNS from_IN the_DT training_NN set_NN are_VBP used_VBN to_TO compute_VB the_DT HMM_NNP probabilities_NNS ._.
+Priors_NNS are_VBP readily_RB learned_VBN by_IN counting_VBG the_DT frequency_NN of_IN starting_VBG in_IN a_DT particular_JJ state_NN ._.
+Similarly_RB transitional_JJ pr_NN

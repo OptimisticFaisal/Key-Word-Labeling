@@ -1,0 +1,3 @@
+NB-DFS_NN ,_, an_DT algorithm_NN to_TO mine_VB associations_NNS which_WDT applies_VBZ a_DT depth-first_JJ search_NN strategy_NN using_VBG recursion_NN ._.
+The_DT algorithm_NN is_VBZ similar_JJ to_TO DepthProject_VB an_DT algorithm_NN to_TO efficiently_RB find_VB long_JJ maximal_JJ itemsets_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN contrast_NN to_TO NB-BFS_NN ,_, the_DT algorithm_NN gets_VBZ a_DT known_JJ pattern_NN l_NN and_CC a_DT conditional_JJ database_NN D_NN l_NN -LRB-_-LRB- a_DT sub-database_NN which_WDT only_RB contains_VBZ transactions_NNS which_WDT contain_VBP the_DT pattern_NN l_NN -RRB-_-RRB- to_TO mine_VB patterns_NNS which_WDT are_VBP su_FW

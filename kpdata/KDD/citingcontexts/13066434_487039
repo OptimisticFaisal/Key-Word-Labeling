@@ -1,0 +1,4 @@
+towards_IN the_DT current_JJ estimate_NN of_IN xi_FW ,_, we_PRP compute_VBP the_DT intersection_NN with_IN a_DT geodesic_JJ ray_NN from_IN x_NN j_NN towards_IN xi_NN ._.
+The_DT second_JJ problem_NN can_MD be_VB addressed_VBN by_IN prior_JJ work_NN on_IN computing_VBG min-sums_NNS on_IN manifolds_NNS ._.
+Karcher_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD an_DT iterative_JJ scheme_NN for_IN the_DT geodesic_JJ sum-of-squares_NNS problem_NN that_WDT always_RB converges_VBZ as_RB long_RB as_IN the_DT points_NNS do_VBP not_RB span_VB the_DT entire_JJ sphere_NN ._.
+His_PRP$ work_NN extends_VBZ -LRB-_-LRB- for_IN the_DT same_JJ functions_NNS Err_NNP ,_, f_LS -RRB-_-RRB- to_TO po_VB

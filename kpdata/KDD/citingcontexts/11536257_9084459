@@ -1,0 +1,3 @@
+l_NN approaches_VBZ to_TO solving_VBG the_DT ℓ1-regularization_NN problem_NN is_VBZ provided_VBN in_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+Finally_RB ,_, for_IN learning_VBG structures_NNS of_IN the_DT special_JJ Gaussian_NNP Markov_NNP random_JJ fields_NNS -LRB-_-LRB- GMRFs_NNS -RRB-_-RRB- ,_, inverse_JJ covariance_NN estimation_NN methods_NNS =_JJ -_: =[_NN 2_CD ,_, 32_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN developed_VBN based_VBN on_IN the_DT ℓ1-norm_NN penalized_VBD maximum_NN likelihood_NN estimation_NN ._.
+For_IN the_DT structure_NN learning_NN of_IN directed_JJ Bayesian_JJ networks_NNS ,_, the_DT structural_JJ EM_NN -LRB-_-LRB- SEM_NN -RRB-_-RRB- algorithm_NN -LRB-_-LRB- 4_CD ,_, 5_CD -RRB-_-RRB- has_VBZ a_DT similar_JJ proc_NN

@@ -1,0 +1,4 @@
+sine_NN similarity_NN with_IN TF\/IDF_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+4.1_CD Real-World_NNP Data_NNP Our_NNP primary_JJ source_NN of_IN data_NNS was_VBD the_DT hand-labeled_JJ subset_NN of_IN the_DT Cora_NNP database_NN provided_VBN by_IN Andrew_NNP McCallum_NNP and_CC previously_RB used_VBN by_IN Bilenko_NN and_CC Mooney_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: and_CC others_NNS ._.
+1_CD This_DT dataset_NN is_VBZ a_DT collection_NN of_IN 1295_CD different_JJ citations_NNS to_TO 112_CD computer_NN science_NN research_NN papers_NNS from_IN the_DT Cora_NNP Computer_NNP Science_NNP Research_NNP Paper_NNP Engine_NNP ._.
+The_DT original_JJ data_NN set_NN contains_VBZ onl_NN

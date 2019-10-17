@@ -1,0 +1,4 @@
+of_IN the_DT proposed_VBN programming_NN interface_NN ,_, the_DT notion_NN of_IN a_DT Web_NN service_NN and_CC how_WRB Web_NN services_NNS interact_VBP in_IN conversations_NNS ,_, and_CC the_DT syntax_NN of_IN the_DT most_RBS important_JJ programming_NN constructs_NNS ._.
+An_DT example_NN is_VBZ given_VBN in_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3.1_CD Design_NN Principles_NNS In_IN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, we_PRP gave_VBD a_DT list_NN of_IN 17_CD desiderata_NNS that_IN we_PRP believe_VBP to_TO be_VB important_JJ for_IN a_DT programming_NN language_NN that_WDT supports_VBZ the_DT definition_NN and_CC composition_NN of_IN Web_NN services_NNS ._.
+Here_RB ,_, we_PRP would_MD

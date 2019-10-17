@@ -1,0 +1,5 @@
+lost_VBN at_IN any_DT link_NN due_JJ to_TO the_DT existence_NN of_IN noise_NN or_CC friction_NN ._.
+Therefore_RB two_CD nodes_NNS that_WDT are_VBP not_RB connected_VBN by_IN a_DT short_JJ path_NN are_VBP unlikely_JJ to_TO be_VB related_JJ ._.
+Distance_NNP in_IN graphs_NNS can_MD be_VB computed_VBN very_RB efficiently_RB =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, this_DT measure_NN does_VBZ not_RB account_VB for_IN the_DT fact_NN that_IN relationships_NNS between_IN network_NN entities_NNS might_MD be_VB realized_VBN by_IN many_JJ different_JJ paths_NNS ._.
+In_IN some_DT instances_NNS ,_, such_JJ as_IN managed_VBN networks_NNS ,_, it_PRP may_MD be_VB reas_NNS

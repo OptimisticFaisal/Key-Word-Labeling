@@ -1,0 +1,4 @@
+forward_RB ._.
+Technically_NNP ,_, we_PRP measured_VBD discrimination_NN through_IN a_DT generalization_NN of_IN lift_NN to_TO cope_VB with_IN contexts_NNS ,_, specified_VBN as_IN non-discriminatory_JJ itemsets_NNS ._.
+In_IN this_DT sense_NN ,_, there_EX is_VBZ a_DT relation_NN with_IN the_DT work_NN of_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB the_DT notion_NN of_IN conditional_JJ association_NN rules_NNS has_VBZ been_VBN studied_VBN ._.
+A_DT conditional_JJ rule_NN A_NN ⇔_NN C\/B_NN denotes_VBZ a_DT context_NN B_NN in_IN which_WDT itemsets_NNS A_NN and_CC C_NN are_VBP equivalent_JJ ,_, namely_RB where_WRB conf_NN -LRB-_-LRB- A_NN ,_, B_NN →_NN C_NN -RRB-_-RRB- =_JJ 1_CD and_CC conf_NN -LRB-_-LRB- ¬_NN

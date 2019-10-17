@@ -1,0 +1,5 @@
+osts_NNS in_IN the_DT same_JJ cluster_NN cover_VBP the_DT same_JJ features_NNS ._.
+Then_RB ,_, given_VBN clusters_NNS ,_, we_PRP can_MD pick_VB a_DT representative_JJ post_NN from_IN each_DT of_IN the_DT k_NN largest_JJS clusters_NNS ._.
+Such_JJ clustering_NN approaches_NNS are_VBP common_JJ in_IN the_DT literature_NN -LRB-_-LRB- =_JJ -_: =_JJ Zhang_NNP et_FW al._FW ,_, 2005_CD -_: =--RRB-_NN ._.
+However_RB ,_, most_JJS clustering_NN methods_NNS require_VBP us_PRP to_TO compute_VB the_DT distance_NN between_IN every_DT pair_NN of_IN posts_NNS ,_, which_WDT amounts_VBZ to_TO O_NN -LRB-_-LRB- n2_NN -RRB-_-RRB- comparisons_NNS for_IN n_NN posts_NNS ._.
+Due_JJ to_TO the_DT sizable_JJ amount_NN of_IN posts_NNS published_VBN daily_RB ,_,

@@ -1,0 +1,4 @@
+ss_NN flexible_JJ while_IN preventing_VBG the_DT overfitting_NN of_IN the_DT resulting_VBG model_NN ._.
+The_DT experiments_NNS described_VBN in_IN this_DT paper_NN use_VBP the_DT multiclass_JJ classifier_NN implementation_NN in_IN LIBLINEAR_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, which_WDT uses_VBZ a_DT version_NN of_IN SVM_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT version_NN performs_VBZ well_RB on_IN large-scale_JJ classification_NN problems_NNS that_WDT have_VBP numerous_JJ instances_NNS and\/or_CC distinct_JJ classes_NNS ._.
+The_DT learned_VBN model_NN consists_VBZ of_IN a_DT p_NN ×_NN L_NN matrix_NN containing_VBG real_JJ valued_VBN weights_NNS th_DT

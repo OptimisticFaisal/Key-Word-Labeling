@@ -1,0 +1,4 @@
+to_TO the_DT template_NN to_TO create_VB the_DT web_NN page_NN ._.
+The_DT ESCUDO_NN configuration_NN can_MD be_VB specified_VBN in_IN the_DT template_NN ,_, isolating_VBG the_DT configuration_NN from_IN dynamic_JJ data_NNS ._.
+Sophisticated_JJ template_NN engines_NNS such_JJ as_IN StringTemplate_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: provide_VBP a_DT stricter_JJR separation_NN between_IN view_NN and_CC model_NN ,_, making_VBG it_PRP easy_JJ to_TO manage_VB ESCUDO_NNP configurations_NNS for_IN largescale_JJ web_NN applications_NNS ._.
+Language-based_JJ information_NN flow_NN could_MD also_RB be_VB used_VBN to_TO create_VB ESCU_NN

@@ -1,0 +1,4 @@
+infrequent_JJ in_IN both_CC DB_NN and_CC ∆_FW db_FW ,_, it_PRP can_MD not_RB be_VB frequent_JJ in_IN DB_NNP ′_NNP ,_, as_IN shown_VBN in_IN Figure_NNP 1_CD ._.
+This_DT property_NN is_VBZ similar_JJ to_TO that_DT of_IN frequent_JJ patterns_NNS ,_, which_WDT has_VBZ been_VBN used_VBN in_IN incremental_JJ frequent_JJ pattern_NN mining_NN =_JJ -_: =[_NN 3_CD ,_, 9_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Such_JJ incremental_JJ frequent_JJ pattern_NN mining_NN algorithms_NNS can_MD be_VB easily_RB extended_VBN to_TO handle_VB sequential_JJ pattern_NN mining_NN in_IN the_DT case_NN of_IN INSERT_NNP ._.
+It_PRP is_VBZ far_RB trickier_JJR to_TO handle_VB the_DT second_JJ case_NN ,_, APPEND_NNP ,_, than_IN the_DT f_SYM

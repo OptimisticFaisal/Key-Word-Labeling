@@ -1,0 +1,5 @@
+ng_NN the_DT smallest_JJS cost_NN of_IN vertex_NN labels_NNS for_IN the_DT anchoring_NN effect_NN -LRB-_-LRB- Touzet_NNP and_CC Perriquet_NNP ,_, 2004_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- To_TO Avoid_VB enumerating_VBG over-generalized_JJ patterns_NNS -LRB-_-LRB- Inokuchi_NNP ,_, 2004_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Enumerating_VBG only_RB closed_VBN patterns_NNS -LRB-_-LRB- =_JJ -_: =_JJ Yan_NNP and_CC Han_NNP ,_, 2003_CD -_: =--RRB-_NN ._.
+To_TO apply_VB our_PRP$ algorithm_NN to_TO large-scale_JJ motifs_NNS and_CC cluster_NN detection_NN problems_NNS ,_, 3_CD That_DT is_VBZ realized_VBN by_IN not_RB making_VBG edges_NNS between_IN two_CD stem_NN candidates_NNS more_JJR than_IN 100_CD bases_NNS away_RB from_IN each_DT other_JJ ._.
+4_CD In_IN constr_NN

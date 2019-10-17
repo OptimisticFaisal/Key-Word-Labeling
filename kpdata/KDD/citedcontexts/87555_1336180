@@ -1,0 +1,3 @@
+ensitive_JJ learning_NN and_CC decision_NN making_NN ,_, in_IN the_DT data_NNS mining_NN community_NN ._.
+Various_JJ authors_NNS have_VBP noted_VBN the_DT limitations_NNS of_IN classic_JJ supervised-learning_JJ methods_NNS for_IN use_NN in_IN cost_NN sensitive_JJ decision_NN making_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 13_CD ,_, 4_CD ,_, 5_CD ,_, 17_CD ,_, 8_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, and_CC a_DT number_NN of_IN cost_NN sensitive_JJ learning_NN methods_NNS have_VBP been_VBN developed_VBN -LRB-_-LRB- 4_CD ,_, 17_CD ,_, 6_CD -RRB-_-RRB- that_IN out-perform_JJ classification_NN based_VBN methods_NNS ._.
+The_DT problem_NN of_IN optimizing_VBG a_DT sequence_NN of_IN cost-sensitive_JJ decisions_NNS ,_, howev_NN

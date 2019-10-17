@@ -1,0 +1,4 @@
+ation_NN ._.
+4s3_NN .3_NN Kernel_NNP parameter_NN via_IN LOOCV_NN Another_DT natural_JJ use_NN of_IN alpha_NN seeding_NN is_VBZ for_IN sequential_JJ SVM_NNP 's_POS over_IN some_DT range_NN of_IN settings_NNS for_IN a_DT kernel_NN parameter_NN ._.
+Previous_JJ work_NN with_IN Kernel_NNP Adatron_NNP SVM_NNP trainers_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: showed_VBD this_DT to_TO be_VB effective_JJ ,_, often_RB not_RB costing_VBG significantly_RB more_JJR to_TO train_VB for_IN a_DT large_JJ number_NN of_IN parameter_NN values_NNS than_IN for_IN the_DT first_JJ one_CD ._.
+Based_VBN on_IN our_PRP$ experience_NN with_IN this_DT case_NN ,_, its_PRP$ effectiveness_NN see_VB

@@ -1,0 +1,5 @@
+itive_JJ to_TO initialization_NN ._.
+A_DT better_JJR initialization_NN tends_VBZ to_TO allow_VB EM_NNP to_TO find_VB a_DT ``_`` better_JJ ''_'' optimum_NN ._.
+Second_NNP ,_, Gibbs_NNP sampling_NN is_VBZ too_RB slow_JJ to_TO be_VB effective_JJ for_IN large-scale_JJ datasets_NNS in_IN high-dimensional_JJ problems_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT hybrid_NN method_NN can_MD enjoy_VB the_DT advantages_NNS of_IN Gibbs_NNP and_CC EM_NNP ._.
+Gibbs_NNP sampling_NN Gibbs_NNP sampling_NN is_VBZ a_DT simple_JJ and_CC widely_RB applicable_JJ Markov_NNP chain_NN Monte_NNP Carlo_NNP algorithm_NN ,_, which_WDT provides_VBZ a_DT simple_JJ method_NN for_IN obtai_NNS

@@ -1,0 +1,4 @@
+it_PRP as_IN a_DT point_NN of_IN departure_NN for_IN a_DT class_NN of_IN greedy_JJ heuristics_NNS ._.
+First_RB ,_, we_PRP need_VBP a_DT notion_NN of_IN similarity_NN between_IN sets_NNS ._.
+Many_JJ measures_NNS have_VBP been_VBN proposed_VBN ;_: a_DT standard_JJ one_CD in_IN the_DT literature_NN is_VBZ Jaccard_NNP 's_POS index_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: Jac_NN -LRB-_-LRB- g_NN ,_, g_NN ′_NN -RRB-_-RRB- =_JJ |_CD g_NN ∩_CD g_NN ′_FW |_FW |_FW g_NN ∪_CD g_NN ′_NN ,_, measuring_VBG |_CD the_DT overlap_VBP of_IN g_NN ,_, g_NN ′_NN relative_JJ to_TO the_DT total_JJ number_NN of_IN elements_NNS in_IN the_DT sets_NNS ._.
+If_IN we_PRP want_VBP to_TO give_VB more_JJR weight_NN to_TO similar_JJ groups_NNS in_IN close_JJ temporal_JJ proximity_NN ,_, w_NN

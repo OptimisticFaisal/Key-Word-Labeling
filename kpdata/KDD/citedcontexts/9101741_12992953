@@ -1,0 +1,3 @@
+articles_NNS ._.
+The_DT system_NN then_RB adjusts_VBZ the_DT trained_JJ model_NN mathematically_RB to_TO account_VB for_IN the_DT fact_NN that_IN a_DT small_JJ fraction_NN of_IN unlabeled_JJ articles_NNS are_VBP actually_RB positive_JJ ;_: for_IN details_NNS see_VBP Elkan_NNP and_CC Noto_NNP ,_, KDD_NNP 2008_CD =_SYM -_: =[_NN 68_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT features_NNS that_IN PMAC_NN extracts_NNS from_IN PubMed_NNP are_VBP •_JJ Words_NNS in_IN an_DT article_NN 's_POS abstract_JJ ,_, •_JJ Words_NNS in_IN its_PRP$ title_NN ,_, •_CD Author_NN names_NNS and_CC affiliations_NNS ,_, •_NNP Journal_NNP name_NN and_CC publication_NN type_NN ,_, •_NNP Chemical_NNP substances_NNS me_PRP

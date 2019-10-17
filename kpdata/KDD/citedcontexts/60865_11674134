@@ -1,0 +1,5 @@
+loyed_VBN ._.
+2.6_CD Preference_NN Modelling_NNP Learning_NNP rankings_NNS was_VBD first_RB treated_VBN as_IN a_DT classification_NN problem_NN on_IN pairs_NNS of_IN objects_NNS by_IN Herbrich_NNP et_NNP al_NNP -LRB-_-LRB- 39_CD -RRB-_-RRB- and_CC subsequently_RB used_VBN on_IN a_DT web_NN page_NN ranking_NN task_NN by_IN Joachims_NN =_JJ -_: =[_NN 51_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Algorithms_NNS similar_JJ to_TO SVMs_NNS were_VBD used_VBN to_TO learn_VB the_DT ranking_JJ function_NN ._.
+Burges_NNP et_FW al._FW -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, use_VBP a_DT neural_JJ network_NN -LRB-_-LRB- RankNet_NN -RRB-_-RRB- to_TO model_VB the_DT underlying_VBG ranking_NN function_NN ._.
+Similar_JJ to_TO our_PRP$ approach_NN it_PRP used_VBD a_DT gra_NN

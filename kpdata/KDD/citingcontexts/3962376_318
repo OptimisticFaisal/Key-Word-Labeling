@@ -1,0 +1,3 @@
+s_VBZ the_DT relative_JJ difficulty_NN of_IN obtaining_VBG experimental_JJ data_NNS compared_VBN with_IN the_DT relative_JJ abundance_NN of_IN model_NN output_NN data_NNS ._.
+Similar_JJ to_TO the_DT standard_JJ association_NN rule_NN mining_NN -LRB-_-LRB- ARM_NN -RRB-_-RRB- and_CC sequence_NN mining_NN framework_NN =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 4_CD -RRB-_-RRB- -_: =_JJ -_: we_PRP present_VBP our_PRP$ approach_NN as_IN follows_VBZ :_: Let_VB I_PRP t_NN =_JJ -LCB-_-LRB- i_LS t_NN 1_CD ,_, i_FW t_NN 2_CD ,_, ..._: ,_, i_FW t_NN n_NN -RCB-_-RRB- be_VB a_DT set_NN of_IN items_NNS called_VBN the_DT target_NN items_NNS that_WDT are_VBP independent_JJ of_IN model_NN parameters_NNS ._.
+We_PRP call_VBP a_DT subset_NN X_NN t_NN ⊆_NN I_CD t_NN a_DT target_NN itemset_NN

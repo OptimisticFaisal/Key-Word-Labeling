@@ -1,0 +1,5 @@
+ssifier_JJR ensembles_NNS lend_VBP themselves_PRP to_TO scalable_JJ parallelization_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- and_CC on-line_JJ classification_NN of_IN large_JJ databases_NNS ._.
+Previously_RB ,_, we_PRP used_VBD averaging_VBG ensemble_NN for_IN scalable_JJ learning_NN over_IN very-large_JJ datasets_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP show_VBP that_IN a_DT model_NN 's_POS performance_NN can_MD be_VB estimated_VBN before_IN it_PRP is_VBZ completely_RB learned_VBN -LRB-_-LRB- 8_CD ,_, 9_CD -RRB-_-RRB- ._.
+In_IN this_DT work_NN ,_, we_PRP use_VBP weighted_JJ ensemble_NN classifiers_NNS on_IN concept-drifting_JJ data_NNS streams_NNS ._.
+It_PRP combines_VBZ multiple_JJ

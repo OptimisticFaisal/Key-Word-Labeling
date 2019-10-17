@@ -1,0 +1,6 @@
+s_NN in_IN blogs_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- and_CC to_TO track_VB news_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+We_PRP coded_VBD the_DT algorithm_NN following_VBG the_DT description_NN in_IN the_DT original_JJ paper_NN ._.
+An_DT extension_NN of_IN probabilistic_JJ mixture_NN method_NN for_IN topic_NN discovery_NN presented_VBD described_VBN in_IN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: was_VBD used_VBN in_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+This_DT method_NN ,_, M2_NN ,_, outputs_VBZ set_NN of_IN bursty_JJ topics_NNS represented_VBN by_IN word_NN distributions_NNS ._.
+Each_DT of_IN the_DT different_JJ distributions_NNS points_NNS to_TO a_DT subject_NN ._.
+The_DT original_JJ papers_NNS reports_NNS on_IN a_DT number_NN of_IN

@@ -1,0 +1,4 @@
+date_NN with_IN the_DT highest_JJS evaluation_NN value_NN is_VBZ chosen_VBN to_TO be_VB the_DT next_JJ state_NN ._.
+3.3_CD ``_`` Peeling_NNP ''_'' algorithm_NN This_NNP is_VBZ another_DT greedy_JJ algorithm_NN that_WDT is_VBZ also_RB used_VBN for_IN rule_NN induction_NN ow_NN '_POS x_NN continuous\/ordered_NN attributes_VBZ =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP consists_VBZ of_IN trimming_VBG the_DT extremes_NNS of_IN an_DT interval_NN by_IN some_DT percentage_NN of_IN the_DT data_NNS and_CC evaluating_VBG the_DT new_JJ interval_NN obtained_VBN ._.
+A_DT typical_JJ strategy_NN starts_VBZ with_IN the_DT complete_JJ interval_NN and_CC ,_, at_IN each_DT subsequ_NN

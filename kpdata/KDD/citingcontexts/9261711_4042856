@@ -1,0 +1,5 @@
+._.
+When_WRB all_DT possible_JJ subgraphs_NNS are_VBP used_VBN ,_, the_DT dimensionality_NN of_IN the_DT feature_NN space_NN is_VBZ too_RB large_JJ for_IN usual_JJ statistical_JJ methods_NNS ._.
+Therefore_RB ,_, feature_NN collection_NN is_VBZ a_DT central_JJ issue_NN in_IN graph_NN mining_NN algorithms_NNS =_JJ -_: =[_NN 30_CD ,_, 1_CD ,_, 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO summarize_VB the_DT feature_NN collection_NN methods_NNS proposed_VBN so_RB far_RB ,_, let_VB us_PRP classify_VB them_PRP into_IN two_CD categories_NNS :_: mine-at-once_JJ and_CC iterative_JJ mining_NN ._.
+In_IN the_DT first_JJ category_NN ,_, the_DT whole_JJ feature_NN space_NN is_VBZ built_VBN by_IN o_NN

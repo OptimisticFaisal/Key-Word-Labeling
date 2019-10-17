@@ -1,0 +1,4 @@
+ture_NN modality_NN are_VBP concatenated_VBN ,_, resulting_VBG in_IN an_DT even_RB larger_JJR vector_NN ._.
+Since_IN the_DT spill_NN tree_NN requires_VBZ a_DT low_JJ dimensional_JJ representation_NN ,_, the_DT shot_NN vectors_NNS are_VBP reduced_VBN to_TO 100_CD dimensions_NNS by_IN random_JJ projection_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Random_JJ projection_NN is_VBZ simple_JJ ,_, fast_RB ,_, and_CC is_VBZ known_VBN to_TO preserve_VB neighborhood_NN structure_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- making_VBG it_PRP a_DT good_JJ choice_NN for_IN preprocessing_VBG nearest_JJS neighbor_NN data_NNS ._.
+The_DT complete_JJ procedure_NN for_IN preparing_VBG the_DT neare_NN

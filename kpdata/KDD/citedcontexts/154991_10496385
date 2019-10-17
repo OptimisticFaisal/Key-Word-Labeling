@@ -1,0 +1,5 @@
+erforms_VBZ the_DT existing_VBG state-of-the-art_JJ results_NNS ._.
+1_CD Introduction_NN Using_VBG word_NN senses_NNS instead_RB of_IN word_NN forms_NNS is_VBZ essential_JJ in_IN many_JJ applications_NNS such_JJ as_IN information_NN retrieval_NN -LRB-_-LRB- IR_NN -RRB-_-RRB- and_CC machine_NN translation_NN -LRB-_-LRB- MT_NN -RRB-_-RRB- =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Word_NN senses_NNS are_VBP a_DT prerequisite_NN for_IN word_NN sense_NN disambiguation_NN -LRB-_-LRB- WSD_NN -RRB-_-RRB- algorithms_NNS ._.
+However_RB ,_, they_PRP are_VBP usually_RB represented_VBN as_IN a_DT fixed-list_NN of_IN definitions_NNS of_IN a_DT manually_RB constructed_VBN lexical_JJ database_NN ._.
+There_EX

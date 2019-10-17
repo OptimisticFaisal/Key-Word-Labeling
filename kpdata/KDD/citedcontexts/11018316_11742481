@@ -1,0 +1,4 @@
+arallel_NN ._.
+The_DT challenge_NN in_IN training_NN lies_VBZ in_IN the_DT fact_NN that_IN training_NN data_NNS sets_NNS are_VBP often_RB way_RB too_RB big_JJ to_TO be_VB fitted_VBN into_IN memory_NN ._.
+Although_IN there_EX exist_VBP some_DT off-the-shelf_JJ packages_NNS that_WDT handles_VBZ memory_NN issues_NNS =_JJ -_: =[_NN 2_CD ,_, 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP found_VBD them_PRP computationally_RB expensive_JJ --_: they_PRP typically_RB need_VBP to_TO go_VB through_IN data_NNS many_JJ times_NNS ._.
+To_TO resolve_VB the_DT difficulties_NNS ,_, we_PRP developed_VBD a_DT novel_NN averaged_VBD stochastic_JJ gradient_NN descent_NN -LRB-_-LRB- ASGD_NN -RRB-_-RRB- method_NN for_IN

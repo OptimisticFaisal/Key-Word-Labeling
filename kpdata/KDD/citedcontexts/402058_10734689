@@ -1,0 +1,4 @@
+or_CC large_JJ high-dimensional_JJ data_NNS sets_NNS are_VBP proposed_VBN in_IN -LRB-_-LRB- 1_CD ,_, 4_CD ,_, 11_CD ,_, 15_CD -RRB-_-RRB- ._.
+Finally_RB ,_, most_JJS clustering_NN algorithms_NNS -LRB-_-LRB- 9_CD ,_, 17_CD ,_, 25_CD -RRB-_-RRB- reveal_VBP outliers_NNS as_IN a_DT by-product_NN ._.
+5.2_CD Anomaly_NNP Detection_NN in_IN Graph_NNP Data_NNP Noble_NNP and_CC Cook_NNP =_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: detect_VB anomalous_JJ sub-graphs_NNS using_VBG variants_NNS of_IN the_DT Minimum_NNP Description_NN Length_NN -LRB-_-LRB- MDL_NN -RRB-_-RRB- principle_NN ._.
+Eberle_NNP and_CC Holder_NNP -LRB-_-LRB- 13_CD -RRB-_-RRB- use_VBP MDL_NN as_RB well_RB as_IN other_JJ probabilistic_JJ measures_NNS to_TO detect_VB several_JJ types_NNS of_IN anomali_NNS

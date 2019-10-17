@@ -1,0 +1,5 @@
+tions_NNS in_IN information_NN retrieval_NN -LRB-_-LRB- 9_CD ,_, 11_CD ,_, 15_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- Section_NN 6_CD discusses_VBZ other_JJ related_JJ ranking_JJ models_NNS ._. -RRB-_-RRB-
+SVMs_NNS -LRB-_-LRB- Support_NN Vector_NNP Machines_NNP -RRB-_-RRB- have_VBP proven_VBN effective_JJ in_IN learning_VBG classification_NN or_CC regression_NN functions_NNS =_JJ -_: =[_NN 14_CD ,_, 3_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP have_VBP also_RB shown_VBN excellent_JJ performance_NN in_IN learning_VBG ranking_JJ functions_NNS -LRB-_-LRB- 9_CD ,_, 11_CD ,_, 15_CD -RRB-_-RRB- ._.
+They_PRP effectively_RB learn_VBP ranking_JJ functions_NNS of_IN high_JJ generalization_NN 1_CD based_VBN on_IN the_DT ``_`` large-margin_JJ ''_'' principle_NN and_CC also_RB

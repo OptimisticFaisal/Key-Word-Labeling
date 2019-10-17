@@ -1,0 +1,4 @@
+ect_NN value_NN ._.
+Clearly_RB ,_, this_DT fraction_NN will_MD vary_VB as_IN a_DT function_NN of_IN the_DT data_NNS ,_, and_CC of_IN parameters_NNS of_IN the_DT anonymization_NN ._.
+2.2_CD Accurate_NNP Differentially_NNP Private_NNP Classifiers_NNPS In_IN line_NN with_IN previous_JJ attacks_NNS on_IN privacy_NN =_JJ -_: =[_NN 14_CD ,_, 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP describe_VBP a_DT method_NN to_TO build_VB an_DT accurate_JJ classifier_NN which_WDT ,_, given_VBN the_DT quasi-identifier_NN of_IN an_DT individual_NN ,_, predicts_VBZ their_PRP$ sensitive_JJ attribute_NN ._.
+For_IN simplicity_NN ,_, we_PRP initially_RB assume_VBP that_IN all_DT attributes_NNS i_LS

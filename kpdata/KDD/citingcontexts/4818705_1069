@@ -1,0 +1,6 @@
+mbol_NN is_VBZ independent_JJ from_IN the_DT previous_JJ symbol_NN ,_, i.e._FW P_NN -LRB-_-LRB- si_NN =_JJ Sj_FW |_FW si_FW −_FW 1_LS -RRB-_-RRB- =_JJ P_NN -LRB-_-LRB- Sj_NN -RRB-_-RRB- ._.
+The_DT transition_NN probabilities_NNS are_VBP A_NN -LRB-_-LRB- j_NN ,_, m_NN -RRB-_-RRB- =_JJ P_NN -LRB-_-LRB- Sj_NN -RRB-_-RRB- ._.
+The_DT most_RBS simple_JJ temporal_JJ structure_NN is_VBZ a_DT first_JJ order_NN Markov_NNP model_NN -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Each_DT state_NN depends_VBZ only_RB on_IN the_DT previous_JJ state_NN ,_, i.e._FW P_NN -LRB-_-LRB- si_NN =_JJ Sj_FW |_FW si_FW −_FW 1_CD ,_, ..._: si_FW −_FW m_NN -RRB-_-RRB- =_JJ P_NN -LRB-_-LRB- Sj_FW |_FW si_FW −_FW 1_LS -RRB-_-RRB- ._.
+Persistence_NN can_MD be_VB measured_VBN by_IN comparing_VBG these_DT two_CD models_NNS ._.
+If_IN there_EX is_VBZ no_DT temporal_JJ structure_NN ,_, the_DT transi_NN

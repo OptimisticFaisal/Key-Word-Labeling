@@ -1,0 +1,4 @@
+features_NNS of_IN the_DT JavaScriptAST_NN -LRB-_-LRB- abstract_JJ syntax_NN tree_NN -RRB-_-RRB- ._.
+We_PRP train_VBP the_DT classifier_NN with_IN a_DT collection_NN of_IN labeled_JJ malware_NN samples_NNS collected_VBN with_IN the_DT NOZZLE_NN dynamic_JJ heap-spraying_JJ detector_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+Related_JJ work_NN =_JJ -_: =[_NN 4_CD ,_, 6_CD ,_, 14_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: also_RB classifies_VBZ JavaScript_NNP malware_NN using_VBG a_DT combination_NN of_IN static_JJ and_CC dynamic_JJ features_NNS ,_, but_CC relies_VBZ on_IN emulation_NN to_TO deobfuscate_VB the_DT code_NN and_CC to_TO observe_VB dynamic_JJ features_NNS ._.
+Because_IN we_PRP avoid_VBP emulation_NN ,_, our_PRP$

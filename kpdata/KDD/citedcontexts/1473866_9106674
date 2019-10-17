@@ -1,0 +1,6 @@
+on_IN which_WDT can_MD be_VB easily_RB predefined_VBN ._.
+We_PRP design_VBP a_DT baseline_NN approach_NN for_IN comparison_NN ._.
+For_IN each_DT pair_NN of_IN the_DT text_NN fragments_NNS correctly_RB extracted_VBN by_IN our_PRP$ framework_NN ,_, we_PRP compute_VBP the_DT edit-distance_NN as_IN described_VBN in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Attribute_JJ normalization_NN is_VBZ then_RB conducted_VBN by_IN invoking_VBG the_DT agglomerative_JJ clustering_NN ._.
+This_DT baseline_NN approach_NN only_RB considers_VBZ the_DT text_NN content_NN of_IN text_NN fragments_NNS ._.
+Table_NNP 1_CD shows_VBZ the_DT attribute_NN normalizatio_NN

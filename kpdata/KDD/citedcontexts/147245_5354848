@@ -1,0 +1,6 @@
+ed_VBN size_NN ._.
+When_WRB the_DT ensemble_NN is_VBZ full_JJ ,_, new_JJ classifiers_NNS are_VBP added_VBN only_RB if_IN they_PRP improve_VBP the_DT ensemble_NN 's_POS performance_NN ._.
+Concept_NN drift_NN is_VBZ treated_VBN by_IN relying_VBG on_IN the_DT replacement_NN policy_NN of_IN the_DT method_NN ._.
+Wang_NNP et_FW al._FW =_SYM -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP a_DT framework_NN for_IN mining_NN concept_NN drifting_VBG data_NNS streams_NNS using_VBG weighted_JJ ensemble_NN classifiers_NNS ._.
+The_DT classifiers_NNS are_VBP weighted_VBN by_IN estimating_VBG the_DT expected_VBN predictionerroronthetestset_NN ._.
+ThesizeK_NN of_IN the_DT e_SYM

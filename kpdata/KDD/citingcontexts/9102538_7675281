@@ -1,0 +1,4 @@
+plane_NN ,_, bundle_NN and_CC exponentiated_JJ gradient_NN methods_NNS ._.
+For_IN the_DT special_JJ case_NN of_IN binary_JJ classification_NN our_PRP$ methods_NNS turn_VBP out_RP to_TO be_VB equivalent_JJ to_TO doing_VBG coordinate_JJ descent_NN ._.
+We_PRP covered_VBD this_DT method_NN in_IN detail_NN in_IN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+sTable_JJ 1.1_CD :_: Properties_NNPS of_IN datasets_NNS Dataset_NNP l_NN ltest_NN n_NN k_NN #_# nonzeros_NNS in_IN whole_JJ data_NNS NEWS20_NN 15,935_CD 3,993_CD 62,061_CD 20_CD 1,593,692_CD SECTOR_NN 6,412_CD 3,207_CD 55,197_CD 105_CD 1,569,904_CD MNIST_NNP 60,000_CD 10,000_CD 779_CD 10_CD 10,505,375_CD R_NN

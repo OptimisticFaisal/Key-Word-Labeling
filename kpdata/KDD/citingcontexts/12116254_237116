@@ -1,0 +1,6 @@
+al-world_JJ setting_NN ._.
+This_DT makes_VBZ typical_JJ labeled_JJ data_NNS sets_VBZ small_JJ and_CC difficult_JJ to_TO work_VB with_IN ._.
+A_DT number_NN of_IN researchers_NNS have_VBP collected_VBN absolute_JJ relevance_NN judgments_NNS implicitly_RB from_IN clickthrough_JJ logs_NNS ,_, such_JJ as_IN =_JJ -_: =[_NN 4_CD ,_, 6_CD ,_, 19_CD ,_, 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP postulate_VBP that_IN documents_NNS clicked_VBD on_RP in_IN search_NN results_NNS are_VBP highly_RB likely_JJ to_TO be_VB relevant_JJ ._.
+For_IN example_NN ,_, Kemp_NNP et_FW al._FW -LRB-_-LRB- 19_CD -RRB-_-RRB- present_VBP a_DT learning_NN search_NN engine_NN using_VBG document_NN transformation_NN ._.
+They_PRP assume_VBP

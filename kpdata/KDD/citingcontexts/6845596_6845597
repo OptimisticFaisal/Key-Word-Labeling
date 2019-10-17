@@ -1,0 +1,5 @@
+nships_NNS are_VBP essential_JJ factors\/patterns_NNS to_TO be_VB discovered_VBN :_: they_PRP assert_VBP that_IN an_DT event_NN usually_RB happens_VBZ after_IN another_DT event_NN ._.
+Such_JJ patterns_NNS of_IN interest_NN appear_VBP naturally_RB in_IN the_DT system_NN management_NN applications_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN our_PRP$ work_NN ,_, we_PRP start_VBP with_IN pairwise_JJ temporal_JJ dependencies_NNS ._.
+Let_VB Ta_NN and_CC Tb_NN be_VB the_DT sequence_NN of_IN timestamps_NNS for_IN event_NN a_DT and_CC b_NN respectively_RB ._.
+Let_VB the_DT distance_NN from_IN a_DT point_NN z_SYM -LRB-_-LRB- or_CC ,_, a_DT timestamp_NN -RRB-_-RRB- ,_, to_TO an_DT event_NN

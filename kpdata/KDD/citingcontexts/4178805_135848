@@ -1,0 +1,7 @@
+of_IN our_PRP$ algorithm_NN ._.
+The_DT algorithm_NN often_RB achieves_VBZ a_DT perfect_JJ partition_NN of_IN the_DT matrix_NN -LRB-_-LRB- 4_CD out_IN of_IN the_DT 10_CD runs_NNS -RRB-_-RRB- ._.
+The_DT problem_NN of_IN finding_VBG low_JJ rank_NN sub-matrices_NNS has_VBZ been_VBN applied_VBN to_TO microarray_NN data_NNS ._.
+Wang_NNP et_NNP ._.
+al._FW =_SYM -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: report_VBP a_DT solution_NN for_IN rank-1_NN sub-matrices_NNS ._.
+We_PRP experiment_NN with_IN the_DT same_JJ microarray_NN data_NNS used_VBN in_IN -LRB-_-LRB- 23_CD -RRB-_-RRB- 1_CD ._.
+The_DT data_NN contains_VBZ the_DT expression_NN levels_NNS of_IN 2884_CD genes_NNS -LRB-_-LRB- rows_NNS -RRB-_-RRB- for_IN 17_CD different_JJ patients_NNS -LRB-_-LRB- columns_NNS

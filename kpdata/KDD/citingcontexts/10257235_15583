@@ -1,0 +1,3 @@
+dentifiers_NNS but_CC also_RB values_NNS from_IN the_DT generalization_NN hierarchy_NN of_IN the_DT quasi-identifiers_NNS -LRB-_-LRB- see_VB for_IN example_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- and_CC other_JJ data_NNS mining_NN literature_NN on_IN generalized_JJ association_NN rule_NN mining_NN -RRB-_-RRB- ._.
+We_PRP use_VBP the_DT FPtree_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: algorithm_NN for_IN discovering_VBG large_JJ populations_NNS ._.
+Next_RB ,_, for_IN each_DT large_JJ population_NN y_NN ,_, we_PRP compute_VBP the_DT estimated_VBN distribution_NN ¯_NNP Py_NNP of_IN the_DT sensitive_JJ attribute_NN from_IN the_DT anonymized_VBN data_NNS and_CC the_DT true_JJ distributio_NN

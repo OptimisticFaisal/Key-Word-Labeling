@@ -1,0 +1,4 @@
+ured_JJ text_NN ._.
+3_LS -RRB-_-RRB- Wikipedia_NNP lists_NNS and_CC categories_NNS provide_VBP valuable_JJ features_NNS for_IN classifying_VBG pages_NNS ._.
+In_IN previous_JJ work_NN ,_, we_PRP developed_VBD Kylin_NNP --_: a_DT self-supervised_JJ system_NN for_IN information_NN extraction_NN from_IN Wikipedia_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Kylin_NNP looks_VBZ for_IN sets_NNS of_IN pages_NNS with_IN similar_JJ infoboxes_NNS ,_, determines_VBZ common_JJ attributes_NNS for_IN each_DT class_NN ,_, creates_VBZ training_NN examples_NNS ,_, learns_VBZ extractors_NNS ,_, and_CC runs_VBZ them_PRP on_IN each_DT page_NN --_: creating_VBG new_JJ infoboxes_NNS a_DT

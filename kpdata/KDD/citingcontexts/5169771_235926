@@ -1,0 +1,4 @@
+high_JJ motif_NN detection_NN rate_NN ._.
+The_DT gain_NN in_IN speed-up_NN over_IN the_DT brute_JJ force_NN search_NN ,_, however_RB ,_, is_VBZ enormous_JJ ._.
+5.1_CD The_DT Random_NNP Projection_NNP Algorithm_NNP The_NNP following_VBG ``_`` challenge_NN ''_'' problem_NN ,_, introduced_VBN by_IN Pevzner_NN and_CC Sze_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_JJ -_: ,_, has_VBZ inspired_VBN much_JJ endeavor_NN in_IN the_DT bioinformatics_NNS community_NN since_IN it_PRP appeared_VBD few_JJ years_NNS ago_RB :_: Given_VBN is_VBZ a_DT sample_NN of_IN t_NN =_JJ 20_CD nucleotide_NN strings_NNS of_IN length_NN n_NN =_JJ 600_CD ._.
+An_DT unknown_JJ motif_NN M_NN of_IN length_NN l_NN =_JJ 15_CD is_VBZ u_NN

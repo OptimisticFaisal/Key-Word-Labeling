@@ -1,0 +1,4 @@
+clustering_NN techniques_NNS have_VBP strong_JJ theoretical_JJ support_NN from_IN the_DT statistics_NNS community_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+The_DT model-based_JJ clustering_NN techniques_NNS have_VBP been_VBN successfully_RB applied_VBN on_IN ,_, such_JJ as_IN ,_, database_NN query_NN optimization_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: and_CC data_NNS mining_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+The_DT traditional_JJ clustering_NN algorithms_NNS normally_RB require_VBP numerous_JJ scans_NNS of_IN whole_JJ data_NNS sets_NNS to_TO get_VB better_JJR results_NNS ._.
+This_DT becomes_VBZ prohibitive_JJ over_IN modern_JJ large_JJ databases_NNS ,_, for_IN exa_NN

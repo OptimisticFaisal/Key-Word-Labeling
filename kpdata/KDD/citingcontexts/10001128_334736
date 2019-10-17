@@ -1,0 +1,5 @@
+ield_NN of_IN named_VBN entity_NN recognition_NN -LRB-_-LRB- NER_NN -RRB-_-RRB- ._.
+NER_NN aims_VBZ to_TO identify_VB entities_NNS such_JJ as_IN names_NNS of_IN persons_NNS ,_, organizations_NNS and_CC locations_NNS in_IN natural_JJ language_NN text_NN ._.
+Most_JJS NER_NN methods_NNS are_VBP based_VBN on_IN supervised_JJ learning_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Recent_JJ strategies_NNS also_RB exploit_VBP the_DT domain_NN structure_NN in_IN the_DT training_NN data_NNS to_TO improve_VB the_DT performance_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB- studied_VBD extraction_NN of_IN entities_NNS and_CC other_JJ items_NNS from_IN comparative_JJ sentences_NNS based_VBN on_IN comp_NN

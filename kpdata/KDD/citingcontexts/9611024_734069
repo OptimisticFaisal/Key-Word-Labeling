@@ -1,0 +1,11 @@
+sets_NNS where_WRB they_PRP have_VBP been_VBN evaluated_VBN ._.
+``_`` MS_NN Web_NN ''_'' data_NNS is_VBZ from_IN Microsoft_NNP ,_, ``_`` Y_NN !_.
+Web_NN ''_'' data_NNS is_VBZ from_IN Yahoo_NNP ._.
+``_`` •_NN ''_'' means_VBZ the_DT evaluation_NN is_VBZ reported_VBN here_RB ._.
+``_`` ◦_NN ''_'' means_VBZ the_DT RAM\/CPU_NN requirements_NNS prevented_VBD evaluation_NN ._.
+=_SYM -_: =[_NN 2_CD ,_, 3_CD ,_, 4_CD ,_, 5_CD -RRB-_-RRB- -_: =_JJ -_: predate_JJ OHSUMED_NN ,_, TD2003_NN ,_, TD2004_NN ._.
+TD2004_FW TREC2000_FW TREC2001_NN MS_NN Web1_NN MS_NN Web2_NN MS_NN Web3_NN MS_NN Web4_NN Y_NN !_.
+Web1_NN Y_NN !_.
+Web2_NN and_CC average_JJ NDCG_NN -LRB-_-LRB- q_NN -RRB-_-RRB- over_IN queries_NNS ._.
+G_NN -LRB-_-LRB- q_NN ,_, i_LS -RRB-_-RRB- is_VBZ usually_RB defined_VBN as_IN 2_CD zqi_NN −_NN 1_CD ._.
+Because_IN we_PRP focus_VBP o_NN

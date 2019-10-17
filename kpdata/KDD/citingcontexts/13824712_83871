@@ -1,0 +1,5 @@
+omparisons_NNS by_IN optimizing_VBG an_DT SVMlike_JJ quadratic_JJ function_NN ._.
+We_PRP set_VBD the_DT regularization_NN parameter_NN C_NN to_TO be_VB 1_CD and_CC A_NN =_JJ I_NN following_VBG the_DT examples_NNS in_IN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+We_PRP then_RB solved_VBD the_DT optimization_NN problem_NN using_VBG SVM-light_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP refer_VBP to_TO the_DT learned_VBN metric_NN as_IN ``_`` SVM-Metric_JJ ''_'' ._.
+For_IN each_DT dataset_NN ,_, we_PRP compared_VBD the_DT following_JJ clustering_NN schemes_NNS :_: •_CD ReCon_NN +_CC EuclideanMetric_FW •_FW ReCon_NN +_CC SVM-Metric_JJ •_FW K-Means_FW +_CC SVM-Metric_JJ -LRB-_-LRB- use_NN learned_VBN metri_NNS

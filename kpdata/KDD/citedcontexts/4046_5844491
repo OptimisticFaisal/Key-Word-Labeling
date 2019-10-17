@@ -1,0 +1,5 @@
+using_VBG the_DT available_JJ training_NN data_NNS by_IN applying_VBG a_DT classifier_NN learning_NN method_NN that_WDT estimates_VBZ conditional_JJ probabilities_NNS or_CC by_IN transforming_VBG the_DT outputs_NNS of_IN a_DT classifier_NN into_IN accurate_JJ probability_NN estimates_VBZ =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+55_CD One-Benefit_JJ Reduction_NN -LRB-_-LRB- Training_NN Set_NN S_NN =_JJ -LRB-_-LRB- x_NN ,_, y_NN ,_, b_NN -RRB-_-RRB- -RRB-_-RRB- 1_CD ._.
+Learn_VB a_DT model_NN for_IN P_NN -LRB-_-LRB- y_NN |_CD x_NN -RRB-_-RRB- using_VBG S._NNP 2_CD ._.
+Calculate_VB a_DT weight_NN for_IN each_DT example_NN -LRB-_-LRB- x_NN ,_, y_NN ,_, b_NN -RRB-_-RRB- :_: w_NN =_JJ b_NN P_NN -LRB-_-LRB- y_NN |_CD x_NN -RRB-_-RRB- 3_CD ._.
+Learn_VB a_DT classifier_NN h_NN using_VBG a_DT cost-sensit_NN

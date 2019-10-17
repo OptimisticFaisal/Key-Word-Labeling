@@ -1,0 +1,5 @@
+rces_NNS :_: flight_NN crew_NN ,_, maintenance_NN ,_, and_CC passengers_NNS ._.
+Each_DT document_NN is_VBZ represented_VBN as_IN a_DT word_NN vector_NN of_IN length_NN 604_CD ,_, where_WRB each_DT entry_NN is_VBZ the_DT number_NN of_IN times_NNS a_DT word_NN appears_VBZ in_IN the_DT document_NN ._.
+Classic3_NN :_: Classic3_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT well_RB known_VBN text_NN dataset_NN ._.
+It_PRP contains_VBZ 3893_CD documents_NNS from_IN three_CD different_JJ classes_NNS including_VBG aeronautics_NNS ,_, medicine_NN and_CC information_NN retrieval_NN ._.
+Each_DT document_NN is_VBZ represented_VBN as_IN a_DT word_NN vector_NN of_IN lengt_NN

@@ -1,0 +1,5 @@
+mal_JJ distance_NN to_TO all_PDT the_DT points_NNS ._.
+The_DT distance_NN in_IN k-modes_NN is_VBZ measured_VBN by_IN number_NN of_IN common_JJ categorical_JJ attributes_NNS shared_VBN by_IN two_CD points_NNS ,_, with_IN optional_JJ weights_NNS among_IN different_JJ attribute_NN values_NNS ._.
+Han_FW et_FW ._.
+al._FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: use_NN association_NN rule_NN hypergraph_NN partitioning_VBG to_TO cluster_VB items_NNS in_IN large_JJ transactional_JJ database_NN ._.
+STIRR_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC CACTUS_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- also_RB model_NN categorical_JJ clustering_NN as_IN a_DT hypergraph-partitioning_JJ problem_NN ,_, but_CC the_DT

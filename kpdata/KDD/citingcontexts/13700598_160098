@@ -1,0 +1,4 @@
+output_NN is_VBZ simply_RB a_DT list_NN of_IN all_PDT the_DT closed_VBN sets_NNS found_VBD ._.
+It_PRP is_VBZ possible_JJ to_TO generate_VB the_DT lattice_NN from_IN a_DT collection_NN of_IN closed_JJ sets_NNS C_NN ,_, but_CC unfortunately_RB ,_, lattice_NN construction_NN has_VBZ time_NN complexity_NN O_NN -LRB-_-LRB- |_CD C_NN |_NN 2_CD -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ too_RB slow_JJ for_IN a_DT large_JJ number_NN of_IN closed_JJ dsets_NNS ._.
+We_PRP decided_VBD to_TO extend_VB Charm_NN to_TO directly_RB compute_VB the_DT lattice_NN while_IN it_PRP generates_VBZ the_DT closed_JJ dsets_NNS ._.
+The_DT basic_JJ idea_NN is_VBZ that_IN when_WRB a_DT new_JJ closed_JJ set_NN X_NN i_FW

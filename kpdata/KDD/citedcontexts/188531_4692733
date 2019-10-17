@@ -1,0 +1,4 @@
+tial_JJ relationships_NNS such_JJ as_IN distance_NN or_CC adjacency_NN ._.
+Comparisons_NNS between_IN spatially_RB referenced_VBN objects_NNS are_VBP based_VBN on_IN non-spatial_JJ attributes_NNS ._.
+Some_DT spatial_JJ outlier_NN detection_NN algorithms_NNS have_VBP been_VBN proposed_VBN in_IN =_JJ -_: =[_NN 55_CD ,_, 56_CD ,_, 40_CD ,_, 41_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT algorithms_NNS can_MD be_VB generalised_VBN as_IN following_VBG :_: Let_VB O_NN =_JJ -LCB-_-LRB- o1_NN ,_, o2_NN ,_, ..._: ,_, oN_NN -RCB-_-RRB- represent_VBP a_DT set_NN of_IN spatial_JJ objects_NNS that_WDT have_VBP d_NN non-spatial_JJ attributes_NNS ,_, then_RB object_NN oi_NN can_MD be_VB denoted_VBN by_IN an_DT attribute_NN vecto_NN

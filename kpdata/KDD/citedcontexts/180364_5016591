@@ -1,0 +1,5 @@
+ns_NNS are_VBP more_RBR complex_JJ ._.
+Moreover_RB ,_, they_PRP are_VBP different_JJ from_IN traditional_JJ similarity_NN queries_NNS for_IN time-series_JJ data_NNS ._.
+The_DT typical_JJ approach_NN for_IN identifying_VBG similar_JJ time_NN series_NN results_VBZ in_IN an_DT expensive_JJ evaluation_NN =_JJ -_: =[_NN 25_CD ,_, 26_CD -RRB-_-RRB- -_: =_JJ -_: and_CC continuous_JJ precomputation_NN of_IN the_DT query_NN result_NN ._.
+Trajectory_NNP joins_VBZ also_RB relate_VBP to_TO queries_NNS in_IN electronic_JJ ink_NN databases_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Ink_NN databases_NNS can_MD also_RB be_VB viewed_VBN as_IN spatiotemporal_JJ databases_NNS where_WRB the_DT user_NN

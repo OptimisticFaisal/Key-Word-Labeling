@@ -1,0 +1,5 @@
+very_RB tool_NN with_IN excellent_JJ flexibility_NN ._.
+It_PRP finds_VBZ rules_NNS from_IN both_DT transaction_NN 1_CD Year_NN 2000_CD survey_NN result_NN from_IN Australian_NNP Bureau_NNP of_IN Statistics_NNP ._.
+s264_NNP J._NNP Chen_NNP et_FW al._FW data_NNS and_CC attribute-value_JJ data_NNS efficiently_RB =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP can_MD discretise_VB the_DT numeric_JJ attributes_NNS automatically_RB ._.
+3.2_CD Feature_NN Selection_NN The_DT selected_VBN features_NNS used_VBN for_IN analysis_NN are_VBP listed_VBN as_IN follows_VBZ :_: --_: Gender_NN :_: m_NN ,_, f_SYM --_: Age_NN :_: numeric_JJ 3_CD --_: AriaDis_NNP :_: categorical_JJ --_:

@@ -1,0 +1,4 @@
+he_PRP training_NN data_NNS ._.
+Viterbi_NNP algorithm_NN is_VBZ used_VBN to_TO find_VB the_DT most_RBS possible_JJ state_NN sequence_NN that_WDT emits_VBZ the_DT given_VBN log_NN messages_NNS ,_, that_DT is_VBZ ,_, finding_VBG the_DT most_RBS possible_JJ state_NN labels_NNS to_TO assign_VB to_TO these_DT log_NN messages_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4_LS ._.
+MINING_FW EVENT_FW RELATIONSHIPS_NNS 4.1_CD Introduction_NN Once_IN the_DT messages_NNS in_IN the_DT log_NN file_NN are_VBP transformed_VBN into_IN common_JJ categories_NNS ,_, it_PRP is_VBZ then_RB possible_JJ to_TO analyze_VB the_DT historical_JJ event_NN data_NNS across_IN multiple_JJ comp_NN

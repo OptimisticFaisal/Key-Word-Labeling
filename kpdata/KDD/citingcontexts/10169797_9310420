@@ -1,0 +1,4 @@
+izes_VBZ Markov_NNP chains_NNS to_TO model_NN B_NN and_CC produces_VBZ a_DT set_NN of_IN chains_NNS MC_NNP as_IN the_DT summarization_NN of_IN event_NN bursts_NNS at_IN a_DT node_NN ._.
+Markovian_JJ properties_NNS have_VBP been_VBN verified_VBN to_TO be_VB common_JJ in_IN network_NN operational_JJ events_NNS ,_, e.g._FW ,_, =_JJ -_: =[_NN 16_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, note_VBP that_IN while_IN we_PRP use_VBP Markov_NNP chains_NNS to_TO model_VB event_NN bursts_NNS ,_, we_PRP do_VBP not_RB claim_VB its_PRP$ optimality_NN ._.
+It_PRP is_VBZ worth_JJ emphasizing_VBG that_IN our_PRP$ framework_NN is_VBZ flexible_JJ enough_RB to_TO support_VB many_JJ other_JJ models_NNS -LRB-_-LRB- see_VB S_NN

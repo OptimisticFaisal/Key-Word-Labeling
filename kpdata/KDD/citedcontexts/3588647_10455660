@@ -1,0 +1,4 @@
+flects_VBZ the_DT statistical_JJ characteristics_NNS -LRB-_-LRB- i.e._FW itemset_FW supports_VBZ -RRB-_-RRB- of_IN the_DT entire_JJ databases_NNS ._.
+The_DT expensive_JJ operation_NN of_IN discovering_VBG association_NN rules_NNS is_VBZ then_RB performed_VBN on_IN the_DT final_JJ sample_NN ._.
+Bronnimann_NNP et_FW al_FW =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: explored_VBD another_DT sampling_NN algorithm_NN called_VBN epsilon_NN approximation_NN :_: sample_NN enabled_VBD -LRB-_-LRB- EASE_NN -RRB-_-RRB- ._.
+Unlike_IN FAST_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- which_WDT obtains_VBZ final_JJ sub_NN sample_NN by_IN quasigreedy_JJ descent_NN ,_, EASE_NN uses_VBZ Epsilon_NNP approximation_NN methods_NNS

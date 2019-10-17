@@ -1,0 +1,5 @@
+s_NN to_TO task_NN parameters_NNS ._.
+This_DT method_NN not_RB only_RB models_NNS the_DT relationships_NNS between_IN tasks_NNS explicitly_RB ,_, but_CC also_RB gives_VBZ an_DT algorithm_NN for_IN the_DT informed_JJ use_NN of_IN several_JJ source_NN tasks_NNS in_IN transfer_NN learning_NN ._.
+Gao_NNP et_FW al._FW =_SYM -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP that_IN task_NN similarity_NN can_MD be_VB a_DT local_JJ measure_NN rather_RB than_IN a_DT global_JJ measure_NN ._.
+They_PRP estimate_VBP similarities_NNS in_IN the_DT neighborhood_NN of_IN each_DT test_NN example_NN individually_RB ._.
+These_DT local_JJ consistency_NN estimates_VBZ b_NN

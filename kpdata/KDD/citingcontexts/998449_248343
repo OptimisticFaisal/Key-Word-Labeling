@@ -1,0 +1,4 @@
+ks_NNS correlate_VBP model_NN outputs_NNS ._.
+An_DT overview_NN of_IN the_DT topic_NN appears_VBZ in_IN -LRB-_-LRB- 6_CD ,_, 22_CD ,_, 23_CD -RRB-_-RRB- ._.
+Numerous_JJ studies_NNS have_VBP shown_VBN that_IN combining_VBG classifiers_NNS yields_NNS better_JJR results_NNS than_IN achievable_JJ with_IN an_DT individual_JJ classifier_NN =_JJ -_: =[_NN 9_CD ,_, 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2_CD Some_DT propose_VBP combining_VBG very_RB strong_JJ classifiers_NNS -LRB-_-LRB- i.e._FW with_IN low_JJ error_NN rates_NNS -RRB-_-RRB- -LRB-_-LRB- 32_CD ,_, 43_CD -RRB-_-RRB- assuming_VBG that_IN weak_JJ classifiers_NNS -LRB-_-LRB- high_JJ false_JJ positives_NNS -RRB-_-RRB- will_MD not_RB combine_VB as_RB well_RB ,_, or_CC will_MD require_VB too_RB many_JJ rounds_NNS

@@ -1,0 +1,3 @@
+creation_NN has_VBZ been_VBN performed_VBN by_IN using_VBG different_JJ standard_JJ algorithms_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, the_DT randomness_NN induced_VBN by_IN stochastic_JJ search_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, the_DT use_NN of_IN random_JJ projections_NNS prior_RB to_TO applying_VBG a_DT fixed_JJ clustering_NN algorithm_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: and_CC ,_, finally_RB ,_, data_NN re-sampling_NN -LRB-_-LRB- e.g._FW in_FW -LRB-_-LRB- 7_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+In_IN this_DT work_NN ,_, we_PRP employ_VBP sub-sampling_NN combined_VBN with_IN a_DT prediction_NN strategy_NN in_IN order_NN to_TO obtain_VB multiple_JJ solutions_NNS for_IN the_DT same_JJ data_NN set_NN ._.
+This_DT choice_NN is_VBZ moti_NN

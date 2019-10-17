@@ -1,0 +1,5 @@
+phases_NNS Phases_NNS ,_, possibly_RB replacing_VBG some_DT of_IN the_DT existing_VBG phases_NNS -LRB-_-LRB- when_WRB multiple_JJ phases_NNS are_VBP combined_VBN -RRB-_-RRB- ._.
+In_IN line_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, for_IN each_DT data_NNS mining_NN query_NN which_WDT has_VBZ not_RB been_VBN scheduled_VBN we_PRP create_VBP a_DT new_JJ phase_NN ._.
+In_IN step_NN =_JJ -_: =-LRB-_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: we_PRP return_VBP the_DT generated_VBN phases_NNS ._.
+Example_NN Consider_VB scheduling_NN of_IN data_NN mining_NN queries_NNS from_IN Fig._NNP 3_CD ._.
+For_IN the_DT sake_NN of_IN simplicity_NN ,_, assume_VBP that_IN hash_JJ tree_NN sizes_NNS are_VBP 10MB_JJ for_IN each_DT data_NNS mining_NN query_NN and_CC the_DT ava_NN

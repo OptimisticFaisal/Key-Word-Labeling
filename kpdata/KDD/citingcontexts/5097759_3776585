@@ -1,0 +1,3 @@
+plete_RB ,_, it_PRP erroneously_RB includes_VBZ the_DT editor_NN field_NN from_IN record_NN -LRB-_-LRB- c_NN -RRB-_-RRB- ,_, which_WDT is_VBZ not_RB truly_RB a_DT duplicate_VB ._.
+To_TO address_VB this_DT issue_NN ,_, it_PRP may_MD be_VB useful_JJ to_TO consider_VB measures_NNS of_IN field_NN compatibility_NN ,_, as_IN in_IN Wick_NNP et_FW al._FW =_SYM -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4.3_CD Record_NNP Generation_NNP The_DT record_NN generation_NN approach_NN to_TO canonicalization_NN is_VBZ an_DT extension_NN of_IN the_DT record_NN merging_JJ approach_NN that_WDT may_MD also_RB propose_VB field_NN values_NNS that_WDT do_VBP not_RB explicitly_RB exist_VB in_IN any_DT of_IN the_DT

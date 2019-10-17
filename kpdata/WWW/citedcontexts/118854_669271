@@ -1,0 +1,5 @@
+ckets_NNS of_IN different_JJ TOS_NN ._.
+A_DT certain_JJ amount_NN of_IN outbound_JJ bandwidth_NN can_MD then_RB be_VB assigned_VBN to_TO each_DT of_IN the_DT queues_NNS ._.
+Class-based_JJ queuing_VBG has_VBZ shown_VBN to_TO maintain_VB QoS_NN during_IN a_DT DDoS_NN attack_NN on_IN clusters_NNS of_IN webservers_NNS =_JJ -_: =[_NN 81_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT architecture_NN that_WDT relies_VBZ on_IN the_DT provision_NN of_IN QoS_NN mechanisms_NNS in_IN intermediate_JJ routers_NNS is_VBZ VIPnets_NN that_WDT was_VBD proposed_VBN by_IN Brustoloni_NNS -LRB-_-LRB- 82_CD -RRB-_-RRB- ._.
+In_FW VIPnets_FW legitimate_JJ traffic_NN is_VBZ assumed_VBN to_TO be_VB the_DT traffic_NN com_NN

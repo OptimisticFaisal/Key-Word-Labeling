@@ -1,0 +1,6 @@
+ed_VBN as_IN a_DT pre-filtering_JJ step_NN to_TO significantly_RB speed_VB up_RP exact_JJ clique_JJ finding_NN algorithms_NNS such_JJ as_IN CLAN_NN -LRB-_-LRB- 33_CD -RRB-_-RRB- ._.
+2_CD ._.
+RELATED_NNS WORK_VBP Mining_NNP graphs_NNS for_IN interesting_JJ patterns_NNS has_VBZ been_VBN a_DT subject_NN of_IN much_JJ study_NN recently_RB =_JJ -_: =[_NN 20_CD ,_, 37_CD ,_, 5_CD ,_, 33_CD ,_, 17_CD ,_, 35_CD ,_, 25_CD ,_, 22_CD ,_, 36_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Below_IN we_PRP briefly_RB describe_VBP the_DT work_NN that_WDT is_VBZ most_RBS relevant_JJ to_TO the_DT current_JJ work_NN ._.
+One_CD approach_NN to_TO mining_NN interesting_JJ patterns_NNS can_MD be_VB achieved_VBN by_IN graph_NN partitioning_VBG along_IN a_DT minimum_NN cut_NN ._.
+Ng_NN and_CC colleagues_NNS

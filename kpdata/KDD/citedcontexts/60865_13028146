@@ -1,0 +1,5 @@
+._.
+There_EX are_VBP also_RB studies_NNS on_IN supervised_JJ mining_NN user_NN preferences_NNS ._.
+Cohen_NNP et_FW al._FW -LRB-_-LRB- 20_CD -RRB-_-RRB- develop_VBP an_DT approach_NN to_TO order_NN objects_NNS given_VBN the_DT feedback_NN that_IN an_DT object_NN should_MD be_VB ranked_VBN higher_JJR than_IN another_DT ._.
+Joachims_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ a_DT support_NN vector_NN machine_NN algorithm_NN to_TO learn_VB a_DT ranking_JJ function_NN of_IN web_NN documents_NNS utilizing_VBG user_NN query_NN logs_NNS of_IN the_DT search_NN engine_NN ._.
+Both_DT studies_NNS focus_VBP on_IN mining_VBG the_DT order_NN of_IN objects_NNS according_VBG to_TO use_VB

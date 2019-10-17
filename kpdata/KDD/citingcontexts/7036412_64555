@@ -1,0 +1,3 @@
+or_CC example_NN ,_, the_DT communication_NN cost_NN of_IN k-anonymous_JJ message_NN transmission_NN is_VBZ cubic_JJ in_IN the_DT number_NN of_IN users_NNS ;_: in_IN comparison_NN ,_, our_PRP$ solutions_NNS in_IN this_DT paper_NN have_VBP linear_JJ communication_NN costs_NNS ._.
+Systems_NNP like_IN Crowds_NNPS =_SYM -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Hordes_NNS -LRB-_-LRB- 22_CD -RRB-_-RRB- provide_VBP practical_JJ anonymity_NN for_IN web_NN access_NN without_IN assuming_VBG an_DT existing_VBG anonymous_JJ channel_NN ._.
+Similarly_RB ,_, our_PRP$ work_NN provides_VBZ anonymity_NN for_IN data_NNS collection_NN without_IN assuming_VBG an_DT existing_VBG anon_NN

@@ -1,0 +1,4 @@
+y_NN difficult_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ approach_NN to_TO deal_VB with_IN all_PDT these_DT problems_NNS ._.
+We_PRP show_VBP that_IN a_DT major_JJ part_NN of_IN rule_NN exploration_NN can_MD be_VB casted_VBN as_IN an_DT OLAP_NN problem_NN -LRB-_-LRB- On-line_JJ Analytical_NNP Processing_NNP -RRB-_-RRB- =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: based_VBN on_IN rule_NN cubes_NNS whereby_RB well_RB established_VBN techniques_NNS in_IN OLAP_NNP ,_, e.g._FW ,_, slicing_VBG ,_, dicing_NN ,_, drilling_VBG down_RP and_CC rolling_VBG up_RP ,_, can_MD be_VB used_VBN to_TO explore_VB rules_NNS to_TO systemically_RB discover_VB useful_JJ knowledge_NN ._.
+Methods_NNS a_DT

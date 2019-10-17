@@ -1,0 +1,3 @@
+link_NN prediction_NN problem_NN -LRB-_-LRB- 12_CD ,_, 23_CD ,_, 18_CD ,_, 24_CD -RRB-_-RRB- but_CC different_JJ in_IN a_DT sense_NN that_IN this_DT line_NN of_IN work_NN assumes_VBZ that_IN part_NN of_IN the_DT network_NN is_VBZ already_RB visible_JJ to_TO us_PRP ._.
+The_DT work_NN most_RBS closely_RB related_JJ to_TO ours_PRP ,_, however_RB ,_, is_VBZ =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT also_RB infers_VBZ networks_NNS through_IN cascade_NN data_NNS ._.
+The_DT algorithm_NN proposed_VBN -LRB-_-LRB- called_VBN NetInf_NNP -RRB-_-RRB- assumes_VBZ that_IN the_DT weights_NNS of_IN the_DT edges_NNS in_IN latent_JJ network_NN are_VBP homogeneous_JJ ,_, i.e._FW all_DT connected_JJ nodes_NNS in_IN the_DT netwo_NN

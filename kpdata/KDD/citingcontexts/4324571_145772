@@ -1,0 +1,4 @@
+rk_NN -LRB-_-LRB- VIN_NN -RRB-_-RRB- ._.
+The_DT inverse_NN of_IN the_DT L_NN 2_CD CoE_NN measure_NN can_MD be_VB taken_VBN as_IN a_DT distance_NN between_IN nodes_NNS ,_, so_IN that_IN the_DT graph_NN representation_NN may_MD be_VB incorporated_VBN into_IN a_DT multi-dimensional_JJ scaling_NN routine_NN ._.
+The_DT package_NN XGvis_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ been_VBN used_VBN to_TO produce_VB the_DT graphs_NNS in_IN Figures_NNS 2_CD ,_, 3_CD ,_, and_CC 4_CD ,_, although_IN the_DT nodes_NNS have_VBP been_VBN positioned_VBN by_IN hand_NN ._.
+We_PRP have_VBP found_VBN that_IN while_IN dynamic_JJ views_NNS of_IN the_DT scaled_VBN graphs_NNS --_: having_VBG a_DT plot_NN rotate_VB with_IN a_DT

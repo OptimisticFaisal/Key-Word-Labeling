@@ -1,0 +1,5 @@
+alance_NN between_IN researcher_NN 's_POS expertise_NN and_CC his_PRP$ advisees_NNS '_POS expertise_NN score_NN ._.
+We_PRP empirically_RB set_VBD α_NN =_JJ 0.7_CD ._.
+Figure_NN 8_CD -LRB-_-LRB- b_NN -RRB-_-RRB- shows_VBZ the_DT results_NNS -LRB-_-LRB- Precision@2,_FW Precision@5,_FW mean_VB average_JJ precision_NN -LRB-_-LRB- MAP_NN -RRB-_-RRB- ,_, and_CC NDCG@5_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =--RRB-_NN of_IN bole_NN search_NN by_IN the_DT three_CD methods_NNS ._.
+We_PRP see_VBP that_IN by_IN considering_VBG the_DT advisor-advisee_JJ relationships_NNS -LRB-_-LRB- obtained_VBN by_IN either_CC RULE_NN or_CC TPFG_NN -RRB-_-RRB- ,_, the_DT performance_NN of_IN bole_NN search_NN can_MD be_VB significantly_RB improved_VBN ._.
+We_PRP

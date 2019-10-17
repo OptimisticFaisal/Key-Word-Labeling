@@ -1,0 +1,4 @@
+quent_JJ itemset_NN can_MD not_RB be_VB determined_VBN ._.
+It_PRP is_VBZ important_JJ to_TO note_VB that_IN the_DT number_NN of_IN closed_JJ ,_, maximal_JJ or_CC non-derivable_JJ itemsets_NNS can_MD still_RB be_VB very_RB large_JJ ,_, thus_RB further_JJ compression_NN is_VBZ necessary_JJ ._.
+Top-k_NN patterns_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, computes_VBZ the_DT k_NN most_RBS frequent_JJ closed_JJ itemsets_NNS and_CC presents_VBZ it_PRP as_IN the_DT approximate_JJ summary_NN to_TO the_DT end-user_NN ._.
+Choosing_VBG an_DT appropriate_JJ k_NN for_IN a_DT given_VBN domain_NN is_VBZ usually_RB not_RB easy_JJ and_CC there_EX are_VBP no_DT theoretical_JJ

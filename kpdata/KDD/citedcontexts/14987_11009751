@@ -1,0 +1,6 @@
+n_NN 2_CD Resource_NNP Information_NNP System_NNP -LRB-_-LRB- RIS_NNP -RRB-_-RRB- data_NNS ._.
+The_DT data_NN has_VBZ 581_CD ,_, 012_CD instances_NNS and_CC 54_CD attributes_NNS ._.
+There_EX are_VBP 7_CD classes_NNS ._.
+The_DT data_NN is_VBZ often_RB used_VBN to_TO evaluate_VB methods_NNS for_IN data_NNS stream_NN classification_NN ,_, e.g._FW in_FW -LRB-_-LRB- =_JJ -_: =_JJ Gama_NNP et_FW al._FW ,_, 2003_CD -_: =_JJ -_: ;_: Oza_NNP and_CC Russell_NNP ,_, 2001a_CD -RRB-_-RRB- ._.
+5Bifet_NN ,_, Frank_NNP ,_, Holmes_NNP and_CC Pfahringer_NNP Poker-Hand_NNP This_NNP data_NN contains_VBZ 1_CD ,_, 000_CD ,_, 000_CD instances_NNS ._.
+Each_DT instance_NN in_IN this_DT dataset_NN is_VBZ an_DT example_NN of_IN a_DT hand_NN consisting_VBG of_IN five_CD playing_NN c_NN

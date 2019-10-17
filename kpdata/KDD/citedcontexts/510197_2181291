@@ -1,0 +1,3 @@
+er_RB ,_, the_DT generalisation-based_JJ approach_NN proposed_VBD there_EX can_MD provide_VB only_RB a_DT very_RB simple_JJ distance_NN measure_NN for_IN spatial_JJ objects_NNS ,_, dened_FW assnite_FW sets_NNS of_IN points_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- ii_LS -RRB-_-RRB- A_DT model-based_JJ approach_NN is_VBZ proposed_VBN in_IN -LRB-_-LRB- =_JJ -_: =_JJ 4_CD -RRB-_-RRB- -_: =_SYM -_: for_IN clustering_NN trajectories_NNS ._.
+Here_RB ,_, each_DT cluster_NN collects_VBZ all_DT objects_NNS which_WDT can_MD be_VB obtained_VBN by_IN a_DT core_NN trajectory_NN -LRB-_-LRB- i.e._FW the_DT regression_NN function_NN ,_, which_WDT can_MD be_VB linear\/polynomial_JJ or_CC a_DT more_RBR general_JJ non-par_JJ

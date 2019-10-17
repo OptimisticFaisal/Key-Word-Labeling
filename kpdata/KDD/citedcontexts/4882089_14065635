@@ -1,0 +1,4 @@
+s_NN ,_, this_DT has_VBZ time_NN complexity_NN O_NN -LRB-_-LRB- n_NN |_NN C_NN |_CD l_NN -RRB-_-RRB- ,_, where_WRB n_NN is_VBZ the_DT length_NN of_IN the_DT sequence_NN ,_, C_NN contains_VBZ the_DT candidate_NN patterns_NNS for_IN this_DT level_NN ,_, and_CC l_NN is_VBZ the_DT maximum_JJ number_NN of_IN automata_NN for_IN each_DT pattern_NN ._.
+Laxman_NNP et_FW al._FW -LRB-_-LRB- =_JJ -_: =_JJ Laxman_NNP et_FW al._FW ,_, 2007_CD -_: =--RRB-_NN propose_VBP a_DT variation_NN to_TO this_DT algorithm_NN ,_, where_WRB the_DT frequency_NN is_VBZ a_DT measure_NN of_IN non-overlapped_JJ occurrences_NNS ._.
+This_DT reduces_VBZ the_DT complexity_NN of_IN frequency_NN counting_NN to_TO O_NN -LRB-_-LRB- n_NN |_NN C_NN |_CD -RRB-_-RRB- ._.
+We_PRP adapt_VBP this_DT latter_JJ approach_NN to_TO

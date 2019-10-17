@@ -1,0 +1,5 @@
+iation_NN rule_NN can_MD involve_VB items_NNS at_IN any_DT level_NN of_IN the_DT hierarchy_NN ._.
+However_RB ,_, the_DT model_NN still_RB uses_VBZ only_RB one_CD minsup_NN ._.
+It_PRP is_VBZ easy_JJ to_TO see_VB that_DT our_PRP$ algorithm_NN MSapriori_NN is_VBZ a_DT generalization_NN of_IN the_DT Apriori_NNP algorithm_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: for_IN single_JJ minsup_JJ mining_NN ._.
+That_DT is_VBZ ,_, when_WRB all_DT MIS_NNP values_NNS are_VBP the_DT same_JJ as_IN LS_NN ,_, it_PRP reduces_VBZ to_TO the_DT Apriori_NNP algorithm_NN ._.
+A_DT key_JJ idea_NN of_IN our_PRP$ algorithm_NN MSapriori_NN is_VBZ the_DT sorting_NN of_IN items_NNS in_IN I_PRP according_VBG to_TO their_PRP$ M_NN

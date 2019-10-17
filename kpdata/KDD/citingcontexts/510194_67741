@@ -1,0 +1,4 @@
+s_NNS were_VBD obtained_VBN using_VBG a_DT boosted_VBN naYve_NN bayesian_JJ classifier_NN ;_: a_DT classification_NN tree_NN induction_NN technique_NN produced_VBD analogous_JJ results_NNS ._.
+8_CD Related_NNP Work_NNP Data_NNP preprocessing_NN is_VBZ a_DT standard_JJ practice_NN in_IN statistics_NNS =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_JJ -_: ,_, pattern_NN recognition_NN and_CC data_NN mining_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Generic_JJ data_NNS cleansing_VBG techniques_NNS are_VBP well-described_JJ in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Grouping_NN of_IN categorical_JJ values_NNS as_IN it_PRP relates_VBZ to_TO tree_NN induction_NN techniques_NNS is_VBZ discussed_VBN in_IN -LRB-_-LRB- 25_CD

@@ -1,0 +1,4 @@
+ue_RB ,_, to_TO exploit_VB known_JJ classes_NNS of_IN documents_NNS ._.
+For_IN this_DT one_CD supervised_JJ technique_NN ,_, they_PRP demonstrate_VBP a_DT small_JJ improvement_NN in_IN classification_NN accuracy_NN when_WRB using_VBG the_DT reduced_VBN feature_NN space_NN ._.
+Bingham_NN and_CC Mannila_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: compare_VB a_DT PCA-like_JJ DR_NN technique_NN against_IN a_DT computationally_RB efficient_JJ approach_NN based_VBN on_IN random_JJ projection_NN ,_, and_CC find_VBP that_IN the_DT simpler_JJR approach_NN is_VBZ able_JJ to_TO achieve_VB comparable_JJ performance_NN ._.
+However_RB ,_, for_IN tex_NN

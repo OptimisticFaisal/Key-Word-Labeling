@@ -1,0 +1,4 @@
+ut_IN the_DT SCR_NN matrix_NN well_RB complements_VBZ the_DT information_NN ._.
+For_IN each_DT service_NN i_FW ,_, the_DT average_JJ wi_NN -LRB-_-LRB- t_NN -RRB-_-RRB- and_CC the_DT standard_JJ deviation_NN σi_NN -LRB-_-LRB- t_NN -RRB-_-RRB- at_IN time_NN t_NN can_MD be_VB updated_VBN using_VBG well-known_JJ on-line_JJ maximum_NN likelihood_NN formula_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: such_JJ as_IN wi_NN -LRB-_-LRB- t_NN -RRB-_-RRB- =_JJ -LRB-_-LRB- 1_CD −_FW β_FW -RRB-_-RRB- ·_FW wi_FW -LRB-_-LRB- t_NN −_NN 1_CD -RRB-_-RRB- +_CC βui_NN -LRB-_-LRB- t_NN -RRB-_-RRB- ,_, -LRB-_-LRB- 11_CD -RRB-_-RRB- where_WRB β_NN is_VBZ the_DT discounting_VBG factor_NN ._.
+Now_RB we_PRP have_VBP the_DT second_JJ criterion_NN for_IN problem_NN detection_NN ._.
+Criterion_NN 2_CD :_: A_DT service_NN is_VBZ faulty_JJ if_IN |_FW ui_FW -LRB-_-LRB- t_NN -RRB-_-RRB- −_FW wi_FW -LRB-_-LRB- t_NN -RRB-_-RRB- |_NN -RRB-_-RRB- σi_NN -LRB-_-LRB- t_NN -RRB-_-RRB-

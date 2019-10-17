@@ -1,0 +1,4 @@
+of_IN the_DT sum_NN of_IN the_DT plaintexts_NNS ,_, has_VBZ recently_RB been_VBN used_VBN in_IN secure_JJ multi-party_JJ computation_NN ._.
+For_IN instance_NN ,_, Freedmen_NNP ,_, Nissim_NNP and_CC Pinkas_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- applied_VBD it_PRP to_TO set_VB intersection_NN ._.
+The_DT work_NN most_RBS related_JJ to_TO ours_PRP is_VBZ =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB Wright_NNP and_CC Yang_NNP applied_VBD homomorphic_JJ encryption_NN to_TO the_DT Bayesian_JJ networks_NNS induction_NN for_IN the_DT case_NN of_IN two_CD parties_NNS ._.
+However_RB ,_, the_DT core_NN protocol_NN which_WDT is_VBZ called_VBN Scalar_NNP Product_NNP Protocol_NNP can_MD be_VB easily_RB

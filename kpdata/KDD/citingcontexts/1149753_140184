@@ -1,0 +1,4 @@
+ery_NN agglomeration_NN ,_, and_CC show_VBP that_IN feature_NN size_NN can_MD be_VB aggressively_RB reduced_VBN by_IN such_JJ clustering_NN without_IN much_JJ loss_NN in_IN classification_NN accuracy_NN using_VBG Naive_JJ Bayes_NNS ._.
+Similar_JJ results_NNS have_VBP been_VBN reported_VBN for_IN SVMs_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Two_CD other_JJ dimensionality\/feature_JJ reduction_NN schemes_NNS are_VBP used_VBN in_IN latent_JJ semantic_JJ indexing_NN -LRB-_-LRB- LSI_NNP -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC its_PRP$ probabilistic_JJ version_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+Typically_RB these_DT methods_NNS have_VBP been_VBN applied_VBN in_IN the_DT unsupervised_JJ se_FW

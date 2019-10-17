@@ -1,0 +1,4 @@
+the_DT implicit_JJ groups_NNS making_VBG up_RP an_DT egocentric_JJ network_NN and_CC the_DT seed_NN group_NN that_WDT is_VBZ the_DT input_NN to_TO Friend_NN Suggest_NN are_VBP unordered_JJ sets_NNS of_IN contacts_NNS ,_, they_PRP can_MD be_VB compared_VBN via_IN standard_JJ measures_NNS of_IN set_NN similarity_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Inthis_NNP work_NN ,_, we_PRP look_VBP only_RB at_IN set_VBN member_NN intersection_NN ,_, leaving_VBG more_RBR complex_JJ metrics_NNS for_IN future_JJ exploration_NN ._.
+We_PRP define_VBP below_IN several_JJ implementations_NNS of_IN UpdateScore_NNP ._.
+In_IN the_DT next_JJ section_NN ,_, we_PRP evaluate_VBP t_NN

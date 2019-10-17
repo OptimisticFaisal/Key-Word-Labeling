@@ -1,0 +1,4 @@
+antly_RB poorer_JJR prediction_NN results_NNS ._.
+Various_JJ data_NNS sampling_NN methods_NNS have_VBP been_VBN studied_VBN -LRB-_-LRB- 3_LS -RRB-_-RRB- such_JJ as_IN windowing_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, random_JJ sampling_NN ,_, stratified_JJ sampling_NN ,_, peepholing_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, and_CC information-theoretic_JJ peepholing_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Catlett_NNP 's_POS study_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- showed_VBD that_IN certain_JJ sampling_NN strategies_NNS helped_VBD in_IN speed-ups_NNS ,_, and_CC improving_VBG the_DT accuracy_NN of_IN classifiers_NNS in_IN noise_NN free_JJ domains_NNS ._.
+However_RB ,_, he_PRP also_RB acknowledged_VBD that_IN naive_JJ sampling_NN me_PRP

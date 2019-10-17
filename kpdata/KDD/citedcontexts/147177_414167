@@ -1,0 +1,4 @@
+Yancey_NNP and_CC Winkler_NNP -LRB-_-LRB- 49_CD -RRB-_-RRB- developed_VBD BigMatch_NNP technology_NN for_IN matching_VBG moderate_JJ size_NN lists_NNS of_IN 100_CD million_CD records_NNS against_IN large_JJ administrative_JJ files_NNS having_VBG upwards_NNS of_IN 4_CD billion_CD records_NNS ._.
+Cohen_NNP and_CC Richman_NNP =_SYM -_: =[_NN 50_CD -RRB-_-RRB- -_: =_JJ -_: showed_VBD how_WRB to_TO cluster_VB and_CC match_VB entity_NN names_NNS using_VBG methods_NNS that_WDT are_VBP scalable_JJ and_CC adaptive_JJ ._.
+We_PRP illustrate_VBP some_DT of_IN the_DT data_NNS cleaning_VBG issues_NNS with_IN a_DT straightforward_JJ example_NN ._.
+In_IN Table_NNP 2_CD the_DT three_CD pairs_NNS re_VBP

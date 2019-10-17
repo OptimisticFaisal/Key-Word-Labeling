@@ -1,0 +1,4 @@
+be_VB also_RB treated_VBN as_IN a_DT multi-classification_JJ task_NN ._.
+The_DT idea_NN is_VBZ to_TO decompose_VB Event_NN Recognition_NN into_IN several_JJ classification_NN tasks_NNS and_CC then_RB merge_VB the_DT partial_JJ results_NNS into_IN whole_JJ annotations_NNS ._.
+Bennett_NNP et_FW al._FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: used_VBD two_CD classifiers_NNS to_TO recognize_VB the_DT beginnings_NNS and_CC the_DT endings_NNS of_IN annotations_NNS ._.
+The_DT concept_NN of_IN this_DT approach_NN is_VBZ presented_VBN on_IN the_DT Figure_NNP 4.1_CD a._NN After_IN selecting_VBG potential_JJ candidates_NNS for_IN annotation_NN boun_NN

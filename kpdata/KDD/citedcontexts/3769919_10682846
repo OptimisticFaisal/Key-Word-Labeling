@@ -1,0 +1,5 @@
+informativeness_NN of_IN relations_NNS between_IN entities_NNS in_IN ER_NN graphs_NNS ?_.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- how_WRB to_TO determine_VB the_DT most_RBS informative_JJ subgraph_NN for_IN the_DT given_VBN query_NN nodes_NNS ?_.
+We_PRP address_VBP both_DT problems_NNS in_IN this_DT work_NN ._.
+In_IN previous_JJ approaches_NNS =_JJ -_: =[_NN 16_CD ,_, 5_CD ,_, 7_CD ,_, 18_CD ,_, 8_CD ,_, 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT notion_NN of_IN subgraph_JJ importance_NN is_VBZ mainly_RB based_VBN on_IN structural_JJ properties_NNS of_IN the_DT underlying_JJ graph_NN -LRB-_-LRB- e.g._FW indegree_FW or_CC outdegree_NN of_IN a_DT node_NN ,_, density_NN or_CC edge_NN connectivity_NN of_IN a_DT subgraph_NN ,_, etc._NN -RRB-_-RRB- ._.
+More_JJR rela_NN

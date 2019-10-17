@@ -1,0 +1,5 @@
+o_NN avoid_VB duplication_NN ._.
+Once_RB all_DT groups_NNS of_IN activities_NNS have_VBP been_VBN identified_VBN ,_, the_DT notion_NN of_IN `_`` virtual_JJ documents_NNS '_POS is_VBZ used_VBN to_TO score_VB their_PRP$ similarity_NN ._.
+Virtual_JJ documents_NNS were_VBD introduced_VBN for_IN aligning_VBG ontologies_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT virtual_JJ document_NN of_IN a_DT node_NN consists_VBZ of_IN the_DT words_NNS from_IN all_DT textual_JJ information_NN that_WDT is_VBZ related_JJ to_TO that_DT node_NN ._.
+Given_VBN two_CD virtual_JJ documents_NNS ,_, their_PRP$ similarity_NN can_MD be_VB calculated_VBN based_VBN on_IN their_PRP$ distance_NN

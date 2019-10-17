@@ -1,0 +1,4 @@
+a_DT few_JJ references_NNS to_TO exemplify_VB such_JJ methods_NNS ._.
+−_FW In_FW -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, boosted_VBD decision_NN trees_NNS working_VBG on_IN n-grams_NN are_VBP found_VBN to_TO produce_VB better_JJR results_NNS than_IN both_CC the_DT Naive_JJ Bayes_NNS clasifier_NN and_CC Support_NN Vector_NNP Machines_NNP ._.
+−_NN =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ automatic_JJ extraction_NN of_IN association_NN rules_NNS on_IN Windows_NNP API_NNP execution_NN sequences_NNS to_TO distinguish_VB between_IN malware_NN and_CC clean_JJ program_NN files_NNS ._.
+Also_RB using_VBG association_NN rules_NNS ,_, but_CC on_IN honeytokens_NNS of_IN known_JJ par_NN

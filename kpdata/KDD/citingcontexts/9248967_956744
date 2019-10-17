@@ -1,0 +1,4 @@
+sed_JJ feature_NN selection_NN that_WDT comes_VBZ with_IN some_DT provable_JJ guarantees_NNS under_IN assumptions_NNS ._.
+Similarly_RB ,_, -LRB-_-LRB- 7_CD -RRB-_-RRB- models_NNS the_DT unsupervised_JJ feature_NN selection_NN as_IN an_DT optimization_NN problem_NN and_CC provides_VBZ heuristic_NN solutions_NNS ._.
+=_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: addresses_VBZ the_DT problem_NN of_IN selecting_VBG features_NNS that_WDT capture_VBP the_DT same_JJ information_NN as_IN the_DT top_JJ principal_JJ components_NNS ,_, and_CC proposes_VBZ a_DT two-step_JJ heuristic_NN for_IN this_DT task_NN ._.
+More_RBR recently_RB ,_, -LRB-_-LRB- 39_CD ,_, 42_CD ,_, 43_CD ,_, 28_CD -RRB-_-RRB- present_JJ

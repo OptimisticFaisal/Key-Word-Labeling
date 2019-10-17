@@ -1,0 +1,4 @@
+-RRB-_-RRB- ,_, and_CC they_PRP remain_VBP an_DT active_JJ research_NN topic_NN in_IN computer_NN vision_NN ._.
+An_DT overview_NN of_IN techniques_NNS for_IN polygonal_JJ approximations_NNS of_IN curves_NNS ,_, which_WDT require_VBP that_IN the_DT order_NN of_IN data_NNS points_NNS is_VBZ known_VBN ,_, can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT main_JJ difficulty_NN of_IN fitting_JJ polylines_NNS in_IN the_DT above_JJ applications_NNS is_VBZ that_IN the_DT segmentation_NN -LRB-_-LRB- or_CC correspondence_NN -RRB-_-RRB- of_IN data_NNS points_NNS to_TO line_VB segments_NNS as_RB well_RB as_IN the_DT order_NN of_IN data_NNS points_NNS are_VBP unknown_JJ ._.
+The_DT E_NN

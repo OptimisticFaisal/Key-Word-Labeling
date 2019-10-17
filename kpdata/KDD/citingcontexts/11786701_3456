@@ -1,0 +1,4 @@
+g_NN between_IN the_DT attributes_NNS of_IN an_DT object_NN ._.
+For_IN example_NN ,_, in_IN Figure_NNP 1_CD -LRB-_-LRB- b_NN -RRB-_-RRB- there_EX is_VBZ substantial_JJ noise_NN ,_, such_JJ as_IN ``_`` Add_VB to_TO Cart_NNP ''_'' and_CC ``_`` Select_NNP Quantity_NNP ''_'' between_IN the_DT price_NN and_CC description_NN ._.
+However_RB ,_, traditional_JJ CRFs_NNS =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =-[_NN 33_CD -RRB-_-RRB- can_MD not_RB incorporate_VB these_DT long_JJ distance_NN dependencies_NNS because_IN of_IN its_PRP$ first-order_JJ Markov_NNP assumption_NN -LRB-_-LRB- i.e._FW only_RB the_DT dependencies_NNS of_IN neighboring_JJ nodes_NNS are_VBP considered_VBN and_CC represented_VBN -RRB-_-RRB- ._.
+1.2_CD Our_PRP$ Solution_NN

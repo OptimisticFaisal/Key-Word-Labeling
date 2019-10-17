@@ -1,0 +1,3 @@
+ne_IN True_NNP Model_NNP for_IN data_NNS is_VBZ within_IN the_DT set_NN of_IN Turing_NN machines_NNS ,_, then_RB it_PRP is_VBZ possible_JJ to_TO express_VB a_DT well-calibrated_JJ classifier_NN :_: the_DT proper_JJ class_NN occurrence_NN rate_NN is_VBZ mapped_VBN correctly_RB for_IN each_DT unseen_JJ example_NN ._.
+=_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: further_RB suggests_VBZ that_IN any_DT reasonable_JJ performance_NN metric_NN should_MD be_VB optimized_VBN by_IN this_DT one_CD true_JJ model_NN and_CC no_DT other_JJ model_NN should_MD yield_VB better_JJR performance_NN ._.
+Received_VBN October_NNP 29_CD ,_, 2007_CD Revised_VBN December_NNP 24_CD ,_, 2_CD

@@ -1,0 +1,4 @@
+computes_VBZ this_DT similarity_NN as_IN the_DT average_JJ similarity_NN between_IN all_DT pairs_NNS of_IN elements_NNS across_IN clusters_NNS ._.
+The_DT complexity_NN of_IN these_DT algorithms_NNS is_VBZ O_NN -LRB-_-LRB- n_NN 2_CD logn_NN -RRB-_-RRB- ,_, where_WRB n_NN is_VBZ the_DT number_NN of_IN elements_NNS to_TO be_VB clustered_VBN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Chameleon_NNP is_VBZ a_DT hierarchical_JJ algorithm_NN that_WDT employs_VBZ dynamic_JJ modeling_NN to_TO improve_VB clustering_NN quality_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+When_WRB merging_VBG two_CD clusters_NNS ,_, one_PRP might_MD consider_VB the_DT sum_NN of_IN the_DT similarities_NNS between_IN pairs_NNS of_IN elem_NN

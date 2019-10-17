@@ -1,0 +1,5 @@
+retrieval_NN accuracy_NN ._.
+Recently_RB ,_, however_RB ,_, researchers_NNS found_VBD that_IN the_DT improvement_NN of_IN the_DT retrieval_NN accuracy_NN of_IN a_DT learned_VBN model_NN stops_VBZ s_NN after_IN the_DT number_NN of_IN training_NN ex_FW examples_NNS reaches_VBZ a_DT certain_JJ threshold_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+When_WRB more_JJR training_NN ex_FW examples_NNS are_VBP not_RB able_JJ to_TO further_RB improve_VB a_DT model_NN 's_POS accuracy_NN ,_, improving_VBG the_DT quality_NN of_IN labels_NNS is_VBZ a_DT solution_NN ._.
+Collecting_VBG ollecting_VBG high_JJ quality_NN labels_NNS is_VBZ a_DT challenging_JJ task_NN ._.
+Labe_NN

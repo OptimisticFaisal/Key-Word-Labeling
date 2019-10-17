@@ -1,0 +1,5 @@
+and_CC whose_WP$ entry_NN in_IN row_NN i_FW and_CC column_NN j_NN is_VBZ represented_VBN as_IN Xi_NN j_NN or_CC X_NN j_FW i_FW ._.
+2_CD ._.
+BACKGROUND_NN In_IN this_DT section_NN ,_, we_PRP give_VBP a_DT brief_JJ introduction_NN to_TO the_DT PRM-based_JJ SBK_NN model_NN ._.
+Probabilistic_JJ Relational_JJ Models_NNS -LRB-_-LRB- PRMs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 18_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: extend_VB the_DT basic_JJ concepts_NNS of_IN Bayesian_JJ networks_NNS into_IN a_DT framework_NN for_IN representing_VBG and_CC reasoning_NN with_IN probabilistic_JJ relationships_NNS between_IN entities_NNS in_IN a_DT relational_JJ structure_NN ._.
+PRMs_NNS provide_VBP a_DT very_RB general_JJ

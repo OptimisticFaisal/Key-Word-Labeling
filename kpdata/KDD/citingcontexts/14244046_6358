@@ -1,0 +1,4 @@
+o_NN clearly_RB identify_VBP the_DT most_RBS succinct_JJ and_CC least_JJS redundant_JJ model_NN for_IN a_DT dataset_NN ._.
+As_IN such_JJ ,_, MDL_NNP has_VBZ been_VBN successfully_RB employed_VBN for_IN a_DT wide_JJ range_NN of_IN data_NN mining_NN tasks_NNS ,_, including_VBG ,_, for_IN example_NN ,_, discretization_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, imputation_NN -LRB-_-LRB- 37_CD -RRB-_-RRB- ,_, and_CC clustering_NN -LRB-_-LRB- 4_CD ,_, 16_CD -RRB-_-RRB- ._.
+Basically_RB ,_, a_DT Boolean_JJ matrix_NN factorization_NN gives_VBZ us_PRP a_DT group_NN of_IN patterns_NNS -LRB-_-LRB- the_DT left-hand_JJ matrix_NN B_NN -RRB-_-RRB- and_CC their_PRP$ occurrences_NNS -LRB-_-LRB- the_DT righthand_NN matrix_NN C_NN -RRB-_-RRB- ._.
+As_IN such_JJ ,_, BMF_NN

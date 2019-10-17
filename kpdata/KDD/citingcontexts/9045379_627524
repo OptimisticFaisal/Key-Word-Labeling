@@ -1,0 +1,4 @@
+can_MD be_VB constrained_VBN to_TO be_VB similar_JJ if_IN they_PRP share_VBP the_DT same_JJ class_NN label_NN and_CC dissimilar_JJ otherwise_RB ._.
+One_CD class_NN of_IN distance_NN functions_NNS that_WDT has_VBZ shown_VBN good_JJ generalization_NN properties_NNS is_VBZ the_DT Mahalanobis_NNP distance_NN =_JJ -_: =[_NN 3_CD ,_, 10_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT Mahalanobis_NNP distance_NN generalizes_VBZ the_DT standard_NN squared_VBD Euclidean_JJ distance_NN commonly_RB used_VBN by_IN algorithms_NNS such_JJ as_IN the_DT k-nearest_NN neighbor_NN classifier_NN ._.
+Intuitively_RB ,_, the_DT Mahalanobis_NNP distance_NN works_VBZ by_IN sca_NN

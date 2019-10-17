@@ -1,0 +1,4 @@
+report_NN that_WDT feature_VBP selection_NN algorithms_NNS may_MD over_RB fit_VB easily_RB ._.
+Approaches_NNS to_TO minimize_VB this_DT problem_NN and_CC perform_VB more_RBR reliable_JJ performance_NN assessment_NN include_VBP resampling_VBG techniques_NNS such_JJ as_IN bootstrapping_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, it_PRP may_MD be_VB possible_JJ that_IN more_JJR robust_JJ masks_NNS of_IN selected_VBN intervals_NNS can_MD be_VB obtained_VBN by_IN the_DT combination_NN of_IN different_JJ masks_NNS ._.
+One_CD simple_JJ policy_NN is_VBZ obtaining_VBG multiple_JJ masks_NNS by_IN resampling_VBG and_CC th_DT

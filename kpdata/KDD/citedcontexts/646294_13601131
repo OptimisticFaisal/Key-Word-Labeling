@@ -1,0 +1,3 @@
+nd_IN functional_JJ modules_NNS in_IN protein_NN interaction_NN networks_NNS which_WDT can_MD serve_VB as_IN the_DT basis_NN of_IN computer-aided_JJ drug_NN design_NN ._.
+Most_JJS of_IN the_DT existing_VBG methods_NNS such_JJ as_IN graph_NN partitioning_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- and_CC quasi-clique_JJ finding_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: work_NN on_IN graph_NN data_NNS only_RB ._.
+However_RB ,_, in_IN many_JJ applications_NNS more_RBR informative_JJ graphs_NNS are_VBP given_VBN ,_, where_WRB nodes_NNS represent_VBP entities_NNS ,_, edges_VBZ relationships_NNS between_IN entities_NNS ,_, and_CC feature_NN vectors_NNS associated_VBN with_IN the_DT

@@ -1,0 +1,6 @@
+imitations_NNS ,_, we_PRP omit_VBP the_DT details_NNS of_IN the_DT decomposition_NN algorithm_NN here_RB ._.
+5_CD ._.
+EXPERIMENTS_NNS In_IN this_DT section_NN ,_, we_PRP show_VBP the_DT effect_NN of_IN our_PRP$ model_NN and_CC algorithm_NN on_IN datasets_NNS of_IN various_JJ sizes_NNS from_IN the_DT UCI_NNP repository_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Note_VB that_DT our_PRP$ algorithm_NN does_VBZ not_RB assume_VB any_DT specific_JJ metric_JJ function_NN or_CC merging_JJ strategy_NN ._.
+For_IN the_DT evaluations_NNS presented_VBN ,_, we_PRP explored_VBD both_CC Euclidean_JJ distance_NN and_CC a_DT learned_VBN metricbasedon_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Inourimp_NNP

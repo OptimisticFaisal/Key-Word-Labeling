@@ -1,0 +1,4 @@
+t_NN of_IN our_PRP$ methods_NNS ._.
+While_IN we_PRP rely_VBP on_IN a_DT rather_RB basic_JJ language_NN model_NN for_IN the_DT sake_NN of_IN simplicity_NN ,_, more_RBR detailed_JJ language_NN models_NNS exist_VBP and_CC can_MD possibly_RB be_VB employed_VBN as_RB well_RB ._.
+Previous_JJ work_NN by_IN Steyvers_FW et_FW al._FW =_SYM -_: =[_NN 35_CD -RRB-_-RRB- -_: =_SYM -_: looks_VBZ at_IN how_WRB document_NN text_NN can_MD be_VB generated_VBN by_IN a_DT two-step_JJ model_NN of_IN generating_VBG topics_NNS probabilistically_RB from_IN authors_NNS ,_, and_CC then_RB words_NNS probabilistically_RB from_IN topics_NNS ._.
+There_EX has_VBZ also_RB been_VBN language_NN modelin_NN

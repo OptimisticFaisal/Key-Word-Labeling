@@ -1,0 +1,4 @@
+the_DT data_NNS values_NNS involved_VBN in_IN the_DT interaction_NN ._.
+They_PRP allow_VBP one_CD to_TO verify_VB for_IN instance_NN that_IN some_DT payment_NN occurred_VBD before_IN some_DT shipment_NN ,_, but_CC not_RB that_IN it_PRP involved_VBD the_DT intended_JJ product_NN and_CC the_DT right_JJ amount_NN ._.
+=_SYM -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ an_DT approach_NN to_TO the_DT verification_NN and_CC automated_JJ composition_NN of_IN finite-state_JJ Web_NN services_NNS specified_VBN using_VBG the_DT DAML-S_NN standard_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+The_DT verified_VBN properties_NNS are_VBP propositional_JJ ,_, abstracting_VBG from_IN t_NN

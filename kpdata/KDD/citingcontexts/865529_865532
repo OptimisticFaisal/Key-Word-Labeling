@@ -1,0 +1,5 @@
+ts_NNS ._.
+A_DT method_NN to_TO learn_VB better_JJR ranking_NN functions_NNS for_IN retrieval_NN was_VBD recently_RB proposed_VBN by_IN Radlinski_NNP and_CC Joachims_NNP -LRB-_-LRB- 19_CD -RRB-_-RRB- and_CC has_VBZ been_VBN applied_VBN to_TO various_JJ local_JJ domains_NNS ,_, including_VBG Cornell_NNP University_NNP 's_POS website_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3_LS ._.
+PAGERANK_NNP OVERVIEW_NNP The_DT PageRank_NN algorithm_NN defines_VBZ the_DT importance_NN of_IN web_NN pages_NNS by_IN analyzing_VBG the_DT underlying_VBG hyperlink_NN structure_NN of_IN a_DT web_NN graph_NN ._.
+The_DT algorithm_NN works_VBZ by_IN building_VBG a_DT Markov_NNP chain_NN from_IN th_DT

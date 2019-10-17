@@ -1,0 +1,3 @@
+ationaccuracy_NN ._.
+We_PRP start_VBP with_IN a_DT ``_`` Basic_JJ ''_'' feature_NN set_NN that_WDT corresponds_VBZ to_TO the_DT set_NN of_IN URL-related_JJ -LRB-_-LRB- not_RB content-related_JJ -RRB-_-RRB- heuristics_NNS commonly_RB chosen_VBN by_IN various_JJ anti-phishing_JJ studies_NNS ,_, including_VBG Fette_NNP et_FW al._FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Bergholz_NNP et_FW al._FW -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC CANTINA_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- ._.
+This_DT set_NN consists_VBZ of_IN four_CD features_NNS :_: thenumberofdotsinaURL_NN ,_, whetherthehostnamecontainsanIP_NN address_NN ,_, the_DT WHOIS_NNP registration_NN date_NN -LRB-_-LRB- a_DT real-valued_JJ feature_NN -RRB-_-RRB- ,_, and_CC an_DT in_IN

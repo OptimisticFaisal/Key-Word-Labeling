@@ -1,0 +1,5 @@
+ribe_VB each_DT sub-query_NN ._.
+In_IN Section_NN 3_CD we_PRP describe_VBP the_DT entire_JJ set_NN of_IN query_JJ quality_NN predictors_NNS that_IN we_PRP used_VBD ._.
+Our_PRP$ approach_NN to_TO ranking_JJ sub-queries_NNS is_VBZ reminiscent_JJ of_IN work_NN related_JJ to_TO learning_NN to_TO rank_VB documents_NNS =_JJ -_: =[_NN 13_CD ,_, 4_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Learning_NNP to_TO rank_VB documents_NNS involves_VBZ representing_VBG documents_NNS using_VBG features_NNS computed_VBN from_IN properties_NNS associated_VBN with_IN them_PRP ,_, and_CC the_DT query_NN ._.
+A_DT classifier_NN is_VBZ then_RB trained_VBN to_TO rank_VB relevant_JJ documents_NNS higher_JJR

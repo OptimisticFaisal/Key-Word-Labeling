@@ -1,0 +1,4 @@
+eral_JJ form_NN that_WDT makes_VBZ it_PRP trivial_JJ ._.
+OPUS_NN AR_NN is_VBZ an_DT association_NN rule_NN discovery_NN that_WDT provides_VBZ an_DT alternative_NN to_TO the_DT frequent_JJ itemset_NN approach_NN by_IN finding_VBG associations_NNS without_IN first_RB finding_VBG frequent_JJ itemsets_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT avoids_VBZ the_DT need_NN to_TO retain_VB the_DT set_NN of_IN frequent_JJ itemsets_NNS in_IN memory_NN ,_, a_DT requirement_NN that_WDT makes_VBZ the_DT frequent_JJ itemset_NN strategy_NN infeasible_JJ for_IN dense_JJ data_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+It_PRP also_RB enables_VBZ comparisons_NNS between_IN assoc_NN

@@ -1,0 +1,4 @@
+of_IN the_DT majority_NN of_IN the_DT system_NN ._.
+This_DT metric_NN was_VBD chosen_VBN for_IN its_PRP$ robustness_NN to_TO outliers_NNS in_IN small_JJ populations_NNS ,_, which_WDT is_VBZ important_JJ for_IN small_JJ DStore_NN installations_NNS ._.
+The_DT second_JJ method_NN is_VBZ the_DT Tarzan_NNP algorithm_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: for_IN analyzing_VBG time_NN series_NN ,_, which_WDT incorporates_VBZ a_DT brick_NN 's_POS past_JJ behavior_NN and_CC compares_VBZ it_PRP with_IN that_DT of_IN the_DT rest_NN of_IN the_DT bricks_NNS ._.
+For_IN every_DT statistic_NN of_IN each_DT brick_NN ,_, we_PRP keep_VBP an_DT N-length_JJ history_NN ,_, or_CC time-seri_NNS

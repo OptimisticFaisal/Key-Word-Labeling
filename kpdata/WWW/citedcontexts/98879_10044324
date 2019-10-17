@@ -1,0 +1,5 @@
+es_NNS of_IN CF_NN algorithms_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- :_: memory_NN -_: and_CC model-based_JJ CF_NN techniques_NNS ._.
+In_IN addition_NN ,_, there_EX are_VBP hybrid_JJ CF_NN approaches_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Memory-based_JJ algorithms_NNS utilize_VBP the_DT entire_JJ user-item_JJ database_NN to_TO generate_VB a_DT prediction_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Although_IN memory-based_JJ CF_NN algorithms_NNS are_VBP widely_RB used_VBN and_CC they_PRP are_VBP successful_JJ ;_: since_IN they_PRP use_VBP entire_JJ user-item_JJ database_NN ,_, their_PRP$ computation_NN time_NN increases_VBZ when_WRB number_NN of_IN users\/items_NNS increases_NNS ._.
+Model-ba_NN

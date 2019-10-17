@@ -1,0 +1,4 @@
+two_CD other_JJ methods_NNS to_TO encourage_VB diversity_NN in_IN the_DT top-k_NN ranking_NN list_NN for_IN personalized_JJ PageRank_NN ._.
+Here_RB ,_, we_PRP make_VBP a_DT comparison_NN in_IN terms_NNS of_IN optimality_NN ,_, convergence_NN ,_, and_CC scalability_NN of_IN different_JJ methods_NNS ._.
+ARW_NN =_JJ -_: =[_NN 42_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ based_VBN on_IN an_DT intuitive_JJ heuristic_NN by_IN greedily_RB selecting_VBG the_DT highest_JJS ranked_VBN node_NN and_CC setting_VBG it_PRP as_IN the_DT absorbing_VBG state_NN ._.
+From_IN theoretical_JJ point_NN of_IN view_NN ,_, it_PRP is_VBZ not_RB clear_JJ what_WDT ARW_NN -LRB-_-LRB- 42_CD -RRB-_-RRB- tries_VBZ to_TO optimize_VB

@@ -1,0 +1,4 @@
+interest_NN -LRB-_-LRB- ROI_NN -RRB-_-RRB- from_IN a_DT medical_JJ image_NN ;_: 3_CD ._.
+feature_NN extraction_NN that_WDT computes_VBZ descriptive_JJ features_NNS for_IN each_DT candidate_NN so_IN that_IN each_DT candidate_NN is_VBZ represented_VBN by_IN a_DT vector_NN x_NN of_IN numerical_JJ values_NNS or_CC attributes_VBZ =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ;_: 4_CD ._.
+classification_NN that_WDT differentiates_VBZ candidates_NNS based_VBN on_IN candidate_NN feature_NN vectors_NNS ;_: 5_CD ._.
+visual_JJ presentation_NN of_IN CAD_NN findings_NNS to_TO the_DT radiologist_NN in_IN order_NN for_IN him_PRP to_TO accept_VB or_CC reject_VB the_DT CAD_NNP findings_NNS ._.

@@ -1,0 +1,4 @@
+CDSC_NN with_IN λ_NN =_JJ 0_CD ._.
+We_PRP also_RB compare_VBP to_TO the_DT co-clustering_JJ based_JJ classification_NN -LRB-_-LRB- CoCC_NN -RRB-_-RRB- -LRB-_-LRB- 10_CD -RRB-_-RRB- as_IN the_DT state-of-the-art_JJ domain-transfer_JJ learning_NN algorithm_NN and_CC one_CD representative_JJ selection_NN bias_NN correction_NN -LRB-_-LRB- KDE_NN -RRB-_-RRB- =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+CoCC_NN builds_VBZ connection_NN between_IN in-domain_NN and_CC out-of-domain_NN through_IN feature_NN clustering_NN ,_, and_CC is_VBZ formulated_VBN under_IN the_DT co-clustering_JJ framework_NN ._.
+KDE_NNP corrects_VBZ the_DT domain_NN bias_NN in_IN the_DT in-domain_NN ,_, and_CC then_RB ad_NN

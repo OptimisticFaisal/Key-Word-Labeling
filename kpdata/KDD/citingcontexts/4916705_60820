@@ -1,0 +1,4 @@
+e_LS must-link_JJ and_CC the_DT cannot-link_JJ constraints_NNS simultaneously_RB ._.
+In_IN -LRB-_-LRB- 13,14_CD -RRB-_-RRB- ,_, the_DT authors_NNS extended_VBD the_DT boosting_VBG algorithms_NNS to_TO learn_VB a_DT distance_NN function_NN from_IN given_VBN pairwise_JJ constraints_NNS ._.
+Schultz_NNP and_CC Joachims_NNP =_SYM -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: extended_VBD the_DT framework_NN of_IN support_NN vector_NN machine_NN to_TO learn_VB distance_NN metrics_NNS from_IN the_DT pairwise_JJ comparisons_NNS ._.
+Finally_RB ,_, a_DT few_JJ studies_NNS cluster_VBP data_NNS points_NNS by_IN a_DT similarity_NN matrix_NN that_WDT is_VBZ directly_RB modified_VBN a_DT

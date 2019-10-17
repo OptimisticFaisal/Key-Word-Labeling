@@ -1,0 +1,3 @@
+ogram_NN symbols_NNS ,_, like_IN identifiers_NNS and_CC keywords_NNS ,_, are_VBP first_RB tokenized_VBN ._.
+A_DT program_NN is_VBZ then_RB represented_VBN as_IN a_DT token_JJ sequence_NN ,_, and_CC duplicate_VB token_JJ subsequences_NNS are_VBP searched_VBN for_IN plagiarism_NN between_IN two_CD programs_NNS =_JJ -_: =[_NN 9,17,18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Because_IN variables_NNS of_IN the_DT same_JJ type_NN are_VBP mapped_VBN into_IN the_DT same_JJ token_JJ ,_, this_DT approach_NN is_VBZ robust_JJ to_TO idenFigure_NN 2_CD :_: Original_NNP and_CC Plagiarized_NNP Code_NNP 01_CD static_JJ void_NN 02_CD fill_content_NN -LRB-_-LRB- int_NN num_NN ,_, struct_NN line_NN \*_NN fill_NN -RRB-_-RRB- 0_CD

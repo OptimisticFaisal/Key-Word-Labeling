@@ -1,0 +1,4 @@
+perceptron_NN -LRB-_-LRB- MLP_NN -RRB-_-RRB- ,_, a_DT global_JJ classifier_NN ,_, where_WRB 3NN_NN and_CC a_DT single_JJ hidden_JJ layered_JJ MLP_NN are_VBP used_VBN in_IN our_PRP$ experiments_NNS ._.
+For_IN comparison_NN ,_, we_PRP report_VBP results_NNS of_IN a_DT semi-supervised_JJ boosting_VBG algorithm_NN -LRB-_-LRB- i.e._FW ,_, ASSEMBLE_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: or_CC Agreement_NNP Boost_NNP -LRB-_-LRB- 13_CD -RRB-_-RRB- -RRB-_-RRB- and_CC its_PRP$ regularized_VBN version_NN -LRB-_-LRB- i.e._FW ,_, Regularized_NNP Boost_NNP -RRB-_-RRB- ._.
+In_IN addition_NN ,_, we_PRP also_RB provide_VBP results_NNS of_IN a_DT variant_NN of_IN Adaboost_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- trained_VBN on_IN the_DT labeled_JJ data_NNS only_RB for_IN reference_NN ._.
+The_DT

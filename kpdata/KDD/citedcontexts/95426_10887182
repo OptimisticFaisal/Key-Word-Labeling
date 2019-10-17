@@ -1,0 +1,3 @@
+ing_NN work_NN can_MD be_VB divided_VBN into_IN two_CD classes_NNS according_VBG to_TO how_WRB they_PRP deal_VBP with_IN the_DT historical_JJ records_NNS -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+One_CD class_NN focuses_VBZ on_IN how_WRB to_TO effectively_RB update_VB the_DT classification_NN model_NN when_WRB stream_NN data_NNS flows_VBZ in_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 3_LS -RRB-_-RRB- ,_, by_IN discarding_VBG the_DT historical_JJ records_NNS after_IN a_DT certain_JJ period_NN of_IN time_NN or_CC gradually_RB decreasing_VBG their_PRP$ weights_NNS as_IN time_NN elapses_VBZ -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+The_DT other_JJ class_NN devised_VBD methods_NNS for_IN choosing_VBG historical_JJ records_NNS wh_VBP

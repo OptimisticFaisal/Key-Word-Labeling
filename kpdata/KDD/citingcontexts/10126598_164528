@@ -1,0 +1,4 @@
+MA_NN and_CC intersections_NNS ._.
+Gao_NNP et_FW al._FW -LRB-_-LRB- 12_CD -RRB-_-RRB- reduce_VB I\/O_NN cost_NN for_IN continuous_JJ similarity_NN queries_NNS by_IN pre-loading_VBG the_DT predicted_VBN index_NN pages_NNS and_CC archived_JJ time_NN series_NN into_IN the_DT allocated_VBN cache_NN memory_NN ._.
+Bulut_NNP et_FW al._FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: provide_VBP a_DT well_RB designed_VBN multi-resolution_JJ hierarchical_JJ index_NN for_IN monitoring_NN aggregate_NN and_CC similarity_NN queries_NNS over_IN a_DT stream_NN time_NN series_NN ._.
+However_RB ,_, none_NN of_IN the_DT above_JJ work_NN address_NN the_DT problem_NN of_IN monitorin_NN

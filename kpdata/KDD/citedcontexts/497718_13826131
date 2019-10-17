@@ -1,0 +1,3 @@
+tead_NN of_IN using_VBG local_JJ neighborhood_NN information_NN ,_, the_DT global_JJ network_NN structure_NN can_MD be_VB used_VBN for_IN vertex_NN similarity_NN calculation_NN ._.
+We_PRP introduce_VBP three_CD global_JJ structure_NN based_VBN vertex_NN similarity_NN measures_NNS ,_, SimRank_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: Leicht-Holme-Newman_NN -LRB-_-LRB- LHN_NN -RRB-_-RRB- vertex_NN similarity_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, and_CC PRank_NN -LRB-_-LRB- 38_CD -RRB-_-RRB- ._.
+These_DT three_CD methods_NNS consider_VBP the_DT vertex_NN similarity_NN measure_NN based_VBN on_IN the_DT same_JJ intuition_NN :_: two_CD vertices_NNS are_VBP similar_JJ if_IN their_PRP$ immediate_JJ n_NN

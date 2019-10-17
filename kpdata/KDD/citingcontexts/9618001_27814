@@ -1,0 +1,4 @@
+asis_NN function_NN -LRB-_-LRB- RBF_NN -RRB-_-RRB- kernels_NNS ._.
+Logistic_JJ Regression_NN :_: This_DT is_VBZ a_DT simple_JJ parametric_JJ model_NN for_IN binary_JJ classification_NN where_WRB examples_NNS are_VBP classified_VBN based_VBN on_IN their_PRP$ distance_NN from_IN a_DT hyperplane_NN decision_NN boundary_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT decision_NN rule_NN is_VBZ expressed_VBN in_IN terms_NNS of_IN the_DT sigmoid_JJ function_NN σ_NN -LRB-_-LRB- z_SYM -RRB-_-RRB- =_JJ -LRB-_-LRB- 1_CD +_CC e_SYM −_CD z_SYM -RRB-_-RRB- −_NN 1_CD ,_, which_WDT converts_VBZ these_DT distances_NNS into_IN probabilities_NNS that_IN feature_NN vectors_NNS have_VBP positive_JJ or_CC negative_JJ labels_NNS ._.
+The_DT c_NN

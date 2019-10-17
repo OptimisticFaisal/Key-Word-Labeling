@@ -1,0 +1,3 @@
+allows_VBZ their_PRP$ use_NN ,_, but_CC does_VBZ not_RB require_VB it_PRP ._.
+A_DT more_RBR robust_JJ and_CC generally-applicable_JJ method_NN for_IN obtaining_VBG class_NN probability_NN estimates_NNS from_IN a_DT classifier_NN is_VBZ suggested_VBN by_IN recent_JJ research_NN on_IN model_NN ensembles_NNS =_JJ -_: =[_NN 10_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Many_JJ authors_NNS -LRB-_-LRB- e._NN g_NN ,_, Breiman_NNP -LRB-_-LRB- 5_CD -RRB-_-RRB- -RRB-_-RRB- have_VBP found_VBN that_IN most_JJS modern_JJ learners_NNS are_VBP highly_RB unstable_JJ ,_, in_IN that_IN applying_VBG them_PRP to_TO slightly_RB different_JJ training_NN sets_NNS tends_VBZ to_TO produce_VB very_RB different_JJ models_NNS and_CC corresp_NN

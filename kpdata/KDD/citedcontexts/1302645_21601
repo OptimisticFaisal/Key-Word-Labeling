@@ -1,0 +1,5 @@
+have_VBP been_VBN shown_VBN to_TO be_VB problematic_JJ for_IN agglomerative_JJ methods_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- More_JJR extensive_JJ examples_NNS are_VBP given_VBN in_IN Subsection_NN 5.1_CD ._. -RRB-_-RRB-
+For_IN a_DT short_JJ version_NN of_IN this_DT paper_NN that_IN deals_NNS with_IN clustering_NN spatial_JJ data_NNS ,_, see_VBP =_JJ -_: =[_NN 5_CD -RRB-_-RRB- ._.
+We_PRP -_: =_SYM -_: have_VBP used_VBN 10-mutual_JJ neighborhood_NN graphs_NNS for_IN modeling_NN the_DT points_NNS ._.
+The_DT k-mutual_JJ neighborhood_NN graph_NN contains_VBZ all_DT edges_NNS 〈_VBP a_DT ,_, b_NN 〉_NN for_IN which_WDT a_DT is_VBZ one_CD of_IN the_DT k_NN nearest_IN neighbors_NNS of_IN b_NN ,_, and_CC b_NN is_VBZ one_CD of_IN the_DT

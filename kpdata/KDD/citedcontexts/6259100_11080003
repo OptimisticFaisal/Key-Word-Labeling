@@ -1,0 +1,4 @@
+Pavlov_NNP ,_, et_NNP ._.
+al_NNP used_VBD frequent_JJ itemsets_NNS to_TO place_VB constraints_NNS on_IN the_DT joint_JJ distribution_NN of_IN item_NN random_JJ variables_NNS and_CC thus_RB aid_NN in_IN inference_NN and_CC query_NN approximation_NN -LRB-_-LRB- Pavlov_NNP ,_, Mannila_NNP and_CC Smyth_NNP ,_, 2003_CD -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- =_JJ -_: =_JJ Wang_NNP and_CC Parthasarathy_NNP ,_, 2006_CD -_: =--RRB-_CD probabilistic_JJ models_NNS are_VBP viewed_VBN as_IN summarized_VBN representations_NNS of_IN databases_NNS and_CC demonstrate_VB how_WRB to_TO construct_VB MRF_NNP -LRB-_-LRB- Markov_NNP random_JJ field_NN -RRB-_-RRB- models_NNS from_IN frequent_JJ itemsets_NNS ._.
+Closer_JJR to_TO the_DT topic_NN of_IN this_DT paper_NN

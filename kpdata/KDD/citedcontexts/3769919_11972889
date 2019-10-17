@@ -1,0 +1,7 @@
+lational_JJ learning_NN community_NN -LRB-_-LRB- 28_CD ,_, 26_CD -RRB-_-RRB- ._.
+However_RB ,_, the_DT challenge_NN with_IN these_DT approaches_NNS is_VBZ primarily_RB scalability_NN ._.
+Random_NNP walks_VBZ on_IN graphs_NNS have_VBP been_VBN considered_VBN for_IN computing_NN node_NN proximities_NNS in_IN large_JJ graphs_NNS =_JJ -_: =[_NN 31_CD ,_, 30_CD ,_, 29_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP have_VBP also_RB been_VBN used_VBN for_IN learning_VBG to_TO rank_VB nodes_NNS in_IN graphs_NNS -LRB-_-LRB- 3_CD ,_, 2_CD ,_, 23_CD ,_, 11_CD -RRB-_-RRB- ._.
+2_CD ._.
+SUPERVISED_VBN RANDOM_JJ WALKS_NNS Next_IN we_PRP describe_VBP our_PRP$ algorithm_NN for_IN link_NN prediction_NN and_CC recommendation_NN ._.
+The_DT general_JJ setting_NN is_VBZ

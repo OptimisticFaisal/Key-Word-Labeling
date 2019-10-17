@@ -1,0 +1,5 @@
+e_LS confidence_NN of_IN a_DT rule_NN matching_VBG an_DT instance_NN can_MD be_VB used_VBN as_IN a_DT score_NN -LRB-_-LRB- Fawcett_NNP ,_, 2001_CD -RRB-_-RRB- ._.
+Even_RB if_IN a_DT classifier_NN only_RB produces_VBZ a_DT class_NN label_NN ,_, an_DT aggregation_NN of_IN them_PRP may_MD be_VB used_VBN to_TO generate_VB a_DT score_NN ._.
+MetaCost_NN -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP ,_, 1999_CD -_: =--RRB-_NN employs_VBZ bagging_VBG to_TO generate_VB an_DT ensemble_NN of_IN discrete_JJ classifiers_NNS ,_, each_DT of_IN which_WDT produces_VBZ a_DT vote_NN ._.
+The_DT set_NN of_IN votes_NNS could_MD be_VB used_VBN to_TO generate_VB a_DT score2_NN ._.
+Finally_RB ,_, some_DT combination_NN of_IN scoring_VBG and_CC voting_VBG

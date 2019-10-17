@@ -1,0 +1,4 @@
+from_IN the_DT data_NNS and_CC the_DT residual_JJ points_NNS are_VBP declared_VBN as_IN outliers_NNS ._.
+Other_JJ methods_NNS simply_RB treat_VB small_JJ clusters_NNS as_IN outliers_NNS or_CC look_VB at_IN the_DT tightness_NN of_IN the_DT clusters_NNS created_VBN -LRB-_-LRB- Pires_NNP and_CC Santos-Pereira_NNP 2005_CD ;_: =_JJ -_: =_JJ Otey_NNP et_FW al._FW 2003_CD -_: =-]_CD ._.
+Several_JJ clustering_NN based_VBN techniques_NNS focus_VB on_IN detecting_VBG outliers_NNS ,_, instead_RB of_IN generating_VBG clusters_NNS ._.
+The_DT CLAD_NN algorithm_NN -LRB-_-LRB- Mahoney_NNP et_FW al._FW 2003_CD -RRB-_-RRB- derives_VBZ the_DT width_NN from_IN the_DT data_NNS by_IN taking_VBG a_DT random_JJ sample_NN a_DT

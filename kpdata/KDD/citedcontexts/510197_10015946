@@ -1,0 +1,4 @@
+statistics_NNS ._.
+In_IN practice_NN ,_, however_RB ,_, data_NNS is_VBZ often_RB better_RB modeled_VBN by_IN a_DT mixture_NN of_IN regressors_NNS ,_, as_IN demonstrated_VBN by_IN the_DT prominence_NN of_IN mixture_NN regression_NN in_IN a_DT number_NN of_IN application_NN areas_NNS ._.
+Gaffney_NNP and_CC Smyth_NNP =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, for_IN example_NN ,_, use_NN mixture_NN regression_NN to_TO cluster_NN trajectories_NNS ,_, i.e._FW sets_NNS of_IN short_JJ sequences_NNS of_IN data_NNS such_JJ as_IN cyclone_NN or_CC object_NN movements_NNS in_IN video_NN sequences_NNS as_IN a_DT function_NN of_IN time_NN ._.
+Each_DT trajectory_NN is_VBZ bel_NN

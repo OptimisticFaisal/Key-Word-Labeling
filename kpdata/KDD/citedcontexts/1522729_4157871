@@ -1,0 +1,3 @@
+network_NN structures_NNS restricted_JJ to_TO those_DT candidate_NN parents_NNS is_VBZ performed_VBN greedily_RB ._.
+-LRB-_-LRB- We_PRP have_VBP also_RB previously_RB used_VBD a_DT very_RB similar_JJ algorithm_NN for_IN learning_VBG networks_NNS with_IN which_WDT to_TO compress_VB discrete_JJ datasets_NNS -LRB-_-LRB- =_JJ -_: =_JJ Davies_NNP and_CC Moore_NNP ,_, 1999_CD -_: =--RRB-_NN ._. -RRB-_-RRB-
+4_CD EXPERIMENTS_NNS 4.1_CD ALGORITHMS_NNS We_PRP compare_VBP the_DT performance_NN of_IN the_DT network-learning_JJ algorithm_NN described_VBN above_IN to_TO the_DT performance_NN of_IN four_CD other_JJ algorithms_NNS ,_, each_DT of_IN which_WDT is_VBZ designed_VBN to_TO be_VB similar_JJ to_TO ou_VB

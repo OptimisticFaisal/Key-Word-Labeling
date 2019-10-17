@@ -1,0 +1,4 @@
+based_VBN clustering_NN and_CC assess_VB the_DT performance_NN of_IN EM_NN in_IN relation_NN to_TO k-means_NNS ._.
+sPolynomial_JJ Models_NNS Another_DT approach_NN is_VBZ to_TO assume_VB the_DT underlying_JJ model_NN is_VBZ a_DT mixture_NN of_IN Polynomial_JJ functions_NNS ._.
+Gaffney_NNP and_CC Smyth_NNP =_SYM -_: =[_NN 21_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: assume_VB a_DT mixture_NN regression_NN model_NN ._.
+The_DT EM_NNP algorithm_NN with_IN Maximum_NNP A_NNP Posteriori_NNP -LRB-_-LRB- MAP_NN -RRB-_-RRB- estimates_NNS is_VBZ used_VBN to_TO estimate_VB the_DT cluster_NN membership_NN probabilities_NNS and_CC weighted_VBD least_JJS squares_NNS used_VBN to_TO fit_VB the_DT model_NN

@@ -1,0 +1,4 @@
+s_NN emails_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- and_CC disease_NN outbreak_NN detection_NN -LRB-_-LRB- 32_CD -RRB-_-RRB- ._.
+Any_DT good_JJ structure_NN and_CC parameter_NN learning_NN algorithm_NN is_VBZ appropriate_JJ to_TO learn_VB the_DT model_NN ._.
+For_IN our_PRP$ experiments_NNS ,_, we_PRP used_VBD the_DT optimal_JJ reinsertion_NN algorithm_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: to_TO learn_VB the_DT structure_NN ,_, and_CC then_RB did_VBD a_DT maximum_NN likelihood_NN estimation_NN of_IN the_DT network_NN parameters_NNS ._.
+Once_RB the_DT model_NN is_VBZ built_VBN ,_, to_TO test_VB any_DT record_NN we_PRP find_VBP its_PRP$ complete_JJ record_NN likelihood_NN given_VBN the_DT probabilit_NN

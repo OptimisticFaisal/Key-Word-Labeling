@@ -1,0 +1,4 @@
+nerate_JJ spurious_JJ rules_NNS ._.
+Aumann_NNP et_FW al._FW -LRB-_-LRB- 2_LS -RRB-_-RRB- introduce_VB numerical_JJ association_NN rules_NNS that_WDT support_VBP statistical_JJ predicates_NNS for_IN continuous_JJ attributes_NNS ,_, such_JJ as_IN variance_NN ,_, and_CC algorithms_NNS that_WDT mine_VBP such_JJ rules_NNS ._.
+In_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, rank_NN correlation_NN is_VBZ used_VBN to_TO mine_VB associations_NNS between_IN numerical_JJ attributes_NNS ._.
+Basically_RB ,_, continuous_JJ attributes_NNS are_VBP transformed_VBN to_TO ordinal_JJ attributes_NNS ,_, and_CC a_DT method_NN is_VBZ proposed_VBN to_TO find_VB sets_NNS of_IN numerical_JJ

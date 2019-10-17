@@ -1,0 +1,7 @@
+n_NN is_VBZ used_VBN to_TO capture_VB the_DT string_NN similarity_NN ._.
+SS_NN =_JJ -LRB-_-LRB- 2_CD -RRB-_-RRB- Where_WRB ed_FW denotes_VBZ the_DT edit_NN distance_NN between_IN s1_NN and_CC s2_NN ;_: s1_NN ._.
+len_NN and_CC s2_NN ._.
+len_NN denotes_VBZ the_DT length_NN of_IN the_DT input_NN strings_NNS s1_NN and_CC s2_NN ._.
+In_IN statistical_JJ analysis_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Vector_NNP Space_NNP Model_NNP algorithm_NN is_VBZ used_VBN ._.
+A_DT collection_NN of_IN documents_NNS are_VBP generated_VBN where_WRB each_DT document_NN is_VBZ an_DT entity_NN in_IN the_DT ontology_NN ._.
+The_DT virtual_JJ document_NN of_IN an_DT entity_NN consists_VBZ of_IN a_DT ``_`` bag_NN of_IN terms_NNS ''_'' extract_NN

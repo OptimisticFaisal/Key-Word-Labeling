@@ -1,0 +1,4 @@
+mplete_JJ specifications_NNS ._.
+A_DT successful_JJ test_NN should_MD reveal_VB a_DT problem_NN in_IN software_NN ;_: tests_NNS that_WDT do_VBP not_RB expose_VB any_DT faults_NNS are_VBP useless_JJ ,_, since_IN they_PRP hardly_RB provide_VBP any_DT indication_NN that_IN the_DT program_NN works_VBZ properly_RB =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN developing_VBG a_DT large_JJ system_NN ,_, the_DT test_NN of_IN the_DT entire_JJ application_NN -LRB-_-LRB- system_NN testing_NN -RRB-_-RRB- is_VBZ usually_RB preceded_VBN by_IN the_DT stages_NNS of_IN unit_NN testing_NN and_CC integration_NN testing_NN -LRB-_-LRB- 33_CD -RRB-_-RRB- ._.
+The_DT activities_NNS of_IN system_NN testing_NN inc_NN

@@ -1,0 +1,4 @@
+partition_NN ,_, objects_NNS are_VBP first_RB ordered_VBN by_IN the_DT time_NN they_PRP appeared_VBD ,_, then_RB by_IN their_PRP$ locations_NNS at_IN a_DT certain_JJ time_NN ._.
+This_DT data_NNS organization_NN is_VBZ analogous_JJ to_TO the_DT vertical_JJ format_NN used_VBN for_IN association_NN rule_NN mining_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Equivalence_JJ Classes_NNS Based_VBN on_IN the_DT list-based_JJ SOAP_NN representation_NN ,_, we_PRP organize_VBP SOAPs_NNS as_IN equivalence_JJ classes_NNS ._.
+A_DT k-equivalence_NN class_NN ,_, denoted_VBN by_IN k-EquiClass_NN ,_, is_VBZ defined_VBN as_IN the_DT set_NN of_IN k-SOAPs_NNS that_WDT -LRB-_-LRB- 1_LS -RRB-_-RRB- are_VBP

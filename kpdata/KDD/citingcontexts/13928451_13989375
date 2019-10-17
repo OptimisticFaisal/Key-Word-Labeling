@@ -1,0 +1,4 @@
+ppens_NNS ._.
+The_DT probability_NN that_IN a_DT violation_NN occurs_VBZ is_VBZ determined_VBN by_IN sensor_NN measurement_NN errors_NNS ,_, as_RB well_RB as_IN the_DT uncertainty_NN caused_VBN by_IN automatic_JJ information_NN extraction_NN of_IN the_DT photographs_NNS taken_VBN by_IN the_DT system_NN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO interpret_VB tuple_NN uncertainty_NN ,_, the_DT Possible_JJ World_NN Semantics_NNS -LRB-_-LRB- or_CC PWS_NN in_IN short_JJ -RRB-_-RRB- is_VBZ often_RB used_VBN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Conceptually_RB ,_, a_DT database_NN is_VBZ viewed_VBN as_IN a_DT set_NN of_IN deterministic_JJ instances_NNS -LRB-_-LRB- called_VBN possible_JJ worlds_NNS -RRB-_-RRB- ,_, ea_FW

@@ -1,0 +1,4 @@
+._.
+The_DT frequent_JJ subgraph_JJ mining_NN approach_NN described_VBN in_IN this_DT paper_NN is_VBZ also_RB influenced_VBN by_IN work_NN on_IN weighted_JJ pattern_NN mining_NN ,_, especially_RB Weighted_NNP Association_NNP Rules_NNP Mining_NNP -LRB-_-LRB- WARM_NNP -RRB-_-RRB- ,_, see_VBP for_IN example_NN the_DT work_NN of_IN =_JJ -_: =[_NN 19_CD ,_, 17_CD ,_, 23_CD ,_, 24_CD ,_, 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT significant_JJ issue_NN in_IN WARM_NNP is_VBZ that_IN the_DT ``_`` Downward_NNP Closure_NNP ''_'' -LRB-_-LRB- DC_NN -RRB-_-RRB- property_NN of_IN items_NNS sets_NNS ,_, on_IN which_WDT many_JJ ARM_NN algorithms_NNS are_VBP based_VBN ,_, no_RB longer_RB holds_VBZ ._.
+One_CD solution_NN -LRB-_-LRB- for_IN example_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- -RRB-_-RRB- is_VBZ to_TO handle_VB the_DT weig_NN

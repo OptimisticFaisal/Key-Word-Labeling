@@ -1,0 +1,4 @@
+elied_VBN on_IN measuring_VBG similarities_NNS between_IN data_NNS points_NNS ._.
+Some_DT approaches_NNS assign_VBP probabilistic_JJ weights_NNS to_TO data_NNS points_NNS based_VBN on_IN ,_, for_IN instance_NN ,_, Gaussian_JJ mixture_NN models_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- or_CC feedback_NN from_IN a_DT neural_JJ network_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, the_DT purity_NN of_IN neighborhood_NN graphs_NNS -LRB-_-LRB- constructed_VBN using_VBG data_NNS features_NNS -RRB-_-RRB- is_VBZ used_VBN to_TO remove_VB noisy_JJ data_NNS points_NNS ._.
+In_IN contrast_NN ,_, we_PRP exploit_VBP metadata_NN -LRB-_-LRB- categories_NNS -RRB-_-RRB- and_CC background_NN knowledge_NN to_TO reduce_VB the_DT

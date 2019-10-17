@@ -1,0 +1,5 @@
+ted_VBD the_DT algorithm_NN in_IN C_NN +_CC +_CC ,_, and_CC all_DT experiments_NNS were_VBD performed_VBN on_IN a_DT PC_NN running_VBG FC_NN 4_CD Linux_NN and_CC with_IN 1.8_CD GHz_NN AMD_NN Sempron_NN CPU_NN and_CC 1GB_NN memory_NN ._.
+In_IN the_DT experiments_NNS ,_, we_PRP used_VBD the_DT US_NNP stock_NN market_NN series_NN database_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT was_VBD converted_VBN to_TO a_DT set_NN of_IN graphs_NNS based_VBN on_IN the_DT same_JJ method_NN of_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Due_JJ to_TO limited_JJ space_NN ,_, here_RB we_PRP only_RB report_VBP the_DT results_NNS w.r.t._VBP a_DT correlation_NN coefficient_NN of_IN 0.99_CD ._.
+Efficiency_NNP Test_NNP ._.
+We_PRP implemente_VBP

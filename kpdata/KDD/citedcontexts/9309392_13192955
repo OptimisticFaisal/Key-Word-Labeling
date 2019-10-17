@@ -1,0 +1,4 @@
+ass_NN classification_NN problem_NN ._.
+Table_NNP 1_CD summarizes_VBZ the_DT data_NNS that_IN we_PRP extracted_VBD ._.
+3.2_CD Classifiers_NNS To_TO test_VB the_DT predictive_JJ ability_NN of_IN ReFeX_NN 's_POS features_NNS ,_, we_PRP use_VBP the_DT logForest_NN model_NN described_VBN by_IN Gallagher_NNP et_FW al._FW =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT logForest_NN is_VBZ a_DT bagged_JJ model_NN ,_, composed_VBN of_IN a_DT set_NN of_IN logistic_JJ regression_NN -LRB-_-LRB- LR_NN -RRB-_-RRB- clas-IP-A1_NN IP-A2_NN IP-A3_NN IP-A4_NN IP-B_NN Nodes_VBZ 81450_CD 57415_CD 154103_CD 206704_CD 181267_CD -LRB-_-LRB- labeled_VBN -RRB-_-RRB- 29868_CD 16112_CD 30955_CD 67944_CD 27649_CD Links_NNP

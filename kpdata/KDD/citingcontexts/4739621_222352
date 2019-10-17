@@ -1,0 +1,4 @@
+e_LS each_DT image_NN in_IN the_DT training_NN set_NN is_VBZ represented_VBN by_IN a_DT tuple_NN Img_NN -LRB-_-LRB- Color_NN ,_, T_NN exture_NN ,_, Shape_VBG -RRB-_-RRB- while_IN each_DT attribute_NN has_VBZ discrete_JJ value_NN type_NN in_IN a_DT limited_JJ domain_NN ._.
+To_TO build_VB a_DT classification_NN tree_NN ,_, C4_NN .5_CD algorithm_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ applied_VBN on_IN the_DT training_NN tuple_NN sets_VBZ transformed_VBN ._.
+We_PRP assume_VBP that_IN each_DT image_NN in_IN the_DT training_NN set_NN belongs_VBZ to_TO only_RB one_CD semantic_JJ category_NN ._.
+The_DT splitting_JJ attribute_NN selection_NN for_IN each_DT branch_NN is_VBZ based_VBN on_IN i_FW

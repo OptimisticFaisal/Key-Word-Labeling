@@ -1,0 +1,3 @@
+In_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, Arvind_NNP and_CC Hector_NNP proposed_VBD an_DT improved_VBN version_NN called_VBN ExLag_NNP with_IN a_DT polynomial_JJ time_NN complexity_NN by_IN employing_VBG several_JJ heuristics_NNS ._.
+There_EX are_VBP other_JJ works_NNS based_VBN on_IN tag_NN sequence-like_JJ data_NN structures_NNS =_JJ -_: =[_NN 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC still_RB encounter_VB similar_JJ problems_NNS ._.
+Overall_RB ,_, viewing_VBG a_DT Web_NN page_NN in_IN HTML_NNP as_IN a_DT tag_NN sequence_NN -LRB-_-LRB- single_JJ words_NNS and_CC tags_NNS -RRB-_-RRB- makes_VBZ the_DT pattern_NN detection_NN to_TO be_VB easier_JJR ,_, but_CC causes_VBZ handling_VBG nesting_JJ structures_NNS t_NN

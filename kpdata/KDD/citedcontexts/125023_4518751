@@ -1,0 +1,4 @@
+ost_FW per_FW test_NN example_NN at_IN different_JJ cost_NN ratios_NNS ,_, and_CC cost_NN curves_NNS ._.
+Our_PRP$ main_JJ goal_NN is_VBZ to_TO compare_VB the_DT classifiers_NNS in_IN terms_NNS of_IN reduction_NN in_IN the_DT expected_VBN cost_NN across_IN different_JJ cost_NN ratios_NNS ._.
+Drummond_NN and_CC Holte_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: introduced_VBD the_DT cost_NN space_NN representation_NN that_WDT allows_VBZ for_IN comparing_VBG different_JJ classifiers_NNS in_IN terms_NNS of_IN the_DT expected_VBN cost_NN ._.
+Let_VB p_NN -LRB-_-LRB- +_CC -RRB-_-RRB- be_VB the_DT prior_JJ probability_NN of_IN the_DT positive_JJ class_NN ,_, and_CC p_NN -LRB-_-LRB- -_: -RRB-_-RRB- be_VB the_DT prior_JJ

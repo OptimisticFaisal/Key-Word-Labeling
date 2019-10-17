@@ -1,0 +1,4 @@
+labels_NNS during_IN the_DT system_NN development_NN -LRB-_-LRB- 179_CD -RRB-_-RRB- ._.
+For_IN dynamic_JJ graphs_NNS ,_, tabular_JJ data_NNS presentations_NNS are_VBP used_VBN instead_RB -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 189_CD -RRB-_-RRB- -RRB-_-RRB- ,_, or_CC textual_JJ summaries_NNS can_MD be_VB automatically_RB generated_VBN from_IN the_DT data_NNS set_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 166_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Several_JJ problems_NNS exist_VBP in_IN such_JJ text-based_JJ speech_NN approaches_NNS ._.
+First_RB ,_, while_IN a_DT concise_JJ textual_JJ description_NN is_VBZ helpful_JJ ,_, the_DT data_NNS interaction_NN that_WDT is_VBZ a_DT critical_JJ part_NN of_IN the_DT data_NNS exploration_NN process_NN is_VBZ l_NN

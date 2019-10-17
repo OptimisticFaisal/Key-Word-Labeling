@@ -1,0 +1,3 @@
+primitive_JJ ,_, which_WDT allows_VBZ us_PRP relatively_RB easy_JJ use_NN of_IN -LRB-_-LRB- publicly_RB -RRB-_-RRB- available_JJ and_CC fairly_RB welloptimized_JJ code_NN ._.
+The_DT dynamic_JJ programming_NN approach_NN we_PRP develop_VBP is_VBZ tailored_VBN to_TO be_VB efficient_JJ in_IN the_DT stream_NN --_: sort_NN model_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, therefore_RB admits_VBZ implementations_NNS that_WDT require_VBP substantially_RB less_JJR memory_NN than_IN would_MD be_VB required_VBN to_TO hold_VB the_DT graph_NN ._.
+The_DT work_NN of_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- places_VBZ the_DT spotlight_NN on_IN streaming_NN and_CC sorting_NN as_IN general_JJ computation_NN

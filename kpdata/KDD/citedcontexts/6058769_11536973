@@ -1,0 +1,4 @@
+e_LS biological_JJ domain_NN ,_, a_DT latent_JJ topic_NN could_MD have_VB a_DT word_NN distribution_NN ,_, author_NN distribution_NN and_CC a_DT protein_NN mention_NN distribution_NN ._.
+We_PRP refer_VBP to_TO this_DT model_NN as_IN Link_NNP LDA_NNP following_VBG the_DT convention_NN established_VBN in_IN -LRB-_-LRB- =_JJ -_: =_JJ Nallapati_NNP et_FW al._FW ,_, 2008_CD -_: =--RRB-_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT model_NN ,_, Block-LDA_NN ,_, that_WDT jointly_RB generates_VBZ text_NN documents_NNS annotated_JJ with_IN entities_NNS and_CC relational_JJ data_NNS containing_VBG links_NNS between_IN pairs_NNS of_IN entities_NNS ._.
+The_DT model_NN merges_VBZ the_DT idea_NN

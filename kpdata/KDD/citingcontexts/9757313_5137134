@@ -1,0 +1,4 @@
+approximates_VBZ MLINA_NNP to_TO O_NN -LRB-_-LRB- √_CD log_NN n_NN log_NN log_NN n_NN -RRB-_-RRB- and_CC this_DT algorithm_NN is_VBZ not_RB practical_JJ for_IN large_JJ graphs_NNS ._.
+From_IN the_DT standpoint_NN of_IN the_DT hardness_NN of_IN approximation_NN ,_, only_RB the_DT existence_NN of_IN a_DT PTAS_NNP has_VBZ been_VBN ruled_VBN out_RP =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD can_MD not_RB hope_VB to_TO use_VB an_DT approximate_JJ solution_NN to_TO MLINA_NNP to_TO solve_VB MLOGA_NN since_IN we_PRP can_MD show_VB -LRB-_-LRB- see_VB Appendix_NN A_NN -RRB-_-RRB- that_IN these_DT problems_NNS are_VBP very_RB different_JJ in_IN their_PRP$ structure_NN ._.
+In_IN actually_RB compressing_VBG the_DT graph_NN

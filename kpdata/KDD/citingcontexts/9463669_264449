@@ -1,0 +1,5 @@
+ach_NN group_NN must_MD have_VB size_NN at_IN least_JJS k_NN -RRB-_-RRB- ._.
+For_IN each_DT group_NN ,_, certain_JJ exact_JJ statistics_NNS are_VBP calculated_VBN and_CC published_VBN ._.
+Partition-based_JJ schemes_NNS include_VBP k-anonymity_NN -LRB-_-LRB- 30_CD -RRB-_-RRB- as_RB well_RB as_IN several_JJ recent_JJ variants_NNS ,_, e.g._FW ,_, =_JJ -_: =[_NN 26_CD ,_, 23_CD ,_, 36_CD ,_, 27_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Because_IN they_PRP release_VBP exact_JJ information_NN ,_, partition-based_JJ schemes_NNS seem_VBP especially_RB vulnerable_JJ to_TO composition_NN attacks_NNS ._.
+In_IN the_DT first_JJ part_NN of_IN this_DT paper_NN we_PRP study_VBD a_DT simple_JJ instance_NN of_IN a_DT composition_NN attack_NN

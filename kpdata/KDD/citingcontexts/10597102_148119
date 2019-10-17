@@ -1,0 +1,6 @@
+-RRB-_-RRB- is_VBZ NP-hard_JJ ,_, so_IN we_PRP can_MD not_RB expect_VB to_TO find_VB the_DT optimal_JJ solution_NN :_: THEOREM_NN 2_CD ._.
+The_DT diffusion_NN network_NN inference_NN problem_NN defined_VBN by_IN equation_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- is_VBZ NP-hard_JJ ._.
+PROOF_NN ._.
+By_IN reduction_NN from_IN the_DT MAX-k-COVER_NN problem_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN MAX-k-COVER_NN ,_, we_PRP are_VBP given_VBN a_DT finite_JJ set_NN W_NN ,_, |_NN W_NN |_NN =_JJ n_NN and_CC a_DT collection_NN of_IN subsets_NNS S1_NN ,_, ..._: ,_, Sm_FW ⊆_FW W_NN ._.
+The_DT function_NN FMC_NNP -LRB-_-LRB- A_NNP -RRB-_-RRB- =_JJ |_FW ∪_FW i_FW ∈_NN A_NN Si_NNP |_NNP counts_VBZ the_DT number_NN of_IN elements_NNS of_IN W_NN covered_VBN by_IN sets_NNS indexed_VBN by_IN

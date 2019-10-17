@@ -1,0 +1,4 @@
+nd_IN the_DT rest_NN of_IN the_DT data_NNS as_IN the_DT negative_JJ examples_NNS ._.
+Each_DT SVM_NNP outputs_VBZ a_DT score_NN s_NN that_WDT is_VBZ mapped_VBN to_TO a_DT posterior_JJ probability_NN P_NN -LRB-_-LRB- y_NN |_CD s_NNS -RRB-_-RRB- according_VBG to_TO a_DT function_NN f_SYM -LRB-_-LRB- s_NNS -RRB-_-RRB- =_JJ P_NN -LRB-_-LRB- y_NN |_CD s_NNS -RRB-_-RRB- that_WDT is_VBZ learned_VBN from_IN training_NN data_NN =_JJ -_: =_JJ -LRB-_-LRB- ZE02_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT final_JJ predicted_VBN class_NN of_IN an_DT unlabeled_JJ data_NN point_NN is_VBZ given_VBN by_IN the_DT classifier_NN that_WDT produces_VBZ the_DT highest_JJS posterior_JJ probability_NN ._.
+Using_VBG the_DT DWCH_NN features_VBZ with_IN a_DT one-versus-all_JJ SVM_NN ,_, the_DT authors_NNS report_NN

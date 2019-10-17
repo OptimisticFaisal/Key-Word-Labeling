@@ -1,0 +1,3 @@
+good_JJ methods_NNS have_VBP been_VBN proposed_VBN for_IN SVMs_NNS with_IN structured_JJ outputs_NNS ,_, that_WDT also_RB specialize_VBP nicely_RB for_IN Crammer-Singer_NNP multi-class_JJ linear_JJ SVMs_NNS ._.
+Teo_NNP et_FW al._FW -LRB-_-LRB- 23_CD -RRB-_-RRB- suggested_VBD a_DT bundle_NN method_NN and_CC Joachims_NNPS et_FW al._FW =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: gave_VBD a_DT cutting_VBG plane_NN method_NN that_WDT is_VBZ very_RB close_JJ to_TO it_PRP ;_: these_DT methods_NNS can_MD be_VB viewed_VBN as_IN extensions_NNS of_IN the_DT method_NN given_VBN by_IN Joachims_NNP -LRB-_-LRB- 12_CD -RRB-_-RRB- for_IN binary_JJ linear_JJ SVMs_NNS ._.
+Collins_NNP et_FW al._FW -LRB-_-LRB- 4_CD -RRB-_-RRB- gave_VBD the_DT exponentiated_VBN

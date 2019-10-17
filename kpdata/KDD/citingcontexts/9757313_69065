@@ -1,0 +1,5 @@
+ng_NN history_NN ._.
+Blandford_NNP and_CC Blelloch_NNP -LRB-_-LRB- 4_CD -RRB-_-RRB- considered_VBN the_DT problem_NN of_IN compressing_VBG text_NN indexes_NNS by_IN permuting_VBG the_DT document_NN identifiers_NNS to_TO create_VB locality_NN in_IN an_DT inverted_JJ index_NN ._.
+Silvestri_NNP ,_, Perego_NNP ,_, and_CC Orlando_NNP =_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT clustering_NN approach_NN for_IN reassigning_VBG document_NN identifiers_NNS ._.
+Shieh_NNP et_FW al._FW -LRB-_-LRB- 24_CD -RRB-_-RRB- proposed_VBD a_DT document_NN identifier_NN reassignment_NN method_NN based_VBN on_IN a_DT heuristic_NN for_IN the_DT traveling_VBG salesman_NN problem_NN ._.
+Rece_NN

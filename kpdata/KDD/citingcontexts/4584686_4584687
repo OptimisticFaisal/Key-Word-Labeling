@@ -1,0 +1,5 @@
+his_PRP$ is_VBZ a_DT pre-print_JJ version_NN of_IN a_DT paper_NN accepted_VBN to_TO ACM_NNP SIGKDD_NNP ,_, 12-15_CD August_NNP 2007_CD ,_, San_NNP Jose_NNP ,_, USA_NNP ._.
+ample_JJ attention_NN ,_, both_CC in_IN the_DT database_NN and_CC in_IN the_DT data_NNS mining_NN community_NN ._.
+In_IN the_DT database_NN community_NN ,_, OLAP_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ the_DT prime_JJ example_NN ._.
+Using_VBG roll-up_JJ and_CC drill-down_JJ operations_NNS ,_, a_DT user_NN can_MD ,_, manually_RB ,_, investigate_VB ,_, e.g._FW ,_, the_DT difference_NN in_IN sales_NNS between_IN the_DT two_CD stores_NNS ._.
+Emerging_VBG pattern_NN mining_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- is_VBZ a_DT good_JJ example_NN f_SYM

@@ -1,0 +1,6 @@
+the_DT data_NNS ._.
+Such_JJ preprocessing_NN usually_RB also_RB takes_VBZ care_NN of_IN outliers_NNS ._.
+Preprocessing_NNP has_VBZ its_PRP$ drawbacks_NNS ._.
+It_PRP results_VBZ in_IN approximations_NNS that_WDT sometimes_RB negatively_RB affect_VB final_JJ cluster_NN quality_NN ._.
+Pelleg_NNP &_CC Moore_NNP =_SYM -_: =_JJ -LRB-_-LRB- PM99_NN -RRB-_-RRB- -_: =_SYM -_: suggested_VBD how_WRB to_TO directly_RB -LRB-_-LRB- without_IN any_DT squashing_NN -RRB-_-RRB- accelerate_VBP k-means_NN iterative_JJ process_NN by_IN utilizing_VBG KD-trees_NNS -LRB-_-LRB- see_VB -LRB-_-LRB- Moo99_NN -RRB-_-RRB- -RRB-_-RRB- ._.
+They_PRP also_RB proposed_VBD -LRB-_-LRB- PM00_NN -RRB-_-RRB- algorithm_NN X-means_NNS that_WDT in_IN addition_NN to_TO acceleratin_NN

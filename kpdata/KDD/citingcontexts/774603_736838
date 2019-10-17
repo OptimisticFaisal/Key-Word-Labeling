@@ -1,0 +1,4 @@
+5_CD -RRB-_-RRB- ,_, SAGE_NN libraries_NNS also_RB from_IN GEO_NN -LRB-_-LRB- GPL4_NN -RRB-_-RRB- ,_, and_CC cDNA_NN experiments_NNS from_IN SMD_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Affymetrix_NNP probes_NNS ,_, cDNA_NN clones_NNS and_CC SAGE_NN tags_NNS were_VBD normalized_VBN and_CC mapped_VBN to_TO gene\/protein_NN identifiers_NNS as_IN previously_RB reported_VBN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN comparison_NN with_IN existing_VBG algorithms_NNS ,_, two_CD small_JJ datasets_NNS ,_, SU_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, a_DT smaller_JJR dataset_NN of_IN Affymatrix_NN -LRB-_-LRB- HG-U95A_NN -RRB-_-RRB- experiments_NNS ,_, and_CC breast_NN cancer_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, were_VBD also_RB used_VBN ._.
+Table_NNP 1_CD lists_VBZ the_DT sizes_NNS of_IN these_DT

@@ -1,0 +1,4 @@
+tions_NNS for_IN the_DT two_CD measures_NNS ,_, where_WRB S_NN =_JJ -LRB-_-LRB- s1_NN ,_, s2_NN ,_, ..._: ,_, s_VBZ |_NNP S_NNP |_NNP -RRB-_-RRB- and_CC T_NN =_JJ -LRB-_-LRB- t1_NN ,_, t2_NN ,_, ..._: ,_, t_NN |_CD T_NN |_NN -RRB-_-RRB- and_CC |_CD S_NN |_NN =_JJ |_CD T_NN |_NN ._.
+The_DT recommendations_NNS of_IN each_DT measure_NN are_VBP combined_VBN by_IN Joachims_NNP '_POS ``_`` Combined_NNP Ranking_NNP ''_'' algorithm_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, restated_VBN in_IN Figure_NNP 1_CD ._.
+The_DT resulting_VBG list_NN is_VBZ guaranteed_VBN to_TO contain_VB the_DT top_JJ kS_NN and_CC kT_NN recommendations_NNS for_IN each_DT measure_NN ,_, where_WRB kT_NN ≤_FW kS_FW ≤_FW kT_NN +_CC 1_CD -LRB-_-LRB- 7_CD ,_, Theorem_NNP 1_CD -RRB-_-RRB- ._.
+3.2_CD Measurements_NNP Whenever_NNP a_DT user_NN visited_VBD

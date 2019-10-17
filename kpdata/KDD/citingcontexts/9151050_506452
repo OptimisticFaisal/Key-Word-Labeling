@@ -1,0 +1,4 @@
+ide_VB these_DT data_NNS stream_NN methods_NNS in_IN two_CD different_JJ classes_NNS depending_VBG on_IN whether_IN they_PRP use_VBP a_DT landmark_NN window_NN or_CC a_DT sliding_VBG window_NN ._.
+Only_RB a_DT small_JJ part_NN of_IN these_DT methods_NNS deal_VBP with_IN frequent_JJ closed_JJ mining_NN ._.
+Moment_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, CFI-Stream_JJ -LRB-_-LRB- 13_CD -RRB-_-RRB- and_CC IncMine_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- are_VBP the_DT state-of-art_JJ algorithms_NNS for_IN mining_NN frequent_JJ closed_JJ itemsets_NNS over_IN a_DT sliding_VBG window_NN ._.
+CFI-Stream_JJ stores_NNS only_RB closed_VBD itemsets_NNS in_IN memory_NN ,_, but_CC it_PRP must_MD maintain_VB all_DT

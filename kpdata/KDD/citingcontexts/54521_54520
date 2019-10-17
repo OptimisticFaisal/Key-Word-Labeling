@@ -1,0 +1,4 @@
+y_NN taken_VBN to_TO calculate_VB it_PRP ._.
+In_IN previous_JJ work_NN -LRB-_-LRB- -LRB-_-LRB- 18_CD -RRB-_-RRB- -RRB-_-RRB- we_PRP have_VBP introduced_VBN a_DT maximum_JJ entropy\/Markov_NN random_JJ field_NN approach_NN for_IN building_VBG PM_NNP -LRB-_-LRB- Q_NNP -RRB-_-RRB- for_IN selectivity_NN estimation_NN and_CC further_RB extended_VBD these_DT results_NNS in_IN =_JJ -_: =[_NN 23_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN we_PRP mainly_RB focus_VB on_IN the_DT query_NN generalization_NN problem_NN ,_, i.e._FW the_DT problem_NN of_IN predicting_VBG the_DT frequency_NN of_IN a_DT given_VBN query_NN in_IN the_DT unseen_JJ data_NNS ._.
+We_PRP claim_VBP that_IN probabilistic_JJ models_NNS ranging_VBG from_IN t_NN

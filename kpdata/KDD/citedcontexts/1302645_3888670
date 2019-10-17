@@ -1,0 +1,4 @@
+ets_NN of_IN parameters_NNS ._.
+Other_JJ clustering_NN methods_NNS that_WDT use_VBP similar_JJ parameters_NNS include_VBP DENCLUE_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+To_TO overcome_VB the_DT problem_NN of_IN lacking_VBG prior_JJ knowledge_NN ,_, size-based_JJ approaches_NNS ,_, like_IN Birch_NNP -LRB-_-LRB- 17_CD -RRB-_-RRB- and_CC RandomWalk_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, perform_VB cluster_NN analysis_NN on_IN data_NNS sets_NNS first_RB and_CC then_RB produce_VBP clusters_NNS of_IN small_JJ sizes_NNS as_IN noise_NN ._.
+Birch_NNP regards_VBZ clusters_NNS with_IN sizes_NNS less_JJR than_IN 1\/4_CD average_NN as_IN noise_NN while_IN RandowWalk_NN uses_VBZ half_NN of_IN the_DT aver_NN

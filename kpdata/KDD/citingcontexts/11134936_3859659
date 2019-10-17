@@ -1,0 +1,4 @@
+he_PRP learned_VBD tree_NN ._.
+The_DT approach_NN we_PRP use_VBP exploits_VBZ contextual_JJ information_NN from_IN neighbors_NNS in_IN addition_NN to_TO local_JJ features_NNS to_TO determine_VB which_WDT saplings_NNS to_TO merge_VB ._.
+The_DT approach_NN is_VBZ similar_JJ to_TO relational_JJ clustering_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: and_CC its_PRP$ basic_JJ element_NN is_VBZ the_DT similarity_NN measure_NN between_IN a_DT pair_NN of_IN nodes_NNS ._.
+We_PRP define_VBP a_DT similarity_NN measure_NN which_WDT combines_VBZ heterogeneous_JJ evidence_NN available_JJ in_IN the_DT structured_JJ social_JJ metadata_NN ,_, and_CC is_VBZ a_DT com_NN

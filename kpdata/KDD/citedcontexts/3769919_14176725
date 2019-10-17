@@ -1,0 +1,4 @@
+we_PRP generalize_VBP to_TO sets_NNS of_IN objects_NNS ._.
+Different_JJ types_NNS of_IN random_JJ walks_VBZ are_VBP commonly_RB used_VBN in_IN graph_NN mining_NN to_TO measure_VB the_DT relatedness_NN between_IN nodes_NNS in_IN a_DT graph_NN ._.
+For_IN example_NN ,_, in_IN the_DT work_NN by_IN Tong_NNP and_CC Faloutsos_NNP =_SYM -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB in_IN a_DT social_JJ network_NN the_DT goal_NN is_VBZ to_TO find_VB subgraphs_NNS that_WDT are_VBP '_'' best_JJS '_'' connected_VBN with_IN some_DT given_VBN query_NN nodes_NNS ._.
+In_IN Pang_NNP et_FW al._FW -LRB-_-LRB- 18_CD -RRB-_-RRB- the_DT aim_NN is_VBZ ,_, given_VBN a_DT multimedia_NNS collection_NN ,_, to_TO automatically_RB assign_VB

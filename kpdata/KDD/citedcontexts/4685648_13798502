@@ -1,0 +1,6 @@
+y_NN requirement_NN is_VBZ dominated_VBN by_IN N_NN 2_CD -LRB-_-LRB- to_TO store_VB the_DT covariance_NN matrix_NN Σ_NN -RRB-_-RRB- ._.
+3_LS ._.
+NUMERICAL_JJ EXPERIMENTS_NNS 3.1_CD ._.
+Experimental_JJ Protocols_NNS The_DT experimental_JJ protocols_NNS strictly_RB follow_VBP those_DT described_VBN in_IN the_DT literature_NN =_JJ -_: =[_NN 4_CD ,_, 7_CD ,_, 8_CD ,_, 10_CD ,_, 12_CD ,_, 14_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT proposed_VBN method_NN is_VBZ evaluated_VBN on_IN two_CD movie_NN rating_NN prediction_NN benchmark_JJ datasets_NNS ,_, the_DT EachMovie_NNP dataset_NN and_CC the_DT 1M_NNP MovieLens_NNP dataset_NN ._.
+2_CD Two_CD test_NN protocols_NNS ,_, the_DT so-called_JJ ``_`` weak_JJ generalization_NN ''_'' and_CC

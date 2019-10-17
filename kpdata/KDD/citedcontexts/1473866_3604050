@@ -1,0 +1,5 @@
+ng_NN commissioners_NNS ._.
+2.3_CD Duplicate_NN Detection_NN The_DT problem_NN of_IN finding_VBG approximate_JJ duplicate_VBP items_NNS has_VBZ been_VBN researched_VBN before_RB in_IN both_CC the_DT contexts_NNS of_IN data_NNS management_NN ,_, and_CC Web_NN applications_NNS ._.
+The_DT work_NN done_VBN in_IN =_JJ -_: =[_NN 2_CD ,_, 8_CD ,_, 27_CD ,_, 40_CD ,_, 46_CD ,_, 52_CD ,_, 53_CD ,_, 55_CD -RRB-_-RRB- -_: =_SYM -_: focused_VBN on_IN detecting_VBG fuzzy_JJ duplicate_VBP records_NNS in_IN databases_NNS ._.
+These_DT works_NNS were_VBD primarily_RB motivated_VBN by_IN data_NNS cleaning_VBG in_IN the_DT process_NN of_IN loading_VBG data_NNS into_IN a_DT data_NN warehouse_NN ._.
+On_IN the_DT other_JJ end_NN of_IN the_DT spectrum_NN

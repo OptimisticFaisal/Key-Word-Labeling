@@ -1,0 +1,5 @@
+ω_NN ._.
+SDP_NN is_VBZ a_DT hot_JJ research_NN field_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- in_IN recent_JJ years_NNS ,_, and_CC many_JJ fast_JJ iterative_JJ algorithms_NNS have_VBP been_VBN designed_VBN to_TO solve_VB it_PRP -LRB-_-LRB- 13_CD -RRB-_-RRB- -LRB-_-LRB- 16_CD -RRB-_-RRB- -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+For_IN example_NN ,_, an_DT interior-point_JJ method_NN SDPA_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- was_VBD implemented_VBN in_IN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: for_IN solving_VBG the_DT standard_JJ form_NN SDP_NN and_CC its_PRP$ dual_JJ problem_NN ._.
+We_PRP could_MD use_VB it_PRP to_TO compute_VB an_DT efficient_JJ solution_NN to_TO the_DT optimization_NN problem_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+To_TO summarize_VB ,_, our_PRP$ algorithm_NN to_TO solve_VB the_DT co-clustering_NN of_IN tr_NN

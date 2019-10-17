@@ -1,0 +1,3 @@
+lgorithm_NN of_IN Section_NN 5.1_CD is_VBZ linear_JJ to_TO n_NN ;_: hence_RB ,_, for_IN sufficiently_RB large_JJ n_NN ,_, it_PRP outpaces_VBZ the_DT nearquadratic_JJ restricted_JJ Haar_NNP algorithm_NN ._.
+For_IN an_DT appropriate_JJ value_NN of_IN δ_NN ,_, it_PRP produces_VBZ better_JJR synopses_NNS too_RB -LRB-_-LRB- as_IN in_IN =_JJ -_: =[_NN 12_CD ,_, 13_CD ,_, 21_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Hence_RB ,_, our_PRP$ algorithm_NN for_IN the_DT error-bounded_JJ problem_NN not_RB only_RB provides_VBZ the_DT basis_NN for_IN a_DT more_RBR efficient_JJ solution_NN to_TO the_DT dual_JJ space-bounded_JJ problem_NN ,_, but_CC treats_VBZ the_DT error-bounded_JJ problem_NN itself_PRP more_JJR effi_NNS

@@ -1,0 +1,5 @@
+ld_RB be_VB to_TO score_VB a_DT document_NN the_DT higher_JJR the_DT more_RBR often_RB it_PRP was_VBD accessed_VBN ._.
+A_DT more_JJR ``_`` clever_JJ ''_'' version_NN would_MD be_VB to_TO regard_VB the_DT accessed_VBN documents_NNS in_IN context_NN ._.
+One_CD option_NN would_MD be_VB to_TO use_VB the_DT query_NN as_IN the_DT context_NN -LRB-_-LRB- =_JJ -_: =_JJ Joachims_NNP 2002_CD -_: =_JJ -_: ;_: Radlinski_NNP &_CC Joachims_NNP 2005_CD ;_: Xue_NNP et_FW al._FW 2004_CD -RRB-_-RRB- ._.
+If_IN a_DT document_NN is_VBZ often_RB accessed_VBN in_IN context_NN of_IN a_DT query_NN ,_, then_RB it_PRP is_VBZ more_RBR relevant_JJ than_IN others_NNS ,_, but_CC only_RB in_IN this_DT context_NN ._.
+Another_DT option_NN would_MD be_VB to_TO use_VB the_DT

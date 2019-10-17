@@ -1,0 +1,4 @@
+Succinct_JJ summarization_NN of_IN transactional_JJ databases_NNS :_: an_DT overlapped_JJ hyperrectangle_NN scheme_NN
+lso_JJ ETIs_NNS have_VBP a_DT number_NN of_IN drawbacks_NNS :_: they_PRP are_VBP too_RB many_JJ ,_, and_CC they_PRP contain_VBP a_DT lot_NN of_IN spurious_JJ itemsets_NNS containing_VBG only_RB noisy_JJ occurrences_NNS ._.
+Among_IN the_DT dataset_JJ tiling_NN techniques_NNS ,_, a_DT recent_JJ proposal_NN is_VBZ Hyper_JJ +_CC =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT tries_VBZ to_TO cover_VB with_IN at_IN most_JJS K_NN pattern_NN every_DT item_NN occurring_VBG in_IN the_DT dataset_NN ._.
+Since_IN the_DT algorithm_NN assumes_VBZ that_IN no_DT noise_NN is_VBZ present_JJ ,_, it_PRP tries_VBZ to_TO cover_VB every_DT noisy_JJ bits_NNS as_RB well_RB ,_, and_CC thus_RB fails_VBZ in_FW f_FW

@@ -1,0 +1,4 @@
+so_RB large_JJ that_IN no_DT efficient_JJ algorithm_NN exists_VBZ to_TO enumerate_VB all_DT of_IN them_PRP ._.
+This_DT case_NN occurs_VBZ ,_, for_IN instance_NN ,_, for_IN very_RB low_JJ minimum_JJ support_NN thresholds_NNS and_CC for_IN highly_RB correlated_VBN data_NNS ._.
+A_DT concise_JJ representation_NN =_JJ -_: =[_NN 7_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: of_IN frequent_JJ itemsets_NNS is_VBZ a_DT lossless_JJ representation_NN ,_, typically_RB consisting_VBG in_IN a_DT subset_NN of_IN F_NN ,_, that_WDT addresses_VBZ the_DT problem_NN ._.
+By_IN lossless_JJ representation_NN ,_, one_CD means_VBZ that_IN starting_VBG from_IN it_PRP :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- frequent_JJ itemset_NN

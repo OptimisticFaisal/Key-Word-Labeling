@@ -1,0 +1,3 @@
+ers_NNPS where_WRB the_DT similarity_NN of_IN the_DT seeds_NNS in_IN the_DT corresponding_JJ partitions_NNS is_VBZ higher_JJR than_IN a_DT predefined_JJ value_NN -LRB-_-LRB- denoted_VBN by_IN threshold_NN -RRB-_-RRB- ._.
+The_DT merging_JJ process_NN is_VBZ implemented_VBN using_VBG a_DT simple_JJ single_JJ linkage_NN method_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Each_DT cluster_NN is_VBZ represented_VBN by_IN a_DT node_NN in_IN an_DT undirected_JJ graph_NN ,_, and_CC an_DT edge_NN is_VBZ added_VBN between_IN the_DT two_CD nodes_NNS if_IN the_DT similarity_NN of_IN the_DT seeds_NNS of_IN the_DT corresponding_JJ clusters_NNS is_VBZ larger_JJR than_IN the_DT predefined_VBN th_DT

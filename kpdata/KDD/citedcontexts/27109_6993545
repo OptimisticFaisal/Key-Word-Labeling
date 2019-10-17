@@ -1,0 +1,6 @@
+hted_JJ graph_NN between_IN the_DT genes_NNS ._.
+So_RB we_PRP use_VBP a_DT graph_NN partitioning_VBG software_NN to_TO partition_NN this_DT graph_NN into_IN clusters_NNS ._.
+We_PRP can_MD also_RB construct_VB a_DT word_NN by_IN document_NN bi-partite_JJ graph_NN from_IN A_NNP and_CC run_VB the_DT Co-clustering_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: algorithm_NN on_IN it_PRP ._.
+1sAfter_NN obtaining_VBG a_DT clustering_NN of_IN the_DT data_NNS the_DT problem_NN of_IN validating_VBG the_DT clusters_NNS remains_VBZ ._.
+We_PRP use_VBP the_DT control_NN words_NNS from_IN the_DT file_NN yeast_NN gene_NN names_NNS to_TO validate_VB the_DT clusters_NNS ._.
+Essential_JJ

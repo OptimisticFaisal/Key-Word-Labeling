@@ -1,0 +1,5 @@
+xtra_FW X-Trace_FW metadata_FW parameter_NN following_VBG the_DT call_NN path_NN from_IN receiving_VBG the_DT message_NN until_IN sending_VBG it_PRP ._.
+Instrumenting_VBG concurrency_NN libraries_NNS and_CC runtime_NN environments_NNS may_MD ease_VB or_CC automate_VB this_DT propagation_NN =_JJ -_: =[_NN 9_CD ,_, 20_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP are_VBP currently_RB adding_VBG X-Trace_NN support_NN for_IN libasync_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+Original_NNP Forwarding_NNP Code_NNP forwardMessage_NN -LRB-_-LRB- msg_NN -RRB-_-RRB- dest_NN =_JJ nextHop_NN -LRB-_-LRB- msg_NN -RRB-_-RRB- lowerLayer_NN ._.
+send_VB -LRB-_-LRB- msg_NN ,_, dest_NN -RRB-_-RRB- With_IN added_VBN X-Trace_NN Propagation_NN forwardMessage_NN -LRB-_-LRB- ms_NN

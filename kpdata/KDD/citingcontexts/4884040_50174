@@ -1,0 +1,4 @@
+;_: in_IN tri-partite_JJ graphs_NNS for_IN taxonomy_NN mining_NN ,_, it_PRP is_VBZ based_VBN on_IN categories_NNS whose_WP$ clusters_NNS provide_VBP the_DT taxonomy_NN structures_NNS ._.
+For_IN performance_NN measure_NN ,_, we_PRP elect_VBP to_TO use_VB the_DT Normalized_NNP Mutual_NNP Information_NNP -LRB-_-LRB- NMI_NNP -RRB-_-RRB- =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ a_DT standard_JJ way_NN to_TO measure_VB the_DT cluster_NN quality_NN ._.
+6.2_CD Results_NNS and_CC Discussion_NNP Table_NNP 6_CD shows_VBZ the_DT NMI_NNP scores_NNS of_IN the_DT nine_CD algorithms_NNS on_IN the_DT bi-partite_JJ graphs_NNS ._.
+For_IN the_DT BP-b1_NN graph_NN ,_, all_PDT the_DT algorith_NN

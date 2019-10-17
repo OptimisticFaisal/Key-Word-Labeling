@@ -1,0 +1,4 @@
+pages_NNS two_CD links_NNS away_RB do_VBP not_RB belong_VB in_IN the_DT community_NN due_JJ to_TO the_DT rapid_JJ branching_VBG factor_NN of_IN the_DT web_NN ._.
+Intuitively_RB ,_, our_PRP$ method_NN of_IN using_VBG a_DT virtual_JJ sink_NN is_VBZ very_RB similar_JJ to_TO methods_NNS used_VBN in_IN image_NN segmentation_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT maximumsow_NN formulation_NN of_IN image_NN segmentation_NN ,_, adjacent_JJ pixels_NNS are_VBP connected_VBN with_IN edge_NN capacities_NNS as_IN a_DT function_NN of_IN gray_JJ level_NN similarity_NN ._.
+All_DT pixels_NNS on_IN the_DT perimeter_NN of_IN an_DT image_NN are_VBP connected_VBN

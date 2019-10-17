@@ -1,0 +1,5 @@
+r_LS Yahoo_NNP 's_POS directory_NN ._.
+A_DT sample_NN of_IN this_DT directory_NN can_MD be_VB generated_VBN by_IN visiting_VBG http:\/\/random.yahoo.com\/bin\/ryl_NN ._.
+We_PRP also_RB drew_VBD from_IN two_CD sources_NNS for_IN URLs_NNS to_TO malicious_JJ sites_NNS :_: PhishTank_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- and_CC Spamscatter_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+PhishTank_NNP is_VBZ a_DT blacklist_NN of_IN phishing_VBG URLs_NNS consisting_VBG of_IN manually-verified_JJ user_NN contributions_NNS ._.
+Spamscatter_NNP is_VBZ a_DT spam_NN collection_NN infrastructure_NN from_IN which_WDT we_PRP extract_VBP URLs_NNS from_IN the_DT bodies_NNS of_IN those_DT mess_NN

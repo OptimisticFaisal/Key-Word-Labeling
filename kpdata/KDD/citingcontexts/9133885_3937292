@@ -1,0 +1,3 @@
+ort_NN vector_NN decomposition_NN machine_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- :_: in_IN SVDMs_NNS ,_, the_DT features_NNS X_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- are_VBP factored_JJ under_IN squared_VBN loss_NN ,_, while_IN the_DT labels_NNS X_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- are_VBP factored_JJ under_IN Hinge_NN loss_NN ._.
+A_DT similar_JJ model_NN was_VBD proposed_VBN by_IN Zhu_NNP et_FW al._FW =_SYM -_: =[_NN 37_CD -RRB-_-RRB- -_: =_JJ -_: ,_, using_VBG a_DT once-differentiable_JJ variant_NN of_IN the_DT Hinge_NNP loss_NN ._.
+Another_DT example_NN is_VBZ supervised_VBN LSI_NNP -LRB-_-LRB- 35_CD -RRB-_-RRB- ,_, which_WDT factors_NNS both_CC the_DT data_NNS and_CC label_NN matrices_NNS under_IN squared_VBN loss_NN ,_, with_IN an_DT orthogonality_NN constraint_NN on_IN

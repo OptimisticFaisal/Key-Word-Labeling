@@ -1,0 +1,3 @@
+Recognition_NN -LRB-_-LRB- NER_NN -RRB-_-RRB- ,_, which_WDT is_VBZ concerned_VBN with_IN identifying_VBG the_DT names_NNS of_IN persons_NNS ,_, organizations_NNS ,_, locations_NNS ,_, expressions_NNS of_IN times_NNS ,_, quantities_NNS ,_, ..._: etc._NN -LRB-_-LRB- Chinchor_NNP ,_, 1999_CD ;_: Maynard_NNP et_FW al._FW ,_, 2001_CD ;_: Sekine_NNP ,_, 2004_CD ;_: =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =--RRB-_NN ._.
+The_DT NER_NN task_NN is_VBZ challenging_VBG due_JJ to_TO the_DT ambiguity_NN of_IN natural_JJ language_NN and_CC to_TO the_DT lack_NN of_IN uniformity_NN in_IN writing_VBG styles_NNS and_CC vocabulary_NN used_VBN across_IN documents_NNS -LRB-_-LRB- Solorio_NNP ,_, 2004_CD -RRB-_-RRB- ._.
+Beyond_IN NER_NN ,_, considerable_JJ w_NN

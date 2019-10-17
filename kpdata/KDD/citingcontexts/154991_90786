@@ -1,0 +1,5 @@
+t_NN the_DT true_JJ recall_NN ,_, it_PRP does_VBZ provide_VB a_DT relative_JJ ranking_NN of_IN the_DT algorithms_NNS used_VBN to_TO construct_VB the_DT pool_NN of_IN target_NN senses_NNS ._.
+The_DT overall_JJ recall_NN is_VBZ the_DT average_JJ recall_NN of_IN all_DT words_NNS ._.
+5.4_CD F-measure_NN The_DT F-measure_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: combines_VBZ precision_NN and_CC recall_NN aspects_NNS :_: RP_NN F_NN =_JJ R_NN +_CC P_NN 2_CD where_WRB R_NN is_VBZ the_DT recall_NN and_CC P_NN is_VBZ the_DT precision_NN ._.
+F_NN weights_NNS low_JJ values_NNS of_IN precision_NN and_CC recall_NN more_RBR heavily_RB than_IN higher_JJR values_NNS ._.
+It_PRP is_VBZ high_JJ when_WRB both_DT

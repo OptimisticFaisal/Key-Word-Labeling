@@ -1,0 +1,5 @@
+e._NN 1_CD ._.
+Introduction_NN Dimensionality_NN reduction_NN is_VBZ an_DT important_JJ procedure_NN in_IN various_JJ high-dimensional_JJ data_NNS analysis_NN problems_NNS ._.
+Applications_NNS range_VBP from_IN image_NN compression_NN -LRB-_-LRB- Ye_NN et_FW al._FW ,_, 2004_CD -RRB-_-RRB- to_TO visualization_NN -LRB-_-LRB- =_JJ -_: =_JJ Vlachos_NNP et_FW al._FW ,_, 2002_CD -_: =--RRB-_NN ._.
+Often_RB the_DT data_NN lies_VBZ on_IN a_DT low_JJ dimensional_JJ manifold_NN embedded_VBN in_IN a_DT high_JJ dimensional_JJ space_NN and_CC the_DT dimensionality_NN of_IN the_DT data_NNS can_MD be_VB reduced_VBN without_IN significant_JJ loss_NN of_IN information_NN ._.
+However_RB ,_, in_IN many_JJ ca_MD

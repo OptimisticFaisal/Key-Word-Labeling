@@ -1,0 +1,4 @@
+quickly_RB ._.
+Traditional_JJ query_NN recommendation_NN approaches_NNS mainly_RB focused_VBD on_IN recommending_VBG alternative_JJ queries_NNS with_IN close_JJ search_NN intent_NN to_TO the_DT original_JJ query_NN ._.
+Query_NNP logs_NNS are_VBP widely_RB used_VBN in_IN these_DT approaches_NNS =_JJ -_: =[_NN 2_CD ,_, 15_CD ,_, 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB similar_JJ queries_NNS are_VBP identified_VBN based_VBN on_IN users_NNS '_POS historical_JJ behavior_NN and_CC used_VBN as_IN recommendations_NNS for_IN each_DT other_JJ ._.
+However_RB ,_, to_TO only_RB take_VB relevance\/similarity_NN into_IN account_NN may_MD generate_VB redundant_JJ re_NN

@@ -1,0 +1,4 @@
+ssifier_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, which_WDT is_VBZ a_DT multinomial_JJ generalization_NN of_IN logistic_JJ regression_NN ._.
+We_PRP use_VBP the_DT LDA_NNP and_CC MaxEnt_NNP implementations_NNS in_IN the_DT MALLET_NNP toolkit_NN 2_CD ,_, with_IN a_DT slight_JJ modification_NN of_IN the_DT optimization_NN procedure_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT enables_VBZ us_PRP to_TO train_VB a_DT MaxEnt_NNP model_NN from_IN class_NN distributions_NNS rather_RB than_IN a_DT single_JJ class_NN label_NN ._.
+We_PRP refer_VBP to_TO this_DT as_IN the_DT Topic_NNP Method_NNP ._.
+2_CD http:\/\/mallet.cs.umass.eduLearning_NN to_TO Tag_NNP from_IN Open_NNP Vocabu_NNP

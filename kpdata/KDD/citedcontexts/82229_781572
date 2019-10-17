@@ -1,0 +1,4 @@
+applications_NNS ,_, such_JJ as_IN video_NN surveillance_NN ._.
+One_CD of_IN the_DT most_RBS popular_JJ on-line_JJ segmentation_NN algorithms_NNS for_IN temporal_JJ trajectories_NNS is_VBZ the_DT Sliding_VBG Window_NN -LRB-_-LRB- SW_NN -RRB-_-RRB- algorithm_NN based_VBN on_IN the_DT Sliding_NNP Window_NNP principle_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Piecewise_NNP Linear_NNP Approximation_NNP ._.
+However_RB ,_, the_DT Sliding_NNP Window_NNP algorithm_NN tends_VBZ to_TO over-segment_NN -LRB-_-LRB- 8_CD ,_, 9_CD ,_, 14_CD -RRB-_-RRB- ._.
+One_CD possible_JJ explanation_NN is_VBZ that_IN the_DT Sliding_NNP Window_NNP algorithm_NN lacks_VBZ a_DT global_JJ view_NN of_IN the_DT da_NN

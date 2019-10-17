@@ -1,0 +1,5 @@
+tion_NN loss_NN can_MD be_VB measured_VBN by_IN the_DT uncertainty_NN introduced_VBN by_IN the_DT generalization_NN ._.
+Technically_NNP ,_, we_PRP adopt_VBP the_DT uncertainty_NN penalty_NN measure_NN of_IN information_NN loss_NN which_WDT is_VBZ also_RB used_VBN in_IN previous_JJ studies_NNS such_JJ as_IN =_JJ -_: =[_NN 37_CD ,_, 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, since_IN it_PRP can_MD handle_VB both_CC numeric_JJ and_CC categorical_JJ attributes_NNS in_IN a_DT uniform_JJ way_NN ._.
+For_IN static_JJ data_NNS ,_, we_PRP have_VBP the_DT following_JJ definition_NN ._.
+Definition_NN 2_CD -LRB-_-LRB- Uncertainty_NN penalty_NN --_: static_JJ data_NNS -RRB-_-RRB- ._.
+Suppose_VB table_NN T_NN is_VBZ

@@ -1,0 +1,4 @@
+and_CC should_MD still_RB provide_VB privacy_NN guarantees_NNS even_RB when_WRB subjected_VBN to_TO joint_JJ analysis_NN ._.
+The_DT issue_NN of_IN composition_NN underlies_VBZ many_JJ of_IN the_DT shortcomings_NNS of_IN current_JJ privacy_NN guarantees_NNS ._.
+For_IN example_NN ,_, Ganta_NNP et_FW al._FW =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: show_VBP that_IN independent_JJ k-anonymizations_NNS of_IN intersecting_VBG data_NNS sets_NNS can_MD leak_NN volumes_NNS of_IN sensitive_JJ data_NNS ._.
+Here_RB we_PRP review_VBP two_CD prior_JJ results_NNS on_IN the_DT composition_NN properties_NNS of_IN differential_JJ privacy_NN ,_, one_CD with_IN a_DT

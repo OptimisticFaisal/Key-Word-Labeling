@@ -1,0 +1,3 @@
+mproved_VBD the_DT precision_NN results_VBZ 14.7_CD %_NN ..._: 58.3_CD %_NN on_IN all_PDT the_DT test_NN sets_NNS ._.
+The_DT difficulties_NNS encountered_VBN during_IN the_DT selection_NN of_IN the_DT optimal_JJ dimension_NN for_IN LSA_NNP is_VBZ a_DT well-reported_JJ problem_NN -LRB-_-LRB- Landauer_NNP et_FW al._FW ,_, 1998_CD ;_: =_JJ -_: =_JJ Bingham_NNP and_CC Mannila_NNP ,_, 2001_CD -_: =_JJ -_: ;_: Globerson_NNP and_CC Tishby_NNP ,_, 2003_CD -RRB-_-RRB- ,_, and_CC the_DT selection_NN is_VBZ typically_RB performed_VBN by_IN ad_FW hoc_FW heuristics_NNS ._.
+Blei_NNP et_FW al._FW -LRB-_-LRB- 2003_CD -RRB-_-RRB- have_VBP shown_VBN that_IN LDA_NN outperforms_VBZ PLSA_NN in_IN document_NN classification_NN and_CC collaborative_JJ filte_NN

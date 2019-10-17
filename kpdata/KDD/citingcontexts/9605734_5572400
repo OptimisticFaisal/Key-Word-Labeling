@@ -1,0 +1,4 @@
+eatures_NNS were_VBD learned_VBN using_VBG clickthrough_JJ data_NNS from_IN logs_NNS ._.
+Their_PRP$ work_NN demonstrated_VBD that_IN simple_JJ syntactic_JJ and_CC semantic_JJ textual_JJ relevance_NN features_NNS can_MD be_VB predictive_JJ of_IN clickthrough_JJ rate_NN ._.
+Piwowarski_NNP et_FW al._FW =_SYM -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: modeled_VBN user_NN clickthrough_NN on_IN search_NN results_NNS using_VBG specific_JJ click_VBP history_NN -LRB-_-LRB- e.g._FW ,_, from_IN users_NNS -RRB-_-RRB- or_CC more_RBR general_JJ click_VBP history_NN features_NNS -LRB-_-LRB- e.g._FW ,_, from_IN user_NN communities_NNS or_CC global_JJ history_NN -RRB-_-RRB- ._.
+Agichtein_NNP et_FW al._FW -LRB-_-LRB- 1_CD

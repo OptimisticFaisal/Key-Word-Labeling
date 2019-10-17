@@ -1,0 +1,4 @@
+until_IN no_DT further_JJ partition_NN is_VBZ possible_JJ ._.
+Among_IN them_PRP ,_, Mondrian_NNP -LRB-_-LRB- 9_CD -RRB-_-RRB- is_VBZ a_DT well-known_JJ one_NN ,_, which_WDT selects_VBZ the_DT dimension_NN with_IN widest_JJS range_NN and_CC partition_NN based_VBN on_IN median_NN of_IN selected_VBN dimension_NN ._.
+Utility_NNP based_VBD =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ another_DT one_NN ,_, which_WDT selects_VBZ two_CD farthest_JJS points_NNS as_IN seeds_NNS and_CC form_NN two_CD partitions_NNS based_VBN on_IN nearest_JJS neighbor_NN ._.
+However_RB ,_, utility_NN based_JJ partition_NN is_VBZ not_RB rectangle_NN constrained_VBN and_CC unsuitable_JJ for_IN our_PRP$ prob_NN

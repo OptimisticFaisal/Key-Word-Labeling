@@ -1,0 +1,5 @@
+tion_NN from_IN the_DT published_VBN data_NNS ._.
+Below_IN we_PRP discuss_VBP suitable_JJ information_NN loss_NN metrics_NNS ._.
+2.1_CD Information_NNP Loss_NN Metrics_NNS A_DT variety_NN of_IN information_NN loss_NN metrics_NNS have_VBP been_VBN proposed_VBN ._.
+The_DT Classification_NN Metric_NNP -LRB-_-LRB- CM_NN -RRB-_-RRB- =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ suitable_JJ when_WRB the_DT purpose_NN of_IN the_DT anonymized_VBN data_NN is_VBZ to_TO train_VB a_DT classifier_NN ._.
+Each_DT record_NN is_VBZ assigned_VBN a_DT class_NN label_NN ,_, and_CC information_NN loss_NN is_VBZ computed_VBN based_VBN on_IN the_DT adherence_NN of_IN a_DT tuple_NN to_TO the_DT majority_NN

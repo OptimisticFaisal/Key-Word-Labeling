@@ -1,0 +1,4 @@
+the_DT realworld_NN applications_NNS dictates_VBZ the_DT need_NN for_IN a_DT more_RBR compact_JJ representation_NN of_IN time_NN series_NN than_IN the_DT raw_JJ data_NNS itself_PRP ._.
+A_DT plethora_NN of_IN representations_NNS have_VBP been_VBN proposed_VBN for_IN time_NN series_NN approximation_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT problem_NN of_IN approximating_VBG time_NN series_NN becomes_VBZ more_RBR interesting_JJ and_CC challenging_JJ in_IN the_DT context_NN of_IN streaming_NN time_NN series_NN ,_, where_WRB data_NN values_NNS are_VBP continuously_RB generated_VBN ._.
+In_IN this_DT situation_NN ,_, we_PRP can_MD not_RB

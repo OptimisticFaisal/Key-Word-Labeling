@@ -1,0 +1,7 @@
+ul_IN pruning_NN methods_NNS ._.
+Several_JJ experiments_NNS are_VBP performed_VBN on_IN real-life_JJ microarray_NN data_NNS to_TO show_VB that_IN the_DT new_JJ algorithms_NNS are_VBP much_RB faster_RBR than_IN the_DT existing_VBG algorithms_NNS ,_, including_VBG CLOSET_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, CHARM_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, CLOSET_NN +_CC =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: and_CC CARPENTER_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+2_CD ._.
+Problem_NNP definition_NN and_CC preliminary_JJ Let_NNP I_NN =_JJ -LCB-_-LRB- i1_NN ,_, i2_NN ,_, ._. ._.
+,_, im_FW -RCB-_-RRB- be_VB a_DT set_NN of_IN items_NNS ._.
+Let_NNP D_NNP be_VB the_DT dataset_NN -LRB-_-LRB- or_CC table_NN -RRB-_-RRB- which_WDT consists_VBZ of_IN a_DT set_NN of_IN rows_NNS R_NN =_JJ -LCB-_-LRB- r1_NN ,_, ._. ._.
+,_, rn_NN -RCB-_-RRB- with_IN each_DT row_NN ri_FW consis_FW

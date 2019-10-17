@@ -1,0 +1,4 @@
+4_LS -RRB-_-RRB- and_CC the_DT dual_JJ coordinate_JJ descent_NN method_NN -LRB-_-LRB- 67_CD -RRB-_-RRB- have_VBP been_VBN proposed_VBN to_TO solve_VB this_DT problem_NN ._.
+SVM_NN can_MD also_RB be_VB extended_VBN to_TO solve_VB other_JJ problems_NNS ,_, such_JJ as_IN ranking_JJ documents_NNS ,_, using_VBG a_DT method_NN called_VBN ranking_JJ SVM_NN =_JJ -_: =[_NN 73_CD -RRB-_-RRB- -_: =_JJ -_: ,_, or_CC structured_JJ prediction_NN -LRB-_-LRB- 115_CD -RRB-_-RRB- ._.
+Other_JJ well_RB known_VBN classifiers_NNS include_VBP Naive_JJ bayes_NNS ,_, Rocchio_NNP and_CC Decision_NNP Trees_NNP ._.
+Empirical_JJ experiments_NNS show_VBP that_IN Support_NN Vector_NNP Machines_NNP achieve_VB competitive_JJ performance_NN

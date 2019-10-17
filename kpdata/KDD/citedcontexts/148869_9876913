@@ -1,0 +1,3 @@
+rune_VB the_DT search-space_NN ._.
+To_TO exploit_VB a_DT piecewise_NN -LRB-_-LRB- anti_JJ -RRB-_-RRB- monotonic_JJ constraint_NN ,_, the_DT n-set_NN search-space_NN must_MD be_VB explicitly_RB computed_VBN and_CC stored_VBN for_IN each_DT generated_VBN candidate_NN in_IN the_DT enumeration_NN tree_NN as_IN done_VBN in_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Processing_NN a_DT piecewise_NN -LRB-_-LRB- anti_JJ -RRB-_-RRB- -_: monotonic_JJ constraint_NN consists_VBZ in_IN rewriting_VBG it_PRP so_IN that_IN ,_, if_IN the_DT new_JJ form_NN is_VBZ satisfied_JJ ,_, some_DT candidate_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- deriving_VBG from_IN the_DT current_JJ one_CD -LRB-_-LRB- i.e._FW ,_, leaves_NNS of_IN the_DT enumeration_NN tr_NN

@@ -1,0 +1,6 @@
+ith_VB the_DT addition_NN ,_, deletion_NN ,_, or_CC modification_NN of_IN any_DT tuple_NN ._.
+Recent_JJ work_NN has_VBZ shown_VBN that_IN the_DT resulting_VBG query_NN answers_NNS can_MD enable_VB very_RB accurate_JJ privacy-preserving_JJ statistical_JJ analyses_NNS of_IN sensitive_JJ datasets_NNS =_JJ -_: =[_NN 25_CD ,_, 13_CD ,_, 5_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX are_VBP two_CD flavors_NNS of_IN differential_JJ privacy_NN ,_, which_WDT we_PRP call_VBP unbounded_JJ and_CC bounded_VBD ._.
+The_DT formal_JJ definitions_NNS are_VBP :_: Definition_NN 1.1_CD ._.
+-LRB-_-LRB- Unbounded_JJ Differential_JJ Privacy_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+A_DT randomized_VBN algorithm_NN A_NN satisfi_NNS

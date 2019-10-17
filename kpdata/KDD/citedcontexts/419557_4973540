@@ -1,0 +1,4 @@
+ning_JJ popularity_NN in_IN text_NN mining_NN as_IN researchers_NNS pay_VBP more_JJR attention_NN to_TO relations_NNS and_CC context_NN of_IN entities_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+HMM_NNP has_VBZ been_VBN widely_RB used_VBN for_IN segmentation_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, text_NN classification_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, and_CC entity_NN extraction_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN details_NNS about_IN HMM_NNP ,_, please_VBP refer_VB to_TO -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+4.1_CD Formalizing_VBG text_NN analysis_NN process_NN with_IN a_DT Hidden_NNP Markov_NNP Model_NNP In_NNP SenseNet_NNP ,_, the_DT text_NN analysis_NN process_NN is_VBZ the_DT process_NN of_IN selecting_VBG appropriate_JJ senses_NNS for_IN

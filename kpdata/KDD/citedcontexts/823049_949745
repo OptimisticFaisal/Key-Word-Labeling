@@ -1,0 +1,5 @@
+acency_NN lattice_NN ._.
+Online_JJ repeated_JJ queries_NNS about_IN association_NN rules_NNS are_VBP answered_VBN by_IN graph_NN theoretic_JJ searching_VBG on_IN the_DT lattice_NN ._.
+Similarly_RB ,_, a_DT knowledge_NN cache_NN is_VBZ used_VBN for_IN interactive_JJ association_NN discovery_NN in_IN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT knowledge_NN cache_NN contains_VBZ frequent_JJ itemsets_NNS and_CC the_DT non-frequent_JJ itemsets_NNS ,_, if_IN memory_NN space_NN is_VBZ available_JJ ,_, that_WDT have_VBP been_VBN discovered_VBN while_IN processing_VBG other_JJ queries_NNS ._.
+The_DT study_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- indicated_VBD that_IN the_DT

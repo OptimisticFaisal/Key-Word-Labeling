@@ -1,0 +1,3 @@
+g_NN the_DT object_NN in_IN each_DT node_NN ._.
+There_EX are_VBP also_RB some_DT techniques_NNS which_WDT automatically_RB create_VBP a_DT hierarchy_NN of_IN clusters_NNS ,_, such_JJ as_IN bisecting_VBG k-means_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, or_CC a_DT hierarchy_NN of_IN classifiers_NNS ,_, such_JJ as_IN Punera_NNP et_FW al._FW 's_POS work_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Vural_NNP and_CC Dy_NNP 's_POS work_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- for_IN extending_VBG SVM_NN to_TO multi-class_JJ classification_NN ._.
+3_CD Data_NNP Preparation_NNP and_CC Normalization_NNP Our_NNP work_NN in_IN this_DT paper_NN begins_VBZ with_IN data_NNS normalization_NN :_: we_PRP apply_VBP our_PRP$ data_NNS mining_NN algor_NN

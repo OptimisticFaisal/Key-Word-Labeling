@@ -1,0 +1,4 @@
+uction_NN operation_NN that_WDT is_VBZ suitable_JJ for_IN clustering_NN ._.
+Agrawal_NNP et_FW al._FW -LRB-_-LRB- 3_LS -RRB-_-RRB- map_NN time_NN series_NN into_IN frequency_NN domain_NN by_IN the_DT discrete_JJ Fourier_NN transform_VB and_CC only_RB retain_VB thesrst_JJ few_JJ frequencies_NNS ._.
+Keogh_NNP and_CC Pazzani_NNP =_SYM -_: =[_NN 18_CD -_: =-]_CD reduce_VB the_DT dimension_NN of_IN time_NN series_NN data_NNS by_IN segmenting_VBG the_DT time_NN series_NN into_IN sections_NNS and_CC indexing_NN only_RB the_DT section_NN means_VBZ ._.
+Aggarwal_NNP et_FW al._FW -LRB-_-LRB- 2_LS -RRB-_-RRB- index_NN market_NN basket_NN data_NNS by_IN a_DT specic_JJ signature_NN table_NN ,_, wh_NN

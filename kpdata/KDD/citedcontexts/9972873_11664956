@@ -1,0 +1,5 @@
+ries_NNS data_NNS is_VBZ numeric_JJ ._.
+The_DT feature_NN selection_NN techniques_NNS for_IN symbolic_JJ sequences_NNS can_MD not_RB be_VB easily_RB applied_VBN to_TO time_NN series_NN data_NNS without_IN discretization_NN ._.
+Discretization_NNP may_MD cause_VB information_NN lost_VBN ._.
+Ye_FW et_FW al._FW =_SYM -_: =[_NN 65_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP a_DT feature_NN selection_NN method_NN which_WDT can_MD be_VB applied_VBN directly_RB on_IN numeric_JJ time_NN series_NN ._.
+Time_NN series_NN shapelets_NNS ,_, the_DT time_NN series_NN subsequences_NNS which_WDT can_MD maximally_RB represent_VB a_DT class_NN ,_, is_VBZ proposed_VBN as_IN the_DT

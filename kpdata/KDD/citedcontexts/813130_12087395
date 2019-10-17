@@ -1,0 +1,4 @@
+Box_NNP 3000_CD ,_, FIN-90014_NNP Oulu_NNP ,_, Finland_NNP -LRB-_-LRB- e-mail_JJ :_: olli.martikainen@oulu.fi_NN -RRB-_-RRB- ._.
+like_IN exponentially_RB weighted_JJ moving_VBG average_NN ,_, would_MD be_VB preferable_JJ ._.
+Exponential_JJ weighted_JJ stochastic_JJ approximation_NN -LRB-_-LRB- EWSA_NN -RRB-_-RRB- proposed_VBN in_IN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT modification_NN of_IN stochastic_JJ approximation_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- for_IN the_DT quantile_JJ estimation_NN in_IN streaming_NN data_NNS ,_, which_WDT is_VBZ collected_VBN in_IN batches_NNS ._.
+As_IN with_IN stochastic_JJ approximation_NN ,_, EWSA_NNP has_VBZ problems_NNS when_WRB estimating_VBG val_NN

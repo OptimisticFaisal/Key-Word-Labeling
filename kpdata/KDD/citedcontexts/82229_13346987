@@ -1,0 +1,4 @@
+culate_NN L_NN -RRB-_-RRB- ._.
+Agrawal_NNP et_FW al._FW -LRB-_-LRB- 1_LS -RRB-_-RRB- point_NN out_RP that_IN the_DT choice_NN of_IN L_NN is_VBZ clearly_RB application-dependent_JJ ._.
+Although_IN a_DT wide_JJ spectrum_NN of_IN similarity_NN measures_NNS has_VBZ been_VBN proposed_VBN ,_, a_DT comprehensive_JJ survey_NN by_IN Keogh_NNP et_FW al_FW =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT carried_VBD out_RP extensive_JJ performance_NN tests_NNS on_IN different_JJ similarity_NN measures_NNS ,_, demonstrated_VBD that_IN Euclidean_JJ distance_NN outperformed_VBD other_JJ distance_NN metrics_NNS ._.
+Therefore_RB ,_, we_PRP chose_VBD Euclidean_JJ distance_NN as_IN th_DT

@@ -1,0 +1,4 @@
+tly_RB ._.
+Previous_JJ studies_NNS have_VBP consistently_RB shown_VBN that_IN discriminative_JJ learning_NN methods_NNS ,_, particularly_RB SVM_NN ,_, can_MD achieve_VB better_JJR performance_NN than_IN generative_JJ learning_NN methods_NNS in_IN word-based_JJ text_NN classification_NN =_JJ -_: =[_NN 17_CD ,_, 29_CD ,_, 67_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT discriminative_JJ approach_NN to_TO string-based_JJ text_NN classification_NN attempts_VBZ to_TO utilize_VB the_DT substrings_NNS of_IN a_DT document_NN as_IN its_PRP$ features_NNS ._.
+However_RB ,_, a_DT document_NN of_IN length_NN |_CD d_NN |_NN has_VBZ |_VBN d_FW |_FW -LRB-_-LRB- |_CD d_NN |_CD +_CC 1_CD -RRB-_-RRB- \/_: 2_CD substrings_NNS in_IN t_NN

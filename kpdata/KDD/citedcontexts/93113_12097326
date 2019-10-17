@@ -1,0 +1,4 @@
+s_NN that_IN they_PRP use_VBP the_DT compressed_VBN bitmaps_NNS to_TO represent_VB the_DT transaction_NN list_NN of_IN each_DT item_NN set_VBN ._.
+However_RB ,_, their_PRP$ compression_NN scheme_NN has_VBZ limitations_NNS especially_RB when_WRB tids_NNS are_VBP uniformly_RB distributed_VBN ._.
+The_DT dEclat_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ the_DT vertical_JJ database_NN representation_NN ._.
+They_PRP store_VBP the_DT difference_NN of_IN tids_NNS called_VBN diffset_NN between_IN a_DT candidate_NN k_NN item_NN set_NN and_CC its_PRP$ prefix_NN k-1_CD frequent_JJ itemsets_NNS ,_, instead_RB of_IN the_DT tids_NNS intersection_NN set_NN ._.

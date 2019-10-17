@@ -1,0 +1,3 @@
+09_CD k-nn_CD 0.9942_CD 0.9941_CD 0.9942_CD 0.9942_CD 0.0002_CD experiments_NNS reported_VBN below_IN ,_, we_PRP measure_VBP hit_NN ratio_NN -_: the_DT average_JJ likelihood_NN that_IN a_DT top_JJ N_NN recommender_NN will_MD recommend_VB a_DT pushed_VBN item_NN ,_, compared_VBN to_TO all_DT other_JJ items_NNS =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Hit_VBN ratio_NN measures_VBZ the_DT effectiveness_NN of_IN an_DT attack_NN on_IN a_DT pushed_VBN item_NN compared_VBN to_TO other_JJ items_NNS ._.
+Let_NNP Ru_NNP be_VB the_DT set_NN of_IN top_JJ N_NN recommendations_NNS for_IN user_NN u._NN For_IN each_DT push_NN attack_NN on_IN item_NN i_FW ,_, the_DT value_NN of_IN a_DT reco_NN

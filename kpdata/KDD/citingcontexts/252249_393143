@@ -1,0 +1,4 @@
+in_IN structure_NN analysis_NN in_IN Bioinformatics_NNS ,_, and_CC vortex_NN simulation_NN in_IN Computational_NNP Fluid_NNP Dynamics_NNP ._.
+We_PRP have_VBP implemented_VBN techniques_NNS to_TO detect_VB ,_, extract_NN ,_, and_CC classify_VB features_NNS for_IN the_DT first_JJ two_CD applications_NNS =_JJ -_: =[_NN 10_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN the_DT third_JJ application_NN ,_, we_PRP use_VBP existing_VBG algorithms_NNS to_TO detect_VB vortices_NNS and_CC subsequently_RB classify_VB the_DT detected_VBN vortices_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+In_IN this_DT article_NN ,_, we_PRP focus_VBP on_IN the_DT four_CD tasks_NNS enclosed_VBN by_IN the_DT dashed_VBN recta_NN

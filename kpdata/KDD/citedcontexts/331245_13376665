@@ -1,0 +1,3 @@
+by_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- uses_VBZ DFS_NN codes_NNS for_IN canonical_JJ labeling_NN and_CC is_VBZ much_RB more_JJR memory_NN and_CC computationally_RB efficient_JJ than_IN the_DT previous_JJ approaches_NNS ._.
+The_DT most_RBS recent_JJ work_NN on_IN this_DT problem_NN is_VBZ the_DT Gaston_NNP system_NN proposed_VBN by_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT efficiently_RB mines_NNS graph_NN datasets_NNS by_IN first_RB considering_VBG frequent_JJ paths_NNS which_WDT are_VBP transformed_VBN to_TO trees_NNS which_WDT are_VBP further_RB transformed_VBN to_TO graphs_NNS ._.
+Contrasting_VBG to_TO all_PDT these_DT approaches_NNS to_TO frequent_JJ subg_NN

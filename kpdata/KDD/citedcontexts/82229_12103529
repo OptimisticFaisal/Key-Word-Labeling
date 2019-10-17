@@ -1,0 +1,5 @@
+th_DT many_JJ real_JJ world_NN cases_NNS ._.
+1_LS -RRB-_-RRB- Artificial_JJ Data_NN Two_CD benchmark_JJ stream_NN data_NNS sets_NNS are_VBP employed_VBN that_WDT can_MD cover_VB all_DT types_NNS of_IN concept_NN changes_NNS ._.
+Stagger_NNP :_: This_DT data_NN set_NN can_MD simulate_VB the_DT scenario_NN of_IN concept_NN shift_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Each_DT instance_NN consists_VBZ of_IN three_CD attribute_NN values_NNS :_: color_NN -LCB-_-LRB- green_JJ ,_, blue_JJ ,_, red_JJ -RCB-_-RRB- ,_, shape_NN -LCB-_-LRB- triangle_NN ,_, circle_NN ,_, rectangle_NN -RCB-_-RRB- ,_, and_CC size_NN -LCB-_-LRB- small_JJ ,_, medium_JJ ,_, large_JJ -RCB-_-RRB- ._.
+There_EX are_VBP three_CD alternative_JJ underlying_JJ con_NN

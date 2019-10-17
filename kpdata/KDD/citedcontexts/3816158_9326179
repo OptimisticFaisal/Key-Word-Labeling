@@ -1,0 +1,6 @@
+ithm_VB We_PRP propose_VBP an_DT iterative_JJ algorithm_NN to_TO solve_VB Eq_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, which_WDT is_VBZ guaranteed_VBN to_TO converge_VB to_TO a_DT global_JJ optimum_NN ._.
+The_DT algorithm_NN is_VBZ closely_RB related_JJ to_TO the_DT bundle_NN method_NN -LRB-_-LRB- Hiriart-Urruty_NNP &_CC Lemarechal_NNP ,_, 1993_CD ;_: =_JJ -_: =_JJ Teo_NNP et_FW al._FW ,_, 2007_CD -_: =--RRB-_NN ._.
+The_DT optimization_NN problem_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- maximizes_VBZ its_PRP$ objective_JJ function_NN with_IN respect_NN to_TO two_CD variables_NNS t_NN and_CC α_NN with_IN an_DT infinite_JJ number_NN of_IN -LRB-_-LRB- quadratic_JJ -RRB-_-RRB- constraints_NNS ._.
+We_PRP approach_VBP the_DT optimum_NN by_IN optimizing_VBG

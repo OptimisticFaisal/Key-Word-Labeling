@@ -1,0 +1,7 @@
+different_JJ placements_NNS to_TO evaluate_VB the_DT generality_NN of_IN the_DT approach_NN ._.
+2_CD ._.
+SAMPLE_NN RESULTS_NNS In_IN this_DT section_NN ,_, we_PRP present_VBP a_DT brief_JJ sample_NN of_IN our_PRP$ results_NNS ._.
+For_IN full_JJ details_NNS and_CC results_NNS ,_, please_VBP see_VB our_PRP$ tech_NN report_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Figure_NN 3_CD shows_VBZ the_DT throughput_NN of_IN the_DT system_NN ,_, when_WRB locking_VBG is_VBZ done_VBN in_IN the_DT application_NN server_NN ._.
+The_DT X-axis_NN is_VBZ the_DT number_NN of_IN emulated_VBN clients_NNS ,_, and_CC the_DT Y-axis_NN is_VBZ throughput_NN in_IN interactions_NNS per_IN minute_NN ._.
+Tw_NN

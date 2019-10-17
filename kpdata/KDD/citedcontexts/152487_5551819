@@ -1,0 +1,3 @@
+pands_VBZ the_DT dataset_NN 's_POS feature_NN space_NN by_IN using_VBG the_DT frequently_RB occurring_VBG itemsets_NNS to_TO form_VB new_JJ dimensions_NNS ,_, and_CC then_RB uses_VBZ traditional_JJ algorithms_NNS to_TO build_VB classification_NN models_NNS in_IN that_DT expanded_VBN feature_NN space_NN =_JJ -_: =[_NN 9_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Despite_IN the_DT differences_NNS of_IN these_DT approaches_NNS ,_, the_DT common_JJ theme_NN that_WDT underlies_VBZ them_PRP is_VBZ that_IN they_PRP used_VBD the_DT frequently_RB occurring_VBG itemsets_NNS to_TO generate_VB a_DT set_NN of_IN composite_JJ features_NNS ._.
+The_DT idea_NN of_IN using_VBG compo_NN

@@ -1,0 +1,4 @@
+he_PRP corresponding_JJ methods_NNS optimize_VBP in_IN some_DT sense_NN the_DT linear_JJ transformation_NN from_IN the_DT given_VBN to_TO the_DT known_JJ low-dimensional_JJ space_NN ._.
+However_RB ,_, in_IN practice_NN ,_, the_DT dimension_NN or_CC number_NN of_IN clusters_NNS may_MD not_RB be_VB known_VBN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Traditional_JJ web-clickstreams_JJ data-structure_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- represents_VBZ a_DT sequence_NN of_IN webpages_NNS ,_, which_WDT clients_NNS visited_VBN during_IN particular_JJ sessions_NNS -LRB-_-LRB- variable_JJ length_NN data_NNS ,_, see_VB ,_, for_IN example_NN ,_, -LRB-_-LRB- 6_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Note_VB that_IN the_DT struc_NN

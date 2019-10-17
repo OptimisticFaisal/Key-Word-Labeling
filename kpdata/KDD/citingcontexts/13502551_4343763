@@ -1,0 +1,4 @@
+the_DT same_JJ information_NN :_: UserID_NN ,_, Query_NNP ,_, Time_NNP ,_, Rank_NNP and_CC ClickURL_NNP ._.
+This_DT dataset_NN is_VBZ the_DT raw_JJ data_NNS recorded_VBN by_IN the_DT search_NN engine_NN ,_, and_CC contains_VBZ a_DT lot_NN of_IN noises_NNS ._.
+Hence_RB ,_, we_PRP conduct_VBP a_DT similar_JJ method_NN employed_VBN in_IN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: to_TO clean_VB the_DT raw_JJ data_NNS ._.
+We_PRP clean_VBP the_DT data_NNS by_IN removing_VBG the_DT queries_NNS that_WDT appear_VBP less_JJR than_IN 2_CD times_NNS ,_, and_CC by_IN combining_VBG the_DT near-duplicated_JJ queries_NNS which_WDT have_VBP the_DT same_JJ terms_NNS without_IN the_DT stopwords_NNS and_CC punctu_NNS

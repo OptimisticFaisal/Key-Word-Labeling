@@ -1,0 +1,4 @@
+monly_RB used_VBN in_IN databases_NNS ,_, as_IN a_DT means_NN of_IN summarization_NN ._.
+Aggregation_NN is_VBZ essential_JJ in_IN statistical_JJ relational_JJ learning_NN and_CC is_VBZ also_RB used_VBN to_TO create_VB new_JJ ,_, rich_JJ types_NNS of_IN features_NNS from_IN relational_JJ representation_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Using_VBG aggregates_NNS creates_VBZ richer_JJR features_NNS than_IN modeling_NN a_DT boolean_NN ,_, table_NN empty\/nonempty_NN feature_NN as_IN is_VBZ the_DT case_NN in_IN classical_JJ logic-based_JJ relational_JJ learning_NN approaches_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+The_DT need_NN for_IN aggregates_NNS in_IN

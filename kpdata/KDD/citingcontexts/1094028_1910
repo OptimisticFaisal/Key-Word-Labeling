@@ -1,0 +1,4 @@
+have_VB to_TO consider_VB a_DT large_JJ amount_NN of_IN candidate_NN itemsets_NNS and_CC compute_VB their_PRP$ joint_JJ entropy_NN by_IN scanning_VBG the_DT database_NN ._.
+Computing_NNP the_DT joint_JJ entropy_NN of_IN a_DT given_VBN itemset_NN essentially_RB comes_VBZ down_RP to_TO a_DT bucket_NN sort_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: where_WRB each_DT bucket_NN corresponds_VBZ to_TO a_DT cell_NN in_IN a_DT contingency_NN table_NN of_IN k_NN dimensions_NNS ._.
+This_DT table_NN scan_VB can_MD be_VB performed_VBN in_IN O_NN -LRB-_-LRB- kN_NN -RRB-_-RRB- ,_, where_WRB N_NN equals_VBZ the_DT number_NN of_IN records_NNS in_IN the_DT n_NN database_NN ._.
+In_IN theory_NN a_DT total_NN of_IN

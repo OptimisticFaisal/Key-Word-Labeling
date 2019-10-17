@@ -1,0 +1,4 @@
+res_NNS prior_RB to_TO clustering_NN or_CC visualization_NN ._.
+Finally_RB ,_, Julisch_NNP and_CC Dacier_NNP demonstrated_VBD that_IN a_DT form_NN of_IN conceptual_JJ clustering_NN is_VBZ effective_JJ for_IN grouping_VBG similar_JJ alarms_NNS from_IN intrusion_NN detection_NN systems_NNS -LRB-_-LRB- IDS_NNP -RRB-_-RRB- =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP note_VBP that_IN IDS_NNP alarms_NNS are_VBP typically_RB generated_VBN by_IN matching_VBG intrusion_NN signatures_NNS ,_, hence_RB the_DT attack_NN type_NN is_VBZ at_IN least_JJS partially_RB known_VBN ._.
+Alarms_NNS typically_RB have_VBP many_JJ fewer_JJR features_NNS than_IN execution_NN profiles_NNS

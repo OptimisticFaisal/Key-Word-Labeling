@@ -1,0 +1,5 @@
+lude_JJ neighborhood_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, proximity_NN -LRB-_-LRB- 35_CD -RRB-_-RRB- ,_, PageRank_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- ,_, centrality_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, etc._NN ._.
+Between_IN the_DT graph-level_JJ and_CC individual_JJ node-level_NN ,_, there_EX are_VBP also_RB queries_NNS on_IN the_DT sub-graph_JJ level_NN ,_, e.g._FW ,_, community_NN detection_NN =_JJ -_: =[_NN 21_CD ,_, 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, finding_VBG induced_VBN subgraph_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, etc._NN ._.
+GBASE_NN covers_VBZ a_DT wide_JJ range_NN of_IN queries_NNS ,_, including_VBG the_DT global_JJ and_CC the_DT node-level_JJ ones_NNS ,_, by_IN a_DT unified_JJ matrix-vector_JJ multiplication_NN framework_NN ._.
+Column_NNP Store_NNP ._.
+Column-orien_NN

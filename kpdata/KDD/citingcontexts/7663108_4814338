@@ -1,0 +1,4 @@
+fragments_NNS are_VBP prevalent_JJ in_IN the_DT Enron_NNP corpus_NN ,_, the_DT immediate_JJ question_NN here_RB is_VBZ how_WRB general_JJ this_DT phenomenon_NN is_VBZ for_IN a_DT ``_`` typical_JJ ''_'' real_JJ user_NN ._.
+Let_VB us_PRP review_VB how_WRB the_DT Enron_NNP dataset_NN was_VBD prepared_VBN ._.
+As_IN reported_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, emails_NNS were_VBD deliberately_RB deleted_VBN from_IN the_DT first_JJ published_VBN version_NN of_IN the_DT Enron_NNP dataset_NN on_IN the_DT users_NNS '_POS request_NN for_IN privacy_NN and_CC redaction_NN purposes_NNS ._.
+It_PRP is_VBZ estimated_VBN that_IN about_IN 8_CD %_NN of_IN the_DT emails_NNS were_VBD dele_JJ

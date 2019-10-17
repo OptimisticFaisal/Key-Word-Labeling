@@ -1,0 +1,3 @@
+tly_RB incorporating_VBG reliability_NN ,_, trust_NN ,_, and_CC security_NN solutions_NNS into_IN the_DT GroupCast_NN system_NN ._.
+Concretely_RB ,_, the_DT GroupCast_NN system_NN can_MD be_VB augmented_VBN with_IN mechanisms_NNS such_JJ as_IN dynamic_JJ replication_NN -LRB-_-LRB- 35_CD -RRB-_-RRB- ,_, TrustGuards_VBZ =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Event_NN Guards_NNS -LRB-_-LRB- 26_CD -RRB-_-RRB- to_TO enhance_VB its_PRP$ failure_NN resilience_NN ,_, its_PRP$ node-level_JJ trust_NN ,_, and_CC its_PRP$ middleware_JJ level_NN security_NN ._.
+Second_RB ,_, the_DT GroupCast_NN system_NN can_MD be_VB easily_RB adapted_VBN for_IN ``_`` supernode_NN ''_'' or_CC multi-layer_JJ ove_NN

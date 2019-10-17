@@ -1,0 +1,3 @@
+in_IN general_JJ computationally_RB expensive_JJ to_TO solve_VB and_CC hence_RB may_MD not_RB scale_VB to_TO large-size_JJ problems_NNS ._.
+There_EX have_VBP been_VBN several_JJ recent_JJ attempts_NNS to_TO improve_VB the_DT scalability_NN of_IN dimensionality_NN reduction_NN techniques_NNS =_JJ -_: =[_NN 8_CD ,_, 9_CD ,_, 16_CD ,_, 24_CD ,_, 25_CD ,_, 26_CD ,_, 32_CD ,_, 33_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT key_JJ idea_NN is_VBZ to_TO transform_VB the_DT generalized_JJ eigenvalue_NN problem_NN into_IN an_DT equivalent_JJ least_JJS squares_NNS formulation_NN ,_, which_WDT can_MD be_VB solved_VBN efficiently_RB using_VBG existing_VBG algorithms_NNS such_JJ as_IN the_DT iterative_JJ conjugat_NN

@@ -1,0 +1,3 @@
+ed_VBN before_RB ._.
+In_IN particular_JJ ,_, Spinosa_NNP et_FW al._FW -LRB-_-LRB- 15_CD -RRB-_-RRB- propose_VBP an_DT incremental_JJ learning_NN method_NN to_TO cluster_VB data_NNS elements_NNS as_IN they_PRP arrive_VBP ,_, and_CC identify_VB novelties_NNS with_IN new_JJ clusters_NNS formed_VBN over_IN time_NN ._.
+Ma_NNP and_CC Perkins_NNP =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP to_TO learn_VB a_DT regression_NN function_NN which_WDT reflects_VBZ the_DT normal_JJ behavior_NN of_IN a_DT system_NN and_CC define_VB novelties_NNS as_IN those_DT data_NNS elements_NNS which_WDT significantly_RB differ_VBP from_IN the_DT prediction_NN made_VBN by_IN the_DT regression_NN

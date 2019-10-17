@@ -1,0 +1,3 @@
+frequency_NN counting_NN algorithms_NNS explicitly_RB count_VBP episode_NN occurrences_NNS ,_, it_PRP is_VBZ possible_JJ ,_, when_WRB an_DT application_NN so_RB requires_VBZ ,_, to_TO incorporate_VB an_DT extra_JJ time_NN constraint_NN directly_RB on_IN the_DT occurrences_NNS being_VBG counted_VBN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT expiry_JJ time_NN constraint_NN can_MD be_VB used_VBN to_TO define_VB the_DT extent_NN to_TO which_WDT events_NNS of_IN an_DT occurrence_NN may_MD be_VB spread_VBN out_RP in_IN the_DT event_NN sequence_NN ._.
+In_IN case_NN of_IN serial_JJ episodes_NNS ,_, the_DT expiry_JJ time_NN constraint_NN is_VBZ an_DT uppe_NN

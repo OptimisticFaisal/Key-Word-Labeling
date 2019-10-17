@@ -1,0 +1,5 @@
+are_VBP performed_VBN on_IN a_DT 2.4_CD GHz_NN PC_NN with_IN 1G_NN memory_NN running_VBG WindowsXP_NN system_NN ._.
+Dataset_NNP :_: The_DT SNP_NN dataset_NN used_VBN for_IN the_DT experiments_NNS is_VBZ extracted_VBN from_IN a_DT set_NN of_IN combined_JJ SNPs_NNS from_IN the_DT 140k_FW Broad\/MIT_FW mouse_NN dataset_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: and_CC 10k_JJ GNF_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- mouse_NN dataset_NN ._.
+This_DT merged_JJ dataset_NN has_VBZ 156,525_CD SNPs_NNS for_IN 71_CD individuals_NNS ._.
+The_DT missing_VBG values_NNS in_IN the_DT dataset_NN are_VBP imputed_JJ using_VBG NPUTE_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+We_PRP use_VBP both_DT real_JJ phenotypes_NNS and_CC synthetic_JJ pheno_NN

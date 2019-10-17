@@ -1,0 +1,5 @@
+therefore_RB requires_VBZ many_JJ iterations_NNS to_TO reach_VB convergence_NN ._.
+Recent_JJ work_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- uses_VBZ more_RBR efficient_JJ second_JJ order_NN optimization_NN procedure_NN like_IN BLMVM_NN for_IN numerical_JJ optimization_NN ._.
+In_IN this_DT study_NN ,_, we_PRP use_VBP L-BFGS_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT second_JJ order_NN optimization_NN procedure_NN used_VBN for_IN many_JJ machine_NN learning_NN problems_NNS ,_, and_CC binomial_JJ log-likelihood_JJ loss_NN functions_NNS ._.
+=_JJ 0_CD otherwise_RB ._.
+Given_VBN the_DT training_NN data_NNS ,_, parameter_NN estimation_NN can_MD be_VB formula_NN

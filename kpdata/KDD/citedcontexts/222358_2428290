@@ -1,0 +1,5 @@
+s_NNS proposed_VBN in_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Using_VBG this_DT approach_NN we_PRP can_MD extend_VB the_DT pairwise_JJ dependencies_NNS to_TO set_VB dependencies_NNS ._.
+Ecient_JJ algorithms_NNS for_IN computing_NN association_NN rules_NNS can_MD be_VB found_VBN in_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Yang_NNP et_FW al._FW =_SYM -_: =[_NN -_: =_JJ -17_CD -RRB-_-RRB- used_VBD an_DT association_NN based_VBN predictive_JJ model_NN with_IN dierent_JJ cache_NN replacement_NN schemes_NNS and_CC found_VBN signicant_JJ improvement_NN in_IN hit_NN rate_NN ,_, and_CC reduction_NN in_IN network_NN latencies_NNS ._.
+Path_NN Proles_NNS :_: Schechter_NNP et_FW al._FW -LRB-_-LRB- 14_CD

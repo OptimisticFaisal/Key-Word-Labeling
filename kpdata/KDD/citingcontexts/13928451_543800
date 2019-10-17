@@ -1,0 +1,6 @@
+examined_VBN association_NN rules_NNS on_IN fuzzy_JJ sets_NNS ._.
+The_DT notion_NN of_IN a_DT ``_`` vague_JJ association_NN rule_NN ''_'' was_VBD developed_VBN in_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+These_DT solutions_NNS were_VBD not_RB developed_VBN on_IN probabilistic_JJ data_NNS models_NNS ._.
+For_IN probabilistic_JJ databases_NNS ,_, =_JJ -_: =[_NN 9_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: derived_VBN patterns_NNS based_VBN on_IN their_PRP$ expected_VBN support_NN counts_NNS ._.
+-LRB-_-LRB- 31_CD ,_, 27_CD -RRB-_-RRB- found_VBD that_IN the_DT use_NN of_IN expected_VBN support_NN may_MD render_VB important_JJ patterns_NNS missing_VBG ._.
+They_PRP discussed_VBD the_DT computation_NN of_IN the_DT probability_NN that_IN

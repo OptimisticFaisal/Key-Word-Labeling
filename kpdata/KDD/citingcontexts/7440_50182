@@ -1,0 +1,5 @@
+for_IN the_DT values\/positions_NNS of_IN the_DT k_NN means_VBZ ._.
+This_DT is_VBZ an_DT important_JJ issue_NN ,_, as_IN the_DT choice_NN of_IN initial_JJ points_NNS determines_VBZ the_DT final_JJ solution_NN ._.
+Research_NNP has_VBZ led_VBN to_TO mechanisms_NNS producing_VBG a_DT good_JJ initial_JJ assignment_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Their_PRP$ technique_NN uses_VBZ classic_JJ k-means_NN clustering_NN done_VBN over_IN multiple_JJ subsamples_NNS of_IN the_DT data_NNS ,_, followed_VBN by_IN clustering_VBG the_DT results_NNS to_TO get_VB the_DT initial_JJ points_NNS ._.
+For_IN simplicity_NN ,_, we_PRP assume_VBP that_IN the_DT k_NN means_VBZ ar_IN

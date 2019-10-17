@@ -1,0 +1,4 @@
+ated_VBN until_IN the_DT class_NN labels_NNS converge_VBP ._.
+Such_PDT an_DT iterative_JJ approach_NN for_IN simultaneously_RB classifying_VBG interrelated_JJ cases_NNS using_VBG estimated_VBN or_CC inferred_VBN relational_JJ features_NNS is_VBZ called_VBN collective_JJ classification_NN -LRB-_-LRB- =_JJ -_: =_JJ Jensen_NNP et_FW al._FW 2004_CD -_: =--RRB-_NN ._.
+These_DT approaches_NNS have_VBP three_CD characteristics_NNS :_: •_CD Related_JJ cases_NNS :_: The_DT cases_NNS to_TO be_VB classified_VBN -LRB-_-LRB- e.g._FW ,_, web_NN pages_NNS ,_, emails_NNS -RRB-_-RRB- are_VBP explicitly_RB or_CC implicitly_RB inter-related_JJ ._.
+•_NNP Collective_NNP inference_NN :_: A_DT collective_JJ i_FW

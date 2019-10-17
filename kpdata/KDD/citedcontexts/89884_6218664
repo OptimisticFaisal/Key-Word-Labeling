@@ -1,0 +1,3 @@
+ent_JJ pattern_NN mining_NN focuses_VBZ on_IN discovering_VBG frequently_RB appearing_VBG sub-structures_NNS in_IN datasets_NNS ._.
+The_DT structures_NNS explored_VBN include_VBP itemsets_NNS ,_, sequences_NNS ,_, sub-trees_NNS ,_, sub-graphs_NNS ,_, and_CC other_JJ topological_JJ structures_NNS =_JJ -_: =[_NN 29_CD ,_, 3_CD ,_, 33_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Frequent_JJ pattern_NN mining_NN has_VBZ emerged_VBN as_IN a_DT very_RB useful_JJ class_NN of_IN techniques_NNS for_IN analyzing_VBG datasets_NNS from_IN a_DT variety_NN of_IN domains_NNS ,_, including_VBG retail_JJ transactions_NNS ,_, DNA_NN sequences_NNS ,_, chemical_NN compounds_NNS ,_, XML_NN docum_NN

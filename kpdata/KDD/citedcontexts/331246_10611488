@@ -1,0 +1,4 @@
+h_NN enough_RB to_TO accurately_RB capture_VB the_DT intricate_JJ dependencies_NNS between_IN image_NN content_NN and_CC annotations_NNS ._.
+Non-parametric_JJ nearest_JJS neighbor_NN like_IN methods_NNS have_VBP been_VBN found_VBN to_TO be_VB quite_RB successful_JJ for_IN tag_NN prediction_NN =_JJ -_: =[_NN 5_CD ,_, 11_CD ,_, 13_CD ,_, 17_CD ,_, 22_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT is_VBZ mainly_RB due_JJ to_TO the_DT high_JJ `_`` capacity_NN '_'' of_IN such_JJ models_NNS :_: they_PRP can_MD adapt_VB flexibly_RB to_TO the_DT patterns_NNS in_IN the_DT data_NNS as_IN more_JJR data_NNS is_VBZ available_JJ ._.
+However_RB ,_, existing_VBG nearest_IN neighbor_NN type_NN methods_NNS do_VBP not_RB allow_VB

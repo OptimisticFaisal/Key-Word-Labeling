@@ -1,0 +1,4 @@
+._.
+-LRB-_-LRB- 83_CD ;_: 84_CD -RRB-_-RRB- analyze_VBP the_DT stability_NN of_IN PageRank_NNP and_CC HITS_NNP to_TO small_JJ perturbations_NNS in_IN the_DT link_NN structure_NN and_CC present_JJ modifications_NNS to_TO HITS_NNS that_WDT yield_VBP more_RBR stable_JJ rankings_NNS ._.
+Haveliwala_NN -LRB-_-LRB- 51_CD -RRB-_-RRB- and_CC Jeh_NN and_CC Widom_NN =_JJ -_: =[_NN 56_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP topic-sensitive_JJ PageRank_NN algorithms_NNS that_WDT identify_VBP topically_RB authoritative_JJ web_NN pages_NNS efficiently_RB at_IN query_NN time_NN ._.
+Ding_NNP et_FW al._FW -LRB-_-LRB- 29_CD -RRB-_-RRB- proposes_VBZ a_DT unified_JJ framework_NN encompassing_VBG both_DT PageRank_NNP and_CC HIT_NNP

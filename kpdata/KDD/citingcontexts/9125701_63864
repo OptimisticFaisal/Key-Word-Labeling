@@ -1,0 +1,6 @@
+r_NN profile_NN extraction_NN ._.
+We_PRP used_VBD the_DT rule_NN learning_NN and_CC the_DT classification_NN based_VBN approaches_NNS as_IN baselines_NNS ._.
+For_IN the_DT former_JJ ,_, we_PRP employed_VBD the_DT Amilcare_NNP tool_NN ,_, which_WDT is_VBZ based_VBN on_IN a_DT rule_NN induction_NN algorithm_NN :_: LP_NN 2_CD =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN the_DT latter_JJ ,_, we_PRP trained_VBD a_DT classifier_NN to_TO identify_VB the_DT value_NN of_IN each_DT property_NN ._.
+We_PRP employed_VBD Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- as_IN the_DT classification_NN model_NN ._.
+Experimental_JJ results_NNS show_VBP that_IN our_PRP$ method_NN

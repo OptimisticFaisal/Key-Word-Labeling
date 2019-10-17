@@ -1,0 +1,7 @@
+yield_VB the_DT exact_JJ minimizer_NN of_IN f_FW !_.
+That_DT is_VBZ ,_, solving_VBG p_NN -LRB-_-LRB- p_NN +_CC 1_LS -RRB-_-RRB- one-dimensional_JJ minimization_NN produces_VBZ the_DT minimizer_NN of_IN a_DT quadratic_JJ function_NN ._.
+4.2.2_CD Application_NN to_TO Secure_VB Regression_NN The_DT gist_NN of_IN our_PRP$ approach_NN =_JJ -_: =[_NN 39_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ to_TO apply_VB Powell_NNP 's_POS method_NN to_TO f_FW -LRB-_-LRB- β_NN -RRB-_-RRB- =_JJ -LRB-_-LRB- y_FW −_FW Xβ_NN -RRB-_-RRB- T_NN -LRB-_-LRB- y_FW −_FW Xβ_NN -RRB-_-RRB- in_IN order_NN to_TO solve_VB -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+The_DT complication_NN ,_, of_IN course_NN ,_, is_VBZ that_IN no_DT agency_NN possesses_VBZ all_DT of_IN the_DT data_NNS ._.
+The_DT details_NNS are_VBP as_IN follows_VBZ ._.
+1_CD ._.
+Let_VB s_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_,

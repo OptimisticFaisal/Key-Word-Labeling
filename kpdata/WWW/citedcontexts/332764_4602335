@@ -1,0 +1,4 @@
+ng_NN program_NN analyzer_NN ._.
+1_CD Introduction_NN We_PRP have_VBP been_VBN developing_VBG a_DT program_NN analyzer_NN for_IN the_DT server-side_JJ scripting_NN language_NN PHP_NNP ,_, which_WDT approximates_VBZ the_DT string_NN output_NN of_IN a_DT program_NN with_IN a_DT contextfree_JJ grammar_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP adopted_VBD and_CC developed_VBD several_JJ advanced_JJ decision_NN procedures_NNS on_IN context-free_JJ grammars_NNS to_TO check_VB properties_NNS of_IN a_DT program_NN with_IN the_DT analyzer_NN -LRB-_-LRB- 9_CD ,_, 17_CD -RRB-_-RRB- ._.
+Although_IN the_DT correctness_NN of_IN those_DT decision_NN procedur_NN

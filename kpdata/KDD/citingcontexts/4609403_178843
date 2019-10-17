@@ -1,0 +1,5 @@
+mset_NN mining_NN ._.
+Morishita_NNP and_CC Sese_NNP have_VBP presented_VBN a_DT branch-and-bound_JJ method_NN for_IN finding_VBG association_NN rules_NNS like_IN X_NN ⇒_NN Y_NN where_WRB the_DT itemsets_NNS X_NN and_CC Y_NN are_VBP not_RB required_VBN to_TO have_VB high_JJ support_NN but_CC high_JJ correlation_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP also_RB count_VBP those_DT data_NNS rows_NNS where_WRB X_NN and_CC Y_NN appearcompletely,whereasourentropy-basedmethodcounts_NNS arbitrary_JJ combinations_NNS ._.
+Similar_JJ strategies_NNS have_VBP been_VBN employed_VBN by_IN Zimmermann_NNP et_FW al._FW -LRB-_-LRB- 24_CD ,_, 5_CD -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- 5_CD -RRB-_-RRB-

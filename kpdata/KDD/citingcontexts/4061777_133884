@@ -1,0 +1,4 @@
+-LRB-_-LRB- 22_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Feature_NN selection_NN is_VBZ often_RB performed_VBN at_IN each_DT node_NN before_IN constructing_VBG a_DT classifier_NN -LRB-_-LRB- 10_CD ,_, 4_CD -RRB-_-RRB- ._.
+To_TO build_VB the_DT hierarchical_JJ model_NN ,_, different_JJ base_NN classifiers_NNS are_VBP employed_VBN including_VBG association_NN rules_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, naïve_JJ Bayes_NNP classifiers_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, neural_JJ networks_NNS -LRB-_-LRB- 21_CD ,_, 16_CD -RRB-_-RRB- ,_, and_CC support_NN vector_NN machines_NNS -LRB-_-LRB- 8_CD ,_, 17_CD ,_, 12_CD -RRB-_-RRB- ._.
+As_IN the_DT greedy_JJ approach_NN for_IN classification_NN might_MD be_VB too_RB optimistic_JJ ,_, researchers_NNS propose_VBP to_TO traverse_VB al_FW

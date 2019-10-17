@@ -1,0 +1,3 @@
+ecified_VBN size_NN ._.
+Much_JJ work_NN has_VBZ recently_RB been_VBN done_VBN using_VBG unlabeled_JJ data_NNS to_TO improve_VB the_DT accuracy_NN of_IN classifiers_NNS -LRB-_-LRB- Blum_NNP and_CC Mitchell_NNP ,_, 1998_CD ;_: Nigam_NNP et_FW al._FW ,_, 2000_CD ;_: Nigam_NNP and_CC Ghani_NNP ,_, 2000_CD ;_: Goldman_NNP and_CC Zhou_NNP ,_, 2000_CD ;_: =_JJ -_: =_JJ Bennett_NNP and_CC Demiriz_NNP ,_, 2002_CD -_: =--RRB-_NN ._.
+The_DT ba4sic_JJ approach_NN ,_, often_RB known_VBN as_IN semi-supervised_JJ learning_NN or_CC boot-strapping_NN ,_, is_VBZ to_TO train_VB on_IN the_DT labeled_JJ data_NNS ,_, classify_VBP the_DT unlabeled_JJ data_NNS ,_, and_CC then_RB train_NN using_VBG both_CC the_DT original_JJ and_CC the_DT relabel_NN

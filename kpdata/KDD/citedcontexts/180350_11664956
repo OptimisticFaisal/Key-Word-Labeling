@@ -1,0 +1,5 @@
+urprisingly_RB competitive_JJ in_IN terms_NNS of_IN accuracy_NN ,_, compared_VBN to_TO other_JJ more_RBR complex_JJ similarity_NN measures_NNS ._.
+Euclidean_JJ distance_NN is_VBZ sensitive_JJ to_TO distortions_NNS in_IN time_NN dimension_NN ._.
+Dynamic_NNP time_NN warping_NN distance_NN -LRB-_-LRB- DTW_NN -RRB-_-RRB- =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ proposed_VBN to_TO overcome_VB this_DT problem_NN and_CC does_VBZ not_RB require_VB two_CD time_NN series_NN to_TO be_VB of_IN the_DT same_JJ length_NN ._.
+The_DT idea_NN of_IN DTW_NNP is_VBZ to_TO align_VB two_CD time_NN series_NN and_CC get_VB the_DT best_JJS distance_NN by_IN aligning_VBG ._.
+One_CD example_NN of_IN D_NN

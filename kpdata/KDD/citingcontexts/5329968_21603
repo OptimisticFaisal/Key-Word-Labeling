@@ -1,0 +1,3 @@
+in_IN different_JJ parts_NNS of_IN the_DT partition_NN ._.
+This_DT simple_JJ observation_NN leads_VBZ to_TO an_DT algorithm_NN for_IN computing_VBG an_DT approximation_NN to_TO N2_NN -LRB-_-LRB- M_NN -RRB-_-RRB- :_: define_VB a_DT similarity_NN notion_NN between_IN columns_NNS ,_, use_VBP a_DT spectral_JJ bisection_NN method_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: to_TO obtain_VB the_DT two_CD parts_NNS of_IN the_DT partition_NN ,_, and_CC then_RB compute_VB the_DT score_NN for_IN both_DT parts_NNS using_VBG the_DT Greedy_JJ algorithm_NN ._.
+By_IN recursive_JJ applications_NNS of_IN the_DT algorithm_NN we_PRP obtain_VBP a_DT way_NN of_IN approximating_VBG Nk_NN -LRB-_-LRB- M_NN -RRB-_-RRB- as_IN we_PRP

@@ -1,0 +1,8 @@
+he_PRP results_VBZ ._.
+3_CD Overlapping_JJ regions_NNS were_VBD treated_VBN as_IN separate_JJ clusters_NNS ,_, so_IN that_IN the_DT number_NN of_IN theoretically_RB possible_JJ clusters_NNS was_VBD much_RB higher_JJR than_IN 6_CD ._.
+4_CD We_PRP used_VBD the_DT freely_RB available_JJ version_NN by_IN Dan_NNP Pelleg_NNP =_SYM -_: =_JJ -LRB-_-LRB- PM99_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+Figure_NN 3_CD The_DT Normal-dataset_NN :_: two-dimensions_NNS ,_, three_CD classes_NNS ._.
+0_CD 20_CD 40_CD 60 80 100 120_CD 0_CD 20_CD 40_CD 60 80 100 120_CD 140_CD dataset_NN inst_NN ._.
+att_NN ._.
+cl_NN ._.
+KMeans_FW AutoClass_FW R.U.M._FW ripley_FW 250_CD 2_CD 2_CD 76.68_CD %_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- 79.20_CD %_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- 71.18_CD %_NN

@@ -1,0 +1,5 @@
+together_RB ._.
+PLSV_NN is_VBZ an_DT unsupervised_JJ visualization_NN method_NN ,_, where_WRB topics_NNS are_VBP unobservable_JJ variables_NNS ,_, and_CC it_PRP is_VBZ different_JJ from_IN supervised_JJ visualization_NN methods_NNS ,_, such_JJ as_IN Fisher_NNP linear_JJ discriminant_JJ analysis_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4.2_CD Data_NNP sets_VBZ We_PRP used_VBD the_DT following_JJ three_CD data_NNS sets_NNS in_IN the_DT evaluations_NNS :_: NIPS_NNP ,_, 20News_NNP and_CC EachMovie_NNP ._.
+NIPS_NN data_NNS consist_VBP of_IN papers_NNS from_IN the_DT NIPS_NNP conference_NN from_IN 2001_CD to_TO 2003_CD 1_CD ._.
+There_EX were_VBD 593_CD document_NN

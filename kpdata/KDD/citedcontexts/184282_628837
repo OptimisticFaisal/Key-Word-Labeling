@@ -1,0 +1,4 @@
+a_DT subspace_NN of_IN R_NN n_NN ,_, either_CC linear_JJ or_CC non-linear_JJ ._.
+n_NN is_VBZ typically_RB very_RB large_JJ while_IN the_DT intrinsic_JJ dimensionality_NN of_IN the_DT document_NN space_NN might_MD be_VB much_RB lower_JJR ._.
+Many_JJ dimensionality_NN reduction_NN techniques_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =-[_NN 7_CD -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- -LRB-_-LRB- 15_CD -RRB-_-RRB- have_VBP been_VBN applied_VBN to_TO document_VB representation_NN and_CC indexing_NN ._.
+Among_IN these_DT techniques_NNS ,_, Latent_JJ Semantic_JJ Indexing_NN -LRB-_-LRB- LSI_NNP -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- by_IN Singular_JJ Value_NN Decomposition_NN -LRB-_-LRB- SVD_NN -RRB-_-RRB- is_VBZ a_DT well-known_JJ successful_JJ appr_NN

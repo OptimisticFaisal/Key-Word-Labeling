@@ -1,0 +1,4 @@
+reflected_VBN both_CC in_IN index_NN structure_NN and_CC in_IN similarity_NN metrics_NNS ._.
+Most_RBS popular_JJ similarity_NN metrics_NNS include_VBP Minkowski_NNP distance_NN -LRB-_-LRB- 3_CD ,_, 15_CD -RRB-_-RRB- ,_, compression-based_JJ metrics_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, and_CC time-dimension_JJ deformation_NN metrics_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Often_RB ,_, a_DT technique_NN for_IN reduction_NN of_IN the_DT dimensionality_NN of_IN the_DT problem_NN is_VBZ employed_VBN ,_, such_JJ as_IN discrete_JJ Fourier_NN transform_VB -LRB-_-LRB- 1_CD ,_, 2_CD -RRB-_-RRB- ._.
+String_NNP indexes_NNS usually_RB support_VBP searching_VBG for_IN subsequences_NNS based_VBN on_IN ident_NN

@@ -1,0 +1,5 @@
+ble_NN 3_CD ._.
+We_PRP did_VBD sampling_NN ten_CD times_NNS for_IN each_DT data_NNS set_VBD and_CC returned_VBD the_DT average_JJ classification_NN results_NNS for_IN it_PRP ,_, as_IN shown_VBN in_IN Table_NNP 4_CD ._.
+Finally_RB ,_, since_IN SVMs_NNS shows_VBZ best_JJS classification_NN performance_NN in_IN many_JJ cases_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP used_VBD it_PRP as_IN the_DT benchmark_JJ classifier_NN for_IN all_PDT the_DT experiments_NNS in_IN this_DT subsection_NN ._.
+Results_NNS by_IN COG-OS_NN on_IN Two-class_JJ Data_NNP Sets_NNP ._.
+Table_NNP 4_CD shows_VBZ the_DT performance_NN of_IN COG-OS_NN -LRB-_-LRB- SVMs_NNS -RRB-_-RRB- and_CC pure_JJ SVM_NN on_IN six_CD two-cla_NNS

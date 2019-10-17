@@ -1,0 +1,5 @@
+determine_VBN frequent_JJ sequences_NNS in_IN intrusion_NN data_NNS is_VBZ presented_VBN in_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Lee_NNP et_FW al._FW -LRB-_-LRB- 21_CD -RRB-_-RRB- uses_VBZ a_DT decision_NN tree_NN model_NN over_IN normal_JJ data_NNS andsGhosh_NN et_FW al._FW -LRB-_-LRB- 13_CD -RRB-_-RRB- uses_VBZ a_DT neural_JJ network_NN to_TO obtain_VB the_DT model_NN ._.
+Eskin_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ a_DT probability_NN distribution_NN model_NN from_IN the_DT training_NN data_NNS to_TO determine_VB anomalous_JJ data_NNS ._.
+They_PRP use_VBP a_DT mixture_NN model_NN to_TO explain_VB the_DT presence_NN of_IN anomalies_NNS ._.
+A_DT clustering_NN based_VBN approach_NN to_TO detecting_VBG anoma_NN

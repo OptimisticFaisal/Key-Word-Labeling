@@ -1,0 +1,3 @@
+ms_RB ,_, like_IN the_DT ones_NNS proposed_VBN by_IN Drineas_NNP and_CC Mahoney_NNP -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, which_WDT can_MD handle_VB very_RB large_JJ tensors_NNS with_IN a_DT guaranteed_VBN quality-of-approximation_NN bound_VBD ._.
+More_RBR recently_RB ,_, Tensor-CUR_NN decomposition_NN has_VBZ been_VBN proposed_VBN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT expresses_VBZ the_DT original_JJ tensor_NN in_IN terms_NNS of_IN a_DT basis_NN consisting_VBG of_IN underlying_JJ subtensors_NNS ._.
+This_DT method_NN can_MD comprise_VB an_DT alternative_JJ solution_NN to_TO tensor_VB factorization_NN ,_, which_WDT can_MD handle_VB tensors_NNS with_IN lar_NN

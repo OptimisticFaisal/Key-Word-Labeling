@@ -1,0 +1,5 @@
+committing_VBG bandit_NN setup_NN ._.
+There_EX are_VBP several_JJ extensions_NNS that_WDT call_VBP for_IN future_JJ research_NN which_WDT we_PRP outline_VBP below_IN ._.
+First_RB ,_, an_DT extension_NN of_IN the_DT basic_JJ committing_VBG bandits_NNS setup_NN to_TO the_DT case_NN of_IN contextual_JJ bandits_NNS =_JJ -_: =[_NN 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ natural_JJ ._.
+In_IN this_DT setup_NN before_IN choosing_VBG an_DT arm_NN an_DT additional_JJ ``_`` context_NN ''_'' isprovidedtothedecision_NN maker_NN ._.
+The_DT problem_NN is_VBZ to_TO choose_VB a_DT decision_NN rule_NN from_IN a_DT given_VBN class_NN that_WDT prescribes_VBZ what_WDT arm_NN to_TO choose_VB f_SYM

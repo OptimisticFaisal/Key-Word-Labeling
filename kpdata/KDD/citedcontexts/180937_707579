@@ -1,0 +1,4 @@
+aive_JJ Bayes_NNP models_NNS for_IN the_DT german_NN ,_, glass_NN ,_, heart_NN ,_, ionosphere_NN data_NNS sets_NNS from_IN the_DT training_NN data_NNS including_VBG training_NN data_NNS with_IN penalization_NN -LRB-_-LRB- tr_NN -RRB-_-RRB- and_CC 10-fold_JJ cross-validation_NN -LRB-_-LRB- cv_NN -RRB-_-RRB- ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- ,_, and_CC DuMouchel_NNP et_NNP ._.
+al_FW =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP considered_VBN methods_NNS that_WDT use_VBP compressed_VBN data_NNS representations_NNS that_WDT are_VBP better_JJR than_IN the_DT usual_JJ random_JJ sub-sampling_NN for_IN producing_VBG statistical_JJ models_NNS ._.
+Our_PRP$ approach_NN is_VBZ similar_JJ in_IN spirit_NN to_TO these_DT previo_NNS

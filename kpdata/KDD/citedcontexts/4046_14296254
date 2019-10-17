@@ -1,0 +1,5 @@
+approach_NN ._.
+Insurance_NN :_: This_DT was_VBD part_NN of_IN the_DT COIL_NN 2002_CD competition_NN and_CC proved_VBD difficult_JJ for_IN all_DT algorithms_NNS ._.
+The_DT best_JJS results_NNS were_VBD only_RB a_DT few_JJ percentage_NN points_NNS better_JJR than_IN the_DT best_JJS in_IN Table_NNP IV_NNP -LRB-_-LRB- See_NNP e.g._FW =_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT very_RB best_RB supervised_VBN classifiers_NNS outperform_VBP the_DT outlier_NN methods_NNS on_IN most_JJS datasets_NNS tested_VBN but_CC the_DT margins_NNS are_VBP generally_RB small_JJ ._.
+Remarkably_RB ,_, one_CD of_IN our_PRP$ unsupervised_JJ approaches_NNS achieved_VBD the_DT best_JJS res_NNS

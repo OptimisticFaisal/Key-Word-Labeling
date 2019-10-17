@@ -1,0 +1,4 @@
+the_DT need_NN to_TO work_VB in_IN sub-quadratic_JJ time_NN due_JJ to_TO the_DT large_JJ lengths_NNS of_IN even_RB moderately_RB sized_VBN time_NN series_NN ._.
+Many_JJ algorithms_NNS have_VBP been_VBN suggested_VBN to_TO deal_VB with_IN this_DT problem_NN including_VBG the_DT PROJECTION_NN algorithm_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: and_CC its_PRP$ descendants_NNS -LRB-_-LRB- 76_CD -RRB-_-RRB- ._.
+One_CD major_JJ problem_NN of_IN most_JJS of_IN these_DT algorithms_NNS is_VBZ that_IN they_PRP can_MD become_VB quadratic_JJ in_IN the_DT time_NN series_NN length_NN or_CC in_IN its_PRP$ SAX_NN representation_NN -LRB-_-LRB- 60_CD -RRB-_-RRB- ._.
+Recently_RB Catalano_NNP et_FW al._FW introdu_FW

@@ -1,0 +1,4 @@
+nfrastructure_NN ._.
+Existing_VBG aproaches_NNS to_TO deploy_VB a_DT collaborative_JJ system_NN on_IN a_DT distribted_JJ network_NN include_VBP Wooki_NNP -LRB-_-LRB- 33_CD -RRB-_-RRB- ,_, DistriWiki_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, RepliWiki_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ,_, Distributed_VBN Version_NNP Control_NNP systems_NNS -LRB-_-LRB- 1_CD ,_, 11_CD ,_, 37_CD -RRB-_-RRB- ,_, DTWiki_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Piki_NNP -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+Several_JJ drawback_NN prevent_VBP these_DT systems_NNS from_IN being_VBG used_VBN in_IN our_PRP$ target_NN scenario_NN ._.
+They_PRP either_RB require_VBP total_JJ replication_NN of_IN content_NN ,_, requiring_VBG all_DT wiki_JJ pages_NNS are_VBP replicated_VBN at_IN all_DT nodes_NNS ,_, o_NN

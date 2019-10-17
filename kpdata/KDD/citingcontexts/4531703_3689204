@@ -1,0 +1,5 @@
+e_LS rare_JJ class_NN purposefully_RB -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+Other_JJ algorithms_NNS developed_VBD for_IN mining_NN rare_JJ classes_NNS include_VBP SMOTE_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, RIPPER_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- etc._NN ._.
+A_DT survey_NN paper_NN is_VBZ given_VBN by_IN Weiss_NNP -LRB-_-LRB- 31_CD -RRB-_-RRB- ._.
+Finally_RB ,_, in_IN her_PRP$ inspiring_JJ paper_NN ,_, Japkowicz_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: shows_VBZ the_DT idea_NN of_IN ``_`` supervised_JJ learning_NN with_IN unsupervised_JJ output_NN separation_NN ''_'' ._.
+This_DT work_NN shares_VBZ some_DT common_JJ grounds_NNS with_IN our_PRP$ COG_NN method_NN in_IN terms_NNS of_IN combining_VBG supervised_JJ and_CC unsupervised_JJ learning_NN techni_NNS

@@ -1,0 +1,5 @@
+ing_FW Dataset_FW Repository_NN ''_'' -LRB-_-LRB- retail_JJ ._.
+gz_FW dataset_FW -RRB-_-RRB- ._.
+The_DT dataset_NN was_VBD donated_VBN by_IN Tom_NNP Brijs_NNP and_CC includes_VBZ sales_NNS transactions_NNS acquired_VBN from_IN a_DT fully-automated_JJ convenience_NN store_NN over_IN a_DT period_NN of_IN 5.5_CD months_NNS in_IN 1998_CD =_JJ -_: =_JJ -LRB-_-LRB- BSVW99_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP used_VBD the_DT ``_`` Apriori_JJ algorithm_NN ''_'' -LRB-_-LRB- HK01_NN -RRB-_-RRB- to_TO obtain_VB the_DT frequent_JJ itemsets_NNS ._.
+We_PRP performed_VBD the_DT experiments_NNS with_IN three_CD different_JJ privacy_NN support_NN thresholds_NNS -LRB-_-LRB- σ_NN =_JJ 5_CD %_NN ,_, σ_NN =_JJ 4_CD %_NN ,_, σ_NN =_JJ 1_CD It_PRP should_MD be_VB noted_VBN that_IN ,_, t_NN

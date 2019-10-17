@@ -1,0 +1,4 @@
+considered_VBN as_IN the_DT unsupervised_JJ learning_NN problem_NN ._.
+Ruocco_NNP and_CC Frieder_NNP -LRB-_-LRB- 15_CD -RRB-_-RRB- propose_VBP parallel_JJ single-link_JJ and_CC single-pass_JJ algorithm_NN for_IN clustering_NN documents_NNS worked_VBD on_IN an_DT Intel_NNP Paragon_NNP ._.
+Dhillon_NNP and_CC Modha_NNP =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: introduce_VB an_DT effective_JJ parallelization_NN of_IN the_DT k-means_NN clustering_NN algorithm_NN implemented_VBN on_IN an_DT IBM_NNP POWERparallel_NN SP2_NN ._.
+Forman_NNP and_CC Zhang_NNP -LRB-_-LRB- 4_LS -RRB-_-RRB- also_RB present_VBP a_DT general_JJ technique_NN for_IN parallelizing_VBG a_DT class_NN of_IN

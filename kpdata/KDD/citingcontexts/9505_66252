@@ -1,0 +1,4 @@
+moving_VBG stop_NN words_NNS and_CC numeric_JJ characters_NNS we_PRP selected_VBD the_DT top_JJ 2000_CD words_NNS by_IN mutual_JJ information_NN as_IN part_NN of_IN our_PRP$ pre-processing_NN ._.
+We_PRP will_MD refer_VB to_TO this_DT data_NNS set_VBN as_IN CLASSIC3_NN ._.
+5.2_CD Implementation_NNP Details_NNP Bow_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT library_NN of_IN C_NN code_NN useful_JJ for_IN writing_VBG text_NN analysis_NN ,_, language_NN modeling_NN and_CC information_NN retrieval_NN programs_NNS ._.
+We_PRP extended_VBD Bow_NNP to_TO implement_VB co-clustering_NN and_CC document_NN clustering_NN and_CC used_VBD MATLAB_NNP to_TO gi_VB

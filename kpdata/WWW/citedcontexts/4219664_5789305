@@ -1,0 +1,5 @@
+access_VB a_DT resource_NN in_IN another_DT origin_NN ._.
+The_DT policy_NN applies_VBZ to_TO both_CC network_NN access_NN and_CC browser_NN state_NN such_JJ as_IN the_DT Document_NNP Object_NNP Model_NNP -LRB-_-LRB- DOM_NNP -RRB-_-RRB- interface_NN ,_, cookies_NNS ,_, cache_NN ,_, history_NN ,_, and_CC the_DT password_NN database_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT attacks_NNS described_VBN in_IN this_DT paper_NN circumvent_VBP the_DT same_JJ originpolicy_NN for_IN network_NN access_NN ._.
+Access_NN Within_IN Same_JJ Origin_NN ._.
+Within_IN the_DT same_JJ origin_NN ,_, both_CC content_NN and_CC browser_NN scripts_NNS can_MD read_VB and_CC write_VB networ_NN

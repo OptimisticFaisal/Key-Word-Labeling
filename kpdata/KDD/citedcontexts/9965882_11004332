@@ -1,0 +1,3 @@
+ing_NN of_IN the_DT learning_NN and_CC the_DT evaluation_NN ._.
+The_DT most_RBS efficient_JJ way_NN to_TO get_VB a_DT precise_JJ measure_NN of_IN the_DT recent_JJ accuracy_NN of_IN the_DT sub-trees_NNS is_VBZ by_IN using_VBG fading_JJ factors_NNS in_IN the_DT computation_NN of_IN the_DT sum_NN as_IN proposed_VBN in_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB it_PRP has_VBZ been_VBN shown_VBN that_IN the_DT fading_JJ factor_NN mimics_VBZ the_DT sliding_VBG window_NN computation_NN of_IN any_DT statistic_NN ._.
+The_DT procedure_NN is_VBZ the_DT following_NN :_: when_WRB the_DT maximum_NN number_NN of_IN options_NNS k_NN is_VBZ reached_VBN ,_, every_DT time_NN a_DT n_NN

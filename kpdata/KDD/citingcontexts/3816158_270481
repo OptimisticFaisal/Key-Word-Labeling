@@ -1,0 +1,4 @@
+deals_NNS with_IN the_DT regularizer_NN Ω_NN -LRB-_-LRB- w_NN -RRB-_-RRB- and_CC is_VBZ able_JJ to_TO query_VB the_DT loss_NN function_NN for_IN values_NNS of_IN Remp_NN -LRB-_-LRB- w_NN -RRB-_-RRB- and_CC ∂_FW wRemp_FW -LRB-_-LRB- w_NN -RRB-_-RRB- as_IN needed_VBN ._.
+This_DT is_VBZ very_RB similar_JJ to_TO the_DT design_NN of_IN the_DT Toolkit_NNP for_IN Advanced_NNP Optimization_NNP -LRB-_-LRB- TAO_NNP -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Depending_VBG on_IN the_DT type_NN of_IN loss_NN function_NN ,_, computing_VBG Remp_NNP can_MD be_VB very_RB costly_JJ ._.
+This_DT is_VBZ particularly_RB true_JJ in_IN cases_NNS where_WRB l_NN -LRB-_-LRB- x_NN ,_, y_NN ,_, w_NN -RRB-_-RRB- is_VBZ the_DT log-likelihood_NN of_IN an_DT intractable_JJ conditional_JJ random_JJ fields_NNS or_CC of_IN

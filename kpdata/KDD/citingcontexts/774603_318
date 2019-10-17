@@ -1,0 +1,3 @@
+massive_JJ gene_NN expression_NN data_NNS ,_, with_IN a_DT focus_NN on_IN twig_NN clusters_NNS with_IN size_NN as_RB small_JJ as_IN 2_CD ._.
+2.1_CD Relationship_NN to_TO Sequential_NNP Pattern_NNP Mining_NNP Conventional_JJ sequential_JJ pattern_NN mining_NN was_VBD motivated_VBN and_CC introduced_VBN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: in_IN the_DT context_NN of_IN transaction_NN databases_NNS ,_, where_WRB a_DT sequence_NN is_VBZ an_DT ordered_VBN list_NN of_IN itemsets_NNS ._.
+A_DT common_JJ subsequence_NN with_IN support_NN beyond_IN the_DT minimum_JJ support_NN threshold_NN ,_, min_NN sup_NN ,_, is_VBZ called_VBN a_DT sequential_JJ patte_NN

@@ -1,0 +1,4 @@
+2.2_CD Distance_NNP Metric_NNP Learning_NNP In_IN this_DT subsection_NN ,_, we_PRP show_VBP how_WRB to_TO generalize_VB the_DT model_NN in_IN Eqn_NN ._.
+13_CD to_TO unseen_JJ instances_NNS without_IN overfitting_VBG the_DT contextual_JJ information_NN ._.
+We_PRP use_VBP the_DT feature-weighting_JJ method_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: by_IN modifying_VBG the_DT inner_JJ product_NN kij_NN =_JJ φ_NN T_NN i_FW φj_FW in_IN P_NN as_IN φ_NN T_NN i_FW AA_FW T_NN φj_NN ._.
+Here_RB ,_, Am_VBP ′_FW ×_FW m_NN ′_NN is_VBZ the_DT weighting_NN matrix_NN and_CC m_NN ′_NN is_VBZ the_DT dimension_NN of_IN P._NNP Based_VBN on_IN the_DT idea_NN of_IN feature_NN reduction_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, we_PRP aim_VBP to_TO achi_VB

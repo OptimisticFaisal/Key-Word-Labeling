@@ -1,0 +1,6 @@
+thmic_JJ issues_NNS directly_RB ._.
+Instead_RB ,_, di_FW erent_JJ methods_NNS of_IN subsampling_NN and_CC approximation_NN are_VBP proposed_VBN ._.
+A_DT way_NN to_TO obtain_VB a_DT small_JJ \_CD balanced_JJ ''_'' sample_NN of_IN points_NNS by_IN sampling_NN from_IN the_DT leaves_NNS of_IN a_DT R_NN tree_NN is_VBZ shown_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, a_DT simulated-annealing_JJ approach_NN is_VBZ suggested_VBN to_TO direct_VB the_DT search_NN in_IN the_DT space_NN of_IN possible_JJ partitions_NNS of_IN the_DT input_NN points_NNS ._.
+A_DT tree_NN structure_NN with_IN su_FW cient_FW statistics_NNS is_VBZ presented_VBN in_IN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+It_PRP

@@ -1,0 +1,3 @@
+we_PRP discuss_VBP in_IN detail_NN in_IN Section_NNP 5_CD ._.
+Many_JJ of_IN these_DT techniques_NNS rely_VBP on_IN static_JJ resource_NN limits_NNS -LRB-_-LRB- 3_CD ,_, 36_CD -RRB-_-RRB- ,_, apply_VB only_RB to_TO simplistic_JJ ,_, static_JJ Web_NN page_NN loads_NNS -LRB-_-LRB- 2_CD ,_, 9_CD -RRB-_-RRB- ,_, or_CC have_VBP been_VBN studied_VBN only_RB under_IN simulation_NN =_JJ -_: =[_NN 10_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN contrast_NN ,_, the_DT techniques_NNS described_VBN in_IN this_DT paper_NN allow_VBP services_NNS to_TO adapt_VB to_TO changing_VBG loads_NNS ,_, apply_VB to_TO complex_JJ ,_, dynamic_JJ Internet_NNP services_NNS with_IN widely_RB varying_VBG resource_NN demands_NNS ,_, and_CC have_VBP been_VBN impleme_JJ

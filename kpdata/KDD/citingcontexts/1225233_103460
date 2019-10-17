@@ -1,0 +1,4 @@
+.05_CD ,_, the_DT tick_NN corresponding_VBG to_TO the_DT value_NN `_`` high_JJ '_'' for_IN the_DT attribute_NN Low_NNP status_NN is_VBZ aligned_VBN with_IN 0.05_CD on_IN the_DT `_`` Log_NN OR_NN '_'' axis_NN ._.
+The_DT class_NN of_IN models_NNS of_IN the_DT above_JJ type_NN are_VBP the_DT generalized_JJ additive_JJ models_NNS -LRB-_-LRB- GAM_NN ,_, =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+When_WRB each_DT effect_NN function_NN is_VBZ linear_JJ ,_, we_PRP speak_VBP of_IN a_DT generalized_JJ linear_JJ model_NN -LRB-_-LRB- GLM_NN -RRB-_-RRB- ._.
+For_IN a_DT GLM_NNP ,_, the_DT response_NN or_CC the_DT systematic_JJ component_NN is_VBZ written_VBN as_IN β0_NN +_CC È_NN j_NN -LRB-_-LRB- β_NN -RRB-_-RRB- j_NN -LRB-_-LRB- x_NN -RRB-_-RRB- j_NN ,_, where_WRB -LRB-_-LRB- x_NN -RRB-_-RRB- jis_VBZ the_DT j-thcoordinat_NN

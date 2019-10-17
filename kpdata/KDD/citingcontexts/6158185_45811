@@ -1,0 +1,5 @@
+ressive_JJ confident_JJ rules_NNS can_MD be_VB utilized_VBN to_TO predict_VB an_DT object_NN 's_POS future_JJ state_NN ._.
+This_DT is_VBZ a_DT classification_NN problem_NN in_IN essence_NN ._.
+We_PRP incorporate_VBP the_DT rules_NNS into_IN three_CD representative_JJ classifiers_NNS C4_NN .5_CD -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, SVM_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Bayes_NNP Classifier_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- to_TO improve_VB their_PRP$ classification_NN accuracy_NN ._.
+The_DT major_JJ contributions_NNS of_IN this_DT paper_NN is_VBZ as_IN follows_VBZ ._.
+•_VB We_PRP introduce_VB a_DT new_JJ kind_NN of_IN pattern_NN called_VBN progressive_JJ rule_NN that_WDT intuitively_RB c_SYM

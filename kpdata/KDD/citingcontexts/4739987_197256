@@ -1,0 +1,4 @@
+lowing_VBG discussion_NN ,_, we_PRP will_MD refer_VB to_TO this_DT method_NN as_IN the_DT tfidf_NN classifier_NN ._.
+4.3_CD Naive_JJ Bayes_NNS Naive_JJ Bayes_NNP is_VBZ a_DT probabilistic_JJ method_NN that_WDT has_VBZ a_DT long_JJ history_NN in_IN information_NN retrieval_NN and_CC text_NN classification_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP stores_VBZ as_IN its_PRP$ concept_NN description_NN the_DT prior_JJ probability_NN of_IN each_DT class_NN ,_, P_NN -LRB-_-LRB- Ci_NN -RRB-_-RRB- ,_, and_CC the_DT conditional_JJ probability_NN of_IN each_DT attribute_NN value_NN given_VBN the_DT class_NN ,_, P_NN -LRB-_-LRB- vj_FW |_FW Ci_FW -RRB-_-RRB- ._.
+It_PRP estimates_VBZ these_DT quantities_NNS by_IN

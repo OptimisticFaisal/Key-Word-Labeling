@@ -1,0 +1,5 @@
+tic_JJ features_NNS ,_, and_CC generate_VB recommendations_NNS ._.
+In_IN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, Web_NN items_NNS -LRB-_-LRB- documents_NNS -RRB-_-RRB- are_VBP first_RB clustered_VBN based_VBN on_IN users_NNS '_POS navigational_JJ data_NNS ,_, and_CC then_RB user_NN behavior_NN models_NNS are_VBP built_VBN at_IN the_DT item-cluster_JJ level_NN ._.
+In_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT Web_NN usage_NN mining_NN framework_NN based_VBN on_IN Probabilistic_JJ Latent_JJ Semantic_JJ Analysis_NN -LRB-_-LRB- PLSA_NN -RRB-_-RRB- is_VBZ proposed_VBN ._.
+A_DT set_NN of_IN hidden_JJ variables_NNS are_VBP used_VBN to_TO represent_VB users_NNS '_POS common_JJ tasks_NNS when_WRB navigating_VBG the_DT Web_NN site_NN ._.
+The_DT

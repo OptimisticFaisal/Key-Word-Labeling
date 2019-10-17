@@ -1,0 +1,4 @@
+urve_NN ._.
+For_IN example_NN ,_, on_IN noisy_JJ data_NNS ,_, windowing_VBG learning_NN curves_NNS are_VBP notoriously_RB ill_RB behaved_VBN :_: subsequent_JJ samples_NNS contain_VBP increasing_VBG amounts_NNS of_IN noise_NN ,_, and_CC performance_NN often_RB decreases_VBZ as_IN sampling_NN progresses_VBZ =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP would_MD be_VB interesting_JJ to_TO examine_VB more_RBR closely_RB the_DT use_NN of_IN the_DT techniques_NNS outlined_VBN above_RB in_IN the_DT context_NN of_IN active_JJ sampling_NN ,_, and_CC the_DT potential_JJ synergies_NNS ._.
+8_CD Conclusion_NN With_IN this_DT work_NN we_PRP have_VBP made_VBN subs_NNS

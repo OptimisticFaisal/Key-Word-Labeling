@@ -1,0 +1,5 @@
+ture_NN ._.
+Our_PRP$ work_NN is_VBZ also_RB related_JJ to_TO work_NN described_VBN in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- where_WRB association_NN rules_NNS are_VBP mined_VBN that_IN only_RB occur_VBP within_IN a_DT certain_JJ time_NN interval_NN ._.
+In_IN other_JJ work_NN time_NN series_NN data_NNS is_VBZ mined_VBN for_IN periodic_JJ patterns_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB the_DT dataset_NN consists_VBZ of_IN sequences_NNS representing_VBG ,_, e.g._FW ,_, one_CD day_NN where_WRB each_DT item_NN represents_VBZ a_DT value_NN changing_VBG as_IN the_DT day_NN goes_VBZ by_IN ._.
+Time_NN series_NN data_NNS is_VBZ a_DT related_JJ issue_NN but_CC different_JJ since_IN our_PRP$ method_NN

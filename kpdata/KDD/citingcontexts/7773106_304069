@@ -1,0 +1,5 @@
+er_IN event_NN b_NN ,_, say_VB ,_, about_IN 5_CD minutes_NNS ''_'' ._.
+We_PRP refer_VBP this_DT type_NN of_IN patterns_NNS as_IN t-patterns_NN ._.
+4.3_CD Discovering_VBG t-Patterns_NNS Previous_JJ work_NN of_IN temporal_JJ mining_NN focuses_VBZ on_IN frequent_JJ itemsets_NNS with_IN a_DT predefined_JJ time_NN window_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP fails_VBZ to_TO address_VB two_CD important_JJ aspects_NNS often_RB required_VBN by_IN applications_NNS ._.
+First_RB ,_, the_DT fixed_JJ time-window_JJ scheme_NN can_MD not_RB explore_VB precise_JJ temporal_JJ information_NN within_IN a_DT window_NN ,_, and_CC misses_VBZ the_DT opportunity_NN

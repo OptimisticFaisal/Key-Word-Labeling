@@ -1,0 +1,3 @@
+g_NN from_IN distributed_VBN data_NNS sets_NNS ,_, people_NNS have_VBP designed_VBN methods_NNS that_WDT can_MD learn_VB multiple_JJ classifiers_NNS from_IN local_JJ data_NNS sets_NNS in_IN a_DT distributed_VBN environment_NN and_CC then_RB combine_VB local_JJ classifiers_NNS into_IN a_DT global_JJ model_NN =_JJ -_: =[_NN 32_CD ,_, 33_CD ,_, 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, these_DT methods_NNS still_RB focus_VB on_IN learning_VBG from_IN a_DT training_NN set_VBN with_IN sufficient_JJ labeled_JJ examples_NNS ._.
+Moreover_RB ,_, the_DT proposed_VBN problems_NNS and_CC solutions_NNS in_IN this_DT paper_NN are_VBP different_JJ from_IN the_DT following_JJ work_NN

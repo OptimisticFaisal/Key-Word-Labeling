@@ -1,0 +1,5 @@
+er_IN words_NNS used_VBN in_IN the_DT same_JJ subtrees_NNS as_IN the_DT verbs_NNS ._.
+To_TO do_VB this_DT we_PRP use_VBP FREQuent_JJ Tree_NN miner_NN ._.
+6_CD This_DT software_NN is_VBZ an_DT implementation_NN of_IN the_DT algorithm_NN presented_VBN by_IN -LRB-_-LRB- Abe_NNP ,_, Kawasoe_NNP ,_, Asai_NNP ,_, Arimura_NNP &_CC Arikawa_NNP 2002_CD ,_, =_JJ -_: =_JJ Zaki_NNP 2002_CD -_: =--RRB-_NN ,_, which_WDT extracts_VBZ frequent_JJ ordered_VBN subtrees_NNS from_IN a_DT set_NN of_IN ordered_VBN trees_NNS ._.
+Following_VBG -LRB-_-LRB- Sudo_NNP et_FW al._FW 2003_CD -RRB-_-RRB- we_PRP are_VBP interested_VBN only_RB in_IN the_DT words_NNS which_WDT are_VBP near_IN neighbors_NNS of_IN the_DT most_RBS frequent_JJ verbs_NNS ._.
+Thus_RB ,_, we_PRP

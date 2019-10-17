@@ -1,0 +1,5 @@
+case_NN of_IN multiple_JJ moving_VBG objects_NNS -LRB-_-LRB- or_CC time-series_NNS -RRB-_-RRB- ,_, trajectories_NNS are_VBP typically_RB concatenated_VBN to_TO a_DT single_JJ long_JJ sequence_NN ._.
+Then_RB ,_, an_DT algorithm_NN that_WDT discovers_VBZ frequent_JJ subsequences_NNS in_IN a_DT long_JJ sequence_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =--RRB-_NN is_VBZ applied_VBN ._.
+Periodicity_NN has_VBZ only_RB been_VBN studied_VBN in_IN the_DT context_NN of_IN timeseries_NNS databases_NNS ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- addresses_VBZ the_DT following_JJ problem_NN ._.
+Given_VBN a_DT long_JJ sequence_NN S_NN and_CC a_DT period_NN T_NN ,_, the_DT aim_NN is_VBZ to_TO discover_VB the_DT most_JJS re_NN

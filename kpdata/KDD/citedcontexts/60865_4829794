@@ -1,0 +1,8 @@
+._.
+下面讨论如何使用_FW Ranking_FW SVM_FW 来学习这个向量_FW ._.
+s560_NNP Journal_NNP of_IN Software_NNP 软件学报_NNP Vol_NNP .19_CD ,_, No._NN 3_CD ,_, March_NNP 2008_CD 2.2_CD Ranking_NN SVM_NN 排序问题是指学习如何给一组对象按照一定标准设定它们之间的相对顺序_NN ,_, 它是在近年来的机器学习研_FW 究中一个很受关注的问题_FW -LRB-_-LRB- 20_CD −_NN 22_CD -RRB-_-RRB- ._.
+不同于传统的机器学习任务_NN --_: --_: 分类和回归_NN ,_, Ranking_NN SVM_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: 被定义为将不同_FW 对象映射到某种序关系上_FW ._.
+在人们的偏好关系起重要作用的一些领域_NN ,_, 如社会科学和信息检索_NN ,_, 排序问题十分普_FW 遍_FW ._.
+这里使用的Ranking_FW SVM可被看作是对序数回归_FW -LRB-_-LRB- ordinal_JJ regression_NN -RRB-_-RRB- SVM的推广_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+使用Ranking_NN SVM的一个关键是如何对用户的偏好判断进行建模_NN ,_, 从而导出排序的约束关系_NN ._.
+文献_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- 中使_FW 用了点击日志_FW -LRB-_-LRB- clickthrough_JJ -RRB-_-RRB- 来确定用_NN

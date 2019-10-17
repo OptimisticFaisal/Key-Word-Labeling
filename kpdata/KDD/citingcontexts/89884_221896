@@ -1,0 +1,5 @@
+matching_VBG deal_NN with_IN induced_VBN subtrees_NNS ,_, while_IN we_PRP mine_VBP embedded_JJ subtrees_NNS ._.
+Further_RB we_PRP are_VBP interested_JJ in_IN enumerating_VBG all_DT common_JJ subtrees_NNS in_IN a_DT collection_NN of_IN trees_NNS ._.
+The_DT tree_NN inclusion_NN problem_NN was_VBD studied_VBN in_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, i.e._FW ,_, given_VBN labeled_JJ trees_NNS P_NN and_CC T_NN ,_, can_MD P_NN be_VB obtained_VBN from_IN T_NN by_IN deleting_VBG nodes_NNS ?_.
+This_DT problem_NN is_VBZ equivalent_JJ to_TO checking_NN if_IN P_NN is_VBZ embedded_VBN in_IN T_NN ._.
+The_DT paper_NN presents_VBZ a_DT dynamic_JJ programming_NN algorithm_NN for_IN

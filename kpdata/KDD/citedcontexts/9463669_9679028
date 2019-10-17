@@ -1,0 +1,6 @@
+a_DT lottery_NN always_RB has_VBZ a_DT victim_NN whose_WP$ data_NNS is_VBZ revealed_VBN completely_RB ._.
+Differential_JJ privacy_NN precludes_VBZ such_JJ victimization_NN by_IN guaranteeing_VBG that_IN no_DT output_NN reveals_VBZ any_DT single_JJ person_NN 's_POS data_NNS with_IN certainty_NN ._.
+See_VB =_SYM -_: =[_NN 19_CD ,_, 31_CD -RRB-_-RRB- -_: =_SYM -_: for_IN discussion_NN ._.
+3_LS ._.
+In_IN a_DT differentially_RB private_JJ mechanism_NN ,_, every_DT possible_JJ output_NN has_VBZ either_CC non-zero_JJ probability_NN on_IN every_DT input_NN or_CC zero_NN probability_NN on_IN every_DT input_NN ._.
+This_DT should_MD be_VB compared_VBN with_IN the_DT lit_VBN

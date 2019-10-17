@@ -1,0 +1,4 @@
+unsupervised_JJ clustering_NN algorithm_NN -LRB-_-LRB- Xing_NNP et_FW al._FW ,_, 2003_CD -RRB-_-RRB- ._.
+Naturally_RB ,_, the_DT approach_NN of_IN adapting_VBG similarities_NNS can_MD be_VB combined_VBN with_IN the_DT approach_NN of_IN explicitly_RB accounting_VBG for_IN constraints_NNS -LRB-_-LRB- Klein_NNP et_FW al._FW ,_, 2002_CD ;_: =_JJ -_: =_JJ Basu_NNP et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN ._.
+The_DT solution_NN we_PRP propose_VBP here_RB is_VBZ to_TO adapt_VB the_DT underlying_JJ factor-graph_NN used_VBN in_IN affinity_NN propagation_NN such_JJ that_IN constraints_NNS are_VBP explicitly_RB added_VBN ,_, but_CC also_RB propagated_VBN ._.
+We_PRP add_VBP `_`` meta-points_NNS '_'' to_TO the_DT underl_NN

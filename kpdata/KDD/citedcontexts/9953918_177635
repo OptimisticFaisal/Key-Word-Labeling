@@ -1,0 +1,4 @@
+no_DT interaction_NN involving_VBG either_CC of_IN them_PRP as_IN in_IN a_DT cold-start_JJ setting_NN ,_, this_DT model_NN becomes_VBZ the_DT classical_JJ content-based_JJ relevance_NN model_NN commonly_RB used_VBN in_IN ,_, e.g._FW webpage_FW ranking_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- ,_, advertisement_NN targeting_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC content_NN recommendation_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+4_LS ._.
+EXPERIMENTS_NNS Wereportexperimentalresultsontwotest-beds_NNS ._.
+First_RB ,_, we_PRP evaluate_VBP the_DT CCF_NNP models_NNS with_IN CF_NN baselines_NNS on_IN two_CD dyadic_JJ data_NNS sets_NNS with_IN simulated_JJ choice_NN contexts_NNS ._.

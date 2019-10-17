@@ -1,0 +1,5 @@
+feature_NN selection_NN as_IN described_VBN above_IN works_NNS offline_JJ ._.
+Thus_RB ,_, all_DT training_NN samples_NNS must_MD be_VB given_VBN in_IN advance_NN ._.
+In_IN our_PRP$ work_NN we_PRP use_VBP on-line_JJ feature_NN selection_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- based_VBN on_IN an_DT online_JJ version_NN of_IN AdaBoost_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Therefore_RB ,_, each_DT boosting_VBG step_NN of_IN the_DT off-line_JJ algorithm_NN has_VBZ to_TO be_VB done_VBN on-line_JJ ._.
+The_DT mechanism_NN performs_VBZ an_DT update_VB of_IN weak_JJ classifiers_NNS whenever_WRB a_DT new_JJ training_NN sample_NN arrives_VBZ ,_, which_WDT allows_VBZ to_TO adaptivel_VB

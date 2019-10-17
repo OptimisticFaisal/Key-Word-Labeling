@@ -1,0 +1,4 @@
+rent_NN combinations_NNS ._.
+Dashed_VBN edges_NNS represent_VBP a_DT ``_`` dominates_VBZ ''_'' edge_NN produced_VBD only_RB for_IN D._NNP 3.3_CD Inducing_NNP Graph_NNP Grammars_NNPS To_TO mine_VB patterns_NNS in_IN the_DT dominator_NN tree_NN ,_, we_PRP explore_VBP the_DT use_NN of_IN context-free_JJ graph_NN grammars_NNS =_JJ -_: =[_NN 10_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: instead_RB of_IN mere_JJ subgraphs_NNS ._.
+Graph_NN grammars_NNS are_VBP necessary_JJ because_IN leaking_VBG objects_NNS are_VBP often_RB recursive_JJ in_IN nature_NN and_CC we_PRP require_VBP the_DT expressiveness_NN of_IN graph_NN grammars_NNS ._.
+Furthermore_RB ,_, it_PRP is_VBZ not_RB necessarily_RB t_NN

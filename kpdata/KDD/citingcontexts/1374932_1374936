@@ -1,0 +1,5 @@
+r_NN experiments_NNS ._.
+There_EX is_VBZ a_DT broad_JJ consensus_NN that_IN similarity_NN measurement_NN with_IN proper_JJ preprocessing_NN could_MD give_VB better_JJR results_NNS ._.
+For_IN example_NN ,_, time_NN series_NN can_MD have_VB different_JJ baselines_NNS and_CC scaling_VBG factors_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+From_IN human_JJ interpretation_NN ,_, if_IN two_CD time_NN series_NNS are_VBP with_IN similar_JJ behaviors_NNS running_VBG at_IN different_JJ levels_NNS or_CC with_IN different_JJ scale_NN ,_, they_PRP should_MD be_VB treated_VBN as_IN similar_JJ ._.
+In_IN order_NN to_TO compare_VB our_PRP$ approach_NN with_IN

@@ -1,0 +1,5 @@
+the_DT use_NN of_IN RUDs_NNS in_IN -LRB-_-LRB- multidimensional_JJ -RRB-_-RRB- database_NN design_NN ._.
+Our_PRP$ work_NN was_VBD inspired_VBN by_IN the_DT work_NN on_IN temporal_JJ FDs_NNS -LRB-_-LRB- TFDs_NNS -RRB-_-RRB- and_CC temporal_JJ normalization_NN of_IN Wang_NNP et_FW al._FW -LRB-_-LRB- WBBJ97_NN -RRB-_-RRB- ,_, and_CC the_DT TFDs_NNS proposed_VBN by_IN ourselves_PRP =_JJ -_: =_JJ -LRB-_-LRB- Wij99_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+Loosely_RB speaking_VBG ,_, a_DT TFD_NNP corresponds_VBZ to_TO a_DT RUD_NN where_WRB roll-up_NN is_VBZ only_RB provided_VBN for_IN one_CD single_JJ dedicated_JJ timestamping_NN attribute_NN ._.
+Theorem_NN 2_CD shows_VBZ that_IN RUDMINE_NN is_VBZ NP-hard_JJ in_IN the_DT number_NN of_IN attributes_NNS ._.
+Data_NNS

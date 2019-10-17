@@ -1,0 +1,4 @@
+ke_NN of_IN simplicity_NN ,_, we_PRP assume_VBP that_IN these_DT topics_NNS are_VBP specified_VBN in_IN advance_NN -LRB-_-LRB- for_IN example_NN ,_, by_IN editors_NNS who_WP wish_VBP to_TO curate_VB the_DT tweet_NN stream_NN -RRB-_-RRB- ._.
+The_DT problem_NN setup_NN naturally_RB fits_VBZ a_DT streaming_NN model_NN of_IN computation_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN which_WDT events_NNS arrive_VBP continuously_RB at_IN a_DT high_JJ rate_NN and_CC need_VBP to_TO be_VB processed_VBN in_IN bounded_JJ space_NN and_CC time_NN ._.
+An_DT event_NN is_VBZ only_RB encountered_VBN once_RB and_CC subsequently_RB ``_`` lost_VBN ''_'' forever_RB ._.
+Although_IN an_DT algorithm_NN can_MD ``_`` r_NN

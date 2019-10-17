@@ -1,0 +1,4 @@
+ling_NN geographically_RB distributed_VBN Web_NN sites_NNS ._.
+There_EX are_VBP a_DT number_NN of_IN information_NN retrieval_NN works_VBZ on_IN peer-to-peer_JJ environments_NNS -LRB-_-LRB- Bender_NNP ,_, Michel_NNP ,_, Triantafillou_NNP ,_, Weikum_NNP ,_, &_CC Zimmer_NNP ,_, 2005_CD -RRB-_-RRB- ,_, distributed_VBN systems_NNS -LRB-_-LRB- =_JJ -_: =_JJ Melnik_NNP ,_, Raghavan_NNP ,_, Yang_NNP ,_, &_CC Garcia-Molina_NNP ,_, 2001_CD -_: =--RRB-_NN ,_, and_CC the_DT grid_NN -LRB-_-LRB- Scholze_NNP ,_, Haya_NNP ,_, Vigen_NNP ,_, &_CC Prazak_NNP ,_, 2004_CD -RRB-_-RRB- ._.
+MINERVA_NNP -LRB-_-LRB- Bender_NNP et_FW al._FW ,_, 2005_CD -RRB-_-RRB- is_VBZ a_DT peer-to-peer_JJ Web_NN search_NN engine_NN ,_, in_IN which_WDT each_DT peer_VBP independently_RB executes_VBZ a_DT Web_NN crawler_NN ._.
+This_DT peer-to-peer_NN sy_NN

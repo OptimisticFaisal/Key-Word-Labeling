@@ -1,0 +1,5 @@
+1_CD We_PRP used_VBD Stanford_NNP Parser_NNP -LRB-_-LRB- http:\/\/nlp.stanford.edu\/_NNP software\/lex-parser_NNP ._.
+shtml_NN -RRB-_-RRB- ,_, but_CC there_EX are_VBP more_JJR tools_NNS available_JJ like_IN Natural_JJ Language_NN ToolKit_NN -LRB-_-LRB- NLTK_NN -RRB-_-RRB- package_NN -LRB-_-LRB- http:\/\/www.nltk.org_NN -RRB-_-RRB- ._.
+terns_NNS among_IN them_PRP =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Unfortunately_RB ,_, it_PRP is_VBZ still_RB intractable_JJ to_TO use_VB this_DT generate-and-test_JJ methodology_NN to_TO get_VB discriminative_JJ patterns_NNS because_IN there_EX are_VBP simply_RB too_RB many_JJ candidate_NN patterns_NNS ._.
+For_IN this_DT reason_NN ,_, there_EX have_VBP been_VBN

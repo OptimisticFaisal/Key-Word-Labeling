@@ -1,0 +1,4 @@
+roblem_NN of_IN learning_VBG predictive_JJ models_NNS from_IN distributed_VBN data_NNS sources_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+Crammer_NNP et_FW al._FW -LRB-_-LRB- 19_CD -RRB-_-RRB- have_VBP examined_VBN the_DT problem_NN of_IN learning_VBG predictors_NNS from_IN a_DT set_NN of_IN related_JJ data_NNS sources_NNS ._.
+Ben-David_NNP et_FW al._FW =_SYM -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP analyzed_VBN the_DT sample_NN complexity_NN of_IN learning_VBG from_IN semantically_RB disparate_JJ data_NN sources_NNS ._.
+However_RB ,_, none_NN of_IN these_DT works_NNS have_VBP considered_VBN the_DT effect_NN of_IN errors_NNS in_IN mappings_NNS between_IN the_DT representations_NNS use_VBP

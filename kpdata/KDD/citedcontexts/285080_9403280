@@ -1,0 +1,5 @@
+n_NN data_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Many_JJ KDD_NNP studies_NNS are_VBP done_VBN on_IN databases_NNS of_IN customers_NNS received_VBN from_IN commercial_JJ companies_NNS ._.
+Much_JJ emphasis_NN is_VBZ put_VBN in_IN the_DT process_NN of_IN detecting_VBG potential_JJ buyers_NNS in_IN a_DT data_NN set_NN of_IN known_JJ customers_NNS =_JJ -_: =[_NN 7_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT paper_NN suggests_VBZ a_DT database_NN of_IN geographically_RB identified_VBN -LRB-_-LRB- geoaware_NN -RRB-_-RRB- P2P_NN query_NN strings_NNS as_IN a_DT target_NN for_IN KDD_NNP processes_NNS ._.
+Previous_JJ work_NN has_VBZ shown_VBN that_IN P2P_NN information_NN can_MD be_VB used_VBN in_IN prediction_NN of_IN top_NN

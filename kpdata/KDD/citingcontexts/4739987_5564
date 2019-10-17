@@ -1,0 +1,4 @@
+such_JJ value_NN :_: C_NN =_JJ argmax_NN C_NN i_FW P_NN -LRB-_-LRB- Ci_NN -RRB-_-RRB- Y_NN P_NN -LRB-_-LRB- vj_FW |_FW Ci_FW -RRB-_-RRB- ._.
+For_IN roc_NN analysis_NN ,_, we_PRP used_VBD the_DT posterior_JJ probability_NN of_IN the_DT negative_JJ class_NN as_IN the_DT case_NN rating_NN ._.
+4.4_CD Support_NN Vector_NNP Machines_NNP Support_NN vector_NN machines_NNS -LRB-_-LRB- svms_NNS -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP performed_VBN well_RB on_IN traditional_JJ text_NN classification_NN tasks_NNS -LRB-_-LRB- 12_CD ,_, 20_CD ,_, 36_CD -RRB-_-RRB- ,_, and_CC performed_VBD well_RB on_IN ours_PRP ._.
+The_DT method_NN produces_VBZ a_DT linear_JJ classifier_NN ,_, so_IN its_PRP$ concept_NN description_NN is_VBZ a_DT vector_NN of_IN weights_NNS ,_, w_NN ,_,

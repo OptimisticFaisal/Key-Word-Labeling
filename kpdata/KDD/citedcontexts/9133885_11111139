@@ -1,0 +1,5 @@
+utputs_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP focus_VBP on_IN the_DT `_`` different_JJ features_NNS '_POS version_NN ._.
+lated_VBN ,_, which_WDT can_MD be_VB used_VBN to_TO provide_VB a_DT better_JJR representation_NN for_IN images_NNS ._.
+We_PRP apply_VBP collective_JJ matrix_NN factorization_NN -LRB-_-LRB- CMF_NN -RRB-_-RRB- techniques_NNS -LRB-_-LRB- =_JJ -_: =_JJ Singh_NNP and_CC Gordon_NNP 2008_CD -_: =--RRB-_NN on_IN the_DT auxiliary_JJ image_NN and_CC text_NN data_NNS to_TO discover_VB the_DT semantic_JJ space_NN underlying_VBG the_DT image_NN and_CC text_NN domains_NNS ._.
+The_DT traditional_JJ version_NN of_IN CMF_NN assumes_VBZ that_IN correspondence_NN exists_VBZ between_IN images_NNS and_CC text_NN d_NN

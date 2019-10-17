@@ -1,0 +1,5 @@
+t_NN -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+7.1_CD Synthetic_NNP Data_NNP For_IN synthetic_JJ data_NNS experiments_NNS ,_, we_PRP generated_VBD several_JJ Zipfian_NN -LRB-_-LRB- 40_CD -RRB-_-RRB- data_NNS sets_NNS ._.
+We_PRP chose_VBD the_DT Zipfian_JJ distribution_NN since_IN it_PRP models_NNS the_DT nature_NN of_IN many_JJ data_NNS flows_NNS on_IN the_DT Internet_NN =_JJ -_: =[_NN 28_CD ,_, 30_CD ,_, 33_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT zipf_NN parameter_NN ,_, α_NN ,_, was_VBD varied_VBN from_IN 1_CD ,_, which_WDT is_VBZ moderately_RB skewed_JJ ,_, to_TO 3_CD ,_, which_WDT is_VBZ highly_RB skewed_JJ ,_, on_IN a_DT fixed_JJ interval_NN of_IN 1_CD 2_CD ._.
+This_DT set_NN of_IN experiments_NNS measure_VB how_WRB Streaming-Rules_JJ adapts_NNS to_TO ,_, and_CC ma_FW

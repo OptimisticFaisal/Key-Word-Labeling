@@ -1,0 +1,4 @@
+ndex_NN selection_NN to_TO be_VB carried_VBN out_RP independently_RB of_IN any_DT specific_JJ programming_NN language_NN environment_NN ._.
+Florescu_NNP ,_, Gruenhagen_NNP ,_, and_CC Kossmann_NNP have_VBP proposed_VBN and_CC implemented_VBN an_DT XML_NN programming_NN language_NN called_VBN XL_NNP =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT is_VBZ similar_JJ in_IN concept_NN to_TO XQueryP_NN ._.
+Like_IN XQueryP_NN ,_, XL_NNP extends_VBZ XQuery_NN to_TO include_VB ordered_VBN execution_NN ,_, assignment_NN statements_NNS ,_, blocks_NNS ,_, exception_NN handlers_NNS ,_, and_CC while-loops_NNS ._.
+XL_NNP also_RB includes_VBZ more_JJR ambitiou_NN

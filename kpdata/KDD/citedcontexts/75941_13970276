@@ -1,0 +1,4 @@
+ack_NN loops_NNS from_IN different_JJ parts_NNS of_IN the_DT tool_NN ._.
+Using_VBG the_DT information_NN provided_VBN to_TO it_PRP ,_, the_DT A-Miner_NN produces_VBZ a_DT set_NN of_IN candidate_NN assertions_NNS which_WDT are_VBP likely_JJ to_TO be_VB true_JJ ._.
+Objective_NN measures_NNS of_IN interestingness_NN =_JJ -_: =[_NN 43_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB used_VBN to_TO rank_VB this_DT set_NN of_IN candidate_NN assertions_NNS ,_, such_JJ as_IN the_DT support_NN as_IN specified_VBN above_IN ._.
+4.4_CD Decision_NN Tree_NN Based_VBN Supervised_NNP Learning_NNP Algorithms_NNPS Association_NNP rule_NN based_VBN data_NNS mining_NN algorithms_NNS find_VBP

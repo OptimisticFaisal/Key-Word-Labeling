@@ -1,0 +1,3 @@
+he_PRP centrality_NN of_IN node_NN in_IN a_DT graph_NN ._.
+For_IN example_NN ,_, Erkan_NNP and_CC Radev_NNP -LRB-_-LRB- 13_CD -RRB-_-RRB- found_VBD degree_NN centrality_NN and_CC LexRank_NN -LRB-_-LRB- simplified_VBN PageRank_NN algorithm_NN -RRB-_-RRB- yield_NN similar_JJ output_NN quality_NN in_IN text_NN summarization_NN and_CC Wu_NNP et_FW al_FW =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: also_RB showed_VBD degree_NN centrality_NN produce_VBP similar_JJ output_NN quality_NN to_TO betweenness_NN centrality_NN in_IN their_PRP$ scale-free_JJ network_NN study_NN ._.
+We_PRP include_VBP two_CD sample_NN text_NN summarization_NN outputs_NNS for_IN Alzheimer_NNP Disease_NNP and_CC Os_NNS

@@ -1,0 +1,4 @@
+prefixx_NN since_IN they_PRP are_VBP nonmaximal_JJ local_JJ to_TO the_DT current_JJ database_NN ._.
+Additionally_RB ,_, our_PRP$ framework_NN can_MD adopt_VB some_DT advanced_JJ pruning_NN techniques_NNS such_JJ as_IN those_DT used_VBN in_IN -LRB-_-LRB- Burdick_NNP et_FW al._FW 2001_CD ,_, Grahne_NNP &_CC Zhu_NNP 2003_CD ,_, =_JJ -_: =_JJ Wang_NNP et_FW al._FW 2003_CD -_: =--RRB-_NN ._.
+For_IN this_DT purpose_NN ,_, an_DT itemset_NN tail_NN is_VBZ maintained_VBN for_IN each_DT conditional_JJ DB_NN ._.
+It_PRP contains_VBZ the_DT items_NNS that_WDT occur_VBP in_IN the_DT relevant_JJ database_NN ,_, and_CC ZBDD_NN library_NN functions_NNS are_VBP employed_VBN for_IN manipulating_VBG each_DT dat_NN

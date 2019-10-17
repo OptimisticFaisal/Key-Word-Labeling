@@ -1,0 +1,4 @@
+ning_JJ process_NN ._.
+Traditionally_RB ,_, the_DT feature_NN selection_NN methods_NNS have_VBP been_VBN focused_VBN on_IN removing_VBG irrelevant_JJ features_NNS ,_, but_CC in_IN problems_NNS of_IN high_JJ dimensionality_NN ,_, it_PRP is_VBZ also_RB important_JJ to_TO remove_VB redundant_JJ features_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Several_JJ effective_JJ feature_NN selection_NN methods_NNS had_VBD been_VBN proposed_VBN -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+However_RB the_DT increment_NN in_IN the_DT size_NN of_IN the_DT dataset_NN in_IN both_DT directions_NNS ,_, number_NN of_IN instances_NNS and_CC number_NN of_IN features_NNS be_VB

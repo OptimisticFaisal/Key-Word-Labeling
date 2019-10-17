@@ -1,0 +1,3 @@
+chemical_NN graphs_NNS are_VBP cycle-free_JJ -RRB-_-RRB- ,_, graphs_NNS in_IN these_DT domains_NNS are_VBP large_JJ and_CC dense_JJ ,_, for_IN which_WDT traditional_JJ graph_NN mining_NN algorithms_NNS do_VBP not_RB scale_VB ._.
+For_IN example_NN ,_, we_PRP ran_VBD graph_NN mining_NN algorithms_NNS -LRB-_-LRB- DMTL_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, gaston_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =--RRB-_NN on_IN a_DT small_JJ cell-graph_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- dataset_NN that_WDT contains_VBZ only_RB 30_CD graphs_NNS with_IN an_DT average_JJ vertex_NN count_NN of_IN 2184_CD and_CC an_DT average_JJ edge_NN count_NN of_IN 36945_CD ._.
+For_IN this_DT graph_NN dataset_NN ,_, none_NN of_IN the_DT existing_VBG algorithms_NNS could_MD

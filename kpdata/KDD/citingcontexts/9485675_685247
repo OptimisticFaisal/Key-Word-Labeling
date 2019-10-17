@@ -1,0 +1,4 @@
+erent_JJ mixture_NN coefficients_NNS than_IN the_DT training_NN distribution_NN ._.
+In_IN -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, a_DT Dirichlet_NNP Process_VB prior_JJ is_VBZ used_VBN to_TO couple_VB the_DT parameters_NNS of_IN several_JJ models_NNS from_IN the_DT same_JJ parameterized_JJ family_NN of_IN dis-tributions_NNS ._.
+=_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: extends_VBZ the_DT boosting_VBG method_NN to_TO perform_VB transfer_NN learning_NN ._.
+Bennett_NNP et_FW al._FW -LRB-_-LRB- 4_CD -RRB-_-RRB- proposed_VBD a_DT methodology_NN for_IN building_VBG a_DT meta-classifier_NN which_WDT combines_VBZ multiple_JJ distinct_JJ classifiers_NNS through_IN the_DT use_NN of_IN reli_NN

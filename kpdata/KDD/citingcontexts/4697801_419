@@ -1,0 +1,3 @@
+statistical_JJ techniques_NNS to_TO avoid_VB using_VBG a_DT space_NN partitioning_NN ._.
+For_IN example_NN ,_, in_IN order_NN to_TO obtain_VB a_DT sensitive_JJ distance_NN metric_NN even_RB for_IN highdimensional_JJ data_NNS ,_, we_PRP make_VBP use_NN of_IN a_DT unique_JJ Expectation_NN Maximization_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: algorithm_NN in_IN conjunction_NN with_IN a_DT kernel_NN density_NN estimator_NN to_TO infer_VB the_DT baseline_NN distribution_NN ._.
+In_IN addition_NN to_TO this_DT key_JJ technical_JJ contribution_NN ,_, the_DT density_NN test_NN is_VBZ experimentally_RB compared_VBN with_IN two_CD alter_VB

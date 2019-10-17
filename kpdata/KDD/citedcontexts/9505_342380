@@ -1,0 +1,4 @@
+onalized_JJ versions_NNS of_IN PageRank_NNP and_CC HITS_NNP ,_, such_JJ as_IN proposed_VBN in_IN -LRB-_-LRB- 5_CD ,_, 12_CD ,_, 10_CD -RRB-_-RRB- ,_, capable_JJ of_IN biasing_VBG the_DT result_NN ._.
+Other_JJ related_JJ work_NN include_VBP graph_NN clustering_NN ,_, partitioning_VBG algorithms_NNS and_CC random_JJ walks_VBZ in_IN graphs_NNS =_JJ -_: =[_NN 16_CD ,_, 13_CD ,_, 19_CD ,_, 4_CD ,_, 7_CD ,_, 2_CD ,_, 11_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3_CD Probabilistic_JJ model_NN for_IN computing_NN connection_NN strength_NN In_IN this_DT section_NN we_PRP study_VBD a_DT connection_NN strength_NN model_NN ,_, called_VBD the_DT probabilistic_JJ model_NN -LRB-_-LRB- PM_NN -RRB-_-RRB- for_IN computing_NN c_NN -LRB-_-LRB- u_NN ,_, v_LS -RRB-_-RRB- metric_JJ in_FW pARGs_FW ._.
+A_DT connection_NN

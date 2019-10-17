@@ -1,0 +1,5 @@
+USA_NN ._.
+Copyright_NN 2004_CD ACM_NNP 1-58113-888-1_CD \/_: 04\/0008_CD ..._: $_$ 5.00_CD ._.
+Rong_NNP Jin_NNP Department_NNP of_IN Computer_NNP Science_NNP and_CC Engineering_NNP Michigan_NNP State_NNP University_NNP rongjin@cse.msu.edu_NN problem_NN of_IN ordering_VBG data_NNS mining_NN patterns_NNS -LRB-_-LRB- 2_LS -RRB-_-RRB- =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Pattern_NN ordering_VBG is_VBZ an_DT important_JJ task_NN because_IN the_DT number_NN of_IN patterns_NNS extracted_VBN by_IN standard_JJ data_NNS mining_NN algorithms_NNS often_RB exceeds_VBZ our_PRP$ capacity_NN to_TO manually_RB analyze_VB them_PRP ._.
+By_IN ordering_VBG the_DT patterns_NNS ,_, we_PRP ma_FW

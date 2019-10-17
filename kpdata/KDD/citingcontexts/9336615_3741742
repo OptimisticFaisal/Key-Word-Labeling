@@ -1,0 +1,5 @@
+t_NN r_NN nonzero_JJ eigenvalues_NNS of_IN the_DT generalized_JJ eigenvalue_NN problem_NN :_: S1z_NN =_JJ λS2z_NN ._.
+Let_VB Z_NN =_JJ ZqZr_NN be_VB the_DT QR_NN decomposition_NN of_IN Z_NN ,_, where_WRB Zq_NNP has_VBZ orthonormal_JJ columns_NNS and_CC Zr_NN is_VBZ upper_JJ triangular_NN ._.
+It_PRP is_VBZ easy_JJ to_TO verify_VB =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: that_IN the_DT objective_JJ function_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 13_CD -RRB-_-RRB- is_VBZ invariant_JJ of_IN any_DT nonsingular_JJ transformation_NN ,_, that_DT is_VBZ ,_, Q_NNP and_CC NQ_NNP achieve_VBP the_DT same_JJ objective_NN value_NN for_IN any_DT nonsingular_JJ matrix_NN N_NN ∈_FW IR_FW r_NN ×_CD r_NN ._.
+It_PRP follows_VBZ that_IN the_DT

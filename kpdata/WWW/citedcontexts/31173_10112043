@@ -1,0 +1,5 @@
+of_IN semantic_JJ descriptions_NNS of_IN open_JJ services_NNS on_IN the_DT Web_NN ._.
+There_EX are_VBP tools_NNS ,_, which_WDT enable_VBP the_DT annotation_NN of_IN Web_NN content_NN such_JJ as_IN OntoMat-Annotizer_NNP and_CC SMORE_NNP ._.
+OntoMat-Annotizer_NNP is_VBZ a_DT web_NN page_NN annotation_NN tool_NN =_JJ -_: =[_NN 59_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT supports_VBZ users_NNS in_IN creating_VBG and_CC maintaining_VBG ontology-based_JJ OWL-markups_NNS ._.
+A_DT similar_JJ tool_NN is_VBZ SMORE_NNP ,_, which_WDT enables_VBZ users_NNS to_TO markup_NN HTML_NNP documents_NNS in_IN OWL_NN by_IN using_VBG Web_NN ontologies_NNS ._.
+It_PRP includes_VBZ some_DT op_NN

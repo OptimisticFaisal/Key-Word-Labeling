@@ -1,0 +1,5 @@
+itory_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+The_DT FIMI_NNP repository_NN has_VBZ been_VBN created_VBN for_IN the_DT purpose_NN of_IN evaluating_VBG different_JJ frequent-itemset_JJ mining_NN algorithms_NNS ;_: it_PRP contains_VBZ both_DT data_NNS and_CC implementations_NNS ._.
+Provided_VBN datasets_NNS include_VBP retail_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, connect_VB -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, webdocs_NNS -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, and_CC accidents_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+The_DT size_NN of_IN the_DT raw_JJ data_NN varies_VBZ from_IN 335kB_NN to_TO 1.4_CD GB_NN ._.
+For_IN our_PRP$ performance_NN experiments_NNS ,_, we_PRP generated_VBD two_CD synthetic_JJ datasets_NNS generated_VBN with_IN the_DT IBM_NNP Quest_NNP D_NNP

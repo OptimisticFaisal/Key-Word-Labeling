@@ -1,0 +1,5 @@
+ion_NN trees_NNS ._.
+Our_PRP$ decision_NN tree_NN is_VBZ constructed_VBN to_TO explain_VB the_DT underlying_JJ logic_NN of_IN the_DT detection_NN algorithm_NN ,_, rather_RB than_IN the_DT nature_NN of_IN the_DT dataset_NN ._.
+Figure_NN 7_CD is_VBZ the_DT decision_NN tree_NN generated_VBN using_VBG RapidMiner_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: from_IN the_DT anomaly_JJ detection_NN results_NNS of_IN the_DT HDFS_NN log_NN ._.
+It_PRP clearly_RB shows_VBZ the_DT most_RBS important_JJ message_NN types_NNS ._.
+For_IN exam1_NN 1_CD 01_CD 1_CD 1_CD 01_CD 01_CD 1_CD #_# Anomaly_JJ Description_NN Actual_JJ Raw_NN TF-IDF_NN 1_CD Namenode_NN not_RB updated_VBN after_IN

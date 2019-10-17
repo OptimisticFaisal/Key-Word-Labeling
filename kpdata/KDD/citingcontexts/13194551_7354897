@@ -1,0 +1,5 @@
+een_VB a_DT recurrent_JJ research_NN theme_NN ._.
+One_CD of_IN the_DT best-known_JJ matrix-decomposition_NN approaches_NNS is_VBZ the_DT singular_JJ value_NN decomposition_NN -LRB-_-LRB- SVD_NN -RRB-_-RRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+SVD_NNP has_VBZ been_VBN utilized_VBN in_IN a_DT wide_JJ range_NN of_IN data-mining_JJ applications_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+SVD_NNP gives_VBZ the_DT optimal_JJ rank-k_NN approximation_NN of_IN the_DT matrix_NN A_NN =_JJ UΣV_NN T_NN ,_, where_WRB U_NN and_CC V_NN are_VBP real-valued_JJ orthogonal_JJ matrices_NNS and_CC Σ_NN is_VBZ diagonal_JJ ._.
+Although_IN the_DT resulting_VBG decompositions_NNS achieve_VB low_JJ reconstruc_NN

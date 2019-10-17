@@ -1,0 +1,3 @@
+ing_NN or_CC voting_NN -RRB-_-RRB- to_TO form_VB a_DT final_JJ prediction_NN ._.
+Often_RB ,_, ensemble_NN learning_NN classifiers_NNS provide_VBP superior_JJ predictive_JJ performance_NN and_CC they_PRP are_VBP easier_JJR to_TO scale_VB and_CC parallelize_VB than_IN single_JJ classifier_NN methods_NNS ._.
+In_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: two_CD new_JJ state-of-the-art_JJ bagging_NN methods_NNS were_VBD presented_VBN :_: ASHT_NNP Bagging_NNP using_VBG trees_NNS of_IN different_JJ sizes_NNS ,_, and_CC ADWIN_NNP Bagging_NNP using_VBG a_DT change_NN detector_NN to_TO decide_VB when_WRB to_TO discard_VB underperforming_VBG ensemble_NN memb_NN

@@ -1,0 +1,8 @@
+upport_RB ,_, such_JJ as_IN integer_NN and_CC string_NN ._.
+Also_RB FaCT_NN does_VBZ not_RB provide_VB any_DT ABox_NN reasoning_NN ._.
+RACER_NN can_MD only_RB partially_RB support_VB ABox_NN reasoning_NN ._.
+Alloy_NN approach_NN proposed_VBN in_IN this_DT paper_NN can_MD complement_VB FaCT_NN and_CC RACER_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Currently_RB ,_, there_EX is_VBZ not_RB a_DT well_RB accepted_VBN system_NN supporting_VBG SWRL_NN ,_, and_CC only_RB few_JJ prototypes_NNS has_VBZ been_VBN developed_VBN ._.
+There_EX is_VBZ no_DT reasoning_NN tool_NN supporting_VBG SWRL-FOL_NN yet_RB ._.
+2.2_CD ._.
+Alloy_NN overview_NN Alloy_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- is_VBZ a_DT st_NN

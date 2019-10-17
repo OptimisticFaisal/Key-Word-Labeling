@@ -1,0 +1,4 @@
+dels_NNS according_VBG to_TO each_DT data_NN set_NN 's_POS characteristics_NNS ._.
+Since_IN 20_CD Newsgroups_NNS data_NNS set_NN only_RB has_VBZ text_NN information_NN ,_, the_DT base_NN models_NNS are_VBP two_CD classification_NN -LRB-_-LRB- logistic_JJ regression_NN and_CC SVM_NN ,_, implemented_VBN in_IN -LRB-_-LRB- 11_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, denoted_VBN as_IN SC1_NN and_CC SC2_NN -RRB-_-RRB- and_CC two_CD clustering_NN algorithms_NNS -LRB-_-LRB- K-means_NNS and_CC min-cut_NN ,_, implemented_VBN in_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, denoted_VBN as_IN UC1_NN and_CC UC2_NN -RRB-_-RRB- ._.
+In_IN Cora_NNP ,_, DBLP_NNP and_CC Yahoo_NNP !_.
+Movies_NNS data_NNS sets_NNS ,_, both_CC the_DT labeled_JJ set_NN and_CC the_DT unla_NN

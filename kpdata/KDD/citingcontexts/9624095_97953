@@ -1,0 +1,5 @@
+rch_NN query_NN -LRB-_-LRB- 3_CD ,_, 12_CD -RRB-_-RRB- ._.
+Such_JJ terms_NNS could_MD include_VB synonyms_NNS of_IN query_NN words_NNS ,_, stemmed_VBD words_NNS ,_, corrections_NNS of_IN spelling_NN mistakes_NNS ,_, and_CC so_RB on_RB ._.
+A_DT special_JJ class_NN of_IN methods_NNS employ_VBP Pseudo-Relevance_NNP Feedback_NNP approaches_VBZ =_JJ -_: =[_NN 5_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: to_TO expand_VB queries_NNS under_IN the_DT assumption_NN that_IN the_DT top-k_NN documents_NNS retrieved_VBN for_IN the_DT original_JJ query_NN are_VBP relevant_JJ ._.
+In_IN many_JJ cases_NNS ,_, however_RB ,_, queries_NNS have_VBP several_JJ possible_JJ intents_NNS ._.
+For_IN example_NN ,_, the_DT user_NN int_NN

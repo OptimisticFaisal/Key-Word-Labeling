@@ -1,0 +1,5 @@
+nodes_NNS with_IN similar_JJ content_NN together_RB ._.
+However_RB ,_, SWAM_NN is_VBZ not_RB designed_VBN for_IN metric_JJ spaces_NNS ._.
+A_DT P2P_NN framework_NN for_IN multidimensional_JJ indexing_NN based_VBN on_IN a_DT tree_NN structured_JJ overlay_NN is_VBZ proposed_VBN in_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+LSH_NN forest_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: stores_NNS documents_NNS in_IN the_DT overlay_NN network_NN using_VBG a_DT locality-sensitive_JJ hashing_VBG function_NN to_TO index_NN high-dimensional_JJ data_NNS for_IN answering_VBG approximate_JJ similarity_NN queries_NNS ._.
+Most_JJS approaches_NNS that_WDT address_VBP range_NN que_NN

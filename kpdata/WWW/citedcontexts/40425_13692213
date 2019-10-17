@@ -1,0 +1,3 @@
+tructed_VBN combinatorial_JJ graph_NN structures_NNS to_TO prove_VB worst-case_JJ notions_NNS on_IN PageRank_NNP ,_, HITS_NNP and_CC SALSA_NNP algorithms_NNS ._.
+The_DT notion_NN of_IN the_DT influence_NN between_IN two_CD nodes_NNS also_RB plays_VBZ a_DT role_NN in_IN the_DT work_NN of_IN Jeh_NN and_CC Widom_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT studies_VBZ efficient_JJ computation_NN of_IN personalized_JJ PageRank_NN ._.
+Our_PRP$ notion_NN of_IN influence_NN is_VBZ different_JJ in_IN that_IN it_PRP splits_VBZ into_IN ``_`` layers_NNS ''_'' ,_, while_IN in_IN different_JJ layers_NNS the_DT same_JJ node_NN can_MD influence_VB differently_RB ._.

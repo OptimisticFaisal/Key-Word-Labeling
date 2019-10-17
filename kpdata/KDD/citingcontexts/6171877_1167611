@@ -1,0 +1,5 @@
+vents_NNS that_IN an_DT attribute_NN of_IN T_NN takes_VBZ some_DT particular_JJ values_NNS ._.
+Association_NN rule_NN mining_NN is_VBZ commonly_RB used_VBN in_IN the_DT analysis_NN of_IN market-basket_JJ data_NNS ,_, where_WRB the_DT target_NN of_IN mining_NN is_VBZ not_RB predetermined_VBN ._.
+Chan_NNP et_FW al._FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP developed_VBN a_DT rule_NN learning_NN method_NN LERAD_NN to_TO detect_VB anomalies_NNS ._.
+They_PRP consider_VBP rules_NNS of_IN the_DT form_NN X_NN ⇒_NN Y_NN ,_, whereX_NN and_CC Y_NN are_VBP mutually_RB exclusive_JJ subsets_NNS of_IN attributes_NNS taking_VBG on_IN particular_JJ values_NNS ._.
+They_PRP see_VBP

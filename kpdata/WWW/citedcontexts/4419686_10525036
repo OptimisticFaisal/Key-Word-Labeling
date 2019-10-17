@@ -1,0 +1,5 @@
+ser_NN interfaces_NNS only_RB ._.
+Here_RB ,_, component_NN models_NNS specify_VBP characteristics_NNS and_CC behaviors_NNS of_IN presentation_NN components_NNS and_CC propose_VBP an_DT event-based_JJ composition_NN model_NN to_TO specify_VB the_DT composition_NN logic_NN -LRB-_-LRB- e.g._FW ,_, MixUp_NN =_JJ -_: =[_NN 42_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT focus_NN of_IN MixUp_NN is_VBZ on_IN integration_NN of_IN applications_NNS at_IN presentation_NN level_NN ._.
+They_PRP do_VBP not_RB deal_VB with_IN semantic_JJ annotation_NN of_IN component_NN and_CC finding_VBG compatible_JJ components_NNS ._.
+In_IN Smashup_NNP -LRB-_-LRB- Semantic_JJ mashup_NN -RRB-_-RRB- -LRB-_-LRB- 1_CD

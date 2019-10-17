@@ -1,0 +1,4 @@
+rdiovascular_JJ Continuum_NN In_IN this_DT work_NN we_PRP present_VBP a_DT telemedicine_NN application_NN using_VBG an_DT internet_JJ ECG_NN database_NN for_IN risk_NN stratification_NN of_IN patients_NNS with_IN various_JJ cardiovascular_JJ disease_NN state_NN ._.
+The_DT data_NNS mining_NN =_JJ -_: =[_NN 9,10_CD -RRB-_-RRB- -_: =_SYM -_: serves_VBZ for_IN indexing_NN -LRB-_-LRB- finding_VBG the_DT most_RBS similar_JJ time_NN series_NN in_IN the_DT database_NN given_VBN a_DT query_NN time_NN series_NN Q_NNP ,_, and_CC some_DT similarity\/dissimilarity_NN measure_NN D_NN -LRB-_-LRB- Q_NNP ,_, C_NN -RRB-_-RRB- ._.
+The_DT PAA_NNP method_NN was_VBD used_VBN in_IN this_DT study_NN ._.
+From_IN ou_NN

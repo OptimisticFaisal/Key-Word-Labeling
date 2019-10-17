@@ -1,0 +1,4 @@
+infected_VBN by_IN executables_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+Wang_NNP et_FW al._FW detect_VB drive-by_JJ exploits_NNS by_IN using_VBG behavioral_JJ detection_NN -LRB-_-LRB- monitoring_NN anomalous_JJ state_NN changes_NNS in_IN the_DT VM_NN -RRB-_-RRB- as_RB well_RB as_IN detecting_VBG exploits_NNS of_IN known_JJ vulnerabilities_NNS =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Provos_NNP et_FW al._FW monitor_NN VM_NN state_NN changes_NNS and_CC use_VB multiple_JJ anti-virus_JJ engines_NNS to_TO detect_VB VM_NN infection_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Moshchuk_NNP et_FW al._FW also_RB construct_VBP a_DT VM-based_JJ web_NN proxy_NN defense_NN that_WDT uses_VBZ behaviorbased_JJ detection_NN

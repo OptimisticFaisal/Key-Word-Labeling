@@ -1,0 +1,5 @@
+ore_NN transparent_JJ way_NN :_: Bursts_NNS -LRB-_-LRB- suppression_NN intervals_NNS -RRB-_-RRB- seem_VBP to_TO be_VB segments_NNS where_WRB high_JJ -LRB-_-LRB- low_JJ -RRB-_-RRB- amplitudes_NNS abound_VBP -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Various_JJ related_JJ topics_NNS are_VBP continuously_RB interesting_JJ as_IN well_RB ._.
+The_DT problem_NN considered_VBN in_IN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ to_TO compute_VB a_DT single_JJ segmentation_NN that_WDT is_VBZ close_JJ to_TO a_DT set_NN of_IN already_RB given_VBN segmentations_NNS ._.
+Dynamic_NNP programming_NN is_VBZ used_VBN to_TO minimze_VB the_DT disagreement_NN distance_NN ._.
+Segmentation_NN of_IN sequences_NNS of_IN numbers_NNS into_IN

@@ -1,0 +1,4 @@
+ollected_VBN unidentified_JJ information_NN ,_, such_JJ as_IN IP_NNP addresses_NNS that_WDT visit_VBP a_DT particular_JJ website_NN ._.
+One_CD possible_JJ solution_NN for_IN privacy_NN protection_NN is_VBZ to_TO perturb_VB the_DT IP_NNP addresses_NNS as_IN if_IN they_PRP are_VBP categorical_JJ values_NNS -LRB-_-LRB- =_JJ -_: =_JJ Evfimievski_NNP ,_, Srikant_NNP ,_, Agrawal_NNP ,_, &_CC Gehrke_NNP ,_, 2002_CD -_: =--RRB-_NN ._.
+Though_IN perturbing_VBG an_DT IP_NNP address_NN ip_NN into_IN ip_FW ′_FW can_MD protect_VB the_DT identity_NN of_IN ip_NN ,_, it_PRP can_MD falsely_RB denote_VB ip_FW ′_FW as_IN a_DT visitor_NN of_IN the_DT website_NN ._.
+Furthermore_RB ,_, if_IN ip_FW ′_FW is_VBZ listed_VBN in_IN a_DT released_VBN collection_NN from_IN anothe_NN

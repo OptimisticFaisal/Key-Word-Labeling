@@ -1,0 +1,5 @@
+lar_JJ users_NNS of_IN ui_NN ._.
+Such_JJ algorithms_NNS are_VBP known_VBN as_IN collaborative_JJ filtering_VBG -LRB-_-LRB- CF_NN -RRB-_-RRB- -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+However_RB ,_, the_DT generic_JJ collaborative_JJ filtering_VBG method_NN alone_RB exhibits_VBZ poor_JJ scalability_NN to_TO large_JJ number_NN of_IN users_NNS and_CC items_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT pre-filtering_JJ or_CC scalable_JJ neighborhood_NN formation_NN -LRB-_-LRB- such_JJ as_IN a_DT subgraph_NN or_CC community_NN -RRB-_-RRB- is_VBZ preferred_VBN to_TO assist_VB CF_NN in_IN real_JJ world_NN systems_NNS ._.
+Sinha_NNP and_CC Swearingen_NNP -LRB-_-LRB- 14_CD -RRB-_-RRB- found_VBD that_IN people_NNS prefer_VBP receiving_VBG rec_NN

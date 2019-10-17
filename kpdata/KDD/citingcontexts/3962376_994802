@@ -1,0 +1,5 @@
+reshold_NN -LRB-_-LRB- score_NN -RRB-_-RRB- ._.
+The_DT higher_JJR the_DT score_NN threshold_NN the_DT fewer_JJR proteins_NNS will_MD be_VB identified_VBN as_IN having_VBG the_DT particular_JJ domain_NN ._.
+We_PRP find_VBP association_NN rules_NNS that_WDT associate_VBP HMM_NN model_NN output_NN with_IN experimental_JJ data_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT approach_NN is_VBZ based_VBN on_IN the_DT assumption_NN that_IN protein_NN domain_NN information_NN should_MD show_VB associations_NNS with_IN a_DT variety_NN of_IN experimental_JJ properties_NNS ._.
+While_IN ARM_NN has_VBZ been_VBN applied_VBN to_TO many_JJ complex_JJ data_NNS structures_NNS

@@ -1,0 +1,4 @@
+ment_NN classifier_NN ._.
+4_CD Streaming_NNP Data_NNP Evaluation_NN with_IN Unbalanced_JJ Classes_NNS In_IN data_NN stream_NN mining_NN ,_, the_DT most_RBS frequently_RB used_VBN measure_NN for_IN evaluating_VBG predictive_JJ accuracy_NN of_IN a_DT classifier_NN is_VBZ prequential_JJ accuracy_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP argue_VBP that_IN this_DT measure_NN is_VBZ only_RB appropriate_JJ when_WRB all_DT classes_NNS are_VBP balanced_JJ ,_, and_CC have_VBP -LRB-_-LRB- approximately_RB -RRB-_-RRB- the_DT same_JJ number_NN of_IN examples_NNS ._.
+In_IN this_DT section_NN ,_, we_PRP propose_VBP the_DT Kappa_NNP statistic_NN as_IN a_DT more_JJR sensitiv_NN

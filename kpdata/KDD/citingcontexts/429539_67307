@@ -1,0 +1,3 @@
+-LRB-_-LRB- 10_CD -RRB-_-RRB- it_PRP was_VBD shown_VBN that_IN it_PRP is_VBZ NP-complete_JJ to_TO decide_VB if_IN there_EX is_VBZ a_DT maximal_JJ σ-frequent_NN itemset_NN with_IN at_IN least_JJS k_NN items_NNS ._.
+The_DT NP-hardness_NN of_IN mining_NN maximal_JJ frequent_JJ itemsets_NNS was_VBD also_RB recently_RB established_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: by_IN proving_VBG the_DT following_JJ claim_NN :_: given_VBN a_DT set_NN of_IN maximal_JJ frequent_JJ itemsets_NNS ,_, it_PRP is_VBZ NP-complete_JJ to_TO decide_VB whether_IN this_DT set_NN can_MD be_VB grown_VBN with_IN a_DT new_JJ maximal_JJ frequent_JJ itemset_NN ._.
+These_DT results_NNS do_VBP not_RB lend_VB them_PRP

@@ -1,0 +1,4 @@
+comes_VBZ columns_NNS -LRB-_-LRB- this_DT is_VBZ indeed_RB the_DT same_JJ database_NN but_CC with_IN a_DT different_JJ representation_NN -RRB-_-RRB- ._.
+Therefore_RB the_DT ``_`` transposed_VBN ''_'' database_NN has_VBZ significantly_RB less_JJR columns_NNS than_IN the_DT original_JJ one_CD ._.
+The_DT CARPENTER_NNP algorithm_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ specifically_RB designed_VBN for_IN mining_VBG the_DT frequent_JJ closed_JJ patterns_NNS ,_, and_CC our_PRP$ proposition_NN -LRB-_-LRB- 23_CD ,_, 24_CD -RRB-_-RRB- uses_VBZ a_DT classical_JJ algorithm_NN for_IN mining_NN closed_VBD patterns_NNS with_IN a_DT monotonic_JJ -LRB-_-LRB- or_CC anti-monotonic_JJ -RRB-_-RRB- constraint_NN ._.
+B_NN

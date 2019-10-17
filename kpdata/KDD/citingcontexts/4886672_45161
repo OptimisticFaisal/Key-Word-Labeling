@@ -1,0 +1,3 @@
+-RRB-_-RRB- which_WDT can_MD be_VB harnessed_VBN for_IN the_DT execution_NN of_IN jobs_NNS submitted_VBN by_IN any_DT user_NN in_IN the_DT organization_NN ._.
+The_DT number_NN of_IN machines_NNS controlled_VBN by_IN a_DT single_JJ system_NN can_MD sometimes_RB reach_VB tens_NNS of_IN thousands_NNS --_: e.g._FW ,_, Condor_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, with_IN up_IN to_TO 20,000_CD machines_NNS at_IN U._NNP Wisconsin_NNP and_CC NetBatch_NNP ,_, with_IN as_RB many_JJ as_IN 35,000_CD machines_NNS at_IN Intel_NNP ._.
+These_DT systems_NNS often_RB manage_VBP computers_NNS located_JJ in_IN several_JJ geographically_RB distant_JJ sites_NNS and_CC organized_VBN

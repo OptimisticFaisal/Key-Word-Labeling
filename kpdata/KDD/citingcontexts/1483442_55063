@@ -1,0 +1,5 @@
+tes_JJ meaningful_JJ results_NNS ._.
+For_IN our_PRP$ experiments_NNS we_PRP compared_VBD MVD_NNP with_IN Fayyad_NNP and_CC Irani_NNP 's_POS recursive_JJ minimum_JJ entropy_JJ approach_NN with_IN the_DT MDL_NN stopping_VBG criteria_NNS ._.
+We_PRP refer_VBP to_TO this_DT as_IN ME-MDL_NN and_CC we_PRP used_VBD the_DT MLC_NN +_CC +_CC =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: implementation_NN of_IN this_DT discretizer_NN ._.
+Past_JJ work_NN has_VBZ shown_VBN that_IN ME-MDL_NN is_VBZ one_CD of_IN the_DT best_JJS methods_NNS for_IN classification_NN -LRB-_-LRB- 8_CD ,_, 11_CD -RRB-_-RRB- ._.
+We_PRP also_RB compared_VBD our_PRP$ execution_NN times_NNS with_IN Apriori_NN to_TO give_VB an_DT indication_NN of_IN h_NN

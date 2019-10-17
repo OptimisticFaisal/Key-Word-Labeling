@@ -1,0 +1,3 @@
+horizontal_JJ time_NN --_: lines_NNS ._.
+We_PRP are_VBP also_RB currently_RB testing_VBG information_NN extraction_NN software_NN LingPipe_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- to_TO extend_VB our_PRP$ information_NN extraction_NN phase_NN by_IN employing_VBG the_DT Named_VBN Entity_NN Recognition_NN -LRB-_-LRB- NER_NN -RRB-_-RRB- algorithm_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: to_TO locate_VB and_CC classify_VB atomic_JJ elements_NNS ._.
+For_IN instance_NN ,_, NER_NN can_MD be_VB used_VBN to_TO arrange_VB these_DT elements_NNS into_IN predefined_JJ categories_NNS such_JJ as_IN the_DT names_NNS of_IN persons_NNS ,_, organizations_NNS ,_, locations_NNS ,_, times_NNS ,_, quantities_NNS ,_, a_DT

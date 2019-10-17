@@ -1,0 +1,4 @@
+loo_NN ,_, Ontario_NNP ,_, Canada_NNP N2L_NN 3G1_NN tozsu@db.uwaterloo.ca_NN World_NN Wide_NN Web_NN ,_, the_DT study_NN of_IN modelling_VBG and_CC predicting_VBG a_DT user_NN 's_POS access_NN on_IN a_DT Web_NN site_NN has_VBZ become_VBN more_RBR important_JJ ._.
+There_EX are_VBP three_CD steps_NNS in_IN this_DT process_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Since_IN the_DT data_NNS source_NN is_VBZ Web_NN server_NN log_NN data_NNS ,_, the_DT first_JJ step_NN is_VBZ to_TO clean_VB the_DT data_NNS and_CC prepare_VB for_IN mining_VBG the_DT usage_NN patterns_NNS ._.
+The_DT second_JJ step_NN is_VBZ to_TO extract_VB usage_NN patterns_NNS ,_, and_CC the_DT third_JJ step_NN is_VBZ to_TO bu_VB

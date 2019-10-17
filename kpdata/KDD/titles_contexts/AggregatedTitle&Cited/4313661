@@ -1,0 +1,16 @@
+Efficient_JJ anonymity-preserving_JJ data_NNS collection_NN
+ks_IN against_IN the_DT transmission_NN channel_NN itself_PRP ,_, as_IN Dissent_NN does_VBZ ._.
+Dissent_NN operates_VBZ in_IN two_CD stages_NNS ,_, shuffle_NN and_CC bulk_NN transfer_NN ._.
+The_DT shuffle_NN protocol_NN builds_VBZ on_IN a_DT data_NN mining_NN protocol_NN by_IN Brickell_NNP and_CC Shmatikov_NNP =_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: to_TO permute_VB a_DT set_NN of_IN fixed-length_JJ messages_NNS ,_, one_CD from_IN each_DT group_NN member_NN ,_, and_CC broadcast_VBD the_DT set_NN of_IN messages_NNS to_TO all_DT members_NNS with_IN cryptographically_RB strong_JJ anonymity_NN ._.
+Like_IN many_JJ anonymous_JJ messaging_NN protocol_NN
+ment_NN to_TO leak_NN at_IN a_DT time_NN when_WRB the_DT others_NNS have_VBP nothing_NN to_TO send_VB ._.
+Dissent_NN operates_VBZ in_IN two_CD stages_NNS ,_, shuffle_NN and_CC bulk_NN transfer_NN ._.
+The_DT shuffle_NN protocol_NN builds_VBZ on_IN a_DT data_NN mining_NN protocol_NN by_IN Brickell_NNP and_CC Shmatikov_NNP =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: to_TO permute_VB a_DT set_NN of_IN fixed1length_NN messages_NNS ,_, one_CD from_IN each_DT group_NN member_NN ,_, and_CC broadcast_VBD the_DT set_NN to_TO all_DT members_NNS with_IN cryptographically_RB strong_JJ anonymity_NN ._.
+Like_IN many_JJ anonymous_JJ messaging_NN protocols_NNS ,_, the_DT orig_NN
+nd_RB furthermore_RB it_PRP is_VBZ a_DT different_JJ layer_NN -RRB-_-RRB- ._.
+Utilizing_VBG Client_NN Interaction_NN ._.
+Dealing_VBG with_IN privacy_NN in_IN data_NNS collection_NN ,_, the_DT encipherment_NN of_IN collected_VBN data_NNS was_VBD also_RB considered_VBN in_IN the_DT context_NN of_IN data_NNS mining_NN in_IN =_JJ -_: =[_NN 56_CD ,_, 55_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN in_IN -LRB-_-LRB- 56_CD -RRB-_-RRB- ,_, k-anonymity_NN was_VBD discussed_VBN in_IN the_DT context_NN of_IN a_DT non-trusted_JJ database_NN holder_NN ;_: in_IN the_DT suggested_JJ approach_NN the_DT data-producers_NNS help_VBP the_DT database_NN processors_NNS produce_VBP the_DT k-anonymized_JJ ver_NN
+her_PRP receives_VBZ them_PRP in_IN a_DT random_JJ order_NN ._.
+Different_JJ shuffling_NN protocols_NNS relying_VBG on_IN cryptographic_JJ techniques_NNS have_VBP been_VBN proposed_VBN with_IN various_JJ message_NN complexity_NN and_CC collusion_NN resistance_NN between_IN participants_NNS =_JJ -_: =[_NN 38_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT protocols_NNS usually_RB consider_VBP that_IN all_DT record_NN owners_NNS remain_VBP online_JJ and_CC assume_VB that_IN responses_NNS and_CC record_NN owners_NNS are_VBP not_RB linkable_JJ by_IN content_NN -LRB-_-LRB- in_IN other_JJ words_NNS ,_, responses_NNS do_VBP not_RB contain_VB quasi-identifi_NNS

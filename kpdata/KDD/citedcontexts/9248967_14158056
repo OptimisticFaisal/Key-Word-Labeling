@@ -1,0 +1,5 @@
+s_NN much_RB harder_RBR ._.
+Existing_VBG unsupervised_JJ feature_NN selection_NN techniques_NNS can_MD be_VB classified_VBN into_IN two_CD categories_NNS ._.
+The_DT first_JJ category_NN exploits_VBZ the_DT geometrical_JJ structure_NN of_IN the_DT data_NNS space_NN to_TO guide_VB the_DT selection_NN =_JJ -_: =[_NN 3,14,25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT typical_JJ algorithms_NNS in_IN this_DT category_NN include_VBP maximum_NN variance_NN ,_, unsupervised_JJ feature_NN selection_NN for_IN PCA_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC Laplacian_JJ score_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+Maximum_NNP variance_NN selects_VBZ features_NNS with_IN the_DT largest_JJS variances_NNS an_DT

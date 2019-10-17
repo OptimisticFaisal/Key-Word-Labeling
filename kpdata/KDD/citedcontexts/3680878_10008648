@@ -1,0 +1,5 @@
+ed_IN a_DT technique_NN similar_JJ to_TO -LRB-_-LRB- Mahoney_NNP and_CC Chan_NNP 2002_CD -RRB-_-RRB- ._.
+The_DT process_NN ,_, query_NN ,_, key_NN ,_, response_NN and_CC result_NN value_NN formed_VBD the_DT feature_NN space_NN ._.
+Single_JJ attribute_NN values_NNS as_RB well_RB as_IN pairs_NNS were_VBD checked_VBN for_IN consistency_NN ._.
+-LRB-_-LRB- =_JJ -_: =_JJ Shavlik_NNP and_CC Shavlik_NNP 2004_CD -_: =--RRB-_NN used_VBD a_DT wide_JJ variety_NN of_IN system_NN features_NNS including_VBG processor_NN time_NN ,_, working_VBG set_NN size_NN and_CC number_NN of_IN semaphores_NNS ._.
+A_DT Winnows_NNP -LRB-_-LRB- Littlestone_NNP 1988_CD -RRB-_-RRB- based_VBN variant_NN was_VBD used_VBN to_TO learn_VB useful_JJ attributes_NNS for_IN anomaly_RB

@@ -1,0 +1,4 @@
+F._NNP Coenen_NNP ,_, D._NNP Reid_NNP ,_, R._NNP Patel_NNP ,_, L._NNP Archer_NNP In_IN Temporal_JJ ARM_NN the_DT attributes_NNS in_IN the_DT data_NNS are_VBP time_NN stamped_VBN in_IN some_DT way_NN ._.
+One_CD category_NN of_IN Temporal_JJ ARM_NN is_VBZ known_VBN as_IN Emerging_VBG and_CC Jumping_VBG Pattern_NN -LRB-_-LRB- JEP_NN -RRB-_-RRB- mining_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT Emerging_JJ Pattern_NN -LRB-_-LRB- EP_NN -RRB-_-RRB- is_VBZ usually_RB defined_VBN as_IN an_DT itemset_NN whose_WP$ support_NN increases_NNS over_IN time_NN according_VBG to_TO some_DT ``_`` change_NN ratio_NN ''_'' threshold_NN ._.
+A_DT Jumping_VBG Pattern_NN -LRB-_-LRB- JP_NNP -RRB-_-RRB- is_VBZ an_DT itemset_NN whose_WP$ support_NN changes_NNS muc_VBP

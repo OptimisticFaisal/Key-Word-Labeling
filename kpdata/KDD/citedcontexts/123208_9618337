@@ -1,0 +1,3 @@
+c._NNP Topological_NNP approach_NN to_TO the_DT concept_NN scoring_VBG computation_NN is_VBZ in_IN its_PRP$ core_NN a_DT link_NN analysis_NN approach_NN ._.
+After_IN the_DT topic_NN identification_NN the_DT prestige_NN -LRB-_-LRB- implicit_JJ node_NN ranking_NN obtained_VBN using_VBG advanced_JJ PageRank_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =--RRB-_NN of_IN the_DT concepts_NNS within_IN is_VBZ computed_VBN ._.
+The_DT document_NN 's_POS topological_JJ concept_NN scoring_VBG is_VBZ computed_VBN as_IN weighted_JJ sum_NN of_IN resource-to-concept_JJ relation_NN weights_NNS :_: s_NN t_NN c_NN -LRB-_-LRB- q_NN ,_, d_NN -RRB-_-RRB- =_JJ ∑_CD c_NN ∈_CD T_NN rd_NN ,_, cp_FW ′_FW c_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- where_WRB s_NN t_NN c_NN is_VBZ t_NN

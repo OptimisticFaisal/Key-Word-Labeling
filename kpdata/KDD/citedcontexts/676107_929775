@@ -1,0 +1,6 @@
+d_NN instead_RB of_IN thesVeenman_FW et_FW ._.
+al_FW :_: LESS_NN :_: a_DT Model-Based_NNP Classifier_NNP for_IN Sparse_NNP Subspaces_NNP 8_CD squared_VBD L2-norm_NN ._.
+As_IN such_JJ Liknon_NNP is_VBZ considered_VBN an_DT L1-SVM_NN ._.
+For_IN more_JJR on_IN L1-SVM_NN classifiers_NNS see_VBP for_IN instance_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT motivation_NN for_IN applying_VBG the_DT L1-norm_NN is_VBZ the_DT same_JJ as_IN for_IN the_DT LASSO_NNP -LRB-_-LRB- see_VB previous_JJ Section_NN -RRB-_-RRB- ._.
+That_DT is_VBZ ,_, the_DT L1-norm_NN forces_VBZ the_DT weight_NN entries_NNS wj_VBP to_TO 0_CD so_IN the_DT classifier_NN explicitly_RB selects_VBZ a_DT feature_NN sub_NN

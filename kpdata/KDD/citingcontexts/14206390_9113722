@@ -1,0 +1,3 @@
+t_NN representation_NN -RRB-_-RRB- and_CC ``_`` kernelized_VBN ''_'' SVMs_NNS -LRB-_-LRB- where_WRB a_DT non-linear_JJ kernel_NN defines_VBZ the_DT linear_JJ prediction_NN space_NN -RRB-_-RRB- ._.
+For_IN linear_JJ SVMs_NNS ,_, stochastic_JJ methods_NNS such_JJ as_IN PEGASOS_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- and_CC Stochastic_JJ Dual_JJ Coordinate_JJ Ascent_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP recently_RB been_VBN established_VBN as_IN being_VBG effective_JJ at_IN solving_VBG extremely_RB large_JJ SVM_NN instances_NNS ,_, typically_RB in_IN less_JJR time_NN than_IN that_DT which_WDT is_VBZ required_VBN to_TO read_VB the_DT data_NNS into_IN memory_NN ._.
+For_IN kernel_NN SVMs_NNS ,_, most_JJS lead_NN

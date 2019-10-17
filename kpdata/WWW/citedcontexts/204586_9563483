@@ -1,0 +1,3 @@
+roduction_NN Network_NNP caching_NN has_VBZ been_VBN used_VBN in_IN a_DT variety_NN of_IN contexts_NNS to_TO reduce_VB network_NN latency_NN and_CC bandwidth_NN consumption_NN ,_, ranging_VBG from_IN FTP_NN caching_NN -LRB-_-LRB- 31_CD -RRB-_-RRB- ,_, Web_NN caching_NN -LRB-_-LRB- 15_CD ,_, 4_CD -RRB-_-RRB- ,_, redundant_JJ traffic_NN elimination_NN =_JJ -_: =[_NN 20_CD ,_, 28_CD ,_, 29_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC content_NN distribution_NN -LRB-_-LRB- 1_CD ,_, 10_CD ,_, 26_CD ,_, 41_CD -RRB-_-RRB- ._.
+All_DT of_IN these_DT cases_NNS use_VBP local_JJ storage_NN ,_, typically_RB disk-based_JJ ,_, to_TO reduce_VB redundant_JJ data_NNS fetches_VBZ over_IN the_DT network_NN ._.
+Large_JJ enterprises_NNS and_CC ISPs_NNS particularly_RB benef_VBP

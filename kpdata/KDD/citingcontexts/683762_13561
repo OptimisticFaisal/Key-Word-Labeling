@@ -1,0 +1,4 @@
+word_NN occurs_VBZ in_IN a_DT document_NN ._.
+Empirically_RB ,_, we_PRP have_VBP found_VBN Winnow_NNP to_TO be_VB a_DT very_RB effective_JJ document_NN classification_NN algorithm_NN ,_, rivaling_VBG the_DT performance_NN of_IN Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- 14_CD -RRB-_-RRB- and_CC k-Nearest_NN Neighbor_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: ,_, two_CD other_JJ state-of-the-art_JJ text_NN classification_NN algorithms_NNS ._.
+This_DT machine_NN learning_NN classification_NN and_CC application_NN is_VBZ described_VBN more_RBR fully_RB in_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+3.5_CD Polarity_NN The_DT detection_NN of_IN sentiment_NN ,_, or_CC polarity_NN ,_,

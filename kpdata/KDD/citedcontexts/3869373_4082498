@@ -1,0 +1,4 @@
+gurations_NNS became_VBD a_DT concern_NN in_IN the_DT context_NN of_IN the_DT CI-Tool_NN ._.
+The_DT CI-Tool_NN is_VBZ an_DT integrated_JJ suite_NN of_IN CI_NN methods_NNS -LRB-_-LRB- including_VBG ANN_NNP ,_, GA_NNP ,_, and_CC Info-Fuzzy_NNP Networks_NNP -RRB-_-RRB- for_IN generating_VBG test_NN cases_NNS for_IN software_NN programs_NNS =_JJ -_: =[_NN 3_CD ,_, 4_CD ,_, 6_CD ,_, 8_CD -RRB-_-RRB- -_: =_JJ -_: ;_: it_PRP must_MD be_VB highly_RB accurate_JJ in_IN order_NN to_TO benefit_VB users_NNS ._.
+The_DT CITool_NN 's_POS ANN_NNP module_NN is_VBZ used_VBN to_TO analyze_VB the_DT association_NN between_IN inputs_NNS and_CC outputs_NNS of_IN data-driven_JJ programs_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+The_DT ANN_NNP methodology_NN includes_VBZ

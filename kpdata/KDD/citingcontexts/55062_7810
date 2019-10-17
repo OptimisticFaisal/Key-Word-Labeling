@@ -1,0 +1,4 @@
+n_NN earlier_RB works_VBZ -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+An_DT internally_RB available_JJ decision_NN tree_NN package_NN customized_VBN for_IN text_NN applications_NNS was_VBD used_VBN for_IN this_DT benchmark_NN ._.
+As_IN is_VBZ customary_JJ with_IN this_DT benchmark_NN ,_, we_PRP use_VBP the_DT micro-average_JJ measure_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN which_WDT the_DT confusion_NN matrices_NNS for_IN the_DT ten_CD categories_NNS are_VBP added_VBN and_CC overall_JJ precision_NN and_CC recall_NN computed_VBD ._.
+Ten_CD random_JJ runs_NNS were_VBD performed_VBN and_CC the_DT micro-average_NN of_IN the_DT arithmetic_NN mean_NN of_IN recall_NN and_CC

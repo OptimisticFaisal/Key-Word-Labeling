@@ -1,0 +1,4 @@
+ationships_NNS among_IN formulas_NNS are_VBP analyzed_VBN in_IN the_DT recursive_JJ computation_NN of_IN importance_NN ._.
+Along_IN similar_JJ lines_NNS ,_, the_DT traditional_JJ association_NN rules_NNS of_IN market_NN basket_NN analysis_NN are_VBP generalized_VBN in_IN the_DT WARMR_NN system_NN =_JJ -_: =[_NN 6_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: to_TO association_NN rules_NNS on_IN Prolog_NNP formulas_NNS -LRB-_-LRB- similar_JJ to_TO our_PRP$ Datalog_NNP formulas_NNS -RRB-_-RRB- evaluated_VBN on_IN a_DT relational_JJ database_NN ._.
+The_DT goal_NN is_VBZ to_TO find_VB association_NN rules_NNS of_IN the_DT form_NN f_SYM =_JJ ⇒_CD g_NN where_WRB f_SYM and_CC g_NN are_VBP formulas_NNS ._.
+As_IN d_NN

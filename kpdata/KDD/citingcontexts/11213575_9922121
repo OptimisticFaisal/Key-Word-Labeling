@@ -1,0 +1,3 @@
+he_PRP data_NNS up_RB to_TO and_CC including_VBG the_DT previous_JJ epoch_NN is_VBZ aggregated_VBN into_IN the_DT previous_JJ multiscale_JJ model_NN ._.
+The_DT online_JJ inference_NN and_CC parameter_NN estimation_NN can_MD be_VB efficiently_RB achieved_VBN by_IN a_DT stochastic_JJ EM_NN algorithm_NN =_JJ -_: =[_NN 2_CD ,_, 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN which_WDT the_DT collapsed_JJ Gibbs_NNP sampling_NN of_IN latent_JJ topics_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC the_DT maximum_NN likelihood_NN estimation_NN of_IN hyperparameters_NNS are_VBP alternately_RB performed_VBN -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+We_PRP assume_VBP the_DT set_NN of_IN documents_NNS Wt_VBP at_IN current_JJ epoch_NN

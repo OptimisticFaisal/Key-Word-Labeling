@@ -1,0 +1,5 @@
+es_NNS ._.
+This_DT is_VBZ referred_VBN to_TO as_IN class-imbalanced_JJ data_NNS ._.
+In_IN machine_NN learning_NN ,_, this_DT problem_NN has_VBZ to_TO be_VB carefully_RB approached_VBN due_JJ to_TO a_DT possibility_NN of_IN different_JJ misclassificationscosts_NNS for_IN examples_NNS of_IN each_DT class_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: and_CC a_DT significantly_RB degraded_JJ performance_NN when_WRB the_DT class_NN distribution_NN in_IN the_DT training_NN data_NNS is_VBZ heavily_RB skewed_JJ -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+There_EX are_VBP two_CD major_JJ groups_NNS of_IN techniques_NNS designed_VBN to_TO address_VB class_NN imbalance_NN ._.
+The_DT

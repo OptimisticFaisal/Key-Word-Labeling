@@ -1,0 +1,5 @@
+xonomic_JJ structures_NNS -LRB-_-LRB- such_JJ as_IN semantic_JJ evaluation_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+In_IN our_PRP$ previous_JJ work_NN on_IN semantic_JJ evaluation_NN of_IN folksonomies_NNS we_PRP introduced_VBD a_DT framework_NN that_WDT compares_VBZ learned_VBD folksonomies_NNS to_TO a_DT reference_NN hierarchy_NN =_JJ -_: =[_NN 26_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP used_VBD two_CD metrics_NNS -_: Lexical_JJ Recall_VB and_CC Taxonomic_NNP Overlap_NNP ._.
+Lexical_JJ Recall_VB computes_NNS recall_VBP -_: how_WRB many_JJ terms_NNS exist_VBP in_IN both_CC the_DT learned_VBN folksonomy_NN and_CC reference_NN directory_NN ._.
+Our_PRP$ Taxonomic_NNP Overlap_NNP is_VBZ an_DT

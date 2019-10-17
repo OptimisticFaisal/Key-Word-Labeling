@@ -1,0 +1,4 @@
+blishers_NNS '_POS websites_NNS for_IN library_NN use_NN ._.
+InfoMonitor_NNP archives_VBZ the_DT server-side_JJ components_NNS -LRB-_-LRB- e.g._FW ,_, CGI_NN scripts_NNS and_CC datafiles_NNS -RRB-_-RRB- and_CC filesystem_NN of_IN a_DT web_NN server_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Other_JJ systems_NNS like_IN the_DT Apache_NNP module_NN TTApache_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT proxy_NN server_NN iPROXY_NN -LRB-_-LRB- 31_CD -RRB-_-RRB- archive_NN requested_VBD pages_NNS from_IN a_DT web_NN server_NN but_CC not_RB the_DT server-side_JJ components_NNS ._.
+In_IN regards_VBZ to_TO commercial_JJ SEs_NNS ,_, the_DT literature_NN has_VBZ mostly_RB focused_VBN on_IN measuring_VBG the_DT amount_NN

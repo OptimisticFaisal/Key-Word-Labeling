@@ -1,0 +1,4 @@
+ch_NN of_IN the_DT k_NN attributes_NNS can_MD be_VB used_VBN separately_RB to_TO rank_VB the_DT candidate_NN result_NN documents_NNS to_TO generate_VB k_NN intermediate_JJ rank_NN orders_NNS ,_, which_WDT are_VBP then_RB aggregated_VBN to_TO generate_VB asnal_JJ rank_NN order_NN over_IN the_DT candidates_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2_CD ._.
+The_DT values_NNS for_IN the_DT k_NN attributes_VBZ for_IN the_DT documents_NNS can_MD be_VB combined_VBN numerically_RB to_TO form_VB a_DT composite_JJ score_NN ,_, which_WDT is_VBZ then_RB used_VBN to_TO rank_VB the_DT set_NN of_IN candidate_NN documents_NNS ._.
+Under_IN Scenario_NN 1_CD ,_, quantization_NN

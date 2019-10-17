@@ -1,0 +1,5 @@
+ltiplying_VBG W_NN with_IN a_DT permutation_NN matrix_NN if_IN necessary_JJ ._.
+194_CD 6_CD ._.
+EXPERIMENTS_NNS 6.1_CD Evaluation_NN Measures_NNS There_EX are_VBP many_JJ ways_NNS to_TO measure_VB how_WRB accurately_RB clustering_NN algorithm_NN performs_VBZ ._.
+One_CD is_VBZ the_DT confusion_NN matrix_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Entry_NN -LRB-_-LRB- o_NN ,_, i_LS -RRB-_-RRB- of_IN a_DT confusion_NN matrix_NN is_VBZ the_DT number_NN of_IN data_NNS points_NNS assigned_VBN to_TO output_NN class_NN o_NN and_CC generated_VBN from_IN input_NN class_NN i._NNP The_NNP purity_NN -LRB-_-LRB- 40_CD -RRB-_-RRB- that_WDT measures_VBZ the_DT extend_VBP to_TO which_WDT each_DT cluster_NN contained_VBD d_NN

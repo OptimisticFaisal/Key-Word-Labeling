@@ -1,0 +1,5 @@
+,_, Matias_NNP ,_, and_CC Szegedy_NNP 1996_CD ;_: Broder_NNP 1997_CD ;_: Vempala_NNP 2004_CD -RRB-_-RRB- ._.
+Such_JJ techniques_NNS have_VBP applications_NNS in_IN information_NN retrieval_NN ,_, databases_NNS ,_, and_CC data_NN mining_NN -LRB-_-LRB- Broder_NNP et_FW al._FW 1997_CD ;_: Haveliwala_NNP ,_, Gionis_NNP ,_, and_CC Indyk_NNP 2000_CD ;_: =_JJ -_: =_JJ Haveliwala_NNP et_FW al._FW 2002_CD -_: =--RRB-_NN ._.
+Broder_NNP 's_POS sketches_NNS -LRB-_-LRB- Broder_NNP 1997_CD -RRB-_-RRB- were_VBD originally_RB introduced_VBN to_TO detect_VB duplicate_VB documents_NNS in_IN Web_NN crawls_VBZ ._.
+Many_JJ URLs_NNS point_VBP to_TO the_DT same_JJ -LRB-_-LRB- or_CC nearly_RB the_DT same_JJ -RRB-_-RRB- HTML_NNP blobs_NNS ._.
+Approximate_JJ answers_NNS are_VBP often_RB go_VB

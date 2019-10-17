@@ -1,0 +1,4 @@
+meters_NNS among_IN multiple_JJ tasks_NNS has_VBZ been_VBN explored_VBN in_IN the_DT Bayesian_JJ framework_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Multi-class_JJ Learning_NNP Formulation_NNP for_IN extracting_VBG shared_JJ structures_NNS in_IN multi-class_JJ classification_NN has_VBZ been_VBN proposed_VBN recently_RB =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT formulation_NN ,_, a_DT low-rank_JJ transformation_NN is_VBZ computed_VBN to_TO uncover_VB the_DT shared_JJ structures_NNS in_IN multi-class_JJ classification_NN ._.
+The_DT final_JJ prediction_NN is_VBZ solely_RB based_VBN on_IN the_DT lowdimensional_JJ representations_NNS

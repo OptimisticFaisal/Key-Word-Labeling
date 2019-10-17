@@ -1,0 +1,3 @@
+numerical_JJ data_NNS -LRB-_-LRB- e.g._FW ,_, individual_JJ records_NNS -RRB-_-RRB- can_MD be_VB perturbed_VBN and_CC then_RB reconstructed_VBN by_IN estimation_NN -LRB-_-LRB- 91_CD -RRB-_-RRB- ,_, and_CC the_DT binary_JJ or_CC categorical_JJ data_NNS -LRB-_-LRB- e.g._FW ,_, association_NN rules_NNS -RRB-_-RRB- are_VBP randomized_VBN and_CC reconstructed_VBN in_IN =_JJ -_: =[_NN 92_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN these_DT techniques_NNS ,_, the_DT successful_JJ reconstruction_NN operations_NNS determine_VBP the_DT performance_NN of_IN data_NNS mining_NN ._.
+4.8.2_CD Open_NNP issues_NNS Obviously_RB the_DT privacy-preserving_JJ data_NNS modification_NN results_VBZ in_IN degradation_NN o_NN

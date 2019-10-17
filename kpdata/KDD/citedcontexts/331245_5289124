@@ -1,0 +1,5 @@
+2_LS -RRB-_-RRB- ._.
+Note_VB that_IN the_DT canonicalcode_NN -LRB-_-LRB- -RRB-_-RRB- function_NN essentially_RB creates_VBZ a_DT unique_JJ string_NN for_IN the_DT isomorphic_JJ representation_NN of_IN the_DT motif_NN -LRB-_-LRB- a_DT labeled_JJ subgraph_NN -RRB-_-RRB- ._.
+Many_JJ methods_NNS have_VBP been_VBN developed_VBN for_IN such_JJ a_DT purpose_NN =_JJ -_: =[_NN 30_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Finally_RB each_DT motif_NN occurrence_NN is_VBZ recored_VBN in_IN a_DT the_DT motifocc_NN list_NN -LRB-_-LRB- Line_NNP 23_CD -RRB-_-RRB- ._.
+After_IN building_VBG the_DT first_JJ level_NN ,_, for_IN each_DT set_VBN Ck_NN ,_, ExtractF_NN requentMotifs_NN -LRB-_-LRB- -RRB-_-RRB- will_MD find_VB the_DT maximal_JJ number_NN of_IN occurrences_NNS which_WDT

@@ -1,0 +1,6 @@
+aracteristics_NNS based_VBN on_IN their_PRP$ behaviors_NNS while_IN navigating_VBG ._.
+Paliouras_FW et_FW al._FW -LRB-_-LRB- 66_CD -RRB-_-RRB- built_VBN user_NN communities_NNS by_IN means_NNS of_IN clustering_NN ._.
+A_DT community_NN corresponds_VBZ to_TO a_DT group_NN of_IN users_NNS who_WP have_VBP common_JJ interests_NNS ._.
+In_IN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, users_NNS are_VBP partitioned_VBN into_IN different_JJ clusters_NNS by_IN a_DT model-based_JJ algorithm_NN ._.
+The_DT clustering_NN analysis_NN utilizes_VBZ a_DT mixture_NN of_IN first-order_JJ Markov_NNP models_NNS using_VBG Expectation-Maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- ._.
+A_DT first-order_JJ M_NN

@@ -1,0 +1,3 @@
+traffic_NN ,_, the_DT partial_JJ score_NN becomes_VBZ less_JJR than_IN 1_CD ._.
+It_PRP ð1Þ_NN is_VBZ known_VBN that_IN some_DT IP_NNP header_NN fields_NNS are_VBP not_RB evenly_RB distributed_VBN over_IN all_DT possible_JJ values_NNS ;_: rather_RB a_DT unique_JJ distribution_NN pattern_NN exists_VBZ for_IN a_DT site_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+If_IN attackers_NNS do_VBP not_RB know_VB the_DT attribute_NN value_NN distribution_NN in_IN legitimate_JJ traffic_NN ,_, they_PRP are_VBP likely_JJ to_TO generate_VB random_JJ or_CC wrongly_RB guessed_VBN attribute_NN values_NNS ,_, which_WDT makes_VBZ most_JJS of_IN the_DT attack_NN pa_NN

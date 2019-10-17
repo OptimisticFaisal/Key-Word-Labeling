@@ -1,0 +1,4 @@
+on_IN of_IN patterns_NNS ._.
+So_RB ,_, we_PRP have_VBP not_RB only_RB to_TO optimize_VB single_JJ inductive_JJ query_NN evaluations_NNS but_CC also_RB the_DT evaluation_NN of_IN sequences_NNS of_IN queries_NNS ._.
+This_DT has_VBZ been_VBN studied_VBN for_IN itemsets_NNS and_CC association_NN rules_NNS in_IN ,_, e.g._FW ,_, =_JJ -_: =[_NN 37,3,36,62_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+sInductive_JJ Databases_NNS and_CC Multiple_JJ Uses_NNS of_IN Frequent_JJ Itemsets_NNPS 13_CD One_CD classical_JJ challenge_NN is_VBZ the_DT design_NN of_IN incremental_JJ algorithms_NNS for_IN computing_NN theories_NNS -LRB-_-LRB- e.g._FW ,_, itemsets_NNS that_WDT satisfy_VBP a_DT complex_JJ constraint_NN

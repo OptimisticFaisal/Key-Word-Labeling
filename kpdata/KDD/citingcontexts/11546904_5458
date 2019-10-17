@@ -1,0 +1,7 @@
+._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+We_PRP first_RB introduce_VB the_DT algorithm_NN for_IN general_JJ factor_NN graph_NN ,_, discuss_VB its_PRP$ deficiency_NN ,_, and_CC then_RB propose_VB our_PRP$ algorithm_NN ._.
+Sum-product_NN +_CC junction_NN tree_NN ._.
+There_EX is_VBZ a_DT general_JJ algorithm_NN called_VBN sum-product_NN =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: to_TO compute_VB marginal_JJ function_NN on_IN a_DT factor_NN graph_NN based_VBN on_IN message_NN passing_NN ._.
+It_PRP performs_VBZ exact_JJ inference_NN on_IN a_DT factor_NN graph_NN without_IN cycles_NNS ._.
+In_IN the_DT sum-product_NN algorithm_NN ,_, the_DT marginal_JJ functions_NNS of_IN a_DT single_JJ

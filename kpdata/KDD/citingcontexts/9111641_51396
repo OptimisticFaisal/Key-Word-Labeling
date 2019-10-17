@@ -1,0 +1,4 @@
+,_, the_DT supervised_JJ learner_NN SVM_NN is_VBZ set_VBN as_IN the_DT baseline_NN method_NN ._.
+Our_PRP$ method_NN is_VBZ also_RB compared_VBN to_TO several_JJ semi-supervised_JJ classifiers_NNS ,_, including_VBG Transductive_JJ SVM_NN -LRB-_-LRB- TSVM_NN -RRB-_-RRB- -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, Spectral_JJ Graph_NN Transducer_NN -LRB-_-LRB- SGT_NN -RRB-_-RRB- =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Spectral_JJ Classifier_NN -LRB-_-LRB- SC_NN -RRB-_-RRB- -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Note_VB that_DT -LRB-_-LRB- 22_CD -RRB-_-RRB- is_VBZ approximately_RB a_DT special_JJ case_NN CDSC_NN with_IN λ_NN =_JJ 0_CD ._.
+We_PRP also_RB compare_VBP to_TO the_DT co-clustering_JJ based_JJ classification_NN -LRB-_-LRB- CoCC_NN -RRB-_-RRB- -LRB-_-LRB- 10_CD -RRB-_-RRB- as_IN the_DT state-of-the-art_JJ domain_NN -_:

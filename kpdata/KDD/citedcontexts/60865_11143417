@@ -1,0 +1,4 @@
+o_NN optimize_VB than_IN the_DT standard_JJ SVM_NN objective_NN ._.
+When_WRB training_NN data_NNS is_VBZ generated_VBN through_IN human_JJ effort_NN ,_, faster_JJR learning_NN saves_VBZ time_NN and_CC money_NN ._.
+When_WRB examples_NNS are_VBP labeled_VBN automatically_RB ,_, through_IN user_NN feedback_NN -LRB-_-LRB- =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =--RRB-_NN or_CC from_IN textual_JJ pseudo-examples_NNS -LRB-_-LRB- Smith_NNP and_CC Eisner_NNP ,_, 2005_CD ;_: Okanohara_NNP and_CC Tsujii_NNP ,_, 2007_CD -RRB-_-RRB- ,_, faster_JJR learning_NN can_MD reduce_VB the_DT lag_NN before_IN a_DT new_JJ system_NN is_VBZ useful_JJ ._.
+We_PRP demonstrate_VBP faster_JJR learning_NN on_IN lexical_JJ disa_NN

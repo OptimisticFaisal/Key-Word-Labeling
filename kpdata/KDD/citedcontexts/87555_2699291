@@ -1,0 +1,4 @@
+correspond_VBP to_TO the_DT correct_JJ class_NN ._.
+The_DT value_NN in_IN L_NN -LRB-_-LRB- i_FW ;_: j_NN -RRB-_-RRB- gives_VBZ the_DT ``_`` loss_NN ''_'' of_IN predicting_VBG class_NN i_FW when_WRB the_DT true_JJ class_NN is_VBZ j._VBN The_DT diagonal_JJ elements_NNS ,_, L_NN -LRB-_-LRB- i_FW ;_: i_LS -RRB-_-RRB- ,_, are_VBP for_IN most_JJS tasks_NNS zero_VBP ,_, but_CC ,_, as_IN pointe_NN =_JJ -_: =d_NN out_IN in_IN -LRB-_-LRB- Domingos_NNP ,_, 1999_CD -_: =--RRB-_NN ,_, there_EX are_VBP cases_NNS when_WRB it_PRP is_VBZ reasonable_JJ to_TO assume_VB positive_JJ diagonal_JJ values_NNS ._.
+For_IN example_NN ,_, Table_NNP 1_CD shows_VBZ a_DT 4-class_JJ loss_NN matrix_NN ._.
+The_DT cell_NN in_IN column_NN 1_CD of_IN row_NN 3_CD gives_VBZ the_DT loss_NN -LRB-_-LRB- 4.5_CD -RRB-_-RRB- of_IN predicting_VBG class_NN 3_CD

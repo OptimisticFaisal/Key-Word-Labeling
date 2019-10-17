@@ -1,0 +1,4 @@
+set_NN of_IN these_DT execution_NN traces_NNS can_MD be_VB represented_VBN as_IN a_DT sequence_NN database_NN which_WDT is_VBZ the_DT basis_NN of_IN our_PRP$ analysis_NN ._.
+Recently_RB there_EX are_VBP active_JJ interests_NNS in_IN developing_VBG discriminative_JJ pattern-based_JJ classifiers_NNS =_JJ -_: =[_NN 10_CD ,_, 9_CD ,_, 29_CD -RRB-_-RRB- -_: =_JJ -_: ,_, especially_RB for_IN unstructured_JJ or_CC semi-structured_JJ data_NNS including_VBG itemsets_NNS and_CC graphs_NNS ._.
+A_DT set_NN of_IN patterns_NNS are_VBP mined_VBN and_CC used_VBN to_TO represent_VB multi-dimensional_JJ discriminative_JJ features_NNS from_IN a_DT set_NN of_IN data_NNS ._.
+The_DT

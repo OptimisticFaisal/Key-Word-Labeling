@@ -1,0 +1,6 @@
+lem_NN of_IN choosing_VBG views_NNS to_TO materialize_VB data_NNS cubes_NNS under_IN space_NN constraints_NNS ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- proposes_VBZ computing_NN iceberg_NN cube_NN and_CC use_NN BUC_NN to_TO handle_VB monotonic_JJ constraints_NNS ._.
+Methods_NNS to_TO compress_VB data_NNS cubes_NNS are_VBP studied_VBN in_IN =_JJ -_: =[_NN 23_CD ,_, 24_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Moreover_RB ,_, -LRB-_-LRB- 4_CD ,_, 5_CD ,_, 26_CD -RRB-_-RRB- investigat_JJ various_JJ approximation_NN methods_NNS for_IN data_NNS cubes_NNS ._.
+Undoubtedly_NNP ,_, a_DT data_NN cube_NN has_VBZ to_TO be_VB updated_VBN timely_JJ to_TO reflect_VB the_DT changes_NNS of_IN the_DT base_NN table_NN ._.
+The_DT possible_JJ updates_NNS include_VBP

@@ -1,0 +1,4 @@
+ful_NN as_IN possible_JJ ,_, it_PRP is_VBZ required_VBN to_TO reduce_VB the_DT information_NN loss_NN as_RB much_JJ as_IN possible_JJ ._.
+A_DT few_JJ models_NNS have_VBP been_VBN proposed_VBN to_TO measure_VB the_DT usefulness_NN of_IN anonymized_JJ data_NNS ._.
+For_IN example_NN ,_, the_DT discernability_NN model_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: tries_VBZ to_TO minimize_VB the_DT number_NN of_IN tuples_NNS that_WDT are_VBP indistinguishable_JJ ,_, as_RB long_RB as_IN they_PRP satisfy_VBP the_DT k-anonymity_NN requirement_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP study_VBD the_DT problem_NN of_IN k-anonymization_NN and_CC focus_VB on_IN two_CD interes_NNS

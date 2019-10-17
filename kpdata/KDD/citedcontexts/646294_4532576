@@ -1,0 +1,4 @@
+plete_NN graph_NN -LRB-_-LRB- i.e._FW ,_, clique_NN -RRB-_-RRB- ._.
+In_IN a_DT graph_NN G_NN ,_, a_DT subset_NN of_IN vertices_NNS S_NN ⊆_NN V_NN -LRB-_-LRB- G_NN -RRB-_-RRB- is_VBZ a_DT γ-QuasiClique_NN -LRB-_-LRB- 0_CD -LRB-_-LRB- γ_FW ≤_FW 1_LS -RRB-_-RRB- if_IN G_NN -LRB-_-LRB- S_NN -RRB-_-RRB- is_VBZ a_DT γ-Quasi-Clique_NN graph_NN ,_, and_CC no_DT proper_JJ superset_NN of_IN S_NN has_VBZ this_DT property_NN ._.
+✷_NN As_IN shown_VBN in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, an_DT interesting_JJ property_NN of_IN Quasi-Cliques_NNP is_VBZ that_IN when_WRB γ_NN is_VBZ not_RB too_RB small_JJ ,_, a_DT γ-Quasi-Clique_NN is_VBZ compact_JJ --_: the_DT diameter_NN of_IN the_DT Quasi-Clique_NNP is_VBZ small_JJ ._.
+That_DT is_VBZ ,_, the_DT diameter_NN of_IN G_NN ,_, D_NN -LRB-_-LRB- G_NN -RRB-_-RRB- ,_, is_VBZ :_: ⎧_FW ⎪_FW ⎩_NN =_JJ 1_CD if_IN 1_CD

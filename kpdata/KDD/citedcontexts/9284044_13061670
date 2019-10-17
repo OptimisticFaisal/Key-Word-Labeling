@@ -1,0 +1,5 @@
+φi_FW ∼_FW p_NN -LRB-_-LRB- φi_FW |_FW xi_FW -RRB-_-RRB- φj_FW ∼_FW p_NN -LRB-_-LRB- φj_FW |_FW xj_FW -RRB-_-RRB- yij_FW ∼_FW p_NN -LRB-_-LRB- yij_FW |_FW φ_FW ⊤_FW i_FW φj_FW ;_: Θ_NN -RRB-_-RRB- ._.
+Neighborhood_NN based_VBN latent_JJ factor_NN models_NNS ._.
+It_PRP is_VBZ natural_JJ to_TO combine_VB the_DT neighborhood_NN models_NNS and_CC latent_JJ factor_NN models_NNS ._.
+A_DT recent_JJ example_NN is_VBZ discussed_VBN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB the_DT basic_JJ idea_NN is_VBZ to_TO apply_VB the_DT locality_NN of_IN dependencies_NNS directly_RB to_TO the_DT latent_JJ factors_NNS ,_, for_IN example_NN :_: ∑_FW ˆφi_FW =_JJ i_FW ′_FW ∈_FW Ω_FW ωii_FW ′_FW φi_FW ′_FW i_FW ∑_FW i_FW ′_FW ∈_FW Ω_FW ωii_FW i_FW ′_FW yij_FW ∼_FW p_NN -LRB-_-LRB- yij_FW |_FW ˆ_FW φ_FW ⊤_FW i_FW φj_FW ;_: Θ_NN -RRB-_-RRB- ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- This_DT model_NN 2_CD whi_NN

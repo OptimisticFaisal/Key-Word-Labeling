@@ -1,0 +1,3 @@
+q4_FW q5_FW 2_CD 8_CD q3_NN q4_NN 4_CD 1_CD 3_CD 2_CD 1_CD 1_CD q6_NN 1_CD 1_CD q5_FW q2_FW root_NN q4_NN q5_NN Figure_NN 2_CD :_: A_DT suffix_NN tree_NN for_IN Table_NNP 1_CD ._.
+query_NN sequence_NN s_NN ,_, find_VBP the_DT sequences_NNS in_IN D_NN of_IN which_WDT s_NN is_VBZ a_DT subsequence_NN ._.
+Suffix_NN trees_NNS and_CC their_PRP$ compacted_JJ forms_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP effective_JJ data_NNS structures_NNS to_TO solve_VB the_DT problem_NN ,_, since_IN a_DT subsequence_NN s_NN ′_NN of_IN a_DT sequence_NN s_NN must_MD be_VB a_DT prefix_NN of_IN a_DT suffix_NN of_IN s._NN A_NN suffix_NN tree_NN organizes_VBZ all_DT suffixes_NNS of_IN a_DT given_VBN sequence_NN into_IN a_DT prefix_NN s_NN

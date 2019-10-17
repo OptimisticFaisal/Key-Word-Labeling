@@ -1,0 +1,4 @@
+s_NN temporal_JJ signatures_NNS ,_, since_IN they_PRP serve_VBP to_TO summarize_VB the_DT underlying_JJ state_NN of_IN the_DT dynamical_JJ system_NN ._.
+The_DT problem_NN of_IN extracting_VBG temporal_JJ signatures_NNS can_MD be_VB viewed_VBN as_IN feature_NN selection_NN in_IN rank-order_NN space_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB ,_, proteins_NNS are_VBP the_DT features_NNS ,_, instances_NNS are_VBP vectors_NNS of_IN concentration_NN values_NNS of_IN proteins_NNS ,_, and_CC the_DT classes_NNS are_VBP the_DT phases_NNS of_IN the_DT biological_JJ system_NN -LRB-_-LRB- e.g._FW ,_, G1_NN ,_, S_NN ,_, G2_NN ,_, M_NN phases_NNS -RRB-_-RRB- ._.
+Because_IN the_DT dynamics_NNS

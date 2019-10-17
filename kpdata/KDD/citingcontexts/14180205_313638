@@ -1,0 +1,5 @@
+min-cost_JJ flow_NN instance_NN is_VBZ based_VBN on_IN the_DT dual_JJ variables_NNS of_IN the_DT min-cost_JJ flow_NN solution_NN ._.
+Primal-dual_JJ methods_NNS have_VBP been_VBN largely_RB used_VBN as_IN a_DT tool_NN to_TO find_VB approximation_NN algorithms_NNS for_IN various_JJ problems_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 4_CD ,_, 1_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Recently_RB ,_, Devanur_NNP et_FW al._FW -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC Jain_NNP and_CC Vazirani_NNP -LRB-_-LRB- 13_CD -RRB-_-RRB- used_VBD primaldual_JJ methods_NNS and_CC KKT_NN conditions_NNS for_IN solving_VBG market_NN equilibria_NN problems_NNS ._.
+2_CD ._.
+PRELIMINARIES_NNS Suppose_VBP we_PRP are_VBP given_VBN a_DT set_VBN I_NN of_IN impressio_NN

@@ -1,0 +1,5 @@
+-_: life_NN graphs_NNS ._.
+2_CD ._.
+RELATED_NNS WORK_VBP In_IN pattern_NN mining_NN ,_, researchers_NNS proposed_VBD numerous_JJ algorithms_NNS -LRB-_-LRB- 19_CD ,_, 35_CD ,_, 14_CD ,_, 24_CD -RRB-_-RRB- to_TO mine_VB the_DT complete_JJ set_NN of_IN frequent_JJ subgraphs_NNS ._.
+There_EX are_VBP also_RB algorithms_NNS for_IN mining_NN maximal_JJ =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: and_CC closed_VBN -LRB-_-LRB- 36_CD -RRB-_-RRB- frequent_JJ subgraphs_NNS ._.
+These_DT algorithms_NNS are_VBP efficient_JJ for_IN datasets_NNS of_IN small_JJ to_TO moderate_VB sized_VBN graph_NN -LRB-_-LRB- upto_NN few_JJ hundred_CD vertices_NNS -RRB-_-RRB- ,_, but_CC they_PRP do_VBP not_RB scale_VB well_RB for_IN datasets_NNS of_IN larger_JJR graphs_NNS

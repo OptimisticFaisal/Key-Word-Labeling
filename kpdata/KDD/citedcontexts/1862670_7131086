@@ -1,0 +1,3 @@
+teins_NNS may_MD indicate_VB the_DT site_NN of_IN a_DT common_JJ biochemical_JJ mechanism_NN or_CC a_DT structural_JJ motif_NN ._.
+In_IN an_DT earlier_JJR work_NN ,_, we_PRP examined_VBD the_DT applicability_NN of_IN this_DT method_NN to_TO the_DT classification_NN of_IN outer_JJ membrane_NN proteins_NNS -LRB-_-LRB- =_JJ -_: =_JJ She_NN et_FW al._FW ,_, 2003_CD -_: =--RRB-_NN ;_: here_RB ,_, we_PRP show_VBP that_IN it_PRP can_MD be_VB used_VBN for_IN high-precision_JJ classification_NN of_IN all_DT prokaryotic_JJ localization_NN sites_NNS ._.
+By_IN the_DT introduction_NN of_IN an_DT SVM-based_JJ classifier_NN and_CC expansion_NN of_IN the_DT SCL-BLAST_NN and_CC motif-ba_NN

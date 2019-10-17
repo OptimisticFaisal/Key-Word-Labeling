@@ -1,0 +1,5 @@
+second_RB ,_, thus_RB obtaining_VBG a_DT single_JJ sample_NN from_IN the_DT database_NN currently_RB built_VBN in_IN the_DT explicit_JJ pairs_NNS algorithm_NN ._.
+A_DT more_RBR difficult_JJ task_NN is_VBZ guaranteeing_VBG accuracy_NN of_IN the_DT solution_NN obtained_VBN ._.
+Methods_NNS presented_VBN in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB used_VBN ._.
+Currently_RB we_PRP only_RB consider_VBP support_NN definitions_NNS where_WRB all_DT items_NNS in_IN one_CD record_NN have_VBP to_TO be_VB strictly_RB less_JJR than_IN all_DT items_NNS in_IN the_DT other_JJ record_NN ._.
+It_PRP would_MD be_VB interesting_JJ to_TO consider_VB cases_NNS where_WRB

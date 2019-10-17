@@ -1,0 +1,5 @@
+eminated_VBN more_RBR widely_RB ._.
+In_IN this_DT paper_NN ,_, we_PRP show_VBP how_WRB to_TO perform_VB secure_JJ linear_JJ regression_NN for_IN ``_`` vertically_RB partitioned_VBN data_NNS ''_'' ._.
+-LRB-_-LRB- The_DT problem_NN of_IN horizontally_RB partitioned_VBN data_NNS is_VBZ addressed_VBN in_IN a_DT companion_NN paper_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Our_PRP$ work_NN is_VBZ similar_JJ in_IN spirit_NN to_TO -LRB-_-LRB- 12_CD ,_, 13_CD -RRB-_-RRB- who_WP describe_VBP methods_NNS for_IN doing_VBG cluster_NN analysis_NN and_CC association_NN rule_NN discovery_NN in_IN vertically_RB partitioned_VBN data_NNS ._.
+The_DT recent_JJ work_NN by_IN Du_NNP ,_, et_FW al_FW -LRB-_-LRB- 6_CD -RRB-_-RRB- for_IN the_DT 2-a_NN

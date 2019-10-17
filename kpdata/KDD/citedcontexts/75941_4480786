@@ -1,0 +1,5 @@
+effective_JJ in_IN reducing_VBG the_DT computation_NN time_NN for_IN lazy_JJ induction_NN ._.
+4_LS ._.
+MULTI-CRITERIA_NNP CLASSIFICATION_NNP The_DT use_NN of_IN a_DT single_JJ statistical_JJ measure_NN usually_RB does_VBZ not_RB capture_VB all_DT relevant_JJ characteristics_NNS of_IN a_DT rule_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Confidence_NN -LRB-_-LRB- θ_NN -RRB-_-RRB- ,_, for_IN instance_NN ,_, is_VBZ often_RB used_VBN to_TO measure_VB the_DT accuracy_NN of_IN a_DT rule_NN X_NN θ_FW −_FW →_FW c._FW However_RB ,_, this_DT information_NN may_MD be_VB misleading_JJ ,_, especially_RB when_WRB σ_NN -LRB-_-LRB- c_NN -RRB-_-RRB- -RRB-_-RRB- θ_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Notice_NNP that_IN confidence_NN is_VBZ not_RB affected_VBN

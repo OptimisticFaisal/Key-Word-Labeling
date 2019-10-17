@@ -1,0 +1,5 @@
+o_NN live-checkpoint_JJ Blink_NN VMs_NNS to_TO stable_JJ storage_NN ,_, e.g._FW to_TO a_DT hard_JJ -_: or_CC flash_VB drive_NN ,_, and_CC to_TO fork_NN and_CC live-migrate_JJ application_NN VMs_NNS across_IN the_DT network_NN ._.
+This_DT is_VBZ similar_JJ to_TO the_DT system_NN proposed_VBN by_IN Potter_NNP et_NNP ._.
+al._FW =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC with_IN the_DT difference_NN that_IN checkpointing_NN is_VBZ performed_VBN from_IN within_IN the_DT VM_NN ,_, and_CC may_MD be_VB done_VBN in_IN the_DT background_NN without_IN interrupting_VBG the_DT user_NN ._.
+6_CD ._.
+CONCLUSION_NN Blink_NN demonstrates_VBZ that_IN today_NN 's_POS advanced_JJ di_FW

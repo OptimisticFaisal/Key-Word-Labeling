@@ -1,0 +1,5 @@
+died_VBD the_DT general_JJ case_NN ._.
+Methods_NNS for_IN active_JJ sampling_NN ,_, choosing_VBG subsequent_JJ samples_NNS based_VBN upon_IN the_DT models_NNS learned_VBD previously_RB ,_, are_VBP of_IN particular_JJ interest_NN ._.
+A_DT classic_JJ example_NN of_IN active_JJ sampling_NN is_VBZ windowing_VBG =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, wherein_WRB subsequent_JJ sampling_NN chooses_VBZ instances_NNS for_IN which_WDT the_DT current_JJ model_NN makes_VBZ errors_NNS ._.
+Active_JJ sampling_NN changes_VBZ the_DT learning_NN curve_NN ._.
+For_IN example_NN ,_, on_IN noisy_JJ data_NNS ,_, windowing_VBG learning_NN curves_NNS are_VBP notoriou_JJ

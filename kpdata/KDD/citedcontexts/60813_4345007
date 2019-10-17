@@ -1,0 +1,4 @@
+h_NN are_VBP similar_JJ to_TO most_JJS of_IN the_DT elements_NNS in_IN the_DT dataset_NN ._.
+However_RB Max_NNP Coverage_NNP can_MD not_RB capture_VB original_JJ information_NN as_RB much_RB as_IN the_DT our_PRP$ method_NN since_IN it_PRP only_RB considers_VBZ coverage_NN while_IN omitting_VBG redundancy_NN ._.
+In_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT semi-supervised_JJ clustering_NN method_NN based_VBN on_IN information_NN theory_NN performs_VBZ clustering_NN using_VBG predefined_JJ constraints_NNS ._.
+However_RB ,_, to_TO get_VB better_JJR performance_NN ,_, the_DT algorithm_NN tends_VBZ to_TO require_VB more_JJR constraints_NNS

@@ -1,0 +1,4 @@
+data_NNS -LRB-_-LRB- Joachims_NNP ,_, 2002_CD -RRB-_-RRB- ._.
+Click-through_JJ data_NNS has_VBZ also_RB been_VBN used_VBN for_IN calculating_VBG query_NN similarity_NN ,_, because_IN queries_NNS which_WDT link_VBP to_TO the_DT same_JJ URLs_NNS in_IN click-through_JJ data_NNS may_MD represent_VB the_DT same_JJ search_NN intent_NN -LRB-_-LRB- =_JJ -_: =_JJ Beeferman_NNP and_CC Berger_NNP ,_, 2000_CD -_: =_JJ -_: ;_: Cui_NNP et_FW al._FW ,_, 2003_CD ;_: Wen_NNP et_FW al._FW ,_, 2002_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN ,_, we_PRP use_VBP click-through_JJ data_NNS for_IN training_VBG a_DT Robust_JJ BM25_NN as_RB well_RB as_IN calculating_VBG query_NN similarity_NN ._.
+Learning_NNP to_TO rank_VB refers_VBZ to_TO supervised_JJ learning_NN techn_NN

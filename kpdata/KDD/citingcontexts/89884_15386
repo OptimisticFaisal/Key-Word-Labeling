@@ -1,0 +1,4 @@
+tructures_NNS to_TO be_VB discovered_VBN ,_, one_CD extracts_NNS more_RBR informative_JJ patterns_NNS ;_: we_PRP are_VBP specifically_RB interested_JJ in_IN mining_VBG tree-like_JJ patterns_NNS ._.
+As_IN a_DT motivating_VBG example_NN for_IN tree_NN mining_NN ,_, consider_VB the_DT web_NN usage_NN mining_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: problem_NN ._.
+Given_VBN a_DT database_NN of_IN web_NN access_NN logs_NNS at_IN a_DT popular_JJ site_NN ,_, one_PRP can_MD perform_VB several_JJ mining_NN tasks_NNS ._.
+The_DT simplest_JJS is_VBZ to_TO ignore_VB all_DT link_NN information_NN from_IN the_DT logs_NNS ,_, and_CC to_TO mine_VB only_RB the_DT frequent_JJ sets_NNS

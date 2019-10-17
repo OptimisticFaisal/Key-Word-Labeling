@@ -1,0 +1,5 @@
+a_DT hard-coded_JJ statistical_JJ measure_NN ._.
+Scalability_NN issues_NNS are_VBP not_RB considered_VBN ._.
+The_DT proposed_VBN algorithm_NN requires_VBZ excessive_JJ computational_JJ resources_NNS if_IN applied_VBN to_TO large_JJ gene_NN expression_NN matrixes_NNS ._.
+OP-clustering_NN =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: generalizes_VBZ the_DT OPSM_NNP model_NN by_IN grouping_VBG attributes_NNS into_IN equivalent_JJ classes_NNS ._.
+Their_PRP$ proposed_VBN method_NN ,_, OPC-tree_NN ,_, performs_VBZ exhaustive_JJ enumeration_NN as_IN in_IN conventional_JJ sequential_JJ pattern_NN mining_NN ,_, and_CC fails_VBZ for_IN

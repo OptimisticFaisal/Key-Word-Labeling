@@ -1,0 +1,3 @@
+wever_JJR ,_, and_CC it_PRP is_VBZ not_RB useful_JJ when_WRB the_DT quantile_JJ estimate_NN must_MD be_VB updated_VBN at_IN each_DT observation_NN ._.
+2.2_CD The_DT SA_NNP Estimate_NNP Tierney_NNP -LRB-_-LRB- 9_CD -RRB-_-RRB- proposed_VBD an_DT incremental_JJ quantile_JJ estimate_NN based_VBN on_IN stochastic_JJ approximation_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: that_IN ,_, unlike_IN the_DT moving_VBG average_NN and_CC EWMA_NN estimates_NNS ,_, becomes_VBZ less_RBR biased_VBN as_IN data_NNS are_VBP collected_VBN and_CC can_MD be_VB computed_VBN even_RB if_IN the_DT quantile_JJ estimate_NN has_VBZ to_TO be_VB updated_VBN at_IN every_DT observation_NN ._.
+In_IN fact_NN ,_, Tierne_NN

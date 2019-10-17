@@ -1,0 +1,4 @@
+ection_NN of_IN web_NN pages_NNS of_IN the_DT same_JJ topic_NN are_VBP most_RBS likely_JJ to_TO be_VB the_DT sub-topics_NNS or_CC the_DT salient_JJ concepts_NNS ._.
+We_PRP can_MD find_VB out_RP several_JJ different_JJ methods_NNS and_CC system_NN for_IN clustering_NN transactions_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC documents_VBZ =_JJ -_: =[_NN 2_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT are_VBP all_DT based_VBN on_IN the_DT intuition_NN that_IN there_EX should_MD be_VB many_JJ frequent_JJ itemsets_NNS within_IN a_DT cluster_NN and_CC different_JJ clusters_NNS have_VBP little_RB overlapping_JJ of_IN such_JJ frequent_JJ itemsets_NNS ._.
+3_CD Term_NNP Graph_NNP Model_NNP 3.1_CD Ove_NN

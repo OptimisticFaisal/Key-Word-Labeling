@@ -1,0 +1,5 @@
+s_NN that_IN the_DT L1-norm_NN of_IN the_DT weight_NN vector_NN is_VBZ minimized_VBN instead_RB of_IN the_DT squared_VBN L2-norm_NN ._.
+This_DT modification_NN is_VBZ motivated_VBN similarly_RB as_IN for_IN the_DT LASSO_NNP ._.
+The_DT Liknon_NNP classifier_NN is_VBZ therefore_RB a_DT linear_JJ L1-SVM_NN ,_, see_VBP =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 28_CD -RRB-_-RRB- for_IN more_JJR on_IN L1-SVM_NN 's_POS ._.
+We_PRP now_RB elaborate_VBP on_IN the_DT Liknon_NNP classifier_NN ,_, since_IN it_PRP resembles_VBZ LESS_NNP to_TO a_DT certain_JJ extent_NN ._.
+Formally_RB ,_, Liknon_NNP is_VBZ defined_VBN as_IN follows_VBZ :_: subject_JJ to_TO :_: min_NN |_CD w_NN |_NN +_CC C_NN n_NN i_FW =_JJ 1_CD ξi_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ∀_NN

@@ -1,0 +1,4 @@
+ry_NN shape_NN and_CC data_NNS distribution_NN and_CC are_VBP robust_JJ against_IN noise_NN ._.
+For_IN DBSCAN_NNP the_DT user_NN has_VBZ to_TO select_VB a_DT density_NN threshold_NN ,_, and_CC also_RB for_IN OPTICS_NNP to_TO derive_VB clusters_NNS from_IN the_DT reachability-plot_NN ._.
+K-harmonic_JJ means_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: avoids_VBZ the_DT problem_NN of_IN outliers_NNS ,_, but_CC still_RB needs_VBZ k._NNP Spectral_NNP clustering_NN algorithms_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- perform_VB K-means_NNS or_CC similar_JJ algorithms_NNS after_IN decomposing_VBG the_DT n_NN ×_CD n_NN gram_NN matrix_NN of_IN the_DT data_NNS -LRB-_-LRB- typically_RB using_VBG PCA_NN -RRB-_-RRB- ._.
+C_NN

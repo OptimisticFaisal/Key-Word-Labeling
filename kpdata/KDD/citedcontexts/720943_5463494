@@ -1,0 +1,4 @@
+These_DT problems_NNS are_VBP due_JJ to_TO the_DT need_NN for_IN an_DT aggregation_NN predicate_NN -LRB-_-LRB- in_IN this_DT case_NN count_NN -RRB-_-RRB- to_TO correctly_RB define_VB the_DT target_NN concept_NN ._.
+Dealing_VBG with_IN aggregation_NN is_VBZ known_VBN to_TO be_VB difficult_JJ for_IN relational_JJ learning_NN -LRB-_-LRB- =_JJ -_: =_JJ Perlich_NNP and_CC Provost_NNP ,_, 2003_CD -_: =_JJ -_: ;_: Knobbe_NNP et_FW al._FW ,_, 2002_CD -RRB-_-RRB- ._.
+In_IN order_NN for_IN Progol_NNP to_TO learn_VB the_DT target_NN concept_NN ,_, two_CD explicit_JJ conditioned_JJ counting_NN predicates_NNS had_VBD to_TO be_VB provided_VBN ,_, counting_VBG the_DT number_NN of_IN ordered_VBN -LRB-_-LRB- resp_NN ._.
+unordered_JJ -RRB-_-RRB- length_NN two_CD su_NN

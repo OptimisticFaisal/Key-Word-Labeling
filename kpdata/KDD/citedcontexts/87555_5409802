@@ -1,0 +1,5 @@
+for_IN the_DT misclassification_NN model_NN ._.
+Rather_RB than_IN making_VBG a_DT series_NN of_IN weighted_JJ classifiers_NNS ,_, which_WDT is_VBZ very_RB expensive_JJ ,_, appropriately_RB biased_VBN classification_NN techniques_NNS can_MD be_VB evolved_VBN based_VBN on_IN this_DT cost-matrix_JJ -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP ,_, 1999_CD -_: =--RRB-_NN ._.
+Our_PRP$ likelihood-based_JJ classifier_NN can_MD be_VB easily_RB biased_VBN to_TO develop_VB a_DT cost-sensitive_JJ learning_NN scheme_NN ._.
+The_DT rest_NN of_IN the_DT paper_NN is_VBZ organized_VBN as_IN follows_VBZ ._.
+Section_NN 3_CD describes_VBZ the_DT design_NN principles_NNS of_IN the_DT pro_NN

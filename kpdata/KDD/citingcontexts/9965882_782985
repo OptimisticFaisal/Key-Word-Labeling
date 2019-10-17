@@ -1,0 +1,4 @@
+ith_VB the_DT known_JJ problems_NNS of_IN deciding_VBG the_DT window-size_NN ,_, and_CC fading-factors_NNS ._.
+Both_DT methods_NNS have_VBP been_VBN used_VBN for_IN blind_JJ adaptation_NN ,_, e.g._FW without_IN explicit_JJ change_NN detection_NN ,_, of_IN decision_NN models_NNS in_IN drift_NN scenarios_NNS =_JJ -_: =[_NN 22_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT formula_NN for_IN using_VBG fading_JJ factors_NNS with_IN the_DT Qi_NN statistic_NN is_VBZ :_: Q_NNP α_FW i_FW -LRB-_-LRB- A_NN ,_, B_NN -RRB-_-RRB- =_JJ log_NN -LRB-_-LRB- Li_NNP -LRB-_-LRB- A_NNP -RRB-_-RRB- +_CC α_FW ×_FW SA_NNP i_FW −_FW 1_CD Li_NNP -LRB-_-LRB- B_NN -RRB-_-RRB- +_CC α_FW ×_FW SB_NN -RRB-_-RRB- ._.
+i_FW −_FW 1_CD It_PRP is_VBZ interesting_JJ to_TO observe_VB that_IN these_DT two_CD alternatives_NNS exhibit_VBP similar_JJ p_NN

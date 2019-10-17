@@ -1,0 +1,5 @@
+itive_JJ Tutors_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+In_IN addition_NN to_TO these_DT features_NNS ,_, skill_NN difficulty_NN related_JJ features_NNS were_VBD also_RB included_VBN to_TO increase_VB the_DT goodness_NN of_IN the_DT model_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Linear_JJ regression_NN was_VBD conducted_VBN within_IN Rapidminer_NN 4.6_CD =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: to_TO develop_VB models_NNS to_TO predict_VB P_NN -LRB-_-LRB- J_NN -RRB-_-RRB- ._.
+This_DT resulted_VBD in_IN a_DT set_NN of_IN numerical_JJ predictions_NNS of_IN P_NN -LRB-_-LRB- J_NN -RRB-_-RRB- ,_, moment-bymoment_JJ learning_NN ,_, for_IN each_DT problem-solving_JJ step_NN ._.
+The_DT cross-validated_JJ correlation_NN between_IN the_DT model_NN

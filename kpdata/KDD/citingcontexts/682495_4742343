@@ -1,0 +1,4 @@
+erEdge_NN 6600_CD server_NN with_IN Xeon_NN 2.8_CD ,_, 4G_NN memory_NN ._.
+The_DT algorithms_NNS are_VBP written_VBN in_IN C_NN +_CC +_CC and_CC compiled_VBN using_VBG g_NN +_CC +_CC with_IN -_: O3_NN optimization_NN ._.
+We_PRP compare_VBP three_CD algorithms_NNS :_: IncSpan_NNP ,_, an_DT incremental_JJ mining_NN algorithm_NN ISM_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC a_DT non-incremental_JJ algorithm_NN PrefixSpan_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Figure_NN 6_CD -LRB-_-LRB- a_DT -RRB-_-RRB- shows_VBZ the_DT running_VBG time_NN of_IN three_CD algorithms_NNS when_WRB min_NN sup_NN changes_NNS on_IN the_DT dataset_NN D10C10T2_NN .5_CD N10_NN ,_, 0.5_CD %_NN of_IN which_WDT has_VBZ been_VBN appended_VBN with_IN transac_NN

@@ -1,0 +1,4 @@
+em_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+In_IN order_NN to_TO create_VB consistency_NN across_IN similar_JJ fields_NNS and_CC improves_VBZ the_DT ability_NN to_TO correlate_VB across_IN multiple_JJ logs_NNS ,_, it_PRP is_VBZ necessary_JJ to_TO transform_VB the_DT messages_NNS in_IN the_DT log_NN files_VBZ into_IN a_DT common_JJ base_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- i.e._FW ,_, a_DT set_NN of_IN common_JJ categories_NNS -RRB-_-RRB- ._.
+In_IN this_DT paper_NN ,_, we_PRP first_RB manually_RB determine_VB a_DT set_NN of_IN categories_NNS as_IN the_DT basis_NN for_IN transformation_NN ._.
+The_DT set_NN of_IN categories_NNS is_VBZ based_VBN on_IN the_DT CBE_NNP -LRB-_-LRB- Common_NNP Base_NNP Event_NNP -RRB-_-RRB- forma_FW

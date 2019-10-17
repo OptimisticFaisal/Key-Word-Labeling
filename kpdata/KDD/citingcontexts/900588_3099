@@ -1,0 +1,4 @@
+in_IN various_JJ data_NNS mining_NN tasks_NNS ,_, such_JJ as_IN instance_NN selection_NN and_CC clustering_NN ._.
+A_DT formal_JJ description_NN of_IN the_DT visualization_NN problem_NN is_VBZ given_VBN in_IN Section_NN 2_CD ._.
+In_IN this_DT paper_NN we_PRP use_VBP probabilistic_JJ Bayesian_JJ networks_NNS =_JJ -_: =[_NN 16_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: as_IN the_DT formal_JJ model_NN family_NN required_VBN in_IN our_PRP$ Bayesian_JJ data_NNS reduction_NN framework_NN ._.
+Intuitively_RB speaking_VBG ,_, a_DT Bayesian_JJ -LRB-_-LRB- belief_NN -RRB-_-RRB- network_NN is_VBZ a_DT representation_NN of_IN a_DT probability_NN distribution_NN over_IN a_DT set_NN of_IN -LRB-_-LRB- usuall_NN

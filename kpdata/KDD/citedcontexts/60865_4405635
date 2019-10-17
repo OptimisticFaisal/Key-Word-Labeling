@@ -1,0 +1,4 @@
+uiowa.edu_NN 354_CD 1_CD ._.
+INTRODUCTION_NNP Learning_NNP ranking_NN -LRB-_-LRB- or_CC preference_NN -RRB-_-RRB- functions_NNS has_VBZ been_VBN a_DT major_JJ issue_NN in_IN the_DT machine_NN learning_NN community_NN -LRB-_-LRB- 9_CD ,_, 7_CD ,_, 8_CD -RRB-_-RRB- and_CC has_VBZ produced_VBN many_JJ applications_NNS in_IN information_NN retrieval_NN =_JJ -_: =[_NN 11_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Targetting_VBG information_NN retrieval_NN applications_NNS ,_, we_PRP distinguish_VBP the_DT task_NN of_IN learning_VBG ranking_JJ functions_NNS from_IN learning_VBG classification_NN functions_NNS as_IN follows_VBZ :_: 1_CD ._.
+Unlike_IN classification_NN functions_NNS ,_, which_WDT outp_VBP

@@ -1,0 +1,5 @@
+LSA_NN in_IN practice_NN in_IN section_NN 6_CD ,_, and_CC conclude_VBP on_IN our_PRP$ results_NNS in_IN section_NN 7_CD ._.
+2_CD ._.
+A_DT STANDARD_JJ APPROACH_NN TO_TO CLIR_NN A_DT standard_JJ approach_NN to_TO cross-language_JJ information_NN retrieval_NN uses_VBZ Latent_JJ Semantic_JJ Analysis_NN -LRB-_-LRB- LSA_NN -RRB-_-RRB- =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: in_IN conjunction_NN with_IN a_DT multilingual_JJ parallel_NN aligned_VBD training_NN corpus_NN ._.
+This_DT application_NN of_IN LSA_NNP to_TO multilingual_JJ data_NNS is_VBZ described_VBN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC used_VBN in_IN -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+A_DT term-by-document_JJ matrix_NN of_IN weighted_JJ frequenci_NNS

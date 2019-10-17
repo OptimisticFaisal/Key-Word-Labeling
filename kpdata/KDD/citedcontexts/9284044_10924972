@@ -1,0 +1,4 @@
+-RRB-_-RRB- transition_NN matrix_NN on_IN the_DT user_NN 's_POS last_JJ actions_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, one_CD of_IN the_DT most_RBS successful_JJ model_NN classes_NNS are_VBP factorization_NN methods_NNS -LRB-_-LRB- MF_NN -RRB-_-RRB- based_VBN on_IN matrix_NN or_CC tensor_NN decomposition_NN ._.
+The_DT best_JJS approaches_NNS =_JJ -_: =[_NN 3_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: for_IN the_DT 1M_NN $_$ Netflix_NNP challenge_NN 1_CD are_VBP based_VBN on_IN this_DT model_NN class_NN ._.
+Also_RB on_IN the_DT ECML\/PKDD_NN discovery_NN challenge_NN 2_CD for_IN tag_NN recommendation_NN ,_, a_DT factorization_NN model_NN based_VBN on_IN tensor_NN decomposition_NN has_VBZ outperformed_VBN

@@ -1,0 +1,4 @@
+of_IN the_DT differences_NNS between_IN the_DT two_CD vectors_NNS ,_, and_CC the_DT L_NN ∞_NN norm_NN measures_VBZ the_DT absolute_JJ value_NN of_IN the_DT largest_JJS difference_NN ._.
+Kendall_NNP 's_POS tau_NN metric_NN is_VBZ a_DT popular_JJ rank_NN correlation_NN measure_NN used_VBN to_TO compare_VB PageRanks_NN =_JJ -_: =[_NN 2_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT metric_NN can_MD be_VB computed_VBN by_IN counting_VBG the_DT number_NN of_IN pairs_NNS of_IN pairs_NNS that_WDT agree_VBP in_IN ranking_NN ,_, and_CC subtracting_VBG from_IN that_IN the_DT number_NN of_IN pairs_NNS of_IN pairs_NNS that_WDT disagree_VBP in_IN ranking_NN ._.
+The_DT final_JJ value_NN is_VBZ then_RB n_NN

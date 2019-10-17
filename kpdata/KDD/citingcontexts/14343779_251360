@@ -1,0 +1,4 @@
+oid_VBD the_DT possibility_NN that_IN adversaries_NNS may_MD exploit_VB alternate_JJ spellings_NNS or_CC typographical_JJ manipulation_NN to_TO avoid_VB detection_NN ._.
+We_PRP incorporate_VBP features_NNS that_WDT allow_VBP inexact_JJ string_NN matching_NN ,_, similar_JJ in_IN spirit_NN to_TO =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+•_NNP Structural_NNP features_NNS are_VBP extracted_VBN from_IN the_DT structural_JJ layout_NN of_IN the_DT landing_NN page_NN ._.
+•_CD Page-type_JJ features_NNS are_VBP given_VBN by_IN sub-classifiers_NNS that_WDT determine_VBP the_DT general_JJ landing_NN page_NN type_NN ,_, such_JJ as_IN a_DT blog_NN pos_NN

@@ -1,0 +1,3 @@
+nce_NN of_IN the_DT communities_NNS and_CC the_DT relative_JJ weight_NN of_IN inter-community_JJ edges_NNS ._.
+Flake_NNP ,_, Tarjan_NNP ,_, and_CC Tsioutsiouliklis_NNP -LRB-_-LRB- 68_CD -RRB-_-RRB- introduce_VB a_DT similar_JJ bicriterion_NN that_WDT is_VBZ based_VBN on_IN network_NN flow_NN ideas_NNS ,_, and_CC Flake_NNP et_FW al._FW =_SYM -_: =[_NN 66_CD ,_, 67_CD -RRB-_-RRB- -_: =_SYM -_: defined_VBN a_DT community_NN as_IN a_DT set_NN of_IN nodes_NNS that_WDT has_VBZ more_JJR intra-edges_NNS than_IN inter-edges_NNS ._.
+Similar_JJ edge-counting_JJ ideas_NNS were_VBD used_VBN by_IN Radicchi_NNP et_FW al._FW -LRB-_-LRB- 133_CD -RRB-_-RRB- to_TO define_VB and_CC apply_VB the_DT notions_NNS of_IN a_DT strong_JJ community_NN

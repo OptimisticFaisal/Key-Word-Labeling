@@ -1,0 +1,5 @@
+m_NN ``_`` Add_VB or_CC Delete_VB ''_'' -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+The_DT Signature_NNP and_CC the_DT ReplyTo_NN datasets_NNS are_VBP related_JJ to_TO the_DT tasks_NNS of_IN detecting_VBG signature_NN lines_NNS and_CC ``_`` reply-to_JJ ''_'' lines_NNS in_IN email_NN messages_NNS ,_, respectively_RB ,_, using_VBG a_DT basic_JJ set_NN of_IN features_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Both_DT datasets_NNS have_VBP 37_CD features_NNS and_CC 33013_CD examples_NNS ._.
+The_DT next_JJ datasets_NNS were_VBD obtained_VBN from_IN the_DT UCI_NNP data_NN repository_NN ._.
+The_DT Adult_JJ dataset_NN originally_RB had_VBD 14_CD attributes_NNS and_CC ,_, using_VBG only_RB the_DT training_NN partition_NN

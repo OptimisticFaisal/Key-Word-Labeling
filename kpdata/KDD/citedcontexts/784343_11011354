@@ -1,0 +1,6 @@
+:_: \/_: \/_: www.facebook.com\/10_NNP Fig._NNP 3_CD ._.
+Comparison_NN of_IN running_VBG time_NN ._.
+Source_NN :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+4.2.3_CD Compression_NN performance_NN comparison_NN Finally_RB ,_, we_PRP see_VBP the_DT MDL_NNP model_NN compression_NN performance_NN compared_VBN with_IN REF_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC GRAC_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: on_IN the_DT four_CD datasets_NNS in_IN Figure_NNP 4_CD ._.
+REF_NNP is_VBZ a_DT popular_JJ technique_NN for_IN web_NN graph_NN compression_NN ,_, and_CC GRAC_NNP is_VBZ a_DT graph_NN clustering_NN algorithm_NN ._.
+In_IN Figure_NNP 4_CD ,_, the_DT value_NN of_IN the_DT yaxis_NN is_VBZ the_DT cost_NN of_IN the_DT compressed_VBN rep_NN

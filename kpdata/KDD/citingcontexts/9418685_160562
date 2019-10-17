@@ -1,0 +1,5 @@
+he_PRP Nyström_NNP method_NN has_VBZ been_VBN proposed_VBN in_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- to_TO approximate_JJ the_DT kernel_NN matrix_NN used_VBN for_IN Gaussian_NNP Process_VB classification_NN ._.
+Low-rank_JJ approximation_NN has_VBZ been_VBN exploited_VBN to_TO speed_VB up_RP the_DT training_NN of_IN kernel_NN SVMs_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT greedy_JJ basis-pursuit-style_JJ algorithm_NN is_VBZ also_RB proposed_VBN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- to_TO build_VB sparse_JJ kernel_NN SVMs_NNS to_TO speed_VB up_RP both_CC training_NN and_CC classification_NN ._.
+4_LS ._.
+THE_DT CUT_NNP SUBSAMPLING_NNP ALGORITHMS_NNPS Our_PRP$ main_JJ idea_NN is_VBZ to_TO speed_VB u_NN

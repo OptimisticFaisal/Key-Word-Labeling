@@ -1,0 +1,3 @@
+work_NN on_IN distance-based_JJ semi-supervised_JJ clustering_NN with_IN pairwise_JJ constraints_NNS ,_, Cohn_NNP et_FW al._FW -LRB-_-LRB- 13_CD -RRB-_-RRB- used_VBD gradient_NN descent_NN for_IN weighted_JJ Jensen-Shannon_NNP divergence_NN in_IN the_DT context_NN of_IN EM_NN clustering_NN ._.
+Xing_NNP et_FW al._FW =_SYM -_: =[_NN 39_CD -RRB-_-RRB- -_: =_SYM -_: utilized_VBD a_DT combination_NN of_IN gradient_NN descent_NN and_CC iterative_JJ projections_NNS to_TO learn_VB a_DT Mahalanobis_NNP distance_NN for_IN K-Means_NN clustering_NN ._.
+The_DT Redundant_JJ Component_NN Analysis_NN -LRB-_-LRB- RCA_NN -RRB-_-RRB- algorithm_NN used_VBD only_RB must-link_JJ const_NN

@@ -1,0 +1,4 @@
+ssociations_NNS inherent_JJ in_IN semistructured_JJ objects_NNS was_VBD given_VBN in_IN -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- improved_VBD the_DT previous_JJ work_NN by_IN introducing_VBG a_DT new_JJ representation_NN of_IN semi-structured_JJ objects_NNS and_CC a_DT more_RBR powerful_JJ wildcard_JJ mechanism_NN ._.
+=_SYM -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: adopted_VBD a_DT new_JJ data_NN structure_NN called_VBD scope-list_JJ for_IN efficiently_RB mining_VBG all_DT frequent_JJ subtrees_NNS in_IN a_DT forest_NN ._.
+-LRB-_-LRB- 24_CD -RRB-_-RRB- proposed_VBD a_DT PathJoin_NNP algorithm_NN to_TO uncover_VB maximal_JJ frequent_JJ subtrees_NNS from_IN a_DT database_NN of_IN uno_NN

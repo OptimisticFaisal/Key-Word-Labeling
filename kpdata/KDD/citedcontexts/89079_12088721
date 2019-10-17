@@ -1,0 +1,5 @@
+be_VB proved_VBN for_IN SAX_NN -LRB-_-LRB- 91_CD -RRB-_-RRB- ._.
+Keogh_NNP derives_VBZ a_DT similarity_NN measure_NN between_IN two_CD subsequences_NNS in_IN the_DT symbol_NN domain_NN by_IN calculating_VBG the_DT Euclidean_JJ distance_NN between_IN the_DT boundary_NN values_NNS associated_VBN with_IN each_DT symbol_NN =_JJ -_: =[_NN 34_CD ,_, 104_CD -RRB-_-RRB- -_: =_JJ -.2.3_CD ._.
+Motif_NN Detection_NN 42_CD Other_JJ representation_NN techniques_NNS The_DT PAA_NN can_MD only_RB analyze_VB subsequences_NNS of_IN a_DT fixed_VBN known_JJ length_NN ._.
+This_DT is_VBZ acceptable_JJ if_IN the_DT query_NN sequence_NN to_TO be_VB matched_VBN is_VBZ of_IN a_DT known_JJ length_NN ._.
+Ho_NNP

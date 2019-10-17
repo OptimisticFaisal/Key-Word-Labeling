@@ -1,0 +1,5 @@
+Server_NN ._.
+Due_JJ to_TO the_DT space_NN constraints_NNS ,_, we_PRP consider_VBP only_RB restricted_JJ vertical_JJ split_NN ._.
+Complete_JJ treatment_NN of_IN all_DT data_NNS sharing_VBG models_NNS along_IN with_IN corresponding_JJ security_NN proofs_NNS are_VBP given_VBN in_IN the_DT full_JJ version_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Next_RB ,_, we_PRP introduce_VBP the_DT formal_JJ security_NN model_NN and_CC three_CD basic_JJ cryptographic_JJ techniques_NNS :_: homomorphic_JJ encryption_NN ,_, secret_JJ sharing_NN and_CC secure_JJ circuit_NN evaluation_NN ._.
+Since_IN all_PDT these_DT techniques_NNS can_MD natively_RB h_NN

@@ -1,0 +1,6 @@
+nd_NN locations_NNS -RRB-_-RRB- are_VBP disambiguated_VBN ._.
+The_DT goal_NN is_VBZ to_TO emulate_VB Wikipedia_NNP 's_POS restrained_JJ ,_, informative_JJ ,_, editorial_JJ links_NNS on_IN ordinary_JJ Web_NN pages_NNS ._.
+SemTag_NNP ._.
+The_DT first_JJ Web-scale_JJ entity_NN disambiguation_NN system_NN was_VBD SemTag_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+SemTag_NNP annotated_JJ about_IN 250_CD million_CD Web_NN pages_NNS with_IN IDs_NNS from_IN the_DT Stanford_NNP TAP_NN entity_NN catalog_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+The_DT basic_JJ technique_NN was_VBD to_TO compare_VB the_DT surrounding_JJ context_NN of_IN a_DT spot_NN s_NN with_IN text_NN metadata_NN associated_JJ w_NN

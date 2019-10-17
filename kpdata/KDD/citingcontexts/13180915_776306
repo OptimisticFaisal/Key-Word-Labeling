@@ -1,0 +1,7 @@
+on_IN a_DT turntable_NN and_CC each_DT objects_NNS has_VBZ 72_CD images_NNS ._.
+The_DT size_NN of_IN each_DT image_NN is_VBZ 32_CD ×_CD 32_CD pixels_NNS ,_, with_IN 256_CD gray_JJ levels_NNS per_IN pixel_NN ._.
+•_FW ThefourthoneisIsoletspokenletterrecognitiondata_FW 4_CD ._.
+Thisdatasetwasfirstusedin_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Itcontains150subjects_NNS who_WP spoke_VBD the_DT name_NN of_IN each_DT letter_NN of_IN the_DT alphabet_NN twice_RB ._.
+The_DT speakers_NNS are_VBP grouped_VBN into_IN sets_NNS of_IN 30_CD speakers_NNS each_DT ,_, and_CC are_VBP referred_VBN to_TO as_IN isolet1_NN through_IN isolet5_NN ._.
+In_IN our_PRP$ experime_NN

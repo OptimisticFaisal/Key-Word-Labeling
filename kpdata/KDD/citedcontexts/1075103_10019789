@@ -1,0 +1,5 @@
+twork_NN entities_NNS is_VBZ an_DT important_JJ topic_NN in_IN link_NN mining_NN ._.
+Given_VBN a_DT network_NN among_IN entities_NNS ,_, the_DT goal_NN is_VBZ to_TO find_VB a_DT good_JJ ranking_NN function_NN to_TO calculate_VB the_DT ranking_NN of_IN each_DT entity_NN using_VBG the_DT relational_JJ structure_NN =_JJ -_: =[_NN 1_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Copyright_NN is_VBZ held_VBN by_IN the_DT author\/owner_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- ._.
+WWW2008_NN ,_, April_NNP 21_CD --_: 25_CD ,_, 2008_CD ,_, Beijing_NNP ,_, China_NNP ._. ._.
+Considering_VBG those_DT two_CD directions_NNS of_IN recent_JJ studies_NNS --_: relation_NN extraction_NN from_IN the_DT web_NN and_CC ranking_NN learning_NN --_: the_DT

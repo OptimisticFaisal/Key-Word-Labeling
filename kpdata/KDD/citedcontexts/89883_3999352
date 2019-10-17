@@ -1,0 +1,3 @@
+application_NN has_VBZ been_VBN restricted_VBN to_TO finding_VBG relatively_RB small_JJ fragments_NNS in_IN relatively_RB small_JJ databases_NNS ._.
+Recently_RB proposed_VBN approaches_NNS to_TO mining_NN frequent_JJ fragments_NNS in_IN graphs_NNS such_JJ as_IN gSpan_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, CloseGraph_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, FSG_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, and_CC AGM_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- are_VBP able_JJ to_TO mine_VB complex_JJ subgraphs_NNS more_RBR efficiently_RB ._.
+However_RB ,_, the_DT key_JJ difficulty_NN with_IN the_DT application_NN of_IN these_DT techniques_NNS is_VBZ --_: as_IN for_IN other_JJ frequent_JJ pattern_NN mining_NN approaches_NNS --_:

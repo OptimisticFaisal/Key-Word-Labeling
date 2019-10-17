@@ -1,0 +1,4 @@
+ng_NN which_WDT often_RB appear_VBP in_IN trajectory_JJ data_NNS ._.
+Little_JJ and_CC Gu_NN -LRB-_-LRB- 66_CD -RRB-_-RRB- use_NN path_NN and_CC speed_NN curves_NNS to_TO represent_VB the_DT motion_NN trajectories_NNS and_CC measure_VB the_DT distance_NN between_IN two_CD trajectories_NNS using_VBG DTW_NN ._.
+Vlachos_NNP et_FW al._FW =_SYM -_: =[_NN 106_CD -RRB-_-RRB- -_: =_SYM -_: also_RB use_VBP DTW_NN on_IN rotation_NN invariant_JJ representation_NN of_IN trajectories_NNS ,_, sequences_NNS of_IN angle_NN and_CC arc-length_JJ pairs_NNS ._.
+However_RB ,_, DTW_NN requires_VBZ continuity_NN along_IN the_DT warping_NN path_NN ,_, which_WDT makes_VBZ it_PRP also_RB sensitive_JJ to_TO n_NN

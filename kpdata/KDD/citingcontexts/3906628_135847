@@ -1,0 +1,5 @@
+ring_NN ._.
+However_RB ,_, we_PRP focus_VBP on_IN linear_JJ correlations_NNS between_IN features_NNS ._.
+Thus_RB ,_, the_DT non-linear_JJ correlations_NNS uncovered_VBN by_IN CURLER_NN are_VBP orthogonal_JJ to_TO our_PRP$ approach_NN ._.
+Recently_RB ,_, several_JJ subspace_NN clustering_NN algorithms_VBZ =_JJ -_: =[_NN 4_CD ,_, 2_CD ,_, 14_CD ,_, 17_CD ,_, 5_CD -RRB-_-RRB- -_: =_JJ -_: were_VBD proposed_VBN to_TO find_VB clusters_NNS in_IN axis-parallel_JJ projections_NNS of_IN the_DT data_NNS space_NN ._.
+These_DT algorithms_NNS are_VBP not_RB able_JJ to_TO capture_VB local_JJ data_NNS correlations_NNS and_CC find_VB clusters_NNS of_IN correlated_JJ objects_NNS since_IN the_DT princ_NN

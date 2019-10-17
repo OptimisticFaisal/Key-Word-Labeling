@@ -1,0 +1,3 @@
+s_NN and_CC assess_VB if_IN there_EX is_VBZ a_DT semantic_JJ overlap_VB between_IN the_DT two_CD independent_JJ classification_NN systems_NNS ._.
+We_PRP have_VBP modified_VBN previously_RB reported_VBN cross-training_NN algorithm_NN by_IN introducing_VBG a_DT hierarchy_NN based_JJ approach_NN =_JJ -_: =[_NN 38_CD -RRB-_-RRB- -_: =_SYM -_: to_TO apply_VB to_TO biological_JJ databases_NNS ._.
+The_DT method_NN involves_VBZ simultaneous_JJ training_NN of_IN two_CD different_JJ sets_NNS of_IN classification_NN schemes_NNS using_VBG a_DT classifier_NN iteratively_RB ,_, till_IN semantic_JJ overlaps_VBZ can_MD not_RB be_VB utilized_VBN f_SYM

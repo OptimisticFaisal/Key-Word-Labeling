@@ -1,0 +1,4 @@
+further_JJ explanation_NN :_: in_IN order_NN to_TO cluster_VB the_DT set_NN of_IN Fdi_NN values_NNS ,_, we_PRP can_MD use_VB any_DT known_JJ algorithm_NN ._.
+For_IN instance_NN ,_, we_PRP could_MD feed_VB the_DT fractal_JJ dimension_NN values_NNS Fdi_NNP ,_, and_CC a_DT value_NN k_NN to_TO a_DT K-means_JJ implementation_NN =_JJ -_: =[_NN 23_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Alternatively_RB ,_, we_PRP can_MD let_VB a_DT hierarchical_JJ clustering_NN algorithm_NN -LRB-_-LRB- e.g._FW ,_, CURE_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- -RRB-_-RRB- cluster_VBP the_DT sequence_NN of_IN Fdi_NN values_NNS ._.
+Although_IN ,_, in_IN principle_NN ,_, any_DT of_IN the_DT dimensions_NNS in_IN the_DT family_NN described_VBN by_IN Equation_NN

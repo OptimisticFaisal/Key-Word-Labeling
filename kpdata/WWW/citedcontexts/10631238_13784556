@@ -1,0 +1,4 @@
+ns_NNS of_IN web_NN pages_NNS today_NN contain_VBP malicious_JJ JavaScript_NNP that_WDT attempts_VBZ to_TO take_VB over_RP a_DT victim_NN 's_POS web_NN browser_NN ._.
+An_DT active_JJ research_NN literature_NN has_VBZ proposed_VBN static_JJ and_CC dynamic_JJ methods_NNS for_IN detecting_VBG these_DT attacks_NNS =_JJ -_: =[_NN 40_CD ,_, 13_CD ,_, 11_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT key_JJ finding_NN of_IN this_DT work_NN is_VBZ that_IN malware_NN authors_NNS use_VBP fingerprinting_VBG techniques_NNS -LRB-_-LRB- 35_CD ,_, 16_CD -RRB-_-RRB- to_TO decide_VB which_WDT malware_NN to_TO deliver_VB to_TO the_DT victim_NN user_NN ._.
+Figure_NN 9_CD shows_VBZ an_DT example_NN of_IN client-side_JJ browser_NN fin1_NN

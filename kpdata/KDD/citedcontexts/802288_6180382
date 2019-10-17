@@ -1,0 +1,3 @@
+to_TO demonstrate_VB that_IN this_DT meaninglessness_NN is_VBZ a_DT product_NN of_IN the_DT way_NN the_DT data_NN is_VBZ obtained_VBN by_IN sliding_VBG windows_NNS ,_, and_CC not_RB some_DT quirk_NN of_IN the_DT clustering_NN algorithm_NN ,_, we_PRP will_MD also_RB do_VB whole_JJ clustering_NN as_IN a_DT control_NN =_JJ -_: =[_NN 12_CD ,_, 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3.1_CD K-means_NNS Clustering_VBG Because_IN k-means_NN is_VBZ a_DT heuristic_NN ,_, hill-climbing_JJ algorithm_NN ,_, the_DT cluster_NN centers_NNS found_VBN may_MD not_RB be_VB optimal_JJ -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+That_DT is_VBZ ,_, the_DT algorithm_NN is_VBZ guaranteed_VBN to_TO converge_VB on_IN a_DT local_JJ ,_, but_CC no_DT

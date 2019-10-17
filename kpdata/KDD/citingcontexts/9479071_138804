@@ -1,0 +1,4 @@
+it_PRP means_VBZ that_IN it_PRP is_VBZ robust_JJ to_TO the_DT initial_JJ labeled_JJ state_NN as_IN it_PRP ignores_VBZ any_DT initially_RB known_VBN labels_NNS ._.
+4.3.2_CD Closeness_NN Centrality_NN Graph_NN closeness_NN centrality_NN is_VBZ one_CD other_JJ very_RB popular_JJ measure_NN of_IN centrality_NN =_JJ -_: =[_NN 2_CD ,_, 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP measures_VBZ how_WRB close_JJ a_DT node_NN is_VBZ to_TO all_DT other_JJ nodes_NNS in_IN the_DT network_NN as_IN defined_VBN by_IN the_DT shortest_JJS path_NN from_IN the_DT source_NN node_NN to_TO the_DT destination_NN node_NN ._.
+As_IN with_IN betweenness_NN ,_, this_DT metric_NN inherently_RB handles_VBZ we_PRP

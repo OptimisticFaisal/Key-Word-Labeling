@@ -1,0 +1,4 @@
+to_TO group_VB i_LS -RRB-_-RRB- ._.
+The_DT single-model_JJ approaches_NNS in_IN group_NN i_LS -RRB-_-RRB- apply_VB incremental_JJ learning_NN and_CC adapt_VB themselves_PRP to_TO the_DT most_RBS recent_JJ concept_NN by_IN continuously_RB updating_VBG the_DT current_JJ model_NN to_TO accommodate_VB concept_NN drift_NN =_JJ -_: =[_NN 1_CD ,_, 3_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Ensemble_NN techniques_NNS -LRB-_-LRB- 2_CD ,_, 5_CD -RRB-_-RRB- maintain_VBP an_DT ensemble_NN of_IN models_NNS ,_, and_CC use_VB ensemble_NN voting_NN to_TO classify_VB unlabeled_JJ instances_NNS ._.
+These_DT techniques_NNS address_VBP the_DT infinite_JJ length_NN problem_NN by_IN keeping_VBG a_DT fixed-size_JJ ensem_NN

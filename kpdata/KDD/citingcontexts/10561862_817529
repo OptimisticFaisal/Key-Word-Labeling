@@ -1,0 +1,4 @@
+inimally_RB for_IN program_NN diagnosis_NN ._.
+For_IN instance_NN ,_, program_NN behavior_NN graphs_NNS have_VBP been_VBN mined_VBN for_IN frequent_JJ closed_JJ subgraphs_NNS that_WDT become_VBP features_NNS in_IN a_DT classifier_NN to_TO predict_VB the_DT existence_NN of_IN ``_`` noncrashing_JJ ''_'' bugs_NNS =_SYM -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Behavior_NN graphs_NNS were_VBD also_RB mined_VBN with_IN the_DT LEAP_NN algorithm_NN -LRB-_-LRB- 34_CD -RRB-_-RRB- in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- to_TO identify_VB discriminative_JJ subgraphs_NNS signifying_VBG bug_NN signatures_NNS ._.
+However_RB ,_, to_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ,_, nobody_NN has_VBZ investigated_VBN the_DT

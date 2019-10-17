@@ -1,0 +1,5 @@
+like_IN result_NN merging_JJ and_CC database_NN content_NN discovery_NN ._.
+-LRB-_-LRB- 14_CD -RRB-_-RRB- presents_VBZ a_DT formal_JJ decision_NN model_NN for_IN database_NN selection_NN in_IN networked_JJ IR_NN ._.
+-LRB-_-LRB- 23_CD -RRB-_-RRB- investigates_VBZ different_JJ quality_NN measures_NNS for_IN database_NN selection_NN ._.
+=_SYM -_: =[_NN 15,21_CD -RRB-_-RRB- -_: =_JJ -_: study_NN scalability_NN issues_NNS for_IN a_DT distributed_VBN term_NN index_NN ._.
+GlOSS_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC CORI_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- are_VBP the_DT most_RBS prominent_JJ distributed_VBN IR_NN systems_NNS ,_, but_CC neither_DT of_IN them_PRP aimed_VBN at_IN very-large-scale_NN ,_, highly_RB dynamic_JJ ,_, self-organ_JJ

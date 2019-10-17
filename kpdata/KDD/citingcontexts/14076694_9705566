@@ -1,0 +1,5 @@
+nsor\/camera_NN -LRB-_-LRB- source_NN -RRB-_-RRB- ._.
+All_DT of_IN the_DT components_NNS of_IN the_DT tuple_NN are_VBP assumed_VBN to_TO be_VB certain_JJ ,_, or_CC completely_RB determined_VBN ._.
+However_RB ,_, itisrecognizedthatdataobtainedfromawiderangeofdatasources_NNS is_VBZ inherently_RB uncertain_JJ =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT paper_NN is_VBZ concerned_VBN with_IN SPM_NN in_IN probabilistic_JJ databases_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, a_DT popular_JJ framework_NN for_IN modelling_NN uncertainty_NN ._.
+Recently_RB several_JJ data_NNS mining_NN and_CC ranking_NN problems_NNS have_VBP been_VBN studied_VBN in_IN this_DT framework_NN

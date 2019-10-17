@@ -1,0 +1,5 @@
+rogramming_VBG ._.
+In_IN other_JJ soccer_NN systems_NNS ,_, there_EX have_VBP been_VBN a_DT number_NN of_IN learning_VBG techniques_NNS that_WDT have_VBP been_VBN explored_VBN ._.
+However_RB ,_, most_JJS have_VBP learned_VBN low-level_JJ ,_, individual_JJ skills_NNS as_IN opposed_VBN to_TO team-based_JJ policies_NNS =_JJ -_: =[_NN 1_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Interestingly_RB ,_, -LRB-_-LRB- 6_CD -RRB-_-RRB- uses_VBZ genetic_JJ programming_NN to_TO evolve_VB team_NN behaviors_NNS from_IN scratch_NN as_IN opposed_VBN to_TO our_PRP$ layered_JJ learning_NN approach_NN ._.
+TPOT-RL_NN is_VBZ an_DT adaptation_NN of_IN RL_NN to_TO non-Markovian_JJ multi-agent_JJ domains_NNS wit_NN

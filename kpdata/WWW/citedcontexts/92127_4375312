@@ -1,0 +1,3 @@
+s_NN and_CC thus_RB can_MD not_RB be_VB used_VBN as_IN a_DT run-time_JJ system_NN for_IN ontology-based_JJ applications_NNS based_VBN on_IN the_DT query-answer_JJ paradigm_NN Frame-logic_JJ based_VBN languages_NNS ,_, on_IN the_DT other_JJ hand_NN ,_, also_RB provide_VBP support_NN for_IN subsumption_NN ._.
+=_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: effectively_RB reducing_VBG subsumption_NN reasoning_NN to_TO query_VB answering_VBG ,_, but_CC DLs_NNS remain_VBP in_IN general_JJ more_RBR efficient_JJ -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+The_DT strength_NN of_IN F-logic_JJ languages_NNS comes_VBZ from_IN the_DT fact_NN that_IN there_EX are_VBP well-optimised_JJ implem_NN

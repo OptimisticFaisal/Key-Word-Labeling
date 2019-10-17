@@ -1,0 +1,4 @@
+l_NN geometry_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- do_VBP not_RB scale_VB well_RB as_IN the_DT number_NN of_IN dimensions_NNS increase_NN ._.
+To_TO overcome_VB these_DT limitations_NNS ,_, researchers_NNS have_VBP turned_VBN to_TO various_JJ non-parametric_JJ approaches_NNS including_VBG distance-based_JJ approaches_NNS =_JJ -_: =[_NN 2_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, clustering-based_JJ approaches_NNS -LRB-_-LRB- 7_CD ,_, 21_CD -RRB-_-RRB- ,_, and_CC density-based_JJ approaches_NNS -LRB-_-LRB- 4_CD ,_, 20_CD -RRB-_-RRB- ._.
+Here_RB we_PRP consider_VBP these_DT methods_NNS in_IN more_JJR detail_NN ._.
+An_DT approach_NN for_IN discovering_VBG outliers_NNS using_VBG distance_NN metrics_NNS was_VBD first_RB presen_JJ

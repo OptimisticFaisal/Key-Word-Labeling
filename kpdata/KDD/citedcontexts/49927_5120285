@@ -1,0 +1,6 @@
+ognized_VBN that_IN the_DT space_NN requirements_NNS of_IN data_NNS cubes_NNS in_IN practice_NN are_VBP often_RB huge_JJ ._.
+Some_DT studies_NNS investigate_VBP partial_JJ materialization_NN of_IN data_NNS cubes_NNS -LRB-_-LRB- 6_CD ,_, 20_CD ,_, 22_CD -RRB-_-RRB- ._.
+Methods_NNS to_TO compress_VB data_NNS cubes_NNS are_VBP studied_VBN in_IN =_JJ -_: =[_NN 25_CD ,_, 26_CD ,_, 37_CD ,_, 38_CD ,_, 42_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Moreover_RB -LRB-_-LRB- 4_CD ,_, 5_CD ,_, 41_CD -RRB-_-RRB- investigate_VBP various_JJ approximation_NN methods_NNS for_IN data_NNS cubes_NNS ._.
+How_WRB to_TO implement_VB and_CC index_NN data_NNS cubes_NNS efficiently_RB is_VBZ a_DT critical_JJ problem_NN ._.
+In_IN -LRB-_-LRB- 35_CD ,_, 38_CD -RRB-_-RRB- ,_, Cubetree_NN and_CC Dwarf_NN are_VBP proposed_VBN by_IN

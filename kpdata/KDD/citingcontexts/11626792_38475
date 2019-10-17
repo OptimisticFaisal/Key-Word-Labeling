@@ -1,0 +1,4 @@
+sest_NN pair_NN problem_NN these_DT are_VBP currently_RB the_DT best_JJS two_CD choices_NNS ._.
+Our_PRP$ algorithm_NN falls_VBZ in_IN the_DT first_JJ category_NN and_CC utilizes_VBZ the_DT temporal_JJ ordering_VBG of_IN updates_NNS to_TO have_VB an_DT amortized_VBN O_NN -LRB-_-LRB- w_NN 3\/2_CD -RRB-_-RRB- space_NN complexity_NN ._.
+In_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, statistics_NNS such_JJ as_IN average_NN ,_, sum_NN ,_, minimum_NN ,_, maximum_NN ,_, etc._NN are_VBP maintained_VBN over_IN a_DT sliding_VBG window_NN ._.
+Their_PRP$ objective_NN is_VBZ to_TO approximate_JJ these_DT statistics_NNS in_IN bounded_JJ space_NN and_CC time_NN ,_, whereas_IN we_PRP are_VBP dealing_VBG wit_NN

@@ -1,0 +1,6 @@
+on_IN ._.
+We_PRP use_VBP ROC_NN curves_NNS for_IN studying_VBG the_DT trend_NN in_IN percentage_NN of_IN attacks_NNS detected_VBN at_IN different_JJ false_JJ alarm_NN rates_NNS ._.
+We_PRP also_RB list_VBP the_DT areas_NNS under_IN the_DT ROC_NNP curve_NN ,_, where_WRB higher_JJR area_NN implies_VBZ better_JJR performance_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT area_NN under_IN the_DT curve_NN is_VBZ normalized_VBN for_IN the_DT false_JJ alarm_NN rate_NN ._.
+Since_IN the_DT drawback_NN of_IN anomaly_JJ detection_NN is_VBZ the_DT generation_NN of_IN false_JJ alarms_NNS ,_, we_PRP focus_VBP on_IN small_JJ false_JJ alarm_NN rates_NNS -LRB-_-LRB- up_RB to_TO 1_CD %_NN -RRB-_-RRB- ._.
+Storage_NNP an_DT

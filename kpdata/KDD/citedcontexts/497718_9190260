@@ -1,0 +1,3 @@
+e_LS the_DT previous_JJ work_NN in_IN similarity_NN measures_NNS into_IN two_CD broad_JJ classes_NNS :_: basic_JJ measures_NNS inspired_VBN by_IN traditional_JJ IR_NN metrics_NNS ,_, such_JJ as_IN the_DT cosine_NN metric_NN -LRB-_-LRB- 3,4_CD ,_, 11_CD -RRB-_-RRB- ,_, and_CC graph_NN theoretic_JJ measures_NNS ,_, such_JJ as_IN SimRank_NN =_JJ -_: =[_NN 8,12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+While_IN the_DT second_JJ class_NN typically_RB provides_VBZ a_DT better_JJR quality_NN measure_NN ,_, the_DT computational_JJ efficiency_NN of_IN these_DT methods_NNS is_VBZ not_RB high_JJ enough_RB to_TO be_VB used_VBN in_IN practical_JJ data_NNS intensive_JJ applications_NNS ._.
+Therefore_RB ,_, i_FW

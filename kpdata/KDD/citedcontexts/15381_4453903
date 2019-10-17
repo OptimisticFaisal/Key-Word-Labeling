@@ -1,0 +1,4 @@
+chniques_NNS may_MD be_VB viewed_VBN in_IN terms_NNS of_IN DMLN_NN learning_NN ._.
+In_IN recent_JJ years_NNS ,_, much_JJ research_NN has_VBZ focused_VBN on_IN combining_VBG uncertainty_NN with_IN firstorder_NN logic_NN -LRB-_-LRB- or_CC some_DT subset_NN of_IN it_PRP -RRB-_-RRB- -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Relational_NNP Markov_NNP models_NNS -LRB-_-LRB- RMMs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: and_CC logicalshidden_JJ Markov_NNP models_NNS -LRB-_-LRB- LOHMMs_NNS -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- can_MD be_VB viewed_VBN as_IN special_JJ cases_NNS of_IN DMLNs_NNS ._.
+Dynamic_NNP object-oriented_JJ Bayesian_JJ networks_NNS -LRB-_-LRB- DOOBNs_NNS -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- combine_VBP DBNs_NNS with_IN OOBNs_NNS ,_, but_CC no_DT learning_VBG algorithms_NNS for_IN t_NN

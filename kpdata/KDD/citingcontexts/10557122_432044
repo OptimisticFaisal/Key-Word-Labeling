@@ -1,0 +1,4 @@
+in_IN rank-order_JJ datasets_NNS ._.
+In_IN biomedical_JJ instrumentation_NN ,_, the_DT desire_NN is_VBZ to_TO select_VB a_DT subset_NN of_IN electrodes_NNS from_IN an_DT EEG_NN dataset_NN and_CC use_NN profiles_NNS of_IN relative_JJ signal_NN strength_NN as_IN indicators_NNS of_IN patient_NN health_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB the_DT instances_NNS are_VBP the_DT patients_NNS ,_, the_DT classes_NNS are_VBP the_DT diagnoses_NNS ,_, and_CC the_DT features_NNS denote_VBP signal_NN strength_NN as_IN measured_VBN using_VBG different_JJ electrodes_NNS ._.
+In_IN large-scale_JJ gene_NN expression_NN -LRB-_-LRB- microarray_NN -RRB-_-RRB- assays_NNS

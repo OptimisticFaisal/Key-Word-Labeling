@@ -1,0 +1,4 @@
+general_JJ ,_, we_PRP seek_VBP a_DT labeling_NN of_IN the_DT objects_NNS ,_, Z_NN =_JJ -LCB-_-LRB- z1_NN ,_, ..._: ,_, zM_NN -RCB-_-RRB- ,_, to_TO maximize_VB the_DT posterior_JJ probability_NN -LRB-_-LRB- MAP_NN -RRB-_-RRB- :_: ˆZ_NN =_JJ arg_FW max_FW P_NN -LRB-_-LRB- X_NN =_JJ S_NN |_NN Z_NN -RRB-_-RRB- P_NN -LRB-_-LRB- Z_NN -RRB-_-RRB- ._.
+Z_NN We_PRP use_VBP the_DT Iterated_JJ Conditional_JJ Modes_NNS -LRB-_-LRB- ICM_NNP -RRB-_-RRB- algorithm_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: to_TO solve_VB this_DT MAP_NN estimation_NN problem_NN ._.
+It_PRP adopts_VBZ a_DT greedy_JJ strategy_NN by_IN calculating_VBG local_JJ minimization_NN iteratively_RB and_CC the_DT convergence_NN is_VBZ guaranteed_VBN after_IN a_DT few_JJ iterations_NNS ._.
+The_DT basic_JJ idea_NN is_VBZ to_TO sequenti_NN

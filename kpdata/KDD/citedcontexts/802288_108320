@@ -1,0 +1,5 @@
+ach_NN series_NN ,_, then_RB uses_VBZ the_DT log-likelihood_NN as_IN a_DT distance_NN for_IN a_DT hierarchical_JJ furthest_JJ neighbor_NN technique_NN ._.
+Parameters_NNS for_IN a_DT given_VBN model_NN structure_NN are_VBP estimated_VBN with_IN the_DT Baum-Welch_NNP procedure_NN ._.
+Oates_NNP et_NNP al_NNP =_JJ -_: =[_NN 40_CD ,_, 39_CD ,_, 42_CD ,_, 41_CD -RRB-_-RRB- -_: =_JJ -_: fit_JJ k_NN HMMs_NNS using_VBG the_DT Viterbi_NNP algorithm_NN to_TO train_VB HMM_NNP on_IN greedily_RB selected_VBN subsets_NNS of_IN series_NN ._.
+In_IN -LRB-_-LRB- 41_CD -RRB-_-RRB- they_PRP set_VBP the_DT initial_JJ clustering_NN using_VBG Dynamic_NNP Time_NNP Warping_NNP ._.
+HMM_NNS are_VBP fitted_VBN to_TO each_DT cluster_NN ,_, a_DT Monte_NNP

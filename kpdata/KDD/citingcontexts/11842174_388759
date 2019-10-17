@@ -1,0 +1,3 @@
+ge_NN document_NN collections_NNS in_IN relation_NN extraction_NN -LRB-_-LRB- see_VB -LRB-_-LRB- 1_LS -RRB-_-RRB- for_IN an_DT overview_NN -RRB-_-RRB- ,_, including_VBG -LRB-_-LRB- heuristic_NN -RRB-_-RRB- filtering_VBG of_IN documents_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, the_DT use_NN of_IN very_RB simple_JJ extraction_NN patterns_NNS and_CC specialized_JJ index_NN structures_NNS =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT approaches_NNS are_VBP orthogonal_JJ to_TO ours_PRP and_CC may_MD be_VB combined_VBN with_IN it_PRP ._.
+The_DT problem_NN of_IN computing_VBG the_DT list-membership_NN and_CC crossdocument_NN features_NNS also_RB has_VBZ strong_JJ similarity_NN to_TO the_DT processing_NN of_IN join_VB and_CC

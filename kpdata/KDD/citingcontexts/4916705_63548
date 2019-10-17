@@ -1,0 +1,7 @@
+d_NN boosting_VBG algorithm_NN is_VBZ capable_JJ of_IN improving_VBG any_DT clustering_NN algorithm_NN by_IN exploiting_VBG the_DT pairwise_JJ constraints_NNS ,_, three_CD popular_JJ clustering_NN algorithms_NNS are_VBP used_VBN in_IN our_PRP$ study_NN ._.
+They_PRP are_VBP :_: 1_CD ._.
+K-means_JJ algorithm_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP represents_VBZ the_DT family_NN of_IN clustering_NN algorithms_NNS that_WDT try_VBP to_TO find_VB compact_JJ and_CC wellseparated_JJ clusters_NNS ._.
+We_PRP adopted_VBD the_DT implementation_NN from_IN the_DT Weka_NNP software_NN 1_CD ._.
+2_CD ._.
+Partitional_NNP SingleLink_NNP algorithm_NN -LRB-_-LRB- ``_``

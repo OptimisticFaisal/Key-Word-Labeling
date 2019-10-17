@@ -1,0 +1,5 @@
+d_NN exactly_RB the_DT same_JJ way_NN ._.
+The_DT rating_NN prediction_NN algorithm_NN now_RB uses_VBZ a_DT weighted_JJ average_NN from_IN the_DT neighbor_NN 's_POS ratings_NNS and_CC uses_VBZ the_DT similarity_NN values_NNS as_IN weight_NN constants_NNS ._.
+This_DT method_NN was_VBD for_IN example_NN used_VBN in_IN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: and_CC is_VBZ relatively_RB common_JJ in_IN recommendation_NN systems_NNS ._.
+The_DT weighted_JJ average_NN is_VBZ calculated_VBN using_VBG formula_NN 3_CD ._.
+Pi_NN ,_, u_NN =_JJ N_NN n_NN =_JJ 1_CD si_NN ,_, n_NN ∗_NN Ru_NN ,_, n_NN N_NN n_NN =_JJ 1_CD si_NN ,_, n_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- si_FW ,_, n_NN :_: Similarity_NN value_NN between_IN target_NN item_NN i_FW and_CC ne_NN

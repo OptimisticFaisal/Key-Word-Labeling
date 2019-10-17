@@ -1,0 +1,3 @@
+ng_NN of_IN this_DT section_NN ,_, the_DT approach_NN we_PRP have_VBP described_VBN can_MD obviously_RB be_VB used_VBN to_TO combine_VB association_NN rules_NNS for_IN prediction_NN ._.
+While_IN some_DT work_NN has_VBZ been_VBN done_VBN on_IN finding_VBG predictive_JJ association_NN rules_NNS -LRB-_-LRB- see_VB ,_, e.g._FW ,_, =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, we_PRP are_VBP not_RB aware_JJ of_IN work_NN on_IN actually_RB combining_VBG association_NN rules_NNS ._.
+Given_VBN a_DT set_VBN fX_NN i_LS -RRB-_-RRB- Ag_NN of_IN association_NN rules_NNS ,_, let_VB k_NN be_VB the_DT number_NN of_IN distinct_JJ attributes_NNS fB_NN 1_CD ;_: :_: :_: :_: ;_: B_NN k_NN g_NN occurring_VBG in_IN the_DT sets_NNS X_NN

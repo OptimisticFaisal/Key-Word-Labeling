@@ -1,0 +1,3 @@
+ales_NNS up_RB to_TO datasets_NNS with_IN thousands_NNS of_IN variables_NNS ._.
+MMMB_NN is_VBZ compared_VBN with_IN all_DT previously_RB known_VBN algorithms_NNS for_IN inducing_VBG Markov_NNP Blankets_NNPS ,_, namely_RB the_DT Incremental_JJ Association_NN Markov_NN Blanket_NN -LRB-_-LRB- IAMB_NN -RRB-_-RRB- algorithm_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT Grow-Shrink_NN -LRB-_-LRB- GS_NN -RRB-_-RRB- algorithm_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, and_CC the_DT Koller-Sahami_NNP algorithm_NN -LRB-_-LRB- KS_NN -RRB-_-RRB- -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+MMMB_NN trades-off_NN computation_NN time_NN for_IN required_VBN training_NN sample_NN size_NN ,_, while_IN still_RB being_VBG efficient_JJ enough_RB to_TO scale_VB up_RP to_TO th_DT

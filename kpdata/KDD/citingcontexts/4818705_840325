@@ -1,0 +1,4 @@
+ex_FW temporal_JJ patterns_NNS covering_VBG the_DT concepts_NNS of_IN coincidence_NN and_CC order_NN can_MD be_VB searched_VBN with_IN the_DT Time_NNP Series_NNP Knowledge_NNP Mining_NNP -LRB-_-LRB- TSKM_NNP -RRB-_-RRB- framework_NN -LRB-_-LRB- 19_CD ,_, 20_CD -RRB-_-RRB- ._.
+The_DT related_JJ task_NN of_IN time_NN series_NN segmentation_NN -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =--RRB-_NN is_VBZ beyond_IN the_DT scope_NN of_IN this_DT paper_NN ._.
+Segmentation_NN does_VBZ not_RB lead_VB to_TO recurring_VBG state_NN labels_NNS per_FW se_FW ._.
+Instead_RB of_IN dividing_VBG the_DT value_NN dimension_NN in_IN intervals_NNS ,_, the_DT time_NN dimension_NN is_VBZ segmented_JJ to_TO produce_VB line_NN

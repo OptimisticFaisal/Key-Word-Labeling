@@ -1,0 +1,3 @@
+ing_NN ratings_NNS can_MD be_VB predicted_VBN using_VBG suitable_JJ low_JJ parameter_NN approximations_NNS of_IN the_DT ratings_NNS matrix_NN ,_, a_DT number_NN of_IN other_JJ collaborative_JJ filtering_VBG approaches_NNS based_VBN on_IN matrix_NN approximation_NN methods_NNS such_JJ as_IN SVD_NN -LRB-_-LRB- =_JJ -_: =_JJ Sarwar_NNP et_FW al._FW ,_, 2000_CD -_: =--RRB-_NN ,_, and_CC PLSI_NNP -LRB-_-LRB- Hofmann_NNP ,_, 2004_CD -RRB-_-RRB- have_VBP been_VBN proposed_VBN in_IN recent_JJ years_NNS ._.
+Following_VBG the_DT same_JJ general_JJ intuition_NN ,_, we_PRP propose_VBP a_DT mathematically_RB well-motivated_JJ solution_NN based_VBN on_IN co-clustering_NN ._.
+The_DT main_JJ idea_NN is_VBZ to_TO -LRB-_-LRB- i_LS

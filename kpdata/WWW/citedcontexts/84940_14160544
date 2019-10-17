@@ -1,0 +1,4 @@
+a_DT compressed_VBN web_NN graph_NN consisting_VBG of_IN several_JJ hundred_CD million_CD nodes_NNS and_CC a_DT billion_CD links_NNS ._.
+A_DT number_NN of_IN systems_NNS exploit_VBP different_JJ compression_NN schemes_NNS to_TO scale_VB traditional_JJ in-memory_JJ stores_NNS to_TO large_JJ graphs_NNS =_JJ -_: =[_NN 31_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT system_NN that_WDT is_VBZ representative_JJ of_IN this_DT class_NN in_IN our_PRP$ study_NN is_VBZ the_DT Scalable_NNP Hyperlink_NNP Store_NNP -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+It_PRP differs_VBZ from_IN the_DT earlier_JJR in-memory_JJ stores_NNS in_IN that_IN it_PRP is_VBZ distributed_VBN ,_, following_VBG the_DT client-server_NN

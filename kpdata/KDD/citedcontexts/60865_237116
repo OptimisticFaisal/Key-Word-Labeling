@@ -1,0 +1,4 @@
+learning_VBG process_NN and_CC its_PRP$ results_NNS were_VBD not_RB clear_JJ ._.
+Based_VBN on_IN these_DT pioneering_JJ works_NNS ,_, Joachims_NNP proposed_VBD the_DT RSVM_NNP algorithm_NN which_WDT uses_VBZ clickthrough_JJ data_NNS to_TO optimize_VB the_DT performance_NN of_IN a_DT retrieval_NN function_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- ._.
+-_: =_SYM -_: The_DT limitationsof_NN Joachims_NNP '_POS algorithm_NN is_VBZ that_IN it_PRP requires_VBZ a_DT large_JJ set_NN of_IN training_NN data_NNS to_TO make_VB the_DT algorithm_NN effective_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP develop_VBP a_DT new_JJ algorithm_NN ,_, which_WDT we_PRP call_VBP Ranking_NNP SVM_NNP in_IN a_DT Cotr_NN

@@ -1,0 +1,6 @@
+ing_VBG an_DT inner_JJ product_NN ,_, i.e._FW ,_, ˆrui_NN =_JJ bui_NN +_CC p_NN T_NN uqi_NN ._.
+The_DT more_RBR involved_JJ part_NN is_VBZ parameter_NN estimation_NN ._.
+In_IN information_NN retrieval_NN it_PRP is_VBZ well_RB established_VBN to_TO harness_NN SVD_NN for_IN identifying_VBG latent_JJ semantic_JJ factors_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, applying_VBG SVD_NNP in_IN the_DT CF_NN domain_NN raises_VBZ difficulties_NNS due_JJ to_TO the_DT high_JJ portion_NN of_IN missing_VBG ratings_NNS ._.
+Conventional_JJ SVD_NN is_VBZ undefined_VBN when_WRB knowledge_NN about_IN the_DT matrix_NN is_VBZ incomplete_JJ ._.
+Moreover_RB ,_, careless_JJ

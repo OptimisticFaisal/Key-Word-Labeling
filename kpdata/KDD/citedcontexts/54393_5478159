@@ -1,0 +1,4 @@
+ity_NN ,_, a_DT variety_NN of_IN other_JJ methods_NNS have_VBP been_VBN proposed_VBN for_IN protecting_VBG individual_JJ privacy_NN while_IN allowing_VBG certain_JJ data_NNS mining_NN tasks_NNS ._.
+One_CD widely-studied_JJ approach_NN is_VBZ based_VBN on_IN the_DT randomized_VBN response_NN paradigm_NN =_JJ -_: =[_NN 4_CD ,_, 11_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT main_JJ advantage_NN of_IN generalization_NN is_VBZ that_IN the_DT releasedsdata_NN is_VBZ ``_`` truthful_JJ ,_, ''_'' though_IN at_IN a_DT coarsened_JJ level_NN of_IN granularity_NN ._.
+This_DT allows_VBZ additional_JJ workloads_NNS to_TO be_VB carried_VBN out_RP using_VBG the_DT data_NNS ,_, including_VBG

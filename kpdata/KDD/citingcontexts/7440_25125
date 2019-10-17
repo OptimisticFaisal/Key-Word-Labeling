@@ -1,0 +1,5 @@
+to_TO all_DT parties_NNS ._.
+We_PRP have_VBP made_VBN use_NN of_IN several_JJ primitives_NNS from_IN the_DT Secure_NNP Multiparty_NNP Computation_NNP literature_NN ._.
+Recently_RB ,_, there_EX has_VBZ been_VBN a_DT renewed_VBN interest_NN in_IN this_DT field_NN ,_, a_DT good_JJ discussion_NN can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Currently_RB ,_, assembling_VBG these_DT into_IN efficient_JJ privacypreserving_VBG data_NNS mining_NN algorithms_NNS ,_, and_CC proving_VBG them_PRP secure_JJ ,_, is_VBZ a_DT challenging_JJ task_NN ._.
+Our_PRP$ paper_NN has_VBZ demonstrated_VBN how_WRB these_DT can_MD be_VB combined_VBN to_TO implement_VB

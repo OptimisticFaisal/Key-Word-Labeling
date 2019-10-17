@@ -1,0 +1,5 @@
+lickr_NN ,_, and_CC BlogCatalog_NN Multi-Interaction_NN -LRB-_-LRB- BlogMI_NN -RRB-_-RRB- ,_, each_DT containing_VBG more_JJR than_IN one_CD type_NN of_IN interactions_NNS ._.
+The_DT first_JJ two_CD datasets_NNS contain_VBP linking_VBG and_CC tagging_VBG information_NN and_CC are_VBP obtained_VBN from_IN Tang_NNP et_FW al._FW =_SYM -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT third_JJ dataset_NN is_VBZ crawled_VBN include_VBP more_JJR interactions_NNS ._.
+BlogCatalog_NNP is_VBZ a_DT blog_NN directory_NN where_WRB users_NNS can_MD register_VB their_PRP$ blogs_NNS under_IN predefined_JJ categories_NNS ._.
+When_WRB a_DT new_JJ blog_NN is_VBZ to_TO be_VB registered_VBN ,_, the_DT own_JJ

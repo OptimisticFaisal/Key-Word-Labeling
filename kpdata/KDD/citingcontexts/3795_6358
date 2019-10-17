@@ -1,0 +1,6 @@
+ze_IN these_DT attributes_NNS into_IN intervals_NNS using_VBG the_DT target_NN attribute_NN ._.
+There_EX are_VBP a_DT number_NN of_IN discretization_NN algorithms_NNS in_IN machine_NN learning_NN literature_NN for_IN the_DT purpose_NN ._.
+We_PRP use_VBP the_DT entropy-based_JJ method_NN given_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT code_NN is_VBZ taken_VBN from_IN MLC_NN +_CC +_CC -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+The_DT experiments_NNS were_VBD repeated_VBN using_VBG different_JJ significance_NN levels_NNS for_IN the_DT c_NN 2_CD test_NN -LRB-_-LRB- 95_CD %_NN and_CC 90_CD %_NN -RRB-_-RRB- and_CC different_JJ minimum_JJ support_NN -LRB-_-LRB- minsup_NN -RRB-_-RRB- values_NNS -LRB-_-LRB- 2_CD %_NN and_CC 1_CD %_NN -RRB-_-RRB- ._.
+The_DT 95_CD %_NN

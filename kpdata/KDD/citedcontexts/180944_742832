@@ -1,0 +1,5 @@
+objects_NNS until_IN no_DT change_NN is_VBZ made_VBN ._.
+At_IN this_DT point_NN the_DT algorithm_NN is_VBZ said_VBN to_TO converge_VB ._.
+Even_RB though_IN k-means_NN is_VBZ an_DT effective_JJ clustering_NN algorithm_NN ,_, it_PRP can_MD sometimes_RB converge_VB to_TO a_DT local_JJ optimum_NN ._.
+Many_JJ methods_NNS =_JJ -_: =[_NN 2,3,4,5_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN developed_VBN to_TO extend_VB the_DT k-means_NN with_IN the_DT common_JJ objective_NN of_IN avoiding_VBG converging_VBG to_TO a_DT bad_JJ local_JJ optimum_NN ._.
+Some_DT methods_NNS -LRB-_-LRB- 6,7,8_CD -RRB-_-RRB- search_NN for_IN the_DT best_JJS initialization_NN because_IN k-means_NN is_VBZ known_VBN to_TO

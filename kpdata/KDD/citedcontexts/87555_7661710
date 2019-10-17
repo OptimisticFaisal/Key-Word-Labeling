@@ -1,0 +1,4 @@
+xample_NN ._.
+Each_DT iteration_NN invokes_VBZ the_DT learning_VBG algorithm_NN to_TO minimize_VB the_DT weighted_JJ error_NN and_CC returns_VBZ a_DT hypothesis_NN ,_, which_WDT is_VBZ used_VBN in_IN a_DT final_JJ weighted_JJ vote_NN ._.
+One_CD of_IN the_DT most_RBS similar_JJ work_NN to_TO ours_PRP is_VBZ MetaCost_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ an_DT algorithm_NN that_WDT implements_VBZ cost-sensitive_JJ classification_NN ._.
+Instead_RB of_IN modifying_VBG an_DT error_NN minimization_NN classification_NN procedure_NN ,_, it_PRP views_VBZ the_DT classifier_NN as_IN a_DT black_JJ box_NN ,_, the_DT same_JJ as_IN we_PRP do_VBP ,_, a_DT

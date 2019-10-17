@@ -1,0 +1,4 @@
+nformation_NN gain_NN ,_, and_CC split_VBD this_DT dataset_NN into_IN two_CD separate_JJ problems_NNS ._.
+They_PRP proceed_VBP until_IN the_DT subproblems_NNS are_VBP solved_VBN or_CC are_VBP of_IN a_DT smaller_JJR size_NN than_IN a_DT given_VBN threshold_NN ._.
+Using_VBG the_DT gSpan_NN extension_NN CloseGraph_NN =_JJ -_: =[_NN 35_CD -RRB-_-RRB- -_: =_JJ -_: ,_, they_PRP have_VBP published_VBN experiments_NNS on_IN the_DT NCI_NN screenings_NNS which_WDT we_PRP compare_VBP to_TO ours_PRP in_IN Table_NNP 4_CD ._.
+Note_VB ,_, however_RB ,_, that_IN the_DT experiments_NNS of_IN -LRB-_-LRB- 11_CD -RRB-_-RRB- have_VBP been_VBN conducted_VBN on_IN the_DT complete_JJ graph_NN sets_NNS ,_, while_IN ours_PRP are_VBP

@@ -1,0 +1,4 @@
+per-host_JJ and_CC per-service_JJ measures_NNS should_MD be_VB included_VBN ._.
+We_PRP have_VBP developed_VBN a_DT framework_NN ,_, MADAM_NNP ID_NNP -LRB-_-LRB- for_IN Mining_NNP Audit_NNP Data_NNP for_IN Automated_NNP Models_NNS for_IN Intrusion_NN Detection_NN -RRB-_-RRB- ,_, described_VBN in_IN -LRB-_-LRB- Lee_NNP and_CC Stolfo_NNP 1998_CD ;_: =_JJ -_: =_JJ Lee_NNP et_FW al._FW 1999_CD -_: =_SYM -_: a_DT ;_: Lee_NNP et_FW al._FW 1999b_CD ;_: Lee_NNP 1999_CD -RRB-_-RRB- ._.
+The_DT main_JJ idea_NN is_VBZ to_TO apply_VB data_NN mining_NN techniques_NNS to_TO build_VB intrusion_NN detection_NN models_NNS ._.
+The_DT main_JJ components_NNS of_IN the_DT framework_NN include_VBP programs_NNS for_IN learning_VBG classifiers_NNS and_CC

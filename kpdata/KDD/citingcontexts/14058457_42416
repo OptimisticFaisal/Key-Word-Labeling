@@ -1,0 +1,3 @@
+trees_NNS ,_, 4_CD random_JJ features_NNS each_DT -RRB-_-RRB- -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+We_PRP run_VBP 10-fold_RB cross_JJ validation_NN over_IN 20_CD different_JJ training_NN set_NN sampled_VBN over_IN each_DT prediction_NN dataset_NN and_CC we_PRP consider_VBP the_DT AUC_NN value_NN as_IN an_DT overall_JJ performance_NN metric_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN addition_NN ,_, we_PRP also_RB consider_VBP two_CD additional_JJ metrics_NNS computed_VBN over_IN positive_JJ items_NNS :_: the_DT average_JJ precision_NN ,_, that_WDT is_VBZ the_DT fraction_NN of_IN positive_JJ predictions_NNS that_WDT are_VBP correct_JJ ,_, and_CC the_DT average_JJ recall_NN ,_, that_IN

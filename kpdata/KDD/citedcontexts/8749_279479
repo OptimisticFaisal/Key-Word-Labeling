@@ -1,0 +1,5 @@
+may_MD not_RB be_VB classified_VBN correctly_RB unless_IN the_DT generalisation_NN capabilities_NNS of_IN the_DT underlying_VBG classification_NN algorithm_NN are_VBP good_JJ ._.
+3_LS ._.
+Type_NN 3_CD -_: Model_NNP only_RB normality_NN or_CC in_IN a_DT very_RB few_JJ cases_NNS model_NN abnormality_NN -LRB-_-LRB- =_JJ -_: =_JJ Fawcett_NNP and_CC Provost_NNP ,_, 1999_CD -_: =--RRB-_NN ,_, -LRB-_-LRB- Japkowicz_NNP et_FW al._FW ,_, 1995_CD -RRB-_-RRB- ._.
+Authors_NNS generally_RB name_VBP this_DT technique_NN novelty_NN detection_NN or_CC novelty_NN recognition_NN ._.
+It_PRP is_VBZ analogous_JJ to_TO a_DT semi-supervised_JJ recognition_NN or_CC detection_NN task_NN and_CC can_MD be_VB considered_VBN se_FW

@@ -1,0 +1,6 @@
+values_NNS ._.
+Examples_NNS are_VBP Levenstein_NNP and_CC Euclidean_NNP distance_NN for_IN string_NN and_CC numeric_JJ attributes_NNS respectively_RB ._.
+Link-based_JJ similarity_NN is_VBZ defined_VBN based_VBN on_IN neighborhood_NN linked_VBN to_TO the_DT users_NNS to_TO be_VB compared_VBN ,_, e.g._FW =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS of_IN these_DT measures_NNS are_VBP mainly_RB for_IN entity_NN resolution_NN ._.
+In_IN this_DT work_NN ,_, we_PRP do_VBP not_RB intend_VB to_TO resolve_VB distinct_JJ users_NNS ._.
+Instead_RB ,_, we_PRP would_MD like_VB to_TO cluster_VB them_PRP by_IN the_DT density_NN of_IN connectivity_NN in_IN their_PRP$ neig_NN

@@ -1,0 +1,5 @@
+can_MD be_VB cast_VBN as_IN an_DT outlier_NN detection_NN problem_NN ._.
+The_DT distinguishing_JJ characteristics_NNS of_IN spatial_JJ data_NNS is_VBZ the_DT presence_NN of_IN ``_`` spatial_JJ attributes_NNS ''_'' and_CC the_DT neighborhood_NN relationship_NN ._.
+Definition_NN 7_CD -LRB-_-LRB- Shekhar_NNP et_NNP ._.
+al._FW =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =--RRB-_NN A_NN spatial_JJ outlier_NN is_VBZ a_DT spatial_JJ referenced_JJ object_NN whose_WP$ non-spatial_JJ attribute_NN values_NNS are_VBP significantly_RB different_JJ from_IN those_DT of_IN other_JJ spatially_RB referenced_VBN objects_NNS in_IN its_PRP$ spatial_JJ neighborhood_NN ._.
+Pakdd_NN 20_CD

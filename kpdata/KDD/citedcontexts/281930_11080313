@@ -1,0 +1,4 @@
+is_VBZ the_DT distance_NN of_IN the_DT object_NN to_TO its_PRP$ neighbors_NNS ,_, the_DT more_RBR likely_JJ it_PRP is_VBZ an_DT outlier_NN ._.
+Distance-based_JJ approaches_NNS have_VBP been_VBN the_DT subject_NN of_IN much_JJ research_NN withiin_NN the_DT database_NN and_CC data_NNS analytics_NNS communities_NNS =_JJ -_: =[_NN 3_CD ,_, 5_CD ,_, 10_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP is_VBZ a_DT relatively_RB non-parametric_JJ approach_NN that_WDT has_VBZ been_VBN shown_VBN to_TO scale_VB quite_RB nicely_RB to_TO large_JJ datasets_NNS of_IN moderate_JJ to_TO high_JJ dimensionality_NN and_CC is_VBZ the_DT focus_NN of_IN this_DT paper_NN ._.
+The_DT basic_JJ algorithm_NN for_IN such_JJ

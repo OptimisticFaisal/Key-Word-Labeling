@@ -1,0 +1,5 @@
+grity_NN of_IN the_DT tables_NNS ._.
+Samarati_NNP and_CC Sweeney_NNP -LRB-_-LRB- 14_CD ,_, 15_CD ,_, 17_CD -RRB-_-RRB- introduced_VBD the_DT k-anonymity_NN approach_NN and_CC used_VBD generalization_NN and_CC suppression_NN techniques_NNS to_TO preserve_VB information_NN truthfulness_NN ._.
+Numerous_JJ algorithms_NNS =_JJ -_: =[_NN 2_CD ,_, 6_CD ,_, 10_CD ,_, 9_CD ,_, 15_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN proposed_VBN to_TO achieve_VB k-anonymity_NN requirement_NN ._.
+Optimal_JJ k-anonymity_NN has_VBZ been_VBN proved_VBN to_TO be_VB NP-hard_JJ for_IN k_NN ≥_NN 3_CD -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Recently_RB ,_, a_DT number_NN of_IN authors_NNS have_VBP recognized_VBN that_DT kanonymity_NN does_VBZ not_RB prevent_VB

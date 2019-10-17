@@ -1,0 +1,3 @@
+l1_NN 8000_CD 120_CD 80_CD multimedia_NNS MediaMill2_NN 8000 120 100_CD multimedia_NNS References_NNS 7929_CD 26397_CD 15_CD text_NN Science_NNP 6345_CD 24002_CD 22_CD text_NN We_PRP employ_VBP six_CD benchmark_JJ data_NNS sets_NNS in_IN our_PRP$ experiments_NNS ._.
+One_CD of_IN them_PRP is_VBZ AR_NN Face_NNP Data_NNP =_SYM -_: =[_NN 24_CD -RRB-_-RRB- -_: =_JJ -_: :_: we_PRP use_VBP its_PRP$ subset_NN consisting_VBG of_IN 1400_CD face_NN images_NNS corresponding_VBG to_TO 100_CD persons_NNS ._.
+Another_DT three_CD are_VBP LIBSVM_NNP multi-label_JJ data_NN sets_NNS 2_CD :_: for_IN Scene_NN and_CC Yeast_NN ,_, we_PRP use_VBP the_DT entire_JJ data_NN sets_NNS ;_: for_IN MediaMill_NNP ,_, we_PRP

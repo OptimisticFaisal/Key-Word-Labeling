@@ -1,0 +1,4 @@
+synset_NN ._.
+A_DT synset_NN contains_VBZ words_NNS with_IN same_JJ sense_NN and_CC a_DT word_NN can_MD occur_VB in_IN different_JJ synsets_NNS indicating_VBG that_IN the_DT word_NN has_VBZ multiple_JJ senses_NNS ._.
+Lin_NNP et_FW al._FW define_VB the_DT similarity_NN between_IN two_CD senses_NNS in_IN Wordnet_NN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: as_IN :_: simd_NN -LRB-_-LRB- s1_NN ,_, s2_NN -RRB-_-RRB- =_JJ 2_CD ×_CD log_NN p_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- log_VBP p_NN -LRB-_-LRB- s1_NN -RRB-_-RRB- +_CC log_NN p_NN -LRB-_-LRB- s2_NN -RRB-_-RRB- where_WRB p_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- =_JJ count_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- \/_: total_NN ,_, is_VBZ the_DT probability_NN of_IN a_DT randomly_RB selected_VBN word_NN occurring_VBG in_IN the_DT synset_NN s_NN or_CC any_DT sub_NN synsets_NNS of_IN it_PRP ._.
+Total_NNP is_VBZ the_DT numbe_NN

@@ -1,0 +1,4 @@
+the_DT chosen_JJ clause_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- are_VBP the_DT same_JJ that_WDT would_MD be_VB obtained_VBN if_IN we_PRP computed_VBD the_DT WPLL_NNP exactly_RB ._.
+This_DT effectively_RB makes_VBZ the_DT runtime_NN of_IN the_DT WPLL_NN computation_NN independent_JJ of_IN the_DT number_NN of_IN predicate_JJ groundings_NNS -LRB-_-LRB- =_JJ -_: =_JJ Hulten_NNP &_CC Domingos_NNP ,_, 2002_CD -_: =--RRB-_NN ._.
+At_IN the_DT end_NN of_IN the_DT algorithm_NN we_PRP do_VBP a_DT final_JJ round_NN of_IN weight_NN learning_NN without_IN subsampling_VBG ._.
+•_RB We_PRP use_VBP a_DT similar_JJ strategy_NN to_TO compute_VB the_DT number_NN of_IN true_JJ groundings_NNS of_IN a_DT clause_NN ,_, required_VBN for_IN the_DT WPLL_NN and_CC i_LS

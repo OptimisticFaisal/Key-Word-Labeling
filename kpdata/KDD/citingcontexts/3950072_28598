@@ -1,0 +1,5 @@
+tterns_NNS ._.
+Our_PRP$ definition_NN of_IN iterative_JJ pattern_NN is_VBZ inspired_VBN by_IN the_DT common_JJ languages_NNS for_IN specifying_VBG software_NN behavioral_JJ requirements_NNS ,_, namely_RB Message_NN Sequence_NN Chart_NN -LRB-_-LRB- MSC_NN -RRB-_-RRB- -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC Live_JJ Sequence_NN Chart_NN -LRB-_-LRB- LSC_NN -RRB-_-RRB- =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+MSC_NNP and_CC LSC_NNP are_VBP variants_NNS of_IN sequence_NN diagram_NN specifying_VBG how_WRB a_DT system_NN should_MD behave_VB ._.
+An_DT example_NN of_IN such_JJ chart_NN is_VBZ a_DT simplified_VBN telephone_NN switching_NN protocol_NN -LRB-_-LRB- c.f._NN ,_, -LRB-_-LRB- 16_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Abstracting_VBG caller_NN and_CC callee_NN

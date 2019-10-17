@@ -1,0 +1,4 @@
+ortly_RB present_VB a_DT generalized_JJ version_NN of_IN our_PRP$ Epistemic_NNP Dynamic_NNP Model_NNP of_IN tagging_VBG systems_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Model_NNP Name_NN Tag_NN Freq_NN ._.
+Vocab_NNP ._.
+Growth_NNP Epistemic_NNP Model_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- +_CC sublinear_JJ YS_NN Memory_NN Model_NNP -LRB-_-LRB- 2_CD -RRB-_-RRB- +_CC linear_JJ Halpin_NNP Model_NNP =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ◦_CD linear_JJ Golder_NNP Model_NNP -LRB-_-LRB- 8_CD -RRB-_-RRB- ◦_CD fixed_JJ size_NN Table_NNP 3_CD :_: Rating_NNP of_IN tag_NN stream_NN simulation_NN models_NNS and_CC how_WRB they_PRP reproduce_VBP the_DT tag_NN frequency_NN distribution_NN and_CC the_DT vocabulary_NN growth_NN in_IN co-occurrence_NN streams_NNS -LRB-_-LRB- +_CC =_JJ go_NN

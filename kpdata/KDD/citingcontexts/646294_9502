@@ -1,0 +1,3 @@
+r_NN expression_NN patterns_NNS are_VBP similar_JJ according_VBG to_TO a_DT user-specified_JJ similarity_NN measure_NN -LRB-_-LRB- e.g._FW ,_, Euclidean_JJ distance_NN ,_, Pearson_NNP 's_POS correlation_NN coefficient_NN ,_, KL-distance_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, or_CC pattern-based_JJ similarity_NN measures_NNS =_JJ -_: =[_NN 7_CD ,_, 29_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+In_IN the_DT protein_NN interaction_NN graph_NN Gp_NN ,_, the_DT vertices_NNS are_VBP proteins_NNS ,_, and_CC two_CD proteins_NNS are_VBP connected_VBN if_IN they_PRP interact_VBP with_IN each_DT other_JJ ._.
+We_PRP use_VBP a_DT surjective_JJ -LRB-_-LRB- i.e._FW ,_, onto_IN -RRB-_-RRB- mapping_NN m_NN -LRB-_-LRB- p_NN -RRB-_-RRB- =_JJ g_NN from_IN proteins_NNS to_TO g_NN

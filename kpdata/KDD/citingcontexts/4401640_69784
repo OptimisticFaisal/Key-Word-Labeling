@@ -1,0 +1,4 @@
+arly_RB not_RB equivalent_JJ to_TO the_DT base_NN formulation_NN ;_: however_RB ,_, the_DT 1-norm_NN tends_VBZ to_TO suppress_VB terms_NNS and_CC to_TO produce_VB sparse_JJ solutions_NNS ._.
+This_DT has_VBZ been_VBN empirically_RB validated_VBN ,_, in_IN particular_JJ in_IN the_DT SVM_NN framework_NN e.g._FW ,_, =_JJ -_: =[_NN 4_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Hence_RB ,_, the_DT expression_NN PD_NN |_CD |_NNP Am_NNP |_NNP |_NNP 1_CD in_IN m_NN =_JJ 1_CD formulation_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- will_MD be_VB used_VBN to_TO replace_VB the_DT ideal_JJ expression_NN −_NN P_NN D_NN m_NN =_JJ 1_CD 1_CD -LRB-_-LRB- Am_VBP =_JJ 0_CD -RRB-_-RRB- ._.
+The_DT later_RB would_MD lead_VB to_TO a_DT 0-1_CD Mixed_JJ Integer_NN Programming_NN -LRB-_-LRB- MIP_NN -RRB-_-RRB- problem_NN ,_, know_VBP

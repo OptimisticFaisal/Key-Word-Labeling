@@ -1,0 +1,5 @@
+intrusion_NN alerts_VBZ ._.
+The_DT mission-impact-based_JJ approach_NN correlates_NNS alerts_VBZ raised_VBN by_IN INFOSEC_NN devices_NNS such_JJ as_IN IDS_NNP and_CC firewalls_NNS with_IN the_DT importance_NN of_IN system_NN assets_NNS -LRB-_-LRB- 34_CD -RRB-_-RRB- ._.
+The_DT alert_JJ clustering_NN techniques_NNS in_IN =_JJ -_: =[_NN 22_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: use_VB conceptual_JJ clustering_NN and_CC generalization_NN hierarchy_NN to_TO aggregate_NN alerts_VBZ into_IN clusters_NNS ._.
+Alert_NNP correlation_NN may_MD also_RB be_VB performed_VBN by_IN matching_VBG attack_NN scenarios_NNS specified_VBN by_IN attack_NN languages_NNS ._.
+Examples_NNS

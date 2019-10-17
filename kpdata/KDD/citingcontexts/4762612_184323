@@ -1,0 +1,4 @@
+ews_NN -LCB-_-LRB- V_NN 1_CD ,_, ..._: ,_, V_NN n_NN -RCB-_-RRB- ._.
+These_DT uncorrelated_JJ views_NNS are_VBP then_RB used_VBN to_TO model_VB a_DT target_NN function_NN in_IN order_NN to_TO approximate_JJ the_DT target_NN concept_NN to_TO be_VB learned_VBN ._.
+Multi-view_JJ learning_NN prefers_VBZ strongly_RB independent_JJ views_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+That_DT is_VBZ ,_, views_VBZ V_NNP i_LS and_CC V_NN j_NN -LRB-_-LRB- where_WRB ∀_FW i_FW ,_, j_FW ∈_FW n_NN and_CC i_LS =_JJ j_NN -RRB-_-RRB- are_VBP conditionally_RB independent_JJ given_VBN class_NN variable_JJ y._NN In_IN multiview_JJ learning_NN ,_, a_DT tuple_JJ t_NN in_IN the_DT target_NN relation_NN Rt_NN is_VBZ viewed_VBN as_IN :_: t_NN i_FW j_FW =_JJ ϕ_NN -LRB-_-LRB- t_NN

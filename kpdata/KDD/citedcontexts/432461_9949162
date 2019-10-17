@@ -1,0 +1,4 @@
+ment_NN ,_, where_WRB data_NNS used_VBN to_TO train_VB individual_JJ models_NNS represent_VBP subsamples_NNS of_IN the_DT original_JJ set_NN ,_, depending_VBG in_IN composition_NN on_IN the_DT previous_JJ elements_NNS of_IN the_DT cascade_NN ._.
+Cascaded_VBN models_NNS proposed_VBN in_IN the_DT literature_NN =_JJ -_: =[_NN 9,29_CD -RRB-_-RRB- -_: =_JJ -_: form_NN either_CC a_DT chain_NN or_CC a_DT tree_NN ._.
+At_IN each_DT stage_NN of_IN a_DT chain_NN cascade_NN ,_, an_DT instance_NN can_MD either_RB be_VB classified_VBN or_CC passed_VBN to_TO the_DT next_JJ stage_NN of_IN the_DT chain_NN ._.
+Conversely_RB ,_, in_IN tree_NN cascades_NNS ,_, the_DT internal_JJ node_NN classif_NN

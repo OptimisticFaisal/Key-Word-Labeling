@@ -1,0 +1,4 @@
+ds_JJ knowledge_NN sets_NNS ,_, support_NN vector_NN machine_NN classifier_NN ,_, knowledge-based_JJ classifier_NN ,_, linear_JJ programming_NN 1_CD ._.
+INTRODUCTION_NN Support_NN vector_NN machines_NNS -LRB-_-LRB- SVMs_NNS -RRB-_-RRB- have_VBP played_VBN a_DT major_JJ role_NN in_IN classification_NN problems_NNS =_JJ -_: =[_NN 24_CD ,_, 3_CD ,_, 12_CD ,_, 1_CD ,_, 13_CD ,_, 5_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB unlike_IN other_JJ classification_NN tools_NNS such_JJ as_IN knowledge-based_JJ neural_JJ networks_NNS -LRB-_-LRB- 21_CD ,_, 22_CD ,_, 17_CD ,_, 7_CD -RRB-_-RRB- ,_, little_JJ work_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- has_VBZ gone_VBN into_IN incorporating_VBG prior_JJ knowledge_NN into_IN support_NN vector_NN machines_NNS ._.
+In_IN this_DT

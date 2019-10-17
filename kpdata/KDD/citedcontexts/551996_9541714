@@ -1,0 +1,4 @@
+s_NNS been_VBN rotated_VBN using_VBG principal_JJ component_NN analysis_NN ._.
+SIGKDD_NNP Explorations_NNPS Volume_NNP 11_CD ,_, Issue_NN 1_CD Page_NNP 13The_NN set_NN of_IN clustering_NN algorithms_NNS has_VBZ also_RB been_VBN expanded_VBN with_IN the_DT following_JJ members_NNS :_: •_FW CLOPE_FW clusterer_NN =_JJ -_: =[_NN 38_CD -RRB-_-RRB- -_: =_JJ -_: :_: transactional_JJ data_NNS ._.
+a_DT fast_JJ clustering_NN scheme_NN for_IN •_NNP Sequential_NNP information_NN bottleneck_NN clusterer_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- :_: a_DT clusterer_NN that_WDT was_VBD implemented_VBN primarily_RB for_IN document_NN clustering_NN ._.
+4.3_CD Preprocessing_NN Filters_NNS Jus_NN

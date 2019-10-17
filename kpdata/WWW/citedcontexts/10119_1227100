@@ -1,0 +1,7 @@
+-LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+For_IN what_WP concerns_VBZ the_DT specification_NN of_IN the_DT control_NN flow_NN requirements_NNS that_IN the_DT new_JJ composite_JJ service_NN should_MD satisfy_VB ,_, most_JJS of_IN the_DT existing_VBG approaches_NNS specify_VBP them_PRP as_IN reachability_NN conditions_NNS -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Some_DT other_JJ approaches_NNS ,_, see_VB ,_, e.g._FW ,_, -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, aresPandS_FW WS_FW IMPLEMENTATION_NN ?_.
+request_NN -LRB-_-LRB- item_NN ,_, quantity_NN ,_, location_NN -RRB-_-RRB- ?_.
+P._FW offer_NN -LRB-_-LRB- P_size_NN ,_, P_cost_NN -RRB-_-RRB- ?_.
+P._FW notAvail_FW -LRB-_-LRB- P_error_NN -RRB-_-RRB- S_size_NN :_: =_JJ P_size_NN S_location_NN :_: =_JJ location_NN !_.
+S._FW request_NN -LRB-_-LRB-

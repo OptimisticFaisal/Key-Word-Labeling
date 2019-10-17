@@ -1,0 +1,4 @@
+line_NN data_NNS stream_NN is_VBZ proposed_VBN based_VBN on_IN thesdecay_NN mechanism_NN described_VBN in_IN Section_NN 2_CD ._.
+The_DT different_JJ combinations_NNS of_IN items_NNS that_WDT appear_VBP in_IN each_DT transaction_NN are_VBP maintained_VBN in_IN a_DT prefix-tree_JJ lattice_NN structure_NN =_JJ -_: =[_NN 7,8_CD -RRB-_-RRB- -_: =_SYM -_: called_VBD as_IN a_DT monitoring_NN lattice_NN ._.
+A_DT node_NN in_IN a_DT monitoring_NN lattice_NN contains_VBZ an_DT item_NN and_CC it_PRP denotes_VBZ an_DT itemset_NN composed_VBN of_IN items_NNS that_WDT are_VBP in_IN the_DT nodes_NNS of_IN its_PRP$ path_NN from_IN the_DT root_NN ._.
+3.1_CD Count_NN Estimation_NN of_IN an_DT

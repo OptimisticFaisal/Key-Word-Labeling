@@ -1,0 +1,5 @@
+and_CC the_DT experimental_JJ results_NNS ._.
+2.2_CD Literature_NNP Review_NNP Although_IN the_DT importance_NN of_IN a_DT Web_NN page_NN is_VBZ determined_VBN by_IN either_CC the_DT textual_JJ content_NN of_IN pages_NNS or_CC the_DT hyperlink_NN structure_NN or_CC both_DT ._.
+As_IN in_IN previous_JJ work_NN =_JJ -_: =[_NN 11_CD ,_, 16_CD ,_, 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP focus_VBP on_IN ranking_JJ methods_NNS solely_RB determined_VBN by_IN hyperlink_NN structure_NN of_IN the_DT Web_NN graph_NN ._.
+All_PDT the_DT mentioned_VBN ranking_NN algorithms_NNS are_VBP established_VBN on_IN a_DT graph_NN ._.
+For_IN our_PRP$ convenience_NN ,_, we_PRP first_RB give_VB some_DT notati_NNS

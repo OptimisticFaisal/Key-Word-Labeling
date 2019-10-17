@@ -1,0 +1,5 @@
+above_IN ._.
+A_DT complex_JJ Conditional_Expression_NN is_VBZ defined_VBN in_IN terms_NNS of_IN simple_JJ conditional_JJ expressions_NNS in_IN the_DT same_JJ way_NN as_IN it_PRP is_VBZ done_VBN in_IN SQL_NNP as_IN a_DT disjunction_NN of_IN conjunctive_JJ clauses_NNS that_WDT also_RB support_VBP negations_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP next_RB give_VBP some_DT examples_NNS of_IN the_DT basic_JJ Rule-QL_NN queries_NNS ,_, starting_VBG with_IN the_DT queries_NNS introduced_VBN in_IN Section_NN 3_CD ._.
+Query_NN 1_CD ._.
+Simple_JJ selection_NN with_IN a_DT single_JJ rulebase_NN and_CC a_DT single_JJ variable_NN :_: Find_VB rules_NNS from_IN th_DT

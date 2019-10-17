@@ -1,0 +1,4 @@
+almost_RB recovered_VBD G_NNP ∗_NNP perfectly_RB by_IN making_VBG only_RB two_CD errors_NNS ._.
+Experimental_JJ setup_NN ._.
+We_PRP consider_VBP two_CD models_NNS of_IN directed_JJ realworld_NN networks_NNS ,_, namely_RB ,_, the_DT Forest_NNP Fire_NNP model_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- and_CC the_DT Kronecker_NNP Graphs_NNP model_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: to_TO generate_VB G_NNP ∗_NNP ._.
+For_IN Kronecker_NNP graphs_NNS ,_, we_PRP consider_VBP three_CD sets_NNS of_IN parameters_NNS that_WDT produce_VBP networks_NNS with_IN a_DT very_RB different_JJ structure_NN :_: a_DT random_JJ graph_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- -LRB-_-LRB- Kronecker_NN parameter_NN matrix_NN -LRB-_-LRB- 0.5_CD ,_, 0.5_CD ;_: 0.5_CD ,_, 0.5_CD -RRB-_-RRB-

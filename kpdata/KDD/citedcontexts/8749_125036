@@ -1,0 +1,4 @@
+erstand_VB the_DT ``_`` multiple-model_JJ ''_'' system_NN as_IN a_DT whole_NN ._.
+Although_IN ROC_NN analysis_NN and_CC the_DT ROCCH_NN method_NN were_VBD specifically_RB designed_VBN for_IN classification_NN domains_NNS ,_, we_PRP have_VBP extended_VBN them_PRP to_TO activity_NN monitoring_NN domains_NNS -LRB-_-LRB- =_JJ -_: =_JJ Fawcett_NNP &_CC Provost_NNP ,_, 1999_CD -_: =--RRB-_NN ._.
+Such_JJ domains_NNS involve_VBP monitoring_VBG the_DT behavior_NN of_IN a_DT population_NN of_IN entities_NNS for_IN interesting_JJ events_NNS requiring_VBG action_NN ._.
+These_DT problems_NNS are_VBP substantially_RB different_JJ from_IN standard_JJ classification_NN because_IN tim_NN

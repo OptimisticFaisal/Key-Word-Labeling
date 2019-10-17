@@ -1,0 +1,5 @@
+te_IN concepts_NNS of_IN boosting_VBG and_CC logistic_JJ regression_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+More_RBR recently_RB ,_, they_PRP have_VBP been_VBN studied_VBN in_IN the_DT context_NN of_IN clustering_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Our_PRP$ formulation_NN has_VBZ some_DT similarities_NNS to_TO generalized_JJ linear_JJ models_NNS -LRB-_-LRB- GLMs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 21_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, there_EX are_VBP a_DT few_JJ very_RB important_JJ differences_NNS ._.
+In_IN GLMs_NNS -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, a_DT multidimensional_JJ regression_NN problem_NN of_IN the_DT form_NN dφ_NN -LRB-_-LRB- Y_NN ,_, f_FW -LRB-_-LRB- BZ_NN -RRB-_-RRB- -RRB-_-RRB- is_VBZ solved_VBN where_WRB Z_NN is_VBZ the_DT -LRB-_-LRB- known_JJ -RRB-_-RRB- input_NN variable_NN ,_, Y_NN is_VBZ the_DT -LRB-_-LRB- known_JJ -RRB-_-RRB- r_NN

@@ -1,0 +1,4 @@
+tructed_JJ cluster_NN centers_NNS found_VBN by_IN subsequence_NN clustering_NN on_IN the_DT DCT_NNP domain_NN ._.
+5_CD Experimental_JJ Results_NNS To_TO demonstrate_VB the_DT proposed_VBN rule_NN mining_NN framework_NN we_PRP used_VBD the_DT so_RB called_VBN Cylinder-Bell-Funnel_NNP data_NNS set_VBD =_JJ -_: =[_NN 18_CD ,_, 13_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP generated_VBD a_DT time_NN series_NN by_IN concatenating_VBG 90_CD instances_NNS of_IN the_DT cylinder_NN -LRB-_-LRB- C_NN -RRB-_-RRB- ,_, bell_NN -LRB-_-LRB- B_NN -RRB-_-RRB- and_CC funnel_VB -LRB-_-LRB- F_NN -RRB-_-RRB- patterns_NNS using_VBG a_DT arbitrary_JJ predefined_JJ deterministic_JJ order_NN ._.
+The_DT time_NN series_NN we_PRP constructed_VBD is_VBZ a_DT p_NN

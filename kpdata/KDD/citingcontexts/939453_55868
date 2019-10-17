@@ -1,0 +1,5 @@
+ed_VBN feature_NN is_VBZ the_DT evaluation_NN of_IN a_DT database_NN query_NN encoding_VBG a_DT predictive_JJ data_NN pattern_NN ._.
+As_IN mentioned_VBN above_JJ ,_, relational_JJ feature_NN generation_NN is_VBZ a_DT search_NN problem_NN ._.
+We_PRP use_VBP top-down_JJ search_NN of_IN refinement_NN graphs_NNS =_JJ -_: =[_NN 16_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: as_IN our_PRP$ main_JJ search_NN space_NN specification_NN method_NN ._.
+Each_DT node_NN in_IN the_DT refinement_NN graph_NN is_VBZ a_DT database_NN query_NN ._.
+The_DT search_NN starts_VBZ with_IN simpler_JJR queries_NNS about_IN learning_VBG examples_NNS and_CC progresses_VBZ by_IN refining_VBG its_PRP$ nod_NN

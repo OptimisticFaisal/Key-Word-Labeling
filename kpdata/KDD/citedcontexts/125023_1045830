@@ -1,0 +1,5 @@
+classifier_NN ._.
+One_CD point_NN in_IN a_DT ROC_NN diagram_NN dominates_VBZ another_DT if_IN it_PRP is_VBZ above_JJ and_CC to_TO the_DT left_NN ._.
+If_IN point_NN A_NN dominates_VBZ point_NN B_NN ,_, A_NN outperforms_VBZ B_NN for_IN all_DT possible_JJ class_NN distributions_NNS and_CC misclassification_NN costs_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Some_DT classifiers_NNS ,_, such_JJ as_IN the_DT Naïve_NNP Bayes_NNP classifier_NN or_CC some_DT Neural_NNP Networks_NNP ,_, yield_VBP a_DT score_NN that_WDT represents_VBZ the_DT degree_NN to_TO which_WDT an_DT instance_NN is_VBZ a_DT member_NN of_IN a_DT class_NN ._.
+Such_JJ ranking_NN can_MD be_VB used_VBN to_TO produc_VB

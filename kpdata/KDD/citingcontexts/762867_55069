@@ -1,0 +1,4 @@
+lidation_NN ,_, etc._NN ._.
+Much_JJ of_IN the_DT work_NN has_VBZ focused_VBN on_IN traditional_JJ attribute-based_JJ entity_NN resolution_NN ._.
+Extensive_JJ research_NN has_VBZ been_VBN done_VBN on_IN defining_VBG approximate_JJ string_NN similarity_NN measures_NNS -LRB-_-LRB- Monge_NNP &_CC Elkan_NNP ,_, 1996_CD ;_: =_JJ -_: =_JJ Navarro_NNP ,_, 2001_CD -_: =_JJ -_: ;_: Bilenko_NNP et_FW al._FW ,_, 2003_CD ;_: Chaudhuri_NNP ,_, Ganjam_NNP ,_, Ganti_NNP ,_, &_CC Motwani_NNP ,_, 2003_CD -RRB-_-RRB- that_WDT may_MD be_VB used_VBN for_IN unsupervised_JJ entity_NN resolution_NN ._.
+The_DT other_JJ approach_NN uses_VBZ adaptive_JJ supervised_JJ algorithms_NNS that_WDT learn_VBP similarity_NN mea_NN

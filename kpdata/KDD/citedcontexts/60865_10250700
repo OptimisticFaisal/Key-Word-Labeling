@@ -1,0 +1,4 @@
+ns_IN we_PRP examined_VBD and_CC submitted_VBD to_TO the_DT WMT2008_NN Shared_JJ Evaluation_NN task_NN ._.
+In_IN the_DT scoring_VBG approach_NN ,_, f_FW is_VBZ trained_VBN using_VBG RegressionSVM_NN -LRB-_-LRB- Drucker_NN and_CC others_NNS ,_, 1996_CD -RRB-_-RRB- ;_: in_IN the_DT ranking_JJ approach_NN ,_, we_PRP examined_VBD RankSVM_NN -LRB-_-LRB- =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =--RRB-_NN and_CC RankBoost_NN -LRB-_-LRB- Freund_NN et_FW al._FW ,_, 2003_CD -RRB-_-RRB- ._.
+We_PRP used_VBD only_RB linear_JJ kernels_NNS for_IN RegressionSVM_NN and_CC RankSVM_NN ,_, while_IN allowed_VBN RankBoost_NN to_TO produce_VB non-linear_JJ f_FW based_VBN on_IN a_DT feature_NN thresholds_NNS ._.
+2_CD Here_RB we_PRP assume_VBP single_JJ

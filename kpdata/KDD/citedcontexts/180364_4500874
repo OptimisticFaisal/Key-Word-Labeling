@@ -1,0 +1,4 @@
+e_LS desirable_JJ ._.
+The_DT non-Euclidean_JJ distance_NN measures_NNS such_JJ as_IN Dynamic_NNP Time_NNP Warping_NNP -LRB-_-LRB- DTW_NNP -RRB-_-RRB- and_CC Longest_NNP Common_NNP Subsequence_NNP -LRB-_-LRB- LCS_NNP -RRB-_-RRB- address_NN some_DT of_IN the_DT problems_NNS that_WDT are_VBP characteristic_JJ of_IN the_DT Euclidean_JJ distance_NN =_JJ -_: =[_NN 8_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT work_NN ,_, we_PRP propose_VBP an_DT efficient_JJ index_NN searching_VBG framework_NN for_IN subsequence_NN matching_NN using_VBG LCS_NN ._.
+We_PRP choose_VBP LCS_NNP because_IN it_PRP is_VBZ known_VBN to_TO be_VB more_RBR robust_JJ against_IN the_DT noise_NN in_IN the_DT data_NNS than_IN DTW_NN -LRB-_-LRB- 11,12_CD -RRB-_-RRB-

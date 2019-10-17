@@ -1,0 +1,3 @@
+UPGMA_NN -LRB-_-LRB- 35_CD -RRB-_-RRB- and_CC partitioning_VBG based_VBN algorithms_NNS such_JJ as_IN bisecting_VBG k-means_NN -LRB-_-LRB- 35_CD -RRB-_-RRB- ._.
+Additionally_RB ,_, a_DT number_NN of_IN pattern-based_JJ hierarchical_JJ clustering_NN algorithms_NNS have_VBP achieved_VBN success_NN on_IN a_DT variety_NN of_IN datasets_NNS =_JJ -_: =[_NN 3_CD ,_, 10_CD ,_, 18_CD ,_, 31_CD ,_, 33_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Traditional_JJ agglomerative_JJ and_CC partitioning-based_JJ hierarchical_JJ clustering_NN algorithms_NNS merge_VBP exactly_RB two_CD nodes_NNS at_IN each_DT step_NN ,_, which_WDT may_MD result_VB in_IN a_DT ``_`` mechanical_JJ looking_VBG ''_'' hierarchy_NN that_WDT may_MD not_RB resemble_VB h_NN

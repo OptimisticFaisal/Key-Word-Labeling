@@ -1,0 +1,4 @@
+er_IN detection_NN in_IN data_NNS without_IN considering_VBG contexts_NNS is_VBZ called_VBN global_JJ outlier_NN detection_NN ._.
+Existing_VBG methods_NNS detect_VBP anomalies_NNS based_VBN on_IN how_WRB far_RB their_PRP$ distances_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, densities_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, statistical_JJ distributions_NNS =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: deviate_VB from_IN the_DT rest_NN of_IN the_DT data_NNS ._.
+The_DT proposed_VBN model_NN shares_VBZ some_DT common_JJ properties_NNS with_IN existing_VBG methods_NNS ._.
+For_IN example_NN ,_, we_PRP assume_VBP that_IN outliers_NNS are_VBP far_RB from_IN any_DT clusters_NNS and_CC are_VBP uniformly_RB distributed_VBN

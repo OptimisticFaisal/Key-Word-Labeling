@@ -1,0 +1,6 @@
+is_VBZ totally_RB supervised_JJ ,_, important_JJ information_NN can_MD be_VB omitted_VBN or_CC ignored_VBN ._.
+Consequently_RB ,_, learning_VBG approaches_NNS which_WDT use_VBP both_DT labeled_JJ and_CC unlabeled_JJ data_NNS have_VBP recently_RB attracted_VBN the_DT interest_NN of_IN researchers_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Typically_RB ,_, data_NNS are_VBP correlated_VBN ._.
+In_IN order_NN to_TO recognize_VB clusters_NNS ,_, a_DT distance_NN function_NN should_MD reflect_VB such_JJ correlations_NNS ._.
+In_IN addition_NN ,_, different_JJ attributes_NNS may_MD have_VB different_JJ degree_NN of_IN relevance_NN ._.
+Consid_NNP

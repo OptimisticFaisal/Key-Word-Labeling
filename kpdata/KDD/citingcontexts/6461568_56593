@@ -1,0 +1,4 @@
+ve_IN 22.6_CD %_NN 20.1_CD %_NN 19.8_CD %_NN Flags_NNS 40.4_CD %_NN 37.6_CD %_NN 37.2_CD %_NN Soyabean_NNP 44.5_CD %_NN 40.6_CD %_NN 41.3_CD %_NN 5_CD ._.
+WHY_WRB THE_DT APPROACH_NN WORKS_VBZ The_DT error_NN of_IN a_DT mining_NN tool_NN can_MD be_VB decomposed_VBN into_IN three_CD components_NNS :_: a_LS -RRB-_-RRB- noise_NN ,_, b_NN -RRB-_-RRB- bias_NN and_CC c_NN -RRB-_-RRB- variance_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN our_PRP$ approach_NN outperforms_VBZ the_DT other_JJ approaches_NNS ,_, then_RB it_PRP must_MD be_VB better_JJR at_IN reducing_VBG one_CD of_IN these_DT three_CD components_NNS ._.
+797_CD Industry\/Government_NNP Track_NNP Poster_NNP The_DT inherent_JJ noise_NN in_IN a_DT problem_NN reflects_VBZ the_DT

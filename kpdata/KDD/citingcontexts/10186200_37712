@@ -1,0 +1,5 @@
+can_MD be_VB reached_VBN in_IN a_DT finite_JJ number_NN of_IN steps_NNS from_IN any_DT potential_JJ initial_JJ node_NN ,_, hence_RB this_DT assumption_NN does_VBZ not_RB restrict_VB the_DT applicability_NN of_IN the_DT model_NN severely_RB ._.
+For_IN a_DT rigorous_JJ treatment_NN ,_, see_VBP for_IN instance_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Let_NNP R_NNP be_VB the_DT set_NN of_IN all_DT paths_NNS -LRB-_-LRB- including_VBG cycles_NNS -RRB-_-RRB- from_IN node_NN i_FW to_TO node_NN j_NN in_IN the_DT modified_VBN graph_NN -LRB-_-LRB- with_IN node_NN j_NN absorbing_VBG -RRB-_-RRB- ._.
+R_NN is_VBZ generally_RB an_DT infinite_JJ -LRB-_-LRB- but_CC countable_JJ -RRB-_-RRB- set_NN ._.
+We_PRP define_VBP a_DT probability_NN distribu_NN

@@ -1,0 +1,5 @@
+CA_NNP or_CC ICA_NNP is_VBZ computationally_RB expensive_JJ ._.
+Theoretical_JJ insights_NNS suggest_VBP that_IN Random_JJ Mapping_NN -LRB-_-LRB- RM_NN -RRB-_-RRB- is_VBZ a_DT promising_JJ alternative_NN since_IN it_PRP requires_VBZ much_RB less_JJR computation_NN ._.
+Empirical_JJ results_NNS for_IN text_NN clustering_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: indicate_VBP that_IN PCA_NNP and_CC ICA_NNP outperform_JJ RM_NN ._.
+However_RB ,_, the_DT significantly_RB lower_JJR computational_JJ costs_NNS make_VBP RM_NN an_DT attractive_JJ possibility_NN and_CC worth_JJ exploring_VBG in_IN other_JJ scenarios_NNS ._.
+No_DT direct_JJ comparison_NN between_IN RM_NN

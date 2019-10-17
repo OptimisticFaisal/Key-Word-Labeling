@@ -1,0 +1,4 @@
+lly_RB detect_VB web_NN application_NN vulnerabilities_NNS through_IN static_JJ analysis_NN ._.
+Pixy_NNP is_VBZ able_JJ to_TO identify_VB flaws_NNS that_WDT lead_VBP to_TO SQL_NN injection_NN ,_, cross-site_JJ scripting_NN ,_, or_CC command_NN injection_NN vulnerabilities_NNS ._.
+Huang_NNP et_FW al._FW =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: also_RB perform_VB static_JJ source_NN code_NN analysis_NN to_TO automatically_RB add_VB runtime_NN protection_NN mechanisms_NNS to_TO web_NN applications_NNS ._.
+Similarly_RB ,_, Wassermann_NNP et_FW al._FW -LRB-_-LRB- 37_CD -RRB-_-RRB- propose_VBP a_DT static_JJ string_NN analysis-based_JJ approach_NN to_TO a_DT

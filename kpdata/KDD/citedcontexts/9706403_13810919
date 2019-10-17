@@ -1,0 +1,4 @@
+n_NN be_VB stored_VBN permanently_RB -_: they_PRP are_VBP observed_VBN and_CC then_RB forgotten_VBN ._.
+Many_JJ incremental_JJ learners_NNS and_CC stream_NN mining_NN algorithms_NNS have_VBP been_VBN proposed_VBN in_IN the_DT last_JJ years_NNS ,_, accompanied_VBN by_IN methods_NNS for_IN evaluating_VBG them_PRP =_JJ -_: =[_NN 3_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, modern_JJ applications_NNS ask_VB for_IN more_RBR sophisticated_JJ stream_NN learners_NNS than_IN can_MD currently_RB be_VB evaluated_VBN on_IN synthetically_RB generated_VBN data_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP propose_VBP a_DT generator_NN for_IN complex_JJ stream_NN data_NNS

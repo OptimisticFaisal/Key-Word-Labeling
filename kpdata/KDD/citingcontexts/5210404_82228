@@ -1,0 +1,4 @@
+marized_VBN in_IN the_DT increasing_VBG order_NN of_IN i._NNP This_NNP model_NN is_VBZ often_RB referred_VBN to_TO as_IN the_DT aggregated_JJ model_NN and_CC has_VBZ been_VBN used_VBN widely_RB -LRB-_-LRB- 12_CD ,_, 7_CD ,_, 10_CD -RRB-_-RRB- ._.
+This_DT model_NN is_VBZ specially_RB suited_VBN to_TO model_VB streams_NNS of_IN time_NN series_NN data_NN =_JJ -_: =[_NN 15_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN noted_VBN before_RB ,_, our_PRP$ algorithms_NNS will_MD not_RB depend_VB on_IN M_NN ,_, but_CC the_DT approximation_NN guarantee_NN of_IN the_DT streaming_NN algorithm_NN will_MD depend_VB on_IN this_DT parameter_NN ._.
+This_DT is_VBZ not_RB a_DT very_RB restrictive_JJ assumption_NN ,_, if_IN stock_NN pr_NN

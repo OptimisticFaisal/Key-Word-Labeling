@@ -1,0 +1,4 @@
+HilOut_NNP Algorithm_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+By_IN this_DT definition_NN the_DT outlier_NN score_NN of_IN a_DT point_NN is_VBZ its_PRP$ average_JJ distance_NN to_TO its_PRP$ m_NN nearest_IN neighbors_NNS ._.
+A_DT distributed_VBN version_NN of_IN the_DT HilOut_NNP algorithm_NN can_MD be_VB found_VBN in_IN the_DT literature_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN the_DT context_NN of_IN Wireless_NNP Sensor_NNP Networks_NNP -LRB-_-LRB- WSN_NNP -RRB-_-RRB- ._.
+Grid_NNP systems_NNS ,_, however_RB ,_, are_VBP different_JJ from_IN WSNs_NNS in_IN that_IN the_DT main_JJ challenge_NN they_PRP pose_VBP is_VBZ not_RB reducing_VBG messaging_NN but_CC rather_RB addressing_VBG the_DT limited_JJ avai_NN

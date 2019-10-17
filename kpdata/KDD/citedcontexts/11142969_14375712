@@ -1,0 +1,4 @@
+ssions_NNS described_VBN in_IN text_NN ._.
+Most_JJS of_IN those_DT approaches_NNS -LRB-_-LRB- 25_CD ,_, 27_CD ,_, 21_CD ,_, 8_CD ,_, 39_CD ,_, 41_CD -RRB-_-RRB- learn_VBP classifiers_NNS that_WDT predict_VBP a_DT temporal_JJ order_NN of_IN a_DT pair_NN of_IN events_NNS based_VBN on_IN predefined_JJ pair_NN 's_POS features_NNS ._.
+Shahaf_NN and_CC Guestrin_NN =_JJ -_: =[_NN 35_CD -RRB-_-RRB- -_: =_SYM -_: essentially_RB detect_VB a_DT whole_JJ causality_NN chain_NN --_: given_VBN two_CD news_NN articles_NNS ,_, they_PRP provide_VBP a_DT coherent_JJ small_JJ number_NN of_IN news_NN items_NNS connecting_VBG them_PRP ._.
+Similarly_RB ,_, some_DT works_NNS in_IN topic_NN tracking_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, try_VBP to_TO identify_VB

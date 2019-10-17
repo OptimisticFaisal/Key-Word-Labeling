@@ -1,0 +1,5 @@
+ment_NN task_NN ._.
+Suppose_VB the_DT user_NN asked_VBD to_TO replace_VB an_DT article_NN di_FW ;_: if_IN there_EX are_VBP many_JJ articles_NNS similar_JJ to_TO di_FW ,_, local_JJ search_NN is_VBZ likely_JJ to_TO return_VB one_CD of_IN them_PRP ._.
+We_PRP can_MD implement_VB a_DT mechanism_NN similar_JJ to_TO our_PRP$ work_NN in_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: to_TO find_VB words_NNS which_WDT might_MD be_VB attributed_VBN for_IN the_DT user_NN 's_POS dislike_NN of_IN di_FW ,_, and_CC decrease_VB their_PRP$ importance_NN ._.
+This_DT way_NN ,_, the_DT replacement_NN article_NN will_MD not_RB be_VB similar_JJ ._.
+5.1_CD Evaluation_NN We_PRP conducted_VBD another_DT user_NN st_IN

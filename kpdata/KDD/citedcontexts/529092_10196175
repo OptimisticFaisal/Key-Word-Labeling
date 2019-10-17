@@ -1,0 +1,4 @@
+nteed_VBD that_IN the_DT error_NN ,_, measured_VBN as_IN d_NN q_NN ,_, ñn_NN 1_CD -RRB-_-RRB- X_NN -LRB-_-LRB- q_NN -RRB-_-RRB- \/_: d_NN -LRB-_-LRB- q_NN ,_, nn1_NN X_NN -LRB-_-LRB- q_NN -RRB-_-RRB- -RRB-_-RRB- −_NN 1_CD ,_, can_MD not_RB exceed_VB ɛ_NN ,_, thus_RB both_DT techniques_NNS belong_VBP to_TO class_NN DG_NNS ._.
+Example_NN 10_CD ._.
+DBIN_NNP is_VBZ a_DT 2-levels_JJ index_NN for_IN solving_VBG the_DT k-NN_NN problem_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT method_NN assumes_VBZ that_IN the_DT data_NNS set_NN is_VBZ composed_VBN of_IN K_NN clusters_NNS ,_, and_CC that_IN distribution_NN of_IN objects_NNS within_IN each_DT cluster_NN can_MD be_VB modeled_VBN by_IN way_NN of_IN a_DT Gaussian_JJ distribution_NN ,_, parameterized_VBN by_IN a_DT mean_NN vector_NN

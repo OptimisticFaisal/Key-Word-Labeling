@@ -1,0 +1,3 @@
+lationship_NN between_IN terms_NNS ,_, which_WDT has_VBZ wide_JJ applications_NNS in_IN natural_JJ language_NN processing_NN and_CC web_NN search_NN ,_, has_VBZ been_VBN a_DT hot_JJ topic_NN nowadays_RB ._.
+This_DT paper_NN focuses_VBZ on_IN corpus-based_JJ semantic_JJ class_NN mining_NN -LRB-_-LRB- Lin_NNP 1998_CD ;_: =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP 2002_CD -_: =_JJ -_: ;_: Pasca_NNP 2004_CD ;_: Shinzato_NNP and_CC Torisawa_NNP ,_, 2005_CD ;_: Ohshima_NNP ,_, et_FW al._FW ,_, 2006_CD ;_: Zhang_NNP et_FW al._FW ,_, 2009_CD -RRB-_-RRB- ,_, where_WRB peer_VBP terms_NNS -LRB-_-LRB- or_CC coordinate_JJ terms_NNS -RRB-_-RRB- are_VBP discovered_VBN from_IN a_DT corpus_NN ._.
+Existing_VBG approaches_NNS to_TO semantic_JJ class_NN mining_NN

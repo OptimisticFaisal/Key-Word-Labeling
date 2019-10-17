@@ -1,0 +1,4 @@
+world_NN industrial_JJ implications_NNS ,_, rather_RB than_IN just_RB academic_JJ interest_NN ._.
+Our_PRP$ focus_NN is_VBZ only_RB on_IN the_DT ML_NN component_NN of_IN this_DT application_NN ._.
+We_PRP do_VBP not_RB discuss_VB the_DT full_JJ application_NN further_RBR in_IN this_DT paper_NN ;_: see_VB -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: for_IN details_NNS ._.
+2.1_CD Data_NNP Sets_NNP in_IN the_DT Problem_NNP Domain_NN In_IN general_JJ ,_, data_NNS sets_NNS used_VBN in_IN ML_NN -LRB-_-LRB- both_CC ranking_NN and_CC classification_NN -RRB-_-RRB- consist_VBP of_IN a_DT collection_NN of_IN examples_NNS ,_, each_DT of_IN which_WDT has_VBZ a_DT number_NN of_IN attribute_NN values_NNS

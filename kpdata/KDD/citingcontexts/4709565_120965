@@ -1,0 +1,5 @@
+Y_NN |_CD Z_NN -RRB-_-RRB- I_NN -LRB-_-LRB- X_NN ;_: Y_NN -RRB-_-RRB- |_FW mininfo_FW To_TO identify_VB X_NN ,_, we_PRP first_JJ construct_NN a_DT k-nearest_NN neighbor_NN graph_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- for_IN each_DT object_NN and_CC find_VB its_PRP$ first_JJ k_NN nearest_IN neighbors_NNS ._.
+Then_RB we_PRP use_VBP a_DT reverse_JJ k-nearest_NN neighbor_NN graph_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: corresponding_VBG to_TO x_NN 0_CD ,_, where_WRB k_NN =_JJ 1_CD ._.
+Therefore_RB ,_, for_IN x_NN i_FW X_NN ,_, x0_NN is_VBZ its_PRP$ nearest_JJS neighbor_NN ._.
+This_DT can_MD reduce_VB the_DT quantity_NN of_IN objects_NNS in_IN X_NN and_CC decrease_VB the_DT algorithm_NN complexity_NN ._.
+In_IN addition_NN ,_, it_PRP can_MD obtain_VB

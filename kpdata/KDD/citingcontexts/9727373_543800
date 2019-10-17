@@ -1,0 +1,6 @@
+dynamic_JJ programming_NN technique_NN for_IN the_DT efficient_JJ computation_NN of_IN frequent_JJ itemsets_NNS in_IN a_DT probabilistic_JJ way_NN ._.
+3_LS ._.
+PROBABILISTIC_JJ FREQUENT_JJ ITEMSETS_NNS Recall_VBP that_IN previous_JJ work_NN was_VBD based_VBN on_IN the_DT expected_VBN support_NN =_JJ -_: =[_NN 5_CD ,_, 6_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Definition_NN 5_CD ._.
+Given_VBN an_DT uncertain_JJ transaction_NN database_NN T_NN ,_, the_DT expected_VBN support_NN E_NN -LRB-_-LRB- X_NN -RRB-_-RRB- of_IN an_DT itemset_NN X_NN is_VBZ defined_VBN as_IN E_NN -LRB-_-LRB- X_NN -RRB-_-RRB- =_JJ ∑_CD t_NN ∈_CD T_NN P_NN -LRB-_-LRB- X_NN ⊆_CD t_NN -RRB-_-RRB- ._.
+Considering_VBG an_DT itemset_NN frequent_JJ if_IN its_PRP$ expected_VBN support_NN is_VBZ ab_IN

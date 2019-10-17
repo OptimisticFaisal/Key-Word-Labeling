@@ -1,0 +1,3 @@
+t_NN BM25_NN is_VBZ also_RB an_DT S-function_NN ._.
+Click-through_JJ data_NNS ,_, which_WDT records_VBZ the_DT URLs_NNS clicked_VBN by_IN users_NNS after_IN their_PRP$ query_NN submissions_NNS at_IN a_DT search_NN engine_NN ,_, has_VBZ been_VBN widely_RB used_VBN in_IN web_NN search_NN -LRB-_-LRB- Agichtein_NNP et_FW al._FW ,_, 2006_CD ;_: =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =_JJ -_: ;_: Craswell_NNP and_CC Szummer_NNP ,_, 2007_CD -RRB-_-RRB- ._.
+For_IN example_NN ,_, click-through_JJ data_NNS has_VBZ been_VBN used_VBN in_IN the_DT training_NN of_IN a_DT Ranking_NNP SVM_NNP model_NN ,_, in_IN which_WDT preference_NN pairs_NNS on_IN documents_NNS given_VBN queries_NNS are_VBP derived_VBN from_IN click-through_JJ

@@ -1,0 +1,4 @@
+difficult_JJ cases_NNS ,_, since_IN an_DT arbitrary_JJ number_NN of_IN difficult_JJ cases_NNS may_MD arrive_VB one_CD after_IN another_DT ._.
+Another_DT approach_NN in_IN dealing_VBG with_IN dynamic_JJ closest_JJS pair_NN maintenance_NN is_VBZ commonly_RB known_VBN as_IN the_DT ``_`` lazy_JJ approach_NN ''_'' =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB the_DT data_NN structure_NN is_VBZ not_RB updated_VBN until_IN the_DT closest_JJS pair_NN changes_NNS ._.
+In_IN a_DT streaming_NN scenario_NN we_PRP are_VBP interested_JJ in_IN ,_, this_DT idea_NN reduces_VBZ the_DT amortized_JJ time_NN costs_NNS ,_, but_CC does_VBZ not_RB allow_VB us_PRP to_TO tightly_RB boun_VB

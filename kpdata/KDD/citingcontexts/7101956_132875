@@ -1,0 +1,4 @@
+k_NN the_DT parameter_NN estimate_NN towards_IN a_DT null_JJ value_NN ,_, often_RB zero_CD ._.
+Shrinkage_NN is_VBZ a_DT more_RBR continuous_JJ alternative_NN to_TO parameter_NN selection_NN ,_, and_CC as_IN implemented_VBN in_IN statistical_JJ methods_NNS like_IN ridge_NN and_CC lasso_NN regression_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ been_VBN shown_VBN in_IN many_JJ cases_NNS to_TO improve_VB predictive_JJ accuracy_NN ._.
+We_PRP can_MD approach_VB shrinkage_NN from_IN a_DT Bayesian_JJ perspective_NN ._.
+In_IN the_DT typical_JJ Bayesian_JJ paradigm_NN ,_, the_DT best_JJS estimator_NN of_IN a_DT parameter_NN is_VBZ the_DT posterio_NN

@@ -1,0 +1,3 @@
+us_PRP can_MD exploit_VB directly_RB the_DT ternary_JJ relationship_NN in_IN tagging_VBG data_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+We_PRP will_MD show_VB that_IN other_JJ learning_VBG methods_NNS for_IN tensor_NN factorization_NN proposed_VBN by_IN now_RB --_: like_IN HOSVD_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- or_CC other_JJ least_JJS square_JJ methods_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: --_: are_VBP not_RB optimal_JJ for_IN learning_VBG a_DT TF_NN model_NN for_IN tag_NN recommendation_NN ._.
+We_PRP will_MD discuss_VB this_DT in_IN detail_NN and_CC propose_VBP a_DT new_JJ optimization_NN criterion_NN and_CC learning_NN algorithm_NN that_WDT directly_RB optimizes_VBZ a_DT TF_NN model_NN for_IN

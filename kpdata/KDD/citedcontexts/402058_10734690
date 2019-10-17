@@ -1,0 +1,4 @@
+cores_NNS ;_: thus_RB ,_, they_PRP can_MD sort_VB the_DT points_NNS according_VBG to_TO their_PRP$ ``_`` strangeness_NN ''_'' ._.
+Many_JJ other_JJ density-based_JJ methods_NNS are_VBP proposed_VBN in_IN -LRB-_-LRB- 13_CD ,_, 1_CD ,_, 4_CD ,_, 18_CD ,_, 26_CD ,_, 33_CD ,_, 21_CD -RRB-_-RRB- ._.
+2.2_CD Anomaly_NNP Detection_NN in_IN Graph_NNP Data_NNP Noble_NNP and_CC Cook_NNP =_SYM -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: detect_VB anomalous_JJ sub-graphs_NNS using_VBG variants_NNS of_IN the_DT Minimum_NNP Description_NN Length_NN -LRB-_-LRB- MDL_NN -RRB-_-RRB- principle_NN ._.
+Eberle_NNP and_CC Holder_NNP -LRB-_-LRB- 17_CD -RRB-_-RRB- also_RB use_VBP the_DT MDL_NNP principle_NN as_RB well_RB as_IN other_JJ probabilistic_JJ measures_NNS to_TO detect_VB sever_VB

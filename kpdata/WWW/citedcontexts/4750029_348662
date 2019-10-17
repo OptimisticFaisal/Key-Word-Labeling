@@ -1,0 +1,4 @@
+ighted_VBN aggregate_NN of_IN the_DT local_JJ PageRank_NN vectors_NNS as_IN the_DT starting_VBG vector_NN ._.
+The_DT BlockRank_NNP algorithm_NN produced_VBD a_DT speedup_NN of_IN a_DT factor_NN of_IN 2_CD on_IN some_DT of_IN their_PRP$ datasets_NNS ._.
+More_RBR recent_JJ ,_, but_CC very_RB related_JJ ,_, algorithms_NNS =_JJ -_: =[_NN 29_CD ,_, 83_CD -RRB-_-RRB- -_: =_SYM -_: use_VB similar_JJ aggregation_NN techniques_NNS to_TO exploit_VB the_DT Web_NN 's_POS inherent_JJ power_NN law_NN structure_NN to_TO speed_VB ranking_JJ computations_NNS ._.
+Yet_RB another_DT group_NN of_IN researchers_NNS from_IN Stanford_NNP ,_, joined_VBN by_IN IBM_NNP scientists_NNS ,_, dropped_VBD t_NN

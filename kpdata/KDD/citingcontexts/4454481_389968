@@ -1,0 +1,5 @@
+that_IN if_IN the_DT words_NNS in_IN an_DT ngram_NN tend_VB to_TO co-occur_JJ with_IN each_DT other_JJ ,_, the_DT ngram_NN is_VBZ more_RBR likely_JJ to_TO be_VB an_DT n-word_NN phrase_NN ._.
+There_EX are_VBP many_JJ methods_NNS for_IN testing_NN whether_IN an_DT ngram_NN is_VBZ a_DT meaningful_JJ collocation\/phrase_NN =_JJ -_: =[_NN 7_CD ,_, 26_CD ,_, 1_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Some_DT methods_NNS rely_VBP on_IN statistical_JJ measures_NNS such_JJ as_IN mutual_JJ information_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Others_NNS rely_VBP on_IN hypothesis_NN testing_NN techniques_NNS ._.
+The_DT null_JJ hypothesis_NN usually_RB assumes_VBZ that_IN ``_`` the_DT words_NNS in_IN an_DT ngram_NN are_VBP independen_VBN

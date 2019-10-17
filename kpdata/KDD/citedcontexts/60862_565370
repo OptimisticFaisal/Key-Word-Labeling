@@ -1,0 +1,4 @@
+nd_FW σ_FW is_VBZ a_DT common_JJ constant_JJ standard_JJ deviation_NN ._.
+Based_VBN on_IN this_DT model_NN ,_, the_DT probability_NN that_IN object_NN xa_NN precedes_VBZ the_DT xb_NN is_VBZ Pr_NN -LRB-_-LRB- x_NN a_FW ≻_FW x_NN b_NN ∞_CD t_NN t_NN −_FW µa_FW u_FW −_FW µb_FW -RRB-_-RRB- =_JJ φ_NN -LRB-_-LRB- -RRB-_-RRB- φ_NN -LRB-_-LRB- -RRB-_-RRB- du_NNP dt_NNP −_NNP ∞_NNP σ_NN −_NN =_JJ -_: =_JJ ∞_FW σ_FW µa_FW −_FW µb_FW =_JJ Φ_NN √_NN ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- 2σ_NN where_WRB φ_NN -LRB-_-LRB- ·_NN -RRB-_-RRB- is_VBZ a_DT norm_NN -_: =_JJ -_: al_FW distribution_NN density_NN function_NN ,_, and_CC Φ_NN -LRB-_-LRB- ·_NN -RRB-_-RRB- is_VBZ a_DT normal_JJ distribution_NN function_NN ._.
+Accordingly_RB ,_, µa_FW −_FW µb_FW =_JJ √_FW 2σΦ_FW −_FW 1_CD Pr_NN -LRB-_-LRB- x_NN a_DT ≻_FW y_FW b_NN -RRB-_-RRB- ._.
+The_DT µa_NN is_VBZ rescaled_VBN into_IN ¯_FW µa_FW by_IN dividing_VBG √_FW 2σ_FW ,_, a_DT

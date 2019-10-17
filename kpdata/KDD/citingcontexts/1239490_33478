@@ -1,0 +1,4 @@
+ch_NN round_NN ,_, AdaBoost_NNP increases_VBZ the_DT weight_NN of_IN a_DT wrongly_RB classified_VBN training_NN instance_NN and_CC decreases_VBZ that_DT of_IN a_DT correctly_RB predicted_VBN instance_NN ._.
+AdaBoost_NNP has_VBZ received_VBN extensive_JJ theoretical_JJ and_CC empirical_JJ study_NN =_JJ -_: =[_NN 12_CD ,_, 15_CD ,_, 19_CD ,_, 20_CD ,_, 16_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Freund_NNP and_CC Schapire_NNP -LRB-_-LRB- alternatively_RB Schapire_NNP ,_, et_NNP al_NNP -LRB-_-LRB- 20_CD -RRB-_-RRB- -RRB-_-RRB- have_VBP shown_VBN an_DT upper_JJ bound_VBN on_IN AdaBoost_NNP 's_POS generalization_NN error_NN ._.
+Breiman_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, Friedman_NNP ,_, Hastie_NNP and_CC Tibshirani_NNP -LRB-_-LRB- 13_CD -RRB-_-RRB- explain_VBP boosting_VBG from_IN a_DT stati_NN

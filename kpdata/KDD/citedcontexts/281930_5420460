@@ -1,0 +1,5 @@
+ive_NN is_VBZ to_TO use_VB the_DT greatest_JJS average_JJ distance_NN to_TO the_DT k_NN nearest_IN neighbors_NNS ._.
+The_DT drawback_NN of_IN this_DT alternative_NN is_VBZ that_IN it_PRP takes_VBZ longer_RB calculate_VBP ._.
+In_IN this_DT paper_NN a_DT variant_NN of_IN one_NN recently_RB developed_VBD algorithm_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: for_IN distance-based_JJ outlier_NN detection_NN has_VBZ been_VBN used_VBN ._.
+Bay_NNP 's_POS Algorithm_NNP ._.
+TABLE_NN III_CD OUTLIERS_NNS IN_IN THE_DT IRIS_NNP DATASET_NNP ACCORDING_NNP TO_TO THE_DT PAM_NNS ALGORITHM_NNP Instance_NNP Class_NNP Separation_NNP 42_CD 1_CD 0.6244998_CD 58_CD 2_CD 0.6480741_CD 61_CD 2_CD

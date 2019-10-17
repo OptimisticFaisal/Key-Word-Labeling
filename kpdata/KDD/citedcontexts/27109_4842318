@@ -1,0 +1,4 @@
+uster_NN ._.
+Let_VB T_NN and_CC C_NN denote_VBP the_DT random_JJ variables_NNS corresponding_VBG to_TO the_DT true_JJ class_NN and_CC the_DT cluster_NN label_NN ,_, respectively_RB ._.
+The_DT two_CD entropy-based_JJ measures_NNS are_VBP defined_VBN as_IN H_NN -LRB-_-LRB- T_NN -RRB-_-RRB- +_CC H_NN -LRB-_-LRB- C_NN -RRB-_-RRB- −_NN H_NN -LRB-_-LRB- T_NN ,_, C_NN -RRB-_-RRB- NMI_NN =_JJ H_NN -LRB-_-LRB- T_NN -RRB-_-RRB- H_NN -LRB-_-LRB- C_NN -RRB-_-RRB- =_JJ -_: =-LRB-_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: CE_NN =_JJ H_NN -LRB-_-LRB- T_NN |_NN C_NN -RRB-_-RRB- =_JJ H_NN -LRB-_-LRB- T_NN ,_, C_NN -RRB-_-RRB- −_NN H_NN -LRB-_-LRB- C_NN -RRB-_-RRB- -LRB-_-LRB- 4_CD -RRB-_-RRB- where_WRB H_NN -LRB-_-LRB- X_NN -RRB-_-RRB- denotes_VBZ the_DT entropy_NN of_IN X_NN and_CC log2_NN is_VBZ used_VBN here_RB in_IN computing_NN entropy_NN ._.
+NMI_NNP measures_VBZ the_DT shared_JJ information_NN between_IN T_NN and_CC C_NN and_CC it_PRP reaches_VBZ the_DT maximal_JJ value_NN of_IN

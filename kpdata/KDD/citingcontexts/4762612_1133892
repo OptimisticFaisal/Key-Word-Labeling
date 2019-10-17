@@ -1,0 +1,7 @@
+one_CD ._.
+Subsequently_RB ,_, it_PRP keeps_VBZ collecting_VBG join_VB paths_NNS with_IN one_CD more_JJR relation_NN ._.
+The_DT reason_NN for_IN this_DT is_VBZ the_DT follows_VBZ ._.
+The_DT semantic_JJ links_NNS with_IN too_RB many_JJ joins_VBZ usually_RB becomes_VBZ very_RB weak_JJ in_IN a_DT relational_JJ database_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Also_RB ,_, the_DT related_JJ entities_NNS keep_VBP decreasing_VBG when_WRB a_DT join_VBP path_NN grows_VBZ ._.
+Given_VBN the_DT complex_JJ structure_NN in_IN a_DT database_NN schema_NN ,_, the_DT length_NN of_IN a_DT join_VBP path_NN could_MD be_VB very_RB large_JJ ._.
+Therefore_RB ,_, the_DT View_NNP Construction_NNP c_NN

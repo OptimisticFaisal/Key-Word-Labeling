@@ -1,0 +1,6 @@
+6_CD %_NN clicked_VBD on_IN more_JJR than_IN one_CD ._.
+Click-through_JJ information_NN can_MD be_VB used_VBN to_TO improve_VB or_CC augment_VB search_NN engine_NN performance_NN ._.
+Beeferman_NNP and_CC Berger_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- use_VBP click-through_JJ data_NNS to_TO find_VB related_JJ queries_NNS ._.
+Cui_NNP et_FW al._FW =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: examine_VB Encarta_NNP query_NN logs_NNS for_IN query_NN expansion_NN ._.
+Joachims_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- examined_VBD query_NN logs_NNS that_WDT also_RB contained_VBD click-through_JJ data_NNS ._.
+Joachims_NNP demonstrated_VBD the_DT ability_NN to_TO learn_VB better_JJR ranking_NN functions_NNS ,_, using_VBG a_DT

@@ -1,0 +1,4 @@
+ns_NNS of_IN thousands_NNS of_IN variables_NNS ,_, e.g._FW ,_, genomic_JJ microarray_NN data_NN analysis_NN -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+Feature_NN selection_NN can_MD help_VB interpret_VB complex_JJ data_NNS and_CC reduce_VB the_DT risk_NN of_IN over-fitting_NN ._.
+Early_JJ approaches_NNS including_VBG the_DT Filter_NNP =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Wrapper_NNP -LRB-_-LRB- 10_CD -RRB-_-RRB- often_RB treat_VBP feature_NN selection_NN as_IN a_DT separate_JJ or_CC weakly_JJ correlated_JJ task_NN with_IN the_DT learning_NN ._.
+Recently_RB ,_, feature_NN selection_NN has_VBZ been_VBN viewed_VBN as_IN an_DT integrated_JJ step_NN during_IN learning_VBG within_IN the_DT

@@ -1,0 +1,3 @@
+st_IN Neighbors_NNP Classifiers_NNPS -LRB-_-LRB- CL05_NN ,_, KC04_NN -RRB-_-RRB- and_CC Linear_JJ Discriminant_JJ Analysis_NN -LRB-_-LRB- DHC04_NN -RRB-_-RRB- ._.
+A_DT cryptographically_RB private_JJ protocol_NN for_IN non-linear_JJ classification_NN with_IN the_DT feed-forward_JJ neural_JJ networks_NNS was_VBD proposed_VBN in_IN =_JJ -_: =_JJ -LRB-_-LRB- CL01_NN -RRB-_-RRB- -_: =_JJ -_: ,_, however_RB ,_, this_DT solution_NN is_VBZ too_RB resource_NN demanding_VBG to_TO be_VB practical_JJ ._.
+On_IN the_DT other_JJ hand_NN ,_, linear_JJ classifier_NN learning_NN using_VBG the_DT Perceptron_NNP algorithm_NN on_IN randomly_RB perturbed_VBN data_NNS has_VBZ led_VBN to_TO more_RBR practical_JJ me_PRP

@@ -1,0 +1,4 @@
+tion_NN by_IN negotiating_VBG their_PRP$ differences_NNS ._.
+In_IN recent_JJ years_NNS ,_, an_DT extensive_JJ body_NN of_IN work_NN has_VBZ crossed_VBN the_DT boundary_NN of_IN supervised_JJ and_CC unsupervised_JJ information_NN sources_NNS ._.
+Semi-supervised_JJ or_CC transductive_JJ learning_NN =_JJ -_: =[_NN 14_CD ,_, 27_CD ,_, 29_CD -RRB-_-RRB- -_: =_SYM -_: explores_VBZ the_DT use_NN of_IN unlabeled_JJ information_NN to_TO achieve_VB better_JJR generalization_NN on_IN the_DT unlabeled_JJ set_NN ._.
+Particularly_RB ,_, label_NN propagation_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- is_VBZ used_VBN in_IN our_PRP$ approach_NN to_TO propagate_VB information_NN over_IN the_DT belief_NN

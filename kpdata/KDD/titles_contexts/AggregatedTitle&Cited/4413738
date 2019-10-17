@@ -1,0 +1,14 @@
+Using_VBG structure_NN indices_NNS for_IN efficient_JJ approximation_NN of_IN network_NN properties_NNS
+lowing_VBG three_CD heuristics_NNS are_VBP computationally_RB intensive_JJ to_TO calculate_VB ._.
+In_IN order_NN to_TO compute_VB them_PRP efficiently_RB ,_, we_PRP employ_VBP a_DT network_NN structure_NN index_NN -LRB-_-LRB- NSI_NN -RRB-_-RRB- ,_, a_DT scalable_JJ technique_NN for_IN capturing_VBG graph_NN structure_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT index_NN itself_PRP consists_VBZ of_IN a_DT set_NN of_IN node_NN annotations_NNS paired_VBN with_IN a_DT distance_NN function_NN that_WDT operates_VBZ on_IN them_PRP ._.
+The_DT annotations_NNS are_VBP created_VBN by_IN repeatedly_RB running_VBG a_DT stochastic_JJ flooding_NN algorithm_NN on_IN the_DT
+ve_IN set_NN of_IN operations_NNS ._.
+However_RB ,_, these_DT limitations_NNS can_MD be_VB alleviated_VBN through_IN the_DT use_NN of_IN a_DT network_NN structure_NN index_NN ._.
+A_DT network_NN structure_NN index_NN -LRB-_-LRB- NSI_NN -RRB-_-RRB- is_VBZ a_DT scalable_JJ technique_NN for_IN capturing_VBG graph_NN structure_NN -LRB-_-LRB- =_JJ -_: =_JJ Rattigan_NNP et_FW al._FW ,_, 2006_CD -_: =--RRB-_NN ._.
+The_DT index_NN consists_VBZ of_IN a_DT set_NN of_IN node_NN annotations_NNS combined_VBN with_IN a_DT distance_NN measure_NN ._.
+NSIs_NNS enable_VBP fast_JJ approximation_NN of_IN graph_NN distances_NNS and_CC can_MD be_VB paired_VBN with_IN a_DT search_NN algorithm_NN to_TO efficiently_RB discover_VB
+ting_NN -LRB-_-LRB- 3_CD ,_, 35_CD -RRB-_-RRB- ._.
+Other_JJ dimensionality_NN reduction_NN techniques_NNS are_VBP also_RB widely_RB studied_VBN especially_RB in_IN theory_NN and_CC machine_NN learning_NN ._.
+Landmarks_NNS have_VBP already_RB been_VBN used_VBN for_IN graph_NN measurements_NNS in_IN many_JJ applications_NNS =_JJ -_: =[_NN 10_CD ,_, 26_CD ,_, 31_CD ,_, 28_CD -RRB-_-RRB- -_: =_JJ -_: such_JJ as_IN roundtrip_NN propagation_NN and_CC transmission_NN delay_NN in_IN networks_NNS :_: however_RB ,_, how_WRB to_TO optimally_RB select_VB the_DT location_NN of_IN landmarks_NNS has_VBZ not_RB been_VBN extensively_RB studied_VBN ._.
+Kleinberg_NNP et_FW al._FW -LRB-_-LRB- 24_CD -RRB-_-RRB- discuss_VBP the_DT proble_NN

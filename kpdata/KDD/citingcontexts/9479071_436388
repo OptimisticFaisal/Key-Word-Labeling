@@ -1,0 +1,4 @@
+3_LS -RRB-_-RRB- comprises_VBZ 4240_CD computer_NN science_NN research_NN papers_NNS ._.
+It_PRP includes_VBZ the_DT full_JJ citation_NN graph_NN as_RB well_RB as_IN labels_NNS for_IN the_DT topic_NN of_IN each_DT paper_NN -LRB-_-LRB- and_CC potentially_RB sub_JJ -_: and_CC sub-subtopics_NNS -RRB-_-RRB- ._.
+Following_VBG a_DT prior_JJ study_NN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP focused_VBD on_IN papers_NNS within_IN the_DT machine_NN learning_NN topic_NN with_IN the_DT classification_NN task_NN of_IN predicting_VBG a_DT paper_NN 's_POS sub-topic_JJ -LRB-_-LRB- of_IN which_WDT there_EX are_VBP seven_CD -RRB-_-RRB- ._.
+Papers_NNP can_MD be_VB linked_VBN if_IN they_PRP share_VBP a_DT common_JJ author_NN ,_,

@@ -1,0 +1,4 @@
+s_NN of_IN the_DT advertisement_NN are_VBP matched_VBN by_IN the_DT inputs_NNS of_IN the_DT request_NN ._.
+The_DT algorithm_NN in_IN -LRB-_-LRB- 23_CD -RRB-_-RRB- however_RB does_VBZ not_RB deal_VB with_IN service_NN behavior_NN ,_, nor_CC it_PRP considers_VBZ service_NN composition_NN ._.
+Li_NNP and_CC Horrocks_NNP described_VBN in_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: a_DT service_NN discovery_NN algorithm_NN based_VBN on_IN a_DT description_NN logic_NN reasoner_NN ,_, which_WDT speeds_VBZ up_RP the_DT matching_NN process_NN by_IN employing_VBG an_DT off-line_JJ classification_NN of_IN DAML-S_NN service_NN advertisements_NNS ._.
+As_IN -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 14_CD -RRB-_-RRB- does_VBZ

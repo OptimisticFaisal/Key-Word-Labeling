@@ -1,0 +1,4 @@
+Analytical_NNP Processing_NNP -LRB-_-LRB- OLAP_NNP -RRB-_-RRB- ._.
+Moreover_RB ,_, for_IN OLAP_NNP applications_NNS ,_, it_PRP is_VBZ desirable_JJ to_TO have_VB low_JJ query_NN costs_NNS ._.
+However_RB ,_, one_PRP should_MD distinguish_VB between_IN OLAP_NNP and_CC Precomputed_NNP Analytic_NNP Processing_NNP -LRB-_-LRB- PAP_NNP -RRB-_-RRB- systems_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: :_: a_DT system_NN with_IN very_RB low_JJ query_NN costs_NNS which_WDT is_VBZ expensive_JJ to_TO update_VB or_CC initialize_VB might_MD not_RB be_VB practical_JJ for_IN OLAP_NNP systems_NNS where_WRB data_NNS updates_NNS are_VBP frequent_JJ and_CC new_JJ databases_NNS are_VBP created_VBN dynamically_RB ._.
+On_IN th_DT

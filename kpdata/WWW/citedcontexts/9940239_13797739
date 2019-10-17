@@ -1,0 +1,4 @@
+action_NN is_VBZ given_VBN by_IN φ_NN -LRB-_-LRB- x_NN -RRB-_-RRB- ·_FW w_FW ,_, where_WRB w_NN is_VBZ an_DT unknown_JJ weight_NN vector_NN ._.
+The_DT computational_JJ complexity_NN of_IN most_JJS existing_VBG algorithms_NNS is_VBZ nevertheless_RB linear_JJ in_IN the_DT number_NN of_IN actions_NNS -LRB-_-LRB- Abe_NN et_FW al._FW ,_, 2003_CD ;_: Auer_NNP ,_, 2002_CD ;_: =_JJ -_: =_JJ Li_NNP et_FW al._FW ,_, 2010_CD -_: =--RRB-_NN ._.
+Furthermore_RB ,_, rather_RB than_IN being_VBG specified_VBN explicitly_RB ,_, the_DT linear_JJ space_NN in_IN which_WDT our_PRP$ parameterizations_NNS lie_VBP are_VBP given_VBN by_IN the_DT underlying_VBG graphical_NN or_CC locality_NN structure_NN of_IN the_DT model_NN ._.
+More_RBR recent_JJ work_NN o_NN

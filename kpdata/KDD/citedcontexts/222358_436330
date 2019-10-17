@@ -1,0 +1,5 @@
+hing_NN and_CC prefetching_NN are_VBP presented_VBN in_IN -LRB-_-LRB- 45_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 46_CD -RRB-_-RRB- ,_, respectively_RB ._.
+Caching_NN and_CC prefetching_NN are_VBP techniques_NNS that_WDT have_VBP been_VBN studied_VBN together_RB and_CC their_PRP$ combined_JJ results_NNS have_VBP been_VBN presented_VBN in_IN many_JJ papers_NNS =_JJ -_: =[_NN 20,30,34,39,45,48_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT limitations_NNS of_IN caching_NN -LRB-_-LRB- 30_CD -RRB-_-RRB- were_VBD the_DT reason_NN for_IN the_DT exploration_NN of_IN prefetching_NN ._.
+But_CC prefetching_NN has_VBZ not_RB only_RB been_VBN studied_VBN as_IN a_DT Web_NN page_NN -LRB-_-LRB- web_NN object_NN in_IN general_JJ -RRB-_-RRB- handling_NN procedure_NN ._.
+Prefetching_VBG ha_NN

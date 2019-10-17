@@ -1,0 +1,4 @@
+of_IN the_DT von_NNP Neumann_NNP kernel_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, when_WRB ranking_VBG linked_VBN documents_NNS ._.
+This_DT modified_VBN regularized_VBD Laplacian_JJ kernel_NN is_VBZ also_RB closely_RB related_JJ to_TO a_DT graph_NN regularization_NN framework_NN introduced_VBN by_IN Zhou_NNP &_CC Schölkopf_NNP in_IN =_JJ -_: =[_NN 69_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT exponential_JJ and_CC von_NNP Neumann_NNP diffusion_NN kernels_NNS ,_, based_VBN this_DT time_NN on_IN the_DT adjacency_NN matrix_NN ,_, are_VBP introduced_VBN in_IN -LRB-_-LRB- 27_CD ,_, 56_CD -RRB-_-RRB- ._.
+The_DT defined_VBN kernel_NN matrices_NNS are_VBP computed_VBN through_IN a_DT power_NN series_NN of_IN the_DT adjacen_NN

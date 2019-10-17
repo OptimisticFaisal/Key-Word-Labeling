@@ -1,0 +1,4 @@
+n_NN the_DT previous_JJ section_NN ,_, are_VBP the_DT most_RBS basic_JJ measures_NNS of_IN rule_NN interestingness_NN ._.
+However_RB ,_, in_IN many_JJ cases_NNS support_NN and_CC confidence_NN are_VBP not_RB sufficient_JJ ._.
+Many_JJ other_JJ measures_NNS have_VBP been_VBN proposed_VBN in_IN the_DT literature_NN =_JJ -_: =[_NN 135_CD -RRB-_-RRB- -_: =_SYM -_: for_IN ranking_JJ association_NN patterns_NNS according_VBG to_TO their_PRP$ degree_NN of_IN interestingness_NN ._.
+We_PRP describe_VBP some_DT of_IN those_DT measures_NNS as_IN follows_VBZ :_: Lift_VB :_: also_RB known_VBN as_IN interest_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- and_CC strength_NN -LRB-_-LRB- 39_CD -RRB-_-RRB- ,_, lift_NN is_VBZ defined_VBN as_IN l_NN

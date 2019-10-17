@@ -1,0 +1,5 @@
+D_NN KNOWLEDGE_NN DISCOVERY_NN :_: AN_DT INTERNATIONAL_NNP JOURNAL_NNP ,_, MAY_NNP ._.
+2005_CD 104_CD There_EX have_VBP been_VBN many_JJ attempts_NNS to_TO revise_VB the_DT original_JJ QP_NN formulation_NN so_IN that_IN it_PRP can_MD be_VB solved_VBN by_IN a_DT QP_NN solver_VBZ more_RBR efficiently_RB -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+-LRB-_-LRB- See_NNP Section_NNP VII_NNP for_IN more_JJR details_NNS ._. -RRB-_-RRB-
+In_IN contrast_NN to_TO those_DT works_NNS ,_, we_PRP do_VBP not_RB revise_VB the_DT original_JJ QP_NN formulation_NN of_IN SVM_NNP ._.
+Instead_RB ,_, we_PRP try_VBP to_TO provide_VB a_DT smaller_JJR but_CC high_JJ quality_NN data_NNS set_NN that_WDT is_VBZ beneficial_JJ

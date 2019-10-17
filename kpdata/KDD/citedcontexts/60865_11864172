@@ -1,0 +1,5 @@
+nked_VBD higher_JJR than_IN z_SYM ′_CD ._.
+This_DT scenario_NN ,_, summarized_VBN in_IN Figure_NNP 3_CD ,_, is_VBZ also_RB known_VBN as_IN ``_`` learning_VBG to_TO order_NN things_NNS ''_'' -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+As_IN an_DT example_NN consider_VBP the_DT problem_NN of_IN learning_VBG to_TO rank_VB query_JJ results_NNS of_IN a_DT search_NN engine_NN =_JJ -_: =[_NN 33_CD ,_, 41_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT training_NN information_NN is_VBZ provided_VBN implicitly_RB by_IN the_DT user_NN who_WP clicks_VBZ on_IN some_DT of_IN the_DT links_NNS in_IN the_DT query_NN result_NN and_CC not_RB on_IN others_NNS ._.
+This_DT information_NN can_MD be_VB turned_VBN into_IN binary_JJ preferences_NNS by_IN assuming_VBG

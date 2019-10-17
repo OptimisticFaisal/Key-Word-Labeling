@@ -1,0 +1,3 @@
+cation_NN results_VBZ after_IN performing_VBG feature_NN selection_NN with_IN classification_NN results_NNS from_IN the_DT original_JJ problem_NN ._.
+6.1_CD The_DT Datasets_NNP Table_NNP 1_CD summarizes_VBZ the_DT structure_NN of_IN the_DT three_CD datasets_NNS ._.
+The_DT TechTC-100_NN family_NN =_JJ -_: =[_NN 9,16_CD -RRB-_-RRB- -_: =_SYM -_: consists_VBZ of_IN 100_CD datasets_NNS ,_, each_DT Table_NNP 1_CD :_: Datasets_NNS Name_VBP Classes_NNS Terms_NNS Train_NN Test_NN TechTC-100_NN 2_CD 20K_CD 100_CD ×_CD 120_CD 100_CD ×_CD 30_CD 20-Newsgroups_NNS 20_CD 62k_FW 15k_FW 4k_FW Reuters-rcv2_NN 103_CD 47k_FW 23k_FW 10k_FW having_VBG roughly_RB 150_CD documents_NNS ev_IN

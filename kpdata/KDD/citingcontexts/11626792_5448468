@@ -1,0 +1,5 @@
+distance_NN computations_NNS upon_IN insertion_NN ._.
+We_PRP can_MD use_VB an_DT order_NN line_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- to_TO order_VB the_DT points_NNS on_IN a_DT 1D_NN line_NN ._.
+The_DT order_NN line_NN is_VBZ just_RB a_DT circular_JJ projection_NN of_IN all_DT of_IN the_DT points_NNS around_IN a_DT reference\/pivot_NN point_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT relative_JJ distance_NN between_IN a_DT pair_NN of_IN points_NNS on_IN the_DT order_NN line_NN is_VBZ a_DT lower_JJR bound_VBN on_IN their_PRP$ true_JJ distance_NN in_IN the_DT original_JJ space_NN ._.
+Thus_RB ,_, for_IN every_DT pair_NN of_IN points_NNS we_PRP now_RB know_VBP a_DT lower_JJR bound_VBN on_IN their_PRP$ true_JJ

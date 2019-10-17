@@ -1,0 +1,5 @@
+owing_VBG refinement_NN step_NN ,_, only_RB the_DT uniform_JJ scaling_NN distance_NN between_IN the_DT nonfiltered_JJ sequences_NNS is_VBZ computed_VBN ._.
+The_DT filtering_VBG step_NN is_VBZ derived_VBN from_IN the_DT random_JJ projection_NN algorithm_NN proposed_VBN by_IN Buhler_NN and_CC Tompa_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Though_IN probabilistic_JJ ,_, we_PRP demonstrate_VBP that_IN the_DT approach_NN has_VBZ a_DT high_JJ motif_NN detection_NN rate_NN ._.
+The_DT gain_NN in_IN speed-up_NN over_IN the_DT brute_JJ force_NN search_NN ,_, however_RB ,_, is_VBZ enormous_JJ ._.
+5.1_CD The_DT Random_JJ Projection_NN Algorithm_NN Th_NN

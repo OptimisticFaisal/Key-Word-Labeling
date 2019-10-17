@@ -1,0 +1,6 @@
+hus_NN equal_JJ to_TO 1_CD ._.
+We_PRP consider_VBP now_RB several_JJ evaluation_NN functions_NNS that_WDT have_VBP been_VBN less_RBR studied_VBN in_IN the_DT data_NNS mining_NN context_NN but_CC have_VBP been_VBN proved_VBN quite_RB useful_JJ in_IN the_DT last_JJ 3_CD yearss6_FW J.-F_FW ._.
+Boulicaut_NN -LRB-_-LRB- see_VB ,_, e.g._FW ,_, =_JJ -_: =[_NN 65,12,75,15,16_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Notice_NNP however_RB that_IN these_DT concepts_NNS have_VBP been_VBN used_VBN for_IN a_DT quite_RB a_DT long_JJ time_NN in_IN other_JJ contexts_NNS ,_, e.g._FW ,_, in_IN concept_NN lattices_NNS ._.
+Definition_NN 8_CD -LRB-_-LRB- Closures_NNS of_IN Itemsets_NNS -RRB-_-RRB- ._.
+The_DT closure_NN of_IN an_DT itemset_NN S_NN in_IN r_NN -LRB-_-LRB- denote_VB

@@ -1,0 +1,6 @@
+blocks_NNS ._.
+Once_RB a_DT base_NN model_NN is_VBZ constructed_VBN ,_, it_PRP will_MD never_RB be_VB updated_VBN with_IN new_JJ examples_NNS ._.
+Two_CD types_NNS of_IN voting_NN schemes_NNS are_VBP adopted_VBN ._.
+Street_NNP et_FW al._FW -LRB-_-LRB- 16_CD -RRB-_-RRB- let_VB their_PRP$ ensemble_NN vote_NN uniformly_RB ,_, while_IN Wang_NNP et_FW al._FW =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: prefer_VBP a_DT weighted_JJ voting_NN ._.
+These_DT two_CD approaches_NNS ,_, -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, are_VBP closely_RB related_JJ to_TO what_WP we_PRP will_MD present_VB in_IN this_DT paper_NN ,_, as_IN our_PRP$ method_NN also_RB build_VBP an_DT ensemble_NN from_IN sequential_JJ blocks_NNS ._.
+In_IN our_PRP$ comparati_NNS

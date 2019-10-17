@@ -1,0 +1,5 @@
+but_CC has_VBZ long_RB been_VBN overlooked_VBN ,_, is_VBZ that_DT of_IN concept-evolution_NN ._.
+Concept-evolution_NN refers_VBZ to_TO the_DT emergence_NN of_IN a_DT new_JJ class_NN ._.
+Most_JJS existing_VBG data_NNS stream_NN classifiers_NNS assume_VBP that_IN the_DT number_NN of_IN classes_NNS are_VBP fixed_VBN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: --_: -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+However_RB ,_, in_IN data_NNS streams_NNS ,_, new_JJ classes_NNS may_MD often_RB appear_VB ._.
+For_IN example_NN ,_, a_DT new_JJ kind_NN of_IN intrusion_NN may_MD appear_VB in_IN network_NN traffic_NN ,_, or_CC a_DT new_JJ category_NN of_IN text_NN may_MD appear_VB in_IN a_DT social_JJ text_NN stream_NN such_JJ as_IN T_NN

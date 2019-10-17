@@ -1,0 +1,5 @@
+measure_VB the_DT similarity_NN between_IN two_CD AV-pairs_NNS as_IN the_DT similarity_NN shown_VBN by_IN their_PRP$ supertuples_NNS ._.
+The_DT supertuples_NNS contain_VBP bags_NN of_IN keywords_NNS for_IN each_DT attribute_NN in_IN the_DT relation_NN ._.
+Hence_RB we_PRP use_VBP Jaccard_NNP Coefficient_NNP =_SYM -_: =[_NN 9_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: with_IN bag_NN semantics_NNS to_TO determine_VB the_DT similarity_NN between_IN two_CD supertuples_NNS ._.
+Unlike_IN pure_JJ text_NN documents_NNS ,_, supertuples_NNS would_MD rarely_RB share_VB keywords_NNS across_IN attributes_NNS ._.
+Moreover_RB all_DT attributes_NNS -LRB-_-LRB- features_NNS -RRB-_-RRB- may_MD n_NN

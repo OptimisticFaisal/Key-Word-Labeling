@@ -1,0 +1,4 @@
+as_IN a_DT visiting_VBG scholar_NN ._.
+The_DT first_JJ author_NN was_VBD partially_RB supported_VBN by_IN National_NNP Natural_NNP Science_NNP Foundation_NNP of_IN China_NNP under_IN Grant_NNP 70771043.2_CD Lei_NNP Zou_NNP et_FW al._FW mining_NN -LRB-_-LRB- 10_CD ,_, 13_CD ,_, 19_CD -RRB-_-RRB- ,_, correlation_NN sub-graph_JJ query_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: and_CC so_RB on_RB ._.
+Among_IN many_JJ graphbased_JJ applications_NNS ,_, it_PRP is_VBZ very_RB important_JJ to_TO retrieve_VB related_JJ graphs_NNS containing_VBG a_DT query_NN graph_NN from_IN a_DT large_JJ graph_NN database_NN efficiently_RB ._.
+For_IN example_NN ,_, given_VBN a_DT large_JJ chemical_NN co_NN

@@ -1,0 +1,5 @@
+the_DT goal_NN ._.
+In_IN this_DT way_NN ,_, agents_NNS attempt_VBP to_TO coordinate_VB their_PRP$ defense_NN of_IN the_DT goal_NN ,_, while_IN also_RB attempting_VBG to_TO position_VB themselves_PRP near_IN it_PRP ._.
+4_CD Learning_NNP Inspired_VBN by_IN previous_JJ work_NN on_IN machine_NN learning_NN in_IN RoboCup_NN =_JJ -_: =[_NN 13_CD ,_, 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP focused_VBD on_IN techniques_NNS to_TO improve_VB individual_JJ players_NNS '_POS skills_NNS to_TO kick_VB ,_, pass_NN ,_, or_CC intercept_VB the_DT ball_NN ._.
+Fortunately_RB ,_, the_DT two_CD layer_NN ISIS_NN architecture_NN helps_VBZ to_TO simplify_VB the_DT problem_NN for_IN skill_NN learning_NN ._.
+In_IN

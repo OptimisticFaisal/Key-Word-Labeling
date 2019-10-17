@@ -1,0 +1,16 @@
+Clinical_JJ and_CC financial_JJ outcomes_NNS analysis_NN with_IN existing_VBG hospital_NN patient_NN records_NNS
+c_NN surveillance_NN -LRB-_-LRB- Shapiro_NNP 2004_CD -RRB-_-RRB- ,_, decision_NN support_NN -LRB-_-LRB- Fiszman_NNP et_FW al._FW 2000_CD -RRB-_-RRB- ,_, and_CC problem_NN list_NN generation_NN -LRB-_-LRB- Sibanda_NNP et_FW al._FW 2006_CD -RRB-_-RRB- ._.
+Physicians_NNP often_RB assert_VBP negative_JJ or_CC speculative_JJ diagnoses_NNS in_IN medical_JJ reports_NNS -LRB-_-LRB- =_JJ -_: =_JJ Rao_NNP et_FW al._FW 2003_CD -_: =--RRB-_NN to_TO keep_VB track_NN of_IN all_DT potential_JJ diagnoses_NNS that_WDT have_VBP been_VBN considered_VBN and_CC to_TO provide_VB information_NN that_WDT contrasts_VBZ with_IN the_DT positive_JJ diagnoses_NNS -LRB-_-LRB- Kim_NNP and_CC Park_NNP 2006_CD -RRB-_-RRB- ._.
+The_DT noun_NN phrases_NNS -LRB-_-LRB- NP_NN -RRB-_-RRB- associated_VBN with_IN ne_NN
+illance_NN and_CC analysis_NN of_IN colorectal_JJ cancer_NN patients_NNS ._.
+A_DT Bayesian_JJ framework_NN to_TO extract_NN recurrence_NN ,_, the_DT key_JJ outcome_NN for_IN measuring_VBG treatment_NN effectiveness_NN for_IN colorectal_JJ cancer_NN patients_NNS ,_, has_VBZ been_VBN built_VBN in_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Logistic_JJ regression_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- and_CC survival_NN analysis_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- have_VBP been_VBN applied_VBN to_TO identify_VB recurrences_NNS and_CC to_TO model_VB the_DT prognosis_NN of_IN colorectal_JJ cancer_NN patients_NNS ._.
+Different_JJ from_IN these_DT studies_NNS ,_, this_DT paper_NN aims_VBZ
+because_IN of_IN the_DT extremely_RB unbalanced_JJ training_NN data_NNS for_IN most_JJS of_IN the_DT codes_NNS -LRB-_-LRB- i.e._FW ,_, only_RB very_RB few_JJ records_NNS are_VBP labeled_VBN as_IN positive_JJ examples_NNS -RRB-_-RRB- ._.
+Earlier_JJR approaches_NNS to_TO medical_JJ coding_NN include_VBP rulebased_JJ engines_NNS =_JJ -_: =[_NN 1_CD ,_, 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, automatic_JJ or_CC semi-automatic_JJ methods_NNS -LRB-_-LRB- 6_CD ,_, 8_CD -RRB-_-RRB- ._.
+Several_JJ companies_NNS ,_, such_JJ as_IN CodeRite_NN 1_CD and_CC A-Life_NN 2_CD ,_, provide_VBP semi-automatic_JJ solutions_NNS based_VBN on_IN keywords_NNS in_IN the_DT disease_NN name_NN ._.
+However_RB these_DT approaches_NNS requ_VBP
+because_IN of_IN the_DT extremely_RB unbalanced_JJ training_NN data_NNS for_IN most_JJS of_IN the_DT codes_NNS -LRB-_-LRB- i.e._FW ,_, only_RB very_RB few_JJ records_NNS are_VBP labeled_VBN as_IN positive_JJ examples_NNS -RRB-_-RRB- ._.
+Earlier_JJR approaches_NNS to_TO medical_JJ coding_NN include_VBP rulebased_JJ engines_NNS =_JJ -_: =[_NN 1_CD ,_, 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, automatic_JJ or_CC semi-automatic_JJ methods_NNS -LRB-_-LRB- 6_CD ,_, 8_CD -RRB-_-RRB- ._.
+Several_JJ companies_NNS ,_, such_JJ as_IN CodeRite_NN 1_CD and_CC A-Life_NN 2_CD ,_, provide_VBP semi-automatic_JJ solutions_NNS based_VBN on_IN keywords_NNS in_IN the_DT disease_NN name_NN ._.
+However_RB these_DT approaches_NNS requ_VBP

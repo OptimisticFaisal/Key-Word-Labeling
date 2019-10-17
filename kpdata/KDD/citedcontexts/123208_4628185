@@ -1,0 +1,5 @@
+as_IN been_VBN extensively_RB studied_VBN ,_, including_VBG our_PRP$ previous_JJ work_NN -LRB-_-LRB- 16_CD ,_, 17_CD -RRB-_-RRB- ._.
+The_DT model_NN uses_VBZ the_DT probability_NN of_IN reaching_VBG node_NN v_LS from_IN node_NN u_NN by_IN random_JJ walks_VBZ in_IN G_NN to_TO compute_VB c_NN -LRB-_-LRB- u_NN ,_, v_LS -RRB-_-RRB- ._.
+Relevant_JJ importance_NN in_IN graphs_NNS =_JJ -_: =[_NN 33_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT generalized_JJ version_NN of_IN page_NN rank_NN algorithm_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+It_PRP studies_VBZ the_DT relevant_JJ importance_NN of_IN a_DT set_NN of_IN nodes_NNS with_IN respect_NN to_TO a_DT set_NN of_IN root_NN nodes_NNS ._.
+The_DT connection_NN strength_NN in_IN this_DT study_NN is_VBZ the_DT importance_NN

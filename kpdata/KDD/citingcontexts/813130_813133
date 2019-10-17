@@ -1,0 +1,3 @@
+n._RB #_# M_NNP i_LS =_JJ 1_CD -LCB-_-LRB- |_FW Xni_FW −_FW Sn_FW −_FW 1_CD |_CD ≤_NN cn_NN -RCB-_-RRB- ,_, 2cnM_NN 2.3_CD The_DT EWSA_NNP Estimate_NNP The_DT only_JJ drawback_NN to_TO the_DT SA_NNP estimate_NN is_VBZ that_IN it_PRP gives_VBZ little_JJ weight_NN to_TO new_JJ data_NNS so_IN it_PRP can_MD not_RB track_VB changes_NNS over_IN time_NN ._.
+But_CC ,_, as_IN introduced_VBN in_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, exponential_JJ weighting_NN can_MD be_VB used_VBN with_IN stochastic_JJ approximation_NN so_IN that_IN more_JJR weight_NN is_VBZ given_VBN to_TO more_RBR recent_JJ observations_NNS ._.
+Exponential_JJ weighting_NN is_VBZ needed_VBN in_IN both_CC the_DT quantile_JJ estimate_NN and_CC the_DT densit_NN

@@ -1,0 +1,25 @@
+Cross-language_JJ information_NN retrieval_NN using_VBG PARAFAC2_NN
+neralize_VB the_DT hub_NN and_CC authority_NN scores_NNS for_IN Web_NN ranking_NN through_IN term_NN information_NN ._.
+Acar_NNP et_FW al._FW -LRB-_-LRB- 1_LS -RRB-_-RRB- applied_VBD different_JJ tensor_NN decompositions_NNS ,_, including_VBG Tucker_NNP ,_, to_TO online_JJ chat_NN room_NN applications_NNS ._.
+Chew_VB et_FW al_FW =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ PARAFAC2_NN to_TO study_VB the_DT multi-languagetranslation_JJ probem_NN ._.
+J.-T_NN ._.
+Sun_NNP et_FW al._FW -LRB-_-LRB- 12_CD -RRB-_-RRB- used_VBD Tucker_NNP to_TO analyze_VB Web_NN site_NN clickthrough_JJ data_NNS ._.
+J._NNP Sun_NNP et_FW al._FW -LRB-_-LRB- 11_CD ,_, 10_CD -RRB-_-RRB- proposed_VBD different_JJ methods_NNS for_IN dynamicall_NN
+eneralized_VBN by_IN De_NNP Lathauwer_NNP et_FW al._FW -LRB-_-LRB- 7_CD -RRB-_-RRB- to_TO the_DT Higher_JJR Order_NN Singular_JJ Value_NN Decomposition_NN ._.
+These_DT models_NNS have_VBP been_VBN used_VBN for_IN applications_NNS such_JJ as_IN Web_NN page_NN ranking_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, cross-lingual_JJ information_NN retrieval_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, sensor_NN network_NN analysis_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, etc._NN ._.
+We_PRP refer_VBP interested_JJ readers_NNS to_TO the_DT comprehensive_JJ survey_NN by_IN Kolda_NNP and_CC Bader_NNP -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+Although_IN these_DT linear_JJ tensor_NN factorizations_NNS show_VBP some_DT good_JJ properties_NNS in_IN terms_NNS of_IN
+and_CC authority_NN scores_NNS for_IN Web_NN ranking_NN through_IN term_NN information_NN ._.
+Acar_NNP et_FW al._FW -LRB-_-LRB- 3_CD -RRB-_-RRB- applied_VBD different_JJ tensor_NN decompositions_NNS ,_, including_VBG Tucker_NNP ,_, to_TO the_DT problem_NN of_IN discussion_NN in_IN online_JJ chatrooms_NNS ._.
+Chew_VB et_FW al_FW =_JJ -_: =[_NN 35_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ PARAFAC2_NN to_TO study_VB the_DT multilanguage_JJ translation_NN probem_NN ._.
+J.-T_NN ._.
+Sun_NNP et_FW al._FW -LRB-_-LRB- 144_CD -RRB-_-RRB- used_VBD Tucker_NNP to_TO analyze_VB Web_NN site_NN click-through_JJ data_NNS ._.
+J._NNP Sun_NNP et_FW al._FW -LRB-_-LRB- 142_CD ,_, 141_CD -RRB-_-RRB- have_VBP written_VBN a_DT pair_NN of_IN papers_NNS on_IN dynam_NN
+omain_NN as_IN an_DT additional_JJ dimension_NN ._.
+Instead_RB of_IN having_VBG a_DT word-document_JJ matrix_NN ,_, the_DT semantic_JJ space_NN can_MD be_VB based_VBN on_IN a_DT word-document-domain_JJ tensor_NN ._.
+In_IN the_DT same_JJ way_NN ,_, the_DT language_NN can_MD be_VB the_DT extra_JJ dimension_NN -LRB-_-LRB- =_JJ -_: =_JJ Chew_NNP et_FW al._FW ,_, 2007_CD -_: =--RRB-_NN ._.
+It_PRP has_VBZ been_VBN shown_VBN that_IN the_DT tensor_NN technique_NN provided_VBD better_JJR results_NNS on_IN the_DT classical_JJ TOEFL_NN test_NN -LRB-_-LRB- Turney_NN ,_, 2007_CD -RRB-_-RRB- ._.
+Another_DT issue_NN is_VBZ the_DT LTfLL_NN -_: 2008-212578_CD 27efficiency_NN of_IN computation_NN ._.
+Random_JJ indexin_NN
+173_CD ,_, 60_CD ,_, 61_CD -RRB-_-RRB- ,_, numerical_JJ linear_JJ algebra_NN -LRB-_-LRB- 87_CD ,_, 63_CD ,_, 64_CD ,_, 132_CD ,_, 244_CD ,_, 133_CD ,_, 149_CD -RRB-_-RRB- ,_, computer_NN vision_NN -LRB-_-LRB- 229_CD ,_, 230_CD ,_, 231_CD ,_, 190_CD ,_, 236_CD ,_, 237_CD ,_, 193_CD ,_, 102_CD ,_, 235_CD -RRB-_-RRB- ,_, numerical_JJ analysis_NN -LRB-_-LRB- 22_CD ,_, 108_CD ,_, 23_CD ,_, 89_CD ,_, 114_CD ,_, 88_CD ,_, 115_CD -RRB-_-RRB- ,_, data_NN mining_NN =_JJ -_: =[_NN 190_CD ,_, 4_CD ,_, 157_CD ,_, 211_CD ,_, 5_CD ,_, 209_CD ,_, 210_CD ,_, 44_CD ,_, 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, graph_NN analysis_NN -LRB-_-LRB- 136_CD ,_, 135_CD ,_, 15_CD -RRB-_-RRB- ,_, neuroscience_NN -LRB-_-LRB- 20_CD ,_, 163_CD ,_, 165_CD ,_, 167_CD ,_, 170_CD ,_, 168_CD ,_, 169_CD ,_, 2_CD ,_, 3_CD ,_, 70_CD ,_, 71_CD -RRB-_-RRB- ,_, and_CC more_JJR ._.
+Several_JJ surveys_NNS have_VBP been_VBN written_VBN in_IN other_JJ fields_NNS -LRB-_-LRB- 138_CD ,_, 52_CD ,_, 104_CD ,_, 27_CD ,_, 28_CD ,_, 47_CD ,_, 129_CD ,_, 78_CD ,_, 48_CD ,_, 200_CD ,_,

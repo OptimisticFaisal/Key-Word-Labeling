@@ -1,0 +1,3 @@
+that_IN selectively_RB querying_VBG for_IN node_NN labels_NNS based_VBN on_IN network_NN connectivity_NN and_CC model_NN uncertainty_NN can_MD significantly_RB improve_VB the_DT collective_JJ inference_NN process_NN -LRB-_-LRB- Rattigan_NNP et_FW al._FW ,_, 2007_CD ;_: Bilgic_NNP &_CC Getoor_NNP ,_, 2008_CD ;_: =_JJ -_: =_JJ Macskassy_NNP ,_, 2009_CD -_: =--RRB-_NN ._.
+Second_RB ,_, it_PRP is_VBZ difficult_JJ to_TO learn_VB accurate_JJ joint_JJ models_NNS from_IN partially-labeled_JJ networks_NNS ._.
+If_IN learning_VBG methods_NNS ignore_VBP the_DT unlabeled_JJ portion_NN of_IN the_DT network_NN ,_, then_RB there_EX may_MD not_RB be_VB enough_JJ connectivity_NN to_TO

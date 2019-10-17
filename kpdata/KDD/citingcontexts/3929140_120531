@@ -1,0 +1,6 @@
+ely_RB and_CC qualitatively_RB different_JJ contextual_JJ information_NN for_IN learning_NN ._.
+2_CD ._.
+Learning_NNP effectiveness_NN ._.
+We_PRP compared_VBD our_PRP$ DAlign_NN algorithm_NN with_IN the_DT regular_JJ Euclidean_JJ metric_NN ,_, Kwok_NNP et_FW al._FW -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, and_CC Xing_NNP et_FW al._FW 's_POS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: on_IN classification_NN and_CC clustering_NN applications_NNS ._.
+To_TO conduct_VB our_PRP$ experiments_NNS ,_, we_PRP used_VBD five_CD datasets_NNS :_: one_CD toy_NN dataset_NN ,_, and_CC four_CD UCI_NNP benchmark_NN datasets_NNS ._.
+One_CD toy_NN dataset_NN The_DT toy_NN dataset_NN was_VBD first_RB introduce_VB

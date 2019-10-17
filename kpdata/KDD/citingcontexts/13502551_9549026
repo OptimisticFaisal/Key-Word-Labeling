@@ -1,0 +1,3 @@
+n_NN query_NN ,_, it_PRP would_MD be_VB more_RBR efficient_JJ to_TO apply_VB our_PRP$ algorithm_NN only_RB to_TO a_DT relatively_RB compact_JJ query-URL_NN bipartite_JJ graph_NN that_WDT covers_VBZ the_DT relevant_JJ queries_NNS and_CC related_JJ URLs_NNS ._.
+We_PRP utilize_VBP the_DT same_JJ method_NN used_VBN in_IN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: for_IN building_VBG a_DT compact_JJ query-URL_NN bipartite_JJ graph_NN and_CC iteratively_RB expanding_VBG it_PRP in_IN the_DT following_NN ,_, 1_CD ._.
+Initialize_VB a_DT query_JJ set_NN Û_NN =_JJ UL_NN -LRB-_-LRB- seed_NN query_NN set_NN -RRB-_-RRB- ,_, and_CC initialize_VB a_DT URL_NN set_VBN ˆ_CD V_NN =_JJ VL_NN -LRB-_-LRB- seed_NN URL_NN set_NN -RRB-_-RRB- ;_: 2_CD ._.

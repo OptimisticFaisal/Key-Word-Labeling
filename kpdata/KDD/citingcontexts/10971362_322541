@@ -1,0 +1,4 @@
+of_IN the_DT system_NN ._.
+Furthermore_RB ,_, the_DT classifier_NN can_MD aid_VB other_JJ software_NN engineering_NN tasks_NNS ,_, for_IN example_NN ,_, by_IN serving_VBG as_IN a_DT test_NN oracle_NN for_IN test-suite_JJ augmentation_NN -LRB-_-LRB- i.e._FW ,_, adding_VBG new_JJ test_NN cases_NNS to_TO a_DT test_NN suite_NN -RRB-_-RRB- =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT software_NN behavior_NN can_MD be_VB viewed_VBN as_IN a_DT series_NN of_IN events_NNS ,_, where_WRB an_DT event_NN can_MD correspond_VB to_TO the_DT invocation_NN of_IN a_DT method_NN ,_, the_DT execution_NN of_IN a_DT program_NN statement_NN ,_, etc._NN ._.
+When_WRB recorded_VBN ,_, this_DT path_NN or_CC behavior_NN

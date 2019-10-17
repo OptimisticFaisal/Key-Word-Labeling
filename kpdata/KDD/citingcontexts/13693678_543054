@@ -1,0 +1,5 @@
+,_, with_IN the_DT densification_NN exponent_VBD a_DT =_JJ 1.56_CD ._.
+The_DT plot_NN is_VBZ omitted_VBN for_IN brevity_NN ._.
+3.1.2_CD Patents_NNP citation_NN graph_NN Next_NNP ,_, we_PRP consider_VBP a_DT U.S._NNP patent_NN dataset_NN maintained_VBN by_IN the_DT National_NNP Bureau_NNP of_IN Economic_NNP Research_NNP =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT data_NNS set_VBD spans_NNS 37_CD years_NNS -LRB-_-LRB- January_NNP 1_CD ,_, 1963_CD to_TO December_NNP 30_CD ,_, 1999_CD -RRB-_-RRB- ,_, and_CC includes_VBZ all_PDT the_DT utility_NN patents_NNS granted_VBN during_IN that_DT period_NN ,_, totaling_VBG n_NN =_JJ 3,923,922_CD patents_NNS ._.
+The_DT citation_NN graph_NN includes_VBZ all_DT cit_NN

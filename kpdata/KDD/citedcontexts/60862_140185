@@ -1,0 +1,4 @@
+here_RB are_VBP a_DT broad_JJ variety_NN of_IN classic_JJ clustering_NN algorithms_NNS that_WDT are_VBP applicable_JJ for_IN objects_NNS of_IN general_JJ structure_NN -LRB-_-LRB- 15_CD ,_, 23_CD ,_, 25_CD -RRB-_-RRB- ._.
+For_IN objects_NNS of_IN a_DT special_JJ nature_NN ,_, new_JJ approaches_NNS to_TO clustering_NN are_VBP emerging_VBG =_JJ -_: =[_NN 5_CD ,_, 16_CD ,_, 20_CD ,_, 27_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT article_NN we_PRP are_VBP concerned_VBN with_IN the_DT clustering_NN of_IN rows_NNS x_CC ∈_NN X_NN and_CC columns_NNS y_FW ∈_FW Y_NN of_IN a_DT rectangular_JJ matrix_NN with_IN non-negative_JJ entries_NNS -LRB-_-LRB- 32_CD ,_, 11_CD -RRB-_-RRB- ._.
+In_IN the_DT context_NN of_IN a_DT two_CD dimensional_JJ OLAP_NN cube_NN ,_, such_PDT a_DT mat_NN

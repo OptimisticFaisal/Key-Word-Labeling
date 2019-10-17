@@ -1,0 +1,4 @@
+∪_NN A_NN n_NN CQ_FW ∪_FW Cn_NN =_JJ m_NN co_NN -LRB-_-LRB- -LRB-_-LRB- Perform_VB n_NN p_NN U_NN V_NN -RRB-_-RRB- -RRB-_-RRB- An_DT Cn_FW |_FW m_NN co_NN -LRB-_-LRB- -LRB-_-LRB- Q_NNP -RRB-_-RRB- -RRB-_-RRB- AQ_NNP CQ_NNP Table_NNP 17_CD ._.
+Performance_NNP Composition_NNP Semanticss5_NN Related_JJ Work_NN The_DT original_JJ semantics_NNS for_IN DAML-S_NN were_VBD provided_VBN via_IN translation_NN to_TO Petri_NNP Nets_NNPS =_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_RB well_RB as_IN problems_NNS with_IN providing_VBG compositionality_NN for_IN a_DT mathematical_JJ semantics_NNS for_IN these_DT ,_, the_DT translation_NN was_VBD fundamentally_RB non-compositional_JJ ._.
+Synchronisations_NNS were_VBD built_VBN for_IN the_DT fixed_JJ number_NN of_IN p_NN

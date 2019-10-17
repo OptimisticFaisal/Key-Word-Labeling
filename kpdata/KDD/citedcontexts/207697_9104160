@@ -1,0 +1,5 @@
+proach_NN and_CC we_PRP now_RB perform_VBP experiments_NNS based_VBN on_IN this_DT analysis_NN ._.
+5_CD Experimental_JJ Evaluation_NN To_TO demonstrate_VB the_DT effectiveness_NN of_IN the_DT approach_NN ,_, we_PRP performed_VBD several_JJ experiments_NNS using_VBG a_DT real_JJ retail_JJ data_NNS set_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT data_NN is_VBZ a_DT binary_JJ transactional_JJ database_NN containing_VBG 88,163_CD records_NNS and_CC 16,470_CD unique_JJ items_NNS ._.
+Weights_NNS were_VBD generated_VBN randomly_RB and_CC assigned_VBN to_TO all_DT items_NNS in_IN the_DT dataset_NN to_TO show_VB their_PRP$ significance_NN ._.
+Ex_FW

@@ -1,0 +1,4 @@
+ial_JJ diffusion_NN kernel_NN -LRB-_-LRB- 55_CD ,_, 102_CD -RRB-_-RRB- ,_, the_DT von_NNP Neumann_NNP diffusion_NN kernel_NN -LRB-_-LRB- 98_CD -RRB-_-RRB- ,_, the_DT regularized_VBN Laplacian_NN kernel_NN -LRB-_-LRB- 42_CD ,_, 102_CD -RRB-_-RRB- ,_, the_DT commute-time_JJ kernel_NN -LRB-_-LRB- 32_CD ,_, 89_CD -RRB-_-RRB- ,_, and_CC the_DT random-walk-with-restart_JJ similarity_NN matrix_NN =_JJ -_: =[_NN 76_CD ,_, 104_CD ,_, 105_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT discussion_NN of_IN the_DT rationale_NN behind_IN each_DT of_IN these_DT graph_NN kernels_NNS is_VBZ also_RB provided_VBN ._.
+The_DT experiments_NNS indicate_VBP that_IN three_CD methods_NNS obtain_VBP good_JJ and_CC stable_JJ performance_NN ,_, and_CC outperform_VB the_DT other_JJ ones_NNS ._.
+Stil_NN

@@ -1,0 +1,4 @@
++_CC fever_NN +_CC influenza_NN ._.
+Given_VBN these_DT considerations_NNS and_CC unbalanced_JJ class_NN sizes_NNS ,_, classification_NN is_VBZ done_VBN using_VBG a_DT Bayesian-network_JJ classifier_NN with_IN MetaCost_NNP ,_, a_DT mechanism_NN for_IN making_VBG classifiers_NNS cost-sensitive_JJ =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Structure_NN learning_NN for_IN the_DT network_NN is_VBZ performed_VBN using_VBG K2_NN hill_NN climbing_NN and_CC the_DT results_NNS are_VBP based_VBN on_IN 4-fold_JJ crossvalidation_NN ._.
+Recall_VB ,_, Precision_NN and_CC F-measure_NN for_IN the_DT symptoms_NNS class_NN as_IN a_DT function_NN of_IN in_IN

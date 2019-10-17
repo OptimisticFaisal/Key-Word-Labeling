@@ -1,0 +1,4 @@
+ort_NN count_NN can_MD also_RB be_VB computed_VBN ._.
+The_DT algorithm_NN that_WDT computes_VBZ the_DT scalar_NN product_NN ,_, as_IN an_DT algebraic_JJ solution_NN that_WDT hides_VBZ true_JJ values_NNS by_IN placing_VBG them_PRP in_IN equations_NNS masked_VBN with_IN random_JJ values_NNS ,_, is_VBZ described_VBN in_IN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT security_NN of_IN the_DT scalar_JJ product_NN protocol_NN is_VBZ based_VBN on_IN the_DT inability_NN of_IN either_DT side_NN to_TO solve_VB k_NN equations_NNS in_IN more_JJR than_IN k_NN unknowns_NNS ._.
+Some_DT of_IN the_DT unknowns_NNS are_VBP randomly_RB chosen_VBN ,_, and_CC can_MD safely_RB be_VB assumed_VBN

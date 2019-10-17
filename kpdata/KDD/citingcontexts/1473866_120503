@@ -1,0 +1,4 @@
+transition_NN and_CC an_DT accompanying_JJ character_NN pair_NN emission_NN ._.
+In_IN the_DT MAXIMIZATION_NNP procedure_NN all_DT model_NN parameters_NNS are_VBP updated_VBN using_VBG the_DT collected_VBN expectations_NNS ._.
+Pseudo-code_NN for_IN the_DT algorithms_NNS can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP can_MD be_VB proved_VBN that_IN this_DT training_NN procedure_NN is_VBZ guaranteed_VBN to_TO converge_VB to_TO a_DT local_JJ maximum_NN of_IN likelihood_NN of_IN observing_VBG the_DT training_NN corpus_NN C._NNP The_NNP trained_JJ model_NN can_MD be_VB used_VBN for_IN estimating_VBG distance_NN bet_NN

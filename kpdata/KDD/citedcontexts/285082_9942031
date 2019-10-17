@@ -1,0 +1,3 @@
+lect_VB the_DT set_VBN A._NN Although_IN the_DT problem_NN of_IN finding_VBG an_DT optimal_JJ solution_NN in_IN this_DT model_NN is_VBZ NP-hard_JJ ,_, it_PRP has_VBZ been_VBN shown_VBN that_IN there_EX is_VBZ a_DT greedy_JJ algorithm_NN that_WDT yields_VBZ a_DT spread_NN that_WDT is_VBZ within_IN 1_CD −_FW 1\/e_FW of_IN optimal_JJ =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT solution_NN depends_VBZ on_IN Monte_NNP Carlo_NNP simulations_NNS which_WDT are_VBP computationally_RB intense_JJ ._.
+Work_NNP has_VBZ been_VBN done_VBN on_IN improving_VBG the_DT performance_NN of_IN greedy_JJ algorithms_NNS for_IN influence_NN maximization_NN -LRB-_-LRB- 5_CD ,_, 22_CD ,_, 19_CD -RRB-_-RRB- ,_, but_CC s_NNS

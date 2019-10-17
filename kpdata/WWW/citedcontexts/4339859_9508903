@@ -1,0 +1,4 @@
+work_NN user_NN preselection_NN ,_, represent_VBP a_DT sub-optimal_JJ and_CC a_DT best-case_JJ scenario_NN ,_, respectively_RB ._.
+In_IN the_DT past_NN ,_, decentralized_VBN recommendation_NN systems_NNS have_VBP constructed_VBN this_DT best-neighbours_JJ overlay_NN in_IN various_JJ ways_NNS =_JJ -_: =[_NN 3_CD ,_, 16_CD ,_, 10_CD ,_, 2_CD ,_, 12_CD ,_, 7_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Generalizing_VBG ,_, the_DT nodes_NNS exchange_VBP their_PRP$ rating_NN data_NNS and_CC compute_VB the_DT similarity_NN to_TO the_DT other_JJ peers_NNS using_VBG a_DT similarity_NN function_NN ._.
+By_IN remembering_VBG the_DT best_JJS candidates_NNS so_RB far_RB ,_, while_IN continuing_VBG to_TO exchange_NN

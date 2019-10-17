@@ -1,0 +1,4 @@
+t_NN ,_, algorithms_NNS ,_, such_JJ as_IN ETI_NN mining_NN ,_, have_VBP to_TO rely_VB on_IN heuristics_NNS to_TO prune_VB the_DT search_NN space_NN ._.
+These_DT heuristics_NNS do_VBP not_RB guarantee_VB the_DT completeness_NN of_IN the_DT search_NN ._.
+Another_DT algorithm_NN to_TO discover_VB dense_JJ itemsets_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: enforces_VBZ the_DT constraint_NN that_IN all_DT sub-itemsets_NNS of_IN a_DT dense_JJ itemset_NN must_MD be_VB frequent_JJ ._.
+Since_IN this_DT algorithm_NN requires_VBZ minsup_JJ support_NN for_IN all_DT subitemsets_NNS ,_, it_PRP can_MD fail_VB to_TO identify_VB larger_JJR itemsets_NNS that_WDT have_VBP

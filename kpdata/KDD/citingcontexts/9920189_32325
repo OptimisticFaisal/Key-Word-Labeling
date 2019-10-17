@@ -1,0 +1,5 @@
+nd_NN profile_NN vector_NN is_VBZ represented_VBN as_IN a_DT TFIDF_NN vector_NN ,_, where_WRB each_DT value_NN of_IN the_DT vector_NN is_VBZ the_DT TF-IDF_NN value_NN of_IN the_DT vector_NN element_NN 's_POS corresponding_JJ stemmed_VBN term_NN ._.
+Terms_NNS are_VBP stemmed_VBN using_VBG the_DT Porter_NNP algorithm_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: and_CC stop-words_NNS are_VBP ignored_VBN ._.
+A_DT set_NN of_IN profiles_NNS P_NN is_VBZ maintained_VBN ,_, which_WDT is_VBZ initially_RB empty_JJ ._.
+Until_IN an_DT interesting_JJ article_NN arrives_VBZ on_IN the_DT document_NN stream_NN ,_, each_DT article_NN is_VBZ scored_VBN with_IN a_DT 0_CD ._.
+When_WRB an_DT interest_NN

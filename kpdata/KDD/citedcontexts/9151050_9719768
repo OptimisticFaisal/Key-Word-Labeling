@@ -1,0 +1,5 @@
+classify_VB XML_NN trees_NNS based_VBN on_IN subtree_JJ occurrence_NN ._.
+It_PRP is_VBZ composed_VBN of_IN a_DT Tree_NN XML_NN Closed_JJ Frequent_JJ Miner_NNP ,_, and_CC a_DT classifier_NN algorithm_NN ._.
+We_PRP propose_VBP specific_JJ methods_NNS for_IN dealing_VBG with_IN adaptive_JJ data_NNS streams_NNS ._.
+In_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: a_DT new_JJ approach_NN was_VBD proposed_VBN for_IN mining_NN closed_VBD patterns_NNS adaptively_RB from_IN data_NNS streams_NNS that_IN change_NN over_IN time_NN ,_, and_CC it_PRP was_VBD used_VBN for_IN closed_JJ unlabeled_JJ rooted_JJ trees_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP use_VBP the_DT extension_NN to_TO the_DT

@@ -1,0 +1,4 @@
+o_NN get_VB a_DT large_JJ gain_NN in_IN utility_NN ._.
+In_IN short_JJ ,_, we_PRP currently_RB lack_VBP a_DT framework_NN for_IN thinking_VBG about_IN the_DT privacy-utility_NN tradeoff_NN in_IN data_NN publishing_NN ._.
+In_IN a_DT paper_NN that_WDT appeared_VBD in_IN KDD_NNP 2008_CD ,_, Brickell_NNP and_CC Shmatikov_NNP =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: applied_VBD a_DT fresh_JJ angle_NN to_TO the_DT tradeoff_NN between_IN privacy_NN and_CC utility_NN ._.
+They_PRP directly_RB compared_VBD the_DT privacy_NN gain_NN with_IN the_DT utility_NN gain_NN caused_VBN by_IN data_NNS anonymization_NN ,_, and_CC reached_VBD an_DT intrigu-ing_JJ conclusion_NN ``_``

@@ -1,0 +1,4 @@
+sm_NN for_IN database_NN scalability_NN ._.
+Ganymed_JJ -LRB-_-LRB- 27_CD -RRB-_-RRB- separates_VBZ update_VB transactions_NNS from_IN readonly_JJ transactions_NNS ,_, and_CC routes_VBZ updates_NNS to_TO a_DT main_JJ database_NN server_NN and_CC read_VB queries_NNS to_TO read-only_JJ database_NN copies_NNS ._.
+GlobeDB_NN =_SYM -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ partially_RB replicated_VBN databases_NNS based_VBN on_IN data_NNS partition_NN to_TO reduce_VB update_VB traffic_NN ._.
+Our_PRP$ current_JJ prototype_NN uses_VBZ a_DT single_JJ backend_JJ database_NN server_NN ,_, which_WDT can_MD be_VB extended_VBN to_TO support_VB distributed_VBN databas_NNS

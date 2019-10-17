@@ -1,0 +1,5 @@
+is_VBZ not_RB found_VBN within_IN some_DT very_RB small_JJ distance_NN D_NN -LRB-_-LRB- we_PRP use_VBP D_NN =_JJ 4_CD -RRB-_-RRB- ,_, the_DT algorithm_NN terminates_VBZ with_IN the_DT failure_NN :_: Item_NN j_NN can_MD not_RB be_VB rated_VBN for_IN user_NN i._NN For_IN details_NNS on_IN shortest_JJS path_NN algorithms_NNS see_VBP ,_, for_IN example_NN ,_, =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT directed_JJ path_NN allows_VBZ a_DT rating_NN computation_NN based_VBN on_IN the_DT composition_NN of_IN transformations_NNS of_IN a_DT predicted_VBN value_NN for_IN item_NN j_NN by_IN user_NN i._NN So_RB ,_, for_IN instance_NN ,_, given_VBN a_DT directed_JJ path_NN i_FW !_.
+i_LS 1_CD !_.
+:_: :_: :_: !_.
+i_LS l_NN ,_, wi_NN

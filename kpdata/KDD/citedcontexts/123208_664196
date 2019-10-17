@@ -1,0 +1,4 @@
+r_NN data_NNS on_IN the_DT web_NN ._.
+Their_PRP$ weighting_NN scheme_NN for_IN predicting_VBG similarity_NN in_IN a_DT social_JJ network_NN is_VBZ similar_JJ to_TO the_DT weighting_NN algorithms_NNS in_IN this_DT paper_NN ,_, but_CC only_RB uses_VBZ a_DT single_JJ ,_, combined_JJ measure_NN ._.
+White_NNP and_CC Smyth_NNP =_SYM -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP previously_RB developed_VBN algorithms_NNS to_TO determine_VB importance_NN in_IN social_JJ networks_NNS in_IN a_DT more_RBR general_JJ setting_NN ._.
+However_RB ,_, these_DT algorithms_NNS for_IN determining_VBG importance_NN between_IN nodes_NNS do_VBP not_RB take_VB any_DT heuristic_NN

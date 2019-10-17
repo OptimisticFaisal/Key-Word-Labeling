@@ -1,0 +1,3 @@
+ng_NN ._.
+3.1.1_CD Support_NN Time_NN Sequence_NN We_PRP use_VBP support_NN as_IN a_DT prevalence_NN measure_NN in_IN the_DT transaction_NN database_NN since_IN it_PRP represents_VBZ how_WRB statistically_RB significant_JJ a_DT pattern_NN is_VBZ ,_, and_CC it_PRP has_VBZ an_DT anti-monotone_JJ property_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Definition_NN 1_CD Given_VBN a_DT time-stamped_JJ transaction_NN database_NN D_NN =_JJ D0_NN ∪_NN ..._: ∪_FW Dn_FW −_FW 1_CD ,_, where_WRB Di_NNP is_VBZ a_DT set_NN of_IN transactions_NNS executed_VBN in_FW ith_FW time_NN slot_NN ,_, 0_CD ≤_FW i_FW -LRB-_-LRB- n_NN ,_, the_DT support_NN of_IN an_DT itemset_NN I_NN at_IN a_DT time_NN slot_NN ti_NN is_VBZ

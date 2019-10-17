@@ -1,0 +1,5 @@
+them_PRP instantiate_JJ -LRB-_-LRB- thus_RB ,_, specialize_VB -RRB-_-RRB- it_PRP ._.
+An_DT ontology_NN server_NN has_VBZ been_VBN introduced_VBN on_IN each_DT vehicle_NN to_TO ease_VB the_DT use_NN of_IN ontologies_NNS for_IN clients_NNS ._.
+This_DT server_NN is_VBZ written_VBN in_IN Java_NNP and_CC relies_VBZ on_IN the_DT Jena_NNP library_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: to_TO interact_VB with_IN OWL_NN ontologies_NNS ._.
+The_DT server_NN is_VBZ intended_VBN to_TO be_VB embedded_VBN in_IN the_DT vehicles_NNS ,_, in_IN parallel_NN to_TO the_DT main_JJ vehicle_NN control_NN software_NN ._.
+Interaction_NN with_IN it_PRP is_VBZ done_VBN via_IN by_IN XMLRPC_NN -LRB-_-LRB- through_IN the_DT Jetty_NN

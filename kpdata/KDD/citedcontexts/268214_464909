@@ -1,0 +1,5 @@
+ing_NN Web_NN Data_NNP Records_NNP Jebeh_NNP Kawah_NNP ,_, Faisal_NNP Razzaq_NNP ,_, Enzhou_NNP Wang_NNP Mentor_NNP :_: Shui-Lung_NNP Chuang_NNP CS_NNP 511_CD --_: Spring_NN 2005_CD Project_NNP #_# 7_CD Data_NNP Record_NNP Extraction_NNP 1_CD ._.
+Introduction_NN Current_JJ web_NN data_NNS record_NN extraction_NN methods_NNS =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP mostly_RB based_VBN on_IN HTML_NNP syntax_NN analysis_NN ._.
+Algorithms_NNS and_CC heuristics_NNS are_VBP developed_VBN to_TO identify_VB HTML_NNP tag_NN patterns_NNS ._.
+The_DT boundary_NN of_IN a_DT data_NN record_NN is_VBZ determined_VBN by_IN tag_NN patterns_NNS ._.
+Such_PDT an_DT approach_NN makes_VBZ mi_FW

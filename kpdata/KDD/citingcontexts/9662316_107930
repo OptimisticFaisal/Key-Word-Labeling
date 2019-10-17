@@ -1,0 +1,4 @@
+well_RB on_IN some_DT benchmark_JJ relational_JJ data_NNS and_CC is_VBZ recommended_VBN as_IN a_DT baseline_NN for_IN comparison_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+It_PRP turns_VBZ out_RP that_IN this_DT method_NN is_VBZ closely_RB related_JJ to_TO Gaussian_JJ field_NN for_IN semi-supervised_JJ learning_NN on_IN graphs_NNS =_JJ -_: =[_NN 38_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS relational_JJ classifiers_NNS only_RB captures_VBZ the_DT local_JJ dependency_NN based_VBN on_IN the_DT Markov_NNP assumption_NN ._.
+To_TO capture_VB the_DT long-distance_JJ autocorrelation_NN ,_, latent_JJ group_NN model_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, and_CC nonparametric_JJ infinite_FW hidde_FW

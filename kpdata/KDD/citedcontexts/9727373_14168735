@@ -1,0 +1,5 @@
+∈_CD t_NN -RRB-_-RRB- ES_NN -LRB-_-LRB- a_FW →_FW c_NN -RRB-_-RRB- =_JJ Σ_FW ∀_FW t_NN ∈_NN T_NN ,_, t._NN class_NN =_JJ cΠ_FW ∀_FW i_FW ∈_FW aP_NN -LRB-_-LRB- i_FW ∈_FW t_NN -RRB-_-RRB- ._.
+Conf_NN -LRB-_-LRB- a_FW →_FW c_NN -RRB-_-RRB- =_JJ ES_NN -LRB-_-LRB- a_FW →_FW c_NN -RRB-_-RRB- ES_NN -LRB-_-LRB- a_DT -RRB-_-RRB- ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Some_DT studies_NNS have_VBP criticized_VBN expected_JJ support_NN and_CC defined_VBD another_DT measure_NN which_WDT is_VBZ called_VBN probabilistic_JJ support_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Probabilistic_JJ support_NN is_VBZ defined_VBN as_IN the_DT probability_NN of_IN an_DT itemset_NN to_TO be_VB frequent_JJ with_IN respect_NN to_TO a_DT certain_JJ minimum_JJ expected_JJ support_NN ._.
+However_RB ,_, probabilistic_JJ support_NN increases_VBZ the_DT time_NN complexity_NN sign_NN

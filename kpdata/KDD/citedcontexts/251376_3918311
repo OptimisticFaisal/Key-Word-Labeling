@@ -1,0 +1,4 @@
+recursively_RB ,_, times_NNS ,_, thus_RB mapping_VBG all_DT objects_NNS in_IN to_TO points_NNS in_IN ._.
+Previously_RB we_PRP introduced_VBD MetricMap_NNP -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC compared_VBD the_DT performance_NN of_IN FastMap_NNP and_CC MetricMap_NNP in_IN data_NNS mining_NN and_CC clustering_NN applications_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+The_DT major_JJ difference_NN between_IN FastMap_NNP and_CC MetricMap_NNP lies_VBZ in_IN the_DT target_NN space_NN they_PRP choose_VBP --_: the_DT former_JJ uses_NNS Euclidean_JJ space_NN while_IN the_DT latter_NN uses_VBZ pseudo-Euclidean_JJ space_NN ._.
+Although_IN both_CC FastMap_NN and_CC M_NN

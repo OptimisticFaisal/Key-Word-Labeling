@@ -1,0 +1,3 @@
+poral_JJ information_NN ,_, which_WDT are_VBP described_VBN by_IN two_CD distributions_NNS ,_, respectively_RB :_: a_DT word_NN distribution_NN describing_VBG the_DT semantics_NNS of_IN the_DT topic_NN and_CC a_DT time_NN distribution_NN describing_VBG the_DT topic_NN 's_POS intensity_NN over_IN time_NN =_JJ -_: =[_NN 3_CD ,_, 5_CD ,_, 7_CD ,_, 8_CD ,_, 10_CD ,_, 11_CD ,_, 12_CD ,_, 14_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN many_JJ real-world_JJ applications_NNS ,_, we_PRP are_VBP facing_VBG multiple_JJ text_NN streams_NNS that_WDT are_VBP correlated_VBN to_TO each_DT other_JJ by_IN sharing_VBG common_JJ topics_NNS ._.
+Intuitively_RB ,_, the_DT interactions_NNS among_IN these_DT streams_NNS could_MD provide_VB clues_NNS

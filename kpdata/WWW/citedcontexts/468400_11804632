@@ -1,0 +1,4 @@
+instance_NN DBLP_NN 1_CD ,_, CiteSeer_NN 2_CD ,_, Google_NNP Scholar_NNP 3_CD ,_, Libra_NNP 4_CD ,_, and_CC Dblife_NNP 5_CD ._.
+However_RB ,_, most_JJS of_IN these_DT systems_NNS are_VBP simply_RB modeling_NN documents_NNS based_VBN on_IN unigram_JJ language_NN model_NN -LRB-_-LRB- Zhai_NNP and_CC Lafferty_NNP 2001_CD -RRB-_-RRB- ._.
+Libra_NN -LRB-_-LRB- =_JJ -_: =_JJ Nie_NN et_FW al._FW 2005_CD -_: =--RRB-_NN considers_VBZ papers_NNS ,_, authors_NNS ,_, and_CC conferences_NNS as_IN different_JJ objects_NNS and_CC utilizes_VBZ a_DT PopRank_NN -LRB-_-LRB- by_IN extending_VBG PageRank_NNP ,_, Page_NNP et_FW al._FW 1999_CD -RRB-_-RRB- to_TO rank_VB the_DT different_JJ objects_NNS ._.
+However_RB ,_, its_PRP$ search_NN model_NN is_VBZ still_RB bas_NN

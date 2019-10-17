@@ -1,0 +1,5 @@
+,_, the_DT overall_JJ structure_NN of_IN the_DT algorithm_NN remains_VBZ the_DT same_JJ and_CC the_DT details_NNS can_MD be_VB derived_VBN mechanically_RB ._.
+Here_RB ,_, we_PRP have_VBP applied_VBN AUTOBAYES_NNP to_TO produce_VB the_DT different_JJ variants_NNS of_IN the_DT EM-algorithm_NN ._.
+AUTOBAYES_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 12_CD -RRB-_-RRB- is_VBZ a_DT fully_RB automatic_JJ program_NN synthesis_NN system_NN that_WDT generates_VBZ efficient_JJ and_CC documented_JJ C\/C_NN +_CC +_CC code_NN from_IN abstract_JJ statistical_JJ model_NN specifications_NNS ._.
+•_NN II_CD ._.
+NOTATION_NN D_NN is_VBZ the_DT dimension_NN of_IN the_DT d_NN

@@ -1,0 +1,4 @@
+he_PRP errors_NNS of_IN the_DT weak_JJ classifiers_NNS are_VBP known_VBN ._.
+The_DT crucial_JJ step_NN is_VBZ the_DT computation_NN of_IN the_DT weight_NN distribution_NN since_IN the_DT difficulty_NN of_IN a_DT sample_NN is_VBZ not_RB known_VBN a_DT priori_FW ._.
+To_TO overcome_VB this_DT problem_NN Oza_NNP et_FW al._FW =_SYM -_: =[_NN 12_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBN to_TO compute_VB the_DT importance_NN λ_NN of_IN a_DT sample_NN by_IN propagating_VBG it_PRP through_IN the_DT set_NN of_IN weak_JJ classifiers_NNS ._.
+In_IN fact_NN ,_, λ_NN is_VBZ increased_VBN proportional_JJ to_TO the_DT error_NN e_SYM of_IN the_DT weak_JJ classifier_NN if_IN the_DT sample_NN is_VBZ mis_FW

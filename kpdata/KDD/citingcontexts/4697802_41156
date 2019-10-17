@@ -1,0 +1,4 @@
+stream_NN ._.
+Unfortunately_RB most_JJS of_IN our_PRP$ results_NNS will_MD be_VB lower_JJR bounds_NNS ._.
+As_IN is_VBZ typical_JJ for_IN lower_JJR bounds_NNS in_IN the_DT stream_NN model_NN ,_, our_PRP$ lower_JJR bounds_NNS are_VBP proved_VBN using_VBG reductions_NNS from_IN communication_NN complexity_NN problems_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP denote_VBP Cδ_NN -LRB-_-LRB- f_LS -RRB-_-RRB- as_IN the_DT δ-error_NN randomized_VBD communication_NN complexity_NN of_IN function_NN f._NN Also_RB ,_, let_VB C_NN 1-way_JJ δ_NN -LRB-_-LRB- f_LS -RRB-_-RRB- be_VB the_DT one-way_JJ δ-error_NN randomized_VBD communication_NN complexity_NN of_IN function_NN f._NN Definition_NN 1_CD -LRB-_-LRB- Inde_NN

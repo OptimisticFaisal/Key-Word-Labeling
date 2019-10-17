@@ -1,0 +1,4 @@
+lations_NNS among_IN the_DT attributes_NNS ._.
+Keywords_NNS :_: Association_NNP rules_NNS ,_, support_NN ,_, confidence_NN ,_, gain_NN ,_, dynamic_JJ programming_NN ,_, region_NN bucketing_NN ,_, binary_JJ space_NN partitioning_NN ._.
+1_CD Introduction_NN Association_NN rules_NNS ,_, introduced_VBN in_IN =_JJ -_: =_JJ -LRB-_-LRB- AIS93_NN -RRB-_-RRB- -_: =_JJ -_: ,_, provide_VBP a_DT useful_JJ mechanism_NN for_IN discovering_VBG correlations_NNS among_IN the_DT underlying_VBG data_NNS and_CC have_VBP applications_NNS in_IN marketing_NN ,_, financial_JJ and_CC retail_JJ sectors_NNS ._.
+In_IN its_PRP$ most_RBS general_JJ form_NN ,_, an_DT association_NN rule_NN can_MD

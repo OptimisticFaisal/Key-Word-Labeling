@@ -1,0 +1,5 @@
+DTW_NN -LRB-_-LRB- Q_NNP ,_, Head_NNP -LRB-_-LRB- T_NN -RRB-_-RRB- -RRB-_-RRB- #_# where_WRB D_NN -LRB-_-LRB- ·_NN ,_, ·_NN -RRB-_-RRB- is_VBZ the_DT distance_NN between_IN two_CD points_NNS of_IN the_DT sequence_NN ._.
+Typically_RB ,_, D_NN is_VBZ the_DT Euclidean_JJ distance_NN ._.
+The_DT warping_NN distance_NN can_MD be_VB computed_VBN using_VBG a_DT well_RB known_VBN dynamic_JJ programming_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN Fig._NNP 1_CD we_PRP can_MD see_VB the_DT flexibility_NN of_IN matching_NN that_WDT can_MD be_VB achieved_VBN between_IN trajectories_NNS when_WRB utilizing_VBG the_DT warping_NN distance_NN ._.
+On_IN the_DT left_JJ side_NN we_PRP demonstrate_VBP the_DT mapping_NN between_IN the_DT human_JJ and_CC the_DT

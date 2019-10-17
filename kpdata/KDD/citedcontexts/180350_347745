@@ -1,0 +1,4 @@
+using_VBG four_CD distance_NN functions_NNS on_IN two_CD labeled_VBN data_NNS sets_NNS ._.
+The_DT two_CD labeled_JJ trajectory_JJ data_NN sets_NNS are_VBP the_DT ``_`` Cameramouse_NNP ''_'' -LRB-_-LRB- CM_NN -RRB-_-RRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- and_CC the_DT Australian_JJ Sign_NN Language_NN -LRB-_-LRB- ASL_NN -RRB-_-RRB- data_NNS sets_NNS which_WDT were_VBD also_RB used_VBN in_IN =_JJ -_: =[_NN 22_CD ,_, 36_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT ``_`` Cameramouse_NNP ''_'' data_NN set_NN contains_VBZ 15_CD trajectories_NNS of_IN 5_CD words_NNS -LRB-_-LRB- 3_CD for_IN each_DT word_NN -RRB-_-RRB- obtained_VBN by_IN tracking_VBG the_DT finger_NN tips_NNS of_IN people_NNS as_IN they_PRP ``_`` write_VB ''_'' various_JJ words_NNS ._.
+The_DT ASL_NNP data_NNS set_VBN from_IN UCI_NNP KDD_NNP data_NNS arch_VBP

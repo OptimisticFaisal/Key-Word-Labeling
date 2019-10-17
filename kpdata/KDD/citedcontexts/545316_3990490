@@ -1,0 +1,5 @@
+on_IN show_NN that_IN the_DT supervised_JJ method_NN outperforms_VBZ the_DT semi_NN supervised_JJ method_NN ._.
+Indeed_RB our_PRP$ algorithm_NN does_VBZ not_RB optimize_VB directly_RB this_DT criterion_NN ._.
+Moreover_RB even_RB if_IN AUC_NN and_CC average_JJ precision_NN can_MD be_VB correlated_VBN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT AUC_NN is_VBZ more_RBR related_JJ to_TO negative_JJ examples_NNS than_IN to_TO positive_JJ examples_NNS ._.
+They_PRP are_VBP indeed_RB very_RB few_JJ positive_JJ documents_NNS for_IN each_DT query_NN ._.
+In_IN fact_NN we_PRP could_MD use_VB directly_RB the_DT average_JJ precision_NN as_IN supervised_VBN

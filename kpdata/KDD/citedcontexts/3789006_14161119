@@ -1,0 +1,5 @@
+mporally-sequenced_JJ documents_NNS has_VBZ been_VBN studied_VBN over_IN the_DT last_JJ decade_NN ._.
+Blei_NNP et_FW al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- model_NN the_DT topic_NN evolution_NN over_IN time_NN as_IN a_DT discrete_JJ chain-style_JJ process_NN and_CC each_DT slice_NN is_VBZ modeled_VBN by_IN LDA_NNP ._.
+Wang_NNP et_FW al._FW =_SYM -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: try_VB to_TO model_VB the_DT topics_NNS continuously_RB over_IN time_NN ._.
+Meanwhile_RB ,_, the_DT proliferation_NN of_IN social_JJ media_NNS content_NN makes_VBZ large-scale_JJ temporally_RB ordered_VBN data_NNS available_JJ ._.
+Lin_NNP et_FW al._FW -LRB-_-LRB- 14_CD -RRB-_-RRB- use_VBP the_DT social_JJ network_NN struct_NN

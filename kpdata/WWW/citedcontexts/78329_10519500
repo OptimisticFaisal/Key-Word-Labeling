@@ -1,0 +1,4 @@
+zed_VBN PageRank_NNP -LRB-_-LRB- Haveliwala_NNP ,_, 2002_CD -RRB-_-RRB- ._.
+We_PRP apply_VBP our_PRP$ algorithms_NNS to_TO two_CD seman-tic_JJ relatedness_NN tasks_NNS :_: word_NN semantic_JJ relatedness_NN on_IN the_DT Miller_NNP and_CC Charles_NNP -LRB-_-LRB- Miller_NNP and_CC Charles_NNP ,_, 1991_CD -RRB-_-RRB- and_CC WordSim-353_NN datasets_NNS -LRB-_-LRB- =_JJ -_: =_JJ Finkelstein_NNP et_FW al._FW ,_, 2002_CD -_: =--RRB-_NN ,_, and_CC semantic_JJ similarity_NN on_IN documents_NNS -LRB-_-LRB- Lee_NNP et_FW al._FW ,_, 2005_CD -RRB-_-RRB- ._.
+We_PRP find_VBP that_IN the_DT graph_NN structure_NN of_IN Wikipedia_NNP provides_VBZ some_DT relatedness_NN information_NN not_RB represented_VBN in_IN the_DT text_NN of_IN the_DT articles_NNS ._.
+Our_PRP$ best_JJS sy_NN

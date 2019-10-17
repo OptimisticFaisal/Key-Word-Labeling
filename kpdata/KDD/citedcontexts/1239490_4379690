@@ -1,0 +1,3 @@
+t_NN published_JJ scores_NNS to_TO date_NN ._.
+Other_JJ work_NN on_IN parallel_NN boosting_VBG includes_VBZ parallel_JJ boosting_VBG of_IN binary_JJ concepts_NNS using_VBG decision_NN trees_NNS -LRB-_-LRB- Fern_NNP and_CC Givan_NNP 2003_CD -RRB-_-RRB- ,_, and_CC boosting_VBG with_IN disjoint_JJ distributed_VBN data_NN sets_NNS -LRB-_-LRB- =_JJ -_: =_JJ Fan_NN et_FW al._FW 1999_CD -_: =_JJ -_: ;_: Lazarevic_NNP and_CC Obradovic_NNP 2001_CD ;_: Chawla_NNP et_FW al._FW 2002_CD -RRB-_-RRB- ._.
+POCA_NN :_: Parallel_JJ Online_JJ Continuous_JJ Arcing_NN The_DT basic_JJ idea_NN behind_IN the_DT POCA_NNP algorithm_NN is_VBZ straightforward_JJ :_: Each_DT exemplar_NN is_VBZ received_VBN from_IN the_DT environment_NN

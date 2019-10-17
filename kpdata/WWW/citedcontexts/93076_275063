@@ -1,0 +1,5 @@
+total_JJ running_VBG time_NN becomes_VBZ O_NN -LRB-_-LRB- m_NN log_NN n_NN \/_: -LRB-_-LRB- ɛ_FW ·_FW c_NN -RRB-_-RRB- -RRB-_-RRB- ._.
+Dangling_VBG nodes_NNS So_RB far_RB we_PRP have_VBP ignored_VBN ,_, and_CC in_IN the_DT rest_NN of_IN the_DT paper_NN for_IN the_DT ease_NN of_IN presentation_NN we_PRP will_MD continue_VB to_TO ignore_VB the_DT issue_NN of_IN dangling_VBG nodes_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, ie_FW ._.
+nodes_NNS with_IN outdegree_NN equal_JJ to_TO zero_VB ._.
+One_CD option_NN to_TO overcome_VB the_DT difficulty_NN presented_VBN by_IN dangling_VBG nodes_NNS is_VBZ to_TO teleport_VB uniformly_RB when_WRB following_VBG their_PRP$ ``_`` out-links_NNS ''_'' ._.
+In_IN dynamic_JJ programming_NN we_PRP can_MD imp_VB

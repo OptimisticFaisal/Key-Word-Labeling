@@ -1,0 +1,3 @@
+pport_NN ,_, requiring_VBG all_DT items_NNS of_IN an_DT itemset_NN to_TO be_VB present_JJ in_IN a_DT transaction_NN ,_, is_VBZ relaxed_VBN ._.
+Early_JJ approaches_NNS -LRB-_-LRB- Boulicaut_NNP and_CC Bykowski_NNP ,_, 2000_CD ;_: Pei_NNP et_FW al._FW ;_: Yang_NNP et_FW al._FW ,_, 2001a_CD -RRB-_-RRB- suffered_VBD mainly_RB from_IN two_CD problems_NNS -LRB-_-LRB- =_JJ -_: =_JJ Seppänen_NNP and_CC Mannila_NNP ,_, 2004_CD -_: =--RRB-_NN :_: smaller_JJR patterns_NNS could_MD be_VB less_RBR frequent_JJ than_IN larger_JJR patterns_NNS and_CC the_DT same_JJ item_NN could_MD be_VB missing_VBG from_IN all_DT involved_VBN transactions_NNS ._.
+These_DT problems_NNS were_VBD fixed_VBN by_IN the_DT definition_NN of_IN dense_JJ itemsets_NNS in_IN -LRB-_-LRB- Sep_NN

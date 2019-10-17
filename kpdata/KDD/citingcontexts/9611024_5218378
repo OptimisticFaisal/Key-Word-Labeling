@@ -1,0 +1,4 @@
+nd_IN many_JJ implementations_NNS are_VBP not_RB readily_RB available_JJ ._.
+As_IN a_DT result_NN ,_, there_EX are_VBP hardly_RB any_DT data_NNS sets_NNS over_IN which_WDT many_JJ algorithms_NNS have_VBP been_VBN compared_VBN directly_RB ._.
+We_PRP have_VBP implemented_VBN SVMauc_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, SVMmap_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, DORM_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, McRank_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, as_RB well_RB as_IN our_PRP$ new_JJ proposals_NNS SVMmrr_NN and_CC SVMndcg_NN ,_, in_IN a_DT common_JJ open-source_JJ Java_NNP testbed_NN -LRB-_-LRB- http_NN :_: \/_: \/_: www.cse.iitb.ac.in\/soumen\/doc\/StructRank\/_NN -RRB-_-RRB- ._.
+We_PRP ran_VBD all_PDT the_DT algorithms_NNS on_IN the_DT well-known_JJ L_NN

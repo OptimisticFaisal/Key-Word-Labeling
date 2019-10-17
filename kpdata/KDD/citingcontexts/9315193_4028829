@@ -1,0 +1,4 @@
+e_LS scale_NN applications_NNS ._.
+For_IN dynamic_JJ graphs_NNS ,_, a_DT lot_NN of_IN SVD_NNP based_VBN techniques_NNS have_VBP been_VBN proposed_VBN ,_, such_JJ as_IN multiple_JJ time_NN series_NN mining_NN -LRB-_-LRB- 15_CD ,_, 23_CD -RRB-_-RRB- ,_, dynamic_JJ tensor_NN analysis_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, incremental_JJ spectral_JJ clustering_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: etc._NN ._.
+As_IN for_IN the_DT static_JJ graphs_NNS ,_, these_DT methods_NNS might_MD suffer_VB from_IN the_DT loss-ofsparsity_JJ issue_NN for_IN large_JJ sparse_JJ graphs_NNS despite_IN their_PRP$ success_NN in_IN the_DT general_JJ cases_NNS ._.
+Sun_NNP et_FW al_FW -LRB-_-LRB- 28_CD -RRB-_-RRB- deal_NN with_IN this_DT issue_NN by_IN app_NN

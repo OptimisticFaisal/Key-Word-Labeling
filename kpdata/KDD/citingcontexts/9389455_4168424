@@ -1,0 +1,4 @@
+labeling_NN work_NN at_IN the_DT sub-document_JJ level_NN ._.
+Why_WRB MILBoost_NN :_: There_EX are_VBP quite_RB a_DT few_JJ MIL_NNP learning_NN methods_NNS available_JJ ._.
+Among_IN them_PRP we_PRP choose_VBP MILBoost_NN ,_, which_WDT combines_VBZ MIL_NN approaches_NNS with_IN ensemble_NN approaches_NNS 1052_CD =_SYM -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT reasons_NNS are_VBP two-fold_JJ :_: First_JJ ,_, the_DT state_NN of_IN the_DT art_NN traditional_JJ algorithms_NNS use_VBP boosting_VBG -LRB-_-LRB- as_IN we_PRP will_MD see_VB later_RB -RRB-_-RRB- and_CC we_PRP needed_VBD a_DT framework_NN to_TO accurately_RB measure_VB the_DT added_VBN effectiveness_NN of_IN the_DT MIL_NN fr_NN

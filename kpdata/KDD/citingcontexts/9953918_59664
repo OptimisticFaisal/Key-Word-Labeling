@@ -1,0 +1,4 @@
+ype_NN for_IN values_NNS -LRB-_-LRB- float_NN for_IN possible_JJ decaying_JJ -RRB-_-RRB- ,_, with_IN a_DT same_JJ array_NN index_NN coupling_NN an_DT -LRB-_-LRB- index_NN ,_, value_NN -RRB-_-RRB- pair_NN ._.
+This_DT data_NNS structure_NN can_MD be_VB viewed_VBN as_IN a_DT flattened_VBN adaptation_NN of_IN Yale_NNP sparse_JJ matrix_NN representation_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP further_RB split_VBD the_DT representations_NNS of_IN features_NNS and_CC targets_NNS for_IN fast_JJ access_NN of_IN both_DT ,_, particularly_RB the_DT tensor_NN product_NN yi_FW ⊗_FW xi_FW ,_, the_DT major_JJ computational_JJ cost_NN for_IN model_NN updates_NNS ._.
+5_CD One_CD example_NN may_MD conta_VB

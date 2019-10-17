@@ -1,0 +1,4 @@
+ieval_JJ performance_NN ._.
+However_RB ,_, unlike_IN the_DT high_JJ computational_JJ and_CC memory_NN requirements_NNS of_IN LSI_NNP ,_, CI_NNP can_MD compute_VB the_DT lower_JJR dimensional_JJ space_NN very_RB fast_RB by_IN using_VBG near_IN linear_JJ time_NN document_NN clustering_NN algorithms_VBZ =_JJ -_: =[_NN 7_CD ,_, 17_CD ,_, 6_CD ,_, 20_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Experiments_NNS presented_VBN in_IN -LRB-_-LRB- 17_CD -RRB-_-RRB- show_VBP that_IN CI_NN is_VBZ an_DT order_NN of_IN magnitude_NN when_WRB compared_VBN to_TO LSI_NNP and_CC has_VBZ a_DT linear_JJ memory_NN complexity_NN ._.
+The_DT focus_NN of_IN this_DT paper_NN is_VBZ to_TO extend_VB and_CC experimentally_RB evaluate_VB concept_NN

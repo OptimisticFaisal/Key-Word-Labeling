@@ -1,0 +1,5 @@
+implementation_NN of_IN a_DT clustering_NN algorithm_NN in_IN SQL_NNP ._.
+Our_PRP$ K-means_JJ proposal_NN shares_NNS some_DT similarities_NNS with_IN the_DT EM_NN algorithm_NN implemented_VBN in_IN SQL_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+This_DT implementation_NN was_VBD later_RB adapted_VBN to_TO cluster_VB gene_NN data_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, with_IN basically_RB the_DT same_JJ approach_NN ._.
+We_PRP explain_VBP important_JJ differences_NNS between_IN the_DT EM_NN and_CC K-means_NN implementations_NNS in_IN SQL_NNP ._.
+K-means_NNS is_VBZ an_DT algorithm_NN strictly_RB based_VBN on_IN distance_NN computation_NN ,_, whereas_IN EM_NN is_VBZ ba_NN

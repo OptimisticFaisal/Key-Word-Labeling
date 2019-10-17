@@ -1,0 +1,4 @@
+se_FW size_NN is_VBZ dd_NN for_IN d-dimensional_JJ data_NNS -RRB-_-RRB- is_VBZ very_RB expensive_JJ to_TO compute_VB ._.
+The_DT computational_JJ complexity_NN of_IN estimating_VBG the_DT PCA_NNP is_VBZ O_NN -LRB-_-LRB- d_NN 2_CD N_NN -RRB-_-RRB- +_CC O_NN -LRB-_-LRB- d_NN 3_CD -RRB-_-RRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+There_EX exists_VBZ computationally_RB less_RBR expensive_JJ methods_NNS -LRB-_-LRB- =_JJ -_: =_JJ 26_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: forsnding_VBG only_RB a_DT few_JJ eigenvectors_NNS and_CC eigenvalues_NNS of_IN a_DT large_JJ matrix_NN ;_: in_IN our_PRP$ experiments_NNS ,_, we_PRP use_VBP appropriate_JJ Matlab_NNP routines_NNS to_TO realize_VB these_DT ._.
+A_DT closely_RB related_JJ method_NN is_VBZ singular_JJ value_NN decomposition_NN

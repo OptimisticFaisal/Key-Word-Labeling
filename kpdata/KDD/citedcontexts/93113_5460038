@@ -1,0 +1,4 @@
+of_IN the_DT vertical_JJ organization_NN over_IN the_DT horizontal_JJ organization_NN ._.
+They_PRP also_RB introduced_VBD the_DT VIPER_NNP algorithm_NN that_WDT uses_VBZ a_DT combination_NN of_IN horizontal_JJ and_CC vertical_JJ formats_NNS to_TO reduce_VB the_DT space_NN ._.
+Zaki_NNP and_CC Gouda_NNP =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: presented_VBD a_DT vertical_JJ data_NN representation_NN called_VBN Diffset_NNP that_WDT only_RB keeps_VBZ track_NN of_IN the_DT differences_NNS in_IN the_DT TidLists_NNP of_IN a_DT candidate_NN pattern_NN from_IN its_PRP$ generating_VBG frequent_JJ patterns_NNS ._.
+A_DT vertical_JJ vector_NN organi_NNS

@@ -1,0 +1,5 @@
+tection_NN which_WDT requires_VBZ higher_JJR level_NN analysis_NN ._.
+Work_NN in_IN time_NN series_NN and_CC traditional_JJ anomaly_JJ detection_NN also_RB touches_NNS on_IN our_PRP$ problem_NN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- presents_VBZ techniques_NNS which_WDT can_MD query_VB for_IN shapes_NNS in_IN time_NN series_NN ,_, and_CC =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: automatically_RB discovers_VBZ motifs_NNS in_IN time_NN series_NN ._.
+Algorithms_NNS in_IN this_DT area_NN are_VBP helpful_JJ and_CC could_MD be_VB applied_VBN in_IN ROAM_NNP ,_, but_CC our_PRP$ framework_NN does_VBZ more_JJR than_IN just_RB motif_NN discovery_NN ._.
+It_PRP builds_VBZ a_DT hierarchical_JJ featur_NN

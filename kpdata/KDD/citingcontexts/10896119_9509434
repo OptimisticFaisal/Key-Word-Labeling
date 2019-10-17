@@ -1,0 +1,3 @@
+zed_VBN Partial_JJ Least_NNP Squares_NNPS Partial_JJ least_JJS squares_NNS -LRB-_-LRB- PLS_NN -RRB-_-RRB- -LRB-_-LRB- 29_CD -RRB-_-RRB- is_VBZ a_DT family_NN of_IN methods_NNS for_IN modeling_NN relations_NNS between_IN two_CD sets_NNS of_IN variables_NNS ._.
+In_IN this_DT paper_NN ,_, the_DT Orthonormalized_JJ Partial_JJ Least_NN Squares_NNS -LRB-_-LRB- OPLS_NNS -RRB-_-RRB- =_JJ -_: =[_NN 30_CD ,_, 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT popular_JJ variant_NN of_IN PLS_NN ,_, is_VBZ studied_VBN ._.
+In_IN contrast_NN to_TO CCA_NNP ,_, OPLS_NNP computes_VBZ orthogonal_JJ score_NN vectors_NNS by_IN maximizing_VBG the_DT covariance_NN between_IN X_NNP and_CC Y._NNP It_PRP solves_VBZ the_DT following_JJ generalized_JJ eigenvalue_NN problem_NN :_:

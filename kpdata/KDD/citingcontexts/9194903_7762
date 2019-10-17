@@ -1,0 +1,4 @@
+s_NN effectiveness_NN and_CC scalability_NN ._.
+1.1_CD Related_NNP Work_NNP Several_JJ algorithms_NNS have_VBP been_VBN proposed_VBN to_TO deal_VB with_IN either_CC bags_NN of_IN words_NNS or_CC bags_NNS of_IN users_NNS ._.
+Specifically_RB ,_, Probabilistic_JJ Latent_JJ Semantic_JJ Analysis_NN -LRB-_-LRB- PLSA_NN -RRB-_-RRB- =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Latent_JJ DirichletAllocation_NN -LRB-_-LRB- LDA_NN -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- model_NN document-word_NN co-occurrence_NN ,_, which_WDT is_VBZ similar_JJ to_TO the_DT bags_NN of_IN words_NNS community_NN view_NN ._.
+Probabilistic_JJ Hypertext_NN Induced_VBN Topic_JJ Selection_NN -LRB-_-LRB- PHITS_NN -RRB-_-RRB- -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, a_DT varia_NN

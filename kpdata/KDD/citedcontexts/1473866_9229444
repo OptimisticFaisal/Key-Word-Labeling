@@ -1,0 +1,4 @@
+d_NN imposes_VBZ a_DT difficult_JJ problem_NN for_IN many_JJ generic_JJ inference_NN methods_NNS -LRB-_-LRB- Poon_NNP and_CC Domingos_NNP ,_, 2006_CD -RRB-_-RRB- ._.
+In_IN our_PRP$ first_JJ set_NN of_IN experiments_NNS we_PRP used_VBD a_DT cleaned_VBN version_NN -LRB-_-LRB- Singla_NNP and_CC Domingos_NNP ,_, 2005_CD -RRB-_-RRB- of_IN the_DT Cora_NNP Database_NNP -LRB-_-LRB- =_JJ -_: =_JJ Bilenko_NNP and_CC Mooney_NNP ,_, 2003_CD -_: =-]_CD ,_, containing_VBG approximately_RB 1200_CD citations_NNS of_IN computer_NN science_NN articles_NNS ._.
+In_IN total_JJ these_DT citations_NNS refer_VBP to_TO about_IN 120_CD unique_JJ publications_NNS ._.
+Following_VBG previous_JJ work_NN -LRB-_-LRB- Singla_NNP and_CC Domingos_NNP ,_, 2006b_CD -RRB-_-RRB- ,_, we_PRP teste_VBP

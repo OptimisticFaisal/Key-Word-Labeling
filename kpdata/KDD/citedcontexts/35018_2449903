@@ -1,0 +1,4 @@
+ense_NN regions_NNS with_IN respect_NN to_TO a_DT certain_JJ value_NN ._.
+In_IN the_DT next_JJ sections_NNS ,_, we_PRP discuss_VBP how_WRB to_TO identify_VB only_RB a_DT subset_NN of_IN them_PRP which_WDT are_VBP of_IN practical_JJ interest_NN ._.
+2.2_CD Algorithm_NNP for_IN Mining_NNP Dense_NNP Regions_NNP Yang_NNP et_FW al_FW =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: suggest_VBP an_DT algorithm_NN for_IN finding_VBG error-tolerant_JJ frequent_JJ itemsets_NNS from_IN high-dimensional_JJ data_NNS ._.
+The_DT investigating_VBG problem_NN of_IN the_DT paper_NN is_VBZ similar_JJ but_CC not_RB identical_JJ to_TO dense_JJ regions_NNS discovery_NN in_IN which_WDT f_SYM

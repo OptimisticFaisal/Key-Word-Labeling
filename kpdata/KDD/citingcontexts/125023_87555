@@ -1,0 +1,4 @@
+ROC_NN points_NNS ._.
+For_IN example_NN ,_, a_DT classifier_NN that_WDT produces_VBZ probabilities_NNS of_IN an_DT example_NN being_VBG in_IN each_DT class_NN ,_, such_JJ as_IN a_DT Naive_JJ Bayes_NNP classifier_NN ,_, can_MD have_VB a_DT threshold_NN parameter_NN biasing_VBG the_DT final_JJ class_NN selection_NN =_JJ -_: =[_NN 3_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Plotting_VBG all_PDT the_DT ROC_NN points_NNS that_WDT can_MD be_VB produced_VBN by_IN varying_VBG these_DT parameters_NNS produces_VBZ an_DT ROC_NN curve_NN for_IN the_DT classifier_NN ._.
+Typically_RB this_DT is_VBZ a_DT discrete_JJ set_NN of_IN points_NNS ,_, including_VBG -LRB-_-LRB- 0,0_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 1,1_CD -RRB-_-RRB- ,_, which_WDT ar_VBP

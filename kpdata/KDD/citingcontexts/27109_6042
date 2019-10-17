@@ -1,0 +1,3 @@
+t_NN stuck_VBN in_IN local_JJ minima_NN ._.
+3.1_CD Spectral_JJ Graph_NN Bipartitioning_VBG Spectral_JJ graph_NN partitioning_NN is_VBZ another_DT eective_JJ heuristic_NN that_WDT was_VBD introduced_VBN by_IN Hall_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, Donath_NNP &_CC Hofmann_NNP -LRB-_-LRB- 9_CD -RRB-_-RRB- and_CC Fiedler_NNP in_IN the_DT early_JJ 1970s_CD -LRB-_-LRB- =_JJ -_: =_JJ 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC popularized_VBN in_IN 1990_CD by_IN Pothen_NNP ,_, Simon_NNP and_CC Liou_NNP -LRB-_-LRB- 28_CD -RRB-_-RRB- ._.
+The_DT spectral_JJ partitioning_NN heuristic_NN uses_VBZ the_DT second_JJ eigenvector_NN of_IN an_DT associated_VBN matrix_NN for_IN bipartitioning_VBG the_DT graph_NN and_CC has_VBZ been_VBN found_VBN to_TO give_VB

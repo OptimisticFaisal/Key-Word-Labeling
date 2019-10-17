@@ -1,0 +1,4 @@
+ng_NN an_DT online_JJ community_NN or_CC an_DT interest_NN group_NN ,_, buying_VBG a_DT paid_VBN subscription_NN in_IN an_DT on-line_JJ service_NN ,_, and_CC so_RB on_RB ._.
+We_PRP assume_VBP that_IN those_DT actions_NNS have_VBP propagated_VBN in_IN the_DT network_NN via_IN the_DT independent_JJ cascade_NN model_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT maximum_NN likelihood_NN parameters_NNS of_IN this_DT model_NN can_MD be_VB found_VBN for_IN instance_NN by_IN using_VBG the_DT EM_NN algorithm_NN of_IN Saito_NNP et_FW al._FW -LRB-_-LRB- 28_CD -RRB-_-RRB- ._.
+Given_VBN the_DT parameters_NNS we_PRP formulate_VBP the_DT sparsification_NN problem_NN ,_, which_WDT is_VBZ the_DT f_SYM

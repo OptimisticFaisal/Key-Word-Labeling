@@ -1,0 +1,7 @@
+hile_VB the_DT information_NN gain_NN of_IN C_NN is_VBZ 0.029_CD -LRB-_-LRB- resp_NN ._.
+0.030_CD -RRB-_-RRB- ._.
+We_PRP learn_VBP from_IN these_DT examples_NNS that_IN the_DT proportions_NNS of_IN examples_NNS can_MD `_`` fool_VB '_'' heuristic_NN decision_NN trees_NNS into_IN an_DT suboptimal_JJ shape_NN as_IN already_RB noticed_VBN by_IN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Optimal_JJ learners_NNS are_VBP less_RBR sensitive_JJ to_TO such_JJ behavior_NN ._.
+5_CD ._.
+THE_DT DL8_NN ALGORITHM_NN We_PRP will_MD now_RB present_VB the_DT DL8_NN algorithm_NN for_IN answering_VBG decision_NN tree_NN queries_NNS ._.
+Pseudo-code_NN of_IN the_DT algorithm_NN is_VBZ given_VBN in_IN Algorit_NNP

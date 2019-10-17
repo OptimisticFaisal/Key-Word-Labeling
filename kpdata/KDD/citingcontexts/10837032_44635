@@ -1,0 +1,4 @@
+individual_JJ features_NNS are_VBP uncorrelated_JJ ._.
+The_DT SVD-based_JJ approach_NN for_IN dimensionality_NN reduction_NN ,_, -LRB-_-LRB- 3_CD ,_, 17_CD -RRB-_-RRB- condenses_VBZ most_JJS of_IN the_DT information_NN in_IN a_DT dataset_NN to_TO a_DT few_JJ dimensions_NNS determined_VBN by_IN the_DT top_JJ eigenvectors_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT approach_NN has_VBZ two_CD drawbacks_NNS ;_: it_PRP is_VBZ computationally_RB expensive_JJ and_CC does_VBZ not_RB perform_VB well_RB on_IN sparse_JJ matrices_NNS ._.
+One_CD popular_JJ approach_NN regarding_VBG sparseness_NN is_VBZ to_TO fill_VB missing_VBG data_NNS with_IN row_NN or_CC column_NN av_IN

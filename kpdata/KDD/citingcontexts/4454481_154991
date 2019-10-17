@@ -1,0 +1,4 @@
+th_DT -LCB-_-LRB- p_NN -LRB-_-LRB- w_NN |_CD θ_NN -RRB-_-RRB- -RCB-_-RRB- -RRB-_-RRB- or_CC a_DT candidate_NN label_NN ._.
+Each_DT edge_NN between_IN a_DT label_NN and_CC a_DT topical_JJ term_NN is_VBZ then_RB weighted_VBN with_IN the_DT pointwise_JJ mutual_JJ information_NN PMI_NN -LRB-_-LRB- w_NN ,_, l_NN |_NN C_NN -RRB-_-RRB- ,_, which_WDT is_VBZ often_RB used_VBN to_TO measure_VB semantic_JJ associations_NNS =_JJ -_: =[_NN 7_CD ,_, 15_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Thus_RB the_DT weight_NN of_IN each_DT node_NN indicates_VBZ the_DT importance_NN of_IN the_DT term_NN to_TO this_DT topic_NN ,_, while_IN the_DT weight_NN of_IN each_DT edge_NN indicates_VBZ how_WRB strongly_RB the_DT label_NN and_CC the_DT term_NN are_VBP semantically_RB associated_VBN ._.
+The_DT scoring_VBG

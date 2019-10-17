@@ -1,0 +1,4 @@
+breakthrough_NN is_VBZ hard_JJ to_TO overestimate_VB ._.
+Still_RB ,_, since_IN this_DT work_NN ,_, very_RB few_JJ other_JJ subjective_JJ interestingness_NN measures_NNS have_VBP been_VBN proposed_VBN -LRB-_-LRB- see_VB -LRB-_-LRB- 8_CD -RRB-_-RRB- for_IN an_DT overview_NN -RRB-_-RRB- ._.
+The_DT most_RBS promising_JJ one_NN is_VBZ probably_RB from_IN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB the_DT authors_NNS suggest_VBP to_TO model_VB transactions_NNS in_IN a_DT binary_JJ database_NN using_VBG Graphical_JJ Models_NNS ,_, and_CC use_VB this_DT model_NN to_TO compute_VB the_DT expected_VBN support_NN of_IN itemsets_NNS ._.
+Itemsets_NNS are_VBP then_RB deemed_VBN more_RBR interesting_JJ

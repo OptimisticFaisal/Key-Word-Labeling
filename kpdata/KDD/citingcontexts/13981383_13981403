@@ -1,0 +1,4 @@
+ich_NN was_VBD applied_VBN to_TO a_DT dataset_NN of_IN about_IN 2000_CD patients_NNS with_IN diabetes_NN ._.
+More_RBR broadly_RB ,_, several_JJ published_VBN papers_NNS discuss_VBP the_DT challenges_NNS faced_VBN in_IN analyzing_VBG EMR_NN data_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- starting_VBG from_IN data_NN integration_NN aspects_NNS =_JJ -_: =[_NN 28_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: to_TO privacy_NN issues_NNS -LRB-_-LRB- 23_CD ,_, 31_CD -RRB-_-RRB- ._.
+Interest_NN in_IN the_DT KDD_NNP community_NN has_VBZ blossomed_VBN recently_RB ,_, e.g._FW ,_, in_IN -LRB-_-LRB- 34_CD -RRB-_-RRB- ,_, a_DT multi_JJ label_NN classifier_NN is_VBZ proposed_VBN that_WDT learns_VBZ intercode_NN relationships_NNS from_IN clinical_JJ free_JJ text_NN ._.
+In_IN a_DT

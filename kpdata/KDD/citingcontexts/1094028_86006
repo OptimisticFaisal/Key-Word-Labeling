@@ -1,0 +1,4 @@
+a_DT pattern_NN ,_, or_CC not_RB -RRB-_-RRB- ._.
+Furthermore_RB ,_, one_CD can_NN think_NN of_IN binary_JJ classifiers_NNS as_IN binary_JJ features_NNS ._.
+The_DT following_VBG potential_JJ applications_NNS explain_VBP our_PRP$ motivation_NN for_IN working_VBG on_IN miki_NN 's_POS :_: •_FW Feature_FW selection_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- -LRB-_-LRB- 10_CD -RRB-_-RRB- =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =-[_NN 22_CD -RRB-_-RRB- in_IN binary_JJ databases_NNS ._.
+A_DT considerable_JJ number_NN of_IN Data_NNP Mining_NNP techniques_NNS is_VBZ hindered_VBN by_IN the_DT presence_NN of_IN many_JJ attributes_NNS ,_, either_CC due_JJ to_TO the_DT presence_NN of_IN irrelevant_JJ attributes_NNS ,_, or_CC for_IN reasons_NNS of_IN efficie_NN

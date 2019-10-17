@@ -1,0 +1,5 @@
+ring_NN text_NN documents_NNS ._.
+Clustering_NN words_NNS and_CC documents_NNS are_VBP closely_RB related_JJ ._.
+Nevertheless_RB ,_, clustering_NN of_IN words_NNS and_CC documents_NNS are_VBP usually_RB treated_VBN as_IN two_CD separate_JJ problems_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, co-clustering_NN =_JJ -_: =[_NN 28_CD ,_, 81_CD ,_, 56_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT data_NN mining_NN technique_NN with_IN various_JJ applications_NNS such_JJ as_IN text_NN clustering_NN and_CC microarray_NN analysis_NN ._.
+Co-clustering_JJ algorithms_NNS try_VBP to_TO simultaneously_RB cluster_VB rows_NNS and_CC columns_NNS of_IN a_DT two-dimensional_JJ data_NNS

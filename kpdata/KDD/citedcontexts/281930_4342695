@@ -1,0 +1,4 @@
+domain_NN dependent_JJ ._.
+Following_VBG the_DT classification_NN for_IN the_DT outlier_NN detection_NN methods_NNS ,_, the_DT literature_NN broadly_RB falls_VBZ into_IN the_DT following_JJ categories_NNS :_: depth-based_JJ -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, distributionbased_JJ -LRB-_-LRB- 3_CD ,_, 9_CD -RRB-_-RRB- ,_, distance-based_JJ =_JJ -_: =[_NN 12_CD ,_, 11_CD ,_, 4_CD ,_, 2_CD ,_, 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, density-based_JJ -LRB-_-LRB- 5_CD ,_, 21_CD -RRB-_-RRB- ,_, and_CC examplebased_JJ -LRB-_-LRB- 27_CD ,_, 20_CD -RRB-_-RRB- ._.
+The_DT depth-based_JJ method_NN is_VBZ based_VBN on_IN computational_JJ geometry_NN and_CC computing_NN layers_NNS of_IN the_DT k-d_FW convex_FW hull_NN ._.
+Objects_NNS in_IN the_DT outer_JJ layer_NN are_VBP identified_VBN as_IN

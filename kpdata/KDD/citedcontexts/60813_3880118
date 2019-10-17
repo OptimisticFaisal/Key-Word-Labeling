@@ -1,0 +1,5 @@
+esults_NNS ._.
+Note_VB that_IN both_DT MCML_NNP and_CC LMNN_NNP are_VBP not_RB amenable_JJ to_TO optimization_NN subject_JJ to_TO pairwise_JJ distance_NN constraints_NNS ._.
+Instead_RB ,_, we_PRP compare_VBP our_PRP$ method_NN to_TO the_DT semi-supervised_JJ clustering_NN algorithm_NN HMRF-KMeans_NNS -LRB-_-LRB- =_JJ -_: =_JJ Basu_NNP et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN ._.
+We_PRP use_VBP a_DT standard_JJ 2-fold_JJ cross_NN validation_NN approach_NN for_IN evaluating_VBG semi-supervised_JJ clustering_NN results_NNS ._.
+Distances_NNS are_VBP constrained_VBN to_TO be_VB either_CC similar_JJ or_CC dissimilar_JJ ,_, based_VBN on_IN class_NN values_NNS ,_, and_CC are_VBP dr_NN

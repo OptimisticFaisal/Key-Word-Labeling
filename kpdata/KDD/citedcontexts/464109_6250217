@@ -1,0 +1,4 @@
+e_LS -RRB-_-RRB- ._.
+Note_VB that_IN this_DT is_VBZ not_RB equivalent_JJ to_TO training_VBG a_DT new_JJ SVM_NNP classifier_NN from_IN scratch_NN on_IN the_DT p_NN most_RBS recent_JJ examples_NNS ,_, because_IN each_DT successive_JJ optimization_NN problem_NN is_VBZ seeded_VBN with_IN the_DT previous_JJ hypothesis_NN w_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT hypothesis_NN may_MD contain_VB values_NNS for_IN features_NNS that_WDT do_VBP not_RB occur_VB anywhere_RB in_IN the_DT p_NN most_RBS recent_JJ examples_NNS ,_, and_CC these_DT will_MD not_RB be_VB changed_VBN ._.
+This_DT allows_VBZ the_DT hypothesis_NN to_TO remember_VB rare_JJ -LRB-_-LRB- but_CC informative_JJ -RRB-_-RRB-

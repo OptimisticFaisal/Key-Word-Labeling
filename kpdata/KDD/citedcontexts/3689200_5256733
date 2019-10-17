@@ -1,0 +1,4 @@
+y_NN on_IN PCA_NNP for_IN data_NNS streams_NNS w.r.t_VBP both_DT correlations_NNS and_CC autocorrelations_NNS ._.
+Streaming_VBG PCA_NN and_CC eigenspace_NN tracking_NN of_IN correlations_NNS -LRB-_-LRB- but_CC not_RB autocorrelation_NN -RRB-_-RRB- among_IN multiple_JJ data_NNS streams_NNS has_VBZ been_VBN studied_VBN in_IN =_JJ -_: =[_NN 32_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4_LS ._.
+Privacy_NN with_IN Dynamic_NNP Correlations_NNS We_PRP first_RB give_VBP the_DT insight_NN behind_IN our_PRP$ data_NNS perturbation_NN and_CC reconstruction_NN methods_NNS ,_, then_RB present_JJ methods_NNS for_IN correlation-based_JJ noise_NN perturbation_NN and_CC reconstructi_NNS

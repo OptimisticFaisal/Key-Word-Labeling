@@ -1,0 +1,5 @@
+ocused_VBN on_IN finding_VBG interesting_JJ patterns_NNS in_IN a_DT single_JJ stream_NN ._.
+Ganti_FW et_FW al._FW -LRB-_-LRB- 9_CD -RRB-_-RRB- propose_VBP a_DT generic_JJ framework_NN for_IN stream_NN mining_NN ._.
+Guha_NNP et_FW al._FW -LRB-_-LRB- 11_CD -RRB-_-RRB- propose_VBP a_DT one-pass_JJ k-median_NN clustering_NN algorithm_NN ._.
+Recently_RB ,_, =_JJ -_: =[_NN 14_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: address_VB the_DT problem_NN of_IN finding_VBG patterns_NNS over_IN concept_NN drifting_VBG streams_NNS ._.
+10srelative_JJ error_NN 0.1_CD 0.08_CD 0.06_CD 0.04_CD 0.02_CD 0_CD Group1_NN Group2_NN Group3_NN Group4_NN 20_CD 40_CD 60_CD period_NN 80_CD 100_CD relative_JJ error_NN 0.1_CD 0.08_CD 0.06_CD 0.04_CD

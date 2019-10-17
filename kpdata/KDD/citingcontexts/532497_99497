@@ -1,0 +1,4 @@
+chieved_VBN by_IN minimizing_VBG the_DT cut_NN ._.
+Usually_RB ,_, balanced_JJ clusters_NNS are_VBP more_RBR preferred_JJ ,_, so_IN some_DT variations_NNS of_IN the_DT definition_NN of_IN cut_NN were_VBD proposed_VBN and_CC therefore_RB different_JJ kinds_NNS of_IN spectral_JJ clustering_NN methods_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =-[_NN 22_CD -RRB-_-RRB- were_VBD derived_VBN ._.
+For_IN example_NN ,_, Ratio_NNP Cut_NNP -LRB-_-LRB- 12_CD -RRB-_-RRB- is_VBZ achieved_VBN by_IN balancing_VBG cluster_NN sizes_NNS ,_, while_IN Normalized_NNP Cut_NNP -LRB-_-LRB- 22_CD -RRB-_-RRB- is_VBZ attained_VBN by_IN balancing_VBG cluster_NN weights_NNS ._.
+Among_IN these_DT variations_NNS ,_, Normalized_VBN Cut_NNP -LRB-_-LRB- or_CC NC_NN

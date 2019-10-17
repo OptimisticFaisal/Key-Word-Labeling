@@ -1,0 +1,6 @@
+his_PRP$ way_NN we_PRP can_MD directly_RB apply_VB marginalization_NN to_TO obtain_VB distributions_NNS for_IN subsets_NNS of_IN I_NN -LRB-_-LRB- see_VB below_IN -RRB-_-RRB- ._.
+Since_IN bucket_NN elimination_NN is_VBZ performed_VBN repeatedly_RB we_PRP use_VBP memoization_NN to_TO speed_VB it_PRP up_RP ,_, as_IN suggested_VBN in_IN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP re1_NN A_NN ._.
+member_NN each_DT partial_JJ sum_NN and_CC reuse_VB it_PRP if_IN possible_JJ ._.
+In_IN the_DT example_NN above_IN P_NN b_NN ∈_CD Dom_NNP -LRB-_-LRB- B_NN -RRB-_-RRB- computed_VBD P_NN BN_NN A_NN PB_NN |_NN A_NN ,_, P_NN c_NN ∈_CD Dom_NNP -LRB-_-LRB- C_NN -RRB-_-RRB- PC_NN |_NN A_NN ,_, and_CC the_DT would_MD have_VB been_VBN remembered_VBN ._.
+Another_DT method_NN of_IN obtaining_VBG a_DT

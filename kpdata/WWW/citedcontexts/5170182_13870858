@@ -1,0 +1,4 @@
+converted_VBN into_IN document_NN gaps_NNS ,_, or_CC differences_NNS between_IN consecutive_JJ document_NN ids_NNS ._.
+These_DT gaps_NNS are_VBP then_RB compressed_VBN with_IN integer_NN coding_NN techniques_NNS such_JJ as_IN γ_NN or_CC Rice_NNP codes_NNS ,_, or_CC more_RBR recently_RB ,_, PForDelta_NN -LRB-_-LRB- 44_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 45_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP would_MD be_VB tricky_JJ for_IN gap-based_JJ compression_NN -LRB-_-LRB- also_RB commonly_RB known_VBN as_IN delta_NN compression_NN -RRB-_-RRB- to_TO support_VB backwards_RB traversal_JJ ._.
+Prefix-free_JJ codes_NNS -LRB-_-LRB- γ_NN and_CC Rice_NNP codes_NNS -RRB-_-RRB- are_VBP meant_VBN to_TO be_VB decoded_VBN only_RB in_IN the_DT forwa_NN

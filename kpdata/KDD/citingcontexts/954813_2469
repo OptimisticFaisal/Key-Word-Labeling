@@ -1,0 +1,4 @@
+observations_NNS correspond_VBP to_TO the_DT RSS_NN readings_NNS ._.
+Linear-chain_JJ CRF_NNP models_NNS have_VBP been_VBN widely_RB used_VBN to_TO model_VB sequential_JJ data_NNS ._.
+These_DT models_NNS can_MD be_VB roughly_RB viewed_VBN as_IN conditionally-trained_JJ finite_JJ state_NN machines_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT linear-chain_JJ CRF_NN ,_, as_IN shown_VBN in_IN Figure_NNP 1_CD ,_, defines_VBZ a_DT distribution_NN over_IN state_NN sequence_NN y_NN =_JJ y1_NN ,_, y2_NN ,_, ..._: ,_, yT_NN given_VBN an_DT input_NN sequence_NN x_NN =_JJ x1_NN ,_, x2_NN ,_, ..._: ,_, xT_NN by_IN making_VBG a_DT first-order_JJ Markov_NNP assumption_NN on_IN states_NNS ,_, wh_IN

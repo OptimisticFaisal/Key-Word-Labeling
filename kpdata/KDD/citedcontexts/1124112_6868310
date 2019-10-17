@@ -1,0 +1,3 @@
+s_NN recommended_VBD ._.
+Many_JJ cluster_NN analysis_NN using_VBG the_DT heuristic_NN approach_NN suffer_VBP from_IN the_DT dimensionality_NN curse_NN and_CC reduce_VB cluster_NN analysis_NN efficiency_NN considerably_RB ._.
+As_IN Tri-Plots_NNS do_VBP not_RB suffer_VB from_IN this_DT aspect_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, it_PRP is_VBZ believed_VBN that_IN the_DT implementation_NN of_IN a_DT fast_JJ computational_JJ algorithm_NN for_IN tracking_VBG a_DT two-dimensional_JJ cluster-pair_JJ pattern_NN can_MD be_VB extrapolated_VBN to_TO a_DT multi-dimensional_JJ one_CD and_CC with_IN the_DT capability_NN to_TO

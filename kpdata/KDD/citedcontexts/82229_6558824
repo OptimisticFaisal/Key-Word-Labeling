@@ -1,0 +1,5 @@
+movement_NN sequences_NNS and_CC MPSs_NNS In_IN our_PRP$ second_JJ experiment_NN ,_, we_PRP carry_VBP out_RP simple_JJ classification_NN using_VBG 1-Nearest_NNP Neighbor_NNP and_CC test_VB the_DT classification_NN results_NNS using_VBG the_DT ``_`` leave_VB one_PRP out_RP ''_'' verification_NN mechanism_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT error_NN rate_NN is_VBZ the_DT ratio_NN of_IN number_NN of_IN wrong_JJ classifications_NNS to_TO the_DT total_JJ number_NN of_IN trajectories_NNS in_IN the_DT data_NN set_NN ._.
+We_PRP use_VBP the_DT same_JJ data_NN sets_NNS of_IN Experiment_NN 1_CD ._.
+Table_NNP 2_CD reports_NNS the_DT results_NNS ._.
+The_DT classi_NNS

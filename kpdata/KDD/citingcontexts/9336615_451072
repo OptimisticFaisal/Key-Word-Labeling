@@ -1,0 +1,5 @@
+,_, 3_CD -RCB-_-RRB- ._.
+The_DT tolerance_NN parameter_NN for_IN testing_NN convergence_NN is_VBZ set_VBN to_TO 10_CD −_NN 3_CD ,_, and_CC the_DT maximum_NN number_NN of_IN iterations_NNS for_IN ASO_NNP is_VBZ set_VBN to_TO 100_CD ._.
+The_DT optimization_NN problem_NN involved_VBN is_VBZ solved_VBN using_VBG the_DT MOSEK_NN package_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+•_NNP SVM_NNP :_: Linear_NNP SVM_NNP is_VBZ applied_VBN on_IN each_DT label_NN using_VBG the_DT one-against-rest_JJ scheme_NN ,_, and_CC the_DT C_NN value_NN for_IN each_DT SVM_NNP is_VBZ tuned_VBN on_IN the_DT set_NN -LCB-_-LRB- 10_CD i_FW |_FW i_FW =_JJ −_NN 5_CD ,_, −_NN 4_CD ,_, ·_NNP ·_NNP ·_NNP ,4_NNP ,_, 5_CD -RCB-_-RRB- ._.
+•_FW SVMC_FW :_: Linear_JJ SVM_NN is_VBZ applied_VBN on_IN each_DT

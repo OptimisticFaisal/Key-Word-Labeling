@@ -1,0 +1,3 @@
+tly_RB ,_, the_DT structure_NN learning_NN problem_NN of_IN MRFs_NNS has_VBZ been_VBN formulated_VBN as_IN a_DT feature_NN selection_NN problem_NN by_IN defining_VBG the_DT feature_NN functions_NNS f_SYM to_TO encode_VB the_DT model_NN structures_NNS and_CC performing_VBG the_DT ℓ1-regularized_JJ MLE_NN =_JJ -_: =[_NN 12_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP consider_VBP both_CC the_DT pure_JJ feature_NN selection_NN problem_NN -LRB-_-LRB- when_WRB model_NN structures_NNS are_VBP kept_VBN fixed_JJ -RRB-_-RRB- and_CC learning_VBG structures_NNS of_IN MRFs_NNS in_IN our_PRP$ experiments_NNS ._.
+Two_CD major_JJ types_NNS of_IN approaches_NNS have_VBP been_VBN used_VBN to_TO minimiz_VB

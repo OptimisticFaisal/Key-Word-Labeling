@@ -1,0 +1,3 @@
+a_DT system_NN has_VBZ only_RB one_CD millisecond_NN to_TO process_VB the_DT message_NN -RRB-_-RRB- ._.
+1_CD Therefore_RB ,_, one_CD common_JJ approach_NN to_TO such_JJ problems_NNS is_VBZ to_TO 1_CD Of_IN course_NN ,_, we_PRP recognize_VBP that_IN distributed_VBN stream-processing_JJ frameworks_NNS exist_VBP -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+However_RB ,_, moving_VBG to_TO a_DT multi-machine_JJ setup_NN inevitably_RB complicates_VBZ the_DT architecture_NN from_IN an_DT engineering_NN per422eschew_NN sophisticated_JJ models_NNS and_CC start_VB from_IN the_DT simplest_JJS technique_NN that_WDT can_MD possibly_RB work_VB ._.

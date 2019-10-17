@@ -1,0 +1,4 @@
+ous_JJ approaches_NNS ._.
+Instead_RB of_IN mining_VBG all_DT subgraphs_NNS ,_, CloseGraph_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- only_JJ mines_NNS closed_VBD subgraphs_NNS ._.
+A_DT graph_NN G_NN is_VBZ closed_VBN in_IN a_DT dataset_NN if_IN there_EX exists_VBZ no_DT supergraph_NN of_IN G_NN that_WDT has_VBZ the_DT same_JJ support_NN as_IN G._NNP Gaston_NNP =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: efficiently_RB mines_NNS graph_NN datasets_NNS by_IN first_RB considering_VBG frequent_JJ paths_NNS which_WDT are_VBP transformed_VBN to_TO trees_NNS which_WDT are_VBP further_RB transformed_VBN to_TO graphs_NNS ._.
+FFSM_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- is_VBZ a_DT graph_NN mining_NN system_NN which_WDT uses_VBZ an_DT algebraic_JJ

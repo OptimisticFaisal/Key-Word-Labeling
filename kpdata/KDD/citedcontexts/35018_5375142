@@ -1,0 +1,5 @@
+s_NN on_IN which_WDT traditional_JJ confidence_NN is_VBZ based_VBN may_MD fail_VB to_TO hold_VB ._.
+We_PRP provide_VBP two_CD examples_NNS to_TO illustrate_VB this_DT point_NN ._.
+First_RB ,_, consider_VB the_DT non-traditional_JJ association_NN pattern_NN ,_, Error-Tolerant_JJ Itemsets_NNS -LRB-_-LRB- ETIs_NNS -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Yang_NNP et_FW al._FW 2001_CD -_: =--RRB-_NN ,_, which_WDT are_VBP itemsets_NNS in_IN which_WDT a_DT specified_JJ fraction_NN of_IN the_DT items_NNS can_MD be_VB missing_VBG from_IN a_DT transaction_NN ._.
+-LRB-_-LRB- ETIs_NNS are_VBP useful_JJ when_WRB ,_, for_IN example_NN ,_, real_JJ association_NN patterns_NNS are_VBP distorted_VBN by_IN noise_NN ._. -RRB-_-RRB-
+To_TO illustrate_VB

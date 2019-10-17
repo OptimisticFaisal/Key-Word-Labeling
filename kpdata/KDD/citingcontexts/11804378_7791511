@@ -1,0 +1,5 @@
+reiman_NN ,_, 2001_CD -RRB-_-RRB- ,_, feature_NN subset_NN randomization_NN -LRB-_-LRB- Amit_NNP and_CC Geman_NNP ,_, 1997_CD -RRB-_-RRB- among_IN others_NNS ._.
+For_IN regression_NN problem_NN ,_, random_JJ forest_NN -LRB-_-LRB- RF_NN -RRB-_-RRB- for_IN regression_NN is_VBZ the_DT closest_JJS work_NN to_TO random_JJ decision_NN trees_NNS -LRB-_-LRB- Breiman_NNP ,_, 2001_CD ,_, =_JJ -_: =_JJ Segal_NNP ,_, 2004_CD -_: =-]_CD ._.
+However_RB ,_, there_EX are_VBP a_DT few_JJ important_JJ distinctions_NNS ._.
+First_RB ,_, each_DT tree_NN in_IN random_JJ forest_NN is_VBZ trained_VBN from_IN one_CD bootstrap_NN sample_NN of_IN the_DT training_NN set_NN ._.
+But_CC each_DT tree_NN in_IN RDT_NN is_VBZ trained_VBN from_IN the_DT same_JJ original_JJ t_NN

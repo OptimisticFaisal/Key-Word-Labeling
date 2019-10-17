@@ -1,0 +1,4 @@
+\/_: e_LS of_IN optimal_JJ -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+This_DT solution_NN depends_VBZ on_IN Monte_NNP Carlo_NNP simulations_NNS which_WDT are_VBP computationally_RB intense_JJ ._.
+Work_NNP has_VBZ been_VBN done_VBN on_IN improving_VBG the_DT performance_NN of_IN greedy_JJ algorithms_NNS for_IN influence_NN maximization_NN =_JJ -_: =[_NN 5_CD ,_, 22_CD ,_, 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC scalability_NN remains_VBZ a_DT significant_JJ challenge_NN ._.
+In_IN addition_NN to_TO the_DT scale_NN issues_NNS that_WDT are_VBP inherently_RB there_RB ,_, these_DT definitions_NNS of_IN influential_JJ users_NNS ignore_VBP certain_JJ aspects_NNS of_IN the_DT real_JJ social_JJ networks_NNS

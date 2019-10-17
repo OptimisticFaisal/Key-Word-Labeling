@@ -1,0 +1,5 @@
+ise_NN products_NNS of_IN the_DT two_CD transformed_VBN sequences_NNS ,_, and_CC performing_VBG an_DT inverse_JJ DFT_NN on_IN the_DT product_NN ._.
+With_IN the_DT use_NN of_IN the_DT Fast_JJ Fourier_NN Transform_NN -LRB-_-LRB- FFT_NN -RRB-_-RRB- algorithm_NN ,_, Equation_NN 7_CD can_MD be_VB evaluated_VBN in_IN O_NN -LRB-_-LRB- n_NN log_NN n_NN -RRB-_-RRB- time_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Complexity_NN ._.
+Let_VB c_NN -LRB-_-LRB- n_NN -RRB-_-RRB- be_VB the_DT time_NN cost_NN of_IN Algorithm_NN 2_CD with_IN database_NN size_NN n._NN Steps_NNS 6_CD and_CC 7_CD both_CC need_VBP c_NN -LRB-_-LRB- n\/2_NN -RRB-_-RRB- time_NN ,_, and_CC Step_NN 8_CD takes_VBZ O_NN -LRB-_-LRB- n_NN log_NN n_NN -RRB-_-RRB- time_NN with_IN the_DT use_NN of_IN the_DT FFT_NNP algorithm_NN ._.
+Then_RB ,_, c_NN -LRB-_-LRB- n_NN -RRB-_-RRB- =_JJ 2c_NN -LRB-_-LRB- n_NN \/_:

@@ -1,0 +1,5 @@
+in_IN the_DT processes_NNS that_WDT generated_VBD the_DT data_NNS ._.
+2_CD ._.
+Related_NNP Work_NNP Methods_NNS for_IN clustering_NN time-series_NNS data_NNS have_VBP been_VBN proposed_VBN recently_RB ,_, particularly_RB ,_, in_IN the_DT statistics_NNS and_CC data_NNS mining_NN communities_NNS ._.
+-LRB-_-LRB- See_NNP e.g._NNP ,_, =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+In_IN the_DT computer_NN vision_NN community_NN clustering_NN of_IN motion_NN data_NNS has_VBZ been_VBN used_VBN mainly_RB for_IN classification_NN and_CC prediction_NN of_IN pedestrian_JJ trajectories_NNS -LRB-_-LRB- 8_CD ,_, 18_CD -RRB-_-RRB- ,_, and_CC for_IN event-based_JJ analysis_NN of_IN long_JJ video_NN sequ_NN

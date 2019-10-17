@@ -1,0 +1,6 @@
+as_IN TFIDF_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- or_CC Jaro_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, are_VBP computed_VBN ._.
+Baxtor_NNP et_NNP al_NNP -LRB-_-LRB- 2_CD -RRB-_-RRB- analyze_VBP several_JJ different_JJ blocking_NN schemes_NNS and_CC compare_VB them_PRP for_IN accuracy_NN and_CC reduction_NN ratio_NN ._.
+An_DT effective_JJ sampling_NN algorithm_NN is_VBZ described_VBN in_IN =_JJ -_: =[_NN 12_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: based_VBN on_IN records_NNS '_POS textual_JJ attributes_NNS ._.
+Experimentation_NN shows_VBZ that_IN even_RB a_DT simple_JJ blocking_NN scheme_NN can_MD result_VB in_IN significant_JJ performance_NN gains_NNS ,_, with_IN minimal_JJ impact_NN on_IN precision_NN ._.
+Private_NNP Record_NNP Linkage_NNP ._.
+M_NN

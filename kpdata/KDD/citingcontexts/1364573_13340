@@ -1,0 +1,3 @@
+curring_VBG in_IN the_DT transactions_NNS of_IN the_DT same_JJ customer_NN ._.
+The_DT interaction-pattern_JJ mining_NN problem_NN is_VBZ different_JJ from_IN the_DT above_JJ ,_, but_CC similar_JJ to_TO the_DT problem_NN of_IN ``_`` discovery_NN of_IN frequent_JJ episodes_NNS in_IN event_NN sequences_NNS =_JJ -_: =_JJ ''_'' -LRB-_-LRB- 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT problem_NN ,_, the_DT discovered_VBN frequent_JJ episodes_NNS can_MD have_VB different_JJ types_NNS of_IN ordering_VBG :_: full_JJ -LRB-_-LRB- serial_JJ episodes_NNS -RRB-_-RRB- ,_, none_NN -LRB-_-LRB- parallel_JJ episodes_NNS -RRB-_-RRB- or_CC partial_JJ and_CC have_VBP to_TO appear_VB within_IN a_DT user-defined_JJ time_NN wind_NN

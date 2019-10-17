@@ -1,0 +1,4 @@
+ons_FW etc._FW ._.
+Mathematical_JJ analysis_NN of_IN social_JJ cohesion_NN has_VBZ been_VBN a_DT hot_JJ research_NN topic_NN for_IN many_JJ years_NNS ._.
+The_DT clique_JJ model_NN is_VBZ one_CD of_IN the_DT classic_JJ and_CC well-known_JJ graph_NN models_NNS used_VBN for_IN studying_VBG cohesive_JJ subgroups_NNS =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =-[_NN 34_CD -RRB-_-RRB- ._.
+Given_VBN subgraph_JJ Gi_NN ,_, if_IN ∀_FW u_FW ,_, v_LS ∈_NN V_NN -LRB-_-LRB- Gi_NN -RRB-_-RRB- ,_, ∃_NN -LRB-_-LRB- u_NN ,_, v_LS -RRB-_-RRB- ∈_NN E_NN -LRB-_-LRB- G_NN -RRB-_-RRB- ,_, then_RB Gi_NN is_VBZ called_VBN a_DT complete_JJ subgraph_NN or_CC a_DT clique_NN of_IN G._FW In_FW this_DT paper_NN ,_, we_PRP assume_VBP that_IN mathematically_RB ,_, a_DT triangle_NN is_VBZ the_DT smallest_JJS clique_FW poss_FW

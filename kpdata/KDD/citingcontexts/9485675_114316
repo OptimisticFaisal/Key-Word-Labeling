@@ -1,0 +1,4 @@
+t_NN Process_VB prior_JJ is_VBZ used_VBN to_TO couple_VB the_DT parameters_NNS of_IN several_JJ models_NNS from_IN the_DT same_JJ parameterized_JJ family_NN of_IN dis-tributions_NNS ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- extends_VBZ the_DT boosting_VBG method_NN to_TO perform_VB transfer_NN learning_NN ._.
+Bennett_NNP et_FW al._FW =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT methodology_NN for_IN building_VBG a_DT meta-classifier_NN which_WDT combines_VBZ multiple_JJ distinct_JJ classifiers_NNS through_IN the_DT use_NN of_IN reliability_NN indicators_NNS ._.
+The_DT proposed_VBN weighted_JJ ensemble_NN provides_VBZ a_DT more_RBR general_JJ fr_NN

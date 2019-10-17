@@ -1,0 +1,6 @@
+Ms_NN ,_, has_VBZ substantially_RB lower_JJR memory_NN cost_NN and_CC yields_NNS performance_NN close_RB to_TO that_DT of_IN SMO_NN on_IN the_DT full_JJ data_NNS ._.
+In_IN this_DT paper_NN we_PRP suggest_VBP another_DT method_NN for_IN scaling_VBG SVMs_NNS up_RB based_VBN on_IN squashing_NN ._.
+DuMouchel_NNP et_NNP ._.
+al._FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Madigan_NNP et_NNP ._.
+al._FW -LRB-_-LRB- 7_CD -RRB-_-RRB- recently_RB introduced_VBD squashing_VBG as_IN a_DT technique_NN that_WDT allows_VBZ one_CD to_TO scale_VB a_DT dataset_NN down_RP while_IN preserving_VBG its_PRP$ statistical_JJ properties_NNS ._.
+In_IN particular_JJ ,_, likelihood-based_JJ squashing_NN -LRB-_-LRB- 7_CD -RRB-_-RRB-

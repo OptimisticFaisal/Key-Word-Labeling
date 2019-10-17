@@ -1,0 +1,5 @@
+d_NN in_IN the_DT learning_NN process_NN ._.
+Chapelle_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC Zhu_NNP -LRB-_-LRB- 36_CD -RRB-_-RRB- provide_VBP a_DT survey_NN of_IN semi-supervised_JJ learning_NN and_CC associated_VBN graph_NN theory_NN ._.
+Jing_NNP shows_VBZ how_WRB graph_NN learning_NN can_MD be_VB used_VBN to_TO rerank_VB image_NN search_NN results_VBZ =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Zhou_NNP introduces_VBZ the_DT smooth_JJ manifold_NN ranking_NN theorem_NN on_IN a_DT single_JJ graph_NN as_IN a_DT solution_NN to_TO the_DT semi-supervised_JJ labeling_NN problem_NN -LRB-_-LRB- 34_CD -RRB-_-RRB- ._.
+Tong_NNP et_FW al._FW provide_VBP a_DT solution_NN for_IN combining_VBG two_CD graphs_NNS for_IN label_NN pr_NN

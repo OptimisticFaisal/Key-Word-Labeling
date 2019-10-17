@@ -1,0 +1,4 @@
+providing_VBG some_DT protection_NN for_IN the_DT underlying_VBG data_NNS ._.
+There_EX has_VBZ been_VBN a_DT large_JJ body_NN of_IN work_NN on_IN privacy-preserving_JJ data_NNS mining_NN algorithms_NNS ,_, including_VBG as_IN algorithms_NNS for_IN association_NN rules_NNS -LRB-_-LRB- 20_CD ,_, 15_CD -RRB-_-RRB- ,_, clustering_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, naive_JJ Bayes_NNP classifiers_NNS -LRB-_-LRB- 16_CD ,_, 22_CD -RRB-_-RRB- ,_, statistical_JJ analysis_NN -LRB-_-LRB- 5_CD ,_, 9_CD -RRB-_-RRB- ,_, and_CC finding_VBG common_JJ elements_NNS -LRB-_-LRB- 1_CD ,_, 11_CD -RRB-_-RRB- ._.
+The_DT privacy-preserving_JJ naive_JJ Bayes_NNP classifiers_NNS are_VBP the_DT most_RBS closely_RB related_JJ to_TO our_PRP$ work_NN ._.
+However_RB ,_,

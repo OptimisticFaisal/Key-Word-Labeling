@@ -1,0 +1,5 @@
+respectively_RB ._.
+Moreover_RB ,_, while_IN this_DT method_NN can_MD handle_VB global_JJ scaling_NN ,_, there_EX is_VBZ no_DT support_NN for_IN local_JJ scaling_NN ._.
+Compared_VBN to_TO other_JJ methods_NNS based_VBN on_IN algebraic_JJ moments_NNS ,_, curvature_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- and_CC Hausdorff_NN distance_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT turning_NN angle_NN has_VBZ been_VBN shown_VBN to_TO be_VB the_DT most_RBS robust_JJ for_IN the_DT retrieval_NN of_IN two_CD dimensional_JJ images_NNS and_CC shapes_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+3_LS ._.
+ROTATION_NNP INVARIANT_NNP TRAJECTORY_NNP DISTANCE_NNP FUNCTIONS_NNP Let_NNP P_NN be_VB a_DT trajectory_NN of_IN a_DT mov_NN

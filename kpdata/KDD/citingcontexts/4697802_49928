@@ -1,0 +1,4 @@
+elated_VBN algorithm_NN can_MD be_VB used_VBN for_IN numerical_JJ discrepancy_NN or_CC when_WRB the_DT data_NN is_VBZ known_VBN to_TO lie_VB on_IN a_DT grid_NN ._.
+Further_RB ,_, observe_VBP that_IN this_DT algorithm_NN -LRB-_-LRB- when_WRB used_VBN in_IN conjunction_NN with_IN the_DT reservoir_NN sampling_NN technique_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =--RRB-_NN can_MD be_VB viewed_VBN as_IN a_DT streaming_NN algorithm_NN that_WDT uses_VBZ space_NN ._.
+„``_FW τ_FW O_NN ǫ_NN ''_'' 2_CD log_NN ``_`` τ_FW δǫ_FW ''_'' ``_`` 7_CD ._.
+EXPERIMENTS_NNS We_PRP now_RB present_VBP a_DT performance_NN study_NN of_IN the_DT schemes_NNS described_VBN in_IN this_DT paper_NN ,_, and_CC compare_VB them_PRP to_TO prior_RB

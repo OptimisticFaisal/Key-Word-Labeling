@@ -1,0 +1,4 @@
+he_PRP experimental_JJ settings_NNS and_CC results_VBZ in_IN section_NN 5_CD ._.
+Finally_RB ,_, main_JJ conclusions_NNS and_CC future_JJ work_NN are_VBP presented_VBN in_IN section_NN 6_CD ._.
+2_CD ._.
+PREVIOUS_NNS WORK_VBP 2.1_CD Adversarial_NNP Machine_NNP Learning_NNP As_IN described_VBN by_IN Dalvi_NNP et_FW al._FW =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, an_DT adversarial_JJ game_NN can_MD be_VB represented_VBN as_IN a_DT game_NN between_IN two_CD players_NNS :_: A_DT malicious_JJ agent_NN whose_WP$ adversarial_JJ activity_NN reports_VBZ its_PRP$ benefits_NNS ,_, and_CC a_DT classifier_NN whose_WP$ main_JJ objective_NN is_VBZ to_TO identify_VB as_RB many_JJ

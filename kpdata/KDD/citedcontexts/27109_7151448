@@ -1,0 +1,5 @@
+``_`` improved_VBN ''_'' final_JJ clustering_NN ._.
+In_IN our_PRP$ ensemble_NN techniques_NNS we_PRP reduce_VBP the_DT problem_NN of_IN defining_VBG a_DT consensus_NN function_NN to_TO a_DT graph_NN partitioning_VBG problem_NN ._.
+This_DT approach_NN has_VBZ shown_VBN good_JJ results_NNS in_IN the_DT literature_NN =_JJ -_: =[_NN 5_CD ,_, 22_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT next_JJ sections_NNS ,_, we_PRP introduce_VBP our_PRP$ two_CD consensus_NN functions_NNS for_IN categorical_JJ features_NNS using_VBG the_DT clustering_NN results_NNS produced_VBN by_IN COOLCAT_NN ._.
+4.1_CD Motivation_NN To_TO enhance_VB the_DT accuracy_NN of_IN the_DT clustering_NN giv_NN

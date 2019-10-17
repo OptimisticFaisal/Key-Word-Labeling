@@ -1,0 +1,4 @@
+ed_VBN for_IN intrusion_NN detection_NN and_CC used_VBN to_TO measure_VB whether_IN the_DT unknown_JJ behavior_NN is_VBZ more_RBR similar_JJ to_TO known_JJ normal_JJ behaviors_NNS or_CC abnormal_JJ behaviors_NNS ._.
+The_DT TCM-KNN_NN algorithm_NN is_VBZ also_RB applied_VBN to_TO identify_VB outliers_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: by_IN measuring_VBG the_DT unlikelihood_NN of_IN the_DT tested_VBN point_NN belonging_VBG to_TO the_DT known_JJ classes_NNS ._.
+An_DT outlier_NN is_VBZ an_DT observation_NN lying_VBG outside_IN the_DT overall_JJ pattern_NN of_IN a_DT distribution_NN -LRB-_-LRB- 47_CD -RRB-_-RRB- ._.
+Since_IN some_DT intrusions_NNS share_VBP th_DT

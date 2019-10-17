@@ -1,0 +1,4 @@
+is_VBZ obviously_RB a_DT chasm_NN between_IN what_WP we_PRP can_MD mine_VB today_NN and_CC what_WP needs_VBZ to_TO be_VB mined_VBN ._.
+It_PRP is_VBZ true_JJ that_IN new_JJ attempts_NNS toward_IN solving_VBG such_JJ problems_NNS are_VBP made_VBN by_IN finding_VBG the_DT set_NN of_IN frequent_JJ closed_JJ itemsets_NNS -LRB-_-LRB- FCI_NN -RRB-_-RRB- =_JJ -_: =[_NN 11_CD ,_, 12_CD ,_, 13_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT set_NN of_IN maximal_JJ frequent_JJ patterns_NNS -LRB-_-LRB- 3_CD ,_, 7_CD ,_, 8_CD -RRB-_-RRB- ._.
+s1_NN .1_CD Problem_NNP Statement_NNP The_DT problem_NN of_IN mining_NN association_NN rules_NNS in_IN transactional_JJ data_NNS was_VBD introduced_VBN in_IN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+The_DT data_NNS could_MD be_VB retail_JJ sales_NNS in_IN the_DT fo_NN

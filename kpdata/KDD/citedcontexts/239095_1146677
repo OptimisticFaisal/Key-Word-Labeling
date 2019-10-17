@@ -1,0 +1,5 @@
+last_RB two_CD test_NN problems_NNS are_VBP described_VBN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+We_PRP first_JJ focus_NN on_IN the_DT test_NN problems_NNS 1_CD --_: 7_CD ,_, for_IN which_WDT we_PRP have_VBP performed_VBN a_DT ten_CD --_: fold_JJ cross_NN --_: validation_NN ._.
+In_IN table_NN 2_CD we_PRP compare_VBP our_PRP$ results_NNS with_IN those_DT reported_VBN in_IN =_JJ -_: =[_NN 4_CD ,_, 5_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN particular_JJ ,_, the_DT classification_NN error_NN is_VBZ averaged_VBN over_IN the_DT results_NNS of_IN the_DT ten_CD --_: fold_JJ cross_NN --_: validation_NN ._.
+The_DT reported_VBN results_NNS of_IN our_PRP$ algorithm_NN are_VBP the_DT best_JJS ones_NNS for_IN the_DT different_JJ tested_VBN values_NNS of_IN the_DT

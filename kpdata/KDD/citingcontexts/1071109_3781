@@ -1,0 +1,4 @@
+how_WRB to_TO mine_VB frequent_JJ graphs_NNS efficiently_RB in_IN large_JJ relational_JJ graphs_NNS ,_, and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- how_WRB to_TO handle_VB the_DT connectivity_NN constraint_NN ._.
+Since_IN frequent_JJ graph_NN mining_NN usually_RB generates_VBZ too_RB many_JJ patterns_NNS ,_, as_IN observed_VBN in_IN =_JJ -_: =[_NN 2_CD ,_, 25_CD ,_, 18_CD ,_, 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, it_PRP is_VBZ more_RBR appealing_JJ to_TO mine_VB closed_JJ frequent_JJ graphs_NNS only_RB ._.
+A_DT frequent_JJ graph_NN is_VBZ closed_VBN if_IN and_CC only_RB if_IN there_EX does_VBZ not_RB exist_VB a_DT supergraph_NN that_WDT has_VBZ the_DT same_JJ support_NN ._.
+Assume_VB graphs_NNS g_NN and_CC g_NN ′_NN are_VBP frequent_JJ

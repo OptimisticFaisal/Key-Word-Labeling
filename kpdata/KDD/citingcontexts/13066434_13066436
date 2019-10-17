@@ -1,0 +1,6 @@
+g_NN the_DT points_NNS -RRB-_-RRB- with_IN Poisson_NN noise_NN ._.
+The_DT fraction_NN perturbed_VBN varies_VBZ in_IN the_DT set_NN -LRB-_-LRB- 2_CD %_NN ,_, 10_CD %_NN ,_, 30_CD %_NN ,_, 90_CD %_NN -RRB-_-RRB- ._.
+All_DT algorithms_NNS were_VBD implemented_VBN in_IN MATLAB_NNP ._.
+For_IN SMACOF_NNP ,_, we_PRP used_VBD the_DT implementation_NN provided_VBN by_IN Bronstein_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC built_VBD our_PRP$ own_JJ implementation_NN of_IN SMACOF-Q_NN around_IN it_PRP ._.
+For_IN all_DT other_JJ algorithms_NNS ,_, we_PRP used_VBD our_PRP$ own_JJ implementation1_NN ._.
+In_IN all_DT cases_NNS ,_, we_PRP compare_VBP performance_NN in_IN terms_NNS of_IN the_DT error_NN function_NN Err_NN as_IN a_DT funct_NN

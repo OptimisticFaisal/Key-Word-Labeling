@@ -1,0 +1,5 @@
+k_NN whether_IN the_DT subset_NN is_VBZ valid_JJ -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+According_VBG to_TO evaluation_NN methods_NNS the_DT feature_NN subset_NN selection_NN can_MD classified_VBN into_IN two_CD kinds_NNS :_: filtering_VBG and_CC wrapper_NN ._.
+Distance_NNP measures_NNS -LRB-_-LRB- 17_CD ,_, 18_CD -RRB-_-RRB- ,_, information_NN measures_VBZ =_JJ -_: =[_NN 19_CD ,_, 20_CD ,_, 21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, correlation_NN coefficient_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- and_CC consistency_NN measures_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- are_VBP used_VBN for_IN filtering_VBG methods_NNS ._.
+Wrapper_NNP refers_VBZ to_TO using_VBG a_DT classifier_NN as_IN evaluation_NN function_NN in_IN selection_NN ._.
+KNN_NNP ,_, neural_JJ network_NN ,_, SVM_NN all_DT can_MD b_SYM

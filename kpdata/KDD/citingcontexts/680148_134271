@@ -1,0 +1,4 @@
+accounted_VBN for_IN -RRB-_-RRB- ._.
+We_PRP have_VBP found_VBN this_DT heuristic_NN to_TO work_VB well_RB in_IN most_JJS cases_NNS ,_, providing_VBG the_DT results_NNS illustrated_VBN in_IN the_DT previous_JJ figures_NNS ._.
+6_CD Related_JJ Work_NN Much_JJ of_IN the_DT existing_VBG work_NN on_IN mining_NN graph_NN data_NNS ,_, e.g._FW =_JJ -_: =[_NN 7_CD ,_, 12_CD ,_, 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, extends_VBZ the_DT traditional_JJ data_NNS mining_NN problem_NN of_IN finding_VBG frequent_JJ itemsets_NNS in_IN market_NN basket_NN data_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+The_DT focus_NN in_IN graphs_NNS is_VBZ on_IN finding_VBG frequent_JJ substructures_NNS ,_, the_DT graph_NN equivalent_NN of_IN frequent_JJ itemset_NN

@@ -1,0 +1,4 @@
+-RRB-_-RRB- applied_VBN to_TO the_DT datasets_NNS we_PRP list_VBP in_IN Table_NNP 2_CD ,_, where_WRB we_PRP find_VBP 2_CD clusters_NNS of_IN time_NN stamps_NNS -LRB-_-LRB- -LCB-_-LRB- t1_NN ,_, t2_NN -RCB-_-RRB- and_CC -LCB-_-LRB- t4_NN ,_, t5_NN ,_, t6_NN -RCB-_-RRB- -RRB-_-RRB- and_CC 1_CD abnormal_JJ time_NN stamp_NN -LRB-_-LRB- t3_NN -RRB-_-RRB- ._.
+Therefore_RB ,_, our_PRP$ cluster_NN membership_NN function_NN satisfies_NNS :_: g_NN =_JJ =_JJ -_: =[_NN 1_CD ,_, 1_CD ,_, 3_CD ,_, 2_CD ,_, 2_CD ,_, 2_CD -RRB-_-RRB- -_: =_JJ -_: ′_NN ._.
+For_IN each_DT time_NN cluster_NN as_RB well_RB as_IN the_DT abnormal_JJ time_NN stamp_NN ,_, we_PRP also_RB output_NN a_DT representative_JJ subset_NN of_IN the_DT entity_NN nodes_NNS as_IN its_PRP$ interpretations_NNS ._.
+1_CD Besides_IN the_DT finest_JJS scale_NN ,_, we_PRP might_MD also_RB want_VB to_TO do_VB t_NN

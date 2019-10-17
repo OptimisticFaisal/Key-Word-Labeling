@@ -1,0 +1,5 @@
+8_CD -RRB-_-RRB- ,_, graphical_JJ models_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, exponential_JJ families_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, and_CC generalized_JJ linear_JJ models_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+Traditionally_RB ,_, specialized_JJ solvers_NNS have_VBP been_VBN developed_VBN for_IN solving_VBG the_DT kernel_NN version_NN of_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- in_IN the_DT dual_JJ ,_, e.g._FW =_JJ -_: =[_NN 9_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT algorithms_NNS construct_VBP the_DT Lagrange_NNP dual_JJ ,_, and_CC solve_VB for_IN the_DT Lagrange_NNP multipliers_NNS efficiently_RB ._.
+Only_RB recently_RB ,_, research_NN focus_NN has_VBZ shifted_VBN back_RB to_TO solving_VBG -LRB-_-LRB- 1_LS -RRB-_-RRB- in_IN the_DT primal_JJ ,_, e.g._FW -LRB-_-LRB- 10_CD ,_, 25_CD ,_, 36_CD -RRB-_-RRB- ._.
+This_DT

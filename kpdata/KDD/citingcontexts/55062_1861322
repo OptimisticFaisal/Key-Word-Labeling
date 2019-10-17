@@ -1,0 +1,6 @@
+are_VBP shown_VBN in_IN Figure_NNP 5_CD ._.
+Both_CC ALAR-3-nn_NN and_CC ALAR-vote-E_NN achieve_VBP the_DT accuracy_NN goal_NN with_IN only_RB 8000_CD labeled_VBN instances_NNS ._.
+The_DT last_JJ benchmark_NN used_VBN is_VBZ the_DT Mod-Apte_NNP split_NN of_IN the_DT Reuters_NNP data_NNS set_VBP available_JJ from_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Only_RB the_DT top_JJ ten_CD categories_NNS are_VBP considered_VBN ._.
+For_IN each_DT ofthemwe_NN solve_VB the_DT binary_JJ classi_NN cation_NN problem_NN of_IN being_VBG in_IN or_CC out_IN of_IN that_DT category_NN ._.
+Weused_VBD the_DT notion_NN of_IN information_NN gain_NN -LRB-_-LRB- 31_CD -RRB-_-RRB- to_TO select_VB a_DT set_VBN o_NN

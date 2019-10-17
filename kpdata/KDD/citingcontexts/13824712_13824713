@@ -1,0 +1,4 @@
+y._NNP This_NNP suggests_VBZ that_IN the_DT first_JJ algorithm_NN -LRB-_-LRB- iHAC_NN -RRB-_-RRB- presented_VBN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- does_VBZ not_RB guarantee_VB a_DT complete_JJ hierarchy_NN if_IN all_DT constraints_NNS are_VBP enforced_VBN ._.
+A_DT similar_JJ problem_NN has_VBZ been_VBN reported_VBN for_IN pairwise_JJ constraints_NNS =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+•_NNP Informativeness_NNP :_: How_WRB can_MD one_CD extract_NN the_DT most_RBS informative_JJ relative_JJ constraints_NNS from_IN given_VBN knowledge_NN sources_NNS ?_.
+We_PRP show_VBP that_IN any_DT domain_NN knowledge_NN in_IN the_DT form_NN of_IN tree-like_JJ hierarchies_NNS can_MD be_VB convenien_VBN

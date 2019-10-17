@@ -1,0 +1,5 @@
+periments_NNS on_IN a_DT workstation_NN with_IN Intel_NNP Pentium_NNP IV_NNP 2.4_CD GHz_NNP CPU_NNP and_CC 1GB_NNP of_IN RAM_NNP ._.
+We_PRP implemented_VBD our_PRP$ algorithms_NNS and_CC the_DT algorithms_NNS proposed_VBN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- in_IN C_NN +_CC +_CC ._.
+The_DT synthetic_JJ data_NNS generator_NN is_VBZ similar_JJ to_TO that_DT of_IN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, except_IN that_IN we_PRP do_VBP not_RB need_VB to_TO simulate_VB website_NNS browsing_VBG behavior_NN ,_, but_CC instead_RB have_VBP to_TO control_VB the_DT data_NNS distance_NN ._.
+The_DT program_NN constructs_NNS a_DT set_NN of_IN trees_NNS based_VBN on_IN specific_JJ parameters_NNS ._.
+Four_CD groups_NNS of_IN pa_NN

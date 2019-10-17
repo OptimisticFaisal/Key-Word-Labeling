@@ -1,0 +1,4 @@
+1_CD for_IN each_DT di_NNP in_IN D._NNP 4_CD ._.
+EXPERIMENTS_NNS In_IN this_DT section_NN ,_, we_PRP evaluate_VBP the_DT effectiveness_NN of_IN our_PRP$ TIDE_NN model_NN on_IN synthetic_JJ datasets_NNS as_RB well_RB as_IN data_NNS collected_VBN from_IN two_CD real-world_JJ social_JJ communities_NNS ,_, i.e._FW ,_, DBLP_NN =_JJ -_: =[_NN 43_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Twitter_NNP -LRB-_-LRB- 25_CD -RRB-_-RRB- ._.
+4.1_CD Experimental_JJ Setup_NNP 4.1.1_NNP Data_NNP Collections_NNP The_NNP DBLP_NNP Dataset_NNP -LRB-_-LRB- -LRB-_-LRB- 43_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+The_DT Digital_NNP Bibliography_NNP and_CC Library_NNP Project_NNP -LRB-_-LRB- DBLP_NNP -RRB-_-RRB- is_VBZ a_DT web_NN accessible_JJ database_NN of_IN the_DT bibliographic_JJ informat_NN

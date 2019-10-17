@@ -1,0 +1,4 @@
+tionrelated_VBN quality_NN measures_NNS are_VBP often_RB appropriate_JJ ._.
+Several_JJ supervised_JJ measures_NNS such_JJ as_IN purity_NN ,_, entropy_NN ,_, normalized_VBD mutual_JJ information_NN ,_, supervised_VBN F-measure_FW etc._FW have_VBP been_VBN used_VBN in_IN the_DT literature_NN -LRB-_-LRB- see_VB =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: for_IN details_NNS -RRB-_-RRB- ._.
+However_RB ,_, it_PRP is_VBZ not_RB clear_JJ how_WRB these_DT measures_NNS are_VBP related_JJ to_TO the_DT error-rate_NN of_IN the_DT clustering_NN algorithm_NN when_WRB used_VBN for_IN prediction_NN ._.
+Furthermore_RB ,_, none_NN of_IN these_DT supervised_JJ measures_NNS help_VBP with_IN

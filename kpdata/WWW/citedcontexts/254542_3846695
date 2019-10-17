@@ -1,0 +1,5 @@
+l_NN state_NN using_VBG rules_NNS and_CC available_JJ services_NNS ._.
+Reasoning_NN mechanisms_NNS are_VBP dependant_JJ on_IN the_DT formalism_NN used_VBN for_IN rule_NN and_CC service_NN description_NN ,_, and_CC several_JJ relevant_JJ solutions_NNS will_MD be_VB described_VBN ._.
+MyGrid_NN project_NN =_JJ -_: =[_NN 149_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ federated_JJ UDDI_NNP directories_NNS annotated_JJ with_IN RDF_NN to_TO provide_VB semantic_JJ description_NN ._.
+The_DT language_NN used_VBN for_IN onotology_JJ description_NN is_VBZ OWL-S_NN ._.
+Based_VBN on_IN the_DT given_VBN goal_NN and_CC available_JJ semanticallyenriched_FW se_FW

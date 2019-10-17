@@ -1,0 +1,5 @@
+nerality_NN on_IN the_DT same_JJ family_NN of_IN functions_NNS ._.
+They_PRP balance_VBP model_NN complexity_NN with_IN generalization_NN error_NN ._.
+There_EX is_VBZ still_RB much_RB active_JJ work_NN being_VBG done_VBN on_IN this_DT topic_NN ,_, for_IN example_NN ,_, Neyman_NNP test_NN based_VBN approaches_NNS -LRB-_-LRB- =_JJ -_: =_JJ Fan_NN and_CC Huang_NNP ,_, 2001_CD -_: =-]_CD ._.
+Another_DT practical_JJ restriction_NN is_VBZ that_IN most_JJS parametric_JJ models_NNS do_VBP not_RB handle_VB categorical_JJ features_NNS directly_RB ._.
+The_DT simple_JJ approach_NN is_VBZ to_TO assign_VB an_DT integer_NN value_NN to_TO each_DT unique_JJ category_NN ,_, but_CC this_DT imposes_VBZ

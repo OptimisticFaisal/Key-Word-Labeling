@@ -1,0 +1,4 @@
+of_IN the_DT occurrences_NNS of_IN pattern_NN in_IN the_DT sequences_NNS and_CC these_DT lists_NNS are_VBP not_RB appropriated_VBN in_IN the_DT case_NN of_IN dense_JJ databases_NNS ._.
+In_IN this_DT paper_NN we_PRP present_VBP an_DT adaptation_NN of_IN the_DT wellknown_JJ diffset_NN data_NNS representation_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: with_IN Spade_NNP algorithm_NN ._.
+The_DT new_JJ version_NN is_VBZ called_VBN dSpade_NNP ._.
+Since_IN diffset_NN shows_VBZ high_JJ performance_NN for_IN mining_NN frequent_JJ itemsets_NNS in_IN dense_JJ transactional_JJ databases_NNS ,_, experimental_JJ evaluation_NN shows_VBZ that_IN dSpade_FW i_FW

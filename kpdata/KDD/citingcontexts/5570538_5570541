@@ -1,0 +1,5 @@
+n_NN concurrently_RB visualize_VBP a_DT larger_JJR number_NN of_IN features_NNS ._.
+Since_IN scatterplot_NN is_VBZ perhaps_RB the_DT simplest_JJS and_CC wellknown_JJ multi-dimensional_JJ visualization_NN method_NN ,_, we_PRP here_RB in_IN detail_NN describe_VBP only_RB radviz_NN ._.
+In_IN radviz_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, m_NN visualized_VBD features_NNS are_VBP represented_VBN as_IN anchor_NN points_NNS equally_RB spaced_VBD around_IN the_DT perimeter_NN of_IN a_DT unit_NN circle_NN -LRB-_-LRB- see_VB Figure_NNP 1_CD ._.
+b_NN for_IN example_NN -RRB-_-RRB- ._.
+Data_NN instances_NNS are_VBP shown_VBN as_IN points_NNS inside_IN the_DT circle_NN ,_, and_CC th_DT

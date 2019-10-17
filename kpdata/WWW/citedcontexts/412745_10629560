@@ -1,0 +1,4 @@
+uery_JJ expansion_NN techniques_NNS have_VBP long_RB been_VBN suggested_VBN as_IN an_DT effective_JJ way_NN to_TO overcome_VB this_DT problem_NN ,_, such_JJ as_IN term_NN clustering_NN ,_, similarity_NN thesauri_NNS ,_, relevance_NN feedback_NN ,_, latent_JJ semantic_JJ indexing_NN -LRB-_-LRB- LSI_NNP -RRB-_-RRB- ,_, etc._NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT central_JJ idea_NN is_VBZ to_TO extract_VB expansion_NN terms_NNS from_IN a_DT subset_NN of_IN documents_NNS and_CC to_TO use_VB them_PRP in_FW query_FW expansion_NN ._.
+The_DT LSI_NNP approach_NN is_VBZ one_CD of_IN the_DT most_RBS used_JJ techniques_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+It_PRP represents_VBZ documents_NNS with_IN co_NN

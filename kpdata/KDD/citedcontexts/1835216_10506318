@@ -1,0 +1,4 @@
+e_LS tries_VBZ to_TO balance_VB accuracy_NN with_IN efficiency_NN --_: highly_RB accurate_JJ mining_NN techniques_NNS are_VBP generally_RB computationally_RB expensive_JJ ._.
+Many_JJ change_NN detection_NN techniques_NNS for_IN dynamic_JJ streams_NNS have_VBP been_VBN proposed_VBN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 1_CD ,_, 12_CD ,_, 14_CD ,_, 15_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+However_RB ,_, some_DT of_IN these_DT techniques_NNS can_MD only_RB generate_VB an_DT alarm_NN to_TO indicate_VB that_IN a_DT distribution_NN change_NN has_VBZ occurred_VBN ,_, without_IN providing_VBG new_JJ mining_NN results_NNS corresponding_VBG to_TO the_DT new_JJ distribution_NN ._.
+Others_NNS

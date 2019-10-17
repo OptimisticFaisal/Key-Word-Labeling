@@ -1,0 +1,4 @@
+ciation_NN rule_NN mining_NN algorithms_NNS have_VBP been_VBN proposed_VBN ,_, such_JJ as_IN Apriori_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, Partition_NN -LRB-_-LRB- 69_CD -RRB-_-RRB- ,_, and_CC DHP_NN -LRB-_-LRB- 58_CD -RRB-_-RRB- ._.
+People_NNS also_RB put_VBD some_DT constraints_NNS over_IN the_DT mining_NN process_NN -LRB-_-LRB- 77_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 60_CD -RRB-_-RRB- and_CC prune_VB the_DT extracted_VBN rules_NNS =_JJ -_: =[_NN 41_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Distribute_VB and_CC parallel_VB association_NN rule_NN mining_NN methods_NNS are_VBP also_RB reported_VBN in_IN -LRB-_-LRB- 15_CD ,_, 57_CD -RRB-_-RRB- ._.
+For_IN almost_RB all_DT these_DT algorithms_NNS ,_, they_PRP declared_VBD they_PRP could_MD find_VB association_NN rules_NNS very_RB quickly_RB ,_, but_CC no_DT result_NN ab_IN

@@ -1,0 +1,4 @@
+erhaps_NNS combined_VBN to_TO find_VB even_RB better_JJR models_NNS ._.
+Updates_NNS that_WDT minimize_VBP a_DT global_JJ cost_NN function_NN are_VBP guaranteed_VBN to_TO converge_VB ,_, unlike_IN algorithms_NNS such_JJ as_IN loopy_JJ belief_NN propagation_NN -LRB-_-LRB- 60_CD -RRB-_-RRB- ,_, extended_VBN Kalman_NNP smoothing_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, or_CC expectation_NN propagation_NN -LRB-_-LRB- 52_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 81_CD -RRB-_-RRB- have_VBP introduced_VBN a_DT general_JJ purpose_NN algorithm_NN called_VBN variational_JJ message_NN passing_NN ._.
+It_PRP resembles_VBZ our_PRP$ framework_NN in_IN that_IN it_PRP uses_VBZ variational_JJ Bayesian_JJ learning_NN and_CC fac_NN

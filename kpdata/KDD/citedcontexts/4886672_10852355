@@ -1,0 +1,5 @@
+ur_NN algorithm_NN can_MD work_VB in_IN a_DT black-box_JJ style_NN ._.
+In_IN addition_NN ,_, our_PRP$ algorithm_NN is_VBZ the_DT only_JJ one_NN that_WDT uses_VBZ timing_NN information_NN in_IN the_DT log_NN sequence_NN to_TO detect_VB the_DT low_JJ performance_NN problem_NN ._.
+In_IN some_DT other_JJ literature_NN =_JJ -_: =[_NN 17_CD ,_, 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, logs_NNS are_VBP used_VBN to_TO perform_VB troubleshooting_VBG related_JJ tasks_NNS in_IN different_JJ scenarios_NNS ._.
+GMS_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- detects_VBZ abnormal_JJ machines_NNS with_IN wrong_JJ configurations_NNS ._.
+It_PRP extracts_VBZ features_NNS from_IN the_DT data_NNS source_NN and_CC applies_VBZ the_DT

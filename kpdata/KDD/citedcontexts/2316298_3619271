@@ -1,0 +1,6 @@
+1_CD ._.
+-LRB-_-LRB- http_JJ :_: \/_: \/_: www.cs.uidaho.edu_NN \/_: thecollective_JJ -RRB-_-RRB- ._.
+This_DT machine_NN enabled_VBD experiments_NNS that_WDT would_MD normally_RB run_VB for_IN a_DT month_NN to_TO complete_VB in_IN half_PDT a_DT day_NN ._.
+3.2_CD INPUT_NN AND_CC OUTPUT_NN We_PRP used_VBD 2-gram_JJ encoding_NN for_IN input_NN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT 2-gram_JJ encoding_NN counts_VBZ the_DT occurrences_NNS of_IN two_CD consecutive_JJ input_NN characters_NNS -LRB-_-LRB- nucleotides_NNS -RRB-_-RRB- in_IN a_DT sliding_VBG window_NN ._.
+Since_IN there_EX are_VBP four_CD characters_NNS in_IN DNA_NN sequences_NNS -LRB-_-LRB- ``_`` a_DT ''_'' ,_, ``_`` c_NN ''_'' ,_, ``_`` g_NN ''_'' ,_, ``_`` t_NN ''_'' -RRB-_-RRB- ,_, we_PRP have_VBP 16_CD un_NN

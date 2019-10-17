@@ -1,0 +1,4 @@
+al_FW processing_NN ._.
+It_PRP allows_VBZ efficient_JJ detection_NN of_IN changes_NNS in_IN the_DT normal_JJ behavior_NN of_IN a_DT process_NN which_WDT is_VBZ established_VBN by_IN a_DT model_NN ._.
+The_DT PHT_NNP is_VBZ designed_VBN to_TO detect_VB a_DT change_NN in_IN the_DT average_NN of_IN a_DT Gaussian_JJ signal_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT test_NN considers_VBZ a_DT cumulative_JJ variable_JJ mT_NN ,_, defined_VBN as_IN the_DT cumulated_JJ difference_NN between_IN the_DT observed_VBN values_NNS and_CC their_PRP$ mean_NN till_IN the_DT current_JJ moment_NN :_: T_NN ∑_CD mT_NN =_JJ -LRB-_-LRB- xt_FW −_FW ¯_FW xT_FW −_FW δ_FW -RRB-_-RRB- t_NN =_JJ 1_CD where_WRB xT_NN ¯_NN =_JJ 1\/T_FW ∑_FW t_NN

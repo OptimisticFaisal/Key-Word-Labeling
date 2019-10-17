@@ -1,0 +1,3 @@
+subtree_NN patterns_NNS ,_, we_PRP can_MD remove_VB the_DT patterns_NNS which_WDT are_VBP not_RB closed_VBN ._.
+Instead_RB of_IN the_DT inefficient_JJ two-step_JJ approach_NN ,_, we_PRP can_MD integrate_VB several_JJ well-known_JJ pruning_NN techniques_NNS for_IN semi-structured_JJ data_NNS mining_NN =_JJ -_: =[_NN 32_CD ,_, 29_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: into_IN the_DT pattern-growth_NN method_NN to_TO output_NN only_RB closed_VBD patterns_NNS ._.
+The_DT common_JJ intuition_NN of_IN the_DT pruning_NN methods_NNS is_VBZ that_IN we_PRP only_RB need_VBP to_TO check_VB immediate_JJ supertrees_NNS of_IN a_DT tree_NN pattern_NN t_NN not_RB the_DT whole_JJ supertr_NN

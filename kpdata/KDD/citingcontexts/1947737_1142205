@@ -1,0 +1,4 @@
+eptionally_RB well_RB on_IN classi_NN cation_NN applications_NNS ._.
+However_RB ,_, classi_NN cation_NN error_NN can_MD diverge_VB from_IN distance_NN measures_NNS used_VBN for_IN regression_NN ._.
+Hence_RB ,_, we_PRP adapt_VBP the_DT concept_NN of_IN margins_NNS in_IN voting_NN for_IN classi_NN cation_NN -LRB-_-LRB- =_JJ -_: =_JJ Schapire_FW et_FW al._FW ,_, 1998_CD -_: =--RRB-_NN to_TO regression_NN where_WRB ,_, analogous_JJ to_TO nearest_JJS neighbor_NN methods_NNS for_IN regression_NN ,_, class_NN means_VBZ for_IN close_JJ votes_NNS are_VBP included_VBN in_IN the_DT computation_NN of_IN the_DT nal_JJ prediction_NN ._.
+Why_WRB not_RB use_VB a_DT direct_JJ regression_NN method_NN i_FW

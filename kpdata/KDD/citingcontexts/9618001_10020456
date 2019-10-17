@@ -1,0 +1,5 @@
+n_NN issue_NN ,_, but_CC typical_JJ usage_NN was_VBD on_IN the_DT order_NN of_IN a_DT few_JJ hundred_CD megabytes_NNS ._.
+We_PRP implemented_VBD a_DT Naive_JJ Bayes_FW solver_FW in_IN MATLAB_NNP ._.
+For_IN the_DT SVM_NNP solvers_VBZ ,_, we_PRP used_VBD the_DT ._.
+mex_NN implementations_NNS of_IN LIBSVM_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC LIBLINEAR_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: that_IN interface_NN with_IN MATLAB_NNP ._.
+We_PRP Feature_NNP Sets_NNP Basic_NNP Botnet_NNP Blacklist_NNP Blacklist_NNP +_CC Botnet_NNP WHOIS_NNP Host_NNP −_NNP based_VBN Lexical_JJ Full_JJ w\/o_FW WHOIS\/Blacklist_FW DMOZ_FW −_FW PhishTank_NNP Yahoo_NNP −_NNP PhishTank_NNP DMOZ_NNP −_NNP Spamscatter_NNP Yahoo_NNP −_NNP Spamscatter_NNP

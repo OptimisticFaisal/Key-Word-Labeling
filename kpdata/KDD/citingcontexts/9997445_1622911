@@ -1,0 +1,7 @@
+communication_NN function_NN Cc-Mst_NN as_IN the_DT Mst-Tf_NN problem_NN ._.
+Proposition_NN 1_CD ._.
+The_DT Diameter-Tf_NN problem_NN is_VBZ NP-complete_JJ ._.
+Proof_NN ._.
+We_PRP prove_VBP the_DT proposition_NN by_IN a_DT reduction_NN from_IN the_DT Multiple-Choice_NNP Cover_NNP -LRB-_-LRB- Mcc_NNP -RRB-_-RRB- problem_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT instance_NN of_IN the_DT Mcc_NN problem_NN consists_VBZ of_IN a_DT universe_NN V_NN =_JJ -LCB-_-LRB- 1_CD ,_, ..._: ,_, N_NN -RCB-_-RRB- of_IN N_NN elements_NNS ,_, a_DT N_NN ×_NN N_NN symmetric_JJ real_JJ matrix_NN D_NN with_IN nonnegative_JJ entries_NNS ,_, and_CC a_DT S_NN =_JJ -LCB-_-LRB- S1_NN ,_, ..._: ,_, Sk_NN -RCB-_-RRB- such_JJ that_IN each_DT Si_NNP ⊆_NNP V_NNP ._.
+Gi_NN

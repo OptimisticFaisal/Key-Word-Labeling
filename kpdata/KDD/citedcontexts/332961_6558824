@@ -1,0 +1,4 @@
+ing_IN the_DT ``_`` shape_NN ''_'' of_IN one_CD dimensional_JJ time_NN series_NN ._.
+The_DT ``_`` shape_NN ''_'' was_VBD defined_VBN based_VBN on_IN the_DT difference_NN of_IN every_DT two_CD consecutive_JJ values_NNS ,_, which_WDT was_VBD quantized_VBN and_CC represented_VBN by_IN a_DT distinct_JJ symbol_NN ._.
+Huang_FW andsYu_FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBN IMPACT_NN algorithm_NN to_TO transform_VB time_NN series_NN data_NNS into_IN symbol_NN strings_NNS using_VBG change_NN ratios_NNS between_IN consecutive_JJ values_NNS ._.
+Lin_NNP et_FW al._FW -LRB-_-LRB- 17_CD -RRB-_-RRB- proposed_VBD a_DT symbolic_JJ representation_NN of_IN one_CD dimensional_JJ time_NN

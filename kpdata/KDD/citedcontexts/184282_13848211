@@ -1,0 +1,5 @@
+input_NN space_NN is_VBZ used_VBN to_TO compute_VB distance_NN between_IN instances_NNS ._.
+RP_NN :_: The_DT data_NN is_VBZ first_RB projected_VBN into_IN a_DT lower_JJR dimensional_JJ space_NN of_IN dimension_NN d_NN ′_NN =_JJ log_NN n_NN ɛ_NN 2_CD log_NN 1_CD ɛ_NN using_VBG the_DT Random_JJ Projection_NN -LRB-_-LRB- RP_NN -RRB-_-RRB- method_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP set_VBD A_NN =_JJ R_NN ⊤_NN R_NN ,_, where_WRB R_NN is_VBZ the_DT projection_NN matrix_NN used_VBN by_IN RP_NN ._.
+ɛ_NN was_VBD set_VBN to_TO 0.25_CD for_IN the_DT experiments_NNS in_IN Section_NN 6.1_CD ._.
+Datasets_NNP Original_NNP RP_NNP PCA_NNP ITML_NNP LMNN_NNP IDML-LM_NNP IDML-IT_NNP Amazon_NNP 0.4046_CD 0.3964_CD 0.1554_CD 0_CD ._.

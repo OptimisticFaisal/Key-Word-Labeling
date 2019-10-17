@@ -1,0 +1,3 @@
+iques_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- on_IN multi-core_JJ machines_NNS to_TO design_VB efficient_JJ parallel_JJ learning_NN algorithms_NNS for_IN a_DT set_NN of_IN standard_JJ machine_NN learning_VBG algorithms\/models_NNS such_JJ as_IN naïve_JJ Bayes_NNP and_CC PCA_NNP ,_, achieving_VBG almost_RB linear_JJ speedup_NN =_JJ -_: =[_NN 4_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, these_DT methods_NNS do_VBP not_RB apply_VB to_TO HMM_NNP or_CC LDS_NNP directly_RB ._.
+In_IN essence_NN ,_, their_PRP$ techniques_NNS are_VBP similar_JJ to_TO dot-product-like_JJ parallelism_NN ,_, by_IN using_VBG divide-andconquer_NN on_IN independent_JJ sub_NN models_NNS ;_: these_DT do_VBP n_NN

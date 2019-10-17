@@ -1,0 +1,4 @@
+an_DT any_DT single_JJ individual_JJ classifiersCHAPTER_NN 4_CD ._.
+MODEL_NN COMBINATION_NN 79_CD in_IN the_DT group_NN -LRB-_-LRB- Larkey_NNP and_CC Croft_NNP ,_, 1996_CD ;_: Kittler_NNP et_FW al._FW ,_, 1998_CD ;_: Bilmes_NNP and_CC Kirchhoff_NNP ,_, 2000_CD ;_: Tax_NN et_FW al._FW ,_, 2000_CD ;_: Kittler_NNP and_CC Alkoot_NNP ,_, 2003_CD ;_: =_JJ -_: =_JJ Tan_NNP and_CC Jin_NNP ,_, 2004_CD -_: =_JJ -_: ;_: Zheng_NNP et_FW al._FW ,_, 2004_CD -RRB-_-RRB- ._.
+We_PRP now_RB present_VBP an_DT overview_NN of_IN some_DT combination_NN algorithms_NNS and_CC specifically_RB illustrate_VBP them_PRP with_IN examples_NNS in_IN the_DT spam_NN detection_NN domain_NN ._.
+For_IN this_DT discussion_NN we_PRP will_MD consider_VB two_CD d_NN

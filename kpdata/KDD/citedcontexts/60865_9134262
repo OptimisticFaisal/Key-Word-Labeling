@@ -1,0 +1,4 @@
+vector_NN space_NN model_NN -LRB-_-LRB- 23_CD ,_, 24_CD -RRB-_-RRB- ,_, BM25_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- and_CC language_NN model_NN for_IN IR_NN -LRB-_-LRB- 13_CD ,_, 18_CD -RRB-_-RRB- ._.
+Recently_RB ,_, machine_NN learning_NN techniques_NNS called_VBN learning_VBG to_TO rank_VB have_VBP also_RB been_VBN applied_VBN to_TO automatic_JJ ranking_JJ model_NN construction_NN =_JJ -_: =[_NN 5_CD ,_, 6_CD ,_, 7_CD ,_, 11_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+By_IN leveraging_VBG labeled_JJ training_NN data_NNS and_CC machine_NN learning_NN algorithms_NNS ,_, this_DT approach_NN is_VBZ able_JJ to_TO make_VB the_DT tuning_NN of_IN ranking_JJ model_NN theoretically_RB sounder_JJR and_CC practically_RB more_RBR effective_JJ ._.
+The_DT training_NN data_NNS

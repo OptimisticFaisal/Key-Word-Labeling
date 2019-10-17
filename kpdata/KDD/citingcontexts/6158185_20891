@@ -1,0 +1,4 @@
+fies_NNS the_DT mining_NN requirement_NN ,_, then_RB all_DT its_PRP$ subpatterns_NNS also_RB meet_VBP the_DT requirement_NN ._.
+For_IN example_NN ,_, the_DT Apriori_NNP algorithm_NN for_IN finding_VBG large_JJ itemsets_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- and_CC theGSP_NN algorithm_NN for_IN mining_NN sequential_JJ patterns_NNS =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP both_DT based_VBN on_IN this_DT property_NN ._.
+Unfortunately_RB ,_, the_DT apriori_NN property_NN does_VBZ not_RB hold_VB in_IN the_DT progressive_JJ confident_JJ condition_NN -LRB-_-LRB- i.e._FW conf_FW -LRB-_-LRB- P_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, C_NN -RRB-_-RRB- ≤_FW conf_FW -LRB-_-LRB- P_NN -LRB-_-LRB- 1_CD ,_, 2_CD -RRB-_-RRB- ,_, C_NN -RRB-_-RRB- ≤_NN ..._: ≤_FW conf_FW -LRB-_-LRB- P_NN ,_, C_NN -RRB-_-RRB- -RRB-_-RRB- ._.
+We_PRP illustrate_VBP

@@ -1,0 +1,4 @@
+mum_JJ likelihood_NN solution_NN ._.
+To_TO apply_VB likelihood-based_JJ squashing_NN to_TO SVMs_NNS it_PRP is_VBZ necessary_JJ to_TO have_VB a_DT probabilistic_JJ interpretation_NN -LRB-_-LRB- see_VB ,_, e.g._FW ,_, -LRB-_-LRB- 6_CD ,_, 16_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+We_PRP use_VBP an_DT interpretation_NN of_IN the_DT SVM_NN training_NN procedure_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: as_IN a_DT problem_NN of_IN finding_VBG maximum_JJ aposteriori_NN values_NNS for_IN the_DT parameters_NNS of_IN the_DT SVM_NN ._.
+We_PRP show_VBP that_IN the_DT probabilistic_JJ interpretation_NN of_IN SVM_NN training_NN in_IN conjunction_NN with_IN likelihood-based_JJ squashing_NN allows_VBZ o_NN

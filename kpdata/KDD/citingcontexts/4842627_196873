@@ -1,0 +1,5 @@
+roposed_VBD a_DT forest-fire_JJ graph_NN model_NN to_TO explain_VB the_DT decreasing_VBG diameter_NN phenomenon_NN observed_VBN in_IN citation_NN graphs_NNS ._.
+For_IN a_DT survey_NN of_IN mathematical_JJ analysis_NN of_IN some_DT of_IN these_DT models_NNS ,_, the_DT readers_NNS are_VBP referred_VBN to_TO =_JJ -_: =[_NN 7_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3_LS ._.
+MEASUREMENTS_NNS In_IN this_DT section_NN we_PRP detail_NN our_PRP$ study_NN on_IN two_CD online_JJ social_JJ networks_NNS at_IN Yahoo_NNP !_. ._.
+Each_DT social_JJ network_NN is_VBZ presented_VBN as_IN a_DT directed_JJ time_NN graph_NN G_NN =_JJ -LRB-_-LRB- V_NN ,_, E_NN -RRB-_-RRB- ,_, i.e._FW ,_, every_DT node_NN v_LS ∈_NN V_NN and_CC directed_VBD

@@ -1,0 +1,5 @@
+pport_NN ._.
+2_LS -RRB-_-RRB- Existing_VBG methods_NNS are_VBP context-free_JJ approaches_NNS ,_, which_WDT find_VBP biclusters_NNS global_JJ to_TO the_DT entire_JJ dataset_NN ,_, while_IN our_PRP$ approach_NN is_VBZ context-specific_JJ and_CC finds_VBZ communities_NNS at_IN multiple_JJ levels_NNS ._.
+Liu_NNP et_FW al._FW =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP leveraged_VBN the_DT existing_VBG ontology_NN for_IN biclustering_NN ,_, which_WDT assumes_VBZ the_DT hierarchy_NN is_VBZ given_VBN ,_, while_IN our_PRP$ method_NN automatically_RB learns_VBZ hierarchy_NN from_IN the_DT data_NNS ._.
+Hierarchical_JJ clustering_NN ._.
+Hierarchical_JJ clust_NN

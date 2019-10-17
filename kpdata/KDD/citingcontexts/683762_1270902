@@ -1,0 +1,4 @@
+ticated_VBN approach_NN captures_VBZ signatures_NNS that_WDT do_VBP not_RB follow_VB this_DT type_NN of_IN pattern_NN ._.
+We_PRP take_VBP a_DT set_NN of_IN documents_NNS and_CC look_VB for_IN repeated_JJ content_NN across_IN messages_NNS at_IN the_DT end_NN of_IN messages_NNS or_CC quoted_VBN text_NN blocks_NNS -LRB-_-LRB- cf_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+In_IN this_DT way_NN ,_, we_PRP develop_VBP a_DT database_NN of_IN unique_JJ signature_NN patterns_NNS and_CC are_VBP able_JJ to_TO tag_VB a_DT signature_NN without_IN explicit_JJ boundary_NN markers_NNS if_IN it_PRP occurs_VBZ multiple_JJ times_NNS in_IN the_DT data_NNS ._.
+3.4_CD Topic_JJ Classification_NN I_NN

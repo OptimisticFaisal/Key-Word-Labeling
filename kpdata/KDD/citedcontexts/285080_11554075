@@ -1,0 +1,6 @@
+n_NN model_NN ,_, how_WRB many_JJ vertices_NNS are_VBP expected_VBN to_TO become_VB activated_VBN after_IN a_DT specified_JJ period_NN of_IN time_NN ?_.
+2_CD ._.
+-LRB-_-LRB- Targeting_NN -RRB-_-RRB- Which_WDT vertices_NNS should_MD be_VB targeted_VBN as_IN initiators_NNS to_TO result_VB in_IN the_DT maximum_NN extent_NN of_IN spread_NN -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP and_CC Richardson_NNP 2001_CD -_: =--RRB-_NN ?_.
+This_DT problem_NN is_VBZ NP-hard_JJ to_TO solve_VB optimally_RB ,_, regardless_RB of_IN the_DT diffusion_NN model_NN used_VBN -LRB-_-LRB- Kempe_NNP ,_, Kleinberg_NNP ,_, and_CC Tardos_NNP 2003_CD -RRB-_-RRB- ._.
+3_LS ._.
+-LRB-_-LRB- Blocking_VBG -RRB-_-RRB- Which_WDT vertices_NNS should_MD be_VB targeted_VBN for_IN immunization_NN to_TO minimize_VB

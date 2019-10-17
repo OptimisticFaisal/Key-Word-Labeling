@@ -1,0 +1,4 @@
+ipt_NN injection_NN ,_, as_IN XSS_NN attacks_NNS have_VBP had_VBN notable_JJ impact_NN -LRB-_-LRB- 1_CD ,_, 7_CD -RRB-_-RRB- ._.
+sMany_NN such_JJ efforts_NNS aim_VBP to_TO prevent_VB attacks_NNS on_IN the_DT server_NN ,_, ranging_VBG from_IN security_NN gateways_NNS -LRB-_-LRB- 32_CD -RRB-_-RRB- to_TO static_JJ analysis_NN -LRB-_-LRB- 42_CD -RRB-_-RRB- or_CC runtime_NN protection_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT efforts_NNS do_VBP not_RB prevent_VB any_DT injections_NNS that_WDT occur_VBP after_IN a_DT page_NN leaves_VBZ the_DT server_NN ,_, so_IN they_PRP do_VBP not_RB address_VB either_CC the_DT modifications_NNS or_CC the_DT vulnerabilities_NNS we_PRP discovered_VBD ._.
+Some_DT researchers_NNS defend_VBP a_DT

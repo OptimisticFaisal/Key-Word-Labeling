@@ -1,0 +1,4 @@
+el_IN approach_NN for_IN constructing_VBG profiles_NNS and_CC WIC_NNP -LRB-_-LRB- 30_CD -RRB-_-RRB- or_CC ECAM_NN -LRB-_-LRB- 40_CD -RRB-_-RRB- algorithms_NNS for_IN monitoring_VBG the_DT interested_JJ resources_NNS ._.
+The_DT downloaded_VBN pages_NNS are_VBP automatically_RB fragmented_VBN using_VBG the_DT fragmentation_NN algorithm_NN =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_JJ -_: and_CC stored_VBN in_IN the_DT server_NN ._.
+On_IN a_DT request_NN from_IN a_DT client_NN ,_, only_RB updated_VBN fragments_NNS are_VBP sent_VBN ,_, thereby_RB ,_, increasing_VBG the_DT resource_NN utilization_NN ._.
+This_DT layer_NN maintains_VBZ page_NN layout_NN of_IN each_DT page_NN and_CC hash_JJ value_NN of_IN th_DT

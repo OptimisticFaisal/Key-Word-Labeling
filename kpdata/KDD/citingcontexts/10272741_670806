@@ -1,0 +1,4 @@
+._.
+Then_RB ,_, each_DT collection_NN is_VBZ represented_VBN as_IN a_DT bipartite_JJ graph_NN G_NN =_JJ -LRB-_-LRB- V_NN ,_, E_NN -RRB-_-RRB- ,_, where_WRB nodes_NNS in_IN V_NN represent_VBP queriesandwebpagesandedgesinE_NN represent_VBP the_DT strengths_NNS of_IN the_DT query-page_JJ pairs_NNS within_IN the_DT time_NN interval_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- defined_VBN in_IN Section_NN 3_CD -RRB-_-RRB- ._.
+As_IN a_DT result_NN ,_, the_DT input_NN click-through_JJ data_NNS is_VBZ transformed_VBN into_IN a_DT sequence_NN of_IN bipartite_JJ graphs_NNS ._.
+To_TO represent_VB the_DT evolution_NN of_IN the_DT query-page_JJ relationships_NNS ,_, we_PRP propose_VBP to_TO merge_VB t_NN

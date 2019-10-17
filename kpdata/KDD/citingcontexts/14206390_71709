@@ -1,0 +1,4 @@
+d_FW multiclass_FW Support_NN Vector_NNP Machine_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- classifiers_NNS ._.
+For_IN a_DT complete_JJ description_NN of_IN Support_NN Vector_NNP Machines_NNP ,_, motivating_VBG these_DT optimization_NN problems_NNS ,_, we_PRP refer_VBP the_DT reader_NN to_TO ,_, e.g._FW ,_, Schölkopf_NN and_CC Smola_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2.1_CD Binary_JJ classification_NN We_PRP consider_VBP training_VBG a_DT kernel_NN SVM_NN with_IN an_DT unregularized_JJ bias_NN term_NN ._.
+Let_VB -LRB-_-LRB- x1_NN ,_, y1_NN -RRB-_-RRB- ,_, ..._: ,_, -LRB-_-LRB- xn_NN ,_, yn_NN -RRB-_-RRB- ,_, withxi_FW ∈_FW R_NN d_FW andyi_FW ∈_NN -LCB-_-LRB- ±_NN 1_CD -RCB-_-RRB- ,_, be_VB a_DT training_NN set_VBN ofnlabeled_JJ examples_NNS ,_, and_CC letK_NN :_: R_NN d_NN

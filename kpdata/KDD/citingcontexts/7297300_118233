@@ -1,0 +1,4 @@
+two_CD kinds_NNS of_IN machine_NN learning_NN methods_NNS to_TO perform_VB this_DT task_NN ._.
+First_RB we_PRP trained_VBD decision_NN trees_NNS -LRB-_-LRB- specifically_RB using_VBG C4_NN .5_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- -RRB-_-RRB- to_TO predict_VB each_DT class_NN label_NN ._.
+Next_RB we_PRP tried_VBD several_JJ linear_JJ methods_NNS -LRB-_-LRB- Perceptron_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Winnow_NNP -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, and_CC Naive_JJ Bayes_NNS -RRB-_-RRB- to_TO learn_VB each_DT class_NN ._.
+These_DT linear_JJ methods_NNS offer_VBP several_JJ advantages_NNS in_IN a_DT real-world_JJ setting_NN ,_, most_RBS notably_RB the_DT quick_JJ evaluation_NN of_IN generated_VBN hypotheses_NNS and_CC their_PRP$ ability_NN

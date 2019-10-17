@@ -1,0 +1,3 @@
+be_VB seen_VBN as_IN special_JJ cases_NNS of_IN the_DT proposed_VBN model_NN ._.
+Replacing_VBG the_DT separate_JJ ARD_NNP terms_NNS of_IN the_DT two_CD data_NNS sources_NNS with_IN a_DT singleBayesian_JJ CCA_NNP via_IN Group_NNP Sparsity_NNP one_CD results_VBZ in_IN a_DT variant_NN of_IN the_DT supervised_JJ PCA_NN -LRB-_-LRB- =_JJ -_: =_JJ Yu_FW et_FW al._FW ,_, 2006_CD -_: =--RRB-_NN ;_: it_PRP assumes_VBZ all_DT components_NNS to_TO be_VB shared_VBN ,_, and_CC the_DT amount_NN of_IN supervision_NN can_MD be_VB controlled_VBN by_IN specifying_VBG different_JJ noise_NN variances_NNS for_IN the_DT two_CD sources_NNS ._.
+Assuming_VBG additionally_RB equal_JJ variances_NNS the_DT model_NN

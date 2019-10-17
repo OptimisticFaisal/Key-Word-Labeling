@@ -1,0 +1,4 @@
+clustering_NN is_VBZ used_VBN to_TO further_JJ group_NN alerts_VBZ after_IN alert_JJ fusion_NN ._.
+Based_VBN on_IN various_JJ clustering_NN algorithms_NNS ,_, we_PRP can_MD group_NN alerts_VBZ in_IN different_JJ ways_NNS according_VBG to_TO the_DT similarity_NN among_IN alerts_VBZ ,_, -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 83_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 46_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Currently_RB ,_, based_VBN on_IN the_DT results_NNS of_IN alert_JJ fusion_NN ,_, we_PRP further_JJ group_NN alerts_VBZ that_WDT have_VBP same_JJ attributes_NNS except_IN time_NN stamps_NNS into_IN one_CD cluster_NN ._.
+After_IN this_DT step_NN ,_, we_PRP have_VBP further_RB reduced_VBN the_DT redundancy_NN of_IN al_FW

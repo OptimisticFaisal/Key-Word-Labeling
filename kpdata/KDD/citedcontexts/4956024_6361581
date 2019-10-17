@@ -1,0 +1,5 @@
+roposed_VBN pattern_NN formats_NNS using_VBG Allen_NNP 's_POS relations_NNS -LRB-_-LRB- 73_CD -RRB-_-RRB- ._.
+A_DT more_RBR flexible_JJ pattern_NN language_NN increases_VBZ the_DT space_NN and_CC calls_VBZ for_IN efficient_JJ mining_NN algorithms_NNS ._.
+The_DT Time_NNP Series_NNP Knowledge_NNP Mining_NNP -LRB-_-LRB- TSKM_NNP -RRB-_-RRB- framework_NN =_JJ -_: =[_NN 74_CD ;_: 72_CD ;_: 77_CD -RRB-_-RRB- -_: =_SYM -_: describes_VBZ methods_NNS to_TO obtain_VB TSKR_NN patterns_NNS from_IN numeric_JJ time_NN series_NN and_CC symbolic_JJ interval_JJ series_NN ._.
+Chords_NNS are_VBP similar_JJ in_IN structure_NN to_TO the_DT well_RB known_VBN itemsets_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+Each_DT symbolic_JJ interval_NN corresponds_VBZ to_TO

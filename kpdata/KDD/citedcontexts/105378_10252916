@@ -1,0 +1,6 @@
+25_CD -RRB-_-RRB- ._.
+To_TO tackle_VB this_DT problem_NN ,_, many_JJ algorithms_NNS have_VBP been_VBN proposed_VBN ._.
+Here_RB ,_, we_PRP review_VBP nine_CD representative_JJ algorithms_NNS ,_, namely_RB MaxEclat_NNP -LRB-_-LRB- 29_CD -RRB-_-RRB- ,_, MaxClique_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- ,_, Princer-Search_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, MaxMiner_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- ,_, DepthProject_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Mafia_NNP -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, GenMax_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, FPMax_NN \*_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- and_CC LCMmax_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- ._.
+In_IN this_DT chapter_NN we_PRP compare_VBP those_DT algorithms_NNS in_IN four_CD aspects_NNS :_: 1_CD ._.
+Whether_IN they_PRP are_VBP main_JJ memory_NN algorithms_NNS or_CC out-of-core_JJ algorithms1_NN ;_: 2_CD ._.
+Methods_NNS

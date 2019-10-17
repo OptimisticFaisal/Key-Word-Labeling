@@ -1,0 +1,4 @@
+that_IN deterministically_RB retains_VBZ the_DT optimal_JJ coefficient_NN subset_NN of_IN a_DT dataset_NN 's_POS Haar_NNP wavelet_NN transform_VB ._.
+-LRB-_-LRB- 20_CD -RRB-_-RRB- proposed_VBD a_DT streaming-capable_JJ and_CC reliable_JJ greedy_JJ counterpart_NN to_TO this_DT solution_NN ._.
+Muthukrishnan_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: suggested_VBD that_IN an_DT algorithm_NN solving_VBG the_DT dual_JJ ,_, error-bounded_JJ problem_NN 4_CD can_MD provide_VB a_DT shortcut_NN to_TO the_DT solution_NN of_IN log_NN n_NN the_DT space-bounded_JJ problem_NN ,_, gaining_VBG a_DT log_NN ɛ_FW ∗_FW -_: factor_NN time_NN complexity_NN advantage_NN ._.
+St_NNP

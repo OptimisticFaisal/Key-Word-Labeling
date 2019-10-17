@@ -1,0 +1,6 @@
+ssification_NN performance_NN ._.
+Many_JJ semi-supervised_JJ learning_NN algorithms_NNS have_VBP been_VBN studied_VBN in_IN the_DT literature_NN ._.
+Examples_NNS are_VBP density_NN based_JJ methods_NNS -LRB-_-LRB- 1_CD ,_, 2_CD -RRB-_-RRB- ,_, graph-based_JJ algorithms_NNS -LRB-_-LRB- 3_CD --_: 6_CD -RRB-_-RRB- ,_, and_CC boosting_VBG techniques_NNS =_JJ -_: =[_NN 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS of_IN these_DT methods_NNS were_VBD originally_RB designed_VBN for_IN two_CD class_NN problems_NNS ._.
+However_RB ,_, many_JJ real-world_JJ applications_NNS ,_, such_JJ as_IN speech_NN recognition_NN and_CC object_NN recognition_NN ,_, require_VBP multi-class_JJ categorization_NN ._.
+T_NN

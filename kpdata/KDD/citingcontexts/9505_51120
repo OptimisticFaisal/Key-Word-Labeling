@@ -1,0 +1,3 @@
+n_NN fact_NN ,_, see_VBP Section_NNP 5_CD for_IN examples_NNS of_IN dierent_JJ types_NNS of_IN row_NN and_CC column_NN clusters_NNS ._.
+Our_PRP$ information-theoretic_JJ formulation_NN of_IN preserving_VBG mutual_JJ information_NN is_VBZ similar_JJ to_TO the_DT Information_NNP Bottleneck_NN method_NN -LRB-_-LRB- =_JJ -_: =_JJ 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT Information_NNP Bottleneck_NNP method_NN was_VBD introduced_VBN for_IN one-sided_JJ clustering_NN ,_, say_VBP X_NN to_TO ^_NNP X_NNP ,_, and_CC tries_VBZ to_TO minimize_VB the_DT quantity_NN I_NN -LRB-_-LRB- X_NN ;_: ^_CD X_NN -RRB-_-RRB- in_IN order_NN to_TO gain_VB compression_NN in_IN addition_NN to_TO maximizing_VBG the_DT mutua_NN

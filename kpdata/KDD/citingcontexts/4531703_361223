@@ -1,0 +1,4 @@
+een_NN focused_VBD on_IN the_DT algorithm-level_JJ improvement_NN of_IN the_DT existing_VBG classifiers_NNS for_IN rare_JJ class_NN analysis_NN ._.
+Two_CD promising_JJ research_NN directions_NNS are_VBP the_DT use_NN of_IN re-sampling_JJ techniques_NNS and_CC cost-sensitive_JJ learning_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT two_CD methods_NNS indeed_RB show_VBP encouraging_JJ performances_NNS in_IN some_DT cases_NNS by_IN directly_RB or_CC indirectly_RB adjusting_VBG the_DT class_NN sizes_NNS to_TO a_DT relatively_RB balanced_JJ level_NN ._.
+Nevertheless_RB ,_, in_IN this_DT paper_NN ,_, we_PRP reveal_VBP that_IN t_NN

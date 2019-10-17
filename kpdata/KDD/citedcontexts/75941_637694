@@ -1,0 +1,5 @@
+ally_VB a_DT rather_RB large_JJ set_NN of_IN frequent_JJ itemsets_NNS ,_, depending_VBG on_IN the_DT minimal_JJ support_NN threshold_NN ._.
+Finding_VBG interesting_JJ item_NN sets_NNS -LRB-_-LRB- and_CC association_NN rules_NNS -RRB-_-RRB- is_VBZ a_DT much_RB discussed_VBN topic_NN in_IN the_DT data_NNS mining_NN literature_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX are_VBP several_JJ approaches_NNS which_WDT define_VBP interestingness_NN with_IN purely_RB statistical_JJ measures_NNS ._.
+For_IN instance_NN ,_, itemsets_NNS whose_WP$ items_NNS appear_VBP statistically_RB dependent_JJ are_VBP interesting_JJ ._.
+A_DT measure_NN for_IN independe_NN

@@ -1,0 +1,5 @@
+gorithms_NNS ,_, particularly_RB in_IN P2P_NNP Networks_NNP ._.
+In_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, queries_NNS are_VBP routed_VBN via_IN a_DT relationship-based_JJ overlay_NN network_NN ._.
+In_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, answerers_NNS of_IN a_DT multicast_JJ query_NN are_VBP ranked_VBN via_IN a_DT decentralized_JJ authority_NN score_NN ._.
+In_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, queries_NNS are_VBP routed_VBN through_IN a_DT supernode_NN that_IN routes_NNS to_TO answerers_NNS based_VBN on_IN authority_NN ,_, responsiveness_NN ,_, and_CC expertise_NN ,_, and_CC in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, supernodes_NNS maintain_VBP expertise_NN tables_NNS for_IN routing_VBG ._.
+Banerjee_NNP and_CC Basu_NNP -LRB-_-LRB- 1_CD

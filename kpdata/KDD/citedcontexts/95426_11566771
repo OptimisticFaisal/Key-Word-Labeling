@@ -1,0 +1,5 @@
+features_NNS is_VBZ kept_VBN ._.
+This_DT summary_NN allows_VBZ for_IN answering_VBG queries_NNS about_IN the_DT stream_NN approximately_RB ._.
+The_DT important_JJ tasks_NNS studied_VBN in_IN stream_NN mining_NN include_VBP the_DT detection_NN of_IN change_NN -LRB-_-LRB- or_CC concept_NN drift_NN -RRB-_-RRB- in_IN a_DT stream_NN =_JJ -_: =[_NN 20_CD ,_, 24_CD ,_, 9_CD ,_, 42_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+By_IN detecting_VBG change_NN ,_, we_PRP can_MD detect_VB anomalies_NNS in_IN the_DT stream_NN ,_, for_IN example_NN attacks_NNS in_IN a_DT network_NN ._.
+The_DT other_JJ stream_NN mining_NN tasks_NNS can_MD roughly_RB be_VB divided_VBN into_IN two_CD groups_NNS :_: searching_VBG for_IN local_JJ patterns_NNS and_CC f_SYM

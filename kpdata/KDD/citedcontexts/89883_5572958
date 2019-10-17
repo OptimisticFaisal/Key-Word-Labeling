@@ -1,0 +1,4 @@
+F_NN be_VB the_DT set_NN of_IN all_DT FGs_NNS that_WDT are_VBP mined_VBN from_IN D._NNP A_NNP graph_NN g_NN is_VBZ called_VBN a_DT Maximal_JJ Frequent_JJ subGraph_NN -LRB-_-LRB- MFG_NN -RRB-_-RRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- if_IN g_NN ∈_NN F_NN and_CC ∄_CD g_NN ′_FW ∈_FW F_NN such_JJ that_IN g_NN ′_FW ⊃_FW g._NN A_NN graph_NN g_NN is_VBZ called_VBN a_DT Closed_JJ Frequent_JJ subGraph_NN -LRB-_-LRB- CFG_NN -RRB-_-RRB- =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: if_IN g_NN ∈_NN F_NN and_CC ∄_CD g_NN ′_FW ∈_FW F_NN such_JJ that_IN g_NN ′_FW ⊃_FW g_NN and_CC freq_NN -LRB-_-LRB- g_NN ′_NN -RRB-_-RRB- =_JJ freq_NN -LRB-_-LRB- g_NN -RRB-_-RRB- ._.
+Example_NN 1_CD ._.
+Figure_NN 1_CD shows_VBZ 13_CD FGs_NNS ,_, f1_NN ,_, ·_FW ·_FW ·_NN ,_, f13_NN ,_, mined_VBN from_IN a_DT graph_NN database_NN ,_, where_WRB a_DT ,_, b_NN ,_, c_NN represent_VBP three_CD distinct_JJ edges_NNS ._.
+Figure_NNP

@@ -1,0 +1,5 @@
+he_PRP ideas_NNS presented_VBN by_IN Faloutsos_NNP et_FW al._FW in_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- and_CC the_DT similarity_NN model_NN is_VBZ based_VBN on_IN the_DT Euclidean_JJ distance_NN ._.
+A_DT recent_JJ work_NN that_WDT proposes_VBZ a_DT method_NN to_TO cluster_VB trajectory_JJ data_NNS is_VBZ due_JJ to_TO Gaffney_NNP and_CC Smyth_NNP =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP use_VBP a_DT variation_NN of_IN the_DT EM_NN -LRB-_-LRB- expectation_NN maximization_NN -RRB-_-RRB- algorithm_NN to_TO cluster_VB small_JJ sets_NNS of_IN trajectories_NNS ._.
+However_RB ,_, their_PRP$ method_NN is_VBZ a_DT model_NN based_JJ approach_NN that_WDT usually_RB has_VBZ scalability_NN problems_NNS ._.
+Also_RB

@@ -1,0 +1,4 @@
+tances_NNS of_IN the_DT major_JJ class_NN in_IN the_DT training_NN set_NN is_VBZ artificially_RB reduced_VBN ._.
+Another_DT possible_JJ alternative_NN is_VBZ to_TO assign_VB higher_JJR error_NN costs_NNS to_TO misclassification_NN of_IN minor_JJ class_NN instances_NNS -LRB-_-LRB- Chawla_NNP et_FW al._FW ,_, 2004_CD ;_: =_JJ -_: =_JJ Domingos_NNP ,_, 1999_CD -_: =--RRB-_NN ._.
+7_CD Conclusion_NN In_IN this_DT paper_NN ,_, we_PRP have_VBP described_VBN the_DT Argument_NN Selection_NN and_CC Coercion_NN task_NN for_IN SemEval-2_NN ,_, to_TO be_VB held_VBN in_IN 2010_CD ._.
+This_DT task_NN involves_VBZ the_DT identifying_VBG the_DT relation_NN between_IN a_DT predicate_NN and_CC its_PRP$

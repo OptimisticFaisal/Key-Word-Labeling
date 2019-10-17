@@ -1,0 +1,3 @@
+blems_NNS are_VBP more_RBR general_JJ than_IN the_DT traditional_JJ multi-class_JJ problems_NNS in_IN which_WDT a_DT single_JJ label_NN is_VBZ assigned_VBN to_TO an_DT object_NN ._.
+Driven_VBN by_IN various_JJ applications_NNS ,_, such_JJ problems_NNS are_VBP receiving_VBG increasing_VBG attention_NN now_RB =_JJ -_: =[_NN 22_CD ,_, 16_CD ,_, 8_CD ,_, 33_CD ,_, 12_CD ,_, 18_CD ,_, 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD simple_JJ and_CC popular_JJ approach_NN for_IN multi-label_JJ classification_NN is_VBZ to_TO construct_VB a_DT binary_JJ classifier_NN for_IN each_DT label_NN in_IN which_WDT instances_NNS relevant_JJ to_TO this_DT label_NN form_VBP the_DT positive_JJ class_NN ,_, and_CC the_DT rest_NN form_NN

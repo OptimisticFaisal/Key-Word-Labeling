@@ -1,0 +1,3 @@
+uster_NN ,_, and_CC is_VBZ hence_RB a_DT local_JJ model_NN ._.
+SCOAL_NN improves_VBZ interpretability_NN as_RB well_RB as_IN accuracy_NN as_IN compared_VBN to_TO other_JJ modeling_NN techniques_NNS such_JJ as_IN a_DT global_JJ regression\/classification_NN model_NN ,_, Bregman_NNP co-clustering_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, sequential_JJ clustering_NN and_CC modeling_NN ,_, and_CC a_DT non-linear_JJ MLP_NNP model_NN ._.
+We_PRP propose_VBP and_CC empirically_RB evaluate_VB several_JJ active_JJ learning_NN strategies_NNS ,_, which_WDT exploit_VBP the_DT local_JJ models_NNS learned_VBD via_IN the_DT SCOAL_NN meta-algor_NN

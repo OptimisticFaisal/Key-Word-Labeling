@@ -1,0 +1,4 @@
+ect_NN votes_NNS from_IN its_PRP$ users_NNS ._.
+However_RB ,_, distributing_VBG the_DT reputation_NN management_NN creates_VBZ additional_JJ challenges_NNS ._.
+Since_IN RepuScore_NN employs_VBZ a_DT distributed_VBN reputation_NN framework_NN ,_, it_PRP is_VBZ susceptible_JJ to_TO Sybil_NNP attacks_NN =_JJ -_: =[_NN 20_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN Sybil_NNP attacks_NNS ,_, a_DT malicious_JJ receiver_NN manipulates_VBZ the_DT rating_NN mechanism_NN by_IN creating_VBG multiple_JJ identities_NNS to_TO give_VB a_DT higher_JJR rating_NN to_TO emails_NNS sent_VBN from_IN the_DT colluding_VBG senders_NNS and_CC a_DT lower_JJR rating_NN to_TO legiti_VB

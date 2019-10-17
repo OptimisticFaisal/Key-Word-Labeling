@@ -1,0 +1,3 @@
+les_FW may_MD have_VB an_DT advantage_NN that_WDT may_MD depend_VB on_IN the_DT specific_JJ problem_NN ._.
+An_DT interesting_JJ extension_NN of_IN this_DT work_NN would_MD be_VB to_TO combine_VB our_PRP$ rule_NN extraction_NN algorithm_NN with_IN a_DT recently_RB proposed_VBN Knowledge-based_JJ SVM_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: to_TO design_VB an_DT incremental_JJ algorithm_NN to_TO handle_VB massive_JJ amounts_NNS of_IN data_NNS ._.
+The_DT algorithm_NN could_MD ``_`` compress_VB ''_'' training_NN data_NNS in_IN the_DT form_NN of_IN rules_NNS obtained_VBN form_VBP different_JJ ``_`` chunks_NNS ''_'' and_CC then_RB integrate_VB all_PDT the_DT obt_NN

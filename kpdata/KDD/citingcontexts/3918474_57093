@@ -1,0 +1,6 @@
+\/_: or_CC sampling_NN ._.
+The_DT computation_NN time_NN of_IN different_JJ sets_NNS of_IN features_NNS are_VBP summarized_VBN in_IN Table_NNP 1_CD ._.
+4_LS ._.
+CASCADE_NN OF_IN HYPERPLANE_NNP CLASSIFIERS_NNP Cascade_NNP classifiers_NNS have_VBP previously_RB been_VBN investigated_VBN in_IN such_JJ works_NNS as_IN =_JJ -_: =[_NN 27_CD ,_, 12_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Particularly_RB ,_, in_IN the_DT field_NN of_IN face_NN detection_NN ,_, many_JJ classification_NN cascading_VBG strategies_NNS -LRB-_-LRB- 25_CD ,_, 21_CD ,_, 23_CD -RRB-_-RRB- have_VBP shown_VBN good_JJ performance_NN ._.
+Among_IN those_DT methods_NNS ,_, the_DT AdaBoost_NNP boosting_VBG algorithm_NN provides_VBZ a_DT simpl_NN

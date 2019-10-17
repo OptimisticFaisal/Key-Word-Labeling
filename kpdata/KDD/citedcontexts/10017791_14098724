@@ -1,0 +1,3 @@
+ed_VBN methods_NNS typically_RB base_VBP their_PRP$ suggestions_NNS on_IN the_DT tagging_VBG history_NN of_IN the_DT given_VBN resource_NN and_CC user_NN ,_, without_IN considering_VBG resource_NN descriptions_NNS ._.
+FolkRank_NNP -LRB-_-LRB- Jaschke_NNP et_FW al._FW ,_, 2008_CD -RRB-_-RRB- and_CC Matrix_NNP Factorization_NNP -LRB-_-LRB- =_JJ -_: =_JJ Rendle_FW et_FW al._FW ,_, 2009_CD -_: =--RRB-_NN are_VBP representative_JJ CF_NN methods_NNS for_IN social_JJ tag_NN suggestion_NN ._.
+Most_JJS of_IN these_DT methods_NNS suffer_VBP from_IN the_DT cold-start_JJ problem_NN ,_, i.e._FW ,_, they_PRP are_VBP not_RB able_JJ to_TO perform_VB effective_JJ suggestions_NNS for_IN resources_NNS that_IN no_DT one_NN

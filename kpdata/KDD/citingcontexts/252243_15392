@@ -1,0 +1,5 @@
+ecific_JJ -RRB-_-RRB- unigram_JJ language_NN model_NN θ_NN ,_, i.e._FW ,_, a_DT word_NN distribution_NN -LCB-_-LRB- p_NN -LRB-_-LRB- w_NN |_CD θ_NN -RRB-_-RRB- -RCB-_-RRB- w_FW ∈_FW V_NN ._.
+Naturally_RB ,_, w_FW ∈_FW V_NN p_NN -LRB-_-LRB- w_NN |_CD θ_NN -RRB-_-RRB- =_JJ 1_CD ._.
+Using_VBG a_DT word_NN distribution_NN to_TO model_NN topics_NNS is_VBZ quite_RB common_JJ in_IN information_NN retrieval_NN and_CC text_NN mining_NN =_JJ -_: =[_NN 5_CD ,_, 9_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+High_JJ probability_NN words_NNS of_IN such_PDT a_DT distribution_NN often_RB suggest_VBP what_WP the_DT theme_NN is_VBZ about_IN ._.
+For_IN example_NN ,_, a_DT theme_NN about_IN the_DT aid_NN from_IN the_DT US_NNP to_TO help_VB recovery_NN from_IN the_DT tsunami_NN disaster_NN may_MD have_VB high_JJ probabili_NNS

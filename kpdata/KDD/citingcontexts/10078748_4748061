@@ -1,0 +1,4 @@
+ng_NN applications_NNS also_RB start_VBP to_TO embrace_VB the_DT Map-Reduce_NNP paradigm_NN ,_, e.g._FW ,_, news_NN personalization_NN with_IN Map-Reduce_NNP EM_NNP algorithm_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, Map-Reduce_NN of_IN several_JJ machine_NN learning_VBG algorithms_NNS on_IN multicore_JJ architecture_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Recently_RB Papadimitriou_NNP and_CC Sun_NNP -LRB-_-LRB- 20_CD -RRB-_-RRB- illustrates_VBZ a_DT mining_NN framework_NN on_IN Map-Reduce_NNP along_IN with_IN a_DT case-study_JJ using_VBG co-clustering_NN ._.
+6_CD ._.
+CONCLUSION_NN AND_CC FUTURE_NN WORK_VBP In_IN this_DT paper_NN ,_, we_PRP study_VBD a_DT novel_JJ problem_NN of_IN

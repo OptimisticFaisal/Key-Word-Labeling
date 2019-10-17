@@ -1,0 +1,3 @@
+specification_NN or_CC automatic_JJ extraction_NN by_IN machine_NN from_IN -LRB-_-LRB- semi_NNS -_: -RRB-_-RRB- structured_JJ data_NN sources_NNS ._.
+There_EX are_VBP several_JJ approaches_NNS proposed_VBN to_TO investigate_VB the_DT transformation_NN of_IN relational_JJ schemas_NNS to_TO ontologies_NNS -LRB-_-LRB- see_VB =_JJ -_: =[_NN 27_CD ,_, 17_CD ,_, 19_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT proposed_VBN approach_NN generally_RB consists_VBZ of_IN following_VBG steps_NNS :_: first_RB ,_, parse_VB the_DT OWL_NN document_NN to_TO extract_VB both_DT its_PRP$ the_DT ontology_JJ structural_JJ information_NN and_CC data_NN instances_NNS ;_: second_JJ ,_, perform_VB the_DT object_NN rec_NN

@@ -1,0 +1,3 @@
+ajor_NN advantages_NNS of_IN collective_JJ learning_NN lies_VBZ in_IN its_PRP$ powerful_JJ ability_NN to_TO learn_VB various_JJ kinds_NNS of_IN dependency_NN structures_NNS -LRB-_-LRB- positive_JJ vs._CC negative_JJ autocorrelation_NN ,_, different_JJ degrees_NNS of_IN correlation_NN and_CC so_RB on_IN -RRB-_-RRB- =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, as_IN pointed_VBN out_RP in_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, when_WRB the_DT labeled_JJ data_NNS is_VBZ very_RB sparse_JJ ,_, the_DT performance_NN of_IN collective_JJ classification_NN might_MD be_VB largely_RB degraded_VBN due_JJ to_TO the_DT lack_NN of_IN sufficient_JJ neighbors_NNS ._.
+This_DT is_VBZ overcom_NN

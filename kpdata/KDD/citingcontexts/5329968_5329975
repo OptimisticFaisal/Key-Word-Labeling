@@ -1,0 +1,4 @@
+ew_NN species_NNS should_MD be_VB a_DT subset_NN of_IN the_DT species_NNS found_VBN in_IN a_DT site_NN with_IN more_JJR species_NNS ._.
+That_DT is_VBZ ,_, the_DT sets_NNS of_IN species_NNS found_VBN in_IN the_DT different_JJ sets_NNS should_MD form_VB a_DT chain_NN of_IN subsets_NNS ._.
+Since_IN the_DT original_JJ publication_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT nestedness_NN concept_NN has_VBZ been_VBN studied_VBN a_DT lot_NN ;_: see_VB ,_, e.g._FW ,_, -LRB-_-LRB- 4_CD ,_, 11_CD ,_, 14_CD -RRB-_-RRB- for_IN some_DT recent_JJ work_NN ._.
+1_CD In_IN general_JJ ,_, consider_VB each_DT row_NN of_IN a_DT 0-1_CD dataset_NN as_IN the_DT subset_NN of_IN the_DT columns_NNS for_IN which_WDT the_DT row_NN has_VBZ an_DT 1_CD ._.

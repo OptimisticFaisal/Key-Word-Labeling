@@ -1,0 +1,3 @@
+ures_NNS will_MD be_VB given_VBN by_IN the_DT algorithm_NN Construct-TAN_NNP ,_, just_RB modifying_VBG the_DT step_NN where_WRB a_DT maximum_JJ spanning_NN tree_NN is_VBZ induced_VBN ,_, to_TO generate_VB a_DT set_NN containing_VBG the_DT K_NN maximum_NN spanning_NN trees_NNS by_IN using_VBG Gabow_NNP algorithm_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN order_NN to_TO calculate_VB P_NN ′_NN -LRB-_-LRB- M_NN -RRB-_-RRB- ,_, we_PRP set_VBD a_DT prior_JJ over_IN tree_NN structures_NNS that_WDT assigns_VBZ the_DT same_JJ probability_NN to_TO each_DT possible_JJ tree_NN structure_NN -LRB-_-LRB- since_IN they_PRP can_MD be_VB considered_VBN of_IN a_DT similar_JJ complexity_NN -RRB-_-RRB- ._.
+We_PRP also_RB h_NN

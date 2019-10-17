@@ -1,0 +1,5 @@
+d_NN ,_, responses_NNS are_VBP presented_VBN in_IN decreasing_VBG order_NN of_IN the_DT dot_NN product_NN q_FW ′_FW xv_FW ._.
+In_IN fact_NN ,_, any_DT vector_NN w_NN ∈_CD d_NN defines_VBZ a_DT scoring_VBG function_NN w_FW ′_FW x_NN and_CC thus_RB -LRB-_-LRB- in_IN general_JJ -RRB-_-RRB- a_DT total_JJ order_NN over_IN V_NN ._.
+A_DT series_NN of_IN papers_NNS =_JJ -_: =[_NN 14_CD ,_, 16_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: explore_VB how_WRB to_TO learn_VB w_NN ,_, given_VBN a_DT partial_JJ order_NN ``_`` ≺_NN ''_'' involving_VBG some_DT of_IN the_DT entities_NNS ._.
+If_IN u_FW ≺_FW v_LS ,_, we_PRP want_VBP w_FW ′_FW xu_FW ≤_FW w_FW ′_FW xv_FW ._.
+-LRB-_-LRB- Throughout_IN ,_, we_PRP will_MD use_VB ≺_NNP both_CC as_IN an_DT operator_NN ,_, as_IN in_IN ``_`` a_FW ≺_FW b_NN ,_, ''_'' and_CC as_IN a_DT set_NN of_IN pre_JJ

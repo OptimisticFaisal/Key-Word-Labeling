@@ -1,0 +1,4 @@
+are_VBP often_RB employed_VBN to_TO learn_VB specific_JJ parameters_NNS of_IN a_DT linkage_NN rule_NN such_JJ as_IN the_DT weights_NNS of_IN different_JJ similarity_NN measures_NNS ._.
+One_CD popular_JJ example_NN is_VBZ MARLIN_NNP -LRB-_-LRB- Multiply_NNP Adaptive_NNP Record_NNP Linkage_NN with_IN INduction_NN -RRB-_-RRB- =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT uses_VBZ SVMs_NNS to_TO learn_VB how_WRB to_TO combine_VB multiple_JJ similarity_NN measures_NNS ._.
+Decision_NNP Trees_NNP ._.
+Linkage_NN rules_NNS can_MD also_RB be_VB modeled_VBN using_VBG Decision_NNP Trees_NNP which_WDT can_MD be_VB learned_VBN by_IN a_DT variety_NN of_IN algorithms_NNS including_VBG

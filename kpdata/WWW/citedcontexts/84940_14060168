@@ -1,0 +1,4 @@
+providing_VBG real-time_JJ fast_JJ access_NN ,_, and_CC the_DT ones_NNS LSDS-IR_NN '_'' 11_CD ,_, October_NNP 28_CD ,_, 2011_CD ,_, Glasgow_NNP ,_, Scotland_NNP ,_, UK_NNP ._.
+designed_VBN for_IN offline_JJ analysis_NN of_IN large-scale_JJ graphs_NNS ._.
+The_DT Connectivity_NN Server_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC several_JJ others_NNS =_JJ -_: =[_NN 34_CD ,_, 32_CD ,_, 31_CD ,_, 4_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP examples_NNS of_IN online_JJ frameworks_NNS providing_VBG efficient_JJ real-time_JJ access_NN to_TO the_DT graph_NN via_IN simple_JJ interfaces_NNS ._.
+The_DT common_JJ ground_NN among_IN these_DT frameworks_NNS is_VBZ first_RB preprocessing_VBG the_DT initial_JJ web_NN graph_NN and_CC th_DT

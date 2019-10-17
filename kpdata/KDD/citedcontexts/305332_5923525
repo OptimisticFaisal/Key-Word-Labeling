@@ -1,0 +1,4 @@
+unctional_JJ groups_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Aside_RB from_IN density_NN ,_, in_IN -LRB-_-LRB- 35_CD -RRB-_-RRB- ,_, studies_NNS are_VBP also_RB done_VBN on_IN efficiently_RB finding_VBG interesting_JJ subgraphs_NNS through_IN combining_VBG connectivity_NN constraints_NNS with_IN column_NN or_CC row_NN enumeration_NN methods_NNS =_JJ -_: =[_NN 26_CD ,_, 14_CD ,_, 12_CD ,_, 27_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT above_JJ algorithms_NNS do_VBP not_RB provide_VB any_DT visual_JJ cue_NN for_IN graph_NN exploration_NN ._.
+Osprey_NNP -LRB-_-LRB- 9_CD -RRB-_-RRB- is_VBZ a_DT system_NN for_IN visualization_NN and_CC analysis_NN of_IN complex_JJ protein_NN interaction_NN networks_NNS with_IN no_DT mining_NN ability_NN embedde_NN

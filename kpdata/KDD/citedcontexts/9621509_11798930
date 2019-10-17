@@ -1,0 +1,4 @@
+.1109_CD \/_: ICDM_NN .2010.147_CD 639algorithm_NN :_: the_DT notion_NN of_IN combined_JJ accuracy_NN of_IN a_DT group_NN of_IN labelers_NNS ._. -RRB-_-RRB-
+However_RB ,_, in_IN their_PRP$ work_NN they_PRP assume_VBP that_IN all_PDT the_DT labelers_NNS have_VBP the_DT same_JJ costs_NNS and_CC noise_NN rates_NNS ._.
+Donmez_NNP et_FW al._FW =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: relaxed_VBN this_DT assumption_NN and_CC assumed_VBD that_IN labelers_NNS can_MD have_VB different_JJ ,_, unknown_JJ accuracies_NNS ._.
+They_PRP proposed_VBD a_DT method_NN called_VBN IEThresh_NN for_IN active_JJ learning_NN with_IN multiple_JJ noisy_JJ labelers_NNS with_IN different_JJ accura_NNS

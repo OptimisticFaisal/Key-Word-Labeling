@@ -1,0 +1,4 @@
+erence_NN table_NN would_MD cause_VB these_DT product_NN mentions_VBZ to_TO be_VB missed_VBN ._.
+Therefore_RB ,_, it_PRP is_VBZ very_RB important_JJ to_TO consider_VB approximate_JJ matches_NNS between_IN sub-strings_NNS in_IN a_DT document_NN and_CC an_DT entity_NN name_NN in_IN a_DT reference_NN table_NN =_JJ -_: =[_NN 16_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP overcome_VBP this_DT limitation_NN by_IN first_RB identifying_VBG a_DT set_NN of_IN ``_`` synonyms_NNS ''_'' for_IN each_DT entity_NN in_IN the_DT reference_NN table_NN ._.
+Each_DT synonym_NN for_IN an_DT entity_NN e_SYM is_VBZ an_DT identifying_VBG set_NN of_IN tokens_NNS ,_, which_WDT when_WRB mentioned_VBN contig_NN

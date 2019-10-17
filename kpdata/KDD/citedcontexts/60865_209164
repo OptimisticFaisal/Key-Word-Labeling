@@ -1,0 +1,5 @@
+This_DT means_VBZ it_PRP has_VBZ a_DT unique_JJ global_JJ minimum_NN and_CC no_DT local_JJ minima_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+The_DT constraints_NNS are_VBP similar_JJ to_TO the_DT ordinal_JJ regression_NN approach_NN in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC it_PRP has_VBZ a_DT structure_NN similar_JJ to_TO the_DT Ranking_JJ SVM_NN described_VBN in_IN =_JJ -_: =[_NN -_: =_JJ -7_CD -RRB-_-RRB- for_IN information_NN retrieval_NN ._.
+However_RB ,_, the_DT number_NN of_IN constraints_NNS is_VBZ much_RB larger_JJR ._.
+To_TO allow_VB errors_NNS in_IN the_DT training_NN set_NN ,_, we_PRP introduce_VBP slack_JJ variables_NNS i_LS -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Corresponding_VBG to_TO the_DT error_NN measure_NN Err_NN P_NN -LRB-_-LRB- ~_NN

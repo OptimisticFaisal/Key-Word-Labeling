@@ -1,0 +1,4 @@
+calibration_NN accuracy_NN improves_VBZ with_IN the_DT aid_NN of_IN some_DT labeled_JJ examples_NNS ._.
+1_CD Introduction_NN Outlier_NN detection_NN has_VBZ been_VBN extensively_RB studied_VBN for_IN many_JJ years_NNS ,_, resulting_VBG in_IN the_DT development_NN of_IN numerous_JJ algorithms_NNS =_JJ -_: =[_NN 7_CD ,_, 3_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT algorithms_NNS often_RB produce_VBP a_DT numeric-valued_JJ output_NN score_NN to_TO represent_VB the_DT degree_NN to_TO which_WDT a_DT given_VBN observation_NN is_VBZ unusual_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP argue_VBP that_IN it_PRP is_VBZ insufficient_JJ to_TO obtain_VB only_RB the_DT magni_NNS

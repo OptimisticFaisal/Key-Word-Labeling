@@ -1,0 +1,4 @@
+med_VBN to_TO be_VB certain_JJ ,_, or_CC completely_RB determined_VBN ._.
+However_RB ,_, itisrecognizedthatdataobtainedfromawiderangeofdatasources_NNS is_VBZ inherently_RB uncertain_JJ -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+This_DT paper_NN is_VBZ concerned_VBN with_IN SPM_NN in_IN probabilistic_JJ databases_NNS =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT popular_JJ framework_NN for_IN modelling_NN uncertainty_NN ._.
+Recently_RB several_JJ data_NNS mining_NN and_CC ranking_NN problems_NNS have_VBP been_VBN studied_VBN in_IN this_DT framework_NN ,_, including_VBG top-k_NN -LRB-_-LRB- 18,5_CD -RRB-_-RRB- ,_, frequent_JJ itemset_NN mining_NN -LRB-_-LRB- FIM_NN -RRB-_-RRB- -LRB-_-LRB- 1,4_CD -RRB-_-RRB- and_CC

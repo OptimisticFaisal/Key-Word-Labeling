@@ -1,0 +1,4 @@
+number_NN of_IN points_NNS compared_VBN to_TO the_DT dimensionality_NN of_IN the_DT space_NN ._.
+Clustering_VBG a_DT small_JJ number_NN of_IN points_NNS in_IN a_DT high-dimensional_JJ space_NN is_VBZ a_DT comparatively_RB difficult_JJ task_NN ,_, as_IN observed_VBN by_IN clustering_NN researchers_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT purpose_NN of_IN performing_VBG experiments_NNS on_IN these_DT subsets_NNS is_VBZ to_TO scale_VB down_RP the_DT sizes_NNS of_IN the_DT datasets_NNS for_IN computational_JJ reasons_NNS but_CC at_IN the_DT same_JJ time_NN not_RB scale_VB down_RP the_DT difficulty_NN of_IN the_DT tasks_NNS ._.
+5.1.1_CD Syn_NN

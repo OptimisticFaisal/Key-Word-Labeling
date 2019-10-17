@@ -1,0 +1,3 @@
+he_PRP user_NN will_MD do_VB next_RB ._.
+In_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, the_DT authors_NNS use_VBP the_DT Apriori_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- algorithm_NN to_TO generate_VB association_NN rules_NNS which_WDT are_VBP then_RB processed_VBN by_IN a_DT recommendation_NN engine_NN to_TO suggest_VB content_NN to_TO new_JJ users_NNS on_IN a_DT website_NN ._.
+=_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: also_RB suggests_VBZ pushing_VBG rules_NNS to_TO a_DT recommendation_NN engine_NN for_IN processing_NN but_CC discovers_VBZ rules_NNS based_VBN on_IN clustering_NN like_IN users_NNS according_VBG the_DT order_NN of_IN resources_NNS requested_VBN and_CC the_DT time_NN spent_VBN on_IN those_DT resourc_NN

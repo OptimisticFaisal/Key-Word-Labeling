@@ -1,0 +1,3 @@
+ng_NN additional_JJ methods_NNS for_IN each_DT of_IN the_DT four_CD substeps_NNS in_IN our_PRP$ approach_NN ._.
+For_IN example_NN ,_, in_IN step_NN 1b_NN ,_, to_TO obtain_VB a_DT better_JJR CSS_NNP 's_POS classifier_NN ,_, we_PRP are_VBP investigating_VBG other_JJ ways_NNS ,_, such_JJ as_IN cost-sensitive_JJ classifiers_NNS -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP ,_, 1999_CD -_: =_JJ -_: ;_: Ting_NNP ,_, 2002_CD ;_: Turney_NNP ,_, 2000_CD -RRB-_-RRB- ,_, to_TO improve_VB the_DT performance_NN of_IN classifier_NN without_IN changing_VBG the_DT class_NN distribution_NN ._.
+We_PRP are_VBP also_RB investigating_VBG the_DT features_NNS used_VBN for_IN classification_NN in_IN step_NN 1b_NN ,_, by_IN considering_VBG

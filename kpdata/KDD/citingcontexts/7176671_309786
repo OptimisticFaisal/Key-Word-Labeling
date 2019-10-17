@@ -1,0 +1,4 @@
+from_IN existing_VBG infoboxes_NNS within_IN articles_NNS and_CC encapsulate_VB them_PRP in_IN a_DT semantic_JJ form_NN for_IN query_NN ._.
+In_IN contrast_NN ,_, Kylin_NNP populates_VBZ infoboxes_NNS with_IN new_JJ attribute_NN values_NNS ._.
+Suchanek_NNP et_FW al._FW implement_VB the_DT YAGO_NN system_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT extends_VBZ WordNet_NNP using_VBG facts_NNS extracted_VBN from_IN Wikipedia_NNP 's_POS category_NN tags_NNS ._.
+But_CC in_IN contrast_NN to_TO Kylin_NNP ,_, which_WDT can_MD learn_VB to_TO extract_VB values_NNS for_IN any_DT attribute_NN ,_, YAGO_NNP only_RB extracts_VBZ values_NNS for_IN a_DT limited_JJ numb_JJ

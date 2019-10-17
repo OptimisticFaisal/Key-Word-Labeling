@@ -1,0 +1,7 @@
+x_NN -LCB-_-LRB- support_NN -LRB-_-LRB- Y_NN -RRB-_-RRB- |_CD X_NN ⊆_NN Y_NN ∧_NN Y_NN ∈_CD CS_NN -RCB-_-RRB- ._.
+The_DT set_VBN FS_NN of_IN frequent_JJ free_JJ itemsets_NNS is_VBZ not_RB a_DT concise_JJ representation_NN ._.
+The_DT pair_NN of_IN FS_NN and_CC of_IN the_DT free_JJ itemsets_NNS in_IN the_DT negative_JJ border_NN of_IN FS_NN is_VBZ a_DT concise_JJ representation_NN =_JJ -_: =[_NN 4_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT latter_JJ element_NN in_IN the_DT pair_NN is_VBZ essential_JJ to_TO determine_VB whether_IN an_DT itemset_NN X_NN is_VBZ frequent_JJ or_CC not_RB ._.
+If_IN frequent_JJ ,_, the_DT support_NN of_IN X_NN can_MD be_VB calculated_VBN as_IN :_: min_NN -LCB-_-LRB- support_NN -LRB-_-LRB- Y_NN -RRB-_-RRB- |_CD X_NN ⊇_NN Y_NN ∧_NN Y_NN ∈_NN FS_NN -RCB-_-RRB- ._.
+3_LS ._.
+REGULAR_NNP IT_NNP

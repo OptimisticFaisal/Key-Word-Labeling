@@ -1,0 +1,4 @@
+Yang_NNP ,_, Fayyad_NNP ,_, and_CC Bradley_NNP -LRB-_-LRB- YFB01_NN -RRB-_-RRB- ._.
+Afrati_NNP ,_, Gionis_NNP ,_, and_CC Mannila_NN -LRB-_-LRB- AGM04_NN -RRB-_-RRB- proposed_VBD to_TO use_VB K_NN itemsets_NNS to_TO cover_VB a_DT collection_NN of_IN frequent_JJ itemsets_NNS ._.
+Yan_NNP ,_, Cheng_NNP ,_, Xin_NNP and_CC Han_NNP proposed_VBD a_DT profile-based_JJ approach_NN =_JJ -_: =_JJ -LRB-_-LRB- YCXH05_NN -RRB-_-RRB- -_: =_JJ -_: and_CC Xin_NNP ,_, Han_NNP ,_, Yan_NNP ,_, and_CC Cheng_NNP proposed_VBD a_DT clustering-based_JJ approach_NN -LRB-_-LRB- XHYC05_NN -RRB-_-RRB- for_IN frequent_JJ itemset_NN compression_NN ._.
+The_DT use_NN of_IN metarules_NNS as_IN syntactic_JJ or_CC semantic_JJ filters_NNS defining_VBG the_DT form_NN of_IN interesting_JJ sin_NN

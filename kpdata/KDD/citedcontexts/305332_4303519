@@ -1,0 +1,5 @@
+17_CD ,_, 10_CD ,_, 4_CD ,_, 3_CD ,_, 11_CD ,_, 22_CD ,_, 13_CD -RRB-_-RRB- ._.
+Efficient_JJ implementations_NNS appeared_VBD in_IN the_DT FIMI_NNP workshops_NNS ._.
+Most_JJS of_IN the_DT well_RB studied_VBN frequent_JJ pattern_NN mining_NN algorithms_NNS ,_, including_VBG Apriori_NNP -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, FP-growth_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, and_CC CARPENTER_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, mine_VBP the_DT complete_JJ set_NN of_IN frequent_JJ itemsets_NNS ._.
+22_CD 21sAccording_NN to_TO the_DT Apriori_NNP property_NN ,_, any_DT subset_NN of_IN a_DT frequent_JJ itemset_NN is_VBZ frequent_JJ ._.
+This_DT downward_JJ closure_NN property_NN leads_VBZ to_TO an_DT explosive_JJ number_NN of_IN freq_NN

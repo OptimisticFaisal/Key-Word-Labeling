@@ -1,0 +1,5 @@
+sers_NNS who_WP will_MD affect_VB a_DT market_NN space_NN ._.
+Early_JJ work_NN by_IN Domingos_NNP et_FW al_FW -LRB-_-LRB- 2_CD -RRB-_-RRB- modeled_VBD the_DT information_NN flow_NN directly_RB across_IN a_DT graph_NN of_IN customers_NNS to_TO determine_VB a_DT customer_NN 's_POS individual_JJ network_NN value_NN ._.
+Kempe_NNP et_FW al_FW =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: explored_VBN activation_NN models_NNS by_IN utilizing_VBG the_DT principle_NN of_IN submodularity_NN ._.
+In_IN Kempe_NNP 's_POS work_NN each_DT node_NN had_VBD a_DT chance_NN of_IN activating_VBG it_PRP 's_POS neighbors_NNS ._.
+When_WRB a_DT certain_JJ threshold_NN of_IN neighbors_NNS were_VBD activated_VBN ,_, a_DT gi_NN

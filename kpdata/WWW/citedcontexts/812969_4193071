@@ -1,0 +1,3 @@
+be_VB our_PRP$ machine_NN learning_VBG entry_NN for_IN that_DT challenge_NN ._.
+Our_PRP$ machine_NN learning_VBG approach_NN starts_NNS by_IN supplementing_VBG the_DT raw_JJ data_NNS provided_VBN by_IN the_DT Web_NN Spam_NNP Challenge_NNP with_IN additional_JJ ,_, human-engineered_JJ content-based_JJ =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: and_CC link-based_JJ -LRB-_-LRB- 2_CD -RRB-_-RRB- features_NNS ._.
+We_PRP then_RB build_VBP a_DT rough_JJ classifier_NN using_VBG the_DT raw_JJ data_NNS and_CC these_DT supplemental_JJ features_NNS ,_, and_CC use_VB this_DT classifier_NN to_TO label_VB all_DT of_IN the_DT unlabeled_JJ graph_NN nodessprovided_VBN by_IN the_DT Web_NN

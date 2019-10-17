@@ -1,0 +1,5 @@
+icular_JJ data_NNS set_VBN ._.
+Here_RB ,_, we_PRP are_VBP going_VBG to_TO instead_RB examine_VB how_WRB boosting_VBG may_MD be_VB used_VBN to_TO deal_VB with_IN data_NNS sets_NNS that_WDT have_VBP a_DT large_JJ number_NN of_IN examples_NNS and\/or_CC learning_VBG algorithms_NNS that_WDT are_VBP very_RB time-consuming_JJ ._.
+In_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Pavlov_NNP et_NNP ._.
+al._FW examined_VBN several_JJ methods_NNS for_IN speeding_VBG up_RP the_DT learning_NN process_NN for_IN support_NN vector_NN machines_NNS ._.
+One_CD of_IN those_DT methods_NNS used_VBD boosting_VBG on_IN a_DT small_JJ subset_NN of_IN the_DT data_NNS and_CC reported_VBD good_JJ accuracie_NN

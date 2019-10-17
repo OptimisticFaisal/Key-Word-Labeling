@@ -1,0 +1,6 @@
+following_VBG expression_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+H_NN -LRB-_-LRB- X_NN -RRB-_-RRB- =_JJ \_FW Gamma_FW X_NN x2X_NN p_NN -LRB-_-LRB- x_NN -RRB-_-RRB- log_NN p_NN -LRB-_-LRB- x_NN -RRB-_-RRB- If_IN the_DT base_NN of_IN log_NN is_VBZ 2_CD ,_, the_DT unit_NN for_IN entropy_NN is_VBZ bit_NN ._.
+If_IN the_DT natural_JJ log_NN is_VBZ used_VBN ,_, the_DT unit_NN for_IN entropy_NN is_VBZ nat_NN ._.
+Note_VB that_IN 1_CD nat_NN =_JJ 1.44_CD bits_NNS =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+When_WRB there_EX are_VBP more_JJR than_IN one_CD variable_NN ,_, we_PRP can_MD calculate_VB the_DT joint_JJ entropy_NN to_TO measure_VB their_PRP$ uncertainty_NN ._.
+H_NN -LRB-_-LRB- X_NN 1_CD ;_: :_: :_: :_: ;_: X_NN n_NN -RRB-_-RRB- =_JJ \_FW Gamma_FW X_NN x_NN 1_CD 2X_NN 1_CD :_: :_: :_: X_NN xn2Xn_NN p_NN -LRB-_-LRB- x_NN 1_CD ;_: :_: :_: :_: ;_: x_NN n_NN -RRB-_-RRB- log_NN p_NN -LRB-_-LRB- x_NN 1_CD ;_: :_: :_:

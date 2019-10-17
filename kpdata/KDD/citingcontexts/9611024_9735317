@@ -1,0 +1,3 @@
+roximates_VBZ the_DT non-convex_JJ and_CC discontinuous_JJ ranking_JJ loss_NN function_NN with_IN a_DT somewhat_RB more_RBR benign_JJ -LRB-_-LRB- but_CC often_RB still_RB non-convex_JJ -RRB-_-RRB- surrogate_NN ,_, which_WDT is_VBZ then_RB optimized_VBN using_VBG gradient_NN descent_NN and_CC neural_JJ networks_NNS =_JJ -_: =[_NN 3_CD ,_, 7_CD ,_, 8_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT very_RB interesting_JJ variant_NN is_VBZ LambdaRank_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- which_WDT models_NNS only_RB the_DT gradient_NN ,_, with_IN an_DT unmaterialized_JJ objective_NN ._.
+A_DT potential_JJ problem_NN with_IN this_DT family_NN is_VBZ that_IN non-convex_JJ optimization_NN behavior_NN is_VBZ tricky_JJ

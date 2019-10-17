@@ -1,0 +1,4 @@
+t_NN clusters_NNS across_IN time_NN ._.
+In_IN the_DT extreme_JJ case_NN of_IN α_NN =_JJ 0.5_CD ,_, there_EX is_VBZ effectively_RB no_DT change_NN between_IN the_DT predicted_VBN memberships_NNS and_CC the_DT final_JJ output_NN of_IN the_DT co-clustering_JJ algorithm_NN ._.
+A_DT number_NN of_IN authors_NNS -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =--RRB-_NN have_VBP suggested_VBN analyzing_VBG the_DT stability_NN or_CC ``_`` loyalty_NN ''_'' of_IN object_NN member-cluster_NN memberships_NNS across_IN time_NN ._.
+In_IN the_DT bipartite_JJ case_NN ,_, we_PRP can_MD quantify_VB this_DT for_IN both_DT objects_NNS and_CC features_NNS --_: we_PRP suggest_VBP the_DT latte_NN

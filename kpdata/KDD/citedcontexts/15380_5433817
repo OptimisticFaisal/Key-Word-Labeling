@@ -1,0 +1,6 @@
+uch_NN patterns_NNS ._.
+Accordingly_RB ,_, the_DT structure_NN of_IN the_DT web_NN site_NN can_MD be_VB modified_VBN ._.
+User_NN Segmentation_NN :_: User_NN segmentation_NN is_VBZ to_TO cluster_VB web_NN users_NNS based_VBN on_IN the_DT corresponding_JJ WASs_NNS to_TO provide_VB personalized_JJ services_NNS =_JJ -_: =[_NN 4_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Existing_VBG works_NNS either_CC use_VB sequence-based_JJ distance_NN or_CC probability_NN models_NNS to_TO measure_VB the_DT distance_NN between_IN WASs_NNS -LRB-_-LRB- 4_CD ,_, 3_CD -RRB-_-RRB- ._.
+However_RB ,_, none_NN of_IN them_PRP has_VBZ taken_VBN the_DT dynamic_JJ nature_NN of_IN WASs_NNS into_IN account_NN ._.
+For_IN inst_NN

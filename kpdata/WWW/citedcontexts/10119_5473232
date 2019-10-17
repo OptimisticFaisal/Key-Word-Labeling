@@ -1,0 +1,4 @@
+is_VBZ output_NN can_MD subsequently_RB be_VB used_VBN to_TO verify_VB BPEL_NN processes_NNS by_IN means_NNS of_IN the_DT open-source_JJ tools_NNS BPEL2PNML_NN and_CC WofBPEL_NN -LRB-_-LRB- including_VBG reachability_NN analysis_NN -RRB-_-RRB- ._.
+We_PRP now_RB give_VBP some_DT examples_NNS of_IN such_JJ approaches_NNS ._.
+In_IN =_JJ -_: =[_NN 37_CD -RRB-_-RRB- -_: =_SYM -_: the_DT authors_NNS define_VBP the_DT semantics_NNS of_IN a_DT relevant_JJ subset_NN of_IN DAML-S_NN -LRB-_-LRB- now_RB OWL-S_NN -RRB-_-RRB- in_IN terms_NNS of_IN a_DT first-order_JJ logic_NN ,_, namely_RB the_DT situation_NN calculus_NN -LRB-_-LRB- 38_CD -RRB-_-RRB- ._.
+Based_VBN on_IN this_DT semantics_NNS they_PRP describe_VBP WS_NN compositions_NNS

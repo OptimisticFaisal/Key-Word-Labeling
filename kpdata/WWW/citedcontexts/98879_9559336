@@ -1,0 +1,6 @@
+-LRB-_-LRB- the_DT user_NN who_WP the_DT prediction_NN is_VBZ for_IN -RRB-_-RRB- ._.
+2_CD ._.
+Use_VB the_DT ratings_NNS from_IN those_DT like-minded_JJ users_NNS found_VBN in_IN step_NN 1_CD to_TO calculate_VB a_DT prediction_NN for_IN the_DT active_JJ user_NN ._.
+Alternatively_RB ,_, item-based_JJ collaborative_NN filtering_VBG =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 17_CD -RRB-_-RRB- popularized_VBN by_IN Amazon.com_NN -LRB-_-LRB- i.e._FW ``_`` users_NNS who_WP bought_VBD x_NN also_RB bought_VBD y_NN ''_'' -RRB-_-RRB- proceeds_VBZ in_IN an_DT item-centric_JJ manner_NN :_: 1_CD ._.
+Build_VB an_DT item-item_JJ matrix_NN determining_NN relationships_NNS between_IN pairs_NNS of_IN items_NNS 2_CD ._.
+Using_VBG th_DT

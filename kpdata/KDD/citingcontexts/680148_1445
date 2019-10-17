@@ -1,0 +1,5 @@
+h_NN as_IN the_DT radius_NN of_IN the_DT graph_NN or_CC embedded_JJ cliques_NNS ._.
+Other_JJ analyses_NNS yield_VBP high-level_JJ ,_, subjective_JJ information_NN about_IN the_DT data_NNS ._.
+For_IN example_NN ,_, the_DT web_NN graph_NN has_VBZ been_VBN analyzed_VBN using_VBG the_DT PageRank_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- and_CC HITS_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- algorithm_NN -_: =_JJ -_: s_NN to_TO identify_VB web_NN pages_NNS likely_JJ to_TO be_VB deemed_VBN ``_`` important_JJ ''_'' by_IN the_DT user_NN ._.
+The_DT citation_NN structure_NN of_IN scientific_JJ papers_NNS has_VBZ been_VBN analyzed_VBN to_TO find_VB papers_NNS related_VBN to_TO a_DT given_VBN paper_NN -LRB-_-LRB- 8_CD ,_, 10_CD ,_, 14_CD -RRB-_-RRB- ._.
+These_DT

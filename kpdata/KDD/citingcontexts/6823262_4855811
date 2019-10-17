@@ -1,0 +1,4 @@
+f_FW boolean_FW factor_NN analysis_NN ._.
+Our_PRP$ clustering_NN model_NN is_VBZ also_RB loosely_RB related_JJ to_TO additive_JJ clustering_NN where_WRB the_DT similarities_NNS among_IN the_DT data_NNS points_NNS are_VBP being_VBG considered_VBN instead_RB of_IN the_DT content_NN of_IN the_DT features_NNS =_JJ -_: =[_NN 8_CD ,_, 33_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN additive_JJ clustering_NN ,_, a_DT similarity_NN model_NN is_VBZ postulated_VBN that_WDT expresses_VBZ the_DT observed_VBN similarities_NNS of_IN data_NNS points_NNS in_IN terms_NNS of_IN their_PRP$ underlying_JJ features_NNS ._.
+Formally_RB ,_, additive_JJ clustering_NN tries_VBZ to_TO preform_VB

@@ -1,0 +1,6 @@
+were_VBD not_RB good_JJ enough_RB for_IN practical_JJ purposes_NNS ._.
+\*_SYM University_NNP of_IN Mainz_NNP ,_, rapp@mail.fask.uni-mainz.de_NN ._.
+This_DT research_NN was_VBD supported_VBN by_IN the_DT DFG_NNP ._.
+A_DT recent_JJ attempt_NN to_TO sense_NN induction_NN was_VBD made_VBN by_IN Pantel_NNP and_CC Lin_NNP =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP clustered_VBD the_DT words_NNS in_IN a_DT large_JJ corpus_NN using_VBG a_DT clustering_NN algorithm_NN relying_VBG on_IN a_DT mutual_JJ information-based_JJ distance_NN measure_NN ._.
+Since_IN their_PRP$ algorithm_NN allows_VBZ a_DT word_NN to_TO belong_VB to_TO more_JJR than_IN one_CD cluster_NN

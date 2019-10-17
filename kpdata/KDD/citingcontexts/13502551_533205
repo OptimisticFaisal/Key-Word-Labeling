@@ -1,0 +1,4 @@
+e_LS the_DT initial_JJ ranking_NN scores_NNS ._.
+Kurland_NNP and_CC Lee_NNP performed_VBD re-ranking_NN based_VBN on_IN centrality_NN within_IN graphs_NNS ,_, through_IN PageRank-inspired_JJ algorithm_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- and_CC HITS-style_JJ cluster-based_JJ approach_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+Zhang_NNP et_FW al._FW =_SYM -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT similar_JJ method_NN to_TO improve_VB Web_NN search_NN results_NNS based_VBN on_IN a_DT linear_JJ combination_NN of_IN results_NNS from_IN text_NN search_NN and_CC authority_NN ranking_NN ._.
+In_IN addition_NN ,_, PopRank_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- is_VBZ developed_VBN to_TO extend_VB PageRank_NN mode_NN

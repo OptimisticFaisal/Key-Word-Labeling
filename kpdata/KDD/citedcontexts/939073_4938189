@@ -1,0 +1,4 @@
+port_NN increases_VBZ significantly_RB from_IN one_CD class_NN to_TO another_DT ._.
+CAEP_NN has_VBZ been_VBN found_VBN to_TO be_VB more_RBR accurate_JJ than_IN C4_NN .5_CD and_CC association-based_JJ classification_NN on_IN several_JJ data_NNS sets_NNS ._.
+13sAssociation_NN based_JJ decision_NN tree_NN =_JJ -_: =[_NN 120_CD -RRB-_-RRB- -_: =_JJ -_: ,_, called_VBN ADT_NN ,_, is_VBZ a_DT different_JJ classification_NN algorithm_NN based_VBN on_IN association_NN rules_NNS ,_, combined_VBN with_IN decision_NN tree_NN pruning_NN techniques_NNS ._.
+All_DT rules_NNS with_IN a_DT confidence_NN greater_JJR or_CC equal_JJ to_TO a_DT given_VBN threshold_NN are_VBP

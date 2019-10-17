@@ -1,0 +1,5 @@
+the_DT smallest_JJS eigenvalue_NN of_IN X._NNP Let_NNP λi_FW be_VB the_DT i-th_FW eigenvalue_FW of_IN DXD_NNP and_CC let_VB ˜_FW λi_FW be_VB the_DT i-th_JJ eigenvalue_NN of_IN D_NN -LRB-_-LRB- X_NN +_CC E_NN -RRB-_-RRB- D._NNP Then_RB ,_, ˛_FW ˛λi_FW ˛_FW −_FW ˛_FW ˜_FW ˛_FW λi_FW ˛_FW ≤_FW η_FW ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB- λmin_NN -LRB-_-LRB- X_NN -RRB-_-RRB- For_IN a_DT proof_NN ,_, see_VBP Demmel_NNP and_CC Veselić_NNP =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+λi_FW ˛_FW ,_, s5_NN .3_NN Invertibility_NN of_IN matrices_NNS Let_NNP A_NNP =_JJ UΣV_NN T_NN be_VB the_DT SVD_NNP of_IN A._NNP Define_VB ,_, ∆_NN =_JJ ΣU_NN T_NN SUΣ_NN =_JJ Σ_NN -LRB-_-LRB- I_NN +_CC E_NN -RRB-_-RRB- Σ_NN ._.
+-LRB-_-LRB- 12_CD -RRB-_-RRB- Here_NN E_NN denotes_VBZ how_WRB far_RB away_RB U_NN T_NN SU_NN is_VBZ from_IN the_DT identity_NN ._.
+We_PRP will_MD apply_VB Lemma_NNP 5_CD on_IN the_DT matr_NN

@@ -1,0 +1,5 @@
+chmark_NN algorithms_NNS for_IN comparison_NN ._.
+In_IN addition_NN ,_, a_DT pagelevel_NN classifier_NN using_VBG support_NN vector_NN machines_NNS -LRB-_-LRB- SVM_NN -RRB-_-RRB- -LRB-_-LRB- 18_CD ,_, 15_CD -RRB-_-RRB- is_VBZ also_RB trained_VBN ._.
+SVM_NN is_VBZ reported_VBN to_TO have_VB the_DT best_JJS performance_NN in_IN sentiment_NN detection_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+-LRB-_-LRB- We_PRP did_VBD not_RB build_VB a_DT MILBoost_NN system_NN with_IN SVM_NN as_IN a_DT base_NN classifier_NN becaues_VBZ it_PRP is_VBZ not_RB straightforward_JJ to_TO incorporate_VB the_DT instance_NN weights_NNS into_IN an_DT SVM_NN solver_NN -RRB-_-RRB- ._.
+In_IN addition_NN ,_, since_IN we_PRP have_VBP sentence-level_JJ

@@ -1,0 +1,4 @@
+interpret_VB ._.
+Features_NNS can_MD also_RB be_VB constructed_VBN using_VBG alternative_JJ methods_NNS that_WDT produce_VBP more_RBR interpretable_JJ output_NN ,_, such_JJ as_IN the_DT work_NN on_IN sparse_JJ bases_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+However_RB ,_, this_DT class_NN of_IN methods_NNS ,_, as_RB well_RB as_IN others_NNS =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, require_VBP that_IN we_PRP first_RB select_VBP a_DT window_NN length_NN for_IN identifying_VBG common_JJ features_NNS ,_, whereas_IN no_DT such_JJ natural_JJ granularity_NN exists_VBZ in_IN many_JJ applications_NNS ._.
+Moreover_RB ,_, none_NN of_IN these_DT methods_NNS aim_VBP to_TO discover_VB higher_JJR

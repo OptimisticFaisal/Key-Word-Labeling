@@ -1,0 +1,5 @@
+._.
+For_IN each_DT value_NN of_IN n_NN ,_, from_IN 1_CD to_TO N_NN ,_, a_DT model_NN can_MD either_RB be_VB built_VBN or_CC not_RB ,_, leading_VBG to_TO 2_CD N_NN possible_JJ schedules_NNS ._.
+However_RB ,_, identification_NN of_IN the_DT optimal_JJ schedule_NN can_MD be_VB cast_VBN in_IN terms_NNS of_IN dynamic_JJ programming_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, yielding_VBG an_DT algorithm_NN that_WDT requires_VBZ O_NN -LRB-_-LRB- N_NN 2_CD -RRB-_-RRB- space_NN and_CC O_NN -LRB-_-LRB- N_NN 3_CD -RRB-_-RRB- time_NN ._.
+Let_VB f_LS -LRB-_-LRB- n_NN -RRB-_-RRB- be_VB the_DT cost_NN of_IN building_VBG a_DT model_NN with_IN n_NN instances_NNS and_CC determining_VBG whether_IN accuracy_NN has_VBZ converged_VBN ._.
+As_IN described_VBN above_IN ,_, let_VB

@@ -1,0 +1,4 @@
+training_NN ,_, given_VBN the_DT dynamic_JJ nature_NN of_IN user_NN behavior_NN and_CC the_DT volatility_NN of_IN ads_NNS and_CC pages_NNS ._.
+In_IN this_DT paper_NN we_PRP present_VBP a_DT scalable_JJ and_CC efficient_JJ solution_NN to_TO behavioral_JJ targeting_NN using_VBG Hadoop_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- MapReduce_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: framework_NN ._.
+First_RB ,_, we_PRP introduce_VBP the_DT background_NN of_IN BT_NNP for_IN online_JJ display_NN advertising_NN ._.
+Second_RB ,_, we_PRP describe_VBP linear_JJ Poisson_NNP regression_NN ,_, a_DT probabilistic_JJ model_NN for_IN count_NN data_NNS such_JJ as_IN online_JJ user_NN behavioral_JJ

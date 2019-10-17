@@ -1,0 +1,7 @@
+of_IN results_NNS could_MD be_VB straightforward_JJ translated_VBN into_IN XML_NN ._.
+-_: XML-DB_NN ._.
+These_DT kind_NN of_IN DBMS_NNS manage_VBP collections_NNS of_IN XML_NN documents_NNS -LRB-_-LRB- xIndice_NN ,_, http:\/\/XML.apache.org\/xindice;_NN eXist_NN ,_, http:\/\/exist-db.org;_NN LegoDB_NN ,_, =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+They_PRP can_MD execute_VB XQuery_NN and_CC XPath_NN queries_NNS ,_, so_IN they_PRP do_VBP not_RB need_VB any_DT additional_JJ pre-processing_NN ._.
+-_: HTML_NNP Web_NN servers_NNS ._.
+There_EX are_VBP lots_NNS of_IN web_NN sites_NNS with_IN HTML_NNP static_JJ web_NN pages_NNS ._.
+In_IN order_NN to_TO integrate_VB this_DT

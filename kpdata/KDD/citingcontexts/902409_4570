@@ -1,0 +1,4 @@
+ents_NNS on_IN the_DT data_NNS with_IN classification_NN algorithms_NNS from_IN Naïve_NNP Bayes_NNP -LRB-_-LRB- NB_NN -RRB-_-RRB- -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, k-Nearest_NN Neighbor_NN -LRB-_-LRB- k-NN_NN -RRB-_-RRB- -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, and_CC Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, and_CC also_RB with_IN RAINBOW_NN ,_, a_DT bag-of-words_JJ text-mining_NN system_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+REMIND_NNP 's_POS use_NN of_IN a_DT ``_`` training_NN set_NN ''_'' is_VBZ different_JJ from_IN the_DT way_NN any_DT of_IN these_DT systems_NNS would_MD use_VB a_DT training_NN set_NN ._.
+REMIND_NNP currently_RB does_VBZ no_DT learning_NN or_CC model_NN training_NN ._.
+Instead_RB the_DT ``_`` training_NN set_NN ''_'' is_VBZ used_VBN to_TO v_LS

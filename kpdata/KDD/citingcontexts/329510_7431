@@ -1,0 +1,4 @@
+6_CD ._.
+EVALUATION_NN To_TO demonstrate_VB the_DT applicability_NN of_IN the_DT proposed_VBN algorithm_NN ,_, data_NN sets_NNS with_IN appropriate_JJ numeric_JJ targets_NNS were_VBD identi_FW ed_FW from_IN the_DT UCI_NNP knowledge_NN discovery_NN and_CC machine_NN learning_NN repositories_NNS =_JJ -_: =[_NN 4_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Table_NNP 2_CD lists_NNS for_IN these_DT data_NNS sets_VBZ the_DT name_NN ,_, the_DT number_NN of_IN records_NNS ,_, the_DT number_NN of_IN attributes_NNS -LRB-_-LRB- excluding_VBG the_DT target_NN -RRB-_-RRB- ,_, and_CC the_DT name_NN of_IN the_DT target_NN attribute_NN ._.
+As_IN the_DT conditions_NNS in_IN the_DT antecedent_JJ must_MD be_VB

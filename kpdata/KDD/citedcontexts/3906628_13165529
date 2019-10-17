@@ -1,0 +1,6 @@
+ant_NN ._.
+For_IN example_NN ,_, a_DT Support_NN Vector_NNP Machine_NNP relies_VBZ on_IN such_JJ objects_NNS as_IN support_NN vectors_NNS ._.
+In_IN a_DT clustering_NN context_NN ,_, models_NNS are_VBP derived_VBN and_CC the_DT focus_NN is_VBZ on_IN typical_JJ objects_NNS ._.
+When_WRB learning_VBG correlation_NN models_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, such_JJ untypical_JJ objects_NNS can_MD significantly_RB reduce_VB model_NN quality_NN ._.
+An_DT example_NN of_IN treating_VBG class_NN outliers_NNS in_IN an_DT evaluation_NN different_JJ than_IN class_NN inliers_NNS is_VBZ -LRB-_-LRB- 34_CD -RRB-_-RRB- ._.
+Multiple_JJ -LRB-_-LRB- Overlapping_JJ -RRB-_-RRB- Hidden_JJ Structures_NNS :_:

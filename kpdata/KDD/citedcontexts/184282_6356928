@@ -1,0 +1,3 @@
+Random_JJ projections_NNS have_VBP been_VBN found_VBN to_TO be_VB a_DT computationally_RB efficient_JJ ,_, yet_CC sufficiently_RB accurate_JJ method_NN for_IN dimensionality_NN reduction_NN ._.
+Promising_JJ experimental_JJ results_NNS are_VBP reported_VBN in_IN Bingham_NNP and_CC Mannila_NNP =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT key_JJ idea_NN of_IN random_JJ map8sping_NN arises_VBZ from_IN the_DT Johnson-Lindenstrauss_JJ lemma_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, which_WDT states_VBZ that_IN any_DT n_NN point_NN set_VBN in_IN a_DT Euclidean_JJ space_NN can_MD be_VB embedded_VBN in_IN a_DT Euclidean_JJ space_NN of_IN dimension_NN O_NN -LRB-_-LRB- log_NN n_NN \/_: ``_`` 2_CD

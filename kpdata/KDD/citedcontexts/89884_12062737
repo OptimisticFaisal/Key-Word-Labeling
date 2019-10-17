@@ -1,0 +1,4 @@
+t_NN sequential_JJ pattern_NN mining_NN algorithms_NNS are_VBP the_DT AprioriAll_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, GSP_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, SPIRIT_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, SPADE_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, FreeSpan_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, PrefixSapn_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC SPAM_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- algorithms_NNS ._.
+The_DT best-known_JJ tree_NN miner_NN algorithms_NNS are_VBP TreeMiner_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, FREQT_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- and_CC FreeTreeMiner_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+The_DT contribution_NN of_IN the_DT novel_JJ approach_NN proposed_VBN in_IN this_DT paper_NN is_VBZ to_TO use_VB automaton_NN theory_NN for_IN testing_VBG the_DT subpattern_JJ inclusion_NN ._.
+A._FW Subsequence_FW Inclusion_NN Test_NN For_IN tes_NNS

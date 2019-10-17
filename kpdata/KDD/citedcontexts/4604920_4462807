@@ -1,0 +1,4 @@
+ing_IN the_DT performance_NN of_IN OLAP_NN tools_NNS ._.
+After_IN Gray_NNP et_FW al._FW -LRB-_-LRB- 6_CD -RRB-_-RRB- proposed_VBD the_DT data_NNS cube_NN structure_NN ,_, a_DT plethora_NN of_IN papers_NNS has_VBZ been_VBN published_VBN in_IN this_DT area_NN ._.
+There_EX are_VBP several_JJ ROLAP_NNS cubing_VBG methods_NNS proposed_VBN so_RB far_RB =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 6_CD ,_, 12_CD ,_, 13_CD ,_, 15_CD ,_, 18_CD ,_, 19_CD ,_, 24_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT are_VBP well-documented_JJ in_IN the_DT existing_VBG literature_NN and_CC their_PRP$ detailed_JJ description_NN exceeds_VBZ our_PRP$ purpose_NN ._.
+BUC_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- is_VBZ the_DT most_RBS influential_JJ method_NN in_IN the_DT ROLAP_NN context_NN attributing_VBG its_PRP$ success_NN to_TO a_DT very_RB

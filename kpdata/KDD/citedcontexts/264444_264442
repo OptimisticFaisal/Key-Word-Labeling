@@ -1,0 +1,4 @@
+sensitive_JJ attribute_NN values_NNS ;_: thereby_RB the_DT risk_NN of_IN attribute_NN disclosure_NN is_VBZ kept_VBN under_IN 1_CD \/_: ℓ_NN ._.
+Although_IN the_DT k-anonymity_NN and_CC ℓ-diversity_NN models_NNS have_VBP led_VBN to_TO a_DT number_NN of_IN valuable_JJ privacy-protecting_JJ techniques_NNS =_JJ -_: =[_NN 2_CD ,_, 6_CD ,_, 7_CD ,_, 9_CD ,_, 10_CD ,_, 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT existing_VBG solutions_NNS are_VBP limited_VBN only_RB to_TO static_JJ data_NNS release_NN ._.
+That_DT is_VBZ ,_, in_IN such_JJ solutions_NNS it_PRP is_VBZ assumed_VBN that_IN the_DT entire_JJ dataset_NN is_VBZ available_JJ at_IN the_DT time_NN of_IN release_NN ._.
+This_DT assumption_NN implies_VBZ a_DT signif_NN

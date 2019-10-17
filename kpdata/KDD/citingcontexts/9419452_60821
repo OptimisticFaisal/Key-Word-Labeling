@@ -1,0 +1,4 @@
+Vectors_NNS 1_CD ._.
+INTRODUCTION_NN Partially_RB labeled_VBN training_NN data_NNS such_JJ as_IN pairwise_JJ constraints_NNS have_VBP been_VBN shown_VBN to_TO improve_VB performance_NN in_IN both_CC supervised_JJ -LRB-_-LRB- 20_CD ,_, 21_CD ,_, 10_CD ,_, 11_CD ,_, 12_CD ,_, 14_CD ,_, 15_CD ,_, 18_CD ,_, 6_CD -RRB-_-RRB- and_CC semi-supervised_JJ =_JJ -_: =[_NN 17_CD ,_, 3_CD ,_, 13_CD ,_, 19_CD ,_, 7_CD ,_, 2_CD ,_, 4_CD -RRB-_-RRB- -_: =_JJ -_: learning_NN ._.
+While_IN labeled_VBN data_NNS is_VBZ usually_RB expensive_JJ ,_, time_NN consuming_VBG to_TO collect_VB ,_, and_CC sometimes_RB requires_VBZ human_JJ domain_NN experts_NNS to_TO annotate_VB ,_, partially_RB labeled_VBN data_NNS is_VBZ often_RB relatively_RB easier_JJR to_TO obtain_VB ._.
+Muc_NN

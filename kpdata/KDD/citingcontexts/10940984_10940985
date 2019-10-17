@@ -1,0 +1,4 @@
+t_NN these_DT networks_NNS are_VBP given_VBN in_IN Table_NNP 1_CD -LRB-_-LRB- Epinions_NNP and_CC Amazon_NNP networks_NNS are_VBP treated_VBN as_IN undirected_JJ graphs_NNS in_IN the_DT statistics_NNS -RRB-_-RRB- ._.
+Finally_RB ,_, in_IN the_DT scalability_NN test_NN ,_, we_PRP use_VBP the_DT DIGG_NNP package_NN available_JJ on_IN the_DT web_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: to_TO randomly_RB generate_VB power-law_NN graphs_NNS of_IN difference_NN sizes_NNS based_VBN on_IN the_DT model_NN of_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+Generating_NNP propagation_NN probabilities_NNS ._.
+Since_IN our_PRP$ algorithm_NN is_VBZ targeted_VBN at_IN the_DT general_JJ IC_NN model_NN with_IN nonuniform_NNS prop_VBP

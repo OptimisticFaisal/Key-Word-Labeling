@@ -1,0 +1,7 @@
+S_NN -LRB-_-LRB- shoes_NNS -RRB-_-RRB- -RRB-_-RRB- =_JJ 0.1_CD %_NN ._.
+While_IN a_DT single_JJ minsup_NN is_VBZ inadequate_JJ for_IN applications_NNS ,_, we_PRP also_RB realize_VBP that_IN there_EX are_VBP deficiencies_NNS with_IN minconf_NN of_IN the_DT existing_VBG model_NN ._.
+However_RB ,_, it_PRP is_VBZ not_RB the_DT focus_NN of_IN this_DT paper_NN ._.
+See_VB =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: for_IN details_NNS ._.
+Below_NNP ,_, we_PRP only_RB present_VBP the_DT algorithm_NN for_IN mining_NN large_JJ itemsets_NNS with_IN multiple_JJ minimum_JJ item_NN supports_VBZ ._.
+3_LS ._.
+Mining_NN Large_JJ Itemsets_NNS with_IN Multiple_JJ MISs_NNS 3.1_CD Downward_JJ closure_NN property_NN As_IN mentioned_VBN

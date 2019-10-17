@@ -1,0 +1,4 @@
+ere_RB ,_, we_PRP are_VBP concerned_VBN with_IN the_DT problem_NN of_IN nonredundant_JJ pattern_NN generation_NN ._.
+We_PRP describe_VBP our_PRP$ tree_NN representation_NN and_CC candidate_NN generation_NN procedure_NN below_IN ._.
+Representing_VBG Trees_NNP as_IN Strings_NNP ._.
+As_IN described_VBN in_IN =_JJ -_: =[_NN 40_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP represent_VBP a_DT tree_NN T_NN by_IN its_PRP$ string_NN encoding_NN ,_, denoted_VBN T_NN ,_, generated_VBN as_IN follows_VBZ :_: Add_VB vertex_NN labels_NNS to_TO T_NN in_IN a_DT depthfirst_JJ preorder_NN traversal_NN of_IN T_NN and_CC add_VB a_DT unique_JJ symbol_NN 1_CD =_JJ 2_CD L_NN whenever_WRB we_PRP backtrack_VBP fr_IN

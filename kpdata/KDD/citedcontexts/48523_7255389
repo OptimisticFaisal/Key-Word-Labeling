@@ -1,0 +1,4 @@
+large_JJ weights_NNS for_IN the_DT misclassification_NN data_NNS ._.
+To_TO boost_VB a_DT ``_`` base_NN learner_NN ''_'' -LRB-_-LRB- or_CC ``_`` weak_JJ learner_NN ''_'' -RRB-_-RRB- to_TO deal_VB with_IN the_DT partially_RB labeled_VBN data_NNS ,_, the_DT margin_NN of_IN unlabeled_JJ data_NNS should_MD be_VB defined_VBN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Bennet_NNP et_FW al._FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: introduced_VBN ``_`` pseudo-classes_NNS ''_'' of_IN unlabeled_JJ points_NNS ._.
+Their_PRP$ method_NN ,_, ASSEMBLE_NN -LRB-_-LRB- Adaptive_JJ Semi-Supervised_JJ ensEMBLE_NN -RRB-_-RRB- method_NN ,_, has_VBZ two_CD advantages_NNS that_IN the_DT ``_`` base_NN learner_NN ''_'' can_MD be_VB any_DT supervised_JJ classifier_NN and_CC the_DT

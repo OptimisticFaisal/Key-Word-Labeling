@@ -1,0 +1,4 @@
+input_NN ._.
+The_DT cost_NN of_IN circuit_NN evaluation_NN for_IN large_JJ inputs_NNS has_VBZ resulted_VBN in_IN several_JJ algorithms_NNS for_IN more_RBR efficiently_RB computing_VBG specific_JJ functionalities_NNS ._.
+Examples_NNS include_VBP secure_JJ summation_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- ,_, scalar_JJ product_NN =_JJ -_: =[_NN 6_CD ,_, 18_CD ,_, 31_CD -RRB-_-RRB- -_: =_JJ -_: ,_, matrix_NN operations_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, secure_JJ set_NN union_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, private_JJ permutation_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, and_CC computing_NN entropy_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+This_DT paper_NN adds_VBZ a_DT new_JJ operation_NN to_TO this_DT toolkit_NN that_WDT is_VBZ particularly_RB useful_JJ for_IN operations_NNS on_IN vertica_NN

@@ -1,0 +1,4 @@
+frequent_JJ patterns_NNS ._.
+Definition_NN 9_CD -LRB-_-LRB- Jaccard_NNP Distance_NNP -RRB-_-RRB- :_: Let_VB pα_NN and_CC pβ_NN as_IN two_CD frequent_JJ patterns_NNS ._.
+The_DT Jaccard_NNP Distance_NNP between_IN pα_NN and_CC pβ_NN is_VBZ computed_VBN as_IN :_: D_NN -LRB-_-LRB- pα_NN ,_, pβ_NN -RRB-_-RRB- =_JJ 1_CD −_FW |_FW Dα_FW ∩_FW Dβ_FW |_FW |_FW Dα_FW ∪_FW Dβ_FW |_FW Jaccard_NNP Distance_NNP =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ commonly_RB applied_VBN to_TO cluster_VB data_NNS based_VBN on_IN their_PRP$ co-occurrence_NN in_IN transactions_NNS ._.
+Our_PRP$ need_NN is_VBZ to_TO group_VB the_DT patterns_NNS that_WDT tend_VBP to_TO appear_VB in_IN the_DT same_JJ transactions_NNS ,_, which_WDT is_VBZ well_RB captured_VBN by_IN Jaccard_NNP Dis_NNP

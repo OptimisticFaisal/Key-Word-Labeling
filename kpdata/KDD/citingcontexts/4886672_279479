@@ -1,0 +1,5 @@
+of_IN eBay_NNP 's_POS system_NN is_VBZ that_IN each_DT transaction_NN is_VBZ described_VBN by_IN just_RB six_CD features_NNS ._.
+This_DT is_VBZ mainly_RB because_IN the_DT system_NN centralizes_VBZ the_DT data_NNS and_CC processes_NNS it_PRP on-the-fly_JJ ._.
+2.2_CD Outlier_NNP Detection_NN Hodge_NNP and_CC Austin_NNP =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: define_VB an_DT outlier_NN point_NN as_IN ``_`` ..._: one_CD that_WDT appears_VBZ to_TO deviate_VB markedly_RB from_IN other_JJ members_NNS of_IN the_DT sample_NN in_IN which_WDT it_PRP occurs_VBZ ._. ''_''
+Of_IN course_NN ,_, this_DT definition_NN leaves_VBZ a_DT lot_NN to_TO interpretation_NN ._.
+This_DT is_VBZ not_RB acc_NN

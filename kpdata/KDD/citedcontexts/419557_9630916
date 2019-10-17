@@ -1,0 +1,3 @@
+ctionaries_NNS of_IN known_JJ entities_NNS ._.
+This_DT approach_NN has_VBZ been_VBN shown_VBN to_TO substantially_RB improve_VB the_DT extraction_NN performance_NN over_IN traditional_JJ NER_NN systems_NNS due_JJ to_TO the_DT extra_JJ domain_NN knowledge_NN encoded_VBN in_IN the_DT dictionary_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Since_IN entities_NNS in_IN the_DT dictionary_NN are_VBP represented_VBN as_IN strings_NNS ,_, the_DT dictionary-based_JJ named_VBN entity_NN extraction_NN problem_NN can_MD be_VB modeled_VBN as_IN an_DT approximate_JJ dictionary_NN matching_NN problem_NN ,_, that_DT is_VBZ ,_, given_VBN a_DT dicti_NN

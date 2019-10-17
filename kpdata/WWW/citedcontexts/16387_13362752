@@ -1,0 +1,4 @@
+cation_NN of_IN new_JJ services_NNS and_CC service_NN matching_NN ._.
+4.2.1_CD Service_NNP Discovery_NNP Existing_VBG service_NN matching_NN algorithms_NNS usually_RB perform_VBP a_DT pair-wise_JJ comparison_NN between_IN a_DT service_NN request_NN and_CC all_DT registered_VBN services_NNS -LRB-_-LRB- =_JJ -_: =_JJ Li_NNP and_CC Horrocks_NNP 2004_CD -_: =_JJ -_: ;_: Paolucci_NNP et_FW al._FW 2002_CD -RRB-_-RRB- ._.
+A_DT match_NN between_IN a_DT request_NN and_CC a_DT service_NN must_MD involve_VB semantic_JJ matching_NN of_IN the_DT request_NN concept_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- and_CC the_DT service_NN concept_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- ._.
+For_IN discovery_NN of_IN CAD\/GIS_NN web_NN services_NNS ,_, a_DT service_NN m_NN

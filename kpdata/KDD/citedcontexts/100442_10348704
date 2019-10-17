@@ -1,0 +1,4 @@
+dentify_VB ``_`` normal_JJ ''_'' system_NN call_NN sequences_NNS for_IN a_DT certain_JJ application_NN ._.
+These_DT application-specific_JJ profiles_NNS are_VBP then_RB used_VBN to_TO identifyattacks_NNS that_WDT produce_VBP previouslyunseen_NN sequences_NNS ._.
+As_IN another_DT example_NN ,_, in_IN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: the_DT authors_NNS use_VBP statistical_JJ analysis_NN of_IN network_NN traffic_NN to_TO learn_VB the_DT normal_JJ behavior_NN of_IN network-based_JJ applications_NNS ._.
+This_DT is_VBZ done_VBN byanalyzing_VBG both_CC packet_NN header_NN information_NN -LRB-_-LRB- e.g._FW ,_, source\/destination_NN p_NN

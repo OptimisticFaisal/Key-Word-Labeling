@@ -1,0 +1,4 @@
+experimental_JJ results_NNS in_IN using_VBG the_DT random_JJ mapping_NN in_IN the_DT context_NN of_IN the_DT WEBSOM_NN 1_CD system_NN ._.
+Kurimo_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- applies_VBZ random_JJ projection_NN to_TO the_DT indexing_NN of_IN audio_JJ documents_NNS ,_, prior_RB to_TO using_VBG LSI_NNP and_CC SOM_NNP ._.
+Kleinberg_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Indyk_NNP and_CC Motwani_NNP -LRB-_-LRB- 14_CD -RRB-_-RRB- use_VBP random_JJ projections_NNS in_IN nearest-neighbor_JJ search_NN in_IN a_DT high_JJ dimensional_JJ Euclidean_JJ space_NN ,_, and_CC also_RB present_JJ theoretical_JJ insights_NNS ._.
+Dasgupta_NN -LRB-_-LRB- 6_CD ,_, 7_CD -RRB-_-RRB- has_VBZ used_VBN random_JJ projections_NNS

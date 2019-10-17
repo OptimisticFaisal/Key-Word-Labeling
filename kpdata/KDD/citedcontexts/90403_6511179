@@ -1,0 +1,4 @@
+n_NN tree_NN classifier_NN C5_NN .0_NN ._.
+1_CD Introduction_NN The_DT recently_RB proposed_VBN classification_NN model_NN CAEP_NN ,_, 1_CD namely_RB Classification_NN by_IN Aggregating_VBG Emerging_JJ Patterns_NN -LRB-_-LRB- 2_CD ,_, 9_CD -RRB-_-RRB- ,_, builds_VBZ classifiers_NNS from_IN Emerging_VBG Patterns_NN -LRB-_-LRB- EPs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+EPs_NNS mined_VBN from_IN the_DT training_NN data_NNS of_IN a_DT class_NN are_VBP distinguishing_VBG features_NNS of_IN the_DT class_NN ._.
+Functions_NNS have_VBP been_VBN proposed_VBN to_TO measure_VB the_DT aggregate_JJ contribution_NN of_IN EPs_NNS that_WDT appear_VBP in_IN a_DT test_NN instance_NN t_NN ,_, resu_NN

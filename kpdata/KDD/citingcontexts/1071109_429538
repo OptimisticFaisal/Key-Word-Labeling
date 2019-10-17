@@ -1,0 +1,6 @@
+h_NN mining_NN problem_NN ∗_CD The_DT work_NN was_VBD supported_VBN in_IN part_NN by_IN the_DT U.S._NNP National_NNP Science_NNP Foundation_NNP under_IN grants_NNS IIS-02-09199_NN \/_: IIS-03-08215_NN ,_, an_DT IBM_NNP Faculty_NNP Award_NN ,_, and_CC a_DT USC_NNP Faculty_NNP Start_NNP Up_IN Fund_NNP ._.
+xjzhou@usc.edu_NN =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+First_RB ,_, in_IN relational_JJ graphs_NNS each_DT node_NN represents_VBZ a_DT distinct_JJ object_NN ._.
+No_DT two_CD nodes_NNS share_VBP the_DT same_JJ label_NN ._.
+In_IN biological_JJ networks_NNS ,_, nodes_NNS often_RB represent_VBP unique_JJ objects_NNS like_IN genes_NNS and_CC enzymes_NNS ._.
+Second_JJ ,_, re_VB

@@ -1,0 +1,4 @@
+tleneck_NN ._.
+4.2_CD Off-the-shelf_JJ Methods_NNS Since_IN our_PRP$ architecture_NN is_VBZ modular_JJ -LRB-_-LRB- see_VB figure_NN 2_CD -RRB-_-RRB- ,_, we_PRP show_VBP as_IN a_DT proof_NN of_IN concept_NN that_IN it_PRP can_MD deal_VB with_IN different_JJ types_NNS of_IN solvers_NNS ,_, such_JJ as_IN an_DT implementation_NN of_IN LBFGS_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: from_IN TAO_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+There_EX are_VBP two_CD additional_JJ requirements_NNS :_: First_JJ ,_, weneed_JJ to_TO provide_VB a_DT subdifferential_NN and_CC value_NN of_IN the_DT regularizer_NN Ω_NN -LRB-_-LRB- w_NN -RRB-_-RRB- ._.
+This_DT is_VBZ easily_RB achieved_VBN via_IN 1_CD ∂_CD w_NN ‖_NNP w_NNP ‖_NNP 2_CD 2_CD 2_CD =_JJ w_NN and_CC ∂_FW w_FW ‖_FW w_FW ‖_FW 1_CD ∋_CD sgn_NN w._NN

@@ -1,0 +1,4 @@
+n_NN for_IN an_DT ad-hoc_JJ query_NN tool_NN in_IN this_DT domain_NN ._.
+Anomaly_NNP detection_NN has_VBZ been_VBN studied_VBN extensively_RB in_IN operating_NN systems_NNS -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 36_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 37_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 48_CD -RRB-_-RRB- ,_, networks_NNS -LRB-_-LRB- e.g._FW ,_, see_VBP recent_JJ survey_NN -LRB-_-LRB- 43_CD -RRB-_-RRB- -RRB-_-RRB- ,_, and_CC for_IN detecting_VBG fraud_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ distinct_JJ from_IN signature-based_JJ intrusion_NN detection_NN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 4_CD -RRB-_-RRB- -RRB-_-RRB- which_WDT detects_VBZ pre-defined_JJ patterns_NNS of_IN abnormal_JJ behavior_NN ._.
+Recent_JJ work_NN has_VBZ begun_VBN to_TO consider_VB applying_VBG anomaly_RB detection_NN to_TO dat_VB

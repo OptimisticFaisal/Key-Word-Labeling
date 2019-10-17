@@ -1,0 +1,4 @@
+el_NN and_CC noisy_JJ attribute_NN detection_NN based_VBN on_IN classification_NN rules_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- ;_: another_DT application_NN study_NN is_VBZ learning_VBG from_IN both_CC labeled_JJ and_CC unlabeled_JJ data_NNS by_IN assigning_VBG pseudo-classes_NNS for_IN the_DT unlabeled_JJ data_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: using_VBG boosting_VBG ensembles_NNS ._.
+All_PDT this_DT previous_JJ work_NN has_VBZ its_PRP$ own_JJ niche_NN concerning_VBG data_NNS quality_NN ._.
+Our_PRP$ work_NN is_VBZ more_RBR general_JJ in_IN that_IN it_PRP exploits_VBZ local_JJ data_NNS constraints_NNS using_VBG Markov_NNP networks_NNS ._.
+..._: ..._: ..._: sA_NN pi_NN

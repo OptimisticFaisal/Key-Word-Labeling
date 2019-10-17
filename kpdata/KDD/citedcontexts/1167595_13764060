@@ -1,0 +1,5 @@
+vercome_VB the_DT limitations_NNS ._.
+Section_NN 8_CD summarizes_VBZ key_JJ conclusions_NNS of_IN this_DT work_NN ._.
+2_CD ._.
+RELATED_NNS WORK_VBP Some_DT recent_JJ network_NN anomaly_NN detectors_NNS provide_VBP methods_NNS to_TO calculate_VB thresholds_NNS for_IN their_PRP$ specific_JJ algorithms_NNS =_JJ -_: =[_NN 10_CD ,_, 12_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, most_JJS of_IN these_DT studies_NNS do_VBP not_RB cater_VB for_IN the_DT Table_NNP 4_CD :_: UNM_NNP Intrusion_NNP Instances_NNPS sscp_FW decode_FW forwarding_NN loops_NNS 3_CD 2_CD 5_CD Table_NNP 5_CD :_: MIT-LL_NN Intrusion_NN Instances_NNS httptunnel_NN land_NN ps_FW eject_FW ftp-write_JJ secret_NN

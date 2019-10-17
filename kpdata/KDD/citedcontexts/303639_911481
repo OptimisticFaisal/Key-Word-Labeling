@@ -1,0 +1,4 @@
+restriction_NN of_IN fuzzy_JJ classifications_NNS obtains_VBZ worse_JJR results_NNS than_IN an_DT overlapping_VBG clustering_NN model_NN ._.
+Finally_RB ,_, a_DT -LRB-_-LRB- first_JJ -RRB-_-RRB- recent_JJ Model_NNP for_IN Overlapping_NNP Clustering_NNP -LRB-_-LRB- MOC_NNP -RRB-_-RRB- has_VBZ been_VBN proposed_VBN by_IN Banerjee_NNP et_FW al._FW =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP can_MD be_VB considered_VBN has_VBZ a_DT generalization_NN of_IN the_DT EM_NNP algorithm_NN ._.
+The_DT main_JJ drawback_NN for_IN this_DT kind_NN of_IN model-based_JJ approach_NN is_VBZ the_DT multiple_JJ parameters_NNS to_TO estimate_NN -LRB-_-LRB- three_CD matrices_NNS in_IN MOC_NN -RRB-_-RRB- ,_, making_VBG difficul_JJ

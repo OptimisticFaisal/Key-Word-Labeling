@@ -1,0 +1,3 @@
+he_PRP NCP_NNP is_VBZ intractable_JJ to_TO compute_VB exactly_RB ,_, approximation_NN algorithms_NNS for_IN graph_NN partitioning_NN can_MD be_VB used_VBN to_TO approximate_JJ it_PRP -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+The_DT NCP_NN behaves_VBZ in_IN a_DT characteristic_JJ downward-sloping_JJ manner_NN -LRB-_-LRB- Fig._NN 2_CD -LRB-_-LRB- a_DT -RRB-_-RRB- and_CC =_JJ -_: =[_NN 8_CD ,_, 7_CD -RRB-_-RRB- -_: =--RRB-_NN for_IN mesh-like_JJ graphs_NNS ,_, e.g._FW ,_, low-dimensional_JJ lattices_NNS ,_, road_NN networks_NNS ,_, and_CC random_JJ geometric_JJ graphs_NNS ._.
+The_DT NCP_NN is_VBZ also_RB downward-sloping_JJ for_IN networks_NNS with_IN hierarchical_JJ community_NN structure_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC for_IN smal_NN

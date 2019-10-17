@@ -1,0 +1,5 @@
+e_LS full_JJ population_NN ,_, especially_RB in_IN a_DT highdimensional_JJ space_NN ._.
+Therefore_RB ,_, it_PRP is_VBZ not_RB proper_JJ to_TO search_VB for_IN an_DT optimal_JJ subset_NN from_IN the_DT training_NN data_NNS as_IN over-searching_NN the_DT training_NN data_NNS can_MD cause_VB over-fitting_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP next_RB present_VBP our_PRP$ method_NN ._.
+4_LS ._.
+AN_DT APPROXIMATION_NNP METHOD_NN In_IN this_DT section_NN ,_, we_PRP first_RB introduce_VB our_PRP$ choice_NN of_IN correlation_NN measure_NN for_IN gene_NN selection_NN ,_, and_CC then_RB describe_VB our_PRP$ approximation_NN method_NN based_VBN on_IN t_NN

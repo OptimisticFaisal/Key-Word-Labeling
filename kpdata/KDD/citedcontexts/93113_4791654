@@ -1,0 +1,5 @@
+temsets_NNS that_WDT facilitate_VBP pruning_NN can_MD be_VB found_VBN early_RB ._.
+We_PRP have_VBP already_RB seen_VBN how_WRB FP_NN --_: growth_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- can_MD be_VB adapted_VBN to_TO a_DT Growth_NNP subspace_NN mining_NN algorithm_NN ._.
+In_IN this_DT paragraph_NN ,_, we_PRP discuss_VBP the_DT adaptation_NN of_IN dEclat_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, another_DT DFS_NN mining_NN algorithm_NN for_IN this_DT problem_NN ._.
+In_IN data_NN mining_NN problems_NNS ,_, there_EX are_VBP two_CD representations_NNS for_IN itemsets_NNS ._.
+The_DT first_JJ format_NN -LRB-_-LRB- used_VBN by_IN Apriori_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC FP_NN --_: growth_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- -RRB-_-RRB- represents_VBZ itemsets_NNS by_IN ro_NN

@@ -1,0 +1,4 @@
+representing_VBG an_DT empty_JJ set_NN of_IN input_NN attributes_NNS ._.
+The_DT input_NN attributes_NNS are_VBP selected_VBN incrementally_RB to_TO maximize_VB a_DT global_JJ decrease_NN in_IN the_DT conditional_JJ entropy_NN of_IN the_DT target_NN attribute_NN ._.
+Unlike_IN CART_NN ™_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, C4_NN .5_NN =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC EODG_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, the_DT IFN_NN algorithm_NN is_VBZ based_VBN on_IN the_DT prepruning_JJ approach_NN :_: when_WRB no_DT attribute_NN causes_VBZ a_DT statistically_RB significant_JJ decrease_NN in_IN the_DT entropy_NN ,_, the_DT network_NN construction_NN is_VBZ stopped_VBN ._.
+In_IN this_DT paper_NN

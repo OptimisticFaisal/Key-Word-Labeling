@@ -1,0 +1,4 @@
+nt_NN Itemset_NN Mining_NN -LRB-_-LRB- FIM_NN -RRB-_-RRB- is_VBZ mainly_RB based_VBN on_IN minimum_JJ support_NN value_NN ,_, which_WDT finds_VBZ all_DT itemsets_NNS with_IN supports_NNS no_RB less_JJR than_IN a_DT user-specified_JJ minimum_JJ support_NN threshold_NN ._.
+Several_JJ algorithms_NNS have_VBP been_VBN proposed_VBN =_JJ -_: =[_NN 7_CD ,_, 8_CD ,_, 9_CD ,_, 11_CD ,_, 12_CD ,_, 16_CD ,_, 19_CD ,_, 20_CD ,_, 22_CD ,_, 23_CD ,_, 24_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: in_IN this_DT area_NN ._.
+Apriori_NNS like_IN algorithms_NNS performs_VBZ more_JJR number_NN of_IN scans_NNS and_CC generates_VBZ huge_JJ number_NN of_IN candidate_NN keys_NNS ._.
+To_TO find_VB the_DT frequent_JJ K-itemset_NN ,_, it_PRP is_VBZ necessary_JJ to_TO start_VB the_DT algorithm_NN from_IN frequent_JJ 1_CD

@@ -1,0 +1,4 @@
+ed_VBN records_NNS are_VBP fed_VBN into_IN the_DT expert_NN system_NN engine_NN ,_, implemented_VBN using_VBG the_DT Java_NNP Expert_NNP System_NNP Shell_NNP -LRB-_-LRB- JESS_NNP -RRB-_-RRB- -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+The_DT pattern_NN matching_NN and_CC rule_NN activation_NN mechanisms_NNS of_IN JESS_NNP make_VBP use_NN of_IN the_DT Rete_NNP algorithm_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO avoid_VB pairwise_JJ comparison_NN for_IN each_DT and_CC every_DT record_NN in_IN the_DT database_NN -LRB-_-LRB- which_WDT may_MD be_VB infeasible_JJ in_IN large_JJ databases_NNS -RRB-_-RRB- ,_, we_PRP employ_VBP the_DT SNM_NNP ._.
+Hence_RB ,_, the_DT rules_NNS will_MD only_RB act_VB on_IN one_CD window_NN of_IN records_NNS in_IN the_DT

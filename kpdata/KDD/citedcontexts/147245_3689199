@@ -1,0 +1,6 @@
+work_NN for_IN stream_NN mining_NN ._.
+Guha_NNP et_FW al._FW -LRB-_-LRB- 23_CD -RRB-_-RRB- propose_VBP a_DT one-pass_JJ k-median_NN clustering_NN algorithm_NN ._.
+Domingos_NNP and_CC Hulten_NNP -LRB-_-LRB- 17_CD -RRB-_-RRB- construct_NN 699_CD a_DT decision_NN tree_NN online_NN ,_, by_IN passing_VBG over_IN the_DT data_NNS only_RB once_RB ._.
+Recently_RB ,_, =_JJ -_: =[_NN 25_CD ,_, 36_CD -RRB-_-RRB- -_: =_SYM -_: address_VB the_DT problem_NN of_IN finding_VBG patterns_NNS over_IN concept_NN drifting_VBG streams_NNS ._.
+Papadimitriou_NNP et_FW al._FW -LRB-_-LRB- 32_CD -RRB-_-RRB- proposed_VBD a_DT method_NN to_TO find_VB patterns_NNS in_IN a_DT single_JJ stream_NN ,_, using_VBG wavelets_NNS ._.
+More_RBR recently_RB ,_, Palpanas_FW et_FW al._FW ._.

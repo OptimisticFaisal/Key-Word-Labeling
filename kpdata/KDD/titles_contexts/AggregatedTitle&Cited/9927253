@@ -1,0 +1,17 @@
+Spatial-temporal_JJ causal_JJ modeling_NN for_IN climate_NN change_NN attribution_NN
+t_NN of_IN Figure_NNP 5_CD ._.
+Kernel_NNP Weighted_NNP Nonparanormal_NNP is_VBZ still_RB superior_JJ to_TO other_JJ methods_NNS ._.
+For_IN other_JJ time_NN ,_, the_DT ROC_NNP curves_NNS exhibit_VBP similar_JJ patterns_NNS ._.
+Climate_NN Data_NN We_PRP run_VBP our_PRP$ proposed_VBN method_NN on_IN a_DT climate_NN dataset_NN -LRB-_-LRB- =_JJ -_: =_JJ Lozano_NNP et_FW al._FW 2009_CD -_: =--RRB-_NN ,_, which_WDT contains_VBZ monthly_JJ data_NNS of_IN 18_CD different1_NN 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD F1_NN −_NN Score_NN 1.5_CD 1_CD 0.5_CD 0_CD Normal_JJ Nonparanormal_NNP Kernel_NNP Weighted_NNP Normal_JJ Kernel_NNP Weighted_NNP Nonparanormal_NNP Time_NNP St_NNP
+he_PRP re-scaled_VBD partition_NN pattern_NN induced_VBN by_IN the_DT learned_VBN dyadic_JJ tree_NN structure_NN ._.
+5.2_CD Climate_NN Data_NNP Analysis_NNP In_IN this_DT section_NN ,_, we_PRP apply_VBP Go-CART_NN on_IN a_DT meteorology_NN dataset_NN collected_VBN in_IN a_DT similar_JJ approach_NN as_IN in_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT data_NN contains_VBZ monthly_JJ observations_NNS of_IN 15_CD different_JJ meteorological_JJ factors_NNS from_IN 1990_CD to_TO 2002_CD ._.
+We_PRP use_VBP the_DT data_NNS from_IN 1990_CD to_TO 1995_CD as_IN the_DT training_NN data_NNS and_CC data_NNS from_IN 1996_CD to_TO 2002_CD as_IN the_DT held-out_JJ val_NN
+t_NN of_IN Figure_NNP 5_CD ._.
+Kernel_NNP Weighted_NNP Nonparanormal_NNP is_VBZ still_RB superior_JJ to_TO other_JJ methods_NNS ._.
+For_IN other_JJ time_NN ,_, the_DT ROC_NNP curves_NNS exhibit_VBP similar_JJ patterns_NNS ._.
+Climate_NN Data_NN We_PRP run_VBP our_PRP$ proposed_VBN method_NN on_IN a_DT climate_NN dataset_NN -LRB-_-LRB- =_JJ -_: =_JJ Lozano_NNP et_FW al._FW 2009_CD -_: =--RRB-_NN ,_, which_WDT contains_VBZ monthly_JJ data_NNS of_IN 18_CD different_JJ climatological_JJ factors_NNS from_IN 1999_CD to_TO 2002_CD ._.
+The_DT observations_NNS span_VBP 125_CD locations_NNS in_IN the_DT U.S._NNP on_IN an_DT equally_RB spaced_VBN grid_NN with_IN the_DT range_NN of_IN latitude_NN from_IN 30.47_CD
+the_DT underlying_JJ partition_NN is_VBZ dyadic_JJ or_CC not_RB ,_, the_DT proposed_JJ greedy_JJ algorithm_NN has_VBZ very_RB good_JJ recovery_NN ability_NN in_IN both_CC precision_NN and_CC recall_NN ._.
+As_IN a_DT real_JJ application_NN ,_, we_PRP apply_VBP Go-CART_NN on_IN a_DT meteorology_NN dataset_NN =_JJ -_: =[_NN 42_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT contains_VBZ monthly_JJ data_NNS of_IN 18_CD different_JJ meteorological_JJ factors_NNS from_IN 1990_CD to_TO 2002_CD ._.
+We_PRP use_VBP the_DT data_NNS from_IN 1990_CD to_TO 1995_CD as_IN the_DT training_NN data_NNS and_CC data_NNS from_IN 1996_CD to_TO 2002_CD as_IN the_DT held-out_JJ validation_NN dat_NN

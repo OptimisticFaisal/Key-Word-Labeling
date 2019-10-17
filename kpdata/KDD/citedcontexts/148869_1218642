@@ -1,0 +1,5 @@
+nt_NN itemsets_NNS ._.
+Note_VB that_IN the_DT data_NNS mining_NN process_NN may_MD produce_VB thousands_NNS of_IN rules_NNS ,_, many_JJ of_IN which_WDT are_VBP uninteresting_JJ to_TO users_NNS ._.
+Hence_RB ,_, several_JJ applications_NNS have_VBP called_VBN for_IN the_DT use_NN of_IN constrained_VBN rule_NN mining_NN =_JJ -_: =[_NN 4_CD ,_, 12_CD ,_, 13_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Specifically_RB ,_, in_IN constraint-based_JJ mining_NN ,_, which_WDT is_VBZ performed_VBN under_IN the_DT guidance_NN of_IN various_JJ of_IN constraints_NNS provided_VBN by_IN the_DT user_NN ._.
+The_DT constraints_NNS addressed_VBN in_IN the_DT prior_JJ works_NNS include_VBP the_DT following_NN :_: -LRB-_-LRB- 1_CD

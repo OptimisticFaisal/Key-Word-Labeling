@@ -1,0 +1,4 @@
+larities_NNS between_IN nodes_NNS of_IN the_DT same_JJ graph_NN ._.
+Finally_RB ,_, a_DT similarity_NN between_IN nodes_NNS based_VBN on_IN the_DT number_NN of_IN different_JJ paths_NNS connecting_VBG two_CD nodes_NNS ,_, and_CC therefore_RB on_IN the_DT maximum_NN flow\/minimum_NN cut_NN ,_, is_VBZ studied_VBN in_IN =_JJ -_: =[_NN 38_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT measure_NN has_VBZ been_VBN tested_VBN in_IN two_CD collaborative_JJ recommendation_NN tasks_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, but_CC did_VBD not_RB perform_VB well_RB in_IN this_DT context_NN ._.
+Finally_RB ,_, Tahbaz-Salehi_NNP &_CC Jadbabaie_NNP -LRB-_-LRB- 60_CD -RRB-_-RRB- introduce_VB a_DT oneparameter_NN family_NN of_IN algo_NN

@@ -1,0 +1,3 @@
+significant_JJ probability_NN of_IN being_VBG incorrect_JJ ._.
+However_RB ,_, previous_JJ work_NN has_VBZ shown_VBN that_IN if_IN the_DT difference_NN in_IN relevance_NN between_IN documents_NNS is_VBZ larger_JJR ,_, relative_JJ relevance_NN judgments_NNS are_VBP less_RBR likely_JJ to_TO be_VB noisy_JJ =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT work_NN also_RB showed_VBD that_IN if_IN adjacent_JJ pairs_NNS of_IN documents_NNS in_IN the_DT ranking_NN shown_VBN to_TO users_NNS are_VBP randomly_RB swapped_VBN to_TO compensate_VB for_IN presentation_NN bias_NN ,_, provably_RB reliable_JJ pairwise_JJ relevance_NN judgments_NNS about_IN

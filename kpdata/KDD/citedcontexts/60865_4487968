@@ -1,0 +1,6 @@
+ination_NN of_IN ranking_JJ experts_NNS ._.
+Diez_NNP et_NNP ._.
+al._FW -LRB-_-LRB- 6_CD -RRB-_-RRB- use_VBP self-organizing_JJ maps_NNS to_TO learn_VB a_DT ranking_JJ function_NN ._.
+Their_PRP$ methods_NNS are_VBP able_JJ to_TO learn_VB both_CC linear_JJ and_CC non-linear_JJ functions_NNS that_IN use_NN thresholding_NN ._.
+Joachims_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: learns_VBZ the_DT relevant_JJ objects_NNS for_IN a_DT search_NN query_NN and_CC their_PRP$ importance_NN by_IN using_VBG the_DT order_NN in_IN which_WDT a_DT user_NN clicks_VBZ on_IN the_DT objects_NNS ._.
+This_DT information_NN is_VBZ then_RB fed_VBN to_TO a_DT learning_NN method_NN to_TO learn_VB the_DT best_JJS aggre_NN

@@ -1,0 +1,4 @@
+t_NN where_WRB items_NNS occur_VBP in_IN transactions_NNS independently_RB ._.
+This_DT ratio_NN provides_VBZ an_DT empirical_JJ measure_NN of_IN the_DT correlation_NN among_IN the_DT items_NNS of_IN X_NN that_IN ,_, according_VBG to_TO -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, is_VBZ more_RBR effective_JJ than_IN absolute_JJ support_NN ._.
+In_IN =_JJ -_: =[_NN 7,8,21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT significance_NN of_IN an_DT itemset_NN is_VBZ measured_VBN as_IN the_DT ratio_NN R_NN between_IN its_PRP$ actual_JJ support_NN and_CC its_PRP$ expected_JJ support_NN in_IN a_DT random_JJ dataset_NN ._.
+In_IN order_NN to_TO make_VB this_DT measure_NN more_RBR accurate_JJ for_IN small_JJ supports_NNS ,_, -LRB-_-LRB- 7_CD ,_,

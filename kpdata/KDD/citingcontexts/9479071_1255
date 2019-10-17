@@ -1,0 +1,3 @@
+search_NN in_IN active_JJ learning_NN ._.
+For_IN example_NN ,_, -LRB-_-LRB- 32_CD -RRB-_-RRB- select_JJ queries_NNS to_TO minimize_VB the_DT version_NN space_NN size_NN for_IN support_NN vector_NN machines_NNS ;_: -LRB-_-LRB- 12_CD -RRB-_-RRB- minimize_VBP the_DT variance_NN component_NN of_IN the_DT estimated_VBN generalization_NN error_NN ;_: =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: employ_VB a_DT committee_NN of_IN classifiers_NNS ,_, and_CC query_VB a_DT point_NN whenever_WRB the_DT committee_NN members_NNS disagree_VBP ._.
+Most_JJS of_IN the_DT active_JJ learning_NN methods_NNS do_VBP not_RB take_VB further_JJ advantage_NN of_IN the_DT large_JJ amount_NN of_IN unlabeled_JJ data_NNS o_NN

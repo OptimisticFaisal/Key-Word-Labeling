@@ -1,0 +1,6 @@
+the_DT extent_NN ._.
+TCMM_NN also_RB uses_VBZ the_DT extent_NN in_IN its_PRP$ micro-cluster_NN ,_, but_CC the_DT definition_NN has_VBZ been_VBN changed_VBN to_TO accommodate_VB trajectories_NNS ._.
+Trajectory_JJ clustering_NN has_VBZ been_VBN studied_VBN in_IN various_JJ contexts_NNS ._.
+Gaffney_NNP et_FW al._FW =_SYM -_: =[_NN 9_CD ,_, 4_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ several_JJ algorithms_NNS for_IN model-based_JJ trajectory_NN clustering_NN ._.
+TRACLUS_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- is_VBZ a_DT trajectory_JJ clustering_NN algorithm_NN which_WDT performs_VBZ density-based_JJ clustering_NN over_IN the_DT entire_JJ set_NN of_IN sub-trajectories_NNS ._.
+H_NN

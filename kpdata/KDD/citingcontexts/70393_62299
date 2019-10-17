@@ -1,0 +1,6 @@
+on_IN techniques_NNS ._.
+There_EX are_VBP several_JJ multivariate-data_JJ visualization_NN techniques_NNS ._.
+These_DT methods_NNS can_MD be_VB categorized_VBN into_IN geometric_JJ ,_, icon-based_JJ ,_, hierarchical_JJ ,_, and_CC pixel-oriented_JJ techniques_NNS ._.
+Keim_NNP and_CC Kriegel_NNP =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: provide_VBP a_DT short_JJ description_NN on_IN each_DT of_IN these_DT methods_NNS ._.
+Currently_RB in_IN Visual-FSSEM_NN ,_, we_PRP apply_VBP a_DT geometric_JJ visualization_NN technique_NN ._.
+To_TO display_VB the_DT data_NNS and_CC clusters_NNS ,_, we_PRP project_VBP the_DT data_NNS to_TO 2-D_NN and_CC display_NN

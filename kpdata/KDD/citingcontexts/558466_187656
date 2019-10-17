@@ -1,0 +1,4 @@
+a_DT line-by-line_JJ fashion_NN ._.
+These_DT lines_NNS upon_IN which_WDT the_DT pixels_NNS are_VBP arranged_VBN are_VBP orthogonal_JJ to_TO the_DT segment_NN halving_NN lines_NNS ._.
+An_DT extension_NN of_IN this_DT technique_NN has_VBZ been_VBN applied_VBN in_IN the_DT context_NN of_IN cluster_NN analysis_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO map_VB each_DT attribute_NN value_NN of_IN D_NN to_TO a_DT unique_JJ pixel_NN ,_, we_PRP follow_VBP the_DT idea_NN of_IN the_DT Circle_NNP Segments_NNP technique_NN ,_, i.e._FW we_PRP represent_VBP all_DT values_NNS of_IN one_CD attribute_NN in_IN a_DT segment_NN of_IN a_DT circle_NN with_IN the_DT proposed_VBN arra_NN

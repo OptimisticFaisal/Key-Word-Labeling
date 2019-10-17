@@ -1,0 +1,3 @@
+addressed_VBN here_RB is_VBZ common_JJ enough_RB that_IN the_DT conclusions_NNS we_PRP draw_VBP should_MD be_VB relevant_JJ to_TO many_JJ researchers_NNS and_CC practitioners_NNS ._.
+2_CD Visualizing_VBG the_DT Problem_NNP This_NNP section_NN gives_VBZ a_DT brief_JJ introduction_NN to_TO cost_NN curves_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT way_NN to_TO visualize_VB classifier_NN performance_NN over_IN different_JJ misclassification_NN costs_NNS and_CC class_NN distributions_NNS ._.
+The_DT error_NN rate_NN of_IN a_DT binary_JJ classifier_NN is_VBZ a_DT convex_JJ combination_NN of_IN the_DT likelihood_NN functions_NNS P_NN

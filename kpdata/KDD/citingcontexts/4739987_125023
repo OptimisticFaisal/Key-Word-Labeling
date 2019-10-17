@@ -1,0 +1,3 @@
+sionally_RB could_MD not_RB fit_VB an_DT roc_NN curve_NN to_TO a_DT method_NN 's_POS ratings_NNS from_IN a_DT single_JJ fold_NN of_IN crossvalidation_NN -LRB-_-LRB- i.e._FW ,_, the_DT ratings_NNS were_VBD degenerate_JJ -RRB-_-RRB- ._.
+We_PRP also_RB considered_VBD producing_VBG roc_FW convex_FW hulls_NNS -LRB-_-LRB- 34_CD -RRB-_-RRB- and_CC cost_NN curves_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC determined_VBD that_IN traditional_JJ roc_NN analysis_NN was_VBD appropriate_JJ for_IN our_PRP$ results_NNS -LRB-_-LRB- e.g._FW ,_, the_DT curve_NN for_IN boosted_VBN j48_NN dominated_VBD all_DT other_JJ curves_NNS -RRB-_-RRB- ._.
+In_IN our_PRP$ study_NN ,_, there_EX was_VBD an_DT issue_NN of_IN high_JJ computational_JJ over_IN

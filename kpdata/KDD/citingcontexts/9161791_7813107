@@ -1,0 +1,5 @@
+e._NNP Summarization_NNP for_IN categorical_JJ databases_NNS :_: Data_NN summarization_NN has_VBZ been_VBN studied_VBN by_IN some_DT researchers_NNS in_IN recent_JJ years_NNS ._.
+Wang_NNP and_CC Karypis_NNP proposed_VBD to_TO summarize_VB categorical_JJ databases_NNS by_IN mining_NN summary_NN set_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Each_DT summary_NN set_NN contains_VBZ a_DT set_NN of_IN summary_NN itemsets_NNS ._.
+A_DT summary_NN itemset_NN is_VBZ the_DT longest_JJS frequent_JJ itemsets_NNS supported_VBN by_IN a_DT transaction_NN ._.
+This_DT approach_NN can_MD be_VB regarded_VBN as_IN a_DT special_JJ case_NN of_IN our_PRP$ summarizati_NNS

@@ -1,0 +1,4 @@
+er_RB ,_, they_PRP do_VBP not_RB reflect_VB the_DT mental_JJ model_NN of_IN the_DT content_NN author_NN ._.
+There_EX are_VBP two_CD general_JJ approaches_NNS used_VBN in_IN tag_NN suggestion_NN tools_NNS for_IN blog_NN posts_NNS ._.
+The_DT first_JJ extracts_NNS interesting_JJ terms_NNS from_IN the_DT post_NN itself_PRP =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT approach_NN is_VBZ useful_JJ for_IN post_NN clustering_NN ,_, but_CC often_RB author-assigned_JJ tags_NNS consist_VBP of_IN terms_NNS not_RB in_IN the_DT post_NN itself_PRP -LRB-_-LRB- e.g._FW the_DT date_NN of_IN creation_NN of_IN the_DT post_NN ,_, a_DT content_NN category_NN ,_, a_DT location_NN for_IN a_DT piece_NN

@@ -1,0 +1,6 @@
+butes_NNS are_VBP processed_VBN to_TO determine_VB the_DT most_RBS appropriate_JJ representation_NN ._.
+This_DT step_NN handles_VBZ outliers_NNS ,_, missing_VBG values_NNS ,_, and_CC encoding_NN ._.
+Continuous_JJ attributes_NNS are_VBP encoded_VBN by_IN thresholding_NN -LRB-_-LRB- a.k.a._NN discretizing_NN -RRB-_-RRB- =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: the_DT original_JJ values_NNS into_IN a_DT small_JJ number_NN of_IN value_NN ranges_NNS ._.
+For_IN categorical_JJ attributes_NNS ,_, encoding_NN merges_VBZ several_JJ values_NNS -LRB-_-LRB- categories_NNS -RRB-_-RRB- together_RB ._.
+This_DT grouping_NN is_VBZ similar_JJ to_TO a_DT subset_NN option_NN in_IN C4_NN .5_CD -LRB-_-LRB- 25_CD -RRB-_-RRB- ._.
+As_IN

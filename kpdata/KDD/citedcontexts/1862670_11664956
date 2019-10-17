@@ -1,0 +1,4 @@
+sequences_NNS by_IN considering_VBG the_DT most_RBS similar_JJ regions_NNS but_CC not_RB enforcing_VBG the_DT alignments_NNS on_IN full_JJ length_NN ._.
+2.3_CD Support_NN Vector_NNP Machine_NNP SVM_NNP has_VBZ been_VBN proved_VBN to_TO be_VB an_DT effective_JJ method_NN for_IN sequence_NN classification_NN =_JJ -_: =[_NN 43_CD ;_: 39_CD ;_: 35_CD ;_: 54_CD ;_: 55_CD ;_: 52_CD ;_: 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT basic_JJ idea_NN of_IN applying_VBG SVM_NN on_IN sequence_NN data_NNS is_VBZ to_TO map_VB a_DT sequence_NN into_IN a_DT feature_NN space_NN and_CC find_VB the_DT maximum-margin_JJ hyperplane_NN to_TO separate_VB two_CD classes_NNS ._.
+Sometimes_RB ,_, we_PRP do_VBP not_RB need_VB to_TO explicitly_RB cond_VB

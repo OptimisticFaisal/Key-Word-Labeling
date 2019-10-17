@@ -1,0 +1,5 @@
+ain_NN amount_NN of_IN supervision_NN significantly_RB improves_VBZ their_PRP$ accuracy_NN -LRB-_-LRB- eg_FW ._.
+-LRB-_-LRB- 16_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Pair-wise_JJ instance-level_JJ constraint_NN is_VBZ a_DT type_NN of_IN supervision_NN that_WDT has_VBZ been_VBN used_VBN widely_RB in_IN different_JJ clustering_NN applications_NNS =_JJ -_: =[_NN 16_CD ,_, 2_CD ,_, 4_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Since_IN labeling_NN is_VBZ expensive_JJ ,_, we_PRP propose_VBP to_TO actively_RB learn_VB these_DT pair-wise_JJ constraints_NNS instead_RB of_IN using_VBG random_JJ selection_NN ._.
+We_PRP propose_VBP to_TO use_VB Wikipedia_NNP for_IN identifying_VBG these_DT informative_JJ document_NN pairs_NNS ._.

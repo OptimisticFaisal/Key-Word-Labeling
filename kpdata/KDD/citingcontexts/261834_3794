@@ -1,0 +1,4 @@
+ning_NN in_IN such_JJ a_DT dataset_NN is_VBZ typically_RB targeted_VBN at_IN a_DT specific_JJ attribute_NN because_IN the_DT user_NN normally_RB wants_VBZ to_TO know_VB how_WRB the_DT other_JJ attributes_NNS are_VBP related_VBN to_TO this_DT target_NN attribute_NN -LRB-_-LRB- which_WDT can_MD have_VB many_JJ values_NNS -RRB-_-RRB- =_JJ -_: =[_NN 13_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT target_NN attribute_NN is_VBZ often_RB called_VBN the_DT class_NN attribute_NN ,_, and_CC its_PRP$ values_NNS ,_, the_DT classes_NNS -LRB-_-LRB- denoted_VBN by_IN C_NN -RRB-_-RRB- ._.
+Below_NNP ,_, we_PRP define_VBP the_DT GSE_NNP pattern_NN in_IN this_DT context_NN ._.
+Definition_NN 1_CD -LRB-_-LRB- GSE_NN patterns_NNS -RRB-_-RRB- :_: A_DT GSE_NN pattern_NN co_NN

@@ -1,0 +1,4 @@
+appas_FW et_FW al._FW introduced_VBD a_DT burstiness-aware_JJ search_NN framework_NN to_TO integrate_VB the_DT burstiness_NN concepts_NNS into_IN search_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+Topic_NN modeling_NN and_CC topic_NN detection_NN research_NN is_VBZ another_DT area_NN related_VBN to_TO this_DT work_NN ._.
+In_IN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Wang_NNP et_FW al._FW proposed_VBD the_DT coordinated_VBN mixture_NN model_NN to_TO detect_VB the_DT correlated_JJ bursty_JJ topic_NN patterns_NNS in_IN document_NN sequences_NNS ._.
+The_DT mixture_NN model_NN can_MD detect_VB the_DT correlation_NN between_IN two_CD patterns_NNS from_IN two_CD co_NN

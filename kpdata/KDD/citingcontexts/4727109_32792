@@ -1,0 +1,4 @@
+ic_JJ ._.
+The_DT classifier_NN can_MD simply_RB classify_VB everything_NN as_IN negative_JJ to_TO ensure_VB high_JJ accuracy_NN ._.
+Note_VB that_DT precision-recall_JJ breakeven_NN point_NN is_VBZ a_DT standard_JJ information_NN retrieval_NN measure_NN for_IN binary_JJ classification_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =-[_NN 32_CD -RRB-_-RRB- ._.
+Precision_NN and_CC recall_NN are_VBP defined_VBN as_IN :_: #_# of_IN correct_JJ positive_JJ predictions_NNS Precision_NN =_JJ #_# of_IN positive_JJ predictions_NNS #_# of_IN correct_JJ positive_JJ predictions_NNS Recall_VBP =_JJ #_# of_IN positive_JJ examples_NNS The_DT precision-recal_JJ

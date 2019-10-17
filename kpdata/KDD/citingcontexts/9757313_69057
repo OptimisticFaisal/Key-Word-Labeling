@@ -1,0 +1,4 @@
+Gray_NNP ordering_VBG ,_, in_IN compressing_VBG the_DT transpose_NN of_IN the_DT Web_NN graph_NN ._.
+The_DT problem_NN of_IN assigning_VBG or_CC reassigning_VBG document_NN identifiers_NNS in_IN order_NN to_TO compress_VB text_NN indexes_NNS has_VBZ a_DT long_JJ history_NN ._.
+Blandford_NNP and_CC Blelloch_NNP =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: considered_VBN the_DT problem_NN of_IN compressing_VBG text_NN indexes_NNS by_IN permuting_VBG the_DT document_NN identifiers_NNS to_TO create_VB locality_NN in_IN an_DT inverted_JJ index_NN ._.
+Silvestri_NNP ,_, Perego_NNP ,_, and_CC Orlando_NNP -LRB-_-LRB- 26_CD -RRB-_-RRB- proposed_VBD a_DT clustering_NN approach_NN fo_NN

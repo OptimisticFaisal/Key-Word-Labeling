@@ -1,0 +1,3 @@
+Clustering_VBG Recently_RB ,_, an_DT information-theoretic_JJ clustering_NN framework_NN applicable_JJ to_TO empirical_JJ joint_JJ probability_NN distributions_NNS was_VBD developed_VBN for_IN two-dimensional_JJ contingency_NN table_NN or_CC co-occurrence_NN matrix_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT framework_NN ,_, the_DT -LRB-_-LRB- scaled_VBN -RRB-_-RRB- data_NNS matrix_NN W_NN is_VBZ viewed_VBN as_IN a_DT joint_JJ probability_NN distribution_NN between_IN row_NN and_CC column_NN random_JJ variables_NNS taking_VBG values_NNS over_IN the_DT rows_NNS and_CC columns_NNS ._.
+The_DT clustering_NN objective_NN

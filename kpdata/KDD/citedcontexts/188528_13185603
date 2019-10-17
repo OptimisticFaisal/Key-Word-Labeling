@@ -1,0 +1,5 @@
+the_DT existence_NN of_IN statistical_JJ assumptions_NNS about_IN the_DT underlying_VBG data_NNS distribution_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- ._.
+The_DT latter_JJ category_NN usually_RB makes_VBZ the_DT call_NN by_IN resorting_VBG to_TO distance_NN computation_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- or_CC density_NN estimation_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Besides_IN ,_, projection-based_JJ methods_NNS -LRB-_-LRB- 29_CD -RRB-_-RRB- have_VBP been_VBN introduced_VBN for_IN high-dimensional_JJ data_NNS ._.
+Moreover_RB ,_, clustering_NN algorithms_NNS may_MD output_NN outlier_NN labels_NNS as_IN a_DT by-product_NN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 30_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Compared_VBN to_TO outlier_VB det_NN

@@ -1,0 +1,4 @@
+message_NN ,_, number_NN of_IN recipients_NNS ,_, number_NN of_IN attachments_NNS ,_, and_CC the_DT MIME-type_NN of_IN the_DT email_NN are_VBP used_VBN ._.
+For_IN continuous_JJ value_NN features_NNS we_PRP use_VBP a_DT multiple_JJ Gaussian_JJ estimate_NN to_TO estimate_VB a_DT probability_NN value_NN as_IN in_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+More_RBR detailed_JJ information_NN about_IN our_PRP$ classifier_NN can_MD be_VB found_VBN in_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+4.2_CD N-Gram_NN Classifier_NN When_WRB analyzing_NN text_NN ,_, one_CD alternative_NN to_TO using_VBG words_NNS as_IN tokens_NNS is_VBZ to_TO take_VB subsequences_NNS of_IN the_DT data_NNS and_CC use_VB t_NN

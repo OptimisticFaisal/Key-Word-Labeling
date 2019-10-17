@@ -1,0 +1,8 @@
+尾节点的到达_FW 时间相差在缓冲区窗口内_FW ,_, 可以直接接到链尾_NN ,_, 否则_NN ,_, 服务器要产生另一条视频流_NN ._.
+3.2.2_FW 树状_FW -LRB-_-LRB- tree_NN -RRB-_-RRB- 结构_FW Chaining实际上是树状结构的极端情况_FW ._.
+在树状组播树中_NN ,_, 为了减小上层节点失败对下层节点的影响_NN ,_, 可以_FW 通过减少层次来实现_FW ._.
+在带宽和计算能力允许的情况下_NN ,_, 增加每个节点所带的子节点_NN ,_, 而且尽量保证上层节点的_FW 稳定性_FW ._.
+典型的策略有DirectStream_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, P2Cast_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_JJ -_: 等_NN ._.
+以_FW P2Cast为例_FW ,_, P2Cast是在_NN DirectStream的基础上改进的_NN ,_, 节点按照到达的时间加入一个应用层组播树_NN -LRB-_-LRB- 如_FW 图_FW 3所示_CD -RRB-_-RRB- ._.
+新节点加入组播树_NNP ,_, 选取与自己到达时间较为接近的节点为父节点_NNP ,_, 这个节点有可能已经把最开始的_NNP 一部分内容抛弃_NNP ,_, 即它们到达时间的间隔已经超过缓冲区的大小_NNP ,_, 如果是_NNP DirectStream_NNP 策略_NNP ,_, 该节点就无法成为_FW 新节点的父节点_FW ._.
+但在_FW P2Cast_FW 策略中_NN ,_, 如果_NN

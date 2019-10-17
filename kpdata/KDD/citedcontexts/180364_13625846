@@ -1,0 +1,4 @@
+upper_JJ and_CC lower_JJR bound_VBD to_TO identify_VB candidates_NNS that_WDT could_MD not_RB be_VB close_JJ to_TO the_DT existing_VBG set_NN ._.
+Park_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- defined_VBD the_DT sequence_NN using_VBG a_DT featurevector_NN which_WDT was_VBD indexed_VBN using_VBG an_DT R-tree_NN -LRB-_-LRB- or_CC variant_NN -RRB-_-RRB- ._.
+Vlachos_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Keogh_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- have_VBP used_VBN an_DT R-tree_NN -LRB-_-LRB- or_CC variant_NN -RRB-_-RRB- to_TO describe_VB a_DT sequence_NN and_CC then_RB used_VBD the_DT index_NN bounds_VBZ to_TO eliminate_VB candidate_NN sequences_NNS in_IN a_DT pre-pruning_JJ step_NN ._.
+Algorithm_NN 1_CD -_: Tree_NN Creation_NN Despite_IN the_DT refer_VBP

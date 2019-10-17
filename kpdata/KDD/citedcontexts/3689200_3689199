@@ -1,0 +1,4 @@
+ding_IN the_DT earliest_JJS and_CC highest_JJS peak_NN in_IN the_DT crosscorrelation_NN functions_NNS beteeen_VBP all_DT pairs_NNS of_IN streams_NNS ._.
+Neither_DT CluStream_NNP ,_, StatStream_NNP or_CC BRAID_NNP explicitly_RB focus_VB on_IN discovering_VBG hidden_JJ variables_NNS ._.
+Guha_NNP et_FW al._FW =_SYM -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: improve_VB on_IN discovering_VBG correlations_NNS ,_, by_IN first_RB doing_VBG dimensionality_NN reduction_NN with_IN random_JJ projections_NNS ,_, and_CC then_RB periodically_RB computing_VBG the_DT SVD_NNP ._.
+However_RB ,_, the_DT method_NN incurs_VBZ high_JJ overhead_NN because_IN of_IN the_DT

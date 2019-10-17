@@ -1,0 +1,4 @@
+extensions_NNS of_IN linear_JJ models_NNS ,_, but_CC can_MD also_RB be_VB presented_VBN as_IN constrained_VBN forms_NNS of_IN flexible_JJ universal_JJ approximators_NNS such_JJ as_IN pursuit_NN regression_NN -LRB-_-LRB- Friedman_NNP &_CC Stuetzle_NNP ,_, 1981_CD -RRB-_-RRB- and_CC artificial_JJ neural_JJ networks_NNS -LRB-_-LRB- =_JJ -_: =_JJ Sarle_NNP ,_, 1994_CD -_: =--RRB-_NN ._.
+In_IN the_DT latter_JJ case_NN they_PRP are_VBP called_VBN GANNs_NNS ._.
+An_DT example_NN of_IN a_DT GANN_NN with_IN two_CD inputs_NNS is_VBZ shown_VBN in_IN Figure_NNP 1_CD ._.
+Each_DT input_NN has_VBZ a_DT direct_JJ connection_NN -LRB-_-LRB- skip_VB layer_NN -RRB-_-RRB- ,_, the_DT first_JJ input_NN has_VBZ two_CD nodes_NNS in_IN the_DT hidden_JJ lay_JJ

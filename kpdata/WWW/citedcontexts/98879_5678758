@@ -1,0 +1,4 @@
+for_IN a_DT user_NN based_VBN on_IN the_DT opinions_NNS of_IN other_JJ users_NNS ._.
+The_DT opinions_NNS can_MD be_VB obtained_VBN explicitly_RB from_IN the_DT users_NNS as_IN a_DT rating_NN score_NN -LRB-_-LRB- 3,8_CD -RRB-_-RRB- or_CC bysusing_VBG some_DT implicit_JJ measures_NNS from_IN purchase_NN records_NNS as_IN timing_NN logs_NNS =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT content_NN based_VBN approach_NN text_NN documents_NNS are_VBP recommended_VBN by_IN comparing_VBG between_IN their_PRP$ contents_NNS and_CC user_NN profiles_NNS ._.
+The_DT weights_NNS for_IN the_DT words_NNS extracted_VBN from_IN the_DT document_NN are_VBP added_VBN to_TO the_DT weights_NNS for_IN

@@ -1,0 +1,5 @@
+statistics_NNS under_IN the_DT name_NN of_IN sequential_JJ sampling_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- and_CC more_RBR recently_RB in_IN the_DT database_NN community_NN -LRB-_-LRB- 14_CD ,_, 13_CD -RRB-_-RRB- ._.
+In_IN the_DT KDD_NNP literature_NN ,_, related_JJ methods_NNS are_VBP described_VBN under_IN the_DT name_NN of_IN progressive_JJ sampling_NN =_JJ -_: =[_NN 11_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Details_NNS on_IN how_WRB to_TO use_VB sampling_NN for_IN selecting_VBG the_DT stump_NN at_IN each_DT boosting_VBG iteration_NN are_VBP provided_VBN in_IN Section_NN 3_CD ._.
+In_IN this_DT paper_NN we_PRP provide_VBP a_DT preliminary_JJ experimental_JJ evaluation_NN of_IN this_DT learning_NN system_NN ._.
+F_NN

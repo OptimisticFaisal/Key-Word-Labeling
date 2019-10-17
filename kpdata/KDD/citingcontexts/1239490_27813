@@ -1,0 +1,5 @@
+cal_JJ study_NN -LRB-_-LRB- 12_CD ,_, 15_CD ,_, 19_CD ,_, 20_CD ,_, 16_CD ,_, 10_CD -RRB-_-RRB- ._.
+Freund_NNP and_CC Schapire_NNP -LRB-_-LRB- alternatively_RB Schapire_NNP ,_, et_NNP al_NNP -LRB-_-LRB- 20_CD -RRB-_-RRB- -RRB-_-RRB- have_VBP shown_VBN an_DT upper_JJ bound_VBN on_IN AdaBoost_NNP 's_POS generalization_NN error_NN ._.
+Breiman_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, Friedman_NNP ,_, Hastie_NNP and_CC Tibshirani_NNP =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: explain_VB boosting_VBG from_IN a_DT statistical_JJ analysis_NN ._.
+Margineantu_NNP and_CC Dietterich_NNP -LRB-_-LRB- 16_CD -RRB-_-RRB- have_VBP studied_VBN methods_NNS to_TO prune_VB the_DT voted_VBN ensemble_NN to_TO increase_VB classification_NN throughput_NN ._.
+An_DT empirical_JJ study_NN among_IN AdaBoost_NNP

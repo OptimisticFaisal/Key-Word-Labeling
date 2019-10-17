@@ -1,0 +1,3 @@
+with_IN exponential_JJ problems_NNS with_IN reasonable_JJ computation_NN times_NNS ._.
+In_IN particular_JJ ,_, for_IN many_JJ years_NNS ,_, the_DT problem_NN of_IN frequentsitemset_NN mining_NN ,_, which_WDT is_VBZ exponential_JJ in_IN its_PRP$ nature_NN ,_, has_VBZ attracted_VBN a_DT lot_NN of_IN research_NN =_JJ -_: =[_NN 1_CD ,_, 34_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: and_CC although_IN this_DT problem_NN is_VBZ not_RB always_RB efficiently_RB solvable_JJ in_IN theory_NN ,_, in_IN practice_NN many_JJ algorithms_NNS have_VBP been_VBN applied_VBN successfully_RB ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP DL8_NN ,_, an_DT exact_JJ algorithm_NN for_IN building_NN deci_NNS

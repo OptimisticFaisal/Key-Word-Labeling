@@ -1,0 +1,5 @@
+ized_VBN tuples_NNS ,_, the_DT less_JJR information_NN loss_NN in_IN the_DT anonymization_NN ._.
+Can_MD we_PRP use_VB -LRB-_-LRB- fully_RB -RRB-_-RRB- local_JJ recoding_NN to_TO achieve_VB less_JJR information_NN loss_NN in_IN anonymization_NN effectively_RB ?_.
+Generally_RB ,_, optimal_JJ k-anonymity_NN is_VBZ NP-hard_NN =_JJ -_: =[_NN 8_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP two_CD simple_JJ yet_CC efficient_JJ heuristic_NN algorithms_NNS using_VBG local_JJ recoding_NN for_IN k-anonymization_NN ._.
+Our_PRP$ extensive_JJ empirical_JJ study_NN on_IN both_CC real_JJ data_NN sets_NNS and_CC synthetic_JJ data_NNS sets_NNS show_VBP th_DT

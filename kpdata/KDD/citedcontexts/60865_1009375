@@ -1,0 +1,6 @@
+he_PRP NDCG_NNP is_VBZ computed_VBN ._.
+The_DT Ni_NN are_VBP then_RB again_RB averaged_VBD over_IN the_DT query_JJ set_NN ._.
+s3_NNP Ranking_NNP as_IN Learning_NNP Structured_NNP Outputs_NNP Many_JJ different_JJ approaches_NNS to_TO learning_VBG ranking_JJ algorithms_NNS have_VBP been_VBN proposed_VBN :_: from_IN SVMs_NNS =_JJ -_: =[_NN 6_CD ,_, 10_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: to_TO Perceptrons_NNS -LRB-_-LRB- 4_CD ,_, 5_CD -RRB-_-RRB- to_TO Neural_NNP Networks_NNP -LRB-_-LRB- 2_CD ,_, 1_CD -RRB-_-RRB- ._.
+Are_VBP these_DT algorithms_NNS solving_VBG the_DT right_JJ problem_NN ?_.
+They_PRP are_VBP certainly_RB attempting_VBG to_TO learn_VB an_DT ordering_VBG of_IN the_DT data_NNS ._.
+However_RB ,_, in_IN this_DT Section_NN we_PRP argue_VBP that_IN

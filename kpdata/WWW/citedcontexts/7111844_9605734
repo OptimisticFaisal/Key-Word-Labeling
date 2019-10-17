@@ -1,0 +1,5 @@
+pedance_NN coupling_NN ,_, for_IN better_JJR matching_NN of_IN ads_NNS to_TO publisher_NN pages_NNS in_IN contextual_JJ advertising_NN ._.
+They_PRP also_RB proposed_VBD different_JJ strategies_NNS for_IN improving_VBG relevance-based_JJ matching_JJ functions_NNS ._.
+Chakrabarti_NNP et_FW al._FW =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: used_VBN clicks_NNS on_IN contextual_JJ ads_NNS to_TO learn_VB a_DT matching_JJ function_NN ._.
+They_PRP trained_VBD a_DT logistic_JJ model_NN for_IN predicting_VBG ad_NN clicks_NNS based_VBN on_IN relevance_NN features_NNS between_IN the_DT publisher_NN page_NN and_CC the_DT ad_NN ._.
+By_IN training_VBG the_DT f_SYM

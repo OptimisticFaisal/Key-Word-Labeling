@@ -1,0 +1,3 @@
+d_NN by_IN images_NNS ,_, which_WDT makes_VBZ it_PRP impossible_JJ to_TO discriminate_VB categories_NNS ._.
+For_IN each_DT feature_NN attribute_NN -LRB-_-LRB- color_NN ,_, texture_NN ,_, and_CC shape_NN -RRB-_-RRB- we_PRP create_VBP a_DT visual_JJ dictionary_NN ,_, respectively_RB ,_, using_VBG Self_NN Organization_NNP Map_NNP -LRB-_-LRB- SOM_NNP -RRB-_-RRB- =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: approach_NN ._.
+SOM_NNP is_VBZ ideal_JJ for_IN our_PRP$ problem_NN ,_, as_IN it_PRP can_MD project_VB high-dimensional_JJ feature_NN vectors_NNS to_TO 2-dimensional_JJ plane_NN with_IN mapping_NN similar_JJ features_NNS together_RB while_IN separating_VBG different_JJ features_NNS apart_RB at_IN t_NN

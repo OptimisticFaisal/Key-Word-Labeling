@@ -1,0 +1,4 @@
+re_NN efficient_JJ than_IN building_VBG a_DT single_JJ model_NN ,_, since_IN most_JJS model_NN construction_NN algorithms_NNS have_VBP super-linear_JJ complexity_NN ._.
+Third_RB ,_, the_DT nature_NN of_IN classifier_NN ensembles_NNS lend_VBP themselves_PRP to_TO scalable_JJ parallelization_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: and_CC on-line_JJ classification_NN of_IN large_JJ databases_NNS ._.
+Previously_RB ,_, we_PRP used_VBD averaging_VBG ensemble_NN for_IN scalable_JJ learning_NN over_IN very-large_JJ datasets_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+We_PRP show_VBP that_IN a_DT model_NN 's_POS performance_NN can_MD be_VB estimated_VBN before_IN i_FW

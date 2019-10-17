@@ -1,0 +1,4 @@
+ciated_VBN subspace_NN ._.
+A_DT subspace_NN clustering_NN is_VBZ a_DT collection_NN of_IN subspace_NN clusters_NNS ._.
+1_CD The_DT first_JJ 2_CD subspace_NN clustering_NN algorithm_NN CLIQUE_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- was_VBD published_VBN in_IN 1998_CD and_CC was_VBD soon_RB followed_VBN by_IN many_JJ related_JJ methods_NNS =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 3_CD ,_, 9_CD ,_, 13_CD ,_, 14_CD ,_, 15_CD ,_, 16_CD ,_, 19_CD ,_, 20_CD ,_, 26_CD ,_, 33_CD ,_, 39_CD ,_, 41_CD ,_, 44_CD ,_, 49_CD ,_, 51_CD ,_, 55_CD ,_, 63_CD ,_, 66_CD ,_, 67_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT algorithms_NNS have_VBP been_VBN applied_VBN for_IN instance_NN to_TO clustering_NN gene_NN expression_NN data_NNS :_: it_PRP is_VBZ often_RB the_DT case_NN that_IN a_DT group_NN of_IN genes_NNS behaves_VBZ similarly_RB only_RB in_IN a_DT subset_NN of_IN experiments_NNS -LRB-_-LRB- i.e._FW in_IN a_DT subspace_NN -RRB-_-RRB- -LRB-_-LRB- 1_CD

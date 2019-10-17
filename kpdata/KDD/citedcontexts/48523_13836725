@@ -1,0 +1,4 @@
+of_IN labeled_JJ instances_NNS and_CC a_DT large_JJ number_NN of_IN unlabeled_JJ instances_NNS ._.
+Their_PRP$ implementations_NNS are_VBP based_VBN on_IN the_DT expectation_NN maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- algorithm_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- as_IN a_DT base_NN semi-supervised_JJ classifier_NN ._.
+Bennett_NNP et_FW al._FW =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: present_JJ ASSEMBLE_NNP ,_, an_DT adaptive_JJ semi-supervised_JJ ensemble_NN scheme_NN that_WDT can_MD be_VB used_VBN to_TO to_TO make_VB any_DT costsensitive_JJ classifier_NN semi-supervised_JJ ._.
+Li_NNP et_FW al._FW -LRB-_-LRB- 22_CD -RRB-_-RRB- recently_RB proposed_VBN CS4VM_NN -_: a_DT semi-supervised_JJ cost_NN

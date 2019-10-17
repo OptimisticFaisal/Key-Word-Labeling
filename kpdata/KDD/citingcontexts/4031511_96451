@@ -1,0 +1,5 @@
+esults_NNS of_IN DL8_NN ._.
+Future_JJ challenges_NNS include_VBP extensions_NNS of_IN DL8_NN to_TO other_JJ types_NNS of_IN data_NNS ,_, constraints_NNS and_CC optimization_NN criteria_NNS ._.
+DL8_NN 's_POS results_NNS could_MD be_VB compared_VBN to_TO many_JJ other_JJ types_NNS of_IN decision_NN tree_NN learners_VBZ =_JJ -_: =[_NN 24_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Given_VBN that_IN DL8_NN can_MD be_VB seen_VBN as_IN a_DT relatively_RB cheap_JJ type_NN of_IN post-processing_NN on_IN a_DT set_NN of_IN itemsets_NNS ,_, DL8_NN suits_NNS itself_PRP perfectly_RB for_IN interactive_JJ data_NNS mining_NN on_IN stored_VBN sets_NNS of_IN patterns_NNS ._.
+This_DT means_VBZ that_IN DL8_NN

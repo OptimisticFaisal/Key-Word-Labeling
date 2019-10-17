@@ -1,0 +1,4 @@
+ta_NN acquisition_NN ._.
+The_DT most_RBS popular_JJ type_NN of_IN active_JJ learning_NN is_VBZ called_VBN ``_`` pool-based_JJ ''_'' active_JJ learning_NN ._.
+Many_JJ works_NNS have_VBP been_VBN published_VBN in_IN recent_JJ years_NNS on_IN pool-based_JJ active_JJ learning_NN ,_, including_VBG ,_, for_IN instance_NN ,_, =_JJ -_: =[_NN 19_CD ,_, 22_CD ,_, 16_CD ,_, 17_CD ,_, 12_CD ,_, 1_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- See_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- for_IN a_DT good_JJ review_NN of_IN active_JJ learning_NN approaches_NNS -RRB-_-RRB- ._.
+All_DT these_DT works_NNS assume_VBP that_IN a_DT pool_NN of_IN unlabeled_JJ examples_NNS is_VBZ given_VBN ,_, and_CC the_DT learner_NN can_MD choose_VB which_WDT ones_NNS to_TO acquire_VB their_PRP$ labels_NNS during_IN lear_NN

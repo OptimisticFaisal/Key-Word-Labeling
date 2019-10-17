@@ -1,0 +1,4 @@
+ard_NN algorithms_NNS used_VBN for_IN the_DT CX_NN problem_NN ._.
+The_DT second_JJ algorithm_NN we_PRP propose_VBP for_IN the_DT NNCX_NN problem_NN comes_VBZ with_IN the_DT name_NN ALS_NN and_CC is_VBZ inspired_VBN by_IN the_DT alternating_VBG least_JJS squares_NNS method_NN used_VBN in_IN the_DT NMF_NN algorithms_VBZ =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT sketch_NN of_IN the_DT algorithm_NN is_VBZ given_VBN in_IN Algorithm_NN 2_CD ._.
+The_DT idea_NN is_VBZ that_IN we_PRP first_RB pick_VBP a_DT random_JJ set_NN of_IN k_NN columns_NNS from_IN the_DT original_JJ matrix_NN to_TO construct_VB a_DT matrix_NN ˜_FW C._FW Then_RB ,_, we_PRP use_VBP this_DT ˜_NN C_NN to_TO compute_VB the_DT n_NN

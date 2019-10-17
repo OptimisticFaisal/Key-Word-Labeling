@@ -1,0 +1,3 @@
+he_PRP Lasso_NNP ,_, is_VBZ a_DT convex_NN problem_NN ,_, making_VBG it_PRP possible_JJ to_TO attain_VB the_DT global_JJ maximum_NN ,_, via_IN the_DT so-called_JJ ``_`` least_JJS angle_NN regression_NN ''_'' procedure_NN ,_, which_WDT incrementally_RB updates_NNS the_DT weight_NN for_IN one_CD variable_NN at_IN a_DT time_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT following_NN summarizes_VBZ the_DT Lasso-Granger_NNP method_NN just_RB described_VBN ._.
+Note_VB here_RB that_IN we_PRP denote_VBP by_IN Lasso_NN -LRB-_-LRB- y_NN ,_, X_NN lag_NN -RRB-_-RRB- the_DT set_NN of_IN temporal_JJ variables_NNS receiving_VBG a_DT non-zero_JJ coefficient_NN by_IN the_DT Lasso_NNP algorithm_NN ,_, w_NN

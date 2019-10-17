@@ -1,0 +1,4 @@
+._.
+-LRB-_-LRB- 25_CD -RRB-_-RRB- further_RB propose_VBP the_DT modified_VBN regularized_JJ Laplacian_NN kernel_NN ,_, an_DT extension_NN of_IN the_DT regularized_VBN Laplacian_NN kernel_NN ,_, by_IN introducing_VBG a_DT new_JJ parameter_NN controlling_VBG importance_NN and_CC relatedness_NN ._.
+Moreover_RB ,_, in_IN =_JJ -_: =[_NN 25_CD ,_, 57_CD -RRB-_-RRB- -_: =_JJ -_: it_PRP is_VBZ shown_VBN that_IN the_DT regularized_VBN Laplacian_NN kernel_NN overcomes_VBZ some_DT limitations_NNS of_IN the_DT von_NNP Neumann_NNP kernel_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, when_WRB ranking_VBG linked_VBN documents_NNS ._.
+This_DT modified_VBN regularized_VBD Laplacian_JJ kernel_NN is_VBZ also_RB closely_RB

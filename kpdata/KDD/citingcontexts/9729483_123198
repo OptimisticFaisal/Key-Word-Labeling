@@ -1,0 +1,4 @@
+,_, given_VBN any_DT star_NN network_NN ._.
+Other_JJ related_JJ studies_NNS include_VBP topic_NN model_NN ,_, such_JJ as_IN PLSA_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, which_WDT purely_RB uses_VBZ text_NN information_NN and_CC does_VBZ not_RB consider_VB link_NN information_NN ._.
+Some_DT works_NNS such_JJ as_IN author-topic_JJ model_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: utilizes_VBZ additional_JJ information_NN other_JJ than_IN text_NN by_IN designing_VBG complex_JJ generative_JJ models_NNS that_WDT include_VBP additional_JJ types_NNS of_IN objects_NNS ._.
+Other_JJ works_NNS such_JJ as_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- intend_VBP to_TO optimize_VB a_DT combined_JJ objective_NN funct_NN

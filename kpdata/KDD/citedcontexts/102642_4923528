@@ -1,0 +1,4 @@
+e_LS is_VBZ an_DT unordered_JJ pair_NN of_IN nodes_NNS ._.
+2.1.2_CD Communities_NNS The_DT notion_NN of_IN communities_NNS in_IN the_DT web_NN graph_NN -LRB-_-LRB- called_VBN web_NN communities_NNS -RRB-_-RRB- was_VBD defined_VBN in_IN -LRB-_-LRB- 13_CD -RRB-_-RRB- and_CC the_DT problem_NN of_IN extracting_VBG web_NN communities_NNS was_VBD studied_VBN in_IN =_JJ -_: =[_NN 13_CD ,_, 12_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Kumar_NNP et_FW al._FW -LRB-_-LRB- 13_CD -RRB-_-RRB- detected_VBN communities_NNS by_IN enumerating_VBG all_DT bipartite_JJ cliques_NNS -LRB-_-LRB- up_RB to_TO a_DT certain_JJ size_NN -RRB-_-RRB- in_IN the_DT web_NN graph_NN ._.
+This_DT approach_NN was_VBD motivated_VBN by_IN the_DT co-citation_NN phenomenon_NN rampant_JJ on_IN the_DT web_NN -LRB-_-LRB- 10_CD -RRB-_-RRB-

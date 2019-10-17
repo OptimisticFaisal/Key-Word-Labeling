@@ -1,0 +1,5 @@
+eveloped_VBN in_IN this_DT paper_NN ._.
+One_CD problem_NN that_WDT arises_VBZ in_IN a-priori_NN is_VBZ that_IN the_DT algorithm_NN scales_NNS exponentially_RB with_IN longest_JJS pattern_NN length_NN ._.
+Many_JJ variants_NNS have_VBP been_VBN proposed_VBN to_TO address_VB this_DT issue_NN ._.
+Zaki_NNP et_FW al._FW =_SYM -_: =_JJ -LRB-_-LRB- ZPOL97_NN -RRB-_-RRB- -_: =_SYM -_: developed_VBD the_DT algorithms_NNS MaxEclat_NNP and_CC MaxClique_NNP which_WDT ``_`` look_VBP ahead_RB ''_'' during_IN initialization_NN so_IN that_IN long_JJ frequent_JJ itemsets_NNS are_VBP identified_VBN early_RB ._.
+Bayardo_NN -LRB-_-LRB- B98_NN -RRB-_-RRB- presented_VBD an_DT optimized_VBN search_NN method_NN called_VBN

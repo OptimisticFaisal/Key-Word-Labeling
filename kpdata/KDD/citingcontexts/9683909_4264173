@@ -1,0 +1,4 @@
+llenge_NN and_CC research_NN interest_NN for_IN frequent_JJ pattern_NN mining_NN is_VBZ how_WRB to_TO discover_VB those_DT discriminative_JJ and_CC essential_JJ patterns_NNS efficiently_RB ._.
+It_PRP has_VBZ been_VBN proved_VBN that_IN frequent-pattern_JJ enumeration_NN is_VBZ NPcomplete_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN some_DT graph_NN mining_NN problems_NNS ,_, when_WRB the_DT relative_JJ support_NN is_VBZ 5_CD %_NN ,_, the_DT number_NN of_IN mined_VBN closed_JJ subgraphs_NNS -LRB-_-LRB- obvious_JJ redundancy_NN excluded_VBN -RRB-_-RRB- ,_, can_MD be_VB up_IN to_TO ×_CD 10_CD 7_CD ._.
+However_RB ,_, importantly_RB ,_, most_RBS discovered_VBN patter_NN

@@ -1,0 +1,3 @@
+l_NN ,_, Passive-Aggressive_NNP Model_NNP for_IN Image_NN Retrieval_NN -LRB-_-LRB- PAMIR_NN -RRB-_-RRB- ,_, adopts_VBZ a_DT learning_NN criterion_NN related_VBN to_TO the_DT final_JJ retrieval_NN performance_NN ,_, based_VBN on_IN recent_JJ advances_NNS on_IN discriminative_JJ learning_NN for_IN text_NN retrieval_NN =_JJ -_: =[_NN 8_CD ,_, 17_CD ,_, 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+PAMIR_NN learning_NN approach_NN hence_RB takes_VBZ as_IN input_NN a_DT set_NN of_IN training_NN queries_NNS ,_, as_RB well_RB as_IN a_DT set_NN of_IN pictures_NNS ,_, and_CC outputs_VBZ a_DT trained_JJ model_NN likely_JJ to_TO achieve_VB high_JJ ranking_JJ performance_NN on_IN new_JJ data_NNS ._.
+Moreover_RB ,_, PA_NN

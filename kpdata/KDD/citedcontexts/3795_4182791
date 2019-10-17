@@ -1,0 +1,3 @@
+le_DT reduction_NN is_VBZ still_RB more_RBR significant_JJ than_IN the_DT frequent_JJ set_NN pruning_NN ,_, reaching_VBG 70_CD %_NN by_IN eliminating_VBG one_CD single_JJ dependence_NN ._.
+Algorithms_NNS that_WDT generate_VBP closed_VBN frequent_JJ sets_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, reduce_VB the_DT number_NN of_IN rules_NNS =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC eliminate_VB redundant_JJ rules_NNS -LRB-_-LRB- 24_CD -RRB-_-RRB- can_MD reduce_VB still_RB further_RB the_DT number_NN of_IN both_CC frequent_JJ sets_NNS and_CC association_NN rules_NNS if_IN applied_VBN to_TO the_DT geographic_JJ domain_NN using_VBG our_PRP$ method_NN for_IN pruning_NN the_DT input_NN space_NN ._.
+F_NN

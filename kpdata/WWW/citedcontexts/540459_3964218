@@ -1,0 +1,5 @@
+stem_NN that_WDT requires_VBZ a_DT small_JJ amount_NN -LRB-_-LRB- one_CD training_NN record_NN -RRB-_-RRB- of_IN labeling_NN by_IN the_DT user_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Some_DT researches_VBZ develop_VB object\/record_JJ extraction_NN systems_NNS that_WDT recognize_VBP record_NN boundaries_NNS without_IN labeling_NN ,_, e.g._FW =_JJ -_: =[_NN 6_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, the_DT assumption_NN of_IN such_JJ systems_NNS is_VBZ that_IN the_DT input_NN is_VBZ a_DT multi-record_JJ Web_NN page_NN ._.
+If_IN the_DT training_NN page_NN contains_VBZ only_RB one_CD record_NN -LRB-_-LRB- called_VBN singular_JJ pages_NNS -RRB-_-RRB- ,_, these_DT approaches_NNS simply_RB fail_VBP ._.
+This_DT paper_NN

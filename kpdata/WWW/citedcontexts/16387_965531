@@ -1,0 +1,5 @@
+offered_VBN service_NN ._.
+The_DT advertisements_NNS are_VBP stored_VBN into_IN a_DT repository_NN and_CC the_DT matching_NN of_IN advertisements_NNS is_VBZ reduced_VBN to_TO matching_NN of_IN RDF_NNP graphs_NNS ._.
+The_DT authors_NNS implemented_VBD a_DT matching_JJ algorithm_NN ._.
+Li_NNP and_CC Horrocks_NNP =_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: assess_VB the_DT requirements_NNS for_IN a_DT service_NN description_NN language_NN and_CC ontology_NN ,_, and_CC argue_VBP that_IN DAML+OIL_NN and_CC DAML-S_NN common_JJ service_NN ontology_NN ,_, fulfil_VB these_DT requirements_NNS ._.
+This_DT argument_NN is_VBZ supported_VBN by_IN their_PRP$ des_FW

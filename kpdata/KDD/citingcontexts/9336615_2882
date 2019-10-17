@@ -1,0 +1,3 @@
+ticularly_RB appealing_JJ in_IN the_DT context_NN of_IN dimensionality_NN reduction_NN for_IN multi-label_JJ data_NNS ._.
+When_WRB applied_VBN to_TO multi-class_JJ problems_NNS ,_, CCA_NNP reduces_VBZ to_TO the_DT well-known_JJ linear_NN discriminant_NN analysis_NN -LRB-_-LRB- LDA_NN -RRB-_-RRB- formulation_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: in_IN which_WDT a_DT projection_NN is_VBZ obtained_VBN by_IN maximizing_VBG the_DT ratio_NN of_IN inter-class_JJ distance_NN to_TO intra-class_JJ distance_NN ._.
+Multi-task_JJ Learning_NNP In_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, a_DT similar_JJ formulation_NN has_VBZ been_VBN proposed_VBN for_IN multi-task_JJ learning_NN ._.

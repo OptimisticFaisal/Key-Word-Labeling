@@ -1,0 +1,4 @@
+elation_NN and\/or_CC outliers_NNS can_MD lead_VB to_TO unintuitive_JJ results_NNS if_IN an_DT inappropriate_JJ space_NN is_VBZ used_VBN ._.
+Research_NNP has_VBZ developed_VBN robust_JJ space_NN transformations_NNS that_WDT permit_VBP good_JJ clustering_NN in_IN the_DT face_NN of_IN such_JJ problems_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Such_JJ estimators_NNS need_VBP to_TO be_VB calculated_VBN over_IN the_DT entire_JJ data_NNS ._.
+An_DT important_JJ extension_NN to_TO our_PRP$ work_NN would_MD be_VB to_TO allow_VB privacy_NN preserving_NN computation_NN of_IN such_JJ estimators_NNS ,_, giving_VBG higher_JJR confidence_NN in_IN cluste_NN

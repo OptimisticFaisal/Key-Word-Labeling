@@ -1,0 +1,3 @@
+idual_JJ -LRB-_-LRB- and_CC in_IN many_JJ cases_NNS ,_, all_DT individuals_NNS were_VBD identical_JJ -RRB-_-RRB- ,_, suggesting_VBG that_IN further_JJ optimization_NN would_MD not_RB improve_VB the_DT result_NN obtained_VBD significantly_RB ._.
+The_DT code_NN of_IN the_DT genetic_JJ algorithm_NN was_VBD adapted_VBN from_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, with_IN its_PRP$ default_NN parameters_NNS :_: 0.6_CD chance_NN of_IN crossover_NN and_CC a_DT low_JJ -LRB-_-LRB- 0.0001_CD -RRB-_-RRB- chance_NN of_IN mutation_NN ._.
+We_PRP also_RB used_VBD cached_JJ statistics_NNS to_TO scale_VB up_RP the_DT algorithm_NN :_: instead_RB of_IN passing_VBG through_IN all_PDT the_DT data_NNS points_NNS w_NN

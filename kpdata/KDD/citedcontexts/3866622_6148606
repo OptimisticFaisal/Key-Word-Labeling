@@ -1,0 +1,4 @@
+ion_NN ._.
+Existing_VBG supervised_JJ methods_NNS include_VBP linear_JJ regression_NN analysis_NN -LRB-_-LRB- LRA_NN -RRB-_-RRB- -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, linear_JJ discriminant_JJ analysis_NN -LRB-_-LRB- LDA_NN -RRB-_-RRB- -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, principal_JJ component_NN regression_NN -LRB-_-LRB- PCR_NN -RRB-_-RRB- -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, supervise_VBP probabilistic_JJ PCA_NN -LRB-_-LRB- SPPCA_NN -RRB-_-RRB- =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: and_CC many_JJ others_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+LRA_NN and_CC LDA_NN find_VBP the_DT linear_JJ combinations_NNS of_IN the_DT input_NN -LRB-_-LRB- predictor_NN -RRB-_-RRB- features_NNS which_WDT best_RB explain_VBP the_DT target_NN -LRB-_-LRB- dependent_JJ -RRB-_-RRB- feature_NN ._.
+In_IN these_DT methods_NNS ,_, the_DT input_NN features_NNS are_VBP generally_RB a_DT

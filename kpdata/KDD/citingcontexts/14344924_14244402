@@ -1,0 +1,3 @@
+n_NN -RRB-_-RRB- ,_, -LRB-_-LRB- 2_CD -RRB-_-RRB- where_WRB impression_NN in_IN the_DT conditional_JJ side_NN encodes_VBZ relevant_JJ impression-level_JJ data_NNS including_VBG user_NN ,_, and_CC campaign_NN encodes_VBZ demand-side_JJ data_NNS ._.
+The_DT problem_NN of_IN estimating_NN CTR_NN is_VBZ reasonably_RB well-studied_JJ =_JJ -_: =[_NN 1_CD ,_, 5_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN a_DT real-time_JJ bidding_NN algorithm_NN ,_, a_DT CTR_NN model_NN shall_MD leverage_NN fine-grained_JJ and_CC real-time_JJ predictor_NN variables_NNS ,_, usually_RB high-dimensional_JJ and_CC sparse_JJ ,_, and_CC perform_VB online_JJ prediction_NN efficiently_RB ,_, e.g._FW ,_, in_IN

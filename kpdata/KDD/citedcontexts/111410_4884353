@@ -1,0 +1,4 @@
+he_PRP Internet_NNP usually_RB can_MD be_VB annotated_JJ through_IN the_DT cues_NNS from_IN other_JJ information_NN ._.
+Some_DT existing_VBG algorithms_NNS -LRB-_-LRB- 2,7_CD -RRB-_-RRB- first_JJ divide_NN a_DT web_NN page_NN into_IN blocks_NNS through_IN a_DT certain_JJ pagessegmentation_NN algorithm_NN ,_, such_JJ as_IN =_JJ -_: =[_NN 1,5,6_CD -RRB-_-RRB- -_: =_SYM -_: to_TO make_VB each_DT block_NN contain_VBP a_DT single_JJ topic_NN ._.
+Then_RB the_DT image_NN in_IN the_DT block_NN is_VBZ annotated_JJ through_IN the_DT cues_NNS from_IN ALT_NNP -LRB-_-LRB- alternate_JJ text_NN -RRB-_-RRB- ,_, texts_NNS and_CC links_NNS in_IN that_DT block_NN ._.
+But_CC these_DT algorithms_NNS ignore_VBP the_DT content_NN

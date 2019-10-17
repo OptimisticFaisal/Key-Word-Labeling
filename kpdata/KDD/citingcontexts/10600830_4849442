@@ -1,0 +1,3 @@
+dratic_JJ integer_NN programming_NN problem_NN ,_, which_WDT is_VBZ NP-hard_JJ ._.
+By_IN applying_VBG semi-definite_JJ programming_NN techniques_NNS ,_, approximate_JJ solutions_NNS can_MD be_VB obtained_VBN in_IN polynomial_JJ time_NN for_IN this_DT NP-hard_JJ problem_NN ._.
+Another_DT work_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: first_RB obtained_VBN an_DT extensive_JJ library_NN of_IN more_JJR than_IN 2000_CD classifiers_NNS trained_VBN by_IN existing_VBG methods_NNS such_JJ as_IN C4_NN .5_CD -LRB-_-LRB- 18_CD -RRB-_-RRB- with_IN different_JJ parameters_NNS ,_, and_CC then_RB ensembles_NNS were_VBD constructed_VBN by_IN selecting_VBG classifiers_NNS

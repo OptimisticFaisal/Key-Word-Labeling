@@ -1,0 +1,6 @@
+r_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- has_VBZ some_DT similarities_NNS with_IN our_PRP$ sequential_JJ dual_JJ method_NN ,_, but_CC it_PRP is_VBZ given_VBN in_IN an_DT online_JJ setting_NN and_CC does_VBZ not_RB solve_VB the_DT batch_NN problem_NN ._.
+Also_RB ,_, ideas_NNS such_JJ as_IN shrinking_NN do_VBP not_RB apply_VB to_TO it_PRP ._.
+Bordes_NNP et_FW al._FW =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: apply_VB a_DT coordinate_JJ descent_NN method_NN for_IN multi-class_JJ SVM_NN ,_, but_CC they_PRP focus_VBP on_IN nonlinear_JJ kernels_NNS ._.
+10_CD 3_CD 10_CD 3s3_NN ._.
+SDM_NN FOR_IN WESTON-WATKINS_NNP FORMULATION_NNP Let_NNP e_LS m_NN i_FW and_CC δ_NN m_NN i_FW be_VB as_IN defined_VBN in_IN section_NN 2_CD ._.
+In_IN -LRB-_-LRB- 25_CD -RRB-_-RRB- ,_, We_PRP

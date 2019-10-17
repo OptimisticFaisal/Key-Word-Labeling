@@ -1,0 +1,4 @@
+,_, if_IN not_RB prohibitive_JJ ,_, to_TO use_VB the_DT traditional_JJ k-fold_NN cross-validation_NN ._.
+We_PRP use_VBP cross-validation_NN in_IN a_DT single_JJ training_NN multiple_JJ validation_NN -LRB-_-LRB- STMV_NN -RRB-_-RRB- framework_NN originally_RB proposed_VBN for_IN neural_JJ network_NN training_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Instead_RB of_IN separating_VBG the_DT training_NN and_CC validation_NN phases_NNS ,_, we_PRP integrate_VBP validation_NN into_IN the_DT training_NN process_NN by_IN modeling_NN the_DT validation_NN quality_NN as_IN constraints_NNS in_IN the_DT problem_NN formulation_NN ._.
+We_PRP select_JJ mu_NN

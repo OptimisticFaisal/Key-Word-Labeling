@@ -1,0 +1,5 @@
+is_VBZ the_DT shortest_JJS pairwise_JJ distance_NN between_IN the_DT landmarks_NNS of_IN oi_NN and_CC oj_NN ._.
+Notice_NNP that_IN the_DT last_JJ two_CD metrics_NNS take_VBP objects_NNS '_POS geometric_JJ properties_NNS into_IN account_NN ._.
+The_DT framework_NN also_RB supports_VBZ Hausdorff_NNP distance_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Since_IN this_DT distance_NN is_VBZ not_RB applicable_JJ to_TO the_DT applications_NNS described_VBN in_IN this_DT article_NN ,_, we_PRP do_VBP not_RB discuss_VB it_PRP here_RB ._.
+Two_CD objects_NNS oi_NN and_CC oj_NN have_VBP a_DT closeTo_NN relationship_NN if_IN the_DT distance_NN between_IN them_PRP is_VBZ ≤_FW ε_FW ,_,

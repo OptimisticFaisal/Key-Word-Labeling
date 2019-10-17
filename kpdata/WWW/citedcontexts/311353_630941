@@ -1,0 +1,4 @@
+the_DT execution_NN of_IN miners_NNS ._.
+For_IN scalability_NN reasons_NNS ,_, these_DT building_NN blocks_NNS can_MD exist_VB on_IN a_DT distributed_VBN environment_NN and_CC communicate_VBP with_IN each_DT other_JJ using_VBG servicelevel_NN protocols_NNS such_JJ as_IN SOAP_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC Vinci_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP provide_VBP a_DT platform_NN called_VBN TAP_NNP -LRB-_-LRB- Text_NNP Analytic_NNP Platform_NNP -RRB-_-RRB- ,_, that_WDT could_MD be_VB used_VBN by_IN businesses_NNS to_TO build_VB large-scale_JJ text_NN analytic_JJ applications_NNS rapidly_RB ._.
+TAP_NN provides_VBZ tools_NNS for_IN data_NNS gather_VBP

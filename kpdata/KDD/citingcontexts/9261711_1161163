@@ -1,0 +1,4 @@
+tegory_RB ,_, the_DT whole_JJ feature_NN space_NN is_VBZ built_VBN by_IN one_CD mining_NN run_NN before_IN the_DT subsequent_JJ machine_NN learning_NN algorithm_NN is_VBZ started_VBN ._.
+A_DT naive_JJ approach_NN is_VBZ to_TO use_VB a_DT frequent_JJ substructure_NN mining_NN algorithm_NN such_JJ as_IN AGM_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, gSpan_NN -LRB-_-LRB- 36_CD -RRB-_-RRB- or_CC Gaston_NNP -LRB-_-LRB- 20_CD -RRB-_-RRB- to_TO collect_VB frequently_RB appearing_VBG patterns_NNS ._.
+This_DT approach_NN was_VBD employed_VBN by_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, where_WRB a_DT linear_JJ support_NN vector_NN machine_NN is_VBZ used_VBN for_IN classification_NN ._.
+A_DT more_RBR advanced_JJ appr_NN

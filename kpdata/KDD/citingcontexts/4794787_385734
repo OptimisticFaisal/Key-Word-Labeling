@@ -1,0 +1,4 @@
+on_IN purpose_NN ._.
+2_CD ._.
+MODEL_NNP SELECTION_NNP IN_IN D2MS_NNP Figure_NNP 1_CD shows_VBZ a_DT conceptual_JJ architecture_NN of_IN D2MS_NNS where_WRB Data_NNP Mining_NNP component_NN currently_RB includes_VBZ a_DT decision_NN tree_NN learning_NN -LRB-_-LRB- CABRO_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- -RRB-_-RRB- ,_, and_CC a_DT rule_NN learning_NN -LRB-_-LRB- LUPC_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =--RRB-_NN subsystems_NNS ._.
+2.1_CD User-centered_JJ model_NN selection_NN The_DT interestingness_NN of_IN discovered_VBN patterns\/models_NNS is_VBZ commonly_RB characterized_VBN by_IN several_JJ criteria_NNS :_: evidence_NN indicates_VBZ the_DT significance_NN of_IN a_DT finding_NN measur_NN

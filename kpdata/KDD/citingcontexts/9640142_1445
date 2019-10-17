@@ -1,0 +1,5 @@
+trust_NN ''_'' ,_, where_WRB both_CC trust_NN and_CC distrust_VB are_VBP propagated_VBN over_IN edges_NNS -LRB-_-LRB- with_IN different_JJ patterns_NNS of_IN propagation_NN -RRB-_-RRB- ._.
+They_PRP were_VBD able_JJ to_TO predict_VB trust_NN between_IN individuals_NNS given_VBN a_DT small_JJ amount_NN of_IN labeled_JJ data_NNS ._.
+HITS_NN =_SYM -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Pagerank_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- address_NN reputation_NN for_IN webpages_NNS ._.
+Other_JJ methods_NNS of_IN propagation_NN of_IN trust_NN and_CC distrust_VB are_VBP discussed_VBN in_IN Ziegler_NNP et_FW al._FW -LRB-_-LRB- 31_CD -RRB-_-RRB- ,_, particularly_RB in_IN relation_NN to_TO trust_VB on_IN the_DT semantic_JJ web_NN ._.
+Other_JJ

@@ -1,0 +1,4 @@
+lution_NN than_IN the_DT texts_NNS ._.
+Our_PRP$ approach_NN is_VBZ motivated_VBN by_IN the_DT recent_JJ success_NN of_IN the_DT nonparametric_JJ methods_NNS -LRB-_-LRB- 13,20_CD -RRB-_-RRB- that_WDT are_VBP powered_VBN by_IN large_JJ databases_NNS ._.
+Instead_RB of_IN using_VBG sophisticated_JJ parametric_JJ topic_NN models_NNS =_JJ -_: =[_NN 3,22_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP represent_VBP the_DT images_NNS with_IN timestamps_NNS in_IN the_DT form_NN of_IN a_DT similarity_NN network_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, in_IN which_WDT vertices_NNS are_VBP images_NNS and_CC edges_NNS connect_VBP the_DT temporally_RB related_JJ and_CC visually_RB similar_JJ images_NNS ._.
+Thus_RB ,_, our_PRP$ approac_NN

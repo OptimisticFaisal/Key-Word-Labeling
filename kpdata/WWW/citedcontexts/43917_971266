@@ -1,0 +1,4 @@
+vel_NN view_NN of_IN the_DT MinervaDL_NN architecture_NN based_VBN on_IN shortest_JJS paths_NNS and_CC minimum_JJ weight_NN spanning_NN trees_NNS ._.
+An_DT extension_NN of_IN P2PDIET_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- considers_VBZ a_DT similar_JJ problem_NN for_IN distributing_VBG RDF_NN meta-data_NN in_IN an_DT Edutella_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: fashion_NN ._.
+LibraRing_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- was_VBD the_DT first_JJ approach_NN to_TO provide_VB protocols_NNS for_IN the_DT support_NN of_IN both_CC IR_NN and_CC IF_IN functionality_NN in_IN DLs_NNS using_VBG DHTs_NNS ._.
+In_IN LibraRing_NNP ,_, super-peers_NNS are_VBP organized_VBN in_IN a_DT Chord_NNP DHT_NNP and_CC both_DT

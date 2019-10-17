@@ -1,0 +1,5 @@
+ean_JJ parameters_NNS ,_, that_WDT is_VBZ µ_NNP ∼_NNP Unif_NNP ._.
+and_CC a_DT Jeffrey_NNP 's_POS distribution_NN over_IN the_DT values_NNS of_IN the_DT covariance_NN matrices_NNS to_TO penalize_VB large_JJ covariance_NN matrices_NNS :_: P_NN -LRB-_-LRB- Σ_NN -RRB-_-RRB- ∝_FW |_FW Σ_FW |_FW −_FW -LRB-_-LRB- 3\/2_CD -RRB-_-RRB- ._.
+The_DT same_JJ treatment_NN is_VBZ also_RB used_VBN in_IN =_JJ -_: =[_NN 1_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+By_IN imposing_VBG these_DT prior_JJ distributions_NNS ,_, we_PRP can_MD effectively_RB integrate_VB out_RP µ_NN and_CC Σ_NN ,_, resulting_VBG in_IN a_DT collapsed_JJ Gibbs_NNP sampler_NN for_IN locations_NNS ,_, similar_JJ to_TO -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+More_RBR specifically_RB ,_, we_PRP sample_NN r_NN from_IN the_DT followi_NN

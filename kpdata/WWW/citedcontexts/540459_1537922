@@ -1,0 +1,4 @@
+nto_NN attributes_NNS and_CC data_NNS records_NNS ._.
+\*_SYM This_DT work_NN is_VBZ sponsored_VBN by_IN National_NNP Science_NNP Council_NNP ,_, Taiwan_NNP under_IN grant_NN NSC90-2213-E-008-042_NN ._.
+IEPAD_NN -LRB-_-LRB- an_DT acronym_NN for_IN information_NN extraction_NN based_VBN on_IN pattern_NN discovery_NN -RRB-_-RRB- =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT novel_JJ IE_NN system_NN which_WDT attempts_VBZ to_TO eliminate_VB the_DT need_NN of_IN user-labeled_JJ examples_NNS ._.
+The_DT user_NN does_VBZ not_RB need_VB to_TO tell_VB IEPAD_NNP what_WDT information_NN to_TO extract_NN ,_, but_CC simply_RB choose_VB among_IN patterns_NNS -LRB-_-LRB- discovered_VBN by_IN I_PRP

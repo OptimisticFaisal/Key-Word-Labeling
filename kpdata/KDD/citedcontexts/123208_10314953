@@ -1,0 +1,3 @@
+ta_RB ,_, they_PRP use_VBP rarity_NN as_IN a_DT measure_NN to_TO find_VB interesting_JJ paths_NNS or_CC nodes_NNS with_IN respect_NN to_TO the_DT given_VBN nodes_NNS ._.
+An_DT alternative_NN would_MD be_VB to_TO use_VB node_NN centrality_NN to_TO measure_VB the_DT relative_JJ importance_NN ;_: White_NNP and_CC Smyth_NNP =_SYM -_: =[_NN 63_CD -RRB-_-RRB- -_: =_SYM -_: define_VB and_CC compute_VB the_DT importance_NN of_IN nodes_NNS in_IN a_DT graph_NN relative_JJ to_TO one_CD or_CC more_JJR given_VBN root_NN nodes_NNS ._.
+They_PRP have_VBP also_RB pointed_VBN out_RP advantages_NNS and_CC disadvantages_NNS of_IN such_JJ measurement_NN based_VBN on_IN shortest_JJS paths_NNS ,_, k_NN -_:

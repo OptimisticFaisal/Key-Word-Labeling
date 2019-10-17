@@ -1,0 +1,4 @@
+n_NN aij_NN and_CC a_DT ∗_FW ij_FW ,_, and_CC wij_NN is_VBZ set_VBN to_TO 1_CD for_IN any_DT i_FW ,_, j_NN ,_, then_RB K_NN -LRB-_-LRB- B_NN -RRB-_-RRB- reduces_VBZ to_TO the_DT total_NN squared_VBD residue_NN defined_VBN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+However_RB ,_, a_DT variety_NN of_IN other_JJ distance_NN measures_NNS can_MD be_VB used_VBN ,_, e.g._FW ,_, those_DT described_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Now_RB suppose_VBP we_PRP require_VBP that_IN each_DT element_NN in_IN the_DT data_NNS matrix_NN A_NN must_MD belong_VB to_TO exactly_RB one_CD bicluster_NN in_IN B_NN -LRB-_-LRB- so_IN B_NN corresponds_VBZ to_TO a_DT partition_NN of_IN the_DT elements_NNS in_IN the_DT data_NNS matrix_NN A_NN -RRB-_-RRB- ._.
+Recall_VB that_IN each_DT biclu_NN

@@ -1,0 +1,4 @@
+problem_NN based_VBN on_IN a_DT similarity_NN measure_NN that_WDT combines_VBZ multiple_JJ linguistic_JJ features_NNS ._.
+Another_DT approach_NN is_VBZ to_TO use_VB adaptive_JJ supervised_JJ algorithms_NNS that_WDT learn_VBP string_NN similarity_NN measures_NNS from_IN labeled_JJ 152sdata_NN =_JJ -_: =[_NN 92_CD ,_, 15_CD ,_, 31_CD ,_, 100_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD of_IN the_DT difficulties_NNS in_IN using_VBG a_DT supervised_JJ method_NN for_IN resolution_NN is_VBZ constructing_VBG a_DT good_JJ training_NN set_NN that_WDT includes_VBZ a_DT representative_JJ collection_NN of_IN positive_JJ and_CC negative_JJ examples_NNS ._.
+Other_JJ approaches_NNS

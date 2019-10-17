@@ -1,0 +1,4 @@
+stakes_NNS ,_, which_WDT we_PRP consider_VBP to_TO be_VB a_DT separate_JJ problem_NN that_WDT should_MD be_VB dealt_VBN with_IN in_IN a_DT pre-processing_JJ step_NN ._.
+2_CD The_DT nature_NN of_IN the_DT non-native_JJ data_NNS constrains_VBZ the_DT ranking_NN to_TO two_CD sentences_NNS at_IN a_DT time_NN ._.
+94_CD query_NN -LRB-_-LRB- =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =--RRB-_NN ._.
+In_IN our_PRP$ context_NN ,_, given_VBN a_DT set_NN of_IN English_JJ sentences_NNS with_IN similar_JJ semantic_JJ content_NN ,_, say_VBP s1_NN ,_, ..._: ,_, sn_NN ,_, and_CC a_DT ranking_NN based_VBN on_IN their_PRP$ fluency_NN ,_, the_DT learning_NN algorithm_NN estimates_VBZ the_DT weights_NNS w_NN to_TO satisfy_VB th_DT

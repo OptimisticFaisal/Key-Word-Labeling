@@ -1,0 +1,5 @@
+is_VBZ of_IN changes_NNS in_IN the_DT model_NN ._.
+High_JJ score_NN indicates_VBZ high_JJ possibility_NN of_IN being_VBG an_DT outlier_NN ._.
+This_DT approach_NN has_VBZ been_VBN combined_VBN with_IN a_DT supervised-based_JJ learning_NN approach_NN to_TO obtain_VB general_JJ patterns_NNS for_IN outlier_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Depth-based_JJ is_VBZ the_DT second_JJ category_NN for_IN outlier_NN mining_NN in_IN statistics_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Based_VBN on_IN some_DT definition_NN of_IN depth_NN ,_, data_NN objects_NNS are_VBP organized_VBN in_IN convex_FW hull_FW layers_NNS in_IN data_NNS space_NN according_VBG to_TO peeling_VBG depth_NN

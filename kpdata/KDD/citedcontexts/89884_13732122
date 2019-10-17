@@ -1,0 +1,4 @@
+induced_VBN subtrees_NNS ,_, and_CC embedded_JJ subtrees_NNS ._.
+Bottom-up_JJ subtree_JJ mining_NN is_VBZ the_DT simplest_JJS subtree_NN mining_NN ._.
+Algorithms_NNS for_IN embedded_JJ labeled_JJ frequent_JJ trees_NNS are_VBP the_DT following_NN :_: --_: Rooted_NNP Ordered_NNP Trees_NNP --_: TreeMiner_NNP -LRB-_-LRB- =_JJ -_: =_JJ Zaki_NNP 2002_CD -_: =--RRB-_NN :_: This_DT algorithm_NN developed_VBN by_IN Zaki_NNP ,_, uses_VBZ vertical_JJ representations_NNS for_IN support_NN counting_NN ,_, and_CC follows_VBZ the_DT combined_JJ depth-first\/breadth_NN traversal_NN idea_NN to_TO discover_VB all_DT embedded_JJ ordered_VBN subtrees_NNS ._.
+--_: Rooted_VBN

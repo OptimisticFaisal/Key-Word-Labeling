@@ -1,0 +1,5 @@
+ontext_NN of_IN data_NNS mining_NN ,_, as_RB well_RB as_IN for_IN the_DT purposes_NNS of_IN selectivity_NN estimation_NN of_IN spatial_JJ queries_NNS ._.
+However_RB ,_, none_NN of_IN these_DT approaches_NNS deal_VBP with_IN single_JJ points_NNS and_CC identification_NN of_IN outlying_JJ observations_NNS ._.
+=_SYM -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: deals_NNS with_IN the_DT problem_NN the_DT general_JJ relationship_NN of_IN one_CD multi-dimensional_JJ dataset_NN with_IN respect_NN to_TO another_DT ._.
+This_DT might_MD be_VB a_DT good_JJ first_JJ step_NN when_WRB exploring_VBG correlations_NNS between_IN datasets_NNS ._.
+However_RB ,_, even_RB w_SYM

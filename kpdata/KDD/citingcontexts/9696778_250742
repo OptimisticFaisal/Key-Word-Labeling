@@ -1,0 +1,4 @@
+ge_NN from_IN user_NN i_FW to_TO user_NN j_NN ,_, and_CC E_NN ij_NN =_JJ 0_CD otherwise_RB ._.
+2.3_CD Newman_NNP Clustering_NN We_PRP choose_VBP the_DT Newman_NNP clustering_NN algorithm_NN ,_, which_WDT has_VBZ been_VBN reported_VBN to_TO successfully_RB find_VB social_JJ structures_NNS in_IN large_JJ organizations_NNS =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =-[_NN 18_CD -RRB-_-RRB- ._.
+It_PRP defines_VBZ the_DT edge-betweenness_NN as_IN a_DT normalized_VBN number_NN of_IN shortest_JJS paths_NNS going_VBG through_IN a_DT specific_JJ link_NN from_IN all-pairs_NNS shortest_JJS paths_NNS ._.
+If_IN a_DT link_NN has_VBZ a_DT high_JJ edgebetweenness_NN score_NN ,_, it_PRP means_VBZ that_IN th_DT

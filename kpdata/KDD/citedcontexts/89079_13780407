@@ -1,0 +1,4 @@
+needed_VBN ._.
+This_DT problem_NN is_VBZ known_VBN in_IN data_NN mining_NN literature_NN as_IN motif_NN discovery_NN in_IN time_NN series_NN ._.
+The_DT research_NN in_IN unsupervised_JJ motif_NN discovery_NN have_VBP led_VBN to_TO many_JJ techniques_NNS including_VBG the_DT PROJECTIONS_NNS algorithm_NN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_JJ -_: ,_, PERUSE_NN -LRB-_-LRB- 31_CD -RRB-_-RRB- ,_, Gemoda_NN -LRB-_-LRB- 32_CD -RRB-_-RRB- among_IN many_JJ others_NNS -LRB-_-LRB- -LRB-_-LRB- 33_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+These_DT algorithms_NNS try_VBP to_TO find_VB all_DT recurring_VBG motifs_NNS with_IN lengths_NNS between_IN lmin_NN and_CC lmax_NN time_NN steps_NNS where_WRB lmin_NN and_CC lmax_NN are_VBP input_NN parameters_NNS to_TO the_DT alg_NN

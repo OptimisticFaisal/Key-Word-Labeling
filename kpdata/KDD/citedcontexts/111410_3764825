@@ -1,0 +1,4 @@
+proaches_NNS rely_VBP on_IN the_DT DOM_NNP -LRB-_-LRB- Document_NNP Object_NNP Model_NNP ,_, see_VB http:\/\/www.w3.org\/DOM\/_NN -RRB-_-RRB- ,_, since_IN DOM_NNP provides_VBZ a_DT hierarchical_JJ structure_NN for_IN every_DT web_NN page_NN ._.
+Some_DT useful_JJ tags_NNS or_CC tag_NN types_NNS are_VBP used_VBN to_TO identify_VB blocks_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =-[_NN 21_CD -RRB-_-RRB- ,_, including_VBG <P>_NN ,_, <TABLE>_NN ,_, <UL>_NN ,_, <H1>_FW ~_FW <H6>_NN ,_, etc._NN ._.
+Some_DT other_JJ works_NNS also_RB consider_VBP extra_JJ information_NN such_JJ as_IN content_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC link_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+However_RB ,_, all_PDT these_DT methods_NNS are_VBP not_RB targeting_VBG on_IN web_NN information_NN r_NN

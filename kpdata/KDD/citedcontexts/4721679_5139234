@@ -1,0 +1,4 @@
+of_IN CluStream_NNP and_CC STREAM_NNP with_IN respect_NN to_TO Speed_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- 9_CD ._.
+DENSITY_NN BASED_NN CLUSTERING_NN FOR_IN DATA_NNP STREAMS_NNP Fig_NNP 20_CD :_: Scalability_NN analysis_NN of_IN CluStream_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- Proposed_VBN as_IN an_DT improvement_NN over_IN the_DT CluStream_NNP algorithm_NN ,_, =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ a_DT density_NN based_JJ approach_NN for_IN data_NNS streams_NNS ._.
+9.1_CD Concept_NN of_IN Density_NNP Grids_NNP Each_JJ input_NN data_NNS record_NN is_VBZ defined_VBN within_IN the_DT space_NN S_NN which_WDT is_VBZ d_NN dimensional_JJ ._.
+This_DT d-dimensional_JJ space_NN is_VBZ partitioned_VBN i_FW

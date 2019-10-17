@@ -1,0 +1,4 @@
+ffers_NNS in_IN employing_VBG a_DT general_JJ model_NN of_IN approximate_JJ replication_NN which_WDT considers_VBZ temporal_JJ latency_NN and_CC combines_VBZ data_NNS compression_NN and_CC prediction_NN ._.
+The_DT adaptation_NN problem_NN was_VBD also_RB studied_VBN by_IN Deolasee_NNP et_FW al._FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: for_IN web_NN data_NNS ._.
+Chen_NNP et_FW al._FW -LRB-_-LRB- 3_CD -RRB-_-RRB- propose_VBP to_TO perform_VB on-line_JJ regression_NN analysis_NN over_IN time_NN series_NN data_NNS streams_NNS ._.
+We_PRP also_RB propose_VBP to_TO fit_VB models_NNS to_TO time_NN series_NN ,_, but_CC once_RB again_RB our_PRP$ motivation_NN is_VBZ to_TO improve_VB s_NN

@@ -1,0 +1,3 @@
+vel_NN system_NN metrics_NNS -LRB-_-LRB- CPU_NNP ,_, memory_NN ,_, etc._NN -RRB-_-RRB- and_CC higher_JJR 8s293_NN level_NN application_NN parameters_NNS -LRB-_-LRB- pool_NN size_NN ,_, cache_NN size_NN ,_, etc._NN -RRB-_-RRB- configurations_NNS are_VBP tuned_VBN to_TO the_DT particular_JJ performance_NN problem_NN at_IN hand_NN ._.
+Powers_NNP et_FW al_FW =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: similarly_RB use_VB machine_NN learning_NN techniques_NNS to_TO analyze_VB performance_NN ._.
+However_RB ,_, rather_RB than_IN detecting_VBG bottlenecks_NNS in_IN the_DT current_JJ system_NN ,_, they_PRP predict_VBP whether_IN the_DT system_NN will_MD be_VB able_JJ to_TO withstand_VB load_NN in_IN t_NN

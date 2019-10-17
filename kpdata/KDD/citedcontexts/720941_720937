@@ -1,0 +1,3 @@
+ntire_NN dataset_NN can_MD result_VB in_IN more_JJR accurate_JJ predictions_NNS than_IN conditional_JJ inference_NN for_IN each_DT instance_NN independently_RB -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 2_CD -RRB-_-RRB- -RRB-_-RRB- and_CC that_IN the_DT gains_NNS over_IN conditional_JJ models_NNS increase_VBP as_RB homophily_RB increases_VBZ =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT accuracy_NN of_IN collective_JJ inference_NN techniques_NNS ,_, however_RB ,_, is_VBZ contingent_JJ on_IN the_DT presence_NN of_IN links_NNS in_IN the_DT data_NNS that_WDT confer_VBP homophily_RB ._.
+In_IN real-world_JJ datasets_NNS that_WDT evolve_VBP over_IN time_NN ,_, it_PRP is_VBZ quite_RB likely_JJ t_NN

@@ -1,0 +1,6 @@
+below_IN :_: min_NN θ_NN ,_, t_NN i_LS ,_, ∀_FW i_FW subject_JJ to_TO kX_NN j_NN =_JJ 1_CD tj_NN „_NN I_CD +_CC 1_CD ξ_FW Pp_FW i_FW =_JJ 1_CD θiGi_NN Lhj_NN L_NN T_NN hj_FW tj_FW ``_`` ≽_NN 0_CD ,_, ∀_FW j_FW ,_, θ_FW ≥_FW 0_CD ,_, θ_NN T_NN r_NN =_JJ 1_CD ._.
+-LRB-_-LRB- 30_CD -RRB-_-RRB- The_DT SDP_NN problem_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 30_CD -RRB-_-RRB- can_MD be_VB solved_VBN by_IN standard_JJ optimization_NN solvers_NNS such_JJ as_IN SeDuMi_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, it_PRP may_MD not_RB be_VB scalable_JJ to_TO large_JJ data_NNS set_NN -LRB-_-LRB- a_DT large_JJ value_NN of_IN n_NN -RRB-_-RRB- due_JJ to_TO its_PRP$ positive_JJ semidefinite_NN constraints_NNS ._.
+5.3_CD SILP_NNP Formulation_NNP We_PRP propose_VBP to_TO reformulate_VB the_DT maximization_NN problem_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 2_CD

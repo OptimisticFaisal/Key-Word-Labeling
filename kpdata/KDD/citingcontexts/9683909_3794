@@ -1,0 +1,5 @@
+nt_NN pattern_NN in_IN classification_NN has_VBZ been_VBN explored_VBN by_IN many_JJ recent_JJ studies_NNS ._.
+The_DT association_NN between_IN frequent_JJ patterns_NNS and_CC class_NN labels_NNS is_VBZ used_VBN for_IN prediction_NN ._.
+Earlier_JJR studies_NNS on_IN associative_JJ classification_NN =_JJ -_: =[_NN 19_CD ,_, 18_CD ,_, 27_CD -RRB-_-RRB- -_: =_JJ -_: mainly_RB focus_VB on_IN mining_NN high-support_JJ ,_, high-confidence_JJ rules_NNS and_CC building_VBG a_DT rule-based_JJ classifier_NN ._.
+Prediction_NN is_VBZ made_VBN based_VBN on_IN the_DT top_NN ranked_VBD rule_NN or_CC multiple_JJ rules_NNS ._.
+A_DT recent_JJ work_NN on_IN top-k_NN rule_NN mining_NN

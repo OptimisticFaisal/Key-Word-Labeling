@@ -1,0 +1,5 @@
+feature_NN selection_NN -LRB-_-LRB- 13_CD ,_, 20_CD ,_, 24_CD -RRB-_-RRB- usually_RB use_VBP Gaussian_JJ shape_NN clusters_NNS ._.
+However_RB ,_, recent_JJ studies_NNS have_VBP shown_VBN that_IN human_JJ generated_VBN data_NNS are_VBP probably_RB sampled_VBN from_IN a_DT submanifold_NN of_IN the_DT ambient_JJ Euclidean_JJ space_NN =_JJ -_: =[_NN 1_CD ,_, 25_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT intrinsic_JJ manifold_NN structure_NN should_MD be_VB considered_VBN while_IN measuring_VBG the_DT goodness_NN of_IN the_DT clusters_NNS -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+•_NNP The_NNP selected_VBN features_NNS can_MD ``_`` cover_VB ''_'' all_PDT the_DT possible_JJ clusters_NNS in_IN the_DT data_NNS ._.
+Since_IN different_JJ feat_NN

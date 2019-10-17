@@ -1,0 +1,5 @@
+xt_IN mining_NN ._.
+PLSI_NN -LRB-_-LRB- 7_CD ,_, 9_CD -RRB-_-RRB- opened_VBD the_DT way_NN for_IN probabilistic_JJ modeling_NN of_IN such_JJ representations_NNS ._.
+Applications_NNS and_CC extensions_NNS of_IN the_DT PLSI_NN model_NN in_IN the_DT field_NN of_IN data_NNS mining_NN include_VBP author-topic_JJ identification_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, textmining_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, and_CC web_NN usage_NN mining_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+A_DT major_JJ drawback_NN is_VBZ ,_, that_IN PLSI_NN is_VBZ susceptible_JJ to_TO overfitting_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+The_DT following_VBG research_NN explored_VBD different_JJ Bayesian_JJ extensions_NNS of_IN the_DT PLSI_NN model_NN itself_PRP

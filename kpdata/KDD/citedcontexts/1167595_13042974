@@ -1,0 +1,5 @@
+o_NN localize_VB the_DT fault_NN ._.
+We_PRP discuss_VBP the_DT first_JJ and_CC second_JJ layers_NNS in_IN the_DT subsequent_JJ subsections_NNS ._.
+6.2_CD Service_NNP activities_NNS To_TO extract_VB a_DT feature_NN for_IN individual_JJ services_NNS ,_, we_PRP employ_VBP the_DT framework_NN of_IN Idé-Kashima_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP recapitulate_VBP the_DT essence_NN below_IN ._.
+First_RB ,_, we_PRP define_VBP the_DT feature_NN vector_NN u_NN of_IN the_DT dependency_NN matrix_NN as_IN u_NN -LRB-_-LRB- t_NN -RRB-_-RRB- ≡_CD arg_NN max_NN ũ_NN -LCB-_-LRB- ũ_NN T_NN -RCB-_-RRB- K_NN -LRB-_-LRB- t_NN -RRB-_-RRB- ũ_FW ˜_FW -LRB-_-LRB- 10_CD -RRB-_-RRB- whole_JJ system_NN each_DT service_NN each_DT dependency_NN z_SYM service_NN activit_NN

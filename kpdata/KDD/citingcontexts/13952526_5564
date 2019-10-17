@@ -1,0 +1,5 @@
+ssification_NN ._.
+Our_PRP$ offline_JJ evaluation_NN shows_VBZ that_IN we_PRP achieve_VBP about_IN 95_CD %_NN classification_NN precision_NN ._.
+In_IN Section_NN 6_CD ,_, we_PRP compare_VBP our_PRP$ phrase-based_JJ classification_NN with_IN Support_NN Vector_NNP Machine_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- classification_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC show_VBP that_IN our_PRP$ method_NN significantly_RB outperforms_VBZ four_CD SVM_NNP versions_NNS on_IN the_DT multilabel_JJ job_NN title_NN classification_NN task_NN ._.
+Our_PRP$ system_NN has_VBZ been_VBN successfully_RB deployed_VBN in_IN LinkedIn_NNP 's_POS ad_NN targeting_VBG product_NN ._.
+3_CD

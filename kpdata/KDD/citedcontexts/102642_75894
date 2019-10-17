@@ -1,0 +1,3 @@
+gest_NN of_IN which_WDT contains_VBZ 32_CD nodes_NNS ._.
+The_DT mathematically_RB complex_JJ and_CC computationally_RB intensive_JJ methods_NNS generally_RB do_VBP not_RB scale_VB ,_, and_CC to_TO date_NN ,_, we_PRP have_VBP not_RB used_VBN them_PRP in_IN our_PRP$ research_NN ._.
+Flake_NNP ,_, Lawrence_NNP ,_, and_CC Giles_NNP =_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: provide_VBP a_DT definition_NN of_IN communities_NNS of_IN interest_NN in_IN terms_NNS of_IN number_NN of_IN edges_NNS connecting_VBG a_DT set_NN of_IN nodes_NNS that_WDT has_VBZ the_DT nice_JJ property_NN that_IN the_DT COI_NN can_MD be_VB efficiently_RB enumerated_VBN by_IN applying_VBG a_DT maximum_NN flow_NN

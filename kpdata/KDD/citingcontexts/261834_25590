@@ -1,0 +1,8 @@
+data_NNS tuples_NNS and_CC two_CD classes_NNS ,_, ._.
+and_CC O._NNP The_NNP domain_NN of_IN A1_NN is_VBZ -LCB-_-LRB- a_DT ,_, b_NN ,_, c_NN ,_, d_NN -RCB-_-RRB- ,_, and_CC the_DT domain_NN of_IN A2_NN is_VBZ -LCB-_-LRB- x_NN ,_, y_NN -RCB-_-RRB- ._.
+Assume_VB a_DT rule_NN miner_NN found_VBD the_DT following_JJ rules_NNS -LRB-_-LRB- support_NN and_CC confidence_NN have_VBP their_PRP$ usual_JJ meanings_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =--RRB-_NN :_: R1_NN :_: A2_NN =_JJ xs_NNPS ._.
+-LRB-_-LRB- sup_NN =_JJ 41_CD %_NN ,_, conf_NN =_JJ 77_CD %_NN -RRB-_-RRB- R2_NN :_: A1_NN =_JJ a_DT ,_, A2_NN =_JJ xs_NNPS ._.
+-LRB-_-LRB- sup_NN =_JJ 14_CD %_NN ,_, conf_NN =_JJ 97_CD %_NN -RRB-_-RRB- R3_NN :_: A1_NN =_JJ c_NN ,_, A2_NN =_JJ xs_NNPS ._.
+-LRB-_-LRB- sup_NN =_JJ 13_CD %_NN ,_, conf_NN =_JJ 91_CD %_NN -RRB-_-RRB- R4_NN :_: A1_NN =_JJ d_NN ,_, A2_NN =_JJ xs_NNPS ._.
+-LRB-_-LRB- sup_NN =_JJ 13_CD %_NN ,_, conf_NN =_JJ 93_CD %_NN -RRB-_-RRB- R5_NN :_: A1_NN =_JJ b_NN ,_, A2_NN =_JJ ys_NNS ._.
+-LRB-_-LRB- sup_NN

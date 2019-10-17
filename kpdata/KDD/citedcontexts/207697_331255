@@ -1,0 +1,5 @@
+ail_VB 16470_CD 88162_CD Table_NNP 2_CD :_: Characteristics_NNS of_IN Real_NNP Data_NNP Sets_VBZ ``_`` pumsb_JJ \*_NN ''_'' is_VBZ ``_`` pumsb_NN ''_'' with_IN items_NNS whose_WP$ support_NN is_VBZ larger_JJR than_IN 80_CD %_NN removed_VBN ._.
+``_`` retail_JJ ''_'' contains_VBZ market-basket_JJ data_NNS from_IN an_DT anonymous_JJ retail_JJ store_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP took_VBD these_DT data_NNS sets_NNS from_IN the_DT FIMI_NNP website_NN ._.
+1_CD Synthesized_VBN data_NNS were_VBD also_RB used_VBN in_IN the_DT experiments_NNS ._.
+These_DT data_NNS sets_NNS were_VBD produced_VBN using_VBG a_DT generator_NN included_VBN in_IN the_DT software_NN package_NN published_VBN by_IN the_DT

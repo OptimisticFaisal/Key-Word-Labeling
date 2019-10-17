@@ -1,0 +1,5 @@
+can_MD be_VB found_VBN in_IN the_DT working_VBG memory_NN ._.
+As_IN our_PRP$ model_NN deals_NNS with_IN knowledge_NN expressed_VBN as_IN RDF_NN triples_NNS ,_, we_PRP have_VBP selected_VBN SPARQL_NN 12_CD as_IN query_JJ language_NN for_IN this_DT purpose_NN ._.
+SPARQL_NN allows_VBZ to_TO indicate_VB the_DT Named_VBN Graph_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: that_IN a_DT set_NN of_IN conditions_NNS are_VBP referring_VBG ._.
+We_PRP make_VBP use_NN of_IN this_DT functionality_NN for_IN relating_VBG annotations_NNS of_IN different_JJ Deep_JJ Web_NN sites_NNS in_IN order_NN to_TO perform_VB a_DT distributed_VBN query_NN among_IN their_PRP$ graphs_NNS ._.
+Figure_NN 3_CD sho_NN

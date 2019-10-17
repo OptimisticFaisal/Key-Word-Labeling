@@ -1,0 +1,4 @@
+mber_NN of_IN patterns_NNS representing_VBG the_DT whole_JJ set_NN of_IN frequent_JJ patterns_NNS as_RB well_RB as_IN possible_JJ ._.
+In_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, the_DT objective_NN is_VBZ to_TO maximize_VB the_DT size_NN of_IN the_DT part_NN of_IN the_DT input_NN collection_NN covered_VBN by_IN the_DT selected_VBN k_NN sets_NNS ._.
+=_SYM -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: presents_VBZ an_DT approach_NN that_WDT takes_VBZ into_IN account_NN not_RB only_RB the_DT similarity_NN between_IN frequent_JJ itemsets_NNS ,_, but_CC also_RB between_IN their_PRP$ supports_NNS ._.
+Using_VBG a_DT similarity_NN measure_NN based_VBN on_IN Kullback-Leibler_NNP divergence_NN ,_, they_PRP

@@ -1,0 +1,4 @@
+39_CD Stops\/h_NN 2.81_CD 1.59_CD -LRB-_-LRB- d_NN -RRB-_-RRB- Statistics_NNPS of_IN the_DT clusters_NNS Fig._NNP 2_CD ._.
+Sample_NN cluster_NN found_VBN through_IN clustering_NN on_IN space_NN ,_, on_IN features_NNS and_CC on_IN boththe_NN case_NN of_IN partitional_JJ approaches_NNS for_IN standard_JJ euclidean_JJ metrics_NNS =_JJ -_: =[_NN 17_CD ,_, 16_CD ,_, 5_CD ,_, 12_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Also_RB hierarchical_JJ clustering_NN under_IN constraints_NNS have_VBP been_VBN investigated_VBN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, as_RB well_RB as_IN density-based_JJ approaches_NNS -LRB-_-LRB- 15_CD ,_, 6_CD -RRB-_-RRB- ._.
+Concerning_VBG sequence_NN similarities_NNS ,_, several_JJ work_NN exist_VBP that_WDT propose_VBP to_TO learn_VB an_DT

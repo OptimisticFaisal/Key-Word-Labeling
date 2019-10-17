@@ -1,0 +1,4 @@
+ation_NN solution_NN and_CC the_DT row_NN and_CC column_NN cluster_NN update_VBP steps_NNS can_MD then_RB be_VB obtained_VBN from_IN the_DT optimal_JJ Lagrange_NNP multipliers_NNS ._.
+4_LS ._.
+EXPERIMENTS_NNS There_EX are_VBP a_DT number_NN of_IN experimental_JJ results_NNS in_IN existing_VBG literature_NN =_JJ -_: =[_NN 4_CD ,_, 5_CD ,_, 8_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT illustrate_VBP the_DT usefulness_NN of_IN particular_JJ instances_NNS of_IN our_PRP$ Bregman_NNP co-clustering_NN framework_NN ._.
+In_IN fact_NN ,_, a_DT large_JJ class_NN of_IN parametric_JJ partitional_JJ clustering_NN algorithms_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- including_VBG kmeans_NNS can_MD be_VB shown_VBN

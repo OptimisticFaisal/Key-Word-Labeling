@@ -1,0 +1,3 @@
+t_NN al_NNP proposed_VBD two_CD variants_NNS of_IN the_DT EM_NNP algorithm_NN for_IN soft_JJ clustering_NN ,_, where_WRB each_DT object_NN is_VBZ allowed_VBN to_TO belong_VB to_TO more_JJR than_IN one_CD cluster_NN ,_, and_CC applied_VBD them_PRP to_TO text_NN clustering_NN and_CC gene_NN expression_NN clustering_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN 2002_CD ,_, Lodhi_NNP et_NNP al_NNP attempted_VBD to_TO solve_VB the_DT two_CD main_JJ problems_NNS from_IN representing_VBG documents_NNS into_IN numerical_JJ vectors_NNS by_IN proposing_VBG the_DT string_NN kernel_NN for_IN SVM_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+The_DT string_NN kernel_NN proposed_VBN by_IN them_PRP is_VBZ th_DT

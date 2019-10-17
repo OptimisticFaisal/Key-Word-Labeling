@@ -1,0 +1,3 @@
+r_NN datasets_NNS ._.
+Table_NNP 2_CD :_: TSA_NN algorithm_NN vs._FW state-of-the-art_JJ -LRB-_-LRB- MTurk_NN Dataset_NN -RRB-_-RRB- Algorithm_NN Correlation_NN with_IN humans_NNS ESA-Wikipedia_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- 0.59_CD TSA_NN -LRB-_-LRB- Section_NN 3_CD -RRB-_-RRB- 0.63_CD 5.1.2_CD TSA_NN vs_CC Temporal_JJ Word_NN Similarity_NN Some_RB works_VBZ =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBN measuring_VBG semantic_JJ similarity_NN of_IN queries_NNS through_IN temporal_JJ correlation_NN analysis_NN alone_RB --_: without_IN expending_VBG to_TO a_DT vector_NN of_IN semantic_JJ concepts_NNS ._.
+We_PRP therefore_RB compare_VBP to_TO additional_JJ two_CD baselines_NNS :_: W_NN

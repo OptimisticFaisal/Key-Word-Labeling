@@ -1,0 +1,4 @@
+-RRB-_-RRB- ._.
+It_PRP is_VBZ a_DT generalization_NN of_IN the_DT Voted_NNP Perceptron_NNP -LRB-_-LRB- 11_CD -RRB-_-RRB- and_CC Pocket_NNP Perceptron_NNP algorithms_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+Committee_NNP Perceptron_NNP has_VBZ been_VBN shown_VBN to_TO perform_VB at_IN least_JJS as_RB well_RB as_IN the_DT state-of-the_JJ art_NN RankSVM_NN algorithm_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, while_IN requiring_VBG much_RB less_JJR training_NN time_NN ._.
+Like_IN RankSVM_NN ,_, the_DT Committee_NNP Perceptron_NNP learns_VBZ a_DT function_NN that_WDT minimizes_VBZ the_DT number_NN of_IN non-preferred_JJ passages_NNS ranked_VBD ahead_RB of_IN preferred_JJ passages_NNS ;_: this_DT ,_, in_IN tur_NN

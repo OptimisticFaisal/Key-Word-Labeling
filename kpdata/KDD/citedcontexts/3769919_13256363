@@ -1,0 +1,4 @@
+such_JJ as_IN a_DT star_NN or_CC a_DT ring_NN ,_, may_MD well_RB represent_VB a_DT significant_JJ relationship_NN between_IN the_DT nodes_NNS and_CC can_MD be_VB considered_VBN as_IN a_DT group_NN ._.
+In_IN literature_NN ,_, the_DT proximity_NN graph_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC the_DT center-piece_JJ subgraph_NN -LRB-_-LRB- CEPS_NN -RRB-_-RRB- =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: may_MD be_VB considered_VBN as_IN a_DT group_NN ._.
+However_RB ,_, the_DT computation_NN of_IN the_DT proximity_NN graph_NN and_CC the_DT CEPS_NNP is_VBZ costly_JJ in_IN general_JJ ,_, especially_RB for_IN a_DT large_JJ graph_NN ._.
+Community_NN detection_NN -LRB-_-LRB- 7_CD ,_, 10_CD ,_, 3_CD ,_, 6_CD ,_, 1_LS -RRB-_-RRB- can_MD be_VB employed_VBN to_TO

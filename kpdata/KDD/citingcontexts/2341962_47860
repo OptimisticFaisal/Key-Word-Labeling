@@ -1,0 +1,5 @@
+nd_IN commercial_JJ applications_NNS ,_, e.g._FW the_DT assessment_NN of_IN credit_NN risks_NNS or_CC the_DT selection_NN of_IN customers_NNS for_IN advertising_NN campaign_NN letters_NNS ._.
+For_IN an_DT overview_NN on_IN data_NNS mining_NN and_CC its_PRP$ various_JJ tasks_NNS and_CC approaches_NNS see_VBP =_JJ -_: =[_NN 5_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN we_PRP consider_VBP the_DT classification_NN problem_NN arising_VBG in_IN data_NNS mining_NN ._.
+Given_VBN is_VBZ a_DT set_NN of_IN data_NNS points_NNS in_IN a_DT ddimensional_JJ feature_NN space_NN together_RB with_IN a_DT class_NN label_NN ._.
+From_IN this_DT data_NN ,_, a_DT classifier_NN m_NN

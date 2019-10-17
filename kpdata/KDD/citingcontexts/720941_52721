@@ -1,0 +1,3 @@
+nal_JJ autocorrelation_NN ,_, a_DT widely_RB observed_VBN characteristic_JJ of_IN relational_JJ data_NNS in_IN which_WDT the_DT value_NN of_IN a_DT variable_NN for_IN one_CD instance_NN is_VBZ highly_RB correlated_VBN with_IN the_DT value_NN of_IN the_DT same_JJ variable_NN on_IN another_DT instance_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Several_JJ studies_NNS -LRB-_-LRB- 1,10,16_CD -RRB-_-RRB- have_VBP shown_VBN that_IN ,_, by_IN making_VBG inferences_NNS about_IN multiple_JJ data_NNS instances_NNS simultaneously_RB ,_, collective_JJ inference_NN can_MD significantly_RB reduce_VB classification_NN error_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP sh_VBP

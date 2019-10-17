@@ -1,0 +1,4 @@
+attributes_NNS that_WDT should_MD be_VB used_VBN to_TO characterize_VB the_DT workload_NN ._.
+Besides_IN using_VBG distance-based_JJ clustering_NN algorithms_NNS -LRB-_-LRB- e.g._FW ,_, k-means_NN ,_, minimum_NN spanning_NN tree_NN -RRB-_-RRB- ,_, as_IN done_VBN in_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, we_PRP use_VBP fractal_JJ clustering_NN -LRB-_-LRB- FC_NN -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- ._.
+On_IN -_: =_SYM -_: e_LS of_IN the_DT motivations_NNS for_IN using_VBG fractal_JJ clustering_NN is_VBZ to_TO improve_VB the_DT ``_`` quality_NN ''_'' of_IN the_DT clusters_NNS so_IN that_DT one_NN can_MD assign_VB meaningful_JJ interpretations_NNS to_TO each_DT of_IN them_PRP ._.
+Fractal_JJ clustering_NN is_VBZ quite_RB appropr_NN

@@ -1,0 +1,13 @@
+Both WWW and KDD collections have similar folder hierarchies.
+
+abstracts - POS tagged title + abstract
+AggregatedAll - POS tagged title + abstract + cited contexts + citing contexts
+AggregatedCited - POS tagged title + abstract + cited contexts
+AggregatedCiting - POS tagged title + abstract + citing contexts
+citedcontexts - POS tagged cited contexts (name format: aaa_bbb, cited context for aaa, i.e. bbb cited aaa)
+citingcontexts - POS tagged citing contexts (name format: aaa_bbb, citing context for aaa, i.e. aaa cited bbb)
+gold - author-annotated keyphrases
+gold2 - extra set of keyphrases, annotated only with n-grams (n <= 3) found in title + abstracts (available in WWW dataset only)
+titles_contexts - POS tagged titles and citation contexts aggregated
+overlappingFiles - file names from the dataset that have title and at least one cited context and one citing context
+

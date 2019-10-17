@@ -1,0 +1,4 @@
+y._NNP Clustering_NNP on_IN bi-type_JJ interrelated_JJ data_NN objects_NNS ,_, such_JJ as_IN word-document_JJ data_NNS ,_, is_VBZ called_VBN coclustering_NN or_CC bi-clustering_NN ._.
+Recently_RB ,_, co-clustering_NN has_VBZ been_VBN addressed_VBN based_VBN on_IN matrix_NN factorization_NN ._.
+Both_DT =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 21_CD -RRB-_-RRB- model_NN the_DT co-clustering_NN as_IN an_DT optimization_NN problem_NN involving_VBG a_DT triple_JJ matrix_NN factorization_NN ._.
+-LRB-_-LRB- 23_CD -RRB-_-RRB- proposes_VBZ an_DT EM-like_JJ algorithm_NN based_VBN on_IN multiplicative_JJ updating_VBG rules_NNS and_CC -LRB-_-LRB- 21_CD -RRB-_-RRB- proposes_VBZ a_DT hard_JJ

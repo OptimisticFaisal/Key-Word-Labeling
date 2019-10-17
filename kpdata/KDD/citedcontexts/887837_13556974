@@ -1,0 +1,5 @@
+ata_NN that_WDT will_MD be_VB used_VBN for_IN training_VBG the_DT classifier_NN ._.
+While_IN we_PRP do_VBP not_RB consider_VB general_JJ cost_NN matrices_NNS in_IN this_DT paper_NN ,_, the_DT suggested_JJ approach_NN can_MD be_VB used_VBN to_TO minimize_VB bounds_NNS on_IN the_DT expected_VBN cost_NN ._.
+Clustering_NN =_JJ -_: =[_NN 23_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ unlabelled_JJ data_NNS and_CC is_VBZ able_JJ to_TO detect_VB unknown_JJ types_NNS of_IN attacks_NNS ._.
+Similar_JJ data_NNS instances_NNS are_VBP grouped_VBN using_VBG distance_NN metrics_NNS ._.
+Data_NNS of_IN the_DT same_JJ type_NN are_VBP situated_VBN in_IN a_DT feature_NN space_NN close_RB to_TO each_DT oth_NN

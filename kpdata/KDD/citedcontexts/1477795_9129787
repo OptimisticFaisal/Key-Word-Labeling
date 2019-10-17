@@ -1,0 +1,4 @@
+ations_NNS are_VBP interspersed_VBN with_IN ordinary_JJ text_NN ;_: the_DT remaining_VBG image_NN pointers_NNS in_IN Figure_NNP 4.2_CD are_VBP citation-style_JJ ._.
+The_DT image-pointer_JJ extraction_NN and_CC classification_NN steps_NNS are_VBP done_VBN via_IN a_DT machine_NN learning_NN method_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Entity_NN to_TO image_NN pointer_NN alignment_NN The_DT scope_NN of_IN an_DT image_NN pointer_NN specifies_VBZ what_WDT text_NN should_MD be_VB associated_VBN with_IN that_DT image_NN pointer_NN ._.
+The_DT scope_NN of_IN an_DT image_NN pointer_NN is_VBZ the_DT section_NN of_IN text_NN -LRB-_-LRB- sub-caption_NN -RRB-_-RRB- t_NN

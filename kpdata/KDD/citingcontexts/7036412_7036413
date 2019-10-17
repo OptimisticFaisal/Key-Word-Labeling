@@ -1,0 +1,5 @@
+second_JJ components_NNS of_IN C_NN ,_, respectively_RB ._.
+It_PRP has_VBZ been_VBN shown_VBN in_IN -LRB-_-LRB- 33_CD -RRB-_-RRB- that_IN -LRB-_-LRB- under_IN standard_JJ complexity-theoretic_JJ assumptions_NNS ,_, -RRB-_-RRB- the_DT ElGamal_NNP encryption_NN scheme_NN is_VBZ secure_JJ in_IN the_DT sense_NN of_IN semantic_JJ security_NN ._.
+-LRB-_-LRB- See_VB =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: for_IN the_DT definition_NN of_IN semantic_JJ security_NN -RRB-_-RRB- ._.
+In_IN the_DT ElGamal_NNP encryption_NN scheme_NN ,_, one_CD cleartext_NN has_VBZ many_JJ possible_JJ encryptions_NNS ,_, since_IN the_DT random_JJ number_NN r_NN can_MD take_VB on_IN many_JJ different_JJ values_NNS ._.
+ElGamal_NNP supports_VBZ

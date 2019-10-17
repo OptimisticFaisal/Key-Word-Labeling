@@ -1,0 +1,4 @@
+een_VB them_PRP is_VBZ computed_VBN by_IN the_DT quadratic_JJ distance_NN function_NN -LRB-_-LRB- h1_FW −_FW h2_NN -RRB-_-RRB- T_NN A_NN -LRB-_-LRB- h1_FW −_FW h2_NN -RRB-_-RRB- ._.
+The_DT entry_NN aij_NN in_IN the_DT color_NN similarity_NN matrix_NN A_NN is_VBZ determined_VBN by_IN Equation_NN 3_CD given_VBN in_IN Section_NN 3.1_CD of_IN the_DT VisualSeek_NNP paper_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT experiments_NNS were_VBD performed_VBN on_IN a_DT Linux_NNP workstation_NN having_VBG an_DT Intel_NNP Xeon_NNP 2.4_CD GHz_NNP Processor_NNP with_IN 1GB_NN of_IN RAM_NNP ._.
+All_PDT the_DT algorithms_NNS were_VBD implemented_VBN in_IN C_NN +_CC +_CC and_CC compliedsAlgorithm_NN Chr18_NN Distance_NNP computat_NN

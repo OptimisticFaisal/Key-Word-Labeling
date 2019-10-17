@@ -1,0 +1,5 @@
+anges_NNS ._.
+In_IN a_DT streaming_NN scenario_NN we_PRP are_VBP interested_JJ in_IN ,_, this_DT idea_NN reduces_VBZ the_DT amortized_JJ time_NN costs_NNS ,_, but_CC does_VBZ not_RB allow_VB us_PRP to_TO tightly_RB bound_VBN the_DT time_NN per_IN individual_JJ object_NN arrival_NN on_IN arbitrary_JJ streams_NNS ._.
+In_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: an_DT optimal_JJ algorithm_NN for_IN maintaining_VBG the_DT closest_JJS pair_NN of_IN points_NNS is_VBZ described_VBN ._.
+It_PRP runs_VBZ in_IN logarithmic_JJ time_NN with_IN linear_JJ space_NN ._.
+This_DT algorithm_NN works_VBZ by_IN hierarchically_RB dividing_VBG the_DT space_NN into_IN sub-spaces_NNS

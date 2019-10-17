@@ -1,0 +1,4 @@
+use-case_NN for_IN the_DT barrier_NN is_VBZ to_TO ``_`` wait_VB ''_'' for_IN all_DT processors_NNS to_TO complete_VB a_DT particular_JJ task_NN ,_, before_IN going_VBG on_RP to_TO the_DT next_JJ task_NN ._.
+We_PRP implement_VBP a_DT version_NN of_IN the_DT sense-reversing_JJ barrier_NN algorithm_NN described_VBN in_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT distributed_VBN sum_NN function_NN -LRB-_-LRB- or_CC more_RBR generally_RB also_RB known_VBN as_IN reduce_VB or_CC fold_VB -RRB-_-RRB- simply_RB collects_VBZ and_CC aggregates_NNS a_DT value_NN posted_VBN by_IN each_DT machine_NN ._.
+Each_DT machine_NN p_NN calls_VBZ the_DT sum_NN function_NN with_IN a_DT particular_JJ v_LS

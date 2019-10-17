@@ -1,0 +1,3 @@
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT technique_NN that_IN mines_NNS the_DT maximal_JJ frequent_JJ subgraphs_NNS of_IN a_DT graph_NN database_NN ._.
+The_DT set_NN of_IN maximal_JJ frequent_JJ subgraphs_NNS is_VBZ significantly_RB smaller_JJR than_IN the_DT set_NN of_IN frequent_JJ subgraphs_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: thus_RB providing_VBG scope_NN for_IN ample_JJ pruning_NN of_IN the_DT exponentially_RB large_JJ search_NN space_NN ._.
+A_DT typical_JJ approach_NN to_TO frequent_JJ subgraph_JJ mining_NN problem_NN has_VBZ been_VBN to_TO find_VB frequent_JJ subgraphs_NNS incrementally_RB in_IN an_DT apriori_NN

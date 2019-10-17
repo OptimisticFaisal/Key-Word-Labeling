@@ -1,0 +1,4 @@
+stated_VBN otherwise_RB ._.
+The_DT itemset_JJ mining_NN phase_NN of_IN the_DT Apriori_NNP algorithm_NN is_VBZ given_VBN in_IN Algorithm_NN 1_CD ._.
+We_PRP use_VBP the_DT notation_NN X_NN -LRB-_-LRB- i_LS -RRB-_-RRB- ,_, to_TO represent_VB the_DT ith_JJ item_NN in_IN X._NNP The_DT k-prefix_NN of_IN an_DT itemset_NN X_NN is_VBZ the_DT k-itemset_NN -LCB-_-LRB- X_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, ..._: ,_, X_NN -LRB-_-LRB- k_NN -RRB-_-RRB- -RCB-_-RRB- ._.
+Algorithm_NN 1_CD Apriori_NN -_: Itemset_NN mining_NN Input_NN :_: D_NN ,_, #_# Output_NN :_: F_NN -LRB-_-LRB- D_NN ,_, #_# -RRB-_-RRB- 1_CD :_: C_NN 1_CD :_: =_JJ -LCB-_-LRB- -LCB-_-LRB- i_LS -RCB-_-RRB- |_FW i_FW #_# I_PRP -RCB-_-RRB- 2_CD :_: k_NN :_: =_JJ 1_CD 3_CD :_: while_IN C_NN k_NN #_# =_JJ -LCB-_-LRB- -RCB-_-RRB- do_VBP 4_CD :_: \/_: \/_: Compute_VB the_DT supports_NNS of_IN all_DT candidate_NN itemsets_NNS 5_CD :_: for_IN all_DT

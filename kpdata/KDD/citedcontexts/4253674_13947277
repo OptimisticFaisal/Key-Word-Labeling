@@ -1,0 +1,3 @@
+ly_RB ,_, we_PRP note_VBP that_IN while_IN the_DT naïve_JJ implementation_NN of_IN the_DT Nemhauser_NNP algorithm_NN is_VBZ -LRB-_-LRB- -RRB-_-RRB- ,_, where_WRB is_VBZ profile_NN size_NN and_CC is_VBZ the_DT candidate_NN pool_NN of_IN keywords_NNS ,_, it_PRP can_MD be_VB sped_VBN up_RP dramatically_RB by_IN using_VBG lazy_JJ evaluation_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC empirically_RB can_MD be_VB run_VBN for_IN hundreds_NNS to_TO thousands_NNS of_IN keywords_NNS within_IN the_DT realtime_NN constraints_NNS of_IN modern_JJ ad_NN delivery_NN platforms_NNS ._.
+5_CD ._.
+PROFILE_NNP UTILITY_NNP ESTIMATION_NNP Computing_NNP incremental_JJ keyword_JJ utility_NN

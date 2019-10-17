@@ -1,0 +1,5 @@
+ance_NN measure_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+The_DT algorithm_NN that_IN we_PRP use_VBP for_IN query-URL_NN clustering_NN is_VBZ basically_RB content_NN ignorant_JJ ._.
+Similarity_NN measures_NNS based_VBN on_IN Cooccurrence_NNP information_NN from_IN query_JJ logs_NNS lead_VBP the_DT clustering_NN technique_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Intuition_NN behind_IN using_VBG agglomerative_JJ clustering_NN is_VBZ based_VBN on_IN two_CD observations_NNS ._.
+First_RB ,_, users_NNS express_VBP their_PRP$ information_NN need_NN with_IN different_JJ terms_NNS but_CC they_PRP may_MD select_VB the_DT same_JJ URL_NN as_IN the_DT most_RBS relevant_JJ r_NN

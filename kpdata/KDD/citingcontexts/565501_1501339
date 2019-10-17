@@ -1,0 +1,4 @@
+ed_VBN equal_JJ selective_JJ pressure_NN as_IN in_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, or_CC population_NN members_NNS can_MD be_VB ranked_VBN by_IN the_DT number_NN of_IN solutions_NNS in_IN the_DT population_NN that_IN they_PRP are_VBP dominated_VBN by_IN ,_, as_IN in_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Other_JJ related_JJ approaches_NNS are_VBP examined_VBN in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =-[_NN 17_CD -RRB-_-RRB- ._.
+While_IN such_JJ Pareto-based_JJ approaches_NNS are_VBP immune_JJ to_TO nonconvexities_NNS in_IN the_DT tradeoff_NN surface_NN ,_, they_PRP may_MD not_RB ensure_VB a_DT full_JJ exploration_NN along_IN the_DT entire_JJ Pareto-frontier_NN ._.
+Various_JJ niching_JJ techniques_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- -LRB-_-LRB-

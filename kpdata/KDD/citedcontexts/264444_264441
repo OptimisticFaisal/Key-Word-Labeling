@@ -1,0 +1,4 @@
+unfortunately_RB NP-hard_JJ if_IN one_CD wishes_NNS to_TO guarantee_VB an_DT optimal_JJ anonymization_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Algorithms_NNS that_WDT are_VBP suitable_JJ for_IN use_NN in_IN practice_NN typically_RB employ_VBP greedy_JJ methods_NNS -LRB-_-LRB- 6,13_CD -RRB-_-RRB- or_CC incomplete_JJ stochastic_JJ search_NN =_JJ -_: =[_NN 5,16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC do_VBP not_RB provide_VB any_DT guarantees_NNS on_IN the_DT quality_NN of_IN the_DT resulting_VBG anonymization_NN ._.
+We_PRP propose_VBP a_DT practical_JJ method_NN for_IN determining_VBG an_DT optimal_JJ k_NN -_: anonymization_NN of_IN a_DT given_VBN dataset_NN ._.
+An_DT optimal_JJ anonymizatio_NN

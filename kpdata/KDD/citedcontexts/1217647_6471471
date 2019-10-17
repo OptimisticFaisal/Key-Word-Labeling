@@ -1,0 +1,4 @@
+cus_NN is_VBZ on_IN compression_NN rather_RB than_IN mining_NN ._.
+2.2_CD Dynamic_NNP Graphs_NNPS From_IN the_DT exploratory_JJ viewpoint_NN ,_, Leskovec_NNP et_FW al._FW -LRB-_-LRB- 15_CD -RRB-_-RRB- discovered_VBD the_DT shrinking_VBG diameter_NN phenomena_NNS on_IN time-evolving_JJ graphs_NNS ._.
+Backstrom_NNP et_FW al._FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: study_NN community_NN evolution_NN in_IN social_JJ networks_NNS ._.
+From_IN the_DT algorithmic_JJ aspect_NN ,_, Sun_NNP et_FW al._FW -LRB-_-LRB- 20_CD -RRB-_-RRB- present_JJ dynamic_NN tensor_NN analysis_NN ,_, which_WDT incrementally_RB summarizes_VBZ tensor_NN streams_NNS -LRB-_-LRB- high-order_JJ graph_NN streams_NNS -RRB-_-RRB- as_IN

@@ -1,0 +1,4 @@
+deeper_JJR understanding_NN of_IN the_DT underlying_VBG system_NN generating_VBG the_DT data_NNS ._.
+This_DT paper_NN is_VBZ concerned_VBN with_IN the_DT latter_JJ task_NN ,_, and_CC presents_VBZ a_DT novel_JJ algorithm_NN for_IN finding_VBG recurring_VBG patterns_NNS -LRB-_-LRB- sometimes_RB called_VBN motifs_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =--RRB-_NN in_IN time_NN series_NN ._.
+Most_JJS algorithms_NNS for_IN discovering_VBG patterns_NNS in_IN time_NN series_NN have_VBP one_CD or_CC more_JJR of_IN the_DT following_JJ characteristics_NNS ._.
+The_DT most_RBS common_JJ characteristic_NN is_VBZ an_DT inability_NN to_TO work_VB with_IN real-valued_JJ dat_NN

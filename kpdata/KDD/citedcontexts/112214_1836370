@@ -1,0 +1,3 @@
+x_NN and_CC is_VBZ often_RB computed_VBN in_IN a_DT straightforward_JJ manner_NN ,_, i.e._FW ,_, by_IN computing_VBG the_DT intersection_NN of_IN sets_NNS x_CC S_NN and_CC S_NN y_NN ._.
+However_RB ,_, some_DT methods_NNS ,_, such_JJ as_IN the_DT graph-theoretic_JJ approach_NN to_TO collaborative_VB filtering_VBG -LRB-_-LRB- =_JJ -_: =_JJ Aggarwal_NNP et_FW al._FW 1999_CD -_: =--RRB-_NN ,_, can_MD determine_VB the_DT nearest_JJS neighbors_NNS of_IN x_NN without_IN computing_VBG S_NN xy_NN for_IN the_DT whole_JJ user_NN base_NN ._.
+In_IN the_DT correlation-based_JJ approach_NN ,_, the_DT Pearson_NNP correlation_NN coefficient_NN is_VBZ used_VBN to_TO measure_VB the_DT similarity_NN bet_NN

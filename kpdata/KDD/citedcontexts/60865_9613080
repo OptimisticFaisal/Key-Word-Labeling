@@ -1,0 +1,5 @@
+mance_NN rapidly_RB with_IN as_RB much_JJ as_IN 30_CD %_NN relative_JJ improvement_NN over_IN the_DT margin-based_JJ sampling_NN baseline_NN ._.
+1_CD ._.
+Introduction_NN Learning_NNP to_TO rank_VB has_VBZ recently_RB drawn_VBN broad_JJ attention_NN among_IN machine_NN learning_NN researchers_NNS -LRB-_-LRB- =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =_JJ -_: ;_: Freund_NNP et_FW al._FW ,_, 2003_CD ;_: Cao_NNP et_FW al._FW ,_, 2006_CD -RRB-_-RRB- ._.
+The_DT objective_NN of_IN rank_NN learning_NN is_VBZ to_TO induce_VB a_DT mapping_NN -LRB-_-LRB- ranking_NN function_NN -RRB-_-RRB- from_IN a_DT predefined_JJ set_NN of_IN instances_NNS to_TO a_DT set_NN of_IN partial_JJ -LRB-_-LRB- or_CC total_JJ -RRB-_-RRB- orders_NNS ._.
+For_IN instanc_NN

@@ -1,0 +1,5 @@
+uous_JJ outlier_NN score_NN to_TO each_DT object_NN can_MD be_VB used_VBN ._.
+Fig._NNP 1_CD ._.
+Algorithm_NN 1_CD :_: A_DT distance-based_JJ noise_NN removal_NN algorithm_NN ._.
+3.1_CD Distance-Based_JJ Outlier_NN Detection_NN Methods_NNS for_IN Noise_NN Removal_NN A_NN simple_JJ method_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: of_IN detecting_VBG outliers_NNS is_VBZ based_VBN on_IN the_DT distance_NN measure_NN ._.
+An_DT object_NN in_IN a_DT data_NN set_NN D_NN is_VBZ a_DT distance-based_JJ outlier_NN if_IN at_IN least_JJS a_DT fraction_NN of_IN the_DT objects_NNS in_IN D_NN are_VBP at_IN a_DT distance_NN greater_JJR than_IN r._NNP This_NNP outlier_NN

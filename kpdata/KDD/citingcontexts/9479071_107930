@@ -1,0 +1,4 @@
+e_LS a_DT new_JJ classifier_NN for_IN each_DT unlabeled_JJ instance_NN in_IN order_NN to_TO estimate_VB its_PRP$ risk_NN ._.
+One_CD recently_RB advocated_VBN method_NN for_IN semi-supervised_JJ learning_NN on_IN relational_JJ data_NNS uses_VBZ Gaussian_JJ fields_NNS and_CC harmonic_JJ functions_NNS =_JJ -_: =[_NN 37_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT particular_JJ method_NN ,_, and_CC graph-based_JJ methods_NNS like_IN it_PRP -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 5_CD ,_, 18_CD ,_, 37_CD ,_, 34_CD -RRB-_-RRB- -RRB-_-RRB- ,_, assume_VBP that_IN data_NNS is_VBZ presented_VBN in_IN the_DT form_NN of_IN a_DT partially_RB labeled_VBN graph_NN ,_, where_WRB all_PDT the_DT data_NNS is_VBZ interconnected_VBN ._.
+This_DT se_FW

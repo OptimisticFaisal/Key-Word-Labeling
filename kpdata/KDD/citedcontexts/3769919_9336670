@@ -1,0 +1,4 @@
+rmation_NN retrieval_NN related_JJ conferences_NNS -LRB-_-LRB- e._NN g_NN ,_, `_`` TREC_NN '_'' ,_, `_`` CIKM_NN '_'' ,_, `_`` ECIR_NN '_'' ,_, `_`` CLEF_NN '_'' ,_, `_`` ACL_NN '_'' ,_, `_`` JCDL_NN '_'' ,_, etc_NN -RRB-_-RRB- ._.
+Center-Piece_NNP Subgraphs_NNP ._.
+The_DT concept_NN of_IN connection_NN subgraphs_NNS ,_, or_CC center-piece_JJ subgraphs_NNS ,_, was_VBD proposed_VBN in_IN =_JJ -_: =[_NN 7_CD ,_, 22_CD -RRB-_-RRB- -_: =_JJ -_: :_: Given_VBN Q_NNP query_NN nodes_NNS ,_, it_PRP creates_VBZ a_DT subgraph_JJ H_NN that_WDT shows_VBZ the_DT relationships_NNS between_IN the_DT query_NN nodes_NNS ._.
+The_DT resulting_VBG subgraph_NN should_MD contain_VB the_DT nodes_NNS that_WDT have_VBP strong_JJ connection_NN to_TO all_DT or_CC most_JJS of_IN the_DT q_NN

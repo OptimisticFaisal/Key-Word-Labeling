@@ -1,0 +1,4 @@
+criteria_NNS with_IN the_DT partial_JJ fuzzy_JJ scores_NNS represented_VBN by_IN TFNs_NNS ,_, shown_VBN in_IN Table_NNP 5_CD ._.
+Table_NNP 5_CD ._.
+Two_CD Projects_NNP Evaluated_NNP in_IN Two_CD Fuzzy_NNP Criteria_NNP Projects_NNPS PIN_NN -LRB-_-LRB- %_NN -RRB-_-RRB- EIN_NN -LRB-_-LRB- 0_CD --_: 10_CD -RRB-_-RRB- Proj1_NN -LRB-_-LRB- 40_CD ,_, 50_CD ,_, 60_CD -RRB-_-RRB- -LRB-_-LRB- 3.8_CD ,_, 4_CD ,_, 4.3_CD -RRB-_-RRB- Proj2_NN =_JJ -_: =[_NN 25_CD ,_, 28_CD ,_, 32_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 7_CD ,_, 8_CD ,_, 8.8_CD -RRB-_-RRB- A_DT first_JJ calculation_NN could_MD be_VB made_VBN using_VBG the_DT central_JJ α_NN =_JJ 1_CD scores_NNS ,_, i.e._FW ,_, Proj1_NN -LRB-_-LRB- 50_CD ;_: 4_CD -RRB-_-RRB- and_CC Proj2_NN -LRB-_-LRB- 28_CD ;_: 8_CD -RRB-_-RRB- ._.
+If_IN it_PRP is_VBZ decided_VBN to_TO consider_VB only_JJ data_NNS for_IN which_WDT MG_NN ≥_NN 0.5_CD ,_, the_DT α-cut_NN with_IN α_NN =_JJ 0.5_CD is_VBZ

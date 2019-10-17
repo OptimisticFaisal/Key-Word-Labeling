@@ -1,0 +1,4 @@
+he_PRP anonymization_NN function_NN g._VBP The_DT first_JJ sum_NN of_IN the_DT above_JJ expression_NN computes_VBZ penalties_NNS for_IN each_DT non-suppressed_JJ record_NN ,_, the_DT second_JJ for_IN suppressed_VBN records_NNS ._.
+The_DT second_JJ cost_NN metric_NN was_VBD proposed_VBN by_IN Iyengar_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT metric_NN can_MD be_VB applied_VBN when_WRB records_NNS are_VBP associated_VBN with_IN categorical_JJ class_NN labels_NNS ._.
+Thus_RB ,_, the_DT anonymization_NN can_MD produce_VB equivalence_JJ classes_NNS consist_VBP of_IN records_NNS that_WDT are_VBP uniform_JJ with_IN respect_NN to_TO the_DT

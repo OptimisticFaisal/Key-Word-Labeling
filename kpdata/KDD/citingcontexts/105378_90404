@@ -1,0 +1,3 @@
+of_IN the_DT inherent_JJ difficulty_NN of_IN the_DT itemset_NN generation_NN problem_NN in_IN terms_NNS of_IN computational_JJ complexity_NN ,_, considerable_JJ research_NN has_VBZ been_VBN devoted_VBN towards_IN finding_VBG faster_JJR methods_NNS for_IN generating_VBG large_JJ itemsets_NNS =_JJ -_: =[_NN 6_CD ,_, 7_CD ,_, 11_CD ,_, 14_CD ,_, 15_CD ,_, 17_CD ,_, 18_CD ,_, 26_CD ,_, 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT large_JJ itemset_NN problem_NN is_VBZ reasonably_RB well_RB solved_VBN at_IN least_JJS for_IN the_DT case_NN of_IN very_RB sparse_JJ sales_NNS transaction_NN data_NNS ,_, when_WRB the_DT pattern_NN lengths_NNS are_VBP short_JJ -LRB-_-LRB- 1_CD ,_, 6_CD -RRB-_-RRB- ._.
+An_DT interesting_JJ analysis_NN of_IN the_DT impact_NN of_IN d_NN

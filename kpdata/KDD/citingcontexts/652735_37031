@@ -1,0 +1,5 @@
+er_IN for_IN them_PRP ._.
+Since_IN web_NN search_NN sessions_NNS are_VBP typically_RB short_JJ ,_, a_DT significant_JJ portion_NN of_IN queries_NNS will_MD fall_VB into_IN this_DT cold-start_JJ situation_NN ._.
+1.1_CD Related_NNP Work_NNP There_EX have_VBP been_VBN numerous_JJ analyses_NNS of_IN query_NN logs_NNS =_JJ -_: =[_NN 1_CD ,_, 5_CD ,_, 15_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Much_RB has_VBZ been_VBN published_VBN with_IN relation_NN to_TO the_DT distribution_NN of_IN queries_NNS according_VBG to_TO aspects_NNS such_JJ as_IN query_NN length_NN and_CC query_NN frequency_NN -LRB-_-LRB- 13_CD ,_, 5_CD ,_, 6_CD -RRB-_-RRB- ,_, and_CC query_NN type_NN and_CC topicality_NN -LRB-_-LRB- 2_CD ,_, 15_CD -RRB-_-RRB- ._.
+Other_JJ work_NN has_VBZ f_SYM

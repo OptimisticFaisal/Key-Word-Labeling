@@ -1,0 +1,4 @@
+nd_NN orthologous_JJ protein_NN pairs_NNS ._.
+The_DT ROCR_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- package_NN for_IN the_DT statistical_JJ computing_NN environment_NN R_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- was_VBD used_VBN for_IN calculating_VBG receiver_NN operating_NN characteristics_NNS -LRB-_-LRB- ROC_NN -RRB-_-RRB- curves_NNS and_CC the_DT calibration_NN error_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: for_IN the_DT classification_NN task_NN ._.
+The_DT analysis_NN shows_VBZ that_IN the_DT rfunSim_NN score_NN achieves_VBZ a_DT better_JJR calibration_NN error_NN than_IN the_DT funSim_NN score_NN ._.
+The_DT detailed_JJ analysis_NN with_IN examples_NNS of_IN protein_NN pairs_NNS can_MD be_VB found_VBN in_IN

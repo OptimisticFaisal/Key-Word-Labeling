@@ -1,0 +1,4 @@
+e_LS target_NN of_IN authorship_NN identification_NN is_VBZ to_TO detect_VB the_DT author_NN of_IN a_DT given_VBN text_NN ._.
+Several_JJ techniques_NNS and_CC features_NNS have_VBP been_VBN used_VBN to_TO identify_VB authors_NNS in_IN various_JJ text_NN contexts_NNS ._.
+For_IN example_NN ,_, Argamon_NNP et_FW al._FW =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: utilized_VBN multiplicative_JJ learning_NN with_IN orthographic_JJ features_NNS to_TO identify_VB authors_NNS in_IN a_DT news_NN group_NN corpus_NN ._.
+In_IN a_DT similar_JJ corpus_NN ,_, De_NNP Vel_NNP -LRB-_-LRB- 7_CD -RRB-_-RRB- analyzed_VBN stylistics_NNS attributes_VBZ to_TO discover_VB forensics_NNS in_IN email_NN t_NN

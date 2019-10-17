@@ -1,0 +1,4 @@
+dom_NN walk_NN ,_, irregular_JJ memory_NN access_NN ,_, cache_NN performance_NN 1_CD ._.
+Introduction_NN Random_JJ walk_NN simulation_NN is_VBZ an_DT important_JJ ingredient_NN of_IN many_JJ scientific_JJ applications_NNS ._.
+It_PRP is_VBZ employed_VBN ,_, for_IN example_NN ,_, in_IN data_NNS clustering_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, image_NN segmentation_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, circuit_NN clustering_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, and_CC computation_NN of_IN different_JJ kinds_NNS of_IN data_NNS similarities_NNS and_CC scorings_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Usually_RB ,_, the_DT relationships_NNS between_IN the_DT data_NNS elements_NNS in_IN such_JJ applicatio_NN

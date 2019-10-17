@@ -1,0 +1,4 @@
+icating_VBG that_IN Web_NN search_NN is_VBZ quite_RB different_JJ from_IN search_NN on_IN TREC_NN data_NNS ._.
+Moreover_RB ,_, we_PRP adopt_VBP a_DT learning-to-rank_JJ approach_NN and_CC integrate_VB the_DT ranking_JJ principles_NNS into_IN a_DT state-of-the-art_JJ ranking_NN model_NN ,_, RankSVM_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, by_IN encoding_VBG the_DT context_NN information_NN as_IN features_NNS ._.
+We_PRP empirically_RB test_VBP our_PRP$ approach_NN using_VBG a_DT large_JJ search_NN log_NN data_NNS set_VBP obtained_VBN from_IN a_DT major_JJ commercial_JJ search_NN engine_NN ._.
+Our_PRP$ evaluation_NN uses_VBZ both_CC human_JJ jud_NN

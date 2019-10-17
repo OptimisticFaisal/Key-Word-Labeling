@@ -1,0 +1,4 @@
+t_NN network_NN intrusions_NNS ._.
+This_DT technique_NN extended_VBD the_DT network_NN traffic_NN model_NN to_TO include_VB a_DT larger_JJR number_NN of_IN attributes_NNS ._.
+They_PRP also_RB introduced_VBD and_CC used_VBD the_DT concept_NN of_IN a_DT non-stationary_JJ model_NN in_IN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 14_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN which_WDT the_DT probability_NN of_IN an_DT event_NN depends_VBZ upon_IN its_PRP$ most_RBS recent_JJ occurrence_NN and_CC not_RB on_IN the_DT frequency_NN ._.
+LERAD_NN is_VBZ a_DT conditional_JJ rule-learning_JJ algorithm_NN that_WDT selects_VBZ good_JJ rules_NNS from_IN a_DT vast_JJ rule_NN space_NN ._.

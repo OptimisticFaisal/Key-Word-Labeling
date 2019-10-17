@@ -1,0 +1,4 @@
+e_LS inverted_JJ index_NN that_WDT maps_VBZ each_DT dimension_NN to_TO a_DT list_NN of_IN data_NNS records_NNS having_VBG a_DT non-zero_JJ projection_NN along_IN that_DT dimension_NN ._.
+Existing_VBG solutions_NNS for_IN AP_NNP SS_NNP are_VBP all_DT limited_VBN to_TO serial_JJ algorithms_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+The_DT compute_VBP -_: and_CC dataintensive_JJ nature_NN of_IN AP_NNP SS_NNP is_VBZ a_DT rate_NN limiting_VBG factor_NN for_IN the_DT AP_NN SS_NN applicability_NN to_TO large-scale_JJ real-world_JJ problems_NNS and_CC calls_VBZ for_IN alternative_JJ approaches_NNS ._.
+Processor_NN cloc_NN

@@ -1,0 +1,4 @@
+ner_NN ._.
+We_PRP call_VBP this_DT technique_NN Co-Bootstrapping_NNP 6_CD -LRB-_-LRB- CB_NN -RRB-_-RRB- since_IN the_DT two_CD classifiers_NNS -LRB-_-LRB- F_NN F_NN -RRB-_-RRB- ∪_NN N_NN and_CC r_NN T_NN BN_NN N_NN -LRB-_-LRB- F_NN F_NN -RRB-_-RRB- ∪_NN collaborate_VBP to_TO bootstrap_VB themselves_PRP together_RB ._.
+M_NN 6_CD This_DT idea_NN is_VBZ named_VBN Cross-Training_NNP in_IN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+M_NN N_NN N_NN T_NN M_NN M_NN r_NN T_NN BM_NN T_NN NsBuild_NN classifier_NN B0_NN -LRB-_-LRB- FT_NNP -RRB-_-RRB- M_NN N_NN ,_, then_RB use_VB it_PRP to_TO predict_VB the_DT value_NN of_IN each_DT category-feature_FW f_FW each_DT object_NN in_IN ;_: i_FW ∈_FW F_NN Build_FW classifier_FW B0_NN -LRB-_-LRB- FT_NNP -RRB-_-RRB- N_NN ,_, then_RB use_VB it_PRP to_TO predict_VB the_DT v_LS

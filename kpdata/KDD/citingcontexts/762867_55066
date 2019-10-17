@@ -1,0 +1,5 @@
+high-level_JJ pseudo-code_NN for_IN the_DT complete_JJ algorithm_NN ._.
+The_DT algorithm_NN first_RB identifies_VBZ the_DT candidate_NN set_NN of_IN potential_JJ duplicates_NNS using_VBG a_DT `_`` blocking_VBG '_'' approach_NN -LRB-_-LRB- Hernández_NNP &_CC Stolfo_NNP ,_, 1995_CD ;_: Monge_NNP &_CC Elkan_NNP ,_, 1997_CD ;_: =_JJ -_: =_JJ McCallum_NNP ,_, Nigam_NNP ,_, &_CC Ungar_NNP ,_, 2000_CD -_: =--RRB-_NN ._.
+Next_RB ,_, it_PRP initializes_VBZ the_DT clusters_NNS 1_CD ._.
+Jaccard_NN similarity_NN for_IN two_CD sets_NNS A_NN and_CC B_NN is_VBZ defined_VBN as_IN Jaccard_NN -LRB-_-LRB- A_NN ,_, B_NN -RRB-_-RRB- =_JJ |_NN A_NNP ∩_NNP B_NNP |_NNP |_NNP A_NNP ∪_NNP B_NNP |_NNP 628sQuery-time_NNP Entity_NNP Resolution_NNP Algorithm_NNP RC-ER_NNP -LRB-_-LRB- Reference_NNP set_NN R_NN -RRB-_-RRB- 1_CD ._.
+Find_VB simi_NNS

@@ -1,0 +1,4 @@
+tion_NN and_CC little_JJ actual_JJ use_NN of_IN the_DT neighborhood_NN beyond_IN two_CD steps_NNS in_IN the_DT graph_NN ._.
+For_IN future_JJ work_NN we_PRP plan_VBP testing_VBG more_RBR complex_JJ multi-step_JJ variants_NNS of_IN cocitation_NN and_CC the_DT Jaccard_NNP coefficient_NN ._.
+Jeh_NN and_CC Widom_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: define_VB SimRank_NNP as_IN a_DT multi-step_JJ generalization_NN of_IN downweighted_JJ cocitation_NN ._.
+In_IN an_DT alternate_JJ formulation_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- the_DT k-step_NN SimRank_NN Sim_NN -LRB-_-LRB- k_NN -RRB-_-RRB- v1_NN ,_, v2_NN equals_VBZ the_DT total_JJ weight_NN of_IN pairs_NNS of_IN walks_VBZ with_IN length_NN k_NN ′_FW ≤_FW

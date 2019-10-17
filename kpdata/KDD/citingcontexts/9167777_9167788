@@ -1,0 +1,5 @@
+of_IN distinct_JJ items_NNS ;_: |_CD T_NN |_NN is_VBZ the_DT number_NN of_IN transactions_NNS ;_: |_NNP DB_NNP |_NNP is_VBZ the_DT size_NN of_IN thetransaction_NN databasein_NN terms_NNS of_IN thetotalitems_FW datasets_FW ._.
+The_DT real_JJ datasets_NNS are_VBP chess_NN ,_, mushroom_NN ,_, BMS-POS_NN and_CC BMS-WebView-1_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT synthetic_JJ datasets_NNS are_VBP T10I4D100K_NN and_CC T40I10D100K_NN ._.
+All_DT dataset_JJ information_NN are_VBP publicly_RB available_JJ at_IN the_DT FIMI_NNP repository_NN -LRB-_-LRB- http:\/\/fimi.cs.helsinki.fi\/_NN -RRB-_-RRB- ._.
+The_DT main_JJ characters_NNS of_IN thedatasets_NNS are_VBP sum_NN

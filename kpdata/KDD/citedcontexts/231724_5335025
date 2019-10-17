@@ -1,0 +1,6 @@
+te_IN the_DT effectiveness_NN of_IN our_PRP$ filtering_VBG strategy_NN ._.
+Finally_RB ,_, we_PRP conclude_VBP our_PRP$ work_NN and_CC discuss_VBP future_JJ directions_NNS ._.
+2_CD ._.
+Related_NNP Work_NNP Our_NNP work_NN is_VBZ primarily_RB motivated_VBN by_IN recent_JJ research_NN on_IN adversarial_JJ learning_NN =_JJ -_: =[_NN 4_CD ,_, 10_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Dalvi_NNP et_FW al._FW consider_VB classification_NN as_IN a_DT game_NN between_IN classifiers_NNS and_CC adversaries_NNS in_IN problem_NN domains_NNS where_WRB adversarial_JJ attacks_NNS are_VBP expected_VBN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+They_PRP model_VBP the_DT computation_NN of_IN the_DT adversary_NN 's_POS optima_NN

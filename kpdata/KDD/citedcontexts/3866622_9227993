@@ -1,0 +1,3 @@
+m._NN A_NN few_JJ supervised_JJ dimensionality_NN reduction_NN methods_NNS based_VBN on_IN exponential_JJ family_NN models_NNS have_VBP been_VBN proposed_VBN in_IN the_DT literature_NN ._.
+For_IN example_NN ,_, a_DT supervised_JJ probabilistic_JJ PCA_NN -LRB-_-LRB- SPPCA_NN -RRB-_-RRB- model_NN was_VBD proposed_VBN in_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+SPPCA_NN extends_VBZ probabilistic_JJ PCA_NN by_IN assuming_VBG that_IN both_DT features_NNS and_CC labels_NNS have_VBP Gaussian_JJ distributions_NNS and_CC are_VBP generated_VBN independently_RB from_IN the_DT latent_JJ low_JJ dimensional_JJ space_NN through_IN linear_JJ 1transform_NN

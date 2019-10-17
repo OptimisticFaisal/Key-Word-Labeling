@@ -1,0 +1,4 @@
+er_NN methods_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Wrapper_NN methods_NNS employ_VBP the_DT performance_NN of_IN a_DT specific_JJ learning_NN algorithm_NN -LRB-_-LRB- such_JJ as_IN C4_NN .5_CD or_CC an_DT instance_NN based_JJ approach_NN -RRB-_-RRB- to_TO select_JJ features_NNS ._.
+A_DT straight-forward_JJ example_NN of_IN this_DT is_VBZ given_VBN in_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, where_WRB the_DT performance_NN of_IN a_DT simple_JJ decision_NN table_NN is_VBZ used_VBN to_TO judge_VB the_DT quality_NN of_IN a_DT particular_JJ feature_NN subset_NN ._.
+Filter_NNP methods_NNS on_IN the_DT other_JJ hand_NN select_JJ feature_NN subsets_NNS on_IN the_DT basis_NN of_IN quality_NN

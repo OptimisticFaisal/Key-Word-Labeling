@@ -1,0 +1,5 @@
+the_DT relative_JJ errors_NNS ._.
+11_CD Stock_NNP Market_NNP Prices_NNS and_CC Segmentation_NNP Creating_NNP ,_, searching_VBG and_CC identifying_VBG stock_NN market_NN patterns_NNS is_VBZ sometimes_RB done_VBN using_VBG segmentation_NN algorithms_NNS -LRB-_-LRB- 48_CD -RRB-_-RRB- ._.
+Keogh_NNP and_CC Kasetty_NNP suggest_VBP =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: that_IN stock_NN market_NN data_NNS is_VBZ indistinguishable_JJ from_IN random_JJ walks_VBZ ._.
+If_IN so_RB ,_, the_DT good_JJ results_NNS from_IN the_DT previous_JJ section_NN should_MD carry_VB over_RP ._.
+However_RB ,_, the_DT random_JJ walk_NN model_NN has_VBZ been_VBN strongly_RB rejected_VBN using_VBG var_NN

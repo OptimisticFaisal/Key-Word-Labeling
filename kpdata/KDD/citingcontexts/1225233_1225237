@@ -1,0 +1,4 @@
+een_NN used_VBD much_JJ to_TO present_VB probabilistic_JJ classification_NN models_NNS in_IN ,_, for_IN instance_NN ,_, clinical_JJ medicine_NN and_CC oncology_NN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 15_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+A_DT naïve_JJ Bayesian_JJ classifier_NN can_MD too_RB be_VB visualized_VBN in_IN the_DT form_NN of_IN a_DT nomogram_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT nomograms_NNS for_IN support_NN vector_NN machines_NNS that_WDT we_VBP inFigure_NN 1_CD :_: A_DT nomogram_NN of_IN the_DT SVM_NNP model_NN that_WDT predicts_VBZ the_DT probability_NN of_IN costly_JJ housing_NN in_IN a_DT given_VBN Boston_NNP area_NN ._.
+The_DT dots_NNS illustrate_VBP the_DT classificat_NN

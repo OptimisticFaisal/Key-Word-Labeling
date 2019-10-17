@@ -1,0 +1,3 @@
+zing_VB each_DT point_NN to_TO be_VB its_PRP$ own_JJ lane_NN ,_, then_RB merging_VBG lanes_NNS where_WRB a_DT point_NN from_IN one_CD lane_NN is_VBZ within_IN half_PDT a_DT lane_NN of_IN a_DT point_NN from_IN the_DT other_JJ ._.
+This_DT algorithm_NN is_VBZ similar_JJ to_TO hierarchical_JJ agglomerative_JJ clustering_NN -LRB-_-LRB- =_JJ -_: =_JJ Hartigan_NNP ,_, 1975_CD -_: =--RRB-_NN ,_, but_CC it_PRP represents_VBZ the_DT clusters_NNS by_IN their_PRP$ constituent_NN points_NNS instead_RB of_IN a_DT statistical_JJ average_NN ._.
+However_RB ,_, this_DT algorithm_NN does_VBZ not_RB take_VB advantage_NN of_IN the_DT knowledge_NN that_IN lanes_NNS are_VBP constrained_VBN to_TO be_VB parall_NN

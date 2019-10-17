@@ -1,0 +1,7 @@
+e_LS root_NN node_NN n2_NN ._.
+We_PRP have_VBP also_RB verified_VBN that_IN reweighting_VBG the_DT adjacency_NN matrix_NN with_IN tf_NN ._.
+idf_NN does_VBZ not_RB solve_VB the_DT problem_NN either_RB ._.
+4.2_CD Extension_NNP with_IN the_DT graph_NN Laplacian_NN We_PRP propose_VBP to_TO use_VB the_DT graph_NN Laplacian_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: to_TO overcome_VB the_DT limitations_NNS of_IN Section_NN 4.1_CD ._.
+n3s-1_NN -2_CD -3_CD -2_CD n2_NN n3_NN n1_NN n4_NN 1_CD 2_CD 1_CD n5_NN n6_NN n7_NN n8_NN Fig._NNP 3_CD ._.
+Graph_NN induced_VBN by_IN the_DT negative_NN of_IN the_DT Laplacian_NN of_IN the_DT graph_NN of_IN Fig._NNP 1_CD -LRB-_-LRB- c_NN -RRB-_-RRB- ._.
+Definition_NN 4_CD Let_NNP G_NNP be_VB an_DT und_NN

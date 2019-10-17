@@ -1,0 +1,5 @@
+essed_VBN :_: Shu_NNP Wang_NNP ,_, e-mail_JJ :_: swang5@ece.utexas.edu_NN objects_NNS and_CC the_DT columns_NNS correspond_VBP to_TO their_PRP$ features\/attributes_NNS ._.
+Biclustering_VBG clusters_NNS both_CC rows_NNS and_CC columns_NNS simultaneously_RB -LRB-_-LRB- Madeira_NNP and_CC Oliveira_NNP ,_, 2000_CD ;_: =_JJ -_: =_JJ Dhillon_NNP ,_, 2001_CD -_: =_JJ -_: ,_, Barkow_NNP et_NNP ._.
+al._FW ,_, 2006_CD -RRB-_-RRB- ._.
+In_IN biclustering_NN ,_, each_DT object_NN in_IN a_DT cluster_NN is_VBZ selected_VBN only_RB using_VBG a_DT subset_NN of_IN features_NNS and_CC each_DT feature_NN in_IN a_DT cluster_NN is_VBZ selected_VBN only_RB using_VBG a_DT subset_NN of_IN objects_NNS ._.
+In_IN this_DT way_NN ,_, it_PRP

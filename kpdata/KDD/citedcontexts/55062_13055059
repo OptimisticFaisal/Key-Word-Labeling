@@ -1,0 +1,4 @@
+thm_NN and_CC noise-free_JJ data_NNS ._.
+A_DT number_NN of_IN variations_NNS to_TO the_DT original_JJ QBC_NN algorithm_NN have_VBP been_VBN proposed_VBN ,_, such_JJ as_IN the_DT Query_NNP by_IN Bagging_NNP and_CC Query_NNP by_IN Boosting_VBG algorithm_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- and_CC the_DT adaptive_JJ resampling_NN approach_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Active_JJ learning_NN has_VBZ also_RB been_VBN applied_VBN in_IN the_DT multi-view_JJ setting_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+In_IN the_DT multi-view_JJ problem_NN ,_, features_NNS can_MD be_VB partitioned_VBN into_IN subsets_NNS each_DT of_IN which_WDT is_VBZ sufficient_JJ for_IN learning_VBG the_DT mapping_NN from_IN th_DT

@@ -1,0 +1,3 @@
+k_NN on_IN the_DT bipartite_JJ graph_NN ,_, which_WDT demonstrates_VBZ certain_JJ advantages_NNS comparing_VBG with_IN the_DT traditional_JJ approaches_NNS based_VBN on_IN the_DT content_NN information_NN ._.
+Many_JJ link_NN analysis_NN methods_NNS have_VBP been_VBN proposed_VBN ,_, such_JJ as_IN HITS_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: and_CC PageRank_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, to_TO capture_VB some_DT semantic_JJ relations_NNS within_IN the_DT bipartite_JJ graph_NN ._.
+The_DT problem_NN we_PRP address_VBP is_VBZ how_WRB to_TO utilize_VB and_CC leverage_NN both_CC the_DT graph_NN and_CC content_NN information_NN ,_, so_RB as_IN to_TO improve_VB the_DT pre_JJ

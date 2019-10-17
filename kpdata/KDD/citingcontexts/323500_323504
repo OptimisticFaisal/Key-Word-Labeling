@@ -1,0 +1,4 @@
+ethod_NN is_VBZ the_DT basis_NN of_IN techniques_NNS for_IN featurizing_VBG documents_NNS by_IN generating_VBG clusters_NNS of_IN related_JJ words_NNS ,_, and_CC versions_NNS of_IN it_PRP are_VBP used_VBN in_IN text_NN mining_NN ._.
+We_PRP also_RB encoded_VBD the_DT factorial_JJ Gaussian_JJ mixture_NN model_NN of_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT uses_VBZ multiple_JJ hidden_JJ variables_NNS to_TO capture_VB di_FW erent_FW hidden_JJ causes_NNS ._.
+This_DT is_VBZ a_DT more_RBR complex_JJ model_NN that_WDT may_MD beimportant_VB for_IN analyzing_VBG image_NN data_NNS ._.
+We_PRP modeled_VBD the_DT E-step_NN via_IN a_DT combinatorial_JJ exact_JJ com_NN

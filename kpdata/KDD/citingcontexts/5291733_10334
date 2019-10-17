@@ -1,0 +1,4 @@
+r_NN components_NNS ._.
+This_DT allows_VBZ us_PRP to_TO decompose_VB the_DT original_JJ high_JJ dimensional_JJ space_NN into_IN signal_NN and_CC noise_NN subspaces_NNS ._.
+Two_CD important_JJ statistics_NNS ,_, the_DT Hotelling_NN T_NN 2_CD score_NN and_CC the_DT squared_VBN prediction_NN error_NN -LRB-_-LRB- SPE_NN -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, are_VBP computed_VBN to_TO represent_VB the_DT characteristics_NNS of_IN data_NNS distribution_NN in_IN the_DT two_CD subspaces_NNS ._.
+An_DT online_JJ tracking_NN algorithm_NN ,_, called_VBN sequentially_RB discounting_VBG expectation_NN maximization_NN -LRB-_-LRB- SDEM_NN -RRB-_-RRB- algorithm_NN ,_, is_VBZ e_SYM

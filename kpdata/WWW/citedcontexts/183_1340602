@@ -1,0 +1,4 @@
+a_DT practical_JJ file_NN exchange_NN protocol_NN ,_, additional_JJ security_NN mechanisms_NNS may_MD be_VB added_VBN to_TO ensure_VB the_DT integrity_NN of_IN the_DT files_NNS being_VBG exchanged_VBN ._.
+Apart_RB from_IN files_NNS authentication_NN ,_, reputation_NN management_NN algorithms_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: can_MD also_RB be_VB used_VBN to_TO dissuade_VB nodes_NNS from_IN misbehavior_NN ._.
+The_DT proposed_VBN content_NN distribution_NN network_NN admits_VBZ a_DT number_NN of_IN performance_NN metrics_NNS to_TO describe_VB how_WRB quickly_RB files_NNS are_VBP disseminated_VBN ._.
+We_PRP define_VBP T1_NN as_IN t_NN

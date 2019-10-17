@@ -1,0 +1,7 @@
+ig_NN ._.
+2_CD ._.
+Accumulating_VBG the_DT meta-data_NN of_IN all_DT Web_NN pages_NNS in_IN the_DT KB_NN of_IN the_DT Web_NN application_NN ._.
+means_VBZ we_PRP have_VBP to_TO store_VB the_DT origin_NN information_NN of_IN each_DT RDF_NNP statement_NN in_IN the_DT KB_NN ._.
+This_DT is_VBZ done_VBN using_VBG RDF_NNP named_VBN graphs_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Content_NNP Change_NNP Handling_NNP :_: When_WRB an_DT editor_NN changes_VBZ the_DT content_NN of_IN a_DT Web_NN page_NN ,_, he_PRP typically_RB browses_VBZ to_TO the_DT page_NN and_CC check_NN for_IN the_DT correct_JJ presentation_NN of_IN the_DT changes_NNS ._.
+In_IN this_DT case_NN ,_, the_DT RDF_NNP meta-data_NN is_VBZ

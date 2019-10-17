@@ -1,0 +1,6 @@
+ntropy_JJ threshold_NN ɛ_NN ,_, an_DT itemset_NN X_NN is_VBZ a_DT low-entropy_JJ set_NN in_IN D_NN if_IN H_NN -LRB-_-LRB- X_NN -RRB-_-RRB- ≤_FW ɛ_FW ._.
+Low-entropy_JJ sets_NNS have_VBP a_DT monotonicity_NN property_NN like_IN that_DT of_IN frequent_JJ itemsets_NNS ,_, which_WDT allows_VBZ us_PRP to_TO use_VB e.g._FW the_DT levelwise_NN search_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: to_TO find_VB low-entropy_JJ sets_NNS ._.
+Proposition_NN 2_CD ._.
+For_IN all_DT datasets_NNS D_NNP ,_, for_IN all_PDT A_DT ∈_NN X_NN and_CC X_NN =_JJ ∅_CD ._.
+H_NN -LRB-_-LRB- X_NN -RRB-_-RRB- ≥_NN H_NN -LRB-_-LRB- X_NN \_NN A_NN -RRB-_-RRB- Proof_NNP ._.
+H_NN -LRB-_-LRB- X_NN -RRB-_-RRB- =_JJ H_NN -LRB-_-LRB- X_NN \_NN A_NN -RRB-_-RRB- +_CC H_NN -LRB-_-LRB- A_NN |_NN X_NN \_NN A_NN -RRB-_-RRB- ≥_NN H_NN -LRB-_-LRB- X_NN \_NN A_NN -RRB-_-RRB- with_IN equality_NN holding_VBG only_RB when_WRB H_NN -LRB-_-LRB- A_NN |_NN X_NN

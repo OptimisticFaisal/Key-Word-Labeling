@@ -1,0 +1,4 @@
+t_NN and_CC combine_VB models_NNS ._.
+At_IN its_PRP$ core_NN ,_, DEA_NNP addresses_VBZ the_DT key_JJ issue_NN of_IN determining_VBG the_DT efficiencies_NNS of_IN various_JJ producers_NNS or_CC DMUs_NNS -LRB-_-LRB- Decision_NN Making_VBG Units_NNS -RRB-_-RRB- in_IN converting_VBG a_DT set_NN of_IN inputs_NNS into_IN a_DT set_NN of_IN outputs_NNS =_JJ -_: =[_NN 2_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Each_DT DMU_NNP corresponds_VBZ to_TO a_DT data_NN point_NN ,_, the_DT attributes_NNS of_IN which_WDT can_MD be_VB partitioned_VBN into_IN inputs_NNS and_CC outputs_NNS ._.
+DEA_NNP uses_VBZ a_DT linear_JJ programming_NN approach_NN to_TO determine_VB how_WRB efficient_JJ each_DT DMU_NNP is_VBZ in_IN converting_VBG

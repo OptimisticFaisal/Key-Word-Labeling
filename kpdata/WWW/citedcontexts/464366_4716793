@@ -1,0 +1,3 @@
+ems_NN is_VBZ active_JJ in_IN all_DT cases_NNS ,_, our_PRP$ query_JJ result_NN caching_NN is_VBZ activated_VBN only_RB under_IN heavy_JJ load_NN ,_, which_WDT minimizes_VBZ the_DT effect_NN of_IN caching_NN on_IN consistency_NN while_IN improving_VBG the_DT system_NN scalability_NN ._.
+Replication_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT widely_RB used_VBN mechanism_NN for_IN database_NN scalability_NN ._.
+Our_PRP$ current_JJ prototype_NN uses_VBZ a_DT single_JJ backend_JJ database_NN server_NN ,_, which_WDT can_MD be_VB extended_VBN to_TO support_VB distributed_VBN database_NN servers_NNS by_IN incorporating_VBG databa_NN

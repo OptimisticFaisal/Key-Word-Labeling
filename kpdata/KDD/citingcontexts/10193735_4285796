@@ -1,0 +1,4 @@
+ferent_JJ number_NN of_IN iterations_NNS ,_, and_CC varied_JJ sizes_NNS of_IN labeled_JJ target-domain_JJ data_NNS ._.
+4.1_CD Data_NNP Set_NNP and_CC Experiment_NNP Setting_NNP As_IN summarized_VBN in_IN Table_NNP 2_CD ,_, the_DT data_NNS collections_NNS involved_VBN in_IN our_PRP$ study_NN are_VBP Reuters-21578_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, 20-Newsgroups_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- and_CC SyskillWebert_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Among_IN them_PRP ,_, Reuters-21578_NN and_CC 20-Newsgroups_NNS are_VBP the_DT benchmarks_NNS of_IN text_NN categorization_NN ,_, and_CC SyskillWebert_NNP is_VBZ the_DT standard_NN used_VBN to_TO test_VB web_NN page_NN ratings_NNS ._.
+The_DT i_LS

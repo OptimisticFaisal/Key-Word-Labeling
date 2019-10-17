@@ -1,0 +1,3 @@
+mic_JJ data_NNS mining_NN applications_NNS ._.
+Text_NN classification_NN has_VBZ been_VBN explored_VBN for_IN two_CD decades_NNS at_IN least_JJS -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, and_CC machine_NN learning_NN techniques_NNS have_VBP proved_VBN successful_JJ for_IN a_DT variety_NN of_IN text_NN classification_NN scenarios_NNS =_JJ -_: =[_NN 10_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX are_VBP four_CD possible_JJ text_NN classification_NN setups_NNS :_: •_FW Eager_FW learning_NN from_IN labeled_JJ documents_NNS --_: the_DT most_RBS common_JJ setup_NN ,_, in_IN which_WDT a_DT generic_JJ machine_NN learning_NN classifier_NN is_VBZ trained_VBN on_IN a_DT set_NN of_IN labeled_JJ docum_NN

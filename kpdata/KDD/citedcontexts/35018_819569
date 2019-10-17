@@ -1,0 +1,5 @@
+n_NN of_IN errors_NNS ._.
+This_DT leads_VBZ to_TO a_DT very_RB appealing_JJ concept_NN that_IN we_PRP call_VBP ɛ-approximate_NN frequency_NN :_: let_VB d_NN =_JJ |_CD I_NN |_NN and_CC c_NN =_JJ ⌊_CD -LRB-_-LRB- 1_CD −_FW ɛ_FW -RRB-_-RRB- d_FW ⌋_FW ,_, and_CC define_VB d_NN fɛ_NN -LRB-_-LRB- I_NN -RRB-_-RRB- =_JJ iν_NN -LRB-_-LRB- I_NN -RRB-_-RRB- ._.
+ν_NN =_JJ c_NN This_DT definition_NN has_VBZ been_VBN used_VBN by_IN Yang_NNP et_FW al._FW =_SYM -_: =_JJ -LRB-_-LRB- YFB01_NN -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN whose_WP$ terminology_NN an_DT ɛ-approximately_RB frequent_JJ itemset_NN would_MD be_VB called_VBN a_DT ``_`` strong_JJ error-tolerant_JJ itemset_NN ''_'' ,_, or_CC strong_JJ eti_NN for_IN short_JJ ._.
+This_DT approach_NN also_RB has_VBZ at_IN least_JJS two_CD problems_NNS ._.
+First_RB ,_, it_PRP admits_VBZ ``_`` f_SYM

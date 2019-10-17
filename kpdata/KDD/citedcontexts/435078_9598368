@@ -1,0 +1,4 @@
+lusters_NNS in_IN the_DT dendrogram_NN -LRB-_-LRB- Tibshirani_NNP ,_, Walther_NNP ,_, and_CC Hastie_NNP ,_, 2001_CD -RRB-_-RRB- ._.
+Recently_RB ,_, hybrid_NN methods_NNS have_VBP been_VBN experimented_VBN ,_, using_VBG the_DT output_NN generated_VBN from_IN one_CD clustering_NN algorithm_NN to_TO initialize_VB another_DT one_CD -LRB-_-LRB- =_JJ -_: =_JJ Surdeanu_NNP ,_, Turmo_NNP ,_, and_CC Ageno_NNP ,_, 2005_CD -_: =--RRB-_NN ._.
+However_RB ,_, each_DT proposed_VBN algorithm_NN has_VBZ an_DT intrinsic_JJ and_CC particular_JJ bias_NN ,_, uses_VBZ a_DT certain_JJ document_NN representation_NN ,_, and_CC depends_VBZ on_IN a_DT different_JJ document_NN similarity_NN measure_NN ._.
+All_DT these_DT assumptions_NNS lead_VBP the_DT

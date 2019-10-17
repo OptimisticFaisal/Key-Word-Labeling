@@ -1,0 +1,6 @@
+n_NN the_DT network_NN instead_RB ,_, see_VB -LRB-_-LRB- 15_CD ,_, Chap_NNP ._.
+3_CD ,_, Sect_NNP ._.
+4_LS -RRB-_-RRB- for_IN details_NNS ._.
+sAs_VBZ a_DT method_NN of_IN scoring_VBG network_NN structures_NNS we_PRP used_VBD the_DT natural_JJ logarithm_NN of_IN the_DT probability_NN of_IN the_DT structure_NN conditioned_VBN on_IN the_DT data_NNS ,_, see_VBP =_JJ -_: =[_NN 10_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: for_IN details_NNS on_IN computing_VBG the_DT score_NN ._.
+The_DT modified_VBN network_NN structure_NN had_VBD the_DT score_NN of_IN −_NN 7162.71_CD which_WDT is_VBZ better_JJR than_IN that_DT of_IN the_DT original_JJ network_NN :_: −_NN 7356.68_CD ._.
+With_IN the_DT modified_VBN structure_NN ,_, the_DT most_JJS interes_NNS

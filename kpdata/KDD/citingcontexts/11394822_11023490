@@ -1,0 +1,4 @@
+of_IN users_NNS ._.
+For_IN example_NN ,_, De_NNP Choudhury_NNP et_FW al._FW use_VBP an_DT inferred_VBN social_JJ network_NN constructed_VBN from_IN email_JJ interactions_NNS to_TO assign_VB roles_NNS to_TO the_DT various_JJ participants_NNS ,_, such_JJ as_IN ''_'' student_NN ''_'' ,_, ''_'' faculty_NN ''_'' ,_, or_CC ''_'' director_NN ''_'' =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP use_VBP email_JJ frequency_NN to_TO filter_NN noisy_JJ and_CC potentially_RB spurious_JJ edges_NNS from_IN the_DT graph_NN ._.
+6.2_CD Tie-Strength_JJ Prediction_NN Another_DT body_NN of_IN related_JJ work_NN has_VBZ explored_VBN the_DT use_NN of_IN interactions_NNS as_IN a_DT signal_NN for_IN

@@ -1,0 +1,4 @@
+scatenated_VBN sentence_NN ,_, can_MD be_VB quite_RB long_JJ and_CC cumbersome_JJ to_TO read_VB through_IN ._.
+One_CD potential_JJ solution_NN to_TO ease_VB this_DT problem_NN is_VBZ to_TO use_VB a_DT ranking_JJ metric_NN when_WRB displaying_VBG the_DT relations_NNS in_IN the_DT NL_NN generated_VBD format_NN ._.
+=_SYM -_: =[_NN 4_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP relationship-ranking_JJ metrics_NNS that_WDT could_MD potentially_RB be_VB used_VBN to_TO filter_NN irrelevant_JJ relations_NNS ,_, thus_RB presenting_VBG the_DT user_NN with_IN a_DT smaller_JJR NL_NN paraphrase_NN ._.
+An_DT additional_JJ solution_NN to_TO this_DT problem_NN we_PRP wo_MD

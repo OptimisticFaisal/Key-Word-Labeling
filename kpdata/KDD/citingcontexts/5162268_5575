@@ -1,0 +1,6 @@
+same_JJ with_IN probability_NN 0.8_CD ,_, otherwise_RB it_PRP is_VBZ randomly_RB assigned_VBN to_TO an_DT incorrect_JJ value_NN ._.
+The_DT other_JJ attributes_NNS are_VBP unchanged_JJ ._.
+In_IN each_DT experiment_NN ,_, we_PRP used_VBD C4_NN .5_NN with_IN default_NN options_NNS given_VBN in_IN the_DT Weka_NNP package_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Before_IN running_VBG the_DT experiments_NNS ,_, we_PRP filtered_VBD the_DT instances_NNS with_IN unknown_JJ attributes_NNS from_IN the_DT training_NN data_NN set_NN ._.
+Ten-fold_JJ cross_NN validation_NN was_VBD used_VBN in_IN reporting_VBG each_DT result_NN ._.
+Most_JJS of_IN the_DT experiments_NNS loo_NN

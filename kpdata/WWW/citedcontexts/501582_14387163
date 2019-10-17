@@ -1,0 +1,5 @@
+ambiguous_JJ -LRB-_-LRB- contain_VBP more_JJR than_IN one_CD spike_NN -RRB-_-RRB- ._.
+They_PRP further_RB showed_VBD that_IN query_NN profiles_NNS were_VBD related_JJ to_TO search_NN performance_NN ,_, with_IN atemporal_JJ queries_NNS being_VBG associated_VBN with_IN lower_JJR average_JJ precision_NN ._.
+Some_DT studies_NNS =_JJ -_: =[_NN 5_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: used_VBN temporal_JJ patterns_NNS of_IN queries_NNS to_TO identify_VB similar_JJ queries_NNS or_CC words_NNS ._.
+Shokouhi_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- identified_VBD seasonal_JJ queries_NNS using_VBG time-series_JJ analysis_NN ._.
+Kulkarni_NNP et_FW al._FW -LRB-_-LRB- 14_CD -RRB-_-RRB- explored_VBD how_WRB queries_NNS ,_, their_PRP$ associat_NN

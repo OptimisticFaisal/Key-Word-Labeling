@@ -1,0 +1,3 @@
+ork_NN on_IN query_NN recommendation_NN and_CC query_NN clustering_NN has_VBZ considered_VBN the_DT input_NN data_NNS in_IN web_NN search_NN as_IN a_DT bipartite_JJ click_VBP graph_NN of_IN queries_NNS and_CC documents_NNS with_IN edges_NNS that_WDT correspond_VBP to_TO click_VB information_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 3_CD ,_, 18_CD ,_, 9_CD ,_, 10_CD ,_, 2_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Viewed_VBN as_IN a_DT random_JJ walk_NN on_IN a_DT bipartite_JJ graph_NN ,_, our_PRP$ method_NN enables_VBZ walks_VBZ of_IN 3-step_JJ transitions_NNS for_IN query_NN suggestions_NNS and_CC 4-step_JJ transitions_NNS for_IN query-ad_JJ response_NN prediction_NN ._.
+As_IN found_VBN in_IN prior_JJ work_NN ,_, l_NN

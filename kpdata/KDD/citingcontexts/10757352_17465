@@ -1,0 +1,4 @@
+ies_NNS are_VBP unlabeled_JJ ._.
+This_DT allows_VBZ us_PRP to_TO explore_VB semisupervised_JJ modeling_NN techniques_NNS such_JJ as_IN EM_NN ,_, Co-training_NN ,_, transductive_JJ SVMs_NNS ,_, and_CC graph-based_JJ methods_NNS ._.
+We_PRP did_VBD initial_JJ experiments_NNS using_VBG transductive_JJ SVMs_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: but_CC the_DT size_NN of_IN our_PRP$ unlabeled_JJ data_NNS made_VBD the_DT run-time_NN of_IN the_DT system_NN impractical_JJ ._.
+An_DT interesting_JJ future_JJ work_NN for_IN us_PRP is_VBZ to_TO intelligently_RB sample_NN the_DT unlabeled_JJ data_NNS and_CC then_RB use_VB the_DT transductive_JJ learning_NN

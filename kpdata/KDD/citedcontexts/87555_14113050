@@ -1,0 +1,4 @@
+hes_NNS ,_, a_DT relation_NN on_IN the_DT order_NN of_IN 500:1_CD ,_, which_WDT is_VBZ a_DT significant_JJ problem_NN for_IN the_DT learning_NN stage_NN of_IN the_DT classifier_NN ._.
+Three_CD techniques_NNS were_VBD considered_VBN to_TO overcome_VB this_DT shortcoming_NN ._.
+The_DT approach_NN of_IN Domingos_NNP =_SYM -_: =[_NN 37_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ called_VBN MetaCost_NNP ,_, and_CC it_PRP consists_VBZ of_IN combining_VBG several_JJ instances_NNS of_IN the_DT classifier_NN instead_RB of_IN stratification_NN -LRB-_-LRB- modify_VB the_DT proportion_NN of_IN classes_NNS in_IN the_DT training_NN data_NNS according_VBG to_TO the_DT costs_NNS -RRB-_-RRB- ._.
+This_DT met_VBD

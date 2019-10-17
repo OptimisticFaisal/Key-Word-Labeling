@@ -1,0 +1,4 @@
+de_IN c_NN je_FW průměrný_FW počet_FW různých_FW termů_FW v_LS dokumentu_NN ._.
+Proto_FW byly_FW hledány_NN rychlejší_NN metody_NN ,_, které_VBN by_IN dosahovaly_JJ podobných_NN výsledků_NN za_NN cenu_NN horší_NN chyby_NN aproximace_NN ._.
+Jednou_NNP z_SYM těchto_FW metod_FW je_FW náhodná_FW projekce_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, která_FW při_FW dostatečně_FW vysoké_FW redukované_FW dimenzi_FW d_NN ,_, d_FW <<_FW n_NN dobře_NN zachovává_NN vzdálenosti_VBD a_DT úhly_JJ mezi_NN vektory_NN ._.
+Náhodná_FW projekce_FW je_FW založena_FW na_TO násobení_FW matice_FW termů_FW v_LS dokumentech_FW maticí_FW náhodné_NN projekce_NN

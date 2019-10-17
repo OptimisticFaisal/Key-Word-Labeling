@@ -1,0 +1,11 @@
+the_DT PAC-MDL_NN bound_VBD -LRB-_-LRB- 3_CD -RRB-_-RRB- on_IN the_DT accuracy_NN of_IN a_DT test_NN set_NN ._.
+Our_PRP$ proposed_VBN criterion_NN has_VBZ several_JJ natural_JJ properties_NNS :_: 1_CD ._.
+It_PRP applies_VBZ to_TO every_DT clustering_NN algorithm_NN ._.
+2_CD ._.
+It_PRP is_VBZ inherently_RB normalized_VBN to_TO the_DT interval_NN =_JJ -_: =[_NN 0_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3_LS ._.
+All_DT possible_JJ values_NNS are_VBP exercised_VBN on_IN natural_JJ datasets_NNS ._.
+4_LS ._.
+The_DT metric_NN can_MD flexibly_RB incorporate_VB prior_JJ information_NN by_IN proper_JJ design_NN of_IN a_DT description_NN language_NN ._.
+5_CD ._.
+It_PRP can_MD be_VB used_VBN for_IN model_NN selection_NN ._.

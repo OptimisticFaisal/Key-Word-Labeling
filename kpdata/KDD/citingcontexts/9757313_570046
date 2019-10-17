@@ -1,0 +1,4 @@
+work_NN ._.
+Maintaining_VBG these_DT indexes_NNS in_IN memory_NN demands_NNS that_IN the_DT underlying_JJ graph_NN be_VB stored_VBN in_IN a_DT compressed_VBN form_NN that_WDT facilitates_VBZ efficient_JJ adjacency_NN queries_NNS ._.
+Secondly_RB ,_, there_EX is_VBZ a_DT wealth_NN of_IN evidence_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =--RRB-_NN that_IN social_JJ networks_NNS are_VBP not_RB random_JJ graphs_NNS in_IN the_DT usual_JJ sense_NN :_: they_PRP exhibit_VBP certain_JJ distinctive_JJ local_JJ characteristics_NNS -LRB-_-LRB- such_JJ as_IN degree_NN sequences_NNS -RRB-_-RRB- ._.
+Studying_VBG the_DT compressibility_NN of_IN a_DT social_JJ network_NN is_VBZ

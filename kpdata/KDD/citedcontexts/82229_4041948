@@ -1,0 +1,3 @@
+ing_VB our_PRP$ technique_NN particularly_RB useful_JJ for_IN similarity_NN search_NN operations_NNS ._.
+Additionally_RB ,_, classification_NN using_VBG the_DT Nearest-Neighbor_NNP rule_NN ,_, possibly_RB the_DT most_RBS widely_RB used_VBN classifier_NN in_IN the_DT mining_NN literature_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, will_MD also_RB not_RB be_VB impacted_VBN ._.
+The_DT 1-nearest-neighbor_JJ classifier_NN is_VBZ a_DT simple_JJ but_CC surprisingly_RB effective_JJ classification_NN scheme_NN which_WDT learns_VBZ the_DT class_NN of_IN an_DT object_NN by_IN examining_VBG the_DT class_NN labels_NNS of_IN its_PRP$ clo_NN

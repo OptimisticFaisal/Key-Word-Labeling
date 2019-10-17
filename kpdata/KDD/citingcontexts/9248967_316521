@@ -1,0 +1,4 @@
+orm_NN ,_, of_IN the_DT error_NN matrix_NN A_NNP −_NNP PCA_NNP ._.
+Third_RB ,_, these_DT algorithms_NNS provide_VBP a_DT strong_JJ tradeoff_NN between_IN the_DT number_NN of_IN selected_VBN columns_NNS -LRB-_-LRB- which_WDT is_VBZ always_RB more_JJR than_IN k_NN -RRB-_-RRB- and_CC the_DT desired_VBN accuracy_NN of_IN approximation_NN ._.
+See_VB =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: and_CC references_NNS therein_RB for_IN details_NNS ._.
+The_DT strongest_JJS such_JJ result_NN states_NNS that_IN there_EX exists_VBZ an_DT algorithm_NN running_VBG in_IN O_NN -LRB-_-LRB- min_NN -LCB-_-LRB- mn_NN 2_CD ,_, m_NN 2_CD n_NN -RCB-_-RRB- -RRB-_-RRB- time_NN such_JJ that_IN ‖_NN A_NN −_FW PCA_FW ‖_FW F_NN ≤_NN -LRB-_-LRB- 1_CD +_CC ɛ_NN -RRB-_-RRB- ‖_NN A_NN −_FW Ak_FW ‖_FW F_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- holds_VBZ with_IN prob_NN

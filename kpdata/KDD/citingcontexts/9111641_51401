@@ -1,0 +1,4 @@
+Dx_NN =_JJ xT_NN -LRB-_-LRB- -LRB-_-LRB- D_NN −_NN W_NN -RRB-_-RRB- +_CC λ_NN -LRB-_-LRB- Ds_NNS −_FW Ws_FW -RRB-_-RRB- -RRB-_-RRB- x_NN xT_NN +_CC β_FW |_FW |_FW U_NN Dx_NN T_NN x_NN |_FW |_FW 2_CD ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- The_DT similarity_NN matrix_NN is_VBZ thus_RB modified_VBN by_IN amplifying_VBG the_DT similarity_NN inside_IN the_DT test_NN data_NNS submatrix_NN ._.
+In_IN the_DT interpretation_NN through_IN random_JJ walk_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_JJ -_: ,_, this_DT modification_NN can_MD be_VB seen_VBN as_IN increasing_VBG the_DT transition_NN probability_NN inside_IN the_DT test_NN data_NNS ._.
+Replacing_VBG y_NN T_NN =_JJ x_NN T_NN D_NN 1\/2_CD \/_: |_FW |_FW x_NN T_NN D_NN 1\/2_CD |_FW |_FW ,_, x_NN T_NN -LRB-_-LRB- D_NN −_NN W_NN -RRB-_-RRB- x_NN xT_NN Dx_NN Similarly_RB ,_, x_NN T_NN -LRB-_-LRB- Ds_NNS −_FW Ws_FW -RRB-_-RRB- x_NN xT_NN Dx_NN With_IN Equat_NN

@@ -1,0 +1,4 @@
+concept_NN from_IN the_DT raw_JJ data_NNS ._.
+A_DT user_NN may_MD choose_VB any_DT classification_NN algorithm_NN of_IN his\/her_NN interest_NN ,_, or_CC choose_VB one_CD that_WDT appears_VBZ to_TO be_VB good_JJ at_IN learning_VBG the_DT current_JJ data_NNS ._.
+In_IN this_DT particular_JJ paper_NN ,_, C4_NN .5_CD rules_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ employed_VBN since_IN it_PRP is_VBZ commonly_RB used_VBN and_CC can_MD achieve_VB a_DT reasonable_JJ classification_NN accuracy_NN in_IN general_JJ ._.
+A_DT trigger_NN detection_NN algorithm_NN finds_VBZ instances_NNS ,_, across_IN which_WDT the_DT underlying_JJ concept_NN has_VBZ changed_VBN a_DT

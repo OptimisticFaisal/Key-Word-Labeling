@@ -1,0 +1,5 @@
+O_NN -LRB-_-LRB- 1_CD ǫ_NN -LRB-_-LRB- log_NN N_NN +_CC log_NN M_NN -RRB-_-RRB- -LRB-_-LRB- log_NN N_NN -RRB-_-RRB- d_NN -RRB-_-RRB- bits_NNS of_IN memory_NN and_CC give_VB a_DT relative_JJ error_NN of_IN ǫ_NN ._.
+However_RB ,_, for_IN high_JJ dimensional_JJ vectors_NNS ,_, we_PRP propose_VBP the_DT use_NN of_IN sketches_NNS ._.
+We_PRP denote_VBP -LRB-_-LRB- Lp_NN -LRB-_-LRB- B_NN -RRB-_-RRB- -RRB-_-RRB- p_NN by_IN fp_NN and_CC estimate_NN fp_NN for_IN p_NN ∈_NN =_JJ -_: =[_NN 1,2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT function_NN fp_NN clearly_RB admits_VBZ properties_NNS P1_NN --_: P4_NN ,_, assuming_VBG M_NN ≤_NN N_NN O_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+For_IN P5_NN ,_, fp_NN -LRB-_-LRB- B_NN -RRB-_-RRB- admits_VBZ a_DT sketching_VBG technique_NN 2_CD C2sSTREAM_JJ STATISTICS_NNS OVER_IN SLIDING_VBG WINDOWS_NNS 1809_CD which_WDT requires_VBZ O_NN -LRB-_-LRB- log_NN M_NN log_NN -LRB-_-LRB- 1_CD \/_: δ_NN -RRB-_-RRB- \/_: ˆǫ_NN

@@ -1,0 +1,3 @@
+of_IN a_DT function_NN F_NN minimizing_VBG F_NN →_NN L_NN -LRB-_-LRB- F_NN ;_: Dtrain_NNP -RRB-_-RRB- ensures_VBZ that_IN F_NN also_RB yield_VBP good_JJ retrieval_NN performance_NN over_IN unseen_JJ data_NNS ._.
+In_IN fact_NN ,_, such_PDT a_DT loss_NN has_VBZ recently_RB been_VBN introduced_VBN in_IN the_DT text_NN retrieval_NN literature_NN =_JJ -_: =[_NN 9_CD ,_, 10_CD -RRB-_-RRB- -_: =_JJ -_: and_CC we_PRP propose_VBP to_TO apply_VB it_PRP to_TO our_PRP$ image_NN retrieval_NN problem_NN ._.
+This_DT loss_NN ,_, referred_VBN to_TO as_IN the_DT ranking_JJ loss_NN in_IN the_DT following_NN ,_, assumes_VBZ that_IN we_PRP are_VBP given_VBN a_DT set_NN of_IN training_NN triplets_NNS ,_, Dtrain_NN =_JJ -LRB-_-LRB- -LRB-_-LRB- q1_NN ,_, p_NN +_CC 1_CD ,_, p_NN −_NN

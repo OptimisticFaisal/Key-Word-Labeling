@@ -1,0 +1,5 @@
+omain-independent_JJ text_NN from_IN the_DT web_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+The_DT vast_JJ majority_NN of_IN NER_NN systems_NNS employ_VBP rule-based_JJ approaches_NNS and_CC machine-learning-based_JJ approaches_NNS ._.
+Examples_NNS of_IN rule-based_JJ systems_NNS in_IN the_DT literature_NN include_VBP =_JJ -_: =[_NN 13_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Machinelearning-based_JJ approaches_NNS can_MD be_VB further_RB divided_VBN into_IN two_CD main_JJ categories_NNS :_: classifier-based_JJ and_CC Markov-model-based_JJ ._.
+Common_JJ choices_NNS of_IN classifiers_NNS include_VBP decision_NN trees_NNS ,_, naïve_JJ Bayes_NNS ,_, and_CC Supp_NN

@@ -1,0 +1,3 @@
+ted_VBN on_IN the_DT web-graph_NN of_IN another_DT ._.
+For_IN in-sample_JJ tasks_NNS ,_, where_WRB some_DT labels_NNS in_IN G_NN are_VBP known_VBN ,_, CC_NN can_MD be_VB applied_VBN to_TO the_DT single_JJ graph_NN G_NN -LRB-_-LRB- Macskassy_NNP and_CC Provost_NNP ,_, 2007_CD ;_: McDowell_NNP et_FW al._FW ,_, 2007a_CD ;_: Sen_NNP et_FW al._FW ,_, 2008_CD ;_: =_JJ -_: =_JJ Gallagher_NNP et_FW al._FW ,_, 2008_CD -_: =--RRB-_NN ;_: within-network_JJ classification_NN -LRB-_-LRB- Macskassy_NNP and_CC Provost_NNP ,_, 2006_CD -RRB-_-RRB- involves_VBZ training_NN on_IN the_DT subset_NN G_NN K_NN ⊂_NN G_NN with_IN known_JJ labels_NNS ,_, and_CC testing_NN by_IN running_VBG inference_NN over_IN the_DT entire_JJ graph_NN ._.
+This_DT task_NN simulates_VBZ ,_, f_SYM

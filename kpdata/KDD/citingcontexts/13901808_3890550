@@ -1,0 +1,4 @@
+sentence_NN using_VBG unigram_JJ model_NN training_NN on_IN the_DT reports_NNS ._.
+Generally_RB ,_, a_DT short_JJ sentence_NN which_WDT has_VBZ more_RBR frequent_JJ words_NNS in_IN the_DT reports_NNS would_MD have_VB a_DT higher_JJR score_NN ._.
+LexPageRank_NN score_NN :_: LexPageRank_NN proposed_VBN by_IN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: calculates_VBZ the_DT Page_NNP Rank_NNP score_NN for_IN sentences_NNS on_IN the_DT sentence_NN similarity_NN matrix_NN ._.
+The_DT score_NN measures_VBZ the_DT prestige_NN in_IN sentence_NN networks_NNS assuming_VBG that_IN the_DT sentences_NNS that_WDT are_VBP similar_JJ to_TO many_JJ of_IN the_DT other_JJ

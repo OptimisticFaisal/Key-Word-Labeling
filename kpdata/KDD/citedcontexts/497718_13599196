@@ -1,0 +1,4 @@
+the_DT instance_NN counts_NNS of_IN a_DT given_VBN set_NN of_IN attribute-value_JJ pairs_NNS ._.
+6.1_CD Summarization_NN of_IN the_DT Data_NNP Graph_NNP Summarization_NNP -LRB-_-LRB- or_CC clustering_NN -RRB-_-RRB- of_IN graph-structured_JJ data_NNS has_VBZ been_VBN extensively_RB studied_VBN in_IN the_DT literature_NN =_JJ -_: =[_NN 15_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Graph_NN summarization_NN algorithms_NNS can_MD be_VB classified_VBN into_IN two_CD :_: some_DT -LRB-_-LRB- such_JJ as_IN -LRB-_-LRB- 9_CD ,_, 8_CD -RRB-_-RRB- -RRB-_-RRB- partition_NN the_DT graph_NN by_IN finding_VBG strongly_RB linked_VBN components_NNS and_CC grouping_VBG these_DT nodes_NNS into_IN super-nodes_NNS ._.
+Others_NNS ,_, such_JJ as_IN

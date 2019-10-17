@@ -1,0 +1,5 @@
+ning_JJ domain_NN ._.
+The_DT method_NN is_VBZ sound_JJ and_CC complete_JJ as_IN all_DT mined_VBN rules_NNS are_VBP statistically_RB significant_JJ and_CC all_DT statistically_RB significant_JJ rules_NNS are_VBP mined_VBN ._.
+There_EX are_VBP many_JJ other_JJ work_NN on_IN mining_NN frequent_JJ patterns_NNS =_JJ -_: =[_NN 1_CD ,_, 21_CD ,_, 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, automata_NN -LRB-_-LRB- 2_CD ,_, 20_CD ,_, 6_CD ,_, 15_CD -RRB-_-RRB- ,_, Live_JJ Sequence_NN Charts_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, etc._NN ._.
+Technique_NN wise_JJ ,_, this_DT work_NN is_VBZ similar_JJ to_TO the_DT family_NN of_IN pattern_NN mining_NN algorithms_NNS and_CC has_VBZ similar_JJ worst_JJS case_NN complexity_NN ._.
+By_IN employing_VBG a_DT pruning_NN

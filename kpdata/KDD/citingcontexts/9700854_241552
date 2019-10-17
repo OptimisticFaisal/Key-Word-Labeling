@@ -1,0 +1,3 @@
+00_CD 101_CD Leaf_NNP 442_CD 151_CD Cl2full_NN 4310_CD 166_CD parameter_NN µ_NN ._.
+To_TO determine_VB the_DT number_NN of_IN nearest_JJS neighbors_NNS ,_, we_PRP perform_VBP 10-fold_JJ cross_NN validation_NN on_IN the_DT training_NN data_NNS using_VBG the_DT k_NN nearest_JJS neighbor_NN regression_NN method_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX are_VBP various_JJ methods_NNS available_JJ to_TO determine_VB the_DT number_NN of_IN hidden_JJ states_NNS N._NNP These_DT methods_NNS can_MD be_VB divided_VBN into_IN two_CD classes_NNS --_: modified_JJ cross-validation_NN and_CC penalized_VBN likelihood_NN methods_NNS -LRB-_-LRB- such_JJ as_IN AIC_NNP ,_,

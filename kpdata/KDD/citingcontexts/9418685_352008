@@ -1,0 +1,3 @@
+This_DT makes_VBZ cutting-plane_JJ methods_NNS not_RB only_RB attractive_JJ for_IN training_NN structured_JJ prediction_NN models_NNS ,_, but_CC they_PRP are_VBP also_RB orders_NNS of_IN magnitude_NN faster_RBR than_IN conventional_JJ methods_NNS for_IN training_NN binary_JJ classifiers_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Unfortunately_RB ,_, the_DT computational_JJ efficiency_NN of_IN cutting-plane_JJ methods_NNS becomes_VBZ substantially_RB worse_JJR for_IN non-linear_JJ models_NNS that_WDT involve_VBP kernels_NNS ._.
+While_IN it_PRP is_VBZ possible_JJ to_TO train_VB kernel_NN models_NNS ,_, the_DT computat_NN

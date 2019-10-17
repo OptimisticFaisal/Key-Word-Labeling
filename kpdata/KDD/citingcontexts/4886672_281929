@@ -1,0 +1,4 @@
+tion_NN methods_NNS ,_, in_IN which_WDT the_DT main_JJ responsibility_NN of_IN the_DT user_NN is_VBZ to_TO define_VB a_DT distance_NN metric_NN on_IN the_DT domain_NN of_IN the_DT data_NNS ._.
+In_IN GMS_NNP ,_, we_PRP use_VBP the_DT definition_NN proposed_VBN by_IN Angiulli_FW et_FW al._FW for_IN the_DT HilOut_NNP Algorithm_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+By_IN this_DT definition_NN the_DT outlier_NN score_NN of_IN a_DT point_NN is_VBZ its_PRP$ average_JJ distance_NN to_TO its_PRP$ m_NN nearest_IN neighbors_NNS ._.
+A_DT distributed_VBN version_NN of_IN the_DT HilOut_NNP algorithm_NN can_MD be_VB found_VBN in_IN the_DT literature_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, in_IN the_DT context_NN o_NN

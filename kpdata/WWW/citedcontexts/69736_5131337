@@ -1,0 +1,5 @@
+Miles_NNP 's_POS Tutorial_NN -LRB-_-LRB- http:\/\/www.eumus.edu.uy\/eme\/c\/cintroduction_miles\/contents.html_NN -RRB-_-RRB- ._.
+1.2_CD ._.
+Ontology_NN Mapping_NN Algorithm_NN To_TO perform_VB ontology_NN mapping_NN ,_, we_PRP implemented_VBD a_DT modified_VBN version_NN of_IN the_DT GLUE_NN approach_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT algorithm_NN computes_VBZ the_DT matrix_NN of_IN similarities_NNS between_IN all_DT concepts_NNS in_IN two_CD ontologies_NNS ._.
+The_DT main_JJ idea_NN of_IN GLUE_NN is_VBZ based_VBN on_IN the_DT cross-classification_NN of_IN concept_NN instances_NNS ,_, counting_VBG of_IN instances_NNS asso_VBP

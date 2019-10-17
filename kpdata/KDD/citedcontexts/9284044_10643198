@@ -1,0 +1,4 @@
+performance_NN ._.
+5_CD Practical_NNP Implementation_NNP When_WRB dealing_VBG with_IN large_JJ datasets_NNS ,_, such_JJ as_IN the_DT Netflix_NNP data_NNS ,_, the_DT most_RBS practical_JJ way_NN to_TO fit_VB trace-norm_JJ regularized_JJ models_NNS is_VBZ through_IN stochastic_JJ gradient_NN descent_NN =_JJ -_: =[_NN 15_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Let_VB ni_RB =_JJ ∑_FW j_FW Sij_NN and_CC mj_NN =_JJ ∑_FW i_FW Sij_FW denote_VB the_DT number_NN of_IN observed_VBN ratings_NNS for_IN user_NN i_FW and_CC movie_NN j_NN respectively_RB ._.
+The_DT training_NN objective_NN using_VBG a_DT partially-weighted_JJ trace-norm_NN 10_CD can_MD be_VB written_VBN as_IN :_: ∑_CD -LRB-_-LRB- -LRB-_-LRB- Y_NN

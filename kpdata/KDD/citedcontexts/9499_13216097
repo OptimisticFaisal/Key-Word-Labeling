@@ -1,0 +1,4 @@
+in_IN cluster_NN memberships_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP develop_VBP a_DT general_JJ generative_JJ model_NN for_IN co-clustering_NN which_WDT is_VBZ similarly_RB related_JJ to_TO basic_JJ hard-assignment_JJ coclustering_NN algorithms_NNS such_JJ as_IN Bregman_NNP co-clustering_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP explicitly_RB demonstrate_VBP that_IN common_JJ modeling_NN assumptions_NNS are_VBP shared_VBN between_IN our_PRP$ model_NN and_CC the_DT hard_JJ co-clustering_JJ algorithms_NNS ._.
+More_RBR specifically_RB ,_, our_PRP$ approach_NN leads_VBZ to_TO algorithms_NNS that_WDT find_VBP MAP_NN solut_NN

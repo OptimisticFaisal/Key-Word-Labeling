@@ -1,0 +1,4 @@
+.1_CD Page_NNP Segmentation_NNP The_DT first_JJ step_NN of_IN building_NN block_NN importance_NN models_NNS is_VBZ to_TO segment_NN a_DT web_NN page_NN to_TO multiple_JJ regions_NNS or_CC blocks_NNS ._.
+Several_JJ methods_NNS have_VBP been_VBN explored_VBN to_TO segment_NN a_DT web_NN page_NN into_IN blocks_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT DOM-based_JJ segmentation_NN approach_NN ,_, an_DT HTML_NNP document_NN is_VBZ represented_VBN as_IN a_DT DOM_NNP tree_NN ._.
+Useful_JJ tags_NNS that_WDT may_MD represent_VB a_DT block_NN in_IN a_DT page_NN include_VBP P_NN -LRB-_-LRB- for_IN paragraph_NN -RRB-_-RRB- ,_, TABLE_NN -LRB-_-LRB- for_IN table_NN -RRB-_-RRB- ,_, UL_NN -LRB-_-LRB- for_IN list_NN -RRB-_-RRB- ,_, H_NN

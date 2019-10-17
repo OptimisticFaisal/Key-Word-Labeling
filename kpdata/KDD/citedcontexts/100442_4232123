@@ -1,0 +1,5 @@
+e_LS probability_NN of_IN detection_NN is_VBZ highest_JJS for_IN the_DT most_RBS malicious_JJ attack_NN -LRB-_-LRB- the_DT inside_NN scan_VB -RRB-_-RRB- ,_, and_CC lowest_JJS for_IN the_DT two_CD probes_NNS ._.
+LERAD_NNP is_VBZ based_VBN on_IN our_PRP$ simpler_JJR algorithms_NNS PHAD_NNP and_CC ALAD_NNP ,_, which_WDT use_VBP fixed_JJ rule_NN sets_VBZ =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+PHAD_NN was_VBD also_RB adapted_VBN to_TO detect_VB attacks_NNS by_IN modeling_NN accesses_VBZ to_TO the_DT Registry_NNP in_IN the_DT Windows_NNP OS_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+4_LS ._.
+Clustering_NN for_IN Anomaly_JJ Detection_NN -LRB-_-LRB- CLAD_NN -RRB-_-RRB- LERAD_NN assumes_VBZ the_DT training_NN data_NNS are_VBP free_JJ of_IN attacks_NNS ,_, ho_FW

@@ -1,0 +1,4 @@
+same_JJ support_NN to_TO avoid_VB redundancy_NN in_IN the_DT output_NN ._.
+FFSM_NN -LRB-_-LRB- 113_CD -RRB-_-RRB- improves_VBZ upon_IN gSpan_NN by_IN reducing_VBG redundant_JJ candidate_NN generation_NN through_IN a_DT vertical_JJ search_NN scheme_NN based_VBN on_IN an_DT algebraic_JJ graph_NN framework_NN ._.
+SPIN_NN =_JJ -_: =[_NN 114_CD -RRB-_-RRB- -_: =_JJ -_: ,_, further_RB speeds_VBZ up_RP frequent_JJ subgraph_JJ discovery_NN by_IN splitting_NN the_DT process_NN into_IN two_CD independent_JJ tasks_NNS of_IN mining_NN subtrees_NNS and_CC extending_VBG these_DT subtrees_NNS to_TO frequent_JJ subgraphs_NNS ._.
+This_DT is_VBZ based_VBN on_IN the_DT observat_NN

@@ -1,0 +1,5 @@
+for_IN quadratic_JJ and_CC misclassification_NN loss_NN functions_NNS ._.
+4_LS ._.
+These_DT decompositions_NNS allow_VBP better_JJR understanding_NN of_IN certain_JJ types_NNS of_IN machine_NN learning_NN algorithms_NNS ._.
+For_IN example_NN ,_, bagging_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- or_CC ensemble_NN techniques_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, can_MD be_VB easily_RB explained_VBN through_IN the_DT variance_NN term_NN of_IN the_DT decomposition_NN ._.
+Breaking_VBG down_RP classification_NN problems_NNS with_IN many_JJ classes_NNS to_TO a_DT set_NN of_IN 2-class_JJ classification_NN problems_NNS should_MD also_RB provide_VB better_JJR

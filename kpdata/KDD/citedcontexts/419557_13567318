@@ -1,0 +1,5 @@
+raining_VBG and_CC consistency_NN of_IN documents_NNS within_IN the_DT corpus_NN ._.
+Recently_RB more_JJR systems_NNS utilize_VBP context_NN information_NN to_TO deal_VB better_RBR with_IN inconsistency_NN among_IN documents_NNS ,_, which_WDT results_VBZ in_IN a_DT more_RBR robust_JJ system_NN ._.
+In_IN -LRB-_-LRB- =_JJ -_: =_JJ Cohen_NNP &_CC Sarawagi_NNP ,_, 2004_CD -_: =--RRB-_NN a_DT semi-Markov_JJ model_NN is_VBZ proposed_VBN to_TO make_VB better_JJR use_NN of_IN external_JJ dictionaries_NNS ._.
+In_IN -LRB-_-LRB- McCallum_NNP ,_, Freitag_NNP ,_, &_CC Pereira_NNP ,_, 2000_CD -RRB-_-RRB- a_DT maximum_NN entropy_JJ Markov_NNP model_NN is_VBZ introduced_VBN to_TO segment_NN FAQ_NNP 's_POS ._.
+Maximum_NNP entropy_NN -LRB-_-LRB- M_NN

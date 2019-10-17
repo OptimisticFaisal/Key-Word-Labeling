@@ -1,0 +1,4 @@
+defined_VBN over_IN words_NNS of_IN documents_NNS ._.
+3.3.1_CD Similarity_NN via_IN random_JJ walks_VBZ Our_PRP$ similarity_NN computation_NN is_VBZ based_VBN on_IN random_JJ walks_VBZ in_IN click_VB graphs_NNS ,_, motivated_VBN by_IN work_NN in_IN measuring_VBG distance_NN between_IN nodes_NNS in_IN graphs_NNS =_JJ -_: =[_NN 7_CD ,_, 14_CD ,_, 2_CD ,_, 4_CD ,_, 13_CD ,_, 5_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Click_NN graphs_NNS are_VBP bipartite_JJ graphs_NNS where_WRB documents_NNS and_CC queries_NNS constitute_VBP the_DT set_NN of_IN nodes_NNS ,_, and_CC a_DT document_NN is_VBZ linked_VBN to_TO a_DT query_NN if_IN it_PRP has_VBZ been_VBN clicked_VBN when_WRB the_DT query_NN is_VBZ issued_VBN ._.
+Similarity_NN under_IN rando_NN

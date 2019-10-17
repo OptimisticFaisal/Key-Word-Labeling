@@ -1,0 +1,5 @@
+y_FW opaque_FW processes_NNS ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- The_DT absence_NN of_IN any_DT protocol-layer_JJ persistent_JJ state_NN or_CC notion_NN of_IN transactions_NNS to_TO identify_VB related_JJ ,_, batched_JJ or_CC macro-operations_NNS ._.
+These_DT issues_NNS are_VBP further_RB illuminated_VBN by_IN Mogul_NNP in_IN =_JJ -_: =[_NN 60_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN a_DT DSM_NNP or_CC DFS_NN world_NN ,_, the_DT mapping_NN from_IN write_VB events_NNS to_TO eventual_JJ changes_NNS in_IN the_DT canonical_JJ system_NN state_NN is_VBZ clearly_RB defined_VBN ._.
+In_IN the_DT web_NN ,_, non-safe_JJ requests_NNS from_IN users_NNS can_MD have_VB arbitrary_JJ application-def_NN

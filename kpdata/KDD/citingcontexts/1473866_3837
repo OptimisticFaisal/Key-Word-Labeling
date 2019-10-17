@@ -1,0 +1,5 @@
+tion_NN 2.2.3_CD ,_, implemented_VBN over_IN TF-IDF_NN representations_NNS after_IN stemming_VBG and_CC stopword_NN removal_NN ._.
+SVM_NN implementation_NN with_IN the_DT radial_JJ basis_NN function_NN kernel_NN from_IN the_DT SVM_NNP light_JJ package_NN was_VBD used_VBN as_IN the_DT classifier_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: with_IN #_# =_JJ 10_CD ._.
+Results_NNS for_IN field-level_JJ duplicate_VB detection_NN experiments_NNS are_VBP summarized_VBN in_IN Table_NNP 4_CD ._.
+Each_DT entry_NN in_IN the_DT table_NN contains_VBZ the_DT average_NN of_IN maximum_NN F-measure_NN values_NNS over_IN the_DT 40_CD evaluated_VBN folds_VBZ ._.
+R_NN

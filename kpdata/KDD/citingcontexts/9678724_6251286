@@ -1,0 +1,6 @@
+dinates_NNS ._.
+Note_VB our_PRP$ reconstruction_NN -LRB-_-LRB- red_JJ lines_NNS -RRB-_-RRB- is_VBZ very_RB close_JJ to_TO the_DT original_JJ signal_NN -LRB-_-LRB- blue_JJ lines_NNS -RRB-_-RRB- ._.
+6_CD ._.
+RELATED_NNS WORK_VBP Data_NN mining_NN and_CC parallel_JJ programming_NN receives_VBZ increasing_VBG interest_NN ._.
+Parthasarathy_NNP et_FW al._FW =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: develop_VB parallel_JJ algorithms_NNS for_IN mining_NN terabytes_NNS of_IN data_NNS for_IN frequent_JJ itemsets_NNS ,_, demonstrating_VBG a_DT near-linear_JJ scale-up_NN on_IN up_IN to_TO 48_CD nodes_NNS ._.
+Reinhardt_NNP and_CC Karypis_NNP -LRB-_-LRB- 13_CD -RRB-_-RRB- used_VBD OpenMP_NN to_TO parallelize_VB the_DT disco_NN

@@ -1,0 +1,3 @@
+r_NN l._NN Table_NNP 6_CD contains_VBZ the_DT pseudocode_NN for_IN NB-DFS_NN ,_, the_DT main_JJ part_NN of_IN the_DT mining_NN algorithm_NN ._.
+The_DT algorithm_NN uses_VBZ a_DT similar_JJ structure_NN as_IN DepthProject_NNP ,_, an_DT algorithm_NN to_TO efficiently_RB find_VB long_JJ maximal_JJ itemsets_NNS -LRB-_-LRB- =_JJ -_: =_JJ Agarwal_NNP et_FW al._FW ,_, 2000_CD -_: =--RRB-_NN ._.
+NB-DFS_NN is_VBZ started_VBN with_IN NB-DFS_NN -LRB-_-LRB- ∅_NN ,_, D_NN ,_, n_NN ,_, ˜_NN k_NN ,_, ã_FW ′_FW ,_, π_NN ,_, θ_NN -RRB-_-RRB- and_CC recursively_RB calls_VBZ itself_PRP with_IN the_DT next_JJ analyzed_VBN itemset_NN l_NN and_CC its_PRP$ conditional_JJ database_NN Dl_NN to_TO mine_VB for_IN subsequent_JJ NB-frequent_JJ supersets_NNS of_IN

@@ -1,0 +1,4 @@
+equivalence_JJ classes_NNS -LRB-_-LRB- EC_NNS -RRB-_-RRB- from_IN QIDs_NNS and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- keeps_VBZ close_JJ semantics_NNS between_IN an_DT equivalence_JJ class_NN and_CC the_DT values_NNS of_IN the_DT QIDs_NNS it_PRP contains_VBZ ._.
+Most_JJS generalization-based_JJ algorithms_NNS fall_VBP in_IN this_DT category_NN ,_, e.g._FW ,_, =_JJ -_: =[_NN 32_CD ,_, 36_CD ,_, 27_CD ,_, 37_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Such_JJ algorithms_NNS are_VBP based_VBN on_IN generalization_NN taxonomies_NNS ,_, each_DT taxonomy_NN defining_VBG the_DT generalization_NN hierarchy_NN of_IN a_DT QID_NNP attribute_NN ._.
+Basically_RB ,_, an_DT equivalence_JJ class_NN is_VBZ defined_VBN by_IN a_DT set_NN of_IN generalization_NN

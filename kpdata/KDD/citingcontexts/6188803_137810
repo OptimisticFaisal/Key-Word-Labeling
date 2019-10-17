@@ -1,0 +1,4 @@
+document_NN corpus_NN ._.
+This_DT subset_NN of_IN the_DT corpus_NN includes_VBZ 50_CD topics_NNS and_CC topic_NN descriptions_NNS ,_, run_VBP as_IN queries_NNS on_IN documents_NNS that_WDT are_VBP part_NN of_IN the_DT corpus_NN ._.
+As_IN part_NN of_IN the_DT 10th_JJ Text_NN REtrieval_NN Conference_NN -LRB-_-LRB- TREC-10_NN -RRB-_-RRB- =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, 18_CD teams_NNS submitted_VBD a_DT ranking_NN of_IN documents_NNS for_IN each_DT topic_NN ._.
+Then_RB ,_, for_IN each_DT topic_NN ,_, documents_NNS ranked_VBD highly_RB by_IN the_DT teams_NNS were_VBD manually_RB judged_VBN to_TO be_VB either_CC highly_RB relevant_JJ -LRB-_-LRB- relevance_NN score_NN of_IN 2_CD -RRB-_-RRB- ,_, relevan_NN

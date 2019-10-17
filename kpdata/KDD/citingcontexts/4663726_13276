@@ -1,0 +1,6 @@
+queries_NNS to_TO find_VB descendents_NNS of_IN a_DT given_VBN node_NN in_IN a_DT given_VBN link_NN ._.
+Algorithm_NN 1_CD summarizes_VBZ the_DT index_NN construction_NN procedure_NN ._.
+The_DT time_NN complexity_NN of_IN building_VBG the_DT PS-index_NN is_VBZ O_NNP -LRB-_-LRB- |_NNP D_NNP |_NNP |_NNP A_NNP |_NNP -RRB-_-RRB- ._.
+The_DT Ukkonen_NNP algorithm_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: builds_VBZ suffix_NN tree_NN in_IN linear_JJ time_NN ._.
+The_DT construction_NN of_IN the_DT trie_NN for_IN pattern-similarity_NN indexing_NN is_VBZ less_JJR time_NN consuming_VBG because_IN the_DT length_NN of_IN the_DT indexed_VBN subsequences_NNS is_VBZ constrained_VBN by_IN |_NN A_NN |_NN ._.
+Thus_RB ,_, it_PRP c_SYM

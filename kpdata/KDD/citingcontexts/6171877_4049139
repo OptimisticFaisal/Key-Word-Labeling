@@ -1,0 +1,5 @@
+They_PRP use_VBP a_DT mixture_NN model_NN to_TO explain_VB the_DT presence_NN of_IN anomalies_NNS ._.
+A_DT clustering_NN based_VBN approach_NN to_TO detecting_VBG anomalies_NNS in_IN a_DT dataset_NN is_VBZ used_VBN in_IN -LRB-_-LRB- 22_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+One-class_JJ SVMs_NNS -LRB-_-LRB- 23_CD ,_, 14_CD -RRB-_-RRB- and_CC Genetic_NNP Algorithms_NNPS =_SYM -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP also_RB been_VBN used_VBN to_TO classify_VB anomalies_NNS in_IN this_DT context_NN ._.
+Anomaly_RB detection_NN is_VBZ also_RB commonly_RB applied_VBN in_IN time_NN series_NN data_NNS to_TO detect_VB unusual_JJ fluctuations_NNS compared_VBN to_TO past_JJ data_NN points_NNS -LRB-_-LRB- 4_CD ,_, 18_CD ,_, 7_CD ,_, 26_CD -RRB-_-RRB- ._.
+A_DT

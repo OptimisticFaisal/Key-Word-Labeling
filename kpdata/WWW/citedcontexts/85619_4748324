@@ -1,0 +1,5 @@
+ystems_NNS is_VBZ imposed_VBN by_IN flash_NN crowds_NNS -LRB-_-LRB- i.e._FW ,_, sudden_JJ massive_JJ number_NN of_IN non-malicious_JJ requests_NNS to_TO the_DT same_JJ server_NN -RRB-_-RRB- ._.
+A_DT number_NN of_IN attempts_NNS to_TO mitigate_VB flashcrowds_NNS have_VBP been_VBN proposed_VBN ._.
+For_IN example_NN ,_, Jung_NNP et_FW al._FW =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: find_VB characteristics_NNS of_IN flash_NN crowds_NNS ._.
+They_PRP use_VBP these_DT characteristics_NNS to_TO design_VB a_DT dynamic_JJ load-balancing_JJ algorithm_NN for_IN Web_NN caches_NNS ._.
+Chen_NNP et_FW al._FW -LRB-_-LRB- 4_CD -RRB-_-RRB- present_VBP a_DT flash_NN crowd_NN mitigation_NN system_NN based_VBN on_IN requ_NN

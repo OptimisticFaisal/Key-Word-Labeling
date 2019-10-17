@@ -1,0 +1,5 @@
+zation_NN of_IN the_DT first_JJ classification_NN results_NNS showed_VBD that_IN the_DT basic_JJ algorithm_NN is_VBZ not_RB sufficient_JJ because_IN nearby_JJ classifications_NNS have_VBP an_DT impact_NN on_IN each_DT other_JJ ._.
+To_TO overcome_VB this_DT issue_NN an_DT iterative_JJ algorithm_NN =_JJ -_: =[_NN 1_CD ,_, 11_CD ,_, 8_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ applied_VBN ._.
+In_IN each_DT iteration_NN the_DT classification_NN result_NN of_IN the_DT previous_JJ iteration_NN is_VBZ taken_VBN as_IN input_NN ._.
+In_IN the_DT bootstrap_NN step_VB an_DT initial_JJ classifier_NN is_VBZ trained_VBN on_IN the_DT training_NN set_NN ._.
+This_DT classifier_NN is_VBZ the_DT

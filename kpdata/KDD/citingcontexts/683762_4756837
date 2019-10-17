@@ -1,0 +1,5 @@
+to_TO include_VB in_IN harvesting_NN ._.
+We_PRP have_VBP implemented_VBN a_DT system_NN called_VBN BoardPulse_NNP for_IN harvesting_VBG from_IN online_JJ message_NN boards_NNS ._.
+BoardPulse_NN is_VBZ built_VBN on_IN two_CD technologies_NNS --_: web-site_JJ wrapping_NN and_CC intelligent_JJ crawling_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Wrapping_VBG message_NN boards_NNS is_VBZ difficult_JJ for_IN two_CD reasons_NNS ._.
+The_DT first_JJ issue_NN is_VBZ site_NN complexity_NN :_: while_IN message_NN board_NN sites_NNS share_VBP a_DT common_JJ structure_NN ,_, most_JJS boards_NNS are_VBP very_RB complex_JJ ,_, and_CC many_JJ are_VBP highly_RB custom_NN

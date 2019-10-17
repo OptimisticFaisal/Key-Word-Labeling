@@ -1,0 +1,4 @@
+-LRB-_-LRB- 11_CD -RRB-_-RRB- gave_VBD algorithms_NNS for_IN mining_NN users_NNS '_POS opinions_NNS of_IN an_DT item_NN from_IN their_PRP$ reviews_NNS of_IN the_DT items_NNS ._.
+Both_CC opinion_NN mining_NN authors_NNS extract_VBP a_DT user_NN 's_POS opinion_NN from_IN a_DT textual_JJ review_NN with_IN 80_CD %_NN accuracy_NN ._.
+Novak_NNP et_FW al._FW =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: investigated_VBN re-identifying_JJ multiple_JJ aliases_NNS of_IN a_DT user_NN in_IN a_DT forum_NN based_VBN on_IN general_JJ properties_NNS of_IN their_PRP$ post_NN text_NN ._.
+Simulations_NNS we_PRP present_VBP later_RB suggest_VBP that_IN marrying_VBG our_PRP$ algorithms_NNS to_TO opinion_NN mining_NN m_NN

@@ -1,0 +1,3 @@
+however_RB ,_, was_VBD not_RB addressed_VBN ._.
+Boykin_NNP and_CC Roychowdhury_NNP -LRB-_-LRB- 2_CD -RRB-_-RRB- used_VBD clustering_NN coefficients_NNS as_IN enriched_JJ features_NNS to_TO represent_VB email_JJ messages_NNS and_CC a_DT Bayesian_JJ classifier_NN to_TO detect_VB spam_NN messages_NNS ._.
+Martin_NNP et_FW al._FW =_SYM -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: used_VBD the_DT outdegree_NN -LRB-_-LRB- the_DT number_NN of_IN unique_JJ recipients_NNS -RRB-_-RRB- and_CC in-degree_NN -LRB-_-LRB- the_DT number_NN of_IN unique_JJ senders_NNS -RRB-_-RRB- of_IN each_DT person_NN in_IN an_DT email_JJ social_JJ network_NN to_TO detect_VB worms_NNS which_WDT propagated_VBD through_IN the_DT email_NN messages_NNS

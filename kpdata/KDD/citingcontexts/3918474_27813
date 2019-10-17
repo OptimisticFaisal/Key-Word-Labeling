@@ -1,0 +1,4 @@
+is_VBZ used_VBN in_IN the_DT early_JJ stage_NN of_IN the_DT cascade_NN design_NN to_TO alleviate_VB the_DT skewed_JJ class_NN distribution_NN and_CC preserve_VB high_JJ detection_NN rates_NNS ._.
+Previous_JJ cascade_NN classification_NN approaches_NNS are_VBP mostly_RB based_VBN on_IN AdaBoost_NN =_JJ -_: =[_NN 10_CD ,_, 20_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Cascade_NNP AdaBoost_NNP serves_VBZ as_IN a_DT great_JJ tool_NN for_IN building_VBG real-time_JJ robust_JJ applications_NNS -LRB-_-LRB- 22_CD ,_, 24_CD -RRB-_-RRB- ,_, especially_RB for_IN object_NN detection_NN systems_NNS ._.
+However_RB ,_, cascade_NN AdaBoost_NN works_VBZ with_IN two_CD implicit_JJ assumptions_NNS :_: 1_CD

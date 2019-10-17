@@ -1,0 +1,4 @@
+ibration_NN is_VBZ useful_JJ when_WRB the_DT historical_JJ and_CC future_JJ observations_NNS come_VBP from_IN different_JJ sources_NNS ._.
+For_IN this_DT experiment_NN ,_, we_PRP downloaded_VBD climate_NN data_NNS from_IN the_DT Canadian_JJ Climate_NN Change_NNP Scenarios_NNS Network_NNP web_NN site_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT data_NN consists_VBZ of_IN daily_JJ observations_NNS for_IN 26_CD climate_NN predictor_NN variables_NNS including_VBG sea-level_JJ pressure_NN ,_, wind_NN direction_NN ,_, vorticity_NN ,_, humidity_NN ,_, etc._NN ._.
+The_DT response_NN variable_NN corresponds_VBZ to_TO the_DT observed_VBN m_NN

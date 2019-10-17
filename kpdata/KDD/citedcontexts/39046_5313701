@@ -1,0 +1,4 @@
+umbers_NNS of_IN users_NNS '_POS interactions_NNS with_IN a_DT system_NN to_TO impact_VB current_JJ system_NN behavior_NN -RRB-_-RRB- ._.
+Examples_NNS of_IN such_JJ work_NN include_VBP using_VBG query_NN logs_NNS and_CC clickthrough_JJ data_NNS to_TO generate_VB query_NN substitutions_NNS or_CC recommendations_NNS =_JJ -_: =[_NN 1_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Implicit_JJ data_NNS such_JJ as_IN clickthrough_JJ actions_NNS of_IN a_DT large_JJ number_NN of_IN users_NNS can_MD also_RB be_VB used_VBN as_IN a_DT collaborative_JJ filtering_VBG mechanism_NN to_TO re-rank_JJ search_NN results_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+There_EX have_VBP been_VBN a_DT few_JJ research_NN efforts_NNS to_TO

@@ -1,0 +1,4 @@
+ch_NN on_IN how_WRB to_TO get_VB frequent_JJ patterns_NNS in_IN a_DT data_NN stream_NN environment_NN has_VBZ been_VBN conducted_VBN ._.
+In_IN -LRB-_-LRB- 2_CD ,_, 7_CD ,_, 10_CD -RRB-_-RRB- ,_, the_DT authors_NNS propose_VBP algorithms_NNS to_TO find_VB frequent_JJ itemsets_NNS over_IN the_DT entire_JJ history_NN of_IN data_NNS streams_NNS ._.
+In_IN =_JJ -_: =[_NN 3_CD ,_, 5_CD ,_, 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, different_JJ sliding_VBG window_NN models_NNS are_VBP used_VBN to_TO find_VB recently_RB frequent_JJ itemsets_NNS in_IN data_NNS streams_NNS ._.
+These_DT algorithms_NNS focus_VBP on_IN mining_NN frequent_JJ itemsets_NNS ,_, instead_RB of_IN closed_JJ frequent_JJ itemsets_NNS ,_, with_IN one_CD scan_VB ov_NN

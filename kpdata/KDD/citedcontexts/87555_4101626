@@ -1,0 +1,4 @@
+he_PRP agent_NN automatically_RB trade-off_NN planning_NN and_CC learning_NN ._.
+There_EX is_VBZ quite_RB some_DT literature_NN on_IN cost-sensitivity_NN and_CC learning_NN ,_, but_CC most_JJS of_IN this_DT concentrates_VBZ on_IN supervised_JJ classification_NN tasks_NNS ,_, for_IN example_NN -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP 1999_CD -_: =--RRB-_NN ._.
+Some_DT related_JJ material_NN exists_VBZ in_IN the_DT field_NN of_IN sensor_NN planning_NN -LRB-_-LRB- Koenig_NNP &_CC Liu_NNP 2000_CD -RRB-_-RRB- ,_, but_CC to_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ,_, it_PRP is_VBZ limited_VBN in_IN the_DT field_NN of_IN reinforcement_NN learning_NN ._.
+The_DT lack_NN of_IN costsensitive_JJ r_NN

@@ -1,0 +1,5 @@
+-_: itemset_NN Ck_NN Lk_NN Definition_NN An_DT itemset_NN having_VBG k_NN items_NNS Set_NN of_IN candidate_NN k-itemsets_NNS Set_NN of_IN large_JJ k-itemsets_NNS We_PRP should_MD mention_VB here_RB that_IN there_EX exists_VBZ other_JJ algorithms_NNS for_IN generating_VBG large_JJ itemsets_NNS such_JJ as_IN =_JJ -_: =[_NN 9_CD ,_, 10,14_CD ,_, 17_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP have_VBP chosen_VBN this_DT one_CD because_IN it_PRP is_VBZ easyto_NN understand_VB ._.
+We_PRP are_VBP in_IN the_DT process_NN of_IN implementing_VBG the_DT others_NNS but_CC this_DT work_NN is_VBZ outside_IN the_DT scope_NN of_IN this_DT paper_NN ._.
+IV_NNP ._.
+XQUERY_NNP EXPRESSION_NNP FOR_IN MINING_NNP ASSOCIATI_NNP

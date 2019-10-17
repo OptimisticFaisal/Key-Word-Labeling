@@ -1,0 +1,4 @@
+licy-based_JJ protection_NN of_IN XML_NN data_NNS by_IN encryption_NN ._.
+Other_JJ techniques_NNS include_VBP suppressing_VBG and\/or_CC generalizing_VBG released_VBN data_NNS into_IN less_JJR specific_JJ forms_NNS ,_, so_IN that_IN they_PRP no_RB longer_RBR uniquely_RB represent_VBP individuals_NNS =_JJ -_: =[_NN 16_CD ,_, 22_CD -RRB-_-RRB- -_: =_JJ -_: ;_: k-anonymity_NN is_VBZ one_CD popular_JJ form_NN of_IN generalization_NN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 4_CD ,_, 25_CD ,_, 26_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Unfortunately_RB ,_, it_PRP is_VBZ not_RB possible_JJ to_TO directly_RB apply_VB these_DT techniques_NNS to_TO secure_VB an_DT inverted_JJ index_NN ._.
+Even_RB if_IN posting_VBG list_NN entries_NNS

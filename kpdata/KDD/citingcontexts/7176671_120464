@@ -1,0 +1,4 @@
+f_LS this_DT form_NN have_VBP been_VBN proposed_VBN ._.
+SNOWBALL_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- iteratively_RB generates_VBZ extraction_NN patterns_NNS based_VBN on_IN occurrences_NNS of_IN known_JJ tuples_NNS in_IN documents_NNS to_TO extract_VB new_JJ tuples_NNS from_IN plain_JJ texts_NNS ._.
+MULDER_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC AskMSR_NN =_JJ -_: =[_NN 5_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: use_VB the_DT Web_NN to_TO answer_VB questions_NNS ,_, exploiting_VBG the_DT fact_NN that_IN most_JJS important_JJ facts_NNS are_VBP stated_VBN multiple_JJ times_NNS in_IN different_JJ ways_NNS ,_, which_WDT licenses_VBZ the_DT use_NN of_IN simple_JJ syntactic_JJ processing_NN ._.
+Instead_RB of_IN utilizing_VBG

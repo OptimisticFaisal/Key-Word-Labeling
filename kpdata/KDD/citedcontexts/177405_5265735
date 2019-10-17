@@ -1,0 +1,4 @@
+ve_IN Examples_NNS to_TO Build_VB Classifiers_NNS ._.
+The_DT positive_JJ examples_NNS ,_, documents_NNS used_VBN to_TO build_VB the_DT manual_JJ classifiers_NNS ,_, were_VBD collected_VBN from_IN ``_`` DMOZ_NNP Open_NNP Directory_NNP Project_NNP ''_'' -LRB-_-LRB- www.dmoz.org_NN -RRB-_-RRB- ._.
+The_DT approach_NN was_VBD inspired_VBN by_IN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT used_VBD Open_NNP Directory_NNP to_TO collect_VB an_DT unbiased_JJ sample_NN of_IN the_DT Internet_NN ._.
+By_IN using_VBG Open_NNP Directory_NNP to_TO collect_VB positive_JJ documents_NNS samples_NNS ,_, there_EX is_VBZ no_DT need_NN to_TO manually_RB process_VB each_DT document_NN ,_, like_IN in_IN -LRB-_-LRB- 1_LS -RRB-_-RRB-

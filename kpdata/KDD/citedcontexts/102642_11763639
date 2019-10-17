@@ -1,0 +1,5 @@
+-_: purpose_NN graph_NN clustering_NN algorithm_NN ._.
+It_PRP uses_VBZ solely_RB local_JJ information_NN for_IN clustering_NN and_CC achieves_VBZ a_DT soft_JJ clustering_NN of_IN the_DT input_NN graph_NN ._.
+The_DT definition_NN of_IN cluster_NN underlying_VBG BorderFlow_NNP was_VBD proposed_VBN by_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP state_VBP that_IN a_DT cluster_NN is_VBZ a_DT collection_NN of_IN nodes_NNS that_WDT have_VBP more_JJR links_NNS between_IN them_PRP than_IN links_NNS to_TO the_DT outside_NN ._.
+When_WRB considering_VBG a_DT graph_NN as_IN the_DT description_NN of_IN a_DT flow_NN system_NN ,_, Flake_NNP et_FW al._FW 's_POS definitio_NN

@@ -1,0 +1,6 @@
+the_DT same_JJ as_IN the_DT original_JJ relations_NNS ._.
+In_IN the_DT rest_NN of_IN the_DT section_NN we_PRP briefly_RB describe_VBP SLR_NNP ._.
+A_DT more_RBR detailed_JJ description_NN of_IN the_DT method_NN and_CC the_DT specification_NN of_IN its_PRP$ feature_NN generation_NN algorithm_NN is_VBZ given_VBN in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Section_NN 2.1_CD describes_VBZ the_DT similarity_NN measure_NN we_PRP use_VBP for_IN clustering_NN ._.
+SLR_NN is_VBZ an_DT extension_NN of_IN logistic_JJ regression_NN to_TO modeling_NN relational_JJ data_NNS ._.
+It_PRP combines_VBZ the_DT strengths_NNS of_IN classical_JJ statistical_JJ 10_CD 1_CD 20_CD

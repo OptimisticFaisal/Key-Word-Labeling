@@ -1,0 +1,3 @@
+eratively_RB reweighted_VBN least_JJS squares_NNS least_JJS angle_NN regression_NN algorithm_NN -LRB-_-LRB- IRLS-LARS_NN -RRB-_-RRB- used_VBD a_DT quadratic_JJ approximation_NN for_IN the_DT average_JJ logistic_JJ loss_NN function_NN ,_, which_WDT was_VBD subsequently_RB solved_VBN by_IN the_DT LARS_NN method_NN =_JJ -_: =[_NN 7_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT Bayesian_JJ logistic_JJ regression_NN -LRB-_-LRB- BBR_NN -RRB-_-RRB- algorithm_NN used_VBD a_DT cyclic_JJ coordinate_JJ descent_NN method_NN for_IN the_DT Bayesian_JJ logistic_JJ regression_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Glmpath_NNP is_VBZ a_DT general_JJ solver_NN for_IN the_DT ℓ1_NN regularized_VBD generalized_JJ line_NN

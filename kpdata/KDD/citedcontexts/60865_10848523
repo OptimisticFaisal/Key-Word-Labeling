@@ -1,0 +1,4 @@
+e_LS its_PRP$ performance_NN to_TO that_DT of_IN the_DT conventional_JJ stemming_VBG approach_NN ._.
+In_IN addition_NN to_TO query_NN reformulation_NN ,_, query_NN logs_NNS have_VBP been_VBN used_VBN for_IN a_DT variety_NN of_IN tasks_NNS ._.
+They_PRP have_VBP been_VBN used_VBN to_TO learn_VB retrieval_NN functions_NNS =_JJ -_: =[_NN 12_CD ,_, 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, spelling_NN correction_NN -LRB-_-LRB- 2_CD ,_, 9_CD -RRB-_-RRB- ,_, query_NN segmentation_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC disambiguating_VBG abbreviations_NNS -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN ,_, we_PRP studied_VBD reformulation_NN tasks_NNS that_WDT can_MD make_VB use_NN of_IN the_DT limited_JJ data_NNS in_IN an_DT anchor_NN log_NN ,_, but_CC so_RB

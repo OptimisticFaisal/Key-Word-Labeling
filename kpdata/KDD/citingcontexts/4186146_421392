@@ -1,0 +1,5 @@
+gSpan_NN in_IN mining_NN complex_NN graphs_NNS --_: the_DT graphs_NNS that_WDT have_VBP many_JJ different_JJ kinds_NNS of_IN labels_NNS ._.
+7_CD ._.
+RELATED_NNS WORK_VBP The_DT problem_NN of_IN finding_VBG frequent_JJ common_JJ structures_NNS has_VBZ been_VBN studied_VBN since_IN early_JJ 1990s_NNS ._.
+For_IN example_NN ,_, =_JJ -_: =[_NN 1_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: study_VB the_DT the_DT problem_NN of_IN finding_VBG common_JJ substructures_NNS from_IN chemical_JJ compounds_NNS ._.
+SUBDUE_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- proposes_VBZ an_DT approximate_JJ algorithm_NN to_TO identify_VB some_DT ,_, instead_RB of_IN the_DT complete_JJ set_NN of_IN ,_, sNumber_NN of_IN blocks_NNS read_VBD 700_CD

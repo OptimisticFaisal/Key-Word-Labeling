@@ -1,0 +1,5 @@
+d_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, etc._NN ._.
+We_PRP will_MD use_VB some_DT of_IN the_DT state-of-the-art_JJ algorithms_NNS as_IN the_DT base-level_JJ systems_NNS in_IN our_PRP$ framework_NN ._.
+The_DT similarity_NN metrics_NNS on_IN attributes_NNS also_RB can_MD be_VB learned_VBN from_IN the_DT data_NNS by_IN adaptive_JJ methods_NNS =_JJ -_: =[_NN 6,8,9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT basic_JJ idea_NN of_IN adaptive_JJ approaches_NNS is_VBZ to_TO learn_VB a_DT classifier_NN that_WDT combine_VBP similarity_NN across_IN multiple_JJ fields_NNS and_CC make_VB a_DT match\/non-match_NN decision_NN for_IN each_DT pair_NN of_IN records_NNS ._.
+In_IN -LRB-_-LRB- 32_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 37_CD -RRB-_-RRB- ,_, the_DT auth_NN

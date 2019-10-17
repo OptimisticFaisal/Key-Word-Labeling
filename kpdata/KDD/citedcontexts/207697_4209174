@@ -1,0 +1,9 @@
+ion_NN size_NN to_TO 10_CD and_CC the_DT average_JJ maximal_JJ potentially_RB large_JJ itemset_JJ size_NN to_TO 4_CD ._.
+Another_DT two_CD synthetic_JJ datasets_NNS are_VBP T10_NN ._.
+I4_NN ._.
+D1M_NN and_CC T20_NN ._.
+I6_NN ._.
+D1M_NN ._.
+The_DT fourth_JJ dataset_NN is_VBZ a_DT retail_JJ dataset_NN of_IN 88,162_CD transactions_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT precision_NN and_CC recall_NN of_IN frequent_JJ items_NNS are_VBP used_VBN to_TO measure_VB the_DT effectiveness_NN ._.
+We_PRP run_VBP each_DT method_NN 20_CD times_NNS on_IN each_DT dataset_NN ,_, and_CC the_DT average_JJ precision_NN ,_, recall_NN and_CC running_VBG time_NN of_IN different_JJ methods_NNS

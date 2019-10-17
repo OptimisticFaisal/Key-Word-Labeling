@@ -1,0 +1,4 @@
+ng_NN and_CC identification_NN ,_, extracted_VBN entities_NNS must_MD be_VB normalized_VBN to_TO a_DT set_NN of_IN topics_NNS ._.
+For_IN example_NN ,_, Axim_NNP ,_, Dell_NNP Axim_NNP ,_, and_CC the_DT Dell_NNP PDA_NNP should_MD all_DT fall_VB into_IN the_DT Dell_NNP Axim_NNP topic_NN ._.
+An_DT approach_NN following_VBG that_DT of_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: could_MD be_VB established_VBN to_TO automatically_RB normalize_VB entities_NNS ._.
+However_RB ,_, since_IN our_PRP$ customers_NNS typically_RB know_VBP exactly_RB which_WDT brands_NNS they_PRP want_VBP to_TO monitor_VB ,_, pre-building_VBG the_DT rules_NNS in_IN this_DT case_NN is_VBZ both_DT more_JJR accur_NN

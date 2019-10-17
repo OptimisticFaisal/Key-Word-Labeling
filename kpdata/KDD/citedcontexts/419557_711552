@@ -1,0 +1,3 @@
+e_LS find_VB the_DT bestsmethod_NN of_IN segmenting_VBG the_DT text_NN and_CC assign_VB labels_NNS for_IN each_DT segment_NN ._.
+Although_IN ,_, computationally_RB this_DT appears_VBZ formidable_JJ ,_, we_PRP can_MD design_VB efficient_JJ dynamic_JJ programming_NN algorithms_NNS as_IN shown_VBN in_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Experimental_JJ results_NNS on_IN five_CD real-life_JJ extraction_NN tasks_NNS in_IN the_DT presence_NN of_IN large_JJ database_NN of_IN entity_NN names_NNS show_VBP that_IN the_DT semi-markov_JJ models_NNS along_IN with_IN the_DT use_NN of_IN similarity_NN features_NNS increase_VBP

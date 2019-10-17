@@ -1,0 +1,5 @@
+r_NN datasets_VBZ increases_NNS from_IN 0.625_CD before_IN cleaning_NN to_TO 0.954_CD after_IN cleaning_NN ._.
+This_DT represents_VBZ a_DT remarkable_JJ improvement_NN ._.
+We_PRP also_RB compare_VBP our_PRP$ proposed_VBN method_NN with_IN the_DT existing_VBG template_NN based_JJ cleaning_NN method_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- ._.
+-_: =_SYM -_: Our_PRP$ results_NNS show_VBP that_IN the_DT proposed_VBN method_NN outperforms_VBZ this_DT existing_VBG state-ofthe-art_JJ method_NN substantially_RB ._.
+Our_PRP$ contributions_NNS •_VBP A_DT new_JJ tree_NN structure_NN ,_, called_VBN Style_NNP Tree_NNP ,_, is_VBZ proposed_VBN to_TO capture_VB the_DT actu_NN

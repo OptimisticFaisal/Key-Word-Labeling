@@ -1,0 +1,7 @@
+n_NN be_VB found_VBN in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+5_CD ._.
+ONLINE_NNP FEATURE_NNP SELECTION_NNP Feature_NNP selection_NN for_IN NLP_NN tasks_NNS is_VBZ usually_RB performed_VBN insbatch_NN mode_NN ._.
+Examples_NNS of_IN common_JJ metrics_NNS for_IN feature_NN selection_NN are_VBP Information_NNP Gain_NNP and_CC Chi-Square_NNP =_SYM -_: =[_NN 12_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Extending_VBG such_JJ batch_NN feature_NN selection_NN techniques_NNS to_TO the_DT online_JJ learning_NN setting_NN is_VBZ not_RB obvious_JJ ._.
+In_IN the_DT online_NN setting_VBG the_DT complete_JJ feature_NN set_NN is_VBZ not_RB known_VBN in_IN advance_NN ._.
+Also_RB ,_, it_PRP would_MD be_VB desirable_JJ t_NN

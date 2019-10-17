@@ -1,0 +1,3 @@
+ance_NN is_VBZ used_VBN as_IN a_DT measure_NN of_IN -LRB-_-LRB- dis_NN -_: -RRB-_-RRB- similarity_NN between_IN trajectory_JJ subsequences_NNS ._.
+In_IN fact_NN ,_, the_DT usefulness_NN of_IN distance-based_JJ anomalies_NNS for_IN general_JJ databases_NNS has_VBZ been_VBN thoroughly_RB justified_VBN in_IN previous_JJ work_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+Though_IN distance-based_JJ anomalies_NNS are_VBP more_RBR general_JJ and_CC effective_JJ ,_, the_DT performance_NN of_IN anomaly_RB monitoring_VBG suffers_VBZ from_IN intensivedistance_NN computations_NNS ,_, thus_RB efficient_JJ pruning_NN strategies_NNS become_VBP

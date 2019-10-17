@@ -1,0 +1,5 @@
+s_VBZ DARPA_NNP 1998_CD ,_, DARPA_NNP 1999_CD ,_, and_CC KDD_NNP Cup_NNP 1999_CD ,_, were_VBD held_VBN to_TO evaluate_VB results_NNS in_IN intrusion_NN detection_NN research_NN ._.
+Many_JJ network_NN intrusion_NN detection_NN methods_NNS have_VBP been_VBN proposed_VBN in_IN the_DT research_NN community_NN ,_, e.g._FW ,_, =_JJ -_: =[_NN 2_CD ,_, 3_CD ,_, 6_CD ,_, 8_CD ,_, 9_CD ,_, 10_CD ,_, 11_CD ,_, 14_CD ,_, 17_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, almost_RB all_DT of_IN them_PRP have_VBP to_TO use_VB both_CC normal_JJ and_CC intrusion_NN traffic_NN data_NNS for_IN classifier_NN training_NN ._.
+Thus_RB the_DT problem_NN is_VBZ essentially_RB a_DT classification_NN problem_NN ._.
+In_IN practice_NN ,_, it_PRP is_VBZ not_RB always_RB possib_VB

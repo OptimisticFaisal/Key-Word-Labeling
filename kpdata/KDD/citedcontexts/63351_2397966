@@ -1,0 +1,4 @@
+on_IN techniques_NNS :_: agents_NNS must_MD act_VB quickly_RB and_CC autonomously_RB while_IN contributing_VBG to_TO the_DT achievement_NN of_IN the_DT team_NN 's_POS overall_JJ goal_NN -LRB-_-LRB- 4_CD ,_, 7_CD -RRB-_-RRB- ._.
+Robotic_JJ soccer_NN systems_NNS have_VBP been_VBN recently_RB developed_VBN both_CC in_IN simulation_NN =_JJ -_: =[_NN 9_CD ,_, 14_CD ,_, 15_CD -RRB-_-RRB- -_: =_JJ -_: and_CC with_IN real_JJ robots_NNS -LRB-_-LRB- 1_CD ,_, 3_CD ,_, 12_CD ,_, 13_CD ,_, 20_CD -RRB-_-RRB- ._.
+The_DT research_NN presented_VBN in_IN this_DT paper_NN was_VBD developed_VBN jointly_RB in_IN simulation_NN and_CC on_IN our_PRP$ real_JJ robot_NN team_NN ._.
+2.1_CD Simulator_NNP The_NNP RoboCup_NNP soccer_NN server_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- has_VBZ been_VBN use_NN

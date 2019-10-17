@@ -1,0 +1,4 @@
+n_NN document_NN in_IN relationship_NN to_TO such_PDT a_DT hyper-surface_NN ,_, etc._NN ._.
+The_DT overall_JJ classification_NN accuracy_NN of_IN such_JJ machine_NN learning_NN classifiers_NNS often_RB suffers_VBZ from_IN what_WP is_VBZ known_VBN as_IN an_DT inductive_JJ bias_NN or_CC model_NN misfit_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+When_WRB the_DT nature_NN of_IN the_DT data_NN fits_VBZ the_DT assumptions_NNS of_IN the_DT underlying_VBG classification_NN strategy_NN well_RB ,_, thesclassification_NN accuracy_NN can_MD be_VB very_RB high_JJ ,_, and_CC vice_NN versa_RB ._.
+For_IN example_NN ,_, the_DT Centroid_NNP Classifier_NNP is_VBZ

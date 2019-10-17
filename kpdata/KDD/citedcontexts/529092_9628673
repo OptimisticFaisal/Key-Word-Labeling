@@ -1,0 +1,6 @@
+distance_NN of_IN two_CD points_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP consider_VBP high-dimensional_JJ NN_NNP search_NN ._.
+Some_DT studies_NNS argue_VBP -LRB-_-LRB- 9_CD -RRB-_-RRB- that_IN high-dimensional_JJ NN_NNP queries_NNS may_MD not_RB be_VB meaningful_JJ ._.
+On_IN the_DT other_JJ hand_NN ,_, there_EX is_VBZ also_RB evidence_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: that_IN such_PDT an_DT argument_NN is_VBZ based_VBN on_IN restrictive_JJ assumptions_NNS ._.
+Intuitively_RB ,_, a_DT meaningful_JJ query_NN is_VBZ one_CD where_WRB the_DT query_NN point_NN q_NN is_VBZ much_RB closer_JJR to_TO its_PRP$ NN_NNP than_IN to_TO most_JJS data_NNS points_NNS ._.
+This_DT is_VBZ true_JJ in_IN many_JJ appli_NNS

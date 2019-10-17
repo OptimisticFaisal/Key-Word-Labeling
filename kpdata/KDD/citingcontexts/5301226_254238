@@ -1,0 +1,4 @@
+e_LS second_JJ case_NN the_DT denominator_NN is_VBZ also_RB set_VBN to_TO 1.0_CD ._.
+For_IN this_DT evaluation_NN ,_, our_PRP$ test_NN sets_NNS are_VBP drawn_VBN from_IN three_CD distinct_JJ collections_NNS of_IN test_NN documents_NNS ._.
+One_CD of_IN these_DT is_VBZ the_DT well-known_JJ Reuters-21578_NN data_NNS set_VBD =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: containing_VBG 9603_CD training_NN documents_NNS ,_, and_CC the_DT other_JJ two_CD are_VBP helpdesk_JJ problem_NN tickets_NNS from_IN two_CD different_JJ help_NN centers_NNS ._.
+For_IN the_DT Reuters_NNP data_NN set_NN ,_, we_PRP made_VBD use_NN of_IN both_CC the_DT existing_VBG classification_NN of_IN the_DT da_NN

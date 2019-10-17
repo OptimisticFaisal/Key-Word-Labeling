@@ -1,0 +1,4 @@
+mall_NN number_NN of_IN individuals_NNS poorly_RB and_CC these_DT can_MD be_VB considered_VBN as_IN outliers_NNS ._.
+We_PRP measure_VBP outlyingness_NN by_IN ranking_JJ data_NNS according_VBG to_TO the_DT magnitude_NN of_IN the_DT reconstruction_NN error_NN ._.
+This_DT compares_VBZ to_TO SmartSifter_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT similarly_RB builds_VBZ models_NNS to_TO identify_VB outliers_NNS but_CC scores_NNS the_DT individuals_NNS depending_VBG on_IN the_DT degree_NN to_TO which_WDT they_PRP perturb_VBP the_DT model_NN ._.
+Following_VBG -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 17_CD -RRB-_-RRB- when_WRB dealing_VBG with_IN large_JJ databases_NNS ,_,

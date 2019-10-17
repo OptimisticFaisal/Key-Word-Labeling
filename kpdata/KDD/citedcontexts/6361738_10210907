@@ -1,0 +1,5 @@
+4_LS -RRB-_-RRB- ._.
+Our_PRP$ frequent_JJ pattern_NN analysis_NN focuses_VBZ on_IN anomaly_NN detection_NN ._.
+Data_NN mining_NN has_VBZ been_VBN widely_RB used_VBN for_IN profiling_VBG end-hosts_NNS and_CC networks_NNS -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, detecting_VBG anomalous_JJ events_NNS and_CC other_JJ intrusions_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_JJ -_: ,_, detecting_VBG system_NN and_CC software_NN bugs_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 32_CD -RRB-_-RRB- ,_, as_RB well_RB as_IN configuration_NN problems_NNS -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+These_DT techniques_NNS analyze_VBP aggregate_JJ data_NNS while_IN we_PRP use_VBP traces_NNS from_IN individual_JJ operations_NNS ._.
+-LRB-_-LRB- 23_CD -RRB-_-RRB- uses_VBZ information_NN t_NN

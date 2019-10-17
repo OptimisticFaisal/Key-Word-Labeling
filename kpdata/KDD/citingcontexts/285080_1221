@@ -1,0 +1,5 @@
+herwise_RB ,_, an_DT approximate_JJ solution_NN is_VBZ necessary_JJ ._.
+A_DT standard_JJ method_NN for_IN this_DT purpose_NN is_VBZ Gibbs_NNP sampling_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+An_DT alternative_NN based_VBN on_IN an_DT ecient_JJ k-shortest-path_NN algorithm_NN is_VBZ proposed_VBN in_IN Chakrabarti_NNP et_FW al._FW =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Given_VBN N_NN i_FW and_CC Y_NN ,_, X_NN i_FW should_MD be_VB independent_JJ of_IN the_DT marketing_NN actions_NNS for_IN other_JJ customers_NNS ._.
+Assuming_VBG a_DT naive_JJ Bayes_NNP model_NN for_IN X_NN i_LS as_IN a_DT function_NN of_IN N_NN i_FW ,_, Y1_NN ;_: :_: :_: :_: ;_: Ym_NNP and_CC M_NNP i_LS -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, P_NN -LRB-_-LRB- X_NN i_FW jN_FW i_FW ;_: Y_NN ;_: M_NN -RRB-_-RRB-

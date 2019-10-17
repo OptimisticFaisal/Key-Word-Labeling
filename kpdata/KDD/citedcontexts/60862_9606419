@@ -1,0 +1,5 @@
+processes_NNS ._.
+A_DT DBN_NN was_VBD successfully_RB developed_VBN to_TO model_VB moving_VBG vehicles_NNS in_IN a_DT complex_JJ freeway_NN traffic_NN scene_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+Some_DT works_NNS have_VBP already_RB explored_VBN statistical_JJ sequence_NN clustering_NN ,_, mainly_RB using_VBG HMMs_NNS -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+Most_JJS adopt_VBP a_DT k-means_NN formulation_NN ,_, which_WDT is_VBZ extended_VBN with_IN soft_JJ memberships_NNS and_CC applied_VBN to_TO video_JJ data_NNS in_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+The_DT key_JJ idea_NN of_IN HMM-based_JJ clustering_NN is_VBZ that_IN observations_NNS are_VBP defined_VBN to_TO be_VB s_NN

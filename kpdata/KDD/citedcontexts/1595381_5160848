@@ -1,0 +1,4 @@
+ral_NN experiments_NNS and_CC the_DT best_JJS one_NN is_VBZ listed_VBN below_IN ._.
+Fig._NN 1_CD Experimental_JJ Resultss5_NN Conclusion_NN In_IN a_DT classification_NN task_NN ,_, the_DT effect_NN of_IN imbalanced_JJ class_NN distribution_NN problem_NN is_VBZ often_RB ignored_VBN ._.
+Many_JJ studies_NNS =_JJ -_: =[_NN 2_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: focused_VBN on_IN improving_VBG the_DT classification_NN accuracy_NN but_CC did_VBD not_RB consider_VB the_DT imbalanced_JJ class_NN distribution_NN problem_NN ._.
+Hence_RB ,_, the_DT classifiers_NNS which_WDT are_VBP constructed_VBN by_IN these_DT studies_NNS lose_VBP the_DT ability_NN to_TO corr_VB

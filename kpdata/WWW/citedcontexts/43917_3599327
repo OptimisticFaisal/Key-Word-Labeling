@@ -1,0 +1,4 @@
+er_NN of_IN their_PRP$ underlying_VBG data_NNS model_NN and_CC -LRB-_-LRB- b_LS -RRB-_-RRB- the_DT way_NN the_DT different_JJ peers_NNS are_VBP semantically_RB connected_VBN ._.
+Both_DT characteristics_NNS have_VBP impact_NN on_IN the_DT allowed_VBN queries_NNS and_CC their_PRP$ distributed_VBN processing_NN ._.
+In_IN Edutella_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, each_DT peer_VBP stores_NNS locally_RB data_NNS -LRB-_-LRB- educational_JJ resources_NNS -RRB-_-RRB- that_WDT are_VBP described_VBN in_IN RDF_NNP relatively_RB to_TO some_DT reference_NN ontologies_NNS -LRB-_-LRB- e.g._FW ,_, dmoz_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+For_IN instance_NN ,_, a_DT peer_VBP can_MD declare_VB that_IN it_PRP has_VBZ data_NNS correspond_VBP

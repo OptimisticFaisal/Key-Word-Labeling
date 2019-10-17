@@ -1,0 +1,4 @@
+electing_VBG features_NNS for_IN each_DT individual_JJ stage_NN classifier_NN ,_, which_WDT leads_VBZ to_TO a_DT computational_JJ inefficiency_NN ._.
+Unlike_IN cascade_NN AdaBoost_NNP ,_, the_DT recently_RB proposed_VBN cascade_NN approach_NN for_IN Computer_NNP Aided_VBN Detection_NN -LRB-_-LRB- CAD_NN -RRB-_-RRB- =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: incorporates_VBZ the_DT computational_JJ complexity_NN of_IN features_NNS into_IN the_DT cascade_NN design_NN ._.
+The_DT cascading_VBG strategy_NN in_IN this_DT approach_NN brings_VBZ some_DT advantages_NNS :_: 1_CD ._.
+High_JJ computational_JJ efficiency_NN :_: early_JJ stages_NNS weed_NN out_RP

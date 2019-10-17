@@ -1,0 +1,4 @@
+he_PRP least_JJS common_JJ ._.
+entries_NNS were_VBD then_RB chosen_VBN from_IN the_DT interval_NN -LRB-_-LRB- 0_CD ,_, 1000_CD -RRB-_-RRB- ,_, which_WDT often_RB leads_VBZ to_TO cost_NN matrices_NNS in_IN which_WDT the_DT correct_JJ label_NN is_VBZ not_RB the_DT least_JJS costly_JJ one_CD ._.
+Besides_IN being_VBG unreasonable_JJ -LRB-_-LRB- see_VB Elkan_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, these_DT cost_NN matrices_NNS can_MD give_VB an_DT unfair_JJ advantage_NN to_TO cost-sensitive_JJ methods_NNS over_IN cost-insensitive_JJ ones_NNS ._.
+We_PRP therefore_RB set_VBD the_DT diagonal_JJ entries_NNS to_TO be_VB identically_RB zero_CD ,_, which_WDT is_VBZ consistent_JJ with_IN our_PRP$ nor_CC

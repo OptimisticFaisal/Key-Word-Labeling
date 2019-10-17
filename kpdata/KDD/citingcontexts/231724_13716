@@ -1,0 +1,4 @@
+A_DT number_NN of_IN learning_VBG approaches_NNS to_TO repeated_JJ games_NNS have_VBP been_VBN proposed_VBN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, but_CC these_DT are_VBP also_RB intractable_JJ in_IN large_JJ action_NN spaces_NNS ._.
+Other_JJ learning_NN approaches_VBZ focus_NN on_IN games_NNS with_IN sequential_JJ states_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, while_IN classification_NN is_VBZ stateless_JJ ._.
+We_PRP make_VBP the_DT assumption_NN ,_, standard_NN in_IN game_NN theory_NN ,_, that_IN all_DT parameters_NNS of_IN both_DT players_NNS are_VBP known_VBN to_TO each_DT other_JJ ._.
+Although_IN this_DT is_VBZ unlikely_JJ to_TO be_VB the_DT case_NN in_IN practice_NN

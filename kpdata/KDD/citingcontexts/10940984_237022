@@ -1,0 +1,7 @@
+in_IN a_DT graph_NN ._.
+THEOREM_NN 1_CD ._.
+Computing_NNP the_DT influence_NN spread_NN σI_NN -LRB-_-LRB- S_NN -RRB-_-RRB- given_VBN a_DT seed_NN set_NN S_NN is_VBZ #P_NN -_: hard_RB ._.
+Proof_NN ._.
+We_PRP prove_VBP the_DT theorem_NN by_IN a_DT reduction_NN from_IN the_DT counting_NN problem_NN of_IN s-t_FW connectness_FW in_IN a_DT directed_JJ graph_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT instance_NN of_IN s-t_FW connectness_FW is_VBZ a_DT directed_JJ graph_NN G_NN =_JJ -LRB-_-LRB- V_NN ,_, E_NN -RRB-_-RRB- and_CC two_CD vertices_NNS s_NN and_CC t_NN in_IN the_DT graph_NN ._.
+The_DT problem_NN is_VBZ to_TO count_VB the_DT number_NN of_IN subgraphs_NNS of_IN G_NN in_IN which_WDT s_NN is_VBZ connected_VBN to_TO t._VB It_PRP is_VBZ straight_RB

@@ -1,0 +1,5 @@
+n_NN point_NN T3_NN ._.
+where_WRB T_NN =_JJ 1_CD represents_VBZ the_DT event_NN ``_`` T_NN happened_VBD ''_'' ._.
+We_PRP define_VBP a_DT parametric_JJ model_NN for_IN a_DT DAG_NN by_IN the_DT conditional_JJ probability_NN of_IN each_DT node_NN given_VBN its_PRP$ parents_NNS ,_, i.e._FW by_IN assuming_VBG the_DT Markov_NNP condition_NN -LRB-_-LRB- =_JJ -_: =_JJ Spirtes_FW et_FW al._FW ,_, 2000_CD -_: =--RRB-_NN ._.
+There_EX is_VBZ ,_, however_RB ,_, a_DT special_JJ logical_JJ constraint_NN in_IN workflow_NN graphs_NNS ._.
+Let_VB an_DT OR-split_NN be_VB a_DT split_JJ node_NN that_WDT forces_VBZ a_DT unique_JJ choice_NN of_IN task_NN to_TO be_VB executed_VBN among_IN its_PRP$ children_NNS ,_, i.e._FW ,_, all_DT of_IN its_PRP$ children_NNS

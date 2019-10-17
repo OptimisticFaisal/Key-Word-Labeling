@@ -1,0 +1,5 @@
+orithmic_JJ details_NNS or_CC experimental_JJ results_NNS ._.
+A_DT related_JJ application_NN of_IN boosting_VBG to_TO select_VB a_DT subset_NN of_IN labeled_JJ instances_NNS for_IN nearest_JJS neighbor_NN classi_NNS ers_NNPS has_VBZ been_VBN explored_VBN in_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+The_DT closest_JJS related_JJ work_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: combines_VBZ the_DT Query_NNP by_IN Committee_NNP approach_NN with_IN bagging_VBG and_CC boosting_VBG techniques_NNS ._.
+In_IN this_DT paper_NN we_PRP use_VBP a_DT more_RBR general_JJ formulation_NN that_WDT separates_VBZ the_DT two_CD roles_NNS for_IN a_DT classi_FW er_FW in_IN such_JJ approaches_NNS ._.
+This_DT al_FW

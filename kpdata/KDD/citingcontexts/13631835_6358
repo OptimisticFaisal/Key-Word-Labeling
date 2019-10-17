@@ -1,0 +1,4 @@
+y_NN have_VBP at_IN least_JJS some_DT discrete_JJ attributes_NNS ,_, binary_JJ class_NN ,_, and_CC a_DT good_JJ number_NN of_IN examples_NNS ._.
+641Research_NNP Track_NNP Paper_NNP The_DT numerical_JJ attributes_NNS in_IN datasets_NNS are_VBP discretized_VBN first_RB using_VBG minimal_JJ entropy_NN method_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: as_IN CSDT_NN can_MD currently_RB only_RB deal_VB with_IN discrete_JJ attributes_NNS ._.
+We_PRP also_RB try_VBP to_TO choose_VB datasets_NNS with_IN very_RB different_JJ number_NN of_IN attributes_NNS ._.
+The_DT number_NN of_IN attributes_NNS and_CC other_JJ features_NNS of_IN these_DT datasets_NNS are_VBP li_FW

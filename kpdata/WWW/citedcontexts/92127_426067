@@ -1,0 +1,4 @@
+,_, and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- query_NN processing_NN of_IN ontology-related_JJ queries_NNS can_MD not_RB leverage_NN the_DT the_DT query_NN processing_NN and_CC optimization_NN power_NN of_IN a_DT DBMS_NN ._.
+Description_NN logic_NN -LRB-_-LRB- DL_NN -RRB-_-RRB- and_CC Datalog_NNP systems_NNS have_VBP also_RB been_VBN wellstudied_VBN =_JJ -_: =[_NN 8_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT systems_NNS are_VBP based_VBN on_IN translating_VBG a_DT subset_NN of_IN DL_NN to_TO Datalog_NNP so_IN that_DT efficient_JJ Datalog_NNP inferencing_NN engines_NNS can_MD be_VB used_VBN ._.
+Efficient_JJ Datalog_NNP inferencing_NN algorithms_NNS have_VBP been_VBN thoroughly_RB investigated_VBN

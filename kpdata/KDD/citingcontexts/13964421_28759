@@ -1,0 +1,4 @@
+ustering_NN ,_, Label_NN Space_NN 1_CD ._.
+INTRODUCTION_NN One_CD of_IN the_DT basic_JJ assumptions_NNS in_IN most_JJS supervised_JJ machine_NN learning_NN algorithms_NNS is_VBZ that_IN the_DT label_NN space_NN is_VBZ predefined_VBN and_CC shared_VBN by_IN the_DT training_NN and_CC testing_NN examples_NNS =_JJ -_: =[_NN 5_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, this_DT assumption_NN is_VBZ often_RB violated_VBN in_IN many_JJ open-domain_JJ applications_NNS of_IN classification_NN ._.
+For_IN example_NN ,_, in_IN online_JJ webpage_NN classification_NN ,_, we_PRP might_MD be_VB able_JJ to_TO provide_VB a_DT list_NN of_IN common_JJ classes_NNS ,_, su_FW

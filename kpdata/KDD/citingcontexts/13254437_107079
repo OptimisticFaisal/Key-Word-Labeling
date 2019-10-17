@@ -1,0 +1,5 @@
+refore_RB perform_VB collapsed_JJ sampling_NN in_IN a_DT similar_JJ manner_NN as_IN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- by_IN integrating_VBG out_RP θ_NN and_CC ϕ_NN ,_, and_CC sampling_NN z._NN In_IN addition_NN we_PRP sample_NN x_NN using_VBG Langevin_NNP diffusion_NN ._.
+The_DT λ_NN parameter_NN is_VBZ optimized_VBN using_VBG L-BFGS_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP describe_VBP -LRB-_-LRB- the_DT rather_RB technical_JJ -RRB-_-RRB- details_NNS below_IN ._.
+They_PRP are_VBP not_RB essential_JJ to_TO understanding_VBG the_DT experiments_NNS but_CC they_PRP matter_VBP for_IN the_DT purpose_NN of_IN reproducibility_NN of_IN the_DT results_NNS ._.
+After_IN integrating_VBG over_IN θ_NN

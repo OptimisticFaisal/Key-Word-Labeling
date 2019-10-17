@@ -1,0 +1,3 @@
+I_PRP have_VBP developed_VBN a_DT method_NN ,_, called_VBN cost_NN curves_NNS ,_, for_IN analyzing_VBG and_CC comparing_VBG two-class_JJ classifier_NN performance_NN when_WRB the_DT misclassification_NN costs_NNS and_CC the_DT relative_JJ frequency_NN of_IN the_DT two_CD classes_NNS are_VBP unknown_JJ =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT key_JJ idea_NN is_VBZ to_TO plot_VB performance_NN -LRB-_-LRB- expected_VBN cost_NN ,_, normalized_VBD to_TO be_VB between_IN 0_CD and_CC 1_CD -RRB-_-RRB- as_IN a_DT function_NN of_IN these_DT unknowns_NNS ._.
+It_PRP turns_VBZ out_RP that_IN ,_, for_IN the_DT case_NN of_IN expected_VBN cost_NN ,_, these_DT unknowns_NNS can_MD be_VB combine_VB

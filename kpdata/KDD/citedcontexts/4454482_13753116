@@ -1,0 +1,4 @@
+the_DT links_NNS ._.
+Other_JJ work_NN that_WDT incorporates_VBZ meta-data_JJ into_IN topic_NN models_NNS includes_VBZ models_NNS of_IN linguistic_JJ structure_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, models_NNS that_WDT account_VBP for_IN distances_NNS between_IN corpora_NN -LRB-_-LRB- 38_CD -RRB-_-RRB- ,_, and_CC models_NNS of_IN named_VBN entities_NNS =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+General_JJ purpose_NN methods_NNS for_IN incorporating_VBG meta-data_NN into_IN topic_NN models_NNS include_VBP Dirichlet-multinomial_JJ regression_NN models_NNS -LRB-_-LRB- 25_CD -RRB-_-RRB- and_CC supervised_JJ topic_NN models_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+3.3_CD Other_JJ kinds_NNS of_IN data_NNS In_IN LDA_NNP ,_, the_DT topics_NNS

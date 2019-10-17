@@ -1,0 +1,4 @@
+st-sensitive_JJ learning_NN and_CC decision_NN making_NN ._.
+Various_JJ authors_NNS have_VBP noted_VBN the_DT limitations_NNS of_IN classic_JJ supervised_JJ learning_NN methods_NNS when_WRB the_DT acquired_VBN rules_NNS are_VBP used_VBN for_IN cost-sensitive_JJ decision_NN making_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 13_CD ,_, 4_CD ,_, 5_CD ,_, 17_CD ,_, 8_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+A_DT number_NN of_IN cost-sensitive_JJ learning_NN methods_NNS have_VBP been_VBN developed_VBN -LRB-_-LRB- 4_CD ,_, 17_CD ,_, 6_CD -RRB-_-RRB- that_WDT have_VBP been_VBN shown_VBN to_TO be_VB superior_JJ to_TO traditional_JJ classification-based_JJ methods_NNS ._.
+However_RB ,_, these_DT cost-sensitive_JJ methods_NNS onl_VBP

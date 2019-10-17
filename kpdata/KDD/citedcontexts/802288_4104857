@@ -1,0 +1,5 @@
+arger_NN and_CC if_IN a_DT window_NN is_VBZ slid_VBN along_IN a_DT very_RB long_JJ time_NN series_NN a_DT very_RB large_JJ dissimilarity_NN matrix_NN has_VBZ to_TO be_VB processed_VBN ._.
+Therefore_RB it_PRP is_VBZ a_DT good_JJ idea_NN to_TO use_VB subsampling_VBG to_TO reduce_VB run-time_NN requirements_NNS as_IN in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+HMMs_NNS assume_VBP that_IN there_EX is_VBZ a_DT fixed_JJ number_NN of_IN hidden_JJ -LRB-_-LRB- unobservable_JJ -RRB-_-RRB- states_NNS in_IN which_WDT a_DT system_NN may_MD currently_RB be_VB ._.
+The_DT output_NN of_IN the_DT system_NN depends_VBZ solely_RB on_IN the_DT current_JJ state_NN ._.
+Learning_VBG an_DT HMM_NN corresponds_VBZ

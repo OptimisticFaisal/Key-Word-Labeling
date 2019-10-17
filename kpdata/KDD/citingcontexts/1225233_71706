@@ -1,0 +1,5 @@
+its_PRP$ value_NN changes_NNS from_IN the_DT lowest_JJS to_TO the_DT highest_JJS interval_NN ._.
+This_DT kind_NN of_IN presentation_NN is_VBZ also_RB suitable_JJ for_IN ordered_VBN discrete_JJ attributes_NNS ._.
+We_PRP have_VBP used_VBN the_DT `_`` Horse_NNP Colic_NNP '_POS data_NNS set_VBN from_IN the_DT UCI_NNP repository_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Among_IN the_DT attributes_NNS ,_, we_PRP have_VBP chosen_VBN the_DT respiratory_JJ rate_NN and_CC the_DT body_NN temperature_NN ,_, as_IN they_PRP are_VBP continuous_JJ attributes_NNS with_IN potentially_RB non-linear_JJ effects_NNS ._.
+It_PRP is_VBZ clear_JJ that_IN there_EX is_VBZ a_DT particular_NN rang_VBD

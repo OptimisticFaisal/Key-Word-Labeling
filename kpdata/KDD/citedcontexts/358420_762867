@@ -1,0 +1,4 @@
+arity_NN measures_NNS from_IN labeled_VBN data_NNS -LRB-_-LRB- Tejada_NNP ,_, Knoblock_NNP ,_, &_CC Minton_NNP ,_, 2001_CD ;_: Bilenko_NNP &_CC Mooney_NNP ,_, 2003_CD -RRB-_-RRB- ._.
+Resolving_NNP entities_NNS optimally_RB is_VBZ known_VBN to_TO be_VB computationally_RB hard_RB even_RB when_WRB only_JJ attributes_NNS are_VBP considered_VBN -LRB-_-LRB- =_JJ -_: =_JJ Cohen_NNP ,_, Kautz_NNP ,_, &_CC McAllester_NNP ,_, 2000_CD -_: =--RRB-_NN ._.
+Therefore_RB ,_, efficiency_NN has_VBZ received_VBN a_DT lot_NN of_IN attention_NN in_IN attribute-based_JJ data_NNS cleaning_NN ._.
+The_DT goal_NN essentially_RB is_VBZ to_TO avoid_VB irrelevant_JJ and_CC expensive_JJ attribute_NN similarity_NN computations_NNS using_VBG a_DT `_`` blocking_VBG

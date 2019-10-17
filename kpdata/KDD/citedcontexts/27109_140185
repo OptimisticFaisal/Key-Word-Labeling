@@ -1,0 +1,3 @@
+ture_NN ,_, new_JJ approaches_NNS to_TO clustering_NN are_VBP emerging_VBG -LRB-_-LRB- 5_CD ,_, 16_CD ,_, 20_CD ,_, 27_CD ,_, 10_CD -RRB-_-RRB- ._.
+In_IN this_DT article_NN we_PRP are_VBP concerned_VBN with_IN the_DT clustering_NN of_IN rows_NNS x_CC ∈_NN X_NN and_CC columns_NNS y_FW ∈_FW Y_NN of_IN a_DT rectangular_JJ matrix_NN with_IN non-negative_JJ entries_NNS =_JJ -_: =[_NN 32_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT context_NN of_IN a_DT two_CD dimensional_JJ OLAP_NN cube_NN ,_, such_PDT a_DT matrix_NN represents_VBZ the_DT simplest_JJS relationship_NN between_IN two_CD nominal_JJ categorical_JJ variables_NNS ,_, in_IN which_WDT one_CD variable_NN -LRB-_-LRB- dimension_NN -RRB-_-RRB- is_VBZ the_DT row_NN and_CC the_DT othe_NN

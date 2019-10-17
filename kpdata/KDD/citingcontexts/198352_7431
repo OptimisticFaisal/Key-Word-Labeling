@@ -1,0 +1,4 @@
+n_NN ,_, and_CC low_JJ values_NNS for_IN very_RB large_JJ n._NN For_IN example_NN ,_, data_NNS from_IN Oates_NNP and_CC Jensen_NNP -LRB-_-LRB- 12_CD ,_, 13_CD -RRB-_-RRB- show_VBP that_IN the_DT distribution_NN of_IN the_DT number_NN of_IN instances_NNS needed_VBN for_IN convergence_NN over_IN a_DT large_JJ set_NN of_IN the_DT UCI_NNP databases_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ roughly_RB log-normal_JJ ._.
+Given_VBN such_JJ expectations_NNS about_IN nmin_NN ,_, is_VBZ it_PRP possible_JJ to_TO construct_VB the_DT schedule_NN with_IN the_DT minimum_NN expected_VBD cost_NN of_IN convergence_NN ?_.
+This_DT seems_VBZ a_DT daunting_JJ task_NN ._.
+For_IN each_DT value_NN of_IN n_NN ,_, fr_NN

@@ -1,0 +1,4 @@
+methods_NNS specific_JJ for_IN decision_NN trees_NNS -LRB-_-LRB- 15_CD ,_, 4_CD -RRB-_-RRB- ,_, neural_JJ networks_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- and_CC support_NN vector_NN machines_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+The_DT second_JJ category_NN uses_VBZ Bayes_NNP risk_NN theory_NN to_TO assign_VB each_DT example_NN to_TO its_PRP$ lowest_JJS expected_VBN cost_NN class_NN =_JJ -_: =[_NN 8_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT requires_VBZ classifiers_NNS to_TO output_NN class_NN membership_NN probabilities_NNS and_CC sometimes_RB requires_VBZ estimating_NN costs_NNS -LRB-_-LRB- 19_CD -RRB-_-RRB- -LRB-_-LRB- when_WRB the_DT costs_NNS are_VBP unknown_JJ at_IN classification_NN time_NN -RRB-_-RRB- ._.
+The_DT third_JJ category_NN concerns_NNS metho_NN

@@ -1,0 +1,4 @@
+erences_NNS ._.
+In_IN particular_JJ ,_, several_JJ link-based_JJ algorithms_NNS have_VBP been_VBN suggested_VBN to_TO exploit_VB the_DT similarity_NN information_NN hidden_VBN in_IN the_DT link_NN structure_NN of_IN graph_NN ,_, such_JJ as_IN Co-citation_NN -LRB-_-LRB- 31_CD -RRB-_-RRB- ,_, Companion_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, SimRank_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC PageSim_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+Further_JJ methods_NNS arise_VBP from_IN graph_NN theory_NN ,_, such_JJ as_IN similarity_NN measure_NN that_WDT is_VBZ based_VBN on_IN network_NN flows_NNS -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+One_CD major_JJ problem_NN of_IN the_DT link-based_JJ algorithms_NNS is_VBZ that_IN they_PRP usually_RB do_VBP not_RB

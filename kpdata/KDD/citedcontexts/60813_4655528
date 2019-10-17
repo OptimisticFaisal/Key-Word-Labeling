@@ -1,0 +1,3 @@
+viating_VBG negative_JJ documents_NNS ._.
+Our_PRP$ approach_NN performs_VBZ a_DT user-interest-based_JJ document_NN retrieval_NN task_NN in_IN the_DT presence_NN of_IN deviating_VBG negative_JJ documents_NNS by_IN modifying_VBG the_DT semi-supervised_JJ clustering_NN approach_NN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT semi-supervised_JJ method_NN in_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- made_VBD improvements_NNS to_TO the_DT standard_JJ Kmeans_NNP clustering_NN by_IN incorporating_VBG user_NN supervision_NN to_TO the_DT initialization_NN process_NN and_CC the_DT distance_NN measure_NN based_VBN on_IN a_DT probabilisti_NN

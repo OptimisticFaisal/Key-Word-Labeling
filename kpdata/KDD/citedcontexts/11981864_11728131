@@ -1,0 +1,5 @@
+applications_NNS for_IN predicting_VBG the_DT overall_JJ popularity_NN and_CC temporal_JJ trends_NNS exhibited_VBN by_IN the_DT online_JJ content_NN ._.
+Moreover_RB ,_, our_PRP$ results_NNS can_MD be_VB used_VBN for_IN better_JJR placing_NN of_IN content_NN to_TO maximize_VB clickthrough_JJ rates_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: and_CC for_IN finding_VBG influential_JJ blogs_NNS and_CC Twitters_NNS -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+2_CD ._.
+FINDING_VBG TEMPORAL_JJ PATTERNS_NNS In_IN this_DT section_NN ,_, we_PRP formally_RB define_VBP the_DT problem_NN and_CC then_RB propose_VBP K-Spectral_NN Centroid_NN -LRB-_-LRB- K-SC_NN -RRB-_-RRB- clustering_NN algorithm_NN ._.
+We_PRP

@@ -1,0 +1,5 @@
+avior_RB including_VBG the_DT branched_VBN transition_NN like_IN this_DT ._.
+So_RB ,_, in_IN what_WP follows_VBZ ,_, we_PRP adopt_VBP graph_NN mining_NN which_WDT can_MD treat_VB branched_VBN transitions_NNS ._.
+2.3_CD Graph_NN mining_NN algorithms_NNS AGM_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, FSG_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, gSpan_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, and_CC GASTON_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP known_VBN as_IN representatives_NNS of_IN graph_NN mining_NN algorithms_NNS ._.
+AGM_NNP is_VBZ the_DT first_JJ graph_NN mining_NN algorithm_NN proposed_VBN by_IN Inokuchi_NNP et_FW al._FW ._.
+AGM_NNP represents_VBZ a_DT graph_NN structure_NN as_IN an_DT adjacency_NN matrix_NN ,_, and_CC extracts_NNS freq_VBP

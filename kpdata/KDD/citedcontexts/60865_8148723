@@ -1,0 +1,4 @@
+anted_VBD patents_NNS that_IN examiners_NNS and_CC applicants_NNS would_MD consider_VB useful_JJ to_TO include_VB as_IN prior_JJ art_NN patent_NN citations_NNS ._.
+In_IN recent_JJ years_NNS several_JJ margin_NN based_VBN methods_NNS for_IN document_NN ranking_NN have_VBP been_VBN proposed_VBN ,_, e.g._FW ,_, =_JJ -_: =[_NN 51_CD ,_, 82_CD ,_, 19_CD ,_, 57_CD ,_, 23_CD ,_, 109_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, in_IN the_DT approach_NN by_IN -LRB-_-LRB- 51_CD ,_, 82_CD -RRB-_-RRB- the_DT ranking_JJ problem_NN is_VBZ transformed_VBN into_IN a_DT binary_JJ classification_NN problem_NN and_CC solved_VBN by_IN SVM_NN ._.
+-LRB-_-LRB- 19_CD -RRB-_-RRB- considers_VBZ different_JJ loss_NN functions_NNS for_IN misclassification_NN of_IN t_NN

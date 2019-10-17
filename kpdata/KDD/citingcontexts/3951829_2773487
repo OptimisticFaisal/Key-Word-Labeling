@@ -1,0 +1,5 @@
+s_NN onto_IN the_DT random_JJ vectors_NNS -RRB-_-RRB- ._.
+Then_RB the_DT guarantees_NNS given_VBN by_IN the_DT JohnsonLindenstrauss_NNP lemma_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- hold_NN ._.
+In_IN time_NN series_NN data_NNS mining_NN ,_, sketch-based_JJ approaches_NNS have_VBP been_VBN used_VBN to_TO identify_VB representative_JJ trends_NNS =_JJ -_: =[_NN 18_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, maintain_VB histograms_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, and_CC to_TO compute_VB approximate_JJ wavelet_NN coefficients_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, for_IN example_NN ._.
+4_LS ._.
+CONTRIBUTIONS_NNS OF_IN THIS_NNP PAPER_NNP Previous_JJ work_NN -LRB-_-LRB- 14_CD ,_, 10_CD -RRB-_-RRB- showed_VBD how_WRB to_TO solve_VB the_DT windowed_JJ correlation_NN proble_NN

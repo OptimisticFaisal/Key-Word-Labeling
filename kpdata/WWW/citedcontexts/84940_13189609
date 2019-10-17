@@ -1,0 +1,4 @@
+cost_NN ._.
+For_IN many_JJ real_JJ graphs_NNS ,_, the_DT community\/clustering_NN structure_NN can_MD be_VB naturally_RB identified_VBN ._.
+For_IN instance_NN ,_, in_IN Web_NN graphs_NNS ,_, the_DT lexicographic_JJ ordering_VBG of_IN the_DT URL_NN can_MD be_VB used_VBN as_IN an_DT indicator_NN of_IN community_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: since_IN there_EX are_VBP usually_RB more_JJR intra-domain_JJ links_NNS compared_VBN with_IN the_DT inter-domain_JJ links_NNS ._.
+For_IN authorship_NN network_NN ,_, the_DT research_NN interest_NN is_VBZ often_RB a_DT good_JJ indicator_NN to_TO find_VB communities_NNS since_IN authors_NNS with_IN th_DT

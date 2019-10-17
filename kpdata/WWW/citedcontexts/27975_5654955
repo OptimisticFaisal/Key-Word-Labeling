@@ -1,0 +1,4 @@
+accessed_VBN videos_NNS to_TO improve_VB performance_NN for_IN a_DT group_NN of_IN clients_NNS ._.
+A_DT number_NN of_IN approaches_NNS perform_VBP partial_JJ caching_NN of_IN video_NN streams_NNS to_TO improve_VB performance_NN ,_, while_IN reducing_VBG resource_NN consumption_NN at_IN the_DT proxy_NN =_JJ -_: =[_NN 13_CD ,_, 20_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Other_JJ approaches_NNS use_VBP cooperative_JJ caches_NNS to_TO improve_VB hit_NN rates_NNS as_RB well_RB as_IN reduce_VB server_NN load_NN and_CC WAN_NNP bandwidth_NN utilization_NN -LRB-_-LRB- 1_CD ,_, 19_CD -RRB-_-RRB- ._.
+There_EX are_VBP a_DT number_NN of_IN important_JJ differences_NNS between_IN NFB_NN and_CC proxy_NN ca_MD

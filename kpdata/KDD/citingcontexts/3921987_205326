@@ -1,0 +1,6 @@
+v_LS to_TO s_NN -LRB-_-LRB- v_LS -RRB-_-RRB- in_IN constant_JJ time_NN via_IN the_DT suffix_JJ link_NN between_IN them_PRP ._.
+If_IN v_LS is_VBZ a_DT leaf_NN ,_, we_PRP can_MD jump_VB from_IN v_LS to_TO s_NN -LRB-_-LRB- v_LS -RRB-_-RRB- in_IN constant_JJ time_NN through_IN the_DT so-called_JJ ``_`` skip\/count_NN ''_'' trick_NN ._.
+Theorem_NNP 5_CD ._.
+-LRB-_-LRB- 21_CD -RRB-_-RRB- Ukkonen_NNP 's_POS algorithm_NN =_JJ -_: =[_NN 59_CD -RRB-_-RRB- -_: =_SYM -_: can_MD construct_VB the_DT suffix_NN tree_NN T_NN for_IN a_DT string_NN S_NN of_IN length_NN n_NN ,_, along_IN with_IN all_DT its_PRP$ suffix_NN links_NNS ,_, in_IN O_NN -LRB-_-LRB- n_NN -RRB-_-RRB- time_NN ._.
+Definition_NN 4_CD ._.
+-LRB-_-LRB- 21_CD -RRB-_-RRB- A_DT generalized_JJ suffix_NN tree_NN can_MD be_VB constructed_VBN for_IN a_DT set_NN of_IN strings_NNS ,_, i.e._FW ,_,

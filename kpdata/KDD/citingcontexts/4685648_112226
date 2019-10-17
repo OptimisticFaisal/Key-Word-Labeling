@@ -1,0 +1,4 @@
+-RRB-_-RRB- ,_, Ringo_NNP -LRB-_-LRB- 28_CD -RRB-_-RRB- and_CC Video_NNP Recommender_NNP -LRB-_-LRB- 30_CD -RRB-_-RRB- are_VBP the_DT earliest_JJS fully_RB automatic_JJ recommender_NN systems_NNS ,_, which_WDT provide_VBP recommendations_NNS of_IN news_NN ,_, music_NN ,_, and_CC movies_NNS ._.
+PHOAKS_NN -LRB-_-LRB- People_NNS Helping_VBG One_CD Another_DT Know_NNP Stuff_NNP -RRB-_-RRB- =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: crawls_VBZ web_NN messages_NNS and_CC extracts_NNS recommendations_NNS from_IN them_PRP rather_RB than_IN using_VBG users_NNS '_POS explicit_JJ ratings_NNS ._.
+GroupLens_NNP has_VBZ also_RB developed_VBN a_DT movie_NN recommender_NN system_NN called_VBN MovieLens_NNP 5_CD -LRB-_-LRB- 11_CD ,_, 26_CD ,_, 27_CD -RRB-_-RRB- ._.
+Fab_NNP -LRB-_-LRB- 2_CD -RRB-_-RRB-

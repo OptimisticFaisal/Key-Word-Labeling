@@ -1,0 +1,4 @@
+framework_NN ,_, Kearns_NNP and_CC Li_NNP bound_VBD the_DT classification_NN error_NN an_DT adversary_NN that_WDT has_VBZ control_NN over_IN a_DT fraction_NN β_NN of_IN the_DT training_NN set_NN can_MD cause_VB -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Dalvi_NNP et_FW al._FW apply_VB game_NN theory_NN to_TO the_DT classification_NN problem_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP model_VBP interactions_NNS between_IN the_DT classifier_NN and_CC attacker_NN as_IN a_DT game_NN and_CC find_VB the_DT optimal_JJ counterstrategy_NN for_IN the_DT classifier_NN against_IN an_DT optimal_JJ opponent_NN ._.
+In_IN this_DT paper_NN we_PRP focus_VBP on_IN Causative_JJ attacks_NNS

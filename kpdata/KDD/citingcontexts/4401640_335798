@@ -1,0 +1,3 @@
+es_NNS are_VBP preserved_JJ ._.
+Examples_NNS of_IN these_DT approaches_NNS include_VBP algorithms_NNS such_JJ as_IN Multidimensional_JJ Scaling_NN -LRB-_-LRB- MDS_NN -RRB-_-RRB- -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, Locally_RB Linear_JJ Embeddings_NNS -LRB-_-LRB- LLE_NN -RRB-_-RRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, ISOMAP_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, and_CC low-dimensional_JJ embeddings_NNS via_IN SDP_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT methods_NNS can_MD implicitly_RB reduce_VB the_DT amount_NN of_IN computation_NN regarding_VBG distance_NN calculations_NNS ;_: however_RB due_JJ to_TO their_PRP$ purely_RB unsupervised_JJ nature_NN ,_, they_PRP rely_VBP on_IN a_DT distance_NN function_NN to_TO be_VB given_VBN and_CC canno_NN

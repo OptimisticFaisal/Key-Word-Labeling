@@ -1,0 +1,5 @@
+apan_NN ,_, US_NNP -RCB-_-RRB- -LRB-_-LRB- M_NN =_JJ 3_CD -RRB-_-RRB- ._.
+The_DT corresponding_JJ graph_NN G_NN is_VBZ shown_VBN in_IN Figure_NNP 11_CD ._.
+We_PRP fix_VBP the_DT number_NN of_IN topics_NNS K_NN that_IN we_PRP want_VBP to_TO discover_VB from_IN the_DT bipartite_JJ graph_NN G_NN and_CC apply_VB the_DT spectral_JJ graph_NN partitioning_VBG technique_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: to_TO partition_NN G_NN into_IN K_NN subgraphs_NNS ._.
+The_DT spectral_JJ technique_NN partitions_NNS the_DT graph_NN such_JJ that_IN each_DT subgraph_NN has_VBZ greater_JJR internal_JJ association_NN that_IN external_JJ association_NN ._.
+Each_DT subgraph_NN is_VBZ considered_VBN to_TO be_VB a_DT to_TO

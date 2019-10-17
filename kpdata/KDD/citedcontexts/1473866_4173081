@@ -1,0 +1,4 @@
+aptive_JJ similarity_NN measure_NN ._.
+The_DT authors_NNS of_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- propose_VBP to_TO apply_VB a_DT complete-link_JJ clustering_NN algorithm_NN after_IN replacing_VBG the_DT Euclidean_JJ distance_NN with_IN the_DT shortest_JJS path_NN algorithm_NN ._.
+The_DT approach_NN described_VBN in_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: weights_NNS the_DT edit_NN distance_NN using_VBG an_DT expectation_NN maximization_NN algorithm_NN to_TO detect_VB approximately_RB duplicate_VBP objects_NNS in_IN a_DT database_NN ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- describes_VBZ a_DT probabilistic_JJ framework_NN for_IN semi-supervised_JJ clustering_NN t_NN

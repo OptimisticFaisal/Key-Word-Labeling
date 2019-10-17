@@ -1,0 +1,4 @@
+milarity_NN of_IN two_CD non-intersecting_JJ columns_NNS is_VBZ zero_NN ._.
+Spectral_JJ algorithms_NNS are_VBP important_JJ tools_NNS for_IN a_DT wide_JJ range_NN of_IN problems_NNS such_JJ as_IN ,_, solving_VBG linear_JJ systems_NNS -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, ordering_VBG problems_NNS -LRB-_-LRB- 1_CD ,_, 16_CD -RRB-_-RRB- ,_, data_NN clustering_NN =_JJ -_: =[_NN 18_CD ,_, 10_CD -RRB-_-RRB- -_: =_JJ -_: and_CC many_JJ more_JJR ._.
+Before_IN describing_VBG the_DT spectral_JJ bisection_NN algorithm_NN we_PRP use_VBP ,_, we_PRP give_VBP some_DT background_NN for_IN the_DT spectral_JJ method_NN in_IN general_JJ ._.
+Consider_VB a_DT weighted_JJ undirected_JJ graph_NN G_NN =_JJ -LRB-_-LRB- V_NN ,_, E_NN -RRB-_-RRB- where_WRB each_DT -LRB-_-LRB- i_LS ,_, j_NN -RRB-_-RRB-

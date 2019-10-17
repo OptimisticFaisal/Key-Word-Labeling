@@ -1,0 +1,4 @@
+trouble_NN ticket_NN data_NNS ._.
+We_PRP are_VBP not_RB aware_JJ of_IN any_DT prior_JJ work_NN on_IN the_DT automatic_JJ analysis_NN of_IN the_DT free-text_JJ part_NN of_IN trouble_NN tickets_NNS ._.
+Some_DT studies_NNS have_VBP used_VBN automated_JJ techniques_NNS to_TO mine_VB network_NN failures_NNS -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, but_CC these_DT studies_NNS were_VBD based_VBN on_IN logs_NNS generated_VBN automatically_RB by_IN the_DT network_NN ,_, not_RB on_IN the_DT free-text_JJ description_NN of_IN trouble_NN tickets_NNS ._.
+Other_JJ researchers_NNS have_VBP characterized_VBN trouble_NN tickets_NNS from_IN diff_NN

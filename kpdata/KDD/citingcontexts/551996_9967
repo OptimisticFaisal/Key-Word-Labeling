@@ -1,0 +1,4 @@
+S_NN =_JJ 22243_CD \/_: ,_, occ_NN =_JJ 19517_CD \/_: Students\/Classes_NNS ,_, occ_NN =_JJ 2726_CD \*_NN number_NN after_IN page_NN name_NN is_VBZ the_DT occurrence_NN in_IN the_DT cluster_NN 5_CD ._.
+RELATED_NNS WORK_VBP There_EX are_VBP many_JJ works_NNS on_IN clustering_NN large_JJ databases_NNS ,_, e.g._FW CLARANS_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, BIRCH_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, DBSCAN_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, CLIQUE_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+Most_JJS of_IN them_PRP are_VBP designed_VBN for_IN low_JJ dimensional_JJ numerical_JJ data_NNS ,_, exceptions_NNS are_VBP CLIQUE_NNP which_WDT finds_VBZ dense_JJ subspaces_NNS in_IN higher_JJR dimensions_NNS ._.
+Recently_RB ,_, many_JJ works_NNS on_IN clustering_NN large_JJ

@@ -1,0 +1,5 @@
+,_, we_PRP shall_MD denote_VB a_DT secure_JJ inner_JJ product_NN computation_NN as_IN ._.
+Many_JJ protocols_NNS have_VBP been_VBN proposed_VBN and_CC they_PRP can_MD be_VB categorized_VBN as_IN cryptographic_JJ protocols_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- -RRB-_-RRB- and_CC algebraic_JJ protocols_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- --_: =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+They_PRP provide_VBP different_JJ levels_NNS of_IN security_NN and_CC efficiency_NN ._.
+Most_JJS of_IN the_DT algebraic_JJ protocols_NNS leak_NN some_DT information_NN but_CC are_VBP more_RBR straightforward_JJ and_CC efficient_JJ than_IN their_PRP$ cryptographic_JJ counterparts_NNS ._.
+The_DT

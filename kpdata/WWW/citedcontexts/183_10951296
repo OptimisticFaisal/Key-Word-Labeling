@@ -1,0 +1,4 @@
+st_IN management_NN systems_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+Well-known_JJ trust_NN and_CC reputation_NN management_NN systems_NNS include_VBP the_DT rating_NN scheme_NN used_VBN by_IN the_DT eBay_NNP on-line_JJ auction_NN site_NN ,_, object_NN reputation_NN systems_NNS for_IN P2P_NN file_NN sharing_NN networks_NNS =_JJ -_: =[_NN 15_CD ,_, 25_CD -RRB-_-RRB- -_: =_JJ -_: and_CC PageRank_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+In_IN contrary_JJ to_TO the_DT above_JJ systems_NNS ,_, our_PRP$ system_NN incorporates_VBZ social_JJ trust_NN to_TO mitigate_VB false_JJ reporting_NN and_CC Sybil_NNP attacks_NNS ._.
+EigenTrust_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- provides_VBZ trust_NN values_NNS that_WDT enable_VBP a_DT system_NN to_TO r_NN

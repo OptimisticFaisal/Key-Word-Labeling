@@ -1,0 +1,5 @@
+ference_NN attacks_NNS with_IN a_DT reasonable_JJ overhead_NN ._.
+Keywords_NNS :_: Group_NN linkage_NN ,_, privacy_NN ,_, secure_JJ multi-party_JJ computation_NN ._.
+1_CD Introduction_NN Record_NNP linkage_NN -LRB-_-LRB- RL_NN -RRB-_-RRB- ,_, also_RB known_VBN as_IN the_DT merge-purge_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- or_CC object_NN identity_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_JJ -_: problem_NN ,_, is_VBZ one_CD of_IN the_DT key_JJ tasks_NNS in_IN data_NN cleaning_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC integration_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Its_PRP$ goal_NN is_VBZ to_TO identify_VB related_JJ records_NNS that_WDT are_VBP associated_VBN with_IN the_DT same_JJ entity_NN from_IN multiple_JJ databases_NNS ._.
+When_WRB we_PRP extend_VBP th_DT

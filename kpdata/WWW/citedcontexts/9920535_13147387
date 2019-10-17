@@ -1,0 +1,5 @@
+s_NN of_IN OPCA_NN ,_, CCA_NN and_CC CL-LSI_NN are_VBP from_IN -LRB-_-LRB- Platt_NNP et_FW al._FW ,_, 2010_CD -RRB-_-RRB- ._.
+results_NNS ._.
+Previous_JJ work_NN on_IN ad_NN relevance_NN focuses_VBZ on_IN constructing_VBG appropriate_JJ term-vectors_NNS to_TO represent_VB queries_NNS and_CC ad-text_JJ -LRB-_-LRB- Broder_NNP et_FW al._FW ,_, 2008_CD ;_: =_JJ -_: =_JJ Choi_NNP et_FW al._FW ,_, 2010_CD -_: =--RRB-_NN ._.
+In_IN this_DT section_NN ,_, we_PRP extend_VBP the_DT work_NN in_IN -LRB-_-LRB- Yih_NNP and_CC Jiang_NNP ,_, 2010_CD -RRB-_-RRB- and_CC show_VB how_WRB S2Net_NN can_MD exploit_VB annotated_JJ query_NN --_: ad_NN pairs_NNS to_TO improve_VB the_DT vector_NN representation_NN in_IN this_DT monolingual_JJ setting_NN ._.
+4.2.1_NNP Data_NNP &_CC T_NN

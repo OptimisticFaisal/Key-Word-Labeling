@@ -1,0 +1,4 @@
+,_, the_DT particle_NN can_MD returns_NNS to_TO node_NN i_FW with_IN some_DT restart_VBP probability_NN -LRB-_-LRB- 1_CD −_CD c_NN -RRB-_-RRB- ._.
+The_DT proximity_NN score_NN from_IN node_NN i_FW to_TO node_NN j_NN is_VBZ defined_VBN as_IN the_DT steady-state_JJ probability_NN ri_NN ,_, j_NN that_IN the_DT particle_NN will_MD be_VB on_IN node_NN j_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Intuitively_RB ,_, ri_NN ,_, j_NN is_VBZ the_DT fraction_NN of_IN time_NN that_IN the_DT particle_NN starting_VBG from_IN node_NN i_FW will_MD spend_VB on_IN each_DT node_NN j_NN of_IN the_DT graph_NN ,_, after_IN an_DT infinite_JJ number_NN of_IN steps_NNS ._.
+If_IN we_PRP stack_VBP all_PDT the_DT proximity_NN scores_NNS ri_NN ,_, j_NN

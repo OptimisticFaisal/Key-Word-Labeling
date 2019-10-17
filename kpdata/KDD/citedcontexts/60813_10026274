@@ -1,0 +1,7 @@
+tion_NN and_CC clustering_NN steps_NNS ._.
+An_DT example_NN of_IN metric-based_JJ approach_NN is_VBZ given_VBN in_IN Ref_NNP ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Notice_NNP that_IN -LRB-_-LRB- 28_CD -RRB-_-RRB- integrates_VBZ both_CC constraint-based_JJ and_CC metric-based_JJ approaches_NNS in_IN a_DT k-means-like_JJ algorithm_NN ._.
+In_IN Ref_NNP ._.
+=_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT authors_NNS propose_VBP a_DT probabilistic_JJ model_NN for_IN semi-supervised_JJ clustering_NN ,_, which_WDT also_RB combines_VBZ the_DT two_CD approaches_NNS ._.
+Other_JJ related_JJ work_NN focuses_VBZ on_IN constraint_NN feasibility_NN on_IN a_DT k-means-like_JJ scheme_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_,

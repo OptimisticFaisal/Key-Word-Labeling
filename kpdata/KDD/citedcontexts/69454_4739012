@@ -1,0 +1,4 @@
+服务系统是对同一个领域_NNP Deep_NNP Web进行的集成和查询_NNP ,_, 因此需要对上述定义_NNP 的体系结构进行了剪裁_NNP ,_, 去掉了_NNP SC_NNP 和_NNP SS_NNP 构件_NNP ._.
+整个原型系统包括_NN :_: 知识发现子系统_NN :_: DC_NN :_: 实现从图书馆网站收集各检索源_NN -LRB-_-LRB- Deep_JJ Web_NN -RRB-_-RRB- ,_, 如万方_FW 、_FW ISI_FW 、_FW Metalib_FW 等_NN ;_: IE_NN :_: 开放_FW 源码_FW HTML_NNP Parser_FW 基础上_FW ,_, 实现了查询界面接口解析_NN ,_, 抽取其中包含的_NN Form_NN 元素_NN ;_: SM_NN :_: 人工实现模式匹配_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: s264_NN Journal_NNP of_IN Software_NNP 软件学报_NNP Vol_NNP .19_CD ,_, No._NN 2_CD ,_, February_NNP 2008_CD 和映射_NN ;_: GUI_NNP :_: 根据匹配和映射结果_NN ,_, 构造统一查询界面_NN -LRB-_-LRB- 本文仅选择主题单个固定字段_NN -RRB-_-RRB- ._.
+所有这些形成集成_FW 查询需要的知识库_FW ,_, 如图_NN 3_CD 所示为部分模式匹配的结果_NN -LRB-_-LRB- 事实知识_NN -RRB-_-RRB- ;_: CLS_NN :_: 清理指定_CD Deep_JJ Web_NN 对应知识信息_NN ._.
+集成查询子系统_NN :_: QT_NN :_: 利用已有映射结果实现统一查询界_NN

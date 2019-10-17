@@ -1,0 +1,5 @@
+roblem_NN ,_, and_CC also_RB illustrates_VBZ how_WRB the_DT algorithm_NN may_MD be_VB implemented_VBN efficiently_RB for_IN special_JJ classes_NNS of_IN experts_NNS ._.
+The_DT problem_NN we_PRP study_VBP is_VBZ personalized_VBN news_NN article_NN recommendation_NN on_IN the_DT Yahoo_NNP !_.
+front_JJ page_NN =_JJ -_: =[_NN 1_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Each_DT time_NN a_DT user_NN visits_VBZ the_DT front_JJ page_NN ,_, a_DT news_NN article_NN out_IN of_IN 24Alina_NNP Beygelzimer_NNP ,_, John_NNP Langford_NNP ,_, Lihong_NNP Li_NNP a_DT small_JJ pool_NN of_IN hand-picked_JJ candidates_NNS is_VBZ highlighted_VBN ._.
+The_DT goal_NN is_VBZ to_TO highlight_VB the_DT most_JJS

@@ -1,0 +1,4 @@
+proposed_VBN in_IN -LRB-_-LRB- 9_CD ,_, 10_CD ,_, 22_CD ,_, 17_CD ,_, 1_CD ,_, 8_CD -RRB-_-RRB- can_MD find_VB frequent_JJ subgraphs_NNS efficiently_RB in_IN chemical_JJ compound_NN datasets_NNS ._.
+These_DT algorithms_NNS have_VBP been_VBN successfully_RB used_VBN in_IN protein_NN classification_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC graph_NN indexing_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX exists_VBZ a_DT specific_JJ kind_NN of_IN graph_NN structure_NN ,_, called_VBN relational_JJ graph_NN ,_, where_WRB each_DT node_NN label_NN is_VBZ used_VBN only_RB once_RB per_IN graph_NN ._.
+Relational_JJ graph_NN is_VBZ widely_RB used_VBN in_IN modeling_NN and_CC analyzing_NN massive_JJ network_NN

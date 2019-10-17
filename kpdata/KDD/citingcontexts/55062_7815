@@ -1,0 +1,6 @@
+et_CC available_JJ from_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+Only_RB the_DT top_JJ ten_CD categories_NNS are_VBP considered_VBN ._.
+For_IN each_DT ofthemwe_NN solve_VB the_DT binary_JJ classi_NN cation_NN problem_NN of_IN being_VBG in_IN or_CC out_IN of_IN that_DT category_NN ._.
+Weused_VBD the_DT notion_NN of_IN information_NN gain_NN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: to_TO select_VB a_DT set_NN of_IN 500_CD attributes_NNS for_IN each_DT of_IN the_DT ten_CD binary_JJ classi_NN cation_NN problems_NNS ._.
+sAverage_NN of_IN Recall_VB and_CC Precision_NN -LRB-_-LRB- percentage_NN -RRB-_-RRB- 95_CD 90_CD 85_CD 80_CD 75_CD 70_CD 65_CD 60_CD −_CD o_NN −_FW ALAR_FW −_FW oracle_FW −_FW ._.
+−_FW ALAR_FW −_FW vote_NN −_NNP E_NNP −_NNP \*_SYM −_FW ALAR_FW −_FW 3_CD −_CD nn_NN

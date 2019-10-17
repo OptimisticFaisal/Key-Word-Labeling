@@ -1,0 +1,6 @@
+regarded_VBN as_IN learning_VBG to_TO rank_VB ._.
+Herbrich_NNP et_FW al._FW -LRB-_-LRB- 8_CD -RRB-_-RRB- propose_VBP addressing_VBG the_DT issue_NN by_IN means_NNS of_IN SVM_NNP and_CC applying_VBG it_PRP to_TO information_NN retrieval_NN ._.
+We_PRP refer_VBP to_TO the_DT method_NN as_IN Ranking_NNP SVM_NNP in_IN this_DT paper_NN ._.
+Joachims_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: also_RB applies_VBZ the_DT method_NN to_TO document_VB retrieval_NN ._.
+He_PRP utilizes_VBZ clickthrough_JJ data_NNS to_TO deduce_VB pair-wise_JJ training_NN data_NNS for_IN learning_VBG Ranking_NNP SVM_NNP models_NNS ._.
+Burges_NNP et_FW al._FW -LRB-_-LRB- 1_LS -RRB-_-RRB- propose_VBP employing_VBG relative_JJ entropy_NN as_IN

@@ -1,0 +1,5 @@
+se_FW as_IN a_DT feature_NN of_IN the_DT compositionality_NN of_IN the_DT target_NN ._.
+Those_DT features_NNS will_MD be_VB used_VBN to_TO train_VB a_DT classifier_NN ,_, being_VBG the_DT compositionality_NN score_NN of_IN each_DT sample_NN the_DT label_NN to_TO be_VB learned_VBN ._.
+We_PRP used_VBD RapidMiner_NNP 5_CD -LRB-_-LRB- =_JJ -_: =_JJ Mierswa_FW et_FW al._FW ,_, 2006_CD -_: =--RRB-_NN as_IN our_PRP$ Machine_NNP Learning_NNP framework_NN ._.
+The_DT classifiers_NNS we_PRP have_VBP used_VBN ,_, that_WDT are_VBP described_VBN below_IN ,_, are_VBP the_DT implementations_NNS available_JJ in_IN RapidMiner_NNP ._.
+3_CD It_PRP would_MD have_VB been_VBN possible_JJ to_TO consider_VB a_DT common_JJ vector_NN

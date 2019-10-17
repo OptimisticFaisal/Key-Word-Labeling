@@ -1,0 +1,4 @@
+ombines_NNS parametric_JJ and_CC nonparametric_JJ regression_NN ._.
+Combining_VBG the_DT notions_NNS of_IN both_CC GLM_NN and_CC additive_JJ models_NNS ,_, generalized_JJ additive_JJ model_NN or_CC GAM_NN relaxes_VBZ the_DT linear_JJ combination_NN of_IN xi_NN in_IN GLM_NN to_TO be_VB functional_JJ -LRB-_-LRB- =_JJ -_: =_JJ Hastie_NNP and_CC Tibshirani_NNP ,_, 1986_CD -_: =-]_CD ._.
+In_IN biFi_NN -LRB-_-LRB- xi_NN -RRB-_-RRB- ._.
+Generalized_NNP additive_JJ models_NNS maximize_VBP the_DT quality_NN of_IN prediction_NN of_IN a_DT dependent_JJ variable_JJ y_NN from_IN various_JJ distributions_NNS ,_, by_IN estimating_VBG nonparametric_JJ functions_NNS of_IN the_DT independent_JJ variables_NNS

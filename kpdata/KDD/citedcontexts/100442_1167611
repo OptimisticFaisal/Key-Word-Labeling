@@ -1,0 +1,5 @@
+res_NNS -LRB-_-LRB- e.g._FW ,_, unusual_JJ input_NN that_WDT exploit_VBP bugs_NNS in_IN software_NN -RRB-_-RRB- ._.
+Details_NNS of_IN our_PRP$ findings_NNS are_VBP described_VBN in_IN -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+Furthermore_RB ,_, details_NNS of_IN our_PRP$ results_NNS of_IN our_PRP$ earlier_JJR and_CC simplier_JJR algorithms_NNS PHAD_NNP and_CC ALAD_NNP are_VBP in_IN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ PHAD_NNP algorithm_NN was_VBD adapted_VBN to_TO detect_VB attacks_NNS by_IN modeling_NN accesses_VBZ to_TO the_DT Registry_NNP in_IN the_DT Windows_NNP OS_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+4_CD Clustering_NN for_IN Anomaly_JJ Detection_NN -LRB-_-LRB- CLAD_NN -RRB-_-RRB- LEARD_NN assumes_VBZ the_DT training_NN data_NNS are_VBP free_JJ of_IN att_NN

@@ -1,0 +1,5 @@
+0_CD 820_CD 300_CD 50.67_CD 26.67_CD CP3_NN 10_CD 5_CD 1000 1269 500_CD 41.20_CD 6.74_CD 4.1_CD Results_NNS from_IN DT_NN Experiments_NNS ASSEMBLE_VBP ._.
+AdaBoost_NN used_VBN with_IN decision_NN trees_NNS was_VBD tested_VBN on_IN 3_CD benchmark_NN datasets_NNS obtained_VBN from_IN boosting_VBG literature_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT benchmark_JJ datasets_NNS were_VBD used_VBN without_IN any_DT data_NNS transformation_NN ._.
+Each_DT dataset_NN consists_VBZ of_IN 100_CD random_JJ instances_NNS of_IN training_NN and_CC test_NN dataset_NN pairs_NNS ._.
+The_DT detailed_JJ information_NN about_IN datasets_NNS can_MD be_VB fou_VBN

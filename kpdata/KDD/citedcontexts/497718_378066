@@ -1,0 +1,3 @@
+rall_NN importance_NN ,_, the_DT core_NN of_IN PageRank_NNP ,_, and_CC their_PRP$ relevance_NN to_TO a_DT particular_JJ topic_NN or_CC individual_NN ,_, by_IN biasing_VBG the_DT random_JJ resets_NNS towards_IN topically_RB relevant_JJ or_CC bookmarked_JJ pages_NNS -LRB-_-LRB- 12_CD ,_, 13_CD ,_, 15_CD ,_, 17_CD -RRB-_-RRB- ._.
+•_FW SimRank_FW =_SYM -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT fixed_JJ point_NN of_IN the_DT following_JJ recursive_JJ definition_NN :_: two_CD nodes_NNS are_VBP similar_JJ to_TO the_DT extent_NN that_IN they_PRP are_VBP joined_VBN to_TO similar_JJ neighbors_NNS ._.
+Numerically_RB ,_, this_DT quantity_NN is_VBZ specified_VBN by_IN defining_VBG similarity_NN -LRB-_-LRB- x_NN

@@ -1,0 +1,4 @@
+of_IN information_NN using_VBG data_NN reduction_NN techniques_NNS such_JJ as_IN Fast_JJ Fourier_NN Transforms_VBZ and_CC Wavelet_NNP Transforms_NNPS ._.
+Using_VBG Fourier_NN Transforms_VBZ to_TO compress_VB time_NN series_NN data_NNS was_VBD originally_RB proposed_VBN by_IN Agrawal_NNP et_FW al._FW =_SYM -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT technique_NN has_VBZ been_VBN improved_VBN and_CC generalized_VBN by_IN -LRB-_-LRB- 35_CD ,_, 30_CD ,_, 29_CD -RRB-_-RRB- ._.
+Wavelet_NNP Transforms_VBZ -LRB-_-LRB- DWT_NN -RRB-_-RRB- -LRB-_-LRB- 28_CD ,_, 15_CD ,_, 27_CD ,_, 26_CD -RRB-_-RRB- ,_, Singular_JJ Value_NN Decompositions_NNS -LRB-_-LRB- SVD_NN -RRB-_-RRB- -LRB-_-LRB- 25_CD -RRB-_-RRB- ,_, and_CC Piecewise_JJ Constant_JJ Approximations_NNS -LRB-_-LRB- 36_CD ,_, 24_CD ,_,

@@ -1,0 +1,4 @@
+use_NN of_IN its_PRP$ applications_NNS to_TO problems_NNS in_IN microarray_NN analysis_NN -LRB-_-LRB- 4_CD ,_, 5_CD -RRB-_-RRB- and_CC text_NN mining_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+In_IN fact_NN ,_, there_EX exist_VBP many_JJ formulations_NNS of_IN the_DT co-clustering_NN problem_NN such_JJ as_IN the_DT hierarchical_JJ co-clustering_JJ model_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT bi-clustering_JJ model_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- that_WDT involves_VBZ finding_VBG the_DT best_JJS co-clusters_NNS one_CD at_IN a_DT time_NN ,_, etc._NN ._.
+In_IN this_DT paper_NN ,_, we_PRP have_VBP focussed_VBN on_IN the_DT partitional_JJ co-clustering_NN formulation_NN first_RB introduced_VBN in_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Matri_NNP

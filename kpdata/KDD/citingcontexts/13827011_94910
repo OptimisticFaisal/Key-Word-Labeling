@@ -1,0 +1,6 @@
+ba_IN 94.89_CD %_NN 75.00_CD %_NN Shapelet_NNP 44.89_CD %_NN 48.43_CD %_NN Logical_JJ Shapelet_NNP 95.91_CD %_NN 89.06_CD %_NN Table_NNP 1_CD :_: The_DT accuracies_NNS of_IN different_JJ algorithms_NNS on_IN the_DT two_CD test_NN sets_NNS ._.
+measures_NNS ._.
+We_PRP also_RB considered_VBD DTW_NNP with_IN the_DT Sakoe-Chiba_NNP band_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, as_IN it_PRP has_VBZ been_VBN shown_VBN to_TO outperform_VB classic_JJ DTW_NN on_IN many_JJ datasets_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+The_DT results_NNS are_VBP shown_VBN in_IN table_NN 1_CD ._.
+It_PRP is_VBZ interesting_JJ to_TO consider_VB why_WRB Logical_JJ Shapelets_NNS generalize_VBP the_DT new_JJ data_NNS the_DT best_JJS ._.
+We_PRP conjec_VBP

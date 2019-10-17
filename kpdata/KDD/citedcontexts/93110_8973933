@@ -1,0 +1,5 @@
+quent_JJ pattern_NN mining_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, P_NN is_VBZ the_DT item_NN space_NN ,_, sessions_NNS are_VBP transactions_NNS and_CC pages_NNS are_VBP items_NNS ._.
+Frequent_JJ pattern_NN -LRB-_-LRB- FP_NN -RRB-_-RRB- mining_NN on_IN supermarket_NN transactions_NNS and_CC relational_JJ data_NNS has_VBZ been_VBN studied_VBN extensively_RB =_JJ -_: =[_NN 1,4,6,8,7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT Apriori_NNP algorithm_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- is_VBZ a_DT seminal_JJ algorithm_NN for_IN mining_NN frequent_JJ patterns_NNS in_IN supermarket_NN basket_NN data_NNS ._.
+Apriori_NNP adopts_VBZ the_DT candidate-generation-and-test_JJ approach_NN to_TO find_VB frequent_JJ patterns_NNS ._.
+The_DT Apr_NN

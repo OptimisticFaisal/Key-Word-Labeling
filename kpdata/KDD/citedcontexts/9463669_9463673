@@ -1,0 +1,4 @@
+guarantee_NN made_VBN on_IN all_DT possible_JJ inputs_NNS I_NN and_CC algorithm_NN 's_POS outputs_NNS ,_, so_RB is_VBZ this_DT relaxation_NN ._.
+Thus_RB it_PRP is_VBZ different_JJ from_IN the_DT average-case_JJ relaxations_NNS considered_VBN in_IN the_DT past_JJ -LRB-_-LRB- such_JJ as_IN -LRB-_-LRB- ǫ_NN ,_, δ_NN -RRB-_-RRB- -_: semantic_JJ privacy_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+4.2_CD Some_DT Properties_NNPS of_IN Adversarial_JJ Privacy_NN We_PRP mention_VBP here_RB some_DT properties_NNS of_IN adversarial_JJ privacy_NN that_WDT follow_VBP from_IN its_PRP$ relationship_NN with_IN ǫ-indistinguishability_NN ._.
+4.2.1_CD Protecting_VBG Boolean_NNP Properties_NNPS

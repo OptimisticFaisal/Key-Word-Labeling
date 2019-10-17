@@ -1,0 +1,4 @@
+sifier_JJR performing_VBG perfectly_RB on_IN training_NN ,_, is_VBZ nevertheless_RB poor_JJ in_IN predictive_JJ accuracy_NN ._.
+The_DT explanation_NN is_VBZ that_DT noise_NN has_VBZ been_VBN fit_VBN into_IN the_DT classification_NN model_NN during_IN training_NN ._.
+Emerging_VBG Patterns_NN -LRB-_-LRB- EPs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP itemsets_NNS whose_WP$ occurrence_NN in_IN one_CD dataset_NN varies_VBZ significantly_RB from_IN that_DT of_IN another_DT ._.
+The_DT growth_NN rate_NN of_IN an_DT itemset_NN X_NN from_IN the_DT background_NN dataset_NN D1_NN to_TO the_DT target_NN dataset_NN D2_NN is_VBZ suppD_NN 2_CD -LRB-_-LRB- X_NN -RRB-_-RRB- suppD_NN 1_CD

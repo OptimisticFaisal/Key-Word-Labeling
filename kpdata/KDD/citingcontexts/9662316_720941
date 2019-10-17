@@ -1,0 +1,5 @@
+e_LS following_VBG Markov_NNP assumption_NN :_: P_NN -LRB-_-LRB- yi_FW |_FW A_NN -RRB-_-RRB- =_JJ P_NN -LRB-_-LRB- yi_FW |_FW Ni_FW -RRB-_-RRB- -LRB-_-LRB- 1_LS -RRB-_-RRB- where_WRB Ni_NN is_VBZ a_DT set_NN of_IN ``_`` neighbors_NNS ''_'' of_IN vertex_NN vi_LS ._.
+The_DT neighbors_NNS are_VBP normally_RB defined_VBN as_IN vertices_NNS that_WDT are_VBP 1-hop_JJ or_CC 2-hop_JJ away_RB from_IN vi_LS in_IN the_DT network_NN =_JJ -_: =[_NN 14_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT relational_JJ classifier_NN based_VBN upon_IN the_DT labels_NNS of_IN neighbors_NNS can_MD be_VB learned_VBN via_IN the_DT labeled_JJ vertices_NNS V_NN L_NN ._.
+For_IN prediction_NN ,_, the_DT labels_NNS of_IN unlabeled_JJ vertices_NNS are_VBP initialized_VBN ._.
+Then_RB the_DT constructed_VBN relati_NNS

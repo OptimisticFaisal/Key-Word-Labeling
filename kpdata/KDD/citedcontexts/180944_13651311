@@ -1,0 +1,4 @@
+evelop_JJ further_JJ extensions_NNS as_IN appropriate_JJ ,_, which_WDT we_PRP shall_MD exploit_VB in_IN this_DT work_NN ._.
+To_TO accelerate_VB the_DT training_NN process_NN of_IN the_DT EM-based_JJ algorithm_NN ,_, many_JJ techniques_NNS have_VBP been_VBN proposed_VBN in_IN the_DT literature_NN ,_, e.g._FW =_JJ -_: =[_NN 14,13,15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT main_JJ idea_NN of_IN these_DT techniques_NNS is_VBZ to_TO first_JJ partition_NN the_DT data_NNS set_VBN into_IN several_JJ groups_NNS -LRB-_-LRB- cells_NNS -RRB-_-RRB- ,_, and_CC cache_NN sufficient_JJ statics_NNS of_IN the_DT data_NNS points_NNS in_IN the_DT cells_NNS ,_, such_JJ as_IN the_DT mean_NN and_CC covariance_NN ._.
+The_DT s_NN

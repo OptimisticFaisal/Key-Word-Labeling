@@ -1,0 +1,5 @@
+t_NN alignment_NN ._.
+Clustering_VBG Temporal_JJ Data_NNP &_CC Similarity_NNP Measures_NNS ._.
+In_IN clustering_VBG temporal_JJ data_NNS ,_, there_EX are_VBP numerous_JJ works_NNS on_IN clustering_NN time_NN series_NN data_NNS and_CC similarity_NN measures_NNS between_IN two_CD time_NN series_NN -LRB-_-LRB- c.f._NN =_JJ -_: =[_NN 43_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+However_RB ,_, there_EX are_VBP huge_JJ difference_NN between_IN time_NN series_NN data_NNS --_: e.g._FW stock_NN market_NN data_NNS --_: and_CC program_NN trace_NN data_NNS ._.
+The_DT first_JJ are_VBP often_RB lacking_VBG in_IN structure_NN while_IN the_DT later_RB have_VBP underlying_JJ structure_NN sin_NN

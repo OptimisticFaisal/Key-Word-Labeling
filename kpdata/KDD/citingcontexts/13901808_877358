@@ -1,0 +1,3 @@
+he_PRP user_NN is_VBZ interested_JJ in_IN ,_, we_PRP develop_VBP the_DT hierarchical_JJ multi-document_JJ summarization_NN method_NN to_TO generate_VB the_DT hierarchical_JJ summaries_NNS of_IN reports_NNS ._.
+In_IN our_PRP$ summarization_NN ,_, we_PRP use_VBP the_DT Affinity_NN Propagation_NN -LRB-_-LRB- AP_NN -RRB-_-RRB- =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: clustering_NN method_NN to_TO build_VB a_DT hierarchical_JJ structure_NN for_IN sentences_NNS of_IN related_JJ reports_NNS ._.
+3.1_CD Affinity_NN Propagation_NN The_DT input_NN of_IN the_DT Affinity_NN Propagation_NN algorithm_NN is_VBZ the_DT sentence_NN similarity_NN graph_NN defined_VBN

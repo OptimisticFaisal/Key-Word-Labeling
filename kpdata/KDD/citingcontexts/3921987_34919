@@ -1,0 +1,6 @@
+erformance_NN ._.
+After_IN the_DT key-substring-group_JJ features_NNS were_VBD extracted_VBN ,_, we_PRP weighted_VBD every_DT feature_NN value_NN using_VBG the_DT classic_JJ TF_NN ×_NN IDF_NN -LRB-_-LRB- 60_CD ,_, 2_LS -RRB-_-RRB- scheme_NN ,_, and_CC normalized_VBD all_DT feature_NN vectors_NNS to_TO unit_NN length_NN ._.
+LibSVM_NN 5_CD =_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: was_VBD employed_VBN as_IN the_DT implementation_NN of_IN SVM_NN 6_CD ._.
+We_PRP chose_VBD the_DT linear_JJ kernel_NN and_CC set_VB all_DT its_PRP$ other_JJ parameters_NNS to_TO their_PRP$ default_NN values_NNS ._.
+In_IN all_PDT these_DT experiments_NNS ,_, our_PRP$ proposed_VBN approach_NN worked_VBD very_RB well_RB ._.
+4_LS ._.

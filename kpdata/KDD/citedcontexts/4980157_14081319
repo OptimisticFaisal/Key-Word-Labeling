@@ -1,0 +1,6 @@
+rule_NN mining_NN techniques_NNS to_TO extract_VB anomaly_RB in_IN backbone_NN network_NN ._.
+Their_PRP$ data_NNS sources_NNS ,_, detailed_JJ mining_NN methodologies_NNS and_CC utilities_NNS of_IN final_JJ mining_NN results_NNS are_VBP different_JJ from_IN our_PRP$ system_NN ._.
+Yamanishi_NNP et_FW al._FW =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: provides_VBZ a_DT dynamic_JJ syslog_NN mining_NN technique_NN on_IN server_NN syslogs_NNS ._.
+They_PRP focus_VBP on_IN generating_VBG predicative_JJ alarm_NN for_IN system_NN failures_NNS ._.
+Our_PRP$ goal_NN is_VBZ more_RBR broad_JJ --_: to_TO represent_VB the_DT network_NN events_NNS ._.
+Moreover_RB ,_, their_PRP$

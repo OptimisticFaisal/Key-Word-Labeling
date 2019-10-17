@@ -1,0 +1,4 @@
+f_LS Figure_NNP 2_CD ,_, Equation_NN 5_CD is_VBZ used_VBN ._.
+2.3_CD Base_NN Regression_NN Method_NN :_: ProbE_VB As_IN the_DT base_NN learning_NN method_NN ,_, we_PRP employ_VBP the_DT multivariate_JJ linear-regression_NN tree_NN method_NN implemented_VBN in_IN the_DT IBM_NNP ProbE_NN data_NNS mining_NN engine_NN =_JJ -_: =[_NN 9_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT learning_NN method_NN produces_VBZ decision_NN trees_NNS with_IN multivariate_JJ linear_JJ regression_NN models_NNS at_IN the_DT leaves_NNS ._.
+Regression_NN models_NNS are_VBP constructed_VBN as_IN trees_NNS are_VBP built_VBN ,_, and_CC splits_VBZ are_VBP selected_VBN to_TO maximize_VB the_DT p_NN

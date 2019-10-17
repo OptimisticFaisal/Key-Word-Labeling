@@ -1,0 +1,4 @@
+ds_JJ yield_NN a_DT ranking_NN of_IN labels_NNS rather_RB than_IN an_DT exact_JJ assignment_NN ,_, a_DT thresholding_NN process_NN is_VBZ normally_RB required_VBN ._.
+It_PRP has_VBZ been_VBN shown_VBN that_IN different_JJ thresholding_NN strategies_NNS lead_VBP to_TO quite_RB different_JJ performance_NN =_JJ -_: =[_NN 7_CD ,_, 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO avoid_VB the_DT affection_NN of_IN thresholding_NN ,_, we_PRP assume_VBP the_DT number_NN of_IN labels_NNS on_IN the_DT test_NN data_NNS are_VBP already_RB known_VBN and_CC check_VB how_WRB the_DT topranking_NN predictions_NNS match_VBP with_IN the_DT true_JJ labels_NNS ._.
+Two_CD commonly_RB used_VBN measu_NN

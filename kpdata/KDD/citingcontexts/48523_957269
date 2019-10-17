@@ -1,0 +1,3 @@
+It_PRP is_VBZ now_RB well_RB known_VBN that_IN for_IN classification_NN boosting_VBG can_MD be_VB regarded_VBN as_IN maximizing_VBG a_DT measure_NN of_IN the_DT margin_NN in_IN functions_NNS space_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC that_IN margin_NN measures_NNS can_MD be_VB adopted_VBN to_TO semi-supervised_JJ learning_NN =_JJ -_: =[_NN 2_CD ,_, 6_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN in_FW SSMBoost_FW -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, we_PRP adopt_VBP the_DT Margin_NN Boost_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- notation_NN and_CC strategy_NN adapted_VBN to_TO the_DT margin_NN measured_VBN on_IN both_CC the_DT labeled_JJ and_CC unlabeled_JJ data_NNS ._.
+But_CC the_DT ASSEMBLE_NN analysis_NN and_CC resulting_VBG algorithms_NNS ar_IN

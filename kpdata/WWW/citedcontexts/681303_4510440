@@ -1,0 +1,5 @@
+ficiency_NN and_CC scalability_NN ._.
+LinkClus_NNP also_RB achieves_VBZ much_RB higher_JJR accuracy_NN than_IN other_JJ approaches_NNS on_IN linkage-based_JJ clustering_NN such_JJ as_IN ReCom_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, and_CC approach_NN for_IN approximating_VBG SimRank_NNP with_IN high_JJ efficiency_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT rest_NN of_IN the_DT paper_NN is_VBZ organized_VBN as_IN follows_VBZ ._.
+We_PRP discuss_VBP related_JJ work_NN in_IN Section_NN 2_CD ,_, and_CC give_VB an_DT overview_NN in_IN Section_NN 3_CD ._.
+Section_NN 4_CD introduces_VBZ SimTree_NNP ,_, the_DT hierarchical_JJ structure_NN for_IN representing_VBG simi_NNS

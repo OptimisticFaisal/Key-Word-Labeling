@@ -1,0 +1,4 @@
+ppropriate_NN for_IN labeling_VBG a_DT topic_NN ._.
+Therefore_RB ,_, given_VBN a_DT reference_NN collection_NN C_NN ,_, the_DT first_JJ task_NN is_VBZ to_TO generate_VB meaningful_JJ phrases_NNS as_IN candidate_NN labels_NNS ._.
+Phrase_NN generation_NN has_VBZ been_VBN addressed_VBN in_IN existing_VBG work_NN =_JJ -_: =[_NN 7_CD ,_, 26_CD ,_, 15_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN general_JJ ,_, there_EX are_VBP two_CD basic_JJ approaches_NNS :_: Chunking\/Shallow_NNP Parsing_NNP :_: Chunking_NNP -LRB-_-LRB- Shallow_NNP Parsing_NNP -RRB-_-RRB- is_VBZ a_DT common_JJ technique_NN in_IN natural_JJ language_NN processing_NN ,_, which_WDT aims_VBZ at_IN identifying_VBG short_JJ phrases_NNS ,_, or_CC ``_`` ch_NN

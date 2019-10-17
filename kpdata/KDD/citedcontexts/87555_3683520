@@ -1,0 +1,3 @@
+cular_JJ ,_, we_PRP measure_VBP the_DT quality_NN of_IN the_DT classifier_NN based_VBN on_IN total_JJ cost_NN ,_, which_WDT is_VBZ calculated_VBN using_VBG the_DT equation_NN below_IN -LRB-_-LRB- the_DT evaluation_NN cost_NN ratio_NN is_VBZ FPcost_NN :_: FNcost_NN -RRB-_-RRB- ._.
+Total_JJ cost_NN =_JJ FP_NN \*_NN FPcost_NN +_CC FN_NN \*_NN FNcost_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: Under_IN normal_JJ circumstances_NNS ,_, the_DT evaluation_NN cost_NN ratio_NN is_VBZ passed_VBN to_TO the_DT classifier_NN induction_NN program_NN ,_, assuming_VBG that_IN it_PRP is_VBZ capable_JJ of_IN cost-sensitive_JJ learning_NN ._.
+However_RB ,_, in_IN this_DT paper_NN we_PRP often_RB utilize_VBP a_DT

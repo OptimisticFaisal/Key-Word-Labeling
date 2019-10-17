@@ -1,0 +1,6 @@
+atalog-like_JJ -RRB-_-RRB- to_TO formulate_VB queries_NNS to_TO simulate_VB SWRL_NN queries_NNS and_CC process_VB them_PRP using_VBG a_DT FOL_NN theorem_NN prover_NN ._.
+To_TO process_VB OWL_NNP via_IN a_DT FOL_NNP engine_NN ,_, we_PRP need_VBP to_TO translate_VB Description_NN Logic_NN statements_NNS to_TO FOL_NNP rules_NNS =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP give_VBP some_DT example_NN translations_NNS below_IN :_: DL_NN statement_NN CA_NNP ⊆_NNP CB_NNP ,_, where_WRB CA_NNP is_VBZ a_DT subclass_NN of_IN CB_NN ,_, can_MD be_VB represented_VBN in_IN FOL_NNP as_IN :_: CA_NNP -LRB-_-LRB- ?_.
+x_LS -RRB-_-RRB- ⇒_CD CB_NN -LRB-_-LRB- ?_.
+x_NN -RRB-_-RRB- ._.
+PA_NN ⊆_CD PB_NN ,_, PA_NN is_VBZ a_DT subProperty_NN of_IN PB_NN can_MD be_VB represented_VBN as_IN :_:

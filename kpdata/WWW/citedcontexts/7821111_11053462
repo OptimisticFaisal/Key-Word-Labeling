@@ -1,0 +1,4 @@
+s_NNS currently_RB support_VBP for_IN querying_VBG multiple_JJ graphs_NNS ._.
+Quilitz_NNP et_NNP al_NNP -LRB-_-LRB- 17_CD -RRB-_-RRB- describe_VBP an_DT optimized_VBN method_NN for_IN querying_VBG distributed_VBN RDF_NNP data_NNS sources_NNS with_IN SPARQL_NN using_VBG their_PRP$ DARQ_NNP 8_CD implementation_NN ._.
+Schenk_NNP et_FW al_FW =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: describe_VBP a_DT way_NN for_IN linking_VBG user_NN generated_VBD content_NN on_IN the_DT Semantic_JJ Web_NN ._.
+Yars2_NN -LRB-_-LRB- Yet_CC Another_DT RDF_NNP Store_NNP ,_, Version_NNP 2_CD -RRB-_-RRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- presents_VBZ an_DT end-to-end_JJ semantic_JJ search_NN engine_NN that_WDT uses_VBZ a_DT graph_NN data_NN model_NN to_TO enab_VB

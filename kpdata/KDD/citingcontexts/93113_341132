@@ -1,0 +1,4 @@
+employs_VBZ a_DT -LRB-_-LRB- re_NN -RRB-_-RRB- ordering_VBG heuristic_NN to_TO increase_VB the_DT effectiveness_NN of_IN superset-frequency_NN pruning_NN ._.
+In_IN the_DT worst_JJS case_NN ,_, MaxMiner_NNP does_VBZ the_DT same_JJ number_NN of_IN passes_NNS over_IN a_DT database_NN as_IN Apriori_NNP does_VBZ ._.
+DepthProject_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: finds_VBZ long_JJ itemsets_NNS using_VBG a_DT depth_NN first_JJ search_NN of_IN a_DT lexicographic_JJ tree_NN of_IN itemsets_NNS ,_, and_CC uses_VBZ a_DT counting_NN method_NN based_VBN on_IN transaction_NN projections_NNS along_IN its_PRP$ branches_NNS ._.
+Finally_RB ,_, FPgrowth_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- uses_VBZ the_DT nove_NN

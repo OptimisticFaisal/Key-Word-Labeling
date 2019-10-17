@@ -1,0 +1,4 @@
+r_NN of_IN useful_JJ lexico-syntactic_JJ patterns_NNS ._.
+Snow_NNP et_FW al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- proposed_VBD a_DT generic_JJ method_NN that_WDT formalizes_VBZ lexico-syntactic_JJ patterns_NNS with_IN dependency_NN paths_NNS as_IN features_NNS for_IN prediction_NN of_IN hypernyms_NNS ._.
+Suchanek_NNP et_FW al._FW =_SYM -_: =[_NN 1_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: applied_VBD a_DT supervised_JJ learning_NN algorithm_NN to_TO fact_NN extraction_NN from_IN Wikipedia_NNP yielding_VBG a_DT common_JJ ontology_NN as_IN social_JJ semantic_JJ knowledge_NN ._.
+Generic_JJ pattern_NN classification_NN is_VBZ one_CD of_IN the_DT most_RBS significant_JJ issues_NNS

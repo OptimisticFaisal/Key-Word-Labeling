@@ -1,0 +1,4 @@
+icate_JJ elimination_NN can_MD be_VB classified_VBN into_IN supervised_JJ and_CC unsupervised_JJ approaches_NNS ._.
+Supervised_VBN approaches_NNS learn_VBP rules_NNS characterizing_VBG pairs_NNS of_IN duplicates_NNS from_IN training_NN data_NNS consisting_VBG of_IN known_JJ duplicates_NNS =_JJ -_: =[_NN 11_CD ,_, 5_CD ,_, 26_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT approaches_NNS are_VBP limited_VBN by_IN their_PRP$ dependence_NN on_IN comprehensive_JJ training_NN data_NNS which_WDT exhibit_VBP the_DT variety_NN and_CC distribution_NN of_IN errors_NNS observed_VBN in_IN practice_NN ,_, or_CC on_IN manual_JJ guidance_NN ._.
+In_IN many_JJ real_JJ data_NNS in_IN

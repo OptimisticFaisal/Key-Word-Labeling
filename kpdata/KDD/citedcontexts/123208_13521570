@@ -1,0 +1,6 @@
+tively_RB weighted_JJ edges_NNS in_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+The_DT task_NN of_IN link_NN prediction_NN in_IN social_JJ networks_NNS is_VBZ described_VBN in_IN -LRB-_-LRB- 19_CD -RRB-_-RRB- for_IN the_DT case_NN of_IN positive_JJ edges_NNS ._.
+Distance_NNP and_CC similarity_NN in_IN unsigned_JJ social_JJ networks_NNS are_VBP described_VBN in_IN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT measures_NNS are_VBP based_VBN on_IN shortest-path_JJ distances_NNS and_CC spectral_JJ measures_NNS such_JJ as_IN PageRank_NNP and_CC HITS_NNP ._.
+Graph_NN kernels_NNS are_VBP described_VBN in_IN -LRB-_-LRB- 2_CD ,_, 14_CD ,_, 16_CD -RRB-_-RRB- ._.
+Their_PRP$ application_NN to_TO link_VB prediction_NN and_CC recommendati_NNS

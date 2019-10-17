@@ -1,0 +1,5 @@
+ts_NNS ,_, requires_VBZ prior_JJ specific_JJ permission_NN and\/or_CC a_DT fee_NN ._.
+KDD_NNP '_POS 09_CD ,_, June_NNP 28_CD --_: July_NNP 1_CD ,_, 2009_CD ,_, Paris_NNP ,_, France_NNP ._.
+Copyright_NN 2009_CD ACM_NNP 978-1-60558-495-9_CD \/_: 09\/06_CD ..._: $_$ 5.00_CD ._.
+models_NNS such_JJ as_IN latent_JJ Dirichlet_NNP allocation_NN -LRB-_-LRB- LDA_NN -RRB-_-RRB- =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP the_DT ability_NN to_TO identify_VB interpretable_JJ low_JJ dimensional_JJ components_NNS in_IN very_RB high_JJ dimensional_JJ data_NNS ._.
+Representing_VBG documents_NNS as_IN topic_NN distributions_NNS rather_RB than_IN bags_NN of_IN words_NNS reduces_VBZ the_DT effect_NN of_IN lexi_NN

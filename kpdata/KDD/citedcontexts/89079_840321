@@ -1,0 +1,3 @@
+m_NN is_VBZ designed_VBN to_TO work_VB on_IN raw_JJ time_NN series_NN data_NNS ._.
+This_DT is_VBZ a_DT departure_NN from_IN previous_JJ approaches_NNS ,_, which_WDT use_VBP methods_NNS to_TO discretize_VB the_DT time_NN series_NN and_CC perform_VB pattern_NN discovery_NN on_IN a_DT symbolic_JJ representation_NN =_JJ -_: =[_NN 5_CD ,_, 9_CD ,_, 16_CD -RRB-_-RRB- -_: =_JJ -_: or_CC preprocess_VB the_DT data_NNS prior_RB to_TO discovering_VBG patterns_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Our_PRP$ approach_NN samples_NNS fixed_VBN length_NN windows_NNS from_IN the_DT raw_JJ time_NN series_NN and_CC uses_VBZ Dynamic_NNP Time_NNP Warping_NNP -LRB-_-LRB- DTW_NNP -RRB-_-RRB- 1sTIMESERIES_NNP SOURCE_NNP SUB-WINDOWS_NNP CANDID_NNP

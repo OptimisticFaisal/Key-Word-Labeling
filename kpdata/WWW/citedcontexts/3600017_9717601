@@ -1,0 +1,4 @@
+t_NN of_IN results_NNS caching_VBG and_CC static_JJ caching_NN of_IN posting_VBG lists_NNS in_IN the_DT context_NN of_IN Web_NN search_NN engine_NN architecture_NN ._.
+The_DT impact_NN of_IN compression_NN on_IN caching_NN efficiency_NN is_VBZ addressed_VBN in_IN -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Finally_RB ,_, Long_NNP and_CC Suel_NNP =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: introduce_VB a_DT 3-level_JJ caching_NN architecture_NN that_WDT includes_VBZ on-disk_JJ caching_NN of_IN the_DT posting_VBG lists_NNS for_IN popular_JJ term_NN combinations_NNS ._.
+Index_NN pruning_NN reduces_VBZ significantly_RB the_DT fraction_NN of_IN the_DT index_NN needed_VBN for_IN que_NN

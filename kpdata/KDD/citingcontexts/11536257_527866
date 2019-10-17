@@ -1,0 +1,4 @@
+structures_NNS underlying_VBG complex_JJ data_NNS ._.
+Both_DT problems_NNS can_MD be_VB cast_VBN as_IN solving_VBG an_DT ℓ1-norm_NN regularized_VBD parameter_NN estimation_NN problem_NN ._.
+To_TO solve_VB such_PDT an_DT ℓ1-regularized_JJ estimation_NN problem_NN ,_, the_DT existing_VBG Grafting_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: method_NN can_MD avoid_VB doing_VBG inference_NN on_IN dense_JJ graphs_NNS in_IN structure_NN learning_NN by_IN incrementally_RB selecting_VBG new_JJ features_NNS ._.
+However_RB ,_, Grafting_NN performs_VBZ a_DT greedy_JJ step_NN of_IN optimizing_VBG over_IN free_JJ parameters_NNS once_IN new_JJ fe_NN

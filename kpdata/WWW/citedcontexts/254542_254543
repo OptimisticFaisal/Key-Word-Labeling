@@ -1,0 +1,6 @@
+of_IN the_DT WonderWeb_NNP project_NN 1_CD -LRB-_-LRB- 52_CD -RRB-_-RRB- ._.
+The_DT second_JJ method_NN uses_VBZ deeper_JJR dependency_NN parsing_VBG techniques_NNS to_TO acquire_VB linguistic_JJ knowledge_NN ._.
+It_PRP was_VBD designed_VBN and_CC tested_VBN on_IN data_NNS sets_NNS provided_VBN by_IN the_DT my_PRP$ Grid_NNP project_NN 2_CD =_JJ -_: =[_NN 55_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN we_PRP present_VBP both_DT methods_NNS and_CC compare_VB them_PRP by_IN applying_VBG and_CC evaluating_VBG them_PRP in_IN the_DT context_NN of_IN both_DT projects_NNS ._.
+This_DT paper_NN is_VBZ structured_VBN as_IN follows_VBZ ._.
+We_PRP first_RB present_VBP some_DT introductory_JJ notion_NN

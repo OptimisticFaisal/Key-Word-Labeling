@@ -1,0 +1,4 @@
+SVM_NN ._.
+Furthermore_RB ,_, SVM_NN solvers_NNS can_MD be_VB used_VBN to_TO optimize_VB the_DT area_NN under_IN the_DT ROC_NNP curve_NN directly_RB ,_, so_IN they_PRP are_VBP well_RB suited_VBN for_IN the_DT task_NN of_IN stroke_NN prediction_NN ._.
+We_PRP used_VBD linear_JJ SVMs_NNS implemented_VBN using_VBG SVM-perf_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: in_IN this_DT study_NN ._.
+3.4.2_CD Margin-based_JJ Censored_JJ Regression_NN Since_IN the_DT SVM_NN is_VBZ in_IN principle_NN developed_VBN for_IN classification_NN ,_, we_PRP use_VBP it_PRP to_TO predict_VB whether_IN or_CC not_RB a_DT stroke_NN would_MD occur_VB within_IN a_DT given_VBN time_NN frame_NN wh_NN

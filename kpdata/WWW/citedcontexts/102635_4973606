@@ -1,0 +1,4 @@
+levance_NN for_IN a_DT given_VBN query_NN ._.
+The_DT Focused_NNP Crawler_NNP -LRB-_-LRB- 21_CD -RRB-_-RRB- improves_VBZ on_IN this_DT by_IN integrating_VBG topical_JJ content_NN into_IN the_DT link_NN graph_NN model_NN ,_, and_CC by_IN a_DT more_RBR flexible_JJ way_NN of_IN crawling_VBG ._.
+The_DT learning_VBG Intelligent_JJ Crawler_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: extends_VBZ the_DT Focused_NNP Crawler_NNP ,_, allowing_VBG predicates_NNS that_WDT combine_VBP different_JJ kinds_NNS of_IN topical_JJ queries_NNS ,_, keyword_JJ queries_NNS ,_, or_CC other_JJ constraints_NNS on_IN the_DT pages_NNS '_POS content_NN or_CC meta-information_NN -LRB-_-LRB- e.g._FW ,_, URL_NN domain_NN -RRB-_-RRB- ._.
+O_NN

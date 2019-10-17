@@ -1,0 +1,3 @@
+der_NN co-occurrences_NNS ,_, as_IN the_DT properties_NNS of_IN PageRank_NN are_VBP well_RB understood_VBN ,_, it_PRP can_MD be_VB computed_VBN very_RB efficiently_RB and_CC converges_VBZ to_TO a_DT stable_JJ solution_NN for_IN appropriate_JJ input_NN data_NNS -LRB-_-LRB- e.g._FW ,_, in_IN the_DT SimRank_NNP approach_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, PageRank_NNP has_VBZ been_VBN used_VBN in_IN a_DT similar_JJ way_NN to_TO compute_VB transitive_JJ similarities_NNS -RRB-_-RRB- ._.
+Our_PRP$ algorithm_NN comprises_VBZ the_DT following_JJ three_CD steps_NNS ,_, which_WDT are_VBP explained_VBN in_IN more_JJR detail_NN in_IN the_DT upcoming_JJ sections_NNS ._.
+I._NNP Comput_NNP

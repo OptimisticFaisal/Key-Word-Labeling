@@ -1,0 +1,4 @@
+P_NN is_VBZ a_DT subgraph_NN of_IN P_NN ′_NN and_CC they_PRP have_VBP the_DT same_JJ frequency_NN ._.
+In_IN this_DT sense_NN ,_, closed_JJ patterns_NNS are_VBP locally_RB ``_`` maximal_JJ ''_'' patterns_NNS that_WDT can_MD not_RB grow_VB any_DT further_RBR without_IN losing_VBG some_DT instances_NNS ._.
+Graph_NN pattern_NN mining_NN =_JJ -_: =[_NN 16_CD ,_, 33_CD ,_, 29_CD -RRB-_-RRB- -_: =_SYM -_: follows_VBZ the_DT Apriori_NNP principle_NN :_: the_DT support_NN of_IN a_DT subgraph_NN is_VBZ always_RB no_RB less_JJR than_IN the_DT support_NN of_IN any_DT of_IN its_PRP$ super-graphs_NNS ._.
+Thus_RB we_PRP can_MD first_RB consider_VB frequent_JJ small_JJ graphs_NNS ,_, and_CC then_RB check_VB whether_IN larger_JJR

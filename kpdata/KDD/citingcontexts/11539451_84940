@@ -1,0 +1,5 @@
+of_IN URLs_NNS of_IN Web_NN pages_NNS for_IN compressing_VBG the_DT graph_NN ._.
+Their_PRP$ method_NN takes_VBZ advantage_NN of_IN the_DT fact_NN that_IN many_JJ hyperlinks_NNS are_VBP intra-host_JJ ,_, and_CC many_JJ pages_NNS on_IN the_DT same_JJ host_NN have_VBP similar_JJ hyperlinks_NNS ._.
+Boldi_NNP and_CC Vigna_NNP =_SYM -_: =[_NN 4_CD ,_, 5_CD -RRB-_-RRB- -_: =_JJ -_: further_RB exploited_VBD the_DT properties_NNS of_IN Web_NN pages_NNS in_IN lexicographic_JJ ordering_VBG to_TO achieve_VB better_JJR compression_NN ._.
+Specifically_RB ,_, their_PRP$ method_NN takes_VBZ advantage_NN of_IN the_DT lexicographic_JJ locality_NN in_IN Web_NN graphs_NNS ._.
+That_DT is_VBZ ,_,

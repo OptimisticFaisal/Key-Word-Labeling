@@ -1,0 +1,3 @@
+an_DT and_CC Tibshiran_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- combine_VBP agglomerative_JJ algorithms_NNS ,_, which_WDT tend_VBP to_TO do_VB well_RB at_IN discovering_VBG small_JJ clusters_NNS ,_, with_IN top-down_JJ methods_NNS ,_, which_WDT tend_VBP to_TO do_VB well_RB at_IN discovering_VBG large_JJ clusters_NNS ._.
+Surdeanu_FW et_FW al._FW =_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP a_DT hybrid_NN clustering_NN algorithm_NN for_IN document_NN classification_NN that_WDT uses_VBZ hierarchical_JJ clustering_NN as_IN a_DT method_NN for_IN determining_VBG initial_JJ parameters_NNS for_IN expectation_NN maximization_NN ._.
+3_CD The_DT Dataset_NNP We_PRP use_VBP a_DT

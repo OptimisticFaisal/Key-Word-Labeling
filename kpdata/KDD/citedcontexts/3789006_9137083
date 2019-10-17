@@ -1,0 +1,4 @@
+An_DT example_NN of_IN such_JJ models_NNS is_VBZ the_DT well-known_JJ latent_JJ Dirichlet_NN allocation_NN -LRB-_-LRB- LDA_NN -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Recent_JJ approaches_NNS advocate_VBP the_DT importance_NN of_IN modeling_NN the_DT dynamics_NNS of_IN different_JJ aspects_NNS of_IN topic_NN models_NNS :_: topic_NN trends_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, topic_NN word_NN distributions_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC topic_NN correlations_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+In_IN this_DT section_NN we_PRP show_VBP how_WRB to_TO implement_VB a_DT simple_JJ non-parametric_JJ dynamic_JJ topic_NN model_NN ._.
+The_DT model_NN presented_VBN here_RB is_VBZ simpler_JJR than_IN mainstream_JJ top_NN

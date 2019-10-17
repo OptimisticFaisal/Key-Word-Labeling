@@ -1,0 +1,5 @@
+ing_NN and_CC costly_JJ ,_, only_RB worthwhile_JJ if_IN the_DT wrapper_NN will_MD be_VB used_VBN repeatedly_RB ._.
+Our_PRP$ approach_NN does_VBZ not_RB use_VB manual_JJ labeling_NN ._.
+Work_NN on_IN totally_RB or_CC mostly_RB automatic_JJ extraction_NN from_IN web_NN pages_NNS includes_VBZ -LRB-_-LRB- 6_CD --_: 10_CD -RRB-_-RRB- ._.
+IEPA_NN =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: extracts_NNS only_RB tables_NNS and_CC lists_NNS from_IN web_NN pages_NNS ._.
+Both_DT RoadRunner_NNP -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC EXALG_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- extract_NN data_NNS from_IN web_NN pages_NNS by_IN comparing_VBG web_NN pages_NNS from_IN the_DT same_JJ site_NN -LRB-_-LRB- in_IN the_DT same_JJ class_NN -RRB-_-RRB- ;_: the_DT former_JJ uses_NNS heuristics_NNS

@@ -1,0 +1,4 @@
+maly_RB detection_NN ,_, several_JJ previous_JJ works_NNS have_VBP focussed_VBN on_IN wireless_JJ networks_NNS ._.
+These_DT works_NNS have_VBP used_VBN both_DT machine-learning_JJ based_JJ and_CC timeseries_JJ analysis_NN based_VBN techniques_NNS for_IN anomaly_JJ detection_NN -LRB-_-LRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 14_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+However_RB ,_, the_DT primary_JJ focus_NN of_IN these_DT works_NNS has_VBZ been_VBN on_IN detecting_VBG security_NN attacks_NNS -LRB-_-LRB- such_JJ as_IN DDoS_NN and_CC wormhole_NN attacks_NNS -RRB-_-RRB- ,_, and_CC not_RB performance_NN degradations_NNS and_CC failures_NNS ._.
+The_DT work_NN that_WDT is_VBZ closest_JJS to_TO

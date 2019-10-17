@@ -1,0 +1,4 @@
+the_DT user_NN a_DT personalized_JJ list_NN of_IN tags_NNS he_PRP might_MD want_VB to_TO use_VB for_IN this_DT item_NN ._.
+Our_PRP$ approach_NN to_TO this_DT problem_NN is_VBZ a_DT pure_JJ statistical_JJ model_NN using_VBG no_DT content_NN information_NN ._.
+It_PRP relies_VBZ on_IN a_DT factor_NN model_NN related_VBN to_TO =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: where_WRB the_DT model_NN parameters_NNS are_VBP optimized_VBN for_IN the_DT maximum_NN likelihood_NN estimator_NN for_IN personalized_JJ pairwise_JJ ranking_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Furthermore_RB ,_, we_PRP use_VBP a_DT smoothing_NN method_NN for_IN reducing_VBG the_DT variance_NN in_IN the_DT factor_NN mod_NN

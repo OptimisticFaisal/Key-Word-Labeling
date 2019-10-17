@@ -1,0 +1,4 @@
+erator_NN scheduling_NN strategy_NN to_TO minimize_VB runtime_NN memory_NN usage_NN during_IN bursty_JJ time_NN periods_NNS ._.
+Kumar_NNP et_FW al._FW -LRB-_-LRB- 9_CD -RRB-_-RRB- applied_VBD Kleinberg_NNP 's_POS algorithm_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- to_TO identify_VB bursty_JJ communities_NNS in_IN a_DT Weblog_NNP graph_NN ._.
+Mei_FW et_FW al._FW =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: further_RB summarized_VBD the_DT evolutionary_JJ thematic_JJ patterns_NNS of_IN a_DT text_NN stream_NN by_IN identifying_VBG bursty_JJ behavior_NN ._.
+Our_PRP$ approach_NN shares_VBZ some_DT common_JJ ideas_NNS as_IN the_DT work_NN of_IN Fung_NNP et_FW al._FW -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, who_WP clustered_VBD bursty_FW featu_FW

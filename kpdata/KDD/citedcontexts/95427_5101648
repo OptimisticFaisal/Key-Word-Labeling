@@ -1,0 +1,4 @@
+sed_VBD Peano_NNP Count_NNP Trees_NNP to_TO keep_VB a_DT compressed_VBN version_NN of_IN their_PRP$ spatial_JJ data_NNS for_IN data_NNS stream_NN classification_NN ._.
+An_DT alternative_JJ way_NN for_IN handling_VBG concept_NN drift_NN is_VBZ to_TO build_VB an_DT ensemble_NN of_IN classification_NN models_NNS =_JJ -_: =[_NN 3_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+While_IN such_PDT an_DT approach_NN may_MD be_VB able_JJ to_TO handle_VB concept_NN drifts_NNS ,_, maintaining_VBG and_CC applying_VBG a_DT large_JJ number_NN of_IN classifiers_NNS can_MD be_VB quite_RB costly_JJ ._.
+Another_DT model_NN maintenance_NN issue_NN is_VBZ choosing_VBG the_DT appropriate_JJ l_NN

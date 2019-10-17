@@ -1,0 +1,3 @@
+,_, and_CC webpages_NNS interconnected_VBN by_IN hyperlinks_NNS on_IN the_DT Web_NN ._.
+Networks_NNP and_CC feature_NN vectors_NNS are_VBP two_CD alternatives_NNS to_TO represent_VB the_DT data_NNS ,_, and_CC the_DT former_JJ is_VBZ often_RB more_RBR natural_JJ than_IN the_DT latter_JJ in_IN many_JJ data_NNS sets_VBZ =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Even_RB if_IN the_DT data_NN is_VBZ naturally_RB represented_VBN in_IN a_DT feature_NN space_NN ,_, it_PRP is_VBZ usually_RB helpful_JJ to_TO transform_VB the_DT data_NNS into_IN a_DT network_NN ,_, or_CC graph_NN structure_NN -LRB-_-LRB- for_IN example_NN ,_, by_IN constructing_VBG a_DT nearest_JJS neighbor_NN graph_NN -RRB-_-RRB- t_NN

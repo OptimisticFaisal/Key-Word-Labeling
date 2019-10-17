@@ -1,0 +1,4 @@
+equire_NN for_IN Id_NN is_VBZ that_IN the_DT intersection_NN of_IN two_CD itemsets_NNS belonging_VBG to_TO it_PRP -LRB-_-LRB- two_CD disadvantaged_JJ groups_NNS -RRB-_-RRB- belongs_VBZ to_TO it_PRP as_RB well_RB -LRB-_-LRB- it_PRP is_VBZ a_DT disadvantaged_JJ group_NN as_RB well_RB -RRB-_-RRB- ._.
+This_DT property_NN is_VBZ called_VBN downward_JJ closure_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Definition_NN 4.1_CD ._.
+A_DT set_NN of_IN itemsets_NNS I_PRP is_VBZ downward_RB closed_VBN if_IN when_WRB A1_NN ∈_NN I_CD and_CC A2_NN ∈_VBP I_PRP then_RB A1_NN ,_, A2_NN ∈_NNP I._NNP This_NNP property_NN is_VBZ the_DT formal_JJ counterpart_NN of_IN ``_`` gender-plus_JJ ''_'' allegations_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, an_DT expression_NN coined_VBN by_IN th_DT

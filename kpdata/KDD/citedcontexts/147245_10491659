@@ -1,0 +1,5 @@
+stical_JJ principles_NNS ,_, such_JJ as_IN the_DT leave-one-out_NN bound_VBD -LRB-_-LRB- 13_CD -RRB-_-RRB- to_TO measure_NN and_CC rate_NN concept_NN drift_NN ._.
+Ensemblebased_JJ methods_NNS adjust_VBP the_DT weights_NNS of_IN the_DT base_NN classifiers_NNS instead_RB of_IN modifying_VBG a_DT classifier_NN ,_, see_VB e.g._FW =_SYM -_: =[_NN 22_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT task_NN of_IN concept_NN drift_NN detection_NN can_MD be_VB framed_VBN as_IN a_DT statistical_JJ hypothesis_NN test_NN with_IN two_CD samples_NNS and_CC multivariate_JJ data_NNS ._.
+There_EX is_VBZ quite_RB some_DT work_NN on_IN such_JJ problems_NNS in_IN the_DT statistical_JJ literature_NN ._.
+Mo_NN

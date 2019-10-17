@@ -1,0 +1,5 @@
+dditional_JJ sources_NNS ._.
+Anaïve_JJ approach_NN is_VBZ to_TO use_VB a_DT breadth-first_JJ crawler_NN and_CC fetch_VB the_DT connected_JJ Web_NN ,_, starting_VBG from_IN a_DT seed_NN set_NN of_IN URIs_NNS ._.
+Search_VB engines_NNS in_IN 2005_CD indexed_VBD approximately_RB 11.5_CD billion_CD documents_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN February_NNP 2008_CD ,_, the_DT indexed_VBN Web_NN was_VBD estimated_VBN to_TO consist_VB of_IN 45_CD billion_CD documents_NNS 12_CD ._.
+Given_VBN that_IN web-scale_JJ crawlers_NNS can_MD fetch_VB in_IN the_DT order_NN of_IN thousands_NNS of_IN pages_NNS per_IN second_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, downloading_VBG the_DT enti_NN

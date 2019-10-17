@@ -1,0 +1,5 @@
+to_TO find_VB error-tolerant_JJ itemsets_NNS over_IN transactional_JJ databases_NNS with_IN categorical-valued_JJ attributes_NNS -LRB-_-LRB- more_JJR than_IN 2_CD values_NNS -RRB-_-RRB- ._.
+Continuous-valued_JJ attributes_NNS may_MD be_VB preprocessed_VBN with_IN a_DT discretization_NN algorithm_NN =_JJ -_: =_JJ -LRB-_-LRB- FI93_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP discuss_VBP generalizations_NNS in_IN Section_NN 6_CD ,_, but_CC this_DT paper_NN focuses_VBZ on_IN the_DT binary_JJ case_NN ._.
+Note_VB that_IN the_DT definition_NN does_VBZ admit_VB degenerate_NN cases_NNS that_WDT need_VBP to_TO be_VB handled_VBN ._.
+Degenerate_NN case_NN :_: Table_NNP 2_CD illustrate_VB

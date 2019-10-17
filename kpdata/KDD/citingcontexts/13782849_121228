@@ -1,0 +1,5 @@
+ed_VBN neighbors_NNS ._.
+The_DT Wald_NNP confidence_NN interval_NN for_IN π1_FW −_FW π2_NN at_IN 100_CD -LRB-_-LRB- 1_CD −_FW α_FW -RRB-_-RRB- %_NN level_NN of_IN significance_NN is_VBZ -LRB-_-LRB- -LRB-_-LRB- p1_FW −_FW p2_NN -RRB-_-RRB- −_FW d_FW ,_, -LRB-_-LRB- p1_FW −_FW p2_NN -RRB-_-RRB- +_CC d_NN -RRB-_-RRB- where_WRB :_: √_FW p1_FW -LRB-_-LRB- 1_CD −_NN p1_NN -RRB-_-RRB- p2_NN -LRB-_-LRB- 1_CD −_NN p2_NN -RRB-_-RRB- dα_NN =_JJ Z1_NN −_FW α_FW \/_: 2_CD +_CC ._.
+k_NN k_NN We_PRP refer_VBP the_DT reader_NN to_TO =_JJ -_: =[_NN 1_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: for_IN details_NNS ,_, and_CC to_TO -LRB-_-LRB- 15_CD -RRB-_-RRB- for_IN a_DT comparison_NN of_IN several_JJ methods_NNS for_IN interval_JJ estimation_NN ._.
+We_PRP mention_VBP here_RB that_IN when_WRB k_NN is_VBZ very_RB low_JJ ,_, the_DT Wald_NNP interval_NN becomes_VBZ imprecise_JJ ._.
+Exact_JJ methods_NNS have_VBP been_VBN proposed_VBN in_IN

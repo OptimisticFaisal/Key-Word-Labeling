@@ -1,0 +1,4 @@
+and_CC additionally_RB produces_VBZ better_JJR models_NNS ._.
+Naïve_JJ Bayes_NNS trained_VBN on_IN imbalanced_JJ data_NNS produces_VBZ predictions_NNS that_WDT are_VBP biased_VBN in_IN favor_NN of_IN large_JJ classes_NNS ,_, as_IN noted_VBN by_IN Rennie_NNP et_FW al._FW -LRB-_-LRB- 14_CD -RRB-_-RRB- and_CC Frank_NNP and_CC Bouckaert_NNP =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Re-weighting_JJ instances_NNS ,_, as_IN we_PRP do_VBP for_IN Naïve_NNP Bayes_NNP -LRB-_-LRB- c_NN =_JJ 6.5_CD -RRB-_-RRB- does_VBZ indeed_RB significantly_RB improve_VB on_IN the_DT equally_RB weighted_JJ Naïve_NNP Bayes_NNP ,_, and_CC furthermore_RB ,_, outperforms_VBZ SVMs_NNS on_IN this_DT data_NNS ._.
+For_IN the_DT rest_NN of_IN this_DT p_NN

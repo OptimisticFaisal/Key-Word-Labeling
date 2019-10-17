@@ -1,0 +1,4 @@
+r_NN selecting_NN features_VBZ automatically_RB :_: forward_JJ feature_NN selection_NN ,_, L1_NN regularized_VBD logistic_JJ regression_NN ,_, and_CC ``_`` conservative_JJ mean_NN ''_'' feature_NN selection_NN ._.
+3.3.1_FW Forward_FW feature_NN selection_NN Forward_RB feature_VBP selection_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: greedily_RB adds_VBZ one_CD feature_NN at_IN a_DT time_NN ._.
+The_DT best_JJS subset_NN of_IN features_NNS was_VBD selected_VBN based_VBN on_IN cross-validation_NN ._.
+Note_VB that_IN adding_VBG more_JJR features_NNS does_VBZ not_RB necessarily_RB improve_VB the_DT test_NN performance_NN since_IN overfit_NN

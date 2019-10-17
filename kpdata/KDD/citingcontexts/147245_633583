@@ -1,0 +1,6 @@
+ion_NN of_IN large_JJ databases_NNS ._.
+Previously_RB ,_, we_PRP used_VBD averaging_VBG ensemble_NN for_IN scalable_JJ learning_NN over_IN very-large_JJ datasets_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+We_PRP show_VBP that_IN a_DT model_NN 's_POS performance_NN can_MD be_VB estimated_VBN before_IN it_PRP is_VBZ completely_RB learned_VBN =_JJ -_: =[_NN 8_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT work_NN ,_, we_PRP use_VBP weighted_JJ ensemble_NN classifiers_NNS on_IN concept-drifting_JJ data_NNS streams_NNS ._.
+It_PRP combines_VBZ multiple_JJ classifiers_NNS weighted_VBN by_IN their_PRP$ expected_VBN prediction_NN accuracy_NN on_IN the_DT current_JJ test_NN data_NNS ._.
+Compare_VB

@@ -1,0 +1,5 @@
+I1_NN T2_NN water_NN T1_NN -LRB-_-LRB- I1_NN ,_, I1_NN -RRB-_-RRB- -LRB-_-LRB- grass_NN ,_, water_NN -RRB-_-RRB- -LRB-_-LRB- grass_NN ,_, tiger_NN -RRB-_-RRB- tiger_NN -LRB-_-LRB- water_NN ,_, tiger_NN -RRB-_-RRB- -LRB-_-LRB- a_LS -RRB-_-RRB- -LRB-_-LRB- b_NN -RRB-_-RRB- Fig._NNP 5_CD ._.
+Example_NN of_IN GT_NN graph_NN -LRB-_-LRB- a_DT -RRB-_-RRB- and_CC the_DT derived_VBN second-order_JJ graph_NN G_NN 2_CD T_NN -LRB-_-LRB- b_NN -RRB-_-RRB- ._.
+as_IN those_DT adopted_VBN for_IN ranking_JJ Web_NN pages_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP denote_VBP with_IN corr_NN -LRB-_-LRB- Tr_NN ,_, Ts_NN -RRB-_-RRB- the_DT -LRB-_-LRB- correlation_NN -RRB-_-RRB- score_NN computed_VBN by_IN such_JJ an_DT algorithm_NN for_IN the_DT node_NN in_IN V_NN 2_CD T_NN corresponding_VBG to_TO the_DT pair_NN of_IN terms_NNS -LRB-_-LRB- Tr_NN ,_, Ts_NN -RRB-_-RRB- ._.
+Note_VB that_IN this_DT step_NN can_MD be_VB performed_VBN off-line_JJ ,_, si_FW

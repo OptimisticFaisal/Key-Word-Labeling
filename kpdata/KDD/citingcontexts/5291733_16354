@@ -1,0 +1,5 @@
+x_NN ∈_CD R_NN l2_NN ._.
+The_DT normalization_NN step_NN allows_VBZ us_PRP to_TO reduce_VB the_DT false_JJ positives_NNS introduced_VBN by_IN workload_NN changes_NNS ._.
+There_EX are_VBP many_JJ techniques_NNS that_WDT enable_VBP us_PRP to_TO collect_VB the_DT component_NN interaction_NN information_NN ._.
+In_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Chen_NNP et_FW al._FW modified_VBN the_DT JBoss_FW middleware_FW to_TO monitor_VB component_NN interactions_NNS ;_: we_PRP have_VBP used_VBN the_DT same_JJ mechanism_NN in_IN our_PRP$ experiments_NNS ._.
+Aguilera_NNP et_FW al._FW -LRB-_-LRB- 1_LS -RRB-_-RRB- proposed_VBD a_DT passive_JJ monitoring_NN approach_NN in_IN both_DT RPC_NNP

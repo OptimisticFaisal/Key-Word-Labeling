@@ -1,0 +1,4 @@
+nderstand_RB the_DT claim_NN language_NN semantically_RB ._.
+Unfortunately_RB ,_, current_JJ techniques_NNS of_IN NLP_NNP -LRB-_-LRB- Natural_NNP Language_NNP Processing_NNP -RRB-_-RRB- are_VBP not_RB adequate_JJ for_IN this_DT purpose_NN ._.
+They_PRP are_VBP usually_RB trained_VBN on_IN newspaper_NN based_JJ corpus_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: and_CC perform_VB very_RB poorly_RB for_IN a_DT patent_NN document_NN ._.
+Finally_RB ,_, estimating_VBG the_DT patent_NN 's_POS application_NN value_NN is_VBZ completely_RB outside_IN the_DT scope_NN of_IN a_DT data_NN mining_NN domain_NN ,_, and_CC is_VBZ more_RBR appropriate_JJ topic_NN for_IN industrial_JJ

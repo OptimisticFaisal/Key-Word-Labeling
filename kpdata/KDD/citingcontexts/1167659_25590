@@ -1,0 +1,4 @@
+stimating_VBG P_NN -LRB-_-LRB- consequent_JJ |_NN antecedent_JJ -RRB-_-RRB- ._.
+Another_DT aspect_NN of_IN quality_NN is_VBZ belief_NN ,_, which_WDT measures_VBZ the_DT level_NN of_IN trust_NN for_IN the_DT rule_NN ;_: that_DT is_VBZ ,_, how_WRB believable_JJ the_DT entire_JJ rule_NN is_VBZ ._.
+For_IN example_NN ,_, in_IN association_NN rules_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, each_DT rule_NN has_VBZ a_DT confidence_NN value_NN and_CC a_DT support_NN value_NN --_: the_DT confidence_NN value_NN estimates_NNS predictiveness_NN ,_, while_IN the_DT support_NN value_NN approximates_VBZ belief_NN ._.
+Many_JJ learning_NN algorithms_NNS ,_, including_VBG RIPPER_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC

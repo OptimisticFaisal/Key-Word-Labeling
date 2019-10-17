@@ -1,0 +1,4 @@
+ead_NN of_IN the_DT original_JJ data_NNS matrix_NN and_CC does_VBZ not_RB admit_VB feature_NN assignments_NNS ._.
+Our_PRP$ clustering_NN model_NN performs_VBZ binary_JJ matrix_NN decomposition_NN and_CC can_MD be_VB thought_VBN as_IN a_DT special_JJ case_NN of_IN positive_JJ matrix_NN decomposition_NN =_JJ -_: =[_NN 22_CD ,_, 30_CD ,_, 38_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT positive_JJ matrix_NN factorization_NN techniques_NNS place_VBP non-negativity_JJ constraints_NNS on_IN the_DT data_NNS model_NN for_IN optimization_NN ._.
+The_DT binary_JJ constraints_NNS in_IN our_PRP$ model_NN optimization_NN is_VBZ a_DT special_JJ case_NN of_IN non-negativity_NN

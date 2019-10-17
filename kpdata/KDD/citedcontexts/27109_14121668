@@ -1,0 +1,3 @@
+ng_NN Figure_NNP 1_CD :_: A_DT bipartite_JJ graph_NN example_NN of_IN domain-specific_JJ and_CC domain-independent_JJ features_NNS based_VBN on_IN Table_NNP 4_CD ._.
+ory_NN has_VBZ been_VBN widely_RB applied_VBN in_IN many_JJ problems_NNS ,_, e.g._FW ,_, dimensionality_NN reduction_NN and_CC clustering_NN =_JJ -_: =[_NN 27_CD ,_, 3_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN our_PRP$ case_NN ,_, we_PRP assume_VBP -LRB-_-LRB- 1_LS -RRB-_-RRB- if_IN two_CD domain-specific_JJ features_NNS are_VBP connected_VBN to_TO many_JJ common_JJ domain-independent_JJ features_NNS ,_, then_RB they_PRP tend_VBP to_TO be_VB very_RB related_JJ and_CC will_MD be_VB aligned_VBN to_TO a_DT same_JJ cluster_NN with_IN high_JJ

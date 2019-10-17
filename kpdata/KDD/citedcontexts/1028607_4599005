@@ -1,0 +1,5 @@
+ll_NN examples_NNS within_IN the_DT margin_NN is_VBZ computationally_RB expensive_JJ ._.
+Following_VBG the_DT idea_NN of_IN the_DT likelihood-based_JJ squashing_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, a_DT likelihood_NN squashing_NN method_NN was_VBD developed_VBN for_IN a_DT SVM_NN by_IN Pavlov_NN and_CC Chudova_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT likelihood_NN squashing_NN method_NN assumes_VBZ a_DT probability_NN model_NN as_IN the_DT classifier_NN ._.
+Examples_NNS with_IN similar_JJ probability_NN p_NN -LRB-_-LRB- xi_NN ,_, yi_FW |_FW θ_FW -RRB-_-RRB- are_VBP grouped_VBN together_RB and_CC taken_VBN as_IN a_DT weighted_JJ exemplar_NN ._.
+Pavlov_NNP and_CC Chudova_NNP

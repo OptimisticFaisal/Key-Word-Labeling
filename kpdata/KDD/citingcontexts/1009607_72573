@@ -1,0 +1,4 @@
+sional_JJ sequences_NNS and_CC introduction_NN of_IN new_JJ upper_JJ bounds_NNS have_VBP appeared_VBN in_IN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- Zhu_NNP and_CC Shasha_NNP ,_, improved_VBD on_IN the_DT previous_JJ idea_NN ,_, by_IN leveraging_VBG the_DT lower_JJR bounding_VBG property_NN of_IN the_DT PAA_NN representation_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT PAA_NNP approximation_NN is_VBZ a_DT simple_JJ and_CC effective_JJ dimensionality_NN reduction_NN technique_NN ,_, that_WDT converts_VBZ a_DT sequence_NN of_IN length_NN n_NN into_IN k_NN equi-length_JJ segments_NNS ,_, that_IN record_NN 4_CD k_NN is_VBZ a_DT user_NN defined_VBN parameter_NN ._.
+save_VB

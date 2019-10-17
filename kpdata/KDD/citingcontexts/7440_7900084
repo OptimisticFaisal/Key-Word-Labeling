@@ -1,0 +1,4 @@
+equire_VB a_DT constant_JJ number_NN of_IN rounds_NNS of_IN communication_NN -LRB-_-LRB- by_IN parallelizing_VBG the_DT oblivious_JJ transfers_NNS -RRB-_-RRB- with_IN bit_NN communication_NN cost_NN linear_NN in_IN the_DT number_NN of_IN gates_NNS in_IN the_DT circuit_NN ._.
+An_DT excellent_JJ survey_NN is_VBZ given_VBN in_IN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT secure_JJ add_VB and_CC compare_VB algorithm_NN requires_VBZ two_CD addition_NN circuits_NNS and_CC one_CD comparison_NN circuit_NN ,_, all_DT of_IN m_NN =_JJ log_NN n_NN bits_NNS -LRB-_-LRB- where_WRB n_NN is_VBZ based_VBN on_IN the_DT resolution_NN of_IN the_DT distance_NN -RRB-_-RRB- ._.
+Both_CC addition_NN and_CC comparis_NN

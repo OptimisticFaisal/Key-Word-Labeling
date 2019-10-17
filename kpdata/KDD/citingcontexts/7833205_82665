@@ -1,0 +1,3 @@
+corpora_NN -RRB-_-RRB- and_CC present_JJ approaches_NNS to_TO measuring_VBG the_DT precision_NN and_CC recall_NN of_IN our_PRP$ algorithms_NNS ._.
+Finally_RB we_PRP note_VBP that_IN inference_NN detection_NN is_VBZ a_DT well-studied_JJ problem_NN in_IN the_DT database_NN community_NN -LRB-_-LRB- see_VB ,_, for_IN example_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, where_WRB the_DT problem_NN is_VBZ to_TO find_VB ways_NNS in_IN which_WDT classified_JJ or_CC otherwise_RB sensitive_JJ information_NN can_MD be_VB learned_VBN through_IN a_DT sequence_NN of_IN database_NN queries_NNS for_IN unclassified_JJ or_CC non-sensitive_JJ information_NN ._.
+In_FW addi_FW

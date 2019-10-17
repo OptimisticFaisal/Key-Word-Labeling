@@ -1,0 +1,3 @@
+he_PRP abstraction_NN algorithm_NN is_VBZ spent_VBN running_VBG the_DT k-means_NN clustering_NN algorithm_NN ._.
+Our_PRP$ straightforward_JJ implementation_NN of_IN the_DT latter_NN could_MD be_VB improved_VBN by_IN using_VBG sophisticated_JJ data_NNS structures_NNS such_JJ as_IN a_DT kd-tree_NN =_JJ -_: =[_NN 38_CD -RRB-_-RRB- -_: =_JJ -_: or_CC performing_VBG bootstrap_JJ averaging_NN to_TO find_VB the_DT initial_JJ clusters_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+This_DT would_MD also_RB allow_VB one_CD to_TO run_VB the_DT k-means_NNS clustering_VBG more_JJR times_NNS and_CC thus_RB have_VBP an_DT even_RB better_JJR chance_NN of_IN finding_VBG the_DT global_JJ optim_NN

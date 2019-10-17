@@ -1,0 +1,5 @@
+ontains_NNS 28,569_CD documents_NNS ,_, 28,702_CD authorsand20conferences_NNS ._.
+Theabstract_NNP is_VBZ collected_VBN for_IN representing_VBG each_DT document_NN ,_, and_CC this_DT data_NN collection_NN has_VBZ 11,771_CD unique_JJ terms_NNS ._.
+Moreover_RB ,_, we_PRP use_VBP a_DT labeled_JJ data_NN set_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: with_IN 4057_CD authors_NNS ,_, 100_CD papers_NNS and_CC all_DT 20_CD conferences_NNS for_IN quantitative_JJ accuracy_NN evaluation_NN ._.
+For_IN more_JJR details_NNS about_IN the_DT labeled_JJ data_NNS set_VBP ,_, please_VBP refer_VB to_TO -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+In_IN order_NN to_TO visualize_VB the_DT hidden_JJ topics_NNS an_DT

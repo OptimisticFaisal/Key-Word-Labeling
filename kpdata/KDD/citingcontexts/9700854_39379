@@ -1,0 +1,5 @@
+lying_VBG data_NNS ._.
+Second_RB ,_, the_DT labeled_JJ and_CC unlabeled_JJ data_NNS must_MD be_VB generated_VBN from_IN the_DT same_JJ distribution_NN ._.
+Otherwise_RB ,_, incorporating_VBG unlabeled_JJ data_NNS may_MD actually_RB degrade_VB the_DT performance_NN of_IN a_DT predictive_JJ model_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4_LS ._.
+METHODOLOGY_NN This_DT section_NN describes_VBZ our_PRP$ proposed_VBN semi-supervised_JJ learning_NN algorithm_NN for_IN HMMR_NN and_CC a_DT data_NN calibration_NN approach_NN to_TO deal_VB with_IN inconsistencies_NNS between_IN the_DT distributions_NNS of_IN labeled_JJ and_CC u_NN

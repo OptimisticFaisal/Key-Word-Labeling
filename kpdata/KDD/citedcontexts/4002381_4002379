@@ -1,0 +1,3 @@
+ork_NN Approaches_NNS to_TO graph_NN mining_NN ,_, especially_RB mining_NN for_IN frequent_JJ patterns_NNS or_CC association_NN rules_NNS ,_, can_MD be_VB divided_VBN in_IN two_CD major_JJ categories_NNS which_WDT are_VBP not_RB to_TO be_VB confused_VBN ._.
+In_IN transactional_JJ graph_NN mining_NN ,_, e.g._FW ,_, =_JJ -_: =[_NN 8_CD ,_, 14_CD ,_, 15_CD ,_, 16_CD ,_, 19_CD ,_, 30_CD ,_, 31_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT dataset_NN consists_VBZ of_IN many_JJ small_JJ graphs_NNS which_WDT we_PRP call_VBP transactions_NNS ,_, and_CC the_DT task_NN is_VBZ to_TO discover_VB patterns_NNS that_WDT occur_VBP at_IN least_JJS once_RB in_IN a_DT sufficient_JJ number_NN of_IN transactions_NNS ._.
+-LRB-_-LRB- Approaches_NNS from_IN machine_NN l_NN

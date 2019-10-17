@@ -1,0 +1,4 @@
+use_VB existing_VBG relevance_NN scores_NNS ._.
+Another_DT approach_NN to_TO estimating_VBG the_DT probability_NN of_IN a_DT click_VBP is_VBZ to_TO use_VB an_DT aggregate_NN of_IN the_DT click-through_JJ rate_NN -LRB-_-LRB- CTR_NN -RRB-_-RRB- over_IN a_DT period_NN of_IN time_NN at_IN different_JJ level_NN of_IN aggregation_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -.2_CD ._.
+BACKGROUND_NN :_: CONTENT_JJ MATCH_NN In_IN this_DT section_NN we_PRP give_VBP a_DT brief_JJ overview_NN of_IN the_DT current_JJ practices_NNS in_IN Web_NN advertising_NN based_VBN on_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Contextual_JJ advertising_NN is_VBZ an_DT interplay_NN of_IN four_CD entities_NNS :_: The_DT publisher_NN

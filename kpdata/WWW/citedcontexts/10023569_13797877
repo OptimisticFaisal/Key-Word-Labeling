@@ -1,0 +1,4 @@
+ng_NN is_VBZ another_DT direction_NN for_IN improving_VBG the_DT Web_NN performance_NN ._.
+While_IN not_RB directly_RB related_JJ ,_, our_PRP$ work_NN was_VBD partially_RB inspired_VBN by_IN the_DT work_NN of_IN dynamic_JJ resource_NN provisioning_VBG between_IN multiple_JJ dependent_JJ services_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Intuitively_RB ,_, allocating_VBG more_JJR resource_NN to_TO the_DT back-end_JJ server_NN may_MD improve_VB the‘ServiceTime_NN '_'' ,_, whileputtingmorefront-endserverscloser_JJ totheclientsmayreducetheRTT_NN ._.
+Althoughourapproachdoes_NNS not_RB realloca_NN

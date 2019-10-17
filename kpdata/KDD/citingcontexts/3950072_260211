@@ -1,0 +1,5 @@
+ware_NN system_NN ._.
+However_RB ,_, there_EX are_VBP 2_CD notable_JJ differences_NNS ._.
+First_RB ,_, program_NN properties_NNS are_VBP often_RB inferred_VBN from_IN a_DT set_NN of_IN traces_NNS instead_RB of_IN a_DT single_JJ trace_NN ._.
+These_DT are_VBP either_RB produced_VBN by_IN executing_VBG a_DT test_NN suite_NN =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_JJ -_: or_CC generated_VBN statically_RB from_IN the_DT source_NN code_NN -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+Secondly_RB ,_, important_JJ patterns_NNS for_IN verification_NN ,_, such_JJ as_IN ,_, lock_NN acquire_NN and_CC release_NN or_CC stream_NN open_JJ and_CC close_JJ -LRB-_-LRB- c.f_NN -LRB-_-LRB- 32_CD ,_, 7_CD -RRB-_-RRB- -RRB-_-RRB- often_RB have_VBP their_PRP$ events_NNS occu_VBP

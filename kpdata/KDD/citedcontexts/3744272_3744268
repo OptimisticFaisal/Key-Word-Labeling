@@ -1,0 +1,4 @@
+duction_NN ,_, BIC_NNP -RRB-_-RRB- to_TO the_DT problem_NN of_IN program_NN phase_NN analysis_NN and_CC workload_NN performance_NN prediction_NN ._.
+Recently_RB two_CD other_JJ clustering_NN techniques_NNS have_VBP been_VBN examined_VBN for_IN SimPoint_NNP ,_, which_WDT are_VBP multinomial_JJ clustering_NN -LRB-_-LRB- =_JJ -_: =_JJ Sanghai_FW et_FW al._FW ,_, 2005_CD -_: =--RRB-_NN and_CC regression_NN trees_NNS -LRB-_-LRB- Annavaram_NNP et_FW al._FW ,_, 2004_CD -RRB-_-RRB- ._.
+Neither_DT of_IN these_DT perform_VBP better_JJR than_IN SimPoint_NN with_IN k-means_NN clustering_NN ._.
+Sanghai_FW et_FW al._FW -LRB-_-LRB- 2005_CD -RRB-_-RRB- proposed_VBD utilizing_VBG mixtures_NNS of_IN multinomials_NNS trained_VBN by_IN EM_NN

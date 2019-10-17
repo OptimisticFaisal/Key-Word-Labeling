@@ -1,0 +1,4 @@
+is_VBZ possible_JJ to_TO traverse_VB links_NNS from_IN any_DT entity_NN type_NN to_TO any_DT other_JJ ;_: if_IN not_RB ,_, we_PRP can_MD fit_VB each_DT connected_JJ component_NN in_IN the_DT schema_NN separately_RB ._.
+This_DT corresponds_VBZ to_TO a_DT fully_RB connected_VBN entity-relationship_NN model_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP fit_VBP each_DT relation_NN matrix_NN as_IN the_DT product_NN of_IN latent_JJ factors_NNS ,_, X_NN -LRB-_-LRB- ij_NN -RRB-_-RRB- ≈_FW f_FW -LRB-_-LRB- ij_NN -RRB-_-RRB- -LRB-_-LRB- U_NN -LRB-_-LRB- i_LS -RRB-_-RRB- -LRB-_-LRB- U_NN -LRB-_-LRB- j_NN -RRB-_-RRB- -RRB-_-RRB- T_NN -RRB-_-RRB- ,_, where_WRB U_NN -LRB-_-LRB- i_LS -RRB-_-RRB- ∈_NN R_NN ni_FW ×_FW kij_NN and_CC U_NN -LRB-_-LRB- j_NN -RRB-_-RRB- ∈_NN R_NN nj_FW ×_FW kij_FW for_IN kij_FW ∈_FW -LCB-_-LRB- 1_CD ,_, 2_CD ,_, ..._: -RCB-_-RRB- ._.
+Unless_IN otherwise_RB noted_VBN ,_, the_DT p_NN

@@ -1,0 +1,4 @@
+rator_NN of_IN their_PRP$ dissimilarity_NN coefficients_NNS ._.
+4.2.3_CD Minimum_NNP Description_NN Length_NN Minimum_NNP Description_NN length_NN -LRB-_-LRB- MDL_NN -RRB-_-RRB- aims_VBZ at_IN searching_VBG for_IN a_DT model_NN that_WDT provides_VBZ the_DT most_RBS compact_JJ encoding_NN for_IN data_NNS transmission_NN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN described_VBN in_IN Section_NN 2_CD ,_, in_IN block_NN diagonal_JJ clustering_NN ,_, the_DT original_JJ matrix_NN W_NN can_MD be_VB approximated_VBN by_IN the_DT matrix_NN product_NN of_IN AB_NNP T_NN ._.
+Instead_RB of_IN encoding_VBG the_DT elements_NNS of_IN W_NN alone_RB ,_, we_PRP then_RB encode_VBP the_DT mod_NN

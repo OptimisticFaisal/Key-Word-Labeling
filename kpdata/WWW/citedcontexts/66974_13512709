@@ -1,0 +1,4 @@
+he_PRP code_NN ,_, and_CC the_DT resulting_VBG implementation_NN is_VBZ specific_JJ to_TO the_DT particular_JJ Web_NN server_NN ._.
+An_DT alternative_JJ approach_NN is_VBZ to_TO use_VB a_DT proxy_NN server_NN introduced_VBN in_IN to_TO the_DT request_NN flow_NN path_NN between_IN clients_NNS and_CC servers_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT proxy_NN can_MD act_VB as_IN an_DT admission_NN controller_NN ,_, preventing_VBG the_DT upstream_JJ servers_NNS from_IN going_VBG into_IN an_DT overloaded_JJ state_NN by_IN managing_VBG the_DT load_NN sent_VBD upstream_JJ ._.
+A_DT proxy_NN based_VBN approach_NN is_VBZ easily_RB portable_JJ to_TO any_DT

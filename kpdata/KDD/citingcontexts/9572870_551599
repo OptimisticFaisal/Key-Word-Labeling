@@ -1,0 +1,3 @@
+fering_VBG class_NN distributions_NNS is_VBZ to_TO sample_NN from_IN the_DT original_JJ distribution_NN so_IN that_IN its_PRP$ class_NN distribution_NN matches_VBZ the_DT estimated_VBN class_NN distribution_NN of_IN the_DT new_JJ data_NNS ._.
+Many_JJ appropriate_JJ sampling_NN methods_NNS exist_VBP =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, such_JJ as_IN oversampling_VBG and_CC undersampling_VBG ,_, as_RB well_RB as_IN more_RBR advanced_JJ methods_NNS which_WDT make_VBP better_JJR use_NN of_IN the_DT data_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Since_IN our_PRP$ learning_NN task_NN involves_VBZ labeled_JJ and_CC unlabeled_JJ data_NNS ,_, semisupervised_JJ learning_NN m_NN

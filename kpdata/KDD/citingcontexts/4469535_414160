@@ -1,0 +1,4 @@
+rporating_VBG this_DT information_NN into_IN future_JJ analyses_NNS ._.
+To_TO get_VB a_DT ``_`` fuzzy_JJ ''_'' match_NN between_IN reps_NNS and_CC branches_NNS ,_, we_PRP used_VBD an_DT algorithm_NN based_VBN on_IN string_NN edit_NN distance_NN to_TO determine_VB the_DT similarity_NN between_IN two_CD addresses_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT algorithm_NN assigns_VBZ one_CD point_NN for_IN each_DT addition_NN ,_, subtraction_NN ,_, or_CC substitution_NN of_IN a_DT letter_NN between_IN the_DT text_NN strings_NNS ._.
+Since_IN there_EX are_VBP many_JJ ways_NNS to_TO score_VB points_NNS -LRB-_-LRB- e.g._FW ,_, a_DT subtraction_NN may_MD look_VB like_IN ma_FW

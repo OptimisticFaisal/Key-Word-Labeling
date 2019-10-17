@@ -1,0 +1,4 @@
+ling_NN is_VBZ clearly_RB ine_FW ective_FW since_IN the_DT various_JJ classes_NNS can_MD have_VB very_RB skewed_JJ distributions_NNS in_IN the_DT data_NNS and_CC instances_NNS of_IN the_DT infrequent_JJ classes_NNS can_MD get_VB omitted_VBN from_IN the_DT random_JJ samples_NNS ._.
+Strati_FW ed_FW sampling_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT method_NN developed_VBN to_TO address_VB this_DT problem_NN with_IN random_JJ samples_NNS ._.
+The_DT unlabeled_JJ data_NN is_VBZ partitioned_VBN based_VBN on_IN the_DT attributes_NNS of_IN each_DT instance_NN in_IN the_DT data_NNS ._.
+Sampling_NN is_VBZ done_VBN separately_RB from_IN each_DT partit_NN

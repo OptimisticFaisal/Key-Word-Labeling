@@ -1,0 +1,4 @@
+s_NN of_IN synonyms_NNS in_IN collaborative_JJ filtering_VBG data_NNS ._.
+2.2.2_CD Item-Item_NNP A_NNP second_JJ model-based_JJ approach_NN is_VBZ based_VBN on_IN the_DT observation_NN that_IN the_DT purchase_NN of_IN one_CD item_NN will_MD often_RB lead_VB to_TO the_DT purchase_NN of_IN another_DT item_NN -LRB-_-LRB- =_JJ -_: =_JJ Aggarwal_NNP et_FW al._FW 1999_CD -_: =_JJ -_: ;_: Billsus_NNP and_CC Pazzani_NNP 1998_CD ;_: Breese_NNP ,_, Heckerman_NNP ,_, and_CC Kadie_NNP 1998_CD -RRB-_-RRB- ._.
+To_TO capture_VB this_DT phenomenon_NN we_PRP will_MD build_VB a_DT model_NN that_WDT captures_VBZ the_DT relationships_NNS between_IN items_NNS ._.
+We_PRP call_VBP this_DT approach_NN item-item_NN -LRB-_-LRB- Karypis_NN

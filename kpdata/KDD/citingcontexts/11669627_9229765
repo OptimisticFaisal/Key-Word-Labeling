@@ -1,0 +1,4 @@
+k_NN actions_NNS ,_, and_CC then_RB learns_VBZ the_DT value_NN of_IN that_DT action_NN -LRB-_-LRB- but_CC not_RB the_DT value_NN of_IN other_JJ actions_NNS -RRB-_-RRB- ._.
+The_DT goal_NN is_VBZ to_TO compete_VB with_IN the_DT best_JJS constant_JJ action_NN over_IN many_JJ rounds_NNS ._.
+The_DT contextual_JJ k-armed_JJ bandit_NN problem_NN =_JJ -_: =[_NN 3_CD ,_, 12_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT variant_NN where_WRB the_DT algorithm_NN receives_VBZ a_DT feature_NN vector_NN x_NN before_IN choosing_VBG an_DT action_NN ,_, and_CC the_DT goal_NN is_VBZ to_TO compete_VB with_IN the_DT best_JJS policy_NN π_NN :_: x_NN →_CD -LCB-_-LRB- 1_CD ,_, ..._: ,_, k_NN -RCB-_-RRB- in_IN some_DT set_NN of_IN policies_NNS ._.
+The_DT key_JJ difference_NN

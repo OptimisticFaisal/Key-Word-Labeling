@@ -1,0 +1,6 @@
+s_VBZ the_DT right_JJ term_NN of_IN the_DT predictive_JJ likelihood_NN in_IN Eq_NN ._.
+83_CD and_CC consequently_RB Eq_NN ._.
+85_CD for_IN document_NN ˜m_NN ._.
+In_IN order_NN to_TO find_VB the_DT required_JJ counts_NNS for_IN a_DT complete_JJ new_JJ document_NN ,_, we_PRP can_MD follow_VB the_DT approach_NN of_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- or_CC =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: to_TO run_VB the_DT inference_NN algorithm_NN on_IN the_DT new_JJ document_NN exclusively_RB ,_, similar_JJ to_TO Eq_NN ._.
+79_CD ._.
+We_PRP first_JJ initialise_NN the_DT algorithm_NN by_IN randomly_RB assigning_VBG topics_NNS to_TO words_NNS and_CC then_RB perform_VB a_DT number_NN of_IN loops_NNS through_IN t_NN

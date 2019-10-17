@@ -1,0 +1,3 @@
+ity_NN of_IN the_DT information_NN dissemination_NN function_NN ,_, we_PRP will_MD be_VB able_JJ to_TO apply_VB the_DT greedy_JJ algorithm_NN to_TO our_PRP$ targetset_NN selection_NN problem_NN ._.
+Our_PRP$ first_JJ contribution_NN is_VBZ that_IN by_IN extending_VBG the_DT result_NN of_IN Kempe_NNP et_FW al._FW =_SYM -_: =[_NN 29_CD -RRB-_-RRB- -_: =_JJ -_: we_PRP prove_VBP that_IN the_DT information_NN dissemination_NN function_NN is_VBZ submodular_JJ for_IN the_DT contact_NN graph_NN of_IN mobile_JJ users_NNS ,_, which_WDT changes_VBZ dynamically_RB over_IN time_NN ._.
+However_RB ,_, although_IN this_DT greedy_JJ algorithm_NN achieves_VBZ the_DT bes_NNS

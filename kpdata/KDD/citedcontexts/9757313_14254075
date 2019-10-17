@@ -1,0 +1,4 @@
+can_MD be_VB a_DT much_RB more_RBR efficient_JJ encoding_NN than_IN enumerating_VBG all_DT edges_NNS ,_, but_CC clique-finding_JJ is_VBZ well-known_JJ to_TO be_VB a_DT hard_JJ problem_NN ._.
+Likewise_RB ,_, computing_VBG an_DT optimal_JJ ordering_VBG of_IN nodes_NNS has_VBZ been_VBN shown_VBN to_TO be_VB NP_JJ hard_JJ -LRB-_-LRB- =_JJ -_: =_JJ Chierichetti_NNP et_FW al._FW 2009_CD -_: =-]_CD ._.
+Several_JJ efficient_JJ ordering_VBG heuristics_NNS provide_VBP impressive_JJ compression_NN performance_NN ._.
+For_IN example_NN ,_, the_DT BV_NN compression_NN scheme_NN is_VBZ based_VBN on_IN the_DT fact_NN that_IN simply_RB lexicographically_RB sorting_VBG nodes_NNS in_IN a_DT Web_NN gr_NN

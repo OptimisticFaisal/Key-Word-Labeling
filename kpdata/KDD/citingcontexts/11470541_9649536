@@ -1,0 +1,5 @@
+g._NN ,_, -LRB-_-LRB- 7_CD ,_, 18_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+However_RB ,_, in_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, the_DT authors_NNS showed_VBD that_IN personalized_JJ tag_NN recommendation_NN systems_NNS empirically_RB outperform_VBP the_DT theoretical_JJ upper_JJ bound_VBD for_IN any_DT non-personalized_JJ tag_NN recommender_NN ._.
+Garg_NNP et_NNP ._.
+al_FW =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP a_DT personalized_JJ interactive_JJ tag_NN suggestion_NN system_NN which_WDT suggests_VBZ tags_NNS based_VBN on_IN the_DT ones_NNS that_IN a_DT user_NN entered_VBD most_RBS recently_RB ._.
+They_PRP employ_VBP a_DT naive_JJ Bayes_NNP classifier_NN which_WDT is_VBZ only_RB based_VBN on_IN tag_NN co-oc_NN

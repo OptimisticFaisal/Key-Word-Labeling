@@ -1,0 +1,5 @@
+d_NN as_IN outliers_NNS ._.
+The_DT LOF_NN does_VBZ not_RB suffer_VB from_IN the_DT problem_NN above_IN ._.
+However_RB ,_, the_DT computation_NN of_IN LOF_NN values_NNS requires_VBZ a_DT large_JJ number_NN of_IN k-nearest_NN neighbor_NN queries_NNS ,_, and_CC thus_RB ,_, can_MD be_VB computationally_RB expensive_JJ =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN mentioned_VBN in_IN Section_NNP I_NNP ,_, Knorr_NNP et_FW al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- have_VBP applied_VBN the_DT distance-based_JJ algorithm_NN to_TO detecting_VBG trajectory_JJ outliers_NNS ._.
+Here_RB ,_, the_DT distance_NN is_VBZ defined_VBN between_IN two_CD whole_JJ trajectories_NNS using_VBG their_PRP$ summa_NN

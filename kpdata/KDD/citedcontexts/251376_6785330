@@ -1,0 +1,3 @@
+in_IN largescale_JJ problems_NNS challenging_JJ or_CC even_RB prohibitive_JJ ._.
+A_DT number_NN of_IN low-complexity_JJ algorithms_NNS that_WDT find_VBP an_DT approximate_JJ solution_NN to_TO an_DT MDS_NN problem_NN have_VBP been_VBN recently_RB proposed_VBN for_IN large-scale_JJ settings_NNS =_JJ -_: =[_NN 21_CD ,_, 12_CD ,_, 55_CD ,_, 17_CD ,_, 32_CD ,_, 57_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Yet_RB ,_, some_DT of_IN the_DT applications_NNS -LRB-_-LRB- for_IN example_NN ,_, the_DT representation_NN of_IN intrinsic_JJ geometry_NN of_IN non-rigid_JJ shapes_NNS in_IN computer_NN vision_NN -RRB-_-RRB- require_VBP a_DT -LRB-_-LRB- numerically_RB -RRB-_-RRB- exact_JJ solution_NN ,_, which_WDT makes_VBZ approximate_JJ MDS_NN algor_NN

@@ -1,0 +1,4 @@
+xing_NN ._.
+We_PRP address_VBP the_DT issue_NN of_IN finding_VBG the_DT set_NN of_IN subgraphs_NNS to_TO index_NN such_JJ that_IN the_DT candidate_NN set_NN of_IN subgraphs_NNS on_IN which_WDT the_DT subgraph_NN isomorphism_NN is_VBZ computed_VBN is_VBZ the_DT smallest_JJS ._.
+563All_JJ previous_JJ approaches_NNS =_JJ -_: =[_NN 13_CD ,_, 11_CD ,_, 15_CD ,_, 25_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: try_VB to_TO find_VB an_DT appropriate_JJ way_NN to_TO discover_VB a_DT set_NN of_IN subgraphs_NNS that_WDT contains_VBZ as_IN much_JJ information_NN as_IN possible_JJ to_TO achieve_VB a_DT high_JJ precision_NN of_IN query_NN answers_NNS ._.
+However_RB ,_, no_DT previous_JJ work_NN proposes_VBZ any_DT criter_NN

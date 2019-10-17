@@ -1,0 +1,5 @@
+bly_RB higher_JJR than_IN the_DT cost_NN of_IN obtaining_VBG unlabeled_JJ examples_NNS -LRB-_-LRB- essentially_RB zero_VB for_IN ``_`` pool-based_JJ ''_'' active_JJ learning_NN -RRB-_-RRB- ._.
+Some_DT previous_JJ work_NN studies_NNS data_NNS acquisition_NN cost_NN explicitly_RB ._.
+For_IN example_NN ,_, several_JJ authors_NNS =_JJ -_: =[_NN 11_CD ,_, 12_CD ,_, 16_CD ,_, 17_CD ,_, 22_CD ,_, 32_CD ,_, 37_CD -RRB-_-RRB- -_: =_SYM -_: study_VB the_DT costly_JJ acquisition_NN of_IN feature_NN information_NN ,_, assuming_VBG that_IN the_DT labels_NNS are_VBP known_VBN in_IN advance_NN ._.
+Saar-Tsechansky_NNP et_FW al._FW -LRB-_-LRB- 22_CD -RRB-_-RRB- consider_VBP acquiring_VBG both_DT costly_JJ feature_NN and_CC label_NN information_NN ._.
+None_NN of_IN t_NN

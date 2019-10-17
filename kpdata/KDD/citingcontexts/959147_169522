@@ -1,0 +1,7 @@
+empty_JJ itemsets_NNS -LRB-_-LRB- -LCB-_-LRB- ∅_NN -RCB-_-RRB- -RRB-_-RRB- ._.
+Basic_JJ set_NN operations_NNS for_IN ZBDDs_NNS which_WDT will_MD be_VB used_VBN in_IN our_PRP$ algorithm_NN include_VBP set-union_NN -LRB-_-LRB- A_NN S_NN Z_NN B_NN -RRB-_-RRB- ,_, set-difference_NN -LRB-_-LRB- A_NN \_NN B_NN -RRB-_-RRB- ,_, and_CC set-intersection_NN -LRB-_-LRB- A_NN T_NN Z_NN B_NN -RRB-_-RRB- ._.
+They_PRP have_VBP been_VBN defined_VBN in_IN =_JJ -_: =[_NN 23_CD ,_, 26_CD -RRB-_-RRB- -_: =_JJ -_: and_CC are_VBP polynomial_JJ in_IN the_DT number_NN of_IN nodes_NNS in_IN the_DT ZBDD_NN ._.
+They_PRP are_VBP listed_VBN in_IN Table_NNP 2_CD ._.
+Example_NN 1_CD ._.
+The_DT possible_JJ ZBDD_NN encodings_NNS for_IN set_NN -LCB-_-LRB- -LCB-_-LRB- a_DT ,_, b_NN ,_, c_NN ,_, e_LS -RCB-_-RRB- ,_, -LCB-_-LRB- a_DT ,_, b_NN ,_, d_NN ,_, e_LS -RCB-_-RRB- ,_, -LCB-_-LRB- b_NN ,_, c_NN ,_, d_NN -RCB-_-RRB- -RCB-_-RRB- are_VBP shown_VBN in_IN Fig_NN .2_NN ._.
+Fig_NN .2_NN -LRB-_-LRB- a_DT -RRB-_-RRB-

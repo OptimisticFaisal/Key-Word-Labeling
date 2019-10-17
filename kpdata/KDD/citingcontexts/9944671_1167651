@@ -1,0 +1,4 @@
+re_NN are_VBP countless_JJ ways_NNS to_TO define_VB similarity_NN or_CC distance_NN between_IN individual_JJ nodes_NNS in_IN a_DT network_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ;_: here_RB we_PRP use_VBP straightforward_JJ measures_NNS for_IN simplicity_NN and_CC efficiency_NN ._.
+If_IN more_RBR sophisticated_JJ techniques_NNS =_JJ -_: =[_NN 14_CD ,_, 18_CD ,_, 19_CD ,_, 25_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: can_MD scale_VB ,_, they_PRP may_MD provide_VB the_DT basis_NN for_IN improving_VBG the_DT results_NNS we_PRP present_VBP below_IN ._.
+Assume_VB that_IN there_EX are_VBP N_NN user-generated_JJ micro-content_JJ pages_NNS in_IN total_NN that_IN the_DT browsers_NNS have_VBP visited_VBN ._.
+Browsers_NNS and_CC cont_NN

@@ -1,0 +1,5 @@
+e_LS vectors_NNS ._.
+Several_JJ reduction_NN techniques_NNS were_VBD proposed_VBN for_IN time-series_NNS -LRB-_-LRB- 2_CD ,_, 20_CD ,_, 30_CD -RRB-_-RRB- ,_, image_NN -LRB-_-LRB- 17_CD ,_, 26_CD ,_, 34_CD ,_, 43_CD -RRB-_-RRB- ,_, and_CC document_NN data_NNS -LRB-_-LRB- 11_CD --_: 13_CD -RRB-_-RRB- ._.
+And_CC recently_RB a_DT nonlinear_JJ dimensionality_NN reduction_NN was_VBD proposed_VBN i_LS =_JJ -_: =_JJ n_NN -LRB-_-LRB- 40_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+sIf_NN the_DT distance_NN between_IN the_DT transformed_VBN vectors_NNS is_VBZ a_DT lower_JJR bound_VBN to_TO the_DT distance_NN between_IN the_DT original_JJ feature_NN vectors_NNS ,_, then_RB the_DT lower-bound_JJ filtering_VBG property_NN is_VBZ said_VBN to_TO hold_VB -LRB-_-LRB- 38_CD -RRB-_-RRB- ._.
+When_WRB the_DT lower-bo_NN

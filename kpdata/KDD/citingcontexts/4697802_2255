@@ -1,0 +1,6 @@
+un_NN in_IN O_NN -LRB-_-LRB- 1_CD ǫ_NN g3_NN log_NN g_NN -RRB-_-RRB- ._.
+We_PRP use_VBP the_DT former_JJ version_NN because_IN it_PRP is_VBZ more_RBR efficient_JJ as_IN is_VBZ demonstrated_VBN in_IN Section_NN 7_CD 6_CD ._.
+STREAMING_NN ALGORITHMS_NNS In_IN this_DT section_NN we_PRP consider_VBP algorithms_NNS for_IN the_DT data_NNS stream_NN model_NN =_JJ -_: =[_NN 9_CD ,_, 6_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB the_DT data_NN points_NNS arrive_VBP in_IN some_DT ,_, possiblyadversarial_JJ ,_, order_NN ._.
+An_DT algorithm_NN in_IN the_DT streaming_NN model_NN has_VBZ limited_VBN space_NN ,_, S_NN ,_, to_TO catalog_NN all_PDT the_DT points_NNS in_IN the_DT stream_NN ._.
+Unfortunately_RB most_JJS of_IN our_PRP$ results_NNS

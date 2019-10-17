@@ -1,0 +1,4 @@
+circuits_NNS ._.
+With_IN additional_JJ engineering_NN ,_, the_DT LearnAC_NN algorithm_NN could_MD be_VB adapted_VBN to_TO dynamically_RB request_VB only_RB as_IN many_JJ samples_NNS as_IN necessary_JJ to_TO be_VB confident_JJ in_IN its_PRP$ choices_NNS ._.
+For_IN example_NN ,_, Hulten_NNP and_CC Domingos_NNP =_SYM -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP developed_VBN methods_NNS that_WDT scale_VBP learning_VBG algorithms_NNS to_TO datasets_NNS of_IN arbitrary_JJ size_NN ;_: the_DT same_JJ approach_NN could_MD be_VB used_VBN here_RB ,_, except_IN in_IN a_DT ``_`` pull_NN ''_'' setting_VBG where_WRB the_DT data_NN is_VBZ generated_VBN on-demand_JJ ._.
+Spending_VBG a_DT

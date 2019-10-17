@@ -1,0 +1,5 @@
+t_NN handling_NN from_IN IBM_NNP -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+They_PRP introduce_VBP a_DT term_NN called_VBN overrides_NNS to_TO indicate_VB which_WDT rule_NN has_VBZ priority_NN over_IN the_DT other_JJ ._.
+Trust_NNP management_NN has_VBZ been_VBN discussed_VBN comprehensively_RB in_IN the_DT context_NN of_IN semantic_JJ Web_NN =_JJ -_: =[_NN 9_CD ,_, 11_CD ,_, 14_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ work_NN can_MD be_VB used_VBN to_TO first_RB detect_VB conflicting_VBG information_NN ,_, and_CC then_RB existing_VBG trust_NN techniques_NNS can_MD be_VB applied_VBN to_TO take_VB appropriate_JJ action_NN ._.
+For_IN example_NN ,_, selection_NN of_IN a_DT recommendation_NN for_IN a_DT product_NN c_NN

@@ -1,0 +1,6 @@
+e_LS ,_, we_PRP need_VBP to_TO ensure_VB that_IN the_DT map_NN has_VBZ high_JJ coverage_NN ._.
+The_DT goal_NN of_IN coverage_NN is_VBZ twofold_JJ :_: we_PRP want_VBP to_TO both_DT cover_VBP important_JJ aspects_NNS of_IN the_DT story_NN ,_, but_CC also_RB encourage_VBP diversity_NN ._.
+Our_PRP$ definition_NN is_VBZ inspired_VBN by_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Before_IN we_PRP measure_VBP the_DT coverage_NN of_IN an_DT entire_JJ map_NN ,_, we_PRP consider_VBP the_DT coverage_NN of_IN a_DT single_JJ document_NN ._.
+As_IN in_IN the_DT previous_JJ section_NN ,_, documents_NNS are_VBP feature_NN vectors_NNS ._.
+Let_VB function_NN coverdi_NN -LRB-_-LRB- w_NN -RRB-_-RRB- :_: W_NN →_NN -LRB-_-LRB- 0_CD ,_, 1_LS -RRB-_-RRB- quant_NN

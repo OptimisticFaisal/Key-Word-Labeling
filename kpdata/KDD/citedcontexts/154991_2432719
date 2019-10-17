@@ -1,0 +1,6 @@
+llustrates_VBZ our_PRP$ overall_JJ approach_NN ._.
+We_PRP implemented_VBD the_DT components_NNS indicated_VBD with_IN heavy_JJ borders_NNS ._.
+We_PRP borrow_VBP language-independent_JJ clustering_NN software_NN -LRB-_-LRB- LaTaT_NN -RRB-_-RRB- to_TO produce_VB word_NN clusters_NNS for_IN the_DT two_CD languages_NNS -LRB-_-LRB- =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =--RRB-_NN ._.
+2_CD We_PRP also_RB assume_VBP the_DT existence_NN of_IN an_DT IR_NN system_NN to_TO produce_VB comparable_JJ ,_, domain-specific_JJ documents_NNS from_IN a_DT set_NN of_IN automatically-extracted_JJ query_NN terms_NNS ._.
+The_DT entire_JJ process_NN consists_VBZ of_IN two_CD phases_NNS ._.
+The_DT fir_NN

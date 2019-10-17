@@ -1,0 +1,4 @@
+etect_NN ,_, extract_NN ,_, and_CC classify_VB features_NNS for_IN the_DT first_JJ two_CD applications_NNS -LRB-_-LRB- 10_CD ,_, 22_CD -RRB-_-RRB- ._.
+For_IN the_DT third_JJ application_NN ,_, we_PRP use_VBP existing_VBG algorithms_NNS to_TO detect_VB vortices_NNS and_CC subsequently_RB classify_VB the_DT detected_VBN vortices_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT article_NN ,_, we_PRP focus_VBP on_IN the_DT four_CD tasks_NNS enclosed_VBN by_IN the_DT dashed_VBN rectangle_NN in_IN the_DT figure_NN ._.
+Simulation_NN Datasets_NNS Shape_VBG Based_VBN Representation_NN Feature_NN Extraction\/Tracking_NN CloseTo_NN &_CC IsAbove_NN Relationship_NN

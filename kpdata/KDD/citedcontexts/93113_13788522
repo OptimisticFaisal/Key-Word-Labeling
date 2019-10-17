@@ -1,0 +1,6 @@
+show_VBP that_IN our_PRP$ GPU_NNP implementation_NN is_VBZ more_RBR effective_JJ -LRB-_-LRB- over_IN 100x_CD speed_NN up_RP -RRB-_-RRB- on_IN large_JJ and_CC dense_JJ datasets_NNS ._.
+II_CD ._.
+BACKGROUND_NN AND_CC RELATED_NNS WORK_VBP Three_CD of_IN the_DT best-known_JJ FIM_NNP algorithms_NNS are_VBP Apriori_NNP -LRB-_-LRB- 1_CD ,_, 2_CD -RRB-_-RRB- ,_, Eclat_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC FP-Growth_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Apriori_NNP and_CC Eclat_NNP iteratively_RB generate_VBP k_NN +1_CD -_: sized_VBN frequent_JJ item_NN sets_NNS by_IN joining_VBG frequent_JJ k-sized_JJ item_NN sets_NNS ._.
+This_DT step_NN is_VBZ called_VBN candidate_NN generation_NN ._.
+After_IN generating_VBG each_DT new_JJ set_NN

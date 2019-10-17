@@ -1,0 +1,4 @@
+nitude_NN of_IN pre-computation_NN and_CC storage_NN cost_NN over_IN PreCompute_NNP ,_, and_CC -LRB-_-LRB- b_LS -RRB-_-RRB- it_PRP achieves_VBZ up_RP to_TO 150x_JJ speedup_NN on_IN query_NN time_NN over_IN OnTheFly_NNP ._.
+Figure_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- shows_VBZ some_DT results_NNS for_IN the_DT auto-captioning_JJ application_NN as_IN in_IN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT rest_NN of_IN the_DT paper_NN is_VBZ organized_VBN as_IN follows_VBZ :_: the_DT proposed_VBN method_NN is_VBZ presented_VBN in_IN Section_NN 2_CD ;_: the_DT justification_NN and_CC the_DT analysis_NN are_VBP provided_VBN in_IN Section_NN 3_CD ._.
+The_DT experimental_JJ results_NNS are_VBP presented_VBN in_IN

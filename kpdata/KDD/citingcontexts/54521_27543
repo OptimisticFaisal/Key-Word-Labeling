@@ -1,0 +1,3 @@
+important_JJ practical_JJ problem_NN in_IN the_DT optimization_NN of_IN database_NN management_NN systems_NNS where_WRB query_NN profilers_NNS and_CC query_NN optimizers_NNS routinely_RB rely_VBP on_IN fast_JJ and_CC reasonably_RB accurate_JJ estimates_NNS of_IN the_DT query_NN counts_VBZ =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Query_NN generalization_NN has_VBZ many_JJ potential_JJ applications_NNS in_IN data_NNS mining_NN ,_, from_IN ad_FW hoc_FW interactive_JJ query_NN for_IN decision_NN support_NN ,_, to_TO automated_JJ recommender_NN systems_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN we_PRP focus_VBP on_IN the_DT basic_JJ tec_NN

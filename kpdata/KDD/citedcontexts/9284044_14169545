@@ -1,0 +1,5 @@
+tored_VBN in_IN U_NN =_JJ -LCB-_-LRB- -LRB-_-LRB- u_NN ,_, i_LS -RRB-_-RRB- |_CD R_NN -LRB-_-LRB- u_NN ,_, i_LS -RRB-_-RRB- is_VBZ unknown_JJ -RCB-_-RRB- ._.
+We_PRP denote_VBP the_DT predicted_VBN value_NN of_IN R_NN -LRB-_-LRB- u_NN ,_, i_LS -RRB-_-RRB- as_IN ˆ_NN R_NN -LRB-_-LRB- u_NN ,_, i_LS -RRB-_-RRB- ._.
+One_CD baseline_NN method_NN for_IN rating_NN prediction_NN is_VBZ based_VBN on_IN users_NNS '_POS preferences_NNS and_CC products_NNS '_POS characteristics_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Some_DT users_NNS have_VBP propensity_NN to_TO give_VB higher_JJR ratings_NNS than_IN others_NNS and_CC some_DT products_NNS are_VBP more_RBR likely_JJ to_TO receive_VB higher_JJR ratings_NNS than_IN others_NNS ._.
+Thus_RB ,_, the_DT optimization_NN formulation_NN to_TO estimate_VB unknown_JJ rating_NN ˆ_NN

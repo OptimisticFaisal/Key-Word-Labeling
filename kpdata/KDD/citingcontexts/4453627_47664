@@ -1,0 +1,4 @@
+row_NN ,_, column_NN and_CC block_NN constraints_NNS ._.
+This_DT is_VBZ equivalent_JJ to_TO finding_VBG a_DT solution_NN that_WDT has_VBZ the_DT smallest_JJS discrepancy_NN from_IN the_DT prior_JJ in_IN terms_NNS of_IN Kullback-Leibler_NNP divergence_NN ,_, subject_JJ to_TO the_DT linear_JJ constraints_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP is_VBZ also_RB referred_VBN to_TO as_IN the_DT Maximum_NNP Entropy_NNP model_NN ,_, since_IN when_WRB -LCB-_-LRB- xr_NN -LRB-_-LRB- 0_CD -RRB-_-RRB- -RCB-_-RRB- is_VBZ uniform_JJ ,_, the_DT solution_NN maximizes_VBZ the_DT Shannon_NNP entropy_NN ._.
+We_PRP solve_VBP this_DT Maximum_NNP Entropy_NNP imputation_NN problem_NN using_VBG an_DT Iterative_JJ Pr_NN

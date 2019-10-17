@@ -1,0 +1,3 @@
+support_NN -RRB-_-RRB- of_IN non-maximal_JJ subgraphs_NNS requires_VBZ examination_NN of_IN the_DT original_JJ database_NN ,_, but_CC it_PRP is_VBZ certain_JJ to_TO be_VB at_IN least_JJS as_RB high_JJ as_IN the_DT frequency_NN of_IN the_DT maximal_JJ subgraph_NN ._.
+In_IN addition_NN ,_, the_DT techniques_NNS used_VBN in_IN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB easily_RB adapted_VBN to_TO approximate_JJ the_DT support_NN of_IN all_DT frequent_JJ subgraphs_NNS within_IN some_DT error_NN bound_VBD ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- In_IN some_DT applications_NNS such_JJ as_IN discovering_VBG structure_NN motifs_NNS in_IN a_DT group_NN of_IN homology_NN proteins_NNS -LRB-_-LRB- 8_CD ,_, 1_CD

@@ -1,0 +1,6 @@
+._.
+Every_DT DFS_NN tree_NN of_IN p_NN can_MD be_VB mapped_VBN to_TO a_DT DFS_NN code_NN ,_, which_WDT comprises_VBZ a_DT DFS_NN edge_NN sequence_NN ._.
+Each_DT DFS_NN edge_NN corresponds_VBZ to_TO one_CD edge_NN in_IN p._NN gSpan_NN was_VBD designed_VBN to_TO handle_VB undirected_JJ graphs_NNS ,_, but_CC as_IN mentioned_VBN in_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT DFS_NN edge_NN with_IN direction_NN can_MD be_VB modeled_VBN as_IN a_DT 6-tuple_JJ :_: 〈_FW i_FW ,_, j_NN ,_, li_NN ,_, l_NN -LRB-_-LRB- i_FW ,_, j_NN -RRB-_-RRB- ,_, lj_NN ,_, d_NN -LRB-_-LRB- i_FW ,_, j_NN -RRB-_-RRB- 〉_NN ._.
+i_LS and_CC j_NN are_VBP DFS_NN subscripts_NNS ._.
+The_DT tuple_NN represents_VBZ a_DT forward_JJ edge_NN if_IN i_FW -LRB-_-LRB- j_NN ,_, and_CC a_DT backward_RB edge_NN otherwise_RB ._.
+li_NN and_CC

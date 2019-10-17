@@ -1,0 +1,4 @@
+otated_VBN corpus_NN in_IN biomedical_JJ domain_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- proposes_VBZ a_DT general_JJ framework_NN for_IN syntax-based_JJ relation_NN mining_NN and_CC achieves_VBZ high_JJ accuracy_NN by_IN experimenting_VBG with_IN Support_NN Vector_NNP Machine_NNP as_IN a_DT supervised_JJ approach_NN ._.
+=_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: applies_VBZ a_DT clustering-based_JJ approach_NN to_TO differentiate_VB latent_JJ social_JJ dimensions_NNS from_IN social_JJ network_NN ,_, but_CC does_VBZ not_RB study_VB about_IN the_DT semantic_JJ meaning_NN related_VBN to_TO the_DT extracted_VBN dimensions_NNS ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- learns_VBZ semant_JJ

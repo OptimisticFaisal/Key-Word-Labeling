@@ -1,0 +1,4 @@
+l-FSSEM_NN ,_, we_PRP apply_VBP a_DT geometric_JJ visualization_NN technique_NN ._.
+To_TO display_VB the_DT data_NNS and_CC clusters_NNS ,_, we_PRP project_VBP the_DT data_NNS to_TO 2-D_NN and_CC display_VBP the_DT data_NNS on_IN a_DT scatterplot_NN ._.
+We_PRP choose_VBP linear_JJ discriminant_JJ analysis_NN -LRB-_-LRB- LDA_NN -RRB-_-RRB- =_JJ -_: =[_NN 8_CD -_: =-]_CD to_TO project_VB the_DT data_NNS ,_, because_IN itsnds_NNS the_DT linear_JJ projection_NN that_WDT maximizes_VBZ cluster_NN scatter_NN ._.
+We_PRP project_VBP the_DT original_JJ data_NN X_NN onto_IN Y_NN using_VBG a_DT linear_JJ transformation_NN :_: Y_NN =_JJ A_NN T_NN X_NN ,_, where_WRB X_NN is_VBZ a_DT d_NN n_NN matrix_NN rep_NN

@@ -1,0 +1,5 @@
+-LRB-_-LRB- 2_LS -RRB-_-RRB- ._.
+Their_PRP$ algorithm_NN is_VBZ defined_VBN as_IN K_NN long_JJ =_JJ HMAC_NN -LRB-_-LRB- K_NN short_JJ ,_, dom_NN -RRB-_-RRB- ,_, where_WRB dom_NN is_VBZ the_DT domain_NN name_NN ._.
+Halderman_NNP et_FW al._FW proposed_VBD a_DT method_NN ,_, which_WDT needs_VBZ more_JJR time_NN to_TO generate_VB a_DT strong_JJ password_NN than_IN Ross_NNP et_FW al._FW =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, defined_VBN as_IN Copyright_NNP is_VBZ held_VBN by_IN the_DT author\/owner_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- ._.
+WWW_NN 2007_CD ,_, May_NNP 8_CD --_: 12_CD ,_, 2007_CD ,_, Banff_NNP ,_, Alberta_NNP ,_, Canada_NNP ._.
+ACM_NN 978-1-59593-654-7_CD \/_: 07\/0005_CD 1215_CD Heejo_NNP Lee_NNP Dept._NNP of_IN Computer_NNP Science_NNP and_CC Engineering_NNP Korea_NNP Un_NNP

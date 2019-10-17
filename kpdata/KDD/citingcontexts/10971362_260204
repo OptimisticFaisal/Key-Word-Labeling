@@ -1,0 +1,5 @@
+rmed_VBN controlled_JJ experiments_NNS and_CC case_NN studies_NNS on_IN synthetic_JJ and_CC real_JJ datasets_NNS ._.
+For_IN comparison_NN ,_, we_PRP implemented_VBD a_DT baseline_NN classification_NN model_NN based_VBN on_IN single_JJ events_NNS as_IN features_NNS ._.
+A_DT simulator_NN proposed_VBN in_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ used_VBN to_TO generate_VB synthetic_JJ traces_NNS following_VBG some_DT real-world_JJ models_NNS ._.
+Real_JJ traces_NNS are_VBP also_RB generated_VBN from_IN programs_NNS belonging_VBG to_TO the_DT Siemens_NNP benchmark_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Furthermore_RB ,_, we_PRP experimented_VBD with_IN a_DT real-l_NN

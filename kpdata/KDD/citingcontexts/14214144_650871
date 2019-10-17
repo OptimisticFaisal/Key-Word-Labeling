@@ -1,0 +1,4 @@
+ch_NN allows_VBZ an_DT observer_NN to_TO guess_VB the_DT value_NN of_IN a_DT particular_JJ attribute_NN of_IN a_DT tuple_NN ._.
+The_DT attack_NN is_VBZ considered_VBN successful_JJ when_WRB the_DT guess_NN is_VBZ correct_JJ with_IN probability_NN larger_JJR than_IN is_VBZ intended_VBN by_IN the_DT anonymizer_NN =_JJ -_: =[_NN 21_CD ,_, 9_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN parallel_NN ,_, a_DT more_RBR principled_JJ approach_NN to_TO privacy_NN has_VBZ arisen_VBN ,_, in_IN the_DT form_NN of_IN differential_JJ privacy_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+In_IN its_PRP$ simplest_JJS form_NN ,_, differential_JJ privacy_NN releases_VBZ statistics_NNS ,_, by_IN computing_VBG the_DT exact_JJ value_NN o_NN

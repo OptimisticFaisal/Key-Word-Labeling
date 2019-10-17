@@ -1,0 +1,4 @@
+dition_NN to_TO supporting_VBG SSL_NNP out_IN of_IN the_DT box_NN ,_, our_PRP$ server_NN implements_VBZ the_DT HSTS_NN standard_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- and_CC requests_NNS that_IN all_DT incoming_JJ connections_NNS be_VB over_IN SSL_NNP ,_, which_WDT prevents_VBZ several_JJ passive_JJ and_CC active_JJ network_NN attacks_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Moreover_RB ,_, browser_NN cookies_NNS are_VBP created_VBN with_IN the_DT Secure_NNP attribute_NN ,_, preventing_VBG the_DT browser_NN from_IN leaking_VBG them_PRP to_TO the_DT network_NN in_IN plaintext_NN ._.
+Parametrized_JJ rendering_NN and_CC queries_NNS ._.
+Android_NNP already_RB supports_VBZ pa_NN

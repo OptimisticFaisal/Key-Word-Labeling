@@ -1,0 +1,5 @@
+,_, π_NN -RRB-_-RRB- is_VBZ maximal_JJ at_IN π_NN =_JJ 0_CD ._.
+Now_RB ,_, the_DT dual_JJ formulation_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- becomes_VBZ a_DT convex_NN quadratic_JJ function_NN w.r.t._NN only_JJ αij_NN ._.
+Next_RB ,_, we_PRP examine_VBP the_DT constraints_NNS of_IN dual_JJ formulation_NN on_IN αij_NN ._.
+According_VBG to_TO the_DT KKT_NN theorem_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP have_VBP the_DT following_JJ conditions_NNS h_NN αij_FW β2d_FW 2_CD ij_FW −_FW ˜_FW d_NN 2_CD i_FW ij_FW =_JJ 0_CD ,_, -LRB-_-LRB- xi_NN ,_, xj_NN -RRB-_-RRB- ∈_NN S_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- h_NN ˜d_NN 2_CD ij_FW −_FW β1d_NN 2_CD i_FW ij_FW −_NN 2_CD -LRB-_-LRB- 1_CD −_NN β1_NN -RRB-_-RRB- =_JJ 0_CD ,_, -LRB-_-LRB- xi_NN ,_, xj_NN -RRB-_-RRB- ∈_NN D_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- αij_FW γ_FW -LRB-_-LRB- β2_FW −_FW β1_NN -RRB-_-RRB- =_JJ 0_CD ,_, -LRB-_-LRB- 23_CD -RRB-_-RRB- µβ1_NN =_JJ 0_CD ,_, -LRB-_-LRB- 24_CD -RRB-_-RRB- π_NN -LRB-_-LRB- 1_CD −_NN β2_NN -RRB-_-RRB- =_JJ 0_CD ._.
+-LRB-_-LRB- 25_CD -RRB-_-RRB-

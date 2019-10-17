@@ -1,0 +1,5 @@
+atch_NN -LRB-_-LRB- e.g._FW ,_, common_JJ functional_JJ words_NNS are_VBP not_RB interesting_JJ for_IN the_DT purpose_NN of_IN information_NN integration_NN -RRB-_-RRB- ,_, we_PRP use_VBP the_DT following_JJ heuristics_NNS to_TO significantly_RB reduce_VB the_DT space_NN ._.
+1_CD ._.
+We_PRP first_RB compute_VBP the_DT entropy_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: of_IN a_DT word_NN in_IN each_DT language_NN using_VBG the_DT formula_NN H_NN -LRB-_-LRB- w_NN -RRB-_-RRB- =_JJ −_CD P_NN t_NN p_NN -LRB-_-LRB- t_NN |_CD w_NN -RRB-_-RRB- log_NN p_NN -LRB-_-LRB- t_NN |_CD w_NN -RRB-_-RRB- ,_, where_WRB p_NN -LRB-_-LRB- t_NN |_CD w_NN -RRB-_-RRB- is_VBZ the_DT normalized_VBN frequency_NN of_IN word_NN w_NN at_IN time_NN point_NN t_NN -LRB-_-LRB- i.e._FW ,_, a_DT day_NN -RRB-_-RRB- ._.
+2_CD ._.
+We_PRP then_RB filter_NN out_RP the_DT high_JJ entropy_NN w_NN

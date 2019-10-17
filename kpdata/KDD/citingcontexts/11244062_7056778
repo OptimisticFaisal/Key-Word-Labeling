@@ -1,0 +1,5 @@
+with_IN Intel_NNP Xeon_NNP 2.8_CD Ghz_NNP and_CC 3Gb_NNP RAM_NNP running_VBG Linux_NNP core_NN 2.6.17_CD ._.
+Our_PRP$ implementation_NN of_IN RegularMine_NN is_VBZ written_VBN in_IN standard_JJ C_NN +_CC +_CC ,_, and_CC it_PRP builts_VBZ on_IN the_DT open_JJ source_NN code_NN of_IN the_DT FP-growth_NN algorithm_NN by_IN Borgelt_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Figure_NN 5_CD highlights_VBZ that_IN the_DT overhead_NN required_VBN by_IN RegularMine_NN over_IN the_DT extraction_NN of_IN frequent_JJ closed_JJ itemsets_NNS is_VBZ mainly_RB due_JJ to_TO the_DT extraction_NN and_CC storage_NN of_IN free_JJ itemsets_NNS ._.
+6_CD ._.
+RELATED_NNS WORK_VBP In_IN additio_NN

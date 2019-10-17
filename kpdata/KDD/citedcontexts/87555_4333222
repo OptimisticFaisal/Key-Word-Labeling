@@ -1,0 +1,4 @@
+._.
+The_DT first_JJ attempts_NNS to_TO produce_VB generic_JJ procedures_NNS for_IN making_VBG any_DT arbitrary_JJ algorithm_NN cost_NN sensitive_JJ ,_, by_IN resorting_VBG to_TO Bayes_NNP risk_NN theory_NN or_CC some_DT other_JJ cost_NN minimizing_VBG strategy_NN -LRB-_-LRB- Zadrozny_NNP et_FW al._FW ,_, 2003_CD -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP ,_, 1999_CD -_: =--RRB-_NN ,_, -LRB-_-LRB- Chawla_NNP et_FW al._FW ,_, 2003_CD -RRB-_-RRB- -LRB-_-LRB- Guo_NNP &_CC Viktor_NNP ,_, 2004_CD -RRB-_-RRB- ._.
+The_DT second_JJ attempts_NNS to_TO extend_VB particular_JJ algorithms_NNS ,_, so_RB as_IN to_TO produce_VB cost-sensitive_JJ generalizations_NNS ._.
+One_CD example_NN is_VBZ the_DT popular_JJ AdaBoost_NNP algorithm_NN ,_, whic_JJ

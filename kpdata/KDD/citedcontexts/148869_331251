@@ -1,0 +1,4 @@
+y_NN variables_NNS ,_, which_WDT is_VBZ also_RB called_VBN the_DT φ_NN correlation_NN coefficient_NN ._.
+Note_VB that_IN the_DT all-strong-pairs_JJ correlation_NN query_NN problem_NN is_VBZ different_JJ from_IN the_DT standard_JJ association-rule_JJ mining_NN problem_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Given_VBN a_DT set_NN of_IN transactions_NNS ,_, the_DT objective_NN of_IN association_NN rule_NN mining_NN is_VBZ to_TO extract_VB all_DT subsets_NNS of_IN items_NNS that_WDT satisfy_VBP a_DT minimum_JJ support_NN threshold_NN ._.
+Suppo_NNP

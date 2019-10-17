@@ -1,0 +1,3 @@
+que-like_JJ structures_NNS also_RB exist_VBP -LRB-_-LRB- 23_CD ,_, 30_CD ,_, 29_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN we_PRP propose_VBP an_DT algorithm_NN that_WDT can_MD handle_VB large_JJ datasets_NNS ,_, particularly_RB those_DT with_IN a_DT high_JJ number_NN of_IN objects_NNS ;_: we_PRP also_RB allow_VBP overlap_VB ._.
+The_DT work_NN in_IN =_JJ -_: =[_NN 22_CD ,_, 28_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ similar_JJ to_TO ours_PRP in_IN that_IN the_DT first_JJ step_NN in_IN our_PRP$ algorithm_NN is_VBZ spectral_JJ ,_, similar_JJ to_TO multi-dimensional_JJ scaling_NN -LRB-_-LRB- MDS_NN -RRB-_-RRB- ;_: their_PRP$ algorithm_NN is_VBZ based_VBN on_IN spectral_JJ properties_NNS of_IN the_DT Laplacian_NN of_IN a_DT graph_NN which_WDT t_NN

@@ -1,0 +1,6 @@
+AnswerSet_NN -LRB-_-LRB- line_NN 1_CD and_CC 2_CD -RRB-_-RRB- ._.
+It_PRP then_RB performs_VBZ intersection_NN simultaneously_RB with_IN the_DT rest_NN of_IN the_DT lists_NNS ._.
+Search_VB in_IN each_DT list_NN is_VBZ done_VBN using_VBG binary_JJ search_NN ._.
+Note_VB that_IN some_DT other_JJ optimizations_NNS can_MD also_RB be_VB used_VBN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN simplicity_NN ,_, we_PRP do_VBP not_RB include_VB them_PRP in_IN the_DT algorithm_NN ._.
+Algorithm_NN :_: findSuperSets_NNS -LRB-_-LRB- S_NN ,_, L_NNP |_NNP RHS_NNP ,_, R_NNP -RRB-_-RRB- \/_: \*_SYM e.g._FW ,_, S_NN CONTAINED_EQ_IN_NN L_NN |_CD RHS_NN -LRB-_-LRB- r_NN -RRB-_-RRB- \*_SYM \/_: 1_CD Retrieve_VB the_DT L_NNP |_NNP RHS_NNP inverted_VBD lists_NNS of_IN R_NN for_IN all_DT items_NNS in_IN S_NN ;_: 2_CD S_NN

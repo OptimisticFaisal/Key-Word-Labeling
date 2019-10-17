@@ -1,0 +1,4 @@
+,_, mainly_RB those_DT based_VBN on_IN using_VBG word_NN and_CC domain_NN specific_JJ features_NNS -LRB-_-LRB- 75_CD -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, with_IN models_NNS built_VBN using_VBG SVM_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, Nave_NNP Bayes_NNP ,_, or_CC simpler_JJR TFIDF_NN -LRB-_-LRB- 37_CD -RRB-_-RRB- techniques_NNS ._.
+Some_DT other_JJ techniques_NNS employed_VBD multiple_JJ models_NNS =_JJ -_: =[_NN 36_CD -RRB-_-RRB- -_: =_SYM -_: in_IN parallel_NN ._.
+More_JJR attention_NN is_VBZ now_RB being_VBG given_VBN to_TO the_DT problem_NN of_IN web_NN spam_NN ,_, though_IN still_RB not_RB at_IN the_DT same_JJ level_NN as_IN e-mail_JJ ._.
+Web_NN spam_NN detection_NN includes_VBZ the_DT use_NN of_IN local_JJ content-based_JJ features_NNS -LRB-_-LRB- 22_CD -RRB-_-RRB- and_CC i_LS

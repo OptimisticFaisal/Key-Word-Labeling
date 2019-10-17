@@ -1,0 +1,4 @@
+modules_NNS ._.
+Clustering_NN algorithms_NNS can_MD also_RB be_VB employed_VBN utilizing_VBG the_DT reliability_NN scores_NNS of_IN probe_NN pairs_NNS as_IN the_DT similarity_NN values_NNS ._.
+To_TO find_VB an_DT optimal_JJ algorithm_NN ,_, two_CD graph_NN partitioning_VBG algorithms_NNS ,_, Graclus_NN -LRB-_-LRB- =_JJ -_: =_JJ Dhillon_NNP et_FW al._FW ,_, 2005_CD -_: =--RRB-_NN and_CC Metis_NN 1_CD ,_, as_RB well_RB as_IN a_DT clustering_NN algorithm_NN ,_, Agglomerative_JJ Hierarchical_JJ Clustering_NN were_VBD employed_VBN ._.
+We_PRP utilized_VBD a_DT fast_JJ implementation_NN of_IN agglomerative_JJ clustering_NN from_IN CLUTO_NN ,_, clustering_NN toolkit_NN 2_CD ._.

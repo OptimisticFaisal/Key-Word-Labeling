@@ -1,0 +1,4 @@
+m_NN is_VBZ sought_VBN in_IN compression_NN or_CC summarization_NN algorithms_NNS that_WDT obtain_VBP a_DT succinct_JJ set_NN of_IN frequent_JJ patterns_NNS that_WDT are_VBP representative_JJ -LRB-_-LRB- in_IN the_DT sense_NN of_IN cluster_NN center_NN -RRB-_-RRB- -LRB-_-LRB- 32_CD ,_, 17_CD -RRB-_-RRB- ,_, or_CC from_IN a_DT statistical_JJ summary_NN =_JJ -_: =[_NN 33_CD ,_, 31_CD -RRB-_-RRB- -_: =_SYM -_: of_IN the_DT entire_JJ pattern-set_NN ._.
+However_RB ,_, the_DT majority_NN of_IN these_DT algorithms_NNS target_VBP only_RB the_DT itemset_NN pattern_NN ._.
+In_IN the_DT graph_NN domain_NN ,_, Yan_NNP et_NNP ._.
+al._FW -LRB-_-LRB- 34_CD -RRB-_-RRB- proposed_VBD an_DT algorithm_NN ,_, which_WDT employs_VBZ structural_JJ proximity_NN a_DT

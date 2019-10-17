@@ -1,0 +1,5 @@
+nstances_NNS of_IN training_NN and_CC test_NN dataset_NN pairs_NNS ._.
+The_DT detailed_JJ information_NN about_IN datasets_NNS can_MD be_VB found_VBN at_IN -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+To_TO conform_VB with_IN previous_JJ approaches_NNS in_IN empirical_JJ studies_NNS of_IN semi-supervised_JJ learning_NN methods_NNS =_JJ -_: =[_NN 6_CD ,_, 11_CD ,_, 9_CD ,_, 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP left_VBD some_DT of_IN the_DT training_NN data_NNS as_IN unlabeled_JJ data_NNS and_CC then_RB evaluated_VBD the_DT algorithm_NN on_IN test_NN data_NNS ._.
+Training_NN data_NNS were_VBD sampled_VBN 10_CD times_NNS at_IN 3_CD di_FW #erent_FW levels_NNS to_TO form_VB labeled_JJ and_CC unlabeled_JJ data_NNS ._.
+Specif_NN

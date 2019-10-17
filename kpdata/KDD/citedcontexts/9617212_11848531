@@ -1,0 +1,4 @@
+ime_NN and_CC less_JJR time_NN is_VBZ spent_VBN in_IN synchronizing_VBG and_CC exchanging_VBG data_NNS between_IN processors_NNS ._.
+All_DT tests_NNS were_VBD conducted_VBN on_IN a_DT 16-core_JJ AMD_NNP Opteron_NNP 2.7_CD GHz_FW server_FW computer_NN with_IN 64_CD gigabytes_NNS of_IN RAM_NNP ._.
+Remark_NN :_: FastLDA_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT modified_VBN version_NN of_IN the_DT Collapsed_NNP Gibbs_NNP sampler_NN for_IN LDA_NNP ,_, which_WDT improves_VBZ running_VBG time_NN significantly_RB by_IN avoiding_VBG computing_VBG all_DT elements_NNS of_IN the_DT sampling_NN distribution_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+However_RB ,_, in_IN this_DT project_NN w_NN

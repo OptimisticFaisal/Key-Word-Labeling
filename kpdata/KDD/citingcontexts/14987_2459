@@ -1,0 +1,6 @@
+here_RB is_VBZ a_DT much_RB better_JJR exploitation_NN of_IN the_DT available_JJ information_NN at_IN each_DT leaf_NN ._.
+Moreover_RB ,_, naive_JJ Bayes_NNP is_VBZ naturally_RB incremental_JJ ._.
+It_PRP deals_VBZ with_IN heterogeneous_JJ data_NNS and_CC missing_VBG values_NNS ._.
+It_PRP has_VBZ been_VBN observed_VBN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: that_IN for_IN small_JJ datasets_NNS naive_JJ Bayes_NNP is_VBZ a_DT very_RB competitive_JJ algorithm_NN ._.
+Given_VBN the_DT example_NN −_FW →_FW e_LS =_JJ -LRB-_-LRB- x1_NN ,_, ..._: ,_, xj_NN -RRB-_-RRB- and_CC applying_VBG Bayes_NNP theorem_NN ,_, we_PRP obtain_VBP :_: P_NN -LRB-_-LRB- Ck_NN |_FW −_FW →_FW e_LS -RRB-_-RRB- ∝_NN P_NN -LRB-_-LRB- C_NN k_NN -RRB-_-RRB- P_NN -LRB-_-LRB- −_FW →_FW e_LS -RRB-_-RRB- P_NN -LRB-_-LRB- xj_FW |_FW Ck_NN -RRB-_-RRB- ._.
+To_TO c_NN

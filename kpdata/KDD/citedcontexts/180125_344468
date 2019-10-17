@@ -1,0 +1,6 @@
+._.
+2000_CD ,_, Mobasher_NNP et_FW al._FW 2002_CD ,_, Spiliopoulou_NNP et_FW al._FW 2003_CD -RRB-_-RRB- ._.
+•_CD Signatures_NNS ,_, i.e._FW ,_, the_DT data_NNS structures_NNS that_WDT are_VBP used_VBN to_TO capture_VB the_DT evolving_VBG behavior_NN learned_VBD from_IN large_JJ data_NNS streams_NNS of_IN simple_JJ transactions_NNS -LRB-_-LRB- =_JJ -_: =_JJ Cortes_NNP et_FW al._FW 2000_CD -_: =-]_CD ._.
+Such_JJ profiles_NNS can_MD be_VB useful_JJ for_IN the_DT following_JJ reasons_NNS ._.
+First_RB ,_, they_PRP provide_VBP for_IN richer_JJR recommendations_NNS ._.
+Instead_RB of_IN providing_VBG the_DT standard_JJ recommendation_NN of_IN ``_`` top_JJ N_NN items_NNS to_TO a_DT user_NN ,_, ''_'' we_PRP can_MD now_RB use_VB th_DT

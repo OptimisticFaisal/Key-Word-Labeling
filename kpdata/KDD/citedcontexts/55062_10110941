@@ -1,0 +1,4 @@
+rithm_NN and_CC noise-free_JJ data_NNS ._.
+Several_JJ variations_NNS of_IN the_DT original_JJ QBC_NN algorithm_NN have_VBP been_VBN proposed_VBN ,_, such_JJ as_IN the_DT Query_NNP by_IN Bagging_NNP and_CC Query_NNP by_IN Boosting_VBG algorithms_NNS -LRB-_-LRB- 29_CD -RRB-_-RRB- and_CC the_DT adaptive_JJ resampling_NN approach_NN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Saar-Tsechansky_NNP and_CC Provost_NNP apply_VBP active_JJ learning_VBG principles_NNS to_TO obtain_VB better_JJR class_NN -LRB-_-LRB- a_DT posteriori_NN -RRB-_-RRB- probability_NN estimates_NNS -LRB-_-LRB- 31_CD -RRB-_-RRB- ._.
+Given_VBN a_DT probabilistic_JJ classifier_NN ,_, the_DT Bootstrap-LV_NN attempts_VBZ to_TO select_VB ˆ_NN

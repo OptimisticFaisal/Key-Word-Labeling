@@ -1,0 +1,5 @@
+rementally_RB at_IN successive_JJ levels_NNS during_IN the_DT search_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Our_PRP$ current_JJ work_NN benefits_NNS extensively_RB from_IN existing_VBG algorithms_NNS for_IN maximal_JJ itemset_NN mining_NN such_JJ as_IN -LRB-_-LRB- 3_CD ,_, 7_CD -RRB-_-RRB- and_CC frequent_JJ subtree_JJ mining_NN algorithms_NNS =_JJ -_: =[_NN 1_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+5_CD ._.
+CONCLUSION_NN AND_CC FUTURE_NN WORK_VBP In_IN this_DT paper_NN we_PRP present_VBP SPIN_NNP ,_, an_DT algorithm_NN to_TO mine_VB maximal_JJ frequent_JJ subgraphs_NNS from_IN a_DT graph_NN database_NN ._.
+A_DT new_JJ framework_NN ,_, which_WDT partitions_VBZ frequent_JJ subgraphs_NNS into_IN equivale_NN

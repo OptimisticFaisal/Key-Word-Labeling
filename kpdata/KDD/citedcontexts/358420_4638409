@@ -1,0 +1,6 @@
+and_CC data-cleansing_JJ tools_NNS ._.
+Three_CD primary_JJ challenges_NNS arise_VBP in_IN the_DT context_NN of_IN record_NN linkage_NN ._.
+First_RB ,_, it_PRP is_VBZ important_JJ to_TO determine_VB similarity_NN functions_NNS that_WDT can_MD be_VB used_VBN to_TO link_VB two_CD records_NNS as_IN duplicates_NNS =_JJ -_: =[_NN 10_CD ,_, 48_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Such_JJ a_DT similarity_NN function_NN consists_VBZ of_IN two_CD levels_NNS ._.
+First_RB ,_, similarity_NN metrics_NNS need_VBP to_TO be_VB defined_VBN at_IN the_DT level_NN of_IN each_DT field_NN to_TO determine_VB similarity_NN of_IN different_JJ values_NNS of_IN the_DT same_JJ field_NN ._.
+Next_RB ,_, field_NN -_:

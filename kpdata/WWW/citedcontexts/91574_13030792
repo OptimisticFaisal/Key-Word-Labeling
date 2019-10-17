@@ -1,0 +1,4 @@
+instance_NN ,_, in_IN this_DT snippet_NN of_IN text_NN -LRB-_-LRB- \_CD a_DT href_NN =_JJ ``_`` http:\/\/www.google.com’’[Google\/a[_NN -RRB-_-RRB- ,_, the_DT word_NN Google_NNP represents_VBZ an_DT anchor_NN text_NN snippet_NN ._.
+The_DT importance_NN of_IN extended_VBN anchor_NN text_NN has_VBZ also_RB been_VBN demonstrated_VBN -LRB-_-LRB- =_JJ -_: =_JJ Glover_NNP et_FW al._FW 2002_CD -_: =--RRB-_NN ._.
+Extended_JJ anchor_NN text_NN refers_VBZ to_TO text_NN 123Inf_NN Retrieval_NN surrounding_VBG the_DT vocabulary_NN outside_IN of_IN the_DT hypertext_NN link_NN ,_, which_WDT is_VBZ defined_VBN by_IN a_DT fixed_VBN window_NN size_NN ._.
+In_IN addition_NN ,_, researchers_NNS have_VBP included_VBN surro_NN

@@ -1,0 +1,4 @@
+hod_NN with_IN a_DT collaborative_JJ filtering_VBG algorithm_NN could_MD yield_VB superior_JJ results_NNS ._.
+Finally_RB ,_, we_PRP know_VBP that_IN collaborative_JJ filtering_VBG data_NNS can_MD be_VB used_VBN by_IN a_DT PageRank_NN algorithm_NN to_TO improve_VB rankings_NNS in_IN search_NN results_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD might_MD expect_VB the_DT converse_NN effect_NN --_: applying_VBG PageRank_NNP data_NNS to_TO a_DT collaborative_JJ filtering_VBG algorithm_NN --_: would_MD yield_VB improved_JJ recommendations_NNS ._.
+This_DT paper_NN describes_VBZ the_DT effect_NN of_IN applying_VBG a_DT simplified_VBN

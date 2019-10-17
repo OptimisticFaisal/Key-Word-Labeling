@@ -1,0 +1,6 @@
+umns_NNS ._.
+Thus_RB the_DT more_JJR similarity_NN there_EX is_VBZ ,_, the_DT better_JJR SGD_NNP performs_VBZ ._.
+Ultimately_RB ,_, the_DT hope_NN is_VBZ that_IN the_DT increased_VBN number_NN of_IN steps_NNS leads_VBZ to_TO faster_JJR convergence_NN ._.
+This_DT behavior_NN can_MD be_VB proven_VBN for_IN some_DT problems_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC it_PRP has_VBZ been_VBN observed_VBN in_IN the_DT case_NN of_IN large-scale_JJ matrix_NN factorization_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+4_LS ._.
+STRATIFIED_VBN SGD_NN In_IN this_DT section_NN we_PRP develop_VBP a_DT general_JJ stratified_JJ stochastic_JJ gradient_NN descent_NN -LRB-_-LRB- SSGD_NN -RRB-_-RRB- algorithm_NN ,_, and_CC giv_NN

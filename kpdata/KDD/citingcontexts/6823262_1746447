@@ -1,0 +1,4 @@
+and_CC features_NNS have_VBP the_DT same_JJ number_NN of_IN clusters_NNS ._.
+The_DT assumption_NN also_RB implies_VBZ that_IN ,_, after_IN appropriate_JJ permutation_NN of_IN the_DT rows_NNS and_CC columns_NNS ,_, the_DT approximation_NN data_NNS take_VBP the_DT form_NN of_IN a_DT block_NN diagonal_JJ matrix_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT case_NN ,_, AB_NNP T_NN can_MD then_RB be_VB interpreted_VBN as_IN the_DT approximation_NN of_IN the_DT original_JJ data_NN W_NN ._.
+The_DT goal_NN of_IN clustering_NN is_VBZ then_RB to_TO find_VB a_DT -LRB-_-LRB- A_NN ,_, B_NN -RRB-_-RRB- that_WDT minimizes_VBZ the_DT squared_VBN error_NN between_IN W_NN and_CC its_PRP$ approximati_NNS

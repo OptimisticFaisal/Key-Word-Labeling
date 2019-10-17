@@ -1,0 +1,5 @@
+e_LS performance_NN of_IN search_NN ._.
+Query_NN log_NN analysis_NN is_VBZ extensively_RB investigated_VBN in_IN recent_JJ years_NNS ._.
+-LRB-_-LRB- 23_CD -RRB-_-RRB- proposed_VBN to_TO reuse_VB past_JJ optimal_JJ queries_NNS to_TO improve_VB search_NN by_IN reformulating_VBG new_JJ queries_NNS ._.
+Recently_RB ,_, Joachims_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP a_DT method_NN of_IN utilizing_VBG click-through_JJ data_NNS in_IN learning_NN of_IN a_DT retrieval_NN function_NN -LRB-_-LRB- e.g._FW ,_, a_DT meta_NN search_NN function_NN -RRB-_-RRB- ._.
+Specifically_RB ,_, he_PRP introduces_VBZ a_DT new_JJ method_NN for_IN training_VBG a_DT retrieval_NN function_NN on_IN the_DT

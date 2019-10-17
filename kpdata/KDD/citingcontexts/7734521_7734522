@@ -1,0 +1,3 @@
+ng_NN to_TO each_DT concept_NN ._.
+Besides_IN ,_, one_PRP can_MD control_VB the_DT transition_NN among_IN concepts_NNS from_IN stochastic_JJ to_TO deterministic_JJ by_IN tuning_NN the_DT z_SYM parameter_NN of_IN Zipfian_JJ distribution_NN ,_, which_WDT has_VBZ been_VBN detailed_VBN in_IN Appendix_NN A_NN of_IN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT remainder_NN of_IN the_DT paper_NN ,_, unless_IN otherwise_RB mentioned_VBN ,_, z_SYM is_VBZ set_VBN as_IN 1_CD ,_, simulating_VBG the_DT most_RBS common_JJ case_NN in_IN the_DT real_JJ world_NN where_WRB the_DT transitions_NNS among_IN concepts_NNS are_VBP probabilistic_JJ -LRB-_-LRB- neither_DT determinis_NN

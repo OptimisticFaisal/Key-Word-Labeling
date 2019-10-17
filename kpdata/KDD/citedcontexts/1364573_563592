@@ -1,0 +1,4 @@
+the_DT extracted_VBN patterns_NNS to_TO dynamically_RB adapt_VB its_PRP$ content_NN for_IN subsequent_JJ visitors_NNS that_WDT exhibit_VBP similar_JJ behavior_NN ._.
+Our_PRP$ approach_NN is_VBZ novel_JJ in_IN several_JJ ways_NNS ._.
+First_RB ,_, we_PRP use_VBP a_DT new_JJ pattern-mining_JJ algorithm_NN ,_, IPM_NN =_JJ -_: =[_NN 4_CD ,_, 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, for_IN efficiently_RB extracting_VBG approximate_JJ behavior_NN patterns_NNS so_IN that_DT slight_JJ navigation_NN variations_NNS can_MD be_VB ignored_VBN when_WRB extracting_VBG frequently_RB occurring_VBG patterns_NNS ._.
+Second_RB ,_, the_DT usage_NN patterns_NNS ,_, on_IN the_DT basis_NN o_NN

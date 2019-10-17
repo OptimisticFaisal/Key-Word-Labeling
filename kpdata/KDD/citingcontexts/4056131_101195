@@ -1,0 +1,4 @@
+one_CD ._.
+As_IN illustrated_VBN in_IN Figure_NNP 1_CD ,_, atthecostofusingafewextra_NN lexicons_NNS ,_, the_DT stability_NN of_IN I-Match_NN signatures_NNS can_MD be_VB increased_VBN significantly_RB ._.
+Our_PRP$ approach_NN is_VBZ related_JJ to_TO the_DT supershingling\/megashingling_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT locality_NN sensitive_JJ hashing_VBG -LRB-_-LRB- LSH_NN -RRB-_-RRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+As_IN in_IN those_DT techniques_NNS ,_, a_DT number_NN of_IN signatures_NNS is_VBZ generated_VBN per_IN document_NN and_CC if_IN a_DT pair_NN of_IN documents_NNS has_VBZ at_IN least_JJS one_CD of_IN them_PRP in_IN common_JJ ,_, the_DT document_NN

@@ -1,0 +1,4 @@
+ates_NNS to_TO use_VB as_IN cluster_NN labels_NNS ;_: labels_NNS can_MD be_VB multi-word_JJ units_NNS ._.
+Cutting_VBG et_FW al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- use_NN document_NN titles_NNS as_IN cluster_NN names_NNS ;_: Treeratpituk_NNP and_CC Callan_NNP -LRB-_-LRB- 20_CD -RRB-_-RRB- use_VBP phrases_NNS instead_RB of_IN words_NNS ,_, and_CC Toda_NN and_CC Kataoka_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: use_VB named_VBN entities_NNS to_TO organize_VB their_PRP$ labels_NNS ._.
+A_DT common_JJ way_NN to_TO find_VB labels_NNS is_VBZ to_TO take_VB the_DT most_RBS frequent_JJ words_NNS in_IN a_DT cluster_NN -LRB-_-LRB- after_IN removing_VBG stopwords_NNS -RRB-_-RRB- ._.
+Cutting_VBG et_FW al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- use_VBP this_DT method_NN in_IN conjunction_NN

@@ -1,0 +1,4 @@
+set_VBN mining_NN techniques_NNS are_VBP related_VBN ._.
+KRIMP_NN -LRB-_-LRB- 38_CD -RRB-_-RRB- pioneered_VBD the_DT use_NN of_IN MDL_NN for_IN identifying_VBG good_JJ pattern_NN sets_NNS ,_, and_CC selects_VBZ that_IN group_NN of_IN frequent_JJ itemsets_NNS that_WDT describes_VBZ the_DT data_NNS best_RB ._.
+LESS_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- and_CC PACK_NN =_JJ -_: =[_NN 35_CD -RRB-_-RRB- -_: =_SYM -_: follow_VB a_DT similar_JJ approach_NN ,_, but_CC respectively_RB describe_VBP data_NNS using_VBG low-entropy_JJ sets_NNS and_CC decision_NN trees_NNS ._.
+A_DT major_JJ difference_NN between_IN these_DT methods_NNS and_CC BMF_NN is_VBZ that_IN rows_NNS are_VBP only_RB covered_VBN using_VBG subsets_NNS of_IN th_DT

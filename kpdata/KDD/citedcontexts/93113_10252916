@@ -1,0 +1,4 @@
+of_IN an_DT itemset_NN ,_, using_VBG tid-lists_NNS can_MD avoid_VB scanning_VBG the_DT whole_JJ database_NN ,_, only_RB tid-lists_NNS relevant_JJ to_TO the_DT itemset_NN are_VBP needed_VBN ._.
+An_DT improved_VBN version_NN of_IN tid-lists_NNS is_VBZ the_DT diffsets_NNS ,_, which_WDT is_VBZ firstly_RB proposed_VBN in_IN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Diffsets_NNS are_VBP used_VBN in_IN tree-based_JJ search_NN method_NN ._.
+The_DT diffset_NN of_IN an_DT itemset_JJ Q_NNP stores_NNS the_DT difference_NN between_IN the_DT transaction_NN id_NN list_NN of_IN its_PRP$ parent_NN P_NN in_IN the_DT set_VBN enumeration_NN tree_NN and_CC the_DT transaction_NN id_FW li_FW

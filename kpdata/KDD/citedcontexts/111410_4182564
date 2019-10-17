@@ -1,0 +1,5 @@
+e_LS parts_NNS in_IN a_DT page_NN that_WDT also_RB appear_VBP in_IN many_JJ other_JJ pages_NNS in_IN the_DT site_NN are_VBP likely_JJ to_TO be_VB noises_NNS ._.
+Lin_NNP and_CC Ho_NNP view_VBP the_DT problem_NN of_IN web_NN page_NN cleaning_NN as_IN that_DT of_IN discovering_VBG informative_JJ contents_NNS from_IN web_NN pages_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP first_JJ partition_NN a_DT page_NN into_IN several_JJ blocks_NNS on_IN the_DT basis_NN of_IN HTML_NNP tags_NNS ._.
+They_PRP next_RB calculate_VBP entropy_NN value_NN of_IN each_DT block_NN ._.
+Finally_RB ,_, they_PRP select_VBP the_DT informative_JJ blocks_NNS by_IN a_DT predefined_JJ threshold_NN from_IN

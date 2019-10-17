@@ -1,0 +1,4 @@
+d_NN multi-agent_JJ systems_NNS ;_: due_JJ to_TO its_PRP$ many_JJ nice_JJ properties_NNS ,_, it_PRP is_VBZ considered_VBN to_TO be_VB one_CD of_IN the_DT most_RBS important_JJ preference-based_JJ voting_NN systems_NNS ._.
+Known_VBN Results_NNS ._.
+Kemeny_JJ Score_NN is_VBZ NP-hard_JJ already_RB for_IN four_CD votes_NNS =_JJ -_: =[_NN 25_CD ,_, 26_CD -RRB-_-RRB- -_: =_JJ -_: ,_, excluding_VBG hope_NN for_IN fixed-parameter_JJ tractability_NN with_IN respect_NN to_TO the_DT parameter_NN ``_`` number_NN of_IN votes_NNS ''_'' ._.
+In_IN contrast_NN ,_, the_DT parameter_NN ``_`` number_NN of_IN candidates_NNS ''_'' c_NN trivially_RB leads_VBZ to_TO fixed-parameter_JJ tractability_NN b_NN

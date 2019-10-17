@@ -1,0 +1,3 @@
+ns_FW in_FW science_NN ,_, engineering_NN ,_, and_CC medicine_NN ._.
+Examples_NNS include_VBP time-course_JJ measurements_NNS from_IN sets_NNS of_IN genes_NNS -LRB-_-LRB- Eisen_NNP et_FW al._FW ,_, 1998_CD -RRB-_-RRB- ,_, estimated_VBN trajectories_NNS of_IN individuals_NNS or_CC objects_NNS from_IN sequences_NNS of_IN images_NNS -LRB-_-LRB- =_JJ -_: =_JJ Gaffney_NNP &_CC Smyth_NNP ,_, 1999_CD -_: =--RRB-_NN ,_, and_CC biomedical_JJ measurements_NNS of_IN the_DT response_NN of_IN different_JJ individuals_NNS to_TO drug_NN therapy_NN over_IN time_NN -LRB-_-LRB- James_NNP &_CC Sugar_NNP ,_, to_TO appear_VB ,_, 2003_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN we_PRP will_MD use_VB the_DT term_NN ``_`` curve_NN ''_'' to_TO denote_VB a_DT variable-leng_NN

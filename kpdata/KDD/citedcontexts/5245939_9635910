@@ -1,0 +1,6 @@
+and_CC labeling_NN ._.
+This_DT would_MD ideally_RB be_VB reduced_VBN to_TO require_VB only_RB a_DT small_JJ fraction_NN of_IN examples_NNS to_TO be_VB labeled_VBN -LRB-_-LRB- 79_CD -RRB-_-RRB- ._.
+Second_JJ ,_, in_FW 5many_FW settings_NNS users_NNS never_RB give_VBP feedback_NN for_IN any_DT messages_NNS predicted_VBN to_TO be_VB spam_NN =_JJ -_: =[_NN 80_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Third_RB ,_, users_NNS may_MD give_VB mistaken_JJ or_CC even_RB maliciously_RB inaccurate_JJ feedback_NN -LRB-_-LRB- 83_CD -RRB-_-RRB- ._.
+Fourth_RB ,_, when_WRB many_JJ users_NNS view_VBP the_DT same_JJ message_NN ,_, there_EX may_MD be_VB significant_JJ disagreement_NN about_IN its_PRP$ ``_`` true_JJ ''_'' label_NN -LRB-_-LRB- 81_CD -RRB-_-RRB- ._.
+Each_DT of_IN

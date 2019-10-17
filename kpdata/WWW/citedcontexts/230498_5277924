@@ -1,0 +1,3 @@
+sually_RB have_VBP high_JJ feature_NN dimensionality_NN and\/or_CC feature_NN sparseness_NN ,_, which_WDT makes_VBZ computation_NN expensive_JJ and_CC can_MD affect_VB classification_NN performance_NN ._.
+One_CD reason_NN is_VBZ that_IN such_JJ features_NNS may_MD be_VB overly_RB specific_JJ =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, e.g._FW name_NN words_NNS ``_`` Mary_NNP ''_'' ,_, ``_`` Johnson_NNP ''_'' or_CC ``_`` Tom_NNP ''_'' ._.
+There_EX have_VBP been_VBN many_JJ successful_JJ feature_NN dimensionality_NN reduction_NN methods_NNS :_: Latent_JJ Semantic_JJ Indexing_NN -LRB-_-LRB- LSI_NNP -RRB-_-RRB- -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC its_PRP$ probabilistic_JJ version_NN -LRB-_-LRB- PLSI_NN -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- map_NN

@@ -1,0 +1,4 @@
+tween_JJ privacy_NN and_CC utility_NN ._.
+The_DT vast_JJ majority_NN of_IN existing_VBG work_NN on_IN privacy-preserving_JJ data_NNS publishing_NN uses_VBZ the_DT following_JJ approach_NN ._.
+First_RB ,_, one_CD chooses_VBZ a_DT specific_JJ privacy_NN requirement_NN ,_, such_JJ as_IN k-anonymity_NN =_JJ -_: =[_NN 25_CD ,_, 26_CD -RRB-_-RRB- -_: =_JJ -_: ,_, ℓ-diversity_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, -LRB-_-LRB- α_NN ,_, k_NN -RRB-_-RRB- anonymity_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- ,_, t-closeness_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, and_CC δ-presence_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, based_VBN on_IN intuitions_NNS of_IN what_WDT privacy_NN means_VBZ ._.
+Second_JJ ,_, one_CD studies_NNS the_DT following_JJ problem_NN :_: after_IN fixing_VBG a_DT parameter_NN for_IN the_DT

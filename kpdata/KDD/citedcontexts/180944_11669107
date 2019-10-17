@@ -1,0 +1,6 @@
+higher_JJR score_NN -LRB-_-LRB- the_DT group_NN that_WDT appears_VBZ to_TO model_VB the_DT data_NNS better_RBR -RRB-_-RRB- ._.
+4_LS ._.
+Go_VB back_RB to_TO step_NN 1_CD ._.
+The_DT k-means_NN algorithm_NN used_VBN in_IN X-means_NNS is_VBZ actually_RB the_DT accelerated_VBN k-means_NN algorithm_NN developed_VBN by_IN Pelleg_NNP and_CC Moore_NNP =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT algorithm_NN has_VBZ identical_JJ output_NN to_TO k-means_NN ,_, but_CC uses_VBZ a_DT kd-tree_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- to_TO improve_VB the_DT algorithm_NN 's_POS speed_NN in_IN low_JJ numbers_NNS of_IN dimensions_NNS ._.
+Statistics_NNS about_IN the_DT points_NNS contained_VBN in_IN its_PRP$ bounding_VBG hyper-recta_NN

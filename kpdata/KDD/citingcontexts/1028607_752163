@@ -1,0 +1,4 @@
+referred_VBN to_TO as_IN the_DT ``_`` mother-data_NN ''_'' -RRB-_-RRB- in_IN the_DT neighborhood_NN of_IN the_DT maximum_NN likelihood_NN solution_NN ._.
+To_TO apply_VB likelihood-based_JJ squashing_NN to_TO SVMs_NNS it_PRP is_VBZ necessary_JJ to_TO have_VB a_DT probabilistic_JJ interpretation_NN -LRB-_-LRB- =_JJ -_: =_JJ see_VB ,_, e.g._FW ,_, -LRB-_-LRB- 6_CD ,_, 16_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+We_PRP use_VBP an_DT interpretation_NN of_IN the_DT SVM_NN training_NN procedure_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- as_IN a_DT problem_NN of_IN finding_VBG maximum_JJ aposteriori_NN values_NNS for_IN the_DT parameters_NNS of_IN the_DT SVM_NN ._.
+We_PRP show_VBP that_IN the_DT probabilistic_JJ interpretation_NN of_IN SVM_NN tr_NN

@@ -1,0 +1,4 @@
+networks_NNS are_VBP large-scale_JJ ,_, have_VBP complex_JJ connection_NN structures_NNS ,_, and_CC are_VBP also_RB very_RB dynamic_JJ ,_, which_WDT means_VBZ that_IN the_DT solution_NN to_TO the_DT problem_NN needs_VBZ to_TO be_VB very_RB efficient_JJ and_CC scalable_JJ ._.
+Domingos_NNP and_CC Richardson_NNP =_SYM -_: =[_NN 3_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP the_DT first_JJ to_TO study_VB influence_NN maximization_NN as_IN an_DT algorithmic_JJ problem_NN ._.
+Their_PRP$ methods_NNS are_VBP probabilistic_JJ ,_, however_RB ._.
+Kempe_NNP ,_, Kleinberg_NNP ,_, and_CC Tardos_NNP -LRB-_-LRB- 5_CD -RRB-_-RRB- are_VBP the_DT first_JJ to_TO formulate_VB the_DT problem_NN as_IN the_DT follo_NN

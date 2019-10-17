@@ -1,0 +1,4 @@
+lability_NN and_CC show_VB how_WRB this_DT allows_VBZ us_PRP to_TO define_VB a_DT more_RBR expressive_JJ shapelet_NN representation_NN ._.
+We_PRP introduce_VBP two_CD novel_JJ techniques_NNS to_TO speedup_VB search_NN for_IN shapelets_NNS ._.
+First_RB ,_, we_PRP precompute_VBP sufficient_JJ statistics_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: to_TO compute_VB the_DT distance_NN -LRB-_-LRB- i.e._FW similarity_NN -RRB-_-RRB- between_IN a_DT shapelet_NN and_CC a_DT subsequence_NN of_IN a_DT time_NN series_NN in_IN amortized_JJ constant_JJ time_NN ._.
+In_IN essence_NN ,_, we_PRP trade_VBP time_NN for_IN space_NN ,_, finding_VBG that_IN a_DT relativity_NN small_JJ increa_NN

@@ -1,0 +1,4 @@
+the_DT content_JJ distribution_NN statistics_NNS with_IN potentially_RB harmful_JJ consequences_NNS to_TO machine_NN learning_NN applications_NNS -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+A_DT number_NN of_IN duplicate-detection_JJ schemes_NNS have_VBP been_VBN proposed_VBN in_IN the_DT literature_NN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 3_LS -RRB-_-RRB- =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =-[_NN 6_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Their_PRP$ focus_NN varies_VBZ from_IN providing_VBG high_JJ detection_NN rates_NNS to_TO minimizing_VBG the_DT computational_JJ and_CC storage_NN resources_NNS needed_VBN by_IN the_DT detection_NN process_NN ._.
+With_IN massive_JJ document_NN repositories_NNS ,_, run-time_RB perform_VB

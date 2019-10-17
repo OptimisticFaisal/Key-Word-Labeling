@@ -1,0 +1,5 @@
+ed_VBN topic-sensitive_JJ PageRanks_NN by_IN computing_VBG several_JJ eigenvectors_NNS biased_VBN by_IN specific_JJ topics_NNS ._.
+The_DT rankings_NNS for_IN a_DT query_NN was_VBD obtained_VBN by_IN appropriate_JJ combination_NN of_IN precomputed_JJ eigenvectors_NNS ._.
+White_NNP and_CC Smyth_NNP =_SYM -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: developed_VBD an_DT algorithm_NN to_TO rank_VB the_DT relative_JJ importance_NN of_IN nodes_NNS in_IN a_DT network_NN with_IN respect_NN to_TO a_DT set_NN of_IN ``_`` root_NN nodes_NNS ''_'' ._.
+Their_PRP$ technique_NN is_VBZ based_VBN on_IN the_DT notion_NN of_IN weighted_JJ paths_NNS ._.
+A_DT node_NN is_VBZ considered_VBN to_TO b_NN

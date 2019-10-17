@@ -1,0 +1,3 @@
+e_LS a_DT classifier_NN that_WDT fits_VBZ the_DT clustering_NN model_NN ,_, we_PRP can_MD resort_VB to_TO a_DT -LRB-_-LRB- 1_LS -RRB-_-RRB- sK-nearest_NN neighbor_NN classifier_NN -LRB-_-LRB- with_IN K_NN appropriately_RB chosen_VBN -RRB-_-RRB- whose_WP$ risk_NN is_VBZ known_VBN to_TO converge_VB to_TO the_DT Bayes_NNP risk_NN almost_RB surely_RB -LRB-_-LRB- c.f._NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+By_IN means_NNS of_IN such_JJ generalization_NN mechanisms_NNS ,_, a_DT solution_NN derived_VBN from_IN a_DT subsample_NN can_MD be_VB extended_VBN to_TO the_DT full_JJ data_NN set_NN X_NN without_IN the_DT need_NN to_TO actually_RB perform_VB clustering_NN on_IN the_DT full_JJ data_NN set_NN ._.
+The_DT stra_NN

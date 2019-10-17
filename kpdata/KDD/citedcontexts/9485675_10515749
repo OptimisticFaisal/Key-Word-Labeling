@@ -1,0 +1,4 @@
+aches_NNS for_IN transfer_NN learning_NN have_VBP been_VBN proposed_VBN ._.
+Given_VBN multiple_JJ weak_JJ classifiers_NNS that_WDT are_VBP trained_VBN in_IN different_JJ domains_NNS ,_, these_DT are_VBP combined_VBN with_IN weights_NNS based_VBN on_IN relatedness_NN to_TO the_DT target_NN domains_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT AdaBoost_NNP algorithm_NN was_VBD modified_VBN so_RB as_IN to_TO be_VB better_JJR fit_NN for_IN transfer_NN learning_NN by_IN less_JJR weighting_NN of_IN useless_JJ source_NN data_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+While_IN boosting_VBG adjusts_VBZ the_DT weights_NNS of_IN data_NNS or_CC classifiers_NNS adaptively_RB ,_, ba_NN

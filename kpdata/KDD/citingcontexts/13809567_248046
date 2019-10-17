@@ -1,0 +1,4 @@
+AD_NN -RRB-_-RRB- -LRB-_-LRB- c_NN -RRB-_-RRB- Bias_NNP -LRB-_-LRB- mean_VB of_IN imputed_JJ values_NNS -_: mean_NN of_IN groundtruth_JJ data_NNS -RRB-_-RRB- 2_CD ._.
+Overall_JJ stroke_NN prediction_NN performance_NN -LRB-_-LRB- measured_VBN by_IN the_DT area_NN under_IN the_DT ROC_NN curve_NN -RRB-_-RRB- ._.
+3.3_CD Feature_NN Selection_NN Selecting_VBG relevant_JJ features_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ crucial_JJ for_IN building_VBG an_DT accurate_JJ model_NN of_IN clinical_JJ data_NNS ._.
+For_IN example_NN ,_, the_DT CHS_NNP dataset_NN has_VBZ a_DT large_JJ number_NN of_IN attributes_NNS ,_, ranging_VBG from_IN demographic_JJ information_NN and_CC clinical_JJ history_NN to_TO biomedical_JJ and_CC

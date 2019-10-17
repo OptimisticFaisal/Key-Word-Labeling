@@ -1,0 +1,7 @@
+tinct_JJ singlepass_NN online_NN classifiers_NNS for_IN non-NLP_JJ tasks_NNS ._.
+In_IN NLP_NNP tasks_NNS ,_, voting_NN does_VBZ not_RB seem_VB to_TO bring_VB the_DT same_JJ benefits_NNS ._.
+More_RBR detailed_JJ experiments_NNS ,_, learning_VBG curves_NNS and_CC graphical_JJ analyses_NNS can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+5_CD ._.
+ONLINE_NNP FEATURE_NNP SELECTION_NNP Feature_NNP selection_NN for_IN NLP_NN tasks_NNS is_VBZ usually_RB performed_VBN insbatch_NN mode_NN ._.
+Examples_NNS of_IN common_JJ metrics_NNS for_IN feature_NN selection_NN are_VBP Information_NNP Gain_NNP and_CC Chi-Square_NNP -LRB-_-LRB- 12_CD ,_, 22_CD -RRB-_-RRB- ._.
+Extendi_NNP

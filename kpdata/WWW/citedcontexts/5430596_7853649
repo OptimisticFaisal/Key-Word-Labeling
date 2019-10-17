@@ -1,0 +1,4 @@
+nd_NN databases_NNS -LRB-_-LRB- 4_CD ,_, 20_CD ,_, 23_CD -RRB-_-RRB- ._.
+A_DT recent_JJ study_NN shows_VBZ that_IN designing_VBG XML_NN documents_NNS for_IN efficient_JJ retrieval_NN and_CC update_VB can_MD also_RB guarantee_VB well-designed_JJ relational_JJ storage_NN structures_NNS for_IN XML-enabled_JJ databases_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Thus_RB ,_, for_IN both_DT native_JJ XML_NN databases_NNS and_CC XML-enabled_JJ databases_NNS ,_, designing_VBG XML_NN documents_NNS for_IN efficient_JJ retrieval_NN and_CC update_VB is_VBZ an_DT appropriate_JJ focus_NN for_IN study_NN ._.
+Similar_JJ to_TO design_NN of_IN relational_JJ tables_NNS by_IN

@@ -1,0 +1,3 @@
+metric_JJ space_NN that_IN most_JJS closely_RB corresponds_VBZ to_TO our_PRP$ intuitive_JJ understanding_NN of_IN space_NN ._.
+The_DT topic_NN proportions_NNS estimated_VBN by_IN PLSA_NN or_CC LDA_NN can_MD be_VB embedded_VBN in_IN the_DT Euclidean_JJ space_NN by_IN Parametric_NNP Embedding_NNP -LRB-_-LRB- PE_NNP -RRB-_-RRB- =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT can_MD employ_VB a_DT set_NN of_IN topic_NN proportions_NNS as_IN input_NN ._.
+However_RB ,_, the_DT topic_NN proportions_NNS may_MD not_RB be_VB suitable_JJ when_WRB they_PRP are_VBP embedded_VBN in_IN the_DT visualization_NN space_NN since_IN these_DT topics_NNS are_VBP estimated_VBN in_IN a_DT diffe_NN

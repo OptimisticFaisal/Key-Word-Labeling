@@ -1,0 +1,4 @@
+s._VB The_DT utility_NN of_IN SAX_NNP has_VBZ been_VBN demonstrated_VBN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, and_CC adaptations_NNS or_CC extensions_NNS of_IN SAX_NNP by_IN other_JJ researchers_NNS further_RB shows_VBZ its_PRP$ impact_NN in_IN diverse_JJ fields_NNS such_JJ as_IN medical_JJ data_NNS mining_NN and_CC video_NN indexing_NN =_JJ -_: =[_NN 1_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP refer_VBP interested_JJ readers_NNS to_TO -LRB-_-LRB- 5_CD -RRB-_-RRB- for_IN more_JJR details_NNS on_IN SAX_NNP ._.
+Figure_NNP 1_CD 1269shows_CD an_DT example_NN of_IN how_WRB a_DT time_NN series_NN of_IN length_NN 1024_CD is_VBZ converted_VBN to_TO a_DT string_NN of_IN length_NN eight_CD :_: ``_`` acdcbdba_NN ._. ''_''
+In_IN this_DT example_NN ,_,

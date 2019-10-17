@@ -1,0 +1,6 @@
+ds_JJ ._.
+ACM_NN 978-1-59593-597-7_CD \/_: 07\/0007_CD ._.
+and_CC training_NN ._.
+Our_PRP$ results_NNS show_VBP that_IN this_DT approach_NN improves_VBZ model_NN performance_NN with_IN equal_JJ amount_NN of_IN labeled_JJ samples_NNS ,_, compared_VBN with_IN the_DT previous_JJ query_NN rewriting_VBG method_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN addition_NN ,_, no_DT labels_NNS are_VBP required_VBN for_IN selecting_VBG the_DT most_RBS informative_JJ training_NN examples_NNS ,_, which_WDT is_VBZ different_JJ from_IN many_JJ other_JJ active_JJ learning_NN methods_NNS ._.
+This_DT property_NN is_VBZ especially_RB important_JJ for_IN real_RB a_DT

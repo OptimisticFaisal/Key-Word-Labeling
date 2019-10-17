@@ -1,0 +1,4 @@
+actional_JJ data_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- has_VBZ been_VBN well_RB studied_VBN and_CC resulted_VBD in_IN several_JJ algorithms_NNS that_WDT cansnd_VBP association_NN rules_NNS within_IN a_DT limited_JJ amount_NN of_IN time_NN ._.
+Also_RB more_RBR complex_JJ patterns_NNS have_VBP been_VBN considered_VBN such_JJ as_IN trees_NNS =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, graphs_NNS -LRB-_-LRB- 11_CD ,_, 10_CD -RRB-_-RRB- ,_, or_CC arbitrary_JJ relational_JJ structures_NNS -LRB-_-LRB- 5_CD ,_, 6_CD -RRB-_-RRB- ._.
+However_RB ,_, the_DT presented_VBN algorithms_NNS only_RB work_VBP on_IN databases_NNS consisting_VBG of_IN a_DT set_NN of_IN transactions_NNS ._.
+For_IN example_NN ,_, in_IN the_DT tree_NN case_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, every_DT tr_NN

@@ -1,0 +1,4 @@
+j_NN -RRB-_-RRB- exists_VBZ ,_, and_CC 0_CD otherwise_RB ._.
+The_DT edges_NNS may_MD be_VB undirected_JJ -LRB-_-LRB- like_IN the_DT network_NN of_IN Internet_NNP routers_NNS and_CC their_PRP$ physical_JJ links_NNS -RRB-_-RRB- or_CC directed_VBN -LRB-_-LRB- like_IN the_DT network_NN of_IN who-trusts-whom_NN in_IN the_DT epinions.com_NN database_NN -LRB-_-LRB- =_JJ -_: =_JJ Richardson_NNP and_CC Domingos_NNP ,_, 2002_CD -_: =--RRB-_NN -RRB-_-RRB- ._.
+Bipartite_JJ graphs_NNS have_VBP edges_NNS between_IN two_CD sets_NNS of_IN nodes_NNS ,_, like_IN ,_, for_IN example_NN ,_, the_DT graph_NN of_IN the_DT movie-actor_JJ database_NN -LRB-_-LRB- www.imdb.com_NN -RRB-_-RRB- ._.
+We_PRP split_VBD the_DT discussion_NN of_IN related_JJ work_NN into_IN two_CD parts_NNS :_: graph_NN patter_NN

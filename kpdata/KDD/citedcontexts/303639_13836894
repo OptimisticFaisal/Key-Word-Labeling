@@ -1,0 +1,4 @@
+lar_JJ way_NN as_IN in_IN soft_JJ k-Means_NNS by_IN applying_VBG a_DT threshold_NN to_TO the_DT posterior_JJ probability_NN obtained_VBN through_IN soft_JJ k-Means_NNS ._.
+Recently_RB ,_, probabilistic_JJ relation_NN models_NNS were_VBD also_RB applied_VBN to_TO obtain_VB overlapping_VBG clusters_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, model-based_JJ algorithms_NNS can_MD fail_VB if_IN the_DT data_NN does_VBZ not_RB agree_VB to_TO the_DT model_NN 's_POS assumption_NN ._.
+Obtaining_VBG representative_JJ objects_NNS through_IN clustering_NN is_VBZ well_RB studied_VBN in_IN signal_NN processing_NN ,_, and_CC also_RB in_IN t_NN

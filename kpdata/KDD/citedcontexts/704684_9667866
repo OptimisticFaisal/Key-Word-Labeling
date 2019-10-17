@@ -1,0 +1,4 @@
+n_NN length-limited_JJ disjunctions_NNS of_IN conjunctions_NNS ._.
+The_DT CHARM-L_NN algorithm_NN -LRB-_-LRB- 33_CD -RRB-_-RRB- mines_NNS redescriptions_NNS between_IN conjunctions_NNS -LRB-_-LRB- with_IN no_DT restrictions_NNS on_IN length_NN -RRB-_-RRB- ._.
+A_DT recently_RB developed_VBN extension_NN to_TO CHARM-L_NN -LRB-_-LRB- BLOSOM_NN =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =--RRB-_NN provides_VBZ a_DT way_NN to_TO systematically_RB mine_VB complex_JJ boolean_JJ expressions_NNS in_IN various_JJ biases_NNS ,_, e.g._FW ,_, conjunctions_NNS ,_, disjunctions_NNS ,_, CNF_NNP ,_, or_CC DNF_NN forms_NNS ._.
+We_PRP 4Figure_VBP 3_CD :_: Mining_NN redescriptions_NNS using_VBG the_DT CHARM-L_NN algor_NN

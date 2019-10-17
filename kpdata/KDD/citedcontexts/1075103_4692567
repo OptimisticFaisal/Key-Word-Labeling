@@ -1,0 +1,6 @@
+es_NNS ._.
+PageRank_NN -LRB-_-LRB- 6_CD ,_, 18_CD -RRB-_-RRB- and_CC HITS_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- are_VBP the_DT two_CD earliest_JJS link_NN analysis_NN algorithms_NNS ._.
+They_PRP only_RB consider_VBP a_DT single_JJ type_NN of_IN relationship_NN -LRB-_-LRB- i.e._FW ,_, hyper-links_NNS -RRB-_-RRB- among_IN homogeneous_JJ Web_NN pages_NNS ._.
+Recent_JJ work_NN such_JJ as_IN =_JJ -_: =[_NN 26_CD ,_, 17_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: extends_VBZ PageRank_NNP or_CC HITS_NNP to_TO consider_VB the_DT interactions_NNS among_IN heterogeneous_JJ entities_NNS ._.
+All_DT these_DT algorithms_NNS focus_VBP on_IN improving_VBG the_DT estimation_NN of_IN entities_NNS '_POS static_JJ ranking_NN ,_, which_WDT is_VBZ query_NN independent_JJ ._.
+In_IN

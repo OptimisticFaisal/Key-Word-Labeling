@@ -1,0 +1,3 @@
+II_CD ._.
+We_PRP begin_VBP by_IN drawing_VBG attention_NN to_TO three_CD alternative_JJ methods_NNS used_VBN to_TO speed_VB the_DT computation_NN of_IN the_DT leave-one-out_JJ error_NN for_IN C-SV_NN binary_JJ classification_NN algorithms_NNS ._.
+Two_CD similar_JJ procedures_NNS ,_, described_VBN in_IN =_JJ -_: =[_NN 30_CD ,_, 52_CD -RRB-_-RRB- -_: =_JJ -_: ,_, determine_VB the_DT leave-one-out_NN bound_VBD exactly_RB ,_, but_CC achieve_VBP savings_NNS in_IN computational_JJ cost_NN by_IN initialising_VBG the_DT C-SV_NN learning_VBG algorithm_NN for_IN the_DT incomplete_JJ data_NN samples_NNS 1_CD using_VBG the_DT solution_NN obtained_VBN with_IN al_FW

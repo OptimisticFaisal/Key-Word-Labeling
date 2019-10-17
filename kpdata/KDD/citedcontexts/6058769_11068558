@@ -1,0 +1,4 @@
+in_IN Table_NNP 1_CD ._.
+These_DT topics_NNS will_MD form_VB the_DT basis_NN for_IN a_DT number_NN of_IN different_JJ features_NNS introduced_VBN below_IN ._.
+While_IN various_JJ work_NN in_IN topic_NN modeling_NN has_VBZ considered_VBN the_DT interaction_NN between_IN topics_NNS and_CC citation_NN ,_, e.g._FW =_JJ -_: =[_NN 16_CD ,_, 18_CD ,_, 27_CD -RRB-_-RRB- -_: =_JJ -_: ,_, to_TO our_PRP$ knowledge_NN ,_, this_DT is_VBZ the_DT first_JJ time_NN features_NNS based_VBN on_IN topic_NN models_NNS have_VBP been_VBN integrated_VBN into_IN a_DT literature_NN retrieval_NN system_NN ._.
+All_DT of_IN our_PRP$ topic_NN features_NNS work_VBP by_IN inspecting_VBG the_DT probability_NN distribu_NN

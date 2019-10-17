@@ -1,0 +1,7 @@
+._.
+,_, name_NN ,_, co-authors_NNS ,_, and_CC pub-venues_NNS -RRB-_-RRB- ._.
+Attributes_NNS can_MD be_VB atomic_JJ -LRB-_-LRB- e.g._FW ,_, name_NN -RRB-_-RRB- ,_, or_CC set-valued_JJ -LRB-_-LRB- e.g._FW ,_, co-authors_NNS -RRB-_-RRB- ._.
+Many_JJ algorithms_NNS have_VBP been_VBN proposed_VBN to_TO extract_VB mention_NN attributes_NNS from_IN the_DT raw_JJ data_NNS -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 1_CD ,_, 7_CD ,_, 33_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Hence_RB ,_, similar_JJ to_TO recent_JJ work_NN on_IN mention_NN matching_NN -LRB-_-LRB- 5_CD ,_, 13_CD ,_, 24_CD ,_, 10_CD -RRB-_-RRB- ,_, we_PRP assume_VBP that_IN the_DT attributes_NNS have_VBP been_VBN extracted_VBN ,_, and_CC focus_VB on_IN the_DT problem_NN of_IN matching_VBG the_DT mentions_VBZ ._.
+Figure_NN 3_CD ._.
+a_DT shows_VBZ an_DT example_NN

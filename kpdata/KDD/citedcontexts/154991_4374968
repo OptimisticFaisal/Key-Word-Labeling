@@ -1,0 +1,3 @@
+the_DT target_NN word_NN will_MD be_VB compared_VBN to_TO the_DT clusters_NNS and_CC the_DT most_RBS similar_JJ cluster_NN will_MD be_VB selected_VBN as_IN its_PRP$ sense_NN ._.
+Most_JJS of_IN the_DT unsupervised_JJ WSD_NN work_NN has_VBZ been_VBN based_VBN on_IN the_DT vector_NN space_NN model_NN -LRB-_-LRB- Schütze_NNP ,_, 1998_CD ;_: =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =_JJ -_: ;_: Purandare_NNP and_CC Pedersen_NNP ,_, 2004_CD -RRB-_-RRB- ,_, where_WRB each_DT example_NN is_VBZ represented_VBN by_IN a_DT vector_NN of_IN features_NNS -LRB-_-LRB- e.g._FW the_DT words_NNS occurring_VBG in_IN the_DT context_NN -RRB-_-RRB- ._.
+Recently_RB ,_, Véronis_NNP -LRB-_-LRB- Véronis_NNP ,_, 2004_CD -RRB-_-RRB- has_VBZ 1_CD Unsupervised_JJ WSD_NN approache_NN

@@ -1,0 +1,4 @@
+ese_NN relations_NNS which_WDT can_MD be_VB viewed_VBN as_IN constraint_NN generalizations_NNS -LRB-_-LRB- class_NN of_IN constraints_NNS -RRB-_-RRB- ._.
+For_IN example_NN ,_, the_DT neighborhood_NN relation_NN could_MD be_VB based_VBN on_IN item_NN patterns_NNS ,_, exception_NN rules_NNS -LRB-_-LRB- 38_CD -RRB-_-RRB- ,_, or_CC rule_NN summaries_NNS =_JJ -_: =[_NN 29_CD ,_, 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD could_MD also_RB consider_VB exploiting_VBG several_JJ neighborhood_NN relations_NNS ,_, so_IN that_IN the_DT user_NN can_MD combine_VB several_JJ types_NNS of_IN moves_NNS in_IN the_DT same_JJ rule_NN set_NN exploration_NN ._.
+Today_NN ,_, in_IN our_PRP$ rummaging_VBG prototype_NN ,_, we_PRP use_VBP a_DT r_NN

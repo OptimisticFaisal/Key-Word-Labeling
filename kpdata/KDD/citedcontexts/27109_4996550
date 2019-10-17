@@ -1,0 +1,5 @@
+cluster_NN will_MD contain_VB highly_RB related_JJ documents_NNS ._.
+The_DT most_RBS important_JJ graph_NN based_VBN algorithms_NNS are_VBP Chameleon_NN -LRB-_-LRB- KHK99_NN -RRB-_-RRB- ,_, Association_NNP Rule_NNP Hypergraph_NNP Partitioning_NN -LRB-_-LRB- ARHP_NN -RRB-_-RRB- -LRB-_-LRB- BG_NN +99_CD -RRB-_-RRB- and_CC the_DT one_NN proposed_VBN by_IN Dhillon_NN =_JJ -_: =_JJ -LRB-_-LRB- D01_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+13sNeural_NNP Network_NNP based_VBD Clustering_NNP ._.
+The_DT Kohonen_NNP 's_POS Self-Organizing_NNP feature_NN Maps_NNS -LRB-_-LRB- SOM_NN -RRB-_-RRB- -LRB-_-LRB- K95_NN -RRB-_-RRB- is_VBZ a_DT widely_RB used_VBN unsupervised_JJ neural_JJ network_NN model_NN ._.
+It_PRP consists_VBZ of_IN two_CD layers_NNS :_: the_DT input_NN layer_NN with_IN n_NN input_NN

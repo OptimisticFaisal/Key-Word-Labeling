@@ -1,0 +1,4 @@
+eature_JJ value_NN --_: the_DT greater_JJR the_DT value_NN ,_, the_DT greater_JJR the_DT corresponding_JJ stiffness_NN ._.
+The_DT point_NN representing_VBG the_DT data_NNS instance_NN is_VBZ then_RB placed_VBN at_IN the_DT position_NN where_WRB the_DT sum_NN of_IN all_DT spring_NN forces_NNS equals_VBZ 0_CD -LRB-_-LRB- see_VB =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: for_IN mathematical_JJ details_NNS -RRB-_-RRB- ._.
+To_TO bring_VB values_NNS of_IN features_NNS on_IN the_DT same_JJ scale_NN and_CC to_TO allow_VB for_IN a_DT simpler_JJR interpretation_NN of_IN radviz_NN graphs_NNS ,_, features_NNS are_VBP standardized_JJ to_TO the_DT interval_NN between_IN 0_CD and_CC 1_CD ._.
+Figure_NNP

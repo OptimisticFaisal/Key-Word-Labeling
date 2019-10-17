@@ -1,0 +1,4 @@
+ighbors_NNS of_IN a_DT user_NN ._.
+The_DT CF_NN approach_NN we_PRP consider_VBP in_IN this_DT paper_NN is_VBZ based_VBN on_IN a_DT special_JJ case_NN of_IN the_DT weighted_JJ Bregman_NNP co-clustering_NN algorithm_NN presented_VBN in_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+There_EX has_VBZ been_VBN a_DT lot_NN of_IN work_NN on_IN co-clustering_NN =_JJ -_: =[_NN 8_CD ,_, 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, most_JJS of_IN which_WDT was_VBD focused_VBN on_IN handling_NN sparsity_NN and_CC dimensionality_NN reduction_NN issues_NNS in_IN text_NN and_CC micro-array_JJ analysis_NN ._.
+A_DT crucial_JJ difference_NN between_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC earlier_JJR co-clustering_JJ work_NN is_VBZ the_DT formulatio_NN

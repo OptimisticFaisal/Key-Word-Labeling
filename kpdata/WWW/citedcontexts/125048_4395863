@@ -1,0 +1,4 @@
+X_NN 7_CD -LRB-_-LRB- Triples_NNS in_IN XML_NN -RRB-_-RRB- is_VBZ a_DT serialization_NN for_IN named_VBN graphs_NNS with_IN the_DT purpose_NN to_TO provide_VB a_DT highly_RB normalized_VBN ,_, consistent_JJ XML_NN representation_NN for_IN RDF_NNP graphs_NNS ,_, allowing_VBG the_DT effective_JJ use_NN of_IN generic_JJ XML_NN tools_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Figure_NN 1_CD shows_VBZ a_DT hypergraph_NN representing_VBG a_DT folksonomy_NN ,_, while_IN the_DT following_JJ excerpt_NN of_IN an_DT RDF_NN file_NN expressed_VBN in_IN TriX_NN syntax_NN depicts_VBZ how_WRB to_TO map_VB such_PDT a_DT graph_NN in_IN RDF_NNP ._.
+-LRB-_-LRB- ?_.
+xml-stylesheet_JJ type_NN =_JJ ``_`` text\/xml_NN ''_'' hr_NN

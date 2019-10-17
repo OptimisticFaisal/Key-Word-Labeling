@@ -1,0 +1,4 @@
+ics_RB ,_, the_DT prediction_NN algorithm_NN is_VBZ applied_VBN to_TO 100_CD %_NN of_IN the_DT Netflix_NNP Prize_NNP training_NN dataset_NN ._.
+The_DT number_NN of_IN coclusters_NNS is_VBZ set_VBN to_TO 5_CD ×_CD 5_CD ,_, 10_CD ×_NN 10_CD ,_, 20_CD ×_NN 20_CD ,_, 30_CD ×_NN 30_CD and_CC 50_CD ×_NN 50_CD ._.
+The_DT Netflix_NNP Prize_NNP defines_VBZ RMSE_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: as_IN the_DT required_JJ evaluation_NN metric_NN to_TO capture_VB prediction_NN performance_NN ._.
+r_NN P_NN -LRB-_-LRB- -LRB-_-LRB- ri_FW −_FW ˆri_FW -RRB-_-RRB- 2_LS -RRB-_-RRB- RMSE_NN =_JJ n_NN 5.2_CD Results_NNS and_CC Discussion_NN 5.2.1_FW Speedup_FW Figure_NN 3_CD shows_VBZ the_DT average_NN of_IN total_JJ application_NN runtimes_NNS for_IN

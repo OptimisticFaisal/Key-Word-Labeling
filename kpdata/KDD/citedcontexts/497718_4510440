@@ -1,0 +1,4 @@
+IGMOD_NN and_CC VLDB_NN are_VBP similar_JJ ,_, then_RB SIGMOD_NNP authors_NNS and_CC VLDB_NN authors_NNS should_MD be_VB similar_JJ ._.
+Unfortunately_RB ,_, similarities_NNS between_IN conferences_NNS may_MD not_RB be_VB available_JJ ,_, either_RB ._.
+This_DT problem_NN can_MD be_VB solved_VBN by_IN SimRank_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN which_WDT the_DT similarity_NN between_IN two_CD objects_NNS is_VBZ recursively_RB defined_VBN as_IN the_DT average_JJ similarity_NN between_IN objects_NNS linked_VBN with_IN them_PRP ._.
+For_IN example_NN ,_, the_DT similarity_NN between_IN two_CD authors_NNS is_VBZ the_DT average_JJ similari_NN

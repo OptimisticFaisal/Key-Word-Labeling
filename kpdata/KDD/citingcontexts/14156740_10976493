@@ -1,0 +1,4 @@
+processing_NN ._.
+NMF_NN is_VBZ usually_RB formulated_VBN as_IN a_DT constrained_VBN non-convex_JJ optimization_NN problem_NN ,_, and_CC many_JJ algorithms_NNS have_VBP been_VBN developed_VBN for_IN solving_VBG it_PRP ._.
+Recently_RB ,_, a_DT coordinate_JJ descent_NN method_NN ,_, called_VBN FastHals_NNP =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, has_VBZ been_VBN proposed_VBN to_TO solve_VB least_JJS squares_NNS NMF_NN and_CC is_VBZ regarded_VBN as_IN one_CD of_IN the_DT state-of-the-art_JJ techniques_NNS for_IN the_DT problem_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP first_RB show_VBP that_IN FastHals_NNP has_VBZ an_DT inefficiency_NN in_IN that_IN it_PRP uses_VBZ

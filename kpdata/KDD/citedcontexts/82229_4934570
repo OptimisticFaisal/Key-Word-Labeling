@@ -1,0 +1,3 @@
+A_DT general_JJ approach_NN to_TO robot_NN navigation_NN ,_, -LRB-_-LRB- the_DT so_RB called_VBN SLAM_NNP problem_NN ,_, Simultaneous_JJ Localization_NN And_CC Mapping_NN -RRB-_-RRB- is_VBZ for_IN the_DT robot_NN to_TO perform_VB range_NN scans_NNS and_CC compare_VB the_DT shapes_NNS to_TO previously_RB obtained_VBN maps_NNS =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB the_DT shape_NN comparisons_NNS can_MD be_VB computationally_RB expensive_JJ -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, and_CC the_DT robot_NN may_MD be_VB forced_VBN to_TO move_VB before_IN an_DT exhaustive_JJ nearest_JJS neighbor_NN search_NN has_VBZ been_VBN completed_VBN ._.
+Under_IN such_JJ circumstances_NNS an_DT a_DT

@@ -1,0 +1,4 @@
+applications_NNS ._.
+In_IN addition_NN to_TO frequent_JJ pattern_NN mining_NN ,_, we_PRP believe_VBP these_DT services_NNS will_MD be_VB useful_JJ for_IN a_DT wide_JJ range_NN of_IN data_NN mining_NN tasks_NNS such_JJ as_IN sequence_NN mining_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, graph_NN mining_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, outlier_NN detection_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC decision_NN tree_NN induction_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- ._.
+Storage_NNP and_CC I\/O_NNP Services_NNPS :_: The_DT data_NNS storage_NN service_NN implements_VBZ strategies_NNS for_IN managing_VBG and_CC accessing_VBG data_NNS in_IN distributed_VBN disk_NN space_NN ._.
+It_PRP also_RB supports_VBZ basic_JJ updatepro_NN

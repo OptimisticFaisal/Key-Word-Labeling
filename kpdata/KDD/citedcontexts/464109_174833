@@ -1,0 +1,7 @@
+argin_NN formulation_NN ._.
+The_DT vertical_JJ axis_NN is_VBZ normalized_VBN di_FW erently_FW for_IN GACV_NNP ,_, VC_NNP bound_VBD ,_, approximate_JJ span_NN bound_VBD and_CC D_NN 2_CD w_NN 2_CD ._.
+For_IN each_DT curve_NN ,_, ∇_NN denotes_VBZ the_DT minimum_JJ point_NN ._.
+strategies_NNS ,_, such_JJ as_IN alpha_NN seeding_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: and_CC loose_JJ tolerance_NN -LRB-_-LRB- 10,11_CD -RRB-_-RRB- ,_, can_MD be_VB easily_RB carried_VBN from_IN LOO_NN to_TO k-fold_NN cross-validation_NN ._.
+Thus_RB ,_, k-fold_NN cross-validation_NN is_VBZ also_RB an_DT e_SYM cient_JJ technique_NN for_IN tuning_NN SVM_NN hyperparameters_NNS ._.
+sK_NN ._.
+Duan_NNP et_FW al._FW \/_: Neu_NN

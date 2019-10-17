@@ -1,0 +1,4 @@
+iving_VBG extensions_NNS of_IN them_PRP ,_, which_WDT are_VBP not_RB frequent_JJ ._.
+The_DT problem_NN of_IN mining_NN frequent_JJ tree_NN structures_NNS in_IN semistructured_JJ data_NNS has_VBZ been_VBN studied_VBN before_IN and_CC several_JJ methods_NNS have_VBP been_VBN proposed_VBN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 25_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS of_IN them_PRP are_VBP based_VBN on_IN the_DT classic_JJ Apriori_NN technique_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, which_WDT generates_VBZ candidate_NN frequent_JJ structures_NNS and_CC validates_VBZ them_PRP level_NN by_IN level_NN ._.
+However_RB ,_, because_IN these_DT methods_NNS are_VBP rather_RB slow_JJ when_WRB appl_NN

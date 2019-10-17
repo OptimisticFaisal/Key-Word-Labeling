@@ -1,0 +1,5 @@
+tering_VBG based_VBN outlier_NN detection_NN algorithm_NN ._.
+This_DT module_NN searches_VBZ for_IN deviation_NN from_IN the_DT normal_JJ patterns_NNS and_CC assigns_VBZ an_DT anomaly_JJ score_NN to_TO each_DT data_NN access_NN log_NN entry_NN ._.
+We_PRP used_VBD the_DT data_NNS mining_NN tool_NN Orca_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: for_IN discovering_VBG outliers_NNS ._.
+It_PRP uses_VBZ the_DT distance_NN from_IN a_DT given_VBN example_NN to_TO its_PRP$ nearest_JJS neighbor_NN to_TO determine_VB its_PRP$ unusualness_NN ._.
+Outliers_NNS can_MD be_VB viewed_VBN as_IN candidates_NNS who_WP have_VBP a_DT low_JJ nearest_JJS neighbor_NN density_NN ._.

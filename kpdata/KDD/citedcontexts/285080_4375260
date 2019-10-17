@@ -1,0 +1,4 @@
+umer_NN network_NN ,_, represented_VBN by_IN the_DT graph_NN G_NN ,_, where_WRB the_DT nodes_NNS N_NN -LRB-_-LRB- G_NN -RRB-_-RRB- are_VBP consumers_NNS and_CC the_DT edges_NNS E_NN -LRB-_-LRB- G_NN -RRB-_-RRB- are_VBP links_NNS between_IN consumers_NNS ._.
+This_DT is_VBZ similar_JJ to_TO the_DT consumer_NN network_NN modeled_VBN by_IN Domingos_NNP and_CC Richardson_NNP =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB customers_NNS are_VBP linked_VBN if_IN they_PRP rate_VBP the_DT same_JJ movie_NN ._.
+We_PRP link_VBP customers_NNS by_IN social_JJ ties_NNS --_: in_IN our_PRP$ case_NN ,_, by_IN our_PRP$ knowledge_NN that_IN the_DT two_CD consumers_NNS have_VBP communicated_VBN ._.
+We_PRP weight_VBP the_DT network_NN by_IN aggregating_VBG

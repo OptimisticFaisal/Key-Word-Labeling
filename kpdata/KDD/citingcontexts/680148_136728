@@ -1,0 +1,4 @@
+r_NN feature_NN of_IN F-Miner_NN is_VBZ the_DT ability_NN to_TO relate_VB nodes_NNS in_IN a_DT graph_NN through_IN relationships_NNS beyond_IN just_RB a_DT single_JJ edge_NN ,_, as_IN in_IN the_DT query_NN of_IN Figure_NNP 7_CD ._.
+This_DT feature_NN was_VBD also_RB exhibited_VBN in_IN the_DT proximity_NN search_NN of_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT finds_VBZ nodes_NNS in_IN a_DT graph_NN that_WDT are_VBP nearby_JJ in_IN terms_NNS of_IN graph_NN distance_NN ._.
+However_RB ,_, there_EX is_VBZ no_DT mechanism_NN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- for_IN explaining_VBG query_NN results_NNS ,_, one_CD of_IN the_DT strengths_NNS of_IN our_PRP$ approach_NN ._.
+A_DT system_NN was_VBD presen_JJ

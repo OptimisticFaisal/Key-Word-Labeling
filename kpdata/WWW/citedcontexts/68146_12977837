@@ -1,0 +1,5 @@
+ge_NN and_CC its_PRP$ constructs_NNS to_TO Extended_NNP Timed_NNP Automata_NNP ._.
+The_DT language_NN constructs_NNS are_VBP mapped_VBN to_TO a_DT simplified_VBN version_NN of_IN BPEL_NN 1.1_CD ._.
+Fu_FW et_FW al._FW presented_VBD a_DT translation_NN from_IN BPEL_NN to_TO guarded_VBN automata_NN in_IN their_PRP$ work_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ;_: the_DT guarded_VBN automata_NN is_VBZ further_RB translated_VBN into_IN Promela_NNP specification_NN which_WDT is_VBZ the_DT language_NN for_IN the_DT SPIN_NNP model_NN ._.
+Similar_JJ approaches_NNS are_VBP also_RB followed_VBN in_IN -LRB-_-LRB- 6_CD ,_, 7_CD -RRB-_-RRB- ._.
+All_DT these_DT efforts_NNS points_NNS to_TO the_DT fact_NN t_NN

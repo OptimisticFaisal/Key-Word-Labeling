@@ -1,0 +1,4 @@
+from_IN information_NN retrieval_NN and_CC text_NN classification_NN ,_, which_WDT we_PRP discuss_VBP further_RBR in_IN the_DT next_JJ section_NN ._.
+4_LS ._.
+CLASSIFICATION_NN METHODOLOGY_NN Our_PRP$ overall_JJ approach_NN drew_VBD techniques_NNS from_IN information_NN retrieval_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =--RRB-_NN and_CC from_IN text_NN classification_NN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 12_CD ,_, 36_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+We_PRP used_VBD the_DT n-grams_NN extracted_VBN from_IN the_DT executables_NNS to_TO form_VB training_NN examples_NNS by_IN viewing_VBG each_DT n-gram_NN as_IN a_DT binary_JJ attribute_NN that_WDT is_VBZ either_RB present_JJ in_IN -LRB-_-LRB- i._NN

@@ -1,0 +1,4 @@
+here_RB ._.
+Interestingly_RB ,_, the_DT most_RBS effective_JJ methods_NNS we_PRP have_VBP found_VBN are_VBP based_VBN on_IN sets_NNS of_IN binary-class_JJ linear_JJ classifiers_NNS deployed_VBN as_IN per-class_JJ classifiers_NNS ,_, including_VBG linear_JJ support_NN vector_NN machines_NNS -LRB-_-LRB- SVM_NNP 's_POS -RRB-_-RRB- =_JJ -_: =[_NN 16_CD ,_, 28_CD -RRB-_-RRB- -_: =_JJ -_: ,_, linear_JJ rank-based_JJ SVM_NN 's_POS -LRB-_-LRB- 17_CD ,_, 26_CD -RRB-_-RRB- ,_, and_CC linear_JJ models_NNS in_IN cascades_NNS -LRB-_-LRB- 33_CD -RRB-_-RRB- ._.
+These_DT methods_NNS will_MD be_VB the_DT focus_NN of_IN this_DT section_NN ._.
+3.2.1_CD One-vs-Good_NNP Multi-Class_NNP Classification_NN Typical_JJ strategies_NNS for_IN performing_VBG

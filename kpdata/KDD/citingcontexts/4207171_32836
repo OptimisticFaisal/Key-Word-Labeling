@@ -1,0 +1,4 @@
+ussian_JJ cluster_NN ,_, one_CD sub-space_JJ cluster_NN ,_, and_CC noise_NN ;_: and_CC -LRB-_-LRB- b_LS -RRB-_-RRB- a_DT bad_JJ clustering_NN ._.
+1_CD ._.
+INTRODUCTION_NN The_DT problem_NN of_IN clustering_NN has_VBZ attracted_VBN a_DT huge_JJ volume_NN of_IN attention_NN for_IN several_JJ decades_NNS ,_, with_IN multiple_JJ books_NN =_JJ -_: =[_NN 11_CD ,_, 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, surveys_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- and_CC papers_NNS -LRB-_-LRB- X-means_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, G-means_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, CLARANS_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, CURE_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, CLIQUE_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, BIRCH_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, DBSCAN_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, to_TO name_VB a_DT few_JJ -RRB-_-RRB- ._.
+Recent_JJ interest_NN in_IN clustering_NN has_VBZ been_VBN on_IN finding_VBG clusters_NNS that_WDT have_VBP

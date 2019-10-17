@@ -1,0 +1,6 @@
+on_IN ._.
+For_IN every_DT 1_CD ≤_CD i_FW ≤_FW n_NN ,_, Tl_NN ∗_NN -LRB-_-LRB- S_NN -LRB-_-LRB- 1_CD ,_, i_LS -RRB-_-RRB- -RRB-_-RRB- =_JJ -LRB-_-LRB- 5_CD -RRB-_-RRB- =_JJ min_NN 1_CD ≤_FW j_FW ≤_FW i_FW -LCB-_-LRB- Tl_FW ∗_FW -LRB-_-LRB- S_NN -LRB-_-LRB- 1_CD ,_, j_NN -RRB-_-RRB- +_CC Ll_NN ∗_NN -LRB-_-LRB- S_NN -LRB-_-LRB- j_NN +_CC 1_CD ,_, i_LS -RRB-_-RRB- -RRB-_-RRB- -RRB-_-RRB- -RCB-_-RRB- ._.
+The_DT proof_NN of_IN optimality_NN is_VBZ omitted_VBN due_JJ to_TO space_NN constraints_NNS ._.
+However_RB ,_, a_DT similar_JJ proof_NN can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP call_VBP the_DT dynamic-programming_JJ algorithm_NN that_WDT implements_VBZ Recursion_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- the_DT Segment-DP_NN algorithm_NN ._.
+If_IN TL_NN is_VBZ the_DT time_NN required_VBN to_TO evaluate_VB Ll_NN ∗_NN -LRB-_-LRB- S_NN -LRB-_-LRB- I_NN -RRB-_-RRB- -RRB-_-RRB- ,_, then_RB the_DT running_VBG time_NN of_IN the_DT Segment-DP_NN algorit_NN

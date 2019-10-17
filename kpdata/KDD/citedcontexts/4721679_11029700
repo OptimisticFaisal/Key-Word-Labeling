@@ -1,0 +1,5 @@
+l_NN than_IN older_JJR ones_NNS ,_, thus_RB capturing_VBG the_DT evolution_NN of_IN clusters_NNS over_IN time_NN ._.
+Using_VBG an_DT exponentially_RB decaying_JJ forgetting_VBG factor_NN was_VBD proved_VBN to_TO be_VB successful_JJ in_IN modeling_NN evolution_NN as_IN was_VBD done_VBN in_IN previous_JJ work_NN =_JJ -_: =[_NN 4,5,6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT age_NN is_VBZ the_DT di_FW erence_FW between_IN the_DT current_JJ time\/iteration_NN or_CC step_NN -LRB-_-LRB- n_NN -RRB-_-RRB- and_CC the_DT time_NN when_WRB the_DT cluster_NN was_VBD rst_NN created_VBN ._.
+De_NNP nition_NN 1_CD ._.
+Adaptive_JJ Robust_NNP Weight_NNP :_: For_IN the_DT i_FW th_DT cluster_NN ,_, Ci_NN ,_, i_FW =_JJ 1_CD ,_, ..._: ,_, K_NN ,_, t_NN

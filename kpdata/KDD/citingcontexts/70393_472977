@@ -1,0 +1,5 @@
+ure_NN subset_NN selection_NN search_NN wrapped_VBN around_IN EM-k_NN -LRB-_-LRB- EM_NN clustering_NN with_IN order_NN identi_NNS -_: cation_NN -RRB-_-RRB- ._.
+For_IN a_DT given_VBN feature_NN subset_NN ,_, we_PRP search_VBP for_IN k_NN and_CC the_DT clusters_NNS ._.
+EM-k_NN currently_RB applies_VBZ Bouman_NNP et_FW al._FW 's_POS method_NN -LRB-_-LRB- =_JJ -_: =_JJ 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT adds_VBZ a_DT minimum_JJ description_NN length_NN penalty_NN term_NN to_TO the_DT log-likelihood_JJ criterion_NN ._.
+A_DT penalty_NN term_NN is_VBZ needed_VBN because_IN the_DT maximum_NN likelihood_NN estimate_NN increases_NNS as_IN more_JJR clusters_NNS are_VBP used_VBN ._.
+Without_IN th_DT

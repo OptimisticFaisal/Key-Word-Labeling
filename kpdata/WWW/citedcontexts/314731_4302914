@@ -1,0 +1,3 @@
+earch_JJ engines_NNS ,_, including_VBG the_DT index_NN ,_, ranking_NN function_NN ,_, summarization_NN ,_, duplicate_VB detection_NN ,_, etc._NN ._.
+With_IN templated_VBN content_NN currently_RB constituting_VBG more_JJR than_IN half_NN of_IN all_DT HTML_NNP on_IN the_DT web_NN and_CC growing_VBG steadily_RB =_JJ -_: =[_NN 3_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, it_PRP is_VBZ imperative_JJ that_IN search_NN engines_NNS develop_VBP scalable_JJ tools_NNS and_CC techniques_NNS to_TO reliably_RB detect_VB templates_NNS on_IN a_DT webpage_NN ._.
+Most_JJS existing_VBG methods_NNS for_IN template_NN detection_NN operate_VBP on_IN a_DT per_IN website_NN basis_NN by_IN a_DT

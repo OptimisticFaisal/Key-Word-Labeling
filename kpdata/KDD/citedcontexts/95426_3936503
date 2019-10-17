@@ -1,0 +1,6 @@
+ied_VBD the_DT idea_NN of_IN implementing_VBG a_DT decision_NN tree_NN technique_NN for_IN classification_NN of_IN stream_NN data_NNS ._.
+Ding_NNP et_FW al._FW -LRB-_-LRB- 17_CD -RRB-_-RRB- have_VBP developed_VBN a_DT decision_NN tree_NN based_VBN on_IN Peano_NNP count_NN tree_NN data_NNS structure_NN ._.
+Domingos_NNP et_FW al._FW -LRB-_-LRB- 19_CD -RRB-_-RRB- =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP studied_VBN the_DT problem_NN of_IN maintaining_VBG decision_NN trees_NNS over_IN data_NNS streams_NNS ._.
+In_IN -LRB-_-LRB- 19_CD -RRB-_-RRB- they_PRP have_VBP developed_VBN the_DT VFDT_NN system_NN ._.
+It_PRP is_VBZ a_DT decision_NN tree_NN learning_VBG system_NN based_VBN on_IN Hoeffding_NNP trees_NNS ._.
+Ganti_FW et_FW al._FW -LRB-_-LRB- 23_CD

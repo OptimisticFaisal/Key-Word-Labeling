@@ -1,0 +1,4 @@
+S_NN ,_, coauthorship_NN is_VBZ used_VBN as_IN one_CD type_NN of_IN the_DT relationships_NNS ._.
+The_DT major_JJ problem_NN in_IN the_DT construction_NN of_IN a_DT social_JJ network_NN is_VBZ to_TO identify_VB and_CC integrate_VB the_DT person_NN profile_NN from_IN distributed_VBN sources_NNS on_IN the_DT Web_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN the_DT data_NNS sources_NNS ,_, in_IN EOS_NNP ,_, we_PRP used_VBD Web_NN pages_NNS related_VBN to_TO a_DT person_NN ,_, XML_NN files_NNS of_IN DBLP_NN ,_, and_CC the_DT publication_NN ranking_NN list_NN from_IN Citeseer_NN -LRB-_-LRB- http:\/\/www.citeseer.com_NN -RRB-_-RRB- ._.
+The_DT construction_NN of_IN the_DT social_JJ networ_NN

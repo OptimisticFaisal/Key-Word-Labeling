@@ -1,0 +1,6 @@
+es_NNS ._.
+They_PRP share_VBP many_JJ common_JJ concepts_NNS ,_, such_JJ as_IN the_DT underlying_VBG data_NNS model_NN ._.
+They_PRP both_DT include_VBP the_DT whole_NN of_IN XPath_NN as_IN a_DT sublanguage_NN ,_, which_WDT supports_VBZ a_DT number_NN of_IN data_NNS types_NNS and_CC a_DT respectable_JJ function_NN library_NN =_JJ -_: =[_NN 5_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT processing_NN engine_NN in_IN XSLT_NNP automatically_RB goes_VBZ through_IN the_DT document_NN tree_NN and_CC applies_VBZ templates_NNS as_IN it_PRP encounters_VBZ nodes_NNS ._.
+XQuery_NN ,_, on_IN the_DT other_JJ hand_NN ,_, requires_VBZ the_DT programmer_NN to_TO direct_VB the_DT process_NN ._.
+XSL_NN

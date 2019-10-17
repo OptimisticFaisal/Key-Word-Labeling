@@ -1,0 +1,4 @@
+ser_NN to_TO a_DT globally_RB optimal_JJ partition_NN than_IN the_DT basic_JJ CART_NN optimization_NN criterion_NN ._.
+The_DT principle_NN of_IN fitting_JJ models_NNS to_TO the_DT branches_NNS of_IN candidate_NN splits_VBZ is_VBZ not_RB new_JJ ._.
+For_IN more_JJR than_IN a_DT decade_NN ,_, Karalic_NNP 's_POS RETIS_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: model_NN tree_NN algorithm_NN optimizes_VBZ the_DT overall_JJ RSS_NN ,_, simultaneously_RB optimizing_VBG the_DT split_NN and_CC the_DT models_NNS in_IN the_DT leaf_NN nodes_NNS to_TO minimize_VB the_DT global_JJ RSS_NN ._.
+However_RB ,_, this_DT algorithm_NN is_VBZ often_RB cited_VBN as_IN being_VBG intrac_JJ

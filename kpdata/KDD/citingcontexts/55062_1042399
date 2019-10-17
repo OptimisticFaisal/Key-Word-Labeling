@@ -1,0 +1,4 @@
+m_NN unlabeled_JJ data_NNS ,_, where_WRB an_DT oracle_NN can_MD be_VB queried_VBN for_IN labels_NNS of_IN speci_NN c_NN instances_NNS ,_, with_IN the_DT goal_NN of_IN minimizing_VBG the_DT number_NN of_IN oracle_NN queries_NNS required_VBN ._.
+Active_JJ learning_NN has_VBZ been_VBN proposed_VBN in_IN various_JJ forms_NNS =_JJ -_: =[_NN 2_CD ,_, 10_CD ,_, 11_CD ,_, 12_CD ,_, 17_CD ,_, 23_CD ,_, 24_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP will_MD discuss_VB in_IN more_JJR detail_NN the_DT earlier_JJR works_NNS in_IN active_JJ learning_NN related_VBN to_TO the_DT approach_NN used_VBN in_IN this_DT paper_NN ._.
+One_CD approach_NN to_TO active_JJ learning_NN is_VBZ uncertainty_NN sampling_NN in_IN which_WDT instances_NNS in_IN the_DT data_NNS

@@ -1,0 +1,5 @@
+ocument_NN classification_NN ,_, handwriting_NN analysis_NN and_CC other_JJ fields_NNS ._.
+Various_JJ approaches_NNS combine_VBP models_NNS using_VBG different_JJ feature_NN sets_NNS ,_, other_JJ works_NNS correlate_VBP model_NN outputs_NNS ._.
+An_DT overview_NN of_IN the_DT topic_NN appears_VBZ in_IN =_JJ -_: =[_NN 6_CD ,_, 22_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Numerous_JJ studies_NNS have_VBP shown_VBN that_IN combining_VBG classifiers_NNS yields_NNS better_JJR results_NNS than_IN achievable_JJ with_IN an_DT individual_JJ classifier_NN -LRB-_-LRB- 9_CD ,_, 25_CD -RRB-_-RRB- ._.
+2_CD Some_DT propose_VBP combining_VBG very_RB strong_JJ classifiers_NNS -LRB-_-LRB- i.e._FW with_IN low_JJ er_NN

@@ -1,0 +1,4 @@
+on_IN that_DT employs_VBZ a_DT similarity_NN measure_NN in_IN the_DT clustering_NN process_NN ,_, based_VBN on_IN semantic_JJ proximity_NN between_IN sets_NNS of_IN terms_NNS of_IN an_DT ontology_NN ._.
+Again_RB ,_, we_PRP used_VBD a_DT generalization_NN of_IN the_DT Wu_NNP &_CC Palmer_NNP similarity_NN measure_NN =_JJ -_: =[_NN 41_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN more_JJR information_NN regarding_VBG the_DT clustering_NN process_NN ,_, please_VBP refer_VB to_TO -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+After_IN applying_VBG this_DT clustering_NN algorithm_NN to_TO the_DT documents_NNS contained_VBN in_IN the_DT DB-NET_NN Web_NN site_NN ,_, the_DT URIs_NNS included_VBN in_IN Table_NNP 2_CD

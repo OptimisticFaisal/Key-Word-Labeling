@@ -1,0 +1,5 @@
+then_RB sorts_NNS the_DT documents_NNS by_IN decreasing_VBG score_NN ._.
+Note_VB that_IN McRank_NNP has_VBZ no_DT direct_JJ hold_NN on_IN true_JJ loss_NN functions_NNS like_IN MAP_NN ,_, MRR_NN or_CC NDCG_NN ._.
+We_PRP implemented_VBD the_DT boosting_VBG code_NN in_IN Java_NNP ,_, taking_VBG advantage_NN of_IN the_DT WEKA_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: REPTree_NN implementation_NN ._.
+4_LS ._.
+EXPERIMENTS_NNS 4.1_CD Data_NNP preparation_NN Inside_IN the_DT LETOR_NN distribution_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- there_EX are_VBP three_CD data_NNS sets_NNS ,_, OHSUMED_NN -LRB-_-LRB- 106_CD queries_NNS ,_, 11303_CD bad_JJ documents_NNS ,_, 4837_CD q_NN l_NN ξ_NN l_NN q_FW 6good_FW documents_NNS -RRB-_-RRB- ,_,

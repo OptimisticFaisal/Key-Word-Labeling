@@ -1,0 +1,4 @@
+utomatically_RB learn_VB complex_JJ ranking_JJ functions_NNS from_IN large-scale_JJ training_NN sets_NNS ._.
+Earlier_JJR algorithms_NNS for_IN ranking_JJ function_NN learning_NN include_VBP Polynomial-based_JJ regression_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, Genetic_JJ Programming_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, RankSVM_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: and_CC classification-based_JJ SVM_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+However_RB ,_, all_PDT these_DT algorithms_NNS have_VBP only_RB been_VBN evaluated_VBN on_IN small_JJ scale_NN datasets_NNS due_JJ to_TO their_PRP$ high_JJ computational_JJ cost_NN ._.
+RankNet_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- was_VBD the_DT first_JJ work_NN that_WDT was_VBD evaluate_VB

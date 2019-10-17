@@ -1,0 +1,4 @@
+s_NN ,_, and_CC others_NNS ._.
+Examples_NNS of_IN PRMs_NNS include_VBP relational_JJ Bayesian_JJ networks_NNS -LRB-_-LRB- RBNs_NNS -RRB-_-RRB- -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, relational_JJ Markov_NNP networks_NNS -LRB-_-LRB- RMNs_NNS -RRB-_-RRB- -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, relational_JJ dependency_NN networks_NNS -LRB-_-LRB- RDNs_NNS -RRB-_-RRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, and_CC Bayesian_JJ logic_NN programs_NNS -LRB-_-LRB- BLPs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2.1_CD Types_NNS of_IN Relational_JJ Models_NNS The_DT process_NN of_IN rollout_NN is_VBZ sufficiently_RB general_JJ that_IN it_PRP can_MD be_VB applied_VBN to_TO a_DT wide_JJ variety_NN of_IN graphical_JJ models_NNS for_IN relational_JJ data_NNS ._.
+Each_DT type_NN of_IN model_NN imposes_VBZ different_JJ c_NN

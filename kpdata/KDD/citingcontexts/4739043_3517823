@@ -1,0 +1,4 @@
+itional_JJ input_NN to_TO a_DT neural_JJ network_NN to_TO model_VB the_DT survival_NN probability_NN ._.
+Other_JJ authors_NNS used_VBD several_JJ separately_RB trained_JJ networks_NNS ,_, each_DT used_VBN to_TO model_VB the_DT hazard_NN function_NN at_IN a_DT different_JJ time_NN interval_NN ,_, e.g._FW ,_, =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Neural_JJ networks_NNS have_VBP been_VBN shown_VBN to_TO be_VB able_JJ to_TO outperform_VB traditional_JJ statistical_JJ models_NNS ,_, probably_RB due_JJ to_TO neural_JJ networks_NNS '_POS capacity_NN to_TO model_NN nonlinearities_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+However_RB ,_, these_DT algorithms_NNS require_VBP a_DT l_NN

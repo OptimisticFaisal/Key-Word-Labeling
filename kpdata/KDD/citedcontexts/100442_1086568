@@ -1,0 +1,5 @@
+succeed_VB ,_, since_IN network_NN characteristics_NNS can_MD change_VB only_RB upon_IN a_DT successful_JJ attack_NN ._.
+Several_JJ other_JJ works_NNS identify_VBP low-volume_JJ attack_NN activity_NN using_VBG only_JJ analysis_NN of_IN network_NN characteristics_NNS ._.
+Mahoney_NNP et_FW al._FW =_SYM -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: build_VB models_NNS of_IN IP_NNP and_CC TCP_NNP header_NN fields_NNS ,_, as_RB well_RB as_IN application-level_JJ fields_NNS for_IN protocols_NNS like_IN HTTP_NNP ._.
+Their_PRP$ approach_NN uses_VBZ Bayesian_JJ estimation_NN techniques_NNS for_IN detecting_VBG deviations_NNS from_IN this_DT model_NN ._.
+ADA_NN

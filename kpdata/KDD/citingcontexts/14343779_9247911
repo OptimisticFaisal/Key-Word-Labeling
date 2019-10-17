@@ -1,0 +1,5 @@
+anteed_VBD to_TO cause_VB the_DT |_NNP |_NNP w_NNP |_NNP |_NNP 1_CD to_TO converge_VB to_TO radius_NN at_IN most_JJS λ_NN after_IN repeated_JJ calls_NNS ._.
+In_IN practice_NN ,_, we_PRP find_VBP this_DT work_NN well_RB ,_, is_VBZ fast_JJ to_TO compute_VB ,_, and_CC is_VBZ easier_JJR to_TO tune_VB than_IN the_DT truncated_VBN gradient_NN approach_NN of_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Algorithm_NN 2_CD Approximate_JJ projection_NN to_TO L1-ball_NN of_IN radius_NN at_IN most_JJS λ_NN ._.
+Repeated_VBN calls_NNS to_TO this_DT projection_NN will_MD converge_VB to_TO radius_FW λ_FW ._.
+1_CD :_: c_NN ←_CD max_NN -LRB-_-LRB- λ_FW −_FW |_FW |_FW w_FW |_FW |_FW 1,0_CD -RRB-_-RRB- 2_CD :_: d_FW ←_FW |_FW |_FW w_FW |_FW |_FW 0_CD 3_CD :_: τ_FW ←_FW c_NN d_NN 4_CD :_: for_IN each_DT non-zero_JJ

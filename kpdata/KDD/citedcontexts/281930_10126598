@@ -1,0 +1,3 @@
+partition-based_JJ algorithm_NN is_VBZ proposed_VBN ._.
+However_RB ,_, the_DT R_NN ∗_NN -_: tree_NN method_NN can_MD not_RB be_VB adapted_VBN to_TO trajectory_JJ streams_NNS because_IN it_PRP will_MD suffer_VB from_IN continuous_JJ high_JJ speed_NN update_VBP and_CC huge_JJ memory_NN cost_NN ._.
+Bay_NNP et_FW al._FW =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: search_NN anomalies_NNS by_IN a_DT range_NN neighbor_NN search_NN with_IN a_DT random_JJ order_NN ,_, together_RB with_IN a_DT simple_JJ pruning_NN step_NN ,_, however_RB ,_, it_PRP is_VBZ still_RB quite_RB slow_JJ for_IN trajectory_JJ streams_NNS since_IN too_RB many_JJ subsequences_NNS need_VBP to_TO be_VB che_NN

@@ -1,0 +1,4 @@
+,_, which_WDT maximizes_VBZ F_NN ∗_NN 1_CD -LRB-_-LRB- G_NN -RRB-_-RRB- ,_, is_VBZ given_VBN by_IN minimizing_VBG the_DT following_VBG objective_NN function_NN :_: F2_NN -LRB-_-LRB- G_NN -RRB-_-RRB- =_JJ traceL_NN T_NN 1_CD I_NN +_CC λ_NN G_NN −_NN 1_CD L_NN ._.
+-LRB-_-LRB- 28_CD -RRB-_-RRB- The_DT minimization_NN of_IN F2_NN -LRB-_-LRB- G_NN -RRB-_-RRB- can_MD be_VB solved_VBN by_IN gradient_NN descent_NN methods_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, the_DT computation_NN of_IN its_PRP$ gradient_NN is_VBZ expensive_JJ for_IN each_DT iteration_NN ._.
+Following_VBG the_DT recent_JJ work_NN in_IN -LRB-_-LRB- 36_CD -RRB-_-RRB- ,_, we_PRP can_MD show_VB that_IN this_DT minimization_NN problem_NN can_MD besformulated_VBN as_IN a_DT Quadratically_NNP Constrain_NNP

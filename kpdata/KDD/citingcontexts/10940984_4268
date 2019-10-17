@@ -1,0 +1,6 @@
+eeds_NNS S_NN of_IN size_NN k_NN such_JJ that_IN σM_NN -LRB-_-LRB- S_NN -RRB-_-RRB- is_VBZ maximized_VBN ._.
+It_PRP is_VBZ not_RB surprising_JJ that_IN this_DT optimization_NN problem_NN is_VBZ NP-hard_JJ ._.
+In_IN fact_NN ,_, the_DT same_JJ reduction_NN from_IN set_VBN cover_NN problem_NN in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- together_RB with_IN Theorem_NNP 5.3_CD of_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ sufficient_JJ to_TO show_VB the_DT following_NN ._.
+THEOREM_NN 2_CD ._.
+It_PRP is_VBZ NP-hard_JJ to_TO compute_VB a_DT set_NN of_IN nodes_NNS S_NN of_IN size_NN k_NN such_JJ that_IN σM_NN -LRB-_-LRB- S_NN -RRB-_-RRB- is_VBZ maximized_VBN ._.
+Furthermore_RB ,_, it_PRP is_VBZ NP-hard_JJ to_TO approximate_JJ within_IN a_DT factor_NN of_IN 1_CD −_FW 1\/e_FW

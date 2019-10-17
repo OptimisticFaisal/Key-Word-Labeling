@@ -1,0 +1,5 @@
+rated_VBN by_IN these_DT candidate_NN 2-itemsets_NNS ._.
+The_DT new_JJ set_NN of_IN frequent_JJ itemsets_NNS is_VBZ identified_VBN by_IN scanning_VBG the_DT transactions_NNS of_IN the_DT slid_VBN window_NN ._.
+A_DT more_RBR flexible_JJ way_NN of_IN information_NN differentiation_NN is_VBZ presented_VBN in_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: where_WRB correlations_NNS among_IN co-evolving_JJ time_NN sequences_NNS are_VBP analyzed_VBN ._.
+The_DT missing_VBG values_NNS of_IN the_DT sequences_NNS are_VBP estimated_VBN and_CC their_PRP$ future_JJ values_NNS are_VBP predicted_VBN ._.
+In_IN order_NN to_TO identify_VB the_DT recent_JJ change_NN of_IN co_NN

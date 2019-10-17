@@ -1,0 +1,5 @@
+∑_NN K_NN k_NN =_JJ 1_CD ∑_CD i_FW ∈_FW Pk_NN -LRB-_-LRB- wi_NN j_NN −_CD xil_NN -RRB-_-RRB- 2_CD for_IN l_NN =_JJ 1_CD ,_, ·_FW ·_FW ·_NN ,_, C_NN ,_, l_NN =_JJ c_NN 0_CD Otherwise_RB -LRB-_-LRB- 7_CD -RRB-_-RRB- 3_CD ._.
+Given_VBN A_NN and_CC B_NN ,_, X_NN can_MD be_VB computed_VBN using_VBG Equation_NN 5_CD ._.
+This_DT is_VBZ a_DT natural_JJ extensions_NNS of_IN the_DT K-means_NNS type_NN algorithm_NN for_IN two-side_NN case_NN =_JJ -_: =[_NN 3_CD ,_, 6_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT clustering_NN procedure_NN is_VBZ shown_VBN in_IN Algorithm_NN 1_CD ._.
+Algorithm_NN 1_CD General_NNP Clustering_NNP Procedure_NNP Research_NNP Track_NNP Paper_NNP Input_NNP :_: -LRB-_-LRB- Wn_FW ×_FW m_NN ,_, K_NN and_CC C_NN -RRB-_-RRB- Output_NN :_: A_NN :_: cluster_NN assignment_NN ;_: B_NN :_: feature_NN assignment_NN ;_: begin_VB 1_CD I_NN

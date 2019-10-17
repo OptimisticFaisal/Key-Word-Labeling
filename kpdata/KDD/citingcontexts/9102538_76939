@@ -1,0 +1,6 @@
+inactive_JJ variables_NNS per_IN example_NN is_VBZ quite_RB small_JJ †_NN -LRB-_-LRB- even_RB when_WRB the_DT number_NN of_IN classes_NNS is_VBZ large_JJ -RRB-_-RRB- and_CC so_RB we_PRP use_VBP this_DT method_NN in_IN our_PRP$ implementation_NN ._.
+2.1_CD Heuristics_NNS for_IN improving_VBG efficiency_NN Crammer_NNP and_CC Singer_NNP =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: employed_VBN two_CD heuristics_NNS to_TO speed_VB up_RP their_PRP$ algorithm_NN ._.
+We_PRP employ_VBP these_DT heuristics_NNS for_IN SDM_NNP too_RB ._.
+We_PRP now_RB discuss_VBP these_DT heuristics_NNS ._.
+Shrinking_VBG ._.
+Shrinking_VBG -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, a_DT technique_NN for_IN removing_VBG variables_NNS that_WDT are_VBP no_DT

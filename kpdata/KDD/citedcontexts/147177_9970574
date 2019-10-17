@@ -1,0 +1,4 @@
+lity_NN clustering_NN solutions_NNS ._.
+In_IN domains_NNS where_WRB more_JJR than_IN one_CD similarity_NN metric_NN is_VBZ appropriate_JJ ,_, several_JJ approaches_NNS have_VBP been_VBN proposed_VBN for_IN combining_VBG multiple_JJ similarities_NNS using_VBG machine_NN learning_NN techniques_NNS =_JJ -_: =[_NN 8_CD ,_, 10_CD ,_, 12_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Other_JJ metric_JJ learning_NN approaches_NNS use_VBP optimization_NN techniques_NNS to_TO learn_VB a_DT similarity_NN metric_NN from_IN labeled_JJ examples_NNS directly_RB -LRB-_-LRB- 37_CD ,_, 14_CD -RRB-_-RRB- ._.
+In_IN our_PRP$ work_NN ,_, we_PRP define_VBP similarities_NNS tailored_VBN to_TO the_DT social_JJ media_NNS do_VBP

@@ -1,0 +1,4 @@
+,_, must_MD make_VB passes_NNS over_IN the_DT entire_JJ dataset_NN to_TO answer_VB any_DT query_NN ;_: this_DT can_MD be_VB prohibitively_RB expensive_JJ in_IN online_NN settings_NNS ._.
+Others_NNS perform_VBP clever_JJ preprocessing_NN so_IN that_IN queries_NNS can_MD be_VB answered_VBN efficiently_RB =_JJ -_: =[_NN 9_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB these_DT algorithms_NNS store_NN information_NN which_WDT can_MD be_VB used_VBN for_IN computing_VBG a_DT specific_JJ similarity_NN measure_NN -LRB-_-LRB- e.g._FW ,_, personalized_JJ pagerank_NN for_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+This_DT paper_NN introduces_VBZ analysis_NN and_CC algorithms_NNS which_WDT tr_VBP

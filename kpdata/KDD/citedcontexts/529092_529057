@@ -1,0 +1,5 @@
+kes_NNS more_RBR difficult_JJ any_DT assessment_NN on_IN the_DT quality_NN of_IN the_DT returned_VBN result_NN ._.
+Finally_RB ,_, the_DT LSH_NN scheme_NN -LRB-_-LRB- 71_CD -RRB-_-RRB- might_MD ,_, in_IN certain_JJ cases_NNS ,_, return_NN less_JJR than_IN k_NN vectors_NNS in_IN the_DT result_NN ._.
+Probabilistic_JJ Approaches_NNS ._.
+DBIN_NN =_SYM -_: =[_NN 44_CD -RRB-_-RRB- -_: =_JJ -_: clusters_NNS data_NNS using_VBG the_DT EM_NN -LRB-_-LRB- Expectation_NN Maximization_NN -RRB-_-RRB- algorithm_NN ._.
+It_PRP aborts_VBZ the_DT search_NN when_WRB the_DT estimated_VBN probability_NN for_IN a_DT remaining_VBG database_NN vector_NN to_TO be_VB a_DT better_JJR neighbor_NN than_IN the_DT one_NN currently_RB kno_VBP

@@ -1,0 +1,4 @@
+ing_RB ,_, but_CC it_PRP does_VBZ not_RB venture_VB intosearching_VBG among_IN all_DT possible_JJ combinations_NNS of_IN parameter_NN settings_NNS exhaustively_RB on_IN all_DT training_NN data_NNS available_JJ ._.
+Rather_RB ,_, it_PRP borrows_VBZ a_DT heuristic_NN from_IN progressive_JJ sampling_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT goal_NN of_IN progressive_JJ sampling_NN is_VBZ to_TO iteratively_RB seek_VB a_DT data_NN set_NN size_NN at_IN which_WDT generalization_NN performance_NN on_IN test_NN material_NN converges_VBZ ._.
+The_DT method_NN is_VBZ to_TO start_VB at_IN a_DT small_JJ sample_NN size_NN training_NN set_NN ,_, an_DT

@@ -1,0 +1,4 @@
+ctions_NNS are_VBP only_RB considered_VBN if_IN all_PDT the_DT first_JJ order_NN interactions_NNS that_IN they_PRP contain_VBP are_VBP included_VBN ,_, and_CC so_RB forth_RB ._.
+The_DT algorithm_NN here_RB bears_VBZ strong_JJ resemblance_NN to_TO the_DT Apriori_NNP algorithm_NN for_IN association_NN rules_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Both_DT of_IN these_DT rely_VBP on_IN a_DT monotonicity_NN property_NN to_TO dramatically_RB reduce_VB the_DT search_NN space_NN as_IN we_PRP increase_VBP the_DT complexity_NN of_IN interactions_NNS -LRB-_-LRB- or_CC item-sets_NNS -RRB-_-RRB- that_IN we_PRP are_VBP considering_VBG ._.
+Suppose_VB we_PRP have_VBP a_DT threshol_NN

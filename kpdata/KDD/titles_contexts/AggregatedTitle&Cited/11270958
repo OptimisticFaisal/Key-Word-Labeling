@@ -1,0 +1,9 @@
+Exploiting_VBG Wikipedia_NNP as_IN external_JJ knowledge_NN for_IN document_NN clustering_NN
+e_LS top_JJ n_NN categories_NNS are_VBP used_VBN to_TO describe_VB the_DT document_NN content_NN ._.
+Interestingly_RB in_IN general_JJ scenarios_NNS Wikipedia_NNP categories_NNS seem_VBP more_RBR useful_JJ to_TO describe_VB documents_NNS than_IN the_DT respective_JJ full_JJ text_NN ._.
+Finally_RB ,_, in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: a_DT clustering_NN method_NN is_VBZ introduced_VBN that_WDT uses_VBZ Wikipedia_NNP concept_NN and_CC category_NN information_NN for_IN document_NN clustering_NN ._.
+Beside_IN an_DT exact_JJ match_NN strategy_NN ,_, also_RB a_DT relatednessmatch_NN is_VBZ presented_VBN avoiding_VBG the_DT synon_NN
+terms_NNS as_IN vectors_NNS in_IN a_DT space_NN of_IN concepts_NNS represented_VBN by_IN articles_NNS from_IN Wikipedia_NNP ._.
+Wikipedia-based_JJ representation_NN models_NNS have_VBP recently_RB been_VBN used_VBN to_TO enhance_VB the_DT performance_NN of_IN different_JJ text-mining_JJ tasks_NNS =_JJ -_: =[_NN 19,36_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2.3_CD Representation_NN models_NNS for_IN document_NN clustering_NN k_NN =_JJ 1\/2_CD d_NN U_NN T_NN d_NN Most_NNP of_IN document_NN clustering_NN techniques_NNS use_VBP the_DT VSM_NN for_IN document_NN representation_NN ._.
+The_DT clustering_NN algorithm_NN is_VBZ either_RB applied_VBN directl_NN

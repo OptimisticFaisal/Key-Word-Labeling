@@ -1,0 +1,4 @@
+allows_VBZ automatic_JJ tool_NN support_NN and_CC --_: as_IN a_DT result_NN --_: automata-based_JJ models_NNS are_VBP more_RBR and_CC more_RBR used_VBN to_TO formally_RB describe_VB ,_, compose_VB ,_, and_CC verify_VB service_NN -LRB-_-LRB- compositions_NNS -RRB-_-RRB- ._.
+Below_NNP follow_VB some_DT exemplary_JJ approaches_NNS ._.
+In_IN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: the_DT authors_NNS introduce_VBP a_DT framework_NN to_TO analyze_VB and_CC verify_VB properties_NNS of_IN service_NN compositions_NNS of_IN BPEL_NN processes_NNS communicating_VBG via_IN asynchronous_JJ XML_NN messages_NNS ._.
+This_DT framework_NN first_RB translates_VBZ the_DT BPEL_NN proc_NN

@@ -1,0 +1,4 @@
+number_NN of_IN records_NNS by_IN R_NN ,_, the_DT number_NN of_IN dimensions_NNS by_IN M_NN and_CC the_DT number_NN of_IN centers_NNS by_IN k._NN We_PRP rst_VBP describe_VBP the_DT naive_JJ k-means_NN algorithm_NN for_IN producing_VBG a_DT clustering_NN of_IN the_DT points_NNS in_IN the_DT input_NN into_IN k_NN clusters_NNS =_JJ -_: =[_NN 5_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP partitions_VBZ the_DT data-points_NNS into_IN k_NN subsets_NNS such_JJ that_IN all_DT points_NNS in_IN a_DT given_VBN subset_NN \_NN belong_VBP ''_'' to_TO some_DT center_NN ._.
+The_DT algorithm_NN keeps_VBZ track_NN of_IN the_DT centroids_NNS of_IN the_DT subsets_NNS ,_, and_CC proceeds_NNS in_IN iterations_NNS ._.
+We_PRP

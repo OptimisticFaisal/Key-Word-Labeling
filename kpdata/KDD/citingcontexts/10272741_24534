@@ -1,0 +1,4 @@
+events_NNS pose_VBP a_DT problem_NN if_IN we_PRP attempt_VBP to_TO detect_VB events_NNS directly_RB from_IN the_DT vector-based_JJ graph_NN ._.
+Consequently_RB ,_, we_PRP transform_VBP the_DT vector-based_JJ graph_NN into_IN its_PRP$ dual_JJ graph_NN ,_, which_WDT is_VBZ well-defined_JJ in_IN graph_NN theory_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP shall_MD elaborate_VB on_IN the_DT transformation_NN in_IN Section_NN 3_CD ._.
+The_DT basic_JJ idea_NN is_VBZ that_IN the_DT edges_NNS in_IN the_DT vector-based_JJ graph_NN are_VBP transformed_VBN into_IN vertices_NNS and_CC the_DT vertices_NNS in_IN the_DT vector-based_JJ graph_NN are_VBP transfo_NN

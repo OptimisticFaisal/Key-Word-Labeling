@@ -1,0 +1,5 @@
+a_DT combination_NN of_IN two_CD streams_NNS ._.
+The_DT second_JJ study_NN estimates_VBZ the_DT rarity_NN of_IN data_NNS items_NNS ,_, and_CC the_DT similarity_NN of_IN two_CD data_NNS streams_NNS ._.
+A_DT related_JJ problem_NN ,_, is_VBZ the_DT one_CD of_IN identifying_VBG correlations_NNS in_IN streaming_NN data_NN =_JJ -_: =_JJ -LRB-_-LRB- GGK03_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT work_NN proposes_VBZ techniques_NNS based_VBN on_IN singular_JJ value_NN decomposition_NN for_IN capturing_VBG correlations_NNS between_IN multiple_JJ streams_NNS ._.
+Finally_RB ,_, Palpanas_FW et_FW al._FW -LRB-_-LRB- PVK_NN cents_NNS 04_CD -RRB-_-RRB- describe_VBP algorithms_NNS for_IN online_NN approximati_NNS

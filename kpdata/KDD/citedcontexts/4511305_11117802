@@ -1,0 +1,4 @@
+ost_NN user_NN sessions_NNS start_VBP at_IN popular_JJ pages_NNS ,_, the_DT branches_NNS having_VBG a_DT non-popular_JJ page_NN as_IN their_PRP$ root_NN are_VBP pruned_VBN ._.
+The_DT hit_NN ratio_NN is_VBZ used_VBN to_TO measure_VB the_DT number_NN of_IN times_NNS the_DT requested_VBN page_NN is_VBZ in_IN the_DT cache_NN ._.
+In_IN -LRB-_-LRB- =_JJ -_: =_JJ Gündüz_NNP and_CC Özsu_NNP ,_, 2003_CD -_: =--RRB-_CD a_DT tree_NN based_VBN model_NN for_IN web_NN page_NN prediction_NN is_VBZ given_VBN that_WDT uses_VBZ both_DT the_DT sequence_NN of_IN visiting_VBG pages_NNS and_CC the_DT time_NN spent_VBN on_IN pages_NNS ._.
+A_DT set_NN of_IN three_CD pages_NNS is_VBZ recommended_VBN and_CC a_DT hit_NN is_VBZ declared_VBN if_IN the_DT reques_NNS

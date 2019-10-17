@@ -1,0 +1,4 @@
+een_VB successfully_RB applied_VBN to_TO many_JJ high-impact_JJ applications_NNS -LRB-_-LRB- 30_CD ,_, 11_CD -RRB-_-RRB- ._.
+Many_JJ other_JJ ranking_JJ methods_NNS on_IN graphs_NNS are_VBP built_VBN upon_IN ,_, and\/or_CC share_VBP the_DT similar_JJ ideas_NNS as_IN personalized_JJ PageRank_NNP ,_, such_JJ as_IN RalationalRank_NN =_JJ -_: =[_NN 9_CD ,_, 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, random_JJ walk_NN with_IN restart_VB -LRB-_-LRB- 37_CD -RRB-_-RRB- ,_, SimRank_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, etc._NN ._.
+Because_IN of_IN its_PRP$ generality_NN and_CC wide_JJ applicability_NN ,_, we_PRP choose_VBP Personalized_NNP PageRank_NNP as_IN the_DT starting_VBG point_NN of_IN our_PRP$ method_NN ._.
+Other_JJ ranking_JJ methods_NNS on_IN grap_NN

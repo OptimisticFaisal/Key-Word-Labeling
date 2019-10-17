@@ -1,0 +1,4 @@
+el_RB ,_, called_VBD the_DT ``_`` Markov_NNP diffusion_NN kernel_NN ''_'' has_VBZ been_VBN derived_VBN from_IN this_DT diffusion_NN distance_NN in_IN -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+An_DT application_NN of_IN the_DT diffusion_NN distance_NN to_TO dimensionality_NN reduction_NN and_CC graph_NN visualization_NN appears_VBZ in_IN =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT natural_JJ embedding_NN induced_VBN by_IN the_DT diffusion_NN distance_NN is_VBZ called_VBN the_DT ``_`` diffusion_NN map_NN ''_'' by_IN Nadler_NNP et_FW al._FW -LRB-_-LRB- 39_CD ,_, 40_CD -RRB-_-RRB- ._.
+Moreover_RB ,_, in_IN -LRB-_-LRB- 46_CD -RRB-_-RRB- ,_, Pons_NNP &_CC Latapy_NNP defined_VBD a_DT hierarchical_JJ clustering_NN approach_NN for_IN clust_NN

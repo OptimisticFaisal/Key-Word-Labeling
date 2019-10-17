@@ -1,0 +1,4 @@
+work_NN has_VBZ been_VBN published_VBN on_IN either_DT problem_NN ._.
+There_EX exist_VBP several_JJ dozen_NN articles_NNS in_IN which_WDT techniques_NNS for_IN cost-sensitive_JJ learning_NN are_VBP suggested_VBN -LRB-_-LRB- Turney_NNP ,_, 1996_CD -RRB-_-RRB- ,_, but_CC few_JJ studies_NNS evaluate_VBP and_CC compare_VBP them_PRP -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP ,_, 1999_CD -_: =_JJ -_: ;_: Pazzani_NNP ,_, Merz_NNP ,_, Murphy_NNP ,_, Ali_NNP ,_, Hume_NNP ,_, &_CC Brunk_NNP ,_, 1994_CD ;_: Provost_NNP ,_, Fawcett_NNP ,_, &_CC Kohavi_NNP ,_, 1998_CD -RRB-_-RRB- ._.
+The_DT literature_NN provides_VBZ even_RB less_JJR guidance_NN in_IN situations_NNS where_WRB distributions_NNS are_VBP imprecise_JJ or_CC can_MD change_VB ._.
+Given_VBN an_DT

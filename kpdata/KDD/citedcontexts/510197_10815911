@@ -1,0 +1,3 @@
+covariance_NN matrix_NN ._.
+Other_JJ solutions_NNS to_TO produce_VB nonlinear_JJ separating_VBG hyper-surfaces_NNS between_IN clusters_NNS involve_VBP kernel_NN density_NN estimation_NN ,_, non-parametric_JJ regression_NN ,_, and_CC spectral_JJ methods_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+For_IN example_NN ,_, =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT clustering_NN method_NN for_IN univariate_JJ data_NNS based_VBN on_IN probability_NN estimates_NNS from_IN a_DT mixture_NN of_IN non-parametric_JJ regression_NN models_NNS and_CC -LRB-_-LRB- 11_CD -RRB-_-RRB- presents_VBZ a_DT small_JJ simulation_NN study_NN with_IN clustering_NN using_VBG non_JJ

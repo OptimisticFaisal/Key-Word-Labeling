@@ -1,0 +1,4 @@
+ied_VBD versions_NNS of_IN the_DT co-training_JJ algorithm_NN have_VBP been_VBN proposed_VBN since_IN the_DT original_JJ one_CD ._.
+In_IN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, Goldman_NNP and_CC Zhou_NNP use_VBP two_CD different_JJ supervised_JJ learning_NN algorithms_NNS to_TO label_VB data_NNS for_IN each_DT other_JJ ._.
+Raskuttii_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: presents_VBZ a_DT new_JJ co-training_NN strategy_NN which_WDT uses_VBZ two_CD feature_NN sets_NNS ._.
+One_CD classifier_NN is_VBZ trained_VBN using_VBG data_NNS from_IN original_JJ feature_NN space_NN ,_, while_IN the_DT other_JJ is_VBZ trained_VBN with_IN new_JJ features_NNS that_WDT are_VBP derived_VBN by_IN clu_NN

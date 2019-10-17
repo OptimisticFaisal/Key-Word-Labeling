@@ -1,0 +1,5 @@
+values_NNS of_IN itself_PRP and_CC all_DT neighboring_VBG objects_NNS up_IN to_TO two_CD links_NNS away_RB using_VBG the_DT learned_VBN R2_NN model_NN ._.
+We_PRP measured_VBD bias_NN and_CC variance_NN for_IN each_DT model_NN using_VBG the_DT decomposition_NN defined_VBN for_IN squared-loss_NN by_IN Domingos_NNP =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Loss_NN is_VBZ decomposed_VBN into_IN three_CD factors_NNS :_: bias_NN ,_, variance_NN and_CC noise_NN ._.
+Although_IN calculation_NN of_IN variance_NN is_VBZ straightforward_JJ for_IN relational_JJ data_NNS ,_, calculation_NN of_IN bias_NN is_VBZ not_RB ._.
+Fortunately_RB for_IN the_DT synthetic_JJ da_NN

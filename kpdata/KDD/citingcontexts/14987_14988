@@ -1,0 +1,4 @@
+g_NN ,_, the_DT constant_NN that_WDT minimizes_VBZ the_DT 0-1_CD loss_NN function_NN is_VBZ the_DT mode_NN of_IN the_DT target_NN attribute_NN of_IN the_DT examples_NNS that_WDT fall_VBP at_IN this_DT leaf_NN ._.
+Several_JJ authors_NNS have_VBP studied_VBN the_DT use_NN of_IN other_JJ functions_NNS at_IN tree_NN leaves_VBZ =_JJ -_: =[_NN 9_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD of_IN the_DT earliest_JJS works_NNS is_VBZ the_DT Perceptron_NNP tree_NN algorithm_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- where_WRB leaf_NN nodes_NNS may_MD implement_VB a_DT general_JJ linear_JJ discriminant_JJ function_NN ._.
+Also_RB Kohavi_NNP -LRB-_-LRB- 9_CD -RRB-_-RRB- has_VBZ presented_VBN the_DT naive_JJ Bayes_NNP tree_NN that_IN uses_NNS fu_VBP

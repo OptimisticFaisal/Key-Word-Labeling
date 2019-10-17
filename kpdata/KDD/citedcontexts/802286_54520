@@ -1,0 +1,4 @@
+-RRB-_-RRB- -LRB-_-LRB- often_RB the_DT method_NN of_IN choice_NN in_IN commercial_JJ relational_JJ database_NN systems_NNS -RRB-_-RRB- ._.
+The_DT independence_NN model_NN is_VBZ easy_JJ to_TO learn_VB ,_, has_VBZ low_JJ time_NN and_CC space_NN requirements_NNS but_CC as_IN we_PRP shall_MD see_VB below_IN is_VBZ fairly_RB inaccurate_JJ ._.
+-LRB-_-LRB- =_JJ -_: =_JJ Mannila_FW et_FW al._FW ,_, 1999_CD -_: =-]_NN introduced_VBD the_DT idea_NN of_IN using_VBG an_DT MRF_NN model_NN based_VBN on_IN frequent_JJ itemsets_NNS and_CC a_DT maximum_NN entropy_NN -LRB-_-LRB- maxent_NN -RRB-_-RRB- approach_NN for_IN query_NN approximation_NN ._.
+The_DT motivation_NN comes_VBZ from_IN the_DT fact_NN that_IN there_EX exist_VBP many_JJ efficie_NN

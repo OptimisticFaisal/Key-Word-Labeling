@@ -1,0 +1,4 @@
+assume_VB that_IN no_DT adversary_NN is_VBZ present_JJ -LRB-_-LRB- i.e._FW ,_, A_NN -LRB-_-LRB- x_NN -RRB-_-RRB- =_JJ x_NN for_IN all_DT x_NN -RRB-_-RRB- ._.
+We_PRP remove_VBP this_DT restriction_NN in_IN the_DT next_JJ sections_NNS ._.
+Cost-sensitive_JJ learning_NN has_VBZ been_VBN the_DT object_NN of_IN substantial_JJ study_NN in_IN the_DT KDD_NNP literature_NN =_JJ -_: =[_NN 1_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Given_VBN a_DT classification_NN utility_NN matrix_NN UC_NN -LRB-_-LRB- yC_NN ,_, y_NN -RRB-_-RRB- ,_, the_DT Bayes_NNP optimal_JJ prediction_NN for_IN an_DT instance_NN x_NN is_VBZ the_DT class_NN yC_NN that_WDT maximizes_VBZ the_DT conditional_JJ utility_NN U_NN -LRB-_-LRB- yC_NN |_CD x_NN -RRB-_-RRB- :_: i_LS =_JJ 1_CD U_NN -LRB-_-LRB- yC_NN |_CD x_NN -RRB-_-RRB- =_JJ ∑_NN P_NN -LRB-_-LRB- y_NN |_CD x_NN -RRB-_-RRB- UC_NN -LRB-_-LRB- yC_NN ,_, y_NN -RRB-_-RRB- -LRB-_-LRB- 4_LS -RRB-_-RRB- y_NN

@@ -1,0 +1,4 @@
+iety_NN of_IN data_NNS including_VBG video_NN surveillance_NN ,_, gene_NN expression_NN ,_, and_CC atmospheric_JJ data_NNS ._.
+In_IN several_JJ related_JJ publications_NNS ,_, Gaffney_NNP and_CC Smyth_NNP propose_VBP a_DT probabilistic_JJ generative_JJ framework_NN for_IN clustering_NN curves_NNS =_JJ -_: =[_NN 9_CD ,_, 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+At_IN the_DT core_NN of_IN this_DT framework_NN lies_VBZ a_DT mixture_NN of_IN regressions_NNS model_NN based_VBN on_IN expectation_NN maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- density_NN estimation_NN ._.
+The_DT authors_NNS apply_VBP their_PRP$ method_NN to_TO motion_NN trajectories_NNS -LRB-_-LRB- should_MD not_RB be_VB conf_VBN

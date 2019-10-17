@@ -1,0 +1,4 @@
+grammars_NNS that_WDT are_VBP frequent_JJ in_IN a_DT database_NN of_IN strings_NNS ._.
+An_DT outline_NN of_IN this_DT algorithm_NN is_VBZ given_VBN in_IN Algorithm_NN 1_CD ._.
+The_DT setup_NN of_IN this_DT algorithm_NN is_VBZ similar_JJ to_TO that_DT of_IN other_JJ frequent_JJ structure_NN mining_NN algorithms_NNS =_JJ -_: =[_NN 22_CD ,_, 23_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT algorithm_NN we_PRP distinguish_VBP two_CD types_NNS of_IN refinements_NNS ,_, as_IN directed_VBN by_IN the_DT user-defined_JJ bias_NN :_: •_CD restrictions_NNS -LRB-_-LRB- usually_RB deletions_NNS and_CC selections_NNS -RRB-_-RRB- ,_, which_WDT specialize_VBP a_DT language_NN ;_: •_CD extensions_NNS -LRB-_-LRB- usually_RB

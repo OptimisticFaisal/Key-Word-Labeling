@@ -1,0 +1,7 @@
+arent_JJ categories_NNS ∩_FW l2_FW ._.
+parent_NN categories_NNS ̸_NN =_JJ ∅_CD and_CC 0_CD otherwise_RB ._.
+6_CD ._.
+Text_NN similarity_NN The_DT name_NN ,_, titles_NNS and_CC description_NN fields_NNS of_IN a_DT given_VBN lecture_NN have_VBP textual_JJ content_NN ._.
+We_PRP represent_VBP these_DT fields_NNS using_VBG TFIDF_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: vectors_NNS and_CC use_VB the_DT cosine_NN similarity_NN of_IN the_DT corresponding_JJ fields_NNS of_IN two_CD lectures_VBZ to_TO compute_VB these_DT features_NNS ._.
+7_CD ._.
+Topic_NN similarity_NN We_PRP use_VBP Latent_JJ Dirichlet_NNP Allocation_NNP -LRB-_-LRB- LDA_NNP -RRB-_-RRB- -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, a_DT popular_JJ tool_NN used_VBN for_IN

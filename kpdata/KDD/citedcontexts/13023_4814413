@@ -1,0 +1,5 @@
+for_IN all_DT clients_NNS by_IN aggregating_VBG the_DT counts_NNS ._.
+There_EX are_VBP other_JJ efficient_JJ data-mining_JJ algorithms_NNS to_TO find_VB patterns_NNS with_IN inexact_JJ matches_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC to_TO find_VB infrequent_JJ patterns_NNS without_IN specifying_VBG desired_VBN length_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP plan_VBP to_TO explore_VB these_DT algorithms_NNS in_IN the_DT future_JJ work_NN ._.
+A_DT periodic_JJ pattern_NN is_VBZ the_DT pattern_NN that_WDT appears_VBZ in_IN a_DT time_NN sequence_NN with_IN the_DT interval_JJ p_NN ,_, called_VBN period_NN ._.
+This_DT requirement_NN is_VBZ generally_RB too_RB strong_JJ

@@ -1,0 +1,4 @@
+sually_RB an_DT expensive_JJ step_NN ,_, especially_RB in_IN Markov_NNP random_JJ fields_NNS ._.
+In_IN MRFs_NNS ,_, finding_VBG the_DT optimal_JJ parameters_NNS requires_VBZ an_DT iterative_JJ procedure_NN ,_, such_JJ as_IN the_DT quasi-Newton_NN -LRB-_-LRB- 13_CD ,_, 21_CD -RRB-_-RRB- or_CC stochastic_JJ gradient_NN descent_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: method_NN ,_, in_IN which_WDT each_DT iteration_NN needs_VBZ to_TO compute_VB the_DT gradients_NNS ._.
+Computing_NNP gradients_NNS in_IN MRFs_NNS is_VBZ computationally_RB expensive_JJ even_RB for_IN the_DT models_NNS whose_WP$ tree-width_NN is_VBZ small_JJ ._.
+Moreover_RB ,_, our_PRP$ empirical_JJ results_NNS

@@ -1,0 +1,4 @@
+umber_NN of_IN features_NNS was_VBD controlled_VBN to_TO be_VB relatively_RB small_JJ ._.
+4.2_CD Chinese_NNP Text_NNP Topic_NNP Classification_NN We_PRP did_VBD the_DT Chinese_JJ text_NN topic_NN classification_NN experiment_NN on_IN the_DT TREC-5_NN People_NNPS 's_POS Daily_NNP News_NNP dataset_NN ,_, as_IN in_IN =_JJ -_: =[_NN 22_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT dataset_NN is_VBZ a_DT subset_NN of_IN the_DT Mandarin_NNP News_NNP Corpus_NNP announced_VBD by_IN the_DT Linguistic_NNP Data_NNP Consortium_NNP -LRB-_-LRB- LDC_NNP -RRB-_-RRB- in_IN 1995_CD ._.
+There_EX are_VBP six_CD topic_NN categories_NNS :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- Politics_NNPS ,_, Law_NNP and_CC Society_NNP ;_: -LRB-_-LRB- 2_LS -RRB-_-RRB- Literature_NNP and_CC Arts_NNP

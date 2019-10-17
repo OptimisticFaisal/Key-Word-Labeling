@@ -1,0 +1,4 @@
+ns_NN is_VBZ part_NN of_IN application_NN logic_NN ._.
+Without_IN more_RBR precise_JJ taint_NN analysis_NN ,_, such_JJ as_IN what_WP we_PRP do_VBP in_IN this_DT paper_NN ,_, it_PRP is_VBZ n't_RB possible_JJ to_TO distinguish_VB between_IN real_JJ vulnerabilities_NNS and_CC benign_JJ dependencies_NNS ._.
+WebSSARI_NN =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ a_DT type_NN inference_NN based_VBN information_NN flow_NN analysis_NN to_TO find_VB out_RP potentially_RB dangerous_JJ flows_NNS in_IN PHP_NNP applications_NNS ._.
+When_WRB it_PRP finds_VBZ such_JJ a_DT flow_NN ,_, it_PRP inserts_NNS checking_VBG functions_NNS that_WDT perform_VBP comprehensive_JJ

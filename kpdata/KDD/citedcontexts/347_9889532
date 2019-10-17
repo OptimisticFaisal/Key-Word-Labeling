@@ -1,0 +1,4 @@
+scovered_VBN which_WDT often_RB become_VBP overwhelming_JJ and_CC difficult_JJ to_TO comprehend_VB ._.
+Through_IN the_DT use_NN of_IN frequent_JJ closed_JJ itemsets_NNS the_DT issue_NN of_IN redundancy_NN can_MD be_VB dealt_VBN with_IN by_IN deriving_VBG non-redundant_JJ association_NN rules_NNS =_JJ -_: =[_NN 14,18,19,20,22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, this_DT work_NN has_VBZ only_RB dealt_VBN with_IN redundancy_NN in_IN single_JJ level_NN datasets_NNS ._.
+Multi-level_JJ datasets_NNS -LRB-_-LRB- where_WRB the_DT items_NNS are_VBP not_RB all_DT at_IN the_DT same_JJ concept_NN level_NN -RRB-_-RRB- contain_VBP information_NN at_IN different_JJ levels_NNS and_CC t_NN

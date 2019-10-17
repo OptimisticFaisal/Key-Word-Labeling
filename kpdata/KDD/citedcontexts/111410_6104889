@@ -1,0 +1,4 @@
+31_CD ,_, 2007_CD ,_, Winnipeg_NNP ,_, Manitoba_NNP ,_, Canada_NNP ._.
+Copyright_NN 2007_CD ACM_NNP 978-1-59593-776-6_CD \/_: 07\/0008_CD ..._: $_$ 5.00_CD ._.
+tags_NNS :_: a_DT small_JJ set_NN of_IN them_PRP ,_, such_JJ as_IN <P>_NN ,_, <TABLE>_NN ,_, <LI>_NN \/_: <UL>_NN and_CC <H1>_FW ~_FW <H6>_NN ,_, serving_VBG as_IN the_DT segment_NN indicators_NNS =_JJ -_: =[_NN 1,3,4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, as_IN shown_VBN in_IN our_PRP$ previous_JJ work_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, due_JJ to_TO the_DT flexibility_NN of_IN the_DT HTML_NNP syntax_NN ,_, conceptually_RB and_CC visually_RB similar_JJ pages_NNS can_MD be_VB implemented_VBN by_IN completely_RB different_JJ HTML_NNP codes_NNS ,_, and_CC therefore_RB th_DT

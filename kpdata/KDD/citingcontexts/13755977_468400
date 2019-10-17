@@ -1,0 +1,4 @@
+ompute_VB the_DT ranking_JJ score_NN of_IN each_DT object_NN ,_, using_VBG different_JJ propagation_NN methods_NNS corresponding_VBG to_TO different_JJ ranking_JJ rules_NNS ._.
+These_DT methods_NNS mainly_RB work_VBP on_IN homogeneous_JJ information_NN networks_NNS ._.
+Recently_RB ,_, PopRank_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: was_VBD proposed_VBN to_TO rank_VB the_DT popularity_NN of_IN heterogeneous_JJ web_NN objects_NNS via_IN knowledge_NN propagation_NN throughout_IN the_DT heterogeneous_JJ network_NN of_IN web_NN objects_NNS ._.
+This_DT approach_NN considers_VBZ that_IN different_JJ types_NNS of_IN links_NNS i_FW

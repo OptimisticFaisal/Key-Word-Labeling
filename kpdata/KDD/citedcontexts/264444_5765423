@@ -1,0 +1,4 @@
+the_DT privacy_NN of_IN customers_NNS ._.
+In_IN traditional_JJ -LRB-_-LRB- relational_JJ -RRB-_-RRB- databases_NNS ,_, numerous_JJ techniques_NNS have_VBP been_VBN developed_VBN to_TO protect_VB privacy_NN ,_, such_JJ as_IN perturbation-based_JJ methods_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC k-anonymity_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Perturbation_NN based_VBN methods_NNS for_IN privacy_NN preserving_NN perturb_VBP individual_JJ data_NNS values_NNS or_CC the_DT results_NNS of_IN queries_NNS by_IN swapping_VBG -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, condensation_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, or_CC adding_VBG noise_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+The_DT drawback_NN of_IN p_NN

@@ -1,0 +1,4 @@
+rity-based_JJ techniques_NNS can_MD be_VB further_JJ sub-categorized_JJ according_VBG to_TO the_DT document_NN representation_NN chosen_VBN ._.
+On_IN one_CD end_NN of_IN the_DT spectrum_NN ,_, the_DT standard_JJ information-retrieval_JJ bagof-words_NNS representation_NN is_VBZ used_VBN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =-[_NN 20_CD -RRB-_-RRB- -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+Alternatively_RB ,_, document_NN decomposition_NN into_IN units_NNS larger_JJR than_IN words_NNS leads_VBZ to_TO partial_JJ retention_NN of_IN positional_JJ information_NN ._.
+In_IN particular_JJ ,_, shingle-oriented_JJ techniques_NNS such_JJ as_IN COPS_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, KOALA_NN -LRB-_-LRB- 1_CD

@@ -1,0 +1,4 @@
+uppose_NN that_IN we_PRP are_VBP to_TO cluster_VB nodes_NNS in_IN V1_NN -LRB-_-LRB- only_RB two_CD nodes_NNS in_IN V1_NN are_VBP shown_VBN in_IN Figure_NNP 3_CD -LRB-_-LRB- a_DT -RRB-_-RRB- -RRB-_-RRB- ._.
+Traditional_JJ clustering_NN approaches_NNS determine_VBP the_DT similarity_NN between_IN v11_NN and_CC v12_NN based_VBN on_IN their_PRP$ link_NN features_NNS ,_, =_JJ -_: =[_NN 1_CD ,_, 0_CD ,_, 1_CD ,_, 0_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 0_CD ,_, 1_CD ,_, 0_CD ,_, 1_CD -RRB-_-RRB- ,_, respectively_RB ,_, and_CC hence_RB ,_, their_PRP$ similarity_NN is_VBZ inappropriately_RB considered_VBN as_IN zero_NN -LRB-_-LRB- lowest_JJS level_NN -RRB-_-RRB- ._.
+This_DT is_VBZ a_DT typical_JJ situation_NN in_IN a_DT large_JJ graph_NN with_IN sparse_JJ links_NNS ._.
+Now_RB suppose_VBP that_IN we_PRP h_NN

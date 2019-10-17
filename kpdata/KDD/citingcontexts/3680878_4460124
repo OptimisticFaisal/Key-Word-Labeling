@@ -1,0 +1,4 @@
+mising_VBG approach_NN is_VBZ to_TO develop_VB computer_NN algorithms_NNS that_WDT detect_VBP when_WRB someone_NN is_VBZ inappropriately_RB intruding_VBG on_IN the_DT computer_NN of_IN another_DT person_NN ._.
+However_RB ,_, intrusion_NN detection_NN is_VBZ a_DT difficult_JJ problem_NN to_TO solve_VB =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+System_NN performance_NN can_MD not_RB be_VB adversely_RB affected_VBN ,_, false_JJ positives_NNS must_MD be_VB minimized_VBN ,_, and_CC intrusions_NNS must_MD be_VB caught_VBN -LRB-_-LRB- i.e._FW ,_, false_JJ negatives_NNS must_MD be_VB very_RB low_JJ -RRB-_-RRB- ._.
+The_DT current_JJ state_NN of_IN the_DT art_NN in_IN intrusion_NN -_:

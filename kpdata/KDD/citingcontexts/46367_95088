@@ -1,0 +1,4 @@
+he_PRP connection_NN records_NNS to_TO compute_VB the_DT frequent_JJ sequential_JJ patterns_NNS ,_, which_WDT are_VBP in_IN turn_NN analyzed_VBN to_TO construct_VB additional_JJ features_NNS for_IN the_DT connection_NN records_NNS ._.
+Classification_NN programs_NNS ,_, for_IN example_NN ,_, RIPPER_NN =_JJ -_: =_JJ -LRB-_-LRB- Coh95_NN -RRB-_-RRB- -_: =_JJ -_: ,_, are_VBP then_RB used_VBN to_TO inductively_RB learn_VB the_DT detection_NN models_NNS ._.
+This_DT process_NN is_VBZ of_IN course_NN iterative_JJ ._.
+For_IN example_NN ,_, poor_JJ performance_NN of_IN the_DT classification_NN models_NNS often_RB indicates_VBZ that_IN more_JJR pattern_NN mining_NN and_CC

@@ -1,0 +1,4 @@
+ndow_NNS need_VBP to_TO be_VB maintained_VBN in_IN order_NN to_TO remove_VB their_PRP$ effects_NNS on_IN the_DT current_JJ mining_NN result_NN when_WRB they_PRP are_VBP out_IN of_IN the_DT range_NN of_IN a_DT sliding_VBG window_NN ._.
+In_IN terms_NNS of_IN information_NN differentiation_NN ,_, the_DT SWF_NNP algorithm_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ a_DT sliding_VBG window_NN to_TO find_VB frequent_JJ itemsets_NNS in_IN the_DT fixed_JJ number_NN of_IN recent_JJ transactions_NNS ._.
+The_DT sliding_VBG window_NN is_VBZ composed_VBN of_IN a_DT sequence_NN of_IN partitions_NNS ._.
+Each_DT partition_NN maintains_VBZ a_DT number_NN of_IN transactio_NN

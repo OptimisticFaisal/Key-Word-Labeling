@@ -1,0 +1,3 @@
+roaches_NNS have_VBP been_VBN previously_RB used_VBN to_TO find_VB frequent_JJ subgraphs_NNS in_IN the_DT graphtransaction_NN setting_NN -LRB-_-LRB- 23_CD ,_, 30_CD ,_, 44_CD ,_, 7_CD -RRB-_-RRB- and_CC have_VBP their_PRP$ origins_NNS on_IN algorithms_NNS developed_VBN for_IN finding_VBG frequent_JJ itemsets_NNS and_CC sequences_NNS =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 16_CD ,_, 48_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT detailed_JJ description_NN of_IN HSIGRAM_NNP and_CC VSIGRAM_NNP is_VBZ provided_VBN in_IN the_DT rest_NN of_IN this_DT section_NN ._.
+4.1_CD Horizontal_JJ Algorithm_NN :_: HSIGRAM_NN The_DT general_JJ structure_NN of_IN HSIGRAM_NN is_VBZ shown_VBN in_IN Algorithm_NN 1_CD -LRB-_-LRB- the_DT notation_NN used_VBD i_LS

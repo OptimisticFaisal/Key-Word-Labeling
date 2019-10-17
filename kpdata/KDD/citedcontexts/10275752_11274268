@@ -1,0 +1,5 @@
+cturer_NN andProduct_NN Line_NN ._.
+to_TO a_DT web_NN page_NN ._.
+Again_RB ,_, some_DT of_IN the_DT graph-theoretic_JJ techniques_NNS used_VBN for_IN finding_VBG related_JJ queries_NNS can_MD be_VB employed_VBN here_RB as_RB well_RB -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+A_DT recent_JJ work_NN of_IN Gupta_NNP ,_, Bilenko_NNP ,_, and_CC Richardson_NNP =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: studied_VBD the_DT problem_NN of_IN associating_VBG keywords_NNS to_TO web_NN pages_NNS in_IN the_DT context_NN of_IN online_NN advertising_NN ._.
+They_PRP propose_VBP a_DT learner_NN that_WDT can_MD effectively_RB suggest_VB the_DT best_JJS query_NN terms_NNS that_WDT are_VBP most_RBS likely_RB related_JJ to_TO

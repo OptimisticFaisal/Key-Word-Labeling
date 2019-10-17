@@ -1,0 +1,4 @@
+data_NNS in_IN a_DT database-like_JJ manner_NN -LRB-_-LRB- for_IN example_NN ,_, using_VBG SQL_NN -RRB-_-RRB- ._.
+These_DT wrappers_NNS were_VBD generated_VBN semi-automatically_RB using_VBG a_DT machine_NN learning_NN approach_NN -LRB-_-LRB- 69_CD -RRB-_-RRB- ._.
+Ariadne_NNP also_RB constructed_VBD an_DT independent_JJ domain_NN model_NN =_JJ -_: =[_NN 70_CD -RRB-_-RRB- -_: =_SYM -_: for_IN each_DT application_NN ,_, that_WDT integrates_VBZ the_DT information_NN from_IN the_DT sources_NNS and_CC provides_VBZ a_DT single_JJ terminology_NN for_IN querying_VBG ._.
+This_DT model_NN was_VBD represented_VBN using_VBG the_DT LOOM_NNP knowledge_NN representation_NN system_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.

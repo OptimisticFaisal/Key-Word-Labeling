@@ -1,0 +1,4 @@
+assifiers_NNS ._.
+Recent_JJ graph-based_JJ semi-supervised_JJ learning_NN algorithms_NNS work_VBP by_IN formulating_VBG the_DT assumption_NN that_WDT ''_'' nearby_JJ ''_'' points_NNS ,_, and_CC points_NNS in_IN the_DT same_JJ structure_NN should_MD have_VB similar_JJ labels_NNS -LRB-_-LRB- 19_CD ,_, 30_CD ,_, 17_CD -RRB-_-RRB- ._.
+In_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: semi-supervised_JJ learning_NN is_VBZ combined_VBN with_IN ensemble_NN classification_NN methods_NNS ._.
+An_DT approach_NN for_IN the_DT case_NN that_IN only_RB positive_JJ -LRB-_-LRB- and_CC no_DT negative_JJ -RRB-_-RRB- training_NN data_NNS plus_CC unlabeled_JJ data_NNS are_VBP available_JJ is_VBZ described_VBN i_FW

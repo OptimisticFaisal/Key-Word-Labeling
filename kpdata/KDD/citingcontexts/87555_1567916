@@ -1,0 +1,4 @@
+et_CC ,_, like_IN k-nearest_NN neighbor_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- and_CC naive_JJ Bayes_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+In_IN its_PRP$ present_JJ form_NN ,_, MetaCost_NNP may_MD not_RB be_VB very_RB effective_JJ with_IN these_DT algorithms_NNS ,_, but_CC an_DT alternative_NN is_VBZ readily_RB suggested_VBN by_IN the_DT results_NNS of_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Their_PRP$ method_NN consists_VBZ of_IN learning_VBG multiple_JJ models_NNS using_VBG different_JJ subsets_NNS of_IN the_DT attributes_NNS ,_, instead_RB of_IN different_JJ subsets_NNS of_IN the_DT examples_NNS ._.
+K-nearest_NN neighbor_NN and_CC naive_JJ Bayes_NNS are_VBP unstable_JJ with_IN respec_NN

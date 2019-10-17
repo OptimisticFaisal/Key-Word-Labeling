@@ -1,0 +1,4 @@
+a_DT locally_RB optimal_JJ solution_NN -LRB-_-LRB- 38_CD -RRB-_-RRB- ._.
+Computing_NNP nearest_JJS neighbors_NNS is_VBZ the_DT most_RBS expensive_JJ step_NN in_IN Lloyd_NNP 's_POS algorithm_NN ,_, but_CC a_DT number_NN of_IN practical_JJ implementations_NNS of_IN this_DT algorithm_NN have_VBP been_VBN discovered_VBN recentl_NN =_JJ -_: =_JJ y_NN -LRB-_-LRB- 2_CD ,_, 24_CD ,_, 35_CD ,_, 36_CD ,_, 37_CD -RRB-_-RRB- ._.
+y_SYM -_: =_SYM -_: z_SYM x_NN Data_NN points_VBZ Optimal_JJ centers_NNS Heuristic_JJ centers_NNS Fig._NNP 1_CD :_: Lloyd_NNP 's_POS algorithm_NN can_MD produce_VB an_DT arbitrarily_RB high_JJ approximation_NN ratio_NN ._.
+Unfortunately_RB ,_, it_PRP is_VBZ easy_JJ to_TO construct_VB situations_NNS in_IN which_WDT Lloyd_NNP 's_POS

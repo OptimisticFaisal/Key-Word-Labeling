@@ -1,0 +1,4 @@
+namic_JJ structures_NNS efficiently_RB with_IN good_JJ scalability_NN ._.
+1_CD Introduction_NN Recently_RB ,_, with_IN the_DT increasing_VBG amount_NN of_IN XML_NN data_NNS available_JJ ,_, knowledge_NN engineering_NN from_IN XML_NN data_NNS becomes_VBZ an_DT issue_NN of_IN great_JJ importance_NN =_JJ -_: =[_NN 1_CD ,_, 5_CD ,_, 9_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Existing_VBG work_NN on_IN mining_NN XML_NN data_NNS includes_VBZ frequent_JJ substructure_NN mining_NN -LRB-_-LRB- 4_CD ,_, 5_CD ,_, 8_CD ,_, 9_CD -RRB-_-RRB- ,_, classification_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC association_NN rule_NN mining_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Among_IN these_DT ,_, the_DT frequent_JJ substructure_NN mining_NN is_VBZ the_DT most_JJS we_PRP

@@ -1,0 +1,3 @@
+t_NN measure_NN of_IN local_JJ outliers_NNS based_VBN on_IN a_DT symmetric_JJ neighborhood_NN relationship_NN which_WDT takes_VBZ both_CC the_DT NNs_NNS and_CC reverse_JJ NNs_NNS into_IN consideration_NN ,_, and_CC proposes_VBZ several_JJ mining_NN algorithms_NNS to_TO detect_VB top-n_NN outliers_NNS =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: efficiently_RB ._.
+More_RBR recently_RB ,_, Wong_NNP et_FW al._FW -LRB-_-LRB- 45_CD -RRB-_-RRB- introduce_VBP the_DT concept_NN of_IN bichromatic_JJ MNN_NN that_WDT considers_VBZ two_CD datasets_NNS and_CC employ_VB it_PRP to_TO deal_VB with_IN the_DT spatial_JJ matching_NN problem_NN ._.
+Gao_NNP et_FW al._FW -LRB-_-LRB- 14_CD -RRB-_-RRB- explore_VB the_DT

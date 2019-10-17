@@ -1,0 +1,6 @@
+reshold_NN ._.
+To_TO find_VB frequent_JJ subgraphs_NNS ,_, we_PRP apply_VBP a_DT two_CD step_NN process_NN ._.
+The_DT first_JJ step_NN is_VBZ to_TO find_VB frequent_JJ subgraphs_NNS while_IN ignoring_VBG the_DT labels_NNS on_IN the_DT edges_NNS ._.
+We_PRP apply_VBP the_DT GASTON_NNP algorithm_NN of_IN Nijssen_NN and_CC Kok_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: to_TO find_VB maximal_JJ subgraphs_NNS that_WDT appear_VBP at_IN least_JJS s_NN times_NNS in_IN the_DT information_NN flow_NN graph_NN ._.
+The_DT second_JJ step_NN is_VBZ then_RB to_TO add_VB edge_NN labels_NNS to_TO these_DT frequent_JJ subgraphs_NNS to_TO find_VB all_DT frequent_JJ labeled_JJ subgraphs_NNS ._.
+We_PRP

@@ -1,0 +1,4 @@
+ned_VBN as_IN follows_VBZ :_: FEC_NN -LRB-_-LRB- Ã_NN -RRB-_-RRB- =_SYM -_: CDC_NNP -LRB-_-LRB- Ã_NN -RRB-_-RRB- -LRB-_-LRB- log2CDC_NN -LRB-_-LRB- Ã_NN -RRB-_-RRB- -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- The_DT fuzzy_JJ entropy_NN FE_NNP -LRB-_-LRB- Ã_NN -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- of_IN a_DT fuzzy_JJ set_NN Ã_NN is_VBZ defined_VBN by_IN :_: FE_NNP -LRB-_-LRB- Ã_NN -RRB-_-RRB- =_JJ FEC_NN -LRB-_-LRB- Ã_NN -RRB-_-RRB- cЄC_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- 2.2_CD ._.
+Information_NN Gain_NN Measure_NN -LRB-_-LRB- IG_NNP -RRB-_-RRB- Information_NNP Gain_NNP Measure_NN =_JJ -_: =[_NN 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT quantitative_JJ measure_NN of_IN an_DT attribute_NN ._.
+Entropy_NNP measures_VBZ the_DT impurity_NN of_IN a_DT collection_NN ,_, whereas_IN Information_NNP Gain_NNP measures_VBZ the_DT purity_NN of_IN a_DT collection_NN with_IN respect_NN to_TO class_NN attribute_NN ._.
+The_DT amount_NN by_IN w_NN

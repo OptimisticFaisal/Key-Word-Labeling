@@ -1,0 +1,5 @@
+s_VBZ the_DT case_NN rating_NN ._.
+4.6_CD Boosted_NNP Classifiers_NNP Boosting_NNP -LRB-_-LRB- 14_CD -RRB-_-RRB- is_VBZ a_DT method_NN for_IN combining_VBG multiple_JJ classifiers_NNS ._.
+Researchers_NNS have_VBP shown_VBN that_IN ensemble_NN methods_NNS often_RB improve_VBP performance_NN over_IN single_JJ classifiers_NNS =_JJ -_: =[_NN 9_CD ,_, 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Boosting_VBG produces_VBZ a_DT set_NN of_IN weighted_JJ models_NNS by_IN iteratively_RB learning_VBG a_DT model_NN from_IN a_DT weighted_JJ data_NN set_NN ,_, evaluating_VBG it_PRP ,_, and_CC reweighting_VBG the_DT data_NNS set_NN based_VBN on_IN the_DT model_NN 's_POS performance_NN ._.
+During_IN performance_NN ,_,

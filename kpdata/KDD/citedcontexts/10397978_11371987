@@ -1,0 +1,5 @@
+e_LS optimalbucket-order_NN problem_NN has_VBZ applications_NNS ,_, e.g._FW ,_, in_IN ranking_NN and_CC in_IN seriation_NN for_IN paleontological_JJ data_NNS ._.
+It_PRP is_VBZ NP-hard_JJ ,_, as_IN it_PRP can_MD be_VB shown_VBN to_TO include_VB the_DT feedback_NN arc_NN set_NN problem_NN as_IN a_DT special_JJ case_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN we_PRP consider_VBP a_DT simple_JJ quicksort-like_JJ algorithm_NN for_IN the_DT problem_NN ,_, and_CC show_VBP that_IN it_PRP has_VBZ an_DT expected_VBN constant_JJ factor_NN approximation_NN guarantee_NN ._.
+1_CD 2_CD ._.
+A_DT simple_JJ algorithm_NN and_CC its_PRP$ analysis_NN The_DT Bu_NN

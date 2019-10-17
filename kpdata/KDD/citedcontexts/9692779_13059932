@@ -1,0 +1,5 @@
+ch_NN as_IN global_JJ -LRB-_-LRB- exact_JJ or_CC approximate_JJ -RRB-_-RRB- agreement_NN ._.
+Not_RB all_DT mentioned_VBN quantities_NNS will_MD map_VB to_TO attributes_NNS in_IN the_DT schema_NN ._.
+For_IN those_DT ,_, we_PRP create_VBP a_DT special_JJ background\/no_NN attribute_NN na_TO -LRB-_-LRB- similar_JJ to_TO ``_`` no_DT assignment_NN ''_'' =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Our_PRP$ approach_NN is_VBZ to_TO encode_VB assignment_NN decisions_NNS as_IN 0\/1_CD variables_NNS in_IN a_DT suitable_JJ integer_NN linear_NN program_NN -LRB-_-LRB- ILP_NN -RRB-_-RRB- ._.
+Constraints_NNS for_IN the_DT ILP_NNP will_MD come_VB from_IN some_DT natural_JJ snippet_NN and_CC value_NN assignment_NN consider_VB

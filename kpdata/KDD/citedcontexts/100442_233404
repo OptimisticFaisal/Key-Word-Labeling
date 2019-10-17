@@ -1,0 +1,3 @@
+rules_NNS to_TO identify_VB known_JJ attacks_NNS ,_, for_IN example_NN ,_, virus_NN signatures_NNS in_IN the_DT application_NN payload_NN ,_, and_CC requests_NNS to_TO nonexistent_JJ services_NNS or_CC hosts_NNS ._.
+Anomaly_JJ detection_NN systems_NNS such_JJ as_IN SPADE_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, NIDES_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, PHAD_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, ALAD_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- compute_VB -LRB-_-LRB- statistical_JJ -RRB-_-RRB- models_NNS for_IN normal_JJ network_NN traffic_NN and_CC generate_VB alarms_NNS when_WRB there_EX is_VBZ a_DT large_JJ deviation_NN from_IN the_DT normal_JJ model_NN ._.
+These_DT systems_NNS differ_VBP in_IN the_DT features_NNS extracted_VBN from_IN avail_NN

@@ -1,0 +1,5 @@
+oup_NN of_IN nodes_NNS which_WDT are_VBP densely_RB connected_VBN inside_IN the_DT group_NN ,_, while_IN loosely_RB connected_VBN with_IN the_DT nodes_NNS outside_IN the_DT group_NN ._.
+Community_NN detection_NN in_IN network_NN data_NNS has_VBZ been_VBN extensively_RB studied_VBN in_IN the_DT literature_NN =_JJ -_: =[_NN 17_CD ,_, 19_CD ,_, 3_CD ,_, 18_CD ,_, 2_CD ,_, 21_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Conventional_JJ approaches_NNS focus_VBP on_IN detecting_VBG communities_NNS based_VBN upon_IN linkage_NN information_NN ._.
+They_PRP assume_VBP that_IN the_DT complete_JJ linkage_NN information_NN within_IN the_DT entire_JJ network_NN is_VBZ available_JJ ._.
+However_RB ,_, in_IN many_JJ real_JJ

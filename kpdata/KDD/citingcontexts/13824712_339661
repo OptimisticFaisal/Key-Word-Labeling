@@ -1,0 +1,4 @@
+y_NN hierarchies_NNS ,_, it_PRP can_MD be_VB shown_VBN that_IN n_NN −_NN 2_CD constraints_NNS are_VBP enough_JJ to_TO capture_VB all_DT information_NN ._.
+A_DT linear-time_JJ algorithm_NN for_IN finding_VBG the_DT minimum_JJ set_NN of_IN rooted_JJ triplets_NNS from_IN a_DT binary_JJ hierarchy_NN is_VBZ given_VBN in_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT most_RBS informative_JJ relative_JJ constraints_NNS can_MD thus_RB be_VB generated_VBN accordingly_RB ._.
+For_IN general_JJ hierarchies_NNS ,_, the_DT polynomial-time_JJ algorithm_NN given_VBN in_IN -LRB-_-LRB- 24_CD -RRB-_-RRB- can_MD be_VB easily_RB modified_VBN to_TO decompose_VB a_DT general_JJ hierar_NN

@@ -1,0 +1,6 @@
+nal_JJ data_NNS mining_NN approaches_NNS ._.
+Finding_VBG cliques_NNS in_IN a_DT graph_NN is_VBZ a_DT problem_NN that_WDT has_VBZ been_VBN investigated_VBN for_IN a_DT long_JJ time_NN ._.
+Computing_NNP quasi-cliques_NNS in_IN one_CD graph_NN was_VBD also_RB the_DT topic_NN of_IN some_DT recent_JJ studies_NNS ,_, such_JJ as_IN =_JJ -_: =[_NN 1_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD may_MD wonder_VB ,_, ``_`` Can_MD the_DT complete_JJ set_NN of_IN cross-graph_JJ quasi-cliques_NNS be_VB mined_VBN easily_RB by_IN extending_VBG the_DT existing_VBG algorithms_NNS for_IN finding_VBG cliques_NNS or_CC quasi-cliques_NNS in_IN an_DT `_`` integrated_JJ '_'' graph_NN ?_. ''_''
+EXAMPLE_NN 3_CD ._.
+-LRB-_-LRB- CA_NNP

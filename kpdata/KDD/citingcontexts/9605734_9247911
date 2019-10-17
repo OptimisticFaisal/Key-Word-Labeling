@@ -1,0 +1,3 @@
+thus_RB use_VB stochastic_JJ gradient_NN descent_NN as_IN a_DT viable_JJ alternative_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, noting_VBG that_IN the_DT non-differentiability_NN induced_VBN by_IN the_DT L1_NN penalty_NN term_NN can_MD be_VB handled_VBN by_IN methods_NNS similar_JJ to_TO truncated_VBN gradient_NN descent_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO achieve_VB scalability_NN ,_, we_PRP use_VBP a_DT parallelized_JJ learning_NN algorithm_NN where_WRB each_DT machine_NN handles_VBZ a_DT subset_NN of_IN the_DT data_NNS ._.
+For_IN a_DT discussion_NN of_IN typical_JJ issues_NNS involved_VBN in_IN parallelizing_VBG stochastic_JJ gradient_NN des_FW

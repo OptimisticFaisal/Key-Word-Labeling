@@ -1,0 +1,5 @@
+6_CD -RRB-_-RRB- ,_, our_PRP$ approach_NN updates_NNS our_PRP$ estimated_VBN π_NN -LRB-_-LRB- t_NN -RRB-_-RRB- using_VBG a_DT multiplicative_JJ update_VB rule_NN ._.
+In_IN particular_JJ ,_, our_PRP$ approach_NN can_MD be_VB viewed_VBN as_IN a_DT special_JJ case_NN of_IN Freund_NNP and_CC Schapire_NNP 's_POS multiplicative_JJ weights_NNS algorithm_NN -LRB-_-LRB- =_JJ -_: =_JJ Freund_NNP &_CC Schapire_NNP ,_, 1999_CD -_: =--RRB-_NN ._.
+The_DT algorithm_NN starts_VBZ by_IN choosing_VBG an_DT initial_JJ set_NN of_IN weights_NNS π_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- WLOG_NN ,_, we_PRP assume_VBP weights_NNS are_VBP normalized_VBN to_TO sum_VB to_TO 1_CD ,_, since_IN the_DT coverage_NN function_NN is_VBZ insensitive_JJ to_TO scaling_VBG ._. -RRB-_-RRB-
+In_IN the_DT absence_NN of_IN pri_NN

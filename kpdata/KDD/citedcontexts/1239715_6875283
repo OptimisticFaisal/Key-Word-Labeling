@@ -1,0 +1,4 @@
+of_IN reinforcement_NN learning_NN methods_NNS -LRB-_-LRB- 57_CD ,_, 19_CD -RRB-_-RRB- ._.
+Its_PRP$ importance_NN notwithstanding_IN ,_, in_IN this_DT paper_NN we_PRP will_MD not_RB consider_VB further_RB the_DT on-line_JJ exploration\/exploitation_NN trade-off_NN ;_: the_DT interested_JJ reader_NN should_MD see_VB =_JJ -_: =[_NN 42_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Instead_RB ,_, we_PRP will_MD look_VB more_RBR deeply_RB at_IN the_DT problem_NN of_IN acquiring_VBG data_NNS for_IN improving_VBG the_DT performance_NN of_IN a_DT model_NN in_IN settings_NNS where_WRB there_EX will_MD be_VB explicit_JJ training_NN and_CC testing_NN phases_NNS ._.
+The_DT general_JJ ideas_NNS ap_IN

@@ -1,0 +1,4 @@
+ping_NN criterion_NN for_IN the_DT bootstrapping_NN procedure_NN ,_, perhaps_RB through_IN the_DT detection_NN of_IN semantic_JJ drift_NN -LRB-_-LRB- 28_CD ,_, 34_CD -RRB-_-RRB- ._.
+Gazetteer_NN resources_NNS have_VBP proven_VBN to_TO be_VB a_DT powerful_JJ knowledge_NN base_NN for_IN improving_VBG NER_NN performance_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT only_JJ gazetteer_NN in_IN CDB_NNP now_RB is_VBZ a_DT country_NN and_CC US_NNP state_NN list_NN ._.
+So_RB another_DT promising_JJ research_NN avenue_NN is_VBZ to_TO study_VB how_WRB to_TO automatically_RB learn_VB or_CC mine_VB a_DT target_NN domain_NN named_VBN entity_NN dictionary_NN to_TO further_VB i_LS

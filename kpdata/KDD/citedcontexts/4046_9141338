@@ -1,0 +1,4 @@
+s_NNS boosting_VBG -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+In_IN addition_NN ,_, since_IN every_DT binary_JJ classifier_NN is_VBZ trained_VBN independently_RB ,_, their_PRP$ outputs_NNS may_MD be_VB on_IN different_JJ scales_NNS ,_, making_VBG it_PRP difficult_JJ to_TO compare_VB them_PRP -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Though_IN calibration_NN techniques_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB used_VBN to_TO alleviate_VB this_DT problem_NN in_IN supervised_JJ classification_NN ,_, it_PRP is_VBZ rarely_RB used_VBN in_IN semi-supervised_JJ learning_NN due_JJ to_TO the_DT small_JJ number_NN of_IN labeled_JJ training_NN examples_NNS ._.
+Moreover_RB ,_, techniques_NNS like_IN one-v_NN

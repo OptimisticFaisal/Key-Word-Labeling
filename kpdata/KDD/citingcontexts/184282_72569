@@ -1,0 +1,4 @@
+n_NN retrieval_NN literature_NN ,_, and_CC other_JJ approaches_NNS than_IN random_JJ projection_NN have_VBP been_VBN presented_VBN ._.
+Ostrovsky_NNP and_CC Rabani_NNP -LRB-_-LRB- 21_CD -RRB-_-RRB- give_VBP a_DT dimension_NN reduction_NN operation_NN that_WDT is_VBZ suitable_JJ for_IN clustering_NN ._.
+Agrawal_NNP et_FW al._FW =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: map_NN time_NN series_NN into_IN frequency_NN domain_NN by_IN the_DT discrete_JJ Fourier_NN transform_VB and_CC only_RB retain_VB thesrst_JJ few_JJ frequencies_NNS ._.
+Keogh_NNP and_CC Pazzani_NNP -LRB-_-LRB- 18_CD -RRB-_-RRB- reduce_VB the_DT dimension_NN of_IN time_NN series_NN data_NNS by_IN segmenting_VBG the_DT time_NN

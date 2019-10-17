@@ -1,0 +1,5 @@
+on_IN distilled_VBN from_IN other_JJ modes_NNS can_MD help_VB uncover_VB the_DT latent_JJ community_NN structure_NN of_IN users_NNS ._.
+Some_DT work_NN has_VBZ been_VBN done_VBN to_TO identify_VB communities_NNS in_IN a_DT network_NN of_IN heterogeneous_JJ entities_NNS or_CC relations_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: in_IN terms_NNS of_IN multi-type_JJ relational_JJ clustering_NN ._.
+However_RB ,_, these_DT methods_NNS concentrate_VBP on_IN static_JJ networks_NNS ._.
+In_IN reality_NN ,_, networks_NNS tend_VBP to_TO evolve_VB gradually_RB ._.
+The_DT communities_NNS inside_IN a_DT network_NN could_MD grow_VB or_CC shri_VB

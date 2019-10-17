@@ -1,0 +1,4 @@
+port_NN suppti_NN -LRB-_-LRB- P_NN -RRB-_-RRB- is_VBZ computed_VBN at_IN each_DT discrete_JJ time_NN point_NN ti_NN ._.
+In_IN generating_VBG each_DT level_NN of_IN the_DT quasi-ordered_JJ set_NN ,_, the_DT candidate_NN pattern_NN search_NN space_NN is_VBZ represented_VBN as_IN a_DT set_NN of_IN enumeration_NN trees_NNS -LRB-_-LRB- SE-trees_NNS -RRB-_-RRB- =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT idea_NN is_VBZ to_TO impose_VB an_DT ordering_VBG on_IN atoms_NNS such_JJ that_IN all_DT patterns_NNS in_IN the_DT search_NN space_NN are_VBP enumerated_VBN ._.
+Practically_RB ,_, a_DT node_NN g_NN of_IN a_DT SE-tree_NN is_VBZ represented_VBN as_IN a_DT group_NN comprising_VBG :_: the_DT head_NN -LRB-_-LRB- h_NN -LRB-_-LRB- g_NN -RRB-_-RRB- -RRB-_-RRB- ,_, i.e._FW t_NN

@@ -1,0 +1,5 @@
+r_NN who_WP made_VBD that_DT transaction_NN is_VBZ uncertain_JJ ._.
+This_DT could_MD happen_VB because_IN of_IN incomplete_JJ customer_NN details_NNS ,_, or_CC because_IN the_DT customer_NN database_NN itself_PRP is_VBZ probabilistic_JJ as_IN a_DT result_NN of_IN ``_`` deduplication_NN ''_'' or_CC cleaning_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN ELU_NNP ,_, the_DT source_NN of_IN the_DT tuple_NN is_VBZ certain_JJ ,_, but_CC the_DT events_NNS are_VBP uncertain_JJ ._.
+This_DT applies_VBZ to_TO several_JJ scenarios_NNS involving_VBG sensors_NNS in_IN fixed_JJ locations_NNS detecting_VBG events_NNS using_VBG noisy_JJ techniques_NNS ._.
+In_IN this_DT case_NN

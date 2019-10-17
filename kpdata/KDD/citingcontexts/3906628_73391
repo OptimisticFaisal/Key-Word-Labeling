@@ -1,0 +1,4 @@
+ed_VBN by_IN a_DT set_NN of_IN Eigenvectors_NNS ._.
+The_DT number_NN of_IN clusters_NNS k_NN and_CC the_DT average_JJ dimensionality_NN l_NN of_IN the_DT correlation_NN clusters_NNS are_VBP the_DT input_NN parameters_NNS of_IN ORCLUS_NN ._.
+In_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- the_DT algorithm_NN 4C_NN ,_, a_DT combination_NN of_IN DBSCAN_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: and_CC PCA_NNP ,_, is_VBZ presented_VBN to_TO find_VB correlation_NN clusters_NNS ._.
+The_DT user_NN must_MD specify_VB several_JJ parameters_NNS ,_, including_VBG :_: ε_NN and_CC μ_NN ,_, defining_VBG minimum_JJ density_NN of_IN a_DT cluster_NN ,_, a_DT threshold_JJ δ_NN to_TO decide_VB which_WDT principal_NN axes_VBZ o_NN

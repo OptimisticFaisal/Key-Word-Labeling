@@ -1,0 +1,4 @@
+nparametric_JJ wavelet_NN based_VBN data_NNS compression_NN has_VBZ been_VBN explored_VBN in_IN -LRB-_-LRB- 16_CD ,_, 15_CD -RRB-_-RRB- ,_, where_WRB it_PRP is_VBZ also_RB noted_VBN that_IN constant_JJ range_NN functions_NNS have_VBP a_DT sparse_JJ wavelet_NN representation_NN ._.
+Parametric_NNP modeling_NN is_VBZ proposed_VBN in_IN =_JJ -_: =[_NN 14_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+All_DT of_IN these_DT techniques_NNS follow_VBP the_DT pattern_NN of_IN reducing_VBG the_DT size_NN of_IN the_DT data_NNS ,_, then_RB evaluating_VBG queries_NNS on_IN the_DT smaller_JJR dataset_NN ._.
+These_DT two_CD threads_NNS are_VBP brought_VBN together_RB by_IN progressive_JJ query_NN evaluation_NN te_NN

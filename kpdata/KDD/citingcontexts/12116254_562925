@@ -1,0 +1,6 @@
+udy_NN ._.
+The_DT mean_NN query_NN chain_NN length_NN was_VBD 2.2_CD queries_NNS ,_, although_IN the_DT particular_JJ questions_NNS asked_VBD and_CC the_DT laboratory_NN environment_NN would_MD be_VB expected_VBN to_TO have_VB an_DT influence_NN on_IN this_DT value_NN ._.
+A_DT number_NN of_IN papers_NNS -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 3_CD ,_, 10_CD ,_, 18_CD -RRB-_-RRB- -_: =--RRB-_NN successfully_RB learn_VBP to_TO predict_VB query_NN reformulations_NNS ._.
+Their_PRP$ success_NN on_IN this_DT task_NN suggests_VBZ that_IN the_DT problem_NN of_IN detecting_VBG query_NN chains_NNS ,_, which_WDT we_PRP will_MD have_VB to_TO address_NN ,_, is_VBZ feasible_JJ ._.
+4_LS ._.
+FROM_NNS LOG_VBP FILES_NNS TO_TO F_NN

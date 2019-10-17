@@ -1,0 +1,6 @@
+ecting_VBG K-means_NNS have_VBP a_DT scalability_NN problem_NN ._.
+MeSH_VB Ontology_NNP improves_VBZ the_DT clustering_NN solutions_NNS of_IN STC_NNP ._.
+Unexpectedly_RB ,_, the_DT original_JJ BiSecting_NN K-means_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- shows_VBZ poor_JJ performance_NN ._.
+Unlike_IN the_DT studies_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, our_PRP$ experiment_NN results_NNS indicate_VBP the_DT original_JJ BiSecting_NN K-means_NNS is_VBZ even_RB worse_JJR than_IN K-means_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, such_PDT a_DT result_NN is_VBZ also_RB found_VBN in_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+This_DT contradiction_NN leads_VBZ us_PRP to_TO deem_VB that_IN the_DT cluste_NN

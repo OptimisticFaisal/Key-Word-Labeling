@@ -1,0 +1,4 @@
+p_NN function_NN term_NN ey_NN ._.
+in_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- can_MD be_VB handled_VBN directly_RB by_IN an_DT algorithm_NN such_JJ as_IN that_DT of_IN -LRB-_-LRB- 12_CD ,_, Algorithm_NN 1_CD SLA_NN -RRB-_-RRB- ,_, we_PRP prefer_VBP to_TO approximate_JJ it_PRP here_RB by_IN a_DT smooth_JJ concave_NN exponential_NN on_IN the_DT nonnegative_JJ real_JJ line_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: as_IN was_VBD done_VBN in_IN the_DT feature_NN selection_NN approach_NN of_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+For_IN y_FW __FW -RRB-_-RRB- 0_CD ,_, the_DT approximation_NN of_IN the_DT step_NN vector_NN y._NN of_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- by_IN the_DT concave_NN exponential_NN ,_, yi_FW ._.
+s1_NN -_: sv_NN ,_, i_FW 1_CD ,_, ..._: ,_, m_NN ,_, that_WDT is_VBZ :_: y._NN e_SYM -_: v_LS ,_, a_DT -RRB-_-RRB- 0_CD ,_, -LRB-_-LRB- 14_CD -RRB-_-RRB- wheresi_NNS

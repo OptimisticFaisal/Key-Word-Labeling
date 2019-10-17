@@ -1,0 +1,4 @@
+proaches_NNS derive_VBP defectiveness_NN likelihoods_NNS in_IN different_JJ ways_NNS ._.
+-LRB-_-LRB- 18_CD -RRB-_-RRB- builds_VBZ on_IN graph_NN classification_NN with_IN subgraph_NN patterns_NNS ._.
+The_DT authors_NNS first_RB mine_VBP frequent_JJ subgraph_JJ patterns_NNS with_IN a_DT variant_NN of_IN CloseGraph_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: before_IN they_PRP use_VBP them_PRP to_TO train_VB a_DT support-vector_JJ machine_NN -LRB-_-LRB- SVM_NN -RRB-_-RRB- ._.
+The_DT authors_NNS consider_VBP the_DT difference_NN in_IN accuracy_NN between_IN two_CD SVMs_NNS --_: one_CD built_VBN with_IN graph_NN patterns_NNS including_VBG a_DT certain_JJ method_NN and_CC one_CD witho_NN

@@ -1,0 +1,4 @@
+that_IN quantity_NN of_IN references_NNS each_DT paper_NN cites_VBZ is_VBZ limited_JJ ._.
+Cohen_NNP and_CC Kjeldsen_NNP -LRB-_-LRB- 14_CD -RRB-_-RRB- used_VBD a_DT constrained_VBN spreading_NN activation_NN network_NN over_IN a_DT knowledge_NN base_NN to_TO improve_VB retrieval_NN recall_NN ._.
+Some_DT recent_JJ work_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: further_JJ leveraged_JJ citation_NN and_CC provided_VBD a_DT good_JJ mechanism_NN to_TO discover_VB more_RBR implicitly_RB similar_JJ objects_NNS ._.
+Its_PRP$ idea_NN is_VBZ that_IN the_DT similarity_NN between_IN each_DT pair_NN of_IN nodes_NNS is_VBZ determined_VBN by_IN their_PRP$ structural_JJ cont_NN

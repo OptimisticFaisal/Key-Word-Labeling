@@ -1,0 +1,4 @@
+-LRB-_-LRB- 29_CD -RRB-_-RRB- formulated_VBD the_DT distance_NN metric_JJ learning_NN problem_NN as_IN a_DT constrained_VBN convex_NN programming_NN problem_NN ._.
+This_DT algorithm_NN is_VBZ extended_VBN to_TO the_DT nonlinear_JJ case_NN in_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- by_IN the_DT introduction_NN of_IN kernels_NNS ._.
+Yang_NNP et_FW al._FW =_SYM -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT local_JJ distance_NN metric_JJ algorithm_NN that_WDT is_VBZ designed_VBN to_TO address_VB the_DT problem_NN of_IN distance_NN metric_JJ learning_NN for_IN multi-modal_JJ data_NNS distributions_NNS ._.
+Golderberg_NNP et_FW al._FW -LRB-_-LRB- 11_CD -RRB-_-RRB- presented_VBD the_DT neighborhood_NN co_NN

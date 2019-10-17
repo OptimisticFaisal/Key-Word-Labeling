@@ -1,0 +1,4 @@
+s_NN by_IN learning_VBG a_DT common_JJ template_NN for_IN a_DT page_NN or_CC site_NN ._.
+Then_RB ,_, the_DT user_NN typically_RB selects_VBZ a_DT subset_NN of_IN the_DT output_NN data_NN fields_NNS and_CC labels_NNS them_PRP according_VBG to_TO the_DT domain_NN schema_NN ._.
+Examples_NNS of_IN such_JJ work_NN are_VBP IEPAD_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, OLERA_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, and_CC DEPTA_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+This_DT can_MD be_VB a_DT labor-intensive_JJ process_NN ,_, because_IN web_NN sites_NNS tend_VBP to_TO have_VB many_JJ irrelevant_JJ fields_NNS ,_, and_CC thus_RB the_DT user_NN must_MD select_VB from_IN many_JJ more_JJR data_NNS fields_NNS than_IN there_EX are_VBP schema_NN

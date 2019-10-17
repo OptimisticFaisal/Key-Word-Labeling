@@ -1,0 +1,4 @@
+ifiers_NNS ._.
+To_TO eliminate_VB this_DT problem_NN ,_, Koller_NNP and_CC Sahami_NNP -LRB-_-LRB- 13_CD -RRB-_-RRB- developed_VBD an_DT optimal_JJ gene_NN selection_NN method_NN called_VBN Markov_NNP blanket_NN filtering_VBG which_WDT can_MD remove_VB redundant_JJ genes_NNS ._.
+Based_VBN on_IN this_DT method_NN ,_, Yu_NNP and_CC Liu_NNP =_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD the_DT Redundancy_NN Based_VBN Filter_NNP -LRB-_-LRB- RBF_NNP -RRB-_-RRB- method_NN to_TO deal_VB with_IN redundant_JJ problems_NNS and_CC the_DT results_NNS are_VBP very_RB promising_JJ ._.
+In_IN contrast_NN ,_, a_DT wrapper_NN method_NN embeds_VBZ a_DT gene_NN selection_NN method_NN within_IN a_DT classificati_NN

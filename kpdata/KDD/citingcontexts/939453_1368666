@@ -1,0 +1,4 @@
+and_CC robust_JJ modeling_NN from_IN complex_JJ data_NNS sources_NNS not_RB simply_RB through_IN information_NN reduction_NN ,_, but_CC ,_, more_RBR importantly_RB ,_, through_IN the_DT increased_VBN expressivity_NN of_IN the_DT language_NN used_VBN to_TO describe_VB patterns_NNS in_IN the_DT data_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2_CD ._.
+STRUCTURALLOGISTICREGRESSION_NNP We_PRP use_VBP a_DT form_NN of_IN statistical_JJ relational_JJ learning_NN which_WDT integrates_VBZ regression_NN with_IN feature_NN generation_NN from_IN relational_JJ data_NNS ._.
+In_IN this_DT paper_NN we_PRP use_VBP logistic_JJ regression_NN ,_, g_NN

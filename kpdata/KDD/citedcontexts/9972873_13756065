@@ -1,0 +1,4 @@
+ends_NNS ,_, are_VBP heuristically_RB designed_VBN ._.
+Our_PRP$ work_NN is_VBZ a_DT much_RB more_RBR general_JJ approach_NN to_TO detect_VB any_DT relationship_NN with_IN any_DT temporal_JJ patterns_NNS ._.
+Our_PRP$ idea_NN of_IN making_VBG use_NN of_IN T-Motifs_NN is_VBZ also_RB motivated_VBN by_IN a_DT recent_JJ work_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: on_IN time_NN series_NN classification_NN problem_NN ._.
+Different_NNP from_IN other_JJ time_NN series_NN classification_NN methods_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- -LRB-_-LRB- 21_CD -RRB-_-RRB- -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, Ye_FW et_FW al._FW -LRB-_-LRB- 24_CD -RRB-_-RRB- use_NN shapelets_NNS ,_, which_WDT are_VBP time_NN series_NN subsequences_NNS that_WDT can_MD maximally_RB represe_VB

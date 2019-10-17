@@ -1,0 +1,4 @@
+nd_IN many_JJ other_JJ areas_NNS ._.
+Many_JJ existing_VBG methods_NNS for_IN label_NN prediction_NN are_VBP proximity-based_JJ :_: missing_VBG labels_NNS are_VBP inferred_VBN based_VBN on_IN the_DT hypothesis_NN that_WDT linked_VBD or_CC nearby_JJ nodes_NNS are_VBP likely_JJ to_TO have_VB the_DT same_JJ labels_NNS =_JJ -_: =[_NN 7_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT hypothesis_NN is_VBZ also_RB known_VBN as_IN homophily_NN -LRB-_-LRB- i.e._FW ,_, love_NN of_IN the_DT same_JJ -RRB-_-RRB- and_CC describes_VBZ the_DT tendency_NN of_IN individuals_NNS to_TO associate_NN and_CC bond_NN with_IN similar_JJ others_NNS ._.
+Thus_RB it_PRP is_VBZ not_RB surprising_JJ that_IN these_DT approach_NN

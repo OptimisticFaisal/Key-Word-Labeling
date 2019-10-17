@@ -1,0 +1,5 @@
+ence_NN -RRB-_-RRB- :_: Learning_NNP General_NNP Terms_NNS :_: Algorithms_NNS ._.
+Keywords_NNS :_: redescription_NN ,_, data_NN mining_NN ,_, minimal_JJ generators_NNS ,_, closed_VBD itemsets_NNS ._.
+1_CD ._.
+INTRODUCTION_NNP Redescription_NNP mining_NN is_VBZ a_DT recently_RB introduced_VBN data_NNS mining_NN problem_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT seeks_VBZ to_TO find_VB subsets_NNS of_IN data_NNS affording_VBG multiple_JJ definitions_NNS ._.
+The_DT input_NN to_TO redescription_NN mining_NN is_VBZ a_DT vocabulary_NN of_IN sets_NNS -LRB-_-LRB- or_CC boolean_JJ propositions_NNS -RRB-_-RRB- over_IN a_DT domain_NN and_CC the_DT goal_NN is_VBZ to_TO construct_VB two_CD d_NN

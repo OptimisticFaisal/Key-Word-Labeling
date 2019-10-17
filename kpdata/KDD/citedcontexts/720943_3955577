@@ -1,0 +1,5 @@
+r_NN ?_.
+We_PRP solve_VBP this_DT problem_NN by_IN computing_VBG an_DT aggregate_NN over_IN the_DT set_NN of_IN related_JJ actors_NNS and_CC over_IN the_DT set_NN of_IN events_NNS ._.
+Aggregation_NN is_VBZ a_DT common_JJ technique_NN used_VBN to_TO construct_VB feature_NN vectors_NNS in_IN relational_JJ domains_NNS =_JJ -_: =[_NN 4_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB we_PRP assume_VBP some_DT set_NN of_IN aggregates_NNS is_VBZ associated_VBN with_IN each_DT attribute_NN ._.
+We_PRP compare_VBP the_DT classifier_NN FN_NN constructed_VBN from_IN the_DT original_JJ social_JJ network_NN N_NN =_JJ -LCB-_-LRB- A_NN ,_, E_NN ,_, R_NN -RCB-_-RRB- with_IN the_DT classifier_NN FN_NN ′_NN constructed_VBN

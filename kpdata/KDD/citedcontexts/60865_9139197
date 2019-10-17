@@ -1,0 +1,4 @@
+an_DT be_VB generalized_VBN to_TO any_DT graded_VBN relevance_NN levels_NNS -LRB-_-LRB- e.g._FW definitely_RB relevant_JJ ,_, somewhat_RB relevant_JJ ,_, non-relevant_JJ -RRB-_-RRB- ._.
+Third_RB ,_, in_IN many_JJ scenarios_NNS it_PRP is_VBZ easier_JJR to_TO obtain_VB large_JJ amounts_NNS of_IN pairwise_JJ preference_NN data_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Using_VBG pairwise_JJ preferences_NNS ,_, however_RB ,_, does_VBZ pose_VB some_DT risks_NNS ._.
+In_IN the_DT presence_NN of_IN labeling_NN errors_NNS or_CC other_JJ ``_`` noise_NN ''_'' in_IN the_DT document_NN relevance_NN information_NN ,_, creating_VBG a_DT training_NN set_VBN by_IN pairing_NN documents_NNS cau_VBP

@@ -1,0 +1,6 @@
+er_IN 100_CD participants_NNS utilizing_VBG unlabeled_JJ data_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+ASSEMBLE_NNP was_VBD used_VBN to_TO assimilate_VB unlabeled_JJ data_NNS into_IN a_DT multiclass_JJ version_NN of_IN AdaBoost_NNP ._.
+AdaBoost_NNP was_VBD adopted_VBN to_TO multiclass_NNS using_VBG a_DT similar_JJ approach_NN to_TO =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Specifically_RB ,_, f_FW t_NN -LRB-_-LRB- x_NN i_LS -RRB-_-RRB- =_JJ 1_CD if_IN an_DT instance_NN x_NN i_FW is_VBZ correctly_RB classified_VBN and_CC f_FW t_NN -LRB-_-LRB- x_NN i_LS -RRB-_-RRB- =_JJ -1_CD otherwise_RB ._.
+This_DT makes_VBZ AdaBoost_NNP increase_VB the_DT weight_NN of_IN a_DT misclassified_VBN point_NN and_CC decrease_VB it_PRP otherwise_RB ._.
+The_DT

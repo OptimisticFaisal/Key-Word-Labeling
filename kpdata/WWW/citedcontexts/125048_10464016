@@ -1,0 +1,3 @@
+include_VBP :_: rdfs_NNS :_: Resource_NNP is_VBZ modeled_VBN as_IN UML_NNP :_: :_: InstanceSpecification_NN rdf_NN :_: Property_NNP is_VBZ modeled_VBN by_IN a_DT combination_NN of_IN UML_NNP :_: :_: Property_NNP ,_, UML_NNP :_: :_: Association_NNP ,_, and_CC UML_NNP :_: :_: AssociationClass_NNP Graphs_NNP ,_, named_VBN graphs_NNS -LRB-_-LRB- per_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, and_CC documents_NNS are_VBP all_DT modeled_VBD as_IN UML_NNP :_: :_: Package_NNP Figure_NNP 1_CD provides_VBZ an_DT example_NN depicting_VBG a_DT property_NN definition_NN -LRB-_-LRB- using_VBG the_DT AssociationClass_NNP notation_NN -RRB-_-RRB- ._.
+Figure_NN 1_CD ._.
+Example_NNP RDF_NNP Property_NNP Definition_NNP ,_, Associat_NNP

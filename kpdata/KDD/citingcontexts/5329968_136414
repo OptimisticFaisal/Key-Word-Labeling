@@ -1,0 +1,4 @@
+o_NN 1s_NNS or_CC 0s_NNS ,_, respectively_RB ,_, so_IN that_IN M_NN becomes_VBZ fully_RB nested_JJ ._.
+We_PRP denote_VBP by_IN B_NN -LRB-_-LRB- M_NN -RRB-_-RRB- the_DT cost_NN of_IN the_DT optimal_JJ solution_NN of_IN the_DT BMna_NN problem_NN for_IN input_NN matrix_NN M._NNP The_NNP complexity_NN of_IN the_DT BMna_NN problem_NN is_VBZ unknown_JJ -LRB-_-LRB- see_VB =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Although_IN the_DT focus_NN of_IN the_DT paper_NN is_VBZ on_IN the_DT Mna_NN problem_NN ,_, we_PRP also_RB show_VBP how_WRB algorithms_NNS for_IN Mna_NNP can_MD be_VB adopted_VBN to_TO solve_VB the_DT BMna_NN problem_NN as_RB well_RB ._.
+It_PRP is_VBZ rather_RB easy_JJ to_TO see_VB the_DT following_JJ straightforward_JJ r_NN

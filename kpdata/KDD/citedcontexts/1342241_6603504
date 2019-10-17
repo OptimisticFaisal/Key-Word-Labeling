@@ -1,0 +1,6 @@
+mining_NN multiple_JJ databases_NNS ._.
+The_DT SQL_NNP queries_NNS and_CC algebra_NN are_VBP not_RB studied_VBN and_CC can_MD not_RB be_VB handled_VBN in_IN -LRB-_-LRB- ?_.
+,_, 17_CD -RRB-_-RRB- ._.
+Moreover_RB ,_, the_DT query_NN enumeration_NN approaches_NNS and_CC cost_NN models_NNS in_IN this_DT paper_NN are_VBP also_RB unique_JJ ._.
+In_IN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Tuzhilin_NNP and_CC Liu_NNP have_VBP proposed_VBN and_CC studied_VBN a_DT list_NN of_IN SQL_NNP queries_NNS on_IN querying_VBG association_NN rules_NNS from_IN multiple_JJ datasets_NNS ._.
+However_RB ,_, they_PRP assume_VBP that_IN the_DT association_NN rules_NNS are_VBP already_RB generated_VBN from_IN diff_NN

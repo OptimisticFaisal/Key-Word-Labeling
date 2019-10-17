@@ -1,0 +1,4 @@
+pares_VBZ them_PRP to_TO those_DT of_IN other_JJ algorithms_NNS and_CC discusses_VBZ the_DT runtimes_NNS ._.
+5.2_CD Related_NNP Work_NNP Several_JJ clustering_NN algorithms_NNS applied_VBN to_TO PINs_NNS have_VBP been_VBN proposed_VBN so_RB far_RB ,_, often_RB based_VBN on_IN graph_NN theoretic_JJ techniques_NNS =_JJ -_: =[_NN 31_CD ,_, 78_CD ,_, 79_CD ,_, 86_CD ,_, 105_CD ,_, 112_CD ,_, 163_CD ,_, 190_CD ,_, 230_CD ,_, 253_CD ,_, 268_CD ,_, 333_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT PIN_NN can_MD be_VB viewed_VBN as_IN an_DT undirected_JJ graph_NN ,_, where_WRB the_DT objects_NNS represent_VBP proteins_NNS and_CC the_DT edges_NNS represent_VBP interacting_NN proteins_NNS -LRB-_-LRB- 150_CD -RRB-_-RRB- ._.
+MULIC_NN clusters_NNS objects_NNS based_VBN on_IN the_DT similarities_NNS of_IN their_PRP$ neighbo_NN

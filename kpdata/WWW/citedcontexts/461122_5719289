@@ -1,0 +1,4 @@
+XML_NN documents_NNS and_CC particularly_RB CDA_NNP documents_NNS ,_, we_PRP need_VBP to_TO define_VB what_WP a_DT meaningful_JJ query_NN result_NN is_VBZ ._.
+Previous_JJ work_NN has_VBZ studied_VBN different_JJ approaches_NNS to_TO define_VB the_DT structure_NN of_IN results_NNS ._.
+A_DT corpus_NN of_IN works_NNS =_JJ -_: =[_NN 1_CD ,_, 13_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: consider_VB a_DT whole_JJ subtree_NN as_IN result_NN ,_, that_DT is_VBZ ,_, a_DT result_NN is_VBZ unambiguously_RB defined_VBN by_IN the_DT lowest_JJS common_JJ ancestor_NN -LRB-_-LRB- LCA_NN -RRB-_-RRB- node_NN of_IN the_DT keyword_JJ nodes_NNS ._.
+We_PRP refer_VBP to_TO this_DT approach_NN as_IN subtreeFigure_NN 2_CD :_: HL7_NN CDA_NNP Sa_NNP

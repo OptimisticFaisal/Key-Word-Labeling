@@ -1,0 +1,4 @@
+ents_NNS that_WDT are_VBP more_RBR highly_RB depended_VBN upon_IN are_VBP ranked_VBN higher_JJR -RRB-_-RRB- ._.
+This_DT is_VBZ analogous_JJ to_TO the_DT representation_NN and_CC calculation_NN of_IN global_JJ web_NN page_NN ranking_NN in_IN PageRank_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC of_IN global_JJ trust_NN values_NNS in_IN EigenTrust_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Computational_JJ calculation_NN is_VBZ straightforward_JJ and_CC proceeds_NNS by_IN iteratively_RB calculating_VBG the_DT principle_NN left_VBD eigenvector_NN of_IN M._NNP Care_NNP must_MD be_VB taken_VBN to_TO ensure_VB that_IN the_DT calculation_NN will_MD converge_VB ._.
+Applying_VBG a_DT

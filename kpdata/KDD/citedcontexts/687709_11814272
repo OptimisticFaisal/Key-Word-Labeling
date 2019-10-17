@@ -1,0 +1,7 @@
+ssing_NN problems_NNS exist_VBP ,_, e.g._FW -LRB-_-LRB- 1_CD ,_, 3_CD ,_, 15_CD -RRB-_-RRB- ._.
+713_CD Copyright_NNP ©_NNP by_IN SIAM_NNP ._.
+Unauthorized_JJ reproduction_NN of_IN this_DT article_NN is_VBZ prohibited_VBN ._.
+Streaming_VBG tensor_NN algorithms_NNS have_VBP been_VBN shown_VBN useful_JJ in_IN data_NN mining_NN applications_NNS =_JJ -_: =[_NN 18_CD ,_, 21_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP expect_VBP any_DT update_VBP technique_NN effective_JJ for_IN the_DT truncated_VBN SVD_NN can_MD be_VB extended_VBN to_TO the_DT Tucker_NNP decomposition_NN of_IN tensors_NNS -LRB-_-LRB- 13_CD ,_, 18_CD ,_, 22_CD -RRB-_-RRB- ._.
+The_DT challenge_NN is_VBZ extending_VBG the_DT best_JJS technique_NN in_IN the_DT best_JJS way_NN ._.
+We_PRP

@@ -1,0 +1,4 @@
+ew_NN ._.
+On_IN the_DT empirical_JJ part_NN ,_, the_DT introduction_NN of_IN n-fold_NN cross-validation_NN is_VBZ new_JJ and_CC particular_JJ important_JJ for_IN streaming_VBG min136Research_NNP Track_NNP Paper_NNP ing_NN ._.
+Breiman_NNP has_VBZ proposed_VBN the_DT ``_`` random_JJ forests_NNS ''_'' method_NN -LRB-_-LRB- =_JJ -_: =_JJ Breiman_NNP ,_, 2001_CD -_: =-]_CD ._.
+In_IN random_JJ forests_NNS ,_, randomness_NN is_VBZ injected_VBN by_IN randomly_RB sampling_NN a_DT subset_NN of_IN remaining_VBG features_NNS -LRB-_-LRB- those_DT not_RB chosen_VBN yet_RB by_IN a_DT decision_NN path_NN -RRB-_-RRB- and_CC then_RB choosing_VBG the_DT best_JJS splitting_NN criteria_NNS from_IN this_DT featu_NN

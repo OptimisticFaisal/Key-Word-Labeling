@@ -1,0 +1,3 @@
+factors_NNS -RRB-_-RRB- that_WDT are_VBP verified_VBN by_IN clinical_JJ trials_NNS or_CC selected_VBN manually_RB by_IN medical_JJ experts_NNS ._.
+For_IN example_NN ,_, Lumley_NNP et_FW al._FW -LRB-_-LRB- 24_CD -RRB-_-RRB- built_VBD a_DT 5-year_JJ stroke_NN prediction_NN model_NN based_VBN on_IN the_DT Cardiovascular_NNP Health_NNP Study_NNP =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: dataset_NN using_VBG a_DT set_NN of_IN 16_CD manually_RB selected_VBN features_NNS -LRB-_-LRB- given_VBN in_IN -LRB-_-LRB- 25_CD -RRB-_-RRB- -RRB-_-RRB- from_IN a_DT total_NN of_IN roughly_RB one_CD thousand_CD features_NNS ._.
+With_IN a_DT large_JJ number_NN of_IN features_NNS in_IN current_JJ medical_JJ datasets_NNS ,_, it_PRP is_VBZ a_DT cumbersome_JJ tas_NN

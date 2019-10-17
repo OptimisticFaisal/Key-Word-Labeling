@@ -1,0 +1,5 @@
+ent_JJ users_NNS to_TO assign_VB the_DT same_JJ tag_NN to_TO the_DT same_JJ resource_NN ,_, and_CC narrow_JJ folksonomies_NNS ,_, in_IN which_WDT the_DT same_JJ tag_NN can_MD be_VB assigned_VBN to_TO a_DT resource_NN only_RB once_RB -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Formal_JJ models_NNS of_IN a_DT folksonomy_NN are_VBP e.g._FW presented_VBN in_IN =_JJ -_: =[_NN 4_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP are_VBP based_VBN on_IN bindings_NNS between_IN users_NNS ,_, tags_NNS ,_, and_CC resources_NNS ._.
+According_VBG to_TO -LRB-_-LRB- 6_CD -RRB-_-RRB- a_DT folksonomy_NN is_VBZ defined_VBN as_IN follows_VBZ :_: Definition_NN 1_CD ._.
+A_DT folksonomy_NN is_VBZ a_DT quadruple_JJ F_NN :_: =_JJ -LRB-_-LRB- U_NN ,_, T_NN ,_, R_NN ,_, Y_NN -RRB-_-RRB- ,_, where_WRB :_: •_NN U_NN ,_, T_NN ,_, R_NN ar_NN

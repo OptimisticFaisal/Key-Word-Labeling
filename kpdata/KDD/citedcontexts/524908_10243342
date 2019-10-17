@@ -1,0 +1,4 @@
+ta_NN instance_NN and_CC the_DT others_NNS was_VBD smaller_JJR than_IN a_DT given_VBN threshold_NN ,_, then_RB that_IN data_NNS instance_NN would_MD be_VB deleted_VBN ._.
+The_DT value_NN of_IN the_DT threshold_NN was_VBD determined_VBN based_VBN on_IN the_DT number_NN of_IN the_DT pruned_VBN data_NN instances_NNS ._.
+In_IN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, only_RB the_DT objects_NNS '_POS mutual_JJ distances_NNS were_VBD utilized_VBN and_CC it_PRP did_VBD not_RB need_VB to_TO place_VB any_DT constraint_NN on_IN the_DT data_NNS and_CC the_DT distance_NN function_NN ._.
+The_DT third_JJ category_NN of_IN the_DT data_NNS pruning_NN techniques_NNS is_VBZ density-based_JJ

@@ -1,0 +1,4 @@
+uter_NN science_NN areas_NNS such_JJ as_IN boolean_JJ SAT_NNP solvers_NNS -LRB-_-LRB- Aloul_NNP et_FW al._FW 2002_CD -RRB-_-RRB- and_CC solving_VBG graph_NN optimization_NN problems_NNS -LRB-_-LRB- Coudert_NNP 1997_CD -RRB-_-RRB- ._.
+There_EX are_VBP only_RB a_DT few_JJ works_NNS that_WDT use_VBP ZBDDs_NNS in_IN a_DT data_NN mining_NN context_NN ,_, such_JJ as_IN -LRB-_-LRB- =_JJ -_: =_JJ Loekito_NNP &_CC Bailey_NNP 2006_CD -_: =_JJ -_: ,_, Minato_NNP 2005_CD ,_, Minato_NNP &_CC Ito_NNP 2007_CD ,_, Minato_NNP &_CC Arimura_NNP 2006_CD -RRB-_-RRB- ._.
+A_DT vast_JJ number_NN of_IN techniques_NNS for_IN mining_NN frequent_JJ itemsets_NNS and_CC their_PRP$ common_JJ varieties_NNS have_VBP been_VBN proposed_VBN ._.
+A_DT survey_NN can_MD be_VB found_VBN in_IN -LRB-_-LRB- Zaki_NNP &_CC Goeth_NNP

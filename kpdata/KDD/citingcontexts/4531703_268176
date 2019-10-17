@@ -1,0 +1,6 @@
+each_DT data_NNS set_VBN ._.
+In_IN general_JJ the_DT larger_JJR the_DT CV_NNP value_NN is_VBZ ,_, the_DT greater_JJR the_DT variability_NN is_VBZ in_IN the_DT data_NNS ._.
+UCI_NNP Data_NNP Sets_NNP ._.
+In_IN our_PRP$ experiments_NNS ,_, we_PRP used_VBD eight_CD well-known_JJ benchmark_NN data_NNS sets_NNS from_IN UCI_NNP Repository_NNP =_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Among_IN them_PRP two_CD data_NNS sets_NNS ,_, breast-w_NN and_CC pima-diabetes_NNS ,_, are_VBP binary_JJ data_NNS sets_NNS from_IN the_DT medical_JJ domain_NN ._.
+The_DT breast-w_NN data_NN set_NN contains_VBZ two_CD types_NNS of_IN results_NNS from_IN real-world_JJ breastsResearch_NN Track_NNP Paper_NNP Ta_NNP

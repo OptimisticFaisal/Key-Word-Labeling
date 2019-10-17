@@ -1,0 +1,5 @@
+bsequently_RB explore_VB and_CC analyze_VB ._.
+In_IN this_DT section_NN ,_, we_PRP present_VBP a_DT similarity-based_JJ rule_NN grouping_VBG method_NN for_IN this_DT purpose_NN ._.
+The_DT problem_NN of_IN clustering_NN similar_JJ rules_NNS was_VBD first_RB studied_VBN in_IN the_DT KDD_NNP community_NN in_IN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN particular_JJ ,_, Lent_JJ et_FW al_FW -LRB-_-LRB- 18_CD -RRB-_-RRB- clusters_NNS discovered_VBD association_NN rules_NNS in_IN the_DT two-dimensional_JJ space_NN using_VBG heuristic_NN methods_NNS based_VBN on_IN geometric_JJ properties_NNS of_IN twodimensional_JJ grids_NNS ._.
+This_DT approach_NN is_VBZ rest_NN

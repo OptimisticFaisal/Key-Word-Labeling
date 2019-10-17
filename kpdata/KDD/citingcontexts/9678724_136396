@@ -1,0 +1,5 @@
+uential_JJ patterns_NNS on_IN a_DT distributed_VBN memory_NN system_NN ,_, and_CC report_NN good_JJ scale-up_NN on_IN a_DT 64-node_JJ Linux_NNP cluster_NN ._.
+Graf_NNP et_FW al._FW -LRB-_-LRB- 9_CD -RRB-_-RRB- developed_VBD a_DT parallel_JJ algorithm_NN to_TO learn_VB SVM_NN through_IN cascade_NN SVM_NN ._.
+Collobert_NNP et_FW al._FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT method_NN to_TO learn_VB a_DT mixture_NN of_IN SVM_NN in_IN parallel_NN ._.
+Both_DT of_IN them_PRP adopted_VBD the_DT idea_NN of_IN splitting_JJ dataset_NN into_IN small_JJ subsets_NNS ,_, training_NN SVM_NN on_IN each_DT ,_, and_CC then_RB combining_VBG those_DT SVMs_NNS ._.
+Chang_NNP et_FW al._FW -LRB-_-LRB- 3_LS -RRB-_-RRB- p_NN

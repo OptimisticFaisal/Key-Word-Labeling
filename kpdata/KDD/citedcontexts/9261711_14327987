@@ -1,0 +1,8 @@
+interested_JJ in_IN their_PRP$ quality_NN in_IN comparison_NN to_TO more_RBR informative_JJ subgraph_JJ patterns_NNS employed_VBN in_IN gIndex_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+We_PRP compared_VBD classification_NN accuracies_NNS on_IN CPDB_NN ,_, AIDS1_NN ,_, AIDS2_NN and_CC AIDS3_NN datasets_NNS formerly_RB used_VBN in_IN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT datasets_NNS can_MD be_VB downloaded_VBN from_IN http:\/\/www.mpi-inf.mpg_NN ._.
+de_IN \/_: ~_FW hiroto\/ChemGraphData_FW -1.0_CD ._.
+tar_NN ._.
+gz_NN ._.
+The_DT statistics_NNS of_IN these_DT datasets_NNS are_VBP summarized_VBN in_IN Table_NNP 1_CD ._.
+We_PRP used_VBD one_CD nearest_JJS neighbor_NN classifier_NN ,_,

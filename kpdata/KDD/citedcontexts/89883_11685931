@@ -1,0 +1,5 @@
+ight-Constraint-Based_JJ Mining_NNP ._.
+We_PRP say_VBP how_WRB to_TO extend_VB standard_JJ patterngrowth_NN algorithms_NNS for_IN frequent_JJ subgraph_JJ mining_NN with_IN pruning_NN based_VBN on_IN weightbased_JJ constraints_NNS ._.
+We_PRP do_VBP so_RB for_IN gSpan_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- and_CC CloseGraph_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Application_NN to_TO Real-World_JJ Problems_NNS ._.
+We_PRP describe_VBP different_JJ data-analysis_NN problems_NNS that_WDT make_VBP use_NN of_IN frequent_JJ subgraph_JJ mining_NN of_IN weighted_JJ graphs_NNS from_IN domains_NNS as_RB diverse_JJ as_IN software_NN engineering_NN and_CC logi_NNS

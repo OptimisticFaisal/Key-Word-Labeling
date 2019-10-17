@@ -1,0 +1,4 @@
+projection_NN as_IN our_PRP$ hash_JJ function_NN ._.
+This_DT is_VBZ because_IN it_PRP is_VBZ simple_JJ ,_, database-friendly_JJ -LRB-_-LRB- 1_LS -RRB-_-RRB- and_CC yields_VBZ comparable_JJ results_NNS to_TO conventional_JJ dimensionality_NN reduction_NN ,_, such_JJ as_IN PCA_NNP ,_, for_IN both_CC image_NN and_CC text_NN data_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Furthermore_RB ,_, using_VBG random_JJ projection_NN ,_, we_PRP can_MD extend_VB the_DT search_NN algorithm_NN to_TO support_VB exact_JJ NN_NNP search_NN in_IN L1_NN norm_NN ,_, which_WDT is_VBZ found_VBN to_TO be_VB effective_JJ for_IN multimedia_NNS data_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Experiment_NN results_VBZ on_IN image_NN dat_NN

@@ -1,0 +1,4 @@
+algorithm_NN to_TO generate_VB recommendations_NNS ._.
+Although_IN our_PRP$ scheme_NN can_MD be_VB extended_VBN to_TO other_JJ CF_NN algorithms_NNS with_IN appropriate_JJ modifications_NNS ,_, we_PRP focus_VBP on_IN one_CD in_IN particular_JJ ,_, the_DT item-based_JJ algorithm_NN introduced_VBN in_IN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, for_IN ease_NN of_IN discussion_NN ._.
+In_IN this_DT CF_NN algorithm_NN ,_, the_DT cosine_NN similarity_NN between_IN item_NN i_FW and_CC j_NN is_VBZ defined_VBN as_IN sim_NN -LRB-_-LRB- i_FW ,_, j_NN -RRB-_-RRB- =_JJ #_# u_FW Au_FW ,_, iAu_NN ,_, j_NN $_$ u_CD #_# A2_NN $_$ u_NN ,_, i_FW #_# u_NN A2_NN u_NN ,_, j_NN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- In_IN the_DT above_JJ equation_NN ,_, u_NN is_VBZ the_DT set_NN of_IN

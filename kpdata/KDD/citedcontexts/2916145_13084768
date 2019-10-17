@@ -1,0 +1,4 @@
+searching_VBG over_IN all_DT possible_JJ regions_NNS is_VBZ computationally_RB very_RB expensive_JJ ._.
+Various_JJ approaches_NNS have_VBP been_VBN suggested_VBN to_TO make_VB it_PRP tractable_JJ ._.
+These_DT include_VBP grid_NN based_VBN multi-resolution_JJ branch_NN and_CC bound_VBD search_NN -LRB-_-LRB- =_JJ -_: =_JJ Neill_NNP and_CC Moore_NNP ,_, 2004_CD -_: =_JJ -_: ,_, Neill_NNP et_FW al._FW ,_, 2005c_CD -RRB-_-RRB- ,_, approximation_NN algorithms_NNS -LRB-_-LRB- Agrawal_NNP and_CC Srikant_NNP ,_, 1994_CD -RRB-_-RRB- and_CC greedy_JJ strategies_NNS -LRB-_-LRB- Friedman_NNP and_CC Fisher_NNP ,_, 1999_CD -RRB-_-RRB- ._.
+We_PRP can_MD also_RB calculate_VB the_DT p-value_NN of_IN each_DT detected_VBN region_NN by_IN randomizati_NNS

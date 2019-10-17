@@ -1,0 +1,4 @@
+;_: d_LS -RRB-_-RRB- =_JJ w_FW ′_FW PMI_NN -LRB-_-LRB- w_NN ∈_NN C_NN ′_NN ,_, b_NN -RRB-_-RRB- PMI_NN -LRB-_-LRB- w_NN ′_NN ,_, d_NN -RRB-_-RRB- w_FW ′_FW PMI_NN -LRB-_-LRB- w_NN ′_NN ,_, b_NN -RRB-_-RRB- 2_CD w_FW ′_FW PMI_NN -LRB-_-LRB- w_NN ′_NN ,_, d_NN -RRB-_-RRB- 2_CD -LRB-_-LRB- 3.22_CD -RRB-_-RRB- The_DT outcome_NN is_VBZ a_DT value_NN from_IN zero_CD to_TO one_CD where_WRB values_NNS closer_RBR to_TO one_CD indicate_VBP greater_JJR similarity_NN ._.
+Pantel_NN =_JJ -_: =[_NN 78_CD -RRB-_-RRB- -_: =_SYM -_: used_VBD the_DT cosine_NN of_IN pointwise_JJ mutual_JJ information_NN to_TO uncover_VB word_NN sense_NN from_IN text_NN ._.
+L1_NN norm_NN In_IN this_DT method_NN ,_, the_DT conditional_JJ probability_NN of_IN each_DT word_NN w_FW ′_FW i_FW in_IN C_NNP given_VBN b_NN -LRB-_-LRB- and_CC d_NN -RRB-_-RRB- is_VBZ computed_VBN ._.
+The_DT accumulat_NN

@@ -1,0 +1,5 @@
+ment_NN on_IN the_DT property_NN vectors_NNS ,_, the_DT minimum_NN values_NNS in_IN these_DT models_NNS ._.
+Certain_JJ forms_NNS of_IN utility_NN measurements_NNS can_MD also_RB be_VB captured_VBN from_IN property_NN vectors_NNS ._.
+A_DT loss_NN measurement_NN ,_, such_JJ as_IN the_DT general_JJ loss_NN metric_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, computes_VBZ a_DT normalized_VBN loss_NN quantity_NN for_IN every_DT tuple_NN of_IN the_DT data_NNS set_NN ._.
+For_IN such_JJ metrics_NNS ,_, a_DT property_NN vector_NN specifies_VBZ the_DT loss_NN resulting_VBG from_IN each_DT tuple_NN in_IN the_DT data_NN set_NN ._.
+Thereafter_RB ,_, the_DT quality_NN index_NN i_FW

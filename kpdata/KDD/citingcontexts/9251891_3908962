@@ -1,0 +1,5 @@
+essing_VBG privacy_NN ._.
+•_VB It_PRP provides_VBZ an_DT algorithm_NN that_WDT allows_VBZ to_TO perform_VB feature_NN selection_NN in_IN the_DT privacy-preserving_JJ setting_NN ._.
+The_DT criterion_NN is_VBZ based_VBN on_IN our_PRP$ method_NN for_IN constructing_VBG sparse_JJ projection_NN matrices_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, this_DT method_NN is_VBZ related_VBN and_CC adapted_VBN to_TO the_DT privacy-preserving_JJ problem_NN ._.
+One_CD of_IN its_PRP$ key_JJ advantages_NNS is_VBZ that_IN it_PRP builds_VBZ a_DT data_NN representation_NN that_WDT maintains_VBZ the_DT properties_NNS that_WDT are_VBP importan_VBN

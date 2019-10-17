@@ -1,0 +1,7 @@
+e_LS the_DT optimization_NN measure_NN is_VBZ the_DT haplotypediversity_NN proposed_VBN by_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+4_LS ._.
+MDB_NN :_: This_DT is_VBZ a_DT Minimum_NNP Description_NN Length_NN -LRB-_-LRB- MDL_NN -RRB-_-RRB- method_NN proposed_VBN in_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+5_CD ._.
+MDyn_NN :_: This_DT is_VBZ another_DT MDL-based_JJ method_NN proposed_VBN by_IN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Figure_NN 4_CD shows_VBZ the_DT block_NN boundaries_NNS found_VBN by_IN each_DT one_CD of_IN the_DT methods_NNS ._.
+The_DT solid_JJ line_NN shows_VBZ the_DT block_NN boundaries_NNS found_VBN by_IN doing_VBG segmentation_NN aggregation_NN on_IN the_DT results_NNS of_IN the_DT aforementioned_JJ five_CD meth_NN

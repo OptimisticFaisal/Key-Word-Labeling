@@ -1,0 +1,6 @@
+d_NN or_CC they_PRP lie_VBP in_IN different_JJ communities_NNS ._.
+Graph_NN partition_NN and_CC clustering_NN ._.
+There_EX are_VBP a_DT bunch_NN of_IN graph_NN partition_NN and_CC clustering_NN algorithms_NNS proposed_VBN in_IN the_DT literature_NN ,_, e.g._FW METIS_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, spectral_JJ clustering_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, flow_NN simulation_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, co-clusterfing_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, betweenness_NN based_JJ method_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ worth_JJ pointing_VBG out_RP that_IN the_DT proposed_VBN method_NN is_VBZ orthogonal_JJ to_TO the_DT specific_JJ graph_NN partition_NN algorithms_NNS ._.
+3_LS ._.
+PROPOSED_VBN METHOD_NN

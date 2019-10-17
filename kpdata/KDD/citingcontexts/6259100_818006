@@ -1,0 +1,4 @@
+clique_VB a_DT non-negative_JJ and_CC real-valued_JJ potential_JJ function_NN ._.
+2.3.1_CD Using_VBG Frequent_JJ Itemsets_NNS to_TO Construct_VB an_DT MRF_NN The_DT idea_NN of_IN using_VBG frequent_JJ itemsets_NNS to_TO construct_VB an_DT MRF_NN was_VBD first_RB proposed_VBN by_IN Pavlov_NNP et_FW al._FW =_SYM -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT k-itemset_NN and_CC its_PRP$ support_NN represents_VBZ a_DT k-way_NN statistic_NN and_CC can_MD be_VB viewed_VBN as_IN a_DT constraint_NN on_IN the_DT true_JJ underlying_JJ distribution_NN that_WDT generates_VBZ the_DT data_NNS ._.
+Given_VBN a_DT set_NN of_IN itemset_NN constraints_NNS ,_, a_DT maximum_NN

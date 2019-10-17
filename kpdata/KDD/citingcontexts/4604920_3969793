@@ -1,0 +1,5 @@
+intain_JJ holistic_JJ function_NN like_IN MEDIAN_NNP ._.
+The_DT concept_NN of_IN a_DT sliding_VBG window_NN is_VBZ also_RB used_VBN in_IN both_DT -LRB-_-LRB- 20_CD -RRB-_-RRB- and_CC top-k_NN '_'' view_NN in_IN -LRB-_-LRB- 21_CD -RRB-_-RRB- but_CC no_DT in_IN the_DT context_NN of_IN a_DT QC-tree_NN ._.
+Works_NNP on_IN data_NNS warehouse_NN maintenance_NN such_JJ as_IN =_JJ -_: =[_NN 12_CD ,_, 9_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP of_IN clear_JJ relevance_NN to_TO us_PRP ._.
+However_RB ,_, none_NN of_IN them_PRP addresses_VBZ the_DT MEDIAN_NNP maintenance_NN problem_NN ._.
+Our_PRP$ study_NN is_VBZ also_RB closely_RB related_JJ to_TO incremental_JJ concept_NN formation_NN algorithms_NNS based_VBN on_IN Galois_NNP lattice_NN -LRB-_-LRB- 6_CD ,_,

@@ -1,0 +1,4 @@
+ng_NN the_DT curves_NNS in_IN a_DT vector_NN space_NN of_IN dimension_NN L_NN and_CC using_VBG standard_JJ multivariate_JJ clustering_NN techniques_NNS ._.
+For_IN example_NN ,_, one_PRP can_MD use_VB K-means_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- or_CC the_DT model-based_JJ clustering_NN approach_NN of_IN Gaussian_JJ mixtures_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+More_RBR general_JJ techniques_NNS perform_VBP curve_NN clustering_NN directly_RB in_FW 5sthe_FW curve_NN space_NN and_CC ,_, thus_RB ,_, can_MD handle_VB curves_NNS of_IN variable_JJ lengths_NNS -LRB-_-LRB- for_IN example_NN -RRB-_-RRB- in_IN a_DT natural_JJ manner_NN ._.
+These_DT techniques_NNS have_VBP their_PRP$ origins_NNS

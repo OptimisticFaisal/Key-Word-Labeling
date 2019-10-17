@@ -1,0 +1,5 @@
+t_NN performs_VBZ well_RB for_IN large_JJ block_NN segmentation_NN ,_, it_PRP is_VBZ inaccurate_JJ in_IN segmentation_NN related_JJ to_TO small_JJ text_NN blocks_NNS ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- rates_NNS importance_NN between_IN segments_NNS in_IN one_CD web_NN page_NN based_VBN on_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Wrapper_NNP systems_NNS such_JJ as_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: also_RB begin_VB to_TO utilize_VB interfaces_NNS '_POS visual_JJ cues_NNS ._.
+They_PRP are_VBP interested_JJ in_IN detecting_VBG semantic_JJ relations_NNS in_IN repeated_VBN data_NNS records_NNS in_IN the_DT web_NN pages_NNS ._.
+In_IN contrast_NN ,_, we_PRP aim_VBP at_IN segmenting_VBG the_DT whole_JJ page_NN into_IN par_NN

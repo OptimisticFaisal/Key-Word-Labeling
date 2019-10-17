@@ -1,0 +1,5 @@
+a_DT latent_JJ class_NN model_NN ._.
+A_DT two-sided_JJ clustering_NN model_NN is_VBZ proposed_VBN for_IN collaborative_JJ filtering_VBG by_IN Hofmann_NNP and_CC Puzicha_NNP -LRB-_-LRB- 1999_CD -RRB-_-RRB- ._.
+Spectral_JJ graph_NN partitioning_NN has_VBZ also_RB been_VBN applied_VBN to_TO bi-type_JJ relational_JJ data_NNS -LRB-_-LRB- =_JJ -_: =_JJ Dhillon_NNP ,_, 2001_CD -_: =_JJ -_: ;_: H._NNP Zha_NNP &_CC H._NNP Simon_NNP ,_, 2001_CD -RRB-_-RRB- ._.
+These_DT algorithms_NNS formulate_VBP the_DT data_NNS matrix_NN as_IN a_DT bipartite_JJ graph_NN and_CC seek_VB to_TO find_VB the_DT optimal_JJ normalized_VBN cut_NN for_IN the_DT graph_NN ._.
+Due_JJ to_TO the_DT nature_NN of_IN a_DT bipartite_JJ graph_NN ,_, these_DT algor_NN

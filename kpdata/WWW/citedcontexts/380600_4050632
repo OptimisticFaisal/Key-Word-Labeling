@@ -1,0 +1,4 @@
+b_NN queries_NNS when_WRB related_JJ news_NN is_VBZ found_VBN in_IN a_DT small_JJ database_NN of_IN current_JJ articles_NNS ._.
+Henzinger_NNP ,_, et_NNP ._.
+al_NNP study_VBD the_DT task_NN of_IN finding_VBG current_JJ news_NN articles_NNS that_WDT supplement_VBP topics_NNS in_IN a_DT stream_NN of_IN TV_NN broadcast_NN news_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP automatically_RB generate_VBP queries_NNS based_VBN on_IN the_DT broadcast_NN and_CC filter_NN result_NN sets_NNS using_VBG score_NN thresholds_NNS to_TO optimize_VB precision_NN and_CC recall_NN of_IN ranked_VBN search_NN results_NNS ,_, also_RB independently_RB evaluating_VBG thre_NN

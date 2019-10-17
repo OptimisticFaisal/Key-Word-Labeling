@@ -1,0 +1,5 @@
+c_NN Modeling_NN for_IN Browse_NNP and_CC Search_VB :_: Through_IN automatic_JJ topic_NN modeling_NN tools_NNS -LRB-_-LRB- e.g._FW ,_, Figure_NNP 3_CD -RRB-_-RRB- ,_, we_PRP can_MD quickly_RB organize_VB data_NNS by_IN its_PRP$ topic_NN ._.
+We_PRP have_VBP implemented_VBN the_DT approaches_NNS for_IN topic_NN modeling_NN proposed_VBN in_IN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT current_JJ implementation_NN ,_, topics_NNS are_VBP formed_VBN by_IN features_NNS such_JJ as_IN sets_NNS of_IN keywords_NNS ._.
+Keyword_JJ based_JJ topics_NNS can_MD be_VB used_VBN to_TO facilitate_VB a_DT topic-driven_JJ browse_NN and_CC search_NN over_IN the_DT document_NN collection_NN ._.
+F_NN

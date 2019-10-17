@@ -1,0 +1,4 @@
+posed_VBN to_TO address_VB this_DT issue_NN ._.
+Zaki_NNP et_FW al._FW -LRB-_-LRB- ZPOL97_NN -RRB-_-RRB- developed_VBD the_DT algorithms_NNS MaxEclat_NNP and_CC MaxClique_NNP which_WDT ``_`` look_VBP ahead_RB ''_'' during_IN initialization_NN so_IN that_IN long_JJ frequent_JJ itemsets_NNS are_VBP identified_VBN early_RB ._.
+Bayardo_NN =_JJ -_: =_JJ -LRB-_-LRB- B98_NN -RRB-_-RRB- -_: =_SYM -_: presented_VBD an_DT optimized_VBN search_NN method_NN called_VBN Max-Miner_NNP that_WDT prunes_VBZ out_RP subsets_NNS of_IN long_JJ patterns_NNS of_IN frequent_JJ itemsets_NNS that_WDT are_VBP discovered_VBN early_RB ._.
+Gunopulos_NNP et_FW al._FW -LRB-_-LRB- GMS97_NN -RRB-_-RRB- suggested_VBD iteratively_RB extending_VBG

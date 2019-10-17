@@ -1,0 +1,4 @@
+y_NN allowing_VBG weights_NNS to_TO be_VB associated_VBN with_IN items_NNS in_IN each_DT transaction_NN ._.
+Their_PRP$ approach_NN ignores_VBZ the_DT weights_NNS when_WRB finding_VBG frequent_JJ itemsets_NNS ,_, but_CC considers_VBZ during_IN the_DT association_NN rule_NN generation_NN ._.
+Tao_NNP et_FW al._FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD an_DT improved_JJ model_NN of_IN weighted_JJ support_NN measurement_NN and_CC the_DT weighted_JJ downward_JJ closure_NN property_NN ._.
+Yun_NNP et_FW al._FW -LRB-_-LRB- 9_CD -RRB-_-RRB- also_RB considered_VBN weighted_JJ items_NNS in_IN the_DT process_NN of_IN frequent_JJ itemsets_NNS ,_, and_CC the_DT lengt_NN

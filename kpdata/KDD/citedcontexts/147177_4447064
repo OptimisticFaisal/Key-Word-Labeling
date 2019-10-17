@@ -1,0 +1,4 @@
+tropy_NN ,_, and_CC Fmeasures_NNP ._.
+Among_IN them_PRP ,_, F-measures_NNS -LRB-_-LRB- 68_CD -RRB-_-RRB- have_VBP been_VBN used_VBN as_IN an_DT external_JJ clustering_NN result_NN evaluation_NN measure_NN in_IN many_JJ studies_NNS across_IN many_JJ fields_NNS including_VBG information_NN retrieval_NN and_CC text-mining_NN =_JJ -_: =[_NN 18_CD ,_, 52_CD ,_, 53_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Furthermore_RB the_DT F-measure_NN has_VBZ been_VBN successfully_RB applied_VBN to_TO hierarchical_JJ clustering_NN results_NNS -LRB-_-LRB- 52_CD -RRB-_-RRB- ._.
+I_PRP applied_VBD the_DT F-measure_NN to_TO the_DT entire_JJ hierarchical_JJ structure_NN of_IN clustering_NN results_NNS and_CC also_RB to_TO the_DT se_FW

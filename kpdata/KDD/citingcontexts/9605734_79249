@@ -1,0 +1,4 @@
+ed_VBN in_IN parallelizing_VBG stochastic_JJ gradient_NN descent_NN ,_, see_VBP the_DT recent_JJ talk_NN by_IN Delalleau_NNP and_CC Bengio_NNP -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+4.2_CD ǫ-accurate_NN SVM_NN Regression_NN SVM_NN Regression_NN is_VBZ another_DT state_NN of_IN the_DT art_NN method_NN for_IN regression_NN tasks_NNS =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, SVM_NN solvers_NNS typically_RB scale_VBP poorly_RB with_IN large_JJ training_NN set_NN sizes_NNS ._.
+We_PRP considered_VBD the_DT use_NN of_IN parallelized_FW SVMs_FW ,_, but_CC preferred_VBD a_DT faster_JJR method_NN that_WDT yields_VBZ an_DT ǫ-accurate_NN model_NN :_: the_DT Pegasos_NNP -LRB-_-LRB- Pri_NNP

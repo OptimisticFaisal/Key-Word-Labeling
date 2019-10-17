@@ -1,0 +1,4 @@
+wo_MD relevant_JJ areas_NNS :_: time_NN series_NN data_NNS management_NN and_CC anomaly_NN detection_NN ._.
+Since_IN trajectory_NN is_VBZ a_DT special_JJ type_NN of_IN time_NN series_NN ,_, we_PRP review_VBP some_DT work_NN in_IN time_NN series_NN databases_NNS ._.
+Agrawal_NNP et_FW al._FW 's_POS pioneering_JJ work_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ DFT_NNP -LRB-_-LRB- discrete_JJ fourier_NN transform_VB -RRB-_-RRB- to_TO reduce_VB the_DT dimensionality_NN of_IN time_NN series_NN and_CC then_RB conducts_VBZ the_DT search_NN in_IN the_DT reduced_VBN dimensional_JJ space_NN ._.
+Later_RB on_IN ,_, Faloutsos_NNP et_FW al._FW -LRB-_-LRB- 11_CD -RRB-_-RRB- propose_VBP a_DT general_JJ fram_NN

@@ -1,0 +1,5 @@
+as_IN SPAD_NNP does_VBZ -RRB-_-RRB- ,_, it_PRP also_RB monitors_VBZ subnets_NNS ,_, TCP_NN state_NN flags_NNS ._.
+Sessions_NNP which_WDT do_VBP not_RB match_VB any_DT learned_VBN category_NN -LRB-_-LRB- normal_JJ or_CC known_JJ attack_NN -RRB-_-RRB- are_VBP flagged_VBN as_IN anomalous_JJ -LRB-_-LRB- novel_JJ attack_NN -RRB-_-RRB- ._.
+PHAD_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, ALAD_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, LERAD_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, NETAD_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- differ_VBP in_IN the_DT attributes_NNS that_IN they_PRP monitor_VBP ._.
+PHAD_NN -LRB-_-LRB- Packet_NN Header_NNP Anomaly_NNP Detector_NNP -RRB-_-RRB- has_VBZ 34_CD attributes_NNS ,_, corresponding_VBG to_TO the_DT Ethernet_NNP ,_, IP_NNP ,_, TCP_NNP ,_, UDP_NNP ,_, and_CC ICMP_NN packet_NN header_NN fields_NNS ._.
+It_PRP builds_VBZ a_DT

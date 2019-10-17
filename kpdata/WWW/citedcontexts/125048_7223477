@@ -1,0 +1,4 @@
+ystem_NN ._.
+2.2_CD Related_NNP Work_NNP The_NNP W3C_NNP Named_VBD Graph_NNP Interest_NNP Group_NNP 3_CD is_VBZ working_VBG on_IN an_DT approach_NN to_TO define_VB a_DT way_NN to_TO represent_VB a_DT graph_NN as_IN an_DT object_NN in_IN an_DT RDF_NN KB_NN ._.
+A_DT substantial_JJ article_NN has_VBZ been_VBN published_VBN in_IN 2005_CD =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC implementational_JJ results_NNS are_VBP now_RB part_NN of_IN the_DT Named_VBN Graphs_NNP API_NNP for_IN Jena_NNP -LRB-_-LRB- NG4J_NN -RRB-_-RRB- 4_CD ._.
+This_DT approach_NN has_VBZ mainly_RB been_VBN driven_VBN by_IN the_DT need_NN for_IN developing_VBG a_DT trust_NN model_NN in_IN RDF_NNP ,_, but_CC it_PRP could_MD also_RB serve_VB as_IN

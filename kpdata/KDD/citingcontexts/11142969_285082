@@ -1,0 +1,4 @@
+on_IN directed_JJ weighted_JJ graphs_NNS -LRB-_-LRB- e.g._FW ,_, the_DT web_NN ,_, social_JJ networks_NNS ,_, citations_NNS -RRB-_-RRB- ,_, where_WRB influence_NN is_VBZ assumed_VBN to_TO propagate_VB through_IN the_DT edges_NNS ._.
+Methods_NNS such_JJ as_IN authority_NN computation_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, random_JJ graph_NN simulations_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: and_CC random_JJ walks_VBZ -LRB-_-LRB- 3_LS -RRB-_-RRB- all_DT take_VBP advantage_NN of_IN the_DT edge_NN structure_NN ._.
+However_RB ,_, in_IN our_PRP$ setting_VBG no_DT edges_NNS are_VBP present_JJ ._.
+Adding_VBG artificial_JJ edges_NNS -LRB-_-LRB- formally_RB known_VBN as_IN `_`` link_NN prediction_NN '_'' -RRB-_-RRB- is_VBZ a_DT complicated_JJ and_CC challen_NN

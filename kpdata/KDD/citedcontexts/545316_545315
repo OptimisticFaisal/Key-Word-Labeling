@@ -1,0 +1,4 @@
+0,1_CD -RRB-_-RRB- ,_, with_IN no_DT false_JJ positive_JJ and_CC 100_CD %_NN true_JJ positive_JJ examples_NNS ._.
+ROC_NN curve_NN has_VBZ no_DT sensitivities_NNS to_TO the_DT ratio_NN of_IN positives_NNS and_CC negatives_NNS examples_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- as_IN opposed_VBN to_TO other_JJ accuracy_NN measures_NNS such_JJ as_IN Fscore_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD advantage_NN of_IN ROC_NN curves_NNS is_VBZ to_TO naturally_RB accommodate_VB ill-balanced_JJ distributions_NNS and_CC costsensitive_JJ learning_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+The_DT area_NN under_IN the_DT ROC_NN curve_NN -LRB-_-LRB- AUC_NN -RRB-_-RRB- is_VBZ thus_RB viewed_VBN as_IN a_DT global_JJ measure_NN of_IN the_DT learni_NNS

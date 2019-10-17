@@ -1,0 +1,5 @@
+ld_RB be_VB very_RB difficult_JJ and_CC timeconsuming_JJ to_TO gather_VB relevance_NN judgments_NNS for_IN every_DT combination_NN of_IN reviewers_NNS and_CC papers_NNS ,_, most_JJS of_IN which_WDT will_MD not_RB be_VB relevant_JJ ._.
+As_IN a_DT result_NN ,_, we_PRP use_VBP pooled_JJ relevance_NN judgments_NNS -LRB-_-LRB- =_JJ -_: =_JJ Buckley_NNP and_CC Voorhees_NNP ,_, 2004_CD -_: =-]_CD ._.
+In_IN this_DT method_NN ,_, we_PRP ask_VBP each_DT model_NN to_TO rank_VB the_DT reviewers_NNS for_IN each_DT paper_NN ._.
+We_PRP then_RB take_VBP the_DT top_JJ five_CD reviewers_NNS from_IN each_DT ranked_VBN list_NN and_CC merge_VB them_PRP ,_, removing_VBG duplicates_NNS ._.
+This_DT pool_NN of_IN reviewers_NNS is_VBZ then_RB

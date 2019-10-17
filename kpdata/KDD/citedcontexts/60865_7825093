@@ -1,0 +1,4 @@
+-LRB-_-LRB- 6_CD -RRB-_-RRB- was_VBD used_VBN as_IN a_DT ranking_JJ algorithm_NN and_CC the_DT function_NN f_SYM was_VBD chosen_VBN to_TO be_VB -_: log_NN -LRB-_-LRB- z_SYM -RRB-_-RRB- ._.
+A._NN Measure_NN functions_VBZ Kendall_NNP 's_POS τ_NN ._.
+This_DT is_VBZ used_VBN for_IN comparing_VBG the_DT ordinal_JJ correlation_NN between_IN two_CD sequences_NNS of_IN numbers_NNS =_JJ -_: =[_NN 9_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Thus_RB we_PRP have_VBP to_TO define_VB the_DT values_NNS C_NN and_CC D_NN that_IN τ_NN applies_VBZ :_: C_NN is_VBZ the_DT number_NN of_IN concordant_JJ pairs_NNS ,_, D_NN is_VBZ the_DT number_NN of_IN discordant_JJ pairs_NNS ,_, and_CC an_DT i_FW ,_, j_NN pair_NN is_VBZ concordant_JJ if_IN both_DT sequences_NNS order_VBP it_PRP in_IN the_DT sa_NN

@@ -1,0 +1,4 @@
+ten_CD as_IN xi_NN in_IN the_DT same_JJ manner_NN ._.
+xi_NN is_VBZ often_RB thought_VBN of_IN as_IN time_NN so_IN that_DT xij_NN gives_VBZ the_DT time_NN at_IN which_WDT yij_NN was_VBD observed_VBN ._.
+Regression_NN mixture_NN models_NNS can_MD be_VB effectively_RB used_VBN to_TO cluster_VB this_DT type_NN of_IN curve_NN data_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT standard_JJ setup_NN ,_, yi_FW is_VBZ modelled_VBN using_VBG a_DT normal_JJ -LRB-_-LRB- Gaussian_JJ -RRB-_-RRB- regression_NN model_NN in_IN which_WDT yi_NN =_JJ Xiβ_NN +_CC ɛi_NN ,_, where_WRB β_NN is_VBZ a_DT -LRB-_-LRB- p_NN +1_NN -RRB-_-RRB- ×_NN 1_CD coefficient_NN vector_NN ,_, ɛi_FW is_VBZ a_DT zero-mean_JJ Gaussian_JJ noise_NN variable_NN ,_, and_CC Xi_NN is_VBZ t_NN

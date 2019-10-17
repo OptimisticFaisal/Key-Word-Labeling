@@ -1,0 +1,3 @@
+makes_VBZ algorithm_NN BIRCH_NNP be_VB properly_RB applicable_JJ to_TO data_NN sets_NNS only_RB consisting_VBG of_IN isotropic_JJ clusters_NNS ._.
+Specifically_RB ,_, chain-like_JJ and_CC concentric_JJ clusters_NNS are_VBP difficult_JJ to_TO be_VB identified_VBN by_IN algorithm_NN BIRCH_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Consequently_RB ,_, it_PRP is_VBZ noted_VBN that_IN in_IN most_JJS related_JJ studies_NNS ,_, the_DT dissimilarity_NN between_IN two_CD clusters_NNS is_VBZ defined_VBN as_IN the_DT distance_NN between_IN their_PRP$ centroids_NNS ,_, or_CC the_DT distance_NN between_IN two_CD closest_JJS -LRB-_-LRB- or_CC farthest_JJS -RRB-_-RRB- d_NN

@@ -1,0 +1,4 @@
+that_IN the_DT function_NN be_VB symmetric_JJ ,_, that_DT is_VBZ ,_, Dist_NNP -LRB-_-LRB- Q_NNP ,_, C_NN -RRB-_-RRB- =_JJ Dist_NN -LRB-_-LRB- C_NN ,_, Q_NNP -RRB-_-RRB- ._.
+As_IN a_DT concrete_JJ instantiation_NN of_IN a_DT distance_NN function_NN ,_, we_PRP define_VBP the_DT most_RBS common_JJ distance_NN measure_NN for_IN time_NN series_NN ,_, Euclidean_JJ distance_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Definition_NN 5_CD ._.
+Euclidean_NNP Distance_NNP :_: Given_VBN two_CD time_NN series_NN Q_NNP and_CC C_NN of_IN length_NN n_NN ,_, the_DT Euclidean_JJ distance_NN between_IN them_PRP is_VBZ defined_VBN as_IN ED_NN n_NN -LRB-_-LRB- Q_NNP ,_, C_NN -RRB-_-RRB- ≡_FW ∑_FW -LRB-_-LRB- q_FW −_FW c_NN -RRB-_-RRB- If_IN the_DT shapes_NNS are_VBP rotationally_RB aligned_VBN ,_, Eucli_NNP

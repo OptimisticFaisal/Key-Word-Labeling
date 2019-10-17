@@ -1,0 +1,11 @@
+Finding_VBG low-entropy_JJ sets_NNS and_CC trees_NNS from_IN binary_JJ data_NNS
+ure_NN for_IN sets_NNS of_IN attributes_NNS -LRB-_-LRB- or_CC items_NNS -RRB-_-RRB- and_CC efficient_JJ algorithms_NNS have_VBP been_VBN proposed_VBN to_TO mine_VB the_DT maximally_RB informative_JJ k-itemsets_NNS as_IN in_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+Algorithms_NNS have_VBP been_VBN proposed_VBN to_TO find_VB low-entropy_JJ sets_NNS as_IN in_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: where_WRB they_PRP introduced_VBD two_CD kinds_NNS of_IN low_JJ entropy_NN trees_NNS and_CC discussed_VBD their_PRP$ properties_NNS ._.
+In_IN the_DT NIFS_NN method_NN -LRB-_-LRB- 32_CD -RRB-_-RRB- ,_, the_DT authors_NNS explore_VBP the_DT problem_NN of_IN finding_VBG nonredundant_JJ high_JJ order_NN correlations_NNS in_IN binary_JJ
+ormative_JJ patterns_NNS ,_, typically_RB in_IN the_DT order_NN of_IN tens_NNS of_IN patterns_NNS ,_, that_WDT are_VBP both_DT readable_JJ and_CC provide_VB intuitive_JJ descriptions_NNS of_IN the_DT data_NNS ._.
+The_DT method_NN is_VBZ inspired_VBN by_IN two_CD recent_JJ approaches_NNS :_: low-entropy_JJ sets_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT MDL-based_JJ method_NN KRIMP_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+569_CD Copyright_NNP ©_NNP by_IN SIAM_NNP ._.
+Unauthorized_JJ reproduction_NN of_IN this_DT article_NN is_VBZ prohibited.LE-Set_NN 1_CD Species_NNP ..._: Felis_NNP Sylvestris_NNP Microt_NNP ._.
+Arvalis_NNP Microt_NNP ._.
+Subter_NN ._.
+Mustela_FW Pu_FW

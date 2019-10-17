@@ -1,0 +1,4 @@
+s_NN but_CC is_VBZ computationally_RB more_RBR attractive_JJ since_IN it_PRP solves_VBZ a_DT linear_JJ optimization_NN problem_NN instead_RB of_IN a_DT quadratic_JJ problem_NN ._.
+We_PRP briefly_RB discuss_VBP the_DT MPSVM_NNP formulation_NN in_IN this_DT section_NN ._.
+Our_PRP$ discussion_NN follows_VBZ =_JJ -_: =[_NN 5,6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Let_VB ,_, X_NN =_JJ -LCB-_-LRB- x1_NN ,_, x2_NN ,_, ..._: xm_IN -RCB-_-RRB- be_VB a_DT set_NN of_IN m_NN points_NNS in_IN n-dimensional_JJ real_JJ space_NN R_NN n_NN represented_VBN by_IN a_DT m_NN ×_CD n_NN matrix_NN A._NN We_PRP consider_VBP the_DT problem_NN of_IN classifying_VBG these_DT points_NNS according_VBG to_TO the_DT membership_NN of_IN e_SYM

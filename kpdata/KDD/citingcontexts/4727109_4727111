@@ -1,0 +1,4 @@
+520_CD were_VBD identified_VBN as_IN abnormal_JJ and_CC 1,506_CD were_VBD identified_VBN as_IN normal_JJ ._.
+All_PDT the_DT data_NNS records_NNS have_VBP been_VBN normalized_VBN and_CC rescaled_VBN to_TO have_VB length_NN 85_CD -LRB-_-LRB- recent_JJ results_NNS suggest_VBP that_IN we_PRP lose_VBP nothing_NN by_IN rescaling_VBG =_JJ -_: =[_NN 35_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+We_PRP randomly_RB split_VBD the_DT data_NNS ,_, using_VBG half_NN for_IN training_NN and_CC half_NN for_IN testing_NN ,_, sas_NNS summarized_VBN in_IN Table_NNP 3_CD ._.
+Because_IN usually_RB cardiologists_NNS are_VBP more_RBR interested_JJ in_IN the_DT occurrences_NNS of_IN the_DT abnormal_JJ heartbeats_NNS ,_,

@@ -1,0 +1,4 @@
+where_WRB N_NN ¬_FW nd_FW wk_NN ,_, N_NN ¬_FW nd_FW k_NN ,_, and_CC N_NN ¬_FW nd_FW kd_NN are_VBP expected_JJ counts_NNS derived_VBN from_IN q_NN -LRB-_-LRB- z_SYM -RRB-_-RRB- ._.
+For_IN more_JJR details_NNS ,_, see_VBP Asuncion_NNP et_FW al._FW -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+While_IN other_JJ algorithms_NNS such_JJ as_IN fast_RB collapsed_VBN Gibbs_NNP sampling_NN can_MD also_RB be_VB used_VBN =_JJ -_: =[_NN 40_CD -RRB-_-RRB- -_: =_JJ -_: ,_, CVB0_NN is_VBZ very_RB fast_RB --_: later_RB in_IN the_DT paper_NN we_PRP will_MD show_VB timing_NN results_NNS when_WRB applying_VBG CVB0_NN to_TO software_NN artifacts_NNS ._.
+Furthermore_RB ,_, topic_NN modeling_NN can_MD easily_RB scale_VB to_TO hundreds_NNS of_IN thousands_NNS of_IN artifacts_NNS ,_, espec_NN

@@ -1,0 +1,4 @@
+ion_NN ,_, the_DT case_NN when_WRB different_JJ entities_NNS hold_VBP the_DT same_JJ input_NN features_NNS for_IN different_JJ groups_NNS of_IN data_NNS points_NNS -LRB-_-LRB- individuals_NNS -RRB-_-RRB- ._.
+For_IN example_NN ,_, the_DT horizontal_JJ case_NN has_VBZ been_VBN addressed_VBN recently_RB in_IN special_JJ scenarios_NNS =_JJ -_: =[_NN 20_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: by_IN privacy-preserving_JJ SVMs_NNS and_CC induction_NN tree_NN classifiers_NNS ._.
+We_PRP concentrate_VBP on_IN horizontal_JJ privacy-preserving_JJ data_NNS mining_NN ._.
+In_IN the_DT vertical_JJ data_NNS distribution_NN scenario_NN ,_, the_DT entities_NNS have_VBP some_DT subset_NN of_IN fe_NN

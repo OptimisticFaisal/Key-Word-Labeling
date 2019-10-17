@@ -1,0 +1,5 @@
+are_VBP averaged_VBN across_IN the_DT texts_NNS in_IN the_DT held-out_JJ half_NN of_IN the_DT training_NN set_NN ._.
+The_DT ``_`` No_DT ranking_NN ''_'' row_NN shows_VBZ the_DT overall_JJ acceptability_NN rate_NN for_IN all_DT questions_NNS in_IN the_DT held-out_JJ half_NN ._.
+optimize_VB evaluation_NN metrics_NNS -LRB-_-LRB- =_JJ -_: =_JJ Chakrabarti_NNP et_FW al._FW ,_, 2008_CD -_: =_JJ -_: ;_: Xu_NNP and_CC Li_NNP ,_, 2007_CD -RRB-_-RRB- ,_, could_MD lead_VB to_TO improved_JJ ranking_JJ performance_NN ._.
+21_CD We_PRP leave_VBP the_DT exploration_NN of_IN such_JJ models_NNS to_TO future_JJ work_NN ._.
+4.8_CD Further_JJ Analyses_NNS of_IN Question_NNP Ranking_NNP Next_NNP ,_, we_PRP discuss_VBP some_DT exploratory_NN an_DT

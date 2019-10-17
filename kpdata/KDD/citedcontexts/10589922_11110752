@@ -1,0 +1,4 @@
+ss_NN over_IN the_DT SVMs_NNS for_IN the_DT positive_JJ examples_NNS ,_, and_CC to_TO minimize_VB the_DT product_NN of_IN the_DT hinge_NN losses_NNS for_IN the_DT negative_JJ examples_NNS ._.
+An_DT approximate_JJ solution_NN to_TO this_DT formulation_NN is_VBZ found_VBN via_IN cyclic_JJ optimization_NN ._.
+In_IN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: the_DT authors_NNS present_VBP a_DT method_NN similar_JJ to_TO ours_PRP ,_, jointly_RB optimizing_VBG a_DT cascade_NN using_VBG the_DT product_NN of_IN the_DT output_NN of_IN individual_JJ logistic_JJ regression_NN base_NN classifiers_NNS ._.
+Their_PRP$ method_NN attempts_VBZ to_TO find_VB the_DT MAP-es_NNS

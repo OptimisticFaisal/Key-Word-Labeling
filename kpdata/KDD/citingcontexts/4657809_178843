@@ -1,0 +1,4 @@
+ly_RB the_DT patterns_NNS the_DT user_NN is_VBZ interested_JJ in_IN ._.
+So_RB ,_, we_PRP are_VBP left_VBN with_IN two_CD choices_NNS ._.
+We_PRP can_MD be_VB optimistic_JJ ,_, and_CC define_VB a_DT test_NN that_WDT accepts_VBZ only_RB a_DT small_JJ -LRB-_-LRB- polynomial_JJ -RRB-_-RRB- number_NN of_IN patterns_NNS -LRB-_-LRB- the_DT ``_`` top_JJ k_NN ''_'' approach_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =-[_CD 9_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+The_DT problem_NN here_RB is_VBZ that_IN there_EX are_VBP typically_RB an_DT exponential_JJ number_NN of_IN candidate_NN patterns_NNS ,_, so_IN any_DT ``_`` selective_JJ ''_'' test_NN must_MD be_VB exponentially_RB selective_JJ ;_: thus_RB ,_, we_PRP run_VBP the_DT risk_NN of_IN missing_VBG some_DT or_CC all_DT of_IN

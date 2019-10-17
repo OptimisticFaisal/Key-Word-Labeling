@@ -1,0 +1,4 @@
+into_IN a_DT sequence_NN of_IN directional_JJ data_NNS items_NNS -LRB-_-LRB- a_DT time_NN series_NN of_IN normalized_VBN vectors_NNS -RRB-_-RRB- ._.
+For_IN vector_NN series_NN without_IN normalization_NN ,_, unsupervised_JJ anomaly_JJ detection_NN techniques_NNS are_VBP extensively_RB discussed_VBN in_IN Refs_NNS ._.
+=_SYM -_: =[_NN 24_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: based_VBN on_IN the_DT normal_JJ mixture_NN model_NN -LRB-_-LRB- Note_NN that_IN traditional_JJ rule-based_JJ approaches_NNS are_VBP not_RB appropriate_JJ in_IN this_DT case_NN since_IN the_DT signs_NNS of_IN faults_NNS are_VBP hidden_VBN deep_RB inside_IN the_DT systems_NNS -RRB-_-RRB- ._.
+However_RB ,_, the_DT normal_JJ mixt_NN

@@ -1,0 +1,3 @@
+ng_NN ,_, based_VBN on_IN the_DT semantics_NNS of_IN several_JJ software_NN modeling_NN languages_NNS ,_, has_VBZ been_VBN proposed_VBN to_TO extract_VB frequent_JJ repetitive_JJ series_NN of_IN events_NNS from_IN program_NN execution_NN traces_NNS as_IN candidate_NN software_NN specifications_NNS =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Iterative_JJ pattern_NN mining_NN considers_VBZ ordering_VBG among_IN events_NNS in_IN the_DT traces_NNS ._.
+It_PRP further_RB takes_VBZ into_IN account_NN repeated_JJ occurrences_NNS of_IN patterns_NNS both_CC within_IN a_DT sequence_NN and_CC across_IN multiple_JJ sequences_NNS to_TO address_VB

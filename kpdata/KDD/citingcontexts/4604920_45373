@@ -1,0 +1,4 @@
+lasses_NNS ._.
+•_RB We_PRP propose_VBP a_DT novel_JJ sliding_VBG window_NN technique_NN to_TO efficiently_RB recompute_VB the_DT updated_VBN MEDIAN_NNP for_IN all_DT equivalence_JJ classes_NNS ._.
+•_NN By_IN relating_VBG quotient_JJ cube_NN to_TO well_RB established_JJ theory_NN of_IN Galois_NNP lattice_NN =_JJ -_: =[_NN 6_CD ,_, 4_CD ,_, 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP derive_VBP principles_NNS of_IN maintaining_VBG quotient_JJ cube_NN ._.
+With_IN the_DT principles_NNS ,_, addset_JJ data_NNS structures_NNS and_CC sliding_VBG window_NN technique_NN ,_, we_PRP develop_VBP efficient_JJ algorithms_NNS for_IN maintaining_VBG a_DT quotient_JJ cube_NN with_IN holi_NN

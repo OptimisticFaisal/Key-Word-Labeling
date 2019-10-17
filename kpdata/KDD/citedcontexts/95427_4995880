@@ -1,0 +1,4 @@
+ed_VBN by_IN space_NN ,_, we_PRP give_VBP only_RB a_DT brief_JJ survey_NN of_IN the_DT related_JJ research_NN ._.
+There_EX has_VBZ been_VBN some_DT research_NN in_IN classification_NN in_IN data_NNS streams_NNS :_: either_CC on_IN learning_VBG a_DT single_JJ classifier_NN -LRB-_-LRB- 4_CD ,_, 5_CD -RRB-_-RRB- or_CC a_DT set_NN of_IN classifiers_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Hulten_NNP et_FW al._FW -LRB-_-LRB- 5_CD ,_, 7_CD -RRB-_-RRB- build_VBP decision_NN trees_NNS in_IN data_NNS streams_NNS from_IN nominal_JJ domains_NNS under_IN the_DT i.i.d._NN assumption_NN on_IN a_DT stationary_JJ or_CC a_DT slowly_RB shifting_VBG distribution_NN ._.
+They_PRP make_VBP a_DT clever_JJ use_NN of_IN the_DT Hoeffding_NN

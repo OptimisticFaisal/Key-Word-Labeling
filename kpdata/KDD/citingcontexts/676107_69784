@@ -1,0 +1,5 @@
+NE_NN In_IN order_NN to_TO make_VB use_NN of_IN a_DT faster_JJR linear_JJ programming_NN based_VBN approach_NN ,_, instead_RB of_IN the_DT standard_JJ quadratic_JJ programming_NN formulation_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, we_PRP reformulate_VBP -LRB-_-LRB- 1_LS -RRB-_-RRB- by_IN replacing_VBG the_DT 2-norm_NN by_IN a_DT 1-norm_NN as_IN follows_VBZ =_JJ -_: =[_NN 14_CD ,_, 2_CD -RRB-_-RRB- -_: =_JJ -_: :_: min_NN -LRB-_-LRB- w_NN ,_, \/_: ,_, y_NN -RRB-_-RRB- CRn_NN +_CC l_NN +_CC m_NN ._.
+c_NN '_POS y_NN +_CC Ilmll_NN ._.
+Y_NN -RRB-_-RRB- y_NN +_CC Y_NN -RRB-_-RRB- lml_FW i_FW =_JJ i_FW j_FW =_JJ i_FW D_NN -LRB-_-LRB- Aw_UH -_: e7_NN -RRB-_-RRB- +_CC y_FW __FW -RRB-_-RRB- e_SYM y_FW __FW -RRB-_-RRB- 0_CD ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- This_NNP S_NNP VMII_NNP ._.
+I_NN reformulation_NN in_IN effect_NN maximizes_VBZ the_DT margin_NN ,_, the_DT distance_NN between_IN the_DT two_CD bounding_VBG planes_NNS of_IN Figure_NNP

@@ -1,0 +1,4 @@
+comparing_VBG the_DT content_NN variations_NNS over_IN different_JJ views_NNS -LRB-_-LRB- authors_NNS -RRB-_-RRB- -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+3_LS ._.
+A_DT CONTEXTUAL_NNP MIXTURE_NNP MODEL_NNP In_IN this_DT section_NN ,_, we_PRP propose_VBP an_DT extension_NN of_IN the_DT Probabilistic_JJ Latent_JJ Semantic_JJ Analysis_NN -LRB-_-LRB- PLSA_NN -RRB-_-RRB- model_NN =_JJ -_: =[_NN 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, called_VBN Contextual_NNP Probabilistic_NNP Latent_JJ Semantic_JJ Analysis_NN -LRB-_-LRB- CPLSA_NN -RRB-_-RRB- model_NN ,_, for_IN contextual_JJ text_NN mining_NN ._.
+Our_PRP$ main_JJ idea_NN is_VBZ to_TO allow_VB a_DT document_NN to_TO be_VB generated_VBN using_VBG multiple_JJ views_NNS and_CC multiple_JJ coverages_NNS ._.

@@ -1,0 +1,5 @@
+y_NN ,_, the_DT approach_NN becomes_VBZ much_RB less_RBR sensitive_JJ to_TO input_NN parameters_NNS ._.
+Furthermore_RB ,_, an_DT exact_JJ algorithm_NN is_VBZ introduced_VBN for_IN outlier_NN detection_NN based_VBN on_IN the_DT LOCI_NN model_NN ._.
+The_DT resolution-based_JJ outlier_NN factor_NN -LRB-_-LRB- ROF_NN -RRB-_-RRB- =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT mix_NN of_IN the_DT local_JJ and_CC the_DT global_JJ outlier_NN paradigm_NN ._.
+Theoutlier_FW schema_FW is_VBZ based_VBN on_IN the_DT idea_NN of_IN a_DT change_NN of_IN resolution_NN ._.
+Roughly_RB ,_, the_DT ``_`` resolution_NN ''_'' specifies_VBZ the_DT number_NN of_IN objects_NNS considered_VBN to_TO be_VB ne_NN

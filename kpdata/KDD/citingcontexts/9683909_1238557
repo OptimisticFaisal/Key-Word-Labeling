@@ -1,0 +1,4 @@
+lity_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, if_IN the_DT support_NN is_VBZ set_VBN too_RB low_JJ -LRB-_-LRB- such_JJ as_IN -LRB-_-LRB- 3_CD %_NN -RRB-_-RRB- ,_, the_DT program_NN simply_RB may_MD not_RB finish_VB since_IN the_DT virtual_JJ memory_NN can_MD be_VB exhausted_VBN ._.
+State-of-the-art_JJ frequent_JJ pattern_NN mining_NN algorithms_NNS =_JJ -_: =[_NN 9_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: employ_VB a_DT batch_NN process_NN ,_, which_WDT first_RB enumerates_VBZ features_NNS above_IN the_DT given_VBN support_NN and_CC then_RB performs_VBZ feature_NN selection_NN on_IN this_DT initial_JJ pool_NN ,_, as_IN shown_VBN in_IN Figure_NNP 1_CD -LRB-_-LRB- a_DT -RRB-_-RRB- ._.
+Research_NN interests_NNS in_IN this_DT area_NN foc_NN

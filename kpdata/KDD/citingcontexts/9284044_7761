@@ -1,0 +1,3 @@
+oach_NN to_TO Collaborative_NNP Filtering_NNP with_IN the_DT more_RBR holistic_JJ goal_NN to_TO uncover_VB latent_JJ features_NNS that_WDT explain_VBP observed_VBN ratings_NNS ;_: examples_NNS include_VBP pLSA_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, neural_JJ networks_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, and_CC Latent_JJ Dirichlet_NN Allocation_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP will_MD focus_VB on_IN models_NNS that_WDT are_VBP induced_VBN by_IN Singular_JJ Value_NN Decomposition_NN -LRB-_-LRB- SVD_NN -RRB-_-RRB- on_IN the_DT user-item_JJ ratings_NNS matrix_NN ._.
+Recently_RB ,_, SVD_NNP models_NNS have_VBP gained_VBN popularity_NN ,_, thanks_NNS to_TO their_PRP$ attractive_JJ accuracy_NN and_CC s_NN

@@ -1,0 +1,4 @@
+e_LS co-occurrence_JJ statistics_NNS of_IN terms_NNS appearing_VBG in_IN documents_NNS by_IN representing_VBG document-term_JJ relations_NNS via_IN a_DT bipartite_JJ graph_NN ._.
+Many_JJ algorithms_NNS have_VBP been_VBN developed_VBN for_IN clustering_NN in_IN bipartite_JJ graphs_NNS ,_, i.e._FW ,_, =_JJ -_: =[_NN 9,2,8,4,3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT underlying_VBG intuition_NN behind_IN these_DT approaches_NNS is_VBZ that_IN the_DT similarities_NNS among_IN one_CD type_NN of_IN object_NN can_MD be_VB used_VBN by_IN the_DT other_JJ type_NN of_IN object_NN for_IN clustering_NN ._.
+One_CD obvious_JJ limitation_NN of_IN existing_VBG co-clust_NN

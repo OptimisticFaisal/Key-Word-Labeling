@@ -1,0 +1,3 @@
+ng_NN technique_NN may_MD not_RB directly_RB be_VB applied_VBN to_TO a_DT spatiotemporal_JJ sequence_NN since_IN each_DT spatial_JJ location_NN in_IN such_JJ sequences_NNS is_VBZ in_IN the_DT form_NN of_IN spatial_JJ coordinates_VBZ and_CC does_VBZ not_RB typically_RB repeat_VB itself_PRP exactly_RB ._.
+=_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: discretized_VBN real-valued_JJ time_NN series_NN prior_RB to_TO mining_NN and_CC then_RB identified_VBD the_DT most_RBS common_JJ subsequences_NNS in_IN them_PRP ._.
+The_DT mined_VBN patterns_NNS are_VBP not_RB essentially_RB periodic_JJ and_CC they_PRP are_VBP contiguous_JJ -LRB-_-LRB- i.e._FW ,_, there_EX are_VBP

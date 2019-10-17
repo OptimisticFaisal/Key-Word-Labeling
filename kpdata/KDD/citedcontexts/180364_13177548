@@ -1,0 +1,5 @@
+O_NN -LRB-_-LRB- M_NN 2_CD N_NN -RRB-_-RRB- ._.
+For_IN very_RB large_JJ N_NN ,_, -LRB-_-LRB- e.g._FW ,_, N_NN -RRB-_-RRB- 10_CD 7_CD -RRB-_-RRB- this_DT can_MD be_VB a_DT considerable_JJ burden_NN ._.
+To_TO solve_VB this_DT computational_JJ problem_NN ,_, several_JJ lower-bound_JJ algorithms_NNS have_VBP been_VBN proposed_VBN for_IN DTW_NN search_NN in_IN large_JJ databases_NNS =_JJ -_: =[_NN 7_CD ,_, 8_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT basic_JJ idea_NN behind_IN lower-bounded_JJ DTW_NN is_VBZ similar_JJ in_IN concept_NN to_TO the_DT use_NN of_IN the_DT future_JJ underestimate_NN incorporated_VBN into_IN A_DT ∗_JJ graph_NN search_NN ._.
+To_TO start_VB ,_, N_NN lower-bound_JJ DTW_NN estimates_NNS are_VBP quickly_RB computed_VBN be_VB

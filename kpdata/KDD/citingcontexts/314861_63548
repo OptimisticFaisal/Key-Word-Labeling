@@ -1,0 +1,5 @@
+ing_IN a_DT number_NN of_IN threshold_NN values_NNS ._.
+We_PRP then_RB look_VBP at_IN the_DT cleaned_VBN pages_NNS ,_, and_CC according_VBG to_TO these_DT cleaned_VBN pages_NNS ,_, we_PRP set_VBD the_DT final_JJ threshold_NN ._.
+4.2.1_CD Clustering_NN We_PRP use_VBP the_DT popular_JJ k-means_NN clustering_NN algorithm_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP put_VBD all_PDT the_DT 5_CD categories_NNS of_IN Web_NN pages_NNS into_IN a_DT big_JJ set_NN ,_, and_CC use_VB the_DT clustering_NN algorithm_NN to_TO cluster_VB them_PRP into_IN 5_CD clusters_NNS ._.
+Since_IN the_DT kmeans_NNS algorithm_NN selects_VBZ the_DT initial_JJ cluster_NN seeds_NNS randomly_RB ,_, we_PRP p_NN

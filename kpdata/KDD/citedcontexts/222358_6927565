@@ -1,0 +1,6 @@
+orm_NN LHS_NN RHS_NN from_IN the_DT session_NN table_NN ._.
+Here_RB LHS_NNP refers_VBZ to_TO the_DT left-hand-side_NN of_IN a_DT rule_NN ,_, whereas_IN RHS_NN the_DT right-hand-side_NN of_IN a_DT rule_NN ._.
+The_DT association_NN rules_NNS have_VBP been_VBN a_DT main_JJ subject_NN of_IN study_NN in_IN data_NNS mining_NN =_JJ -_: =[_NN 4_CD ,_, 5_CD ,_, 6_CD ,_, 8_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ different_JJ methods_NNS below_IN will_NN extract_NN rules_NNS based_VBN on_IN different_JJ criteria_NNS for_IN selecting_VBG the_DT LHS_NNP ._.
+In_IN this_DT work_NN ,_, we_PRP restrict_VBP the_DT RHS_NN in_IN the_DT following_JJ way_NN ._.
+Let_VB -LCB-_-LRB- U1_NN ,_, U2_NN ..._: Un_NN -RCB-_-RRB- be_VB the_DT candidate_NN URL_NN 's_POS for_IN

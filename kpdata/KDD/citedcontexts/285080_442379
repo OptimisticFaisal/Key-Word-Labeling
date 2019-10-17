@@ -1,0 +1,6 @@
+ational_JJ structure_NN of_IN the_DT database_NN ._.
+This_DT basic_JJ structure_NN is_VBZ lacking_VBG when_WRB we_PRP are_VBP classifying_VBG a_DT set_NN of_IN text_NN documents_NNS and_CC our_PRP$ only_JJ features_NNS are_VBP words_NNS ._.
+Our_PRP$ work_NN also_RB differs_VBZ from_IN similar_JJ work_NN by_IN Domingos_NNP =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: as_IN we_PRP use_VBP Gibbs_NNP sampling_NN for_IN training_NN and_CC inference_NN ._.
+8.1_CD Data_NN We_PRP obtained_VBD the_DT data_NNS for_IN this_DT problem_NN as_IN follows_VBZ ._.
+We_PRP crawled_VBD http:\/\/www.senate.gov_NN for_IN the_DT web-pages_NNS of_IN all_DT 105_CD senators_NNS ._.
+This_DT was_VBD our_PRP$ te_NN

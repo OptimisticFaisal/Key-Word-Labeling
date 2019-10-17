@@ -1,0 +1,4 @@
+han_NN in_IN a_DT breadth-first_JJ approach_NN -LRB-_-LRB- see_VB e.g._FW -LRB-_-LRB- 9_CD -RRB-_-RRB- for_IN more_JJR information_NN -RRB-_-RRB- ._.
+Nevertheless_RB ,_, using_VBG simple_JJ heuristics_NNS and_CC fast_JJ support_NN counting_NN techniques_NNS ,_, it_PRP turns_VBZ out_RP not_RB to_TO have_VB a_DT great_JJ effect_NN for_IN most_JJS cases_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN our_PRP$ setting_NN ,_, however_RB ,_, the_DT support_NN computation_NN becomes_VBZ a_DT lot_NN harder_JJR and_CC it_PRP is_VBZ important_JJ to_TO reduce_VB the_DT number_NN of_IN candidate_NN itemsets_NNS to_TO be_VB counted_VBN as_RB much_JJ as_IN possible_JJ ._.
+Fortunately_RB ,_, by_IN generating_VBG al_FW

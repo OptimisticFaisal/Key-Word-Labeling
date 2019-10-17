@@ -1,0 +1,4 @@
+algorithms_NNS ,_, statistical_JJ modeling_NN ,_, approximate_JJ algorithms_NNS ,_, nearest_JJS neighbor_NN 1_CD ._.
+INTRODUCTION_NN One_CD effective_JJ approach_NN for_IN detecting_VBG anomalous_JJ data_NNS points_NNS in_IN a_DT set_NN is_VBZ distance-based_JJ -LRB-_-LRB- DB_NN -RRB-_-RRB- outlier_NN detection_NN =_JJ -_: =[_NN 6_CD ,_, 11_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN DB-outlier_JJ detection_NN ,_, each_DT data_NNS point_NN is_VBZ represented_VBN as_IN a_DT point_NN in_IN a_DT multi-dimensional_JJ feature_NN space_NN and_CC a_DT distance_NN function_NN is_VBZ chosen_VBN based_VBN on_IN domain-specific_JJ requirements_NNS ._.
+Data_NN points_NNS that_WDT are_VBP

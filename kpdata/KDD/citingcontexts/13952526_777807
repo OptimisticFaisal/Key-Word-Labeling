@@ -1,0 +1,5 @@
+on_RB ,_, Paris_NNP are_VBP not_RB the_DT same_JJ ._.
+However_RB ,_, those_DT cases_NNS are_VBP rare_JJ from_IN the_DT statistical_JJ point_NN of_IN view_NN ,_, and_CC therefore_RB for_IN all_DT practical_JJ purposes_NNS words_NNS '_POS ordering_VBG can_MD be_VB ignored_VBN in_IN text_NN classification_NN -LRB-_-LRB- see_VB ,_, e.g._FW =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Figure_NN 4_CD :_: Phrase_NN Classification_NN ._.
+A_DT single_JJ human_JJ icon_NN means_VBZ involvement_NN of_IN the_DT content_NN manager_NN ;_: multiple_JJ human_JJ icons_NNS mean_VBP crowdsourcing_VBG ._.
+techniques_NNS -LRB-_-LRB- such_JJ as_IN shallow_JJ parsing_NN -RRB-_-RRB- ,_, to_TO identify_VB phrases_NNS tha_NN

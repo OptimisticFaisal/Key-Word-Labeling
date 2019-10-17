@@ -1,0 +1,4 @@
+prevents_VBZ constrained_VBN models_NNS with_IN many_JJ components_NNS -LRB-_-LRB- suitable_JJ for_IN high-quality_JJ visualization_NN -RRB-_-RRB- from_IN excessively_RB overfitting_VBG the_DT data_NNS ._.
+The_DT issue_NN of_IN data_NNS explanation_NN vs._CC data_NN prediction_NN is_VBZ covered_VBN e.g._NNP in_IN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO evaluate_VB tendency_NN of_IN our_PRP$ model_NN to_TO overfit_VB the_DT training_NN data_NNS ,_, we_PRP split_VBD the_DT 100_CD Bach_NNP chorals_NNS into_IN training_NN and_CC test_NN sets_NNS containing_VBG 80_CD and_CC 20_CD sequences_NNS ,_, respectively_RB ._.
+The_DT model_NN is_VBZ trained_VBN solely_RB on_IN

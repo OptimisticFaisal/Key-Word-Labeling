@@ -1,0 +1,5 @@
+gh_IN way_NN better_RBR than_IN intractable_JJ ,_, the_DT cubic-time_JJ complexity_NN bound_VBD of_IN Match_NNP is_VBZ still_RB too_RB high_JJ for_IN us_PRP to_TO compute_VB matches_NNS in_IN large_JJ data_NNS graphs_NNS ._.
+Worse_RBR still_RB ,_, in_IN practice_NN data_NNS graphs_NNS are_VBP frequently_RB modified_VBN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP is_VBZ too_RB costly_JJ to_TO recompute_VB matches_NNS every_DT time_NN when_WRB the_DT graphs_NNS are_VBP updated_VBN ._.
+This_DT motivates_VBZ us_PRP to_TO study_VB the_DT incremental_JJ graph_NN pattern_NN matching_NN problem_NN ,_, referred_VBN to_TO as_IN IGPM_NNP ._.
+Given_VBN a_DT graph_NN pattern_NN P_NN ,_,

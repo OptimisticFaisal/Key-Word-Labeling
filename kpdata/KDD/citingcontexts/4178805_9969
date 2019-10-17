@@ -1,0 +1,3 @@
+t_NN rely_VB on_IN spatial_JJ separation_NN of_IN the_DT clusters_NNS ,_, but_CC focuses_VBZ on_IN detecting_VBG subsets_NNS with_IN low_JJ intrinsic_JJ dimensionality_NN ,_, it_PRP can_MD also_RB deal_VB with_IN those_DT cases_NNS ._.
+Another_DT density-based_JJ clustering_NN method_NN is_VBZ DenClue_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT employs_VBZ kernel_NN density_NN estimation_NN and_CC uses_VBZ density_NN thresholds_NNS to_TO define_VB the_DT clusters_NNS to_TO be_VB found_VBN ._.
+CLIQUE_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- is_VBZ a_DT density-based_JJ method_NN that_WDT can_MD also_RB detect_VB subspaces_NNS such_JJ that_IN high-density_JJ clu_NN

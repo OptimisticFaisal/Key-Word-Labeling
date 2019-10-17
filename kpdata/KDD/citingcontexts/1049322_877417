@@ -1,0 +1,6 @@
+from_IN the_DT IND_NN package_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, as_RB well_RB as_IN SLIQ_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, and_CC also_RB visual_JJ classifier_NN PBC_NN ._.
+The_DT results_NNS are_VBP taken_VBN from_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Table_NNP 3_CD shows_VBZ how_WRB PaintingClass_NNP compares_VBZ with_IN CBA_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, C4_NN .5_CD -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, FID_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, and_CC Fuzzy_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT accuracy_NN figures_NNS for_IN these_DT methods_NNS are_VBP taken_VBN from_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+From_IN the_DT experimental_JJ results_NNS ,_, PaintingClass_NN performs_VBZ well_RB compared_VBN with_IN the_DT other_JJ methods_NNS ._.
+In_IN particular_JJ ,_, it_PRP appears_VBZ that_IN PaintingClass_NNP is_VBZ

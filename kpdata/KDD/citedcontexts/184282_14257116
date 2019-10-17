@@ -1,0 +1,5 @@
+dicate_VB a_DT better_JJR neighborhood_NN topology_NN preservation_NN ._.
+It_PRP can_MD be_VB seen_VBN that_IN in_IN each_DT configuration_NN the_DT Gaussian_JJ approach_NN produces_VBZ better_JJR mappings_NNS ._.
+be_VB very_RB expensive_JJ to_TO compute_VB ._.
+By_IN using_VBG random_JJ projections_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: one_PRP can_MD overcome_VB that_IN ,_, but_CC that_DT would_MD probably_RB come_VB with_IN a_DT loss_NN of_IN mapping_NN quality_NN ._.
+A_DT SOM_NN computed_VBN directly_RB with_IN the_DT Gaussians_NNP ,_, on_IN the_DT other_JJ hand_NN ,_, requires_VBZ only_RB a_DT fraction_NN of_IN the_DT computational_JJ effort_NN

@@ -1,0 +1,6 @@
+assified_VBN ._.
+The_DT function_NN values_NNS are_VBP real_JJ numbers_NNS ,_, directly_RB implying_VBG an_DT order_NN on_IN the_DT examples_NNS ._.
+2.2_CD Ranking_NN SVM_NN The_DT performance_NN measures_VBZ APR_NN and_CC RKL_NN depend_VBP on_IN the_DT ordering_VBG of_IN the_DT samples_NNS ._.
+The_DT ranking_JJ SVM_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: addresses_NNS di1_VBP The_DT RBF_NN kernel_NN is_VBZ defined_VBN as_IN K_NN -LRB-_-LRB- x_NN ,_, y_NN -RRB-_-RRB- =_JJ e_SYM −_CD x_CC −_CD y_NN 2_CD \/_: 2γ_NN 2_CD ._.
+SIGKDD_NNP Explorations_NNPS ._.
+Volume_NN 6_CD ,_, Issue_NN 2_CD -_: Page_NNP 128srectly_RB a_DT ranking_JJ problem_NN by_IN learning_VBG -_: in_IN the_DT linear_JJ case_NN -_: a_DT weight_NN vector_NN wh_NN

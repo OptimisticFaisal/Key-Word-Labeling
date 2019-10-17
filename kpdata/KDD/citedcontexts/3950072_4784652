@@ -1,0 +1,5 @@
+statistically_RB significant_JJ LSCs_NNS are_VBP mined_VBN ._.
+The_DT semantics_NNS of_IN LSC_NNP includes_VBZ ordering_VBG constraints_NNS which_WDT are_VBP not_RB considered_VBN in_IN -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+Some_DT work_NN consider_VBP mining_NN frequent_JJ patterns_NNS of_IN software_NN behavior_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+In_IN contrast_NN to_TO our_PRP$ work_NN ,_, the_DT patterns_NNS mined_VBN do_VBP not_RB express_VB inter-object_JJ behavior_NN depicted_VBN using_VBG sequence_NN diagrams_NNS ._.
+Many_JJ work_NN suggest_VBP and_CC implement_VBP different_JJ variants_NNS of_IN reverse_JJ engineering_NN of_IN objec_NN

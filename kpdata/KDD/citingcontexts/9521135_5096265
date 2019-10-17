@@ -1,0 +1,3 @@
+sets_NNS as_RB large_JJ as_IN one_CD million_CD data_NN points_NNS ;_: the_DT largest_JJS experiment_NN that_IN we_PRP are_VBP aware_JJ of_IN for_IN spectral_JJ algorithms_NNS involves_VBZ the_DT MNIST_NNP data_NNS set_NN ,_, which_WDT consists_VBZ of_IN 60,000_CD handwritten_JJ digits_NNS ._.
+In_IN particular_JJ ,_, =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: reported_VBD experiments_NNS using_VBG this_DT data_NN set_NN ,_, where_WRB a_DT total_NN running_VBG time_NN of_IN about_RB 30_CD hours_NNS was_VBD required_VBN when_WRB using_VBG a_DT fast_JJ iterative_JJ algorithm_NN ._.
+5.1_CD Evaluation_NN metrics_NNS We_PRP used_VBD two_CD quantities_NNS to_TO assess_VB the_DT

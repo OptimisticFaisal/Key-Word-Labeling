@@ -1,0 +1,5 @@
+mplemented_VBN in_IN the_DT search_NN engine_NN ._.
+Furthermore_RB ,_, the_DT set_VBN c_NN of_IN clicked_VBN links_NNS depends_VBZ on_IN both_CC the_DT query_FW q_FW and_CC the_DT presented_VBN ranking_NN r._NN A_NN user_NN is_VBZ more_RBR likely_JJ to_TO click_VB first_RB on_IN a_DT link_NN if_IN it_PRP is_VBZ relevant_JJ to_TO q_NN =_JJ -_: =[_NN 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Therefore_RB ,_, in_IN order_NN to_TO get_VB interpretable_JJ and_CC meaningful_JJ results_NNS from_IN ClickThrough_NNP data_NNS ,_, it_PRP is_VBZ necessary_JJ to_TO consider_VB and_CC model_VB the_DT dependencies_NNS of_IN c_NN on_IN q_NN and_CC r_NN appropriately_RB ._.
+Figure_NN 1_CD ._.
+The_DT Proposed_VBN M_NN

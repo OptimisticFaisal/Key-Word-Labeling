@@ -1,0 +1,4 @@
+es_VBZ as_IN a_DT stress_NN test_NN of_IN Rule-QL_NN as_IN it_PRP involves_VBZ 6_CD rulebases_NNS and_CC a_DT large_JJ number_NN of_IN itemset_NN comparison_NN operations_NNS ._.
+Note_VB that_IN the_DT STABLE_RULES_NN predicate_NN in_IN Query_NNP 5_CD is_VBZ implemented_VBN using_VBG the_DT Chi-square_JJ test_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: in_IN our_PRP$ system_NN ._.
+The_DT execution_NN times_NNS of_IN these_DT queries_NNS are_VBP presented_VBN in_IN Figure_NNP 7_CD ._.
+Each_DT execution_NN time_NN is_VBZ the_DT average_JJ result_NN of_IN 10_CD runs_NNS of_IN the_DT query_NN ,_, and_CC includes_VBZ the_DT time_NN for_IN reading_NN in_IN rulebase_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- and_CC

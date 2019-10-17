@@ -1,0 +1,4 @@
+of_IN a_DT program_NN ,_, its_PRP$ addition_NN to_TO their_PRP$ model_NN is_VBZ different_JJ from_IN typical_JJ n-gram_NN models_NNS that_WDT rely_VBP solely_RB on_IN sequences_NNS of_IN system_NN calls_NNS ._.
+Lane_NNP and_CC Brodley_NNP -LRB-_-LRB- 18_CD -RRB-_-RRB- use_VBP instance-based_JJ methods_NNS and_CC Sequeira_NNP and_CC Zaki_NNP =_SYM -_: =[_NN 35_CD -RRB-_-RRB- -_: =_JJ -_: use_NN clustering_NN methods_NNS for_IN detecting_VBG anomalous_JJ user_NN commands_NNS ._.
+A_DT host-based_JJ anomaly_NN detector_NN is_VBZ important_JJ since_IN some_DT attacks_NNS -LRB-_-LRB- for_IN example_NN ,_, inside_JJ attacks_NNS -RRB-_-RRB- do_VBP not_RB generate_VB network_NN traffic_NN ._.
+However_RB ,_, net_NN

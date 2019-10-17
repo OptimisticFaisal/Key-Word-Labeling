@@ -1,0 +1,5 @@
+rithms_NNS are_VBP essentially_RB identical_JJ ._.
+We_PRP ran_VBD these_DT experiments_NNS on_IN Dell_NNP 6350_CD computers_NNS having_VBG 600MHz_NNP Pentium_NNP III_NNP processors_NNS and_CC 2GB_NN of_IN memory_NN ._.
+4.1_CD The_DT Data_NN We_PRP tested_VBD our_PRP$ algorithms_NNS on_IN several_JJ UCI_NN datasets_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, two_CD datasets_NNS -LRB-_-LRB- Census_NNP Income_NNP and_CC Forest_NNP Covertype_NNP -RRB-_-RRB- from_IN the_DT UCI_NNP KDD_NNP archive_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, and_CC three_CD synthetic_JJ datasets_NNS ._.
+We_PRP give_VBP their_PRP$ sizes_NNS and_CC numbers_NNS of_IN attributes_NNS and_CC classes_NNS in_IN Table_NNP 1_CD ._.
+All_DT three_CD of_IN our_PRP$ s_NN

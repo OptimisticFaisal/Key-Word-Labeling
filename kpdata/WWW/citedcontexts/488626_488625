@@ -1,0 +1,4 @@
+e_LS search_NN query_NN phrases_NNS ._.
+1_CD Introduction_NN Identifying_VBG semantically_RB related_JJ phrases_NNS has_VBZ been_VBN demonstrated_VBN to_TO be_VB useful_JJ in_IN information_NN retrieval_NN -LRB-_-LRB- Anick_NNP ,_, 2003_CD ;_: Terra_NNP and_CC Clarke_NNP ,_, 2004_CD -RRB-_-RRB- and_CC sponsored_VBN search_NN -LRB-_-LRB- =_JJ -_: =_JJ Jones_NNP et_FW al._FW ,_, 2006_CD -_: =--RRB-_NN ._.
+Work_NN on_IN semantic_JJ entailment_NN often_RB includes_VBZ lexical_JJ entailment_NN as_IN a_DT subtask_NN -LRB-_-LRB- Dagan_NNP et_FW al._FW ,_, 2005_CD -RRB-_-RRB- ._.
+We_PRP draw_VBP a_DT distinction_NN between_IN the_DT task_NN of_IN identifying_VBG terms_NNS which_WDT are_VBP topically_RB related_JJ and_CC identify_VB

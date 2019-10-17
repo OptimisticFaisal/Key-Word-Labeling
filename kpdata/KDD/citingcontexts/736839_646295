@@ -1,0 +1,5 @@
+h_NN disclose_VB the_DT correlation_NN among_IN genes_NNS ,_, samples_NNS and_CC time_NN points_NNS ._.
+Therefore_RB ,_, those_DT algorithms_NNS can_MD not_RB be_VB extended_VBN directly_RB to_TO solve_VB our_PRP$ problem_NN ._.
+Recently_RB ,_, the_DT pattern-based_JJ clustering_NN approaches_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =--RRB-_NN have_VBP been_VBN developed_VBN to_TO discover_VB subsets_NNS of_IN objects_NNS following_VBG similar_JJ patterns_NNS on_IN subsets_NNS of_IN attributes_NNS ._.
+Conceptually_RB ,_, a_DT pattern-based_JJ cluster_NN is_VBZ a_DT coherent_JJ gene_NN cluster_NN ._.
+If_IN we_PRP treat_VBP the_DT GST_NN microarr_NN

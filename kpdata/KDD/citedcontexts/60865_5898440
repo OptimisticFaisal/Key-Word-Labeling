@@ -1,0 +1,5 @@
+le_DT 3_CD ._.
+xx_IN x_NN -_: -_: x_SYM -_: g1_NN 0.17_CD 0.28_CD 0.17_CD 0.39_CD g2_NN 0.11_CD 0.22_CD 0.33_CD 0.33_CD Table_NNP 3_CD :_: Feature_NN vectors_NNS for_IN grids_NNS in_IN Tables_NNS 1_CD &_CC 2_CD The_DT coherence_NN assessment_NN is_VBZ then_RB formulated_VBN as_IN a_DT ranking_JJ learning_NN problem_NN ._.
+SV_NN M_NN light_NN -LRB-_-LRB- =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =--RRB-_NN is_VBZ used_VBN for_IN this_DT task_NN ._.
+Pairwise_JJ rankings_NNS -LRB-_-LRB- a_DT coherent_JJ text_NN vs._CC an_DT incoherent_JJ rendering_NN -RRB-_-RRB- are_VBP supplied_VBN to_TO the_DT learner_NN as_IN the_DT relative_JJ quality_NN of_IN incoherent_JJ renderings_NNS is_VBZ not_RB known_VBN ._.
+For_IN each_DT document_NN 20_CD

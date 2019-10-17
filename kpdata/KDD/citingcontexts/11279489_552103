@@ -1,0 +1,4 @@
+ental_JJ unit_NN and_CC then_RB write_VB s_NN in_IN terms_NNS of_IN s_NN ′_NN ,_, e.g._FW here_RB s_NN ′_NN would_MD be_VB the_DT standard_JJ error_NN per_IN cookie-mod_NN ,_, and_CC s_NN =_JJ s_NN ′_FW √_FW avg_FW queries_NNS per_IN cookie_mod_NN ._.
+For_IN ratio_NN metrics_NNS ,_, we_PRP calculate_VBP s_NN ′_NN using_VBG the_DT delta_NN method_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Figure_NN 4_CD shows_VBZ the_DT standard_JJ error_NN against_IN 1_CD \/_: √_NN N_NN for_IN the_DT coverage_NN metric_NN in_IN different_JJ experiments_NNS --_: both_DT cookie-mod_JJ and_CC random_JJ traffic_NN experiments_NNS ._.
+The_DT slope_NN of_IN the_DT line_NN gives_VBZ s._NN While_IN the_DT axis_NN labels_NNS

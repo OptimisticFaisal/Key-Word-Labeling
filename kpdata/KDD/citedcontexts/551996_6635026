@@ -1,0 +1,4 @@
+-RRB-_-RRB- introduces_VBZ a_DT clustering_NN criterion_NN ,_, and_CC notes_VBZ that_IN for_IN transactions_NNS that_WDT come_VBP naturally_RB in_IN collection_NN of_IN items_NNS it_PRP is_VBZ more_RBR meaningful_JJ to_TO use_VB item\/rule-based_JJ methods_NNS ._.
+A_DT similar_JJ problem_NN is_VBZ addressed_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: and_CC our_PRP$ work_NN is_VBZ most_RBS similar_JJ to_TO LargeItem_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC CLOPE_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- in_IN that_IN we_PRP do_VBP not_RB use_VB any_DT pairwise_JJ distance_NN function_NN ._.
+We_PRP define_VBP a_DT global_JJ goal_NN and_CC use_VB this_DT goal_NN to_TO guide_VB the_DT clustering_NN process_NN ._.
+Compared_VBN t_NN

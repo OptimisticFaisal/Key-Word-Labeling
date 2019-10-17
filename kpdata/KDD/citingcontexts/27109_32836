@@ -1,0 +1,4 @@
+mental_JJ results_NNS to_TO verify_VB that_IN the_DT resulting_VBG co-clustering_NN algorithm_NN works_VBZ well_RB in_IN practice_NN and_CC is_VBZ robust_JJ in_IN the_DT presence_NN of_IN noise_NN ._.
+1_CD Introduction_NN Clustering_NN is_VBZ the_DT grouping_VBG together_RB of_IN similar_JJ objects_NNS =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Given_VBN a_DT collection_NN of_IN unlabeled_JJ documents_NNS ,_, document_NN clustering_NN can_MD help_VB in_IN organizing_VBG the_DT collection_NN thereby_RB facilitating_VBG future_JJ navigation_NN and_CC search_NN ._.
+Document_NNP clustering_NN is_VBZ a_DT widely_RB studied_VBN proble_NN

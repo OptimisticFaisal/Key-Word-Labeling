@@ -1,0 +1,4 @@
+t_NN pattern_NN mining_NN has_VBZ been_VBN studied_VBN for_IN a_DT decade_NN with_IN many_JJ efficient_JJ algorithms_NNS ._.
+We_PRP can_MD either_RB find_VB groups_NNS of_IN nodes_NNS with_IN support_NN greater_JJR than_IN a_DT threshold_NN using_VBG a_DT frequent_JJ closed_JJ pattern_NN mining_NN approach_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, or_CC find_VB groups_NNS with_IN highest_JJS support_NN using_VBG a_DT top-k_NN frequent_JJ closed_JJ pattern_NN mining_NN approach_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+LinkClus_NNP uses_VBZ the_DT approach_NN in_IN -LRB-_-LRB- 19_CD -RRB-_-RRB- which_WDT is_VBZ very_RB efficient_JJ on_IN large_JJ datasets_NNS ._.
+Now_RB we_PRP describe_VBP the_DT proc_NN

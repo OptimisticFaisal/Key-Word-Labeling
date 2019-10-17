@@ -1,0 +1,3 @@
+n_NN decisions_NNS reflecting_VBG resource_NN constraints_NNS ,_, computational_JJ efficiency_NN or_CC privacy_NN considerations_NNS ._.
+Data_NN perturbation_NN can_MD be_VB modeled_VBN in_IN several_JJ different_JJ ways_NNS ,_, including_VBG contaminated_VBN distribution_NN models_NNS =_JJ -_: =[_NN 36_CD -RRB-_-RRB- -_: =_JJ -_: ,_, measurement_NN error_NN models_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC mixture_NN modeling_NN ._.
+We_PRP choose_VBP to_TO work_VB with_IN an_DT additive_JJ noise_NN model_NN ,_, due_JJ to_TO its_PRP$ simplicity_NN and_CC its_PRP$ proven_JJ value_NN in_IN a_DT number_NN of_IN problem_NN areas_NNS such_JJ as_IN data_NNS filtering_VBG ,_, qu_FW

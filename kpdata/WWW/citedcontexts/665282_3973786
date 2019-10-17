@@ -1,0 +1,6 @@
+esign_NN ,_, Experimentation_NN ,_, Performance_NNP ._.
+Keywords_NNP Navigational_NNP queries_NNS ,_, search_NN engine_NN ,_, static_JJ caching_NN ._.
+1_CD ._.
+INTRODUCTION_NN Web_NN users_NNS '_POS search_NN goals_NNS are_VBP usually_RB categorized_VBN as_IN ``_`` informational_JJ ''_'' or_CC ``_`` navigational_JJ ''_'' =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT navigational_JJ query_NN is_VBZ intended_VBN to_TO find_VB a_DT particular_JJ Web_NN site_NN that_IN a_DT user_NN has_VBZ in_IN mind_NN ._.
+Therefore_RB ,_, the_DT search_NN process_NN will_MD probably_RB end_VB up_RP with_IN one_CD -LRB-_-LRB- or_CC two_CD -RRB-_-RRB- click_VBP -LRB-_-LRB- s_NNS -RRB-_-RRB- for_IN the_DT Top-1_NN -LRB-_-LRB- or_CC Top-2_NN -RRB-_-RRB- results_NNS

@@ -1,0 +1,5 @@
+orical_JJ data_NNS we_PRP had_VBD to_TO create_VB binary_JJ features_NNS from_IN our_PRP$ categorical_JJ features_NNS which_WDT led_VBD to_TO feature_VB explosion_NN with_IN nearly_RB 110,000_CD features_NNS ._.
+We_PRP used_VBD SVMperf_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- forSVMs_NN ._.
+WealsousedSVMsfromotherpackagesWeka_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, KNIME_NN but_CC neither_DT of_IN them_PRP were_VBD able_JJ to_TO handle_VB our_PRP$ dataset_NN and_CC run_NN experiments_NNS efficiently_RB ._.
+In_IN our_PRP$ experience_NN ,_, SVMperf_NN is_VBZ the_DT most_RBS efficient_JJ package_NN which_WDT can_MD handle_VB large_JJ datasets_NNS quickly_RB ._.
+We_PRP also_RB c_SYM

@@ -1,0 +1,4 @@
+fication_NN model_NN when_WRB new_JJ data_NNS appear_VBP ,_, such_JJ as_IN the_DT Very_RB Fast_JJ Decision_NN Tree_NN -LRB-_-LRB- VFDT_NN -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- approach_NN ._.
+Another_DT approach_NN is_VBZ to_TO use_VB an_DT ensemble_NN of_IN classifiers_NNS and_CC update_VB the_DT ensemble_NN every_DT time_NN new_JJ data_NNS appears_VBZ =_JJ -_: =[_NN 4_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN shown_VBN in_IN -LRB-_-LRB- 4_CD ,_, 5_CD -RRB-_-RRB- ,_, the_DT ensemble_NN classifier_NN is_VBZ often_RB more_RBR robust_JJ at_IN handling_VBG unexpected_JJ changes_NNS and_CC concept_NN drifts_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP DIME_NNP ,_, a_DT Data_NNP Intensive_NNP Multi-chunk_JJ Ensemble_NN classificati_NNS

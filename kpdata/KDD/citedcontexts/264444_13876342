@@ -1,0 +1,5 @@
+the_DT ranked_VBN processing_NN to_TO only_RB those_DT parts_NNS of_IN the_DT problem_NN which_WDT require_VBP further_JJ evaluation_NN and_CC avoid_VB repeated_JJ calls_NNS to_TO set_VB cover_NN algorithm_NN ._.
+4_LS ._.
+CONCLUSION_NN For_IN evaluation_NN ,_, we_PRP used_VBD real_JJ data_NNS set_NN -LRB-_-LRB- ``_`` Adults_NNS ''_'' =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, which_WDT contains_VBZ around_IN ∼_FW 30K_FW tuples_FW ._.
+Our_PRP$ combined_JJ lattice_NN comes_VBZ from_IN the_DT two_CD different_JJ Adults_NNS hierarchies_NNS in_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- ._.
+For_IN comparison_NN ,_, we_PRP implemented_VBD a_DT naive-set_JJ cover_NN -LRB-_-LRB- sc-naive_JJ -RRB-_-RRB- alternative_NN ,_, wher_NN

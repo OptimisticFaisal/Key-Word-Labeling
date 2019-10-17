@@ -1,0 +1,5 @@
+upervision_NN ._.
+Hierarchical_JJ clustering_NN algorithms_NNS organize_VBP input_NN data_NNS either_CC bottom-up_JJ -LRB-_-LRB- agglomerative_JJ -RRB-_-RRB- or_CC top-down_JJ -LRB-_-LRB- divisive_JJ -RRB-_-RRB- -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+Co-clustering_NN refers_VBZ to_TO clustering_NN of_IN more_JJR than_IN one_CD data_NN type_NN ._.
+Dhillon_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ bipartite_JJ spectral_JJ graph_NN partitioning_VBG approaches_NNS to_TO co-cluster_JJ words_NNS and_CC documents_NNS ._.
+Long_NNP et_FW al._FW -LRB-_-LRB- 15_CD -RRB-_-RRB- proposed_VBD a_DT general_JJ principled_JJ model_NN ,_, called_VBN Relation_NNP Summary_NNP Network_NNP ,_, for_IN co-cluster_NN hete_NN

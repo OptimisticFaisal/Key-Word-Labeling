@@ -1,0 +1,4 @@
+ethods_NNS for_IN text_NN classification_NN treat_VB every_DT document_NN as_IN a_DT bag_NN of_IN words_NNS -LRB-_-LRB- 27_CD ,_, 40_CD ,_, 54_CD -RRB-_-RRB- ._.
+However_RB ,_, in_IN many_JJ text_NN classification_NN applications_NNS ,_, it_PRP is_VBZ appealing_VBG to_TO take_VB every_DT document_NN as_IN a_DT string_NN of_IN characters_NNS =_JJ -_: =[_NN 63_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT string-based_JJ approaches_NNS to_TO text_NN classification_NN have_VBP at_IN least_JJS the_DT following_JJ potential_JJ advantages_NNS ._.
+•_VB The_DT sub-word_JJ features_NNS -LRB-_-LRB- e.g._FW ,_, morphological_JJ variants_NNS -RRB-_-RRB- and_CC super-word_JJ features_NNS -LRB-_-LRB- e.g._FW ,_, phrasal_JJ eff_NN

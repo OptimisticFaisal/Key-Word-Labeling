@@ -1,0 +1,4 @@
+and_CC -LRB-_-LRB- 3_LS -RRB-_-RRB- boosting_VBG method_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+Typically_RB ,_, the_DT basic_JJ idea_NN of_IN structure_NN or_CC fragment-based_JJ approach_NN is_VBZ to_TO extract_VB frequent_JJ substructures_NNS -LRB-_-LRB- 15_CD ,_, 9_CD -RRB-_-RRB- ,_, local_JJ graph_NN fragments_NNS -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, or_CC cyclic_JJ patterns_NNS and_CC trees_NNS =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: and_CC use_VB them_PRP as_IN descriptors_NNS to_TO represent_VB the_DT graph_NN data_NNS ._.
+Studies_NNS with_IN kernelbased_JJ approach_NN aim_NN at_IN designing_VBG effective_JJ kernel_NN functions_NNS to_TO measure_VB the_DT similarity_NN between_IN graphs_NNS ._.
+Several_JJ recent_JJ proposa_NN

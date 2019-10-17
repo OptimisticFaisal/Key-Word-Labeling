@@ -1,0 +1,4 @@
+-LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+All_DT these_DT situations_NNS will_MD lead_VB to_TO the_DT creation_NN of_IN missing_VBG attributes_NNS ,_, i.e._FW privacy_NN concerns_NNS ._.
+Available_JJ studies_NNS in_IN this_DT mostly_RB focus_VB on_IN how_WRB to_TO fill_VB the_DT missing_VBG attributes_NNS with_IN appropriate_JJ values_NNS =_JJ -_: =[_NN 3_CD ,_, 8_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Given_VBN a_DT point_NN Xi_NN with_IN missing_VBG value_NN in_IN j_NN th_DT dimension_NN ,_, a_DT general_JJ approach_NN is_VBZ to_TO find_VB the_DT K-Nearest_NNP Neighbors_NNP -LRB-_-LRB- KNN_NNP -RRB-_-RRB- of_IN Xi_NN and_CC replace_VB the_DT missing_VBG attribute_NN Xij_NN with_IN the_DT average_NN of_IN the_DT j_NN th_DT values_NNS of_IN

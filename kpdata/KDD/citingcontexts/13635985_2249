@@ -1,0 +1,4 @@
+e_LS datasets_NNS is_VBZ a_DT challenging_JJ task_NN ,_, as_IN they_PRP may_MD not_RB fit_VB into_IN memory_NN ._.
+Most_JJS of_IN the_DT existing_VBG classification_NN algorithms_NNS are_VBP not_RB attractive_JJ as_IN they_PRP perform_VBP multiple_JJ passes_NNS over_IN data_NNS ._.
+Support_NN Vector_NNP Machines_NNP =_SYM -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- SVMs_NNS -RRB-_-RRB- are_VBP one_CD of_IN the_DT most_RBS successful_JJ classifiers_NNS that_WDT achieve_VBP good_JJ generalization_NN in_IN practice_NN ._.
+SVMs_NNS -LRB-_-LRB- soft-margin_JJ SVMs_NNS -RRB-_-RRB- pose_VBP the_DT classification_NN problem_NN as_IN a_DT convex_NN quadratic_JJ optimization_NN problem_NN of_IN s_NN

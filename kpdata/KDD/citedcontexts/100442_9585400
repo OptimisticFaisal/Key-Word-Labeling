@@ -1,0 +1,5 @@
+for_IN years_NNS ._.
+Also_RB ,_, network-level_JJ properties_NNS -LRB-_-LRB- such_JJ as_IN the_DT number_NN of_IN flows_NNS that_WDT were_VBD transferred_VBN -RRB-_-RRB- have_VBP been_VBN used_VBN extensively_RB to_TO model_VB normal_JJ network_NN traffic_NN and_CC to_TO detect_VB deviations_NNS that_WDT indicate_VBP attacks_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ proposed_VBN work_NN complements_VBZ existing_VBG network-based_JJ IDSs_NNS by_IN automatically_RB generating_VBG the_DT inputs_NNS needed_VBN by_IN these_DT systems_NNS to_TO detect_VB machines_NNS that_WDT are_VBP infected_VBN by_IN bots_NNS ._.
+Signature_NN generation_NN ._.
+As_IN part_NN o_NN

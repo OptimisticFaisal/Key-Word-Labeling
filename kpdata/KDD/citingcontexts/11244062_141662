@@ -1,0 +1,4 @@
+ge_NN of_IN free_JJ itemsets_NNS ._.
+6_CD ._.
+RELATED_NNS WORK_VBP In_IN addition_NN to_TO the_DT cornerstone_NN concepts_NNS of_IN closed_JJ and_CC free_JJ itemsets_NNS ,_, other_JJ concise_JJ representations_NNS in_IN the_DT literature_NN exploit_VB identities_NNS -LRB-_-LRB- e.g._FW ,_, inclusion-exclusion_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =--RRB-_NN and_CC regularities_NNS -LRB-_-LRB- e.g._FW ,_, disjunction_NN rules_NNS X_NN ⇒_FW a_FW ∨_FW b_NN -RRB-_-RRB- in_IN order_NN to_TO prune_VB from_IN a_DT representation_NN those_DT itemsets_NNS whose_WP$ support_NN can_MD be_VB derived_VBN from_IN other_JJ ones_NNS in_IN the_DT representation_NN ._.
+We_PRP mention_VBP disjunction_NN

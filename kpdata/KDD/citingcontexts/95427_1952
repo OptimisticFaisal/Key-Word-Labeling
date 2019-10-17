@@ -1,0 +1,4 @@
+expertise_NN is_VBZ somehow_RB dierent_JJ ._.
+Speci_NNP -_: cally_RB ,_, several_JJ analyses_NNS of_IN ensemble_NN methods_NNS have_VBP shown_VBN that_IN the_DT correctness_NN improved_VBD if_IN the_DT individual_JJ predictors_NNS make_VBP errors_NNS that_WDT are_VBP independent_JJ of_IN each_DT other_JJ -LRB-_-LRB- 1_CD =_JJ -_: =_JJ 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN recent_JJ years_NNS ,_, a_DT great_JJ deal_NN of_IN attention_NN in_IN the_DT machine_NN learning_NN community_NN has_VBZ been_VBN directed_VBN toward_IN methods_NNS such_JJ as_IN Bagging_NNP and_CC Boosting_NNP ._.
+Breiman_NNP 's_POS Bagging_NNP algorithm_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- is_VBZ a_DT variation_NN of_IN the_DT boot_NN

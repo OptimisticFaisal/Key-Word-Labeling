@@ -1,0 +1,4 @@
+-RRB-_-RRB- is_VBZ one_CD of_IN the_DT bestknown_JJ methods_NNS for_IN dimension_NN reduction_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+PCA_NNP was_VBD first_RB applied_VBN to_TO reconstruct_VB human_JJ faces_NNS in_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, in_IN the_DT context_NN of_IN image_NN compression_NN ._.
+The_DT Eigenface_NNP technique_NN was_VBD developed_VBN in_IN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Assume_VB that_IN the_DT n_NN images_NNS in_IN the_DT dataset_NN are_VBP originally_RB represented_VBN in_IN matrix_NN form_NN as_IN Ai_FW ∈_FW IR_NN r_NN ×_CD c_NN ,_, for_IN i_LS =_JJ 1_CD ,_, ·_FW ·_FW ·_NN ,_, n_NN ,_, where_WRB r_NN and_CC c_NN are_VBP the_DT number_NN of_IN rows_NNS and_CC columns_NNS in_IN the_DT image_NN ,_, respectively_RB ._.

@@ -1,0 +1,4 @@
+the_DT web_NN servers_NNS have_VBP to_TO exchange_VB messages_NNS of_IN load_NN information_NN periodically_RB in_IN order_NN to_TO make_VB decisions_NNS on_IN load_NN balancing_NN ._.
+The_DT mod_backhand_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- is_VBZ such_JJ a_DT loadbalancing_NN module_NN for_IN the_DT Apache_NNP web_NN server_NN =_JJ -_: =[_NN 9,27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT message_NN exchanges_NNS result_VBP in_IN high_JJ communication_NN latency_NN and_CC thus_RB deteriorate_VBP the_DT performance_NN of_IN a_DT web_NN service_NN system_NN ._.
+Differently_RB ,_, a_DT MA_NNP can_MD migrate_VB to_TO a_DT target_NN server_NN and_CC interact_NN to_TO specified_VBN o_NN

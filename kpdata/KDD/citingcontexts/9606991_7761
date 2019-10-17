@@ -1,0 +1,4 @@
+evada_NN ,_, USA_NNP ._.
+modeled_VBN as_IN a_DT mixture_NN of_IN topics_NNS ,_, where_WRB a_DT topic_NN is_VBZ modeled_VBN as_IN a_DT probability_NN distribution_NN over_IN words_NNS ._.
+Probabilistic_JJ Latent_JJ Semantic_JJ Analysis_NN -LRB-_-LRB- PLSA_NN -RRB-_-RRB- -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC Latent_JJ Dirichlet_NNP Allocation_NNP -LRB-_-LRB- LDA_NNP -RRB-_-RRB- =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP representative_JJ topic_NN models_NNS ,_, and_CC they_PRP are_VBP used_VBN for_IN a_DT wide_JJ variety_NN of_IN applications_NNS such_JJ as_IN information_NN retrieval_NN ,_, text_NN clustering_NN and_CC collaborative_JJ filtering_VBG ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT nonlinear_JJ

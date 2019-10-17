@@ -1,0 +1,6 @@
+e_LS approach_NN of_IN Refs_NNS ._.
+-LRB-_-LRB- 24_CD ,_, 23_CD -RRB-_-RRB- to_TO a_DT fault_NN detection_NN task_NN in_IN a_DT local-area_JJ network_NN ._.
+However_RB ,_, it_PRP only_RB uses_VBZ information_NN from_IN a_DT single_JJ observation_NN point_NN ,_, and_CC considers_VBZ only_RB lower_JJR layer_NN quantities_NNS ._.
+Reference_NNP =_SYM -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ an_DT interesting_JJ method_NN to_TO correlate_VB multiple_JJ observation_NN points_NNS ._.
+However_RB ,_, it_PRP is_VBZ based_VBN on_IN the_DT autoregressive_JJ model_NN and_CC its_PRP$ thresholding_JJ policy_NN is_VBZ not_RB probabilistically_RB consistent_JJ ._.
+Overall_RB ,_, our_PRP$

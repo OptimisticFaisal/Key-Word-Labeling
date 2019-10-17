@@ -1,0 +1,5 @@
+em_NN 's_POS basic_JJ architecture_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+As_IN shown_VBN in_IN Figure_NNP 2_CD ,_, Kylin_NNP has_VBZ three_CD primary_JJ components_NNS :_: the_DT preprocessor_NN ,_, a_DT module_NN which_WDT generates_VBZ classifiers_NNS ,_, and_CC one_CD which_WDT generates_VBZ Conditional_NNP Random_NNP Fields_NNP -LRB-_-LRB- CRF_NNP -RRB-_-RRB- =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: extractors_NNS ._.
+The_DT figure_NN shows_VBZ the_DT data_NN flow_NN ,_, but_CC the_DT components_NNS are_VBP invoked_VBN in_IN a_DT pipeline_NN in_IN the_DT order_NN described_VBN above_IN ._.
+We_PRP describe_VBP them_PRP in_IN turn_NN ._.
+2.1_CD Preprocessor_NN The_DT preprocessor_NN selects_VBZ and_CC refines_VBZ

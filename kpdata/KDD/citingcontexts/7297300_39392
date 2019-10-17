@@ -1,0 +1,5 @@
+visits_NNS ._.
+This_DT tactic_NN is_VBZ similar_JJ to_TO methods_NNS in_IN Natural_NNP Language_NNP Processing_NNP -LRB-_-LRB- NLP_NNP -RRB-_-RRB- for_IN tasks_NNS such_JJ as_IN part-of-speech_JJ tagging_NN ,_, where_WRB tags_NNS of_IN preceding_JJ words_NNS are_VBP used_VBN as_IN features_NNS to_TO predict_VB the_DT current_JJ tag_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT features_NNS we_PRP include_VBP in_IN example_NN -LRB-_-LRB- x_NN j_NN ,_, y_NN j_NN i_LS -RRB-_-RRB- about_IN transaction_NN t_NN j_NN are_VBP :_: 1_CD ._.
+Number_NN of_IN days_NNS at_IN t_NN j_NN since_IN product_NN category_NN was_VBD pi_NN bought_VBN by_IN that_DT customer_NN ._.
+We_PRP call_VBP this_DT the_DT replenishment_NN interval_NN a_DT

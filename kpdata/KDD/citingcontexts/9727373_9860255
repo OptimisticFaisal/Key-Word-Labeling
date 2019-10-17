@@ -1,0 +1,5 @@
+ime_NN 3_CD ._.
+Without_IN this_DT technique_NN ,_, it_PRP would_MD run_VB in_IN exponential_JJ time_NN in_IN the_DT number_NN of_IN transactions_NNS ._.
+Using_VBG our_PRP$ approach_NN ,_, our_PRP$ algorithm_NN has_VBZ the_DT same_JJ time_NN complexity_NN as_IN methods_NNS based_VBN on_IN the_DT expected_VBN support_NN =_JJ -_: =[_NN 5_CD ,_, 6_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, our_PRP$ approach_NN yields_NNS much_RB better_JJR effectiveness_NN since_IN it_PRP provides_VBZ confidences_NNS for_IN frequent_JJ itemsets_NNS ._.
+•_RB We_PRP propose_VBP an_DT algorithm_NN to_TO mine_VB all_DT itemsets_NNS that_WDT are_VBP frequent_JJ with_IN a_DT probability_NN of_IN at_IN

@@ -1,0 +1,3 @@
+i_LS -RRB-_-RRB- ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- analogously_RB ,_, I_PRP is_VBZ ɛ-interesting_NN if_IN I_NN -LRB-_-LRB- I_NN -RRB-_-RRB- ≥_FW ɛ_FW ._.
+An_DT alternative_JJ approach_NN would_MD be_VB to_TO use_VB generalizations_NNS of_IN Bayesian_JJ networks_NNS allowing_VBG dependencies_NNS to_TO vary_VB for_IN different_JJ values_NNS of_IN attributes_NNS ,_, see_VBP =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC deal_NN with_IN itemset_NN interestingness_NN directly_RB ._.
+3.1_CD Extensions_NNS to_TO the_DT Definition_NN of_IN Interestingness_NN Even_RB though_IN applying_VBG the_DT above_JJ definition_NN and_CC sorting_NN attribute_NN sets_NNS on_IN their_PRP$ interestingness_NN work_NN

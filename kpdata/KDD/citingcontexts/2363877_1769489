@@ -1,0 +1,4 @@
+ed_VBN gain_NN problem_NN as_IN a_DT special_JJ case_NN ._.
+However_RB ,_, the_DT generality_NN precludes_VBZ the_DT development_NN of_IN efficient_JJ algorithms_NNS for_IN computing_VBG optimized_VBN rules_NNS ._.
+Specifically_RB ,_, the_DT authors_NNS use_VBP a_DT variant_NN of_IN Dense-Miner_NNP from_IN =_JJ -_: =_JJ -LRB-_-LRB- BAG97_NN -RRB-_-RRB- -_: =_SYM -_: which_WDT essentially_RB relies_VBZ on_IN enumerating_VBG optimized_VBN rules_NNS in_IN order_NN to_TO explore_VB the_DT search_NN space_NN ._.
+Since_IN there_EX are_VBP an_DT exponential_JJ number_NN of_IN optimized_VBN rules_NNS ,_, the_DT authors_NNS propose_VBP pruning_NN strategies_NNS to_TO reduc_VB

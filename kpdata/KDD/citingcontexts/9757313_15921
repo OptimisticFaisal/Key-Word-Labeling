@@ -1,0 +1,3 @@
+heuristic_NN :_: using_VBG shingle_NN ordering_VBG ,_, it_PRP is_VBZ possible_JJ to_TO copy_VB a_DT constant_JJ fraction_NN of_IN the_DT edges_NNS in_IN a_DT large_JJ class_NN of_IN random_JJ graphs_NNS with_IN certain_JJ properties_NNS ._.
+The_DT well-known_JJ preferential_JJ attachment_NN -LRB-_-LRB- PA_NN -RRB-_-RRB- model_NN =_JJ -_: =[_NN 2_CD ,_, 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, for_IN instance_NN ,_, generates_VBZ graphs_NNS in_IN this_DT class_NN ._.
+Our_PRP$ analysis_NN thus_RB shows_VBZ that_IN it_PRP is_VBZ indeed_RB possible_JJ to_TO obtain_VB provable_JJ performance_NN guarantees_NNS on_IN shingle_NN ordering_VBG with_IN respect_NN to_TO copying_NN -LRB-_-LRB- hence_RB compress_VBP

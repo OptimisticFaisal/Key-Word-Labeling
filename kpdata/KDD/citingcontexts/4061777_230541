@@ -1,0 +1,4 @@
+7.3_CD Sensitivity_NN to_TO Number_NNP of_IN Features_NNP Feature_NNP selection_NN can_MD help_VB improve_VB classification_NN efficiency_NN ,_, reduce_VB noise_NN in_IN the_DT data_NNS ,_, and_CC help_VB avoid_VB over-fitting_JJ ,_, and_CC is_VBZ widely_RB adopted_VBN in_IN text_NN classification_NN =_JJ -_: =[_NN 9_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT number_NN of_IN features_NNS selected_VBN can_MD have_VB an_DT important_JJ impact_NN on_IN classification_NN accuracy_NN ._.
+However_RB ,_, it_PRP is_VBZ unclear_JJ about_IN the_DT impact_NN of_IN the_DT number_NN of_IN selected_VBN features_NNS on_IN the_DT quality_NN of_IN a_DT hierarchy_NN ._.
+Hen_NN

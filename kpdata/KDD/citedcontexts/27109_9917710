@@ -1,0 +1,4 @@
+uster_NN assumptions_NNS while_IN incorporating_VBG semi-supervision_NN along_IN both_DT dimensions_NNS ._.
+We_PRP begin_VBP by_IN introducing_VBG a_DT bipartite_JJ graph_NN representation_NN of_IN the_DT data_NNS ,_, previously_RB utilized_VBN in_IN the_DT context_NN of_IN co-clustering_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP then_RB formulate_VBP joint_JJ sentiment_NN classification_NN of_IN documents_NNS and_CC words_NNS in_IN terms_NNS of_IN transductive_JJ prediction_NN on_IN this_DT graph_NN whose_WP$ nodes_NNS are_VBP viewed_VBN to_TO be_VB partially_RB labeled_VBN ._.
+However_RB ,_, since_IN this_DT approach_NN

@@ -1,0 +1,4 @@
+w_NN or_CC unknown_JJ viruses_NNS ,_, and_CC more_RBR generally_RB ,_, malicious_JJ code_NN ._.
+Our_PRP$ efforts_NNS to_TO address_VB this_DT problem_NN have_VBP resulted_VBN in_IN a_DT fielded_VBN application_NN ,_, built_VBN using_VBG techniques_NNS from_IN machine_NN learning_NN -LRB-_-LRB- 30_CD -RRB-_-RRB- and_CC data_NN mining_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT Malicious_JJ Executable_JJ Classification_NN System_NN -LRB-_-LRB- mecs_NNS -RRB-_-RRB- currently_RB detects_VBZ unknown_JJ malicious_JJ executables_NNS ``_`` in_IN the_DT wild_JJ ''_'' ,_, that_DT is_VBZ ,_, without_IN removing_VBG any_DT obfuscation_NN ._.
+To_TO date_NN ,_, we_PRP have_VBP gathered_VBN 1971_CD system_NN

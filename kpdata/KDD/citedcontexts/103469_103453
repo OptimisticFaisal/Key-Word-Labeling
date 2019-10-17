@@ -1,0 +1,3 @@
+02_CD ;_: Kantarcioglu_NNP and_CC Clifton_NNP ,_, 2002_CD -RRB-_-RRB- ,_, classification_NN -LRB-_-LRB- Du_NNP et_FW al._FW ,_, 2004_CD -RRB-_-RRB- ,_, clustering_NN -LRB-_-LRB- Vaidya_NNP and_CC Clifton_NNP ,_, 2003_CD ;_: Lin_NNP et_FW al._FW ,_, 2004_CD -RRB-_-RRB- ,_, and_CC linear_JJ regression_NN for_IN vertically_RB partitioned_VBN data_NNS -LRB-_-LRB- Du_NNP et_FW al._FW ,_, 2004_CD ;_: =_JJ -_: =_JJ Sanil_FW et_FW al._FW ,_, 2004b_CD -RRB-_-RRB- ._.
+-_: =_JJ -_: Many_JJ of_IN these_DT techniques_NNS focus_VBP on_IN computation_NN of_IN the_DT ``_`` final_JJ result_NN ''_'' to_TO the_DT exclusion_NN of_IN supporting_VBG information_NN seen_VBN by_IN statisticians_NNS as_IN essential_JJ ._.
+For_IN example_NN ,_, least_JJS squares_NNS regression_NN estimators_NNS

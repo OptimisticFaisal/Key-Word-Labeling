@@ -1,0 +1,5 @@
+cation_NN with_IN digital_JJ signatures_NNS ,_, and_CC anti-spamming_JJ with_IN HMACs_NNS ._.
+A_DT related_JJ area_NN that_IN we_PRP do_VBP not_RB focus_VB on_IN in_IN this_DT paper_NN is_VBZ development_NN of_IN certified_VBN e-mail_JJ protocols_NNS that_WDT provide_VBP delivery_NN guarantees_NNS ;_: e.g._FW ,_, =_JJ -_: =[_NN 1_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3_LS ._.
+AN_DT INTRODUCTION_NNP TO_TO SELS_NNS In_IN this_DT section_NN we_PRP discuss_VBP the_DT entities_NNS involved_VBN in_IN the_DT SELS_NN protocol_NN and_CC present_VB the_DT encryption_NN scheme_NN used_VBN by_IN SELS_NN to_TO achieve_VB confidentiality_NN ._.
+We_PRP assume_VBP that_IN all_DT entitie_NN

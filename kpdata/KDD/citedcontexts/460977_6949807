@@ -1,0 +1,5 @@
+al_FW rule_NN query_NN languages_NNS to_TO enable_VB the_DT user_NN to_TO specify_VB what_WP rules_NNS that_WDT he\/she_VBP needs_NNS and_CC the_DT system_NN then_RB retrieves_VBZ the_DT relevant_JJ rules_NNS ._.
+We_PRP tried_VBD this_DT approach_NN ,_, but_CC our_PRP$ users_NNS did_VBD not_RB know_VB what_WP to_TO ask_VB ._.
+In_IN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT set_NN of_IN rule_NN post-processing_JJ operators_NNS is_VBZ defined_VBN to_TO allow_VB the_DT user_NN to_TO filter_NN unwanted_JJ rules_NNS ,_, select_JJ rules_NNS of_IN interest_NN ,_, group_NN rules_NNS ,_, etc._FW ._.
+This_DT is_VBZ a_DT good_JJ approach_NN ._.
+However_RB ,_, it_PRP stops_VBZ short_JJ of_IN providi_NN

@@ -1,0 +1,4 @@
+Dirichlet_JJ random_JJ variable_NN ,_, which_WDT are_VBP supplied_VBN to_TO a_DT Bernoulli_NNP distribution_NN to_TO determine_VB the_DT relationship_NN ._.
+LDA_NN is_VBZ also_RB extended_VBN to_TO include_VB author_NN ,_, group_NN variables_NNS for_IN cluster_NN mining_NN -LRB-_-LRB- 18_CD ,_, 21_CD ,_, 22_CD -RRB-_-RRB- ._.
+MMRC_NN =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: generates_VBZ a_DT latent_JJ indicator_NN vector_NN to_TO represent_VB the_DT class_NN of_IN a_DT single_JJ data_NN object_NN ,_, based_VBN on_IN which_WDT attributes_NNS ,_, homogeneous_JJ and_CC heterogeneous_JJ relations_NNS are_VBP modeled_VBN ._.
+In_IN another_DT piece_NN of_IN work_NN ,_, PLSA_NN is_VBZ c_NN

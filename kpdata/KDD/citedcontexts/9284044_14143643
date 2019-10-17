@@ -1,0 +1,4 @@
+ation_NN sets_NNS of_IN 100,000_CD ratings_NNS ._.
+Ratings_NNS were_VBD normalized_VBN to_TO be_VB zero-mean_JJ ._.
+When_WRB dealing_VBG with_IN large_JJ datasets_NNS the_DT most_RBS practical_JJ way_NN to_TO fit_VB trace-norm_JJ regularized_JJ models_NNS is_VBZ via_IN stochastic_JJ gradient_NN descent_NN =_JJ -_: =[_NN 18_CD ,_, 3_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN computational_JJ reasons_NNS ,_, however_RB ,_, we_PRP consider_VBP rank-truncated_JJ trace-norm_NN minimization_NN ,_, by_IN optimizing_VBG within_IN the_DT restricted_JJ class_NN -LCB-_-LRB- X_NN :_: X_NN ∈_NN Wr_NN -LRB-_-LRB- p_NN -RRB-_-RRB- ,_, rank_NN -LRB-_-LRB- X_NN -RRB-_-RRB- ≤_CD k_NN -RCB-_-RRB- for_IN k_NN =_JJ 30_CD and_CC k_NN =_JJ 100_CD ,_, and_CC for_IN vari_NN

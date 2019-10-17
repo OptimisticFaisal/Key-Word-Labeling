@@ -1,0 +1,3 @@
+ers_NNPS ,_, such_JJ as_IN multi-layer_JJ perceptron_NN ,_, nearest_JJS neighbor_NN ,_, C4_NN .5_NN ,_, and_CC SVMs_NNS ._.
+However_RB ,_, random_JJ selection_NN method_NN can_MD sometimes_RB cause_VB a_DT catastrophic_JJ decrease_NN in_IN accuracy_NN ._.
+Minimal_JJ support_NN vector_NN machines_NNS -LRB-_-LRB- MSVM_NN -RRB-_-RRB- =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: remove_VB redundant_JJ data_NNS and_CC finds_VBZ a_DT minimal_JJ set_NN of_IN support_NN vectors_NNS ,_, which_WDT is_VBZ based_VBN on_IN linear_JJ programming_NN instead_RB of_IN the_DT standard_JJ quadratic_JJ programming_NN formulation_NN by_IN representing_VBG the_DT margin_NN in_IN terms_NNS of_IN

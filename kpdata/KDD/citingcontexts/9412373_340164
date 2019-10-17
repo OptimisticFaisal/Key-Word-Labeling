@@ -1,0 +1,4 @@
+hey_RB receive_VB ._.
+These_DT recommendations_NNS are_VBP typically_RB queries_NNS similar_JJ to_TO the_DT original_JJ one_CD ,_, and_CC they_PRP are_VBP obtained_VBN by_IN analyzing_VBG the_DT query_NN logs_NNS ,_, for_IN instance_NN ,_, finding_VBG recommendations_NNS by_IN clustering_NN of_IN queries_NNS =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: ,_, or_CC by_IN identifying_VBG frequent_JJ re-phrasings_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN we_PRP address_VBP the_DT problem_NN of_IN assisting_VBG the_DT user_NN in_IN the_DT information-seeking_JJ task_NN from_IN a_DT novel_JJ point_NN of_IN view_NN ._.
+Our_PRP$ main_JJ intuition_NN is_VBZ to_TO explore_VB t_NN

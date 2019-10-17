@@ -1,0 +1,5 @@
+with_IN edge-type_JJ being_VBG the_DT 3rd_JJ mode_NN ._.
+Over_IN time_NN ,_, we_PRP have_VBP multiple_JJ 3rd_JJ order_NN tensors_NNS ,_, which_WDT are_VBP still_RB within_IN the_DT reach_NN of_IN our_PRP$ upcoming_VBG tools_NNS ._.
+3_LS -RRB-_-RRB- Microarray_NN data_NNS ,_, with_IN gene_NN expressions_NNS evolving_VBG over_IN time_NN =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB we_PRP have_VBP genes-proteins_NNS over_IN time_NN ,_, and_CC we_PRP record_VBP the_DT expression_NN level_NN :_: a_DT series_NN of_IN 2nd_JJ order_NN tensors_NNS ._.
+4_LS -RRB-_-RRB- All_NNP OLAP_NNP and_CC DataCube_NNP applications_NNS :_: customer-product-branch_JJ sales_NNS data_NN is_VBZ a_DT 3rd_JJ order_NN ten_CD

@@ -1,0 +1,5 @@
+ntally_RB ,_, it_PRP can_MD require_VB large_JJ amounts_NNS of_IN memory_NN ._.
+Also_RB ,_, incorporating_VBG knowledge_NN obtained_VBN from_IN experts_NNS or_CC prior_JJ experience_NN is_VBZ awkward_JJ ._.
+The_DT Hoeffding_NNP criterion_NN can_MD be_VB applied_VBN to_TO Bayesian_JJ network_NN learning_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: thereby_RB incrementally_RB learning_VBG the_DT network_NN structure_NN ._.
+Still_RB ,_, many_JJ statistics_NNS need_VBP to_TO be_VB kept_VBN in_IN memory_NN thereby_RB slowing_VBG down_RP the_DT number_NN of_IN instances_NNS that_WDT can_MD be_VB processed_VBN per_IN second_NN ._.
+Also_RB ,_, single_JJ Baye_NNP

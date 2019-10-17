@@ -1,0 +1,5 @@
+on_IN ,_, concept-drift_NN occurs_VBZ in_IN the_DT stream_NN when_WRB the_DT underlying_VBG concepts_NNS of_IN the_DT stream_NN change_NN over_IN time_NN ._.
+A_DT variety_NN of_IN techniques_NNS have_VBP also_RB been_VBN proposed_VBN in_IN the_DT literature_NN for_IN addressing_VBG concept-drift_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: in_IN data_NNS stream_NN classification_NN ._.
+However_RB ,_, another_DT significant_JJ characteristic_NN of_IN data_NNS stream_NN is_VBZ that_DT of_IN concept-evolution_NN ._.
+This_DT occurs_VBZ when_WRB new_JJ classes_NNS evolve_VBP in_IN the_DT data_NNS ._.
+For_IN example_NN ,_, consider_VB the_DT prob_NN

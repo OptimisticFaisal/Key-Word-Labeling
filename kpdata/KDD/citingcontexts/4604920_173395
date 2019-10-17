@@ -1,0 +1,4 @@
+._.
+4.2_CD Batch_NN Maintenance_NN of_IN Insertions_NNPS We_PRP next_RB introduce_VBP Algorithm_NNP Inc_NNP Batch_NN for_IN batch_NN updating_VBG of_IN a_DT MEDIAN_FW quotient_FW cube_NN ._.
+Inc_NNP Batch_NN is_VBZ inspired_VBN by_IN the_DT BUC_NN algorithm_NN proposed_VBN by_IN Bayer_NNP and_CC Ramakrishnan_NNP =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT recursively_RB partitions_VBZ tuples_NNS in_IN a_DT depth-first_JJ manner_NN so_IN that_IN tuples_NNS involved_VBN in_IN computing_VBG the_DT same_JJ cell_NN are_VBP grouped_VBN together_RB at_IN the_DT time_NN of_IN computation_NN for_IN the_DT cell_NN 's_POS value_NN ._.
+The_DT partitioning_VBG i_LS

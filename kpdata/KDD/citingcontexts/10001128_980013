@@ -1,0 +1,7 @@
+nd_IN the_DT Conditional_NNP Random_NNP Fields_NNP method_NN -LRB-_-LRB- CRF_NN -RRB-_-RRB- -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+NET_NNP is_VBZ a_DT Named_VBN Entity_NNP Tagger_NNP ,_, which_WDT can_MD be_VB used_VBN in_IN our_PRP$ case_NN as_IN product_NN names_NNS are_VBP named_VBN entities_NNS ._.
+The_DT CRF_NNP system_NN that_IN we_PRP use_VBP is_VBZ from_IN Sunita_NNP Sarawagi_NNP =_SYM -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Table_NNP 2_CD shows_VBZ the_DT results_NNS ._.
+Note_VB that_IN the_DT NET_NN system_NN does_VBZ not_RB need_VB training_NN ._.
+The_DT training_NN data_NNS for_IN CRF_NNP is_VBZ the_DT data_NNS obtained_VBN from_IN step_NN 2_CD of_IN our_PRP$ algorithm_NN ._.
+Recall_VB that_IN the_DT data_NNS from_IN step_NN 2_CD is_VBZ automatic_JJ

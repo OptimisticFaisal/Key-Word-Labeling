@@ -1,0 +1,5 @@
+sequential_JJ minimal_JJ optimization_NN algorithm_NN -LRB-_-LRB- SMO_NN -RRB-_-RRB- ._.
+In_IN LIBSVM_NNP ,_, we_PRP examined_VBD several_JJ tolerances_NNS for_IN termination_NN criterion_NN :_: ε_NN =_JJ 10_CD −_NN 3_CD ,_, 10_CD −_NN 6_CD ,_, 10_CD −_CD 9_CD ._.
+When_WRB we_PRP use_VBP LIBSVM_NN for_IN online-learning_NN ,_, alpha_NN seeding_NN =_JJ -_: =[_NN 11_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: sometimes_RB works_VBZ well_RB ._.
+The_DT basic_JJ idea_NN of_IN alpha_NN seeding_NN is_VBZ to_TO use_VB the_DT parameters_NNS before_IN the_DT update_VBP as_IN the_DT initial_JJ parameter_NN ._.
+In_IN alpha_NN seeding_NN ,_, we_PRP need_VBP to_TO take_VB care_NN of_IN the_DT fact_NN that_IN the_DT summation_NN constr_NN

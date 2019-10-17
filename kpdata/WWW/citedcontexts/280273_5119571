@@ -1,0 +1,7 @@
+es_NNS ._.
+Garofalakis_NNP et_FW al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- consider_VBP the_DT problem_NN of_IN extracting_VBG DTDs_NNS from_IN XML_NN documents_NNS ._.
+However_RB ,_, the_DT authors_NNS consider_VBP only_RB structural_JJ constraints_NNS ,_, and_CC do_VBP not_RB deal_VB with_IN attribute_NN values_NNS ._.
+Buneman_NNP et_FW al._FW =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: define_VB keys_NNS for_IN XML_NN ._.
+That_DT work_NN lays_VBZ the_DT foundations_NNS and_CC also_RB the_DT basic_JJ notation_NN used_VBN here_RB and_CC in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Arenas_FW et_FW al._FW -LRB-_-LRB- 2_LS -RRB-_-RRB- study_VB the_DT interaction_NN of_IN DTDs_NNS with_IN keys_NNS and_CC foreign-keys_NNS for_IN XML_NN ._.
+A_DT similar_JJ pro_NN

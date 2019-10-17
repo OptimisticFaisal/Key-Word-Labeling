@@ -1,0 +1,4 @@
+filtering_VBG criteria_NNS along_IN multiple_JJ dimensions_NNS ._.
+These_DT filtering_VBG criteria_NNS are_VBP often_RB expressed_VBN using_VBG attribute-value_JJ pairs_NNS -LRB-_-LRB- e.g._FW -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 1_LS -RRB-_-RRB- -RRB-_-RRB- ,_, XML-based_JJ tree_NN structures_NNS -LRB-_-LRB- e.g._FW -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 7_CD -RRB-_-RRB- -RRB-_-RRB- ,_, or_CC graph_NN structures_NNS -LRB-_-LRB- =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+While_IN these_DT systems_NNS each_DT has_VBZ it_PRP own_JJ merits_NNS ,_, they_PRP allow_VBP only_RB a_DT limited_JJ set_NN of_IN operators_NNS in_IN the_DT matching_NN process_NN ,_, e.g._FW ,_, comparisons_NNS on_IN primitive_JJ data_NNS types_NNS like_IN string_NN ,_, integer_NN and_CC timestamp_NN ._.
+In_IN this_DT

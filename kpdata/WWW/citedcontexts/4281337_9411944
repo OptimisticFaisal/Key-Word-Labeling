@@ -1,0 +1,5 @@
+-LRB-_-LRB- 43_CD -RRB-_-RRB- ._.
+Finally_RB ,_, to_TO minimize_VB the_DT human_JJ effort_NN of_IN labeling_NN training_NN data_NNS ,_, we_PRP can_MD study_VB active_JJ learning_NN techniques_NNS to_TO provide_VB users_NNS the_DT most_RBS informative_JJ examples_NNS for_IN labeling_NN during_IN the_DT annotation_NN tasks_NNS =_JJ -_: =[_NN 45_CD -RRB-_-RRB- -_: =_SYM -_: --_: -LRB-_-LRB- 48_CD -RRB-_-RRB- ._.
+VI_NNP ._.
+CONCLUSION_NN In_IN this_DT paper_NN ,_, we_PRP proposed_VBD a_DT novel_JJ transductive_JJ learning_NN algorithm_NN for_IN face_NN annotation_NN ._.
+In_IN contrast_NN to_TO traditional_JJ approaches_NNS using_VBG supervised_JJ learning_NN methods_NNS ,_, we_PRP proposed_VBD the_DT T_NN

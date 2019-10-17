@@ -1,0 +1,6 @@
+users_NNS -LRB-_-LRB- distinctness_NN -RRB-_-RRB- ._.
+4.1_CD Interest_NNP Distributions_NNPS We_PRP used_VBD 22_CD general_JJ topical_JJ categories_NNS -LRB-_-LRB- ``_`` Travel_NNP ''_'' ,_, ``_`` Computing_NNP ''_'' ,_, ._. ._. -RRB-_-RRB-
+,_, and_CC utilized_VBD an_DT automated_JJ query_NN categorizer_NN obtained_VBN via_IN machine_NN learning_NN techniques_NNS =_JJ -_: =[_NN 17_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT categorizer_NN assigned_VBD a_DT confidence_NN probability_NN to_TO each_DT category_NN it_PRP suggested_VBD ._.
+It_PRP dropped_VBD categories_NNS with_IN less_JJR than_IN 10_CD %_NN confidence_NN ._.
+The_DT categorizer_NN is_VBZ imperfect_JJ :_: it_PRP does_VBZ not_RB have_VB complete_JJ coverage_NN

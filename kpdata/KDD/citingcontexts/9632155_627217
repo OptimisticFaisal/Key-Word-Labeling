@@ -1,0 +1,4 @@
+he_PRP first_JJ place_NN ,_, quantities_NNS such_JJ as_IN mean_NN and_CC standard_JJ deviation_NN can_MD be_VB extracted_VBN from_IN the_DT relevance_NN posterior_NN ,_, and_CC can_MD be_VB used_VBN as_IN new_JJ features_NNS to_TO train_VB a_DT better_JJR search_NN ranker_NN ,_, in_IN a_DT much_JJ similar_JJ way_NN as_IN =_JJ -_: =[_NN 1_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT second_JJ place_NN ,_, the_DT preference_NN probability_NN from_IN BBM_NN -LRB-_-LRB- Eq_NN ._.
+27_CD -RRB-_-RRB- can_MD substitute_VB or_CC supplement_VB preferences_NNS that_WDT are_VBP heuristically_RB derived_VBN from_IN clicks_NNS or_CC human_JJ ratings_NNS ._.
+For_IN example_NN ,_, Joachims_NNP and_CC his_PRP$

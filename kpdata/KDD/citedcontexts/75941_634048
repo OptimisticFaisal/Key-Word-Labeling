@@ -1,0 +1,4 @@
+s_NN :_: Xpq_NN =_JJ 0_CD if_IN -LRB-_-LRB- Ap_NN ,_, Aq_NN -RRB-_-RRB- \/_: ∈_NN L_NN -LRB-_-LRB- Cp_NN −_CD Cpq_NN -RRB-_-RRB- -LRB-_-LRB- Cq_FW −_FW Cpq_NN -RRB-_-RRB- -LRB-_-LRB- Cp_NN +_CC Cq_NN -RRB-_-RRB- otherwise_RB ,_, Specifically_RB designed_VBN for_IN the_DT schema_NN matching_NN problem_NN ,_, this_DT matching_JJ score_NN has_VBZ the_DT following_JJ important_JJ properties_NNS :_: 1_CD ._.
+null_JJ invariance_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN any_DT two_CD attributes_NNS ,_, adding_VBG more_JJR schemas_NNS that_WDT do_VBP not_RB contain_VB the_DT attributes_NNS does_VBZ not_RB affect_VB their_PRP$ matching_JJ score_NN ._.
+That_DT is_VBZ ,_, we_PRP are_VBP more_RBR interested_JJ in_IN how_WRB frequently_RB attributes_VBZ Ap_NN and_CC Aq_NN are_VBP cross_JJ

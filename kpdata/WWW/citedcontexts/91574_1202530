@@ -1,0 +1,6 @@
+Web_NN pages_NNS ._.
+What_WP is_VBZ the_DT virtual_JJ document_NN ?_.
+There_EX may_MD be_VB several_JJ possible_JJ ways_NNS to_TO define_VB VD_NN ._.
+It_PRP is_VBZ dependent_JJ on_IN information_NN processing_NN tasks_NNS ._.
+The_DT concept_NN of_IN the_DT virtual_JJ document_NN was_VBD introduced_VBN by_IN Glover_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC they_PRP used_VBD VD_NN for_IN Web_NN pages_NNS classifying_VBG and_CC describing_VBG task_NN ._.
+In_IN our_PRP$ approach_NN ,_, the_DT virtual_JJ document_NN of_IN a_DT given_VBN page_NN is_VBZ comprised_VBN of_IN the_DT expanded_VBN anchor_NN text_NN -LRB-_-LRB- EAT_NN -RRB-_-RRB- from_IN pages_NNS that_WDT point_VBP to_TO him_PRP and_CC

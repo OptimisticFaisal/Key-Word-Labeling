@@ -1,0 +1,4 @@
+is_VBZ high_JJ when_WRB both_CC precision_NN and_CC recall_NN are_VBP high_JJ ._.
+6_CD ._.
+EXPERIMENTAL_JJ RESULTS_NNS In_IN this_DT section_NN ,_, we_PRP describe_VBP our_PRP$ experimental_JJ setup_NN and_CC present_JJ evaluation_NN results_NNS of_IN our_PRP$ system_NN ._.
+6.1_CD Setup_NN We_PRP used_VBD Minipar_NNP 2_CD =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT broad-coverage_JJ English_NNP parser_NN ,_, to_TO parse_VB about_IN 1GB_NN -LRB-_-LRB- 144M_NN words_NNS -RRB-_-RRB- of_IN newspaper_NN text_NN from_IN the_DT TREC_NN collection_NN -LRB-_-LRB- 1988_CD AP_NNP Newswire_NNP ,_, 1989-90_CD LA_NNP Times_NNP ,_, and_CC 1991_CD San_NNP Jose_NNP Mercury_NNP -RRB-_-RRB- at_IN a_DT speed_NN of_IN about_IN 500_CD wo_MD

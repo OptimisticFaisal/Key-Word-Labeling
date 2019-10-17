@@ -1,0 +1,5 @@
+ample_JJ code_NN listing_NN ._.
+encode_VBP data_NNS and_CC control_NN dependencies_NNS ._.
+PDG-based_JJ similarity_NN detection_NN tools_NNS have_VBP all_DT used_VBN some_DT variant_NN of_IN subgraph_JJ isomorphism_NN to_TO detect_VB either_CC similar_JJ procedures_NNS or_CC code_NN fragments_NNS =_JJ -_: =[_NN 12_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT computations_NNS are_VBP particularly_RB expensive_JJ ,_, and_CC each_DT technique_NN has_VBZ not_RB been_VBN shown_VBN to_TO scale_VB to_TO even_VB moderately-sized_JJ code_NN bases_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP an_DT extended_JJ definition_NN of_IN code_NN clones_NNS ,_,

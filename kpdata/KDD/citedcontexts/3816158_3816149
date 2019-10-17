@@ -1,0 +1,4 @@
+ion_NN to_TO structured_JJ learning_NN -LRB-_-LRB- or_CC multi-class_JJ -RRB-_-RRB- is_VBZ discussed_VBN ._.
+Recently_RB ,_, several_JJ new_JJ algorithms_NNS have_VBP been_VBN presented_VBN ,_, along_IN with_IN a_DT rate_NN of_IN convergence_NN analysis_NN -LRB-_-LRB- Joachims_NNP ,_, 2006_CD ;_: Shalev-Shwartz_NNP et_FW al._FW ,_, 2007_CD ;_: =_JJ -_: =_JJ Teo_NNP et_FW al._FW ,_, 2007_CD -_: =_JJ -_: ;_: Tsochantaridis_NNP et_FW al._FW ,_, 2004_CD -RRB-_-RRB- ._.
+All_DT of_IN these_DT algorithms_NNS are_VBP similar_JJ to_TO ours_PRP in_IN having_VBG a_DT relatively_RB low_JJ dependence_NN on_IN n_NN in_IN terms_NNS of_IN memory_NN and_CC computation_NN ._.
+Among_IN these_DT ,_, Shalev-Shwartz_NNP et_FW al._FW -LRB-_-LRB- 2007_CD -RRB-_-RRB- and_CC

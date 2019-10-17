@@ -1,0 +1,5 @@
+ctions_NNS or_CC recommendations_NNS for_IN items_NNS when_WRB insufficient_JJ ratings_NNS data_NNS for_IN those_DT items_NNS is_VBZ available_JJ ._.
+Several_JJ methods_NNS have_VBP been_VBN applied_VBN ._.
+The_DT most_RBS obvious_JJ method_NN is_VBZ to_TO ignore_VB failed_JJ predictions_NNS ,_, as_IN done_VBN by_IN =_JJ -_: =[_NN 3,9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Alternately_RB ,_, the_DT set_NN of_IN ratings_NNS testing_NN can_MD be_VB restricted_VBN to_TO be_VB only_RB those_DT that_IN all_DT algorithms_NNS could_MD predict_VB ._.
+Or_CC a_DT less_RBR accurate_JJ ,_, less_RBR personalized_JJ algorithm_NN ,_, such_JJ as_IN the_DT average_JJ rating_NN for_IN an_DT item_NN ,_,

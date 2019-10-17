@@ -1,0 +1,5 @@
+l_NN items_NNS not_RB in_IN the_DT original_JJ transaction_NN ._.
+-LRB-_-LRB- R3_NN -RRB-_-RRB- The_DT support_NN of_IN any_DT itemset_NN in_IN the_DT published_VBN data_NNS should_MD be_VB the_DT same_JJ as_IN in_IN the_DT original_JJ data_NNS ._.
+Many_JJ data_NNS mining_NN problems_NNS rely_VBP on_IN the_DT support_NN of_IN itemsets_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =-[_NN 20_CD -RRB-_-RRB- ._.
+For_IN example_NN ,_, association_NN rule_NN mining_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- is_VBZ aimed_VBN to_TO find_VB all_DT patterns_NNS α_FW →_FW β_FW ,_, where_WRB α_NN and_CC β_NN are_VBP itemsets_NNS ,_, such_JJ that_IN Sup_NN -LRB-_-LRB- α_FW ∪_FW β_FW -RRB-_-RRB- \/_: Sup_NN -LRB-_-LRB- α_NN -RRB-_-RRB- is_VBZ above_IN some_DT threshold_NN value_NN ._.
+Such_JJ patterns_NNS are_VBP good_JJ candidates_NNS

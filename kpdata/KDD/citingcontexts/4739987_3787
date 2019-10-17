@@ -1,0 +1,5 @@
+t_NN or_CC absent_JJ ._.
+After_IN processing_VBG the_DT executables_NNS using_VBG these_DT three_CD methods_NNS ,_, the_DT authors_NNS paired_VBD each_DT extraction_NN method_NN with_IN a_DT single_JJ learning_NN algorithm_NN ._.
+Using_VBG five-fold_JJ cross-validation_NN ,_, they_PRP used_VBD ripper_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: to_TO learn_VB rules_NNS from_IN the_DT training_NN set_NN produced_VBN by_IN binary_JJ profiling_NN ._.
+They_PRP used_VBD naive_JJ Bayes_NNP to_TO estimate_VB probabilities_NNS from_IN the_DT training_NN set_NN produced_VBN by_IN the_DT strings_NNS command_NN ._.
+Finally_RB ,_, they_PRP used_VBD an_DT ensembl_NN

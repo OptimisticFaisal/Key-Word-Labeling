@@ -1,0 +1,5 @@
+Entity_NN categorization_NN over_IN large_JJ document_NN collections_NNS
+hms_FW Keywords_FW Synonym_FW Generation_NN ,_, Entity_NN Extraction_NN ,_, Similarity_NN Measure_NN ,_, Web_NN Search_VB 1_CD ._.
+INTRODUCTION_NN Tasks_NNS relying_VBG on_IN recognizing_VBG entities_NNS have_VBP recently_RB received_VBN significant_JJ attention_NN in_IN the_DT literature_NN =_JJ -_: =[_NN 10_CD ,_, 12_CD ,_, 2_CD ,_, 14_CD ,_, 11_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Many_JJ solutions_NNS to_TO these_DT tasks_NNS assume_VBP the_DT existence_NN of_IN extensive_JJ reference_NN entity_NN tables_NNS ._.
+For_IN instance_NN ,_, extracting_VBG named_VBN entities_NNS such_JJ as_IN products_NNS and_CC locations_NNS from_IN a_DT reference_NN entity_NN table_NN is_VBZ impor_NN

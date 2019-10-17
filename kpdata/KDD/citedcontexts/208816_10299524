@@ -1,0 +1,4 @@
+n_NN threshold_NN value_NN at_IN query_JJ time_NN ._.
+This_DT problem_NN is_VBZ addressed_VBN with_IN inverse_JJ queries_NNS in_IN -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+Many_JJ approaches_NNS for_IN similarity_NN search_NN on_IN time_NN series_NN are_VBP based_VBN on_IN features_NNS extracted_VBN from_IN time_NN series_NN ,_, i.e._FW in_IN =_JJ -_: =[_NN 18_CD ,_, 10_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT similarity_NN model_NN for_IN time_NN series_NN that_WDT considers_VBZ the_DT characteristics_NNS of_IN the_DT time_NN series_NN was_VBD proposed_VBN in_IN -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, where_WRB a_DT set_NN of_IN global_JJ features_NNS including_VBG periodicity_NN ,_, self-similarity_NN ,_, skewness_NN and_CC kur_NN

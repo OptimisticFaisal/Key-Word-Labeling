@@ -1,0 +1,4 @@
+was_VBD also_RB utilized_VBN for_IN feature_NN selection_NN ._.
+A_DT similar_JJ idea_NN was_VBD used_VBN in_IN SVMRecursive_FW Feature_FW Elimination_NN -LRB-_-LRB- SVM-RFE_NN -RRB-_-RRB- -LRB-_-LRB- Guyon_NNP et_FW al._FW ,_, 2002_CD -RRB-_-RRB- where_WRB features_NNS with_IN smallest_JJS weights_NNS were_VBD removed_VBN iteratively_RB ._.
+In_IN -LRB-_-LRB- =_JJ -_: =_JJ Fung_NNP &_CC Mangasarian_NNP ,_, 2000_CD -_: =_JJ -_: ;_: Ng_NN ,_, 2004_CD -RRB-_-RRB- ,_, L1norm_NN of_IN weights_NNS was_VBD suggested_VBN to_TO replace_VB L2-norm_NN for_IN feature_NN selection_NN when_WRB learning_VBG an_DT SVM_NN model_NN ._.
+Another_DT feature_NN selection_NN model_NN related_JJ to_TO L1-norm_NN is_VBZ lasso_NN -LRB-_-LRB- Tibshirani_NNP ,_, 1996_CD -RRB-_-RRB- ,_, which_WDT

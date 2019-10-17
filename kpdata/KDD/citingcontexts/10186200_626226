@@ -1,0 +1,4 @@
+the_DT well-known_JJ PageRank_NN procedure_NN -LRB-_-LRB- 9_CD ,_, 43_CD -RRB-_-RRB- ,_, adapted_VBN in_IN order_NN to_TO provide_VB relative_JJ similarities_NNS between_IN nodes_NNS ._.
+Yet_RB another_DT PageRank-inspired_JJ algorithm_NN defining_VBG similarities_NNS between_IN nodes_NNS was_VBD proposed_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP provides_VBZ a_DT general_JJ way_NN of_IN computing_VBG similarities_NNS between_IN the_DT nodes_NNS of_IN two_CD different_JJ graphs_NNS ._.
+Applying_VBG this_DT procedure_NN to_TO the_DT same_JJ graph_NN allows_VBZ to_TO find_VB self-similarities_NNS ,_, that_DT is_VBZ ,_, similarities_NNS betwe_VBP

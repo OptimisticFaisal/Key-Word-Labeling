@@ -1,0 +1,4 @@
+N_NN N_NN A_NN ,_, B_NN confidence_NN =_JJ =_JJ P_NN -LRB-_-LRB- B_NN |_NN A_NN -RRB-_-RRB- -LRB-_-LRB- 4_LS -RRB-_-RRB- N_NN In_IN a_DT neural_JJ network_NN ,_, N_NN is_VBZ the_DT number_NN of_IN the_DT occurrences_NNS ._.
+In_IN our_PRP$ model_NN ,_, N_NN is_VBZ the_DT number_NN of_IN neural_JJ configuration_NN pattern_NN which_WDT obey_VBP this_DT rule_NN ._.
+According_VBG to_TO Zaki_NNP =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT rule_NN is_VBZ classified_VBN as_IN strong_JJ ,_, weak_JJ or_CC medium_NN depending_VBG on_IN the_DT support_NN and_CC confidence_NN threshold_NN values_NNS known_VBN as_IN ,_, minimum_JJ support_NN -LRB-_-LRB- minsup_NN -RRB-_-RRB- or_CC minimum_JJ confident_JJ -LRB-_-LRB- minconf_NN -RRB-_-RRB- ._.
+These_DT values_NNS are_VBP determined_VBN

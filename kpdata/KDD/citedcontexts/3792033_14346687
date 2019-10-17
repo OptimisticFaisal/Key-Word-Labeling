@@ -1,0 +1,4 @@
+ficient_JJ whenever_WRB the_DT number_NN of_IN features_NNS is_VBZ exceptionally_RB large_JJ ._.
+4.4_CD Post-Processing_NNP SVM_NNP delivers_VBZ confidence_NN values_NNS for_IN each_DT class_NN as_IN a_DT kind_NN of_IN guarantee_NN that_IN the_DT prediction_NN is_VBZ actually_RB true_JJ positive_JJ -LRB-_-LRB- =_JJ -_: =_JJ Mierswa_FW et_FW al._FW 2006_CD -_: =--RRB-_NN ._.
+Corporate_JJ disclosures_NNS are_VBP assigned_VBN to_TO the_DT classes_NNS positive_JJ or_CC negative_JJ depending_VBG on_IN whether_IN the_DT confidence_NN value_NN is_VBZ above_IN or_CC below_IN a_DT certain_JJ -LRB-_-LRB- learned_VBN -RRB-_-RRB- threshold_NN ._.
+The_DT variation_NN of_IN thresholds_NNS may_MD be_VB

@@ -1,0 +1,4 @@
+iefly_RB sketch_NN two_CD approaches_NNS ;_: one_CD is_VBZ suitable_JJ for_IN pairwise_JJ distances_NNS ,_, and_CC the_DT other_JJ for_IN similarities_NNS ._.
+Stress_NN minimization_NN :_: When_WRB pairwise_JJ distances_NNS are_VBP given_VBN ,_, we_PRP use_VBP the_DT well-known_JJ Stress_NN cost_NN function_NN =_JJ -_: =[_NN 22_CD ,_, 16_CD ,_, 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, defined_VBN as_IN :_: kij_FW ·_FW -LRB-_-LRB- |_CD xi_FW −_FW xj_FW |_FW −_FW dij_FW -RRB-_-RRB- 2_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- i_LS -RRB-_-RRB- j_NN Here_RB we_PRP want_VBP to_TO minimize_VB the_DT squared_VBN deviation_NN between_IN the_DT actual_JJ pairwise_JJ distances_NNS in_IN the_DT drawing_NN and_CC the_DT desired_VBN pairwise_JJ disdef_NN −_CD α_NN tances_NNS ._.
+Deviati_NNP

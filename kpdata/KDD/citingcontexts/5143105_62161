@@ -1,0 +1,4 @@
+-RRB-_-RRB- i_LS =_JJ 1_CD is_VBZ the_DT class_NN covariance_NN matrix_NN of_IN the_DT original_JJ data_NNS in_IN X._NNP For_IN high-dimensional_JJ data_NNS ,_, the_DT estimation_NN of_IN the_DT covariance_NN matrix_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- is_VBZ often_RB not_RB reliable_JJ ._.
+Thus_RB ,_, the_DT regularization_NN technique_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ applied_VBN to_TO improve_VB the_DT estimation_NN as_IN follows_VBZ :_: S_NN =_JJ 1_CD n_NN -LRB-_-LRB- xi_FW −_FW μ_FW -RRB-_-RRB- -LRB-_-LRB- xi_FW −_FW μ_FW -RRB-_-RRB- n_NN T_NN +_CC λIm_NN ,_, -LRB-_-LRB- 6_CD -RRB-_-RRB- i_LS =_JJ 1_CD where_WRB Im_NN is_VBZ the_DT identity_NN matrix_NN of_IN size_NN m_NN and_CC λ_NN -RRB-_-RRB- 0isa_NN regularization_NN parameter_NN ._.
+sUnder_VB this_DT new_JJ distance_NN me_PRP

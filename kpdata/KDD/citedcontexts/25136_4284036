@@ -1,0 +1,5 @@
+ns_IN an_DT open_JJ and_CC challenging_JJ problem_NN ._.
+In_IN particular_JJ ,_, previous_JJ approaches_NNS have_VBP several_JJ drawbacks_NNS that_WDT make_VBP them_PRP seemingly_RB insufficent_JJ for_IN the_DT class_NN of_IN problem_NN of_IN concern_NN in_IN this_DT paper_NN ._.
+Vaidya_NNP and_CC Clifton_NNP =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: present_JJ an_DT approach_NN that_WDT uses_VBZ computation_NN of_IN scalar_JJ product_NN to_TO preserve_VB privacy_NN ,_, but_CC this_DT approach_NN is_VBZ limited_VBN to_TO only_RB two_CD agent_NN interactions_NNS ._.
+Kargupta_FW et_FW ._.
+al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- discuss_VBP an_DT approach_NN which_WDT leverages_VBZ

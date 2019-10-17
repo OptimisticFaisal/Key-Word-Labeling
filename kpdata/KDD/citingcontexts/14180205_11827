@@ -1,0 +1,5 @@
+ied_VBN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 3_LS -RRB-_-RRB- from_IN a_DT game-theoretic_JJ point_NN of_IN view_NN ._.
+Our_PRP$ solution_NN is_VBZ mainly_RB based_VBN on_IN the_DT network_NN flow_NN problem_NN and_CC its_PRP$ dual_JJ ._.
+There_EX is_VBZ a_DT large_JJ amount_NN of_IN literature_NN on_IN the_DT network_NN flow_NN problem_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT closest_JJS work_NN to_TO our_PRP$ method_NN is_VBZ the_DT push-relabel_JJ algorithm_NN of_IN Goldberg_NNP and_CC Tarjan_NNP -LRB-_-LRB- 12_CD -RRB-_-RRB- ;_: they_PRP introduced_VBD a_DT method_NN for_IN computing_VBG the_DT maximum_NN flow_NN problem_NN without_IN using_VBG augmenting_VBG paths_NNS ._.
+The_DT reconst_NN

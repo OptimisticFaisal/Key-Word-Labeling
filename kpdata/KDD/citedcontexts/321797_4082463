@@ -1,0 +1,3 @@
+all_DT groups_NNS -LRB-_-LRB- i.e._FW ,_, Age_NNP ∈_NNP -LRB-_-LRB- 21,25_CD -RRB-_-RRB- ∧_FW BMI_FW ∈_NN -LRB-_-LRB- 18.4,23.5_CD -RRB-_-RRB- -RRB-_-RRB- ,_, and_CC the_DT percentages_NNS represent_VBP the_DT number_NN of_IN examples_NNS in_IN each_DT group_NN for_IN which_WDT the_DT association_NN rule_NN is_VBZ true_JJ -LRB-_-LRB- called_VBN support_NN -RRB-_-RRB- ,_, is_VBZ called_VBN a_DT contrast_NN set_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+When_WRB the_DT common_JJ consequent_JJ contains_VBZ continuous-valued_JJ attributes_NNS ,_, it_PRP is_VBZ called_VBN a_DT quantitative_JJ contrast_NN set_NN ._.
+The_DT goal_NN of_IN contrast_NN set_NN mining_NN is_VBZ to_TO identify_VB rules_NNS whose_WP$ support_NN is_VBZ significantly_RB differ_VB

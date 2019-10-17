@@ -1,0 +1,4 @@
+h_NN representation_NN -LRB-_-LRB- circles_NNS are_VBP nodes_NNS and_CC squares_NNS denote_VBP hyperedges_NNS -RRB-_-RRB- ._.
+to_TO be_VB NP-complete_JJ -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, and_CC consequently_RB many_JJ heuristics_NNS have_VBP been_VBN proposed_VBN ._.
+Spectral_JJ partitioning_VBG methods_NNS and_CC their_PRP$ variants_NNS -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 20_CD ,_, 21_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN used_VBN to_TO partition_NN a_DT wide_JJ variety_NN of_IN graphs_NNS and_CC specialized_JJ strategies_NNS exist_VBP in_IN order_NN to_TO induce_VB the_DT particular_JJ properties_NNS -LRB-_-LRB- e.g._FW ,_, producing_VBG balanced_JJ partitions_NNS -RRB-_-RRB- ._.
+The_DT Kernighan-Lin\/Fiduccia-Ma_NN

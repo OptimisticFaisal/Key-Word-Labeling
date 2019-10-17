@@ -1,0 +1,4 @@
+thus_RB making_VBG it_PRP less_RBR likely_JJ for_IN them_PRP to_TO be_VB leaks_NNS ._.
+4.3.2_FW MVEL_FW In_IN a_DT separate_JJ project_NN ,_, one_CD of_IN the_DT authors_NNS developed_VBD a_DT rulebased_JJ system_NN for_IN the_DT application_NN of_IN software_NN engineering_NN patterns_NNS to_TO enhance_VB code_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+During_IN the_DT development_NN of_IN this_DT project_NN ,_, out_IN of_IN memory_NN situations_NNS occurred_VBD when_WRB certain_JJ input_NN was_VBD fed_VBN to_TO the_DT rule_NN engine_NN ,_, which_WDT was_VBD written_VBN using_VBG the_DT Drools_NNP rule_NN engine_NN framework_NN ._.
+In_IN this_DT system_NN ,_, rul_NN

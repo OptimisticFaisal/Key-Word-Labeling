@@ -1,0 +1,4 @@
+ipartite_JJ network_NN of_IN ``_`` fraudsters_NNS ''_'' ,_, ``_`` honest_JJ users_NNS ''_'' ,_, and_CC ``_`` accomplices_NNS ''_'' ._.
+Upon_IN deciding_VBG on_IN this_DT model_NN ,_, they_PRP then_RB use_VBP loopy_JJ belief_NN propagation_NN to_TO assign_VB probabilities_NNS of_IN each_DT node_NN being_VBG in_IN the_DT three_CD states_NNS =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: ,_, by_IN detecting_VBG bipartite_JJ cores_NNS ._.
+-LRB-_-LRB- Our_PRP$ work_NN differs_VBZ in_IN that_IN we_PRP do_VBP not_RB identify_VB a_DT specific_JJ network_NN structure_NN such_JJ as_IN a_DT bipartite_JJ core_NN ,_, only_RB that_IN one_PRP can_MD propagate_VB labels_NNS using_VBG homophily_RB ._.
+This_DT allows_VBZ for_IN

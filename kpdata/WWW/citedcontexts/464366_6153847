@@ -1,0 +1,3 @@
+Reading_VBG and_CC Writing_VBG Objects_NNS Before_IN we_PRP tackle_VBP the_DT various_JJ possible_JJ replication_NN schemes_NNS ,_, it_PRP is_VBZ necessary_JJ to_TO take_VB a_DT look_NN at_IN the_DT actual_JJ process_NN of_IN reading_VBG and_CC writing_VBG data_NNS ._.
+Both_DT Coral_NNP -LRB-_-LRB- 39_CD ;_: 4_CD -RRB-_-RRB- and_CC GlobeDB_NN =_JJ -_: =[_NN 52_CD -RRB-_-RRB- -_: =_SYM -_: use_VB a_DT concept_NN where_WRB every_DT document_NN has_VBZ an_DT authoritative_JJ owner_NN that_WDT can_MD either_RB solve_VB disputes_NNS about_IN content_NN or_CC handle_VB replication_NN ._.
+This_DT introduces_VBZ a_DT single_JJ point_NN of_IN failure_NN that_IN we_PRP would_MD like_VB to_TO avoid_VB

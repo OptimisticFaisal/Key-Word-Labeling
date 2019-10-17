@@ -1,0 +1,4 @@
+but_CC actually_RB this_DT need_MD not_RB be_VB the_DT case_NN ,_, as_IN we_PRP shall_MD see_VB in_IN our_PRP$ experiments_NNS ._.
+Kaski_NN -LRB-_-LRB- 17_CD ,_, 16_CD -RRB-_-RRB- has_VBZ presented_VBN experimental_JJ results_NNS in_IN using_VBG the_DT random_JJ mapping_NN in_IN the_DT context_NN of_IN the_DT WEBSOM_NN 1_CD system_NN ._.
+Kurimo_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: applies_VBZ random_JJ projection_NN to_TO the_DT indexing_NN of_IN audio_JJ documents_NNS ,_, prior_RB to_TO using_VBG LSI_NNP and_CC SOM_NNP ._.
+Kleinberg_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- and_CC Indyk_NNP and_CC Motwani_NNP -LRB-_-LRB- 14_CD -RRB-_-RRB- use_VBP random_JJ projections_NNS in_IN nearest-neighbor_JJ search_NN in_IN a_DT high_JJ dimensi_NN

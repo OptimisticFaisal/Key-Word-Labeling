@@ -1,0 +1,4 @@
+set_VBN ._.
+Flake_NNP defines_VBZ a_DT community_NN on_IN the_DT web_NN as_IN a_DT set_NN of_IN sites_NNS that_WDT have_VBP more_JJR links_NNS to_TO members_NNS of_IN the_DT community_NN than_IN to_TO non-members_NNS ,_, and_CC models_NNS the_DT graph_NN partition_NN based_VBN on_IN maximum_NN flow_NN and_CC minimal_JJ cuts_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT community_NN chart_NN algorithm_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- identifies_VBZ multiple_JJ communities_NNS and_CC relationships_NNS between_IN communities_NNS ._.
+Communities_NNS are_VBP identified_VBN by_IN partitioning_VBG Symmetric_JJ Derivation_NN Graph_NN whose_WP$ link_NN represents_VBZ

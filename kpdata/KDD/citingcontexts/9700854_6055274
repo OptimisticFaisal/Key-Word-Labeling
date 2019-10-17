@@ -1,0 +1,4 @@
+ze_IN a_DT label_NN propagation_NN process_NN to_TO ensure_VB that_IN the_DT smoothness_NN assumption_NN holds_VBZ for_IN both_CC labeled_JJ and_CC unlabeled_JJ data_NNS ._.
+An_DT extension_NN of_IN the_DT algorithm_NN to_TO regression_NN problems_NNS were_VBD proposed_VBN by_IN Wang_NNP et_FW al._FW in_IN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Zhu_NNP and_CC Goldberg_NNP -LRB-_-LRB- 33_CD -RRB-_-RRB- developed_VBD a_DT semi-supervised_JJ regression_NN method_NN that_WDT incorporates_VBZ additional_JJ domain_NN knowledge_NN to_TO improve_VB model_NN performance_NN ._.
+Since_IN all_DT of_IN the_DT previous_JJ approaches_NNS ignore_VBP the_DT tempor_NN

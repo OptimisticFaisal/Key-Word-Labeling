@@ -1,0 +1,5 @@
+oints_NNS intertwined_VBN in_IN the_DT shape_NN of_IN a_DT spiral_NN is_VBZ a_DT synthetic_JJ dataset_NN -LRB-_-LRB- 37_CD -RRB-_-RRB- ._.
+However_RB ,_, it_PRP apparently_RB is_VBZ a_DT difficult_JJ test_NN case_NN for_IN data_NN mining_NN algorithms_NNS and_CC is_VBZ known_VBN to_TO give_VB neural_JJ networks_NNS severe_JJ problems_NNS =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN contrast_NN ,_, a_DT sharp_JJ separation_NN was_VBD obtained_VBN using_VBG PSVM_NN as_IN can_MD be_VB seen_VBN in_IN Figure_NNP 3_CD ._.
+5_CD ._.
+Table_NNP 2_CD :_: Nonlinear_JJ Classifier_NN Comparison_NN using_VBG ISVM_NN ,_, SSVM_NN and_CC LSVM_NN For_IN this_DT experiment_NN we_PRP chose_VBD four_CD datasets_NNS f_SYM

@@ -1,0 +1,4 @@
+s_NN with_IN Intel_NNP IT_NNP Research_NNP revealed_VBD that_IN more_RBR often_RB that_IN not_RB ,_, these_DT simulations_NNS have_VBP high_RB compute_VB requirements_NNS ._.
+Intel_NNP Corporation_NNP uses_VBZ an_DT in-house_JJ wide-area_JJ distributed_VBN computing_NN system_NN called_VBN NetBatch_NNP =_SYM -_: =[_NN 27_CD ,_, 136_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Intel_NNP employees_NNS submit_VBP simulations_NNS to_TO the_DT NetBatch_NNP pool_NN which_WDT manages_VBZ idle_JJ resources_NNS on_IN office_NN workstations_NNS and_CC servers_NNS ._.
+NetBatch_NNP includes_VBZ a_DT hierarchical_JJ matchmaker_NN that_WDT matches_VBZ submitted_VBN jobs_NNS -LRB-_-LRB- both_DT

@@ -1,0 +1,4 @@
+-RRB-_-RRB- spacecraft_NN to_TO perform_VB pixel-level_JJ classification_NN of_IN hyperspectral_JJ images_NNS -LRB-_-LRB- 19_CD -RRB-_-RRB- and_CC can_MD also_RB be_VB used_VBN to_TO perform_VB regression_NN ,_, such_JJ as_IN estimating_VBG the_DT dust_NN and_CC water_NN ice_NN content_NN of_IN the_DT Martian_NNP atmosphere_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A._NN Support_NN Vector_NNP Machines_NNP Support_NN vector_NN machines_NNS -LRB-_-LRB- 21_CD -RRB-_-RRB- infer_VBP a_DT hyperplane_NN to_TO separate_VB labeled_JJ training_NN data_NNS into_IN two_CD distinct_JJ classes_NNS ._.
+The_DT hyperplane_NN can_MD then_RB be_VB used_VBN to_TO classify_VB new_JJ items_NNS ._.
+Arbitra_NNP

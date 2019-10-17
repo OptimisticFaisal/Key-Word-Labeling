@@ -1,0 +1,4 @@
+oblem_NN by_IN combining_VBG ILP_NN method_NN with_IN Apriori-like_JJ level_NN wise_JJ search_NN ._.
+Other_JJ approaches_NNS performing_VBG either_CC level-wise_JJ search_NN or_CC projection_NN methods_NNS to_TO mine_VB a_DT complete_JJ set_NN of_IN subgraphs_NNS were_VBD proposed_VBN as_RB well_RB =_JJ -_: =[_NN 16_CD ,_, 18_CD ,_, 30_CD ,_, 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN principle_NN ,_, many_JJ of_IN the_DT above_JJ approaches_NNS could_MD be_VB used_VBN to_TO mine_VB constrained_VBN graphs_NNS ._.
+However_RB ,_, the_DT adaptation_NN of_IN the_DT above_RB mentioned_VBN methods_NNS to_TO workflow_NN mining_NN is_VBZ a_DT challenging_JJ task_NN ,_, and_CC it_PRP results_VBZ u_NN

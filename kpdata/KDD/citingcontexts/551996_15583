@@ -1,0 +1,5 @@
+n_NN analysis_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Both_DT of_IN these_DT two_CD popular_JJ data_NNS mining_NN techniques_NNS can_MD reveal_VB some_DT interesting_JJ properties_NNS of_IN item_NN co-occurrence_NN and_CC relationship_NN in_IN transactional_JJ databases_NNS ._.
+Moreover_RB ,_, current_JJ approaches_NNS =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: for_IN association_NN analysis_NN needs_VBZ only_RB very_RB few_JJ scans_NNS of_IN the_DT database_NN ._.
+However_RB ,_, there_EX are_VBP differences_NNS ._.
+On_IN the_DT one_CD hand_NN ,_, clustering_NN can_MD give_VB a_DT general_JJ overview_NN property_NN of_IN the_DT data_NNS ,_, while_IN association_NN ana_NN

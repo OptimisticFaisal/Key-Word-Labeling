@@ -1,0 +1,5 @@
+continuous_JJ data_NNS ._.
+It_PRP will_MD be_VB useful_JJ to_TO design_NN approaches_NNS that_WDT can_MD directly_RB handle_VB continuous_JJ data_NNS for_IN discriminative_JJ pattern_NN mining_NN ,_, as_IN has_VBZ been_VBN done_VBN for_IN discovering_VBG patterns_NNS in_IN an_DT unsupervised_JJ manner_NN =_JJ -_: =[_NN 36_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+IX_CD ._.
+SUPPLEMENTARY_JJ MATERIAL_NN :_: EXPERIMENTS_NNS TO_TO SHOW_NNP HOW_NNP WELL_NNP SupMaxK_NNP ESTIMATES_NNP DiffSup_NNP In_IN this_DT set_NN of_IN experiments_NNS ,_, we_PRP study_VBD how_WRB the_DT members_NNS of_IN SupMaxK_NN approximate_JJ DiffSup_NN as_IN K_NN increases_NNS ._.
+There_EX are_VBP two_CD a_DT

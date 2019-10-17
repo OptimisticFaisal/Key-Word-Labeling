@@ -1,0 +1,3 @@
+ctions_NNS themselves_PRP ,_, making_VBG the_DT analysis_NN of_IN the_DT discovered_VBN patterns_NNS impractical_JJ and_CC even_RB useless_JJ ._.
+New_JJ attempts_NNS toward_IN solving_VBG such_JJ problems_NNS are_VBP made_VBN by_IN finding_VBG the_DT set_NN of_IN frequent_JJ closed_JJ itemsets_NNS -LRB-_-LRB- FCI_NN -RRB-_-RRB- =_JJ -_: =[_NN 8_CD ,_, 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT frequent_JJ itemset_NN X_NN is_VBZ closed_VBN if_IN and_CC only_RB if_IN there_EX is_VBZ no_DT X_NN ′_NN such_JJ that_IN X_NN is_VBZ a_DT subset_NN of_IN X_NNP ′_NNP and_CC X_NNP ′_NNP is_VBZ contained_VBN in_IN every_DT transaction_NN containing_VBG X._NNP Finding_NNP only_RB the_DT closed_JJ item_NN patterns_NNS reduces_VBZ dra_NN

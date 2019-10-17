@@ -1,0 +1,4 @@
+cuments_NNS ,_, would_MD obviously_RB be_VB challenging_JJ ._.
+Recently_RB ,_, Kleinberg_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- showed_VBD that_IN the_DT HITS_NN algorithm_NN ,_, which_WDT is_VBZ strongly_RB related_JJ to_TO spectral_JJ graph_NN partitioning_NN and_CC methods_NNS used_VBN by_IN the_DT Google_NNP search_NN engine_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- ,_, can_MD ide_VB -_: =_JJ -_: ntify_JJ \_NN hub_NN ''_'' and_CC \_CD authority_NN ''_'' web_NN pages_NNS ._.
+A_DT hub_NN site_NN links_NNS to_TO many_JJ authority_NN sites_NNS and_CC an_DT authority_NN site_NN is_VBZ linked_VBN to_TO by_IN many_JJ hubs_NNS ._.
+Thus_RB ,_, the_DT denition_NN of_IN the_DT two_CD page_NN types_NNS is_VBZ recursive_JJ and_CC mut_NN

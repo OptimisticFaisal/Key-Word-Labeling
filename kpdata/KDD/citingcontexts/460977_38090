@@ -1,0 +1,3 @@
+discriminate_VB two_CD types_NNS of_IN leukemia_NN using_VBG heuristic_NN feature_NN selection_NN and_CC a_DT certain_JJ variant_NN of_IN perceptron-based_JJ classification_NN method_NN that_WDT separates_VBZ these_DT two_CD classes_NNS of_IN leukemia_NN ._.
+Also_RB ,_, Friedman_NNP et_FW al_FW =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: used_VBN Bayesian_JJ networks_NNS to_TO analyze_VB gene_NN expression_NN data_NNS and_CC to_TO discover_VB and_CC describe_VB interactions_NNS between_IN genes_NNS ._.
+Furthermore_RB ,_, Barash_NNP and_CC Friedman_NNP -LRB-_-LRB- 4_CD -RRB-_-RRB- used_VBD context-specific_JJ Bayesian_JJ clustering_NN method_NN t_NN

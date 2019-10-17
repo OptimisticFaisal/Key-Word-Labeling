@@ -1,0 +1,4 @@
+ralize_JJ FDs_NNS for_IN attribute_NN domains_NNS -LRB-_-LRB- called_VBN levels_NNS -RRB-_-RRB- that_WDT are_VBP organized_VBN in_IN a_DT finer-than_JJ order_NN ._.
+Such_JJ finer-than_JJ relations_NNS are_VBP very_RB common_JJ in_IN data_NNS mining_NN and_CC OLAP_NN ;_: they_PRP have_VBP been_VBN called_VBN concept_NN hierarchies_NNS =_JJ -_: =_JJ -LRB-_-LRB- HCC93_NN -RRB-_-RRB- -_: =_JJ -_: ,_, or_CC roll-up\/drill-down_NN lattices_NNS ._.
+For_IN example_NN ,_, time_NN can_MD be_VB measured_VBN in_IN days_NNS -LRB-_-LRB- level_NN DAY_NN -RRB-_-RRB- or_CC weeks_NNS -LRB-_-LRB- level_NN WEEK_NN -RRB-_-RRB- ._.
+DAY_NN is_VBZ finer_JJR than_IN WEEK_NNP ,_, and_CC there_EX is_VBZ a_DT many-to-one_JJ mapping_NN from_IN DAY_NN values_NNS to_TO WEEK_NN values_NNS

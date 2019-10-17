@@ -1,0 +1,3 @@
+ee_NN discovery_NN ._.
+Asai_NNP et_FW al._FW -LRB-_-LRB- 2_CD -RRB-_-RRB- proposed_VBD the_DT FREQT_NNP algorithm_NN to_TO find_VB all_DT frequent_JJ ordered_VBN subtrees_NNS by_IN incrementally_RB enumerating_VBG ordered_VBN trees_NNS and_CC computing_VBG their_PRP$ occurrences_NNS level_NN by_IN level_NN ._.
+Zaki_NNP et_FW al._FW =_SYM -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: independently_RB proposed_VBD a_DT similar_JJ algorithm_NN ,_, TREEMINER_NN ,_, with_IN a_DT key_JJ difference_NN that_IN Zaki_NNP 's_POS method_NN was_VBD designed_VBN to_TO find_VB all_DT frequent_JJ embedded_JJ ordered_VBN subtrees_NNS ,_, that_DT is_VBZ ,_, subtrees_NNS induced_VBD not_RB only_RB from_IN th_DT

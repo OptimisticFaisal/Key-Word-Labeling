@@ -1,0 +1,4 @@
+des_FW ,_, and_CC 18,771_CD links_NNS -LRB-_-LRB- transactions_NNS -RRB-_-RRB- ._.
+Evaluation_NN Design_NN and_CC Measurement_NN To_TO evaluate_VB the_DT performance_NN of_IN different_JJ recommendation_NN methods_NNS ,_, we_PRP adopted_VBD a_DT holdout_NN testing_NN approach_NN similar_JJ to_TO those_DT used_VBN in_IN =_JJ -_: =[_NN 1_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN each_DT target_NN consumer_NN we_PRP retrieved_VBD the_DT entire_JJ set_NN of_IN previously_RB purchased_VBN products_NNS and_CC sorted_VBD them_PRP into_IN chronological_JJ order_NN by_IN purchase_NN date_NN ._.
+The_DT first_JJ half_NN of_IN these_DT products_NNS was_VBD treated_VBN as_IN ``_`` past_JJ

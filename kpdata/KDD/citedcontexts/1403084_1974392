@@ -1,0 +1,5 @@
+nd_NN con_NN dence_NN ._.
+Others_NNS are_VBP heuristic_NN in_IN that_IN they_PRP attempt_VBP to_TO nd_VB rules_NNS that_WDT are_VBP predictive_JJ ,_, but_CC make_VBP no_DT guarantees_NNS on_IN the_DT predictiveness_NN or_CC the_DT completeness_NN of_IN the_DT returned_VBN rule_NN set_NN -LRB-_-LRB- e.g._FW decision_NN tree_NN -RRB-_-RRB- =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Having_VBG obtained_VBN a_DT set_NN of_IN rules_NNS from_IN the_DT data_NN is_VBZ not_RB the_DT end_NN of_IN the_DT story_NN ._.
+Because_IN ,_, most_JJS of_IN the_DT rules_NNS that_WDT are_VBP mined_VBN from_IN the_DT data_NNS may_MD not_RB be_VB useful_JJ or_CC interesting_JJ to_TO the_DT user_NN ._.
+The_DT number_NN of_IN discover_VB

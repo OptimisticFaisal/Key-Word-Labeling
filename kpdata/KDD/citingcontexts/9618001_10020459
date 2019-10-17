@@ -1,0 +1,4 @@
+near_JJ and_CC radial_JJ basis_NN function_NN -LRB-_-LRB- RBF_NN -RRB-_-RRB- kernels_NNS ._.
+Logistic_JJ Regression_NN :_: This_DT is_VBZ a_DT simple_JJ parametric_JJ model_NN for_IN binaryclassificationwhereexamplesareclassifiedbasedontheirdistancefromahyperplanedecisionboundary_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Thedecisionrule_JJ isexpressedintermsofthesigmoidfunction_NN σ_NN -LRB-_-LRB- z_SYM -RRB-_-RRB- =_JJ -LRB-_-LRB- 1_CD +_CC e_SYM −_CD z_SYM -RRB-_-RRB- −_NN 1_CD ,_, which_WDT converts_VBZ these_DT distances_NNS into_IN probabilities_NNS that_IN feature_NN vectors_NNS have_VBP positive_JJ or_CC negative_JJ labels_NNS ._.
+The_DT conditiona_NN

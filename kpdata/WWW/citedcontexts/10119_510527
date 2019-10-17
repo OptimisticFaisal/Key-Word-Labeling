@@ -1,0 +1,4 @@
+nce_NN Chart_NN specification_NN ._.
+The_DT verification_NN is_VBZ performed_VBN by_IN compiling_VBG the_DT sequence_NN charts_NNS into_IN the_DT Finite_JJ State_NN Process_VBP notation_NN -LRB-_-LRB- FSP_NN -RRB-_-RRB- ,_, and_CC invoking_VBG a_DT propositional_JJ model_NN checker_NN from_IN the_DT LTSA_NNP toolkit_NN ._.
+=_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ an_DT approach_NN to_TO the_DT verification_NN and_CC automated_JJ composition_NN of_IN finite-state_JJ web_NN services_NNS specified_VBN using_VBG the_DT DAML-S_NN standard_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+The_DT verified_VBN properties_NNS are_VBP propositional_JJ ,_, abstracting_VBG from_IN t_NN

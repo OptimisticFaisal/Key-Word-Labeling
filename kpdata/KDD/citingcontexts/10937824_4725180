@@ -1,0 +1,5 @@
+e_LS edge_NN parameterized_VBD random_JJ walk_NN models_NNS ._.
+We_PRP will_MD describe_VB this_DT model_NN in_IN detail_NN in_IN section_NN 3_CD ._.
+The_DT efficiency_NN of_IN keyword_JJ search_NN on_IN graph_NN has_VBZ been_VBN the_DT concern_NN for_IN many_JJ previous_JJ systems_NNS ._.
+Most_JJS of_IN them_PRP -LRB-_-LRB- 23_CD -RRB-_-RRB- =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =-[_CD 9_CD -RRB-_-RRB- build_VBP two-level_JJ representations_NNS of_IN the_DT graphs_NNS offline_NN ,_, which_WDT can_MD speed_VB up_RP query_JJ execution_NN ._.
+Tong_NNP et_FW al._FW -LRB-_-LRB- 24_CD -RRB-_-RRB- studied_VBD fast_JJ RWR_NN methods_NNS based_VBN on_IN low-rank_JJ matrix_NN approximation_NN ,_, and_CC graph_NN partitioning_NN ._.

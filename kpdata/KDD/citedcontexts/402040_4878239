@@ -1,0 +1,3 @@
+tree_NN induction_NN algorithms_NNS ,_, fuzzy_JJ clustering_NN and_CC rule_NN discovery_NN ,_, support_NN vector_NN machines_NNS -LRB-_-LRB- SVMs_NNS -RRB-_-RRB- ,_, logistic_JJ regression_NN ,_, boosting_VBG and_CC bagging_VBG ,_, and_CC more_JJR -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+The_DT best_JJS technique_NN for_IN prediction_NN reported_VBN in_IN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 12_CD -RRB-_-RRB- is_VBZ the_DT Naive_JJ Bayesian_JJ learning_NN ,_, provided_VBN 800_CD predictions_NNS made_VBN ,_, which_WDT gives_VBZ a_DT hit_NN rate_NN about_IN 15.2_CD %_NN ._.
+Predictors_NNS based_VBN on_IN the_DT backpropagation_NN MLP_NN networks_NNS show_VBP accuracy_NN rate_NN about_IN 71_CD %_NN and_CC hit_NN r_NN

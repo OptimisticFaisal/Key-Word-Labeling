@@ -1,0 +1,5 @@
+ple_NN rule-based_JJ systems_NNS ._.
+Rules_NNS can_MD be_VB hand-coded_JJ to_TO restrict_VB access_NN to_TO specific_JJ hosts_NNS and_CC services_NNS ._.
+But_CC manual_JJ updation_NN of_IN rules_NNS is_VBZ deemed_VBN impractical_JJ ._.
+Intrusion_NN detection_NN systems_NNS -LRB-_-LRB- IDSs_NNS -RRB-_-RRB- such_JJ as_IN NIDES_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, ADAM_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, and_CC SPADE_NNP model_NN features_NNS of_IN the_DT network_NN and_CC transport_NN layer_NN ,_, such_JJ as_IN port_JJ numbers_NNS ,_, IP_NNP addresses_NNS ,_, and_CC TCP_NN flags_NNS ._.
+Web_NN based_JJ attacks_NNS are_VBP detected_VBN by_IN monitoring_VBG web_NN request_NN parameters_NNS in_IN -LRB-_-LRB- 25_CD -RRB-_-RRB- ._.

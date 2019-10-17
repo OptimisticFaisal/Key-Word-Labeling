@@ -1,0 +1,3 @@
+port_NN on_IN running_VBG time_NN and_CC scalability_NN comparisons_NNS between_IN structured_JJ rank_NN learners_NNS and_CC a_DT prominent_JJ recent_JJ contender_NN in_IN accuracy_NN -LRB-_-LRB- McRank_NN --_: boosted_VBD regression_NN trees_NNS -RRB-_-RRB- and_CC find_VB ,_, on_IN the_DT public_JJ LETOR_NN data_NNS set_VBD =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, that_IN structured_JJ learners_NNS are_VBP considerably_RB faster_JJR -LRB-_-LRB- Section_NN 3.8_CD -RRB-_-RRB- while_IN also_RB being_VBG more_RBR accurate_JJ in_IN two_CD out_IN of_IN three_CD data_NNS sets_NNS ._.
+2_CD ._.
+BACKGROUND_NN 2.1_CD Testbed_NN and_CC data_NN sets_NNS Figure_NNP 1_CD summarizes_VBZ the_DT leading_VBG a_DT

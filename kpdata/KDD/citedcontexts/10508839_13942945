@@ -1,0 +1,3 @@
+her_PRP ,_, unless_IN there_EX is_VBZ a_DT large_JJ gain_NN in_IN the_DT reduction_NN of_IN the_DT misclassification_NN cost_NN ._.
+Nevertheless_RB ,_, overfitting_NN could_MD still_RB happen_VB ,_, especially_RB when_WRB the_DT attribute_NN cost_NN is_VBZ small_JJ or_CC zero_NN -LRB-_-LRB- as_IN we_PRP study_VBP here_RB -RRB-_-RRB- ._.
+=_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: incorporates_VBZ postpruning_VBG in_IN cost-sensitive_JJ decision_NN trees.Cost-Sensitive_JJ Decision_NNP Trees_NNP with_IN Pre-pruning_NN 173_CD empirical_JJ study_NN in_IN section_NN 3_CD will_MD show_VB that_IN indeed_RB the_DT simple_JJ approach_NN works_VBZ quite_RB well_RB ._.

@@ -1,0 +1,4 @@
+e_LS data_NN concern-aware_NN service_NN engineering_NN process_NN ._.
+Arrow_NNP lines_NNS indicate_VBP control_NN flows_NNS ._.
+data_NNS in_IN relational_JJ database_NN is_VBZ supported_VBN by_IN mapping_NN Web_NN services_NNS operations_NNS to_TO SQL_NN and_CC data_NN query_NN operations_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: and_CC by_IN SOAP_NN service_NN wrapping_VBG to_TO SQL_NN database_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- while_IN XML_NN and_CC RDF_NN data_NNS can_MD be_VB accessed_VBN via_IN Web_NN services_NNS operations_NNS using_VBG XQuery\/SPASQL_NN ._.
+•_CD unstructured_JJ data_NNS is_VBZ typically_RB accessed_VBN by_IN first_JJ mapping_NN ser_NN

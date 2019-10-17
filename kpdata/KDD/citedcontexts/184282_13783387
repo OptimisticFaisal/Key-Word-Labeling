@@ -1,0 +1,4 @@
+or_CC comparison_NN purposes_NNS ,_, we_PRP also_RB include_VBP the_DT results_NNS of_IN i.i.d_JJ Gaussian_JJ random_JJ matrix_NN and_CC FJLT_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Experiment_NN 2_CD :_: This_DT experiment_NN was_VBD motivated_VBN by_IN the_DT recent_JJ work_NN in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC the_DT experiment_NN suggested_VBN by_IN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN each_DT image_NN in_IN the_DT database_NN ,_, we_PRP random_JJ select_JJ 20_CD subimages_NNS with_IN size_NN of_IN 32_CD ×_NN 32_CD ,_, yielding_VBG Q_NNP =_JJ 20_CD ∗_CD 1000_CD =_JJ 2_CD ×_CD 10_CD 4_CD vectors_NNS in_IN total_NN ._.
+For_IN each_DT M_NN ,_, we_PRP did_VBD a_DT similar_JJ experiment_NN in_IN Experiment_NN 1_CD calculati_NN

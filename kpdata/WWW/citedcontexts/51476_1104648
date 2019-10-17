@@ -1,0 +1,3 @@
+bilities_NNS for_IN peer_VBP aggregation_NN ,_, query_NN routing_VBG and_CC possibly_RB mediation_NN ._.
+The_DT KaZaA_NN network_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- uses_VBZ a_DT simple_JJ version_NN of_IN a_DT super-peer_JJ based_JJ architecture_NN ,_, more_RBR elaborate_JJ versions_NNS are_VBP described_VBN in_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Super-peerbased_JJ P2P_NN infrastructures_NNS usually_RB exploit_VBP a_DT two-phase_JJ routing_VBG architecture_NN ,_, which_WDT routes_VBZ queries_NNS first_JJ in_IN the_DT super-peer_JJ backbone_NN ,_, and_CC then_RB distributes_VBZ them_PRP to_TO the_DT peers_NNS connected_VBN to_TO the_DT s_NN

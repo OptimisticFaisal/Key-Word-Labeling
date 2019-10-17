@@ -1,0 +1,5 @@
+ueries_NNS ,_, using_VBG the_DT proposed_VBN bounds_NNS ._.
+3.1_CD ._.
+Sequence_NN segmentation_NN Our_PRP$ technique_NN is_VBZ based_VBN on_IN the_DT segmentation_NN of_IN each_DT sequence_NN into_IN an_DT Adaptive_JJ Piecewise_JJ Constant_JJ Approximation_NN -LRB-_-LRB- APCA_NN -RRB-_-RRB- -LRB-_-LRB- Keogh_NNP et_FW al._FW ,_, 2001_CD ;_: =_JJ -_: =_JJ Vlachos_NNP et_FW al._FW ,_, 2003_CD -_: =--RRB-_NN ._.
+APCA_NNP approximates_VBZ a_DT time_NN sequence_NN by_IN a_DT set_NN of_IN constant_JJ value_NN segments_NNS of_IN varying_VBG lengths_NNS such_JJ that_IN their_PRP$ individual_JJ reconstruction_NN errors_NNS are_VBP minimal_JJ ._.
+APCA_NNP is_VBZ a_DT better_JJR approximation_NN than_IN PAA_NNP ,_, since_IN

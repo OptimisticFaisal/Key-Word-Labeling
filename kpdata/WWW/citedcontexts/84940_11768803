@@ -1,0 +1,4 @@
+2_CD %_NN -RRB-_-RRB- that_DT time_NN -RRB-_-RRB- ._.
+The_DT process_NN of_IN merging_VBG two_CD QFGs_NNS can_MD be_VB performed_VBN using_VBG an_DT open-source_JJ Java_NNP tool_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- that_WDT implements_VBZ a_DT graph_NN algebra_NN giving_VBG users_NNS the_DT possibility_NN to_TO perform_VB some_DT operations_NNS on_IN WebGraph_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: encoded_VBN graphs_NNS ._.
+In_IN our_PRP$ experiments_NNS we_PRP used_VBD three_CD different_JJ QFGs_NNS built_VBN on_IN M1_NN ,_, M2_NN ,_, and_CC M12_NN defined_VBN as_IN in_IN the_DT first_JJ column_NN of_IN Table_NNP 5_CD ._.
+query_NN M1_NN M2_NN M12_NN mothers_NNS day_NN 2_CD 3_CD 3_CD da_NN vinci_NNS 4_CD 6_CD 7_CD lost_VBD 2_CD 4_CD 6_CD philipp_NN

@@ -1,0 +1,4 @@
+and_CC approaches_NNS to_TO stream_NN data_NNS clustering_NN ._.
+Earlier_JJR clustering_NN algorithms_NNS for_IN data_NNS stream_NN uses_VBZ a_DT single-phase_JJ model_NN which_WDT treats_VBZ data_NN stream_NN clustering_NN as_IN a_DT continuous_JJ version_NN of_IN static_JJ data_NNS clustering_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT algorithms_NNS uses_NNS divide_VBP and_CC conquer_VBP schemes_NNS that_IN partition_NN data_NNS streams_NNS into_IN segments_NNS and_CC discover_VB clusters_NNS in_IN data_NNS streams_NNS based_VBN on_IN a_DT k-means_NN algorithm_NN in_IN finite_JJ space_NN -LRB-_-LRB- 10_CD ,_, 12_CD -RRB-_-RRB- ._.
+A_DT limitation_NN o_NN

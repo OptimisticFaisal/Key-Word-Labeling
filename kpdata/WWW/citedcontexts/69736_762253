@@ -1,0 +1,6 @@
+-LRB-_-LRB- E-NB_NN -RRB-_-RRB- -LRB-_-LRB- 1_LS -RRB-_-RRB- is_VBZ a_DT method_NN which_WDT does_VBZ use_VB this_DT information_NN ._.
+Although_IN E-NB_NN has_VBZ a_DT better_JJR performance_NN than_IN NB_NN ,_, it_PRP does_VBZ not_RB achieve_VB the_DT performance_NN of_IN SBI_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+SBI_NNP will_MD be_VB discussed_VBN in_IN the_DT next_JJ section_NN ._.
+GLUE_NN =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ another_DT type_NN of_IN system_NN employing_VBG NB_NN ._.
+GLUE_NN combines_VBZ NB_NN and_CC a_DT constraint_NN optimization_NN technique_NN ._.
+Unlike_IN normal_JJ NB_NN ,_, the_DT document_NN classification_NN systems_NNS in_IN -LRB-_-LRB- 8_CD ,_, 10_CD ,_, 16_CD -RRB-_-RRB- classify_VBP documents_NNS into_IN hierarch_NN

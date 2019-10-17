@@ -1,0 +1,4 @@
+sensitive_JJ ,_, e.g._FW ,_, B_NN may_MD not_RB want_VB to_TO disclose_VB that_IN he_PRP does_VBZ not_RB trust_VB X_NN at_IN all_DT ,_, and_CC A_NNP hopes_VBZ to_TO conceal_VB the_DT fact_NN that_IN her_PRP$ confidence_NN in_IN B_NN is_VBZ low_JJ ._.
+Private_JJ two-party_JJ scalar_NN product_NN protocols_NNS are_VBP available_JJ =_JJ -_: =[_NN 1_CD ,_, 16_CD ,_, 40_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, they_PRP are_VBP not_RB suitable_JJ for_IN our_PRP$ problem_NN ,_, where_WRB one_CD of_IN the_DT vectors_NNS in_IN the_DT computation_NN is_VBZ distributed_VBN among_IN multiple_JJ entities_NNS ._.
+We_PRP design_VBP an_DT efficient_JJ private_JJ multi-party_JJ computation_NN protocol_NN fo_NN

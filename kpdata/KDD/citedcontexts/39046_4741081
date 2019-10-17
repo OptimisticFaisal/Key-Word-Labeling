@@ -1,0 +1,6 @@
+rcial_JJ search_NN engine_NN ``_`` Direct_NNP Hit_VBD ''_'' makes_VBZ use_NN of_IN clickthrough_JJ data_NNS ._.
+The_DT precise_JJ mechanism_NN ,_, however_RB ,_, is_VBZ unpublished_JJ ._.
+While_IN for_IN a_DT different_JJ problem_NN ,_, an_DT interesting_JJ use_NN of_IN clickthrough_JJ data_NNS was_VBD proposed_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP use_VBP clickthrough_JJ data_NNS for_IN identifying_VBG related_JJ queries_NNS and_CC URLs_NNS ._.
+What_WP are_VBP the_DT computational_JJ demands_NNS of_IN training_NN the_DT Ranking_NNP SVM_NNP on_IN clickthrough_JJ data_NNS ?_.
+Since_IN SVMlight_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- solves_VBZ the_DT dual_JJ optimizat_NN

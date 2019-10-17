@@ -1,0 +1,4 @@
+ty_IN orthogonal_JJ representative_JJ sets_NNS ,_, especially_RB for_IN datasets_NNS where_WRB traditional_JJ enumerative_JJ methods_NNS fail_VBP completely_RB ._.
+2_CD Related_JJ Work_NN Many_JJ recent_JJ methods_NNS have_VBP been_VBN proposed_VBN for_IN graph_NN mining_NN ;_: these_DT include_VBP =_JJ -_: =[_NN 4_CD ,_, 8_CD ,_, 9_CD ,_, 14_CD ,_, 6_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT focus_NN of_IN these_DT methods_NNS is_VBZ to_TO mine_VB all_DT frequent_JJ subgraph_JJ patterns_NNS ,_, rather_RB than_IN finding_VBG orthogonal_JJ or_CC representative_JJ patterns_NNS ._.
+There_EX is_VBZ also_RB an_DT increasing_VBG interest_NN in_IN using_VBG the_DT mined_VBN graph_NN pattern_NN

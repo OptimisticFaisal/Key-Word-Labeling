@@ -1,0 +1,3 @@
+ution_NN significantly_RB different_JJ from_IN their_PRP$ neighborhood_NN ._.
+The_DT estimation_NN of_IN density_NN distribution_NN at_IN the_DT location_NN of_IN an_DT object_NN has_VBZ so_RB far_RB been_VBN based_VBN on_IN the_DT density_NN distribution_NN of_IN its_PRP$ k-nearest_NN neighbors_NNS =_JJ -_: =[_NN 2_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, when_WRB outliers_NNS are_VBP in_IN the_DT location_NN where_WRB the_DT density_NN distributions_NNS in_IN the_DT neighborhood_NN are_VBP significantly_RB different_JJ ,_, for_IN example_NN ,_, in_IN the_DT case_NN of_IN objects_NNS from_IN a_DT sparse_JJ cluster_NN close_RB to_TO a_DT dense_JJ

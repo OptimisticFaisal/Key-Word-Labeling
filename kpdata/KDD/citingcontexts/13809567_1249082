@@ -1,0 +1,3 @@
+tes_NNS to_TO optimize_VB the_DT value_NN of_IN the_DT threshold_NN ,_, t._NN CM_NN -LRB-_-LRB- T_NN ,_, K_NN -RRB-_-RRB- refers_VBZ to_TO the_DT ConservativeMean_NN -LRB-_-LRB- D_NN ,_, K_NN -RRB-_-RRB- function_NN defined_VBN in_IN Algorithm_NN 1_CD ._.
+3.3.2_NN L1_NN regularized_VBD logistic_JJ regression_NN regularized_VBD logistic_JJ regression_NN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT popular_JJ algoL1_NN rithm_NN for_IN feature_NN selection_NN ._.
+L1_NN regularization_NN has_VBZ the_DT beneficial_JJ effect_NN of_IN regularizing_VBG model_NN coefficients_NNS -LRB-_-LRB- as_IN in_IN L2_NN regularization_NN -RRB-_-RRB- ,_, but_CC yields_NNS sparse_VBP models_NNS that_WDT are_VBP more_JJR easil_NN

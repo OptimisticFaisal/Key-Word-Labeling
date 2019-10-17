@@ -1,0 +1,4 @@
+aracteristics_NNS in_IN a_DT web_NN page_NN are_VBP defined_VBN as_IN the_DT dominant_JJ classes_NNS in_IN the_DT taxonomy_NN which_WDT are_VBP related_JJ to_TO it_PRP ._.
+In_IN order_NN to_TO achieve_VB this_DT goal_NN ,_, we_PRP implemented_VBD a_DT classifier_NN system_NN similar_JJ to_TO that_DT described_VBN in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT classifier_NN system_NN was_VBD capable_JJ of_IN predicting_VBG the_DT classes_NNS most_RBS related_JJ to_TO a_DT given_VBN web_NN page_NN ._.
+We_PRP found_VBD the_DT kmax_NN =_JJ 5_CD most_RBS closely_RB related_JJ classes_NNS to_TO the_DT page_NN using_VBG the_DT nearest_JJS neighbor_NN classifier_NN of_IN

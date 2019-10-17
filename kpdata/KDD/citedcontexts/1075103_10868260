@@ -1,0 +1,4 @@
+f_LS interest_NN ._.
+Previously_RB ,_, researchers_NNS have_VBP suggested_VBN improving_VBG graph_NN walk_NN based_JJ similarity_NN in_IN relational_JJ graphs_NNS by_IN learning_VBG edge_NN weights_NNS parameters_NNS in_IN the_DT graph_NN -LRB-_-LRB- Diligenti_NNP et_FW al._FW 2005_CD ;_: Nie_NNP et_FW al._FW 2005_CD ;_: =_JJ -_: =_JJ Agarwal_NNP et_FW al._FW 2006_CD -_: =-]_CD ._.
+The_DT assumption_NN underlying_VBG this_DT approach_NN is_VBZ that_IN for_IN a_DT particular_JJ task_NN ,_, some_DT relation_NN types_NNS should_MD be_VB favored_VBN by_IN the_DT graph_NN walk_NN over_IN others_NNS ._.
+We_PRP adapt_VBP an_DT error_NN backpropagation_NN gradient_NN descent_NN algori_NNS

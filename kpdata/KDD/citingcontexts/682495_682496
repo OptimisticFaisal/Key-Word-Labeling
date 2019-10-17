@@ -1,0 +1,5 @@
+based_VBN on_IN the_DT structural_JJ relation_NN between_IN sequences_NNS ._.
+However_RB ,_, these_DT sequences_NNS do_VBP not_RB necessarily_RB have_VB high_JJ support_NN ._.
+Therefore_RB ,_, using_VBG negative_JJ border_NN is_VBZ very_JJ time_NN and_CC memory_NN consuming_NN ._.
+Masseglia_NNP et_FW al._FW =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: developed_VBD another_DT incremental_JJ mining_NN algorithm_NN ISE_NN using_VBG candidate_NN generate-and-test_JJ approach_NN ._.
+The_DT problem_NN of_IN this_DT algorithm_NN is_VBZ -LRB-_-LRB- a_LS -RRB-_-RRB- the_DT candidate_NN set_NN can_MD be_VB very_RB huge_JJ ,_, which_WDT makes_VBZ the_DT test-phase_NN very_RB

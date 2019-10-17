@@ -1,0 +1,4 @@
+proved_VBN as_IN a_DT NP-hard_JJ problem_NN ._.
+Also_RB ,_, a_DT heuristic-based_JJ solution_NN was_VBD projected_VBN to_TO eliminate_VB sensitive_JJ frequent_JJ itemsets_NNS by_IN deleting_VBG items_NNS from_IN the_DT transactions_NNS in_IN the_DT database_NN ._.
+-LRB-_-LRB- 20_CD -RRB-_-RRB- The_DT subsequent_JJ work_NN =_JJ -_: =[_NN 1,11_CD -RRB-_-RRB- -_: =_SYM -_: extended_VBD the_DT sanitization_NN of_IN sensitive_JJ frequent_JJ itemsets_NNS to_TO the_DT sanitization_NN of_IN association_NN rules_NNS ._.
+The_DT exertion_NN provided_VBD some_DT heuristics_NNS to_TO prefer_VB the_DT items_NNS to_TO be_VB deleted_VBN ,_, with_IN the_DT consideration_NN of_IN m_NN

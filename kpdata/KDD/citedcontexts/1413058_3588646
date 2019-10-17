@@ -1,0 +1,4 @@
+y_NN defined_VBN --_: from_IN the_DT complete_JJ database_NN is_VBZ minimal_JJ ._.
+They_PRP differ_VBP greatly_RB ,_, however_RB ,_, in_IN the_DT way_NN that_IN they_PRP greedily_RB search_VBP through_IN the_DT exponential_JJ number_NN of_IN possible_JJ samples_NNS ._.
+FAST_RB ,_, originally_RB presented_VBN in_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, uses_VBZ random_JJ sampling_NN together_RB with_IN trimming_VBG of_IN ``_`` outlier_NN ''_'' transactions_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, the_DT EA_NN algorithm_NN ,_, introduced_VBN in_IN the_DT current_JJ paper_NN ,_, repeatedly_RB and_CC deterministically_RB halves_VBZ the_DT data_NNS to_TO obtai_VB

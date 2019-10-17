@@ -1,0 +1,6 @@
+sets_NNS if_IN necessary_JJ ._.
+Note_VB that_IN in_IN our_PRP$ algorithm_NN ,_, we_PRP output_NN the_DT best_JJS tree_NN according_VBG to_TO the_DT ranking_NN ._.
+The_DT k_NN −_CD best_JJS trees_NNS could_MD also_RB be_VB straightforwardly_JJ output_NN ._.
+To_TO efficiently_RB index_NN the_DT itemsets_NNS I_PRP ,_, a_DT trie_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: data_NNS structure_NN can_MD be_VB used_VBN ._.
+As_IN with_IN most_JJS data_NNS mining_NN algorithms_NNS ,_, the_DT most_JJS time_NN consuming_JJ operations_NNS are_VBP those_DT that_WDT access_VBP the_DT data_NNS ._.
+In_IN the_DT following_NN ,_, we_PRP will_MD provide_VB four_CD related_JJ strategies_NNS to_TO obtain_VB

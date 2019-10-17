@@ -1,0 +1,4 @@
+ontologies_NNS -RRB-_-RRB- ,_, and_CC set-valued_JJ domains_NNS -LRB-_-LRB- e.g._FW ,_, DNA_NN segments_NNS -RRB-_-RRB- ._.
+Furthermore_RB ,_, preferences_NNS may_MD be_VB indirectly_RB -LRB-_-LRB- i_LS -RRB-_-RRB- induced_VBN from_IN conditional_JJ preference_NN networks_NNS -LRB-_-LRB- CP-nets_NNS -RRB-_-RRB- -LRB-_-LRB- 4_CD -RRB-_-RRB- ;_: -LRB-_-LRB- ii_LS -RRB-_-RRB- mined_VBN by_IN preference_NN learning_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ;_: or_CC -LRB-_-LRB- iii_LS -RRB-_-RRB- derived_VBN as_IN aggregated_JJ preferences_NNS in_IN subspaces_NNS -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+In_IN most_JJS cases_NNS ,_, such_JJ indirectly_RB derived_VBN preferences_NNS can_MD only_RB be_VB modeled_VBN as_IN partial_JJ orders_NNS ._.
+Skyline_NN evaluation_NN for_IN objects_NNS having_VBG attribut_NN

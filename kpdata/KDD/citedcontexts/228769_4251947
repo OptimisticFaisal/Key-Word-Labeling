@@ -1,0 +1,4 @@
+on_IN function_NN outperforms_VBZ other_JJ criterion_NN functions_NNS when_WRB used_VBN with_IN bisecting_VBG k-means_NNS ._.
+A_DT recent_JJ trend_NN in_IN hierarchical_JJ document_NN clustering_NN is_VBZ to_TO use_VB frequent_JJ itemsets_NNS to_TO produce_VB cluster_NN hierarchies_NNS ._.
+HFTC_NN =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: was_VBD the_DT first_JJ algorithm_NN in_IN this_DT class_NN and_CC achieves_VBZ accuracy_NN comparable_JJ to_TO 9-secting_FW k-means_FW ,_, and_CC worst_JJS than_IN bisecting_VBG k-means_NNS ._.
+Fung_NNP et_FW al._FW -LRB-_-LRB- 3_CD -RRB-_-RRB- showed_VBD that_IN HFTC_NN is_VBZ not_RB scalable_JJ for_IN large_JJ document_NN coll_NN

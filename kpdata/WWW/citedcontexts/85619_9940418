@@ -1,0 +1,4 @@
+heir_NN classification_NN ._.
+Most_JJS of_IN the_DT work_NN has_VBZ been_VBN restricted_JJ to_TO the_DT detection_NN of_IN specific_JJ types_NNS of_IN anomalies_NNS ,_, including_VBG portscans_NNS -LRB-_-LRB- see_VB -LRB-_-LRB- 20_CD -RRB-_-RRB- -RRB-_-RRB- ,_, worms_NNS -LRB-_-LRB- see_VB -LRB-_-LRB- 22_CD -RRB-_-RRB- -RRB-_-RRB- ,_, denial_NN of_IN service_NN -LRB-_-LRB- DoS_NN -RRB-_-RRB- attacks_NNS -LRB-_-LRB- see_VB -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 41_CD -RRB-_-RRB- -RRB-_-RRB- and_CC DDoS_NN attacks_NNS -LRB-_-LRB- see_VB -LRB-_-LRB- 28_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 44_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+There_EX have_VBP been_VBN several_JJ attempts_NNS at_IN a_DT general_JJ approach_NN to_TO anomaly_JJ classification_NN ._.
+In_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, the_DT authors_NNS use_VBP wavelet_NN analysis_NN of_IN IP_NNP flow_NN and_CC Simple_JJ Network_NNP Mana_NNP

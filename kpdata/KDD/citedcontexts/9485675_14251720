@@ -1,0 +1,3 @@
+other_JJ methods_NNS that_WDT learn_VBP model_NN parameters_NNS to_TO reduce_VB marginal_JJ probability_NN differences_NNS -LRB-_-LRB- 10_CD ,_, 11_CD -RRB-_-RRB- ._.
+Similarly_RB ,_, several_JJ algorithms_NNS have_VBP been_VBN developed_VBN in_IN the_DT past_NN to_TO combine_VB knowledge_NN from_IN multiple_JJ sources_NNS =_JJ -_: =[_NN 12_CD ,_, 13_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS of_IN these_DT methods_NNS measure_VBP the_DT distribution_NN difference_NN between_IN each_DT source_NN and_CC target_NN domain_NN data_NNS ,_, independently_RB ,_, based_VBN on_IN marginal_JJ or_CC conditional_JJ probability_NN differences_NNS and_CC combine_VB the_DT hypothes_NNS

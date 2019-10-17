@@ -1,0 +1,4 @@
+e_LS thousands_NNS or_CC more_JJR ._.
+Clustering_NN of_IN such_JJ high-dimensional_JJ data_NNS has_VBZ been_VBN of_IN great_JJ interest_NN lately_RB -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, with_IN most_JJS of_IN the_DT proposed_VBN methods_NNS following_VBG a_DT density-based_JJ heuristic_NN or_CC a_DT discriminatory_JJ approach_NN =_JJ -_: =[_NN 15_CD ,_, 1_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Perhaps_RB the_DT most_RBS noteworthy_JJ generative_JJ approach_NN for_IN clustering_VBG high-dimensional_JJ data_NNS is_VBZ to_TO use_VB mixtures_NNS of_IN Gaussians_NNP -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Certain_JJ other_JJ works_NNS such_JJ as_IN -LRB-_-LRB- 24_CD -RRB-_-RRB- use_VBP a_DT generative_JJ model_NN from_IN the_DT exponential_NN

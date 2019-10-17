@@ -1,0 +1,3 @@
+e_LS step-by-step_JJ dynamics_NNS of_IN adoption_NN ._.
+We_PRP show_VBP that_IN approximation_NN algorithms_NNS for_IN maximizing_VBG the_DT spread_NN of_IN influence_NN in_IN these_DT models_NNS can_MD be_VB developed_VBN in_IN a_DT general_JJ framework_NN based_VBN on_IN submodular_JJ functions_NNS =_JJ -_: =[_NN 9_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP also_RB provide_VBP computational_JJ experiments_NNS on_IN large_JJ collaboration_NN networks_NNS ,_, showing_VBG that_IN in_IN addition_NN to_TO their_PRP$ provable_JJ guarantees_NNS ,_, our_PRP$ algorithms_NNS significantly_RB out-perform_VBP node-selection_JJ heuristics_NNS b_NN

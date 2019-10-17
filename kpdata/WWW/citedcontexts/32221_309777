@@ -1,0 +1,4 @@
+ystem_NN for_IN the_DT Semantic_JJ Web_NN ._.
+It_PRP uses_VBZ IR_NNP engine_NN to_TO index_NN the_DT crawled_VBN semantic_JJ web_NN documents_NNS using_VBG either_CC n-gram_NN or_CC URIrefs_NN as_IN terms_NNS and_CC computes_VBZ a_DT ranked_VBN list_NN of_IN these_DT documents_NNS given_VBN the_DT search_NN terms_NNS ._.
+=_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: augments_VBZ keyword_JJ search_NN with_IN semantic_JJ information_NN collected_VBN from_IN different_JJ sources_NNS while_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- uses_VBZ keyword_JJ search_NN results_VBZ as_IN a_DT seed_NN to_TO do_VB spread_NN activation_NN on_IN semantic_JJ networks_NNS ._.
+These_DT work_NN takes_VBZ a_DT pur_NN

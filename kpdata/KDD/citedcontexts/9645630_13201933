@@ -1,0 +1,5 @@
+iments_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP assume_VBP that_IN we_PRP can_MD obtain_VB all_DT sensor_NN data_NNS ._.
+But_CC one_CD of_IN the_DT challenge_NN in_IN sensor_NN data_NNS is_VBZ the_DT missing_VBG observations_NNS partly_RB due_JJ to_TO unreliability_NN of_IN wireless_JJ transmission_NN ._.
+Li_NNP et_FW al_FW =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBN DynaMMo_NN method_NN to_TO learn_VB a_DT linear_JJ dynamical_JJ system_NN in_IN presence_NN of_IN missing_VBG values_NNS and_CC fill_NN in_IN them_PRP ._.
+Their_PRP$ method_NN could_MD then_RB use_VB the_DT learned_VBN latent_JJ variables_NNS to_TO better_RBR compress_VB the_DT long_JJ time_NN se_FW

@@ -1,0 +1,4 @@
+coercions_NNS -LRB-_-LRB- 10_CD ,_, 11_CD -RRB-_-RRB- ;_: meshing_VBG a_DT value_NN index_NN with_IN coercion-based_JJ semantics_NNS is_VBZ quite_RB complex_JJ -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+Frequency_NN of_IN recursion_NN Data_NN recursion_NN is_VBZ an_DT interesting_JJ feature_NN ,_, encountered_VBN in_IN real-life_JJ XML_NN documents_NNS =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC affecting_VBG many_JJ evaluation_NN techniques_NNS ._.
+Thus_RB ,_, precise_JJ evaluations_NNS must_MD specify_VB whether_IN recursive_JJ elements_NNS were_VBD absent_JJ ,_, rare_JJ ,_, or_CC frequent_JJ in_IN the_DT input_NN ._.
+Tag_NN distribution_NN In_IN some_DT documents_NNS ,_, each_DT tag_NN

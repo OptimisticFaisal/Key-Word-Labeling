@@ -1,0 +1,3 @@
+ent_JJ goals_NNS are_VBP largely_RB disjoint_JJ ,_, making_VBG it_PRP non-trivial_JJ to_TO determine_VB which_WDT ads_NNS should_MD be_VB selected_VBN for_IN human_JJ rating_NN ._.
+4.2_CD Ensemble-Aided_JJ Stratification_NN We_PRP considered_VBD various_JJ forms_NNS of_IN model-aided_JJ sampling_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: ,_, using_VBG learned_VBN models_NNS to_TO induce_VB a_DT sampling_NN bias_NN towards_IN more_RBR useful_JJ ads_NNS for_IN human_JJ rating_NN ._.
+We_PRP first_RB tried_VBD to_TO define_VB an_DT aggregate_JJ ``_`` utility_NN ''_'' score_NN based_VBN on_IN these_DT different_JJ factors_NNS ,_, but_CC it_PRP was_VBD unclear_JJ ho_NN

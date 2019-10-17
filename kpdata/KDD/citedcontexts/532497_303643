@@ -1,0 +1,3 @@
+data_NNS to_TO evaluate_VB the_DT effectiveness_NN of_IN SRC_NN in_IN comparison_NN with_IN other_JJ two_CD algorithms_NNS for_IN MTRD_NN clustering_NN ._.
+One_CD is_VBZ based_VBN on_IN m-partite_NN graph_NN partitioning_VBG ,_, Consistent_JJ Bipartite_NNP Graph_NNP Co-partitioning_NN -LRB-_-LRB- CBGC_NN -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Gao_NNP et_FW al._FW ,_, 2005_CD -_: =--RRB-_NN -LRB-_-LRB- we_PRP thank_VBP the_DT authors_NNS for_IN providing_VBG the_DT executable_JJ program_NN of_IN CBGC_NN -RRB-_-RRB- ._.
+The_DT other_JJ is_VBZ Mutual_JJ Reinforcement_NN K-means_NNS -LRB-_-LRB- MRK_NN -RRB-_-RRB- ,_, which_WDT is_VBZ implemented_VBN based_VBN on_IN the_DT idea_NN of_IN mutual_JJ reinforcement_NN clustering_NN as_IN dis_NN

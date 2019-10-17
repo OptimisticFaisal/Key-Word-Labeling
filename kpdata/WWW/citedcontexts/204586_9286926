@@ -1,0 +1,4 @@
+inting_VBG scheme_NN for_IN binary_JJ strings_NNS based_VBN on_IN polynomials_NNS ._.
+This_DT scheme_NN has_VBZ found_VBN several_JJ applications_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, for_IN example_NN ,_, to_TO defining_VBG block_NN boundaries_NNS for_IN identifying_VBG similar_JJ files_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC for_IN web_NN caching_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP derive_VBP a_DT fingerprinting_VBG scheme_NN for_IN payload_NN content_NN based_VBN on_IN Rabin_NNP 's_POS scheme_NN in_IN Section_NN 3.3_CD and_CC use_VB it_PRP to_TO pick_VB content-dependent_JJ boundaries_NNS for_IN a_DT priori_FW unknown_JJ substrings_NNS of_IN a_DT payload_NN ._.
+2.3_CD Winnowi_NNS

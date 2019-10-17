@@ -1,0 +1,4 @@
+ot_IN produce_VBG a_DT good_JJ performance_NN in_IN terms_NNS of_IN ranking_NN ._.
+Therefore_RB ,_, there_EX are_VBP a_DT few_JJ recent_JJ attempts_NNS to_TO develop_VB learning_VBG algorithms_NNS that_WDT can_MD explicitly_RB account_VB for_IN ranking_JJ relations_NNS in_IN information_NN retrieval_NN =_JJ -_: =[_NN 3,4,5,6,7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS of_IN these_DT rank_JJ learning_NN approaches_NNS attempt_VBP to_TO model_VB the_DT pairwise_JJ ranking_JJ preferences_NNS between_IN every_DT pair_NN of_IN relevant_JJ and_CC irrelevant_JJ training_NN examples_NNS ._.
+They_PRP are_VBP built_VBN on_IN a_DT solid_JJ foundation_NN because_IN

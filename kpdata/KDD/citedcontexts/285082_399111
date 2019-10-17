@@ -1,0 +1,4 @@
+who_WP have_VBP publications_NNS in_IN major_JJ Computer_NNP Science_NNP publication_NN venues_NNS ._.
+Bibliographic_JJ datasets_NNS have_VBP been_VBN used_VBN for_IN social_JJ network_NN analysis_NN ,_, such_JJ as_IN studying_VBG the_DT structure_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- and_CC the_DT spread_NN of_IN influence_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: in_IN scientific_JJ communities_NNS ._.
+In_IN DBLP_NN ,_, Person_NN entities_NNS are_VBP fairly_RB fixed_VBN --_: persons_NNS are_VBP identified_VBN by_IN their_PRP$ names_NNS and_CC are_VBP associated_VBN by_IN co-author_NN relationships_NNS ._.
+Although_IN counterexamples_NNS exist_VBP ,_, such_JJ co-aut_NN

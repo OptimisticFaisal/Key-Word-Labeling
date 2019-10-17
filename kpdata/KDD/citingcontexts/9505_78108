@@ -1,0 +1,3 @@
+ve_IN hard_JJ clustering_NN version_NN of_IN the_DT Information_NNP Bottleneck_NNP algorithm_NN was_VBD used_VBN in_IN -LRB-_-LRB- 1_CD ,_, 19_CD -RRB-_-RRB- to_TO cluster_VB words_NNS in_IN order_NN to_TO reduce_VB feature_NN size_NN for_IN supervised_JJ text_NN classication_NN ._.
+For_IN this_DT same_JJ task_NN ,_, recently_RB -LRB-_-LRB- =_JJ -_: =_JJ 6_CD -_: =-]_CD proposed_VBD a_DT divisive_JJ hard_JJ clustering_NN algorithm_NN that_WDT directly_RB minimizes_VBZ the_DT loss_NN in_IN mutual_JJ information_NN and_CC was_VBD found_VBN to_TO result_VB in_IN higher_JJR classication_NN accuracies_NNS than_IN -LRB-_-LRB- 1_CD ,_, 19_CD -RRB-_-RRB- ._.
+All_DT these_DT algorithms_NNS were_VBD

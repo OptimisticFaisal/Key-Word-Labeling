@@ -1,0 +1,3 @@
+or_CC prior_JJ knowledge_NN required_VBN ._.
+The_DT underlying_VBG statistical_JJ framework_NN of_IN topic_NN modeling_NN enables_VBZ a_DT variety_NN of_IN interesting_JJ extensions_NNS to_TO be_VB developed_VBN in_IN a_DT systematic_JJ manner_NN ,_, such_JJ 1as_JJ author-topic_JJ models_NNS -LRB-_-LRB- =_JJ -_: =_JJ Steyvers_FW et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN ,_, correlated_VBN topics_NNS -LRB-_-LRB- Blei_NNP and_CC Lafferty_NNP ,_, 2005_CD -RRB-_-RRB- ,_, and_CC hierarchical_JJ topic_NN models_NNS -LRB-_-LRB- Blei_NNP et_FW al._FW ,_, 2007_CD ;_: Mimno_NNP et_FW al._FW ,_, 2007_CD -RRB-_-RRB- ._.
+Word_NN Topic_NN A_NN Topic_NN B_NN database_NN 0.50_CD 0.01_CD query_NN 0.30_CD 0.01_CD algorithm_NN 0.18_CD 0.08_CD seman_NN

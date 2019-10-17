@@ -1,0 +1,3 @@
+ughly_RB as_IN expert-system_NN techniques_NNS and_CC graphtheoretic_JJ techniques_NNS ._.
+The_DT first_JJ category_NN of_IN approaches_NNS attempt_VBP to_TO imitate_VB the_DT knowledge_NN of_IN domain_NN experts_NNS ,_, with_IN examples_NNS including_VBG rule-based_JJ systems_NNS ,_, e.g._FW ,_, =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, cased-based_JJ systems_NNS ,_, e.g._FW ,_, -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, and_CC model-based_JJ systems_NNS ,_, e.g._FW ,_, -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+The_DT graph-theoretic_JJ techniques_NNS rely_VBP on_IN a_DT graphical_JJ model_NN of_IN the_DT system_NN ,_, which_WDT describes_VBZ the_DT propagation_NN for_IN each_DT specific_JJ fault_NN ,_,

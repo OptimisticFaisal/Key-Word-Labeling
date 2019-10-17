@@ -1,0 +1,4 @@
+names_NNS ,_, which_WDT are_VBP prepended_VBN with_IN the_DT column_NN family_NN names_NNS ._.
+Therefore_RB ,_, we_PRP first_RB adapt_VBP the_DT relational_JJ data_NNS model_NN of_IN TPC-W_NN into_IN the_DT Bigtable_JJ data_NN model_NN ._.
+Using_VBG similar_JJ data_NNS denormalization_NN techniques_NNS as_IN in_IN =_JJ -_: =[_NN 53_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP design_VBP a_DT Bigtable_JJ data_NN model_NN for_IN TPC-W_NN that_WDT contains_VBZ the_DT data_NNS accessed_VBN by_IN the_DT transactions_NNS in_IN Figure_NNP 4_CD ._.
+The_DT relational_JJ data_NNS model_NN of_IN TPC-W_NN comprises_VBZ six_CD tables_NNS that_WDT are_VBP accessed_VBN by_IN these_DT transact_VB

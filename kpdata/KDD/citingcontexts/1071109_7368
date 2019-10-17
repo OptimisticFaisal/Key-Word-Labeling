@@ -1,0 +1,4 @@
+h_NN ,_, each_DT node_NN represents_VBZ a_DT distinct_JJ entity_NN while_IN each_DT edge_NN represents_VBZ a_DT relationship_NN between_IN entities_NNS ._.
+Various_JJ algorithms_NNS were_VBD developed_VBN to_TO discover_VB interesting_JJ patterns_NNS from_IN a_DT single_JJ relational_JJ graph_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, little_JJ attention_NN has_VBZ been_VBN paid_VBN to_TO the_DT patterns_NNS that_WDT are_VBP hidden_VBN in_IN multiple_JJ relational_JJ graphs_NNS ._.
+One_CD interesting_JJ pattern_NN in_IN relational_JJ graphs_NNS is_VBZ frequent_JJ highly_RB connected_JJ subgraph_NN which_WDT can_MD id_VB

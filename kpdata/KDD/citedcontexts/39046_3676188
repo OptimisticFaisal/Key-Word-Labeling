@@ -1,0 +1,5 @@
+._.
+For_IN example_NN ,_, in_IN Web_NN pages_NNS categorization_NN ,_, the_DT feature_NN vector_NN of_IN a_DT Web_NN page_NN can_MD be_VB constructed_VBN by_IN combining_VBG its_PRP$ content_NN and_CC the_DT queries_NNS that_WDT are_VBP associated_VBN with_IN the_DT page_NN through_IN the_DT clickthrough_JJ log_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =-[_NN 19_CD -RRB-_-RRB- ._.
+We_PRP denote_VBP these_DT methods_NNS as_IN virtual-document_JJ categorization_NN ._.
+In_IN our_PRP$ experiment_NN ,_, this_DT kind_NN of_IN categorization_NN has_VBZ a_DT little_JJ improvement_NN over_IN the_DT content-based_JJ categorization_NN approach_NN ._.
+Thus_RB there_EX is_VBZ

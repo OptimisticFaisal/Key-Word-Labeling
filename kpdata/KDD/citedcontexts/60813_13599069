@@ -1,0 +1,5 @@
+ws_NNS ._.
+Specifically_RB ,_, we_PRP build_VBP the_DT learner_NN using_VBG both_CC labeled_JJ and_CC unlabeled_JJ flows_NNS and_CC show_VB how_WRB unlabeled_JJ flows_NNS can_MD be_VB leveraged_VBN to_TO make_VB the_DT traffic_NN classification_NN problem_NN manageable_JJ ._.
+This_DT semi-supervised_JJ =_JJ -_: =[_NN 1,6_CD -RRB-_-RRB- -_: =_JJ -_: approach_NN to_TO learning_VBG a_DT network_NN traffic_NN classifier_NN is_VBZ one_CD key_JJ contribution_NN of_IN this_DT work_NN ._.
+There_EX are_VBP three_CD main_JJ advantages_NNS to_TO our_PRP$ proposed_VBN semi-supervised_JJ approach_NN ._.
+First_JJ ,_, fast_JJ and_CC accurate_JJ classifiers_NNS

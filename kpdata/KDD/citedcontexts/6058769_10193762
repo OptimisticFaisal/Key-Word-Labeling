@@ -1,0 +1,4 @@
+I_PRP for_IN the_DT reference_NN purpose_NN -RRB-_-RRB- ._.
+Similarly_RB ,_, Erosheva_FW et_FW al._FW -LRB-_-LRB- 4_CD -RRB-_-RRB- adopt_VB the_DT LDA_NNP model_NN in_IN a_DT similar_JJ fashion_NN to_TO consider_VB the_DT citations_NNS -LRB-_-LRB- we_PRP call_VBP it_PRP LinkLDA_NN -RRB-_-RRB- ._.
+Following_VBG this_DT line_NN of_IN research_NN ,_, Nallapati_NNP et_FW al._FW =_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP the_DT Link-PLSI-LDA_JJ model_NN which_WDT assumes_VBZ the_DT LinkPLSI_NN model_NN for_IN the_DT cited_VBN documents_NNS and_CC the_DT Link-LDA_JJ model_NN for_IN the_DT citing_VBG documents_NNS ._.
+The_DT common_JJ disadvantage_NN of_IN the_DT above_JJ studies_NNS is_VBZ that_IN they_PRP fai_VBP

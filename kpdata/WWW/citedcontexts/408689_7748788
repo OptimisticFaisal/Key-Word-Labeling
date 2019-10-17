@@ -1,0 +1,6 @@
+ous_JJ or_CC misleading_JJ queries_NNS ._.
+For_IN a_DT brief_JJ overview_NN of_IN clustering_NN techniques_NNS ,_, see_VBP Chapter_NN 5_CD -LRB-_-LRB- 55_CD -RRB-_-RRB- ._.
+Further_JJ clustering_NN systems_NNS are_VBP described_VBN in_IN the_DT literature_NN ,_, e.g._FW ,_, -LRB-_-LRB- 91_CD ,_, 93_CD -RRB-_-RRB- ._.
+The_DT SnakeT_NN meta-search_JJ engine_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: includes_VBZ an_DT innovative_JJ hierarchical_JJ clustering_NN algorithm_NN with_IN reduced_VBN time_NN complexity_NN ._.
+It_PRP allows_VBZ the_DT users_NNS to_TO select_VB a_DT subset_NN of_IN the_DT clusters_NNS that_WDT are_VBP more_RBR likely_JJ to_TO satisfy_VB their_PRP$ needs_NNS ._.
+Then_RB ,_, the_DT sy_NN

@@ -1,0 +1,4 @@
+rent_NN options_NNS that_WDT can_MD occur_VB when_WRB new_JJ workflow_NN definitions_NNS are_VBP deployed_VBN ._.
+The_DT Microsoft_NNP workflow_NN solution_NN ,_, BizTalk_NNP ,_, utilizes_VBZ a_DT different_JJ structure_NN to_TO store_VB and_CC execute_VB workflows_NNS known_VBN as_IN orchestrations_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT BizTalk_NNP workflow_NN engine_NN contains_VBZ tools_NNS that_WDT support_VBP the_DT import_NN and_CC export_NN of_IN BPEL_NN files_NNS into_IN the_DT native_JJ orchestration_NN file_NN format_NN ._.
+By_IN using_VBG the_DT Microsoft_NNP Business_NNP Activity_NNP Monitoring_NN -LRB-_-LRB- BAM_NN -RRB-_-RRB- archi_NNS

@@ -1,0 +1,5 @@
+ent_JJ word_NN contexts_NNS as_IN vectors_NNS in_IN some_DT space_NN and_CC use_VB distributional_JJ measures_NNS and_CC clustering_NN in_IN that_DT space_NN ._.
+Pereira_NNP -LRB-_-LRB- 1993_CD -RRB-_-RRB- ,_, Curran_NNP -LRB-_-LRB- 2002_CD -RRB-_-RRB- and_CC Lin_NNP -LRB-_-LRB- 1998_CD -RRB-_-RRB- use_VBP syntactic_JJ features_NNS in_IN the_DT vector_NN definition_NN ._.
+-LRB-_-LRB- =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =--RRB-_NN improves_VBZ on_IN the_DT latter_JJ by_IN clustering_NN by_IN committee_NN ._.
+Caraballo_NN -LRB-_-LRB- 1999_CD -RRB-_-RRB- uses_VBZ conjunction_NN and_CC appositive_JJ annotations_NNS in_IN the_DT vector_NN representation_NN ._.
+Several_JJ studies_NNS avoid_VBP requiring_VBG any_DT syntactic_JJ annotation_NN

@@ -1,0 +1,5 @@
+trees_NNS in_IN the_DT forest_NN ._.
+Random_JJ inputs_NNS and_CC random_JJ features_NNS produce_VBP good_JJ results_NNS in_IN the_DT classification_NN ._.
+For_IN distributed_VBN data_NNS classification_NN using_VBG the_DT ensemble_NN method_NN ,_, several_JJ techniques_NNS have_VBP been_VBN proposed_VBN =_JJ -_: =[_NN 20,21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Distributed_VBN classification_NN in_IN peer-to-peer_JJ networks_NNS is_VBZ also_RB studied_VBN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+The_DT authors_NNS proposed_VBD an_DT ensemble_NN approach_NN ,_, in_IN which_WDT each_DT peer_VBP builds_VBZ its_PRP$ local_JJ classifiers_NNS on_IN the_DT local_JJ data_NNS and_CC then_RB combin_VB

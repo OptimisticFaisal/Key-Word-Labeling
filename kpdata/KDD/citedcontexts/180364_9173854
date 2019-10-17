@@ -1,0 +1,4 @@
+en_IN used_VBN to_TO fully_RB manage_VB anomaly_RB detection_NN ._.
+Furthermore_RB ,_, various_JJ techniques_NNS to_TO describe_VB timeseries_NNS with_IN some_DT kind_NN of_IN parameters_NNS are_VBP available_JJ ._.
+E.g._VB a_DT technique_NN to_TO index_NN multivariate_JJ timeseries_NNS seems_VBZ =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: to_TO be_VB a_DT useful_JJ technique_NN to_TO represent_VB time_NN series_NN in_IN a_DT lower_JJR dimensional_JJ space_NN ,_, but_CC has_VBZ not_RB been_VBN further_RB evaluated_VBN in_IN this_DT project_NN due_JJ to_TO time_NN constrains_VBZ ._.
+Modified_VBN DARTS_NN algorithm_NN One_CD existing_VBG framew_NN

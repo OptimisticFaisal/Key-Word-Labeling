@@ -1,0 +1,4 @@
+classifiers_NNS forms_VBZ a_DT convex_NN hull_NN in_IN this_DT space_NN ._.
+Optimal_JJ classifiers_NNS can_MD then_RB be_VB located_JJ via_IN linear_JJ optimization_NN where_WRB the_DT facets_NNS of_IN the_DT ROC_NN convex_NN hull_NN -LRB-_-LRB- ROCCH_NN -RRB-_-RRB- define_VBP the_DT optimal_JJ constraints_NNS ._.
+Thus_RB as_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: concluded_VBD ,_, in_IN principle_NN ,_, it_PRP should_MD be_VB possible_JJ to_TO apply_VB ROC_NN type_NN of_IN analysis_NN techniques_NNS to_TO multiclass_JJ cases_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP a_DT method_NN from_IN the_DT Operations_NNP Research_NNP field_NN called_VBN Data_NNP Envelo_NNP

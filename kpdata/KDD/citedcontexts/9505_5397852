@@ -1,0 +1,5 @@
+hey_RB all_DT share_NN properties_NNS p1_NN ,_, p3_NN ,_, andp4_NN ._.
+Such_JJ a_DT conceptual_JJ clustering_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- is_VBZ crucially_RB needed_VBN in_IN many_JJ application_NN domains_NNS ._.
+For_IN this_DT purpose_NN ,_, co-clustering_NN -LRB-_-LRB- also_RB called_VBN bi-clustering_NN -RRB-_-RRB- has_VBZ been_VBN proposed_VBN =_JJ -_: =[_NN 3,4,5,6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT goal_NN is_VBZ to_TO identify_VB bi-partitions_NNS ,_, i.e._FW ,_, associated_VBN partitions_NNS on_IN both_DT dimensions_NNS ._.
+When_WRB applied_VBN on_IN Boolean_JJ matrices_NNS ,_, these_DT techniques_NNS tend_VBP to_TO provide_VB rectangles_NNS with_IN 1_CD Rectangle_NN has_VBZ to_TO be_VB unders_NNS

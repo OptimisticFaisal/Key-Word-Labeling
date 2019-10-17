@@ -1,0 +1,4 @@
+lk_NN on_IN graphs_NNS as_IN proximity_NN measures_NNS ,_, notably_RB the_DT PageRank_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- and_CC the_DT Personalized_VBN PageRank_NN algorithm_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+There_EX have_VBP been_VBN much_RB follow_VB up_RP work_NN in_IN supervised_JJ learning_NN of_IN random_JJ walk_NN models_NNS ._.
+Nie_NN et_FW al._FW =_SYM -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: use_VB simulated_JJ annealing_NN to_TO perform_VB local_JJ search_NN over_IN each_DT edge_NN type_NN ,_, which_WDT is_VBZ only_RB applicable_JJ when_WRB the_DT number_NN of_IN parameters_NNS is_VBZ very_RB small_JJ ._.
+Diligenti_NNP et_FW al._FW -LRB-_-LRB- 10_CD -RRB-_-RRB- optimize_VBP relation_NN weights_NNS using_VBG back-p_NN

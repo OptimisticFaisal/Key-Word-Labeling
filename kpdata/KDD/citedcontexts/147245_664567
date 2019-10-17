@@ -1,0 +1,5 @@
+ze_NN ._.
+1_CD Introduction_NN Machine_NN learning_NN systems_NNS are_VBP currently_RB required_VBN to_TO deal_VB with_IN large_JJ datasets_NNS ._.
+Moreover_RB ,_, data_NNS streams_NNS have_VBP recently_RB become_VBN a_DT new_JJ challenge_NN for_IN data_NNS mining_NN because_IN of_IN certain_JJ features_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: of_IN which_WDT infinite_JJ data_NN flow_NN is_VBZ the_DT most_RBS notable_JJ ._.
+Thus_RB ,_, datasets_NNS can_MD indefinitely_RB grow_VB at_IN a_DT very_RB high_JJ rate_NN and_CC it_PRP would_MD be_VB highly_RB desirable_JJ to_TO be_VB able_JJ to_TO induce_VB concepts_NNS from_IN them_PRP ._.
+Trying_VBG to_TO extract_VB k_NN

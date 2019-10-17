@@ -1,0 +1,4 @@
+._.
+Non-Bayesian_JJ Approaches_NNS to_TO Community_NNP Discovery_NNP in_IN Graphs_NNP ._.
+There_EX are_VBP numerous_JJ nonBayesian_JJ methods_NNS for_IN community_NN detection_NN ,_, including_VBG the_DT popular_JJ METIS_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, spectral_JJ methods_NNS -LRB-_-LRB- 4_LS -RRB-_-RRB- maximum_NN flow_NN methods_NNS =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, co-clustering_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, multi-level_JJ clustering_NN -LRB-_-LRB- Graclus_NN -RRB-_-RRB- -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC others_NNS -LRB-_-LRB- 25_CD -RRB-_-RRB- ._.
+All_DT of_IN the_DT above_JJ methods_NNS do_VBP not_RB satisfy_VB the_DT nonparametric_JJ property_NN of_IN the_DT problem_NN statement_NN because_IN they_PRP require_VBP the_DT user_NN to_TO

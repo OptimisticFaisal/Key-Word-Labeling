@@ -1,0 +1,4 @@
+rge_NN number_NN of_IN customer_NN reviews_NNS of_IN 5_CD products_NNS sold_VBD online_JJ show_NN that_IN FBS_NN and_CC its_PRP$ techniques_NNS are_VBP highly_RB effectiveness_NN ._.
+2_CD ._.
+RELATED_NNS WORK_VBP Our_PRP$ work_NN is_VBZ closely_RB related_JJ to_TO Dave_NNP ,_, Lawrence_NNP and_CC Pennock_NNP 's_POS work_NN in_IN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: on_IN semantic_JJ classification_NN of_IN reviews_NNS ._.
+Using_VBG available_JJ training_NN corpus_NN from_IN some_DT Web_NN sites_NNS ,_, where_WRB each_DT review_NN already_RB has_VBZ a_DT class_NN -LRB-_-LRB- e.g._FW ,_, thumbs-up_NN and_CC thumbs-downs_NNS ,_, or_CC some_DT other_JJ quantitative_JJ or_CC bina_NN

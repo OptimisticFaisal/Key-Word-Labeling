@@ -1,0 +1,6 @@
+without_IN signif161icantly_RB affecting_VBG the_DT outcome_NN of_IN the_DT computation_NN ._.
+We_PRP have_VBP validated_VBN in_IN our_PRP$ experiments_NNS that_IN it_PRP is_VBZ indeed_RB the_DT case_NN ._.
+Our_PRP$ implementation_NN is_VBZ in_IN Java_NNP ,_, using_VBG the_DT Java_NNP Tools_NNP developed_VBD for_IN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Berkeley_NNP DB_NNP ._.
+We_PRP used_VBD the_DT Jena_NNP framework_NN to_TO load_VB and_CC convert_VB the_DT ontologies_NNS ._.
+The_DT algorithm_NN turns_VBZ out_RP to_TO be_VB heavily_RB IO-bound_JJ ._.
+Therefore_RB ,_, we_PRP used_VBD a_DT solid-state_JJ drive_NN -LRB-_-LRB- SSD_NN -RRB-_-RRB- with_IN high_JJ read_NN bandwidth_NN t_NN

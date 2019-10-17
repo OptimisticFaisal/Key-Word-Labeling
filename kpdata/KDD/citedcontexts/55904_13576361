@@ -1,0 +1,6 @@
+ocuments_NNS ._.
+The_DT association14based_JJ methods_NNS use_VBP the_DT associations_NNS among_IN different_JJ nodes_NNS visited_VBN in_IN a_DT session_NN in_IN order_NN to_TO perform_VB the_DT classification_NN ._.
+An_DT effective_JJ rule-based_JJ classifier_NN for_IN XML_NN is_VBZ XRules_NN -LRB-_-LRB- =_JJ -_: =_JJ Zaki_NNP &_CC Aggarwal_NNP ,_, 2003_CD -_: =--RRB-_NN ,_, a_DT method_NN that_WDT uses_VBZ a_DT set_NN of_IN structural_JJ rules_NNS for_IN XML_NN document_NN ._.
+classification_NN ._.
+XMiner_NN -LRB-_-LRB- Zaki_NNP ,_, 2002_CD -RRB-_-RRB- uses_VBZ frequent_JJ sub-trees_NNS in_IN a_DT collection_NN of_IN XML_NN trees_NNS to_TO mine_VB a_DT set_NN of_IN rules_NNS ._.
+In_IN the_DT training_NN phase_NN

@@ -1,0 +1,4 @@
+-RRB-_-RRB- to_TO the_DT program_NN 's_POS variables_NNS ._.
+The_DT occurrences_NNS of_IN x_NN can_MD indeed_RB be_VB data-typed_JJ as_IN S_NN ,_, but_CC r_NN has_VBZ no_DT data_NNS type_NN that_WDT corresponds_VBZ to_TO a_DT nonterminal_JJ ._.
+2_CD ._.
+A_DT regular_JJ expression_NN analysis_NN -LRB-_-LRB- Christensen_NNP -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, Minamide_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Wasserman_NNP -LRB-_-LRB- 10_CD -RRB-_-RRB- -RRB-_-RRB- solves_VBZ the_DT flow_NN equations_NNS in_IN Figure_NNP 1_CD in_IN the_DT domain_NN of_IN regular_JJ expressions_NNS ,_, determining_VBG that_IN the_DT hot_JJ spot_NN 's_POS -LRB-_-LRB- X3_NN 's_POS -RRB-_-RRB- values_NNS conform_VBP to_TO the_DT regular_JJ expression_NN ,_, -LRB-_-LRB- ∗_FW ·_FW a_DT ·_NN -RRB-_-RRB- ∗_NN ,_, but_CC this_DT doe_NN

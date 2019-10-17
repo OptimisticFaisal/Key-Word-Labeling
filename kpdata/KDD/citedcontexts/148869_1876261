@@ -1,0 +1,4 @@
+ng_NN algorithm_NN that_IN e_SYM #ectively_RB exploits_VBZ monotone_NN constraints_NNS ._.
+1_CD Introduction_NN The_DT problem_NN of_IN how_WRB to_TO push_VB di_FW #erent_FW types_NNS of_IN constraints_NNS into_IN the_DT frequent_JJ itemsets_NNS computation_NN has_VBZ been_VBN extensively_RB studied_VBN =_JJ -_: =[_NN 5_CD ,_, 6_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, while_IN pushing_VBG anti-monotone_JJ constraints_NNS deep_JJ into_IN the_DT mining_NN algorithm_NN is_VBZ easy_JJ and_CC e_SYM #ective_JJ ,_, the_DT case_NN is_VBZ di_FW #erent_FW for_IN monotone_NN constraints_NNS ._.
+Indeed_RB ,_, anti-monotone_JJ constraints_NNS can_MD be_VB used_VBN to_TO

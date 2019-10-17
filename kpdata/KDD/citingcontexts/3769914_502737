@@ -1,0 +1,5 @@
+es_NNS ._.
+We_PRP also_RB find_VBP related_JJ work_NN in_IN the_DT area_NN of_IN inexact_JJ querying_NN of_IN relational_JJ databases_NNS ._.
+Koudas_FW et_FW al._FW propose_VBP a_DT method_NN for_IN relaxing_VBG relational_JJ database_NN queries_NNS to_TO accommodate_VB near_IN ,_, but_CC inexact_JJ matches_NNS =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, this_DT work_NN does_VBZ not_RB support_VB inexact_JJ structural_JJ matching_NN ._.
+The_DT method_NN will_MD relax_VB attribute_NN value_NN conditions_NNS and_CC join_VB conditions_NNS ,_, but_CC there_EX is_VBZ no_DT flexibility_NN in_IN terms_NNS of_IN what_WP relations_NNS are_VBP invo_NN

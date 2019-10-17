@@ -1,0 +1,4 @@
+behind_IN this_DT approach_NN and_CC algorithmic_JJ design_NN decisions_NNS in_IN this_DT section_NN ._.
+3.1_CD Dominator_NNP Tree_NNP Computation_NNP The_DT computation_NN of_IN dominators_NNS is_VBZ a_DT well_RB studied_VBN topic_NN and_CC we_PRP adopt_VBP the_DT Lengauer-Tarjan_JJ algorithm_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: from_IN the_DT Boost_NNP graph_NN library_NN implementation_NN ._.
+This_DT algorithm_NN runs_VBZ in_IN O_NN -LRB-_-LRB- -LRB-_-LRB- |_CD V_NN |_NN +_CC |_NN E_NN |_NN -RRB-_-RRB- log_NN -LRB-_-LRB- |_CD V_NNP |_NNP +_CC |_NNP E_NNP |_NNP -RRB-_-RRB- -RRB-_-RRB- time_NN ,_, where_WRB |_NNP V_NNP |_NNP is_VBZ the_DT number_NN of_IN vertices_NNS and_CC |_NNP E_NNP |_NNP is_VBZ the_DT number_NN of_IN edges_NNS ._.
+Formally_RB ,_, the_DT dominator_NN

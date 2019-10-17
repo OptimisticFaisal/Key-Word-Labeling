@@ -1,0 +1,4 @@
+t._VB It_PRP has_VBZ application_NN in_IN many_JJ areas_NNS ,_, from_IN analysis_NN of_IN market_NN data_NNS to_TO gene_NN sequences_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, Mannila_NNP et_FW al._FW perform_VB episode_NN mining_NN to_TO discover_VB frequent_JJ episodes_NNS within_IN a_DT sequence_NN of_IN events_NNS =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT episode_NN is_VBZ defined_VBN as_IN a_DT series_NN of_IN events_NNS occurring_VBG relatively_RB close_RB to_TO one_CD another_DT -LRB-_-LRB- i.e._FW they_PRP occur_VBP at_IN the_DT same_JJ window_NN -RRB-_-RRB- ._.
+An_DT episode_NN is_VBZ supported_VBN by_IN a_DT window_NN if_IN it_PRP is_VBZ a_DT sub-sequence_NN of_IN the_DT series_NN

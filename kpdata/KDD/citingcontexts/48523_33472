@@ -1,0 +1,4 @@
+classifier_NN to_TO the_DT current_JJ ensemble_NN with_IN an_DT appropriate_JJ scalar_NN multiplier_NN -LRB-_-LRB- the_DT step-size_NN -RRB-_-RRB- ._.
+It_PRP is_VBZ well_RB known_VBN that_IN such_JJ algorithms_NNS are_VBP performing_VBG gradient_NN descent_NN of_IN an_DT error_NN function_NN in_IN function_NN space_NN =_JJ -_: =[_NN 13_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Depending_VBG on_IN the_DT measure_NN of_IN quality_NN of_IN the_DT classifier_NN ,_, di_FW #erent_FW criteria_NNS are_VBP produced_VBN for_IN choosing_VBG the_DT base_NN classifier_NN and_CC assigning_VBG the_DT step-size_NN ._.
+D'Alche-Buc_NN et_FW al._FW ,_, -LRB-_-LRB- 6_CD -RRB-_-RRB- showed_VBD that_IN these_DT error_NN me_PRP

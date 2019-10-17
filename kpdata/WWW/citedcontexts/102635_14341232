@@ -1,0 +1,5 @@
+roblem_NN of_IN building_NN language_NN models_NNS ._.
+In_IN this_DT section_NN ,_, we_PRP discuss_VBP previous_JJ approaches_NNS in_IN these_DT two_CD areas_NNS related_VBN to_TO ours_PRP ._.
+5.1_CD Focused_NNP Crawling_NNP There_EX is_VBZ a_DT vast_JJ literature_NN in_IN the_DT area_NN of_IN focused_JJ crawlers_NNS =_JJ -_: =[_NN 11_CD ,_, 8_CD ,_, 7_CD ,_, 20_CD ,_, 1_CD ,_, 4_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Their_PRP$ primarily_RB goal_NN is_VBZ to_TO collect_VB Web_NN pages_NNS in_IN a_DT well-defined_JJ topic_NN ._.
+For_IN instance_NN ,_, Chakrabarti_NNP et_FW al._FW -LRB-_-LRB- 7_CD -RRB-_-RRB- look_NN for_IN Web_NN pages_NNS in_IN domains_NNS such_JJ as_IN astronomy_NN ,_, linux_NN ,_, cancer_NN etc_NN ;_: Barbosa_NNP and_CC Freire_NNP -LRB-_-LRB- 4_CD -RRB-_-RRB-

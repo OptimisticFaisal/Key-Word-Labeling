@@ -1,0 +1,5 @@
+hich_NN is_VBZ a_DT rooted_JJ directed_JJ tree_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- ._.
+Later_JJ many_JJ researchers_NNS extend_VBP the_DT research_NN on_IN closed_JJ frequent_JJ itemsets_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- and_CC designed_VBN various_JJ algorithms_NNS viz._NN ,_, TFP_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, CLOSET_NN ,_, MAFIA_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, CHARM_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, CLOSET_NN +_CC =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, LCM_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+An_DT itemset_NN is_VBZ said_VBN to_TO be_VB closed_VBN if_IN it_PRP has_VBZ no_DT proper_JJ superset_NN with_IN the_DT same_JJ support_NN ._.
+The_DT first_JJ algorithm_NN proposed_VBN is_VBZ AIS_NNP and_CC later_RB it_PRP was_VBD improved_VBN and_CC named_VBN it_PRP as_IN `_`` Apriori_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- '_'' ._.
+Apriori_NNP uses_VBZ

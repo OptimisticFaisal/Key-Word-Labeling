@@ -1,0 +1,5 @@
+clear_JJ what_WDT ARW_NN -LRB-_-LRB- 42_CD -RRB-_-RRB- tries_VBZ to_TO optimize_VB ._.
+And_CC also_RB ,_, it_PRP requires_VBZ a_DT matrix_JJ inverse_NN of_IN the_DT same_JJ size_NN of_IN the_DT graph_NN ,_, which_WDT is_VBZ not_RB scalable_JJ to_TO large_JJ graphs_NNS ._.
+RRW_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- is_VBZ based_VBN on_IN vertex_NN reinforced_VBD random_JJ walk_NN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Compared_VBN with_IN ARW_NN -LRB-_-LRB- 42_CD -RRB-_-RRB- ,_, it_PRP makes_VBZ an_DT important_JJ step_NN forward_RB by_IN providing_VBG some_DT optimization_NN explanations_NNS via_IN defining_VBG a_DT time-varying_JJ objective_NN function_NN that_WDT changes_VBZ at_IN each_DT iteration_NN step_NN ._.
+However_RB ,_, it_PRP

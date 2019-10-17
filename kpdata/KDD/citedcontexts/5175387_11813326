@@ -1,0 +1,7 @@
+to_TO the_DT PARAFAC-typed_JJ NTF_NN is_VBZ straightforward_JJ ._.
+Some_DT other_JJ related_JJ work_NN include_VBP the_DT following_NN ._.
+Dhillon_FW etal_FW ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- proposed_VBD a_DT co-clustering_JJ framework_NN using_VBG an_DT information_NN theoretic_JJ framework_NN ._.
+Long_NNP et_FW al._FW =_SYM -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBN several_JJ optimization-based_JJ models_NNS for_IN multi-type_JJ relational_JJ data_NNS ._.
+These_DT approaches_NNS ,_, however_RB ,_, focus_VBP more_RBR on_IN pairwise_JJ relations_NNS and_CC do_VBP not_RB capture_VB higher_JJR order_NN correlations_NNS ._.
+Banerjee_NNP et_FW al._FW -LRB-_-LRB- 1_CD

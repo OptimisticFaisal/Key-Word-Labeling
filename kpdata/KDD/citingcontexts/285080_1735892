@@ -1,0 +1,4 @@
+-LRB-_-LRB- 32_CD -RRB-_-RRB- proposed_VBD a_DT simple_JJ iterative_JJ algorithm_NN for_IN labeling_NN nodes_NNS in_IN social_JJ networks_NNS ,_, based_VBN on_IN the_DT naive_JJ Bayes_NNP classier_NN ._.
+Cook_NNP and_CC Holder_NNP -LRB-_-LRB- 9_CD -RRB-_-RRB- developed_VBD a_DT system_NN for_IN mining_NN graph-based_JJ data_NNS ._.
+Flake_NNP et_FW al._FW -LRB-_-LRB- =_JJ -_: =_JJ 13_CD -_: =-]_CD used_VBN graph_NN algorithms_NNS to_TO mine_VB communities_NNS from_IN the_DT Web_NN -LRB-_-LRB- dened_VBN as_IN sets_NNS of_IN sites_NNS that_WDT have_VBP more_JJR links_NNS to_TO each_DT other_JJ than_IN to_TO non-members_NNS -RRB-_-RRB- ._.
+Several_JJ researchers_NNS have_VBP studied_VBN the_DT problem_NN of_IN estimating_VBG a_DT c_NN

@@ -1,0 +1,3 @@
+ous_JJ dissemination_NN rules_NNS -LRB-_-LRB- see_VB e.g._FW -LRB-_-LRB- 17_CD -RRB-_-RRB- for_IN a_DT survey_NN -RRB-_-RRB- ._.
+Among_IN other_JJ types_NNS of_IN rules_NNS we_PRP can_MD cite_VB models_NNS in_IN which_WDT a_DT vertex_NN becomes_VBZ active_JJ if_IN the_DT total_JJ weight_NN of_IN its_PRP$ active_JJ neighbors_NNS exceeds_VBZ a_DT fixed_JJ value_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, or_CC symmetric_JJ majority_NN voting_NN rules_NNS ,_, for_IN which_WDT an_DT active_JJ vertex_NN may_MD also_RB become_VB passive_JJ if_IN the_DT number_NN of_IN passive_JJ neighbors_NNS outweights_VBZ the_DT number_NN of_IN active_JJ neighbors_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+One_CD of_IN the_DT main_JJ questions_NNS

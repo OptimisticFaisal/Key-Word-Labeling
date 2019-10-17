@@ -1,0 +1,3 @@
+e-scale_NN production_NN systems_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP describe_VBP an_DT efficient_JJ dataflow_NN implementation_NN of_IN a_DT collaborative_JJ filtering_VBG -LRB-_-LRB- CF_NN -RRB-_-RRB- solution_NN to_TO the_DT Netflix_NNP Prize_NNP problem_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- based_VBN on_IN weighted_JJ co-clustering_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT dataflow_JJ library_NN we_PRP use_VBP facilitates_VBZ the_DT development_NN of_IN sophisticated_JJ parallel_JJ programs_NNS designed_VBN to_TO fully_RB utilize_VB commodity_NN multicore_JJ hardware_NN ,_, while_IN hiding_VBG traditional_JJ difficulties_NNS such_JJ as_IN queui_NN

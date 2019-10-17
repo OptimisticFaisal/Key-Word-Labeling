@@ -1,0 +1,4 @@
+h_NN the_DT free_JJ texts_NNS in_IN further_JJ steps_NNS ._.
+As_IN a_DT beneficial_JJ side_NN effect_NN ,_, the_DT log_NN parsing_NN step_NN also_RB eliminates_VBZ corrupted_JJ messages_NNS ,_, which_WDT is_VBZ common_JJ in_IN GX_NNP logs_NNS ,_, due_JJ to_TO the_DT scale_NN of_IN GX_NNP ._.
+Existing_VBG log_NN parsing_NN tools_NNS =_JJ -_: =[_NN 17_CD ,_, 18_CD ,_, 12_CD ,_, 4_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: use_VB various_JJ data_NNS mining_NN methods_NNS to_TO discover_VB the_DT message_NN structures_NNS from_IN historical_JJ logs_NNS ._.
+Different_JJ from_IN these_DT methods_NNS ,_, we_PRP use_VBP static_JJ source_NN code_NN analysis_NN to_TO extract_VB all_DT possible_JJ log_NN printing_NN statemen_NNS

@@ -1,0 +1,6 @@
+eral_NN ._.
+The_DT data_NNS contained_VBD 758_CD Liberal_NNP blogs_NNS and_CC 732_CD Conservative_JJ blogs_NNS ,_, which_WDT were_VBD joined_VBN with_IN edges_NNS based_VBN on_IN hyperlinks_NNS made_VBN by_IN the_DT blog_NN owners_NNS ._.
+-LRB-_-LRB- For_IN details_NNS of_IN building_VBG the_DT network_NN and_CC labeling_NN ,_, see_VBP =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._. -RRB-_-RRB-
+Of_IN these_DT ,_, 1,224_CD had_VBD degree_NN greater_JJR than_IN 0_CD --_: 558_CD Liberal_NNP and_CC 636_CD Conservative_NNP ,_, which_WDT we_PRP chose_VBD to_TO focus_VB on_RP for_IN our_PRP$ experiments_NNS ._.
+The_DT network_NN was_VBD relatively_RB dense_JJ ,_, with_IN 16_CD ,_, 718_CD total_JJ edges_NNS ._.
+In_IN this_DT case_NN

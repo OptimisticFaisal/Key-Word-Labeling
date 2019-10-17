@@ -1,0 +1,5 @@
+eed_NN a_DT clustering_NN of_IN the_DT webpages_NNS ._.
+Webpage_NNP Clustering_NNP ._.
+Methods_NNS for_IN structural_JJ clustering_NN of_IN webpages_NNS have_VBP used_VBN similarity_NN metrics_NNS based_VBN on_IN the_DT Fourier_NN transform_VB -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, distance_NN functions_NNS over_IN DOM_NNP trees_NNS =_JJ -_: =[_NN 18_CD ,_, 22_CD -RRB-_-RRB- -_: =_JJ -_: ,_, URL_NN patterns_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, and_CC similarity_NN of_IN HTML_NNP tag_NN or_CC path_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Tree-matching_JJ techniques_NNS have_VBP also_RB been_VBN studied_VBN outside_IN the_DT context_NN of_IN clustering_NN DOM_NN trees_NNS -LRB-_-LRB- 20_CD ,_, 21_CD ,_, 16_CD -RRB-_-RRB- ._.
+A_DT few_JJ methods_NNS combine_VBP the_DT processe_NN

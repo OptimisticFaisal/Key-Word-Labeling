@@ -1,0 +1,6 @@
+ut_NN of_IN the_DT scope_NN of_IN this_DT paper_NN ._.
+We_PRP just_RB outline_VBP its_PRP$ relevant_JJ properties_NNS ,_, and_CC from_IN this_DT point_NN on_IN will_MD assume_VB that_IN a_DT kd-tree_NN for_IN the_DT input_NN points_NNS exists_VBZ ._.
+Further_JJ details_NNS about_IN kd-trees_NNS can_MD be_VB 2sfound_JJ in_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP will_MD use_VB a_DT specialized_JJ version_NN of_IN kd-trees_NNS called_VBN mrkd-trees_NNS ,_, for_IN \_CD multi-resolution_JJ kd-trees_NNS ''_'' -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Their_PRP$ properties_NNS are_VBP :_: They_PRP are_VBP binary_JJ trees_NNS ._.
+Each_DT node_NN contains_VBZ information_NN about_IN all_DT points_NNS con_VBP

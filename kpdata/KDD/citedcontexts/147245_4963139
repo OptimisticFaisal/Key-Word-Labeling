@@ -1,0 +1,4 @@
+al_FW learning_VBG algorithms_NNS based_VBN on_IN bagging_VBG and_CC boosting_VBG and_CC successfully_RB applied_VBD them_PRP to_TO EEG_NNP data_NNS classification_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+Wang_NNP et_FW al._FW used_VBN weighted_JJ ensemble_NN classifiers_NNS to_TO mine_VB concept-drifting_JJ data_NNS stream_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Like_IN bagging_NN ,_, a_DT model_NN of_IN incremental_JJ learning_NN by_IN classifier_NN combining_VBG -LRB-_-LRB- ILbyCC_NN -RRB-_-RRB- is_VBZ proposed_VBN in_IN this_DT paper_NN ._.
+2_CD Incremental_JJ Learning_NNP by_IN Classifier_NNP Combining_VBG 2.1_CD Definition_NN of_IN Batch_NN Incremental_JJ Learning_NNP

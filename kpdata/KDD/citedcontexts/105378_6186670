@@ -1,0 +1,3 @@
+Apriori_NNP :_: that_IN the_DT number_NN of_IN candidates_NNS whose_WP$ support_NN is_VBZ to_TO be_VB counted_VBN may_MD become_VB very_RB large_JJ ,_, especially_RB when_WRB the_DT data_NNS is_VBZ such_JJ that_IN the_DT frequent_JJ sets_NNS may_MD contain_VB many_JJ items_NNS -LRB-_-LRB- the_DT ``_`` long_JJ pattern_NN ''_'' problem_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+If_IN ,_, for_IN example_NN ,_, there_EX is_VBZ just_RB one_CD set_NN of_IN 20_CD items_NNS that_WDT reaches_VBZ the_DT threshold_NN of_IN support_NN ,_, then_RB the_DT method_NN inescapably_RB requires_VBZ the_DT support_NN for_IN all_PDT the_DT 2_CD 20_CD subsets_NNS of_IN this_DT set_NN to_TO be_VB counted_VBN ._.
+In_IN the_DT

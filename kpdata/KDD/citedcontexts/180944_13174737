@@ -1,0 +1,4 @@
+alysis_NN of_IN Ecosystems_NNP Acceleration_NNP of_IN k-means_NN clustering_NN often_RB involves_VBZ techniques_NNS such_JJ as_IN approximation_NN or_CC choosing_VBG more_RBR useful_JJ starting_VBG points_NNS ._.
+We_PRP used_VBD the_DT blacklisting_NN algorithm_NN by_IN Pelleg_NNP and_CC Moore_NNP =_SYM -_: =_JJ -LRB-_-LRB- PM99_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP extends_VBZ the_DT multi-resolution_JJ kd-tree_NN ,_, a_DT binary_JJ tree_NN structure_NN whose_WP$ split_JJ nodes_NNS represent_VBP planes_NNS subdividing_VBG the_DT data_NNS space_NN into_IN hyperrectangles_NNS ._.
+While_IN building_VBG the_DT tree_NN ,_, the_DT space_NN of_IN data_NNS points_NNS

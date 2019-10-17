@@ -1,0 +1,4 @@
+sed_VBN for_IN dimensionality_NN reduction_NN using_VBG ISOMAP_NN ._.
+For_IN example_NN ,_, Prem_NNP et_FW al._FW using_VBG an_DT autonomous_JJ mobile_JJ robot_NN ,_, showed_VBD how_WRB ISOMAP_NN can_MD be_VB used_VBN to_TO detect_VB and_CC properly_RB classify_VBP time-series_NNS of_IN sensory_JJ data_NNS ._.
+In_IN =_JJ -_: =[_NN 38_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Vlachos_NNP et_FW al._FW analyzed_VBD the_DT LLE_NN and_CC ISOMAP_NN visualization_NN power_NN ._.
+They_PRP showed_VBD that_IN LLE_NN and_CC ISOMAP_NN perform_VBP well_RB only_RB when_WRB the_DT data_NN is_VBZ comprised_VBN of_IN one_CD well_RB sampled_VBN cluster_NN and_CC that_IN the_DT mapping_NN gets_VBZ sig_NN

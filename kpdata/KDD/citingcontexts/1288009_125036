@@ -1,0 +1,4 @@
+and_CC class_NN distributions_NNS ,_, C3_NN can_MD be_VB either_CC the_DT best_JJS classifier_NN or_CC the_DT worst_JJS ._.
+If_IN the_DT cost_NN and_CC class_NN distributions_NNS are_VBP known_VBN ,_, a_DT particular_JJ point_NN on_IN an_DT ROC_NN curve_NN can_MD be_VB selected_VBN as_IN the_DT optimal_JJ classifier_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT cost_NN and_CC class_NN distributions_NNS define_VBP an_DT iso-performance_JJ line_NN in_IN ROC_NN space_NN ,_, shown_VBN as_IN dotted_VBN lines_NNS in_IN Figure_NNP 2b_NNP ._.
+All_PDT the_DT classifiers_NNS whose_WP$ points_NNS lie_VBP on_IN the_DT iso-performance_JJ line_NN have_VBP identical_JJ expe_NN

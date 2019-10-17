@@ -1,0 +1,4 @@
+n_NN Apriori_NN principle_NN and_CC use_NN depth-first_NN or_CC breadthfirst_NN search_NN strategies_NNS ._.
+This_DT is_VBZ the_DT case_NN for_IN Gspan_NNP proposed_VBN by_IN Yan_FW et_FW Han_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC DSPM_NN proposed_VBN by_IN Cohen_NNP et_FW al._FW -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+Algorithms_NNS such_JJ as_IN Closegraph_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, CMTreeMiner_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- and_CC Spin_VB -LRB-_-LRB- 20_CD -RRB-_-RRB- allow_VBP the_DT mining_NN of_IN frequent_JJ and_CC closed_JJ subgraphs_NNS ._.
+Before_IN presenting_VBG our_PRP$ own_JJ approach_NN ,_, we_PRP go_VBP back_RB to_TO Apriori_NNP which_WDT --_: more_JJR than_IN a_DT concrete_JJ method_NN --_: represents_VBZ a_DT strateg_NN

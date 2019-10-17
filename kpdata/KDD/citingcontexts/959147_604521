@@ -1,0 +1,6 @@
+as_IN understanding_VBG leukemia_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+Indeed_RB ,_, their_PRP$ popularity_NN is_VBZ evidenced_VBN by_IN the_DT fact_NN that_IN over_IN 50_CD papers_NNS have_VBP so_RB far_RB been_VBN published_VBN in_IN the_DT area_NN ._.
+Techniques_NNS for_IN finding_VBG emerging_VBG patterns_NNS can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 9_CD ,_, 12_CD ,_, 4_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3_LS ._.
+MINING_NNP EMERGING_NNP PATTERNS_NNP USING_NNP ZERO-SUPPRESSED_NNP BDDS_NNP In_IN this_DT section_NN ,_, we_PRP will_MD describe_VB our_PRP$ approach_NN for_IN mining_NN emerging_VBG patterns_NNS using_VBG Zero-suppressed_JJ Binary_JJ Decision_NN Diagrams_NNS -LRB-_-LRB- ZBDDs_NNS -RRB-_-RRB- ._.
+Firstly_RB ,_, we_PRP

@@ -1,0 +1,4 @@
+ght_NN and_CC users_NNS on_IN eBay.com_NN post_NN feedback_NN describing_VBG their_PRP$ experiences_NNS with_IN sellers_NNS ._.
+The_DT goal_NN of_IN opinion_NN mining_NN systems_NNS is_VBZ to_TO identify_VB such_JJ pieces_NNS of_IN the_DT text_NN that_WDT express_VBP opinions_NNS -LRB-_-LRB- Breck_NNP et_FW al._FW ,_, 2007_CD ;_: =_JJ -_: =_JJ König_NNP and_CC Brill_NNP ,_, 2006_CD -_: =--RRB-_NN and_CC then_RB measure_VB the_DT polarity_NN and_CC strength_NN of_IN the_DT expressed_VBN opinions_NNS ._.
+While_IN intuitively_RB the_DT task_NN seems_VBZ straightforward_JJ ,_, there_EX are_VBP multiple_JJ challenges_NNS involved_VBN ._.
+•_NN What_WP makes_VBZ an_DT opinion_NN positive_JJ or_CC ne_NN

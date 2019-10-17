@@ -1,0 +1,4 @@
+closed_VBN captioning_NN are_VBP mapped_VBN onto_IN the_DT encoded_VBN event_NN representations_NNS ._.
+representations_NNS are_VBP then_RB mapped_VBN to_TO words_NNS in_IN the_DT closed_JJ captioning_NN text_NN using_VBG a_DT generalization_NN of_IN Latent_JJ Dirichlet_NN Allocation_NN -LRB-_-LRB- -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+In_IN the_DT following_JJ sections_NNS we_PRP detail_NN this_DT approach_NN and_CC examine_VB its_PRP$ effectiveness_NN in_IN retrieving_VBG video_JJ events_NNS from_IN a_DT held_VBN out_RP test_NN set_NN of_IN broadcast_NN baseball_NN games_NNS ._.
+Results_NNS indicate_VBP that_IN performance_NN of_IN

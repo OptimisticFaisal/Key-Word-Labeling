@@ -1,0 +1,5 @@
+in_IN Section_NNP 4.2_CD ._.
+The_DT matrix_NN of_IN means_NN M_NN reflects_VBZ the_DT probabilities_NNS with_IN which_WDT documents_NNS cite_VBP each_DT other_JJ dependent_JJ on_IN whether_IN they_PRP are_VBP in_IN the_DT same_JJ cluster_NN or_CC not_RB ._.
+Co-Clustering_VBG The_DT co-clustering_JJ model_NN -LRB-_-LRB- =_JJ -_: =_JJ Dhillon_NNP ,_, 2001_CD -_: =--RRB-_NN ,_, originally_RB proposed_VBN for_IN text_NN ,_, simultanously_RB clusters_NNS the_DT rows_NNS and_CC the_DT columns_NNS of_IN a_DT term\/document_NN matrix_NN ._.
+This_DT leads_VBZ to_TO a_DT bipartite_JJ graph_NN model_NN with_IN terms_NNS and_CC documents_NNS being_VBG two_CD sets_NNS of_IN vertices_NNS ._.
+A_DT

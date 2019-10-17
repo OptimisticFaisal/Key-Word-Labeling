@@ -1,0 +1,5 @@
+ositive\/negative_JJ ratings_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+2_CD ._.
+Approaches_NNS based_VBN on_IN linear_JJ algebra_NN in_IN the_DT context_NN of_IN a_DT Markovian_JJ model_NN ;_: trust_NN inference_NN is_VBZ based_VBN on_IN a_DT probabilistic_JJ interpretation_NN of_IN the_DT transition_NN from_IN host_NN to_TO host_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+3_LS ._.
+Approaches_NNS based_VBN on_IN Path_NNP Algebra_NNP ;_: the_DT trust_NN network_NN is_VBZ modelled_VBN as_IN a_DT directed-weighted_JJ graph_NN ;_: the_DT weight_NN of_IN each_DT edge_NN connecting_VBG two_CD nodes_NNS equals_VBZ the_DT value_NN of_IN the_DT direct_JJ trust_NN ,_, while_IN en_IN

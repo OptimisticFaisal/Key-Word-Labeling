@@ -1,0 +1,4 @@
+he_PRP top_JJ results_NNS as_IN ranked_VBN by_IN PageRank_NNP ,_, HITS_NNP and_CC the_DT Indegree_NNP heuristic_NN ._.
+From_IN this_DT graph_NN we_PRP can_MD observe_VB that_IN the_DT indegree_NN and_CC HITS_NN based_VBN heuristics_NNS were_VBD subject_JJ to_TO being_VBG easily_RB spammed_VBN ._.
+As_IN described_VBN in_IN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: the_DT HITS_NNP algorithm_NN is_VBZ susceptible_JJ to_TO spamming_NN and_CC this_DT is_VBZ particularly_RB true_JJ in_IN the_DT presence_NN of_IN Tightly_FW Knit_FW Communities_NNS -LRB-_-LRB- TKC_NN -RRB-_-RRB- ._.
+This_DT phenomenon_NN was_VBD originally_RB proposed_VBN by_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC also_RB studied_VBN by_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.

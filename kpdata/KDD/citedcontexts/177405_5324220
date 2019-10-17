@@ -1,0 +1,4 @@
+algorithms_NNS ,_, but_CC Porter_NNP 's_POS -LRB-_-LRB- 22_CD -RRB-_-RRB- is_VBZ probably_RB one_CD of_IN the_DT most_RBS famous_JJ ._.
+3.2_CD Dynamic_NNP Clustering_NNP Algorithm_NNP Several_JJ algorithms_NNS have_VBP been_VBN proposed_VBN for_IN clustering_NN and_CC classification_NN of_IN web_NN document_NN collections_NNS =_JJ -_: =[_NN 6_CD ,_, 9_CD ,_, 15_CD ,_, 16_CD ,_, 18_CD ,_, 31_CD ,_, 33_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, the_DT most_RBS basic_JJ and_CC fastest_JJS is_VBZ probably_RB the_DT well_RB known_VBN k-means_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- or_CC nuées_JJ dynamiques_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+The_DT basic_JJ idea_NN of_IN this_DT method_NN is_VBZ to_TO select_VB some_DT special_JJ patterns_NNS as_IN centers_NNS of_IN gravity_NN that_WDT will_MD

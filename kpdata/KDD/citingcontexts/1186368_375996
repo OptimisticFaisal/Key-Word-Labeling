@@ -1,0 +1,3 @@
+morphism_NN is_VBZ NP-complete_JJ in_IN general_JJ -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, research_NN in_IN the_DT past_JJ three_CD decades_NNS has_VBZ shown_VBN that_IN some_DT algorithms_NNS are_VBP reasonably_RB fast_RB on_IN average_NN and_CC become_VB computationally_RB intractable_JJ only_RB in_IN a_DT few_JJ cases_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, algorithms_NNS based_VBN on_IN backtracking_VBG and_CC look-ahead_JJ ,_, e.g._FW ,_, Ullmann_NNP 's_POS algorithm_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- and_CC VF_NNP -LRB-_-LRB- 8_CD -RRB-_-RRB- are_VBP comfortable_JJ with_IN graphs_NNS of_IN hundreds_NNS or_CC thousands_NNS of_IN vertices_NNS ._.
+Besides_IN the_DT general_JJ tractabi_NN

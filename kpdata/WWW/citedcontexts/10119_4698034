@@ -1,0 +1,4 @@
+on_IN are_VBP not_RB supported_VBN directly_RB by_IN model_NN checkers_NNS ._.
+Earlier_JJR efforts_NNS in_IN this_DT area_NN ,_, for_IN example_NN ,_, the_DT use_NN of_IN LTSA_NN to_TO model_NN check_NN BPEL4WS_NN web_NN services_NNS -LRB-_-LRB- 36_CD -RRB-_-RRB- and_CC the_DT petri-net_JJ approach_NN to_TO analyze_VB web_NN services_NNS =_JJ -_: =[_NN 65_CD -RRB-_-RRB- -_: =_JJ -_: ,_, have_VBP concentrated_VBN on_IN the_DT abstract_JJ control_NN flows_NNS of_IN web_NN services_NNS only_RB ,_, and_CC data_NNS semantics_NNS were_VBD abstracted_VBN away_RB ._.
+This_DT dissertation_NN tackles_VBZ the_DT above_JJ challenges_NNS in_IN the_DT following_JJ ways_NNS ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- An_DT Automata-T_NN

@@ -1,0 +1,4 @@
+in_IN the_DT representation_NN ,_, and_CC -LRB-_-LRB- 4_LS -RRB-_-RRB- the_DT percentage_NN of_IN the_DT representation_NN corresponding_VBG to_TO a_DT query-term_NN ._.
+Similar_JJ text-similarity_NN features_NNS were_VBD used_VBN in_IN prior_JJ learning-to-rank_JJ research_NN -LRB-_-LRB- for_IN document_NN ranking_NN -RRB-_-RRB- =_JJ -_: =[_NN 14_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT second_JJ step_NN depends_VBZ on_IN whether_IN the_DT block-type_NN is_VBZ associated_VBN with_IN a_DT single_JJ result_NN per_IN block_NN -LRB-_-LRB- e.g._FW ,_, weather_NN ,_, finance_NN ,_, and_CC maps_NNS -RRB-_-RRB- or_CC multiple_JJ results_NNS per_IN block_NN -LRB-_-LRB- e.g._FW ,_, news_NN ,_, local_JJ ,_, and_CC shopping_NN -RRB-_-RRB- ._.
+For_IN

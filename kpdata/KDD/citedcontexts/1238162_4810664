@@ -1,0 +1,4 @@
+rd_RB ,_, they_PRP use_VBP an_DT approximation_NN optimized_VBN for_IN very_RB large_JJ XML_NN documents_NNS with_IN XPointers_NNS ._.
+However_RB ,_, 2-hop_JJ covers_NNS do_VBP not_RB allow_VB for_IN least_JJS common_JJ ancestor_NN queries_NNS ,_, as_IN no_DT distance_NN information_NN can_MD be_VB preserved_VBN ._.
+=_SYM -_: =[_NN 12_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP examples_NNS of_IN attempts_NNS to_TO index_NN graph_NN structures_NNS ,_, one_CD by_IN finding_VBG and_CC indexing_VBG all_DT frequent_JJ subgraphs_NNS ,_, and_CC one_CD by_IN exploiting_VBG properties_NNS of_IN the_DT network_NN structure_NN ._.
+However_RB ,_, both_DT methods_NNS are_VBP for_IN full_JJ g_NN

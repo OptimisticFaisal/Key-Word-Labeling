@@ -1,0 +1,5 @@
+k_NN constraints_NNS ._.
+Many_JJ techniques_NNS have_VBP been_VBN proposed_VBN for_IN performing_VBG spherical_JJ MDS_NN ._.
+Among_IN them_PRP are_VBP majorization_NN methods_NNS -LRB-_-LRB- -LRB-_-LRB- 33_CD -RRB-_-RRB- and_CC SMACOF-Q_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- -RRB-_-RRB- ,_, a_DT multiresolution_JJ approach_NN due_JJ to_TO Elad_NNP ,_, Keller_NNP and_CC Kimmel_NNP =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: and_CC an_DT approach_NN based_VBN on_IN computing_VBG the_DT classical_JJ MDS_NN and_CC renormalizing_NN -LRB-_-LRB- 34_CD -RRB-_-RRB- ._.
+Embeddings_NNS that_IN guarantee_NN bounded_VBD error_NN ._.
+A_DT complementary_JJ line_NN of_IN work_NN in_IN dimensionality_NN reduction_NN fixes_NNS an_DT error_NN bound_VBN for_IN

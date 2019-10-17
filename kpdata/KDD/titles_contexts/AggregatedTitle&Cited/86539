@@ -1,0 +1,15 @@
+Screening_VBG and_CC interpreting_VBG multi-item_JJ associations_NNS based_VBN on_IN log-linear_JJ modeling_NN
+struct_NN market_NN basket_NN data_NNS set_VBN ._.
+Graphical_JJ modeling_NN and_CC decomposition_NN techniques_NNS are_VBP well_RB studied_VBN in_IN statistics_NNS -LRB-_-LRB- 12_CD ,_, 19_CD -RRB-_-RRB- and_CC were_VBD recently_RB used_VBN for_IN screening_VBG and_CC interpreting_VBG multi-item_JJ associations_NNS in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT number_NN of_IN researchers_NNS from_IN statistics_NNS field_NN have_VBP recently_RB been_VBN working_VBG on_IN the_DT problem_NN of_IN determining_VBG upper_JJ and_CC lower_JJR bounds_NNS on_IN the_DT cells_NNS of_IN the_DT crossclassification_NN given_VBN a_DT set_NN of_IN margins_NNS -LRB-_-LRB- 8_CD ,_, 7_CD -RRB-_-RRB- ._.
+U_NN
+e_LS sparse_JJ market_NN basket_NN data_NNS ._.
+We_PRP can_MD observe_VB from_IN Figure_NNP 2_CD -LRB-_-LRB- b_NN -RRB-_-RRB- that_IN the_DT 95_CD %_NN interquantile_JJ range_NN of_IN the_DT confidence_NN estimate_NN with_IN p_NN ≥_NN 0.9_CD is_VBZ tight_JJ ._.
+2_CD The_DT meaning_NN of_IN these_DT items_NNS can_MD be_VB found_VBN in_IN Table_NNP 2_CD of_IN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: sSupport_NN -LRB-_-LRB- %_NN -RRB-_-RRB- 50_CD 45_CD 40_CD 35_CD 30_CD 25_CD Original_NNP Estimate_NNP Lower_NNP Upper_NNP 20_CD 0.65_CD 0.7_CD 0.75_CD 0.8_CD P_NN 0.85_CD 0.9_CD 0.95_CD -LRB-_-LRB- a_LS -RRB-_-RRB- support_NN 4.2_CD Accuracy_NN of_IN all_DT rules_NNS vs._CC varying_VBG p_NN Confidence_NN -LRB-_-LRB- %_NN -RRB-_-RRB- 100_CD 90_CD 80_CD 70_CD 60_CD 50_CD 40_CD 30_CD Original_JJ Est_NN
+ession_NN ,_, and_CC not_RB interactions_NNS because_IN it_PRP is_VBZ exclusively_RB based_VBN on_IN support_NN measure_NN ._.
+Recently_RB ,_, loglinear_JJ modeling_NN has_VBZ been_VBN investigated_VBN to_TO overcome_VB the_DT limitations_NNS of_IN support-based_JJ association_NN algorithms_NNS =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: and_CC was_VBD applied_VBN in_IN microarray_NN data_NN analysis_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+This_DT method_NN can_MD be_VB used_VBN to_TO reveal_VB all_DT significant_JJ high-order_JJ non-linear_JJ combinatorial_JJ interactions_NNS -LRB-_-LRB- e.g._FW ,_, a_DT gene_NN is_VBZ over-expressed_JJ only_RB if_IN several_JJ ge_NN
+ems_NNS can_MD be_VB explained_VBN by_IN chance_NN the_DT lower_JJR is_VBZ the_DT more_RBR interesting_JJ is_VBZ that_IN combination_NN and_CC the_DT lower_JJR is_VBZ the_DT minimum_JJ support_NN it_PRP must_MD satisfy_VB ._.
+Wu_NNP et_FW al._FW use_NN statistical_JJ modeling_NN to_TO find_VB association_NN rules_NNS =_JJ -_: =[_NN 77_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Therefore_RB ,_, they_PRP significantly_RB differ_VBP from_IN other_JJ approaches_NNS aiming_VBG to_TO find_VB association_NN rules_NNS such_JJ as_IN Apriori_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Each_DT combination_NN of_IN items_NNS the_DT frequency_NN of_IN which_WDT in_IN a_DT given_VBN data_NN set_NN is_VBZ unable_JJ to_TO be_VB

@@ -1,0 +1,4 @@
+ation_NN problem_NN ,_, we_PRP use_VBP a_DT labeled_JJ training_NN data_NNS set_VBN in_IN order_NN to_TO supervise_VB the_DT classification_NN of_IN unlabeled_JJ data_NNS instances_NNS ._.
+The_DT problem_NN of_IN classification_NN has_VBZ also_RB been_VBN widely_RB studied_VBN inthedatastreamdomain_NN =_JJ -_: =[_NN 1,7,8,9,11,10,14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN we_PRP will_MD examine_VB the_DT problem_NN of_IN massivedomain_NN stream_NN classification_NN ._.
+A_DT massive-domain_JJ stream_NN is_VBZ defined_VBN as_IN one_CD in_IN which_WDT each_DT attribute_NN takes_VBZ on_IN an_DT extremely_RB large_JJ number_NN of_IN possible_JJ val_NN

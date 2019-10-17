@@ -1,0 +1,4 @@
+each_DT word_NN type_NN to_TO one_CD of_IN two_CD new_JJ subclusters_NNS ._.
+Random_JJ projections_NNS have_VBP been_VBN shown_VBN to_TO be_VB a_DT good_JJ and_CC computationally_RB inexpensive_JJ dimensionality_NN reduction_NN technique_NN ,_, especially_RB for_IN high_JJ dimensional_JJ data_NNS -LRB-_-LRB- =_JJ -_: =_JJ Bingham_NNP and_CC Mannila_NNP ,_, 2001_CD -_: =--RRB-_NN ._.
+Although_IN our_PRP$ best_JJS performance_NN does_VBZ not_RB come_VB from_IN random_JJ projections_NNS ,_, we_PRP still_RB obtain_VB substantial_JJ speed-ups_NNS over_IN a_DT single_JJ pass_NN fine_NN decoder_NN when_WRB using_VBG random_JJ projections_NNS in_IN coarse_JJ passes_NNS ._.
+4.2_CD Freque_NN

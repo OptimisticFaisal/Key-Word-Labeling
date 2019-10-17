@@ -1,0 +1,6 @@
+r_NN the_DT Mst-Tf_NN problem_NN ,_, we_PRP have_VBP the_DT following_JJ hardness_NN result_NN :_: Proposition_NN 2_CD ._.
+The_DT Mst-Tf_NN problem_NN is_VBZ NP-complete_JJ ._.
+Proof_NN ._.
+We_PRP prove_VBP the_DT proposition_NN by_IN a_DT reduction_NN from_IN the_DT Group_NNP Steiner_NNP Tree_NNP -LRB-_-LRB- Gst_NNP -RRB-_-RRB- problem_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT instance_NN of_IN the_DT Gst_NN problem_NN consists_VBZ of_IN an_DT undirected_JJ graph_NN G_NN -LRB-_-LRB- V_NN ,_, E_NN -RRB-_-RRB- ,_, cost_NN function_NN c_NN :_: E_NN →_NN R_NN and_CC k_NN subsets_NNS of_IN vertices_NNS -LRB-_-LRB- called_VBN groups_NNS -RRB-_-RRB- -LCB-_-LRB- g1_NN ,_, ..._: ,_, gk_NN -RCB-_-RRB- with_IN gi_FW ⊆_FW V_NN ,_, i_FW ∈_FW -LCB-_-LRB- 1_CD ,_, ..._: ,_, k_NN -RCB-_-RRB- ._.
+Given_VBN con_NN

@@ -1,0 +1,4 @@
+._.
+In_IN practice_NN ,_, however_RB ,_, these_DT heuristics_NNS are_VBP computationally_RB expensive_JJ since_IN they_PRP require_VBP that_IN the_DT SVM_NNP is_VBZ trained_VBN twice_RB using_VBG a_DT positive_JJ and_CC negative_JJ label_NN ._.
+3.5_CD Reducing_VBG Future_JJ Error_NN Another_DT approach_NN =_JJ -_: =[_NN 8_CD ,_, 12_CD ,_, 15_CD ,_, 21_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ to_TO select_VB examples_NNS that_WDT are_VBP helpful_JJ in_IN building_VBG up_RP confidence_NN in_IN low_JJ future_JJ error_NN ._.
+It_PRP is_VBZ impossible_JJ to_TO know_VB the_DT exact_JJ future_JJ error_NN without_IN knowing_VBG the_DT target_NN concept_NN ,_, but_CC approximations_NNS make_VBP this_DT

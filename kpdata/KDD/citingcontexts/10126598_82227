@@ -1,0 +1,4 @@
+y_NN indexing_NN methods_NNS have_VBP implicitly_RB assumed_VBN the_DT underline_VBP time_NN series_NN data_NNS have_VBP the_DT local_JJ continuity_NN property_NN ._.
+It_PRP is_VBZ known_VBN that_IN neither_CC DFT_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, DWT_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, APCA_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- for_IN Euclidean_JJ distance_NN ,_, nor_CC LB_Keogh_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, LB_Zhu_NN -LRB-_-LRB- 34_CD -RRB-_-RRB- for_IN DTW_NN distance_NN could_MD get_VB a_DT satisfactory_JJ pruning_NN power_NN on_IN a_DT highly_RB fluctuant_JJ time_NN series_NN or_CC trajectories_NNS ._.
+In_IN Section_NNP 5.1_CD ,_, we_PRP introduce_VBP an_DT online_JJ local_JJ clustering_NN algorithm_NN ._.
+Then_RB ,_, batch_NN

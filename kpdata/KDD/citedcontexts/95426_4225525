@@ -1,0 +1,4 @@
+stationary_JJ concepts_NNS is_VBZ used_VBN by_IN the_DT incremental_JJ method_NN of_IN Fan_NN et_FW al._FW -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+The_DT sample_NN size_NN is_VBZ determined_VBN in_IN VFDT_NN from_IN distribution-free_JJ Hoeffding_NN bounds_NNS ._.
+A_DT new_JJ version_NN of_IN the_DT VFDT_NN system_NN ,_, called_VBN CVFDT_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, learns_VBZ decision_NN trees_NNS from_IN continuously_RB changing_VBG data_NNS streams_NNS by_IN repeatedly_RB applying_VBG the_DT VFDT_NNP algorithm_NN to_TO a_DT sliding_VBG window_NN of_IN fixed_JJ size_NN ._.
+CVFDT_NNP is_VBZ aimed_VBN at_IN detecting_VBG only_RB one_CD type_NN of_IN concept_NN drift_NN

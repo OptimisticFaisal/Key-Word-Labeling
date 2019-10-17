@@ -1,0 +1,5 @@
+er_NN case_NN ,_, the_DT cluster_NN centers_NNS are_VBP used_VBN as_IN training_NN patterns_NNS ._.
+The_DT idea_NN of_IN preclustering_VBG data_NNS has_VBZ been_VBN extended_VBN in_IN an_DT interesting_JJ direction_NN by_IN applying_VBG the_DT concept_NN of_IN squashing_VBG to_TO training_VBG a_DT linear_JJ SVM_NN -LRB-_-LRB- =_JJ -_: =_JJ Pavlov_NNP ,_, Chudova_NNP ,_, and_CC Smyth_NNP ,_, 200_CD -_: =_JJ -0_CD -RRB-_-RRB- ._.
+For_IN training_NN ,_, the_DT SMO_NNP algorithm_NN is_VBZ used_VBN ._.
+Clustering_NN is_VBZ performed_VBN using_VBG a_DT metric_NN derived_VBN from_IN the_DT likelihood_NN prole_NN of_IN the_DT data_NNS ._.
+First_RB ,_, a_DT small_JJ percentage_NN of_IN the_DT original_JJ training_NN data_NNS set_VBN are_VBP rando_NN

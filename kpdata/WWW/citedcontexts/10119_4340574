@@ -1,0 +1,4 @@
+discovery_NN of_IN compositions_NNS of_IN OWL-S_NN semantic_JJ Web_NN services_NNS featuring_VBG a_DT specific_JJ behavior_NN ._.
+The_DT first_JJ Petri_NNP nets_VBZ semantics_NNS for_IN DAML-S_NN -LRB-_-LRB- the_DT predecessor_NN of_IN OWL-S_NN -RRB-_-RRB- was_VBD defined_VBN by_IN Narayanan_NNP and_CC McIlraith_NNP in_IN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Yet_RB ,_, their_PRP$ semantics_NNS is_VBZ not_RB compositional_JJ ,_, and_CC it_PRP does_VBZ not_RB deal_VB with_IN the_DT any-order_NN control_NN construct_NN ._.
+The_DT Petri_NNP nets_VBZ semantics_NNS of_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- was_VBD implemented_VBN by_IN the_DT DaGen_NN tool_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, which_WDT translates_VBZ DAML-S_NN

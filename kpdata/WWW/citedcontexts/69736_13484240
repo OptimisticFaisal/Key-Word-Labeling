@@ -1,0 +1,5 @@
+exhaustively_RB applied_VBN to_TO find_VB the_DT maximum_NN action_NN ._.
+We_PRP set_VBD the_DT RL_NN parameters_NNS as_IN follows_VBZ :_: α_NN =_JJ 0.00001_CD ,_, λ_NN =_JJ 0.9_CD ,_, γ_NN =_JJ 0.9_CD ._.
+•_NNP GLUE_NNP :_: in_IN order_NN to_TO compare_VB with_IN a_DT well-known_JJ system_NN on_IN the_DT this_DT dataset_NN ,_, we_PRP choose_VBP GLUE_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN these_DT experiments_NNS contrastive_VBP divergence_NN and_CC SampleRank_NN were_VBD run_VBN for_IN 10,000_CD samples_NNS each_DT ,_, while_IN reinforcement_NN learning_NN was_VBD run_VBN for_IN twenty_CD episodes_NNS and_CC 200_CD steps_NNS per_IN episode_NN ._.
+CD1_NN and_CC SampleRank_NN w_NN

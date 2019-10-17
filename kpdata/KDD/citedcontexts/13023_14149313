@@ -1,0 +1,5 @@
+en_IN widely_RB studied_VBN and_CC discussed_VBN in_IN texts_NNS such_JJ as_IN Chatfield_NNP -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+For_IN the_DT specific_JJ problem_NN of_IN detecting_VBG unusual_JJ activity_NN in_IN time_NN series_NN there_EX has_VBZ also_RB been_VBN much_JJ prior_JJ work_NN ._.
+7For_NN example_NN ,_, Keogh_NNP et_FW al._FW =_SYM -_: =[_NN 40_CD -RRB-_-RRB- -_: =_SYM -_: described_VBD a_DT technique_NN that_WDT represents_VBZ a_DT real-valued_JJ time-series_NNS by_IN quantizing_VBG into_IN it_PRP a_DT finite_JJ set_NN of_IN symbols_NNS ._.
+Given_VBN a_DT history_NN of_IN these_DT symbols_NNS ,_, normal_JJ patterns_NNS of_IN behavior_NN are_VBP learned_VBN ._.
+A_DT ``_`` surprising_JJ

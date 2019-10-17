@@ -1,0 +1,4 @@
+A_DT model_NN learning_NN times_NNS by_IN reducing_VBG the_DT total_JJ computational_JJ cost_NN :_: --_: Gomes_NNP ,_, Welling_NNP and_CC Perona_NNP -LRB-_-LRB- 10_CD -RRB-_-RRB- presented_VBD an_DT enhancement_NN of_IN the_DT VEM_NN algorithm_NN using_VBG a_DT bounded_JJ amount_NN of_IN memory_NN ._.
+--_: Porteous_NNP and_CC et_FW al._FW =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT method_NN to_TO accelerate_VB the_DT computation_NN of_IN -LRB-_-LRB- Eq_NN .1_NN -RRB-_-RRB- ._.
+The_DT acceleration_NN is_VBZ achieved_VBN by_IN no_DT approximations_NNS but_CC using_VBG the_DT property_NN that_IN the_DT probability_NN vectors_NNS ,_, θd_NN ,_, are_VBP sparse_JJ in_IN most_JJS cases_NNS ._.
+3_CD PLDA_NN

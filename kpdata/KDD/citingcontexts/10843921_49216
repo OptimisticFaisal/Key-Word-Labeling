@@ -1,0 +1,4 @@
+cally_RB extracted_VBN data_NNS to_TO the_DT performance_NN of_IN classifiers_NNS trained_VBN with_IN manually_RB labeled_VBN data_NNS ._.
+We_PRP also_RB compare_VBP against_IN the_DT case_NN in_IN which_WDT a_DT semi-supervised_JJ learning_NN technique_NN -LRB-_-LRB- in_IN particular_JJ ,_, self-training_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =--RRB-_NN is_VBZ used_VBN to_TO leverage_NN unlabeled_JJ data_NNS ._.
+The_DT other_JJ goal_NN of_IN the_DT evaluation_NN is_VBZ to_TO validate_VB the_DT importance_NN of_IN enforcing_VBG the_DT properties_NNS proposed_VBN in_IN Section_NN 2_CD ._.
+To_TO do_VB so_RB ,_, we_PRP study_VBD the_DT effect_NN of_IN training_NN sets_NNS e_SYM

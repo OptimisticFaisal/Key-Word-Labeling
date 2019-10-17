@@ -1,0 +1,4 @@
+per_IN and_CC gives_VBZ directions_NNS for_IN further_JJ research_NN ._.
+3_CD RELATED_NNS WORK_VBP Several_JJ approaches_NNS proposed_VBN to_TO handle_VB concept_NN drift_NN can_MD be_VB found_VBN in_IN the_DT literature_NN ._.
+Most_JJS of_IN them_PRP are_VBP incremental_JJ learning_VBG approaches_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: --_: -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+However_RB ,_, most_JJS of_IN the_DT incremental_JJ learning_NN approaches_NNS tend_VBP to_TO give_VB little_JJ attention_NN to_TO the_DT stability_NN of_IN the_DT classifiers_NNS ,_, giving_VBG more_JJR emphasis_NN to_TO the_DT plasticity_NN when_WRB they_PRP allow_VBP only_RB a_DT new_JJ classif_NN

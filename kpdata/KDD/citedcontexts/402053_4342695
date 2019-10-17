@@ -1,0 +1,5 @@
+s_VBZ a_DT classification_NN problem_NN ,_, the_DT classification_NN technique_NN in_IN machine_NN learning_NN can_MD be_VB used_VBN to_TO identify_VB outliers\/novelty_NN ._.
+The_DT Support_NN Vector_NNP Machine_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- classifier_NN has_VBZ attracted_VBN more_JJR and_CC more_JJR interest_NN =_JJ -_: =[_NN 15_CD ,_, 14_CD ,_, 22_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, Zhu_NNP et_FW al._FW approach_NN the_DT outlier_NN detection_NN problem_NN by_IN learning_VBG how_WRB a_DT user_NN defines_VBZ an_DT outlier_NN ._.
+The_DT user_NN manually_RB identifies_VBZ a_DT small_JJ set_NN of_IN outliers_NNS based_VBN on_IN their_PRP$ subjective_JJ criteria_NNS ._.
+A_DT SVM_NN c_NN

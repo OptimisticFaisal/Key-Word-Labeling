@@ -1,0 +1,3 @@
+y_NN unseen_JJ attacks_NNS ,_, or_CC those_DT that_WDT do_VBP not_RB involve_VB ActiveX_NN components_NNS ,_, which_WDT ZOZZLE_NNP is_VBZ able_JJ to_TO detect_VB ._.
+Cova_NNP et_FW al._FW present_VBP a_DT system_NN JSAND_NN that_WDT conducts_VBZ classification_NN based_VBN on_IN static_JJ and_CC dynamic_JJ features_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT system_NN ,_, potentially_RB malicious_JJ JavaScript_NNP is_VBZ emulated_VBN to_TO determine_VB runtime_NN characteristics_NNS around_IN deobfuscation_NN ,_, environment_NN preparation_NN ,_, and_CC exploitation_NN ,_, such_JJ as_IN the_DT number_NN of_IN bytes_NNS allocat_NN

@@ -1,0 +1,5 @@
+t_NN representation_NN ._.
+For_IN completeness_NN ,_, we_PRP also_RB note_VBP that_IN various_JJ approaches_NNS are_VBP geared_VBN toward_IN providing_VBG privacy_NN to_TO specific_JJ data_NNS mining_NN techniques_NNS ._.
+For_IN example_NN ,_, privacy_NN preservation_NN for_IN clustering_NN tasks_NNS =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Several_JJ other_JJ recently_RB proposed_VBN privacypreserving_VBG classification_NN techniques_NNS specific_JJ to_TO the_DT data_NNS mining_NN model_NN include_VBP cryptographically_RB private_JJ SVMs_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, and_CC wavelet-based_JJ distortion_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+We_PRP are_VBP n_NN

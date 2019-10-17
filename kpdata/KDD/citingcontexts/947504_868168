@@ -1,0 +1,5 @@
+m_NN follows_VBZ from_IN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+The_DT proof_NN of_IN our_PRP$ main_JJ theorem_NN will_MD make_VB use_NN of_IN matrix_NN perturbation_NN theory_NN and_CC the_DT robustness_NN of_IN singular_JJ subspaces_NNS to_TO the_DT sampling_NN implicit_JJ in_IN our_PRP$ feature_NN selection_NN procedure_NN ;_: see_VB =_JJ -_: =[_NN 8_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: and_CC also_RB -LRB-_-LRB- 32_CD -RRB-_-RRB- ._.
+We_PRP expect_VBP that_IN our_PRP$ methodology_NN will_MD extend_VB to_TO SVM_NN classification_NN if_IN one_PRP can_MD prove_VB analogous_JJ robustness_NN results_NNS for_IN the_DT relevant_JJ convex_NN sets_NNS in_IN the_DT SVM_NNP optimization_NN ._.
+3_LS ._.
+OUR_NNP MAIN_NNP ALGORIT_NNP

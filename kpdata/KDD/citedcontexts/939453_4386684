@@ -1,0 +1,4 @@
+ecides_VBZ the_DT order_NN in_IN which_WDT features_NNS are_VBP evaluated_VBN based_VBN on_IN run-time_JJ feature_NN selection_NN feedback_NN ._.
+We_PRP implement_VBP dynamic_JJ feature_NN generation_NN within_IN Structural_NNP Generalized_NNP Linear_JJ Regression_NN -LRB-_-LRB- SGLR_NN -RRB-_-RRB- framework_NN =_JJ -_: =[_NN 5_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+SGLR_NN integrates_VBZ generation_NN of_IN feature_NN candidates_NNS from_IN relational_JJ data_NNS with_IN their_PRP$ selection_NN using_VBG statistical_JJ model_NN selection_NN criteria_NNS ._.
+Relational_JJ feature_NN generation_NN is_VBZ cast_VBN as_IN a_DT search_NN in_IN the_DT space_NN

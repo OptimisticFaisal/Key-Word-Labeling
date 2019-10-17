@@ -1,0 +1,4 @@
+t_NN having_VBG just_RB drifted_VBN ._.
+The_DT prevailing_JJ approach_NN in_IN the_DT literature_NN is_VBZ to_TO completely_RB throw_VB away_RP the_DT old_JJ classifier_NN and_CC most_JJS of_IN its_PRP$ training_NN data_NNS ,_, and_CC then_RB build_VB a_DT new_JJ one_CD on_IN more_JJR recent_JJ data_NNS -LRB-_-LRB- e.g._FW CVFDT_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: and_CC a_DT variety_NN of_IN sliding_VBG window_NN techniques_NNS ,_, some_DT with_IN adaptive_JJ window_NN sizes_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- -LRB-_-LRB- 13_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Two_CD approaches_NNS stand_VBP out_RP by_IN their_PRP$ ability_NN to_TO re-use_VB older_JJR information_NN ._.
+One_CD selects_VBZ various_JJ old_JJ training_NN sets_NNS for_IN

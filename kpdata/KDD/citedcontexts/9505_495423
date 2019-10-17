@@ -1,0 +1,4 @@
+Boolean_JJ data_NNS ._.
+The_DT goal_NN is_VBZ to_TO identify_VB bi-clusters_NNS or_CC bi-partitions_NNS in_IN the_DT data_NNS ,_, i.e._FW ,_, a_DT mapping_NN between_IN a_DT partition_NN of_IN objects_NNS and_CC a_DT partition_NN of_IN properties_NNS ._.
+For_IN instance_NN ,_, an_DT algorithm_NN like_IN Cocluster_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: can_MD compute_VB in_IN r_NN the_DT interesting_JJ bi-partition_NN -LCB-_-LRB- -LCB-_-LRB- -LCB-_-LRB- o1_NN ,_, o3_NN ,_, o4_NN -RCB-_-RRB- ,_, -LCB-_-LRB- p1_NN ,_, p3_NN ,_, p4_NN -RCB-_-RRB- -RCB-_-RRB- ,_, -LCB-_-LRB- -LCB-_-LRB- o2_NN ,_, o5_NN ,_, o6_NN ,_, o7_NN -RCB-_-RRB- ,_, -LCB-_-LRB- p2_NN ,_, p5_NN -RCB-_-RRB- -RCB-_-RRB- -RCB-_-RRB- ._.
+The_DT first_JJ bi-cluster_NN indicates_VBZ that_IN the_DT characterization_NN for_IN objects_NNS from_IN -LCB-_-LRB- o1_NN ,_, o3_NN ,_, o4_NN -RCB-_-RRB- is_VBZ t_NN

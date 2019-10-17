@@ -1,0 +1,4 @@
+algorithms_NNS ._.
+The_DT VFDT_NN system_NN is_VBZ based_VBN on_IN a_DT decision_NN tree_NN learning_NN method_NN ,_, which_WDT builds_VBZ the_DT trees_NNS based_VBN on_IN subsampling_NN of_IN a_DT stationary_JJ data_NN stream_NN ._.
+To_TO deal_VB with_IN changing_VBG data_NNS streams_NNS ,_, Domingos_NNP &_CC Hulten_NNP =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP proposed_VBN an_DT improvement_NN to_TO the_DT VFDT_NNP algorithm_NN which_WDT is_VBZ the_DT CVFDT_NNP -LRB-_-LRB- Concept-adapting_JJ Very_RB Fast_JJ Decision_NN Tree_NN learner_NN -RRB-_-RRB- ._.
+CVFDT_NNP applies_VBZ the_DT VFDT_NNP algorithm_NN to_TO a_DT sliding_VBG window_NN of_IN a_DT fixed_JJ size_NN and_CC buil_NN

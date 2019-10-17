@@ -1,0 +1,6 @@
+nt_NN Obama_NNP ,_, the_DT entity_NN name_NN ``_`` Obama_NNP ''_'' might_MD refer_VB to_TO PresidentBarack_Obama_NN or_CC to_TO his_PRP$ father_NN Barack_Obama_Sr_NN ._.
+The_DT problem_NN of_IN identifying_VBG the_DT right_JJ entity_NN for_IN a_DT given_VBN name_NN is_VBZ known_VBN as_IN entity_NN disambiguation_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, at_IN this_DT point_NN we_PRP assume_VBP :_: 1_CD ._.
+Each_DT entity_NN name_NN is_VBZ uniquely_RB addressing_VBG exactly_RB one_CD entity_NN within_IN a_DT given_VBN document_NN ._.
+2_CD ._.
+The_DT disambiguation_NN is_VBZ solved_VBN externally_RB and_CC a_DT mapping_NN from_IN entity_NN names_NNS t_NN

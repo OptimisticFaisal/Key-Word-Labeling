@@ -1,0 +1,4 @@
+p_NN Although_IN a_DT lot_NN of_IN time_NN series_NN data_NNS is_VBZ being_VBG gathered_VBN for_IN analysis_NN ,_, no_DT good_JJ benchmark_NN datasets_NNS with_IN this_DT type_NN of_IN data_NNS currently_RB exist_VBP ._.
+We_PRP therefore_RB decided_VBD to_TO use_VB a_DT selection_NN from_IN the_DT UCI_NNP repository_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT has_VBZ been_VBN commonly_RB used_VBN for_IN emerging_VBG patterns_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC related_JJ topics_NNS before_RB ._.
+As_IN these_DT are_VBP all_DT datasets_NNS containing_VBG multiple_JJ classes_NNS ,_, we_PRP look_VBP at_IN the_DT differences_NNS between_IN classes_NNS ._.
+Hence_RB ,_, we_PRP split_VBD e_SYM

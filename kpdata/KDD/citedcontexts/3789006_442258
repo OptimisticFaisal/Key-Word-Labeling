@@ -1,0 +1,4 @@
+roves_VBZ both_DT the_DT groups_NNS and_CC topics_NNS discovered_VBN ._.
+Other_JJ modalities_NNS of_IN information_NN can_MD be_VB combined_VBN to_TO discover_VB hidden_JJ structure_NN ._.
+For_IN example_NN ,_, time_NN and_CC text_NN are_VBP combined_VBN in_IN the_DT Topics_NNS over_IN Time_NN -LRB-_-LRB- TOT_NN -RRB-_-RRB- model_NN -LRB-_-LRB- =_JJ -_: =_JJ Wang_NNP &_CC McCallum_NNP ,_, 2006_CD -_: =--RRB-_NN ,_, which_WDT finds_VBZ trends_NNS in_IN time-sensitive_JJ topics_NNS using_VBG a_DT continuous_JJ distribution_NN over_IN time-stamps_NNS ._.
+Dynamic_NNP Topic_NNP Models_NNS -LRB-_-LRB- Blei_NNP &_CC Lafferty_NNP ,_, 2006b_CD -RRB-_-RRB- incorporate_VBP time_NN into_IN topic_NN models_NNS through_IN transitions_NNS in_IN

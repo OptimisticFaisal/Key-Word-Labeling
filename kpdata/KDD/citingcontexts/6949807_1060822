@@ -1,0 +1,6 @@
+rules_NNS of_IN interest_NN ,_, group_NN rules_NNS ,_, etc._FW ._.
+This_DT is_VBZ a_DT good_JJ approach_NN ._.
+However_RB ,_, it_PRP stops_VBZ short_JJ of_IN providing_VBG contexts_NNS to_TO rules_NNS and_CC mining_NN generalized_JJ knowledge_NN ._.
+We_PRP also_RB considered_VBD several_JJ other_JJ methods_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- -LRB-_-LRB- 24_CD -RRB-_-RRB- =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+All_DT of_IN these_DT and_CC above_JJ methods_NNS had_VBD some_DT use_NN but_CC were_VBD not_RB sufficient_JJ ._.
+The_DT first_JJ version_NN of_IN our_PRP$ system_NN -LRB-_-LRB- 35_CD -RRB-_-RRB- was_VBD based_VBN on_IN class_NN association_NN rules_NNS ,_, rule_NN ranking_NN and_CC grouping_NN ,_, and_CC sophisticated_JJ visualiza_NN

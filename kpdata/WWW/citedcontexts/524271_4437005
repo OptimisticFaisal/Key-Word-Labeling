@@ -1,0 +1,5 @@
+ar_RB abundantly_RB in_IN the_DT real_JJ world_NN and_CC should_MD be_VB taken_VBN care_NN of_IN by_IN a_DT robust_JJ table_NN extraction_NN algorithm_NN ._.
+We_PRP based_VBD our_PRP$ work_NN on_IN the_DT idea_NN of_IN using_VBG the_DT visual_JJ rendition_NN of_IN a_DT Web_NN page_NN rather_RB than_IN the_DT HTML_NNP code_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: and_CC implemented_VBD a_DT genuine_JJ table_NN extraction_NN architecture_NN -LRB-_-LRB- details_NNS in_IN section_NN 2_CD -RRB-_-RRB- to_TO produce_VB results_NNS as_IN shown_VBN in_IN Fig._NNP 1_CD ._.
+Section_NN 3_CD will_MD explain_VB the_DT bottom-up_JJ table_NN extraction_NN ._.
+2_CD ._.
+ARCHITECTURE_NN Our_PRP$ table_NN

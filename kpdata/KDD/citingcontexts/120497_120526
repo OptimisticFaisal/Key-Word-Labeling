@@ -1,0 +1,4 @@
+g_NN vMF_NN distributions_NNS and_CC the_DT spkmeans_NNS algorithm_NN was_VBD first_RB observed_VBN in_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+An_DT online_JJ competitive_JJ learning_NN scheme_NN using_VBG vMF_NN distributions_NNS for_IN minimizing_VBG a_DT KL-divergence_NN based_VBN distortion_NN was_VBD proposed_VBN in_IN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, these_DT approaches_NNS do_VBP not_RB cluster_VB directional_JJ data_NNS using_VBG explicit_JJ probabilistic_JJ generative_JJ models_NNS ._.
+In_IN this_DT work_NN ,_, the_DT directional_JJ nature_NN of_IN the_DT data_NN is_VBZ used_VBN explicitly_RB resulting_VBG in_IN significant_JJ

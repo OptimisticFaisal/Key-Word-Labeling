@@ -1,0 +1,5 @@
+the_DT best_JJS as_IN in_IN the_DT random_JJ sampling_NN case_NN ._.
+4_CD Discussion_NN Our_PRP$ approach_NN is_VBZ related_JJ to_TO two_CD groups_NNS of_IN work_NN :_: multidimensional_JJ scaling_NN -LRB-_-LRB- MS_NN -RRB-_-RRB- -LRB-_-LRB- GCS89_NN -RRB-_-RRB- and_CC the_DT linear_JJ projection_NN via_IN Principal_NN Components_NNP Analysis_NNP =_SYM -_: =_JJ -LRB-_-LRB- Fuk90_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN contrast_NN to_TO these_DT methods_NNS ,_, which_WDT consider_VBP Euclidean_JJ space_NN ,_, our_PRP$ approach_NN considers_VBZ both_CC Euclidean_JJ and_CC pseudo-Euclidean_JJ spaces_NNS ._.
+Furthermore_RB ,_, our_PRP$ approach_NN requires_VBZ O_NN -LRB-_-LRB- Nk_NN -RRB-_-RRB- time_NN ._.
+This_DT is_VBZ faster_RBR than_IN th_DT

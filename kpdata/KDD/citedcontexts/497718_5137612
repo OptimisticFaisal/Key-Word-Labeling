@@ -1,0 +1,4 @@
+for_IN entities_NNS in_IN a_DT graph_NN -LRB-_-LRB- Kalashnikov_NNP et_FW al._FW ,_, 2005_CD -RRB-_-RRB- ,_, where_WRB edges_NNS are_VBP unlabelled_JJ ._.
+It_PRP has_VBZ been_VBN suggested_VBN to_TO model_VB similarity_NN between_IN objects_NNS in_IN relational_JJ data_NNS in_IN terms_NNS of_IN structural-context_JJ similarity_NN -LRB-_-LRB- =_JJ -_: =_JJ Jeh_NNP and_CC Widom_NNP ,_, 2002_CD -_: =--RRB-_NN ._.
+We_PRP propose_VBP the_DT use_NN of_IN learned_VBN re-ranking_JJ schemes_NNS to_TO improve_VB performance_NN of_IN a_DT lazy_JJ graph_NN walk_NN ._.
+Earlier_JJR authors_NNS have_VBP considered_VBN instead_RB using_VBG hillclimbing_VBG approaches_NNS to_TO adjust_VB the_DT parameters_NNS of_IN a_DT gra_NN

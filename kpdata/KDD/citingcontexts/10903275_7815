@@ -1,0 +1,4 @@
+of_IN high_JJ rank_NN ._.
+6.2_CD Performance_NNP Evaluation_NN We_PRP compare_VBP the_DT proposed_JJ multi-task_JJ learning_NN formulation_NN with_IN other_JJ representative_JJ ones_NNS in_IN terms_NNS of_IN average_JJ Area_NNP Under_IN the_DT Curve_NN -LRB-_-LRB- AUC_NN -RRB-_-RRB- ,_, Macro_NN F1_NN ,_, and_CC Micro_NNP F1_NN =_JJ -_: =[_NN 39_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT reported_VBN experimental_JJ results_NNS are_VBP averaged_VBN over_IN five_CD random_JJ repetitions_NNS of_IN the_DT data_NNS sets_NNS into_IN training_NN and_CC test_NN sets_NNS of_IN the_DT ratio_NN 1:9_CD ._.
+In_IN this_DT experiment_NN ,_, we_PRP stop_VBP the_DT iterative_JJ procedure_NN of_IN the_DT

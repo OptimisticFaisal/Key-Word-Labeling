@@ -1,0 +1,4 @@
+tween_NN vectors_NNS x_CC i_LS and_CC x_NN j_NN were_VBD determined_VBN by_IN using_VBG the_DT unsupervised_JJ distance_NN metric_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+This_DT requires_VBZ determining_VBG m_NN predictive_JJ distributions_NNS P_NN -LRB-_-LRB- Xk_NN j_NN x_NN \_FW Gamma_FW i_FW ;_: Mk_NN -RRB-_-RRB- ._.
+Unfortunately_RB ,_, as_IN discussed_VBN in_IN =_JJ -_: =[_NN 6_CD ,_, 4_CD ,_, 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, finding_VBG accurate_JJ Bayesian_JJ network_NN models_NNS for_IN supervised_JJ prediction_NN tasks_NNS is_VBZ a_DT difficult_JJ problem_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, as_IN demonstrated_VBN in_IN ,_, for_IN example_NN ,_, -LRB-_-LRB- 17_CD ,_, 10_CD -RRB-_-RRB- ,_, the_DT structurally_RB simple_JJ Naive_JJ Bayes_NNS cla_VBP

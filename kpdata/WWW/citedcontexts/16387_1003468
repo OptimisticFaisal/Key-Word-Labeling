@@ -1,0 +1,4 @@
+ntation_NN formalisms_NNS with_IN a_DT clearly_RB defined_VBN semantics_NNS and_CC well-understood_JJ computational_JJ properties_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Several_JJ approaches_NNS to_TO service_NN discovery_NN based_VBN on_IN description_NN logics_NNS have_VBP already_RB been_VBN proposed_VBN in_IN =_JJ -_: =[_NN 26_CD ,_, 18_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Along_IN these_DT lines_NNS ,_, in_IN this_DT paper_NN we_PRP extend_VBP our_PRP$ work_NN from_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC present_VB a_DT DL-based_JJ approach_NN for_IN modelling_VBG semantics_NNS of_IN Web_NN Services_NNPS ._.
+We_PRP build_VBP on_IN establishing_VBG a_DT clear_JJ correspondence_NN between_IN the_DT DL_NN

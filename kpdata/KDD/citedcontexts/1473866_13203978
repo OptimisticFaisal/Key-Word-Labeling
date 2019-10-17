@@ -1,0 +1,4 @@
+o_NN kinds_NNS of_IN tasks_NNS :_: entity_NN resolution_NN and_CC information_NN extraction_NN ._.
+Cora_FW dataset_FW ,_, now_RB a_DT standard_JJ dataset_NN for_IN citation_NN matching_NN ,_, was_VBD first_RB created_VBN by_IN Andrew_NNP McCallum_NNP ,_, later_RB segmented_JJ by_IN Bilenko_NN and_CC Mooney_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: and_CC fixed_VBN by_IN Poon_NNP and_CC Domingos_NNP -LRB-_-LRB- 41_CD -RRB-_-RRB- 5_CD ._.
+In_IN citation_NN matching_NN ,_, a_DT cluster_NN is_VBZ a_DT set_NN of_IN citations_NNS that_WDT refer_VBP to_TO the_DT same_JJ paper_NN ,_, and_CC a_DT nontrivial_JJ cluster_NN contains_VBZ more_JJR than_IN one_CD citation_NN -LRB-_-LRB- 41_CD -RRB-_-RRB- ._.
+The_DT Cora_NNP dat_NN

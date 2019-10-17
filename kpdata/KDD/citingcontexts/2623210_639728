@@ -1,0 +1,4 @@
+d_NN mathematical_JJ computations_NNS ._.
+These_DT methods_NNS are_VBP shown_VBN to_TO handle_VB problem_NN sizes_NNS of_IN several_JJ hundreds_NNS to_TO several_JJ thousands_NNS transactions_NNS ,_, which_WDT is_VBZ far_RB from_IN sufficient_JJ for_IN data_NN mining_NN applications_NNS -LRB-_-LRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Some_DT algorithms_NNS ,_, such_JJ as_IN K-means_NNS -LRB-_-LRB- 23_CD ,_, 8_CD -RRB-_-RRB- ,_, assume_VBP that_IN the_DT whole_JJ data_NN sets_NNS can_MD be_VB placed_VBN in_IN main_JJ memory_NN ._.
+These_DT algorithms_NNS would_MD require_VB tremendous_JJ amount_NN of_IN disk_NN accesses_NNS when_WRB the_DT assumption_NN does_VBZ no_DT

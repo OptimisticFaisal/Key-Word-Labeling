@@ -1,0 +1,4 @@
+traint-based_JJ pattern_NN mining_NN is_VBZ a_DT topic_NN that_WDT has_VBZ been_VBN studied_VBN extensively_RB ._.
+Popular_NNP examples_NNS are_VBP frequent_JJ and_CC closed_JJ itemset_NN mining_NN -LRB-_-LRB- 1,16,11,9,7,15_CD -RRB-_-RRB- ,_, but_CC also_RB more_RBR general_JJ constraints_NNS have_VBP been_VBN studied_VBN =_JJ -_: =[_NN 10,6,4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Patterns_NN can_MD be_VB used_VBN directly_RB ,_, or_CC may_MD serve_VB as_IN an_DT intermediate_JJ step_NN when_WRB building_VBG classifiers_NNS or_CC compressing_VBG data_NNS ,_, in_IN which_WDT case_NN additional_JJ constraints_NNS can_MD be_VB imposed_VBN ._.
+Themainfocusofmoststudiesonpat_NN

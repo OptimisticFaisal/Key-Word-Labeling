@@ -1,0 +1,4 @@
+budget_NN ,_, there_EX is_VBZ a_DT tradeoff_NN between_IN acquiring_VBG a_DT larger_JJR training_NN dataset_NN or_CC acquiring_VBG a_DT smaller_JJR dataset_NN but_CC with_IN more_JJR labels_NNS per_IN data_NN point_NN ._.
+Through_IN extensive_JJ experiments_NNS ,_, Sheng_NNP ,_, Provost_NNP and_CC Ipeirotis_NNP =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: show_VBP that_IN getting_VBG repeated_JJ labeling_NN can_MD give_VB considerable_JJ advantage_NN ._.
+Contributions_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP provide_VBP a_DT rigorous_JJ treatment_NN of_IN designing_VBG a_DT crowdsourcing_VBG system_NN with_IN the_DT aim_NN of_IN minimizing_VBG the_DT bu_NN

@@ -1,0 +1,5 @@
+aximum_NN flow_NN in_IN the_DT instance_NN is_VBZ at_IN least_JJS the_DT sum_NN of_IN the_DT demands_NNS of_IN the_DT contracts_NNS ._.
+Next_RB ,_, we_PRP implement_VBP the_DT min-cost_JJ based_JJ algorithm_NN for_IN minimizing_VBG the_DT L1_NN penalty_NN ._.
+To_TO do_VB this_DT ,_, we_PRP use_VBP Goldberg_NNP 's_POS algorithm_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: for_IN min-cost_JJ flow_NN ,_, obtained_VBN from_IN http:\/\/www_NN ._.
+avglab.com\/andrew\/soft.html_NN ._.
+Since_IN this_DT implementation_NN requires_VBZ integral_JJ capacities_NNS and_CC costs_NNS ,_, we_PRP round_VBP the_DT costs_NNS and_CC capacities_NNS when_WRB constructing_VBG the_DT gra_NN

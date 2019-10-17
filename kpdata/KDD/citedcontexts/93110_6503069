@@ -1,0 +1,5 @@
+ed_FW FP-Tree_FW ._.
+The_DT use_NN of_IN prefix_NN tree_NN itself_PRP was_VBD introduced_VBN first_RB in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+The_DT performance_NN gain_NN from_IN using_VBG variants_NNS of_IN the_DT prefix_NN tree_NN for_IN representing_VBG transactions_NNS was_VBD previously_RB demonstrated_VBN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT new_JJ data_NN structure_NN named_VBN Compressed_JJ FP-Tree_NN -LRB-_-LRB- CFP-Tree_JJ for_IN short_JJ -RRB-_-RRB- that_WDT is_VBZ even_RB more_RBR compact_JJ than_IN FP-Tree_NN ._.
+One_CD weakness_NN of_IN FP-Growth_NN is_VBZ the_DT overhead_NN of_IN constructing_VBG

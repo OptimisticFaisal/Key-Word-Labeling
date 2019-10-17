@@ -1,0 +1,5 @@
+identical_JJ representation_NN ,_, then_RB they_PRP are_VBP isomorphic_JJ ._.
+Moreover_RB ,_, all_PDT the_DT -LRB-_-LRB- possible_JJ -RRB-_-RRB- graph_NN patterns_NNS can_MD be_VB enumerated_VBN in_IN the_DT order_NN without_IN any_DT redundancy_NN ._.
+The_DT depth-first_JJ search_NN tree_NN -LRB-_-LRB- DFS-tree_NN for_IN short_JJ -RRB-_-RRB- =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ popularly_RB used_VBN for_IN navigating_VBG connected_JJ graphs_NNS ._.
+Thus_RB ,_, it_PRP is_VBZ natural_JJ to_TO encode_VB the_DT edges_NNS and_CC vertices_NNS in_IN a_DT graph_NN based_VBN on_IN its_PRP$ DFS-tree_NN ._.
+All_PDT the_DT vertices_NNS in_IN G_NN can_MD be_VB encoded_VBN in_IN the_DT pre-order_NN of_IN T_NN ._.

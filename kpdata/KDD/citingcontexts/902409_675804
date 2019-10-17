@@ -1,0 +1,5 @@
+via_IN context-sensitive_JJ model_NN construction_NN ._.
+Bellazi_FW et_FW al_FW -LRB-_-LRB- 2_CD -RRB-_-RRB- describe_VBP a_DT system_NN that_WDT uses_VBZ a_DT Dynamic_NNP Bayesian_NNP Network_NNP to_TO analyze_VB the_DT blood_NN glucose_NN level_NN of_IN a_DT patient_NN over_IN a_DT time_NN interval_NN ._.
+Kayaalp_NNP et_NNP al_NNP =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: use_VB structured_JJ information_NN to_TO predict_VB probabilities_NNS of_IN survival_NN for_IN ICU_NN patients_NNS ._.
+Other_JJ related_JJ research_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- -LRB-_-LRB- 16_CD -RRB-_-RRB- deals_NNS with_IN representing_VBG temporal_JJ data_NNS and_CC enforcing_VBG temporal_JJ integrity_NN ._.
+Clearly_RB ,_,

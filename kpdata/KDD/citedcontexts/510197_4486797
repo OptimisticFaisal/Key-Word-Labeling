@@ -1,0 +1,4 @@
+ed_VBN in_IN terms_NNS of_IN continuous_JJ trajectories_NNS in_IN acoustic_JJ parameter_NN space_NN along_IN time_NN ._.
+The_DT speech_NN trajectories_NNS are_VBP then_RB clustered_VBN into_IN a_DT number_NN of_IN classes_NNS using_VBG the_DT Mixture_NN of_IN Polynomial_JJ Regression_NN framework_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Based_VBN on_IN the_DT results_NNS obtained_VBN from_IN TC_NN ,_, multiple_JJ HMMs_NNS in_IN a_DT parallel_JJ topology_NN 3scan_NN be_VB trained_VBN for_IN the_DT acoustic_JJ unit_NN ._.
+In_IN order_NN to_TO evaluate_VB the_DT performance_NN of_IN the_DT proposed_VBN approach_NN ,_, we_PRP compared_VBD the_DT per_IN

@@ -1,0 +1,5 @@
+,_, |_JJ Ds_NNS |_NN -RRB-_-RRB- SC_NN -LRB-_-LRB- Dr_NN ,_, Ds_NNS -RRB-_-RRB- ._.
+MD_NN =_JJ min_NN -LRB-_-LRB- I_NN ,_, J_NN -RRB-_-RRB- ∈_CD MDset_NN -LRB-_-LRB- ConceptSimilarity_NN -LRB-_-LRB- I_NN ,_, J_NN -RRB-_-RRB- ._.
+MD_NN -RRB-_-RRB- ;_: Linguistic_JJ comparison_NN The_DT Linguistic_JJ comparison_NN module_NN calculates_VBZ the_DT linguistic_JJ similarity_NN between_IN two_CD labels_NNS based_VBN on_IN their_PRP$ names_NNS =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT labels_NNS are_VBP often_RB formed_VBN by_IN a_DT combination_NN of_IN words_NNS and_CC can_MD contain_VB abbreviations_NNS ._.
+To_TO obtain_VB a_DT linguistic_JJ distance_NN between_IN two_CD strings_NNS ,_, we_PRP use_VBP existing_VBG algorithms_NNS :_: tokenization_NN ,_, NGram_NN -LRB-_-LRB- 31_CD -RRB-_-RRB- ,_, Check_VB

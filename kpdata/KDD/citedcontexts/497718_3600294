@@ -1,0 +1,6 @@
+complete_JJ process_NN is_VBZ depicted_VBN in_IN figure_NN 1_CD ._.
+Fig._NNP 1_CD ._.
+Personalized_VBN Ranking_NNP Platform_NNP HubFinder_NNP is_VBZ an_DT algorithm_NN for_IN finding_VBG hubs_NNS ,_, related_VBN to_TO an_DT initial_JJ base_NN set_NN of_IN Web_NN pages_NNS ._.
+We_PRP define_VBP related_VBN similarly_RB to_TO =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, i.e._FW using_VBG only_JJ link_NN information_NN as_IN input_NN ._.
+Two_CD pages_NNS are_VBP related_VBN if_IN one_CD is_VBZ accessible_JJ from_IN the_DT other_JJ via_IN the_DT link_NN structure_NN of_IN the_DT Web_NN graph_NN -LRB-_-LRB- following_VBG either_CC in-going_JJ or_CC out-going_JJ links_NNS -RRB-_-RRB- ._.
+We_PRP should_MD

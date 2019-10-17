@@ -1,0 +1,3 @@
+t_NN ,_, our_PRP$ work_NN makes_VBZ use_NN of_IN -LRB-_-LRB- in_IN spirit_NN -RRB-_-RRB- the_DT active_JJ learning_NN paradigm_NN -LRB-_-LRB- Settles_VBZ ,_, 2009_CD -RRB-_-RRB- ._.
+For_IN distributed_VBN classification_NN ,_, the_DT dominant_JJ strategy_NN -LRB-_-LRB- Predd_NNP et_FW al._FW ,_, 2006_CD ;_: McDonald_NNP et_FW al._FW ,_, 2010_CD ;_: Mann_NNP et_FW al._FW ,_, 2009_CD ;_: =_JJ -_: =_JJ Lazarevic_NNP &_CC Obradovic_NNP ,_, 2001_CD -_: =--RRB-_NN is_VBZ to_TO design_VB local_JJ classifiers_NNS that_WDT work_VBP well_RB on_IN individual_JJ nodes_NNS ._.
+These_DT classifiers_NNS are_VBP then_RB communicated_VBN to_TO a_DT central_JJ server_NN ,_, and_CC then_RB aggregation_NN strategies_NNS like_IN voting_NN ,_, averaging_NN ,_, or_CC even_RB boosti_VB

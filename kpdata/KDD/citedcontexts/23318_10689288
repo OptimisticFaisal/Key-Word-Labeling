@@ -1,0 +1,5 @@
+mining_NN systems_NNS and_CC algorithm_NN in_IN web_NN usage_NN mining_NN area_NN that_WDT can_MD be_VB compared_VBN with_IN our_PRP$ system_NN ._.
+A_DT partitioning_VBG method_NN was_VBD one_CD of_IN the_DT earliest_JJS clustering_NN methods_NNS to_TO be_VB used_VBN in_IN Web_NN usage_NN mining_NN by_IN Yan_NN et_FW al_FW =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP used_VBD an_DT incremental_JJ algorithm_NN that_WDT produces_VBZ high_JJ quality_NN clusters_NNS ._.
+Each_DT user_NN session_NN is_VBZ represented_VBN by_IN an_DT ndimensional_JJ feature_NN vector_NN ,_, where_WRB n_NN is_VBZ the_DT number_NN of_IN Web_NN pages_NNS in_IN the_DT session_NN ._.
+The_DT val_NN

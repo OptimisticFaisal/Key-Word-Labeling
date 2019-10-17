@@ -1,0 +1,4 @@
+peech_JJ tag_NN sequences_NNS -RRB-_-RRB- ._.
+Therefore_RB ,_, they_PRP usually_RB have_VBP a_DT complex_JJ and_CC high-dimensional_JJ feature_NN space_NN ._.
+To_TO achieve_VB better_JJR generalizability_NN and_CC interpret_VB complex_JJ data_NNS ,_, it_PRP is_VBZ desirable_JJ to_TO do_VB feature_NN selection_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: and_CC pursue_VB a_DT sparse_JJ representation_NN of_IN such_JJ models_NNS that_WDT leaves_VBZ out_RP irrelevant_JJ features_NNS ._.
+Since_IN the_DT problem_NN of_IN selecting_VBG an_DT optimal_JJ subset_NN of_IN features_NNS is_VBZ NP-hard_JJ -LRB-_-LRB- 28_CD -RRB-_-RRB- ,_, a_DT popular_JJ solution_NN is_VBZ to_TO use_VB a_DT con_NN

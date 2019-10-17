@@ -1,0 +1,4 @@
+e_LS not_RB applicable_JJ to_TO our_PRP$ problem_NN ._.
+Our_PRP$ contribution_NN is_VBZ an_DT efficient_JJ algorithm_NN for_IN finding_VBG the_DT optimal_JJ l_NN +_CC -_: anonymization_NN ._.
+The_DT novelties_NNS are_VBP as_IN follows_VBZ :_: •_CD It_PRP adopts_VBZ the_DT full_JJ subtree_NN generalization_NN model_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: with_IN various_JJ suppression_NN schemes_NNS ,_, which_WDT results_VBZ in_IN a_DT much_RB larger_JJR search_NN space_NN than_IN the_DT full_JJ domain_NN generalization_NN model_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+It_PRP handles_VBZ suppression_NN as_IN an_DT integral_JJ part_NN of_IN anonymization_NN and_CC finds_VBZ the_DT

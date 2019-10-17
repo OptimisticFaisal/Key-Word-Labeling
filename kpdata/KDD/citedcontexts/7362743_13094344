@@ -1,0 +1,4 @@
+in_IN the_DT database_NN and_CC show_VBP that_IN the_DT quality_NN of_IN the_DT results_NNS outperforms_VBZ approaches_NNS that_WDT rely_VBP on_IN a_DT single_JJ ,_, global_JJ threshold_NN ._.
+2.6_CD Rule_NN Based_VBN Approaches_NNPS A_DT special_JJ case_NN of_IN distance-based_JJ approaches_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ the_DT use_NN of_IN rules_NNS to_TO define_VB whether_IN two_CD records_NNS are_VBP the_DT same_JJ or_CC not_RB ._.
+Rulebased_JJ approaches_NNS can_MD be_VB considered_VBN as_IN distance-based_JJ techniques_NNS ,_, where_WRB the_DT distance_NN of_IN two_CD records_NNS is_VBZ either_CC 0_CD or_CC 1_CD ._.
+It_PRP is_VBZ n_NN

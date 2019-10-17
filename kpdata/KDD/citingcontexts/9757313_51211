@@ -1,0 +1,5 @@
+onditioned_VBN on_IN the_DT fact_NN that_IN the_DT highest_JJS degree_NN at_IN that_DT point_NN is_VBZ O_NN -LRB-_-LRB- n_NN 1\/2_CD +_CC ɛ_NN -RRB-_-RRB- whp_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Then_RB ,_, by_IN Markov_NNP 's_POS inequality_NN the_DT claim_NN follows_VBZ ._.
+Also_RB ,_, we_PRP remove_VBP all_DT nodes_NNS of_IN degree_NN -RRB-_-RRB- k_NN ,_, for_IN some_DT constant_JJ k_NN --_: by_IN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: only_JJ ɛkn_NN edges_NNS and_CC nodes_NNS will_MD be_VB removed_VBN this_DT way_NN ._.
+The_DT resulting_VBG graph_NN will_MD thus_RB have_VB at_IN most_JJS n_NN nodes_NNS and_CC at_IN least_JJS -LRB-_-LRB- 1_CD −_FW 2ɛk_FW -RRB-_-RRB- mn_FW ≥_FW -LRB-_-LRB- 1_CD −_FW 2ɛk_FW -RRB-_-RRB- n_NN edges_NNS ._.
+Also_RB its_PRP$ maximum_NN degree_NN will_MD be_VB k._VBN By_IN averaging_NN ,_, a_DT g_NN

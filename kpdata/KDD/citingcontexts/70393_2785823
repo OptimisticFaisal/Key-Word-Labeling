@@ -1,0 +1,4 @@
+each_DT data_NN point_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+The_DT EM_NN algorithm_NN can_MD become_VB trapped_JJ at_IN a_DT local_JJ maximum_NN ,_, hence_RB the_DT initialization_NN values_NNS are_VBP important_JJ ._.
+We_PRP used_VBD the_DT sub-sampling_JJ initialization_NN algorithm_NN proposed_VBN by_IN Fayyad_NNP et_FW al._FW =_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: with_IN 10_CD %_NN sub-sampling_NN and_CC J_NN =_JJ 10_CD subsampling_JJ iterations_NNS ._.
+After_IN initializing_VBG the_DT parameters_NNS ,_, EM_NN clustering_NN iterates_VBZ until_IN convergence_NN -LRB-_-LRB- i.e._FW ,_, the_DT likelihood_NN does_VBZ not_RB change_VB by_IN 0:0001_CD -RRB-_-RRB- or_CC up_RB to_TO n_NN -LRB-_-LRB- defau_NN

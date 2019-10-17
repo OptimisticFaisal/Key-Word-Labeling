@@ -1,0 +1,5 @@
+een_VB the_DT graph_NN and_CC a_DT structure_NN graph_NN ,_, which_WDT reflects_VBZ the_DT features_NNS we_PRP care_VBP about_IN in_IN the_DT recommendation_NN ._.
+Third_NNP ,_, Melnik_NNP et_FW al._FW 's_POS approach_NN requires_VBZ adjustment_NN by_IN humans_NNS ,_, which_WDT ours_PRP does_VBZ not_RB ._.
+Jeh_NN and_CC Widom_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP a_DT domain-independent_JJ similarity_NN measurement_NN ,_, SimRank_NNP ._.
+SimRank_NNP measures_VBZ the_DT similarity_NN between_IN objects_NNS ._.
+It_PRP follows_VBZ the_DT intuition_NN that_IN ``_`` two_CD objects_NNS are_VBP similar_JJ if_IN they_PRP are_VBP related_JJ to_TO similar_JJ ob_NN

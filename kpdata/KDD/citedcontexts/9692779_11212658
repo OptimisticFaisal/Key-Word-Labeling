@@ -1,0 +1,5 @@
+es_NNS such_JJ as_IN Wikipedia_NNP -LRB-_-LRB- 18_CD ,_, 21_CD -RRB-_-RRB- ,_, or_CC the_DT general_JJ web_NN -LRB-_-LRB- 4_CD ,_, 6_CD ,_, 19_CD ,_, 2_CD -RRB-_-RRB- ._.
+2_CD ._.
+The_DT second_JJ approach_NN is_VBZ to_TO annotate_VB web_NN documents_NNS with_IN entity_NN and_CC relationship_NN labels_NNS from_IN a_DT well-known_JJ catalog_NN like_IN Wikipedia_NNP as_IN in_IN =_JJ -_: =[_NN 10_CD ,_, 17_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT allows_VBZ the_DT enrichment_NN of_IN keyword_JJ queries_NNS with_IN structured_JJ primitives_NNS such_JJ as_IN a_DT type_NN specifier_NN for_IN entities_NNS ._.
+The_DT first_JJ approach_NN has_VBZ the_DT advantage_NN of_IN providing_VBG high_JJ quality_NN structured_JJ answers_NNS but_CC

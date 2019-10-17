@@ -1,0 +1,6 @@
+one_CD maximizing_VBG the_DT BIC_NNP ._.
+Once_RB we_PRP have_VBP fit_VBN a_DT mixture_NN model_NN ,_, we_PRP can_MD cluster_VB the_DT data_NNS by_IN using_VBG Bayes_NNS '_POS rule_NN ._.
+There_EX have_VBP been_VBN several_JJ recent_JJ advances_NNS in_IN extending_VBG the_DT normal_JJ mixture_NN model_NN to_TO large_JJ datasets_NNS =_JJ -_: =[_NN 2_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT conceptual_JJ problem_NN with_IN model-based_JJ clustering_NN ._.
+Model-based_JJ clustering_NN relies_VBZ on_IN the_DT premise_NN that_IN mixture_NN components_NNS in_IN the_DT model_NN correspond_VBP to_TO distinct_JJ groups_NNS in_IN the_DT data_NNS ._.
+If_IN the_DT groups_NNS are_VBP Gauss_NNP

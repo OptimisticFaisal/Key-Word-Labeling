@@ -1,0 +1,3 @@
+here_RB millions_NNS of_IN rules_NNS can_MD be_VB generated_VBN ,_, the_DT two_CD approaches_NNS would_MD still_RB produce_VB too_RB many_JJ clusters_NNS to_TO be_VB of_IN practical_JJ use_NN ._.
+Another_DT approach_NN that_WDT is_VBZ related_JJ to_TO association_NN rule_NN grouping_NN is_VBZ presented_VBN in_IN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB the_DT distance_NN between_IN two_CD association_NN rules_NNS is_VBZ defined_VBN as_IN the_DT number_NN of_IN transactions_NNS on_IN which_WDT the_DT two_CD rules_NNS differ_VBP ._.
+Using_VBG this_DT distance_NN measure_NN ,_, Toivonen_NNP et_FW al_FW -LRB-_-LRB- 31_CD -RRB-_-RRB- group_NN all_PDT the_DT rules_NNS into_IN app_NN

@@ -1,0 +1,7 @@
+nking_NN function_NN using_VBG the_DT combination_NN of_IN f1_NN ..._: f8_NN ._.
+Each_DT group_NN is_VBZ vectorized_VBN with_IN -LRB-_-LRB- represented_VBN with_IN a_DT vector_NN of_IN -RRB-_-RRB- the_DT 8_CD group_NN spam_NN features_NNS ._.
+We_PRP ran_VBD two_CD widely_RB used_VBN learning_NN to_TO rank_VB algorithms_NNS -LRB-_-LRB- 26_CD -RRB-_-RRB- :_: SVMRank_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: and_CC RankBoost_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+For_IN SVMRank_NN ,_, we_PRP used_VBD the_DT system_NN in_IN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+RankBoost_NN was_VBD from_IN RankLib_NNP 9_CD ._.
+For_IN both_DT systems_NNS ,_, their_PRP$ default_NN parameters_NNS were_VBD applied_VBN ._.
+We_PRP also_RB experimented_VBD with_IN RankNet_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- in_IN RankLib_NNP ,_,

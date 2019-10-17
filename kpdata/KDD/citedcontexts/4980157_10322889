@@ -1,0 +1,5 @@
+ce_NN ,_, and_CC output_NN was_VBD a_DT bit_NN vector_NN encoding_VBG suspecious_JJ devices_NNS ._.
+The_DT flow_NN rate_NN of_IN these_DT devices_NNS can_MD then_RB be_VB restricted_VBN ,_, manually_RB or_CC automatically_RB ,_, to_TO avoid_VB the_DT foreseen_VBN problem_NN ._.
+In_IN Yamanishi_NNP and_CC Maruyama_NNP =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, dynamic_JJ syslog_NN mining_NN was_VBD employed_VBN to_TO detect_VB symptoms_NNS of_IN failure_NN and_CC identify_VB new_JJ emerging_VBG failure_NN patterns_NNS ._.
+Correlation_NN between_IN devices_NNS in_IN the_DT event_NN of_IN any_DT failure_NN was_VBD also_RB discovered_VBN ._.
+Other_JJ works_NNS

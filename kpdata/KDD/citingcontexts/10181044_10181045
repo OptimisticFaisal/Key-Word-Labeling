@@ -1,0 +1,4 @@
+of_IN BGP-lens_JJ -LRB-_-LRB- temporal_JJ and_CC frequency_NN -RRB-_-RRB- ._.
+3.1_CD The_DT Data_NN We_PRP examine_VBP BGP_NNP Monitor_NNP data_NNS containing_VBG 18_CD million_CD BGP_NN update_VBP messages_NNS over_IN a_DT period_NN of_IN two_CD years_NNS -LRB-_-LRB- 09\/2004_CD to_TO 09\/2006_CD -RRB-_-RRB- from_IN the_DT Datapository_NNP project_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT primary_JJ source_NN of_IN data_NNS is_VBZ Abilene_NNP ,_, an_DT academic_JJ research_NN network_NN employing_VBG Juniper_NNP routers_NNS running_VBG a_DT full-mesh_NN of_IN iBGP_NN sessions_NNS ._.
+Abilene_NNP uses_VBZ one_CD Zebra_NNP monitoring_NN router_NN per_IN point_NN of_IN presence_NN -LRB-_-LRB- Po_NN

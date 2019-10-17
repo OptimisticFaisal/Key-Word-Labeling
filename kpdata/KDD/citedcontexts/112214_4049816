@@ -1,0 +1,4 @@
+ance_NN is_VBZ high_JJ if_IN the_DT users_NNS behave_VBP totally_RB opposite_JJ ._.
+Therefore_RB we_PRP have_VBP to_TO do_VB an_DT adjustment_NN such_JJ that_IN the_DT weights_NNS are_VBP high_JJ if_IN the_DT users_NNS vote_VBP the_DT same_JJ ._.
+A_DT simple_JJ distance_NN measure_NN is_VBZ the_DT Manhattan_NNP distance_NN =_JJ -_: =[_NN 1_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ given_VBN by_IN ∑_FW i_FW Ix_FW Iy_FW vxisvyi_FW Ix_NN Iy_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- Another_DT distance_NN measure_NN is_VBZ the_DT mean-square_JJ difference_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- ,_, which_WDT is_VBZ based_VBN on_IN the_DT squared_VBN difference_NN between_IN the_DT votes_NNS ._.
+The_DT mean-square_JJ differen_NN

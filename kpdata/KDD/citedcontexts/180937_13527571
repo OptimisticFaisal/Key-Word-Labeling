@@ -1,0 +1,4 @@
+clustering_NN problems_NNS are_VBP also_RB related_JJ to_TO our_PRP$ study_NN ._.
+-LRB-_-LRB- 13_CD -RRB-_-RRB- presents_VBZ the_DT RankClus_NN method_NN for_IN integrating_VBG ranking_NN and_CC clustering_NN such_JJ that_IN the_DT results_NNS of_IN both_DT can_MD be_VB mutually_RB enhanced_VBN ._.
+Earlier_JJR papers_NNS like_IN =_JJ -_: =[_NN 5,18_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP discussed_VBN methods_NNS for_IN compressing_VBG and\/or_CC clustering_VBG data_NNS points_NNS to_TO facilitate_VB further_JJ data_NNS mining_NN ._.
+However_RB ,_, these_DT methods_NNS are_VBP different_JJ from_IN the_DT one_CD in_IN this_DT paper_NN since_IN our_PRP$ clustered_VBN cells_NNS are_VBP f_SYM

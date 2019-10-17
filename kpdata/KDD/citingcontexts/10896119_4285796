@@ -1,0 +1,4 @@
+rom_VB the_DT standard_JJ Gaussian_JJ distribution_NN N_NN -LRB-_-LRB- 0_CD ,_, 1_CD -RRB-_-RRB- ._.
+The_DT number_NN of_IN classes_NNS is_VBZ k_NN =_JJ 5_CD ,_, and_CC the_DT labels_NNS are_VBP generated_VBN uniformly_RB with_IN random_JJ ._.
+Five_CD real-world_JJ data_NNS sets_NNS from_IN the_DT UCI_NNP machine_NN learning_NN repository_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: and_CC two_CD benchmark_JJ data_NNS sets_NNS in_IN multi-label_JJ classification_NN -LRB-_-LRB- 7_CD ,_, 10_CD -RRB-_-RRB- are_VBP used_VBN in_IN our_PRP$ experiments_NNS ._.
+To_TO investigate_VB the_DT scalability_NN of_IN the_DT two-stage_JJ approach_NN ,_, two_CD large-scale_JJ data_NNS sets_NNS news20_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- and_CC rcv1_NN

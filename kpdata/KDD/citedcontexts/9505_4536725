@@ -1,0 +1,3 @@
+t_NN as_IN biclustering_NN following_VBG popular_JJ convention_NN ._.
+Biclustering_NNP has_VBZ been_VBN proved_VBN to_TO be_VB very_RB useful_JJ in_IN biological_JJ data_NNS analysis_NN especially_RB for_IN data_NNS gathered_VBN from_IN DNA_NN chips_NNS and_CC other_JJ micro-array_JJ techniques_NNS =_JJ -_: =[_NN 4,11_CD ,_, 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, for_IN the_DT word-document_JJ clustering_NN in_IN text_NN mining_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC for_IN collaborative_JJ filtering_VBG in_IN online_JJ recommendation_NN systems_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+The_DT aim_NN of_IN any_DT biclustering_VBG algorithm_NN for_IN a_DT given_VBN data_NN matrix_NN is_VBZ to_TO search_VB

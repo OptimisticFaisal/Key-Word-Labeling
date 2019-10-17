@@ -1,0 +1,4 @@
+ne_NN similarity_NN instead_RB of_IN Euclidean_JJ distortion_NN ,_, has_VBZ been_VBN found_VBN to_TO empirically_RB outperform_VB several_JJ other_JJ schemes_NNS ._.
+sThere_NN are_VBP quite_RB a_DT few_JJ other_JJ domains_NNS such_JJ as_IN bioinformatics_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, collaborative_JJ filtering_VBG =_JJ -_: =[_NN 26_CD -RRB-_-RRB- e_SYM -_: =_JJ -_: tc._NN ,_, in_IN which_WDT directional_JJ data_NNS is_VBZ encountered_VBN ._.
+A_DT similarity_NN measure_NN that_WDT has_VBZ been_VBN found_VBN to_TO be_VB useful_JJ in_IN these_DT domains_NNS is_VBZ the_DT Pearson_NNP correlation_NN coefficient_NN ._.
+Given_VBN x_NN ,_, y_FW ∈_FW R_NN d_NN ,_, the_DT Pearson_NNP product_NN m_NN

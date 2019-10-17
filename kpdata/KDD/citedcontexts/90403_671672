@@ -1,0 +1,3 @@
+ocessing_VBG model_NN of_IN distributed_VBN data_NNS streams_NNS 57_CD Synopsis_NNP in_IN Memory_NN Stream_NNP Mining_NNP Processor_NNP -LRB-_-LRB- Approximate_JJ -RRB-_-RRB- Resultss4_NN .2_NN Related_NNP Work_NNP Change_NNP mining_NN on_IN static_JJ datasets_NNS has_VBZ been_VBN studied_VBN in_IN the_DT last_JJ ten_CD years_NNS =_JJ -_: =[_NN 29_CD ,_, 25_CD ,_, 52_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Ganti_FW et_FW al._FW -LRB-_-LRB- 29_CD -RRB-_-RRB- proposed_VBD a_DT framework_NN to_TO quantify_VB the_DT deviation_NN in_IN the_DT induced_VBN models_NNS ,_, such_JJ as_IN two_CD decision_NN tree_NN classifiers_NNS ,_, clusters_NNS ,_, and_CC frequent_JJ itemsets_NNS ,_, in_IN the_DT large_JJ datasets_NNS ._.
+The_DT quantitativ_NN

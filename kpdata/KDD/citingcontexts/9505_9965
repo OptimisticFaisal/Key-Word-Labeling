@@ -1,0 +1,4 @@
+e_LS presented_VBN examples_NNS to_TO motivate_VB the_DT new_JJ concepts_NNS and_CC to_TO illustrate_VB the_DT ecacy_NN of_IN our_PRP$ algorithm_NN ._.
+In_IN particular_JJ ,_, word-document_JJ matrices_NNS that_WDT arise_VBP in_IN information_NN retrieval_NN are_VBP known_VBN to_TO be_VB highly_RB sparse_JJ =_JJ -_: =[_NN 7_CD -_: =-]_CD ._.
+For_IN such_JJ sparse_JJ data_NNS ,_, even_RB if_IN one_CD were_VBD only_RB interested_JJ in_IN document_NN clustering_NN ,_, we_PRP believe_VBP that_DT co-clustering_NN will_MD be_VB more_RBR eective_JJ than_IN a_DT plain_JJ clustering_NN of_IN just_JJ documents_NNS ._.
+The_DT reason_NN is_VBZ that_IN when_WRB

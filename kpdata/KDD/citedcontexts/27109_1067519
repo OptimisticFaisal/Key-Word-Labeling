@@ -1,0 +1,5 @@
+kint_NN from_IN the_DT singular_JJ values_NNS ._.
+The_DT relation_NN was_VBD originally_RB developed_VBN for_IN array_NN signal_NN processing_NN using_VBG minimum_NN description_NN length_NN principle_NN ._.
+Using_VBG a_DT spherical_JJ K-means_NN method_NN for_IN clustering_NN documents_NNS -LRB-_-LRB- =_JJ -_: =_JJ Dhillon_NNP ,_, 2001_CD -_: =--RRB-_NN leads_VBZ to_TO the_DT concept_NN vectors_NNS -LRB-_-LRB- centroids_NNS of_IN each_DT clusters_NNS -RRB-_-RRB- ,_, which_WDT are_VBP compared_VBN to_TO LSI_NNP vectors_NNS ._.
+The_DT subspace_NN spanned_VBN by_IN the_DT concept_NN vectors_NNS are_VBP close_JJ to_TO the_DT LSI_NNP subspace_NN ._.
+This_DT method_NN is_VBZ further_JJ develo_NN

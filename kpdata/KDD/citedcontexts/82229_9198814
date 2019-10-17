@@ -1,0 +1,4 @@
+he_PRP target_NN function_NN -LRB-_-LRB- see_VB figure_NN 6_CD -LRB-_-LRB- a_DT -RRB-_-RRB- -RRB-_-RRB- ._.
+However_RB ,_, it_PRP is_VBZ often_RB desirable_JJ to_TO account_VB for_IN task_NN -_: and_CC dataspecific_JJ issues_NNS like_IN offset_VBN translation_NN ,_, magnitude_NN scaling_NN ,_, linear_JJ trends_NNS removal_NN or_CC noise_NN reduction_NN =_JJ -_: =_JJ -LRB-_-LRB- KK02_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+Disregarding_VBG constant_JJ offsets_NNS is_VBZ particularly_RB necessary_JJ in_IN many_JJ cases_NNS ,_, as_IN the_DT computed_JJ distances_NNS can_MD otherwise_RB become_VB meaningless_JJ for_IN measuring_VBG -LRB-_-LRB- subjective_JJ -RRB-_-RRB- similarity_NN -LRB-_-LRB- KK02_NN -RRB-_-RRB- ._.
+We_PRP propose_VBP two_CD differe_NN

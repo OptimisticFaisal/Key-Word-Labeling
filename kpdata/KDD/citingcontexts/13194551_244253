@@ -1,0 +1,5 @@
+nomial_JJ time_NN ._.
+For_IN the_DT proof_NN notice_NN that_IN finding_VBG the_DT NNCX_NN decomposition_NN of_IN a_DT matrix_NN translates_VBZ into_IN a_DT convex_JJ quadratic_JJ programming_NN problem_NN with_IN linear_JJ constraints_NNS ._.
+This_DT can_MD be_VB solved_VBN in_IN polynomial_JJ time_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Therefore_RB ,_, for_IN a_DT given_VBN matrix_NN C_NN ,_, finding_VBG the_DT optimal_JJ X_NN can_MD be_VB done_VBN in_IN polynomial_JJ time_NN for_IN both_CC CX_NN and_CC NNCX_NN decompositions_NNS ._.
+Similarly_RB ,_, given_VBN C_NN and_CC R_NN ,_, finding_VBG the_DT optimal_JJ matrix_NN U_NN for_IN the_DT CUR_NN and_CC NNCU_NN

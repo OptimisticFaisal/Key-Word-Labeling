@@ -1,0 +1,5 @@
+given_VBN our_PRP$ focus_NN on_IN practical_JJ error_NN bounds_NNS ._.
+It_PRP is_VBZ also_RB worth_JJ noting_VBG that_IN this_DT analysis_NN has_VBZ applications_NNS beyond_IN the_DT design_NN of_IN fast_JJ approximations_NNS to_TO spectral_JJ clustering_NN ._.
+In_IN particular_JJ ,_, as_IN discussed_VBN by_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, our_PRP$ perturbation_NN analysis_NN can_MD be_VB used_VBN for_IN developing_VBG distributed_VBN versions_NNS of_IN spectral_JJ clustering_NN and_CC for_IN analyzing_VBG robustness_NN to_TO noise_NN ._.
+The_DT remainder_NN of_IN the_DT paper_NN is_VBZ organized_VBN as_IN follows_VBZ ._.
+We_PRP begin_VBP w_NN

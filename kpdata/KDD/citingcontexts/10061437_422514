@@ -1,0 +1,4 @@
+the_DT interdependence_NN of_IN the_DT documents_NNS ._.
+We_PRP will_MD explain_VB the_DT notion_NN of_IN bypass_NN rate_NN in_IN Section_NN 3.2_CD ._.
+Our_PRP$ work_NN is_VBZ also_RB related_JJ to_TO the_DT problem_NN of_IN subtopic_JJ retrieval_NN ,_, proposed_VBN by_IN Zhai_NNP ,_, Cohen_NNP ,_, and_CC Lafferty_NNP in_IN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP study_VBP the_DT problem_NN of_IN how_WRB to_TO handle_VB queries_NNS that_WDT may_MD be_VB related_JJ to_TO multiple_JJ topics_NNS -LRB-_-LRB- subtopics_NNS -RRB-_-RRB- ,_, and_CC suggests_VBZ a_DT solution_NN that_WDT attempts_VBZ to_TO find_VB diverse_JJ sets_NNS of_IN results_NNS that_WDT cover_VBP as_IN many_JJ topics_NNS as_IN

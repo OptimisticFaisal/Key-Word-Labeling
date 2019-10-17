@@ -1,0 +1,4 @@
+thod_NN -LRB-_-LRB- MFLK_NN -RRB-_-RRB- with_IN the_DT following_JJ methods_NNS :_: •_CD Four_CD document_NN clustering_NN methods_NNS :_: Kmeans_NNP ,_, Tri-Factor_NNP Nonnegative_NNP Matrix_NNP Factorization_NN -LRB-_-LRB- TNMF_NN -RRB-_-RRB- -LRB-_-LRB- Ding_NNP et_FW al._FW ,_, 2006_CD -RRB-_-RRB- ,_, Information-Theoretic_JJ Co-clustering_NN -LRB-_-LRB- ITCC_NN -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Dhillon_NNP et_FW al._FW ,_, 2003_CD -_: =--RRB-_NN ,_, and_CC Euclidean_JJ Co-clustering_JJ algorithm_NN -LRB-_-LRB- ECC_NN -RRB-_-RRB- -LRB-_-LRB- Cho_NNP et_FW al._FW ,_, 2004_CD -RRB-_-RRB- ._.
+These_DT methods_NNS do_VBP not_RB make_VB use_NN of_IN the_DT sentiment_NN lexicon_NN ._.
+•_NNP Feature_NNP Centroid_NNP -LRB-_-LRB- FC_NNP -RRB-_-RRB- :_: This_DT is_VBZ a_DT simple_JJ dictionary-based_JJ baseline_NN method_NN ._.
+R_NN

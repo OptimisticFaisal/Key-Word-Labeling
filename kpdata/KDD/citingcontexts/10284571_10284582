@@ -1,0 +1,5 @@
+steps_NNS ,_, as_IN described_VBN in_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+First_RB ,_, for_IN each_DT user_NN ,_, we_PRP extract_VBP the_DT queries_NNS by_IN the_DT user_NN from_IN the_DT search_NN log_NN as_IN a_DT stream_NN ._.
+Then_RB ,_, we_PRP segment_NN each_DT user_NN 's_POS stream_NN into_IN sessions_NNS based_VBN on_IN a_DT widely_RB adopted_VBN rule_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: :_: two_CD queries_NNS are_VBP split_VBN into_IN two_CD sessions_NNS if_IN the_DT time_NN interval_NN between_IN them_PRP exceeds_VBZ 30_CD minutes_NNS ._.
+Formally_RB ,_, let_VB Q_NNP be_VB the_DT set_NN of_IN unique_JJ queries_NNS in_IN a_DT search_NN log_NN ._.
+A_DT query_NN sequence_NN s_NN =_JJ 〈_FW q1_FW ·_FW ·_FW ·_FW qn_FW 〉_FW is_VBZ an_DT o_NN

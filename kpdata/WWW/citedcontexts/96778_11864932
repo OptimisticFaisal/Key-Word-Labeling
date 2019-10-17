@@ -1,0 +1,4 @@
+based_VBN on_IN previous_JJ probabilistic_JJ models_NNS ._.
+2_CD Background_NN 2.1_CD Rank_NNP Aggregation_NN There_EX are_VBP mainly_RB two_CD kinds_NNS of_IN rank_NN aggregation_NN ,_, i.e._FW ,_, score-based_JJ rank_NN aggregation_NN -LRB-_-LRB- 17_CD ,_, 16_CD -RRB-_-RRB- and_CC order-based_JJ rank_NN aggregation_NN =_JJ -_: =[_NN 2_CD ,_, 7_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT former_JJ ,_, objects_NNS in_IN the_DT input_NN rankings_NNS are_VBP associated_VBN with_IN scores_NNS ,_, while_IN in_IN the_DT latter_JJ ,_, only_RB the_DT order_NN information_NN of_IN these_DT objects_NNS is_VBZ available_JJ ._.
+In_IN this_DT work_NN ,_, we_PRP focus_VBP on_IN the_DT order-based_JJ rank_NN

@@ -1,0 +1,3 @@
+ces_NNS ._.
+Friedman_NNP et_FW al._FW -LRB-_-LRB- 3_CD -RRB-_-RRB- conceived_VBD and_CC implemented_VBD a_DT NIC-based_JJ distributed_VBN firewall_NN system_NN called_VBN iNIC_NNP for_IN Ethernet_NNP platforms_NNS using_VBG a_DT 100_CD MHz_NN Intel_NNP i960_NNP RISC_NNP processor_NN with_IN 128_CD MB_NN of_IN RAM_NNP ._.
+Otey_NNP et_FW al._FW =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBN and_CC empirically_RB evaluated_VBD a_DT novel_JJ architecture_NN for_IN network_NN intrusion_NN detection_NN systems_NNS using_VBG NICs_NNS for_IN commercial_JJ Myrinet_NNP platforms_NNS featuring_VBG a_DT 66_CD MHz_FW LANai_FW with_IN 4_CD processors_NNS and_CC 1_CD MB_NN of_IN memo_NN

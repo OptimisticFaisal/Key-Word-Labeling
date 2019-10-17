@@ -1,0 +1,3 @@
+d_NN these_DT errors_NNS using_VBG static_JJ analysis_NN ._.
+This_DT approach_NN has_VBZ been_VBN explored_VBN in_IN WebYichen_NNP Xie_NNP Alex_NNP Aiken_NNP Computer_NNP Science_NNP Department_NNP Stanford_NNP University_NNP Stanford_NNP ,_, CA_NNP 94305_CD -LCB-_-LRB- yxie,aiken}@cs.stanford.edu_NN SSARI_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: and_CC by_IN Minamide_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+WebSSARI_NN has_VBZ been_VBN used_VBN to_TO find_VB a_DT number_NN of_IN security_NN vulnerabilities_NNS in_IN PHP_NNP scripts_NNS ,_, but_CC has_VBZ a_DT large_JJ number_NN of_IN false_JJ positives_NNS and_CC negatives_NNS due_JJ to_TO its_PRP$ intraprocedural_JJ type-based_JJ

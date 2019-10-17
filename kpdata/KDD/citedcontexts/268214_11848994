@@ -1,0 +1,4 @@
+d_NN and_CC refined_VBN in_IN order_NN to_TO automate_VB this_DT process_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+At_IN the_DT same_JJ time_NN ,_, pattern_NN detection_NN algorithms_NNS ,_, which_WDT operate_VBP on_IN the_DT DOM_NNP tree_NN of_IN a_DT Web_NN page_NN ,_, allowed_VBN for_IN a_DT tag-agnostic_JJ way_NN to_TO extract_VB information_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+While_IN improvements_NNS to_TO these_DT approaches_NNS remain_VBP ,_, we_PRP argue_VBP that_IN the_DT next_JJ step_NN is_VBZ to_TO extend_VB these_DT methods_NNS to_TO operate_VB across_IN multiple_JJ Web_NN pages_NNS in_IN a_DT Web_NN site_NN ._.
+With_IN that_DT goal_NN in_IN mind_NN ,_, we_PRP propose_VBP a_DT method_NN

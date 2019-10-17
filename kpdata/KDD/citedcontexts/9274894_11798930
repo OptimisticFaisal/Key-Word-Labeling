@@ -1,0 +1,4 @@
+ame_NN instance_NN multiple_JJ times_NNS ._.
+Note_VB that_IN there_EX is_VBZ no_DT hard_JJ budget_NN in_IN our_PRP$ problem_NN definition_NN ._.
+Instead_RB ,_, the_DT goal_NN in_IN our_PRP$ model_NN is_VBZ to_TO simply_RB spend_VB as_RB little_JJ as_IN possible_JJ while_IN generalizing_VBG well_RB ._.
+Sheng_NNP et_FW al._FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: show_VBP that_IN when_WRB labelers_NNS provide_VBP noisy_JJ labels_NNS under_IN the_DT persistent_JJ noise_NN model_NN ,_, one_PRP can_MD still_RB estimate_VB well_RB the_DT true_JJ labels_NNS of_IN instances_NNS by_IN requesting_VBG labels_NNS on_IN a_DT single_JJ instance_NN from_IN multiple_JJ ,_, indepe_JJ

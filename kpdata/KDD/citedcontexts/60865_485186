@@ -1,0 +1,4 @@
+onding_VBG queries_NNS for_IN improved_VBN query_NN expansion_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- uses_VBZ implicit_JJ feedback_NN information_NN of_IN the_DT current_JJ search_NN session_NN for_IN better_JJR estimating_NN query_NN language_NN models_NNS inside_IN the_DT KL-divergence_NN retrieval_NN model_NN ._.
+=_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: exploits_VBZ query-log_JJ data_NNS to_TO learn_VB retrieval_NN functions_NNS using_VBG a_DT Support_NN Vector_NNP Machine_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- approach_NN ._.
+-LRB-_-LRB- 8,9,3_CD -RRB-_-RRB- point_NN out_IN the_DT semantic_JJ difficulty_NN of_IN distrust_VB propagation_NN ,_, but_CC at_IN the_DT same_JJ time_NN show_VBP the_DT po_NN

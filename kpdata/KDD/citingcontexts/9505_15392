@@ -1,0 +1,6 @@
+rue_FW co-clustering_FW procedure_NN ._.
+By_IN Lemma_NNP 2.1_CD ,_, our_PRP$ co-clustering_JJ procedure_NN is_VBZ intimately_RB related_VBN tosnding_VBG a_DT matrix_NN approximation_NN q_NN -LRB-_-LRB- X_NN ;_: Y_NN -RRB-_-RRB- ._.
+A_DT soft_JJ version_NN of_IN our_PRP$ procedure_NN is_VBZ related_JJ to_TO the_DT PLSI_NN scheme_NN of_IN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ;_: however_RB the_DT latter_JJ uses_VBZ a_DT single_JJ latent_JJ variable_JJ model_NN ._.
+A_DT twocluster_NN abstraction_NN model_NN is_VBZ given_VBN in_IN -LRB-_-LRB- 13_CD -RRB-_-RRB- that_WDT uses_VBZ maximum_NN likelihood_NN in_IN a_DT model-based_JJ generative_JJ framework_NN ._.
+4_LS ._.
+CO-CLUSTERING_NNP ALGORITHM_NNP

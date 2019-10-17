@@ -1,0 +1,4 @@
+different_JJ in_IN height_NN between_IN the_DT two_CD actors_NNS is_VBZ not_RB too_RB much_JJ of_IN a_DT problem_NN ,_, since_IN a_DT standard_JJ pre-processing_JJ step_NN in_IN matching_VBG motion_NN streams_NNS is_VBZ to_TO perform_VB Z-normalization_NN before_IN performing_VBG comparisons_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT dataset_NN contains_VBZ 200_CD instances_NNS ,_, 100_CD for_IN each_DT class_NN ._.
+Each_DT instance_NN has_VBZ the_DT same_JJ length_NN of_IN 150_CD data_NNS points_NNS ._.
+5.1.2_CD Trace_NNP dataset_NNP This_NNP dataset_NN is_VBZ a_DT subset_NN of_IN the_DT Transient_JJ Classification_NN Benchmark_NN -LRB-_-LRB-

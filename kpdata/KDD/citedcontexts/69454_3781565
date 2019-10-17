@@ -1,0 +1,4 @@
+stract_FW query_FW translation_NN as_IN a_DT search_NN problem_NN and_CC thus_RB develop_VB an_DT extensible_JJ search-driven_JJ mechanism_NN ._.
+This_DT demo_NN proposal_NN is_VBZ built_VBN upon_IN our_PRP$ earlier_JJR works_NNS on_IN interface_NN extraction_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- and_CC schema_NN matching_NN =_JJ -_: =[_NN 4_CD ,_, 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT have_VBP been_VBN demonstrated_VBN in_IN SIGMOD_NN 2004_CD -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+As_IN a_DT research_NN project_NN ,_, we_PRP take_VBP a_DT ``_`` divide_NN and_CC conquer_VB ''_'' approach_NN in_IN developing_VBG the_DT MetaQuerier_NN by_IN identifying_VBG and_CC studying_VBG key_JJ tasks_NNS step_NN by_IN step_NN ._.
+Our_PRP$

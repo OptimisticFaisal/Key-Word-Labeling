@@ -1,0 +1,5 @@
+ts_NNS ._.
+For_IN example_NN ,_, both_CC a_DT university_NN and_CC a_DT hospital_NN may_MD collect_VB information_NN about_IN a_DT student_NN ._.
+Again_RB ,_, secure_JJ protocols_NNS for_IN the_DT vertically_RB partitioned_VBN case_NN have_VBP been_VBN developed_VBN for_IN mining_NN association_NN rules_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, decision_NN trees_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC k-means_NN clusters_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+In_IN several_JJ recent_JJ studies_NNS ,_, all_DT of_IN those_DT previous_JJ protocols_NNS were_VBD proven_VBN to_TO be_VB secure_JJ in_IN the_DT semi-honest_JJ model_NN ._.
+Instead_RB ,_, in_IN this_DT paper_NN ,_, we_PRP focus_VBP on_IN the_DT sec_NN

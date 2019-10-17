@@ -1,0 +1,4 @@
+captures_VBZ some_DT degree_NN of_IN community_NN structure_NN ._.
+In_IN general_JJ ,_, one_CD aims_VBZ to_TO find_VB a_DT community_NN structure_NN such_JJ that_IN Q_NNP is_VBZ maximized_VBN ._.
+While_IN maximizing_VBG the_DT modularity_NN over_IN hard_JJ clustering_NN is_VBZ proved_VBN to_TO be_VB NP_NNP hard_RB =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT relaxation_NN of_IN the_DT problem_NN can_MD be_VB solved_VBN efficiently_RB -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+Let_VB d_FW ∈_FW Z_NN n_NN +_CC be_VB the_DT degree_NN of_IN each_DT node_NN ,_, S_NNP ∈_NNP -LCB-_-LRB- 0_CD ,_, 1_CD -RCB-_-RRB- n_NN ×_CD k_NN be_VB a_DT community_NN indicator_NN matrix_NN defined_VBN below_IN :_: j_NN 1_CD if_IN vertex_FW i_FW belongs_VBZ to_TO communi_VB

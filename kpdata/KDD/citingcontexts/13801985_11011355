@@ -1,0 +1,4 @@
+o_NN categorical_JJ attributes_NNS to_TO guide_VB a_DT divisive_JJ approach_NN like_IN Tian_NNP et_FW al._FW had_VBD ._.
+Unweighted_JJ graph_NN compression_NN techniques_NNS have_VBP been_VBN used_VBN to_TO simplify_VB graph_NN storage_NN and_CC manipulation_NN ._.
+For_IN example_NN ,_, Chen_NNP et_FW al._FW =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: successfully_RB applied_VBD a_DT graph_NN compression_NN method_NN to_TO reduce_VB the_DT number_NN of_IN embeddings_NNS when_WRB searching_VBG frequent_JJ subgraphs_NNS in_IN a_DT large_JJ graph_NN ._.
+Navlakha_FW et_FW al._FW -LRB-_-LRB- 13_CD -RRB-_-RRB- revealed_VBD biological_JJ modules_NNS with_IN the_DT help_NN o_NN

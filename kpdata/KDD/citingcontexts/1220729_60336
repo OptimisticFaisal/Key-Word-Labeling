@@ -1,0 +1,4 @@
+n_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, consensus_NN clustering_NN -LRB-_-LRB- 2_CD ,_, 25_CD -RRB-_-RRB- and_CC cluster_NN ensembles_NNS -LRB-_-LRB- 12_CD ,_, 33_CD -RRB-_-RRB- ._.
+Ranking_JJ aggregation_NN has_VBZ been_VBN studied_VBN from_IN the_DT viewpoints_NNS of_IN algorithmics_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, Web_NN search_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, databases_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, and_CC machine_NN learning_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT third_JJ important_JJ group_NN of_IN aggregating_VBG data_NNS mining_NN results_NNS is_VBZ formed_VBN by_IN voting_VBG classifiers_NNS such_JJ as_IN bagging_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC boosting_VBG -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Our_PRP$ work_NN is_VBZ similar_JJ in_IN spirit_NN ,_, since_IN we_PRP are_VBP also_RB trying_VBG to_TO aggregate_NN

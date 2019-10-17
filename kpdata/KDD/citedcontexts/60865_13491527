@@ -1,0 +1,4 @@
+an_DT explosion_NN of_IN interest_NN in_IN using_VBG machine_NN learning_NN to_TO improve_VB web_NN search_NN -LRB-_-LRB- for_IN example_NN -LRB-_-LRB- 4_CD ,_, 10_CD ,_, 13_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+A_DT particularly_RB common_JJ approach_NN is_VBZ to_TO use_VB implicitly_RB collected_VBN behavioral_JJ data_NNS to_TO train_VB such_JJ systems_NNS =_JJ -_: =[_NN 6_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD example_NN is_VBZ clickthrough_JJ data_NNS ,_, which_WDT records_VBZ queries_NNS issued_VBN by_IN users_NNS to_TO a_DT search_NN engine_NN as_RB well_RB as_IN the_DT results_NNS clicked_VBD on_RP by_IN the_DT users_NNS ._.
+Such_JJ implicitly_RB collected_VBN data_NNS is_VBZ particularly_RB useful_JJ for_IN i_LS

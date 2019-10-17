@@ -1,0 +1,4 @@
+ased_VBN clustering_NN and_CC agglomerative_JJ clustering_NN methods_NNS ._.
+However_RB they_PRP employ_VBP different_JJ merging_JJ criteria_NNS and_CC perform_VB a_DT narrow_JJ search_NN that_WDT only_RB considers_VBZ a_DT single_JJ pair_NN of_IN merge_VB candidates_NNS ._.
+Surdeanu_FW et_FW al._FW =_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ a_DT hybrid_NN clustering_NN approach_NN that_WDT combines_VBZ agglomerative_JJ clustering_NN algorithm_NN with_IN the_DT Expectation_NN Maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- algorithm_NN ._.
+Contrast_NN to_TO traditional_JJ clustering_NN ,_, a_DT family_NN of_IN supervised_JJ clu_NN

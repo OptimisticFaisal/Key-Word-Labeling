@@ -1,0 +1,5 @@
+ccording_VBG to_TO θ_NN ._.
+Each_DT pattern_NN is_VBZ evaluated_VBN in_IN terms_NNS of_IN support_NN and_CC grow-rate_JJ value_NN ._.
+In_IN generating_VBG each_DT level_NN of_IN lattice_NN ,_, the_DT candidate_NN pattern_NN search_NN space_NN is_VBZ represented_VBN as_IN a_DT set_NN of_IN enumeration_NN trees_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT idea_NN is_VBZ to_TO impose_VB an_DT ordering_VBG on_IN atoms_NNS such_JJ that_IN all_DT patterns_NNS in_IN the_DT search_NN space_NN are_VBP enumerated_VBN ._.
+Practically_RB ,_, a_DT node_NN g_NN of_IN a_DT SE-tree_NN is_VBZ represented_VBN as_IN a_DT group_NN comprising_VBG :_: the_DT head_NN -LRB-_-LRB- h_NN -LRB-_-LRB- g_NN -RRB-_-RRB- -RRB-_-RRB- that_WDT is_VBZ

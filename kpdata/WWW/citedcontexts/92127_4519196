@@ -1,0 +1,3 @@
+ML-Core_NN is_VBZ the_DT basic_JJ language_NN of_IN the_DT family_NN ._.
+It_PRP is_VBZ defined_VBN by_IN the_DT intersection_NN of_IN Description_NN Logic_NNP and_CC Horn_NNP Logic_NNP -LRB-_-LRB- without_IN function_NN symbols_NNS and_CC without_IN equality_NN -RRB-_-RRB- ,_, based_VBN on_IN Description_NN Logic_NN Programs_NNS =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC can_MD thus_RB function_VB as_IN the_DT basic_JJ interoperability_NN layer_NN between_IN both_DT paradigms_NNS ._.
+In_IN particular_JJ ,_, ground_JJ entailment_NN in_IN WSML-Core_NN coincides_VBZ under_IN first-order_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- and_CC Logic_NN Programming_NN -LRB-_-LRB- LP_NN -RRB-_-RRB- -LRB-_-LRB- 23_CD -RRB-_-RRB- seman_NN

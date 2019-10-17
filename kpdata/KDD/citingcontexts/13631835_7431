@@ -1,0 +1,6 @@
+that_IN of_IN COM_NNP ._.
+We_PRP investigate_VBP this_DT in_IN the_DT next_JJ section_NN -LRB-_-LRB- Section_NN 5_CD -RRB-_-RRB- ._.
+5_CD ._.
+EXPERIMENTS_NNS We_PRP conduct_VBP experiments_NNS with_IN PAS_NN and_CC COM_NN on_IN 10_CD real-world_JJ datasets_NNS downloaded_VBN from_IN the_DT UCI_NNP Machine_NNP Learning_NNP Repository_NNP =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT datasets_NNS are_VBP chosen_VBN because_IN they_PRP have_VBP at_IN least_JJS some_DT discrete_JJ attributes_NNS ,_, binary_JJ class_NN ,_, and_CC a_DT good_JJ number_NN of_IN examples_NNS ._.
+641Research_NNP Track_NNP Paper_NNP The_DT numerical_JJ attributes_NNS in_IN datasets_NNS are_VBP discreti_NN

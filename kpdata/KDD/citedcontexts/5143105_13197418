@@ -1,0 +1,4 @@
+both_CC labeled_JJ and_CC unlabeled_JJ data_NNS ,_, while_IN our_PRP$ approach_NN is_VBZ entirely_RB unsupervised_JJ ._.
+Finally_RB ,_, most_RBS closely_RB related_JJ to_TO our_PRP$ approach_NN are_VBP LDA-kmeans_JJ -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC nonlinear_JJ adaptive_JJ distance_NN metric_JJ learning_NN -LRB-_-LRB- NAML_NN -RRB-_-RRB- =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT algorithms_NNS perform_VBP data_NNS projection_NN and_CC clustering_NN steps_NNS iteratively_RB to_TO enhance_VB cluster_NN quality_NN until_IN convergence_NN ._.
+In_FW LDA-k-means_FW ,_, both_DT of_IN these_DT steps_NNS are_VBP carried_VBN out_RP in_IN the_DT original_JJ space_NN to_TO o_NN

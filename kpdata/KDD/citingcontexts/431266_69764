@@ -1,0 +1,4 @@
+rate_NN dynamic_JJ network_NN information_NN ,_, e.g._FW -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+The_DT last_JJ few_JJ years_NNS have_VBP seen_VBN a_DT development_NN of_IN systematic_JJ algorithmic_JJ approaches_NNS to_TO dynamic_JJ network_NN analysis_NN ,_, mostly_RB in_IN the_DT context_NN of_IN information_NN networks_NNS =_JJ -_: =[_NN 1_CD ,_, 18_CD ,_, 20_CD ,_, 19_CD ,_, 23_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Yet_RB ,_, most_JJS of_IN the_DT methods_NNS focus_VB on_IN the_DT frequency_NN ,_, rather_RB than_IN concurrency_NN and_CC order_NN of_IN interactions_NNS ._.
+Moreover_RB ,_, most_RBS dynamic_JJ models_NNS are_VBP network_NN evolution_NN models_NNS where_WRB nodes_NNS and_CC edges_NNS can_MD be_VB added_VBN but_CC

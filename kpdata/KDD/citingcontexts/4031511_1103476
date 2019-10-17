@@ -1,0 +1,5 @@
+algorithm_NN was_VBD only_RB applied_VBN on_IN smaller_JJR datasets_NNS than_IN our_PRP$ algorithm_NN ,_, and_CC did_VBD not_RB investigate_VB the_DT link_NN with_IN data_NN mining_NN algorithms_NNS ._.
+More_RBR recently_RB ,_, pruning_NN strategies_NNS of_IN decision_NN trees_NNS have_VBP been_VBN studied_VBN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+DL8_NN can_MD be_VB conceived_VBN as_IN the_DT generalization_NN of_IN these_DT pruning_NN strategies_NNS to_TO a_DT larger_JJR type_NN of_IN data_NNS structure_NN ._.
+Related_VBN is_VBZ also_RB the_DT work_NN of_IN Moore_NNP and_CC Lee_NNP on_IN the_DT ADtree_NN data_NN structure_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+An_DT ADtree_NN can_MD

@@ -1,0 +1,4 @@
+interest_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- constructed_VBD topic-specific_JJ directories_NNS on_IN the_DT web_NN by_IN training_VBG a_DT classifier_NN with_IN a_DT labeled_JJ set_NN of_IN documents_NNS and_CC then_RB deriving_VBG queries_NNS to_TO retrieve_VB additional_JJ documents_NNS ._.
+Flake_NNP et_FW al._FW =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: extracted_VBN category-specific_JJ query_NN modifications_NNS from_IN a_DT non-linear_JJ SVM_NN classifier_NN ._.
+Recently_RB ,_, Ghani_NNP et_FW al._FW -LRB-_-LRB- 14_CD -RRB-_-RRB- presented_VBD a_DT technique_NN that_WDT is_VBZ similar_JJ in_IN spirit_NN to_TO our_PRP$ current_JJ work_NN ,_, but_CC for_IN a_DT different_JJ

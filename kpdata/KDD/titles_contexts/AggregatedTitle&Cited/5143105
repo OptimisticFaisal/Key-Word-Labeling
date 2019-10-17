@@ -1,0 +1,12 @@
+Nonlinear_JJ adaptive_JJ distance_NN metric_JJ learning_NN for_IN clustering_NN
+eliver_JJR satisfactory_JJ results_NNS ,_, findinga_JJ good_JJ distance_NN metric_NN for_IN the_DT problem_NN at_IN hand_NN often_RB plays_VBZ a_DT very_RB crucial_JJ role_NN ._.
+As_IN such_JJ ,_, metric_JJ learning_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- has_VBZ received_VBN much_JJ attention_NN in_IN the_DT research_NN community_NN =_JJ -_: =[_NN 12_CD ,_, 25_CD ,_, 5_CD ,_, 22_CD ,_, 8_CD ,_, 26_CD ,_, 6_CD ,_, 7_CD ,_, 27_CD ,_, 29_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Many_JJ metric_JJ learning_NN methods_NNS have_VBP been_VBN proposed_VBN ._.
+From_IN the_DT perspective_NN of_IN the_DT underlying_VBG learning_NN paradigm_NN ,_, these_DT methods_NNS can_MD be_VB grouped_VBN into_IN three_CD categories_NNS ,_, namely_RB ,_, supervised_JJ metric_JJ learning_NN ,_, uns_NNS
+both_CC labeled_JJ and_CC unlabeled_JJ data_NNS ,_, while_IN our_PRP$ approach_NN is_VBZ entirely_RB unsupervised_JJ ._.
+Finally_RB ,_, most_RBS closely_RB related_JJ to_TO our_PRP$ approach_NN are_VBP LDA-kmeans_JJ -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC nonlinear_JJ adaptive_JJ distance_NN metric_JJ learning_NN -LRB-_-LRB- NAML_NN -RRB-_-RRB- =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT algorithms_NNS perform_VBP data_NNS projection_NN and_CC clustering_NN steps_NNS iteratively_RB to_TO enhance_VB cluster_NN quality_NN until_IN convergence_NN ._.
+In_FW LDA-k-means_FW ,_, both_DT of_IN these_DT steps_NNS are_VBP carried_VBN out_RP in_IN the_DT original_JJ space_NN to_TO o_NN
+ork_NN ,_, termed_VBN the_DT multiple_JJ kernel_NN learning_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ,_, learns_VBZ a_DT linear_JJ combination_NN of_IN base_NN kernels_NNS with_IN the_DT different_JJ weights_NNS ,_, which_WDT will_MD be_VB estimated_VBN simultaneously_RB in_IN the_DT inference_NN process_NN ,_, e.g._FW ,_, see_VB -LRB-_-LRB- 34_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 41_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 25_CD -RRB-_-RRB- ._.
+Our_PRP$ proposed_VBN method_NN ,_, which_WDT will_MD be_VB described_VBN later_RB ,_, also_RB belongs_VBZ to_TO this_DT framework_NN ._.
+In_IN -LRB-_-LRB- 34_CD -RRB-_-RRB- ,_, the_DT algorithm_NN tries_VBZ to_TO find_VB a_DT maximum_JJ margin_NN hyperplane_NN to_TO cluster_VB data_NNS -LRB-_-LRB- restricted_JJ to_TO the_DT binary-c_NN

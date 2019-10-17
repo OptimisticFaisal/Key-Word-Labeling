@@ -1,0 +1,3 @@
+ndomly_RB chosen_VBN sub-trees_NNS of_IN two_CD parents_NNS to_TO create_VB two_CD new_JJ offspring_NN ,_, and_CC mutation_NN randomly_RB changes_VBZ a_DT sub-tree_NN ._.
+Given_VBN that_IN regular_JJ GP_NN operators_NNS are_VBP often_RB found_VBN inadequate_JJ for_IN learning_VBG numeric_JJ constants_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT non-uniform_JJ mutation_NN is_VBZ used_VBN here_RB too_RB ._.
+The_DT genetic_JJ search_NN begins_VBZ with_IN a_DT population_NN of_IN randomly_RB X_NN 4_CD -LRB-_-LRB- 2.1_CD x_NN 1_CD +_CC x_NN 2_CD -RRB-_-RRB- exp_NN -LRB-_-LRB- x_NN 1_CD -RRB-_-RRB- +_CC 0.7_CD x_NN 1x_NN 4_CD \*_NN X_NN 1_CD \*_SYM .7_CD sgenerated_JJ models_NNS ,_, and_CC is_VBZ terminated_VBN after_IN a_DT fixe_NN

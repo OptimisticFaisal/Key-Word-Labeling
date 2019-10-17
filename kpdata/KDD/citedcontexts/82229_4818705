@@ -1,0 +1,5 @@
+thods_NNS for_IN time_NN series_NN are_VBP discussed_VBN by_IN Daw_NN et_FW al._FW -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+The_DT discretization_NN is_VBZ said_VBN to_TO be_VB often_RB motivated_VBN by_IN the_DT desire_NN to_TO speed_VB up_RP processing_NN and_CC to_TO remove_VB noise_NN ._.
+Many_JJ real_JJ life_NN time_NN series_NN are_VBP smooth_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Using_VBG each_DT time_NN point_NN or_CC a_DT small_JJ window_NN for_IN discretization_NN will_MD usually_RB produce_VB consecutive_JJ stretches_NNS of_IN the_DT same_JJ symbol_NN ._.
+Daw_NNP et_FW al._FW state_NN that_IN ``_`` from_IN the_DT standpoint_NN of_IN observing_VBG meaningful_JJ patterns_NNS ,_,

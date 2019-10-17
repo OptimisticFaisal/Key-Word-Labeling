@@ -1,0 +1,5 @@
+uitive_JJ results_NNS to_TO be_VB obtained_VBN ._.
+We_PRP note_VBP that_IN the_DT utility_NN of_IN allowing_VBG do_VBP n't_RB care_VB sections_NNS in_IN time_NN series_NN has_VBZ been_VBN documented_VBN before_IN -LRB-_-LRB- 1_CD ,_, 22_CD -RRB-_-RRB- ,_, and_CC it_PRP is_VBZ a_DT cornerstone_NN of_IN text_NN and_CC Biosequences_NNS data_NNS mining_NN =_JJ -_: =[_NN 3_CD ,_, 24_CD ,_, 25_CD ,_, 28_CD ,_, 30_CD ,_, 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT previous_JJ example_NN illustrates_VBZ the_DT dangers_NNS of_IN mining_NN in_IN the_DT presence_NN of_IN noise_NN ._.
+Indeed_RB ,_, this_DT single_JJ spike_NN might_MD be_VB best_RB taken_VBN care_NN of_IN with_IN a_DT simple_JJ smoothing_NN algorithm_NN ._.
+More_RBR generally_RB ,_, however_RB ,_, we_PRP

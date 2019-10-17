@@ -1,0 +1,5 @@
+network_NN −_CD trainSet_NN F_NN =_JJ F_NN ∪_NN -LRB-_-LRB- trainSet_NN ,_, testSet_NN ,_, inferenceSet_NN -RRB-_-RRB- end_NN for_IN output_NN :_: F_NN Table_NNP 4_CD ._.
+Network_NNP cross-validation_NN procedure_NN ._.
+the_DT methodological_JJ design_NN of_IN 23_CD research_NN papers_NNS most_RBS relevant_JJ to_TO our_PRP$ work_NN =_JJ -_: =[_NN 1_CD ,_, 4_CD ,_, 5_CD ,_, 6_CD ,_, 7_CD ,_, 8_CD ,_, 9_CD ,_, 11_CD ,_, 12_CD ,_, 13_CD ,_, 14_CD ,_, 15_CD ,_, 16_CD ,_, 17_CD ,_, 18_CD ,_, 19_CD ,_, 20_CD ,_, 21_CD ,_, 22_CD ,_, 23_CD ,_, 24_CD ,_, 25_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Relevant_JJ papers_NNS compare_VBP the_DT performance_NN of_IN two_CD or_CC more_JJR classifiers_NNS on_IN a_DT relational_JJ classification_NN task_NN ._.
+Based_VBN on_IN our_PRP$ survey_NN ,_, there_EX are_VBP two_CD common_JJ evaluation_NN methodologies_NNS which_WDT emerge_VBP :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- Independe_NN

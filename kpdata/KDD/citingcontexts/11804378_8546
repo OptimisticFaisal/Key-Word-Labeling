@@ -1,0 +1,4 @@
+ls_NNS include_VBP ,_, but_CC is_VBZ not_RB limited_VBN to_TO ,_, Kernel-smoothing_NN ,_, RBF_NN ,_, neural_JJ network_NN ,_, nearest_JJS neighbor_NN ,_, orthogonal_JJ series_NN estimator_NN ,_, spline_NN smoothing_NN ._.
+For_IN an_DT extensive_JJ treatment_NN of_IN this_DT subject_NN ,_, please_VBP refer_VB to_TO -LRB-_-LRB- =_JJ -_: =_JJ Hardle_NNP ,_, 1990_CD -_: =-]_CD ._.
+Several_JJ work_NN combines_VBZ parametric_JJ and_CC nonparametric_JJ regression_NN ._.
+Combining_VBG the_DT notions_NNS of_IN both_CC GLM_NN and_CC additive_JJ models_NNS ,_, generalized_JJ additive_JJ model_NN or_CC GAM_NN relaxes_VBZ the_DT linear_JJ combination_NN of_IN xi_NN in_IN GLM_NN t_NN

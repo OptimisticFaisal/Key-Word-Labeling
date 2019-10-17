@@ -1,0 +1,4 @@
+pproaches_NNS ._.
+The_DT most_RBS common_JJ is_VBZ cost-sensitive_JJ learning_NN in_IN which_WDT the_DT learning_NN of_IN an_DT underlying_JJ classifier_NN is_VBZ adjusted_VBN based_VBN on_IN predetermined_JJ misclassification_NN costs_NNS ._.
+One_CD of_IN these_DT approaches_NNS is_VBZ MetaCost_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+MetaCost_NNP takes_VBZ in_IN training_NN data_NNS and_CC a_DT classification_NN algorithm_NN and_CC adjusts_VBZ the_DT learning_NN by_IN taking_VBG into_IN account_NN a_DT given_VBN cost_NN matrix_NN that_WDT assigns_VBZ punishments_NNS for_IN misclassifications_NNS and_CC rewards_NNS for_IN cor_NN

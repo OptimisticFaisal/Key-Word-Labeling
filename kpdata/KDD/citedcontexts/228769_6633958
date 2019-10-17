@@ -1,0 +1,4 @@
+rest_NN of_IN this_DT section_NN will_MD be_VB devoted_VBN to_TO the_DT vocabulary_NN ._.
+The_DT most_RBS popular_JJ vocabulary_NN approach_NN is_VBZ called_VBN ``_`` bag_NN of_IN words_NNS ''_'' -LRB-_-LRB- BOW_NN -RRB-_-RRB- ,_, which_WDT ,_, as_IN the_DT name_NN suggests_VBZ ,_, includes_VBZ the_DT unique_JJ words_NNS in_IN the_DT document_NN set_NN =_JJ -_: =[_NN 6,8,9,11,12,16,22,24,2730,41,53,65,66,72,75,77,78_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Stopwords_NNS are_VBP usually_RB excluded_VBN ;_: and_CC optionally_RB the_DT words_NNS are_VBP stemmed_VBN to_TO their_PRP$ roots_NNS -LRB-_-LRB- e.g._FW suffixes_NNS removed_VBD -RRB-_-RRB- ._.
+Some_DT filtering_VBG or_CC feature_NN selection_NN methods_NNS have_VBP been_VBN investigated_VBN in_IN order_NN to_TO reduce_VB the_DT

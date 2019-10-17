@@ -1,0 +1,4 @@
+s_VBZ another_DT widely_RB used_VBN data_NNS set_VBN for_IN evaluating_VBG learning_NN algorithms_NNS ._.
+It_PRP contains_VBZ five_CD top_JJ categories_NNS and_CC many_JJ subcategories_NNS ._.
+For_IN easy_JJ comparison_NN ,_, we_PRP use_VBP a_DT preprocessed_JJ version_NN adopted_VBN in_IN previous_JJ work_NN -LRB-_-LRB- =_JJ -_: =_JJ Gao_NNP et_FW al._FW 2008_CD -_: =_JJ -_: ;_: Zhuang_NNP et_FW al._FW 2010_CD -RRB-_-RRB- ,_, which_WDT contains_VBZ three_CD cross-domain_JJ data_NNS sets_VBZ orgs_NNS vs_CC people_NNS ,_, orgs_NNS vs_CC place_NN and_CC people_NNS vs_CC place_NN ._.
+We_PRP use_VBP Accuracy_NNP as_IN the_DT evaluation_NN criteria_NNS ,_, as_IN it_PRP is_VBZ widely_RB adopted_VBN in_IN the_DT literat_NN

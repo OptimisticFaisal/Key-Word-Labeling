@@ -1,0 +1,4 @@
+bined_VBN using_VBG the_DT proposed_VBN Fourier_NN spectrumbased_JJ approach_NN which_WDT the_DT regular_JJ ensemble_NN learning_NN techniques_NNS do_VBP not_RB offer_VB ._.
+We_PRP also_RB performed_VBD experiments_NNS using_VBG an_DT AdaBoost-based_JJ approach_NN suggested_VBD elsewhere_RB =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, we_PRP choose_VBP not_RB to_TO report_VB that_IN since_IN its_PRP$ performance_NN appears_VBZ to_TO be_VB considerably_RB inferior_JJ to_TO those_DT of_IN Bagging_NNP and_CC Arcing_NNP for_IN the_DT data_NNS set_VBP we_PRP use_VBP ._.
+Not_RB all_PDT the_DT models_NNS generated_VBN from_IN different_JJ da_NN

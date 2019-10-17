@@ -1,0 +1,4 @@
++_CC +_CC True_NNP frequents_VBZ Upper_NNP +_CC statistical_JJ border_NN SFS_NNS Fig._NNP 13_CD ._.
+Comparison_NN ._.
+Observed_NNP frequents_VBZ Lower_NNP statistical_JJ border_NN IncSpan_NNP -LRB-_-LRB- Incremental_NNP Mining_NNP of_IN Sequential_JJ Patterns_NN in_IN large_JJ database_NN -RRB-_-RRB- algorithm_NN from_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: rely_VB on_IN a_DT statistical_JJ approach_NN where_WRB they_PRP build_VBP a_DT set_NN of_IN semi-frequents_NNS -LRB-_-LRB- SFS_NNS -RRB-_-RRB- by_IN reducing_VBG the_DT original_JJ value_NN of_IN the_DT minimal_JJ support_NN by_IN a_DT factor_NN ._.
+Their_PRP$ main_JJ idea_NN is_VBZ that_IN some_DT of_IN the_DT frequent_JJ patterns_NNS

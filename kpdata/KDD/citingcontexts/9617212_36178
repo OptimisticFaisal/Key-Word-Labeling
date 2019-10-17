@@ -1,0 +1,4 @@
+supervised_VBN learning_NN methods_NNS ._.
+Blei_NNP et_NNP al_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- introduced_VBD the_DT LDA_NNP model_NN within_IN a_DT general_JJ Bayesian_JJ framework_NN and_CC developed_VBD a_DT variational_JJ algorithm_NN for_IN learning_VBG the_DT model_NN from_IN data_NNS ._.
+Griffiths_NNP and_CC Steyvers_NNP =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: subsequently_RB proposed_VBN a_DT learning_NN algorithm_NN based_VBN on_IN collapsed_JJ Gibbs_NNP sampling_NN ._.
+Both_CC the_DT variational_JJ and_CC Gibbs_NNP sampling_NN approaches_NNS have_VBP their_PRP$ advantages_NNS :_: the_DT variational_JJ approach_NN is_VBZ arguably_RB faster_JJR com_NN

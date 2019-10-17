@@ -1,0 +1,4 @@
+links_NNS allow_VBP malicious_JJ scripts_NNS to_TO infer_VB certain_JJ browser_NN states_NNS and_CC thus_RB track_NN users_NNS '_POS browsing_VBG histories_NNS ._.
+Accordingly_RB ,_, they_PRP specified_VBD the_DT same-origin_JJ policies_NNS for_IN browser_NN caches_NNS and_CC visited_VBN links_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP do_VBP not_RB discuss_VB how_WRB to_TO specify_VB better_JJR policies_NNS ,_, but_CC focus_VB on_IN how_WRB to_TO correctly_RB and_CC securely_RB implement_VB those_DT that_WDT are_VBP well-specified_JJ ._.
+The_DT isolation_NN bugs_NNS that_IN we_PRP discuss_VBP are_VBP at_IN the_DT HTM_NN

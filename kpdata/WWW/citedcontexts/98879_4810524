@@ -1,0 +1,5 @@
+n_NN present_JJ the_DT details_NNS of_IN the_DT adaptation_NN to_TO folksonomies_NNS ._.
+Basic_JJ CF_NN principle_NN ._.
+The_DT idea_NN is_VBZ to_TO suggest_VB new_JJ objects_NNS or_CC to_TO predict_VB the_DT utility_NN of_IN a_DT certain_JJ object_NN based_VBN on_IN the_DT opinion_NN of_IN like-minded_JJ users_NNS =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN CF_NN ,_, for_IN m_NN users_NNS and_CC n_NN objects_NNS ,_, the_DT user_NN profiles_NNS are_VBP represented_VBN in_IN a_DT user-object_JJ matrix_NN X_NN ∈_NN R_NN m_NN ×_CD n_NN ._.
+The_DT matrix_NN can_MD be_VB decomposed_VBN into_IN row_NN vectors_NNS :_: X_NN :_: =_JJ -LRB-_-LRB- x1_NN ,_, ..._: ,_, xm_NN -RRB-_-RRB- ⊤_NN with_IN xu_NN :_: =_JJ -LRB-_-LRB- xu_FW ,1_FW ,_, ..._: ,_, x_NN

@@ -1,0 +1,3 @@
+nt_NN class_NN -LRB-_-LRB- positive_JJ or_CC negative_JJ -RRB-_-RRB- on_IN a_DT given_VBN piece_NN of_IN text_NN -LRB-_-LRB- 17_CD ,_, 16_CD ,_, 26_CD ,_, 29_CD -RRB-_-RRB- ._.
+In_IN later_JJ years_NNS ,_, this_DT definition_NN was_VBD generalized_VBN to_TO a_DT multipoint_JJ rating_NN scale_NN where_WRB ratings_NNS are_VBP predicted_VBN on_IN a_DT set_NN of_IN aspects_NNS =_JJ -_: =[_NN 14_CD ,_, 24_CD ,_, 22_CD ,_, 13_CD ,_, 9_CD ,_, 8_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN contrast_NN to_TO structured_JJ summarization_NN approaches_NNS ,_, studies_NNS addressing_VBG unstructured_JJ summarization_NN of_IN opinions_NNS are_VBP notably_RB fewer_JJR and_CC abstractive_JJ approaches_NNS are_VBP less_RBR common_JJ than_IN extractive_JJ approaches_NNS ._.

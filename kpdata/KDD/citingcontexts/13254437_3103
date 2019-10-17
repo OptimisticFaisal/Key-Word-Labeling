@@ -1,0 +1,6 @@
+approach_NN such_JJ as_IN Latent_JJ Dirichlet_NN Allocation_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN we_PRP propose_VBP a_DT flexible_JJ model_NN that_WDT addresses_VBZ all_DT of_IN these_DT concerns_NNS in_IN a_DT principled_JJ fashion_NN ,_, namely_RB by_IN means_NNS of_IN directed_JJ graphical_JJ models_NNS =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Its_PRP$ main_JJ structure_NN is_VBZ given_VBN in_IN the_DT diagram_NN of_IN Figure_NNP 3_CD ._.
+There_EX are_VBP two_CD basic_JJ use_NN cases_NNS for_IN such_JJ a_DT model_NN ._.
+In_IN the_DT first_JJ use_NN case_NN ,_, each_DT domain_NN already_RB has_VBZ an_DT existing_VBG personalization_NN system_NN ._.
+This_DT model_NN

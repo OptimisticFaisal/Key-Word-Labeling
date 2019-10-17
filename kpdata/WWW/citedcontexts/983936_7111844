@@ -1,0 +1,4 @@
+cted_VBN in_IN the_DT form_NN of_IN ad_NN impressions_NNS -LRB-_-LRB- displays_NNS -RRB-_-RRB- and_CC clicks_NNS ._.
+Another_DT line_NN of_IN work_NN uses_NNS click_VBP data_NNS to_TO produce_VB a_DT CTR_NN estimate_NN for_IN an_DT ad_NN ,_, independent_JJ of_IN the_DT page_NN -LRB-_-LRB- or_CC query_NN ,_, in_IN the_DT Sponsored_NNP Search_VB scenario_NN =_JJ -_: =[_NN 19_CD ,_, 17_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT CTR_NN is_VBZ estimated_VBN based_VBN on_IN features_NNS extracted_VBN from_IN the_DT ads_NNS that_WDT are_VBP then_RB used_VBN in_IN a_DT learning_NN framework_NN to_TO build_VB models_NNS for_IN estimation_NN of_IN the_DT CTR_NN of_IN unseen_JJ ads_NNS ._.
+In_IN this_DT approach_NN the_DT assumption_NN is_VBZ

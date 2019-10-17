@@ -1,0 +1,4 @@
+first_JJ order_NN ._.
+The_DT FFSM_NN -LRB-_-LRB- HWP03_NN -RRB-_-RRB- method_NN improves_VBZ the_DT performance_NN of_IN gSpan_NN by_IN reducing_VBG redundant_JJ subgraph_JJ candidates_NNS through_IN a_DT vertical_JJ search_NN scheme_NN with_IN join_VB and_CC extension_NN operations_NNS ._.
+Finally_RB ,_, the_DT SPIN_NN =_JJ -_: =_JJ -LRB-_-LRB- HWPY04_NN -RRB-_-RRB- -_: =_JJ -_: algorithm_NN overcomes_VBZ the_DT problem_NN of_IN cycles_NNS in_IN graph_NN by_IN generating_VBG the_DT frequent_JJ substructures_NNS hierarchically_RB in_IN two_CD steps_NNS :_: starting_VBG from_IN trees_NNS ,_, and_CC then_RB extending_VBG the_DT frequent_JJ trees_NNS to_TO graphs_NNS ._.
+All_PDT the_DT

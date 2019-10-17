@@ -1,0 +1,4 @@
+e_LS database_NN ._.
+This_DT can_MD be_VB accomplished_VBN by_IN storing_VBG the_DT top_JJ n_NN most_RBS confident_JJ extraction_NN results_NNS -LRB-_-LRB- along_IN with_IN corresponding_JJ probabilities_NNS or_CC confidence_NN measures_NNS -RRB-_-RRB- for_IN each_DT desired_VBN record_NN ._.
+Gupta_NNP and_CC Sarawagi_NNP =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: leverage_NN confidence_NN value_NN outputs_NNS from_IN the_DT extraction_NN models_NNS to_TO improve_VB query_NN results_NNS on_IN databases_NNS containing_VBG uncertainty_NN ._.
+Fundamentally_RB the_DT problem_NN is_VBZ canonicalization_NN because_IN the_DT system_NN is_VBZ faced_VBN wi_IN

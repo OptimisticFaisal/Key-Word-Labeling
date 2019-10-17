@@ -1,0 +1,5 @@
+resampling_VBG is_VBZ performed_VBN ._.
+Pruning_VBG the_DT individual_JJ trees_NNS resulted_VBD in_IN decreased_VBN ensemble_NN accuracy_NN ,_, even_RB though_IN the_DT accuracy_NN of_IN the_DT trees_NNS themselves_PRP was_VBD increased_VBN ._.
+This_DT is_VBZ consistent_JJ with_IN thesndings_NNS of_IN -LRB-_-LRB- =_JJ -_: =_JJ 2_CD -_: =_JJ -1_CD -RRB-_-RRB- who_WP concluded_VBD that_IN overtraining_VBG the_DT individual_JJ classiers_NNS was_VBD a_DT useful_JJ ensemble_NN strategy_NN ._.
+Simple_JJ variations_NNS on_IN majority_NN voting_NN had_VBD little_JJ or_CC no_DT effect_NN on_IN ensemble_NN accuracy_NN ._.
+Weighting_VBG the_DT votes_NNS base_NN

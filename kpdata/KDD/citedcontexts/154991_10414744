@@ -1,0 +1,6 @@
+o_NN locate_VB a_DT word_NN sense_NN in_IN semantic_JJ space_NN ._.
+Word_NN sense_NN and_CC vector_NN space_NN models_NNS have_VBP been_VBN related_VBN in_IN two_CD ways_NNS ._.
+On_IN the_DT one_CD hand_NN ,_, vector_NN space_NN models_NNS have_VBP been_VBN used_VBN for_IN inducing_VBG word_NN senses_NNS -LRB-_-LRB- Schütze_NNP ,_, 1998_CD ;_: =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =--RRB-_NN ._.
+The_DT different_JJ meanings_NNS of_IN a_DT word_NN are_VBP obtained_VBN by_IN clustering_NN vectors_NNS ._.
+The_DT clusters_NNS must_MD then_RB be_VB mapped_VBN to_TO an_DT inventory_NN if_IN a_DT standard_JJ WSD_NN dataset_NN is_VBZ used_VBN for_IN evaluation_NN ._.
+In_IN contrast_NN ,_, we_PRP use_VBP sense_NN tag_NN

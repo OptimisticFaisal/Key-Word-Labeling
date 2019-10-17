@@ -1,0 +1,4 @@
+potential_JJ function_NN V_NN in_IN the_DT first_JJ term_NN of_IN Eqn_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+In_IN previous_JJ work_NN ,_, only_RB must-linked_JJ points_NNS were_VBD considered_VBN in_IN the_DT neighborhood_NN of_IN a_DT Markov_NNP Random_NNP Field_NNP with_IN the_DT generalized_JJ Potts_NNP potential_JJ function_NN =_JJ -_: =[_NN 12_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT potential_JJ function_NN ,_, the_DT must-link_JJ penalty_NN is_VBZ fM_NN -LRB-_-LRB- xi_NN ,_, xj_NN -RRB-_-RRB- =_JJ wi_NN j_NN -LRB-_-LRB- li_NN =_JJ l_NN j_NN -RRB-_-RRB- ,_, where_WRB wi_FW j_FW is_VBZ the_DT cost_NN for_IN violating_VBG the_DT must-link_JJ constraint_NN -LRB-_-LRB- i_FW ,_, j_NN -RRB-_-RRB- ,_, ands_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- is_VBZ the_DT indicator_NN function_NN -LRB-_-LRB- s_NN -LRB-_-LRB- true_JJ -RRB-_-RRB- =_JJ

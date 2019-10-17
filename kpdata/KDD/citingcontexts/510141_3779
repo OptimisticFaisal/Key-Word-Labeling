@@ -1,0 +1,4 @@
+s_NN with_IN such_JJ a_DT high_JJ confidence_NN ._.
+If_IN we_PRP set_VBD a_DT lower_JJR confidence_NN ,_, say_VBP 50_CD %_NN ,_, we_PRP will_MD find_VB many_JJ rules_NNS that_WDT have_VBP the_DT confidence_NN between_IN 50-95_CD %_NN for_IN the_DT `_`` non-weak_JJ '_'' class_NN and_CC such_JJ rules_NNS are_VBP meaningless_JJ -LRB-_-LRB- see_VB also_RB =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+We_PRP solve_VBP these_DT problems_NNS by_IN using_VBG different_JJ minsups_NNS and_CC minconfs_NNS for_IN rules_NNS of_IN different_JJ classes_NNS ._.
+For_IN minimum_NN supports_VBZ ,_, we_PRP onlysrequire_VBP the_DT user_NN to_TO specify_VB one_CD total_JJ or_CC overall_JJ minimum_JJ support_NN -LRB-_-LRB- calle_NN

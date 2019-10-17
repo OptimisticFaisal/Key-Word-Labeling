@@ -1,0 +1,4 @@
+do_VB not_RB receive_VB any_DT links_NNS or_CC results_NNS of_IN form_NN submissions_NNS ?_.
+Moreover_RB ,_, samples_NNS are_VBP biased_VBN towards_IN the_DT selection_NN policy_NN ._.
+Proxy_NN or_CC ISP_NN traces_NNS are_VBP biased_VBN towards_IN the_DT pages_NNS visited_VBN by_IN a_DT limited_JJ set_NN of_IN users_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, web_NN crawls_VBZ are_VBP restricted_JJ to_TO linked_VBN public_JJ pages_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- and_CC search_NN engine_NN collections_NNS focus_VBP on_IN highly_RB ranked_VBN pages_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+We_PRP assume_VBP that_IN collections_NNS generated_VBN by_IN exhaustive_JJ harvests_NNS of_IN national_JJ webs_NNS are_VBP

@@ -1,0 +1,4 @@
+can_MD be_VB captured_VBN in_IN a_DT small_JJ number_NN of_IN terms_NNS ._.
+Transformations_NNS that_WDT have_VBP been_VBN proposed_VBN include_VBP various_JJ spectral_JJ approaches_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, singular_JJ value_NN decomposition_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, wavelets_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC piecewise_NN polynomials_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN we_PRP concentrate_VBP on_IN fast_JJ fourier_NN transforms_VBZ -LRB-_-LRB- FFTs_NNS -RRB-_-RRB- ,_, probably_RB the_DT most_RBS popular_JJ transformation_NN used_VBN in_IN time_NN series_NN data_NNS mining_NN -LRB-_-LRB- for_IN example_NN ,_, see_VB -LRB-_-LRB- 1_CD ,_, 6_CD ,_, 17_CD ,_, 19_CD ,_, 15_CD ,_, 18_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+The_DT basic_JJ method_NN ,_,

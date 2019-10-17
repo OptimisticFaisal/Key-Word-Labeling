@@ -1,0 +1,6 @@
+s_NN context_NN ._.
+6.7_CD Miscellaneous_NNPS In_IN this_DT section_NN ,_, we_PRP give_VBP a_DT potpourri_NN of_IN algorithmic_JJ results_NNS for_IN data_NN streams_NNS ._.
+Data_NNP Mining_NNP Decision_NNP trees_NNS are_VBP another_DT form_NN of_IN synopsis_NN used_VBN for_IN prediction_NN ._.
+Domingos_NNP et_FW al._FW =_SYM -_: =[_NN 27_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP studied_VBN the_DT problem_NN of_IN maintaining_VBG decision_NN trees_NNS over_IN data_NNS streams_NNS ._.
+Clustering_NN is_VBZ yet_RB another_DT way_NN to_TO summarize_VB data_NNS ._.
+Consider_VB the_DT k-median_NN formulation_NN for_IN clustering_NN :_: Given_VBN n_NN data_NN points_NNS in_IN a_DT m_NN

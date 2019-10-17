@@ -1,0 +1,4 @@
+-LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+RUL_NN -LRB-_-LRB- RDF_NNP Update_NNP Language_NN -RRB-_-RRB- -LRB-_-LRB- 21_CD -RRB-_-RRB- is_VBZ based_VBN on_IN the_DT RQL_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- query_NN language_NN and_CC provides_VBZ update_VB functionality_NN for_IN RDFSuite_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+There_EX have_VBP been_VBN several_JJ languages_NNS proposed_VBN for_IN ECA_NNP rules_NNS on_IN XML_NN data_NN =_JJ -_: =[_NN 7_CD ,_, 4_CD ,_, 3_CD ,_, 8_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Active_JJ XML_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- provides_VBZ similar_JJ functionality_NN to_TO that_DT provided_VBN by_IN XML_NN ECA_NN rules_NNS by_IN embedding_VBG calls_NNS to_TO web_NN services_NNS within_IN XML_NN documents_NNS via_IN special_JJ tags_NNS ,_, aiming_VBG to_TO integrate_VB distributed_VBN data_NNS and_CC dis_NN

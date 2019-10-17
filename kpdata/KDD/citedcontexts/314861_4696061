@@ -1,0 +1,4 @@
+When_WRB we_PRP process_VBP Web_NN documents_NNS ,_, noise_NN data_NNS is_VBZ also_RB in_IN the_DT input_NN data_NNS ._.
+Therefore_RB ,_, without_IN removing_VBG such_JJ data_NNS ,_, the_DT efficiency_NN of_IN feature_NN extraction_NN and_CC finally_RB text_NN classification_NN is_VBZ certainly_RB degraded_VBN =_JJ -_: =[_NN 4_CD ,_, 6_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX are_VBP two_CD types_NNS of_IN tokens_NNS --_: single_JJ token_JJ and_CC multiple_JJ token_JJ --_: which_WDT are_VBP used_VBN in_IN the_DT classification_NN tasks_NNS ._.
+Single_JJ tokens_NNS are_VBP most_RBS frequently_RB used_VBN ,_, where_WRB information_NN about_IN dependency_NN and_CC relative_JJ

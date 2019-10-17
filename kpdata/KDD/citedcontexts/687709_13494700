@@ -1,0 +1,3 @@
+For_IN static_JJ graphs_NNS ,_, the_DT most_RBS popular_JJ choices_NNS include_VBP SVD\/PCA_NN -LRB-_-LRB- 11_CD ,_, 18_CD -RRB-_-RRB- and_CC random_JJ projection_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+For_IN dynamic_JJ graphs_NNS ,_, a_DT lot_NN of_IN SVD_NNP based_VBN techniques_NNS have_VBP been_VBN proposed_VBN ,_, such_JJ as_IN dynamic_JJ tensor_NN analysis_NN =_JJ -_: =[_NN 33_CD -RRB-_-RRB- -_: =_JJ -_: ,_, incremental_JJ spectral_JJ clustering_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- etc._NN ._.
+More_RBR recent_JJ work_NN in_IN this_DT line_NN includes_VBZ example-based_JJ low-rank_JJ approximation_NN -LRB-_-LRB- 36_CD -RRB-_-RRB- ,_, non-negative_JJ matrix_NN factorization_NN -LRB-_-LRB- 40_CD -RRB-_-RRB- ,_, etc._NN 7_CD Conclusions_NNS In_IN this_DT paper_NN ,_,

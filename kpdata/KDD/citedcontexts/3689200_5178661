@@ -1,0 +1,3 @@
+r_NN computing_NN various_JJ aggregates_NNS ,_, such_JJ as_IN the_DT median_NN and_CC number_NN of_IN distinct_JJ elements_NNS in_IN a_DT sensor_NN network_NN ,_, and_CC considered_VBN multi-round_JJ distributed_VBN algorithms_NNS for_IN that_DT purpose_NN ._.
+Guha_NNP ,_, Gunopulos_NNP ,_, and_CC Koudas_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: consider_VB the_DT problem_NN of_IN computing_VBG correlations_NNS between_IN multiple_JJ vectors_NNS ._.
+The_DT vectors_NNS arrive_VBP as_IN multiple_JJ data_NNS streams_NNS ,_, and_CC within_IN each_DT stream_NN ,_, the_DT elements_NNS of_IN a_DT vector_NN arrive_VB as_IN updates_NNS to_TO existing_VBG va_NN

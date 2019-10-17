@@ -1,0 +1,3 @@
+h_NN topic_NN is_VBZ visualized_VBN by_IN simply_RB listing_VBG the_DT words_NNS in_IN order_NN of_IN decreasing_VBG probability_NN and_CC the_DT ``_`` meaning_NN ''_'' of_IN each_DT topic_NN is_VBZ reflected_VBN by_IN the_DT top_JJ 10_CD to_TO 20_CD words_NNS in_IN that_DT list_NN ._.
+The_DT Author-Topic_NNP Model_NNP -LRB-_-LRB- ATM_NNP -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Steyvers_FW et_FW al._FW ,_, 2004_CD -_: =_JJ -_: ;_: Rosen-Zvi_NNP et_FW al._FW ,_, 2004_CD -RRB-_-RRB- extends_VBZ the_DT basic_JJ topical_JJ models_NNS to_TO include_VB author_NN information_NN in_IN which_WDT topics_NNS and_CC authors_NNS are_VBP modeled_VBN jointly_RB ._.
+Each_DT author_NN is_VBZ a_DT multinomial_JJ distribution_NN over_IN topics_NNS and_CC each_DT

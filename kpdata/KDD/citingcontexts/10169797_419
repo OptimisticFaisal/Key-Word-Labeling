@@ -1,0 +1,4 @@
+vent_VB bursts_NNS B_NN under_IN this_DT model_NN :_: Q_NNP ``_`` PK_NN s_NN ∈_NN B_NN k_NN =_JJ 1_CD πk_NN ''_'' ·_NN like_IN -LRB-_-LRB- s_NNS |_CD ck_NN ,_, θ_NN -RRB-_-RRB- ._.
+Unfortunately_RB ,_, no_DT closed-form_JJ solutions_NNS exist_VBP for_IN such_JJ maxima_NNS ._.
+Here_RB ,_, as_IN sketched_VBN in_IN Algorithm_NN 1_CD ,_, an_DT expectation_NN maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: algorithm_NN can_MD be_VB used_VBN to_TO iteratively_RB search_VB for_IN the_DT maxima_NNS -LRB-_-LRB- in_IN the_DT pseudo_JJ code_NN below_IN ,_, Q_NNP denotes_VBZ the_DT objective_JJ function_NN over_IN the_DT posterior_JJ distribution_NN using_VBG current_JJ parameter_NN estimation_NN θold_NN -RRB-_-RRB- ._.
+Input_NN :_:

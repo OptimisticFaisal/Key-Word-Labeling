@@ -1,0 +1,5 @@
+o_NN be_VB effective_JJ not_RB only_RB by_IN experimental_JJ results_NNS but_CC also_RB by_IN the_DT theoretical_JJ approximation_NN bound_VBD ._.
+Data_NN Categorization_NN and_CC Comparison_NN :_: Our_PRP$ work_NN is_VBZ closely_RB related_JJ to_TO the_DT effort_NN by_IN Siebesetal_NNP ._.
+-LRB-_-LRB- 15_CD -RRB-_-RRB- -LRB-_-LRB- 17_CD -RRB-_-RRB- =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, they_PRP propose_VBP to_TO recognize_VB significant_JJ itemsets_NNS by_IN their_PRP$ ability_NN to_TO compress_VB a_DT database_NN based_VBN on_IN the_DT MDL_NN principles_NNS ._.
+The_DT compression_NN strategy_NN can_MD be_VB explained_VBN as_IN covering_VBG the_DT entire_JJ dat_NN

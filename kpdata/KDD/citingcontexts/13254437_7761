@@ -1,0 +1,5 @@
+tlook_NN towards_IN more_RBR advanced_JJ user_NN modeling_NN techniques_NNS ._.
+2_CD ._.
+BACKGROUND_NN Latent_JJ variable_JJ graphical_JJ models_NNS have_VBP found_VBN great_JJ success_NN in_IN text_NN analysis_NN applications_NNS ;_: of_IN which_WDT Latent_JJ Dirichlet_NNP Allocation_NNP -LRB-_-LRB- LDA_NNP -RRB-_-RRB- =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ probably_RB the_DT most_RBS well_RB known_VBN model_NN ._.
+we_PRP provide_VBP a_DT brief_JJ overview_NN of_IN LDA_NN here_RB since_IN our_PRP$ proposed_VBN model_NN has_VBZ LDA_NNP as_IN a_DT sub-model_NN ._.
+2.1_CD Latent_JJ Dirichlet_NNP Allocation_NNP Latent_JJ Dirichlet_NN Allocation_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- aims_VBZ to_TO

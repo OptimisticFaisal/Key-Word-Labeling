@@ -1,0 +1,4 @@
+d_NN fit_NN is_VBZ sufficient_JJ ._.
+2.1_CD Collapsed_NNP Representation_NNP A_NNP direct_JJ Gibbs_NNP sampler_NN using_VBG -LRB-_-LRB- 1_LS -RRB-_-RRB- does_VBZ not_RB mix_VB sufficiently_RB quickly_RB and_CC an_DT improved_VBN strategy_NN is_VBZ to_TO integrate_VB out_RP Θ_NN and_CC ψ_NN ._.
+Moreover_RB ,_, collapsed_VBD sampling_NN =_JJ -_: =[_NN 10_CD ,_, 9_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: tends_VBZ to_TO lead_VB to_TO somewhat_RB better_JJR models_NNS than_IN a_DT variational_JJ approach_NN ._.
+Most_RBS importantly_RB ,_, it_PRP allows_VBZ for_IN a_DT much_RB more_RBR compact_JJ representation_NN of_IN the_DT model_NN whenever_WRB the_DT number_NN of_IN parameters_NNS is_VBZ large_JJ --_: it_PRP is_VBZ

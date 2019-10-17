@@ -1,0 +1,5 @@
+._.
+As_IN our_PRP$ experimental_JJ evidence_NN shows_NNS ,_, sharing_VBG information_NN among_IN abstract_JJ states_NNS by_IN means_NNS of_IN unification_NN can_MD lead_VB to_TO more_RBR accurate_JJ model_NN estimation_NN ._.
+The_DT same_JJ holds_VBZ for_IN relational_JJ Markov_NNP models_NNS -LRB-_-LRB- RMMs_NNS -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Anderson_NNP ,_, Domingos_NNP ,_, &_CC Weld_NNP ,_, 2002_CD -_: =--RRB-_NN to_TO which_WDT LOHMMs_NNS are_VBP most_RBS closely_RB related_JJ ._.
+In_IN RMMs_NNS ,_, states_NNS can_MD be_VB of_IN different_JJ types_NNS ,_, with_IN each_DT type_NN described_VBN by_IN a_DT different_JJ set_NN of_IN variables_NNS ._.
+The_DT domain_NN of_IN each_DT variable_NN can_MD be_VB hierarchically_RB struc_JJ

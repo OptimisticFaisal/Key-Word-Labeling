@@ -1,0 +1,4 @@
+styles_NNS ._.
+Several_JJ recent_JJ works_NNS attempted_VBN to_TO mine_VB the_DT data_NNS in_IN the_DT Web_NN pages_NNS automatically_RB using_VBG unsupervised_JJ learning_NN approaches_NNS such_JJ as_IN the_DT clustering_NN and_CC grammar_NN induction_NN ,_, or_CC heuristic_NN rules_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- -LRB-_-LRB- 3_CD -RRB-_-RRB- -LRB-_-LRB- 4_LS -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS of_IN these_DT techniques_NNS require_VBP well-formatted_JJ tables_NNS ,_, with_IN at_IN least_JJS two_CD data_NNS objects_NNS -LRB-_-LRB- records_NNS -RRB-_-RRB- appearing_VBG in_IN a_DT page_NN ._.
+Thus_RB their_PRP$ function_NN is_VBZ largely_RB similar_JJ to_TO table_NN detection_NN and_CC data_NN extractionsfr_NN

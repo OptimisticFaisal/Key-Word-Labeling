@@ -1,0 +1,4 @@
+7_CD %_NN of_IN NP-hard_NN to_TO compute_VB optimal_JJ ._.
+structure_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- -LRB-_-LRB- -LRB-_-LRB- 0.962_CD ,_, 0.107_CD ;_: 0.107_CD ,_, 0.962_CD -RRB-_-RRB- -RRB-_-RRB- and_CC a_DT core-periphery_JJ network_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- -LRB-_-LRB- -LRB-_-LRB- 0.962_CD ,_, 0.535_CD ;_: 0.535_CD ,_, 0.107_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Notice_NNP that_IN Forest_NNP Fire_NNP generates_VBZ a_DT scale_NN free_JJ network_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP then_RB simulate_VBP cascades_NNS on_IN G_NN ∗_NN using_VBG the_DT generative_JJ model_NN defined_VBN in_IN Section_NN 2.1_CD that_WDT is_VBZ parameterized_VBN by_IN α_NN ,_, which_WDT controls_VBZ how_WRB quickly_RB a_DT cascade_NN spreads_NNS ,_, and_CC β_NN ,_, that_WDT controls_VBZ how_WRB far_RB a_DT cascade_NN sp_NN

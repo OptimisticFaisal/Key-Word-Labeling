@@ -1,0 +1,4 @@
+patterns_NNS ._.
+Lossy_JJ compression_NN of_IN patterns_NNS include_VBP maximal_JJ patterns_NNS by_IN Bayardo_NN -LRB-_-LRB- Bay98_NN -RRB-_-RRB- -RRB-_-RRB- ,_, top-k_NN patterns_NNS by_IN Wang_NNP ,_, Han_NNP ,_, Lu_NNP ,_, and_CC Tsvetkov_NN -LRB-_-LRB- WHLT05_NN -RRB-_-RRB- ,_, and_CC error-tolerant_JJ patterns_NNS by_IN Yang_NNP ,_, Fayyad_NNP ,_, and_CC Bradley_NNP =_SYM -_: =_JJ -LRB-_-LRB- YFB01_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+Afrati_NNP ,_, Gionis_NNP ,_, and_CC Mannila_NN -LRB-_-LRB- AGM04_NN -RRB-_-RRB- proposed_VBD to_TO use_VB K_NN itemsets_NNS to_TO cover_VB a_DT collection_NN of_IN frequent_JJ itemsets_NNS ._.
+Yan_NNP ,_, Cheng_NNP ,_, Xin_NNP and_CC Han_NNP proposed_VBD a_DT profile-based_JJ approach_NN -LRB-_-LRB- YCXH05_NN -RRB-_-RRB- and_CC Xin_NNP ,_, Han_NNP ,_, Yan_NNP ,_, and_CC C_NN

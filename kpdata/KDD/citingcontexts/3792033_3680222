@@ -1,0 +1,5 @@
+in_IN this_DT context_NN are_VBP DPML_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC DSCL_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+The_DT XML-based_JJ syntax_NN used_VBN by_IN Yale_NNP is_VBZ suitable_JJ for_IN distributed_VBN processing_NN as_RB well_RB ;_: this_DT is_VBZ a_DT direction_NN for_IN future_JJ work_NN ._.
+Finally_RB ,_, the_DT new_JJ PMML_NN version_NN 3.0_CD 10_CD =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: includes_VBZ facilities_NNS to_TO model_VB data_NNS transformations_NNS executed_VBN on_IN a_DT data_NNS set_VBN before_IN mining_NN ._.
+PMML_NN is_VBZ not_RB process-oriented_JJ but_CC provides_VBZ a_DT standard_NN to_TO describe_VB machine-learned_JJ models_NNS in_IN XML_NN ._.
+Future_JJ work_NN wil_NN

@@ -1,0 +1,4 @@
+king_NN of_IN matchings_NNS ._.
+We_PRP build_VBP an_DT analytic_JJ model_NN to_TO help_VB us_PRP justify_VB the_DT effectiveness_NN of_IN this_DT framework_NN and_CC predict_VB its_PRP$ robustness_NN ._.
+We_PRP note_VBP that_IN ,_, our_PRP$ data-ensemble_JJ idea_NN is_VBZ inspired_VBN by_IN bagging_VBG predictors_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: in_IN machine_NN learning_NN --_: That_DT is_VBZ ,_, we_PRP are_VBP essentially_RB applying_VBG bagging_VBG techniques_NNS in_IN a_DT new_JJ scenario_NN of_IN mining_NN matchings_NNS ._.
+Bagging_VBG predictors_NNS is_VBZ a_DT method_NN for_IN maintaining_VBG the_DT robustness_NN of_IN ``_`` unstable_JJ ''_'' classif_NN

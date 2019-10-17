@@ -1,0 +1,5 @@
+dered_VBN data_NNS tree_NN ._.
+The_DT algorithm_NN counts_VBZ each_DT occurrence_NN in_IN a_DT data_NN tree_NN ,_, but_CC can_MD easily_RB also_RB be_VB used_VBN for_IN partition_NN counting_NN ._.
+It_PRP uses_VBZ an_DT efficient_JJ scheme_NN for_IN generating_VBG and_CC counting_VBG ordered_VBN trees_NNS ._.
+--_: Zaki_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: developed_VBD an_DT algorithm_NN for_IN discovering_VBG embedded_JJ subtrees_NNS in_IN a_DT node_NN labeled_VBN ,_, ordered_VBN data_NNS tree_NN ._.
+The_DT algorithm_NN counts_VBZ occurrences_NNS in_IN partitions_NNS ,_, but_CC can_MD easily_RB also_RB be_VB used_VBN to_TO count_VB occurrences_NNS separat_NN

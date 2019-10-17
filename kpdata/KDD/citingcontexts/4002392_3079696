@@ -1,0 +1,4 @@
+round_VB the_DT model_NN 's_POS predicted_VBN position_NN ._.
+This_DT approach_NN has_VBZ also_RB been_VBN used_VBN in_IN conjunction_NN with_IN kd-tree_JJ structures_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- to_TO quickly_RB retrieve_VB the_DT candidate_NN observations_NNS near_IN the_DT predicted_VBN position_NN of_IN a_DT track_NN =_JJ -_: =[_NN 11_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP should_MD be_VB noted_VBN that_IN there_EX are_VBP several_JJ potential_JJ disadvantages_NNS of_IN this_DT type_NN of_IN approach_NN that_WDT arise_VBP from_IN the_DT sequential_JJ nature_NN of_IN the_DT search_NN itself_PRP ._.
+It_PRP does_VBZ not_RB use_VB evidence_NN from_IN later_JJ time_NN steps_NNS

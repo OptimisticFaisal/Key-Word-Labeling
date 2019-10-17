@@ -1,0 +1,3 @@
+ching_VBG score_NN differently_RB when_WRB u_NN or_CC s_NN is_VBZ missing_VBG an_DT attribute_NN value_NN than_IN if_IN they_PRP disagree_VBP on_IN that_DT attribute_NN ._.
+For_IN categorical_JJ attributes_NNS ,_, we_PRP use_VBP binary_JJ loss_NN rather_RB than_IN a_DT string_NN similarity_NN measure_NN -LRB-_-LRB- c.f._NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT reason_NN for_IN this_DT decision_NN was_VBD that_IN while_IN string_NN similarity_NN measure_NN can_MD be_VB useful_JJ in_IN certain_JJ situations_NNS -LRB-_-LRB- e.g._FW ,_, product_NN lines_NNS `_`` canon_NN powershot_NN '_'' and_CC `_`` powershot_NN '_'' are_VBP similar_JJ -RRB-_-RRB- ,_, we_PRP found_VBD it_PRP to_TO be_VB detr_NN

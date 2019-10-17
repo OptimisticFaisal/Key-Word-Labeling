@@ -1,0 +1,4 @@
+lting_VBG in_RP as_IN many_JJ people_NNS as_IN possible_JJ having_VBG heard_VBN favorable_JJ accounts_NNS of_IN the_DT new_JJ product_NN ._.
+The_DT problem_NN of_IN influence_NN maximization_NN has_VBZ been_VBN widely_RB studied_VBN in_IN static_JJ networks_NNS -LRB-_-LRB- Abrahamson_NNP &_CC Rosenkopf_NNP ,_, 1997_CD ;_: =_JJ -_: =_JJ Kempe_NNP et_FW al._FW ,_, 2003_CD -_: =_JJ -_: ;_: Valente_NNP ,_, 1995_CD -RRB-_-RRB- ._.
+Because_IN the_DT problem_NN of_IN selecting_VBG the_DT optimal_JJ initial_JJ subset_NN is_VBZ NP-Hard_JJ ,_, approximation_NN algorithms_NNS must_MD be_VB used_VBN ._.
+The_DT standard_JJ approach_NN is_VBZ a_DT greedy_JJ one_CD ,_, whereby_WRB each_DT node_NN is_VBZ measured_VBN an_DT

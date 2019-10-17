@@ -1,0 +1,5 @@
+emset_VBN by_IN contradiction_NN ._.
+The_DT second_JJ statement_NN is_VBZ easily_RB proved_VBN by_IN inclusion-exclusion_NN principle_NN ._.
+There_EX exist_VBP well-known_JJ efficient_JJ algorithms_NNS to_TO compute_VB all_PDT the_DT itemsets_NNS from_IN large_JJ binary_JJ tables_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 19_CD ,_, 3_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Provided_VBN that_IN the_DT data_NNS are_VBP sparse_JJ ,_, the_DT running_VBG times_NNS of_IN these_DT algorithms_NNS have_VBP been_VBN found_VBN in_IN experimental_JJ analyses_NNS to_TO be_VB linear_JJ in_IN both_CC the_DT size_NN of_IN the_DT table_NN and_CC the_DT number_NN of_IN frequent_JJ itemsets_NNS ._.
+Thu_NN

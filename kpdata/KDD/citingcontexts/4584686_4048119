@@ -1,0 +1,5 @@
+ibe_VB the_DT difference_NN ._.
+Emerging_VBG patterns_NNS provide_VBP only_RB a_DT partial_JJ answer_NN to_TO this_DT question_NN ._.
+In_IN previous_JJ work_NN ,_, we_PRP showed_VBD that_IN the_DT data_NNS distribution_NN can_MD be_VB captured_VBN in_IN a_DT pattern-based_JJ model_NN using_VBG compression_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB ,_, we_PRP extend_VBP this_DT approach_NN to_TO define_VB a_DT generic_JJ dissimilarity_NN measure_NN on_IN databases_NNS ._.
+Moreover_RB ,_, we_PRP show_VBP that_IN this_DT approach_NN can_MD identify_VB those_DT patterns_NNS that_WDT characterise_VBP the_DT differences_NNS between_IN two_CD d_NN

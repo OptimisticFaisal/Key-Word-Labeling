@@ -1,0 +1,4 @@
+ifferent_JJ measures_NNS of_IN interestingness_NN exist_VBP -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+We_PRP chose_VBD the_DT most_RBS common_JJ support_NN and_CC confidence_NN which_WDT measure_NN frequency_NN and_CC conditional_JJ probability_NN respectively_RB ._.
+But_CC other_JJ measures_NNS of_IN interestingness_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, such_JJ as_IN lift_NN ,_, cosine_NN ,_, conviction_NN ,_, etc._NN ,_, are_VBP also_RB possible_JJ and_CC are_VBP available_JJ to_TO the_DT analysis_NN ._.
+The_DT most_RBS popular_JJ algorithm_NN for_IN discovering_VBG association_NN rules_NNS is_VBZ Apriori_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- for_IN which_WDT many_JJ implementation_NN

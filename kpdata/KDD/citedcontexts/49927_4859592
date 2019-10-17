@@ -1,0 +1,3 @@
+ilistic_JJ approaches_NNS -LRB-_-LRB- 12_CD ,_, 5_CD -RRB-_-RRB- ,_, multidimensional_JJ histograms_NNS -LRB-_-LRB- 14_CD ,_, 18_CD -RRB-_-RRB- and_CC sampling_NN -LRB-_-LRB- 10_CD ,_, 9_CD -RRB-_-RRB- ._.
+Mixtures_NNS of_IN Gaussian_JJ independence_NN models_NNS were_VBD proposed_VBN for_IN query_NN selectivity_NN estimation_NN on_IN real-valued_JJ data_NNS sets_VBZ =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT experiments_NNS reported_VBN in_IN these_DT and_CC related_JJ papers_NNS only_RB deal_VBP with_IN relatively_RB low_JJ dimensional_JJ data_NN sets_NNS -LRB-_-LRB- order_NN of_IN 10_CD attributes_NNS -RRB-_-RRB- ,_, 165_CD while_IN the_DT methods_NNS we_PRP describe_VBP here_RB can_MD answer_VB queries_NNS directly_RB

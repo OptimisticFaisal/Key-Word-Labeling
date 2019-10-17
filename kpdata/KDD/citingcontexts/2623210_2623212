@@ -1,0 +1,6 @@
+l_NN association_NN rule_NN is_VBZ also_RB known_VBN as_IN binary_JJ association_NN rule_NN ._.
+An_DT example_NN of_IN such_JJ rule_NN is_VBZ given_VBN at_IN Section_NNP 1.1.4_CD ._.
+Before_IN the_DT introduction_NN of_IN the_DT Apriori_NNP algorithm_NN ,_, two_CD other_JJ algorithms_NNS AIS_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC SETM_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP introduced_VBN for_IN this_DT problem_NN ,_, but_CC they_PRP are_VBP not_RB as_RB efficient_JJ as_IN Apriori_NNP ._.
+The_DT formal_JJ statement_NN of_IN the_DT problem_NN in_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- is_VBZ as_IN follows_VBZ ._.
+The_DT Apriori_NNP algorithm_NN shares_VBZ the_DT same_JJ setting_NN ._.
+Let_VB I_PRP be_VB a_DT set_NN of_IN l_NN

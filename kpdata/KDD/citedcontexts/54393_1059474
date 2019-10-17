@@ -1,0 +1,5 @@
+problem_NN here_RB can_MD be_VB modelled_VBN as_IN a_DT variation_NN of_IN secured_JJ multiparty_JJ computation_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+In_IN the_DT second_JJ category_NN -LRB-_-LRB- B2C_NN -RRB-_-RRB- ,_, a_DT system_NN consists_VBZ of_IN one_CD data_NN miner_NN -LRB-_-LRB- business_NN -RRB-_-RRB- and_CC multiple_JJ data_NNS providers_NNS -LRB-_-LRB- customers_NNS -RRB-_-RRB- =_JJ -_: =[_NN 8_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Each_DT data_NNS provider_NN holds_VBZ only_RB one_CD transaction_NN ._.
+Association_NN rule_NN mining_NN is_VBZ performed_VBN by_IN the_DT data_NNS miner_NN on_IN the_DT aggregated_JJ transactions_NNS provided_VBN by_IN data_NNS providers_NNS ._.
+On-line_JJ survey_NN is_VBZ a_DT typical_JJ example_NN o_NN

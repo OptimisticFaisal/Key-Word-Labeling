@@ -1,0 +1,5 @@
+sed_FW nebo_FW bag-of-words_NNS ,_, dále_FW jen_FW BOW_NN -RRB-_-RRB- ._.
+Nicméně_FW rozšířením_FW BOW_NN reprezentacelze_NN celkovou_NN úspěšnost_NN klasifikace_NN dále_NN zlepšit_NN ._.
+Jednou_NNP z_SYM možností_FW je_FW použít_FW k_NN tomuto_FW účelu_FW n-gramy_NN -LRB-_-LRB- 15_CD ,_, 20_CD ,_, 5_CD -RRB-_-RRB- nebo_NN itemsety_NN =_JJ -_: =[_NN 12_CD ,_, 13_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+N-gram_NN -LRB-_-LRB- v_LS případě_FW slov_FW označovaný_NN také_NN jako_NN fráze_NN -RRB-_-RRB- je_FW obecně_FW sekvence_NN n_NN prvků_NN z_SYM dané_FW posloupnosti_FW ,_, které_FW následují_FW po_FW sobě_FW a_DT zachovávají_JJ tedy_NN své_FW původní_FW pořadí_NN ._.
+Při_NN zpracování_NN textu_NN mohou_NN být_NN prvky_NN

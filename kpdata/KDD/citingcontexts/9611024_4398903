@@ -1,0 +1,5 @@
+have_VB millions_NNS of_IN documents_NNS ._.
+Also_RB noteworthy_JJ is_VBZ the_DT very_RB small_JJ time_NN taken_VBN in_IN the_DT QP_NN optimizer_NN -LRB-_-LRB- invisible_JJ for_IN DORM_NNP ,_, barely_RB visible_JJ for_IN SVMndcg_NN -RRB-_-RRB- ._.
+We_PRP used_VBD a_DT very_RB recent_JJ and_CC fast_JJ implementation_NN of_IN LaRank_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT shows_VBZ that_IN solving_VBG the_DT `_`` argmax_NN '_'' problem_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- quickly_RB for_IN large_JJ data_NNS sets_NNS is_VBZ important_JJ ,_, because_IN the_DT QP_NN solver_NN is_VBZ not_RB the_DT bottleneck_NN ._.
+Figure_NN 9_CD compares_VBZ test_NN NDCG_NN at_IN rank_NN 10_CD for_IN different_JJ training_NN

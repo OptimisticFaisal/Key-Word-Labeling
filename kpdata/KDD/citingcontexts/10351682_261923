@@ -1,0 +1,3 @@
+extension_NN of_IN the_DT LOF_NN model_NN using_VBG also_RB the_DT reverse_NN nearest_IN neighbors_NNS additionally_RB to_TO the_DT nearest_JJS neighbors_NNS and_CC considering_VBG a_DT symmetric_JJ relationship_NN between_IN both_DT values_NNS as_IN a_DT measure_NN of_IN outlierness_NN ._.
+In_IN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT authors_NNS propose_VBP another_DT local_JJ outlier_NN detection_NN schema_NN named_VBN Local_NNP Outlier_NNP Integral_NNP -LRB-_-LRB- LOCI_NNP -RRB-_-RRB- based_VBN on_IN the_DT concept_NN of_IN a_DT multi-granularity_JJ deviation_NN factor_NN -LRB-_-LRB- MDEF_NN -RRB-_-RRB- ._.
+The_DT main_JJ difference_NN between_IN the_DT LO_NN

@@ -1,0 +1,4 @@
+used_VBN extensively_RB in_IN the_DT LR_NNP model_NN ,_, leading_VBG to_TO a_DT smooth_JJ -LRB-_-LRB- differentiable_JJ -RRB-_-RRB- unconstrained_JJ convex_NN optimization_NN problem_NN ._.
+Standard_JJ optimization_NN algorithms_NNS such_JJ as_IN Newton_NNP method_NN and_CC conjugate_NN gradient_NN method_NN =_JJ -_: =[_NN 3_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB applied_VBN for_IN solving_VBG such_PDT a_DT formulation_NN ._.
+Recently_RB ,_, there_EX is_VBZ a_DT growing_VBG interest_NN in_IN applying_VBG the_DT ℓ1-norm_JJ regularization_NN in_IN the_DT LR_NNP model_NN ._.
+The_DT use_NN of_IN the_DT ℓ1-norm_NN regularization_NN has_VBZ long_RB been_VBN recogn_NN

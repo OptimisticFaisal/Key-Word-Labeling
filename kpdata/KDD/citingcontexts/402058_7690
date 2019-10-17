@@ -1,0 +1,5 @@
+d_NN of_IN regularity_NN ._.
+The_DT two_CD terms_NNS are_VBP opposites_NNS --_: the_DT higher_JJR the_DT entropy_NN ,_, the_DT lower_JJR the_DT regularity_NN ._. -RRB-_-RRB-
+4.1_CD Substructure_NNP Entropy_NNP The_DT concept_NN of_IN entropy_NN is_VBZ well-known_JJ ;_: it_PRP is_VBZ covered_VBN in_IN many_JJ textbooks_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Broadly_RB speaking_NN ,_, entropy_NN measures_VBZ the_DT number_NN of_IN bits_NNS needed_VBN to_TO describe_VB a_DT particular_JJ occurrence_NN or_CC event_NN ._.
+For_IN a_DT given_VBN set_NN of_IN possible_JJ events_NNS X_NN ,_, the_DT entropy_NN H_NN is_VBZ given_VBN by_IN ∑_CD x_CC ∈_CD X_NN H_NN -LRB-_-LRB- X_NN -RRB-_-RRB- =_JJ −_NN P_NN -LRB-_-LRB- x_NN -RRB-_-RRB- \*_SYM

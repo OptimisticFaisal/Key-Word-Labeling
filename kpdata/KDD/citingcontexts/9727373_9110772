@@ -1,0 +1,5 @@
+inSup_NN ._.
+The_DT main_JJ drawback_NN of_IN this_DT estimator_NN is_VBZ that_IN information_NN about_IN the_DT uncertainty_NN of_IN the_DT expected_VBN support_NN is_VBZ lost_VBN ;_: -LRB-_-LRB- 5_CD ,_, 6_CD ,_, 11_CD -RRB-_-RRB- ignore_VBP the_DT number_NN of_IN possible_JJ worlds_NNS in_IN which_WDT an_DT itemsets_NN is_VBZ frequent_JJ ._.
+=_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ exact_JJ and_CC sampling-based_JJ algorithms_NNS to_TO find_VB likely_JJ frequent_JJ items_NNS in_IN streaming_NN probabilistic_JJ data_NNS ._.
+However_RB ,_, they_PRP do_VBP not_RB consider_VB itemsets_NNS with_IN more_JJR than_IN one_CD item_NN ._.
+Finally_RB ,_, except_IN for_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, e_SYM

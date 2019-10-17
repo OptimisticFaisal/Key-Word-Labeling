@@ -1,0 +1,4 @@
+e_LS -LRB-_-LRB- question_NN -RRB-_-RRB- ._.
+This_DT classifier_NN is_VBZ usually_RB completely_RB supervised_VBN ,_, and_CC uses_VBZ a_DT taxonomy_NN of_IN question_NN types_NNS -LRB-_-LRB- 20_CD ,_, 24_CD -RRB-_-RRB- ._.
+Second_RB ,_, they_PRP map_VBP the_DT estimated_VBN atype_NN to_TO tokens_NNS expected_VBN to_TO be_VB found_VBN in_IN an_DT answer_NN passage_NN =_JJ -_: =[_NN 17_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Notable_JJ departures_NNS from_IN the_DT standard_JJ paradigm_NN include_VBP inferring_VBG paraphrases_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, predicting_VBG answer_NN tokens_NNS from_IN question_NN features_NNS -LRB-_-LRB- 1_CD ,_, 6_CD -RRB-_-RRB- ,_, and_CC using_VBG a_DT language_NN model_NN conditioned_VBN on_IN the_DT question_NN type_NN

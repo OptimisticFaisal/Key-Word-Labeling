@@ -1,0 +1,3 @@
+estions_NNS are_VBP retrieved_VBN by_IN focusing_VBG on_IN finding_VBG semantically_RB similar_JJ questions_NNS in_IN the_DT archive_NN ._.
+The_DT idea_NN of_IN finding_VBG similar_JJ queries_NNS using_VBG user_NN click_VB logs_NNS or_CC retrieval_NN results_NNS has_VBZ been_VBN proposed_VBN previously_RB =_JJ -_: =[_NN 23_CD ,_, 20_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT work_NN assumed_VBD that_IN if_IN two_CD different_JJ queries_NNS have_VBP similar_JJ click_VB logs_NNS or_CC similar_JJ retrieval_NN results_NNS ,_, then_RB the_DT queries_NNS are_VBP semantically_RB similar_JJ ,_, and_CC the_DT query_NN similarities_NNS obtained_VBN using_VBG this_DT approa_NN

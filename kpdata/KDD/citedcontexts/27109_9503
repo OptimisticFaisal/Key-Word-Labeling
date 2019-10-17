@@ -1,0 +1,3 @@
+d._VB The_DT idea_NN of_IN action_NN is_VBZ very_RB similar_JJ to_TO our_PRP$ incremental_JJ co-clustering_JJ algorithms_NNS -LRB-_-LRB- see_VB Section_NNP 4.2_CD -RRB-_-RRB- ._.
+Kluger_NNP et_FW al._FW -LRB-_-LRB- 13_CD -RRB-_-RRB- apply_VB a_DT spectral_JJ co-clustering_JJ algorithm_NN similar_JJ to_TO the_DT one_NN proposed_VBN by_IN Dhillon_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: on_IN gene_NN expression_NN data_NNS to_TO produce_VB ``_`` checkerboard_JJ ''_'' structure_NN ._.
+The_DT largest_JJS several_JJ left_JJ and_CC right_JJ singular_JJ vectors_NNS of_IN the_DT normalized_VBN gene_NN expression_NN matrix_NN are_VBP computed_VBN and_CC then_RB a_DT final_JJ clustering_NN step_NN

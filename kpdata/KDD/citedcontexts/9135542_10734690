@@ -1,0 +1,3 @@
+nd_NN :_: For_IN example_NN ,_, in_IN network_NN intrusion_NN detection_NN ,_, we_PRP have_VBP computers_NNS sending_VBG packets_NNS to_TO each_DT other_JJ ,_, and_CC we_PRP want_VBP to_TO know_VB which_WDT nodes_NNS misbehave_VBP -LRB-_-LRB- e.g._FW ,_, spammers_NNS ,_, portscanners_NNS -RRB-_-RRB- ._.
+In_IN a_DT who-calls-whom_JJ network_NN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_JJ -_: ,_, strange_JJ behavior_NN may_MD indicate_VB defecting_VBG customers_NNS ,_, or_CC telemarketers_NNS ,_, or_CC even_RB faulty_JJ equipment_NN dropping_VBG connections_NNS too_RB often_RB ._.
+In_IN a_DT social_JJ network_NN ,_, like_IN FaceBook_NNP and_CC LinkedIn_NNP ,_, again_RB we_PRP want_VBP to_TO spot_VB u_NN

@@ -1,0 +1,5 @@
+rage_NN of_IN the_DT very_RB large_JJ attack_NN space_NN -LRB-_-LRB- including_VBG unknown_JJ attacks_NNS -RRB-_-RRB- is_VBZ not_RB practical_JJ for_IN any_DT network_NN ._.
+Also_RB the_DT data_NN needs_VBZ to_TO be_VB labeled_VBN and_CC attacks_NNS to_TO be_VB marked_JJ ._.
+One_CD advantage_NN of_IN clusteringbased_JJ methods_NNS =_JJ -_: =[_NN 5,10,12,14_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ that_IN they_PRP require_VBP no_DT labeled_JJ training_NN data_NNS set_VBP containing_VBG attacks_NNS ,_, significantly_RB reducing_VBG the_DT data_NNS requirement_NN ._.
+There_EX exist_VBP at_IN least_JJS two_CD approaches_NNS ._.
+When_WRB doing_VBG unsupervised_JJ anomaly_JJ detection_NN -LRB-_-LRB- 5_CD ,_,

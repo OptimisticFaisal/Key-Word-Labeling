@@ -1,0 +1,4 @@
+discriminating_VBG power_NN ._.
+Therefore_RB ,_, in_IN our_PRP$ work_NN we_PRP use_VBP closed_VBN frequent_JJ patterns_NNS as_IN our_PRP$ initial_JJ set_NN of_IN context_NN units_NNS ._.
+The_DT algorithms_NNS for_IN mining_NN different_JJ kinds_NNS of_IN closed_JJ frequent_JJ patterns_NNS can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 15_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3.2.3_CD Redundancy_NN Removal_NN :_: Microclustering_VBG However_RB ,_, as_IN stated_VBN in_IN -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, a_DT small_JJ disturbance_NN within_IN the_DT transactions_NNS may_MD result_VB in_IN hundreds_NNS of_IN subpatterns_NNS that_WDT could_MD have_VB different_JJ supports_NNS ,_, which_WDT cann_VBP

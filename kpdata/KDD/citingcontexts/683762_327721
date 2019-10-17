@@ -1,0 +1,4 @@
+e_LS text_NN -LRB-_-LRB- unigram_NN ,_, bigrams_NN ,_, etc._NN -RRB-_-RRB- and_CC supervised_JJ machine_NN learning_NN algorithms_NNS are_VBP trained_VBN on_IN some_DT collection_NN of_IN labeled_JJ data_NNS ._.
+Secondly_RB ,_, there_EX are_VBP those_DT methods_NNS which_WDT use_VBP linguistic_JJ analysis_NN of_IN some_DT type_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT approaches_NNS often_RB employ_VBP a_DT lexicon_NN of_IN important_JJ terms_NNS and_CC shallow_JJ parsing_NN methods_NNS ._.
+Thirdly_RB ,_, there_EX are_VBP those_DT approaches_NNS which_WDT aim_VBP to_TO use_VB aggregate_JJ social_JJ cues_NNS from_IN the_DT context_NN within_IN which_WDT docum_NN

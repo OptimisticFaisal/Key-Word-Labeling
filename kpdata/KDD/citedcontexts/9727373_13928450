@@ -1,0 +1,4 @@
+ssume_NN that_IN both_DT of_IN a_DT query_NN object_NN and_CC target_NN objects_NNS are_VBP represented_VBN by_IN multi-dimensional_JJ Gaussian_JJ distributions_NNS as_IN in_IN this_DT paper_NN ._.
+The_DT overall_JJ structure_NN of_IN a_DT Gauss-tree_NN resembles_VBZ to_TO that_DT of_IN an_DT R-tree_NN =_JJ -_: =[_NN 4_CD ,_, 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC it_PRP maintains_VBZ parameters_NNS to_TO represent_VB the_DT stored_VBN distributions_NNS in_IN leaf_NN and_CC nonleaf_JJ nodes_NNS ._.
+In_IN a_DT leaf_FW 1node_FW ,_, Gaussian_JJ objects_NNS with_IN similar_JJ average_NN and_CC distribution_NN values_NNS are_VBP clustered_VBN ._.
+It_PRP contain_VBP

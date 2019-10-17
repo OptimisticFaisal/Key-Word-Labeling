@@ -1,0 +1,5 @@
+emplified_VBN by_IN the_DT ground_NN truth_NN ._.
+As_IN we_PRP show_VBP below_IN ,_, approaches_NNS of_IN this_DT sort_NN can_MD not_RB be_VB guaranteed_VBN to_TO correctly_RB estimate_VB the_DT optimal_JJ number_NN of_IN model_NN components_NNS because_IN EM_NNP may_MD get_VB stuck_VBN in_IN local_JJ optima_NN ._.
+In_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: the_DT use_NN of_IN BIC_NNP and_CC AIC_NNP to_TO estimate_VB the_DT number_NN of_IN model_NN components_NNS is_VBZ discussed_VBN ._.
+We_PRP focus_VBP here_RB on_IN BIC_NNP but_CC our_PRP$ arguments_NNS also_RB apply_VBP to_TO AIC_NNP and_CC MDL_NNP ._.
+For_IN a_DT fixed_JJ number_NN of_IN data_NNS points_NNS ,_, which_WDT is_VBZ the_DT case_NN

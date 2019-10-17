@@ -1,0 +1,6 @@
+al_NNP Dimensions_NNP Approach_NNP -LRB-_-LRB- SocDim_NNP -RRB-_-RRB- ._.
+We_PRP set_VBD the_DT number_NN of_IN latent_JJ social_JJ dimensions_NNS to_TO 500_CD and_CC use_VB one-vs-rest_JJ linear_JJ SVM_NN for_IN discriminative_JJ learning_NN ._.
+•_FW Weighted-Vote_FW Relational_JJ Neighbor_NN Classifier_NN -LRB-_-LRB- wvRN_NN -RRB-_-RRB- =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT classifier_NN is_VBZ like_IN a_DT lazy_JJ learner_NN ._.
+In_IN prediction_NN ,_, the_DT relational_JJ classifier_NN estimates_VBZ the_DT class_NN membership_NN p_NN -LRB-_-LRB- yi_FW |_FW Ni_FW -RRB-_-RRB- as_IN the_DT weighted_JJ mean_NN of_IN its_PRP$ neighbors_NNS ._.
+p_NN -LRB-_-LRB- yi_FW |_FW Ni_FW -RRB-_-RRB- =_JJ 1_CD Z_NN =_JJ X_NN v_LS j_FW ∈_FW N_NN i_FW wijp_FW -LRB-_-LRB- yj_FW |_FW Nj_NN

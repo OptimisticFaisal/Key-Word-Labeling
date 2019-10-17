@@ -1,0 +1,3 @@
+inte-gration_NN tasks_NNS has_VBZ successfully_RB employed_VBN machine_NN learning_NN techniques_NNS that_WDT utilize_VBP labeled_JJ training_NN data_NNS ,_, user-provided_JJ constraints_NNS ,_, and_CC auxiliary_JJ knowledge_NN to_TO adapt_VB algorithms_NNS to_TO specific_JJ domains_NNS =_JJ -_: =[_NN 1_CD ,_, 7_CD ,_, 10_CD ,_, 14_CD ,_, 5_CD ,_, 24_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD group_NN of_IN such_JJ learning_NN algorithms_NNS are_VBP methods_NNS based_VBN on_IN undirected_JJ graphical_JJ models_NNS such_JJ as_IN Condi-tional_JJ Random_NNP Fields_NNP -LRB-_-LRB- CRFs_NNS -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- and_CC Relational_NNP Markov_NNP Networks_NNP -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+Approaches_NNS based_VBN on_IN these_DT mo_NN

@@ -1,0 +1,4 @@
+for_IN speeding_VBG up_RP similarity_NN queries_NNS under_IN the_DT specific_JJ distance_NN measures_NNS used_VBN in_IN those_DT domains_NNS ._.
+Various_JJ techniques_NNS have_VBP been_VBN proposed_VBN for_IN time_NN series_NN databases_NNS using_VBG non-metric_JJ distance_NN functions_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 44_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 45_CD -RRB-_-RRB- ._.
+These_DT techniques_NNS use_VBP the_DT filter-and-refine_JJ approach_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, and_CC use_VB efficient_JJ distance_NN approximations_NNS in_IN the_DT filter_NN step_NN ._.
+One_CD of_IN the_DT distance_NN measures_NNS tested_VBN in_IN the_DT experiments_NNS is_VBZ shape_NN context_NN m_NN

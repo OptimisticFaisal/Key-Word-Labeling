@@ -1,0 +1,6 @@
+recently_RB received_VBD a_DT lot_NN of_IN attention_NN in_IN the_DT data_NNS mining_NN community_NN ._.
+Many_JJ different_JJ techniques_NNS -LRB-_-LRB- e._FW g._FW ,_, densification_NN laws_NNS ,_, shrinking_VBG diameter_NN ,_, factorization_NN ,_, clustering_NN ,_, evolution_NN of_IN communities_NNS ,_, etc._NN -RRB-_-RRB- =_JJ -_: =[_NN 2_CD ,_, 15_CD ,_, 9_CD ,_, 17_CD ,_, 13_CD ,_, 11_CD ,_, 3_CD ,_, 16_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT section_NN ,_, we_PRP focus_VBP on_IN methods_NNS that_WDT mine_VBP local_JJ patterns_NNS ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- extracts_NNS such_JJ patterns_NNS in_IN labeled_JJ dynamic_JJ graphs_NNS ._.
+Frequent_JJ subgraph_JJ mining_NN algorithms_NNS are_VBP adapted_VBN to_TO time_NN series_NN of_IN graphs_NNS ._.
+The_DT app_NN

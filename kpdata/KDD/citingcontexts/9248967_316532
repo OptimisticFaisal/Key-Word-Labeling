@@ -1,0 +1,3 @@
+We_PRP present_VBP a_DT novel_JJ two-stage_JJ algorithm_NN for_IN the_DT CSSP_NN ._.
+From_IN a_DT theoretical_JJ perspective_NN ,_, for_IN small_JJ to_TO moderate_JJ values_NNS of_IN k_NN ,_, this_DT algorithm_NN significantly_RB improves_VBZ upon_IN the_DT best_JJS previously-existing_JJ results_NNS =_JJ -_: =[_NN 24_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: for_IN the_DT CSSP_NN ._.
+From_IN an_DT empirical_JJ perspective_NN ,_, we_PRP evaluate_VBP this_DT algorithm_NN as_IN an_DT unsupervised_JJ feature_NN selection_NN strategy_NN in_IN three_CD application_NN domains_NNS of_IN modern_JJ statistical_JJ data_NNS analysis_NN :_: finance_NN ,_, docume_NN

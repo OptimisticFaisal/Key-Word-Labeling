@@ -1,0 +1,4 @@
+g_NN or_CC removing_VBG any_DT attributes_NNS values_NNS in_IN the_DT training_NN data_NNS ._.
+Our_PRP$ approach_NN combines_VBZ two_CD recent_JJ advances_NNS in_IN faulttolerant_JJ itemset_NN mining_NN and_CC feature_NN construction_NN ._.
+The_DT goal_NN of_IN fault-tolerant_JJ itemset_NN mining_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ to_TO support_VB the_DT discovery_NN of_IN relevant_JJ frequent_JJ itemsets_NNS in_IN noisy_JJ binary_JJ data_NNS -LRB-_-LRB- see_VB ,_, e.g._FW ,_, -LRB-_-LRB- 7_CD -RRB-_-RRB- for_IN a_DT recent_JJ survey_NN -RRB-_-RRB- ._.
+Among_IN others_NNS ,_, an_DT extension_NN to_TO -LRB-_-LRB- frequent_JJ -RRB-_-RRB- closed_VBD set_VBN mining_NN towards_IN fault-tolerance_NN

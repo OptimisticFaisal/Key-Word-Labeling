@@ -1,0 +1,4 @@
+lem_NN in_IN a_DT bandit_NN setting_NN ;_: however_RB ,_, McMahan_NNP and_CC Streeter_NNP show_VBP that_IN the_DT use_NN of_IN bandit_NN algorithms_NNS is_VBZ problematic_JJ for_IN selecting_VBG data_NNS for_IN model-training_NN due_JJ to_TO the_DT non-stationarity_NN of_IN the_DT underlying_VBG models_NNS =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ approach_NN is_VBZ to_TO stratify_VB the_DT data_NNS across_IN several_JJ different_JJ dimensions_NNS ,_, as_IN shown_VBN in_IN Figure_NNP 7_CD ._.
+First_RB ,_, ads_NNS in_IN each_DT language_NN are_VBP considered_VBN separately_RB ._.
+Within_IN a_DT given_VBN language_NN ,_, ads_NNS are_VBP divided_VBN into_IN t_NN

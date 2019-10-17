@@ -1,0 +1,4 @@
+mpute_JJ discrete-valued_JJ features_NNS ,_, we_PRP rounded_VBD the_DT imputed_JJ values_NNS to_TO the_DT nearest_JJS discrete_JJ value_NN ._.
+The_DT imputation_NN algorithms_NNS were_VBD evaluated_VBN using_VBG the_DT following_JJ metrics_NNS :_: 1_CD ._.
+Imputation_NN accuracy_NN -LRB-_-LRB- adopted_VBN from_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =--RRB-_NN :_: -LRB-_-LRB- a_LS -RRB-_-RRB- Root-Mean-Square_JJ Deviation_NN -LRB-_-LRB- RMSD_NN -RRB-_-RRB- -LRB-_-LRB- b_NN -RRB-_-RRB- Mean_NN Absolute_JJ Deviation_NN -LRB-_-LRB- MAD_NN -RRB-_-RRB- -LRB-_-LRB- c_NN -RRB-_-RRB- Bias_NNP -LRB-_-LRB- mean_VB of_IN imputed_JJ values_NNS -_: mean_NN of_IN groundtruth_JJ data_NNS -RRB-_-RRB- 2_CD ._.
+Overall_JJ stroke_NN prediction_NN performance_NN -LRB-_-LRB- measured_VBN by_IN the_DT area_NN u_NN

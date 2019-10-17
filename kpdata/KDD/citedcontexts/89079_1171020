@@ -1,0 +1,5 @@
+abet_VB size_NN of_IN four_CD ._.
+SAX_NN can_MD produce_VB strings_NNS on_IN any_DT alphabet_NN sizes_NNS ._.
+As_IN it_PRP turns_VBZ out_RP ,_, many_JJ authors_NNS have_VBP reported_VBN a_DT cardinality_NN of_IN four_CD as_IN an_DT excellent_JJ choice_NN for_IN diverse_JJ datasets_NNS on_IN assorted_JJ problems_NNS -LRB-_-LRB- 2_LS -RRB-_-RRB- =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =-[_NN 6_CD -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+We_PRP need_VBP to_TO define_VB an_DT initial_JJ ordering_VBG for_IN the_DT four_CD SAX_NNP symbols_NNS a_DT ,_, b_NN ,_, c_NN ,_, and_CC d._NN We_PRP use_VBP simple_JJ alphabetical_JJ ordering_VBG as_IN shown_VBN in_IN Figure_NNP 5_CD ._.
+After_IN converting_VBG the_DT original_JJ raw_JJ time_NN series_NN int_NN

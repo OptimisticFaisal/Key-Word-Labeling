@@ -1,0 +1,9 @@
+ch_NN is_VBZ the_DT foundation_NN Copyright_NNP is_VBZ held_VBN by_IN the_DT author\/owner_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- ._.
+WWW2004_NN ,_, May_NNP 17_CD --_: 22_CD ,_, 2004_CD ,_, New_NNP York_NNP ,_, New_NNP York_NNP ,_, USA_NNP ._.
+ACM_NN 1-58113-912-8_CD \/_: 04\/0005_CD ._.
+490_CD for_IN our_PRP$ mobility_NN support_NN tool_NN ,_, Dante_NNP ,_, is_VBZ introduced_VBN in_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT architecture_NN of_IN Dante_NNP is_VBZ depicted_VBN in_IN Figure_NNP 1_CD ._.
+The_DT main_JJ aim_NN of_IN Dante_NNP is_VBZ to_TO analyze_VB Web_NN pages_NNS to_TO semi-automatically_JJ :_: 1_CD ._.
+Identify_VB travel_NN objects_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ;_: 2_CD ._.
+Discover_NNP their_PRP$ roles_NNS ;_: 3_CD ._.
+Annotate_VB the_DT ident_NN

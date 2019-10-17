@@ -1,0 +1,5 @@
+restaurant_NN ._.
+Summarization_NN from_IN online_JJ reviews_NNS ,_, therefore_RB ,_, plays_VBZ an_DT important_JJ role_NN for_IN such_JJ dialogue_NN systems_NNS ._.
+There_EX have_VBP been_VBN previous_JJ studies_NNS on_IN review_NN analysis_NN for_IN text-based_JJ summarization_NN systems_NNS -LRB-_-LRB- =_JJ -_: =_JJ Mei_FW et_FW al._FW ,_, 2007_CD -_: =_JJ -_: ;_: Titov_NNP and_CC McDonald_NNP ,_, 2008a_CD ;_: Branavan_NNP et_FW al._FW ,_, 2008_CD -RRB-_-RRB- ._.
+Mixture_NN models_NNS and_CC topic_NN models_NNS are_VBP used_VBN to_TO predict_VB the_DT underlying_VBG topics_NNS of_IN each_DT document_NN and_CC generate_VB a_DT phrase-level_JJ summary_NN ._.
+An_DT aspect_NN rating_NN on_IN

@@ -1,0 +1,6 @@
++1_CD ,_, ..._: ,_, l_NN +_CC k_NN -RCB-_-RRB- ,_, ∀_FW q_FW ∈_FW -LCB-_-LRB- l_NN +1_CD ,_, ..._: ,_, l_NN +_CC k_NN -RCB-_-RRB- ,_, −_CD e_SYM ≤_FW ∑_FW m_NN j_NN =_JJ 1_CD ˜w_NN T_NN ˜x_NN U_NN -LRB-_-LRB- p_NN -RRB-_-RRB- −_FW j_FW ∑_FW m_NN j_NN =_JJ 1_CD ˜w_NN T_NN ˜x_NN U_NN -LRB-_-LRB- q_NN -RRB-_-RRB- ≤_FW e._FW j_NN 8_CD ._.
+end_NN for_IN Table_NNP 2_CD :_: Algorithm_NN Description_NN :_: The_DT Online_NNP Learning_NNP Algorithm_NNP for_IN Serendipitous_NNP Learning_NNP method_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN we_PRP shall_MD see_VB later_RB ,_, the_DT regret_NN of_IN the_DT proposed_VBN method_NN is_VBZ guaranteed_VBN to_TO be_VB upper_JJ bounded_VBN by_IN O_NN -LRB-_-LRB- log_NN -LRB-_-LRB- t_NN -RRB-_-RRB- -RRB-_-RRB- ._.
+3.4_CD Theoretical_JJ Analysis_NNP THEOREM_NNP 3.1_CD ._.
+At_IN time_NN t_NN ,_, the_DT regret_NN defined_VBN in_IN Eq_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- will_MD be_VB upper_JJ b_NN

@@ -1,0 +1,6 @@
+ue_NN MDP_NN ._.
+Furthermore_RB ,_, it_PRP could_MD be_VB difficult_JJ to_TO quantify_VB how_WRB suboptimal_JJ it_PRP is_VBZ ._.
+We_PRP can_MD also_RB use_VB indirect_JJ methods_NNS and_CC learn_VB a_DT Q-value_JJ function_NN using_VBG the_DT data_NNS ._.
+This_DT is_VBZ the_DT approach_NN taken_VBN by_IN Pednault_NNP et_FW al._FW =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, called_VBN batch_NN reinforcement_NN learning_NN ._.
+However_RB ,_, as_IN we_PRP saw_VBD in_IN Section_NN 2.1_CD indirect_JJ methods_NNS with_IN function_NN approximation_NN are_VBP not_RB guaranteed_VBN to_TO yield_VB a_DT good_JJ policy_NN ._.
+Another_DT problem_NN is_VBZ that_IN we_PRP still_RB need_VBP t_NN

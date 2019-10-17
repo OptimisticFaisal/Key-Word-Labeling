@@ -1,0 +1,6 @@
+ributed_VBD RDF_NNP stores_NNS ._.
+Though_IN the_DT focus_NN is_VBZ on_IN distributed_VBN RDF_NN repositories_NNS ,_, it_PRP is_VBZ always_RB assumed_VBN that_IN one_CD is_VBZ dealing_VBG with_IN ’n_FW ative_FW '_'' RDF_NNP sources_NNS ._.
+An_DT excellent_JJ example_NN is_VBZ the_DT work_NN of_IN Stuckenschmidt_FW et_FW ._.
+al._FW =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP present_VBP an_DT architecture_NN for_IN optimizing_VBG querying_VBG in_IN distributed_VBN RDF_NN repositories_NNS by_IN extending_VBG an_DT existing_VBG RDF_NN store_NN -LRB-_-LRB- Sesame_NNP -RRB-_-RRB- ._.
+Cai_NNP and_CC Frank_NNP -LRB-_-LRB- 14_CD -RRB-_-RRB- report_NN on_IN a_DT scalable_JJ distributed_VBN RDF_NN repository_NN b_NN

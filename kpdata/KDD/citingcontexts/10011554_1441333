@@ -1,0 +1,4 @@
+do_VB not_RB provide_VB a_DT global_JJ description_NN of_IN the_DT event_NN sequence_NN neither_CC do_VBP they_PRP care_VB about_IN the_DT conciseness_NN of_IN the_DT produced_VBN patterns_NNS ._.
+Summarization_NN of_IN event_NN sequences_NNS via_IN a_DT segmentation_NN model_NN is_VBZ proposed_VBN in_IN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, the_DT technique_NN presented_VBD there_EX can_MD only_RB model_VB sequences_NNS of_IN single_JJ event_NN types_NNS ;_: within_IN each_DT local_JJ interval_NN ,_, the_DT appearances_NNS of_IN events_NNS are_VBP modelled_VBN by_IN a_DT constant_JJ intensity_NN model_NN ._.
+In_IN fact_NN ,_, one_CD

@@ -1,0 +1,6 @@
+port_NN the_DT experimental_JJ results_NNS ._.
+The_DT paper_NN is_VBZ concluded_VBN in_IN Section_NN 7_CD ._.
+2_CD ._.
+RELATED_NNS WORK_VBP Traditional_JJ approaches_NNS to_TO query_VB understanding_NN often_RB rely_VBP on_IN explicit_JJ ,_, implicit_JJ ,_, or_CC pseudo_JJ relevance_NN feedback_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 14_CD ,_, 18_CD ,_, 20_CD -RRB-_-RRB- -_: =--RRB-_NN or_CC user_NN profiles_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 7_CD ,_, 19_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+In_IN terms_NNS of_IN modeling_NN contexts_NNS of_IN queries_NNS ,_, Bai_NNP et_FW al._FW -LRB-_-LRB- 3_CD -RRB-_-RRB- constructed_VBD a_DT language_NN model_NN using_VBG the_DT context_NN both_CC around_IN and_CC within_IN a_DT query_NN ._.
+Although_IN these_DT techniques_NNS ar_IN

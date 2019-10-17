@@ -1,0 +1,4 @@
+xtracted_VBN from_IN all_PDT the_DT subcollections_NNS ,_, we_PRP now_RB turn_VBP to_TO the_DT discovery_NN of_IN evolutionary_JJ transitions_NNS ._.
+To_TO discover_VB any_DT evolutionary_JJ transition_NN between_IN two_CD theme_NN spans_NNS ,_, we_PRP use_VBP the_DT Kullback-Leibler_NNP divergence_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: to_TO measure_VB their_PRP$ evolution_NN distance_NN ._.
+Let_VB γ1_NN =_JJ 〈_FW θ1_FW ,_, s_NN -LRB-_-LRB- γ1_NN -RRB-_-RRB- ,_, t_NN -LRB-_-LRB- γ1_NN -RRB-_-RRB- 〉_NN and_CC γ2_NN =_JJ 〈_FW θ2_FW ,_, s_NN -LRB-_-LRB- γ2_NN -RRB-_-RRB- ,_, t_NN -LRB-_-LRB- γ2_NN -RRB-_-RRB- 〉_CD be_VB two_CD theme_NN spans_NNS where_WRB t_NN -LRB-_-LRB- γ1_NN -RRB-_-RRB- ≤_CD s_NN -LRB-_-LRB- γ2_NN -RRB-_-RRB- ._.
+We_PRP assume_VBP that_IN γ2_NN has_VBZ a_DT smaller_JJR evolution_NN distance_NN to_TO γ1_CD if_IN their_PRP$

@@ -1,0 +1,4 @@
+d_NN time_NN span_NN of_IN occurrences_NNS is_VBZ not_RB fixed_VBN ._.
+Although_IN features_NNS are_VBP collected_VBN by_IN online_NN procedures_NNS in_IN order_NN to_TO support_VB timely_JJ update_VBP in_IN database_NN ,_, our_PRP$ application_NN context_NN is_VBZ one_CD time_NN search_NN ._.
+Ma_NNP and_CC Perkins_NNP =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: employ_VB support_NN vector_NN regression_NN to_TO predict_VB future_JJ values_NNS '_POS confidence_NN interval_NN and_CC a_DT change_NN occurs_VBZ when_WRB it_PRP falls_VBZ outside_IN the_DT interval_NN ._.
+Reznik_NNP et_FW al._FW -LRB-_-LRB- 10_CD -RRB-_-RRB- study_NN unforeseen_JJ change_NN in_IN sensor_NN data_NNS signal_NN

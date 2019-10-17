@@ -1,0 +1,4 @@
+f_LS the_DT item_NN in_IN the_DT transaction_NN -LRB-_-LRB- e.g._FW number_NN of_IN beer_NN bottle_NN purchased_VBN in_IN the_DT transaction_NN -RRB-_-RRB- ._.
+Liu_NNP et_FW al._FW -LRB-_-LRB- 18_CD -RRB-_-RRB- consider_VBP the_DT problem_NN of_IN mining_NN association_NN rules_NNS with_IN multiple_JJ support_NN thresholds_NNS ._.
+Tung_NNP et_FW al._FW =_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: consider_VB associations_NNS that_WDT span_VBP across_IN multiple_JJ transactions_NNS ,_, rather_RB than_IN in_IN the_DT same_JJ transaction_NN -LRB-_-LRB- e.g._FW ``_`` if_IN the_DT movie_NN has_VBZ many_JJ viewers_NNS in_IN NY_NNP than_IN it_PRP has_VBZ few_JJ viewers_NNS in_IN Paris_NNP ''_'' -RRB-_-RRB- ._.
+Brin_NNP et_FW al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- consid_NN

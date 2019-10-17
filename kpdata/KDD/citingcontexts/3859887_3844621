@@ -1,0 +1,5 @@
+nonym_JJ list_NN for_IN 100_CD fly_NN genes_NNS ,_, which_WDT are_VBP randomly_RB selected_VBN from_IN the_DT data_NNS provided_VBN by_IN BioCreAtIvE_NNP Task_NNP 1B_NN 3_CD ._.
+Ling_NNP et_FW al._FW collected_VBN 22092_CD abstracts_NNS from_IN MEDLINE_NN 4_CD which_WDT contain_VBP the_DT keyword_JJ ``_`` Drosophila_NN ''_'' =_SYM -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP extract_VBP the_DT sentences_NNS from_IN those_DT abstracts_NNS which_WDT contain_VBP at_IN least_JJS one_CD synonym_NN in_IN the_DT synonym_NN list_NN ._.
+Only_RB the_DT synonyms_NNS with_IN support_NN ≥_NN 3_CD are_VBP kept_VBN ,_, which_WDT gives_VBZ us_PRP a_DT small_JJ set_NN of_IN 41_CD synonyms_NNS ._.
+We_PRP then_RB

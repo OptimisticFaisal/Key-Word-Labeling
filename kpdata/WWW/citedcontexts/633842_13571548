@@ -1,0 +1,6 @@
+oblem_NN ._.
+Indeed_RB ,_, research_NN into_IN adaptation_NN has_VBZ been_VBN broad_JJ and_CC encompasses_VBZ many_JJ different_JJ types_NNS of_IN volatility_NN ._.
+Earlier_JJR work_NN focused_VBN on_IN handling_VBG exceptions_NNS that_WDT occur_VBP in_IN workflows_NNS -LRB-_-LRB- Strong_JJ and_CC Miller_NNP 1995_CD ;_: =_JJ -_: =_JJ Brambilla_NNP et_FW al._FW 2005_CD -_: =_JJ -_: ;_: Luo_NNP et_FW al._FW 2000_CD -RRB-_-RRB- ._.
+These_DT events_NNS often_RB result_VBP in_IN task_NN failures_NNS ._.
+Tasks_NNS that_WDT fail_VBP return_VB an_DT exception_NN interpreted_VBN by_IN an_DT exception_NN handler_NN ._.
+The_DT handler_NN resolves_VBZ these_DT failures_NNS by_IN using_VBG either_CC manual_JJ corr_NN

@@ -1,0 +1,4 @@
+cal_JJ organization_NN of_IN the_DT corresponding_JJ document_NN 's_POS content_NN ._.
+Assigning_VBG semantic_JJ labels_NNS to_TO the_DT elements_NNS of_IN this_DT logical_JJ organization_NN results_VBZ in_IN semantic_JJ annotation_NN of_IN the_DT page_NN ._.
+In_IN contrast_NN to_TO other_JJ works_NNS =_JJ -_: =[_NN 25_CD ,_, 33_CD ,_, 58_CD ,_, 39_CD ,_, 32_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT use_VBP domain_NN ontologies_NNS for_IN semantic_JJ labeling_NN ,_, we_PRP have_VBP used_VBN a_DT more_RBR scalable_JJ learning-based_JJ approach_NN ._.
+Observe_VB from_IN Figures_NNS 1_CD -LRB-_-LRB- a_DT -RRB-_-RRB- and_CC -LRB-_-LRB- b_LS -RRB-_-RRB- that_IN there_EX is_VBZ consistency_NN in_IN presentation_NN of_IN semantic_JJ concep_NN

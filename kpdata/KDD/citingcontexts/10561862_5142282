@@ -1,0 +1,3 @@
+om_NN programming_NN projects_NNS -LRB-_-LRB- code_NN ,_, bug_NN reports_NNS ,_, documentation_NN ,_, runtime_NN snapshots_NNS ,_, heap_NN dumps_VBZ -RRB-_-RRB- is_VBZ now_RB so_RB plentiful_JJ that_IN data_NN mining_NN approaches_NNS have_VBP been_VBN investigated_VBN toward_IN software_NN engineering_NN goals_NNS -LRB-_-LRB- see_VB =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: for_IN a_DT survey_NN -RRB-_-RRB- ._.
+Graph_NN data_NNS ,_, in_IN particular_JJ ,_, resurfaces_VBZ in_IN many_JJ guises_NNS such_JJ as_IN call_JJ graphs_NNS ,_, dependencies_NNS across_IN subprojects_NNS ,_, and_CC heap_NN dumps_NNS ._.
+Graph_NN mining_NN techniques_NNS have_VBP been_VBN used_VBN minimally_RB for_IN program_NN

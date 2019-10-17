@@ -1,0 +1,3 @@
+ttern_JJ graph_NN P._NNP It_PRP has_VBZ been_VBN increasingly_RB used_VBN in_IN computer_NN vision_NN ,_, knowledge_NN discovery_NN ,_, biology_NN ,_, cheminformatics_NNS ,_, dynamic_JJ network_NN traffic_NN ,_, and_CC recently_RB ,_, social_JJ networks_NNS and_CC intelligence_NN analysis_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 4_CD ,_, 6_CD ,_, 7_CD ,_, 27_CD ,_, 31_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Graph_NN pattern_NN matching_NN is_VBZ typically_RB defined_VBN in_IN terms_NNS of_IN subgraph_JJ isomorphism_NN :_: it_PRP is_VBZ to_TO find_VB all_DT subgraphs_NNS of_IN G_NN that_WDT are_VBP isomorphic_JJ to_TO P_NN -LRB-_-LRB- see_VB -LRB-_-LRB- 13_CD -RRB-_-RRB- for_IN a_DT survey_NN -RRB-_-RRB- ._.
+That_DT is_VBZ ,_, a_DT match_NN of_IN P_NN is_VBZ a_DT subgraph_NN

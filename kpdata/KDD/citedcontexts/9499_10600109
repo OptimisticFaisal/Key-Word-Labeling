@@ -1,0 +1,3 @@
+which_WDT is_VBZ a_DT special_JJ case_NN of_IN tensor_NN clustering_NN with_IN m_NN =_JJ 2_CD ,_, one_CD simultaneously_RB partitions_VBZ rows_NNS and_CC columns_NNS of_IN an_DT input_NN matrix_NN to_TO obtain_VB coherent_JJ submatrices_NNS ,_, often_RB while_IN minimizing_VBG a_DT Bregman_NNP divergence_NN =_JJ -_: =[_NN 3_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Being_VBG generalizations_NNS of_IN the_DT 1D_NN case_NN ,_, common_JJ tensor_NN clustering_NN formulations_NNS are_VBP also_RB NP-hard_JJ to_TO optimize_VB ._.
+But_CC despite_IN the_DT existence_NN of_IN a_DT vast_JJ body_NN of_IN research_NN on_IN approximation_NN algorithms_NNS for_IN 1D_NN clus_NN

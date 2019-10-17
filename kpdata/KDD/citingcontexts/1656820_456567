@@ -1,0 +1,4 @@
+in_IN relevant_JJ ``_`` wavelet_NN feature_NN ''_'' is_VBZ the_DT ``_`` multiscale_JJ ''_'' or_CC pyramidal_JJ approach_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Of_IN course_NN ,_, for_IN higher_JJR order_NN range_NN queries_NNS such_JJ as_IN variance_NN and_CC covariance_NN queries_NNS ,_, other_JJ wavelets_NNS might_MD be_VB a_DT better_JJR choice_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ main_JJ result_NN is_VBZ a_DT generalization_NN of_IN the_DT RPS_NN into_IN a_DT Pyramidal_JJ Relative_JJ Prefix_NN Sum_NN -LRB-_-LRB- PyRPS_NN -RRB-_-RRB- approach_NN which_WDT is_VBZ shown_VBN to_TO be_VB arbitrarily_RB scalable_JJ ._.
+We_PRP also_RB present_VBP adapted_VBN b_NN −_CD adic_JJ oblique_JJ wavelets_NNS as_IN a_DT p_NN

@@ -1,0 +1,5 @@
+egularized_VBN least_JJS squares_NNS problem_NN ,_, thus_RB can_MD be_VB efficiently_RB solved_VBN ._.
+It_PRP is_VBZ important_JJ to_TO note_VB that_DT our_PRP$ method_NN essentially_RB follows_VBZ our_PRP$ previous_JJ work_NN on_IN spectral_JJ regression_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC sparse_FW subspace_FW learning_NN =_JJ -_: =[_NN 6_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT rest_NN of_IN the_DT paper_NN is_VBZ organized_VBN as_IN follows_VBZ :_: in_IN Section_NN 2_CD ,_, we_PRP provide_VBP a_DT brief_JJ review_NN of_IN the_DT related_JJ work_NN ._.
+Our_PRP$ multi_JJ cluster_NN feature_NN selection_NN algorithmis_NN introducedin_NN Section_NN 3_CD ._.
+The_DT experimental_JJ r_NN

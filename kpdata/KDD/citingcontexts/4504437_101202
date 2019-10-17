@@ -1,0 +1,5 @@
+s_VBZ the_DT file_NN ,_, and_CC at_IN every_DT position_NN k_NN in_IN the_DT file_NN ,_, the_DT fingerprint_NN ,_, Fk_NN ,_, of_IN the_DT contents_NNS of_IN this_DT window_NN is_VBZ computed_VBN ._.
+A_DT special_JJ ,_, highly_RB efficient_JJ fingerprint_NN algorithm_NN ,_, e.g._FW Rabin_NNP 's_POS fingerprint_NN algorithm_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, is_VBZ used_VBN for_IN this_DT purpose_NN ._.
+k_NN is_VBZ a_DT chunk_NN boundary_NN if_IN Fk_FW mod_FW D_NN =_JJ r_NN -LRB-_-LRB- see_VB Figure_NNP 1_CD -RRB-_-RRB- ._.
+previous_JJ chunk_NN k_NN Sliding_VBG Window_NN FkmodD_NN =_JJ r_NN ?_.
+k_NN is_VBZ not_RB a_DT chunk_NN boundary_NN no_RB yes_RB k_NN is_VBZ a_DT chunk_NN boundary_NN Figure_NNP 1_CD :_: The_DT Slid_NN

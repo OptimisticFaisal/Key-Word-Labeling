@@ -1,0 +1,5 @@
+nto_NN training_NN -LRB-_-LRB- 60_CD %_NN -RRB-_-RRB- and_CC test_NN sets_NNS -LRB-_-LRB- 40_CD %_NN -RRB-_-RRB- ._.
+From_IN the_DT data_NNS sets_NNS ,_, we_PRP construct_VBP 6_CD learning_NN problems_NNS ,_, each_DT of_IN which_WDT has_VBZ documents_NNS from_IN 4_CD different_JJ topics_NNS to_TO distinguish_VB ._.
+2_LS -RRB-_-RRB- Cora_NNP research_NN paper_NN classification_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: :_: The_DT data_NNS set_NN contains_VBZ around_IN 37,000_CD research_NN papers_NNS that_WDT are_VBP classified_VBN into_IN a_DT topic_NN hierarchy_NN with_IN 73_CD leaves_NNS ._.
+The_DT citations_NNS among_IN papers_NNS are_VBP around_IN 75,000_CD entries_NNS ._.
+We_PRP conduct_VBP experiments_NNS on_IN two_CD top_NN

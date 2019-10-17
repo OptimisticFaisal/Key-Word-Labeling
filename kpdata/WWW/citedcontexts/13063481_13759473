@@ -1,0 +1,4 @@
+._.
+4.2_CD Reciprocal_JJ nearest_JJS neighbor_NN The_DT main_JJ obstacle_NN for_IN using_VBG the_DT reciprocal_JJ method_NN of_IN Subsection_NN 3.4_CD on_IN a_DT large_JJ scale_NN is_VBZ the_DT difficulty_NN to_TO obtain_VB the_DT full_JJ graph_NN of_IN k-NN_NN ._.
+Although_IN some_DT methods_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =--RRB-_NN provide_VBP approximate_JJ strategies_NNS to_TO break_VB the_DT complexity_NN ,_, this_DT problem_NN remains_VBZ intractable_JJ when_WRB considering_VBG more_JJR than_IN 100_CD million_CD descriptors_NNS ._.
+However_RB ,_, the_DT key_JJ quantity_NN exploited_VBN by_IN our_PRP$ RNN_NN method_NN is_VBZ

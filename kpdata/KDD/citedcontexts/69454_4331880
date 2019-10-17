@@ -1,0 +1,4 @@
+only_RB 1_CD --_: 1_CD matches_NNS ,_, such_JJ as_IN contact-info_NN =_JJ phone_NN -LRB-_-LRB- 62_CD -RRB-_-RRB- ._.
+Hence_RB ,_, in_IN this_DT paper_NN we_PRP focus_VBP on_IN the_DT problem_NN of_IN tuning_NN such_JJ systems_NNS ,_, leaving_VBG those_DT that_WDT finds_VBZ complex_JJ matches_NNS -LRB-_-LRB- e.g._FW ,_, address_NN =_JJ concat_NN -LRB-_-LRB- city_NN ,_, state_NN -RRB-_-RRB- =_JJ -_: =[_NN 19,35,72_CD -RRB-_-RRB- -_: =--RRB-_NN as_IN future_JJ work_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP handle_VBP only_RB relational_JJ schemas_NNS ,_, and_CC defer_VB handling_VBG other_JJ data_NNS representations_NNS -LRB-_-LRB- e.g._FW ,_, XML_NN schemas_NNS -RRB-_-RRB- to_TO the_DT future_JJ work_NN ._.
+2.1_CD Modeling_NN 1_CD --_: 1_CD matching_NN systems_NNS We_PRP define_VBP a_DT

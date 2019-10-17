@@ -1,0 +1,5 @@
+fied_VBD Balanced_NNP Winnow_NNP and_CC ROMMA_NNP ,_, respectively_RB ._.
+4_LS ._.
+EXPERIMENTS_NNS AND_CC RESULTS_NNS 4.1_CD Datasets_NNS The_DT algorithms_NNS described_VBN above_IN were_VBD evaluated_VBN in_IN several_JJ datasets_NNS ,_, from_IN different_JJ sources_NNS ._.
+The_DT RequestAct_NNP dataset_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: labels_VBZ email_NN messages_NNS as_IN having_VBG a_DT ``_`` Request_NN speech_NN act_NN ''_'' or_CC not_RB ._.
+In_IN addition_NN to_TO the_DT single_JJ word_NN features_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, all_DT word_NN sequences_NNS with_IN a_DT length_NN of_IN 2_CD ,_, 3_CD ,_, 4_CD or_CC 5_CD tokens_NNS were_VBD extracted_VBN and_CC considered_VBN to_TO be_VB

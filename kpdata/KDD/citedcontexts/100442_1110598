@@ -1,0 +1,4 @@
+nnesota_RB ,_, more_JJR than_IN one_CD million_CD flows_NNS are_VBP collected_VBN in_IN every_DT 10_CD minute_NN window_NN ._.
+Manual_JJ monitoring_NN of_IN this_DT data_NN is_VBZ impossible_JJ and_CC motivates_VBZ the_DT need_NN for_IN data_NN mining_NN techniques_NNS ._.
+Anomaly_JJ detection_NN systems_NNS =_JJ -_: =[_NN 8_CD ,_, 16_CD ,_, 4_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB used_VBN to_TO score_VB these_DT flows_NNS ,_, and_CC the_DT analyst_NN typically_RB looks_VBZ at_IN only_RB the_DT most_RBS anomalous_JJ flows_NNS to_TO identify_VB attacks_NNS or_CC other_JJ undesirable_JJ behavior_NN ._.
+Table_NNP 2_CD shows_VBZ 17_CD flows_NNS which_WDT were_VBD ranked_VBN as_IN most_JJS

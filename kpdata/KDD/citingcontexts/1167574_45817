@@ -1,0 +1,3 @@
+Vector_NNP Machine_NNP -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Since_IN we_PRP are_VBP interested_JJ in_IN direction_NN of_IN principal_JJ component_NN vector_NN with_IN regard_NN to_TO data_NNS mapped_VBN into_IN the_DT feature_NN space_NN ,_, we_PRP applied_VBD the_DT kernel_NN principal_NN component_NN analysis_NN -LRB-_-LRB- kernel_NN PCA_NN -RRB-_-RRB- =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: to_TO extract_VB the_DT feature_NN vector_NN ._.
+For_IN the_DT purpose_NN of_IN anomaly_JJ detection_NN ,_, it_PRP is_VBZ more_RBR significant_JJ to_TO estimate_VB the_DT directional_JJ distribution_NN of_IN the_DT principal_JJ component_NN vector_NN in_IN the_DT normal_JJ operation_NN than_IN to_TO

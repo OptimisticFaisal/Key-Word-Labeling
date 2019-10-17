@@ -1,0 +1,4 @@
+ed_VBN to_TO soccer_NN playing_NN robots_NNS as_IN an_DT example_NN for_IN a_DT multi-robot_JJ system_NN to_TO investigate_VB behavior_NN arbitration_NN by_IN reinforcement_NN learning_NN ._.
+Soccer_NN is_VBZ a_DT rich_JJ domain_NN for_IN the_DT study_NN of_IN multi-agent_JJ learning_NN issues_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Reinforcement_NN learning_NN -LRB-_-LRB- RL_NN -RRB-_-RRB- is_VBZ a_DT suitable_JJ learning_NN method_NN for_IN robotic_JJ soccer_NN because_IN it_PRP emulates_VBZ our_PRP$ own_JJ experience_NN in_IN playing_VBG soccer_NN ._.
+We_PRP usually_RB learn_VBP the_DT game_NN by_IN the_DT reward_NN and_CC punishment_NN that_IN we_PRP

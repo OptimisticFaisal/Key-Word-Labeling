@@ -1,0 +1,4 @@
+ediate_NN values_NNS 0_CD -LRB-_-LRB- θ_NN -LRB-_-LRB- ∞_NN ,_, and_CC is_VBZ therefore_RB not_RB necessarily_RB a_DT distance_NN metric_NN ._.
+The_DT definition_NN of_IN this_DT dissimilarity_NN measure_NN relies_VBZ on_IN a_DT model_NN inspired_VBN by_IN the_DT work_NN of_IN Akamatsu_NNP in_IN transportation_NN networks_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC extended_VBN recently_RB by_IN Saerens_FW et_FW al._FW in_FW -LRB-_-LRB- 52_CD -RRB-_-RRB- in_IN the_DT framework_NN of_IN network_NN routing_VBG ._.
+Consider_VB a_DT graph_NN or_CC network_NN G_NN where_WRB a_DT positive_JJ cost_NN is_VBZ associated_VBN to_TO each_DT arc_NN connecting_VBG two_CD nodes_NNS ._.
+Consider_VB furt_NN

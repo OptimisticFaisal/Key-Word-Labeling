@@ -1,0 +1,4 @@
+ps_NNS ._.
+1_CD Introduction_NN This_DT work_NN gives_VBZ an_DT overview_NN on_IN the_DT two_CD different_JJ methods_NNS that_IN we_PRP have_VBP investigated_VBN on_RP for_IN the_DT mining_NN and_CC the_DT visualization_NN of_IN collections_NNS of_IN music_NN with_IN Emergent_NNP SOM_NNP ._.
+The_DT MusicMiner_NN =_JJ -_: =[_NN 18_CD ,_, 17_CD ,_, 16_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ semantic_JJ audio_NN features_NNS learned_VBD from_IN a_DT labeling_NN of_IN the_DT songs_NNS into_IN timbrally_RB consistent_JJ groups_NNS ,_, e.g._FW ,_, genres_NNS ,_, to_TO visualize_VB a_DT collection_NN of_IN songs_NNS ._.
+Genres_NNS are_VBP commonly_RB used_VBN to_TO categorize_VB music_NN and_CC

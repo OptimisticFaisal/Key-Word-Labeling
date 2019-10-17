@@ -1,0 +1,4 @@
+h_NN ,_, numeric-based_JJ or_CC symbolic-based_JJ ._.
+Indeed_RB ,_, Keogh_NNP 's_POS paper_NN reports_VBZ a_DT comprehensive_JJ series_NN of_IN experiments_NNS to_TO show_VB that_IN there_EX is_VBZ no_DT sequence-data_JJ representation_NN that_WDT works_VBZ best_RBS for_IN all_DT kinds_NNS of_IN datasets_NNS =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT best_JJS sequencedata_NN representation_NN is_VBZ actually_RB application_NN dependent_JJ ._.
+B._NNP Sequence-data_NNP to_TO Semantics_NNP Mapping_NN Being_VBG able_JJ to_TO accurately_RB measure_VB similarity_NN between_IN data_NNS instances_NNS is_VBZ fundamental_JJ for_IN da_NN

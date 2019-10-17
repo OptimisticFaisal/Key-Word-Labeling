@@ -1,0 +1,4 @@
+er_JJR methods_NNS for_IN topic_NN model_NN inference_NN in_IN terms_NNS of_IN speed_NN and_CC accuracy_NN relative_JJ to_TO fully_RB retraining_VBG a_DT model_NN ._.
+We_PRP carried_VBD out_RP experiments_NNS on_IN two_CD datasets_NNS ,_, NIPS_NNP and_CC Pubmed_NNP ._.
+In_IN contrast_NN to_TO Banerjee_NNP and_CC Basu_NNP =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, who_WP evaluate_VBP different_JJ statistical_JJ models_NNS on_IN streaming_NN text_NN data_NNS ,_, we_PRP focus_VBP on_IN a_DT single_JJ model_NN -LRB-_-LRB- LDA_NN -RRB-_-RRB- and_CC compare_VB different_JJ inference_NN methods_NNS based_VBN on_IN this_DT model_NN ._.
+Second_RB ,_, since_IN many_JJ of_IN the_DT methods_NNS we_PRP d_SYM

@@ -1,0 +1,3 @@
+mations_NNS without_IN first_RB clustering_VBG the_DT curves_NNS ._.
+One_CD approach_NN is_VBZ to_TO preprocess_JJ or_CC post-process_JJ the_DT sets_NNS of_IN curves_NNS by_IN employing_VBG alignment_NN techniques_NNS such_JJ as_IN dynamic_JJ time-warping_NN before_IN or_CC after_IN clustering_NN =_JJ -_: =[_NN 36_CD ,_, 37_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT disadvantage_NN of_IN such_PDT an_DT approach_NN is_VBZ that_IN the_DT discovery_NN of_IN the_DT curve_NN transformations_NNS and_CC curve_NN clustering_NN are_VBP decoupled_VBN from_IN each_DT other_JJ ,_, which_WDT can_MD in_IN principle_NN weaken_VBP the_DT ability_NN of_IN a_DT clustering_NN

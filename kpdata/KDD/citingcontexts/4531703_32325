@@ -1,0 +1,6 @@
+nancial_JJ ,_, foreign_JJ ,_, metro_NN ,_, national_JJ ,_, and_CC sports_NNS desks_NNS ._.
+For_IN these_DT two_CD document_NN data_NNS sets_NNS ,_, we_PRP used_VBD a_DT stop-list_NN to_TO remove_VB common_JJ words_NNS ,_, and_CC the_DT words_NNS were_VBD stemmed_VBN using_VBG Porter_NNP 's_POS suffix-stripping_JJ algorithm_NN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+LIBSVM_NNP Data_NNP Sets_NNP ._.
+Finally_RB ,_, we_PRP applied_VBD four_CD binary_JJ data_NNS sets_NNS :_: fourclass_JJ ,_, german_JJ ._.
+numer_NN ,_, splice_NN and_CC SVMguide1_NN from_IN the_DT LIBSVM_NN repository_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Please_VB note_NN that_IN for_IN any_DT data_NNS set_VBN without_IN an_DT appointed_VBN test_NN

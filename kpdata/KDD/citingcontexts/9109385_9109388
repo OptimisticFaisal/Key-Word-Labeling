@@ -1,0 +1,5 @@
+to_TO the_DT high_JJ dimensional_JJ problem_NN ._.
+A_DT few_JJ works_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- -LRB-_-LRB- 3_CD -RRB-_-RRB- have_VBP attempted_VBN to_TO anonymize_VB query_NN logs_NNS ,_, but_CC considered_VBN only_JJ re-identifications_NNS via_IN one_CD or_CC two_CD query_NN terms_NNS ._.
+The_DT work_NN on_IN anonymizing_VBG social_JJ networks_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ loosely_RB related_JJ to_TO ours_PRP ._.
+In_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, the_DT authors_NNS model_VBP prior_JJ knowledge_NN as_IN small_JJ subgraphs_NNS with_IN a_DT few_JJ nodes_NNS ,_, in_IN a_DT similar_JJ way_NN that_IN we_PRP model_VBP attackers_NNS '_POS prior_JJ knowledge_NN as_IN subsets_NNS of_IN public_JJ items_NNS ._.
+In_IN -LRB-_-LRB- 1_CD

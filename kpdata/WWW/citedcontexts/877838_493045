@@ -1,0 +1,5 @@
+h_NN arrival_NN and_CC departure_NN gates_NNS ._.
+These_DT innovations_NNS in_IN travel_NN planning_NN and_CC monitoring_NN are_VBP made_VBN possible_JJ by_IN two_CD underlying_JJ AI_NN technologies_NNS ._.
+The_DT first_JJ is_VBZ the_DT Heracles_NNP interactive_JJ constraint-based_JJ planner_NN -LRB-_-LRB- =_JJ -_: =_JJ Knoblock_NNP et_FW al._FW 2001_CD -_: =--RRB-_NN ,_, which_WDT captures_VBZ the_DT interrelationships_NNS of_IN the_DT data_NNS and_CC user_NN choices_NNS using_VBG a_DT set_NN of_IN constraint_NN rules_NNS ._.
+Using_VBG Heracles_NNS we_PRP can_MD easily_RB define_VB a_DT system_NN for_IN interactively_RB planning_VBG a_DT trip_NN ._.
+The_DT second_JJ is_VBZ the_DT

@@ -1,0 +1,4 @@
+propriate_NN -RRB-_-RRB- notion_NN of_IN distance_NN ._.
+Finally_RB ,_, the_DT probabilistic_JJ framework_NN allows_VBZ one_CD to_TO address_VB issues_NNS such_JJ as_IN finding_VBG the_DT best_JJS number_NN of_IN clusters_NNS in_IN a_DT principled_JJ and_CC relatively_RB objective_JJ manner_NN -LRB-_-LRB- e.g._FW ,_, see_VBP =_JJ -_: =_JJ Fraley_NNP and_CC Raftery_NNP ,_, 1998_CD -_: =--RRB-_NN ._.
+3.2_CD Mixtures_NNS of_IN Regression_NN Models_NNS We_PRP can_MD straightforwardly_RB generalize_VB the_DT multivariate_JJ mixture_NN model_NN in_IN the_DT last_JJ section_NN -LRB-_-LRB- Eq_NN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- -RRB-_-RRB- to_TO define_VB mixtures_NNS of_IN regression_NN models_NNS ,_, where_WRB we_PRP have_VBP measurement_NN

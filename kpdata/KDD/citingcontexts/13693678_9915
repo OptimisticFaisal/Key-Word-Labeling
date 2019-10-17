@@ -1,0 +1,3 @@
+valently_RB ,_, the_DT number_NN of_IN edges_NNS grows_VBZ linearly_RB in_IN the_DT number_NN of_IN nodes_NNS ._. -RRB-_-RRB-
+-LRB-_-LRB- B_NN -RRB-_-RRB- Slowly_RB growing_VBG diameter_NN assumption_NN :_: The_DT diameter_NN is_VBZ a_DT slowly_RB growing_VBG function_NN of_IN the_DT network_NN size_NN ,_, as_IN in_IN ``_`` small_JJ world_NN ''_'' graphs_NNS =_JJ -_: =[_NN 4_CD ,_, 7_CD ,_, 22_CD ,_, 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+177Research_NNP Track_NNP Paper_NNP For_IN example_NN ,_, the_DT intensively-studied_JJ preferential_JJ attachment_NN model_NN -LRB-_-LRB- 3_CD ,_, 24_CD -RRB-_-RRB- posits_VBZ a_DT network_NN in_IN which_WDT each_DT new_JJ node_NN ,_, when_WRB it_PRP arrives_VBZ ,_, attaches_VBZ to_TO the_DT existing_VBG network_NN by_IN a_DT co_NN

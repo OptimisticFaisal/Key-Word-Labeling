@@ -1,0 +1,4 @@
+with_IN other_JJ organizations_NNS ._.
+Under_IN these_DT policies_NNS ,_, organizations_NNS share_VBP their_PRP$ raw_JJ data_NNS under_IN Non-disclosure_JJ agreements_NNS and_CC clustering_NN is_VBZ performed_VBN in_IN a_DT centralized_JJ warehouse_NN model_NN ._.
+Like_IN other_JJ researchers_NNS =_JJ -_: =[_NN 1_CD ,_, 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP believe_VBP centralized_JJ warehouse_NN model_NN is_VBZ limited_VBN in_IN scope_NN because_IN of_IN its_PRP$ inherent_JJ lack_NN of_IN scalability_NN and_CC associated_VBN costs_NNS ._.
+Therefore_RB distributed_VBN clustering_NN solutions_NNS are_VBP required_VBN which_WDT could_MD also_RB

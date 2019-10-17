@@ -1,0 +1,4 @@
+nd_IN ``_`` classical_JJ classification_NN ''_'' ._.
+Classification_NN is_VBZ also_RB an_DT active_JJ research_NN topic_NN in_IN machine_NN learning_NN ._.
+In_IN order_NN to_TO handle_VB the_DT few_JJ labeling_NN problem_NN ,_, semisupervised_JJ learning_NN -LRB-_-LRB- 20_CD ,_, 19_CD -RRB-_-RRB- and_CC transfer_NN learning_NN =_JJ -_: =[_NN 4_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP proposed_VBN ._.
+Given_VBN only_RB a_DT small_JJ portion_NN of_IN labeled_JJ data_NNS and_CC a_DT large_JJ amount_NN of_IN unlabeled_JJ data_NNS ,_, unlabeled_JJ data_NNS can_MD be_VB combined_VBN with_IN the_DT labeled_VBN data_NNS together_RB to_TO improve_VB the_DT accuracy_NN of_IN the_DT classifier_NN ._.

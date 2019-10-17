@@ -1,0 +1,4 @@
+roach_NN that_WDT efficiently_RB identifies_VBZ the_DT challenge_NN motif_NN as_RB well_RB as_IN other_JJ difficult_JJ motifs_NNS ,_, e.g._FW the_DT -LRB-_-LRB- 14,4_CD -RRB-_-RRB- -_: ,_, -LRB-_-LRB- 16,5_CD -RRB-_-RRB- -_: ,_, and_CC -LRB-_-LRB- 18,6_CD -RRB-_-RRB- -_: motifs_NNS ._.
+They_PRP study_VBP the_DT family_NN of_IN locality-preserving_JJ hash_JJ functions_NNS h_NN -LRB-_-LRB- w_NN -RRB-_-RRB- =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, that_WDT project_VBP the_DT l-letter_NN words_NNS w_NN -LRB-_-LRB- w1_NN ,_, w2_NN ,_, ..._: ,_, wl_NN -RRB-_-RRB- over_IN an_DT alphabet_NN Σ_NN ,_, into_IN ˆ_FW l-letter_FW words_NNS -LRB-_-LRB- ˆ_CD l_NN -LRB-_-LRB- l_NN -RRB-_-RRB- ._.
+I.e._NN h_NN -LRB-_-LRB- w_NN -RRB-_-RRB- :_: Σ_NN l_NN →_FW Σ_FW ˆ_FW l_NN ,_, and_CC h_NN -LRB-_-LRB- w_NN -RRB-_-RRB- =_JJ w_NN -LRB-_-LRB- wi1_NN ,_, wi2_NN ,_, ..._: ,_, wi_FW ˆl_FW -RRB-_-RRB- ._.
+The_DT basic_JJ observation_NN i_FW

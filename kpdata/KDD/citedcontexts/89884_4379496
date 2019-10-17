@@ -1,0 +1,4 @@
+structures_NNS ,_, and_CC so_RB on_RB ._.
+It_PRP is_VBZ important_JJ to_TO develop_VB scalable_JJ and_CC flexible_JJ methods_NNS for_IN mining_NN structured_JJ patterns_NNS in_IN such_JJ databases_NNS ._.
+There_EX have_VBP been_VBN some_DT recent_JJ work_NN on_IN mining_NN frequent_JJ subtrees_NNS ,_, such_JJ as_IN =_JJ -_: =[_NN 38_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC frequent_JJ subgraphs_NNS ,_, such_JJ as_IN -LRB-_-LRB- 18_CD ,_, 33_CD -RRB-_-RRB- in_IN structured_JJ databases_NNS ,_, where_WRB -LRB-_-LRB- 33_CD -RRB-_-RRB- shows_VBZ that_IN the_DT pattern_NN growth_NN approach_NN has_VBZ clear_JJ performance_NN edge_NN over_IN a_DT candidate_NN generation-and-test_JJ approach_NN ._.
+Furtherm_NN

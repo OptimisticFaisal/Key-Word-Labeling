@@ -1,0 +1,4 @@
+h_NN iteration_NN after_IN removing_VBG the_DT selected_VBN nodes_NNS ._.
+This_DT greedy_JJ approach_NN outperforms_VBZ PageRank_NN ,_, HITS_NN and_CC ranking_NN by_IN number_NN of_IN citations_NNS ,_, and_CC is_VBZ robust_JJ in_IN filtering_VBG splogs_NNS -LRB-_-LRB- spam_NN blogs_NNS -RRB-_-RRB- -LRB-_-LRB- 28_CD -RRB-_-RRB- ._.
+Leskovec_NNP et_FW al._FW =_SYM -_: =[_NN 41_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT submodularity_NN based_VBN approach_NN to_TO identify_VB the_DT most_RBS important_JJ blogs_NNS which_WDT outperforms_VBZ the_DT greedy_JJ approach_NN ._.
+Nakajima_NNP et_FW al._FW -LRB-_-LRB- 49_CD -RRB-_-RRB- attempts_NNS to_TO find_VB agitators_NNS ,_, who_WP stimulate_VBP discussions_NNS ;_: and_CC sum_VB

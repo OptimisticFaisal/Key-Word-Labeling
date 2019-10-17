@@ -1,0 +1,5 @@
+alize_VB the_DT individual_JJ time_NN series_NN using_VBG z-normalization_NN before_IN the_DT actual_JJ distance_NN is_VBZ computed_VBN ._.
+This_DT is_VBZ a_DT critical_JJ step_NN ;_: even_RB tiny_JJ differences_NNS in_IN scale_NN and_CC offset_VBD rapidly_RB swamp_VB any_DT similarity_NN in_IN shape_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN addition_NN ,_, we_PRP normalize_VBP the_DT distances_NNS by_IN dividing_VBG with_IN the_DT length_NN of_IN the_DT time_NN series_NN ._.
+This_DT allows_VBZ comparability_NN of_IN distances_NNS for_IN pairs_NNS of_IN time_NN series_NN of_IN various_JJ lengths_NNS ._.
+We_PRP call_VBP this_DT length-normal_JJ

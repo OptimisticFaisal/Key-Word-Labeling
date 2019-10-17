@@ -1,0 +1,5 @@
+tal_JJ study_NN ._.
+Most_JJS rule_NN learners_NNS ,_, e.g._FW ,_, the_DT AQ_NN family_NN ,_, CN2_NN and_CC RIPPER_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, also_RB implicitly_RB reduce_VB the_DT complexity_NN of_IN rule_NN sets_NNS in_IN order_NN to_TO achieve_VB good_JJ generalization_NN accuracy_NN ._.
+However_RB ,_, as_IN pointed_VBN out_RP by_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT minimality_NN of_IN rule_NN sets_NNS has_VBZ not_RB been_VBN a_DT ``_`` seriously_RB enforced_VBN bias_NN ''_'' ,_, which_WDT is_VBZ also_RB evident_JJ in_IN our_PRP$ experimental_JJ comparison_NN study_NN ._.
+The_DT MCSC_NNP formulation_NN ._.
+The_DT MRS_NNP problem_NN can_MD be_VB formulated_VBN as_IN an_DT MCSC_FW i_FW

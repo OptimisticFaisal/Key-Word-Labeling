@@ -1,0 +1,4 @@
+f_LS r_NN is_VBZ uniform_JJ ,_, i.e._FW ri_FW =_JJ 1\/N_NN for_IN all_DT i_FW ,_, then_RB p_NN is_VBZ the_DT PageRank_NNP ._.
+For_IN non-uniform_JJ r_NN the_DT solution_NN p_NN is_VBZ called_VBN personalized_JJ PageRank_NN ;_: we_PRP denote_VBP it_PRP by_IN PPR_NN -LRB-_-LRB- r_NN -RRB-_-RRB- ._.
+It_PRP is_VBZ easy_JJ to_TO see_VB that_IN PPR_NN -LRB-_-LRB- r_NN -RRB-_-RRB- is_VBZ linear_JJ in_IN r_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: ;_: in_IN particular_JJ -LRB-_-LRB- 1_LS -RRB-_-RRB- pi_NN =_JJ 1_CD N_NN PPRi_NN -LRB-_-LRB- χv_NN -RRB-_-RRB- v_LS where_WRB χv_NN is_VBZ the_DT teleportation_NN vector_NN consisting_VBG of_IN all_DT 0_CD except_IN for_IN node_NN v_LS where_WRB χv_NN -LRB-_-LRB- v_LS -RRB-_-RRB- =_JJ 1_CD ._.
+By_IN equation_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- we_PRP may_MD say_VB that_IN the_DT PageRank_NN of_IN page_NN i_FW arises_VBZ as_IN t_NN

@@ -1,0 +1,4 @@
+eled_VBN negative_JJ set_NN which_WDT is_VBZ typically_RB also_RB provided_VBN as_IN part_NN of_IN the_DT input_NN to_TO a_DT learning_NN algorithm_NN ._.
+However_RB ,_, we_PRP recently_RB showed_VBD why_WRB we_PRP were_VBD able_JJ to_TO do_VB almost_RB as_RB well_RB by_IN using_VBG unlabeled_JJ Medline_NNP documents_NNS =_JJ -_: =-LRB-_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT features_NNS that_IN we_PRP use_VBP are_VBP words_NNS that_WDT are_VBP associated_VBN with_IN each_DT document_NN ,_, either_CC by_IN appearing_VBG in_IN the_DT document_NN itself_PRP ,_, or_CC by_IN being_VBG part_NN of_IN a_DT set_NN of_IN keywords_NNS associated_VBN with_IN the_DT document_NN ._.
+That_DT is_VBZ ,_, ea_FW

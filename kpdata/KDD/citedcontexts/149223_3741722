@@ -1,0 +1,4 @@
+the_DT example_NN given_VBN by_IN Table_NNP 1_CD ._.
+Assume_VB that_IN we_PRP are_VBP interested_JJ in_IN all_DT subsets_NNS of_IN A_NN having_VBG an_DT area_NN greater_JJR than_IN 4_CD i.e._FW count_NN -LRB-_-LRB- X_NN -RRB-_-RRB- ×_CD length_NN -LRB-_-LRB- X_NN -RRB-_-RRB- ≥_NN 4_CD -LRB-_-LRB- where_WRB length_NN is_VBZ the_DT cardinality_NN of_IN the_DT pattern_NN -RRB-_-RRB- ._.
+Recently_RB ,_, =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP dedicated_VBN efficient_JJ approaches_NNS to_TO only_RB mine_VB the_DT closed_JJ patterns_NNS that_WDT check_VBP this_DT constraint_NN ._.
+The_DT constraint_NN of_IN area_NN is_VBZ difficult_JJ because_IN it_PRP is_VBZ neither_DT monotone_NN -LRB-_-LRB- area_NN -LRB-_-LRB- A_NN -RRB-_-RRB- ≥_NN 4_CD but_CC area_NN -LRB-_-LRB- ABF_NN -RRB-_-RRB- -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, n_NN

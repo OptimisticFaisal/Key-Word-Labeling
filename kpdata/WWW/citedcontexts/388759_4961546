@@ -1,0 +1,4 @@
+m_NN abstractions_NNS such_JJ as_IN filesystems_NNS and_CC processes_NNS ._.
+Ideally_RB ,_, each_DT application_NN tailors_VBZ the_DT abstractions_NNS to_TO its_PRP$ needs_NNS and_CC pays_VBZ only_RB for_IN what_WP it_PRP uses_VBZ ._.
+For_IN example_NN ,_, the_DT distributed_VBN search_NN application_NN Nutch_NN =_JJ -_: =[_NN 8_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: needs_VBZ a_DT Java_NNP virtual_JJ machine_NN ,_, access_NN to_TO a_DT read-only_JJ store_NN ,_, and_CC a_DT simple_JJ networking_NN stack_VBP ;_: Section_NN 5.3_CD shows_VBZ that_IN simple_JJ implementations_NNS of_IN these_DT abstractions_NNS achieve_VBP good_JJ performance_NN ._.
+Unfortunately_RB ,_,

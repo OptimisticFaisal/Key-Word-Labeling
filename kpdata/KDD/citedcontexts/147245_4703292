@@ -1,0 +1,4 @@
+ic_JJ -RRB-_-RRB- ._.
+The_DT window_NN sizes_NNS ,_, however_RB ,_, are_VBP still_RB fixed_VBN through_IN the_DT execution_NN and_CC externally_RB defined_VBN ._.
+The_DT third_JJ technique_NN ,_, combining_VBG models_NNS built_VBN at_IN different_JJ times_NNS by_IN ensemble_NN techniques_NNS ,_, is_VBZ investigated_VBN in_IN =_JJ -_: =[_NN 17_CD ,_, 19_CD ,_, 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT alleged_JJ advantage_NN of_IN the_DT method_NN is_VBZ that_IN algorithms_NNS for_IN model_NN building_NN can_MD be_VB used_VBN off-the-shelf_JJ ,_, since_IN models_NNS will_MD be_VB built_VBN from_IN a_DT static_JJ dataset_NN -LRB-_-LRB- namely_RB ,_, the_DT current_JJ window_NN -RRB-_-RRB- 3sand_NN they_PRP will_MD not_RB

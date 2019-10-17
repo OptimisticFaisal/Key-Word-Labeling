@@ -1,0 +1,4 @@
+nking_NN system_NN should_MD satisfy_VB and_CC develops_VBZ several_JJ ranking_JJ systems_NNS accordingly_RB ._.
+-LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 16_CD -RRB-_-RRB- systematically_RB model_NN distrust_VB by_IN modifying_VBG the_DT PageRank_NN equations_NNS to_TO consider_VB negatively-weighted_JJ edges_NNS ,_, and_CC =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: gives_VBZ an_DT algorithm_NN with_IN a_DT similar_JJ flavor_NN using_VBG random_JJ walks_VBZ ._.
+Many_JJ of_IN these_DT algorithms_NNS are_VBP closely_RB related_JJ ,_, but_CC rigorous_JJ analysis_NN is_VBZ desired_VBN for_IN capturing_VBG specific_JJ phenomena_NNS ._.
+We_PRP will_MD show_VB that_IN these_DT r_NN

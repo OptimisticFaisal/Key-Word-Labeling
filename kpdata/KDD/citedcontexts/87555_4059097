@@ -1,0 +1,6 @@
+ong_VB a_DT single_JJ path_NN from_IN the_DT root_NN to_TO a_DT leaf_NN ._.
+Indeed_RB ,_, cost-sensitive_JJ trees_NNS have_VBP been_VBN the_DT subject_NN of_IN many_JJ research_NN efforts_NNS ._.
+Several_JJ works_NNS proposed_VBD learners_NNS that_WDT consider_VBP different_JJ misclassification_NN costs_NNS =_JJ -_: =[_NN 7_CD ,_, 18_CD ,_, 6_CD ,_, 9_CD ,_, 10_CD ,_, 14_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT methods_NNS ,_, however_RB ,_, do_VBP not_RB consider_VB test_NN costs_NNS ._.
+Other_JJ authors_NNS designed_VBD tree_NN learners_NNS that_WDT take_VBP into_IN account_NN test_NN costs_NNS ,_, such_JJ as_IN IDX_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, CSID3_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, and_CC EG2_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+These_DT methods_NNS ,_, however_RB ,_, do_VBP not_RB

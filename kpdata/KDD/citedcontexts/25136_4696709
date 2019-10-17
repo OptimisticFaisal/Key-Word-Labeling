@@ -1,0 +1,4 @@
+rule_NN mining_NN in_IN distributed_VBN environments_NNS were_VBD proposed_VBN by_IN Kantarcioglu_NNP and_CC Clifton_NNP -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Privacy_NN preserving_NN techniques_NNS for_IN clustering_NN over_IN vertically_RB partitioned_VBN data_NNS was_VBD proposed_VBN by_IN Vaidya_NNP and_CC Clifton_NNP =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT privacy_NN preserving_NN clustering_NN technique_NN on_IN horizontally_RB partitioned_VBN data_NNS ._.
+Our_PRP$ method_NN is_VBZ based_VBN on_IN constructing_VBG the_DT dissimilarity_NN matrix_NN of_IN objects_NNS from_IN different_JJ sites_NNS in_IN

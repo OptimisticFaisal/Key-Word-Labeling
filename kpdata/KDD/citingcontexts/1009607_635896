@@ -1,0 +1,4 @@
+d_NN to_TO other_JJ methods_NNS based_VBN on_IN algebraic_JJ moments_NNS ,_, curvature_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- and_CC Hausdorff_NN distance_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, the_DT turning_NN angle_NN has_VBZ been_VBN shown_VBN to_TO be_VB the_DT most_RBS robust_JJ for_IN the_DT retrieval_NN of_IN two_CD dimensional_JJ images_NNS and_CC shapes_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3_LS ._.
+ROTATION_NNP INVARIANT_NNP TRAJECTORY_NNP DISTANCE_NNP FUNCTIONS_NNP Let_NNP P_NN be_VB a_DT trajectory_NN of_IN a_DT moving_VBG object_NN ._.
+P_NN is_VBZ then_RB a_DT sequence_NN of_IN 2-dimensional_JJ vectors_NNS 1_CD ,_, each_DT describing_VBG the_DT position_NN of_IN the_DT object_NN at_IN time_NN ins_NNS

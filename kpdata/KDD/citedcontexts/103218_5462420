@@ -1,0 +1,5 @@
+per_IN uses_VBZ Syslog_NNP ,_, rather_RB than_IN event_NN messages_NNS from_IN multiple_JJ network_NN layers_NNS ,_, as_IN its_PRP$ data_NNS source_NN ._.
+2_CD ._.
+RELATED_NNS WORK_VBP Many_JJ previous_JJ works_NNS have_VBP studied_VBN event_NN correlation_NN and_CC sequential_JJ pattern_NN mining_NN ,_, such_JJ as_IN =_JJ -_: =[_NN 2_CD ,_, 3_CD ,_, 4_CD ,_, 5_CD ,_, 6_CD ,_, 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: to_TO name_VB but_CC a_DT few_JJ ._.
+Many_JJ papers_NNS have_VBP also_RB used_VBN temporal_JJ heuristics_NNS to_TO improve_VB the_DT accuracy_NN of_IN their_PRP$ results_NNS ._.
+However_RB ,_, while_IN many_JJ papers_NNS have_VBP shown_VBN how_WRB these_DT heuristics_NNS can_MD be_VB used_VBN to_TO improve_VB event_NN cor_NN

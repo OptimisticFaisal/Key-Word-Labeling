@@ -1,0 +1,4 @@
+just_RB DPL_NNP plot_NN -RRB-_-RRB- to_TO refer_VB to_TO the_DT log-log_JJ plot_NN of_IN number_NN of_IN edges_NNS e_SYM -LRB-_-LRB- t_NN -RRB-_-RRB- versus_CC number_NN of_IN nodes_NNS n_NN -LRB-_-LRB- t_NN -RRB-_-RRB- ._.
+3.1.1_FW ArXiv_FW citation_NN graph_NN We_PRP first_RB investigate_VBP a_DT citation_NN graph_NN provided_VBN as_IN part_NN of_IN the_DT 2003_CD KDD_NNP Cup_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT HEP_NN --_: TH_NN -LRB-_-LRB- high_JJ energy_NN physics_NN theory_NN -RRB-_-RRB- citation_NN graph_NN from_IN the_DT e-printarXivcoversallthe_NN citations_NNS within_IN a_DT dataset_NN of_IN n_NN =_JJ 29,555_CD papers_NNS with_IN e_SYM =_JJ 352,807_CD edges_NNS ._.
+If_IN a_DT paper_NN i_FW cites_VBZ paper_NN j_NN ,_, the_DT graph_NN co_NN

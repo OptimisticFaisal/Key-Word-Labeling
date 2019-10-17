@@ -1,0 +1,6 @@
+Domain-constrained_JJ semi-supervised_JJ mining_NN of_IN tracking_NN models_NNS in_IN sensor_NN networks_NNS
+e_LS users_NNS would_MD like_VB to_TO know_VB the_DT intruder_NN 's_POS energy_NN to_TO judge_VB the_DT threat_NN level_NN ._.
+•_NNP Unsupervised_NNP Learning_NNP :_: Several_JJ intrusion_NN detection_NN methods_NNS build_VBP up_RP the_DT models_NNS or_CC classifiers_NNS based_VBN on_IN a_DT training_NN dataset_NN =_JJ -_: =[_NN 13_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, such_JJ training_NN datasets_NNS are_VBP hard_JJ to_TO get_VB in_IN realistic_JJ deployments_NNS ._.
+It_PRP is_VBZ costly_JJ and_CC error-prone_JJ to_TO manually_RB label_VB a_DT large_JJ sensor_NN dataset_NN ._.
+In_IN addition_NN ,_, the_DT data_NNS are_VBP based_VBN on_IN a_DT specific_JJ deploym_NN

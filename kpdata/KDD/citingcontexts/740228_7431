@@ -1,0 +1,4 @@
+rithm_NN described_VBN in_IN Section_NNP 4.3_CD ,_, we_PRP need_VBP to_TO set_VB some_DT parameters_NNS ._.
+In_IN our_PRP$ experimental_JJ setting_NN ,_, we_PRP took_VBD :_: k_NN =_JJ min_NN -LRB-_-LRB- 10_CD ,_, n_NN -RRB-_-RRB- λ_NN =_JJ 10_CD -LRB-_-LRB- 17_CD -RRB-_-RRB- We_PRP tested_VBD three_CD algorithms_NNS over_IN 11_CD datasets_NNS from_IN the_DT Irvine_NNP repository_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: plus_CC our_PRP$ own_JJ credit_NN screening_NN database_NN ._.
+To_TO discretize_VB continuous_JJ attributes_NNS we_PRP used_VBD equal_JJ frequency_NN discretization_NN with_IN 5_CD intervals_NNS ._.
+For_IN each_DT dataset_NN and_CC algorithm_NN we_PRP evaluated_VBD accuracy_NN and_CC LogScore_NN ._.

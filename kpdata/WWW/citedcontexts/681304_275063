@@ -1,0 +1,4 @@
+uses_VBZ two_CD vectors_NNS in_IN the_DT implementation_NN ._.
+We_PRP remark_VBP that_IN a_DT single_JJ vector_NN suffices_VBZ since_IN by_IN using_VBG updated_VBN values_NNS within_IN an_DT iteration_NN we_PRP only_RB speed_VBP convergence_NN up_RP ._.
+A_DT similar_JJ argument_NN is_VBZ given_VBN by_IN McSherry_NN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: for_IN the_DT power_NN iteration_NN ,_, however_RB there_RB the_DT resulting_VBG sequential_JJ update_VBP procedure_NN still_RB requires_VBZ two_CD vectors_NNS ._.
+2.1_CD Rounding_VBG In_IN Algorithm_NN 1_CD we_PRP compute_VBP the_DT steps_NNS of_IN the_DT dynamic_JJ programming_NN personalized_VBD P_NN

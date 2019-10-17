@@ -1,0 +1,3 @@
+ted_VBN in_IN this_DT paper_NN are_VBP averages_NNS over_IN those_DT 10_CD runs_NNS -LRB-_-LRB- Covertype_JJ experiments_NNS were_VBD repeated_VBN only_RB 4_CD times_NNS due_JJ to_TO time_NN constraints_NNS -RRB-_-RRB- ._.
+All_DT experiments_NNS in_IN this_DT paper_NN utilize_VBP the_DT J48_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- implementation_NN of_IN C4_NN .5_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: from_IN WEKA_NN release_NN 3.5.8_CD ._.
+Our_PRP$ CDE-based_JJ methods_NNS compensate_VBP for_IN changes_NNS in_IN class_NN distribution_NN using_VBG WEKA_NNP 's_POS costsensitive_JJ learning_NN capabilities_NNS ,_, which_WDT in_IN WEKA_NNP are_VBP implemented_VBN using_VBG example_NN reweighting_NN ._.

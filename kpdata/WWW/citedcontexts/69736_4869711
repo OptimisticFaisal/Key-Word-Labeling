@@ -1,0 +1,3 @@
+a_DT similarity_NN ,_, then_RB a_DT meta-learner_NN is_VBZ applied_VBN to_TO aggregate_NN all_PDT the_DT similarities_NNS by_IN means_NNS of_IN weighted_JJ average_NN ,_, where_WRB the_DT weights_NNS are_VBP also_RB obtained_VBN by_IN machine_NN learning_NN ._.
+LSD_NNP has_VBZ an_DT extension_NN called_VBN GLUE_NN =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT gives_VBZ flexible_JJ similarity_NN definition_NN and_CC a_DT technique_NN to_TO take_VB into_IN account_NN background_NN knowledge_NN ._.
+Unlike_IN LSD_NNP ,_, COMA_NNP uses_VBZ schema-level_JJ matchers_NNS without_IN a_DT learning_NN process_NN ,_, and_CC it_PRP can_MD employ_VB hybrid_NN

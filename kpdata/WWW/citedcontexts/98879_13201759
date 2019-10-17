@@ -1,0 +1,4 @@
+islike_JJ B_NN -RRB-_-RRB- -LRB-_-LRB- bottom_JJ -RRB-_-RRB- rules_NNS discovered_VBN by_IN ˆp_NN on_IN Netflix_NNP ._.
+to_TO evaluate_VB the_DT similarity_NN level_NN between_IN different_JJ users_NNS ._.
+More_RBR recent_JJ work_NN includes_VBZ user_NN and_CC movie_NN clustering_NN -LRB-_-LRB- 1_CD ,_, 18_CD ,_, 20_CD -RRB-_-RRB- ,_, item-item_JJ similarities_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Bayesian_JJ networks_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, dependence_NN network_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC probabilistic_JJ latent_JJ variable_JJ models_NNS -LRB-_-LRB- 14_CD ,_, 6_CD ,_, 13_CD -RRB-_-RRB- ._.
+Parametric_NNP alternatives_NNS to_TO our_PRP$ non-parametric_JJ estimator_NN include_VBP MLE_NNP for_IN the_DT Mallows_NNP model_NN -LRB-_-LRB- 11_CD ,_, 3_CD -RRB-_-RRB- ,_,

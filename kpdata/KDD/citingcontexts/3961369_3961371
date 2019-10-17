@@ -1,0 +1,5 @@
+indistinguishable_JJ tuples_NNS ._.
+That_DT is_VBZ ,_, number_NN of_IN tuples_NNS in_IN the_DT table_NN CAV_NN G_NN =_JJ number_NN of_IN group-bys_NNS on_IN quasi-identifier_FW ·_FW k_NN ._.
+The_DT ideal_JJ anonymization_NN should_MD minimize_VB the_DT penalty_NN ._.
+However_RB ,_, theoretical_JJ analysis_NN =_JJ -_: =[_NN 2_CD ,_, 8_CD ,_, 7_CD ,_, 3_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: indicates_VBZ that_IN the_DT problem_NN of_IN optimal_JJ anonymization_NN under_IN many_JJ non-trivial_JJ quality_NN models_NNS is_VBZ NP-hard_JJ ._.
+A_DT few_JJ approximation_NN methods_NNS were_VBD developed_VBN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, such_JJ as_IN datafly_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, annealing_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, and_CC Mondria_NNP

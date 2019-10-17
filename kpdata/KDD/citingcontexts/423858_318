@@ -1,0 +1,4 @@
+ed_VBN to_TO the_DT topic_NN of_IN this_DT paper_NN ,_, and_CC introduce_VB some_DT basic_JJ concepts_NNS and_CC terminology_NN ._.
+2.1_CD Spatio-temporal_JJ sequential_JJ patterns_NNS The_DT basic_JJ frequent_JJ sequential_JJ pattern_NN -LRB-_-LRB- FSP_NN -RRB-_-RRB- problem_NN ,_, originally_RB introduced_VBN in_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, is_VBZ defined_VBN over_IN a_DT database_NN of_IN sequences_NNS D_NN ,_, where_WRB each_DT element_NN of_IN each_DT sequence_NN is_VBZ a_DT timestamped_JJ set_NN of_IN items_NNS --_: i.e._FW ,_, an_DT itemset_NN ._.
+Time-stamps_NNS determine_VBP the_DT order_NN of_IN elements_NNS in_IN the_DT sequence_NN ._.
+Then_RB ,_, th_DT

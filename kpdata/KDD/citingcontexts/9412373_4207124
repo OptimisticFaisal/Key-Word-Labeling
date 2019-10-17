@@ -1,0 +1,5 @@
+ugust_NN 24_CD --_: 27_CD ,_, 2008_CD ,_, Las_NNP Vegas_NNP ,_, Nevada_NNP ,_, USA_NNP ._.
+Copyright_NN 2008_CD ACM_NNP 978-1-60558-193-4_CD \/_: 08\/08_CD ..._: $_$ 5.00_CD ._.
+Figure_NN 1_CD :_: Graphical_JJ representation_NN of_IN the_DT query_NN decomposition_NN problem_NN ._.
+do_VB not_RB have_VB sufficient_JJ knowledge_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC thus_RB they_PRP may_MD not_RB be_VB able_JJ to_TO specify_VB precisely_RB their_PRP$ information_NN need_NN ._.
+In_IN order_NN to_TO help_VB the_DT users_NNS locate_VBP information_NN more_RBR effectively_RB ,_, most_RBS large-scale_JJ Web_NN search_NN engines_NNS offer_VBP query_NN recommendat_NN

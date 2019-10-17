@@ -1,0 +1,3 @@
+utational_JJ complexity_NN of_IN SVD_NN approximation_NN algorithms_NNS is_VBZ dependent_JJ on_IN the_DT number_NN of_IN factors_NNS required_VBN -LRB-_-LRB- k_NN -RRB-_-RRB- ,_, the_DT sparseness_NN of_IN the_DT original_JJ term-document_JJ matrix_NN ,_, and_CC the_DT number_NN of_IN documents_NNS in_IN the_DT corpus_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Many_JJ approximation_NN algorithms_NNS for_IN computing_VBG only_RB the_DT k_NN largest_JJS singular_JJ values_NNS and_CC their_PRP$ associated_VBN vectors_NNS exist_VBP -LRB-_-LRB- 1_CD ,_, 2_CD -RRB-_-RRB- ._.
+Furthermore_RB ,_, the_DT data_NNS in_IN Figure_NNP 5_CD of_IN -LRB-_-LRB- 29_CD -RRB-_-RRB- indicates_VBZ that_IN the_DT complexity_NN of_IN t_NN

@@ -1,0 +1,4 @@
+NTS_NNS For_IN each_DT element_NN ,_, we_PRP extract_VBP both_CC content_JJ and_CC visual_JJ features_NNS as_IN listed_VBN in_IN Table_NNP 1_CD ._.
+All_PDT the_DT features_NNS can_MD be_VB obtained_VBN through_IN rendering_VBG a_DT page_NN ._.
+Previous_JJ work_NN -LRB-_-LRB- Zhai_NNP and_CC Liu_NNP ,_, 2005_CD ;_: Zhu_NNP et_FW al._FW ,_, 2005_CD ;_: =_JJ -_: =_JJ Zhao_NNP et_FW al._FW ,_, 2005_CD -_: =_JJ -_: ;_: Gatterbauer_NNP et_FW al._FW ,_, 2007_CD -RRB-_-RRB- has_VBZ shown_VBN the_DT effectiveness_NN of_IN visual_JJ features_NNS for_IN webpage_NN analysis_NN and_CC information_NN extraction_NN ._.
+5.1.2_CD FEATURES_NNS OF_IN BLOCKS_NNS The_DT features_NNS of_IN inner_JJ blocks_NNS are_VBP aggregations_NNS of_IN th_DT

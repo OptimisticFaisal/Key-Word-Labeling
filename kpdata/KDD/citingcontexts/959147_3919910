@@ -1,0 +1,4 @@
+on_IN routines_NNS ._.
+This_DT provides_VBZ an_DT interesting_JJ alternative_NN to_TO popular_JJ structures_NNS such_JJ as_IN the_DT frequent_JJ pattern_NN tree_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, whose_WP$ variants_NNS have_VBP previously_RB been_VBN proposed_VBN as_IN an_DT effective_JJ contrast_NN mining_NN method_NN =_JJ -_: =[_NN 3_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Furthermore_RB ,_, our_PRP$ approach_NN is_VBZ quite_RB general_JJ ,_, in_IN the_DT sense_NN that_IN it_PRP is_VBZ adaptable_JJ to_TO a_DT range_NN of_IN other_JJ mining_NN objectives_NNS ._.
+•_RB We_PRP present_VBP an_DT algorithm_NN that_WDT uses_VBZ ZBDDs_NNS to_TO mine_VB a_DT wellknown_JJ ,_, simple_JJ type_NN of_IN con_NN

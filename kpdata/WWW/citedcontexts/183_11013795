@@ -1,0 +1,6 @@
+ormation_NN retrieval_NN ._.
+7_CD ._.
+RELATED_NNS WORK_VBP There_EX is_VBZ an_DT extensive_JJ literature_NN on_IN query_NN routing_VBG algorithms_NNS ,_, particularly_RB in_IN P2P_NNP Networks_NNP ._.
+In_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, queries_NNS are_VBP routed_VBN via_IN a_DT relationship-based_JJ overlay_NN network_NN ._.
+In_IN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, answerers_NNS of_IN a_DT multicast_JJ query_NN are_VBP ranked_VBN via_IN a_DT decentralized_JJ authority_NN score_NN ._.
+In_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, queries_NNS are_VBP routed_VBN through_IN a_DT supernode_NN that_IN routes_NNS to_TO answerers_NNS based_VBN on_IN authority_NN ,_, responsiveness_NN ,_, and_CC experti_NNS

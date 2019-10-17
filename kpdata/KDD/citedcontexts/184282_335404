@@ -1,0 +1,4 @@
+ti_IN and_CC Mehrotra_NNP recently_RB proposed_VBD an_DT integration_NN of_IN dimensionality_NN reduction_NN with_IN clustering_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Random_JJ projections_NNS have_VBP been_VBN used_VBN recently_RB for_IN dimensionality_NN reduction_NN in_IN image_NN and_CC text_NN data_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+Theoretical_JJ results_NNS and_CC experiments_NNS on_IN noisy_JJ image_NN data_NNS demonstrate_VBP the_DT ability_NN of_IN this_DT method_NN in_IN preserving_VBG the_DT distances_NNS ._.
+And_CC ,_, finally_RB ,_, a_DT nonlinear_JJ dimensionality_NN reduction_NN was_VBD proposed_VBN in_IN -LRB-_-LRB-

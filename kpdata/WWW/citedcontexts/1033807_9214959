@@ -1,0 +1,5 @@
+ontrol_JJ policy_NN evaluation_NN engine_NN ,_, which_WDT can_MD receive_VB XACML_NN requests_NNS and_CC retrieve_VB XACML_NN policies_NNS applicable_JJ to_TO the_DT requests_NNS ._.
+Existing_VBG approaches_NNS focus_VB on_IN testing_NN access_NN control_NN policies_NNS written_VBN in_IN XACML_NN =_JJ -_: =[_NN 12_CD ,_, 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC no_DT approach_NN focuses_VBZ on_IN testing_VBG an_DT XACML_NN implementation_NN ._.
+To_TO test_VB XACML_NN implementations_NNS ,_, we_PRP need_VBP XACML_NN policies_NNS and_CC requests_NNS as_IN test_NN inputs_NNS ._.
+The_DT test_NN outputs_NNS are_VBP XACML_JJ responses_NNS ._.
+However_RB ,_, test_NN inp_NN

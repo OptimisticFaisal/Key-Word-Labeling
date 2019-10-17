@@ -1,0 +1,5 @@
+ve_RB been_VBN studied_VBN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+DL8_NN can_MD be_VB conceived_VBN as_IN the_DT generalization_NN of_IN these_DT pruning_NN strategies_NNS to_TO a_DT larger_JJR type_NN of_IN data_NNS structure_NN ._.
+Related_VBN is_VBZ also_RB the_DT work_NN of_IN Moore_NNP and_CC Lee_NNP on_IN the_DT ADtree_NN data_NNS structure_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT ADtree_NN can_MD be_VB seen_VBN as_IN an_DT index_NN that_WDT allows_VBZ for_IN a_DT quick_JJ frequency_NN computation_NN ._.
+A_DT key_JJ feature_NN of_IN an_DT ADtree_NN is_VBZ that_IN it_PRP does_VBZ not_RB store_VB specializations_NNS of_IN itemsets_NNS that_WDT are_VBP relatively_RB infrequent_JJ ;_: for_IN

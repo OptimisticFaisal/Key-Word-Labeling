@@ -1,0 +1,5 @@
+._.
+For_IN each_DT training_NN set_VBD created_VBN ,_, two_CD types_NNS of_IN classi_JJ cation_NN models_NNS are_VBP constructed_VBN and_CC evaluated_VBN against_IN the_DT test_NN set_NN ._.
+The_DT rst_NN type_NN of_IN model_NN is_VBZ a_DT decision_NN tree_NN constructed_VBN using_VBG the_DT tree_NN package_NN DMSK_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT second_JJ type_NN of_IN model_NN is_VBZ created_VBN using_VBG adaptive_JJ resampling_NN of_IN the_DT training_NN set_VBN with_IN 100_CD DMSK_NN trees_NNS ._.
+Figure_NN 2_CD shows_VBZ the_DT results_NNS averaged_VBD over_IN ten_CD experiments_NNS for_IN each_DT partition_NN in_IN the_DT 10-fold_JJ cros_NNS

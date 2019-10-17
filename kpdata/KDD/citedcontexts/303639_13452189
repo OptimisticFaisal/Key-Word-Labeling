@@ -1,0 +1,5 @@
+ore_NN general_JJ way_NN ,_, our_PRP$ approach_NN explores_VBZ the_DT space_NN coverages_NNS rather_RB than_IN the_DT space_NN partitions_NNS like_IN k-means_NN does_VBZ ._.
+On_IN this_DT point_NN of_IN view_NN ,_, our_PRP$ approach_NN is_VBZ similar_JJ to_TO the_DT MOC_NNP algorithm_NN recently_RB proposed_VBN in_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT is_VBZ a_DT kind_NN of_IN generalization_NN of_IN EM_NNP ._.
+We_PRP will_MD show_VB that_IN MOC_NN suffers_VBZ from_IN theoretical_JJ limits_NNS and_CC algorithmic_JJ solutions_NNS which_WDT degrade_VBP its_PRP$ efficiency_NN ._.
+3_LS ._.
+The_DT OKM_NNP approach_NN 3.1_CD Objective_NN criterion_NN Give_VB

@@ -1,0 +1,3 @@
+or_CC visualizing_VBG sets_NNS of_IN discrete_JJ symbolic_JJ sequences_NNS ,_, where_WRB an_DT appropriate_JJ divergence_NN measure_NN is_VBZ defined_VBN by_IN the_DT noise_NN model_NN 1_CD ._.
+The_DT model_NN is_VBZ a_DT constrained_VBN mixture_NN of_IN discrete_JJ hidden_JJ Markov_NNP models_NNS -LRB-_-LRB- HMM_NN -RRB-_-RRB- =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, where_WRB the_DT constraint_NN ,_, introduced_VBN in_IN the_DT spirit_NN of_IN -LRB-_-LRB- 2_CD ,_, 7_CD -RRB-_-RRB- ,_, provides_VBZ the_DT model_NN with_IN topographic_JJ organization_NN capabilities_NNS ._.
+The_DT remainder_NN of_IN the_DT paper_NN is_VBZ organised_VBN as_IN follows_VBZ :_: Section_NN 2_CD introduces_VBZ the_DT

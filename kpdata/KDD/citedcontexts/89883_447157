@@ -1,0 +1,5 @@
+AGM_NN and_CC mines_NNS only_RB the_DT connected_JJ subgraphs_NNS ._.
+Both_DT methods_NNS follow_VBP an_DT Apriori-style_JJ level-wise_JJ approach_NN ._.
+Recent_JJ methods_NNS to_TO mine_VB graphs_NNS using_VBG a_DT depthfirst_JJ tree-based_JJ extension_NN have_VBP been_VBN proposed_VBN in_IN -LRB-_-LRB- 36_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 37_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Another_DT method_NN uses_VBZ a_DT candidate_NN generation_NN approach_NN based_VBN on_IN Canonical_JJ Adjacency_NN Matrices_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+The_DT GASTON_NN method_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- adopts_VBZ an_DT interesting_JJ step-wise_JJ approach_NN using_VBG a_DT combination_NN of_IN path_NN ,_, free_JJ tree_NN

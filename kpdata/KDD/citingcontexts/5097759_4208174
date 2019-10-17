@@ -1,0 +1,4 @@
+utomatically_RB extracted_VBN records_NNS ._.
+One_CD approach_NN when_WRB consolidating_VBG extractions_NNS from_IN various_JJ sources_NNS is_VBZ to_TO perform_VB some_DT type_NN of_IN weighted_JJ voting_NN to_TO determine_VB which_WDT facts_NNS should_MD be_VB inserted_VBN in_IN the_DT database_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Another_DT approach_NN is_VBZ to_TO store_VB the_DT uncertainty_NN of_IN these_DT extractions_NNS directly_RB in_IN the_DT database_NN ._.
+This_DT can_MD be_VB accomplished_VBN by_IN storing_VBG the_DT top_JJ n_NN most_RBS confident_JJ extraction_NN results_NNS -LRB-_-LRB- along_IN with_IN corresponding_VBG

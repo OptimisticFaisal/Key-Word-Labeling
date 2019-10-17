@@ -1,0 +1,5 @@
+branches_NNS can_MD signal_VB simple_JJ anomalous_JJ patterns_NNS ._.
+Figure_NN 5_CD demonstrates_VBZ both_CC motif_NN discovery_NN and_CC simple_JJ anomaly_JJ detection_NN on_IN an_DT MIT-BIH_NN Noise_NN Stress_NN Test_NN Dataset_NN -LRB-_-LRB- ECG_NN recordings_NNS -RRB-_-RRB- obtained_VBN from_IN PhyioBank_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB ,_, motifs_NNS can_MD be_VB identified_VBN very_RB easily_RB from_IN the_DT thick_JJ branches_NNS ._.
+More_RBR remarkably_RB ,_, there_EX is_VBZ one_CD very_RB thin_JJ line_NN straying_VBG off_RP on_IN its_PRP$ own_JJ -LRB-_-LRB- the_DT path_NN that_WDT starts_VBZ with_IN ``_`` a_DT ''_'' -RRB-_-RRB- ._.
+This_DT line_NN turns_VBZ out_RP to_TO be_VB an_DT

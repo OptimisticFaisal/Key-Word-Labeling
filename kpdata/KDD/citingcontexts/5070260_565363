@@ -1,0 +1,5 @@
+e_LS L2optimal_JJ synopsis_NN ,_, with_IN B_NN =_JJ 2_CD ,_, for_IN the_DT data_NNS vector_NN in_IN Figure_NNP 1a_NNP is_VBZ -LCB-_-LRB- 〈_NN 0_CD ,_, 4_CD 〉_NN ,_, 〈_NN 5_CD ,_, −_NN 7_CD 〉_NN -RCB-_-RRB- ._.
+This_DT computational_JJ convenience_NN has_VBZ allowed_VBN for_IN the_DT extension_NN of_IN the_DT L2-synopsis_NN methodology_NN to_TO various_JJ settings_NNS =_JJ -_: =[_NN 10_CD ,_, 18_CD ,_, 5_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+On_IN the_DT other_JJ hand_NN ,_, the_DT problem_NN is_VBZ computationally_RB harder_RBR for_IN maximum-error_JJ metrics_NNS ._.
+Restricted_JJ Synopses_NNS for_IN Maximum-Error_NNP Metrics_NNPS ._.
+After_IN its_PRP$ identification_NN in_IN -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, the_DT first_JJ systematic_JJ treatment_NN of_IN

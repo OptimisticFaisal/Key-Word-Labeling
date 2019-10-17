@@ -1,0 +1,5 @@
+are_VBP applied_VBN to_TO the_DT dataset_NN as_IN a_DT preprocessing_VBG step_NN before_IN feeding_VBG it_PRP into_IN the_DT learning_NN algorithms_NNS ._.
+Finally_RB ,_, we_PRP use_VBP the_DT average_NN squared_VBD error_NN as_IN our_PRP$ last_JJ performance_NN comparison_NN metric_NN ._.
+Recent_JJ research_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: shows_VBZ that_IN this_DT metric_NN is_VBZ remarkably_RB robust_JJ and_CC hassAttribute_NN name_NN Information_NNP gain_NN Gain_NNP Ratio_NNP Chi-Square_NNP SVM_NNP feature_NN Avg_NN ._.
+Rank_NNP Attribute_NNP Eval_NNP ._.
+evaluator_NN Sum_NN of_IN Papers_NNP 3_CD 4_CD 3_CD 4_CD 3_CD Sum_NN of_IN Neighbors_NNS 1_CD 3_CD

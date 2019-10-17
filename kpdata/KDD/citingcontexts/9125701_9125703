@@ -1,0 +1,5 @@
+the_DT modeling_NN results_NNS ._.
+We_PRP conclude_VBP the_DT paper_NN in_IN Section_NN 8.2_CD ._.
+RELATED_NNS WORK_VBP 2.1_CD Person_NN Profile_NNP Extraction_NNP Several_JJ research_NN efforts_NNS have_VBP been_VBN made_VBN for_IN extracting_VBG person_NN profiles_NNS ._.
+For_IN example_NN ,_, Yu_FW et_FW al._FW =_SYM -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP a_DT two-stage_JJ extraction_NN method_NN for_IN identifying_VBG personal_JJ information_NN from_IN resumes_NNS ._.
+The_DT first_JJ stage_NN segments_NNS a_DT resume_VBP into_IN different_JJ types_NNS of_IN blocks_NNS and_CC the_DT second_JJ stage_NN extracts_NNS the_DT detailed_VBN in_IN

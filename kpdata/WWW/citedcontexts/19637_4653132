@@ -1,0 +1,4 @@
+b_NN scores_NNS are_VBP mutually_RB reinforced_VBN ,_, and_CC they_PRP can_MD be_VB computed_VBN recursively_RB ._.
+Following_VBG the_DT success_NN of_IN the_DT PageRank_NNP and_CC HITS_NNP ,_, other_JJ linkbased_JJ algorithms_NNS have_VBP also_RB been_VBN developed_VBN ,_, such_JJ as_IN SALSA_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, pSALSA_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC PHITS_NN -LRB-_-LRB- Probabilistic_JJ HITS_NN -RRB-_-RRB- -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, etc._NN ._.
+Recently_RB ,_, the_DT link-based_JJ similarity_NN measures_NNS have_VBP been_VBN suggested_VBN over_IN the_DT web_NN graph_NN ._.
+However_RB ,_, as_IN we_PRP mentioned_VBD before_RB ,_, a_DT link-based_JJ similarity_NN measure_NN has_VBZ to_TO

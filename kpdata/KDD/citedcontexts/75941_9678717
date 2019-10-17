@@ -1,0 +1,4 @@
+ed_VBN usages_NNS of_IN the_DT pattern_NN ._.
+For_IN exploratory_JJ data_NNS mining_NN ,_, frequent_JJ subgraphs_NNS with_IN sufficiently_RB high_JJ support_NN suffice_NN ;_: for_IN classification_NN task_NN ,_, high_JJ quality_NN discriminatory_JJ subgraphs_NNS are_VBP desirable_JJ ,_, etc._NN ._.
+In_IN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: ,_, authors_NNS list_VBP twenty-one_CD different_JJ interestingness_NN measures_NNS ;_: though_IN they_PRP are_VBP formulated_VBN with_IN the_DT set_NN pattern_NN in_IN mind_NN ,_, many_JJ of_IN them_PRP can_MD easily_RB be_VB adapted_VBN for_IN subgraph_JJ patterns_NNS ._.
+Frequency_NN based_VBN interes_NNS

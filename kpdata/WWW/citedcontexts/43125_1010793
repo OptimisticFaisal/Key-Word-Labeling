@@ -1,0 +1,5 @@
+ements_NNS are_VBP represented_VBN respectively_RB by_IN a_DT +_CC and_CC a_DT −_NN near_IN the_DT edge_NN ._.
+Precisely_RB ,_, 85.29_CD %_NN of_IN the_DT edges_NNS are_VBP labeled_VBN trust_NN and_CC only_RB 14.71_CD %_NN are_VBP distrust_VB edges_NNS ._.
+Some_DT statistics_NNS about_IN this_DT graph_NN can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN particular_JJ ,_, the_DT in-degree_JJ and_CC out-degree_JJ distributions_NNS of_IN this_DT directed_JJ graph_NN ,_, treating_VBG both_CC the_DT trust_NN and_CC distrust_VB edges_NNS ,_, suggest_VBP a_DT power_NN law_NN typical_JJ of_IN the_DT structure_NN of_IN the_DT Web_NN ._.
+However_RB ,_, the_DT ex_FW

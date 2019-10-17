@@ -1,0 +1,5 @@
+f_LS no_DT more_JJR candidates_NNS can_MD be_VB generated_VBN ._.
+Again_RB ,_, this_DT technique_NN can_MD be_VB combined_VBN with_IN our_PRP$ technique_NN in_IN the_DT same_JJ algorithm_NN ._.
+Another_DT type_NN of_IN algorithms_NNS generate_VBP frequent_JJ patterns_NNS using_VBG a_DT depth-first_JJ search_NN =_JJ -_: =[_NN 30_CD ,_, 1_CD ,_, 2_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Generating_NNP patterns_NNS in_IN a_DT depth-first_JJ manner_NN implies_VBZ that_IN the_DT monotonicity_NN property_NN can_MD not_RB be_VB exploited_VBN anymore_RB ._.
+Hence_RB ,_, a_DT lot_NN more_JJR patterns_NNS will_MD be_VB generated_VBN and_CC need_VBP to_TO be_VB counted_VBN ,_, compared_VBN to_TO the_DT b_NN

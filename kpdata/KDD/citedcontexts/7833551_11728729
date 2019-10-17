@@ -1,0 +1,3 @@
+This_DT is_VBZ conceptually_RB illustrated_VBN in_IN Figures_NNS 1_CD -LRB-_-LRB- a_DT -RRB-_-RRB- and_CC 1_CD -LRB-_-LRB- b_NN -RRB-_-RRB- ,_, where_WRB the_DT classifier_NN is_VBZ adjusted_VBN to_TO every_DT snapshot_NN and_CC becomes_VBZ too_RB sensitive_JJ to_TO the_DT particular_JJ realization_NN of_IN the_DT data_NNS set_NN ._.
+Previous_JJ work_NN by_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 6_CD -RRB-_-RRB- has_VBZ indicated_VBN that_IN taking_VBG previous_JJ data_NNS snapshots_NNS into_IN account_NN can_MD be_VB rather_RB helpful_JJ and_CC be_VB seen_VBN as_IN a_DT form_NN of_IN weak_JJ supervision_NN ._.
+Figure_NN 1_CD -LRB-_-LRB- c_NN -RRB-_-RRB- shows_VBZ an_DT example_NN where_WRB the_DT classifier_NN obtained_VBN from_IN

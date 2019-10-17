@@ -1,0 +1,5 @@
+ogical_JJ expectation_NN for_IN coregulated_JJ genes_NNS ._.
+Methods_NNS ._.
+The_DT first_JJ method_NN uses_VBZ the_DT Gene_NN Ontology_NN -LRB-_-LRB- GO_NN -RRB-_-RRB- ,_, a_DT set_NN of_IN structured_JJ ,_, controlled_JJ vocabularies_NNS to_TO identify_VB functional_JJ associations_NNS between_IN gene_NN products_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Current_NNP GO_NNP annotation_NN and_CC external_JJ reference_NN files_NNS were_VBD downloaded_VBN from_IN the_DT Gene_NNP Ontology_NNP Annotation_NNP resource_NN at_IN EBI_NN -LRB-_-LRB- www.ebi.ac.uk\/GOA_NN -RRB-_-RRB- ._.
+Using_VBG these_DT files_NNS ,_, and_CC the_DT Ensembl_FW Perl_FW API_NN -LRB-_-LRB- www.ensembl.org_NN

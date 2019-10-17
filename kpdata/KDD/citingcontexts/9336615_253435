@@ -1,0 +1,3 @@
+first_JJ part_NN is_VBZ contributed_VBN from_IN the_DT representations_NNS in_IN the_DT original_JJ data_NNS space_NN ,_, and_CC the_DT second_JJ one_CD is_VBZ contributed_VBN from_IN the_DT embedding_NN in_IN the_DT shared_JJ subspace_NN ._.
+A_DT similar_JJ formulation_NN has_VBZ been_VBN proposed_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: for_IN multi-task_JJ learning_NN ._.
+We_PRP show_VBP that_IN when_WRB the_DT least_JJS squares_NNS loss_NN is_VBZ used_VBN in_IN classification_NN ,_, the_DT linear_JJ transformation_NN that_WDT characterizes_VBZ the_DT shared_JJ subspace_NN can_MD be_VB computed_VBN by_IN solving_VBG a_DT generalized_VBN

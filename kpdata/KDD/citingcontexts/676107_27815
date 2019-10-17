@@ -1,0 +1,4 @@
+-LRB-_-LRB- 7_CD -RRB-_-RRB- This_NNP S_NNP VMII_NNP ._.
+I_NN reformulation_NN in_IN effect_NN maximizes_VBZ the_DT margin_NN ,_, the_DT distance_NN between_IN the_DT two_CD bounding_VBG planes_NNS of_IN Figures_NNS 1_CD and_CC 2_CD ,_, using_VBG a_DT different_JJ norm_NN ,_, the_DT oo-norm_NN ,_, and_CC results_VBZ with_IN 2_CD instead_RB of_IN 2_CD =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+a_DT margin_NN in_IN terms_NNS of_IN the_DT 1-norm_NN ,_, ,_, ,_, ,_, The_DT mathematical_JJ program_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- is_VBZ easily_RB converted_VBN to_TO a_DT linear_JJ program_NN as_IN follows_VBZ :_: min_NN yy_NN +_CC v_LS +_CC i_FW y._FW -LRB-_-LRB- w_NN ,_, \/_: ,_, y_NN ,_, v_LS -RRB-_-RRB- GRn_NN +_CC l_NN +_CC m_NN +_CC n_NN s.t._NN D_NN -LRB-_-LRB- Aw_UH -_: 7_CD -RRB-_-RRB- +_CC Y_NN -_: s_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- v_LS -RRB-_-RRB- w_NN -RRB-_-RRB- --_: v_LS -RRB-_-RRB- 0_CD ._.
+Y_NN

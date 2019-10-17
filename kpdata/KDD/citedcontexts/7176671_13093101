@@ -1,0 +1,5 @@
+he_PRP lack_NN of_IN sufficient_JJ training_NN examples_NNS ._.
+Natural_JJ language_NN techniques_NNS -LRB-_-LRB- NLP_NN -RRB-_-RRB- were_VBD also_RB utilized_VBN to_TO extract_VB relations_NNS from_IN Wikipedia_NNP via_IN syntactic_JJ parsing_NN and_CC tree_NN mining_NN ._.
+In_IN this_DT regard_NN ,_, Nguyen_NNP et_NNP ._.
+al._FW =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =-[_NN 11_CD -RRB-_-RRB- proposed_VBD a_DT framework_NN to_TO extract_VB relations_NNS from_IN Wikipedia_NNP using_VBG a_DT syntactic_JJ parser_NN and_CC several_JJ NLP_NN techniques_NNS ._.
+The_DT process_NN starts_VBZ by_IN extracting_VBG the_DT hyperlinks_NNS from_IN each_DT Wikipedia_NNP article_NN ,_, then_RB ,_, th_DT

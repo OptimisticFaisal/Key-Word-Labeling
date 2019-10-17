@@ -1,0 +1,4 @@
+ons_NNS -RRB-_-RRB- ._.
+Note_VB that_IN the_DT class_NN labels_NNS of_IN this_DT dataset_NN have_VBP all_DT been_VBN verified_VBN by_IN real_JJ escalations_NNS of_IN the_DT software_NN products_NNS ,_, thus_RB this_DT dataset_NN contains_VBZ much_RB less_JJR noise_NN than_IN the_DT one_CD used_VBN in_IN our_PRP$ previous_JJ work_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT total_JJ number_NN of_IN attributes_NNS is_VBZ 53_CD ,_, most_JJS of_IN which_WDT are_VBP numerical_JJ attributes_NNS -LRB-_-LRB- including_VBG dates_NNS -RRB-_-RRB- ,_, and_CC a_DT few_JJ are_VBP nominal_JJ -LRB-_-LRB- such_JJ as_IN product_NN name_NN -RRB-_-RRB- ._.
+The_DT system_NN uses_VBZ three_CD types_NNS of_IN inputs_NNS :_: 1_LS -RRB-_-RRB- raw_JJ inputs_NNS whi_VBP

@@ -1,0 +1,5 @@
+and_CC associated_VBN information_NN ._.
+This_DT is_VBZ not_RB straightforwardly_RB achieved_VBN using_VBG ADtrees_NNS ._.
+Algorithmically_RB ,_, the_DT tree-relevancy_NN constraint_NN is_VBZ closely_RB related_JJ to_TO the_DT condensed_JJ representation_NN of_IN δ-free_FW itemsets_FW =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Indeed_RB ,_, for_IN δ_NN =_JJ minsup_FW ×_FW |_NN D_NN |_NN and_CC p_NN -LRB-_-LRB- I_NN -RRB-_-RRB- :_: =_JJ -LRB-_-LRB- freq_NN -LRB-_-LRB- I_NN -RRB-_-RRB- ≥_FW minfreq_FW -RRB-_-RRB- ,_, it_PRP can_MD be_VB shown_VBN that_IN if_IN an_DT itemset_NN is_VBZ δ-free_NN ,_, it_PRP is_VBZ also_RB treerelevant_JJ ._.
+DL8-Closed_JJ employs_VBZ ideas_NNS that_WDT have_VBP also_RB been_VBN exploited_VBN in_IN the_DT forma_FW

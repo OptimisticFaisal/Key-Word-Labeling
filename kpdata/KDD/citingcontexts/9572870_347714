@@ -1,0 +1,4 @@
+hese_VB new_JJ examples_NNS are_VBP assigned_VBN predicted_VBN class_NN labels_NNS ._.
+We_PRP introduce_VBP two_CD main_JJ SSLbased_JJ methods_NNS :_: a_DT simple_JJ method_NN that_WDT only_RB uses_VBZ the_DT examples_NNS from_IN NEW_NN unlabel_NN to_TO build_VB the_DT classifier_NN and_CC a_DT self-training_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: variant_NN that_WDT iteratively_RB merges_VBZ the_DT examples_NNS from_IN ORIG_NNP label_NN with_IN NEW_NN unlabel_NN ._.
+Finally_RB ,_, we_PRP introduce_VBP a_DT hybrid_NN method_NN that_WDT integrates_VBZ features_NNS from_IN the_DT CDE-based_JJ and_CC SSL-based_JJ methods_NNS ._.
+We_PRP evaluate_VBP all_DT

@@ -1,0 +1,4 @@
+meaningless_JJ nonsense_NN ._.
+Another_DT problem_NN with_IN negative_JJ weights_NNS is_VBZ that_IN if_IN negative_JJ inlinks_NNS lower_JJR ranking_NN ,_, it_PRP is_VBZ possible_JJ to_TO raise_VB own_JJ ranking_NN by_IN creating_VBG negative_JJ outlinks_NNS toward_IN competing_VBG nodes_NNS ._.
+BadRank_NN =_JJ -_: =_JJ -LRB-_-LRB- WuD05_NN -RRB-_-RRB- -_: =_JJ -_: algorithm_NN solves_VBZ this_DT by_IN inverting_VBG the_DT direction_NN of_IN calculation_NN -_: a_DT node_NN 's_POS ranking_NN is_VBZ lowered_VBN ,_, if_IN it_PRP has_VBZ nodes_NNS with_IN negative_JJ weights_NNS as_IN outlinked_JJ nodes_NNS ._.
+The_DT ParentPenalty_NN algorithm_NN -LRB-_-LRB- WuD05_NN -RRB-_-RRB- is_VBZ a_DT variat_NN

@@ -1,0 +1,5 @@
+imental_JJ Setup_NN For_IN our_PRP$ experiments_NNS ,_, we_PRP use_VBP linear_JJ support_NN vector_NN machine_NN -LRB-_-LRB- SVM_NN -RRB-_-RRB- models_NNS as_IN the_DT underlying_JJ classifier_NN ._.
+The_DT training_NN algorithm_NN we_PRP use_VBP for_IN our_PRP$ experiments_NNS is_VBZ Sequential_JJ Minimal_JJ Optimization_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+All_DT experiments_NNS were_VBD executed_VBN on_IN an_DT 2.4_CD Ghz_NNP Intel_NNP dualcore_NN 660_CD Processor_NNP with_IN 4GB_NN of_IN main_JJ memory_NN ._.
+We_PRP used_VBD a_DT SQL_NN Server_NN 2005_CD database_NN as_IN the_DT underlying_JJ storage_NN engine_NN ._.
+We_PRP use_VBP 3.2_CD million_CD page_NN Wikipedi_NNP

@@ -1,0 +1,3 @@
+decision_NN making_NN by_IN predicting_VBG class_NN labels_NNS for_IN given_VBN data_NNS based_VBN on_IN past_JJ records_NNS ,_, classification_NN on_IN stream_NN data_NNS has_VBZ been_VBN extensively_RB studied_VBN in_IN recent_JJ years_NNS ,_, with_IN many_JJ interesting_JJ algorithms_NNS developed_VBD =_JJ -_: =[_NN 10_CD ,_, 14_CD ,_, 7_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, there_EX are_VBP still_RB some_DT open_JJ problems_NNS in_IN stream_NN classification_NN as_IN illustrated_VBN below_IN ._.
+First_JJ ,_, descriptive_JJ -LRB-_-LRB- non-parametric_JJ -RRB-_-RRB- and_CC generative_JJ -LRB-_-LRB- parametric_JJ -RRB-_-RRB- methods_NNS are_VBP two_CD major_JJ categories_NNS for_IN stream_NN

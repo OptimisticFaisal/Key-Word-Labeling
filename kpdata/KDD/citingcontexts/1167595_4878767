@@ -1,0 +1,4 @@
+the_DT application_NN layer_NN in_IN Web-based_JJ systems_NNS ,_, where_WRB traditional_JJ autoregressive_JJ models_NNS with_IN white_JJ noise_NN are_VBP not_RB appropriate_JJ because_IN of_IN the_DT strong_JJ fluctuation_NN and_CC the_DT heavy_JJ tail_NN nature_NN of_IN data_NNS ._.
+Reference_NNP =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: applied_VBD the_DT approach_NN of_IN Refs_NNS ._.
+-LRB-_-LRB- 24_CD ,_, 23_CD -RRB-_-RRB- to_TO a_DT fault_NN detection_NN task_NN in_IN a_DT local-area_JJ network_NN ._.
+However_RB ,_, it_PRP only_RB uses_VBZ information_NN from_IN a_DT single_JJ observation_NN point_NN ,_, and_CC considers_VBZ only_RB lower_JJR layer_NN quantities_NNS ._.

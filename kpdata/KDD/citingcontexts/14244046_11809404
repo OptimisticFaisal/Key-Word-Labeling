@@ -1,0 +1,5 @@
+ctivate_NN oncogenes_NNS and_CC are_VBP hallmarks_NNS of_IN nearly_RB all_DT advanced_JJ tumors_NNS -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Amplified_VBN genes_NNS represent_VBP attractive_JJ targets_NNS for_IN therapy_NN ,_, diagnostics_NNS and_CC prognostics_NNS ._.
+This_DT dataset_NN exhibits_VBZ a_DT banded_VBN structure_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT Mammals_NNPS presence_NN data_NNS 4_CD consists_VBZ of_IN presence_NN records_NNS of_IN 124_CD European_JJ mammals_NNS within_IN 2183_CD geographical_JJ areas_NNS of_IN 50_CD ×_CD 50_CD kilometers_NNS -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+Newsgroups_NNP is_VBZ a_DT subset_NN of_IN the_DT 20Newsgroups_FW dataset_FW ,_, 5_CD cont_NN

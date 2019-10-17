@@ -1,0 +1,5 @@
+o_NN such_JJ verification_NN techniques_NNS ._.
+Instead_RB ,_, we4_FW Ankolekar_FW et_FW al._FW use_NN model_NN checking_NN ,_, a_DT method_NN that_WDT has_VBZ been_VBN fairly_RB successful_JJ in_IN the_DT verification_NN of_IN distributed_VBN systems_NNS ,_, such_JJ as_IN Web_NN services_NNS -LRB-_-LRB- e.g._FW BPEL_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Model_NNP checking_NN exhaustively_RB checks_VBZ all_DT possible_JJ executions_NNS of_IN a_DT system_NN to_TO verify_VB that_IN certain_JJ properties_NNS hold_VBP ._.
+It_PRP can_MD thus_RB formally_RB prove_VB the_DT correctness_NN of_IN a_DT system_NN ._.
+To_TO construct_VB such_JJ proofs_NNS ,_, mode_NN

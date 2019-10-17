@@ -1,0 +1,6 @@
+k-th_NN nearest_IN neighbor_NN ._.
+A_DT partition-based_JJ algorithm_NN is_VBZ then_RB used_VBN to_TO efficiently_RB mine_VB top-n_NN outliers_NNS ._.
+An_DT approximation_NN solution_NN to_TO enable_VB scalability_NN with_IN increasing_VBG data_NNS dimensionality_NN is_VBZ proposed_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, as_IN adaptation_NN to_TO high-dimensional_JJ data_NNS ,_, only_RB the_DT time-complexity_JJ issue_NN is_VBZ tackled_VBN ._.
+The_DT inherent_JJ problems_NNS of_IN high-dimensional_JJ data_NNS are_VBP not_RB addressed_VBN by_IN this_DT or_CC any_DT other_JJ approach_NN ._.
+On_IN the_DT con_NN

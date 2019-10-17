@@ -1,0 +1,4 @@
+community_NN ._.
+One_CD of_IN the_DT goals_NNS of_IN traditional_JJ data_NNS mining_NN algorithms_NNS is_VBZ to_TO learn_VB models_NNS from_IN large_JJ databases_NNS with_IN boundedmemory_NN ._.
+It_PRP has_VBZ been_VBN achieved_VBN by_IN several_JJ classification_NN methods_NNS ,_, including_VBG Sprint_NNP =_SYM -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, BOAT_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, etc._NN ._.
+Nevertheless_RB ,_, the_DT fact_NN that_IN these_DT algorithms_NNS require_VBP multiple_JJ scans_NNS of_IN the_DT training_NN data_NNS makes_VBZ them_PRP inappropriate_JJ in_IN the_DT streaming_NN environment_NN where_WRB examples_NNS are_VBP coming_VBG in_RP at_IN a_DT highe_NN

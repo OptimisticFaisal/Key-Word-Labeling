@@ -1,0 +1,4 @@
+ommon_NN ,_, whereas_IN in_IN LMF_NNP ,_, each_DT source_NN of_IN information_NN is_VBZ a_DT network_NN on_IN exactly_RB the_DT same_JJ set_NN of_IN users_NNS ._.
+Singh_NNP and_CC Gordon_NNP have_VBP proposed_VBN a_DT model_NN for_IN relational_JJ learning_NN called_VBN Collective_NNP Matrix_NNP Factorization_NNP -LRB-_-LRB- =_JJ -_: =_JJ Singh_NNP and_CC Gordon_NNP 2008_CD -_: =-]_CD ._.
+They_PRP suggest_VBP a_DT generalized_JJ framework_NN for_IN inferring_VBG relations_NNS ,_, given_VBN a_DT set_NN of_IN entities_NNS and_CC observed_VBN relations_NNS among_IN them_PRP ._.
+This_DT model_NN factors_VBZ multiple_JJ source_NN matrices_NNS simultaneously_RB ,_, and_CC uses_VBZ common_JJ

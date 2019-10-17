@@ -1,0 +1,5 @@
+datasets_NNS directly_RB ._.
+Instead_RB ,_, we_PRP model_VBP each_DT dataset_NN as_IN a_DT relational_JJ graph_NN ,_, where_WRB nodes_NNS represent_VBP genes_NNS ,_, and_CC we_PRP connect_VBP two_CD genes_NNS with_IN an_DT edge_NN if_IN they_PRP have_VBP high_JJ correlation_NN in_IN their_PRP$ expression_NN profiles_NNS =_JJ -_: =[_NN 5_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+On_IN average_NN ,_, each_DT graph_NN have_VBP around_IN 600_CD ,_, 000_CD edges_NNS ._.
+In_IN general_JJ ,_, genes_NNS with_IN correlated_VBN expression_NN profiles_NNS are_VBP likely_JJ to_TO be_VB functionally_RB related_JJ ._.
+We_PRP applied_VBD CloseCut_NNP and_CC Splat_NNP in_IN this_DT microarray_NN datas_VBZ

@@ -1,0 +1,4 @@
+atter_NN algorithms_NNS can_MD be_VB easily_RB adapted_VBN to_TO solve_VB the_DT former_JJ problem_NN ._.
+In_IN recent_JJ years_NNS ,_, a_DT number_NN of_IN efficient_JJ and_CC scalable_JJ algorithms_NNS have_VBP been_VBN developed_VBN to_TO find_VB patterns_NNS in_IN the_DT graphtransaction_NN setting_NN =_JJ -_: =[_NN 7_CD ,_, 44_CD ,_, 22_CD ,_, 20_CD ,_, 45_CD ,_, 18_CD ,_, 21_CD ,_, 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT algorithms_NNS are_VBP complete_JJ in_IN the_DT sense_NN that_IN they_PRP are_VBP guaranteed_VBN to_TO discover_VB all_DT frequent_JJ subgraphs_NNS and_CC were_VBD shown_VBN to_TO scale_VB to_TO very_RB large_JJ graph_NN datasets_NNS ._.
+However_RB ,_, developing_VBG algorithms_NNS that_WDT are_VBP c_NN

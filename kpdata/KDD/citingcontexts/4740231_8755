@@ -1,0 +1,4 @@
+he_PRP state_NN in_IN the_DT next_JJ hour_NN ._.
+An_DT alternative_NN ,_, which_WDT we_PRP found_VBD worked_VBD much_RB better_JJR in_IN practice_NN ,_, is_VBZ to_TO set_VB y_NN to_TO be_VB the_DT actual_JJ number_NN of_IN violations_NNS occurring_VBG in_IN an_DT hour_NN ._.
+We_PRP used_VBD the_DT Levinson-Durbin_NNP algorithm_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: for_IN estimating_VBG the_DT AR_NN coefficients_NNS given_VBN an_DT autocorrelation_NN sequence_NN derived_VBN from_IN the_DT sets_NNS of_IN consecutive_JJ training_NN data_NNS ._.
+We_PRP also_RB experimented_VBD with_IN several_JJ other_JJ methods_NNS including_VBG the_DT Yule-Walker_NNP algo_NN

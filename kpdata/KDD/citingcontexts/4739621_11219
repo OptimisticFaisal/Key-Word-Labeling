@@ -1,0 +1,4 @@
+Another_DT approach_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- proposes_VBZ a_DT new_JJ scheme_NN for_IN automatic_JJ hierarchical_JJ image_NN classification_NN ._.
+Using_VBG banded_VBN color_NN correlograms_NNS ,_, the_DT approach_NN models_NNS the_DT features_NNS using_VBG singular_JJ value_NN decomposition_NN -LRB-_-LRB- SVD_NN -RRB-_-RRB- =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: and_CC constructs_NNS a_DT classification_NN tree_NN ._.
+The_DT technique_NN used_VBD extracts_NNS a_DT certain_JJ form_NN of_IN knowledge_NN to_TO classify_VB images_NNS ._.
+Using_VBG a_DT noise-tolerant_JJ SVD_NN description_NN ,_, the_DT image_NN is_VBZ classified_VBN in_IN the_DT training_NN data_NNS

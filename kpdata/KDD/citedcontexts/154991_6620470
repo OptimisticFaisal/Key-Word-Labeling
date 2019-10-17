@@ -1,0 +1,3 @@
+us_PRP Work_NNP There_EX have_VBP been_VBN several_JJ approaches_NNS to_TO automatically_RB discovering_VBG lexico-semantic_JJ information_NN from_IN text_NN -LRB-_-LRB- Hearst_NNP 1992_CD ;_: Riloff_NNP and_CC Shepherd_NNP 1997_CD ;_: Riloff_NNP and_CC Jones_NNP 1999_CD ;_: Berland_NNP and_CC Charniak_NNP 1999_CD ;_: =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP 2002_CD -_: =_JJ -_: ;_: Fleischman_NNP et_FW al._FW 2003_CD ;_: Girju_NNP et_FW al._FW 2003_CD -RRB-_-RRB- ._.
+One_CD approach_NN constructs_NNS automatic_JJ thesauri_NN by_IN computing_VBG the_DT similarity_NN between_IN words_NNS based_VBN on_IN their_PRP$ distribution_NN in_IN a_DT corpus_NN -LRB-_-LRB- Hindle_NN 1990_CD ;_: Lin_NNP 1998_CD -RRB-_-RRB- ._.
+The_DT

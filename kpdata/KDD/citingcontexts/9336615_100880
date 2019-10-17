@@ -1,0 +1,4 @@
+ectors_NNS of_IN the_DT mators_NNS of_IN S_NNP −_NNP 1_CD 1_CD trix_NN X_NN T_NN Y_NN Y_NN T_NN X_NN ,_, which_WDT is_VBZ the_DT inter-class_JJ scatter_NN matrix_NN used_VBN in_IN LDA_NNP ._.
+In_IN this_DT case_NN ,_, the_DT proposed_VBN formulation_NN is_VBZ closely_RB related_JJ to_TO the_DT orthogonal_JJ centroid_NN method_NN -LRB-_-LRB- OCM_NN -RRB-_-RRB- =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: in_IN which_WDT the_DT optimal_JJ transformation_NN is_VBZ given_VBN by_IN the_DT eigenvectors_NNS of_IN the_DT inter-class_JJ scatter_NN matrix_NN corresponding_VBG to_TO the_DT largest_JJS eigenvalues_NNS ._.
+5_CD ._.
+EXPERIMENTAL_JJ STUDY_NN In_IN this_DT section_NN ,_, we_PRP evaluate_VBP the_DT pro_NN

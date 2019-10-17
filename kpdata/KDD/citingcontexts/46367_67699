@@ -1,0 +1,3 @@
+er_RB ,_, it_PRP is_VBZ a_DT sequence_NN of_IN iterative_JJ steps_NNS that_WDT include_VBP -LRB-_-LRB- but_CC not_RB limited_JJ to_TO -RRB-_-RRB- data_NNS cleaning_NN and_CC preprocessing_NN ,_, feature_NN extraction_NN and_CC data_NN mining_NN ,_, and_CC consolidating_VBG and_CC utilizing_VBG the_DT discovered_VBN knowledge_NN =_JJ -_: =_JJ -LRB-_-LRB- FPSS96_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, most_JJS of_IN the_DT research_NN in_IN KDD_NNP focuses_VBZ on_IN the_DT data_NNS mining_NN step_NN ,_, which_WDT assumes_VBZ the_DT availability_NN of_IN preprocessed_JJ data_NNS ._.
+Since_IN KDD_NNP is_VBZ about_IN finding_VBG useful_JJ knowledge_NN ,_, it_PRP would_MD be_VB interesting_JJ to_TO see_VB

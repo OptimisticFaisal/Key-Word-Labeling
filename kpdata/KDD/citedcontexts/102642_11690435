@@ -1,0 +1,4 @@
+t_NN take_NN into_IN account_NN directional_JJ attachment_NN ._.
+A_DT community_NN is_VBZ defined_VBN as_IN a_DT collection_NN of_IN nodes_NNS in_IN which_WDT each_DT member_NN node_NN has_VBZ more_JJR links_NNS to_TO nodes_NNS within_IN the_DT community_NN than_IN to_TO nodes_NNS outside_IN the_DT community_NN -LRB-_-LRB- =_JJ -_: =_JJ Flake_NNP ,_, Lawrence_NNP ,_, &_CC Giles_NNP ,_, 2000_CD -_: =_JJ -_: ;_: Girvan_NNP &_CC Newman_NNP ,_, 2002_CD ;_: Kleinberg_NNP &_CC Lawrence_NNP ,_, 2001_CD -RRB-_-RRB- ._.
+For_IN example_NN ,_, communities_NNS in_IN a_DT citation_NN network_NN might_MD represent_VB related_JJ papers_NNS on_IN a_DT single_JJ topic_NN ._.
+Namely_RB ,_, the_DT community_NN structure_NN of_IN a_DT network_NN is_VBZ d_NN

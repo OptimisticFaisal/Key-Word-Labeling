@@ -1,0 +1,4 @@
+i_LS =_JJ 1_CD θi_FW mi_FW log_NN mi_FW mθi_FW ∼_FW χ_FW 2_CD k_NN −_NN 1_CD ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- where_WRB T_NN -LRB-_-LRB- X_NN -RRB-_-RRB- is_VBZ the_DT test_NN statistic_NN for_IN G-Test_NN ,_, and_CC asymptotically_RB conforms_VBZ to_TO χ_NN 2_CD k_NN −_NN 1_CD under_IN H0_NN ._.
+A_DT rigid_JJ derivation_NN for_IN the_DT asymptotical_JJ approximation_NN can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Given_VBN a_DT significance_NN level_NN α_NN ,_, we_PRP then_RB check_VB whether_IN T_NN -LRB-_-LRB- X_NN -RRB-_-RRB- -RRB-_-RRB- χ_NN 2_CD k_NN −_NN 1_CD -LRB-_-LRB- α_NN -RRB-_-RRB- ,_, where_WRB χ_NN 2_CD k_NN −_NN 1_CD -LRB-_-LRB- α_NN -RRB-_-RRB- is_VBZ the_DT upper_JJ α_FW ∗_FW 100_CD percentile_NN of_IN the_DT χ_NN 2_CD k_NN −_NN 1_CD distribution_NN ._.
+If_IN it_PRP is_VBZ ,_, H0_NN is_VBZ rejected_VBN ,_, which_WDT means_VBZ that_IN g_NN ′_NN is_VBZ

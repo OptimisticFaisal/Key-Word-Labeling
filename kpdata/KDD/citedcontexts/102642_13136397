@@ -1,0 +1,4 @@
+-LRB-_-LRB- τ_FW ≤_FW 1_CD ._.
+A_DT corresponding_JJ optimization_NN problem_NN is_VBZ NP-Hard_JJ -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+However_RB ,_, a_DT similar_JJ problem_NN has_VBZ been_VBN addressed_VBN before_RB in_IN the_DT context_NN of_IN finding_VBG web_NN communities_NNS and_CC practically_RB efficient_JJ strategies_NNS exist_VBP =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+The_DT subtle_JJ difference_NN is_VBZ that_IN for_IN web_NN communities_NNS a_DT dense_JJ subgraph_NN is_VBZ a_DT pair_NN of_IN subsets_NNS A_NN and_CC B_NN such_JJ that_IN the_DT each_DT vertex_NN -LRB-_-LRB- or_CC website_NN -RRB-_-RRB- in_IN B_NN is_VBZ pointed_VBN by_IN a_DT majority_NN of_IN vertices_NNS in_IN A_NN ,_, without_IN n_NN

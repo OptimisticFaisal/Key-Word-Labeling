@@ -1,0 +1,5 @@
+eloper_VB Toolbar_NNP -LRB-_-LRB- Internet_NNP Explorer_NNP -RRB-_-RRB- ,_, Dragonfly_NNP -LRB-_-LRB- Opera_NNP -RRB-_-RRB- ,_, or_CC Web_NN Inspector_NNP -LRB-_-LRB- Safari_NNP -RRB-_-RRB- ._.
+These_DT tools_NNS do_VBP not_RB address_VB only_JJ style_NN sheets_NNS ._.
+They_PRP deal_VBP with_IN the_DT many_JJ facets_NNS of_IN a_DT web_NN page_NN -LRB-_-LRB- DOM_NN tree_NN ,_, scripts_NNS ,_, style_NN -RRB-_-RRB- =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC they_PRP constitute_VBP the_DT primary_JJ tool_NN to_TO debug_VB style_NN sheets_NNS ._.
+They_PRP help_VBP CSS_NNP debugging_NN by_IN providing_VBG a_DT list_NN of_IN all_DT style_NN rules_NNS that_WDT apply_VBP to_TO any_DT element_NN chosen_VBN by_IN the_DT user_NN ._.
+All_DT rules_NNS are_VBP displayed_VBN and_CC a_DT

@@ -1,0 +1,4 @@
+ned_VBN in_IN Section_NN 4.1_CD ,_, we_PRP have_VBP conducted_VBN preprocessing_VBG procedures_NNS including_VBG tokenizing_VBG text_NN into_IN bag-of-words_NNS ,_, converting_VBG text_NN into_IN low-case_JJ words_NNS ,_, stopword_NN removal_NN and_CC stemming_VBG using_VBG the_DT Porter_NNP stemmer_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Each_DT document_NN di_FW in_IN S_NN is_VBZ represented_VBN by_IN a_DT feature_NN vector_NN using_VBG Vector_NNP Space_NNP Model_NNP ._.
+Each_DT feature_NN represents_VBZ a_DT term_NN ,_, whichisweightedbyitstf-idf_JJ value_NN ._.
+Feature_NN selection_NN is_VBZ carried_VBN out_RP by_IN thresholding_VBG

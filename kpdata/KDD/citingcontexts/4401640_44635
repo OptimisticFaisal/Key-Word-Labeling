@@ -1,0 +1,4 @@
+of_IN diagonal_JJ dominant_JJ matrices_NNS ._.
+4.2.1_CD Imposing_VBG diagonal_JJ dominance_NN on_IN B_NN In_IN order_NN to_TO provide_VB a_DT better_JJR understanding_NN of_IN the_DT motivation_NN for_IN our_PRP$ next_JJ formulation_NN we_PRP present_VBP the_DT following_JJ theorem_NN stated_VBN in_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: :_: Theorem_NN 4.1_CD ._.
+Diagonal_NNP Dominance_NNP Theorem_NNP Suppose_VB that_IN M_NNP ∈_NNP ℜ_NNP D_NNP ×_NNP D_NNP is_VBZ symmetric_JJ and_CC that_IN for_IN each_DT i_FW =_JJ 1_CD ,_, ..._: ,_, n_NN ,_, we_PRP have_VBP :_: Mii_NNP ≥_NNP X_NNP |_NNP Mij_NNP |_NNP ,_, j_NN =_JJ i_LS then_RB M_NN is_VBZ positive_JJ semi-definite_NN -LRB-_-LRB- PSD_NN -RRB-_-RRB- ._.
+Furthermore_RB ,_, if_IN

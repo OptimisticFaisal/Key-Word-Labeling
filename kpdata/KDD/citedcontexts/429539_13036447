@@ -1,0 +1,4 @@
+Moreover_RB ,_, we_PRP make_VBP the_DT source_NN code_NN and_CC the_DT executable_JJ code_NN -LRB-_-LRB- on_IN both_DT Windows_NNP and_CC Linux_NNP platforms_NNS -RRB-_-RRB- publicly_RB available_JJ at_IN http:\/\/www.cs.sfu.ca\/~jpei\/Software\/PADS.zip_NN ._.
+Complexity_NN analysis_NN As_IN indicated_VBN in_IN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT problem_NN of_IN mining_NN max-patterns_NNS is_VBZ NP-hard_JJ ._.
+Therefore_RB ,_, all_DT maxpattern_JJ mining_NN algorithms_NNS developed_VBD so_RB far_RB unfortunately_RB have_VBP the_DT exponential_JJ complexity_NN ._.
+Our_PRP$ PADS_NN method_NN shares_VBZ the_DT same_JJ depth-first_NN

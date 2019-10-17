@@ -1,0 +1,5 @@
+Secondly_RB ,_, the_DT O_NN -LRB-_-LRB- nk_NN -RRB-_-RRB- term_NN in_IN Lemma_NNP 2_CD comes_VBZ from_IN the_DT greedy_JJ selection_NN step_NN in_IN steps_NNS 6-12_CD ._.
+Thanks_NNS to_TO the_DT monotonicity_NN of_IN f_FW -LRB-_-LRB- S_NN -RRB-_-RRB- as_IN we_PRP show_VBP in_IN Theorem_NNP 1_CD ,_, we_PRP can_MD use_VB the_DT similar_JJ lazy_JJ evaluation_NN strategy_NN as_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: to_TO speed_VB up_RP this_DT process_NN ,_, without_IN sacrificing_VBG the_DT optimization_NN quality_NN ._.
+Space_NNP Complexity_NNP ._.
+The_DT space_NN complexity_NN of_IN the_DT proposed_VBN DRAGON_NNP is_VBZ given_VBN in_IN Lemma_NNP 3_CD ._.
+According_VBG to_TO Lemma_NNP 3_CD ,_, our_PRP$ DRAGON_NNP has_VBZ linear_JJ

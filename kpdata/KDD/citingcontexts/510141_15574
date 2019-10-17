@@ -1,0 +1,4 @@
+-LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, the_DT problem_NN of_IN mining_NN association_NN rules_NNS has_VBZ received_VBN a_DT great_JJ deal_NN of_IN attention_NN -LRB-_-LRB- e.g._FW ,_, 1_CD ,_, 2_CD ,_, 5_CD ,_, 11_CD ,_, 13_CD ,_, 25_CD ,_, 30_CD ,_, 33_CD ,_, 34_CD -RRB-_-RRB- ._.
+The_DT classic_JJ application_NN of_IN association_NN rules_NNS is_VBZ the_DT market_NN basket_NN analysis_NN =_JJ -_: =[_NN 1_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP analyzes_VBZ how_WRB the_DT items_NNS purchased_VBN by_IN customers_NNS are_VBP associated_VBN ._.
+An_DT example_NN association_NN rule_NN is_VBZ as_IN follows_VBZ ,_, cheese_NN →_NN beer_NN -LRB-_-LRB- sup_NN =_JJ 10_CD %_NN ,_, conf_NN =_JJ 80_CD %_NN -RRB-_-RRB- This_DT rule_NN says_VBZ that_IN 10_CD %_NN of_IN customers_NNS buy_VBP cheese_NN and_CC

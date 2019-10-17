@@ -1,0 +1,4 @@
+ng_NN such_JJ anonymization_NN is_VBZ a_DT loss_NN in_IN the_DT quality_NN of_IN the_DT data_NNS set_NN ._.
+Researchers_NNS have_VBP therefore_RB looked_VBN at_IN different_JJ methods_NNS to_TO obtain_VB an_DT optimal_JJ anonymization_NN that_WDT results_VBZ in_IN a_DT minimal_JJ loss_NN of_IN information_NN =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 3_CD ,_, 11_CD ,_, 14_CD ,_, 18_CD ,_, 20_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT typical_JJ disclosure_NN control_NN algorithm_NN searches_NNS over_IN the_DT space_NN of_IN anonymizations_NNS satisfying_VBG a_DT particular_JJ privacy_NN model_NN ,_, seeking_VBG the_DT one_NN with_IN highest_JJS utility_NN ._.
+An_DT implicit_JJ assumption_NN in_IN such_JJ optimizat_NN

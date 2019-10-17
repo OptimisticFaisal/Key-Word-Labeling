@@ -1,0 +1,5 @@
+ment_NN counts_NNS ._.
+We_PRP therefore_RB explore_VBP different_JJ methods_NNS for_IN effective_JJ result_NN summarization_NN by_IN means_NNS of_IN weighted_JJ aggregation_NN ._.
+Another_DT problem_NN in_IN faceted_JJ search_NN concerns_VBZ the_DT avoidance_NN of_IN overlapping_VBG facets_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+That_DT is_VBZ ,_, facets_NNS whose_WP$ values_NNS describe_VBP highly_RB similar_JJ set_NN of_IN documents_NNS should_MD be_VB avoided_VBN ._.
+We_PRP therefore_RB aim_VBP at_IN penalizing_VBG overlap_VB between_IN sets_NNS of_IN documents_NNS that_WDT are_VBP summarized_VBN by_IN different_JJ facet_NN value_NN

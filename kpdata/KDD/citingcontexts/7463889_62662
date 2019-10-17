@@ -1,0 +1,3 @@
+that_WDT originated_VBD in_IN work_NN on_IN optimum_JJ experimental_JJ design_NN -LRB-_-LRB- 8_CD ,_, 4_CD -RRB-_-RRB- and_CC has_VBZ been_VBN extensively_RB applied_VBN in_IN the_DT active_JJ learning_NN literature_NN for_IN classification_NN ,_, regression_NN and_CC class_NN probability_NN estimation_NN models_NNS =_JJ -_: =[_NN 3_CD ,_, 2_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT notion_NN of_IN uncertainty_NN has_VBZ been_VBN proposed_VBN for_IN the_DT acquisition_NN of_IN class_NN labels_NNS in_IN the_DT traditional_JJ active_JJ learning_NN setting_NN ,_, but_CC has_VBZ not_RB been_VBN previously_RB used_VBN for_IN feature-value_JJ acquisition_NN ._.
+For_IN a_DT mode_NN

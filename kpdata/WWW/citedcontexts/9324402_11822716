@@ -1,0 +1,4 @@
+ata_NN ,_, which_WDT could_MD benefit_VB search_NN relevance_NN -LRB-_-LRB- Carterette_NN et_FW al._FW ,_, 2008_CD -RRB-_-RRB- -LRB-_-LRB- Fox_NNP et_FW al._FW ,_, 2005_CD -RRB-_-RRB- -LRB-_-LRB- Radlinski_NNP and_CC Joachims_NNP ,_, 2007_CD -RRB-_-RRB- -LRB-_-LRB- Wang_NNP and_CC Zhai_NNP ,_, 2007_CD -RRB-_-RRB- ._.
+The_DT information_NN can_MD be_VB expressed_VBN as_IN pair-wise_JJ preferences_NNS -LRB-_-LRB- =_JJ -_: =_JJ Chapelle_NNP and_CC Zhang_NNP ,_, 2009_CD -_: =--RRB-_NN -LRB-_-LRB- Ji_NN et_FW al._FW ,_, 2009_CD -RRB-_-RRB- -LRB-_-LRB- Radlinski_NNP et_FW al._FW ,_, 2008_CD -RRB-_-RRB- ,_, or_CC represented_VBN as_IN rank_JJ features_NNS -LRB-_-LRB- Agichtein_NNP et_FW al._FW ,_, 2006_CD -RRB-_-RRB- ._.
+Task-specific_JJ ranking_NN relies_VBZ on_IN the_DT accuracy_NN of_IN query_NN classification_NN ._.
+Query_JJ classification_NN or_CC qu_NN

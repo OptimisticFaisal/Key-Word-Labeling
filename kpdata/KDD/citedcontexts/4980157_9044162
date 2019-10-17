@@ -1,0 +1,4 @@
+data_NNS using_VBG data_NNS mining_NN and_CC statistical_JJ learning_NN tools_NNS ._.
+Approaches_NNS proposed_VBN for_IN mining_NN correlations_NNS include_VBP CORDS_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- using_VBG chi-squared_JJ analysis_NN ,_, SPIRIT_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- using_VBG Principal_NN Component_NN Analysis_NN -LRB-_-LRB- PCA_NN -RRB-_-RRB- ,_, =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: using_VBG Hidden_NNP Markov_NNP Models_NNS ,_, and_CC Minerals_NNP -LRB-_-LRB- 13_CD -RRB-_-RRB- using_VBG association_NN rule_NN mining_NN ._.
+Remarks_NNS ._.
+NICE_NN differs_VBZ from_IN previous_JJ approaches_NNS through_IN the_DT use_NN of_IN -LRB-_-LRB- i_LS -RRB-_-RRB- a_DT novel_JJ auto-correlation_NN incorporated_JJ correlation_NN me_PRP

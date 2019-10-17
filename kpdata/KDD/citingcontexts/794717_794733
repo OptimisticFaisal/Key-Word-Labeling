@@ -1,0 +1,5 @@
+2.6_CD -LRB-_-LRB- Artificial_JJ Intelligence_NNP -RRB-_-RRB- :_: Learning_NNP General_NNP Terms_NNS :_: Algorithms_NNS ._.
+Keywords_NNS :_: redescription_NN ,_, data_NNS mining_NN ,_, storytelling_NN ._.
+1_CD Introduction_NN Redescription_NN mining_NN is_VBZ a_DT recently_RB introduced_VBN data_NNS mining_NN problem_NN =_JJ -_: =[_NN 13_CD ,_, 14_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT seeks_VBZ to_TO find_VB subsets_NNS of_IN data_NNS that_WDT afford_VBP multiple_JJ definitions_NNS ._.
+The_DT input_NN to_TO redescription_NN mining_NN is_VBZ a_DT set_NN of_IN objects_NNS and_CC a_DT collection_NN of_IN subsets_NNS defined_VBN over_IN these_DT objects_NNS ._.
+The_DT goal_NN is_VBZ to_TO view_VB

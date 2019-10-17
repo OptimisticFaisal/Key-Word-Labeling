@@ -1,0 +1,5 @@
+s_NN called_VBN 844_CD and_CC is_VBZ due_JJ to_TO Berry_NNP et_FW al._FW -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ a_DT greedy_JJ algorithm_NN that_WDT selects_VBZ the_DT k-th_JJ column_NN in_IN C_NN based_VBN on_IN the_DT k_NN −_NN 1_CD already_RB selected_VBN columns_NNS ._.
+The_DT other_JJ algorithm_NN ,_, DMM_NN ,_, is_VBZ due_JJ to_TO Drineas_NNP et_FW al._FW =_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC we_PRP use_VBP the_DT Exactly_RB version_NN of_IN it_PRP ._.
+The_DT DMM_NNP algorithm_NN contains_VBZ two_CD algorithms_NNS :_: one_CD for_IN the_DT CX_NN problem_NN and_CC one_CD for_IN CUR_NNP ._.
+Both_DT algorithms_NNS are_VBP ,_, however_RB ,_, based_VBN on_IN the_DT same_JJ idea_NN of_IN randomly_RB sampling_NN the_DT

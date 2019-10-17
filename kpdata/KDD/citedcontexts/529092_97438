@@ -1,0 +1,5 @@
+the_DT entire_JJ dataset_NN -RRB-_-RRB- with_IN a_DT few_JJ IOs_NNS ._.
+ffl_NN If_IN the_DT dataset_NN does_VBZ not_RB have_VB natural_JJ clusters_NNS ,_, clustering_NN may_MD not_RB be_VB as_IN effective_JJ ._.
+Fortunately_RB ,_, real_JJ datasets_NNS rarely_RB occupy_VBP a_DT large-dimensional_JJ space_NN uniformly_RB =_JJ -_: =[_NN 4_CD ,_, 14_CD ,_, 37_CD ,_, 45_CD ,_, 47_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ experiment_NN with_IN a_DT set_NN of_IN 450_CD ;_: 000_CD randomly_RB crawled_VBD Web_NN images_NNS that_WDT do_VBP not_RB have_VB well-defined_JJ categories_NNS shows_VBZ that_IN Clindex_NNP 's_POS effectiveness_NN does_VBZ depend_VB on_IN the_DT quality_NN of_IN the_DT clusters_NNS ._.
+Nevertheless_RB

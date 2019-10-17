@@ -1,0 +1,4 @@
+words_NNS :_: Linear_NNP Dynamical_NNP Systems_NNPS ;_: Kalman_NNP Filters_NNP ;_: OpenMP_NN ;_: Expectation_NN Maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- ;_: Optimization_NN ;_: Multi-core_NN ._.
+1_CD ._.
+INTRODUCTION_NNP Time_NNP series_NN appear_VBP in_IN numerous_JJ applications_NNS ,_, including_VBG motion_NN capture_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, visual_JJ tracking_NN ,_, speech_NN recognition_NN ,_, quantitative_JJ studies_NNS of_IN financial_JJ markets_NNS ,_, network_NN intrusion_NN detection_NN ,_, forecasting_NN ,_, etc._NN ._.
+Mining_NN and_CC forecasting_NN are_VBP popular_JJ operations_NNS relevant_JJ to_TO time_NN series_NN a_DT

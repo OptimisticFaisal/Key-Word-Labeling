@@ -1,0 +1,4 @@
+and_CC thus_RB significantly_RB reduce_VB pairwise_JJ computation_NN ._.
+For_IN f_LS -LRB-_-LRB- Ec1_NN ,_, Ec2_NN -RRB-_-RRB- ,_, we_PRP can_MD view_VB the_DT problem_NN as_IN a_DT set_VBN similarity_NN join_VB by_IN the_DT overlap_VBP of_IN two_CD sets_NNS X_NN and_CC Y_NN ._.
+Many_JJ efficient_JJ algorithms_NNS have_VBP been_VBN proposed_VBN =_JJ -_: =[_NN 37_CD ,_, 12_CD ,_, 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT order_VBP all_DT sets_NNS based_VBN on_IN the_DT same_JJ ordering_VBG ._.
+Once_RB ordered_VBN ,_, two_CD sets_NNS with_IN high_JJ enough_JJ similarity_NN would_MD share_VB a_DT prefix_NN ,_, and_CC the_DT length_NN of_IN the_DT shared_JJ prefix_NN can_MD be_VB used_VBN to_TO safely_RB prune_VB out_RP class_NN pa_NN

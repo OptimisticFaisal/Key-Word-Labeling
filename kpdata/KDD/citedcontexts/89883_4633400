@@ -1,0 +1,4 @@
+n_NN DFS_NN canonical_JJ codes_NNS for_IN graphs_NNS ._.
+Although_IN it_PRP can_MD also_RB be_VB extended_VBN to_TO mine_VB directed_JJ subgraphs_NNS ,_, subtrees_NNS ,_, and_CC paths_NNS ,_, it_PRP is_VBZ not_RB easily_RB extended_VBN to_TO mine_VB general_JJ subgraphs_NNS including_VBG unconnected_JJ subgraphs_NNS =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Table_NNP 1_CD summarizes_VBZ the_DT combinations_NNS of_IN the_DT given_VBN datasets_NNS ,_, the_DT objective_JJ classes_NNS of_IN substructures_NNS ,_, and_CC the_DT applicable_JJ approaches_NNS ._.
+This_DT shows_VBZ that_IN our_PRP$ B-AGM_NN can_MD be_VB applied_VBN to_TO various_JJ problems_NNS ._.

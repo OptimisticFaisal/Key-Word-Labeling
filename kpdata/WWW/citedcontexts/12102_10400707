@@ -1,0 +1,4 @@
+iness_NN and_CC Communication_NNP ,_, which_WDT are_VBP broader_JJR in_IN scope_NN ,_, the_DT name_NN labels_NNS do_VBP not_RB necessarily_RB specify_VB the_DT topic_NN and_CC hence_RB the_DT tokens_NNS are_VBP inferred_VBN ,_, thus_RB yielding_VBG better_JJR results_NNS ._.
+4_LS ._.
+RELATED_NNS WORK_VBP Patil_NNP et_FW al._FW =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, presents_VBZ a_DT combined_JJ approach_NN towards_IN automatic_JJ semantic_JJ annotation_NN of_IN services_NNS ._.
+The_DT approach_NN relies_VBZ on_IN several_JJ matchers_NNS -LRB-_-LRB- string_NN matcher_NN ,_, structural_JJ matcher_NN ,_, and_CC synonym_NN finder_NN -RRB-_-RRB- ,_, which_WDT are_VBP combined_VBN u_NN

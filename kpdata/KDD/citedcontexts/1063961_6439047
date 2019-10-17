@@ -1,0 +1,5 @@
+s_NNS rather_RB than_IN the_DT individual_JJ words_NNS within_IN documents_NNS ._.
+The_DT corpus_NN used_VBN ,_, 11,000_CD newswire_NN articles_NNS ,_, is_VBZ also_RB of_IN much_RB smaller_JJR scale_NN than_IN the_DT OCA_NNP corpus_NN ._.
+Zhai_NNP et_FW al._FW present_VBP a_DT cross-collection_JJ mixture_NN model_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT uses_VBZ an_DT EM_NN approach_NN to_TO find_VB themes_NNS shared_VBN between_IN collections_NNS ._.
+The_DT themes_NNS are_VBP represented_VBN as_IN multinomials_NNS over_IN words_NNS ._.
+The_DT model_NN is_VBZ tested_VBN on_IN a_DT corpus_NN consisting_VBG of_IN three_CD collections_NNS ,_, each_DT with_IN

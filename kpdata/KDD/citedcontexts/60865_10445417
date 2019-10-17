@@ -1,0 +1,3 @@
+n_NN problems_NNS ,_, where_WRB the_DT training_NN set_NN is_VBZ composed_VBN of_IN data_NN point_NN pairs_NNS ,_, in_IN which_WDT one_CD point_NN is_VBZ preferred_VBN over_IN the_DT other_JJ ,_, and_CC the_DT class_NN label_NN of_IN a_DT pair_NN indicates_VBZ the_DT direction_NN of_IN the_DT preference_NN -LRB-_-LRB- see_VB ,_, e.g._FW ,_, =_JJ -_: =[_NN 5_CD ,_, 6_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Following_VBG the_DT terminology_NN of_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, our_PRP$ focus_NN is_VBZ on_IN label_NN ranking_NN ,_, that_DT is_VBZ ,_, each_DT data_NNS instance_NN is_VBZ associated_VBN with_IN a_DT set_NN of_IN labels_NNS that_IN we_PRP aim_VBP to_TO rank_VB in_IN order_NN of_IN a_DT certain_JJ utility_NN scoring_VBG ._.
+The_DT data_NNS i_LS

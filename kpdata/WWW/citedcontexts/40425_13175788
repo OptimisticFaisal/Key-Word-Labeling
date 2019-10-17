@@ -1,0 +1,4 @@
+nterest_RB ,_, one_NN 's_POS favorite_JJ pages_NNS could_MD 5be_VB recommended_VBN to_TO the_DT other_JJ if_IN she_PRP is_VBZ not_RB yet_RB a_DT fan_NN ._.
+This_DT notion_NN could_MD be_VB reflected_VBN by_IN a_DT measure_NN of_IN proximity_NN over_IN graphs_NNS by_IN performing_VBG random_JJ walk_NN with_IN restarts_NNS =_JJ -_: =[_NN 57_CD -RRB-_-RRB- -_: =_JJ -_: and_CC computing_VBG the_DT steadystate_NN probability_NN ,_, which_WDT could_MD be_VB obtained_VBN efficiently_RB even_RB for_IN million-node_JJ graphs_NNS -LRB-_-LRB- 108_CD -RRB-_-RRB- ._.
+On_IN an_DT additional_JJ note_NN ,_, the_DT graph_NN transformation_NN itself_PRP could_MD be_VB non-trivial_JJ ._.
+With_IN re_NN

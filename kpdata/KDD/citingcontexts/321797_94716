@@ -1,0 +1,3 @@
+upport_NN in_IN different_JJ groups_NNS ._.
+For_IN example_NN ,_, if_IN groups_NNS are_VBP based_VBN on_IN education_NN ,_, we_PRP might_MD find_VB that_IN P_NN -LRB-_-LRB- occupation_NN =_JJ sales_NNS j_NN PhD_NN -RRB-_-RRB- =_JJ 2.7_CD %_NN ,_, while_IN P_NN -LRB-_-LRB- occupation_NN =_JJ sales_NNS j_NN Bachelor_NN -RRB-_-RRB- =_JJ 15.8_CD %_NN ._.
+Association_NN rule_NN programs_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: learn_VB relations_NNS between_IN variables_NNS within_IN a_DT dataset_NN ,_, so_IN one_PRP might_MD try_VB to_TO find_VB differences_NNS by_IN augmenting_VBG the_DT data_NNS with_IN an_DT additional_JJ group_NN variable_NN and_CC let_VB an_DT association_NN rule_NN learner_NN run_VBN on_IN this_DT repre_NN

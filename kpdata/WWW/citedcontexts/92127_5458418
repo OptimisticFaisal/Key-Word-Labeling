@@ -1,0 +1,4 @@
+and_CC -LRB-_-LRB- F_NN -_: -RRB-_-RRB- Logic_NN Programming_NN -LRB-_-LRB- 8_CD ,_, 9_CD ,_, 13_CD -RRB-_-RRB- ._.
+Each_DT WSML_NNP variant_NN has_VBZ a_DT target_NN formalism_NN :_: WSMLCore_NN is_VBZ based_VBN on_IN an_DT intersection_NN of_IN the_DT Description_NN Logic_NN SHIQ_NN -LRB-_-LRB- D_NN -RRB-_-RRB- and_CC Horn_NNP Logic_NNP -LRB-_-LRB- without_IN equality_NN -RRB-_-RRB- ,_, called_VBN DHL_NN -LRB-_-LRB- D_NN -RRB-_-RRB- =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+WSML-DL_NN captures_VBZ the_DT Description_NN Logic_NN SHIQ_NN -LRB-_-LRB- D_NN -RRB-_-RRB- ._.
+WSML-Flight_JJ is_VBZ based_VBN on_IN the_DT Datalog_NNP subset_NN of_IN F-Logic_NN ,_, extended_VBN with_IN -LRB-_-LRB- locally_RB -RRB-_-RRB- stratified_JJ negation_NN ,_, for_IN which_WDT the_DT Well-Founded_JJ and_CC Stable_JJ Model_NNP Semant_NNP

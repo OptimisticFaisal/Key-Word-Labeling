@@ -1,0 +1,4 @@
+cal_JJ and_CC global\/total_JJ ._.
+Some_DT systems_NNS including_VBG NICE_NNP are_VBP able_JJ to_TO calculate_VB scores_NNS based_VBN only_RB on_IN local_JJ information_NN that_WDT is_VBZ available_JJ to_TO them_PRP -LRB-_-LRB- 21_CD ,_, 36_CD ,_, 6_CD -RRB-_-RRB- ._.
+Others_NNS allow_VBP global_JJ trust_NN values_NNS to_TO be_VB calculated_VBN =_JJ -_: =[_NN 28_CD ,_, 13_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+NICE_NNP has_VBZ no_DT such_JJ mechanism_NN because_IN if_IN a_DT node_NN has_VBZ had_VBN neither_DT direct_JJ nor_CC transitive_JJ transactions_NNS with_IN another_DT node_NN it_PRP can_MD not_RB generate_VB a_DT trust_NN value_NN even_RB though_IN some_DT measure_NN of_IN trust_NN is_VBZ present_JJ ,_, since_IN

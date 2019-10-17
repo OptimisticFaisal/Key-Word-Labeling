@@ -1,0 +1,5 @@
+he_PRP web_NN ._.
+Pitkow_NNP et_FW al._FW -LRB-_-LRB- 12_CD -RRB-_-RRB- proposed_VBD a_DT longest_JJS subsequence_NN model_NN as_IN an_DT alternative_NN to_TO the_DT Markov_NNP model_NN ._.
+Sarukkai_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- uses_VBZ Markov_NNP models_NNS for_IN predicting_VBG the_DT next_JJ page_NN accessed_VBN by_IN the_DT user_NN ._.
+Cadez_NNP et_FW al._FW =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: use_VB Markov_NNP models_NNS for_IN classifying_VBG browsing_VBG sessions_NNS into_IN different_JJ categories_NNS ._.
+Deshpande_NNP et_FW al._FW -LRB-_-LRB- 7_CD -RRB-_-RRB- propose_VBP techniques_NNS for_IN combining_VBG different_JJ order_NN Markov_NNP models_NNS to_TO obtain_VB low_JJ state_NN complexity_NN and_CC im_NN

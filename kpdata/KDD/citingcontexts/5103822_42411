@@ -1,0 +1,5 @@
+l_NN concept_NN drifting_VBG differently_RB and_CC get_VB different_JJ results_NNS ._.
+There_EX are_VBP also_RB extensive_JJ studies_NNS on_IN using_VBG classifier_NN ensembles_NNS for_IN traditional_JJ data_NNS mining_NN including_VBG techniques_NNS such_JJ as_IN Bagging_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, Boosting_VBG =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Unlike_IN data_NNS stream_NN mining_NN ,_, the_DT model_NN does_VBZ not_RB change_VB in_IN traditional_JJ data_NNS mining_NN ._.
+Our_PRP$ previous_JJ work_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- studies_NNS how_WRB to_TO select_VB a_DT set_NN of_IN classifiers_NNS trained_VBN with_IN data_NNS in_IN previous_JJ time_NN windows_NNS ._.
+In_IN that_DT

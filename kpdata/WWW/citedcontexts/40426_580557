@@ -1,0 +1,5 @@
+to_TO the_DT n_NN ×_CD n_NN stochastic_JJ transition_NN matrix_NN AT_NNP ._.
+The_DT matrix_NN P_NN corresponds_VBZ to_TO the_DT web_NN link_NN graph_NN ;_: in_IN making_VBG P_NN stochastic_JJ ,_, there_EX are_VBP standard_JJ techniques_NNS for_IN dealing_VBG with_IN web_NN pages_NNS with_IN no_DT outgoing_JJ links_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT strongest_JJS implication_NN of_IN this_DT result_NN has_VBZ to_TO do_VB with_IN the_DT stability_NN of_IN PageRank_NN ._.
+A_DT proof_NN of_IN stability_NN of_IN PageRank_NN is_VBZ given_VBN in_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, but_CC we_PRP show_VBP a_DT tighter_JJR stability_NN bound_VBD here_RB ._.
+Imagine_VB that_IN the_DT Goog_NNP

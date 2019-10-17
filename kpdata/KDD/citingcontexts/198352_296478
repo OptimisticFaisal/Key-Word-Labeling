@@ -1,0 +1,4 @@
+rithm_NN on_IN subsets_NNS of_IN size_NN 2_CD We_PRP follow_VBP the_DT reasoning_NN of_IN Korf_NNP ,_, who_WP shows_VBZ that_IN progressive_JJ deepening_VBG is_VBZ an_DT optimal_JJ schedule_NN for_IN conducting_VBG depth-first_JJ search_NN when_WRB the_DT smallest_JJS sufficient_JJ depth_NN is_VBZ unknown_JJ =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+a_DT i_FW \_FW Delta_NN n_NN 0_CD for_IN i_LS =_JJ 0_CD ;_: 1_CD ;_: :_: :_: :_: ;_: b_NN ,_, where_WRB b_NN +_CC 1_CD is_VBZ the_DT number_NN of_IN samples_NNS processed_VBN before_IN detecting_VBG convergence_NN ._.
+Now_RB ,_, we_PRP assume_VBP convergence_NN is_VBZ well_RB detected_VBN ,_, so_IN a_DT b_NN \_NNP Gamma1_NNP \_NNP Delta_NNP n_NN 0_CD !_.
+nmin_NN

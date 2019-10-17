@@ -1,0 +1,3 @@
+nt_NN minimizing_VBG the_DT sum_NN of_IN distances_NNS from_IN a_DT collection_NN of_IN fixed_VBN points_NNS ._.
+Although_IN there_EX is_VBZ no_DT closed_JJ form_NN expression_NN for_IN the_DT 1-median_JJ ,_, there_EX are_VBP numerous_JJ algorithms_NNS for_IN solving_VBG this_DT problem_NN both_CC exactly_RB =_JJ -_: =[_NN 38_CD -RRB-_-RRB- -_: =_JJ -_: and_CC approximately_RB -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Methods_NNS that_WDT converge_VBP to_TO the_DT global_JJ optimum_NN exist_VBP for_IN any_DT Err_NN -LRB-_-LRB- δ_NN -RRB-_-RRB- =_JJ |_FW δ_FW |_FW p_NN ,_, p_NN ≤_NN 2_CD ;_: it_PRP is_VBZ known_VBN that_IN if_IN p_NN is_VBZ sufficiently_RB larger_JJR than_IN 2_CD ,_, then_RB convergent_JJ methods_NNS may_MD not_RB exist_VB -LRB-_-LRB- 6_CD -RRB-_-RRB-

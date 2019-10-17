@@ -1,0 +1,4 @@
+5_CD -RRB-_-RRB- -LRB-_-LRB- 20_CD -RRB-_-RRB- -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+Alternatively_RB ,_, document_NN decomposition_NN into_IN units_NNS larger_JJR than_IN words_NNS leads_VBZ to_TO partial_JJ retention_NN of_IN positional_JJ information_NN ._.
+In_IN particular_JJ ,_, shingle-oriented_JJ techniques_NNS such_JJ as_IN COPS_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, KOALA_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC DSC_NNP -LRB-_-LRB- 4_CD -RRB-_-RRB- -LRB-_-LRB- 3_CD -RRB-_-RRB- view_VBP a_DT document_NN as_IN a_DT stream_NN of_IN tokens_NNS ,_, which_WDT is_VBZ broken_VBN into_IN overlapping_JJ or_CC non-overlapping_JJ segments_NNS referred_VBN to_TO as_IN shingles_NNS ._.
+In_IN principle_NN ,_, similarity-based_JJ techniques_NNS require_VBP that_IN all_DT

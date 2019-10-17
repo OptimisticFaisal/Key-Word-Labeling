@@ -1,0 +1,5 @@
+te_IN value_NN with_IN probability_NN 1_CD −_CD p._NN After_IN obtaining_VBG the_DT labels_NNS ,_, we_PRP add_VBP them_PRP to_TO the_DT training_NN set_VBN to_TO induce_VB a_DT classifier_NN ._.
+For_IN the_DT results_NNS presented_VBN ,_, models_NNS are_VBP induced_VBN with_IN J48_NN ,_, the_DT implementation_NN of_IN C4_NN .5_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: in_IN WEKA_NNP -LRB-_-LRB- 34_CD -RRB-_-RRB- ._.
+The_DT classifier_NN is_VBZ evaluated_VBN on_IN the_DT test_NN set_NN -LRB-_-LRB- with_IN the_DT true_JJ labels_NNS -RRB-_-RRB- ._.
+Each_DT experiment_NN is_VBZ repeated_VBN 10_CD times_NNS with_IN a_DT different_JJ random_JJ data_NNS partition_NN ,_, and_CC average_JJ results_NNS are_VBP reported_VBN ._.
+4.2_CD Ge_NN

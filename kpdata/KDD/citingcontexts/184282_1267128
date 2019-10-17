@@ -1,0 +1,4 @@
+\/_: websom_NN \/_: cause_VB signicant_JJ distortions_NNS in_IN the_DT data_NNS set_VBN if_IN R_NN is_VBZ not_RB orthogonal_JJ ._.
+Orthogonalizing_NNP R_NNP is_VBZ unfortunately_RB computationally_RB expensive_JJ ._.
+Instead_RB ,_, we_PRP can_MD rely_VB on_IN a_DT result_NN presented_VBN by_IN Hecht-Nielsen_JJ -LRB-_-LRB- =_JJ -_: =_JJ 13_CD -RRB-_-RRB- -_: =_JJ -_: :_: in_IN a_DT high-dimensional_JJ space_NN ,_, there_EX exists_VBZ a_DT much_RB larger_JJR number_NN of_IN almost_RB orthogonal_JJ than_IN orthogonal_JJ directions_NNS ._.
+Thus_RB vectors_NNS having_VBG random_JJ directions_NNS might_MD be_VB suciently_RB close_JJ to_TO orthogonal_JJ ,_, and_CC equi_NNS

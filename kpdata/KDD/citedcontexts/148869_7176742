@@ -1,0 +1,5 @@
+one_CD bi-set_FW i.e._FW ,_, -LRB-_-LRB- ⊥_NNP G_NNP ,_, ⊥_NNP M_NNP -RRB-_-RRB- =-LRB-_FW ⊤_FW G_NN ,_, ⊤_CD M_NN -RRB-_-RRB- ._.
+DR-bi-sets_NNS are_VBP these_DT maximal_JJ bi-sets_NNS ._.
+To_TO extract_VB only_RB maximal_JJ dense_JJ and_CC relevant_JJ ones_NNS ,_, we_PRP have_VBP adapted_VBN the_DT Dual-Miner_NNP strategy_NN for_IN pushing_VBG maximality_NN constraints_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+DR-Miner_JJ correctness_NN :_: Every_DT bi-set_NN -LRB-_-LRB- X_NN ,_, Y_NN -RRB-_-RRB- belonging_VBG to_TO leaf_NN L_NN satisfies_VBZ Cd_FW ∧_FW Cr_NN according_VBG to_TO Pruneam_NNP and_CC PruneCr_NNP ._.
+Cd_FW DR-Miner_FW completeness_NN :_: Let_VB T1_NN =-LRB-_NN -LRB-_-LRB- ⊥_NN 1_CD G_NN ,_, ⊥_NN 1M_NN -RRB-_-RRB- ,_, -LRB-_-LRB- ⊤_NNP 1G_NNP ,_, ⊤_NNP 1G_NNP -RRB-_-RRB- -RRB-_-RRB- and_CC T2_NN =-LRB-_NN -LRB-_-LRB- ⊥_NN 2_CD G_NN ,_, ⊥_NN 2M_NN -RRB-_-RRB-

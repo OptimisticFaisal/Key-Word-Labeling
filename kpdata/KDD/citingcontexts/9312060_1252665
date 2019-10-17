@@ -1,0 +1,5 @@
+for_IN identifying_VBG relevant_JJ genes_NNS ._.
+3.1_CD Gene_NN Selection_NN Using_VBG Geometric_JJ Patterns_NN 3.1.1_CD Geometry-Dependent_NNP Covariance_NNP Let_NNP X_NN =_JJ -LRB-_-LRB- x1_NN ,_, ..._: ,_, xn_NN -RRB-_-RRB- be_VB a_DT data_NN set_NN containing_VBG n_NN samples_NNS ._.
+The_DT sample_NN covariance_NN matrix_NN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: of_IN X_NN is_VBZ given_VBN by_IN :_: C_NN =_JJ 1_CD n_NN −_NN 1_CD n_NN ∑_NN -LRB-_-LRB- xk_FW −_FW ¯_FW x_NN -RRB-_-RRB- -LRB-_-LRB- xk_FW −_FW ¯_FW x_LS -RRB-_-RRB- T_NN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- k_NN =_JJ 1_CD Here_RB ¯_CD x_NN =_JJ 1_CD ∑_CD n_NN n_NN k_NN =_JJ 1_CD xk_NN and_CC C_NN ∈_NN S_NN +_CC is_VBZ an_DT unbiased_JJ estimator_NN of_IN the_DT covariance_NN matrix_NN ._.
+C_NN captures_VBZ the_DT correlation_NN between_IN all_DT possible_JJ

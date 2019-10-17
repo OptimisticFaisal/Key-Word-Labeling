@@ -1,0 +1,4 @@
+es_NNS along_IN the_DT path_NN mentioned_VBN above_IN ._.
+Finally_RB ,_, we_PRP can_MD reach_VB the_DT node_NN f_SYM and_CC update_VB the_DT count_NN of_IN candidate_NN rule_NN c._NN 3.2_CD Level_NN Matching_VBG with_IN selective_JJ scan_VB -LRB-_-LRB- LMS_NN -RRB-_-RRB- We_PRP next_RB utilize_VBP the_DT selective_JJ scan_VBP technique_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- to_TO en_IN -_: =_JJ -_: hance_NN the_DT performance_NN of_IN algorithm_NN LM_NN ._.
+In_IN algorithm_NN LM_NNP ,_, each_DT candidate_NN set_NN is_VBZ generated_VBN by_IN previous_JJ frequent_JJ set_NN ,_, i.e._FW ,_, Ck_NN =_JJ Lk_NN −_NN 1_CD ∗_NN Lk_NN −_NN 1_CD ._.
+In_IN selective_JJ scan_VB ,_, however_RB ,_, if_IN Ck_NN is_VBZ smaller_JJR then_RB its_PRP$ sour_JJ

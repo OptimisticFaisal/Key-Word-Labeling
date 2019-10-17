@@ -1,0 +1,7 @@
+t_NN be_VB found_VBN by_IN heuristic_NN learning_NN algorithms_NNS ._.
+Section_NN 5_CD introduces_VBZ our_PRP$ algorithm_NN ._.
+Section_NN 6_CD provides_VBZ experiments_NNS ;_: Section_NN 7_CD discusses_VBZ related_JJ work_NN and_CC section_NN 8_CD concludes_VBZ ._.
+More_JJR details_NNS can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2_CD ._.
+Itemset_NNP Lattices_NNP for_IN Decision_NNP Tree_NNP Mining_NNP Let_NNP us_PRP first_RB introduce_VB some_DT background_NN information_NN about_IN decision_NN trees_NNS and_CC frequent_JJ itemsets_NNS ._.
+Let_VB I_PRP =_JJ -LCB-_-LRB- i1_NN ,_, i2_NN ,_, ..._: ,_, im_FW -RCB-_-RRB- be_VB a_DT set_NN of_IN items_NNS and_CC let_VB D_NN =_JJ

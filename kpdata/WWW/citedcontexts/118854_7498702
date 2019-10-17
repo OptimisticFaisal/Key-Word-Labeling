@@ -1,0 +1,4 @@
+le_DT traffic_NN has_VBZ often_RB been_VBN used_VBN as_IN a_DT counter-measure_NN against_IN DDoS_NN attacks_NNS ._.
+For_IN example_NN ,_, network_NN packets_NNS deemed_VBD suspicious_JJ could_MD be_VB dropped_VBN -LRB-_-LRB- 54_CD -RRB-_-RRB- or_CC rate-limited_JJ -LRB-_-LRB- 59_CD -RRB-_-RRB- ._.
+Class-based_JJ queuing_VBG scheme_NN used_VBN in_IN =_JJ -_: =[_NN 60_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ a_DT load_NN balancer_NN to_TO block_VB or_CC limit_VB the_DT service_NN to_TO client_NN IP_NNP addresses_NNS depending_VBG on_IN their_PRP$ bandwidth_NN consumption_NN patterns_NNS ._.
+Similarly_RB ,_, probabilistic_JJ queuing_VBG scheme_NN in_IN -LRB-_-LRB- 61_CD -RRB-_-RRB- uses_VBZ a_DT randomized_VBN LRU_NN cach_NN

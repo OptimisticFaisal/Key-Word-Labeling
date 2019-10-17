@@ -1,0 +1,4 @@
+Figure_NN 7_CD gives_VBZ a_DT statistical_JJ summary_NN of_IN the_DT participation_NN index_NN of_IN a_DT SECOP_NN -LCB-_-LRB- object_1_NN ,_, object_2_NN -RCB-_-RRB- for_IN 10_CD time_NN slots_NNS ._.
+The_DT participation_NN of_IN the_DT SECOP_NN increases_NNS over_IN time_NN between_IN time_NN intervals_NNS -LRB-_-LRB- 4,5_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 6,9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+If_IN the_DT time_NN prevalence_NN threshold_NN is_VBZ 0.3_CD ,_, the_DT time_NN interval_NN -LRB-_-LRB- 4,5_CD -RRB-_-RRB- will_MD be_VB pruned_VBN and_CC the_DT time_NN interval_NN -LRB-_-LRB- 6,9_CD -RRB-_-RRB- will_MD be_VB used_VBN for_IN further_JJ data_NNS generation_NN ._.
+Number_NN of_IN features_NNS Spatial_JJ Prevalence_NN Threshold_NN

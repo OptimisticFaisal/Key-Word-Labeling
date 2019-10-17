@@ -1,0 +1,4 @@
+itive_JJ and_CC negative_JJ examples_NNS in_IN order_NN to_TO make_VB optimal_JJ cost-sensitive_JJ classifications_NNS for_IN a_DT concept-learning_JJ problem_NN ._.
+Moreover_RB ,_, a_DT general_JJ method_NN to_TO make_VB a_DT learning_NN system_NN cost-sensitive_JJ is_VBZ presented_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT last_JJ method_NN has_VBZ the_DT advantage_NN of_IN being_VBG applicable_JJ to_TO multi-class_JJ problems_NNS ._.
+4_CD Probabilistic_NNP Classifiers_NNP Most_NNP learning_VBG algorithms_NNS can_MD be_VB adapted_VBN to_TO produce_VB probabilistic_JJ classifiers_NNS ,_, i.e._FW ,_, to_TO ind_VB

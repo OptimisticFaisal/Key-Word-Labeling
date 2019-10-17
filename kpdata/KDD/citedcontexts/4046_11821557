@@ -1,0 +1,5 @@
+._.
+,_, calibration_NN -RRB-_-RRB- and_CC then_RB combine_VB these_DT probabilities_NNS by_IN averaging_VBG them_PRP ._.
+This_DT approach_NN is_VBZ related_JJ to_TO our_PRP$ CSA_NNP algorithm_NN ,_, but_CC differs_VBZ in_IN that_IN we_PRP use_VBP a_DT non-parametric_JJ technique_NN called_VBN isotonic_JJ regression_NN =_JJ -_: =[_NN 39_CD -RRB-_-RRB- -_: =_SYM -_: to_TO calibrate_VB our_PRP$ scores_NNS ._.
+Freund_NNP et_FW al._FW -LRB-_-LRB- 10_CD -RRB-_-RRB- describe_VBP the_DT RankBoost_NNP algorithm_NN ._.
+This_DT rank-based_JJ approach_NN is_VBZ relatively_RB easy_JJ to_TO implement_VB ,_, has_VBZ a_DT strong_JJ theoretical_JJ foundation_NN ,_, and_CC has_VBZ been_VBN shown_VBN to_TO perf_VB

@@ -1,0 +1,4 @@
+e_LS PKI_NN system_NN to_TO the_DT current_JJ server-client_JJ PKI_NN system_NN ._.
+The_DT Certificate_NNP Authority_NNP -LRB-_-LRB- CA_NNP -RRB-_-RRB- system_NN of_IN the_DT fPKI_NN is_VBZ composed_VBN of_IN the_DT reputation_NN of_IN each_DT committer_NN ,_, which_WDT has_VBZ been_VBN assessed_VBN by_IN the_DT SecureEigenTrust_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: algorithm_NN ._.
+fPKI_NN inherits_VBZ the_DT scalability_NN of_IN SecureEigenTrust_NNP ,_, and_CC also_RB inherits_VBZ the_DT common_JJ CA_NNP usage_NN of_IN the_DT server-client_JJ PKI_NN system_NN ._.
+1_CD INTRODUCTION_NN To_TO authenticate_VB an_DT update_VBP or_CC patch_NN code_NN ,_, or_CC to_TO prot_VB

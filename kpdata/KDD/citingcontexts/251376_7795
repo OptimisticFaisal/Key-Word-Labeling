@@ -1,0 +1,4 @@
+through_IN the_DT study_NN ,_, one_PRP can_MD understand_VB how_WRB imprecision_NN in_IN the_DT embedding_NN may_MD affect_VB the_DT accuracy_NN of_IN clustering_NN ._.
+The_DT clustering_NN algorithm_NN used_VBN in_IN our_PRP$ experiments_NNS was_VBD the_DT well_RB known_VBN average-group_JJ method_NN =_JJ -_: =_JJ -LRB-_-LRB- KR90_NN -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT works_VBZ as_IN follows_VBZ ._.
+Initially_RB ,_, every_DT object_NN is_VBZ a_DT cluster_NN ._.
+The_DT algorithm_NN merges_VBZ two_CD nearest_JJS clusters_NNS to_TO form_VB a_DT new_JJ cluster_NN ,_, until_IN there_EX are_VBP only_RB K_NN clusters_NNS left_VBD where_WRB K_NN is_VBZ p_NN for_IN the_DT Euclidean_JJ clu_NN

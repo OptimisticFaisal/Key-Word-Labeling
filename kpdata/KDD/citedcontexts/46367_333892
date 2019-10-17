@@ -1,0 +1,5 @@
+d_NN remote-to-local_JJ -LRB-_-LRB- R2L_NN -RRB-_-RRB- attacks_NNS -LRB-_-LRB- unauthorized_JJ local_JJ access_NN from_IN a_DT remote_JJ machine_NN -RRB-_-RRB- ._.
+KDD_NN dataset_NN is_VBZ divided_VBN into_IN labeled_JJ and_CC unlabeled_JJ records_NNS ._.
+Each_DT labeled_JJ record_NN consisted_VBD of_IN 41_CD attributes_NNS -LRB-_-LRB- features_NNS -RRB-_-RRB- =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: and_CC one_CD target_NN value_NN ._.
+Target_NN value_NN indicated_VBD the_DT attack_NN category_NN name_NN ._.
+There_EX are_VBP around_IN 5_CD million_CD -LRB-_-LRB- 4,898,430_CD -RRB-_-RRB- records_NNS in_IN the_DT labeled_JJ dataset_NN ,_, which_WDT was_VBD used_VBN for_IN training_NN all_DT classifier_JJR models_NNS discuss_VBP

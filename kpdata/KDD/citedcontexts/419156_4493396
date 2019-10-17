@@ -1,0 +1,4 @@
+data_NNS were_VBD generated_VBN by_IN a_DT mixture_NN of_IN von-Mises_NNP Fisher_NNP distributions_NNS -LRB-_-LRB- Banerjee_NNP et_FW al._FW ,_, 2003_CD -RRB-_-RRB- ._.
+This_DT similarity_NN measure_NN has_VBZ been_VBN widely_RB used_VBN in_IN information_NN retrieval_NN applications_NNS including_VBG text_NN analysis_NN -LRB-_-LRB- =_JJ -_: =_JJ Aggarwal_NNP ,_, 2003_CD -_: =--RRB-_NN ,_, bioinformatics_NNS and_CC collaborative_JJ filtering_VBG -LRB-_-LRB- Banerjee_NNP et_FW al._FW ,_, 2003_CD -RRB-_-RRB- ._.
+It_PRP has_VBZ also_RB been_VBN shown_VBN by_IN Banerjee_NNP et_FW al._FW -LRB-_-LRB- 2003_CD -RRB-_-RRB- that_IN the_DT Pearson_NNP correlation_NN is_VBZ a_DT form_NN of_IN cosine_NN similarity_NN ._.
+The_DT Weighted_NNP -LRB-_-LRB- or_CC Pa_NNP

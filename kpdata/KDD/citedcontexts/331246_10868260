@@ -1,0 +1,4 @@
+bing_JJ relational_JJ data_NNS ._.
+In_IN this_DT model_NN ,_, objects_NNS are_VBP recursively_RB defined_VBN to_TO be_VB similar_JJ if_IN they_PRP are_VBP related_VBN 24_CD The_DT complexity_NN of_IN online_JJ iterative_JJ graph_NN walk_NN is_VBZ O_NN -LRB-_-LRB- Ek_NN -RRB-_-RRB- ,_, where_WRB E_NN is_VBZ the_DT number_NN of_IN graph_NN edges_NNS -LRB-_-LRB- =_JJ -_: =_JJ Pan_NNP et_FW al._FW 2004_CD -_: =-]_NN ;_: we_PRP take_VBP this_DT approach_NN in_IN our_PRP$ implementation_NN ,_, as_IN mentioned_VBN above_IN ._.
+Adaptive_JJ Graph-Walk_JJ Based_VBN Similarity_NN Measures_NNS ·_VBP 151_CD tosimilar_JJ objects_NNS ._.
+Aniterative_JJ calculation_NN propagatesscoresonestepforwardalong_NN t_NN

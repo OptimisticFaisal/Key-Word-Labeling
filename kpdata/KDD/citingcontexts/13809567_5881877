@@ -1,0 +1,4 @@
+approaches_NNS have_VBP been_VBN proposed_VBN recently_RB -LRB-_-LRB- 9_CD ,_, 28_CD -RRB-_-RRB- ._.
+Thus_RB far_RB ,_, there_EX have_VBP been_VBN very_RB few_JJ studies_NNS on_IN comparing_VBG the_DT Cox_NN regression_NN with_IN machine_NN learning_NN methods_NNS in_IN making_VBG predictions_NNS on_IN censored_VBN data_NNS ._.
+Kattan_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: compared_VBN Cox_NNP proportional_JJ hazards_NNS regression_NN with_IN several_JJ machine_NN learning_NN methods_NNS -LRB-_-LRB- neural_JJ networks_NNS and_CC tree-based_JJ methods_NNS -RRB-_-RRB- based_VBN on_IN three_CD urological_JJ datasets_NNS ._.
+However_RB ,_, Kattan_NNP 's_POS study_NN focused_VBD on_IN data_NNS

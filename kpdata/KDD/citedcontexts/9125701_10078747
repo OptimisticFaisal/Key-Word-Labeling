@@ -1,0 +1,4 @@
+er_JJR and_CC Clarke_NNP -LRB-_-LRB- 7_CD -RRB-_-RRB- ..._: Related_NNP Work_NNP ._. ._.
+Impact-sorted_JJ indexes_NNS are_VBP described_VBN in_IN a_DT series_NN of_IN papers_NNS by_IN Anh_NNP and_CC Moffat_NNP -LRB-_-LRB- 1_CD ,_, 2_CD ,_, 3_CD -RRB-_-RRB- ..._: ..._: Fagin_NNP et_FW al._FW proposed_VBD a_DT class_NN of_IN algorithms_NNS known_VBN as_IN threshold_JJ algorithms_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT algorithms_NNS ,_, like_IN the_DT ones_NNS shown_VBN in_IN this_DT paper_NN ,_, ..._: ..._: In_IN our_PRP$ work_NN ,_, we_PRP process_VBP less_JJR index_NN data_NNS by_IN organizing_VBG the_DT index_NN for_IN easy_JJ skipping_VBG and_CC query_JJ termination_NN ._.
+Another_DT way_NN to_TO process_VB less_JJR data_NNS i_LS

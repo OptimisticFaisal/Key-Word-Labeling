@@ -1,0 +1,5 @@
+original_JJ query_NN ._.
+In_IN our_PRP$ context_NN clustering_NN is_VBZ used_VBN but_CC at_IN the_DT level_NN of_IN documents_NNS ,_, not_RB at_IN the_DT level_NN of_IN queries_NNS ._.
+Query_JJ expansion_NN is_VBZ another_DT approach_NN adopted_VBN by_IN search_NN engines_NNS to_TO suggest_VB related_JJ queries_NNS =_JJ -_: =[_NN 26_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT idea_NN here_RB is_VBZ to_TO reformulate_VB the_DT query_NN such_JJ that_IN it_PRP gets_VBZ closer_JJR to_TO the_DT termweight_JJ vector_NN space_NN of_IN the_DT documents_NNS the_DT user_NN is_VBZ looking_VBG for_IN ._.
+Also_RB in_IN this_DT case_NN our_PRP$ approach_NN is_VBZ different_JJ as_IN we_PRP look_VBP for_IN

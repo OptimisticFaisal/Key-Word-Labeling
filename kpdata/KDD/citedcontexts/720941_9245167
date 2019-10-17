@@ -1,0 +1,4 @@
+ication_NN accuracy_NN ._.
+Here_RB the_DT classes_NNS of_IN related_JJ entities_NNS are_VBP used_VBN as_IN predictor_NN variables_NNS ._.
+Recently_RB ,_, especially_RB relational_JJ methods_NNS ,_, which_WDT use_VBP collective_JJ classification_NN -LRB-_-LRB- also_RB called_VBN collective_JJ inference_NN -RRB-_-RRB- =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, i.e._FW iterative_JJ algorithms_NNS ,_, which_WDT exploit_VBP the_DT relational_JJ autocorrelation_NN of_IN variables_NNS of_IN connected_JJ entities_NNS ,_, received_VBD attention_NN ._.
+But_CC in_IN general_JJ ,_, there_EX is_VBZ not_RB just_RB one_CD relation_NN to_TO consider_VB in_IN relation_NN

@@ -1,0 +1,5 @@
+o_NN know_VB Rcf_NNP and_CC Rff_NNP ,_, whichare_NN discussed_VBD next_JJ ._.
+Measure_NN of_IN correlation_NN of_IN views_NNS ._.
+To_TO measure_VB the_DT correlations_NNS between_IN features_NNS and_CC the_DT class_NN ,_, and_CC between_IN features_NNS ,_, we_PRP adopt_VBP the_DT Symmetrical_JJ Uncertainty_NN -LRB-_-LRB- U_NN -RRB-_-RRB- =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: to_TO calculate_VB Rcf_NNP and_CC Rff_NNP ._.
+This_DT measure_NN is_VBZ a_DT modified_VBN information_NN gain_NN -LRB-_-LRB- InfoGain_NN -RRB-_-RRB- measure_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+It_PRP compensates_VBZ for_IN 570_CD InfoGain_NNP 's_POS bias_NN toward_IN attributes_NNS with_IN more_JJR values_NNS ,_, and_CC has_VBZ successfully_RB been_VBN app_NN

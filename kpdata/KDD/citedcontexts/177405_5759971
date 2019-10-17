@@ -1,0 +1,5 @@
+s_NNS have_VBP been_VBN proposed_VBN in_IN the_DT past_JJ few_JJ years_NNS ._.
+One_CD class_NN of_IN algorithms_NNS is_VBZ based_VBN on_IN a_DT two-step_JJ strategy_NN ._.
+This_DT class_NN includes_VBZ SEM_NN -LRB-_-LRB- Spy_NN Expectation_NN Maximization_NN -RRB-_-RRB- -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, PEBL_NN -LRB-_-LRB- Positive_JJ Example_NN Based_VBN Learning_NNP -RRB-_-RRB- =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Roc-SVM_NNP -LRB-_-LRB- Rocchio_NNP --_: Support_NN Vector_NNP Machines_NNP -RRB-_-RRB- -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+These_DT algorithms_NNS aim_VBP to_TO iteratively_RB discover_VB the_DT true_JJ negative_JJ examples_NNS ,_, while_IN maintaining_VBG correctly-classified_JJ the_DT positive_JJ ones_NNS ._.
+It_PRP has_VBZ been_VBN sho_NN

@@ -1,0 +1,4 @@
+clustering_NN algorithm_NN performs_VBZ ._.
+One_CD is_VBZ the_DT confusion_NN matrix_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+Entry_NN -LRB-_-LRB- o_NN ,_, i_LS -RRB-_-RRB- of_IN a_DT confusion_NN matrix_NN is_VBZ the_DT number_NN of_IN data_NNS points_NNS assigned_VBN to_TO output_NN class_NN o_NN and_CC generated_VBN from_IN input_NN class_NN i._NNP The_NNP purity_NN =_JJ -_: =[_NN 40_CD -RRB-_-RRB- -_: =_SYM -_: that_IN measures_NNS the_DT extend_VBP to_TO which_WDT each_DT cluster_NN contained_VBD data_NNS points_NNS from_IN primarily_RB one_CD class_NN is_VBZ also_RB a_DT good_JJ metric_NN for_IN cluster_NN quality_NN ._.
+The_DT purity_NN of_IN a_DT clustering_NN solution_NN is_VBZ obtained_VBN as_IN a_DT weighted_JJ

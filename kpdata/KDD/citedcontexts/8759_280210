@@ -1,0 +1,4 @@
+extracting_VBG destination_NN IP_NNP address_NN and_CC service_NN port_NN from_IN packets_NNS header_NN ._.
+Zanero_NN -LRB-_-LRB- 34_CD -RRB-_-RRB- presents_VBZ a_DT two-tier_JJ payload-based_JJ system_NN that_WDT combines_VBZ a_DT self-organizing_JJ map_NN with_IN a_DT modified_VBN version_NN of_IN SmartSifter_NN =_JJ -_: =[_NN 33_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+While_IN this_DT architecture_NN is_VBZ similar_JJ to_TO POSEIDON_NNP ,_, a_DT full_JJ comparison_NN is_VBZ not_RB possible_JJ because_IN the_DT benchmarks_NNS in_IN -LRB-_-LRB- 34_CD -RRB-_-RRB- concern_NN only_RB the_DT FTP_NN service_NN an_DT no_DT details_NNS are_VBP given_VBN about_IN experiments_NNS execution_NN ._.
+A_DT t_NN

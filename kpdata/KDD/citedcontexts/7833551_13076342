@@ -1,0 +1,3 @@
+des_FW In_FW dynamic_JJ social_JJ networks_NNS ,_, at_IN a_DT given_VBN time_NN ,_, new_JJ individuals_NNS may_MD join_VB in_IN the_DT network_NN and_CC old_JJ ones_NNS may_MD leave_VB ._.
+To_TO handle_VB insertion_NN of_IN new_JJ nodes_NNS and_CC deletion_NN of_IN old_JJ ones_NNS ,_, existing_VBG algorithm_NN such_JJ as_IN -LRB-_-LRB- =_JJ -_: =_JJ Chi_NNP et_FW al._FW 2007_CD -_: =--RRB-_NN and_CC -LRB-_-LRB- Lin_NNP et_FW al._FW 2008_CD -RRB-_-RRB- use_VBP some_DT heuristics_NNS ,_, e.g._FW ,_, by_IN assuming_VBG that_IN all_PDT the_DT nodes_NNS are_VBP in_IN the_DT network_NN all_PDT the_DT time_NN but_CC in_IN some_DT time_NN steps_VBZ certain_JJ nodes_NNS have_VBP no_DT incident_NN links_NNS ._.
+In_IN comparison_NN ,_, in_IN both_CC th_DT

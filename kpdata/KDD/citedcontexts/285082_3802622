@@ -1,0 +1,3 @@
+utbreaks_NNS in_IN networks_NNS are_VBP submodular_JJ ,_, including_VBG detection_NN time_NN and_CC population_NN affected_VBN in_IN the_DT blogosphere_NN and_CC water_NN distribution_NN monitoring_NN problems_NNS ._.
+We_PRP show_VBP that_IN our_PRP$ approach_NN also_RB generalizes_VBZ work_NN by_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: on_IN selecting_NN nodes_NNS maximizing_VBG influence_NN in_IN a_DT social_JJ network_NN ._.
+•_RB We_PRP exploit_VBP the_DT submodularity_NN of_IN the_DT objective_NN -LRB-_-LRB- e.g._FW ,_, detection_NN time_NN -RRB-_-RRB- to_TO develop_VB an_DT efficient_JJ approximation_NN algorithm_NN ,_, CELF_NN ,_, which_WDT achiev_VBP

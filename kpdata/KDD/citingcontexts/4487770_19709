@@ -1,0 +1,4 @@
+twork_NN with_IN requests_NNS ._.
+Many_JJ researchers_NNS have_VBP attempted_VBN to_TO increase_VB efficiency_NN with_IN content-based_JJ overlay_NN networks_NNS ,_, including_VBG distributed_VBN hash_JJ tables_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 1_CD ,_, 10_CD -RRB-_-RRB- -RRB-_-RRB- and_CC other_JJ semantic_JJ approaches_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 4_CD ,_, 5_CD ,_, 12_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+An_DT overlay_NN network_NN specifies_VBZ the_DT logical_JJ connections_NNS between_IN peers_NNS in_IN a_DT network_NN and_CC is_VBZ distinct_JJ from_IN the_DT physical_JJ connections_NNS of_IN that_DT network_NN ._.
+It_PRP determines_VBZ the_DT order_NN in_IN which_WDT peers_NNS are_VBP queried_VBN whe_NN

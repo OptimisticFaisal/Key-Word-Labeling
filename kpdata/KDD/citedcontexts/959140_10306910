@@ -1,0 +1,4 @@
+e_LS number_NN of_IN attributes_NNS ._.
+To_TO improve_VB the_DT efficiency_NN of_IN JEPs_NNS '_POS classifiers_NNS many_JJ algorithms_NNS have_VBP been_VBN proposed_VBN ,_, which_WDT significantly_RB reduce_VBP the_DT computation_NN time_NN :_: JEPproducer_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, CP-tree_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, FP-tree_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, classifier_NN based_VBN on_IN local_JJ projected_JJ JEP_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+However_RB ,_, even_RB with_IN those_DT methods_NNS it_PRP is_VBZ still_RB not_RB possible_JJ to_TO search_VB all_DT JEPs_NNS when_WRB the_DT number_NN of_IN features_NNS exceeds_VBZ a_DT few_JJ dozens_NNS ._.
+3738_CD PROCEEDINGS_NNS OF_IN THE_DT I_NN

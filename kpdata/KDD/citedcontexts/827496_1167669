@@ -1,0 +1,5 @@
+ytes_NNS transfered_VBD and_CC type_NN of_IN connection_NN ._.
+Each_DT event_NN in_IN the_DT original_JJ dataset_NN of_IN nearly_RB 5_CD million_CD events_NNS is_VBZ labeled_VBN as_IN an_DT intrusion_NN or_CC not_RB an_DT intrusion_NN ._.
+We_PRP follow_VBP the_DT experimental_JJ technique_NN employed_VBN in_IN =_JJ -_: =[_NN 31_CD ,_, 30_CD -RRB-_-RRB- -_: =_SYM -_: to_TO construct_VB suitable_JJ datasets_NNS for_IN outlier_NN detection_NN and_CC to_TO rank_VB all_DT data_NNS points_NNS with_IN an_DT outlier_NN measure_NN ._.
+We_PRP select_VBP four_CD of_IN the_DT 41_CD original_JJ attributes_NNS -LRB-_-LRB- service_NN ,_, duration_NN ,_, src_NN bytes_NNS ,_, dst_NN bytes_NNS -RRB-_-RRB- ._.
+These_DT

@@ -1,0 +1,5 @@
+an_DT ``_`` incomplete-data_JJ problem_NN ''_'' ,_, for_IN which_WDT a_DT popular_JJ solution_NN method_NN is_VBZ Expectation_NN Maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ well-known_JJ that_IN KMeans_NN is_VBZ equivalent_JJ to_TO an_DT EM_NN algorithm_NN with_IN hard_JJ clustering_NN assignments_NNS =_JJ -_: =[_NN 26_CD ,_, 6_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Section_NN 3.2_CD describes_VBZ a_DT K-Means-type_JJ hard_JJ partitional_JJ clustering_NN algorithm_NN ,_, HMRF-KMEANS_NN ,_, that_WDT finds_VBZ a_DT -LRB-_-LRB- local_JJ -RRB-_-RRB- maximum_NN of_IN the_DT above_JJ function_NN ._.
+The_DT posterior_JJ probability_NN Pr_NN -LRB-_-LRB- L_NN |_NN X_NN -RRB-_-RRB- in_IN Eqn_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- has_VBZ 2_CD compo_NN

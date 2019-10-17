@@ -1,0 +1,3 @@
+cted_VBN from_IN semi-structured_JJ Web-based_JJ sources_NNS such_JJ as_IN Wikipedia_NNP and_CC IMDB_NNP as_RB well_RB as_IN hand-crafted_JJ ontologies_NNS such_JJ as_IN WordNet_NNP -LRB-_-LRB- 28_CD -RRB-_-RRB- ._.
+Additionally_RB ,_, we_PRP utilize_VBP state-of-the-art_JJ extraction_NN tools_NNS such_JJ as_IN Leila_NN =_JJ -_: =[_NN 47_CD -RRB-_-RRB- -_: =_SYM -_: in_IN order_NN to_TO extract_VB facts_NNS from_IN unstructured_JJ Web-pages_NNS containing_VBG natural_JJ language_NN text_NN ._.
+Figure_NN 1.1_CD :_: Query_NN :_: Physicists_NNS born_VBN in_IN the_DT same_JJ year_NN as_IN Max_NNP Planck_NNP In_IN order_NN to_TO query_VB the_DT knowledge-graph_NN ,_, NAGA_NN p_NN

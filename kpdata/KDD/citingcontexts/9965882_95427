@@ -1,0 +1,5 @@
+th_DT 1_CD degree_NN of_IN freedom_NN ._.
+For_IN a_DT confidence_NN level_NN of_IN 0.99_CD ,_, the_DT null_JJ hypothesis_NN is_VBZ rejected_VBN if_IN the_DT statistic_NN is_VBZ greater_JJR than_IN 6.635_CD -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+3.3.1.1_CD Illustrative_JJ Example_NN ._.
+We_PRP have_VBP used_VBN the_DT dataset_JJ SEA_NN concepts_NNS =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT benchmark_JJ problem_NN for_IN concept_NN drift_NN ._.
+Figure_NN 6_CD -LRB-_-LRB- top_JJ panel_NN -RRB-_-RRB- shows_VBZ the_DT evolution_NN of_IN the_DT error_NN rate_NN of_IN two_CD naive-Bayes_JJ variants_NNS :_: a_DT standard_JJ one_CD and_CC a_DT variant_NN that_WDT detects_VBZ and_CC relearn_VB a_DT new_JJ decision_NN mo_NN

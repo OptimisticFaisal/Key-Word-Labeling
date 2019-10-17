@@ -1,0 +1,5 @@
+ies_NNS like_IN ADaM_NN 9_CD ._.
+The_DT preparation_NN of_IN data_NNS is_VBZ supported_VBN in_IN Yale_NNP by_IN numerous_JJ feature_NN selection_NN and_CC construction_NN operators_NNS ._.
+However_RB ,_, Yale_NNP is_VBZ applied_VBN to_TO a_DT single_JJ input_NN data_NNS table_NN ._.
+The_DT MiningMart_NNP software_NN =_JJ -_: =[_NN 13_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB used_VBN to_TO combine_VB data_NNS from_IN several_JJ tables_NNS ,_, or_CC to_TO prepare_VB large_JJ data_NNS sets_NNS inside_IN a_DT relational_JJ database_NN instead_RB of_IN main_JJ memory_NN as_IN in_IN Yale_NNP ._.
+MiningMart_NNP provides_VBZ operators_NNS that_WDT ease_VBP the_DT integration_NN

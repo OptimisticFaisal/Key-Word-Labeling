@@ -1,0 +1,4 @@
+amework_NN ,_, which_WDT separates_VBZ learning_NN of_IN classifiers_NNS and_CC the_DT maintenance_NN of_IN task-specific_JJ constraints_NNS ._.
+The_DT constraints_NNS are_VBP enforced_VBN by_IN formulating_VBG and_CC solving_VBG integer_NN programming_NN problems_NNS ._.
+Agarwal_NNP et_FW al._FW =_SYM -_: =_JJ -LRB-_-LRB- ACA06_NN -RRB-_-RRB- -_: =_SYM -_: formulate_VB and_CC solve_VB optimization_NN problems_NNS to_TO enforce_VB user_NN preference_NN constraints_NNS while_IN 17sranking_VBG networked_JJ entities_NNS ._.
+Finally_RB ,_, in_IN -LRB-_-LRB- BVZ01_NN -RRB-_-RRB- Boykov_NNP et_FW al._FW give_VB a_DT fast_JJ approximate_JJ algorithm_NN for_IN segmentat_NN

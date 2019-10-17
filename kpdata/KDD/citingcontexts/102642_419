@@ -1,0 +1,5 @@
+e_LS number_NN of_IN edges_NNS removed_VBN -RRB-_-RRB- ._.
+Thus_RB ,_, we_PRP need_VBP to_TO augment_VB our_PRP$ procedure_NN with_IN a_DT method_NN for_IN identifying_VBG new_JJ seeds_NNS ._.
+We_PRP solve_VBP this_DT problem_NN with_IN a_DT method_NN inspired_VBN by_IN the_DT Expectation_NN Maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- algorithm_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- ._.
+The_DT EM_NN algori_NN -_: =_JJ -_: thm_NN is_VBZ a_DT two-step_JJ process_NN that_WDT iteratively_RB applies_VBZ estimation_NN -LRB-_-LRB- the_DT \_NN E_NN ''_'' step_NN -RRB-_-RRB- and_CC maximization_NN -LRB-_-LRB- the_DT \_NN M_NN ''_'' step_NN -RRB-_-RRB- ._.
+In_IN our_PRP$ case_NN ,_, the_DT \_NN E_NN ''_'' step_NN corresponds_VBZ to_TO using_VBG the_DT maximum_NN ow_NN algorithm_NN to_TO

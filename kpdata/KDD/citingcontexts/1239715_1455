@@ -1,0 +1,5 @@
+ed_VBN in_IN the_DT introduction_NN ,_, we_PRP adopt_VBP the_DT popular_JJ Markov_NNP Decision_NN Process_VB -LRB-_-LRB- MDP_NN -RRB-_-RRB- model_NN in_IN reinforcement_NN learning_NN with_IN function_NN approximation_NN ._.
+For_IN an_DT introduction_NN to_TO reinforcement_NN learning_NN see_VBP ,_, for_IN example_NN ,_, =_JJ -_: =[_NN 11_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT following_NN is_VBZ a_DT brief_JJ description_NN of_IN an_DT MDP_NN ._.
+At_IN any_DT point_NN in_IN time_NN ,_, the_DT environment_NN is_VBZ assumed_VBN to_TO be_VB in_IN one_CD of_IN a_DT set_NN of_IN possible_JJ states_NNS ._.
+At_IN each_DT time_NN tick_VB -LRB-_-LRB- we_PRP assume_VBP a_DT discrete_JJ time_NN clock_NN -RRB-_-RRB- ,_, the_DT en_IN

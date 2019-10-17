@@ -1,0 +1,4 @@
+tion_NN domain_NN ,_, and_CC to_TO take_VB actions_NNS to_TO one_NN 's_POS advantage_NN ._.
+However_RB ,_, the_DT number_NN of_IN rules_NNS generated_VBN from_IN a_DT dataset_NN by_IN some_DT of_IN the_DT rule_NN mining_NN algorithms_NNS is_VBZ often_RB very_RB large_JJ ,_, in_IN thousands_NNS or_CC tens_NNS of_IN thousands_NNS =_JJ -_: =[_NN 4,13,15,16,17,20,21,24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Making_VBG sense_NN of_IN such_PDT a_DT large_JJ number_NN of_IN rules_NNS presents_VBZ a_DT significant_JJ challenge_NN ._.
+Past_JJ research_NN has_VBZ shown_VBN that_IN most_JJS of_IN the_DT rules_NNS are_VBP actually_RB not_RB useful_JJ or_CC interesting_JJ for_IN specific_JJ applications_NNS -LRB-_-LRB- 15,16_CD ,_,

@@ -1,0 +1,3 @@
+be_VB willing_JJ to_TO ask_VB several_JJ queries_NNS for_IN information_NN so_RB additional_JJ High_JJ instances_NNS -LRB-_-LRB- each_DT worth_JJ 10_CD utility_NN units_NNS -RRB-_-RRB- can_MD be_VB found_VBN ._.
+To_TO train_VB this_DT model_NN ,_, we_PRP followed_VBD the_DT previously_RB developed_VBN MetaCost_NNP algorithm_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Metacost_NNP is_VBZ one_CD method_NN for_IN creating_VBG costsensitive_JJ classification_NN which_WDT allows_VBZ for_IN easily_RB setting_VBG a_DT cost_NN matrix_NN for_IN biasing_VBG the_DT classification_NN of_IN a_DT data_NN instance_NN as_IN belong_VBP to_TO one_CD category_NN versus_CC anot_NN

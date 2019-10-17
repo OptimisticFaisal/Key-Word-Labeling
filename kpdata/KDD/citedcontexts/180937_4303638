@@ -1,0 +1,6 @@
+-RRB-_-RRB- ,_, etc._NN ._.
+There_EX has_VBZ been_VBN some_DT work_NN on_IN combining_VBG the_DT advantages_NNS of_IN both_DT methods_NNS ._.
+The_DT aim_NN is_VBZ to_TO keep_VB a_DT reduced-size_JJ data_NN set_NN that_WDT preserves_VBZ some_DT statistics_NNS of_IN the_DT original_JJ whole_JJ data_NN set_NN ,_, as_IN explained_VBN in_IN =_JJ -_: =[_NN 85_CD ,_, 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2_CD ._.
+Reduce_VB the_DT dimension_NN of_IN the_DT data_NNS set_VBN In_IN many_JJ applications_NNS ,_, the_DT dimensionality_NN of_IN the_DT data_NNS sets_NNS are_VBP high_JJ ,_, e.g._FW hundreds_NNS or_CC even_RB thousands_NNS ._.
+Due_JJ to_TO the_DT notorious_JJ ``_`` Curse_NN of_IN Dimensionality_NN ,_, ''_'' many_JJ algo_NNS

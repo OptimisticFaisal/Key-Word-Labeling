@@ -1,0 +1,5 @@
+maximization_NN ._.
+Conceptually_RB ,_, our_PRP$ work_NN can_MD be_VB collocated_VBN with_IN works_NNS on_IN network_NN simplification_NN ,_, the_DT goal_NN of_IN which_WDT is_VBZ to_TO identify_VB subnetworks_NNS that_WDT preserve_VBP properties_NNS of_IN a_DT given_VBN network_NN ._.
+Toivonen_NNP et_FW al._FW =_SYM -_: =[_NN 31_CD ,_, 33_CD -RRB-_-RRB- -_: =_JJ -_: ,_, for_IN instance_NN ,_, prune_VB edges_NNS while_IN keeping_VBG the_DT original_JJ quality_NN of_IN best_JJS paths_NNS between_IN all_DT pairs_NNS of_IN nodes_NNS ._.
+Here_RB ,_, quality_NN is_VBZ defined_VBN on_IN path-based_JJ concepts_NNS ,_, such_JJ as_IN shortest_JJS path_NN or_CC maximum_NN flow_NN ._.
+Misiole_NNP

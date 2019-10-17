@@ -1,0 +1,4 @@
+ven_RB as_IN training_NN data_NNS ._.
+Because_IN of_IN the_DT importance_NN ,_, learning_VBG to_TO rank_NN has_VBZ been_VBN gaining_VBG increasing_VBG attention_NN in_IN IR_NN and_CC related_JJ fields_NNS ._.
+Many_JJ methods_NNS of_IN learning_VBG to_TO rank_VB have_VBP been_VBN proposed_VBN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 3_CD -RRB-_-RRB- -LRB-_-LRB- 13_CD -RRB-_-RRB- -LRB-_-LRB- 18_CD -RRB-_-RRB- =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =-[_NN 25_CD -RRB-_-RRB- -LRB-_-LRB- 26_CD -RRB-_-RRB- -RRB-_-RRB- and_CC applied_VBN to_TO IR_NN applications_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 4_CD -RRB-_-RRB- -LRB-_-LRB- 31_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Among_IN them_PRP ,_, Ranking_JJ SVM_NN -LRB-_-LRB- RSVM_NN -RRB-_-RRB- -LRB-_-LRB- 18_CD -RRB-_-RRB- is_VBZ a_DT typical_JJ method_NN ,_, which_WDT performs_VBZ the_DT learning_NN task_NN by_IN utilizing_VBG the_DT SVM_NN techniques_NNS ,_, one_CD of_IN the_DT most_JJS po_NN

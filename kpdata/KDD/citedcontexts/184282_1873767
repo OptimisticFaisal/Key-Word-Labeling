@@ -1,0 +1,5 @@
+._.
+In_IN the_DT second_JJ stage_NN ,_, we_PRP learn_VBP the_DT manifold_NN formed_VBN by_IN a_DT dense_JJ number_NN of_IN sampled_VBN views_NNS using_VBG the_DT EM_NN algorithm_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+Learning_NNP takes_VBZ place_NN in_IN a_DT ``_`` universal_JJ ''_'' ,_, lower-dimensional_JJ ,_, space_NN computed_VBN through_IN =_JJ -_: =_JJ RP_NN -LRB-_-LRB- 9_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT stage_NN reduces_VBZ storage_NN requirements_NNS considerably_RB -LRB-_-LRB- i.e._FW ,_, only_RB a_DT few_JJ parameters_NNS need_VBP to_TO be_VB stored_VBN for_IN each_DT manifold_NN -RRB-_-RRB- and_CC it_PRP allows_VBZ us_PRP to_TO rank_VB the_DT hypotheses_NNS generated_VBN by_IN the_DT first_JJ stage_NN ._.
+Ranking_JJ s_NN

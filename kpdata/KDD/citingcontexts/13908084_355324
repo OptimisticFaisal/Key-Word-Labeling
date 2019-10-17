@@ -1,0 +1,5 @@
+lassify_JJ 169Research_NN Track_NNP Paper_NNP stock_NN postings_NNS on_IN an_DT investor_NN bulletin_NN ._.
+Huettner_NNP and_CC Subasic_NNP -LRB-_-LRB- 20_CD -RRB-_-RRB- also_RB manually_RB construct_VB a_DT discriminant-word_JJ lexicon_NN and_CC use_VB fuzzy_JJ logic_NN to_TO classify_VB sentiments_NNS ._.
+Tong_NNP =_SYM -_: =[_NN 41_CD -RRB-_-RRB- -_: =_SYM -_: generates_VBZ sentiment_NN timelines_NNS ._.
+It_PRP tracks_VBZ online_JJ discussions_NNS about_IN movies_NNS and_CC displays_VBZ a_DT plot_NN of_IN the_DT number_NN of_IN positive_JJ and_CC negative_JJ sentiment_NN messages_NNS over_IN time_NN ._.
+Messages_NNS are_VBP classified_VBN by_IN looking_VBG fo_NN

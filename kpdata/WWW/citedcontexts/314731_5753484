@@ -1,0 +1,3 @@
+hat_NN in_IN some_DT sense_NN ,_, we_PRP have_VBP developed_VBN a_DT crawler_NN that_WDT is_VBZ specialized_VBN in_IN recognizing_VBG structures_NNS ,_, rather_RB than_IN topic-relevant_JJ pages_NNS ._.
+The_DT notion_NN of_IN pagelet_NN has_VBZ been_VBN formalized_VBN by_IN Bar-Yossef_NN and_CC Rajagopalan_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, who_WP introduce_VBP a_DT semantic_JJ and_CC a_DT syntactic_JJ definition_NN ,_, and_CC an_DT algorithm_NN to_TO extract_VB pagelets_NNS from_IN a_DT Web_NN page_NN ,_, as_RB well_RB ._.
+According_VBG to_TO their_PRP$ syntactic_JJ definition_NN ,_, a_DT pagelet_NN is_VBZ a_DT DOM_NNP subtree_NN such_JJ that_IN none_NN

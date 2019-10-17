@@ -1,0 +1,4 @@
+of_IN these_DT real_JJ values_NNS ,_, and_CC thus_RB can_MD not_RB ensure_VB the_DT discovery_NN of_IN biclusters_NNS of_IN a_DT specific_JJ type_NN ._.
+Similar_JJ challenges_NNS are_VBP faced_VBN by_IN the_DT binarization-based_JJ biclustering_NN method_NN BiMax_NN proposed_VBN by_IN Prelic_JJ et_FW al_FW =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Some_DT approaches_NNS have_VBP also_RB been_VBN proposed_VBN to_TO mine_VB association_NN patterns_NNS directly_RB from_IN real-valued_JJ data_NNS -LRB-_-LRB- 18_CD ,_, 35_CD ,_, 16_CD -RRB-_-RRB- ._.
+However_RB ,_, they_PRP do_VBP not_RB capture_VB some_DT key_JJ properties_NNS of_IN complex_JJ real-valued_JJ data_NN sets_NNS ,_, s_NNS

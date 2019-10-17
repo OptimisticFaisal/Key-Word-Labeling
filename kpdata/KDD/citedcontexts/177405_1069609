@@ -1,0 +1,4 @@
+using_VBG positive_JJ examples_NNS and_CC a_DT large_JJ set_NN of_IN unlabeled_JJ examples_NNS ._.
+5s6_NNP Finding_NNP reliable_JJ negative_JJ examples_NNS can_MD be_VB solved_VBN by_IN partially_RB supervised_VBN classification_NN techniques_NNS ,_, such_JJ as_IN Spy_NN technique_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, 1-DNF_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC the_DT Rocchio_NNP method_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+In_IN particular_JJ ,_, we_PRP incorporate_VBP the_DT spy_NN technique_NN with_IN naïve_JJ Bayes_NNS to_TO design_VB a_DT Spy_NN Naïve_FW Bayes_FW -LRB-_-LRB- SpyNB_NN -RRB-_-RRB- algorithm_NN for_IN identifying_VBG the_DT reliable_JJ negative_JJ examples_NNS ._.
+We_PRP choose_VBP t_NN

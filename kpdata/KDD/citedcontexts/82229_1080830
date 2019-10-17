@@ -1,0 +1,5 @@
+asks_VBZ ._.
+The_DT first_JJ experiment_NN was_VBD performed_VBN using_VBG the_DT synthetic_JJ N-S-W-E_NN datasets_NNS and_CC tried_VBD to_TO classify_VB routes_NNS according_VBG to_TO their_PRP$ LIP_NN distance_NN following_VBG a_DT methodology_NN initially_RB introduced_VBN by_IN Keogh_NNP et_FW al._FW =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT technique_NN ,_, each_DT route_NN is_VBZ assigned_VBN a_DT class_NN label_NN ._.
+Then_RB the_DT leave-one-out_JJ prediction_NN mechanism_NN is_VBZ applied_VBN to_TO each_DT route_NN in_IN turn_NN ._.
+That_DT is_VBZ ,_, the_DT class_NN label_NN of_IN the_DT chosen_JJ route_NN is_VBZ predicted_VBN to_TO be_VB

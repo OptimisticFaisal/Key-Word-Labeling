@@ -1,0 +1,7 @@
+iated_VBN with_IN candidate_NN entity_NN γ_NN in_IN TAP_NN ._.
+SemTag_NNP preferred_VBD high_JJ precision_NN over_IN recall_NN ,_, proposing_VBG only_RB about_RB 450_CD million_CD annotations_NNS ,_, i.e._FW ,_, fewer_JJR than_IN two_CD annotations_NNS per_IN page_NN on_IN average_NN ._.
+Wikify_NNP !_. ._.
+Wikify_NNP !_.
+=_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ two_CD components_NNS ._.
+The_DT first_JJ ,_, keyword_JJ extraction_NN ,_, decides_VBZ if_IN a_DT phrase_NN should_MD be_VB linked_VBN to_TO Wikipedia_NNP ._.
+This_DT is_VBZ based_VBN on_IN how_WRB often_RB a_DT word_NN or_CC phrase_NN is_VBZ found_VBN to_TO be_VB in_IN the_DT anchor_NN text_NN of_IN some_DT link_NN intern_NN

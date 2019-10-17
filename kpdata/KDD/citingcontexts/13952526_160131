@@ -1,0 +1,6 @@
+._.
+We_PRP use_VBP the_DT SVM_NNP classifier_NN for_IN this_DT comparison_NN ._.
+Note_VB that_DT SVM_NN is_VBZ not_RB a_DT strawman_NN --_: it_PRP is_VBZ one_CD of_IN the_DT best_JJS classification_NN models_NNS available_JJ ,_, particularly_RB well_RB suited_VBN for_IN text_NN -LRB-_-LRB- see_VB ,_, e.g._FW -LRB-_-LRB- 14_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+We_PRP followed_VBD =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: to_TO set_VB up_RP a_DT multilabel_JJ SVM_NN framework_NN ._.
+We_PRP used_VBD SVMlight_NN 15_CD with_IN parameters_NNS c_NN =_JJ 0.1_CD and_CC j_NN =_JJ 2_CD which_WDT were_VBD chosen_VBN based_VBN on_IN our_PRP$ prior_JJ knowledge_NN ._.
+We_PRP train_VBP an_DT SVM_NN on_IN a_DT portion_NN of_IN the_DT job_NN title_NN data_NNS ,_, then_RB te_IN

@@ -1,0 +1,3 @@
+s_NN ,_, the_DT dynamical_JJ influence_NN model_NN serves_VBZ as_IN a_DT unique_JJ generative_JJ approach_NN for_IN modeling_NN noisy_JJ signals_NNS from_IN a_DT dynamical_JJ network_NN ._.
+One_CD latest_JJS work_NN tends_VBZ to_TO learn_VB network_NN topology_NN from_IN node_NN state_NN dependence_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: ,_, with_IN a_DT binary_JJ and_CC static_JJ underlying_JJ model_NN ._.
+5_CD Inference_NN In_IN signal_NN processing_NN applications_NNS ,_, we_PRP are_VBP given_VBN the_DT observation_NN time_NN series_NN signals_NNS O_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- 1_CD :_: T_NN ,_, ..._: ,_, O_NN -LRB-_-LRB- C_NN -RRB-_-RRB- 1_CD :_: T_NN ,_, and_CC based_VBN on_IN observations_NNS we_PRP need_VBP

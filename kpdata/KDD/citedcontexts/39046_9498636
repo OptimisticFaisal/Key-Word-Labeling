@@ -1,0 +1,4 @@
+ies_NNS selected_VBN from_IN a_DT spectrum_NN of_IN topical_JJ categories_NNS ._.
+We_PRP evaluate_VBP the_DT performance_NN of_IN our_PRP$ approach_NN using_VBG the_DT standard_JJ recall-precision_NN measures_NNS ._.
+Beeferman_NNP and_CC Berger_NNP 's_POS agglomerative_JJ clustering_NN algorithm_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- or_CC simply_RB called_VBN BB_NNP 's_POS algorithm_NN in_IN this_DT paper_NN -RRB-_-RRB- is_VBZ used_VBN as_IN the_DT baseline_NN to_TO compare_VB with_IN our_PRP$ concept-based_JJ approach_NN ._.
+Our_PRP$ experimental_JJ results_NNS show_VBP that_IN the_DT average_JJ precision_NN at_IN any_DT recall_NN level_NN is_VBZ bet_VBN

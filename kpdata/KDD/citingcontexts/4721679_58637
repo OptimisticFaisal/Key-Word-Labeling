@@ -1,0 +1,4 @@
+atic_JJ data_NNS clustering_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+These_DT algorithms_NNS uses_NNS divide_VBP and_CC conquer_VBP schemes_NNS that_IN partition_NN data_NNS streams_NNS into_IN segments_NNS and_CC discover_VB clusters_NNS in_IN data_NNS streams_NNS based_VBN on_IN a_DT k-means_NN algorithm_NN in_IN finite_JJ space_NN =_JJ -_: =[_NN 10_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT limitation_NN of_IN such_JJ schemes_NNS is_VBZ that_IN they_PRP put_VBP equal_JJ weights_NNS to_TO outdated_JJ and_CC recent_JJ data_NNS and_CC can_MD not_RB capture_VB the_DT evolving_VBG characteristics_NNS of_IN stream_NN data_NNS ._.
+Movingwindow_NN techniques_NNS are_VBP proposed_VBN to_TO partia_VB

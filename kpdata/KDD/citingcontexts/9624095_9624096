@@ -1,0 +1,5 @@
+elevance_NN feedback_NN -LRB-_-LRB- 5_CD ,_, 22_CD -RRB-_-RRB- and_CC click-through_JJ behavior_NN -LRB-_-LRB- 3_CD ,_, 12_CD -RRB-_-RRB- ._.
+Query_NNP Suggestions_NNPS via_IN Context_NNP ._.
+There_EX is_VBZ some_DT work_NN on_IN personalizing_VBG the_DT query_NN suggestions_NNS to_TO the_DT searching_VBG history_NN of_IN the_DT user_NN ._.
+Cao_NNP et_FW al._FW =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: look_NN at_IN the_DT past_JJ sequence_NN of_IN queries_NNS issued_VBN by_IN the_DT user_NN while_IN making_VBG a_DT query_JJ recommendation_NN ._.
+In_IN a_DT similar_JJ work_NN Boldi_NNP et_FW al._FW -LRB-_-LRB- 4_LS -RRB-_-RRB- solve_VB an_DT ATSP_NN problem_NN to_TO obtain_VB the_DT sessionization_NN of_IN user_NN history_NN and_CC

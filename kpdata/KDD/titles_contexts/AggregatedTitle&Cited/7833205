@@ -1,0 +1,17 @@
+Detecting_VBG privacy_NN leaks_NNS using_VBG corpus-based_JJ association_NN rules_NNS
+pplications_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+There_EX are_VBP even_RB applications_NNS where_WRB one_NN is_VBZ interested_VBN exclusively_RB in_IN low_JJ support_NN patterns_NNS -LRB-_-LRB- for_IN instance_NN see_VBP the_DT study_NN of_IN Chow_NNP et_FW al._FW on_IN detecting_VBG privacy_NN leaks_NNS using_VBG association_NN rules_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Altogether_RB ,_, this_DT motivates_VBZ the_DT development_NN of_IN algorithms_NNS that_WDT are_VBP capable_JJ of_IN finding_VBG a_DT designated_VBN small_JJ number_NN of_IN interesting_JJ patterns_NNS in_IN feasible_JJ time_NN ._.
+In_IN particular_JJ ,_, these_DT patterns_NNS must_MD not_RB be_VB re_IN
+spicious_JJ queries_NNS from_IN logs_NNS of_IN an_DT XML_NN database_NN ._.
+Ahmed_NNP et_FW al._FW -LRB-_-LRB- 16_CD -RRB-_-RRB- presented_VBD an_DT audit_NN mechanism_NN for_IN leakage_NN detection_NN and_CC identification_NN of_IN adversaries_NNS by_IN counting_VBG the_DT frequency_NN of_IN queries_NNS ._.
+Chow_NNP et_FW al._FW =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: described_VBD a_DT theoretical_JJ framework_NN for_IN inference_NN detection_NN using_VBG corpus-based_JJ association_NN rules_NNS ._.
+Kim_NNP and_CC Kim_NNP -LRB-_-LRB- 18_CD -RRB-_-RRB- proposed_VBD a_DT monitoring_NN approach_NN for_IN detecting_VBG information_NN leakage_NN using_VBG static_JJ rules_NNS ._.
+C_NN
+rs_NNS ._.
+These_DT access_NN control_NN techniques_NNS are_VBP orthogonal_JJ to_TO the_DT basic_JJ solutions_NNS as_RB well_RB as_IN the_DT solution_NN presented_VBN in_IN this_DT paper_NN ._.
+The_DT use_NN of_IN search_NN engines_NNS to_TO detect_VB information_NN leaks_NNS has_VBZ been_VBN introduced_VBN in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, in_IN our_PRP$ work_NN ,_, the_DT purpose_NN of_IN using_VBG search_NN engines_NNS is_VBZ simply_RB to_TO detect_VB inferences_NNS between_IN keywords_NNS ._.
+The_DT purpose_NN of_IN finding_VBG inferences_NNS between_IN keywords_NNS is_VBZ to_TO discover_VB sensitive_JJ documents_NNS that_IN
+demonstrated_VBD that_IN ,_, the_DT n-grams_NN below_IN 300_CD are_VBP specific_JJ to_TO text_NN topic_NN ,_, hence_RB providing_VBG a_DT means_NN to_TO cluster_VB the_DT text_NN according_VBG to_TO context_NN ._.
+In_IN terms_NNS of_IN the_DT analysis_NN of_IN email_NN as_IN a_DT text_NN corpus_NN ,_, Chow_NNP et_FW al._FW =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: aimed_VBN to_TO detect_VB the_DT inferences_NNS in_IN sensitive_JJ documents_NNS by_IN applying_VBG various_JJ data_NNS mining_NN algorithms_NNS to_TO the_DT Enron_NNP email_NN corpus_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, which_WDT contains_VBZ the_DT email_JJ communications_NNS of_IN top-level_JJ Enron_NNP employees_NNS b_NN

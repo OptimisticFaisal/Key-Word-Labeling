@@ -1,0 +1,3 @@
+rated_VBN the_DT usefulness_NN of_IN our_PRP$ models_NNS using_VBG various_JJ visualization_NN and_CC retrieval_NN tasks_NNS ._.
+Recent_JJ extensions_NNS to_TO LDA_NN and_CC cLDA_NN bear_NN resemblances_NNS to_TO some_DT features_NNS in_IN the_DT models_NNS presented_VBN in_IN this_DT paper_NN ,_, such_JJ as_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: in_IN its_PRP$ ability_NN to_TO model_VB entities_NNS ,_, and_CC -LRB-_-LRB- 1_CD ,_, 8_CD -RRB-_-RRB- in_IN their_PRP$ abilities_NNS to_TO model_VB many-many_JJ annotations_NNS ._.
+However_RB ,_, our_PRP$ goal_NN in_IN this_DT paper_NN was_VBD mainly_RB focused_VBN on_IN modeling_NN biological_JJ figures_NNS with_IN an_DT eye_NN towards_IN b_NN

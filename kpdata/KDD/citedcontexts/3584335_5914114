@@ -1,0 +1,4 @@
+ach_NN pattern_NN output_NN from_IN this_DT process_NN satisfies_VBZ the_DT original_JJ user_NN specified_JJ support_NN constraints_NNS ._.
+Efficient_JJ mining_NN of_IN general_JJ EPs_NNS -LRB-_-LRB- defined_VBN using_VBG just_RB a_DT nonzero_JJ growth_NN rate_NN ρ_NN -RRB-_-RRB- appears_VBZ difficult_JJ ._.
+Work_NN in_IN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: employed_VBN a_DT set-enumeration_NN tree_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- andoptimisations_NNS similar_JJ to_TO the_DT MaxMiner_NNP algorithm_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Another_DT possibility_NN is_VBZ to_TO mine_VB sets_NNS of_IN CEPs_NNS for_IN different_JJ values_NNS of_IN α_NN and_CC β_NN and_CC then_RB conduct_VB a_DT post-prunin_NN

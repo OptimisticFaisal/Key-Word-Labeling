@@ -1,0 +1,5 @@
+e_LS find_VB all_PDT the_DT maximal_JJ subpatterns_NNS which_WDT have_VBP support_NN greater_JJR than_IN the_DT user_NN defined_VBD threshold_JJ s._NN We_PRP also_RB refer_VBP to_TO such_JJ subpatterns_NNS as_IN itemsets_NNS ._.
+Methods_NNS for_IN finding_VBG such_JJ itemsets_NNS have_VBP been_VBN proposed_VBN in_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Let_VB us_PRP denote_VB the_DT final_JJ patterns_NNS found_VBN by_IN Q1_NN :_: :_: :_: QK_NN ._.
+Note_VB that_IN each_DT of_IN these_DT patterns_NNS Q_NNP i_LS can_MD be_VB mapped_VBN onto_IN all_PDT the_DT data_NNS points_NNS C_NN F_NN i_FW whose_WP$ IdStrings_NNS are_VBP supersets_NNS of_IN these_DT subpatterns_NNS ._.
+We_PRP shall_MD

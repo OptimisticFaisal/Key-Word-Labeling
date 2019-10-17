@@ -1,0 +1,4 @@
+ain_VB one_CD type_NN of_IN objects_NNS ._.
+In_IN contrast_NN ,_, our_PRP$ algorithm_NN can_MD generate_VB net-clusters_NNS comprised_VBN of_IN objects_NNS from_IN multiple_JJ types_NNS ,_, given_VBN any_DT star_NN network_NN ._.
+Other_JJ related_JJ studies_NNS include_VBP topic_NN model_NN ,_, such_JJ as_IN PLSA_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT purely_RB uses_VBZ text_NN information_NN and_CC does_VBZ not_RB consider_VB link_NN information_NN ._.
+Some_DT works_NNS such_JJ as_IN author-topic_JJ model_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- utilizes_VBZ additional_JJ information_NN other_JJ than_IN text_NN by_IN designing_VBG complex_JJ generative_NN

@@ -1,0 +1,4 @@
+confounded_VBN by_IN intermediate_JJ proxies_NNS ,_, firewalls_NNS ,_, and_CC aggregators_NNS that_WDT share_VBP IP_NNP addresses_NNS ._.
+A_DT broad_JJ overview_NN of_IN such_JJ techniques_NNS is_VBZ presented_VBN in_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- ;_: retroactive_JJ log-file_JJ analysis_NN is_VBZ discussed_VBN broadly_RB in_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN general_JJ ,_, these_DT techniques_NNS focus_VBP on_IN tracking_NN how_WRB users_NNS moved_VBD through_IN the_DT system_NN :_: they_PRP emphasize_VBP a_DT notion_NN that_IN users_NNS follow_VBP links_NNS from_IN page_NN to_TO page_NN ,_, and_CC attempt_NN to_TO track_VB those_DT transitions_NNS ._.
+The_DT noti_NN

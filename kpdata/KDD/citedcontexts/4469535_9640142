@@ -1,0 +1,5 @@
+ities_NNS fraud_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+The_DT authors_NNS later_RB improved_VBD the_DT approach_NN by_IN showing_VBG that_IN one_PRP can_MD often_RB infer_VB links_NNS that_WDT are_VBP not_RB explicitly_RB stated_VBN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, and_CC successfully_RB extended_VBD the_DT methods_NNS using_VBG inferred_VBN knowledge_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Semi-supervised_JJ learning_NN methods_NNS may_MD also_RB be_VB useful_JJ for_IN graph_NN labeling_NN ,_, as_IN addressed_VBN in_IN -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+Finding_VBG authority_NN of_IN a_DT node_NN is_VBZ one_CD specific_JJ labeling_NN task_NN addressed_VBN in_IN the_DT literature_NN ._.
+One_CD way_NN of_IN defini_NNS

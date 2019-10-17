@@ -1,0 +1,6 @@
+ents_NNS ._.
+Experimental_JJ annotations_NNS from_IN MIPs_NNS make_VBP up_RP the_DT target_NN item_NN space_NN ._.
+sFigure_NN 1_CD :_: Itemsets_NNS for_IN ARM_NN vs._FW CMS-ARM_FW ._.
+The_DT profile_JJ HMM_NNP database_NN input_NN for_IN HMMER_NN is_VBZ the_DT pfam_FW ls_FW A_NN families_NNS at_IN the_DT pfam_NN database_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT consists_VBZ of_IN ∼_NN 7,500_CD protein_NN domains_NNS ._.
+4.1_CD Performance_NNP Our_NNP implementation_NN of_IN cumulative_JJ model_NN sequence_NN ARM_NN -LRB-_-LRB- CMS_NNP -RRB-_-RRB- is_VBZ shown_VBN to_TO be_VB more_RBR efficient_JJ than_IN basic_JJ ARM_NN ._.
+Figure_NN 1_CD shows_VBZ the_DT number_NN of_IN itemsets_NNS

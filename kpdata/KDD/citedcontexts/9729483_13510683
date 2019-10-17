@@ -1,0 +1,4 @@
+k_NN into_IN the_DT above_JJ example_NN for_IN better_JJR ranking_NN ._.
+In_IN our_PRP$ current_JJ implementation_NN ,_, RankClus_NN can_MD only_RB integrate_VB two_CD networks_NNS together_RB ._.
+Our_PRP$ recent_JJ study_NN extends_VBZ this_DT framework_NN into_IN NetClus_FW star-network_FW schema_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC subsequent_JJ studies_NNS will_MD accommodate_VB multiple_JJ networks_NNS ,_, multiple_JJ hierarchies_NNS and_CC constraints_NNS in_IN the_DT RankClus_NN framework_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- To_TO facilitate_VB easy_JJ exploration_NN -LRB-_-LRB- drill-down_NN and_CC roll-up_NN -RRB-_-RRB- of_IN clustering_NN r_NN

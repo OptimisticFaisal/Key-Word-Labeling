@@ -1,0 +1,3 @@
+e_LS of_IN parameters_NNS ._.
+AdaRank_NNP is_VBZ attractive_JJ in_IN that_IN it_PRP facilitates_VBZ direct_JJ optimization_NN of_IN an_DT arbitrary_JJ retrieval_NN metric_NN ,_, thus_RB avoiding_VBG metric_JJ divergence_NN issues_NNS associated_VBN with_IN minimizing_VBG discordant_JJ pairs_NNS -LRB-_-LRB- =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =-]_CD or_CC other_JJ surrogate_JJ metrics_NNS ._.
+While_IN Lease_NNP et_FW al._FW -LRB-_-LRB- 2009_CD -RRB-_-RRB- 's_POS use_NN of_IN efficient_JJ regression_NN enables_VBZ fast_JJ iteration_NN in_IN feature_NN design_NN and_CC scalability_NN to_TO a_DT growing_VBG feature_NN space_NN ,_, such_JJ regression_NN minimizes_VBZ squ_NN

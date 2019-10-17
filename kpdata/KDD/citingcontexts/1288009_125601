@@ -1,0 +1,4 @@
+where_WRB each_DT specific_JJ binary_JJ classifier_NN corresponds_VBZ to_TO one_CD or_CC more_JJR thresholds_NNS ._.
+The_DT performance_NN of_IN a_DT ranking_JJ classifier_NN can_MD be_VB can_MD be_VB visualized_VBN by_IN using_VBG a_DT Receiver_NNP Operating_NNP Characteristic_NNP -LRB-_-LRB- ROC_NNP -RRB-_-RRB- curve_NN =_JJ -_: =[_NN 14,15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT two-dimensional_JJ ROC_NN space_NN is_VBZ defined_VBN by_IN the_DT false_JJ positive_JJ rate_NN on_IN the_DT x-axis_NN and_CC the_DT true_JJ positive_JJ rate_NN on_IN the_DT y-axis_NN ._.
+The_DT true_JJ positive_JJ rate_NN of_IN the_DT classifier_NN is_VBZ TP_NN \/_: -LRB-_-LRB- TP+FN_NN -RRB-_-RRB- and_CC the_DT false_JJ posit_NN

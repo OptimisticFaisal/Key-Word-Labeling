@@ -1,0 +1,5 @@
+if_IN discovery_NN ._.
+An_DT approach_NN for_IN parameter-free_JJ motif_NN discovery_NN based_VBN on_IN SAX_NN discretization_NN and_CC DTW_NN distance_NN computation_NN is_VBZ given_VBN in_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+A_DT probabilistic_JJ approach_NN based_VBN on_IN Random_NNP Projection_NNP is_VBZ given_VBN in_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Minnen_NNP et_FW al._FW use_VBP another_DT approach_NN called_VBN Subsequence_NNP Density_NNP Estimation_NNP -LRB-_-LRB- SDE_NNP -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- for_IN motif_NN discovery_NN ,_, e.g._FW in_IN multi-sensor_JJ data_NNS recorded_VBN during_IN soldier_NN activity_NN in_IN the_DT field_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Since_IN they_PRP use_VBP

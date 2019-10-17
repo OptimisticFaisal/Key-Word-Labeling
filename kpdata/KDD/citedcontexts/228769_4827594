@@ -1,0 +1,4 @@
+e_LS control_NN of_IN the_DT produced_VBN taxonomy_NN ,_, to_TO help_VB ensure_VB that_IN the_DT results_NNS match_VBP what_WP a_DT user_NN would_MD expect_VB ._.
+Beil_NNP et_FW al._FW described_VBD an_DT algorithm_NN to_TO hierarchically_RB classify_VB documents_NNS based_VBN on_IN frequent_JJ term_NN sets_VBZ =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Their_PRP$ system_NN provided_VBD an_DT intuitive_JJ way_NN for_IN users_NNS to_TO understand_VB the_DT contents_NNS of_IN the_DT clusters_NNS ._.
+For_IN example_NN ,_, the_DT top_JJ clusters_NNS for_IN a_DT corpus_NN of_IN documents_NNS on_IN the_DT beach_NN may_MD be_VB :_: ``_`` sun_NN ''_'' ,_, ``_`` fun_NN ''_'' ,_, ``_`` beach_NN ''_'' ,_, and_CC ''_''

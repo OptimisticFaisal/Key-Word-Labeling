@@ -1,0 +1,3 @@
+ut_NN of_IN boolean_JJ association_NN rule_NN mining_NN algorithms_NNS is_VBZ often_RB too_RB large_JJ for_IN manual_JJ examination_NN ._.
+For_IN dense_JJ datasets_NNS ,_, it_PRP is_VBZ often_RB impractical_JJ to_TO even_RB generate_VB all_DT frequent_JJ itemsets_NNS ._.
+Among_IN recent_JJ approaches_NNS =_JJ -_: =[_NN 16_CD ,_, 15_CD ,_, 9_CD ,_, 6_CD ,_, 8_CD ,_, 5_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: to_TO manage_VB this_DT gigantic_JJ output_NN ,_, the_DT closed_JJ itemset_NN approach_NN -LRB-_-LRB- 16_CD ,_, 15_CD -RRB-_-RRB- is_VBZ attractive_JJ in_IN that_DT both_CC the_DT identities_NNS and_CC supports_NNS of_IN all_DT frequent_JJ itemsets_NNS can_MD be_VB derived_VBN completely_RB from_IN the_DT frequent_JJ closed_VBD

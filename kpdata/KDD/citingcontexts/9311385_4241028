@@ -1,0 +1,4 @@
+g_NN matrix_NN ,_, and_CC e_SYM is_VBZ the_DT vector_NN of_IN all_DT ones_NNS of_IN length_NN n._NN In_IN essence_NN ,_, HSIC_NN amounts_NNS to_TO computing_VBG the_DT trace_NN of_IN the_DT product_NN of_IN two_CD centered_JJ kernel_NN matrices_NNS ._.
+HSIC_NN has_VBZ been_VBN applied_VBN successfully_RB in_IN clustering_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: and_CC supervised_JJ feature_NN selection_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- tasks_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP to_TO employ_VB HSIC_NN for_IN subspace_NN kernels_NNS learning_VBG ._.
+This_DT is_VBZ motivated_VBN by_IN a_DT number_NN of_IN appealing_JJ features_NNS of_IN HSIC_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- HISC_NN is_VBZ an_DT i_FW

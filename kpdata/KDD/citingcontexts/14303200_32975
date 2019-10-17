@@ -1,0 +1,4 @@
+est_NN of_IN our_PRP$ knowledge_NN ,_, yacaree_NN -LRB-_-LRB- Balcázar_NN 2011_CD -RRB-_-RRB- is_VBZ the_DT first_JJ parameter-free_JJ association_NN miner_NN implemented_VBD ._.
+Here_RB ,_, we_PRP compare_VBP this_DT system_NN with_IN other_JJ three_CD well-known_JJ association_NN rule_NN miners_NNS :_: the_DT Apriori_NNP -LRB-_-LRB- =_JJ -_: =_JJ Agrawal_NNP and_CC Srikant_NNP 1994_CD -_: =-]_CD and_CC Predictive_NNP Apriori_NNP -LRB-_-LRB- Scheffer_NNP 2001_CD -RRB-_-RRB- tools_NNS from_IN Weka_NNP ,_, and_CC Borgelt_NNP 's_POS Apriori_NNP implementation_NN -LRB-_-LRB- Borgelt_NN 2003_CD -RRB-_-RRB- ._.
+2_CD ._.
+MAIN_JJ RESULTS_NNS Yacaree_NN is_VBZ a_DT parameter-free_JJ algorithm_NN which_WDT mines_NNS frequent_JJ closed_JJ itemset_NN

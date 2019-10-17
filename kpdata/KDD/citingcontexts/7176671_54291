@@ -1,0 +1,5 @@
+There_EX have_VBP been_VBN a_DT lot_NN of_IN work_NN on_IN leveraging_VBG ontology_NN for_IN information_NN extraction_NN ._.
+The_DT SemTag_NNP and_CC Seeker_NNP -LRB-_-LRB- 8_CD -RRB-_-RRB- systems_NNS perform_VBP automated_JJ semantic_JJ tagging_NN of_IN large_JJ corpora_NN ._.
+They_PRP use_VBP the_DT TAP_NN knowledge_NN base_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: as_IN the_DT standard_JJ ontology_NN ,_, and_CC match_VB it_PRP with_IN instances_NNS on_IN the_DT Web_NN ._.
+PANKOW_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- queries_VBZ Google_NNP with_IN ontology-based_JJ Hearst_NNP patterns_NNS to_TO annotate_VB named_VBN entities_NNS in_IN documents_NNS ._.
+Matuszek_NNP et_FW al._FW uses_VBZ Cyc_NNP to_TO sp_VB

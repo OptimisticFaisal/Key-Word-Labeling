@@ -1,0 +1,3 @@
+compute_VB document_NN frequencies_NNS ._.
+To_TO overcome_VB this_DT ,_, the_DT search_NN engine_NN is_VBZ queried_VBN with_IN each_DT individual_JJ term_NN and_CC the_DT engine_NN 's_POS estimate_NN of_IN the_DT number_NN of_IN resultsisusedasaproxyforthetruedocumentfrequency_NN ,_, e.g._FW =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Thisisnot_IN the_DT true_JJ document_NN frequency_NN because_IN it_PRP fails_VBZ to_TO count_VB multiple_JJ occurrences_NNS of_IN the_DT term_NN in_IN the_DT same_JJ document_NN ,_, and_CC it_PRP fails_VBZ to_TO eliminate_VB double-counting_NN that_WDT results_VBZ from_IN indexing_NN duplicate_VBP c_NN

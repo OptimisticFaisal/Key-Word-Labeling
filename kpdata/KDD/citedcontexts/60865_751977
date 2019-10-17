@@ -1,0 +1,5 @@
+earning_NN ,_, which_WDT we_PRP describe_VBP in_IN detail_NN just_RB below_IN ._.
+Here_RB we_PRP simply_RB note_VBP that_IN the_DT actual_JJ preference_NN learning_NN is_VBZ done_VBN by_IN a_DT support_NN vector_NN machine_NN -LRB-_-LRB- SVM_NN -RRB-_-RRB- ;_: in_IN our_PRP$ current_JJ experiments_NNS ,_, we_PRP made_VBD use_NN of_IN SVMlight_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+SVMlight_NN takes_VBZ pairwise_JJ preferences_NNS generated_VBN by_IN the_DT user_NN 's_POS schedule_NN selection_NN and_CC incorporates_VBZ them_PRP into_IN a_DT learned_VBN quadratic_JJ optimization_NN function_NN ._.
+For_IN more_JJR details_NNS ,_, see_VB -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+4_CD Active_JJ Learning_NNP in_IN

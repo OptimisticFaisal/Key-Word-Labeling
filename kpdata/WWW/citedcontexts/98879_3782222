@@ -1,0 +1,4 @@
+ased_VBN on_IN ones_NNS selected_VBN so_RB far_RB ;_: see_VB Algorithm_NNP 1_CD ._.
+In_IN the_DT algorithm_NN ,_, the_DT quality_NN of_IN item_NN i_FW relative_JJ to_TO the_DT result_NN set_VBN so_RB far_RB R_NN is_VBZ defined_VBN as_IN follows_VBZ :_: Quality_NNP -LRB-_-LRB- i_LS ,_, R_NN -RRB-_-RRB- =_JJ def_NN -LRB-_-LRB- 1_CD −_FW α_FW -RRB-_-RRB- ×_CD pi_NN ,_, ua_NN +_CC α_NN ×_NN RelDiv_NN -LRB-_-LRB- i_FW ,_, R_NN -RRB-_-RRB- =_JJ -_: =-LRB-_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: sAlgorithm_NN 1_CD The_DT Bounded_JJ Greedy_JJ selection_NN algorithm_NN ._.
+Adapted_VBN from_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Candidates_NNS ←_FW bk_FW items_NNS recommended_VBN by_IN CCR_NN +_CC -LRB-_-LRB- or_CC CCR_NN ±_NN -RRB-_-RRB- R_NN ←_NN -LCB-_-LRB- -RCB-_-RRB- for_IN j_FW ←_FW 1_CD to_TO k_NN do_VBP best_RB ←_VB the_DT i_FW ∈_FW Candidates_NNPS for_IN which_WDT Quality_NNP -LRB-_-LRB- i_LS ,_, R_NN -RRB-_-RRB-

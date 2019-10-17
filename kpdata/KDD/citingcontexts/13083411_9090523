@@ -1,0 +1,3 @@
+ng_NN personal_JJ information_NN networks_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, which_WDT integrates_VBZ the_DT user_NN 's_POS personal_JJ information_NN with_IN information_NN from_IN the_DT Web_NN and_CC hence_RB needs_VBZ to_TO be_VB performed_VBN on_IN the_DT user_NN 's_POS own_JJ machine_NN for_IN privacy_NN preservation_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Is_VBZ there_EX an_DT intuitive_JJ representation_NN of_IN a_DT disk-resident_JJ graph_NN such_JJ that_IN any_DT random_JJ walk_NN based_VBN measure_NN can_MD be_VB easily_RB computed_VBN from_IN this_DT representation_NN ?_.
+The_DT obvious_JJ solution_NN is_VBZ to_TO split_VB the_DT graph_NN into_IN

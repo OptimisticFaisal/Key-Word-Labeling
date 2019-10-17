@@ -1,0 +1,4 @@
+n_NN ,_, we_PRP will_MD move_VB to_TO describing_VBG each_DT individual_JJ result_NN ._.
+The_DT core_NN components_NNS of_IN the_DT solution_NN are_VBP published_VBN in_IN our_PRP$ ICDM_NN '_'' 2007_CD paper_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- or_CC ,_, KDD-Cup_NN '_'' 2007_CD paper_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- -RRB-_-RRB- ,_, and_CC also_RB in_IN the_DT earlier_JJR KDD_NNP '_POS 2007_CD paper_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP assume_VBP that_IN the_DT reader_NN is_VBZ familiar_JJ with_IN these_DT works_NNS and_CC our_PRP$ terminology_NN there_RB ._.
+Neighborhood-based_JJ model_NN -LRB-_-LRB- k-NN_NN -RRB-_-RRB- A_DT movie-oriented_JJ k-NN_NN approach_NN was_VBD thoroughly_RB described_VBN in_IN our_PRP$ KDD-Cup_NN '_'' 2007_CD paper_NN -LRB-_-LRB- k_NN

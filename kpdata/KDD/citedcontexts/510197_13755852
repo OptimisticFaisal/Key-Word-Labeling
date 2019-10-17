@@ -1,0 +1,4 @@
+led_VBD TRACLUS_NNP to_TO discover_VB the_DT common_JJ sub-trajectory_NN in_IN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+After_IN they_PRP obtain_VBP the_DT distance_NN between_IN partitioned_VBN trajectories_NNS ,_, a_DT density-based_JJ clustering_NN algorithm_NN DBSCAN_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- is_VBZ applied_VBN ._.
+Gaffney_NNP et_FW al._FW =_SYM -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT model-based_JJ clustering_NN method_NN using_VBG EM_NN algorithm_NN ,_, where_WRB trajectories_NNS are_VBP represented_VBN by_IN a_DT regression_NN mixture_NN model_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP use_VBP an_DT exemplar-based_JJ algorithm_NN to_TO select_VB the_DT represent_VBP

@@ -1,0 +1,4 @@
+o_NN the_DT number_NN of_IN dimensions_NNS ._.
+Ramaswamy_NNP et_FW al._FW -LRB-_-LRB- 25_CD -RRB-_-RRB- use_VBP the_DT distance_NN of_IN the_DT k_NN th_DT -_: nearest_JJS neighbor_NN to_TO rank_VB outliers_NNS and_CC give_VB an_DT efficient_JJ algorithm_NN for_IN mining_NN top-n_NN global_JJ outliers_NNS ._.
+Bay_NN and_CC Schwabacher_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: improved_VBD the_DT method_NN in_IN -LRB-_-LRB- 17_CD -RRB-_-RRB- by_IN using_VBG the_DT block_NN nested_JJ loop_NN strategy_NN with_IN pruning_NN and_CC randomization_NN techniques_NNS ._.
+Recently_RB ,_, Tao_NNP et_FW al._FW -LRB-_-LRB- 29_CD -RRB-_-RRB- presented_VBD a_DT disk-resident_JJ algorithm_NN of_IN finding_VBG global_JJ outliers_NNS

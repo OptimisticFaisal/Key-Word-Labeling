@@ -1,0 +1,4 @@
+e._NN k_NN In_IN other_JJ words_NNS ,_, the_DT sample_NN average_NN for_IN the_DT item_NN can_MD be_VB approximated_VBN using_VBG a_DT normal_JJ distribution_NN with_IN mean_JJ µ_NN and_CC standard_JJ deviation_NN σ_NN \/_: √_FW k._FW This_DT proposition_NN follows_VBZ from_IN the_DT central_JJ limit_NN theorem_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Proposition_NN 2_CD ._.
+If_IN ratings_NNS to_TO an_DT item_NN are_VBP i.i.d._NN from_IN a_DT distribution_NN P_NN ,_, then_RB H_NN -LRB-_-LRB- wj_NN -RRB-_-RRB- −_NN H_NN →_NN N_NN -LRB-_-LRB- 0_CD ,_, 1_LS -RRB-_-RRB- as_IN k_NN in_IN √_NNP Var_NNP -LRB-_-LRB- −_FW log2_FW p_NN -LRB-_-LRB- x_NN -RRB-_-RRB- -RRB-_-RRB- \/_: √_CD k_NN creases_NNS ,_, where_WRB H_NN is_VBZ the_DT true_JJ entropy_NN ._.
+In_IN other_JJ words_NNS ,_, the_DT sample_NN entrop_NN

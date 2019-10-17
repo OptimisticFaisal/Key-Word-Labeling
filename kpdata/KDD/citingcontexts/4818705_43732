@@ -1,0 +1,6 @@
+ed_VBN in_IN Section_NN 6_CD ._.
+Section_NN 7_CD summarizes_VBZ the_DT paper_NN ._.
+2_CD ._.
+RELATED_NNS WORK_VBP AND_CC MOTIVATION_NN A_NN review_NN of_IN supervised_JJ discretization_NN methods_NNS is_VBZ given_VBN in_IN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, both_DT supervised_JJ and_CC unsupervised_JJ methods_NNS are_VBP covered_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: and_CC more_RBR recently_RB in_IN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+The_DT only_JJ unsupervised_JJ methods_NNS for_IN discretization_NN listed_VBN in_IN the_DT above_JJ reviews_NNS are_VBP equal_JJ width_NN and_CC equal_JJ frequency_NN histograms_NNS ._.
+With_IN unsupervised_JJ discretization_NN no_DT class_NN label_NN

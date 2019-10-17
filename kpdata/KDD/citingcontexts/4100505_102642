@@ -1,0 +1,4 @@
+n_NN this_DT paper_NN means_VBZ Frobenius_NNP norm_NN ,_, i.e._FW ,_, |_FW |_FW A_DT |_JJ |_NN =_JJ i_FW ,_, j_FW a2_FW ij_FW ._.
+2.2_CD Related_NNP Work_NNP Community_NNP extraction_NN and_CC analysis_NN has_VBZ been_VBN studied_VBN extensively_RB and_CC is_VBZ mainly_RB studied_VBN as_IN a_DT graph_NN problem_NN ._.
+Flake_NNP et_FW al._FW =_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: defined_VBN communities_NNS as_IN dense_JJ subgraphs_NNS and_CC proposed_VBN algorithms_NNS for_IN identifying_VBG communities_NNS by_IN using_VBG a_DT maximum_NN flow\/minimum_NN cut_NN framework_NN ._.
+Ino_FW et_FW al._FW -LRB-_-LRB- 12_CD -RRB-_-RRB- proposed_VBD different_JJ algorithms_NNS based_VBN on_IN ideas_NNS

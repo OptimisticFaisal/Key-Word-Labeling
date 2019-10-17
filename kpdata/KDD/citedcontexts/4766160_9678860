@@ -1,0 +1,4 @@
+on_IN ._.
+One_CD can_MD identify_VB this_DT optimization_NN problem_NN as_IN a_DT modified_VBN version_NN of_IN the_DT facility_NN location_NN problem_NN ._.
+In_IN fact_NN ,_, this_DT optimization_NN problem_NN is_VBZ exactly_RB the_DT Minimum_NNP Consistent_JJ Subset_NNP Cover_NNP Problem_NNP -LRB-_-LRB- MCSC_NNP -RRB-_-RRB- =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Given_VBN a_DT finite_JJ set_NN S_NN and_CC a_DT constraint_NN ,_, the_DT MCSC_NN problem_NN considers_VBZ finding_VBG a_DT minimal_JJ collection_NN T_NN of_IN subsets_NNS such_JJ that_IN ⋃_NN C_NN ∈_NN T_NN C_NN =_JJ S_NN ,_, where_WRB C_NNP ⊂_NNP S_NNP ,_, and_CC each_DT C_NN satisfies_VBZ the_DT given_VBN constraint_NN c._NN In_IN our_PRP$ ca_MD

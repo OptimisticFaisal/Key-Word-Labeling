@@ -1,0 +1,4 @@
+ing_JJ algorithm_NN ,_, including_VBG wrapper_NN methods_NNS ,_, class_NN distribution-based_JJ methods_NNS ,_, and_CC loss-based_JJ methods_NNS ._.
+Other_JJ costsensitive_JJ learning_NN methods_NNS that_WDT are_VBP algorithm-independent_JJ include_VBP AdaCost_NN -LRB-_-LRB- 183_CD -RRB-_-RRB- ,_, MetaCost_NN =_JJ -_: =[_NN 177_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC costing_VBG -LRB-_-LRB- 222_CD -RRB-_-RRB- ._.
+s312_NN Chapter_NN 5_CD Classification_NN :_: Alternative_JJ Techniques_NNS Extensive_JJ literature_NN is_VBZ also_RB available_JJ on_IN the_DT subject_NN of_IN multiclass_JJ learning_NN ._.
+This_DT includes_VBZ the_DT works_NNS of_IN Hastie_NNP and_CC Tibshirani_NNP

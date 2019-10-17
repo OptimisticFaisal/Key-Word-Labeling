@@ -1,0 +1,3 @@
+he_PRP other_JJ ;_: a_DT value_NN of_IN 0_CD indicates_VBZ that_IN X_NN and_CC Y_NN are_VBP independent_JJ ._.
+Entropy-based_JJ measures_NNS handle_VBP nominal_JJ or_CC discrete_JJ values_NNS ,_, and_CC therefore_RB continuous_JJ values_NNS in_IN gene_NN expression_NN data_NNS need_VBP to_TO be_VB discretized_VBN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: in_IN order_NN to_TO use_VB entropy-based_JJ measures_NNS ._.
+4.2_CD Methodology_NN and_CC Analysis_NN In_IN developing_VBG an_DT approximation_NN method_NN for_IN both_CC relevance_NN and_CC redundancy_NN analysis_NN ,_, our_PRP$ goal_NN is_VBZ to_TO efficiently_RB find_VB a_DT feature_NN subset_NN

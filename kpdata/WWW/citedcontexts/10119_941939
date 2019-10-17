@@ -1,0 +1,5 @@
+ons_NNS ._.
+Other_JJ previous_JJ work_NN on_IN testing_NN web_NN services_NNS is_VBZ primarily_RB model-based_JJ testing_NN ._.
+Nakajima_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- proposed_VBD a_DT model_NN checking_NN technique_NN that_WDT verifies_VBZ service_NN flows_NNS using_VBG a_DT model_NN checker_NN ._.
+Narayanan_NNP et_FW al._FW =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: adopted_VBN DAML-S_NN ontology_NN to_TO describe_VB web_NN service_NN semantics_NNS and_CC test_NN web_NN services_NNS by_IN simulating_VBG their_PRP$ execution_NN under_IN different_JJ input_NN conditions_NNS ._.
+Foster_NNP et_FW al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- proposed_VBD a_DT finite-state_JJ process_NN notat_NN

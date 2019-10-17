@@ -1,0 +1,6 @@
+are_VBP individual_JJ words_NNS or_CC attributes_NNS ._.
+However_RB ,_, items_NNS in_IN Web_NN pages_NNS have_VBP some_DT structures_NNS ,_, which_WDT are_VBP reflected_VBN by_IN their_PRP$ nested_JJ HTML_NNP tags_NNS ._.
+Hence_RB ,_, different_JJ methods_NNS are_VBP needed_VBN in_IN the_DT context_NN of_IN the_DT Web_NN ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP some_DT learning_VBG mechanisms_NNS to_TO recognize_VB banner_NN ads_NNS ,_, redundant_JJ and_CC irrelevant_JJ links_NNS of_IN Web_NN pages_NNS ._.
+However_RB ,_, these_DT techniques_NNS are_VBP not_RB automatic_JJ ._.
+They_PRP require_VBP a_DT large_JJ set_NN of_IN manually_RB labeled_VBN traini_NNS

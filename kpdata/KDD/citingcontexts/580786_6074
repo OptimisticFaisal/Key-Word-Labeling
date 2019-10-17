@@ -1,0 +1,6 @@
+ralize_VB well_RB beyond_IN R_NNP ′_NNP ._.
+That_DT is_VBZ to_TO find_VB the_DT weight_NN vector_NN w_NN that_WDT satisfies_VBZ Eq_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- for_IN most_JJS data_NNS pairs_NNS -LRB-_-LRB- di_FW ,_, dj_NN -RRB-_-RRB- ∈_NN R_NN ∗_NN ,_, which_WDT maximizes_VBZ τ_NN -LRB-_-LRB- R_NN F_NN ,_, R_NN ∗_NN -RRB-_-RRB- ._.
+Though_IN this_DT problem_NN is_VBZ known_VBN to_TO be_VB NP-hard_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Reference_NNP -LRB-_-LRB- 9_CD -RRB-_-RRB- approximates_VBZ the_DT solution_NN using_VBG SVM_NN techniques_NNS by_IN introducing_VBG -LRB-_-LRB- non-negative_JJ -RRB-_-RRB- slack_JJ variables_NNS ξij_NN and_CC minimizing_VBG the_DT upper_JJ bound_VBN P_NN ξij_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- as_IN follows_VBZ ._.
+QP_NN 1_CD ._.
+minimize_VB :_: W_NN -LRB-_-LRB- w_NN ,_, ξij_NN -RRB-_-RRB- =_JJ 1_CD 2_CD

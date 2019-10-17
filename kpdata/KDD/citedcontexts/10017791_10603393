@@ -1,0 +1,5 @@
+arization_NN constant_NN corresponding_VBG to_TO σΘ_NN ._.
+A_DT more_RBR detailed_JJ discussion_NN of_IN BPR_NNP for_IN the_DT related_JJ problem_NN of_IN item_NN recommendation_NN can_MD be_VB found_VBN in_IN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+There_EX also_RB the_DT relationship_NN to_TO AUC_NN optimization_NN -LRB-_-LRB- like_IN in_IN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =--RRB-_NN is_VBZ shown_VBN ._.
+4.2_CD BPR_NNP Learning_NNP Algorithm_NNP Secondly_RB ,_, we_PRP derive_VBP a_DT learning_VBG algorithm_NN to_TO optimize_VB the_DT model_NN parameters_NNS Θ_NN of_IN ˆyu_NN ,_, i_FW ,_, t_NN A_NN ,_, tB_NN for_IN BPR-Opt_NN ._.
+In_IN general_JJ ,_, optimizing_VBG BPR-Opt_NN is_VBZ very_JJ time_NN consuming_NN ,_, a_DT

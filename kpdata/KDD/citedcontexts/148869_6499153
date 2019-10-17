@@ -1,0 +1,3 @@
+educe_VB the_DT number_NN of_IN potentially_RB uninteresting_JJ patterns_NNS by_IN incorporating_VBG various_JJ anti-monotone_NN ,_, monotone_NN ,_, or_CC convertible_JJ constraints_NNS within_IN the_DT constant-support-based_JJ frequent_JJ pattern_NN mining_NN framework_NN =_JJ -_: =[_NN 3_CD ,_, 6_CD ,_, 7_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT limitation_NN of_IN this_DT approache_NN is_VBZ that_IN it_PRP uses_VBZ a_DT constant_JJ support_NN value_NN ,_, irrespective_RB of_IN the_DT length_NN of_IN the_DT discovered_VBN patterns_NNS ._.
+In_IN general_JJ ,_, patterns_NNS that_WDT contain_VBP only_RB a_DT few_JJ items_NNS will_MD tend_VB to_TO be_VB int_NN

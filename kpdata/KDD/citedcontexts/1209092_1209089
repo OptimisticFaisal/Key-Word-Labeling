@@ -1,0 +1,5 @@
+d_NN to_TO optimize_VB an_DT objective_JJ function_NN subject_JJ to_TO the_DT constraint_NN that_IN clustered_VBN elements_NNS belong_VBP only_RB to_TO one_CD final_JJ cluster_NN ._.
+A_DT fixed_JJ number_NN of_IN clusters_NNS is_VBZ used_VBN for_IN the_DT final_JJ combination_NN ._.
+Lange_NN and_CC Buhmann_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: optimize_VB a_DT probabilistic_JJ model_NN of_IN the_DT co-association_NN matrix_NN ._.
+The_DT EMalgorithm_NN optimizes_VBZ model_NN parameters_NNS and_CC needs_NNS O_NN -LRB-_-LRB- I_NN 2_CD -RRB-_-RRB- operations_NNS for_IN each_DT iteration_NN ,_, where_WRB I_PRP is_VBZ the_DT number_NN of_IN data_NNS samples_NNS ._.
+It_PRP make_VBP

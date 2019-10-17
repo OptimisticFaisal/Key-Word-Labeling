@@ -1,0 +1,5 @@
+the_DT overhead_NN is_VBZ more_RBR visible_JJ for_IN reduced_VBN number_NN of_IN training_NN examples_NNS -LRB-_-LRB- Figure_NNP 5_CD -RRB-_-RRB- ._.
+From_IN now_RB on_IN we_PRP focus_VBP our_PRP$ analysis_NN in_IN VFDTcNB_NN ._.
+C4_NN .5_CD versus_CC VFDTcNB_NN In_IN this_DT subsection_NN ,_, we_PRP compare_VBP VFDTcNB_NN against_IN C4_NN .5_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+VFDTc_NN as_IN VFDT_NN was_VBD designed_VBN for_IN fast_JJ induction_NN of_IN interpretable_JJ ,_, and_CC accurate_JJ models_NNS from_IN large_JJ data_NNS streams_NNS using_VBG one_CD scan_VB of_IN the_DT data_NNS ._.
+The_DT motivation_NN for_IN these_DT experiments_NNS is_VBZ the_DT comparison_NN of_IN the_DT

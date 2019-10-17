@@ -1,0 +1,4 @@
+d_NN methods_NNS ,_, we_PRP thus_RB had_VBD to_TO focus_VB on_IN methods_NNS that_WDT do_VBP not_RB rely_VB on_IN text_NN or_CC metadata_NN ._.
+In_IN this_DT case_NN we_PRP generated_VBD an_DT alternative_JJ set_NN of_IN recommendations_NNS based_VBN on_IN a_DT traditional_JJ CF_NN model_NN ,_, namely_RB item-based_JJ CF_NN -LRB-_-LRB- =_JJ -_: =_JJ Sarwar_NNP et_FW al._FW ,_, 2001_CD -_: =--RRB-_NN ._.
+To_TO generate_VB a_DT set_NN of_IN CF_NN recommendations_NNS for_IN each_DT video_NN ,_, we_PRP first_RB create_VB a_DT set_NN of_IN user_NN profiles_NNS from_IN the_DT available_JJ download_NN data_NNS ._.
+Each_DT user_NN profile_NN consists_VBZ of_IN the_DT videos_NNS downloaded_VBN by_IN that_DT user_NN dur_NN

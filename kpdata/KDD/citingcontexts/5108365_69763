@@ -1,0 +1,4 @@
+st_IN be_VB able_JJ to_TO produce_VB two_CD distinct_JJ spikes_NNS with_IN varying_VBG best_RB lags_VBZ in_IN blog_NN mentions_VBZ and_CC sales_NNS rank_NN ._.
+Our_PRP$ model_NN of_IN population_NN is_VBZ inspired_VBN by_IN Hidden_NNP Markov_NNP models_NNS and_CC the_DT model_NN of_IN bursts_NNS used_VBN by_IN Kleinberg_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT model_NN ,_, B1_NN ,_, ..._: ,_, Bn_NN denote_VBP the_DT state_NN of_IN bloggers_NNS where_WRB higher-numbered_JJ states_NNS correspond_VBP to_TO a_DT populace_NN more_RBR involved_VBN in_IN discussion_NN of_IN the_DT product_NN ._.
+States_NNP S1_NN ,_, ..._: ,_, Sm_NN denote_VBP a_DT decision_NN t_NN

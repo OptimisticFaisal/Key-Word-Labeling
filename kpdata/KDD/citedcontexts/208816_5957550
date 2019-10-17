@@ -1,0 +1,5 @@
+litude_NN scaling_NN and_CC time_NN warping_NN ._.
+However_RB ,_, the_DT time_NN distance_NN between_IN those_DT landmarks_NNS is_VBZ not_RB preserved_JJ ,_, leading_VBG to_TO manyfalse_NN alarms_NNS ._.
+In_IN -LRB-_-LRB- 42_CD -RRB-_-RRB- ,_, sequences_NNS are_VBP approximated_VBN bypiecewise_JJ linear_JJ functions_NNS ;_: in_IN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, similarityis_NNS based_VBN on_IN a_DT probabilistic_JJ model_NN rather_RB than_IN a_DT distance_NN metric_NN ._.
+9.4_CD ._.
+Similarity_NN :_: unbounded_JJ vs._NN normalized_VBD With_NNP bounded_VBD similarityquerying_VBG ,_, users_NNS will_MD sometimes_RB not_RB care_VB to_TO constrain_VB the_DT s_NN

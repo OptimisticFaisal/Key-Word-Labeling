@@ -1,0 +1,3 @@
+relation_NN from_IN A_NN to_TO B_NN in_IN this_DT domain_NN ._.
+A_DT number_NN of_IN trust_NN inference_NN algorithms_NNS have_VBP been_VBN devised_VBN based_VBN on_IN aggregating_VBG the_DT trust_NN values_NNS along_IN the_DT trust_NN path_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- between_IN A_NNP and_CC B._NNP The_NNP algorithm_NN proposed_VBN by_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: includes_VBZ a_DT set_NN of_IN trust_NN propagation_NN schemes_NNS based_VBN on_IN the_DT eigenvalue_JJ propagation_NN and_CC weighted_JJ linear_JJ combination_NN ._.
+The_DT EigenTrust_NNP algorithm_NN presented_VBN in_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- calculates_VBZ the_DT reputation_NN of_IN peers_NNS in_IN a_DT pee_NN

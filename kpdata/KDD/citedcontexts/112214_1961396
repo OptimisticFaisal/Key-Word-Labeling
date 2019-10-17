@@ -1,0 +1,4 @@
+table_NN indicate_VBP that_IN the_DT person_NN either_RB liked_VBD the_DT movie_NN -LRB-_-LRB- `_`` p_NN '_'' -RRB-_-RRB- ,_, did_VBD not_RB like_VB the_DT movie_NN -LRB-_-LRB- `_`` X_NN '_'' -RRB-_-RRB- ,_, or_CC did_VBD not_RB rate_VB the_DT movie_NN -LRB-_-LRB- blank_NN -RRB-_-RRB- ._.
+Typically_RB ,_, ratings_NNS are_VBP positive_JJ integer_NN values_NNS in_IN a_DT small_JJ range_NN such_JJ as_IN =_JJ -_: =[_NN 1_CD ;_: 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+While_IN recommendation_NN algorithms_NNS work_VBP in_IN a_DT variety_NN of_IN ways_NNS ,_, we_PRP employ_VBP a_DT simple_JJ formulation_NN here_RB for_IN the_DT purpose_NN of_IN illustration_NN ._.
+We_PRP assume_VBP that_IN if_IN two_CD people_NNS 's_POS ratings_NNS agree_VBP for_IN a_DT simple_JJ majority_NN of_IN

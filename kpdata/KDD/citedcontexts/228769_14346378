@@ -1,0 +1,5 @@
+sen_RB ,_, 2005_CD ;_: Mei_NNP et_FW al._FW ,_, 2007_CD -RRB-_-RRB- ._.
+There_EX are_VBP several_JJ clustering_NN algorithms_NNS that_WDT first_RB find_VB suitable_JJ cluster_NN descriptions_NNS ,_, and_CC then_RB form_VB the_DT text_NN clusters_NNS around_IN these_DT ._.
+Frequent_JJ Term-Based_JJ Text_NN Clustering_NN -LRB-_-LRB- =_JJ -_: =_JJ Beil_NNP et_FW al._FW ,_, 2002_CD -_: =--RRB-_NN constructs_NNS text_NN clusters_NNS by_IN considering_VBG texts_NNS that_WDT contain_VBP words_NNS from_IN sets_NNS of_IN frequent_JJ terms\/words_NNS ._.
+The_DT algorithm_NN in_IN -LRB-_-LRB- Käki_NNP ,_, 2005_CD -RRB-_-RRB- is_VBZ very_RB similar_JJ ._.
+In_IN Suffix_NNP Tree_NNP Clustering_NNP -LRB-_-LRB- Zamir_NNP et_FW al._FW ,_, 1997_CD -RRB-_-RRB- word_NN

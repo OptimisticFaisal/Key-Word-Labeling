@@ -1,0 +1,5 @@
+proven_JJ approach_NN that_WDT can_MD uncover_VB the_DT hidden_JJ relationships_NNS among_IN co-occurring_JJ objects_NNS ._.
+An_DT example_NN of_IN such_JJ hidden_JJ patterns_NNS are_VBP ``_`` topics_NNS ''_'' connecting_VBG documents_NNS and_CC words_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, and_CC the_DT author-topic_JJ model_NN in_IN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN our_PRP$ framework_NN ,_, the_DT two_CD sets_NNS of_IN constraints_NNS are_VBP combined_VBN to_TO fit_VB the_DT maximum_NN entropy_NN model_NN ,_, based_VBN on_IN which_WDT we_PRP generate_VBP dynamic_JJ recommendations_NNS for_IN active_JJ users_NNS ._.
+2_CD ._.
+RECOMMENDATIONS_NNS BASED_NN ON_IN MAXIMUM_NN

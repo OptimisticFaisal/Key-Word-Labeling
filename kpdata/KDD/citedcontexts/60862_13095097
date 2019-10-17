@@ -1,0 +1,3 @@
+eval_JJ ,_, management_NN and_CC mining_NN of_IN abundant_JJ text_NN data_NNS on_IN the_DT Web_NN or_CC in_IN corporate_JJ information_NN systems_NNS ._.
+Current_JJ clustering_NN methods_NNS can_MD be_VB divided_VBN into_IN generative_JJ -LRB-_-LRB- model-based_JJ -RRB-_-RRB- approaches_VBZ Cadez_NNP et_FW al._FW ,_, 2000_CD =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: and_CC discriminative_JJ -LRB-_-LRB- similarity-based_JJ -RRB-_-RRB- approaches_VBZ Karypis_NNP et_FW al._FW ,1999_CD -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Parametric_NNP ,_, model-based_JJ approaches_NNS attempt_VBP to_TO learn_VB generative_JJ models_NNS from_IN the_DT data_NNS ,_, with_IN each_DT model_NN corresponding_VBG to_TO one_CD par_NN

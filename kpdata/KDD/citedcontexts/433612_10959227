@@ -1,0 +1,4 @@
+he_PRP pseudocode_VBD for_IN the_DT CD-B_NN algorithm_NN is_VBZ provided_VBN in_IN Appendix_NNP A._NNP 1_CD ._.
+2.2_CD CD-H_NN algorithm_NN The_DT CD-H_NN algorithm_NN replaces_VBZ the_DT initial_JJ steps_NNS of_IN the_DT CD-B_NN algorithm_NN for_IN finding_VBG the_DT PC_NN -LRB-_-LRB- X_NN -RRB-_-RRB- with_IN the_DT MMPC_NN algorithm_NN -LRB-_-LRB- =_JJ -_: =_JJ Tsamardinos_NNPS et_FW al._FW ,_, 2003_CD -_: =_JJ -_: ,_, 2006_CD -RRB-_-RRB- ._.
+The_DT MMPC_NNP uses_VBZ a_DT two-phase_JJ search_NN procedure_NN based_VBN on_IN tests_NNS of_IN independence\/dependence_NN ._.
+In_IN the_DT first_JJ phase_NN of_IN search_NN a_DT candidate_NN set_NN of_IN parents_NNS and_CC children_NNS called_VBN CPC_NNP is_VBZ estimated_VBN which_WDT is_VBZ a_DT s_NN

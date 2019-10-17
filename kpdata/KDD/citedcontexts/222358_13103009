@@ -1,0 +1,4 @@
+ese_NN logs_NNS can_MD be_VB used_VBN to_TO train_VB a_DT prediction_NN model_NN for_IN future_JJ document_NN accesses_NNS ._.
+Based_VBN on_IN these_DT models_NNS ,_, it_PRP can_MD obtain_VB frequent_JJ access_NN patterns_NNS in_IN web_NN logs_NNS and_CC mine_JJ association_NN rules_NNS for_IN path_NN prediction_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ proposed_VBN SVM_NN regression_NN technique_NN predicts_VBZ a_DT user_NN access_NN request_NN before_IN it_PRP is_VBZ actually_RB demanded_VBN ._.
+The_DT key_JJ issue_NN of_IN SVM_NN regression_NN is_VBZ to_TO establish_VB an_DT effective_JJ user_NN prediction_NN model_NN that_IN extracts_NNS

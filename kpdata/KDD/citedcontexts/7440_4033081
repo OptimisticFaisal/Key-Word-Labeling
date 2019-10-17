@@ -1,0 +1,5 @@
+ything_VBG except_IN its_PRP$ own_JJ input_NN and_CC the_DT results_NNS ._.
+This_DT problem_NN is_VBZ referred_VBN to_TO as_IN the_DT secure_JJ multi-party_JJ computation_NN problem_NN -LRB-_-LRB- 12_CD ,_, 26_CD ,_, 8_CD -RRB-_-RRB- ._.
+The_DT existing_VBG solution_NN that_WDT falls_VBZ in_IN this_DT category_NN was_VBD introduced_VBN in_IN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Specifically_RB ,_, a_DT method_NN for_IN k-means_NNS was_VBD proposed_VBN when_WRB different_JJ sites_NNS contain_VBP different_JJ attributes_NNS for_IN a_DT common_JJ set_NN of_IN entities_NNS ._.
+In_IN this_DT solution_NN ,_, each_DT site_NN learns_VBZ the_DT global_JJ clusters_NNS ,_, but_CC learns_VBZ not_RB

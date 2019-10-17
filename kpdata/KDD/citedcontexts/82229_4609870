@@ -1,0 +1,4 @@
+l_NN representation_NN ¯_NN P_NN is_VBZ known_VBN as_IN Piecewise_FW Aggregate_FW Approximation_NN -LRB-_-LRB- PAA_NN -RRB-_-RRB- -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+The_DT PAA_NNP representation_NN is_VBZ fast_JJ to_TO compute_VB and_CC is_VBZ demonstrated_VBN to_TO be_VB competitive_JJ with_IN other_JJ more_RBR sophisticated_JJ techniques_NNS =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Once_RB all_DT ¯_CD pi_NN are_VBP computed_VBN they_PRP are_VBP quantized_VBN into_IN |_FW Σ_FW |_CD intervals_NNS in_IN such_PDT a_DT way_NN that_IN approximately_RB the_DT same_JJ number_NN of_IN them_PRP fall_VBP into_IN each_DT interval_NN ._.
+This_DT guarantees_VBZ equiprobable_JJ symbols_NNS in_IN the_DT final_JJ re_NN

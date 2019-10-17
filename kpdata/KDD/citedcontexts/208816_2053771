@@ -1,0 +1,5 @@
+be_VB compressed_VBN or_CC stretched_VBN ,_, so_IN that_IN two_CD patterns_NNS can_MD align_VB together_RB -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+However_RB ,_, it_PRP is_VBZ also_RB dicult_JJ to_TO incorporate_VB domain_NN knowledge_NN into_IN the_DT denition_NN of_IN the_DT distance_NN function_NN for_IN time_NN warping_NN ._.
+-LRB-_-LRB- See_VB -LRB-_-LRB- =_JJ -_: =_JJ 11_CD -RRB-_-RRB- -_: =_SYM -_: for_IN further_JJ discussion_NN ._. -RRB-_-RRB-
+The_DT results_NNS of_IN running_VBG the_DT squared-error_JJ based_JJ method_NN and_CC dynamic_JJ time_NN warping_VBG on_IN the_DT same_JJ data_NNS used_VBN in_IN Section_NN 4.3_CD are_VBP shown_VBN in_IN Figure_NNP 12_CD and_CC Figure_NNP 13_CD ._.
+In_IN both_DT cases_NNS ,_, the_DT p_NN

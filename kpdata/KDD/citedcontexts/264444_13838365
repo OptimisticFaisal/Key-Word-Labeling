@@ -1,0 +1,3 @@
+698_CD N._NNP Matatov_NNP et_FW al._FW \/_: Information_NNP Sciences_NNPS 180_CD -LRB-_-LRB- 2010_CD -RRB-_-RRB- 2696_CD --_: 2720_CD The_DT main_JJ difficulty_NN of_IN existing_VBG generalization_NN algorithms_NNS is_VBZ the_DT need_NN for_IN domain_NN hierarchy_NN trees_NNS for_IN every_DT quasi-identifier_JJ attribute_NN =_JJ -_: =[_NN 28,65,22,37,38,19,21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT attribute_NN hierarchies_NNS are_VBP created_VBN manually_RB and_CC the_DT process_NN requires_VBZ prior_JJ knowledge_NN regarding_VBG the_DT problem_NN domain_NN ._.
+We_PRP propose_VBP a_DT new_JJ method_NN for_IN achieving_VBG k-anonymity_NN ,_, --_: data_NNS mining_NN privacy_NN by_IN de_IN

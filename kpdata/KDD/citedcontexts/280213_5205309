@@ -1,0 +1,5 @@
+where_WRB ._.
+We_PRP can_MD therefore_RB easily_RB compare_VB the_DT results_NNS with_IN our_PRP$ own_JJ experience_NN or_CC the_DT results_NNS from_IN other_JJ papers_NNS ._.
+This_DT also_RB has_VBZ a_DT downside_NN ,_, the_DT very_JJ familiarity_NN with_IN these_DT data_NNS sets_NNS leads_VBZ to_TO over-fitting_JJ -LRB-_-LRB- =_JJ -_: =_JJ Bay_NNP et_FW al._FW 2000_CD -_: =_JJ -_: ;_: Salzberg_NNP 1997_CD -RRB-_-RRB- ._.
+Our_PRP$ knowledge_NN encourages_VBZ the_DT writing_NN of_IN algorithms_NNS that_WDT are_VBP tuned_VBN to_TO them_PRP ._.
+This_DT is_VBZ part_NN of_IN a_DT larger_JJR concern_NN about_IN how_WRB well_RB experimental_JJ results_NNS will_MD generalize_VB to_TO other_JJ yet_CC unseen_JJ pr_NN

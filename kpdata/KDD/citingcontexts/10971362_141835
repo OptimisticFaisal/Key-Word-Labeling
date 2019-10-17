@@ -1,0 +1,5 @@
+figure_NN ,_, the_DT mining_NN algorithm_NN scales_NNS linearly_RB with_IN the_DT size_NN of_IN the_DT sequence_NN database_NN ._.
+6_CD ._.
+RELATED_NNS WORK_VBP Dickinson_NNP et_FW al._FW detected_VBN program_NN failures_NNS by_IN performing_VBG hierarchical_JJ clustering_NN on_IN program_NN traces_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP first_RB obtain_VB a_DT set_NN of_IN profiles_NNS of_IN interesting_JJ events_NNS -LRB-_-LRB- e.g._FW ,_, branch_NN decision_NN ,_, method_NN calls_NNS -RRB-_-RRB- in_IN program_NN traces_NNS ._.
+The_DT traces_NNS are_VBP then_RB grouped_VBN into_IN a_DT pre-defined_JJ set_NN of_IN clusters_NNS in_IN a_DT hierarchical_JJ ag_NN

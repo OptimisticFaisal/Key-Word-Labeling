@@ -1,0 +1,4 @@
+sio_FW et_FW al._FW 2005_CD -RRB-_-RRB- ._.
+These_DT partial_JJ orderings_NNS are_VBP then_RB added_VBN into_IN the_DT optimization_NN problem_NN solved_VBN by_IN the_DT SVM_NNP ,_, in_IN the_DT same_JJ way_NN that_IN search_NN engine_NN results_NNS are_VBP ranked_VBN according_VBG to_TO past_JJ clickthrough_JJ data_NNS in_IN -LRB-_-LRB- =_JJ -_: =_JJ Joachims_NNP 2002_CD -_: =--RRB-_NN ._.
+Joachims_NNP '_POS SVMlight_NN is_VBZ used_VBN as_IN the_DT basis_NN for_IN PLIANT_NNP 's_POS update_VB of_IN the_DT preference_NN weights_NNS ._.
+It_PRP is_VBZ this_DT update_VB of_IN the_DT preference_NN weights_NNS ,_, and_CC the_DT resulting_VBG ranked_VBN ordering_VBG presented_VBN to_TO the_DT user_NN ,_, that_IN we_PRP

@@ -1,0 +1,3 @@
+14_CD ,_, 16_CD -RRB-_-RRB- developed_VBD a_DT grid-based_JJ heuristic_NN that_WDT uses_VBZ pruning_NN strategies_NNS to_TO avoid_VB enumerating_VBG all_DT `_`` ´_CD n_NN rectan4_NN gular_JJ ranges_NNS ;_: similar_JJ ideas_NNS work_VBP for_IN square_JJ ranges_NNS as_RB well_RB ._.
+Most_RBS recently_RB ,_, Agarwal_NNP et_FW al._FW =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: presented_VBN approximation_NN algorithms_NNS that_WDT run_VBP in_IN time_NN O_NN -LRB-_-LRB- 1_CD ǫ_NN n2_NN log_NN 2_CD n_NN -RRB-_-RRB- while_IN guaranteeing_VBG a_DT solution_NN that_WDT is_VBZ at_IN most_JJS ǫ_NN less_JJR than_IN the_DT optimal_JJ solution_NN ._.
+Their_PRP$ algorithm_NN extends_VBZ to_TO any_DT convex_NN discrepanc_NN

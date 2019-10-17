@@ -1,0 +1,5 @@
+bi-partite_JJ structures_NNS ._.
+Co-clustering_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- trys_VBZ to_TO maximize_VB mutual_JJ information_NN ,_, but_CC like_IN k-means_NN ,_, requires_VBZ a_DT priori_FW information_NN on_IN the_DT number_NN of_IN clusters_NNS ._.
+More_RBR generally_RB in_IN terms_NNS of_IN clique_NN extraction_NN ,_, =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: trys_VBZ to_TO extract_VB quasi-cliques_NNS from_IN graphs_NNS ._.
+Our_PRP$ focus_NN however_RB is_VBZ on_IN chipping_VBG out_RP general_JJ community_NN structures_NNS ._.
+Modularity_NN based_JJ approaches_NNS compare_VBP a_DT graph_NN 's_POS community_NN structure_NN against_IN a_DT random_JJ graph_NN ._.

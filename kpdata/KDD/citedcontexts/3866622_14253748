@@ -1,0 +1,4 @@
+ther_NN context_NN as_RB well_RB ._.
+Very_RB similar_JJ problems_NNS arise_VBP in_IN fMRI_NN data_NNS ,_, for_IN instance_NN ,_, and_CC dPCA_NN could_MD provide_VB a_DT useful_JJ alternative_NN to_TO other_JJ dimensionality_NN reduction_NN methods_NNS such_JJ as_IN CCA_NNP ,_, PLS_NNP ,_, or_CC Supervised_JJ PCA_NN =_JJ -_: =[_NN 1_CD ,_, 12_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Furthermore_RB ,_, the_DT general_JJ aim_NN of_IN demixing_JJ dependencies_NNS could_MD likely_RB be_VB extended_VBN to_TO other_JJ methods_NNS -LRB-_-LRB- such_JJ as_IN ICA_NN -RRB-_-RRB- as_RB well_RB ._.
+Ultimately_RB ,_, we_PRP see_VBP dPCA_NN as_IN a_DT particular_JJ data_NN visualization_NN technique_NN that_WDT will_MD

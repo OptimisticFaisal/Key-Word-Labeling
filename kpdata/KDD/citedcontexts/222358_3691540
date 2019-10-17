@@ -1,0 +1,4 @@
+ential_JJ patterns_NNS that_WDT allows_VBZ user-specified_JJ window-size_NN and_CC user-defined_JJ taxonomy_NN over_IN items_NNS in_IN the_DT database_NN ._.
+This_DT algorithm_NN required_VBD multiple_JJ scans_NNS of_IN the_DT database_NN to_TO generate_VB candidates_NNS ._.
+Yang_NNP et_FW al._FW =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: presented_VBD an_DT application_NN of_IN web_NN log_NN mining_NN that_IN combines_NNS caching_VBG and_CC prefetching_VBG to_TO improve_VB the_DT performance_NN of_IN internet_NN systems_NNS ._.
+In_IN this_DT work_NN ,_, association_NN rules_NNS are_VBP mined_VBN from_IN web_NN logs_NNS using_VBG an_DT algor_NN

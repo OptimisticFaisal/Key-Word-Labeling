@@ -1,0 +1,15 @@
+Catching_VBG the_DT drift_NN :_: learning_VBG broad_JJ matches_NNS from_IN clickthrough_JJ data_NNS
+cturer_NN andProduct_NN Line_NN ._.
+to_TO a_DT web_NN page_NN ._.
+Again_RB ,_, some_DT of_IN the_DT graph-theoretic_JJ techniques_NNS used_VBN for_IN finding_VBG related_JJ queries_NNS can_MD be_VB employed_VBN here_RB as_RB well_RB -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+A_DT recent_JJ work_NN of_IN Gupta_NNP ,_, Bilenko_NNP ,_, and_CC Richardson_NNP =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: studied_VBD the_DT problem_NN of_IN associating_VBG keywords_NNS to_TO web_NN pages_NNS in_IN the_DT context_NN of_IN online_NN advertising_NN ._.
+They_PRP propose_VBP a_DT learner_NN that_WDT can_MD effectively_RB suggest_VB the_DT best_JJS query_NN terms_NNS that_WDT are_VBP most_RBS likely_RB related_JJ to_TO
+s_NN right_RB from_IN the_DT beginning_NN ._.
+Extant_JJ computational_JJ advertising_NN techniques_NNS typically_RB address_VBP two_CD modes_NNS of_IN ad_NN delivery_NN ._.
+Sponsored\/Paid_NN search_NN advertising_NN places_VBZ ads_NNS on_IN a_DT search_NN engine_NN relevant_JJ to_TO a_DT query_NN =_JJ -_: =[_NN 5_CD ,_, 2_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Context_NN match_NN advertising_NN places_NNS -LRB-_-LRB- contextually_RB -RRB-_-RRB- relevant_JJ ads_NNS on_IN a_DT particular_JJ website_NN -LRB-_-LRB- 3_CD ,_, 1_CD ,_, 6_CD -RRB-_-RRB- ._.
+Local_JJ search_NN ,_, as_IN exemplified_VBN by_IN sites_NNS such_JJ as_IN Yahoo_NNP !_.
+Local_NNP ,_, yellowpages.com_NNP ,_, and_CC Google_NNP Maps_NNP -LRB-_-LRB- local_JJ -RRB-_-RRB- ,_,
+related_JJ keywords_NNS based_VBN on_IN a_DT variety_NN of_IN sources_NNS -LRB-_-LRB- query_NN reformulations_NNS in_IN user_NN sessions_NNS ,_, ad_NN campaign_NN co-occurrence_NN ,_, etc._NN -RRB-_-RRB- ,_, and_CC rank_VB them_PRP using_VBG a_DT combination_NN of_IN supervised_JJ data_NNS and_CC clickthrough_JJ feedback_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =-[_NN 16_CD -RRB-_-RRB- -LRB-_-LRB- 31_CD -RRB-_-RRB- ._.
+Figure_NN 3_CD :_: Sample_VB fragment_NN of_IN the_DT keyword_JJ graph_NN Because_IN of_IN the_DT overlap_VBP in_IN ad_NN inventory_NN between_IN keywords_NNS due_JJ to_TO approximate_JJ matching_NN ,_, the_DT profile_NN utility_NN function_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- is_VBZ submodular_JJ :_: when_WRB

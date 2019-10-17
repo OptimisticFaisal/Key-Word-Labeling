@@ -1,0 +1,4 @@
+to_TO capture_VB the_DT pairwise_JJ orderings_NNS ,_, not_RB the_DT rates_NNS ._.
+Then_RB we_PRP will_MD manage_VB to_TO define_VB similarities_NNS in_IN the_DT space_NN of_IN those_DT functions_NNS ._.
+Although_IN there_EX are_VBP other_JJ approaches_NNS to_TO learn_VB preferences_NNS ,_, we_PRP will_MD follow_VB =_JJ -_: =[_NN 3_CD ,_, 4_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Then_RB we_PRP will_MD try_VB to_TO induce_VB a_DT real_JJ preference_NN ,_, ranking_NN ,_, or_CC utility_NN function_NN f_SYM from_IN the_DT input_NN space_NN of_IN object_NN descriptions_NNS ,_, say_VBP R_NN d_NN ,_, in_IN such_PDT a_DT way_NN that_IN it_PRP maximizes_VBZ the_DT probability_NN of_IN having_VBG f_FW -LRB-_-LRB- v_LS -RRB-_-RRB- -RRB-_-RRB- f_SYM

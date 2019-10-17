@@ -1,0 +1,4 @@
+ly_RB significant_JJ -LRB-_-LRB- p_NN =_JJ 0.05_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+121_CD xviiisChapter_NN 1_CD Introduction_NN Question_NN Answering_NN -LRB-_-LRB- QA_NN -RRB-_-RRB- aims_VBZ at_IN finding_VBG exact_JJ answers_NNS to_TO natural_JJ language_NN questions_NNS from_IN a_DT large_JJ collection_NN of_IN documents_NNS ._.
+Typical_JJ QA_NN systems_NNS =_JJ -_: =[_NN 45_CD ,_, 80_CD ,_, 28_CD ,_, 34_CD ,_, 46_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: combine_VB document_NN retrieval_NN with_IN question_NN analysis_NN and_CC extraction_NN techniques_NNS to_TO identify_VB a_DT set_NN of_IN likely_JJ candidates_NNS ,_, from_IN which_WDT the_DT final_JJ answer_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- are_VBP selected_VBN ._.
+Questions_NNS can_MD be_VB classified_VBN into_IN two_CD c_NN

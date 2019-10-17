@@ -1,0 +1,4 @@
+object_NN clustering_NN is_VBZ to_TO group_VB different_JJ types_NNS of_IN objects_NNS into_IN proper_JJ clusters_NNS simultaneously_RB ._.
+3_LS ._.
+PROBABILISTIC_JJ TOPIC_NN MODELS_NNS Topic_JJ modeling_NN has_VBZ been_VBN popularly_RB used_VBN for_IN data_NN analysis_NN in_IN various_JJ domains_NNS =_JJ -_: =[_NN 3_CD ,_, 13_CD ,_, 17_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT number_NN of_IN recent_JJ approaches_NNS -LRB-_-LRB- 3_CD ,_, 13_CD -RRB-_-RRB- to_TO modeling_NN document_NN content_NN are_VBP based_VBN upon_IN the_DT idea_NN that_IN the_DT probability_NN distribution_NN over_IN words_NNS in_IN a_DT document_NN can_MD be_VB expressed_VBN as_IN a_DT mixture_NN model_NN of_IN K_NN topics_NNS ,_,

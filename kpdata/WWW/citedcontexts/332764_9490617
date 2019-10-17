@@ -1,0 +1,3 @@
+rings_NNS in_IN Java-based_JJ web_NN applications_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Christodorescu_NNP et_FW al._FW -LRB-_-LRB- 8_CD -RRB-_-RRB- present_VBP an_DT implementation_NN of_IN the_DT grammar-based_JJ string_NN analysis_NN technique_NN for_IN executable_JJ programs_NNS for_IN the_DT x86_NN architecture_NN ._.
+Minamide_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: supports_VBZ string-based_JJ replacement_NN operations_NNS by_IN escaping_VBG replace_VB operations_NNS to_TO finitestate_NN transducers_NNS ,_, and_CC describes_VBZ a_DT string_NN analysis_NN similar_JJ to_TO JSA_NNP to_TO statically_RB detect_VB cross-site_JJ scripting_NN vulner_NN

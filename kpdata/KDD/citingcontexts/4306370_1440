@@ -1,0 +1,3 @@
+iguration_NN of_IN them_PRP should_MD be_VB ;_: entity_NN sets_NNS that_WDT are_VBP alike_RB in_IN typical_JJ ways_NNS are_VBP not_RB part_NN of_IN our_PRP$ target_NN ._.
+Our_PRP$ scores_NNS are_VBP similar_JJ in_IN spirit_NN to_TO tf-idf_JJ weights_NNS in_IN that_IN they_PRP emphasize_VBP unusual_JJ shared_JJ attributes_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: ;_: however_RB ,_, our_PRP$ method_NN for_IN estimating_VBG joint_JJ likelihoods_NNS is_VBZ unique_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP approximate_JJ a_DT joint_JJ distribution_NN over_IN sets_NNS of_IN attributes_NNS by_IN modeling_NN the_DT co-occurrence_NN rate_NN -LRB-_-LRB- or_CC transition_NN rate_NN -RRB-_-RRB- of_IN

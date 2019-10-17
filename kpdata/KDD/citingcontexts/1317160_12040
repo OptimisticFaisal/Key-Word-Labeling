@@ -1,0 +1,6 @@
+in_IN customer_NN behavior_NN will_MD be_VB detected_VBN by_IN the_DT algorithm_NN ._.
+There_EX are_VBP a_DT few_JJ problems_NNS in_IN the_DT algorithm_NN outlined_VBN above_IN ._.
+First_RB ,_, customer_NN preferences_NNS for_IN products_NNS can_MD be_VB expected_VBN to_TO follow_VB a_DT Zipf_NNP distribution_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT means_VBZ that_IN request_NN arrival_NN rates_NNS will_MD be_VB highly_RB disproportionate_JJ ._.
+Therefore_RB ,_, the_DT interval_NN for_IN observation_NN to_TO estimate_VB the_DT rate_NN of_IN acceptance_NN could_MD be_VB very_RB large_JJ ._.
+Because_IN the_DT trial_NN price_NN can_MD be_VB

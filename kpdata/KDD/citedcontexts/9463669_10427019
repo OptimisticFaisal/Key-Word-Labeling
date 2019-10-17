@@ -1,0 +1,5 @@
+hierarchies_NNS associated_VBN with_IN the_DT nominal_JJ attributes_NNS ._.
+For_IN each_DT dataset_NN ,_, we_PRP create_VBP a_DT set_NN of_IN 40000_CD random_JJ rangecount_NN queries_NNS ,_, such_JJ that_IN the_DT number_NN of_IN predicates_NNS in_IN each_DT query_NN is_VBZ uniformly_RB distributed_VBN in_IN =_JJ -_: =[_NN 1_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Each_DT query_NN predicate_VB ``_`` Ai_FW ∈_FW 4_CD Both_DT datasets_NNS are_VBP public_JJ available_JJ as_IN part_NN of_IN the_DT Integrated_NNP Public_NNP Use_NNP Microdata_NNP Series_NNP -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Si_NNP ''_'' is_VBZ generated_VBN as_IN follows_VBZ ._.
+First_RB ,_, we_PRP choose_VBP Ai_NNP randomly_RB from_IN the_DT attribu_NN

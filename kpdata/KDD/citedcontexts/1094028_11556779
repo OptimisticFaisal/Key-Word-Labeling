@@ -1,0 +1,4 @@
+to_TO find_VB global_JJ models_NNS more_RBR efficiently_RB ._.
+1_CD Introduction_NN This_DT paper_NN is_VBZ concerned_VBN with_IN the_DT construction_NN of_IN classifiers_NNS from_IN sets_NNS of_IN previously_RB discovered_VBN patterns_NNS ,_, more_RBR specifically_RB ,_, from_IN pattern_NN teams_NNS =_JJ -_: =[_NN 12_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: :_: small_JJ collections_NNS of_IN predictive_JJ patterns_NNS that_WDT show_VBP little_JJ redundancy_NN ._.
+Why_WRB are_VBP we_PRP interested_JJ in_IN building_VBG classifiers_NNS from_IN pattern_NN teams_NNS ?_.
+The_DT obvious_JJ reason_NN is_VBZ simply_RB for_IN the_DT sake_NN of_IN obtaining_VBG the_DT cla_NN

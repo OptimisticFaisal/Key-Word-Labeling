@@ -1,0 +1,6 @@
+equires_NNS prior_RB specific_JJ permission_NN and\/or_CC a_DT fee_NN ._.
+KDD_NNP '_POS 04_CD ,_, August_NNP 22_CD --_: 25_CD ,_, 2004_CD ,_, Seattle_NNP ,_, Washington_NNP ,_, USA_NNP ._.
+Copyright_NN 2004_CD ACM_NNP 1-58113-888-1_CD \/_: 04\/0008_CD ..._: $_$ 5.00_CD ._.
+794_CD building_NN and_CC d_NN -RRB-_-RRB- model_NN deployment\/monitoring_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS practitioners_NNS agree_VBP that_IN data_NNS preparation_NN ,_, steps_VBZ a_DT -RRB-_-RRB- and_CC b_NN -RRB-_-RRB- ,_, consumes_VBZ the_DT majority_NN of_IN the_DT data_NNS mining_NN cycle_NN time_NN and_CC budget_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Consider_VB a_DT set_NN of_IN entities_NNS such_JJ as_IN customers_NNS whose_WP$ information_NN is_VBZ

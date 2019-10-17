@@ -1,0 +1,5 @@
+systems_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- etc._NN ._.
+We_PRP would_MD use_VB the_DT following_JJ variation_NN of_IN hitting_VBG time_NN ._.
+Note_VB that_IN this_DT is_VBZ closer_JJR to_TO the_DT original_JJ hitting_VBG time_NN definition_NN ,_, and_CC is_VBZ different_JJ from_IN the_DT generalized_JJ hitting_VBG time_NN defined_VBN in_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Consider_VB a_DT random_JJ walk_NN which_WDT ,_, once_RB started_VBN from_IN i_FW stops_VBZ if_IN node_NN j_NN is_VBZ encountered_VBN ,_, or_CC with_IN probability_NN α_NN ._.
+The_DT expected_JJ time_NN to_TO hit_VB node_NN j_NN in_IN this_DT process_NN is_VBZ defined_VBN as_IN the_DT α_NN discounted_JJ hitting_VBG time_NN f_SYM

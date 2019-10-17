@@ -1,0 +1,4 @@
+O_NN -LRB-_-LRB- tn_NN -RRB-_-RRB- ._.
+When_WRB t_NN increases_VBZ ,_, O_NN -LRB-_-LRB- tn_NN -RRB-_-RRB- becomes_VBZ unacceptable_JJ ._.
+For_IN example_NN ,_, per-minute_JJ sliding_VBG over_IN one_CD week_NN for_IN short-term_JJ modeling_NN gives_VBZ 10_CD ,_, 080_CD windows_NNS ._.
+We_PRP develop_VBP an_DT algorithm_NN of_IN O_NN -LRB-_-LRB- 1n_NN -RRB-_-RRB- smoothed_VBD complexity_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: for_IN generating_VBG examples_NNS ,_, regardless_RB of_IN the_DT number_NN of_IN sliding_VBG windows_NNS t._VBP The_DT essence_NN of_IN the_DT algorithm_NN is_VBZ the_DT following_NN :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- cache_NN in_IN memory_NN all_DT inputs_NNS of_IN a_DT cookie_NN ;_: -LRB-_-LRB- 2_LS -RRB-_-RRB- sort_NN events_NNS by_IN time_NN and_CC hence_RB fo_FW

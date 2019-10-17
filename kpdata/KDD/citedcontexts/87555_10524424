@@ -1,0 +1,3 @@
+he_PRP AdaCost_NNP algorithm_NN which_WDT extends_VBZ the_DT AdaBoost_NNP algorithm_NN giving_VBG weights_NNS to_TO individual_JJ training_NN examples_NNS instead_RB of_IN classes_NNS ._.
+--_: Using_VBG Bayes_NNP risk_NN theory_NN to_TO assign_VB each_DT example_NN to_TO its_PRP$ lowest_JJS risk_NN class_NN -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP 1999_CD -_: =_JJ -_: ;_: Margineantu_NNP 2002_CD ;_: Zadrozny_NNP and_CC Elkan_NNP 2001_CD -RRB-_-RRB- ._.
+--_: Changing_VBG the_DT class_NN distributions_NNS in_IN the_DT training_NN set_VBD such_JJ that_IN the_DT cost-insensitive_JJ classifier_NN learned_VBN will_MD perform_VB equally_RB to_TO a_DT cost_NN sensitive_JJ classifi_NNS

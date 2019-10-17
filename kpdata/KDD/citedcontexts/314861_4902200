@@ -1,0 +1,3 @@
+ysb.edu\/~nlp\/webmining\/_NN ._.
+2_CD Related_JJ Work_NN Noise_NN removal_NN An_DT important_JJ problem_NN for_IN information_NN extraction_NN from_IN the_DT web_NN is_VBZ the_DT identification_NN and_CC removal_NN of_IN noise_NN -LRB-_-LRB- e.g._FW web_NN site_NN navigation_NN links_NNS and_CC ads_NNS -RRB-_-RRB- ._.
+=_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ some_DT techniques_NNS to_TO eliminate_VB noise_NN from_IN web_NN pages_NNS based_VBN on_IN the_DT following_JJ observation_NN :_: in_IN a_DT given_VBN web_NN site_NN ,_, noisy_JJ blocks_NNS usually_RB have_VBP similar_JJ content_NN and_CC presentation_NN styles_NNS ,_, while_IN the_DT main_JJ c_NN

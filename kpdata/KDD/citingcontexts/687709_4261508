@@ -1,0 +1,4 @@
+ents_NNS -LRB-_-LRB- i.e._FW ,_, new_JJ tensors_NNS keep_VBP coming_VBG -RRB-_-RRB- ._.
+Even_RB if_IN we_PRP want_VBP to_TO apply_VB OTA_NNP every_DT time_NN that_IN a_DT new_JJ tensor_NN arrives_VBZ ,_, it_PRP is_VBZ prohibitively_RB expensive_JJ 3_CD Similar_JJ ideas_NNS have_VBP been_VBN proposed_VBN for_IN 2nd_JJ -_: or_CC 3rd_JJ order_NN tensors_NNS =_JJ -_: =[_NN 22_CD ,_, 30_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+U2_NN T_NN Input_NN :_: The_DT tensors_NNS Xi_NN |_CD n_NN i_LS =_JJ 1_CD ∈_NN R_NN N1_NN ×_NN ..._: ×_NNP NM_NNP The_DT dimensionality_NN of_IN the_DT output_NN tensors_NNS Yi_FW ∈_FW R_NN R1_NN ×_NN ..._: ×_JJ RM_NN ._.
+Output_NN :_: The_DT projection_NN matrix_NN Ul_FW |_FW M_NN l_NN =_JJ 1_CD ∈_NN R_NN Nl_FW ×_FW Rl_NN constrained_VBN by_IN Ul_NN =_JJ I_CD and_CC the_DT output_NN te_NN

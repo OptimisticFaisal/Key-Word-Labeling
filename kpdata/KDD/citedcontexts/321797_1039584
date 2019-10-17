@@ -1,0 +1,4 @@
+o_NN classifiers_NNS are_VBP very_RB similar_JJ :_: The_DT 5NN_NN classifier_NN can_MD be_VB viewed_VBN as_IN a_DT smoothed_VBN version_NN of_IN the_DT 1NN_NN classifier_NN ._.
+The_DT voting_NN process_NN over_IN the_DT k_NN nearest_IN neighbors_NNS serves_VBZ as_IN a_DT variance_NN reduction_NN technique_NN -LRB-_-LRB- =_JJ -_: =_JJ Bay_NNP ,_, 1999_CD -_: =--RRB-_NN ._.
+There_EX were_VBD 14996_CD test_NN cases_NNS where_WRB the_DT 1NN_NN and_CC 5NN_NN classifiers_NNS agreed_VBD and_CC 1285_CD cases_NNS where_WRB they_PRP disagreed_VBD ._.
+As_IN we_PRP can_MD see_VB from_IN the_DT statistics_NNS in_IN Table_NNP 2_CD ,_, the_DT fragmentation_NN problem_NN is_VBZ much_RB worse_JJR for_IN C_NN

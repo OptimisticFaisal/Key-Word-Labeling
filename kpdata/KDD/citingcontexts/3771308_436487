@@ -1,0 +1,5 @@
+ciate_VB a_DT positive_JJ or_CC negative_JJ sentiment_NN with_IN a_DT movie_NN review_NN ._.
+The_DT Webmaster_NNP dataset_NN has_VBZ 582_CD examples_NNS and_CC 1406_CD features_NNS ._.
+The_DT task_NN is_VBZ to_TO classify_VB web_NN site_NN update_VBP requests_NNS as_IN ``_`` Change_NNP ''_'' from_IN ``_`` Add_VB or_CC Delete_VB ''_'' =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT Signature_NNP and_CC the_DT ReplyTo_NN datasets_NNS are_VBP related_JJ to_TO the_DT tasks_NNS of_IN detecting_VBG signature_NN lines_NNS and_CC ``_`` reply-to_JJ ''_'' lines_NNS in_IN email_NN messages_NNS ,_, respectively_RB ,_, using_VBG a_DT basic_JJ set_NN of_IN features_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Both_DT datasets_NNS ha_VBP

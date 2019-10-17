@@ -1,0 +1,4 @@
+roach_NN is_VBZ a_DT hybrid_JJ batch-incremental_JJ approach_NN ,_, in_IN which_WDT each_DT model_NN is_VBZ built_VBN using_VBG a_DT batch_NN learning_NN technique_NN ._.
+However_RB ,_, older_JJR models_NNS are_VBP replaced_VBN by_IN newer_JJR models_NNS when_WRB the_DT older_JJR models_NNS become_VBP obsolete_JJ -LRB-_-LRB- =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Some_DT of_IN these_DT hybrid_NN approaches_NNS use_VBP a_DT single_JJ model_NN to_TO classify_VB the_DT unlabeled_JJ data_NNS -LRB-_-LRB- e.g._FW -LRB-_-LRB- 10_CD -RRB-_-RRB- -RRB-_-RRB- ,_, whereas_IN others_NNS use_VBP an_DT ensemble_NN of_IN models_NNS -LRB-_-LRB- e.g._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+The_DT advantage_NN of_IN the_DT hybrid_NN

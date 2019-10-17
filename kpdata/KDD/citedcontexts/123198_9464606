@@ -1,0 +1,5 @@
+the_DT applicability_NN of_IN variational_JJ Bayes_NNS -LRB-_-LRB- VB_NN -RRB-_-RRB- for_IN TMs_NNS with_IN impressive_JJ results_NNS ,_, inference_NN especially_RB in_IN more_RBR complex_JJ models_NNS has_VBZ not_RB adopted_VBN this_DT technique_NN but_CC remains_VBZ the_DT domain_NN of_IN Gibbs_NNP sampling_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 12,9,8_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+In_IN this_DT article_NN ,_, we_PRP explore_VBP variational_JJ Bayes_NNS for_IN TMs_NNS in_IN general_JJ rather_RB than_IN specific_JJ for_IN some_DT given_VBN model_NN ._.
+We_PRP start_VBP with_IN an_DT overview_NN of_IN TMs_NNS and_CC specify_VB general_JJ properties_NNS -LRB-_-LRB- Sec_NN ._.
+2_LS -RRB-_-RRB- ._.
+Using_VBG these_DT pro_NN

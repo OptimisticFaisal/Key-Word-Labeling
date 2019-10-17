@@ -1,0 +1,4 @@
+anking_NN ,_, document_NN corpora_NN clustering_NN ,_, collaborative_JJ filtering_VBG for_IN recommender_NN systems_NNS ,_, etc._FW ._.
+SimRank_NNP is_VBZ a_DT recursive_JJ refinement_NN of_IN co-citation_NN measure_NN that_WDT computes_VBZ similarity_NN by_IN common_JJ neighbors_NNS alone_RB =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT intuitive_JJ model_NN for_IN SimRank_NNP measure_NN is_VBZ based_VBN on_IN random_JJ walk_NN over_IN a_DT web-graph_NN like_IN Google_NNP PageRank_NNP -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+The_DT SimRank_NNP similarity_NN between_IN two_CD web_NN pages_NNS is_VBZ defined_VBN recursively_RB as_IN the_DT average_JJ similari_NN

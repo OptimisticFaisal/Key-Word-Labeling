@@ -1,0 +1,5 @@
+give_VB the_DT reader_NN some_DT intuition_NN ._.
+Weighted_NNP Error_NNP Rate_NNP :_: A_DT common_JJ metric_NN used_VBN for_IN evaluating_VBG ranking_JJ systems_NNS is_VBZ the_DT ``_`` error_NN rate_NN ''_'' of_IN preference_NN pairs_NNS ._.
+This_DT metric_JJ or_CC its_PRP$ variations_NNS have_VBP been_VBN used_VBN in_IN -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+Given_VBN a_DT ranking_NN -LRB-_-LRB- prediction_NN -RRB-_-RRB- and_CC the_DT correct_JJ ordering_VBG ,_, this_DT metric_NN considers_VBZ all_DT possible_JJ preference_NN pairs_NNS in_IN the_DT prediction_NN ,_, and_CC counts_VBZ the_DT number_NN of_IN mistakes_NNS made_VBN ._.
+Then_RB it_PRP simply_RB reports_VBZ the_DT

@@ -1,0 +1,4 @@
+hase_VB a_DT graph_NN clique-set_JJ method_NN is_VBZ used_VBN for_IN generating_VBG initial_JJ categories_NNS ._.
+The_DT approach_NN has_VBZ been_VBN evaluated_VBN on_IN both_CC English_JJ and_CC Russian_JJ corpora_NN ,_, with_IN manual_JJ and_CC automatic_JJ -LRB-_-LRB- using_VBG WordNet_NNP -RRB-_-RRB- assessment_NN ._.
+In_IN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT clustering_NN algorithm_NN called_VBN Clustering_NNP by_IN Committee_NNP is_VBZ presented_VBN which_WDT automatically_RB discovers_VBZ word_NN senses_NNS by_IN clustering_NN words_NNS according_VBG to_TO their_PRP$ distributional_JJ similarity_NN ._.
+Based_VBN on_IN top-k_FW similari_FW

@@ -1,0 +1,4 @@
+r_NN -LRB-_-LRB- typically_RB ,_, by_IN minimizing_VBG training_NN set_NN error_NN under_IN some_DT regularization_NN technique_NN that_WDT prevents_VBZ overfitting_NN -RRB-_-RRB- ._.
+We_PRP experimented_VBD with_IN three_CD different_JJ learning_NN algorithms_NNS :_: max-margin_NN averaged_VBD perceptron_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, logistic_JJ regression_NN trained_VBN using_VBG the_DT L-BFGS_NN algorithm_NN with_IN L1_NN and_CC L2_NN regularization_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, and_CC boosted_VBD decision_NN trees_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Section_NN 6.3_CD provides_VBZ a_DT summary_NN of_IN results_NNS for_IN the_DT different_JJ learners_NNS ._.
+5.1_CD P_NN

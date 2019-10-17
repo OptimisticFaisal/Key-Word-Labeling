@@ -1,0 +1,4 @@
+g_NN and_CC learning_VBG ranking_JJ functions_NNS ._.
+Second_RB ,_, they_PRP allow_VBP optimizing_VBG directly_RB to_TO non-standard_JJ loss_NN functions_NNS that_WDT do_VBP not_RB necessarily_RB have_VB to_TO decompose_VB linearly_RB -LRB-_-LRB- e.g._FW Average_NNP Precision_NNP ,_, ROC-Area_NN ,_, F1-score_NN -RRB-_-RRB- =_JJ -_: =[_NN 4_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+And_CC third_JJ ,_, their_PRP$ runtime_NN provably_RB scales_NNS linearly_RB with_IN the_DT number_NN of_IN training_NN examples_NNS for_IN linear_JJ models_NNS ._.
+This_DT makes_VBZ cutting-plane_JJ methods_NNS not_RB only_RB attractive_JJ for_IN training_NN structured_JJ prediction_NN mode_NN

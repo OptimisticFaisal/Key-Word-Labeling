@@ -1,0 +1,3 @@
+s._NN 3.2_CD Requirements_NNS on_IN User_NN Log_NN Data_NN in_IN Web_NN Applications_NNS Data_NN mining_NN benefits_NNS from_IN the_DT availability_NN of_IN a_DT huge_JJ amount_NN of_IN data_NNS since_IN having_VBG many_JJ records_NNS ensures_VBZ the_DT statistical_JJ significance_NN of_IN patterns_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Log_VB data_NNS of_IN user_NN transactions_NNS can_MD have_VB several_JJ sources_NNS like_IN web_NN server_NN log-files_NNS or_CC transaction_NN logging_VBG on_IN an_DT application_NN server_NN ._.
+Web_NN server_NN logs_NNS are_VBP generated_VBN by_IN the_DT web_NN server_NN when_WRB a_DT user_NN is_VBZ visit_NN

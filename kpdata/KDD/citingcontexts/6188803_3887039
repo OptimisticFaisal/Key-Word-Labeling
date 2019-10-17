@@ -1,0 +1,5 @@
+ramani_NNS address_VBP a_DT similar_JJ problem_NN using_VBG Gaussian_JJ Processes_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+However_RB ,_, instead_RB maintaining_VBG the_DT distribution_NN P_NN -LRB-_-LRB- M_NN |_NN D_NN -RRB-_-RRB- ,_, they_PRP directly_RB estimate_VBP M_NN ∗_NN given_VBN D._NNP This_NNP is_VBZ also_RB true_JJ of_IN other_JJ related_JJ prior_JJ work_NN =_JJ -_: =[_NN 9_CD ,_, 10_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT key_JJ difference_NN in_IN our_PRP$ approach_NN is_VBZ that_IN we_PRP are_VBP not_RB simply_RB finding_VBG the_DT optimizing_VBG ranking_NN ._.
+Rather_RB ,_, maintaining_VBG P_NN -LRB-_-LRB- M_NN |_NN D_NN -RRB-_-RRB- is_VBZ key_JJ as_IN it_PRP allows_VBZ us_PRP to_TO optimize_VB for_IN collected_VBN training_NN data_NNS ._.
+3.2_CD Inference_NN

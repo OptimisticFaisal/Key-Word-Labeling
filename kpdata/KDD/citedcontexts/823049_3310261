@@ -1,0 +1,3 @@
+efficient_JJ sequential_JJ pattern_NN query_NN processing_NN algorithms_NNS exploiting_VBG materialized_VBN patterns_NNS ._.
+Exploiting_VBG cached_VBN results_NNS of_IN previous_JJ mining_NN queries_NNS has_VBZ been_VBN studied_VBN in_IN the_DT context_NN of_IN association_NN rules_NNS -LRB-_-LRB- 3_LS -RRB-_-RRB- =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, direct_JJ application_NN of_IN methods_NNS and_CC techniques_NNS introduced_VBN for_IN association_NN rules_NNS to_TO sequential_JJ pattern_NN discovery_NN problem_NN is_VBZ not_RB possible_JJ since_IN different_JJ types_NNS of_IN constraints_NNS are_VBP available_JJ in_IN t_NN

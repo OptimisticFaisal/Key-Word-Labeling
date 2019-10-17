@@ -1,0 +1,4 @@
+ification_NN of_IN functional_JJ requirements_NNS ._.
+Unfortunately_RB ,_, frequent_JJ changes_NNS make_VBP the_DT original_JJ requirements_NNS documentation_NN ,_, even_RB if_IN once_RB complete_JJ and_CC accurate_JJ ,_, hardly_RB relevant_JJ to_TO the_DT new_JJ versions_NNS of_IN software_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO ensure_VB effective_JJ design_NN of_IN new_JJ regression_NN test_NN cases_NNS ,_, one_CD has_VBZ to_TO recover_VB -LRB-_-LRB- reverse_JJ engineer_NN -RRB-_-RRB- the_DT actual_JJ requirements_NNS of_IN an_DT existing_VBG system_NN ._.
+In_IN -LRB-_-LRB- 36_CD -RRB-_-RRB- ,_, several_JJ ways_NNS are_VBP proposed_VBN to_TO determine_VB input-ou_NN

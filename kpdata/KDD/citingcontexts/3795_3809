@@ -1,0 +1,4 @@
+set_NN of_IN discovered_VBN rules_NNS ._.
+This_DT method_NN ,_, however_RB ,_, does_VBZ not_RB prune_VB those_DT insignificant_JJ rules_NNS and_CC does_VBZ not_RB provide_VB a_DT summary_NN of_IN the_DT discovered_VBN rules_NNS ._.
+In_IN subjective_JJ interestingness_NN research_NN in_IN data_NNS mining_NN ,_, =_JJ -_: =[_NN 22_CD ,_, 11_CD ,_, 12_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT number_NN of_IN methods_NNS for_IN finding_VBG unexpected_JJ rules_NNS ._.
+Instead_RB of_IN asking_VBG the_DT user_NN to_TO specify_VB what_WP he\/she_NN wants_VBZ to_TO see_VB as_IN in_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, these_DT approaches_NNS ask_VBP the_DT user_NN Pruning_VBG Significant_JJ rules_NNS Summarizat_NN

@@ -1,0 +1,4 @@
+arse_NN trees_NNS of_IN HTML_NNP pages_NNS into_IN flattened_VBN pagelets_NNS according_VBG to_TO the_DT number_NN of_IN hyperlinks_NNS each_DT HTML_NNP element_NN contains_VBZ -LRB-_-LRB- see_VB Section_NNP 4.2.2_NNP for_IN the_DT definition_NN of_IN pagelet_NN -RRB-_-RRB- ._.
+Then_RB it_PRP uses_VBZ the_DT shingle_NN technique_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: to_TO determine_VB the_DT almost-similarities_NNS of_IN pagelets_NNS ._.
+A_DT shingle_NN is_VBZ a_DT text_NN fingerprint_NN that_WDT is_VBZ invariant_JJ under_IN small_JJ perturbations_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+For_IN our_PRP$ application_NN ,_, we_PRP use_VBP the_DT local_JJ template_NN detection_NN algorithm_NN i_FW

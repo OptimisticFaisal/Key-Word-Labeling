@@ -1,0 +1,6 @@
+bile_NN phones_NNS ._.
+The_DT web_NN pages_NNS are_VBP broken_VBN into_IN segments_NNS of_IN text_NN that_WDT can_MD be_VB displayed_VBN or_CC hidden_VBN ._.
+Summaries_NNS are_VBP constructed_VBN from_IN keyword_JJ extraction_NN or_CC a_DT determination_NN of_IN significant_JJ sentences_NNS ._.
+Chen_NNP et_FW al._FW =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: detect_VB and_CC organize_VB a_DT webpage_NN into_IN a_DT two-level_JJ hierarchy_NN ._.
+Each_DT section_NN of_IN a_DT 4spage_NN is_VBZ displayed_VBN as_IN a_DT thumbnail_NN that_IN the_DT user_NN can_MD zoom_VB in_RB to_TO view_VB more_RBR closely_RB ._.
+For_IN pages_NNS that_WDT are_VBP not_RB able_JJ to_TO be_VB split_VBN ,_,

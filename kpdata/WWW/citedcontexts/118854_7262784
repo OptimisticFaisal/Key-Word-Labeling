@@ -1,0 +1,5 @@
+ests_NNS at_IN a_DT high_JJ rate_NN to_TO overwhelm_VB the_DT victim_NN servers_NNS ._.
+This_DT attack_NN is_VBZ particularly_RB challenging_JJ because_IN it_PRP is_VBZ hard_JJ to_TO detect_VB by_IN network-level_JJ defenses_NNS as_IN it_PRP usually_RB does_VBZ not_RB trigger_VB network-level_JJ alarms_NNS =_JJ -_: =[_NN 3_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+⋆_VB The_DT authors_NNS were_VBD supported_VBN in_IN part_NN by_IN NSF_NN under_IN grant_NN ITR_NN medium_NN ANI-0325353_NN ._.
+sTwo_NN methods_NNS are_VBP generally_RB used_VBN to_TO mitigate_VB DoS_NN attacks_NNS :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- DoS_NN prevention_NN and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- DoS_NN detection_NN and_CC recovery_NN ._.
+DoS_NN pre_JJ

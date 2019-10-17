@@ -1,0 +1,4 @@
+integrity_NN constraint_NN violations_NNS ._.
+The_DT rules_NNS are_VBP fired_VBN in_IN an_DT opportunistic_JJ manner_NN when_WRB pre-processed_JJ records_NNS are_VBP fed_VBN into_IN the_DT expert_NN system_NN engine_NN ,_, implemented_VBN using_VBG the_DT Java_NNP Expert_NNP System_NNP Shell_NNP -LRB-_-LRB- JESS_NNP -RRB-_-RRB- =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT pattern_NN matching_NN and_CC rule_NN activation_NN mechanisms_NNS of_IN JESS_NNP make_VBP use_NN of_IN the_DT Rete_JJ algorithm_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+To_TO avoid_VB pairwise_JJ comparison_NN for_IN each_DT and_CC every_DT record_NN in_IN the_DT database_NN -LRB-_-LRB- which_WDT may_MD be_VB infeasible_JJ in_IN lar_NN

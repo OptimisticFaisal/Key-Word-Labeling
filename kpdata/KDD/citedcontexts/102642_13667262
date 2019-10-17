@@ -1,0 +1,3 @@
+g_NN ,_, Similarity_NN 1_CD ._.
+INTRODUCTION_NN Recently_RB ,_, there_EX has_VBZ been_VBN substantial_JJ interest_NN in_IN the_DT problem_NN of_IN discovering_VBG community_NN structures_NNS from_IN a_DT web_NN graph_NN based_VBN primarily_RB on_IN the_DT hyperlink_NN structure_NN of_IN the_DT graph_NN =_JJ -_: =[_NN 1_CD ,_, 9_CD ,_, 16_CD ,_, 18_CD ,_, 22_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS of_IN the_DT previous_JJ work_NN defines_VBZ the_DT intuitive_JJ notion_NN of_IN a_DT web_NN community_NN as_IN a_DT subgraph_NN of_IN a_DT given_VBN web_NN graph_NN whose_WP$ members_NNS are_VBP ,_, in_IN some_DT sense_NN ,_, more_RBR similar_JJ to_TO each_DT other_JJ than_IN to_TO other_JJ ,_, noncommunity_JJ

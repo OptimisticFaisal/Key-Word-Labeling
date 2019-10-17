@@ -1,0 +1,4 @@
+d_NN for_IN baseline_NN comparison_NN only_RB ._.
+•_NNP Degree_NNP :_: Choose_VB nodes_NNS based_VBN on_IN the_DT number_NN of_IN links_NNS they_PRP share_VBP with_IN other_JJ nodes_NNS ._.
+In_IN many_JJ relational_JJ domains_NNS ,_, high_JJ degree_NN nodes_NNS are_VBP considered_VBN to_TO be_VB locally_RB influential_JJ =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: The_DT following_JJ three_CD heuristics_NNS are_VBP computationally_RB intensive_JJ to_TO calculate_VB ._.
+In_IN order_NN to_TO compute_VB them_PRP efficiently_RB ,_, we_PRP employ_VBP a_DT network_NN structure_NN index_NN -LRB-_-LRB- NSI_NN -RRB-_-RRB- ,_, a_DT scalable_JJ technique_NN for_IN capturing_VBG graph_NN st_IN

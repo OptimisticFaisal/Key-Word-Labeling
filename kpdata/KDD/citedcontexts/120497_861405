@@ -1,0 +1,4 @@
+ghted_VBN by_IN the_DT association_NN probabilities_NNS ,_, which_WDT is_VBZ to_TO be_VB maximized_VBN ._.
+Indeed_RB ,_, maximizing_VBG this_DT objective_JJ function_NN leads_VBZ to_TO a_DT well-known_JJ hard_JJ clustering_NN algorithm_NN -LRB-_-LRB- Kearns_NNP et_FW al._FW ,_, 1997_CD ;_: Li_NNP and_CC Biswas_NNP ,_, 2002_CD ;_: =_JJ -_: =_JJ Banerjee_NNP et_FW al._FW ,_, 2003_CD -_: =_SYM -_: b_LS -RRB-_-RRB- ._.
+We_PRP will_MD show_VB in_IN the_DT next_JJ section_NN that_IN soft_JJ modelbased_JJ clustering_NN can_MD be_VB obtained_VBN by_IN adding_VBG entropy_NN constraints_NNS to_TO the_DT objective_JJ function_NN ._.
+Similar_JJ to_TO deterministic_JJ annealing_NN ,_, a_DT temperature_NN paramete_NN

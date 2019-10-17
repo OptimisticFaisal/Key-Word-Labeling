@@ -1,0 +1,4 @@
+that_IN use_NN chunking_NN and_CC decomposition_NN methods_NNS efficiently_RB ._.
+There_EX are_VBP also_RB efficient_JJ algorithms_NNS that_WDT exploit_VBP the_DT special_JJ structure_NN of_IN the_DT optimization_NN problem_NN such_JJ as_IN Generalized_NNP Proximal_JJ SVMs_NNS -LRB-_-LRB- GEPSVM_NN -RRB-_-RRB- =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT binary_JJ classification_NN problem_NN can_MD be_VB formulated_VBN as_IN a_DT generalized_JJ eigenvalue_NN problem_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+This_DT formulation_NN differs_VBZ from_IN SVMs_NNS since_IN ,_, instead_RB of_IN finding_VBG one_CD hyperplane_NN that_WDT separates_VBZ the_DT two_CD class_NN

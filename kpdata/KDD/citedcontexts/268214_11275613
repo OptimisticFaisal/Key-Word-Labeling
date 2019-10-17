@@ -1,0 +1,3 @@
+ypical_JJ process_NN to_TO extract_VB objects_NNS from_IN a_DT Web_NN page_NN consists_VBZ of_IN three_CD steps_NNS :_: record_NN extraction_NN ,_, attribute_NN alignment_NN ,_, and_CC attribute_NN labeling_NN ._.
+Given_VBN a_DT Web_NN page_NN ,_, the_DT first_JJ step_NN is_VBZ to_TO identify_VB a_DT Web_NN record_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, i.e._FW ,_, a_DT set_NN of_IN HTML_NNP regions_NNS ,_, each_DT of_IN which_WDT represents_VBZ an_DT individual_JJ object_NN -LRB-_-LRB- e.g._FW ,_, a_DT product_NN -RRB-_-RRB- ._.
+The_DT second_JJ step_NN is_VBZ to_TO extract_VB object_NN attributes_NNS -LRB-_-LRB- e.g._FW ,_, product_NN names_NNS ,_, prices_NNS ,_, and_CC images_NNS -RRB-_-RRB- from_IN a_DT set_NN of_IN

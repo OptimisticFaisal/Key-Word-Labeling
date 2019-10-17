@@ -1,0 +1,5 @@
+specific_JJ measurable_JJ characteristics_NNS of_IN each_DT problem_NN -LRB-_-LRB- 64_CD -RRB-_-RRB- ._.
+Adaptation_NN is_VBZ guided_VBN by_IN a_DT rule-based_JJ system_NN ,_, whose_WP$ knowledge_NN has_VBZ been_VBN acquired_VBN through_IN machine_NN learning_NN techniques_NNS ._.
+It_PRP uses_VBZ the_DT DM-II_NN program_NN =_JJ -_: =[_NN 39_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT performs_VBZ classification_NN based_VBN on_IN association_NN rules_NNS -LRB-_-LRB- 40_CD -RRB-_-RRB- in_IN order_NN to_TO discover_VB useful_JJ and_CC interpretable_JJ rules_NNS from_IN the_DT data_NNS ._.
+Neither_CC they_PRP learn_VBP heuristics_NNS nor_CC they_PRP use_VBP deductive_JJ learning_NN ._.
+An_DT exten_NN

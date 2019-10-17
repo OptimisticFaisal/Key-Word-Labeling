@@ -1,0 +1,4 @@
+atically_RB identifying_VBG events_NNS in_IN unstructured_JJ data_NNS ._.
+Yang_NNP et_FW al._FW and_CC Papka_NNP study_VBD the_DT use_NN of_IN text_NN retrieval_NN and_CC clustering_NN techniques_NNS for_IN detecting_VBG the_DT presence_NN of_IN a_DT new_JJ event_NN in_IN a_DT stream_NN of_IN news_NN stories_NNS =_JJ -_: =[_NN 24_CD ,_, 3_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT work_NN ,_, however_RB ,_, does_VBZ not_RB focus_VB on_IN predicting_VBG one_CD event_NN using_VBG another_DT event_NN ._.
+Some_DT work_NN has_VBZ been_VBN done_VBN in_IN the_DT area_NN of_IN developing_VBG models_NNS that_WDT apply_VBP to_TO message_NN boards_NNS ,_, chat_NN rooms_NNS ,_, and_CC blogs_NNS relating_VBG

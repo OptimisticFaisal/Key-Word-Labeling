@@ -1,0 +1,4 @@
+intersection_NN ,_, and_CC covering_NN ,_, as_IN defined_VBN in_IN Section_NN 2.2_CD ,_, are_VBP the_DT key_JJ routing_VBG computations_NNS in_IN a_DT pub\/sub_NN router_NN ._.
+A_DT number_NN of_IN algorithms_NNS have_VBP been_VBN proposed_VBN to_TO efficiently_RB perform_VB some_DT of_IN these_DT operations_NNS =_JJ -_: =[_NN 11_CD ,_, 20_CD ,_, 9_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT performance_NN of_IN the_DT algorithms_NNS is_VBZ typically_RB evaluated_VBN only_RB on_IN a_DT single_JJ broker_NN -LRB-_-LRB- router_NN -RRB-_-RRB- and_CC usually_RB the_DT performance_NN results_VBZ for_IN matching_NN ,_, insertion_NN and_CC covering_NN are_VBP reported_VBN in_IN isolation_NN ._.
+However_RB ,_,

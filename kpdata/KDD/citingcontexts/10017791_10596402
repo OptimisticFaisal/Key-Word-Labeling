@@ -1,0 +1,4 @@
+s_VBZ a_DT training_NN phase_NN ._.
+But_CC training_NN is_VBZ usually_RB done_VBN offline_NN and_CC for_IN online_NN updating_VBG a_DT factorization_NN model_NN there_EX are_VBP very_RB promising_JJ results_NNS for_IN the_DT related_JJ model_NN class_NN of_IN regularized_VBN matrix_NN factorization_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+5.4.2_CD RTF_NN vs._FW HOSVD_FW The_DT prediction_NN quality_NN of_IN RTF_NN is_VBZ clearly_RB superior_JJ to_TO the_DT one_CD of_IN HOSVD_NN -LRB-_-LRB- figure_NN 7_CD -RRB-_-RRB- ._.
+On_IN BibSonomy_NNP even_RB with_IN a_DT very_RB small_JJ number_NN of_IN 8_CD dimensions_NNS ,_, RTF_NN achieves_VBZ almost_RB similar_JJ results_NNS

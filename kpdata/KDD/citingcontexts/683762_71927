@@ -1,0 +1,4 @@
+ary_JJ relation_NN of_IN topicality_NN ._.
+The_DT hand-labeling_NN by_IN the_DT analysts_NNS is_VBZ performed_VBN using_VBG an_DT active_JJ learning_NN framework_NN -LRB-_-LRB- similar_JJ to_TO Section_NN 3.2_CD -RRB-_-RRB- ._.
+The_DT underlying_JJ classifier_NN is_VBZ a_DT variant_NN of_IN the_DT Winnow_NNP classifier_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, an_DT online_JJ learning_NN algorithm_NN that_WDT finds_VBZ a_DT linear_JJ separator_NN between_IN the_DT class_NN of_IN documents_NNS that_WDT are_VBP topical_JJ and_CC the_DT class_NN of_IN documents_NNS that_WDT are_VBP irrelevant_JJ ._.
+Documents_NNS are_VBP modeled_VBN with_IN the_DT standard_JJ bag_NN

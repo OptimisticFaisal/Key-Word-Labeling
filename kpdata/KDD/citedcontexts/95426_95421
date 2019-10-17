@@ -1,0 +1,4 @@
+e_LS series_NN data_NNS cubes_NNS ._.
+Recently_RB ,_, several_JJ research_NN papers_NNS have_VBP been_VBN published_VBN on_IN the_DT management_NN and_CC querying_VBG of_IN stream_NN data_NNS -LRB-_-LRB- 6_CD ,_, 14_CD ,_, 15_CD ,_, 13_CD -RRB-_-RRB- ,_, and_CC data_NN mining_NN -LRB-_-LRB- classication_NN and_CC clustering_NN -RRB-_-RRB- on_IN stream_NN data_NNS -LRB-_-LRB- =_JJ -_: =_JJ 20_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, these_DT works_NNS do_VBP not_RB consider_VB regression_NN analysis_NN on_IN stream_NN data_NNS ._.
+Thus_RB this_DT study_NN sets_VBZ a_DT new_JJ direction_NN :_: extending_VBG data_NNS cube_NN technology_NN for_IN multi-dimensional_JJ regression_NN analysis_NN ,_, especially_RB fo_NN

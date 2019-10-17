@@ -1,0 +1,5 @@
+or_CC UK_NNP ._.
+In_IN these_DT situations_NNS one_CD of_IN these_DT will_MD be_VB suggested_VBN as_IN an_DT additional_JJ disambiguator_NN ._.
+Clustering_NN algorithms_NNS can_MD identify_VB different_JJ uses_NNS of_IN tags_NNS ,_, but_CC they_PRP do_VBP not_RB provide_VB any_DT semantics_NNS beyond_IN this_DT ._.
+=_SYM -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: show_VBP that_IN an_DT analysis_NN of_IN the_DT temporal_JJ and_CC spatial_JJ distribution_NN of_IN tags_NNS can_MD determine_VB if_IN a_DT tag_NN belongs_VBZ to_TO a_DT place_NN and\/or_CC an_DT event_NN ._.
+For_IN example_NN ,_, they_PRP can_MD identify_VB that_IN the_DT tag_NN bay_NN bridge_NN corresponds_VBZ to_TO

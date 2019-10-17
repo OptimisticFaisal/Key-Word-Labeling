@@ -1,0 +1,4 @@
+ext._NN ._.
+Kwok_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- used_VBD SVMs_NNS in_IN an_DT automated_JJ manner_NN to_TO categorise_VB the_DT Reuters_NNP corpus_NN to_TO much_JJ success_NN ,_, even_RB with_IN minimal_JJ preprocessing_NN ._.
+Most_RBS relevant_JJ to_TO the_DT work_NN presented_VBN in_IN this_DT paper_NN is_VBZ that_DT of_IN Joachims_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: in_IN which_WDT SVMs_NNS produce_VBP a_DT ranking_NN rather_RB than_IN the_DT usual_JJ binary_JJ positive\/negative_JJ decision_NN ._.
+This_DT new_JJ development_NN in_IN SVMs_NNS allows_VBZ the_DT re-ordering_NN to_TO be_VB much_RB more_RBR specific_JJ ;_: ranking_JJ results_NNS according_VBG to_TO the_DT

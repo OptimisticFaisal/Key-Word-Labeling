@@ -1,0 +1,4 @@
+iews_NNS of_IN the_DT object_NN densely_RB and_CC learning_VBG the_DT manifold_NN formed_VBN by_IN the_DT samples_NNS ._.
+Learning_NNP employs_VBZ the_DT EM_NN algorithm_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- and_CC takes_VBZ place_NN in_IN a_DT ``_`` universal_JJ ,_, ''_'' lower-dimensional_JJ ,_, space_NN computed_VBD through_IN RP_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT purpose_NN of_IN the_DT first_JJ stage_NN is_VBZ to_TO generate_VB rough_JJ hypothetical_JJ matches_NNS between_IN the_DT models_NNS and_CC the_DT scene_NN fast_RB ,_, while_IN keeping_VBG the_DT space_NN requirements_NNS of_IN indexing_NN low_JJ ._.
+To_TO account_VB for_IN indexing_VBG a_DT sparse_NN

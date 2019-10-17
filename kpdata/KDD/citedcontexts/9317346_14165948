@@ -1,0 +1,3 @@
+hms_NNS for_IN multi-label_JJ dimensionality_NN reduction_NN ._.
+In_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, Ji_FW et_FW al._FW proposed_VBD a_DT general_JJ framework_NN for_IN extracting_VBG a_DT shared_JJ lowerdimensional_JJ subspace_NN which_WDT is_VBZ assumed_VBN to_TO be_VB shared_VBN among_IN multiple_JJ labels_NNS ._.
+In_IN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Sun_NNP et_FW al._FW proposed_VBD a_DT hypergraph_JJ spectral_JJ multi-label_JJ learning_NN framework_NN -LRB-_-LRB- denoted_VBN by_IN HSML_NN in_IN this_DT paper_NN -RRB-_-RRB- for_IN learning_VBG a_DT lower-dimensional_JJ embedding_NN ,_, which_WDT attempts_VBZ to_TO preserve_VB the_DT inherent_JJ multi-lab_JJ

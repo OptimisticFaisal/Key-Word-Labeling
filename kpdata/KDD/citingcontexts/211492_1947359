@@ -1,0 +1,3 @@
+an_DT attribute_NN with_IN n_NN different_JJ categories_NNS ,_, several_JJ heuristics_NNS have_VBP been_VBN proposed_VBN to_TO find_VB a_DT solution_NN in_IN the_DT space_NN of_IN n_NN 1_CD 2_CD possible_JJ binary_JJ partitions_NNS -LRB-_-LRB- if_IN we_PRP limit_VBP the_DT search_NN space_NN to_TO binary_JJ splits_VBZ -RRB-_-RRB- ._.
+In_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, SLIQext_NN ,_, an_DT extension_NN of_IN a_DT previously_RB proposed_VBN algorithm_NN for_IN splitting_JJ categorical_JJ attributes_NNS is_VBZ evaluated_VBN ._.
+SLIQext_NN searches_NNS for_IN the_DT best_JJS binary_JJ split_NN by_IN starting_VBG with_IN an_DT empty_JJ first_JJ set_NN and_CC a_DT secon_NN

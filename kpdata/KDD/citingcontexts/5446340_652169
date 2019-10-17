@@ -1,0 +1,5 @@
+his_PRP$ framework_NN has_VBZ been_VBN thoroughly_RB studied_VBN in_IN the_DT theory_NN community_NN ,_, and_CC it_PRP offers_VBZ very_RB strong_JJ performance_NN guarantees_NNS ._.
+After_IN the_DT seminal_JJ paper_NN of_IN -LRB-_-LRB- 28_CD -RRB-_-RRB- several_JJ variants_NNS and_CC extensions_NNS have_VBP been_VBN proposed_VBN =_JJ -_: =[_NN 7_CD ,_, 13_CD ,_, 4_CD ,_, 27_CD ,_, 26_CD ,_, 40_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, -LRB-_-LRB- 13_CD -RRB-_-RRB- can_MD handle_VB the_DT fact_NN that_IN experts_NNS may_MD choose_VB not_RB to_TO make_VB predictions_NNS for_IN a_DT while_NN ._.
+The_DT algorithm_NN in_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- works_VBZ well_RB if_IN the_DT concept_NN drift_NN is_VBZ only_RB among_IN a_DT small_JJ number_NN of_IN experts_NNS ._.
+Altho_NNP

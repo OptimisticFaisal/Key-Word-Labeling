@@ -1,0 +1,4 @@
+the_DT equivalence_JJ of_IN a_DT pair_NN of_IN objects_NNS ._.
+Today_NN often_RB an_DT adaptive_JJ method_NN is_VBZ used_VBN where_WRB multiple_JJ heuristic_NN similarity_NN measures_NNS over_IN multiple_JJ attributes_NNS are_VBP combined_VBN to_TO a_DT single_JJ learned_VBN similarity_NN measure_NN =_JJ -_: =[_NN 5_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: over_IN pairs_NNS of_IN objects_NNS ._.
+Here_RB ,_, probabilistic_JJ classifiers_NNS or_CC conditional_JJ random_JJ fields_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- can_MD be_VB used_VBN for_IN predicting_VBG the_DT equivalence_JJ of_IN twoobjects_NNS ._.
+The_DT overall_JJ consistency_NN is_VBZ guaranteed_VBN by_IN taking_VBG the_DT

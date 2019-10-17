@@ -1,0 +1,3 @@
+equences_NNS ,_, activity_NN graphs_NNS ,_, and_CC intrusion_NN scenarios_NNS consisting_VBG of_IN event_NN sequences_NNS ,_, their_PRP$ preconditions_NNS and_CC target_NN compromised_VBD states_NNS ._.
+Finite_JJ state_NN machines_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, colored_JJ Petri_NN Nets_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, associate_JJ rules_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: and_CC production_NN rules_NNS of_IN expert_NN systems_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- have_VBP been_VBN used_VBN to_TO represent_VB and_CC recognize_VB intrusion_NN signatures_NNS ._.
+Intrusion_NN signatures_NNS are_VBP either_RB manually_RB encoded_VBN or_CC automatically_RB learned_VBN through_IN data_NNS m_NN

@@ -1,0 +1,6 @@
+st_IN cases_NNS ,_, we_PRP set_VBD k_NN =_JJ ℓ_NN ._.
+This_DT form_NN gives_VBZ a_DT good_JJ framework_NN for_IN simultaneously_RB clustering_VBG the_DT rows_NNS and_CC columns_NNS of_IN X._NNP Simultaneously_RB rows_NNS and_CC columns_NNS clustering_NN using_VBG Laplacian_JJ matrix_NN has_VBZ been_VBN studied_VBN in_IN =_JJ -_: =[_NN 7_CD ,_, 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+NMF_NN is_VBZ one_CD type_NN of_IN matrix_NN factorizations_NNS ._.
+There_EX are_VBP other_JJ types_NNS of_IN factorizations_NNS -LRB-_-LRB- 6_CD ,_, 17_CD ,_, 33_CD ,_, 24_CD ,_, 23_CD ,_, 21_CD -RRB-_-RRB- ._.
+Others_NNS include_VBP Latent_JJ Semantic_JJ Indexing_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, scaled_VBN PCA_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, generalized_JJ SVD_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- ,_, etc._NN ._.
+He_PRP

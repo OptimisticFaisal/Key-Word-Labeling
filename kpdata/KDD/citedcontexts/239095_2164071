@@ -1,0 +1,5 @@
+omparison_NN of_IN error_NN rates_NNS for_IN entities_NNS not_RB sharing_VBG and_CC sharing_VBG their_PRP$ datasets_NNS using_VBG a_DT 1-norm_JJ nonlinear_JJ Gaussian_JJ SVM_NN ..._: ..._: ..._: ..._: ..._: ._.
+79_CD 7.1_CD Linear_JJ kernel_NN GEPSVM_NN ,_, PSVM_NN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC SVM-Light_NN -LRB-_-LRB- 49_CD -RRB-_-RRB- ten-fold_JJ testing_NN correctness_NN and_CC p-values_NN ._.
+The_DT p-values_NNS are_VBP from_IN a_DT t-test_NN comparing_VBG each_DT algorithm_NN to_TO GEPSVM_NNP ._.
+Best_NN correctness_NN results_NNS are_VBP in_IN bold_JJ ._.
+An_DT asterisk_NN -LRB-_-LRB- \*_NN -RRB-_-RRB- denotes_VBZ signifi_NNS

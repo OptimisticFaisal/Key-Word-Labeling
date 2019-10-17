@@ -1,0 +1,4 @@
+helps_VBZ us_PRP test_VB the_DT scalability_NN of_IN our_PRP$ GBASE_NN system_NN on_IN real_JJ workload_NN ._.
+In_IN order_NN to_TO show_VB the_DT performance_NN across_IN different_JJ data_NNS scales_NNS ,_, we_PRP use_VBP two_CD synthetic_JJ data_NNS generators_NNS :_: Kronecker_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- and_CC Erdős-Rényi_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: to_TO generate_VB multiple_JJ realistic_JJ graphs_NNS with_IN different_JJ sizes_NNS ._.
+Storage_NN Schemes_NNS ._.
+We_PRP use_VBP the_DT following_JJ notations_NNS to_TO distinguish_VB different_JJ storage_NN and_CC indexing_NN methods_NNS :_: •_FW GBASE_FW RAW_NN -LRB-_-LRB- original_JJ RAW_NN encoding_NN -RRB-_-RRB- :_:

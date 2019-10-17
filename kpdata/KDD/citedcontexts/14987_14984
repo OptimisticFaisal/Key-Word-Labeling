@@ -1,0 +1,5 @@
+distribution_NN of_IN the_DT classes_NNS ,_, but_CC also_RB the_DT conditional_JJ probabilities_NNS of_IN the_DT attributevalues_NNS given_VBN the_DT class_NN ._.
+In_IN this_DT way_NN ,_, there_EX is_VBZ a_DT much_RB better_JJR exploitation_NN of_IN the_DT information_NN available_JJ at_IN each_DT leaf_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Forest_NN of_IN Trees_NNP The_DT splitting_JJ criteria_NNS only_RB applies_VBZ to_TO two_CD class_NN problems_NNS ._.
+Most_JJS of_IN real-world_JJ problems_NNS are_VBP multi-class_JJ ._.
+In_IN the_DT original_JJ paper_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC for_IN a_DT batch-learning_JJ scenario_NN ,_, this_DT problem_NN was_VBD

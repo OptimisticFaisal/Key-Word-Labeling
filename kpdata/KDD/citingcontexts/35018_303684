@@ -1,0 +1,5 @@
+retailer_NN ._.
+5.2.2_CD Number_NN of_IN Clusters_NNS For_IN a_DT given_VBN minimum_NN support_NN value_NN κ_NN ,_, SGGA_NN was_VBD applied_VBN to_TO the_DT database_NN ._.
+Upon_IN termination_NN ,_, the_DT ETIs_NNS constructed_VBN were_VBD used_VBN to_TO initialize_VB the_DT binomial_JJ cluster_NN model_NN ._.
+EM_NN =_JJ -_: =_JJ -LRB-_-LRB- BFR98_NN -RRB-_-RRB- -_: =_JJ -_: was_VBD then_RB applied_VBN to_TO the_DT database_NN to_TO refine_VB the_DT given_VBN initial_JJ model_NN ._.
+EM_NNP was_VBD Final_NNP #_# of_IN clusters_NNS Final_NNP #_# of_IN Clusters_NNS 1_CD 6_CD 0_CD 1_CD 4_CD 0_CD 1_CD 2_CD 0_CD 1_CD 0_CD 0_CD 8_CD 0_CD 6_CD 0_CD 4_CD 0_CD 2_CD 0_CD 0_CD 0_CD 0_CD .0_CD 5_CD 0_CD .1_CD M_NN in_IN im_FW u_FW m_NN S_NN u_NN p_NN p_NN o_NN r_NN t_NN 1_CD

@@ -1,0 +1,5 @@
+locity_NN density_NN estimation_NN to_TO capture_VB and_CC visualize_VB changes_NNS in_IN an_DT evolving_VBG data_NN stream_NN ._.
+Bursts_NNS are_VBP often_RB considered_VBN as_IN an_DT important_JJ type_NN of_IN changes_NNS ._.
+Burst-detection_NN in_IN data_NNS streams_NNS has_VBZ been_VBN studied_VBN in_IN =_JJ -_: =[_NN 11,13,18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+When_WRB the_DT input_NN rates_NNS of_IN streams_NNS exceed_VBP the_DT capacity_NN ,_, load_NN shedding_VBG techniques_NNS can_MD be_VB used_VBN ._.
+Essentially_RB ,_, a_DT load_NN shedder_NN samples_NNS the_DT input_NN data_NN streams_NNS ,_, and_CC the_DT streamGranularity_NN Adaptive_JJ Density_NN Est_NN

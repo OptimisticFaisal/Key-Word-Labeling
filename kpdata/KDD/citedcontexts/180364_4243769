@@ -1,0 +1,5 @@
+series_NN under_IN DTW_NN -LRB-_-LRB- 14_CD ,_, 17_CD ,_, 30_CD ,_, 31_CD -RRB-_-RRB- ._.
+These_DT propose_VBP different_JJ lower_JJR bounding_VBG functions_NNS for_IN DTW_NNP ,_, and_CC Keogh_NNP -LRB-_-LRB- 14_CD -RRB-_-RRB- and_CC Zhu_NNP and_CC Shasha_NNP -LRB-_-LRB- 31_CD -RRB-_-RRB- also_RB study_VBD the_DT idea_NN of_IN time-series_JJ length_NN reduction_NN ._.
+Vlachos_NNP et_FW al._FW =_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: investigate_VB DTW_NN indexing_NN for_IN multidimensional_JJ time_NN series_NN ._.
+Their_PRP$ method_NN works_VBZ with_IN 2D_NN trajectories_NNS ,_, which_WDT are_VBP split_VBN in_IN Minimum_NNP Bounding_NNP Rectangles_NNPS and_CC stored_VBN in_IN an_DT R-tree_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+However_RB ,_, when_WRB the_DT dime_NN

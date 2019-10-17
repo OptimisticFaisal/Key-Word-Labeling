@@ -1,0 +1,5 @@
+analysis_NN ._.
+Based_VBN on_IN these_DT assumptions_NNS ,_, we_PRP derive_VBP a_DT formula_NN for_IN estimating_VBG the_DT BPR_NN of_IN a_DT single_JJ document_NN ._.
+We_PRP then_RB explain_VBP a_DT notion_NN of_IN similarity_NN based_VBN on_IN random_JJ walks_VBZ in_IN click_VB graphs_NNS ,_, first_RB proposed_VBN in_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT estimates_NNS will_MD be_VB combined_VBN to_TO form_VB our_PRP$ optimization_NN objective_NN in_IN Section_NN 4_CD ._.
+3.1_CD User_NN Behavioral_NNP Assumptions_NNPS We_PRP make_VBP two_CD basic_JJ but_CC important_JJ assumptions_NNS about_IN user_NN behavior_NN that_WDT allows_VBZ us_PRP to_TO re_VB

@@ -1,0 +1,4 @@
+lgorithm_NN which_WDT allows_VBZ for_IN a_DT user-controlled_JJ compromise_NN between_IN motif_NN length_NN and_CC the_DT number_NN of_IN motions_NNS in_IN a_DT motif_NN ._.
+In_IN the_DT field_NN of_IN data-mining_NN ,_, the_DT problem_NN of_IN segmentation_NN of_IN time_NN series_NN is_VBZ well_RB known_VBN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Dynamic_NNP Time_NNP Warping_NNP -LRB-_-LRB- DTW_NNP -RRB-_-RRB- is_VBZ one_CD of_IN the_DT most_RBS popular_JJ measures_NNS between_IN temporal_JJ sequences_NNS ._.
+The_DT idea_NN of_IN dynamic_JJ warping_NN has_VBZ been_VBN successfully_RB used_VBN in_IN motion_NN blending_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC clip_NN locating_VBG -LRB-_-LRB- 16_CD -RRB-_-RRB- to_TO ove_VB

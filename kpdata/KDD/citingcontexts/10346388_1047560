@@ -1,0 +1,5 @@
+n_NN three_CD email_NN datasets_NNS for_IN spam_NN filtering_VBG ._.
+The_DT first_JJ one_CD is_VBZ a_DT non-public_JJ Hotmail_NN dataset_NN that_WDT has_VBZ been_VBN used_VBN previously_RB -LRB-_-LRB- 33_CD ,_, 19_CD -RRB-_-RRB- ._.
+The_DT other_JJ two_CD are_VBP the_DT 2005_CD and_CC 2006_CD TREC_NNP Spam_NNP Filtering_NNP Track_NNP datasets_VBZ =_JJ -_: =[_NN 6_CD ,_, 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT have_VBP also_RB been_VBN used_VBN in_IN previous_JJ works_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 19_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+The_DT Hotmail_NNP corpus_NN is_VBZ collected_VBN by_IN polling_NN Hotmail_NN volunteers_NNS daily_RB ._.
+The_DT system_NN randomly_RB picks_VBZ messages_NNS sent_VBN to_TO voluntary_JJ users_NNS and_CC asks_VBZ the_DT

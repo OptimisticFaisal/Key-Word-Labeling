@@ -1,0 +1,3 @@
+-RRB-_-RRB- in_IN graphs_NNS ,_, e.g._FW ,_, Graphcut_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, METIS_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Much_JJ work_NN has_VBZ been_VBN done_VBN on_IN developing_VBG methods_NNS to_TO compute_VB relevance_NN between_IN two_CD nodes_NNS in_IN a_DT network_NN ;_: many_JJ of_IN them_PRP belong_VBP to_TO the_DT class_NN of_IN spreading-activation_NN =_JJ -_: =[_NN 1_CD ,_, 7_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Used_VBN by_IN APOLO_NN ,_, Belief_NN Propagation_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- is_VBZ a_DT message_NN passing_NN algorithm_NN over_IN link_NN structures_NNS similar_JJ to_TO spreading_NN activation_NN ,_, but_CC it_PRP is_VBZ uniquely_RB suited_VBN for_IN graph_NN sensemaking_NN because_IN it_PRP offers_VBZ simultan_NN

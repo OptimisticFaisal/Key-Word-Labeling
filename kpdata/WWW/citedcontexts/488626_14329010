@@ -1,0 +1,4 @@
+ck_NN prediction_NN system_NN is_VBZ shown_VBN in_IN Figure_NNP 1_CD ._.
+2.1_CD Advertisement_NN Retrieval_NN Past_JJ work_NN on_IN finding_VBG relevant_JJ ads_NNS for_IN a_DT query_NN has_VBZ typically_RB used_VBN one_CD of_IN two_CD different_JJ approaches_NNS :_: -LRB-_-LRB- a_LS -RRB-_-RRB- a_DT query_NN rewriting_VBG approach_NN =_JJ -_: =[_NN 21_CD ,_, 27_CD -RRB-_-RRB- -_: =_JJ -_: or_CC a_DT -LRB-_-LRB- b_NN -RRB-_-RRB- direct_JJ query-ad_JJ approach_NN -LRB-_-LRB- 10_CD ,_, 28_CD -RRB-_-RRB- ._.
+In_IN query_NN rewriting_VBG ,_, the_DT goal_NN is_VBZ to_TO generate_VB a_DT relevant_JJ rewrite_VB qj_NN for_IN a_DT given_VBN query_NN qi_NN ._.
+Then_RB ads_NNS associated_VBN with_IN the_DT bidterm_NN qj_NN are_VBP retrieved4_NN Hillard_FW et_FW

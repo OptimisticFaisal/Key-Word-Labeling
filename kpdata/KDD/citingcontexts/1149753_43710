@@ -1,0 +1,4 @@
+nts_NNS are_VBP arranged_VBN in_IN a_DT hierarchy_NN of_IN classes_NNS and_CC a_DT full-feature_JJ classifier_NN is_VBZ applied_VBN at_IN each_DT node_NN of_IN the_DT hierarchy_NN ._.
+A_DT way_NN to_TO reduce_VB dimensionality_NN is_VBZ by_IN the_DT distributional_JJ clustering_NN of_IN words\/features_NNS =_JJ -_: =[_NN 25_CD ,_, 2_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Each_DT word_NN cluster_NN can_MD then_RB be_VB treated_VBN as_IN a_DT single_JJ feature_NN and_CC thus_RB dimensionality_NN can_MD be_VB drastically_RB reduced_VBN ._.
+As_IN shown_VBN by_IN -LRB-_-LRB- 2_CD ,_, 28_CD -RRB-_-RRB- ,_, such_JJ feature_NN clustering_NN is_VBZ more_RBR effective_JJ than_IN feature_NN selection_NN -LRB-_-LRB- 30_CD

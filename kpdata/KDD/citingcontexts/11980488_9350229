@@ -1,0 +1,4 @@
+ture_NN information_NN among_IN features_NNS as_RB well_RB ._.
+Recently_RB ,_, a_DT significant_JJ amount_NN of_IN progress_NN has_VBZ been_VBN made_VBN on_IN developing_VBG supervised_JJ learning_NN algorithms_NNS for_IN feature_NN selection_NN from_IN data_NNS with_IN structured_JJ features_NNS =_JJ -_: =[_NN 4_CD ,_, 15_CD ,_, 18_CD ,_, 22_CD ,_, 33_CD ,_, 37_CD ,_, 41_CD ,_, 42_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN these_DT models_NNS ,_, features_NNS may_MD be_VB naturally_RB partitioned_VBN into_IN groups_NNS -LRB-_-LRB- 4_CD ,_, 15_CD ,_, 41_CD -RRB-_-RRB- or_CC ordered_VBN in_IN some_DT meaningful_JJ way_NN ,_, such_JJ as_IN a_DT chain_NN -LRB-_-LRB- 18_CD ,_, 37_CD -RRB-_-RRB- ,_, a_DT tree_NN -LRB-_-LRB- 42_CD -RRB-_-RRB- or_CC a_DT graph_NN -LRB-_-LRB- 22_CD ,_, 33_CD -RRB-_-RRB- ._.
+These_DT approaches_NNS demonstr_VBP

@@ -1,0 +1,4 @@
+n_NN parts_NNS for_IN tenfold_JJ cross-validation_NN ._.
+We_PRP defined_VBD three_CD scenarios_NNS ,_, as_IN described_VBN below_IN ,_, and_CC applied_VBD our_PRP$ implementation_NN of_IN naive_JJ Bayes_NNS -LRB-_-LRB- NB_NN -RRB-_-RRB- and_CC the_DT adversary-aware_JJ classifier_NN -LRB-_-LRB- AC_NN -RRB-_-RRB- to_TO each_DT ._.
+We_PRP used_VBD ifile_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: for_IN preprocessing_VBG emails_NNS ._.
+6.1_CD Scenarios_NNS The_DT three_CD spam_NN filtering_VBG scenarios_NNS that_IN we_PRP implemented_VBD differ_VBP in_IN how_WRB the_DT email_NN is_VBZ represented_VBN for_IN the_DT classifier_NN ,_, how_WRB the_DT adversary_NN can_MD modify_VB the_DT features_NNS ,_, an_DT

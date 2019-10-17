@@ -1,0 +1,6 @@
+._.
+if_IN P_NN 0_CD \_CD Theta_NNP P_NN then_RB remove_VB P_NN 0_CD from_IN C_NN k_NN +1_FW end-if_FW 16_CD ._.
+end-loop_JJ 17_CD ._.
+end-loop_NN 18_CD ._.
+k_NN :_: =_JJ k_NN +_CC 1_CD 19_CD ._.
+end-loop_JJ Figure_NNP 4_CD :_: Stratum-Wise_NNP Algorithm_NNP for_IN Solving_VBG RUDMINE_NN and_CC follows_VBZ the_DT idea_NN of_IN levelwise_NN search_NN =_JJ -_: =_JJ -LRB-_-LRB- MT97_NN -RRB-_-RRB- -_: =_JJ -_: :_: start_VB from_IN the_DT top_NN of_IN the_DT roll-up_JJ lattice_NN over_IN S_NN l_NN -LRB-_-LRB- i.e._FW ,_, the_DT most_RBS general_JJ node_NN -RRB-_-RRB- ,_, and_CC then_RB generate_VB and_CC evaluate_VB more_JJR and_CC more_JJR nodes_NNS down_IN the_DT lattice_NN ,_, without_IN ever_RB evaluating_VBG those_DT nodes_NNS that_WDT can_MD not_RB

@@ -1,0 +1,4 @@
+lex_NN market_NN dynamics_NNS ._.
+With_IN such_JJ data_NNS ,_, many_JJ interesting_JJ problems_NNS and_CC solutions_NNS have_VBP been_VBN proposed_VBN ,_, such_JJ as_IN time-series_JJ indexing_NN ,_, periodicity_NN detection_NN ,_, clustering_NN ,_, classification_NN ,_, and_CC similarity_NN search_NN =_JJ -_: =[_NN 13_CD ,_, 10_CD ,_, 14_CD ,_, 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT important_JJ problem_NN in_IN decision_NN support_NN is_VBZ anomaly_RB detection_NN ,_, which_WDT aims_VBZ to_TO find_VB time_NN series_NN that_WDT are_VBP ``_`` unusual_JJ ''_'' within_IN some_DT population_NN ._.
+While_IN there_EX have_VBP been_VBN studies_NNS on_IN this_DT topic_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, they_PRP often_RB

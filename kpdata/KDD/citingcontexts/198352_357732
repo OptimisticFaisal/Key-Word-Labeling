@@ -1,0 +1,4 @@
+ves_NNS typically_RB have_VBP a_DT steeply_RB sloping_VBG portion_NN early_RB in_IN the_DT curve_NN ,_, a_DT more_RBR gently_RB sloping_VBG middle_JJ portion_NN ,_, and_CC a_DT plateau_NN late_RB in_IN the_DT curve_NN ._.
+The_DT middle_JJ portion_NN can_MD be_VB extremely_RB large_JJ in_IN some_DT curves_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 2_CD ,_, 3_CD ,_, 6_CD -RRB-_-RRB- -_: =--RRB-_NN and_CC almost_RB entirely_RB missing_VBG in_IN others_NNS ._.
+The_DT plateau_NN occurs_VBZ when_WRB adding_VBG additional_JJ data_NNS instances_NNS does_VBZ not_RB improve_VB accuracy_NN ._.
+The_DT plateau_NN ,_, and_CC even_RB the_DT entire_JJ middle_JJ portion_NN ,_, can_MD be_VB missing_VBG from_IN curves_NNS

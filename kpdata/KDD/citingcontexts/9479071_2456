@@ -1,0 +1,4 @@
+this_DT study_NN 11_CD data_NN sets_NNS from_IN three_CD domains_NNS :_: computer_NN science_NN department_NN websites_NNS -LRB-_-LRB- WebKB_NN -RRB-_-RRB- ,_, industry_NN news_NN ,_, and_CC academic_JJ papers_NNS ._.
+3_CD 5.1.1_CD WebKB_NN The_DT first_JJ domain_NN we_PRP draw_VBP from_IN is_VBZ based_VBN on_IN the_DT WebKB_NN Project_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4_CD It_PRP consists_VBZ of_IN sets_NNS of_IN web_NN pages_NNS from_IN four_CD computer_NN science_NN departments_NNS ,_, with_IN each_DT page_NN manually_RB labeled_VBN into_IN 7_CD categories_NNS ._.
+As_IN with_IN other_JJ work_NN -LRB-_-LRB- 26_CD ,_, 19_CD -RRB-_-RRB- ,_, we_PRP ignore_VBP pages_NNS in_IN the_DT ``_`` other_JJ ''_'' category_NN exc_NN

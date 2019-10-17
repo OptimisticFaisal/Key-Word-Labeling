@@ -1,0 +1,3 @@
+columns_NNS in_IN real_JJ life_NN applications_NNS ,_, such_JJ as_IN DNA_NN array_NN analysis_NN and_CC collaborative_JJ filtering_VBG ,_, are_VBP usually_RB in_IN the_DT hundreds_NNS or_CC even_RB thousands_NNS ._.
+The_DT second_JJ challenge_NN is_VBZ that_IN we_PRP want_VBP to_TO build_VB a_DT ``_`` depthfirst_NN =_JJ -_: =_JJ ''_'' -LRB-_-LRB- 1_LS -RRB-_-RRB- -_: =_JJ -_: clustering_NN algorithm_NN ._.
+Unlike_IN many_JJ subspace_JJ clustering_NN algorithms_NNS -LRB-_-LRB- 4_CD ,_, 2_CD -RRB-_-RRB- that_WDT find_VBP clusters_NNS in_IN lower_JJR dimensions_NNS first_RB and_CC then_RB merge_VB them_PRP to_TO derive_VB clusters_NNS in_IN higher_JJR dimensions_NNS ,_, our_PRP$ approach_NN first_JJ ge_NN

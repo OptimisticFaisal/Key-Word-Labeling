@@ -1,0 +1,3 @@
+n_NN methods_NNS use_VBP tagging_VBG structure_NN and_CC tag_NN semantics_NNS to_TO recognize_VB block_NN boundaries_NNS and_CC block_NN semantics_NNS ,_, but_CC they_PRP do_VBP not_RB consider_VB context_NN semantics_NNS ,_, which_WDT may_MD be_VB informative_JJ or_CC redundant_JJ ._.
+The_DT work_NN in_IN -LRB-_-LRB- 13_CD -RRB-_-RRB- =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: dealt_VBN with_IN the_DT mining_NN informativesblocks_NNS delimited_VBN by_IN <TABLE>_NN tags_NNS as_IN opposed_VBN to_TO our_PRP$ finegrained_JJ blocks_NNS delimited_VBN by_IN any_DT kinds_NNS of_IN tags_NNS ._.
+Buyukkokten_NNP et_FW al._FW -LRB-_-LRB- 4_CD -RRB-_-RRB- use_VBP a_DT strategy_NN called_VBN accordion_NN summariz_NN

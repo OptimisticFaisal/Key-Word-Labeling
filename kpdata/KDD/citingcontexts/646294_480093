@@ -1,0 +1,5 @@
+._.
+Motivated_VBN by_IN HCS_NN ,_, Shamir_NNP et_FW al._FW developed_VBD the_DT algorithm_NN CLICK_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, Ben-dor_JJ et_FW al._FW presented_VBD a_DT heuristic_NN algorithm_NN CAST_NN to_TO iteratively_RB identify_VB the_DT maximal_JJ cliques_NNS once_RB at_IN a_DT time_NN ._.
+Xu_FW et_FW al._FW =_SYM -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: generated_VBD a_DT Minimum_NNP Spanning_NNP Tree_NNP -LRB-_-LRB- MST_NNP -RRB-_-RRB- from_IN the_DT weighted_JJ gene_NN graph_NN G._NNP By_IN removing_VBG -LRB-_-LRB- K_NNP −_NNP 1_LS -RRB-_-RRB- edges_VBZ from_IN the_DT generated_VBN MST_NNP ,_, the_DT data_NNS set_NN is_VBZ partitioned_VBN into_IN K_NN clusters_NNS ._.
+Moreover_RB ,_, Enright_NNP et_FW al._FW -LRB-_-LRB- 12_CD -RRB-_-RRB- dev_NN

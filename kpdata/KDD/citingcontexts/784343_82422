@@ -1,0 +1,4 @@
+algorithm_NN ._.
+Multilevel_JJ methods_NNS have_VBP been_VBN used_VBN extensively_RB for_IN graph_NN clustering_NN with_IN the_DT Kernighan-Lin_NNP objective_NN ,_, which_WDT attempts_VBZ to_TO minimize_VB the_DT cut_NN in_IN the_DT graph_NN while_IN maintaining_VBG equal-sized_JJ clusters_NNS =_JJ -_: =[_NN 1_CD ,_, 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN multilevel_JJ algorithms_NNS ,_, the_DT graph_NN is_VBZ repeatedly_RB coarsened_VBN level_NN by_IN level_NN until_IN only_RB a_DT small_JJ number_NN of_IN nodes_NNS are_VBP left_VBN ._.
+Then_RB ,_, an_DT iniName_NNP Objective_NNP Function_NN Ratio_NNP Association_NNP maximize_VB Pk_NN links_NNS -LRB-_-LRB- Vc_NN ,_, Vc_NN

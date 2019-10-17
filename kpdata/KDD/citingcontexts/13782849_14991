@@ -1,0 +1,5 @@
+ssuming_VBG that_IN the_DT model_NN is_VBZ able_JJ to_TO express_VB the_DT condition_NN defining_VBG protected_VBN ._.
+Example_NN 5.3_CD ._.
+Consider_VB the_DT credit_NN dataset_NN ,_, with_IN the_DT settings_NNS of_IN Fig._NNP 2_CD -LRB-_-LRB- a_DT -RRB-_-RRB- and_CC k_NN =_JJ 32_CD ._.
+Using_VBG a_DT C4_NN .5_CD decision_NN tree_NN classifier_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT procedure_NN DiscoveryN_NN -LRB-_-LRB- credit_NN ,_, 0.10_CD -RRB-_-RRB- yields_VBZ the_DT following_JJ model_NN and_CC evaluation_NN measures_NNS 2_CD ._.
+num_dependents_NNS -LRB-_-LRB- =_JJ 1_CD |_CD credit_amount_NN -LRB-_-LRB- =_JJ 2631_CD :_: disc_NN =_JJ yes_RB -LRB-_-LRB- 59.0_CD \/_: 9.0_CD -RRB-_-RRB- |_CD credit_amount_NN -RRB-_-RRB- 2631_CD :_: disc_NN =_JJ no_DT -LRB-_-LRB- 44.0_CD \/_: 1_CD

@@ -1,0 +1,3 @@
+ses_NNS from_IN a_DT collection_NN of_IN documents_NNS ,_, a_DT common_JJ approach_NN is_VBZ to_TO represent_VB the_DT collection_NN as_IN a_DT graph_NN in_IN which_WDT each_DT node_NN denotes_VBZ a_DT document_NN and_CC each_DT edge_NN weight_NN denotes_VBZ the_DT similarity_NN between_IN two_CD documents_NNS =_JJ -_: =[_NN 10_CD ,_, 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Usually_RB the_DT similarities_NNS are_VBP calculated_VBN based_VBN on_IN the_DT term-frequency_NN vectors_NNS of_IN documents_NNS ._.
+However_RB ,_, there_EX may_MD exist_VB documents_NNS which_WDT share_VBP no_RB or_CC very_RB few_JJ words_NNS with_IN each_DT other_JJ but_CC still_RB belong_VBP to_TO the_DT

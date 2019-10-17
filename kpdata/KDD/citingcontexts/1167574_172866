@@ -1,0 +1,5 @@
+2_CD j_NN -RRB-_-RRB- ._.
+-LRB-_-LRB- 29_CD -RRB-_-RRB- i_LS ,_, j_NN =_JJ 1_CD If_IN many_JJ αk1iαk2j_NNS become_VBP zero_NN ,_, it_PRP is_VBZ expected_VBN that_IN we_PRP can_MD reduce_VB the_DT computational_JJ cost_NN in_IN the_DT second_JJ order_NN ._.
+This_DT sparsity_NN can_MD be_VB achieved_VBN by_IN the_DT Sparse_JJ kernel_NN PCA_NN proposed_VBN by_IN Tipping_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT makes_VBZ use_NN of_IN the_DT framework_NN of_IN the_DT Bayesian_JJ learning_NN ._.
+Ref_NN ._.
+-LRB-_-LRB- 13_CD -RRB-_-RRB- has_VBZ confirmed_VBN that_IN the_DT small_JJ subset_NN of_IN original_JJ data_NNS can_MD construct_VB the_DT same_JJ principal_JJ component_NN vector_NN in_IN the_DT kernel_NN feature_NN space_NN ._.

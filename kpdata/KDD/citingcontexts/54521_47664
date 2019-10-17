@@ -1,0 +1,4 @@
+sfying_VBG the_DT constraints_NNS ._.
+If_IN the_DT constraints_NNS are_VBP consistent_JJ the_DT target_NN distribution_NN exists_VBZ ,_, is_VBZ unique_JJ -LRB-_-LRB- 5_CD ,_, 26_CD -RRB-_-RRB- and_CC can_MD be_VB found_VBN in_IN an_DT iterative_JJ fashion_NN using_VBG an_DT algorithm_NN known_VBN as_IN iterative_JJ scaling_NN -LRB-_-LRB- IS_VBZ -RRB-_-RRB- =_JJ -_: =[_NN 11_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT constraints_NNS generated_VBN by_IN the_DT itemsets_NNS are_VBP consistent_JJ by_IN definition_NN since_IN the_DT empirical_JJ distribution_NN of_IN the_DT data_NN satisfies_VBZ them_PRP ._.
+The_DT algorithmic_JJ approach_NN is_VBZ quite_RB similar_JJ in_IN spirit_NN to_TO the_DT online_NN

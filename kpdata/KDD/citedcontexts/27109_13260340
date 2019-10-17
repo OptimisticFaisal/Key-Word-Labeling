@@ -1,0 +1,5 @@
+entially_RB useful_JJ in_IN community_NN detection_NN algorithms_NNS ._.
+However_RB ,_, it_PRP is_VBZ not_RB always_RB clear_JJ how_WRB to_TO integrate_VB these_DT into_IN an_DT unsupervised_JJ learning_NN method_NN ._.
+A_DT closely_RB related_JJ clustering_NN technique_NN is_VBZ co-clustering_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Co-clustering_NN works_VBZ by_IN mapping_VBG an_DT m_NN ×_CD n_NN term_NN document_NN matrix_NN ,_, A_NN into_IN a_DT bipartite_JJ graph_NN ._.
+The_DT adjacency_NN matrix_NN of_IN the_DT bipartite_JJ graph_NN is_VBZ represented_VBN as_IN -LRB-_-LRB- 0_CD C_NN M_NN =_JJ CT_NN -RRB-_-RRB- 0_CD where_WRB Cij_NN =_JJ 1_CD if_IN the_DT word_NN j_NN occ_NN

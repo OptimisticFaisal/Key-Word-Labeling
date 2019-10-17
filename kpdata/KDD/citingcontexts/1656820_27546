@@ -1,0 +1,4 @@
+alize_VB the_DT RPS_NN method_NN in_IN terms_NNS of_IN base_NN b_NN trees_NNS and_CC it_PRP does_VBZ away_RB with_IN the_DT overlay_NN ._.
+Other_JJ authors_NNS have_VBP used_VBN base_NN 2_CD -LRB-_-LRB- dyadic_JJ -RRB-_-RRB- Haar_JJ wavelets_NNS -LRB-_-LRB- 4_CD ,_, 10_CD -RRB-_-RRB- either_CC to_TO compress_NN or_CC approximate_JJ prefix_NN sums_VBZ aggregates_NNS =_JJ -_: =[_NN 14_CD ,_, 16_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: or_CC as_IN a_DT replacement_NN for_IN the_DT prefix_NN sum_NN method_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+An_DT important_JJ limitation_NN of_IN these_DT wavelet-based_JJ methods_NNS is_VBZ that_IN they_PRP have_VBP polylogarithmic_JJ query_NN times_NNS ._.
+3_CD 8_CD 9_CD 2_CD 4_CD 8_CD 6_CD 9_CD 13_CD 10_CD 18_CD 21_CD 8_CD 18_CD 29_CD 7_CD 12_CD 17_CD 1_CD

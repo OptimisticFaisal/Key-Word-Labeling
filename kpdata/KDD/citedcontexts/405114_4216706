@@ -1,0 +1,3 @@
+n_NN of_IN the_DT candidate_NN entities_NNS with_IN the_DT document_NN and_CC finds_VBZ the_DT best_JJS matching_NN entities_NNS and_CC their_PRP$ embeddings_NNS ._.
+This_DT task_NN performed_VBN by_IN EROCS_NN is_VBZ similar_JJ in_IN spirit_NN to_TO dictionary-based_JJ named-entity_NN recognition_NN =_JJ -_: =[_NN 7_CD ,_, 1_CD ,_, 12_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC differs_VBZ in_IN the_DT following_JJ crucial_JJ and_CC challenging_JJ aspects_NNS ._.
+•_FW EROCS_FW identifies_VBZ an_DT entity_NN even_RB if_IN it_PRP is_VBZ not_RB explicitly_RB mentioned_VBN in_IN the_DT document_NN ;_: it_PRP exploits_VBZ the_DT available_JJ context_NN information_NN to_TO ma_FW

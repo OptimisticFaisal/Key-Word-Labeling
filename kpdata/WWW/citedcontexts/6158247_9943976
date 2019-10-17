@@ -1,0 +1,4 @@
+TOR_NN benchkmar_NN dataset_NN was_VBD released_VBN in_IN the_DT SIGIR_NN 2007_CD Workshop_NNP on_IN Learning_NNP to_TO Rank_NNP for_IN Information_NNP Retrieval_NNP -LRB-_-LRB- LR4IR_NN 2007_CD -RRB-_-RRB- ._.
+Since_IN then_RB ,_, this_DT dataset_NN has_VBZ been_VBN widely_RB used_VBN in_IN many_JJ learning_NN to_TO rank_VB papers_NNS =_JJ -_: =[_NN 16_CD ,_, 21_CD ,_, 4_CD ,_, 10_CD ,_, 25_CD ,_, 23_CD ,_, 7_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Although_IN the_DT release_NN of_IN LETOR_NN has_VBZ greatly_RB speeded_VBN up_RP the_DT research_NN on_IN learning_VBG to_TO rank_VB ,_, we_PRP also_RB notice_VBP several_JJ issues_NNS in_IN it_PRP ._.
+To_TO make_VB LETOR_NNP more_RBR useful_JJ and_CC reliable_JJ ,_, in_IN this_DT paper_NN ,_, we_PRP discuss_VBP how_WRB to_TO i_FW

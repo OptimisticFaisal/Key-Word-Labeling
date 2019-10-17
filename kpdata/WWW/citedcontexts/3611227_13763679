@@ -1,0 +1,5 @@
+hat_NN sacrifice_NN some_DT precision_NN and_CC recall_NN in_IN favor_NN of_IN manageable_JJ speed_NN ._.
+These_DT include_VBP Locality-Sensitive_JJ Hashing_NN -LRB-_-LRB- LSH_NN -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, Min-Wise_JJ Independent_JJ Permutations_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, simhash_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, and_CC many_JJ variations_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+This_DT is_VBZ the_DT direction_NN we_PRP pursue_VBP below_IN ._.
+3_LS ._.
+FUNDAMENTALS_NNS We_PRP start_VBP by_IN motivating_VBG the_DT usage_NN of_IN fingerprints_NNS ,_, analyze_VBP the_DT brute-force_JJ approach_NN to_TO finding_NN near_IN duplicates_NNS

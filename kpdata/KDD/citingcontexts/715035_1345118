@@ -1,0 +1,4 @@
+s._NN As_IN shown_VBN in_IN Figure_NNP 1_CD -LRB-_-LRB- a_DT -RRB-_-RRB- ,_, the_DT data_NNS set_NN is_VBZ partitioned_VBN into_IN 15_CD subclusters_NNS ._.
+Next_RB ,_, as_IN shown_VBN in_IN 1_CD -LRB-_-LRB- b_NN -RRB-_-RRB- ,_, these_DT subclusters_NNS are_VBP grouped_VBN into_IN 2_CD clusters_NNS ._.
+This_DT hybrid_NN idea_NN of_IN clustering_NN is_VBZ first_RB proposed_VBN in_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: where_WRB a_DT multilevel_JJ algorithm_NN is_VBZ developed_VBN ._.
+At_IN the_DT first_JJ level_NN ,_, the_DT multilevel_JJ algorithm_NN partitions_NNS the_DT data_NNS set_VBN into_IN several_JJ partitions_NNS ,_, and_CC then_RB performs_VBZ the_DT k-means_NN algorithm_NN on_IN each_DT partition_NN to_TO o_NN

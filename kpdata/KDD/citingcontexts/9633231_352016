@@ -1,0 +1,5 @@
+find_VB the_DT regularization_NN parameter_NN δ_NN 2_CD first_RB ._.
+However_RB ,_, it_PRP has_VBZ been_VBN reported_VBN that_IN the_DT model_NN accuracy_NN does_VBZ not_RB appear_VB to_TO be_VB sensitive_JJ to_TO the_DT changes_NNS in_IN δ_NN 2_CD ,_, even_RB when_WRB δ_NN 2_CD is_VBZ varied_VBN up_RP to_TO a_DT factor_NN of_IN 10_CD =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ own_JJ experimental_JJ results_NNS have_VBP confirmed_VBN it_PRP ._.
+A_DT number_NN of_IN other_JJ smoothing_NN methods_NNS have_VBP been_VBN used_VBN to_TO address_VB the_DT overfitting_JJ problems_NNS for_IN maximum_NN entropy_NN models_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+The_DT smoothing_NN method_NN tries_VBZ to_TO r_NN

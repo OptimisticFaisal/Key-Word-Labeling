@@ -1,0 +1,4 @@
+and_CC noise-free_JJ data_NNS ._.
+A_DT number_NN of_IN variations_NNS to_TO the_DT original_JJ QBC_NN algorithm_NN have_VBP been_VBN proposed_VBN ,_, such_JJ as_IN the_DT Query_NNP by_IN Bagging_NNP and_CC Query_NNP by_IN Boosting_VBG algorithm_NN -LRB-_-LRB- AM98_NN -RRB-_-RRB- and_CC the_DT adaptive_JJ resampling_NN approach_NN =_JJ -_: =_JJ -LRB-_-LRB- IAZ00_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+Tsechansky_NNP et_FW al._FW -LRB-_-LRB- STP01_NN -RRB-_-RRB- apply_VBP active_JJ learning_VBG principles_NNS to_TO obtain_VB bet23ster_NN class_NN -LRB-_-LRB- A_NN Posteriori_NN -RRB-_-RRB- probability_NN estimates_NNS ._.
+Given_VBN a_DT probabilistic_JJ classifier_NN ,_, the_DT Bootstrap-LV_NN attempts_VBZ to_TO choose_VB the_DT d_NN

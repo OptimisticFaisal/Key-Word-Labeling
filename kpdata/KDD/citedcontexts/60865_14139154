@@ -1,0 +1,4 @@
+%_NN seemed_VBD to_TO give_VB unrelated_JJ information_NN as_IN per_IN user_NN 's_POS request_NN ._.
+The_DT classification_NN by_IN U._NNP Lee_NNP ,_, Z._NNP Liu_NNP et_FW al._FW -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, uses_VBZ clickthrough_JJ data_NNS to_TO identify_VB the_DT information_NN need_NN reflected_VBN by_IN a_DT query_NN ._.
+T._FW Joachims_FW =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: presented_VBD an_DT approach_NN to_TO learn_VB retrieval_NN functions_NNS by_IN analyzing_NN which_WDT links_VBZ the_DT users_NNS click_VBP on_RP in_IN the_DT presented_VBN ranking_NN ._.
+This_DT led_VBD to_TO a_DT problem_NN of_IN learning_VBG with_IN preference_NN examples_NNS like_IN ''_'' for_IN query_FW q_FW ,_,

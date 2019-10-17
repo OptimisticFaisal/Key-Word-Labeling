@@ -1,0 +1,4 @@
+de_IN sufficiently_RB diverse_JJ output_NN to_TO improve_VB recommendations_NNS by_IN combining_VBG them_PRP without_IN applying_VBG diversification_NN methods_NNS ._.
+A_DT frequently_RB used_VBN social_JJ recommender_NN method_NN is_VBZ item-based_JJ collaborative_JJ filtering_VBG =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Using_VBG this_DT method_NN ,_, first_RB the_DT similarity_NN between_IN two_CD items_NNS i_LS and_CC j_NN is_VBZ computed_VBN using_VBG preference_NN data_NNS of_IN all_DT users_NNS u_FW ∈_FW U_NN considered_VBN ._.
+The_DT Pearson_NNP correlation_NN coefficient_NN is_VBZ frequently_RB used_VBN to_TO determine_VB

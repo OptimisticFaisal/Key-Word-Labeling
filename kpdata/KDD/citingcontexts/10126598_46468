@@ -1,0 +1,3 @@
+arch_NN in_IN a_DT filter_NN and_CC refine_VB manner_NN via_IN lower_JJR bounds_NNS derived_VBN from_IN dimension_NN reduction_NN techniques_NNS ._.
+Subsequent_JJ work_NN includes_VBZ various_JJ methods_NNS of_IN dimension_NN reduction_NN for_IN time_NN series_NN ,_, such_JJ as_IN SVD_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, DWT_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, APCA_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, and_CC Chebyshev_NNP Polynomials_NNPS -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, all_DT of_IN which_WDT guarantee_NN no_DT false_JJ dismissals_NNS ._.
+Meanwhile_RB ,_, many_JJ novel_JJ and_CC effective_JJ distance_NN measures_NNS for_IN -LRB-_-LRB- dis_NN -_: -RRB-_-RRB- similarity_NN between_IN time_NN series_NN are_VBP proposed_VBN alon_NN

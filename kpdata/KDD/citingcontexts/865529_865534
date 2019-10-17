@@ -1,0 +1,6 @@
+ible_JJ matrix_NN -LRB-_-LRB- such_JJ as_IN the_DT PageRank_NN matrix_NN -RRB-_-RRB- is_VBZ unique_JJ ._.
+Furthermore_RB ,_, the_DT stochastic_JJ complement_NN is_VBZ also_RB irreducible_JJ and_CC therefore_RB has_VBZ a_DT unique_JJ stationary_JJ distribution_NN as_RB well_RB ._.
+For_IN an_DT extensive_JJ study_NN ,_, see_VBP =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP can_MD be_VB easily_RB shown_VBN that_IN the_DT sub-dominant_JJ eigenvalue_NN of_IN S_NN is_VBZ at_IN most_JJS ℓ_FW +1_FW α_FW ,_, where_WRB ℓ_NN is_VBZ the_DT size_NN of_IN F_NN ._.
+For_IN sufficiently_RB ℓ_JJ large_JJ ℓ_NN ,_, this_DT value_NN will_MD be_VB very_RB close_RB to_TO α_NN ._.
+This_DT is_VBZ important_JJ ,_, as_IN other_JJ

@@ -1,0 +1,4 @@
+temset_NN miners_NNS have_VBP been_VBN studied_VBN in_IN the_DT literature_NN ;_: all_DT of_IN these_DT can_MD be_VB used_VBN with_IN small_JJ modifications_NNS to_TO output_NN the_DT frequent_JJ itemsets_NNS in_IN a_DT convenient_JJ form_NN and_CC determine_VB frequencies_NNS in_IN multiple_JJ classes_NNS =_JJ -_: =[_NN 1_CD ,_, 34_CD ,_, 11_CD ,_, 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP implemented_VBD an_DT extension_NN of_IN Apriori_NNP that_IN first_JJ computes_NNS and_CC stores_NNS in_IN a_DT trie_NN all_DT frequent_JJ itemsets_NNS ,_, and_CC then_RB runs_VBZ DL8_NN on_IN the_DT trie_NN ._.
+This_DT approach_NN is_VBZ referred_VBN to_TO as_IN AprioriFreq_NN +_CC DL8_NN ._.
+Compared_VBN to_TO oth_VB

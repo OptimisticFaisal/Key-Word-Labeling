@@ -1,0 +1,4 @@
+ssumed_VBN to_TO come_VB from_IN only_RB one_CD component_NN of_IN the_DT mixture_NN ._.
+There_EX are_VBP a_DT few_JJ existing_VBG approaches_NNS to_TO relax_VB this_DT assumption_NN ,_, most_RBS prominently_RB including_VBG multi-cause_JJ models_NNS -LRB-_-LRB- 13_CD ,_, 14_CD -RRB-_-RRB- ,_, overlapping_VBG mixture_NN models_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, aspect_NN models_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, and_CC latent_JJ Dirichlet_NN allocation_NN -LRB-_-LRB- LDA_NN -RRB-_-RRB- -LRB-_-LRB- 3_CD ,_, 5_CD -RRB-_-RRB- ._.
+In_IN LDA_NNP ,_, features_NNS of_IN a_DT data_NN point_NN are_VBP allowed_VBN to_TO potentially_RB come_VB from_IN different_JJ components_NNS of_IN the_DT mixture_NN ._.
+For_IN the_DT recommendation_NN sys_NNS

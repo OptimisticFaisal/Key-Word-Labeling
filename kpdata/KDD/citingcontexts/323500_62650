@@ -1,0 +1,4 @@
+sis_NN programs_NNS from_IN Bayesian_JJ network_NN speci_NN cations_NNS using_VBG a_DT library_NN of_IN e_SYM cient_JJ algorithm_NN templates_NNS together_RB with_IN core_NN special-purpose_JJ algorithms_NNS and_CC general_JJ purpose_NN solvers_NNS ,_, related_VBN to_TO a_DT suggestion_NN from_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP show_VBP that_IN this_DT approach_NN can_MD address_VB nontrivial_JJ data_NN analysis_NN problems_NNS ._.
+Our_PRP$ approach_NN is_VBZ motivated_VBN by_IN three_CD observations_NNS ._.
+First_RB ,_, the_DT success_NN of_IN BUGS_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- demonstrates_VBZ the_DT need_NN for_IN data_NN analysis_NN too_RB

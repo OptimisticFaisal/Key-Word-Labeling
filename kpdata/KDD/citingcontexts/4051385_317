@@ -1,0 +1,4 @@
+as_IN temperature_NN or_CC pressure_NN -RRB-_-RRB- taken_VBN in_IN a_DT given_VBN station_NN at_IN a_DT given_VBN time_NN point_NN ,_, together_RB with_IN extra_JJ information_NN about_IN the_DT stations_NNS -LRB-_-LRB- such_JJ as_IN location_NN or_CC altitude_NN -RRB-_-RRB- ._.
+The_DT classical_JJ association_NN rule_NN framework_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, however_RB ,_, is_VBZ not_RB adequate_JJ to_TO deal_VB with_IN numerical_JJ data_NNS directly_RB ._.
+Most_JJS previous_JJ approaches_NNS to_TO association_NN rule_NN mining_NN for_IN numerical_JJ attributes_NNS were_VBD based_VBN on_IN discretization_NN ,_, see_VBP for_IN example_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+Discre_NNP

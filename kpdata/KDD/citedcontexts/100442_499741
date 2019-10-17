@@ -1,0 +1,5 @@
+e_LS realistic_JJ settings_NNS ._.
+We_PRP discuss_VBP an_DT outlier_NN detection_NN technique_NN ._.
+Outlier_NN detection_NN is_VBZ the_DT task_NN of_IN identifying_VBG anomalous_JJ data_NNS and_CC is_VBZ a_DT widely_RB used_VBN paradigm_NN in_IN fault_NN detection_NN -LRB-_-LRB- 40_CD -RRB-_-RRB- ,_, intrusion_NN detection_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC virus_NN detection_NN -LRB-_-LRB- 33_CD ,_, 34_CD -RRB-_-RRB- ._.
+We_PRP find_VBP the_DT smallest_JJS region_NN that_WDT contains_VBZ some_DT fixed_JJ percentage_NN of_IN the_DT observed_VBN data_NNS ,_, which_WDT is_VBZ called_VBN the_DT support_NN of_IN the_DT data_NN 's_POS distribution_NN ._.
+The_DT outlier_NN detector_NN class_NN

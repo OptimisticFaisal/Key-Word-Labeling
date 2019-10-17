@@ -1,0 +1,4 @@
+emental_JJ PageRank_NN dataflow_NN ._.
+We_PRP have_VBP verified_VBN that_IN it_PRP produces_VBZ identical_JJ results_NNS for_IN smaller_JJR ,_, 7k_JJ node_NN graphs_NNS using_VBG a_DT nonincremental_JJ version_NN ._.
+As_IN input_NN we_PRP use_VBP the_DT ``_`` indochina-2004_NN ''_'' web_NN graph_NN obtained_VBN from_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ;_: it_PRP contains_VBZ 7.5_CD million_CD nodes_NNS and_CC 109_CD million_CD edges_NNS ._.
+These_DT experiments_NNS execute_VBP on_IN 16_CD nodes_NNS in_IN our_PRP$ cluster_NN Cumulative_JJ time_NN -LRB-_-LRB- min_NN -RRB-_-RRB- 200 150 100_CD 50_CD Non_FW −_FW incremental_JJ shuffling_NN Incremental_JJ shuffling_NN Multica_NN

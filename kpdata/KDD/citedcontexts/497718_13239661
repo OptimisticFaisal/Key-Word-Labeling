@@ -1,0 +1,4 @@
+ewriting_VBG for_IN sponsored_VBN search_NN ._.
+We_PRP base_VBP rewrites_NNS on_IN a_DT historical_JJ click_VB graph_NN that_WDT records_VBZ the_DT ads_NNS that_WDT have_VBP been_VBN clicked_VBN on_RP in_IN response_NN to_TO past_JJ user_NN queries_NNS ._.
+Given_VBN a_DT query_FW q_FW ,_, we_PRP first_RB consider_VBP Simrank_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: as_IN a_DT way_NN to_TO identify_VB queries_NNS similar_JJ to_TO q_NN ,_, i.e._FW ,_, queries_NNS whose_WP$ ads_NNS a_DT user_NN may_MD be_VB interested_JJ in_IN ._.
+We_PRP argue_VBP that_IN Simrank_NNP fails_VBZ to_TO properly_RB identify_VB query_NN similarities_NNS in_IN our_PRP$ application_NN ,_, and_CC we_PRP present_VBP

@@ -1,0 +1,4 @@
+ic_JJ models_NNS or_CC latent_JJ semantic_JJ structures_NNS for_IN text_NN mining_NN ._.
+For_IN example_NN ,_, Hofmann_NNP -LRB-_-LRB- 17_CD -RRB-_-RRB- proposes_VBZ the_DT probabilistic_JJ latent_JJ semantic_JJ indexing_NN -LRB-_-LRB- pLSI_NN -RRB-_-RRB- and_CC applies_VBZ it_PRP to_TO information_NN retrieval_NN -LRB-_-LRB- IR_NN -RRB-_-RRB- ._.
+Blei_NNP et_FW al._FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: introduce_VB a_DT three-level_JJ Bayesian_JJ network_NN ,_, called_VBN Latent_JJ Dirichlet_NNP Allocation_NNP -LRB-_-LRB- LDA_NNP -RRB-_-RRB- ._.
+The_DT basic_JJ generative_JJ process_NN of_IN LDA_NNP closely_RB resembles_VBZ pLSI_NN except_IN that_DT in_IN pLSI_NN ,_, the_DT topic_NN mixture_NN is_VBZ conditioned_VBN on_IN

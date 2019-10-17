@@ -1,0 +1,4 @@
+cut_VBN -LRB-_-LRB- Ding_NNP et_FW al._FW ,_, 2001_CD -RRB-_-RRB- ,_, have_VBP been_VBN proposed_VBN ._.
+Spectral_JJ graph_NN partitioning_NN has_VBZ also_RB been_VBN applied_VBN to_TO a_DT special_JJ case_NN of_IN multi-type_JJ relational_JJ data_NNS ,_, bi-type_JJ relational_JJ data_NNS such_JJ as_IN the_DT word-document_JJ data_NNS -LRB-_-LRB- =_JJ -_: =_JJ Dhillon_NNP ,_, 2001_CD -_: =_JJ -_: ;_: H._NNP Zha_NNP &_CC H._NNP Simon_NNP ,_, 2001_CD -RRB-_-RRB- ._.
+These_DT algorithms_NNS formulate_VBP the_DT data_NNS matrix_NN as_IN a_DT bipartite_JJ graph_NN and_CC seek_VB to_TO find_VB the_DT optimal_JJ normalized_VBN cut_NN for_IN the_DT graph_NN ._.
+Due_JJ to_TO the_DT nature_NN of_IN a_DT bipartite_JJ graph_NN ,_, these_DT algor_NN

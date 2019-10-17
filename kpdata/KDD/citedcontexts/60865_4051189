@@ -1,0 +1,5 @@
+nces_NNS ._.
+This_DT scenario_NN ,_, summarized_VBN in_IN Figure_NNP 1_CD ,_, is_VBZ also_RB known_VBN as_IN ``_`` learning_VBG to_TO order_NN things_NNS ''_'' -LRB-_-LRB- Cohen_NNP et_FW al._FW ,_, 1999_CD -RRB-_-RRB- ._.
+As_IN an_DT example_NN consider_VBP the_DT problem_NN of_IN learning_VBG to_TO rank_VB query_JJ results_NNS of_IN a_DT search_NN engine_NN -LRB-_-LRB- =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =_JJ -_: ;_: Radlinski_NNP and_CC Joachims_NNP ,_, 2005_CD -RRB-_-RRB- ._.
+The_DT training_NN information_NN is_VBZ provided_VBN implicitly_RB by_IN the_DT user_NN who_WP clicks_VBZ on_IN some_DT of_IN the_DT links_NNS in_IN the_DT query_NN result_NN and_CC not_RB on_IN others_NNS ._.
+This_DT information_NN can_MD be_VB turned_VBN into_IN

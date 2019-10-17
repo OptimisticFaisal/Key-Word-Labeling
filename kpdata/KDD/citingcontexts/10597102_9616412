@@ -1,0 +1,4 @@
+been_VBN argued_VBN for_IN in_IN the_DT literature_NN -LRB-_-LRB- 3_CD ,_, 23_CD ,_, 26_CD -RRB-_-RRB- ._.
+In_IN the_DT end_NN ,_, our_PRP$ algorithm_NN does_VBZ not_RB depend_VB on_IN the_DT particular_JJ choice_NN of_IN the_DT waiting_VBG time_NN distribution_NN and_CC more_RBR complicated_JJ functions_NNS can_MD easily_RB be_VB chosen_VBN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Also_RB ,_, we_PRP interpret_VBP ∞_NN +_CC ∆_NN =_JJ ∞_CD ,_, i.e._FW ,_, if_IN tu_NN =_JJ ∞_CD ,_, then_RB tv_NN =_JJ ∞_NN with_IN probability_NN 1_CD ._.
+Now_RB that_IN we_PRP specified_VBD the_DT probability_NN Pc_NN -LRB-_-LRB- u_NN ,_, v_LS -RRB-_-RRB- that_IN node_NN u_NN influences_VBZ node_NN v_LS ,_, we_PRP define_VBP the_DT probability_NN of_IN observing_VBG ca_MD

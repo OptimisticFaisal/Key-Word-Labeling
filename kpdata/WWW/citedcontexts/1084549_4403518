@@ -1,0 +1,5 @@
+ilt_NN upon_IN the_DT Gnutella_NNP -LRB-_-LRB- 86_CD -RRB-_-RRB- P2P-based_JJ file_NN distribution_NN network_NN ._.
+Gnutella_NNP is_VBZ primarily_RB a_DT system_NN for_IN download-based_JJ access_NN ,_, but_CC GnuStream_NNP allows_VBZ the_DT content_NN in_IN the_DT system_NN to_TO be_VB streamed_VBN instead_RB ._.
+P2Cast_NN =_SYM -_: =[_NN 37_CD -RRB-_-RRB- -_: =_JJ -_: adapts_NNS patching_VBG -LRB-_-LRB- 46_CD -RRB-_-RRB- to_TO achieve_VB P2P-based_JJ streaming_NN ._.
+DirectStream_NN -LRB-_-LRB- 38_CD -RRB-_-RRB- uses_VBZ a_DT directory_NN server_NN to_TO store_NN content_NN and_CC maintain_VB information_NN about_IN clients_NNS ._.
+In_IN PALS_NNS -LRB-_-LRB- 84_CD -RRB-_-RRB- ,_, adaptive_JJ layered_JJ streaming_NN is_VBZ sup_NN

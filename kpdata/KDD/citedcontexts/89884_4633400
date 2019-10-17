@@ -1,0 +1,5 @@
+method_NN can_MD efficiently_RB discover_VB the_DT patterns_NNS ,_, the_DT subgraphs_NNS to_TO be_VB searched_VBN are_VBP limited_VBN within_IN a_DT specific_JJ class_NN ._.
+For_IN example_NN ,_, MolFea_NNP efficiently_RB mines_NNS frequent_JJ paths_NNS from_IN labeled_JJ graphs_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+TreeMiner_NN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: and_CC FREQT_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- can_MD quickly_RB discover_VB all_DT frequent_JJ patterns_NNS from_IN ordered_VBN trees_NNS ._.
+However_RB ,_, they_PRP can_MD not_RB mine_VB more_RBR complex_JJ substructures_NNS such_JJ as_IN labeled_JJ subgraphs_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, the_DT AGM_NNP algorithm_NN -LRB-_-LRB- 10_CD ,_,

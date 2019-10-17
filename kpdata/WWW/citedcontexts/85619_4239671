@@ -1,0 +1,3 @@
+ould_JJ track_NN access_NN patterns_NNS on_IN its_PRP$ site_NN and_CC selectively_RB redirect_VB requests_NNS for_IN rarely_RB requested_VBN URLs_NNS when_WRB the_DT number_NN of_IN requests_NNS exceed_VBP a_DT threshold_NN or_CC when_WRB they_PRP come_VBP from_IN BGP_NN prefixes_NNS never_RB seen_VBN before_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, this_DT requires_VBZ state_NN maintenance_NN about_IN URL_NN access_NN patterns_NNS and_CC tuning_NN when_WRB the_DT site_NN changes_NNS ._.
+6_CD Impairment_NN factors_NNS Below_IN we_PRP list_VBP various_JJ factors_NNS to_TO be_VB kept_VBN in_IN mind_NN while_IN considering_VBG impairmen_NNS

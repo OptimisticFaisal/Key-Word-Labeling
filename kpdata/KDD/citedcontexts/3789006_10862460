@@ -1,0 +1,4 @@
+to_TO evaluate_VB a_DT single_JJ TTM_NN method_NN ._.
+Roy_NNP et_FW al._FW -LRB-_-LRB- 19_CD -RRB-_-RRB- presented_VBD a_DT method_NN for_IN semiautomatically_RB detecting_VBG and_CC naming_VBG emerging_VBG topics_NNS and_CC compared_VBN these_DT topics_NNS with_IN an_DT editor-created_JJ list_NN ._.
+Wang_NNP and_CC McCallum_NNP =_SYM -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: modified_VBN LDA_NN using_VBG time_NN as_IN one_CD of_IN the_DT latent_JJ variables_NNS for_IN burstypattern_NN detection_NN ._.
+They_PRP compared_VBD this_DT modified_VBN LDA_NN to_TO standard_JJ LDA_NN and_CC showed_VBD differences_NNS in_IN the_DT distribution_NN of_IN bursty_JJ patterns_NNS over_IN

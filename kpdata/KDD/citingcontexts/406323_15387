@@ -1,0 +1,5 @@
+ming_NN that_IN consecutive_JJ accesses_NNS from_IN the_DT same_JJ host_NN during_IN a_DT time_NN interval_NN come_VBN from_IN the_DT same_JJ user_NN ._.
+An_DT extensive_JJ overview_NN of_IN the_DT methods_NNS that_WDT may_MD be_VB employed_VBN in_IN the_DT data_NNS preprocessing_VBG phase_NN is_VBZ given_VBN in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- ._.
+-_: =_SYM -_: The_DT preprocessed_JJ data_NNS are_VBP used_VBN as_IN input_NN for_IN the_DT C-logs_NNS '_POS creation_NN process_NN ._.
+The_DT C-Logs_JJ creation_NN process_NN involves_VBZ two_CD distinct_JJ sub-processes_NNS :_: content_NN classification_NN and_CC log_NN transformation_NN ._.
+The_DT content_NN

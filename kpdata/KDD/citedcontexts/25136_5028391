@@ -1,0 +1,4 @@
+pable_NN of_IN mining_NN distributed_VBN higher-order_JJ associations_NNS ._.
+Existing_VBG ARM_NN algorithms_NNS for_IN mining_NN distributed_VBN data_NNS are_VBP capable_JJ of_IN mining_VBG only_JJ data_NNS that_WDT is_VBZ either_DT horizontally_RB or_CC vertically_RB fragmented_JJ -LRB-_-LRB- 11_CD -RRB-_-RRB- -LRB-_-LRB- 28_CD -RRB-_-RRB- =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN addition_NN ,_, they_PRP assume_VBP that_IN data\/schema_NN integration_NN problems_NNS have_VBP been_VBN solved_VBN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Absent_JJ the_DT ability_NN to_TO reason_VB about_IN record_NN linkage_NN ,_, distributed_VBN ARM_NN algorithms_NNS are_VBP incapable_JJ of_IN identifying_VBG highe_NN

@@ -1,0 +1,4 @@
+is_VBZ possible_JJ to_TO use_VB a_DT sample_NN of_IN the_DT normal_JJ data_NNS to_TO capture_VB outliers_NNS without_IN significant_JJ loss_NN of_IN accuracy_NN ._.
+4.4_CD Texture_NN data_NNS This_DT is_VBZ one_CD of_IN the_DT real_JJ data_NN sets_NNS of_IN the_DT Elena_NNP project_NN ,_, which_WDT can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT data_NNS set_NN was_VBD generated_VBN bysFigure_NN 3_CD :_: Distance_NNP histogram_NN for_IN the_DT bookstore_NN data_NNS ._.
+Each_DT bar_NN shows_VBZ the_DT percentage_NN of_IN points_NNS within_IN each_DT group_NN -LRB-_-LRB- non-outliers_NNS ,_, outliers_NNS -RRB-_-RRB- with_IN distances_NNS to_TO the_DT closest_JJS ce_NN

@@ -1,0 +1,4 @@
+be_VB optimised_VBN using_VBG a_DT variety_NN of_IN criteria_NNS such_JJ as_IN the_DT number_NN of_IN rules_NNS or_CC the_DT number_NN of_IN different_JJ features_NNS in_IN a_DT subset_NN ._.
+An_DT other_JJ approach_NN is_VBZ to_TO find_VB robust_JJ rule_NN sets_NNS ._.
+A_DT robust_JJ rule_NN set_VBN as_IN discussed_VBN in_IN =_JJ -_: =[_NN 31_CD ,_, 40_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ redundant_JJ rules_NNS for_IN an_DT increasing_VBG robustness_NN ._.
+The_DT algorithm_NN described_VBN in_IN -LRB-_-LRB- 31_CD -RRB-_-RRB- has_VBZ some_DT similarities_NNS with_IN the_DT implemented_VBN subset_NN algorithms_NNS ,_, although_IN finding_VBG the_DT optimal_JJ robust_JJ rule_NN set_NN is_VBZ not_RB th_DT

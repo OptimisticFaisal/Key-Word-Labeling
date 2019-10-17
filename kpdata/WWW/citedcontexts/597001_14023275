@@ -1,0 +1,5 @@
+usiness_NN operations_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Recently_RB ,_, runtime_NN monitoring_NN of_IN concurrent_JJ distributed_VBN systems_NNS based_VBN on_IN linear_JJ temporal_JJ logic_NN -LRB-_-LRB- LTL_NN -RRB-_-RRB- ,_, state-charts_NNS ,_, and_CC related_JJ formalisms_NNS has_VBZ also_RB received_VBN a_DT lot_NN of_IN attention_NN =_JJ -_: =[_NN 9,10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, these_DT works_NNS are_VBP mainly_RB focused_VBN on_IN error_NN detection_NN ,_, e.g._FW ,_, concurrency_NN related_JJ bugs_NNS ._.
+A_DT classification_NN for_IN runtime_NN monitoring_NN of_IN software_NN faults_NNS is_VBZ given_VBN in_IN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+Patterns_NN to_TO allow_VB for_IN monitori_NNS

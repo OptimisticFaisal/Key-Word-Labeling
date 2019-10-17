@@ -1,0 +1,4 @@
+email_NN is_VBZ represented_VBN for_IN the_DT classifier_NN ,_, how_WRB the_DT adversary_NN can_MD modify_VB the_DT features_NNS ,_, and_CC at_IN what_WDT cost_NN ._.
+Add_VB Words_NNS -LRB-_-LRB- AW_NN -RRB-_-RRB- :_: This_DT the_DT simplest_JJS scenario_NN ._.
+The_DT binomial_JJ model_NN of_IN text_NN for_IN classification_NN is_VBZ used_VBN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: :_: there_EX is_VBZ one_CD Boolean_JJ feature_NN per_IN word_NN ,_, denoting_VBG whether_IN or_CC not_RB the_DT word_NN is_VBZ present_JJ in_IN the_DT email_NN ._.
+The_DT only_JJ way_NN to_TO modify_VB the_DT email_NN is_VBZ by_IN adding_VBG words_NNS which_WDT are_VBP not_RB already_RB present_JJ ,_, and_CC each_DT word_NN adde_NN

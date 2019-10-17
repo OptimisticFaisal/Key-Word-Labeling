@@ -1,0 +1,4 @@
+uggested_VBD a_DT <jail>_NN tag_NN that_WDT would_MD disable_VB JavaScript_NNP for_IN the_DT jail_NN 's_POS contents_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Browser-Enforced_JJ Embedded_VBN Policies_NNS -LRB-_-LRB- BEEP_NN -RRB-_-RRB- allow_VBP Web_NN developers_NNS to_TO define_VB a_DT whitelist_NN of_IN scripts_NNS that_WDT may_MD run_VB in_IN a_DT page_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT proposals_NNS are_VBP targeted_VBN at_IN isolating_VBG wholly-static_JJ content_NN and_CC do_VBP not_RB apply_VB to_TO interactive_JJ mashup_NN applications_NNS such_JJ as_IN social_JJ network_NN platforms_NNS ._.
+5.2_CD iframe_NN Alternatives_NNP Two_CD iframe_JJ alternatives_NNS ,_,

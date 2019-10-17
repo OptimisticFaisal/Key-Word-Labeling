@@ -1,0 +1,4 @@
+s_NN ,_, e-commerce_NN ,_, parser_NN ,_, semantic_JJ web_NN I._NNP INTRODUCTION_NNP Knowledge-based_JJ systems_NNS for_IN matchmaking_NN and_CC resource_NN retrieval_NN --_: often_RB based_VBN on_IN Description_NN Logics_NN fomalisms_NNS -LRB-_-LRB- DLs_NNS -RRB-_-RRB- --_: have_VBP been_VBN recently_RB proposed_VBN -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+DLs_NNS ,_, in_IN fact_NN ,_, are_VBP endowed_JJ of_IN a_DT formal_JJ semantics_NNS ,_, allow_VBP for_IN an_DT open-world_JJ assumption_NN ._.
+Incomplete_JJ information_NN is_VBZ admitted_VBN ,_, and_CC absence_NN of_IN information_NN can_MD be_VB distinguished_VBN from_IN negative_JJ information_NN ._.
+Fu_NN

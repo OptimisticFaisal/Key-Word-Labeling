@@ -1,0 +1,4 @@
+literature_NN -LRB-_-LRB- see_VB -LRB-_-LRB- 18_CD -RRB-_-RRB- and_CC in_IN particular_JJ section_NN 6_CD there_EX -RRB-_-RRB- can_MD be_VB applied_VBN to_TO show_VB that_IN Algorithm_NN 3.1_CD has_VBZ linear_JJ convergence_NN ._.
+Finally_RB ,_, similar_JJ to_TO section_NN 2.2_CD we_PRP can_MD argue_VB that_IN ,_, the_DT method_NN of_IN Hsu_NNP and_CC Lin_NNP =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ suited_VBN for_IN nonlinear_JJ kernels_NNS ,_, but_CC SDM_NNP is_VBZ better_JJR for_IN the_DT linear_JJ SVM_NN case_NN ._.
+For_IN efficiency_NN ,_, -LRB-_-LRB- 21_CD -RRB-_-RRB- can_MD be_VB solved_VBN only_RB for_IN some_DT restricted_JJ variables_NNS ,_, say_VBP only_RB the_DT δα_NN m_NN i_LS for_IN which_WDT v_LS m_NN i_LS -RRB-_-RRB- 0_CD ._.
+The_DT heurist_NN

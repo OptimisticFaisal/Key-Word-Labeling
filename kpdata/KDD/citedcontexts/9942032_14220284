@@ -1,0 +1,5 @@
+n_NN both_CC differentially_RB private_JJ synthetic_JJ graphs_NNS and_CC the_DT original_JJ graphs_NNS ._.
+We_PRP implement_VBP two_CD applications_NNS that_WDT are_VBP highly_RB dependent_JJ on_IN graph_NN structure_NN :_: Reliable_JJ Email_NN -LRB-_-LRB- RE_NN -RRB-_-RRB- -LRB-_-LRB- 20_CD -RRB-_-RRB- and_CC Influence_NN Maximization_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Reliable_JJ Email_NN ._.
+RE_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- is_VBZ an_DT email_JJ spam_NN filter_NN that_WDT relies_VBZ on_IN a_DT user_NN 's_POS social_JJ network_NN to_TO filter_NN and_CC block_NN spam_NN ._.
+One_CD way_NN to_TO evaluate_VB the_DT security_NN of_IN RE_NN is_VBZ to_TO compute_VB the_DT number_NN of_IN users_NNS in_IN a_DT network_NN

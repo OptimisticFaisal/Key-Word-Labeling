@@ -1,0 +1,4 @@
+risk_NN minimization_NN ,_, i.e._FW ,_, minimizing_VBG a_DT regularized_VBN empirical_JJ risk_NN ._.
+By_IN using_VBG the_DT ℓ1-norm_NN regularizer_NN ,_, irrelevant_JJ features_NNS can_MD be_VB effectively_RB discarded_VBN when_WRB the_DT minimization_NN problem_NN obtains_VBZ its_PRP$ optimum_NN =_JJ -_: =[_NN 24_CD ,_, 33_CD ,_, 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT approaches_NNS to_TO structure_VB learning_NN of_IN Markov_NNP random_JJ fields_NNS typically_RB use_VBP greedy_JJ local_JJ heuristic_NN search_NN that_WDT incrementally_RB changes_VBZ the_DT model_NN structure_NN by_IN adding_VBG or_CC deleting_VBG edges_NNS ._.
+The_DT adding_VBG or_CC del_DT

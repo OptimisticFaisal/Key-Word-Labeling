@@ -1,0 +1,4 @@
+use_VB we_PRP can_MD not_RB make_VB valid_JJ inferences_NNS ._.
+The_DT approximation_NN is_VBZ made_VBN under_IN the_DT assumption_NN that_IN the_DT expected_VBN cell_NN frequencies_NNS are_VBP not_RB ``_`` too_RB small_JJ ._. ''_''
+Typically_RB ,_, expected_JJ values_NNS of_IN 5_CD are_VBP considered_VBN sat_VBD =_JJ -_: =_JJ isfactory_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+2_CD B_NN -_: =_JJ -_: ounds_NNS :_: We_PRP find_VBP an_DT upper_JJ bound_VBN on_IN the_DT 2_CD statistic_NN for_IN any_DT child_NN of_IN a_DT node_NN and_CC use_VB this_DT to_TO prune_VB candidates_NNS when_WRB it_PRP is_VBZ no_RB longer_RB possible_JJ for_IN specializations_NNS to_TO meet_VB the_DT 2_CD cutoff_NN implied_VBD b_NN

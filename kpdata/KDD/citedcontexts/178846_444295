@@ -1,0 +1,5 @@
+._.
+-LRB-_-LRB- -LCB-_-LRB- o1_NN ,_, o2_NN -RCB-_-RRB- ,_, -LCB-_-LRB- i1_NN ,_, i2_NN -RCB-_-RRB- -RRB-_-RRB- is_VBZ a_DT concept_NN in_IN r1_NN ._.
+We_PRP have_VBP h_NN -LRB-_-LRB- -LCB-_-LRB- i1_NN ,_, i2_NN -RCB-_-RRB- -RRB-_-RRB- =_JJ -LCB-_-LRB- i1_NN ,_, i2_NN -RCB-_-RRB- ,_, h_NN ′_NN -LRB-_-LRB- -LCB-_-LRB- o1_NN ,_, o2_NN -RCB-_-RRB- -RRB-_-RRB- =_JJ -LCB-_-LRB- o1_NN ,_, o2_NN -RCB-_-RRB- ,_, φ_NN -LRB-_-LRB- -LCB-_-LRB- o1_NN ,_, o2_NN -RCB-_-RRB- -RRB-_-RRB- =_JJ -LCB-_-LRB- i1_NN ,_, i2_NN -RCB-_-RRB- ,_, and_CC ψ_NN -LRB-_-LRB- -LCB-_-LRB- i1_NN ,_, i2_NN -RCB-_-RRB- -RRB-_-RRB- =_JJ -LCB-_-LRB- o1_NN ,_, o2_NN -RCB-_-RRB- ._.
+Many_JJ algorithms_NNS like_IN AC-Miner_NN 1_CD -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, CHARM_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- and_CC CLOSET_NN +_CC =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: extract_NN frequent_JJ closed_JJ sets_NNS and_CC thus_RB very_RB easily_RB concepts_NNS under_IN a_DT minimal_JJ frequency_NN constraint_NN on_IN the_DT set_NN of_IN objects_NNS by_IN an_DT application_NN of_IN one_CD of_IN the_DT Galois_NNP operators_NNS ._.
+This_DT user-defined_JJ minimal_JJ frequ_NN

@@ -1,0 +1,5 @@
+node_NN in_IN an_DT XML_NN data_NN model_NN ._.
+An_DT identifier_NN is_VBZ like_IN a_DT key_NN for_IN XML_NN ,_, but_CC does_VBZ not_RB play_VB a_DT role_NN in_IN validation_NN ._.
+Buneman_NNP et_FW al._FW define_VB a_DT key_NN as_IN the_DT pairing_NN of_IN a_DT target_NN path_NN with_IN a_DT set_NN of_IN key_JJ path_NN expressions_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Both_CC the_DT target_NN path_NN and_CC key_JJ path_NN expressions_NNS are_VBP regular_JJ expression_NN queries_NNS -LRB-_-LRB- similar_JJ to_TO XPath_NN queries_NNS -RRB-_-RRB- on_IN the_DT data_NNS model_NN for_IN the_DT document_NN ._.
+Our_PRP$ work_NN on_IN identifiers_NNS differs_VBZ from_IN Buneman_NNP et_FW al._FW 's_POS rese_NN

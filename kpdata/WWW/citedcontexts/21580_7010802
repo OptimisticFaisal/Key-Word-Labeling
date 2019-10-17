@@ -1,0 +1,5 @@
+ecules_NNS ._.
+SPARQL_NN was_VBD the_DT obvious_JJ query_JJ language_NN of_IN choice_NN ,_, since_IN we_PRP are_VBP taking_VBG an_DT ontology-based_JJ approach_NN and_CC require_VB a_DT query_JJ language_NN that_WDT works_VBZ with_IN RDF_NN -LRB-_-LRB- or_CC OWL_NN -RRB-_-RRB- ._.
+Currently_RB ,_, we_PRP use_VBP Joseki_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, a_DT Jena_NNP =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: based_VBN HTTP_NNP engine_NN that_WDT supports_VBZ the_DT SPARQL_NNP Protocol_NNP and_CC query_JJ language_NN ._.
+Joseki_NNP allows_VBZ responses_NNS to_TO be_VB encoded_VBN in_IN either_CC XML_NN or_CC JavaScript_NNP Object_NNP Notation_NNP -LRB-_-LRB- JSON_NNP -RRB-_-RRB- -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+We_PRP have_VBP chosen_VBN JSON_NNP because_IN it_PRP m_NN

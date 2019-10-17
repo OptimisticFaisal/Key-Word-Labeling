@@ -1,0 +1,5 @@
+hm_NN is_VBZ a_DT better_JJR alternative_NN ._.
+The_DT admission_NN control_NN admits_VBZ as_IN many_JJ sessions_NNS as_IN possible_JJ so_RB long_RB as_IN the_DT server_NN is_VBZ not_RB overloaded_VBN ._.
+Our_PRP$ previous_JJ work_NN on_IN admission_NN control_NN based_VBN on_IN predictable_JJ service_NN time_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: could_MD serve_VB this_DT purpose_NN ._.
+In_IN addition_NN ,_, the_DT scheduling_NN algorithm_NN takes_VBZ care_NN of_IN the_DT situation_NN when_WRB the_DT admitted_VBN sessions_NNS are_VBP beyond_IN the_DT server_NN 's_POS capacity_NN ._.
+It_PRP seeks_VBZ the_DT best_JJS scheduling_NN that_WDT produces_VBZ as_IN

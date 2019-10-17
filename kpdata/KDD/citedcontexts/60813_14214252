@@ -1,0 +1,4 @@
+ore_NN comprehensive_JJ survey_NN see_VB -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Nigam_NNP et_FW al._FW -LRB-_-LRB- 25_CD -RRB-_-RRB- initialize_VBP their_PRP$ cluster_NN structure_NN with_IN a_DT set_NN of_IN user-labeled_JJ examples_NNS ,_, and_CC estimate_VB a_DT mixture_NN model_NN on_IN whole_JJ data_NNS using_VBG EM_NN algorithm_NN ._.
+Basu_NNP et_FW al._FW =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: model_NN constraints_NNS with_IN hidden_JJ Markov_NNP random_JJ fields_NNS ,_, and_CC describe_VBP a_DT modified_VBN objective_NN function_NN for_IN the_DT k-means_NN clustering_NN algorithm_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- that_WDT takes_VBZ these_DT constraints_NNS into_IN account_NN ._.
+Their_PRP$ scheme_NN also_RB i_LS

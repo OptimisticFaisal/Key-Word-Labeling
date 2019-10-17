@@ -1,0 +1,6 @@
+eresting_VBG ones_NNS ._.
+Chi-square_JJ test_NN is_VBZ one_CD of_IN the_DT approaches_NNS to_TO remove_VB insignificant_JJ ones_NNS ._.
+In_IN statistics_NNS ,_, Chi-square_JJ test_NN statistics_NNS -LRB-_-LRB- χ_NN 2_CD -RRB-_-RRB- is_VBZ extensively_RB applied_VBN for_IN testing_NN independence_NN and_CC correlation_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP developed_VBD a_DT system_NN to_TO find_VB correlations_NNS of_IN domain_NN sharing_NN in_IN proteins_NNS ._.
+The_DT protein_NN sequences_NNS are_VBP from_IN PIR-NREF_NN database_NN and_CC the_DT motifs_NNS are_VBP from_IN PROSITE_NNP database_NN ._.
+The_DT Aproiori_NNP algorithm_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- is_VBZ app_NN

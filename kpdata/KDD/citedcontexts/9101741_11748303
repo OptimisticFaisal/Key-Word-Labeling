@@ -1,0 +1,4 @@
+tive_JJ training_NN data_NNS ,_, we_PRP use_VBP PU_NN learning_VBG to_TO solve_VB the_DT problem_NN -LRB-_-LRB- Liu_NNP et_FW al._FW 2002_CD ;_: Yu_NNP et_FW al._FW 2002_CD ;_: Denis_NNP et_FW al._FW 2002_CD ;_: Li_NNP et_FW al._FW 2003_CD ;_: Lee_NNP and_CC Liu_NNP ,_, 2003_CD ;_: Liu_NNP et_FW al._FW 2003_CD ;_: Denis_NNP et_FW al._FW 2003_CD ;_: Li_NNP et_FW al._FW 2007_CD ;_: =_JJ -_: =_JJ Elkan_NNP and_CC Noto_NNP ,_, 2008_CD -_: =_JJ -_: ;_: Li_NNP et_FW al._FW 2009_CD ;_: Li_NNP et_FW al._FW 2010_CD -RRB-_-RRB- ._.
+We_PRP will_MD discuss_VB this_DT learning_NN model_NN further_RBR in_IN Section_NNP 3_CD ._.
+Another_DT related_JJ work_NN to_TO ours_PRP is_VBZ transfer_NN learning_NN or_CC domain_NN adaptation_NN ._.
+Unlike_IN our_PRP$ problem_NN setting_NN ,_, transfe_NN

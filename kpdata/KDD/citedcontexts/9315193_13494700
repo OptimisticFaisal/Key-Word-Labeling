@@ -1,0 +1,5 @@
+of_IN SVD_NNP based_VBN techniques_NNS have_VBP been_VBN proposed_VBN ,_, such_JJ as_IN dynamic_JJ tensor_NN analysis_NN -LRB-_-LRB- 33_CD -RRB-_-RRB- ,_, incremental_JJ spectral_JJ clustering_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- etc._NN ._.
+More_RBR recent_JJ work_NN in_IN this_DT line_NN includes_VBZ example-based_JJ low-rank_JJ approximation_NN =_JJ -_: =[_NN 36_CD -RRB-_-RRB- -_: =_JJ -_: ,_, non-negative_JJ matrix_NN factorization_NN -LRB-_-LRB- 40_CD -RRB-_-RRB- ,_, etc._NN 7_CD Conclusions_NNS In_IN this_DT paper_NN ,_, we_PRP propose_VBP Ark_NNP ,_, fast_JJ algorithms_NNS for_IN computing_VBG random_JJ walk_NN kernels_NNS ._.
+The_DT main_JJ contributions_NNS are_VBP the_DT followings_NNS ._.
+1_CD ._.
+Algorithms_NNS ._.

@@ -1,0 +1,3 @@
+tially_RB clear_JJ whether_IN it_PRP is_VBZ possible_JJ at_IN all_DT to_TO design_VB schemes_NNS that_WDT resist_VBP such_JJ attacks_NNS ._.
+Even_RB defining_VBG composition_NN properties_NNS precisely_RB is_VBZ tricky_JJ in_IN the_DT presence_NN of_IN malicious_JJ behavior_NN -LRB-_-LRB- for_IN example_NN ,_, see_VBP =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: for_IN a_DT recent_JJ survey_NN about_IN composability_NN of_IN cryptographic_JJ protocols_NNS -RRB-_-RRB- ._.
+Nevertheless_RB ,_, a_DT significant_JJ family_NN of_IN anonymization_NN definitions_NNS do_VBP provide_VB guarantees_NNS against_IN composition_NN attacks_NNS ,_, namely_RB schemes_NNS

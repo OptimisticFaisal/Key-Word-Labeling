@@ -1,0 +1,5 @@
+m_NN data_NNS set_VBN from_IN the_DT U.S._NNP Food_NNP and_CC Drug_NNP Administration_NNP in_IN the_DT first_JJ quarter_NN of_IN 2004_CD ._.
+Disguised_VBN missing_JJ data_NNS are_VBP detected_VBN in_IN both_DT data_NNS sets_NNS ._.
+Interestingly_RB ,_, many_JJ previous_JJ machine_NN learning_NN studies_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 2_CD ,_, 6_CD -RRB-_-RRB- -_: =--RRB-_NN use_VBP the_DT Pima_NNP Indians_NNPS Diabetes_NNP database_NN but_CC presume_VBP that_IN the_DT data_NNS set_NN has_VBZ no_DT missing_JJ data_NNS ._.
+Disguised_VBN missing_JJ data_NNS may_MD impair_VB the_DT quality_NN of_IN data_NN analysis_NN severely_RB ._.
+Significant_JJ biases_NNS may_MD be_VB caused_VBN by_IN

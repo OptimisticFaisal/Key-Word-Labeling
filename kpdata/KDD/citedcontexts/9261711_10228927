@@ -1,0 +1,3 @@
+tify_JJ discriminative_JJ patterns_NNS that_WDT are_VBP complementary_JJ to_TO the_DT ones_NNS returned_VBN by_IN earlier_JJR invocations_NNS ._.
+The_DT union_NN of_IN these_DT patterns_NNS can_MD then_RB be_VB used_VBN as_IN features_NNS to_TO train_VB a_DT classifier_NN ._.
+Another_DT algorithm_NN gPLS_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: adapts_VBZ the_DT powerful_JJ mathematical_JJ tool_NN of_IN PLS_NN -LRB-_-LRB- Partial_JJ Least_NNP Squares_NNPS -RRB-_-RRB- regression_NN to_TO graph_NN mining_NN to_TO collect_VB informative_JJ subgraph_NN patterns_NNS and_CC build_VB a_DT classifier_NN directly_RB with_IN fewer_JJR iterations_NNS than_IN typ_NN

@@ -1,0 +1,4 @@
+or_CC record-linkage_JJ problem_NN -LRB-_-LRB- 42_CD ;_: 5_CD -RRB-_-RRB- ._.
+We_PRP have_VBP developed_VBN methods_NNS for_IN learning_VBG string-similarity_JJ measures_NNS and_CC classifiers_NNS that_WDT identify_VBP equivalent_JJ items_NNS by_IN training_NN on_IN a_DT sample_NN of_IN manually_RB ``_`` deduped_JJ ''_'' data_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Another_DT approach_NN to_TO handling_NN heterogeneity_NN is_VBZ to_TO mine_VB ``_`` soft_JJ matching_NN ''_'' rules_NNS directly_RB from_IN the_DT ``_`` dirty_JJ ''_'' data_NNS extracted_VBN from_IN text_NN ._.
+In_IN this_DT approach_NN ,_, the_DT rule_NN induction_NN process_NN is_VBZ generalized_VBN to_TO allow_VB p_NN

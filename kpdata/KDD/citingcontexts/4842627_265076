@@ -1,0 +1,4 @@
+ternate_NN models_NNS that_WDT are_VBP more_RBR faithful_JJ to_TO observed_VBN properties_NNS ._.
+One_CD is_VBZ the_DT so-called_JJ configuration_NN model_NN ,_, which_WDT chooses_VBZ a_DT graph_NN uniformly_RB at_IN random_JJ from_IN all_DT graphs_NNS with_IN a_DT prescribed_JJ degree_NN distribution_NN =_JJ -_: =[_NN 5_CD ,_, 24_CD ,_, 26_CD -RRB-_-RRB- -_: =_JJ -_: ;_: the_DT degree_NN distribution_NN can_MD be_VB set_VBN to_TO match_VB practical_JJ observations_NNS and_CC is_VBZ usually_RB a_DT power_NN law_NN ._.
+Another_DT approach_NN is_VBZ to_TO use_VB a_DT generative_JJ model_NN to_TO describe_VB the_DT evolution_NN of_IN graphs_NNS ._.
+A_DT typical_JJ example_NN is_VBZ

@@ -1,0 +1,4 @@
+ly_RB ,_, they_PRP propose_VBP online_JJ learning_NN algorithms_NNS that_WDT learn_VBP a_DT diverse_JJ ranking_NN of_IN documents_NNS based_VBN on_IN clicking_VBG behavior_NN of_IN the_DT users_NNS ._.
+An_DT important_JJ work_NN along_IN the_DT same_JJ line_NN as_IN ours_PRP is_VBZ that_DT of_IN Chen_NNP and_CC Karger_NNP =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Under_IN the_DT Bayesian_JJ information_NN retrieval_NN framework_NN ,_, they_PRP propose_VBP a_DT greedy_JJ algorithm_NN that_WDT naturally_RB return_VBP diverse_JJ results_NNS ._.
+They_PRP evaluate_VBP their_PRP$ approach_NN on_IN the_DT TREC_NN data_NN set_NN ,_, and_CC show_NN improvement_NN in_IN

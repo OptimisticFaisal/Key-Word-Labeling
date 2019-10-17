@@ -1,0 +1,4 @@
+is_VBZ concerned_VBN with_IN automatically_RB discovering_VBG the_DT protocols_NNS or_CC rules_NNS that_IN a_DT program_NN must_MD follow_VB when_WRB interacting_VBG with_IN an_DT API_NN ._.
+Existing_VBG techniques_NNS can_MD be_VB classified_VBN into_IN static_JJ -LRB-_-LRB- 17_CD -RRB-_-RRB- -LRB-_-LRB- 18_CD -RRB-_-RRB- and_CC dynamic_JJ -LRB-_-LRB- 19_CD -RRB-_-RRB- =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =-[_NN 21_CD -RRB-_-RRB- ones_NNS ._.
+Examples_NNS of_IN static_JJ approaches_NNS include_VBP inferring_VBG ordering_VBG patterns_NNS among_IN method_NN calls_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- or_CC detecting_VBG function_NN precedence_NN protocols_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+Examples_NNS of_IN dynamic_JJ approaches_NNS contain_VBP mining24_NN A_NN

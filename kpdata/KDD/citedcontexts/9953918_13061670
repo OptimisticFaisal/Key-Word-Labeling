@@ -1,0 +1,4 @@
+tion_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+These_DT approaches_NNS could_MD be_VB inaccurate_JJ because_IN neither_CC user_NN friendship_NN nor_CC user_NN behavior_NN information_NN is_VBZ taken_VBN into_IN account_NN ._.
+Recent_JJ approaches_NNS resort_VBP to_TO collaborative_VB filtering_VBG -LRB-_-LRB- CF_NN -RRB-_-RRB- techniques_NNS =_JJ -_: =[_NN 3_CD ,_, 23_CD ,_, 1_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: to_TO profile_VB user_NN interests_NNS by_IN collaboratively_RB uncovering_VBG user_NN behaviors_NNS ,_, where_WRB users_NNS are_VBP assumed_VBN to_TO be_VB unrelated_JJ to_TO each_DT other_JJ ._.
+While_IN CF_NN performs_VBZ well_RB in_IN recommendation_NN systems_NNS where_WRB decisions_NNS are_VBP mai_FW

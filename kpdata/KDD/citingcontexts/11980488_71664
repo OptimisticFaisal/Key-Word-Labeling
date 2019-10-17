@@ -1,0 +1,4 @@
+wo_MD approaches_NNS to_TO model_VB the_DT spatial_JJ correlation_NN of_IN base_NN learners_NNS -LRB-_-LRB- i.e._FW subgraphs_NNS -RRB-_-RRB- ._.
+The_DT first_JJ approach_NN ,_, LPGBK_NN ,_, is_VBZ to_TO construct_VB a_DT kernel_NN function_NN for_IN the_DT subgraphs_NNS ,_, utilizing_VBG the_DT the_DT Marginalized_NNP kernel_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT second_JJ approach_NN ,_, LPGBCMP_NN ,_, is_VBZ to_TO construct_VB the_DT feature_NN consistency_NN map_NN ,_, as_IN investigated_VBN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+We_PRP fix_VBP max_NN var_NN =_JJ 1_CD for_IN feature_NN consistency_NN map_NN building_NN threshold_NN and_CC δ_NN =_JJ 0.25_CD for_IN overlapping_VBG thre_NN

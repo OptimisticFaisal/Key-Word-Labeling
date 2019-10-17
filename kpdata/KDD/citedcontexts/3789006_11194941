@@ -1,0 +1,4 @@
+larity_NN of_IN LDA_NN is_VBZ that_IN the_DT distribution_NN parameters_NNS are_VBP generated_VBN by_IN a_DT Dirichlet_NNP distribution_NN with_IN certain_JJ hyperparameters_NNS that_WDT are_VBP stated_VBN a_DT priori_FW ._.
+One_CD example_NN of_IN these_DT models_NNS is_VBZ TOT_NNP -LRB-_-LRB- Topic_NNP Over_NNP Time_NNP -RRB-_-RRB- =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT most_RBS characteristic_JJ aspect_NN of_IN this_DT work_NN is_VBZ that_IN the_DT temporal_JJ variable_NN is_VBZ added_VBN to_TO the_DT LDA_NNP model_NN ,_, assuming_VBG that_IN topics_NNS follow_VBP a_DT Beta_NNP distribution_NN along_IN time_NN ._.
+One_CD drawback_NN in_IN this_DT work_NN is_VBZ that_IN all_DT

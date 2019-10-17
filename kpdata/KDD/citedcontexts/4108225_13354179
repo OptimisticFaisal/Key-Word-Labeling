@@ -1,0 +1,4 @@
+and_CC MegaGenreBot_NNP ._.
+A_DT filterbot_NN is_VBZ an_DT automated_JJ agent_NN that_IN rates_NNS all_DT or_CC most_JJS items_NNS algorithmically_RB ._.
+The_DT filterbots_NNS are_VBP then_RB treated_VBN as_IN additional_JJ users_NNS in_IN a_DT collaborative_JJ filtering_VBG system_NN ._.
+Park_NNP et_FW al._FW =_SYM -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: improved_VBD the_DT scalability_NN and_CC performance_NN of_IN filterbots_NNS in_IN cold-start_JJ situations_NNS by_IN adding_VBG a_DT few_JJ global_JJ bots_NNS instead_RB of_IN numerous_JJ personal_JJ bots_NNS and_CC applying_VBG item-based_JJ instead_RB of_IN user-user_FW collaborativ_FW

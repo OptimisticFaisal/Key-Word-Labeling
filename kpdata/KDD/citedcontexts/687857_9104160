@@ -1,0 +1,4 @@
+ry_NN subset_NN of_IN a_DT frequent_JJ set_NN will_MD be_VB frequent_JJ unless_IN the_DT k-support_NN bound_VBD value_NN of_IN -LRB-_-LRB- k-1_NN -RRB-_-RRB- subsets_NNS was_VBD higher_JJR than_IN -LRB-_-LRB- k_NN -RRB-_-RRB- ._.
+An_DT efficient_JJ mining_NN methodology_NN for_IN Weighted_JJ Association_NN Rules_NNS -LRB-_-LRB- WAR_NN -RRB-_-RRB- is_VBZ proposed_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT Numerical_JJ attribute_NN was_VBD assigned_VBN for_IN each_DT item_NN where_WRB the_DT weight_NN of_IN the_DT item_NN was_VBD defined_VBN as_IN part_NN of_IN a_DT particular_JJ weight_NN domain_NN ._.
+For_IN example_NN ,_, soda_NN -LRB-_-LRB- 4,6_CD -RRB-_-RRB- snack_NN -LRB-_-LRB- 3,5_CD -RRB-_-RRB- means_VBZ that_IN if_IN a_DT customer_NN purchase_NN

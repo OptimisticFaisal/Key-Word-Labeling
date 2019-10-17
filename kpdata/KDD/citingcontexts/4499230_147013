@@ -1,0 +1,4 @@
+erent_JJ values_NNS of_IN h._NN Smaller_JJR values_NNS of_IN -LRB-_-LRB- the_DT bandwidth_NN -RRB-_-RRB- h_NN result_NN in_IN less_JJR smoothing_NN ;_: larger_JJR values_NNS result_VBP in_IN more_JJR smoothing_NN ._.
+The_DT bandwidth_NN of_IN h_NN =_JJ 1.2_CD ,_, calculated_VBN using_VBG least_JJS squares_NNS cross-validation_NN -LRB-_-LRB- see_VB =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, is_VBZ optimal_JJ in_IN this_DT setting_NN ._.
+This_DT follows_VBZ from_IN a_DT general_JJ theorem_NN relating_VBG the_DT optimal_JJ bandwidth_NN to_TO the_DT standard_JJ deviation_NN and_CC sample_NN size_NN ._.
+The_DT point_NN labels_NNS obtained_VBN by_IN our_PRP$ algorithm_NN for_IN h_NN =_JJ 1.2_CD are_VBP

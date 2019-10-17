@@ -1,0 +1,3 @@
+emsets_NNS for_IN a_DT given_VBN dataset_NN D_NN and_CC support_NN threshold_NN σ_NN ._.
+Indeed_RB ,_, in_IN some_DT cases_NNS setting_VBG σ_NN too_RB small_JJ could_MD yield_VB a_DT number_NN of_IN frequent_JJ itemsets_NNS impractically_RB large_JJ ,_, possibly_RB exponential_JJ in_IN the_DT dataset_NN size_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, while_IN setting_VBG σ_NN too_RB big_JJ could_MD yield_VB very_RB few_JJ or_CC no_DT frequent_JJ itemsets_NNS ._.
+⋆_NNP This_NNP work_NN was_VBD supported_VBN in_IN part_NN by_IN MIUR_NNP of_IN Italy_NNP under_IN project_NN MAINSTREAM_NNP ,_, and_CC by_IN the_DT EU_NNP under_IN the_DT EU\/IST_NNP Project_NNP 15964_CD AEOLUS_NNS

@@ -1,0 +1,4 @@
+stick_NN to_TO certain_JJ thresholds_NNS ,_, reflecting_VBG the_DT boundaries_NNS of_IN halfspaces_NNS ._.
+2.3_CD Regression_NN Analysis_NN A_NN task_NN very_RB similar_JJ to_TO the_DT one_NN tackled_VBN in_IN this_DT paper_NN is_VBZ linear_JJ and_CC multiple_JJ regression_NN analysis_NN -LRB-_-LRB- e.g._FW cf._VBP =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: for_IN an_DT overview_NN -RRB-_-RRB- ._.
+The_DT general_JJ purpose_NN of_IN linear_JJ regression_NN is_VBZ to_TO learn_VB a_DT linear_JJ relationship_NN between_IN a_DT ``_`` predictor_NN ''_'' variable_NN and_CC a_DT ``_`` response_NN ''_'' variable_NN ._.
+Multiple_JJ regression_NN extends_VBZ this_DT task_NN by_IN allowin_NN

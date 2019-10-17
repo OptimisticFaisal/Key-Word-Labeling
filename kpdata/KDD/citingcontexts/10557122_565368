@@ -1,0 +1,3 @@
+es_NNS or_CC classes_NNS are_VBP ordered_VBN or_CC the_DT feature_NN values_NNS are_VBP ranked_VBN across_IN instances_NNS -LRB-_-LRB- 8_CD ,_, 13_CD ,_, 14_CD -RRB-_-RRB- ._.
+These_DT types_NNS of_IN formulations_NNS are_VBP pertinent_JJ in_IN applications_NNS such_JJ as_IN recommender_NN systems_NNS or_CC information_NN retrieval_NN =_JJ -_: =[_NN 6_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB the_DT goal_NN is_VBZ to_TO learn_VB and_CC mine_VB a_DT ranking_NN or_CC to_TO infer_VB total_JJ orders_NNS from_IN given_VBN preferences_NNS ._.
+In_IN our_PRP$ case_NN ,_, features_NNS can_MD be_VB ranked_VBN within_IN an_DT instance_NN and_CC the_DT goal_NN is_VBZ to_TO use_VB ordinal_JJ comparisons_NNS as_IN de_IN

@@ -1,0 +1,4 @@
+memory_NN bottleneck_NN of_IN around_IN n_NN =_JJ 5000_CD ._.
+These_DT preliminary_JJ results_NNS indicate_VBP that_IN our_PRP$ method_NN can_MD be_VB effective_JJ on_IN larger_JJR data_NNS sets_NNS ._.
+In_IN ongoing_JJ work_NN ,_, we_PRP are_VBP comparing_VBG PC_NN to_TO scalable_JJ MDS_NN methods_NNS like_IN FastMap_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Metric_NNP Map_NN -LRB-_-LRB- 37_CD -RRB-_-RRB- ,_, Landmark_NNP MDS_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- and_CC Pivot-MDS_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- that_WDT sacrifice_VBP quality_NN -LRB-_-LRB- by_IN reducing_VBG the_DT number_NN of_IN ``_`` pivot_JJ ''_'' or_CC ``_`` landmark_JJ ''_'' points_NNS supplied_VBN to_TO the_DT MDS_NN routine_NN -RRB-_-RRB- for_IN speed_NN ._.
+Preliminary_JJ experiments_NNS indic_JJ

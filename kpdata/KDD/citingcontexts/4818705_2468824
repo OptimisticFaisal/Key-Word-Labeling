@@ -1,0 +1,5 @@
+PAA_NN ._.
+The_DT window_NN size_NN and_CC the_DT alphabet_NN size_NN create_VBP a_DT tradeoff_NN between_IN efficiency_NN and_CC approximation_NN accuracy_NN ._.
+The_DT choice_NN of_IN these_DT parameters_NNS has_VBZ been_VBN analyzed_VBN in_IN the_DT context_NN of_IN temporal_JJ rule_NN mining_NN in_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Different_JJ methods_NNS for_IN model_NN selection_NN are_VBP tried_VBN and_CC judged_VBN by_IN the_DT support_NN and_CC confidence_NN of_IN the_DT resulting_VBG rules_NNS ._.
+Rules_NNS are_VBP ,_, however_RB ,_, typically_RB created_VBN to_TO gain_VB a_DT deeper_JJR understanding_NN of_IN the_DT data_NNS and_CC

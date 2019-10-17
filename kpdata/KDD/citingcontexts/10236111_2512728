@@ -1,0 +1,3 @@
+een_FW SNPs_FW and_CC the_DT phenotypes_NNS of_IN interest_NN ,_, among_IN which_WDT ANOVA_NN -LRB-_-LRB- analysis_NN of_IN variance_NN -RRB-_-RRB- test_NN is_VBZ one_CD of_IN the_DT standard_JJ statistic_NN methods_NNS and_CC has_VBZ been_VBN routinely_RB used_VBN in_IN quantitative_JJ phenotype_NN association_NN study_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT goal_NN of_IN ANOVA_NNP test_NN is_VBZ to_TO determine_VB whether_IN the_DT group_NN means_NNS are_VBP significantly_RB different_JJ after_IN accounting_VBG for_IN the_DT variances_NNS within_IN groups_NNS ._.
+It_PRP accomplishes_VBZ the_DT comparison_NN by_IN decomposing_VBG the_DT total_NN v_LS

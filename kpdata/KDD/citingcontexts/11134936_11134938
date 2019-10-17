@@ -1,0 +1,4 @@
+ese_NN approaches_NNS is_VBZ that_IN more_JJR frequent_JJ tags_NNS describe_VBP more_RBR general_JJ concepts_NNS ._.
+However_RB ,_, frequency-based_JJ methods_NNS can_MD not_RB distinguish_VB between_IN more_RBR general_JJ and_CC more_RBR popular_JJ concepts_NNS ._.
+In_IN our_PRP$ previous_JJ work_NN ,_, sig_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP overcame_VBD this_DT problem_NN by_IN using_VBG user-specified_JJ relations_NNS ,_, extracted_VBN from_IN personal_JJ hierarchies_NNS ._.
+Nevertheless_RB ,_, it_PRP ignored_VBD other_JJ evidence_NN ,_, e.g._FW ,_, structure_NN of_IN hierarchies_NNS and_CC tags_NNS ,_, which_WDT potentially_RB a_DT

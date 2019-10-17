@@ -1,0 +1,4 @@
+stems_VBZ ._.
+In_IN this_DT system_NN ,_, each_DT user_NN records_VBZ their_PRP$ opinions_NNS -LRB-_-LRB- annotations_NNS -RRB-_-RRB- of_IN documents_NNS they_PRP read_VBP ,_, and_CC these_DT annotations_NNS are_VBP accessed_VBN by_IN others_NNS '_POS filters_NNS ._.
+GroupLens_NN 4_CD -LRB-_-LRB- 25_CD -RRB-_-RRB- ,_, Ringo_NNP -LRB-_-LRB- 28_CD -RRB-_-RRB- and_CC Video_NNP Recommender_NNP =_SYM -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP the_DT earliest_JJS fully_RB automatic_JJ recommender_NN systems_NNS ,_, which_WDT provide_VBP recommendations_NNS of_IN news_NN ,_, music_NN ,_, and_CC movies_NNS ._.
+PHOAKS_NN -LRB-_-LRB- People_NNS Helping_VBG One_CD Another_DT Know_NNP Stuff_NN -RRB-_-RRB- -LRB-_-LRB- 29_CD -RRB-_-RRB- crawls_VBZ web_NN messages_NNS and_CC extracts_NNS re_VBP

@@ -1,0 +1,3 @@
+eled_JJ instances_NNS ,_, and_CC the_DT rest_NN are_VBP unlabeled_JJ ._.
+Pairs_NNS of_IN vertices_NNS are_VBP connected_VBN by_IN weighted_JJ edges_NNS denoting_VBG the_DT similarity_NN between_IN the_DT pair_NN ._.
+Traditionally_RB ,_, Markov_NNP random_JJ walks_VBZ -LRB-_-LRB- Szummer_NNP and_CC Jaakkola_NNP ,_, 2001_CD ;_: =_JJ -_: =_JJ Baluja_FW et_FW al._FW ,_, 2008_CD -_: =--RRB-_NN or_CC optimization_NN of_IN a_DT loss_NN function_NN based_VBN on_IN smoothness_NN properties_NNS of_IN the_DT graph_NN -LRB-_-LRB- Corduneanu_NNP and_CC Jaakkola_NNP ,_, 2003_CD ;_: Zhu_NNP et_FW al._FW ,_, 2003_CD ;_: Subramanya_NNP and_CC Bilmes_NNP ,_, 2008_CD ,_, inter_FW alia_FW -RRB-_-RRB- are_VBP performed_VBN to_TO propagate_VB l_NN

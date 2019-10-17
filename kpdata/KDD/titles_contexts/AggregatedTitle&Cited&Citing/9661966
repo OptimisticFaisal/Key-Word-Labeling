@@ -1,0 +1,4 @@
+Mining_NNP discrete_JJ patterns_NNS via_IN binary_JJ matrix_NN factorization_NN
+y_NN cluster_NN --_: say_VBP when_WRB the_DT entries_NNS in_IN R_NN ,_, U_NN and_CC V_NN are_VBP all_DT binary_JJ --_: matrix_NN factorization_NN provides_VBZ a_DT suitable_JJ framework_NN for_IN bi-clustering_NN and_CC pattern_NN discovery_NN of_IN gene-expression_NN data_NNS -LRB-_-LRB- Zhang_NNP et_FW al._FW ,_, 2009_CD ,_, =_JJ -_: =_JJ Shen_FW et_FW al._FW ,_, 2009_CD -_: =--RRB-_NN ._.
+An_DT example_NN of_IN the_DT use_NN of_IN non-binary_JJ ordinal_JJ values_NNS in_IN R_NN is_VBZ collaborative_JJ filtering_VBG ._.
+In_IN this_DT application_NN ,_, the_DT rows_NNS of_IN R_NN correspond_VBP to_TO items_NNS ,_, its_PRP$ columns_NNS represent_VBP viewers_NNS or_CC users_NNS ,_, and_CC its_PRP$ entries_NNS r_NN

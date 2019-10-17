@@ -1,0 +1,4 @@
+number_NN may_MD be_VB based_VBN on_IN domain_NN knowledge_NN about_IN the_DT network_NN or_CC automatically_RB determined_VBN by_IN an_DT algorithm_NN which_WDT certain_JJ optimization_NN criterion_NN or_CC a_DT heuristic_NN measure_NN ._.
+The_DT Organization_NNP Risk_NNP Analyzer_NNP -LRB-_-LRB- ORA_NNP -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: picks_VBZ the_DT number_NN that_WDT yields_VBZ the_DT largest_JJS decrease_NN in_IN the_DT sum_NN of_IN edge-betweenness_NN per_IN cluster_NN ._.
+We_PRP use_VBP ORA_NNP in_IN this_DT work_NN ._.
+Figure_NN 1_CD shows_VBZ embedded_JJ clusters_NNS in_IN a_DT network_NN where_WRB ORA_NNP selects_VBZ 27_CD as_IN the_DT number_NN

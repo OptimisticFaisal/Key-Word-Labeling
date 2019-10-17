@@ -1,0 +1,4 @@
+operation_NN becomes_VBZ stable_JJ ._.
+Upon_IN completion_NN ,_, only_RB a_DT weaker_JJR notion_NN holds_VBZ ,_, which_WDT should_MD include_VB at_IN least_JJS causal_JJ consistency_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, a_DT basic_JJ condition_NN that_WDT has_VBZ proven_VBN to_TO be_VB important_JJ in_IN various_JJ applications_NNS =_JJ -_: =[_NN 1_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Whereas_IN the_DT client_NN invokes_VBZ operations_NNS synchronously_RB ,_, stability_NN notifications_NNS occur_VBP asynchronously_RB ;_: the_DT client_NN can_MD invoke_VB more_JJR operations_NNS while_IN waiting_VBG for_IN a_DT notification_NN on_IN a_DT previous_JJ operation_NN ._.
+Fai_NN

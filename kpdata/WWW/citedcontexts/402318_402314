@@ -1,0 +1,4 @@
+popular_JJ web_NN pages_NNS with_IN extremely_RB high_JJ request_NN rates_NNS -RRB-_-RRB- ,_, to_TO equalize_VB the_DT load_NN is_VBZ absolutely_RB non-trivial_JJ ._.
+In_IN a_DT partial-replication_JJ GDWS_NN system_NN ,_, only_RB a_DT selected_VBN subset_NN of_IN the_DT web_NN documents_NNS are_VBP replicated_VBN =_JJ -_: =[_NN 20_CD ,_, 40_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Partial-replication_NN helps_VBZ diminish_VB possible_JJ disk_NN wastage_NN and_CC remove_VB possible_JJ hot_JJ spots_NNS ._.
+Since_IN websites_NNS today_NN are_VBP increasing_VBG in_IN both_CC popularity_NN and_CC size_NN ,_, it_PRP is_VBZ believed_VBN that_IN partial-replication_NN GDWS_NN

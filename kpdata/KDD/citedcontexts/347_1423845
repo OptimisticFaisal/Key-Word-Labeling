@@ -1,0 +1,4 @@
+of_IN large_JJ number_NN of_IN insignificant\/uninteresting_NN patterns_NNS from_IN the_DT beginning_NN and_CC enables_VBZ a_DT much_RB more_RBR efficient_JJ solution_NN ._.
+Another_DT approach_NN to_TO reduce_VB redundancy_NN is_VBZ to_TO return_VB only_RB closed_VBD frequent_JJ itemset_NN =_JJ -_: =[_NN 19_CD ,_, 20_CD ,_, 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Intuitively_RB ,_, an_DT itemset_NN is_VBZ a_DT closed_JJ itemset_NN if_IN all_DT of_IN its_PRP$ supersets_NNS have_VBP smaller_JJR support_NN ._.
+While_IN the_DT set_NN of_IN frequent_JJ closed_JJ itemsets_NNS is_VBZ typically_RB much_RB smaller_JJR ,_, it_PRP has_VBZ been_VBN proved_VBN that_IN all_DT frequent_JJ it_PRP

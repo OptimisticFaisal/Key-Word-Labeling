@@ -1,0 +1,5 @@
+emantics_NNS ;_: 2_LS -RRB-_-RRB- ordering_VBG the_DT clusters_NNS ;_: 3_LS -RRB-_-RRB- ordering_VBG the_DT categorical_JJ values_NNS within_IN each_DT cluster_NN ._.
+As_IN all_PDT the_DT variables_NNS for_IN our_PRP$ application_NN are_VBP numeric_JJ ,_, the_DT technique_NN described_VBN in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- is_VBZ not_RB applicable_JJ ._.
+In_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, an_DT ordering_VBG algorithm_NN is_VBZ proposed_VBN for_IN numerical_JJ variables_NNS ._.
+It_PRP shows_VBZ that_IN the_DT best_JJS arrangement_NN of_IN coordinates\/variables_NNS is_VBZ NP-complete_JJ ._.
+Thus_RB ,_, some_DT heuristic_NN algorithms_NNS are_VBP proposed_VBN for_IN the_DT variable_NN a_DT

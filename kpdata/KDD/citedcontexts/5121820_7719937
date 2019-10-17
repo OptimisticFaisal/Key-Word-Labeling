@@ -1,0 +1,4 @@
+vering_VBG multiple_JJ clusterings_NNS by_IN providing_VBG appropriate_JJ constraints_NNS ._.
+Must-link_JJ and_CC cannot-link_JJ constraints_NNS have_VBP been_VBN extensively_RB used_VBN for_IN semisupervised_JJ clustering_NN -LRB-_-LRB- 21_CD ,_, 22_CD ,_, 2_CD -RRB-_-RRB- ._.
+Recently_RB ,_, Davidson_NNP et_FW al._FW =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD an_DT efficient_JJ incremental_JJ algorithm_NN for_IN must-link_JJ and_CC cannot-link_JJ constraints_NNS ._.
+An_DT alternative_JJ approach_NN to_TO the_DT problem_NN is_VBZ taken_VBN by_IN -LRB-_-LRB- 1,10,11_CD -RRB-_-RRB- where_WRB it_PRP is_VBZ assumed_VBN that_IN a_DT clustering_NN of_IN the_DT data_NNS i_LS

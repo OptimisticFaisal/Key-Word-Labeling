@@ -1,0 +1,6 @@
+or_CC layout_NN ._.
+In_IN implementation_NN ,_, our_PRP$ results_NNS are_VBP laid_VBN out_RP using_VBG either_CC force-directed_JJ FR_NN method_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- or_CC GEM_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+Node_NN Clustering_NN ._.
+Brandes_NNP et_FW al._FW -LRB-_-LRB- 8_CD -RRB-_-RRB- survey_NN a_DT variety_NN of_IN clustering_NN approaches_NNS ._.
+Wu_NNP et_FW al._FW =_SYM -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: hierarchically_RB clustered_VBN nodes_NNS by_IN their_PRP$ shortest-path_JJ distance_NN from_IN hub_NN nodes_NNS -LRB-_-LRB- chosen_VBN by_IN min_NN BC_NN or_CC max_NN degree_NN -RRB-_-RRB- for_IN data_NNS mining_VBG and_CC visualizing_VBG power-law_NN graphs_NNS ._.
+Kumar_NNP and_CC Garland_NNP -LRB-_-LRB- 23_CD -RRB-_-RRB- used_VBD clustering_NN

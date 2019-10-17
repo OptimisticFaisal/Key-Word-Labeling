@@ -1,0 +1,3 @@
+opy_JJ model_NN vs._IN Markov_NNP model_NN MAE_NN Comparison_NN ItemCF_NN 1.13_CD Maximum_NNP Entropy_NNP 1.08_CD Figure_NNP 4_CD :_: Recommendation_NN accuracy_NN :_: maximum_NN entropy_NN model_NN vs._CC Item-Based_JJ CF_NN collaborative_JJ filtering_VBG algorithm_NN -LRB-_-LRB- Item-based_JJ CF_NN -RRB-_-RRB- =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: to_TO generate_VB predictions_NNS for_IN users_NNS in_IN test_NN data_NNS for_IN comparison_NN ._.
+For_IN each_DT user_NN we_PRP took_VBD 50_CD %_NN of_IN the_DT data_NNS as_IN training_NN data_NNS ,_, and_CC the_DT rest_NN as_IN test_NN data_NNS ._.
+For_IN Item-based_JJ CF_NN ,_, we_PRP tried_VBD different_JJ neighbor_NN sizes_NNS

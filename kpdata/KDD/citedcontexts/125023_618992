@@ -1,0 +1,4 @@
+t_NN least_RBS known_JJ misclassification_NN costs_NNS ._.
+Moreover_RB ,_, classifiers_NNS and_CC optimal_JJ abstention_NN thresholds_NNS can_MD not_RB be_VB compared_VBN directly_RB for_IN a_DT range_NN of_IN possible_JJ cost_NN matrices_NNS ,_, as_IN it_PRP is_VBZ usually_RB done_VBN in_IN cost_NN curves_NNS -LRB-_-LRB- =_JJ -_: =_JJ Drummond_NNP &_CC Holte_NNP ,_, 2000_CD -_: =--RRB-_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP an_DT alternative_JJ approach_NN to_TO ROC-based_JJ analysis_NN of_IN abstaining_VBG classifiers_NNS based_VBN on_IN cost_NN curves_NNS ._.
+The_DT advantage_NN of_IN cost_NN curves_NNS is_VBZ that_IN costrelated_VBN questions_NNS can_MD be_VB answered_VBN mo_NN

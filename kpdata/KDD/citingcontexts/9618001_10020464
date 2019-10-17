@@ -1,0 +1,6 @@
+t_NN a_DT network_NN intrusionagainst_JJ particular_JJ networks_NNS -LRB-_-LRB- 27_CD -RRB-_-RRB- ._.
+Moshchuketal_JJ ._.
+useVMstoanalyzedownloadedtrojanexecutables_NNS ,_, relying_VBG on_IN third-party_JJ anti-spyware_JJ tools_NNS to_TO detect_VB whether_IN VMswereinfectedbyexecutables_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Wangetal.detectdrive-by_JJ exploitsbyusingbehavioraldetection_NN -LRB-_-LRB- monitoringanomalousstate_NN changesintheVM_NN -RRB-_-RRB- aswellasdetectingexploitsofknownvulnerabilities_NNS -LRB-_-LRB- 25_CD -RRB-_-RRB- ._.
+Provosetal_NNP ._.
+monitorVMstatechangesandusemultiple_NN

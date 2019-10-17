@@ -1,0 +1,5 @@
+amount_NN of_IN main_JJ memory_NN ._.
+Therefore_RB ,_, we_PRP resort_VBP to_TO a_DT very_RB space-efficient_JJ hash-based_JJ approximation_NN scheme_NN to_TO track_VB entity_NN frequencies_NNS ._.
+We_PRP employ_VBP a_DT sketching_VBG technique_NN called_VBN Count-Min_NNP Sketch_NNP -LRB-_-LRB- CM-Sketch_JJ -RRB-_-RRB- =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT CM-Sketch_NN is_VBZ a_DT 2-dimensional_JJ array_NN of_IN counters_NNS with_IN width_NN w_NN ′_NN and_CC depth_NN d_NN ′_NN :_: f_count_NN -LRB-_-LRB- 1_CD ,_, 1_CD -RRB-_-RRB- ..._: f_count_NN -LRB-_-LRB- d_FW ′_FW ,_, w_FW ′_FW -RRB-_-RRB- and_CC d_FW ′_FW hash_JJ functions_NNS h1_NN ,_, ..._: ,_, hd_FW ′_FW :_: E_NN ↦_FW →_FW -LCB-_-LRB- 1_CD ,_, ..._: ,_, w_FW ′_FW -RCB-_-RRB- ._.
+All_DT counters_NNS are_VBP set_VBN to_TO 0_CD in_IN

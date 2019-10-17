@@ -1,0 +1,6 @@
+nt_NN descent_NN ._.
+With_IN learning_VBG rate_NN α_NN and_CC regularization_NN λΘ_NN ._.
+5_CD ._.
+FACTORIZATION_NNP MODELS_NNP Factorization_NNP models_NNS are_VBP a_DT very_RB successful_JJ model_NN class_NN for_IN recommender_NN systems_NNS ._.
+E.g._NN many_JJ of_IN the_DT best_JJS performing_VBG models_NNS =_JJ -_: =[_NN 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: on_IN the_DT Netflix_NNP Challenge_NNP 2_CD for_IN rating_NN prediction_NN are_VBP based_VBN on_IN matrix_NN factorization_NN ._.
+Also_RB for_IN the_DT related_JJ task_NN of_IN item_NN prediction_NN ,_, factorization_NN models_NNS are_VBP known_VBN -LRB-_-LRB- 20_CD ,_, 6_CD ,_, 16_CD ,_, 17_CD -RRB-_-RRB- to_TO outperform_VB models_NNS l_NN

@@ -1,0 +1,4 @@
+s_NN with_IN replacement_NN to_TO construct_VB a_DT collection_NN of_IN different_JJ training_NN sets_NNS ._.
+The_DT resulting_VBG classiers_NNS are_VBP combined_VBN with_IN voting_NN tosnd_VBD those_DT concepts_NNS that_WDT are_VBP most_RBS often_RB reinforced_VBN in_IN the_DT samples_NNS ._.
+Boosting_VBG -LRB-_-LRB- =_JJ -_: =_JJ 20_CD -_: =-]_CD ,_, and_CC its_PRP$ variants_NNS such_JJ as_IN AdaBoost_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC Arcing_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, uses_VBZ a_DT weighted_JJ resampling_NN technique_NN ,_, creating_VBG a_DT series_NN of_IN classiers_NNS in_IN which_WDT later_JJ individuals_NNS focus_VBP on_IN classifying_VBG the_DT more_JJR dicult_NN points_NNS ._.
+S_NN

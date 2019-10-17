@@ -1,0 +1,5 @@
+ogy_NN ,_, which_WDT can_MD be_VB either_CC Wired_VBN or_CC Wireless_NNP ._.
+The_DT second_JJ factor_NN comprehends_VBZ quality_NN items_NNS specifying_VBG the_DT performance_NN of_IN a_DT network_NN ._.
+Common_JJ performance_NN metrics_NNS include_VBP Bandwidth_NN ,_, Latency_NN ,_, Loss_NN and_CC Jitter_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Bandwidth_NN refers_VBZ to_TO the_DT rate_NN of_IN data_NNS transfer_NN ;_: Latency_NN refers_VBZ to_TO the_DT total_JJ time_NN taken_VBN to_TO deliver_VB a_DT message_NN ;_: Loss_NN represents_VBZ the_DT rate_NN of_IN message_NN units_NNS lost_VBN during_IN the_DT delivery_NN of_IN a_DT message_NN ._.
+Finally_RB ,_,

@@ -1,0 +1,4 @@
+user_NN data_NNS -LRB-_-LRB- 18_CD ,_, 12_CD ,_, 10_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN ,_, we_PRP examine_VBP the_DT potential_NN for_IN organising_VBG the_DT blogosphere_NN using_VBG similar_JJ techniques_NNS ._.
+A_DT key_JJ decision_NN is_VBZ how_WRB often_RB the_DT neighborhood_NN set_NN or_CC clustering_NN is_VBZ calculated_VBN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN a_DT domain_NN where_WRB the_DT same_JJ users_NNS remain_VBP similar_JJ over_IN time_NN ,_, neighbor_NN selection_NN can_MD be_VB carried_VBN out_RP infrequently_RB and_CC recommendations_NNS can_MD be_VB made_VBN using_VBG a_DT selection_NN and_CC ranking_JJ policy_NN on_IN new_JJ data_NNS from_IN t_NN

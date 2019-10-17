@@ -1,0 +1,4 @@
+from_IN the_DT support_NN count_NN ._.
+In_IN other_JJ words_NNS ,_, this_DT is_VBZ an_DT all_DT or_CC nothing_NN counting_NN ._.
+Some_DT work_NN has_VBZ addressed_VBN this_DT issue_NN ,_, including_VBG Fault-Tolerant_JJ Frequent_JJ Pattern_NN -LRB-_-LRB- FTFP_NN -RRB-_-RRB- -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, and_CC Error-tolerant_JJ Itemsets_NNS -LRB-_-LRB- ETI_NN -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: of_IN two_CD types_NNS -LRB-_-LRB- strong_JJ and_CC weak_JJ -RRB-_-RRB- ._.
+The_DT problem_NN with_IN this_DT approach_NN is_VBZ that_IN getting_VBG away_RB from_IN having_VBG to_TO pre-specify_JJ support_NN thresholds_NNS led_VBD to_TO getting_VBG trapped_VBN in_IN another_DT requirement_NN :_: having_VBG to_TO specify_VB tole_NN

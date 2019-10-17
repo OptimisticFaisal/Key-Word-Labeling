@@ -1,0 +1,5 @@
+al_FW query_FW terms_NNS that_WDT could_MD provide_VB useful_JJ clues_NNS for_IN determining_VBG similarity_NN between_IN queries_NNS ._.
+Feedback-based_JJ ._.
+This_DT technique_NN uses_VBZ the_DT information_NN contained_VBN in_IN ``_`` clickthrough_JJ data_NNS ''_'' for_IN clustering_NN queries_NNS -LRB-_-LRB- =_JJ -_: =_JJ Beeferman_NNP and_CC Berger_NNP ,_, 2000_CD -_: =--RRB-_NN ._.
+Previously_RB submitted_VBN queries_NNS in_IN transaction_NN logs_NNS are_VBP analyzed_VBN to_TO determine_VB the_DT documents_NNS users_NNS selected_VBN for_IN a_DT given_VBN query_NN and_CC these_DT are_VBP treated_VBN as_IN a_DT measure_NN of_IN similarity_NN ._.
+The_DT underlying_JJ principle_NN

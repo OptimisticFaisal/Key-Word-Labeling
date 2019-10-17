@@ -1,0 +1,4 @@
+representations_NNS for_IN frequent_JJ itemsets_NNS -LRB-_-LRB- 2,3_CD -RRB-_-RRB- has_VBZ been_VBN proved_VBN useful_JJ not_RB only_RB for_IN mining_NN frequent_JJ itemsets_NNS and_CC frequent_JJ association_NN rules_NNS from_IN dense_JJ databases_NNS but_CC also_RB for_IN sophisticated_JJ post-processing_NN =_JJ -_: =[_NN 1,15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Indeed_RB ,_, one_CD of_IN the_DT problems_NNS in_IN association_NN rule_NN mining_NN from_IN real-life_JJ data_NNS is_VBZ the_DT huge_JJ number_NN of_IN extracted_VBN rules_NNS ._.
+However_RB ,_, many_JJ of_IN the_DT rules_NNS are_VBP redundant_JJ and_CC might_MD be_VB useless_JJ ._.
+Thus_RB ,_, a_DT condensed_JJ rep_NN

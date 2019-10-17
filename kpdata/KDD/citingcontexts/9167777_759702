@@ -1,0 +1,4 @@
+ill_RB too_RB numerous_JJ to_TO be_VB very_RB useful_JJ ._.
+Even_RB the_DT δcover_NN method_NN easily_RB generates_VBZ thousands_NNS of_IN itemset_NN patterns_NNS ._.
+At_IN the_DT same_JJ time_NN ,_, methods_NNS like_IN top-k_NN frequent_JJ patterns_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, top-k_NN redundancy-aware_NN patterns_NNS =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC error-tolerant_JJ patterns_NNS -LRB-_-LRB- 29_CD -RRB-_-RRB- trytoranktheimportanceofindividualpatterns_NNS ,_, orrevisethefrequencyconcepttoreducethenumberoffrequentpatterns_NNS ._.
+However_RB ,_, these_DT methods_NNS generally_RB do_VBP not_RB provide_VB a_DT good_JJ rep_NN

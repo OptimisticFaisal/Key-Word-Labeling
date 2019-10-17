@@ -1,0 +1,4 @@
+the_DT returned_VBN value_NN is_VBZ true_JJ ._.
+If_IN a_DT feature_NN function_NN is_VBZ always_RB true_JJ or_CC false_JJ ,_, it_PRP has_VBZ no_DT effect_NN on_IN the_DT probability_NN ;_: and_CC if_IN some_DT feature_NN functions_NNS appear_VBP sparsely_RB in_IN the_DT training_NN set_NN ,_, smoothing_VBG techniques_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB used_VBN to_TO avoid_VB over-fitting_JJ ._.
+Here_RB ,_, we_PRP use_VBP the_DT spherical_JJ Gaussian_NNP prior_RB to_TO penalize_VB the_DT log-likelihood_JJ function_NN as_IN in_IN section_NN 3.3_CD ._.
+499Research_NNP Track_NNP Paper_NNP 5.3_CD Global_NNP Features_NNPS As_IN described_VBN in_IN th_DT

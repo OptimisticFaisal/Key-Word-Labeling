@@ -1,0 +1,4 @@
+zed_VBN in_IN these_DT studies_NNS ._.
+Generally_RB speaking_VBG ,_, a_DT user_NN may_MD not_RB only_RB be_VB interested_JJ in_IN a_DT small_JJ set_NN of_IN patterns_NNS ,_, but_CC also_RB patterns_NNS that_WDT are_VBP significantly_RB different_JJ ._.
+A_DT recent_JJ approach_NN proposed_VBN by_IN Afrati_FW et_FW al._FW =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ K_NN itemsets_NNS to_TO cover_VB a_DT collection_NN of_IN frequent_JJ itemsets_NNS ._.
+Their_PRP$ solution_NN is_VBZ interesting_JJ but_CC leaves_VBZ the_DT support_NN integration_NN issue_NN open_JJ :_: It_PRP is_VBZ unknown_JJ how_WRB to_TO cover_VB the_DT support_NN information_NN in_IN a_DT summar_NN

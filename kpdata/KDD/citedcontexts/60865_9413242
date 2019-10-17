@@ -1,0 +1,3 @@
+ed_VBN model_NN is_VBZ used_VBN as_IN the_DT initial_JJ weight_NN vector_NN to_TO optimize_VB for_IN precision@k_NN ._.
+We_PRP can_MD see_VB from_IN Table_NNP 3_CD that_IN our_PRP$ Latent_JJ Structural_NNP SVM_NNP approach_NN performs_VBZ better_JJR than_IN the_DT Ranking_NNP SVM_NNP -LRB-_-LRB- Herbrich_NNP et_FW al._FW ,_, 2000_CD ;_: =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =--RRB-_NN on_IN precision@1,3,5,10,_NN one_CD of_IN the_DT stronger_JJR baselines_NNS in_IN the_DT LETOR_NN 3.0_CD benchmark_NN ._.
+We_PRP also_RB essentially_RB tie_VB with_IN ListNet_NNP -LRB-_-LRB- Cao_NNP et_FW al._FW ,_, 2007_CD -RRB-_-RRB- ,_, one_CD of_IN the_DT best_JJS overall_JJ ranking_NN method_NN in_IN the_DT LETOR_NN 3.0_CD benc_NN

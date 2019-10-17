@@ -1,0 +1,4 @@
+ly_RB ._.
+Indeed_RB ,_, many_JJ researchers_NNS dealing_VBG with_IN hierarchical_JJ clustering_NN have_VBP felt_VBN the_DT necessity_NN to_TO optimize_VB the_DT orientation_NN of_IN the_DT dendrogram_NN ;_: thus_RB various_JJ local_JJ and_CC greedy_JJ rules_NNS were_VBD suggested_VBN ;_: see_VB ,_, e.g._FW ,_, =_JJ -_: =[_NN 10_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB we_PRP give_VBP a_DT rigorous_JJ formulation_NN for_IN this_DT problem_NN coupled_VBN with_IN a_DT satisfactory_JJ optimization_NN algorithm_NN ._.
+A_DT B_NN D_NN C_NN F_NN E_NN H_NN G_NN A_NN B_NN C_NN D_NN E_NN F_NN G_NN H_NN -LRB-_-LRB- a_NN -RRB-_-RRB- -LRB-_-LRB- b_NN -RRB-_-RRB- D_NN C_NN B_NN A_NN H_NN G_NN F_NN E_NN A_NN B_NN C_NN D_NN E_NN F_NN G_NN H_NN -LRB-_-LRB- c_NN -RRB-_-RRB- -LRB-_-LRB- d_NN -RRB-_-RRB- Figure_NNP 5_CD :_: -LRB-_-LRB- a_LS -RRB-_-RRB-

@@ -1,0 +1,3 @@
+n_NN the_DT data_NNS ._.
+If_IN is_VBZ the_DT random_JJ variable_NN denoting_VBG the_DT cluster_NN assignments_NNS of_IN the_DT points_NNS ,_, and_CC is_VBZ the_DT random_JJ variable_NN denoting_VBG the_DT underlying_VBG class_NN labels_NNS on_IN the_DT points_NNS ,_, then_RB the_DT NMI_NNP measure_NN is_VBZ defined_VBN as_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: :_: q_NN 0_CD -RRB-_-RRB- -LRB-_-LRB- 0_CD P_NN o_NN 0_CD Y_NN 0_CD q_NN where_WRB is_VBZ the_DT mutual_JJ information_NN between_IN the_DT random_JJ variables_NNS and_CC 0_CD ,_, is_VBZ the_DT Shannon_NNP entropy_NN of_IN ,_, 0_CD q_NN and_CC is_VBZ the_DT conditional_JJ entropy_NN of_IN given_VBN ._.
+Pairwise_JJ F-measure_NN is_VBZ defined_VBN as_IN

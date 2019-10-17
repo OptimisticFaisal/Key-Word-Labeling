@@ -1,0 +1,3 @@
+of_IN sentiment_NN -LRB-_-LRB- Turney_NN ,_, 2002_CD ;_: Pang_NNP et_FW al._FW ,_, 2002_CD -RRB-_-RRB- where_WRB a_DT document_NN is_VBZ assumed_VBN to_TO have_VB only_RB a_DT single_JJ sentiment_NN ,_, thus_RB these_DT studies_NNS are_VBP not_RB applicable_JJ to_TO our_PRP$ goal_NN ._.
+Other_JJ work_NN -LRB-_-LRB- Subasic_NNP and_CC Huettner_NNP ,_, 2001_CD ;_: =_JJ -_: =_JJ Morinaga_NNP et_FW al._FW ,_, 2002_CD -_: =--RRB-_CD assigned_JJ sentiment_NN to_TO words_NNS ,_, but_CC they_PRP relied_VBP on_IN quantitative_JJ information_NN such_JJ as_IN the_DT frequencies_NNS of_IN word_NN associations_NNS or_CC statistical_JJ predictions_NNS of_IN favorability_NN ._.
+Automatic_NNP acquisition_NN of_IN sentiment_NN e_SYM

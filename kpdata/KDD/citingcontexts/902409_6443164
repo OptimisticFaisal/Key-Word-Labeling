@@ -1,0 +1,5 @@
+cer_NN Care_NNP Ontario_NNP We_PRP study_VBD 344_CD Stage_NNP III_NNP colon_NN cancer_NN patients_NNS at_IN CCO_NNP ,_, a_DT cancer_NN care_NN hospital_NN in_IN Sudbury_NNP ,_, Canada_NNP ._.
+The_DT source_NN of_IN structured_JJ patient_NN data_NNS is_VBZ OPIS_NNP ,_, an_DT oncology_JJ patient_NN relational_JJ database_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+OPIS_NNP contains_VBZ data_NNS about_IN patient_NN demographics_NNS ,_, staging_NN ,_, diagnosis_NN date_NN ,_, and_CC administration_NN of_IN drugs_NNS ._.
+However_RB ,_, OPIS_NN contains_VBZ no_DT reliable_JJ information_NN about_IN recurrence_NN ,_, the_DT most_RBS important_JJ outcome_NN ._.
+The_DT

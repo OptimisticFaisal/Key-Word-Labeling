@@ -1,0 +1,5 @@
+mpute_VB a_DT minimum_JJ cut_NN for_IN the_DT graph_NN ._.
+This_DT can_MD be_VB done_VBN using_VBG any_DT of_IN a_DT number_NN of_IN algorithms_NNS ,_, each_DT with_IN its_PRP$ own_JJ particular_JJ performance_NN characteristics_NNS -LRB-_-LRB- the_DT fastest_JJS alternative_NN is_VBZ the_DT push-relabel_JJ approach_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+If_IN p_NN is_VBZ 3_CD in_IN our_PRP$ particular_JJ example_NN ,_, then_RB the_DT minimum_JJ cut_NN is_VBZ shown_VBN above_IN in_IN Figure_NNP 8_CD ._.
+The_DT final_JJ step_NN is_VBZ to_TO then_RB use_VB the_DT cut_NN to_TO compute_VB the_DT approximate_JJ MIL_NN ._.
+Determining_VBG the_DT set_NN of_IN attributes_NNS is_VBZ imme_NN

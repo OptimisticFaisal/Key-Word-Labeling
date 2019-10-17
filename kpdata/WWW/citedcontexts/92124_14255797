@@ -1,0 +1,4 @@
+ld_RB clearly_RB yield_VB a_DT combination_NN of_IN the_DT OWA_NNP and_CC the_DT CWA_NNP ._.
+However_RB ,_, combining_VBG rules_NNS and_CC ontologies_NNS is_VBZ a_DT nontrivial_JJ task_NN ,_, since_IN a_DT naive_JJ combination_NN of_IN ontologies_NNS and_CC OWA-based_JJ rules_NNS is_VBZ already_RB undecidable_JJ =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN fact_NN ,_, formalisms_NNS for_IN rules_NNS and_CC formalisms_NNS for_IN ontologies_NNS differ_VBP substantially_RB on_IN how_WRB decidability_NN is_VBZ achieved_VBN ._.
+For_IN ontologies_NNS ,_, decidability_NN is_VBZ achieved_VBN by_IN specific_JJ syntactic_JJ restrictions_NNS on_IN the_DT a_DT

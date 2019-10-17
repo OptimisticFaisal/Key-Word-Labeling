@@ -1,0 +1,4 @@
+esp._RB ,_, quasi-cliques_NNS ._.
+In_IN many_JJ applications_NNS ,_, both_CC clique_NN and_CC quasi_FW clique_FW constraints_NNS are_VBP very_RB hard_JJ constraints_NNS and_CC may_MD cause_VB missing_VBG subtle_JJ ,_, but_CC interesting_JJ patterns_NNS ._.
+Different_JJ from_IN the_DT above_JJ methods_NNS ,_, =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: assumes_VBZ a_DT database_NN of_IN graphs_NNS with_IN unique_JJ node_NN identifiers_NNS ,_, so_IN that_DT graph_NN isomorphism_NN is_VBZ not_RB an_DT issue_NN ._.
+The_DT authors_NNS investigate_VBP the_DT problem_NN of_IN mining_NN all_DT closed_VBD frequent_JJ graphs_NNS with_IN edge_NN connectivity_NN a_DT

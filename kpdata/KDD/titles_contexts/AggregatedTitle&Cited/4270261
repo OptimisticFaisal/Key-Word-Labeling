@@ -1,0 +1,7 @@
+Enhanced_VBN max_NN margin_NN learning_VBG on_IN multimodal_JJ data_NNS mining_NN in_IN a_DT multimedia_NNS database_NN
+en_IN an_DT expression_NN image_NN -LRB-_-LRB- -RRB-_-RRB- 99_CD %_NN accuracy_NN -RRB-_-RRB- ,_, however_RB ,_, automatic_JJ annotation_NN turned_VBD out_RP to_TO be_VB a_DT much_RB more_RBR challenging_JJ task_NN ,_, and_CC even_RB finding_VBG an_DT intuitive_JJ ,_, objective_JJ evaluation_NN scheme_NN seems_VBZ to_TO be_VB nontrivial_JJ ._.
+=_SYM -_: =[_NN 52_CD -RRB-_-RRB- -_: =_SYM -_: argued_VBD that_IN the_DT pure_JJ visual_JJ feature_NN based_VBN retrieval_NN method_NN can_MD not_RB be_VB applied_VBN to_TO find_VB correspondence_NN between_IN images_NNS in_IN different_JJ developmental_JJ stages_NNS ._.
+The_DT correspondence_NN should_MD be_VB established_VBN through_IN
+ories_NNS or_CC queries_NNS ._.
+While_IN supervised_JJ classifiers_NNS are_VBP perhaps_RB the_DT most_RBS widely_RB used_VBN learning_NN models_NNS in_IN multimedia_NNS ,_, there_EX are_VBP many_JJ other_JJ types_NNS of_IN models_NNS ,_, such_JJ as_IN models_NNS for_IN annotating_VBG images_NNS with_IN keywords_NNS =_JJ -_: =[_NN 11_CD ,_, 15_CD ,_, 47_CD ,_, 54_CD -RRB-_-RRB- -_: =_JJ -_: ,_, for_IN labeling_NN video_NN shots_NNS with_IN person_NN names_NNS -LRB-_-LRB- 85_CD ,_, 114_CD -RRB-_-RRB- and_CC with_IN locations_NNS -LRB-_-LRB- 113_CD -RRB-_-RRB- ._.
+In_IN terms_NNS of_IN models_NNS '_POS performance_NN and_CC labeling_NN cost_NN ,_, there_EX are_VBP significant_JJ benefits_NNS in_IN adapting_VBG existing_VBG models_NNS across_IN di_FW

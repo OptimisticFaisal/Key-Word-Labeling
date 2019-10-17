@@ -1,0 +1,4 @@
+nstruct_VB the_DT distribution_NN can_MD be_VB used_VBN to_TO tighten_VB estimates_NNS of_IN original_JJ values_NNS based_VBN on_IN the_DT distorted_JJ data_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+More_RBR recently_RB ,_, the_DT data_NNS distortion_NN approach_NN has_VBZ been_VBN applied_VBN to_TO Boolean_JJ association_NN rules_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Again_RB ,_, the_DT idea_NN is_VBZ to_TO modify_VB data_NNS values_NNS such_JJ that_IN reconstruction_NN of_IN the_DT values_NNS for_IN any_DT individual_JJ transaction_NN is_VBZ difficult_JJ ,_, but_CC the_DT rules_NNS learned_VBD on_IN the_DT distorted_JJ data_NNS are_VBP still_RB valid_JJ ._.
+One_CD int_NN

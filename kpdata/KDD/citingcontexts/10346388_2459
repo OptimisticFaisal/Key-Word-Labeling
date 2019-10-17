@@ -1,0 +1,4 @@
+ividual_JJ logistic_JJ regression_NN models_NNS ,_, the_DT performance_NN improvement_NN can_MD be_VB further_RB increased_VBN ._.
+3_LS ._.
+THEORETIC_JJ ANALYSIS_NN When_WRB the_DT conditional_JJ independence_NN assumption_NN holds_VBZ ,_, following_VBG the_DT same_JJ argument_NN used_VBN in_IN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, one_PRP can_MD show_VB that_IN asymptotically_RB -LRB-_-LRB- i.e._FW ,_, with_IN infinitely_RB many_JJ training_NN examples_NNS -RRB-_-RRB- the_DT PLR_NN model_NN performs_VBZ no_RB worse_JJR than_IN the_DT LR_NNP model_NN ._.
+However_RB ,_, when_WRB this_DT assumption_NN does_VBZ not_RB hold_VB ,_, a_DT discriminative_JJ class_NN

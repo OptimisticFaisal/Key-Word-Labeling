@@ -1,0 +1,4 @@
+nce_NN -LRB-_-LRB- or_CC an_DT event_NN stream_NN -RRB-_-RRB- ,_, is_VBZ ordered_VBN according_VBG the_DT times_NNS of_IN occurrence_NN ._.
+There_EX are_VBP many_JJ applications_NNS where_WRB data_NN appears_VBZ in_IN this_DT form_NN ,_, e.g._FW ,_, alarm_NN sequences_NNS in_IN telecom_NN networks_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, web_NN navigation_NN logs_NNS =_JJ -_: =[_NN 1_CD ,_, 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, time-stamped_JJ fault_NN report_NN logs_NNS from_IN manufacturing_NN plants_NNS -LRB-_-LRB- 6_CD ,_, 7_CD -RRB-_-RRB- ,_, etc._NN ._.
+The_DT framework_NN of_IN frequent_JJ episode_NN discovery_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- can_MD be_VB used_VBN to_TO mine_VB temporal_JJ patterns_NNS from_IN event_NN streams_NNS ._.
+The_DT temporal_JJ patterns_NNS ,_,

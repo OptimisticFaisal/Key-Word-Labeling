@@ -1,0 +1,3 @@
+ple_NN nodes_NNS where_WRB ``_`` role_NN ''_'' has_VBZ a_DT high_JJ positive_JJ autocorrelation_NN -LRB-_-LRB- i.e._FW ,_, people_NNS who_WP are_VBP friends_NNS like_IN have_VBP the_DT same_JJ role_NN -RRB-_-RRB- ._.
+We_PRP then_RB create_VBP binary_JJ attributes_NNS based_VBN on_IN those_DT labels_NNS using_VBG the_DT method_NN described_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 5_CD attributes_NNS per_IN label_NN where_WRB secondary_JJ probability_NN is_VBZ set_VBN to_TO 0.45_CD while_IN the_DT primary_JJ probability_NN is_VBZ varied_VBN to_TO control_VB label_NN ambiguity_NN -RRB-_-RRB- ._.
+The_DT second_JJ set_NN of_IN attributes_NNS is_VBZ used_VBN for_IN link_NN prediction_NN and_CC co_NN

@@ -1,0 +1,4 @@
+is_VBZ to_TO discover_VB faults_NNS that_WDT cause_VBP the_DT system_NN to_TO fail_VB rather_RB than_IN proving_VBG the_DT program_NN correctness_NN -LRB-_-LRB- ibid_NN -RRB-_-RRB- ._.
+Some_DT even_RB argue_VBP that_IN the_DT program_NN correctness_NN can_MD never_RB be_VB demonstrated_VBN through_IN software_NN testing_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT reasons_NNS for_IN that_DT include_VBP such_JJ complexity_NN issues_NNS as_IN the_DT size_NN of_IN the_DT input_NN domain_NN ,_, the_DT number_NN of_IN possible_JJ paths_NNS through_IN the_DT program_NN ,_, and_CC wrong_JJ or_CC incomplete_JJ specifications_NNS ._.
+A_DT successful_JJ test_NN shoul_NN

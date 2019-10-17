@@ -1,0 +1,7 @@
+e_LS them_PRP into_IN 53_CD profiles_NNS or_CC over_IN ._.
+BMS-Webview1_NN ._.
+The_DT second_JJ dataset_NN ,_, BMS-Webview1_NN ,_, is_VBZ a_DT web_NN click-stream_JJ dataset_NN from_IN a_DT web_NN retailer_NN company_NN :_: Gazelle.com_NN ._.
+The_DT data_NNS was_VBD provided_VBN by_IN Blue_NNP Martini_NNP Software_NNP =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT experiment_NN ,_, we_PRP set_VBD the_DT minimum_JJ support_NN threshold_NN at_IN 0.1_CD %_NN and_CC got_VBD 4,195_CD closed_JJ itemsets_NNS ._.
+BMSWebview1_NN is_VBZ completely_RB different_JJ from_IN the_DT Mushroom_NNP dataset_NN ._.
+It_PRP consists_VBZ of_IN many_JJ small_JJ frequent_JJ item_NN

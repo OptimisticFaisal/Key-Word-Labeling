@@ -1,0 +1,4 @@
+objects_NNS represented_VBN as_IN RDF_NNP graphs_NNS ._.
+We_PRP augment_VBP their_PRP$ framework_NN with_IN Cloneable_NNP Properties_NNP for_IN our_PRP$ link_NN suggestion_NN task_NN and_CC define_VB our_PRP$ own_JJ similarity_NN measurements_NNS between_IN corresponding_JJ property_NN values_NNS ._.
+=_SYM -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: presented_VBD an_DT algorithm_NN for_IN analyzing_VBG general_JJ logical_JJ graphs_NNS to_TO compute_VB similarity_NN scores_NNS between_IN nodes_NNS based_VBN on_IN their_PRP$ structural_JJ contexts_NNS ,_, but_CC the_DT algorithm_NN do_VBP not_RB support_VB weighted_JJ edges_NNS ._.
+-LRB-_-LRB- 20_CD -RRB-_-RRB- propos_NNS

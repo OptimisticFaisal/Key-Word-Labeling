@@ -1,0 +1,4 @@
+ce_NN essentially_RB determines_VBZ the_DT large_JJ eigenvalues_NNS ,_, and_CC the_DT eigenvectors_NNS that_WDT result_VBP are_VBP of_IN little_JJ value_NN ._.
+Use_NN of_IN the_DT normalized_VBN Laplacian_NNP has_VBZ been_VBN promoted_VBN by_IN several_JJ practitioners_NNS of_IN spectral_JJ analysis_NN ,_, =_JJ -_: =[_NN 13_CD ,_, 12_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT works_NNS of_IN -LRB-_-LRB- 13_CD ,_, 12_CD -RRB-_-RRB- examine_VBP the_DT performance_NN of_IN the_DT normalized_VBN Laplacian_NN in_IN spectral_JJ algorithms_NNS for_IN multi-partition_NN ._.
+In_IN these_DT ,_, as_IN in_IN other_JJ work_NN examining_VBG the_DT performance_NN of_IN spectral_JJ heuristics_NNS ,_, the_DT

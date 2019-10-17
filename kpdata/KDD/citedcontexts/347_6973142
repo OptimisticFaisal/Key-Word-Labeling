@@ -1,0 +1,4 @@
+epresentations_NNS can_MD be_VB extracted_VBN directly_RB from_IN highly_RB correlated_VBN and\/or_CC dense_JJ data_NNS ,_, i.e._FW ,_, in_IN contexts_NNS where_WRB the_DT approaches_NNS that_WDT compute_VBP the_DT whole_JJ collection_NN of_IN the_DT frequent_JJ patterns_NNS FS_NN are_VBP intractable_JJ =_JJ -_: =[_NN 12_CD ,_, 3_CD ,_, 17_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP can_MD also_RB be_VB used_VBN to_TO regenerate_VB efficiently_RB the_DT whole_JJ FS_NN collection_NN ,_, possibly_RB partially_RB and_CC on_IN the_DT fly_NN ._.
+We_PRP propose_VBP here_RB our_PRP$ Comprehensive_NNP Log_NNP Compression_NNP -LRB-_-LRB- CLC_NN -RRB-_-RRB- method_NN ._.
+It_PRP is_VBZ based_VBN on_IN the_DT computa_NN

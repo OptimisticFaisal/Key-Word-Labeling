@@ -1,0 +1,4 @@
+is_VBZ constrained_VBN to_TO be_VB dissimilar_JJ ._.
+Observe_VB how_WRB the_DT top_JJ two_CD contingency_NN tables_NNS are_VBP driven_VBN toward_IN diagonal_JJ dominance_NN whereas_IN the_DT bottom_JJ contingency_NN table_NN is_VBZ driven_VBN toward_IN a_DT uniform_JJ distribution_NN ._.
+-LRB-_-LRB- MBI_NN -RRB-_-RRB- in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB seen_VBN as_IN a_DT generalization_NN of_IN this_DT principle_NN -RRB-_-RRB- ._.
+The_DT MDI_NNP principle_NN states_VBZ that_IN if_IN q_NN is_VBZ the_DT assumed_JJ or_CC true_JJ distribution_NN ,_, the_DT estimated_VBN distribution_NN p_NN must_MD be_VB chosen_VBN such_JJ that_IN DKL_NN -LRB-_-LRB- p_NN |_CD |_CD q_NN -RRB-_-RRB- is_VBZ minimize_VB

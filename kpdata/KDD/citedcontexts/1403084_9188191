@@ -1,0 +1,5 @@
+accepted_VBN ._.
+The_DT method_NN discards_VBZ all_PDT the_DT item-sets_NNS with_IN a_DT support_NN less_JJR than_IN MinSup_NNP ,_, and_CC all_PDT the_DT rules_NNS with_IN a_DT confidence_NN less_JJR than_IN MinConf_NNP ._.
+To_TO filter_NN more_RBR efficiently_RB the_DT association_NN rules_NNS ,_, some_DT authors_NNS =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: introduce_VB the_DT conviction_NN measure_NN and_CC -LRB-_-LRB- 17_CD -RRB-_-RRB- propose_VBP five_CD different_JJ measures_NNS like_IN the_DT benefit_NN -LRB-_-LRB- interest_NN -RRB-_-RRB- and_CC the_DT satisfaction_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP a_DT new_JJ mesure_NN :_: the_DT gain_NN ._.
+It_PRP combines_VBZ the_DT support_NN

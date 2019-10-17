@@ -1,0 +1,4 @@
+o_NN consideration_NN label_NN information_NN -LRB-_-LRB- MLSI_NN -RRB-_-RRB- was_VBD proposed_VBN in_IN -LRB-_-LRB- 49_CD -RRB-_-RRB- ,_, while_IN a_DT supervised_JJ multi-label_JJ feature_NN extraction_NN algorithm_NN based_VBN on_IN the_DT Hilbert-Schmidt_JJ independence_NN criterion_NN was_VBD proposed_VBN in_IN -LRB-_-LRB- 50_CD -RRB-_-RRB- ._.
+In_IN =_JJ -_: =[_NN 51_CD -RRB-_-RRB- -_: =_SYM -_: a_DT framework_NN for_IN extracting_VBG a_DT subspace_NN of_IN features_NNS is_VBZ proposed_VBN ._.
+Finally_RB ,_, a_DT hypergraph_NN is_VBZ employed_VBN in_IN -LRB-_-LRB- 52_CD -RRB-_-RRB- for_IN modeling_NN higher-order_JJ relations_NNS among_IN instances_NNS sharing_VBG the_DT same_JJ label_NN ._.
+A_DT spectral_JJ learnin_NN

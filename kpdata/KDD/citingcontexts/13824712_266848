@@ -1,0 +1,5 @@
+aves_NNS in_IN T_NN without_IN violating_VBG any_DT constraints_NNS ._.
+The_DT existence_NN problem_NN of_IN supertree_NN can_MD be_VB solved_VBN by_IN the_DT OneTree_NNP algorithm_NN initially_RB given_VBN in_IN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+Several_JJ variants_NNS of_IN OneTree_NNP algorithm_NN have_VBP been_VBN proposed_VBN =_JJ -_: =[_NN 24_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Below_NNP is_VBZ a_DT simplified_VBN version_NN of_IN the_DT OneTree_NNP algorithm_NN presented_VBN in_IN -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+The_DT algorithm_NN operates_VBZ by_IN transforming_VBG all_DT constraints_NNS into_IN a_DT graph_NN representation_NN :_: a_DT vertex_NN is_VBZ created_VBN for_IN each_DT instance_NN ;_: a_DT

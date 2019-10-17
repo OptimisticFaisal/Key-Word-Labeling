@@ -1,0 +1,4 @@
+ems_NNS are_VBP intended_VBN to_TO support_VB ;_: data_NNS separation_NN solves_VBZ this_DT problem_NN ._.
+Consequently_RB ,_, database-facing_JJ capabilitybased_JJ programs_NNS can_MD benefit_VB from_IN the_DT use_NN of_IN data_NNS separation_NN ._.
+For_IN example_NN ,_, Krishnamurthy_NNP et_FW al._FW =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: implemented_VBD a_DT capability-secure_JJ web_NN application_NN framework_NN for_IN Joe-E_NN ,_, and_CC they_PRP used_VBD it_PRP to_TO build_VB a_DT webmail_NN service_NN ._.
+The_DT capabilitysecure_NN language_NN enables_VBZ them_PRP to_TO verify_VB an_DT important_JJ security_NN property_NN :_:

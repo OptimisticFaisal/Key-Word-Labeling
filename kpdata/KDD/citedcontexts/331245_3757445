@@ -1,0 +1,4 @@
+h_NN that_WDT leverages_VBZ the_DT fact_NN that_IN many_JJ graph_NN patterns_NNS are_VBP in_IN fact_NN not_RB full_JJ cyclic_JJ graphs_NNS but_CC trees_NNS or_CC even_RB paths_NNS -LRB-_-LRB- which_WDT have_VBP simpler_JJR canonical_JJ forms_NNS -RRB-_-RRB- has_VBZ been_VBN shown_VBN to_TO be_VB fastest_JJS on_IN a_DT number_NN of_IN datasets_NNS =_JJ -_: =[_NN 23_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN a_DT detailed_JJ discussion_NN of_IN the_DT canonical-form_JJ approach_NN and_CC of_IN commonalities_NNS and_CC differences_NNS between_IN the_DT different_JJ algorithms_NNS ,_, see_VB -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+For_IN a_DT detailed_JJ analysis_NN of_IN algorithm_NN performance_NN ,_, see_VB -LRB-_-LRB- 27_CD -RRB-_-RRB- ._.
+O_NN

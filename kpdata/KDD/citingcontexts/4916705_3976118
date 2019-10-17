@@ -1,0 +1,4 @@
+ts_NNS ._.
+In_IN -LRB-_-LRB- 4,5,23_CD -RRB-_-RRB- ,_, the_DT authors_NNS present_VBP probabilistic_JJ models_NNS for_IN semi-supervised_JJ clustering_NN where_WRB the_DT pairwise_JJ constraints_NNS are_VBP incorporated_VBN into_IN the_DT clustering_NN algorithms_NNS through_IN the_DT Bayesian_JJ priors_NNS ._.
+In_IN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT authors_NNS modified_VBD the_DT mixture_NN model_NN for_IN data_NN clustering_NN by_IN redefining_VBG the_DT data_NNS generation_NN process_NN through_IN the_DT introduction_NN of_IN hidden_JJ variables_NNS ._.
+In_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, the_DT authors_NNS extend_VBP the_DT framework_NN of_IN semi-su_NN

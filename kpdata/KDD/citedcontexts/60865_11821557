@@ -1,0 +1,3 @@
+s_NNS which_WDT most_RBS strongly_RB embody_VB the_DT query_NN tag_NN should_MD have_VB a_DT large_JJ positive_JJ distance_NN from_IN the_DT boundary_NN ._.
+Reformulations_NNS of_IN the_DT single-kernel_JJ SVM_NN exist_VBP which_WDT optimize_VBP for_IN ranking_NN rather_RB than_IN classification_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: but_CC the_DT distance_NN from_IN the_DT boundary_NN provides_VBZ a_DT monotonic_JJ ranking_NN of_IN the_DT entire_JJ test_NN set_NN which_WDT is_VBZ suitable_JJ for_IN this_DT semantic_JJ retrieval_NN task_NN ._.
+We_PRP compare_VBP the_DT direct_JJ and_CC SVM_NN ranking_NN results_NNS to_TO the_DT human-a_NN

@@ -1,0 +1,4 @@
+6_CD -RRB-_-RRB- ._.
+Bansal_NNP et_FW al._FW -LRB-_-LRB- 6_CD -RRB-_-RRB- propose_VBP a_DT polynomial_JJ approximation_NN algorithm_NN that_WDT can_MD partition_NN such_PDT a_DT graph_NN ,_, identifying_VBG automatically_RB the_DT clusters_NNS and_CC the_DT number_NN of_IN clusters_NNS in_IN the_DT dataset_NN ._.
+Cohen_NNP and_CC Richman_NNP =_SYM -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT supervised_JJ approach_NN in_IN which_WDT the_DT system_NN learns_VBZ from_IN training_NN data_NNS how_WRB to_TO cluster_VB together_RB records_NNS that_WDT refer_VBP to_TO the_DT same_JJ real-world_JJ entry_NN ._.
+The_DT main_JJ contribution_NN of_IN this_DT approach_NN is_VBZ the_DT ada_NN

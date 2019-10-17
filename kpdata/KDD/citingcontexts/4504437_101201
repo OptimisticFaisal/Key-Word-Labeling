@@ -1,0 +1,4 @@
+rlap_NN and_CC b_NN -RRB-_-RRB- shingles_NNS do_VBP not_RB cover_VB the_DT areas_NNS between_IN shingles_NNS ._.
+Thus_RB ,_, to_TO achieve_VB the_DT same_JJ accuracy_NN as_IN our_PRP$ method_NN ,_, one_PRP would_MD need_VB a_DT lot_NN more_JJR shingle_NN hashes_NNS ._.
+Finally_RB ,_, we_PRP consider_VBP the_DT sif_NN system_NN by_IN Manber_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ also_RB a_DT N-vs-N_JJ document_NN comparison_NN method_NN ._.
+Like_IN AltaVista_NNP shingles_NNS ,_, his_PRP$ `_`` fingerprint_NN '_'' hashes_NNS only_RB consider_VBP a_DT few_JJ bytes_NNS at_IN the_DT boundary_NN of_IN a_DT chunk_NN ,_, whereas_IN we_PRP compute_VBP the_DT hash_JJ code_NN of_IN the_DT ent_NN

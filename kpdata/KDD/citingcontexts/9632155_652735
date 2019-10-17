@@ -1,0 +1,6 @@
+res_VBZ prior_RB specific_JJ permission_NN and\/or_CC a_DT fee_NN ._.
+KDD_NNP '_POS 09_CD ,_, June_NNP 28_CD --_: July_NNP 1_CD ,_, 2009_CD ,_, Paris_NNP ,_, France_NNP ._.
+Copyright_NN 2009_CD ACM_NNP 978-1-60558-495-9_CD \/_: 09\/06_CD ..._: $_$ 5.00_CD ._.
+learning_VBG to_TO rank_VB -LRB-_-LRB- 1_CD ,_, 18_CD ,_, 22_CD ,_, 26_CD -RRB-_-RRB- ,_, and_CC personalized_JJ search_NN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_JJ -_: ,_, just_RB to_TO name_VB a_DT few_JJ ._.
+A_DT central_JJ question_NN in_IN click_VB log_NN analysis_NN is_VBZ to_TO infer_VB userperceived_JJ relevance_NN for_IN each_DT query-URL_NN pair_NN ._.
+The_DT task_NN could_MD be_VB as_RB trivial_JJ as_IN counting_VBG the_DT click_VBP through_IN rate_NN ,_, should_MD the_DT

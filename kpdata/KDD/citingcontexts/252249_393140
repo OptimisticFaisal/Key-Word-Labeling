@@ -1,0 +1,5 @@
+lenge_NN ,_, a_DT straightforward_JJ solution_NN is_VBZ to_TO represent_VB a_DT feature_NN by_IN its_PRP$ Minimum_NNP Bounding_NNP Box_NNP -LRB-_-LRB- MBB_NNP -RRB-_-RRB- ._.
+However_RB ,_, MBBs_NNS are_VBP not_RB ideal_JJ for_IN all_DT situations_NNS ._.
+For_IN example_NN ,_, vortices_NNS are_VBP well_RB represented_VBN by_IN ellipsoids_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: but_CC not_RB by_IN MBBs_NNS ._.
+Alternatively_RB ,_, defect_NN structures_NNS in_IN materials_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- require_VBP irregular_JJ shape_NN descriptors_NNS such_JJ as_IN landmarks_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+Our_PRP$ proposed_VBN framework_NN addresses_NNS this_DT issue_NN by_IN supporting_VBG flexible_JJ sche_NN

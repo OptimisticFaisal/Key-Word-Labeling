@@ -1,0 +1,5 @@
+However_RB ,_, clustering_NN XML_NN schemas_NNS is_VBZ an_DT intricate_JJ process_NN and_CC it_PRP differs_VBZ significantly_RB from_IN clustering_NN of_IN flat_JJ data_NNS and_CC text_NN ._.
+The_DT difficulties_NNS of_IN clustering_NN XML_NN schemas_NNS are_VBP due_JJ to_TO the_DT following_JJ reasons_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Clustering_NN algorithms_NNS require_VBP the_DT computation_NN of_IN similarity_NN between_IN different_JJ XML_NN data_NNS ._.
+The_DT computation_NN of_IN similarity_NN among_IN XML_NN data_NNS has_VBZ itself_PRP been_VBN known_VBN to_TO be_VB a_DT difficult_JJ research_NN problem_NN ._.
+The_DT

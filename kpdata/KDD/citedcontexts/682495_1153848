@@ -1,0 +1,4 @@
+ches_NNS for_IN mining_NN sequential_JJ patterns_NNS -LRB-_-LRB- 9_CD ,_, 7_CD -RRB-_-RRB- are_VBP irrelevant_JJ in_IN such_JJ a_DT dynamic_JJ context_NN because_IN they_PRP consider_VBP that_IN the_DT whole_JJ database_NN is_VBZ available_JJ ._.
+In_IN the_DT literature_NN ,_, incremental_JJ approaches_NNS were_VBD proposed_VBN =_JJ -_: =[_NN 4_CD ,_, 1_CD -RRB-_-RRB- -_: =_JJ -_: but_CC they_PRP suffer_VBP the_DT same_JJ limitations_NNS ._.
+They_PRP mainly_RB consider_VBP that_IN new_JJ clients_NNS or_CC new_JJ items_NNS are_VBP added_VBN to_TO the_DT original_JJ database_NN ._.
+In_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, we_PRP proposed_VBD to_TO discover_VB relationships_NNS and_CC global_JJ patterns_NNS that_WDT exi_VBP

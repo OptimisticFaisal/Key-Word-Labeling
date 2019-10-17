@@ -1,0 +1,5 @@
+http:\/\/www.ietf.org\/rfc\/rfc2616.txt_NN 6_CD http:\/\/www.w3.org\/DesignIssues\/LinkedData.html4.3_NN Pay-Level_NN Domains_NNS In_IN a_DT variation_NN of_IN our_PRP$ algorithm_NN we_PRP use_VBP the_DT notion_NN of_IN pay-level_JJ domains_NNS -LRB-_-LRB- PLDs_NNS -RRB-_-RRB- as_IN defined_VBN in_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT top-level_JJ domain_NN -LRB-_-LRB- TLD_NN -RRB-_-RRB- is_VBZ a_DT domain_NN one_CD level_NN below_IN the_DT root_NN in_IN the_DT DNS_NN tree_NN and_CC appears_VBZ as_IN the_DT label_NN after_IN the_DT final_JJ dot_NN in_IN a_DT domain_NN name_NN -LRB-_-LRB- e.g._FW ,_, ._.
+com_NN ,_, ._.
+ie_NN -RRB-_-RRB- ._.
+A_DT pay-level_JJ domain_NN -LRB-_-LRB- PLD_NN -RRB-_-RRB- is_VBZ a_DT domain_NN th_DT

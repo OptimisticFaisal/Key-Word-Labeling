@@ -1,0 +1,4 @@
+es_NNS for_IN incrementally_RB updating_VBG the_DT discriminant_JJ components_NNS when_WRB more_JJR data_NNS becomes_VBZ available_JJ ._.
+A_DT number_NN of_IN incremental_JJ versions_NNS of_IN LDA_NNP have_VBP been_VBN suggested_VBN ,_, which_WDT can_MD be_VB applied_VBN to_TO on-line_JJ learning_NN tasks_NNS =_JJ -_: =[_NN 4_CD ,_, 7_CD ,_, 9_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Ye_FW et_FW al._FW -LRB-_-LRB- 14_CD -RRB-_-RRB- proposed_VBD an_DT incremental_JJ version_NN of_IN LDA_NNP ,_, which_WDT can_MD include_VB only_RB a_DT single_JJ new_JJ data_NNS point_NN in_IN each_DT time_NN step_NN ._.
+A_DT further_JJ limitation_NN is_VBZ the_DT computational_JJ complexity_NN of_IN the_DT method_NN when_WRB the_DT n_NN

@@ -1,0 +1,3 @@
+ification_NN Algorithms_NNS For_IN Decision_NNP Trees_NNP ,_, k-nearest_NN neighbors_NNS ,_, Chi-square_JJ Automatic_NNP Interaction_NN Detectors_NNS -LRB-_-LRB- CHAID_NN -RRB-_-RRB- ,_, Neural_NNP Networks_NNP and_CC naive_JJ Bayes_NNP classifiers_NNS we_PRP used_VBD the_DT implementations_NNS given_VBN in_IN Yale_NNP =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN the_DT AIS_NN we_PRP used_VBD our_PRP$ own_JJ implementation_NN ;_: details_NNS about_IN the_DT AIS_NNP implementation_NN can_MD be_VB found_VBN in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+1_LS -RRB-_-RRB- Artificial_JJ Immune_NNP Systems_NNPS :_: Inspired_VBN by_IN the_DT Human_NNP Immune_NNP System_NNP ,_, AIS_NNP have_VBP already_RB been_VBN

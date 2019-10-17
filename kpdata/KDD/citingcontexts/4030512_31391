@@ -1,0 +1,5 @@
+ps_NNS ._.
+Exact_JJ search_NN might_MD be_VB slow_JJ ;_: thus_RB ,_, -LRB-_-LRB- 6_CD -RRB-_-RRB- proposes_VBZ an_DT approximate_JJ search_NN technique_NN based_VBN on_IN sketches_NNS ._.
+However_RB ,_, the_DT discovered_VBN trend_NN for_IN a_DT given_VBN T_NN is_VBZ only_RB one_CD and_CC spans_VBZ the_DT whole_JJ periodic_JJ interval_NN ._.
+In_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT problem_NN of_IN finding_VBG association_NN rules_NNS that_WDT repeat_VBP themselves_PRP in_IN every_DT period_NN of_IN a_DT data_NN sequence_NN is_VBZ addressed_VBN ._.
+The_DT discovery_NN of_IN multiple_JJ partial_JJ periodical_JJ patterns_NNS that_WDT do_VBP not_RB appear_VB in_IN every_DT per_IN

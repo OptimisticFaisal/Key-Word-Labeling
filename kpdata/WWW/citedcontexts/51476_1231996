@@ -1,0 +1,4 @@
+hese_NN proposals_NNS involve_VBP moving_VBG or_CC replicating_VBG content_NN to_TO achieve_VB high_JJ performance_NN ._.
+For_IN example_NN ,_, Cohen_NNP and_CC Shenker_NNP -LRB-_-LRB- 4_CD -RRB-_-RRB- propose_VBP replicating_VBG files_NNS in_IN order_NN to_TO make_VB them_PRP easier_JJR to_TO find_VB ._.
+Superpeer_NN networks_NNS =_JJ -_: =[_NN 21_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: replicate_VB content_JJ metadata_NN from_IN leaf_NN peers_NNS to_TO super-peers_NNS ,_, where_WRB the_DT actual_JJ search_NN processing_NN is_VBZ done_VBN ._.
+Even_RB distributed_VBN hash_JJ tables_NNS -LRB-_-LRB- 19_CD ,_, 17_CD ,_, 18_CD -RRB-_-RRB- move_NN data_NNS ,_, as_IN content_NN -LRB-_-LRB- or_CC pointers_NNS to_TO content_NN -RRB-_-RRB- are_VBP tak_NN

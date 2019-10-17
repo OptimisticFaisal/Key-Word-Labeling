@@ -1,0 +1,4 @@
+Figure_NN 1_CD :_: Performance_NNP of_IN the_DT supp_FW τ_FW mining_NN algorithms_NNS for_IN various_JJ database_NN sizes_NNS and_CC minimum_NN supports_VBZ for_IN the_DT meteorological_JJ data_NNS ._.
+not_RB use_VB discretization_NN can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 2_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB the_DT case_NN considered_VBN in_IN those_DT works_NNS involves_VBZ discrete_JJ attributes_NNS in_IN the_DT antecedent_JJ and_CC a_DT single_JJ numerical_JJ attribute_NN in_IN the_DT consequent_JJ ._.
+In_IN -LRB-_-LRB- 17_CD -RRB-_-RRB- an_DT interesting_JJ definition_NN of_IN support_NN for_IN continu_NN

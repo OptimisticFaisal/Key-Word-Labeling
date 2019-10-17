@@ -1,0 +1,5 @@
+tree_NN ,_, the_DT generation_NN of_IN the_DT FP-tree_NN is_VBZ done_VBN by_IN counting_VBG occurrences_NNS and_CC DFS_NN ._.
+FP_NN Growth_NN uses_VBZ the_DT FP_NN tree_NN to_TO derive_VB the_DT support_NN value_NN of_IN all_DT frequent_JJ itemsets_NNS ._.
+DFS_NN with_IN TID_NN List_NN intersection_NN algorithm_NN =_JJ -_: =[_NN 19_CD ,_, 20_CD -RRB-_-RRB- -_: =_JJ -_: éclat_NN is_VBZ introduced_VBN the_DT combination_NN of_IN DFS_NN with_IN TID_FW Lists_FW intersections_NNS ._.
+When_WRB using_VBG DFS_NN ,_, it_PRP suffices_VBZ to_TO keep_VB tid_NN lists_NNS on_IN the_DT path_NN from_IN the_DT root_NN down_RP to_TO the_DT class_NN currently_RB investigated_VBN in_IN memory_NN ._.
+Th_NN

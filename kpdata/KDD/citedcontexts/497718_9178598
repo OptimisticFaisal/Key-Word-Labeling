@@ -1,0 +1,6 @@
+r_NN to_TO -LRB-_-LRB- 3_CD -RRB-_-RRB- for_IN more_JJR details_NNS -RRB-_-RRB- ._.
+Note_VB that_IN the_DT original_JJ algorithm_NN computes_VBZ ranks_NNS over_IN nodes_NNS ._.
+Since_IN we_PRP need_VBP ranks_NNS over_IN pairs_NNS ,_, we_PRP take_VBP the_DT minimum_NN and_CC maximum_NN page_NN ranks_NNS for_IN the_DT two_CD nodes_NNS in_IN a_DT pair_NN ._.
+SimRank_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ also_RB recursively_RB defined_VBN ._.
+It_PRP states_VBZ two_CD nodes_NNS are_VBP similar_JJ to_TO the_DT extent_NN they_PRP are_VBP connected_VBN to_TO similar_JJ neighbors_NNS ._.
+γ_FW ∈_FW -LRB-_-LRB- 0_CD ,_, 1_LS -RRB-_-RRB- is_VBZ a_DT parameter_NN that_WDT controls_VBZ how_WRB fast_JJ the_DT weight_NN of_IN connected_JJ nodes_NNS '_POS Si_NNP

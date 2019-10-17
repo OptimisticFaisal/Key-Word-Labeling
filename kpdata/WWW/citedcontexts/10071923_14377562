@@ -1,0 +1,5 @@
+heuristic_NN algorithms_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- have_VBP been_VBN investigated_VBN as_IN a_DT means_NN of_IN computing_VBG near-optimal_JJ solutions_NNS ._.
+To_TO improve_VB the_DT performance_NN of_IN service_NN selection_NN ,_, some_DT approaches_NNS attempt_VBP to_TO prune_VB the_DT search_NN space_NN ._.
+In_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, global_JJ QoS-constraints_NNS are_VBP split_VBN up_RP into_IN local_JJ constraints_NNS for_IN each_DT single_JJ service_NN task_NN ._.
+Subsequently_RB ,_, the_DT configuration_NN with_IN the_DT locally_RB best_JJS services_NNS is_VBZ selected_VBN ._.
+In_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, services_NNS that_WDT are_VBP not_RB par_JJ

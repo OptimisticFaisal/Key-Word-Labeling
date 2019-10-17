@@ -1,0 +1,4 @@
+entative_JJ ones_NNS -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, to_TO rank_VB and_CC select_VB the_DT top-k_NN patterns_NNS according_VBG to_TO their_PRP$ significance_NN and_CC redundancy_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, and_CC to_TO provide_VB semantic_JJ annotations_NNS of_IN the_DT patterns_NNS using_VBG limited_JJ contextual_JJ information_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP consider_VBP such_JJ techniques_NNS to_TO be_VB more_RBR appropriate_JJ for_IN dealing_VBG with_IN the_DT above_RB mentioned_VBN problems_NNS ._.
+Still_RB ,_, these_DT techniques_NNS are_VBP designed_VBN for_IN frequent_JJ item_NN set_NN patterns_NNS ._.
+In_IN this_DT study_NN ,_, we_PRP adapted_VBD the_DT b_NN

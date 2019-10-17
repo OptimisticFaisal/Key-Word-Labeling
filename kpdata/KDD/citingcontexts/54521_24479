@@ -1,0 +1,4 @@
+accurate_JJ estimates_NNS of_IN the_DT query_NN counts_NNS -LRB-_-LRB- 27_CD -RRB-_-RRB- ._.
+Query_NN generalization_NN has_VBZ many_JJ potential_JJ applications_NNS in_IN data_NNS mining_NN ,_, from_IN ad_FW hoc_FW interactive_JJ query_NN for_IN decision_NN support_NN ,_, to_TO automated_JJ recommender_NN systems_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN we_PRP focus_VBP on_IN the_DT basic_JJ techniques_NNS and_CC algorithms_NNS rather_RB than_IN addressing_VBG applications_NNS ._.
+The_DT efficiency\/accuracy_NN issue_NN is_VBZ a_DT key_JJ trade-off_NN ,_, namely_RB the_DT time_NN and_CC space_NN efficiency_NN of_IN the_DT metho_NN

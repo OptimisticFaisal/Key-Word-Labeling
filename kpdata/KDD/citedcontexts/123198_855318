@@ -1,0 +1,4 @@
+ustly_RB discovers_VBZ multinomial_JJ word_NN distributions_NNS of_IN these_DT topics_NNS ._.
+Hierarchical_JJ Dirichlet_NNP Processes_NNP -LRB-_-LRB- Teh_NNP et_FW al._FW ,_, 2004_CD -RRB-_-RRB- can_MD determine_VB an_DT appropriate_JJ number_NN of_IN topics_NNS for_IN a_DT corpus_NN ._.
+The_DT Author-Topic_NNP Model_NNP -LRB-_-LRB- =_JJ -_: =_JJ Steyvers_FW et_FW al._FW ,_, 2004_CD -_: =_JJ -_: ;_: Rosen-Zvi_NNP et_FW al._FW ,_, 2004_CD -RRB-_-RRB- learns_VBZ topics_NNS conditioned_VBN on_IN the_DT mixture_NN of_IN authors_NNS that_WDT composed_VBD a_DT document_NN ._.
+However_RB ,_, none_NN of_IN these_DT models_NNS are_VBP appropriate_JJ for_IN social_JJ network_NN analysis_NN ,_, in_IN which_WDT we_PRP aim_VBP to_TO ca_MD

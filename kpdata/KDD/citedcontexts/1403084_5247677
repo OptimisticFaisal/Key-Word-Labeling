@@ -1,0 +1,4 @@
+-LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, CN2_NN -LRB-_-LRB- 8,9_CD -RRB-_-RRB- ,_, decision_NN tree_NN based_VBN method_NN ,_, e.g._FW C4_NN .5_CD rules_NNS -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, association_NN rule_NN mining_NN methods_NNS ,_, e.g._FW Apriori_FW -LRB-_-LRB- 1_LS -RRB-_-RRB- and_CC FPgrowth_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, and_CC optimal_JJ rule_NN mining_NN methods_NNS ,_, e.g._FW PC_NN optimality_NN rule_NN mining_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: and_CC optimal_JJ class_NN association_NN rule_NN mining_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+However_RB ,_, understandable_JJ rules_NNS may_MD not_RB build_VB understandable_JJ classifiers_NNS ._.
+Rule_NN based_VBN classification_NN usually_RB involves_VBZ two_CD stages_NNS ,_, training_NN and_CC test_NN ._.
+Consi_NNS

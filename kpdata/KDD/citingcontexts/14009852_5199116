@@ -1,0 +1,4 @@
+branch-and-bound_JJ skyline_NN algorithm_NN -LRB-_-LRB- BBS_NN -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+Other_JJ variants_NNS of_IN skyline_NN queries_NNS have_VBP also_RB been_VBN studied_VBN ,_, including_VBG skyline_NN cube_NN which_WDT aims_VBZ to_TO answer_VB skyline_NN queries_NNS over_IN any_DT combination_NN of_IN dimensions_NNS =_JJ -_: =[_NN 16_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Jiang_NNP et_FW al._FW -LRB-_-LRB- 10_CD -RRB-_-RRB- studied_VBD the_DT problem_NN of_IN interval_JJ skyline_NN queries_NNS on_IN time-series_NNS ._.
+Given_VBN a_DT set_NN of_IN time_NN series_NN and_CC a_DT time_NN interval_NN ,_, they_PRP find_VBP the_DT time_NN series_NN that_WDT are_VBP not_RB dominated_VBN by_IN others_NNS in_IN the_DT in_IN

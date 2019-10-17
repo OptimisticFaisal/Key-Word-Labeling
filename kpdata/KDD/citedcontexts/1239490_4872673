@@ -1,0 +1,4 @@
+ts_NNS are_VBP typically_RB more_RBR robust_JJ as_IN compared_VBN to_TO any_DT single_JJ classifier_NN ._.
+General_JJ introductions_NNS of_IN ensembles_NNS of_IN classifiers_NNS are_VBP given_VBN in_IN -LRB-_-LRB- Hansen_NNP and_CC Salamon_NNP 1990_CD ;_: Bauer_NNP and_CC Kohavi_NNP 1999_CD ;_: Caruana_NNP et_FW al._FW 2004_CD ;_: =_JJ -_: =_JJ Fan_NN et_FW al._FW 1999_CD -_: =-]_CD ._.
+We_PRP call_VBP our_PRP$ approach_NN query_NN enrichment_NN ._.
+In_IN general_JJ ,_, query_JJ enrichment_NN consists_VBZ of_IN two_CD major_JJ steps_NNS :_: --_: First_JJ ,_, we_PRP replace_VBP a_DT query_NN by_IN a_DT set_NN of_IN objects_NNS ,_, where_WRB the_DT meanings_NNS of_IN the_DT query_NN are_VBP embedded_VBN in_IN the_DT

@@ -1,0 +1,5 @@
+the_DT dataset_NN ._.
+Its_PRP$ main_JJ drawback_NN is_VBZ that_IN it_PRP does_VBZ not_RB offer_VB a_DT way_NN of_IN estimating_VBG the_DT number_NN of_IN groups_NNS or_CC mixture_NN components_NNS ;_: the_DT number_NN of_IN clusters_NNS is_VBZ a_DT parameter_NN of_IN the_DT procedure_NN ._.
+Domingos_NNP and_CC Hulten_NNP 's_POS =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: approach_NN is_VBZ similar_JJ to_TO the_DT one_NN proposed_VBN in_IN -LRB-_-LRB- 12,13_CD -RRB-_-RRB- ._.
+They_PRP cluster_VBP the_DT data_NNS in_IN manageable_JJ section_NN and_CC pass_NN through_IN the_DT dataset_NN only_RB once_RB ._.
+The_DT biggest_JJS difference_NN is_VBZ that_IN Domingos_NNP and_CC Hulten_NNP assume_VBP that_IN

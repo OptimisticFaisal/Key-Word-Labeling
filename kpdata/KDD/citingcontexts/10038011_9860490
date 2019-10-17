@@ -1,0 +1,5 @@
+sk_NN at_IN hand_NN ._.
+Consider_VB the_DT following_JJ difficulties_NNS illustrated_VBN by_IN Figure_NNP 3_CD ._.
+•_NN A_NN single_JJ atomic_JJ petroglyph_NN may_MD contain_VB several_JJ disconnected_VBN parts_NNS ._.
+Thus_RB ,_, boundary_NN based_VBN methods_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC graph_NN based_JJ methods_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: can_MD not_RB be_VB applied_VBN ,_, at_IN least_JJS not_RB directly_RB -LRB-_-LRB- c.f._NNP Figure_NNP 12_CD ,_, which_WDT shows_VBZ an_DT example_NN of_IN a_DT problem_NN which_WDT would_MD defeat_VB boundary_NN and_CC graph_NN based_VBN methods_NNS -RRB-_-RRB- ._.
+•_NNP Geometric_NNP hashing_VBG is_VBZ a_DT very_RB useful_JJ technique_NN for_IN

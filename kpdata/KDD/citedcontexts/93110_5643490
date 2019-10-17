@@ -1,0 +1,3 @@
+ufficiently_RB less_JJR than_IN the_DT total_JJ number_NN of_IN items_NNS ,_, which_WDT usually_RB happens_VBZ in_IN the_DT case_NN of_IN sparse_JJ and_CC large_JJ datasets_NNS ._.
+Recent_JJ studies_NNS on_IN enumerating_VBG all_DT frequent_JJ itemset_NN by_IN using_VBG array_NN based_JJ layout_NN schemes_NNS =_JJ -_: =[_NN 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: show_VBP that_IN these_DT layout_NN schemes_NNS are_VBP very_RB effective_JJ for_IN sparse_JJ and_CC large_JJ datasets_NNS ._.
+An_DT array_NN based_VBN database_NN layout_NN scheme_NN projects_NNS compressed_VBD transactions_NNS at_IN each_DT node_NN of_IN search_NN space_NN using_VBG pointer_NN adju_NN

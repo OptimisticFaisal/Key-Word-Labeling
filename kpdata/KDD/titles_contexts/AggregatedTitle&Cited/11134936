@@ -1,0 +1,9 @@
+Growing_VBG a_DT tree_NN in_IN the_DT forest_NN :_: constructing_VBG folksonomies_NNS by_IN integrating_VBG structured_JJ metadata_NN
+xonomic_JJ structures_NNS -LRB-_-LRB- such_JJ as_IN semantic_JJ evaluation_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+In_IN our_PRP$ previous_JJ work_NN on_IN semantic_JJ evaluation_NN of_IN folksonomies_NNS we_PRP introduced_VBD a_DT framework_NN that_WDT compares_VBZ learned_VBD folksonomies_NNS to_TO a_DT reference_NN hierarchy_NN =_JJ -_: =[_NN 26_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP used_VBD two_CD metrics_NNS -_: Lexical_JJ Recall_VB and_CC Taxonomic_NNP Overlap_NNP ._.
+Lexical_JJ Recall_VB computes_NNS recall_VBP -_: how_WRB many_JJ terms_NNS exist_VBP in_IN both_CC the_DT learned_VBN folksonomy_NN and_CC reference_NN directory_NN ._.
+Our_PRP$ Taxonomic_NNP Overlap_NNP is_VBZ an_DT
+likely_JJ to_TO lead_VB to_TO ill-structured_JJ graphs_NNS containing_VBG loops_NNS and_CC shortcuts_NNS -LRB-_-LRB- multiple_JJ paths_NNS from_IN one_CD node_NN to_TO another_DT -RRB-_-RRB- ,_, rather_RB than_IN a_DT tree_NN ._.
+The_DT folksonomy_JJ learning_NN problem_NN has_VBZ been_VBN addressed_VBN in_IN recent_JJ work_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: using_VBG a_DT bottomup_JJ approach_NN to_TO heuristically_RB construct_VB the_DT folksonomy_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT more_RBR flexible_JJ probabilistic_JJ framework_NN for_IN learning_VBG complex_JJ structures_NNS with_IN a_DT specific_JJ form_NN from_IN fragme_NN

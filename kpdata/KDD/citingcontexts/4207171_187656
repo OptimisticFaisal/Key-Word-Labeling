@@ -1,0 +1,4 @@
+e_LS of_IN interest_NN over_IN the_DT past_JJ several_JJ decades_NNS ._.
+Recently_RB ,_, there_EX are_VBP several_JJ papers_NNS focusing_VBG on_IN scalable_JJ clustering_NN algorithms_NNS ,_, e._FW g._FW CLARANS_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, CURE_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, CLIQUE_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, BIRCH_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, DBSCAN_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC OPTICS_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX are_VBP also_RB algorithms_NNS that_WDT try_VBP to_TO use_VB no_DT user-defined_JJ parameters_NNS ,_, like_IN X-means_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC G-means_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+However_RB ,_, they_PRP all_DT suffer_VBP from_IN one_CD or_CC more_JJR of_IN the_DT following_JJ drawbacks_NNS :_: they_PRP focus_VBP on_IN spherica_NN

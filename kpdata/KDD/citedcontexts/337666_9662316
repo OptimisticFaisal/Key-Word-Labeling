@@ -1,0 +1,6 @@
+assifier_NN -LRB-_-LRB- LGC_NN -RRB-_-RRB- ._.
+This_DT classifier_NN follows_VBZ the_DT idea_NN presented_VBN in_IN latent_JJ group_NN model_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+But_CC differently_RB ,_, clustering_NN memberships_NNS are_VBP used_VBN as_IN features_NNS for_IN SVM_NN learning_NN ._.
+We_PRP adopt_VBP a_DT similar_JJ strategy_NN as_IN in_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: by_IN considering_VBG the_DT connections_NNS of_IN each_DT user_NN as_IN features_NNS and_CC using_VBG k-means_NNS with_IN cosine_NN similarity_NN for_IN clustering_NN ._.
+The_DT number_NN of_IN clusters_NNS is_VBZ set_VBN the_DT same_JJ as_IN the_DT number_NN of_IN labels_NNS ._.
+To_TO make_VB a_DT fair_JJ compari_NN

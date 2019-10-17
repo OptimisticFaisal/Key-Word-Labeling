@@ -1,0 +1,6 @@
+n_NN measure_NN ._.
+As_IN the_DT decision_NN tree_NN classifier_NN is_VBZ a_DT well-known_JJ algorithm_NN ,_, we_PRP omit_VBP its_PRP$ discussion_NN ._.
+We_PRP refer_VBP the_DT interested_JJ reader_NN to_TO -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+We_PRP used_VBD the_DT decision_NN tree_NN implementation_NN from_IN the_DT Rapidminer_NN tool_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN the_DT purpose_NN of_IN our_PRP$ experimental_JJ evaluation_NN we_PRP consider_VBP two_CD error_NN types_NNS :_: data_NNS packet_NN dropping_VBG -LRB-_-LRB- qualitative_JJ error_NN -RRB-_-RRB- and_CC data_NN packet_NN delaying_NN -LRB-_-LRB- quantitative_JJ error_NN -RRB-_-RRB- ._.
+For_IN the_DT data_NNS packet_NN dropping_VBG ,_, the_DT

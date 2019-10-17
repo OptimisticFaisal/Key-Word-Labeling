@@ -1,0 +1,4 @@
+ed_VBN by_IN Naor_NNP ,_, Pinkas_NNP and_CC Sumner_NNP -LRB-_-LRB- NPS99_NN -RRB-_-RRB- ,_, that_WDT is_VBZ based_VBN on_IN the_DT multi-party_JJ solution_NN of_IN -LRB-_-LRB- BMR90_NN -RRB-_-RRB- ._.
+The_DT solution_NN itself_PRP can_MD be_VB viewed_VBN as_IN a_DT generalization_NN of_IN the_DT conditional_JJ oblivious_JJ transfer_NN -LRB-_-LRB- COT_NN -RRB-_-RRB- protocol_NN =_JJ -_: =_JJ -LRB-_-LRB- COR99_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP specify_VBP the_DT conditional_JJ oblivious_JJ transfer_NN protocol_NN by_IN a_DT public_JJ predicate_NN π_NN ,_, that_WDT can_MD be_VB say_VB the_DT ``_`` greater_JJR than_IN ''_'' -LRB-_-LRB- GT_NN -RRB-_-RRB- predicate_NN -RRB-_-RRB- ._.
+Client_NN has_VBZ an_DT input_NN ϱ_NN and_CC Server_NN 's_POS input_NN is_VBZ a_DT triple_JJ -LRB-_-LRB- σ_NN ,_, r0_NN ,_, r1_NN -RRB-_-RRB- ._.

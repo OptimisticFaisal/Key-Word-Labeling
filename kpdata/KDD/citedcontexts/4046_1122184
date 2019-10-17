@@ -1,0 +1,5 @@
+r_NN subset_NN of_IN trees_NNS than_IN existing_VBG approaches_NNS to_TO approximate_JJ the_DT true_JJ probability_NN ._.
+5_CD Performance_NNP Evaluation_NN Reliability_NN plot_NN has_VBZ been_VBN used_VBN previously_RB to_TO measure_VB the_DT performance_NN of_IN probability_NN estimation_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN a_DT summary_NN ,_, we_PRP use_VBP the_DT x-axis_NN for_IN the_DT estimated_VBN probability_NN and_CC y-axis_NN for_IN the_DT true_JJ probability_NN ._.
+The_DT probability_NN estimate_NN by_IN a_DT learner_NN is_VBZ good_JJ if_IN all_DT points_NNS are_VBP close_JJ to_TO the_DT y_NN =_JJ x_NN diagonal_JJ line_NN ._.
+S_NN

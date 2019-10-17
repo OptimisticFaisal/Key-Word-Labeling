@@ -1,0 +1,5 @@
+ly_RB to_TO boost_VB learning_NN performance_NN ._.
+Many_JJ multi-label_JJ learning_NN algorithms_NNS only_RB address_VBP the_DT first_JJ question_NN ._.
+In_IN -LRB-_-LRB- 14_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, the_DT authors_NNS developed_VBD algorithms_NNS for_IN multi-label_JJ dimensionality_NN reduction_NN ._.
+In_IN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Ji_FW et_FW al._FW proposed_VBD a_DT general_JJ framework_NN for_IN extracting_VBG a_DT shared_JJ lowerdimensional_JJ subspace_NN which_WDT is_VBZ assumed_VBN to_TO be_VB shared_VBN among_IN multiple_JJ labels_NNS ._.
+In_IN -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, Sun_NNP et_FW al._FW proposed_VBD a_DT hypergraph_JJ spectral_JJ multi_NNS

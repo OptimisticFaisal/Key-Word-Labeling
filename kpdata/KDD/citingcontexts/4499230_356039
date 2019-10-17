@@ -1,0 +1,7 @@
+|_CD s_NN ._.
+l_NN 9_CD ._.
+APPLICATIONS_NNS An_DT example_NN application_NN of_IN our_PRP$ approach_NN in_IN robot_NN mapping_NN is_VBZ outlined_VBN in_IN Fig._NNP 6_CD ._.
+-LRB-_-LRB- a_DT -RRB-_-RRB- shows_VBZ an_DT original_JJ data_NN set_NN of_IN laser_NN range_NN scan_VB points_NNS aligned_VBN with_IN the_DT algorithm_NN presented_VBN in_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT original_JJ set_NN is_VBZ composed_VBN of_IN 395_CD scans_NNS ,_, each_DT with_IN 361_CD points_NNS ._.
+Thus_RB ,_, the_DT original_JJ input_NN map_NN is_VBZ composed_VBN of_IN 142,595_CD points_NNS ._.
+We_PRP initialize_VBP our_PRP$ algorithm_NN with_IN only_RB two_CD segments_NNS ,_, the_DT two_CD diagonals_NNS ,_, as_IN

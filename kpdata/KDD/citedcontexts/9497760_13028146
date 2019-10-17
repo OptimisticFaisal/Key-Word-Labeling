@@ -1,0 +1,6 @@
+the_DT problem_NN ._.
+Table_NNP 1_CD summarizes_VBZ some_DT notions_NNS frequently_RB used_VBN in_IN this_DT paper_NN ._.
+Limited_JJ by_IN space_NN ,_, the_DT proofs_NNS of_IN the_DT theoretical_JJ results_NNS are_VBP omitted_VBN here_RB ,_, but_CC can_MD be_VB found_VBN in_IN the_DT full_JJ version_NN of_IN the_DT paper_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2.1_CD Multidimensional_JJ User_NN Preferences_NNPS Let_NNP O_NNP be_VB a_DT set_NN of_IN objects_NNS in_IN a_DT multidimensional_JJ space_NN D_NN =_JJ D1_NN ×_NN D2_NN ×_FW ·_FW ·_FW ·_FW ×_FW Dd_NN ._.
+O_NN can_MD be_VB finite_JJ or_CC infinite_JJ ._.
+A_DT user_NN preference_NN ≺_NN is_VBZ a_DT strict_JJ partial_JJ order_NN on_IN O._NNP

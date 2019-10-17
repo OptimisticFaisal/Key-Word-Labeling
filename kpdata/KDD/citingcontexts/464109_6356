@@ -1,0 +1,4 @@
+ing_JJ state-of-the-art_JJ performance_NN on_IN classification_NN and_CC regression_NN tasks_NNS across_IN a_DT variety_NN of_IN real-world_JJ applications_NNS -LRB-_-LRB- e.g._FW see_VB -LRB-_-LRB- lo_NN -RRB-_-RRB- and_CC -LRB-_-LRB- 4_LS -RRB-_-RRB- -RRB-_-RRB- ._.
+In_IN this_DT paper_NN ,_, we_PRP focus_VBP on_IN SVM_NNP 's_POS for_IN binary_JJ classification_NN =_JJ -_: =_JJ -LRB-_-LRB- l_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN binary_JJ classification_NN ,_, each_DT label_NN is_VBZ valued_VBN either_CC ``_`` +_CC l_NN ''_'' or_CC ``_`` -_: l_NN ''_'' ,_, indicating_VBG either_CC a_DT positive_JJ or_CC negative_JJ example_NN ,_, respectively_RB ._.
+Let_NNP XA_NNP be_VB an_DT nA_NN by_IN D_NN matrix_NN representing_VBG the_DT training_NN set_NN and_CC Xg_NN b_NN

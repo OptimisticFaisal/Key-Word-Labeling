@@ -1,0 +1,6 @@
+ge_NN and_CC transmission_NN ._.
+For_IN this_DT paper_NN we_PRP use_VBP the_DT data_NNS generators_NNS most_RBS commonly_RB found_VBN in_IN the_DT literature_NN ._.
+SEA_NN Concepts_NNS Generator_NN This_DT artificial_JJ dataset_NN contains_VBZ abrupt_JJ concept_NN drift_NN ,_, first_RB introduced_VBN in_IN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP is_VBZ generated_VBN using_VBG three_CD attributes_NNS ,_, where_WRB only_RB the_DT two_CD first_JJ attributes_NNS are_VBP relevant_JJ ._.
+All_PDT the_DT attributes_NNS have_VBP values_NNS between_IN 0_CD and_CC 10_CD ._.
+The_DT points_NNS of_IN the_DT dataset_NN are_VBP divided_VBN into_IN 4_CD blocks_NNS with_IN di_FW

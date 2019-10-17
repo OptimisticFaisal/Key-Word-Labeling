@@ -1,0 +1,4 @@
+epository_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC two_CD benchmark_JJ data_NNS sets_NNS in_IN multi-label_JJ classification_NN -LRB-_-LRB- 7_CD ,_, 10_CD -RRB-_-RRB- are_VBP used_VBN in_IN our_PRP$ experiments_NNS ._.
+To_TO investigate_VB the_DT scalability_NN of_IN the_DT two-stage_JJ approach_NN ,_, two_CD large-scale_JJ data_NNS sets_VBZ news20_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: and_CC rcv1v2_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- are_VBP used_VBN ._.
+The_DT statistics_NNS of_IN all_DT data_NNS sets_NNS are_VBP summarized_VBN in_IN Table_NNP 1_CD ._.
+To_TO distinguish_VB different_JJ techniques_NNS tested_VBN in_IN the_DT experiments_NNS ,_, we_PRP name_VBP the_DT regularized_VBN techniques_NNS using_VBG a_DT prefix_NN ``_``

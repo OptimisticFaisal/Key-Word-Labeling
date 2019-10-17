@@ -1,0 +1,4 @@
+t_NN each_DT player_NN will_MD be_VB able_JJ to_TO make_VB a_DT rough_JJ guess_NN of_IN the_DT other_JJ 's_POS -LRB-_-LRB- and_CC ,_, indeed_RB ,_, its_PRP$ own_JJ -RRB-_-RRB- parameters_NNS ._.
+Classification_NN with_IN imprecisely_RB known_VBN costs_NNS and_CC other_JJ parameters_NNS has_VBZ been_VBN well_RB studied_VBN in_IN KDD_NNP -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, and_CC extending_VBG this_DT to_TO the_DT adversarial_JJ case_NN is_VBZ an_DT important_JJ item_NN for_IN future_JJ work_NN ._.
+3_LS ._.
+COST-SENSITIVE_NNP LEARNING_NNP In_IN this_DT paper_NN ,_, we_PRP will_MD focus_VB on_IN naive_JJ Bayes_NNS as_IN the_DT classifier_NN to_TO be_VB made_VBN adversary-aware_JJ

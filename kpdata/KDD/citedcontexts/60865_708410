@@ -1,0 +1,5 @@
+th_DT taking_VBG the_DT pairwise_JJ approach_NN ._.
+First_RB ,_, existing_VBG methodologies_NNS on_IN classification_NN can_MD be_VB directly_RB applied_VBN ._.
+Second_RB ,_, the_DT training_NN instances_NNS of_IN document_NN pairs_NNS can_MD be_VB easily_RB obtained_VBN in_IN certain_JJ scenarios_NNS -LRB-_-LRB- =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =--RRB-_NN ._.
+However_RB ,_, there_EX are_VBP also_RB problems_NNS with_IN the_DT approach_NN ._.
+First_RB ,_, the_DT objective_NN of_IN learning_NN is_VBZ formalized_VBN as_IN minimizing_VBG errors_NNS in_IN classification_NN of_IN document_NN pairs_NNS ,_, rather_RB than_IN minimizing_VBG errors_NNS in_IN ranking_NN

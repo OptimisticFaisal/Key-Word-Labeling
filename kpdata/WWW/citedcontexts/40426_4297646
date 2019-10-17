@@ -1,0 +1,4 @@
+owever_NN :_: B_NN is_VBZ not_RB itself_PRP stochastic_JJ ,_, and_CC u_NN is_VBZ not_RB a_DT distribution_NN ,_, so_RB z_SYM -LRB-_-LRB- B_NN ,_, u_NN ,_, α_NN -RRB-_-RRB- does_VBZ not_RB admit_VB a_DT stochastic_JJ interpretation_NN ._.
+In_IN particular_JJ ,_, algorithms_NNS that_WDT are_VBP commonly_RB used_VBN to_TO compute_VB r_NN -LRB-_-LRB- −_NN ,_, −_NN ,_, −_NN -RRB-_-RRB- ,_, like_IN =_JJ -_: =[_NN 11_CD ,_, 7_CD ,_, 21_CD ,_, 18_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, can_MD not_RB in_IN general_JJ be_VB applied_VBN to_TO this_DT case_NN ._.
+However_RB ,_, by_IN Theorem_NNP 6_CD ,_, the_DT matrix_NN B_NN admits_VBZ a_DT positive_JJ eigenvector_NN associated_VBN with_IN the_DT eigenvalue_NN 1_CD and_CC this_DT allows_VBZ us_PRP to_TO proceed_VB as_IN follows_VBZ ._.
+It_PRP is_VBZ possible_JJ

@@ -1,0 +1,4 @@
+ering_VBG itself_PRP is_VBZ an_DT NP-Hard_JJ problem_NN ,_, any_DT solution_NN adopting_VBG clustering_NN algorithms_NNS ,_, like_IN k-means_NNS ,_, hierarchical_JJ and_CC etc._NN can_MD only_RB generate_VB a_DT local_JJ optimal_JJ solution_NN ._.
+Very_RB recently_RB ,_, Wang_NNP and_CC Parthasarathy_NNP -LRB-_-LRB- =_JJ -_: =_JJ Wang_NNP &_CC Parthasarathy_NNP ,_, 2006_CD -_: =--RRB-_NN used_VBD probabilistic_JJ profile_NN to_TO summarize_VB frequent_JJ itemsets_NNS ._.
+They_PRP used_VBD Markov_NNP Random_NNP Field_NNP -LRB-_-LRB- MRF_NNP -RRB-_-RRB- to_TO model_VB the_DT underlying_JJ distribution_NN that_WDT generates_VBZ the_DT frequent_JJ patterns_NNS ._.
+To_TO make_VB the_DT model_NN more_JJR conci_NN

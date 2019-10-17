@@ -1,0 +1,5 @@
+he_PRP edit_VBD distance_NN ,_, minimum_JJ number_NN of_IN mutations_NNS required_VBN to_TO change_VB a_DT tree_NN into_IN another_DT one_CD -LRB-_-LRB- 3,4_CD -RRB-_-RRB- ,_, or_CC the_DT number_NN of_IN paths_NNS they_PRP share_VBP -LRB-_-LRB- 5_CD --_: 7_CD -RRB-_-RRB- ._.
+Other_JJ methods_NNS aim_VBP at_IN discovering_VBG frequent_JJ subtrees_NNS in_IN the_DT data_NN =_JJ -_: =[_NN 8_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP investigate_VBP in_IN this_DT paper_NN the_DT use_NN of_IN a_DT different_JJ kind_NN of_IN representation_NN for_IN the_DT manipulation_NN of_IN XML_NN documents_NNS ._.
+We_PRP propose_VBP to_TO transform_VB the_DT trees_NNS into_IN sets_NNS of_IN attribute-values_NNS ._.
+In_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, the_DT author_NN

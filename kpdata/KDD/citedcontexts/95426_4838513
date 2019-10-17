@@ -1,0 +1,5 @@
+exceed_VB the_DT infrastructure_NN of_IN storage_NN ,_, communication_NN ,_, and_CC processing_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+Thus_RB there_EX arises_VBZ a_DT need_NN for_IN distributed_VBN data_NNS stream_NN mining_NN 18_CD ._.
+Several_JJ projects_NNS deal_VBP with_IN data_NNS mining_NN on_IN streams_NNS including_VBG =_JJ -_: =[_NN 117_CD ,_, 131_CD ,_, 87_CD ,_, 97_CD ,_, 106_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+While_IN these_DT are_VBP closely_RB related_JJ ,_, it_PRP is_VBZ not_RB clear_JJ whether_IN all_DT of_IN them_PRP can_MD be_VB directly_RB applied_VBN in_IN a_DT distributed_VBN setting_NN ._.
+In_IN this_DT section_NN we_PRP provide_VBP a_DT brief_JJ review_NN of_IN current_JJ work_NN done_VBN in_IN the_DT field_NN of_IN

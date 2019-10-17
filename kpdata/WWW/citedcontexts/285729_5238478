@@ -1,0 +1,5 @@
+obtained_VBN from_IN the_DT web_NN logs_NNS ._.
+Thus_RB ,_, the_DT weight_NN assigned_VBN to_TO each_DT page_NN is_VBZ based_VBN on_IN the_DT page_NN popularity_NN and_CC it_PRP has_VBZ been_VBN found_VBN that_IN this_DT method_NN ,_, in_IN general_JJ ,_, out_RB performs_VBZ the_DT original_JJ PageRank_NNP algorithm_NN ._.
+In_IN =_JJ -_: =[_NN 13_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: the_DT authors_NNS improve_VB on_IN the_DT PageRank_NNP algorithm_NN by_IN using_VBG Content_NN information_NN of_IN the_DT web_NN pages_NNS ._.
+They_PRP are_VBP probabilistic_JJ models_NNS of_IN the_DT relevance_NN of_IN the_DT page_NN to_TO a_DT search_NN query_NN ._.
+Kleinberg_NNP 's_POS HITS_NN is_VBZ another_DT

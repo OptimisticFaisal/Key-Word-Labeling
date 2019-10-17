@@ -1,0 +1,3 @@
+f_LS machine_NN learning_NN and_CC pattern_NN recognition_NN ,_, it_PRP is_VBZ often_RB useful_JJ to_TO identify_VB the_DT modes_NNS of_IN the_DT underlying_VBG density_NN p_NN -LRB-_-LRB- x_NN -RRB-_-RRB- ,_, which_WDT are_VBP located_JJ at_IN the_DT zeros_NNS of_IN the_DT gradient_NN ∇_CD p_NN -LRB-_-LRB- x_NN -RRB-_-RRB- =_JJ 0_CD ._.
+The_DT mean_NN shift_NN procedure_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ an_DT elegant_JJ way_NN to_TO estimate_VB the_DT locations_NNS of_IN these_DT zeros_NNS without_IN estimating_VBG the_DT density_NN ._.
+Given_VBN a_DT data_NN set_NN D_NN and_CC a_DT kernel_NN function_NN K_NN as_IN introduced_VBN before_RB ,_, the_DT mean_NN shift_NN vector_NN is_VBZ defined_VBN by_IN mh_NN ,_, K_NN -LRB-_-LRB- x_NN -RRB-_-RRB-

@@ -1,0 +1,3 @@
+ion_NN of_IN the_DT quadratic_JJ optimization_NN problem_NN used_VBN by_IN SVM_NN light_NN needs_VBZ to_TO be_VB extended_VBN to_TO be_VB robust_JJ to_TO differences_NNS between_IN distributions_NNS of_IN test_NN data_NNS and_CC training_NN data_NNS ._.
+This_DT task_NN is_VBZ similar_JJ to_TO transduction_NN =_JJ -_: =[_NN 24_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: because_IN it_PRP would_MD require_VB using_VBG unlabeled_JJ test_NN data_NNS in_IN the_DT learning_NN process_NN ,_, but_CC with_IN the_DT fundamental_JJ departure_NN from_IN transduction_NN in_IN using_VBG unlabeled_JJ test_NN data_NNS from_IN a_DT different_JJ distribution_NN ._.
+Alternativ_NNP

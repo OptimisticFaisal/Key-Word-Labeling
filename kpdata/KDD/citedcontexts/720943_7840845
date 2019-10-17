@@ -1,0 +1,4 @@
+their_PRP$ simplicity_NN ._.
+However_RB ,_, the_DT TVRC_NNP framework_NN is_VBZ flexible_JJ and_CC modular_JJ enough_RB so_RB as_IN to_TO use_VB many_JJ different_JJ kernel_NN functions_NNS for_IN summarization_NN and_CC statistical_JJ relational_JJ models_NNS for_IN classification_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 7_CD ,_, 26_CD ,_, 35_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+One_CD of_IN the_DT strengths_NNS of_IN our_PRP$ approach_NN is_VBZ that_IN it_PRP is_VBZ a_DT relatively_RB simple_JJ and_CC efficient_JJ way_NN of_IN incorporating_VBG time_NN into_IN statistical_JJ relational_JJ models_NNS ._.
+While_IN our_PRP$ algorithm_NN does_VBZ n't_RB make_VB a_DT Markov_NNP assumpti_NN

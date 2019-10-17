@@ -1,0 +1,6 @@
+roblem_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+However_RB ,_, real_JJ world_NN social_JJ networks_NNS have_VBP several_JJ unique_JJ properties_NNS such_JJ as_IN the_DT sparsity_NN and_CC scale-freeness_NN ._.
+People_NNS who_WP share_VBP a_DT common_JJ friend_NN are_VBP highly_RB likely_JJ to_TO become_VB friends_NNS themselves_PRP =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT kind_NN of_IN locality_NN generates_VBZ triangles_NNS which_WDT further_RB form_VBP larger_JJR cliques_NNS ._.
+Consequently_RB ,_, we_PRP are_VBP able_JJ to_TO design_VB an_DT efficient_JJ algorithm_NN for_IN practical_JJ situations_NNS ._.
+Following_VBG earlier_JJR literature_NN ,_, we_PRP use_VBP

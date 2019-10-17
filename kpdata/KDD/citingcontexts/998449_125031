@@ -1,0 +1,4 @@
+h_NN a_DT Bernoulli_NNP word_NN vector_NN model_NN ._.
+SVM-based_JJ spam_NN detection_NN models_NNS -LRB-_-LRB- 21_CD ,_, 24_CD -RRB-_-RRB- and_CC boosting_VBG spam_NN models_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- were_VBD compared_VBN in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC genetic_JJ algorithms_NNS versus_CC Naïve_JJ Bayes_NNS were_VBD introduced_VBN and_CC evaluated_VBN in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Text_NN distance_NN models_NNS -LRB-_-LRB- 39_CD ,_, 40_CD -RRB-_-RRB- and_CC pattern_NN extraction_NN versus_CC Naïve_JJ Bayes_NNS were_VBD compared_VBN in_IN -LRB-_-LRB- 33_CD -RRB-_-RRB- ._.
+Further_JJ work_NN has_VBZ been_VBN done_VBN using_VBG cost-sensitive_JJ based_JJ learning_NN -LRB-_-LRB- 1_CD ,_, 2_CD ,_, 17_CD -RRB-_-RRB- ,_, extensions_NNS to_TO Naïve_FW Bayes_FW ba_FW

@@ -1,0 +1,6 @@
+cing_JJ prediction_NN performance_NN ._.
+2_CD ._.
+RELATED_NNS WORK_VBP Recent_JJ research_NN on_IN class_NN imbalance_NN problem_NN has_VBZ focused_VBN on_IN several_JJ major_JJ groups_NNS of_IN techniques_NNS ._.
+One_CD is_VBZ to_TO assign_VB distinct_JJ costs_NNS to_TO the_DT classification_NN errors_NNS =_JJ -_: =[_NN 6_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT method_NN ,_, the_DT misclassification_NN penalty_NN for_IN the_DT positive_JJ class_NN is_VBZ assigned_VBN a_DT higher_JJR value_NN than_IN that_DT of_IN the_DT negative_JJ class_NN ._.
+This_DT method_NN requires_VBZ tuning_NN to_TO come_VB up_RP with_IN good_JJ penalty_NN parameters_NNS f_SYM

@@ -1,0 +1,4 @@
+this_DT purpose_NN ,_, many_JJ proposals_NNS have_VBP been_VBN made_VBN such_JJ as_IN structural_JJ joins_VBZ ,_, indexing_NN ,_, and_CC node_NN labeling_NN -LRB-_-LRB- 3_CD --_: 8_CD -RRB-_-RRB- ._.
+In_IN the_DT last_JJ few_JJ years_NNS ,_, the_DT XML_NN full-text_NN search_NN has_VBZ emerged_VBN as_IN an_DT important_JJ new_JJ research_NN topic_NN =_JJ -_: =[_NN 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, efficient_JJ processing_NN of_IN XML_NN queries_NNS that_WDT contain_VBP both_DT full-text_JJ and_CC structural_JJ conditions_NNS has_VBZ not_RB been_VBN studied_VBN well_RB ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP XICS_NN -LRB-_-LRB- XML_NN Indices_NNS for_IN Content_NN and_CC Structural_JJ s_NN

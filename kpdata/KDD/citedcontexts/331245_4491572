@@ -1,0 +1,3 @@
+to_TO select_VB a_DT small_JJ number_NN of_IN salient_JJ patterns_NNS necessary_JJ for_IN a_DT given_VBN learning_NN task_NN ._.
+A_DT naive_JJ approach_NN is_VBZ to_TO first_RB use_VB a_DT frequent_JJ substructure_NN mining_NN algorithm_NN such_JJ as_IN gSpan_NN -LRB-_-LRB- Yan_NNP &_CC Han_NNP ,_, 2002a_CD -RRB-_-RRB- or_CC Gaston_NNP -LRB-_-LRB- =_JJ -_: =_JJ Nijssen_NNP &_CC Kok_NNP ,_, 2004_CD -_: =--RRB-_NN to_TO collect_VB frequently_RB appearing_VBG patterns_NNS ,_, and_CC then_RB apply_VB a_DT conventional_JJ feature_NN selection_NN algorithm_NN ._.
+Actually_RB ,_, this_DT approach_NN was_VBD employed_VBN by_IN Helma_NNP et_FW al._FW -LRB-_-LRB- 2004_CD -RRB-_-RRB- and_CC Kazius_NNP et_FW al._FW -LRB-_-LRB- 2006_CD -RRB-_-RRB- ,_, where_WRB a_DT lin_NN

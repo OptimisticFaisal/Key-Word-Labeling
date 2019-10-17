@@ -1,0 +1,4 @@
+description_NN of_IN the_DT event_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Basically_RB Naive_JJ Bayes_NNP assumes_VBZ that_IN the_DT text_NN data_NNS is_VBZ generated_VBN by_IN a_DT parametric_JJ model_NN ,_, and_CC uses_VBZ training_NN data_NNS to_TO calculate_VB Bayes-optimal_JJ estimates_NNS of_IN the_DT model_NN parameters_NNS =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Then_RB ,_, it_PRP classifies_VBZ test_NN data_NNS using_VBG the_DT generative_JJ model_NN by_IN calculating_VBG the_DT posterior_JJ probability_NN that_IN a_DT class_NN would_MD have_VB generated_VBN the_DT test_NN data_NNS in_IN question_NN ._.
+The_DT most_RBS probable_JJ class_NN is_VBZ then_RB assigne_NN

@@ -1,0 +1,4 @@
+riminative_JJ probabilistic_JJ models_NNS for_IN sequence_NN labeling_NN ._.
+CRFs_NNS have_VBP attracted_VBN intensive_JJ interest_NN and_CC achieved_VBD success_NN in_IN various_JJ domains_NNS ,_, such_JJ as_IN as_IN computer_NN vision_NN -LRB-_-LRB- 12_CD ,_, 17_CD -RRB-_-RRB- ,_, natural_JJ language_NN processing_NN =_JJ -_: =[_NN 10_CD ,_, 16_CD ,_, 15_CD ,_, 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC bioinformatics_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+In_IN general_JJ ,_, CRFs_NNS model_VBP the_DT conditional_JJ distribution_NN p_NN -LRB-_-LRB- y_NN |_CD x_NN -RRB-_-RRB- between_IN the_DT labeling_NN sequence_NN and_CC the_DT observation_NN sequence_NN ._.
+The_DT learning_NN of_IN CRF_NN parameters_NNS is_VBZ traditionally_RB formula_NN

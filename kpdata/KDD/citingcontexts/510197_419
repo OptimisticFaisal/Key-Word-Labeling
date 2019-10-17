@@ -1,0 +1,4 @@
+ed_VBN data_NNS ._.
+If_IN ,_, however_RB ,_, the_DT group_NN memberships_NNS are_VBP hidden_VBN ,_, as_IN is_VBZ the_DT case_NN in_IN practice_NN ,_, more_RBR complex_JJ procedures_NNS are_VBP required_VBN ._.
+A_DT common_JJ approach_NN for_IN dealing_VBG with_IN hidden_JJ data_NNS is_VBZ to_TO employ_VB the_DT EM_NN algorithm_NN -LRB-_-LRB- =_JJ -_: =_JJ Dempster_NNP ,_, Laird_NNP ,_, and_CC Rubin_NNP ,_, 1977_CD -_: =_JJ -_: ;_: McLachlan_NNP and_CC Krishnan_NNP ,_, 1997_CD -RRB-_-RRB- ._.
+Realizing_VBG that_IN if_IN we_PRP knew_VBD 5_CD the_DT hidden_JJ data_NNS ,_, the_DT problem_NN usually_RB becomes_VBZ a_DT set_NN of_IN much_RB simpler_JJR problems_NNS -LRB-_-LRB- just_RB as_RB above_JJ -RRB-_-RRB- ,_, it_PRP makes_VBZ sense_NN to_TO estimate_VB the_DT hidden_JJ data_NNS ,_, wo_MD

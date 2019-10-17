@@ -1,0 +1,4 @@
+to_TO combine_VB distributional_JJ and_CC pattern-based_JJ word_NN clustering_NN ._.
+In_IN this_DT paper_NN we_PRP propose_VBP to_TO combine_VB them_PRP using_VBG mixture_NN models_NNS based_VBN on_IN hidden_JJ Markov_NNP random_JJ fields_NNS ._.
+This_DT model_NN was_VBD originally_RB proposed_VBN by_IN -LRB-_-LRB- =_JJ -_: =_JJ Basu_NNP et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN for_IN semi-supervised_JJ clustering_NN ._.
+In_IN semisupervised_JJ clustering_NN ,_, the_DT system_NN is_VBZ provided_VBN with_IN supervision_NN in_IN the_DT form_NN of_IN pair-wise_JJ constraints_NNS specifying_VBG data_NNS points_NNS that_WDT are_VBP likely_JJ to_TO belong_VB to_TO the_DT sam_NN

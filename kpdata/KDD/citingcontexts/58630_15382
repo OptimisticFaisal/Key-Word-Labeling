@@ -1,0 +1,4 @@
+s_NN into_IN vectors_NNS ._.
+We_PRP assembled_VBD the_DT termdocument_NN matrix_NN ,_, applied_VBD the_DT log-Idf_JJ transformation_NN to_TO the_DT term_NN counts_NNS as_IN suggested_VBN by_IN Dumais_NNP -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, and_CC then_RB reduced_VBD the_DT dimensionality_NN by_IN latent_JJ semantic_JJ indexing_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP reduced_VBD the_DT 1_CD ,_, 100_CD documents_NNS into_IN a_DT 50-dimensional_JJ space_NN and_CC the_DT 15_CD ,_, 863_CD documents_NNS into_IN a_DT 100-dimensional_JJ space_NN ._.
+Model-based_JJ clustering_NN of_IN the_DT 1,100_CD documents_NNS -LRB-_-LRB- more_RBR precisely_RB ,_, the_DT 1,100_CD 50-dimens_NNS

@@ -1,0 +1,4 @@
+u0_NN and_CC v0_NN are_VBP set_VBN to_TO the_DT positive_JJ values_NNS and_CC θ_FW −_FW 0_CD ,_, respectively_RB ,_, in_IN all_DT dimensions_NNS ._.
+Despite_IN their_PRP$ simplicity_NN ,_, Positive_JJ Winnow_NNP and_CC Balanced_NNP Winnow_NNP are_VBP able_JJ to_TO perform_VB very_RB well_RB in_IN different_JJ NLP_NN tasks_NNS =_JJ -_: =[_NN 3_CD ,_, 4_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2.1.2_CD Modified_NNP Balanced_NNP Winnow_NNP The_NNP Modified_NNP Balanced_NNP Winnow_NNP ,_, henceforth_JJ MBW_NN ,_, is_VBZ detailed_VBN in_IN Table_NNP 2_CD ._.
+Like_IN Balanced_NNP Winnow_NNP ,_, MBW_NNP has_VBZ a_DT promotion_NN parameter_NN α_NN ,_, a_DT demotion_NN parameter_NN β_NN and_CC a_DT threshold_NN par_NN

@@ -1,0 +1,4 @@
+e_LS rows_NNS and_CC columns_NNS ._.
+The_DT clustering_NN objective_NN is_VBZ to_TO seek_VB a_DT hard-clustering_NN of_IN both_DT dimensions_NNS such_JJ that_IN loss_NN in_IN mutual_JJ information_NN I_CD -LRB-_-LRB- W_NN -RRB-_-RRB- −_NN I_CD -LRB-_-LRB- ¯_CD W_NN -RRB-_-RRB- ,_, where_WRB ¯_NNP W_NNP denotes_VBZ the_DT reduced_VBN data_NNS matrix_NN ,_, is_VBZ minimized_VBN =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB we_PRP explore_VBP the_DT relations_NNS between_IN our_PRP$ general_JJ clustering_NN model_NN and_CC the_DT information-theoretic_JJ framework_NN ._.
+If_IN we_PRP view_VBP entries_NNS of_IN W_NN as_IN values_NNS of_IN a_DT joint_JJ probability_NN distribution_NN between_IN row_NN and_CC colu_NN

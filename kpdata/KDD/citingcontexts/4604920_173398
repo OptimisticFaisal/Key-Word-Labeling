@@ -1,0 +1,4 @@
+cube_NN cells_NNS must_MD also_RB be_VB updated_VBN ._.
+If_IN some_DT tuples_NNS are_VBP inserted_VBN to_TO the_DT base_NN relation_NN R_NN ,_, some_DT equivalence_JJ classes_NNS need_VBP to_TO be_VB updated_VBN or_CC split_VBN ._.
+Existing_VBG proposals_NNS for_IN incremental_JJ quotient_JJ cube_NN maintenance_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP not_RB able_JJ to_TO maintain_VB a_DT quotient_JJ cube_NN with_IN holistic_JJ aggregation_NN functions_NNS such_JJ as_IN MEDIAN_NNP and_CC QUANTILE_NNP ._.
+Incremental_JJ updating_VBG holistic_JJ aggregations_NNS is_VBZ difficult_JJ since_IN in_IN the_DT case_NN of_IN changes_NNS to_TO base_VB

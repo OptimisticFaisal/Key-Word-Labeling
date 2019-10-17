@@ -1,0 +1,3 @@
+priori_FW algorithm_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- finds_VBZ frequent_JJ itemsets_NNS and_CC ,_, succeedingly_RB ,_, all_DT sufficiently_RB confident_JJ rules_NNS over_IN these_DT itemsets_NNS ._.
+Many_JJ measures_NNS of_IN interestingness_NN of_IN rules_NNS and_CC itemsets_NNS havesbeen_NN discussed_VBN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 12_CD ,_, 2_CD ,_, 9_CD ,_, 18_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+A_DT fundamental_JJ shortcoming_NN of_IN all_DT of_IN these_DT interestingness_NN measures_NNS is_VBZ that_IN neither_DT of_IN them_PRP takes_VBZ into_IN account_NN whether_IN discovered_VBN knowledge_NN is_VBZ entailed_VBN by_IN previously_RB available_JJ background_NN knowledge_NN ._.

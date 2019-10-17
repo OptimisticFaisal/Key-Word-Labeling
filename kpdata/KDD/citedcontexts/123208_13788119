@@ -1,0 +1,5 @@
+of_IN hops_VBZ =_JJ 2_CD −_CD NH_NNP -LRB-_-LRB- E_NNP ,_, T_NN -RRB-_-RRB- ,_, whereNH_NN -LRB-_-LRB- E_NN ,_, T_NN -RRB-_-RRB- is_VBZ the_DT number_NN of_IN edges_NNS traversed_VBN along_IN the_DT shortest_JJS path_NN from_IN E_NN to_TO T_NN ._.
+4.2.2_NN ._.
+N-Step_NNP Markov_NNP -LRB-_-LRB- NSM_NNP -RRB-_-RRB- :_: NSM_NN is_VBZ a_DT feature_NN used_VBN to_TO quantify_VB the_DT relative_JJ importance_NN of_IN E_NN to_TO T_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: by_IN computing_VBG the_DT probability_NN that_IN a_DT random_JJ walk_NN started_VBN at_IN E_NN will_MD visit_VB T_NN after_IN N_NN steps_NNS are_VBP taken_VBN ._.
+Which_WDT can_MD be_VB computed_VBN as_IN the_DT value_NN at_IN the_DT T_NN th_DT index_NN of_IN the_DT vector_NN :_: NSM_NN -LRB-_-LRB- E_NN ,_, ._. -RRB-_-RRB-
+=_JJ AiE_NN +_CC A_NN 2_CD iE_NN +_CC A_NN 3_CD iE_NN +_CC

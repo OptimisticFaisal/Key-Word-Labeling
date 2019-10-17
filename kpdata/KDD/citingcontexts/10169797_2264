@@ -1,0 +1,4 @@
+ent_JJ domain_NN -LRB-_-LRB- as_IN observed_VBN in_IN four_CD large_JJ enterprise_NN networks_NNS -RRB-_-RRB- is_VBZ about_IN 37_CD hops_VBZ ._.
+Therefore_RB ,_, in_IN this_DT setting_NN ,_, the_DT set_NN of_IN up-streaming_JJ #_# 1_CD #_# 2_CD #_# 3_CD L1_NN :_: -LRB-_-LRB- 4_CD ,_, 5_CD -RRB-_-RRB- L2_NN :_: -LRB-_-LRB- 7_CD ,_, 9_CD -RRB-_-RRB- L1_NN :_: -LRB-_-LRB- 6_CD ,_, 6_CD -RRB-_-RRB- L1_NN :_: -LRB-_-LRB- 7_CD ,_, 7_CD -RRB-_-RRB- sink_VBP #_# 4_CD #_# 5_CD #_# 6_CD L1_NN :_: =_JJ -_: =[_NN 8_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: #_# 7_CD #_# 8_CD #_# 9_CD Figure_NNP 2_CD :_: Index_NN of_IN up\/down-streaming_JJ neighbors_NNS ._.
+neighbors_NNS -LRB-_-LRB- utmost_JJ φ_NN -RRB-_-RRB- of_IN a_DT node_NN can_MD be_VB directly_RB cached_VBN ._.
+We_PRP then_RB traverse_VBP the_DT routing_VBG tree_NN in_IN a_DT level-order_NN -LRB-_-LRB- breadth-first_NN -RRB-_-RRB- assigning_VBG each_DT node_NN

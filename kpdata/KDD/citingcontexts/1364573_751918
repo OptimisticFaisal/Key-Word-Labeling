@@ -1,0 +1,4 @@
+ing_NN problem_NN ,_, we_PRP developed_VBD an_DT algorithm_NN ,_, called_VBN IPM2_NN -LRB-_-LRB- Interaction-Pattern_NNP Miner_NNP 2_CD -RRB-_-RRB- ,_, to_TO solve_VB it_PRP ._.
+IPM2_NN uses_VBZ the_DT strategy_NN of_IN developing_VBG longer_JJR candidate_NN patterns_NNS from_IN shorter_JJR ones_NNS ._.
+Like_IN Web_NN usage_NN mining_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, IPM2_NN has_VBZ three_CD steps_NNS :_: preprocessing_NN of_IN input_NN sequences_NNS ,_, pattern_NN discovery_NN and_CC pattern_NN analysis_NN ._.
+Unlike_IN Apriori-based_JJ algorithms_NNS ,_, IPM2_NN avoids_VBZ multiple_JJ passes_NNS over_IN the_DT database_NN by_IN maintaining_VBG location_NN

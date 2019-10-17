@@ -1,0 +1,4 @@
+ts_NNS on_IN prediction_NN accuracy_NN ,_, and_CC to_TO analyze_VB the_DT advantage_NN of_IN our_PRP$ approach_NN over_IN alternative_JJ methods_NNS such_JJ as_IN incremental_JJ learning_NN ._.
+The_DT base_NN models_NNS used_VBN in_IN our_PRP$ tests_NNS are_VBP C4_NN .5_CD -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, the_DT RIPPER_NN rule_NN learner_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC the_DT Naive_JJ Bayesian_JJ method_NN ._.
+The_DT tests_NNS are_VBP conducted_VBN on_IN a_DT Linux_NNP machine_NN with_IN a_DT 770_CD MHz_NNP CPU_NNP and_CC 256_CD MB_NN main_JJ memory_NN ._.
+6.1_CD Algorithms_NNS used_VBN in_IN Comparison_NN We_PRP denote_VBP a_DT classifier_NN ensemble_NN with_IN a_DT capacity_NN

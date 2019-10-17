@@ -1,0 +1,3 @@
+by_IN a_DT boosting_VBG algorithm_NN -LRB-_-LRB- DistBoost_NN -RRB-_-RRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+To_TO evaluate_VB the_DT clustering_NN performance_NN ,_, we_PRP use_VBP the_DT some_DT standard_JJ performance_NN metrics_NNS ,_, including_VBG pairwise_JJ Precision_NN ,_, pairwise_JJ Recall_VB ,_, and_CC pairwise_JJ F1_NN measures_VBZ =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT are_VBP evaluated_VBN base_NN on_IN the_DT pairwise_JJ results_NNS ._.
+Specifically_RB ,_, pairwise_JJ precision_NN is_VBZ the_DT ratio_NN of_IN the_DT number_NN of_IN correct_JJ pairs_NNS placed_VBN in_IN the_DT same_JJ cluster_NN over_IN the_DT total_JJ number_NN of_IN pairs_NNS placed_VBN in_IN the_DT

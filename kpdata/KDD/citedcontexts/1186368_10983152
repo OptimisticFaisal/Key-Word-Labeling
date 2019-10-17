@@ -1,0 +1,4 @@
+G_NN has_VBZ a_DT structure_NN similar_JJ to_TO that_DT of_IN Gp_NN ,_, although_IN not_RB necessarily_RB identical_JJ ._.
+The_DT need_NN for_IN this_DT is_VBZ evident_JJ in_IN ,_, e.g._FW ,_, Web_NN anomaly_NN detection_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, search_NN result_NN classification_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- ,_, plagiarism_NN detection_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: and_CC spam_NN detection_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+In_IN these_DT contexts_NNS ,_, identical_JJ label_NN matching_NN is_VBZ often_RB an_DT overkill_NN ,_, and_CC edge-to-edge_JJ mappings_NNS only_RB allow_VBP strikingly_RB similar_JJ graphs_NNS to_TO be_VB matched_VBN ._.
+Example_NN 1.1_CD :_: Consider_VB two_CD onlin_NN

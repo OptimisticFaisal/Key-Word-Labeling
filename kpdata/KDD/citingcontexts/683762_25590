@@ -1,0 +1,5 @@
+ands_VBZ it_PRP into_IN longer_JJR phrases_NNS that_WDT occurs_VBZ more_JJR than_IN M_NN times_NNS ._.
+It_PRP uses_VBZ a_DT priority_NN queue_NN of_IN phrases_NNS sorted_VBN by_IN frequency_NN and_CC heuristics_NNS for_IN generating_VBG expansion_NN candidates_NNS ,_, similar_JJ to_TO the_DT APRIORI_NNP algorithm_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Sentence_NN and_CC block_NN boundaries_NNS and_CC the_DT linguistic_JJ class_NN of_IN a_DT token_JJ is_VBZ checked_VBN to_TO see_VB if_IN a_DT candidate_NN phrase_NN can_MD be_VB expanded_VBN or_CC not_RB ._.
+3_LS ._.
+A_DT ConstituentFilter_NNP is_VBZ used_VBN when_WRB we_PRP want_VBP to_TO extract_VB only_JJ noun_NN phr_NN

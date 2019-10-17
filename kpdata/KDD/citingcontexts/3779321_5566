@@ -1,0 +1,5 @@
+r_NN computing_VBG the_DT marginals_NNS ._.
+Approximate_JJ methods_NNS like_IN Gibbs_NNP sampling_NN are_VBP an_DT interesting_JJ topic_NN for_IN future_JJ work_NN ._.
+Best_NN known_JJ approaches_NNS to_TO exact_JJ marginalizations_NNS are_VBP join_VB trees_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC bucket_NN elimination_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP chose_VBD bucket_NN elimination_NN method_NN which_WDT is_VBZ easier_JJR to_TO implement_VB and_CC according_VBG to_TO -LRB-_-LRB- 5_CD -RRB-_-RRB- as_RB efficient_JJ as_IN join_VB tree_NN based_JJ methods_NNS ._.
+Also_RB ,_, join_VB trees_NNS are_VBP mainly_RB useful_JJ for_IN computing_VBG marginals_NNS for_IN single_JJ at_IN

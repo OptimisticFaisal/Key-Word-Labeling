@@ -1,0 +1,4 @@
+function_NN value_NN if_IN they_PRP are_VBP obtained_VBN by_IN optimizing_VBG the_DT same_JJ cost_NN function_NN ,_, but_CC it_PRP becomes_VBZ less_RBR obvious_JJ otherwise_RB ._.
+To_TO make_VB matters_NNS worse_JJR ,_, some_DT clustering_NN algorithms_NNS ,_, such_JJ as_IN DBSCAN_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC Random_NNP Walks_VBZ =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, have_VBP no_DT explicit_JJ cost_NN functions_NNS ._.
+Under_IN the_DT assumption_NN that_IN every_DT candidate_NN is_VBZ rather_RB good_JJ ,_, the_DT best_JJS candidate_NN could_MD probably_RB be_VB the_DT one_NN agreed_VBD most_JJS by_IN the_DT whole_JJ set_NN ._.
+So_RB we_PRP may_MD evaluate_VB the_DT degree_NN of_IN

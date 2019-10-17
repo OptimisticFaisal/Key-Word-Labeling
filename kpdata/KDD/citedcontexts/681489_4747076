@@ -1,0 +1,4 @@
+ssifier_JJR ,_, to_TO over-fit_VB the_DT training_NN data_NNS ,_, since_IN the_DT irrelevant_JJ or_CC redundant_JJ features_NNS may_MD confuse_VB the_DT learning_NN algorithm_NN ._.
+A_DT Redundancy_NN Based_VBN Filter_NNP -LRB-_-LRB- RBF_NNP -RRB-_-RRB- methodology_NN on_IN microarray_NN data_NNS has_VBZ been_VBN proposed_VBN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT RBF_NNP has_VBZ successfully_RB removed_VBN large_JJ number_NN of_IN features_NNS but_CC has_VBZ not_RB compromised_VBN the_DT accuracy_NN of_IN the_DT classifiers_NNS ._.
+On_IN each_DT iteration_NN ,_, the_DT method_NN selects_VBZ one_CD feature_NN simply_RB based_VBN on_IN Individual_NNP Symmet_NNP

@@ -1,0 +1,4 @@
+matrix_NN ,_, we_PRP must_MD securely_RB compute_VB the_DT dot_NN product_NN over_IN every_DT data_NNS pair_NN ._.
+This_DT is_VBZ possible_JJ using_VBG a_DT secure_JJ dot_NN product_NN computation_NN method_NN ._.
+However_RB ,_, most_RBS existing_JJ secure_JJ dot_NN product_NN computation_NN methods_NNS =_JJ -_: =[_NN 6_CD ,_, 27_CD ,_, 14_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP inefficient_JJ or_CC insecure_JJ to_TO be_VB applied_VBN for_IN computing_VBG the_DT gram_NN matrix_NN ._.
+The_DT one_CD exception_NN is_VBZ the_DT method_NN developed_VBN by_IN Goethals_NNP et_NNP al_NNP -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, which_WDT is_VBZ fully_RB secure_JJ and_CC is_VBZ actually_RB suitable_JJ for_IN this_DT work_NN

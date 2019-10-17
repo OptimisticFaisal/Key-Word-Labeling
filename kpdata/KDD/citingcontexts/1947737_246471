@@ -1,0 +1,4 @@
+results_NNS that_WDT describe_VBP the_DT minimum_JJ test_NN error_NN ._.
+With_IN big_JJ data_NNS ,_, it_PRP is_VBZ easy_JJ to_TO obtain_VB more_JJR than_IN one_CD test_NN sample_NN ,_, 15sand_NN for_IN estimating_VBG a_DT single_JJ variable_NN ,_, a_DT large_JJ single_JJ test_NN set_NN is_VBZ adequate_JJ in_IN practice_NN -LRB-_-LRB- =_JJ -_: =_JJ Breiman_NNP et_FW al._FW ,_, 1984_CD -_: =--RRB-_NN ._.
+For_IN purposes_NNS of_IN experimentation_NN ,_, we_PRP xed_VBD almost_RB all_DT parameters_NNS ,_, except_IN for_IN maximum_NN number_NN of_IN disjuncts_NNS and_CC the_DT number_NN of_IN rules_NNS ._.
+The_DT number_NN of_IN disjuncts_NNS is_VBZ clearly_RB on_IN the_DT critical_JJ path_NN to_TO higher_JJR perf_NN

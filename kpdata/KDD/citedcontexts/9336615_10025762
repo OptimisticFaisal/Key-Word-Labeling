@@ -1,0 +1,4 @@
+equal_JJ weight_NN to_TO all_DT classes_NNS ,_, providing_VBG us_PRP complementary_JJ information_NN ._.
+7.1_CD Yahoo_NNP We_PRP ran_VBD experiments_NNS on_IN a_DT corpus_NN from_IN the_DT Yahoo_NNP directory_NN ,_, modeling_NN our_PRP$ experimental_JJ conditions_NNS on_IN the_DT ones_NNS described_VBN in_IN -LRB-_-LRB- =_JJ -_: =_JJ Ji_FW et_FW al._FW ,_, 2008_CD -_: =--RRB-_NN ._.
+2_CD We_PRP considered_VBD documents_NNS drawn_VBN from_IN 8_CD top_JJ level_NN categories_NNS in_IN the_DT Yahoo_NNP directory_NN ,_, where_WRB each_DT document_NN can_MD be_VB placed_VBN in_IN any_DT number_NN of_IN subcategories_NNS ._.
+The_DT results_NNS were_VBD mixed_VBN ,_, with_IN SVMs_NNS ahead_RB on_IN one_CD

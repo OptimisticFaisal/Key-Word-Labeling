@@ -1,0 +1,5 @@
+ies_NNS ._.
+Scientific_NNP publications_NNS in_IN this_DT domain_NN are_VBP still_RB sparse_JJ ._.
+Existing_VBG work_NN can_MD be_VB broadly_RB divided_VBN in_IN approaches_NNS that_WDT analyze_VBP the_DT content_NN of_IN the_DT tagged_VBN resources_NNS with_IN information_NN retrieval_NN techniques_NNS =_JJ -_: =[_NN 25_CD ,_, 26_CD -RRB-_-RRB- -_: =_JJ -_: and_CC approaches_NNS that_WDT use_VBP collaborative_JJ filtering_VBG methods_NNS based_VBN on_IN the_DT folksonomy_NN structure_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- ._.
+An_DT example_NN of_IN the_DT latter_JJ class_NN of_IN approaches_NNS is_VBZ Ref_NNP ._.
+-LRB-_-LRB- 28_CD -RRB-_-RRB- ,_, where_WRB we_PRP used_VBD our_PRP$ FolkRank_NNP algorithm_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- for_IN

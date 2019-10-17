@@ -1,0 +1,4 @@
+learning_NN -LRB-_-LRB- PPRL_NN -RRB-_-RRB- ,_, in_IN which_WDT agents_NNS '_POS perceptions_NNS ,_, such_JJ as_IN states_NNS ,_, rewards_NNS ,_, and_CC actions_NNS ,_, are_VBP not_RB only_RB distributed_VBN but_CC are_VBP desired_VBN to_TO be_VB kept_VBN private_JJ ._.
+Consider_VB two_CD example_NN scenarios_NNS :_: Optimized_NNP Marketing_NNP -LRB-_-LRB- =_JJ -_: =_JJ Abe_NN et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN :_: Consider_VB the_DT modeling_NN of_IN the_DT customer_NN 's_POS purchase_NN behavior_NN as_IN a_DT Markov_NNP Decision_NN Process_VB -LRB-_-LRB- MDP_NN -RRB-_-RRB- ._.
+The_DT goal_NN is_VBZ to_TO obtain_VB the_DT optimal_JJ catalog_NN mailing_NN strategy_NN which_WDT maximizes_VBZ the_DT long-term_JJ profit_NN ._.
+Timest_NNP

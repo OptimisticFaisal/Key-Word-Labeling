@@ -1,0 +1,4 @@
+The_DT data_NNS set_NN contains_VBZ 44,848_CD instances_NNS of_IN which_WDT 29.3_CD %_NN are_VBP in_IN the_DT \_NN over_IN 50k_NN ''_'' class_NN ._.
+SEER_NN breast_NN cancer_NN :_: The_DT breast_NN cancer_NN data_NNS set_VBN from_IN the_DT Surveillance_NNP ,_, Epidemiology_NNP ,_, and_CC End_NN Results_NNS -LRB-_-LRB- SEER_NN -RRB-_-RRB- prog_NN =_JJ -_: =_JJ ram_NN -LRB-_-LRB- 6_CD -_: =-]_CD of_IN the_DT National_NNP Institutes_NNPS of_IN Health_NNP contains_VBZ follow-up_JJ data_NNS on_IN over_IN 44,000_CD breast_NN cancer_NN patients_NNS ._.
+The_DT cases_NNS weresltered_VBD to_TO create_VB a_DT classication_NN problem_NN ._.
+Class_NN 1_CD contains_VBZ those_DT patients_NNS who_WP died_VBD o_NN

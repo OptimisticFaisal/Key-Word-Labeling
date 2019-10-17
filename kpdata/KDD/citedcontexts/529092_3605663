@@ -1,0 +1,4 @@
+nt_NN at_IN query_NN time_NN ,_, usually_RB clustering_NN methods_NNS need_VBP the_DT whole_JJ database_NN and_CC therefore_RB can_MD not_RB be_VB dynamically_RB updated_VBN ._.
+Furthermore_RB ,_, clustering_VBG very_RB large_JJ database_NN has_VBZ an_DT unaffordable_JJ cost_NN ._.
+Bennet_NNP et_NNP al_NNP in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ the_DT DBIN_NN -LRB-_-LRB- Density_NN Based_VBN Indexing_NN -RRB-_-RRB- ,_, an_DT access_NN method_NN relying_VBG on_IN the_DT estimation_NN of_IN the_DT distribution_NN of_IN the_DT database_NN ._.
+They_PRP assume_VBP a_DT mixture_NN of_IN Gaussian_JJ distribution_NN that_IN they_PRP estimate_VBP through_IN

@@ -1,0 +1,3 @@
+a_DT survey_NN in_IN ,_, e.g._FW ,_, -LRB-_-LRB- 18_CD ,_, 8_CD ,_, 3_CD -RRB-_-RRB- ._.
+In_IN the_DT model_NN combination_NN paradigm_NN ,_, partitioned_VBN logistic_JJ regression_NN can_MD be_VB categorized_VBN as_IN a_DT model_NN of_IN logarithmic_JJ opinion_NN pools_NNS in_IN Hinton_NNP 's_POS products_NNS of_IN experts_NNS framework_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB the_DT final_JJ prediction_NN is_VBZ made_VBN by_IN averaging_VBG the_DT estimated_VBN log-odds_NNS of_IN individual_JJ classifiers_NNS -LRB-_-LRB- i.e._FW ,_, experts_NNS -RRB-_-RRB- ._.
+Following_VBG the_DT same_JJ naive_JJ Bayes_NNP assumption_NN ,_, Kahn_NNP proposed_VBD an_DT improved_VBN version_NN of_IN the_DT

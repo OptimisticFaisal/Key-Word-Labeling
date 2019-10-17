@@ -1,0 +1,3 @@
+here_RB are_VBP no_DT precondition_NN or_CC effect_NN expressions_NNS associated_VBN with_IN the_DT process_NN this_DT matching_JJ algorithm_NN reduces_VBZ to_TO standard_JJ techniques_NNS developed_VBN for_IN Semantic_JJ Web_NN Service_NN matchmaking_NN -LRB-_-LRB- Paolucci_NNP et_FW al._FW 2002_CD ;_: =_JJ -_: =_JJ Li_NNP &_CC Horrocks_NNP 2003_CD -_: =--RRB-_NN that_WDT simply_RB checks_VBZ subsumption_NN relation_NN between_IN parameter_NN types_NNS ._.
+The_DT second_JJ step_NN in_IN matching_NN is_VBZ to_TO compute_VB the_DT rank_NN of_IN the_DT services_NNS based_VBN on_IN the_DT given_VBN preferences_NNS ._.
+We_PRP adopt_VBP the_DT standard_JJ rank_NN computa_NN

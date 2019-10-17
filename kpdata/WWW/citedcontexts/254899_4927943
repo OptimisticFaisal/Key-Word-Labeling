@@ -1,0 +1,5 @@
+o_NN a_DT webpage_NN a_DT warning_NN will_MD be_VB generated_VBN ._.
+Taint_NN analysis_NN was_VBD first_RB introduced_VBN by_IN Perl_NNP 's_POS taint_NN mode_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+In_IN 2005_CD Huang_NNP et_FW al._FW presented_VBN with_IN WEBSSARI_NN a_DT tool_NN that_WDT provides_VBZ static_JJ taint_NN analysis_NN for_IN PHP_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Microsoft_NNP introduced_VBD an_DT ``_`` http_NN only_RB ''_'' option_NN for_IN cookies_NNS with_IN their_PRP$ web_NN browser_NN Internet_NNP Explorer_NNP 6_CD SP1_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+Cookies_NNS that_WDT are_VBP set_VBN with_IN this_DT option_NN are_VBP not_RB accessible_JJ by_IN JavaScript_NNP and_CC therefore_RB safe_JJ

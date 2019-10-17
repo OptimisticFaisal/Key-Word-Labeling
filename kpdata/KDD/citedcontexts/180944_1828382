@@ -1,0 +1,4 @@
+originally_RB 29_CD integer_NN numbers_NNS to_TO 9_CD classes_NNS ._.
+Again_RB ,_, we_PRP did_VBD this_DT ,_, because_IN the_DT resulting_VBG recall_NN values_NNS were_VBD very_RB low_JJ in_IN the_DT original_JJ dataset_NN ._.
+We_PRP used_VBD the_DT freely_RB available_JJ version_NN of_IN KMeans_NN by_IN Dan_NNP Pelleg_NNP =_SYM -_: =_JJ -LRB-_-LRB- PM99_NN -RRB-_-RRB- -_: =_JJ -_: and_CC applied_VBD it_PRP with_IN three_CD different_JJ initialization_NN methods_NNS :_: Random_JJ -LRB-_-LRB- data-independent_JJ ,_, the_DT de_FW facto_FW standard_NN -RRB-_-RRB- ,_, Refine_VB -LRB-_-LRB- with_IN one_CD slight_JJ modification_NN ,_, see_VBP below_IN -RRB-_-RRB- and_CC KDI_NNP ._.
+We_PRP repeated_VBD every_DT experiment_NN 10_CD

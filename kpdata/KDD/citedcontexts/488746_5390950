@@ -1,0 +1,3 @@
+cluster_NN are_VBP constrained_VBN to_TO be_VB identical_JJ ._.
+This_DT reduces_VBZ the_DT number_NN of_IN parameters_NNS to_TO -LRB-_-LRB- 1_CD +_CC |_CD C_NN |_NN -RRB-_-RRB- ×_CD k_NN +_CC -LRB-_-LRB- 1_CD +_CC |_CD P_NN |_NN -RRB-_-RRB- ×_FW l._FW For_IN more_JJR details_NNS of_IN the_DT algorithm_NN for_IN the_DT reduced_VBN parameter_NN approach_NN ,_, the_DT reader_NN is_VBZ referred_VBN to_TO =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+6_CD Experimental_JJ Results_NNS on_IN a_DT Real_NNP Marketing_NNP Dataset_NNP We_PRP applied_VBD the_DT simultaneous_JJ co-clustering_NN and_CC regression_NN approach_NN to_TO two_CD challenging_JJ marketing_NN applications_NNS ,_, -LRB-_-LRB- i_LS -RRB-_-RRB- predicting_VBG unknown_JJ customer-product_NN

@@ -1,0 +1,4 @@
+aults_NNS in_IN distributed_VBN applications_NNS ._.
+Ide_NNP &_CC Kashima_NNP analyze_VBP time_NN series_NN of_IN application_NN component_NN interactions_NNS ;_: their_PRP$ method_NN detected_VBD injected_VBN faults_NNS in_IN a_DT benchmark_JJ application_NN serving_VBG synthetic_JJ workload_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Brutlag_NNP describes_VBZ a_DT far_RB simpler_JJR time-series_JJ anomaly_NN detection_NN method_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- that_WDT has_VBZ been_VBN deployed_VBN in_IN real_JJ production_NN systems_NNS for_IN several_JJ years_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Our_PRP$ approach_NN differs_VBZ in_IN that_IN it_PRP exploits_VBZ knowledge_NN o_NN

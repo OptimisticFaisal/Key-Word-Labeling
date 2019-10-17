@@ -1,0 +1,5 @@
+nalysis_NN tasks_NNS ._.
+For_IN example_NN ,_, the_DT correct_JJ distribution_NN of_IN an_DT attribute_NN may_MD not_RB be_VB known_VBN ._.
+Then_RB ,_, analyzing_VBG suspicious_JJ values_NNS ,_, outliers_NNS and_CC distribution_NN may_MD become_VB difficult_JJ and_CC unreliable_JJ ._.
+As_IN observed_VBN in_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT missing_VBG value_NN may_MD disguise_VB itself_PRP as_IN an_DT inlier_NN ,_, a_DT data_NN value_NN that_WDT lies_VBZ in_IN the_DT interior_NN of_IN the_DT statistical_JJ distribution_NN of_IN normal_JJ data_NNS values_NNS ._.
+Those_DT inlier_NN disguised_VBD missing_VBG values_NNS can_MD not_RB be_VB detect_VB

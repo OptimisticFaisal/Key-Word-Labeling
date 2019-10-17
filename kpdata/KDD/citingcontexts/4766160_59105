@@ -1,0 +1,3 @@
+ox_NN of_IN the_DT subset_NN contains_VBZ no_DT examples_NNS of_IN other_JJ classes_NNS ._.
+As_IN a_DT prominent_JJ clustering_NN model_NN ,_, k-clustering_NN generates_VBZ k_NN clusters_NNS minimizing_VBG some_DT objective_JJ ,_, such_JJ as_IN maximum_NN radius_VBZ as_IN in_IN the_DT k-center_NN problem_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: or_CC maximum_JJ diameter_NN as_IN in_IN the_DT pairwise_JJ clustering_NN problem_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+The_DT radius_NN of_IN a_DT cluster_NN is_VBZ the_DT maximum_NN distance_NN between_IN a_DT fixed_JJ point_NN -LRB-_-LRB- center_NN -RRB-_-RRB- and_CC any_DT point_NN in_IN the_DT cluster_NN ,_, and_CC the_DT diameter_NN is_VBZ the_DT max_NN

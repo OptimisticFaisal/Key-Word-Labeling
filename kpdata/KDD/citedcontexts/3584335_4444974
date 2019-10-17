@@ -1,0 +1,6 @@
+s_NN ,_, Bailey_NNP and_CC al._FW -LRB-_-LRB- 2_CD -RRB-_-RRB- propose_VBP a_DT new_JJ tree-based_JJ data_NNS structure_NN for_IN storing_VBG the_DT dataset_NN ._.
+Their_PRP$ approach_NN is_VBZ 2-10_CD times_NNS faster_RBR than_IN the_DT technique_NN of_IN handling_VBG borders_NNS ._.
+Other_JJ approaches_NNS exist_VBP ._.
+Zhang_NNP et_FW al._FW =_SYM -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: introduce_VB an_DT anti-monotonous_JJ constraint_NN to_TO be_VB able_JJ to_TO apply_VB a_DT level-wise_JJ algorithm_NN ._.
+But_CC this_DT one_NN eliminates_VBZ many_JJ EPs_NNS and_CC loses_VBZ the_DT completeness_NN of_IN the_DT search_NN ._.
+In_IN a_DT more_RBR general_JJ way_NN ,_, this_DT problem_NN can_MD

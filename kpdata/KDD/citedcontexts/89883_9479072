@@ -1,0 +1,3 @@
+sed_VBN on_IN finding_NN -LRB-_-LRB- nearly_RB -RRB-_-RRB- exact_JJ matches_NNS of_IN graph_NN patterns_NNS within_IN one_CD or_CC more_JJR graphs_NNS ,_, where_WRB a_DT pattern_NN is_VBZ defined_VBN as_IN an_DT induced_VBN subgraph_NN consisting_VBG of_IN -LRB-_-LRB- un_NN -RRB-_-RRB- labeled_JJ nodes_NNS and_CC explicit_JJ linkages_NNS between_IN them_PRP =_JJ -_: =[_NN 5_CD ,_, 7_CD ,_, 15_CD ,_, 13_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD limitation_NN with_IN these_DT is_VBZ that_IN they_PRP are_VBP generally_RB too_RB exact_JJ --_: they_PRP do_VBP not_RB allow_VB for_IN graph-based_JJ similarity_NN scores_NNS beyond_IN graphedit_NN distance_NN ._.
+These_DT methods_NNS look_VBP for_IN explicit_JJ graph_NN patterns_NNS ,_, such_JJ tha_NN

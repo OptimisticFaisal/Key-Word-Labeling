@@ -1,0 +1,5 @@
+s_NN is_VBZ appropriate_JJ because_IN those_DT frequent_JJ itemsets_NNS are_VBP likely_JJ to_TO be_VB product_NN features_NNS ._.
+Those_DT noun\/noun_JJ phrases_NNS that_WDT are_VBP infrequent_JJ are_VBP likely_JJ to_TO be_VB non-product_JJ features_NNS ._.
+We_PRP run_VBP the_DT association_NN miner_NN CBA_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ based_VBN on_IN the_DT Apriori_NNP algorithm_NN in_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- on_IN the_DT transaction_NN set_NN of_IN noun\/noun_JJ phrases_NNS produced_VBN in_IN the_DT previous_JJ step_NN ._.
+Each_DT resulting_VBG frequent_JJ itemset_NN is_VBZ a_DT possible_JJ feature_NN ._.
+In_IN our_PRP$ work_NN ,_, we_PRP defin_VBP

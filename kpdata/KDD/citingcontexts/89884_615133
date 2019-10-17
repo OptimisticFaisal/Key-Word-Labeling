@@ -1,0 +1,4 @@
+In_IN a_DT recent_JJ paper_NN ,_, Asai_NNP et_FW al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- presented_VBN FREQT_NNP ,_, an_DT apriori-like_JJ algorithm_NN for_IN mining_NN labeled_VBN ordered_VBD trees_NNS ;_: they_PRP independently_RB proposed_VBD a_DT candidate_NN generation_NN scheme_NN similar_JJ to_TO ours_PRP ._.
+Wang_NNP and_CC Liu_NNP =_SYM -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: developed_VBD an_DT algorithm_NN to_TO mine_VB frequently_RB occurring_VBG subtrees_NNS in_IN XML_NN documents_NNS ._.
+Their_PRP$ algorithm_NN is_VBZ also_RB reminiscent_JJ of_IN the_DT level-wise_JJ Apriori_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- approach_NN ,_, and_CC they_PRP mine_VBP induced_VBN subtrees_NNS only_RB ._.
+A_DT relat_NN

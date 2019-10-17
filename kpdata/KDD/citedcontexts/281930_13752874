@@ -1,0 +1,5 @@
+s_NNS are_VBP the_DT top_JJ n_NN data_NN elements_NNS whose_WP$ distance_NN to_TO the_DT kth_NN nearest_JJS neighbor_NN is_VBZ greatest_JJS ._.
+Such_JJ outliers_NNS will_MD be_VB called_VBN DBk_JJ n_NN outliers_NNS ._.
+Based_VBN on_IN the_DT above_JJ DB_NN -LRB-_-LRB- p_NN ,_, D_NN -RRB-_-RRB- and_CC DBk_NN n_NN definitions_NNS several_JJ algorithms_NNS =_JJ -_: =[_NN 1_CD ,_, 3_CD ,_, 4_CD ,_, 5_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP appeared_VBN in_IN the_DT literature_NN ._.
+The_DT simplest_JJS algorithm_NN to_TO detect_VB all_DT DB_NN -LRB-_-LRB- p_NN ,_, D_NN -RRB-_-RRB- -LRB-_-LRB- even_JJ DBk_NN n_NN -RRB-_-RRB- outliers_NNS is_VBZ a_DT nested_JJ loop_NN approach_NN ._.
+Each_DT point_NN in_IN the_DT database_NN is_VBZ examined_VBN with_IN all_DT other_JJ points_NNS until_IN it_PRP n_NN

@@ -1,0 +1,3 @@
+ent_NN -LRB-_-LRB- e.g._FW ,_, the_DT entries_NNS of_IN membership_NN vector_NN are_VBP either_CC 0_CD or_CC 1_CD -RRB-_-RRB- is_VBZ NP-hard_JJ ,_, spectral_JJ clustering_NN relaxes_VBZ the_DT constraint_NN to_TO allow_VB the_DT membership_NN vector_NN to_TO be_VB continuous_JJ ._.
+The_DT initial_JJ work_NN of_IN coclustering_NN =_JJ -_: =[_NN 40_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 17_CD -RRB-_-RRB- tries_VBZ to_TO address_VB the_DT problem_NN of_IN clustering_VBG both_DT words_NNS and_CC documents_NNS simultaneously_RB by_IN taking_VBG advantage_NN of_IN the_DT structure_NN of_IN a_DT bipartite_JJ ._.
+Gao_NNP et_FW al._FW -LRB-_-LRB- 41_CD -RRB-_-RRB- extend_VBP the_DT problem_NN to_TO a_DT star-typed_JJ

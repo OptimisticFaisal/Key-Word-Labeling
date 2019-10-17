@@ -1,0 +1,4 @@
+is_VBZ always_RB mapped_VBN to_TO the_DT same_JJ generalized_JJ value_NN ._.
+In_IN contrast_NN ,_, local_JJ recoding_NN allows_VBZ distinct_JJ mappings_NNS across_IN different_JJ anonymized_JJ groups_NNS ._.
+Clustering-based_JJ local_JJ recoding_NN methods_NNS are_VBP proposed_VBN in_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+k-anonymity_NN prevents_VBZ re-identification_NN of_IN individual_JJ records_NNS ,_, but_CC it_PRP is_VBZ vulnerable_JJ to_TO homogeneity_NN attacks_NNS ,_, where_WRB many_JJ -LRB-_-LRB- or_CC all_DT -RRB-_-RRB- of_IN the_DT records_NNS in_IN an_DT anonymized_JJ group_NN share_VBP the_DT same_JJ sensitive_JJ attribut_NN

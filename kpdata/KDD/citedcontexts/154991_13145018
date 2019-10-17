@@ -1,0 +1,5 @@
+give_VB a_DT summary_NN description_NN of_IN our_PRP$ implementation_NN of_IN that_DT system_NN ._.
+Refer_NN to_TO the_DT original_JJ paper_NN for_IN more_JJR details_NNS ._.
+166cific_JJ implementation_NN ,_, we_PRP select_VBP a_DT set_NN of_IN positive_JJ examples_NNS from_IN the_DT CBC_NN repository_NN -LRB-_-LRB- =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =--RRB-_NN ._.
+CBC_NNP is_VBZ a_DT word_NN clustering_NN algorithm_NN that_IN groups_NNS instances_NNS appearing_VBG in_IN similar_JJ textual_JJ contexts_NNS ._.
+By_IN manually_RB analyzing_VBG the_DT cluster_NN members_NNS in_IN the_DT repository_NN created_VBN by_IN CBC_NNP ,_, it_PRP is_VBZ easy_JJ to_TO pickup_NN the_DT

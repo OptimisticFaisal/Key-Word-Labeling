@@ -1,0 +1,4 @@
+is_VBZ o_NN considered_VBN an_DT outlier_NN ._.
+Several_JJ extensions_NNS and_CC refinements_NNS of_IN the_DT basic_JJ LOF_NN model_NN have_VBP been_VBN proposed_VBN ,_, e.g._FW a_DT connectivity-based_JJ outlier_NN factor_NN -LRB-_-LRB- COF_NN -RRB-_-RRB- -LRB-_-LRB- 29_CD -RRB-_-RRB- or_CC a_DT spatial_JJ local_JJ outlier_NN measure_NN -LRB-_-LRB- SLOM_NN -RRB-_-RRB- =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Using_VBG the_DT concept_NN of_IN micro-clusters_NNS to_TO efficiently_RB mine_VB the_DT top-n_NN density-based_JJ local_JJ outliers_NNS in_IN large_JJ databases_NNS -LRB-_-LRB- i.e._FW ,_, those_DT n_NN objects_NNS having_VBG the_DT highest_JJS LOF_NN value_NN -RRB-_-RRB- is_VBZ proposed_VBN in_IN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+A_DT similar_JJ

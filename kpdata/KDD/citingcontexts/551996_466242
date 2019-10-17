@@ -1,0 +1,6 @@
+words_NNS in_IN it_PRP ._.
+Clustering_NN is_VBZ carried_VBN out_RP also_RB by_IN optimizing_VBG a_DT certain_JJ criterion_NN function_NN ._.
+However_RB ,_, document_NN clustering_NN tends_VBZ to_TO assume_VB different_JJ weights_NNS on_IN words_NNS with_IN respect_NN to_TO their_PRP$ frequencies_NNS ._.
+See_VB =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: for_IN some_DT common_JJ approaches_NNS in_IN document_NN clustering_NN ._.
+Also_RB ,_, there_EX are_VBP some_DT similarities_NNS between_IN transactional_JJ data_NNS clustering_NN and_CC association_NN analysis_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Both_DT of_IN these_DT two_CD popular_JJ data_NNS mining_NN techniqu_NN

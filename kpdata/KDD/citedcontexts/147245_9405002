@@ -1,0 +1,3 @@
+n_NN be_VB deleted_VBN from_IN the_DT ensemble_NN according_VBG to_TO a_DT heuristic_NN that_WDT favors_VBZ classifiers_NNS that_WDT can_MD correctly_RB classify_VB instances_NNS on_IN which_WDT the_DT ensemble_NN is_VBZ nearly_RB undecided_JJ ._.
+The_DT weighted_JJ classifier_NN ensemble_NN -LRB-_-LRB- WCE_NN -RRB-_-RRB- =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ based_VBN on_IN the_DT authors_NNS '_POS proof_NN that_IN a_DT carefully_RB weighted_JJ classifier_NN ensemble_NN built_VBN on_IN a_DT set_NN of_IN data_NNS partitions_NNS S1_NN ,_, S2_NN ,_, ·_NNP ·_NNP ·_NNP ,_, Sn_NNP is_VBZ more_RBR accurate_JJ than_IN a_DT single_JJ classifier_NN built_VBN on_IN S1_NN ∪_NN S2_NN ∪_FW Sn_FW ._.
+To_TO c_NN

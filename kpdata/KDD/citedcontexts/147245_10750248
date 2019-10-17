@@ -1,0 +1,5 @@
+include_VBP the_DT streaming_NN ensemble_NN algorithm_NN -LRB-_-LRB- SEA_NN -RRB-_-RRB- -LRB-_-LRB- Street_NNP &_CC Kim_NNP ,_, 2001_CD -RRB-_-RRB- ,_, adaptive_JJ classifiers-ensemble_JJ system_NN -LRB-_-LRB- ACE_NN -RRB-_-RRB- -LRB-_-LRB- Nishida_NNP ,_, Yamauchi_NNP ,_, &_CC Omori_NNP ,_, 2005_CD -RRB-_-RRB- ,_, the_DT weighted_JJ classifier_NN ensemble_NN algorithm_NN -LRB-_-LRB- WCEA_NN -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Wang_NNP ,_, Fan_NNP ,_, Yu_NNP ,_, &_CC Han_NNP ,_, 2003_CD -_: =--RRB-_NN ,_, and_CC the_DT dynamic_JJ weighted_JJ majority_NN -LRB-_-LRB- DWM_NN -RRB-_-RRB- algorithm_NN -LRB-_-LRB- Kolter_NNP &_CC Maloof_NNP ,_, 2003_CD -RRB-_-RRB- ._.
+These_DT are_VBP considered_VBN in_IN detail_NN in_IN Procopio_NNP -LRB-_-LRB- 2007a_CD -RRB-_-RRB- ._.
+3_LS ._.
+ALGORITHMS_NNP This_NNP section_NN is_VBZ divided_VBN into_IN three_CD major_JJ parts_NNS ._.
+First_RB ,_, t_NN

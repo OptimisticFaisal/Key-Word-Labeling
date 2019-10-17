@@ -1,0 +1,3 @@
+one_CD pass_NN over_IN the_DT database_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+There_EX are_VBP methods_NNS for_IN approximating_VBG the_DT frequencies_NNS of_IN the_DT frequent_JJ itemsets_NNS by_IN subcollections_NNS of_IN closed_JJ frequent_JJ itemsets_NNS by_IN expressing_VBG the_DT frequencies_NNS inaccurately_RB =_JJ -_: =[_NN 23,24,25,26,27,28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+8sGiven_VB a_DT transaction_NN database_NN D_NN and_CC a_DT positive_JJ integer_NN k_NN ,_, deciding_VBG whether_IN there_EX is_VBZ a_DT closed_JJ σ-frequent_NN itemset_NN of_IN cardinality_NN at_IN least_JJS k_NN in_IN D_NN is_VBZ NP-complete_JJ -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC counting_VBG the_DT number_NN of_IN closed_JJ σ_NN

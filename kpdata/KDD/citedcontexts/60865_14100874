@@ -1,0 +1,5 @@
+ach_NN of_IN them_PRP has_VBZ are_VBP strongly_RB associated_VBN ._.
+4.2_CD Learning_NNP Feature_NNP Weights_NNPS One_CD key_JJ step_NN of_IN our_PRP$ system_NN is_VBZ learning_VBG the_DT weight_NN of_IN each_DT feature_NN ._.
+We_PRP examined_VBD two_CD algorithms_NNS --_: iterative_JJ grid_NN search_NN and_CC RankSVM_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT two_CD learning_NN methods_NNS used_VBN here_RB have_VBP different_JJ characteristics_NNS ._.
+As_RB far_RB as_IN the_DT objective_JJ function_NN is_VBZ concerned_VBN ,_, grid_NN search_NN simply_RB finds_VBZ the_DT set_NN of_IN parameters_NNS that_WDT maximizes_VBZ the_DT target_NN metric_NN ,_, whe_NN

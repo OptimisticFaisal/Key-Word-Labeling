@@ -1,0 +1,4 @@
+twise_JJ relevance_NN judgements_NNS ,_, for_IN instance_NN using_VBG 1_CD Author_NN order_NN is_VBZ alphabetical_JJ reflecting_VBG equal_JJ contributions_NNS to_TO this_DT work_NN ._.
+618Pradeep_NNP Ravikumar_NNP ,_, Ambuj_NNP Tewari_NNP ,_, Eunho_NNP Yang_NNP query_NN log_NN click-through_JJ data_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+But_CC on_IN the_DT other_JJ hand_NN ,_, such_JJ training_NN instances_NNS of_IN document_NN pairs_NNS and_CC their_PRP$ pairwise_JJ relative_JJ relevances_NNS are_VBP typically_RB not_RB iid_NN which_WDT impairs_VBZ test_NN performance_NN ._.
+The_DT main_JJ caveat_NN with_IN such_JJ approaches_NNS is_VBZ

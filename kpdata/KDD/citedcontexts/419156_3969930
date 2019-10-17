@@ -1,0 +1,4 @@
+membership_NN algorithms_NNS ,_, many_JJ choices_NNS for_IN the_DT distance_NN measure_NN have_VBP poor_JJ discriminability_NN in_IN high_JJ dimensions_NNS due_JJ to_TO averaging_NN effects_NNS ._.
+The_DT Minkowski_NNP metrics_NNS are_VBP particularly_RB susceptible_JJ to_TO this_DT problem_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Even_RB with_IN prior_JJ dimensionality_NN reduction_NN -LRB-_-LRB- and_CC the_DT associated_VBN loss_NN of_IN information_NN -RRB-_-RRB- ,_, it_PRP is_VBZ not_RB clear_JJ how_WRB to_TO appropriately_RB weight_VB each_DT dimension_NN a_DT priori_FW ._.
+As_IN an_DT example_NN of_IN this_DT predicament_NN ,_, consider_VB an_DT

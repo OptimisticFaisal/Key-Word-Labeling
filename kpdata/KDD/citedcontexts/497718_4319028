@@ -1,0 +1,5 @@
+s_NN equal_JJ to_TO MAP_NN -LRB-_-LRB- aj_NN ,_, pn_NN -RRB-_-RRB- ._.
+Figure_NN 2_CD -LRB-_-LRB- b_NN -RRB-_-RRB- shows_VBZ the_DT first_JJ iteration_NN 's_POS SSR_NN result_NN of_IN the_DT sample_NN data_NNS where_WRB CA_NNP and_CC CP_NNP are_VBP set_VBN to_TO 1_CD ._.
+The_DT convergence_NN of_IN the_DT algorithm_NN can_MD be_VB proved_VBN in_IN a_DT similar_JJ way_NN as_IN SimRank_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN each_DT iteration_NN ,_, the_DT time_NN complexity_NN of_IN ,_, -LRB-_-LRB- 3_LS -RRB-_-RRB- 504_CD the_DT SSR_NN algorithm_NN is_VBZ O_NN -LRB-_-LRB- N_NN A_NN 2_CD NP_NN 2_CD -RRB-_-RRB- ._.
+Within_IN the_DT data_NNS set_NN of_IN our_PRP$ experiment_NN ,_, both_CC the_DT annotation_NN and_CC web_NN page_NN similarity_NN matrices_NNS are_VBP quite_RB sparse_JJ

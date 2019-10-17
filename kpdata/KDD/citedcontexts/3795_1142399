@@ -1,0 +1,6 @@
+ion_NN issue_NN ._.
+Furthermore_RB ,_, the_DT technique_NN can_MD not_RB be_VB used_VBN for_IN decision_NN trees_NNS because_IN it_PRP requires_VBZ all_DT possible_JJ associations_NNS to_TO be_VB discovered_VBN ._.
+It_PRP also_RB does_VBZ not_RB work_VB with_IN continuous_JJ attributes_NNS ._.
+-LRB-_-LRB- Suzuki_NNP 1997_CD ;_: =_JJ -_: =_JJ Liu_NNP et_FW al_FW 1999_CD -_: =--RRB-_CD study_NN the_DT mining_NN of_IN exception_NN rules_NNS from_IN data_NNS given_VBN some_DT general_JJ rules_NNS ._.
+-LRB-_-LRB- Compton_NNP &_CC Jansen_NNP 1988_CD -RRB-_-RRB- proposes_VBZ ripple-down_JJ rules_NNS 4_CD ,_, which_WDT are_VBP rules_NNS with_IN exceptions_NNS ,_, for_IN knowledge_NN acquisition_NN ._.
+-LRB-_-LRB- Kivinen_NNP ,_, M_NNP

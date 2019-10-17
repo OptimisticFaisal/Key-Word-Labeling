@@ -1,0 +1,4 @@
+labels_NNS -LRB-_-LRB- i.e._FW ,_, patterns_NNS -RRB-_-RRB- ,_, without_IN requiring_VBG inspection_NN of_IN node_NN contents_NNS ._.
+This_DT allows_VBZ us_PRP to_TO improve_VB the_DT efficiency_NN of_IN the_DT framework_NN followed_VBN by_IN existing_VBG pattern-based_JJ hierarchical_JJ clustering_NN algorithms_NNS =_JJ -_: =[_NN 25_CD ,_, 5_CD ,_, 88_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT improvements_NNS include_VBP the_DT use_NN of_IN bitmaps_NNS -LRB-_-LRB- i.e._FW ,_, spatially_RB mapped_VBN arrays_NNS of_IN bits_NNS -RRB-_-RRB- ,_, and_CC the_DT replacement_NN of_IN UPGMA_NN with_IN bisecting_VBG k-means_NNS for_IN merging_JJ toplevel_NN nodes_NNS ._.
+Results_NNS of_IN experiments_NNS performe_NN

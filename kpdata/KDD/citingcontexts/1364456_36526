@@ -1,0 +1,4 @@
+ng_NN both_CC the_DT compositional_JJ and_CC positional_JJ behavior_NN of_IN the_DT constituents_NNS into_IN account_NN ._.
+The_DT preferred_JJ method_NN for_IN string_NN classification_NN is_VBZ that_DT of_IN the_DT nearest_JJS neighbor_NN technique_NN based_VBN on_IN the_DT edit_NN distance_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT method_NN ,_, the_DT class_NN label_NN of_IN the_DT nearest_JJS neighbor_NN to_TO the_DT test_NN instance_NN is_VBZ reported_VBN as_IN the_DT relevant_JJ label_NN ._.
+This_DT technique_NN has_VBZ several_JJ drawbacks_NNS :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- The_DT edit_NN distance_NN turns_VBZ out_RP to_TO be_VB -LRB-_-LRB- 5_CD -RRB-_-RRB- -LRB-_-LRB- 8_CD ,_, 6_CD ,_,

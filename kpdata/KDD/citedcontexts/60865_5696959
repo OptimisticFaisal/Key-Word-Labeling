@@ -1,0 +1,4 @@
+ation_NN granules_NNS ._.
+For_IN each_DT granule_NN ,_, after_IN five_CD iterations_NNS of_IN traditional_JJ K-means_NNS clustering_NN ,_, the_DT greedy_JJ K-means_NNS algorithm_NN is_VBZ applied_VBN ._.
+The_DT next_JJ step_NN is_VBZ different_JJ from_IN the_DT FGK_NNP model_NN :_: we_PRP adapt_VBP ranking_JJ SVM_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: to_TO rank_VB all_DT members_NNS in_IN each_DT cluster_NN generated_VBN by_IN the_DT greedy_JJ Kmeans_NNP clustering_NN algorithm_NN ,_, and_CC then_RB we_PRP filter_NN out_IN lower_JJR ranked_VBD members_NNS ._.
+The_DT number_NN of_IN segments_NNS being_VBG eliminated_VBN is_VBZ decided_VBN by_IN a_DT user_NN defi_NN

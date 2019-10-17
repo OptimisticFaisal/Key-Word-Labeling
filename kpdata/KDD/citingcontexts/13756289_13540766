@@ -1,0 +1,4 @@
+6_CD ,_, 8_CD ,_, 18_CD -RRB-_-RRB- ._.
+However_RB ,_, most_JJS of_IN these_DT models_NNS only_RB consider_VBP the_DT textual_JJ information_NN while_IN ignore_VBP network_NN structures_NNS ._.
+Recently_RB ,_, several_JJ studies_NNS ,_, including_VBG NetPLSA_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, LapPLSI_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, LTM_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC iTopicModel_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, have_VBP been_VBN proposed_VBN for_IN combining_VBG topic_NN modeling_NN with_IN homogeneous_JJ networks_NNS ,_, such_JJ as_IN citation_NN graph_NN and_CC co-authorship_NN graph_NN ,_, but_CC they_PRP can_MD not_RB deal_VB with_IN heterogeneous_JJ information_NN network_NN directly_RB ._.
+Altho_NNP

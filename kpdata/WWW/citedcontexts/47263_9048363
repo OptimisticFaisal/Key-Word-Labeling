@@ -1,0 +1,4 @@
+ction_NN 4.3_CD ,_, extractAgents_NNS at_IN Lines_NNP 4,8_CD -RRB-_-RRB- ._.
+In_IN order_NN to_TO facilitate_VB extraction_NN processes_NNS of_IN organizations_NNS and_CC people_NNS ,_, we_PRP based_VBD our_PRP$ extraction_NN strategy_NN on_IN XWRAP_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- and_CC followed_VBD most_JJS guidelines_NNS from_IN ANDES_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+CI-Learner_NN uses_VBZ HtmlUnit_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- as_IN an_DT API_NN to_TO interact_VB with_IN web_NN pages_NNS and_CC obtain_VB an_DT XML_NN representation_NN of_IN the_DT HTML_NNP source_NN of_IN the_DT web_NN page_NN ._.
+Having_VBG this_DT XML_NN transformation_NN ,_, we_PRP construct_VBP an_DT XPath_NN pointing_VBG

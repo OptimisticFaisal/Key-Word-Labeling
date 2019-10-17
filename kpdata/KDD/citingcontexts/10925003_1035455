@@ -1,0 +1,4 @@
+significantly_RB different_JJ from_IN each_DT other_JJ ._.
+Figure_NN 7_CD gives_VBZ the_DT results_NNS from_IN the_DT networks_NNS G_NN S1_NN ∼_CD G_NN S3_NN in_IN the_DT same_JJ time_NN period_NN T_NN 1_CD ._.
+To_TO achieve_VB a_DT good_JJ fit_NN ,_, we_PRP bucketize_VBP the_DT x-axis_NN with_IN logarithmic_JJ binning_NN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC for_IN each_DT bin_NN ,_, we_PRP compute_VBP the_DT average_JJ value_NN of_IN y._NN Moreover_RB ,_, Figure_NNP 8_CD shows_VBZ the_DT three_CD exponents_NNS of_IN TWL_NN in_IN G_NN S1_NN ∼_CD G_NN S3_NN from_IN T_NN 1_CD to_TO T_NN 5_CD ._.
+Notice_NNP that_IN α_NN ,_, β_NN ,_, and_CC γ_NN of_IN these_DT graphs_NNS take_VBP values_NNS in_IN the_DT ra_NN

@@ -1,0 +1,4 @@
+ctually_RB tries_VBZ to_TO transform_VB the_DT matrix_NN A_NN into_IN a_DT block-diagonal_JJ matrix_NN ,_, as_IN shown_VBN in_IN Fig._NNP 2_CD ._.
+This_DT clustering_NN method_NN is_VBZ called_VBN co-clustering_NN which_WDT is_VBZ derived_VBN from_IN the_DT problem_NN of_IN bipartite_JJ graph_NN partition_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN completeness_NN ,_, we_PRP also_RB include_VBP the_DT algorithm_NN -LRB-_-LRB- also_RB with_IN our_PRP$ small_JJ modifications_NNS -RRB-_-RRB- in_IN this_DT paper_NN ,_, shown_VBN in_IN Fig._NNP 3_CD ._.
+Co-clustering_JJ algorithm_NN simultaneously_RB groups_NNS the_DT documents_NNS and_CC words_NNS into_IN cluster_NN

@@ -1,0 +1,6 @@
+r\/index_NN ._.
+html_NN ._.
+Lexical_JJ features_NNS are_VBP the_DT textual_JJ properties_NNS of_IN the_DT URL_NN itself_PRP -LRB-_-LRB- not_RB the_DT content_NN of_IN the_DT page_NN it_PRP references_NNS -RRB-_-RRB- ._.
+We_PRP use_VBP a_DT combination_NN of_IN features_NNS suggested_VBN by_IN the_DT studies_NNS of_IN McGrath_NNP and_CC Gupta_NNP =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Kolari_NNP et_FW al._FW -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+These_DT properties_NNS include_VBP the_DT length_NN of_IN the_DT hostname_NN ,_, thelengthoftheentireURL_NN ,_, aswellasthenumberofdotsin_VBG the_DT URL_NN --_: all_DT of_IN these_DT are_VBP real-valued_JJ features_NNS ._.
+Additionally_RB ,_, we_PRP create_VBP

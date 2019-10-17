@@ -1,0 +1,4 @@
+portion_NN of_IN the_DT data_NNS space_NN ,_, as_IN illustrated_VBN in_IN Figure_NNP 3_CD ._.
+This_DT approach_NN has_VBZ been_VBN particularly_RB successful_JJ in_IN the_DT field_NN of_IN computer_NN vision_NN for_IN tasks_NNS such_JJ as_IN face_NN recognition_NN -LRB-_-LRB- 33_CD -RRB-_-RRB- and_CC email_JJ spam_NN filtering_VBG =_JJ -_: =[_NN 37_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN theory_NN ,_, there_EX is_VBZ no_DT limit_NN to_TO the_DT number_NN of_IN stages_NNS that_WDT may_MD be_VB applied_VBN -LRB-_-LRB- and_CC boosting_VBG approaches_NNS may_MD result_VB in_IN dozens_NNS of_IN stages_NNS -RRB-_-RRB- ._.
+In_IN practice_NN ,_, tuning_NN a_DT large_JJ number_NN of_IN cascade_NN stages_NNS requires_VBZ signi_NNS

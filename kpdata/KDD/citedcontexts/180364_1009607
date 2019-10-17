@@ -1,0 +1,4 @@
+neighbor_NN queries_NNS can_MD be_VB executed_VBN efficiently_RB ,_, and_CC to_TO classify_VB new_JJ trajectories_NNS given_VBN a_DT set_NN of_IN examples_NNS ._.
+While_IN the_DT design_NN of_IN distance_NN functions_NNS between_IN trajectories_NNS has_VBZ been_VBN considered_VBN in_IN recent_JJ work_NN =_JJ -_: =[_NN 15_CD ,_, 14_CD ,_, 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, none_NN of_IN these_DT techniques_NNS consider_VBP similarity_NN measures_NNS that_WDT are_VBP rotation_NN invariant_JJ ._.
+In_IN many_JJ applications_NNS ,_, a_DT similarity_NN measure_NN that_WDT is_VBZ immune_JJ to_TO rotation_NN effects_NNS is_VBZ desirable_JJ ._.
+To_TO illustrate_VB this_DT ,_, con_NN

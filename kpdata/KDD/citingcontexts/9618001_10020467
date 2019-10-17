@@ -1,0 +1,5 @@
+s_NN to_TO detect_VB whether_IN VMswereinfectedbyexecutables_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+Wangetal.detectdrive-by_JJ exploitsbyusingbehavioraldetection_NN -LRB-_-LRB- monitoringanomalousstate_NN changesintheVM_NN -RRB-_-RRB- aswellasdetectingexploitsofknownvulnerabilities_NNS =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Provosetal.monitorVMstatechangesandusemultipleanti-virusenginestodetectVMinfection_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Moshchuketal_JJ ._.
+also_RB construct_VB a_DT VM-based_JJ web_NN proxy_NN defense_NN that_WDT uses_VBZ behaviorbased_JJ detection_NN and_CC adds_VBZ only_RB a_DT fe_NN

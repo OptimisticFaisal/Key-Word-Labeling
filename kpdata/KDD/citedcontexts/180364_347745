@@ -1,0 +1,4 @@
+ly_RB perform_VB better_JJR than_IN mean_JJ value_NN Q-grams_NNS on_IN removing_VBG false_JJ candidates_NNS ._.
+5.4_CD Efficiency_NN of_IN Combined_JJ Methods_NNS We_PRP test_VBP the_DT combination_NN of_IN methods_NNS proposed_VBN in_IN Section_NN 4.4_CD on_IN NHL_NN data_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, a_DT mixed_JJ data_NN set_NN =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_JJ -_: and_CC a_DT randomwalk_NN trajectory_NN data_NN set_NN -LRB-_-LRB- 6_CD ,_, 19_CD -RRB-_-RRB- ._.
+The_DT NHL_NNP data_NN consists_VBZ of_IN 5000_CD two_CD dimensional_JJ trajectories_NNS of_IN National_JJ Hockey_NN League_NN players_NNS and_CC their_PRP$ trajectory_JJ lengths_NNS vary_VBP from_IN 30_CD to_TO 256_CD ._.
+The_DT mixed_JJ

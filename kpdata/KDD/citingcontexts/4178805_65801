@@ -1,0 +1,5 @@
+can_MD also_RB deal_VB with_IN those_DT cases_NNS ._.
+Another_DT density-based_JJ clustering_NN method_NN is_VBZ DenClue_NNP -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, which_WDT employs_VBZ kernel_NN density_NN estimation_NN and_CC uses_VBZ density_NN thresholds_NNS to_TO define_VB the_DT clusters_NNS to_TO be_VB found_VBN ._.
+CLIQUE_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT density-based_JJ method_NN that_WDT can_MD also_RB detect_VB subspaces_NNS such_JJ that_IN high-density_JJ clusters_NNS exist_VBP in_IN them_PRP ._.
+However_RB ,_, it_PRP is_VBZ gridbased_JJ and_CC thus_RB assumes_VBZ that_IN points_NNS lie_VBP in_IN vector_NN space_NN ._.
+Furthermore_RB ,_, CLIQUE_NN

@@ -1,0 +1,6 @@
+by_IN thresholding_VBG the_DT probabilities_NNS ,_, this_DT loses_VBZ useful_JJ information_NN and_CC leads_VBZ to_TO inaccuracies_NNS ._.
+Existing_VBG approaches_NNS in_IN the_DT literature_NN are_VBP based_VBN on_IN expected_VBN support_NN ,_, first_RB introduced_VBN in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Chui_FW et_FW ._.
+al._FW =_SYM -_: =[_NN 5_CD ,_, 6_CD -RRB-_-RRB- -_: =_JJ -_: take_VB the_DT uncertainty_NN of_IN items_NNS into_IN account_NN by_IN computing_VBG the_DT expected_VBN support_NN of_IN itemsets_NNS ._.
+Itemsets_NNS are_VBP considered_VBN frequent_JJ if_IN the_DT expected_VBN support_NN exceeds_VBZ minSup_NNP ._.
+Effectively_RB ,_, this_DT approach_NN returns_VBZ a_DT

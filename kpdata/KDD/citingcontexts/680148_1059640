@@ -1,0 +1,5 @@
+ssed_VBN in_IN Section_NN 2.2_CD ._.
+Other_JJ instances_NNS of_IN property_NN mining_NN have_VBP been_VBN studied_VBN in_IN specific_JJ contexts_NNS ._.
+One_CD is_VBZ the_DT problem_NN of_IN identifying_VBG ``_`` patterns_NNS and_CC relations_NNS ''_'' in_IN the_DT unstructured_JJ text_NN of_IN web_NN pages_NNS ,_, e.g._FW ,_, =_JJ -_: =[_NN 5_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Patterns_NN are_VBP essentially_RB regular-expressions_NNS and_CC correspond_VBP to_TO the_DT formulas_NNS of_IN this_DT paper_NN ;_: relations_NNS correspond_VBP to_TO extents_NNS ._.
+The_DT sets_NNS of_IN patterns_NNS and_CC relations_NNS are_VBP expanded_VBN iteratively_RB starting_VBG from_IN

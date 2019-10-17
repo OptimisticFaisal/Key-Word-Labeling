@@ -1,0 +1,4 @@
+arc-length_JJ axis_NN ._.
+To_TO accomplish_VB that_IN we_PRP use_VBP a_DT warping_NN distance_NN measure_NN in_IN the_DT AAL_NNP space_NN ._.
+The_DT most_RBS widely_RB used_VBN measure_NN that_WDT supports_VBZ local_JJ compressions_NNS and_CC decompressions_NNS is_VBZ Dynamic_NNP Time_NNP Warping_NNP -LRB-_-LRB- DTW_NNP -RRB-_-RRB- =_JJ -_: =[_NN 2_CD ,_, 8_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN order_NN to_TO utilize_VB the_DT DTW_NNP one_CD assumes_VBZ that_IN the_DT measurement_NN values_NNS -LRB-_-LRB- in_IN this_DT case_NN the_DT angles_NNS -RRB-_-RRB- ,_, are_VBP taken_VBN at_IN discrete_JJ and_CC equi-spaced_JJ time_NN instancessπ_NN 0_CD −_FW π_FW 0_CD 0.1_CD 0.2_CD 0.3_CD 0.4_CD 0.5_CD 0.6_CD 0.7_CD 0.8_CD 0.9_CD 1_CD π_NN

@@ -1,0 +1,5 @@
+complexity_NN of_IN the_DT subgraph_NN patterns_NNS ._.
+The_DT SUBDUE_NN system_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- also_RB discovers_VBZ graph_NN patterns_NNS using_VBG the_DT Minimum_NNP Description_NN Length_NN principle_NN ._.
+An_DT approach_NN termed_VBN Graph-Based_JJ Induction_NN -LRB-_-LRB- GBI_NN -RRB-_-RRB- was_VBD proposed_VBN in_IN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT uses_VBZ beam_NN search_NN for_IN mining_NN subgraphs_NNS ._.
+However_RB ,_, both_DT SUBDUE_NNP and_CC GBI_NNP may_MD miss_VB some_DT significant_JJ patterns_NNS ,_, since_IN they_PRP perform_VBP a_DT heuristic_NN search_NN ._.
+We_PRP perform_VBP a_DT complete_JJ -LRB-_-LRB- but_CC not_RB exhaustive_JJ -RRB-_-RRB- search_NN

@@ -1,0 +1,4 @@
+lem_NN of_IN collaborativesfiltering_NN :_: mining_NN large_JJ databases_NNS of_IN user_NN transactions_NNS in_IN order_NN to_TO recommend_VB items_NNS --_: books_NNS ,_, movies_NNS ,_, or_CC even_RB politicians_NNS --_: which_WDT the_DT system_NN expects_VBZ the_DT user_NN might_MD find_VB of_IN interest_NN =_JJ -_: =[_NN 6_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Within_IN a_DT search_NN engine_NN ,_, page_NN clustering_NN could_MD serve_VB two_CD purposes_NNS ._.
+First_NNP is_VBZ to_TO organize_VB all_DT web_NN pages_NNS a_DT priori_FW into_IN groups_NNS ,_, independent_JJ of_IN any_DT particular_JJ user_NN ._.
+Second_JJ to_TO cluster_VB just_RB those_DT pages_NNS sugg_VBP

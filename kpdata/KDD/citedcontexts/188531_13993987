@@ -1,0 +1,5 @@
+taking_VBG pictures_NNS of_IN it_PRP ._.
+This_DT motivates_VBZ our_PRP$ definition_NN of_IN relevance_NN weights_NNS ._.
+To_TO define_VB outliers_NNS ,_, we_PRP borrow_VBP a_DT terminology_NN from_IN the_DT data_NNS mining_NN community_NN ,_, called_VBN spatial_JJ outliers_NNS ._.
+Due_JJ to_TO Shenkhar_NNP et_FW al._FW =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT spatial_JJ outlier_NN is_VBZ a_DT spatially_RB referenced_VBN object_NN whose_WP$ non-spatial_JJ attribute_NN values_NNS are_VBP significantly_RB different_JJ from_IN those_DT of_IN other_JJ spatially_RB referenced_VBN objects_NNS in_IN its_PRP$ spatial_JJ neighborhood_NN ._.
+Corres_NNS

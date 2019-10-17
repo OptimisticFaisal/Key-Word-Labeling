@@ -1,0 +1,4 @@
+l_NN in_IN the_DT Cartesian_JJ product_NN label_NN matrix_NN -LRB-_-LRB- as_IN shown_VBN in_IN Figure_NNP 1_LS -RRB-_-RRB- is_VBZ associated_VBN with_IN a_DT multinomial_JJ model_NN ._.
+That_DT method_NN named_VBN EM2D_NN has_VBZ been_VBN proposed_VBN for_IN the_DT problem_NN of_IN learning_VBG to_TO integratesweb_JJ taxonomies_NNS =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, EM2D_NN is_VBZ not_RB able_JJ to_TO generalize_VB content_NN classifiers_NNS to_TO new_JJ styles_NNS thus_RB not_RB applicable_JJ to_TO our_PRP$ problem_NN ._.
+In_IN contrast_NN ,_, Cartesian_JJ EM_NN assumes_VBZ that_IN each_DT row_NN or_CC column_NN in_IN the_DT Cartesian_JJ product_NN label_NN

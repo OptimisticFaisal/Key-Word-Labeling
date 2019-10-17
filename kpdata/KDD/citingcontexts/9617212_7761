@@ -1,0 +1,4 @@
+ty_NN distribution_NN over_IN words_NNS ._.
+The_DT mixing_VBG coefficients_NNS for_IN each_DT document_NN and_CC the_DT wordtopic_JJ distributions_NNS are_VBP unobserved_JJ -LRB-_-LRB- hidden_JJ -RRB-_-RRB- and_CC are_VBP learned_VBN from_IN data_NNS using_VBG unsupervised_JJ learning_NN methods_NNS ._.
+Blei_NNP et_NNP al_NNP =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: introduced_VBD the_DT LDA_NNP model_NN within_IN a_DT general_JJ Bayesian_JJ framework_NN and_CC developed_VBD a_DT variational_JJ algorithm_NN for_IN learning_VBG the_DT model_NN from_IN data_NNS ._.
+Griffiths_NNP and_CC Steyvers_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- subsequently_RB proposed_VBD a_DT learning_NN algori_NN

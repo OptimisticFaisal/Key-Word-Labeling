@@ -1,0 +1,5 @@
+y_NN can_MD not_RB handle_VB nonlinear_JJ manifolds_NNS ._.
+Other_JJ methods_NNS assume_VBP that_IN the_DT manifolds_NNS have_VBP different_JJ instrinsic_JJ dimensions_NNS and_CC cluster_VB the_DT data_NNS according_VBG to_TO the_DT dimensions_NNS rather_RB than_IN the_DT manifolds_NNS themselves_PRP =_JJ -_: =[_NN 9_CD ,_, 10_CD ,_, 11_CD ,_, 12_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, in_IN many_JJ real-world_JJ problems_NNS this_DT assumption_NN is_VBZ violated_VBN ._.
+Moreover_RB ,_, estimating_VBG the_DT dimension_NN of_IN a_DT manifold_NN from_IN a_DT point_NN cloud_NN is_VBZ a_DT very_RB difficult_JJ problem_NN on_IN its_PRP$ own_JJ ._.
+When_WRB manifolds_NNS are_VBP dense_JJ

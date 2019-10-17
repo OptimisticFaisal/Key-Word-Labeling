@@ -1,0 +1,3 @@
+arge-Scale_JJ Distributed_VBN Environments_NNS ∗_FW Secure_FW multiparty_JJ computation_NN allows_VBZ parties_NNS to_TO jointly_RB compute_VB a_DT function_NN of_IN their_PRP$ private_JJ inputs_NNS without_IN revealing_VBG anything_NN but_CC the_DT output_NN ._.
+Theoretical_JJ results_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: provide_VBP a_DT general_JJ construction_NN of_IN such_JJ protocols_NNS for_IN any_DT function_NN ._.
+Protocols_NNS obtained_VBN in_IN this_DT way_NN are_VBP ,_, however_RB ,_, inefficient_JJ ,_, and_CC thus_RB ,_, practically_RB speaking_VBG ,_, useless_JJ when_WRB a_DT large_JJ number_NN of_IN participant_NN

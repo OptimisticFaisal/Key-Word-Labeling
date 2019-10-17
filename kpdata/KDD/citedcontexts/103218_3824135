@@ -1,0 +1,4 @@
+text_NN based_JJ distance_NN metrics_NNS combined_VBN with_IN Neural_NNP Networks_NNP and_CC K-nearest_JJ neighbors_NNS '_POS algorithms_NNS ._.
+The_DT idea_NN to_TO perform_VB data_NNS mining_NN in_IN order_NN to_TO reduce_VB for_IN false_JJ alarm_NN has_VBZ been_VBN explored_VBN by_IN Julisch_NNP et_FW al._FW =_SYM -_: =_JJ -LRB-_-LRB- JD02_NN -RRB-_-RRB- -_: =_JJ -_: ;_: using_VBG conceptual_JJ clustering_NN of_IN old_JJ alarms_NNS to_TO derive_VB new_JJ filters_NNS ._.
+Our_PRP$ method_NN for_IN adaptive_JJ filtering_VBG has_VBZ the_DT same_JJ objective_NN ,_, but_CC we_PRP use_VBP automatic_JJ text_NN classification_NN instead_RB ._.
+2_CD The_DT Safeguard_NN context_NN T_NN

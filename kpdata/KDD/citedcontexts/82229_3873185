@@ -1,0 +1,4 @@
+plications_NNS it_PRP is_VBZ desirable_JJ to_TO monitor_VB a_DT streaming_NN time_NN series_NN for_IN a_DT set_NN of_IN predefined_JJ patterns_NNS ._.
+Note_VB that_IN this_DT problem_NN is_VBZ very_RB different_JJ to_TO the_DT classic_NN -LRB-_-LRB- and_CC much_RB studied_VBN -RRB-_-RRB- time_NN series_NN indexing_NN problem_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =-[_NN 10_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ however_RB a_DT very_RB close_JJ analog_NN to_TO the_DT problem_NN of_IN Query_NNP Filtering_NNP for_IN discrete_JJ valued_VBN data_NNS -LRB-_-LRB- e.g._FW XML_NN -RRB-_-RRB- -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+As_IN noted_VBN in_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, ``_`` filtering_VBG is_VBZ the_DT inverse_JJ problem_NN of_IN querying_VBG a_DT database_NN :_: In_IN a_DT tra_NN

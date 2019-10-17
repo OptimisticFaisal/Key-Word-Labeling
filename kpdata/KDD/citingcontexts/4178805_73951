@@ -1,0 +1,4 @@
+-_: tree_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- can_MD be_VB used_VBN ._.
+Since_IN the_DT computation_NN of_IN the_DT local_JJ representation_NN is_VBZ inherently_RB approximate_JJ ,_, the_DT use_NN of_IN approximative_JJ methods_NNS for_IN k-nearest_NN neighbor_NN queries_NNS such_JJ as_IN locality-sensitive_JJ hashing_VBG =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, is_VBZ also_RB possible_JJ ._.
+Investigating_VBG the_DT construction_NN of_IN the_DT appropriate_JJ nearest_JJS neighbor_NN index_NN is_VBZ beyond_IN the_DT scope_NN of_IN this_DT paper_NN ._.
+We_PRP assume_VBP that_IN such_PDT an_DT index_NN exists_VBZ ,_, and_CC we_PRP use_VBP it_PRP as_IN a_DT black_JJ box_NN for_IN ob_NN

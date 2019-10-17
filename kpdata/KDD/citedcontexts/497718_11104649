@@ -1,0 +1,5 @@
+res_NNS ._.
+In_IN the_DT case_NN of_IN feature_NN types_NNS like_IN citations\/links_NNS ,_, the_DT set_NN of_IN nodes_NNS in_IN the_DT graph_NN is_VBZ V0_NN and_CC similarity_NN can_MD be_VB estimated_VBN using_VBG the_DT citation\/link_JJ graph_NN structure_NN using_VBG node_NN similarity_NN measures_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT object_NN graph_NN and_CC the_DT feature_NN graphs_NNS can_MD be_VB viewed_VBN as_IN different_JJ layers_NNS of_IN graphs_NNS ._.
+These_DT layers_NNS are_VBP connected_VBN using_VBG the_DT concept_NN of_IN layer_NN connectivity_NN as_IN defined_VBN below_IN ,_, Definition_NNP 4_CD ._.
+Layer_NNP Connecti_NNP

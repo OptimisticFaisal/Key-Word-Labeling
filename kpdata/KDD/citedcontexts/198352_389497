@@ -1,0 +1,4 @@
+for_IN model-based_JJ clustering_NN methods_NNS are_VBP usually_RB smooth_JJ ._.
+In_IN situations_NNS where_WRB the_DT learning_NN curves_NNS are_VBP less_RBR smooth_JJ ,_, techniques_NNS that_WDT use_VBP additional_JJ samples_NNS to_TO assess_VB the_DT shape_NN of_IN the_DT learning_NN curve_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =_JJ Provost_NNP ,_, et_FW al._FW ,_, 1999_CD -_: =--RRB-_NN may_MD be_VB useful_JJ and_CC the_DT use_NN of_IN an_DT abbreviated_JJ training_NN method_NN can_MD reduce_VB the_DT cost_NN of_IN doing_VBG so_RB ._.
+6_CD ._.
+Empirical_JJ Study_NN In_IN this_DT section_NN ,_, we_PRP describe_VBP an_DT evaluation_NN of_IN our_PRP$ learning-curve_JJ sampling_NN method_NN and_CC e_SYM

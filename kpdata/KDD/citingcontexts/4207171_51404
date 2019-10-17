@@ -1,0 +1,3 @@
+select_VB a_DT density_NN threshold_NN ,_, and_CC also_RB for_IN OPTICS_NNP to_TO derive_VB clusters_NNS from_IN the_DT reachability-plot_NN ._.
+K-harmonic_JJ means_NNS -LRB-_-LRB- 21_CD -RRB-_-RRB- avoids_VBZ the_DT problem_NN of_IN outliers_NNS ,_, but_CC still_RB needs_VBZ k._NNP Spectral_NNP clustering_NN algorithms_VBZ =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: perform_VB K-means_NNS or_CC similar_JJ algorithms_NNS after_IN decomposing_VBG the_DT n_NN ×_CD n_NN gram_NN matrix_NN of_IN the_DT data_NNS -LRB-_-LRB- typically_RB using_VBG PCA_NN -RRB-_-RRB- ._.
+Clusters_NNS of_IN arbitrary_JJ shape_NN in_IN the_DT original_JJ space_NN correspond_VBP to_TO Gaussian_JJ clusters_NNS in_IN the_DT

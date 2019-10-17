@@ -1,0 +1,5 @@
+nts_NNS ,_, the_DT closer_JJR they_PRP are_VBP ._.
+This_DT type_NN of_IN clustering_NN can_MD be_VB useful_JJ in_IN building_VBG statistical_JJ thesaurus_NN and_CC query_NN reformulation_NN ._.
+The_DT problem_NN of_IN simultaneously_RB clustering_VBG words_NNS and_CC documents_NNS is_VBZ discussed_VBN in_IN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT primary_JJ assumption_NN in_IN -LRB-_-LRB- 26_CD -RRB-_-RRB- is_VBZ that_IN word_NN clustering_NN has_VBZ influence_NN on_IN document_NN clustering_NN ,_, and_CC so_RB does_VBZ document_NN clustering_NN on_IN word_NN clustering_NN ._.
+A_DT given_VBN word_NN wi_NN belongs_VBZ to_TO the_DT word_NN cluster_NN Wm_NN if_IN its_PRP$

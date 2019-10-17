@@ -1,0 +1,5 @@
+a_DT of_IN research_NN ._.
+Methods_NNS proposed_VBN in_IN prior_JJ art_NN can_MD mainly_RB be_VB grouped_VBN into_IN two_CD paradigms_NNS :_: query_NN expansion_NN and_CC query_NN suggestions_NNS ._.
+Query_JJ expansion_NN approaches_NNS implicitly_RB add_VBP extra_JJ terms_NNS to_TO the_DT search_NN query_NN =_JJ -_: =[_NN 3_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Such_JJ terms_NNS could_MD include_VB synonyms_NNS of_IN query_NN words_NNS ,_, stemmed_VBD words_NNS ,_, corrections_NNS of_IN spelling_NN mistakes_NNS ,_, and_CC so_RB on_RB ._.
+A_DT special_JJ class_NN of_IN methods_NNS employ_VBP Pseudo-Relevance_NNP Feedback_NNP approaches_NNS -LRB-_-LRB- 5_CD ,_, 22_CD -RRB-_-RRB- to_TO expand_VB

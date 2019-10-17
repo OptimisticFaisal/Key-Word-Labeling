@@ -1,0 +1,5 @@
+letters_NNS after_IN ._.
+Therefore_RB we_PRP also_RB store_VBP the_DT following_JJ subsets_NNS :_: ∀_CD v_LS ,_, w_FW ∈_FW -LRB-_-LRB- 0_CD ,_, n_NN -RRB-_-RRB- :_: -LRB-_-LRB- xi_FW −_FW v_LS ,_, ..._: ,_, xi_FW ,_, ..._: ,_, xi_NN +_CC w_NN -RRB-_-RRB- ._.
+There_EX are_VBP several_JJ options_NNS to_TO calculate_VB the_DT operation_NN 's_POS cost_NN ._.
+This_DT cost_NN must_MD lie_VB within_IN =_JJ -_: =[_NN 0_CD ,_, 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC be_VB inversely_RB proportionate_JJ to_TO the_DT confidence_NN ._.
+One_CD way_NN to_TO estimate_VB this_DT confidence_NN is_VBZ by_IN the_DT formula_NN conf_NN -LRB-_-LRB- OC_NN -RRB-_-RRB- =_JJ |_CD OC_NNP |_NNP |_NNP C_NNP |_NNP ,_, |_NNP Oc_NNP |_NN =_JJ being_VBG the_DT number_NN of_IN times_NNS the_DT operation_NN ,_, together_RB with_IN context_NN C_NN

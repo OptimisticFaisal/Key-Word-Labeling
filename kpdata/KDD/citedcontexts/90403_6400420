@@ -1,0 +1,5 @@
+subset_NN closed_VBD collection_NN of_IN itemsets_NNS ._.
+Thomas_NNP ,_, Bodagala_NNP ,_, Alsabti_NNP ,_, and_CC Ranka_NNP -LRB-_-LRB- 11_CD -RRB-_-RRB- used_VBD the_DT negative_JJ border_NN set_VBN to_TO see_VB which_WDT itemsets_NNS have_VBP changed_VBN status_NN from_IN large_JJ to_TO small_JJ and_CC vice_NN versa_RB ._.
+Dong_NNP and_CC Li_NNP =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: use_NN interval_NN closed_VBD borders_NNS to_TO find_VB emergent_JJ patterns_NNS ._.
+They_PRP define_VBP an_DT emergent_JJ pattern_NN as_IN an_DT itemset_NN whose_WP$ support_NN increases_VBZ significantly_RB between_IN databases_NNS ._.
+If_IN we_PRP look_VBP at_IN emergent_JJ patterns_NNS with_IN resp_NN

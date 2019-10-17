@@ -1,0 +1,5 @@
+culties_NNS of_IN maximal_JJ pattern_NN mining_NN ._.
+However_RB ,_, there_EX are_VBP a_DT number_NN of_IN difficulties_NNS in_IN maximal_JJ subgraph_JJ mining_NN for_IN geometric_JJ graphs_NNS ._.
+In_IN general_JJ ,_, maximal_JJ pattern_NN mining_NN has_VBZ a_DT large_JJ computational_JJ complexity_NN =_JJ -_: =[_NN 4_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+So_RB far_RB ,_, a_DT number_NN of_IN efficient_JJ maximal_JJ pattern_NN algorithms_NNS have_VBP been_VBN proposed_VBN for_IN sets_NNS ,_, sequences_NNS ,_, and_CC graphs_NNS -LRB-_-LRB- 3_CD ,_, 9_CD ,_, 20_CD ,_, 22_CD ,_, 25_CD -RRB-_-RRB- ._.
+Some_DT algorithms_NNS use_VBP explicit_JJ duplicate_VBP detection_NN and_CC maximality_NN test_NN b_NN

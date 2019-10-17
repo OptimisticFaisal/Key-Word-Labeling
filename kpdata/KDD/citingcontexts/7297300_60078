@@ -1,0 +1,6 @@
+hose_NN a_DT cutoff_NN of_IN 10_CD categories_NNS ._.
+For_IN the_DT decision_NN tree_NN classifier_NN ,_, C4_NN .5_NN was_VBD used_VBN with_IN 25_CD %_NN pruning_NN and_CC default_NN parameterization_NN ._.
+For_IN the_DT linear_JJ classification_NN methods_NNS ,_, the_DT SNoW_NN learning_NN system_NN was_VBD used_VBN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+SNoW_NN is_VBZ a_DT general_JJ classification_NN system_NN incorporating_VBG several_JJ linear_JJ classifiers_NNS in_IN a_DT unified_JJ framework_NN ._.
+In_IN the_DT experiments_NNS shown_VBN ,_, classifiers_NNS were_VBD trained_VBN with_IN 2_CD runs_NNS over_IN each_DT training_NN set_VBN ._.
+Result_NN

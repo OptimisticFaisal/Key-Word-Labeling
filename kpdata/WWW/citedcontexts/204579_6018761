@@ -1,0 +1,5 @@
+key_NN -LRB-_-LRB- CHK_NN -RRB-_-RRB- ._.
+This_DT enables_VBZ multiple_JJ URL_NN 's_POS pointing_VBG to_TO identical_JJ documents_NNS to_TO be_VB stored_VBN just_RB once_RB in_IN the_DT cache_NN ._.
+In_IN many_JJ dynamically_RB generated_VBN Web_NN sites_NNS such_JJ identical_JJ mappings_NNS -LRB-_-LRB- known_VBN as_IN response_NN aliasing_NN =_JJ -_: =[_NN 40_CD -RRB-_-RRB- -_: =--RRB-_NN are_VBP commonplace_JJ ,_, resulting_VBG in_IN significantly_RB improved_VBN hit_NN rates_NNS ._.
+CHK-based_JJ caching_NN offers_VBZ alias_NNS protection_NN ._.
+Thus_RB ,_, CHK-based_JJ caching_NN offer_NN gains_NNS not_RB only_RB in_IN terms_NNS of_IN storage_NN at_IN the_DT server_NN proxy_NN ,_, but_CC a_DT

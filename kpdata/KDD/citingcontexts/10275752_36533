@@ -1,0 +1,4 @@
+itution_NN will_MD sometimes_RB be_VB clicked_VBN ,_, but_CC most_RBS often_RB not_RB -RRB-_-RRB- ,_, we_PRP expect_VBP feature_NN selection_NN to_TO improve_VB the_DT performance_NN of_IN our_PRP$ method_NN ._.
+Feature_NN selection_NN has_VBZ a_DT long_JJ history_NN within_IN the_DT field_NN of_IN machine_NN learning_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP choose_VBP to_TO use_VB greedy_JJ forward_JJ selection_NN based_VBN on_IN a_DT holdout_NN set_NN ,_, a_DT simple_NN yet_RB powerful_JJ technique_NN ._.
+Greedy_JJ forward_JJ selection_NN begins_VBZ with_IN a_DT set_NN of_IN pre-selected_JJ features_NNS ,_, S_NN -LRB-_-LRB- which_WDT is_VBZ typically_RB initiall_JJ

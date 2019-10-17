@@ -1,0 +1,3 @@
+he_PRP fundamental_JJ difficulty_NN of_IN computing_VBG the_DT exact_JJ PageRank_NN from_IN an_DT incomplete_JJ subset_NN of_IN the_DT Web_NN ,_, most_JJS of_IN the_DT previous_JJ studies_NNS were_VBD experimental_JJ or_CC focused_VBN on_IN the_DT eventual_JJ convergence_NN of_IN the_DT algorithms_NNS =_JJ -_: =[_NN 23_CD ,_, 11_CD ,_, 2_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_RB far_RB as_IN we_PRP know_VBP ,_, our_PRP$ work_NN is_VBZ the_DT first_JJ that_IN shows_NNS analytically_RB why_WRB some_DT of_IN these_DT algorithms_NNS perform_VBP well_RB and_CC provide_VB a_DT tight_JJ guarantee_NN on_IN the_DT PageRank_NNP coverage_NN of_IN the_DT downloaded_VBN pages_NNS ._.
+A_DT different_JJ

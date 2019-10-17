@@ -1,0 +1,6 @@
+iers_NNS ._.
+In_IN the_DT rest_NN of_IN this_DT section_NN ,_, we_PRP focus_VBP on_IN summarizing_VBG different_JJ distance_NN measures_NNS proposed_VBN for_IN sequence_NN data_NNS ._.
+For_IN simple_JJ time_NN series_NN classification_NN ,_, Euclidean_JJ distance_NN is_VBZ a_DT widely_RB adopted_VBN option_NN =_JJ -_: =[_NN 26_CD ;_: 59_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN two_CD time_NN series_NN s_NN and_CC s_NN ′_NN ,_, Euclidean_JJ distance_NN is_VBZ dist_NN -LRB-_-LRB- s_NN ,_, s_NN ′_NN -RRB-_-RRB- =_JJ √_NN L_NN ∑_FW i_FW =_JJ 1_CD -LRB-_-LRB- s_NN -LRB-_-LRB- i_LS -RRB-_-RRB- −_CD s_NN ′_NN -LRB-_-LRB- i_LS -RRB-_-RRB- -RRB-_-RRB- 2_CD ._.
+The_DT Euclidean_JJ distance_NN usually_RB requires_VBZ two_CD time_NN series_NN to_TO have_VB the_DT same_JJ length_NN ._.
+Keogh_NNP et_FW al._FW -LRB-_-LRB- 26_CD

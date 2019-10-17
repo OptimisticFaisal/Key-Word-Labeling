@@ -1,0 +1,4 @@
+Decision_NN tree_NN ,_, typified_VBN by_IN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, can_MD be_VB extended_VBN to_TO rules_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, and_CC their_PRP$ results_NNS are_VBP more_RBR straightforward_JJ to_TO interpret_VB ._.
+They_PRP have_VBP been_VBN used_VBN to_TO solve_VB classification_NN problems_NNS in_IN medical_JJ data_NNS analysis_NN =_JJ -_: =[_NN 10_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, C4_NN .5_NN does_VBZ not_RB work_VB well_RB on_IN the_DT skewed_JJ cases_NNS in_IN medical_JJ data_NNS where_WRB the_DT normal_JJ population_NN greatly_RB outnumbers_VBZ the_DT population_NN with_IN disease_NN ._.
+Other_JJ rule_NN based_VBN classification_NN methods_NNS ,_, e.g._FW CN2_NN -LRB-_-LRB- 7_CD ,_,

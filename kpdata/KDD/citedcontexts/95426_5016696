@@ -1,0 +1,5 @@
+eir_NN behaviors_NNS to_TO avoid_VB detection_NN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 4_CD ,_, 3_CD ,_, 6_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+This_DT makes_VBZ the_DT very_JJ behavior_NN the_DT classifier_NN is_VBZ trying_VBG to_TO detect_VB a_DT function_NN of_IN the_DT classifier_NN itself_PRP ._.
+Learners_NNS that_WDT account_VBP for_IN concept_NN drift_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =--RRB-_NN are_VBP not_RB sufficient_JJ since_IN they_PRP do_VBP not_RB allow_VB the_DT change_NN in_IN concept_NN to_TO depend_VB on_IN the_DT classifier_NN ._.
+As_IN a_DT result_NN ,_, humans_NNS must_MD adapt_VB the_DT classifier_NN with_IN each_DT new_JJ attack_NN ._.
+Ideally_RB ,_, we_PRP would_MD like_VB to_TO see_VB classi_NNS

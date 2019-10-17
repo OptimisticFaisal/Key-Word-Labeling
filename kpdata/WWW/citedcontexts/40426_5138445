@@ -1,0 +1,5 @@
+ently_RB ._.
+In_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- Gyongyi_NNP et_FW al._FW use_VBP the_DT trust_NN vector_NN to_TO combat_NN spam_NN ._.
+In_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- topic_NN specific_JJ PageRank_NN vectors_NNS are_VBP calculated_VBN and_CC in_IN -LRB-_-LRB- 29_CD -RRB-_-RRB- topic_NN specific_JJ TrustRank_NN values_NNS are_VBP calculated_VBN to_TO combat_VB spam_NN ._.
+In_IN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: Haveliwala_FW et_FW al._FW present_VBP an_DT accelerated_JJ method_NN of_IN calculating_VBG PageRank_NNP ._.
+Abiteboul_NNP et_FW al._FW present_VBP an_DT online_JJ adaptive_JJ page_NN importance_NN computation_NN algorithm_NN ,_, which_WDT is_VBZ a_DT slight_JJ variation_NN of_IN the_DT PageRank_NN

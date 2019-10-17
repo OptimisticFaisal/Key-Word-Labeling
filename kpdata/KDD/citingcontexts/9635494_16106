@@ -1,0 +1,3 @@
+r_NN an_DT instance_NN of_IN DAG_NN Partitioning_NN has_VBZ a_DT solution_NN of_IN total_JJ edge_NN weight_NN at_IN most_JJS W_NN is_VBZ NPcomplete_NN ,_, using_VBG a_DT reduction_NN from_IN an_DT NP-complete_JJ problem_NN in_IN discrete_JJ optimization_NN known_VBN as_IN the_DT Multiway_NNP Cut_NNP problem_NN =_JJ -_: =[_NN 9_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN an_DT instance_NN of_IN Multiway_NNP Cut_NNP ,_, we_PRP are_VBP given_VBN a_DT weighted_JJ undirected_JJ graph_NN H_NN in_IN which_WDT a_DT subset_NN T_NN of_IN the_DT nodes_NNS has_VBZ been_VBN designated_VBN as_IN the_DT set_NN of_IN terminals_NNS ._.
+The_DT goal_NN is_VBZ to_TO decide_VB whether_IN we_PRP can_MD delete_VB a_DT

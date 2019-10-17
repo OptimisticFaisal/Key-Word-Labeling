@@ -1,0 +1,4 @@
+rst_NN patterns_NNS to_TO annotate_VB named_VBN entities_NNS in_IN documents_NNS ._.
+Matuszek_NNP et_FW al._FW uses_VBZ Cyc_NNP to_TO specify_VB Web_NN searches_NNS to_TO identify_VB and_CC verify_VB common_JJ senses_NNS candidates_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+The_DT similar_JJ idea_NN is_VBZ utilized_VBN in_IN OntoSyphon_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: where_WRB ontology_NN combined_VBN with_IN search_NN engines_NNS are_VBP used_VBN to_TO identify_VB semantic_JJ instances_NNS and_CC relations_NNS ._.
+In_IN contrast_NN ,_, Kylinautomatically_NNP constructs_NNS the_DT Wikipedia_NNP infobox_NN ontology_NN and_CC uses_VBZ it_PRP to_TO help_VB train_VB

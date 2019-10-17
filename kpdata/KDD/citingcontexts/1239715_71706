@@ -1,0 +1,4 @@
+model_NN to_TO run_VB simulation_NN experiments_NNS for_IN evaluating_VBG the_DT acquired_VBN targeting_NN policy_NN ._.
+3.1_CD Data_NNP Set_NNP The_NNP donation_NN data_NNS set_VBD we_PRP used_VBD from_IN the_DT KDD_NNP Cup_NNP 1998_CD competition_NN is_VBZ available_JJ from_IN the_DT UCI_NNP KDD_NNP repository_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: along_IN with_IN associated_VBN documentation_NN ._.
+This_DT data_NN set_NN contains_VBZ information_NN concerning_VBG direct-mail_JJ promotions_NNS for_IN soliciting_VBG donations_NNS ._.
+The_DT information_NN includes_VBZ demographic_JJ data_NNS as_RB well_RB as_IN promotion_NN hist_NN

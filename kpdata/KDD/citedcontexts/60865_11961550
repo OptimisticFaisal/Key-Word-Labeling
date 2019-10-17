@@ -1,0 +1,3 @@
+articular_JJ ,_, aggregated_JJ data_NNS for_IN a_DT query_NN can_MD be_VB used_VBN to_TO provide_VB recommendations_NNS for_IN other_JJ users_NNS ,_, or_CC to_TO train_VB ranking_JJ functions_NNS of_IN the_DT search_NN engine_NN and_CC improve_VB its_PRP$ ranking_JJ quality_NN for_IN the_DT current_JJ query_NN =_JJ -_: =[_NN 2_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT assumption_NN underlying_VBG the_DT use_NN of_IN aggregated_JJ data_NNS is_VBZ that_IN users_NNS who_WP issue_VBP the_DT same_JJ query_NN might_MD share_VB a_DT similar_JJ interest_NN ,_, and_CC thus_RB be_VB interested_JJ in_IN a_DT similar_JJ set_NN of_IN documents_NNS ._.
+In_IN this_DT study_NN we_PRP exa_VBP

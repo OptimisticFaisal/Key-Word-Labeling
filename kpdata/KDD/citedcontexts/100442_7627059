@@ -1,0 +1,4 @@
+even_RB moderately_RB high-dimensional_JJ -LRB-_-LRB- multivariate_JJ -RRB-_-RRB- spaces_NNS ,_, and_CC finding_VBG the_DT right_JJ model_NN is_VBZ often_RB a_DT difficult_JJ task_NN in_IN its_PRP$ own_JJ right_NN ._.
+Simplified_VBN probabilistic_JJ models_NNS suffer_VBP from_IN a_DT high_JJ false_JJ positive_JJ rate_NN =_JJ -_: =[_NN 16_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Also_RB ,_, methods_NNS based_VBN on_IN computational_JJ geometry_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- do_VBP not_RB scale_VB well_RB as_IN the_DT number_NN of_IN dimensions_NNS increase_NN ._.
+To_TO overcome_VB these_DT limitations_NNS ,_, researchers_NNS have_VBP turned_VBN to_TO various_JJ non-parametric_JJ approaches_NNS

@@ -1,0 +1,4 @@
+re_RB exist_VB techniques_NNS to_TO find_VB all_DT frequent_JJ itemsets_NNS reasonably_RB efficiently_RB -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+The_DT techniques_NNS for_IN frequent_JJ itemset_NN mining_NN have_VBP been_VBN adapted_VBN to_TO mine_VB also_RB other_JJ kinds_NNS of_IN frequent_JJ patterns_NNS such_JJ as_IN graphs_NNS =_JJ -_: =[_NN 3,4,5,6_CD -RRB-_-RRB- -_: =_JJ -_: and_CC sequences_NNS -LRB-_-LRB- 7,8,9_CD -RRB-_-RRB- ._.
+Also_RB other_JJ measures_NNS of_IN interestingness_NN have_VBP been_VBN considered_VBN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+In_IN general_JJ ,_, the_DT problem_NN can_MD be_VB formulated_VBN as_IN the_DT discovery_NN of_IN interesting_JJ patterns_NNS as_IN follows_VBZ :_: Problem_NNP 2_CD -LRB-_-LRB- Disc_NNP

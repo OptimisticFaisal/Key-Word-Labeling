@@ -1,0 +1,4 @@
+functions_NNS ._.
+One_CD such_JJ function_NN has_VBZ been_VBN proposed_VBN by_IN Fouss_FW et_FW al._FW -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, which_WDT estimates_VBZ similarity_NN based_VBN on_IN a_DT random-walk_JJ computation_NN ._.
+Another_DT possible_JJ approach_NN is_VBZ to_TO incorporate_VB the_DT work_NN of_IN Zhou_NNP et_FW al._FW =_SYM -_: =[_NN 38_CD -RRB-_-RRB- -_: =_JJ -_: who_WP proposed_VBD a_DT multiple-graph_JJ framework_NN for_IN document_NN recommendation_NN ._.
+The_DT very_RB high_JJ dimensionality_NN and_CC sparsity_NN of_IN keyword_JJ advertising_NN data_NNS makes_VBZ smoothing_VBG an_DT important_JJ component_NN for_IN probabilistic_JJ sim_NN

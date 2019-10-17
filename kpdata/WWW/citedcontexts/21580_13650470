@@ -1,0 +1,4 @@
+s_NNS and_CC collections_NNS in_IN OWL_NNP DL_NNP will_MD match_VB on_IN variables_NNS of_IN type_NN sts_NNS :_: OWLBlankNode_NN and_CC sts_NNS :_: OWLList_NN ,_, respectively_RB or_CC a_DT Node_ANY_NN ._.
+A_DT Node_ANY_NN is_VBZ a_DT meta-node_NN that_WDT is_VBZ used_VBN to_TO stand_VB for_IN any_DT other_JJ node_NN in_IN a_DT query_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Alignment_NN of_IN Linda-like_JJ template_NN matching_NN with_IN Semantic_JJ Web_NN query_NN provides_VBZ a_DT semantic_JJ matching_NN ._.
+The_DT semantic_JJ matching_NN mechanism_NN was_VBD motivated_VBN by_IN recent_JJ achievement_NN in_IN RDF_NN query_NN language_NN --_: SPARQL_NN -LRB-_-LRB- 20_CD

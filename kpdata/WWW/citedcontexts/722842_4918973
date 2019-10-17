@@ -1,0 +1,4 @@
+verall_NN success_NN of_IN a_DT transaction_NN despite_IN the_DT failure_NN of_IN some_DT of_IN this_DT transaction_NN 's_POS portions_NNS ._.
+Bhiri_FW et_FW al._FW propose_VBP a_DT transactional_JJ approach_NN to_TO guarantee_VB the_DT failure_NN atomicity_NN of_IN a_DT composite_JJ Web_NN service_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP use_VBP the_DT accepted_VBN termination_NN states_NNS property_NN as_IN a_DT means_NN for_IN guaranteeing_VBG this_DT atomicity_NN ._.
+The_DT correctness_NN criterion_NN associated_VBN with_IN a_DT composite_JJ Web_NN service_NN execution_NN varies_VBZ from_IN one_CD designer_NN to_TO

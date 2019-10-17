@@ -1,0 +1,4 @@
+requirement_NN -RRB-_-RRB- ,_, we_PRP introduce_VBP a_DT dummy_NN functional_JJ topic_NN zB_NN for_IN every_DT sentence_NN in_IN the_DT document_NN ._.
+We_PRP use_VBP this_DT functional_JJ topic_NN to_TO capture_VB the_DT document-independent_JJ word_NN distribution_NN ,_, i.e._FW ,_, corpus_NN background_NN -LRB-_-LRB- =_JJ -_: =_JJ Zhai_NNP et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN ._.
+As_IN a_DT result_NN ,_, in_IN strTM_NNP ,_, every_DT sentence_NN is_VBZ treated_VBN as_IN a_DT mixture_NN of_IN content_NN and_CC functional_JJ topics_NNS ._.
+Formally_RB ,_, we_PRP assume_VBP a_DT corpus_NN consists_VBZ of_IN D_NN documents_NNS with_IN a_DT vocabulary_NN of_IN size_NN V_NN ,_, and_CC there_EX are_VBP k_NN con_NN

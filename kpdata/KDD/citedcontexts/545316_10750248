@@ -1,0 +1,3 @@
+class_NN ̂yi_NN as_IN output_NN by_IN the_DT classifier_NN ,_, which_WDT is_VBZ probabilistic_JJ ,_, and_CC the_DT actual_JJ class_NN label_NN yi_NN determined_VBN by_IN a_DT human_JJ ,_, which_WDT is_VBZ discrete_JJ ._.
+RMSE_NNP has_VBZ been_VBN shown_VBN to_TO be_VB an_DT appropriate_JJ ,_, wellcalibrated_JJ metric_JJ -LRB-_-LRB- =_JJ -_: =_JJ Caruana_NNP &_CC Niculescu-Mizil_NNP ,_, 2004_CD -_: =--RRB-_NN ._.
+Further_RB motivating_VBG its_PRP$ use_NN here_RB is_VBZ that_IN ,_, unlike_IN traditional_JJ binary_JJ classification_NN accuracy_NN -LRB-_-LRB- ACC_NN -RRB-_-RRB- ,_, RMSE_NN captures_VBZ prediction_NN confidence_NN :_: correct_JJ predictions_NNS of_IN higher_JJR confidence_NN will_MD result_VB in_IN higher_JJR

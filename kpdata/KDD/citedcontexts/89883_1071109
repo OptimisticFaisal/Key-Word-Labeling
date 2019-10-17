@@ -1,0 +1,4 @@
+graphs_NNS are_VBP the_DT subgraphs_NNS that_WDT occur_VBP frequently_RB in_IN a_DT relational_JJ graph_NN dataset_NN ._.
+Since_IN frequent_JJ graph_NN mining_NN usually_RB generates_VBZ too_RB many_JJ patterns_NNS ,_, it_PRP is_VBZ more_RBR appealing_JJ to_TO mine_VB closed_JJ frequent_JJ graphs_NNS only_RB =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT frequent_JJ graph_NN g_NN is_VBZ closed_VBN if_IN and_CC only_RB if_IN there_EX does_VBZ not_RB exist_VB a_DT supergraph_NN with_IN the_DT same_JJ support_NN ._.
+Assume_VB graphs_NNS g_NN and_CC g_NN ′_NN are_VBP both_DT frequent_JJ subgraphs_NNS and_CC appear_VBP in_IN the_DT same_JJ set_NN of_IN relational_JJ grap_NN

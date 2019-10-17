@@ -1,0 +1,4 @@
+t_NN ''_'' has_VBZ better_JJR power_NN of_IN discrimination_NN than_IN frequent_JJ terms_NNS like_IN ``_`` hard_JJ ''_'' ,_, the_DT infrequent_JJ but_CC important_JJ term_NN should_MD be_VB given_VBN more_JJR weight_NN ._.
+This_DT can_MD be_VB done_VBN using_VBG measures_NNS like_IN pointwise_JJ mutual_JJ information_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: or_CC termfrequency_NN x_NN inverse_JJ document_NN frequency_NN -LRB-_-LRB- tf_NN x_NN idf_NN -RRB-_-RRB- ._.
+This_DT paper_NN mainly_RB uses_VBZ the_DT pointwise_JJ mutual_JJ information_NN for_IN the_DT representation_NN of_IN the_DT feature_NN vectors_NNS ._.
+Figure_NN 3_CD shows_VBZ an_DT example_NN of_IN term_NN freq_NN

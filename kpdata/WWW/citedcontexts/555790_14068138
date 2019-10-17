@@ -1,0 +1,6 @@
+ing_IN the_DT page_NN resources_NNS ._.
+Therefore_RB ,_, in_IN this_DT sense_NN crawling_VBG strategies_NNS must_MD be_VB respectful_JJ ._.
+In_IN general_JJ ,_, a_DT good_JJ scheduler_NN strategy_NN is_VBZ scanning_VBG in_IN breadth_NN ._.
+However_RB ,_, for_IN domain_NN indexing_NN ,_, Baeza-Yates_NNP et_FW al._FW =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP proven_VBN that_IN a_DT better_JJR strategy_NN may_MD be_VB ordering_VBG the_DT pages_NNS by_IN PageRank_NN value_NN ._.
+We_PRP will_MD use_VB this_DT strategy_NN in_IN our_PRP$ search_NN engine_NN ._.
+The_DT crawler_NN implemented_VBD through_IN WIRE_NN lets_VBZ a_DT scheduler_NN be_VB defined_VBN accord_NN

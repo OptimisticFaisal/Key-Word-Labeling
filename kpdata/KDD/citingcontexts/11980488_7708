@@ -1,0 +1,5 @@
+tive_JJ models_NNS ._.
+In_IN Table_NNP 1_CD ,_, we_PRP summarize_VBP the_DT characteristics_NNS of_IN the_DT 6_CD protein-structure_JJ graph_NN data_NNS sets_NNS ._.
+For_IN each_DT data_NNS set_VBN ,_, we_PRP list_VBP the_DT data_NNS set_VBP index_NN ,_, the_DT related_JJ protein_NN family_NN ID_NN in_IN the_DT SCOP_NN database_NN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT description_NN of_IN the_DT protein_NN family_NN ,_, the_DT number_NN of_IN positive_JJ samples_NNS and_CC the_DT number_NN of_IN negative_JJ samples_NNS ._.
+See_VB -LRB-_-LRB- 16_CD -RRB-_-RRB- for_IN a_DT comprehensive_JJ description_NN of_IN the_DT data_NNS collection_NN process_NN ._.
+Table_NNP 1_CD :_: Data_NN set_NN :_:

@@ -1,0 +1,4 @@
+tely_RB be_VB solved_VBN by_IN a_DT single_JJ regression_NN model_NN ._.
+Decision_NN tree_NN algorithms_NNS provide_VBP the_DT basis_NN for_IN recursively_RB partitioning_VBG the_DT data_NNS ,_, and_CC fitting_JJ local_JJ models_NNS in_IN the_DT leaves_NNS ._.
+The_DT CART_NN decision_NN tree_NN algorithm_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: selects_VBZ the_DT split_NN variable_JJ and_CC split_JJ value_NN that_WDT minimizes_VBZ the_DT weighted_JJ sum_NN of_IN the_DT variances_NNS of_IN the_DT target_NN values_NNS in_IN the_DT two_CD subsets_NNS ._.
+Identically_RB ,_, the_DT CART_NN algorithm_NN finds_VBZ a_DT split_NN that_WDT minimizes_VBZ the_DT R_NN

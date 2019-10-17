@@ -1,0 +1,4 @@
+ontext_NN of_IN sparse_JJ text_NN document_NN data_NNS ._.
+For_IN a_DT sparse_JJ data_NN matrix_NN XdN_NN with_IN about_IN c_NN nonzero_NN entries_NNS per_IN column_NN ,_, the_DT computational_JJ complexity_NN of_IN SVD_NNP is_VBZ of_IN order_NN O_NN -LRB-_-LRB- dcN_NN -RRB-_-RRB- -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Latent_JJ semantic_JJ indexing_NN -LRB-_-LRB- LSI_NNP -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ 9_CD ,_, 22_CD -RRB-_-RRB- is_VBZ a_DT -_: =_JJ -_: dimensionality_NN reduction_NN method_NN for_IN text_NN document_NN data_NNS ._.
+Using_VBG LSI_NNP ,_, the_DT document_NN data_NNS is_VBZ presented_VBN in_IN a_DT lower-dimensional_JJ \_NN topic_NN ''_'' space_NN :_: the_DT documents_NNS are_VBP characterized_VBN by_IN some_DT underlying_JJ -LRB-_-LRB- latent_JJ

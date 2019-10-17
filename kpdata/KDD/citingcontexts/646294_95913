@@ -1,0 +1,5 @@
+graph_NN G_NN into_IN a_DT set_NN of_IN highly_RB connected_VBN components_NNS along_IN the_DT minimum_JJ cut_NN ._.
+Each_DT highly_RB connected_VBN component_NN is_VBZ considered_VBN as_IN a_DT gene_NN cluster_NN ._.
+Motivated_VBN by_IN HCS_NN ,_, Shamir_NNP et_FW al._FW developed_VBD the_DT algorithm_NN CLICK_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, Ben-dor_JJ et_FW al._FW presented_VBD a_DT heuristic_NN algorithm_NN CAST_NN to_TO iteratively_RB identify_VB the_DT maximal_JJ cliques_NNS once_RB at_IN a_DT time_NN ._.
+Xu_FW et_FW al._FW -LRB-_-LRB- 30_CD -RRB-_-RRB- generated_VBD a_DT Minimum_NNP Spanning_NNP Tree_NNP -LRB-_-LRB- MST_NNP -RRB-_-RRB- from_IN the_DT weighted_JJ gene_NN

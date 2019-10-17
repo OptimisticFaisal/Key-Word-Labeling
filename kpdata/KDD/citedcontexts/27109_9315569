@@ -1,0 +1,4 @@
+ging_NN ,_, but_CC averaging_NN gave_VBD better_JJR results_NNS ._.
+Spectral_JJ Co-clustering_NN A_DT different_JJ approach_NN to_TO averaging_VBG the_DT preferences_NNS of_IN other_JJ users_NNS together_RB is_VBZ clustering_NN ._.
+We_PRP use_VBP the_DT spectral_JJ co-clustering_JJ approach_NN of_IN -LRB-_-LRB- =_JJ -_: =_JJ Dhillon_NNP ,_, 2001_CD -_: =--RRB-_NN ,_, which_WDT simultaneously_RB embeds_VBZ users_NNS and_CC items_NNS onto_IN a_DT low-dimensional_JJ space_NN ._.
+Applying_VBG the_DT idea_NN to_TO our_PRP$ current_JJ task_NN ,_, we_PRP derive_VBP the_DT first_JJ s_NN left_NN and_CC right_JJ singular_JJ vectors_NNS of_IN G_NN and_CC embed_VBD both_DT users_NNS and_CC

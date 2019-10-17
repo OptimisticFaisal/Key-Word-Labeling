@@ -1,0 +1,4 @@
+eneralized_VBD Hough_NNP Transform_NNP The_NNP Hough_NNP transform_VB -LRB-_-LRB- 11_CD -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- is_VBZ a_DT useful_JJ method_NN for_IN twodimensional_JJ shape_NN detection_NN ,_, but_CC it_PRP is_VBZ limited_JJ to_TO analytic_JJ curves_NNS ._.
+It_PRP was_VBD generalized_VBN to_TO detect_VB arbitrary_JJ shapes_NNS in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ;_: however_RB ,_, these_DT works_NNS did_VBD not_RB explicitly_RB encode_VB a_DT similarity_NN measure_NN ._.
+We_PRP note_VBP that_IN there_EX are_VBP many_JJ variants_NNS of_IN the_DT Hough_NNP transform_VB ,_, and_CC the_DT notation_NN in_IN the_DT literature_NN is_VBZ inconsistent_JJ ._.
+The_DT particular_JJ v_LS

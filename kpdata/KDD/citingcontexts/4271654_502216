@@ -1,0 +1,4 @@
+we_PRP utilize_VBP a_DT large_JJ dataset_NN pool_NN ,_, since_IN the_DT performance_NN of_IN each_DT technique_NN is_VBZ highly_RB dependent_JJ on_IN the_DT data_NNS characteristics_NNS ._.
+We_PRP use_VBP a_DT number_NN of_IN real_JJ datasets_NNS from_IN the_DT UCR_NNP time-series_NNS data_NNS mining_NN archive_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT span_VBP a_DT wide_JJ variety_NN of_IN areas_NNS ,_, such_JJ as_IN computer_NN networks_NNS ,_, medicine_NN ,_, environmental_JJ measurements_NNS ,_, and_CC more_JJR ._.
+Each_DT dataset_NN consists_VBZ of_IN 50_CD sequences_NNS with_IN length_NN of_IN 512_CD points_NNS ._.
+We_PRP note_VBP that_IN the_DT datas_NNS

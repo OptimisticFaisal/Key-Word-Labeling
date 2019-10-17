@@ -1,0 +1,3 @@
+n_NN previous_JJ work_NN ,_, such_JJ ``_`` distributional_JJ clustering_NN ''_'' of_IN features_NNS has_VBZ been_VBN found_VBN to_TO achieve_VB improvements_NNS over_IN feature_NN selection_NN in_IN terms_NNS of_IN classification_NN accuracy_NN ,_, especially_RB at_IN lower_JJR number_NN of_IN features_NNS =_JJ -_: =[_NN 2_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB the_DT existing_VBG clustering_NN techniques_NNS are_VBP agglomerative_JJ in_IN nature_NN and_CC result_NN in_IN -LRB-_-LRB- i_LS -RRB-_-RRB- sub-optimal_JJ word_NN clusters_NNS and_CC -LRB-_-LRB- ii_LS -RRB-_-RRB- high_JJ computational_JJ cost_NN ._.
+In_IN order_NN to_TO explicitly_RB capture_VB the_DT optimality_NN of_IN

@@ -1,0 +1,5 @@
+ariable_JJ ._.
+While_IN this_DT assumption_NN is_VBZ often_RB unrealistic_JJ ,_, the_DT NB_NN classifier_NN has_VBZ nevertheless_RB been_VBN applied_VBN successfully_RB in_IN many_JJ settings_NNS and_CC is_VBZ the_DT subject_NN of_IN numerous_JJ studies_NNS explaining_VBG its_PRP$ success_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT TAN_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- classifier_NN extends_VBZ the_DT Naive_JJ Bayes_NNP model_NN by_IN relaxing_VBG the_DT independence_NN assumption_NN so_IN that_IN the_DT features_NNS are_VBP connected_VBN to_TO each_DT other_JJ as_IN a_DT tree_NN ._.
+Feature_NN selection_NN methods_NNS ._.
+Unfortunately_RB ,_, th_DT

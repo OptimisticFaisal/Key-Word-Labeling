@@ -1,0 +1,4 @@
+,_, e.g._FW Prolog_NNP -LRB-_-LRB- McIlraith_NNP and_CC Son_NNP ,_, 2002_CD ;_: McIlraith_NNP et_FW al._FW ,_, 2001_CD -RRB-_-RRB- ,_, hierarchical_JJ task_NN planning_NN -LRB-_-LRB- Wu_NNP et_FW al._FW ,_, 2003_CD -RRB-_-RRB- ,_, and_CC forward_RB chaining_VBG with_IN backward_RB chaining_VBG for_IN query_NN -LRB-_-LRB- Constantinescu_NNP and_CC Faltings_NNP ,_, 2004_CD ;_: =_JJ -_: =_JJ Constantinescu_NNP et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN ._.
+Rule-based_JJ systems_NNS have_VBP also_RB been_VBN used_VBN in_IN aiding_VBG the_DT composition_NN of_IN Web_NN services_NNS ._.
+The_DT forward_JJ chaining_NN technique_NN was_VBD one_CD of_IN the_DT first_JJ approaches_NNS attempted_VBN -LRB-_-LRB- Thakkar_NNP et_FW al._FW ,_, 2002_CD -RRB-_-RRB- ._.
+The_DT resulting_VBG syst_NN

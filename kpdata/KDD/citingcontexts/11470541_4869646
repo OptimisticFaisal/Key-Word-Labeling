@@ -1,0 +1,4 @@
+e_LS introduce_VB a_DT better_JJR evaluation_NN method_NN which_WDT is_VBZ much_RB closer_JJR to_TO the_DT real_JJ world_NN and_CC call_VB it_PRP the_DT ``_`` online_JJ ''_'' framework_NN in_IN this_DT paper_NN ._.
+Figure_NN 2_CD illustrates_VBZ the_DT online_JJ framework_NN ._.
+Like_IN online_JJ machine_NN learning_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT has_VBZ been_VBN used_VBN widely_RB ,_, in_IN our_PRP$ online_NN mode_NN 3_CD ,_, the_DT tagging_NN system_NN operates_VBZ in_IN an_DT incremental_JJ mode_NN and_CC the_DT test_NN posts_NNS are_VBP randomly_RB sampled_VBN from_IN the_DT whole_JJ dataset_NN along_IN the_DT timeline_NN ._.
+In_IN other_JJ words_NNS

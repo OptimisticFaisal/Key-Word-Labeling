@@ -1,0 +1,5 @@
+or_CC using_VBG a_DT separated_JJ pLSI_NN -LRB-_-LRB- Hofmann_NN 1999_CD -RRB-_-RRB- or_CC LDA_NNP -LRB-_-LRB- Blei_NNP et_FW al._FW 2003_CD -RRB-_-RRB- for_IN each_DT type_NN of_IN object_NN ._.
+However_RB ,_, the_DT separated_JJ way_NN may_MD result_VB in_IN unsatisfactory_JJ performance_NN ._.
+Some_DT preliminary_JJ experimental_JJ results_NNS -LRB-_-LRB- =_JJ -_: =_JJ Tang_NNP et_FW al._FW 2008_CD -_: =-]_CD confirm_VBP this_DT assumption_NN ._.
+Our_PRP$ main_JJ idea_NN in_IN this_DT work_NN is_VBZ to_TO use_VB a_DT probabilistic_JJ topic_NN model_NN to_TO model_NN papers_NNS ,_, authors_NNS ,_, and_CC publication_NN venues_NNS simultaneously_RB ._.
+The_DT proposed_VBN topic_NN model_NN is_VBZ called_VBN Author-C_NN

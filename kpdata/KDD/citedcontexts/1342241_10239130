@@ -1,0 +1,4 @@
+rules_NNS another_DT phase_NN of_IN data_NN mining_NN ._.
+In_IN order_NN to_TO focus_VB on_IN interesting_JJ rules_NNS ,_, one_CD solution_NN is_VBZ to_TO organize_VB all_DT discovered_VBN rules_NNS as_IN a_DT rulebase_NN and_CC apply_VB a_DT rule_NN query_NN language_NN such_JJ as_IN MSQL_NN -LRB-_-LRB- 35_CD -RRB-_-RRB- or_CC Rule-QL_NN =_JJ -_: =[_NN 88_CD -RRB-_-RRB- -_: =_SYM -_: to_TO find_VB the_DT rules_NNS which_WDT the_DT user_NN is_VBZ really_RB interested_JJ in_IN ._.
+Another_DT solution_NN is_VBZ to_TO prune_VB those_DT redundant_JJ rules_NNS from_IN the_DT rule_NN result_NN ._.
+A_DT rule_NN is_VBZ redundant_JJ if_IN its_PRP$ information_NN can_MD be_VB obtained_VBN from_IN another_DT

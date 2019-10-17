@@ -1,0 +1,6 @@
+monstration_NN -LRB-_-LRB- see_VB Section_NNP 5_CD -RRB-_-RRB- ._.
+For_IN larger_JJR datasets_NNS the_DT match_NN workflow_NN can_MD be_VB modeled_VBN within_IN the_DT GUI_NNP and_CC then_RB executed_VBN in_IN batch_NN mode_NN ._.
+The_DT FEVER_NN implementation_NN is_VBZ written_VBN in_IN Java_NNP and_CC uses_VBZ the_DT Rapid_NNP Miner_NNP =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: 1_CD library_NN of_IN machine_NN learners_NNS ._.
+3_LS ._.
+OPERATOR_NN TREES_NNS FEVER_NN allows_VBZ the_DT definition_NN of_IN entity_NN matching_NN algorithms_NNS by_IN operator_NN trees_NNS ._.
+Operator_NN trees_NNS are_VBP a_DT common_JJ modeling_NN concept_NN for_IN numerous_JJ database_NN proble_NN

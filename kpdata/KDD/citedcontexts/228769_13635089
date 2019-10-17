@@ -1,0 +1,4 @@
+he_PRP known_VBD classes_NNS ._.
+These_DT classes_NNS are_VBP usually_RB produced_VBN by_IN the_DT human_JJ judgment_NN or_CC by_IN a_DT classification_NN algorithm_NN ._.
+Most_RBS commonly_RB used_VBN external_JJ quality_NN measure_NN for_IN partitional_JJ algorithm_NN is_VBZ the_DT Entropy_NNP -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+If_IN C1_NN ,_, C2_NN ,_, ·_NNP ·_NNP ·_NNP CK_NNP are_VBP the_DT K_NN clusters_NNS generated_VBN by_IN a_DT clustering_NN algorithm_NN and_CC Ω1_NN ,_, Ω2_NN ·_NNP ·_NNP ·_NNP ΩC_NNP are_VBP the_DT C_NN classes_NNS ,_, then_RB the_DT Entropy_NNP of_IN the_DT cluster_NN Cj_NN can_MD be_VB defined_VBN as_IN :_: Hj_NN =_JJ −_FW ∑_FW pkj_FW log_NN -LRB-_-LRB- pkj_NN -RRB-_-RRB- -LRB-_-LRB- 6_CD

@@ -1,0 +1,3 @@
+ri_IN trust_NN vector_NN v_LS is_VBZ of_IN critical_JJ importance_NN ,_, and_CC a_DT number_NN of_IN techniques_NNS have_VBP been_VBN suggested_VBN ,_, including_VBG the_DT use_NN of_IN expert-selected_JJ whitelists_NNS ,_, high_JJ PageRank_NN pages_NNS ,_, and_CC topicallysegmented_VBD trusted_VBN pages_NNS =_JJ -_: =[_NN 10_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN summary_NN ,_, link-based_JJ ranking_NN algorithms_NNS like_IN HITS_NNP ,_, PageRank_NNP ,_, and_CC TrustRank_NN attempt_NN to_TO estimate_VB a_DT page_NN 's_POS intrinsic_JJ quality_NN by_IN analyzing_VBG the_DT hyperlink_NN structure_NN of_IN the_DT Web_NN ._.
+Fundamentally_RB ,_, the_DT qualit_NN

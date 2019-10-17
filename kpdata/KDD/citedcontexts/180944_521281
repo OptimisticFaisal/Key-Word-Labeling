@@ -1,0 +1,4 @@
+lated_VBN work_NN There_RB exist_VBP many_JJ scalable_JJ clustering_NN algorithms_NNS ._.
+Some_DT wellknown_JJ examples_NNS include_VBP OPTI-GRID_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, CLIQUE_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, CURE_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, PROCLUS_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, DBSCAN_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+There_EX is_VBZ also_RB work_NN on_IN accelerating_VBG K-means_NN =_JJ -_: =[_NN 5_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP did_VBD not_RB compare_VB FREM_NN with_IN any_DT of_IN these_DT clustering_NN algorithms_NNS because_IN FREM_NN and_CC EM_NN compute_VBP a_DT statistical_JJ model_NN and_CC optimize_VB log-likelihood_NN -LRB-_-LRB- equation_NN 4_CD -RRB-_-RRB- ,_, whereas_IN these_DT algorithms_NNS compute_VBP clusters_NNS ba_IN

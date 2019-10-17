@@ -1,0 +1,3 @@
+neous_JJ word-document_NN clustering_NN ,_, we_PRP demonstrate_VBP that_IN our_PRP$ algorithm_NN works_VBZ well_RB in_IN practice_NN ,_, especially_RB in_IN the_DT presence_NN of_IN sparsity_NN ._.
+1_CD Introduction_NN Clustering_NN is_VBZ the_DT grouping_VBG together_RB of_IN similar_JJ objects_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC has_VBZ practical_JJ importance_NN in_IN a_DT wide_JJ variety_NN of_IN applications_NNS such_JJ as_IN text_NN ,_, web-log_JJ and_CC market-basket_JJ data_NN analysis_NN ._.
+Typically_RB ,_, the_DT data_NNS that_WDT arises_VBZ in_IN these_DT applications_NNS is_VBZ arranged_VBN as_IN a_DT contingen_NN

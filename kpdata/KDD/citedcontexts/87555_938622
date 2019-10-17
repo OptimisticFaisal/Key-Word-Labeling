@@ -1,0 +1,4 @@
+acy_NN is_VBZ not_RB the_DT best_JJS metric_NN to_TO optimize_VB because_IN the_DT cost_NN of_IN misclassified_VBN examples_NNS is_VBZ highly_RB variable_JJ ._.
+For_IN example_NN ,_, misclassifying_VBG a_DT single_JJ example_NN can_MD cost_VB from_IN nothing_NN to_TO upwards_NNS of_IN $_$ 2,000_CD ._.
+MetaCost_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT well-known_JJ general_JJ method_NN for_IN training_VBG costsensitive_JJ classifiers_NNS ._.
+In_IN our_PRP$ domain_NN ,_, MetaCost_NNP will_MD make_VB a_DT learned_VBN classifier_NN either_CC more_RBR conservative_JJ or_CC more_RBR aggressive_JJ about_IN waiting_VBG for_IN a_DT better_JJR pr_NN

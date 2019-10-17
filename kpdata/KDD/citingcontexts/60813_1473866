@@ -1,0 +1,3 @@
+bels_NNS or_CC constraints_NNS in_IN the_DT supervised_JJ data_NNS ._.
+Several_JJ adaptive_JJ distance_NN measures_NNS have_VBP been_VBN used_VBN for_IN semisupervised_JJ clustering_NN ,_, including_VBG string-edit_JJ distance_NN trained_VBN using_VBG Expectation_NN Maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, KL_NN divergence_NN trained_VBN using_VBG gradient_NN descent_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, Euclidean_JJ distance_NN modified_VBN by_IN a_DT shortestpath_NN algorithm_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, or_CC Mahalanobis_NNP distances_NNS trained_VBD using_VBG convex_NN optimization_NN -LRB-_-LRB- 39_CD -RRB-_-RRB- ._.
+We_PRP propose_VBP a_DT princip_NN

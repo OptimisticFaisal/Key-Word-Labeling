@@ -1,0 +1,4 @@
+the_DT process_NN of_IN fixing_VBG errors_NNS and_CC anomalies_NNS in_IN an_DT unclean_JJ database_NN ._.
+Data_NN cleaning_NN is_VBZ usually_RB an_DT expensive_JJ and_CC labor_NN intensive_JJ process_NN ,_, which_WDT tends_VBZ to_TO be_VB done_VBN once_RB before_IN analyzing_VBG or_CC storing_VBG the_DT data_NN =_JJ -_: =[_NN 18_CD ,_, 21_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD of_IN the_DT major_JJ data_NNS quality_NN problems_NNS is_VBZ the_DT presence_NN of_IN duplicate_VB records_NNS that_WDT refer_VBP to_TO the_DT same_JJ real-world_JJ entity_NN ._.
+The_DT problem_NN of_IN duplicate_VB elimination_NN is_VBZ referred_VBN to_TO as_IN deduplication_NN ,_, entity_NN res_NNS

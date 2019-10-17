@@ -1,0 +1,5 @@
+redictions_NNS for_IN different_JJ tasks_NNS -LRB-_-LRB- 4_CD ,_, 11_CD ,_, 12_CD ,_, 15_CD -RRB-_-RRB- ._.
+Often_RB they_PRP outperform_VBP state-of-the-art_JJ non-relational_JJ classifiers_NNS like_IN Support_NN Vector_NNP Machines_NNP ._.
+Recently_RB ,_, relational_JJ methods_NNS using_VBG collective_JJ inference_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: received_VBN attention_NN ._.
+Collective_JJ inference_NN procedures_NNS are_VBP iterative_JJ algorithms_NNS ,_, that_WDT exploit_VBP the_DT relational_JJ autocorrelation_NN of_IN variables_NNS of_IN connected_JJ entities_NNS ._.
+One_CD of_IN the_DT key_JJ problems_NNS of_IN any_DT relational_NN

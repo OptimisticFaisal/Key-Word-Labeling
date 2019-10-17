@@ -1,0 +1,6 @@
+process_NN ._.
+1.2_CD Contributions_NNS and_CC Paper_NNP Organization_NNP Our_NNP objective_NN is_VBZ to_TO discover_VB all_PDT the_DT outliers_NNS with_IN I\/O_NN overhead_JJ linear_NN to_TO the_DT database_NN size_NN ._.
+A_DT similar_JJ attempt_NN has_VBZ been_VBN made_VBN by_IN Bay_NN and_CC Schwabancher_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP show_VBP that_IN the_DT problem_NN can_MD be_VB solved_VBN with_IN linear_JJ CPU_NNP time_NN ._.
+Unfortunately_RB ,_, their_PRP$ solution_NN incurs_VBZ quadratic_JJ I\/O_NN cost_NN ,_, as_IN will_MD be_VB analyzed_VBN in_IN the_DT next_JJ section_NN ._.
+Motivated_VBN by_IN this_DT ,_, we_PRP present_VBP a_DT syste_NN

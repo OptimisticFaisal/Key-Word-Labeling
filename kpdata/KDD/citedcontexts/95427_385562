@@ -1,0 +1,3 @@
+he_PRP time_NN and_CC memory_NN capacity_NN of_IN the_DT ever_RB improving_VBG modern_JJ computational_JJ technology_NN ._.
+Examples_NNS of_IN large_JJ data_NNS streams_NNS can_MD be_VB found_VBN in_IN telecommunications_NNS ,_, credit_NN card_NN transactions_NNS ,_, Internet_NNP searches_NNS ,_, etc._NN =_JJ -_: =[_NN 6,7,21,22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+5sOnline_NN learning_NN ,_, also_RB termed_VBN incremental_JJ learning_NN ,_, is_VBZ primarily_RB focused_VBN on_IN processing_VBG the_DT data_NNS in_IN a_DT sequential_JJ way_NN so_IN that_IN in_IN the_DT end_NN the_DT classifier_NN is_VBZ no_RB worse_JJR than_IN a_DT -LRB-_-LRB- hypothetical_JJ -RRB-_-RRB- classifier_NN tr_NN

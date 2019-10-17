@@ -1,0 +1,5 @@
+wering_VBG on_IN the_DT Semantic_JJ Web_NN ._.
+Our_PRP$ model_NN can_MD be_VB seen_VBN as_IN one_CD that_WDT integrates_VBZ IR_NN and_CC formal_JJ query_NN and_CC reasoning_NN to_TO utilize_VB both_CC textual_JJ and_CC semantic_JJ information_NN ._.
+In_IN the_DT semantic_JJ search_NN and_CC retrieval_NN area_NN ,_, =_JJ -_: =[_NN 10_CD ,_, 21_CD ,_, 22_CD ,_, 18_CD ,_, 25_CD ,_, 1_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: used_VBN semantic_JJ information_NN to_TO improve_VB search_NN on_IN the_DT -LRB-_-LRB- Semantic_JJ -RRB-_-RRB- Web_NN ._.
+SHOE_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- collects_VBZ semantic_JJ annotations_NNS on_IN Web_NN pages_NNS and_CC stores_NNS them_PRP in_IN a_DT KB_NN ._.
+Users_NNS are_VBP provided_VBN with_IN a_DT GUI_NNP to_TO formulate_VB an_DT ontology_NN

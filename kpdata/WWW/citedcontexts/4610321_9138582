@@ -1,0 +1,7 @@
+presentations_NNS -RRB-_-RRB- ._.
+The_DT controller_NN is_VBZ implemented_VBN in_IN PHP_NN -LRB-_-LRB- 113_CD -RRB-_-RRB- ._.
+Its_PRP$ purpose_NN is_VBZ to_TO query_VB the_DT database_NN in_IN response_NN to_TO events_NNS in_IN the_DT view_NN ._.
+Requests_NNS are_VBP invoked_VBN through_IN AJAX_NNP -LRB-_-LRB- Asynchronous_NNP JavaScript_NNP And_CC XML_NN -RRB-_-RRB- =_JJ -_: =[_NN 43_CD -RRB-_-RRB- -_: =_JJ -_: requests_NNS ._.
+Results_NNS are_VBP returned_VBN to_TO the_DT 187client_NN in_IN the_DT same_JJ manner_NN ._.
+The_DT XAJAX_NN -LRB-_-LRB- 154_CD -RRB-_-RRB- library_NN was_VBD used_VBN to_TO implement_VB this_DT functionality_NN ._.
+The_DT view_NN consists_VBZ of_IN a_DT client-side_JJ web_NN application_NN combining_VBG sev_NN

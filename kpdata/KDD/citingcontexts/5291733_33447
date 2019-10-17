@@ -1,0 +1,6 @@
+e_LS faulty_JJ and_CC normal_JJ components_NNS ._.
+Note_VB here_RB we_PRP only_RB use_VBP one_CD failure_NN observation_NN xf_NN for_IN localization_NN ._.
+If_IN more_JJR failure_NN observations_NNS from_IN the_DT same_JJ accident_NN are_VBP available_JJ ,_, we_PRP can_MD use_VB some_DT voting_NN strategies_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: to_TO increase_VB the_DT confidence_NN of_IN localization_NN ._.
+5_CD ._.
+EXPERIMENTAL_JJ RESULTS_NNS In_IN this_DT section_NN ,_, we_PRP first_RB use_VBP some_DT synthetic_JJ data_NNS to_TO test_VB our_PRP$ algorithm_NN ._.
+The_DT performances_NNS of_IN tracking_NN with_IN and_CC without_IN subspace_FW upd_FW

@@ -1,0 +1,3 @@
+ue_NN is_VBZ the_DT fact_NN that_IN current_JJ algorithms_NNS for_IN mining_NN distributed_VBN data_NNS are_VBP capable_JJ of_IN mining_NN data_NNS -LRB-_-LRB- whether_IN vertically_RB or_CC horizontally_RB fragmented_JJ -RRB-_-RRB- only_RB when_WRB the_DT global_JJ schema_NN across_IN all_DT databases_NNS is_VBZ known_VBN =_JJ -_: =[_NN 4_CD ,_, 6_CD ,_, 9_CD ,_, 14_CD ,_, 18_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT case_NN of_IN information_NN extracted_VBN from_IN distributed_VBN textual_JJ data_NNS ,_, however_RB ,_, no_DT preexisting_VBG global_JJ schema_NN -LRB-_-LRB- i.e._FW ,_, dictionary_NN of_IN terms_NNS -RRB-_-RRB- is_VBZ available_JJ ._.
+This_DT is_VBZ due_JJ to_TO the_DT fact_NN that_IN the_DT entities_NNS extracte_VBP

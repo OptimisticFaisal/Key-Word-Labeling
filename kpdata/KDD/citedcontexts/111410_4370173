@@ -1,0 +1,3 @@
+understand_VB the_DT semantic_JJ organization_NN of_IN an_DT online_JJ journal_NN article_NN is_VBZ the_DT geometric_JJ layout_NN of_IN the_DT web_NN page_NN ._.
+Therefore_RB ,_, unlike_IN most_JJS of_IN the_DT existing_VBG methods_NNS ,_, which_WDT mostly_RB depend_VBP on_IN HTML_NNP tags_NNS or_CC DOM_NN tree_NN =_JJ -_: =[_NN 2_CD ,_, 6_CD ,_, 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, our_PRP$ approach_NN heavily_RB depends_VBZ on_IN the_DT geometric_JJ layout_NN of_IN the_DT web_NN page_NN ._.
+By_IN combining_VBG DOM_NNP tree_NN and_CC traditional_JJ document_NN geometric_JJ layout_NN analysis_NN ,_, an_DT HTML_NNP document_NN can_MD be_VB represented_VBN by_IN a_DT zone_NN tree_NN mod_NN

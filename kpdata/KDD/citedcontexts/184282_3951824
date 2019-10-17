@@ -1,0 +1,4 @@
+tual_JJ data_NNS ,_, prior_RB to_TO applying_VBG Latent_JJ Semantic_JJ Indexing_NN -LRB-_-LRB- LSI_NNP -RRB-_-RRB- ._.
+In_IN their_PRP$ work_NN the_DT columns_NNS of_IN the_DT random_JJ projection_NN matrix_NN are_VBP required_VBN to_TO be_VB orthogonal_JJ to_TO each_DT other_JJ ,_, which_WDT is_VBZ proven_VBN not_RB necessary_JJ later_RB =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, it_PRP is_VBZ noticed_VBN that_IN the_DT random_JJ vector_NN may_MD be_VB organized_VBN carefully_RB for_IN a_DT specific_JJ purpose_NN ._.
+In_IN the_DT paper_NN by_IN Kaski_NNP -LRB-_-LRB- 61_CD -RRB-_-RRB- random_JJ projections_NNS were_VBD used_VBN on_IN textual_JJ data_NNS in_IN WEBSOM_NNP ,_, a_DT program_NN that_IN org_NN

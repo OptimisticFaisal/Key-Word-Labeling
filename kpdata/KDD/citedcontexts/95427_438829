@@ -1,0 +1,4 @@
+n_NN classification_NN from_IN a_DT team_NN or_CC ensemble_NN of_IN classifiers_NNS ._.
+Various_JJ studies_NNS have_VBP shown_VBN that_IN ensembling_NN is_VBZ a_DT useful_JJ method_NN addressing_VBG the_DT problem_NN of_IN large-scale_JJ and_CC potentially_RB distributed_VBN data_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- -LRB-_-LRB- 17_CD -RRB-_-RRB- =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+Ideally_RB ,_, different_JJ base_NN classifiers_NNS in_IN an_DT ensemble_NN capture_NN different_JJ patterns_NNS or_CC aspects_NNS of_IN a_DT pattern_NN embedded_VBN in_IN the_DT whole_JJ data_NNS ._.
+And_CC then_RB through_IN ensembling_NN ,_, these_DT different_JJ patterns_NNS or_CC aspect_NN

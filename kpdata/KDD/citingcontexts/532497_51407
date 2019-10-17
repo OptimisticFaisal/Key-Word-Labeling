@@ -1,0 +1,4 @@
+osed_VBN concept_NN of_IN consistent_JJ bipartite_JJ graph_NN co-partitioning_NN ._.
+2.1_CD Homogeneous_JJ Spectral_JJ Clustering_NN Spectral_JJ clustering_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 22_CD -RRB-_-RRB- is_VBZ a_DT category_NN of_IN clustering_NN algorithms_NNS based_VBN on_IN spectral_JJ graph_NN partitioning_VBG =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT was_VBD proposed_VBN and_CC well_RB studied_VBN in_IN the_DT literature_NN ._.
+To_TO explain_VB how_WRB this_DT method_NN works_VBZ ,_, we_PRP need_VBP to_TO enumerate_VB some_DT basic_JJ knowledge_NN in_IN graph_NN theory_NN first_RB ._.
+A_DT graph_NN G_NN =_JJ -LRB-_-LRB- V_NN ,_, E_NN -RRB-_-RRB- is_VBZ composed_VBN by_IN a_DT set_NN of_IN ver_NN

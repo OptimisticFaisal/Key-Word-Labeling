@@ -1,0 +1,4 @@
+ds_JJ of_IN varying_VBG sizes_NNS and_CC so_RB prove_VB relevant_JJ to_TO DTW_NNP ._.
+Given_VBN a_DT query_JJ sequence_NN of_IN n_NN symbols_NNS the_DT suffix_NN tree_NN can_MD be_VB traversed_VBN from_IN the_DT root_NN node_NN in_IN O_NN -LRB-_-LRB- n_NN -RRB-_-RRB- time_NN to_TO find_VB exact_JJ matches_NNS to_TO the_DT query_NN ._.
+Huang_NN and_CC Yu_NN =_JJ -_: =[_NN 80_CD -RRB-_-RRB- -_: =_SYM -_: used_VBD a_DT suffix_NN tree_NN to_TO index_NN their_PRP$ symbolic_JJ representation_NN for_IN a_DT time_NN series_NN ._.
+But_CC in_IN contrast_NN to_TO Park_NNP their_PRP$ Interactive_JJ Matching_NN of_IN Patterns_NN with_IN Advanced_NNP Constraints_NNP in_IN Time_NNP Series_NNP databases_NNS -LRB-_-LRB- IMPACTS_NNS

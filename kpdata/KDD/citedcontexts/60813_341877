@@ -1,0 +1,4 @@
+results_NNS with_IN limited_JJ labeled_JJ examples_NNS ._.
+1_CD Introduction_NN The_DT topic_NN of_IN semi-supervised_JJ clustering_NN has_VBZ attracted_VBN considerable_JJ interests_NNS among_IN researchers_NNS in_IN the_DT data_NNS mining_NN and_CC machine_NN learning_NN community_NN =_JJ -_: =[_NN 2_CD ,_, 3_CD ,_, 4_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT goal_NN of_IN semisupervised_JJ clustering_NN is_VBZ to_TO obtain_VB a_DT better_JJR partitioning_NN of_IN the_DT data_NNS by_IN incorporating_VBG background_NN knowledge_NN ._.
+Although_IN current_JJ semi-supervised_JJ algorithms_NNS have_VBP shown_VBN significant_JJ improve_VB

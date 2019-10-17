@@ -1,0 +1,5 @@
+h_NN among_IN the_DT space_NN of_IN possible_JJ subsets_NNS ._.
+Since_IN we_PRP have_VBP over_IN 800_CD available_JJ channels_NNS ,_, an_DT exhaustive_JJ search_NN is_VBZ infeasible_JJ ._.
+Also_RB ,_, a_DT larger_JJR number_NN of_IN evaluated_VBN candidates_NNS increases_VBZ the_DT chance_NN of_IN overfitting_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD must_MD decide_VB how_WRB to_TO trade-off_NN the_DT complexity_NN of_IN the_DT search_NN space_NN depending_VBG on_IN the_DT chosen_JJ search_NN algorithm_NN ,_, the_DT available_JJ computational_JJ resources_NNS ,_, and_CC the_DT amount_NN of_IN data_NNS available_JJ ._.
+By_IN the_DT terminol_NN

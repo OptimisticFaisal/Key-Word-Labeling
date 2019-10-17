@@ -1,0 +1,5 @@
+either_CC sampling_NN plus_CC a_DT classification_NN of_IN objects_NNS to_TO the_DT closest_JJS sample_NN point_NN ,_, or_CC some_DT other_JJ technique_NN such_JJ as_IN BIRCH_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+The_DT data_NNS summarizations_NNS are_VBP sometimes_RB also_RB called_VBN ``_`` micro-clusters_NNS ''_'' -LRB-_-LRB- e.g._FW in_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+2_LS -RRB-_-RRB- Apply_RB -LRB-_-LRB- an_DT adapted_VBN version_NN of_IN -RRB-_-RRB- the_DT clustering_NN algorithm_NN to_TO the_DT data_NNS summaries_NNS only_RB ._.
+3_LS -RRB-_-RRB- Extrapolate_NNP from_IN the_DT clustering_NN result_NN for_IN the_DT data_NNS summaries_NNS a_DT clustering_NN result_NN for_IN the_DT whole_JJ data_NN set_NN ._.
+Di_NNP

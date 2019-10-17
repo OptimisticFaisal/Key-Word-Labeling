@@ -1,0 +1,3 @@
+l_NN attributes_NNS ._.
+Furthermore_RB ,_, Domingos_NNP and_CC Richardson_NNP think_VBP that_IN an_DT individual_NN 's_POS decision_NN to_TO buy_VB a_DT product_NN is_VBZ influenced_VBN by_IN his_PRP$ friends_NNS ,_, and_CC they_PRP propose_VBP to_TO model_VB social_JJ networks_NNS as_IN Markov_NNP random_JJ fields_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Because_IN the_DT social_JJ networks_NNS that_IN they_PRP studied_VBD are_VBP built_VBN from_IN a_DT collaborative_JJ filtering_VBG database_NN ,_, each_DT person_NN is_VBZ always_RB connected_VBN to_TO a_DT fixed_JJ number_NN of_IN people_NNS who_WP are_VBP most_RBS similar_JJ to_TO him_PRP ,_, which_WDT in_IN tur_NN

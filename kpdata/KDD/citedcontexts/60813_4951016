@@ -1,0 +1,6 @@
+=_JJ p_NN -LRB-_-LRB- Yv_FW |_FW Yw_NN ,_, w_FW ∽_FW v_LS -RRB-_-RRB- ,_, where_WRB w_FW ∽_FW v_LS means_VBZ that_IN w_NN and_CC v_LS are_VBP neighbors_NNS in_IN G._NNP Many_JJ special_JJ cases_NNS of_IN MRF_NN can_MD be_VB developed_VBN ,_, for_IN example_NN ,_, Conditional_JJ Random_NNP Fields_NNP -LRB-_-LRB- CRFs_NNS -RRB-_-RRB- -LRB-_-LRB- 17_CD -RRB-_-RRB- and_CC Hidden_NNP Markov_NNP Random_NNP Fields_NNP -LRB-_-LRB- HMRF_NN -RRB-_-RRB- =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3.2_CD ._.
+A_DT unified_JJ approach_NN to_TO profiling_VBG 3.2.1_CD ._.
+Process_VB ._.
+The_DT approach_NN consists_VBZ of_IN two_CD steps_NNS :_: preprocessing_VBG and_CC tagging_VBG ._.
+In_IN preprocessing_NN ,_, -LRB-_-LRB- A_NN -RRB-_-RRB- we_PRP separate_VBP the_DT text_NN into_IN tokens_NNS and_CC -LRB-_-LRB- B_NN -RRB-_-RRB- we_PRP assign_VBP possible_JJ

@@ -1,0 +1,3 @@
+x_NN tree_NN T_NN using_VBG Ukkonen_NNP 's_POS algorithm_NN takes_VBZ O_NN -LRB-_-LRB- n_NN -RRB-_-RRB- time_NN ,_, according_VBG to_TO Theorem_NNP 5_CD ._.
+Then_RB ,_, each_DT of_IN the_DT three_CD preparation_NN sub-routines_NNS perform_VBP a_DT 2_CD With_IN some_DT little_JJ trick_NN as_IN in_IN the_DT matching_JJ statistics_NNS algorithm_NN =_JJ -_: =[_NN 9_CD ,_, 62_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT proposed_VBN feature_NN extraction_NN algorithm_NN could_MD also_RB handle_VB the_DT unseen_JJ test_NN documents_NNS ,_, though_IN we_PRP omit_VBP the_DT details_NNS here_RB due_JJ to_TO the_DT space_NN limit_NN ._.
+3_CD http:\/\/www.dcs.bbk.ac.uk\/∼dell\/_NN Input_NN :_: a_DT training_NN cor_NN

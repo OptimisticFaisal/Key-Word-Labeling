@@ -1,0 +1,3 @@
+licable_JJ Markov_NNP Chain_NNP Monte_NNP Carlo_NNP technique_NN ,_, could_MD be_VB applied_VBN to_TO estimate_VB parameters_NNS of_IN LDA_NNP ._.
+By_IN extending_VBG LDA_NNP ,_, several_JJ other_JJ algorithms_NNS have_VBP been_VBN proposed_VBN to_TO model_NN publication_NN -LRB-_-LRB- the_DT Author-Topic_JJ model_NN -RRB-_-RRB- =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: and_CC email_JJ data_NNS -LRB-_-LRB- the_DT AuthorRecipient-Topic_JJ model_NN -RRB-_-RRB- -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+Not_RB limited_VBN to_TO text_NN analysis_NN ,_, LDA_NNP has_VBZ also_RB been_VBN used_VBN to_TO annotate_VB images_NNS ,_, where_WRB image_NN segmentations_NNS -LRB-_-LRB- blobs_NNS -RRB-_-RRB- can_MD be_VB considered_VBN as_IN words_NNS in_IN an_DT imag_NN

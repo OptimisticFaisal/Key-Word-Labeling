@@ -1,0 +1,5 @@
+e_LS block_NN ._.
+First_RB ,_, the_DT algorithms_NNS partition_NN the_DT Web-page_NN into_IN blocks_NNS based_VBN on_IN heuristics_NNS ._.
+These_DT heuristics_NNS are_VBP based_VBN on_IN our_PRP$ previous_JJ study_NN of_IN HTML_NNP editing_NN style_NN over_IN a_DT few_JJ thousand_CD Web-pages_NNS ._.
+Lin_NNP and_CC Ho_NNP =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP proposed_VBN an_DT entropy-based_JJ algorithm_NN that_WDT partitions_VBZ a_DT Web-page_NN into_IN blocks_NNS on_IN the_DT basis_NN of_IN HTML_NNP tables_NNS ._.
+In_IN contrast_NN ,_, we_PRP non-only_RB consider_VBP HTML_NNP tables_NNS ,_, but_CC also_RB other_JJ tags_NNS ,_, combined_VBN with_IN our_PRP$ heur_NN

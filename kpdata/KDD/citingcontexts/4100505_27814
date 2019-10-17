@@ -1,0 +1,4 @@
+·_NNP ·_NNP ·_NNP ·_NNP ·_NNP ·_NNP ·_NNP 0_CD 0_CD −_CD 1_CD 1_CD We_PRP will_MD later_RB use_VB experimental_JJ studies_NNS to_TO demonstrate_VB the_DT effect_NN of_IN tuning_NN γ2_NN on_IN the_DT smoothness_NN of_IN the_DT results_NNS ._.
+Of_IN course_NN ,_, we_PRP can_MD also_RB choose_VB more_JJR sophisticate_NN spline_NN functions_VBZ =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: instead_RB of_IN the_DT above_JJ R2_NN ._.
+As_IN can_MD be_VB seen_VBN ,_, in_IN general_JJ the_DT matrices_NNS R1_NN and_CC R2_NN -LRB-_-LRB- or_CC any_DT other_JJ regularization_NN matrices_NNS -RRB-_-RRB- are_VBP not_RB necessarily_RB non-negative_JJ ._.
+In_IN general_JJ ,_, regularization_NN would_MD be_VB useful_JJ to_TO incor_VB

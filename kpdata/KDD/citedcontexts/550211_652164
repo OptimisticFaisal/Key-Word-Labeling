@@ -1,0 +1,6 @@
+emental_JJ support_NN vector_NN machine_NN algorithm_NN for_IN continuous_JJ learning_NN ._.
+There_EX has_VBZ been_VBN work_NN related_VBN to_TO boosting_VBG ensembles_NNS on_IN data_NNS streams_NNS ._.
+Fern_NNP et_FW al._FW -LRB-_-LRB- 6_CD -RRB-_-RRB- proposed_VBD online_JJ boosting_VBG ensembles_NNS ,_, and_CC Oza_NNP et_FW al._FW =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: studied_VBN both_CC online_JJ bagging_NN and_CC online_NN boosting_VBG ._.
+Frank_NNP et_FW al._FW -LRB-_-LRB- 7_CD -RRB-_-RRB- used_VBD a_DT boosting_VBG scheme_NN similar_JJ to_TO our_PRP$ boosting_VBG scheme_NN ._.
+But_CC none_NN of_IN these_DT work_NN took_VBD concept_NN drift_NN into_IN consideration_NN ._.
+Previous_JJ ensembl_NN

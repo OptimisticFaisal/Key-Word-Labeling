@@ -1,0 +1,4 @@
+NN_NNP requires_VBZ only_RB a_DT single_JJ pass_NN over_IN data_NNS ._.
+For_IN each_DT instance_NN in_IN the_DT data_NNS set_NN ,_, it_PRP needs_VBZ to_TO update_VB a_DT subset_NN of_IN the_DT K_NN 2_CD \/_: 2_CD counts_NNS cij_NN -LRB-_-LRB- those_DT that_WDT are_VBP non-zero_JJ -RRB-_-RRB- ._.
+Therefore_RB its_PRP$ time_NN complexity_NN is_VBZ :_: O_NN -LRB-_-LRB- NK_NN 2_CD -RRB-_-RRB- =_JJ -_: =-LRB-_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- in_IN fact_NN often_RB better_RBR ,_, depending_VBG on_IN the_DT sparsity_NN of_IN data_NNS -RRB-_-RRB- ._.
+All_DT counts_NNS cij_VBP are_VBP stored_VBN in_IN memory_NN ,_, so_IN the_DT memory_NN requirements_NNS scale_VBP as_IN :_: O_NN -LRB-_-LRB- K_NN 2_CD -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- i_LS 5_CD -LRB-_-LRB- in_IN fact_NN often_RB better_RBR ,_, depending_VBG on_IN the_DT sparsity_NN o_NN

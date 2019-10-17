@@ -1,0 +1,6 @@
+he_PRP outlier_VBD detection_NN methods_NNS used_VBN in_IN this_DT paper_NN for_IN comparison_NN is_VBZ based_VBN on_IN availability_NN and_CC our_PRP$ intent_NN to_TO sample_NN from_IN distinctive_JJ approaches_NNS ._.
+The_DT three_CD chosen_JJ methods_NNS are_VBP :_: the_DT Donoho-Stahel_NNP estimator_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- ;_: -_: =_SYM -_: Hadi94_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ;_: and_CC MML_NN clustering_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+s_NN -LRB-_-LRB- θ_NN -RRB-_-RRB- S3_NN Figure_NN 1_CD ._.
+A_DT representation_NN of_IN the_DT activation_NN function_NN for_IN units_NNS in_IN the_DT middle_JJ hidden_JJ layer_NN of_IN the_DT RNN_NNP ._.
+N_NN is_VBZ 4_CD and_CC a3_NN is_VBZ 100_CD -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Of_IN course_NN ,_, there_EX are_VBP many_JJ

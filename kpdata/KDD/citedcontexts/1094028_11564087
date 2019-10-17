@@ -1,0 +1,5 @@
+th_DT n._NNP This_NNP gives_VBZ every_DT bit-vector_JJ oflength_NN n_NN a_DT probability_NN in_IN the_DT data_NNS ._.
+The_DT entropy_NN of_IN this_DT distribution_NN can_MD be_VB used_VBN as_IN a_DT measure_NN of_IN diversity_NN ._.
+Such_JJ sets_NNS of_IN diverse_JJ sets_NNS can_MD be_VB searched_VBN exhaustively_RB =_JJ -_: =[_NN 36_CD ,_, 37,54_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN practice_NN ,_, these_DT approaches_NNS do_VBP not_RB scale_VB well_RB ,_, and_CC more_RBR greedy_JJ search_NN strategies_NNS are_VBP needed_VBN ._.
+While_IN the_DT focus_NN often_RB is_VBZ somewhat_RB different_JJ ,_, the_DT general_JJ technique_NN for_IN selecting_VBG a_DT subset_NN of_IN patterns_NNS b_NN

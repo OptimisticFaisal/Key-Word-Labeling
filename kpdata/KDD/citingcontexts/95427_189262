@@ -1,0 +1,3 @@
+ULTS_NN 3.1_CD Accuracy_NN The_DT following_VBG real-world_JJ data_NNS sets_NNS were_VBD used_VBN to_TO evaluate_VB the_DT effectiveness_NN of_IN the_DT ensemble_NN construction_NN method_NN ._.
+Adult_NN :_: Data_NN from_IN the_DT U.S._NNP Census_NNP Bureau_NNP was_VBD originally_RB used_VBN by_IN Kohavi_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: to_TO compare_VB different_JJ classification_NN methods_NNS ._.
+The_DT classification_NN problem_NN is_VBZ to_TO predict_VB whether_IN a_DT person_NN makes_VBZ more_JJR or_CC less_JJR than_IN $_$ 50,000_CD per_IN year_NN based_VBN on_IN 14_CD demographic_JJ features_NNS such_JJ as_IN age_NN ,_, education_NN

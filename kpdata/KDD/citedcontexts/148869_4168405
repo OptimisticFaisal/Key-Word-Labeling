@@ -1,0 +1,4 @@
+sive_JJ amount_NN of_IN time_NN ._.
+Unfortunately_RB ,_, the_DT original_JJ authors_NNS of_IN Dualminer_NNP did_VBD not_RB show_VB any_DT single_JJ experiment_NN to_TO depict_VB the_DT execution_NN time_NN of_IN their_PRP$ algorithm_NN but_CC only_RB the_DT reduction_NN in_IN predicate_NN executions_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+What_WP distinguishes_VBZ our_PRP$ approach_NN from_IN the_DT aforementioned_JJ algorithms_NNS is_VBZ the_DT strategy_NN for_IN traversing_VBG the_DT lattice_NN of_IN candidate_NN patterns_NNS ._.
+Candidate_NN checking_NN is_VBZ significantly_RB reduced_VBN by_IN using_VBG pattern_NN inte_NN

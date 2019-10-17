@@ -1,0 +1,4 @@
+space_NN ;_: and_CC reduces_VBZ database_NN scanning_NN by_IN using_VBG a_DT look_NN ahead_RB pruning_NN strategy_NN ._.
+DepthProject_NNP demonstrated_VBD an_DT order_NN of_IN magnitude_NN improvement_NN over_IN previous_JJ algorithms_NNS for_IN mining_NN maximal_JJ frequent_JJ itemsets_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Both_DT DepthProject_NNP and_CC Mafia_NNP -LRB-_-LRB- 5_CD -RRB-_-RRB- mine_VBP a_DT superset_NN of_IN the_DT MFI_NNP ,_, and_CC require_VB a_DT post-pruning_JJ to_TO eliminate_VB nonmaximal_JJ patterns_NNS ._.
+Recently_RB a_DT new_JJ two-way-hybrid_JJ algorithm_NN for_IN mining_NN maximal_JJ frequent_JJ itemsets_NNS

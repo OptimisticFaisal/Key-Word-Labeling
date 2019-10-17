@@ -1,0 +1,5 @@
+withhierarchical_JJ community_NN Figure_NNP 4_CD :_: Score_NN achieved_VBN by_IN NETINF_NN in_IN comparison_NN with_IN the_DT onlineupperboundfromTheorem4_NN ._.
+Inpractice_FW NETINFfinds_FW networks_NNS thatare_VBP at_IN 97_CD %_NN of_IN NP-hardtocomputeoptimal_NN ._.
+structure_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =--LRB-_NN -LRB-_-LRB- 0.962_CD ,_, 0.107_CD ;_: 0.107_CD ,_, 0.962_CD -RRB-_-RRB- -RRB-_-RRB- andacore-peripherynetwork_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- -LRB-_-LRB- -LRB-_-LRB- 0.962_CD ,_, 0.535_CD ;_: 0.535_CD ,_, 0.107_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Notice_NNP that_IN Forest_NNP Fire_NNP generates_VBZ a_DT scale_NN free_JJ network_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Wethensimulatecascadeson_NN G_NN ∗_FW usingthegenerativem_FW

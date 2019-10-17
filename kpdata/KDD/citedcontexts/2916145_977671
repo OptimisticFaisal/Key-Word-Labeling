@@ -1,0 +1,4 @@
+l_NN and_CC Moore_NNP have_VBP developed_VBN a_DT series_NN of_IN algorithms_NNS to_TO maximize_VB discrepancy_NN for_IN measures_NNS such_JJ as_IN the_DT Kulldorff_NNP spatial_JJ scan_VBP statistic_NN ._.
+Their_PRP$ approach_NN works_VBZ for_IN axis_NN parallel_JJ squares_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- and_CC rectangles_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Their_PRP$ algorithms_NNS are_VBP conservative_JJ ,_, in_IN that_IN they_PRP always_RB find_VBP the_DT region_NN of_IN maximum_NN discrepancy_NN ._.
+The_DT worstcase_NN running_VBG time_NN of_IN their_PRP$ algorithms_NNS is_VBZ O_NN -LRB-_-LRB- n_NN 4_CD -RRB-_-RRB- for_IN rectangles_NNS and_CC O_NN -LRB-_-LRB- n_NN 2_CD -RRB-_-RRB- for_IN fixed-size_JJ squ_NN

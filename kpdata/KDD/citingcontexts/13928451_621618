@@ -1,0 +1,7 @@
+-RRB-_-RRB- -RCB-_-RRB- ,_, where_WRB X_NN is_VBZ a_DT p-FP_NN ._.
+As_IN we_PRP will_MD discuss_VB ,_, the_DT pmfs_NNS obtained_VBN with_IN p-FPs_NN are_VBP essential_JJ to_TO generating_VBG probabilistic_JJ association_NN rules_NNS ._.
+There_EX are_VBP methods_NNS to_TO approximating_VBG and_CC compressing_VBG pmfs_NNS -LRB-_-LRB- e.g._FW ,_, see_VBP =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Here_RB we_PRP assume_VBP that_IN the_DT pmf_NN is_VBZ exact_JJ ,_, but_CC our_PRP$ solutions_NNS can_MD be_VB extended_VBN to_TO support_VB these_DT schemes_NNS ._.
+Next_RB ,_, we_PRP present_VBP a_DT useful_JJ lemma_NN ._.
+Lemma_NN 1_CD -LRB-_-LRB- Anti-monotonicity_NN -RRB-_-RRB- ._.
+If_IN pattern_NN X_NN is_VBZ a_DT pFP_NN ,_, then_RB any_DT patte_NN

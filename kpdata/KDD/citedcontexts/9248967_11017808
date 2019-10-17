@@ -1,0 +1,4 @@
+xample_RB ,_, -LRB-_-LRB- 23_CD ,_, 5_CD ,_, 25_CD ,_, 26_CD -RRB-_-RRB- ._.
+Finally_RB ,_, note_VBP that_IN employing_VBG the_DT leverage_NN scores_NNS in_IN a_DT randomized_VBN manner_NN similar_JJ to_TO Algorithm_NN 1_CD has_VBZ already_RB been_VBN proven_VBN to_TO be_VB accurate_JJ for_IN least-squares_JJ regression_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC PCA_NN =_JJ -_: =[_NN 7_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3.1_CD Connections_NNP with_IN the_DT SVD_NN A_NN well-known_JJ property_NN connects_VBZ the_DT SVD_NN of_IN a_DT matrix_NN and_CC k-means_NN clustering_NN ._.
+Recall_VB Definition_NN 1_CD ,_, and_CC notice_NN that_IN XoptX_NN T_NN optA_NN is_VBZ a_DT matrix_NN of_IN rank_NN at_IN most_JJS k._NN From_IN the_DT SVD_NN

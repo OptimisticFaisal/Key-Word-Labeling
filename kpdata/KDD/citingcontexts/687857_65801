@@ -1,0 +1,4 @@
+ity_NN than_IN the_DT grid_NN in_IN the_DT -LRB-_-LRB- n_NN \_NN Gamma_NN 1_CD -RRB-_-RRB- -_: dimensional_JJ space_NN ._.
+This_DT can_MD be_VB easily_RB observed_VBN in_IN Figure_NNP 1_CD ._.
+The_DT projection_NN of_IN a_DT grid_NN in_IN Figure_NNP 1_CD -LRB-_-LRB- 1_LS -RRB-_-RRB- overlaps_VBZ with_IN 9_CD grids_NNS in_IN Figure_NNP 1_CD -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+The_DT levelwise_JJ pruning_NN in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: can_MD still_RB be_VB adopted_VBN with_IN one_CD modification_NN :_: given_VBN an_DT ndimensional_JJ grid_NN g_NN ,_, if_IN the_DT support_NN of_IN the_DT union_NN of_IN the_DT -LRB-_-LRB- n_NN \_NN Gamma_NN 1_CD -RRB-_-RRB- -_: dimensional_JJ grids_NNS that_WDT can_MD cover_VB the_DT projection_NN of_IN g_NN is_VBZ below_IN d_FW \_FW Theta_NNP ff_NN ,_, t_NN

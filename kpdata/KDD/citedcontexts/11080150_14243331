@@ -1,0 +1,4 @@
+d_NN for_IN monolingual_JJ LDA_NN ._.
+For_IN example_NN ,_, Smola_NNP and_CC Narayanamurthy_NNP -LRB-_-LRB- 21_CD -RRB-_-RRB- interleave_VBP the_DT topic_NN and_CC document_NN counts_NNS during_IN the_DT computation_NN of_IN the_DT conditional_JJ distribution_NN using_VBG Yao_NNP et_FW al._FW 's_POS ``_`` binning_JJ ''_'' approach_NN =_JJ -_: =[_NN 39_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+While_IN this_DT improves_VBZ performance_NN ,_, changing_VBG any_DT of_IN the_DT modeling_NN assumptions_NNS would_MD potentially_RB break_VB this_DT optimization_NN ._.
+In_IN contrast_NN ,_, Mr._NNP LDA_NNP 's_POS philosophy_NN allows_VBZ for_IN easier_JJR development_NN of_IN extensions_NNS of_IN

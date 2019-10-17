@@ -1,0 +1,4 @@
+SOAP_NN messages_NNS in_IN the_DT context_NN of_IN Web_NN services_NNS -LRB-_-LRB- WSs_NNS -RRB-_-RRB- can_MD be_VB classified_VBN into_IN three_CD groups_NNS ._.
+The_DT first_JJ approach_NN injects_VBZ some_DT modules_NNS into_IN the_DT WS_NNP engine_NN in_IN order_NN to_TO extract_VB the_DT expected_VBN information_NN ,_, e.g._FW ,_, =_JJ -_: =[_NN 23_CD ,_, 15_CD ,_, 20_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT second_JJ approach_NN intends_VBZ to_TO implement_VB a_DT software_NN which_WDT is_VBZ functions_VBZ as_IN a_DT SOAP_NN ``_`` proxy_NN ''_'' and_CC which_WDT is_VBZ independent_JJ and_CC external_JJ to_TO the_DT WS_NNP engine_NN ,_, e.g._FW ,_, SoapUI_NN 1_CD or_CC Membrane_NN SOAP\/HTTP_NN Monitor_NNP 2_CD ._.
+All_DT

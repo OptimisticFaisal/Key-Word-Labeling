@@ -1,0 +1,5 @@
+the_DT image_NN ._.
+However_RB ,_, captions_NNS in_IN biological_JJ figures_NNS are_VBP free-form_JJ text_NN and_CC therefore_RB this_DT assumption_NN is_VBZ violated_VBN ._.
+To_TO solve_VB this_DT problem_NN ,_, we_PRP use_VBP factoring_VBG which_WDT is_VBZ similar_JJ to_TO background_NN subtraction_NN in_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Specifically_RB ,_, we_PRP introduce_VBP a_DT background_NN topic_NN ,_, β0_NN -LRB-_-LRB- which_WDT is_VBZ sampled_VBN from_IN Dir_NN -LRB-_-LRB- α3_NN -RRB-_-RRB- once_RB for_IN the_DT whole_JJ corpus_NN -RRB-_-RRB- that_WDT is_VBZ used_VBN to_TO generate_VB the_DT corpus-level_JJ stopwords_NNS ._.
+This_DT process_NN is_VBZ equivalent_JJ to_TO factori_VB

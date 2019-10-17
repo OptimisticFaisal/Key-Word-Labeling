@@ -1,0 +1,5 @@
+s_VBZ the_DT average_JJ transaction_NN size_NN gets_VBZ longer_JJR -LRB-_-LRB- for_IN dense_JJ datasets_NNS in_IN particular_JJ -RRB-_-RRB- ._.
+•_CD maximal_JJ frequent_JJ itemset_NN -LRB-_-LRB- AAP00_NN ,_, BCF_NN +_CC 03_CD ,_, SB03_NN -RRB-_-RRB- :_: ⋆_CD no_DT proper_JJ superpattern_NN is_VBZ frequent_JJ ._.
+•_NN X_NN is_VBZ frequent_JJ closed_JJ itemset_NN =_JJ -_: =_JJ -LRB-_-LRB- WHP03_NN -RRB-_-RRB- -_: =_SYM -_: if_IN ⋆_NNP X_NNP is_VBZ frequent_JJ and_CC no_DT proper_JJ superset_NN Y_NN ⊃_NN X_NN with_IN σ_NN -LRB-_-LRB- X_NN -RRB-_-RRB- =_JJ σ_NN -LRB-_-LRB- Y_NN -RRB-_-RRB- ._.
+DATA_NNP MINING_NNP 36sExample_NN 2_CD ._.
+Consider_VB the_DT following_JJ database_NN :_: DATA_NNP MINING_NNP 37sDATA_NNP MINING_NNP 38sMaximal\/closed_VBD frequent_JJ itemset_FW •_FW all_DT frequ_NN

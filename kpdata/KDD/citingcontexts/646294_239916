@@ -1,0 +1,4 @@
+pic_NN in_IN data_NN mining_NN ._.
+For_IN example_NN ,_, mining_NN frequent_JJ substructures_NNS and_CC subgraph_JJ patterns_NNS from_IN many_JJ graphs_NNS -LRB-_-LRB- i.e._FW ,_, a_DT graph_NN database_NN -RRB-_-RRB- has_VBZ been_VBN studied_VBN intensively_RB -LRB-_-LRB- 4_CD ,_, 27_CD ,_, 16_CD ,_, 17_CD ,_, 20_CD ,_, 32_CD ,_, 31_CD ,_, 28_CD -RRB-_-RRB- ._.
+Yan_NNP et_FW al._FW =_SYM -_: =[_NN 33_CD -RRB-_-RRB- -_: =_SYM -_: used_VBN frequent_JJ graph_NN patterns_NNS to_TO index_NN graphs_NNS ._.
+Frequent_JJ graph_NN pattern_NN mining_NN in_IN those_DT previous_JJ studies_NNS focuses_VBZ on_IN finding_VBG the_DT common_JJ embedded_JJ subgraphs_NNS that_WDT appear_VBP in_IN many_JJ graphs_NNS ,_, which_WDT is_VBZ very_RB differ_VB

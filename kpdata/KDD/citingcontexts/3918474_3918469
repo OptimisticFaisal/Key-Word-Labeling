@@ -1,0 +1,3 @@
+compared_VBN our_PRP$ cascade_NN LP_NN strategy_NN to_TO a_DT single_JJ stage_NN 1-norm_JJ SVM_NN model_NN constructed_VBN using_VBG all_DT features_NNS ,_, and_CC the_DT commonly-used_JJ cascade_NN AdaBoost_NNP ._.
+We_PRP also_RB compared_VBD our_PRP$ approach_NN to_TO a_DT greedy_JJ search_NN algorithm_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: based_VBN on_IN linear_JJ discriminant_JJ analysis_NN -LRB-_-LRB- LDA_NN -RRB-_-RRB- in_IN the_DT most_RBS recent_JJ lung_NN nodule_NN detection_NN system_NN ._.
+6.1_CD Data_NN and_CC experimental_JJ settings_NNS A_DT prototype_NN version_NN of_IN our_PRP$ system_NN -LRB-_-LRB- not_RB commercially_RB available_JJ -RRB-_-RRB- was_VBD appl_NN

@@ -1,0 +1,3 @@
+sing_VB techniques_NNS to_TO overcome_VB computational_JJ bottlenecks_NNS in_IN mining_NN large-scale_JJ data_NNS ._.
+Examples_NNS include_VBP -LRB-_-LRB- 28_CD -RRB-_-RRB- ,_, who_WP proposed_VBD a_DT nonparametric_JJ data_NN reduction_NN scheme_NN based_VBN on_IN multiscale_JJ density_NN estimation_NN ,_, and_CC =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, who_WP proposed_VBD a_DT fast_JJ algorithm_NN to_TO extract_VB small_JJ ``_`` core-sets_NNS ''_'' from_IN the_DT input_NN data_NNS ,_, based_VBN on_IN which_WDT -LRB-_-LRB- 1_CD +_CC ǫ_NN -RRB-_-RRB- -_: approximation_NN algorithms_NNS for_IN the_DT k-center_NN clustering_NN have_VBP been_VBN developed_VBN ._.
+Our_PRP$ work_NN is_VBZ also_RB rela_NN

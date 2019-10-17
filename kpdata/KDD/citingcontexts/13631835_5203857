@@ -1,0 +1,4 @@
+st._IN That_DT is_VBZ ,_, they_PRP assume_VBP that_IN a_DT fixed_JJ set_NN of_IN training_NN examples_NNS is_VBZ given_VBN ,_, and_CC the_DT leaner_JJR can_MD not_RB acquire_VB additional_JJ information_NN during_IN learning_NN ._.
+Some_DT previous_JJ works_NNS study_NN data_NNS acquisition_NN cost_NN ,_, such_JJ as_IN =_JJ -_: =[_NN 10_CD ,_, 9_CD ,_, 23_CD ,_, 13_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Among_IN them_PRP ,_, some_DT -LRB-_-LRB- 10_CD ,_, 9_CD -RRB-_-RRB- study_NN how_WRB to_TO acquire_VB attribute_NN values_NNS to_TO build_VB an_DT optimal_JJ classifier_NN with_IN a_DT certain_JJ budget_NN ._.
+The_DT others_NNS -LRB-_-LRB- 23_CD ,_, 13_CD ,_, 14_CD -RRB-_-RRB- study_NN how_WRB to_TO achieve_VB a_DT desired_VBN accuracy_NN of_IN a_DT classifier_NN b_NN

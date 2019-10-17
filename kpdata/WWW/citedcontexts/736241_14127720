@@ -1,0 +1,4 @@
+ply_RB techniques_NNS dedicated_VBN to_TO pattern_NN tree_NN in_IN our_PRP$ context_NN ._.
+The_DT main_JJ difference_NN is_VBZ the_DT assumption_NN of_IN a_DT high_JJ number_NN of_IN subscriptions_NNS what_WP implies_VBZ to_TO present_VB an_DT efficient_JJ matching_NN ._.
+For_IN instance_NN in_IN G-ToPSS_NN =_JJ -_: =[_NN 53_CD ,_, 52_CD -RRB-_-RRB- -_: =_JJ -_: ,_, each_DT document_NN is_VBZ a_DT set_NN of_IN triples_NNS -LRB-_-LRB- subject_NN ,_, property_NN ,_, object_NN -RRB-_-RRB- that_WDT could_MD be_VB represented_VBN as_IN a_DT directed_JJ labeled_JJ graph_NN using_VBG RDF_NNP semantics_NNS ._.
+Similarly_RB subscriptions_NNS are_VBP represented_VBN as_IN a_DT pattern_NN of_IN direct_JJ

@@ -1,0 +1,4 @@
+colored_JJ pixel_NN and_CC to_TO represent_VB the_DT values_NNS belonging_VBG to_TO different_JJ attributes_NNS in_IN separate_JJ subwindows_NNS ._.
+The_DT proposed_VBN techniques_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- differ_VBP in_IN the_DT arrangement_NN of_IN pixels_NNS within_IN a_DT subwindow_NN ._.
+Circle_NNP Segments_NNP =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT recent_JJ pixel-oriented_JJ technique_NN which_WDT was_VBD introduced_VBN for_IN a_DT more_RBR intuitive_JJ visualization_NN of_IN high-dimensional_JJ data_NNS ._.
+The_DT Circle_NNP Segments_NNP technique_NN maps_VBZ d-dimensional_JJ objects_NNS to_TO a_DT circle_NN which_WDT is_VBZ pa_NN

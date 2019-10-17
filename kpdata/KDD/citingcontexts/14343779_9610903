@@ -1,0 +1,5 @@
+odel_NN size_NN manageable_JJ ._.
+The_DT second_JJ strategy_NN is_VBZ to_TO encourage_VB sparsity_NN in_IN the_DT learned_VBN model_NN ,_, so_IN that_IN many_JJ weight_NN values_NNS are_VBP indeed_RB exactly_RB 0_CD ._.
+We_PRP follow_VBP a_DT projected-gradient_JJ methodology_NN similar_JJ to_TO that_DT of_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, projecting_VBG w_NN to_TO an_DT L1-ball_NN of_IN a_DT specified_VBN radius_NN after_IN updates_NNS ._.
+This_DT is_VBZ done_VBN every_DT k_NN steps_NNS ,_, after_IN step_NN 10_CD in_IN Algorithm_NNP 1_CD ._.
+The_DT exact_JJ L1-projection_NN of_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- was_VBD somewhat_RB slow_JJ ,_, so_IN we_PRP use_VBP a_DT simpler_JJR and_CC f_SYM

@@ -1,0 +1,3 @@
+tions_NNS -RRB-_-RRB- :_: Data_NN mining_NN ;_: F._NNP 2.2_CD -LRB-_-LRB- Non-numerical_JJ algorithms_NNS and_CC problems_NNS -RRB-_-RRB- :_: Geometrical_JJ algorithms_NNS Keywords_NNP Multi-dimensional_JJ scaling_NN ,_, dimensionality_NN reduction_NN ._.
+1_CD ._.
+INTRODUCTION_NN Multidimensional_JJ scaling_NN -LRB-_-LRB- MDS_NN -RRB-_-RRB- =_JJ -_: =[_NN 26_CD ,_, 11_CD ,_, 3_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT widely_RB used_VBN method_NN for_IN embedding_VBG a_DT general_JJ distance_NN matrix_NN into_IN a_DT low_JJ dimensional_JJ Euclidean_JJ space_NN ,_, used_VBD both_DT as_IN a_DT preprocessing_VBG step_NN for_IN many_JJ problems_NNS ,_, as_RB well_RB as_IN a_DT visualization_NN tool_NN in_IN its_PRP$ own_JJ

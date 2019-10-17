@@ -1,0 +1,3 @@
+from_IN another_DT more_RBR general_JJ rule_NN ,_, then_RB all_PDT these_DT redundant_JJ rules_NNS can_MD be_VB pruned_VBN without_IN losing_VBG any_DT information_NN ._.
+Closed_JJ patterns_NNS -LRB-_-LRB- 61_CD -RRB-_-RRB- ,_, maximum_NN patterns_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, minimum_JJ improvement_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, and_CC chi-square_JJ test_NN =_JJ -_: =[_NN 46_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP all_DT strategies_NNS based_VBN on_IN this_DT idea_NN ._.
+Besides_IN the_DT support_NN and_CC confidence_NN ,_, which_WDT focus_VBP on_IN the_DT distribution_NN of_IN records_NNS in_IN the_DT data_NNS space_NN ,_, there_EX are_VBP usually_RB some_DT measure_NN attributes_NNS such_JJ as_IN price_NN and_CC sa_NN

@@ -1,0 +1,6 @@
+everal_JJ tasks_NNS in_IN biogenetics_NNS domain_NN ._.
+Section_NN 6_CD concludes_VBZ the_DT work_NN ._.
+2_CD ._.
+RELATED_NN WORKS_VBZ Many_JJ early_JJ approaches_NNS to_TO the_DT problem_NN of_IN retrieval_NN on_IN entityrelation_NN data_NNS graph_NN are_VBP keyword-based_JJ database_NN systems_NNS -LRB-_-LRB- 2_LS -RRB-_-RRB- =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =-[_NN 6_CD -RRB-_-RRB- ._.
+They_PRP are_VBP designed_VBN mainly_RB for_IN ad-hoc_JJ queries_NNS ,_, thus_RB not_RB trainable_JJ for_IN specific_JJ IR_NN tasks_NNS ._.
+Another_DT branch_NN of_IN work_NN is_VBZ using_VBG random_JJ walk_NN on_IN graphs_NNS as_IN proximity_NN measures_NNS ,_, notably_RB the_DT PageRank_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- and_CC t_NN

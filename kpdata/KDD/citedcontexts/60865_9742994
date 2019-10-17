@@ -1,0 +1,4 @@
+central_JJ quantity_NN mention_NN are_VBP other_JJ context_NN tokens_NNS of_IN the_DT snippet_NN ._.
+As_IN baseline_NN ,_, we_PRP first_RB consider_VB -LRB-_-LRB- Section_NN 4_CD -RRB-_-RRB- algorithms_NNS that_WDT learn_VBP to_TO rank_VB items_NNS -LRB-_-LRB- documents_NNS or_CC snippets_NNS -RRB-_-RRB- represented_VBN as_IN feature_NN vectors_NNS =_JJ -_: =[_NN 10_CD ,_, 11_CD ,_, 22_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- for_IN a_DT comprehensive_JJ list_NN visit_NN http:\/\/research.microsoft.com\/users\/LETOR\/_NN -RRB-_-RRB- ._.
+An_DT item_NN -LRB-_-LRB- here_RB ,_, a_DT snippet_NN -RRB-_-RRB- is_VBZ usually_RB represented_VBN as_IN a_DT feature_NN vector_NN zi_FW ∈_FW R_NN d_NN in_IN response_NN to_TO a_DT query_NN ._.
+In_IN our_PRP$ case_NN ,_, zi_FW will_MD

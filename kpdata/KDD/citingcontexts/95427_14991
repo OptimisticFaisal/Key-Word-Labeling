@@ -1,0 +1,4 @@
+stimates_NNS are_VBP done_VBN by_IN testing_VBG the_DT new_JJ tree_NN -LRB-_-LRB- and_CC the_DT existing_VBG ensemble_NN -RRB-_-RRB- on_IN the_DT next_JJ chunk_NN of_IN data_NNS points_NNS ._.
+The_DT building_NN blocks_NNS of_IN all_DT of_IN our_PRP$ ensembles_NNS are_VBP decision_NN trees_NNS constructed_VBN using_VBG Quinlan_NNP 's_POS C4_NN .5_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT only_JJ operational_JJ parameter_NN of_IN C4_NN .5_NN examined_VBN here_RB is_VBZ whether_IN or_CC not_RB to_TO prune_VB the_DT trees_NNS ;_: when_WRB they_PRP are_VBP pruned_VBN ,_, the_DT default_NN setting_NN is_VBZ used_VBN ._.
+We_PRP performed_VBD some_DT preliminary_JJ experiments_NNS on_IN this_DT basic_NN

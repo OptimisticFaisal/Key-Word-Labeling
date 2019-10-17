@@ -1,0 +1,5 @@
+this_DT cost_NN metric_NN ._.
+In_IN general_JJ ,_, achieving_VBG optimal_JJ k-anonymization_NN is_VBZ NP_NNP -_: hard_JJ -LRB-_-LRB- 8_CD -RRB-_-RRB- sTo_NN appear_VBP in_IN IEEE_NNP TRANSACTIONS_NNP ON_NNP KNOWLEDGE_NNP AND_NNP DATA_NNP ENGINEERING_NNP 2007_CD 3_CD -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Greedy_JJ methods_NNS were_VBD proposed_VBN in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 13_CD -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Scalable_JJ algorithms_NNS -LRB-_-LRB- with_IN the_DT exponential_JJ complexity_NN the_DT worst-case_JJ -RRB-_-RRB- for_IN finding_VBG the_DT optimal_JJ k-anonymization_NN were_VBD studied_VBN in_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- -LRB-_-LRB- 6_CD -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+Our_PRP$ insight_NN is_VBZ that_IN the_DT optimal_JJ k-anonym_NN

@@ -1,0 +1,4 @@
+between_IN two_CD documents_NNS d_NN -LRB-_-LRB- u_NN ,_, v_LS -RRB-_-RRB- in_IN the_DT result_NN set_NN of_IN the_DT original_JJ query_FW q_FW ,_, we_PRP use_VBP a_DT more_RBR fine-grained_JJ metric_NN ._.
+We_PRP remove_VBP stopwords_NNS ,_, do_VBP stemming_VBG ,_, and_CC compute_VB tf_FW ·_FW idf_FW weights_NNS for_IN each_DT term_NN in_IN each_DT document_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Using_VBG this_DT document_NN representation_NN ,_, we_PRP use_VBP the_DT standard_JJ cosine_NN measure_NN for_IN measuring_VBG document_NN similarity_NN during_IN the_DT agglomerative_JJ clustering_NN process_NN ._.
+Finally_RB ,_, the_DT weight_NN w_NN -LRB-_-LRB- d_NN -RRB-_-RRB- of_IN a_DT document_NN d_FW ∈_FW D_NN -LRB-_-LRB- q_NN -RRB-_-RRB-

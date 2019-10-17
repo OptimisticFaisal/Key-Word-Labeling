@@ -1,0 +1,4 @@
+pproach_NN is_VBZ to_TO generate_VB random_JJ 0_CD --_: 1_CD datasets_NNS with_IN given_VBN row_NN and_CC column_NN sums_NNS ._.
+This_DT problem_NN has_VBZ been_VBN studied_VBN extensively_RB in_IN statistics_NNS -LRB-_-LRB- 4_CD ,_, 5_CD -RRB-_-RRB- ,_, theoretical_JJ computer_NN science_NN -LRB-_-LRB- 1_CD ,_, 7_CD -RRB-_-RRB- and_CC in_IN application_NN areas_NNS =_JJ -_: =[_NN 11_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN we_PRP use_VBP a_DT Markov_NNP chain_NN approach_NN to_TO the_DT problem_NN of_IN sampling_NN ._.
+Starting_VBG from_IN the_DT original_JJ dataset_NN ,_, we_PRP make_VBP a_DT small_JJ random_JJ local_JJ move_NN ,_, which_WDT interchanges_VBZ a_DT pair_NN of_IN 1_CD 's_POS with_IN a_DT pair_NN of_IN 0_CD 's_VBZ an_DT

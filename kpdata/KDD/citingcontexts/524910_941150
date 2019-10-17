@@ -1,0 +1,4 @@
+-LRB-_-LRB- yet_RB normal_JJ -RRB-_-RRB- data_NNS are_VBP also_RB recognized_VBN as_IN outliers\/anomalies_NNS ,_, and_CC hence_RB flagged_VBN as_IN interesting_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP focus_VBP on_IN unsupervised_JJ methods_NNS for_IN outlier_NN detection_NN ._.
+Many_JJ outlier_NN detection_NN algorithms_NNS =_JJ -_: =[_NN 3_CD ,_, 10_CD ,_, 19_CD ,_, 27_CD ,_, 31_CD -RRB-_-RRB- -_: =_JJ -_: attempt_NN to_TO detect_VB outliers_NNS by_IN computing_VBG the_DT distances_NNS in_IN full_JJ dimensional_JJ space_NN ._.
+However_RB ,_, in_IN very_RB high_JJ dimensional_JJ spaces_NNS ,_, the_DT data_NNS is_VBZ very_RB sparse_JJ and_CC the_DT concept_NN of_IN similarity_NN may_MD not_RB be_VB meaningful_JJ

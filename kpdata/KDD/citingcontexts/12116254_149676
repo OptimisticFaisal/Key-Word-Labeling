@@ -1,0 +1,6 @@
+port_NN a_DT reordering_NN ._.
+7.4_CD Evaluation_NN Methodology_NN In_IN order_NN to_TO evaluate_VB our_PRP$ results_NNS ,_, we_PRP need_VBP an_DT unbiased_JJ method_NN for_IN comparing_VBG two_CD ranked_VBD retrieval_NN functions_NNS ._.
+For_IN this_DT purpose_NN we_PRP use_VBP the_DT method_NN detailed_VBN in_IN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT method_NN was_VBD shown_VBN to_TO give_VB an_DT accurate_JJ assessment_NN of_IN retrieval_NN quality_NN under_IN reasonable_JJ assumptions_NNS ._.
+Given_VBN two_CD ranking_JJ functions_NNS ,_, we_PRP present_VBP users_NNS with_IN a_DT combination_NN of_IN the_DT results_NNS from_IN both_DT ._.
+We_PRP

@@ -1,0 +1,5 @@
+ne_NN and_CC is_VBZ likely_JJ to_TO yield_VB a_DT better_JJR solution_NN ._.
+Some_DT clustering_NN methods_NNS -LRB-_-LRB- CLA_NN for_IN short_JJ -RRB-_-RRB- have_VBP been_VBN developed_VBN to_TO group_NN nodes_NNS in_IN an_DT information_NN network_NN into_IN communities_NNS using_VBG both_DT data_NNS and_CC link_NN information_NN =_JJ -_: =[_NN 17_CD ,_, 32_CD ,_, 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Those_DT methods_NNS ,_, however_RB ,_, are_VBP not_RB designed_VBN for_IN outlier_NN detection_NN ._.
+The_DT reason_NN is_VBZ that_IN they_PRP are_VBP proposed_VBN under_IN the_DT assumption_NN that_IN there_EX are_VBP no_DT outliers_NNS ._.
+It_PRP is_VBZ well-known_JJ that_IN outliers_NNS can_MD highly_RB affect_VB

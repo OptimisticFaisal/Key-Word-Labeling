@@ -1,0 +1,5 @@
+tion_NN ._.
+Much_JJ of_IN the_DT statistical_JJ work_NN in_IN building_VBG multi-word_JJ features_NNS focuses_VBZ on_IN cooccurrence_NN -LRB-_-LRB- 3,17_CD -RRB-_-RRB- ._.
+All_DT correlation_NN measures_NNS are_VBP not_RB equally_RB good_JJ at_IN capturing_VBG the_DT dependencies_NNS between_IN different_JJ events_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP is_VBZ because_IN each_DT correlation_NN function_NN biases_NNS toward_IN different_JJ individual_JJ event_NN probabilities_NNS and_CC joint_JJ probabilities_NNS ._.
+Piatetsky-Shapiro_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- has_VBZ proposed_VBN three_CD key_JJ properties_NNS that_IN a_DT good_JJ correlati_NN

@@ -1,0 +1,4 @@
+uate_VB their_PRP$ partitions_NNS intuitively_RB ._.
+Such_JJ intuitive_JJ explanation_NN of_IN the_DT results_NNS is_VBZ common_JJ in_IN the_DT work_NN related_JJ to_TO graph_NN partitioning_VBG since_IN there_EX is_VBZ no_DT labeled_JJ data_NNS available_JJ for_IN evaluation_NN of_IN such_JJ tasks_NNS =_JJ -_: =[_NN 22_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP also_RB evaluate_VBP the_DT results_NNS of_IN partitioning_VBG the_DT IMDB_NNP network_NN quantitatively_RB on_IN some_DT parameters_NNS and_CC compare_VB it_PRP with_IN existing_VBG methods_NNS ._.
+4.2.1_CD Network_NNP of_IN Example_NNP 1_CD For_IN the_DT undirected_JJ version_NN of_IN the_DT gra_NN

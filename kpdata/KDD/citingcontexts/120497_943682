@@ -1,0 +1,4 @@
+to_TO those_DT of_IN the_DT multivariate_JJ Gaussian_JJ distribution_NN for_IN multi-variate_JJ data_NNS in_IN R_NN d_NN ._.
+For_IN example_NN ,_, the_DT maximum_NN entropy_NN density_NN on_IN S_NN d_FW −_FW 1_CD subject_JJ to_TO the_DT constraint_NN that_IN E_NN -LRB-_-LRB- x_NN -RRB-_-RRB- is_VBZ fixed_VBN is_VBZ a_DT vMF_NN density_NN -LRB-_-LRB- se_FW =_JJ -_: =_JJ e_LS -LRB-_-LRB- 25_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 21_CD -RRB-_-RRB- for_IN details_NNS -RRB-_-RRB- ._.
+3_LS ._.
+EM_NNP ON_NNP MIXTURE_NNP OF_IN VMFS_FW In_FW this_DT section_NN ,_, we_PRP introduce_VBP a_DT mixture_NN of_IN k_NN vMF_NN -LRB-_-LRB- movMF_NN -RRB-_-RRB- distributions_NNS as_IN a_DT generative_JJ model_NN for_IN directional_JJ data_NNS ,_, and_CC then_RB derive_VB the_DT mixture-density_NN

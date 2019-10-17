@@ -1,0 +1,4 @@
+heselabels_NNS -RRB-_-RRB- ._.
+Naive_JJ Bayes_NNS :_: Commonly_RB used_VBN in_IN spam_NN filters_NNS ,_, this_DT basic_JJ model_NN assumes_VBZ that_IN for_IN a_DT given_VBN label_NN ,_, the_DT individual_JJ features_NNS of_IN URLs_NNS aredistributed_VBN independently_RB of_IN the_DT values_NNS of_IN other_JJ features_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Letting_VBG P_NN -LRB-_-LRB- x_NN |_CD y_NN -RRB-_-RRB- denote_VBP the_DT conditional_JJ probability_NN of_IN the_DT feature_NN vector_NN given_VBN its_PRP$ label_NN ,_, the_DT model_NN assumes_VBZ P_NN -LRB-_-LRB- x_NN |_CD y_NN -RRB-_-RRB- =_JJ Qd_NN j_NN =_JJ 1_CD P_NN -LRB-_-LRB- xj_FW |_FW y_NN -RRB-_-RRB- ._.
+Then_RB ,_, from_IN Bayes_NNP rule_NN ,_, assuming_VBG that_IN malicious_JJ and_CC benign_JJ Web_NN site_NN

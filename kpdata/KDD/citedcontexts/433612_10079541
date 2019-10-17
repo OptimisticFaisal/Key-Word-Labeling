@@ -1,0 +1,3 @@
+on_IN ._.
+Other_JJ algorithms_NNS include_VBP the_DT GS_NN algorithm_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, originally_RB developed_VBN for_IN learning_NN of_IN the_DT structure_NN of_IN a_DT Bayesian_JJ network_NN of_IN a_DT domain_NN ,_, and_CC extensions_NNS to_TO it_PRP -LRB-_-LRB- 11_CD -RRB-_-RRB- including_VBG the_DT recent_JJ MMMB_NN algorithm_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Meinshausen_NNP and_CC Bühlmann_NNP -LRB-_-LRB- 13_CD -RRB-_-RRB- recently_RB proposed_VBD an_DT optimal_JJ theoretical_JJ solution_NN to_TO the_DT problem_NN of_IN learning_VBG the_DT neighborhood_NN of_IN a_DT Markov_NNP network_NN when_WRB the_DT distribution_NN of_IN the_DT domain_NN can_MD be_VB assumed_VBN to_TO

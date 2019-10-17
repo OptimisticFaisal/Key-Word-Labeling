@@ -1,0 +1,4 @@
+revenue_NN in_IN the_DT year_NN when_WRB it_PRP acquired_VBD YouTube_NNP ?_.
+There_EX are_VBP many_JJ good_JJ IE_NN systems_NNS available_JJ for_IN extracting_VBG binary_JJ relations_NNS from_IN text_NN documents_NNS ,_, such_JJ as_IN Gate\/Annie_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- ,_, Snowball_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, Text2Onto_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, Leila_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, TextRunner_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+But_CC unfortunately_RB ,_, none_NN of_IN these_DT systems_NNS works_VBZ for_IN temporal_JJ relations_NNS with_IN satisfactory_JJ precision_NN ._.
+We_PRP propose_VBP a_DT suite_NN of_IN methods_NNS for_IN extracting_VBG and_CC inferring_VBG temporal_JJ relations_NNS from_IN

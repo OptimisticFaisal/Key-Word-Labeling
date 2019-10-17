@@ -1,0 +1,4 @@
+X_NN SV_NN D_NN =_JJ U_NN T_NN k_NN X_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- where_WRB Uk_NN is_VBZ of_IN size_NN dk_NN and_CC contains_VBZ these_DT k_NN singular_JJ vectors_NNS ._.
+Like_IN PCA_NNP ,_, SVD_NNP is_VBZ also_RB expensive_JJ to_TO compute_VB ._.
+There_EX exists_VBZ numerical_JJ routines_NNS such_JJ as_IN the_DT power_NN or_CC the_DT Lanczos_NN method_NN -LRB-_-LRB- =_JJ -_: =_JJ 5_CD -_: =-]_NN that_WDT are_VBP more_RBR ecient_JJ than_IN PCA_NNP for_IN sparse_JJ data_NNS matrices_NNS X_NN ,_, and_CC that_DT is_VBZ why_WRB we_PRP shall_MD use_VB SVD_NNP instead_RB of_IN PCA_NNP in_IN the_DT context_NN of_IN sparse_JJ text_NN document_NN data_NNS ._.
+For_IN a_DT sparse_JJ data_NN matrix_NN XdN_NN with_IN about_IN c_NN nonze_NN

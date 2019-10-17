@@ -1,0 +1,5 @@
+ot_IN exchangeable_JJ ._.
+For_IN example_NN ,_, image_NN regions_NNS depicting_VBG the_DT sky_NN are_VBP not_RB exchangeable_JJ since_IN their_PRP$ position_NN is_VBZ important_JJ -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+Topics_NNS change_VBP over_IN time_NN and_CC future_JJ documents_NNS can_MD not_RB influence_VB past_JJ documents_NNS =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Lifting_VBG these_DT restrictions_NNS is_VBZ hard_JJ and_CC often_RB leads_VBZ to_TO models_NNS that_WDT are_VBP either_RB specific_JJ to_TO a_DT certain_JJ modality_NN or_CC very_RB complex_JJ ._.
+We_PRP introduce_VBP a_DT method_NN to_TO cluster_VB non-exchangeable_JJ data_NNS that_WDT combines_VBZ the_DT

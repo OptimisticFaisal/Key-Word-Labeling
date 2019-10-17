@@ -1,0 +1,3 @@
+objective_JJ function_NN to_TO train_VB a_DT model_NN ,_, which_WDT predicts_VBZ whether_IN an_DT event_NN will_MD eventually_RB occur_VB or_CC not_RB ._.
+The_DT concordance_NN index_NN is_VBZ a_DT typical_JJ metric_NN for_IN quantifying_VBG the_DT predictive_JJ ability_NN of_IN a_DT survival_NN model_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN our_PRP$ application_NN ,_, the_DT CI_NN estimates_VBZ the_DT probability_NN that_IN ,_, of_IN a_DT pair_NN of_IN randomly_RB chosen_VBN comparable_JJ patients_NNS ,_, the_DT patient_NN with_IN the_DT higher_JJR prognostic_JJ score_NN from_IN the_DT model_NN will_MD recur_VB within_IN a_DT shorter_JJR t_NN

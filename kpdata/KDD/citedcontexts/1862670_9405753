@@ -1,0 +1,5 @@
+ein_NN ._.
+Secondly_RB ,_, the_DT ''_'' distance_NN ''_'' between_IN two_CD proteins_NNS in_IN the_DT SVM_NN is_VBZ not_RB calculated_VBN directly_RB by_IN the_DT kernel_NN function_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ instead_RB calculated_VBN by_IN a_DT classic_JJ relational_JJ kernel_NN such_JJ as_IN the_DT RBF_NNP kernel_NN ._.
+Work_NN =_SYM -_: =[_NN 13_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ been_VBN done_VBN on_IN building_VBG a_DT series_NN of_IN classifiers_NNS which_WDT make_VBP use_NN of_IN frequent_JJ substring_NN patterns_NNS and_CC the_DT support_NN vector_NN machine_NN ._.
+The_DT algorithms_NNS firstly_RB mine_VBP the_DT frequent_JJ substrings_NNS from_IN the_DT training_NN p_NN

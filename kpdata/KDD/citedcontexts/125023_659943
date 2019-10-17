@@ -1,0 +1,6 @@
+conditions_NNS it_PRP works_VBZ well_RB ._.
+In_IN addition_NN ,_, a_DT novel_JJ evaluation_NN technique_NN will_MD be_VB considered_VBN ._.
+Accuracy_NN can_MD be_VB evaluated_VBN effectively_RB by_IN using_VBG Receiver_NNP Operating_NNP Characteristic_NNP -LRB-_-LRB- ROC_NNP -RRB-_-RRB- curves_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Cost_NN curves_NNS -LRB-_-LRB- 4_LS -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: can_MD indicate_VB the_DT conditions_NNS under_IN which_WDT the_DT algorithm_NN works_VBZ well_RB ._.
+We_PRP will_MD judge_VB these_DT approaches_NNS by_IN their_PRP$ speed_NN and_CC accuracy_NN ._.
+Also_RB ,_, the_DT benefits_NNS of_IN on-line_JJ versus_CC off-line_JJ approaches_NNS will_MD be_VB examined_VBN

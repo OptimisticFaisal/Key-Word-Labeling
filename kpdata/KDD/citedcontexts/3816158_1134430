@@ -1,0 +1,5 @@
+with_IN respect_NN to_TO w_NN -RRB-_-RRB- is_VBZ w_NN 1_CD X_NN n_NN ð_FW ^_FW ynÞ_NN :_: ð14Þ_NN N_NN n_NN Equations_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 14_CD -RRB-_-RRB- define_VBP the_DT new_JJ constraint_NN to_TO be_VB added_VBN to_TO the_DT optimization_NN problem_NN ._.
+Pseudocode_NN for_IN this_DT algorithm_NN is_VBZ described_VBN in_IN Algorithm_NNP 1_CD ._.
+See_VB =_JJ -_: =[_NN 38_CD -RRB-_-RRB- -_: =_SYM -_: for_IN more_JJR details_NNS ._.
+Let_VB us_PRP investigate_VB the_DT complexity_NN of_IN solving_VBG -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Using_VBG the_DT joint_JJ feature_NN map_NN as_IN in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC the_DT loss_NN as_IN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, the_DT argument_NN in_IN -LRB-_-LRB- 11_CD -RRB-_-RRB- becomes_VBZ h_NN ðG_NN ;_: G_NN 0_CD ;_: yÞ_NN ;_: wiþ_FW ðy_FW ;_: y_NN n_NN Þ_NN X_NN X_NN yii0c_NN

@@ -1,0 +1,5 @@
+om_NN bases_NNS ._.
+The_DT fundamental_JJ importance_NN of_IN the_DT work_NN from_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- is_VBZ undisputable_JJ ._.
+However_RB ,_, its_PRP$ simple_JJ greedy_JJ algorithm_NN with_IN Monte-Carlo_NNP simulation_NN estimation_NN makes_VBZ it_PRP extremely_RB inefficient_JJ ._.
+Leskovec_FW et_FW ._.
+al._FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: further_RB explored_VBD the_DT beauty_NN of_IN the_DT submodularity_NN of_IN the_DT objective_JJ function_NN by_IN pointing_VBG out_RP that_IN if_IN the_DT estimate_NN of_IN the_DT simulation_NN result_NN of_IN a_DT node_NN in_IN previous_JJ rounds_NNS is_VBZ still_RB less_JJR than_IN the_DT current_JJ be_VB

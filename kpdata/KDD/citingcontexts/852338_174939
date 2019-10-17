@@ -1,0 +1,4 @@
+a_DT binary_JJ relationship_NN given_VBN between_IN data_NNS items_NNS ._.
+Examples_NNS of_IN these_DT efforts_NNS include_VBP mining_NN on_IN Web_NN community_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- or_CC topic_NN related_JJ documents_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, collaborative_JJ filtering_VBG -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, and_CC social_JJ network_NN analysis_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+All_DT of_IN these_DT community_NN generation_NN efforts_NNS assume_VBP that_IN there_EX is_VBZ explicit_JJ link_NN information_NN given_VBN between_IN data_NNS items_NNS -LRB-_-LRB- e.g._FW ,_, Web_NN links_NNS ,_, user-item_JJ mappings_NNS ,_, or_CC scoring_VBG of_IN items_NNS assigned_VBN by_IN users_NNS -RRB-_-RRB- ._.
+We_PRP ref_VBP

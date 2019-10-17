@@ -1,0 +1,4 @@
+g_NN to_TO classify_VB when_WRB one_CD or_CC more_JJR classes_NNS is_VBZ rare_JJ ,_, known_VBN as_IN the_DT class_NN imbalance_NN problem_NN ,_, continues_VBZ to_TO be_VB a_DT topic_NN of_IN major_JJ interest_NN ._.
+Rare_JJ classes_NNS are_VBP often_RB associated_VBN with_IN higher_JJR misclassification_NN costs_NNS -LRB-_-LRB- =_JJ -_: =_JJ Drummond_NNP &_CC Holte_NNP ,_, 2000_CD -_: =--RRB-_NN ._.
+A_DT discussion_NN of_IN the_DT problem_NN and_CC review_NN of_IN recent_JJ approaches_NNS is_VBZ provided_VBN by_IN Japkowicz_NNP and_CC Stephen_NNP -LRB-_-LRB- 2002_CD -RRB-_-RRB- ._.
+If_IN a_DT class_NN is_VBZ rare_JJ then_RB either_CC the_DT underlying_VBG rules_NNS identifying_VBG it_PRP are_VBP subject_JJ to_TO substantia_NN

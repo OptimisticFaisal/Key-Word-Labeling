@@ -1,0 +1,4 @@
+ss-passwd_JJ ,_, imap_NN ,_, multihop_NN ,_, phf_NN ,_, warezclient_NN ,_, warezmaster_NN Table_NNP 4.1_CD :_: Categories_NNS of_IN Network_NNP Traffic_NNP ._.
+The_DT contest_NN dataset_NN consisted_VBD of_IN connection\/session_NN records_NNS built_VBN from_IN the_DT raw_JJ traffic_NN packet_NN flows_NNS -LRB-_-LRB- =_JJ -_: =_JJ Lee_NNP et_FW al._FW ,_, 1999_CD -_: =-]_CD ._.
+``_`` Basic_JJ ''_'' features_NNS include_VBP attributes_NNS of_IN individual_JJ TCP_NN connections_NNS ,_, such_JJ as_IN duration_NN ,_, protocol_NN type_NN ,_, and_CC number_NN of_IN data_NNS bytes_NNS from_IN source_NN to_TO destination_NN ._.
+``_`` Content_NN ''_'' features_NNS include_VBP attributes_NNS that_IN w_NN

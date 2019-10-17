@@ -1,0 +1,5 @@
+o_NN any_DT sort_NN of_IN entities_NNS ,_, such_JJ as_IN accounts_NNS or_CC webpages_NNS ._.
+The_DT basic_JJ premise_NN of_IN SNARE_NN is_VBZ to_TO use_VB neighboring_JJ labels_NNS to_TO classify_VB a_DT given_VBN node_NN ._.
+This_DT premise_NN has_VBZ proven_VBN effective_JJ for_IN many_JJ graph_NN labeling_NN tasks_NNS =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, we_PRP also_RB take_VBP into_IN account_NN domain_NN knowledge_NN ,_, by_IN assigning_VBG an_DT initial_JJ risk_NN scores_NNS to_TO nodes_NNS prior_RB to_TO evaluating_VBG neighborhood_NN associations_NNS between_IN them_PRP ._.
+To_TO measure_VB risk_NN by_IN association_NN ,_, we_PRP then_RB

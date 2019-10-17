@@ -1,0 +1,4 @@
+h_NN weights_NNS wi_VBP close_RB to_TO zero_CD have_VBP little_JJ effect_NN ._.
+-LRB-_-LRB- 12_CD -RRB-_-RRB- has_VBZ shown_VBN that_IN the_DT features_NNS with_IN high_JJ weights_NNS are_VBP the_DT features_NNS that_WDT are_VBP influential_JJ in_IN determining_VBG the_DT width_NN of_IN the_DT margin_NN when_WRB learning_VBG with_IN SVMs_NNS ._.
+=_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP also_RB used_VBN a_DT similar_JJ approach_NN to_TO perform_VB feature_NN selection_NN by_IN retaining_VBG features_NNS with_IN high_JJ weights_NNS ._.
+To_TO generate_VB an_DT explanation_NN for_IN claim_NN C_NN ,_, we_PRP calculate_VBP an_DT influence_NN score_NN for_IN each_DT feature_NN Ci_NN in_IN

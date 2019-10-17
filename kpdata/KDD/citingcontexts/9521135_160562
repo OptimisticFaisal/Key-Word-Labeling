@@ -1,0 +1,4 @@
+linear_JJ algebra_NN in_IN which_WDT a_DT matrix_NN is_VBZ replaced_VBN with_IN a_DT low-rank_JJ approximation_NN ._.
+These_DT methods_NNS have_VBP been_VBN widely_RB adopted_VBN ,_, particularly_RB in_IN the_DT context_NN of_IN approximations_NNS for_IN the_DT support_NN vector_NN machine_NN -LRB-_-LRB- SVM_NN -RRB-_-RRB- =_JJ -_: =[_NN 9_CD ,_, 38_CD ,_, 10_CD ,_, 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT affinity_NN matrix_NN of_IN spectral_JJ clustering_NN is_VBZ a_DT natural_JJ target_NN for_IN rank_JJ reduction_NN ._.
+In_IN particular_JJ ,_, -LRB-_-LRB- 11_CD -RRB-_-RRB- have_VBP used_VBN the_DT Nyström_NNP approximation_NN ,_, which_WDT samples_NNS columns_NNS of_IN the_DT affinity_NN matrix_NN and_CC approxima_NN

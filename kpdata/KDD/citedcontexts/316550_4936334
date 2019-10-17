@@ -1,0 +1,4 @@
+putational_JJ complexity_NN in_IN the_DT synthesis_NN step_NN ,_, tensor_NN decomposition_NN is_VBZ in_IN fact_NN much_RB more_RBR expensive_JJ than_IN two-way_JJ decomposition_NN in_IN the_DT analysis_NN step_NN ._.
+We_PRP did_VBD not_RB consider_VB here_RB any_DT data_NNS sampling_NN techniques_NNS =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT could_MD potentially_RB reduce_VB the_DT computation_NN of_IN the_DT tensor_NN decomposition_NN ._.
+In_IN Fig._NNP 5_CD we_PRP show_VBP some_DT prediction_NN frames_NNS obtained_VBN using_VBG the_DT Tucker_NNP decomposition_NN of_IN the_DT 3D-Y_NN CbCr_NN data_NNS representation_NN ._.
+8_CD Con_NN

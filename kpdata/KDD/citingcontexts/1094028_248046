@@ -1,0 +1,5 @@
+ED_NNS WORK_VBP We_PRP have_VBP already_RB mentioned_VBN the_DT relation_NN between_IN miki_NN 's_POS and_CC frequent_JJ itemsets_NNS ._.
+Another_DT obvious_JJ role_NN for_IN miki_NN 's_POS is_VBZ in_IN feature_NN selection_NN ._.
+Many_JJ algorithms_NNS have_VBP been_VBN developed_VBN for_IN this_DT purpose_NN -LRB-_-LRB- see_VB =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: for_IN an_DT overview_NN -RRB-_-RRB- ,_, particularly_RB in_IN a_DT supervised_JJ setting_NN :_: select_JJ only_RB those_DT features_NNS that_WDT are_VBP relevant_JJ for_IN predicting_VBG the_DT value_NN of_IN a_DT class_NN variable_NN ._.
+Our_PRP$ framework_NN on_IN the_DT other_JJ hand_NN is_VBZ unsupervised_JJ ._.
+The_DT

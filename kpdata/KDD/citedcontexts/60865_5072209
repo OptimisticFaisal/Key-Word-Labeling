@@ -1,0 +1,3 @@
+ising_JJ results_NNS ._.
+Examples_NNS are_VBP listed_VBN as_IN follows_VBZ :_: -LRB-_-LRB- 20_CD -RRB-_-RRB- treated_JJ IR_NN as_IN a_DT binary_JJ classification_NN of_IN relevance_NN and_CC explored_VBD the_DT applicability_NN of_IN discriminative_JJ classifiers_NNS -LRB-_-LRB- such_JJ as_IN SVM_NN -RRB-_-RRB- to_TO solve_VB the_DT problem_NN ._.
+=_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: took_VBD pairs_NNS of_IN documents_NNS and_CC their_PRP$ relative_JJ preferences_NNS derived_VBN from_IN click-through_JJ data_NNS -LRB-_-LRB- i.e._FW ,_, the_DT log_NN of_IN links_NN users_NNS clicked_VBD on_RP in_IN the_DT presented_VBN ranking_NN provided_VBN by_IN a_DT WWW_NNP search_NN engine_NN -RRB-_-RRB- as_IN training_NN i_FW

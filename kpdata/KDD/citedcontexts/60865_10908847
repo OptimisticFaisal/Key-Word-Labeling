@@ -1,0 +1,4 @@
+r_NN experiments_NNS ,_, we_PRP evaluate_VBP recommendation_NN performance_NN for_IN several_JJ sets_NNS of_IN future_JJ talks_NNS ,_, given_VBN varying_VBG amounts_NNS of_IN feedback_NN on_IN past_JJ talks_NNS ._.
+We_PRP evaluate_VBP content-based_JJ recommendation_NN methods_NNS using_VBG RankSVM_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Several_JJ sets_NNS of_IN features_NNS are_VBP considered_VBN ,_, including_VBG a_DT traditional_JJ word-based_JJ model_NN ,_, as_RB well_RB as_IN representing_VBG each_DT talk_NN in_IN terms_NNS of_IN its_PRP$ topic_NN usage_NN -LRB-_-LRB- see_VB Section_NNP 4_CD -RRB-_-RRB- ._.
+We_PRP subsequently_RB compare_VBP the_DT performa_NN

@@ -1,0 +1,5 @@
+ient_JJ to_TO identify_VB complex_JJ coreferent_JJ records_NNS ._.
+Past_JJ efforts_NNS can_MD be_VB categorized_VBN into_IN several_JJ categories_NNS below_IN ._.
+The_DT first_JJ category_NN is_VBZ to_TO learn_VB a_DT good_JJ similarity_NN function_NN using_VBG machine_NN learning_NN techniques_NNS =_JJ -_: =[_NN 12_CD ,_, 13_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, -LRB-_-LRB- 14_CD -RRB-_-RRB- employs_VBZ a_DT two-phase_JJ approach_NN ._.
+In_IN the_DT first_JJ phase_NN ,_, attribute_NN value_NN matchers_NNS are_VBP tuned_VBN ,_, and_CC in_IN the_DT second_JJ phase_NN ,_, a_DT SVM_NN classifier_NN is_VBZ learned_VBN from_IN a_DT combination_NN of_IN the_DT tuned_VBN matchers_NNS

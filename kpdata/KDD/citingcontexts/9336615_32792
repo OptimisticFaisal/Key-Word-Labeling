@@ -1,0 +1,4 @@
+classifier_NN for_IN each_DT label_NN in_IN which_WDT instances_NNS relevant_JJ to_TO this_DT label_NN form_VBP the_DT positive_JJ class_NN ,_, and_CC the_DT rest_NN form_VBP the_DT negative_JJ class_NN ._.
+This_DT approach_NN has_VBZ been_VBN applied_VBN successfully_RB to_TO various_JJ applications_NNS =_JJ -_: =[_NN 9_CD ,_, 31_CD ,_, 17_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, it_PRP fails_VBZ to_TO capture_VB the_DT correlation_NN information_NN among_IN different_JJ labels_NNS ,_, which_WDT is_VBZ critical_JJ for_IN many_JJ applications_NNS where_WRB the_DT semantics_NNS conveyed_VBN by_IN different_JJ labels_NNS are_VBP correlated_VBN ._.
+Indeed_RB ,_, it_PRP h_NN

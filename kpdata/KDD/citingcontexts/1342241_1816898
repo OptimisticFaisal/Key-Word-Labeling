@@ -1,0 +1,5 @@
+thermore_RB ,_, it_PRP can_MD only_RB operate_VB on_IN one_CD rulebase_NN at_IN a_DT time_NN ._.
+In_IN contrast_NN to_TO MSQL_NN ,_, Rule-QL_NN operates_VBZ on_IN multiple_JJ rulebases_NNS at_IN a_DT time_NN and_CC can_MD also_RB support_VB queries_NNS expressing_VBG inter-relationships_NNS of_IN rules_NNS ._.
+In_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Agrawal_NNP et_NNP al_NNP reported_VBD a_DT language_NN for_IN querying_VBG shapes_NNS of_IN history_NN ._.
+The_DT shapes_NNS of_IN history_NN refer_VBP to_TO ups_NNS and_CC downs_NNS of_IN supports_NNS or_CC confidences_NNS of_IN a_DT rule_NN over_IN a_DT number_NN of_IN time_NN periods_NNS ._.
+This_DT language_NN enabl_NN

@@ -1,0 +1,3 @@
+entation_NN of_IN SQL_NN is_VBZ capable_JJ of_IN automatically_RB accessing_VBG a_DT GPU_NNP ,_, even_RB though_IN SQL_NNP queries_NNS have_VBP been_VBN closely_RB emulated_VBN on_IN the_DT GPU_NNP to_TO prove_VB the_DT parallel_JJ architecture_NN 's_POS adaptability_NN to_TO such_JJ execution_NN patterns_NNS =_JJ -_: =[_NN 5_CD ,_, 6_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX exist_VBP limitations_NNS to_TO current_JJ GPU_NNP technology_NN that_WDT affect_VBP the_DT potential_JJ users_NNS of_IN such_PDT a_DT GPU_NNP SQL_NNP implementation_NN ._.
+The_DT two_CD most_RBS relevant_JJ technical_JJ limitations_NNS are_VBP the_DT GPU_NNP memory_NN size_NN and_CC the_DT host_NN t_NN

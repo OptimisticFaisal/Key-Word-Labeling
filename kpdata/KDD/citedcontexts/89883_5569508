@@ -1,0 +1,4 @@
+y_NN graph_NN ,_, are_VBP generally_RB the_DT least_JJS interesting_JJ as_RB well_RB ._.
+A_DT better_JJR solution_NN consists_VBZ in_IN extracting_VBG a_DT restricted_JJ but_CC informative_JJ subset_NN of_IN frequent_JJ patterns_NNS ,_, such_JJ as_IN the_DT subset_NN of_IN frequent_JJ closed_JJ patterns_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB even_RB dense_JJ and_CC relatively_RB small_JJ graph_NN data_NNS sets_NNS still_RB contain_VBP several_JJ thousands_NNS of_IN frequent_JJ closed_JJ patterns_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Information_NN theory_NN better_RB defines_VBZ what_WP informative_JJ means_NNS :_: informative_JJ pattern_NN

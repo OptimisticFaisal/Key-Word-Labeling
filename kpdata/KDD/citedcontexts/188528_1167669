@@ -1,0 +1,4 @@
+lustering_VBG model_NN with_IN many_JJ clusters_NNS -RRB-_-RRB- ,_, while_IN it_PRP may_MD lie_VB far_RB from_IN a_DT simple_JJ model_NN -LRB-_-LRB- e.g._FW ,_, a_DT single_JJ hyper-ellipsoid_JJ cluster_NN model_NN -RRB-_-RRB- ._.
+This_DT leads_VBZ to_TO the_DT concept_NN of_IN local_JJ outliers_NNS in_IN the_DT data_NNS mining_NN literature_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT parametric_JJ approach_NN is_VBZ designed_VBN for_IN datasets_NNS with_IN a_DT dominating_VBG relatively_RB dense_JJ convex_NN bulk_NN of_IN data_NNS ._.
+The_DT empirical_JJ comparisons_NNS we_PRP present_VBP here_RB show_VBP that_IN RNNs_NNS perform_VBP adequately_RB in_IN many_JJ different_JJ

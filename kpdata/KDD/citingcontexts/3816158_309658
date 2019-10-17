@@ -1,0 +1,5 @@
+ression_NN ._.
+Extensions_NNS of_IN these_DT loss_NN functions_NNS allow_VBP us_PRP to_TO handle_VB structure_NN in_IN the_DT output_NN space_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+Changing_VBG the_DT regularizer_NN Ω_NN -LRB-_-LRB- w_NN -RRB-_-RRB- to_TO the_DT sparsity_NN inducing_VBG ‖_FW w_FW ‖_NN 1_CD leads_VBZ to_TO Lasso-type_JJ estimation_NN algorithms_NNS =_JJ -_: =[_NN 30_CD ,_, 39_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT kernel_NN trick_NN is_VBZ widely_RB used_VBN to_TO transform_VB many_JJ of_IN these_DT algorithms_NNS into_IN ones_NNS operating_VBG on_IN a_DT Reproducing_NNP Kernel_NNP Hilbert_NNP Space_NNP -LRB-_-LRB- RKHS_NNP -RRB-_-RRB- ._.
+One_CD lifts_VBZ w_NN into_IN an_DT RKHS_NN and_CC replaces_VBZ all_DT inner_JJ product_NN comput_NN

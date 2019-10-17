@@ -1,0 +1,4 @@
+section_NN ,_, SVM_NN are_VBP today_NN widely_RB used_VBN because_IN they_PRP give_VBP high_JJ quality_NN results_NNS ,_, but_CC they_PRP are_VBP used_VBN as_IN a_DT ``_`` black_JJ box_NN ''_'' ._.
+They_PRP give_VBP high_JJ quality_NN results_NNS ,_, but_CC there_EX is_VBZ no_DT explanation_NN of_IN these_DT results_NNS ._.
+One_CD paper_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_JJ -_: talks_NNS about_IN SVM_NNP results_NNS visualization_NN :_: they_PRP use_VBP projection-based_JJ tour_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- method_NN to_TO visualize_VB the_DT results_NNS ._.
+They_PRP use_VBP a_DT visualization_NN of_IN the_DT distribution_NN of_IN the_DT data_NNS predicted_VBD class_NN -LRB-_-LRB- by_IN the_DT way_NN of_IN his_PRP$

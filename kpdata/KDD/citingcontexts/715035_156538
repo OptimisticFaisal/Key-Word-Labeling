@@ -1,0 +1,5 @@
+O_NN -LRB-_-LRB- n_NN 2_CD log_NN n_NN -RRB-_-RRB- ,_, where_WRB n_NN is_VBZ the_DT size_NN of_IN input_NN data_NNS set_VBN ._.
+Moreover_RB ,_, algorithm_NN CURE_NN utilizes_VBZ a_DT spatial_JJ searching_VBG data_NNS structure_NN ,_, kd-tree_NN ,_, for_IN searching_VBG the_DT nearest_JJS representatives_NNS ._.
+However_RB ,_, as_IN pointed_VBN in_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, this_DT kind_NN of_IN searching_VBG structures_NNS does_VBZ not_RB work_VB well_RB in_IN a_DT high_JJ dimensional_JJ domain_NN ._.
+This_DT fact_NN limits_VBZ the_DT applicability_NN of_IN algorithm_NN CURE_NN ._.
+2.1.2_CD Partitional_NNP Clustering_NNP Algorithms_NNPS The_DT k-means_NN algorithm_NN

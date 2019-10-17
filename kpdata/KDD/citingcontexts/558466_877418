@@ -1,0 +1,5 @@
+r_NN attributes_NNS are_VBP numeric_JJ ._.
+We_PRP performed_VBD the_DT experiments_NNS as_IN suggested_VBN in_IN the_DT dataset_NN descriptions_NNS ._.
+As_IN comparison_NN partners_NNS we_PRP chose_VBD the_DT popular_JJ decision_NN tree_NN classifiers_NNS CART_NN and_CC C4_NN from_IN the_DT IND_NN package_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: as_RB well_RB as_IN the_DT recently_RB proposed_VBN SPRINT_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC CLOUDS_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- classifiers_NNS ._.
+The_DT results_NNS of_IN CLOUDS_NNS were_VBD produced_VBN with_IN the_DT SSE\/DM_NN method_NN ._.
+Accuracy_NN CART_NN C4_NN SPRINT_NNP CLOUDS_NNPS PBC_NNP Satimage_NNP 85.3_CD 85.2_CD 86.3_CD 85.9_CD 83_CD ._.

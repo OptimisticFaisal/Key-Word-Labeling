@@ -1,0 +1,5 @@
+shape_NN of_IN the_DT category_NN distributions_NNS ._.
+Perplexity_NN ._.
+The_DT perplexity_NN of_IN feature_NN distributions_NNS of_IN a_DT category_NN reflects_VBZ the_DT uncertainty_NN of_IN the_DT category_NN ;_: it_PRP can_MD be_VB represented_VBN based_VBN on_IN the_DT entropy_JJ measurement_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Suppose_VB there_EX are_VBP k_NN elements_NNS s1_NN ,_, s2_NN ,_, ..._: ,_, sk_NN in_IN a_DT set_NN with_IN probabilk_NN ity_NN distribution_NN P_NN =_JJ -LCB-_-LRB- p_NN -LRB-_-LRB- s1_NN -RRB-_-RRB- ,_, p_NN -LRB-_-LRB- s2_NN -RRB-_-RRB- ,_, ..._: ,_, p_NN -LRB-_-LRB- sk_NN -RRB-_-RRB- -RCB-_-RRB- ._.
+The_DT entropy_NN of_IN the_DT set_NN is_VBZ defined_VBN as_IN En_NN -LRB-_-LRB- P_NN -RRB-_-RRB- =_JJ −_CD p_NN -LRB-_-LRB- si_NN -RRB-_-RRB- log_NN p_NN -LRB-_-LRB- si_NN -RRB-_-RRB- i_LS =_JJ 1_CD By_IN Sh_NN

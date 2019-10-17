@@ -1,0 +1,5 @@
+f_LS length_NN 30_CD or_CC 40_CD is_VBZ not_RB uncommon_JJ -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Methods_NNS for_IN finding_VBG the_DT maximal_JJ elements_NNS include_VBP All-MFS_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, which_WDT is_VBZ a_DT randomized_JJ algorithm_NN to_TO discover_VB maximal_JJ frequent_JJ itemsets_NNS ._.
+The_DT Pincer-Search_NNP algorithm_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: not_RB only_RB constructs_NNS the_DT candidates_NNS in_IN a_DT bottomup_JJ manner_NN like_IN Apriori_NNP ,_, but_CC also_RB starts_VBZ a_DT top-down_JJ search_NN at_IN the_DT same_JJ time_NN ._.
+This_DT can_MD help_VB in_IN reducing_VBG the_DT number_NN of_IN database_NN scans_NNS ._.
+MaxMiner_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- is_VBZ anoth_NN

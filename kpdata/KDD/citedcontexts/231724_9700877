@@ -1,0 +1,4 @@
+tisfy_NN Principle_NN 1_CD :_: the_DT Ripper_NNP rule-learning_NN algorithm_NN -LRB-_-LRB- Cohen_NNP 1996_CD -RRB-_-RRB- and_CC the_DT Naïve_FW Bayes_FW algorithm_NN -LRB-_-LRB- Mitchell_NNP 1997_CD -RRB-_-RRB- ._.
+These_DT algorithms_NNS have_VBP been_VBN widely_RB applied_VBN for_IN email_NN classification_NN -LRB-_-LRB- e.g._FW ,_, Cohen_NNP 1996_CD ;_: =_JJ -_: =_JJ Dalvi_NNP et_FW al._FW 2004_CD -_: =_JJ -_: ;_: Shen_NNP et_FW al._FW 2006_CD -RRB-_-RRB- ._.
+Additionally_RB ,_, these_DT algorithms_NNS can_MD easily_RB produce_VB explanations_NNS of_IN their_PRP$ results_NNS ,_, which_WDT satisfies_VBZ Principles_NNS 2_CD and_CC 3_CD ._.
+To_TO obtain_VB a_DT prediction_NN for_IN each_DT of_IN the_DT 122_CD email_NN messages_NNS ,_, we_PRP

@@ -1,0 +1,5 @@
+e_LS data_NN mining_NN system_NN optimizes_VBZ sequences_NNS of_IN queries_NNS ._.
+A_DT classical_JJ solution_NN is_VBZ to_TO cache_NN the_DT results_NNS of_IN previous_JJ queries_NNS to_TO answer_VB faster_RBR to_TO new_JJ queries_NNS ._.
+This_DT has_VBZ been_VBN studied_VBN by_IN caching_NN itemsets_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 13,25_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Most_JJS of_IN these_DT works_NNS require_VBP that_IN some_DT strong_JJ relation_NN holds_VBZ between_IN the_DT queries_NNS like_IN inclusion_NN or_CC equivalence_JJ ._.
+Caching_VBG condensed_JJ representations_NNS seems_VBZ quite_RB natural_JJ and_CC we_PRP began_VBD to_TO study_VB the_DT use_NN of_IN

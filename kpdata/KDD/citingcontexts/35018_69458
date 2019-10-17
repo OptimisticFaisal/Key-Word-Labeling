@@ -1,0 +1,3 @@
+a_DT statistically_RB meaningful_JJ model_NN ,_, the_DT quality_NN of_IN the_DT solution_NN it_PRP produces_VBZ is_VBZ determined_VBN completely_RB by_IN the_DT initial_JJ model_NN ._.
+The_DT state_NN of_IN the_DT art_NN of_IN initializing_VBG EM_NN over_IN -LCB-_-LRB- 0,1_CD -RCB-_-RRB- data_NNS is_VBZ via_IN random_JJ restarts_NNS =_JJ -_: =_JJ -LRB-_-LRB- MH98_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+When_WRB applied_VBN to_TO high-dimensional_JJ data_NNS ,_, EM_NN suffers_VBZ from_IN two_CD problems_NNS in_IN particular_JJ :_: clusters_NNS often_RB go_VBP empty_JJ -LRB-_-LRB- no_DT data_NN records_NNS assigned_VBN to_TO them_PRP -RRB-_-RRB- ;_: and_CC different_JJ clusters_NNS converge_VBP on_IN the_DT same_JJ distributio_NN

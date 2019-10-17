@@ -1,0 +1,4 @@
+components_NNS is_VBZ equally_RB probable_JJ ;_: i.e._FW ,_, ∀_CD j_NN :_: αj_NN =_JJ 1\/k_NN ._.
+Labeled_VBN examples_NNS impose_VBP additional_JJ constraints_NNS on_IN how_WRB the_DT configuration_NN matrix_NN T_NN should_MD be_VB determined_VBN ._.
+Following_VBG the_DT strategy_NN used_VBN by_IN Basu_NNP et_FW al._FW =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT constraints_NNS provided_VBN by_IN labeled_JJ examples_NNS are_VBP modeled_VBN using_VBG Hidden_NNP Markov_NNP Random_NNP fields_NNS -LRB-_-LRB- HMRF_NN -RRB-_-RRB- ._.
+If_IN M_NN is_VBZ the_DT set_NN of_IN known_JJ outliers_NNS mislabeled_VBN as_IN normal_JJ points_NNS and_CC U_NN is_VBZ the_DT set_NN of_IN known_JJ normal_JJ poin_NN

@@ -1,0 +1,4 @@
+s_VBZ a_DT preprocessing_NN technique_NN in_IN data_NN mining_NN -LRB-_-LRB- 4_CD ,_, 15_CD -RRB-_-RRB- ._.
+It_PRP has_VBZ proven_VBN effective_JJ in_IN reducing_VBG dimensionality_NN ,_, improving_VBG mining_NN efficiency_NN ,_, increasing_VBG mining_NN accuracy_NN ,_, and_CC enhancing_VBG result_NN comprehensibility_NN =_JJ -_: =[_NN 3_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Feature_NN selection_NN methods_NNS can_MD broadly_RB fall_VB into_IN the_DT wrapper_NN model_NN and_CC the_DT filter_NN model_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+The_DT wrapper_NN model_NN uses_VBZ the_DT predictive_JJ accuracy_NN of_IN a_DT predetermined_JJ mining_NN algorithm_NN to_TO determine_VB the_DT goodn_NN

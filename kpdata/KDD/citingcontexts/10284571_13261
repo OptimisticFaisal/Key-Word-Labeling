@@ -1,0 +1,4 @@
+tree_NN structure_NN ,_, to_TO check_VB whether_IN sequence_NN s_NN ′_NN is_VBZ a_DT subsequence_NN of_IN s_NN ,_, we_PRP can_MD simply_RB examine_VB whether_IN there_EX is_VBZ a_DT path_NN corresponding_VBG to_TO s_NN ′_NN from_IN the_DT root_NN of_IN the_DT suffix_NN tree_NN ._.
+Most_JJS of_IN the_DT existing_VBG methods_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: construct_VB a_DT suffix_NN tree_NN for_IN indexing_NN one_CD -LRB-_-LRB- long_JJ -RRB-_-RRB- sequence_NN ._.
+However_RB ,_, in_IN the_DT case_NN of_IN query_NN session_NN mining_NN ,_, the_DT average_JJ sequence_NN length_NN is_VBZ short_JJ ,_, but_CC the_DT number_NN of_IN sequences_NNS is_VBZ huge_JJ ._.
+We_PRP extend_VBP the_DT suffix_NN

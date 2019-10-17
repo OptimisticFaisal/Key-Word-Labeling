@@ -1,0 +1,4 @@
+ed_VBN above_IN non-relevant_JJ ones_NNS for_IN any_DT query_NN ._.
+The_DT selection_NN of_IN an_DT appropriate_JJ measure_NN of_IN similarity_NN could_MD hence_RB be_VB performed_VBN through_IN the_DT optimization_NN of_IN a_DT criterion_NN related_JJ to_TO -LRB-_-LRB- 1_LS -RRB-_-RRB- over_IN some_DT training_NN data_NN =_JJ -_: =[_NN 2_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, such_JJ a_DT process_NN would_MD require_VB a_DT large_JJ set_NN of_IN labeled_JJ queries_NNS for_IN training_NN -LRB-_-LRB- i.e._FW queries_NNS with_IN the_DT corresponding_JJ relevance_NN set_NN -RRB-_-RRB- which_WDT are_VBP expensive_JJ to_TO obtain_VB -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+As_IN an_DT alternative_NN ,_, we_PRP propose_VBP

@@ -1,0 +1,5 @@
+f_LS the_DT points_NNS ,_, which_WDT has_VBZ been_VBN shown_VBN to_TO dominate_VB all_DT points_NNS under_IN the_DT hull_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+It_PRP has_VBZ further_RB been_VBN shown_VBN that_IN dominance_NN implies_VBZ superior_JJ performance_NN for_IN a_DT variety_NN of_IN commonly-used_JJ performance_NN measures_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT dashed_VBN line_NN in_IN figure_NN 3_CD is_VBZ a_DT typical_JJ ROC_NN convex_NN hull_NN ._.
+The_DT slope_NN of_IN a_DT segment_NN of_IN the_DT convex_NN hull_NN connecting_VBG the_DT two_CD vertices_NNS -LRB-_-LRB- FP1_NN ;_: TP1_NN -RRB-_-RRB- and_CC -LRB-_-LRB- FP2_NN ;_: TP2_NN -RRB-_-RRB- is_VBZ given_VBN by_IN equation_NN 1_CD ._.
+0_CD 0.5_CD 1_CD 0_CD 0.5_CD 1_CD F_NN

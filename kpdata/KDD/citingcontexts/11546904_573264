@@ -1,0 +1,5 @@
+a_DT and_CC all_DT experiments_NNS are_VBP performed_VBN on_IN a_DT Desktop_NNP running_VBG Windows_NNP XP_NN with_IN two_CD Dual-Core_NNP Intel_NNP Pentium_NNP 4_CD processors_NNS -LRB-_-LRB- 3.0_CD GHz_NNS -RRB-_-RRB- and_CC 1GB_NN memory_NN ._.
+The_DT JuncT_NN algorithm_NN is_VBZ implemented_VBN using_VBG the_DT package_NN MALLET_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP implement_VBP TPFG_NN with_IN Visual_JJ C_NN +_CC +_CC 2008_CD ._.
+And_CC we_PRP use_VBP LIBSVM_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- to_TO perform_VB SVM_NN training_NN and_CC prediction_NN ._.
+5.2_CD Accuracy_NN We_PRP conduct_VBP a_DT series_NN of_IN experiments_NNS to_TO explore_VB the_DT capability_NN of_IN TPFG_NN algorithm_NN in_IN m_NN

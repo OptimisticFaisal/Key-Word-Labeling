@@ -1,0 +1,4 @@
+me_PRP of_IN algorithms_NNS that_WDT rely_VBP on_IN frequent_JJ itemset_NN discovery_NN increases_VBZ exponentially_RB as_IN a_DT function_NN of_IN the_DT number_NN of_IN dimensions_NNS since_IN increased_VBN dimensionality_NN will_MD increase_VB the_DT number_NN of_IN frequent_JJ itemsets_NNS =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN contrast_NN ,_, the_DT proposed_VBN approach_NN is_VBZ always_RB able_JJ to_TO find_VB the_DT perfect-predictor_JJ feature_NN set_VBN regardless_RB of_IN the_DT value_NN of_IN used_VBN ._.
+In_IN experimentation_NN ,_, we_PRP varied_VBD from_IN 5_CD to_TO 1,000_CD ._.
+Note_VB that_IN when_WRB ,_, the_DT perfe_NN

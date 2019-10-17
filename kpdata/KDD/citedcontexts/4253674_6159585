@@ -1,0 +1,4 @@
+pling_NN techniques_NNS -LRB-_-LRB- Leskovec_NNP and_CC Faloutsos_NNP ,_, 2006_CD -RRB-_-RRB- ._.
+7sExploiting_VBG the_DT graph_NN structure_NN also_RB helps_VBZ us_PRP improve_VB on_IN various_JJ machine_NN learning_NN tasks_NNS ._.
+For_IN example_NN ,_, in_IN a_DT web_NN search_NN application_NN we_PRP recently_RB showed_VBD -LRB-_-LRB- =_JJ -_: =_JJ Leskovec_NNP et_FW al._FW ,_, 2007_CD -_: =_SYM -_: b_LS -RRB-_-RRB- that_IN by_IN exploiting_VBG the_DT graph_NN structure_NN of_IN the_DT Web_NN one_PRP can_MD predict_VB the_DT quality_NN of_IN the_DT obtained_VBN search_NN results_NNS and_CC the_DT amount_NN of_IN spam_NN web-pages_NNS in_IN the_DT search_NN results_NNS ._.
+Similarly_RB ,_, measurements_NNS and_CC mode_NN

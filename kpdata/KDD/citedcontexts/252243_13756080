@@ -1,0 +1,5 @@
+ing_NN clusters_NNS in_IN which_WDT a_DT natural_JJ correspondence_NN can_MD be_VB maintained_VBN among_IN the_DT clusters_NNS across_IN different_JJ snapshots_NNS ._.
+This_DT broad_JJ technique_NN is_VBZ referred_VBN to_TO as_IN temporal_JJ smoothing_NN ._.
+A_DT variety_NN of_IN techniques_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN designed_VBN for_IN determining_VBG evolutionary_JJ clusters_NNS using_VBG temporal_JJ smoothing_NN ._.
+However_RB ,_, these_DT techniques_NNS are_VBP inherently_RB designed_VBN for_IN the_DT homogeneous_JJ case_NN ._.
+For_IN heterogeneous_JJ networks_NNS ,_, we_PRP wish_VBP to_TO c_NN

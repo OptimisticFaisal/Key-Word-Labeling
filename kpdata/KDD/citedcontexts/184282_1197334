@@ -1,0 +1,6 @@
+e_LS proceed_VB to_TO use_VB simpler_JJR methods_NNS to_TO select_JJ features_NNS ._.
+It_PRP has_VBZ been_VBN proved_VBN repeatedly_RB that_IN the_DT Occam_NNP 's_POS razor_NN does_VBZ work_VB well_RB in_IN more_JJR cases_NNS than_IN not_RB ._.
+A_DT classical_JJ example_NN in_IN this_DT case_NN is_VBZ random_JJ projections_NNS =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP project_VBP the_DT data_NNS on_IN various_JJ random_JJ directions_NNS and_CC get_VB the_DT clustering_NN results_VBZ from_IN these_DT directions_NNS and_CC combine_VB the_DT results_NNS using_VBG the_DT following_JJ algorithm_NN ._.
+Table_NNP 1_CD ._.
+Aggregating_VBG Clusterings_NNS :_: The_DT Alg_NN

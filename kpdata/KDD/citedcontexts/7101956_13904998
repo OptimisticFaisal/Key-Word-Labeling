@@ -1,0 +1,4 @@
+._.
+One_CD potential_JJ application_NN of_IN nearest_JJS neighbor_NN regression_NN is_VBZ in_IN Collaborative_NNP Filtering_NNP ._.
+Neighborhood_NN based_JJ models_NNS have_VBP been_VBN shown_VBN to_TO be_VB useful_JJ for_IN predicting_VBG the_DT rating_NN a_DT user_NN would_MD give_VB to_TO an_DT item_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, in_IN a_DT user-based_JJ neighborhood_NN model_NN ,_, given_VBN a_DT user-item_JJ pair_NN for_IN which_WDT to_TO predict_VB a_DT rating_NN ,_, a_DT bit_NN vectorbased_JJ representation_NN can_MD be_VB used_VBN to_TO retrieve_VB similar_JJ users_NNS who_WP have_VBP rated_VBN the_DT same_JJ

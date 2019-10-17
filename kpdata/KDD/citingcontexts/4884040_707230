@@ -1,0 +1,4 @@
+optimization_NN problem_NN involving_VBG a_DT triple_JJ matrix_NN factorization_NN ._.
+-LRB-_-LRB- 23_CD -RRB-_-RRB- proposes_VBZ an_DT EM-like_JJ algorithm_NN based_VBN on_IN multiplicative_JJ updating_VBG rules_NNS and_CC -LRB-_-LRB- 21_CD -RRB-_-RRB- proposes_VBZ a_DT hard_JJ clustering_NN algorithm_NN for_IN binary_JJ data_NNS ._.
+=_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: extends_VBZ the_DT non-negative_JJ matrix_NN factorization_NN to_TO symmetric_JJ matrices_NNS and_CC shows_VBZ that_IN it_PRP is_VBZ equivalent_JJ to_TO the_DT Kernel_NNP K-means_NNS and_CC the_DT Laplacian-based_JJ spectral_JJ clustering_NN ._.
+Some_DT efforts_NNS on_IN latent_JJ variable_NN

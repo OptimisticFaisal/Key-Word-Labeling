@@ -1,0 +1,7 @@
+feature_NN as_IN the_DT other_JJ dimension_NN ._.
+This_DT enables_VBZ the_DT user_NN to_TO view_VB the_DT eect_NN of_IN the_DT feature_NN to_TO be_VB added_VBN ._.
+3_LS ._.
+VISUAL-FSSEMAPPLIEDTOTHELUNG_NNP IMAGE_NNP DATA_NNP SET_NNP We_PRP illustrate_VBP Visual-FSSEM_NN on_IN the_DT HRCT-lung_JJ data_NN set_NN -LRB-_-LRB- =_JJ -_: =_JJ 6_CD -_: =-]_CD ._.
+HRCT-lung_NN consists_VBZ of_IN 500_CD instances_NNS ._.
+Each_DT of_IN these_DT instances_NNS are_VBP represented_VBN by_IN 110_CD low-level_JJ continuous_JJ features_NNS measuring_VBG geometric_JJ ,_, gray_JJ level_NN and_CC texture_NN features_NNS ._.
+The_DT data_NN is_VBZ classied_JJ intosve_NN

@@ -1,0 +1,3 @@
+ith_JJ numeric_JJ variables_NNS Geoffrey_NNP I._NNP Webb_NNP School_NNP of_IN Computing_NNP and_CC Mathematics_NNP Deakin_NNP University_NNP Geelong_NNP ,_, Vic_NNP ._.
+3217_CD ,_, Australia_NNP webb@deakin.edu.au_NNP ABSTRACT_NN This_DT paper_NN further_RB develops_VBZ Aumann_NNP and_CC Lindell_NNP 's_POS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: proposal_NN for_IN a_DT variant_NN of_IN association_NN rules_NNS for_IN which_WDT the_DT consequent_JJ is_VBZ a_DT numeric_JJ variable_NN ._.
+It_PRP is_VBZ argued_VBN that_IN these_DT rules_NNS can_MD discover_VB useful_JJ interactions_NNS with_IN numeric_JJ data_NNS that_WDT can_MD not_RB be_VB discovered_VBN

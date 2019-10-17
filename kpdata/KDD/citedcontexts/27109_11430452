@@ -1,0 +1,4 @@
+algorithm_NN for_IN simultaneously_RB clustering_VBG several_JJ variables_NNS ._.
+Simultaneous_JJ clustering_NN is_VBZ mostly_RB known_VBN for_IN the_DT case_NN of_IN two_CD variables_NNS ,_, where_WRB it_PRP is_VBZ called_VBN two-way_JJ clustering_NN ,_, co-clustering_NN or_CC biclustering_NN =_JJ -_: =[_NN 63_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT advantage_NN of_IN simultaneous_JJ clustering_NN is_VBZ that_IN the_DT clustering_NN of_IN the_DT one_CD variable_NN informs_VBZ about_IN the_DT clustering_NN of_IN the_DT other_JJ ._.
+Simultaneous_JJ clustering_NN therefore_RB shows_VBZ the_DT local_JJ structure_NN of_IN the_DT data_NNS

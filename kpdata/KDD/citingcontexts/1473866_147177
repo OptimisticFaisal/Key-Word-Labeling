@@ -1,0 +1,4 @@
+2003_CD ACM_NNP 1-58113-737-0_CD \/_: 03\/0008_CD ..._: $_$ 5.00_CD ._.
+25_CD -RRB-_-RRB- ,_, the_DT merge\/purge_NN problem_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, duplicate_VB detection_NN -LRB-_-LRB- 15_CD ,_, 22_CD -RRB-_-RRB- ,_, hardening_VBG soft_JJ databases_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, reference_NN matching_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, and_CC entityname_NN clustering_NN and_CC matching_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Typically_RB ,_, standard_JJ string_NN similarity_NN metrics_NNS such_JJ as_IN edit_NN distance_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- or_CC vector-space_JJ cosine_NN similarity_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- are_VBP used_VBN to_TO determine_VB whether_IN two_CD values_NNS or_CC records_NNS are_VBP alike_RB enough_JJ to_TO be_VB duplicates_NNS ._.
+S_NN

@@ -1,0 +1,4 @@
+or_CC v_LS of_IN u_NN such_JJ that_IN v_LS ∈_NNP Di_NNP −_NNP 1_CD ._.
+This_DT is_VBZ obviously_RB not_RB the_DT case_NN in_IN real-world_JJ propagation_NN traces_NNS ,_, and_CC some_DT pre-processing_NN is_VBZ needed_VBN to_TO close_VB this_DT gap_NN between_IN the_DT model_NN and_CC the_DT real_JJ data_NNS -LRB-_-LRB- as_IN discussed_VBN in_IN =_JJ -_: =[_NN 47_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 45_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Another_DT practical_JJ limitation_NN of_IN the_DT EM-based_JJ method_NN is_VBZ discussed_VBN by_IN Goyal_NNP et_FW al._FW -LRB-_-LRB- 45_CD -RRB-_-RRB- ._.
+Empirically_RB they_PRP found_VBD that_IN the_DT seed_NN nodes_NNS picked_VBN by_IN the_DT greedy_JJ algorithm_NN --_: with_IN the_DT IC_NN model_NN and_CC probab_NN

@@ -1,0 +1,5 @@
+appropriate_JJ one_CD from_IN the_DT high_JJ number_NN of_IN existing_VBG similarity_NN measures_NNS can_MD be_VB time-consuming_JJ and_CC needs_VBZ massive_JJ domain_NN experience_NN ._.
+Alternatively_RB one_PRP can_MD learn_VB a_DT meta_NN similarity_NN measure_NN machinely_RB like_IN in_IN =_JJ -_: =[_NN 6_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT process_NN can_MD be_VB scaled_VBN to_TO large_JJ databases_NNS as_IN described_VBN in_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+In_IN this_DT section_NN we_PRP describe_VBP how_WRB we_PRP learned_VBD a_DT meta_NN similarity_NN measure_NN machinely_RB for_IN the_DT WePS-2_NNP Clustering_NNP Subtask_NNP ._.
+Our_PRP$ meta_NN similari_NNS

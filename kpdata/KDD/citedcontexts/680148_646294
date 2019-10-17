@@ -1,0 +1,5 @@
+main_JJ memory_NN ._.
+Faloutsos_NNP et_FW al._FW -LRB-_-LRB- 13_CD -RRB-_-RRB- investigated_VBD the_DT problem_NN of_IN fast_JJ discovery_NN of_IN connection_NN subgraphs_NNS which_WDT nicely_RB capture_VBP the_DT relationship_NN between_IN pairs_NNS of_IN nodes_NNS in_IN large_JJ social_JJ networks_NNS graphs_NNS ._.
+In_IN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Jeh_NNP and_CC Widom_NNP proposed_VBD the_DT problem_NN of_IN mining_VBG the_DT space_NN of_IN graph_NN properties_NNS ._.
+Besides_IN graph_NN mining_NN ,_, graph-based_JJ algorithms_NNS are_VBP applied_VBN to_TO cluster_VB large_JJ data_NNS sets_NNS ._.
+A_DT data_NN set_NN can_MD be_VB modeled_VBN as_IN a_DT graph_NN ,_,

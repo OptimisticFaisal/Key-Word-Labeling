@@ -1,0 +1,4 @@
+ment_NN corpus_NN ._.
+For_IN example_NN ,_, the_DT accuracy_NN of_IN document_NN clustering_NN can_MD not_RB be_VB expected_VBN to_TO be_VB very_RB good_JJ if_IN documents_NNS that_WDT are_VBP pre-classified_JJ as_IN different_JJ classes_NNS share_VBP many_JJ of_IN the_DT same_JJ features_NNS ,_, i.e._FW words_NNS -LRB-_-LRB- =_JJ -_: =_JJ Aggarwal_NNP et_FW al._FW ,_, 1999_CD -_: =-]_CD ._.
+On_IN the_DT other_JJ hand_NN ,_, two_CD documents_NNS that_WDT really_RB belong_VBP together_RB may_MD be_VB pre-classified_JJ as_IN different_JJ classes_NNS ._.
+Figure_NN 1_CD is_VBZ an_DT example_NN which_WDT illustrates_VBZ different_JJ decisions_NNS by_IN document_NN clustering_NN and_CC clas_NNS

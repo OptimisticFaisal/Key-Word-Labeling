@@ -1,0 +1,4 @@
+l_NN language_NN text_NN ._.
+Several_JJ researchers_NNS have_VBP investigated_VBN various_JJ techniques_NNS to_TO construct_VB conceptual_JJ hierarchies_NNS from_IN social_JJ metadata_NN ._.
+Most_JJS of_IN the_DT previous_JJ work_NN utilizes_VBZ tag_NN statistics_NNS as_IN evidence_NN ._.
+Mika_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ a_DT graph-based_JJ approach_NN to_TO construct_VB a_DT network_NN of_IN related_JJ tags_NNS ,_, projected_VBN from_IN either_CC a_DT user-tag_JJ or_CC object-tag_JJ association_NN graphs_NNS ;_: then_RB induces_VBZ broader\/narrower_NN relations_NNS using_VBG betweenness_NN centra_NNS

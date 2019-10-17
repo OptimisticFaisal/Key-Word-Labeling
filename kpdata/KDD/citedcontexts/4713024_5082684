@@ -1,0 +1,7 @@
+本文提出了一种异常检测新方法_NN ,_, 它基于TCM-KNN_NN -LRB-_-LRB- transductive_JJ confidence_NN machines_NNS for_IN K-nearest_JJ neighbors_NNS -RRB-_-RRB- 算法_NN ._.
+该算法依据Kolmogorov的算法随机性理论_NN ,_, 是一种有效的基_NN 于置信度机制的机器学习方法_NN ,_, 已经广泛地应用于模式识别_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- 、_FW 欺诈检测_FW -LRB-_-LRB- fraud_NN detection_NN -RRB-_-RRB- 及_NN ``_`` 离群点_NN ''_'' 检测_NN -LRB-_-LRB- outlier_NN detection_NN -RRB-_-RRB- =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: 等领域_NN ,_, 并取得了较好的实践效果_NN ._.
+本文首次将其应用于入侵检测的异常检测领域_RB ,_, 并对其进_FW 行了改进_FW ._.
+通过大量基于著名的KDD_NNP Cup_NNP 1999_CD 数据集的实验测试_NNP ,_, 验证了其有效性_NNP ._.
+该方法与其他同类异常检_FW 测方法相比_FW ,_, 可以在保证高检测率的前提下_NN ,_, 极大地减少误报率_NN ._.
+更为重要的是_NNP ,_, 在训练集存在_NNP ``_`` 噪音_NNP ''_'' 数据的干_NNP 扰_NNP ,_, 以及在仅有_NNP ``_`` 小样本_NN ''_'' 训练集的环境中_NN ,_, 其均能保证较高的检测性能_NN ._.
+本文第_NN 1_CD 节介绍_FW TCM-KN_FW

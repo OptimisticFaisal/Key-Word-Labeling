@@ -1,0 +1,4 @@
+thms_NNS designed_VBN for_IN data_NNS streams_NNS were_VBD proposed_VBN recently_RB ._.
+They_PRP either_RB maintain_VBP a_DT single_JJ model_NN incrementally_RB ,_, or_CC an_DT ensemble_NN of_IN base_NN learners_NNS ._.
+Work_NN belonging_VBG to_TO the_DT first_JJ category_NN includes_VBZ Hoeffding_JJ tree_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT grows_VBZ a_DT decision_NN tree_NN node_NN by_IN splitting_NN an_DT attribute_NN only_RB when_WRB that_DT attribute_NN is_VBZ statistically_RB predictive_JJ ._.
+The_DT statistics_NNS is_VBZ recorded_VBN and_CC periodically_RB checked_VBD to_TO discover_VB possible_JJ concept_NN chan_NN

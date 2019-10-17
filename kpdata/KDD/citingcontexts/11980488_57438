@@ -1,0 +1,4 @@
+G_NN 3_CD Figure_NNP 1_CD :_: Three_CD subgraph_JJ features_NNS in_IN three_CD graphs_NNS ._.
+Dashed_VBN edge_NN means_VBZ that_IN the_DT two_CD nodes_NNS are_VBP connected_VBN by_IN a_DT path_NN with_IN varying_VBG length_NN -RRB-_-RRB- 1_CD ._.
+base_NN learners_NNS -RRB-_-RRB- to_TO obtain_VB high_JJ quality_NN classification_NN models_NNS =_JJ -_: =[_NN 7_CD ,_, 9_CD ,_, 34_CD ,_, 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Recently_RB ,_, the_DT boosting_VBG algorithm_NN has_VBZ been_VBN successfully_RB extended_VBN to_TO tasks_NNS such_JJ as_IN multi-class_JJ classification_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, multi-label_JJ classification_NN -LRB-_-LRB- 39_CD -RRB-_-RRB- ,_, cost_NN sensitive_JJ learning_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ,_, semi-supervised_JJ learn_VBP

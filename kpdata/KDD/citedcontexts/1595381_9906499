@@ -1,0 +1,4 @@
+ine_VB them_PRP into_IN a_DT single_JJ classifier_NN ._.
+To_TO aid_VB machine_NN learning_NN development_NN ,_, researchers_NNS have_VBP explored_VBN visualizing_VBG specific_JJ machine_NN learning_NN algorithms_NNS ,_, including_VBG naïve-Bayes_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, decision_NN trees_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, SVMs_NNS =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC HMMs_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+A_DT previous_JJ study_NN by_IN Ware_NNP et_FW al._FW has_VBZ shown_VBN that_IN such_JJ tools_NNS can_MD produce_VB better_JJR classifiers_NNS than_IN automatic_JJ techniques_NNS -LRB-_-LRB- 36_CD -RRB-_-RRB- ._.
+Since_IN these_DT visualizations_NNS and_CC interaction_NN techniques_NNS are_VBP tied_VBN

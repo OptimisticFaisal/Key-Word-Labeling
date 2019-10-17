@@ -1,0 +1,5 @@
+e_LS build_VB a_DT generative_JJ model_NN for_IN each_DT data_NN set_NN ,_, learning_VBG the_DT parameters_NNS using_VBG maximum_NN likelihood_NN and_CC expectation_NN maximization_NN ._.
+We_PRP used_VBD the_DT version_NN of_IN the_DT Epinions_NNP data_NNS set_VBD 3_CD published_VBN by_IN the_DT authors_NNS of_IN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT data_NNS set_NN contains_VBZ 22K_NN users_NNS ,_, 30K_CD items_NNS ,_, 108K_CD ratings_NNS ,_, and_CC 117K_CD social_JJ relations_NNS between_IN users_NNS ._.
+The_DT timestamps_NNS in_IN the_DT data_NNS set_VBP range_NN from_IN 2001\/01\/17_CD to_TO 2002\/02\/01_CD ._.
+Flickr.com_NN is_VBZ an_DT online_JJ photo_NN s_NN

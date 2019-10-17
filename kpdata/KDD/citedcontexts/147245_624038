@@ -1,0 +1,4 @@
+eturns_VBZ the_DT result_NN of_IN the_DT majority_NN of_IN the_DT classifiers_NNS ._.
+2_LS -RRB-_-RRB- unanimous_JJ decision_NN :_: if_IN all_DT classifiers_NNS give_VBP us_PRP the_DT same_JJ result_NN -LRB-_-LRB- either_CC +1_CD or_CC -1_CD -RRB-_-RRB- ,_, Meta_NN returns_NNS this_DT result_NN ,_, 0_CD otherwise_RB ._.
+3_LS -RRB-_-RRB- weighted_JJ averaging_NN =_JJ -_: =[_NN 43_CD -RRB-_-RRB- -_: =_JJ -_: :_: Meta_NN weighs_VBZ the_DT classifiers_NNS by_IN using_VBG some_DT predetermined_JJ quality_NN estimator_NN ,_, e.g._FW ,_, a_DT leaveone-out_NN or_CC k-fold-crossvalidation_NN estimator_NN for_IN each_DT vi_LS ._.
+The_DT restrictive_JJ and_CC tunable_JJ behavior_NN is_VBZ achieved_VBN by_IN t_NN

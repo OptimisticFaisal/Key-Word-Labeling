@@ -1,0 +1,5 @@
+MT_NN record_NN is_VBZ assigned_VBN a_DT penalty_NN equal_JJ to_TO the_DT cardinality_NN of_IN its_PRP$ anonymized_JJ group_NN ._.
+The_DT DM_NN of_IN AT_NNP is_VBZ defined_VBN as_IN the_DT sum_NN of_IN penalties_NNS of_IN all_DT MT_FW tuples_FW ._.
+According_VBG to_TO the_DT normalized_VBN certainty_NN penalty_NN -LRB-_-LRB- NCP_NN -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT information_NN loss_NN for_IN a_DT record_NN is_VBZ equal_JJ to_TO the_DT perimeter_NN of_IN its_PRP$ G-box_NN ._.
+The_DT NCP_NN of_IN the_DT AT_NNP is_VBZ defined_VBN as_IN the_DT sum_NN of_IN the_DT information_NN loss_NN for_IN every_DT MT_NN record_NN ._.
+For_IN instance_NN ,_, the_DT NCP_NN of_IN AT_NNP in_IN Figure_NNP 2_CD

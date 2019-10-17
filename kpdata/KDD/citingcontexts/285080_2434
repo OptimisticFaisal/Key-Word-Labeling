@@ -1,0 +1,6 @@
+er_NN of_IN unknown_JJ neighbors_NNS of_IN X_NN i_FW ._.
+If_IN this_DT number_NN is_VBZ small_JJ -LRB-_-LRB- e.g._FW ,_, 5_CD -RRB-_-RRB- ,_, this_DT should_MD not_RB be_VB a_DT problem_NN ;_: otherwise_RB ,_, an_DT approximate_JJ solution_NN is_VBZ necessary_JJ ._.
+A_DT standard_JJ method_NN for_IN this_DT purpose_NN is_VBZ Gibbs_NNP sampling_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT alternative_NN based_VBN on_IN an_DT ecient_JJ k-shortest-path_NN algorithm_NN is_VBZ proposed_VBN in_IN Chakrabarti_NNP et_FW al._FW -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Given_VBN N_NN i_FW and_CC Y_NN ,_, X_NN i_FW should_MD be_VB independent_JJ of_IN the_DT marketing_NN actions_NNS for_IN other_JJ customers_NNS ._.
+Assuming_VBG a_DT

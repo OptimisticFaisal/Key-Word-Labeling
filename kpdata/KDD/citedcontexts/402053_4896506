@@ -1,0 +1,4 @@
+of_IN the_DT property_NN of_IN points_NNS seen_VBN so_RB far_RB ,_, a_DT new_JJ point_NN is_VBZ considered_VBN to_TO be_VB novel_JJ if_IN it_PRP is_VBZ too_RB far_RB away_RB from_IN the_DT rest_NN points_NNS in_IN the_DT feature_NN space_NN ._.
+There_EX are_VBP many_JJ existing_VBG algorithms_NNS for_IN novelty_NN detection_NN =_JJ -_: =[_NN 18_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, most_JJS of_IN them_PRP are_VBP either_RB incapable_JJ of_IN operating_VBG in_IN the_DT feature_NN space_NN or_CC have_VB large_JJ computational_JJ complexities_NNS making_VBG them_PRP inapplicable_JJ for_IN data_NNS streams_NNS ._.
+Our_PRP$ objective_NN is_VBZ to_TO develop_VB an_DT effici_NN

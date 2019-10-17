@@ -1,0 +1,4 @@
+y_NN propose_VBP is_VBZ very_RB specific_JJ and_CC works_VBZ only_RB for_IN the_DT itemset_NN pattern_NN ._.
+Though_IN sampling_NN output_NN space_NN is_VBZ relatively_RB novel_JJ ,_, sampling_NN input_NN space_NN i.e._FW ,_, the_DT data_NNS ,_, has_VBZ a_DT long_JJ history_NN in_IN frequent_JJ pattern_NN mining_NN =_JJ -_: =[_NN 28_CD ,_, 9_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT algorithms_NNS generally_RB find_VBP prospective_JJ candidate_NN patterns_NNS from_IN a_DT small_JJ sample_NN of_IN the_DT entire_JJ transaction-set_NN ,_, so_IN that_IN the_DT support_NN counting_NN can_MD be_VB performed_VBN efficiently_RB ._.
+Sometimes_RB ,_, the_DT frequent_JJ p_NN

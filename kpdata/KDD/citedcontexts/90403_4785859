@@ -1,0 +1,5 @@
+f_LS examples_NNS ._.
+Methods_NNS for_IN finding_VBG frequent_JJ patterns_NNS -LRB-_-LRB- itemsets_NNS ,_, datalog_NN queries_NNS -RRB-_-RRB- can_MD be_VB employed_VBN ._.
+In_IN our_PRP$ work_NN we_PRP follow_VBP the_DT latter_JJ ._.
+2.1_CD Frequent_JJ patterns_NNS Recently_RB ,_, emerging_VBG patterns_NNS have_VBP been_VBN introduced_VBN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: and_CC shown_VBN to_TO be_VB useful_JJ as_IN new_JJ features_NNS in_IN learning_NN ._.
+Having_VBG two_CD datasets_NNS D1_NN and_CC D2_NN the_DT growth_NN rate_NN of_IN an_DT itemset_FW i_FW in_IN favor_NN of_IN D1_NN is_VBZ defined_VBN as_IN g_NN =_JJ support_NN D1_NN -LRB-_-LRB- i_LS -RRB-_-RRB- support_NN D2_NN -LRB-_-LRB- i_LS -RRB-_-RRB- An_DT emerging_VBG pattern_NN -LRB-_-LRB- EP_NN

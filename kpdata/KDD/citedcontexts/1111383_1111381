@@ -1,0 +1,4 @@
+a._NN Finally_RB ,_, we_PRP give_VBP the_DT conclusions_NNS in_IN section_NN 4_CD ._.
+1.1_CD More_JJR Related_JJ Work_NN The_DT most_RBS closely_RB related_JJ work_NN to_TO ours_PRP is_VBZ -LRB-_-LRB- 16_CD -RRB-_-RRB- as_IN discussed_VBN above_IN ._.
+Another_DT popular_JJ technique_NN using_VBG unlabeled_JJ data_NNS is_VBZ co-training_NN =_JJ -_: =[_NN 1_CD ,_, 7_CD ,_, 8_CD ,_, 15_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT use_VBP two_CD complementary_JJ predictors_NNS to_TO iteratively_RB label_VB the_DT unlabeled_JJ data_NNS ._.
+Clearly_RB ,_, these_DT cotraining_VBG based_VBN approaches_NNS are_VBP different_JJ from_IN our_PRP$ proposed_VBN technique_NN and_CC are_VBP not_RB specially_RB designed_VBN to_TO

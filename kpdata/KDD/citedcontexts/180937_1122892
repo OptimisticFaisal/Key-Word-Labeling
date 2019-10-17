@@ -1,0 +1,5 @@
+set_NN ,_, which_WDT prohibits_VBZ EM_NN from_IN large_JJ databases_NNS ._.
+There_EX are_VBP three_CD approaches_NNS to_TO scale-up_JJ classic_JJ clustering_NN algorithms_NNS such_JJ as_IN EM_NN ._.
+Random_JJ sampling_NN is_VBZ easy_JJ to_TO implement_VB ,_, but_CC often_RB brings_VBZ about_IN inaccuracy_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT weighted_JJ sampling_NN uses_VBZ a_DT weighted_JJ -LRB-_-LRB- pseudo_JJ -RRB-_-RRB- sample_NN to_TO represent_VB a_DT group_NN of_IN data_NNS item_NN -LRB-_-LRB- 5_CD ,_, 13_CD -RRB-_-RRB- ,_, and_CC requires_VBZ slight_JJ modification_NN on_IN the_DT classical_JJ clustering_NN techniques_NNS ._.
+However_RB ,_, as_IN shown_VBN in_IN Section_NN

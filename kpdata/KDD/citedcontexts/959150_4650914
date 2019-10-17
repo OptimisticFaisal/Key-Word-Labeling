@@ -1,0 +1,4 @@
+mine_VB a_DT single_JJ dataset_NN materialized_VBD as_IN a_DT multirelation_NN in_IN a_DT database_NN system_NN ._.
+Finally_RB ,_, a_DT number_NN of_IN researchers_NNS have_VBP developed_VBN techniques_NNS for_IN mining_VBG the_DT difference_NN or_CC contrast_NN sets_NNS between_IN the_DT datasets_NN =_JJ -_: =[_NN 4_CD ,_, 12_CD ,_, 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Their_PRP$ goal_NN is_VBZ to_TO develop_VB efficient_JJ algorithms_NNS for_IN finding_VBG such_PDT a_DT difference_NN ,_, and_CC they_PRP have_VBP primarily_RB focused_VBN on_IN analyzing_NN two_CD datasets_NNS at_IN a_DT time_NN ._.
+In_IN comparison_NN ,_, we_PRP have_VBP provided_VBN a_DT general_JJ framework_NN

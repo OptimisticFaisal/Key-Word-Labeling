@@ -1,0 +1,5 @@
+priori_FW the_DT period_NN of_IN this_DT pattern_NN --_: in_IN fact_NN ,_, we_PRP can_MD not_RB even_RB assume_VB a_DT regular_JJ period_NN ._.
+To_TO discover_VB the_DT patterns_NNS in_IN the_DT behavior_NN of_IN state_NN statistics_NNS ,_, we_PRP use_VBP the_DT Tarzan_NNP algorithm_NN for_IN analyzing_VBG time_NN series_NN =_JJ -_: =[_NN 78_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN each_DT state_NN statistic_NN of_IN a_DT node_NN ,_, we_PRP keep_VBP an_DT N-length_JJ history_NN or_CC time-series_NNS of_IN the_DT statistic_NN ._.
+We_PRP discretize_VBP this_DT time-series_NNS into_IN a_DT binary_JJ string_NN ._.
+To_TO discover_VB anomalies_NNS ,_, Tarzan_NNP counts_VBZ the_DT relativ_NN

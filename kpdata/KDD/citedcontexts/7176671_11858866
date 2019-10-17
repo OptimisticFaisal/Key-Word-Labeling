@@ -1,0 +1,4 @@
+ecently_RB there_EX has_VBZ been_VBN significant_JJ interest_NN in_IN extracting_VBG relations_NNS from_IN the_DT Web_NN ._.
+In_IN this_DT problem_NN ,_, relations_NNS such_JJ as_IN what_WP ``_`` company_NN ''_'' is_VBZ headquartered_VBN in_IN what_WP ``_`` city_NN ,_, ''_'' are_VBP extracted_VBN from_IN Web_NN text_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 2_CD ,_, 18_CD ,_, 4_CD ,_, 1_CD ,_, 15_CD ,_, 22_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, structured_JJ Web_NN data_NNS such_JJ as_IN lists_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 11_CD ,_, 9_CD -RRB-_-RRB- -RRB-_-RRB- ,_, or_CC queries_NNS to_TO the_DT Deep_JJ Web_NN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 20_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+In_IN all_DT cases_NNS ,_, the_DT goal_NN is_VBZ to_TO generate_VB a_DT single_JJ table_NN of_IN extractions_NNS for_IN each_DT relation_NN ._.
+However_RB ,_, previous_JJ

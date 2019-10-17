@@ -1,0 +1,3 @@
+al_FW embedding_NN of_IN high-dimensional_JJ data_NNS ._.
+So_RB far_RB ,_, these_DT methods_NNS have_VBP mostly_RB been_VBN used_VBN for_IN exploratory_JJ tasks_NNS such_JJ as_IN visualization_NN ,_, but_CC they_PRP have_VBP also_RB been_VBN successfully_RB applied_VBN to_TO classification_NN problems_NNS =_JJ -_: =[_NN 5_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT dimension_NN of_IN the_DT embedding_NN is_VBZ a_DT key_JJ parameter_NN for_IN manifold_NN projection_NN methods_NNS :_: if_IN the_DT dimension_NN is_VBZ too_RB small_JJ ,_, important_JJ data_NNS features_NNS are_VBP ``_`` collapsed_JJ ''_'' onto_IN the_DT same_JJ dimension_NN ,_, and_CC if_IN the_DT dimensio_NN

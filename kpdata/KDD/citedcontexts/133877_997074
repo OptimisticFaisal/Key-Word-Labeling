@@ -1,0 +1,5 @@
+In_IN the_DT example_NN shown_VBN in_IN Figure_NNP 1_CD ._.
+&_CC -LRB-_-LRB- ,_, -RRB-_-RRB- =_JJ =_JJ 0_CD ._.
+57_CD 4_CD +_CC 3_CD x_NN SW_NN P_NN a_DT b_NN 3.3.3_CD Document_NNP Clustering_NNP Algorithms_NNPS There_EX has_VBZ been_VBN large_JJ interest_NN in_IN this_DT problem_NN in_IN the_DT Information_NNP Retrieval_NNP community_NN -LRB-_-LRB- Fis87_NN -RRB-_-RRB- ,_, =_JJ -_: =_JJ -LRB-_-LRB- AGY99_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ problem_NN is_VBZ more_RBR specific_JJ since_IN we_PRP are_VBP clustering_VBG Web_NN documents_NNS -LRB-_-LRB- ZE98_NN -RRB-_-RRB- ,_, and_CC take_VB links_NNS into_IN account_NN -LRB-_-LRB- K99_NN -RRB-_-RRB- ._.
+Since_IN we_PRP are_VBP working_VBG with_IN categorical_JJ data_NNS we_PRP need_VBP a_DT distance_NN or_CC similarity_NN measure_NN and_CC

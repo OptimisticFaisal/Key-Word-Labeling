@@ -1,0 +1,4 @@
+``_`` metal_NN ''_'' ._.
+In_IN this_DT situation_NN ,_, the_DT auxiliary_JJ data_NNS can_MD be_VB used_VBN to_TO help_VB uncover_VB a_DT better_JJR data_NN representation_NN to_TO benefit_VB the_DT target_NN data_NN set_NN ._.
+Our_PRP$ approach_NN to_TO tackling_VBG this_DT problem_NN is_VBZ by_IN using_VBG coclustering_NN -LRB-_-LRB- =_JJ -_: =_JJ Dhillon_NNP et_FW al._FW ,_, 2003_CD -_: =--RRB-_NN ,_, so_IN that_IN the_DT commonality_NN can_MD be_VB found_VBN in_IN the_DT feature_NN spaces_NNS that_WDT corresponds_VBZ to_TO similar_JJ semantic_JJ meanings_NNS ._.
+In_IN our_PRP$ solution_NN to_TO the_DT self-taught_JJ clustering_NN problem_NN ,_, two_CD clustering_NN operations_NNS ,_, on_IN the_DT ta_NN

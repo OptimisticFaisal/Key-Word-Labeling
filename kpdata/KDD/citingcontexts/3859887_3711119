@@ -1,0 +1,5 @@
+nsactions_NNS ;_: ``_`` S_NN ''_'' means_VBZ semantically_RB similar_JJ patterns_NNS ._.
+We_PRP exclude_VBP 12_CD most_RBS frequent_JJ and_CC non-informative_JJ English_JJ words_NNS from_IN the_DT collection_NN when_WRB extracting_VBG frequent_JJ patterns_NNS ._.
+Ontology_NN -LRB-_-LRB- GO_NN -RRB-_-RRB- terms_NNS with_IN motifs_NNS =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Usually_RB ,_, each_DT protein_NN sequence_NN ,_, which_WDT contains_VBZ a_DT number_NN of_IN motifs_NNS ,_, is_VBZ assigned_VBN a_DT set_NN of_IN GO_NN terms_NNS that_WDT annotate_VBP its_PRP$ functions_NNS ._.
+The_DT goal_NN of_IN the_DT problem_NN is_VBZ to_TO automatically_RB match_VB each_DT individual_JJ motif_NN

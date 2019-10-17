@@ -1,0 +1,4 @@
+single_JJ label_NN is_VBZ of_IN little_JJ help_NN for_IN the_DT discretization_NN of_IN the_DT numerical_JJ values_NNS ._.
+Recently_RB ,_, the_DT Symbolic_JJ Approximation_NN -LRB-_-LRB- SAX_NN -RRB-_-RRB- has_VBZ been_VBN proposed_VBN in_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+Based_VBN on_IN the_DT Piecewise_FW Aggregate_FW Aggregation_NN -LRB-_-LRB- PAA_NN -RRB-_-RRB- =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT assumption_NN of_IN normality_NN of_IN the_DT resulting_VBG aggregated_JJ values_NNS ,_, a_DT method_NN similar_JJ to_TO equal_JJ frequency_NN histograms_NNS is_VBZ obtained_VBN ._.
+SAX_NNP is_VBZ the_DT first_JJ symbolic_JJ representation_NN of_IN time_NN series_NN with_IN an_DT approxi_NN

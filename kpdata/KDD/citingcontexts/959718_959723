@@ -1,0 +1,4 @@
+the_DT web_NN in_IN order_NN to_TO mine_VB significant_JJ patterns_NNS ._.
+We_PRP will_MD achieve_VB this_DT goal_NN by_IN utilizing_VBG the_DT logs_NNS of_IN user_NN access_NN behavior_NN on_IN public_JJ domain_NN proxies_NNS ._.
+An_DT example_NN of_IN such_PDT a_DT public-domain_NN proxy_NN is_VBZ the_DT Squid_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: proxy_JJ cache_NN ,_, which_WDT is_VBZ a_DT set_NN of_IN large_JJ hierarchical_JJ caches_NNS on_IN the_DT web_NN which_WDT is_VBZ capable_JJ of_IN improving_VBG the_DT latency_NN performances_NNS of_IN different_JJ geographical_JJ regions_NNS ._.
+The_DT access_NN patterns_NNS of_IN these_DT systems_NNS are_VBP

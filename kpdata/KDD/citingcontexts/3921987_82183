@@ -1,0 +1,5 @@
+._.
+have_VBP tried_VBN character-level_JJ n-gram_NN modeling_NN for_IN various_JJ text_NN classification_NN tasks_NNS -LRB-_-LRB- 47_CD -RRB-_-RRB- ._.
+To_TO achieve_VB a_DT decent_JJ performance_NN ,_, one_CD needs_VBZ to_TO choose_VB an_DT appropriate_JJ order_NN n_NN and_CC employ_VB a_DT good_JJ smoothing_NN method_NN =_JJ -_: =[_NN 71_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Markov_NNP chain_NN models_NNS in_IN variable_JJ order_NN adjust_VBP the_DT memory_NN length_NN according_VBG to_TO the_DT context_NN ,_, hence_RB they_PRP are_VBP much_RB more_RBR flexible_JJ and_CC robust_JJ than_IN fixed_JJ order_NN Markov_NNP chain_NN models_NNS ._.
+The_DT amnesic_JJ probabilistic_NN

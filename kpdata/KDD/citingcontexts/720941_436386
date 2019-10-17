@@ -1,0 +1,5 @@
+to_TO gene_NN location_NN ,_, each_DT gene_NN has_VBZ 13_CD boolean_JJ attributes_NNS indicating_VBG gene_NN function_NN ._.
+Each_DT gene_NN may_MD have_VB as_RB many_JJ as_IN six_CD functions_NNS ._.
+For_IN non-collective_JJ models_NNS ,_, we_PRP used_VBD relational_JJ Bayesian_JJ classifiers_NNS -LRB-_-LRB- RBCs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: to_TO predict_VB gene_NN location_NN given_VBN the_DT function_NN attributes_NNS ._.
+The_DT Intrinsic_JJ model_NN considered_VBD the_DT 13_CD function_NN attributes_NNS on_IN the_DT genes_NNS themselves_PRP ._.
+The_DT R1_NN model_NN added_VBD another_DT 13_CD function_NN attributes_NNS for_IN genes_NNS

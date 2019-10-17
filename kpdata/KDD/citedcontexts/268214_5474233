@@ -1,0 +1,4 @@
+Human_JJ effects_NNS -LRB-_-LRB- or_CC other_JJ programs_NNS -RRB-_-RRB- are_VBP needed_VBN to_TO find_VB the_DT training_NN pages_NNS -LRB-_-LRB- 3_CD ,_, 4_CD -RRB-_-RRB- and\/or_CC to_TO manually_RB label_VB the_DT training_NN pages_NNS -LRB-_-LRB- 1_CD ,_, 2_CD -RRB-_-RRB- ._.
+There_EX have_VBP been_VBN some_DT automatic_JJ systems_NNS that_WDT do_VBP not_RB require_VB labeling_NN =_JJ -_: =[_NN 3_CD ,_, 6_CD -RRB-_-RRB- -_: =_JJ -_: but_CC their_PRP$ performance_NN on_IN repetitive_JJ data_NNS record_NN detection_NN is_VBZ not_RB satisfactory_JJ ._.
+RoadRunner_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- requires_VBZ at_IN least_JJS two_CD training_NN pages_NNS with_IN different_JJ numbers_NNS of_IN data_NNS records_NNS ._.
+If_IN the_DT training_NN pages_NNS have_VBP t_NN

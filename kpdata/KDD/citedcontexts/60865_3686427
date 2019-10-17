@@ -1,0 +1,4 @@
+rse_NN of_IN documents_NNS does_VBZ not_RB need_VB to_TO be_VB known_VBN ._.
+Especially_RB for_IN their_PRP$ methodology_NN it_PRP would_MD have_VB been_VBN interesting_JJ to_TO see_VB the_DT performance_NN on_IN a_DT separate_JJ test_NN data_NNS set_VBD that_DT was_VBD not_RB used_VBN for_IN training_NN ._.
+Joachims_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: presented_VBD an_DT approach_NN to_TO automatically_RB optimize_VB the_DT retrieval_NN quality_NN of_IN search_NN engines_NNS using_VBG clickthrough_JJ data_NNS ._.
+He_PRP rephrased_VBD the_DT problem_NN of_IN learning_VBG a_DT linear_JJ ranking_NN as_IN one_CD of_IN binary_JJ classification_NN

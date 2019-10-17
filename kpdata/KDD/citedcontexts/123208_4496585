@@ -1,0 +1,5 @@
+ts_NNS as_IN probabilities_NNS that_IN those_DT edges_NNS exist_VBP and_CC which_WDT can_MD handle_VB illegal_JJ paths_NNS ._.
+In_IN this_DT section_NN we_PRP present_VBP the_DT weight-based_JJ model_NN -LRB-_-LRB- WM_NN -RRB-_-RRB- which_WDT is_VBZ a_DT simplification_NN of_IN PM_NNP ._.
+Other_JJ models_NNS can_MD be_VB derived_VBN from_IN =_JJ -_: =[_NN 11_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+WM_NNP is_VBZ a_DT very_RB intuitive_JJ model_NN ,_, which_WDT is_VBZ suited_VBN well_RB for_IN illustrating_VBG issues_NNS related_VBN to_TO computing_NN c_NN -LRB-_-LRB- u_NN ,_, v_LS -RRB-_-RRB- ._.
+WM_FW computes_FW c_NN -LRB-_-LRB- u_NN ,_, v_LS -RRB-_-RRB- as_IN the_DT sum_NN p_NN ∈_CD PL_NN -LRB-_-LRB- u_NN ,_, v_LS -RRB-_-RRB- c_NN -LRB-_-LRB- p_NN -RRB-_-RRB- of_IN the_DT connection_NN strength_NN c_NN -LRB-_-LRB- p_NN -RRB-_-RRB- of_IN each_DT path_NN p_NN

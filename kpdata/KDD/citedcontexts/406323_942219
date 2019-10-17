@@ -1,0 +1,5 @@
+ted_VBN weblog_NN B_NN ,_, even_RB when_WRB A_NN and_CC B_NN are_VBP not_RB hyperlinked_VBN ._.
+This_DT transition_NN requires_VBZ additional_JJ steps_NNS -LRB-_-LRB- i.e._FW a_DT recommendation_NN engine_NN that_WDT suggests_VBZ ``_`` similar_JJ ''_'' posts_NNS -RRB-_-RRB- ,_, but_CC is_VBZ feasible_JJ with_IN existing_VBG technologies_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+sWe_NN create_VB implicit_JJ links_NNS by_IN setting_VBG thresholds_NNS in_IN the_DT similarity_NN factors_NNS ._.
+The_DT thresholds_NNS have_VBP been_VBN set_VBN up_RP experimentally_RB and_CC possibly_RB need_VB further_JJ tuning_NN ._.
+Moreover_RB ,_, we_PRP adjust_VBP the_DT four_CD weights_NNS in_IN for_IN

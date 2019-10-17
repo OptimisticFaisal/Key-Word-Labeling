@@ -1,0 +1,3 @@
+to_TO modify_VB the_DT classification_NN algorithms_NNS used_VBN to_TO correct_VB for_IN this_DT noise_NN ,_, it_PRP has_VBZ been_VBN shown_VBN that_IN linear_JJ classifiers_NNS such_JJ as_IN Perceptron_NNP -LRB-_-LRB- with_IN some_DT modifications_NNS -RRB-_-RRB- can_MD learn_VB from_IN examples_NNS with_IN label_NN noise_NN =_JJ -_: =[_NN 8_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN practice_NN linear_NN classifiers_NNS are_VBP often_RB able_JJ to_TO learn_VB well_RB in_IN the_DT presence_NN of_IN classification_NN noise_NN ._.
+Based_VBN on_IN the_DT assumptions_NNS made_VBN about_IN the_DT distribution_NN of_IN forgotten_VBN purchases_NNS in_IN the_DT dataset_NN ,_, we_PRP ca_MD

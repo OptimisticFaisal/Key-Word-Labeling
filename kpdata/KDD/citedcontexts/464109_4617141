@@ -1,0 +1,4 @@
+ent_JJ way_NN of_IN computing_VBG several_JJ Sγ_NN is_VBZ clear_JJ ._.
+In_IN this_DT paragraph_NN ,_, we_PRP aim_VBP at_IN empirically_RB proving_VBG that_IN the_DT regularization_NN path_NN algorithm_NN we_PRP propose_VBP is_VBZ very_RB efficient_JJ even_RB compared_VBN to_TO a_DT warm-restart_JJ approach_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Remember_VB that_IN a_DT warm-restart_JJ approach_NN consists_VBZ of_IN using_VBG the_DT Lagrangian_JJ multipliers_NNS obtained_VBN for_IN a_DT previous_JJ value_NN of_IN λ_NN for_IN initializing_VBG the_DT QP_NN problem_NN with_IN a_DT new_JJ value_NN of_IN λ_NN ._.
+DeCoste_NNP et_FW al._FW -LRB-_-LRB- 6_CD -RRB-_-RRB- has_VBZ pr_NN

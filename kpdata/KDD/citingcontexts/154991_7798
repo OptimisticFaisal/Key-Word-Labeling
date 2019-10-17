@@ -1,0 +1,4 @@
+._.
+Because_IN the_DT initial_JJ centroids_NNS are_VBP randomly_RB selected_VBN ,_, the_DT resulting_VBG clusters_NNS vary_VBP in_IN quality_NN ._.
+Some_DT sets_NNS of_IN initial_JJ centroids_NNS lead_VBP to_TO poor_JJ convergence_NN rates_NNS or_CC poor_JJ cluster_NN quality_NN ._.
+Bisecting_VBG K-means_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT variation_NN of_IN K-means_NNS ,_, begins_VBZ with_IN a_DT set_NN containing_VBG one_CD large_JJ cluster_NN consisting_VBG of_IN every_DT element_NN and_CC iteratively_RB picks_VBZ the_DT largest_JJS cluster_NN in_IN the_DT set_NN ,_, splits_VBZ it_PRP into_IN two_CD clusters_NNS and_CC replaces_VBZ it_PRP b_SYM

@@ -1,0 +1,3 @@
+ace_NN -LRB-_-LRB- 23_CD ,_, 7_CD -RRB-_-RRB- ,_, among_IN others_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP consider_VBP multi-label_JJ prediction_NN in_IN particular_JJ ,_, based_VBN on_IN the_DT premise_NN that_IN that_IN a_DT set_NN of_IN such_JJ related_JJ tasks_NNS share_VBP an_DT underlying_JJ low-dimensional_JJ feature_NN space_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT captures_VBZ the_DT task_NN relatedness_NN ._.
+7_CD Conclusion_NN We_PRP have_VBP presented_VBN a_DT nonparametric_JJ Bayesian_JJ model_NN for_IN the_DT Canonical_JJ Correlation_NN Analysis_NN problem_NN to_TO discover_VB the_DT dependencies_NNS between_IN a_DT set_NN of_IN variable_NN

@@ -1,0 +1,3 @@
+er-based_JJ string_NN similarity_NN metric_NN is_VBZ Levenshtein_NNP distance_NN ,_, defined_VBN as_IN the_DT minimum_JJ number_NN of_IN insertions_NNS ,_, deletions_NNS or_CC substitutions_NNS necessary_JJ to_TO transform_VB one_CD string_NN into_IN another_DT ._.
+Needleman_NNP and_CC Wunsch_NNP =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: extended_VBD the_DT model_NN to_TO allow_VB contiguous_JJ sequences_NNS of_IN mismatched_JJ characters_NNS ,_, or_CC gaps_NNS ,_, in_IN the_DT alignment_NN of_IN two_CD strings_NNS ,_, and_CC described_VBD a_DT general_JJ dynamic_JJ programming_NN method_NN for_IN computing_VBG edit_NN distance_NN ._.
+Mo_NN

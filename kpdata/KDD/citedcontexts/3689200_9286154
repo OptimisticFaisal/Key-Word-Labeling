@@ -1,0 +1,4 @@
+way_NN of_IN representing_VBG these_DT data_NNS streams_NNS is_VBZ to_TO use_VB a_DT matrix_NN A_NN with_IN time_NN points_NNS and_CC attributes_NNS being_VBG row_NN and_CC column_NN indexes_NNS ._.
+We_PRP can_MD then_RB group_VB data_NNS by_IN correlated_JJ attributes_NNS or_CC correlated_VBN time_NN points_NNS -LRB-_-LRB- 4_LS -RRB-_-RRB- =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: in_IN this_DT matrix_NN ._.
+Recall_VB that_IN we_PRP propose_VBP to_TO use_VB the_DT SVD_NN technique_NN -LRB-_-LRB- Singular_JJ Value_NN Decomposition_NN -RRB-_-RRB- for_IN matrix_NN reduction_NN in_IN pattern_NN variation_NN discovery_NN ._.
+Here_RB ,_, this_DT technique_NN can_MD also_RB be_VB used_VBN to_TO find_VB the_DT b_NN

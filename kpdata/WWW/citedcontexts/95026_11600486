@@ -1,0 +1,3 @@
+rprises_NNS or_CC specialized_JJ corpora_NN ,_, information_NN from_IN link_NN connectivity_NN is_VBZ not_RB as_RB helpful_JJ ,_, as_IN it_PRP is_VBZ possible\/likely_JJ that_IN two_CD pages_NNS share_NN none_NN or_CC only_RB a_DT few_JJ links_NNS in_IN common_NN ._.
+In_IN this_DT case_NN ,_, Haveliwala_NNP et_FW al._FW =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: suggest_VBP using_VBG the_DT anchor_NN text_NN and_CC anchor_NN window_NN as_IN additional_JJ features_NNS tohelp_RB learn_VBP about_IN the_DT other_JJ document_NN ._.
+They_PRP suggest_VBP that_IN the_DT words_NNS around_IN the_DT link_NN are_VBP still_RB informative_JJ about_IN the_DT link_NN ,_, and_CC ca_MD

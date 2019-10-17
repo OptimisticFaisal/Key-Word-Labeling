@@ -1,0 +1,3 @@
+0_CD 0.10_CD 0.00_CD 0.50_CD SPALM_NNP SINGLE_K_NNP MPALM_NNP MULTI_K_NN -LRB-_-LRB- d_NN -RRB-_-RRB- Discernibility_NNP Metric_NNP -_: diabetes_NN datasetsWe_NN evaluate_VB how_WRB varying_VBG δ_NN affects_VBZ the_DT cost_NN of_IN anonymizing_VBG the_DT dataset_NN ,_, as_IN determined_VBN by_IN the_DT Loss_NN Metric_NNP -LRB-_-LRB- LM_NNP -RRB-_-RRB- =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT Discernibility_NNP Metric_NNP -LRB-_-LRB- DM_NN -RRB-_-RRB- -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+The_DT LM_NNP measures_VBZ the_DT amount_NN of_IN generalization_NN as_IN a_DT normalized_VBN information_NN loss_NN ._.
+For_IN example_NN ,_, in_IN Figure_NNP 1_CD generalizing_VBG ``_`` Canada_NNP ''_'' to_TO ``_`` N._NNP America_NNP ''_'' incurs_VBZ a_DT penalty_NN

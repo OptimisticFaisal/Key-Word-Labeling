@@ -1,0 +1,4 @@
+anking_NN scores_NNS using_VBG the_DT language_NN model_NN ,_, extract_VBP the_DT compact_JJ bipartite_JJ subgraph_NN ,_, and_CC perform_VB the_DT Co-HITS_NN algorithm_NN ._.
+To_TO implement_VB the_DT Co-HITS_NN algorithm_NN ,_, we_PRP employ_VBP a_DT sparse_JJ matrix_NN package_NN ,_, i.e._FW ,_, CSparse_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, to_TO solve_VB the_DT sparse_JJ matrix_NN inversion_NN efficiently_RB ._.
+To_TO deploy_VB the_DT efficient_JJ implementations_NNS of_IN our_PRP$ scheme_NN ,_, all_DT of_IN the_DT other_JJ algorithms_NNS used_VBN in_IN the_DT study_NN are_VBP programmed_VBN in_IN the_DT C_NN #_# language_NN ._.
+We_PRP have_VBP impl_VBN

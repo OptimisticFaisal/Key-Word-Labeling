@@ -1,0 +1,5 @@
+approximate_JJ frequent_JJ itemset_NN -LRB-_-LRB- AFI_NN -RRB-_-RRB- model_NN which_WDT controls_VBZ errors_NNS of_IN two_CD directions_NNS in_IN the_DT data_NNS matrices_NNS formed_VBN by_IN transactions_NNS and_CC items_NNS ._.
+Other_JJ related_JJ studies_NNS on_IN approximate_JJ frequent_JJ patterns_NNS include_VBP =_JJ -_: =[_NN 6_CD ,_, 3_CD ,_, 7_CD ,_, 10_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- showed_VBD that_IN approximate_JJ association_NN rules_NNS are_VBP interesting_JJ and_CC useful_JJ ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- proposed_VBD the_DT concept_NN of_IN free-sets_NNS and_CC led_VBD to_TO an_DT errorbound_JJ approximation_NN of_IN frequencies_NNS ._.
+The_DT goal_NN of_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- 6_CD is_VBZ to_TO derive_VB

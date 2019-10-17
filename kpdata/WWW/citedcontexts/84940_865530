@@ -1,0 +1,5 @@
+ultiprocessor_JJ servers_NNS -LRB-_-LRB- the_DT latter_NN were_VBD essential_JJ in_IN handling_VBG the_DT largest_JJS samples_NNS -RRB-_-RRB- ._.
+Overall_RB ,_, we_PRP used_VBD about_IN 1600_CD hours_NNS of_IN CPU_NNP user_NN time_NN ._.
+Tools_NNS ._.
+All_DT our_PRP$ tests_NNS were_VBD performed_VBN using_VBG the_DT WebGraph_NNP framework_NN =_JJ -_: =[_NN 6_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Both_DT the_DT Italian_NNP and_CC the_DT WebBase_NNP graphs_NNS are_VBP available_JJ at_IN http:\/\/webgraph-data.dsi.unimi.it\/_NN -LRB-_-LRB- recall_NN ,_, however_RB ,_, that_IN we_PRP only_RB used_VBD the_DT portion_NN of_IN WebBase_NNP that_WDT can_MD be_VB reached_VBN from_IN the_DT giant_JJ component_NN -RRB-_-RRB- ._.

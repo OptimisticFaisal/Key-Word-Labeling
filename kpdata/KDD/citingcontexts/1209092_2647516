@@ -1,0 +1,5 @@
+ing_NN clusters_NNS ''_'' so_IN that_IN similar_JJ clusters_NNS can_MD be_VB merged_VBN ._.
+Direct_JJ re-labeling_JJ approaches_NNS to_TO obtain_VB a_DT consensus_NN partition_NN from_IN clusterings_NNS of_IN multiple_JJ bootstrap_NN samples_NNS have_VBP been_VBN proposed_VBN in_IN -LRB-_-LRB- 7_CD ,_, 8_CD -RRB-_-RRB- ._.
+Leisch_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: discussed_VBD an_DT approach_NN where_WRB the_DT centers_NNS of_IN multiple_JJ k-means_NN clustering_NN solutions_NNS are_VBP ``_`` bagged_VBN ''_'' ._.
+Topchy_NNP et_FW al._FW -LRB-_-LRB- 24_CD -RRB-_-RRB- proposed_VBD a_DT mixture_NN model_NN in_IN order_NN to_TO obtain_VB a_DT consensus_NN function_NN ._.
+The_DT basic_JJ idea_NN is_VBZ t_NN

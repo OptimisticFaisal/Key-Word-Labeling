@@ -1,0 +1,5 @@
+ithm_NN will_MD be_VB possible_JJ ._.
+The_DT decision_NN for_IN a_DT specific_JJ clustering_NN algorithm_NN will_MD also_RB determine_VB whether_IN or_CC not_RB a_DT data_NN object_NN may_MD belong_VB to_TO several_JJ clusters_NNS simultaneously_RB ._.
+In_IN our_PRP$ experiments_NNS we_PRP use_VBP COPAC_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT new_JJ correlation_NN clustering_NN algorithm_NN that_WDT is_VBZ shown_VBN to_TO improve_VB over_IN 4C_NN as_RB well_RB as_IN ORCLUS_FW w.r.t._FW efficiency_NN ,_, effectivity_NN ,_, and_CC robustness_NN ._.
+2_CD ._.
+For_IN each_DT correlation_NN cluster_NN Ci_NNP ⊂_NNP Dfound_NNP in_IN the_DT previous_JJ s_NN

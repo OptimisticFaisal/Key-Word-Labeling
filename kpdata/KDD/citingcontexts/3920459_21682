@@ -1,0 +1,4 @@
+deriving_VBG dissimilarities_NNS against_IN previous_JJ approaches_NNS reviewed_VBN in_IN Section_NN 2_CD ._.
+We_PRP use_VBP 799_CD genes_NNS which_WDT are_VBP the_DT most_RBS active_JJ and_CC cell_NN cycle_NN co-regulated_JJ in_IN the_DT yeast_NN cell_NN cycle_NN data_NNS of_IN Spellman_NNP et_FW al._FW -LRB-_-LRB- 1998_CD -RRB-_-RRB- =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP consider_VBP three_CD GO_NNP files_NNS on_IN biological_JJ process_NN -LRB-_-LRB- BP_NN -RRB-_-RRB- ,_, cellular_JJ component_NN -LRB-_-LRB- CC_NN -RRB-_-RRB- ,_, and_CC molecular_JJ function_NN -LRB-_-LRB- MF_NN -RRB-_-RRB- ,_, from_IN the_DT Gene_NNP Ontology_NNP database_NN ._.
+We_PRP extract_VBP all_DT GO_NN categories_NNS that_WDT contain_VBP at_IN least_JJS two_CD g_NN

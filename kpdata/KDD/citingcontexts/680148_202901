@@ -1,0 +1,3 @@
+iding_VBG the_DT results_NNS illustrated_VBN in_IN the_DT previous_JJ figures_NNS ._.
+6_CD Related_NNP Work_NNP Our_NNP framework_NN most_RBS resembles_VBZ that_DT of_IN inductive_JJ databases_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, which_WDT are_VBP based_VBN on_IN the_DT inductive_JJ logic_NN programming_NN -LRB-_-LRB- ILP_NN -RRB-_-RRB- framework_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN inductive_JJ databases_NNS ,_, rules_NNS -LRB-_-LRB- e.g._FW ,_, association_NN rules_NNS -RRB-_-RRB- about_IN database_NN objects_NNS are_VBP treated_VBN as_IN firstclass_JJ objects_NNS of_IN the_DT database_NN ,_, so_IN that_IN queries_NNS -LRB-_-LRB- e.g._FW ,_, in_IN SQL_NNP -RRB-_-RRB- may_MD be_VB posed_VBN on_IN rules_NNS as_RB well_RB as_IN obje_NN

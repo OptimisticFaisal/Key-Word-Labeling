@@ -1,0 +1,4 @@
+rst_NN time_NN a_DT strict_JJ order_NN of_IN importance_NN for_IN the_DT four_CD cases_NNS ._.
+Secondly_RB ,_, -LRB-_-LRB- 17_CD -RRB-_-RRB- is_VBZ an_DT iterative_JJ algorithm_NN with_IN a_DT polynomial_JJ pruning_NN time_NN ,_, while_IN EPIC_NN 's_POS pruning_NN time_NN is_VBZ O_NN -LRB-_-LRB- Mlog_NN -LRB-_-LRB- M_NN -RRB-_-RRB- -RRB-_-RRB- for_IN an_DT ensemble_NN with_IN size_NN M._NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ another_DT work_NN that_WDT considers_VBZ the_DT four_CD cases_NNS ._.
+Like_IN -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 2_CD -RRB-_-RRB- did_VBD not_RB show_VB the_DT relationship_NN among_IN the_DT four_CD cases_NNS ,_, and_CC its_PRP$ pruning_NN time_NN is_VBZ polynomial_JJ ._.
+Recent_JJ work_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- gives_VBZ a_DT review_NN and_CC comparative_JJ s_NN

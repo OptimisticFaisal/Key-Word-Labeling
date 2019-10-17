@@ -1,0 +1,4 @@
+omprehension_NN and_CC dependability_NN issues_NNS ._.
+In_IN this_DT paper_NN we_PRP describe_VBP briefly_RB three_CD threads_NNS of_IN our_PRP$ past_JJ and_CC current_JJ work_NN in_IN recovering_VBG specification_NN -LRB-_-LRB- in_IN the_DT form_NN of_IN automata_NN -LRB-_-LRB- 28_CD ,_, 29_CD -RRB-_-RRB- ,_, LTL_NN -LRB-_-LRB- 27_CD ,_, 31_CD -RRB-_-RRB- and_CC LSC_NN =_JJ -_: =[_NN 30_CD ,_, 32_CD -RRB-_-RRB- -_: =--RRB-_NN from_IN program_NN execution_NN traces_NNS via_IN data_NN mining_NN approaches_NNS ._.
+A_DT program_NN execution_NN trace_NN can_MD be_VB simply_RB viewed_VBN as_IN a_DT series_NN of_IN method_NN signatures_NNS -LRB-_-LRB- or_CC names_NNS -RRB-_-RRB- of_IN methods_NNS invoked_VBN when_WRB a_DT system_NN is_VBZ executed_VBN ._.
+The_DT

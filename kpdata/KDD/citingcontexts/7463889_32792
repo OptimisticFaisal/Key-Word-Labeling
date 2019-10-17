@@ -1,0 +1,6 @@
+potential_JJ customer_NN ._.
+We_PRP can_MD now_RB use_VB one_CD of_IN many_JJ text_NN classification_NN methods_NNS available_JJ to_TO solve_VB this_DT problem_NN ._.
+In_IN particular_JJ ,_, we_PRP experimented_VBD with_IN two_CD popular_JJ approaches_NNS ._.
+The_DT first_JJ approach_NN is_VBZ SVMlight_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ an_DT efficient_JJ and_CC scalable_JJ implementation_NN of_IN Support_NN Vector_NNP Machines_NNP for_IN text_NN classification_NN ._.
+The_DT second_JJ approach_NN is_VBZ Naïve_NNP Bayes_NNP using_VBG a_DT multinomial_JJ text_NN model_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+We_PRP also_RB ran_VBD versions_NNS of_IN t_NN

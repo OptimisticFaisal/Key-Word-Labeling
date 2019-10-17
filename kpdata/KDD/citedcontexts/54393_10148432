@@ -1,0 +1,5 @@
+concerns_NNS result_VBP in_IN two_CD lines_NNS of_IN approaches_NNS ._.
+One_CD approach_NN focuses_VBZ on_IN sanitizing_VBG the_DT original_JJ datasets_NNS before_IN publishing_VBG them_PRP ._.
+Many_JJ sanitization_NN methods_NNS have_VBP been_VBN proposed_VBN ,_, including_VBG randomization_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- --_: =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, generalization_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- --_: -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, and_CC bucketization_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Another_DT way_NN to_TO publish_VB data_NNS without_IN disclosing_VBG too_RB much_RB private_JJ information_NN is_VBZ to_TO only_RB publish_VB data_NN mining_NN results_NNS ,_, instead_RB of_IN datasets_NNS ._.
+Because_IN data_NNS

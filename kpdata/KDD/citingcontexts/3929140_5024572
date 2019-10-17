@@ -1,0 +1,5 @@
+algorithm_NN -LRB-_-LRB- DAlign_NN -RRB-_-RRB- ,_, the_DT Euclidean_JJ distance_NN function_NN -LRB-_-LRB- Euclidean_JJ -RRB-_-RRB- ,_, the_DT method_NN developed_VBN by_IN Kwok_NNP et_FW al._FW -LRB-_-LRB- 14_CD -RRB-_-RRB- -LRB-_-LRB- Kwok_NN -RRB-_-RRB- ,_, and_CC the_DT method_NN developed_VBN by_IN Xing_NNP et_FW al._FW -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+The_DT latter_JJ two_CD methods_NNS are_VBP presented_VBN in_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP chose_VBD the_DT methods_NNS of_IN Kwok_NNP et_FW al._FW and_CC Xing_NNP et_FW al._FW for_IN two_CD reasons_NNS ._.
+First_RB ,_, both_DT are_VBP based_VBN on_IN contextual_JJ information_NN to_TO learn_VB a_DT distance_NN function_NN ,_, as_IN is_VBZ used_VBN in_IN DAlign_NN ._.
+Second_RB ,_, the_DT method_NN of_IN Xing_FW et_FW

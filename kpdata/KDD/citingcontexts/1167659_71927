@@ -1,0 +1,5 @@
+r_NN respective_JJ weights_NNS ._.
+Next_RB ,_, we_PRP present_VBP three_CD weighting_NN schemes_NNS used_VBN in_IN our_PRP$ experiments_NNS ._.
+4.1_CD Winnow-Specialist-based_JJ Weight_NNP Update_NNP Winnow_NNP is_VBZ an_DT incremental_JJ weight_NN updating_VBG algorithm_NN for_IN voting_VBG experts_NNS =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT correspond_VBP to_TO rules_NNS in_IN our_PRP$ case_NN ._.
+Our_PRP$ first_JJ weighting_NN strategy_NN is_VBZ similar_JJ to_TO the_DT Winnow_NNP specialist_NN variant_NN of_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Initially_RB all_DT rule_NN weights_NNS are_VBP assigned_VBN a_DT value_NN 1_CD ,_, signifying_VBG equality_NN of_IN beli_NN

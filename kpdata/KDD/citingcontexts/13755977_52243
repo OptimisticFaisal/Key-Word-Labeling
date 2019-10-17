@@ -1,0 +1,3 @@
+19_CD ,_, 17_CD -RRB-_-RRB- has_VBZ been_VBN proposed_VBN to_TO employ_VB both_CC the_DT network_NN structure_NN and_CC the_DT feature_NN representation_NN of_IN objects_NNS in_IN the_DT classification_NN task_NN ._.
+Since_IN local_JJ features_NNS may_MD not_RB be_VB always_RB available_JJ ,_, Macskassy_NNP et_FW al._FW =_SYM -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: develop_VB a_DT relational_JJ neighbor_NN classifier_NN to_TO classify_VB network-only_JJ data_NNS by_IN iteratively_RB assigning_VBG an_DT object_NN to_TO the_DT majority_NN class_NN of_IN its_PRP$ neighbors_NNS ._.
+This_DT idea_NN is_VBZ similar_JJ to_TO the_DT label_NN propagation_NN scheme_NN

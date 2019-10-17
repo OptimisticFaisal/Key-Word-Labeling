@@ -1,0 +1,6 @@
+session_NN ._.
+BMS-WebView-2_JJ Similar_JJ scenario_NN to_TO the_DT previous_JJ dataset_NN ,_, but_CC the_DT file_NN contains_VBZ 77_CD ,_, 512_CD transactions_NNS on_IN 3_CD ,_, 340_CD items_NNS with_IN average_JJ transaction_NN size_NN of_IN 5_CD -LRB-_-LRB- max_NN 161_CD -RRB-_-RRB- ._.
+retail_NN ._.
+dat_VB First_NNP mentioned_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT file_NN contains_VBZ 88_CD ,_, 162_CD transactions_NNS on_IN 16_CD ,_, 470_CD items_NNS with_IN average_JJ transaction_NN 2_CD ln_NN -LRB-_-LRB- frequency_NN -RRB-_-RRB- ln_NN -LRB-_-LRB- frequency_NN -RRB-_-RRB- ln_NN -LRB-_-LRB- frequency_NN -RRB-_-RRB- ln_NN -LRB-_-LRB- frequency_NN -RRB-_-RRB- 5_CD 4_CD 3_CD 2_CD 1_CD BMS-POS_NN ._.
+dat_NN data_NNS fit_VBP -0.67_CD \*_NN x_NN +_CC 3.93_CD 0_CD 0_CD 2_CD 4_CD 6_CD 8_CD 1_CD

@@ -1,0 +1,4 @@
+-LRB-_-LRB- 5_CD -RRB-_-RRB- is_VBZ the_DT tightest_JJS convex_NN relaxation_NN of_IN Eq_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- ._.
+Such_JJ a_DT problem_NN can_MD be_VB reformulated_VBN as_IN a_DT semidefinite_NN program_NN -LRB-_-LRB- SDP_NN -RRB-_-RRB- -LRB-_-LRB- 35_CD -RRB-_-RRB- ,_, and_CC then_RB solved_VBD using_VBG many_JJ off-theshelf_JJ optimization_NN solvers_NNS such_JJ as_IN SeDuMi_NN =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_JJ -_: ;_: however_RB ,_, SDP_NN is_VBZ computationally_RB expensive_JJ and_CC can_MD only_RB handle_VB several_JJ hundreds_NNS of_IN optimization_NN variables_NNS ._.
+For_IN simplicity_NN ,_, in_IN this_DT paper_NN we_PRP assume_VBP that_IN all_DT of_IN the_DT m_NN tasks_NNS share_VBP the_DT same_JJ set_NN of_IN traini_NNS

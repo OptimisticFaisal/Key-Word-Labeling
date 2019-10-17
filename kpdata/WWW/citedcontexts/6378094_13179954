@@ -1,0 +1,4 @@
+caching_VBG solutions_NNS ,_, the_DT content_NN may_MD become_VB stale_JJ depending_VBG on_IN its_PRP$ update_VB frequency_NN ._.
+Cache_NN staleness_NN is_VBZ a_DT wellknown_JJ problem_NN and_CC has_VBZ been_VBN explored_VBN in_IN many_JJ domains_NNS ,_, for_IN example_NN in_IN web_NN search_NN and_CC indexing_NN =_JJ -_: =[_NN 6_CD ,_, 31_CD ,_, 33_CD ,_, 43_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ work_NN does_VBZ not_RB directly_RB address_VB this_DT problem_NN ._.
+Instead_RB ,_, we_PRP provide_VBP an_DT analysis_NN showing_VBG that_IN there_EX are_VBP many_JJ types_NNS of_IN location-enhanced_JJ content_NN that_WDT can_MD be_VB effectively_RB cached_VBN for_IN reasonable_JJ periods_NNS

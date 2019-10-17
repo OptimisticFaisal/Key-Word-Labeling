@@ -1,0 +1,3 @@
+plan_NN to_TO investigate_VB in_IN our_PRP$ future_JJ work_NN whether_IN the_DT intersection_NN of_IN two_CD sets_NNS can_MD ,_, in_IN general_JJ ,_, be_VB computed_VBN more_RBR efficiently_RB --_: for_IN example_NN ,_, using_VBG diffsets_NNS ,_, a_DT novel_JJ and_CC interesting_JJ approach_NN suggested_VBD i_LS =_JJ -_: =_JJ n_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- ._.
+-_: =_SYM -_: The_DT diffset_NN of_IN an_DT itemset_NN X_NN is_VBZ the_DT set-difference_NN of_IN the_DT tid-list_NN of_IN X_NN from_IN that_DT of_IN its_PRP$ mother_NN ._.
+Diffsets_NNS can_MD be_VB easily_RB incorporated_VBN in_IN Oracle_NNP --_: only_RB the_DT Update_NNP function_NN in_IN Figure_NNP 5_CD of_IN Section_NN 3_CD is_VBZ t_NN

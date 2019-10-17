@@ -1,0 +1,3 @@
+otherwise_RB define_VB ˜x_NN =_JJ x_NN ∗_NN and_CC recalculate_VB x_NN ∗_NN until_IN 0_CD ≤_CD x_CC ∗_CD i_FW ≤_FW 1_CD ,_, ∀_FW i_FW ∈_FW -LCB-_-LRB- 1_CD ,_, ..._: ,_, n_NN -RCB-_-RRB- ._.
+This_DT iterative_JJ procedure_NN can_MD be_VB seen_VBN as_IN a_DT gradient_NN projection_NN method_NN for_IN which_WDT convergence_NN is_VBZ well_RB established_VBN =_JJ -_: =[_NN 2_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4.2_CD Point_NNP Coverage_NNP Maximization_NNP Criteria_NNP Another_DT optimal_JJ rule_NN can_MD be_VB defined_VBN as_IN the_DT rule_NN that_WDT covers_VBZ the_DT hypercube_NN with_IN axis-parallel_JJ faces_NNS with_IN that_DT contains_VBZ the_DT largest_JJS possible_JJ number_NN of_IN training_NN

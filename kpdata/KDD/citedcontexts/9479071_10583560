@@ -1,0 +1,3 @@
+theses_DT ,_, e.g._FW ,_, -LRB-_-LRB- Seung_NNP et_FW al._FW ,_, 1992_CD -RRB-_-RRB- ._.
+However_RB ,_, previous_JJ disagreement-based_JJ approaches_NNS did_VBD not_RB address_VB collective_JJ classification_NN ._.
+Graph-based_JJ active_JJ learning_NN has_VBZ been_VBN addressed_VBN before_IN -LRB-_-LRB- Zhu_NNP et_FW al._FW ,_, 2003_CD ;_: =_JJ -_: =_JJ Macskassy_NNP ,_, 2009_CD -_: =--RRB-_NN ,_, however_RB ,_, they_PRP employed_VBD the_DT empirical_JJ risk_NN minimization_NN technique_NN -LRB-_-LRB- Roy_NNP &_CC McCallum_NNP ,_, 2001_CD -RRB-_-RRB- ,_, which_WDT is_VBZ known_VBN to_TO be_VB a_DT very_RB expensive_JJ procedure_NN ,_, and_CC thus_RB -LRB-_-LRB- Zhu_NNP et_FW al._FW ,_, 2003_CD ;_: Macskassy_NNP ,_, 2009_CD -RRB-_-RRB- optimize_VBP it_PRP sp_IN

@@ -1,0 +1,4 @@
+algorithm_NN for_IN mining_NN top-n_NN global_JJ outliers_NNS ._.
+Bay_NNP and_CC Schwabacher_NNP -LRB-_-LRB- 8_CD -RRB-_-RRB- improved_VBD the_DT method_NN in_IN -LRB-_-LRB- 17_CD -RRB-_-RRB- by_IN using_VBG the_DT block_NN nested_JJ loop_NN strategy_NN with_IN pruning_NN and_CC randomization_NN techniques_NNS ._.
+Recently_RB ,_, Tao_NNP et_FW al._FW =_SYM -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: presented_VBD a_DT disk-resident_JJ algorithm_NN of_IN finding_VBG global_JJ outliers_NNS with_IN a_DT linear_JJ I\/O_NN cost_NN ._.
+Shekhar_NNP et_FW al._FW -LRB-_-LRB- 27_CD -RRB-_-RRB- studied_VBD spatial_JJ outliers_NNS ,_, which_WDT refer_VBP to_TO spatially_RB referenced_VBN objects_NNS whose_WP$ non-spatial_JJ attr_NN

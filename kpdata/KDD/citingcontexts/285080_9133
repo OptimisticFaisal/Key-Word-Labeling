@@ -1,0 +1,4 @@
+ple_NN ,_, Breese_NNP et_FW al._FW -LRB-_-LRB- 3_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+The_DT most_RBS widely_RB used_VBN method_NN ,_, and_CC the_DT one_NN that_IN we_PRP will_MD assume_VB here_RB ,_, is_VBZ the_DT one_NN proposed_VBN in_IN GroupLens_NNP ,_, the_DT project_NN that_WDT originally_RB introduced_VBD quantitative_JJ collaborativesltering_NN =_JJ -_: =[_NN 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT basic_JJ idea_NN in_IN this_DT method_NN is_VBZ to_TO predict_VB a_DT user_NN 's_POS rating_NN of_IN an_DT item_NN as_IN a_DT weighted_JJ average_NN of_IN the_DT ratings_NNS given_VBN by_IN similar_JJ users_NNS ,_, and_CC then_RB recommend_VB items_NNS with_IN high_JJ predicted_VBN ratings_NNS ._.
+The_DT similari_NN

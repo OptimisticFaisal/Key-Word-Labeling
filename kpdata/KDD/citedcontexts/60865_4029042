@@ -1,0 +1,6 @@
+on_IN ._.
+Update_NNP wd_NN ,_, and_CC return_NN to_TO step_VB 2_CD ._.
+Figure_NN 2_CD ._.
+The_DT boosting_VBG algorithm_NN 2.4_CD The_DT ranking_JJ SVM_NN algorithm_NN SVM_NN has_VBZ been_VBN used_VBN for_IN both_CC classification_NN and_CC ranking_NN problems_NNS ._.
+We_PRP select_VBP the_DT ranking_JJ SVM_NN algorithm_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: because_IN of_IN the_DT unbalance_JJ nature_NN of_IN our_PRP$ data_NNS sets_NNS ,_, implementing_VBG the_DT method_NN by_IN using_VBG the_DT SVM-light_JJ toolkits_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+The_DT ranking_JJ SVM_NN algorithm_NN uses_VBZ below_IN loss_NN function_NN to_TO approximate_JJ the_DT minimum_JJ training_NN

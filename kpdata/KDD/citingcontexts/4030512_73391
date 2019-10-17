@@ -1,0 +1,5 @@
+s_NNS that_WDT comply_VBP with_IN a_DT pattern_NN P_NN ._.
+Then_RB each_DT region_NN ri_NN of_IN P_NN is_VBZ valid_JJ if_IN the_DT set_NN of_IN locations_NNS R_NN P_NN i_LS :_: =_JJ -LCB-_-LRB- s_NN j_NN i_FW |_FW sj_FW ∈_FW S_NN P_NN -RCB-_-RRB- form_VBP a_DT dense_JJ cluster_NN ._.
+To_TO define_VB a_DT dense_JJ cluster_NN ,_, we_PRP borrow_VBP the_DT definitions_NNS from_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: and_CC use_VB two_CD parameters_NNS ɛ_NN and_CC MinP_NN ts_NNS ._.
+A_DT point_NN p_NN in_IN the_DT spatial_JJ dataset_NN R_NN P_NN i_FW is_VBZ a_DT core_NN point_NN if_IN the_DT circular_JJ range_NN centered_VBN at_IN p_NN with_IN radius_FW ɛ_FW contains_VBZ at_IN least_JJS MinP_FW ts_FW points_NNS ._.
+If_IN a_DT point_NN q_NN is_VBZ within_IN

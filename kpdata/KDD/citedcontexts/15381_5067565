@@ -1,0 +1,4 @@
+a_DT mixture_NN of_IN Markov_NNP models_NNS of_IN page_NN requests_NNS ,_, -LRB-_-LRB- 3_LS -RRB-_-RRB- are_VBP exploring_VBG ,_, Hidden_NNP Markov_NNP models_NNS of_IN within-session_NN behavior_NN ._.
+Both_DT of_IN these_DT projects_NNS presume_VBP a_DT pre-specified_JJ small_JJ set_NN of_IN page-types_NNS ._.
+Anderson_NNP et_FW al_FW =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP explored_VBN relational_JJ models_NNS of_IN page_NN transitions_NNS incorporating_VBG dynamically_RB generated_VBN product_NN lattices_NNS based_VBN on_IN product_NN attributes_NNS ._.
+5_CD Conclusion_NN We_PRP have_VBP presented_VBN a_DT relational_JJ model_NN of_IN web_NN visitor_NN

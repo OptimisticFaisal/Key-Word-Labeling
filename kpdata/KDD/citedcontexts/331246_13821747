@@ -1,0 +1,5 @@
+more_RBR heavily_RB ._.
+There_EX is_VBZ a_DT variety_NN of_IN global_JJ approaches_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN ,_, as_IN comparison_NN partners_NNS of_IN global_JJ approaches_NNS ,_, we_PRP consider_VBP Katz_NNP status_NN index_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, and_CC Random_NNP Walk_VB with_IN Restart_NN algorithm_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- RWR_NN -RRB-_-RRB- algorithm_NN ._.
+Katz_NNP defines_VBZ a_DT measure_NN that_WDT directly_RB sums_VBZ over_IN all_DT paths_NNS between_IN any_DT pair_NN of_IN nodes_NNS in_IN graph_NN G_NN ,_, exponentially_RB damped_VBN by_IN length_NN to_TO count_VB short_JJ paths_NNS more_RBR heavily_RB ._.
+RWR_NN considers_VBZ a_DT rando_NN

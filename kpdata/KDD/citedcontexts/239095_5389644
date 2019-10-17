@@ -1,0 +1,5 @@
+l._NN A_NN PP-SVM_NN solution_NN for_IN linear_JJ kernels_NNS has_VBZ been_VBN proposed_VBN in_IN -LRB-_-LRB- 36_CD -RRB-_-RRB- ._.
+However_RB ,_, it_PRP is_VBZ not_RB extendible_JJ to_TO nonlinear_JJ kernels_NNS because_IN its_PRP$ solution_NN is_VBZ based_VBN on_IN the_DT optimization_NN formulation_NN of_IN the_DT proximalsSVM_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ approach_NN is_VBZ new_JJ and_CC specifically_RB designed_VBN for_IN SVM_NN nonlinear_JJ kernels_NNS ._.
+Our_PRP$ method_NN is_VBZ currently_RB limited_VBN to_TO the_DT nonlinear_JJ kernels_NNS whose_WP$ kernel_NN matrix_NN can_MD be_VB constructed_VBN from_IN the_DT gram_NN matrix_NN ._.
+However_RB

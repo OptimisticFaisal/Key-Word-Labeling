@@ -1,0 +1,4 @@
+umber_NN of_IN true_JJ positives_NNS in_IN the_DT top_JJ r_NN positions_NNS and_CC NT_NN P_NN is_VBZ the_DT total_JJ number_NN of_IN true_JJ categories_NNS of_IN instance_NN x._NN maxF_NN 1_CD is_VBZ thus_RB defined_VBN as_IN maxF_NN 1_CD =_JJ maxr_NN F_NN 1_CD -LRB-_-LRB- r_NN -RRB-_-RRB- ._.
+Precision_NN Recall_VB Break_VB Even_JJ Point_NN -LRB-_-LRB- PRBEP_NN -RRB-_-RRB- =_JJ -_: =[_NN 2_CD ,_, 30_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ commonly_RB used_VBN for_IN measuring_VBG the_DT performance_NN of_IN text_NN categorization_NN ._.
+A_DT text_NN categorization_NN algorithm_NN typically_RB exhibits_VBZ some_DT trade-offs_NNS between_IN precision_NN and_CC recall_NN ._.
+For_IN instance_NN ,_, an_DT algorithm_NN that_IN

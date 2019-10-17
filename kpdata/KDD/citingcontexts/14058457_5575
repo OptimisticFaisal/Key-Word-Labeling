@@ -1,0 +1,4 @@
+ures_NNS are_VBP not_RB defined_VBN ._.
+All_DT our_PRP$ evaluation_NN tests_NNS have_VBP been_VBN performed_VBN with_IN the_DT WEKA_NNP framework_NN ,_, which_WDT implements_VBZ several_JJ machine_NN learning_NN algorithms_NNS ,_, using_VBG default_NN parameters_NNS -LRB-_-LRB- unless_IN otherwise_RB specified_VBN -RRB-_-RRB- =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP adopt_VBP Receiver-Operating-Characteristic_JJ -LRB-_-LRB- ROC_NN -RRB-_-RRB- curves_NNS as_IN the_DT main_JJ tool_NN to_TO evaluate_VB prediction_NN performance_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+ROC_NN curves_NNS describe_VBP how_WRB the_DT fraction_NN of_IN true_JJ positives_NNS over_IN all_PDT the_DT positive_JJ cases_NNS c_NN

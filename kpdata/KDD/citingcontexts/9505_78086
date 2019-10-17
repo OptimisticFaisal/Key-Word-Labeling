@@ -1,0 +1,3 @@
+t_NN ''_'' clustering_NN of_IN the_DT data_NNS using_VBG a_DT procedure_NN similar_JJ to_TO the_DT deterministic_JJ annealing_NN approach_NN of_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+A_DT greedy_JJ agglomerative_JJ hard_JJ clustering_NN version_NN of_IN the_DT Information_NNP Bottleneck_NNP algorithm_NN was_VBD use_NN =_JJ -_: =d_NN in_IN -LRB-_-LRB- 1_CD ,_, 19_CD -_: =-]_CD to_TO cluster_VB words_NNS in_IN order_NN to_TO reduce_VB feature_NN size_NN for_IN supervised_JJ text_NN classication_NN ._.
+For_IN this_DT same_JJ task_NN ,_, recently_RB -LRB-_-LRB- 6_CD -RRB-_-RRB- proposed_VBD a_DT divisive_JJ hard_JJ clustering_NN algorithm_NN that_WDT directly_RB minimizes_VBZ the_DT loss_NN in_IN

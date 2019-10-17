@@ -1,0 +1,3 @@
+sparouhov@medai.com_NNP Tobias_NNP Scheffer_NNP Max_NNP Planck_NNP Institute_NNP for_IN Computer_NNP Science_NNP ,_, Saarbruecken_NNP ,_, Germany_NNP scheffer@mpi-inf.mpg.de_NN -LRB-_-LRB- the_DT mean_NN -RRB-_-RRB- for_IN each_DT of_IN the_DT subsets_NNS ._.
+In_IN contrast_NN to_TO Linear_JJ Regression_NN Trees_NNP =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT CART_NN regression_NN tree_NN algorithm_NN uses_VBZ the_DT mean_NN for_IN the_DT target_NN variable_NN as_IN the_DT prediction_NN for_IN each_DT of_IN the_DT subsets_NNS ._.
+Therefore_RB ,_, the_DT CART_NN splitting_NN criterion_NN is_VBZ appropriate_JJ for_IN a_DT piecewise_JJ constant_JJ mo_NN

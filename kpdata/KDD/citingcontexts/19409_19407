@@ -1,0 +1,4 @@
+UMTIME_NNP was_VBD based_VBN on_IN rules_NNS derived_VBN from_IN an_DT analysis_NN of_IN corpora_NN of_IN human-written_JJ textual_JJ summaries_NNS of_IN time-series_JJ data_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+These_DT rules_NNS were_VBD revised_VBN based_VBN on_IN feedback_NN from_IN users_NNS and_CC domain_NN experts_NNS =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Realisation_NN in_IN SUMTIME_NN is_VBZ done_VBN in_IN a_DT fairly_RB straightforward_JJ fashion_NN ,_, using_VBG software_NN that_WDT was_VBD adapted_VBN from_IN a_DT previous_JJ project_NN ._.
+This_DT software_NN can_MD produce_VB output_NN in_IN Word_NNP or_CC HTML_NNP as_RB well_RB as_IN plain_JJ text_NN ,_, a_DT

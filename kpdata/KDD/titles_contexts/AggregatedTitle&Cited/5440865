@@ -1,0 +1,4 @@
+Extracting_VBG decision_NN trees_NNS from_IN trained_JJ neural_JJ networks_NNS
+single_JJ model_NN that_WDT is_VBZ similar_JJ to_TO the_DT combination_NN ._.
+Although_IN this_DT idea_NN is_VBZ relatively_RB simple_JJ ,_, it_PRP is_VBZ scarce_JJ in_IN the_DT literature_NN ,_, and_CC usually_RB related_JJ to_TO the_DT extraction_NN of_IN rules_NNS from_IN neural_JJ networks_NNS -LRB-_-LRB- see_VB e.g._FW =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =-[_NN 7_CD -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+The_DT reason_NN why_WRB this_DT idea_NN has_VBZ not_RB been_VBN spread_VBN into_IN common_JJ practice_NN may_MD be_VB that_IN usually_RB some_DT restrictions_NNS are_VBP imposed_VBN on_IN the_DT oracle_NN ,_, or_CC the_DT decision_NN tree_NN learner_NN employed_VBN to_TO capture_VB the_DT semanti_NN

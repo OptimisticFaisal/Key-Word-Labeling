@@ -1,0 +1,4 @@
+racy_JJ in_IN aggregate_JJ query_NN answering_NN ._.
+1_LS -RRB-_-RRB- General_NNP Utility_NNP Measures_NNS :_: We_PRP first_RB compare_VBP data_NNS utility_NN based_VBN on_IN two_CD general_JJ utility_NN measures_NNS :_: Discernibility_NNP Metric_NNP -LRB-_-LRB- DM_NN -RRB-_-RRB- -LRB-_-LRB- 22_CD -RRB-_-RRB- and_CC Global_JJ Certainty_NN Penalty_NN -LRB-_-LRB- GCP_NN -RRB-_-RRB- =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Figure_NN 5_CD -LRB-_-LRB- a_DT -RRB-_-RRB- shows_VBZ the_DT DM_NN cost_NN while_IN Figure_NNP 5_CD -LRB-_-LRB- b_NN -RRB-_-RRB- shows_VBZ the_DT GCP_NNP cost_NN for_IN the_DT four_CD anonymized_JJ tables_NNS ._.
+In_IN both_DT experiments_NNS ,_, we_PRP evaluate_VBP the_DT utility_NN measure_NN as_IN a_DT function_NN of_IN the_DT privacy_NN parameters_NNS shown_VBN

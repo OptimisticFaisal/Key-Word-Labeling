@@ -1,0 +1,7 @@
+other_JJ in_IN a_DT sequence_NN ._.
+And_CC lastly_RB ,_, a_DT chain_NN of_IN such_JJ edges_NNS is_VBZ likely_JJ to_TO be_VB a_DT hot_JJ route_NN ._.
+We_PRP also_RB list_VBP some_DT possible_JJ alternative_JJ methods_NNS from_IN related_JJ fields_NNS ._.
+Alternative_NNP Method_NNP 1_CD :_: Moving_VBG object_NN clustering_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: discovers_VBZ groups_NNS of_IN objects_NNS that_WDT move_VBP together_RB ._.
+The_DT trajectory_NN of_IN each_DT cluster_NN can_MD be_VB marked_VBN as_IN a_DT hot_JJ route_NN ._.
+We_PRP call_VBP this_DT class_NN of_IN approaches_NNS AltMoving_NNP ._.
+Alternative_NNP Method_NNP 2_CD :_: Simple_JJ graph_NN linkage_NN is_VBZ

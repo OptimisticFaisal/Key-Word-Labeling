@@ -1,0 +1,4 @@
+02_CD ,_, has_VBZ more_JJR than_IN 1_CD billion_CD nodes_NNS and_CC almost_RB 7_CD billion_CD edges_NNS ._.
+Similar_JJ size_NN ,_, or_CC even_RB larger_JJR graphs_NNS ,_, exist_VBP :_: the_DT Twitter_NNP graph_NN spans_VBZ several_JJ Terabytes_NNS ;_: click-streams_NNS are_VBP reported_VBN to_TO reach_VB Petabyte_NNP scale_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Such_JJ large_JJ graphs_NNS violate_VBP the_DT assumption_NN that_IN the_DT graph_NN can_MD be_VB fit_VBN in_IN main_JJ memory_NN or_CC at_IN least_JJS the_DT disk_NN of_IN a_DT single_JJ workstation_NN ,_, on_IN which_WDT most_JJS of_IN existing_VBG graph_NN algorithms_NNS have_VBP been_VBN built_VBN ._.
+Thus_RB ,_, we_PRP n_NN

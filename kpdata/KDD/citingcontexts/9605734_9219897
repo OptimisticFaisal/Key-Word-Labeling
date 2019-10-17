@@ -1,0 +1,4 @@
+has_VBZ not_RB been_VBN modeled_VBN by_IN researchers_NNS in_IN the_DT past_NN ,_, other_JJ aspects_NNS of_IN user_NN clickthrough_NN behavior_NN have_VBP been_VBN studied_VBN in_IN the_DT context_NN of_IN evaluating_VBG the_DT quality_NN of_IN both_CC ad_NN and_CC search_NN results_NNS ._.
+Ciaramita_NNP et_FW al._FW =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: estimated_VBN predicted_VBD clickthrough_JJ rates_NNS of_IN search_NN ads_NNS from_IN textual_JJ relevance_NN features_NNS ._.
+They_PRP trained_VBD a_DT logistic_JJ model_NN whose_WP$ features_NNS were_VBD learned_VBN using_VBG clickthrough_JJ data_NNS from_IN logs_NNS ._.
+Their_PRP$ work_NN demonstra_NN

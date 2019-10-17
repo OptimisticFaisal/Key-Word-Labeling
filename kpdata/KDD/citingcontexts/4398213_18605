@@ -1,0 +1,5 @@
+e_LS have_VBP |_VBN T_NN |_NN \/_: |_CD S_NN |_NN =_JJ Ω_NN -LRB-_-LRB- |_CD E_NN |_NN 2_CD -RRB-_-RRB- ._.
+Proof_NN ._.
+For_IN simplicity_NN assume_VBP that_IN |_CD U_NN |_NN =_JJ |_CD V_NN |_NN =_JJ n._NN For_IN power_NN laws_NNS with_IN exponent_FW α_FW -RRB-_-RRB- 2_CD we_PRP have_VBP |_CD E_NN |_NN =_JJ O_NN -LRB-_-LRB- n_NN -RRB-_-RRB- in_IN expectation_NN and_CC the_DT maximum_NN degree_NN is_VBZ n_NN 1_CD α_NN −_NN 1_CD =_JJ o_NN -LRB-_-LRB- n_NN -RRB-_-RRB- -LRB-_-LRB- e.g._FW ,_, see_VBP =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Thus_RB ,_, the_DT conditions_NNS of_IN Lemma_NNP 1_CD are_VBP satisfied_JJ ._.
+✷_NNP The_NNP above_IN results_NNS imply_VBP that_IN for_IN some_DT important_JJ classes_NNS of_IN datasets_NNS --_: such_JJ as_IN graphs_NNS with_IN bounded_VBN degrees_NNS or_CC degrees_NNS that_WDT follow_VBP a_DT power_NN law_NN distrib_NN

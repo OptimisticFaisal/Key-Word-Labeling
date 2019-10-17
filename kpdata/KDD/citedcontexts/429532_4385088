@@ -1,0 +1,4 @@
+se_FW previous_JJ works_NNS handle_VBP itemset_NN patterns_NNS only_RB ._.
+In_IN the_DT graph_NN domain_NN ,_, we_PRP did_VBD not_RB find_VB any_DT work_NN on_IN compressed_VBN frequent_JJ patterns_NNS ,_, except_IN ,_, works_VBZ on_IN closed_JJ frequent_JJ graphs_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- and_CC maximal_JJ frequent_JJ graphs_NNS =_JJ -_: =[_NN 11_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Even_RB though_IN these_DT two_CD approaches_NNS generate_VBP a_DT smaller_JJR set_NN of_IN patterns_NNS ,_, the_DT number_NN of_IN patterns_NNS in_IN both_DT cases_NNS can_MD still_RB be_VB very_RB large_JJ ._.
+Moreover_RB ,_, many_JJ patterns_NNS in_IN the_DT resulting_VBG sets_NNS can_MD be_VB very_RB similar_JJ ,_,

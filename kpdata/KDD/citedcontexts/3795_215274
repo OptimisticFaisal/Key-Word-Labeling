@@ -1,0 +1,4 @@
+the_DT number_NN of_IN terminal_JJ nodes_NNS in_IN a_DT network_NN and_CC the_DT number_NN of_IN the_DT target_NN attribute_NN values_NNS ._.
+In_IN Section_NN V_NN ,_, we_PRP show_VBP that_IN the_DT actual_JJ number_NN of_IN rules_NNS can_MD easily_RB reach_VB hundreds_NNS or_CC even_RB more_JJR ._.
+As_IN indicated_VBN by_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, such_PDT a_DT large_JJ set_NN of_IN associations_NNS is_VBZ very_RB difficult_JJ to_TO be_VB analyzed_VBN by_IN a_DT human_JJ user_NN ._.
+The_DT existing_VBG approaches_NNS to_TO improving_VBG the_DT interpretability_NN of_IN rule_NN sets_NNS -LRB-_-LRB- e.g._FW ,_, error-based_JJ pruning_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- and_CC pruning_NN

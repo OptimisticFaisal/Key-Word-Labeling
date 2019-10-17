@@ -1,0 +1,4 @@
+d_NN in_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, has_VBZ attracted_VBN much_JJ interest_NN ,_, because_IN of_IN the_DT simplicity_NN of_IN the_DT formalization_NN and_CC its_PRP$ close_JJ relationships_NNS to_TO other_JJ well_RB studied_VBN problems_NNS ,_, such_JJ as_IN spectral_JJ clustering_NN and_CC matrix_NN decomposition_NN =_JJ -_: =[_NN 1_CD ,_, 5_CD ,_, 6_CD ,_, 8_CD ,_, 14_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP focus_VBP on_IN the_DT partitioning-based_JJ co-clustering_NN formulation_NN ._.
+Suppose_VB that_IN the_DT data_NNS matrix_NN D_NN consists_VBZ of_IN m_NN rows_NNS and_CC n_NN columns_NNS ._.
+Given_VBN input_NN parameters_NNS k_NN and_CC l_NN ,_, the_DT partitioning-based_JJ c_NN

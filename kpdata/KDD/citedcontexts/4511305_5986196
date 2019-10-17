@@ -1,0 +1,4 @@
+ure_NN to_TO calculate_VB pair-wise_JJ similarities_NNS of_IN user_NN sessions_NNS derived_VBN from_IN Web_NN server_NN access_NN logs_NNS and_CC presented_VBD a_DT new_JJ model_NN that_WDT uses_VBZ both_DT the_DT sequences_NNS of_IN visiting_VBG pages_NNS and_CC the_DT time_NN spent_VBN on_IN those_DT pages_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN considering_VBG a_DT Web_NN server_NN access_NN log_NN ,_, we_PRP address_VBP an_DT environment_NN with_IN the_DT following_JJ characteristics_NNS :_: 1_CD ._.
+Derived_VBN information_NN is_VBZ present_JJ for_IN analysis_NN ;_: 2_CD ._.
+The_DT environment_NN is_VBZ dynamic_JJ ,_, i.e._FW many_JJ updates_NNS

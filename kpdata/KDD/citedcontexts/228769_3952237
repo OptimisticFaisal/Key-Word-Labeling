@@ -1,0 +1,3 @@
+meters_NNS used_VBN to_TO create_VB frequent_JJ item-sets_NNS as_RB well_RB as_IN having_VBG a_DT large_JJ run-time_JJ complexity_NN ._.
+Another_DT algorithm_NN along_IN the_DT lines_NNS of_IN HFTC_NN ,_, called_VBN FIHC_NN -LRB-_-LRB- Frequent_JJ Item-Sets_NNP Hierarchical_NNP Clustering_NNP ,_, Beil_NNP et_FW al._FW =_SYM -_: =[_NN 20_CD -RRB-_-RRB- -_: =--RRB-_NN yields_VBZ better_JJR clustering_NN using_VBG frequent_JJ item_NN sets_NNS and_CC is_VBZ also_RB much_RB faster_RBR then_RB HFTC_NNP ._.
+Algorithm_NN 6_CD Hierarchical_JJ Frequent_JJ Term_NN Clustering_NN 1_CD :_: Input_NN :_: D_NN :_: set_NN of_IN data_NNS points_NNS 2_CD :_: Call_NN =_JJ F_NN IS_VBZ -LRB-_-LRB- D_NN -RRB-_-RRB- 3_CD :_: Csuff_NN =_JJ -LCB-_-LRB- -RCB-_-RRB-

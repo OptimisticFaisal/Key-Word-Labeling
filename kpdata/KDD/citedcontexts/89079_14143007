@@ -1,0 +1,4 @@
+t_NN solution_NN -LRB-_-LRB- i.e._FW the_DT most_RBS similar_JJ motif_NN -RRB-_-RRB- to_TO the_DT motif_NN discovery_NN problem_NN ._.
+Instead_RB ,_, many_JJ approximate_JJ algorithms_NNS to_TO discover_VB motifs_NNS have_VBP been_VBN proposed_VBN in_IN the_DT past_NN that_WDT can_MD handle_VB some_DT large_JJ datasets_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =-[_NN 40_CD -RRB-_-RRB- -LRB-_-LRB- 66_CD -RRB-_-RRB- -LRB-_-LRB- 68_CD -RRB-_-RRB- -LRB-_-LRB- 88_CD -RRB-_-RRB- -LRB-_-LRB- 98_CD -RRB-_-RRB- ._.
+In_IN this_DT thesis_NN ,_, for_IN the_DT first_JJ time_NN ,_, we_PRP show_VBP an_DT exact_JJ algorithm_NN to_TO find_VB time_NN series_NN motifs_NNS ._.
+While_IN our_PRP$ exact_JJ algorithm_NN is_VBZ still_RB quadratic_JJ in_IN the_DT worst_JJS case_NN ,_, we_PRP show_VBP that_IN we_PRP can_MD red_JJ

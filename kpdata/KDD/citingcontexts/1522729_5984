@@ -1,0 +1,4 @@
+hat_NN are_VBP good_JJ for_IN compression_NN ._.
+This_DT ``_`` minimum_JJ description_NN length_NN ''_'' -LRB-_-LRB- or_CC MDL_NN -RRB-_-RRB- approach_NN has_VBZ also_RB been_VBN used_VBN for_IN learning_VBG Bayesian_JJ networks_NNS in_IN cases_NNS where_WRB compression_NN is_VBZ not_RB necessarily_RB the_DT primary_NN =_JJ -_: =_JJ objective_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Bay_NN -_: =_JJ -_: esian_JJ networks_NNS are_VBP straightforward_JJ to_TO use_VB with_IN arithmetic_NN coding_NN ._.
+To_TO encode_VB a_DT record_NN I_NN of_IN the_DT dataset_NN with_IN a_DT Bayesian_JJ network_NN B_NN ,_, one_CD treats_VBZ each_DT of_IN the_DT values_NNS in_IN I_NN as_IN an_DT individual_JJ ``_`` source_NN symbol_NN

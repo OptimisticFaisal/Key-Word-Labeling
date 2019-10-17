@@ -1,0 +1,4 @@
+µ_NN h_NN +_CC λh_NN -LRB-_-LRB- µ_NN T_NN h_NN µ_NN h_NN −_NN 1_CD -RRB-_-RRB- k_NN h_NN =_JJ 1_CD λh_NN -LRB-_-LRB- µ_NN T_NN h_NN µ_NN h_NN −_NN 1_CD -RRB-_-RRB- ,_, 1_CD One_NN can_MD also_RB formulate_VB a_DT soft_JJ assignment_NN based_VBN algorithm_NN based_VBN on_IN vMF_NN distributions_NNS ,_, but_CC soft_JJ clustering_NN is_VBZ outside_IN the_DT scope_NN of_IN this_DT chapter_NN ._.
+See_VB =_JJ -_: =_JJ -LRB-_-LRB- BDGS03_NN -RRB-_-RRB- -_: =_SYM -_: for_IN details_NNS ._.
+2_CD There_EX is_VBZ a_DT subtle_JJ difference_NN between_IN the_DT constraints_NNS µh_VBP =_JJ 1_CD and_CC µ_NN T_NN h_NN µ_NN h_NN =_JJ 1_CD ._.
+Since_IN this_DT difference_NN is_VBZ not_RB important_JJ in_IN the_DT present_JJ analysis_NN ,_, we_PRP choose_VBP to_TO ignore_VB it_PRP for_IN simplicity_NN ._.

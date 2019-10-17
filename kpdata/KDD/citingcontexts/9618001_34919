@@ -1,0 +1,4 @@
+rgin_NN of_IN correct_JJ classification_NN on_IN the_DT training_NN set_NN ._.
+The_DT required_JJ optimization_NN can_MD be_VB formulated_VBN as_IN an_DT instance_NN of_IN quadratic_JJ programming_NN ,_, a_DT problem_NN for_IN which_WDT many_JJ efficient_JJ solvers_NNS have_VBP been_VBN developed_VBN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN our_PRP$ study_NN ,_, we_PRP experimented_VBD with_IN both_CC linear_JJ and_CC radial_JJ basis_NN function_NN -LRB-_-LRB- RBF_NN -RRB-_-RRB- kernels_NNS ._.
+Logistic_JJ Regression_NN :_: This_DT is_VBZ a_DT simple_JJ parametric_JJ model_NN for_IN binary_JJ classification_NN where_WRB examples_NNS are_VBP classified_VBN

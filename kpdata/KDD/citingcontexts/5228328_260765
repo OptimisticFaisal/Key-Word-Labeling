@@ -1,0 +1,5 @@
+ns_NNS -LRB-_-LRB- 8_CD ,_, 9_CD -RRB-_-RRB- ,_, and_CC identifying_VBG gene_NN and_CC protein_NN names_NNS in_IN biomedical_JJ publications_NNS -LRB-_-LRB- 10_CD ,_, 11_CD -RRB-_-RRB- ._.
+More_RBR recently_RB ,_, unsupervised_JJ NER_NN results_NNS are_VBP reported_VBN on_IN a_DT massive_JJ corpus_NN of_IN domain-independent_JJ text_NN from_IN the_DT web_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT vast_JJ majority_NN of_IN NER_NN systems_NNS employ_VBP rule-based_JJ approaches_NNS and_CC machine-learning-based_JJ approaches_NNS ._.
+Examples_NNS of_IN rule-based_JJ systems_NNS in_IN the_DT literature_NN include_VBP -LRB-_-LRB- 13_CD ,_, 14_CD -RRB-_-RRB- ._.
+Machinelearning-based_JJ approach_NN

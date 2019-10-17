@@ -1,0 +1,3 @@
+ncerned_VBN with_IN estimating_VBG the_DT multiple_JJ instances_NNS -LRB-_-LRB- or_CC structures_NNS -RRB-_-RRB- of_IN a_DT geometric_JJ model_NN embedded_VBN in_IN the_DT input_NN data_NNS ._.
+The_DT task_NN manifests_VBZ in_IN applications_NNS such_JJ as_IN mixture_NN regression_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, motion_NN segmentation_NN =_JJ -_: =[_NN 27_CD ,_, 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC multi-projective_JJ estimation_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- ._.
+Such_JJ a_DT problem_NN is_VBZ known_VBN for_IN its_PRP$ ``_`` chicken-and-egg_JJ ''_'' nature_NN :_: Both_DT data-to-structure_JJ assignments_NNS and_CC structure_NN parameters_NNS are_VBP unavailable_JJ ,_, but_CC given_VBN the_DT solution_NN of_IN

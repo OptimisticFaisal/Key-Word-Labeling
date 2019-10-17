@@ -1,0 +1,4 @@
+n_NN difficult_JJ training_NN scenarios_NNS ._.
+We_PRP have_VBP found_VBN that_IN ,_, for_IN CRF_NNP training_NN ,_, gradient-based_JJ optimization_NN methods_NNS may_MD terminate_VB prematurely_RB at_IN non-optimal_JJ points_NNS due_JJ to_TO a_DT flat_JJ terrain_NN near_IN the_DT global_JJ optimum_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT violated_VBN constraints_NNS provide_VBP additional_JJ guidance_NN during_IN search_NN ,_, leading_VBG the_DT search_NN to_TO good_JJ directions_NNS that_WDT effectively_RB reduce_VB the_DT objective_JJ function_NN ._.
+Since_IN the_DT new_JJ constraint_NN formulation_NN is_VBZ disc_NN

@@ -1,0 +1,6 @@
+h_NN ti_IN ∈_NNP R._NNP For_IN the_DT scope_NN of_IN this_DT work_NN ,_, all_DT time_NN series_NNS are_VBP normalized_VBN in_IN order_NN to_TO remove_VB offset_VBN and_CC scaling_VBG effects_NNS ._.
+It_PRP has_VBZ been_VBN shown_VBN that_IN comparing_VBG time_NN series_NN that_WDT are_VBP not_RB normalized_VBN is_VBZ meaningless_JJ =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP are_VBP typically_RB interested_JJ in_IN mining_VBG a_DT collection_NN of_IN time_NN series_NN with_IN arbitrary_JJ lengths_NNS ._.
+Definition_NN 3.2_CD ._.
+A_DT time_NN series_NN database_NN D_NN is_VBZ a_DT set_NN of_IN |_NN D_NN |_CD unordered_JJ time_NN series_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Time_NN series_NN data_NNS mining_NN

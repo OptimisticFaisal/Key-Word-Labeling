@@ -1,0 +1,5 @@
+ding_JJ medicine_NN ,_, aerospace_NN ,_, finance_NN ,_, business_NN ,_, meteorology_NN ,_, and_CC entertainment_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- -LRB-_-LRB- 26_CD -RRB-_-RRB- -LRB-_-LRB- 36_CD -RRB-_-RRB- -LRB-_-LRB- 41_CD -RRB-_-RRB- ._.
+The_DT problem_NN of_IN time_NN series_NN classification_NN has_VBZ been_VBN the_DT subject_NN of_IN active_JJ research_NN for_IN decades_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =-[_NN 24_CD -RRB-_-RRB- -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+However_RB current_JJ methods_NNS are_VBP limited_VBN by_IN the_DT need_NN for_IN large_JJ amounts_NNS of_IN labeled_JJ training_NN data_NNS ._.
+In_IN reality_NN ,_, such_JJ data_NNS may_MD be_VB very_RB difficult_JJ or_CC expensive_JJ to_TO collect_VB ._.
+For_IN example_NN ,_, it_PRP may_MD require_VB t_NN

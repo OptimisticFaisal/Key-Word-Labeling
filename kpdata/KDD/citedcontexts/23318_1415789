@@ -1,0 +1,4 @@
+her_PRP$ words_NNS ,_, we_PRP need_VBP to_TO simplify_VB the_DT data_NNS as_RB much_RB as_IN possibly_RB ,_, while_IN losing_VBG as_IN little_JJ information_NN as_IN possible_JJ ._.
+For_IN solving_VBG the_DT modeling_NN problem_NN ,_, Cadez_NNP et_FW al._FW propose_VBP 283_CD a_DT first-order_JJ Markov_NNP model_NN -LRB-_-LRB- see_VB =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =--RRB-_NN for_IN user_NN session_NN clustering_NN ._.
+This_DT did_VBD not_RB seem_VB favourable_JJ here_RB for_IN the_DT following_JJ resons_NNS ._.
+First_RB ,_, the_DT order_NN of_IN the_DT clicks_NNS -LRB-_-LRB- links_NNS visited_VBN -RRB-_-RRB- depend_VBP very_RB strongly_RB on_IN the_DT physical_JJ structure_NN of_IN the_DT site_NN ,_, an_DT

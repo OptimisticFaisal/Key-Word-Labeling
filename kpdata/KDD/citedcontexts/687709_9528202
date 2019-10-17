@@ -1,0 +1,5 @@
+0_CD percent_NN -LRB-_-LRB- 2.62_CD \/_: 3.24_CD -RRB-_-RRB- of_IN the_DT original_JJ diagonal_NN of_IN matrix_NN Sð1Þ_NN ._.
+Due_JJ to_TO its_PRP$ simplicity_NN and_CC its_PRP$ efficiency_NN ,_, this_DT approach_NN has_VBZ been_VBN followed_VBN in_IN several_JJ related_JJ works_NNS that_WDT use_VBP tensor_NN decompositions_NNS -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 33_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN this_DT reason_NN we_PRP follow_VBP this_DT approach_NN too_RB ._.
+In_IN our_PRP$ running_VBG example_NN ,_, c1_NN is_VBZ equal_JJ to_TO 2_CD ,_, c2_NN is_VBZ equal_JJ to_TO 3_CD ,_, and_CC c3_NN is_VBZ equal_JJ to_TO 3_CD ._.
+Fig._NNP 9_CD presents_VBZ the_DT transposes_NNS of_IN the_DT dimensionally_RB reduced_VBN U_NN ðiÞ_FW matri_FW

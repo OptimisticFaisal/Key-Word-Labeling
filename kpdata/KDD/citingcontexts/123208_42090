@@ -1,0 +1,3 @@
+complex_JJ graphs_NNS :_: a_DT graph_NN of_IN the_DT September_NNP 11th_JJ terrorist_JJ network_NN ,_, a_DT network_NN of_IN biotechnology_NN collaborations_NNS ,_, and_CC a_DT coauthorship_NN network_NN constructed_VBN from_IN the_DT Citeseer_NNP database_NN of_IN scientific_JJ literature_NN -LRB-_-LRB- =_JJ -_: =_JJ Lawrence_NNP ,_, Giles_NNP ,_, and_CC Bollacker_NNP ,_, 1999_CD -_: =--RRB-_NN ._.
+8.1_CD September_NNP 11th_JJ Terrorist_NNP Network_NNP The_DT terrorist_JJ network_NN graph_NN consists_VBZ of_IN 63_CD nodes_NNS -LRB-_-LRB- terrorists_NNS -RRB-_-RRB- and_CC 308_CD edges_NNS representing_VBG known_JJ interactions_NNS between_IN terrorists_NNS -LRB-_-LRB- Krebs_NNP ,_, 2001_CD -RRB-_-RRB- ._.
+This_DT graph_NN include_VBP

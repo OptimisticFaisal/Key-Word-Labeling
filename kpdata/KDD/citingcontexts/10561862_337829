@@ -1,0 +1,3 @@
+replaced_VBN with_IN any_DT subgraph_NN ._.
+These_DT grammars_NNS take_VBP the_DT form_NN of_IN S_NN →_NN P_NN ,_, where_WRB S_NN is_VBZ a_DT single_JJ non-terminal_JJ node_NN ,_, P_NN can_MD be_VB any_DT subgraph_NN ,_, and_CC the_DT arrow_NN implies_VBZ a_DT production\/replacement_NN rule_NN ._.
+As_IN described_VBN in_IN =_JJ -_: =[_NN 9_CD ,_, 15_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP build_VBP graph_NN grammars_NNS in_IN a_DT priori_FW fashion_NN where_WRB we_PRP find_VBP a_DT production_NN rule_NN capturing_VBG a_DT significant_JJ portion_NN of_IN the_DT input_NN graph_NN ,_, replacing_VBG instances_NNS of_IN the_DT production_NN by_IN its_PRP$ non-terminal_JJ symbol_NN ,_, and_CC

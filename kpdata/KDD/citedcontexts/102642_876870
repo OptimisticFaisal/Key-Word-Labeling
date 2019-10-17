@@ -1,0 +1,5 @@
+gth_NN measure_NN --_: the_DT integrated_VBN cohesion_NN --_: which_WDT is_VBZ applicable_JJ to_TO arbitrary_JJ weighted_JJ networks_NNS ._.
+To_TO define_VB this_DT measure_NN ,_, we_PRP first_RB define_VBP the_DT cohesion_NN of_IN unweighted_JJ clusters_NNS ._.
+Several_JJ notions_NNS of_IN edge_NN separators_NNS =_JJ -_: =[_NN 34_CD ,_, 21_CD ,_, 16_CD ,_, 29_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN used_VBN in_IN the_DT past_NN to_TO capture_VB how_WRB ``_`` cohesive_JJ ''_'' an_DT unweighted_JJ cluster_NN is_VBZ ._.
+We_PRP observe_VBP that_IN these_DT notions_NNS are_VBP unsatisfactory_JJ ,_, especially_RB in_IN the_DT presence_NN of_IN overlapping_VBG clusters_NNS ._.
+We_PRP then_RB show_VBP that_IN

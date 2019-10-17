@@ -1,0 +1,5 @@
+absolute_JJ error_NN among_IN replicated_VBN services_NNS using_VBG only_RB local_JJ information_NN ._.
+However_RB ,_, they_PRP are_VBP not_RB concerned_VBN with_IN data_NNS dissemination_NN or_CC other_JJ network_NN issues_NNS such_JJ as_IN self_NN organization_NN ,_, scalability_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- and_CC =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP studied_VBN consistency_NN maintenance_NN in_IN the_DT context_NN of_IN web_NN caching_NN ._.
+In_IN web_NN caching_NN ,_, the_DT staleness_NN of_IN the_DT data_NNS object_NN is_VBZ measured_VBN by_IN time_NN while_IN in_IN our_PRP$ context_NN ,_, it_PRP is_VBZ measured_VBN by_IN value_NN ._.
+Maintaining_VBG con_NN

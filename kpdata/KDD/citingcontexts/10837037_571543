@@ -1,0 +1,5 @@
+times_NNS ._.
+Algorithm_NN 2_CD 's_POS running_VBG time_NN is_VBZ dominated_VBN by_IN NDCS_NN ._.
+NDCS_NN is_VBZ restricted_VBN by_IN limit_NN that_WDT is_VBZ calculated_VBN based_VBN on_IN input_NN data_NNS ,_, specifically_RB ,_, the_DT number_NN of_IN unique_JJ vertex_NN and_CC edge_NN labels_NNS ._.
+A_DT previous_JJ work_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: shows_VBZ NDCS_NN running_VBG with_IN a_DT fully-connected_JJ graph_NN in_IN time_NN polynomial_JJ with_IN limit_NN ._.
+We_PRP can_MD avoid_VB the_DT worst_JJS case_NN inour_NN domain_NN ,_, because_IN biological_JJ networks_NNS are_VBP usually_RB sparse_JJ graphs_NNS and_CC there_EX are_VBP not_RB many_JJ

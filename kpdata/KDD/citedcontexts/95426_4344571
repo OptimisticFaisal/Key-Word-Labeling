@@ -1,0 +1,4 @@
+as_IN been_VBN extensively_RB studied_VBN in_IN recent_JJ years_NNS with_IN many_JJ important_JJ algorithms_NNS developed_VBD ._.
+Much_JJ of_IN the_DT previous_JJ work_NN focuses_VBZ on_IN how_WRB to_TO effectively_RB update_VB the_DT classification_NN model_NN when_WRB stream_NN data_NNS flows_VBZ in_IN =_JJ -_: =[_NN 1_CD ,_, 4_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT old_JJ examples_NNS can_MD be_VB either_CC thrown_VBN away_RB after_IN some_DT period_NN of_IN time_NN or_CC smoothly_RB faded_VBN out_RP by_IN decreasing_VBG their_PRP$ weights_NNS as_IN time_NN elapses_VBZ ._.
+Alternatively_RB ,_, other_JJ researchers_NNS explore_VBP some_DT sophisticated_JJ me_PRP

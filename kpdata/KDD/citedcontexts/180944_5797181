@@ -1,0 +1,4 @@
+tudy_NN ._.
+Automated_NNP clustering_NN methods_NNS would_MD permit_VB the_DT exploration_NN of_IN this_DT enourmous_JJ dataset_NN in_IN many_JJ dimensions_NNS ,_, allowing_VBG astronomers_NNS to_TO identify_VB distinctive_JJ objects_NNS and_CC relationsips_NNS between_IN objects_NNS ._.
+In_IN =_JJ -_: =_JJ -LRB-_-LRB- PM99_NN -RRB-_-RRB- -_: =_JJ -_: ,_, kd-trees_NNS were_VBD proposed_VBN as_IN a_DT way_NN to_TO speed_VB up_RP a_DT k-means_NN clustering_NN of_IN Sloan_NNP Digital_NNP Sky_NNP Survey_NNP -LRB-_-LRB- a_DT more_RBR recent_JJ automated_JJ sky_NN survey_NN -RRB-_-RRB- data_NNS ._.
+Though_IN computed_VBN using_VBG different_JJ algorithms_NNS ,_, kd-trees_NNS can_MD be_VB th_DT

@@ -1,0 +1,3 @@
+-LRB-_-LRB- 33_CD -RRB-_-RRB- ,_, use_VBP known_JJ rules_NNS to_TO identify_VB known_JJ attacks_NNS ,_, such_JJ as_IN requests_NNS for_IN nonexistent_JJ services_NNS or_CC virus_NN attack_NN signatures_NNS or_CC malicious_JJ strings_NNS in_IN packet_NN payloads_NNS ._.
+Anomaly_JJ detection_NN systems_NNS ,_, such_JJ as_IN ALAD_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: ,_, SPADE_NN -LRB-_-LRB- 35_CD -RRB-_-RRB- ,_, and_CC NIDES_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- compute_VBP statistical_JJ models_NNS for_IN normal_JJ network_NN traffic_NN and_CC generate_VB alarms_NNS when_WRB there_EX are_VBP large_JJ differences_NNS from_IN the_DT normal_JJ model_NN ._.
+These_DT methods_NNS apply_VBP statistical_JJ tests_NNS to_TO d_NN

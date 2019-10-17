@@ -1,0 +1,4 @@
+._.
+Hierarchical_JJ single_JJ linkage_NN is_VBZ a_DT well-known_JJ method_NN to_TO find_VB clusters_NNS with_IN respect_NN to_TO density_NN ._.
+To_TO overcome_VB problems_NNS in_IN cases_NNS ,_, when_WRB clusters_NNS are_VBP connected_VBN by_IN small_JJ chains_NNS ,_, popular_JJ variants_NNS like_IN DBSCAN_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: and_CC OPTICS_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- use_VBP a_DT modified_VBN linkage_NN hierarchy_NN ,_, where_WRB points_NNS within_IN a_DT cluster_NN have_VBP to_TO be_VB reachable_JJ via_IN core_NN points_NNS -LRB-_-LRB- points_NNS having_VBG a_DT certain_JJ minimum_JJ number_NN of_IN neighbors_NNS -RRB-_-RRB- ._.
+DBSCAN_NNP computes_VBZ a_DT clustering_NN

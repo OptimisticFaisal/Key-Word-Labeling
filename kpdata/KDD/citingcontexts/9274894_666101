@@ -1,0 +1,5 @@
+-RRB-_-RRB- -RRB-_-RRB- ,_, or_CC in_IN techniques_NNS like_IN naive_JJ Bayes_NNS that_WDT naturally_RB incorporate_VBP uncertain_JJ labels_NNS ._.
+Moreover_RB ,_, any_DT importance-weighted_JJ classification_NN problem_NN can_MD be_VB reduced_VBN to_TO a_DT uniform-weighted_JJ classification_NN problem_NN =_JJ -_: =[_NN 35_CD -RRB-_-RRB- -_: =_JJ -_: ,_, often_RB performing_VBG better_RBR than_IN handcrafted_VBN weighted-classification_NN algorithms_NNS ._.
+4_LS ._.
+REPEATED-LABELING_NN AND_CC MODELING_NN The_DT previous_JJ section_NN examined_VBN when_WRB repeated-labeling_NN can_MD improve_VB quality_NN ._.
+We_PRP now_RB consid_VBP

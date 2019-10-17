@@ -1,0 +1,4 @@
+learned_VBN model_NN to_TO estimate_VB expectation_NN of_IN missing_VBG markers_NNS ._.
+Aristidou_NNP et_FW al_FW -LRB-_-LRB- ACL08_NN -RRB-_-RRB- used_VBD Kalman_NNP filters_NNS to_TO predict_VB the_DT missing_JJ markers_NNS ,_, with_IN parameters_NNS conforming_VBG to_TO Newton_NNP dynamics_NNS ._.
+Recently_RB ,_, Li_NNP et_FW al_FW =_JJ -_: =_JJ -LRB-_-LRB- LMPF09_NN -RRB-_-RRB- -_: =_SYM -_: used_VBN Linear_NNP Dynamical_NNP Systems_NNP to_TO model_VB motion_NN capture_NN data_NNS ,_, and_CC proposed_VBD an_DT algorithm_NN to_TO recover_VB the_DT missing_JJ values_NNS ._.
+We_PRP will_MD use_VB it_PRP as_IN the_DT baseline_NN method_NN for_IN comparison_NN and_CC describe_VBP it_PRP in_IN more_JJR detai_NNS

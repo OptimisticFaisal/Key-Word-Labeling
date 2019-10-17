@@ -1,0 +1,4 @@
+dissimilarity_NN matrix_NN ,_, KRSP_NN =_JJ −_CD 1_CD 2_CD HDRSPH_NN ,_, where_WRB H_NN =_JJ I_PRP −_FW ee_FW T_NN \/_: n_NN is_VBZ the_DT centering_VBG matrix_NN and_CC e_SYM is_VBZ a_DT column_NN vector_NN full_JJ of_IN ones_NNS ._.
+This_DT is_VBZ the_DT standard_JJ way_NN for_IN deriving_VBG a_DT similarity_NN from_IN a_DT dissimilarity_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: when_WRB the_DT dissimilarity_NN matrix_NN contains_VBZ square_JJ distances_NNS ._.
+Indeed_RB ,_, the_DT commute-time_JJ distance_NN is_VBZ the_DT square_NN of_IN the_DT Euclidean_JJ commute-time_JJ distance_NN ,_, which_WDT is_VBZ Euclidean_JJ -LRB-_-LRB- see_VB -LRB-_-LRB- 18_CD ,_, 53_CD -RRB-_-RRB- for_IN details_NNS -RRB-_-RRB- ._.
+Thus_RB ,_, w_NN

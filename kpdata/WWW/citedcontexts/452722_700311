@@ -1,0 +1,4 @@
+Nevertheless_RB ,_, the_DT proofs_NNS are_VBP fully_RB automatic_JJ and_CC often_RB fast_RB ._.
+This_DT paper_NN reports_VBZ on_IN a_DT fairly_RB ambitious_JJ application_NN of_IN this_DT tool_NN in_IN the_DT verification_NN of_IN a_DT recently_RB published_VBN protocol_NN for_IN certified_VBN email_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT protocol_NN allows_VBZ a_DT sender_NN to_TO send_VB an_DT email_JJ message_NN to_TO a_DT receiver_NN ,_, in_IN such_PDT a_DT way_NN that_IN the_DT receiver_NN gets_VBZ the_DT message_NN if_IN and_CC only_RB if_IN the_DT sender_NN obtains_VBZ an_DT unforgeable_JJ receipt_NN for_IN thesmessage_NN ._.
+The_DT pr_NN

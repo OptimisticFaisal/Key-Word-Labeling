@@ -1,0 +1,4 @@
+rvices_NNS ,_, etc._FW ._.
+Based_VBN on_IN such_JJ observations_NNS ,_, recently_RB ,_, there_EX are_VBP several_JJ interesting_JJ works_NNS studying_VBG the_DT methods_NNS of_IN extracting_VBG useful_JJ information_NN on_IN web_NN pages_NNS using_VBG the_DT structural_JJ view_NN of_IN web_NN documents_NNS 94s_NN =_JJ -_: =[_NN 66_CD ,_, 38_CD ,_, 60_CD ,_, 61_CD ,_, 56_CD ,_, 57_CD ,_, 64_CD ,_, 10_CD ,_, 65_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS of_IN these_DT works_NNS are_VBP based_VBN on_IN the_DT static_JJ view_NN of_IN web_NN pages_NNS ,_, and_CC often_RB based_VBN on_IN a_DT tree-structured_JJ view_NN of_IN HTML_NNP documents_NNS ._.
+The_DT essential_JJ goal_NN of_IN these_DT approaches_NNS is_VBZ to_TO find_VB informative_JJ content_NN from_IN

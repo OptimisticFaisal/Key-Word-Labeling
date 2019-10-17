@@ -1,0 +1,5 @@
+adopt_VB a_DT straight-forward_JJ generate-and-test_JJ strategy_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+TreeFinder_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- does_VBZ clustering_NN by_IN counting_VBG co-occurrences_NNS of_IN labeled_JJ pairs_NNS -LRB-_-LRB- in_IN an_DT Apriori_JJ manner_NN -RRB-_-RRB- ._.
+It_PRP computes_VBZ the_DT maximal_JJ trees_NNS ._.
+TreeMiner_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ based_VBN on_IN mining_NN frequent_JJ subtrees_NNS using_VBG the_DT ''_'' scope-list_JJ ''_'' data_NN structure_NN ._.
+4.4_CD Clustering_NN of_IN XML_NN Documents_NNS Grouping_VBG XML_NN documents_NNS in_IN different_JJ classes_NNS with_IN non_JJ supervised_JJ classification_NN method_NN is_VBZ ge_NN

@@ -1,0 +1,5 @@
+dopted_VBN ._.
+Many_JJ approaches_NNS have_VBP been_VBN developed_VBN for_IN clustering_NN on_IN graphs_NNS that_WDT serve_VBP the_DT purpose_NN of_IN social_JJ dimension_NN extraction_NN ,_, including_VBG graph_NN partitioning_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, latent_JJ space_NN model_NN -LRB-_-LRB- 12_CD ,_, 28_CD -RRB-_-RRB- ,_, block_NN model_NN =_JJ -_: =[_NN 27_CD ,_, 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, spectral_JJ clustering_NN -LRB-_-LRB- 36_CD -RRB-_-RRB- ,_, etc._NN ._.
+In_IN large_JJ scale_NN social_JJ networks_NNS ,_, scale_NN free_JJ property_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- is_VBZ commonly_RB observed_VBN ._.
+In_IN other_JJ words_NNS ,_, the_DT degree_NN of_IN nodes_NNS in_IN a_DT network_NN follows_VBZ a_DT power_NN law_NN distribution_NN ._.
+Modula_NN

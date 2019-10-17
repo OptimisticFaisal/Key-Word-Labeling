@@ -1,0 +1,4 @@
+ents_NNS are_VBP popular_JJ measures_NNS of_IN the_DT distances_NNS ._.
+Various_JJ Coefficients_NNS :_: Given_VBN two_CD binary_JJ data_NNS points_NNS ,_, w_NN and_CC w_FW ′_FW ,_, there_EX are_VBP four_CD fundamental_JJ quantities_NNS that_WDT can_MD be_VB used_VBN to_TO define_VB similarity_NN between_IN the_DT two_CD =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: :_: a_DT =_JJ -LCB-_-LRB- j_NN |_CD w_NN j_NN =_JJ w_FW ′_FW j_NN =_JJ 1_CD -RCB-_-RRB- ,_, b_NN =_JJ -LCB-_-LRB- j_FW |_FW 4_CD More_JJR discussions_NNS on_IN binary_JJ dissimilarity_NN coefficients_NNS can_MD be_VB found_VBN in_IN -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+5_CD Equation_NN 26_CD computes_VBZ the_DT weighted_JJ sum_NN using_VBG the_DT cluster_NN sizes_NNS ._.
+sw_FW j_FW =_JJ 1_CD ∧_CD w_NN ′_NN

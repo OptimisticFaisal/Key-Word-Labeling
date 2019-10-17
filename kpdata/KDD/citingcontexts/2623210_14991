@@ -1,0 +1,4 @@
+d_NN is_VBZ based_VBN on_IN the_DT measure_NN of_IN entropy_NN from_IN information_NN theory_NN ,_, which_WDT typically_RB gives_VBZ a_DT lower_JJR value_NN for_IN a_DT subspace_NN with_IN good_JJ clustering_NN ._.
+Although_IN entropy_NN has_VBZ been_VBN used_VBN in_IN decision_NN trees_NNS for_IN data_NNS mining_NN =_JJ -_: =[_NN 31_CD ,_, 32_CD -RRB-_-RRB- -_: =_JJ -_: ,_, to_TO our_PRP$ knowledge_NN ,_, no_DT previous_JJ work_NN has_VBZ used_VBN it_PRP for_IN the_DT problem_NN of_IN subspace_NN clustering_NN ._.
+We_PRP also_RB justify_VBP the_DT approach_NN by_IN establishing_VBG some_DT relationship_NN between_IN entropy_NN and_CC the_DT three_CD criteria_NNS ._.
+Our_PRP$ algo_NN

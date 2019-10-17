@@ -1,0 +1,4 @@
+Time_NNP Series_NNP Histograms_NNP 64_CD Experiment_NN 2_CD ._.
+This_DT experiment_NN is_VBZ designed_VBN to_TO check_VB the_DT effectiveness_NN and_CC robustness_NN of_IN multi-scale_JJ histograms_NNS in_IN answering_VBG shape_NN match_NN queries_NNS ._.
+According_VBG to_TO a_DT recent_JJ survey_NN =_JJ -_: =[_NN 55_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT efficacy_NN of_IN a_DT similarity_NN measure_NN for_IN shape_NN match_NN queries_NNS can_MD be_VB evaluated_VBN by_IN classification_NN and_CC clustering_NN results_NNS on_IN labeled_JJ data_NNS sets_NNS ._.
+The_DT classification_NN error_NN rate_NN is_VBZ defined_VBN as_IN a_DT ratio_NN of_IN t_NN

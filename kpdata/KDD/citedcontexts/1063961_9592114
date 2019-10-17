@@ -1,0 +1,5 @@
+rs_NNS associated_VBN with_IN this_DT step_NN :_: n_NN nearest_IN neighbors_NNS in_IN the_DT graph_NN G_NN computed_VBN with_IN Eqn_NN ._.
+1_CD ,_, and_CC t_NN iterations_NNS of_IN adjusting_VBG ¯_FW θi_FW ._.
+3.2_CD Facet_NNP modeling_NN 3.2.1_CD Statistical_JJ Topic_JJ Models_NNS Statistical_JJ topic_NN modeling_NN =_JJ -_: =[_NN 1_CD ,_, 8_CD ,_, 27_CD ,_, 18_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ quite_RB effective_JJ for_IN mining_NN topics_NNS in_IN a_DT text_NN collection_NN ._.
+In_IN this_DT kind_NN of_IN approaches_NNS ,_, a_DT document_NN is_VBZ often_RB assumed_VBN to_TO be_VB generated_VBN from_IN a_DT mixture_NN of_IN k_NN topic_NN models_NNS ._.
+Probabilistic_JJ Latent_JJ Semantic_NNP Anal_NNP

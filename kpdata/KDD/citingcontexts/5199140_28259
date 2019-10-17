@@ -1,0 +1,4 @@
+um_NN cardinality_NN such_JJ that_IN each_DT node_NN in_IN U_NN ,_, V_NN is_VBZ incident_NN on_IN at_IN most_JJS one_CD of_IN the_DT edges_NNS in_IN E_NNP ′_NNP ._.
+Maximum_NNP matching_NN in_IN bipartite_JJ graphs_NNS can_MD be_VB solved_VBN in_IN O_NN -LRB-_-LRB- n_NN 5\/2_CD -RRB-_-RRB- time_NN via_IN the_DT algorithm_NN of_IN Hopcroft_NNP and_CC Karp_NNP =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: and_CC can_MD be_VB approximated_VBN in_IN near-linear_JJ time_NN to_TO within_IN a_DT factor_NN of_IN 2_CD via_IN maximal_JJ matching_NN ._.
+Given_VBN a_DT directed_JJ acyclic_JJ graph_NN G_NN =_JJ -LRB-_-LRB- V_NN ,_, E_NN -RRB-_-RRB- ,_, we_PRP construct_VBP an_DT undirected_JJ bipartite_JJ G_NN ′_NN =_JJ -LRB-_-LRB- V_NNP ′_NNP ,_, V_NNP ′_NNP ′_NNP ,_, E_NNP ′_NNP -RRB-_-RRB- ._.
+Th_NN

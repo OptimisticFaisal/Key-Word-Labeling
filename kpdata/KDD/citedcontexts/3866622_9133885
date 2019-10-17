@@ -1,0 +1,5 @@
+ss_RB ,_, with_IN an_DT orthogonality_NN constraint_NN on_IN the_DT shared_JJ factors_NNS ._.
+Principal_NN components_NNS analysis_NN ,_, which_WDT factors_VBZ a_DT doubly_RB centered_JJ matrix_NN under_IN squared_VBN loss_NN ,_, has_VBZ also_RB been_VBN extended_VBN to_TO the_DT three-factor_JJ schema_NN =_JJ -_: =[_NN 36_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Another_DT interesting_JJ type_NN of_IN schema_NN contains_VBZ multiple_JJ parallel_JJ relations_NNS between_IN two_CD entity_NN types_NNS ._.
+An_DT example_NN of_IN this_DT sort_NN of_IN schema_NN is_VBZ max-margin_JJ matrix_NN factorization_NN -LRB-_-LRB- MMMF_NN -RRB-_-RRB- -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+In_IN MMMF_NNP ,_, the_DT goal_NN

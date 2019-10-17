@@ -1,0 +1,4 @@
+ets_NN that_WDT will_MD be_VB used_VBN to_TO illustrate_VB various_JJ aspects_NNS of_IN the_DT following_JJ algorithms_NNS are_VBP listed_VBN in_IN Table_NNP 7_CD ._.
+The_DT first_JJ three_CD data_NNS sets_NNS can_MD be_VB found_VBN at_IN the_DT Frequent_JJ Itemset_NNP Mining_NNP Implementations_NNPS Repository_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, while_IN the_DT LA1_NN data_NN set_NN is_VBZ from_IN the_DT LA_NNP data_NNS of_IN TREC-5_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Table_NNP 8_CD shows_VBZ various_JJ statistics_NNS related_VBN to_TO the_DT computation_NN of_IN support_NN envelopes_NNS for_IN the_DT given_VBN data_NN sets_NNS ._.
+-LRB-_-LRB- The_DT results_NNS in_IN this_DT table_NN were_VBD g_NN

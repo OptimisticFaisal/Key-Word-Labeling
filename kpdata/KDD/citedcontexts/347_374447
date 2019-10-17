@@ -1,0 +1,5 @@
+developed_VBD the_DT GMAR_NNP -LRB-_-LRB- Generalized_NNP Mining_NNP Association_NNP -RRB-_-RRB- algorithm_NN which_WDT combines_VBZ several_JJ pruning_NN techniques_NNS for_IN generalizing_VBG rules_NNS ._.
+The_DT numerous_JJ candidate_NN sets_NNS are_VBP pruned_VBN by_IN using_VBG minimal_JJ confidence_NN ._.
+In_IN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: a_DT new_JJ approach_NN for_IN mining_NN association_NN rules_NNS is_VBZ proposed_VBN ._.
+It_PRP is_VBZ based_VBN on_IN the_DT concept_NN ofs320_NN III_NNP Taller_NNP de_FW Minería_FW de_FW Datos_NNP y_NNP Aprendizaje_NNP frequent_JJ closed_JJ transactions_NNS ._.
+These_DT groups_NNS can_MD be_VB ordered_VBN by_IN ma_NN

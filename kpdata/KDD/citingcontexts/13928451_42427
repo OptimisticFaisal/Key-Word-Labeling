@@ -1,0 +1,5 @@
+|_FW |_FW X_NN ⊆_NN X_NN ′_FW ′_FW -RCB-_-RRB- ._.
+When_WRB l_NN ′_NNP ≪_NNP |_NNP L_NNP X_NNP |_NNP ,_, TODIS_NNP computes_VBZ pmfs_NNS much_RB faster_RBR than_IN p-Apriori_NN ._.
+To_TO facilitate_VB searching_VBG of_IN sub-patterns_NNS for_IN inheritance_NN -LRB-_-LRB- Step_NN 9_CD -RRB-_-RRB- and_CC deletion_NN of_IN patterns_NNS -LRB-_-LRB- Step_NN 15_CD -RRB-_-RRB- ,_, we_PRP build_VBP a_DT trie_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: of_IN depth_NN k_NN for_IN each_DT Fk_NN ,_, in_IN which_WDT each_DT non-leaf_JJ node_NN uses_VBZ a_DT hash_JJ map_NN to_TO store_VB the_DT addresses_NNS of_IN its_PRP$ child_NN nodes_NNS ._.
+The_DT cost_NN of_IN a_DT pattern_NN retrieval_NN and_CC deletion_NN in_IN Fk_NN is_VBZ O_NN -LRB-_-LRB- k_NN -RRB-_-RRB- ._.
+Since_IN we_PRP only_RB need_VBP the_DT maxim_NN

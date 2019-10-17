@@ -1,0 +1,3 @@
+of_IN the_DT Web_NN ,_, and_CC every_DT link_NN -LRB-_-LRB- x_NN ,_, y_NN -RRB-_-RRB- ∈_NN E_NN corresponds_VBZ to_TO a_DT hyperlink_NN from_IN page_NN x_NN to_TO page_NN y_NN in_IN the_DT collection_NN ._.
+For_IN concreteness_NN ,_, the_DT total_JJ number_NN of_IN nodes_NNS N_NN =_JJ |_CD V_NN |_NN in_IN the_DT full_JJ Web_NN is_VBZ in_IN the_DT order_NN of_IN 10_CD 10_CD =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC the_DT typical_JJ number_NN of_IN links_NNS per_IN Web_NN page_NN is_VBZ between_IN 20_CD and_CC 30_CD ._.
+Link_NN analysis_NN algorithms_NNS assume_VBP that_IN every_DT link_NN represents_VBZ an_DT endorsement_NN ,_, in_IN the_DT sense_NN that_IN if_IN there_EX is_VBZ a_DT link_NN from_IN page_NN x_NN to_TO page_NN

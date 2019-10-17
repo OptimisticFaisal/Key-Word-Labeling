@@ -1,0 +1,4 @@
+two_CD main_JJ categories_NNS ._.
+The_DT first_JJ category_NN aims_NNS for_IN generic_JJ procedures_NNS that_WDT can_MD make_VB arbitrary_JJ classifiers_NNS cost_NN sensitive_JJ by_IN resorting_VBG to_TO Bayes_NNP risk_NN theory_NN or_CC some_DT other_JJ cost_NN minimization_NN strategy_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT second_JJ attempts_NNS to_TO extend_VB particular_JJ algorithms_NNS so_RB as_IN to_TO produce_VB cost-sensitive_JJ generalizations_NNS ._.
+Of_IN interest_NN to_TO this_DT work_NN are_VBP classifiers_NNS obtained_VBN by_IN thresholding_VBG a_DT continuous_JJ function_NN ,_, here_RB den_NN

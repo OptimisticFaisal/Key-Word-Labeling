@@ -1,0 +1,4 @@
+ous_JJ trajectory_JJ clustering_NN algorithms_NNS have_VBP been_VBN developed_VBN for_IN the_DT applications_NNS like_IN traffic_NN flow_NN ,_, animal_NN movement_NN ,_, hurricane_NN track_NN ,_, etc._NN ._.
+Many_JJ similarity_NN measure_NN between_IN trajectories_NNS have_VBP been_VBN proposed_VBN =_JJ -_: =[_NN 34_CD ,_, 5_CD ,_, 2_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP use_VBP longest_JJS common_JJ subsequence_NN -LRB-_-LRB- LCSS_NN -RRB-_-RRB- to_TO calculate_VB the_DT similarity_NN between_IN different_JJ routes_NNS ._.
+Instead_RB of_IN calculating_VBG the_DT similarity_NN between_IN trajectories_NNS directly_RB ,_, Lee_NNP et_FW al._FW proposed_VBN

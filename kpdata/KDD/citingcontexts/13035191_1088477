@@ -1,0 +1,4 @@
+n_NN a_DT page_NN can_MD be_VB regarded_VBN as_IN a_DT classification_NN problem_NN ._.
+To_TO solve_VB the_DT problem_NN ,_, a_DT body_NN subtree_NN identification_NN model_NN denoted_VBN by_IN MBODY_NN is_VBZ built_VBN based_VBN on_IN Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- developed_VBN by_IN V._NNP Vapnik_NNP =_SYM -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+MBODY_NN is_VBZ a_DT function_NN which_WDT maps_VBZ the_DT feature_NN values_NNS of_IN T_NN to_TO the_DT estimated_VBN probability_NN of_IN being_VBG TBODY_NN ._.
+It_PRP can_MD be_VB formalized_VBN as_IN follows_VBZ :_: f_LS :_: -LRB-_-LRB- features_NNS of_IN T_NN -RRB-_-RRB- →_CD -LCB-_-LRB- 0_CD ,_, +1_CD -RCB-_-RRB- where_WRB T_NN takes_VBZ value_NN 1_CD if_IN it_PRP is_VBZ a_DT bo_NN

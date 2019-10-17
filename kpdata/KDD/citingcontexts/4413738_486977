@@ -1,0 +1,4 @@
+beacon-based_JJ approaches_NNS ._.
+Other_JJ strategies_NNS in_IN the_DT Internet_NN domain_NN have_VBP attempted_VBN to_TO create_VB network_NN overlay_NN structures_NNS ,_, such_JJ as_IN a_DT rings-based_JJ approach_NN that_WDT does_VBZ not_RB rely_VB on_IN selection_NN of_IN landmark_NN nodes_NNS ._.
+=_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: This_DT concept_NN has_VBZ recently_RB been_VBN explored_VBN theoretically_RB as_IN a_DT technique_NN for_IN distance_NN estimation_NN and_CC nearest_JJS neighbor_NN searches_NNS by_IN Slivkins_NNS -LRB-_-LRB- 20_CD -RRB-_-RRB- and_CC Krauthgamer_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+However_RB ,_, it_PRP is_VBZ unclear_JJ how_WRB accurately_RB

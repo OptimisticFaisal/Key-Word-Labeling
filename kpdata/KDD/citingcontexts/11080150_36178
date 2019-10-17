@@ -1,0 +1,4 @@
+θd_RB ,_, and_CC the_DT topic-word_JJ distributions_NNS ,_, Φ_NN ._.
+MAP_NN estimation_NN in_IN this_DT model_NN is_VBZ intractable_JJ due_JJ to_TO the_DT interaction_NN between_IN these_DT terms_NNS ,_, but_CC relatively_RB efficient_JJ MCMC_NN and_CC variational_JJ methods_NNS are_VBP widely_RB used_VBN =_JJ -_: =[_NN 4_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Both_DT classes_NNS of_IN methods_NNS can_MD produce_VB estimates_NNS of_IN Φ_NN ,_, which_WDT we_PRP refer_VBP to_TO as_IN ˆ_NN Φ_NN ._.
+In_IN the_DT case_NN of_IN collapsed_JJ Gibbs_NNP sampling_NN ,_, the_DT Markov_NNP chain_NN state_NN consists_VBZ of_IN topic_NN assignments_NNS z_SYM for_IN each_DT token_JJ in_IN the_DT tr_NN

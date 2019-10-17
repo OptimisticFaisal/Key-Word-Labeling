@@ -1,0 +1,4 @@
+ally_VB considered_VBN inappropriate_JJ for_IN binary_JJ data_NNS ._.
+2.1.3_CD Pointwise_NNP Mutual-Information_NNP :_: positive_JJ correlations_NNS -LRB-_-LRB- MI1_NN -RRB-_-RRB- Information_NN theory_NN motivates_VBZ other_JJ measures_NNS of_IN correlation_NN ,_, such_JJ as_IN ``_`` mutual_JJ information_NN ''_'' =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP chose_VBD pointwise_JJ mutual_JJ information_NN where_WRB we_PRP only_RB count_VBP ``_`` positive_JJ ''_'' correlations_NNS -LRB-_-LRB- membership_NN in_IN both_CC B_NN and_CC R_NN -RRB-_-RRB- ._.
+Such_JJ a_DT formulation_NN essentially_RB focuses_VBZ on_IN how_WRB membership_NN in_IN one_CD group_NN is_VBZ predictive_JJ of_IN

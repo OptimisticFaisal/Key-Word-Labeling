@@ -1,0 +1,5 @@
+preferences_NNS PNC_NNP ._.
+After_IN adding_VBG the_DT hard_JJ constraints_NNS as_IN described_VBN above_IN ,_, we_PRP trained_VBD a_DT ranking_JJ SVM_NN for_IN each_DT of_IN the_DT two_CD sets_NNS of_IN preferences_NNS with_IN a_DT linear_JJ kernel_NN and_CC a_DT default_NN value_NN of_IN C_NN using_VBG SV_NN M_NN light_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP set_VBD wmin_NN =_JJ 1_CD ._.
+Using_VBG the_DT preferences_NNS PQC_NN we_PRP learned_VBD a_DT retrieval_NN function_NN relQC_NN and_CC using_VBG the_DT preferences_NNS PNC_NNP we_PRP learned_VBD relNC_NN ._.
+The_DT former_JJ model_NN has_VBZ 41,354_CD support_NN vectors_NNS ,_, while_IN the_DT latter_JJ has_VBZ 18_CD ,_,

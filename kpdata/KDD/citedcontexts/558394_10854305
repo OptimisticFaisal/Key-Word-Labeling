@@ -1,0 +1,6 @@
+-LRB-_-LRB- 28_CD -RRB-_-RRB- ._.
+Systems_NNPS for_IN opinion_NN mining_NN have_VBP been_VBN used_VBN to_TO classify_VB entire_JJ documents_NNS by_IN their_PRP$ overall_JJ opinion_NN -LRB-_-LRB- eg_FW ._.
+-LRB-_-LRB- 38_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 29_CD -RRB-_-RRB- -RRB-_-RRB- as_RB well_RB as_IN to_TO extract_VB opinions_NNS on_IN features_NNS of_IN a_DT specific_JJ entity_NN or_CC topic_NN -LRB-_-LRB- eg_FW ._.
+=_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 21_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+The_DT first_JJ application_NN is_VBZ centred_VBN primarily_RB on_IN documents_NNS ,_, and_CC tries_VBZ to_TO answer_VB questions_NNS like_IN ``_`` Is_VBZ this_DT a_DT positive_JJ or_CC negative_JJ review_NN ?_. ''_''
+The_DT second_NN is_VBZ centred_VBN on_IN entities_NNS or_CC topics_NNS ,_, and_CC so_RB can_MD

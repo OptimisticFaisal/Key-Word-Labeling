@@ -1,0 +1,3 @@
+tudies_NNS have_VBP proposed_VBN new_JJ algorithms_NNS for_IN solving_VBG traditional_JJ database_NN problems_NNS in_IN the_DT data_NNS streaming_NN context_NN ._.
+A_DT decision_NN tree_NN classification_NN algorithm_NN for_IN streaming_NN data_NNS was_VBD presented_VBN by_IN Hulten_NNP et_FW al._FW =_SYM -_: =_JJ -LRB-_-LRB- HSD01_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+Two_CD additional_JJ algorithms_NNS for_IN streaming_NN data_NNS ,_, one_CD for_IN computing_VBG correlated_JJ aggregates_NNS -LRB-_-LRB- GKS01_NN -RRB-_-RRB- and_CC another_DT for_IN answering_VBG aggregate_JJ queries_NNS approximately_RB -LRB-_-LRB- GKMS01_NN -RRB-_-RRB- ,_, have_VBP been_VBN described_VBN in_IN the_DT literatur_NN

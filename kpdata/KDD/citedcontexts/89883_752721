@@ -1,0 +1,5 @@
+e_LS edge_NN or_CC one_CD vertex_NN in_IN traditional_JJ methods_NNS ._.
+Experiments_NNS on_IN synthetic_JJ datasets_NNS as_RB well_RB as_IN a_DT real_JJ NIH_NNP dataset_NN demonstrates_VBZ that_IN our_PRP$ algorithm_NN outperforms_VBZ closeGraph_NN and_CC gSpan_NN ._.
+1_CD Introduction_NN CloseGraph_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: gives_VBZ an_DT efficient_JJ way_NN to_TO mine_VB frequent_JJ closed_JJ graph_NN patterns_NNS ._.
+However_RB it_PRP requires_VBZ multiple_JJ scans_NNS to_TO generate_VB child_NN patterns_NNS and_CC collect_VB the_DT supports_NNS ._.
+LCGMiner_NN transforms_VBZ edges_NNS into_IN itemsets_NNS and_CC redu_NN

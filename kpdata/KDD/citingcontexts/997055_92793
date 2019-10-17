@@ -1,0 +1,5 @@
+Figure_NN 8_CD :_: Replace_NNP Replace_NNP ._.
+The_DT third_JJ dataset_NN ,_, Replace_NNP ,_, is_VBZ a_DT program_NN trace_NN dataset_NN collected_VBN from_IN the_DT ``_`` replace_VB ''_'' program_NN ,_, one_CD of_IN Siemens_NNP Programs_NNP ,_, which_WDT are_VBP widely_RB used_VBN in_IN software_NN engineering_NN research_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP recorded_VBD the_DT program_NN call_NN and_CC transitionsinformation_NN of_IN 4,395_CD correct_JJ executions_NNS ._.
+Each_DT type_NN of_IN program_NN calls_NNS and_CC transitions_NNS is_VBZ taken_VBN as_IN one_CD item_NN ._.
+Overall_RB ,_, there_EX are_VBP 66_CD kinds_NNS of_IN calls_NNS and_CC transit_NN

@@ -1,0 +1,4 @@
+easured_VBN using_VBG Bregman_NNP Divergence_NNP between_IN the_DT two_CD matrices_NNS ._.
+The_DT choice_NN of_IN the_DT Bregman_NNP Divergence_NNP to_TO use_VB will_MD be_VB governed_VBN by_IN the_DT application_NN domain_NN ._.
+Dhillon_NNP et_FW al_FW use_NN KL-divergence_NN on_IN document_NN data_NNS set_VBD =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: and_CC squared_VBD euclidean_JJ distance_NN for_IN gene_NN expression_NN data_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- for_IN hard_JJ co-clustering_NN ._.
+It_PRP should_MD be_VB noted_VBN that_IN the_DT Bregman_NNP Divergence_NNP directly_RB does_VBZ not_RB represent_VB the_DT elements_NNS of_IN Û_NN and_CC ˆ_NN V_NN ,_, but_CC will_MD be_VB

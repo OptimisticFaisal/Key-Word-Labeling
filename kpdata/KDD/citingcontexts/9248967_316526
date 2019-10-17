@@ -1,0 +1,9 @@
+al_FW error_NN for_IN this_DT algorithm_NN is_VBZ proved_VBN in_IN -LRB-_-LRB- 24_CD -RRB-_-RRB- :_: ‖_NN A_NN −_NN PCA_NN ‖_NN 2_CD ≤_FW √_FW n_NN −_FW k2_FW k_NN ‖_NN A_NN −_FW Ak_FW ‖_NN 2_CD ._.
+2_CD ._.
+SPQR_NN :_: The_DT Semi_FW Pivoted_FW QR_NN -LRB-_-LRB- SPQR_NN -RRB-_-RRB- method_NN described_VBN by_IN Stewart_NNP in_IN -LRB-_-LRB- 38_CD -RRB-_-RRB- ._.
+A_DT Matlab_NNP implementation_NN is_VBZ available_JJ from_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP are_VBP not_RB aware_JJ of_IN provable_JJ a_DT priori_FW bounds_NNS for_IN this_DT algorithm_NN ._.
+3_LS ._.
+High_JJ RRQR_NN :_: High_NNP RRQR_NNP was_VBD devised_VBN by_IN Chan_NNP in_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+A_DT MatLab_NNP implementation_NN is_VBZ available_JJ from_IN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+The_DT best_JJS known_VBN bound_VBD for_IN the_DT spec_NN

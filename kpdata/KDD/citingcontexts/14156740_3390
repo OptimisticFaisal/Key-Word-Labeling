@@ -1,0 +1,5 @@
+stationary_JJ point_NN of_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- -LRB-_-LRB- or_CC -LRB-_-LRB- 1_LS -RRB-_-RRB- -RRB-_-RRB- ._.
+With_IN the_DT condition_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, the_DT one-variable_JJ sub-problems_NNS for_IN the_DT convergence_NN subsequence_NN are_VBP strictly_RB convex_VBN ._.
+Then_RB the_DT proof_NN follows_VBZ the_DT proof_NN of_IN Proposition_NNP 3.3.9_CD in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN KLNMF_NNP ,_, -LRB-_-LRB- 24_CD -RRB-_-RRB- is_VBZ violated_VBN only_RB when_WRB corresponding_JJ row\/columns_NNS of_IN V_NN are_VBP all_DT zero_CD -LRB-_-LRB- otherwise_RB the_DT objective_JJ value_NN will_MD be_VB infinity_NN -RRB-_-RRB- ._.
+Therefore_RB ,_, zero_CD row\/columns_NNS of_IN V_NN can_MD be_VB removed_VBN by_IN preprocessing_VBG t_NN

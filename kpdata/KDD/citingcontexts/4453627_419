@@ -1,0 +1,5 @@
+ep_NN in_IN a_DT top-down_JJ fashion_NN from_IN the_DT root_NN to_TO the_DT leaves_NNS ._.
+However_RB ,_, since_IN the_DT variance_NN components_NNS associated_VBN with_IN the_DT model_NN are_VBP unknown_JJ ,_, we_PRP estimate_VBP them_PRP through_IN an_DT Expectation-Maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- algorithm_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT EM_NNP algorithm_NN involves_VBZ iterating_VBG through_IN the_DT filtering_VBG and_CC smoothing_VBG steps_NNS several_JJ times_NNS -LRB-_-LRB- for_IN our_PRP$ application_NN ,_, less_JJR than_IN 25_CD -RRB-_-RRB- until_IN convergence_NN ._.
+3_LS ._.
+MODELING_NN DETAILS_VBZ We_PRP now_RB describe_VBP the_DT first_JJ and_CC s_NN

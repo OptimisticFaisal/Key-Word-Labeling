@@ -1,0 +1,4 @@
+approximate_JJ string_NN matching_NN criteria_NNS ,_, in_IN some_DT cases_NNS augmented_VBD with_IN domain_NN specific_JJ rules_NNS ._.
+More_RBR recently_RB ,_, there_EX have_VBP been_VBN adaptive_JJ approaches_NNS which_WDT make_VBP use_NN of_IN multiple_JJ attributes_NNS and_CC use_VB labeled_JJ data_NN =_JJ -_: =[_NN 24_CD ,_, 2_CD ,_, 1_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ approach_NN also_RB makes_VBZ use_NN of_IN attribute_NN similarity_NN measures_NNS ,_, but_CC in_IN addition_NN ,_, it_PRP takes_VBZ into_IN account_NN the_DT similarity_NN of_IN Categories_NNS and_CC Subject_NN Descriptors_NNS linked_VBD objects_NNS ._.
+For_IN example_NN ,_, if_IN we_PRP are_VBP compa_NN

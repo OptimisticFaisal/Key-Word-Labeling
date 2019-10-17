@@ -1,0 +1,4 @@
+ithm_NN for_IN the_DT above_JJ instance_NN ._.
+Then_RB ,_, Cov_NN -LRB-_-LRB- Rgdy_NN -RRB-_-RRB- ≥_CD 1_CD 1_CD -LRB-_-LRB- 1_CD −_NN 2_CD ɛ2_NN -RRB-_-RRB- Cov_NN -LRB-_-LRB- Ropt_NN -RRB-_-RRB- ._.
+The_DT proof_NN of_IN the_DT theorem_NN uses_VBZ ideas_NNS from_IN the_DT analysis_NN of_IN the_DT greedy_JJ algorithm_NN for_IN the_DT submodular_JJ function_NN optimization_NN problem_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ;_: we_PRP note_VBP however_RB that_IN the_DT coverage_NN function_NN is_VBZ not_RB submodular_JJ ._.
+We_PRP can_MD show_VB that_IN the_DT greedy_JJ algorithm_NN can_MD be_VB implemented_VBN in_IN time_NN linear_NN in_IN the_DT input_NN size_NN and_CC the_DT parameter_NN k_NN ,_, assuming_VBG that_IN the_DT input_NN s_NN

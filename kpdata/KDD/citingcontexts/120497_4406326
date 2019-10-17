@@ -1,0 +1,7 @@
+i_LS =_JJ 1_CD xip_NN -LRB-_-LRB- h_NN |_FW xi_FW ,_, Θ_NN -RRB-_-RRB- Pn_NN ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- p_NN -LRB-_-LRB- h_NN |_FW xi_FW ,_, Θ_NN -RRB-_-RRB- 1_CD analysis_NN using_VBG the_DT KKT_NN conditions_NNS is_VBZ skipped_VBN for_IN brevity_NN ._.
+κh_FW ≥_FW 0_CD is_VBZ accounted_VBN for_IN by_IN taking_VBG positive_JJ square_NN roots_NNS ._.
+The_DT final_JJ estimates_NNS come_VBP out_RP to_TO be_VB th_DT =_JJ -_: =_JJ e_LS same_JJ -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+i_LS =_JJ 1_CD w_NN -_: =_JJ -_: here_RB Ad_NN -LRB-_-LRB- κ_NN -RRB-_-RRB- =_JJ Id\/2_NN -LRB-_-LRB- κ_NN -RRB-_-RRB- ._.
+A_DT closed_JJ form_NN solution_NN of_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- is_VBZ Id\/2_FW −_FW 1_CD -LRB-_-LRB- κ_NN -RRB-_-RRB- not_RB possible_JJ and_CC one_PRP can_MD use_VB numerical_JJ techniques_NNS to_TO solve_VB for_IN ˆκh_NN ._.
+A_DT reasonable_JJ approximation_NN to_TO the_DT solution_NN is_VBZ obtained_VBN by_IN

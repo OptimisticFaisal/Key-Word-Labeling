@@ -1,0 +1,4 @@
+sensitive_JJ and_CC to_TO modify_VB the_DT class_NN distribution_NN of_IN the_DT training_NN data_NNS set_VBN to_TO obtain_VB a_DT classifier_NN that_WDT adjusts_VBZ itself_PRP to_TO a_DT specific_JJ cost_NN matrix_NN and_CC the_DT class_NN distribution_NN of_IN the_DT test_NN set_VBN if_IN known_VBN -LRB-_-LRB- 16_CD -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, a_DT change_NN of_IN class_NN distribution_NN is_VBZ usually_RB done_VBN by_IN stratification_NN -LRB-_-LRB- or_CC re-balancing_NN -RRB-_-RRB- ,_, i.e._FW ,_, either_CC by_IN under-sampling_NN or_CC by_IN over-sampling_NN ._.
+Stratification_NN presents_VBZ some_DT problems_NNS though_IN ._.
+Weiss_NNP a_DT

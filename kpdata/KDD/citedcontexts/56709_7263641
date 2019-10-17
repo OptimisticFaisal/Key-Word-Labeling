@@ -1,0 +1,4 @@
+account_VB the_DT prior_JJ information_NN about_IN object_NN labels_NNS ,_, thus_RB they_PRP do_VBP not_RB exploit_VB all_DT information_NN ,_, which_WDT is_VBZ available_JJ for_IN classification_NN ._.
+Several_JJ methods_NNS for_IN incremental_JJ LDA_NN have_VBP also_RB been_VBN already_RB proposed_VBN =_JJ -_: =[_NN 9_CD ,_, 15_CD ,_, 20_CD ,_, 21_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS of_IN these_DT methods_NNS focus_VBP on_IN the_DT updating_VBG of_IN the_DT between_IN class_NN scatter_NN matrix_NN and_CC the_DT within_IN class_NN scatter_NN matrix_NN ,_, thus_RB keeping_VBG the_DT discriminative_JJ information_NN only_RB ._.
+In_IN contrast_NN ,_, our_PRP$ method_NN keeps_VBZ u_NN

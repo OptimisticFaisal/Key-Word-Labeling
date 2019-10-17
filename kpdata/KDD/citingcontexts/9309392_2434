@@ -1,0 +1,4 @@
+assification_NN To_TO perform_VB collective_JJ classification_NN ,_, we_PRP use_VBP both_CC the_DT iterative_JJ classification_NN algorithm_NN -LRB-_-LRB- ICA_NN -RRB-_-RRB- and_CC relaxation_NN labeling_NN -LRB-_-LRB- RL_NN -RRB-_-RRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+We_PRP also_RB ran_VBD preliminary_JJ experiments_NNS using_VBG Gibbs_NNP sampling_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT yielded_VBD results_NNS comparable_JJ to_TO ICA_NNP ._.
+This_DT is_VBZ consistent_JJ with_IN findings_NNS of_IN other_JJ researchers_NNS -LRB-_-LRB- 12_CD ,_, 17_CD -RRB-_-RRB- ._.
+In_IN our_PRP$ experiments_NNS ,_, the_DT logForest_NN classifier_NN performed_VBD better_JJR overall_NN using_VBG ICA_NNP and_CC the_DT wvRN_NN

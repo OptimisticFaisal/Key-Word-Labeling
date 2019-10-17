@@ -1,0 +1,4 @@
+result_NN of_IN a_DT query_NN in_IN the_DT original_JJ N-dimensional_JJ space_NN with_IN the_DT result_NN in_IN the_DT reduced_VBN k-dimensional_NN space_NN ._.
+This_DT approach_NN was_VBD previously_RB used_VBN for_IN evaluating_VBG SVD-based_JJ dimension_NN reduction_NN algorithms_NNS in_IN =_JJ -_: =[_NN 14_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Let_VB S_NN N_NN denote_VBP the_DT set_NN of_IN data_NNS points_NNS -LRB-_-LRB- images_NNS -RRB-_-RRB- in_IN the_DT original_JJ N-dimensional_JJ space_NN and_CC let_VB S_NN k_NN denote_VB the_DT set_NN of_IN data_NNS points_NNS in_IN the_DT reduced_VBN k-dimensional_NN space_NN ._.
+Let_VB R_NN -LRB-_-LRB- q_NN ,_, S_NN N_NN -RRB-_-RRB- be_VB the_DT subset_NN of_IN point_NN

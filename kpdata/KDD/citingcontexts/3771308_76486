@@ -1,0 +1,3 @@
+ing_JJ Department_NNP Carnegie_NNP Mellon_NNP University_NNP 5000_CD Forbes_NNP Avenue_NNP ,_, Pittsburgh_NNP ,_, PA_NN wcohen@cs.cmu.edu_NN Online_NN learning_NN algorithms_NNS have_VBP been_VBN traditionally_RB trained_VBN using_VBG several_JJ passes_NNS through_IN the_DT training_NN data_NN =_JJ -_: =[_NN 3_CD ,_, 11_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT current_JJ work_NN we_PRP address_VBP the_DT problem_NN of_IN single-pass_JJ online_NN learning_NN ,_, i.e._FW ,_, online_JJ learning_NN restricted_JJ to_TO a_DT single_JJ training_NN pass_NN over_IN the_DT available_JJ data_NNS ._.
+This_DT setting_NN is_VBZ particularly_RB relevant_JJ w_NN

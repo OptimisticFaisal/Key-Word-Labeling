@@ -1,0 +1,5 @@
+training_NN and_CC test_NN sets_NNS ._.
+Using_VBG a_DT high_JJ number_NN of_IN folds_VBZ can_NN in_IN fact_NN lead_NN to_TO worse_JJR generalization_NN estimates_NNS when_WRB we_PRP have_VBP few_JJ data_NNS points_NNS and_CC the_DT prediction_NN error_NN is_VBZ high_JJ ,_, as_IN it_PRP is_VBZ typical_JJ of_IN this_DT domain_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT whole_JJ spectrum_NN interval_NN was_VBD divided_VBN in_IN 15_CD subintervals_NNS of_IN equal_JJ size_NN ._.
+For_IN the_DT genetic_JJ algorithm_NN ,_, for_IN example_NN ,_, this_DT means_VBZ we_PRP are_VBP using_VBG 15_CD genes_NNS per_IN individual_NN ._.
+The_DT reason_NN for_IN this_DT choice_NN was_VBD to_TO a_DT

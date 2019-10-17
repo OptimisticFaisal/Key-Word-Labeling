@@ -1,0 +1,4 @@
+projection_NN technique_NN of_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+The_DT authors_NNS of_IN -LRB-_-LRB- 19_CD -RRB-_-RRB- present_VBP a_DT greedy_JJ method_NN for_IN selecting_VBG the_DT best_JJS rows\/columns_NNS to_TO use_VB for_IN the_DT approximation_NN ._.
+A_DT related_JJ work_NN in_IN the_DT area_NN of_IN document_NN analysis_NN is_VBZ that_DT of_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, wherein_WRB only_RB the_DT off-diagonal_JJ blocks_NNS of_IN the_DT affinity_NN matrix_NN are_VBP known_VBN ,_, i.e._FW only_RB bipartite_JJ weights_NNS are_VBP available_JJ ._.
+The_DT author_NN then_RB applies_VBZ the_DT Normalized_NNP Cut_NNP method_NN ,_, which_WDT reduces_VBZ to_TO a_DT simple_JJ SVD_NN on_IN

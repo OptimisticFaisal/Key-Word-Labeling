@@ -1,0 +1,4 @@
+the_DT number_NN of_IN frequent_JJ paths_NNS is_VBZ much_RB smaller_JJR than_IN the_DT number_NN of_IN possible_JJ combinations_NNS of_IN frequent_JJ edges_NNS ,_, there_EX is_VBZ huge_JJ amount_NN of_IN repeated_JJ computation_NN which_WDT could_MD be_VB avoided_VBN ._.
+There_EX is_VBZ a_DT existing_VBG work_NN =_JJ -_: =_JJ -LRB-_-LRB- NK04_NN -RRB-_-RRB- -_: =_SYM -_: which_WDT explores_VBZ the_DT same_JJ idea_NN ,_, but_CC in_IN that_DT paper_NN ,_, except_IN the_DT diameter_NN of_IN the_DT tree_NN ,_, other_JJ part_NN of_IN the_DT tree_NN is_VBZ still_RB built_VBN from_IN frequent_JJ edges_NNS ._.
+Chapter_NN 6_CD ._.
+CN_NN Generation_NN 131_CD We_PRP plan_VBP to_TO investigate_VB this_DT a_DT

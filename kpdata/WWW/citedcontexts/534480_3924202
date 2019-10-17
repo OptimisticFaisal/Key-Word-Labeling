@@ -1,0 +1,4 @@
+data-organization_NN technique_NN for_IN end_NN users_NNS ._.
+In_IN recent_JJ years_NNS ,_, tags_NNS have_VBP become_VBN very_RB popular_JJ and_CC researchers_NNS have_VBP coined_VBN a_DT term_NN Folksonomy_NNP to_TO represent_VB the_DT tag_NN cloud_NN in_IN social_JJ media_NNS ._.
+Brooks_NNP and_CC Montanez_NNP =_SYM -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP analyzed_VBN tags_NNS from_IN Technorati_NNP 9_CD to_TO calculate_VB the_DT similarity_NN of_IN all_DT articles_NNS having_VBG a_DT common_JJ tag_NN ._.
+They_PRP use_VBP clustering_NN algorithms_NNS to_TO deduce_VB ``_`` topical_JJ hierarchy_NN ''_'' in_IN tags_NNS and_CC argue_VBP that_IN tags_NNS are_VBP effe_NN

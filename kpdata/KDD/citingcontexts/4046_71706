@@ -1,0 +1,5 @@
+in-specific_JJ information_NN to_TO calculate_VB profit_NN we_PRP can_MD use_VB MSE_NNP to_TO evaluate_VB our_PRP$ methods_NNS ._.
+5.1_CD Two-class_JJ problems_NNS The_DT first_JJ dataset_NN we_PRP use_VBP is_VBZ the_DT KDD-98_NN dataset_NN ,_, which_WDT is_VBZ available_JJ in_IN the_DT UCI_NNP KDD_NNP repository_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT dataset_NN contains_VBZ information_NN about_IN persons_NNS who_WP have_VBP made_VBN donations_NNS to_TO a_DT certain_JJ charity_NN ._.
+The_DT decision-making_JJ task_NN is_VBZ to_TO choose_VB which_WDT donors_NNS to_TO request_VB a_DT new_JJ donation_NN from_IN ._.
+The_DT data_NN is_VBZ divided_VBN in_IN

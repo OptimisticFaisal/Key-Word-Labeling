@@ -1,0 +1,3 @@
+oaches_NNS for_IN randomization_NN independently_RB proposed_VBN by_IN various_JJ researchers_NNS are_VBP reviewed_VBN and_CC studied_VBN in_IN -LRB-_-LRB- Fan_NN et_FW al._FW ,_, 2005_CD ,_, Liu_NNP ,_, 2005_CD -RRB-_-RRB- ._.
+In_IN particular_JJ ,_, it_PRP is_VBZ worthwhile_JJ to_TO mention_VB bagging_NN and_CC random_JJ forest_NN -LRB-_-LRB- =_JJ -_: =_JJ Breiman_NNP ,_, 2001_CD -_: =-]_NN ,_, feature_NN subset_NN randomization_NN -LRB-_-LRB- Amit_NNP and_CC Geman_NNP ,_, 1997_CD -RRB-_-RRB- among_IN others_NNS ._.
+For_IN regression_NN problem_NN ,_, random_JJ forest_NN -LRB-_-LRB- RF_NN -RRB-_-RRB- for_IN regression_NN is_VBZ the_DT closest_JJS work_NN to_TO random_JJ decision_NN trees_NNS -LRB-_-LRB- Breiman_NNP ,_, 2001_CD ,_, Segal_NNP ,_, 2004_CD -RRB-_-RRB-

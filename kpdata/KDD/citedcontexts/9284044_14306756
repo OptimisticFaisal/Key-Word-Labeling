@@ -1,0 +1,3 @@
+ion_NN ._.
+For_IN a_DT given_VBN pair_NN of_IN user_NN u_NN and_CC item_NN v_LS ,_, we_PRP would_MD like_VB to_TO learn_VB the_DT probability_NN that_IN an_DT adoption_NN link_NN -LRB-_-LRB- u_NN ,_, v_LS -RRB-_-RRB- would_MD exist_VB in_IN E._NNP Factorization-based_JJ approaches_NNS can_MD model_VB a_DT user_NN 's_POS personal_JJ preferences_NNS =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD such_JJ factorization_NN is_VBZ Latent_JJ Dirichlet_NNP Allocation_NNP -LRB-_-LRB- LDA_NNP -RRB-_-RRB- -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, which_WDT learns_VBZ a_DT set_NN of_IN latent_JJ factors_NNS by_IN factorizing_VBG the_DT adjacency_NN matrix_NN of_IN the_DT adoption_NN graph_NN into_IN two_CD matrices_NNS :_: one_CD that_WDT reflects_VBZ t_NN

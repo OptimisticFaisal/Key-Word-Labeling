@@ -1,0 +1,4 @@
+nts_NNS ._.
+A_DT click_VBP graph_NN contains_VBZ a_DT vast_JJ amount_NN of_IN user_NN click_VBP information_NN ,_, giving_VBG rise_NN to_TO contentindependent_JJ ,_, unsupervised_JJ methods_NNS for_IN many_JJ applications_NNS such_JJ as_IN query\/document_NN clustering_NN and_CC classification_NN =_JJ -_: =[_NN 3_CD ,_, 10_CD ,_, 18_CD -RRB-_-RRB- -_: =_JJ -_: and_CC query-to-document_JJ retrieval_NN -LRB-_-LRB- 1_CD ,_, 8_CD -RRB-_-RRB- ._.
+This_DT also_RB brings_VBZ opportunities_NNS for_IN semi-supervised_JJ learning_NN ,_, which_WDT leverages_VBZ both_CC labeled_JJ and_CC unlabeled_JJ examples_NNS in_IN classification_NN ._.
+Intuitively_RB ,_, queries_NNS with_IN s_NN

@@ -1,0 +1,4 @@
+gned_VBN to_TO be_VB a_DT hierarchical_JJ version_NN of_IN LDA_NNP that_WDT removed_VBD the_DT requirement_NN of_IN specifying_VBG the_DT number_NN of_IN latent_JJ topics_NNS a_DT priori_FW ._.
+Lavrenko_NNP presents_VBZ an_DT alternative_JJ approach_NN to_TO topic_NN detection_NN based_VBN on_IN kernels_NNS =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+He_PRP claims_VBZ that_IN HDPs_NNS and_CC LDA_NN are_VBP not_RB desirable_JJ because_IN they_PRP tend_VBP to_TO lump_NN outliers_NNS into_IN existing_VBG clusters_NNS rather_RB than_IN creating_VBG new_JJ clusters_NNS ._.
+We_PRP experienced_VBD this_DT with_IN classical_JJ MP3_NN files_NNS ;_: however_RB ,_, the_DT

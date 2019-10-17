@@ -1,0 +1,4 @@
+sparser_JJR query_NN vectors_NNS ;_: both_DT and_CC work_NN much_RB better_JJR than_IN the_DT Rocchio_NNP algorithm_NN ,_, with_IN being_VBG much_RB faster_RBR than_IN ._.
+4_LS ._.
+Related_NNP Work_NNP PU_NN Learning_NNP has_VBZ been_VBN studied_VBN recently_RB in_IN the_DT context_NN of_IN text_NN classification_NN =_JJ -_: =[_NN 3_CD ,_, 2_CD ,_, 5_CD ,_, 12_CD ,_, 18_CD ,_, 17_CD ,_, 15_CD ,_, 7_CD ,_, 35_CD ,_, 34_CD ,_, 37_CD ,_, 38_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Actually_RB •_FW •_FW •_FW it_PRP should_MD be_VB more_RBR effective_JJ because_IN it_PRP directly_RB optimises_VBZ meaningful_JJ multivariate_JJ performance_NN measures_NNS ;_: it_PRP is_VBZ hundreds_NNS of_IN times_NNS more_RBR efficient_JJ because_IN it_PRP only_RB needs_VBZ to_TO train_VB one_CD SVM_NN c_NN

@@ -1,0 +1,4 @@
+WTA_NNP from_IN EM_NNP establishes_VBZ a_DT connection_NN between_IN the_DT probability_NN distribution_NN of_IN the_DT mixture_NN components_NNS and_CC the_DT divergence_NN used_VBN in_IN the_DT WTA_NNP algorithm_NN ._.
+This_DT divergence_NN turns_VBZ out_RP to_TO be_VB a_DT Bregman_NNP divergence_NN -LRB-_-LRB- =_JJ -_: =_JJ Banerjee_NNP et_FW al._FW ,_, 2004_CD -_: =_SYM -_: b_LS -RRB-_-RRB- ._.
+Additionally_RB ,_, the_DT probability_NN distribution_NN that_WDT is_VBZ used_VBN -LRB-_-LRB- and_CC hence_RB also_RB the_DT divergence_NN -RRB-_-RRB- affects_VBZ the_DT shape_NN of_IN the_DT clusters_NNS ._.
+Using_VBG the_DT k-means_NN example_NN again_RB ,_, the_DT boundaries_NNS are_VBP piecewise_JJ linear_NN and_CC

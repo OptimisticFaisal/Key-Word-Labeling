@@ -1,0 +1,6 @@
+ight_RB not_RB be_VB optimal_JJ performance-wise_NN ._.
+A_DT centralized_JJ composition_NN engine_NN can_MD not_RB always_RB take_VB full_JJ advantage_NN of_IN the_DT parallelism_NN in_IN its_PRP$ message_NN exchanges_NNS and_CC the_DT engine_NN can_MD become_VB a_DT performance_NN bottleneck_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Fig_NN 1_CD ._.
+b_NN illustrates_VBZ a_DT decentralized_JJ solution_NN to_TO the_DT same_JJ composition_NN ._.
+In_IN this_DT case_NN ,_, the_DT client_NN entity_NN needs_VBZ to_TO distribute_VB knowledge_NN about_IN the_DT composition_NN process_NN over_IN the_DT domains_NNS ._.
+The_DT control_NN flow_NN o_NN

@@ -1,0 +1,6 @@
+c_NN techniques_NNS ._.
+2_CD ._.
+Related_JJ Work_NN Numerous_JJ approaches_NNS have_VBP been_VBN proposed_VBN to_TO construct_VB general-purpose_JJ ontologies_NNS ._.
+One_CD class_NN of_IN techniques_NNS focuses_VBZ on_IN extracting_VBG information_NN automatically_RB from_IN text_NN corpora_NN =_JJ -_: =[_NN 10_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Despite_IN good_JJ results_NNS ,_, the_DT quality_NN remains_VBZ below_IN that_DT of_IN well-designed_JJ hand-crafted_JJ ontologies_NNS ._.
+Furthermore_RB ,_, the_DT facts_NNS are_VBP not_RB canonic_JJ ,_, i.e._FW different_JJ identifiers_NNS are_VBP used_VBN for_IN the_DT same_JJ entity_NN and_CC no_DT

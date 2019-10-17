@@ -1,0 +1,3 @@
+tion_NN -LRB-_-LRB- Hastie_NNP &_CC Tibshirani_NNP ,_, 1997_CD -RRB-_-RRB- -LRB-_-LRB- which_WDT ignores_VBZ the_DT costs_NNS and_CC attempts_NNS to_TO predict_VB the_DT label_NN with_IN minimal_JJ cost_NN -RRB-_-RRB- and_CC to_TO a_DT state-of-the-art_JJ multi-class_JJ cost-sensitive_JJ learning_NN algorithm_NN called_VBN MetaCost_NNP -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP ,_, 1999_CD -_: =--RRB-_NN ._.
+We_PRP used_VBD Boosted_JJ Naive_JJ Bayes_NNS -LRB-_-LRB- Elkan_NNP ,_, 1997_CD -RRB-_-RRB- as_IN the_DT oracle_NN classifier_NN learner_NN and_CC applied_VBD the_DT methods_NNS to_TO five_CD UCI_NN multiclass_JJ datasets_NNS ._.
+Since_IN these_DT datasets_NNS do_VBP not_RB have_VB costs_NNS associated_VBN with_IN them_PRP ,_, we_PRP g_NN

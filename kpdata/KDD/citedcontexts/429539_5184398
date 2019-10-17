@@ -1,0 +1,3 @@
+d_NN from_IN which_WDT size-specific_JJ frequent_JJ itemsets_NNS can_MD be_VB reconstructed_VBN ;_: however_RB ,_, to_TO date_NN ,_, algorithms_NNS for_IN enumerating_VBG closed_JJ and_CC maximal_JJ itemsets_NNS have_VBP been_VBN plagued_VBN by_IN the_DT same_JJ limitations_NNS listed_VBN above_IN -LRB-_-LRB- see_VB =_JJ -_: =[_NN 12,6,13_CD -RRB-_-RRB- -_: =_JJ -_: and_CC references_NNS -RRB-_-RRB- ._.
+Given_VBN all_PDT this_DT ,_, it_PRP is_VBZ worthwhile_JJ to_TO investigate_VB other_JJ algorithmic_JJ possibilities_NNS for_IN frequent_JJ itemset_NN enumeration_NN relative_JJ to_TO different_JJ parameterizations_NNS ._.
+To_TO this_DT end_NN ,_, we_PRP describe_VBP in_IN

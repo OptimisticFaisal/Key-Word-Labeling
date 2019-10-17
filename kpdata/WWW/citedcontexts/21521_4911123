@@ -1,0 +1,4 @@
+ory_NN to_TO store_VB the_DT ontologies_NNS and_CC the_DT annotations_NNS ._.
+Sesame_NNP supports_VBZ the_DT RDF_NNP document_NN manipulation_NN and_CC query_NN ._.
+The_DT RDF_NNP query_NN in_IN Sesame_NNP is_VBZ provided_VBN using_VBG a_DT specific_JJ RDF_NN query_NN language_NN which_WDT is_VBZ called_VBN SeRQL_NN =_SYM -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN order_NN to_TO collect_VB the_DT relevant_JJ information_NN of_IN a_DT specific_JJ query_NN topic_NN there_EX are_VBP two_CD possibilities_NNS :_: either_CC the_DT media_NNS items_NNS are_VBP selected_VBN based_VBN on_IN the_DT specified_VBN metadata_NN and_CC keyword-based_JJ search_NN -LRB-_-LRB- i.e._FW

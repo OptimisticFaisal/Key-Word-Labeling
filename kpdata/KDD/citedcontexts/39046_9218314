@@ -1,0 +1,4 @@
+es_NNS and_CC documents_NNS ._.
+Links_NNP between_IN the_DT two_CD types_NNS of_IN nodes_NNS are_VBP generated_VBN by_IN user_NN clicks_NNS from_IN queries_NNS to_TO documents_NNS in_IN the_DT process_NN of_IN selecting_VBG a_DT search_NN result_NN ._.
+This_DT type_NN of_IN representation_NN was_VBD presented_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: and_CC used_VBN for_IN agglomerative_JJ clustering_NN to_TO find_VB related_JJ queries_NNS and_CC documents_NNS ._.
+Later_RB ,_, this_DT view_NN was_VBD expanded_VBN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- where_WRB weights_NNS were_VBD added_VBN to_TO the_DT undirected_JJ edges_NNS ,_, based_VBN on_IN the_DT number_NN of_IN clicks_NNS from_IN

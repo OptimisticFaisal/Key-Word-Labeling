@@ -1,0 +1,3 @@
+one_PRP can_MD alternatively_RB define_VB the_DT problem_NN of_IN removing_VBG the_DT minimum_JJ number_NN of_IN rows_NNS and_CC columns_NNS from_IN the_DT input_NN matrix_NN ,_, so_IN that_IN the_DT remaining_JJ -LRB-_-LRB- maximal_JJ -RRB-_-RRB- submatrix_NN is_VBZ almost_RB nested_JJ ._.
+By_IN using_VBG the_DT results_NNS of_IN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: one_PRP can_MD show_VB that_IN this_DT variation_NN of_IN the_DT segmented_JJ nestedness_NN problem_NN is_VBZ also_RB NP-hard_JJ ._.
+In_IN the_DT case_NN where_WRB we_PRP are_VBP restricted_VBN in_IN removing_VBG only_JJ rows_NNS or_CC only_JJ columns_NNS of_IN the_DT input_NN matrix_NN ,_, the_DT problem_NN become_VB

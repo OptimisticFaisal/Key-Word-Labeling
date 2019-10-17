@@ -1,0 +1,4 @@
+no_DT feature_NN noise_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Similarly_RB ,_, NBayes_NN ,_, which_WDT assumes_VBZ independence_NN among_IN all_DT data_NNS features_NNS ,_, is_VBZ suitable_JJ because_IN it_PRP has_VBZ been_VBN shown_VBN to_TO outperform_VB other_JJ much_RB more_RBR complicated_JJ machine_NN learning_NN methods_NNS =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+SVM_NN is_VBZ chosen_VBN as_IN a_DT baseline_NN due_JJ to_TO its_PRP$ generalization_NN ability_NN and_CC popularity_NN in_IN medical_JJ classification_NN research_NN -LRB-_-LRB- 28_CD ,_, 29_CD -RRB-_-RRB- ._.
+The_DT effectiveness_NN of_IN considering_VBG feature_NN dependencies_NNS under_IN BN-NC_NN would_MD be_VB w_NN

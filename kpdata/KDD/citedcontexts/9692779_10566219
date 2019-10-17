@@ -1,0 +1,4 @@
+neutral_JJ to_TO the_DT specific_JJ identity_NN of_IN s_NN or_CC γ_NN ,_, as_IN a_DT feature_NN vector_NN fs_NN -LRB-_-LRB- γ_NN -RRB-_-RRB- in_IN some_DT space_NN ._.
+Again_RB ,_, we_PRP can_MD learn_VB a_DT model_NN w_NN in_IN the_DT same_JJ space_NN such_JJ that_IN the_DT predicted_VBN entity_NN label_NN is_VBZ arg_FW maxγ_FW ∈_FW Γs_FW ∪_FW N.A._NNP w_FW ⊤_FW fs_FW -LRB-_-LRB- γ_NN -RRB-_-RRB- =_JJ -_: =[_NN 33_CD ,_, 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, one_PRP may_MD do_VB better_JJR by_IN exploiting_VBG the_DT fact_NN that_IN entities_NNS mentioned_VBN in_IN a_DT single_JJ discourse_NN tend_VBP to_TO be_VB semantically_RB related_JJ ._.
+E.g._RB ,_, Wikipedia_NNP lists_VBZ several_JJ Michael_NNP Jordans_NNP of_IN who_WP only_RB one_CD is_VBZ a_DT Co_NNP

@@ -1,0 +1,4 @@
+SMZ01_NN -RRB-_-RRB- ._.
+There_EX have_VBP also_RB been_VBN proposed_VBN multi-level_JJ caching_NN schemes_NNS where_WRB we_PRP can_MD cache_NN both_CC lists_NNS and_CC results_NNS -LRB-_-LRB- SMZ01_NN -RRB-_-RRB- ,_, or_CC we_PRP can_MD cache_NN lists_NNS ,_, results_NNS and_CC projection_NN lists_NNS -LRB-_-LRB- i.e._FW pairs_NNS of_IN frequent_JJ terms_NNS -RRB-_-RRB- =_JJ -_: =_JJ -LRB-_-LRB- LS05_NN -RRB-_-RRB- -_: =_SYM -_: to_TO improve_VB query_NN response_NN times_NNS ._.
+Determining_VBG which_WDT parts_NNS of_IN an_DT index_NN to_TO cache_NN is_VBZ ,_, in_IN principle_NN ,_, similar_JJ to_TO pruning_NN an_DT index_NN to_TO keep_VB the_DT most_RBS important_JJ postings_NNS ._.
+In_IN this_DT dissertation_NN ,_, we_PRP showed_VBD how_WRB a_DT

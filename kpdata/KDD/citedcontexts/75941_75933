@@ -1,0 +1,4 @@
+aises_VBZ the_DT question_NN whether_IN frequency_NN is_VBZ the_DT right_JJ interestingness_NN measure_NN ._.
+The_DT use_NN of_IN frequency_NN has_VBZ been_VBN criticized_VBN in_IN the_DT context_NN of_IN association_NN rules_NNS as_RB well_RB and_CC many_JJ alternatives_NNS have_VBP been_VBN offered_VBN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Unfortunately_RB ,_, finding_VBG good_JJ and_CC objective_JJ interestingness_NN measures_NNS for_IN itemsets_NNS seems_VBZ to_TO be_VB a_DT hard_JJ problem_NN ._.
+Additionally_RB ,_, allowing_VBG such_JJ measures_NNS to_TO prune_VB the_DT huge_JJ search_NN space_NN of_IN all_DT itemsets_NNS might_MD

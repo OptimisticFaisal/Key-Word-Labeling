@@ -1,0 +1,4 @@
+h_NN that_WDT incrementally_RB changes_VBZ the_DT model_NN structure_NN by_IN adding_VBG or_CC deleting_VBG edges_NNS ._.
+The_DT adding_VBG or_CC deleting_VBG operation_NN is_VBZ guided_VBN towards_IN an_DT improvement_NN of_IN some_DT objective_JJ function_NN ,_, such_JJ as_IN marginal_JJ likelihood_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN the_DT search_NN is_VBZ local_JJ and_CC greedy_JJ ,_, the_DT learned_VBN network_NN is_VBZ -LRB-_-LRB- at_IN best_JJS -RRB-_-RRB- a_DT local_JJ optimum_NN of_IN a_DT penalized_VBN likelihood_NN score_NN ._.
+Recently_RB ,_, structure_NN learning_NN of_IN MRFs_NNS has_VBZ been_VBN formulated_VBN as_IN a_DT convex_NN program_NN that_IN

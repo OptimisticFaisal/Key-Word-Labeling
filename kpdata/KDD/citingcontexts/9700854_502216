@@ -1,0 +1,5 @@
+U_NN and_CC 1.0_CD GB_NN RAM_NNP ._.
+5.1_CD Experimental_JJ Setup_NNP Table_NNP 5.1_CD summarizes_VBZ characteristics_NNS of_IN the_DT time_NN series_NN used_VBN in_IN our_PRP$ experiments_NNS ._.
+The_DT time_NN series_NN are_VBP obtained_VBN from_IN the_DT UC_NN Riverside_NNP time_NN series_NN data_NNS repository_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP divide_VBP each_DT time_NN series_NN into_IN 10_CD disjoint_NN segments_NNS ._.
+To_TO simulate_VB this_DT as_IN a_DT long-term_JJ forecasting_NN problem_NN ,_, for_IN the_DT k-th_NN run_NN ,_, we_PRP use_VBP segment_NN k_NN as_IN training_NN data_NNS and_CC segments_NNS k_NN +_CC 1_CD to_TO k_NN +_CC 5_CD as_IN test_NN dat_NN

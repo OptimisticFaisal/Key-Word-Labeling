@@ -1,0 +1,5 @@
+criteria_NNS to_TO find_VB all_DT X_NN ∪_NN Y_NN appearing_VBG at_IN least_JJS s_NN %_NN times_NNS in_IN D_NN -LRB-_-LRB- frequent_JJ itemset_NN mining_NN -RRB-_-RRB- ,_, and_CC then_RB do_VB a_DT further_JJ checking_NN on_IN the_DT second_JJ criteria_NNS ._.
+Much_JJ frequent_JJ itemset_NN mining_NN research_NN has_VBZ been_VBN conducted_VBN =_JJ -_: =[_NN 22_CD ,_, 9_CD ,_, 8_CD ,_, 24_CD ,_, 48_CD ,_, 43_CD ,_, 35_CD ,_, 42_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP can_MD be_VB broadly_RB divided_VBN into_IN two_CD categories_NNS :_: breadth_NN first_JJ -LRB-_-LRB- BF_NN -RRB-_-RRB- and_CC depth_NN first_JJ -LRB-_-LRB- DF_NN -RRB-_-RRB- based_VBN ._.
+The_DT earlier_JJR works_NNS are_VBP all_DT BF_NN based_VBN -LRB-_-LRB- 9_CD ,_, 8_CD ,_, 24_CD -RRB-_-RRB- ._.
+The_DT classical_JJ and_CC well_RB cited_VBN ``_`` Apriori_NNP ''_'' algorithm_NN belong_VBP

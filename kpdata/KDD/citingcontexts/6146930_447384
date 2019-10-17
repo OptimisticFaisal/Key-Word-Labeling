@@ -1,0 +1,7 @@
+bed_NN here_RB ;_: a_DT description_NN is_VBZ given_VBN in_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+5_CD ._.
+RESULTS_NNS In_IN this_DT section_NN we_PRP show_VBP the_DT results_NNS of_IN applying_VBG our_PRP$ algorithm_NN to_TO three_CD datasets_NNS ._.
+5.1_CD Odors_NNS dataset_VBP The_DT first_JJ example_NN is_VBZ an_DT odor_NN dataset_NN taken_VBN from_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP consists_VBZ of_IN 30_CD volatile_JJ odorous_JJ pure_JJ chemicals_NNS ._.
+Each_DT chemical_NN was_VBD measured_VBN by_IN an_DT electronic_JJ nose_NN in_IN batches_NNS ,_, with_IN a_DT single_JJ batch_NN containing_VBG at_IN least_JJS six_CD successive_JJ measurements_NNS ._.
+Different_JJ batches_NNS

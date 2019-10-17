@@ -1,0 +1,5 @@
+account_NN ,_, and_CC frequent_JJ patterns_NNS that_WDT contain_VBP the_DT same_JJ feature_NN type_NN are_VBP removed_VBN apriori_NNS ._.
+In_IN transactional_JJ frequent_JJ pattern_NN mining_VBG some_DT works_NNS address_VBP the_DT problem_NN of_IN mining_NN interesting_JJ association_NN rules_NNS =_JJ -_: =[_NN 5_CD ,_, 16_CD ,_, 17_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP incorporate_VBP user-specified_JJ constraints_NNS or_CC define_VB either_CC objective_JJ or_CC subjective_JJ metrics_NNS of_IN interestingness_NN ._.
+Moreover_RB ,_, pruning_NN is_VBZ performed_VBN aposteriori_NNS ,_, after_IN the_DT rule_NN generation_NN ._.
+The_DT method_NN pro_NN

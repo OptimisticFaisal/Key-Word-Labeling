@@ -1,0 +1,7 @@
+documents_NNS in_IN time_NN ._.
+We_PRP ignore_VBP citations_NNS of_IN first-year_JJ documents_NNS since_IN the_DT LRT_NNP requires_VBZ a_DT background_NN model_NN ._.
+The_DT second_JJ corpus_NN is_VBZ the_DT theoretical_JJ high-energy_JJ physics_NNS -LRB-_-LRB- HEPTH_NN -RRB-_-RRB- section_NN of_IN the_DT Physics_NN ArXiv_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: from_IN Aug._NNP 1991_CD to_TO Apr._NNP 2006_CD ._.
+We_PRP aggregate_JJ the_DT full-text_JJ papers_NNS by_IN year_NN ._.
+HEPTH_NNP has_VBZ 39008_CD documents_NNS ,_, 229194_CD terms_NNS ,_, and_CC 557582_CD citations_NNS ._.
+SLAC-SPIRES_NN compiled_VBD these_DT citations_NNS ._.
+4.2_CD Inferring_VBG Influence_NN Gr_NN

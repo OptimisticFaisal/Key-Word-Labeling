@@ -1,0 +1,3 @@
+n_NN modeled_VBD as_IN quasi-cliques_NNS or_CC dense_JJ graphs_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Traditionally_RB ,_, the_DT quasi-cliques_NNS are_VBP defined_VBN ,_, using_VBG a_DT threshold_NN ,_, as_IN a_DT relaxation_NN of_IN a_DT complete_JJ subgraph_NN --_: the_DT relaxation_NN can_MD be_VB on_IN the_DT degree_NN of_IN a_DT vertex_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: or_CC on_IN the_DT total_JJ number_NN of_IN edges_NNS in_IN the_DT quasi-clique_JJ -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+In_IN contrast_NN to_TO traditional_JJ quasi-clique_JJ definitions_NNS ,_, our_PRP$ definition_NN does_VBZ not_RB use_VB any_DT threshold_JJ parameters_NNS since_IN it_PRP finds_VBZ quasicliques_NNS based_VBN o_NN

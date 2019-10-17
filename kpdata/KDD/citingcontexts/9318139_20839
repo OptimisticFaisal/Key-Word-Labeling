@@ -1,0 +1,3 @@
+naive_JJ sampling_NN methods_NNS are_VBP often_RB not_RB suitable_JJ for_IN real_JJ world_NN domains_NNS with_IN noisy_JJ training_NN data_NNS ,_, where_WRB prediction_NN results_NNS can_MD degrade_VB unpredictably_RB and_CC significantly_RB ._.
+Boundary_NN hunting_NN methods_NNS like_IN IB2_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: seek_VB out_RP training_NN examples_NNS near_IN class_NN boundaries_NNS because_IN these_DT examples_NNS tend_VBP to_TO be_VB useful_JJ for_IN locating_VBG class_NN boundaries_NNS precisely_RB ._.
+Assuming_VBG only_RB a_DT small_JJ fraction_NN of_IN training_NN examples_NNS in_IN a_DT large_JJ datab_NN

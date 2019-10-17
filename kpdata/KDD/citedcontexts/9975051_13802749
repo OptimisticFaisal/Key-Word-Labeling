@@ -1,0 +1,4 @@
+th_DT high_JJ confidence_NN that_IN Devil_NNP 's_POS Dance_NNP is_VBZ a_DT POI_NN of_IN Bob_NNP 's_POS ._.
+The_DT aboveexamplerefers_NNS to_TO an_DT applicationlogic_NN in_IN which_WDT the_DT recommender_NN system_NN suggests_VBZ POIs_NNS based_VBN on_IN users_NNS '_POS profile_NN ._.
+However_RB ,_, as_IN shown_VBN in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, privacy_NN threats_NNS also_RB exist_VBP for_IN recommender_NN systems_NNS based_VBN on_IN different_JJ application_NN logics_NNS ._.
+The_DT following_VBG example_NN illustrates_VBZ a_DT possible_JJ attack_NN ,_, when_WRB recommendations_NNS are_VBP based_VBN on_IN the_DT correla_NN

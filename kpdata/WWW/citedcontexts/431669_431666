@@ -1,0 +1,4 @@
+support_NN cooperative_JJ caching_NN and_CC incremental_JJ deployment_NN with_IN low_JJ administrative_JJ overhead_NN ._.
+1_CD Introduction_NN Web-based_JJ applications_NNS increasingly_RB rely_VBP on_IN the_DT dynamic_JJ creation_NN and_CC transformation_NN of_IN content_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Scaling_VBG such_JJ applications_NNS to_TO large_JJ and_CC often_RB global_JJ audiences_NNS requires_VBZ placing_VBG them_PRP close_RB to_TO clients_NNS ,_, at_IN the_DT edge_NN of_IN the_DT internet_NN ._.
+Edge-side_JJ content_NN management_NN provides_VBZ the_DT CPU_NNP power_NN and_CC network_NN ban_NN

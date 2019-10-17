@@ -1,0 +1,3 @@
+,_, these_DT indexing_NN techniques_NNS still_RB require_VBP a_DT refinement_NN step_NN that_WDT must_MD perform_VB the_DT dynamic_JJ programming_NN evaluation_NN on_IN elements_NNS of_IN the_DT superset_NN ._.
+Furthermore_RB ,_, time_NN series_NN clustering_NN has_VBZ also_RB been_VBN studied_VBN =_JJ -_: =[_NN 18_CD ,_, 35_CD ,_, 78_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC these_DT clustering_NN techniques_NNS require_VBP pairwise_JJ comparison_NN of_IN all_DT time_NN series_NN in_IN the_DT dataset_NN ,_, which_WDT means_VBZ that_IN indexing_NN methods_NNS can_MD not_RB be_VB used_VBN to_TO speed_VB up_RP clustering_NN applications_NNS ._.
+To_TO address_VB this_DT p_NN

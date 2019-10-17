@@ -1,0 +1,4 @@
+tep_NN as_IN the_DT average_NN of_IN the_DT observed_VBN actors_NNS in_IN the_DT same_JJ survey_NN ._.
+This_DT technique_NN is_VBZ simple_JJ and_CC crude_JJ ,_, but_CC sometimes_RB simple_JJ methods_NNS can_MD provide_VB good_JJ results_NNS ._.
+2_LS -RRB-_-RRB- DynaMMo._NN :_: The_DT DynaMMo_NN algorithm_NN proposed_VBN at_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ specifically_RB designed_VBN to_TO impute_VB the_DT information_NN gaps_NNS in_IN multivariate_JJ temporal_JJ sequence_NN data_NNS ._.
+The_DT real_JJ valued_VBN actor_NN attributes_NNS in_IN our_PRP$ problem_NN ,_, where_WRB each_DT temporal_JJ observation_NN is_VBZ a_DT k-dimensional_JJ mul_NN

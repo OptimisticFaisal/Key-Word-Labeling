@@ -1,0 +1,4 @@
+91.64_CD %_NN ,_, using_VBG 0.02_CD seconds_NNS to_TO compare_VB a_DT query_NN and_CC a_DT template_NN on_IN average_NN ,_, compared_VBN to_TO 2.62_CD seconds_NNS of_IN the_DT original_JJ method_NN ._.
+We_PRP also_RB note_VBP that_IN a_DT few_JJ DTW_NNP speed_NN up_RP methods_NNS based_VBN on_IN lower_JJR bound_VBN estimation_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN proposed_VBN and_CC widely_RB employed_VBN in_IN time_NN series_NN database_NN management_NN ._.
+We_PRP will_MD explore_VB to_TO integrate_VB this_DT technique_NN and_CC further_RB speed_VB up_RP the_DT recognition_NN process_NN in_IN future_NN ._.
+C._NNP Coarse-to-Fine_NNP Matchi_NNP

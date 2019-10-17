@@ -1,0 +1,5 @@
+parameters_NNS are_VBP omitted_VBN here_RB ._.
+Totally_RB syn4_NN has_VBZ 5000_CD nodes_NNS and_CC about_IN 2.1_CD million_CD edges_NNS ._.
+The_DT graphs_NNS based_VBN on_IN the_DT text_NN data_NNS have_VBP been_VBN widely_RB used_VBN to_TO test_VB graph_NN partitioning_VBG algorithms_NNS -LRB-_-LRB- Ding_NNP et_FW al._FW ,_, 2001_CD ;_: =_JJ -_: =_JJ Dhillon_NNP ,_, 2001_CD -_: =_JJ -_: ;_: Zha_NNP et_FW al._FW ,_, 2001_CD -RRB-_-RRB- ._.
+Note_VB that_IN there_EX also_RB exist_VBP feature-based_JJ algorithms_NNS to_TO directly_RB cluster_VB documents_NNS based_VBN on_IN word_NN features_NNS ._.
+However_RB ,_, in_IN this_DT study_NN our_PRP$ focus_NN is_VBZ clustering_NN based_VBN on_IN relations_NNS instead_RB

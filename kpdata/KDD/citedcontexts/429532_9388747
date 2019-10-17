@@ -1,0 +1,5 @@
+``_`` clumpiness_NN ''_'' of_IN large_JJ graphs_NNS ._.
+While_IN these_DT methods_NNS are_VBP useful_JJ ,_, the_DT summaries_NNS contain_VBP limited_JJ information_NN and_CC can_MD be_VB difficult_JJ to_TO interpret_VB and_CC manipulate_VB ._.
+Methods_NNS that_WDT mine_VBP graphs_NNS for_IN frequent_JJ patterns_NNS =_JJ -_: =[_NN 11_CD ,_, 19_CD ,_, 20_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP also_RB employed_VBN to_TO understand_VB the_DT characteristics_NNS of_IN large_JJ graphs_NNS ._.
+However_RB ,_, these_DT algorithms_NNS often_RB produce_VBP a_DT large_JJ number_NN of_IN results_NNS that_WDT can_MD easily_RB overwhelm_VB the_DT user_NN ._.
+Graph_NN partitioning_VBG algorithm_NN

@@ -1,0 +1,4 @@
+lected_VBN for_IN 5_CD different_JJ writers_NNS ._.
+We_PRP extract_VBP 5_CD recording_NN for_IN each_DT of_IN following_VBG 10_CD words_NNS :_: ``_`` Norway_NNP ''_'' ,_, ``_`` cold_JJ ''_'' ,_, ``_`` crazy_JJ ''_'' ,_, ``_`` eat_VB ''_'' ,_, ``_`` forget_VB ''_'' ,_, ``_`` happy_JJ ''_'' ,_, ``_`` innocent_JJ ''_'' ,_, ``_`` later_RB ''_'' ,_, ``_`` lose_VB ''_'' ,_, and_CC ``_`` spend_VB ''_'' ,_, which_WDT are_VBP used_VBN in_IN =_JJ -_: =[_NN 17_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT raw_JJ trajectories_NNS in_IN both_DT data_NNS sets_NNS are_VBP converted_VBN into_IN movement_NN direction_NN and_CC distance_NN sequences_NNS ._.
+For_IN each_DT data_NNS set_VBN ,_, we_PRP take_VBP all_DT possible_JJ pairs_NNS of_IN words_NNS and_CC use_VB the_DT ``_`` complete_JJ linkage_NN ''_'' hierarchy_NN c_NN

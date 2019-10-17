@@ -1,0 +1,5 @@
+algorithm_NN has_VBZ the_DT benefit_NN of_IN being_VBG very_RB easy_JJ to_TO implement_VB and_CC very_RB intuitive_JJ to_TO understand_VB ._.
+‖_NN 2_CD -RRB-_-RRB- 4.3_CD Adapted_VBN Ranking_NNP SVM_NNP The_DT third_JJ approach_NN was_VBD using_VBG an_DT adapted_VBN Ranking_NN SVM_NN ._.
+The_DT Ranking_JJ SVM_NN Algorithm_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: represents_VBZ a_DT ranking_JJ problem_NN in_IN terms_NNS of_IN an_DT SVM_NN ._.
+Given_VBN a_DT set_NN of_IN favorite_JJ movies_NNS for_IN each_DT person_NN ,_, the_DT goal_NN is_VBZ to_TO come_VB up_RP with_IN a_DT ranking_NN of_IN the_DT movies_NNS for_IN the_DT client_NN ._.
+Let_VB w_NN -LRB-_-LRB- i_LS -RRB-_-RRB- be_VB movie_NN specific_JJ weight_NN

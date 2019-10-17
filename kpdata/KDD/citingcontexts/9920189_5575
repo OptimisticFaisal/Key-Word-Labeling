@@ -1,0 +1,6 @@
+AL_JJ RESULTS_NNS iScore_NN is_VBZ implemented_VBN with_IN an_DT assortment_NN of_IN tools_NNS in_IN Java_NNP ._.
+The_DT system_NN pipeline_NN is_VBZ implemented_VBN with_IN the_DT IBM_NNP UIMA_NNP framework_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, using_VBG classifiers_NNS from_IN LingPipe_NNP -LRB-_-LRB- 28_CD -RRB-_-RRB- ,_, OpenNLP_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- ,_, and_CC Weka_NN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP evaluate_VBP iScore_NN against_IN three_CD data_NNS sets_NNS ._.
+The_DT first_JJ data_NN set_NN is_VBZ a_DT collection_NN of_IN 35,256_CD news_NN articles_NNS from_IN all_DT Yahoo_NNP !_.
+News_NNP RSS_NNP feeds_VBZ ,_, collected_VBN between_IN June_NNP and_CC August_NNP 2006_CD ._.
+The_DT classification_NN task_NN

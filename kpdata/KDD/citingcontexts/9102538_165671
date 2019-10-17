@@ -1,0 +1,4 @@
+g_NN the_DT classifiers_NNS for_IN multi-class_JJ inference_NN ,_, is_VBZ one_CD of_IN the_DT popular_JJ schemes_NNS to_TO solve_VB a_DT multi-class_JJ problem_NN ._.
+OVR_NNP is_VBZ easy_JJ and_CC efficient_JJ to_TO design_NN and_CC also_RB gives_VBZ good_JJ performance_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+Crammer_NNP and_CC Singer_NNP =_SYM -_: =[_NN 5_CD ,_, 6_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Weston_NNP and_CC Watkins_NNP -LRB-_-LRB- 25_CD -RRB-_-RRB- gave_VBD direct_JJ multi-class_JJ SVM_NN formulations_NNS ._.
+With_IN nonlinear_JJ kernels_NNS in_IN mind_NN ,_, Crammer_NNP and_CC Singer_NNP -LRB-_-LRB- 5_CD ,_, 6_CD -RRB-_-RRB- and_CC Hsu_NNP and_CC Lin_NNP -LRB-_-LRB- 10_CD -RRB-_-RRB- gave_VBD efficient_JJ decomposition_NN methods_NNS for_IN these_DT for_IN

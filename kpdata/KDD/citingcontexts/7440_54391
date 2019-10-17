@@ -1,0 +1,4 @@
+st_IN in_IN privacy-preserving_JJ data_NNS mining_NN ._.
+One_CD approach_NN is_VBZ to_TO add_VB ``_`` noise_NN ''_'' to_TO the_DT data_NNS before_IN the_DT data_NNS mining_NN process_NN ,_, and_CC using_VBG techniques_NNS that_WDT mitigate_VBP the_DT impact_NN of_IN the_DT noise_NN from_IN the_DT data_NNS mining_NN results_VBZ =_JJ -_: =[_NN 2_CD ,_, 1_CD ,_, 10_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT approach_NN of_IN protecting_VBG privacy_NN of_IN distributed_VBN sources_NNS was_VBD first_RB addressed_VBN for_IN the_DT construction_NN of_IN decision_NN trees_NNS -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+This_DT work_NN closely_RB followed_VBD the_DT secure_JJ multiparty_JJ computation_NN approach_NN discus_NN

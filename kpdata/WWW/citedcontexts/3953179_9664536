@@ -1,0 +1,3 @@
+nsider_NN both_CC reference_NN string_NN recognition_NN and_CC reference_NN string_NN parsing_VBG as_IN a_DT single_JJ combined_JJ problem_NN ._.
+With_IN regards_VBZ to_TO the_DT task_NN ,_, IEPAD_NNP -LRB-_-LRB- Chang_NNP et_FW al._FW ,_, 2003_CD -RRB-_-RRB- looks_VBZ for_IN patterns_NNS among_IN the_DT HTML_NNP tags_NNS ,_, while_IN -LRB-_-LRB- =_JJ -_: =_JJ Zhai_NNP and_CC Liu_NNP ,_, 2005_CD -_: =--RRB-_NN looks_VBZ for_IN patterns_NNS among_IN the_DT presentation_NN features_NNS of_IN the_DT web_NN page_NN ._.
+A_DT machine_NN learning_NN approach_NN using_VBG Conditional_JJ Random_NNP Fields_NNP is_VBZ also_RB discussed_VBN in_IN a_DT few_JJ works_NNS -LRB-_-LRB- Xin_NNP et_FW al._FW ,_, 2008_CD ;_: Zhu_NNP et_FW al._FW ,_, 2006_CD -RRB-_-RRB- ._.

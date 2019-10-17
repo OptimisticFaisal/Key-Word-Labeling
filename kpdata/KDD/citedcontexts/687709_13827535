@@ -1,0 +1,6 @@
+close_RB as_IN possible_JJ ,_, we_PRP use_VBP the_DT average_JJ value_NN of_IN the_DT tensors_NNS in_IN the_DT same_JJ class_NN to_TO stand_VB for_IN them_PRP ._.
+Indicator_NN tensor_NN has_VBZ the_DT same_JJ size_NN with_IN ._.
+∑_FW ‖_FW ‖_FW ∑_FW ‖_FW ∏_FW ‖_FW -LRB-_-LRB- 5_CD -RRB-_-RRB- There_EX is_VBZ no_DT close_JJ form_NN solution_NN for_IN Eq_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: shows_VBZ Eq_NNP ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- is_VBZ equivalent_JJ to_TO :_: -LRB-_-LRB- -LRB-_-LRB- ∑_FW ∑_FW -LRB-_-LRB- -RRB-_-RRB- -RRB-_-RRB- -RRB-_-RRB- -LRB-_-LRB- 6_CD -RRB-_-RRB- -LRB-_-LRB- -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- where_WRB ∑_FW ∑_FW -LRB-_-LRB- -RRB-_-RRB- and_CC the_DT constant_JJ item_NN is_VBZ ignored_VBN in_IN optimization_NN without_IN loss_NN of_IN generality_NN ._.
+4.3_CD Final_NNP optimization_NN Our_NNP proposed_VBD empirical_JJ discr_NN

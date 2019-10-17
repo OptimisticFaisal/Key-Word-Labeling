@@ -1,0 +1,4 @@
+ough_VB the_DT origin_NN is_VBZ p_NN k_NN =d_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+The_DT choice_NN of_IN the_DT random_JJ matrix_NN R_NN is_VBZ one_CD of_IN the_DT key_JJ points_NNS of_IN interest_NN ._.
+The_DT elements_NNS r_NN ij_NN of_IN R_NN are_VBP often_RB Gaussian_JJ distributed_VBN ,_, but_CC this_DT need_MD not_RB be_VB the_DT case_NN ._.
+Achlioptas_NN =_JJ -_: =[_NN 1_CD -_: =-]_NN has_VBZ recently_RB shown_VBN that_IN the_DT Gaussian_JJ distribution_NN can_MD be_VB replaced_VBN by_IN a_DT much_RB simpler_JJR distribution_NN such_JJ as_IN r_NN ij_NN =_JJ p_NN 3_CD 8_CD -RRB-_-RRB- -RRB-_-RRB- :_: +1_NN with_IN probability_NN 1_CD 6_CD 0_CD with_IN probability_NN 2_CD 3_CD 1_CD with_IN probability_NN 1_CD 6_CD :_: -LRB-_-LRB-

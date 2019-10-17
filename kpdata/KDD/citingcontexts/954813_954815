@@ -1,0 +1,4 @@
+int_NN is_VBZ supported_VBN by_IN our_PRP$ experiments_NNS ._.
+g_NN 46_CD g_NN 8_CD g_NN 9_CD g_NN 80_CD 1025_CD To_TO incorporate_VB the_DT domain_NN constraints_NNS mentioned_VBN above_IN ,_, we_PRP use_VBP a_DT so-called_JJ parameter_NN tying_VBG technique_NN that_WDT is_VBZ designed_VBN for_IN speech_NN recognition_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: to_TO combine_VB similar_JJ parameters_NNS ._.
+Our_PRP$ assumption_NN is_VBZ that_IN the_DT characteristics_NNS of_IN two_CD transitions_NNS with_IN the_DT same_JJ distance_NN are_VBP alike_RB ._.
+Intuitively_RB ,_, in_IN Figure_NNP 2_CD ,_, we_PRP observe_VBP that_IN the_DT transitions_NNS g1_FW ↔_FW g2_NN and_CC g8_NN

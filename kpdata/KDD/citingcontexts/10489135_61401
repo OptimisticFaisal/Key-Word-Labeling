@@ -1,0 +1,4 @@
+vi_LS ,_, vi_LS +1_CD -RRB-_-RRB- is_VBZ an_DT edge_NN of_IN D_NN for_IN every_DT i_FW =_JJ 1_CD ,_, 2_CD ,_, ..._: ,_, k_NN −_NN 1_CD ._.
+Two_CD directed_JJ paths_NNS P1_NN and_CC P2_NN are_VBP vertex-disjoint_JJ if_IN they_PRP share_VBP no_DT vertices_NNS ._.
+A_DT path_NN cover_NN P_NN on_IN D_NN is_VBZ a_DT set_NN of_IN pairwise_JJ vertex-disjoint_JJ paths_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: in_IN which_WDT every_DT vertex_NN lies_VBZ on_IN -LRB-_-LRB- covered_VBN by_IN -RRB-_-RRB- exactly_RB one_CD path_NN in_IN P._NNP The_NNP Minimum_NNP Path_NNP Cover_NNP problem_NN is_VBZ to_TO find_VB a_DT path_NN cover_NN with_IN the_DT minimum_JJ number_NN of_IN paths_NNS ._.
+The_DT decision_NN version_NN of_IN the_DT problem_NN on_IN gener_NN

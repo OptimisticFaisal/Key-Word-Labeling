@@ -1,0 +1,4 @@
+is_VBZ paper_NN ,_, we_PRP present_VBP a_DT query_JJ clustering_NN method_NN based_VBN on_IN the_DT agglomerative_JJ clustering_NN algorithm_NN ._.
+We_PRP first_RB present_VBP an_DT overview_NN of_IN the_DT agglomerative_JJ clustering_NN algorithm_NN proposed_VBN by_IN Beeferman_NNP and_CC Berger_NNP =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP point_VBP out_RP a_DT weakness_NN of_IN the_DT method_NN caused_VBN by_IN noisy_JJ user_NN clicks_NNS and_CC propose_VBP an_DT improved_JJ clustering_NN algorithm_NN ._.
+Our_PRP$ results_NNS show_VBP that_IN in_IN general_JJ the_DT agglomerative_JJ clustering_NN algorithm_NN can_MD cluster_VB si_IN

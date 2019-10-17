@@ -1,0 +1,4 @@
+clustering_NN of_IN transactional_JJ databases_NNS is_VBZ extremely_RB difficult_JJ because_IN of_IN the_DT high_JJ dimensionality_NN ,_, sparsity_NN ,_, and_CC huge_JJ volumes_NNS often_RB characterizing_VBG these_DT databases_NNS ._.
+Distancebased_JJ approaches_NNS like_IN k-means_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: and_CC CLARANS_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- are_VBP effective_JJ for_IN low_JJ dimensional_JJ numerical_JJ data_NNS ._.
+Their_PRP$ performances_NNS on_IN high_JJ dimensional_JJ categorical_JJ data_NNS ,_, however_RB ,_, are_VBP often_RB unsatisfactory_JJ -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Hierarchical_JJ clustering_NN methods_NNS like_IN

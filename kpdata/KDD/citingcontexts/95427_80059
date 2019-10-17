@@ -1,0 +1,4 @@
+raining_VBG sets_NNS ._.
+The_DT resulting_VBG classifiers_NNS are_VBP combined_VBN with_IN voting_NN to_TO find_VB those_DT concepts_NNS that_WDT are_VBP most_RBS often_RB reinforced_VBN in_IN the_DT samples_NNS ._.
+Boosting_VBG -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, and_CC its_PRP$ variants_NNS such_JJ as_IN AdaBoost_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC Arcing_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, uses_VBZ a_DT weighted_JJ resampling_NN technique_NN ,_, creating_VBG a_DT series_NN of_IN classifiers_NNS in_IN which_WDT later_JJ individuals_NNS focus_VBP on_IN classifying_VBG the_DT more_RBR difficult_JJ points_NNS ._.
+Several_JJ recent_JJ studies_NNS have_VBP examined_VBN the_DT relative_JJ st_NN

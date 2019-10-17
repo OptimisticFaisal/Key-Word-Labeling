@@ -1,0 +1,3 @@
+other_JJ incremental_JJ mining_NN algorithms_NNS were_VBD proposed_VBN for_IN itemsets_NNS and_CC sequential_JJ patterns_NNS ._.
+An_DT interesting_JJ solution_NN based_VBN upon_IN the_DT idea_NN of_IN reusing_VBG intermediate_JJ results_NNS of_IN previous_JJ queries_NNS was_VBD proposed_VBN in_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: by_IN introducing_VBG the_DT concept_NN of_IN a_DT knowledge_NN cache_NN that_WDT would_MD keep_VB recently_RB discovered_VBN frequent_JJ itemsets_NNS along_IN with_IN their_PRP$ support_NN value_NN ,_, in_IN order_NN to_TO facilitate_VB interactive_JJ and_CC iterative_JJ mining_NN ._.
+In_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_,

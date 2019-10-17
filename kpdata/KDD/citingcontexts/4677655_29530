@@ -1,0 +1,3 @@
+attribute_NN ,_, there_EX often_RB exist_VBP only_RB a_DT small_JJ number_NN of_IN disguises_NNS that_WDT are_VBP frequently_RB used_VBN by_IN the_DT disguised_JJ missing_VBG data_NNS ._.
+Under_IN the_DT missing_VBG completely_RB at_IN random_JJ -LRB-_-LRB- MCAR_NN -RRB-_-RRB- and_CC missing_VBG at_IN random_JJ -LRB-_-LRB- MAR_NN -RRB-_-RRB- models_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, missing_VBG data_NNS are_VBP often_RB distributed_VBN randomly_RB in_IN real_JJ data_NNS sets_NNS ._.
+Consequently_RB ,_, disguised_JJ missing_JJ entries_NNS are_VBP often_RB distributed_VBN randomly_RB ,_, too_RB ,_, as_IN verified_VBN by_IN our_PRP$ experimental_JJ results_NNS using_VBG real_JJ data_NNS se_FW

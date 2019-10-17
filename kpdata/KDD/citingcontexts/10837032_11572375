@@ -1,0 +1,4 @@
+ommunicating_VBG only_RB by_IN way_NN of_IN unidirectional_JJ ports_NNS that_WDT act_VBP as_IN FIFO_NN queues_NNS ._.
+Operators_NNP accept_VBP data_NNS from_IN dataflows_NNS via_IN input_NN ports_NNS ,_, construct_NN results_NNS based_VBN upon_IN it_PRP ,_, and_CC push_VB the_DT results_NNS onto_IN output_NN ports_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Because_IN the_DT operators_NNS share_VBP no_DT state_NN ,_, they_PRP can_MD operate_VB concurrently_RB ,_, allowing_VBG dataflow_NN applications_NNS to_TO take_VB advantage_NN of_IN multiple_JJ processor_NN cores_NNS ._.
+Further_RB ,_, the_DT operator_NN developer_NN need_MD not_RB be_VB concern_NN

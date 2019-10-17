@@ -1,0 +1,4 @@
+here_RB a_DT multinomial_JJ word_NN distribution_NN is_VBZ involved_VBN ._.
+Here_RB we_PRP look_VBP into_IN one_CD such_JJ application_NN --_: labeling_VBG document_NN clusters_NNS ._.
+In_IN this_DT experiment_NN ,_, we_PRP cluster_VBP the_DT SIGMOD_NNP abstracts_NNS with_IN the_DT K-Medoids_NNS algorithm_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC try_VB to_TO utilize_VB the_DT topic_NN labeling_NN method_NN to_TO label_VB the_DT clusters_NNS ._.
+Specifically_RB ,_, we_PRP estimate_VBP a_DT multinomial_JJ word_NN distribution_NN for_IN each_DT cluster_NN based_VBN on_IN its_PRP$ member_NN documents_NNS using_VBG the_DT maximum_NN likelih_NN

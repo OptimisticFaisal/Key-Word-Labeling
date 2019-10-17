@@ -1,0 +1,6 @@
+been_VBN argued_VBN that_IN it_PRP outperforms_VBZ many_JJ other_JJ methods_NNS -LRB-_-LRB- 21_CD ,_, 29_CD -RRB-_-RRB- ._.
+The_DT class_NN of_IN algorithms_NNS known_VBN as_IN spectral_JJ methods_NNS seem_VBP to_TO be_VB applicable_JJ in_IN a_DT variety_NN of_IN clustering_NN contexts_NNS ._.
+This_DT has_VBZ been_VBN investigated_VBN in_IN =_JJ -_: =[_NN 7_CD ,_, 35_CD ,_, 27_CD ,_, 22_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Roughly_RB speaking_VBG ,_, a_DT spectral_JJ algorithm_NN uses_VBZ the_DT eigenvalues_NNS and_CC eigenvectors_NNS of_IN the_DT similarity_NN matrix_NN tosnd_VBD a_DT clustering_NN ._.
+Our_PRP$ principal_JJ motivation_NN is_VBZ the_DT spectral_JJ algorithm_NN analyzed_VBN in_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+There_RB ,_,

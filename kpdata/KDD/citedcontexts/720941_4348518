@@ -1,0 +1,4 @@
+inference_NN ._.
+More_RBR generally_RB ,_, network_NN data_NNS allow_VBP the_DT use_NN of_IN the_DT features_NNS of_IN a_DT node_NN 's_POS neighbors_NNS ,_, although_IN that_DT must_MD be_VB done_VBN with_IN care_NN to_TO avoid_VB greatly_RB increasing_VBG estimation_NN variance_NN -LRB-_-LRB- and_CC thereby_RB error_NN -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Jensen_NNP et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN ._.
+For_IN this_DT survey_NN we_PRP consider_VBP methods_NNS for_IN classification_NN and_CC class-probability_NN estimation_NN on_IN arbitrary_JJ graphs_NNS ,_, and_CC not_RB on_IN regular_JJ grids_NNS ._.
+To_TO give_VB motivation_NN and_CC context_NN to_TO the_DT rest_NN of_IN the_DT survey_NN ,_, we_PRP s_VBZ

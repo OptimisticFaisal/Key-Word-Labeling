@@ -1,0 +1,5 @@
+he_PRP query_RB results_VBZ in_IN order_NN to_TO detect_VB connections_NNS between_IN the_DT query_NN terms_NNS and_CC an_DT individual_NN or_CC topic_NN ._.
+WEB-BASED_FW SOCIAL_FW NETWORK_NN ANALYSIS_NN ._.
+Recently_RB ,_, the_DT Web_NN has_VBZ been_VBN used_VBN to_TO detect_VB social_JJ networks_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 1_CD ,_, 23_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+A_DT key_JJ idea_NN in_IN this_DT work_NN is_VBZ using_VBG the_DT Web_NN to_TO look_VB for_IN co-occurences_NNS of_IN names_NNS and_CC using_VBG this_DT to_TO infer_VB a_DT link_NN in_IN a_DT social_JJ network_NN ._.
+Our_PRP$ techniques_NNS can_MD support_VB this_DT type_NN of_IN analysis_NN ,_, when_WRB ,_, for_IN example_NN ,_,

@@ -1,0 +1,4 @@
+s_NN verification_NN task_NN ._.
+Previously_RB published_VBN efforts_NNS have_VBP shown_VBN that_IN a_DT classification_NN system_NN could_MD examine_VB the_DT same_JJ signals_NNS a_DT human_JJ reviewer_NN uses_VBZ to_TO evaluate_VB whether_IN a_DT page_NN is_VBZ phishing_VBG -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 35_CD -RRB-_-RRB- ._.
+Such_JJ a_DT system_NN could_MD add_VB verified_VBN phishing_VBG pages_NNS to_TO the_DT blacklist_NN automatically_RB ,_, substantially_RB reducing_VBG the_DT verification_NN time_NN and_CC improving_VBG the_DT throughput_NN ._.
+With_IN higher_JJR throughput_NN ,_, the_DT system_NN co_NN

@@ -1,0 +1,4 @@
+the_DT user_NN 's_POS query_NN ,_, whereas_IN we_PRP intentionally_RB seek_VBP out_RP relevant_JJ queries_NNS that_WDT capture_VBP orthogonal_JJ meanings_NNS and_CC do_VBP not_RB directly_RB rely_VB on_IN the_DT keyword_JJ set_NN ._.
+Our_PRP$ work_NN also_RB relates_VBZ to_TO query_VB recommendation_NN -LRB-_-LRB- -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Baeza-Yates_NNP et_FW al._FW -LRB-_-LRB- 3_CD -RRB-_-RRB- propose_VBP a_DT query_JJ recommendation_NN method_NN that_WDT is_VBZ similar_JJ to_TO our_PRP$ approach_NN in_IN that_IN it_PRP utilizes_VBZ a_DT query_NN log_NN ._.
+However_RB ,_, unlike_IN our_PRP$ approach_NN ,_, they_PRP use_VBP the_DT query_NN

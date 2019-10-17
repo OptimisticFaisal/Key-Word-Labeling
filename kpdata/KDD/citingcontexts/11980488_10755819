@@ -1,0 +1,3 @@
+n_NN an_DT algebraic_JJ framework_NN for_IN measuring_VBG the_DT structure_NN similarity_NN of_IN graph_NN adjacency_NN matrices_NNS ._.
+In_IN addition_NN ,_, recently_RB developed_VBD association_NN net_NN uses_VBZ a_DT graph_NN model_NN to_TO represent_VB a_DT set_NN of_IN association_NN rules_NNS =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, these_DT work_NN could_MD not_RB be_VB directly_RB applied_VBN in_IN our_PRP$ current_JJ framework_NN since_IN the_DT graphlet_NN spectrum_NN method_NN models_NNS the_DT spatial_JJ relationship_NN of_IN graphlet_NN in_IN an_DT implicit_JJ approach_NN and_CC the_DT association_NN

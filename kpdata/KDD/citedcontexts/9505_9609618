@@ -1,0 +1,5 @@
+x_NN -RRB-_-RRB- and_CC pk_NN =_JJ p_NN -LRB-_-LRB- Y_NN |_CD xk_NN -RRB-_-RRB- ._.
+An_DT optimal_JJ clustering_NN algorithm_NN has_VBZ to_TO minimize_VB δIˆx_NN ._.
+An_DT optimal_JJ merge_VBP of_IN l_NN components_NNS can_MD be_VB obtained_VBN by_IN l_NN −_NN 1_CD consecutive_JJ optimal_JJ merges_NNS of_IN pairs_NNS of_IN components_NNS ._.
+Dhillon_NNP et_FW al._FW =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: presented_VBD a_DT co-clustering_JJ algorithm_NN applied_VBN to_TO word-document_JJ clustering_NN that_WDT simultaneously_RB clusters_NNS X_NN and_CC Y_NN into_IN disjoint_NN or_CC hard_JJ clusters_NNS ._.
+An_DT optimal_JJ co-clustering_NN algorithm_NN has_VBZ to_TO minimize_VB the_DT dif_NN

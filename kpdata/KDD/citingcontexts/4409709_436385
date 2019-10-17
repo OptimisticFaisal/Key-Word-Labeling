@@ -1,0 +1,4 @@
+nt_NN work_NN on_IN learning_VBG accurate_JJ ,_, interpretable_JJ models_NNS of_IN relational_JJ data_NNS -LRB-_-LRB- 9_CD ,_, 10_CD -RRB-_-RRB- ._.
+We_PRP learned_VBD relational_JJ probability_NN tree_NN -LRB-_-LRB- RPT_NN -RRB-_-RRB- models_NNS ,_, an_DT extension_NN of_IN probability_NN estimation_NN trees_NNS for_IN relational_JJ domains_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT models_NNS have_VBP three_CD attractive_JJ characteristics_NNS ._.
+First_RB ,_, they_PRP provide_VBP a_DT ranking_NN of_IN brokers_NNS -LRB-_-LRB- with_IN respect_NN to_TO estimated_VBN probability_NN of_IN misconduct_NN -RRB-_-RRB- rather_RB than_IN the_DT binary_JJ classification_NN provided_VBN by_IN t_NN

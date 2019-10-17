@@ -1,0 +1,3 @@
+a_DT maximum_JJ number_NN of_IN iterations_NNS has_VBZ been_VBN reached_VBN or_CC the_DT norm_NN of_IN the_DT residual_JJ ,_, ∑_JJ k_NN |_FW |_FW Xk_NN -_: Uk_NN H_NN Sk_NN V_NN T_NN |_FW |_FW ,_, ceases_VBZ to_TO change_VB appreciably_RB ._.
+This_DT algorithm_NN was_VBD written_VBN in_IN MATLAB_NNP using_VBG the_DT Tensor_NNP Toolbox_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC the_DT PARAFAC2_NN model_NN was_VBD computed_VBN on_IN a_DT dual_JJ 3GHz_NN Pentium_NNP Xeon_NNP desktop_NN computer_NN with_IN 2GB_NN of_IN RAM_NNP ._.
+Once_RB the_DT PARAFAC2_NN model_NN has_VBZ been_VBN computed_VBN for_IN all_DT languages_NNS according_VBG to_TO these_DT constraints_NNS ,_, the_DT mann_NN

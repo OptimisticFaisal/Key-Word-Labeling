@@ -1,0 +1,4 @@
+,_, cup_NN ,_, of_IN ,_, milk_NN -RRB-_-RRB- ._.
+LSOD_FW infers_FW rules_NNS -LRB-_-LRB- sequences_NNS -RRB-_-RRB- from_IN the_DT input_NN fragments_NNS -LRB-_-LRB- or_CC sentences_NNS -RRB-_-RRB- that_WDT are_VBP able_JJ to_TO detect_VB similar_JJ objects_NNS in_IN other_JJ pages_NNS ._.
+In_IN contrast_NN to_TO approaches_NNS to_TO grammar_NN and_CC DTD_NN inference_NN =_JJ -_: =[_NN 1_CD ,_, 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, LSOD_NN does_VBZ not_RB aim_VB to_TO derive_VB rules_NNS that_WDT capture_VBP a_DT formal_JJ description_NN of_IN the_DT whole_JJ object_NN -LRB-_-LRB- generative_JJ model_NN -RRB-_-RRB- ._.
+Instead_RB ,_, our_PRP$ goal_NN is_VBZ to_TO derive_VB rules_NNS that_WDT yield_VBP high_JJ precision_NN but_CC that_IN also_RB capture_VBP the_DT w_NN

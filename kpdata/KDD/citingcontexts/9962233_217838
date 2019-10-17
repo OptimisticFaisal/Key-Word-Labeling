@@ -1,0 +1,4 @@
+99_CD -RRB-_-RRB- ,_, by_IN discovering_VBG this_DT property_NN in_IN our_PRP$ problem_NN ,_, we_PRP can_MD take_VB advantage_NN of_IN several_JJ efficient_JJ approximation_NN algorithms_NNS with_IN theoretical_JJ guarantees_NNS ._.
+For_IN example_NN ,_, the_DT classic_JJ result_NN of_IN Nemhauser_NNP et_FW al._FW -LRB-_-LRB- =_JJ -_: =_JJ Nemhauser_NNP et_FW al._FW ,_, 1978_CD -_: =--RRB-_NN shows_VBZ that_IN by_IN simply_RB applying_VBG a_DT greedy_JJ algorithm_NN to_TO maximize_VB our_PRP$ objective_JJ function_NN in_IN Eq_NN ._.
+3_CD ,_, we_PRP can_MD obtain_VB a_DT -LRB-_-LRB- 1_CD −_NN 1_CD e_LS -RRB-_-RRB- approximation_NN of_IN the_DT optimal_JJ value_NN ._.
+Thus_RB ,_, a_DT simple_JJ greedy_JJ optimization_NN can_MD pr_VB

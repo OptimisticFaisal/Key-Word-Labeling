@@ -1,0 +1,4 @@
+a_DT tiny_JJ Volume_NN 7_CD ,_, Issue_NN 2_CD Page_NNP 41sfraction_NN of_IN this_DT number_NN ._.
+The_DT result_NN is_VBZ that_IN algorithms_NNS for_IN link_NN modeling_NN must_MD contend_VB with_IN a_DT extremely_RB large_JJ class_NN skew_VB ,_, making_VBG both_CC learning_VBG and_CC inference_NN difficult_JJ =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Figure_NN 1_CD illustrates_VBZ the_DT problem_NN for_IN data_NNS from_IN the_DT Digital_NNP Bibliography_NNP &_CC Library_NNP Project_NNP -LRB-_-LRB- DBLP_NNP -RRB-_-RRB- over_IN a_DT ten-year_JJ span_NN ._.
+During_IN this_DT time_NN period_NN ,_, the_DT number_NN of_IN authors_NNS increased_VBN by_IN a_DT factor_NN of_IN 13_CD ,_, fro_NN

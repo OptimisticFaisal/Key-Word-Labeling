@@ -1,0 +1,4 @@
+on_IN at_IN a_DT different_JJ time_NN interval_NN ,_, e.g._FW ,_, -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+Neural_JJ networks_NNS have_VBP been_VBN shown_VBN to_TO be_VB able_JJ to_TO outperform_VB traditional_JJ statistical_JJ models_NNS ,_, probably_RB due_JJ to_TO neural_JJ networks_NNS '_POS capacity_NN to_TO model_VB nonlinearities_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, these_DT algorithms_NNS require_VBP a_DT large_JJ number_NN of_IN samples_NNS in_IN the_DT training_NN set_VBN in_IN order_NN to_TO be_VB successful_JJ -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Different_JJ from_IN the_DT traditional_JJ survival_NN analysis_NN ,_, some_DT applications_NNS '_POS primary_JJ goal_NN is_VBZ to_TO

@@ -1,0 +1,4 @@
+first_RB defined_VBN by_IN Agrawal_NNP and_CC Srikant_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Frequent_JJ itemset_NN mining_NN also_RB plays_VBZ an_DT important_JJ role_NN in_IN mining_NN correlations_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, causality_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, sequential_JJ patterns_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, episodes_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, and_CC emerging_VBG patterns_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ solution_NN embraces_VBZ one_CD of_IN the_DT fastest_JJS known_JJ sequential_JJ algorithms_NNS -LRB-_-LRB- FPGrowth_NN -RRB-_-RRB- ,_, and_CC extends_VBZ it_PRP to_TO work_VB in_IN a_DT parallel_JJ setting_NN ,_, utilizing_VBG all_DT available_JJ resources_NNS efficiently_RB ._.
+In_IN particular_JJ ,_, our_PRP$ solut_NN

@@ -1,0 +1,4 @@
+that_IN ξ_NN =_JJ 1_CD ∑_CD n_NN n_NN i_FW =_JJ 1_CD ξi_NN ._.
+While_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- has_VBZ a_DT huge_JJ number_NN of_IN constraints_NNS ,_, Algorithm_NN 1_CD is_VBZ a_DT cutting-plane_JJ procedure_NN that_WDT always_RB constructs_NNS a_DT solution_NN of_IN precision_NN ɛ_NN with_IN at_IN most_JJS O_NN -LRB-_-LRB- C_NN ɛ_NN -RRB-_-RRB- active_JJ constraints_NNS =_JJ -_: =[_NN 15_CD ,_, 18_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT experiments_NNS from_IN Section_NN 6_CD ,_, the_DT number_NN of_IN active_JJ constraints_NNS was_VBD typically_RB around_IN 30_CD --_: independent_JJ of_IN the_DT size_NN of_IN the_DT training_NN set_NN ._.
+Algorithm_NN 1_CD maintains_VBZ a_DT working_VBG set_NN of_IN m_NN constraints_NNS 〈_FW w_FW ,_, ¯_NN

@@ -1,0 +1,4 @@
+1967_CD ;_: Censor_NNP and_CC Zenios_NNP ,_, 1998_CD -RRB-_-RRB- ,_, which_WDT form_VBP a_DT large_JJ class_NN of_IN well-behaved_JJ loss_NN functions_NNS with_IN a_DT number_NN of_IN desirable_JJ properties_NNS ._.
+Definition_NN 1_CD Let_NNP φ_NN be_VB a_DT real-valued_JJ convex_NN function_NN of_IN Legendre_NNP type_NN 2_CD -LRB-_-LRB- =_JJ -_: =_JJ Rockafellar_NNP ,_, 1970_CD -_: =_JJ -_: ;_: Banerjee_NNP et_FW al._FW ,_, 2005b_CD -RRB-_-RRB- defined_VBN on_IN the_DT convex_NN set_NN S_NN ≡_FW dom_FW -LRB-_-LRB- φ_NN -RRB-_-RRB- -LRB-_-LRB- ⊆_CD R_NN d_NN -RRB-_-RRB- ._.
+The_DT Bregman_NNP divergence_NN dφ_NN :_: S_NN ×_FW ri_FW -LRB-_-LRB- S_NN -RRB-_-RRB- ↦_FW →_FW R_NN +_CC is_VBZ defined_VBN as_IN where_WRB ∇_FW φ_FW is_VBZ the_DT gradient_NN of_IN φ_NN ._.
+dφ_NN -LRB-_-LRB- z1_NN ,_, z2_NN -RRB-_-RRB- =_JJ φ_NN -LRB-_-LRB- z1_NN -RRB-_-RRB- −_FW φ_FW -LRB-_-LRB- z2_NN -RRB-_-RRB- −_FW 〈_FW z1_FW −_FW z2_NN ,_, ∇_NN

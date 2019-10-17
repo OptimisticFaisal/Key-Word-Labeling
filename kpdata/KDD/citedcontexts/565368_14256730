@@ -1,0 +1,3 @@
+of_IN the_DT task_NN relations_NNS provided_VBN ?_.
+To_TO this_DT aim_NN ,_, we_PRP implemented_VBD RMTGPs_NNS as_RB well_RB as_IN singletask_JJ GPs_NNS and_CC MTGPs_NNS within_IN Python_NNP and_CC evaluated_VBD them_PRP on_IN two_CD datasets_NNS ,_, a_DT synthetic_JJ dataset_NN and_CC Kamishima_NNP 's_POS Sushi_NNP data_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN -LRB-_-LRB- R_NN -RRB-_-RRB- MTGP_NN ,_, we_PRP conducted_VBD the_DT experiments_NNS within_IN a_DT transductive_JJ setting_NN and_CC measured_JJ performance_NN using_VBG three_CD commonly_RB used_VBN metrics_NNS :_: •_CD the_DT mean_NN absolute_JJ error_NN MAE_NN =_JJ 1_CD ∑_FW |_FW yi_FW −_FW fi_FW |_FW ,_, n_NN •_FW •_FW the_DT root_NN mean_NN

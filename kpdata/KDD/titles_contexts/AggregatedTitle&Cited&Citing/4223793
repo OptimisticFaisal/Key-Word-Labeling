@@ -1,0 +1,7 @@
+Generalized_NNP component_NN analysis_NN for_IN text_NN with_IN heterogeneous_JJ attributes_NNS
+topics_NNS for_IN a_DT new_JJ document_NN has_VBZ the_DT complexity_NN of_IN a_DT matrix_NN multiplication_NN ,_, which_WDT is_VBZ fast_RB compared_VBN to_TO hierarchical_JJ Bayesian_JJ models_NNS ._.
+Several_JJ pieces_NNS of_IN work_NN in_IN this_DT direction_NN rely_VBP on_IN a_DT two-layer_JJ structure_NN =_JJ -_: =[_NN 18_CD ,_, 64_CD ,_, 68_CD ,_, 72_CD ,_, 73_CD -RRB-_-RRB- -_: =_JJ -_: that_DT has_VBZ an_DT important_JJ property_NN :_: the_DT random_JJ variables_NNS at_IN the_DT two_CD layers_NNS are_VBP conditionally_RB independent_JJ given_VBN each_DT other_JJ ,_, which_WDT provides_VBZ the_DT property_NN that_IN the_DT mapping_NN from_IN one_CD layer_NN to_TO the_DT other_JJ layer_NN c_NN
+and_CC in_IN topic_NN cube_NN -LRB-_-LRB- language_NN model_NN -RRB-_-RRB- is_VBZ query-independent_JJ ._.
+Analysis_NN of_IN Text_NNP Data_NNP with_IN Multiple_JJ Attributes_NNS ._.
+Besides_IN -LRB-_-LRB- 32_CD -RRB-_-RRB- ,_, there_EX are_VBP some_DT other_JJ works_NNS on_IN analyzing_VBG text_NN data_NNS with_IN multiple_JJ attributes_NNS ,_, e.g._FW =_JJ -_: =[_NN 28_CD ,_, 29_CD -RRB-_-RRB- -_: =_JJ -_: ;_: though_IN they_PRP can_MD not_RB be_VB directly_RB applied_VBN in_IN our_PRP$ keyword_JJ search_NN problem_NN -LRB-_-LRB- as_IN the_DT models_NNS they_PRP focus_VBP on_IN are_VBP query-independent_JJ -RRB-_-RRB- ._.
+-LRB-_-LRB- 28_CD -RRB-_-RRB- introduces_VBZ a_DT generative_JJ model_NN of_IN entity_NN relationships_NNS and_CC their_PRP$ attribu_NN

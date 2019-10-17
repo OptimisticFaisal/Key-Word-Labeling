@@ -1,0 +1,5 @@
+d_NN queries_NNS are_VBP used_VBN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- to_TO train_VB a_DT commercial_JJ intent_NN detection_NN classifier_NN ._.
+To_TO offset_VB the_DT problems_NNS with_IN small_JJ training_NN sets_NNS ,_, there_EX has_VBZ been_VBN work_NN on_IN using_VBG semi-supervised_JJ learning_NN ._.
+For_IN instance_NN ,_, both_DT =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 11_CD -RRB-_-RRB- apply_VBP semi-supervised_JJ learning_NN for_IN the_DT task_NN of_IN web_NN query_NN classification_NN ._.
+While_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- uses_VBZ query_NN logs_NNS as_IN unlabeled_JJ data_NNS ,_, -LRB-_-LRB- 11_CD -RRB-_-RRB- uses_VBZ the_DT query-click_JJ graph_NN ._.
+While_IN semi-supervised_JJ techniques_NNS assume_VBP

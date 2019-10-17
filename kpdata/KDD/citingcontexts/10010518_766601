@@ -1,0 +1,5 @@
+ay_RB be_VB very_RB different_JJ from_IN its_PRP$ value_NN in_IN terms_NNS of_IN its_PRP$ originality_NN index_NN ._.
+Our_PRP$ work_NN assesses_VBZ a_DT patent_NN 's_POS value_NN from_IN the_DT patent_NN text_NN and_CC we_PRP did_VBD not_RB find_VB any_DT prior_JJ work_NN on_IN this_DT ._.
+Recently_RB ,_, Shaparenko_FW et_FW ._.
+al._FW =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT method_NN for_IN identifying_VBG influential_JJ papers_NNS and_CC authors_NNS from_IN a_DT collection_NN of_IN research_NN papers_NNS that_WDT solely_RB uses_VBZ the_DT text_NN ._.
+They_PRP represent_VBP a_DT document_NN d_NN by_IN a_DT term_NN vector_NN in_IN a_DT TFIDF_NN format_NN and_CC com_NN

@@ -1,0 +1,4 @@
+e_LS tackle_VB this_DT problem_NN by_IN introducing_VBG a_DT feature-based_JJ model_NN that_WDT can_MD be_VB effective_JJ even_RB without_IN such_JJ statistics_NNS ._.
+Features_NNS we_PRP define_VBP are_VBP inspired_VBN by_IN web_NN page_NN segmentation_NN and_CC template_NN extraction_NN studies_NNS =_JJ -_: =[_NN 6_CD ,_, 22_CD ,_, 19_CD ,_, 24_CD ,_, 17_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Structural_JJ features_NNS have_VBP also_RB been_VBN proposed_VBN in_IN a_DT number_NN of_IN other_JJ studies_NNS ._.
+Lin_NNP and_CC Ho_NNP -LRB-_-LRB- 22_CD -RRB-_-RRB- and_CC Gupta_NNP et_FW al._FW -LRB-_-LRB- 19_CD -RRB-_-RRB- proposed_VBN algorithms_NNS to_TO extract_VB content_NN blocks_NNS from_IN HTML_NNP pages_NNS using_VBG a_DT DOM_NNP -LRB-_-LRB- Document_NNP Ob_NN

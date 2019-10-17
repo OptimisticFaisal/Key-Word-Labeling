@@ -1,0 +1,6 @@
+cation_NN ,_, and_CC non-repudiation_JJ using_VBG public_JJ and_CC private_JJ key_JJ encryption_NN and_CC end-to-end_JJ encryption_NN techniques_NNS ._.
+Zhou_NNP ,_, et_NNP ._.
+al._FW -LRB-_-LRB- 8_CD -RRB-_-RRB- use_VBP formal_JJ tools_NNS to_TO verify_VB the_DT properties_NNS of_IN the_DT PEM_NN system_NN ._.
+Abadi_NNP ,_, et_NNP ._.
+al._FW =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: use_VB a_DT trusted_VBN third_JJ party_NN to_TO achieve_VB message_NN and_CC source_NN authentication_NN and_CC formally_RB prove_VB correctness_NN of_IN their_PRP$ protocol_NN ._.
+sChanges_NNS to_TO the_DT SMTP_NN system_NN aimed_VBN at_IN spam_NN reduction_NN include_VBP a_DT proposal_NN by_IN Fento_NN

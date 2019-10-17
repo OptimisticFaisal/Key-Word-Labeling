@@ -1,0 +1,4 @@
+ace_NN ._.
+Categories_NNS and_CC Subject_NNP Descriptors_NNP I._NNP 2.6_CD -LRB-_-LRB- Artificial_JJ Intelligence_NNP -RRB-_-RRB- :_: Learning_NNP --_: Concept_NN learning_NN ,_, Induction_NN General_JJ Terms_NNS ROC_NN Analysis_NN ,_, Cost_NN Sensitive_JJ Learning_NNP 1_CD ._.
+INTRODUCTION_NNP Provost_NNP and_CC Fawcett_NNP =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP argued_VBN persuasively_RB that_IN accuracy_NN is_VBZ often_RB not_RB an_DT appropriate_JJ measure_NN of_IN classifier_NN performance_NN ._.
+This_DT is_VBZ certainly_RB apparent_JJ in_IN classification_NN problems_NNS with_IN heavily_RB imbalanced_JJ classes_NNS -LRB-_-LRB- one_CD class_NN

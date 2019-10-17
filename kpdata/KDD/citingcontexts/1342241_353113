@@ -1,0 +1,5 @@
+are_VBP similar_JJ to_TO DMQL_NNP ._.
+They_PRP are_VBP not_RB designed_VBN for_IN the_DT purpose_NN of_IN querying_VBG the_DT mined_VBN rules_NNS as_IN Rule-QL_NN ,_, but_CC enabling_VBG the_DT user_NN to_TO specify_VB the_DT data_NNS mining_NN task_NN to_TO perform_VB and_CC its_PRP$ required_JJ data_NNS ._.
+In_IN addition_NN ,_, =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: describes_VBZ different_JJ types_NNS of_IN constraints_NNS that_IN the_DT user_NN can_MD provide_VB for_IN focusing_VBG the_DT discovery_NN process_NN ._.
+-LRB-_-LRB- 14,28_CD -RRB-_-RRB- report_VBP a_DT more_RBR powerful_JJ data_NNS mining_NN query_NN language_NN ,_, called_VBD MSQL_NNP ._.
+MSQL_NN can_MD be_VB used_VBN not_RB onl_VB

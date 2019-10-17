@@ -1,0 +1,5 @@
+14_CD ,_, 15_CD -RRB-_-RRB- ._.
+The_DT feedback_NN -LRB-_-LRB- clicks_NNS -RRB-_-RRB- on_IN these_DT results_NNS is_VBZ recorded_VBN and_CC used_VBN to_TO infer_VB relevance_NN judgments_NNS ._.
+These_DT judgments_NNS are_VBP then_RB used_VBN to_TO train_VB a_DT learning_NN algorithm_NN such_JJ as_IN a_DT ranking_JJ support_NN vector_NN machine_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN particular_JJ ,_, users_NNS very_RB rarely_RB evaluate_VB results_NNS beyond_IN the_DT first_JJ page_NN ,_, so_IN the_DT data_NNS obtained_VBN is_VBZ strongly_RB biased_VBN toward_IN documents_NNS already_RB ranked_VBD highly_RB ._.
+Highly_RB relevant_JJ results_NNS that_WDT are_VBP not_RB initiall_NN

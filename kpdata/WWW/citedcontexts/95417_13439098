@@ -1,0 +1,4 @@
+e_LS step_NN before_IN a_DT W3C_NN Recommendation_NN ._.
+Furthermore_RB ,_, in_IN recent_JJ years_NNS RDF_NNP storage_NN systems_NNS ,_, which_WDT support_VBP or_CC plan_VBP to_TO support_VB SPARQL_NNP ,_, have_VBP been_VBN developed_VBN like_IN e.g._NNP Jena_NNP -LRB-_-LRB- 32_CD -RRB-_-RRB- ,_, Sesame_NNP -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, rdfDB_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, Redland_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Kowari_NNP -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, RDF_NN Suite_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC Allegro_NNP -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+Thus_RB ,_, SPARQL_NN is_VBZ increasingly_RB important_JJ as_IN the_DT upcoming_VBG standard_NN for_IN RDF_NN query_NN languages_NNS ._.
+SPARQL_NN -LRB-_-LRB- 31_CD -RRB-_-RRB- supports_VBZ querying_VBG by_IN triple_JJ patterns_NNS ,_, conjunctions_NNS ,_,

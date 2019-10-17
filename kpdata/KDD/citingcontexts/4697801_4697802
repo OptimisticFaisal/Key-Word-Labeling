@@ -1,0 +1,4 @@
+Monte-Carlo_NN method_NN based_VBN on_IN the_DT assumption_NN that_IN the_DT points_NNS are_VBP generated_VBN by_IN either_CC an_DT non-homogeneous_JJ Poisson_NN process_NN or_CC a_DT Bernoulli_NNP process_NN ._.
+Several_JJ research_NN groups_NNS have_VBP looked_VBN at_IN speeding_VBG this_DT test_NN =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Though_NNP Kulldorff_NNP 's_POS test_NN does_VBZ check_VB for_IN a_DT change_NN of_IN distribution_NN ,_, it_PRP looks_VBZ for_IN a_DT very_RB specific_JJ distributional_JJ change_NN ._.
+As_IN such_JJ ,_, Kulldorff_NNP 's_POS test_NN is_VBZ not_RB really_RB suitable_JJ for_IN generalpurpose_NN change_NN detect_VB

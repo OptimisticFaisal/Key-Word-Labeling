@@ -1,0 +1,4 @@
+riginal_JJ training_NN set_NN ._.
+The_DT advantage_NN of_IN combining_VBG is_VBZ that_IN it_PRP is_VBZ algorithm_NN independent_JJ ,_, and_CC can_MD be_VB used_VBN to_TO scale_VB up_RP many_JJ learning_VBG algorithms_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP will_MD study_VB a_DT new_JJ technique_NN using_VBG AdaBoost_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: to_TO combine_VB classifiers_NNS to_TO provide_VB scalable_JJ ,_, distributed_VBN and_CC on-line_JJ inductive_JJ learning_NN ._.
+Freund_NNP and_CC Schapire_NNP 's_POS AdaBoost_NNP -LRB-_-LRB- 12_CD -RRB-_-RRB- learns_VBZ a_DT highly_RB accurate_JJ weighted_JJ voting_NN ensemble_NN of_IN many_JJ ``_`` weak_JJ ''_'' hypotheses_NNS

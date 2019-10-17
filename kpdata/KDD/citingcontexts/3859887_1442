@@ -1,0 +1,4 @@
+carry_VB semantic_JJ information_NN and_CC can_MD discriminate_VB the_DT meanings_NNS of_IN the_DT frequent_JJ patterns_NNS ._.
+The_DT discriminating_VBG power_NN of_IN each_DT context_NN unit_NN will_MD be_VB captured_VBN by_IN its_PRP$ strength_NN weights_NNS ._.
+Vector_NNP Space_NNP Model_NNP -LRB-_-LRB- VSM_NNP -RRB-_-RRB- =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ commonly_RB used_VBN in_IN natural_JJ language_NN processing_NN and_CC information_NN retrieval_NN to_TO model_VB the_DT content_NN of_IN a_DT text_NN ._.
+For_IN example_NN ,_, in_IN information_NN retrieval_NN ,_, a_DT document_NN and_CC a_DT query_NN are_VBP both_DT represented_VBN as_IN term_NN ve_IN

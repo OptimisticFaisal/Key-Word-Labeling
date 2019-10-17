@@ -1,0 +1,5 @@
+a_DT total_JJ number_NN of_IN 170794_CD links_NNS 4_CD ._.
+For_IN accuracy_NN evaluation_NN ,_, we_PRP use_VBP a_DT labeled_JJ data_NN set_NN of_IN 4057_CD authors_NNS ,_, 100_CD papers_NNS and_CC all_DT 20_CD conferences_NNS ._.
+For_IN more_JJR details_NNS about_IN the_DT labeled_JJ data_NNS set_VBP ,_, please_VBP refer_VBP to_TO =_JJ -_: =[_NN 7_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT following_JJ sections_NNS ,_, we_PRP randomly_RB choose_VBP a_DT subset_NN of_IN labeled_JJ objects_NNS and_CC use_VB their_PRP$ 3_CD http:\/\/www.research.rutgers.edu\/~sofmac\/_NN NetKit_NN ._.
+html_NN 4_CD The_DT data_NN set_NN is_VBZ available_JJ atwww.cs.illinois.edu\/homes_NNS

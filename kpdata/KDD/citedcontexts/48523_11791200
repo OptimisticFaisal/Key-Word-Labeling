@@ -1,0 +1,4 @@
+duce_VB reasonably_RB wellcalibrated_JJ probability_NN estimates_NNS on_IN unseen_JJ test_NN data_NNS ,_, their_PRP$ estimates_NNS on_IN training_NN data_NNS are_VBP biased_VBN ._.
+Thus_RB ,_, to_TO obtain_VB the_DT ``_`` predictions_NNS ''_'' for_IN each_DT training_NN example_NN x_NN ,_, we_PRP apply_VBP stacking_VBG =_JJ -_: =[_NN 29_CD ,_, 12_CD ,_, 28_CD ,_, 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT meta-learning_JJ scheme_NN based_VBN on_IN crossvalidation_NN ._.
+In_IN other_JJ words_NNS ,_, we_PRP first_RB run_VBP the_DT simple_JJ classification_NN model_NN and_CC use_NN cross-validation_NN to_TO obtain_VB the_DT predicted_VBN job_NN categories_NNS ,_, as_IN show_NN in_IN Figure_NNP 5_CD ._.
+Th_NN

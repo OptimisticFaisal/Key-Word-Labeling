@@ -1,0 +1,4 @@
+-RRB-_-RRB- -LRB-_-LRB- v_LS =_JJ 1_CD −_CD t_NN -RRB-_-RRB- ·_CD p_NN N_NN -LRB-_-LRB- i_LS -RRB-_-RRB- v_LS +_CC t_NN N_NN ∑_NN -LRB-_-LRB- u_NN ,_, v_LS -RRB-_-RRB- ∈_CD E_NN p_NN -LRB-_-LRB- i_LS -RRB-_-RRB- u_FW ·_FW Auv_NN ._.
+Duu_NNP PageRank_NNP with_IN priors_NNS is_VBZ an_DT extension_NN of_IN the_DT original_JJ PageRank_NNP algorithm_NN to_TO consider_VB the_DT original_JJ probability_NN distribution_NN of_IN the_DT scores_NNS =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT parameter_NN β_NN ,_, called_VBN ``_`` back_JJ probability_NN ''_'' expresses_VBZ the_DT probability_NN of_IN jumping_VBG to_TO the_DT initial_JJ node_NN at_IN each_DT iteration_NN ._.
+The_DT iterative_JJ equation_NN is_VBZ p_NN -LRB-_-LRB- i_FW +1_FW -RRB-_-RRB- v_LS =_JJ β_FW ·_FW p_NN -LRB-_-LRB- 0_CD -RRB-_-RRB- v_LS +_CC -LRB-_-LRB- 1_CD −_FW β_FW -RRB-_-RRB- ·_FW ∑_FW -LRB-_-LRB- u_NN ,_, v_LS -RRB-_-RRB- ∈_CD E_NN p_NN -LRB-_-LRB- i_LS -RRB-_-RRB- Auv_NN

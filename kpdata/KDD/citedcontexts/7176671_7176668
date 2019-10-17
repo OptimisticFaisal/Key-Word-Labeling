@@ -1,0 +1,4 @@
+have_VBP many_JJ instances_NNS ._.
+When_WRB learning_VBG an_DT extractor_NN for_IN such_JJ a_DT sparsely-populated_JJ class_NN ,_, C_NN ,_, one_PRP may_MD use_VB instances_NNS of_IN the_DT parent_NN and_CC children_NNS of_IN C_NN ,_, appropriately_RB weighted_VBN ,_, as_IN additional_JJ training_NN examples_NNS =_JJ -_: =[_NN 17_CD ,_, 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Semiautomatic_JJ Generation_NN of_IN New_JJ Templates_NNS :_: Today_NN ,_, Wikipedia_NNP infobox_NN templates_NNS are_VBP designed_VBN manually_RB with_IN an_DT error-prone_JJ ``_`` copy_VB and_CC edit_VB ''_'' process_NN ._.
+By_IN displaying_VBG infobox_NN classes_NNS in_IN the_DT context_NN of_IN a_DT cle_NN

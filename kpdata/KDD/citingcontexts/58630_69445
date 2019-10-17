@@ -1,0 +1,4 @@
+se_FW that_IN groups_NNS correspond_VBP to_TO modes_NNS of_IN the_DT density_NN p_NN -LRB-_-LRB- x_NN -RRB-_-RRB- ._.
+The_DT goal_NN then_RB is_VBZ to_TO estimate_VB the_DT modes_NNS and_CC assign_VB each_DT observation_NN to_TO the_DT ``_`` domain_NN of_IN attraction_NN ''_'' of_IN a_DT mode_NN ._.
+In_IN contrast_NN ,_, model-based_JJ clustering_NN =_JJ -_: =[_NN 16_CD ,_, 17_CD ,_, 3_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: assumes_VBZ that_IN each_DT group_NN g_NN is_VBZ represented_VBN by_IN a_DT density_NN pg_NN -LRB-_-LRB- x_NN -RRB-_-RRB- that_WDT is_VBZ a_DT member_NN of_IN some_DT parametric_JJ family_NN ,_, such_JJ as_IN the_DT multivariate_JJ normal_JJ family_NN ._.
+The_DT density_NN p_NN -LRB-_-LRB- x_NN -RRB-_-RRB- then_RB is_VBZ a_DT mixture_NN of_IN the_DT group_NN densiti_NNS

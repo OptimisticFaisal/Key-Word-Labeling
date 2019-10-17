@@ -1,0 +1,4 @@
+igenvalue_NN -RRB-_-RRB- ._.
+The_DT components_NNS of_IN this_DT vector_NN are_VBP thresholded_VBN to_TO define_VB the_DT class_NN memberships_NNS of_IN the_DT data_NNS points_NNS ._.
+Although_IN spectral_JJ clustering_NN algorithms_NNS that_WDT work_VBP directly_RB with_IN multiway_JJ partitions_NNS exist_VBP =_JJ -_: =[_NN 4_CD ,_, 39_CD -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN the_DT current_JJ paper_NN we_PRP will_MD focus_VB on_IN the_DT classical_JJ recursive_JJ Ncut_NN algorithm_NN ._.
+We_PRP assume_VBP that_IN the_DT number_NN of_IN clusters_NNS is_VBZ given_VBN a_DT priori_FW and_CC we_PRP run_VBP the_DT recursion_NN until_IN the_DT desired_VBN number_NN of_IN clusters_NNS is_VBZ

@@ -1,0 +1,4 @@
+ore_NN :_: -LRB-_-LRB- 5_LS -RRB-_-RRB- Scorek_NN =_JJ tk_NN ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- Total_JJ anomaly_NN score_NN is_VBZ accumulated_VBN over_IN all_DT violated_VBN rules_NNS :_: AnomalyScore_NN -LRB-_-LRB- d_NN -RRB-_-RRB- =_JJ tk_NN ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- pk_NN rk_FW ∈_FW R_NN ′_CD pk_NN The_DT tk_NN factor_NN also_RB accommodates_VBZ the_DT ``_`` bursty_JJ ''_'' nature_NN of_IN network_NN traffic_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, so_IN that_IN multiple_JJ successive_JJ anomalies_NNS generate_VBP a_DT single_JJ high_JJ scoring_VBG alarm_NN ._.
+3.2.2_CD Scoring_NNP based_VBN on_IN Rule_NNP Weighting_NNP Each_DT rule_NN assigns_VBZ an_DT anomaly_JJ score_NN to_TO a_DT test_NN instance_NN d_NN ∈_NNP DT_NNP ,_, a_DT higher_JJR score_NN implyi_NNS

@@ -1,0 +1,4 @@
+d_NN attention_NN ._.
+One_CD of_IN the_DT earliest_JJS iterative_JJ semi-supervised_JJ relational_JJ approaches_NNS was_VBD proposed_VBN by_IN Chakrabarti_NNP et_FW al._FW -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, where_WRB a_DT probabilistic_JJ model_NN for_IN classification_NN of_IN web_NN pages_NNS was_VBD introduced_VBN ._.
+In_IN =_JJ -_: =[_NN 9_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: the_DT authors_NNS presented_VBD different_JJ semi-supervised_JJ iterative_JJ models_NNS and_CC showed_VBD that_IN collective_JJ inference_NN increases_VBZ accuracy_NN ._.
+Here_RB we_PRP will_MD focus_VB on_IN the_DT cold-start_JJ problem_NN ,_, where_WRB we_PRP expect_VBP that_IN simple_JJ ite_NN

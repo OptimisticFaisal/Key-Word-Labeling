@@ -1,0 +1,5 @@
+onent_JJ models_NNS is_VBZ a_DT smooth_JJ function_NN of_IN the_DT form_NN f_FW -LRB-_-LRB- x_NN -RRB-_-RRB- =_JJ a1_NN sin_NN -LRB-_-LRB- b1x_NN -RRB-_-RRB- +_CC a2_FW cos_FW -LRB-_-LRB- b2x_NN -RRB-_-RRB- defined_VBN on_IN a_DT discrete_JJ time_NN grid_NN ._.
+The_DT coefficients_NNS a1_NN ,_, a2_NN ,_, b1_NN ,_, b2_NN are_VBP sampled_VBN from_IN a_DT uniform_JJ distribution_NN over_IN a_DT fixed_JJ interval_NN =_JJ -_: =[_NN 0,1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Each_DT component_NN in_IN the_DT mixture_NN model_NN has_VBZ its_PRP$ own_JJ set_NN of_IN randomly_RB generated_VBN a_DT and_CC b_NN coefficients_NNS ._.
+The_DT inverse_JJ variance_NN within_IN each_DT component_NN is_VBZ sampled_VBN from_IN a_DT Gamma_NN prior_JJ with_IN parameters_NNS -LRB-_-LRB- 5,5_CD -RRB-_-RRB- ._.
+The_DT mi_NN

@@ -1,0 +1,6 @@
+malous_JJ ._.
+For_IN multivariate_JJ categorical_JJ data_NNS ,_, dependency_NN trees_NNS and_CC bayesian_JJ networks_NNS are_VBP common_JJ representations_NNS of_IN a_DT probability_NN density_NN model_NN ._.
+Dependency_NN trees_NNS have_VBP been_VBN 221_CD used_VBN to_TO detect_VB anomalies_NNS in_IN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP choose_VBP a_DT bayesian_JJ network_NN as_IN the_DT standard_JJ model_NN against_IN which_WDT we_PRP compare_VBP our_PRP$ algorithm_NN ._.
+Hence_RB ,_, we_PRP give_VBP an_DT overview_NN of_IN this_DT method_NN next_RB ._.
+2.1.3_FW Anomaly_FW Detection_NN Using_VBG Bayes_NNP Network_NNP A_NNP Bayesian_JJ netw_NN

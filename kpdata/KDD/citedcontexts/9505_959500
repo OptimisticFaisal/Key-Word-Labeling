@@ -1,0 +1,3 @@
+._.
+3.4_CD A_NNP Matrix_NNP Perspective_NNP Recently_RB ,_, a_DT number_NN of_IN authors_NNS -LRB-_-LRB- Ando_NNP &_CC Lee_NNP ,_, 2001_CD ;_: Dhillon_NNP &_CC Modha_NNP ,_, 2001_CD ;_: Li_NNP et_FW al._FW ,_, 2004a_CD ;_: Soete_NNP &_CC douglas_NNP Carroll_NNP ,_, 1994_CD ;_: Xu_NNP &_CC Gong_NNP ,_, 2004_CD ;_: Xu_NNP et_FW al._FW ,_, 2003_CD ;_: Zha_NNP et_FW al._FW ,_, 2001_CD ;_: =_JJ -_: =_JJ Dhillon_NNP et_FW al._FW ,_, 2003_CD -_: =--RRB-_NN have_VBP suggested_VBN clustering_NN methods_NNS based_VBN on_IN matrix_NN computations_NNS and_CC have_VBP demonstrated_VBN good_JJ performance_NN on_IN various_JJ datasets_NNS ._.
+These_DT methods_NNS are_VBP attractive_JJ as_IN they_PRP utilize_VBP many_JJ existing_VBG numerical_JJ algori_NNS

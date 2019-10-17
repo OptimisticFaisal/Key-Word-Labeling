@@ -1,0 +1,4 @@
+fier_NN ,_, which_WDT mimicks_VBZ the_DT performance_NN of_IN the_DT ensemble_NN classifier_NN ._.
+This_DT approach_NN has_VBZ ,_, e.g._FW ,_, been_VBN advocated_VBN in_IN the_DT MetaCost_NNP algorithm_NN ,_, in_IN which_WDT bagging_NN is_VBZ used_VBN for_IN deriving_VBG improved_VBN probability_NN estimates_VBZ =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT different_JJ approach_NN is_VBZ to_TO employ_VB stacking_VBG at_IN the_DT meta_NN level_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Stacking_VBG generates_VBZ a_DT global_JJ classifier_NN by_IN training_VBG a_DT meta-level_JJ learner_NN for_IN combining_VBG the_DT predictions_NNS of_IN the_DT base-level_JJ classifiers_NNS

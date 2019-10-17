@@ -1,0 +1,5 @@
+:_: Blei_NNP et_FW al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- proposed_VBD the_DT original_JJ LDA_NN using_VBG EM_NN estimation_NN ._.
+Griffiths_NNP and_CC Steyvers_NNP -LRB-_-LRB- 14_CD -RRB-_-RRB- applied_VBD Gibbs_NNP sampling_NN to_TO estimate_VB LDA_NNP 's_POS parameters_NNS ._.
+Since_IN theseworks_NNS ,_, many_JJ variations_NNS have_VBP been_VBN proposed_VBN =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 4_CD ,_, 6_CD ,_, 9_CD ,_, 10_CD ,_, 26_CD ,_, 27_CD ,_, 29_CD ,_, 30_CD ,_, 32_CD ,_, 37_CD ,_, 40_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP only_RB focus_VB on_IN the_DT variations_NNS that_WDT add_VBP supervised_VBN information_NN in_IN the_DT form_NN of_IN latent_JJ topic_NN assignments_NNS ._.
+Blei_NNP and_CC McAuliffe_NNP -LRB-_-LRB- 4_CD -RRB-_-RRB- introduced_VBD a_DT supervised_JJ latent_JJ Dirichlet_NN allocation_NN -LRB-_-LRB- sL_NN

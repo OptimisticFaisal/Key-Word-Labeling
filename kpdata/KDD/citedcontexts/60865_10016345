@@ -1,0 +1,3 @@
+ng_NN two_CD approaches_NNS :_: co-occurrences_NNS in_IN inbound_JJ anchor_NN texts_NNS of_IN a_DT url_NN and_CC page-counts_NNS retrieved_VBN from_IN a_DT search_NN engine_NN ._.
+Next_RB ,_, we_PRP integrate_VBP those_DT ranking_JJ scores_NNS using_VBG ranking_JJ support_NN vector_NN machines_NNS -LRB-_-LRB- SVMs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: to_TO leverage_NN a_DT robust_JJ ranking_NN function_NN ._.
+3.3_CD Co-occurrences_NNS in_IN Anchor_NNP Texts_NNP Anchor_NNP texts_NNS have_VBP been_VBN studied_VBN extensively_RB in_IN information_NN retrieval_NN and_CC have_VBP been_VBN used_VBN in_IN various_JJ tasks_NNS such_JJ as_IN synonym_NN extra_JJ

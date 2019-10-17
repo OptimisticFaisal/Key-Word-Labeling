@@ -1,0 +1,6 @@
+ys_NNS exist_VBP between_IN attribute_NN values_NNS in_IN a_DT detail_NN page_NN ._.
+So_RB ,_, 2D_NN CRFs_NNS perform_VBP very_RB poorly_RB for_IN their_PRP$ failure_NN in_IN incorporating_VBG long_JJ distance_NN dependencies_NNS ._.
+7_CD ._.
+RELATED_NNS WORK_VBP Wrapper_NNP learning_VBG approaches_NNS like_IN -LRB-_-LRB- 23_CD -RRB-_-RRB- =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP templatedependent_JJ ._.
+They_PRP take_VBP in_IN some_DT manually_RB labeled_VBN Web_NN pages_NNS and_CC learn_VB some_DT extraction_NN rules_NNS -LRB-_-LRB- i.e._FW wrappers_NNS -RRB-_-RRB- ._.
+Since_IN the_DT learned_VBN wrappers_NNS can_MD only_RB be_VB used_VBN to_TO extract_VB data_NNS from_IN similar_JJ pages_NNS ,_, ma_FW

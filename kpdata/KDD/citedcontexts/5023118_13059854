@@ -1,0 +1,3 @@
+determine_VB ``_`` the_DT truth_NN ''_'' by_IN iteratively_RB updating_VBG their_PRP$ parameters_NNS ,_, calculating_VBG belief_NN in_IN facts_NNS based_VBN on_IN the_DT trust_NN in_IN their_PRP$ sources_NNS ,_, and_CC the_DT trust_NN in_IN sources_NNS based_VBN on_IN belief_NN in_IN their_PRP$ facts_NNS ._.
+TruthFinder_NN -LRB-_-LRB- =_JJ -_: =_JJ Yin_NN et_FW al._FW ,_, 2008_CD -_: =--RRB-_NN is_VBZ a_DT straightforward_JJ implementation_NN of_IN this_DT idea_NN ._.
+AccuVote_NNP -LRB-_-LRB- Dong_NNP et_FW al._FW ,_, 2009a_CD ;_: Dong_NNP et_FW al._FW ,_, 2009b_CD -RRB-_-RRB- improves_VBZ on_IN this_DT by_IN using_VBG calculated_JJ source_NN dependence_NN -LRB-_-LRB- where_WRB one_CD source_NN derives_VBZ its_PRP$ information_NN f_SYM

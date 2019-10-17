@@ -1,0 +1,6 @@
+etically_RB proven_VBN to_TO converge_VB to_TO a_DT local_JJ maximum_NN of_IN the_DT parameters_NNS '_POS log_NN likelihood_NN ._.
+The_DT EM_NNP algorithm_NN used_VBN in_IN this_DT paper_NN estimates_VBZ its_PRP$ model_NN parameters_NNS using_VBG the_DT Naive_JJ Bayes_NNS -LRB-_-LRB- NB_NN -RRB-_-RRB- assumptions_NNS ,_, similar_JJ to_TO =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT algorithm_NN has_VBZ the_DT following_JJ structure_NN :_: 1_CD ._.
+Initialization_NN :_: the_DT model_NN parameters_NNS are_VBP estimated_VBN using_VBG only_JJ documents_NNS labeled_VBN in_IN the_DT proposed_JJ initial_JJ model_NN ._.
+2_CD ._.
+E_NN step_NN :_: the_DT NB_NN classifier_NN is_VBZ used_VBN to_TO a_DT

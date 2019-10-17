@@ -1,0 +1,4 @@
+st_IN Set_NNP ._.
+4.2.4_CD Train_NN set_NN --_: test_NN set_NN splits_VBZ We_PRP also_RB ran_VBD experiments_NNS on_IN the_DT data_NNS with_IN classification_NN algorithms_NNS from_IN Naïve_NNP Bayes_NNP -LRB-_-LRB- NB_NN -RRB-_-RRB- -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, k-Nearest_NN Neighbor_NN -LRB-_-LRB- k-NN_NN -RRB-_-RRB- -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, and_CC Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC also_RB with_IN RAINBOW_NN ,_, a_DT bag-of-words_JJ text-mining_NN system_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+REMIND_NNP 's_POS use_NN of_IN a_DT ``_`` training_NN set_NN ''_'' is_VBZ different_JJ from_IN the_DT way_NN any_DT of_IN these_DT systems_NNS would_MD use_VB a_DT training_NN set_NN ._.
+REMIND_NNP currently_RB does_VBZ no_DT learn_VB

@@ -1,0 +1,3 @@
+the_DT aim_NN of_IN gene_NN prediction_NN is_VBZ to_TO find_VB out_RP the_DT protein_NN coding_NN regions_NNS ,_, known_VBN as_IN genes_NNS ,_, and_CC their_PRP$ associated_VBN components_NNS ,_, including_VBG coding_VBG exons_NNS ,_, start\/stop_NN exons_NNS ,_, promoters_NNS ,_, and_CC poly-adenylation_NN sites_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP first_RB illustrate_VBP the_DT improvement_NN of_IN the_DT constrained_VBN approach_NN on_IN a_DT simple_JJ model_NN and_CC then_RB report_NN results_VBZ on_IN a_DT state-of-the-art_JJ gene_NN predictor_NN ._.
+Figure_NN 5_CD shows_VBZ a_DT finite_JJ state_NN machine_NN representation_NN o_NN

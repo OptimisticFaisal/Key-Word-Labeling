@@ -1,0 +1,5 @@
+em_IN call_JJ sequences_NNS ._.
+Recently_RB ,_, a_DT more_RBR sophisticated_JJ mimicry_NN attack_NN was_VBD proposed_VBN by_IN Kruegel_NNP et_FW al._FW -LRB-_-LRB- 28_CD -RRB-_-RRB- ,_, which_WDT can_MD evade_VB most_JJS system_NN call_NN based_VBN anomaly_RB IDS_NNP ._.
+Several_JJ application_NN payload-based_JJ anomaly_NN IDS_NNP =_SYM -_: =[_NN 30_CD ,_, 35_CD ,_, 36_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN proposed_VBN which_WDT monitor_VBP the_DT payload_NN of_IN a_DT packet_NN for_IN anomalies_NNS ._.
+NETAD_NN and_CC LERAD_NN -LRB-_-LRB- 35_CD ,_, 30_CD -RRB-_-RRB- models_NNS the_DT first_JJ few_JJ bytes_NNS of_IN the_DT application_NN layer_NN headers_NNS of_IN a_DT packet_NN using_VBG a_DT set_NN of_IN rules_NNS ._.
+In_IN -LRB-_-LRB- 31_CD -RRB-_-RRB- ,_,

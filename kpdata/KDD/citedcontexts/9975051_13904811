@@ -1,0 +1,4 @@
+timization_NN problems_NNS ,_, algorithms_NNS with_IN privacy_NN constraints_NNS have_VBP been_VBN developed_VBN for_IN other_JJ problems_NNS such_JJ as_IN computational_JJ learning_NN problems_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, geometric_JJ clustering_NN problems_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, recommendation_NN systems_NNS =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, to_TO name_VB a_DT few_JJ ._.
+Organization_NNP ._.
+In_IN Section_NN 2_CD ,_, we_PRP establish_VBP an_DT Ω_NN -LRB-_-LRB- log_NN n_NN -RRB-_-RRB- lower_JJR bound_VBD for_IN the_DT universal_JJ Steiner_NNP tree_NN problem_NN and_CC the_DT universal_JJ TSP_NN ._.
+As_IN mentioned_VBN above_RB ,_, the_DT lower_JJR bound_VBD for_IN the_DT Steiner_NNP tree_NN

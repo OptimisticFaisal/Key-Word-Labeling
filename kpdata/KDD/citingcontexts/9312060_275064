@@ -1,0 +1,5 @@
+an_DT matrix_NN L_NN and_CC the_DT normalized_VBN Laplacian_NN matrix_NN L_NN are_VBP defined_VBN as_IN :_: L_NN =_JJ D_NN −_NN W_NN ;_: L_NN =_JJ D_NN −_NN 1_CD 2_CD LD_NN −_NN 1_CD 2_CD ._.
+It_PRP is_VBZ well_RB known_VBN that_IN the_DT leading_VBG eigenvectors_NNS of_IN L_NN and_CC L_NN form_VBP soft_JJ cluster_NN indicators_NNS of_IN the_DT data_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP use_VBP S_NN +_CC to_TO denote_VB the_DT space_NN of_IN symmetric_JJ positive_JJ semidefinite_NN matrices_NNS ;_: K_NN ,_, a_DT kernel_NN matrix_NN ;_: C_NN ,_, the_DT covariance_NN matrix_NN ;_: 1_CD ,_, the_DT vector_NN with_IN all_DT elements_NNS equal_JJ to_TO 1_CD ;_: and_CC I_PRP ,_, the_DT identity_NN matrix_NN ._.
+3_LS ._.
+MU_NN

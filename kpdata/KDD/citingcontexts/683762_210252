@@ -1,0 +1,5 @@
+of_IN research_NN gaining_VBG considerable_JJ momentum_NN -LRB-_-LRB- -LRB-_-LRB- 24_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Broadly_RB speaking_VBG there_EX are_VBP three_CD main_JJ approaches_NNS described_VBN in_IN the_DT current_JJ literature_NN ._.
+Firstly_RB ,_, methods_NNS which_WDT build_VBP on_IN document_NN classification_NN methods_NNS =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB the_DT features_NNS used_VBN by_IN the_DT system_NN are_VBP features_NNS of_IN the_DT text_NN -LRB-_-LRB- unigram_NN ,_, bigrams_NN ,_, etc._NN -RRB-_-RRB- and_CC supervised_JJ machine_NN learning_NN algorithms_NNS are_VBP trained_VBN on_IN some_DT collection_NN of_IN labeled_JJ data_NNS ._.
+Secondly_RB ,_, there_EX are_VBP

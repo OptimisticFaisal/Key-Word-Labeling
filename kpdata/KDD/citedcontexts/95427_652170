@@ -1,0 +1,5 @@
+-RRB-_-RRB- and_CC boosting_VBG -LRB-_-LRB- 18_CD -RRB-_-RRB- have_VBP been_VBN shown_VBN to_TO significantly_RB increase_VB the_DT predictive_JJ accuracy_NN for_IN many_JJ datasets_NNS ._.
+Corresponding_VBG variants_NNS for_IN data_NNS streams_NNS have_VBP e.g._FW been_VBN suggested_VBN in_IN -LRB-_-LRB- 19,20_CD -RRB-_-RRB- ._.
+The_DT SEA_NN algorithm_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: induces_VBZ an_DT ensemble_NN of_IN decision_NN trees_NNS from_IN data_NNS streams_NNS and_CC explicitly_RB addresses_VBZ concept_NN drift_NN ._.
+It_PRP splits_VBZ the_DT data_NNS into_IN batches_NNS and_CC fits_VBZ one_CD decision_NN tree_NN per_IN batch_NN ._.
+To_TO predict_VB a_DT label_NN ,_, the_DT base_NN mode_NN

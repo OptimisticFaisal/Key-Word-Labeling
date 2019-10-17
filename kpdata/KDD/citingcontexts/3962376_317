@@ -1,0 +1,5 @@
+te_IN indicating_VBG whether_IN protein_NN domain_NN X_NN is_VBZ found_VBN or_CC not_RB ._.
+The_DT collection_NN of_IN HMM_NN predictions_NNS ,_, based_VBN on_IN a_DT set_NN of_IN known_JJ protein_NN domains_NNS ,_, is_VBZ suitable_JJ as_IN an_DT item_NN set_NN domain_NN for_IN association_NN rule_NN mining_NN -LRB-_-LRB- ARM_NN -RRB-_-RRB- =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT major_JJ difference_NN between_IN typical_JJ items_NNS in_IN ARM_NN and_CC protein_NN HMM_NN predictions_NNS is_VBZ the_DT dependence_NN of_IN HMM_NN output_NN on_IN model_NN parameters_NNS ._.
+Many_JJ parameters_NNS can_MD be_VB set_VBN when_WRB applying_VBG HMMs_NNS ._.
+We_PRP will_MD focus_VB ,_, in_IN part_NN

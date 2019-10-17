@@ -1,0 +1,4 @@
+h_NN iterative_JJ and_CC streaming_NN algorithms_NNS ._.
+Iterative_JJ methods_NNS ,_, such_JJ as_IN spectral_JJ -LRB-_-LRB- Dhillon_NNP 2001_CD ;_: Shi_NNP and_CC Malik_NNP 1997_CD ;_: Dhillon_NNP et_FW al._FW 2004_CD -RRB-_-RRB- ,_, or_CC information_NN theoretic_JJ -LRB-_-LRB- Slonim_FW et_FW al._FW 2001_CD ;_: Dhillon_NNP and_CC Guan_NNP 2003_CD ;_: =_JJ -_: =_JJ Banerjee_NNP et_FW al._FW 2004_CD -_: =-]_CD clustering_NN are_VBP generally_RB too_RB slow_JJ for_IN large_JJ datasets_NNS ._.
+A_DT faster_JJR alternative_NN is_VBZ to_TO use_VB methods_NNS which_WDT make_VBP either_CC a_DT single-pass_NN -LRB-_-LRB- a_DT streaming_NN algorithm_NN -RRB-_-RRB- or_CC a_DT small_JJ number_NN of_IN passes_NNS over_IN the_DT data_NNS ._.
+Stream_NNP

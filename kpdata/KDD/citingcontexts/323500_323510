@@ -1,0 +1,5 @@
+urpose_NN solvers_NNS ,_, related_VBN to_TO a_DT suggestion_NN from_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+We_PRP show_VBP that_IN this_DT approach_NN can_MD address_VB nontrivial_JJ data_NN analysis_NN problems_NNS ._.
+Our_PRP$ approach_NN is_VBZ motivated_VBN by_IN three_CD observations_NNS ._.
+First_RB ,_, the_DT success_NN of_IN BUGS_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: demonstrates_VBZ the_DT need_NN for_IN data_NN analysis_NN tools_NNS suitable_JJ for_IN reliable_JJ rapid_JJ prototyping_NN ._.
+Second_JJ ,_, Bayesian_JJ networks_NNS provide_VBP a_DT ready_JJ ,_, unifying_JJ speci_NN cation_NN language_NN ,_, as_IN seen_VBN by_IN their_PRP$ widespread_JJ use_NN in_IN co_NN

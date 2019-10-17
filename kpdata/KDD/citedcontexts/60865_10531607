@@ -1,0 +1,4 @@
+used_VBN to_TO sort_VB objects_NNS represented_VBN by_IN attribute_NN vectors_NNS from_IN example_NN orders_NNS ._.
+We_PRP call_VBP this_DT task_NN Supervised_NNP Ordering_NNP -LRB-_-LRB- 14_CD -RRB-_-RRB- and_CC emphasize_VB its_PRP$ usefulness_NN for_IN sensory_JJ tests_NNS 1_CD -LRB-_-LRB- 14_CD ,_, 17_CD -RRB-_-RRB- ,_, information_NN retrieval_NN =_JJ -_: =[_NN 4_CD ,_, 9_CD ,_, 11_CD ,_, 20_CD ,_, 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC recommendation_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Several_JJ methods_NNS have_VBP been_VBN developed_VBN for_IN the_DT supervised_JJ ordering_VBG task_NN ._.
+However_RB ,_, when_WRB the_DT attribute_NN vectors_NNS that_WDT describe_VBP objects_NNS are_VBP in_IN very_RB high_JJ dimensional_JJ space_NN ,_, these_DT sup_NN

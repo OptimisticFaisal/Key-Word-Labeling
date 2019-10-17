@@ -1,0 +1,4 @@
+icient_JJ space_NN is_VBZ smaller_JJR than_IN a_DT certain_JJ threshold_NN are_VBP picked_VBN out_RP for_IN the_DT second-stage_JJ verification_NN ._.
+The_DT above_JJ operations_NNS are_VBP performed_VBN within_IN each_DT sliding_VBG window_NN ._.
+1_CD This_DT work_NN is_VBZ published_VBN in_IN SIGKDD_FW ’05_FW =_SYM -_: =[_NN 28_CD -RRB-_-RRB- -_: =_JJ -_: 22s3_JJ .2_NN Problem_NNP Statement_NNP Correlation_NN ,_, over_IN windows_NNS from_IN the_DT same_JJ or_CC different_JJ streams_NNS ,_, has_VBZ many_JJ variants_NNS ._.
+This_DT thesis_NN focuses_VBZ on_IN synchronous_JJ and_CC asynchronous_JJ -LRB-_-LRB- a.k.a._NN lagged_VBN -RRB-_-RRB- variations_NNS ,_, defined_VBN as_IN fo_NN

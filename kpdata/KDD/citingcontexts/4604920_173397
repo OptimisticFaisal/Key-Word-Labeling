@@ -1,0 +1,4 @@
+ting_IN OLAP_NNP -LRB-_-LRB- Online_NNP Analytical_NNP Processing_NNP -RRB-_-RRB- and_CC has_VBZ been_VBN studied_VBN extensively_RB ._.
+It_PRP is_VBZ often_RB not_RB feasible_JJ to_TO compute_VB a_DT complete_JJ data_NN cube_NN due_JJ to_TO the_DT huge_JJ storage_NN requirement_NN ._.
+Recently_RB proposed_VBN quotient_NN cube_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: addressed_VBN this_DT issue_NN through_IN a_DT partitioning_VBG method_NN that_IN groups_NNS cube_NN cells_NNS into_IN equivalence_JJ classes_NNS ,_, thus_RB reducing_VBG computation_NN time_NN and_CC storage_NN overhead_NN ._.
+The_DT intuition_NN behind_IN quotient_JJ cube_NN is_VBZ that_DT man_NN

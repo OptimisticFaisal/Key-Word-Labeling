@@ -1,0 +1,4 @@
+ues_NNS proposed_VBN in_IN the_DT context_NN of_IN locality-sensitive_JJ hashing_VBG -LRB-_-LRB- 7_CD ,_, 24_CD -RRB-_-RRB- ._.
+These_DT techniques_NNS have_VBP been_VBN successfully_RB applied_VBN to_TO many_JJ tasks_NNS in_IN machine_NN learning_NN ,_, databases_NNS ,_, data_NNS mining_NN ,_, and_CC information_NN retrieval_NN =_JJ -_: =[_NN 18_CD ,_, 36_CD ,_, 11_CD ,_, 22_CD ,_, 16_CD ,_, 39_CD ,_, 28_CD ,_, 41_CD ,_, 27_CD ,_, 5_CD ,_, 2_CD ,_, 37_CD ,_, 7_CD ,_, 24_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Limitations_NNPS of_IN random_JJ projections_NNS The_DT method_NN of_IN random_JJ projections_NNS -LRB-_-LRB- including_VBG simhash_NN -RRB-_-RRB- is_VBZ limited_VBN to_TO estimating_VBG pairwise_JJ similarities_NNS ._.
+Random_JJ projections_NNS convert_VBP any_DT data_NNS distributions_NNS to_TO -LRB-_-LRB- zero-mean_JJ

@@ -1,0 +1,4 @@
+he_PRP current_JJ model_NN are_VBP then_RB removed_VBN from_IN the_DT incoming_JJ instance_NN before_IN the_DT normalization_NN takes_VBZ place_NN ._.
+2.1.1_CD Balanced_JJ Winnow_NNP The_NNP Balanced_NNP Winnow_NNP algorithm_NN is_VBZ an_DT extension_NN of_IN the_DT Positive_JJ Winnow_NNP algorithm_NN =_JJ -_: =[_NN 17_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Similar_JJ to_TO Positive_JJ Winnow_NNP ,_, it_PRP is_VBZ based_VBN on_IN three_CD parameters_NNS :_: a_DT promotion_NN parameter_NN α_NN -RRB-_-RRB- 1_CD ,_, a_DT demotion_NN parameter_NN β_NN ,_, where_WRB 0_CD -LRB-_-LRB- β_NN -LRB-_-LRB- 1_CD ,_, and_CC a_DT threshold_JJ parameter_NN θth_NN -RRB-_-RRB- 0_CD ._.
+Let_VB 〈_FW xt_FW ,_, wi_FW 〉_FW denote_VB the_DT inner_JJ pr_NN

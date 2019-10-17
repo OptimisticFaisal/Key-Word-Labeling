@@ -1,0 +1,3 @@
+comparison_NN with_IN SGC_NN ,_, METIS_NN and_CC a_DT state-of-the-art_JJ document_NN clustering_NN algorithm_NN ,_, VMF_NNP ,_, which_WDT is_VBZ based_VBN on_IN von_NNP Mises-Fisher_NNP distribution_NN and_CC was_VBD reported_VBN as_IN one_CD of_IN the_DT best_JJS document_NN clustering_NN algorithm_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP observe_VBP that_IN although_IN there_EX is_VBZ no_DT single_JJ winner_NN on_IN all_PDT the_DT graphs_NNS ,_, for_IN most_JJS graphs_NNS CLGA_NNP algorithms_NNS perform_VBP better_RBR than_IN or_CC close_JJ to_TO SGC_NNP ,_, METIS_NNP and_CC VMF_NNP ._.
+The_DT CLGA_NNP algorithms_NNS provide_VBP the_DT best_JJS perform_VB

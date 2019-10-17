@@ -1,0 +1,4 @@
+Caching_NNP has_VBZ long_RB been_VBN recognized_VBN as_IN a_DT critical_JJ component_NN in_IN high_JJ performance_NN applications_NNS ._.
+Indeed_RB ,_, most_JJS applications_NNS utilize_VBP caching_VBG on_IN many_JJ levels_NNS ,_, and_CC multi-level_JJ schemes_NNS have_VBP recently_RB been_VBN studied_VBN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT closest_JJS form_NN of_IN caching_NN to_TO Track_NNP :_: Search_VB \/_: Session_NN :_: Caching_NN and_CC Indices_NNS this_DT work_NN is_VBZ result_NN caching_NN ._.
+In_IN this_DT framework_NN the_DT set_NN of_IN results_NNS for_IN popular_JJ queries_NNS is_VBZ fetched_VBN from_IN the_DT cache_NN ,_, rather_RB th_DT

@@ -1,0 +1,6 @@
+._.
+The_DT obvious_JJ representation_NN of_IN the_DT data_NNS as_IN a_DT labeled_JJ graph_NN is_VBZ also_RB shown_VBN in_IN the_DT figure_NN ._.
+The_DT next_JJ step_NN is_VBZ to_TO represent_VB properties_NNS of_IN the_DT domain_NN as_IN formulas_NNS ._.
+We_PRP use_VBP formulas_NNS in_IN the_DT language_NN of_IN Datalogs_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, although_IN arbitrary_JJ logic_NN formulas_NNS ,_, say_VBP of_IN first_JJ order_NN logic_NN ,_, are_VBP also_RB possible_JJ ._.
+Clearly_RB ,_, the_DT more_RBR powerful_JJ the_DT logic_NN ,_, the_DT greater_JJR the_DT semantic_JJ and_CC computational_JJ complexity_NN of_IN the_DT system_NN ._.
+Datalog_NNP has_VBZ

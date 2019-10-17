@@ -1,0 +1,4 @@
+space_NN limit_NN ._.
+Our_PRP$ idea_NN about_IN key-substring-groups_NNS has_VBZ been_VBN partially_RB inspired_VBN by_IN the_DT works_NNS on_IN suffix_NN tree_NN -LRB-_-LRB- or_CC suffix_NN array_NN or_CC PAT_NN tree_NN -RRB-_-RRB- based_VBN key-phrase_JJ extraction_NN -LRB-_-LRB- 8_CD ,_, 11_CD ,_, 37_CD -RRB-_-RRB- and_CC document_NN clustering_NN =_JJ -_: =[_NN 69_CD ,_, 73_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT essential_JJ difference_NN is_VBZ that_IN we_PRP do_VBP not_RB care_VB about_IN whether_IN the_DT extracted_VBN key-substring-groups_NNS are_VBP semantically_RB meaningful_JJ or_CC not_RB ._.
+In_IN contrast_NN ,_, our_PRP$ concern_NN is_VBZ the_DT utility_NN of_IN key-substring-groups_NNS a_DT

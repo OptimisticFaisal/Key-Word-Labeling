@@ -1,0 +1,5 @@
+cies_NNS of_IN terms_NNS ._.
+After_IN computing_VBG the_DT similarity_NN values_NNS of_IN tuples_NNS ,_, the_DT agreement_NN between_IN two_CD result_NN sets_NNS for_IN every_DT query_NN is_VBZ computed_VBN using_VBG a_DT greedy_JJ matching_NN ._.
+Please_VB refer_VB to_TO Balakrishnan_NNP and_CC Kambhampati_NNP =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: for_IN further_JJ details_NNS of_IN the_DT agreement_NN computations_NNS ._.
+3.3_CD Calculating_VBG SourceRank_NNP To_TO facilitate_VB the_DT computation_NN of_IN SourceRank_NNP ,_, we_PRP model_VBP the_DT agreement_NN between_IN the_DT sources_NNS as_IN an_DT agreement_NN graph_NN ._.
+An_DT agreeme_NN

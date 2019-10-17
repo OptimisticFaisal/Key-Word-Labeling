@@ -1,0 +1,4 @@
+h_NN activities_NNS ._.
+They_PRP have_VBP shown_VBN that_IN these_DT models_NNS can_MD be_VB used_VBN successfully_RB to_TO infer_VB the_DT probability_NN of_IN the_DT user_NN 's_POS next_JJ action_NN ,_, the_DT time_NN delay_NN before_IN taking_VBG the_DT action_NN and_CC the_DT user_NN 's_POS informational_JJ goal_NN ._.
+=_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: used_VBN clickthrough_JJ data_NNS for_IN identifying_VBG clusters_NNS of_IN similar_JJ queries_NNS and_CC similar_JJ URLs_NNS ._.
+More_RBR recently_RB ,_, -LRB-_-LRB- 13_CD -RRB-_-RRB- proposed_VBN to_TO use_VB common_JJ sense_NN reasoning_NN to_TO translate_VB any_DT search_NN query_NN into_IN an_DT effective_JJ query_NN ._.

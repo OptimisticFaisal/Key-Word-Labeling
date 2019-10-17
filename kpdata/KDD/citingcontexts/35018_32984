@@ -1,0 +1,5 @@
+chanism_NN for_IN counting_VBG frequent_JJ combinations_NNS of_IN attribute_NN values_NNS ,_, the_DT algorithm_NN carries_VBZ through_IN and_CC can_MD be_VB applied_VBN to_TO finding_VBG clusters_NNS in_IN categorical_JJ data_NNS ._.
+This_DT is_VBZ similar_JJ to_TO the_DT algorithm_NN presented_VBN in_IN =_JJ -_: =_JJ -LRB-_-LRB- SA96_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+7_CD ._.
+RELATED_NNS WORK_VBP Frequent_JJ itemsets_NNS were_VBD first_RB developed_VBN by_IN Agrawal_NNP et_FW al._FW in_IN the_DT apriori_JJ algorithm_NN for_IN association_NN rule_NN mining_NN -LRB-_-LRB- AIS93_NN ,_, AS94_NN ,_, AMSTV96_NN -RRB-_-RRB- ._.
+The_DT key_JJ optimization_NN in_IN finding_VBG frequent_JJ itemset_NN

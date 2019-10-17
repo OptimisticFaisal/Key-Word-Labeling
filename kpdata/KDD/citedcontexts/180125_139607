@@ -1,0 +1,4 @@
+m_NN iterators_NNS ._.
+1_CD INTRODUCTION_NN THERE_NN are_VBP many_JJ examples_NNS of_IN stream-processing_JJ applications_NNS :_: Financial_JJ applications_NNS process_VBP stock-ticker_JJ streams_NNS ,_, telephone_NN monitoring_NN applications_NNS process_VBP call-data_JJ streams_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, and_CC traffic_NN monitoring_NN applications_NNS process_VBP streams_NNS from_IN sensors_NNS on_IN the_DT highway_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+These_DT applications_NNS can_MD often_RB be_VB viewed_VBN as_IN queries_NNS over_IN streams_NNS ._.
+Hence_RB ,_, it_PRP may_MD be_VB desirable_JJ to_TO use_VB a_DT DBMS_NN t_NN

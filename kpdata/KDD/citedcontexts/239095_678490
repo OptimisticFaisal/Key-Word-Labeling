@@ -1,0 +1,5 @@
+el_IN matrix_NN ._.
+DK-PLS_NN explicitly_RB produces_VBZ a_DT low_JJ rank_NN approximation_NN of_IN the_DT kernel_NN matrix_NN ._.
+Thus_RB it_PRP is_VBZ more_RBR closely_RB related_JJ to_TO other_JJ kernel_NN matrix_NN approximation_NN approaches_NNS based_VBN on_IN sampling_NN or_CC factorization_NN =_JJ -_: =[_NN 16_CD ,_, 10_CD ,_, 17_CD ,_, 9_CD ,_, 27_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+DK-PLS_NN has_VBZ the_DT advantage_NN that_IN the_DT kernel_NN does_VBZ not_RB need_VB to_TO be_VB square_JJ ._.
+When_WRB combined_VBN with_IN sampling_NN of_IN the_DT columns_NNS of_IN the_DT kernel_NN matrix_NN such_JJ as_IN in_IN -LRB-_-LRB- 17_CD ,_, 16_CD ,_, 10_CD -RRB-_-RRB- ,_, it_PRP is_VBZ more_RBR scalable_JJ than_IN the_DT original_JJ KP_NN

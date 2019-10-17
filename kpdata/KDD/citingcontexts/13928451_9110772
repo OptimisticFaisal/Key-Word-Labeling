@@ -1,0 +1,6 @@
+is_VBZ exponentially_RB large_JJ ._.
+We_PRP present_VBP simple_JJ and_CC effective_JJ methods_NNS to_TO prune_VB infrequent_JJ patterns_NNS ._.
+We_PRP also_RB adopt_VBP dynamic_JJ programming_NN -LRB-_-LRB- DP_NN -RRB-_-RRB- to_TO compute_VB the_DT support_NN pmf_NN of_IN a_DT pattern_NN ._.
+This_DT method_NN ,_, also_RB used_VBN by_IN =_JJ -_: =[_NN 31_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: to_TO derive_VB p-FPs_NN for_IN other_JJ probabilistic_JJ models_NNS ,_, has_VBZ a_DT complexity_NN of_IN O_NN -LRB-_-LRB- n_NN 2_CD -RRB-_-RRB- ._.
+We_PRP further_RB develop_VBP a_DT divide-and-conquer_JJ -LRB-_-LRB- DC_NN -RRB-_-RRB- approach_NN ,_, which_WDT achieves_VBZ O_NN -LRB-_-LRB- n_NN log_NN 2_CD n_NN -RRB-_-RRB- time_NN ._.
+Based_VBN on_IN these_DT methods_NNS ,_, we_PRP propos_VBP

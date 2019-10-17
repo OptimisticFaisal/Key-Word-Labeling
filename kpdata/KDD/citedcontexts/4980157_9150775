@@ -1,0 +1,4 @@
+easily_RB tokenizeable_JJ into_IN message-type-ID_NN 's_POS -RRB-_-RRB- ,_, and_CC identify_VBP alerts_VBZ according_VBG to_TO a_DT severity_NN field_NN ._.
+These_DT attempts_NNS include_VBP pattern-learning_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, data_NN mining_NN techniques_NNS to_TO discover_VB trends_NNS and_CC correlations_NNS =_JJ -_: =[_NN 7_CD ,_, 12_CD ,_, 17_CD ,_, 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC message_NN timing_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+However_RB ,_, system_NN logs_NNS are_VBP notoriously_RB unstructured_JJ and_CC ``_`` severity_NN ''_'' is_VBZ not_RB a_DT dependable_JJ alert_JJ indicator_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Less_RBR work_NN has_VBZ been_VBN done_VBN in_IN the_DT area_NN of_IN unstructured_JJ message_NN content_NN ._.

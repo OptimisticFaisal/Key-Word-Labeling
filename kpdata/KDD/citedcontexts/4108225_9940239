@@ -1,0 +1,4 @@
+arity_NN changing_VBG over_IN time_NN as_RB well_RB ._.
+Furthermore_RB ,_, a_DT significant_JJ number_NN of_IN visitors_NNS are_VBP likely_JJ to_TO be_VB entirely_RB new_JJ with_IN no_DT historical_JJ consumption_NN record_NN whatsoever_RB ;_: this_DT is_VBZ known_VBN as_IN a_DT cold-start_JJ situation_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT issues_NNS make_VBP traditional_JJ recommender-system_JJ approaches_NNS difficult_JJ to_TO apply_VB ,_, as_IN shown_VBN by_IN prior_JJ empirical_JJ studies_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+It_PRP thus_RB becomes_VBZ indispensable_JJ to_TO learn_VB the_DT goodness_NN of_IN match_NN between_IN user_NN in_IN

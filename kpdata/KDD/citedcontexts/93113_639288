@@ -1,0 +1,3 @@
+Introduction_NN Efficient_JJ algorithms_NNS for_IN finding_VBG frequent_JJ itemsets_NNS --_: both_DT sequential_JJ and_CC non-sequential_JJ --_: in_IN very_RB large_JJ transaction_NN databases_NNS have_VBP been_VBN one_CD of_IN the_DT key_JJ success_NN stories_NNS of_IN data_NNS mining_NN resea_NN =_JJ -_: =_JJ rch_NN -LRB-_-LRB- 2_CD ,_, 1_CD ,_, 26_CD ,_, 12_CD ,_, 3_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP can_MD use_VB these_DT itemsets_NNS for_IN discovering_VBG association_NN rules_NNS ,_, for_IN extracting_VBG prevalent_JJ patterns_NNS that_WDT exist_VBP in_IN the_DT datasets_NNS ,_, or_CC for_IN classification_NN ._.
+Nevertheless_RB ,_, as_IN data_NN mining_NN techniques_NNS have_VBP been_VBN in_IN

@@ -1,0 +1,4 @@
+other_JJ pattern_NN types_NNS ._.
+One_CD general_JJ approach_NN has_VBZ been_VBN to_TO mine_VB only_JJ patterns_NNS that_WDT satisfy_VBP certain_JJ constraints_NNS ;_: well-known_JJ examples_NNS include_VBP mining_NN maximal_JJ frequent_JJ patterns_NNS -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, closed_VBD frequent_JJ patterns_NNS =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: and_CC non-derivable_JJ itemsets_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+The_DT last_JJ two_CD methods_NNS are_VBP generally_RB referred_VBN to_TO as_IN lossless_JJ compression_NN since_IN we_PRP can_MD fully_RB recover_VB the_DT exact_JJ frequency_NN of_IN any_DT frequent_JJ itemsets_NNS ._.
+The_DT first_JJ one_CD is_VBZ lossy_JJ

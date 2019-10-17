@@ -1,0 +1,7 @@
+,_, Papadias_NNP ,_, D._NNP ,_, Mamoulis_NNP ,_, N._NNP Continuous_JJ Nearest_NNP Neighbor_NNP Monitoring_NN in_IN Road_NNP Networks_NNP ._.
+VLDB_NN ,_, 2006_CD ._.
+-LRB-_-LRB- NH94_NN -RRB-_-RRB- Ng_NN ,_, R._NNP ,_, Han_NNP ,_, J._NNP Efficient_JJ and_CC Effective_JJ Clustering_NNP Method_NNP for_IN Spatial_NNP Data_NNP Mining_NNP ._.
+VLDB_NN ,_, 1994_CD ._.
+=_SYM -_: =_JJ -LRB-_-LRB- PM99_NN -RRB-_-RRB- -_: =_SYM -_: Pelleg_NNP ,_, D._NNP ,_, Moore_NNP ,_, A._NNP Accelerating_NNP Exact_JJ kMeans_NN Algorithms_NNS with_IN Geometric_JJ Reasoning_NN ._.
+KDD_NNP ,_, 1999_CD ._.
+-LRB-_-LRB- XMA05_NN -RRB-_-RRB- Xiong_NNP ,_, X._NNP ,_, Mokbel_NNP ,_, M._NNP ,_, Aref_NNP ,_, W._NNP SEA-CNN_NNP :_: Scalable_JJ Processing_NN of_IN Continuous_JJ K-Nearest_NN Neighbor_NNP Q_NNP

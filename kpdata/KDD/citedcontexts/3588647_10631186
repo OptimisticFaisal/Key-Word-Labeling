@@ -1,0 +1,3 @@
+riginal_JJ frequency_NN vector_NN of_IN items_NNS in_IN D_NN -RRB-_-RRB- ._.
+Both_DT algorithms_NNS are_VBP a_DT clear_JJ improvement_NN over_IN SRS_NN -LRB-_-LRB- simple_JJ random_JJ sample_NN -RRB-_-RRB- and_CC other_JJ more_RBR specialized_JJ deterministic_JJ sampling_NN algorithms_NNS such_JJ as_IN FAST_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC EASE_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT samples_NNS our_PRP$ algorithms_NNS produce_VBP can_MD be_VB used_VBN as_IN surrogate_NN for_IN the_DT original_JJ data_NNS ,_, for_IN various_JJ purposes_NNS such_JJ as_IN query_NN optimization_NN ,_, approximate_JJ query_NN answering_NN -LRB-_-LRB- 11_CD ,_, 16_CD -RRB-_-RRB- ,_, or_CC further_JJ data_NNS mining_NN -LRB-_-LRB- e.g._FW

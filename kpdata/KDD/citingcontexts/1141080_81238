@@ -1,0 +1,3 @@
+such_JJ as_IN SS-Trees_NNS -LRB-_-LRB- 28_CD -RRB-_-RRB- were_VBD proposed_VBN which_WDT do_VBP not_RB necessarily_RB partition_NN the_DT data_NNS using_VBG ranges_NNS from_IN the_DT original_JJ set_NN of_IN attributes_NNS ._.
+Other_JJ prominent_JJ indexes_NNS and_CC query_NN processing_NN methods_NNS may_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 5_CD ,_, 20_CD ,_, 24_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT above_JJ techniques_NNS generally_RB work_VBP well_RB for_IN low_JJ dimensional_JJ problems_NNS ,_, though_IN they_PRP degrade_VBP rapidly_RB with_IN increasing_VBG dimensionality_NN ,_, so_IN that_IN each_DT query_NN requires_VBZ the_DT access_NN of_IN almost_RB all_DT of_IN the_DT data_NNS ;_: c_NN

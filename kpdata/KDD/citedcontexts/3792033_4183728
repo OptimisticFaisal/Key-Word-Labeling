@@ -1,0 +1,4 @@
+atterns_NNS and_CC models_NNS in_IN combination_NN with_IN the_DT data_NNS itself_PRP and_CC so_RB forth_RB ._.
+Notice_NNP that_IN the_DT functionality_NN of_IN an_DT inductive_JJ database_NN goes_VBZ far_RB beyond_IN that_DT of_IN data_NN mining_NN suites_NNS such_JJ as_IN ,_, e.g._FW ,_, Weka_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC Yale_NNP =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT systems_NNS typically_RB only_RB share_VBP the_DT first_JJ advantage_NN of_IN inductive_JJ databases_NNS by_IN imposing_VBG one_CD uniform_JJ data_NNS format_NN for_IN a_DT group_NN of_IN algorithms_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP focus_VBP our_PRP$ attention_NN on_IN determining_VBG how_WRB s_NN

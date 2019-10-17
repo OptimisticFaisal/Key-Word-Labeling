@@ -1,0 +1,6 @@
+about_IN cellular_JJ phone_NN 2_CD ._. ''_''
+2_CD ._.
+Sentiment_NN and_CC Subjectivity_NN Classification_NN We_PRP now_RB discuss_VBP some_DT key_JJ research_NN topics_NNS of_IN sentiment_NN analysis_NN ._.
+Sentiment_NN classification_NN is_VBZ perhaps_RB the_DT most_RBS widely_RB studied_VBN topic_NN =_JJ -_: =[_NN 3_CD ,_, 6_CD ,_, 8_CD ,_, 12_CD ,_, 13_CD ,_, 15_CD ,_, 16_CD ,_, 18_CD ,_, 27_CD ,_, 28_CD ,_, 33_CD ,_, 34_CD ,_, 35_CD ,_, 44_CD ,_, 45_CD ,_, 62_CD ,_, 64_CD ,_, 66_CD ,_, 67_CD ,_, 68_CD ,_, 70_CD ,_, 71_CD ,_, 73_CD ,_, 79_CD ,_, 80_CD ,_, 86_CD ,_, 92_CD ,_, 95_CD ,_, 96_CD ,_, 97_CD ,_, 98_CD ,_, 99_CD ,_, 100_CD ,_, 101_CD ,_, 102_CD ,_, 103_CD ,_, 104_CD ,_, 105_CD ,_, 106_CD ,_, 111_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP classifies_VBZ an_DT opinionated_VBN document_NN -LRB-_-LRB- e.g._FW ,_, a_DT product_NN review_NN -RRB-_-RRB- as_IN expressing_VBG a_DT positive_JJ or_CC negative_JJ opinion_NN ._.
+The_DT task_NN is_VBZ also_RB commonly_RB known_VBN as_IN the_DT document-level_JJ sentiment_NN classification_NN because_IN it_PRP

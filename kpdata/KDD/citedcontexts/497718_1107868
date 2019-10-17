@@ -1,0 +1,3 @@
+ithms_NNS that_WDT operate_VBP on_IN traditional_JJ folksonomies_NNS have_VBP already_RB been_VBN successfully_RB applied_VBN in_IN order_NN to_TO improve_VB Web_NN search_NN ._.
+In_IN -LRB-_-LRB- Bao_NNP et_FW al._FW ,_, 2007_CD -RRB-_-RRB- the_DT authors_NNS introduced_VBD SocialSimRank_NNP ,_, which_WDT adapts_VBZ SimRank_NNP -LRB-_-LRB- =_JJ -_: =_JJ Jeh_NNP and_CC Widom_NNP ,_, 2002_CD -_: =--RRB-_NN and_CC computes_VBZ similarity_NN between_IN tags_NNS and_CC resources_NNS respectivly_RB ._.
+Furthermore_RB ,_, Bao_NNP et_FW al._FW presented_VBD the_DT SocialPageRank_NNP algorithm_NN ,_, which_WDT ranks_VBZ Web_NN resources_NNS according_VBG to_TO how_WRB popular_JJ they_PRP are_VBP annotated_JJ ._.

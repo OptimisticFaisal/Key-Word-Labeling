@@ -1,0 +1,3 @@
+ne-vs-all_JJ method_NN of_IN training_NN k_NN individual_JJ models_NNS to_TO distinguish_VB each_DT class_NN from_IN all_DT other_JJ classes_NNS ,_, and_CC the_DT one-vs-one_JJ method_NN of_IN training_VBG `_`` ´_CD k_NN 2_CD models_NNS to_TO distinguish_VB each_DT class_NN from_IN each_DT other_JJ class_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT class_NN labels_VBZ in_IN our_PRP$ setting_NN have_VBP a_DT special_JJ structure_NN ._.
+There_EX is_VBZ a_DT single_JJ large_JJ class_NN of_IN non-adversarial_JJ -LRB-_-LRB- or_CC ``_`` good_JJ ''_'' -RRB-_-RRB- ads_NNS ,_, and_CC then_RB a_DT large_JJ number_NN of_IN possibly_RB overlapping_VBG adversarial_JJ classes_NNS -LRB-_-LRB- see_VB F_NN

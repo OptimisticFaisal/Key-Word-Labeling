@@ -1,0 +1,4 @@
+tasks_NNS include_VBP clustering_NN ,_, identifying_VBG patterns_NNS ,_, and_CC detecting_VBG outliers_NNS ._.
+Data_NN mining_NN of_IN image_NN databases_NNS or_CC databases_NNS that_WDT store_VBP encodings_NNS of_IN visual_JJ events_NNS has_VBZ received_VBN only_RB a_DT small_JJ amount_NN of_IN attention_NN =_JJ -_: =[_NN 17,30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Database_NN and_CC data_NN mining_NN methods_NNS can_MD be_VB used_VBN to_TO discover_VB patterns_NNS in_IN databases_NNS of_IN human_JJ motion_NN data_NNS ._.
+Such_JJ data_NNS has_VBZ a_DT spatio-temporal_JJ aspect_NN that_WDT must_MD be_VB dealt_VBN with_IN ,_, and_CC therefore_RB a_DT major_JJ issue_NN here_RB

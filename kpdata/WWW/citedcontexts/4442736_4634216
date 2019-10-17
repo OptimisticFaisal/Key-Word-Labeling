@@ -1,0 +1,4 @@
+4_LS -RRB-_-RRB- -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Another_DT possibility_NN is_VBZ to_TO analyze_VB their_PRP$ ordered_VBN tree_NN representations_NNS by_IN calculating_VBG the_DT edit_NN distance_NN ,_, i.e._FW the_DT minimum_JJ cost_NN to_TO transform_VB one_CD tree_NN into_IN another_DT tree_NN using_VBG basic_JJ operations_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Diff_NN algorithms_NNS can_MD be_VB used_VBN to_TO detect_VB differences_NNS and_CC ,_, in_IN a_DT certain_JJ way_NN ,_, a_DT similarity_NN value_NN between_IN files_NNS ._.
+However_RB ,_, diff_NN results_NNS are_VBP a_DT delta_NN script_NN with_IN no_DT semantic_JJ information_NN regarding_VBG the_DT similar_JJ

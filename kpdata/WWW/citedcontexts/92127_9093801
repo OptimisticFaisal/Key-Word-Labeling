@@ -1,0 +1,4 @@
+ofEL_NN +_CC +_CC into_IN this_DT direction_NN would_MD be_VB ExpTime-hard_JJ -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+7_CD DLP_NN -LRB-_-LRB- ⊓_NN -RRB-_-RRB- Description_NN Logic_NN Programs_NNS -LRB-_-LRB- DLP_NN -RRB-_-RRB- constitutes_VBZ a_DT tractable_JJ knowledge_NN representation_NN formalism_NN in_IN the_DT spirit_NN of_IN -LRB-_-LRB- Horn_NNP -RRB-_-RRB- logic_NN programming_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Essentially_RB ,_, it_PRP consists_VBZ of_IN thoseSHOIQ_NN axioms_NNS which_WDT can_MD be_VB naively_RB translated_VBN into_IN -LRB-_-LRB- non-disjunctive_JJ -RRB-_-RRB- Datalog_NNP ,_, such_JJ that_IN the_DT original_JJ knowledge_NN base_NN and_CC its_PRP$ translation_NN are_VBP semantically_RB equivalent_JJ ._.
+A_DT

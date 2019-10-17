@@ -1,0 +1,4 @@
+ompared_VBN to_TO the_DT similarity_NN values_VBZ themselves_PRP ._.
+The_DT availability_NN of_IN such_JJ training_NN data_NNS in_IN the_DT form_NN of_IN rankings_NNS suggests_VBZ the_DT use_NN of_IN a_DT learning_NN algorithm_NN based_VBN on_IN pairwise_JJ preferences_NNS ,_, such_JJ as_IN Ranking_NN SVM_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Indeed_RB ,_, for_IN known_JJ values_NNS of_IN αs_NNS and_CC βs_NNS ,_, Equation_NN 4_CD becomes_VBZ a_DT linear_JJ function_NN in_IN the_DT θ_NN parameters_NNS ._.
+Thus_RB ,_, we_PRP use_VBP the_DT following_JJ two-step_JJ approach_NN to_TO fit_VB the_DT parameters_NNS under_IN this_DT formulation_NN :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- fit_NN αs_NNS

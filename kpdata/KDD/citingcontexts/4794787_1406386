@@ -1,0 +1,4 @@
+nd_NN nodes_NNS with_IN their_PRP$ labels_NNS associated_VBN with_IN operations_NNS to_TO display_VB node_NN information_NN ._.
+The_DT global_JJ view_NN is_VBZ associated_VBN with_IN afield-of-view_NN or_CC panner_NN -LRB-_-LRB- a_DT wire-frame_JJ box_NN -RRB-_-RRB- that_WDT corresponds_VBZ to_TO the_DT detailed_JJ view_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+•_NNP Customizing_NNP views_NNS :_: Initially_RB ,_, according_VBG to_TO the_DT user_NN 's_POS choice_NN ,_, the_DT tree_NN is_VBZ either_RB displayed_VBN fully_RB or_CC with_IN only_RB the_DT root_NN node_NN and_CC its_PRP$ direct_JJ sub-nodes_NNS ._.
+The_DT tree_NN then_RB can_MD be_VB collapsed_VBN or_CC expanded_VBN par_NN

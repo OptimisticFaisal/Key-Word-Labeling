@@ -1,0 +1,5 @@
+n_NN Table_NNP 3_CD ,_, where_WRB we_PRP attempted_VBD to_TO present_VB them_PRP in_IN a_DT unified_JJ framework_NN ._.
+We_PRP explain_VBP now_RB the_DT positive_JJ and_CC negative_JJ results_NNS ._.
+Positive_JJ results_NNS There_EX are_VBP several_JJ randomized_VBN algorithms_NNS for_IN local_JJ perturbation_NN =_JJ -_: =[_NN 1_CD ,_, 9_CD ,_, 10_CD ,_, 18_CD ,_, 2_CD ,_, 15_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Each_DT tuple_NN in_IN the_DT database_NN I_PRP is_VBZ locally_RB perturbed_VBN by_IN replacing_VBG it_PRP with_IN a_DT randomly_RB chosen_VBN tuple_NN according_VBG to_TO a_DT predefined_JJ probability_NN distribution_NN ._.
+FRAPP_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- is_VBZ a_DT framework_NN that_WDT generalizes_VBZ all_DT algor_NN

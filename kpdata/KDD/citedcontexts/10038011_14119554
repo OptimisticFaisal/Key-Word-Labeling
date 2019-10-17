@@ -1,0 +1,5 @@
+o_NN speed_NN up_IN the_DT discovery_NN of_IN repeated_JJ figures_NNS is_VBZ to_TO use_VB a_DT ``_`` hashing-like_JJ ''_'' idea_NN from_IN bioinformatics_NNS ;_: thus_RB ,_, we_PRP need_VBP a_DT distance_NN measure_NN that_WDT is_VBZ amenable_JJ to_TO hashing_VBG ._.
+The_DT recently_RB introduced_VBN GHT_NN distance_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ just_RB such_JJ a_DT measure_NN ._.
+We_PRP will_MD explain_VB this_DT in_IN more_JJR detail_NN in_IN Section_NNP II_NNP ._.
+B_NN and_CC Section_NNP V.A._NNP ._.
+In_IN the_DT meantime_NN ,_, we_PRP use_VBP it_PRP to_TO define_VB the_DT distance_NN between_IN any_DT pair_NN of_IN windows_NNS as_IN the_DT following_NN :_: Definition_NN

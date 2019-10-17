@@ -1,0 +1,4 @@
+iscussed_VBN in_IN the_DT literature_NN which_WDT extend_VBP the_DT binary_JJ association_NN rule_NN problem_NN to_TO related_JJ scenarios_NNS such_JJ as_IN quantitative_JJ association_NN rules_NNS ,_, generalized_JJ association_NN rules_NNS ,_, and_CC optimized_VBN association_NN rules_NNS =_JJ -_: =[_NN 12_CD ,_, 13_CD ,_, 22_CD ,_, 23_CD ,_, 27_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Methods_NNS for_IN providing_VBG ad-hoc_JJ query_NN capabilities_NNS ,_, and_CC online_NN mining_NN have_VBP been_VBN discussed_VBN in_IN -LRB-_-LRB- 3_CD ,_, 16_CD ,_, 20_CD ,_, 21_CD -RRB-_-RRB- ._.
+Let_VB I_PRP be_VB a_DT set_NN of_IN items_NNS ._.
+Each_DT transaction_NN T_NN in_IN the_DT database_NN is_VBZ a_DT subset_NN of_IN the_DT items_NNS occuri_VBP

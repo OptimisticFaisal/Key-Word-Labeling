@@ -1,0 +1,5 @@
+e_LS mining_NN systems_NNS into_IN two_CD classes_NNS :_: business_NN to_TO business_NN -LRB-_-LRB- B2B_NN -RRB-_-RRB- and_CC business_NN to_TO customer_NN -LRB-_-LRB- B2C_NN -RRB-_-RRB- ,_, respectively_RB ._.
+In_IN the_DT first_JJ category_NN -LRB-_-LRB- B2B_NN -RRB-_-RRB- ,_, transactions_NNS are_VBP distributed_VBN across_IN several_JJ sites_NNS -LRB-_-LRB- businesses_NNS -RRB-_-RRB- =_JJ -_: =[_NN 5,6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Each_DT of_IN them_PRP holds_VBZ a_DT private_JJ database_NN that_WDT contains_VBZ numerous_JJ transactions_NNS ._.
+The_DT sites_NNS collaborate_VBP with_IN each_DT other_JJ to_TO identify_VB association_NN rules_NNS spanning_VBG multiple_JJ databases_NNS ._.
+Since_IN usually_RB only_RB a_DT few_JJ s_NN

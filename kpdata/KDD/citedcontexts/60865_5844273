@@ -1,0 +1,4 @@
+odel_NN parameters_NNS becomes_VBZ very_RB difficult_JJ ._.
+To_TO tackle_VB this_DT problem_NN ,_, machine_NN learning_NN methods_NNS have_VBP been_VBN applied_VBN to_TO combining_VBG these_DT factors_NNS in_IN recent_JJ years_NNS ._.
+Typical_JJ work_NN includes_VBZ RankBoost_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, RankSVM_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC RankNet_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, which_WDT are_VBP based_VBN on_IN Boosting_NNP ,_, Support_NN Vector_NNP Machines_NNP and_CC Neural_NNP Networks_NNP respectively_RB ._.
+To_TO some_DT extent_NN ,_, automatically_RB learning_VBG from_IN ground_NN truth_NN labels_NNS to_TO generate_VB a_DT sorted_VBN list_NN of_IN d_NN

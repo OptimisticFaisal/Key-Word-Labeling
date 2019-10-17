@@ -1,0 +1,4 @@
+s_NN for_IN convergence_NN -LRB-_-LRB- e.g._FW EM_NN ,_, k-means_NN -RRB-_-RRB- -LRB-_-LRB- e.g._FW 1,12_CD -RRB-_-RRB- ._.
+Beil_NNP et_FW al._FW recently_RB presented_VBD a_DT fast_JJ method_NN for_IN text_NN clustering_NN ,_, which_WDT reduces_VBZ the_DT dimensionality_NN of_IN the_DT feature_NN space_NN to_TO that_DT of_IN frequent_JJ term_NN sets_VBZ =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP report_VBP a_DT runtime_NN of_IN a_DT few_JJ minutes_NNS for_IN several_JJ thousand_CD cases_NNS ,_, but_CC with_IN a_DT quadratic_JJ trend_NN ._.
+As_IN described_VBN in_IN the_DT next_JJ section_NN ,_, our_PRP$ algorithm_NN is_VBZ used_VBN interactively_RB to_TO find_VB clusters_NNS on_IN the_DT results_NNS o_NN

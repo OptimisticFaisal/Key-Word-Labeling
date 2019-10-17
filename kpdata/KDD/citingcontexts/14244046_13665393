@@ -1,0 +1,4 @@
+e_LS Asso_NNP algorithm_NN to_TO solve_VB BMF_NN was_VBD proposed_VBN by_IN Miettinen_NNP et_FW al._FW -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Later_RB ,_, Lu_FW et_FW al._FW -LRB-_-LRB- 19_CD -RRB-_-RRB- proposed_VBD a_DT heuristic_NN based_VBN on_IN a_DT mixedinteger-programming_JJ formulation_NN ._.
+Independently_RB ,_, Belohlavek_NN and_CC Vychodil_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: gave_VBD an_DT algorithm_NN for_IN computing_VBG the_DT Boolean_JJ rank_NN of_IN a_DT matrix_NN based_VBN on_IN solving_VBG the_DT Set_NNP Cover_NNP problem_NN ._.
+At_IN worst_JJS case_NN this_DT algorithm_NN can_MD take_VB exponential_JJ time_NN and_CC does_VBZ not_RB guarantee_VB any_DT non-trivial_JJ appr_NN

@@ -1,0 +1,4 @@
+ntion_NN in_IN gene_NN selection_NN for_IN sample_NN classification_NN ._.
+Feature_NN selection_NN ,_, a_DT process_NN of_IN choosing_VBG a_DT subset_NN of_IN features_NNS from_IN the_DT original_JJ ones_NNS ,_, is_VBZ frequently_RB used_VBN as_IN a_DT preprocessing_NN technique_NN in_IN data_NNS mining_NN =_JJ -_: =[_NN 4_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP has_VBZ proven_VBN effective_JJ in_IN reducing_VBG dimensionality_NN ,_, improving_VBG mining_NN efficiency_NN ,_, increasing_VBG mining_NN accuracy_NN ,_, and_CC enhancing_VBG result_NN comprehensibility_NN -LRB-_-LRB- 3_CD ,_, 12_CD -RRB-_-RRB- ._.
+Feature_NN selection_NN methods_NNS can_MD broadly_RB fal_VB

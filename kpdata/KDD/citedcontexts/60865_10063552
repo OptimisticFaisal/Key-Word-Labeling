@@ -1,0 +1,4 @@
+clicks_NNS performed_VBN by_IN users_NNS at_IN a_DT search_NN engine_NN after_IN they_PRP submit_VBP queries_NNS ,_, is_VBZ widely_RB used_VBN for_IN improving_VBG web_NN search_NN ._.
+Previous_JJ work_NN has_VBZ proven_VBN the_DT usefulness_NN of_IN the_DT data_NNS in_IN many_JJ tasks_NNS ,_, such_JJ as_IN ranking_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, query_NN processing_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, user_NN understanding_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN ,_, click-through_JJ data_NNS is_VBZ utilized_VBN in_IN automatic_JJ detection_NN of_IN errors_NNS in_IN human_JJ relevance_NN judgments_NNS ._.
+The_DT use_NN of_IN such_JJ data_NNS in_IN the_DT task_NN ha_NN

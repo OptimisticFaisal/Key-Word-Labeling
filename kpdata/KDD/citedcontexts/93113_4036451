@@ -1,0 +1,4 @@
+Experimental_JJ Evaluation_NN 4.1_CD Evaluating_VBG Environment_NNP We_PRP compared_VBD the_DT performance_NN of_IN PGMiner_NN against_IN three_CD state_NN of_IN the_DT art_NN algorithms_NNS :_: FPclose_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, DCI-Close_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, and_CC CHARM_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, which_WDT uses_VBZ the_DT DiffSet_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP experimented_VBD with_IN variety_NN of_IN databases_NNS as_IN shown_VBN in_IN Table_NNP 3_CD ._.
+Most_JJS of_IN the_DT real-world_JJ databases_NNS were_VBD obtained_VBN from_IN the_DT FIMI_NNP repository_JJ †_NN ._.
+Synthetic_JJ databases_NNS were_VBD generated_VBN using_VBG the_DT IBM_NNP data_NNS gener_NN

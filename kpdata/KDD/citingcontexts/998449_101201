@@ -1,0 +1,5 @@
+cation_NN of_IN emails_NNS rather_RB than_IN words_NNS which_WDT appear_VBP infrequently_RB ._.
+This_DT feature_NN of_IN EMT_NNP is_VBZ based_VBN upon_IN the_DT work_NN reported_VBN in_IN -LRB-_-LRB- 39_CD ,_, 40_CD -RRB-_-RRB- ._.
+4.6_CD Limited_NNP N-Gram_NNP This_NNP classifier_NN is_VBZ influenced_VBN by_IN the_DT work_NN reported_VBN in_IN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: on_IN finding_VBG matching_JJ files_NNS in_IN a_DT large_JJ file_NN system_NN ._.
+We_PRP adapted_VBD that_IN work_NN to_TO limit_VB the_DT N-grams_NNS to_TO a_DT subset_NN of_IN the_DT possible_JJ N-grams_NNS for_IN dramatic_JJ reduction_NN in_IN computational_JJ expense_NN ._.
+We_PRP calculate_VBP an_DT intege_NN

@@ -1,0 +1,4 @@
+d-hoc_NN queries_NNS ,_, thus_RB not_RB trainable_JJ for_IN specific_JJ IR_NN tasks_NNS ._.
+Another_DT branch_NN of_IN work_NN is_VBZ using_VBG random_JJ walk_NN on_IN graphs_NNS as_IN proximity_NN measures_NNS ,_, notably_RB the_DT PageRank_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- and_CC the_DT Personalized_VBN PageRank_NN algorithm_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX have_VBP been_VBN much_RB follow_VB up_RP work_NN in_IN supervised_JJ learning_NN of_IN random_JJ walk_NN models_NNS ._.
+Nie_NN et_FW al._FW -LRB-_-LRB- 20_CD -RRB-_-RRB- use_VBP simulated_JJ annealing_NN to_TO perform_VB local_JJ search_NN over_IN each_DT edge_NN type_NN ,_, which_WDT is_VBZ only_RB applicable_JJ when_WRB th_DT

@@ -1,0 +1,5 @@
+cleaning_NN ._.
+The_DT logical_JJ level_NN supports_VBZ the_DT design_NN of_IN the_DT data_NNS cleaning_NN workflow_NN and_CC specification_NN of_IN cleansing_VBG operations_NNS performed_VBN ,_, while_IN the_DT physical_JJ level_NN regards_VBZ their_PRP$ implementation_NN ._.
+IntelliClean_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT rule_NN based_JJ approach_NN to_TO data_NNS cleaning_NN that_WDT focuses_VBZ on_IN duplicates_NNS elimination_NN ._.
+Such_JJ approaches_NNS do_VBP not_RB capture_VB uncertainty_NN in_IN the_DT deduplication_NN process_NN ._.
+The_DT ConQuer_NNP system_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- addresses_VBZ the_DT dedupli_NN

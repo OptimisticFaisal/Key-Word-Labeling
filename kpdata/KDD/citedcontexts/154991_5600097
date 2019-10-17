@@ -1,0 +1,5 @@
+e_LS vector_NN of_IN any_DT of_IN n_NN 's_POS other_JJ senses_NNS '_POS parent_NN concepts_NNS ,_, but_CC are_VBP not_RB in_IN n_NN 's_POS parent_NN concept_NN feature_NN vector_NN ._.
+Output_NN :_: A_DT disambiguated_JJ feature_NN vector_NN for_IN each_DT leaf_NN node_NN n._NN Figure_NN 4_CD ._.
+Coup_NN phase_NN ._.
+application_NN -LRB-_-LRB- =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP 2002_CD -_: =--RRB-_NN ,_, CBC_NNP discovered_VBD a_DT flat_JJ list_NN of_IN coarse_JJ concepts_NNS ._.
+In_IN the_DT finer_NN grained_VBD concept_NN hierarchy_NN of_IN WordNet_NNP ,_, there_EX are_VBP many_JJ fewer_JJR children_NNS for_IN each_DT concept_NN so_IN we_PRP expect_VBP to_TO have_VB more_JJR difficulty_NN finding_VBG committ_NN

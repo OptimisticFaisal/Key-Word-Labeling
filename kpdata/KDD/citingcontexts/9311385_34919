@@ -1,0 +1,5 @@
+sification_NN with_IN SVM_NN on_IN the_DT original_JJ kernels_NNS -RRB-_-RRB- and_CC SKFE_NN algorithm_NN proposed_VBN in_IN -LRB-_-LRB- 25_CD -RRB-_-RRB- ._.
+Following_VBG -LRB-_-LRB- 25_CD -RRB-_-RRB- ,_, we_PRP set_VBD the_DT subspace_NN dimension_NN as_IN the_DT number_NN of_IN classes_NNS in_IN the_DT corresponding_JJ data_NN sets_NNS ._.
+LIBSVM_NN toolbox_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ used_VBN for_IN solving_VBG SVM_NNP optimization_NN problems_NNS in_IN the_DT following_JJ experiments_NNS ._.
+In_IN data_NNS space_NN ,_, we_PRP employ_VBP the_DT Gaussian_JJ kernel_NN :_: K_NN -LRB-_-LRB- x_NN ,_, x_NN ′_NN -RRB-_-RRB- =_JJ exp_NN -LRB-_-LRB- −_NN ‖_CD x_CC −_CD x_CC ′_CD ‖_NN 2_CD \/_: σ_NN -RRB-_-RRB- ._.
+For_IN the_DT UCI_NNP data_NNS ,_, we_PRP apply_VBP 5-fold_RB crossval_JJ

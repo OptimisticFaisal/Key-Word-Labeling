@@ -1,0 +1,4 @@
+of_IN semi-supervised_JJ learning_NN can_MD be_VB found_VBN in_IN -LRB-_-LRB- 72_CD -RRB-_-RRB- ._.
+The_DT result_NN is_VBZ a_DT kernel_NN on_IN a_DT graph_NN maximizing_VBG kernel_NN alignment_NN to_TO the_DT labeled_JJ data_NNS ._.
+Still_RB another_DT approach_NN has_VBZ been_VBN investigated_VBN by_IN Palmer_NNP &_CC Faloutsos_NNP =_SYM -_: =[_NN 44_CD -RRB-_-RRB- -_: =_JJ -_: who_WP define_VBP a_DT similarity_NN function_NN between_IN categorical_JJ attributes_NNS ,_, called_VBN ``_`` refined_JJ escape_NN probability_NN ''_'' ,_, based_VBN on_IN random_JJ walks_VBZ and_CC electrical_JJ networks_NNS ._.
+They_PRP show_VBP that_IN this_DT quantity_NN provides_VBZ a_DT reasonably_RB

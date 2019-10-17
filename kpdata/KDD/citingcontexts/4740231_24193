@@ -1,0 +1,5 @@
+Agent_NNP 7.2_CD to_TO collect_VB system-level_JJ features_NNS at_IN 15-second_JJ intervals_NNS ,_, which_WDT we_PRP aggregate_JJ to_TO one_CD minute_NN intervals_NNS ._.
+Overall_RB we_PRP collect_VBP 124_CD features_NNS from_IN all_DT three_CD systems_NNS ._.
+A_DT load_NN generator_NN called_VBD httperf_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: offers_VBZ load_NN to_TO the_DT service_NN over_IN a_DT sequence_NN of_IN execution_NN intervals_NNS ._.
+Our_PRP$ workloads_NNS simulated_JJ the_DT day_NN to_TO day_NN operation_NN of_IN a_DT large_JJ online_JJ web_NN application_NN ._.
+We_PRP applied_VBD stresses_NNS to_TO the_DT system_NN with_IN the_DT workl_NN

@@ -1,0 +1,3 @@
+mator_NN for_IN every_DT probability_NN Pr_NN -LRB-_-LRB- xi_NN =_JJ vj_FW ∧_FW C_NN =_JJ c_NN -RRB-_-RRB- and_CC Pr_NN -LRB-_-LRB- C_NN =_JJ c_NN -RRB-_-RRB- to_TO compute_VB from_IN the_DT training_NN data_NNS ._.
+The_DT experiments_NNS with_IN synthetic_JJ data_NNS use_VBP a_DT changing_VBG concept_NN based_VBN on_IN a_DT rotating_VBG hyperplane_NN explained_VBD in_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT hyperplane_NN in_IN d-dimensional_NN space_NN is_VBZ the_DT set_NN of_IN points_NNS x_NN that_WDT satisfy_VBP d_FW i_FW =_JJ 1_CD wixi_FW ≥_FW w0_NN where_WRB xi_NN ,_, is_VBZ the_DT ith_JJ coordinate_NN of_IN x._NN Examples_NNS for_IN which_WDT d_FW i_FW =_JJ 1_CD wixi_FW ≥_FW w0_NN are_VBP labeled_VBN positive_JJ ,_, and_CC examples_NNS

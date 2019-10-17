@@ -1,0 +1,4 @@
+search_NN engine_NN query_NN logs_NNS to_TO detect_VB co-occurrence_NN patterns_NNS that_WDT can_MD be_VB used_VBN for_IN query_NN expansion_NN and_CC usage_NN of_IN the_DT WordNet_NNP lexical_JJ database_NN for_IN synonym_NN detection_NN ._.
+An_DT alternative_JJ category_NN of_IN such_JJ systems_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: also_RB requires_VBZ manual_JJ intervention_NN by_IN the_DT user_NN ._.
+The_DT user_NN tags_NNS queries_VBZ within_IN a_DT given_VBN text_NN ,_, and_CC feature_NN extraction_NN and_CC clustering_NN are_VBP used_VBN to_TO expand_VB the_DT marked_JJ queries_NNS ._.
+A_DT similar_JJ idea_NN is_VBZ presented_VBN in_IN -LRB-_-LRB-

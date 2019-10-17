@@ -1,0 +1,4 @@
+ighbor_FW w_FW according_VBG to_TO a_DT weight_NN bv_NN ,_, w_NN such_JJ that_IN #_# w_NN neighbor_NN of_IN v_LS bv_NN ,_, w_NN #_# 1_CD ._.
+The_DT dynamics_NNS of_IN the_DT process_NN then_RB proceed_VB as_IN follows_VBZ ._.
+Each_DT node_NN v_LS chooses_VBZ a_DT threshold_JJ #v_NN uniformly_RB at_IN random_JJ from_IN the_DT interval_NN =_JJ -_: =[_NN 0_CD ,_, 1_CD -RRB-_-RRB- -_: =_JJ -_: ;_: this_DT represents_VBZ the_DT weighted_JJ fraction_NN of_IN v_LS 's_POS neighbors_NNS that_WDT must_MD become_VB active_JJ in_IN order_NN for_IN v_LS to_TO become_VB active_JJ ._.
+Given_VBN a_DT random_JJ choice_NN of_IN thresholds_NNS ,_, and_CC an_DT initial_JJ set_NN of_IN active_JJ nodes_NNS A0_NN -LRB-_-LRB- with_IN all_DT o_NN

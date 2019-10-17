@@ -1,0 +1,5 @@
+seconds_NNS ._.
+All_DT computational_JJ results_NNS are_VBP based_VBN on_IN 6_CD lines_NNS of_IN MATLAB_NNP code_NN ._.
+Keywords_NNS data_NNS classification_NN ,_, tions_NNS support_VBP vector_NN machines_NNS ,_, linear_JJ equa1_NN ._.
+INTRODUCTION_NNP Standard_NNP support_NN vector_NN machines_NNS -LRB-_-LRB- SVMs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 36_CD ,_, 6_CD ,_, 3_CD ,_, 5_CD ,_, 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT are_VBP powerful_JJ tools_NNS for_IN data_NNS classification_NN ,_, classify_VB points_NNS by_IN assigning_VBG them_PRP to_TO one_CD of_IN two_CD disjoint_NN halfspaces_NNS ._.
+These_DT halfspaces_NNS are_VBP either_CC in_IN the_DT original_JJ input_NN space_NN of_IN the_DT problem_NN for_IN line_NN

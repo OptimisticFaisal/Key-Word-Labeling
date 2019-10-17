@@ -1,0 +1,4 @@
+ndicator_NN of_IN risk_NN at_IN a_DT company_NN ._.
+We_PRP have_VBP been_VBN investigating_VBG analytics_NNS that_WDT operate_VBP at_IN a_DT much_RB more_RBR detailed_JJ level_NN ,_, on_IN the_DT transactions_NNS recorded_VBN in_IN a_DT company_NN 's_POS general_JJ ledger_NN ._.
+Past_JJ methods_NNS in_IN this_DT domain_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: explored_VBD the_DT potential_NN of_IN different_JJ classification_NN methods_NNS ,_, such_JJ as_IN logistic_JJ regression_NN ,_, expectation-maximization_NN ,_, and_CC naive_JJ Bayes_NNS ,_, on_IN individual_JJ accounts_NNS and_CC transactions_NNS ._.
+In_IN this_DT paper_NN we_PRP show_VBP how_WRB

@@ -1,0 +1,4 @@
+ve_FW classifier_FW performance_NN when_WRB learning_VBG from_IN imbalanced_JJ datasets_NNS ._.
+A_DT different_JJ approach_NN to_TO incorporating_VBG costs_NNS in_IN decision-making_NN is_VBZ to_TO define_VB fixed_JJ and_CC unequal_JJ misclassification_NN costs_NNS between_IN classes_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Cost_NN model_NN takes_VBZ the_DT form_NN of_IN a_DT cost_NN matrix_NN ,_, where_WRB the_DT cost_NN of_IN classifying_VBG a_DT sample_NN from_IN a_DT true_JJ class_NN j_NN to_TO class_NN i_FW corresponds_VBZ to_TO the_DT matrix_NN entry_NN λij_NN ._.
+This_DT matrix_NN is_VBZ usually_RB expressed_VBN in_IN terms_NNS of_IN av_NN

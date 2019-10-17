@@ -1,0 +1,4 @@
+ation_NN -LRB-_-LRB- CSC_NNP -RRB-_-RRB- ._.
+CSC_NNP is_VBZ a_DT task_NN in_IN which_WDT each_DT training_NN instance_NN has_VBZ a_DT vector_NN of_IN misclassification_NN costs_NNS associated_VBN with_IN it_PRP ,_, thus_RB rendering_VBG some_DT mistakes_NNS on_IN some_DT instances_NNS to_TO be_VB more_RBR expensive_JJ than_IN others_NNS -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP ,_, 1999_CD -_: =--RRB-_NN ._.
+Compared_VBN to_TO a_DT standard_JJ pipeline_NN ,_, SEARN_NN is_VBZ able_JJ to_TO 49_CD Proceedings_NNP of_IN the_DT Fifteenth_NNP Conference_NNP on_IN Computational_NNP Natural_NNP Language_NNP Learning_NNP ,_, pages_NNS 49_CD --_: 57_CD ,_, Portland_NNP ,_, Oregon_NNP ,_, USA_NNP ,_, 23_CD --_: 24_CD June_NNP 2011_CD ._.
+c_NN ○_NN 2011_CD

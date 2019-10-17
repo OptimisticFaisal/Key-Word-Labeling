@@ -1,0 +1,4 @@
+s_NN of_IN S._NNP A_NNP graphical_JJ representation_NN of_IN the_DT two-phase_JJ method_NN is_VBZ shown_VBN in_IN Figure_NNP 3_CD ._.
+Next_RB we_PRP describe_VBP the_DT algorithm_NN in_IN more_JJR detail_NN ._.
+For_IN the_DT hierarchical_JJ clustering_NN phase_NN we_PRP adopt_VBP the_DT method_NN introduced_VBN in_IN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- and_CC available_JJ in_IN the_DT Cluto_NNP toolkit_NN 1_CD -RRB-_-RRB- ,_, 1_CD http:\/\/glaros.dtc.umn.edu\/gkhome\/views\/cluto_NN Figure_NNP 3_CD :_: Depiction_NN of_IN the_DT clustering-based_JJ method_NN ._.
+that_WDT has_VBZ been_VBN shown_VBN to_TO outperform_VB the_DT traditional_JJ agglomera_NN

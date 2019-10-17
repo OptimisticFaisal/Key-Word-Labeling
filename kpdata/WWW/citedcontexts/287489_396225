@@ -1,0 +1,5 @@
+Callum_NNP -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+We_PRP denote_VBP it_PRP as_IN MEtext_NN ,_, which_WDT simply_RB uses_VBZ the_DT WordTargetCat_NNP features_NNS -LRB-_-LRB- WT_NNS -RRB-_-RRB- ._.
+We_PRP compare_VBP the_DT features_NNS of_IN our_PRP$ approach_NN with_IN the_DT features_NNS used_VBN in_IN previous_JJ approaches_NNS -LRB-_-LRB- NTS_NNS for_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- and_CC NWT_NN for_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: as_IN discussed_VBN in_IN Section_NN 4_CD -RRB-_-RRB- ._.
+Although_IN in_IN previous_JJ works_NNS -LRB-_-LRB- 18_CD ,_, 19_CD -RRB-_-RRB- ,_, the_DT features_NNS were_VBD implemented_VBN with_IN other_JJ machine_NN learning_NN models_NNS ,_, they_PRP can_MD also_RB be_VB easily_RB implemented_VBN with_IN ME_NN ._.
+The_DT parameter_NN η_NN used_VBN in_IN

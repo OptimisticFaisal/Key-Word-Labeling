@@ -1,0 +1,5 @@
+,_, it_PRP is_VBZ common_JJ that_WDT gaze_VBP location_NN is_VBZ estimated_VBN with_IN pupil_NN location_NN ._.
+The_DT previously_RB published_VBN pupil_NN detection_NN methods_NNS can_MD be_VB divided_VBN into_IN two_CD categories_NNS :_: the_DT active_JJ Infrared_JJ :_: IR-based_JJ approaches_NNS -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 31_CD -RRB-_-RRB- and_CC the_DT traditional_JJ image-based_JJ passive_NN approaches_NNS -LRB-_-LRB- 24_CD -RRB-_-RRB- -_: -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+Eye_NNP detection_NN based_VBN on_IN Hough_NNP transform_VBP is_VBZ proposed_VBN -LRB-_-LRB- 24_CD -RRB-_-RRB- -_: -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Hough_NNP transform_VBP is_VBZ used_VBN for_IN finding_VBG the_DT pupil_NN ._.
+Eye_NNP detection_NN based_VBN on_IN

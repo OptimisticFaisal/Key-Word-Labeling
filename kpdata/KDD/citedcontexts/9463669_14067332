@@ -1,0 +1,3 @@
+as_IN the_DT removal_NN of_IN Personally_RB Identifiable_JJ Information_NN -RRB-_-RRB- to_TO more_RBR sophisticated_JJ anonymization_NN mechanisms_NNS satisfying_VBG privacy_NN definitions_NNS like_IN k-anonymity_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- and_CC ℓ-diversity_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+However_RB ,_, Ganta_NNP et_FW al._FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Kifer_NNP -LRB-_-LRB- 13_CD -RRB-_-RRB- showed_VBD that_IN practical_JJ attacks_NNS can_MD be_VB mounted_VBN against_IN all_PDT these_DT techniques_NNS ._.
+A_DT recent_JJ definition_NN called_VBN differential_JJ privacy_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- formalizes_VBZ the_DT notion_NN of_IN privacy_NN of_IN an_DT individual_NN in_IN a_DT da_NN

@@ -1,0 +1,4 @@
+r_NN how_WRB the_DT data_NN is_VBZ generated_VBN ._.
+Outliers_NNS may_MD also_RB affect_VB the_DT results_NNS of_IN SVD_NNP ,_, for_IN which_WDT a_DT number_NN of_IN robust_JJ SVD\/PCA_NN methods_NNS have_VBP been_VBN developed_VBN -LRB-_-LRB- see_VB ,_, e.g._FW ,_, -LRB-_-LRB- 4_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Spectral_JJ co-clustering_NN of_IN bipartite_JJ graphs_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: essentially_RB applies_VBZ SVD_NNP to_TO bipartite_JJ graphs_NNS ._.
+Another_DT approach_NN for_IN co-clustering_NN employs_VBZ non-matrix_JJ factorization_NN techniques_NNS -LRB-_-LRB- see_VB ,_, e.g._FW ,_, -LRB-_-LRB- 6_CD -RRB-_-RRB- --_: -LRB-_-LRB- 8_CD -RRB-_-RRB- -RRB-_-RRB- to_TO decompose_VB and_CC cluster_VB co-occurrence_NN data_NNS matrices_NNS ._.

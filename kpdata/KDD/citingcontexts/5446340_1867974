@@ -1,0 +1,4 @@
+xample_RB ,_, although_IN oftentimes_RB speed-up_JJ heuristics_NNS and_CC approximations_NNS exist_VBP that_WDT alleviate_VBP this_DT problem_NN ._.
+Examples_NNS of_IN typically_RB batch_NN algorithms_NNS with_IN online_JJ versions_NNS are_VBP decision_NN trees_NNS -LRB-_-LRB- 11_CD ,_, 20_CD ,_, 39_CD -RRB-_-RRB- ,_, SVMs_NNS =_SYM -_: =[_NN 10_CD ,_, 14_CD ,_, 30_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC bagging_VBG and_CC boosting_VBG -LRB-_-LRB- 31_CD ,_, 32_CD -RRB-_-RRB- ._.
+An_DT alternative_JJ approach_NN is_VBZ what_WP we_PRP refer_VBP to_TO as_IN the_DT wrapper_NN approach_NN ._.
+In_IN the_DT wrapper_NN approach_NN ,_, the_DT batch_NN machine_NN learning_NN algorithms_NNS are_VBP not_RB modified_VBN but_CC are_VBP used_VBN w_NN

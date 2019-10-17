@@ -1,0 +1,4 @@
+be_VB robust_JJ to_TO content_NN extraction_NN problems_NNS ._.
+For_IN each_DT post_NN ,_, we_PRP extract_VBP named_VBN entities_NNS and_CC noun_NN phrases_NNS using_VBG the_DT Stanford_NNP Named_VBD Entity_NNP Recognizer_NNP -LRB-_-LRB- Finkel_NNP et_FW al._FW ,_, 2005_CD -RRB-_-RRB- and_CC the_DT LBJ_NNP Part_NNP of_IN Speech_NNP Tagger_NNP -LRB-_-LRB- =_JJ -_: =_JJ Rizzolo_NNP &_CC Roth_NNP ,_, 2007_CD -_: =--RRB-_NN ,_, respectively_RB ._.
+We_PRP remove_VBP infrequent_JJ named_VBN entities_NNS and_CC uninformative_JJ noun_NN phrases_NNS -LRB-_-LRB- e.g._FW ,_, common_JJ nouns_NNS such_JJ as_IN ``_`` year_NN ''_'' -RRB-_-RRB- ,_, leaving_VBG us_PRP with_IN a_DT total_JJ collection_NN size_NN of_IN nearly_RB 3,000_CD ._.
+-LRB-_-LRB- More_JJR details_NNS can_MD be_VB f_SYM

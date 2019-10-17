@@ -1,0 +1,4 @@
+gments_NNS ._.
+3_CD An_DT Alternate_JJ Interpretation_NN This_DT section_NN is_VBZ based_VBN on_IN a_DT 2002_CD study_NN published_VBN in_IN SIGKDD_NNP in_IN which_WDT Joachims_NNP examined_VBD clicks_NNS on_IN summaries_NNS not_RB as_IN binary_JJ feedback_NN ,_, but_CC rather_RB as_IN relative_JJ judgments_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Joachims_NNP reasoned_VBD that_IN if_IN s1_NN is_VBZ not_RB clicked_VBN but_CC s2_NN is_VBZ clicked_VBN ,_, then_RB we_PRP can_MD reasonably_RB conclude_VB that_IN the_DT relevance_NN of_IN s2_NN is_VBZ greater_JJR than_IN that_DT of_IN s1_NN ._.
+More_RBR generally_RB ,_, if_IN the_DT i_FW th_DT summary_NN is_VBZ not_RB clicked_VBN

@@ -1,0 +1,4 @@
+refer_VB to_TO this_DT descriptor_NN space_NN as_IN CT_NN ._.
+3.5_CD ._.
+Frequent_JJ Sub-structures_NNS -LRB-_-LRB- FS_NNS -RRB-_-RRB- A_DT number_NN of_IN methods_NNS have_VBP been_VBN proposed_VBN in_IN recent_JJ years_NNS to_TO find_VB frequently_RB occurring_VBG sub-structures_NNS in_IN a_DT chemical_NN graph_NN database_NN =_JJ -_: =[_NN 26_CD ,_, 32_CD ,_, 36_CD ,_, 51_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Frequent_JJ sub-structures_NNS of_IN a_DT chemical_NN graph_NN database_NN D_NN are_VBP defined_VBN as_IN all_DT sub-structures_NNS that_WDT are_VBP present_JJ in_IN at_IN least_JJS σ_NN -LRB-_-LRB- σ_FW ≤_FW |_NN D_NN |_CD -RRB-_-RRB- of_IN compounds_NNS of_IN the_DT database_NN ,_, where_WRB σ_NN is_VBZ the_DT absolute_JJ minimum_JJ freque_NN

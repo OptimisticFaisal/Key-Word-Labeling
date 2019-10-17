@@ -1,0 +1,4 @@
+ned_VBN way_NN ,_, so_RB as_IN to_TO provide_VB certain_JJ quality_NN guarantees_NNS on_IN the_DT data-mining_JJ results_NNS -LRB-_-LRB- such_JJ as_IN absence_NN of_IN misclassification_NN -RRB-_-RRB- ._.
+Those_DT guarantees_NNS are_VBP typically_RB provided_VBN by_IN exploiting_VBG lower_JJR -LRB-_-LRB- 2_CD -RRB-_-RRB- or_CC upper_JJ bounds_NNS =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: on_IN the_DT distance_NN between_IN the_DT simplified_VBN representations_NNS ._.
+Orthonormal_JJ dimensionality_NN reductions_NNS techniques_NNS -LRB-_-LRB- such_JJ as_IN SVD_NN ,_, Fourier_NN or_CC wavelets_NNS -RRB-_-RRB- can_MD provide_VB such_JJ guarantees_NNS ._.
+Therefore_RB ,_, in_IN this_DT work_NN we_PRP pro_JJ

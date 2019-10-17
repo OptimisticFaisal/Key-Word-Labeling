@@ -1,0 +1,5 @@
+supervised_VBN learning_NN ,_, while_IN they_PRP are_VBP based_VBN on_IN semi-supervised_JJ learning_NN or_CC unsupervised_JJ learning_NN ._.
+There_EX are_VBP also_RB methods_NNS proposed_VBN for_IN learning_VBG to_TO rank_VB network_NN entities_NNS ,_, such_JJ as_IN papers_NNS in_IN citation_NN graph_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: and_CC pages_NNS in_IN Web_NN graph_NN -LRB-_-LRB- 32_CD -RRB-_-RRB- ._.
+In_IN the_DT methods_NNS ,_, only_RB relation_NN information_NN is_VBZ utilized_VBN ._.
+3_LS ._.
+GENERAL_JJ FRAMEWORK_NN 3.1_CD Motivation_NN There_EX are_VBP many_JJ application_NN problems_NNS in_IN which_WDT one_NN wants_VBZ to_TO learn_VB a_DT model_NN to_TO rank_VB

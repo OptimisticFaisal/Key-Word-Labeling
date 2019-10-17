@@ -1,0 +1,5 @@
+er_NN of_IN mj_NN ._.
+Since_IN the_DT problem_NN is_VBZ NP-hard_JJ -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, the_DT vast_JJ majority_NN of_IN existing_VBG work_NN focuses_VBZ on_IN approximate_JJ solutions_NNS ._.
+In_IN the_DT data_NNS mining_NN literature_NN ,_, several_JJ methods_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, and_CC =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =--RRB-_NN are_VBP based_VBN on_IN hill_NN climbing_NN -LRB-_-LRB- HC_NN -RRB-_-RRB- ._.
+Specifically_RB ,_, HC_NN starts_VBZ with_IN k_NN random_JJ seeds_NNS as_IN centers_NNS ,_, and_CC iteratively_RB adjusts_VBZ them_PRP until_IN it_PRP reaches_VBZ a_DT local_JJ optimum_NN ,_, where_WRB no_DT further_JJ improvement_NN is_VBZ possible_JJ ._.
+Then_RB

@@ -1,0 +1,5 @@
+tional_JJ Markov_NNP network_NN models_NNS ._.
+We_PRP can_MD improve_VB the_DT presented_VBN approach_NN in_IN several_JJ aspects_NNS ._.
+First_RB ,_, to_TO further_RB speedup_VB the_DT treeRMN_NN model_NN we_PRP can_MD apply_VB efficient_JJ Markov_NNP network_NN feature_NN selection_NN methods_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: instead_RB of_IN systematically_RB enumerating_VBG all_DT possible_JJ feature_NN templates_NNS ._.
+Second_RB ,_, as_IN we_PRP have_VBP explained_VBN at_IN the_DT end_NN of_IN section_NN 5_CD ,_, we_PRP 'd_MD like_VB to_TO apply_VB HVD_NN on_IN composite_JJ entity_NN types_NNS ._.
+Third_RB ,_, we_PRP 'd_MD also_RB like_VB to_TO

@@ -1,0 +1,6 @@
+e_LS IS_VBZ measure_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- is_VBZ used_VBN as_IN the_DT dependence_NN measure_NN for_IN Condition_NN 2_CD -LRB-_-LRB- b_NN -RRB-_-RRB- ._.
+Given_VBN a_DT pair_NN of_IN itemsets_NNS ,_, say_VBP X_NN and_CC Y_NN ,_, its_PRP$ IS_VBZ measure_NN can_MD be_VB computed_VBN using_VBG the_DT following_JJ equation_NN :_: IS_VBZ -LRB-_-LRB- X_NN ,_, Y_NN -RRB-_-RRB- =_JJ P_NN -LRB-_-LRB- X_NN ,_, Y_NN -RRB-_-RRB- P_NN -LRB-_-LRB- X_NN -RRB-_-RRB- P_NN -LRB-_-LRB- Y_NN -RRB-_-RRB- =_JJ -_: =-LRB-_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: s1_NN ._.
+Extract_NN frequent_JJ itemsets_NNS ,_, L1_NN ,_, L2_NN ,_, ..._: Ln_NN ,_, using_VBG frequent_JJ itemsets_NNS generation_NN algorithm_NN ,_, where_WRB L_NN i_FW is_VBZ the_DT set_NN of_IN all_DT frequent_JJ i-itemsets_NNS ._.
+2_CD ._.
+P_NN =_JJ ∅_NN -LRB-_-LRB- set_NN of_IN indirect_JJ associations_NNS -RRB-_-RRB- 3_CD ._.
+for_IN k_NN =_JJ 2_CD to_TO n_NN do_VB 4_CD

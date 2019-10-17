@@ -1,0 +1,5 @@
+not_RB evaluate_VB the_DT timeliness_NN of_IN detection_NN ._.
+Given_VBN that_IN a_DT main_JJ motivation_NN of_IN the_DT project_NN is_VBZ to_TO develop_VB algorithms_NNS for_IN rapid_JJ detection_NN ,_, we_PRP adopted_VBD the_DT activity_NN monitoring_NN operating_NN characteristic_NN -LRB-_-LRB- AMOC_NN -RRB-_-RRB- =_JJ -_: =[_NN 48_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Fig._NN 2_CD shows_VBZ an_DT example_NN AMOC_NN curve_NN ._.
+An_DT AMOC_NN curve_NN associates_VBZ a_DT timeliness_NN score_NN to_TO each_DT false_JJ alert_JJ rate_NN of_IN interest_NN ._.
+For_IN our_PRP$ score_NN ,_, we_PRP used_VBD the_DT median_JJ time_NN to_TO alarm_NN following_VBG the_DT onset_NN of_IN an_DT outbre_NN

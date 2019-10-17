@@ -1,0 +1,5 @@
+uality_NN constraint_NN on_IN each_DT update_VBP of_IN U_NN -LRB-_-LRB- r_NN -RRB-_-RRB- i_FW ·_FW ._.
+This_DT additional_JJ equality_NN constraint_NN can_MD be_VB folded_VBN into_IN the_DT Newton_NNP step_NN using_VBG a_DT Lagrange_NNP multiplier_NN ,_, yielding_VBG an_DT unconstrained_JJ optimization_NN -LRB-_-LRB- c.f._NN ,_, ch_NN ._.
+10_CD =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Comparing_VBG the_DT extension_NN of_IN collective_JJ matrix_NN factorization_NN to_TO the_DT alternatives_NNS above_IN is_VBZ a_DT topic_NN for_IN future_JJ work_NN ._.
+It_PRP should_MD be_VB noted_VBN that_IN our_PRP$ choice_NN of_IN X_NN =_JJ UV_NN T_NN is_VBZ not_RB the_DT only_JJ one_NN for_IN matrix_NN factor_NN

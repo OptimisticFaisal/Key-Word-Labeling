@@ -1,0 +1,3 @@
+cation_NN ._.
+Note_VB ,_, that_IN this_DT approach_NN is_VBZ also_RB applicable_JJ to_TO pairwise_JJ dissimilarity_NN data_NNS thanks_NNS to_TO the_DT equivalence_JJ between_IN k-means_NN and_CC Pairwise_NN Data_NN Clustering_NN shown_VBN in_IN -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+Recent_JJ work_NN by_IN Dhillon_NNP et_FW al._FW -LRB-_-LRB- =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =--RRB-_NN has_VBZ shown_VBN ,_, furthermore_RB ,_, that_IN many_JJ cut-based_JJ criteria_NNS such_JJ as_IN the_DT Normalized_NNP Cut_NNP -LRB-_-LRB- 22_CD -RRB-_-RRB- can_MD be_VB re-cast_JJ as_IN weighted_JJ -LRB-_-LRB- kernel_NN -RRB-_-RRB- k-means_NN problems_NNS ;_: thereby_RB ,_, the_DT application_NN of_IN the_DT same_JJ prediction_NN routine_JJ bec_NN

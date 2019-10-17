@@ -1,0 +1,3 @@
+amount_NN of_IN training_NN data_NNS is_VBZ available_JJ for_IN learning_VBG each_DT task_NN ._.
+MTL_NNP has_VBZ been_VBN investigated_VBN by_IN many_JJ researchers_NNS from_IN different_JJ perspectives_NNS ._.
+Hidden_JJ units_NNS of_IN neural_JJ networks_NNS are_VBP shared_VBN among_IN similar_JJ tasks_NNS =_JJ -_: =[_NN 6_CD ,_, 13_CD -RRB-_-RRB- -_: =_JJ -_: ;_: task_NN relatedness_NN are_VBP modeled_VBN using_VBG the_DT common_JJ prior_JJ distribution_NN in_IN hierarchical_JJ Bayesian_JJ models_NNS -LRB-_-LRB- 5_CD ,_, 29_CD ,_, 40_CD ,_, 41_CD -RRB-_-RRB- ;_: the_DT parameters_NNS of_IN Gaussian_NN Process_VBP covariance_NN are_VBP learned_VBN from_IN multiple_JJ tasks_NNS -LRB-_-LRB- 21_CD -RRB-_-RRB- ;_:

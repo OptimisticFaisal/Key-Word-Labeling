@@ -1,0 +1,3 @@
+m_NN are_VBP set_VBN to_TO their_PRP$ ideal_JJ values_NNS ._.
+In_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, some_DT clusters_NNS of_IN data_NNS points_NNS are_VBP eliminated_VBN from_IN consideration_NN based_VBN on_IN the_DT result_NN of_IN preclustering_VBG the_DT dataset_NN ,_, a_DT task_NN that_WDT is_VBZ dual_JJ to_TO outlier_NN detection_NN ._.
+In_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, it_PRP is_VBZ observed_VBN that_IN by_IN keeping_VBG track_NN of_IN the_DT closest_JJS neighbors_NNS found_VBN so_RB far_RB ,_, the_DT nearest-neighbor_JJ search_NN for_IN a_DT specific_JJ data_NN point_NN can_MD be_VB stopped_VBN if_IN it_PRP becomes_VBZ clear_JJ that_IN the_DT data_NNS point_NN can_MD not_RB be_VB one_CD

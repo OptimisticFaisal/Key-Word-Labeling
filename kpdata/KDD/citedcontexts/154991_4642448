@@ -1,0 +1,3 @@
+presented_VBN by_IN a_DT vector_NN of_IN features_NNS -LRB-_-LRB- e.g._FW the_DT words_NNS occurring_VBG in_IN the_DT context_NN -RRB-_-RRB- ,_, and_CC the_DT induced_VBN senses_NNS are_VBP either_CC clusters_NNS of_IN examples_NNS -LRB-_-LRB- Schütze_NNP ,_, 1998_CD ;_: Purandare_NNP and_CC Pedersen_NNP ,_, 2004_CD -RRB-_-RRB- or_CC clusters_NNS of_IN words_NNS -LRB-_-LRB- =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =--RRB-_NN ._.
+Recently_RB ,_, Véronis_NNP -LRB-_-LRB- Véronis_NNP ,_, 2004_CD -RRB-_-RRB- has_VBZ proposed_VBN HyperLex_NNP ,_, an_DT application_NN of_IN graph_NN models_NNS to_TO WSD_NNP based_VBN on_IN the_DT small-world_JJ properties_NNS of_IN cooccurrence_NN graphs_NNS ._.
+Graph-based_JJ methods_NNS have_VBP gained_VBN attention_NN

@@ -1,0 +1,4 @@
+classifier_JJR ,_, and_CC work_NN in_IN a_DT bootstrap_JJ fashion_NN ._.
+Ensemble_NN methods_NNS ,_, i.e._FW Boosting_VBG algorithm_NN were_VBD applied_VBN to_TO semi-supervised_JJ learning_NN problems_NNS ,_, and_CC reported_VBD to_TO outperform_VB other_JJ methods_NNS in_IN a_DT NIST_NNP evaluation_NN =_JJ -_: =[_NN 12_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Inspired_VBN by_IN this_DT result_NN and_CC our_PRP$ previous_JJ work_NN on_IN supervised_JJ Boosting_VBG training_NN ,_, we_PRP investigated_VBD the_DT feasibility_NN of_IN ensemble_NN method_NN for_IN semi-supervised_JJ acoustic_JJ model_NN training_NN ._.
+The_DT experimental_JJ result_NN

@@ -1,0 +1,3 @@
+le_FW ,_, in_IN maximal_JJ pattern_NN mining_NN ,_, all_DT of_IN the_DT frequent_JJ subpatterns_NNS are_VBP removed_VBN so_IN that_IN the_DT resulting_VBG pattern_NN set_NN is_VBZ very_RB compact_JJ ._.
+Besides_IN lossless_JJ and_CC lossy_JJ methods_NNS ,_, other_JJ concepts_NNS like_IN support_NN envelopes_NNS =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_JJ -_: were_VBD also_RB proposed_VBN to_TO explore_VB association_NN patterns_NNS ._.
+Our_PRP$ pattern_NN approximation_NN model_NN is_VBZ also_RB related_JJ to_TO the_DT probabilistic_JJ models_NNS developed_VBN by_IN Pavlov_NNP et_FW al._FW -LRB-_-LRB- 21_CD -RRB-_-RRB- forsquery_NN approximations_NNS ,_, where_WRB frequen_NN

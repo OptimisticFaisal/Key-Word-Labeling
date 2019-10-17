@@ -1,0 +1,4 @@
+ermined_VBN dynamically_RB ._.
+2.3.4_CD Recipes_NNP Mining_NNP The_DT mining_NN stage_NN takes_VBZ the_DT traces_NNS of_IN abstract_JJ events_NNS of_IN a_DT cluster_NN and_CC extracts_NNS implementation_NN recipes_NNS ._.
+To_TO this_DT end_NN ,_, FUDA_NN uses_VBZ mining_NN frequent_JJ closed_JJ itemsets_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: to_TO find_VB abstract_JJ events_NNS that_WDT are_VBP common_JJ between_IN traces_NNS ._.
+Broadly_RB speaking_NN ,_, this_DT technique_NN is_VBZ used_VBN to_TO look_VB at_IN a_DT set_NN of_IN transactions_NNS -LRB-_-LRB- traces_NNS -RRB-_-RRB- containing_VBG items_NNS 1_CD http:\/\/www.eclipse.org\/gef\/12_NN Framework_NN

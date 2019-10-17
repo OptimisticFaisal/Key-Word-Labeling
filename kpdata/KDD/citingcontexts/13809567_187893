@@ -1,0 +1,4 @@
+aseline_NN hazard_NN function_NN is_VBZ treated_VBN non-parametrically_RB ._.
+Thus_RB ,_, we_PRP can_MD see_VB that_IN the_DT parameters_NNS have_VBP a_DT multiplicative_JJ effect_NN on_IN the_DT hazard_NN value_NN which_WDT makes_VBZ it_PRP different_JJ from_IN the_DT linear_JJ regression_NN models_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT Cox_NNP model_NN is_VBZ part_NN of_IN the_DT Generalized_NNP Linear_NNP Model_NNP -LRB-_-LRB- GLM_NNP -RRB-_-RRB- family_NN ._.
+Another_DT member_NN of_IN this_DT family_NN is_VBZ the_DT logistic_JJ regression_NN model_NN ,_, where_WRB the_DT output_NN takes_VBZ the_DT following_JJ form_NN :_: h_NN -LRB-_-LRB- x_NN -RRB-_-RRB- =_JJ -LRB-_-LRB- 1_CD +_CC exp_NN -LRB-_-LRB- −_FW β_FW T_NN x_NN -RRB-_-RRB-

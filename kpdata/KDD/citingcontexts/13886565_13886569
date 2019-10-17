@@ -1,0 +1,3 @@
+solution_NN of_IN an_DT expected_JJ instance_NN ,_, and_CC use_VB this_DT solution_NN online_NN -LRB-_-LRB- 3,6_CD -RRB-_-RRB- ._.
+Other_JJ than_IN the_DT above_JJ two_CD techniques_NNS ,_, online_JJ adaptive_JJ optimization_NN techniques_NNS have_VBP been_VBN applied_VBN to_TO online_JJ stochastic_JJ ad_NN allocation_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Such_JJ control-based_JJ adaptive_JJ algorithms_NNS achieve_VBP asymptotic_JJ optimality_NN following_VBG an_DT updating_VBG rule_NN inspired_VBN by_IN the_DT primal-dual_JJ algorithms_NNS ,_, but_CC they_PRP do_VBP not_RB achieve_VB any_DT bounded_JJ approximation_NN factor_NN for_IN t_NN

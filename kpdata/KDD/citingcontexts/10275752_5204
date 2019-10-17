@@ -1,0 +1,4 @@
+past_NN are_VBP ``_`` forgotten_VBN ''_'' ,_, while_IN the_DT most_RBS recent_JJ weight_NN vectors_NNS have_VBP the_DT most_JJS influence_NN on_IN the_DT hypothesis_NN ._.
+Moving_VBG averages_NNS are_VBP frequently_RB used_VBN in_IN applications_NNS that_WDT involve_VBP prediction_NN over_IN time_NN series_NN data_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC our_PRP$ approach_NN incorporates_VBZ the_DT popular_JJ Exponentially_NNP Weighted_NNP Moving_VBG Average_NNP -LRB-_-LRB- EWMA_NNP -RRB-_-RRB- ._.
+The_DT resulting_VBG algorithm_NN ,_, Amnesiac_NNP Averaged_NNP Perceptron_NNP ,_, is_VBZ shown_VBN in_IN Figure_NNP 2_CD ._.
+The_DT algorithm_NN processes_VBZ training_NN

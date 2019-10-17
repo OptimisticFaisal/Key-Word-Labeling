@@ -1,0 +1,3 @@
+focused_VBN on_IN the_DT related_JJ but_CC different_JJ problem_NN of_IN mining_NN trees_NNS to_TO discover_VB frequently_RB occurring_VBG subtrees_NNS ._.
+In_IN particular_JJ ,_, two_CD similar_JJ algorithms_NNS have_VBP been_VBN recently_RB developed_VBN by_IN Asai_NNP et_FW al._FW -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC Zaki_NN =_JJ -_: =[_NN 48_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT operate_VBP on_IN rooted_JJ ordered_VBN trees_NNS and_CC find_VB all_DT frequent_JJ subtrees_NNS ._.
+A_DT rooted_JJ ordered_VBN tree_NN is_VBZ a_DT tree_NN in_IN which_WDT one_CD of_IN its_PRP$ vertices_NNS is_VBZ designated_VBN as_IN its_PRP$ root_NN and_CC the_DT order_NN of_IN branches_NNS from_IN every_DT vertex_NN

@@ -1,0 +1,3 @@
+eriod_NN ,_, the_DT classification_NN error_NN of_IN the_DT learner_NN will_MD tend_VB ,_, and_CC the_DT same_JJ rate_NN ,_, to_TO the_DT error_NN rate_NN of_IN VFDT_NNP ._.
+We_PRP test_VBP on_IN Section_NN 6_CD our_PRP$ methods_NNS with_IN synthetic_JJ datasets_NNS ,_, using_VBG the_DT SEA_NN concepts_NNS ,_, introduced_VBN in_IN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: and_CC a_DT rotating_VBG hyperplane_NN as_IN described_VBN in_IN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, and_CC two_CD sets_NNS from_IN the_DT UCI_NNP repository_NN ,_, Adult_NN and_CC Poker-Hand_NN ._.
+We_PRP compare_VBP our_PRP$ methods_NNS among_IN themselves_PRP but_CC also_RB with_IN CVFDT_NN ,_, another_DT concept-adapting_JJ varia_NN

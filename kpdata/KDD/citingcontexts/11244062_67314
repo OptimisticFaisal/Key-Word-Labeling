@@ -1,0 +1,5 @@
+rated_VBN ;_: and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- given_VBN an_DT itemset_NN it_PRP can_MD be_VB decided_VBN whether_IN it_PRP is_VBZ frequent_JJ or_CC not_RB ,_, and_CC ,_, if_IN it_PRP is_VBZ frequent_JJ ,_, its_PRP$ support_NN can_MD be_VB derived_VBN ._.
+The_DT set_VBN CS_NN of_IN frequent_JJ closed_JJ itemsets_NNS is_VBZ a_DT concise_JJ representation_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT itemset_NN X_NN is_VBZ frequent_JJ iff_NN there_RB exists_VBZ Y_NN ∈_NNP CS_NNP such_JJ that_IN X_NN ⊆_NN Y_NN ._.
+In_IN such_PDT a_DT case_NN ,_, the_DT support_NN of_IN X_NN can_MD be_VB calculated_VBN as_IN :_: max_NN -LCB-_-LRB- support_NN -LRB-_-LRB- Y_NN -RRB-_-RRB- |_CD X_NN ⊆_NN Y_NN ∧_NN Y_NN ∈_CD CS_NN -RCB-_-RRB- ._.
+The_DT set_VBN FS_NN of_IN frequent_JJ free_JJ itemsets_NNS is_VBZ n_NN

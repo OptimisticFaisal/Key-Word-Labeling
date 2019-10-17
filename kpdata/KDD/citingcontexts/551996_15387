@@ -1,0 +1,5 @@
+s.berkeley.edu\/logs\/_NN as_IN the_DT dataset_NN for_IN our_PRP$ second_JJ experiment_NN and_CC test_VB the_DT scalability_NN as_RB well_RB as_IN performance_NN of_IN CLOPE_NN ._.
+We_PRP use_VBP the_DT web_NN logs_NNS of_IN November_NNP 2001_CD and_CC preprocess_VBZ it_PRP with_IN methods_NNS proposed_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX are_VBP about_IN 7_CD million_CD entries_NNS in_IN the_DT raw_JJ log_NN file_NN and_CC 2_CD million_CD of_IN them_PRP are_VBP kept_VBN after_IN non-html_JJ 3_CD entries_NNS removed_VBN ._.
+Among_IN these_DT 2_CD million_CD entries_NNS ,_, there_EX are_VBP a_DT total_NN of_IN 93,665_CD distinct_JJ pages_NNS ._.
+The_DT

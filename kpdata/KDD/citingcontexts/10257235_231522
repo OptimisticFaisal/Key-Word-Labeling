@@ -1,0 +1,4 @@
+ed_VBN table_NN to_TO be_VB a_DT set_NN of_IN records_NNS that_WDT have_VBP the_DT same_JJ values_NNS for_IN the_DT quasi-identifiers_NNS ._.
+One_CD problem_NN with_IN generalization_NN is_VBZ that_IN it_PRP can_MD not_RB handle_VB highdimensional_JJ data_NNS due_JJ to_TO ``_`` the_DT curse_NN of_IN dimensionality_NN ''_'' =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Bucketization_NN -LRB-_-LRB- 30_CD ,_, 14_CD ,_, 22_CD -RRB-_-RRB- was_VBD proposed_VBN to_TO remedy_VB this_DT drawback_NN ._.
+The_DT bucketization_NN method_NN first_RB partitions_VBZ tuples_NNS in_IN the_DT table_NN into_IN buckets_NNS and_CC then_RB separates_VBZ the_DT quasi-identifiers_NNS with_IN the_DT sensitiv_NN

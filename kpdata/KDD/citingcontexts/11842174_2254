@@ -1,0 +1,4 @@
+mbers_NNS ._.
+The_DT trie_NN is_VBZ used_VBN to_TO significantly_RB reduce_VB the_DT number_NN of_IN comparisons_NNS between_IN subsequences_NNS of_IN words_NNS in_IN an_DT input_NN document_NN and_CC patterns_NNS ._.
+Recall_VB that_IN we_PRP use_VBP filter-structures_NNS ,_, based_VBN on_IN bloom_NN filters_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT are_VBP compact_JJ probabilistic_JJ structures_NNS for_IN representing_VBG set_VBN S_NN of_IN elements_NNS ._.
+Given_VBN an_DT element_NN e_SYM ,_, bloom_NN filters_NNS allow_VBP us_PRP to_TO probabilistically_RB check_VB whether_IN or_CC not_RB e_LS belongs_VBZ to_TO S._NNP If_IN e_SYM ∈_NNP S_NNP ,_, then_RB the_DT

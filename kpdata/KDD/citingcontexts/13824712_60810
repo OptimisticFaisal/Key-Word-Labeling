@@ -1,0 +1,4 @@
+n_NN Mahalanobis_NN distance_NN using_VBG convex_NN optimization_NN ._.
+The_DT HMRF-KMeans_JJ algorithm_NN proposed_VBN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- combines_VBZ both_CC constraint_NN satisfaction_NN and_CC metric_JJ learning_NN into_IN a_DT single_JJ probabilistic_JJ framework_NN ._.
+MPCK-Means_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: learns_VBZ an_DT individual_JJ metric_NN for_IN each_DT cluster_NN and_CC allows_VBZ violation_NN of_IN constraints_NNS by_IN imposing_VBG penalties_NNS ._.
+2.2_CD Relative_JJ Distance_NNP Comparisons_NNPS and_CC Relative_JJ Constraints_NNS Existing_VBG studies_NNS on_IN relative_JJ compari_NNS

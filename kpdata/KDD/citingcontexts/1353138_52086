@@ -1,0 +1,4 @@
+wesrst_FW dene_FW the_DT n-best_NN hypotheses_NNS problem_NN more_RBR precisely_RB and_CC identify_VB appropriate_JJ quality_NN guarantees_NNS ._.
+Section_NN 3_CD then_RB presents_VBZ the_DT generic_JJ algorithm_NN ._.
+Our_PRP$ algorithm_NN is_VBZ a_DT sequential_JJ sampling_NN algorithm_NN -LRB-_-LRB- =_JJ -_: =_JJ 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN the_DT sense_NN that_IN it_PRP does_VBZ not_RB wait_VB for_IN asxed_JJ number_NN of_IN examples_NNS that_WDT can_MD be_VB guaranteed_VBN to_TO suce_VB even_RB in_IN the_DT worst_JJS case_NN before_IN starting_VBG the_DT analysis_NN ._.
+It_PRP starts_VBZ to_TO return_VB -LRB-_-LRB- or_CC discard_VB -RRB-_-RRB- hypotheses_NNS that_IN a_DT

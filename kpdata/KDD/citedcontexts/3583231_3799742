@@ -1,0 +1,4 @@
+._.
+Our_PRP$ work_NN provides_VBZ an_DT experimental_JJ evaluation_NN of_IN a_DT cryptographic_JJ solution_NN to_TO the_DT problem_NN of_IN computing_VBG the_DT scalar_JJ product_NN of_IN two_CD vectors_NNS ._.
+The_DT particular_JJ solution_NN we_PRP use_VBP for_IN our_PRP$ experiments_NNS appears_VBZ in_IN =_JJ -_: =_JJ -LRB-_-LRB- WY04_NN -RRB-_-RRB- -_: =_JJ -_: and_CC is_VBZ proven_VBN secure_JJ in_IN -LRB-_-LRB- GLLM04_NN -RRB-_-RRB- ._.
+The_DT scalar_JJ product_NN primitive_JJ is_VBZ extremely_RB useful_JJ in_IN privacy-preserving_JJ data_NNS mining_VBG both_DT when_WRB data_NNS is_VBZ vertically_RB partitioned_VBN and_CC when_WRB it_PRP is_VBZ arbitrarily_RB partitioned_VBN be_VB

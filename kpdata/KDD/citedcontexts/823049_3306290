@@ -1,0 +1,5 @@
+sly_RB discovered_VBN frequent_JJ itemsets_NNS ._.
+Incremental_JJ mining_NN was_VBD also_RB analyzed_VBN in_IN the_DT context_NN of_IN sequential_JJ patterns_NNS -LRB-_-LRB- e.g._FW -LRB-_-LRB- 14_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+The_DT notion_NN of_IN interactive_JJ and_CC iterative_JJ knowledge_NN discovery_NN first_RB appeared_VBD in_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT authors_NNS postulated_VBN to_TO create_VB a_DT knowledge_NN cache_NN that_WDT would_MD keep_VB recently_RB discovered_VBN frequent_JJ itemsets_NNS along_IN with_IN their_PRP$ support_NN value_NN ._.
+Besides_IN presenting_VBG the_DT notion_NN of_IN knowledge_NN cache_NN the_DT authors_NNS

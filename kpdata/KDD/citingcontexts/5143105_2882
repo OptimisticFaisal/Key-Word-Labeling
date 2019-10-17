@@ -1,0 +1,4 @@
+ing_NN to_TO the_DT largest_JJS q_NN eigenvalues_NNS ._.
+This_DT completes_VBZ the_DT proof_NN of_IN the_DT theorem_NN ._.
+It_PRP is_VBZ worth_JJ noting_VBG that_IN the_DT above_JJ trace_NN maximization_NN problem_NN is_VBZ similar_JJ to_TO the_DT well-known_JJ linear_NN discriminant_NN analysis_NN -LRB-_-LRB- LDA_NN -RRB-_-RRB- =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, they_PRP are_VBP fundamentally_RB different_JJ ,_, as_IN SK1_NN is_VBZ different_JJ from_IN the_DT so-called_JJ between-class_JJ scatter_NN matrix_NN in_IN LDA_NNP ,_, due_JJ to_TO the_DT spectral_JJ relaxation_NN in_IN L._NNP 3.3_CD The_DT computation_NN of_IN G_NN for_IN given_VBN Q_NNP and_CC L_NN

@@ -1,0 +1,4 @@
+adratic_JJ program_NN that_IN we_PRP solve_VBP by_IN calling_VBG the_DT function_NN NonNegativeQuadraticOpt_NN -LRB-_-LRB- Ĉ_NN ,_, ˆb_NN -RRB-_-RRB- ,_, which_WDT is_VBZ given_VBN in_IN Figure_NNP 1_CD ._.
+The_DT function_NN is_VBZ based_VBN on_IN the_DT principles_NNS of_IN the_DT Gradient_NNP Projection_NNP method_NN ;_: see_VB ,_, e.g._FW ,_, =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT running_VBG time_NN of_IN this_DT function_NN depends_VBZ on_IN g_NN ,_, which_WDT is_VBZ a_DT small_JJ constant_NN independent_JJ of_IN the_DT magnitude_NN of_IN the_DT data_NNS ,_, so_IN it_PRP is_VBZ not_RB the_DT computational_JJ bottleneck_NN in_IN the_DT process_NN ._.
+There_EX is_VBZ a_DT performance_NN p_NN

@@ -1,0 +1,4 @@
+ruction_NN of_IN the_DT trie_NN for_IN pattern-similarity_NN indexing_NN is_VBZ less_JJR time_NN consuming_VBG because_IN the_DT length_NN of_IN the_DT indexed_VBN subsequences_NNS is_VBZ constrained_VBN by_IN |_NN A_NN |_NN ._.
+Thus_RB ,_, it_PRP can_MD be_VB constructed_VBN by_IN a_DT brute-force_JJ algorithm_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: in_IN linear_JJ time_NN ._.
+The_DT space_NN taken_VBN by_IN the_DT PS-Index_NN is_VBZ linearly_RB proportional_JJ to_TO the_DT data_NNS size_NN ._.
+Since_IN each_DT node_NN appears_VBZ once_RB and_CC only_RB once_RB in_IN the_DT pattern_NN distance_NN links_NNS ,_, the_DT total_JJ number_NN of_IN entries_NNS equals_VBZ

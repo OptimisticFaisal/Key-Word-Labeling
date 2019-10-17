@@ -1,0 +1,5 @@
+zed_VBN in_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+Another_DT good_JJ demonstration_NN of_IN this_DT approach_NN is_VBZ provided_VBN by_IN -LRB-_-LRB- 19_CD -RRB-_-RRB- that_WDT deals_VBZ with_IN real-time_JJ database_NN systems_NNS ,_, and_CC by_IN -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+More_RBR recently_RB ,_, Web_NN servers_NNS have_VBP employed_VBN a_DT feedback_NN loop_NN approach_NN =_JJ -_: =[_NN 5_CD ,_, 7_CD ,_, 12_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO our_PRP$ knowledge_NN ,_, the_DT most_RBS common_JJ approach_NN used_VBN by_IN commercial_JJ BI_NN systems_NNS is_VBZ a_DT ``_`` static_JJ MPL_NN ''_'' approach_NN ._.
+In_IN this_DT approach_NN ,_, a_DT ``_`` typical_JJ workload_NN ''_'' is_VBZ run_VBN multiple_JJ times_NNS through_IN the_DT system_NN and_CC an_DT appropriat_NN

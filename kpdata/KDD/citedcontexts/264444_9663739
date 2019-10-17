@@ -1,0 +1,4 @@
+o_NN obvious_JJ yet_RB incorrect_JJ approaches_NNS ._.
+The_DT first_JJ one_CD is_VBZ ''_'' integrate-then-generalize_JJ ''_'' :_: first_RB integrate_VB the_DT two_CD tables_NNS and_CC then_RB generalize_VB the_DT integrated_VBN table_NN using_VBG some_DT single_JJ table_NN anonymization_NN methods_NNS =_JJ -_: =[_NN 4_CD ,_, 12_CD ,_, 18_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Unfortunately_RB ,_, this_DT approach_NN does_VBZ not_RB preserve_VB privacy_NN in_IN the_DT studied_VBN scenario_NN because_IN any_DT party_NN holding_VBG the_DT integrated_VBN table_NN will_MD immediately_RB know_VB all_DT private_JJ information_NN of_IN both_DT parties_NNS ._.
+The_DT secon_NN

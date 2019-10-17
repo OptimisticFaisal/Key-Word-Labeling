@@ -1,0 +1,3 @@
+in_IN Figure_NNP 3_CD ,_, new_JJ points_NNS are_VBP first_RB filtered_VBN by_IN whether_IN they_PRP fall_VBP within_IN a_DT window_NN or_CC gate_NN around_IN the_DT model_NN 's_POS predicted_VBN position_NN ._.
+This_DT approach_NN has_VBZ also_RB been_VBN used_VBN in_IN conjunction_NN with_IN kd-tree_JJ structures_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: to_TO quickly_RB retrieve_VB the_DT candidate_NN observations_NNS near_IN the_DT predicted_VBN position_NN of_IN a_DT track_NN -LRB-_-LRB- 11_CD ,_, 12_CD -RRB-_-RRB- ._.
+It_PRP should_MD be_VB noted_VBN that_IN there_EX are_VBP several_JJ potential_JJ disadvantages_NNS of_IN this_DT type_NN of_IN approach_NN that_WDT arise_VBP f_SYM

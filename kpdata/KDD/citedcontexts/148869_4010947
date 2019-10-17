@@ -1,0 +1,4 @@
+e_LS and_CC anti-monotone_JJ -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+These_DT constraints_NNS are_VBP expressed_VBN using_VBG aggregations_NNS on_IN descriptors_NNS of_IN items_NNS such_JJ as_IN price_NN ,_, weight_NN ,_, height_NN etc._NN of_IN an_DT item_NN in_IN a_DT transaction_NN ._.
+Yet_RB again_RB different_JJ claims_NNS are_VBP made_VBN =_JJ -_: =[_NN 13_CD ,_, 4_CD -RRB-_-RRB- -_: =_JJ -_: but_CC a_DT rigorous_JJ comparison_NN between_IN constraint-based_JJ itemset_NN mining_NN algorithms_NNS has_VBZ never_RB been_VBN reported_VBN ._.
+We_PRP propose_VBP a_DT framework_NN and_CC a_DT performance_NN testbed_VBN to_TO compare_VB any_DT frequent_JJ pattern_NN mining_NN algorithm_NN

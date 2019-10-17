@@ -1,0 +1,3 @@
+classification_NN system_NN can_MD take_VB into_IN account_NN various_JJ evidence_NN ,_, including_VBG the_DT URL_NN ,_, the_DT page_NN text_NN ,_, anchor_NN text_NN ,_, DMOZ_NN categories_NNS ,_, third-party_JJ classifications_NNS ,_, position_NN in_IN the_DT network_NN of_IN pages_NNS ,_, and_CC so_RB on_IN =_JJ -_: =[_NN 18_CD ,_, 1_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN this_DT paper_NN ,_, we_PRP will_MD consider_VB only_RB the_DT textual_JJ html_NN source_NN for_IN each_DT page_NN ,_, but_CC the_DT ideas_NNS generalize_VBP to_TO any_DT type_NN of_IN available_JJ feature_NN data_NNS ._.
+Manually_RB examining_VBG every_DT page_NN encountered_VBN by_IN such_PDT a_DT syste_NN

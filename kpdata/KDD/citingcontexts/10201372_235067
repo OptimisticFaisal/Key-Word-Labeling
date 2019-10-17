@@ -1,0 +1,6 @@
+._.
+It_PRP can_MD be_VB seen_VBN that_IN clustering_NN consensus_NN is_VBZ a_DT special_JJ case_NN of_IN the_DT proposed_VBN framework_NN with_IN ρ_NN =_JJ 0_CD ._.
+Clustering_NN consensus_NN is_VBZ shown_VBN to_TO be_VB NP-complete_JJ -LRB-_-LRB- 8_CD -RRB-_-RRB- based_VBN on_IN the_DT results_NNS of_IN median_JJ partition_NN problem_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP assume_VBP that_IN there_EX is_VBZ at_IN least_JJS one_CD classifier_NN and_CC one_CD clustering_NN algorithm_NN ,_, and_CC ρ_NN is_VBZ a_DT finite_JJ number_NN ._.
+So_RB if_IN the_DT problem_NN proposed_VBN in_IN Eq_NN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- can_MD be_VB solved_VBN in_IN polynomial_JJ time_NN ,_, the_DT clustering_NN consens_NNS

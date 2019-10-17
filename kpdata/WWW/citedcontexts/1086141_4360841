@@ -1,0 +1,4 @@
+the_DT meta-search_JJ server_NN ._.
+This_DT results_VBZ in_IN improved_JJ scalability_NN with_IN respect_NN to_TO computational_JJ consumption_NN and_CC storage_NN space_NN ._.
+Document_NNP relevance_NN has_VBZ also_RB been_VBN considered_VBN in_IN a_DT previous_JJ meta-search_JJ engine_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT meta-search_JJ engine_NN computes_VBZ the_DT relevance_NN score_NN of_IN an_DT individual_JJ search_NN server_NN S_NN to_TO a_DT term_NN T_NN as_IN the_DT similarity_NN between_IN T_NN and_CC the_DT most_RBS relevant_JJ document_NN in_IN S_NN ,_, and_CC records_NNS only_RB the_DT top_JJ N_NN relevant_JJ

@@ -1,0 +1,4 @@
+1_CD models_NNS according_VBG to_TO 22_CD qi_NN =_JJ wi_FW ∗_FW α_FW age_NN i_LS 23_CD normalize_VBP weights_NNS wi_IN Figure_NNP 1_CD :_: Pseudocode_NN for_IN our_PRP$ online_JJ ranking_NN algorithm_NN ._.
+rankers_NNS are_VBP used_VBN as_IN black_JJ boxes_NNS we_PRP could_MD use_VB any_DT other_JJ ranking_JJ algorithm_NN e.g._FW =_SYM -_: =[_NN 12_CD ,_, 6_CD ,_, 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+5.1_CD Experiments_NNS with_IN Electricity_NNP Data_NNP Our_NNP first_JJ set_NN of_IN experiments_NNS are_VBP performed_VBN on_IN data_NNS collected_VBN from_IN an_DT electricity_NN distribution_NN system_NN ._.
+In_IN particular_JJ ,_, we_PRP examine_VBP attributes_NNS of_IN electrical_JJ feeders_NNS

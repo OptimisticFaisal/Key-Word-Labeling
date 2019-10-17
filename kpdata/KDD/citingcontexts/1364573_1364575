@@ -1,0 +1,3 @@
+obabilistic_JJ patterns_NNS or_CC deterministic_JJ patterns_NNS with_IN noise_NN ,_, e.g._FW flexible_JJ gaps_NNS ,_, wild-cards_NNS -LRB-_-LRB- do_VBP n't_RB care_VB characters_NNS -RRB-_-RRB- and\/or_CC ambiguous_JJ characters_NNS -LRB-_-LRB- which_WDT can_MD be_VB replaced_VBN by_IN any_DT character_NN of_IN a_DT subset_NN of_IN A_NN =_JJ -_: =-RRB-_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Because_IN bio-sequential_JJ data_NNS is_VBZ usually_RB very_RB large_JJ ,_, an_DT efficient_JJ search_NN strategy_NN is_VBZ to_TO discover_VB short_JJ or_CC less_RBR ambiguous_JJ patterns_NNS using_VBG exhaustive_JJ search_NN ,_, possibly_RB with_IN pruning_NN ._.
+Then_RB the_DT patterns_NNS that_WDT

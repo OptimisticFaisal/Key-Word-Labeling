@@ -1,0 +1,4 @@
+s_NN efficient_JJ with_IN good_JJ scalability_NN ._.
+We_PRP also_RB design_VBP a_DT declarative_JJ FASST_NN query_NN language_NN ,_, FASSTQUEL_NN ,_, to_TO make_VB the_DT FASST_NNP mining_NN process_NN interactive_JJ and_CC flexible_JJ ._.
+1_CD Introduction_NN Frequent_JJ substructure_NN mining_NN =_JJ -_: =[_NN 3_CD ,_, 5_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ one_CD of_IN the_DT most_RBS well_RB researched_VBN topics_NNS in_IN the_DT area_NN of_IN XML_NN data_NNS mining_NN ._.
+Current_JJ research_NN on_IN frequent_JJ substructure_NN mining_NN is_VBZ to_TO extract_VB substructures_NNS that_WDT occur_VBP frequently_RB in_IN individual_JJ XML_NN document_NN

@@ -1,0 +1,3 @@
+007_CD ACM_NNP 978-1-59593-609-7_CD \/_: 07\/0008_CD ..._: $_$ 5.00_CD ._.
+Philip_NNP K._NNP Chan_NNP Department_NNP of_IN Computer_NNP Sciences_NNPS Florida_NNP Institute_NNP of_IN Technology_NNP Melbourne_NNP ,_, FL_NN 32901_CD ,_, USA_NNP pkc@cs.fit.edu_NNP -LRB-_-LRB- LEarning_NNP Rules_NNP for_IN Anomaly_NNP Detection_NN -RRB-_-RRB- =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, efficiently_RB learns_VBZ a_DT succinct_JJ set_NN of_IN comprehensible_JJ rules_NNS and_CC detects_VBZ attacks_NNS unknown_JJ to_TO the_DT algorithm_NN ._.
+To_TO reduce_VB false_JJ alarms_NNS ,_, these_DT rules_NNS are_VBP validated_VBN on_IN normal_JJ held-out_JJ data_NNS and_CC all_DT violated_VBN rul_NN

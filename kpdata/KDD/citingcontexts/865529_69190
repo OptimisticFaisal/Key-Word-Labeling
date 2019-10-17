@@ -1,0 +1,5 @@
+._.
+This_DT is_VBZ in_IN contrast_NN to_TO their_PRP$ large-scale_JJ counterparts_NNS ,_, which_WDT suffer_VBP from_IN several_JJ shortcomings_NNS ._.
+First_RB ,_, crawling_VBG dynamically_RB generated_VBN pages_NNS --_: pages_NNS in_IN the_DT `_`` hidden_JJ web_NN '_'' --_: has_VBZ been_VBN the_DT subject_NN of_IN research_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: and_CC is_VBZ a_DT non-trivial_JJ task_NN for_IN an_DT external_JJ crawler_NN ._.
+Second_JJ ,_, site-specific_JJ domains_NNS can_MD enable_VB the_DT robots_NNS exclusion_NN policy_NN ._.
+This_DT prohibits_VBZ external_JJ search_NN engines_NNS '_POS crawlers_NNS from_IN downloading_VBG content_NN from_IN

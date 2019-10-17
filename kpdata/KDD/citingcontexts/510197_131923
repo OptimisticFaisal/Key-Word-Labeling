@@ -1,0 +1,4 @@
+th_DT respect_NN to_TO the_DT parameters_NNS `_`` k_NN =_JJ fw_NN k_NN ;_: fi_IN k_NN ;_: oe_NN 2_CD k_NN g_NN is_VBZ straightforward_JJ ._.
+In_IN fact_NN ,_, the_DT solutions_NNS for_IN fi_NN k_NN and_CC oe_NN 2_CD k_NN are_VBP exactly_RB those_DT obtained_VBN from_IN the_DT well_RB known_VBN weighted_VBN least_JJS squares_NNS problem_NN -LRB-_-LRB- =_JJ -_: =_JJ Draper_NNP &_CC Smith_NNP ,_, 1981_CD -_: =--RRB-_NN ._.
+The_DT solutions_NNS for_IN the_DT regression_NN coefficientssfi_NN k_NN ,_, the_DT variance_NN terms_NNS oe_VBP 2_CD k_NN ,_, and_CC the_DT mixing_VBG weightssw_NN k_NN are_VBP given_VBN below_IN ._.
+sfi_NN k_NN =_JJ -LRB-_-LRB- X_NN 0_CD H_NN k_NN X_NN -RRB-_-RRB- \_CD Gamma1_NN X_NN 0_CD H_NN k_NN Y_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- oe_NN 2_CD k_NN =_JJ -LRB-_-LRB- Y_NN \_CD Gamma_NNP Xsfi_NNP k_NN -RRB-_-RRB- 0_CD

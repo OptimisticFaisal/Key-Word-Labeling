@@ -1,0 +1,5 @@
+methods_NNS on_IN a_DT large_JJ scale_NN ._.
+Supervised_VBN methods_NNS include_VBP machine_NN learning_NN algorithms_NNS ,_, which_WDT can_MD be_VB adapted_VBN to_TO a_DT wide_JJ range_NN of_IN domains_NNS ._.
+These_DT algorithms_NNS view_VBP record_NN linkage_NN as_IN either_CC classification_NN -LRB-_-LRB- -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- -RRB-_-RRB- or_CC clustering_NN -LRB-_-LRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Given_VBN a_DT set_NN of_IN training_NN examples_NNS ,_, a_DT machine-learning_JJ algorithm_NN can_MD be_VB used_VBN to_TO produce_VB a_DT decision_NN model_NN ._.
+These_DT algorithms_NNS are_VBP more_RBR generic_JJ but_CC require_VBP sufficient_JJ training_NN

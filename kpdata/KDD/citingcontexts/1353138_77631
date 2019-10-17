@@ -1,0 +1,4 @@
+ecied_VBN by_IN the_DT Cherno_NNP bound_VBD ,_, which_WDT we_PRP have_VBP to_TO when_WRB the_DT frequencies_NNS are_VBP similar_JJ ._.
+Sequential_JJ sampling_NN methods_NNS have_VBP been_VBN reported_VBN to_TO reduce_VB the_DT required_JJ sample_NN size_NN by_IN several_JJ orders_NNS of_IN magnitudes_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 7_CD =_JJ -_: =]_NN -RRB-_-RRB- ._.
+In_IN -_: =_SYM -_: our_PRP$ algorithm_NN -LRB-_-LRB- Table_NNP 1_CD -RRB-_-RRB- ,_, we_PRP combine_VBP sequential_JJ sampling_NN with_IN the_DT popular_JJ \_CD loop_NN reversal_NN ''_'' technique_NN found_VBN in_IN many_JJ KDD_NNP algorithms_NNS ._.
+Instead_RB of_IN processing_VBG hypotheses_NNS one_CD after_IN another_DT ,_, and_CC obtaining_VBG

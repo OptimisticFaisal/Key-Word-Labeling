@@ -1,0 +1,3 @@
+s_VBZ a_DT discrete_JJ variable_NN ,_, and_CC we_PRP can_MD set_VB the_DT time_NN period_NN for_IN an_DT epoch_NN arbitrarily_RB at_IN ,_, for_IN example_NN ,_, one_CD day_NN or_CC one_CD year_NN ._.
+Before_IN introducing_VBG the_DT proposed_VBN model_NN ,_, we_PRP review_VBP latent_JJ Dirichlet_NNP allocation_NN -LRB-_-LRB- LDA_NN -RRB-_-RRB- =_JJ -_: =[_NN 6_CD ,_, 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT forms_VBZ the_DT basis_NN of_IN the_DT proposed_VBN model_NN ._.
+In_IN LDA_NNP ,_, each_DT document_NN has_VBZ topic_NN proportions_NNS θt_VBP ,_, d._VBP For_IN each_DT of_IN the_DT Nt_NN ,_, d_NN words_NNS in_IN the_DT document_NN ,_, topic_NN zt_NN ,_, d_NN ,_, n_NN is_VBZ chosen_VBN from_IN the_DT topic_NN proportions_NNS ,_, and_CC then_RB

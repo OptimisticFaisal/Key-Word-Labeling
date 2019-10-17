@@ -1,0 +1,6 @@
+19_CD -RRB-_-RRB- ._.
+A_DT network_NN flow_NN approach_NN to_TO identifying_VBG web_NN communities_NNS was_VBD given_VBN by_IN Flake_NNP et_FW al._FW -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Local_JJ search_NN methods_NNS were_VBD used_VBN to_TO identify_VB communities_NNS satisfying_VBG certain_JJ special_JJ properties_NNS in_IN the_DT work_NN of_IN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ;_: their_PRP$ interest_NN was_VBD to_TO extract_VB storylines_NNS from_IN search_NN results_NNS ._.
+Like_IN clustering_NN ,_, none_NN of_IN these_DT algorithms_NNS ,_, uses_VBZ a_DT temporal_JJ ordering_VBG of_IN the_DT documents_NNS ._.
+3_LS ._.
+ALGORITHMS_NNS FOR_IN FINDING_NNP THREADS_NNPS 3.1_CD Preliminarie_NN

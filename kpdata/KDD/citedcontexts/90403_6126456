@@ -1,0 +1,4 @@
+ning_JJ methods_NNS used_VBN in_IN the_DT analysis_NN of_IN microarray_NN data_NNS ._.
+METHODS_NNS Statistical_JJ definition_NN of_IN EPs_NNS Emerging_VBG patterns_NNS are_VBP `_`` item_NN sets_NNS whose_WP$ support_NN increase_NN significantly_RB from_IN one_CD data_NN set_NN D1_NN to_TO another_DT ,_, D2_NN '_'' -LRB-_-LRB- =_JJ -_: =_JJ Dong_NNP and_CC Li_NNP ,_, 1999_CD -_: =--RRB-_NN ._.
+Let_VB n1_NN =_JJ |_CD D1_NN |_NN ,_, n2_NN =_JJ |_CD D2_NN |_NN denote_VBP the_DT sample_NN size_NN of_IN two_CD data_NNS sets_NNS D1_NN and_CC D2_NN and_CC nP_NN ,1_NN and_CC nP_NN ,2_CD the_DT counts_NNS for_IN a_DT specific_JJ pattern_NN P_NN -LRB-_-LRB- e.g._FW expr_FW -LRB-_-LRB- A_NN -RRB-_-RRB- ≥_FW 1.023_FW ∧_FW expr_NN -LRB-_-LRB- B_NN -RRB-_-RRB- ≥_CD 0.789_CD -RRB-_-RRB- within_IN D1_NN and_CC D2_NN ._.
+The_DT suppo_NN

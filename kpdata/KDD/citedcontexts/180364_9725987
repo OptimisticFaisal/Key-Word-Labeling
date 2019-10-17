@@ -1,0 +1,4 @@
+ences_NNS ,_, and_CC 2_CD -RRB-_-RRB- ._.
+methods_NNS for_IN subsequence_NN matching_NN ,_, where_WRB the_DT best_JJS matches_NNS for_IN a_DT query_NN can_MD be_VB arbitrary_JJ subsequences_NNS of_IN database_NN sequences_NNS ._.
+Several_JJ well-known_JJ methods_NNS only_RB address_VBP full_JJ sequence_NN matching_NN =_JJ -_: =[_NN 13_CD ,_, 24_CD ,_, 26_CD ,_, 28_CD ,_, 32_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC can_MD not_RB be_VB used_VBN for_IN efficient_JJ retrieval_NN of_IN subsequences_NNS ._.
+In_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- an_DT indexing_NN structure_NN is_VBZ proposed_VBN for_IN unconstrained_JJ DTWbased_JJ subsequence_NN matching_NN ,_, but_CC retrieval_NN complexity_NN is_VBZ still_RB linear_JJ to_TO the_DT

@@ -1,0 +1,3 @@
+iwala_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- extracted_VBD topic_NN information_NN from_IN Open_NNP Directory_NNP ,_, and_CC calculated_VBD a_DT PageRank_NN vector_NN for_IN each_DT of_IN the_DT categories_NNS by_IN boosting_VBG the_DT importance_NN of_IN the_DT pages_NNS belonging_VBG to_TO the_DT category_NN ._.
+Jeh_NN and_CC Widom_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: addressed_VBD the_DT personalization_NN of_IN PageRank_NN scores_NNS by_IN segmenting_VBG the_DT graph_NN into_IN subgraphs_NNS and_CC precalculating_VBG scores_NNS on_IN the_DT subsets_NNS enabling_VBG on_IN the_DT fly_NN combination_NN of_IN scores_NNS ._.
+Yet_RB another_DT recent_JJ study_NN -LRB-_-LRB- 7_CD

@@ -1,0 +1,4 @@
+t_NN and_CC confidence_NN range_NN over_IN -LRB-_-LRB- 0_CD ,_, 1_CD -RRB-_-RRB- ._.
+We_PRP omit_VBP the_DT subscripts_NNS in_IN suppD_NN -LRB-_-LRB- -RRB-_-RRB- and_CC confD_NN -LRB-_-LRB- -RRB-_-RRB- when_WRB clear_JJ from_IN the_DT context_NN ._.
+Since_IN the_DT seminal_JJ paper_NN by_IN Agrawal_NNP and_CC Srikant_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, a_DT number_NN of_IN well_RB explored_VBN algorithms_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN introduced_VBN in_IN order_NN to_TO extract_VB frequent_JJ itemsets_NNS ,_, i.e._FW itemsets_FW with_IN a_DT specified_VBN minimum_NN support_NN ,_, and_CC valid_JJ association_NN rules_NNS ,_, i.e._FW rules_NNS with_IN a_DT specified_VBN minimum_NN confidence_NN ._.
+3.2_CD Extended_JJ L_NN

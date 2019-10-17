@@ -1,0 +1,4 @@
+session_NN ti_NNS and_CC -LRB-_-LRB- Tp1_NN ,_, T_NN ti_FW p2_FW ,_, ..._: ,_, Tp_FW ti_FW m_NN -RRB-_-RRB- is_VBZ ti_IN the_DT corresponding_JJ normalized_VBN time_NN values_NNS ._.
+2.2_CD Session_NN Similarity_NN Measure_NN In_IN this_DT section_NN ,_, we_PRP propose_VBP a_DT session_NN similarity_NN measure_NN based_VBN on_IN FastLSA_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: sequence_NN alignment_NN method_NN ._.
+Since_IN user_NN sessions_NNS are_VBP ordered_VBN URL_NN request_NN ,_, we_PRP can_MD refer_VB them_PRP as_IN sequences_NNS of_IN Web_NN pages_NNS ._.
+The_DT problem_NN of_IN finding_VBG the_DT optimal_JJ sequence_NN alignment_NN is_VBZ solved_VBN using_VBG a_DT dynamic_JJ pr_NN

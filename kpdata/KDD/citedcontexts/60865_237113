@@ -1,0 +1,2 @@
+i_LS and_CC lj_NN ,_, for_IN a_DT given_VBN query_NN ,_, q_NN ,_, the_DT pairwise_JJ preference_NN ,_, li_FW <q lj, means that the user prefers lj to li for the query q. Using the notion of preferences, Joachims first proposed “Joachims’ algorithm” =-=[46]-=- for mining preferences from clickthrough data. The underlying idea of Joachims’ algorithm is as follows: a user does not click on a link, li, but clicks on a lower link, lj (j >_FW i_FW -RRB-_-RRB- ._.
+Assuming_VBG that_IN a_DT u_NN

@@ -1,0 +1,5 @@
+t_NN the_DT distances_NNS are_VBP maintained_VBN as_RB well_RB as_IN possible_JJ ._.
+Many_JJ mapping\/embedding_NN functions_NNS can_MD be_VB used_VBN ,_, such_JJ as_IN multidimensional_JJ scaling_NN -LRB-_-LRB- 23_CD ,_, 37_CD -RRB-_-RRB- ,_, FastMap_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, Lipschitz_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, SparseMap_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, and_CC MetricMap_NN =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT algorithms_NNS have_VBP different_JJ properties_NNS in_IN terms_NNS of_IN their_PRP$ efficiency_NN ,_, contractiveness_NN ,_, and_CC stress_NN ._.
+-LRB-_-LRB- See_VB -LRB-_-LRB- 17_CD -RRB-_-RRB- for_IN a_DT good_JJ survey_NN ._. -RRB-_-RRB-
+In_IN this_DT paper_NN we_PRP use_VBP the_DT FastMap_NNP algorithm_NN because_IN of_IN its_PRP$ efficien_NN

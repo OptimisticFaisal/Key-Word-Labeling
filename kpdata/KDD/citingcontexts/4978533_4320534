@@ -1,0 +1,5 @@
+st_IN to_TO associate_VB with_IN a_DT single_JJ malignant_JJ structure_NN ._.
+Random_JJ effects_NNS may_MD exist_VB in_IN patient_NN images_NNS from_IN the_DT same_JJ hospital_NN ,_, or_CC exist_VBP in_IN different_JJ candidates_NNS extracted_VBN from_IN the_DT same_JJ patient_NN ._.
+The_DT approach_NN in_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ to_TO use_VB additional_JJ mix-effect_JJ parameters_NNS ,_, each_DT for_IN one_CD hospital_NN ,_, or_CC for_IN one_CD patient_NN ._.
+All_DT these_DT algorithms_NNS improve_VBP the_DT classification_NN accuracy_NN significantly_RB ._.
+Unbalanced_JJ Data_NN and_CC Speed_NN In_IN the_DT c_NN

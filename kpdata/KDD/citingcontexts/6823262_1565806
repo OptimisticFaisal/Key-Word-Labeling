@@ -1,0 +1,4 @@
+gativity_NN ._.
+The_DT clustering_NN model_NN also_RB shares_VBZ some_DT common_JJ characteristics_NNS with_IN probability_NN matrix_NN decomposition_NN models_NNS in_IN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Our_PRP$ clustering_NN model_NN is_VBZ similar_JJ to_TO the_DT data_NNS and_CC feature_NN maps_NNS introduced_VBN in_IN =_JJ -_: =[_NN 41_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN -LRB-_-LRB- 41_CD -RRB-_-RRB- ,_, data_NNS and_CC feature_NN maps_NNS are_VBP two_CD functions_NNS from_IN the_DT data_NNS and_CC feature_NN sets_NNS to_TO the_DT number_NN of_IN clusters_NNS and_CC the_DT clustering_NN algorithm_NN is_VBZ based_VBN on_IN Maximum_NNP Likelihood_NNP Principle_NNP via_IN co-learning_JJ betwee_NN

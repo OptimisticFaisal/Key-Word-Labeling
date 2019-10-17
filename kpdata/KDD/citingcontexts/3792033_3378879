@@ -1,0 +1,3 @@
+Afterwards_RB ,_, these_DT term_NN frequency_NN -LRB-_-LRB- TF_NN -RRB-_-RRB- values_NNS are_VBP often_RB weighted_JJ to_TO down-weight_JJ frequent_JJ words_NNS ,_, e.g._FW by_IN multiplying_VBG the_DT term_NN frequency_NN values_NNS with_IN the_DT logarithm_NN of_IN the_DT inverse_JJ document_NN frequency_NN -LRB-_-LRB- IDF_NN -RRB-_-RRB- =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT Word_NNP Vector_NNP Tool_NNP plugin_NN 3_CD for_IN Yale_NNP provides_VBZ operators_NNS for_IN pre-processing_JJ operations_NNS as_IN stop_NN word_NN removal_NN ,_, word_NN stemming_VBG ,_, document_NN vector_NN generation_NN ,_, term_NN weighting_NN ,_, etc._NN ._.
+It_PRP allows_VBZ to_TO integrate_VB s_NN

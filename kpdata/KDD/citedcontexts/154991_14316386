@@ -1,0 +1,5 @@
+t_NN here_RB ._.
+In_IN our_PRP$ experiments_NNS ,_, we_PRP adopt_VBP a_DT highly_RB scalable_JJ Map-Reduce_NNP implementation_NN of_IN the_DT hard-clustering_JJ version_NN of_IN Clustering_NN by_IN Committee_NNP -LRB-_-LRB- CBC_NNP -RRB-_-RRB- ,_, a_DT state-of-the-art_JJ clustering_NN algorithm_NN presented_VBN in_IN -LRB-_-LRB- =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =--RRB-_NN ._.
+Context_NNP Feature_NNP Space_NNP ._.
+The_DT basic_JJ hypothesis_NN for_IN the_DT context_NN feature_NN space_NN ,_, is_VBZ that_IN an_DT entity_NN can_MD be_VB effectively_RB represented_VBN by_IN the_DT set_NN of_IN contexts_NNS in_IN which_WDT it_PRP appears_VBZ in_IN queries_NNS ._.
+This_DT allows_VBZ to_TO cap_VB

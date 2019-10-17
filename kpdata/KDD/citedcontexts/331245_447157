@@ -1,0 +1,4 @@
+mine_NN graphs_NNS using_VBG a_DT depthfirst_JJ tree-based_JJ extension_NN have_VBP been_VBN proposed_VBN in_IN -LRB-_-LRB- 36_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 37_CD -RRB-_-RRB- ._.
+Another_DT method_NN uses_VBZ a_DT candidate_NN generation_NN approach_NN based_VBN on_IN Canonical_JJ Adjacency_NN Matrices_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+The_DT GASTON_NNP method_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: adopts_VBZ an_DT interesting_JJ step-wise_JJ approach_NN using_VBG a_DT combination_NN of_IN path_NN ,_, free_JJ tree_NN ,_, and_CC ,_, finally_RB ,_, graph_NN mining_NN to_TO discover_VB all_DT frequent_JJ subgraphs_NNS ._.
+There_EX are_VBP important_JJ differences_NNS in_IN graph_NN mining_NN and_CC tre_NN

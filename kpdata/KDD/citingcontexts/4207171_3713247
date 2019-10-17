@@ -1,0 +1,4 @@
+cks_NNS -LRB-_-LRB- which_WDT are_VBP called_VBN tiles_NNS -RRB-_-RRB- of_IN size_NN 64-by-64_NN from_IN each_DT image_NN ,_, and_CC collect_VB in_IN 96_CD tiles_NNS per_IN image_NN ,_, or_CC 21,024_CD tiles_NNS in_IN total_NN ._.
+Each_DT tile_NN is_VBZ represented_VBN as_IN a_DT vector_NN of_IN 7_CD features_NNS ,_, exactly_RB as_IN suggested_VBN in_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Figure_NN 8_CD -LRB-_-LRB- a_DT -RRB-_-RRB- visualizes_VBZ the_DT distribution_NN of_IN the_DT image_NN tiles_NNS ._.
+The_DT distribution_NN is_VBZ viewed_VBN from_IN all_DT possible_JJ pairs_NNS of_IN dimensions_NNS --_: the_DT -LRB-_-LRB- i_FW ,_, j_NN -RRB-_-RRB- -_: subfigure_NN plots_NNS the_DT i-th_JJ dimension_NN versus_CC the_DT j-th_NN dimension_NN

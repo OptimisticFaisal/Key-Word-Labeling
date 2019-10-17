@@ -1,0 +1,3 @@
+ples_NNS include_VBP financial_JJ analysis_NN -LRB-_-LRB- Chen_NNP et_FW al._FW ,_, 2000_CD -RRB-_-RRB- ,_, network_NN monitoring_NN -LRB-_-LRB- Sullivan_NNP ,_, 1996_CD -RRB-_-RRB- ,_, sensor_NN networks_NNS -LRB-_-LRB- Chandrasekaran_NNP et_FW al._FW ,_, 2003_CD -RRB-_-RRB- ,_, web_NN logs_NNS and_CC click-streams_NNS ,_, telecommunication_NN data_NNS management_NN -LRB-_-LRB- =_JJ -_: =_JJ Cortes_NNP et_FW al._FW ,_, 2000_CD -_: =--RRB-_NN and_CC many_JJ others_NNS ._.
+These_DT applications_NNS are_VBP often_RB characterised_VBN by_IN high_JJ data_NN rates_NNS ,_, and_CC a_DT demand_NN for_IN real-time_JJ -LRB-_-LRB- or_CC near_IN real-time_JJ -RRB-_-RRB- responses_NNS ._.
+Traditional_JJ database_NN management_NN systems_NNS were_VBD designed_VBN to_TO man_VB

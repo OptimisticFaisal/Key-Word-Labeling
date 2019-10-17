@@ -1,0 +1,4 @@
+es_NNS are_VBP not_RB given_VBN any_DT special_JJ preference_NN during_IN importance_NN computation_NN ._.
+They_PRP proposed_VBD several_JJ methods_NNS for_IN computing_VBG relative_JJ importance_NN directly_RB from_IN citation_NN graph_NN ._.
+In_IN their_PRP$ view_NN ,_, Haveliwala_NNP 's_POS method_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT biases_NNS the_DT standard_JJ PageRank_NN importance_NN ranking_NN towards_IN a_DT root_NN set_NN of_IN prior_JJ topics_NNS ,_, can_MD be_VB thought_VBN of_IN as_IN a_DT measure_NN of_IN relative_JJ importance_NN as_RB well_RB ._.
+They_PRP formulate_VBP the_DT problems_NNS of_IN computing_NN rela_NN

@@ -1,0 +1,5 @@
+ons_NNS for_IN generating_VBG API_NNP cross-references_NNS ._.
+5.1_CD Alternative_NNP Measures_NNS Below_NNP are_VBP other_JJ possible_JJ measures_NNS we_PRP have_VBP investigated_VBN ._.
+Similarity_NN In_IN fact_NN ,_, our_PRP$ initial_JJ implementation_NN of_IN Altair_NNP was_VBD based_VBN on_IN SimRank_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT powerful_JJ measure_NN used_VBN to_TO compute_VB similarity_NN between_IN two_CD items_NNS ._.
+However_RB ,_, there_EX are_VBP several_JJ serious_JJ issues_NNS when_WRB using_VBG it_PRP to_TO generate_VB API_NN cross-references_NNS ._.
+First_RB ,_, it_PRP focuses_VBZ on_IN how_WRB two_CD functions_NNS are_VBP

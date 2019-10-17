@@ -1,0 +1,3 @@
+s._NN 3_CD In_IN particular_JJ ,_, McSherry_NNP and_CC Mironov_NNP point_NN to_TO the_DT potential_NN for_IN accurate_JJ personalized_JJ predictions_NNS to_TO compromise_VB the_DT privacy_NN of_IN an_DT individual_JJ -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+Anatomy_NNP is_VBZ a_DT grouping-based_JJ anonymization_NN method_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Given_VBN a_DT parameter_NN l_NN ,_, it_PRP partitions_VBZ the_DT input_NN data_NNS of_IN size_NN n_NN into_IN groups_NNS of_IN size_NN l_NN -LRB-_-LRB- and_CC some_DT of_IN size_NN l_NN +_CC 1_CD when_WRB l_NN does_VBZ not_RB divide_VB n_NN -RRB-_-RRB- ,_, such_JJ that_IN in_IN each_DT group_NN there_EX is_VBZ at_IN most_JJS one_CD tuple_NN for_IN any_DT given_VBN

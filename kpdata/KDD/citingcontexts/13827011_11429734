@@ -1,0 +1,4 @@
+asses_NNS ,_, repeated_JJ application_NN of_IN shapelets_NNS can_MD be_VB used_VBN -LRB-_-LRB- i.e._FW a_DT decision_NN tree-like_JJ structure_NN -RRB-_-RRB- to_TO predict_VB the_DT class_NN label_NN ._.
+Figure_NN 1_CD shows_VBZ examples_NNS of_IN shapelets_NNS found_VBN in_IN a_DT dataset_NN of_IN accelerometer_NN signals_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Every_DT time_NN series_NN in_IN the_DT dataset_NN corresponds_VBZ to_TO one_CD of_IN two_CD hand_NN motions_NNS performed_VBN by_IN an_DT actor_NN tracing_VBG a_DT circular_JJ or_CC rectangular_JJ path_NN through_IN the_DT air_NN with_IN an_DT input_NN device_NN ._.
+The_DT shapelet_NN denoted_VBN by_IN P_NN i_LS

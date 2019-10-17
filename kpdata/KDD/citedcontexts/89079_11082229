@@ -1,0 +1,4 @@
+ion_NN follows_VBZ ._.
+5_CD Word-skipping_JJ sequence-based_JJ motif_NN discovery_NN algorithm_NN Our_PRP$ sequence-based_JJ motif_NN discovery_NN algorithm_NN is_VBZ a_DT modification_NN of_IN the_DT PROJECTION_NN algorithm_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ similar_JJ to_TO the_DT Chiu_NNP et_FW al._FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: projection_NN algorithm_NN ,_, except_IN that_DT our_PRP$ sliding_VBG window_NN moves_NNS per_IN word_NN rather_RB than_IN per_IN character_NN ._.
+The_DT PROJECTION_NNP algorithm_NN is_VBZ an_DT efficient_JJ way_NN to_TO find_VB planted_VBN strings_NNS in_IN a_DT long_JJ sequence_NN of_IN characters_NNS ,_, a_DT

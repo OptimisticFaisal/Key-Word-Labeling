@@ -1,0 +1,4 @@
+e_LS maintaining_VBG the_DT access_NN to_TO the_DT existing_VBG XML_NN data_NNS ._.
+The_DT approach_NN employed_VBN to_TO allow_VB schemas_NNS to_TO evolve_VB depends_VBZ on_IN the_DT XML_NN schema_NN language_NN ._.
+The_DT two_CD most_RBS used_JJ schema_NN languages_NNS are_VBP DTD_NN and_CC XML_NN Schema_NN -LRB-_-LRB- XSD_NN -RRB-_-RRB- =_JJ -_: =[_NN 10_CD ,_, 68_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, XSD_NN is_VBZ more_RBR powerful_JJ than_IN DTD_NNP because_IN XSD_NNP ,_, unlike_IN DTD_NNP ,_, permits_VBZ decoupling_VBG an_DT element_NN tag_NN from_IN its_PRP$ type_NN -LRB-_-LRB- or_CC content_NN model_NN -RRB-_-RRB- ,_, and_CC an_DT element_NN may_MD have_VB different_JJ types_NNS depending_VBG on_IN the_DT context_NN -LRB-_-LRB-

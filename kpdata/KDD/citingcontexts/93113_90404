@@ -1,0 +1,4 @@
+ets_NN one_CD typically_RB finds_VBZ an_DT exponential_JJ number_NN of_IN frequent_JJ itemsets_NNS ._.
+For_IN example_NN ,_, finding_VBG long_JJ itemsets_NNS of_IN length_NN 30_CD or_CC 40_CD is_VBZ not_RB uncommon_JJ -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Methods_NNS for_IN finding_VBG the_DT maximal_JJ elements_NNS include_VBP All-MFS_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ a_DT randomized_JJ algorithm_NN to_TO discover_VB maximal_JJ frequent_JJ itemsets_NNS ._.
+The_DT Pincer-Search_JJ algorithm_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- not_RB only_RB constructs_NNS the_DT candidates_NNS in_IN a_DT bottomup_JJ manner_NN like_IN Apriori_NNP ,_, but_CC also_RB starts_VBZ a_DT top-dow_NN

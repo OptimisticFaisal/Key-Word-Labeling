@@ -1,0 +1,5 @@
+esearch_NN ._.
+•_CD The_DT use_NN of_IN an_DT inter-transactional_JJ association_NN rule_NN mining_NN algorithm_NN ,_, which_WDT allows_VBZ to_TO widen_VB our_PRP$ analysis_NN from_IN a_DT single_JJ commit_VB to_TO a_DT window_NN of_IN commits_VBZ that_WDT were_VBD made_VBN in_IN a_DT short_JJ amount_NN of_IN time_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+•_NN Traversing_VBG the_DT change_NN history_NN with_IN a_DT sliding_VBG window_NN ,_, so_IN that_IN time-intervals_NNS can_MD be_VB studied_VBN more_RBR in_IN depth_NN ,_, details_NNS become_VBP more_RBR clear_JJ and_CC trends_NNS can_MD be_VB identified_VBN ._.
+Acknowledgments_NNS ._.
+We_PRP would_MD like_VB to_TO

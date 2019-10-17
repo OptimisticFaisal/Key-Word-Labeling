@@ -1,0 +1,6 @@
+t_NN in_IN other_JJ application_NN domains_NNS in_IN the_DT research_NN field_NN ._.
+A_DT cut-through_JJ switch_NN can_MD send_VB out_RP a_DT portion_NN of_IN a_DT packet_NN before_IN the_DT entire_JJ packet_NN is_VBZ received_VBN ._.
+A_DT ``_`` segment-based_JJ proxy_NN cache_NN of_IN multimedia_NNS streams_NNS ''_'' =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: treats_VBZ the_DT whole_JJ video_NN as_IN variable-sized_JJ segments_NNS ._.
+Chi_NNP et_FW al._FW -LRB-_-LRB- 12_CD -RRB-_-RRB- discussed_VBD on-the-fly_JJ compression\/decompression_NN on_IN a_DT Web_NN proxy_NN ._.
+3_LS ._.
+Design_NN issues_NNS 3.1_CD Overheads_NNS in_IN a_DT storage-based_JJ mail_NN proxy_NN AMaViS_FW i_FW

@@ -1,0 +1,3 @@
+t_NN individual_JJ features_NNS with_IN a_DT supervised_JJ algorithm_NN ._.
+We_PRP compare_VBP the_DT performance_NN of_IN the_DT following_JJ classifiers_NNS :_: J48_NN -LRB-_-LRB- equivalent_JJ to_TO C4_NN .5_CD -LRB-_-LRB- 20_CD -RRB-_-RRB- -RRB-_-RRB- ,_, Naïve_NNP Bayes_NNP ,_, model_NN trees_NNS with_IN linear_JJ regression_NN on_IN the_DT leaves_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC random_JJ forests_NNS -LRB-_-LRB- 10_CD trees_NNS ,_, 4_CD random_JJ features_NNS each_DT -RRB-_-RRB- -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+We_PRP run_VBP 10-fold_RB cross_JJ validation_NN over_IN 20_CD different_JJ training_NN set_NN sampled_VBN over_IN each_DT prediction_NN dataset_NN and_CC we_PRP consider_VBP the_DT AUC_NN value_NN as_IN an_DT ov_NN

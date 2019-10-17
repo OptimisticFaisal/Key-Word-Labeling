@@ -1,0 +1,6 @@
+q_RB ,_, mutual_JJ information_NN I_CD -LRB-_-LRB- x_NN ,_, -RRB-_-RRB- is_VBZ defined_VBN as_IN I_NN -LRB-_-LRB- X_NN ,_, Y_NN -RRB-_-RRB- =_JJ F._NNP jq_NN Pjq_NN log_NN -LRB-_-LRB- Pjq_NN \/_: Pj_NN ._.
+P._FW q_FW -RRB-_-RRB- ._.
+where_WRB we_PRP use_VBP base_NN two_CD logarithm_NN if_IN the_DT information_NN units_NNS are_VBP bits_NNS ._.
+This_DT measure_NN is_VBZ widely_RB used_VBN in_IN information_NN theory_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: and_CC machine_NN learning_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ sometimes_RB referred_VBN to_TO as_IN information_NN gain_NN ,_, due_JJ to_TO a_DT property_NN that_IN it_PRP is_VBZ equal_JJ to_TO a_DT decrease_NN in_IN entropy_NN H_NN -LRB-_-LRB- -RRB-_-RRB- -_: H_NN -LRB-_-LRB- I_NN X_NN -RRB-_-RRB- caused_VBN by_IN knowing_VBG x_NN ,_, where_WRB H_NN -LRB-_-LRB- X_NN -RRB-_-RRB- =_JJ -_: ._.
+q_FW P._FW q_FW 1_CD

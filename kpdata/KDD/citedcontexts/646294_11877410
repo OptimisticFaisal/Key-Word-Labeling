@@ -1,0 +1,5 @@
+chnique_NN ,_, we_PRP no_RB longer_RB needed_VBD the_DT suggestion_NN lists_NNS ,_, and_CC the_DT visualization_NN became_VBD the_DT primary_JJ workspace_NN in_IN Apolo_NNP ._.
+System_NNP Implementation_NNP The_NNP Apolo_NNP system_NN is_VBZ written_VBN in_IN Java_NNP 1.6_CD ._.
+It_PRP uses_VBZ the_DT JUNG_NNP library_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: for_IN visualizing_VBG the_DT network_NN ._.
+The_DT network_NN data_NNS is_VBZ stored_VBN in_IN an_DT SQLite_NN 1_CD embedded_JJ database_NN ,_, for_IN its_PRP$ crossplatform_NN portability_NN and_CC scalability_NN up_IN to_TO tens_NNS of_IN gigabytes_NNS ._.
+One_CD of_IN our_PRP$ goals_NNS is_VBZ to_TO offer_VB Apolo_NNP

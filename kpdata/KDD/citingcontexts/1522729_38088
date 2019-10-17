@@ -1,0 +1,3 @@
+l_NN in_IN B_NN 's_POS probability_NN tables_NNS optimally_RB :_: namely_RB ,_, we_PRP simply_RB use_VBP the_DT empirical_JJ distributions_NNS appearing_VBG in_IN D._NNP However_RB ,_, even_RB with_IN complete_JJ data_NNS ,_, the_DT problem_NN of_IN finding_VBG the_DT best_JJS network_NN structure_NN is_VBZ NP-hard_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Learning_VBG a_DT Bayesian_JJ network_NN is_VBZ thus_RB typically_RB done_VBN by_IN using_VBG a_DT search_NN procedure_NN to_TO find_VB a_DT network_NN B_NN that_WDT maximizes_VBZ -LRB-_-LRB- or_CC at_IN least_JJS hopefully_RB comes_VBZ close_JJ to_TO maximizing_VBG -RRB-_-RRB- a_DT scoring_VBG function_NN C_NN -LRB-_-LRB- B_NN ;D_NN -RRB-_-RRB- ._.
+A_DT popul_NN

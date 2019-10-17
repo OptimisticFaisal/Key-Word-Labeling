@@ -1,0 +1,6 @@
+interest_NN ,_, time_NN series_NN :_: Definition_NN 1_CD ._.
+Time_NNP Series_NNP :_: A_DT time_NN series_NN T_NN =_JJ t_NN 1_CD ,_, ..._: ,_, tm_NN is_VBZ an_DT ordered_VBN set_NN of_IN m_NN real-valued_JJ variables_NNS ._.
+Time_NN series_NN can_MD be_VB very_RB long_RB ,_, sometimes_RB containing_VBG trillions_NNS of_IN observations_NNS =_JJ -_: =[_NN 12_CD ,_, 32_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP are_VBP typically_RB not_RB interested_JJ in_IN any_DT of_IN the_DT global_JJ properties_NNS of_IN a_DT time_NN series_NN ;_: rather_RB ,_, we_PRP are_VBP interested_JJ in_IN subsections_NNS of_IN the_DT time_NN series_NN ,_, which_WDT are_VBP called_VBN subsequences_NNS ._.
+Definition_NN 2_CD ._.
+Subsequenc_NN

@@ -1,0 +1,4 @@
+t_NN presents_VBZ a_DT new_JJ general_JJ criterion_NN and_CC formulation_NN for_IN building_VBG affine_JJ projections_NNS of_IN the_DT data_NNS for_IN privacy_NN preservation_NN ._.
+This_DT criterion_NN differs_VBZ from_IN that_DT used_VBN in_IN the_DT standard_JJ random_JJ projection_NN method_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+•_VB It_PRP demonstrates_VBZ how_WRB this_DT criterion_NN can_MD be_VB used_VBN to_TO learn_VB Cox_NNP regression_NN models_NNS for_IN survival_NN analysis_NN ._.
+•_VB It_PRP applies_VBZ the_DT methodology_NN to_TO a_DT real_JJ problem_NN of_IN interest_NN in_IN the_DT clinical_JJ domain_NN by_IN learning_VBG s_NN

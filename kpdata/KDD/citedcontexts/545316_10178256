@@ -1,0 +1,5 @@
+etrics_NNS ._.
+The_DT five_CD metrics_NNS are_VBP :_: accuracy_NN ,_, AUC_NN ,_, F-measure_NN ,_, Root_NN Mean_NN Squared_VBD error_NN -LRB-_-LRB- RMS_NNP -RRB-_-RRB- ,_, and_CC Mean_NN Cross_NN Entropy_NN -LRB-_-LRB- MXE_NN -RRB-_-RRB- ._.
+Definitions_NNS of_IN these_DT metrics_NNS can_MD be_VB found_VBN in_IN Appendix_NNP ._.
+Caruana_NNP and_CC Niculescu-Mizil_NNP =_SYM -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: suggested_VBD that_IN when_WRB the_DT goal_NN metric_NN is_VBZ unknown_JJ during_IN model_NN construction_NN and_CC model_NN selection_NN ,_, one_PRP could_MD use_VB the_DT average_NN of_IN several_JJ different_JJ metrics_NNS as_IN the_DT goal_NN metric_NN ._.
+Here_RB we_PRP use_VBP the_DT average_NN of_IN the_DT

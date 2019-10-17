@@ -1,0 +1,5 @@
+An_DT Illustrative_JJ Example_NN We_PRP first_RB present_VBP a_DT simple_JJ example_NN demonstrating_VBG the_DT usefulness_NN of_IN the_DT method_NN ._.
+We_PRP use_VBP the_DT KSL_NNP dataset_NN of_IN Danish_JJ 70_CD year_NN olds_NNS ,_, distributed_VBN with_IN the_DT DEAL_NN Bayesian_JJ network_NN package_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX are_VBP nine_CD attributes_NNS ,_, described_VBN in_IN Table_NNP 1_CD ,_, related_VBN to_TO the_DT person_NN 's_POS general_JJ health_NN and_CC lifestyle_NN ._.
+All_DT continuous_JJ attributes_NNS have_VBP been_VBN discretized_VBN into_IN 3_CD levels_NNS using_VBG the_DT equal_JJ weight_NN method_NN ._.
+FE_NNP

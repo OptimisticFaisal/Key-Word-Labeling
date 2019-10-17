@@ -1,0 +1,4 @@
+tort_NN the_DT true_JJ underlying_JJ patterns_NNS ._.
+In_IN the_DT presence_NN of_IN noise_NN ,_, the_DT exact_JJ frequent_JJ itemset_NN mining_NN algorithms_NNS will_MD discover_VB multiple_JJ fragmented_JJ patterns_NNS ,_, but_CC miss_VBP the_DT longer_JJR true_JJ patterns_NNS ._.
+Recent_JJ studies_NNS =_JJ -_: =[_NN 11_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: try_VB to_TO recover_VB the_DT true_JJ patterns_NNS in_IN the_DT presence_NN of_IN noise_NN ,_, by_IN allowing_VBG a_DT small_JJ fraction_NN of_IN errors_NNS in_IN the_DT itemsets_NNS ._.
+While_IN some_DT interesting_JJ patterns_NNS are_VBP recovered_VBN ,_, a_DT large_JJ number_NN of_IN ``_`` uninteresting_JJ ''_'' can_MD

@@ -1,0 +1,4 @@
+search_NN -LRB-_-LRB- 13_CD ,_, 18_CD ,_, 19_CD ,_, 5_CD -RRB-_-RRB- ._.
+On_IN the_DT other_JJ hand_NN ,_, correlation_NN mining_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- is_VBZ always_RB used_VBN to_TO discovery_NN the_DT underlying_VBG dependency_NN between_IN objects_NNS ,_, such_JJ as_IN market-basket_JJ databases_NNS -LRB-_-LRB- 2_CD ,_, 10_CD -RRB-_-RRB- ,_, multimedia_NNS databases_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: and_CC so_RB on_RB ._.
+Ke_NNP et_FW al._FW first_RB propose_VBP correlation_NN sub-graph_JJ search_NN in_IN graph_NN databases_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Formally_RB ,_, correlation_NN sub-graph_JJ search_NN -LRB-_-LRB- CGSearch_NN for_IN short_JJ -RRB-_-RRB- is_VBZ defined_VBN as_IN follows_VBZ -LRB-_-LRB- 8_CD -RRB-_-RRB- :_: Given_VBN a_DT query_NN graph_NN Q_NNP an_DT

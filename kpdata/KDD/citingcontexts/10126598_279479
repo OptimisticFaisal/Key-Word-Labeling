@@ -1,0 +1,4 @@
+anomalies_NNS along_IN a_DT stream_NN time_NN series_NN or_CC trajectory_NN streams_NNS where_WRB no_DT fixed_JJ pattern_NN exists_VBZ ._.
+A_DT lot_NN of_IN research_NN work_NN has_VBZ been_VBN conducted_VBN for_IN mining_NN distancebased_JJ anomaly_NN -LRB-_-LRB- outlier_NN -RRB-_-RRB- in_IN traditional_JJ databases_NNS =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT common_JJ solution_NN for_IN distance-based_JJ anomaly_JJ detection_NN applies_VBZ a_DT nested_JJ loop_NN to_TO count_VB range_NN neighbors_NNS for_IN every_DT anomaly_JJ candidate_NN ._.
+Knorr_NN and_CC Ng_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- develop_VBP a_DT CELL-based_JJ method_NN which_WDT can_MD efficient_JJ

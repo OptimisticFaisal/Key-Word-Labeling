@@ -1,0 +1,3 @@
+Time_NNP Warping_NNP distance_NN does_VBZ not_RB satisfy_VB the_DT triangle_NN inequality_NN ,_, the_DT use_NN of_IN FastMap_NNP might_MD result_VB in_IN a_DT number_NN of_IN false_JJ dismissals_NNS ._.
+The_DT problem_NN of_IN the_DT high_JJ cost_NN of_IN DTW_NN was_VBD also_RB addressed_VBN by_IN Keogh_NNP et_FW al._FW =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP introduced_VBD the_DT Piecewise_NNP Dynamic_NNP Time_NNP Warping_NNP -LRB-_-LRB- PDTW_NNP -RRB-_-RRB- distance_NN ,_, which_WDT approximates_VBZ the_DT dynamic_JJ time_NN warping_VBG distance_NN using_VBG only_RB the_DT Piecewise_NNP Aggregate_NNP Approximation_NNP -LRB-_-LRB- PAA_NNP -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- data_NNS representati_NNS

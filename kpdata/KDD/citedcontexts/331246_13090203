@@ -1,0 +1,5 @@
+ten_CD applies_VBZ the_DT MRF_NNP model_NN on_IN images_NNS ._.
+However_RB ,_, it_PRP does_VBZ not_RB rank_VB nodes_NNS based_VBN on_IN relevance_NN within_IN a_DT cluster_NN ._.
+Proximitybased_JJ algorithms_NNS ,_, such_JJ as_IN Random_NNP Walk_VBP with_IN Restart_NN -LRB-_-LRB- RWR_NN -RRB-_-RRB- ,_, give_VB graded_VBN node_NN relevance_NN =_JJ -_: =[_NN 4_CD ,_, 9_CD ,_, 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC some_DT of_IN them_PRP support_VBP user_NN feedback_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, but_CC all_DT of_IN them_PRP do_VBP not_RB support_VB clustering_NN multiple_JJ groups_NNS ._.
+To_TO summarize_VB ,_, none_NN of_IN the_DT above_JJ research_NN ideas_NNS supports_VBZ all_PDT the_DT functionalities_NNS of_IN SHIFTR_NN ._.
+SHI_NN

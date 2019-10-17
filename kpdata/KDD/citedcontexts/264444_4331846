@@ -1,0 +1,7 @@
+on_IN happens_VBZ at_IN the_DT domain_NN level_NN ._.
+When_WRB an_DT attribute_NN value_NN is_VBZ generalised_VBN ,_, every_DT occurrence_NN of_IN the_DT value_NN is_VBZ replaced_VBN by_IN the_DT new_JJ generalised_VBN value_NN ._.
+Most_JJS working_NN models_NNS are_VBP global_JJ recoding_VBG models_NNS ,_, such_JJ as_IN =_JJ -_: =[_NN 20_CD ,_, 14_CD ,_, 6_CD ,_, 19_CD ,_, 12_CD ,_, 23_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: 1_CD ._.
+A_DT global_JJ recoding_NN method_NN may_MD over-generalise_VB a_DT table_NN ._.
+An_DT example_NN of_IN global_JJ recoding_NN is_VBZ given_VBN in_IN Table_NNP 1c_NNP ._.
+A_DT local-recoding_JJ method_NN generalises_NNS attribute_VBP values_NNS at_IN cell_NN level_NN ._.
+A_DT generalised_JJ attribu_NN

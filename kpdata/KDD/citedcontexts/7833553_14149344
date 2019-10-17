@@ -1,0 +1,3 @@
+only_RB 73_CD %_NN of_IN the_DT latter_NN 's_POS weight_NN ._.
+-LRB-_-LRB- b_LS -RRB-_-RRB- 1.3_CD PriorWork_NN Weightfunctions_NNS :_: Early_JJ work_NN on_IN defining_VBG edge_NN weights_NNS for_IN data_NNS graphs_NNS focused_VBN on_IN instance-level_JJ graphs_NNS ,_, where_WRB the_DT nodes_NNS are_VBP either_CC tuples_NNS or_CC values_NNS :_: =_JJ -_: =[_NN 17_CD ,_, 9_CD -RRB-_-RRB- -_: =_JJ -_: study_NN graphs_NNS with_IN homogenous_JJ edge_NN semantics_NNS -LRB-_-LRB- e.g._FW ,_, co-authorship_NN of_IN papers_NNS -RRB-_-RRB- ;_: -LRB-_-LRB- 13_CD -RRB-_-RRB- proposes_VBZ heuristic_NN weights_NNS for_IN RDF_NNP graphs_NNS ;_: in_IN the_DT keyword_JJ search_NN literature_NN ,_, edge_NN weights_NNS are_VBP typically_RB 1_CD ._.
+However_RB ,_, g_NN

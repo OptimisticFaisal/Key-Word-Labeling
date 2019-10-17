@@ -1,0 +1,4 @@
+solve_VB each_DT nonnegative_JJ least_JJS square_JJ sub-problem_NN exactly_RB ._.
+Among_IN existing_VBG methods_NNS ,_, -LRB-_-LRB- 18_CD -RRB-_-RRB- proposes_VBZ a_DT projected_JJ gradient_NN method_NN ,_, -LRB-_-LRB- 11_CD -RRB-_-RRB- uses_VBZ an_DT active_JJ set_NN method_NN ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- applies_VBZ a_DT projected_JJ Newton_NNP method_NN ,_, and_CC =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: suggests_VBZ a_DT modified_VBN active_JJ set_NN method_NN called_VBN BlockPivot_NNP for_IN solving_VBG the_DT non-negative_JJ least_JJS squares_NNS sub-problem_JJ ._.
+Very_RB recently_RB ,_, -LRB-_-LRB- 19_CD -RRB-_-RRB- developed_VBD a_DT parallel_JJ NMF_NN solver_NN for_IN largescale_JJ web_NN data_NNS ._.
+This_DT shows_VBZ

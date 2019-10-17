@@ -1,0 +1,3 @@
+similarity_NN scores_NNS ._.
+If_IN only_RB the_DT performance_NN at_IN a_DT very_RB low_JJ false-positive_JJ rate_NN matters_NNS ,_, TWEAK_NNP can_MD still_RB be_VB easily_RB adjusted_VBN by_IN modifying_VBG the_DT loss_NN function_NN using_VBG techniques_NNS such_JJ as_IN training_NN with_IN utility_NN -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP ,_, 1999_CD -_: =_JJ -_: ;_: Morik_NNP et_FW al._FW ,_, 1999_CD -RRB-_-RRB- ._.
+5_CD Related_NNP Work_NNP Our_NNP term-weighting_JJ learning_NN framework_NN can_MD be_VB analogous_JJ to_TO the_DT ``_`` Siamese_NNP ''_'' architecture_NN for_IN learning_VBG jointly_RB two_CD neural_JJ networks_NNS that_WDT share_VBP the_DT same_JJ set_NN of_IN model_NN wei_NN

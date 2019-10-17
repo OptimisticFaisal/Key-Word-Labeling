@@ -1,0 +1,3 @@
+orkflow_NN :_: data_NNS exploration_NN ,_, model_NN building_NN ,_, and_CC model_NN evaluation_NN ,_, all_DT over_IN a_DT very_RB large_JJ dataset_NN ._.
+For_IN illustrative_JJ purposes_NNS ,_, we_PRP use_VBP the_DT dataset_NN provided_VBN for_IN the_DT Netflix_NNP movie-recommendation_NN competition_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Although_IN the_DT competition_NN itself_PRP was_VBD based_VBN on_IN a_DT subset_NN of_IN just_RB 100M_CD movie_NN ratings_NNS ,_, our_PRP$ experiments_NNS on_IN a_DT Hadoop_NNP cluster_NN in_IN the_DT Amazon_NNP Elastic_NNP Compute_NNP Cloud_NNP -LRB-_-LRB- EC2_NN -RRB-_-RRB- indicate_VBP that_IN Ricardo_NNP can_MD scale_VB R_NN 's_POS fu_NN

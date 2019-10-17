@@ -1,0 +1,4 @@
+ill_RB not_RB combine_VB as_RB well_RB ,_, or_CC will_MD require_VB too_RB many_JJ rounds_NNS of_IN training_NN to_TO achieve_VB low_JJ error_NN rates_NNS ._.
+Measuring_VBG the_DT ``_`` competence_NN ''_'' of_IN each_DT classifier_NN before_IN combining_VBG them_PRP is_VBZ a_DT common_JJ approach_NN as_IN in_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+In_IN =_JJ -_: =[_NN 37_CD -RRB-_-RRB- -_: =_SYM -_: a_DT combination_NN of_IN spam_NN classifiers_NNS is_VBZ proposed_VBN ._.
+That_DT work_NN was_VBD limited_VBN to_TO training_VBG a_DT committee_NN of_IN classifiers_NNS on_IN a_DT subset_NN of_IN labeled_JJ data_NNS ,_, and_CC then_RB training_VBG a_DT `_`` president_NN '_'' classifier_NN using_VBG the_DT labeled_JJ d_NN

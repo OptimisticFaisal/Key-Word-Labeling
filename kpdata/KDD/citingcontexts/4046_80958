@@ -1,0 +1,6 @@
+cores_NNS into_IN probability_NN estimates_NNS using_VBG a_DT sigmoid_JJ function_NN ._.
+rate_NN class_NN membership_NN probability_NN estimates_NNS ,_, while_IN being_VBG faster_RBR ._.
+The_DT same_JJ method_NN can_MD be_VB applied_VBN to_TO naive_JJ Bayes_NNS ._.
+This_DT was_VBD proposed_VBN by_IN Bennett_NNP =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: for_IN the_DT Reuters_NNP dataset_NN ._.
+In_IN Figure_NNP 4_CD we_PRP show_VBP the_DT sigmoidal_JJ fit_NN to_TO the_DT naive_JJ Bayes_NNP scores_NNS for_IN the_DT Adult_NN and_CC TIC_NN datasets_NNS ._.
+The_DT sigmoidal_JJ shape_NN does_VBZ not_RB appear_VB to_TO fit_VB naive_JJ Bayes_NNP scores_NNS as_RB well_RB as_IN it_PRP fi_FW

@@ -1,0 +1,3 @@
+r_LS Technology_NNP Labs_NNPS Intel_NNP Corporation_NNP ,_, Santa_NNP Clara_NNP ,_, CA_NNP marzia.polito@intel.com_NNP In_IN this_DT paper_NN ,_, we_PRP consider_VBP the_DT problem_NN of_IN calculating_VBG fast_JJ and_CC accurate_JJ approximations_NNS to_TO the_DT personalized_VBN PageRank_NN score_NN -LRB-_-LRB- =_JJ -_: =[_NN 8_CD ,_, 16_CD -RRB-_-RRB- -_: =--RRB-_NN of_IN a_DT webpage_NN ._.
+We_PRP focus_VBP on_IN techniques_NNS to_TO improve_VB speed_NN by_IN limiting_VBG the_DT amount_NN of_IN webgraph_JJ data_NNS we_PRP need_VBP to_TO access_VB ._.
+PageRank_NN scores_NNS are_VBP mainly_RB used_VBN for_IN ranking_JJ purposes_NNS ,_, and_CC generally_RB only_RB the_DT scores_NNS e_SYM

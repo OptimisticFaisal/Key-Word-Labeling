@@ -1,0 +1,5 @@
+component_NN vectors_NNS in_IN Section_NNP 5_CD ._.
+The_DT von_NNP Mises-Fisher_NNP distribution_NN -LRB-_-LRB- vMF_NN distribution_NN -RRB-_-RRB- is_VBZ the_DT most_RBS natural_JJ distribution_NN for_IN directional_JJ data_NNS in_IN that_IN it_PRP can_MD be_VB derived_VBN using_VBG the_DT maximum_NN entropy_NN principle_NN =_JJ -_: =[_NN 1_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3.3_CD Problem_NNP Description_NN Here_RB ,_, we_PRP clearly_RB describe_VBP the_DT problem_NN once_RB more_JJR ._.
+Let_VB us_PRP assume_VB that_IN we_PRP have_VBP telemetry_NN data_NNS in_IN normal_JJ operation_NN ._.
+The_DT telemetry_NN data_NNS have_VBP thousands_NNS of_IN time_NN series_NN and_CC each_DT elem_NN

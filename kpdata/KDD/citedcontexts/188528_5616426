@@ -1,0 +1,6 @@
+s_NN on_IN the_DT local_JJ density_NN of_IN its_PRP$ neighborhood_NN ._.
+The_DT neighborhood_NN is_VBZ defined_VBN by_IN the_DT distance_NN to_TO the_DT MinPts-th_NNP nearest_JJS neighbor_NN ._.
+In_IN typical_JJ use_NN ,_, objects_NNS with_IN a_DT high_JJ LOF_NN are_VBP flagged_VBN as_IN outliers_NNS ._.
+Jin_NNP ,_, et_FW al._FW =_SYM -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: AusCERT2007_NNP R&D_NNP Stream_NNP 33sproposed_VBD an_DT algorithm_NN to_TO efficiently_RB discover_VB top-n_NN outliers_NNS using_VBG clusters_NNS ,_, for_IN a_DT particular_JJ value_NN of_IN MinPts_NNP ._.
+LOF_NN does_VBZ not_RB suffer_VB from_IN the_DT local_JJ density_NN problem_NN ._.
+However_RB ,_, s_NN

@@ -1,0 +1,4 @@
+shortest_JJS weighted_JJ path_NN in_IN the_DT network_NN ._.
+Entity-based_JJ features_NNS include_VBP such_JJ things_NNS as_IN various_JJ entity_NN attribute_NN similarity_NN measures_NNS ,_, -LRB-_-LRB- for_IN example_NN ,_, the_DT KL-divergence_NN of_IN two_CD entities_NNS '_POS topic_NN distributions_NNS =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: for_IN data_NNS sets_NNS that_WDT include_VBP text_NN -RRB-_-RRB- ,_, geographic_JJ proximity_NN ,_, and_CC similarity_NN of_IN journal_NN publication_NN patterns_NNS ._.
+•_NN classifier_NN :_: in_IN general_JJ any_DT classification_NN method_NN can_MD be_VB used_VBN for_IN this_DT problem_NN ._.
+In_IN practice_NN we_PRP

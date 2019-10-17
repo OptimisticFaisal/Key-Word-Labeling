@@ -1,0 +1,4 @@
+duct_NN extensive_JJ experiments_NNS to_TO show_VB that_IN our_PRP$ PCL_NNP classifier_NN is_VBZ more_RBR accurate_JJ than_IN the_DT C4_NN .5_CD family_NN of_IN algorithms_NNS ._.
+The_DT core_NN knowledge_NN patterns_NNS used_VBN in_IN PCL_NNP are_VBP called_VBN emerging_VBG patterns_NNS -LRB-_-LRB- or_CC EPs_NNS for_IN short_JJ -RRB-_-RRB- =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+By_IN definition_NN ,_, an_DT emerging_VBG pattern_NN is_VBZ an_DT itemset_NN whose_WP$ frequency_NN changes_NNS significantly_RB from_IN one_CD class_NN to_TO another_DT class_NN ._.
+If_IN we_PRP interpret_VBP an_DT item_NN as_IN a_DT condition_NN --_: the_DT pair_NN of_IN a_DT feature_NN and_CC its_PRP$ value_NN ,_, th_DT

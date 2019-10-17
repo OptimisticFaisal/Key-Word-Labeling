@@ -1,0 +1,5 @@
+end_VB the_DT Bloom_NNP filter_NN to_TO answer_VB multiplicity_NN queries_NNS ._.
+Counting_VBG distinct_JJ elements_NNS using_VBG the_DT Bloom_NNP filter_NN is_VBZ proposed_VBN by_IN Whang_NNP et_FW al._FW -LRB-_-LRB- 31_CD -RRB-_-RRB- ._.
+Another_DT branch_NN of_IN duplicate_VB detection_NN focus_NN on_IN fuzzy_JJ duplicates_NNS =_JJ -_: =[_NN 11_CD ,_, 1_CD ,_, 6_CD ,_, 30_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB the_DT distinction_NN between_IN elements_NNS is_VBZ not_RB straightforward_JJ to_TO see_VB ._.
+A_DT related_JJ problem_NN to_TO duplicate_VB detection_NN is_VBZ counting_VBG the_DT number_NN of_IN distinct_JJ elements_NNS ._.
+Flajolet_NNP and_CC Martin_NNP -LRB-_-LRB- 19_CD -RRB-_-RRB- propose_VBP a_DT bitmap_NN s_NN

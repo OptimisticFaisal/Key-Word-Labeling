@@ -1,0 +1,4 @@
+ent_NN of_IN data_NNS resources_NNS ._.
+Most_JJS current_JJ approaches_NNS address_VBP this_DT problem_NN for_IN structured_JJ or_CC semi-structured_JJ text_NN ,_, for_IN instance_NN ,_, from_IN XML_NN format_NN files_NNS or_CC lists_NNS and\/or_CC tabular_JJ data_NNS records_NNS on_IN webpages_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =_JJ Liu_NNP et_FW al._FW ,_, 2003_CD -_: =_JJ -_: ;_: Zhu_NNP et_FW al._FW ,_, 2006_CD -RRB-_-RRB- ._.
+The_DT techniques_NNS applied_VBN rely_VBP strongly_RB on_IN the_DT analysis_NN of_IN document_NN structure_NN derived_VBN from_IN the_DT webpage_NN 's_POS html_NN tags_NNS -LRB-_-LRB- e.g._FW ,_, the_DT DOM_NNP tree_NN model_NN -RRB-_-RRB- ._.
+Regarding_VBG unstructured_JJ text_NN ,_, most_JJS Infor_NNP

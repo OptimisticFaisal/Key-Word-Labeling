@@ -1,0 +1,4 @@
+and_CC boundary_NN parameters_NNS ._.
+One_CD of_IN the_DT earliest_JJS approaches_NNS used_VBD a_DT perceptron-based_JJ learning_NN technique_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, whereas_IN more_RBR recent_JJ techniques_NNS have_VBP made_VBN use_NN of_IN large_JJ margin_NN ideas_NNS ,_, such_JJ as_IN those_DT used_VBN in_IN SVMs_NNS =_JJ -_: =[_NN 5_CD ,_, 6_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Although_IN many_JJ of_IN the_DT large_JJ margin_NN methods_NNS have_VBP theoretically_RB strong_JJ error_NN rate_NN bounds_NNS ,_, they_PRP are_VBP often_RB infeasible_JJ to_TO train_VB on_IN large_JJ training_NN data_NNS sets_NNS ._.
+The_DT reason_NN for_IN this_DT is_VBZ that_IN most_JJS add_VB one_CD -LRB-_-LRB- or_CC mo_NN

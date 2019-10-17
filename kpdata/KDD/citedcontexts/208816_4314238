@@ -1,0 +1,3 @@
+arity_NN measure_NN chosen_VBN ._.
+Once_RB again_RB ,_, for_IN short_JJ time_NN series_NN such_JJ as_IN gene_NN expression_NN data_NNS ,_, Euclidian_JJ distance_NN and_CC DTW_NN work_NN very_RB well_RB ,_, but_CC for_IN long_JJ time_NN series_NN ,_, some_DT model-based_JJ technique_NN is_VBZ typically_RB used_VBN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =-[_NN 18_CD -RRB-_-RRB- -LRB-_-LRB- 34_CD -RRB-_-RRB- ._.
+2.1.3_CD Anomaly_JJ Detection_NN The_DT task_NN of_IN finding_VBG anomalies_NNS or_CC irregularities_NNS in_IN data_NNS has_VBZ been_VBN an_DT area_NN of_IN active_JJ research_NN ,_, which_WDT has_VBZ long_RB attracted_VBN the_DT attention_NN of_IN researchers_NNS in_IN biology_NN ,_, physics_NNS

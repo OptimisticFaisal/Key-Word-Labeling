@@ -1,0 +1,4 @@
+phs_NNS -LRB-_-LRB- 13_CD ,_, 14_CD -RRB-_-RRB- ._.
+Rather_RB than_IN growing_VBG a_DT graph_NN by_IN one_CD single_JJ node\/edge_NN at_IN a_DT time_NN ,_, Vanetik_NNP et_FW al._FW recently_RB proposed_VBD an_DT Apriori-based_JJ algorithm_NN using_VBG paths_NNS as_IN building_NN blocks_VBZ with_IN a_DT novel_JJ support_NN definition_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Algorithms_NNS in_IN the_DT second_JJ category_NN use_VBP a_DT depth-first_JJ search_NN to_TO enumerate_VB candidate_NN frequent_JJ subgraphs_NNS -LRB-_-LRB- 20_CD ,_, 21_CD ,_, 2_CD ,_, 10_CD -RRB-_-RRB- ._.
+As_IN demonstrated_VBN in_IN these_DT papers_NNS ,_, depth_NN first_JJ algorithms_NNS provide_VBP advantages_NNS over_IN

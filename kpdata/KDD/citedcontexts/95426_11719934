@@ -1,0 +1,4 @@
+immer_NN and_CC Grainger_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- searched_VBD for_IN candidate_NN models_NNS by_IN reweighting_VBG training_NN examples_NNS according_VBG to_TO how_WRB well_RB they_PRP fit_VBP future_JJ examples_NNS ._.
+Some_DT have_VBP maintained_VBN and_CC modified_VBN partially_RB learned_VBN models_NNS ,_, e.g._FW ,_, =_JJ -_: =[_NN 2_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Many_JJ have_VBP maintained_VBN and_CC compared_VBN ``_`` base_NN ''_'' models_NNS trained_VBN on_IN blocks_NNS of_IN consecutive_JJ examples_NNS to_TO identify_VB those_DT that_WDT are_VBP the_DT best_JJS predictors_NNS of_IN new_JJ examples_NNS ,_, e.g._FW ,_, -LRB-_-LRB- 4_CD ,_, 5_CD ,_, 6_CD ,_, 7_CD ,_, 8_CD -RRB-_-RRB- ._.
+We_PRP focus_VBP on_IN this_DT appr_NN

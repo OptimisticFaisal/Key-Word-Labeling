@@ -1,0 +1,6 @@
+y_NN shows_VBZ that_IN if_IN a_DT graph_NN satisfies_VBZ the_DT edge_NN connectivity_NN constraint_NN ,_, it_PRP must_MD satisfy_VB the_DT minimum_JJ degree_NN constraint_NN first_RB ._.
+We_PRP integrate_VBP the_DT minimum_JJ degree_NN constraint_NN with_IN the_DT mining_NN process_NN ._.
+Theorem_NN 1_CD ._.
+=_SYM -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: κ_NN -LRB-_-LRB- G_NN -RRB-_-RRB- ≤_FW σ_FW -LRB-_-LRB- G_NN -RRB-_-RRB- ._.
+Suppose_VB a_DT newly_RB discovered_VBN frequent_JJ graph_NN g_NN has_VBZ its_PRP$ minimum_JJ degree_NN less_JJR than_IN K._NNP We_PRP can_MD not_RB stop_VB searching_VBG its_PRP$ supergraphs_NNS since_IN they_PRP may_MD satisfy_VB the_DT constraint_NN ._.
+However_RB ,_, we_PRP can_MD check_VB the_DT

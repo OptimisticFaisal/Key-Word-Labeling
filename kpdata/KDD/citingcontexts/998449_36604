@@ -1,0 +1,4 @@
+a_DT ,_, as_IN it_PRP computes_VBZ a_DT final_JJ combined_JJ model_NN output_NN from_IN the_DT raw_JJ scores_NNS produced_VBN by_IN each_DT component_NN classifier_NN ._.
+5.2_CD Learned_JJ Weights_NNS -_: Weighted_NNP Majority_NNP The_DT weighted_JJ majority_NN function_NN is_VBZ an_DT adaptation_NN from_IN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Each_DT of_IN the_DT individual_JJ classifiers_NNS is_VBZ initially_RB assigned_VBN an_DT equal_JJ weight_NN vote_NN ._.
+During_IN training_NN ,_, a_DT threshold_NN is_VBZ chosen_VBN for_IN binary_JJ classification_NN -LRB-_-LRB- correct_JJ or_CC not_RB -RRB-_-RRB- and_CC a_DT tally_NN of_IN scores_NNS is_VBZ computed_JJ wit_NN

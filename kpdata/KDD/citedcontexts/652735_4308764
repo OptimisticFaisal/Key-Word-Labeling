@@ -1,0 +1,5 @@
+from_IN the_DT logs_NNS of_IN training_NN days_NNS ._.
+Because_IN users_NNS are_VBP randomly_RB sampled_VBN ,_, this_DT dataset_NN could_MD reflect_VB the_DT characteristics_NNS of_IN the_DT entire_JJ logs_NNS ._.
+It_PRP also_RB has_VBZ similar_JJ characteristics_NNS of_IN those_DT in_IN existing_VBG reports_NNS =_JJ -_: =[_NN 27_CD ,_, 37_CD ,_, 11_CD ,_, 36_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP show_VBP detailed_JJ statistics_NNS of_IN the_DT dataset_NN in_IN the_DT following_JJ sections_NNS ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- 585_CD Table_NNP 1_CD :_: Basic_JJ statistics_NNS of_IN dataset_FW Item_FW ALL_NN Training_NN Test_NN #days_VBZ 12_CD 11_CD 1_CD #users_NNS 10,000_CD 10,000_CD 1,792_CD #queries_NNS 55,937_CD 51_CD ,_,

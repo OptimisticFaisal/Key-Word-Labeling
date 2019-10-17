@@ -1,0 +1,5 @@
+sed_VBN -LRB-_-LRB- 21_CD ,_, 22_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+For_IN other_JJ schemes_NNS ,_, locatability_NN is_VBZ not_RB perfect_JJ but_CC our_PRP$ experiments_NNS suggest_VBP that_IN using_VBG simple_JJ heuristics_NNS can_MD locate_VB a_DT person_NN 's_POS group_NN with_IN good_JJ probability_NN ._.
+For_IN example_NN ,_, microaggregation_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: clusters_NNS individuals_NNS based_VBN on_IN Euclidean_JJ distance_NN ._.
+The_DT vectors_NNS of_IN non-sensitive_JJ values_NNS in_IN each_DT group_NN are_VBP replaced_VBN by_IN the_DT centroid_NN -LRB-_-LRB- i.e._FW ,_, average_NN -RRB-_-RRB- of_IN the_DT vectors_NNS ._.
+The_DT simplest_JJS heuristic_NN for_IN locating_VBG an_DT

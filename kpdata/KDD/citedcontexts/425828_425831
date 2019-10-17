@@ -1,0 +1,5 @@
+the_DT traditional_JJ model_NN for_IN mining_NN frequent_JJ itemsets_NNS is_VBZ that_IN all_PDT the_DT items_NNS are_VBP treated_VBN uniformly_RB ,_, but_CC real_JJ items_NNS have_VBP different_JJ importance_NN ._.
+For_IN this_DT reason_NN ,_, weighted_JJ frequent_JJ itemset_NN mining_NN algorithms_NNS =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN suggested_VBN ._.
+The_DT items_NNS are_VBP given_VBN different_JJ weights_NNS in_IN the_DT transaction_NN database_NN ._.
+The_DT main_JJ focus_NN in_IN weighted_JJ frequent_JJ itemset_NN mining_NN concerns_NNS satisfying_VBG the_DT downward_JJ closure_NN property_NN ._.
+The_DT downw_NN

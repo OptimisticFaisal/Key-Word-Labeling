@@ -1,0 +1,3 @@
+nse_NN measurement_NN -RRB-_-RRB- -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+In_IN commercial_JJ systems_NNS ,_, however_RB ,_, it_PRP is_VBZ more_RBR practical_JJ to_TO estimate_VB di_FW ,_, j_NN from_IN some_DT indirect_JJ information_NN ,_, since_IN capturing_VBG server_NN logs_NNS causes_VBZ additional_JJ load_NN ._.
+Recently_RB ,_, Gupta_NNP et_FW al._FW =_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD an_DT algorithm_NN where_WRB di_FW ,_, j_NN is_VBZ defined_VBN as_IN the_DT probability_NN that_IN the_DT duration_NN of_IN a_DT transaction_NN -LRB-_-LRB- an_DT instance_NN of_IN a_DT service_NN i_LS -RRB-_-RRB- contains_VBZ the_DT duration_NN of_IN another_DT transaction_NN -LRB-_-LRB- an_DT instance_NN of_IN a_DT service_NN j_NN

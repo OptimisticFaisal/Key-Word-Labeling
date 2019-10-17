@@ -1,0 +1,6 @@
+archy_NNP ._.
+•_NNP Challenge_NNP 3_CD :_: Scaling_VBG the_DT network_NN analysis_NN ._.
+In_IN network_NN data_NNS ,_, the_DT number_NN of_IN possible_JJ links_NNS grows_VBZ quadratically_RB with_IN the_DT number_NN of_IN nodes_NNS ._.
+This_DT limits_VBZ the_DT scalability_NN of_IN many_JJ previous_JJ techniques_NNS =_JJ -_: =[_NN 2_CD ,_, 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN contrast_NN ,_, TopicBlock_NNP 's_POS complexity_NN scales_NNS linearly_RB with_IN the_DT number_NN of_IN nodes_NNS and_CC the_DT depth_NN of_IN the_DT hierarchy_NN ._.
+This_DT is_VBZ possible_JJ due_JJ to_TO the_DT hierarchicallystructured_JJ latent_JJ representation_NN ,_, which_WDT has_VBZ th_DT

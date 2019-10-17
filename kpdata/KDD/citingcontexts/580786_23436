@@ -1,0 +1,6 @@
+with_IN the_DT same_JJ random_JJ samples_NNS ._.
+Selective_JJ sampling_NN achieves_VBZ higher_JJR accuracy_NN at_IN each_DT iteration_NN -LRB-_-LRB- or_CC each_DT number_NN of_IN training_NN samples_NNS -RRB-_-RRB- ._.
+We_PRP selected_VBD four_CD samples_NNS at_IN each_DT iteration_NN -LRB-_-LRB- i.e._FW ,_, l_NN =_JJ 4_CD -RRB-_-RRB- ._.
+References_NNS =_JJ -_: =[_NN 12_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: observe_VB similar_JJ behaviors_NNS for_IN classification_NN problems_NNS ._.
+5.2_CD Experiment_NN on_IN Real_NNP Data_NNP This_NNP section_NN performs_VBZ experiments_NNS with_IN a_DT real-life_JJ house_NN dataset_NN extracted_VBN from_IN realtor.com_NNP ._.
+We_PRP extracted_VBD all_PDT the_DT fo_NN

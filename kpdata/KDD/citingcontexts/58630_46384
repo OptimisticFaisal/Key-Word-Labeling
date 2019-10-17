@@ -1,0 +1,4 @@
+n_NN clusters_NNS -LRB-_-LRB- columns_NNS -RRB-_-RRB- and_CC groups_NNS -LRB-_-LRB- rows_NNS -RRB-_-RRB- ._.
+Each_DT cell_NN count_NN nij_NN is_VBZ the_DT number_NN of_IN common_JJ elements_NNS in_IN cluster_NN j_NN and_CC group_NN i._NN 4.2_CD The_DT TDT_NN dataset_NN We_PRP used_VBD the_DT Topic_JJ Detection_NN and_CC Tracking_VBG document_NN collection_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: for_IN our_PRP$ examples_NNS ._.
+The_DT documents_NNS are_VBP news_NN stories_NNS from_IN Reuters_NNP and_CC CNN_NNP for_IN the_DT year_NN from_IN July_NNP 1st_CD 1994_CD to_TO June_NNP 30th_JJ 1995_CD ,_, and_CC they_PRP are_VBP ordered_VBN according_VBG to_TO the_DT time_NN and_CC date_NN of_IN the_DT story_NN ._.
+There_EX are_VBP 15_CD

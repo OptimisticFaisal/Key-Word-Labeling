@@ -1,0 +1,4 @@
+sample_NN patterns_NNS ._.
+The_DT motivation_NN of_IN the_DT ensemble_NN approach_NN is_VBZ to_TO reduce_VB the_DT criticality_NN of_IN the_DT parameter_NN selection_NN in_IN the_DT mining_NN process_NN ._.
+Ensemble_NN approaches_NNS such_JJ as_IN Random_JJ Subspace_NN and_CC Feature_NN Bagging_NN =_JJ -_: =[_NN 9_CD ,_, 19_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN applied_VBN to_TO high-dimensional_JJ ,_, noisy-featured_JJ data_NNS ._.
+In_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, anomaly_JJ scores_NNS computed_VBN with_IN randomly_RB generated_VBN subspaces_NNS of_IN the_DT data_NNS are_VBP aggregated_VBN with_IN cumulative_JJ sum_NN and_CC Breadth-First_JJ approach_NN

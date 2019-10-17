@@ -1,0 +1,5 @@
+see_VB below_IN -RRB-_-RRB- were_VBD removed_VBN for_IN both_DT the_DT stemming_VBG and_CC not_RB stemming_VBG cases_NNS ._.
+3.3.2_CD Part-of-Speech_NN -LRB-_-LRB- POS_NN -RRB-_-RRB- Part-of-Speech_NN -LRB-_-LRB- POS_NN -RRB-_-RRB- is_VBZ a_DT popular_JJ feature_NN type_NN in_IN text_NN sentiment_NN analysis_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- and_CC text_NN style_NN analysis_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Other_JJ MIR_NN studies_NNS on_IN lyrics_NNS have_VBP also_RB used_VBN POS_NN features_NNS -LRB-_-LRB- 6,19_CD -RRB-_-RRB- ._.
+We_PRP used_VBD the_DT Stanford_NNP POS_NNP tagger_NN 7_CD which_WDT tags_NNS each_DT word_NN with_IN one_CD of_IN 36_CD unique_JJ POS_NN tags_NNS ._.
+3.3.3_CD Function_NN Words_NNS Function_NN words_NNS -LRB-_-LRB- e.g._FW the_DT ,_,

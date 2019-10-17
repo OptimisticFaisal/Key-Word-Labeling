@@ -1,0 +1,4 @@
+ype_NN distances_NNS from_IN the_DT discriminative_JJ perspective_NN ._.
+1.1_CD Motivation_NN and_CC Related_NNP Work_NNP There_EX are_VBP several_JJ application_NN domains_NNS where_WRB clustering_NN based_VBN on_IN minimizing_VBG Euclidean_JJ distortions_NNS yields_VBZ poor_JJ results_NNS =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, empirical_JJ studies_NNS in_IN information_NN retrieval_NN applications_NNS show_VBP that_IN cosine_NN similarity_NN is_VBZ a_DT far_RB more_RBR effective_JJ measure_NN of_IN similarity_NN for_IN analyzing_NN and_CC clustering_NN text_NN documents_NNS ._.
+Such_JJ domai_NNS

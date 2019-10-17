@@ -1,0 +1,3 @@
+unnoticed_JJ because_IN ,_, unlike_IN their_PRP$ counterparts_NNS in_IN information_NN retrieval_NN ,_, many_JJ researchers_NNS in_IN the_DT database_NN and_CC data_NN mining_NN community_NN evaluate_VBP algorithms_NNS without_IN considering_VBG precision\/recall_NN or_CC accuracy_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT work_NN ,_, we_PRP introduce_VBP a_DT new_JJ distance_NN measure_NN and_CC empirically_RB show_VB its_PRP$ utility_NN with_IN thorough_JJ experiments_NNS measuring_VBG the_DT precision\/recall_NN and_CC accuracy_NN ._.
+While_IN we_PRP will_MD demonstrate_VB that_IN our_PRP$ measure_NN i_FW

@@ -1,0 +1,4 @@
+dimension_NN will_MD be_VB clear_JJ from_IN the_DT context_NN ._.
+Superscript_JJ T_NN will_MD denote_VB transpose_NN for_IN vectors_NNS ._.
+The_DT following_VBG multi-class_JJ datasets_NNS are_VBP used_VBN in_IN the_DT paper_NN for_IN doing_VBG various_JJ experiments_NNS :_: NEWS20_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, SECTOR_NN =_JJ -_: =[_NN 20_CD ,_, 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, MNIST_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, RCV1_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC COVER_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+RCV1_NN is_VBZ a_DT taxonomy_NN based_VBN multi-label_JJ dataset_NN and_CC so_RB we_PRP modified_VBD it_PRP to_TO a_DT multi-class_JJ dataset_NN by_IN removing_VBG all_DT examples_NNS which_WDT had_VBD mismatched_VBN labels_NNS in_IN the_DT taxonomy_NN

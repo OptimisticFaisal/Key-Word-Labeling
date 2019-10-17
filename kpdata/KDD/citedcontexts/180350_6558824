@@ -1,0 +1,4 @@
+for_IN 5_CD different_JJ writers_NNS ._.
+We_PRP extract_VBP 5_CD recording_NN for_IN each_DT of_IN following_VBG 10_CD words_NNS :_: ``_`` Norway_NNP ''_'' ,_, ``_`` cold_JJ ''_'' ,_, ``_`` crazy_JJ ''_'' ,_, ``_`` eat_VB ''_'' ,_, ``_`` forget_VB ''_'' ,_, ``_`` happy_JJ ''_'' ,_, ``_`` innocent_JJ ''_'' ,_, ``_`` later_RB ''_'' ,_, ``_`` lose_VB ''_'' ,_, and_CC ``_`` spend_VB ''_'' ,_, which_WDT were_VBD also_RB used_VBN in_IN =_JJ -_: =[_NN 13_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT average_JJ lengths_NNS of_IN CM_NN and_CC ASL_NN data_NNS are_VBP 1103_CD and_CC 65_CD ,_, respectively_RB ._.
+We_PRP use_VBP the_DT program_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- to_TO add_VB interpolated_VBN Gaussian_JJ noise_NN -LRB-_-LRB- about_RB 10-15_CD %_NN of_IN the_DT length_NN of_IN trajectories_NNS -RRB-_-RRB- and_CC time_NN warping_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- to_TO

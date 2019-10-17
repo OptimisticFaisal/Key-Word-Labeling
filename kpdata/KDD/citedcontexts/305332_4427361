@@ -1,0 +1,5 @@
+,_, they_PRP can_MD not_RB reduce_VB the_DT huge_JJ amount_NN of_IN computation_NN either_RB ._.
+We_PRP also_RB refer_VBP to_TO various_JJ algorithms_NNS for_IN mining_NN Maximal_JJ Frequent_JJ Itemsets_NNS -LRB-_-LRB- MFI_NNP 's_POS -RRB-_-RRB- -LRB-_-LRB- 13_CD ,_, 5_CD ,_, 2_CD ,_, 7_CD ,_, 10_CD ,_, 34_CD -RRB-_-RRB- or_CC Closed_JJ Frequent_JJ Itemsets_NNS -LRB-_-LRB- CFI_NNP 's_POS -RRB-_-RRB- =_JJ -_: =[_NN 21_CD ,_, 23_CD ,_, 32_CD ,_, 29_CD ,_, 19_CD ,_, 27_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP reduce_VBP the_DT computation_NN and_CC memory_NN requirement_NN by_IN mining_NN only_RB a_DT representative_JJ set_NN of_IN FI_NN 's_POS ._.
+Note_VB that_IN CFI_NNP 's_POS can_MD infer_VB all_DT FI_NN 's_POS with_IN exact_JJ supports_NNS ,_, while_IN MFI_NNP 's_POS can_MD not_RB ._.
+Both_DT techniques_NNS work_VBP well_RB

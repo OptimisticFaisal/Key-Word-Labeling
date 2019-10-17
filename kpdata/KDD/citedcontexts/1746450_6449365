@@ -1,0 +1,4 @@
+is_VBZ to_TO normalize_VB the_DT data_NNS to_TO unit_NN variance_NN on_IN each_DT variable_NN before_IN clustering_NN ._.
+Normalization_NNP converts_VBZ the_DT original_JJ variables_NNS into_IN unitless_JJ variables_NNS ,_, but_CC it_PRP can_MD produce_VB ad-hoc_JJ clusters_NNS as_IN suggested_VBN in_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT motivates_VBZ the_DT development_NN of_IN a_DT new_JJ scale-invariant_JJ clustering_NN method_NN that_WDT is_VBZ invariant_JJ under_IN an_DT affine_JJ transformation_NN of_IN the_DT data_NNS space_NN ._.
+Another_DT drawback_NN of_IN a_DT large_JJ number_NN of_IN clustering_NN methods_NNS

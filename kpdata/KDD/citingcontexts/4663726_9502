@@ -1,0 +1,3 @@
+in_IN much_RB the_DT same_JJ way_NN ,_, the_DT similarity_NN of_IN X_NN and_CC C_NN under_IN -LCB-_-LRB- a_DT ,_, b_NN ,_, c_NN ,_, e_LS ,_, h_NN -RCB-_-RRB- ._.
+Finding_VBG near_IN neighbors_NNS based_VBN on_IN subspace_NN pattern_NN similarity_NN is_VBZ important_JJ to_TO many_JJ applications_NNS including_VBG DNA_NN microarray_NN analysis_NN =_JJ -_: =[_NN 1_CD ,_, 8_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT DNA_NN microarray_NN is_VBZ a_DT two_CD dimensional_JJ matrix_NN where_WRB entry_NN dij_NN represents_VBZ the_DT expression_NN level_NN of_IN gene_NN i_FW in_FW sample_NN j._NN Investigations_NNS show_VBP that_IN more_RBR often_RB than_IN not_RB ,_, several_JJ genes_NNS contribute_VBP to_TO a_DT diseas_NN

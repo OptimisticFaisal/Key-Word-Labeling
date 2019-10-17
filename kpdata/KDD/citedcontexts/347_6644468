@@ -1,0 +1,3 @@
+mpts_NNS to_TO reduce_VB the_DT scale_NN of_IN the_DT problem_NN include_VBP methods_NNS that_WDT begin_VBP by_IN partitioning_VBG -LRB-_-LRB- 11_CD -RRB-_-RRB- or_CC sampling_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- the_DT data_NNS ,_, and_CC those_DT that_WDT attempt_VBP to_TO identify_VB maximal_JJ frequent_JJ sets_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- or_CC closed_VBN frequent_JJ sets_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: from_IN which_WDT all_DT others_NNS can_MD be_VB derived_VBN ._.
+A_DT number_NN of_IN researchers_NNS have_VBP made_VBN use_NN of_IN set-enumeration_JJ tree_NN structures_NNS to_TO organise_VB candidates_NNS for_IN more_RBR efficient_JJ counting_NN ._.
+The_DT FP-growth_NN algorithm_NN of_IN Han_NNP et_NNP al_NNP

@@ -1,0 +1,3 @@
+tral_JJ methods_NNS ,_, i.e._FW ,_, computing_VBG Eigenvalues_NNPS and_CC Eigenvectors_NNPS and_CC characterizing_VBG the_DT corresponding_JJ decomposition_NN of_IN a_DT graph_NN 's_POS adjacency_NN matrix_NN -LRB-_-LRB- or_CC possibly_RB even_RB a_DT tensor_NN of_IN a_DT third_JJ dimension_NN is_VBZ involved_VBN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: ,_, e.g._FW ,_, time_NN -RRB-_-RRB- ._.
+For_IN example_NN ,_, PageRank_NN computes_VBZ the_DT principal_JJ Eigenvector_NN of_IN a_DT matrix_NN that_WDT is_VBZ derived_VBN from_IN the_DT Web_NN link_NN graph_NN with_IN an_DT additional_JJ feature_NN of_IN uniform_JJ random_JJ jumps_NNS ._.
+PageRank_NN vectors_NNS ,_, charac_NN

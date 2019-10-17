@@ -1,0 +1,5 @@
+._.
+To_TO classify_VB an_DT unseen_JJ document_NN ,_, a_DT feature_NN vector_NN is_VBZ constructed_VBN by_IN using_VBG the_DT same_JJ set_NN of_IN n_NN features_NNS and_CC then_RB passed_VBD to_TO the_DT model_NN as_IN the_DT input_NN ._.
+These_DT methods_NNS suffer_VBP from_IN the_DT nature_NN of_IN text_NN documents_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP is_VBZ not_RB feasible_JJ to_TO organize_VB a_DT document_NN into_IN a_DT fixed_JJ set_NN of_IN features_NNS because_IN most_JJS text_NN documents_NNS are_VBP semi-structured_JJ or_CC completely_RB not_RB structured_VBN ._.
+An_DT alternative_JJ type_NN of_IN approaches_NNS ,_, keyword-based_JJ

@@ -1,0 +1,5 @@
+procedure_NN for_IN creating_VBG the_DT location_NN list_NN of_IN a_DT new_JJ candidate_NN pattern_NN ._.
+It_PRP combines_VBZ the_DT locations_NNS lists_NNS of_IN two_CD patterns_NNS p1_NN and_CC p2_NN ,_, where_WRB |_FW p2_FW |_NN =_JJ 2_CD ,_, to_TO provide_VB the_DT location_NN list_NN of_IN p3_NN ,_, where_WRB p3_NN =_JJ p1_NN +_CC p2_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Step_NN 2_CD iterates_NNS over_IN the_DT locations_NNS of_IN the_DT episodes_NNS supporting_VBG p1_NN ._.
+Steps_NNS 3_CD retrieves_VBZ the_DT location_NN of_IN such_PDT an_DT episode_NN e1_NN ._.
+Step_NN 4_CD retrieves_VBZ the_DT locations_NNS of_IN the_DT episodes_NNS that_WDT support_VBP p2_NN and_CC satisfy_VB som_NN

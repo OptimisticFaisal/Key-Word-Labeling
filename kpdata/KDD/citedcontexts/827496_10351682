@@ -1,0 +1,4 @@
+ate_VBD and_CC examine_VB a_DT single_JJ attribute_NN to_TO determine_VB an_DT outlier_NN ._.
+Related_JJ approaches_NNS combine_VBP given_VBN models_NNS and_CC supervised_JJ learning_NN methods_NNS but_CC still_RB assume_VB the_DT distribution_NN of_IN objects_NNS to_TO be_VB known_VBN in_IN advance_NN =_JJ -_: =[_NN 31_CD ,_, 32_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Sometimes_RB ,_, the_DT data_NNS are_VBP assumed_VBN to_TO consist_VB of_IN k_NN Gaussian_JJ distributions_NNS and_CC the_DT means_NNS and_CC standard_JJ deviations_NNS are_VBP computed_JJ data_NNS driven_VBN ._.
+However_RB ,_, these_DT methods_NNS are_VBP not_RB really_RB robust_JJ ,_, since_IN mean_NN and_CC st_NN

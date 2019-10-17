@@ -1,0 +1,4 @@
+s_NN task_NN and_CC it_PRP may_MD be_VB applicable_JJ to_TO the_DT scenarios_NNS of_IN improving_VBG classification_NN efficiency_NN ._.
+An_DT additional_JJ method_NN is_VBZ to_TO learn_VB a_DT single_JJ classifier_NN that_WDT has_VBZ similar_JJ accuracy_NN to_TO the_DT voted_VBN ensemble_NN ._.
+Domingos_NNP =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: provides_VBZ a_DT meta-learning_JJ method_NN ,_, ``_`` CMM_NNP ''_'' ,_, to_TO learn_VB correlations_NNS of_IN classifiers_NNS in_IN a_DT combined_JJ ensemble_NN and_CC re-learn_VB a_DT single_JJ classifier_NN that_WDT has_VBZ similar_JJ decision_NN boundaries_NNS ._.
+Although_IN ,_, his_PRP$ method_NN is_VBZ orig_NN

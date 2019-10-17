@@ -1,0 +1,6 @@
+rule_NN mining_NN does_VBZ not_RB handle_VB numeric_JJ attributes_NNS ._.
+We_PRP discretize_VBP these_DT attributes_NNS into_IN intervals_NNS using_VBG the_DT target_NN -LRB-_-LRB- class_NN -RRB-_-RRB- attribute_NN ._.
+We_PRP use_VBP the_DT entropy-based_JJ method_NN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+The_DT code_NN is_VBZ taken_VBN from_IN MLC_NN +_CC +_CC =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Table_NNP 2_CD shows_VBZ the_DT execution_NN time_NN taken_VBN to_TO find_VB all_DT top-level_JJ general_JJ rules_NNS and_CC their_PRP$ superset_JJ rules_NNS -LRB-_-LRB- including_VBG summarization_NN -RRB-_-RRB- for_IN each_DT dataset_NN ._.
+We_PRP only_RB use_VBP the_DT top-level_JJ general_JJ rules_NNS to_TO give_VB an_DT ind_NN

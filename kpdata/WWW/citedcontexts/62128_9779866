@@ -1,0 +1,5 @@
+ent_JJ structure_NN ._.
+Unlike_IN our_PRP$ approach_NN ,_, Piazza_NNP uses_VBZ central_JJ indexing_NN ._.
+An_DT extension_NN to_TO use_VB an_DT underlying_JJ DHT_NN only_RB seems_VBZ to_TO be_VB planned_VBN for_IN the_DT future_NN ,_, a_DT key_JJ requirement_NN for_IN Internet-scale_JJ systems_NNS ._.
+RDFPeers_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: presents_VBZ a_DT scalable_JJ and_CC distributed_VBN RDF_NNP triple_JJ repository_NN for_IN storing_VBG ,_, indexing_NN and_CC querying_VBG individual_JJ RDF_NNP statements_NNS ._.
+RDFPeers_FW self-organize_FW into_IN a_DT multiattribute_JJ addressable_JJ network_NN -LRB-_-LRB- MAAN_NN -RRB-_-RRB- ,_, which_WDT

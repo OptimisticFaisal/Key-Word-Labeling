@@ -1,0 +1,4 @@
+quent_JJ itemsets_NNS -LRB-_-LRB- 9_CD ,_, 3_CD -RRB-_-RRB- can_MD partially_RB alleviate_VB this_DT redundancy_NN problem_NN ._.
+Extensive_JJ studies_NNS have_VBP proposed_VBN fast_JJ algorithms_NNS for_IN mining_NN frequent_JJ closed_JJ itemsets_NNS ,_, such_JJ as_IN Aclose_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, CHARM_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- and_CC CLOSET_NN +_CC =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC maximum_NN closed_VBD itemsets_NNS ,_, such_JJ as_IN ,_, Max-Miner_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, MAFIA_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC GenMax_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+In_IN all_DT of_IN these_DT studies_NNS ,_, the_DT mining_NN of_IN the_DT complete_JJ pattern_NN set_NN becomes_VBZ the_DT major_JJ task_NN ._.
+While_IN in_IN many_JJ applications_NNS ,_, ther_NN

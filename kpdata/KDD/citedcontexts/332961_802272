@@ -1,0 +1,4 @@
+rns_NNS ._.
+Finally_RB ,_, to_TO perform_VB each_DT of_IN those_DT abstractions_NNS the_DT system_NN accesses_VBZ the_DT knowledge_NN bases_NNS ,_, where_WRB the_DT relationships_NNS between_IN the_DT different_JJ values_NNS are_VBP defined_VBN ._.
+Other_JJ approach_NN to_TO discretize_VB time_NN series_NN =_JJ -_: =[_NN 33_CD -RRB-_-RRB- -_: =_JJ -_: suggests_VBZ the_DT segmentation_NN of_IN a_DT sequence_NN by_IN computing_VBG the_DT change_NN ratio_NN from_IN one_CD time_NN point_NN to_TO the_DT following_JJ one_CD ,_, and_CC representing_VBG all_DT consecutive_JJ points_NNS with_IN equal_JJ change_NN ratios_NNS by_IN a_DT unique_JJ segment_NN ._.
+A_DT

@@ -1,0 +1,22 @@
+Making_VBG holistic_JJ schema_NN matching_VBG robust_JJ :_: an_DT ensemble_NN approach_NN
+s_NN ,_, e.g._FW ,_, subject_NN =_JJ category_NN in_IN Books_NNS ,_, or_CC complex_JJ m_NN :_: n_NN matchings_NNS ,_, e.g._FW ,_, passengers_NNS =_JJ -LCB-_-LRB- adults_NNS ,_, seniors_NNS ,_, children_NNS ,_, infants_NNS -RCB-_-RRB- in_IN Airfares_NNP ._.
+While_IN schema_NN matching_NN has_VBZ been_VBN a_DT central_JJ issue_NN in_IN data_NNS integration_NN =_JJ -_: =[_NN 3_CD ,_, 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT large_JJ scale_NN sets_VBZ new_JJ requirements_NNS on_IN the_DT matching_JJ task_NN ._.
+Traditional_JJ schema_NN matching_NN works_VBZ -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 17_CD ,_, 8_CD ,_, 16_CD ,_, 13_CD ,_, 15_CD -RRB-_-RRB- -RRB-_-RRB- are_VBP developed_VBN for_IN small_JJ scale_NN and_CC static_JJ integration_NN scenarios_NNS ,_, in_IN which_WDT aut_NN
+king_NN of_IN matchings_NNS ._.
+We_PRP build_VBP an_DT analytic_JJ model_NN to_TO help_VB us_PRP justify_VB the_DT effectiveness_NN of_IN this_DT framework_NN and_CC predict_VB its_PRP$ robustness_NN ._.
+We_PRP note_VBP that_IN ,_, our_PRP$ data-ensemble_JJ idea_NN is_VBZ inspired_VBN by_IN bagging_VBG predictors_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: in_IN machine_NN learning_NN --_: That_DT is_VBZ ,_, we_PRP are_VBP essentially_RB applying_VBG bagging_VBG techniques_NNS in_IN a_DT new_JJ scenario_NN of_IN mining_NN matchings_NNS ._.
+Bagging_VBG predictors_NNS is_VBZ a_DT method_NN for_IN maintaining_VBG the_DT robustness_NN of_IN ``_`` unstable_JJ ''_'' classif_NN
+ased_VBN on_IN the_DT individual_JJ ranks_NNS P_NN R_NN A_NN I1_NN -LRB-_-LRB- S_NN -RRB-_-RRB- ,_, ..._: ,_, P_NN R_NN A_NNP IT_NNP -LRB-_-LRB- S_NN -RRB-_-RRB- ._.
+This_DT problem_NN is_VBZ essentially_RB a_DT rank_JJ aggregation_NN problem_NN ,_, which_WDT has_VBZ been_VBN extensively_RB studied_VBN as_IN a_DT particular_JJ voting_NN system_NN in_IN social_JJ science_NN =_JJ -_: =[_NN 14_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT literature_NN ,_, many_JJ rank_JJ aggregation_NN strategies_NNS have_VBP been_VBN proposed_VBN ,_, such_JJ as_IN Borda_NNP 's_POS aggregation_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC Kemeny_NNP optimal_JJ aggregation_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+There_EX does_VBZ not_RB exist_VB an_DT aggregation_NN strategy_NN that_WDT can_MD bea_VB
+online_JJ Web_NN databases_NNS ,_, large_JJ scale_NN integration_NN has_VBZ become_VBN a_DT pressing_JJ problem_NN ._.
+In_IN particular_JJ ,_, we_PRP have_VBP witnessed_VBN the_DT rapid_JJ growth_NN of_IN databases_NNS on_IN the_DT Web_NN ,_, or_CC the_DT socalled_JJ ``_`` deep_JJ Web_NN ._. ''_''
+A_DT July_NNP 2000_CD survey_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: estimated_VBD that_IN 96,000_CD ``_`` search_NN cites_VBZ ''_'' and_CC 550_CD billion_CD content_NN pages_NNS in_IN this_DT deep_JJ Web_NN ._.
+Our_PRP$ recent_JJ study_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- in_IN April_NNP 2004_CD estimated_VBD 450,000_CD online_NN databases_NNS ._.
+With_IN the_DT virtually_RB unlimited_JJ amount_NN of_IN info_NN
+ssed_VBD the_DT rapid_JJ growth_NN of_IN databases_NNS on_IN the_DT Web_NN ,_, or_CC the_DT socalled_JJ ``_`` deep_JJ Web_NN ._. ''_''
+A_DT July_NNP 2000_CD survey_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- estimated_VBD that_IN 96,000_CD ``_`` search_NN cites_VBZ ''_'' and_CC 550_CD billion_CD content_NN pages_NNS in_IN this_DT deep_JJ Web_NN ._.
+Our_PRP$ recent_JJ study_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: in_IN April_NNP 2004_CD estimated_VBD 450,000_CD online_NN databases_NNS ._.
+With_IN the_DT virtually_RB unlimited_JJ amount_NN of_IN information_NN sources_NNS ,_, the_DT deep_JJ Web_NN is_VBZ clearly_RB an_DT important_JJ frontier_NN for_IN data_NNS integration_NN ._.
+To_TO enable_VB the_DT integra_NN

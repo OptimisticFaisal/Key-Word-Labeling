@@ -1,0 +1,4 @@
+on_IN approximations_NNS are_VBP generally_RB satisfactory_JJ ._.
+Furthermore_RB ,_, we_PRP made_VBD an_DT experiment_NN with_IN real_JJ data_NNS that_WDT gave_VBD an_DT idea_NN of_IN the_DT quality_NN of_IN the_DT practical_JJ methods_NNS we_PRP suggest_VBP ._.
+We_PRP implemented_VBD bootstrap_NN sampling_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: and_CC compared_VBN the_DT various_JJ CIs_NNS to_TO the_DT empirical_JJ bootstrap_NN distribution_NN ._.
+Table_NNP 2_CD displays_VBZ the_DT Lift_NNP 99_CD %_NN CI-LB_NN based_VBN on_IN the_DT binomial_JJ approximation_NN directly_RB -LRB-_-LRB- B_NN -RRB-_-RRB- ,_, via_IN the_DT RR_NN -LRB-_-LRB- B_NN \*_NN -RRB-_-RRB- ,_, and_CC based_VBN on_IN the_DT HG-like_JJ a_DT

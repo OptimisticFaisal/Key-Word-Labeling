@@ -1,0 +1,4 @@
+lowing_VBG three_CD heuristics_NNS are_VBP computationally_RB intensive_JJ to_TO calculate_VB ._.
+In_IN order_NN to_TO compute_VB them_PRP efficiently_RB ,_, we_PRP employ_VBP a_DT network_NN structure_NN index_NN -LRB-_-LRB- NSI_NN -RRB-_-RRB- ,_, a_DT scalable_JJ technique_NN for_IN capturing_VBG graph_NN structure_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT index_NN itself_PRP consists_VBZ of_IN a_DT set_NN of_IN node_NN annotations_NNS paired_VBN with_IN a_DT distance_NN function_NN that_WDT operates_VBZ on_IN them_PRP ._.
+The_DT annotations_NNS are_VBP created_VBN by_IN repeatedly_RB running_VBG a_DT stochastic_JJ flooding_NN algorithm_NN on_IN the_DT

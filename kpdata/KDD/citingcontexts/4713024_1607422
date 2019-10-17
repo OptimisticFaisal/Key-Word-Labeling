@@ -1,0 +1,3 @@
+%_NN 100_CD %_NN 100_CD %_NN 100_CD %_NN 100_CD %_NN 100_CD %_NN TP_NN 100_CD %_NN 100_CD %_NN 100_CD %_NN FP_NN 0_CD %_NN 0_CD %_NN 0_CD %_NN 0_CD %_NN 0_CD %_NN 0_CD %_NN 2_CD %_NN FP_NN 2_CD %_NN 0_CD %_NN 0_CD %_NN 4.3_CD The_DT on-line_JJ bookstore_NN data_NNS This_DT data_NN set_NN was_VBD generated_VBN from_IN an_DT e-commerce_NN workload_NN and_CC has_VBZ been_VBN used_VBN previously_RB in_IN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT logs_NNS correspond_VBP to_TO a_DT couple_NN of_IN weekdays_NNS in_IN which_WDT a_DT large_JJ number_NN of_IN HTTP_NN requests_NNS were_VBD processed_VBN ._.
+Entries_NNS corresponding_VBG to_TO images_NNS ,_, errors_NNS ,_, etc._NN ,_, were_VBD deleted_VBN and_CC the_DT URLs_NNS of_IN the_DT remaining_VBG entries_NNS

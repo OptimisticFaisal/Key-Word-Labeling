@@ -1,0 +1,4 @@
+ining_VBG data_NNS ._.
+After_IN learning_VBG a_DT decision_NN tree_NN and_CC converting_VBG each_DT path_NN in_IN the_DT tree_NN into_IN rules_NNS ,_, Quinlan_NNP -LRB-_-LRB- 24_CD -RRB-_-RRB- removes_VBZ conditions_NNS from_IN the_DT antecedent_JJ of_IN a_DT rule_NN if_IN the_DT estimated_VBN accuracy_NN improves_VBZ ._.
+Furnkranz_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ a_DT review_NN of_IN various_JJ rule_NN pruning_NN techniques_NNS ._.
+For_IN rule_NN learning_NN algorithms_NNS ,_, many_JJ studies_NNS demonstrate_VBP the_DT efficacy_NN of_IN using_VBG weights_NNS -LRB-_-LRB- predictiveness_NN and\/or_CC belief_NN -RRB-_-RRB- over_IN not_RB using_VBG weights_NNS as_RB well_RB as_IN

@@ -1,0 +1,4 @@
+the_DT class_NN with_IN the_DT highest_JJS aposteriori_NN probability_NN ._.
+For_IN example_NN ,_, when_WRB classifying_VBG documents_NNS from_IN the_DT Reuters_NNP data_NNS set_VBP version_NN 3_CD using_VBG k-nearest_NN neighbor_NN ,_, a_DT relatively_RB high_JJ value_NN of_IN k_NN =_JJ 45_CD was_VBD chosen_VBN in_IN =_JJ -_: =[_NN 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT document_NN was_VBD assigned_VBN to_TO every_DT class_NN for_IN which_WDT the_DT weighted_JJ sum_NN of_IN the_DT neighbors_NNS belonging_VBG to_TO that_DT class_NN exceeded_VBD an_DT empirically_RB determined_VBN threshold_NN ._.
+Note_VB that_IN the_DT weighted_JJ sum_NN is_VBZ proportional_JJ to_TO

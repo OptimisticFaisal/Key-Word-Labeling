@@ -1,0 +1,4 @@
+ith_NN similar_JJ methods_NNS is_VBZ the_DT selection_NN of_IN ``_`` representative_JJ ''_'' nodes_NNS and_CC determining_VBG the_DT amount_NN of_IN constriction_NN needed_VBN ._.
+In_IN essence_NN the_DT algorithm_NN clusters_NNS by_IN simplifying_VBG or_CC ``_`` coarsening_VBG ''_'' the_DT graph_NN similar_JJ to_TO =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT running_VBG time_NN of_IN the_DT algorithm_NN presented_VBN here_RB is_VBZ much_RB faster_RBR than_IN traditional_JJ single_JJ link_NN and_CC complete_JJ link_NN algorithms_NNS -LRB-_-LRB- O_NN -LRB-_-LRB- n_NN log_NN 2_CD n_NN -RRB-_-RRB- vs._NN O_NN -LRB-_-LRB- n_NN 2_CD -RRB-_-RRB- and_CC O_NN -LRB-_-LRB- n_NN 2_CD log_NN n_NN -RRB-_-RRB- respectively_RB -LRB-_-LRB- 14_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+The_DT algorithm_NN

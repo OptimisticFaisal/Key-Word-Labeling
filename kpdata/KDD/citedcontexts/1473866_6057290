@@ -1,0 +1,4 @@
+stering_VBG is_VBZ to_TO partition_NN the_DT graph_NN into_IN components_NNS with_IN heavy_JJ intra-cluster_JJ edges_NNS and_CC light_JJ inter-cluster_JJ edges_NNS ._.
+Recently_RB ,_, these_DT weights_NNS have_VBP been_VBN estimated_VBN from_IN training_NN data_NNS using_VBG maximum_NN likelihood_NN =_JJ -_: =[_NN 1_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+While_IN effective_JJ ,_, by_IN factoring_VBG the_DT similarity_NN metric_NN into_IN a_DT set_NN of_IN pairwise_JJ functions_NNS ,_, this_DT approach_NN sacrifices_VBZ expressivity_NN for_IN tractability_NN ._.
+For_IN many_JJ domains_NNS ,_, there_EX exist_VBP clusterwise_NN soft_JJ constrain_VB

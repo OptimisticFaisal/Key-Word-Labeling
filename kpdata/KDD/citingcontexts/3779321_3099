@@ -1,0 +1,6 @@
+to_TO account_VB transitivity_NN ._.
+Indeed_RB ,_, in_IN the_DT presence_NN of_IN the_DT background_NN knowledge_NN represented_VBN by_IN the_DT rules_NNS A_DT ⇒_NN B_NN andsB_NN ⇒_NN C_NN ,_, the_DT rule_NN A_NN ⇒_NN C_NN is_VBZ uninteresting_JJ ._.
+However_RB ,_, this_DT can_MD not_RB be_VB discovered_VBN locally_RB ._.
+See_VB =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: for_IN a_DT detailed_JJ discussion_NN of_IN advantages_NNS of_IN global_JJ versus_CC local_JJ methods_NNS ._.
+Some_DT more_JJR comparisons_NNS can_MD be_VB found_VBN in_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN we_PRP present_VBP a_DT method_NN of_IN finding_VBG interesting_JJ patterns_NNS using_VBG background_NN

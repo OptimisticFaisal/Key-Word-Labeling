@@ -1,0 +1,5 @@
+rive_VB a_DT specific_JJ algorithm_NN ._.
+However_RB ,_, a_DT large_JJ number_NN of_IN useful_JJ distance_NN functions_NNS ,_, such_JJ as_IN Euclidean_JJ distance_NN ,_, generalized_VBN I-divergence_NN ,_, and_CC KL_NN divergence_NN ,_, can_MD be_VB generalized_VBN as_IN the_DT Bregman_NNP divergences_NNS =_JJ -_: =[_NN 25_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Based_VBN on_IN the_DT properties_NNS of_IN Bregman_NNP divergences_NNS ,_, we_PRP derive_VBP a_DT general_JJ algorithm_NN to_TO minimize_VB the_DT objective_JJ function_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- under_IN all_PDT the_DT Bregman_NNP divergences_NNS ._.
+Table_NNP 1_CD shows_VBZ a_DT list_NN of_IN Bregman_NNP divergen_NN

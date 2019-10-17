@@ -1,0 +1,4 @@
+dimensionality_NN measures_NNS are_VBP sometimes_RB also_RB collectively_RB referred_VBN to_TO as_IN fractal_JJ dimension_NN ._.
+The_DT interested_JJ reader_NN can_MD find_VB a_DT comprehensive_JJ development_NN of_IN the_DT topic_NN in_IN a_DT standard_JJ textbook_NN ,_, e.g._FW ,_, Rasband_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN practice_NN ,_, we_PRP deal_VBP with_IN finite_JJ sets_NNS ,_, so_IN the_DT definition_NN of_IN correlation_NN dimension_NN in_IN Equation_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- is_VBZ not_RB applicable_JJ ._.
+In_IN this_DT case_NN ,_, we_PRP define_VBP the_DT function_NN C_NN -LRB-_-LRB- r_NN -RRB-_-RRB- as_IN C_NN -LRB-_-LRB- r_NN -RRB-_-RRB- =_JJ 1_CD n2_CD x_CC ∈_CD X_NN |_NN B_NN -LRB-_-LRB- x_NN ,_, r_NN -RRB-_-RRB- |_CD ,_, -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC e_SYM

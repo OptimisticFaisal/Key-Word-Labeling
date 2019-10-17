@@ -1,0 +1,4 @@
+aints_NNS ._.
+Thus_RB it_PRP is_VBZ unrealistic_JJ to_TO compute_VB the_DT full_JJ cube_NN from_IN scratch_NN ._.
+There_EX are_VBP currently_RB many_JJ solutions_NNS to_TO the_DT problem_NN ,_, such_JJ as_IN choosing_VBG views_NNS to_TO materialize_VB -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, cube_NN compression_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, approximation_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, handling_VBG sparsity_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, and_CC computing_VBG the_DT cube_NN under_IN user-specified_JJ constraints_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Recently_RB ,_, from_IN a_DT different_JJ aspect_NN ,_, Wang_NNP et_FW al._FW proposed_VBD a_DT concept_NN of_IN condensed_JJ cube_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- that_WDT explores_VBZ ``_`` single_JJ ba_NN

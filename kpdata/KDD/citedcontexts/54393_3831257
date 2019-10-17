@@ -1,0 +1,3 @@
+ivately_RB :_: •_NNP Database_NNP operations_NNS ,_, like_IN join_VBP and_CC intersection_NN ,_, across_IN tables_NNS from_IN two_CD owners_NNS -LRB-_-LRB- 2_CD ,_, 18_CD -RRB-_-RRB- ;_: •_CD Privacy-preserving_JJ protocols_NNS for_IN geometric_JJ problems_NNS -LRB-_-LRB- 4_CD ,_, 11_CD -RRB-_-RRB- ;_: •_CD Privacy-preserving_JJ data_NNS mining_NN ,_, eg_FW ._.
+=_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: N_NN -LRB-_-LRB- additions_NNS -RRB-_-RRB- FP_NN gates_NNS TTP_NN gates_NNS FP_NN time_NN TTP_NN time_NN 512_CD 33K_CD 513_CD 17_CD 9_CD 1024_CD 66K_CD 1025_CD 33_CD 17_CD Table_NNP 3_CD :_: Circuit_NN size_NN and_CC program_NN execution_NN time_NN in_IN seconds_NNS for_IN N_NN 32-bit_JJ additions_NNS ._.
+Fairplay_JJ circuit_NN adders_NNS for_IN

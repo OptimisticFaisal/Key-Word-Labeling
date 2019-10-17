@@ -1,0 +1,5 @@
+pproaches_NNS for_IN recommender_NN systems_NNS have_VBP been_VBN developed_VBN ._.
+Previous_JJ research_NN efforts_NNS show_VBP that_IN most_JJS existing_VBG recommender_NN systems_NNS adopt_VBP two_CD types_NNS of_IN techniques_NNS :_: content-based_JJ -LRB-_-LRB- CB_NN -RRB-_-RRB- approach_NN and_CC CF_NN approach_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT CB_NN approach_NN relies_VBZ mainly_RB on_IN content_NN and_CC relevant_JJ profiles_NNS to_TO offer_VB recommendations_NNS ._.
+CF_NN approach_NN offers_VBZ recommendation_NN based_VBN on_IN the_DT similarity_NN of_IN groups_NNS users_NNS ._.
+In_IN CB_NN approach_NN ,_, it_PRP recommends_VBZ web_NN ob_NN

@@ -1,0 +1,3 @@
+universally_RB applicable_JJ ._.
+In_IN practice_NN ,_, various_JJ computable_JJ distances_NNS ,_, including_VBG eZ_NN ,_, can_MD be_VB viewed_VBN as_IN approximations_NNS to_TO e._VB Moreover_RB ,_, many_JJ of_IN the_DT measures_NNS used_VBN in_IN the_DT data_NNS mining_NN community_NN -LRB-_-LRB- see_VB Tan_NNP et_FW al._FW =_SYM -_: =[_NN 24_CD -RRB-_-RRB- -_: =--RRB-_NN may_MD ,_, after_IN normalization_NN ,_, be_VB viewed_VBN as_IN various_JJ degrees_NNS of_IN approximations_NNS to_TO e._VB The_DT NCD_NNP has_VBZ been_VBN put_VBN to_TO numerous_JJ tests_NNS ._.
+Keogh_NNP et_FW al._FW -LRB-_-LRB- 14_CD ,_, 15_CD -RRB-_-RRB- have_VBP tested_VBN a_DT closely_RB related_JJ metric_NN as_IN a_DT parameter-free_NN

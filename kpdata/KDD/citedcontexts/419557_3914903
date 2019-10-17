@@ -1,0 +1,3 @@
+od_NN in_IN a_DT ML_NN or_CC MAP_NN setting_NN ,_, based_VBN on_IN the_DT gradient_NN formula_NN in_IN Equation_NN 14_CD ._.
+Compared_VBN with_IN CRFs_NNS ,_, this_DT has_VBZ the_DT additional_JJ benefit_NN of_IN allowing_VBG the_DT incorporation_NN of_IN phrase-based_JJ features_NNS ._.
+In_IN a_DT recent_JJ work_NN ,_, -LRB-_-LRB- =_JJ -_: =_JJ Cohen_NNP &_CC Sarawagi_NNP ,_, 2004_CD -_: =--RRB-_NN have_VBP introduced_VBN a_DT conditional_JJ version_NN for_IN segmental_JJ semi-Markov_JJ models_NNS -LRB-_-LRB- Ge_NN ,_, 2002_CD -RRB-_-RRB- to_TO achieve_VB a_DT similar_JJ aim_NN ,_, showing_VBG that_IN the_DT phrase_NN classification_NN approach_NN can_MD lead_VB to_TO better_JJR performance_NN vs._FW CRFs_FW ,_, e_SYM

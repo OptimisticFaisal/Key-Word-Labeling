@@ -1,0 +1,4 @@
+s_NN -LRB-_-LRB- 2_CD ,_, 8_CD ,_, 7_CD ,_, 3_CD ,_, 1_LS -RRB-_-RRB- indicates_VBZ that_IN the_DT problem_NN of_IN optimal_JJ anonymization_NN under_IN many_JJ non-trivial_JJ quality_NN models_NNS is_VBZ NP-hard_JJ ._.
+A_DT few_JJ approximation_NN methods_NNS were_VBD developed_VBN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, such_JJ as_IN datafly_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, annealing_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC Mondrian_NNP multidimensional_JJ kanonymity_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Some_DT optimal_JJ methods_NNS -LRB-_-LRB- 4_CD ,_, 6_CD -RRB-_-RRB- with_IN exponential_JJ cost_NN in_IN the_DT worst_JJS case_NN were_VBD shown_VBN feasible_JJ and_CC often_RB of_IN good_JJ performance_NN in_IN practice_NN ._.
+To_TO the_DT best_JJS of_IN our_PRP$ kn_NN

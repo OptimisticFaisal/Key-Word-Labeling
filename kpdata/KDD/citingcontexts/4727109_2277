@@ -1,0 +1,4 @@
+et_CC The_DT wafer_NN dataset_NN is_VBZ a_DT collection_NN of_IN time_NN series_NN containing_VBG a_DT sequence_NN of_IN measurements_NNS recorded_VBN by_IN one_CD vacuum-chamber_NN sensor_NN during_IN the_DT etch_NN process_NN of_IN silicon_NN wafers_NNS for_IN semiconductor_NN fabrication_NN =_JJ -_: =[_NN 33_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Each_DT wafer_NN has_VBZ an_DT assigned_VBN classification_NN of_IN normal_JJ or_CC abnormal_JJ ._.
+The_DT abnormal_JJ wafers_NNS are_VBP representative_JJ of_IN a_DT range_NN of_IN problems_NNS commonly_RB encountered_VBN during_IN semiconductor_NN manufacturing_NN ._.
+Of_IN the_DT 7,164_CD t_NN

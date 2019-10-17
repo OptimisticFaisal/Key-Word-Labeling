@@ -1,0 +1,5 @@
+phenomenon_NN and_CC draw_NN conclusions_NNS in_IN Section_NNP 5_CD ._.
+2_CD ._.
+MODEL_NNP DESCRIPTION_NNP We_PRP only_RB present_VBP brief_JJ model_NN descriptions_NNS here_RB ,_, for_IN a_DT more_RBR detailed_JJ discussion_NN please_VBP refer_VB to_TO -LRB-_-LRB- 3_CD -RRB-_-RRB- for_IN Naive_JJ Bayes_NNS classifier_NN and_CC to_TO =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: for_IN multinomial_JJ mixture_NN models_NNS ._.
+We_PRP assume_VBP that_IN the_DT data_NN consists_VBZ of_IN documents_NNS ,_, each_DT represented_VBD as_IN a_DT bag_NN of_IN words_NNS ,_, i.e._FW as_IN a_DT map_NN from_IN the_DT set_NN of_IN terms_NNS occurring_VBG to_TO their_PRP$ count_NN in_IN the_DT text_NN ._.
+The_DT length_NN

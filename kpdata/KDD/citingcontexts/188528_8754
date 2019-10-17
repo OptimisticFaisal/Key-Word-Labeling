@@ -1,0 +1,5 @@
+rs_NNS of_IN k-d_FW convex_FW hulls_NNS ._.
+In_IN depth-based_JJ methods_NNS ,_, outliers_NNS are_VBP objects_NNS in_IN the_DT outer_JJ layer_NN of_IN these_DT hulls_NNS ._.
+The_DT third_JJ category_NN of_IN outlier_NN detection_NN method_NN is_VBZ distance-based_JJ ._.
+Introduced_VBN by_IN Knorr_NNP and_CC Ng_NNP in_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT distance-based_JJ outlier_NN in_IN a_DT dataset_NN D_NN is_VBZ an_DT object_NN with_IN pct_NN %_NN of_IN the_DT objects_NNS in_IN D_NN having_VBG a_DT distance_NN of_IN more_JJR than_IN dmin_NN away_RB from_IN it_PRP ._.
+This_DT notion_NN of_IN distance-based_JJ outlier_NN generalizes_VBZ many_JJ notions_NNS fr_VBP

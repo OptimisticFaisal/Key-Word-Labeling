@@ -1,0 +1,4 @@
+The_DT SVM_NNP weighted_VBD sums_NNS from_IN above_RB will_MD not_RB be_VB strict_JJ probabilities_NNS between_IN 0_CD and_CC 1_CD ._.
+Therefore_RB in_IN the_DT final_JJ stage_NN of_IN GleanerSRL_NN ,_, we_PRP calibrate_VBP these_DT scores_NNS into_IN proper_JJ probabilities_NNS ._.
+Zadrozny_NNP and_CC Elkan_NNP =_SYM -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Niculescu-Mizil_NNP and_CC Caruna_NNP -LRB-_-LRB- 14_CD -RRB-_-RRB- recommend_VBP Isotonic_JJ Regression_NN for_IN large_JJ highly-skewed_JJ datasets_NNS ._.
+The_DT main_JJ idea_NN behind_IN isotonic_JJ regression_NN is_VBZ to_TO transform_VB the_DT sorted_VBN list_NN of_IN SVM_NN scores_NNS into_IN monoton_NN

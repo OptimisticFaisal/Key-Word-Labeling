@@ -1,0 +1,3 @@
+distinct_JJ categories_NNS of_IN obfuscation_NN techniques_NNS that_IN phishing_VBG URLs_NNS use_VBP ._.
+In_IN this_DT work_NN ,_, we_PRP propose_VBP features_NNS directly_RB extractable_JJ from_IN URL_NN strings_NNS that_WDT address_VBP these_DT four_CD common_JJ obfuscation_NN techniques_NNS ._.
+In_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Ma_NNP et_FW al._FW compared_VBN several_JJ batch-based_JJ learning_NN algorithms_NNS for_IN classifying_VBG malicious_JJ URLs_NNS and_CC showed_VBD that_IN the_DT combination_NN of_IN host-based_JJ and_CC lexical_JJ features_NNS results_VBZ in_IN the_DT highest_JJS classification_NN acc_NN

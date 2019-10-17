@@ -1,0 +1,5 @@
+the_DT task_NN accurately_RB and_CC fairly_RB quickly_RB --_: mostly_RB based_VBN on_IN their_PRP$ common_JJ knowledge_NN ._.
+In_IN contrast_NN ,_, to_TO create_VB a_DT common_JJ knowledge_NN base_NN in_IN an_DT automatic_JJ classification_NN system_NN is_VBZ notoriously_RB difficult_JJ -LRB-_-LRB- see_VB ,_, e.g._FW =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Second_JJ ,_, humans_NNS are_VBP much_RB better_JJR than_IN machines_NNS at_IN multilabel_JJ classification_NN ._.
+Questions_NNS such_JJ as_IN ``_`` How_WRB many_JJ classes_NNS does_VBZ a_DT data_NN instance_NN belong_VB to_TO ?_. ''_''
+or_CC ``_`` Should_MD this_DT data_NN instance_NN be_VB assigned_VBN to_TO any_DT clas_NNS

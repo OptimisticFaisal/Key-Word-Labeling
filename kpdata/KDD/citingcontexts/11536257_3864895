@@ -1,0 +1,5 @@
+of_IN fk_NN over_IN the_DT sample_NN -LRB-_-LRB- x_NN ,_, y_NN -RRB-_-RRB- ._.
+At_IN least_JJS in_IN principle_NN ,_, the_DT parameter_NN learning_NN problem_NN can_MD be_VB solved_VBN with_IN gradient_NN descent_NN methods_NNS ,_, such_JJ as_IN quasi-Newton_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, stochastic_JJ -LRB-_-LRB- 26_CD -RRB-_-RRB- ,_, or_CC exponentiated_JJ gradient_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: methods_NNS ._.
+Each_DT component_NN of_IN the_DT gradient_NN is_VBZ N_NN ∑_FW ∂_FW L_NN -LRB-_-LRB- w_NN -RRB-_-RRB- =_JJ −_CD fk_NN -LRB-_-LRB- x_NN ∂_NN wk_NN i_FW =_JJ 1_CD i_LS ,_, y_FW i_FW N_NN ∑_NN -RRB-_-RRB- +_CC Ep_NN -LRB-_-LRB- y_FW |_FW xi_FW -RRB-_-RRB- -LRB-_-LRB- fk_NN -LRB-_-LRB- x_NN i_LS =_JJ 1_CD i_LS ,_, y_NN -RRB-_-RRB- -RRB-_-RRB- ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- From_IN Eq_NN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, we_PRP can_MD see_VB that_IN the_DT gradient_NN depends_VBZ on_IN the_DT marginal_JJ probabilities_NNS of_IN

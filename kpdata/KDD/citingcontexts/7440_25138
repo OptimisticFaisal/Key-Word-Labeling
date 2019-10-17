@@ -1,0 +1,4 @@
+′_CD p_NN giving_VBG the_DT final_JJ result_NN Tp_NN =_JJ -LRB-_-LRB- tp_NN 1_CD ,_, ..._: ,_, tp_NN n_NN -RRB-_-RRB- ,_, tp_FW i_FW =_JJ xp_FW i_FW +_CC vp_FW i_FW ._.
+2.3_CD General_NNP Secure_NNP Multiparty_NNP Computation_NNP \/_: Secure_JJ Comparison_NN Secure_VB two_CD party_NN computation_NN was_VBD first_RB investigated_VBN by_IN Yao_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_JJ -_: and_CC was_VBD later_RB generalized_VBN to_TO multiparty_JJ computation_NN ._.
+The_DT seminal_JJ paper_NN by_IN Goldreich_NNP proves_VBZ that_IN there_EX exists_VBZ a_DT secure_JJ solution_NN for_IN any_DT functionality_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+The_DT approach_NN used_VBN is_VBZ as_IN follows_VBZ :_: the_DT function_NN

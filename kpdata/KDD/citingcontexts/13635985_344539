@@ -1,0 +1,5 @@
+tive_JJ and_CC positive_JJ spheres_NNS -LRB-_-LRB- B_NN -LRB-_-LRB- μj_NN ,_, κσj_NN -RRB-_-RRB- -RRB-_-RRB- 3_CD ._.
+This_DT is_VBZ analogous_JJ to_TO the_DT case_NN of_IN SVMs_NNS ,_, where_WRB dual_JJ is_VBZ the_DT problem_NN of_IN finding_VBG distance_NN between_IN the_DT convex_NN hulls_NNS formed_VBN by_IN the_DT negative_JJ and_CC positive_JJ data_NN points_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3_LS ._.
+EXPERIMENTAL_JJ RESULTS_NNS In_IN this_DT section_NN ,_, we_PRP present_VBP experimental_JJ results_NNS on_IN synthetic_JJ and_CC real_JJ world_NN data_NNS sets_NNS ._.
+The_DT results_NNS show_VBP that_IN the_DT accuracies_NNS achieved_VBN by_IN SVM_NN and_CC the_DT proposed_VBN classifier_NN are_VBP c_NN

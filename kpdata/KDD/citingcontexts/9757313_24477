@@ -1,0 +1,5 @@
+ng_NN schemes_NNS encode_VBP an_DT integer_NN x_NN ∈_NN Z_NN +_CC using_VBG close_RB to_TO the_DT informatic-theoretic_JJ minimum_NN of_IN 1_CD +_CC ⌊_CD lg_NN -LRB-_-LRB- x_NN -RRB-_-RRB- ⌋_CD bits_NNS ._.
+For_IN example_NN ,_, the_DT number_NN of_IN bits_NNS used_VBN by_IN the_DT γ-code_NN to_TO represent_VB x_NN is_VBZ 1_CD +_CC 2_CD ⌊_FW lg_FW x_NN ⌋_NN ._.
+We_PRP refer_VBP to_TO =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: for_IN more_JJR background_NN on_IN these_DT codes_NNS ._.
+3.1_CD BV_NN compression_NN scheme_NN BV_NN incorporates_VBZ three_CD main_JJ ideas_NNS ._.
+First_RB ,_, if_IN the_DT graph_NN has_VBZ many_JJ nodes_NNS whose_WP$ neighborhoods_NNS are_VBP similar_JJ ,_, then_RB the_DT neighborhood_NN of_IN a_DT node_NN can_MD

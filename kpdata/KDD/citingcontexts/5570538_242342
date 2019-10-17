@@ -1,0 +1,4 @@
+chine_NN learning_NN method_NN for_IN visualization_NN scoring_VBG ._.
+When_WRB applied_VBN to_TO our_PRP$ 2-dimensional_JJ visualizations_NNS ,_, Euclidian_JJ distance_NN well_RB matches_VBZ the_DT intuitive_JJ distance_NN used_VBN by_IN human_JJ observer_NN when_WRB viewing_VBG the_DT graph_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Using_VBG this_DT distance_NN metrics_NNS ,_, k-NN_NN predicts_VBZ class_NN value_NN of_IN an_DT instance_NN by_IN observing_VBG the_DT class_NN distribution_NN of_IN its_PRP$ k_NN nearest_IN instances_NNS in_IN the_DT evaluated_VBN projection_NN ._.
+If_IN the_DT prediction_NN matches_VBZ the_DT true_JJ o_NN

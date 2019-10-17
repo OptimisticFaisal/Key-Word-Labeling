@@ -1,0 +1,4 @@
+able_JJ to_TO process_VB examples_NNS incrementally_RB as_IN they_PRP arrive_VBP ._.
+Therefore_RB a_DT straightforward_JJ solution_NN to_TO learning_VBG from_IN data_NNS streams_NNS is_VBZ to_TO use_VB online_JJ learning_NN algorithms_NNS directly_RB -LRB-_-LRB- e.g._FW perceptron_NN ,_, winnow_NN ,_, etc._NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Unfortunately_RB ,_, many_JJ successful_JJ machine_NN learning_NN algorithms_NNS are_VBP batch_NN in_IN the_DT sense_NN that_IN all_DT examples_NNS need_VBP to_TO be_VB available_JJ as_RB soon_RB as_IN the_DT learning_NN process_NN starts_VBZ ._.
+In_IN order_NN to_TO use_VB these_DT algorithms_NNS in_IN

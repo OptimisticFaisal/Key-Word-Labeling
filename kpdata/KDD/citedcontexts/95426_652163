@@ -1,0 +1,4 @@
+t_NN is_VBZ able_JJ to_TO cope_VB with_IN concept_NN drift_NN automatically_RB ._.
+Related_NNP Work_NNP ._.
+The_DT problem_NN of_IN dealing_VBG with_IN concept_NN drift_NN in_IN the_DT context_NN of_IN learning_VBG from_IN data_NNS streams_NNS is_VBZ receiving_VBG much_JJ attention_NN recently_RB ,_, see_VB e.g._FW =_SYM -_: =[_NN 10_CD ,_, 20_CD ,_, 21_CD ,_, 3_CD ,_, 11_CD ,_, 22_CD ,_, 24_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS of_IN these_DT algorithms_NNS divide_VBP the_DT input_NN stream_NN of_IN data_NNS into_IN subsets_NNS of_IN sequential_JJ data_NNS -LRB-_-LRB- or_CC ``_`` data_NNS windows_NNS ''_'' -RRB-_-RRB- ,_, and_CC repeatedly_RB build_VB predictive_JJ models_NNS using_VBG only_RB one_CD or_CC several_JJ contiguous_JJ windows_NNS of_IN d_NN

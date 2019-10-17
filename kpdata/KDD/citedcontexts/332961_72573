@@ -1,0 +1,4 @@
+lf_IN terabyte_NN of_IN data_NNS and_CC is_VBZ updated_VBN at_IN the_DT rate_NN of_IN several_JJ gigabytes_NNS a_DT day_NN -LRB-_-LRB- 21_CD ,_, 32_CD -RRB-_-RRB- ._.
+Given_VBN the_DT magnitude_NN of_IN many_JJ time_NN series_NN databases_NNS ,_, much_JJ research_NN has_VBZ been_VBN devoted_VBN to_TO speeding_VBG up_RP the_DT search_NN process_NN =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 3_CD ,_, 6_CD ,_, 11_CD ,_, 14_CD ,_, 17_CD ,_, 18_CD ,_, 19_CD ,_, 22_CD ,_, 23_CD ,_, 24_CD ,_, 30_CD ,_, 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT most_RBS promising_JJ methods_NNS are_VBP techniques_NNS that_WDT perform_VBP dimensionality_NN reduction_NN on_IN the_DT data_NNS ,_, then_RB use_VB spatial_JJ access_NN methods_NNS to_TO index_NN the_DT data_NNS in_IN the_DT transformed_VBN space_NN ._.
+The_DT technique_NN was_VBD introduced_VBN

@@ -1,0 +1,4 @@
+ow_VB how_WRB we_PRP can_MD modify_VB SAX_NNP to_TO be_VB a_DT multiresolution_JJ representation_NN ,_, similar_JJ in_IN spirit_NN to_TO wavelets_NNS ._.
+It_PRP is_VBZ this_DT multiresolution_JJ property_NN that_WDT allows_VBZ us_PRP to_TO index_NN time_NN series_NN with_IN zero_NN overlap_VBP at_IN leaf_NN nodes_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, unlike_IN R-trees_NNS and_CC other_JJ spatial_JJ access_NN methods_NNS ._.
+As_IN we_PRP shall_MD show_VB ,_, our_PRP$ indexing_NN technique_NN is_VBZ fast_JJ and_CC scalable_JJ due_JJ to_TO intrinsic_JJ properties_NNS of_IN the_DT iSAX_NN representation_NN ._.
+Because_IN of_IN this_DT ,_, we_PRP do_VBP not_RB requ_VB

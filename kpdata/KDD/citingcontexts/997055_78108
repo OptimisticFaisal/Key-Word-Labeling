@@ -1,0 +1,4 @@
+eets_VBZ other_JJ stop_NN conditions_NNS ,_, e.g._FW ,_, the_DT summarization_NN quality_NN does_VBZ not_RB increase_VB any_DT more_JJR -LRB-_-LRB- see_VB Section_NNP 3.4_CD -RRB-_-RRB- ._.
+sConceptually_RB ,_, Algorithm_NN 2_CD is_VBZ similar_JJ to_TO distributional_JJ clustering_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC divisive_JJ clustering_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT first_JJ difference_NN is_VBZ that_IN we_PRP treat_VBP each_DT dimension_NN as_IN a_DT separate_JJ distribution_NN while_IN other_JJ approaches_NNS put_VBD all_DT dimensions_NNS together_RB and_CC create_VB a_DT multinomial_JJ model_NN ._.
+The_DT second_JJ difference_NN is_VBZ that_IN our_PRP$ q_NN

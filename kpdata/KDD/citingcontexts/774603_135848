@@ -1,0 +1,5 @@
+ing_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- discovers_VBZ local_JJ coherence_NN of_IN genes_NNS and_CC conditions_NNS in_IN a_DT submatrix_NN of_IN a_DT DNA_NN array_NN ._.
+In_IN the_DT biological_JJ sense_NN ,_, genes_NNS in_IN such_JJ clusters_NNS have_VBP the_DT same_JJ amount_NN of_IN response_NN to_TO the_DT conditions_NNS ._.
+δ-pCluster_NN =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: models_NNS clusters_NNS that_WDT exhibit_VBP shifting_VBG or_CC scaling_VBG patterns_NNS ._.
+Scaling_VBG pattern_NN can_MD be_VB transformed_VBN into_IN shifting_VBG pattern_NN by_IN applying_VBG a_DT logarithmic_JJ function_NN on_IN the_DT raw_JJ data_NNS ._.
+Under_IN shifting_VBG pattern_NN ,_, the_DT exp_NN

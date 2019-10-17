@@ -1,0 +1,3 @@
+into_IN a_DT number_NN of_IN small_JJ intervals_NNS ._.
+During_IN the_DT mining_NN process_NN ,_, consecutive_JJ intervals_NNS of_IN an_DT attribute_NN may_MD need_VB to_TO be_VB combined_VBN to_TO gain_VB sufficient_JJ support_NN value_NN as_RB well_RB as_IN to_TO produce_VB meaningful_JJ intervals_NNS =_JJ -_: =[_NN 15_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP develop_VBP a_DT supervised_JJ interval_NN combining_VBG method_NN specifically_RB for_IN correlation_NN mining_NN so_IN that_IN the_DT combined_JJ intervals_NNS also_RB capture_VBP the_DT dependency_NN between_IN the_DT attributes_NNS ,_, thereby_RB ensuring_VBG the_DT quality_NN

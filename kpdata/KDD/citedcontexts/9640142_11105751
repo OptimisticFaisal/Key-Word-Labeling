@@ -1,0 +1,5 @@
+r_NN when_WRB the_DT maximum_NN change_NN of_IN any_DT message_NN between_IN iteration_NN steps_NNS is_VBZ less_JJR than_IN some_DT threshold_NN ._.
+Convergence_NN is_VBZ guaranteed_VBN for_IN trees_NNS but_CC not_RB for_IN general_JJ graphs_NNS ._.
+However_RB ,_, it_PRP typically_RB occurs_VBZ in_IN practice_NN -LRB-_-LRB- =_JJ -_: =_JJ McGlohon_NNP et_FW al._FW ,_, 2009_CD -_: =--RRB-_NN ._.
+Upon_IN convergence_NN ,_, belief_NN scores_NNS are_VBP determined_VBN by_IN equation_NN 1_CD ._.
+4.1_CD MRF_NN construction_NN To_TO find_VB the_DT sentences_NNS from_IN a_DT paper_NN that_WDT form_VBP the_DT context_NN information_NN of_IN a_DT given_VBN cited_VBN paper_NN ,_, we_PRP build_VBP an_DT MRF_NN in_IN wh_NN

@@ -1,0 +1,3 @@
+PRESS_NNP M._NNP Sabou_NNP ,_, J._NNP Pan_NNP \/_: Web_NN Semantics_NNS :_: Science_NNP ,_, Services_NNP and_CC Agents_NNPS on_IN the_DT World_NNP Wide_NN Web_NN xxx_NN -LRB-_-LRB- 2007_CD -RRB-_-RRB- xxx_NN --_: xxx_NN 5_CD ontology_NN learning_NN methods_NNS to_TO deriving_VBG ontologies_NNS from_IN textual_JJ Web_NN service_NN descriptions_NNS =_JJ -_: =[_FW 18,19_FW -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT section_NN we_PRP show_VBP how_WRB ontology_JJ learning_NN methods_NNS can_MD be_VB used_VBN to_TO evolve_VB Web_NN service_NN classification_NN schemes_NNS or_CC to_TO extend_VB them_PRP with_IN new_JJ facets_NNS ._.
+We_PRP rely_VBP on_IN some_DT preliminary_JJ experimental_JJ results_NNS to_TO

@@ -1,0 +1,4 @@
+e_LS it_PRP is_VBZ a_DT straightforward_JJ application_NN of_IN the_DT Apriori_NNP -LRB-_-LRB- 4_LS -RRB-_-RRB- algorithm_NN to_TO the_DT sessionized_VBN web_NN logs_NNS ._.
+The_DT respective_JJ algorithms_NNS ,_, as_RB well_RB as_IN experimental_JJ evaluation_NN of_IN the_DT proposed_VBN framework_NN can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 12_CD ,_, 14_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4.5.1_CD Semantic_JJ Recommendations_NNS We_PRP use_VBP the_DT Apriori_NNP algorithm_NN to_TO discover_VB frequent_JJ itemsets_NNS and\/or_CC association_NN rules_NNS from_IN the_DT C-Logs_NNS ._.
+We_PRP consider_VBP that_IN each_DT distinct_JJ user_NN session_NN represents_VBZ a_DT different_JJ

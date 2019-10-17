@@ -1,0 +1,5 @@
+l_NN component_NN of_IN the_DT data_NNS ._.
+1_CD ._.
+INTRODUCTION_NN Recent_JJ research_NN has_VBZ demonstrated_VBN the_DT utility_NN of_IN modeling_NN relational_JJ information_NN in_IN domains_NNS such_JJ as_IN fraud_NN detection_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, citation_NN analysis_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, and_CC marketing_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, this_DT work_NN has_VBZ focused_VBN primarily_RB on_IN static_JJ snapshots_NNS 1_CD of_IN relational_JJ datasets_NNS ,_, even_RB though_IN most_JJS relational_JJ domains_NNS have_VBP temporal_JJ dynamics_NNS that_WDT are_VBP important_JJ to_TO model_NN ._.
+For_IN example_NN ,_, in_IN fraud_NN d_NN

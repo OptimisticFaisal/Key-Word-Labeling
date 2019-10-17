@@ -1,0 +1,4 @@
+._.
+belonging_VBG to_TO The_DT classifier_NN is_VBZ wellcalibrated_VBN if_IN the_DT empirical_JJ class_NN membership_NN probconverges_NNS to_TO the_DT probability_NN value_NN as_IN the_DT S_NN ¨_FW ©_FW ¡_CD cents_NNS number_NN of_IN examples_NNS cents_NNS ability_NN ¡_NN classified_VBN goes_VBZ to_TO infinity_NN -LRB-_-LRB- =_JJ -_: =_JJ Zadrozny_NNP and_CC Elkan_NNP ,_, 2002_CD -_: =--RRB-_NN ._.
+Intuitively_RB ,_, if_IN we_PRP consider_VBP all_PDT the_DT instances_NNS S_NN ¨_FW ©_FW ¡_CD cents_NNS to_TO which_WDT the_DT classifier_NN assigns_VBZ a_DT probability_NN S_NN ¨_FW ©_FW ¡_CD cents_NNS ._.
+of_IN say_NN 0.6_CD ,_, then_RB 60_CD %_NN of_IN these_DT instances_NNS should_MD be_VB members_NNS of_IN S_NN ¨_FW ©_FW ¡_CD cents_NNS class_NN

@@ -1,0 +1,5 @@
+reasing_VBG trend_NN interval_NN from_IN start_NN time_NN ts_NNS to_TO end_VB time_NN te_NN ._.
+Similarly_RB ,_, we_PRP can_MD define_VB the_DT decreasing_VBG trend_NN interval_NN and_CC denote_VB it_PRP as_IN -LRB-_-LRB- ts_FW ,_, te_NN -RRB-_-RRB- −_NN ._.
+From_IN the_DT example_NN ,_, we_PRP can_MD see_VB the_DT increasing_VBG trend_NN interval_NN =_JJ -_: =[_NN 1_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: +_CC which_WDT contains_VBZ the_DT trend_NN -LRB-_-LRB- 1_CD ,_, 3_CD ,_, 5_CD ,_, 12_CD ,_, 14_CD -RRB-_-RRB- ._.
+In_IN addition_NN ,_, we_PRP have_VBP -LRB-_-LRB- 1_CD ,_, 11_CD -RRB-_-RRB- +_CC as_IN an_DT increasing_VBG trend_NN ,_, since_IN -LRB-_-LRB- 1_CD ,_, 2_CD ,_, 3_CD ,_, 5_CD ,_, 12_CD ,_, 13_CD ,_, 15_CD -RRB-_-RRB- satisfies_VBZ the_DT conditions_NNS -LRB-_-LRB- δ_NN =_JJ 1_CD ,_, σ_NN =_JJ 2_CD -RRB-_-RRB- ._.
+We_PRP note_VBP that_IN for_IN the_DT first_JJ i_FW

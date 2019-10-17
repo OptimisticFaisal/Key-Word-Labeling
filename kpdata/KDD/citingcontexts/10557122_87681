@@ -1,0 +1,4 @@
+election_NN algorithm_NN to_TO process_VB the_DT yeast_NN cell_NN cycle_NN data_NNS described_VBN next_RB ._.
+5.3_CD Yeast_NN Cell_NNP Cycle_NNP The_DT yeast_NN cell_NN cycle_NN data_NNS comes_VBZ from_IN the_DT mathematical_JJ model_NN of_IN the_DT budding_JJ yeast_NN cell_NN cycle_NN by_IN Chen_NNP et_FW al._FW =_SYM -_: =[_NN 5_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN stated_VBN earlier_RBR ,_, biochemical_JJ interactions_NNS are_VBP converted_VBN to_TO ODEs_NNS ,_, which_WDT are_VBP simulated_JJ for_IN different_JJ time_NN steps_NNS ._.
+The_DT concentrations_NNS of_IN 45_CD molecules_NNS -LRB-_-LRB- recall_NN that_IN these_DT are_VBP the_DT features_NNS -RRB-_-RRB- are_VBP recorded_VBN

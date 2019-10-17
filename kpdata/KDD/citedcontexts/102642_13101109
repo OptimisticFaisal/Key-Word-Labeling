@@ -1,0 +1,4 @@
+ire_NN graph_NN rather_RB than_IN extract_VB relevant_JJ communities_NNS ,_, which_WDT is_VBZ our_PRP$ objective_NN ._.
+In_IN terms_NNS of_IN social_JJ network_NN analysis_NN ,_, -LRB-_-LRB- 18_CD -RRB-_-RRB- extracts_NNS communities_NNS from_IN an_DT Instant_NNP Messenger_NNP Network_NNP by_IN applying_VBG Co-clustering_NN ._.
+=_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ flow-based_JJ techniques_NNS to_TO identify_VB Web-based_JJ communities_NNS ._.
+However_RB ,_, it_PRP identifies_VBZ communities_NNS for_IN a_DT set_NN of_IN known_JJ nodes_NNS ,_, while_IN our_PRP$ objective_NN is_VBZ to_TO extract_VB all_DT nodes_NNS that_WDT constitute_VBP communities_NNS ._.

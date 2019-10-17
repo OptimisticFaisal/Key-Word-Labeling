@@ -1,0 +1,6 @@
+uent_JJ lexicographic_JJ tree_NN extension_NN to_TO a_DT node_NN ._.
+We_PRP will_MD denote_VB the_DT set_NN of_IN frequent_JJ lexicographic_JJ tree_NN extensions_NNS of_IN a_DT node_NN P_NN by_IN 2_CD A_NN set_NN representation_NN of_IN this_DT tree_NN is_VBZ referred_VBN to_TO as_IN the_DT enumeration_NN tree_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+E_NN -LRB-_-LRB- P_NN -RRB-_-RRB- ._.
+In_IN the_DT example_NN illustrated_VBN in_IN Figure_NNP 1_CD ,_, the_DT frequent_JJ lexicographic_JJ extensions_NNS of_IN node_NN a_DT are_VBP b_NN ,_, c_NN ,_, d_NN ,_, and_CC f_LS ._.
+Let_NNP Q_NNP be_VB the_DT immediate_JJ ancestor_NN of_IN the_DT itemset_NN P_NN in_IN the_DT lexicographic_JJ tree_NN ._.
+The_DT se_FW

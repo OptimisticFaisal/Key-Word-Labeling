@@ -1,0 +1,3 @@
+nother_JJ inference_NN model_NN or_CC additional_JJ background_NN knowledge_NN ._.
+The_DT German_JJ credit_NN case_NN study_NN Throughout_IN the_DT paper_NN ,_, we_PRP illustrate_VBP the_DT notions_NNS introduced_VBN by_IN analyzing_VBG the_DT public_JJ domain_NN German_JJ credit_NN dataset_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, consisting_VBG of_IN 1000_CD transactions_NNS representing_VBG the_DT good\/bad_JJ credit_NN class_NN of_IN bank_NN account_NN holders_NNS ._.
+The_DT dataset_NN include_VBP nominal_JJ -LRB-_-LRB- or_CC discretized_VBN -RRB-_-RRB- attributes_VBZ on_IN personal_JJ properties_NNS :_: checking_NN account_NN statu_NN

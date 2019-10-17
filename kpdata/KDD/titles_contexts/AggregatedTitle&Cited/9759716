@@ -1,0 +1,11 @@
+Modeling_NN and_CC predicting_VBG user_NN behavior_NN in_IN sponsored_VBN search_NN
+25_CD ,_, 9_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+There_EX are_VBP two_CD main_JJ complementary_JJ approaches_NNS to_TO uncovering_VBG user_NN behavior_NN models_NNS :_: one_CD based_VBN on_IN controlled_JJ user_NN studies_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 12_CD ,_, 13_CD ,_, 24_CD -RRB-_-RRB- -RRB-_-RRB- ,_, and_CC the_DT other_JJ basedonlarge-scale_JJ loganalysis_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 25_CD ,_, 9_CD ,_, 26_CD ,_, 4_CD ,_, 19_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+This_DT work_NN falls_VBZ into_IN the_DT second_JJ category_NN ,_, and_CC is_VBZ mostly_RB related_JJ to_TO BrowseRank_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, which_WDT tries_VBZ to_TO infer_VB a_DT query-independent_JJ score_NN for_IN eachpage_NN from_IN pagedwell_NN timein_NN general_JJ browsing_NN ._.
+In_IN particular_JJ
+currently_RB adopted_VBN PPC_NN mechanism_NN may_MD not_RB be_VB efficient_JJ ._.
+We_PRP propose_VBP the_DT two_CD assumptions_NNS in_IN section_NN 2_CD and_CC validate_VB them_PRP in_IN section_NN 3_CD ._.
+2_CD ._.
+ASSUMPTIONS_NNS ON_IN CLICK_NN VALUES_NNS We_PRP use_VBP a_DT user_NN 's_POS post-ad-click_JJ behavior_NN =_JJ -_: =[_NN 2_CD ,_, 3_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: to_TO measure_VB the_DT value_NN of_IN his_PRP$ click_VB on_IN the_DT advertisement_NN ._.
+Post-ad-click_JJ behavior_NN is_VBZ defined_VBN to_TO be_VB the_DT user_NN 's_POS subsequent_JJ online_NN behavior_NN on_IN the_DT advertiser_NN 's_POS website_NN after_IN the_DT click_VBP ._.
+In_IN this_DT section_NN ,_, we_PRP

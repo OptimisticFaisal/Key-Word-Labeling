@@ -1,0 +1,4 @@
+is_VBZ ,_, the_DT search_NN for_IN subseries_NNS that_WDT are_VBP repeated_VBN throughout_IN a_DT particular_JJ series_NN ,_, has_VBZ gained_VBN in_IN importance_NN recently_RB ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- developed_VBD an_DT A_NN priori_FW algorithm-based_JJ technique_NN to_TO discover_VB sequential_JJ patterns_NNS ._.
+=_SYM -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: address_VB the_DT problem_NN of_IN recognizing_VBG frequent_JJ episodes_NNS in_IN event_NN collections_NNS ,_, where_WRB episode_NN is_VBZ defined_VBN as_IN a_DT collection_NN of_IN events_NNS that_WDT occur_VBP at_IN given_VBN intervals_NNS of_IN time_NN in_IN a_DT given_VBN partial_JJ order_NN ._.
+The_DT A_NN pri_NN

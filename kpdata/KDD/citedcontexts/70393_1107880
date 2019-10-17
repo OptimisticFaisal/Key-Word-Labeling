@@ -1,0 +1,5 @@
+on_IN with_IN the_DT same_JJ amount_NN of_IN instances_NNS ._.
+This_DT work_NN is_VBZ about_IN feature_NN selection_NN on_IN labeled_JJ data_NNS ,_, i.e._FW ,_, class_NN information_NN is_VBZ available_JJ ._.
+For_IN feature_NN selection_NN on_IN unlabeled_JJ data_NNS ,_, various_JJ work_NN can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 13_CD ,_, 15_CD ,_, 17_CD ,_, 18_CD ,_, 27_CD ,_, 53_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN Section_NN 2_CD ,_, we_PRP briefly_RB review_VBP the_DT development_NN of_IN feature_NN selection_NN ,_, its_PRP$ models_NNS ,_, and_CC active_JJ learning_NN ._.
+In_IN Section_NN 3_CD ,_, we_PRP describe_VBP active_JJ feature_NN selection_NN and_CC a_DT formalism_NN of_IN selective_JJ sampling_NN that_IN e_SYM

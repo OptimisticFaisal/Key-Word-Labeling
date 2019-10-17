@@ -1,0 +1,4 @@
+ing_NN algorithms_NNS ._.
+Our_PRP$ work_NN differs_VBZ in_IN that_IN clients_NNS can_MD access_VB other_JJ caches_NNS but_CC can_MD not_RB decide_VB their_PRP$ membership_NN ._.
+Caching_VBG for_IN streamingdata_NN includes_VBZ work_NN on_IN prefix_NN caching_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, segment-based_JJ caching_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: and_CC multicast_JJ cache_NN MCache_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, where_WRB the_DT main_JJ concern_NN is_VBZ minimizing_VBG the_DT start-up_JJ latency_NN ._.
+Caching_VBG for_IN content_NN distribution_NN networks_NNS has_VBZ also_RB been_VBN addressed_VBN in_IN theoretical_JJ frameworks_NNS in_IN recent_JJ work_NN -LRB-_-LRB-

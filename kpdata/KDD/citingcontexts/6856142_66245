@@ -1,0 +1,3 @@
+e_LS ,_, we_PRP assumed_VBD that_IN the_DT hypotheses_NNS output_NN by_IN a_DT cost-sensitive_JJ learner_NN is_VBZ a_DT functional_JJ hypothesis_NN h_NN ,_, i.e._FW h_NN :_: X_NN !_.
+Y_NN :_: It_PRP is_VBZ also_RB possible_JJ to_TO allow_VB hypotheses_NNS that_WDT are_VBP stochastic_JJ ,_, namely_RB h_NN :_: X_NN \_FW ThetasY_FW !_.
+=_SYM -_: =[_NN 0_CD ;_: 1_LS -RRB-_-RRB- -_: =_JJ -_: subject_JJ to_TO the_DT stochastic_JJ condition_NN :_: 8x_NN 2_CD X_NN X_NN y2Y_NN h_NN -LRB-_-LRB- yjx_NN -RRB-_-RRB- =_JJ 1_CD :_: With_IN stochastic_JJ hypotheses_NNS ,_, stochastic_JJ cost-sensitive_JJ learning_NN is_VBZ defined_VBN as_IN the_DT process_NN of_IN finding_VBG a_DT hypothesis_NN minimizing_VBG the_DT following_VBG

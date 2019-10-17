@@ -1,0 +1,4 @@
+artitioning_VBG nor_CC one_CD specific_JJ proximity_NN measure_NN ._.
+Another_DT broad_JJ class_NN of_IN algorithms_NNS estimate_VBP the_DT similarity_NN between_IN the_DT query_NN node_NN and_CC other_JJ nodes_NNS by_IN examining_VBG local_JJ neighborhoods_NNS around_IN the_DT query_NN node_NN =_JJ -_: =[_NN 3_CD ,_, 2_CD ,_, 5_CD ,_, 17_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT intuition_NN is_VBZ that_IN in_IN order_NN to_TO compute_VB nearest_IN neighbors_NNS ,_, hopefully_RB one_PRP would_MD not_RB need_VB to_TO look_VB too_RB far_RB away_RB from_IN the_DT query_NN node_NN ._.
+However_RB ,_, one_CD fundamental_JJ computational_JJ issue_NN with_IN these_DT techniques_NNS

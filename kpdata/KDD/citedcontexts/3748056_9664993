@@ -1,0 +1,4 @@
+decision_NN trees_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Following_VBG this_DT ,_, various_JJ privacy-preserving_JJ classification_NN methods_NNS have_VBP been_VBN presented_VBN ,_, including_VBG naive_JJ Bayes_NNP classifiers_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, k-nearest_NN neighbor_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, and_CC support_NN vector_NN machines_NNS =_JJ -_: =[_NN 14_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT privacy-preserving_JJ classifiers_NNS have_VBP been_VBN designed_VBN as_IN privacy-preserving_JJ versions_NNS of_IN particular_JJ data_NNS mining_NN algorithms_NNS ._.
+However_RB ,_, the_DT dataminer_NN 's_POS task_NN rarely_RB starts_VBZ and_CC ends_VBZ with_IN running_VBG a_DT parti_NN

@@ -1,0 +1,4 @@
+t_NN discovering_VBG classification_NN models_NNS -LRB-_-LRB- classifiers_NNS -RRB-_-RRB- in_IN a_DT database_NN of_IN preclassified_JJ time_NN series_NN and_CC using_VBG them_PRP to_TO classify_VB unseen_JJ time_NN series_NN ._.
+Time_NN series_NN data_NNS typically_RB contain_VBP a_DT large_JJ amount_NN of_IN noises_NNS =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT ability_NN to_TO handle_VB noises_NNS effectively_RB is_VBZ therefore_RB crucial_JJ for_IN a_DT classifier_NN to_TO be_VB useful_JJ ._.
+To_TO better_RBR handle_VB the_DT noises_NNS in_IN time_NN series_NN data_NNS ,_, we_PRP propose_VBP a_DT new_JJ data_NN mining_NN technique_NN to_TO discover_VB fuzzy_JJ

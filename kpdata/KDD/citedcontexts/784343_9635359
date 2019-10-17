@@ -1,0 +1,3 @@
+munities_NNS ,_, customer_NN segments_NNS -RRB-_-RRB- ;_: specifically_RB ,_, it_PRP provides_VBZ insight_NN into_IN the_DT highlevel_JJ structure_NN of_IN the_DT graph_NN ,_, and_CC the_DT dominant_JJ relationships_NNS among_IN the_DT various_JJ node_NN clusters_NNS ._.
+Unlike_IN clustering_NN algorithms_NNS =_JJ -_: =[_NN 17_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: that_IN group_NN nodes_NNS based_VBN on_IN their_PRP$ similarity_NN or_CC distances_NNS ,_, our_PRP$ summary_NN is_VBZ computed_VBN using_VBG information-theoretic_JJ principles_NNS ._.
+•_NNP Our_NNP representation_NN allows_VBZ for_IN a_DT high_JJ degree_NN of_IN compression_NN to_TO be_VB achieved_VBN fo_IN

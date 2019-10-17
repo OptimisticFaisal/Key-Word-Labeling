@@ -1,0 +1,4 @@
+._.
+However_RB ,_, this_DT approach_NN does_VBZ not_RB model_VB context_NN ,_, errors_NNS or_CC different_JJ formats_NNS of_IN fields_NNS in_IN text_NN ,_, and_CC requires_VBZ large_JJ number_NN of_IN database_NN entries_NNS to_TO learn_VB an_DT accurate_JJ language_NN model_NN ._.
+The_DT second_JJ approach_NN -LRB-_-LRB- =_JJ -_: =_JJ Sarawagi_NNP and_CC Cohen_NNP ,_, 2004_CD -_: =_JJ -_: ;_: Michelson_NNP and_CC Knoblock_NNP ,_, 2005_CD ;_: Mansuri_NNP and_CC Sarawagi_NNP ,_, 2006_CD -RRB-_-RRB- uses_VBZ database_NN or_CC dictionary_NN lookups_NNS in_IN combination_NN with_IN similarity_NN measures_NNS to_TO add_VB features_NNS to_TO the_DT text_NN sequence_NN ._.
+Although_IN these_DT features_NNS ar_IN

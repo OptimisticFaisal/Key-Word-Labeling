@@ -1,0 +1,5 @@
+r_NN ,_, although_IN ours_PRP is_VBZ formulated_VBN differently_RB and_CC works_VBZ on_IN GPS_NN traces_NNS rather_RB than_IN image_NN pixels_NNS ._.
+Another_DT line_NN of_IN research_NN addresses_VBZ the_DT problem_NN of_IN refining_VBG an_DT existing_VBG map_NN using_VBG GPS_NN traces_NNS ._.
+Rogers_NNP et_FW al._FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: use_VB an_DT initial_JJ map_NN to_TO refine_VB the_DT centerline_NN of_IN the_DT road_NN ._.
+In_IN this_DT work_NN ,_, they_PRP look_VBP at_IN perpendiculars_NNS to_TO the_DT refined_JJ centerline_NN and_CC cluster_NN traces_NNS into_IN lanes_NNS ._.
+Guo_NNP et_FW al._FW -LRB-_-LRB- 6_CD -RRB-_-RRB- present_JJ initial_JJ simulation_NN w_NN

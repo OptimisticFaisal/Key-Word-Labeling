@@ -1,0 +1,5 @@
+ms_IN other_JJ algorithms_NNS in_IN terms_NNS of_IN precision_NN ,_, recall_NN ,_, and_CC space_NN usage_NN ._.
+The_DT more_RBR detailed_JJ description_NN can_MD be_VB found_VBN in_IN Section_NN 4.1.1_CD ._.
+3.3_CD Emerging_VBG Pattern_NNP Mining_NNP Emerging_VBG patterns_NNS -LRB-_-LRB- EPs_NNS -RRB-_-RRB- were_VBD introduced_VBN in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+EPs_NNS are_VBP defined_VBN as_IN itemsets_NNS whose_WP$ supports_NNS in_IN one_CD dataset_NN are_VBP significantly_RB larger_JJR than_IN their_PRP$ supports_NNS in_IN another_DT ._.
+Formally_RB ,_, let_VB suppi_NN -LRB-_-LRB- X_NN -RRB-_-RRB- denote_VBP the_DT support_NN of_IN X_NN in_IN dataset_FW i_FW and_CC define_VB growth_NN rate_NN

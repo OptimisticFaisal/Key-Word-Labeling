@@ -1,0 +1,5 @@
+ribe_VB the_DT deduplication_NN process_NN in_IN more_JJR detail_NN ._.
+A_DT block_NN diagram_NN of_IN the_DT process_NN can_MD be_VB found_VBN in_IN Figure_NNP 1_CD ._.
+3.1_CD Chunking_VBG and_CC segmenting_VBG Content-based_JJ chunking_NN has_VBZ been_VBN studied_VBN at_IN length_NN in_IN the_DT literature_NN =_JJ -_: =[_NN 1_CD ,_, 16_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP use_VBP our_PRP$ Two-Threshold_JJ TwoDivisor_NN -LRB-_-LRB- TTTD_NN -RRB-_-RRB- chunking_VBG algorithm_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- to_TO subdivide_VB the_DT incoming_JJ data_NNS stream_NN into_IN chunks_NNS ._.
+TTTD_NN produces_VBZ variable-sized_JJ chunks_NNS with_IN smaller_JJR size_NN variation_NN than_IN other_JJ chunk_NN

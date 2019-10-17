@@ -1,0 +1,3 @@
+n_NN which_WDT each_DT of_IN its_PRP$ K_NN buckets_NNS represents_VBZ the_DT same_JJ number_NN of_IN transactions_NNS maximizes_VBZ the_DT empirical_JJ information_NN entropy_NN IE_NN =_JJ −_CD K_NN k_NN =_JJ 1_CD pk_NN log_NN pk_NN ,_, where_WRB pk_NN is_VBZ the_DT probability_NN that_IN X_NN =_JJ k_NN on_IN a_DT transaction_NN -LRB-_-LRB- =_JJ -_: =_JJ Barbará_NNP et_FW al._FW ,_, 1997_CD -_: =--RRB-_NN ._.
+The_DT probabilities_NNS pk_NN may_MD be_VB taken_VBN as_IN relative_JJ frequencies_NNS in_IN a_DT large_JJ set_NN of_IN training_NN data_NNS ._.
+Similarly_RB ,_, we_PRP define_VBP customer-level_JJ binning_NN by_IN maximizing_VBG the_DT average_JJ information_NN entropy_NN AIE_NN =_JJ 1_CD N_NN N_NN IEi_NNS

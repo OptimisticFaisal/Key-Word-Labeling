@@ -1,0 +1,4 @@
+the_DT input_NN is_VBZ just_RB pairwise_JJ instances_NNS and_CC their_PRP$ computational_JJ costs_NNS are_VBP usually_RB high_JJ ,_, so_IN it_PRP is_VBZ difficult_JJ to_TO adapt_VB them_PRP to_TO Web-scale_JJ ._.
+For_IN architecture_NN ,_, our_PRP$ proposed_VBN framework_NN is_VBZ similar_JJ to_TO the_DT work_NN in_IN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT dedicated_VBD a_DT large-scale_JJ clustering_NN to_TO ontology_NN terms_NNS ._.
+It_PRP used_VBD synonyms_NNS to_TO set_VB up_RP a_DT kernel_NN ,_, and_CC then_RB extended_VBD the_DT kernel_NN with_IN similar_JJ terms_NNS in_IN labels_NNS and_CC identifiers_NNS ._.
+Both_DT of_IN us_PRP adopted_VBD a_DT boots_NNS

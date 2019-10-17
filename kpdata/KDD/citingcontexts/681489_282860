@@ -1,0 +1,3 @@
+nes_NNS according_VBG to_TO their_PRP$ individual_JJ relevance_NN or_CC discriminative_JJ power_NN to_TO the_DT targeted_VBN classes_NNS and_CC select_JJ top-ranked_JJ genes_NNS ._.
+Some_DT methods_NNS based_VBN on_IN statistical_JJ tests_NNS or_CC information_NN gain_NN have_VBP been_VBN shown_VBN in_IN =_JJ -_: =[_NN 7_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT methods_NNS are_VBP computationally_RB efficient_JJ due_JJ to_TO linear_JJ time_NN complexity_NN O_NN -LRB-_-LRB- N_NN -RRB-_-RRB- in_IN terms_NNS of_IN dimensionality_NN N._NNP However_RB ,_, they_PRP share_VBP two_CD shortcomings_NNS :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- certain_JJ domain_NN knowledge_NN or_CC trial-and-error_NN is_VBZ

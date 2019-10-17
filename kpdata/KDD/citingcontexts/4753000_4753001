@@ -1,0 +1,4 @@
+ditional_JJ approaches_NNS will_MD fail_VB to_TO efficiently_RB fit_VB the_DT underlying_VBG patterns_NNS ._.
+X_NN 1_CD is_VBZ a_DT binary_JJ attribute_NN -LRB-_-LRB- 50_CD %_NN of_IN values_NNS are_VBP 0_CD ,_, 50_CD %_NN of_IN values_NNS are_VBP 1_CD -RRB-_-RRB- ,_, and_CC X_NN 2_CD is_VBZ a_DT uniformly_RB distributed_VBN continuous_JJ attribute_NN =_JJ -_: =[_NN -1,1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX are_VBP 500_CD observations_NNS in_IN the_DT training_NN set_NN and_CC 500_CD observations_NNS in_IN the_DT validation_NN set_NN ._.
+The_DT equation_NN for_IN the_DT underlying_JJ model_NN is_VBZ 3x2_NN ,_, x2_NN ,_, x_NN 0_CD 1_CD y_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- x_NN 1_CD 1_CD To_TO make_VB the_DT simulated_JJ data_NNS

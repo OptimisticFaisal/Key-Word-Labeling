@@ -1,0 +1,5 @@
+ETIs_NNS ._.
+This_DT constraint_NN may_MD not_RB only_RB miss_VB valid_JJ itemsets_NNS of_IN interest_NN ,_, but_CC also_RB generates_VBZ irrelevant_JJ itemsets_NNS ,_, such_JJ as_IN cluster_NN -LRB-_-LRB- B_NN -RRB-_-RRB- in_IN Figure_NNP 3_CD ._.
+Other_JJ lines_NNS of_IN work_NN to_TO find_VB itemsets_NNS tolerating_VBG noise_NN are_VBP =_JJ -_: =[_NN 15_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT approaches_NNS admit_VBP only_RB a_DT fixed_JJ number_NN of_IN 0s_NNS in_IN the_DT itemsets_NNS ._.
+In_IN contrast_NN to_TO our_PRP$ AFI_NNP model_NN ,_, the_DT fraction_NN of_IN noise_NN can_MD not_RB vary_VB with_IN the_DT sizesof_NN a_DT submatrix_NN defining_VBG an_DT itemset_NN ,_, and_CC therefore_RB ,_, is_VBZ

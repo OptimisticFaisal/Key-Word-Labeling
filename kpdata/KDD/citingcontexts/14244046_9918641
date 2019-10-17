@@ -1,0 +1,6 @@
+been_VBN proposed_VBN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 42_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Since_IN these_DT two_CD classical_JJ methods_NNS ,_, researchers_NNS have_VBP proposed_VBN many_JJ alternative_JJ methods_NNS ._.
+For_IN example_NN ,_, in_IN a_DT probabilistic_JJ framework_NN one_PRP can_MD use_VB Bayesian_JJ model_NN selection_NN -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 23_CD ,_, 32_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+For_IN BMF_NNP ,_, however_RB ,_, it_PRP would_MD be_VB very_RB hard_JJ ,_, if_IN not_RB impossible_JJ ,_, to_TO construct_VB a_DT good_JJ likelihood_NN function_NN ._.
+Yet_RB another_DT approach_NN is_VBZ to_TO use_VB cross_JJ validation_NN ._.
+While_IN this_DT is_VBZ perhaps_RB mostly_RB used_VBN when_WRB learning_VBG

@@ -1,0 +1,4 @@
+ns_NNS to_TO influence_VB the_DT ranking_JJ procedure_NN ._.
+XQuery_NN 's_POS full-text_JJ requirements_NNS rely_VBP on_IN the_DT existing_VBG order_NN by_IN clause_NN to_TO sort_VB the_DT result_NN according_VBG to_TO the_DT assigned_JJ score_NN ._.
+Botev_NNP ,_, Amer-Yahia_NNP ,_, and_CC Shanmugasundaram_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBN TeXQuery_NNP ,_, which_WDT extends_VBZ XQuery_NN by_IN full-text_JJ search_NN capabilities_NNS as_RB well_RB ._.
+They_PRP emphasize_VBP completeness_NN of_IN the_DT extended_JJ language_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, while_IN we_PRP focus_VBP especially_RB on_IN an_DT efficient_JJ implementation_NN o_NN

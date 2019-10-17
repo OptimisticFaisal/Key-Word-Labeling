@@ -1,0 +1,8 @@
+e_LS family_NN of_IN clustering_NN algorithms_NNS that_WDT try_VBP to_TO find_VB compact_JJ and_CC wellseparated_JJ clusters_NNS ._.
+We_PRP adopted_VBD the_DT implementation_NN from_IN the_DT Weka_NNP software_NN 1_CD ._.
+2_CD ._.
+Partitional_NNP SingleLink_NNP algorithm_NN -LRB-_-LRB- ``_`` SLINK_NNP ''_'' for_IN short_JJ -RRB-_-RRB- =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP represents_VBZ the_DT family_NN of_IN the_DT hierarchical_JJ clustering_NN algorithms_NNS ._.
+We_PRP adopted_VBD the_DT implementation_NN from_IN the_DT CLUTO_NN software_NN 2_CD 3_CD ._.
+k-way_NN spectral_JJ clustering_NN -LRB-_-LRB- ``_`` SPEC_NNP ''_'' for_IN short_JJ -RRB-_-RRB- ._.
+It_PRP represents_VBZ the_DT family_NN

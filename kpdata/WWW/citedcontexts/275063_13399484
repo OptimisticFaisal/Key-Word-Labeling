@@ -1,0 +1,5 @@
+mate_NN personalized_VBD pagerank_NN vectors_NNS for_IN arbitrary_JJ starting_VBG distributions_NNS in_IN real_JJ time_NN ._.
+We_PRP are_VBP not_RB the_DT only_JJ ones_NNS to_TO achieve_VB the_DT same_JJ goal_NN ._.
+In_IN previous_JJ work_NN full_JJ personalization_NN was_VBD achieved_VBN by_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, and_CC =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT former_JJ simultaneously_RB pre-computes_JJ personalized_JJ pagerank_NN vectors_NNS via_IN sampling_NN from_IN each_DT node_NN and_CC stores_NNS them_PRP ._.
+The_DT later_RB improves_VBZ the_DT error-bounds_NNS of_IN the_DT sampling_NN algorithm_NN significantly_RB by_IN compu_NN

@@ -1,0 +1,4 @@
+utation_NN algorithm_NN developed_VBN by_IN Du_NNP and_CC Atallah_NNP simultaneously_RB computes_VBZ a_DT vector_NN sum_NN and_CC permutes_VBZ the_DT order_NN of_IN the_DT elements_NNS in_IN the_DT vector_NN ._.
+We_PRP repeat_VBP the_DT idea_NN here_RB for_IN completeness_NN ,_, for_IN more_JJR details_NNS see_VBP =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP do_VBP present_VB a_DT more_RBR formal_JJ proof_NN of_IN the_DT security_NN of_IN the_DT algorithm_NN than_IN that_DT in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, this_DT is_VBZ given_VBN as_IN part_NN of_IN the_DT overall_JJ security_NN proof_NN of_IN our_PRP$ algorithm_NN in_IN Section_NN 3.2_CD ._.
+The_DT permutation_NN problem_NN is_VBZ a_DT

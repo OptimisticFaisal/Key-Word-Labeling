@@ -1,0 +1,5 @@
+pling_VBG database_NN vectors_NNS ._.
+The_DT AC-NN_NN scheme_NN for_IN M-Trees_NNS presented_VBN in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- relies_VBZ on_IN a_DT single_JJ value_NN set_VBN by_IN the_DT user_NN ._.
+Finally_RB ,_, some_DT works_NNS enforce_VBP approximate_JJ NN-searches_NNS thru_VBP probabilistic_JJ approaches_NNS ._.
+DBIN_NN =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, for_IN example_NN ,_, exploits_VBZ the_DT statistical_JJ properties_NNS of_IN data_NNS and_CC clusters_NNS data_NNS using_VBG the_DT EM_NN -LRB-_-LRB- Expectation_NN Maximization_NN -RRB-_-RRB- algorithm_NN ._.
+It_PRP aborts_VBZ the_DT NN-search_NN when_WRB the_DT estimated_VBN probability_NN for_IN a_DT remaining_VBG d_NN

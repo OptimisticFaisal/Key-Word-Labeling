@@ -1,0 +1,6 @@
+ns_NNS according_VBG to_TO updated_VBN scores_NNS ;_: 5_CD ._.
+they_PRP recursively_RB continue_VBP selecting_VBG a_DT pattern_NN ._.
+Strategies_NNS implementing_VBG this_DT idea_NN have_VBP been_VBN studied_VBN in_IN -LRB-_-LRB- 43,42,76_CD -RRB-_-RRB- ._.
+While_IN these_DT approaches_NNS construct_VBP a_DT model_NN greedily_RB ,_, =_JJ -_: =[_NN 49_CD -RRB-_-RRB- -_: =_JJ -_: showed_VBD that_IN itemsets_NNS can_MD be_VB post-processed_JJ to_TO construct_VB a_DT decision_NN tree_NN optimally_RB ._.
+In_IN this_DT approach_NN ,_, an_DT itemset_NN corresponds_VBZ to_TO a_DT path_NN from_IN the_DT root_NN to_TO a_DT leaf_NN in_IN a_DT decision_NN tree_NN ._.
+Itemsets_NNS are_VBP selected_VBN

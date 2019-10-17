@@ -1,0 +1,4 @@
+t_NN pr_NN -LRB-_-LRB- u_NN -RRB-_-RRB- scores_NNS ._.
+A_DT variant_NN of_IN the_DT above_JJ paradigm_NN -LRB-_-LRB- that_WDT allowed_VBD taking_VBG much_JJ of_IN the_DT computation_NN offline_NN -RRB-_-RRB- was_VBD proposed_VBN as_IN OBJECTRANK_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+The_DT matrix_NN C_NN can_MD also_RB be_VB learned_VBN automatically_RB from_IN training_NN data_NN =_JJ -_: =[_NN 3_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Traditional_JJ offline_JJ computation_NN of_IN PageRank_NN is_VBZ done_VBN by_IN power_NN iteration_NN :_: Initialize_VB pr_NN to_TO some_DT random_JJ nonzero_NN vector_NN ,_, then_RB iterate_VB pr_FW ←_FW αCpr_FW +_CC -LRB-_-LRB- 1_CD −_NN α_NN -RRB-_-RRB- r._NN For_IN large_JJ data_NNS graphs_NNS -LRB-_-LRB- beyond_IN tens_NNS of_IN millions_NNS

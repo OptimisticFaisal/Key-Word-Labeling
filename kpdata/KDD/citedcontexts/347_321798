@@ -1,0 +1,5 @@
+itable_JJ for_IN sparse_JJ data_NNS such_JJ as_IN supermarket_NN transactions_NNS ._.
+It_PRP is_VBZ not_RB so_RB suitable_JJ for_IN classification_NN datasets_NNS ,_, which_WDT often_RB contain_VBP a_DT huge_JJ number_NN of_IN associations_NNS and_CC can_MD result_VB in_IN combinatorial_JJ explosion_NN =_JJ -_: =[_NN 10_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+When_WRB we_PRP have_VBP too_RB many_JJ rules_NNS ,_, it_PRP becomes_VBZ very_RB hard_JJ ,_, if_IN not_RB impossible_JJ ,_, for_IN human_JJ to_TO analyze_VB ._.
+-LRB-_-LRB- 25_CD -RRB-_-RRB- proposes_VBZ to_TO use_VB belief_NN systems_NNS to_TO describe_VB unexpectedness_NN ._.
+A_DT number_NN of_IN formal_JJ approaches_NNS to_TO the_DT belie_VB

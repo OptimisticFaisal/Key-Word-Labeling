@@ -1,0 +1,5 @@
+legitimate_JJ discussions_NNS on_IN a_DT linguistics_NNS mailing_NN list_NN and_CC the_DT spam_NN mails_NNS received_VBN by_IN the_DT list_NN ._.
+There_EX are_VBP 2412_CD non-spam_JJ messages_NNS and_CC 481_CD spam_NN ones_NNS ._.
+Thus_RB ,_, around_IN 16.6_CD %_NN of_IN the_DT corpus_NN is_VBZ spam_NN ._.
+Email-Data_NN =_SYM -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: :_: This_DT corpus_NN consists_VBZ of_IN texts_NNS from_IN 1431_CD emails_NNS ,_, with_IN 642_CD non-spam_JJ messages_NNS -LRB-_-LRB- conferences_NNS -LRB-_-LRB- 370_CD -RRB-_-RRB- and_CC jobs_NNS -LRB-_-LRB- 272_CD -RRB-_-RRB- -RRB-_-RRB- and_CC 789_CD spam_NN ones_NNS ._.
+Each_DT of_IN these_DT datasets_NNS was_VBD divided_VBN into_IN ten_CD parts_NNS for_IN tenfold_JJ cross-v_NN

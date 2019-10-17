@@ -1,0 +1,5 @@
+ntly_RB ._.
+Another_DT approach_NN to_TO achieve_VB privacy-preserving_JJ data_NNS mining_NN is_VBZ to_TO use_VB Secure_NNP Multi-party_JJ Computation_NN -LRB-_-LRB- SMC_NN -RRB-_-RRB- techniques_NNS ._.
+Several_JJ SMC-based_JJ privacy-preserving_JJ data_NNS mining_NN schemes_NNS have_VBP been_VBN proposed_VBN =_JJ -_: =[_NN 4_CD ,_, 7_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- considers_VBZ the_DT problem_NN ofthe_NN decision_NN tree_NN building_NN over_IN horizontally_RB partitioned_VBN data_NNS ,_, i.e._FW ,_, one_CD party_NN has_VBZ a_DT set_VBN ofrecords_NNS -LRB-_-LRB- rows_NNS -RRB-_-RRB- and_CC the_DT other_JJ has_VBZ another_DT set_VBN ofdifferent_NN records_NNS ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 4_LS -RRB-_-RRB- c_NN

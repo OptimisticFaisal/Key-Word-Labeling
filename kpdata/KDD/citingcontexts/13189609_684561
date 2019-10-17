@@ -1,0 +1,4 @@
+PREDUCElike_JJ systems_NNS have_VBP been_VBN extensively_RB explored_VBN for_IN various_JJ data_NNS processing_NN ._.
+Representative_JJ work_NN include_VBP Pregel_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ,_, PEGASUS_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, SCOPE_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, Dryad_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, PIG_NN Latin_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- ,_, Sphere_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, and_CC Sawzall_NN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_JJ -_: ,_, etc._NN ._.
+Among_IN them_PRP ,_, both_DT PEGASUS_NNP and_CC Pregel_NNP focus_NN on_IN large_JJ graph_NN querying\/mining_NN and_CC are_VBP most_RBS related_JJ to_TO our_PRP$ work_NN ._.
+The_DT proposed_VBN GBASE_NNP provides_VBZ an_DT even_RB lower-level_JJ support_NN in_IN terms_NNS of_IN storage_NN cost_NN by_IN in_IN

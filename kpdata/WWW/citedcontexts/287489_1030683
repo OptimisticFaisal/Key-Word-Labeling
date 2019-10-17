@@ -1,0 +1,3 @@
+just_RB the_DT leaf_NN classes_NNS -RRB-_-RRB- that_WDT best_RB describes_VBZ the_DT object_NN ._.
+There_EX is_VBZ considerable_JJ previous_JJ work_NN on_IN hierarchical_JJ classification_NN of_IN textual_JJ documents_NNS in_IN a_DT supervised_JJ setting_NN -LRB-_-LRB- e.g._FW ,_, Neural_NNP Networks_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, SVMs_NNS =_SYM -_: =[_NN 3_CD ,_, 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Probabilistic_JJ models_NNS -LRB-_-LRB- 2_CD ,_, 5_CD -RRB-_-RRB- ,_, Association_NN Rules_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, etc._NN -RRB-_-RRB- ._.
+Supervised_VBN learning_NN ,_, however_RB ,_, is_VBZ not_RB always_RB feasible_JJ because_IN labeled_JJ training_NN examples_NNS are_VBP needed_VBN whenever_WRB a_DT taxonomy_NN is_VBZ created_VBN or_CC modifie_NN

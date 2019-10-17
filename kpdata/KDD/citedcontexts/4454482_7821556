@@ -1,0 +1,4 @@
+es_NNS between_IN author_NN and_CC recipients_NNS -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+Further_JJ approaches_NNS include_VBP the_DT modeling_NN of_IN images_NNS and_CC their_PRP$ corresponding_JJ captions_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- as_RB well_RB as_IN the_DT modeling_NN of_IN dependencies_NNS between_IN topics_NNS and_CC named_VBN entities_NNS =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP another_DT extension_NN of_IN the_DT LDA_NNP framework_NN ,_, the_DT so-called_JJ Topic-Concept_NN -LRB-_-LRB- TC_NN -RRB-_-RRB- model_NN ,_, to_TO resemble_VB the_DT generative_JJ process_NN of_IN creating_VBG an_DT indexed_VBN PubMed_NNP abstract_JJ ._.
+The_DT approach_NN si_IN

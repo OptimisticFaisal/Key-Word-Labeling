@@ -1,0 +1,3 @@
+ies_NNS obtained_VBN in_IN each_DT time_NN window_NN in_IN order_NN to_TO visualize_VB the_DT evolution_NN of_IN communities_NNS and_CC their_PRP$ clustering_NN is_VBZ based_VBN on_IN a_DT heuristic_NN similarity_NN between_IN communities_NNS at_IN different_JJ time_NN windows_NNS ._.
+Qamra_NNP et_FW al._FW =_SYM -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT community-based_JJ temporal_JJ clustering_NN using_VBG the_DT Chinese_NNP Restaurant_NNP Process_VB ._.
+Unfortunately_RB ,_, the_DT inference_NN of_IN their_PRP$ model_NN requires_VBZ Gibbs_NNP sampling_NN ,_, which_WDT is_VBZ notoriously_RB slow_JJ for_IN large_JJ scale_NN dat_NN

@@ -1,0 +1,4 @@
+n_NN rate_NN on_IN new_JJ -LRB-_-LRB- test_NN -RRB-_-RRB- tuples_NNS ._.
+The_DT classical_JJ remedies_NNS to_TO overfitting_NN include_VBP downsizing_VBG the_DT training-set_NN ,_, and_CC increasing_VBG the_DT pruning_NN level_NN ._.
+In_IN our_PRP$ case_NN study_NN ,_, we_PRP adopted_VBD an_DT incremental_JJ samples_NNS approach_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: to_TO sizing_VBG the_DT training-set_NN ,_, consisting_VBG in_IN training_VBG a_DT sequence_NN of_IN classifiers_NNS over_IN increasingly_RB larger_JJR ,_, randomly_RB generated_VBN subsets_NNS of_IN the_DT dataset_NN -_: lo_FW %_NN ,_, 20_CD %_NN ,_, 33_CD %_NN ,_, 50_CD %_NN ,_, 66_CD %_NN ,_, 90_CD %_NN of_IN the_DT total_JJ dataset_NN ._.
+W_NN

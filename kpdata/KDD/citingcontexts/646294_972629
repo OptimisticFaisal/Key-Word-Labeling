@@ -1,0 +1,3 @@
+a_DT graph_NN ,_, and_CC the_DT problem_NN of_IN clustering_NN can_MD be_VB converted_VBN to_TO some_DT traditional_JJ graph_NN problems_NNS ,_, such_JJ as_IN finding_NN -LRB-_-LRB- quasi_JJ -_: -RRB-_-RRB- cliques_NNS or_CC minimum_JJ cut_NN in_IN the_DT graph_NN ._.
+For_IN example_NN ,_, the_DT spectral_JJ clustering_NN approach_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB viewed_VBN as_IN finding_VBG the_DT relaxed_VBN optimal_JJ normalized_VBD cuts_NNS in_IN a_DT weighted_JJ graph_NN ._.
+A_DT spectral_JJ clustering_NN algorithm_NN that_WDT uses_VBZ the_DT k_NN eigenvectors_NNS of_IN the_DT adjacency_NN matrix_NN simultaneously_RB was_VBD presented_VBN in_IN

@@ -1,0 +1,4 @@
+Query_NNP Relaxation_NNP Language_NNP A_NNP number_NN of_IN XML_NN approximate_JJ search_NN languages_NNS have_VBP been_VBN proposed_VBN ._.
+Most_JJS extend_VBP standard_JJ query_NN languages_NNS with_IN constructs_NNS for_IN approximate_JJ text_NN search_NN -LRB-_-LRB- e.g._FW ,_, XIRQL_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, TeXQuery_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, NEXI_NN -LRB-_-LRB- 30_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+For_IN example_NN ,_, TeXQuery_NNP extends_VBZ XQuery_NN with_IN a_DT rich_JJ set_NN of_IN full-text_JJ search_NN primitives_NNS ,_, such_JJ as_IN proximity_NN distances_NNS ,_, stemming_VBG and_CC thesauri_NNS ._.
+NEXI_NN introduces_VBZ about_IN functions_NNS for_IN users_NNS to_TO spec_VB

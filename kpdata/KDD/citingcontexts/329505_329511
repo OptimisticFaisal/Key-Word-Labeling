@@ -1,0 +1,4 @@
+mory_NN -RRB-_-RRB- ._.
+We_PRP define_VBP the_DT span_NN of_IN an_DT interval_NN ,_, -LRB-_-LRB- l_NN ,_, u_NN -RRB-_-RRB- ,_, of_IN an_DT attribute_NN as_IN u_FW −_FW l_NN n_NN ,_, where_WRB n_NN is_VBZ the_DT number_NN of_IN base_NN intervals_NNS of_IN the_DT attribute_NN ._.
+For_IN example_NN ,_, if_IN age_NN has_VBZ 100_CD base_NN intervals_NNS ,_, the_DT interval_JJ span_NN of_IN =_JJ -_: =[_NN 20_CD ,_, 80_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ 60_CD %_NN ._.
+We_PRP find_VBP that_IN ,_, for_IN the_DT patterns_NNS returned_VBN by_IN QCoMine-1_NN but_CC not_RB by_IN QCoMine_NN ,_, 35_CD %_NN of_IN them_PRP consist_VBP of_IN intervals_NNS that_WDT have_VBP a_DT span_NN of_IN 90_CD %_NN -LRB-_-LRB- i.e._FW ,_, almost_RB the_DT entire_JJ domain_NN -RRB-_-RRB- ,_, while_IN most_JJS of_IN the_DT rest_NN cons_NNS

@@ -1,0 +1,5 @@
+s_NNS were_VBD implemented_VBN in_IN MATLAB_NNP 2008a_CD on_IN an_DT 8-core_JJ machine_NN with_IN 32GB_JJ RAM_NNP running_VBG 64-bit_JJ Windows_NNP Server_NN 2008_CD ._.
+We_PRP fit_VBD two_CD sets_NNS of_IN parameters_NNS for_IN navigational_JJ queries_NNS and_CC informational_JJ queries_NNS according_VBG to_TO =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP set_VBD the_DT number_NN of_IN bins_NNS B_NN in_IN BBM_NN to_TO 100_CD to_TO get_VB adequate_JJ level_NN of_IN accuracy_NN ._.
+Similarly_RB ,_, all_DT parameter_NN values_NNS for_IN UBM_NN ranges_NNS from_IN 0.01_CD to_TO 1.00_CD ,_, with_IN 0.01_CD increment_NN ._.
+For_IN each_DT query_NN ,_, we_PRP compute_VBP documen_NNS

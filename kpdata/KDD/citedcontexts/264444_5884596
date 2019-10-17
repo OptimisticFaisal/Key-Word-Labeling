@@ -1,0 +1,4 @@
+ain_IN the_DT name_NN of_IN any_DT patient_NN ,_, through_IN an_DT equi-join_NN between_IN Tables_NNS Ia_NN and_CC Ib_NN ._.
+The_DT joining_VBG columns_NNS Age_NN ,_, Gender_NN ,_, and_CC Zipcode_NNP are_VBP therefore_RB called_VBN the_DT quasi-identifier_NN -LRB-_-LRB- QI_NN -RRB-_-RRB- attributes_NNS ._.
+Generalization_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- is_VBZ a_DT popular_JJ methodology_NN for_IN preventing_VBG linking_VBG attacks_NNS ._.
+The_DT objective_NN is_VBZ to_TO replace_VB each_DT QI_NNP value_NN with_IN a_DT less_RBR specific_JJ form_NN ,_, so_IN that_IN each_DT tuple_NN is_VBZ indistinguishable_JJ from_IN several_JJ other_JJ

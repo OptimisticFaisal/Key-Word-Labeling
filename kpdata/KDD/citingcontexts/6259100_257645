@@ -1,0 +1,4 @@
+.1_CD Experimental_JJ Setup_NN Unless_IN otherwise_RB noted_VBN ,_, all_PDT the_DT experiments_NNS were_VBD conducted_VBN on_IN a_DT Pentium_NNP 4_CD 2.66_CD GHz_NN machine_NN with_IN 1GB_NN RAM_NNP running_VBG Linux_NNP 2.6.8_CD ._.
+We_PRP use_VBP the_DT implementation_NN of_IN the_DT apriori_JJ algorithm_NN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: to_TO collect_VB the_DT frequent_JJ itemsets_NNS and_CC the_DT corresponding_JJ closed_JJ itemsets_NNS ._.
+We_PRP use_VBP the_DT implementation_NN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- to_TO collect_VB frequent_JJ non-derivable_JJ itemsets_NNS ._.
+We_PRP detail_NN the_DT datasets_NNS and_CC performance_NN metrics_NNS con_VBP

@@ -1,0 +1,5 @@
+x_NN T_NN Lx_NN =_JJ x_NN T_NN I_CD G_NN I_CD T_NN G_NN x_NN =_JJ y_NN T_NN y_NN 0_CD ;_: for_IN all_DT x_NN :_: This_DT implies_VBZ that_IN L_NN is_VBZ symmetric_JJ positive_JJ semi-denite_NN ._.
+All_DT such_JJ matrices_NNS have_VBP nonnegative_JJ real_JJ eigenvalues_NNS and_CC a_DT full_JJ set_NN of_IN n_NN orthogonal_JJ eigenvectors_NNS -LRB-_-LRB- 1_CD =_JJ -_: =_JJ 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4_LS ._.
+Given_VBN any_DT vector_NN x_NN ,_, Lx_NN =_JJ I_NN G_NN -LRB-_-LRB- I_NN G_NN T_NN x_NN -RRB-_-RRB- ._.
+Let_VB k_NN be_VB the_DT row_NN of_IN I_NN G_NN T_NN x_NN that_WDT corresponds_VBZ to_TO the_DT edge_NN fi_NN ;_: jg_NN ,_, then_RB it_PRP is_VBZ easy_JJ to_TO see_VB that_IN -LRB-_-LRB- I_NN G_NN T_NN x_NN -RRB-_-RRB- k_NN =_JJ p_NN E_NN ij_NN -LRB-_-LRB- x_NN i_FW x_NN j_NN -RRB-_-RRB- ;_: -LRB-_-LRB- 3.5_CD -RRB-_-RRB- and_CC so_RB when_WRB x_NN =_JJ e_LS ,_, Le_NNP =_JJ

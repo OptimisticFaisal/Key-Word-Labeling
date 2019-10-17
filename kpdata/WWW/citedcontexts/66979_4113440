@@ -1,0 +1,4 @@
+xperienced_VBN by_IN requests_NNS dropped_VBD in_IN the_DT kernel_NN queues_NNS ._.
+Moving_VBG the_DT load_NN control_NN to_TO the_DT application_NN level_NN also_RB allows_VBZ for_IN the_DT use_NN of_IN application-level_JJ information_NN in_IN the_DT load_NN control_NN process_NN ._.
+Chen_NNP et_FW al._FW =_SYM -_: =[_NN 59_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Elnikety_NNP et_FW al._FW -LRB-_-LRB- 78_CD -RRB-_-RRB- follow_VBP the_DT latter_JJ approach_NN ,_, i.e._FW they_PRP approximate_JJ the_DT current_JJ system_NN load_NN based_VBN on_IN estimates_NNS of_IN the_DT work_NN imposed_VBN by_IN each_DT request_NN in_IN progress_NN ._.
+Chen_NNP et_FW al._FW experiment_NN with_IN the_DT

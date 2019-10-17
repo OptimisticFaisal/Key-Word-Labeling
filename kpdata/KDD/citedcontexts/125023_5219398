@@ -1,0 +1,3 @@
+tent_NN cost_NN matrices_NNS ,_, ICM_NNP :_: inconsistent_JJ cost_NN matrices_NNS -RRB-_-RRB- on_IN CCM_NNP on_IN ICM_NNP BLIND_NNP OLD_NNP BLIND_NNP OLD_NNP OLD_NNP 8\/12\/0_CD -_: 7\/13\/0_CD -_: NEW_NN 15\/5\/0_CD 13\/7\/0_CD 17\/2\/1_CD 13\/6\/1_CD There_EX are_VBP some_DT powerful_JJ tools_NNS such_JJ as_IN ROC_NN and_CC cost_NN curves_NNS -LRB-_-LRB- =_JJ -_: =_JJ Drummond_NNP &_CC Holte_NNP 2000_CD -_: =--RRB-_NN for_IN visually_RB evaluating_VBG the_DT performance_NN of_IN binary-class_JJ cost-sensitive_JJ learning_NN approaches_NNS ._.
+Unfortunately_RB ,_, they_PRP can_MD hardly_RB be_VB applied_VBN to_TO multi-class_JJ problems_NNS ._.
+Therefore_RB ,_, here_RB the_DT misclassification_NN c_NN

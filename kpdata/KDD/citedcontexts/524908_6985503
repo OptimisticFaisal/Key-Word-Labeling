@@ -1,0 +1,4 @@
+dataset_NN of_IN size_NN two_CD million_CD objects_NNS with_IN dimensionality_NN 512_CD in_IN less_JJR than_IN an_DT hour_NN ,_, most_JJS of_IN which_WDT is_VBZ I\/O_NN time_NN ._.
+Distance_NNP based_VBN outliers_NNS are_VBP also_RB the_DT problem_NN of_IN study_NN in_IN Knorr_NNP et_FW al._FW -LRB-_-LRB- 21_CD -RRB-_-RRB- and_CC Tao_NNP et_FW al._FW =_SYM -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Both_DT works_NNS discuss_VBP a_DT quadratic_JJ -LRB-_-LRB- in_IN the_DT dataset_NN size_NN -RRB-_-RRB- nested_JJ loop_NN algorithm_NN for_IN outlier_NN detection_NN and_CC subsequently_RB suggest_VBP ways_NNS for_IN its_PRP$ improvement_NN ._.
+Knorr_NNP et_FW al._FW -LRB-_-LRB- 21_CD -RRB-_-RRB- propose_VBP an_DT algorithm_NN that_IN perfor_NN

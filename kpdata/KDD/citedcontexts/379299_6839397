@@ -1,0 +1,5 @@
+thods_NNS and_CC K-means_NNS on_IN various_JJ document_NN sets_NNS from_IN TREC_NNP ,_, Reuters_NNP ,_, WebACE_NN ,_, etc_NN ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+A_DT recent_JJ comparative_JJ study_NN showed_VBD CLUTO_NNP 's_POS vcluster_NN outperforms_VBZ several_JJ model-based_JJ document_NN clustering_NN algorithms_NNS =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+D._NNP Experiment_NNP Results_NNS Figure_NN 5_CD shows_VBZ MI_NNP results_NNS and_CC Table_NNP 4_CD summarizes_VBZ the_DT statistical_JJ information_NN of_IN all_PDT the_DT experiment_NN results_NNS ._.
+From_IN them_PRP we_PRP notice_VBP the_DT following_JJ obervations_NNS ._.
+•_NNP COGR_NNP achieves_VBZ the_DT b_NN

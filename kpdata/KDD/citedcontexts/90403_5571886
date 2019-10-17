@@ -1,0 +1,3 @@
+he_PRP output_NN file_NN ._.
+return_NN output_NN file_NN Figure_NNP 4_CD :_: the_DT algorithm_NN of_IN pruned_VBN -LRB-_-LRB- two-frequency-threshold_JJ based_VBN -RRB-_-RRB- bag_NN of_IN single-word_JJ approach_NN 4_CD EMERGING_NNP PATTERN_NNP BASED_NN BAG_NN OF_IN SINGLE-WORDS_NN APPROACH_NN Emerging_VBG pattern_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 23_CD -RRB-_-RRB- represents_VBZ a_DT kind_NN of_IN hidden_JJ data_NNS relationship_NN based_VBN on_IN finding_VBG frequent_JJ itemsets_NNS from_IN transactional_JJ databases_NNS ._.
+For_IN these_DT generated_VBN itemsets_NNS ,_, if_IN any_DT of_IN them_PRP illustrate_VBP a_DT significant_JJ frequency_NN inc_NN

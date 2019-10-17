@@ -1,0 +1,6 @@
+ncate_VB the_DT real_JJ valued_VBN coefficients_NNS to_TO save_VB space_NN ?_.
+In_IN fact_NN ,_, this_DT is_VBZ a_DT very_RB common_JJ idea_NN in_IN compression_NN of_IN time_NN series_NN data_NNS ._.
+For_IN example_NN ,_, in_IN the_DT medical_JJ domain_NN it_PRP is_VBZ frequently_RB done_VBN for_IN both_CC the_DT wavelet_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: and_CC cosine_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- representations_NNS ._.
+However_RB ,_, recall_VBP that_IN we_PRP are_VBP not_RB interested_JJ in_IN compression_NN per_FW se_FW ._.
+Our_PRP$ interest_NN is_VBZ in_IN dimensionality_NN reduction_NN that_WDT allows_VBZ indexing_NN with_IN no_DT false_JJ dismissals_NNS ._.
+If_IN ,_, for_IN th_DT

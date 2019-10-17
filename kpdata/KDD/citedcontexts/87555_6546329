@@ -1,0 +1,4 @@
+cation_NN costs_NNS ._.
+Most_JJS relational_JJ classifiers_NNS implicitly_RB assume_VBP that_IN all_DT misclassifications_NNS are_VBP equally_RB costly_JJ ._.
+Within_IN the_DT machine_NN learning_NN community_NN ,_, there_EX is_VBZ a_DT rich_JJ tradition_NN of_IN cost-sensitive_JJ learning_NN =_JJ -_: =[_NN 8_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: applied_VBN to_TO independent_JJ identically_RB distributed_VBN data_NNS -LRB-_-LRB- non-relational_JJ data_NNS -RRB-_-RRB- which_WDT can_MD handle_VB varying_VBG misclassification_NN costs_NNS ._.
+Our_PRP$ main_JJ contribution_NN is_VBZ to_TO develop_VB cost-sensitive_JJ relational_JJ classifiers_NNS w_NN

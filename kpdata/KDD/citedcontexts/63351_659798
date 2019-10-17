@@ -1,0 +1,4 @@
+wn_NN to_TO be_VB a_DT very_RB efficient_JJ non-deterministic_JJ planner_NN -LRB-_-LRB- 9_CD ,_, 10_CD -RRB-_-RRB- ._.
+One_CD of_IN our_PRP$ main_JJ research_NN objectives_NNS is_VBZ to_TO develop_VB planning_NN systems_NNS suitable_JJ for_IN planning_NN in_IN uncertain_JJ ,_, single_JJ ,_, or_CC multi-agent_JJ environments_NNS =_JJ -_: =[_NN 25_CD ,_, 42_CD ,_, 39_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT universal_JJ planning_NN approach_NN ,_, as_IN originally_RB developed_VBN -LRB-_-LRB- 38_CD -RRB-_-RRB- ,_, is_VBZ appealing_VBG for_IN this_DT type_NN of_IN environments_NNS ._.
+A_DT universal_JJ plan_NN is_VBZ a_DT set_NN of_IN state-action_JJ rules_NNS that_WDT aim_VBP at_IN covering_VBG the_DT possible_JJ multiple_NN

@@ -1,0 +1,4 @@
+de_IN in_IN our_PRP$ case_NN ._.
+But_CC still_RB by_IN far_RB the_DT main_JJ problem_NN for_IN SVMs_NNS comes_VBZ with_IN the_DT number_NN of_IN training_NN data_NNS points_NNS ,_, which_WDT are_VBP in_IN our_PRP$ case_NN products_NNS ,_, constantly_RB growing_VBG in_IN number_NN ._.
+The_DT most_RBS advanced_JJ SMO_NN algorithm_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ at_IN least_JJS quadratic_JJ complexity_NN in_IN the_DT number_NN of_IN data_NNS points_NNS per_IN iteration_NN ._.
+There_EX has_VBZ been_VBN work_NN on_IN speeding_VBG up_RP SVM_NN training_NN includes_VBZ various_JJ forms_NNS of_IN data_NN sampling_NN ,_, boosting_VBG -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC squashing_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.

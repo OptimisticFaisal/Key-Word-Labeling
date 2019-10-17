@@ -1,0 +1,3 @@
+4_LS -RRB-_-RRB- -RRB-_-RRB- ,_, the_DT most_RBS common_JJ method_NN for_IN using_VBG crowdsourcing_VBG to_TO label_VB data_NNS is_VBZ to_TO obtain_VB multiple_JJ labels_NNS for_IN each_DT item_NN from_IN different_JJ labelers_NNS and_CC treat_VB the_DT majority_NN label_NN as_IN an_DT items_NNS true_JJ label_NN ._.
+Sheng_NNP et_FW al._FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, for_IN example_NN ,_, demonstrated_VBD that_IN repeated_VBN labeling_NN can_MD be_VB preferable_JJ to_TO single_JJ labeling_NN in_IN the_DT presence_NN of_IN label_NN noise_NN ,_, especially_RB when_WRB the_DT cost_NN of_IN data_NNS preprocessing_VBG is_VBZ non-negligible_JJ ._.
+A_DT number_NN of_IN re_FW

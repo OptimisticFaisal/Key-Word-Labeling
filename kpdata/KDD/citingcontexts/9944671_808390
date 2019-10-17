@@ -1,0 +1,3 @@
+s_NNS statistically_RB significantly_RB better_JJR than_IN the_DT others_NNS on_IN B_NN 0_CD ,_, it_PRP 's_VBZ also_RB the_DT best_JJS on_IN N._NNP These_DT results_NNS show_VBP 6_CD All_DT statistical_JJ significance_NN results_NNS for_IN AUCs_NNS are_VBP computed_VBN using_VBG the_DT procedure_NN described_VBN by_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ the_DT procedure_NN implemented_VBN by_IN the_DT commercial_JJ statistical_JJ packages_NNS SAS_NNP and_CC Stata_NNP ._.
+Qualitatively_RB similar_JJ results_NNS were_VBD obtained_VBN via_IN t-tests_NN over_IN mean_JJ AUCs_NNS from_IN randomly_RB resampled_VBN test_NN sets_NNS ._.
+one_CD

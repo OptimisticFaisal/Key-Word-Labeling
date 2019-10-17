@@ -1,0 +1,4 @@
+d_NN using_VBG a_DT ``_`` unit_NN causal_JJ graph_NN ''_'' -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, which_WDT plays_VBZ the_DT role_NN of_IN the_DT graphical_JJ model_NN mentioned_VBN above_IN ._.
+Here_RB the_DT conditional_JJ density_NN model_NN for_IN an_DT edge_NN set_NN could_MD in_IN principle_NN be_VB an_DT arbitrary_JJ statistical_JJ model_NN =_JJ -_: =[_NN 13_CD ,_, 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC in_IN all_DT of_IN our_PRP$ experiments_NNS ,_, we_PRP assume_VBP that_IN they_PRP are_VBP linear_JJ Gaussian_JJ models_NNS -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+Similarly_RB ,_, we_PRP assume_VBP that_IN the_DT initial_JJ distribution_NN is_VBZ a_DT linear_JJ combination_NN of_IN Gaussians_NNP ._.
+With_IN these_DT assumptions_NNS ,_, t_NN

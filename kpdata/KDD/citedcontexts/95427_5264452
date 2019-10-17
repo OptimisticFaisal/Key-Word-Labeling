@@ -1,0 +1,4 @@
+a_DT Large_JJ Data_NN Set_NN with_IN Drift_NN To_TO determine_VB how_WRB well_RB DWM-NB_NN performs_VBZ on_IN larger_JJR problems_NNS involving_VBG concept_NN drift_NN ,_, we_PRP evaluated_VBD it_PRP using_VBG a_DT synthetic_JJ problem_NN recently_RB proposed_VBN in_IN the_DT data_NNS mining_NN community_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT problem_NN ,_, which_WDT we_PRP call_VBP the_DT ``_`` SEA_NN Concepts_NNS ''_'' ,_, consists_VBZ of_IN three_CD attributes_NNS ,_, xi_FW ∈_FW R_NN such_JJ that_IN 0.0_CD ≤_CD xi_FW ≤_FW 10.0_CD ._.
+The_DT target_NN concept_NN is_VBZ x1_NN +_CC x2_FW ≤_FW b_NN ,_, where_WRB b_NN ∈_CD -LCB-_-LRB- 7_CD ,_, 8_CD ,_, 9_CD ,_, 9.5_CD -RCB-_-RRB- ._.
+Thus_RB ,_, x3_NN is_VBZ an_DT irrelevant_JJ

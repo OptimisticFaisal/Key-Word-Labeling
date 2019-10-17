@@ -1,0 +1,5 @@
+ain_NN ._.
+The_DT system_NN then_RB finds_VBZ those_DT unexpected_JJ rules_NNS by_IN comparing_VBG the_DT user_NN 's_POS knowledge_NN with_IN the_DT discovered_VBN rules_NNS ._.
+Again_RB ,_, these_DT methods_NNS do_VBP not_RB prune_VB and_CC do_VB not_RB attempt_VB to_TO summarize_VB the_DT association_NN rules_NNS ._.
+=_SYM -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 18_CD -RRB-_-RRB- investigated_VBN using_VBG item_NN constraints_NNS specified_VBN by_IN the_DT user_NN in_IN rule_NN mining_NN to_TO generate_VB only_RB the_DT relevant_JJ rules_NNS ._.
+Essentially_RB ,_, the_DT constraints_NNS restrict_VBP the_DT items_NNS or_CC combination_NN of_IN items_NNS allowed_VBN

@@ -1,0 +1,4 @@
+equent_JJ complete_JJ crawls_VBZ ._.
+To_TO address_VB this_DT issue_NN ,_, we_PRP have_VBP derived_VBN wrapper_NN rules_NNS that_WDT extract_VBP not_RB only_RB data_NN values_NNS ,_, but_CC also_RB links_VBZ to_TO extract_VB and_CC enqueue_VB to_TO the_DT spider_NN ._.
+-LRB-_-LRB- The_DT wrapping_VBG systems_NNS described_VBN in_IN =_JJ -_: =[_NN 4_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: likewise_RB include_VBP rules_NNS for_IN directed_JJ crawling_NN ._. -RRB-_-RRB-
+We_PRP then_RB extended_VBD the_DT wrapper-directed_JJ spider_NN so_IN that_IN links_NNS are_VBP added_VBN to_TO the_DT spider_NN queue_NN only_RB when_WRB two_CD criteria_NNS hold_VBP :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- the_DT link_NN matches_VBZ a_DT rule_NN in_IN the_DT

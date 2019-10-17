@@ -1,0 +1,4 @@
+many_JJ methods_NNS have_VBP been_VBN proposed_VBN to_TO deal_VB with_IN ``_`` dirty_JJ ''_'' large_JJ databases_NNS ._.
+While_IN Section_NNP 1.1_CD will_MD give_VB a_DT more_RBR detailed_JJ discussion_NN on_IN related_JJ work_NN ,_, two_CD state-ofthe-art_JJ methods_NNS are_VBP Quadrant_JJ Correlation_NN -LRB-_-LRB- QC_NN -RRB-_-RRB- =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT Maronna_NNP method_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+For_IN the_DT given_VBN example_NN ,_, the_DT correlation_NN based_VBN on_IN QC_NN drops_NNS from_IN 0.98_CD when_WRB the_DT data_NNS were_VBD perfectly_RB clean_JJ ,_, to_TO 0.60_CD with_IN a_DT small_JJ percentage_NN of_IN outliers_NNS ._.
+The_DT Maronna_NNP method_NN is_VBZ e_SYM

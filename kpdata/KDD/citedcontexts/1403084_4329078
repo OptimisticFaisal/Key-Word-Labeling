@@ -1,0 +1,4 @@
+n_NN some_DT work_NN in_IN pruning_NN discovered_VBD association_NN rules_NNS by_IN forming_VBG rule_NN covers_NNS -LRB-_-LRB- Toivonen_NNP et_FW al._FW ,_, 1995_CD -RRB-_-RRB- ._.
+Other_JJ work_NN addresses_VBZ the_DT problem_NN of_IN mining_NN interesting_JJ association_NN rules_NNS -LRB-_-LRB- Klemettinen_NNP et_FW al._FW ,_, 1994_CD ;_: =_JJ -_: =_JJ Bayardo_NNP and_CC Agrawal_NNP ,_, 1999_CD -_: =_JJ -_: ;_: Liu_NNP et_FW al._FW ,_, 1999_CD ;_: Ng_NN et_FW al._FW ,_, 1998_CD -RRB-_-RRB- ._.
+The_DT approach_NN taken_VBN is_VBZ to_TO incorporate_VB user-specified_JJ constraints_NNS on_IN the_DT kinds_NNS of_IN rules_NNS generated_VBN or_CC to_TO define_VB objective_JJ metrics_NNS of_IN interestingness_NN ._.
+As_IN such_JJ these_DT w_NN

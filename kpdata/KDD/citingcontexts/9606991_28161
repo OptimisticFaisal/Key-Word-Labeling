@@ -1,0 +1,4 @@
+can_MD be_VB estimated_VBN by_IN fitting_JJ the_DT model_NN to_TO the_DT given_VBN set_NN of_IN documents_NNS using_VBG the_DT EM_NN algorithm_NN ._.
+A_DT number_NN of_IN visualization_NN methods_NNS have_VBP been_VBN proposed_VBN ,_, such_JJ as_IN Multi-Dimensional_JJ Scaling_NN -LRB-_-LRB- MDS_NN -RRB-_-RRB- -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, Isomap_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Locally_RB Linear_JJ Embedding_NN -LRB-_-LRB- LLE_NN -RRB-_-RRB- -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+However_RB ,_, most_JJS of_IN these_DT methods_NNS take_VBP no_DT account_NN of_IN the_DT latent_JJ structure_NN in_IN the_DT given_VBN data_NNS such_JJ as_IN topics_NNS in_IN the_DT case_NN of_IN document_NN data_NNS ._.
+For_IN example_NN ,_, MDS_NN embeds_VBZ

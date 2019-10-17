@@ -1,0 +1,6 @@
+1_CD F_NN -LRB-_-LRB- i_LS -RRB-_-RRB- jC_NN i_FW j_FW jCj_NN The_DT F-measure_NN score_NN is_VBZ in_IN the_DT range_NN -LRB-_-LRB- 0_CD ;_: 1_LS -RRB-_-RRB- and_CC a_DT higher_JJR F-measure_NN score_NN implies_VBZ a_DT better_JJR clustering_NN ._.
+For_IN a_DT more_RBR in-depth_JJ introduction_NN and_CC justication_NN to_TO the_DT F_NN -_: measure_NN ,_, see_VB e.g._FW -LRB-_-LRB- 3_CD =_JJ -_: =_JJ 1_CD ,_, 21_CD ,_, 29_CD ,_, 10_CD ,_, 24_CD ,_, 34_CD -_: =-]_CD ._.
+2_CD ._.
+Entropy_NNP :_: For_IN each_DT ^_NN C_NN j_NN ,_, we_PRP dene_VBP the_DT entropy_NN of_IN ^_NN C_NN j_NN as_IN :_: E_NN -LRB-_-LRB- ^_CD C_NN j_NN -RRB-_-RRB- =_JJ k_NN X_NN i_LS =_JJ 1_CD jC_NN i_FW \_FW ^_FW C_NN j_NN j_NN j_NN ^_NN C_NN j_NN j_NN !_.
+log_NN jC_NN i_FW \_FW ^_FW C_NN j_NN j_NN j_NN ^_NN C_NN j_NN j_NN !_.
+The_DT entropy_NN of_IN a_DT cluster_NN is_VBZ a_DT measure_NN of_IN the_DT disorder_NN wi_NN

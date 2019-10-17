@@ -1,0 +1,5 @@
+c_NN approaches_NNS ,_, we_PRP learn_VBP a_DT sampling_NN distribution_NN by_IN formally_RB formulating_VBG the_DT batch_NN mode_NN active_JJ learning_NN problem_NN ._.
+Finally_RB ,_, our_PRP$ work_NN is_VBZ different_JJ from_IN some_DT other_JJ recent_JJ work_NN on_IN batch_NN mode_NN active_JJ learning_NN =_JJ -_: =[_NN 8_CD ,_, 6_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT studies_NNS were_VBD mainly_RB based_VBN on_IN kernel_NN logistic_JJ regressions_NNS ,_, which_WDT may_MD not_RB be_VB able_JJ to_TO applicable_JJ to_TO SVM_NNP models_NNS directly_RB ._.
+5_CD ._.
+Conclusion_NN We_PRP proposed_VBD a_DT novel_JJ semi-supervised_JJ SVM_NN batch_NN mode_NN active_JJ le_FW

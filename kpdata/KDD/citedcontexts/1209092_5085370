@@ -1,0 +1,5 @@
+a_DT clinical_JJ data_NN set_NN where_WRB class_NN labels_NNS are_VBP assigned_VBN by_IN doctors_NNS ._.
+To_TO measure_VB the_DT performance_NN of_IN our_PRP$ clustering_NN result_NN ,_, we_PRP define_VBP the_DT error_NN rate_NN e_SYM ,_, which_WDT is_VBZ derived_VBN from_IN the_DT cluster_NN disagreement_NN used_VBN in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Suppose_VB we_PRP have_VBP N_NN data_NNS points_NNS in_IN K_NN clusters_NNS ._.
+Let_VB us_PRP define_VB a_DT 0-1_CD membership_NN function_NN xi_NN ,_, v._CC xi_FW ,_, v_LS =_JJ 1_CD if_IN the_DT ith_NN data_NNS point_NN is_VBZ in_IN the_DT vth_NN cluster_NN or_CC else_RB it_PRP is_VBZ 0_CD ._.
+With_IN such_JJ function_NN ,_, e_SYM is_VBZ defined_VBN as_IN 1_CD

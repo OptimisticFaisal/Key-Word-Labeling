@@ -1,0 +1,5 @@
+are_VBP involved_VBN in_IN the_DT joins_VBZ ._.
+The_DT BANKS_NN system_NN proposed_VBN by_IN Bhalotia_NNP et_FW al._FW enables_VBZ a_DT user_NN to_TO issue_VB keyword-based_JJ queries_NNS to_TO a_DT relational_JJ database_NN without_IN any_DT knowledge_NN of_IN the_DT underlying_VBG database_NN schema_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+BANKS_NNS models_NNS database_NN tuples_NNS as_IN nodes_NNS in_IN a_DT graph_NN ,_, but_CC is_VBZ restricted_JJ to_TO return_VB tree-structured_JJ results_NNS ._.
+G-Ray_NN imposes_VBZ no_DT such_JJ restriction_NN ._.
+In_IN addition_NN ,_, BANKS_NN assesses_VBZ relevance_NN of_IN results_NNS based_VBN on_IN th_DT

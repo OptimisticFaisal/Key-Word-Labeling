@@ -1,0 +1,5 @@
+ppropriately_RB formed_VBN queries_NNS -RRB-_-RRB- that_WDT may_MD not_RB be_VB available_JJ in_IN the_DT seismic_JJ monitoring_NN domain_NN ._.
+Anomaly_JJ Detection_NN ._.
+There_EX has_VBZ also_RB been_VBN significant_JJ amount_NN of_IN prior_JJ work_NN on_IN anomaly_JJ detection_NN ._.
+Yamanishi_NNP et_FW al._FW =_SYM -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: develop_VB the_DT SmartSifter_NNP approach_NN that_WDT uses_VBZ Gaussian_JJ or_CC kernel_NN mixture_NN modelsto_NN efficiently_RB learn_VBP anomaly_RB detection_NN models_NNS in_IN an_DT online_JJ manner_NN ._.
+While_IN results_NNS apply_VBP only_RB in_IN the_DT centralized_JJ setting_NN ,_, th_DT

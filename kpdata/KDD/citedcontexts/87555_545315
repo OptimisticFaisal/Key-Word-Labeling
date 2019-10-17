@@ -1,0 +1,5 @@
+rpus_NN to_TO another_DT ._.
+The_DT paper_NN ends_VBZ with_IN perspectives_NNS for_IN further_JJ research_NN ._.
+II_CD ._.
+TERMS_NNP EXTRACTION_NNP MEASURES_NNP Different_NNP statistical_JJ criteria_NNS are_VBP used_VBN in_IN systems_NNS of_IN terminology_NN extraction_NN ,_, for_IN instance_NN ACABIT_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ loglikelihood_NN measure_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- and_CC KEA_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- uses_VBZ TF_NN x_NN IDF_NN measure_NN ._.
+The_DT statistical_JJ criteria_NNS -LRB-_-LRB- value_NN of_IN the_DT measures_NNS and_CC the_DT rank_NN of_IN each_DT collocation_NN -RRB-_-RRB- used_VBN in_IN our_PRP$ approach_NN are_VBP :_: Mutual_NNP Information_NNP -LRB-_-LRB- MI_NNP

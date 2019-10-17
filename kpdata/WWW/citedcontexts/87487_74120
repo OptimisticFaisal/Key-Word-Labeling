@@ -1,0 +1,5 @@
+are_VBP native_JJ ServiceGlobe_NNP services_NNS ._.
+They_PRP are_VBP implemented_VBN in_IN Java_NNP using_VBG the_DT service_NN API_NN provided_VBN by_IN the_DT ServiceGlobe_NNP system_NN ._.
+Of_IN course_NN ,_, it_PRP is_VBZ feasible_JJ to_TO use_VB a_DT specialized_JJ programming_NN language_NN ,_, e.g._FW ,_, XL_NNP =_SYM -_: =_JJ -LRB-_-LRB- FK01_NN -RRB-_-RRB- -_: =_JJ -_: ,_, or_CC a_DT graphical_JJ tool_NN to_TO draw_VB a_DT representation_NN -LRB-_-LRB- similar_JJ to_TO a_DT workflow_NN graph_NN -RRB-_-RRB- of_IN a_DT service_NN ,_, but_CC that_DT is_VBZ not_RB the_DT focus_NN of_IN our_PRP$ work_NN ._.
+ServiceGlobe_NN services_NNS use_VBP SOAP_NN to_TO communicate_VB with_IN other_JJ services_NNS ._.
+Ser_NN

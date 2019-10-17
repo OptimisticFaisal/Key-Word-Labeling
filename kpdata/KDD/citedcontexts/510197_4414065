@@ -1,0 +1,5 @@
+h_NN recognition_NN ._.
+In_IN this_DT approach_NN ,_, speech_NN observations_NNS are_VBP regarded_VBN as_IN continuous_JJ trajectories_NNS along_IN time_NN in_IN acoustic_JJ feature_NN space_NN ,_, and_CC clustered_VBD based_VBN on_IN mixtures_NNS of_IN regressions_NNS of_IN these_DT trajectories_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Each_DT trajectory_JJ cluster_NN is_VBZ modeled_VBN as_IN a_DT prototype_NN polynomial_JJ function_NN with_IN some_DT variability_NN around_IN it_PRP ._.
+The_DT variability_NN within_IN the_DT clusters_NNS is_VBZ described_VBN in_IN term_NN of_IN a_DT mixture_NN of_IN Gaussians_NNP ._.
+The_DT EM_NN algo_NN

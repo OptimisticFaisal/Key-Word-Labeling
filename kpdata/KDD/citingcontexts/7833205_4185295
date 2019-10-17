@@ -1,0 +1,5 @@
+entity_NN of_IN an_DT individual_NN ._.
+Our_PRP$ model_NN supports_VBZ the_DT detection_NN of_IN more_RBR complex_JJ inferences_NNS such_JJ as_IN these_DT ._.
+Our_PRP$ approach_NN to_TO inference_NN detection_NN is_VBZ in_IN the_DT same_JJ spirit_NN as_IN the_DT use_NN of_IN the_DT Web_NN by_IN Nakov_NNP and_CC Hearst_NNP =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: to_TO resolve_VB language_NN ambiguities_NNS ._.
+Their_PRP$ idea_NN is_VBZ to_TO use_VB co-occurrence_NN on_IN the_DT Web_NN to_TO disambiguate_VB phrases_NNS ._.
+In_IN this_DT paper_NN we_PRP also_RB make_VBP use_NN of_IN the_DT Web_NN to_TO side-step_VB the_DT issue_NN of_IN training_NN data_NNS ,_, but_CC with_IN a_DT d_NN

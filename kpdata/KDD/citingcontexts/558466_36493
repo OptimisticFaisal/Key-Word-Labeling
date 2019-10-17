@@ -1,0 +1,3 @@
+intervals_NNS rather_RB than_IN just_RB two_CD intervals_NNS ._.
+The_DT well-known_JJ algorithms_NNS ,_, however_RB ,_, perform_VB a_DT binary_JJ split_NN of_IN the_DT form_NN a_FW ≤_FW v_LS for_IN a_DT numeric_JJ attribute_NN a_DT and_CC a_DT real_JJ number_NN v._IN The_DT SPRINT_NNP decision_NN tree_NN classifier_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: processes_VBZ numeric_JJ attributes_NNS as_IN follows_VBZ ._.
+There_EX are_VBP n_NN -_: 1_CD possible_JJ splits_VBZ for_IN n_NN distinct_JJ values_NNS of_IN a._NNP The_NNP gini_NNS index_NN is_VBZ calculated_VBN at_IN each_DT of_IN these_DT n_NN -_: 1_CD points_NNS and_CC the_DT attribute_NN value_NN yielding_VBG the_DT mi_FW

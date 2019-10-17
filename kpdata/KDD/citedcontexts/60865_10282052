@@ -1,0 +1,6 @@
+,_, we_PRP choose_VBP BM25_NN as_IN the_DT basic_JJ ranker_NN r_NN -LRB-_-LRB- q_NN ,_, d_NN -RRB-_-RRB- ._.
+Document_NNP similarity_NN kD_NN -LRB-_-LRB- d_NN ,_, d_FW ′_FW -RRB-_-RRB- is_VBZ simply_RB defined_VBN as_IN cosine_NN similarity_NN between_IN the_DT titles_NNS and_CC URLs_NNS of_IN two_CD documents_NNS d_NN and_CC d_FW ′_FW ._.
+Following_VBG the_DT proposal_NN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP generate_VBP pairwise_JJ training_NN instances_NNS from_IN click-through_JJ data_NNS ,_, and_CC we_PRP use_VBP Ranking_NNP SVM_NNP technique_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- to_TO train_VB the_DT model_NN ._.
+More_JJR details_NNS about_IN our_PRP$ method_NN can_MD be_VB found_VBN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+3_LS ._.
+EXPERIMENTS_NNS We_PRP used_VBD tw_NN

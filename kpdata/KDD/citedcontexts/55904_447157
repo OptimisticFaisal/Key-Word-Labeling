@@ -1,0 +1,5 @@
+mine_NN labeled_JJ ,_, embedded_JJ ,_, and_CC ordered_VBN subtrees_NNS ._.
+The_DT notions_NNS of_IN scope-lists_NNS and_CC rightmost_JJ extension_NN were_VBD introduced_VBN in_IN that_DT work_NN ._.
+TREEMINER_NN was_VBD also_RB used_VBN in_IN building_VBG a_DT structural_JJ classifier_NN for_IN XML_NN data_NN =_JJ -_: =[_NN 41_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT current_JJ paper_NN focuses_VBZ on_IN bioinformatics_NNS applications_NNS and_CC presents_VBZ a_DT new_JJ algorithm_NN called_VBN TREEMINERD_NNP to_TO mine_VB distinct_JJ occurrences_NNS of_IN trees_NNS ._.
+Asai_NNP et_FW al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- presented_VBN FreqT_NN ,_, an_DT apriori-like_JJ algor_NN

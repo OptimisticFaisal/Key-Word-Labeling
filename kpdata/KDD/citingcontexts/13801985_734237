@@ -1,0 +1,4 @@
+rporated_VBD the_DT compressed_VBN graph_NN notion_NN with_IN a_DT generic_JJ topological_JJ OLAP_NN framework_NN to_TO realize_VB online_NN graph_NN analysis_NN ._.
+There_EX are_VBP many_JJ related_JJ but_CC subtly_RB different_JJ problems_NNS ._.
+Graph_NN partitioning_NN methods_NNS -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 8_CD ,_, 6_CD -RRB-_-RRB- -_: =--RRB-_NN aim_NN to_TO find_VB groups_NNS of_IN nodes_NNS that_WDT are_VBP more_RBR strongly_RB connected_VBN to_TO each_DT other_JJ than_IN to_TO nodes_NNS in_IN other_JJ groups_NNS ._.
+Extraction_NN of_IN a_DT subgraph_NN ,_, whether_IN based_VBN on_IN a_DT user_NN query_NN -LRB-_-LRB- e.g._FW -LRB-_-LRB- 7_CD ,_, 10_CD -RRB-_-RRB- -RRB-_-RRB- or_CC not_RB -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 16_CD ,_, 9_CD ,_,

@@ -1,0 +1,4 @@
+ondences_NNS and_CC a_DT graph_NN of_IN contacts_NNS on_IN a_DT social_JJ network_NN which_WDT need_VBP to_TO be_VB reconciled_VBN ._.
+Some_DT work_NN has_VBZ been_VBN done_VBN on_IN finding_VBG similar_JJ nodes_NNS in_IN a_DT single_JJ graph_NN using_VBG page_NN rank_NN like_IN spreading_NN activation_NN approach_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD way_NN of_IN extending_VBG Parag_NNP and_CC Domingos_NNP model_NN for_IN this_DT setting_NN can_MD be_VB to_TO create_VB nodes_NNS for_IN all_DT pairs_NNS of_IN nodes_NNS in_IN the_DT two_CD graphs_NNS ,_, yij_NN where_WRB node_NN i_FW belongs_VBZ to_TO one_CD graph_NN and_CC j_NN to_TO the_DT other_JJ ._.
+yij_NN and_CC yi_FW ′_FW

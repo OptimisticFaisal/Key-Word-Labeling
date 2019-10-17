@@ -1,0 +1,5 @@
+pport_NN vector_NN regression_NN ._.
+1_CD ._.
+INTRODUCTION_NNP Novelty_NNP detection_NN ,_, or_CC anomaly_RB detection_NN ,_, refers_VBZ to_TO the_DT automatic_JJ identification_NN of_IN unforeseen_JJ or_CC abnormal_JJ phenomena_NNS embedded_VBN in_IN a_DT large_JJ amount_NN of_IN normal_JJ data_NNS ._.
+=_SYM -_: =[_NN 4_CD ,_, 8_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: This_DT paper_NN targets_VBZ the_DT novelty_NN detecting_VBG in_IN temporal_JJ sequences_NNS -LRB-_-LRB- 2_CD ,_, 4_CD ,_, 5_CD ,_, 8_CD -RRB-_-RRB- ,_, which_WDT has_VBZ many_JJ immediate_JJ applications_NNS ._.
+For_IN example_NN ,_, in_IN a_DT safetycritical_JJ environment_NN ,_, it_PRP is_VBZ helpful_JJ to_TO have_VB an_DT automatic_JJ su_NN

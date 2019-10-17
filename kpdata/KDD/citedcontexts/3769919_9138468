@@ -1,0 +1,5 @@
+specific_JJ problems_NNS they_PRP address_VBP ._.
+GRay_NN is_VBZ a_DT fast_JJ approximate_JJ algorithm_NN for_IN inexact_JJ pattern_NN matching_NN in_IN large_JJ ,_, attributed_VBD graphs_NNS ._.
+It_PRP extends_VBZ the_DT ideas_NNS of_IN connection_NN subgraphs_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC centerpiece_NN graphs_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: and_CC applies_VBZ them_PRP to_TO pattern_NN matching_NN in_IN attributed_VBN graphs_NNS ._.
+This_DT work_NN is_VBZ also_RB related_JJ to_TO the_DT idea_NN of_IN network_NN proximity_NN ,_, which_WDT builds_VBZ on_IN connection_NN subgraphs_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Our_PRP$ work_NN focuses_VBZ on_IN finding_NN instances_NNS

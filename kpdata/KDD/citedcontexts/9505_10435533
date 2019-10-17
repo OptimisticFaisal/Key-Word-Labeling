@@ -1,0 +1,4 @@
+le_DT over_IN which_WDT the_DT distribution_NN is_VBZ defined_VBN -LRB-_-LRB- the_DT ``_`` context_NN ''_'' -RRB-_-RRB- ._.
+This_DT can_MD be_VB understood_VBN as_IN clustering_NN in_IN the_DT space_NN of_IN distributions_NNS using_VBG a_DT notion_NN of_IN distance_NN based_VBN on_IN a_DT certain_JJ Kullback-Liebler_NNP divergence_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, or_CC in_IN terms_NNS of_IN optimal_JJ feature_NN selection_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+A_DT closely_RB related_JJ way_NN of_IN looking_VBG at_IN the_DT problem_NN is_VBZ via_IN a_DT generative_JJ model_NN in_IN which_WDT a_DT cluster_NN identifier_NN serves_VBZ as_IN an_DT unobserved_JJ -LRB-_-LRB- latent_JJ -RRB-_-RRB- variable_NN ._.
+Speci_NNP

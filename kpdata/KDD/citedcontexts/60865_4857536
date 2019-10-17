@@ -1,0 +1,4 @@
+mple_RB ,_, we_PRP can_MD perform_VB regression_NN directly_RB on_IN the_DT -LRB-_-LRB- graded_VBN -RRB-_-RRB- labels_NNS ,_, or_CC perhaps_RB more_RBR properly_RB ,_, ordinal_JJ regression_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+An_DT alternative_JJ way_NN of_IN training_NN is_VBZ to_TO first_RB turn_VB the_DT labels_NNS into_IN pairwise_JJ preferences_NNS =_JJ -_: =[_NN 4_CD ,_, 5_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, given_VBN we_PRP are_VBP to_TO be_VB evaluated_VBN on_IN a_DT particular_JJ IR_NN metric_NN ,_, it_PRP may_MD be_VB advantageous_JJ to_TO use_VB the_DT same_JJ metric_NN to_TO guide_VB the_DT training_NN of_IN the_DT parameters_NNS of_IN the_DT ranking_JJ function_NN ._.
+The_DT successful_JJ LambdaR_NN

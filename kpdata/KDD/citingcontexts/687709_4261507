@@ -1,0 +1,5 @@
+ind_VB the_DT projection_NN matrix_NN for_IN that_DT mode_NN ._.
+This_DT process_NN potentially_RB needs_VBZ performing_VBG more_JJR than_IN one_CD iteration_NN ._.
+In_IN practice_NN ,_, this_DT algorithm_NN converges_VBZ in_IN a_DT small_JJ number_NN of_IN iterations_NNS ._.
+In_IN fact_NN ,_, Ding_NN and_CC Ye_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: shows_VBZ the_DT nearoptimality_NN of_IN a_DT similar_JJ algorithm_NN for_IN 2nd_JJ order_NN tensors_NNS ._.
+Therefore_RB ,_, for_IN time-critical_JJ applications_NNS ,_, single_JJ iteration_NN is_VBZ usually_RB sufficient_JJ to_TO obtain_VB the_DT near-optimal_JJ projection_NN matrices_NNS

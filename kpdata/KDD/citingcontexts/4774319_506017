@@ -1,0 +1,4 @@
+sequential_JJ pattern_NN is_VBZ a_DT sequential_JJ pattern_NN which_WDT has_VBZ no_DT supersequence_NN with_IN the_DT same_JJ occurrence_NN frequency_NN ._.
+Two_CD algorithms_NNS have_VBP been_VBN proposed_VBN for_IN mining_NN closed_VBD sequential_JJ patterns_NNS :_: CloSpan_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC BIDE_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT former_JJ follows_VBZ a_DT candidate_NN maintenance-and-test_JJ paradigm_NN over_IN the_DT set_NN of_IN already_RB mined_VBN closed_JJ sequential_JJ pattern_NN candidates_NNS ._.
+It_PRP uses_VBZ this_DT set_NN to_TO prune_VB the_DT search_NN space_NN and_CC check_NN if_IN a_DT newly_RB found_VBN

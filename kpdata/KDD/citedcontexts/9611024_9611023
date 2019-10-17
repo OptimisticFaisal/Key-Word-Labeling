@@ -1,0 +1,3 @@
+pared_VBD our_PRP$ best_JJS DBGD_NN models_NNS with_IN a_DT ranking_JJ SVM_NNP ,_, which_WDT optimizes_VBZ over_IN pairwise_JJ document_NN preferences_NNS and_CC is_VBZ a_DT standard_JJ baseline_NN in_IN supervised_JJ learning_NN to_TO rank_VB settings_NNS ._.
+More_RBR sophisticated_JJ methods_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =_JJ Chakrabarti_NNP et_FW al._FW ,_, 2008_CD -_: =_JJ -_: ;_: Donmez_NNP et_FW al._FW ,_, 2009_CD -RRB-_-RRB- can_MD further_RB improve_VB performance_NN ._.
+Table_NNP 3_CD shows_VBZ that_IN DBGD_NN approaches_VBZ ranking_JJ SVM_NN performance_NN despite_IN making_VBG fundamentally_RB different_JJ assumptions_NNS -LRB-_-LRB- e.g._FW ,_, ranking_JJ SVMs_NNS have_VBP access_NN to_TO

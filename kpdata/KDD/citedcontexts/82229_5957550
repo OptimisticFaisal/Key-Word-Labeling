@@ -1,0 +1,4 @@
+ccesses_NNS in_IN the_DT example_NN above_IN ,_, all_DT but_CC the_DT first_JJ will_MD be_VB sequential_JJ ._.
+To_TO be_VB able_JJ to_TO compute_VB the_DT overall_JJ cost_NN ,_, we_PRP assume_VBP that_IN sequential_JJ disk_NN access_NN is_VBZ 10_CD times_NNS faster_RBR than_IN random_JJ ,_, a_DT factor_NN also_RB used_VBN in_IN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Hence_RB ,_, the_DT actual_JJ number_NN in_IN the_DT example_NN above_IN would_MD be_VB 1_CD +_CC -LRB-_-LRB- 35_CD ,_, 399\/10_CD -RRB-_-RRB- ,_, or_CC about_IN 3,540_CD ._.
+To_TO compute_VB each_DT data_NNS point_NN for_IN a_DT given_VBN experiment_NN ,_, we_PRP randomlychose_VBP 10_CD %_NN of_IN the_DT sequences_NNS in_IN the_DT database_NN and_CC

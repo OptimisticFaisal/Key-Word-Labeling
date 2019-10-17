@@ -1,0 +1,6 @@
+escribed_VBN in_IN -LRB-_-LRB- c_NN -RRB-_-RRB- ._.
+answers_NNS for_IN any_DT two_CD neighboring_JJ databases_NNS ._.
+For_IN database_NN instance_NN I_NN ,_, we_PRP denote_VBP by_IN nbrs_NNS -LRB-_-LRB- I_NN -RRB-_-RRB- the_DT set_NN of_IN databases_NNS differing_VBG from_IN I_PRP in_IN at_IN most_JJS one_CD record_NN ._.
+Approximate_JJ differential_JJ privacy_NN =_JJ -_: =[_NN 9_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, is_VBZ a_DT modest_JJ relaxation_NN in_IN which_WDT the_DT ɛ_NN bound_VBN on_IN query_NN answer_NN probabilities_NNS may_MD be_VB violated_VBN with_IN small_JJ probability_NN -LRB-_-LRB- controlled_VBN by_IN δ_NN -RRB-_-RRB- ._.
+Definition_NN 4_CD ._.
+-LRB-_-LRB- Approximate_JJ Differential_JJ Privacy_NN -RRB-_-RRB- A_DT randomized_VBN algo_NN

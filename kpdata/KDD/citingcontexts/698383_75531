@@ -1,0 +1,6 @@
+-RRB-_-RRB- Read_VB t_NN for_IN i_FW :_: 1_CD ,_, 2_CD ,_, ..._: ,_, k_NN +_CC :_: :_: -LRB-_-LRB- 1-t_NN '_'' -RRB-_-RRB- c_NN ?_.
+-1_CD -RRB-_-RRB- +_CC t_NN '_POS 7J_NN t_NN -RRB-_-RRB- c_NN ?_. -RRB-_-RRB-
+\*_NN =_JJ 1_CD \*_NN Pt_NN tl_NN ,_, st_NN -RRB-_-RRB- :_: :_: ,_, ,_, -LRB-_-LRB- t_NN -RRB-_-RRB- \/_: c_NN -LRB-_-LRB- t_NN -RRB-_-RRB- x_NN ?_. -RRB-_-RRB-
+,_, -_: -RRB-_-RRB- x_NN ?_.
+-_: ''_'' +_CC s_NN :_: =_JJ +1_CD The_DT SDEM_NN algorithm_NN vas_NN introduced_VBN by_IN extending_VBG Neal_NNP and_CC Hinton_NNP 's_POS incremental_JJ EM_NN algor_NN =_JJ -_: =_JJ ithm_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- -_: =_SYM -_: so_IN that_IN the_DT effect_NN of_IN past_JJ examples_NNS can_MD be_VB gradually_RB discounted_VBN as_IN time_NN goes_VBZ on_RP ._.
+The_DT SDEM_NNP algorithm_NN updates_NNS the_DT estimates_NNS of_IN parameters_NNS vith_VBP a_DT veighted_JJ average_NN depending_VBG on_IN the_DT discounting_NN parameter_NN

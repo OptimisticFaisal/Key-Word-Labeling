@@ -1,0 +1,5 @@
+ed_VBN such_JJ as_IN by_IN zip_NN code_NN or_CC area_NN ._.
+It_PRP can_MD also_RB be_VB computed_VBN dynamically_RB similar_JJ to_TO spatial_JJ scan_VB ._.
+Apart_RB from_IN this_DT ,_, we_PRP can_MD also_RB use_VB the_DT association_NN based_JJ dissimilarity_NN measures_NNS such_JJ as_IN methods_NNS presented_VBN in_IN =_JJ -_: =[_NN 20_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: for_IN grouping_VBG records_NNS ._.
+Another_DT possible_JJ improvement_NN is_VBZ the_DT way_NN we_PRP deal_VBP with_IN real_JJ valued_VBN attributes_NNS ._.
+Since_IN we_PRP deal_VBP with_IN actual_JJ probability_NN values_NNS P_NN rather_RB than_IN probability_NN densities_NNS p_NN ,_, allthereal_JJ value_NN

@@ -1,0 +1,3 @@
+riate_JJ data_NNS ,_, and_CC all_DT of_IN them_PRP assume_VBP knowledge_NN of_IN the_DT underlying_JJ distribution_NN of_IN the_DT data_NNS ,_, which_WDT in_IN practice_NN is_VBZ very_RB restrictive_JJ ._.
+More_RBR recently_RB a_DT technique_NN for_IN spatial_JJ outlier_NN detection_NN was_VBD proposed_VBN in_IN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT method_NN uses_VBZ the_DT difference_NN between_IN the_DT attribute_NN value_NN at_IN location_NN x_NN and_CC the_DT average_JJ attribute_NN value_NN of_IN x_NN 's_POS neighbors_NNS to_TO determinesFigure_NN 5_CD :_: Histogram_NN of_IN distances_NNS to_TO the_DT closest_JJS centroid_NN for_IN th_DT

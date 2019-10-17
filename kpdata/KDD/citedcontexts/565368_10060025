@@ -1,0 +1,5 @@
+ias_NN parameters_NNS of_IN the_DT mixture_NN components_NNS to_TO be_VB α1_FW ≈_FW .67_NN and_CC α2_NN ≈_NN .17_CD ,_, indicating_VBG that_IN the_DT two_CD components_NNS oppose_VBP each_DT other_JJ -LRB-_-LRB- since_IN α1_NN and_CC α2_NN lie_VBP on_IN either_DT side_NN of_IN .5_CD -RRB-_-RRB- ._.
+Sushi_NN dataset_NN ._.
+The_DT sushi_NN dataset_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: consists_VBZ of_IN 5000_CD full_JJ rankings_NNS of_IN ten_CD types_NNS of_IN sushi_NN ._.
+Compared_VBN to_TO the_DT APA_NNP data_NNS ,_, it_PRP has_VBZ more_JJR objects_NNS ,_, but_CC fewer_JJR examples_NNS ._.
+We_PRP divided_VBD the_DT data_NNS into_IN training_NN and_CC test_NN sets_NNS and_CC estimated_VBD the_DT true_JJ distrib_NN

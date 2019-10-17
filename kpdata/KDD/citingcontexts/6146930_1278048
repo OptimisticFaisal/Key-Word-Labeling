@@ -1,0 +1,5 @@
+see_VB Fig._NNP 1_CD -LRB-_-LRB- c_NN -RRB-_-RRB- ._.
+There_EX are_VBP many_JJ techniques_NNS in_IN this_DT category_NN ,_, including_VBG principal_JJ component_NN analysis_NN -LRB-_-LRB- PCA_NN -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, multidimensional_JJ scaling_NN -LRB-_-LRB- MDS_NN -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, Eigen-projection_NN -LRB-_-LRB- 13_CD ,_, 17_CD -RRB-_-RRB- ,_, and_CC forcedirected_JJ placement_NN =_JJ -_: =[_NN 6_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Visualization_NN techniques_NNS solve_VBP some_DT of_IN the_DT aforementioned_JJ limitations_NNS of_IN the_DT dendrogram-based_JJ rendition_NN of_IN clustering_NN ._.
+However_RB ,_, in_IN general_JJ ,_, they_PRP can_MD not_RB utilize_VB external_JJ clustering_NN information_NN ._.
+In_IN pa_NN

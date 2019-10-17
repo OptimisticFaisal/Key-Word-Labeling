@@ -1,0 +1,4 @@
+database_NN tables_NNS ,_, so_IN that_IN the_DT distance_NN function_NN is_VBZ consistent_JJ with_IN an_DT intuitive_JJ notion_NN of_IN table_NN similarity_NN ._.
+Other_JJ graph-based_JJ notions_NNS of_IN similarity_NN have_VBP been_VBN proposed_VBN in_IN the_DT IR_NNP community_NN ._.
+Koren_NNP et_FW al._FW =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: define_VB the_DT similarity_NN between_IN two_CD nodes_NNS n_NN and_CC K_NN to_TO be_VB proportional_JJ to_TO the_DT probability_NN that_IN a_DT random_JJ walk_NN starting_VBG at_IN n_NN reaches_VBZ K_NN without_IN revisiting_VBG n_NN ._.
+Such_JJ a_DT definition_NN of_IN similarity_NN works_VBZ well_RB when_WRB

@@ -1,0 +1,4 @@
+consistency_NN ,_, and_CC can_MD also_RB be_VB used_VBN to_TO evaluate_VB system_NN performance_NN ,_, that_DT is_VBZ ,_, treating_VBG system_NN output_NN as_IN a_DT `_`` human_JJ '_'' annotation_NN ._.
+Other_JJ metrics_NNS in_IN the_DT general_JJ classification_NN literature_NN ,_, such_JJ as_IN cost_NN curves_NNS =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, have_VBP not_RB been_VBN widely_RB used_VBN for_IN evaluating_VBG sentence_NN boundary_NN detection_NN ._.
+In_IN this_DT paper_NN we_PRP focus_VBP on_IN the_DT following_JJ metrics_NNS :_: •_FW NIST_FW metric_NN ._.
+The_DT NIST_NNP error_NN rate_NN is_VBZ the_DT sum_NN of_IN the_DT insertion_NN and_CC deletion_NN err_VBP

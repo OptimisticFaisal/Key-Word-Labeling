@@ -1,0 +1,5 @@
+logy_JJ terms_NNS using_VBG a_DT controlled_JJ vocabulary_NN -LRB-_-LRB- CV_NN -RRB-_-RRB- -LRB-_-LRB- 24_CD ,_, 25_CD -RRB-_-RRB- -LRB-_-LRB- Figure_NN 1_CD -RRB-_-RRB- ._.
+Currently_RB ,_, the_DT annotation_NN is_VBZ performed_VBN manually_RB by_IN human_JJ curators_NNS ._.
+However_RB ,_, the_DT number_NN of_IN available_JJ images_NNS is_VBZ now_RB rapidly_RB increasing_VBG =_JJ -_: =[_NN 11_CD ,_, 6_CD ,_, 27_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP is_VBZ therefore_RB important_JJ to_TO design_VB computational_JJ methods_NNS to_TO automate_VB this_DT task_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+The_DT gene_NN expression_NN pattern_NN annotation_NN problem_NN can_MD be_VB formulated_VBN as_IN an_DT image_NN annotation_NN problem_NN ,_, which_WDT has_VBZ been_VBN s_NN

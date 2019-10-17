@@ -1,0 +1,5 @@
+constructed_VBN models_NNS ._.
+The_DT intuitive_JJ idea_NN of_IN boosting_VBG is_VBZ to_TO give_VB more_JJR weight_NN to_TO misclassified_VBN examples_NNS ,_, and_CC reducing_VBG the_DT weight_NN of_IN the_DT correctly_RB classified_VBN ones_NNS ._.
+From_IN studies_NNS appearing_VBG in_IN the_DT literature_NN =_JJ -_: =[_NN 25_CD ,_, 24_CD ,_, 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Online_NNP Bagging_NNP seems_VBZ to_TO perform_VB better_RBR than_IN online_JJ boosting_VBG methods_NNS ._.
+Why_WRB bagging_VBG outperforms_VBZ boosting_VBG in_IN the_DT data_NNS stream_NN setting_NN is_VBZ still_RB an_DT open_JJ question_NN ._.
+Adding_VBG more_RBR random_JJ weight_NN to_TO all_DT instances_NNS

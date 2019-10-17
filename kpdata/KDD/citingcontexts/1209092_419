@@ -1,0 +1,5 @@
+s_VBZ a_DT clear_JJ cut_NN objective_NN function_NN ._.
+Furthermore_RB ,_, the_DT model_NN is_VBZ related_JJ to_TO probabilistic_JJ latent_JJ semantic_JJ analysis_NN -LRB-_-LRB- PLSA_NN -RRB-_-RRB- as_IN introduced_VBN by_IN Hofmann_NNP in_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+We_PRP employ_VBP the_DT Expectation-Maximization_NNP algorithm_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: in_IN order_NN to_TO optimize_VB the_DT log-likelihood_NN of_IN the_DT model_NN ._.
+We_PRP further_RB extend_VBP the_DT model_NN so_IN that_IN individual_JJ solutions_NNS can_MD be_VB weighted_VBN according_VBG to_TO their_PRP$ importance_NN ._.
+This_DT issue_NN has_VBZ not_RB been_VBN addressed_VBN before_RB ._.

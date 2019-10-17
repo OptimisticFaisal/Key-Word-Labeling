@@ -1,0 +1,4 @@
+of_IN Nearlier_NNP corresponds_VBZ to_TO more_RBR novel_JJ phrases_NNS ._.
+But_CC ,_, our_PRP$ approach_NN finds_VBZ the_DT specific_JJ phrases_NNS that_WDT contribute_VBP to_TO the_DT rating_NN and_CC provide_VB options_NNS for_IN subsequent_JJ user_NN interactions_NNS ._.
+In_IN another_DT recent_JJ work_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT authors_NNS used_VBD a_DT Gaussian_JJ mixture_NN model_NN of_IN words_NNS in_IN the_DT text_NN to_TO model_NN flows_NNS of_IN ideas_NNS in_IN documents_NNS ._.
+However_RB ,_, choosing_VBG the_DT parameters_NNS for_IN such_PDT a_DT model_NN is_VBZ difficult_JJ as_IN the_DT intuitive_JJ meaning_NN of_IN a_DT para_NN

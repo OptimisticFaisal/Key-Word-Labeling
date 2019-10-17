@@ -1,0 +1,4 @@
+n_NN subsequences_NNS we_PRP use_VBP the_DT ubiquitous_JJ Euclidean_JJ distance_NN in_IN Definition_NNP 5_CD ._.
+Recent_JJ work_NN has_VBZ shown_VBN that_IN in_IN terms_NNS of_IN time_NN series_NN classification_NN accuracy_NN ,_, the_DT Euclidean_JJ distance_NN is_VBZ surprisingly_RB competitive_JJ =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Furthermore_RB ,_, Euclidean_JJ distance_NN is_VBZ a_DT metric_JJ and_CC allows_VBZ the_DT classic_JJ early_JJ abandoning_VBG optimization_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC we_PRP exploit_VBP both_DT facts_NNS in_IN this_DT work_NN ._.
+To_TO make_VB the_DT algorithm_NN invariant_JJ to_TO baseline_NN and_CC amplitude_NN

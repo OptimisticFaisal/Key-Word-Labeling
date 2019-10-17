@@ -1,0 +1,5 @@
+vergence_NN for_IN Algorithm_NNP 2.1_CD ._.
+As_IN we_PRP remarked_VBD earlier_RBR ,_, for_IN binary_JJ classification_NN SDM_NN becomes_VBZ coordinate_JJ descent_NN ,_, a_DT standard_JJ method_NN for_IN which_WDT good_JJ convergence_NN results_NNS exist_VBP in_IN the_DT optimization_NN literature_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT presence_NN of_IN the_DT equality_NN constraint_NN in_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- makes_VBZ the_DT multi-class_JJ version_NN somewhat_RB non-standard_JJ ._.
+It_PRP is_VBZ an_DT interesting_JJ open_JJ problem_NN to_TO establish_VB linear_JJ convergence_NN for_IN Algorithm_NNP 2.1_CD ._.
+Let_VB us_PRP now_RB di_FW

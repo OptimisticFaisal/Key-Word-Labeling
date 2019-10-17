@@ -1,0 +1,3 @@
+tions_NNS in_IN data_NNS mining_NN in_IN which_WDT a_DT computational_JJ bottleneck_NN is_VBZ involved_VBN ,_, we_PRP aim_VBP to_TO find_VB an_DT effective_JJ preprocessor_NN that_WDT reduces_VBZ the_DT size_NN of_IN the_DT data_NNS structure_NN that_WDT is_VBZ input_NN to_TO that_DT bottleneck_NN -LRB-_-LRB- see_VB ,_, e.g._FW ,_, =_JJ -_: =[_NN 26_CD ,_, 28_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+There_EX are_VBP many_JJ options_NNS that_WDT can_MD be_VB considered_VBN for_IN this_DT preprocessing_VBG step_NN ._.
+One_CD option_NN is_VBZ to_TO perform_VB various_JJ forms_NNS of_IN subsampling_NN of_IN the_DT data_NNS ,_, selecting_VBG data_NNS points_NNS at_IN random_JJ or_CC according_VBG to_TO some_DT fo_NN

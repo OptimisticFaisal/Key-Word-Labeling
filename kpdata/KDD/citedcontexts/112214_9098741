@@ -1,0 +1,4 @@
+ly_RB ._.
+Another_DT criteria_NNS makes_VBZ a_DT distinction_NN between_IN systems_NNS deriving_VBG the_DT rating_NN from_IN analyzing_VBG user_NN behavior_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC others_NNS where_WRB users_NNS enter_VBP explicit_JJ ratings_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Sarwar_NNP et_FW al._FW -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC Aggarwal_NNP et_FW al._FW =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: identify_VB two_CD main_JJ challenges_NNS that_WDT must_MD be_VB met_VBN by_IN a_DT CF_NN system_NN ._.
+On_IN the_DT one_CD hand_NN ,_, the_DT inferred_VBN rating_NN must_MD be_VB accurate_JJ in_IN the_DT sense_NN that_IN it_PRP must_MD be_VB close_RB to_TO the_DT rating_NN made_VBN by_IN the_DT user_NN if_IN the_DT target_NN ite_NN

@@ -1,0 +1,4 @@
+eric_JJ and_CC logistic_JJ regression_NN was_VBD able_JJ to_TO handle_VB them_PRP better_RBR than_IN Naive_JJ Bayes_NNPS with_IN Gaussians_NNP ._.
+6.1_CD Experiments_NNS on_IN Synthetic_NNP Data_NNP We_PRP generated_VBD synthetic_JJ data_NNS using_VBG the_DT forest-fire_JJ graph_NN generation_NN model_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT forest_NN fire_NN model_NN is_VBZ shown_VBN to_TO exhibit_VB many_JJ real-world_JJ phenomenon_NN such_JJ as_IN power_NN law_NN degree_NN distribution_NN ,_, small_JJ world_NN effect_NN ,_, and_CC shrinking_NN diameters_NNS ._.
+However_RB ,_, the_DT forest-fire_JJ method_NN ,_, like_IN most_JJS ra_NN

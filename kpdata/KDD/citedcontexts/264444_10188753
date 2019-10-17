@@ -1,0 +1,5 @@
+sity_NN model_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- which_WDT requires_VBZ that_IN the_DT distribution_NN of_IN sensitive_JJ attributes_NNS -LRB-_-LRB- e.g._FW ,_, income_NN -RRB-_-RRB- should_MD be_VB diverse_JJ enough_RB in_IN each_DT equivalence_JJ class_NN ._.
+Several_JJ efficient_JJ algorithms_NNS have_VBP been_VBN developed_VBN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 4_CD ,_, 16_CD ,_, 7_CD ,_, 19_CD ,_, 17_CD ,_, 18_CD -RRB-_-RRB- -_: =--RRB-_NN by_IN extending_VBG the_DT k-anonymity_NN methods_NNS ._.
+Since_IN k-anonymity_NN is_VBZ the_DT fundamental_JJ case_NN ,_, in_IN this_DT paper_NN ,_, we_PRP focus_VBP on_IN k-anonymity_NN only_RB ._.
+However_RB ,_, our_PRP$ method_NN can_MD be_VB extended_VBN to_TO other_JJ models_NNS easily_RB ._.
+We_PRP leave_VBP it_PRP

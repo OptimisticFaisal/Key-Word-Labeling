@@ -1,0 +1,4 @@
+es_VBZ independently_RB ._.
+For_IN Markov_NNP random_JJ graphs_NNS ,_, various_JJ estimation_NN methods_NNS have_VBP been_VBN studied_VBN in_IN social_JJ networks_NNS ,_, such_JJ as_IN the_DT pseudolikelihood_NN method_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- and_CC the_DT Monte_NNP Carlo_NNP maximum_NN likelihood_NN estimation_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP use_VBP variational_JJ methods_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, which_WDT are_VBP among_IN the_DT most_RBS popular_JJ inference_NN methods_NNS in_IN the_DT graphical_JJ model_NN literature_NN ._.
+The_DT mean_JJ field_NN approximation_NN bears_VBZ the_DT form_NN of_IN pseudo-likelihood_NN

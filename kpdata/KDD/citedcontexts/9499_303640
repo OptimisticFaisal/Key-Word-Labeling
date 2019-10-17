@@ -1,0 +1,6 @@
+hine_VB Learning_NNP ,_, Bonn_NNP ,_, Germany_NNP ,_, 2005_CD ._.
+Copyright_NN 2005_CD by_IN the_DT author_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- \/_: owner_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- ._.
+biological_JJ data_NN analysis_NN -LRB-_-LRB- Getz_NNP et_FW al._FW ,_, 2000_CD ;_: Cheng_NNP &_CC Church_NNP ,_, 2000_CD ;_: Madeira_NNP &_CC Oliveira_NNP ,_, 2004_CD -RRB-_-RRB- and_CC collaborative_JJ filtering_VBG -LRB-_-LRB- =_JJ -_: =_JJ Banerjee_NNP et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN ._.
+For_IN instance_NN ,_, consider_VBP an_DT unsupervised_JJ text_NN categorization_NN setting_NN ._.
+Here_RB ,_, each_DT row_NN of_IN the_DT contingency_NN table_NN corresponds_VBZ to_TO a_DT document_NN and_CC each_DT column_NN to_TO a_DT word_NN ._.
+Each_DT table_NN entry_NN is_VBZ the_DT number_NN of_IN wo_MD

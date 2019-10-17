@@ -1,0 +1,4 @@
+rd_NN depends_VBZ on_IN the_DT relevance_NN in_IN the_DT topic_NN and_CC on_IN the_DT perspective_NN of_IN the_DT speaker_NN or_CC author_NN ._.
+ccLDA_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- builds_VBZ on_IN the_DT standard_JJ LDA_NN model_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC the_DT cross-collection_JJ mixture_NN model_NN -LRB-_-LRB- ccMix_NN -RRB-_-RRB- by_IN Zhai_NNP et_FW al._FW =_SYM -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+ccLDA_NN discovers_VBZ the_DT topics_NNS across_IN multiple_JJ text_NN collection_NN and_CC estimates_NNS for_IN each_DT topic_NN a_DT shared_JJ distribution_NN and_CC collection_NN specific_JJ distributions_NNS ._.
+The_DT model_NN of_IN Lin_NNP et_FW al._FW -LRB-_-LRB- 12_CD -RRB-_-RRB- assigns_VBZ every_DT word_NN a_DT

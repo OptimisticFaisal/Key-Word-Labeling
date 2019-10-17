@@ -1,0 +1,4 @@
+s_NN at_IN the_DT bottom_NN of_IN the_DT GUI_NN can_MD be_VB used_VBN by_IN the_DT user_NN to_TO control_VB the_DT time_NN ,_, moving_VBG through_IN the_DT different_JJ time_NN intervals_NNS ._.
+Keyword_NNP Search_VB :_: In_IN many_JJ cases_NNS ,_, one_CD is_VBZ interested_JJ in_IN searching_VBG for_IN particular_JJ nodes_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: and_CC their_PRP$ evolution_NN over_IN time_NN ._.
+As_IN we_PRP described_VBD above_IN ,_, we_PRP use_VBP a_DT multi-level_JJ hierarchy_NN of_IN supernodes_NNS to_TO visualize_VB sections_NNS of_IN the_DT graph_NN ._.
+We_PRP also_RB store_VBP a_DT multi-level_JJ index_NN that_WDT allows_VBZ the_DT querying_VBG and_CC e_SYM

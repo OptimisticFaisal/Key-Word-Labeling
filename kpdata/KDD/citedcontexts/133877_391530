@@ -1,0 +1,4 @@
+tering_VBG with_IN Support_NN Vector_NNP Machines_NNP count_NN ,_, typically_RB of_IN the_DT form_NN ``_`` these_DT items_NNS do\/do_VBP not_RB belong_VB together_RB ._. ''_''
+Some_DT supervised_VBN clustering_NN methods_NNS modify_VBP a_DT clustering_NN algorithm_NN so_IN it_PRP satisfies_VBZ constraints_NNS -LRB-_-LRB- =_JJ -_: =_JJ Aggarwal_NNP et_FW al._FW ,_, 1999_CD -_: =_JJ -_: ;_: Wagstaff_NNP et_FW al._FW ,_, 2001_CD -RRB-_-RRB- ._.
+Others_NNS ,_, including_VBG ours_PRP ,_, learn_VBP a_DT similarity_NN measure_NN that_WDT will_MD tend_VB to_TO produce_VB desired_VBN clusterings_NNS -LRB-_-LRB- Bilenko_NNP et_FW al._FW ,_, 2004_CD ;_: De_NNP Bie_NNP et_FW al._FW ,_, 2003_CD ;_: Lanckriet_NNP et_FW al._FW ,_, 2004_CD -RRB-_-RRB- ._.
+Some_DT met_VBD

@@ -1,0 +1,4 @@
+ucket_NN ._.
+The_DT number_NN of_IN negative_JJ examples_NNS could_MD be_VB much_RB larger_JJR than_IN the_DT number_NN of_IN positive_JJ examples_NNS ._.
+As_IN there_EX are_VBP issues_NNS related_JJ to_TO skewed_JJ or_CC imbalanced_JJ dataset_NN when_WRB building_VBG classification_NN models_NNS -LRB-_-LRB- c.f._NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, we_PRP choose_VBP to_TO under-sample_VB the_DT negative_JJ examples_NNS ,_, thus_RB ensure_VB that_IN we_PRP have_VBP the_DT same_JJ number_NN of_IN positive_JJ and_CC negative_JJ examples_NNS ._.
+At_IN the_DT end_NN of_IN the_DT process_NN ,_, we_PRP have_VBP two_CD sets_NNS of_IN examples_NNS :_: one_CD corresponds_VBZ

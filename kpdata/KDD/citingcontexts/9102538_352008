@@ -1,0 +1,5 @@
+VMs_NNS ._.
+Teo_NNP et_FW al._FW -LRB-_-LRB- 23_CD -RRB-_-RRB- suggested_VBD a_DT bundle_NN method_NN and_CC Joachims_NNPS et_FW al._FW -LRB-_-LRB- 13_CD -RRB-_-RRB- gave_VBD a_DT cutting_VBG plane_NN method_NN that_WDT is_VBZ very_RB close_JJ to_TO it_PRP ;_: these_DT methods_NNS can_MD be_VB viewed_VBN as_IN extensions_NNS of_IN the_DT method_NN given_VBN by_IN Joachims_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: for_IN binary_JJ linear_JJ SVMs_NNS ._.
+Collins_NNP et_FW al._FW -LRB-_-LRB- 4_CD -RRB-_-RRB- gave_VBD the_DT exponentiated_JJ gradient_NN method_NN ._.
+In_IN this_DT paper_NN we_PRP present_VBP fast_RB dual_JJ methods_NNS for_IN CrammerSinger_NNP and_CC Weston-Watkins_NNP formulations_NNS ._.
+Like_IN the_DT methods_NNS of_IN Cr_NN

@@ -1,0 +1,6 @@
+-LRB-_-LRB- 10_CD -RRB-_-RRB- present_VBP an_DT algorithm_NN for_IN ranking_JJ tags_NNS ,_, resources_NNS ,_, and_CC users_NNS in_IN folksonomies_NNS ._.
+In_IN future_JJ it_PRP might_MD be_VB of_IN interest_NN to_TO compare_VB the_DT ranking_JJ results_NNS of_IN their_PRP$ algorithm_NN with_IN our_PRP$ simple_JJ ranking_JJ approach_NN ._.
+=_SYM -_: =[_NN 1_CD ,_, 3_CD ,_, 4_CD ,_, 12_CD -RRB-_-RRB- -_: =_JJ -7_CD ._.
+CONCLUSIONS_NNS In_IN this_DT paper_NN we_PRP show_VBP how_WRB we_PRP can_MD improve_VB search_NN in_IN folksonomies_NNS like_IN Flickr_NNP or_CC del._FW icio_FW ._.
+us_PRP ,_, by_IN reducing_VBG the_DT sparsity_NN in_IN the_DT data_NNS ._.
+We_PRP propose_VBP methods_NNS to_TO find_VB semantically_RB related_JJ tags_NNS h_NN

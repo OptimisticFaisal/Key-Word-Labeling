@@ -1,0 +1,4 @@
+experiments_NNS ._.
+Experiments_NNS were_VBD conducted_VBN using_VBG eight_CD of_IN the_DT largest_JJS attributevalue_NN datasets_NNS from_IN the_DT UCI_NNP machine_NN learning_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- and_CC KDD_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- repositories_NNS together_RB with_IN the_DT BMS-WebView-1_NN -LRB-_-LRB- 30_CD -RRB-_-RRB- and_CC Retail_JJ =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: datasets_NNS ._.
+These_DT datasets_NNS are_VBP described_VBN in_IN Table_NNP 2_CD ._.
+We_PRP first_RB found_VBD for_IN each_DT dataset_NN the_DT minimum_NN even_RB value_NN for_IN minimum-support_NN that_WDT results_VBZ in_IN fewer_JJR than_IN 10,000_CD nonredundant_JJ rules_NNS given_VBN a_DT minimum-conf_NN

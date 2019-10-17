@@ -1,0 +1,4 @@
+result_VB in_IN a_DT database_NN ._.
+We_PRP built_VBD our_PRP$ flight_NN data_NNS collection_NN agent_NN using_VBG AgentBuilder_NNP 1_CD for_IN wrapping_VBG web_NN sites_NNS and_CC Theseus_NNP for_IN executing_VBG the_DT agent_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+AgentBuilder_NNP exploits_VBZ machine_NN learning_NN technology_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT enables_VBZ the_DT system_NN to_TO automatically_RB learn_VB extraction_NN rules_NNS that_WDT reliably_RB convert_VBP information_NN presented_VBN on_IN web_NN pages_NNS into_IN XML_NN ._.
+Once_RB the_DT system_NN has_VBZ learned_VBN the_DT extraction_NN rules_NNS ,_, AgentBuilder_FW compi_FW

@@ -1,0 +1,5 @@
+ree_NN ._.
+Conjunction_NN with_IN the_DT discriminative_JJ power_NN of_IN SVM_NNP ,_, this_DT yields_VBZ a_DT more_RBR accurate_JJ and_CC stable_JJ performance_NN as_IN verified_VBN in_IN the_DT experiments_NNS ._.
+Another_DT related_JJ field_NN is_VBZ semi-supervised_JJ learning_NN ._.
+Some_DT works_VBZ =_JJ -_: =[_NN 17_CD ,_, 5_CD -RRB-_-RRB- -_: =_JJ -_: attempt_NN to_TO address_VB semi-supervised_JJ learning_NN with_IN multiple_JJ labels_NNS by_IN utilizing_VBG the_DT relationship_NN between_IN different_JJ labels_NNS ._.
+The_DT relationship_NN can_MD be_VB obtained_VBN either_CC from_IN external_JJ experts_NNS or_CC computed_JJ base_NN

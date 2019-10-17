@@ -1,0 +1,4 @@
+L_NN document_NN ,_, multivalued_JJ attributes_NNS of_IN an_DT object_NN class_NN have_VBP to_TO be_VB represented_VBN as_IN child_NN elements_NNS ._.
+DTD_NN and_CC XMLSchema_NN can_MD not_RB specify_VB that_IN a_DT child_NN element_NN is_VBZ a_DT multivalued_JJ attribute_NN of_IN its_PRP$ parent_NN element_NN ._.
+=_SYM -_: =-LRB-_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: Identifier_NN -LRB-_-LRB- ID_NN -RRB-_-RRB- ._.
+DTD_NN and_CC XMLSchema_NN can_MD not_RB specify_VB the_DT identifier_NN of_IN an_DT object_NN class_NN which_WDT appears_VBZ as_IN a_DT child_NN element_NN and_CC has_VBZ a_DT many_JJ tosMarch_NN 31_CD ,_, 2007_CD 16:13_CD WSPC_NN -_: Proceedings_NNP Trim_NNP Size_NN :_: 9in_CD x_CC 6in_CD swi_NN

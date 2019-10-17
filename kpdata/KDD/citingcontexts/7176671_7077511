@@ -1,0 +1,3 @@
+ion_NN system_NN by_IN first_RB creating_VBG a_DT self-trained_JJ relevant_JJ sentence_NN classifier_NN to_TO identify_VB relevant_JJ regions_NNS ,_, and_CC using_VBG a_DT semantic_JJ affinity_NN measure_NN to_TO automatically_RB learn_VB domain-relevant_JJ extraction_NN patterns_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Kylin_NNP uses_VBZ the_DT similar_JJ idea_NN of_IN decoupling_VBG when_WRB applying_VBG extractors_NNS to_TO the_DT general_JJ Web_NN ._.
+Differently_RB ,_, Kylin_NNP uses_VBZ IR-based_JJ techniques_NNS to_TO select_VB relevant_JJ sentences_NNS and_CC trains_NNS a_DT CRF_NNP model_NN for_IN extractions_NNS

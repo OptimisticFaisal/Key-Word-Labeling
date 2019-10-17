@@ -1,0 +1,4 @@
+-LRB-_-LRB- c.f._NN -LRB-_-LRB- 23_CD ,_, 34_CD ,_, 38_CD ,_, 39_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+However_RB ,_, the_DT design_NN of_IN the_DT cryptographic_JJ protocol_NN depends_VBZ on_IN the_DT specific_JJ mining_NN task_NN ,_, unless_IN a_DT prohibitively_RB expensive_JJ general-purpose_JJ secure_JJ multiparty_JJ computation_NN is_VBZ used_VBN =_JJ -_: =[_NN 40_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT class_NN of_IN closely_RB related_JJ work_NN studies_NNS how_WRB to_TO measure_VB privacy_NN in_IN data_NN mining_NN ._.
+This_DT includes_VBZ privacy_NN definitions_NNS based_VBN on_IN confidence_NN intervals_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, based_VBN on_IN mutual_JJ information_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, and_CC based_VBN on_IN prio_NN

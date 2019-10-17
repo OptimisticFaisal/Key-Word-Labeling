@@ -1,0 +1,4 @@
+ntroduction_NN This_DT paper_NN is_VBZ about_IN a_DT new_JJ learning_NN setting_NN ,_, which_WDT can_MD be_VB thought_VBN of_IN as_IN an_DT offline_JJ variant_NN of_IN the_DT contextual_JJ k-armed_JJ bandit_NN problem_NN ._.
+•_VB The_DT k-armed_JJ bandit_NN problem_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- has_VBZ been_VBN well_RB studied_VBN =_JJ -_: =[_NN 2_CD ,_, 3_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT basic_JJ setting_NN ,_, a_DT learner_NN repeatedly_RB chooses_VBZ one_CD of_IN k_NN actions_NNS ,_, and_CC then_RB learns_VBZ the_DT value_NN of_IN that_DT action_NN -LRB-_-LRB- but_CC not_RB the_DT value_NN of_IN other_JJ actions_NNS -RRB-_-RRB- ._.
+The_DT goal_NN is_VBZ to_TO compete_VB with_IN the_DT best_JJS constant_JJ acti_NNS

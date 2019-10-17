@@ -1,0 +1,4 @@
+d_NN the_DT randomized_VBN response_NN techniques_NNS that_WDT can_MD handle_VB multiple_JJ attributes_NNS while_IN supporting_VBG various_JJ data_NNS mining_NN computations_NNS ._.
+Work_NNP has_VBZ been_VBN proposed_VBN to_TO deal_VB with_IN surveys_NNS that_WDT contain_VBP multiple_JJ questions_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, their_PRP$ solutions_NNS can_MD only_RB handle_VB very_RB low_JJ dimensional_JJ situation_NN -LRB-_-LRB- e.g._FW dimension_NN =_JJ 2_CD -RRB-_-RRB- ,_, and_CC can_MD not_RB be_VB extended_VBN to_TO data_NNS mining_NN ,_, in_IN which_WDT the_DT number_NN ofdimensions_NNS is_VBZ usually_RB high_JJ ._.
+In_IN this_DT paper_NN ,_,

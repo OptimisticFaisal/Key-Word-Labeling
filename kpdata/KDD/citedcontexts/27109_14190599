@@ -1,0 +1,4 @@
+of_IN graph_NN theory_NN ._.
+In_IN terms_NNS of_IN the_DT graph_NN bisection_NN the_DT second_JJ eigenvector_NN is_VBZ most_RBS important_JJ -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, allowing_VBG for_IN creation_NN of_IN normalized_VBN cut_NN -LRB-_-LRB- partition_NN of_IN the_DT vertices_NNS of_IN a_DT graph_NN into_IN two_CD disjoint_NN subsets_NNS -RRB-_-RRB- =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Thus_RB selecting_VBG the_DT second_JJ principal_JJ component_NN is_VBZ a_DT good_JJ start_NN to_TO construct_VB hierarchical_JJ partitioning_NN ._.
+The_DT typical_JJ approaches_NNS to_TO spectral_JJ clustering_NN employs_VBZ second_JJ -LRB-_-LRB- biggest_JJS -RRB-_-RRB- component_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- -LRB-_-LRB- that_IN mini_NNS

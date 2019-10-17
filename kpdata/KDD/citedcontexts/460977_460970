@@ -1,0 +1,6 @@
+of_IN frequent_JJ itemsets_NNS in_IN this_DT biological_JJ setting_NN ._.
+For_IN related_JJ work_NN we_PRP refer_VBP to_TO -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, where_WRB --_: among_IN other_JJ things_NNS --_: minimal_JJ and_CC related_JJ gain_NN and_CC loss_NN zones_NNS are_VBP detected_VBN using_VBG frequent_JJ pattern_NN mining_NN ._.
+In_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: a_DT method_NN is_VBZ discussed_VBN that_IN deals_NNS with_IN finding_VBG interesting_JJ association_NN rules_NNS ._.
+The_DT first_JJ step_NN is_VBZ to_TO generate_VB frequent_JJ itemsets_NNS ._.
+From_IN these_DT one_NN can_MD deduce_VB a_DT huge_JJ amount_NN of_IN association_NN rules_NNS ._.
+The_DT authors_NNS

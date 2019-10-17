@@ -1,0 +1,3 @@
+ly_RB seen_VBN in_IN many_JJ real_JJ life_NN applications_NNS ._.
+Active_JJ learning_NN is_VBZ a_DT term_NN coined_VBN to_TO represent_VB methods_NNS where_WRB the_DT learning_NN algorithm_NN assumes_VBZ some_DT control_NN over_IN the_DT subset_NN of_IN the_DT input_NN space_NN used_VBN in_IN the_DT modeling_NN =_JJ -_: =[_NN 9_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, active_JJ learning_NN will_MD mean_VB learning_VBG from_IN unlabeled_JJ data_NNS ,_, where_WRB an_DT oracle_NN can_MD be_VB queried_VBN for_IN labels_NNS of_IN speci_NN c_NN instances_NNS ,_, with_IN the_DT goal_NN of_IN minimizing_VBG the_DT number_NN of_IN oracle_NN queries_NNS requir_VBP

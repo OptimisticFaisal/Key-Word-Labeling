@@ -1,0 +1,4 @@
+,_, typically_RB for_IN speeding_VBG up_RP operations_NNS such_JJ as_IN collision_NN detection_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Previous_JJ approaches_NNS that_IN approximate_JJ trajectories_NNS with_IN MBRs_NNS ,_, manipulate_VBP each_DT trajectory_NN separately_RB from_IN the_DT remaining_VBG sequences_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, with_IN the_DT objective_NN of_IN minimizing_VBG the_DT overlap_VBP between_IN MRBs_NNS through_IN volume_NN minimization_NN ._.
+However_RB ,_, most_JJS mining_NN operations_NNS are_VBP based_VBN on_IN distance_NN ._.
+Consider_VB ,_, for_IN example_NN ,_, the_DT problem_NN of_IN clustering_NN or_CC outl_NN

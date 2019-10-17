@@ -1,0 +1,5 @@
+exity_NN is_VBZ also_RB inferior_JJ compared_VBN with_IN PCA_NN ,_, since_IN we_PRP have_VBP to_TO compute_VB the_DT top_JJ eigenvector_NN of_IN an_DT n_NN ×_CD n_NN matrix_NN ._.
+The_DT computation_NN is_VBZ done_VBN using_VBG iterative_JJ algorithms_NNS such_JJ as_IN the_DT Power-Iteration_NNP or_CC Lanczos_NNP ;_: see_VB =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT time_NN complexity_NN of_IN a_DT single_JJ iteration_NN is_VBZ O_NN -LRB-_-LRB- n_NN 2_CD -RRB-_-RRB- ._.
+In_IN our_PRP$ experiments_NNS ,_, convergence_NN to_TO satisfactory_JJ precision_NN is_VBZ achieved_VBN in_IN very_RB few_JJ iterations_NNS ._.
+4.3_CD Eigen-projection_NN The_DT Eigen-projection_NN -LRB-_-LRB- 13_CD ,_, 17_CD -RRB-_-RRB-

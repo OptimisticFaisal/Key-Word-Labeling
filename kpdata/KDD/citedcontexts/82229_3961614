@@ -1,0 +1,4 @@
+wn_NN to_TO detect_VB simulated_JJ failures_NNS in_IN a_DT milling_NN machine_NN ._.
+Keogh_NNP approaches_VBZ the_DT problem_NN as_IN that_DT of_IN finding_VBG a_DT dissimilarity_NN function_NN D_NN -LRB-_-LRB- x_NN ,_, y_NN -RRB-_-RRB- between_IN a_DT -LRB-_-LRB- normal_JJ or_CC good_JJ -RRB-_-RRB- training_NN series_NN x_NN and_CC a_DT test_NN series_NN y_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Viewed_VBN this_DT way_NN ,_, we_PRP avail_NN ourselves_PRP of_IN the_DT vast_JJ body_NN of_IN research_NN in_IN related_JJ data_NNS mining_NN topics_NNS such_JJ as_IN classification_NN ,_, clustering_NN ,_, and_CC search_NN ._.
+The_DT simplest_JJS measure_NN is_VBZ Euclidean_JJ distance_NN :_: D_NN EUCLID_NN N_NN

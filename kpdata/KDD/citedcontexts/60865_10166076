@@ -1,0 +1,5 @@
+to_TO a_DT mention_NN in_IN the_DT same_JJ sentence_NN ._.
+The_DT instances_NNS corresponding_VBG to_TO mentions_VBZ which_WDT are_VBP targets_NNS are_VBP given_VBN a_DT rank_NN of_IN 1_CD while_IN the_DT others_NNS are_VBP given_VBN a_DT rank_NN of_IN 0_CD ._.
+We_PRP use_VBP SVMLight_NN 's_POS implementation_NN of_IN RankSVM_NN -LRB-_-LRB- =_JJ -_: =_JJ Joachims_NNP 2002_CD -_: =--RRB-_NN to_TO train_VB a_DT model_NN over_IN these_DT ranked_VBN instances_NNS ._.
+RankSVM_NN trains_VBZ a_DT preference_NN function_NN with_IN the_DT objective_NN of_IN scoring_VBG higher_JJR ranking_JJ instances_NNS higher_JJR than_IN lower_JJR ranking_NN instances_NNS ._.
+The_DT default_NN parameters_NNS

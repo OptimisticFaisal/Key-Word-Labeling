@@ -1,0 +1,5 @@
+variable_JJ size_NN from_IN 10000_CD to_TO 118_CD million_CD vertices_NNS ._.
+We_PRP report_VBP on_IN the_DT experiments_NNS with_IN the_DT largest_JJS data-set_NN ,_, the_DT WebBase_NNP graph_NN of_IN approximate_JJ 118_CD million_CD vertices_NNS ._.
+Sources_NNS of_IN our_PRP$ data_NNS sets_NNS were_VBD -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 7_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP performed_VBD the_DT experiments_NNS on_IN an_DT Intel_NNP TM_NNP Itanium_NNP TM_NNP 2_CD system_NN ,_, with_IN 32_CD GB_NN of_IN shared_JJ RAM_NNP ._.
+Because_IN of_IN the_DT large_JJ size_NN of_IN the_DT memory_NN ,_, it_PRP was_VBD possible_JJ to_TO keep_VB the_DT adjacency_NN matrix_NN of_IN the_DT web_NN graph_NN ,_, in_IN

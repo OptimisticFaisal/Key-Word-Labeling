@@ -1,0 +1,4 @@
+has_VBZ not_RB been_VBN seen_VBN over_IN a_DT long_JJ period_NN of_IN time_NN ._.
+One_CD approach_NN to_TO modeling_NN time_NN would_MD be_VB parametric_JJ :_: we_PRP could_MD associate_VB a_DT probability_NN distribution_NN with_IN the_DT timestamps_NNS of_IN documents_NNS in_IN any_DT given_VBN storyline_NN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, different_JJ stories_NNS often_RB have_VBP radically_RB different_JJ temporal_JJ characteristics_NNS ,_, and_CC multimodality_NN is_VBZ not_RB uncommon_JJ ,_, as_IN we_PRP observe_VBP e.g._NNP in_IN Figure_NNP 4_CD ._.
+We_PRP turn_VBP to_TO the_DT Recurrent_NNP Chinese_NNP Restaurant_NNP Pro_FW

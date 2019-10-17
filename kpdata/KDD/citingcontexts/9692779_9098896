@@ -1,0 +1,6 @@
+t_NN cover_NN by_IN 3-sets_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Hardness_NN using_VBG -LRB-_-LRB- 4_CD -RRB-_-RRB- is_VBZ shown_VBN using_VBG a_DT reduction_NN from_IN 3SAT_NN ._.
+Proofs_NNS are_VBP omitted_VBN to_TO save_VB space_NN ._.
+3.4_CD LP_NN rounding_VBG approach_NN Guided_VBN by_IN approaches_NNS to_TO Quadratic_JJ Assignment_NN Problems_NNS -LRB-_-LRB- QAPs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: we_PRP can_MD turn_VB our_PRP$ optimization_NN into_IN a_DT 0\/1_CD integer_NN linear_NN program_NN ,_, and_CC then_RB relax_VB it_PRP to_TO an_DT LP_NN ._.
+First_JJ disallow_NN ys_VBZ =_JJ na_TO ._.
+The_DT ILP_NNP is_VBZ designed_VBN with_IN up_RB to_TO |_NN Γ0_NN |_CD +_CC |_CD Γ0_NN |_NN 2_CD variables_NNS zsγ_NN =_JJ -LRB-_-LRB- -LRB-_-LRB- spot_NN s_NN is_VBZ assigned_JJ lab_NN

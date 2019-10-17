@@ -1,0 +1,5 @@
+tain_NN information_NN of_IN the_DT support_NN of_IN each_DT frequent_JJ itemset_NN unless_IN the_DT itemset_NN is_VBZ a_DT maximal_JJ frequent_JJ itemset_NN ._.
+Thus_RB ,_, mining_NN only_RB maximal_JJ frequent_JJ itemsets_NNS loses_VBZ information_NN ._.
+In_IN the_DT second_JJ solution_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 20_CD ,_, 21_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, only_RB closed_VBD frequent_JJ itemsets_NNS are_VBP discovered_VBN ._.
+An_DT itemset_NN is_VBZ closed_VBN if_IN none_NN of_IN its_PRP$ proper_JJ supersets_NNS has_VBZ the_DT same_JJ support_NN as_IN it_PRP has_VBZ ._.
+Usually_RB ,_, the_DT total_JJ number_NN of_IN closed_JJ frequent_JJ itemsets_NNS C_NN is_VBZ still_RB m_NN

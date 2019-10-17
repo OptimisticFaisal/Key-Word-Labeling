@@ -1,0 +1,4 @@
+aining_VBG corpus_NN can_MD be_VB reduced_VBN significantly_RB while_IN classification_NN performance_NN can_MD be_VB kept_VBN at_IN a_DT level_NN close_RB to_TO that_DT of_IN without_IN training_NN documents_NNS pruning_NN according_VBG to_TO their_PRP$ experiments_NNS ._.
+Fragoudis_NNP et_FW al._FW =_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: integrated_VBN Feature_NNP and_CC Instance_NNP Selection_NN for_IN Text_NN Classification_NN with_IN even_RB better_JJR results_NNS ._.
+Their_PRP$ method_NN works_VBZ in_IN two_CD steps_NNS ._.
+In_IN the_DT first_JJ step_NN ,_, their_PRP$ method_NN sequentially_RB selects_VBZ features_NNS that_WDT have_VBP hi_UH

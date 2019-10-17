@@ -1,0 +1,3 @@
+icroarray_NN data_NNS ._.
+Key_NN words_NNS :_: Features_NNS generation_NN ,_, dimensionality_NN reduction_NN ,_, learning_NN ,_, support_NN feature_NN machines_NNS ,_, support_NN vector_NN machines_NNS 1_CD Introduction_NN Data_NN mining_NN packages_NNS such_JJ as_IN Weka_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, Rapid_NNP Miner_NNP =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, or_CC KNIME_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- offer_VBP enormous_JJ number_NN of_IN modules_NNS for_IN pre-processing_NN ,_, optimization_NN ,_, training_NN ,_, classification_NN ,_, clustering_NN ,_, visualization_NN and_CC post-processing_NN ._.
+For_IN example_NN ,_, combining_VBG all_DT modules_NNS available_JJ

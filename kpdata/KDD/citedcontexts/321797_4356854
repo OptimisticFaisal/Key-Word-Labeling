@@ -1,0 +1,4 @@
+1_CD is_VBZ not_RB necessarily_RB the_DT same_JJ as_IN the_DT X_NN that_WDT is_VBZ best_JJS for_IN Equation_NN 2_CD ._.
+We_PRP now_RB describe_VBP two_CD algorithms_NNS representative_JJ of_IN the_DT approaches_NNS ._.
+C5_NN -LRB-_-LRB- Quinlan_NNP ,_, 1993_CD -RRB-_-RRB- which_WDT is_VBZ a_DT discriminative_JJ approach_NN and_CC STUCCO_NN -LRB-_-LRB- =_JJ -_: =_JJ Bay_NNP &_CC Pazzani_NNP ,_, 1999_CD -_: =--RRB-_NN which_WDT is_VBZ a_DT characteristic_JJ approach_NN ._.
+A_DT Discriminative_JJ Approach_NN :_: C5_NN A_NN discriminative_JJ approach_NN to_TO distinguishing_VBG two_CD or_CC more_JJR groups_NNS from_IN each_DT other_JJ is_VBZ to_TO use_VB a_DT rule_NN learner_NN or_CC decision_NN tree_NN to_TO learn_VB a_DT

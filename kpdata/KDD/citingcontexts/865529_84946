@@ -1,0 +1,5 @@
+k_NN is_VBZ the_DT average_JJ number_NN of_IN links_NNS per_IN web_NN page_NN ._.
+It_PRP has_VBZ also_RB been_VBN shown_VBN that_IN the_DT total_JJ number_NN of_IN iterations_NNS needed_VBN for_IN convergence_NN is_VBZ proportional_JJ to_TO α_NN and_CC does_VBZ not_RB depend_VB on_IN the_DT size_NN of_IN the_DT web_NN graph_NN =_JJ -_: =[_NN 11_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Finally_RB ,_, the_DT total_JJ space_NN needed_VBN is_VBZ also_RB O_NN -LRB-_-LRB- km_NN -RRB-_-RRB- ,_, mainly_RB to_TO store_VB the_DT matrix_NN U._NNP sAlgorithm_NNP 1_CD :_: A_DT linear_JJ time_NN -LRB-_-LRB- per_IN iteration_NN -RRB-_-RRB- algorithm_NN for_IN computing_VBG PageRank_NNP ._.
+ComputePR_NN -LRB-_-LRB- U_NN -RRB-_-RRB- Input_NN :_: U_NN :_: Adjacency_NN matrix_NN ._.
+Out_IN

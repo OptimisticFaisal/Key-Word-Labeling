@@ -1,0 +1,5 @@
+ities_NNS ._.
+One_CD way_NN to_TO deal_VB with_IN the_DT issue_NN of_IN labeled_JJ data_NNS is_VBZ unsupervised_JJ clustering_NN using_VBG generative_JJ models_NNS ._.
+Topic_JJ mixture_NN models_NNS of_IN increasing_VBG complexity_NN have_VBP been_VBN proposed_VBN for_IN documents_NNS over_IN the_DT years_NNS =_JJ -_: =[_NN 15_CD ,_, 10_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN comparison_NN ,_, we_PRP use_VBP a_DT relatively_RB simple_JJ model_NN for_IN the_DT unstructured_JJ words_NNS in_IN the_DT document_NN ._.
+It_PRP will_MD be_VB interesting_JJ to_TO investigate_VB if_IN more_RBR complex_JJ mixture_NN models_NNS can_MD bring_VB further_JJ improvements_NNS for_IN en_IN

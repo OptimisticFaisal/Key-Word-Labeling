@@ -1,0 +1,4 @@
+y_NN and_CC efficiently_RB ._.
+6_CD Experiments_NNS In_IN this_DT section_NN ,_, we_PRP apply_VBP our_PRP$ citation_NN prediction_NN approach_NN along_IN with_IN two_CD state-of-the-art_JJ link_NN prediction_NN methods_NNS on_IN a_DT DBLP_NN citation_NN dataset_NN generated_VBN by_IN Tang_NNP et_FW al._FW =_SYM -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP compare_VBP our_PRP$ methods_NNS with_IN link_NN prediction_NN methods_NNS under_IN different_JJ scenarios_NNS using_VBG a_DT set_NN of_IN experiments_NNS ._.
+6.1_CD Dataset_NNP and_CC Methods_NNS Setup_VBP The_DT original_JJ DBLP_NN dataset_NN does_VBZ not_RB contain_VB citation_NN relations_NNS ._.

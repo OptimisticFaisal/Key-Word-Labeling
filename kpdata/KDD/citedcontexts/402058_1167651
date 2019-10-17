@@ -1,0 +1,4 @@
+t_NN personalized_VBD clusters_NNS depending_VBG on_IN different_JJ perspectives_NNS ._.
+Outlier_JJR Detection_NN on_IN Graphs_NNP :_: Autopart_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- finds_VBZ outlier_NN edges_NNS in_IN a_DT general_JJ graph_NN ;_: however_RB ,_, we_PRP need_VBP to_TO detect_VB outlier_NN nodes_NNS ._.
+Noble_NNP and_CC Cook_NNP =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: study_NN anomaly_NN detection_NN on_IN general_JJ graph_NN with_IN labeled_JJ nodes_NNS ;_: yet_RB ,_, their_PRP$ goal_NN is_VBZ to_TO identify_VB abnormal_JJ substructure_NN in_IN the_DT graph_NN ,_, not_RB the_DT abnormal_JJ nodes_NNS ._.
+Aggarwal_NNP and_CC Yu_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- propose_VBP algorithms_NNS to_TO find_VB

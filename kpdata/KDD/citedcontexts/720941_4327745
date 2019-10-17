@@ -1,0 +1,5 @@
+mate_NN s_NN -LRB-_-LRB- pi_NN -RRB-_-RRB- ._.
+Second_RB ,_, the_DT scores_NNS of_IN pi_NN and_CC pj_NN are_VBP clearly_RB interrelated_VBN and_CC estimating_VBG one_PRP will_MD have_VB an_DT influence_NN on_IN the_DT other_JJ ._.
+We_PRP therefore_RB estimate_VBP all_DT unknown_JJ scores_NNS simultaneously_RB or_CC ``_`` collectively_RB ''_'' -LRB-_-LRB- =_JJ -_: =_JJ Jensen_NNP et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN ._.
+As_IN it_PRP is_VBZ not_RB tractable_JJ to_TO perform_VB exact_JJ inference_NN to_TO estimate_VB the_DT full_JJ joint_JJ probability_NN distribution_NN over_IN a_DT large_JJ network_NN ,_, we_PRP use_VBP an_DT approximation_NN technique_NN ._.
+In_IN particular_JJ ,_, we_PRP use_VBP an_DT adaptation_NN of_IN

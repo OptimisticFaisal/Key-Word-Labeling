@@ -1,0 +1,4 @@
+ssification_NN to_TO analyze_VB email_NN con-tent_JJ -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Abu-Nimeh_NNP et_FW al._FW compare_VBP different_JJ classifiers_NNS over_IN a_DT corpus_NN of_IN phishing_NN emails_NNS ,_, using_VBG as_IN features_NNS the_DT frequency_NN of_IN the_DT 43_CD most-popular_JJ words_NNS in_IN the_DT corpus_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Kolari_FW et_FW al._FW use_NN URLs_NNS found_VBN within_IN a_DT blog_NN page_NN as_IN features_NNS to_TO determine_VB whether_IN the_DT page_NN is_VBZ spam_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+They_PRP use_VBP a_DT ``_`` bag-of-words_JJ ''_'' representation_NN of_IN URL_NN tokens_NNS ,_, and_CC we_PRP use_VBP a_DT similar_JJ set_NN of_IN features_NNS ._.

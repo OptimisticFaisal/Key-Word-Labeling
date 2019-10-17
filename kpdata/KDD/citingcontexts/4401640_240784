@@ -1,0 +1,4 @@
+B_NN =_JJ B_NN ⊤_NN B_NN 0_CD ,_, where_WRB the_DT set_NN of_IN constraints_NNS involving_VBG B_NN follow_VBP from_IN Eqs_NNP ._.
+5_CD This_DT is_VBZ also_RB a_DT semi-definite_JJ programming_NN -LRB-_-LRB- SDP_NN -RRB-_-RRB- problem_NN which_WDT is_VBZ convex_NN and_CC can_MD be_VB solved_VBN using_VBG specialized_JJ SDP_NN solvers_NNS like_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, we_PRP will_MD further_RB develop_VB the_DT formulation_NN presented_VBN above_RB by_IN restricting_VBG our_PRP$ solution_NN space_NN to_TO a_DT subfamily_NN of_IN the_DT PSD_NNP matrices_NNS :_: the_DT set_NN of_IN diagonal_JJ dominant_JJ matrices_NNS ._.
+4.2.1_CD Imposing_VBG diagonal_JJ

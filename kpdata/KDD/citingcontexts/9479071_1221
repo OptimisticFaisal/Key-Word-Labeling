@@ -1,0 +1,4 @@
+o_NN a_DT student\/not-student_JJ binary_JJ classification_NN task_NN ._.
+Following_VBG prior_JJ work_NN on_IN web-page_JJ classification_NN ,_, we_PRP link_VBP two_CD pages_NNS by_IN co-citations_NNS -LRB-_-LRB- if_IN x_NN links_NNS to_TO z_SYM and_CC y_NN links_NNS to_TO z_SYM ,_, then_RB x_NN and_CC y_NN are_VBP co-citing_VBG z_SYM -RRB-_-RRB- =_JJ -_: =[_NN 9_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO weight_VB the_DT link_NN between_IN x_NN and_CC y_NN ,_, we_PRP sum_VBP the_DT number_NN of_IN hyperlinks_NNS from_IN x_NN to_TO z_SYM and_CC separately_RB the_DT number_NN from_IN y_NN to_TO z_SYM ,_, and_CC multiply_VB these_DT two_CD quantities_NNS ._.
+This_DT weight_NN represents_VBZ the_DT number_NN of_IN 2_CD We_PRP us_PRP

@@ -1,0 +1,4 @@
+s_VBZ an_DT input_NN ,_, produces_VBZ the_DT labels_NNS ^_CD Y_NN m_NN +_CC n_NN as_IN output_NN and_CC halts_NNS ._.
+Therefore_RB ,_, the_DT description_NN language_NN L_NN =_JJ -LCB-_-LRB- oe_NN -RCB-_-RRB- must_MD be_VB a_DT prefix-free_JJ code_NN -LRB-_-LRB- by_IN the_DT halting_VBG property_NN -RRB-_-RRB- and_CC hence_RB satisfy_VB Kraft_NNP 's_POS inequality_NN -LRB-_-LRB- see_VB =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Theorem_NNP 5.2.1_NNP ,_, Lemma_NNP 7.3.1_NNP ,_, for_IN details_NNS -RRB-_-RRB- ,_, i.e._FW ,_, Poe2L_NN 2_CD -_: |_CD oe_FW |_FW -LRB-_-LRB- =_JJ 1_CD ._.
+This_DT is_VBZ the_DT only_JJ condition_NN a_DT label_NN description_NN language_NN L_NN =_JJ -LCB-_-LRB- oe_NN -RCB-_-RRB- must_MD satisfy_VB for_IN the_DT proposed_VBN bound_VBD to_TO hold_VB ._.
+3.1_CD PAC-MDL_NN Bound_VBN for_IN

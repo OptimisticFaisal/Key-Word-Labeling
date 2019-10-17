@@ -1,0 +1,7 @@
+s_VBZ the_DT majority_NN class_NN of_IN the_DT data_NNS tuples_NNS covered_VBN by_IN the_DT rule_NN ._.
+The_DT significance_NN of_IN a_DT rule_NN can_MD be_VB measured_VBN in_IN various_JJ ways_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP measure_VBP it_PRP using_VBG chi-square_NN -LRB-_-LRB- c_NN 2_CD -RRB-_-RRB- test\/fisher_NN 's_POS exact_JJ test_NN 1_CD =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT way_NN that_IN we_PRP measure_VBP the_DT significance_NN of_IN a_DT rule_NN is_VBZ the_DT same_JJ as_IN that_DT in_IN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+We_PRP will_MD not_RB discuss_VB it_PRP further_RBR in_IN this_DT paper_NN ._.
+1_CD Chi-square_JJ test_NN can_MD be_VB computed_VBN very_RB efficiently_RB ._.
+However_RB ,_, it_PRP is_VBZ based_VBN

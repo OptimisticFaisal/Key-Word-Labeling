@@ -1,0 +1,4 @@
+iterion_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Others_NNS use_VBP the_DT receiver_NN operating_NN characteristic_NN -LRB-_-LRB- ROC_NN -RRB-_-RRB- curves_NNS -LRB-_-LRB- 3_CD ,_, 4_CD -RRB-_-RRB- to_TO measure_VB the_DT relative_JJ trade-offs_NNS between_IN true_JJ positives_NNS and_CC false_JJ positives_NNS ._.
+Alternatively_RB ,_, cost-sensitive_JJ learning_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: recognizes_VBZ thatsidentifying_VBG a_DT buyer_NN as_IN a_DT non_JJ buyer_NN incurs_VBZ a_DT higher_JJR cost_NN than_IN identifying_VBG a_DT non_JJ buyer_NN as_IN a_DT buyer_NN ._.
+Essentially_RB ,_, with_IN any_DT of_IN these_DT evaluation_NN criteria_NNS ,_, a_DT model_NN tends_VBZ to_TO target_NN decided_VBD cu_NN

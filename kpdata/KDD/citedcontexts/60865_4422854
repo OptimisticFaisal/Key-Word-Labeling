@@ -1,0 +1,5 @@
+l_NN representation_NN to_TO the_DT clustering_NN algorithm_NN ._.
+Clustering_NN methods_NNS had_VBD been_VBN developed_VBN for_IN clustering_NN query_NN logs_NNS for_IN query_NN expansion_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- as_RB well_RB as_IN for_IN search_NN engine_NN selection_NN and_CC performance_NN evaluation_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT remainder_NN of_IN the_DT paper_NN ,_, we_PRP will_MD focus_VB on_IN the_DT agglomerative_JJ clustering_NN method_NN proposed_VBN by_IN Beeferman_NNP and_CC Berger_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- for_IN clustering_VBG similar_JJ queries_NNS from_IN query_JJ logs_NNS ._.
+3_LS ._.
+Graph-Based_JJ Iterative_JJ Clus_NN

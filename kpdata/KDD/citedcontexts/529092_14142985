@@ -1,0 +1,4 @@
+but_CC the_DT nearest_JJS neighbor_NN of_IN y_NN is_VBZ another_DT object_NN a_DT -LRB-_-LRB- a_DT ̸_NN =_JJ x_NN -RRB-_-RRB- ._.
+This_DT behavior_NN is_VBZ problematic_JJ if_IN x_NN and_CC y_NN belong_VBP to_TO the_DT same_JJ class_NN but_CC a_DT does_VBZ not_RB ,_, thus_RB it_PRP is_VBZ said_VBD a_DT violates_VBZ the_DT pairwise_JJ cluster_NN stability_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Although_IN a_DT is_VBZ ,_, in_IN terms_NNS of_IN the_DT distance_NN measure_NN ,_, the_DT correct_JJ answer_NN to_TO the_DT nearest_JJS neighbor_NN query_NN for_IN y_NN ,_, it_PRP may_MD be_VB beneficial_JJ to_TO use_VB a_DT distance_NN measure_NN enforcing_VBG symmetric_JJ nearest_IN neighbors_NNS ._.
+Thus_RB a_DT

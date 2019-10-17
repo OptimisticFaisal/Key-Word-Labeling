@@ -1,0 +1,5 @@
+e_LS distance_NN sequence_NN Dab_NN =_JJ -LRB-_-LRB- d1_NN ,_, ·_NNP ·_NNP ·_NNP ,_, dn_FW ′_FW -RRB-_-RRB- ,_, has_VBZ a_DT period_NN p_NN with_IN time_NN tolerance_NN δ_NN ._.
+a_DT The_DT discovery_NN of_IN the_DT waiting_VBG periods_NNS is_VBZ carried_VBN out_RP using_VBG the_DT ChiSquared_NNP test_NN based_JJ approach_NN first_RB introduced_VBN in_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Consider_VB an_DT arbitrary_JJ element_NN τ_NN in_IN Dab_NNP and_CC a_DT fixed_VBN δ_NN ._.
+Let_NNP Cτ_NNP be_VB the_DT total_JJ number_NN of_IN elements_NNS of_IN Dab_NNP that_WDT fall_VBP into_IN the_DT interval_NN -LRB-_-LRB- τ_FW −_FW δ_FW ,_, τ_NN +_CC δ_NN -RRB-_-RRB- ._.
+Intuitively_RB ,_, if_IN τ_NN is_VBZ not_RB a_DT period_NN p_NN ,_, Cτ_NN should_MD be_VB smal_JJ

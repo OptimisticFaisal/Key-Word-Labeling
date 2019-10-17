@@ -1,0 +1,5 @@
+3_CD ,_, measuring_VBG the_DT errors_NNS by_IN MAPE_NNP ._.
+We_PRP attempted_VBD to_TO test_VB the_DT results_NNS of_IN our_PRP$ experiments_NNS statistically_RB ._.
+Absolute_JJ percentage_NN error_NN APE_NN -RRB-_-RRB- is_VBZ commonly_RB used_VBN Carbone_NNP &_CC Armstrong_NNP ,_, 1982_CD -RRB-_-RRB- and_CC is_VBZ highly_RB robust_JJ =_JJ -_: =_JJ Armstrong_NNP &_CC Collopy_NNP ,_, 1992_CD -_: =--RRB-_NN ._.
+As_IN the_DT forecasts_NNS are_VBP not_RB statistically_RB independent_JJ and_CC not_RB always_RB normally_RB distributed_VBN ,_, we_PRP compare_VBP the_DT APEs_NNS of_IN forecast_NN using_VBG the_DT pairwise_JJ t-test_NN ._.
+Paired_JJ t-test_NN results_NNS for_IN NN1and_NN NN2_NN show_VBP a_DT signi_FW ®_FW

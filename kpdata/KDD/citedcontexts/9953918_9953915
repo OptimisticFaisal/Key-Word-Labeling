@@ -1,0 +1,3 @@
+h_NN substantially_RB outperform_VBP the_DT state-of-the-art_JJ methods_NNS in_IN prediction_NN accuracy_NN ._.
+For_IN BT_NNP in_IN particular_JJ ,_, the_DT ROC_NNP area_NN achieved_VBN by_IN GaP_NN is_VBZ exceeding_VBG 0.95_CD ,_, while_IN one_CD prior_JJ approach_NN using_VBG Poisson_NNP regression_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: yielded_VBD 0.83_CD ._.
+For_IN computational_JJ performance_NN ,_, we_PRP compare_VBP a_DT single-node_JJ sparse_JJ implementation_NN with_IN a_DT parallel_JJ implementation_NN using_VBG Hadoop_NNP MapReduce_NNP ,_, the_DT results_NNS are_VBP counterintuitive_JJ yet_CC quite_RB interesti_NN

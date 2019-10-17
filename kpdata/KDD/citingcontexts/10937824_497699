@@ -1,0 +1,4 @@
+case_NN of_IN this_DT ,_, as_IN is_VBZ collaborative_JJ filtering_VBG ._.
+One_CD very_RB common_JJ and_CC successful_JJ set_NN of_IN proximity_NN measures_NNS are_VBP based_VBN on_IN random_JJ walks_VBZ on_IN graphs_NNS ,_, for_IN instance_NN lazy_JJ random_JJ walks_VBZ -LRB-_-LRB- 19_CD -RRB-_-RRB- or_CC personalized_JJ PageRank_NN =_JJ -_: =[_NN 6_CD ,_, 8_CD -RRB-_-RRB- -_: =_JJ -_: or_CC Random_NNP Walk_VB with_IN Restart_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- ._.
+However_RB ,_, regular_JJ graphwalk_NN based_VBN similarity_NN measure_NN is_VBZ naive_JJ in_IN the_DT sense_NN that_IN the_DT random_JJ walker_NN does_VBZ not_RB distinguish_VB the_DT importance_NN of_IN different_JJ paths_NNS ._.
+Relational_JJ d_NN

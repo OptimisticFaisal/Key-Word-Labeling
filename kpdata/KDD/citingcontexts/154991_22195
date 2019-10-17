@@ -1,0 +1,6 @@
+d_NN sense_NN discovery_NN ,_, clustering_NN ,_, evaluation_NN ,_, machine_NN learning_NN ._.
+1_CD ._.
+INTRODUCTION_NN Using_VBG word_NN senses_NNS versus_CC word_NN forms_NNS is_VBZ useful_JJ in_IN many_JJ applications_NNS such_JJ as_IN information_NN retrieval_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, machine_NN translation_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: and_CC question-answering_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+In_IN previous_JJ approaches_NNS ,_, word_NN senses_NNS are_VBP usually_RB defined_VBN using_VBG a_DT manually_RB constructed_VBN lexicon_NN ._.
+There_EX are_VBP several_JJ disadvantages_NNS associated_VBN with_IN these_DT word_NN senses_NNS ._.
+First_RB ,_, ma_FW

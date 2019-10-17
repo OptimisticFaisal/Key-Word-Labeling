@@ -1,0 +1,4 @@
+ng_NN models_NNS were_VBD limited_VBN ,_, and_CC do_VBP not_RB permit_VB pairwise_JJ interactions_NNS between_IN output_NN labels_NNS ._.
+The_DT method_NN of_IN Yue_NNP et_FW al._FW -LRB-_-LRB- 29_CD -RRB-_-RRB- takes_VBZ a_DT similar_JJ approach_NN to_TO optimize_VB against_IN Mean_NN Average_NNP Precision_NNP ._.
+Khanna_NNP et_FW al._FW =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: present_JJ an_DT algorithm_NN in_IN the_DT same_JJ framework_NN to_TO optimize_VB against_IN normalized_VBN discounted_JJ cumulative_JJ gain_NN -LRB-_-LRB- NDCG_NN -RRB-_-RRB- ._.
+Rather_RB than_IN solving_VBG a_DT convex_NN relaxation_NN of_IN the_DT expected_VBN loss_NN ,_, McAllester_NNP et_FW al._FW -LRB-_-LRB- 13_CD -RRB-_-RRB- propo_NN

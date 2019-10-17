@@ -1,0 +1,6 @@
+n_NN user_NN requests_NNS ._.
+Micro_NNP clusters_NNS are_VBP represented_VBN with_IN a_DT feature_NN vector_NN similar_JJ to_TO BIRCH_NNP ._.
+In_IN this_DT paper_NN ,_, we_PRP extended_VBD CluStream_NNP to_TO handle_VB a_DT complex_JJ data_NN type_NN such_JJ as_IN an_DT event_NN context_NN ._.
+Similarly_RB ,_, DStream_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: combines_VBZ grid_NN and_CC density_NN based_JJ clustering_NN but_CC it_PRP is_VBZ unclear_JJ how_WRB it_PRP could_MD be_VB adapted_VBN to_TO cluster_VB event_NN contexts_NNS ._.
+STREAM_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- proposed_VBD a_DT k-median_NN data_NN stream_NN clustering_NN algorithm_NN ._.
+This_DT algorithm_NN ,_, howev_NN

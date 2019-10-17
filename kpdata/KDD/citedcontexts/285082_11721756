@@ -1,0 +1,3 @@
+The_DT formulation_NN above_IN has_VBZ applications_NNS in_IN the_DT analysis_NN of_IN information_NN diffusion_NN ,_, adoption_NN of_IN innovations_NNS etc._NN ._.
+Indeed_RB ,_, many_JJ cascade_NN models_NNS of_IN such_JJ phenomena_NNS on_IN weighted_JJ graphs_NNS have_VBP been_VBN proposed_VBN -LRB-_-LRB- 19_CD -RRB-_-RRB- =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, which_WDT work_VBP by_IN assuming_VBG that_IN an_DT agent_NN will_MD change_VB state_NN from_IN ``_`` inactive_JJ ''_'' to_TO ``_`` active_JJ ''_'' if_IN and_CC only_RB if_IN the_DT sum_NN of_IN the_DT weights_NNS to_TO all_DT active_JJ neighbors_NNS is_VBZ at_IN least_JJS equal_JJ to_TO an_DT agent-specific_JJ cutoff_NN ._.
+A_DT

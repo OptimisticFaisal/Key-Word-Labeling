@@ -1,0 +1,4 @@
+le_DT input_NN object_NN and_CC the_DT preference_NN relation_NN between_IN a_DT pair_NN of_IN input_NN objects_NNS as_IN a_DT binary_JJ label_NN ._.
+A_DT number_NN of_IN classification_NN algorithms_NNS have_VBP been_VBN adapted_VBN to_TO solve_VB ranking_NN ,_, namely_RB RankBoost_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, RankSVM_NN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC RankNet_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Although_IN information_NN is_VBZ everywhere_RB ,_, useful_JJ information_NN often_RB comes_VBZ with_IN a_DT price_NN ._.
+The_DT 2standard_JJ formulations_NNS of_IN classification_NN and_CC ranking_NN are_VBP rather_RB strict_JJ in_IN terms_NNS of_IN information_NN

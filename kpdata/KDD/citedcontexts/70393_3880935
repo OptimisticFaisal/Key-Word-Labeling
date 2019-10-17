@@ -1,0 +1,4 @@
+easier_JJR to_TO select_VB features_NNS for_IN classification_NN than_IN for_IN clustering_NN ._.
+Feature_NN selection_NN for_IN clustering_NN is_VBZ the_DT task_NN of_IN selecting_VBG important_JJ features_NNS for_IN the_DT underlying_VBG clusters_NNS ._.
+Among_IN the_DT methods_NNS proposed_VBD =_JJ -_: =[_NN 8_CD ,_, 9_CD ,_, 11_CD ,_, 17_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: most_JJS of_IN them_PRP are_VBP `_`` wrapper_NN '_'' methods_NNS for_IN feature_NN selection_NN ._.
+A_DT wrapper_NN method_NN for_IN feature_NN selection_NN evaluates_VBZ the_DT candidate_NN feature_NN subsets_NNS by_IN the_DT learning_NN algorithm_NN itself_PRP which_WDT uses_VBZ the_DT selected_VBN feat_NN

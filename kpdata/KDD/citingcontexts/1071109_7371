@@ -1,0 +1,4 @@
+et_CC of_IN edges_FW Ec_FW such_JJ that_IN E_NN -LRB-_-LRB- G_NN -RRB-_-RRB- −_FW Ec_FW is_VBZ disconnected_VBN ._.
+A_DT minimum_JJ cut_NN is_VBZ the_DT smallest_JJS set_NN in_IN all_DT edge_NN cuts_NNS ,_, whose_WP$ size_NN is_VBZ written_VBN κ_NN -LRB-_-LRB- G_NN -RRB-_-RRB- ._.
+As_IN suggested_VBN by_IN many_JJ graph_NN theoretic_JJ approaches_NNS for_IN data_NNS clustering_NN =_JJ -_: =[_NN 3_CD ,_, 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT minimum_JJ cut_NN measure_NN ,_, also_RB called_VBN edge_NN connectivity_NN ,_, is_VBZ good_JJ at_IN clustering_NN nodes_NNS based_VBN on_IN their_PRP$ connectivity_NN ._.
+In_IN this_DT study_NN ,_, we_PRP investigate_VBP the_DT issues_NNS of_IN mining_NN all_DT closed_VBD frequent_JJ graphs_NNS with_IN ed_VBN

@@ -1,0 +1,3 @@
+some_DT interesting_JJ results_NNS of_IN LRR_NN by_IN listing_VBG the_DT top_JJ 5_CD words_NNS with_IN positive_JJ weights_NNS and_CC top_JJ 5_CD words_NNS with_IN negative_JJ weights_NNS for_IN each_DT aspect_NN ,_, and_CC we_PRP compare_VBP them_PRP with_IN the_DT opinion_NN annotation_NN in_IN SentiWordNet_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+-LRB-_-LRB- Due_JJ to_TO the_DT space_NN limitation_NN ,_, we_PRP only_RB show_VBP term_NN weights_NNS for_IN the_DT first_JJ 4_CD aspects_NNS ._. -RRB-_-RRB-
+We_PRP can_MD find_VB some_DT interesting_JJ results_NNS :_: the_DT word_NN ``_`` ok_FW ''_'' is_VBZ positive_JJ as_IN defined_VBN by_IN SentiWordNet_NNP ,_, but_CC in_IN our_PRP$ corpus_NN review_NN

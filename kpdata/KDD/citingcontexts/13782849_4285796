@@ -1,0 +1,6 @@
+nities_NNS &_CC crimes_NNS -LRB-_-LRB- crimes_NNS -RRB-_-RRB- ._.
+Therefore_RB ,_, the_DT objective_NN of_IN discrimination_NN analysis_NN on_IN these_DT datasets_NNS is_VBZ to_TO discover_VB or_CC prevent_VB forms_NNS of_IN statistical_JJ discrimination_NN ._.
+All_DT datasets_NNS are_VBP publicly_RB available_JJ from_IN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Notice_NNP that_IN the_DT decision_NN attribute_NN is_VBZ binary_JJ for_IN all_DT of_IN them_PRP ,_, apart_RB for_IN crimes_NNS where_WRB it_PRP is_VBZ interval-scaled_JJ being_VBG the_DT ``_`` total_JJ number_NN of_IN violent_JJ crimes_NNS per_IN 100K_NN population_NN ''_'' ._.
+4_LS ._.
+K-NN_NNP AS_NNP SITUATION_NNP TESTIN_NNP

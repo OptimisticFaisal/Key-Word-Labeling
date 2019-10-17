@@ -1,0 +1,4 @@
+ally_NN ,_, web_NN logs_NNS can_MD be_VB mapped_VBN to_TO user_NN sessions_NNS ,_, and_CC subsequently_RB represented_VBN as_IN graphs_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+Frequent_JJ pattern_NN mining_NN was_VBD first_RB introduced_VBN by_IN Agrawal_NNP et_FW al_FW -LRB-_-LRB- 1_LS -RRB-_-RRB- in_IN 1994_CD ,_, and_CC has_VBZ been_VBN studied_VBN extensively_RB =_JJ -_: =[_NN 5_CD ,_, 8_CD ,_, 13_CD ,_, 20_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN web_NN session_NN data_NNS ,_, frequent_JJ patterns_NNS represent_VBP resources_NNS which_WDT are_VBP more_RBR often_RB used_VBN ,_, and_CC the_DT paths_NNS most_RBS often_RB taken_VBN to_TO access_VB those_DT resources_NNS ._.
+Application_NN service_NN providers_NNS can_MD improve_VB web_NN server_NN b_NN

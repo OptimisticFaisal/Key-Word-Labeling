@@ -1,0 +1,7 @@
+e_LS 6_CD :_: Features_NNS automatically_RB extracted_VBN in_IN different_JJ iterations_NNS of_IN adaptive_JJ learning_NN for_IN Online_NNP in_IN the_DT Auto_NNP domain_NN ._.
+5_CD ._.
+RELATED_NNS WORK_VBP There_EX is_VBZ a_DT rich_JJ literature_NN in_IN the_DT area_NN of_IN focused_JJ crawlers_NNS -LRB-_-LRB- see_VB e.g._FW ,_, =_JJ -_: =[_NN 1_CD ,_, 3_CD ,_, 8_CD ,_, 9_CD ,_, 11_CD ,_, 22_CD ,_, 24_CD ,_, 19_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Closely_RB related_JJ to_TO our_PRP$ work_NN are_VBP strategies_NNS that_WDT apply_VBP online-learning_JJ and_CC that_WDT take_VBP delayed_VBN benefit_NN into_IN account_NN ._.
+We_PRP discuss_VBP these_DT below_IN ._.
+Delayed_VBN Benefit_NNP ._.
+Rennie_NNP and_CC McCallum_NNP -LRB-_-LRB- 22_CD -RRB-_-RRB- frame_VBP the_DT problem_NN

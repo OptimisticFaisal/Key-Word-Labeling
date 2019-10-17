@@ -1,0 +1,6 @@
+oncept_NN ._.
+In_IN sig_NN ,_, S_NN and_CC LC_NN are_VBP both_DT used_VBN to_TO learn_VB the_DT folksonomy_NN ._.
+The_DT maximum_JJ depth_NN of_IN learned_VBN trees_NNS is_VBZ limited_VBN to_TO 4_CD ._.
+The_DT metrics_NNS to_TO compare_VB the_DT learned_VBN folksonomies_NNS to_TO the_DT reference_NN are_VBP Lexical_JJ Recall_VB =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT modified_VBN Taxonomic_JJ Overlap_NN defined_VBN in_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, mTO_NN ._.
+Lexical_JJ Recall_VB measures_NNS the_DT overlap_VBP between_IN the_DT learned_VBN and_CC reference_NN taxonomies_NNS ,_, independent_JJ of_IN their_PRP$ structure_NN ._.
+mTO_NN measures_VBZ the_DT quality_NN of_IN

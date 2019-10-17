@@ -1,0 +1,4 @@
+molecular_JJ substructure_NN mining_NN ,_, even_RB though_IN the_DT fact_NN that_IN the_DT input_NN consists_VBZ of_IN graphs_NNS instead_RB of_IN sets_NNS poses_VBZ some_DT problems_NNS ._.
+Examples_NNS of_IN algorithms_NNS developed_VBN in_IN this_DT way_NN are_VBP MolFea_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, FSG_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, gSpan_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, MoFa_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC FFSM_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Other_JJ approaches_NNS rely_VBP ,_, for_IN instance_NN ,_, on_IN principles_NNS from_IN inductive_JJ logic_NN programming_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC describe_VBP the_DT graph_NN structure_NN by_IN logical_JJ expressions_NNS ._.
+A_DT common_JJ problem_NN of_IN all_DT approa_NN

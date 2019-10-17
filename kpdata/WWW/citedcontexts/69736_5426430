@@ -1,0 +1,4 @@
+This_DT module_NN establishes_VBZ similarities_NNS between_IN entities_NNS from_IN the_DT source_NN and_CC target_NN ontology_NN ,_, thus_RB ,_, it_PRP supports_VBZ mapping_NN discovery_NN ._.
+Several_JJ different_JJ similarity_NN measures_NNS have_VBP been_VBN proposed_VBN in_IN literature_NN =_JJ -_: =[_NN 14_CD ,_, 3_CD ,_, 5_CD ,_, 10_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP adopted_VBD a_DT multi-strategy_JJ process_NN -LRB-_-LRB- similar_JJ to_TO -LRB-_-LRB- 5_CD -RRB-_-RRB- -RRB-_-RRB- ,_, that_WDT calculates_VBZ similarities_NNS between_IN ontology_NN entities_NNS using_VBG different_JJ algorithms_NNS ._.
+The_DT first_JJ strategy_NN focuses_VBZ on_IN acquiring_VBG a_DT lexical_JJ similarity_NN

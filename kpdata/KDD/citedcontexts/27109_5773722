@@ -1,0 +1,3 @@
+th_DT points_NNS and_CC their_PRP$ attributes_NNS by_IN way_NN of_IN utilizing_VBG the_DT canonical_JJ duality_NN contained_VBN in_IN the_DT point-by-attribute_JJ data_NNS representation_NN is_VBZ similar_JJ to_TO the_DT optimization_NN procedure_NN in_IN co-clustering_NN mentioned_VBN in_IN =_JJ -_: =[_NN 60_CD ,_, 61_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT procedure_NN is_VBZ also_RB applied_VBN to_TO the_DT problem_NN of_IN clustering_NN gene_NN expression_NN data_NNS -LRB-_-LRB- 62_CD -RRB-_-RRB- ._.
+In_IN experiments_NNS ,_, Li_NNP compared_VBD ASI_NNP with_IN the_DT traditional_JJ K-means_NNS algorithm_NN and_CC the_DT algorithms_NNS provided_VBN in_IN the_DT CLUTO_NN

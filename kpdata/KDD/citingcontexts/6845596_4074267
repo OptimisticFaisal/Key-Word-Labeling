@@ -1,0 +1,4 @@
+rom_FW ei_FW ._.
+BCP_NN -LRB-_-LRB- ei_FW |_FW ej_FW -RRB-_-RRB- is_VBZ used_VBN to_TO denote_VB the_DT backward_RB conditional_JJ probability_NN of_IN ej_NN preceded_VBN by_IN ei_NN relative_JJ to_TO all_DT event_NN pairs_NNS ending_VBG at_IN ej_NN ._.
+The_DT forward_JJ entropy_NN of_IN an_DT event_NN Q_NNP can_MD be_VB defined_VBN as_IN follows_VBZ =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- F_NN E_NN -LRB-_-LRB- Q_NNP -RRB-_-RRB- =_JJ −_FW se_FW ∈_FW E_NN F_NN CP_NN -LRB-_-LRB- e_SYM |_CD Q_NNP -RRB-_-RRB- ×_FW logN_FW -LRB-_-LRB- F_NN CP_NN -LRB-_-LRB- e_SYM |_CD Q_NNP -RRB-_-RRB- -RRB-_-RRB- ,_, where_WRB E_NN is_VBZ the_DT set_NN of_IN all_DT event_NN types_NNS ,_, N_NN is_VBZ the_DT number_NN of_IN events_NNS in_IN E_NN ,_, ¡_NN and_CC e_SYM ∈_CD E_NN F_NN CP_NN -LRB-_-LRB- e_SYM |_CD Q_NNP -RRB-_-RRB- =_JJ 1_CD ._.
+For_IN an_DT instance_NN ,_, if_IN event_NN A_NN is_VBZ always_RB only_RB f_SYM

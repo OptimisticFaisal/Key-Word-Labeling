@@ -1,0 +1,4 @@
+cal_JJ classifier_NN under_IN the_DT Conditional_JJ Expectation-Maximization_NN framework_NN ._.
+Those_DT ``_`` in-domain_JJ ''_'' data_NNS play_VBP a_DT role_NN as_IN auxiliary_JJ data_NNS in_IN tackling_VBG the_DT scarcity_NN of_IN ``_`` out-of-domain_JJ ''_'' training_NN data_NNS ._.
+In_IN these_DT works_NNS =_JJ -_: =[_NN 32_CD ,_, 23_CD ,_, 14_CD ,_, 13_CD ,_, 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, auxiliary_JJ data_NNS serve_VBP as_IN a_DT supplement_NN to_TO the_DT ordinary_JJ training_NN data_NNS ._.
+In_IN contrast_NN to_TO these_DT works_NNS ,_, our_PRP$ work_NN focuses_VBZ on_IN the_DT second_JJ category_NN of_IN domain-transfer_JJ learning_NN ,_, where_WRB the_DT problem_NN is_VBZ classificati_NNS

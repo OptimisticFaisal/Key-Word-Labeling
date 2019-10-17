@@ -1,0 +1,6 @@
+sults_NNS ._.
+But_CC they_PRP will_MD not_RB be_VB useful_JJ if_IN the_DT interval_JJ boundaries_NNS of_IN the_DT discretization_NN are_VBP not_RB meaningful_JJ to_TO the_DT domain_NN expert_NN ._.
+Several_JJ discretization_NN methods_NNS for_IN time_NN series_NN are_VBP discussed_VBN by_IN Daw_NN et_FW al._FW =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT discretization_NN is_VBZ said_VBN to_TO be_VB often_RB motivated_VBN by_IN the_DT desire_NN to_TO speed_VB up_RP processing_NN and_CC to_TO remove_VB noise_NN ._.
+Many_JJ real_JJ life_NN time_NN series_NN are_VBP smooth_JJ -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Using_VBG each_DT time_NN point_NN or_CC a_DT small_JJ window_NN for_IN dis_NN

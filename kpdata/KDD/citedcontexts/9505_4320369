@@ -1,0 +1,4 @@
+hors_NNS and_CC titles_NNS -RRB-_-RRB- is_VBZ shown_VBN in_IN Figure_NNP 1_CD -LRB-_-LRB- b_NN -RRB-_-RRB- ._.
+MDC_NNP demonstrates_VBZ superior_JJ results_NNS with_IN respect_NN to_TO two_CD previous_JJ state-of-the-art_JJ document_NN clustering_NN algorithms_NNS ,_, including_VBG informationtheoretic_JJ co-clustering_NN -LRB-_-LRB- =_JJ -_: =_JJ Dhillon_NNP et_FW al._FW ,_, 2003_CD -_: =--RRB-_NN ._.
+Due_JJ to_TO unique_JJ characteristics_NNS of_IN combinatorial_JJ r.v._NN 's_POS ,_, it_PRP is_VBZ problematic_JJ to_TO apply_VB existing_VBG inference_NN algorithms_NNS to_TO Comrafs_NNP ._.
+Bekkerman_NNP et_FW al._FW -LRB-_-LRB- 2006_CD -RRB-_-RRB- propose_VBP a_DT simple_JJ and_CC efficient_JJ inference_NN algorith_NN

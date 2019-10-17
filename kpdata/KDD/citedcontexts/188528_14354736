@@ -1,0 +1,4 @@
+d_NN o_NN and_CC the_DT density_NN around_IN its_PRP$ kNNs_NNS ,_, i.e._FW ,_, the_DT more_RBR distinctly_RB is_VBZ o_NN considered_VBN an_DT outlier_NN ._.
+Several_JJ extensions_NNS of_IN the_DT basic_JJ LOF_NN model_NN and_CC algorithms_NNS for_IN efficient_JJ -LRB-_-LRB- topn_JJ -RRB-_-RRB- computation_NN have_VBP been_VBN proposed_VBN =_JJ -_: =[_NN 22_CD ,_, 23_CD ,_, 49_CD ,_, 50_CD -RRB-_-RRB- -_: =_SYM -_: that_IN basically_RB use_VBP different_JJ notions_NNS of_IN neighborhoods_NNS ._.
+The_DT Local_NNP Outlier_NNP Integral_NNP -LRB-_-LRB- LOCI_NNP -RRB-_-RRB- bases_NNS on_IN the_DT concept_NN of_IN a_DT multi-granularity_JJ deviation_NN factor_NN and_CC ε-neighborhoods_NNS instead_RB of_IN kNNs_NNS -LRB-_-LRB- 39_CD -RRB-_-RRB- ._.
+The_DT res_NNS

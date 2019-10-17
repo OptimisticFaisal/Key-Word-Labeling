@@ -1,0 +1,4 @@
+._.
+Although_IN researchers_NNS have_VBP not_RB yet_RB established_VBN the_DT degree_NN to_TO which_WDT these_DT algorithms_NNS scale_VBP to_TO large_JJ problems_NNS ,_, some_DT have_VBP been_VBN designed_VBN expressly_RB for_IN learning_VBG time-varying_JJ concepts_NNS from_IN large_JJ data_NNS sets_VBZ =_JJ -_: =[_NN 4_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, cvfdt_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- learns_VBZ a_DT decision_NN tree_NN and_CC copes_VBZ with_IN concept_NN drift_NN by_IN maintaining_VBG examples_NNS over_IN a_DT window_NN of_IN time_NN and_CC a_DT list_NN of_IN alternate_JJ subtrees_NNS ._.
+When_WRB concepts_NNS drift_VBP ,_, the_DT algorithm_NN replace_VB

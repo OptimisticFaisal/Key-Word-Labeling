@@ -1,0 +1,6 @@
+y_NN list_NN ,_, the_DT memory_NN cost_NN is_VBZ linear_JJ in_IN the_DT number_NN of_IN edges_NNS in_IN the_DT graph_NN ._.
+We_PRP do_VBP not_RB show_VB the_DT curve_NN here_RB due_JJ to_TO space_NN limitation_NN ._.
+7_CD ._.
+RELATED_NNS WORK_VBP Broadly_RB speaking_VBG ,_, our_PRP$ work_NN is_VBZ related_JJ to_TO graph_NN clustering_NN =_JJ -_: =[_NN 28_CD ,_, 31_CD ,_, 9_CD ,_, 13_CD -RRB-_-RRB- -_: =_JJ -_: and_CC dense_JJ subgraph_JJ mining_NN -LRB-_-LRB- 10_CD ,_, 25_CD ,_, 32_CD -RRB-_-RRB- ._.
+A_DT graph_NN cluster_NN shall_MD contain_VB many_JJ internal_JJ edges_NNS but_CC relatively_RB few_JJ edges_NNS to_TO other_JJ clusters_NNS ._.
+Dense_FW subgraph_FW mining_NN is_VBZ to_TO find_VB subgraphs_NNS with_IN high_JJ intra-connec_JJ

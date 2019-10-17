@@ -1,0 +1,4 @@
+sed_VBD a_DT community-based_JJ temporal_JJ clustering_NN using_VBG the_DT Chinese_NNP Restaurant_NNP Process_VB ._.
+Unfortunately_RB ,_, the_DT inference_NN of_IN their_PRP$ model_NN requires_VBZ Gibbs_NNP sampling_NN ,_, which_WDT is_VBZ notoriously_RB slow_JJ for_IN large_JJ scale_NN data_NNS ._.
+In_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP applied_VBD the_DT high-order_JJ singular_JJ value_NN decomposition_NN -LRB-_-LRB- HOSVD_NN -RRB-_-RRB- to_TO extract_VB dynamic_JJ structural_JJ changes_NNS of_IN the_DT blogosphere_NN for_IN a_DT given_VBN query_NN keyword_NN ._.
+There_EX are_VBP two_CD weak_JJ points_NNS in_IN that_DT work_NN :_: First_JJ ,_, only_RB

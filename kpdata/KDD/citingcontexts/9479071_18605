@@ -1,0 +1,3 @@
+his_PRP$ suggests_VBZ that_IN clustering_VBG the_DT graph_NN and_CC then_RB finding_VBG central_JJ nodes_NNS in_IN the_DT clusters_NNS may_MD be_VB a_DT good_JJ alternative_JJ way_NN of_IN finding_VBG candidate_NN nodes_NNS ._.
+We_PRP explore_VBP the_DT use_NN of_IN community_NN finding_NN algorithms_NNS -LRB-_-LRB- cf._VBP =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =--RRB-_NN to_TO cluster_VB the_DT graph_NN and_CC then_RB the_DT use_NN of_IN centrality_NN metrics_NNS within_IN each_DT cluster_NN to_TO find_VB central_JJ nodes_NNS in_IN the_DT cluster_NN to_TO label_NN ._.
+4.3.1_FW Betweenness_FW Centrality_NN Graph_NN betweenness_NN centrality_NN is_VBZ perhaps_RB on_IN

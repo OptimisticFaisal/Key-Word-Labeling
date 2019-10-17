@@ -1,0 +1,3 @@
+d_NN organizational_JJ structure_NN analysis_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+Well_RB known_VBN graph-theoretic_JJ methods_NNS include_VBP spectral_JJ graph_NN partitioning_NN -LRB-_-LRB- 14_CD ,_, 4_CD -RRB-_-RRB- ,_, hierarchical_JJ community_NN discovery_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, and_CC clustering_NN 1_CD based_VBN on_IN random_JJ walks_VBZ =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Spec1_NN In_IN this_DT paper_NN ,_, the_DT term_NN ``_`` clustering_NN ''_'' and_CC ``_`` community_NN discovery_NN ''_'' are_VBP tral_JJ graph_NN partitioning_NN is_VBZ a_DT classical_JJ spectral_JJ method_NN based_VBN on_IN the_DT Laplacian_NN of_IN the_DT graph_NN adjacency_NN matrix_NN -LRB-_-LRB- 14_CD ,_, 4_CD -RRB-_-RRB- ,_, with_IN a_DT c_NN

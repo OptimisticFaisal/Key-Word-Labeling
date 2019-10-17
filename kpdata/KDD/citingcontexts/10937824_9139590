@@ -1,0 +1,4 @@
+e_LS sets_NNS ._.
+Minkov_NNP et_FW al._FW -LRB-_-LRB- 19_CD -RRB-_-RRB- showed_VBD that_IN using_VBG n-grams_NN of_IN relation_NN paths_NNS as_IN reranking_NN features_NNS can_MD significantly_RB improve_VB the_DT retrieval_NN quality_NN of_IN a_DT random_JJ walk_NN based_VBN model_NN ._.
+More_RBR recently_RB ,_, Minkov_NNP &_CC Cohen_NNP =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT random_JJ walk_NN based_VBN generative_JJ learning_NN model_NN that_WDT favors_VBZ paths_NNS which_WDT are_VBP more_RBR likely_JJ to_TO reach_VB relevant_JJ entities_NNS ._.
+In_IN our_PRP$ previous_JJ study_NN ,_, we_PRP developed_VBD a_DT discriminative_JJ version_NN of_IN this_DT learnin_NN

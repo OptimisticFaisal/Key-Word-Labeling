@@ -1,0 +1,7 @@
+s._NNP US_NNP :_: Under-sampling_JJ scheme_NN ._.
+OS_NN :_: Over-sampling_JJ scheme_NN ._.
+COG_NN :_: Classification_NN using_VBG local_JJ clustering_NN ._.
+COG-OS_NN :_: COG_NN with_IN the_DT over-sampling_JJ scheme_NN ._.
+mentations_NNS are_VBP LIBSVM_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, BMR_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, C4_NN .5_CD -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, and_CC RIPPER_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN all_PDT the_DT experiments_NNS ,_, default_NN settings_NNS were_VBD used_VBN except_IN that_IN the_DT kernel_NN type_NN of_IN LIBSVM_NN was_VBD set_VBN to_TO be_VB linear_JJ ._.
+Thus_RB we_PRP have_VBP two_CD linear_JJ classifiers_NNS ,_, i.e._FW ,_, LIBSVM_NNP and_CC BMR_NNP ,_, and_CC two_CD non-linear_JJ classifie_NN

@@ -1,0 +1,3 @@
+l_NN CRM_NN system_NN for_IN financial_JJ service_NN business_NN ,_, analytical_JJ functions_NNS to_TO be_VB performed_VBN may_MD include_VB :_: -LRB-_-LRB- i_LS -RRB-_-RRB- Client_NNP Value_NNP Estimation_NNP ,_, which_WDT calculates_VBZ the_DT expected_JJ profit_NN from_IN a_DT client_NN ._.
+Domingos_NNP and_CC Richardson_NNP =_SYM -_: =[_NN 11_CD -RRB-_-RRB- p_NN -_: =_JJ -_: roposed_VBN to_TO include_VB the_DT network_NN value_NN of_IN client_NN as_IN part_NN of_IN a_DT client_NN 's_POS value_NN ._.
+-LRB-_-LRB- ii_LS -RRB-_-RRB- Client_NNP Attrition_NNP Alert_NNP ,_, which_WDT generates_VBZ alert_JJ signals_NNS by_IN keep_VB tracking_NN on_IN the_DT account_NN balance_NN of_IN clients_NNS and_CC their_PRP$ st_NN

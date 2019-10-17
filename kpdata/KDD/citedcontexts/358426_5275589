@@ -1,0 +1,4 @@
+matching_JJ entity_NN mentions_VBZ and_CC plays_VBZ a_DT fundamental_JJ role_NN in_IN data_NN integration_NN -LRB-_-LRB- 22_CD ,_, 47_CD ,_, 5_CD -RRB-_-RRB- ._.
+Many_JJ solutions_NNS have_VBP been_VBN proposed_VBN to_TO match_VB entity_NN mentions_VBZ either_CC in_IN the_DT database_NN or_CC text_NN document_NN context_NN -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 54_CD ,_, 4_CD ,_, 34_CD ,_, 44_CD ,_, 2_CD ,_, 30_CD ,_, 1_CD ,_, 47_CD ,_, 19_CD ,_, 22_CD ,_, 18_CD ,_, 41_CD ,_, 12_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+However_RB ,_, these_DT solutions_NNS have_VBP limited_VBN applicability_NN to_TO our_PRP$ setting_NN ,_, which_WDT involves_VBZ a_DT large_JJ amount_NN of_IN both_CC structured_JJ databases_NNS and_CC unstructured_JJ data_NNS such_JJ as_IN text_NN documents_NNS and_CC Web_NN pages_NNS ._.
+In_IN this_DT se_FW

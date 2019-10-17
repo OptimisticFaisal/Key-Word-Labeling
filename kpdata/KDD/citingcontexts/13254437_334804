@@ -1,0 +1,6 @@
+could_MD be_VB either_CC a_DT browser_NN cookie_NN or_CC registered_VBN Yahoo_NNP !_.
+id_NN ._.
+No_DT personally_RB identifiable_JJ user_NN information_NN was_VBD available_JJ in_IN the_DT data_NNS analyzed_VBN ._.
+feature_NN based_JJ methods_NNS have_VBP been_VBN developed_VBN that_WDT performs_VBZ well_RB =_JJ -_: =[_NN 13_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT solution_NN to_TO the_DT cold-start_JJ problem_NN by_IN combining_VBG user_NN information_NN across_IN multiple_JJ domains_NNS -LRB-_-LRB- properties_NNS -RRB-_-RRB- ._.
+We_PRP construct_VBP a_DT hierarchical_JJ Bayesian_JJ model_NN which_WDT integrates_VBZ recommen_NNS

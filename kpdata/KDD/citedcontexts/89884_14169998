@@ -1,0 +1,4 @@
+een_NN developed_VBD for_IN different_JJ classes_NNS of_IN patterns_NNS and_CC data_NNS collections_NNS ._.
+Almost_RB all_DT techniques_NNS ,_, however_RB ,_, work_NN on_IN so_RB called_VBN transaction_NN databases_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+Not_RB only_RB for_IN itemsets_NNS ,_, but_CC also_RB in_IN the_DT case_NN of_IN trees_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: and_CC graphs_NNS -LRB-_-LRB- 12_CD ,_, 15_CD ,_, 19_CD -RRB-_-RRB- ,_, the_DT database_NN consists_VBZ of_IN a_DT collection_NN of_IN transactions_NNS ,_, and_CC a_DT frequent_JJ pattern_NN is_VBZ discovered_VBN if_IN it_PRP occurs_VBZ in_IN enough_JJ such_JJ transactions_NNS ._.
+Even_RB in_IN the_DT multi-relational_JJ case_NN ,_, as_IN co_NN

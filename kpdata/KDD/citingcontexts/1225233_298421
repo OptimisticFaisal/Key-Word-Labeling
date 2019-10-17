@@ -1,0 +1,4 @@
+additive_JJ models_NNS ._.
+We_PRP present_VBP a_DT nomogram-based_JJ comparison_NN of_IN SVM_NN and_CC the_DT naïve_JJ Bayesian_JJ classifier_NN model_NN ._.
+3.1_CD Accuracy_NN As_IN for_IN earlier_JJR nomograms_NNS ,_, all_DT experiments_NNS were_VBD performed_VBN within_IN the_DT Orange_NNP toolkit_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP employed_VBD LIBSVM_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- with_IN default_NN settings_NNS for_IN training_VBG the_DT SVM_NN classifiers_NNS ,_, and_CC iteratively_RB re-weighted_JJ least_JJS squares_NNS fitting_JJ -LRB-_-LRB- 18_CD -RRB-_-RRB- of_IN the_DT logistic_JJ regression_NN model_NN ,_, as_IN implemented_VBN in_IN the_DT Orange_NNP e_SYM

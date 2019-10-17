@@ -1,0 +1,3 @@
+sis_NN of_IN algorithms_NNS that_WDT efficiently_RB create_VB small_JJ ``_`` sketches_NNS ''_'' of_IN matrices_NNS and_CC tensors_NNS ._.
+Such_JJ sketches_NNS are_VBP subsequently_RB used_VBN in_IN eigenvalue_NN and_CC eigenvector_NN computations_NNS -LRB-_-LRB- 17_CD ,_, 1_CD -RRB-_-RRB- ,_, in_IN data_NN mining_NN applications_NNS =_JJ -_: =[_NN 27_CD ,_, 28_CD ,_, 14_CD ,_, 26_CD -RRB-_-RRB- -_: =_JJ -_: ,_, or_CC even_RB to_TO solve_VB combinatorial_JJ optimization_NN problems_NNS -LRB-_-LRB- 3_CD ,_, 11_CD ,_, 12_CD -RRB-_-RRB- ._.
+Existing_VBG approaches_NNS include_VBP ,_, for_IN example_NN ,_, the_DT selection_NN of_IN a_DT small_JJ number_NN of_IN rows_NNS and_CC columns_NNS of_IN a_DT matrix_NN in_IN order_NN to_TO form_VB the_DT so-ca_NN

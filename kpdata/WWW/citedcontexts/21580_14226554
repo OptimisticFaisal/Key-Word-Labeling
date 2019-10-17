@@ -1,0 +1,4 @@
+is_VBZ extensible_JJ ,_, and_CC provides_VBZ a_DT plug-and-play_JJ environment_NN that_WDT makes_VBZ it_PRP a_DT flexible_JJ base_NN for_IN rapid_JJ prototyping_NN and_CC application_NN development_NN ._.
+Jena_NNP We_PRP use_VBP Jena_NNP as_IN the_DT skeleton_NN for_IN the_DT implementation_NN ._.
+Jena_NNP =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT flexible_JJ framework_NN for_IN knowledge-based_JJ system_NN ,_, which_WDT supports_VBZ different_JJ kinds_NNS of_IN ontology_JJ languages_NNS :_: RDF_NN ,_, OWL_NN ,_, DAML+OIL_NN ._.
+The_DT user_NN can_MD define_VB the_DT reasoner_NN separately_RB from_IN the_DT Ontology_NNP model_NN and_CC t_NN

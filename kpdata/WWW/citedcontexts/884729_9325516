@@ -1,0 +1,3 @@
+Using_VBG another_DT dataset_NN ,_, Bilgic_NNP and_CC Mooney_NNP -LRB-_-LRB- 5_CD -RRB-_-RRB- have_VBP shown_VBN that_IN histogram-based_JJ explanations_NNS can_MD be_VB more_RBR persuasive_JJ than_IN intended_JJ ,_, causing_VBG items_NNS to_TO be_VB over-estimated_VBN ._.
+6.2_CD Web_NN Search_VB To_TO the_DT exception_NN of_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, most_JJS Web_NN search_NN engines_NNS often_RB enforce_VBP diversity_NN over_IN -LRB-_-LRB- unstructured_JJ -RRB-_-RRB- data_NNS results_VBZ as_IN a_DT post-processing_JJ step_NN -LRB-_-LRB- 6_CD ,_, 19_CD -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, the_DT authors_NNS develop_VBP a_DT query_JJ reformulation_NN method_NN used_VBN to_TO re-rank_VB

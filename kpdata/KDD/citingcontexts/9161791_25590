@@ -1,0 +1,6 @@
+oinformatics_NNS ,_, mining_VBG transactional_JJ data_NNS has_VBZ been_VBN one_CD of_IN the_DT major_JJ topics_NNS in_IN data_NNS mining_NN research_NN ._.
+Several_JJ methods_NNS have_VBP been_VBN proposed_VBN to_TO analyze_VB transactional_JJ data_NNS ._.
+Among_IN them_PRP ,_, frequent_JJ itemset_NN mining_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ perhaps_RB the_DT most_RBS popular_JJ and_CC well-known_JJ ._.
+It_PRP tries_VBZ to_TO discover_VB sets_NNS of_IN items_NNS which_WDT appear_VBP in_IN at_IN least_JJS a_DT certain_JJ number_NN of_IN transactions_NNS ._.
+Recently_RB ,_, co-clustering_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, has_VBZ gained_VBN much_JJ attention_NN ._.
+It_PRP t_NN

@@ -1,0 +1,7 @@
+hanges_NNS ._.
+-LRB-_-LRB- 4_CD ,_, 9_CD -RRB-_-RRB- study_VB the_DT maintenance_NN of_IN discovered_VBN association_NN rules_NNS ._.
+The_DT techniques_NNS aim_VBP to_TO incrementally_RB update_VB the_DT rules_NNS when_WRB data_NNS tuples_NNS are_VBP deleted_VBN or_CC inserted_VBN ._.
+They_PRP do_VBP not_RB mine_VB explicit_JJ changes_NNS ._.
+=_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ a_DT method_NN for_IN spatial_JJ trend_NN detection_NN ._.
+A_DT spatial_JJ trend_NN is_VBZ defined_VBN as_IN a_DT regular_JJ change_NN of_IN one_CD or_CC more_JJR non-spatial_JJ attributes_NNS when_WRB moving_VBG away_RB from_IN a_DT given_VBN start_NN object_NN ._.
+This_DT is_VBZ different_JJ from_IN

@@ -1,0 +1,7 @@
+n_NN task_NN occurs_VBZ naturally_RB ._.
+The_DT following_JJ datasets_NNS were_VBD chosen_VBN for_IN the_DT empirical_JJ evaluation_NN :_: 1_CD ._.
+additive_JJ :_: This_DT is_VBZ an_DT arti_FW cial_FW dataset_NN involving_VBG a_DT simple_JJ additive_JJ function_NN with_IN a_DT random_JJ noise_NN component_NN -LRB-_-LRB- =_JJ -_: =_JJ Friedman_NNP ,_, 1991_CD -_: =--RRB-_NN ._.
+It_PRP was_VBD included_VBN because_IN these_DT types_NNS of_IN functions_NNS are_VBP generally_RB di_FW cult_NN for_IN logic_NN methods_NNS -LRB-_-LRB- such_JJ as_IN trees_NNS and_CC rules_NNS -RRB-_-RRB- ._.
+2_CD ._.
+ailerons_NNS :_: This_DT dataset_NN addresses_VBZ a_DT control_NN problem_NN :_: ying_VB a_DT F16_NN aircraft_NN ._.
+The_DT a_DT

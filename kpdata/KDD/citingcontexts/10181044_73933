@@ -1,0 +1,6 @@
+show_NN later_RB -LRB-_-LRB- Figure_NNP 6_CD -RRB-_-RRB- ,_, BGP_NN update_VBP messages_NNS ,_, are_VBP indeed_RB self-similar_JJ and_CC bursty_NN ._.
+Typical_JJ tools_NNS for_IN selfsimilar_JJ analysis_NN employ_VBP the_DT Hurst_NNP exponent_NN -LRB-_-LRB- see_VB ,_, eg._FW ,_, the_DT SELFIS_NN tool_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- -RRB-_-RRB- ,_, and_CC the_DT entropy_JJ plots_NNS =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- Figure_NNP 5_CD -RRB-_-RRB- ._.
+Among_IN the_DT applicable_JJ tools_NNS from_IN the_DT list_NN above_IN ,_, we_PRP propose_VBP to_TO use_VB the_DT Haar_NNP wavelet_NN transform_VB ._.
+We_PRP describe_VBP it_PRP in_IN more_JJR detail_NN in_IN Section_NN 3.4_CD ._.
+3_LS ._.
+TOOL_NN COMPONENTS_NNS AND_CC OBSERVATIONS_NNS BGP-lens_FW ex_FW

@@ -1,0 +1,3 @@
+ent_NN and_CC word_NN clustering_NN can_MD be_VB modeled_VBN with_IN a_DT bipartite_JJ ,_, where_WRB documents_NNS and_CC words_NNS are_VBP modeled_VBN as_IN vertices_NNS on_IN two_CD sides_NNS respectively_RB ,_, and_CC only_RB edges_VBZ linking_VBG different_JJ kinds_NNS of_IN vertices_NNS are_VBP considered_VBN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Finding_VBG an_DT optimal_JJ partitioning_NN in_IN such_JJ a_DT bipartite_JJ gives_VBZ a_DT co-clustering_NN of_IN documents_NNS and_CC words_NNS ._.
+It_PRP is_VBZ expected_VBN that_IN top_JJ documents_NNS and_CC words_NNS in_IN the_DT same_JJ cluster_NN can_MD represent_VB its_PRP$ topic_NN ,_, where_WRB top_JJ v_LS

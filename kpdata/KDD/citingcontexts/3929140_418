@@ -1,0 +1,5 @@
+orresponds_NNS to_TO the_DT kernel_NN matrix_NN ˜_NN K_NN ,_, associated_VBN with_IN the_DT training_NN set_NN X_NN ,_, in_IN Eqn_NNP ._.
+3_LS ._.
+If_IN the_DT prior_JJ K_NN is_VBZ positive_JJ -LRB-_-LRB- semi_JJ -_: -RRB-_-RRB- definite_JJ ,_, using_VBG the_DT fact_NN that_IN the_DT ideal_JJ kernel_NN K_NNP ∗_NNP is_VBZ positive_JJ -LRB-_-LRB- semi_JJ -_: -RRB-_-RRB- definite_JJ =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP can_MD derive_VB that_IN ˜_NNP K_NNP in_IN Eqn_NNP ._.
+4_CD is_VBZ also_RB positive_JJ -LRB-_-LRB- semi_JJ -_: -RRB-_-RRB- definite_JJ if_IN 0_CD ≤_FW β1_FW ≤_FW β2_FW ≤_NN 1_CD ._.
+Here_RB ,_, we_PRP use_VBP the_DT closure_NN properties_NNS of_IN kernels_NNS ,_, namely_RB that_IN the_DT product_NN and_CC summation_NN of_IN valid_JJ kernels_NNS also_RB giv_VBP

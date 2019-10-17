@@ -1,0 +1,4 @@
+rver_NN is_VBZ considered_VBN as_IN a_DT peer_VBP with_IN its_PRP$ own_JJ local_JJ RDF_NNP database_NN ._.
+RDF_NN queries_NNS are_VBP broadcast_VBN to_TO each_DT peer_VB and_CC the_DT results_NNS are_VBP aggregated_VBN on_IN retrieval_NN ._.
+Systems_NNP like_IN Edutella_NNP -LRB-_-LRB- 33_CD -RRB-_-RRB- and_CC the_DT RDFPeers_NNS framework_NN =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: suffered_VBN from_IN scalability_NN issues_NNS because_IN of_IN the_DT computational_JJ burden_NN when_WRB many_JJ users_NNS are_VBP simultaneously_RB querying_VBG each_DT server_NN ._.
+However_RB ,_, there_EX are_VBP a_DT number_NN of_IN projects_NNS -LRB-_-LRB- 35,36_CD -RRB-_-RRB- that_WDT are_VBP investigating_VBG sp_NN

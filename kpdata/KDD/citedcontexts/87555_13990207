@@ -1,0 +1,4 @@
+e_LS MGINI_NNP ._.
+3.11_CD Cost-sensitive_JJ and_CC ROC_NNP Analysis_NNP Features_NNPS In_IN many_JJ previous_JJ sections_NNS we_PRP have_VBP seen_VBN some_DT options_NNS related_VBN to_TO costs_NNS ._.
+In_IN this_DT subsection_NN we_PRP are_VBP going_VBG to_TO briefly_RB explain_VB cost-sensitive_JJ learning_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: and_CC ROC_NN analysis_NN -LRB-_-LRB- 38_CD -RRB-_-RRB- and_CC which_WDT features_VBZ SMILES_NNP provides_VBZ around_IN these_DT items_NNS ._.
+Accuracy_NN -LRB-_-LRB- or_CC error_NN -RRB-_-RRB- ,_, i.e._FW ,_, percentage_NN of_IN instances_NNS that_WDT are_VBP correctly_RB classified_VBN -LRB-_-LRB- respectively_RB incorrectly_RB classified_VBN -RRB-_-RRB- has_VBZ

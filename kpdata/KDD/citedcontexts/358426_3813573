@@ -1,0 +1,3 @@
+records_NNS as_IN document_NN vectors_NNS and_CC compute_VB the_DT cosine_NN distance_NN between_IN such_JJ vectors_NNS ,_, while_IN -LRB-_-LRB- 35_CD -RRB-_-RRB- explores_VBZ the_DT use_NN of_IN support_NN vector_NN machines_NNS to_TO classify_VB record_NN pairs_NNS ._.
+Active_JJ learning_NN is_VBZ used_VBN in_IN -LRB-_-LRB- 41_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 46_CD -RRB-_-RRB- -_: =_SYM -_: to_TO address_VB the_DT problem_NN of_IN lack_NN of_IN training_NN data_NNS ._.
+The_DT basic_JJ idea_NN is_VBZ to_TO use_VB human_JJ input_NN only_RB where_WRB a_DT classifier_NN can_MD not_RB provide_VB a_DT clear_JJ result_NN ,_, thereby_RB significantly_RB reducing_VBG the_DT manual_JJ training_NN process_NN

@@ -1,0 +1,4 @@
+plication_NN in_IN P2P_NN wiki_NN systems_NNS allows_VBZ to_TO query_VB ,_, access_VB and_CC retrieve_VB data_NNS locally_RB from_IN any_DT peer_VB without_IN the_DT need_NN for_IN search_NN mechanisms_NNS nor_CC transfer_NN of_IN the_DT semantic_JJ data_NNS between_IN peers_NNS to_TO resolve_VB queries_NNS =_JJ -_: =[_NN 7_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Therefore_RB ,_, ''_'' querying_VBG the_DT network_NN ''_'' -LRB-_-LRB- 29_CD -RRB-_-RRB- becomes_VBZ querying_VBG any_DT peer_VBP ._.
+ˆ_NNP Total_NNP replication_NN enables_VBZ transactional_JJ changes_NNS i.e._FW atomic_JJ changes_NNS across_IN multiple_JJ pages_NNS ._.
+Supporting_VBG transactional_JJ changes_NNS is_VBZ a_DT v_LS

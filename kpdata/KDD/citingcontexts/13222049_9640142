@@ -1,0 +1,4 @@
+ties_NNS being_VBG in_IN each_DT of_IN the_DT group_NN created_VBN by_IN the_DT user_NN ._.
+A_DT group_NN 's_POS exemplars_NNS have_VBP high_JJ prior_JJ probability_NN being_VBG in_IN that_DT group_NN ,_, which_WDT BP_NNP incorporates_VBZ to_TO perform_VB inference_NN ._.
+We_PRP implemented_VBD BP_NN as_IN described_VBN in_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT key_JJ settings_NNS of_IN the_DT algorithm_NN include_VBP :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- a_DT node_NN potential_JJ function_NN that_WDT represents_VBZ how_WRB likely_JJ a_DT node_NN belongs_VBZ to_TO each_DT group_NN -LRB-_-LRB- a_DT value_NN closer_RBR to_TO 1_CD means_VBZ more_RBR likely_JJ -RRB-_-RRB- ,_, e.g._FW ,_, if_IN we_PRP have_VBP two_CD groups_NNS ,_,

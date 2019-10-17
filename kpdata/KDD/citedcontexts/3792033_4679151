@@ -1,0 +1,3 @@
+mponents_NNS ,_, so_IN that_IN reduced_VBN problems_NNS are_VBP solved_VBN -LRB-_-LRB- 28_CD ,_, 30_CD -RRB-_-RRB- ._.
+See_NNP Fan_NNP Chen_NNP and_CC Lin_NNP for_IN details_NNS -LRB-_-LRB- 32_CD -RRB-_-RRB- ._.
+To_TO summarise_VB ,_, a_DT total_NN of_IN 4,853,475_CD ε-SVR_NN candidate_NN models_NNS are_VBP computed_VBN on_IN the_DT 111_CD time_NN series_NN using_VBG YALE_NNP =_SYM -_: =[_NN 33_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT LIBSVM_NN libraries_NNS -LRB-_-LRB- 28_CD -RRB-_-RRB- D._NNP Selection_NN of_IN SVR_NN candidate_NN models_NNS Depending_VBG on_IN the_DT combination_NN of_IN model_NN parameters_NNS ,_, a_DT SVR_NNP is_VBZ capable_JJ of_IN approximating_VBG the_DT underlying_VBG data_NNS generating_VBG process_NN of_IN a_DT time_NN

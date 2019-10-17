@@ -1,0 +1,4 @@
+nd_IN all_DT frequent_JJ itemsets_NNS ,_, where_WRB a_DT frequent_JJ itemset_NN is_VBZ one_CD that_WDT occurs_VBZ in_IN at_IN least_JJS a_DT user-specified_JJ percentage_NN of_IN the_DT data_NNS base_NN ._.
+Most_JJS of_IN the_DT proposed_VBN pattern-mining_NN algorithms_NNS are_VBP a_DT variant_NN of_IN Apriori_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Apriori_NNP employs_VBZ a_DT bottomup_NN ,_, breadth-first_JJ search_NN that_WDT enumerates_VBZ every_DT single_JJ frequent_JJ itemset_NN ._.
+The_DT process_NN starts_VBZ by_IN scanning_VBG all_DT transactions_NNS in_IN the_DT data_NNS base_NN and_CC computing_VBG the_DT frequent_JJ items_NNS at_IN t_NN

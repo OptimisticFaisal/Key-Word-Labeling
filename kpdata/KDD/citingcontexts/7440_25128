@@ -1,0 +1,5 @@
+aire_VB Protocol_NNP -RRB-_-RRB- and_CC developed_VBD a_DT provably_RB secure_JJ solution_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- ._.
+This_DT was_VBD extended_VBN to_TO multiparty_JJ computations_NNS by_IN Goldreich_NNP et_FW al._FW -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+They_PRP developed_VBD a_DT framework_NN for_IN secure_JJ multiparty_JJ computation_NN ,_, and_CC in_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: proved_VBD that_IN computing_VBG a_DT function_NN privately_RB is_VBZ equivalent_JJ to_TO computing_VBG it_PRP securely_RB ._.
+We_PRP start_VBP with_IN the_DT definitions_NNS for_IN security_NN in_IN the_DT semihonest_JJ model_NN ._.
+A_DT semi-honest_JJ party_NN follows_VBZ the_DT rules_NNS of_IN the_DT pro_NN

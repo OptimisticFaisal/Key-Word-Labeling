@@ -1,0 +1,4 @@
+to_TO on-topic_JJ examples_NNS ,_, queries_NNS ,_, or_CC profiles_NNS can_MD be_VB found_VBN in_IN several_JJ topical_JJ crawling_NN studies_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 26_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 38_CD -RRB-_-RRB- ._.
+User_NN browsing_NN patterns_NNS have_VBP also_RB been_VBN used_VBN for_IN personalized_JJ -LRB-_-LRB- 22_CD -RRB-_-RRB- as_RB well_RB as_IN collaborative_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: crawling_VBG ._.
+However_RB ,_, with_IN regard_NN to_TO the_DT design_NN of_IN crawlers_NNS using_VBG classifiers_NNS ,_, the_DT related_JJ literature_NN is_VBZ quite_RB sparse_JJ ._.
+Chakrabarti_NNP et_FW al._FW -LRB-_-LRB- 8_CD -RRB-_-RRB- were_VBD the_DT first_JJ to_TO use_VB a_DT -LRB-_-LRB- Naive_JJ Bayesian_JJ -RRB-_-RRB- classifier_NN to_TO guide_VB

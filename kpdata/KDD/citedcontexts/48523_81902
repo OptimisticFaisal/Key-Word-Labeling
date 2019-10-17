@@ -1,0 +1,5 @@
+learning_NN ._.
+However_RB ,_, the_DT general_JJ Boosting_NNP framework_NN is_VBZ much_RB more_RBR widely_RB applicable_JJ ._.
+In_IN this_DT section_NN we_PRP present_VBP a_DT brief_JJ survey_NN of_IN several_JJ extensions_NNS and_CC generalizations_NNS ,_, although_IN many_JJ others_NNS exist_VBP ,_, e.g._FW =_JJ -_: =[_NN 76_CD ,_, 158_CD ,_, 62_CD ,_, 18_CD ,_, 31_CD ,_, 3_CD ,_, 155_CD ,_, 15_CD ,_, 44_CD ,_, 52_CD ,_, 82_CD ,_, 164_CD ,_, 66_CD ,_, 38_CD ,_, 137_CD ,_, 147_CD ,_, 16_CD ,_, 80_CD ,_, 185_CD ,_, 100_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+7.1_CD Single_JJ Class_NN A_DT classical_JJ unsupervised_JJ learning_NN task_NN is_VBZ density_NN estimation_NN ._.
+Assuming_VBG that_IN the_DT unlabeled_JJ observations_NNS x1_NN ,_, ..._: ,_, xN_NN were_VBD generated_VBN independently_RB at_IN random_JJ according_VBG to_TO some_DT unknown_JJ dis_NN

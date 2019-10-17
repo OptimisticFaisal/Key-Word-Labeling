@@ -1,0 +1,4 @@
+s_NN required_VBN by_IN k-means_NN ._.
+Often_RB ,_, a_DT kd-tree_NN can_MD be_VB used_VBN to_TO determine_VB cluster_NN memberships_NNS for_IN a_DT subset_NN of_IN points_NNS with_IN only_JJ k_NN distance_NN computations_NNS -LRB-_-LRB- rather_RB than_IN k_NN computations_NNS for_IN each_DT point_NN in_IN the_DT subset_NN -RRB-_-RRB- =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Multiresolutional_JJ kdtrees_NNS have_VBP been_VBN used_VBN to_TO improve_VB the_DT performance_NN of_IN EM_NN clustering_NN ._.
+A_DT multiresolutional_JJ kd-tree_JJ stores_NNS hierarchical_JJ summary_NN statistics_NNS on_IN the_DT data_NNS ``_`` owned_VBN ''_'' by_IN the_DT node_NN :_: the_DT number_NN o_NN

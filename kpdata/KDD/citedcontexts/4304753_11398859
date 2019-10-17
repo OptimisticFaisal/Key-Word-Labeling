@@ -1,0 +1,3 @@
+s_NNS assume_VBP documents_NNS in_IN multiple_JJ languages_NNS are_VBP aligned_VBN either_CC at_IN the_DT document_NN level_NN ,_, sentence_NN level_NN or_CC by_IN time_NN stamps_NNS -LRB-_-LRB- Mimno_NNP et_FW al._FW ,_, 2009_CD ;_: Zhao_NNP and_CC Xing_NNP ,_, 2006_CD ;_: Kim_NNP and_CC Khudanpur_NNP ,_, 2004_CD ;_: Ni_FW et_FW al._FW ,_, 2009_CD ;_: =_JJ -_: =_JJ Wang_NNP et_FW al._FW ,_, 2007_CD -_: =--RRB-_NN ._.
+However_RB ,_, in_IN many_JJ applications_NNS ,_, we_PRP need_VBP to_TO mine_VB topics_NNS from_IN unaligned_JJ text_NN corpus_NN ._.
+For_IN example_NN ,_, mining_NN topics_NNS from_IN search_NN results_VBZ in_IN different_JJ languages_NNS can_MD facilitate_VB summarization_NN of_IN multilingual_JJ

@@ -1,0 +1,6 @@
+mmunities_NNS that_WDT appears_VBZ to_TO work_VB well_RB in_IN practice_NN ._.
+Figure_NN 2_CD illustrates_VBZ how_WRB our_PRP$ focused_JJ crawler_NN retrieves_VBZ pages_NNS and_CC the_DT graph_NN that_WDT is_VBZ induced_VBN by_IN the_DT crawl_NN ._.
+-LRB-_-LRB- For_IN another_DT example_NN of_IN focused_JJ crawling_NN ,_, see_VBP =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._. -RRB-_-RRB-
+The_DT crawl_NN begins_VBZ with_IN the_DT seed_NN web_NN pages_NNS ,_, shown_VBN as_IN set_NN -LRB-_-LRB- b_NN -RRB-_-RRB- in_FW thesgure_FW ,_, andsnds_NNS all_DT pages_NNS that_WDT link_VBP to_TO or_CC from_IN the_DT seed_NN set_NN ._.
+Outbound_JJ links_NNS are_VBP trivially_RB found_VBN by_IN examining_VBG the_DT HTML_NNP of_IN the_DT page_NN ._.
+In_IN

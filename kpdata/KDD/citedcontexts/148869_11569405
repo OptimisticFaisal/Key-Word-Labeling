@@ -1,0 +1,4 @@
+On_IN the_DT contrary_JJ ,_, Music-dfs_JJ is_VBZ based_VBN on_IN a_DT depth_NN first_JJ search_NN strategy_NN ._.
+The_DT key_JJ idea_NN is_VBZ to_TO use_VB a_DT new_JJ closure_NN operator_NN enabling_VBG an_DT efficient_JJ interval_JJ pruning_NN for_IN various_JJ constraints_NNS -LRB-_-LRB- see_VB Section_NNP 3_CD -RRB-_-RRB- ._.
+In_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT authors_NNS also_RB benefit_VBP from_IN intervals_NNS to_TO prune_VB the_DT search_NN space_NN ,_, but_CC their_PRP$ approach_NN is_VBZ restricted_JJ to_TO the_DT conjunction_NN of_IN one_CD monotone_NN constraint_NN and_CC one_CD anti-monotone_JJ constraint_NN ._.
+The_DT output_NN of_IN Musi_NN

@@ -1,0 +1,5 @@
+former_JJ peers_NNS may_MD dynamically_RB join_VB or_CC leave_VB the_DT network_NN and_CC may_MD manage_VB data_NNS conforming_VBG to_TO varying_VBG schema_NN fragments_NNS ._.
+Schema-based_JJ routing_VBG indexes_NNS have_VBP been_VBN proposed_VBN to_TO address_VB this_DT problem_NN in_IN Edutella_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Edutella_NNP uses_VBZ two_CD kinds_NNS of_IN routing_VBG indexes_NNS :_: SuperPeer\/Peer_NN -LRB-_-LRB- SP\/P_NN RI_NN -RRB-_-RRB- and_CC Super-Peer\/Super-Peer_NN -LRB-_-LRB- SP\/SP_NN RI_NN -RRB-_-RRB- ._.
+An_DT SP\/P_NN RI_NN stores_NNS information_NN about_IN metadata_JJ usage_NN in_IN each_DT peer_VBP in_IN its_PRP$ peer_VB group_NN ._.
+This_DT inc_NN

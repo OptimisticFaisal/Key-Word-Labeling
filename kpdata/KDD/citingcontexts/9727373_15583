@@ -1,0 +1,5 @@
+filter_NN in_IN order_NN to_TO prune_VB candidates_NNS early_RB ._.
+In_IN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, the_DT UFgrowth_NN algorithm_NN is_VBZ proposed_VBN ._.
+Like_IN U-Apriori_NN ,_, UF-growth_NN computes_VBZ frequent_JJ itemsets_NNS by_IN means_NNS of_IN the_DT expected_VBN support_NN ,_, but_CC it_PRP uses_VBZ the_DT FP-tree_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: approach_NN in_IN order_NN to_TO avoid_VB expensive_JJ candidate_NN generation_NN ._.
+In_IN contrast_NN to_TO our_PRP$ probabilistic_JJ approach_NN ,_, itemsets_NNS are_VBP considered_VBN frequent_JJ if_IN the_DT expected_VBN support_NN exceeds_VBZ minSup_NNP ._.
+The_DT main_JJ drawback_NN of_IN thi_NN

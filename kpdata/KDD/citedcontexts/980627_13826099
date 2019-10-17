@@ -1,0 +1,4 @@
+usiness_NN -LRB-_-LRB- Process_VB -RRB-_-RRB- Intelligence_NNP -LRB-_-LRB- BPI_NN -RRB-_-RRB- suite_NN -LRB-_-LRB- 46_CD -RRB-_-RRB- ._.
+While_IN these_DT approaches_NNS have_VBP some_DT experimentally_RB proven_VBN successful_JJ ,_, it_PRP is_VBZ difficult_JJ to_TO provide_VB any_DT formal_JJ guarantees_NNS on_IN their_PRP$ results_NNS ._.
+Other_JJ approaches_NNS =_JJ -_: =[_NN 62_CD ,_, 54_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP based_VBN on_IN statistics_NNS ,_, and_CC try_VB to_TO maximize_VB the_DT likelihood_NN of_IN the_DT observed_VBN sequence_NN given_VBN the_DT model_NN ._.
+These_DT approaches_NNS are_VBP rooted_VBN in_IN works_NNS on_IN formal_JJ models_NNS ,_, such_JJ as_IN those_DT on_IN inference_NN of_IN a_DT best_JJS fit_NN -LRB-_-LRB-

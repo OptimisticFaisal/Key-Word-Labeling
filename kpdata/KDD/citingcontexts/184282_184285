@@ -1,0 +1,4 @@
+ted_VBN set_NN of_IN documents_NNS ._.
+In_IN their_PRP$ approach_NN ,_, the_DT columns_NNS of_IN the_DT random_JJ projection_NN matrix_NN are_VBP assumed_VBN strictly_RB orthogonal_JJ ,_, but_CC actually_RB this_DT need_MD not_RB be_VB the_DT case_NN ,_, as_IN we_PRP shall_MD see_VB in_IN our_PRP$ experiments_NNS ._.
+Kaski_NN =_JJ -_: =[_NN 17_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ presented_VBN experimental_JJ results_NNS in_IN using_VBG the_DT random_JJ mapping_NN in_IN the_DT context_NN of_IN the_DT WEBSOM_NN 1_CD system_NN ._.
+Kurimo_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- applies_VBZ random_JJ projection_NN to_TO the_DT indexing_NN of_IN audio_JJ documents_NNS ,_, prior_RB to_TO using_VBG LSI_NNP and_CC

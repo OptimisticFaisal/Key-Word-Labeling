@@ -1,0 +1,13 @@
+-LRB-_-LRB- and_CC its_PRP$ analog_NN -RRB-_-RRB- to_TO compute_VB v_LS -LRB-_-LRB- xs_NNS -RRB-_-RRB- i_LS and_CC v_LS -LRB-_-LRB- yt_NN -RRB-_-RRB- j_NN ._.
+3_LS ._.
+Use_NN Eq_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- to_TO obtain_VB contingency_NN table_NN counts_VBZ wij_NN ._.
+4_LS ._.
+Use_NNP Eqs_NNP ._.
+-LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 5_LS -RRB-_-RRB- to_TO define_VB r.v.s_FW αi_FW and_CC βj_NN ._.
+5_CD ._.
+Use_NNP Eqn_NNP ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- to_TO compute_VB F_NN and_CC ∇_NN F_NN -LRB-_-LRB- see_VB =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._. -RRB-_-RRB-
+6_CD ._.
+Return_NN F_NN ,_, ∇_NNP F._NNP This_NNP routine_NN goes_VBZ step-by-step_JJ through_IN the_DT framework_NN developed_VBD in_IN earlier_JJR sections_NNS to_TO link_VB the_DT prototypes_NNS to_TO the_DT objective_JJ function_NN ._.
+There_EX are_VBP no_DT parameters_NNS in_IN these_DT stages_NNS except_IN

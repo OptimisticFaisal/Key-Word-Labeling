@@ -1,0 +1,4 @@
+we_PRP target_VBP so_RB as_IN to_TO persuade_VB as_IN many_JJ individuals_NNS in_IN the_DT network_NN as_IN possible_JJ ?_.
+The_DT first_JJ to_TO study_VB this_DT question_NN from_IN an_DT algorithmic_JJ point_NN of_IN view_NN were_VBD Kempe_NNP ,_, Kleinberg_NNP ,_, and_CC Tardos_NNP in_IN their_PRP$ seminal_JJ paper_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP investigated_VBD the_DT following_JJ maximization_NN problem_NN :_: Given_IN a_DT social_JJ network_NN G_NN with_IN vertex-thresholds_NNS ,_, find_VBP a_DT target_NN set_NN of_IN size_NN at_IN most_JJS k_NN that_WDT activates_VBZ as_IN many_JJ vertices_NNS in_IN G_NN as_IN possible_JJ ._.
+This_DT mode_NN

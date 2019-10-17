@@ -1,0 +1,3 @@
+address_VB the_DT requirements_NNS of_IN text_NN mining_NN workflows_NNS discussed_VBN above_IN ,_, we_PRP have_VBP recently_RB ported_VBN our_PRP$ implementation_NN to_TO a_DT visual_JJ programming_NN workflow_NN environment_NN in_IN the_DT context_NN of_IN the_DT Discovery_NNP Net_NNP project_NN =_JJ -_: =[_NN 5,24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT visual_JJ programming_NN components_NNS used_VBN are_VBP built_VBN on_IN top_NN of_IN the_DT KDE_NNP knowledge_NN discovery_NN platform_NN and_CC data_NN mining_NN components_NNS from_IN InforSense_NNP Ltd_NNP -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+The_DT environment_NN allows_VBZ end_NN user_NN to_TO drag_VB and_CC drop_VB

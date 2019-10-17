@@ -1,0 +1,4 @@
+C_NN ik_FW UZ_FW mk_FW ,_, C_NNP DZ_NNP n_NN −_NN C_NN ik_FW DZ_FW nk_FW -RRB-_-RRB- to_TO a_DT specified_VBN root_NN ,_, then_RB the_DT root_NN broadcasts_VBZ the_DT global_JJ difference_NN -LRB-_-LRB- sum_NN of_IN all_DT local_JJ differences_NNS -RRB-_-RRB- to_TO other_JJ machines_NNS to_TO update_VB global_JJ counts_NNS -LRB-_-LRB- C_NN UZ_NN mk_NN and_CC C_NN DZ_NN nk_NN -RRB-_-RRB- =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT is_VBZ a_DT MPI_NNP AllReduce_NNP operation_NN in_IN MPI_NNP ._.
+We_PRP summarize_VBP the_DT process_NN in_IN Algorithm_NN 1_CD ._.
+Algorithm_NN 1_CD :_: Parallel_JJ Gibbs_NNP Sampling_NNP of_IN CCF_NNP Input_NNP :_: N_NN ×_CD M_NN community-user_NN matrix_NN N_NN ×_NN V_NN community-description_NN matrix_NN ;_:

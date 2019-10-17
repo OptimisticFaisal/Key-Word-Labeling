@@ -1,0 +1,3 @@
+hose_NN actions_NNS have_VBP propagated_VBN in_IN the_DT network_NN via_IN the_DT independent_JJ cascade_NN model_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+The_DT maximum_NN likelihood_NN parameters_NNS of_IN this_DT model_NN can_MD be_VB found_VBN for_IN instance_NN by_IN using_VBG the_DT EM_NN algorithm_NN of_IN Saito_NNP et_FW al._FW =_SYM -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Given_VBN the_DT parameters_NNS we_PRP formulate_VBP the_DT sparsification_NN problem_NN ,_, which_WDT is_VBZ the_DT focus_NN of_IN this_DT paper_NN :_: we_PRP ask_VBP to_TO preserve_VB the_DT k_NN most_RBS important_JJ links_NNS in_IN the_DT model_NN ,_, i.e._FW ,_, the_DT set_NN of_IN k_NN links_NNS that_WDT maximize_VBP the_DT

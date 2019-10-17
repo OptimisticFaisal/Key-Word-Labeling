@@ -1,0 +1,5 @@
+stribution_NN of_IN points_NNS around_IN the_DT center_NN of_IN the_DT cluster_NN ._.
+Self-delimiting_JJ encoding_NN of_IN integers_NNS ._.
+The_DT idea_NN is_VBZ that_IN small_JJ integers_NNS will_MD require_VB fewer_JJR bytes_NNS :_: we_PRP use_VBP the_DT Elias_NNP codes_NNS ,_, or_CC self-delimiting_JJ codes_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB integer_NN i_FW is_VBZ represented_VBN using_VBG O_NN -LRB-_-LRB- log_NN i_LS -RRB-_-RRB- bits_NNS ._.
+As_IN Table_NNP 2_CD shows_NNS ,_, we_PRP can_MD encode_VB the_DT length_NN of_IN the_DT integer_NN in_IN unary_JJ -LRB-_-LRB- using_VBG log_NN i_FW zeros_NNS -RRB-_-RRB- ,_, and_CC then_RB the_DT actual_JJ value_NN ,_, using_VBG log_NN i_FW more_JJR bits_NNS ._.
+Notice_NNP t_NN

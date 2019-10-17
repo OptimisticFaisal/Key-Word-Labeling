@@ -1,0 +1,5 @@
+dimensionality_NN and_CC large_JJ data_NNS sets_NNS ._.
+We_PRP prefer_VBP clustering_NN algorithms_NNS that_WDT do_VBP not_RB assume_VB some_DT restrictive_JJ shapes_NNS for_IN the_DT clusters_NNS ._.
+Some_DT clustering_NN algorithms_NNS -LRB-_-LRB- e.g._FW CLARANS_FW -LRB-_-LRB- 29_CD -RRB-_-RRB- ,_, BIRCH_NN -LRB-_-LRB- 37_CD -RRB-_-RRB- and_CC ScaleKM_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =--RRB-_NN assume_VB that_IN the_DT clusters_NNS are_VBP convex_VBN in_IN shape_NN ._.
+We_PRP would_MD adopt_VB a_DT definition_NN of_IN cluster_NN that_WDT does_VBZ not_RB have_VB the_DT above_JJ limitation_NN ._.
+A_DT good_JJ algorithm_NN should_MD also_RB not_RB make_VB assumptions_NNS about_IN the_DT distribution_NN

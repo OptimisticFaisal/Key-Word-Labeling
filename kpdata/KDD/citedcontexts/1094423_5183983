@@ -1,0 +1,6 @@
+of_IN these_DT relationships_NNS from_IN the_DT corpus_NN ._.
+For_IN example_NN ,_, with_IN respect_NN to_TO the_DT is-a_NN relationship_NN possible_JJ instances_NNS might_MD be_VB :_: ``_`` Einstein_NNP is_VBZ a_DT physicist_NN ''_'' ,_, ``_`` Paris_NNP is_VBZ a_DT city_NN ''_'' ,_, etc._NN ._.
+The_DT LEILA_NN tool_NN presented_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: suits_NNS this_DT task_NN ._.
+We_PRP are_VBP also_RB using_VBG GATE_NN 3_CD as_IN a_DT named_VBN entity_NN recognition_NN tool_NN ._.
+The_DT recognized_VBN entities_NNS and_CC their_PRP$ concepts_NNS are_VBP regarded_VBN as_IN instances_NNS of_IN the_DT is-a_NN relationship_NN ._.
+The_DT extracted_VBN instances_NNS ar_IN

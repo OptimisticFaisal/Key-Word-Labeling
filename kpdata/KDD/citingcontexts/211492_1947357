@@ -1,0 +1,4 @@
+k_NN to_TO a_DT previous_JJ choice_NN of_IN an_DT attribute_NN when_WRB it_PRP finally_RB turns_VBZ out_RP to_TO be_VB suboptimal_JJ ._.
+Many_JJ different_JJ algorithms_NNS for_IN learning_VBG decision_NN trees_NNS have_VBP been_VBN developed_VBN over_IN the_DT last_JJ 20_CD years_NNS ._.
+For_IN instance_NN ,_, CART_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: was_VBD one_CD of_IN the_DT earliest_JJS systems_NNS which_WDT ,_, in_IN particular_JJ ,_, encorporates_VBZ an_DT effective_JJ pruning_NN phase_NN ._.
+Their_PRP$ so-called_JJ minimum_JJ cost_NN complexity_NN pruning_NN cuts_NNS off_IN branches_NNS that_WDT have_VBP a_DT large_JJ number_NN of_IN leaf_NN nodes_NNS

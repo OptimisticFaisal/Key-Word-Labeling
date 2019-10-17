@@ -1,0 +1,4 @@
+rn_FW −_FW Fusion_NN 29_CD 28_CD 27_CD 26_CD 25_CD 24_CD 23_CD Minimum_NNP Support_NN Threshold_NNP Figure_NNP 10_CD ._.
+Run_NNP Time_NNP on_IN ALL_NN Frequent_JJ itemset_NN mining_NN ,_, initiated_VBN by_IN the_DT introduction_NN of_IN association_NN rule_NN mining_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, has_VBZ been_VBN extensively_RB studied_VBN =_JJ -_: =[_NN 2_CD ,_, 17_CD ,_, 10_CD ,_, 4_CD ,_, 3_CD ,_, 11_CD ,_, 22_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Efficient_JJ implementations_NNS appeared_VBD in_IN the_DT FIMI_NNP workshops_NNS ._.
+Most_JJS of_IN the_DT well_RB studied_VBN frequent_JJ pattern_NN mining_NN algorithms_NNS ,_, including_VBG Apriori_NNP -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, FP-growth_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, and_CC CARPENTER_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, mine_VBP the_DT complete_JJ se_FW

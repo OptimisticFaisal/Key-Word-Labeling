@@ -1,0 +1,5 @@
+,_, to_TO impressively_RB compress_VB the_DT information_NN in_IN a_DT standard_JJ web_NN graph_NN ._.
+These_DT techniques_NNS are_VBP freely_RB available_JJ in_IN the_DT graph_NN compression_NN tool_NN WebGraph_NNP ,_, which_WDT is_VBZ produced_VBN by_IN Paolo_NNP Boldi_NNP and_CC Sebastiano_NNP Vigna_NNP =_SYM -_: =[_NN 22_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT final_JJ storage_NN issue_NN we_PRP discuss_VBP concerns_NNS dangling_VBG nodes_NNS ._.
+The_DT pages_NNS of_IN the_DT web_NN can_MD be_VB classified_VBN as_IN either_CC dangling_VBG nodes_NNS or_CC nondangling_JJ nodes_NNS ._.
+Recall_VB that_IN dangling_VBG nodes_NNS are_VBP webpages_NNS that_WDT contain_VBP

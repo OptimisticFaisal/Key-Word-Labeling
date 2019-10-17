@@ -1,0 +1,3 @@
+ve_IN model_NN of_IN documents_NNS ,_, namely_RB Segmented_NNP Author-Topic_NNP Model_NNP -LRB-_-LRB- S-ATM_NN -RRB-_-RRB- ,_, that_WDT utilizes_VBZ the_DT temporal_JJ ordering_VBG of_IN documents_NNS to_TO assist_VB the_DT process_NN of_IN topic_NN discovery_NN ._.
+S-ATM_NN is_VBZ based_VBN on_IN the_DT Author-Topic_NNP Model_NNP =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: and_CC extends_VBZ it_PRP to_TO integrate_VB the_DT temporal_JJ characteristics_NNS of_IN the_DT document_NN collection_NN into_IN the_DT generative_JJ process_NN ._.
+Furthermore_RB ,_, we_PRP augment_VBP the_DT text_NN corpus_NN of_IN the_DT articles_NNS with_IN user_NN queries_NNS from_IN CiteSee_NNP

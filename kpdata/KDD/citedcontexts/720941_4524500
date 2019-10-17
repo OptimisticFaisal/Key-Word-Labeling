@@ -1,0 +1,3 @@
+edu_NN tire_NN dataset_NN results_VBZ in_IN more_RBR accurate_JJ predictions_NNS than_IN conditional_JJ inference_NN over_IN each_DT instance_NN independently_RB -LRB-_-LRB- 2_CD ,_, 21_CD -RRB-_-RRB- and_CC that_IN the_DT gains_NNS over_IN conditional_JJ models_NNS widen_VBP as_IN autocorrelation_NN increases_VBZ =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Collective_JJ inference_NN techniques_NNS exploit_VBP autocorrelation_NN by_IN reasoning_NN with_IN collective_JJ models_NNS that_WDT represent_VBP the_DT dependencies_NNS among_IN class_NN labels_NNS of_IN related_JJ instances_NNS ._.
+Collective_JJ models_NNS have_VBP lower_JJR vari_NNS

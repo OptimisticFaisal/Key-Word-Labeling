@@ -1,0 +1,3 @@
+A_DT known_JJ limitation_NN of_IN k-clustering_NN is_VBZ that_IN the_DT appropriate_JJ number_NN of_IN clusters_NNS k_NN is_VBZ often_RB hard_JJ to_TO specify_VB in_IN advance_NN ,_, and_CC methods_NNS that_WDT try_VBP to_TO automatically_RB determine_VB this_DT number_NN have_VBP been_VBN investigated_VBN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN another_DT approach_NN to_TO address_VB this_DT limitation_NN ,_, alternative_JJ clustering_NN models_NNS have_VBP been_VBN explored_VBN ._.
+In_FW converse_FW k-clustering_NN ,_, a_DT compactness_NN measure_NN is_VBZ given_VBN as_IN threshold_NN ,_, and_CC the_DT task_NN is_VBZ to_TO minimize_VB t_NN

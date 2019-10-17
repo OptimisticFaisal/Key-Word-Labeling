@@ -1,0 +1,4 @@
+bility_NN of_IN cryptographic_JJ protocols_NNS -RRB-_-RRB- ._.
+Nevertheless_RB ,_, a_DT significant_JJ family_NN of_IN anonymization_NN definitions_NNS do_VBP provide_VB guarantees_NNS against_IN composition_NN attacks_NNS ,_, namely_RB schemes_NNS that_WDT satisfy_VBP differential_JJ privacy_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Recent_JJ work_NN has_VBZ greatly_RB expanded_VBN the_DT applicability_NN of_IN differential_JJ privacy_NN and_CC its_PRP$ relaxations_NNS ,_, both_CC in_IN the_DT theoretical_JJ -LRB-_-LRB- 15_CD ,_, 6_CD ,_, 14_CD ,_, 4_CD ,_, 28_CD -RRB-_-RRB- and_CC applied_JJ -LRB-_-LRB- 17_CD ,_, 3_CD ,_, 25_CD -RRB-_-RRB- literature_NN ._.
+However_RB ,_, certain_JJ recent_JJ

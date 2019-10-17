@@ -1,0 +1,4 @@
+he_PRP dimensions_NNS n_NN ,_, m_NN ,_, k_NN ,_, and_CC then_RB the_DT content_NN of_IN the_DT two_CD factor_NN matrices_NNS ._.
+By_IN explicitly_RB encoding_VBG the_DT dimensions_NNS of_IN the_DT matrices_NNS ,_, we_PRP can_MD subsequently_RB encode_VB matrices_NNS B_NN and_CC C_NN using_VBG an_DT optimal_JJ prefix_NN code_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO encode_VB m_NN and_CC k_NN ,_, we_PRP use_VBP the_DT EliasDelta_NNP code_NN ,_, which_WDT is_VBZ a_DT Universal_NNP code_NN for_IN integers_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+A_DT Universal_NNP code_NN is_VBZ a_DT code_NN that_WDT can_MD be_VB decoded_VBN unambiguously_RB without_IN requiring_VBG the_DT decoder_NN to_TO have_VB any_DT back_NN

@@ -1,0 +1,5 @@
+16_CD v_LS 21_CD v_LS 22_CD v_LS 23_CD v_LS 24_CD v_LS 11_CD v_LS 12_CD v_LS 13_CD v_LS 14_CD v_LS 15_CD v_LS 16_CD s_NN 11_CD s_NN 12_CD s_NN 13_CD s_NN 21_CD s_NN 22_CD v_LS 21_CD v_LS 22_CD v_LS 23_CD v_LS 24_CD -LRB-_-LRB- a_DT -RRB-_-RRB- -LRB-_-LRB- b_NN -RRB-_-RRB- Figure_NNP 1_CD :_: A_DT bi-partite_JJ graph_NN -LRB-_-LRB- a_DT -RRB-_-RRB- and_CC its_PRP$ relation_NN summary_NN network_NN -LRB-_-LRB- b_NN -RRB-_-RRB- ._.
+to_TO co-clustering_NN ._.
+PLSA_NN =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT method_NN based_VBN on_IN a_DT mixture_NN decomposition_NN derived_VBN from_IN a_DT latent_JJ class_NN model_NN ._.
+A_DT twosided_JJ clustering_NN model_NN is_VBZ proposed_VBN for_IN collaborative_JJ filtering_VBG by_IN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+Information-theory_JJ based_VBN co-clustering_NN has_VBZ

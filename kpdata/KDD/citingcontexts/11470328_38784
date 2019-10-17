@@ -1,0 +1,4 @@
+nly_RB 0.037_CD in_IN our_PRP$ data_NNS -RRB-_-RRB- ._.
+Therefore_RB ,_, in_IN order_NN to_TO compare_VB the_DT performance_NN of_IN different_JJ predictive_JJ functions_NNS by_IN eliminating_VBG the_DT skewness_NN between_IN possible_JJ and_CC existing_JJ links_NNS ,_, we_PRP adopt_VBP the_DT ROC_NN curve_NN metric_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: as_IN the_DT main_JJ way_NN of_IN presenting_VBG our_PRP$ results_NNS ._.
+For_IN the_DT best_JJS predictor_NN of_IN each_DT feature_NN group_NN ,_, we_PRP also_RB provide_VBP recall\/fallout_NN ratios_NNS ._.
+Recall_VB is_VBZ the_DT ratio_NN between_IN the_DT number_NN of_IN true_JJ positives_NNS -LRB-_-LRB- correctly_RB pre_JJ

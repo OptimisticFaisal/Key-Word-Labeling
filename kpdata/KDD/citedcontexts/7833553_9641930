@@ -1,0 +1,4 @@
+deg_NN -LRB-_-LRB- x_NN -RRB-_-RRB- α_NN where_WRB z_SYM ranges_NNS over_IN all_DT of_IN the_DT graph_NN nodes_NNS -LRB-_-LRB- z_SYM =_JJ 1_CD ,_, ..._: ,_, N_NN -RRB-_-RRB- ,_, and_CC the_DT coefficient_NN α_NN is_VBZ a_DT free_JJ parameter_NN ._.
+This_DT formula_NN applies_VBZ a_DT stronger_JJR penalty_NN on_IN high-degree_JJ nodes_NNS ._.
+In_IN a_DT later_JJ work_NN ,_, Tong_NNP et-al_NN =_JJ -_: =[_NN 134_CD -RRB-_-RRB- -_: =_SYM -_: extend_VB the_DT electrical_JJ network_NN similarity_NN interpretation_NN to_TO directed_JJ graphs_NNS ._.
+While_IN electric_JJ networks_NNS are_VBP inherently_RB undirected_JJ ,_, they_PRP suggest_VBP to_TO generalize_VB the_DT effective_JJ conductance_NN to_TO handle_VB direction_NN

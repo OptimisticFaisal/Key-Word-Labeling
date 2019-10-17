@@ -1,0 +1,5 @@
+fficiently_RB find-grained_JJ result_NN that_WDT satisfies_VBZ the_DT science_NN goals_NNS of_IN this_DT mission_NN ._.
+We_PRP also_RB scaled_VBD the_DT input_NN data_NNS so_IN that_IN each_DT band_NN had_VBD a_DT zero_NN mean_NN and_CC unit_NN standard_JJ deviation_NN ._.
+We_PRP used_VBD an_DT SVM_NN regression_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: approach_NN to_TO the_DT problem_NN ._.
+This_DT model_NN attempts_VBZ to_TO trade_VB off_RP a_DT fit_NN to_TO the_DT data_NNS with_IN a_DT ``_`` flatness_NN ''_'' bias_NN that_WDT provides_VBZ better_JJR generalization_NN properties_NNS -LRB-_-LRB- to_TO new_JJ observations_NNS -RRB-_-RRB- ._.
+Given_VBN a_DT training_NN data_NN set_NN comp_NN

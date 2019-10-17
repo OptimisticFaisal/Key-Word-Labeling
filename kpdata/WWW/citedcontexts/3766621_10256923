@@ -1,0 +1,4 @@
+a_DT based_VBN on_IN metrics_NNS such_JJ as_IN correlation_NN and_CC periodicity_NN ._.
+While_IN the_DT above_RB utilize_VB linear_JJ metrics_NNS to_TO quantify_VB the_DT similarity_NN ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- examines_VBZ the_DT use_NN of_IN non-linear_JJ metrics_NNS such_JJ as_IN Time-Warping_NNP ._.
+Finally_RB ,_, in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: the_DT authors_NNS examine_VBP a_DT similar_JJ application_NN of_IN search_NN on_IN temporal_JJ logs_NNS ,_, but_CC using_VBG clickthrough_JJ data_NNS ._.
+However_RB ,_, none_NN of_IN the_DT above_JJ work_NN examines_VBZ how_WRB to_TO tailor_VB search_NN based_VBN on_IN compressed_VBN representations_NNS of_IN

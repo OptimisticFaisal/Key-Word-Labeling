@@ -1,0 +1,5 @@
+the_DT matrix_NN are_VBP zero_CD ._.
+This_DT is_VBZ not_RB always_RB true_JJ and_CC its_PRP$ violation_NN might_MD incur_VB limited_JJ reduction_NN in_IN computational_JJ time_NN and_CC memory_NN ._.
+To_TO provide_VB a_DT deterministic_JJ method_NN to_TO speed_VB up_RP kernel_NN machines_NNS learning_VBG ,_, -LRB-_-LRB- =_JJ -_: =_JJ Fung_NNP &_CC Mangasarian_NNP ,_, 2001_CD -_: =--RRB-_NN used_VBD Sherman-Morrison-Woodbury_JJ formula_NN to_TO calculate_VB the_DT inverse_NN of_IN -LRB-_-LRB- K_NN +_CC γmI_NN -RRB-_-RRB- ._.
+This_DT approach_NN works_VBZ well_RB on_IN a_DT linear_JJ kernel_NN with_IN a_DT small_JJ d_NN -LRB-_-LRB- recall_NN d_NN is_VBZ the_DT number_NN of_IN dimensions_NNS -RRB-_-RRB- ._.
+For_IN other_JJ problems_NNS ,_, p_NN

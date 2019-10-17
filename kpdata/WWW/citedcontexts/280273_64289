@@ -1,0 +1,4 @@
+anism_NN for_IN semantic_JJ specification_NN in_IN traditional_JJ databases_NNS ._.
+For_IN XML_NN ,_, the_DT design_NN of_IN specification_NN formalisms_NNS for_IN integrity_NN constraints_NNS is_VBZ still_RB an_DT ongoing_JJ effort_NN ,_, from_IN DTDs_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, to_TO recent_JJ work_NN on_IN keys_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: and_CC database-style_JJ constraints_NNS -LRB-_-LRB- 10_CD ,_, 9_CD -RRB-_-RRB- and_CC the_DT current_JJ XML_NN Schema_NN standardization_NN effort_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Several_JJ of_IN these_DT formalisms_NNS build_VBP on_IN the_DT XPath_NN standard_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- or_CC on_IN closely_RB related_JJ languages_NNS ._.
+XPath_NN is_VBZ a_DT

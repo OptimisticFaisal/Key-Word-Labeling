@@ -1,0 +1,4 @@
+tested_VBN PS-Index_JJ with_IN both_CC synthetic_JJ and_CC real_JJ life_NN data_NNS setson_VBP a_DT Linux_NNP machine_NN with_IN a_DT 700_CD MHz_NNP CPU_NNP and_CC 256_CD MB_NN main_JJ memory_NN ._.
+The_DT yeast_NN micro-array_NN is_VBZ a_DT 2_CD ,_, 884_CD ×_CD 17_CD matrix_NN -LRB-_-LRB- 2,884_CD genes_NNS under_IN 17_CD conditions_NNS -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT mouse_NN cDNA_NN array_NN is_VBZ a_DT 10_CD ,_, 934_CD ×_CD 49_CD matrix_NN -LRB-_-LRB- 10,934_CD genes_NNS under_IN 49_CD conditions_NNS -RRB-_-RRB- -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC it_PRP is_VBZ pre-processed_JJ in_IN the_DT same_JJ way_NN ._.
+We_PRP also_RB generate_VBP synthetic_JJ data_NNS ,_, which_WDT are_VBP random_JJ integers_NNS from_IN a_DT unifor_NN

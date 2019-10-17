@@ -1,0 +1,4 @@
+rent_NN for_IN small_JJ sample_NN sizes_NNS ._.
+Early_JJ works_NNS of_IN Zaki_NNP ,_, et_FW al._FW -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, Toivonen_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, and_CC Langley_NNP -LRB-_-LRB- 11_CD -RRB-_-RRB- give_VBP effective_JJ random_JJ sampling_NN algorithms_NNS for_IN this_DT problem_NN ._.
+The_DT FAST_NNP algorithm_NN introduced_VBN by_IN Chen_NNP et_FW al._FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: creates_VBZ a_DT deterministic_JJ sample_NN from_IN a_DT relatively_RB large_JJ initial_JJ random_JJ sample_NN by_IN trimming_VBG or_CC growing_VBG a_DT sample_NN according_VBG to_TO a_DT local_JJ optimization_NN criterio_NN ._.
+The_DT EASE_NN algorithm_NN by_IN Brönnimann_NNP et_FW al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, p_NN

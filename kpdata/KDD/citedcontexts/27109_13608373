@@ -1,0 +1,5 @@
+xpression_NN analysis_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Bipartite_JJ Spectral_JJ partitioning_NN is_VBZ a_DT powerful_JJ technique_NN to_TO achieve_VB biclustering_NN ._.
+Normalized_VBN cut_NN is_VBZ the_DT most_RBS popular_JJ objective_NN function_NN for_IN spectral_JJ partitioning_NN problem_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT absence_NN of_IN a_DT polynomial_JJ time_NN exact_JJ solution_NN for_IN this_DT problem_NN ,_, emphasis_NN is_VBZ on_IN finding_VBG efficient_JJ heuristics_NNS ._.
+A_DT popular_JJ implementation_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- requires_VBZ computation_NN of_IN the_DT Fiedler_NNP vector_NN for_IN Laplaci_NNP

@@ -1,0 +1,5 @@
+by_IN computers_NNS ._.
+This_DT paper_NN is_VBZ about_IN such_JJ reusing_NN ,_, viewing_NN and_CC dynamic_JJ networking_NN of_IN RDF_NNP graphs_NNS ._.
+For_IN this_DT purpose_NN ,_, we_PRP combine_VBP two_CD recent_JJ advancements_NNS in_IN the_DT RDF_NN domain_NN ,_, i.e._FW named_VBN graphs_NNS as_IN described_VBN in_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT query_JJ language_NN SPARQL_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+We_PRP come_VBP up_RP with_IN a_DT small_JJ ,_, but_CC powerful_JJ syntactic_JJ extension_NN of_IN RDF_NNP that_IN we_PRP call_VBP networked_JJ RDF_NNP graphs_NNS ._.
+We_PRP investigate_VBP its_PRP$ semantics_NNS by_IN a_DT mapping_NN to_TO logic_NN programs_NNS and_CC

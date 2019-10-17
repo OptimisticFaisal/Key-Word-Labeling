@@ -1,0 +1,4 @@
+among_IN their_PRP$ neighboring_JJ links_NNS ._.
+For_IN these_DT classes_NNS ,_, we_PRP may_MD benefit_VB from_IN more_RBR sophisticated_JJ algorithms_NNS ,_, which_WDT learn_VBP statistical_JJ dependencies_NNS between_IN neighbors_NNS instead_RB of_IN simply_RB relying_VBG on_IN link-homophily_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN both_DT traces_NNS ,_, NLC+RL_NN gives_VBZ very_RB good_JJ results_NNS for_IN challenging_JJ application_NN such_JJ as_IN P2P_NN and_CC games_NNS ._.
+With_IN only_RB 5_CD %_NN seed_NN size_NN ,_, NLC+RL_NN achieves_VBZ above_IN 95_CD %_NN Precision_NN and_CC Recall_VB in_IN identifying_VBG the_DT 3,500_CD flow_NN

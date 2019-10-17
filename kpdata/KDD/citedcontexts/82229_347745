@@ -1,0 +1,5 @@
+ies_NNS of_IN trajectories_NNS when_WRB the_DT trajectories_NNS contain_VBP little_JJ or_CC no_DT noise_NN ._.
+The_DT second_JJ test_NN uses_VBZ classification_NN of_IN labeled_JJ data_NNS to_TO evaluate_VB the_DT efficacy_NN of_IN a_DT distance_NN function_NN ,_, as_IN proposed_VBN by_IN Keogh_NNP et_FW al._FW =_SYM -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Specifically_RB ,_, each_DT trajectory_NN is_VBZ assigned_VBN a_DT class_NN label_NN ._.
+Then_RB the_DT ``_`` leave_VB one_PRP out_RP ''_'' prediction_NN mechanism_NN is_VBZ applied_VBN to_TO each_DT trajectory_NN 1_CD University_NNP of_IN California_NNP ,_, Irvine_NNP :_: http:\/\/kdd.ics.uci.edu_NN ._.
+2_CD The_DT

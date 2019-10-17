@@ -1,0 +1,3 @@
+rical_JJ results_NNS suggest_VBP the_DT intriguing_JJ possibility_NN that_IN the_DT Web_NN can_MD be_VB described_VBN with_IN only_JJ O_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- bits_NNS per_IN edge_NN on_IN average_NN ._.
+Two_CD properties_NNS are_VBP at_IN the_DT heart_NN of_IN the_DT compression_NN algorithm_NN of_IN Boldi_NNP and_CC Vigna_NNP =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+First_RB ,_, once_RB web_NN pages_NNS are_VBP sorted_VBN lexicographically_RB by_IN URL_NN ,_, the_DT set_NN of_IN out-links_NNS of_IN a_DT page_NN exhibits_VBZ locality_NN ;_: this_DT can_MD plausibly_RB be_VB attributed_VBN to_TO the_DT fact_NN that_IN nearby_JJ pages_NNS are_VBP likely_JJ to_TO come_VB from_IN th_DT

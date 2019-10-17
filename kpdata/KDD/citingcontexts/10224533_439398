@@ -1,0 +1,5 @@
+\/_: ms_NNS -RRB-_-RRB- ._.
+Similarly_RB ,_, if_IN association_NN rules_NNS with_IN base-rules_NNS with_IN a_DT minimum_NN confidence_NN mc_NN -RRB-_-RRB- 0_CD are_VBP considered_VBN ,_, it_PRP ranges_VBZ over_IN -LRB-_-LRB- 0_CD ,_, 1\/mc_NN -RRB-_-RRB- ._.
+The_DT extended_JJ lift_NN can_MD be_VB traced_VBN back_RB to_TO the_DT well-known_JJ measure_NN of_IN lift_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, defined_VBN as_IN :_: liftB_NN -LRB-_-LRB- A_NN →_NN C_NN -RRB-_-RRB- =_JJ confB_NN -LRB-_-LRB- A_NN →_NN C_NN -RRB-_-RRB- \/_: suppB_NN -LRB-_-LRB- C_NN -RRB-_-RRB- ,_, when_WRB B_NN =_JJ -LCB-_-LRB- T_NN ∈_NN D_NN |_NN B_NN ⊆_NN T_NN -RCB-_-RRB- ._.
+When_WRB B_NN is_VBZ empty_JJ ,_, the_DT extended_JJ lift_NN reduces_VBZ to_TO the_DT standard_JJ lift_NN .4_NN ._.
+MEASURING_VBG DISCRIMINATION_NN 4.1_CD Discriminatory_JJ Itemsets_NNS a_DT

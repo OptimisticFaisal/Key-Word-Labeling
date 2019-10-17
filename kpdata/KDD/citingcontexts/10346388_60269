@@ -1,0 +1,3 @@
+way_NN to_TO improve_VB naive_JJ Bayes_NNS by_IN slightly_RB relaxing_VBG the_DT conditional_JJ independence_NN assumption_NN ,_, which_WDT can_MD be_VB analogous_JJ to_TO several_JJ previous_JJ efforts_NNS on_IN enhancing_VBG the_DT prediction_NN accuracy_NN of_IN naive_JJ Bayes_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 2_CD ,_, 27_CD ,_, 19_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+In_IN contrast_NN ,_, our_PRP$ PLR_NNP model_NN applies_VBZ the_DT naive_JJ Bayes_NNP assumption_NN to_TO combine_VB multiple_JJ logistic_JJ regression_NN models_NNS ._.
+It_PRP is_VBZ not_RB only_RB better_JJR than_IN naive_JJ Bayes_NNS ,_, but_CC also_RB somewhat_RB unexpectedly_RB outperforms_VBZ logi_NNS

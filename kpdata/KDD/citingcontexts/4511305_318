@@ -1,0 +1,4 @@
+users_NNS ._.
+The_DT main_JJ techniques_NNS for_IN pattern_NN discovery_NN are_VBP sequential_JJ patterns_NNS ,_, association_NN rules_NNS ,_, Markov_NNP models_NNS ,_, and_CC clustering_NN ._.
+There_EX have_VBP been_VBN attempts_NNS to_TO use_VB association_NN rules_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, sequential_JJ patterns_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC Markov_NNP models_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- in_IN recommender_NN systems_NNS ._.
+These_DT techniques_NNS work_VBP well_RB for_IN Web_NN sites_NNS that_WDT do_VBP not_RB have_VB a_DT complex_JJ structure_NN ,_, but_CC experiments_NNS on_IN complex_NN ,_, highly_RB interconnected_JJ sites_NNS show_VBP that_IN the_DT st_NN

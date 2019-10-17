@@ -1,0 +1,6 @@
+the_DT optimal_JJ XC_NN requires_VBZ a_DT potentially_RB exponential_JJ search_NN ._.
+In_IN practice_NN ,_, XC_NN can_MD be_VB found_VBN using_VBG standard_JJ feature_NN selection_NN algorithms_NNS with_IN UC_NN as_IN the_DT evaluation_NN function_NN ._.
+We_PRP use_VBP greedy_JJ forward_JJ selection_NN -LRB-_-LRB- =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: -RRB-_-RRB- in_IN our_PRP$ experiments_NNS ._.
+-LRB-_-LRB- Feature_NN selection_NN can_MD also_RB be_VB carried_VBN out_RP online_NN ,_, but_CC we_PRP do_VBP not_RB pursue_VB that_DT approach_NN here_RB ._. -RRB-_-RRB-
+4_LS ._.
+ADVERSARY_NN STRATEGY_NN In_IN this_DT section_NN ,_, we_PRP formalize_VBP the_DT notion_NN of_IN an_DT optimal_JJ strategy_NN

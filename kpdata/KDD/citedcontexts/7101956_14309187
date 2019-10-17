@@ -1,0 +1,4 @@
+lled_VBN K-NN_NN -LRB-_-LRB- user_NN effect_NN -RRB-_-RRB- ._.
+An_DT alternative_JJ way_NN to_TO estimate_VB itemto-item_JJ interpolation_NN weights_NNS is_VBZ by_IN solving_VBG a_DT least_JJS squares_NNS problem_NN minimizing_VBG the_DT error_NN of_IN the_DT prediction_NN rule_NN ._.
+This_DT strategy_NN ,_, proposed_VBN in_IN =_JJ -_: =[_NN 1_CD ,_, 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, defines_VBZ the_DT Neighborhood_NN Relationship_NN Model_NNP ,_, one_CD of_IN the_DT most_RBS effective_JJ approaches_NNS applied_VBN during_IN the_DT Netflix_NNP prize_NN ._.
+r_NN u_NN m_NN is_VBZ computed_VBN as_IN :_: r_NN u_NN m_NN =_JJ K_NN ∑_FW i_FW =_JJ 1_CD -LRB-_-LRB- 3_CD -RRB-_-RRB- -LRB-_-LRB- 4_CD -RRB-_-RRB- -LRB-_-LRB- 5_CD -RRB-_-RRB- w_NN m_NN m_NN i_FW ˆr_FW u_FW m_NN i_LS -LRB-_-LRB- 6_CD -RRB-_-RRB- Where_WRB mi_FW is_VBZ

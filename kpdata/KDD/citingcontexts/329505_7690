@@ -1,0 +1,4 @@
+e_LS than_IN mining_NN boolean_NN databases_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP to_TO mine_VB correlations_NNS from_IN quantitative_JJ databases_NNS using_VBG an_DT information-theoretic_JJ approach_NN ._.
+We_PRP study_VBD the_DT properties_NNS of_IN Mutual_NNP Information_NNP -LRB-_-LRB- MI_NNP -RRB-_-RRB- =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: on_IN quantitative_JJ databases_NNS and_CC define_VB Normalized_NNP Mutual_NNP Information_NNP -LRB-_-LRB- NMI_NNP -RRB-_-RRB- that_WDT is_VBZ to_TO be_VB applied_VBN in_IN the_DT context_NN of_IN correlation_NN mining_NN ._.
+Then_RB ,_, we_PRP propose_VBP a_DT new_JJ notion_NN of_IN Quantitative_JJ Correlated_JJ Patterns_NN

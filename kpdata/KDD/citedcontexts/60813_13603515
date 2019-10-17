@@ -1,0 +1,4 @@
+traint_NN sets_VBZ dramatically_RB -LRB-_-LRB- 32_CD -RRB-_-RRB- ._.
+Generally_RB ,_, this_DT method_NN can_MD converge_VB quickly_RB since_IN it_PRP just_RB selects_VBZ very_RB few_JJ violated_VBN constraints_NNS ._.
+Instead_RB of_IN learning_VBG a_DT semi-supervised_JJ classifiers_NNS directly_RB ,_, Basu_NNP et_FW al._FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Xing_NNP et_FW al._FW -LRB-_-LRB- 28_CD -RRB-_-RRB- investigated_VBD the_DT learning_NN of_IN distance_NN metric_NN based_VBN on_IN pairwise_JJ constraints_NNS such_JJ as_IN `_`` must-link_JJ '_'' and_CC `_`` cannot-link_NN '_'' ._.
+Recently_RB ,_, sparse_JJ coding_NN -LRB-_-LRB- SC_NN -RRB-_-RRB- -LRB-_-LRB- 21_CD -RRB-_-RRB- has_VBZ been_VBN proposed_VBN to_TO learn_VB a_DT s_NN

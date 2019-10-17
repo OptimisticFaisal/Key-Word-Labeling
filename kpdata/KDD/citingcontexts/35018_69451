@@ -1,0 +1,4 @@
+n_NN also_RB be_VB used_VBN as_IN an_DT effective_JJ initialization_NN method_NN for_IN existing_VBG cluster_NN refinement_NN algorithms_NNS such_JJ as_IN EM_NN ._.
+Discrete_JJ clustering_NN algorithms_NNS ,_, as_IN opposed_VBN to_TO generalized_JJ frequent_JJ itemsets_NNS ,_, include_VBP CACTUS_NN =_JJ -_: =_JJ -LRB-_-LRB- GGR99_NN -RRB-_-RRB- -_: =_JJ -_: ,_, STIRR_NN -LRB-_-LRB- GKR98_NN -RRB-_-RRB- ,_, and_CC ROCK_NN -LRB-_-LRB- GRS99_NN -RRB-_-RRB- ._.
+The_DT first_JJ two_CD require_VBP the_DT computation_NN of_IN a_DT similarity_NN matrix_NN between_IN all_DT attributes_NNS -LRB-_-LRB- items_NNS -RRB-_-RRB- ,_, which_WDT takes_VBZ O_NN -LRB-_-LRB- d_NN 2_CD -RRB-_-RRB- time_NN -LRB-_-LRB- d_NN =_JJ number_NN of_IN attributes_NNS -RRB-_-RRB- ._.
+CACTUS_NN uses_VBZ a_DT more_JJR

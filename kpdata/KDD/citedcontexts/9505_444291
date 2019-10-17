@@ -1,0 +1,7 @@
+ete_NN collection_NN ._.
+Looking_VBG for_IN such_JJ functions_NNS is_VBZ clearly_RB one_CD of_IN the_DT main_JJ challenges_NNS for_IN further_JJ work_NN ._.
+Let_VB us_PRP come_VB back_RB to_TO other_JJ related_JJ work_NN ._.
+Co-clustering_JJ -LRB-_-LRB- bi-clustering_JJ -RRB-_-RRB- can_MD be_VB applied_VBN to_TO Boolean_JJ data_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP provides_VBZ linked_JJ partitions_NNS on_IN both_DT dimensions_NNS and_CC it_PRP tends_VBZ to_TO compute_VB rectangles_NNS with_IN mainly_RB true_JJ -LRB-_-LRB- resp_NN ._.
+false_JJ -RRB-_-RRB- values_NNS ._.
+Heuristic_JJ techniques_NNS -LRB-_-LRB- i.e._FW ,_, local_JJ optimization_NN -RRB-_-RRB- enable_VBP to_TO compute_VB one_CD bi-pa_NN

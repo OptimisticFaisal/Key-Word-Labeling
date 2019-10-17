@@ -1,0 +1,5 @@
+en_IN introduced_VBN ._.
+These_DT subsets_NNS of_IN frequent_JJ patterns_NNS are_VBP more_RBR concise_JJ and_CC allow_VB to_TO derive_VB all_PDT the_DT frequent_JJ patterns_NNS ._.
+However_RB ,_, the_DT patterns_NNS thus_RB generated_VBN are_VBP still_RB too_RB many_JJ to_TO handle_VB ._.
+As_IN an_DT alternative_JJ ,_, =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: finds_VBZ the_DT top-k_NN frequent_JJ closed_JJ patterns_NNS of_IN length_NN no_RB less_JJR than_IN a_DT given_VBN threshold_NN ._.
+While_IN this_DT approach_NN effectively_RB limits_VBZ the_DT output_NN size_NN ,_, the_DT returned_VBN patterns_NNS are_VBP often_RB not_RB representative_JJ of_IN the_DT en_FW

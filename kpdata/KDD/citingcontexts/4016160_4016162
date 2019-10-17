@@ -1,0 +1,3 @@
+cal_JJ exhaustive_JJ Granger_NN method_NN and_CC the_DT Lasso-Granger_NNP method_NN ._.
+We_PRP also_RB compare_VBP their_PRP$ performance_NN against_IN some_DT benchmark_JJ methods_NNS for_IN time_NN series_NN analysis_NN ,_, including_VBG the_DT vector_NN autoregression_NN -LRB-_-LRB- VAR_NN -RRB-_-RRB- method_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT SIN_NN method_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- tailored_VBN to_TO handle_VB time-series_JJ analysis_NN ._.
+We_PRP attempt_VBP to_TO characterize_VB the_DT relative_JJ performance_NN of_IN these_DT competing_VBG methods_NNS ,_, by_IN conducting_VBG a_DT host_NN of_IN systematic_JJ simulation_NN experimen_NNS

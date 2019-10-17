@@ -1,0 +1,3 @@
+Section_NN 4.2.1_CD ,_, our_PRP$ clustering_NN model_NN can_MD be_VB thought_VBN of_IN as_IN an_DT approximate_JJ iterative_JJ information_NN bottleneck_NN method_NN ._.
+The_DT information_NN bottleneck_NN -LRB-_-LRB- IB_NN -RRB-_-RRB- framework_NN is_VBZ first_RB introduced_VBN for_IN onesided_JJ clustering_NN =_JJ -_: =[_NN 36_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT core_NN idea_NN of_IN IB_NN is_VBZ as_IN follows_VBZ :_: given_VBN the_DT empirical_JJ joint_JJ distribution_NN of_IN two_CD variables_NNS -LRB-_-LRB- X_NN ,_, Y_NN -RRB-_-RRB- ,_, one_CD variable_NN is_VBZ compressed_VBN so_IN that_IN the_DT mutual_JJ information_NN about_IN the_DT other_JJ is_VBZ preserved_VBN as_RB much_RB as_IN po_NN

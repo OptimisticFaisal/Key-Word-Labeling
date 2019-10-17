@@ -1,0 +1,5 @@
+ning_JJ classifiers_NNS ._.
+There_EX has_VBZ also_RB been_VBN extensive_JJ work_NN on_IN overcoming_VBG label_NN sparsity_NN through_IN techniques_NNS for_IN label_NN propagation_NN ._.
+This_DT work_NN falls_VBZ into_IN two_CD research_NN areas_NNS :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- collective_JJ classification_NN -LRB-_-LRB- CC_NN -RRB-_-RRB- =_JJ -_: =[_NN 2_CD ,_, 6_CD ,_, 8_CD ,_, 9_CD ,_, 13_CD ,_, 15_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- graph-based_JJ semi-supervised_JJ learning_NN -LRB-_-LRB- SSL_NN -RRB-_-RRB- -LRB-_-LRB- 18_CD ,_, 19_CD -RRB-_-RRB- ._.
+Previous_JJ work_NN confirms_VBZ our_PRP$ observation_NN that_IN the_DT performance_NN of_IN CC_NN can_MD suffer_VB when_WRB labeled_VBN data_NNS is_VBZ very_RB sparse_JJ -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+Other_JJ research_NN shows_VBZ t_NN

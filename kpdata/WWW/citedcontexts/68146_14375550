@@ -1,0 +1,3 @@
+ed_VBN to_TO the_DT behavioral_JJ interface_NN level_NN where_WRB Behavioral_NNP Interface_NNP Description_NN Languages_NNS -LRB-_-LRB- BIDL_NN -RRB-_-RRB- and_CC related_JJ formal_JJ verification_NN techniques_NNS have_VBP emerged_VBN as_IN a_DT solution_NN to_TO detect_VB behavioral_JJ mismatch_NN ,_, e.g._FW ,_, =_JJ -_: =[_NN 2_CD ,_, 8_CD ,_, 17_CD ,_, 18_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, once_RB mismatch_NN is_VBZ detected_VBN ,_, the_DT issue_NN of_IN how_WRB components_NNS can_MD be_VB corrected_VBN to_TO enable_VB further_JJ composition_NN arises_VBZ ._.
+Software_NNP Adaptation_NNP -LRB-_-LRB- 35_CD ,_, 28_CD ,_, 6_CD -RRB-_-RRB- is_VBZ a_DT promising_JJ approach_NN which_WDT aims_VBZ at_IN supportin_NN

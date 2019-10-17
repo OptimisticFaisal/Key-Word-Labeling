@@ -1,0 +1,4 @@
+h_NN as_IN possible_JJ ,_, thus_RB we_PRP prefer_VBP ``_`` dimension_NN reduction_NN ''_'' ,_, rather_RB than_IN labels_NNS like_IN ``_`` clustering_NN technique_NN ''_'' ._.
+To_TO implement_VB this_DT intuition_NN ,_, we_PRP propose_VBP to_TO select_VB labels_NNS with_IN the_DT Maximal_JJ Marginal_JJ Relevance_NN -LRB-_-LRB- MMR_NN -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: criterion_NN ._.
+MMR_NN is_VBZ commonly_RB used_VBN in_IN information_NN retrieval_NN tasks_NNS ,_, where_WRB both_DT high_JJ relevance_NN and_CC low_JJ redundancy_NN of_IN retrieval_NN results_NNS are_VBP desired_VBN ._.
+Specifically_RB ,_, we_PRP select_VBP labels_NNS one_CD by_IN one_CD ,_, by_IN maximizing_VBG

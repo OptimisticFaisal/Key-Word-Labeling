@@ -1,0 +1,4 @@
+IE_NN systems_NNS that_WDT require_VBP unlabelled_JJ training_NN examples_NNS are_VBP comparably_RB difficult_JJ and_CC are_VBP available_JJ only_RB for_IN specific_JJ input_NN ._.
+We_PRP know_VBP of_IN three_CD previous_JJ works_NNS on_IN automatic_JJ extraction_NN so_RB far_RB ,_, namely_RB ,_, IEPAD_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, ROADRUNNER_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC EXALG_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+One_CD common_JJ assumption_NN of_IN these_DT works_NNS is_VBZ that_IN the_DT input_NN pages_NNS conform_VBP to_TO a_DT common_JJ schema_NN and_CC template_NN as_IN the_DT pages_NNS we_PRP discuss_VBP in_IN Figure_NNP 1_CD ._.
+However_RB ,_, there_EX are_VBP fundamental_JJ

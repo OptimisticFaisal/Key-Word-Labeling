@@ -1,0 +1,4 @@
+xtent_JJ capable_JJ of_IN handling_VBG exceptions_NNS ._.
+However_RB ,_, since_IN the_DT main_JJ objective_NN is_VBZ to_TO find_VB clusters_NNS ,_, they_PRP are_VBP developed_VBN to_TO optimize_VB clustering_NN ,_, and_CC regard_NN outliers_NNS as_IN ``_`` by-products_NNS ''_'' ._.
+Distance_NNP based_VBN approaches_NNS =_JJ -_: =[_NN 9,10,11,12,13,14,15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, first_RB proposed_VBN by_IN E.M._NNP Knorr_NNP and_CC R.T._NNP Ng_NNP -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, attempt_NN to_TO overcome_VB limitations_NNS of_IN distribution-based_JJ approach_NN and_CC they_PRP detect_VBP outliers_NNS by_IN computing_VBG distances_NNS among_IN points_NNS ._.
+A_DT point_NN p_NN in_IN a_DT data_NN set_NN T_NN i_LS

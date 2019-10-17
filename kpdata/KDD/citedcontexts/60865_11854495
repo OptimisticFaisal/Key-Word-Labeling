@@ -1,0 +1,4 @@
+proposing_VBG an_DT active_JJ sampling_NN approach_NN for_IN rank_NN learning_NN in_IN the_DT context_NN of_IN document_NN retrieval_NN ._.
+A_DT small_JJ number_NN of_IN different_JJ algorithms_NNS have_VBP been_VBN proposed_VBN for_IN supervised_JJ rank_NN learning_VBG in_IN the_DT literature_NN =_JJ -_: =[_NN 4_CD ,_, 11_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Moreover_RB ,_, standard_JJ Support_NN Vector_NNP Machine_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- training_NN surprisingly_RB leads_VBZ to_TO very_RB good_JJ performance_NN on_IN various_JJ ranking_JJ problems_NNS with_IN respect_NN to_TO the_DT corresponding_JJ ordering_VBG metrics_NNS -LRB-_-LRB- 2_CD ,_, 17_CD ,_, 23_CD -RRB-_-RRB- ._.
+SVM_NN s_NN

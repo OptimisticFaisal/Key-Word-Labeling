@@ -1,0 +1,3 @@
+ing_FW algorithms_FW havelittle_NN meaning_NN ,_, as_IN the_DT pairwise_JJ distances_NNS between_IN the_DT points_NNS in_IN distinct_JJ clusters_NNS need_VBP not_RB provide_VB an_DT acceptable_JJ contrast_NN ._.
+Solutions_NNPS proposed_VBN include_VBP ,_, designing_VBG new_JJ distance_NN metrics_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: and_CC dimension_NN reduction_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Dimension_NN reduc-tion_NN techniques_NNS ,_, such_JJ as_IN the_DT Karhunen-Loeve_JJ transformation_NN -LRB-_-LRB- KLT_NN -RRB-_-RRB- or_CC singular_JJ value_NN decomposition_NN -LRB-_-LRB- SVD_NN -RRB-_-RRB- ,_, projectthe_NN dataset_NN from_IN the_DT original_JJ d_NN to_TO a_DT k_NN dim_NN

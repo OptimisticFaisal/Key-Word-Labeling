@@ -1,0 +1,4 @@
+ub_IN Stanford_NNP University_NNP Abstract_NNP ._.
+We_PRP present_VBP a_DT novel_JJ technique_NN for_IN speeding_VBG up_RP the_DT computation_NN of_IN PageRank_NNP ,_, a_DT hyperlink-based_JJ estimate_NN of_IN the_DT ``_`` importance_NN ''_'' of_IN Web_NN pages_NNS ,_, based_VBN on_IN the_DT ideas_NNS presented_VBN in_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT original_JJ PageRank_NN algorithm_NN uses_VBZ the_DT Power_NNP Method_NNP to_TO compute_VB successive_JJ iterates_NNS that_WDT converge_VBP to_TO the_DT principal_JJ eigenvector_NN of_IN the_DT Markov_NNP matrix_NN representing_VBG the_DT Web_NN link_NN graph_NN ._.
+The_DT algorithm_NN pr_NN

@@ -1,0 +1,5 @@
+s_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- have_VBP been_VBN used_VBN to_TO efficiently_RB capture_VB the_DT relation_NN in_IN data_NNS ._.
+Unfortunately_RB ,_, these_DT approaches_NNS have_VBP not_RB been_VBN proved_VBN to_TO scale_VB as_IN they_PRP have_VBP been_VBN tested_VBN only_RB on_IN small_JJ data_NNS sets_NNS ._.
+Van_NNP der_NNP Aalst_NNP et_FW al._FW =_SYM -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: extract_VB a_DT social_JJ network_NN from_IN logs_NNS of_IN interactions_NNS between_IN workers_NNS in_IN a_DT company_NN ._.
+Similar_JJ works_NNS include_VBP mining_NN email_NN communications_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC proximity_NN interactions_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+In_IN each_DT case_NN ,_, the_DT authors_NNS start_VBP

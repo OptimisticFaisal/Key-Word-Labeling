@@ -1,0 +1,4 @@
+orted_VBN as_IN a_DT normal_JJ page_NN ._.
+2.3_CD Term_NN Spamicity_NN and_CC Term_NN Spam_NN Detection_NN The_DT term-based_JJ ranking_NN methods_NNS such_JJ as_IN TFIDF_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- adopted_VBN by_IN web_NN search_NN engines_NNS are_VBP victims_NNS of_IN term_NN spam_NN ._.
+The_DT previous_JJ studies_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =--RRB-_NN showed_VBD that_IN the_DT algorithms_NNS used_VBN by_IN search_NN engines_NNS to_TO rank_VB web_NN pages_NNS based_VBN on_IN their_PRP$ content_NN information_NN use_VBP various_JJ forms_NNS of_IN the_DT fundamental_JJ TFIDF_NN metric_NN ._.
+A_DT web_NN page_NN p_NN and_CC a_DT search_NN query_NN Q_NNP can_MD be_VB reg_NN

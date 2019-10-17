@@ -1,0 +1,4 @@
+the_DT cost_NN of_IN excessive_JJ computational_JJ requirements_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN we_PRP focus_VBP on_IN the_DT use_NN of_IN two_CD such_JJ extensions_NNS ,_, namely_RB Tree_NN Augmented_JJ Naïve_FW Bayes_FW classifier_NN -LRB-_-LRB- TAN_NN -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- and_CC LB_NN or_CC Large_JJ Bayes_NNS Classifier_NN =_JJ -_: =_JJ -LRB-_-LRB- 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+TAN_NNP is_VBZ a_DT global_JJ Bayesian_JJ classifier_NN that_WDT relaxes_VBZ the_DT independence_NN assumptions_NNS of_IN NB_NN by_IN taking_VBG into_IN account_NN dependencies_NNS between_IN pairs_NNS of_IN features_NNS ._.
+LB_NN is_VBZ a_DT very_RB competitive_JJ local\/lazy_JJ Bayesian_NN

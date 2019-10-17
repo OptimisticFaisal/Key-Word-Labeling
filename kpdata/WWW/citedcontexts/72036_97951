@@ -1,0 +1,5 @@
+le_DT for_IN each_DT entity_NN ._.
+A_DT common_JJ approach_NN for_IN extracting_VBG data_NNS from_IN Web_NN sources_NNS is_VBZ to_TO build_VB wrappers_NNS -LRB-_-LRB- 28_CD ,_, 23_CD ,_, 8_CD ,_, 36_CD ,_, 15_CD ,_, 2_CD ,_, 32_CD ,_, 26_CD ,_, 7_CD -RRB-_-RRB- ._.
+Among_IN these_DT assorted_JJ approaches_NNS learning-based_JJ extraction_NN techniques_NNS =_JJ -_: =[_NN 26_CD ,_, 10_CD ,_, 31_CD ,_, 7_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP becoming_VBG important_JJ since_IN they_PRP exhibit_VBP a_DT high_JJ degree_NN of_IN automation_NN and_CC scalability_NN ._.
+Extraction_NN based_VBN on_IN learning_VBG techniques_NNS is_VBZ a_DT two_CD step_NN process_NN ._.
+In_FW thesrst_FW step_NN ,_, called_VBN labeling_NN ,_, examples_NNS of_IN rel_NN

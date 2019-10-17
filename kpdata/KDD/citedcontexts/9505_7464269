@@ -1,0 +1,4 @@
+ts_NNS by_IN the_DT score_NN of_IN the_DT queries_NNS it_PRP matches_VBZ ._.
+The_DT ¯_FW rij_FW values_NNS form_VBP a_DT contingency_NN matrix_NN R_NN ,_, which_WDT can_MD be_VB seen_VBN as_IN a_DT joint_JJ probability_NN distribution_NN and_CC used_VBN by_IN the_DT co-clustering_JJ algorithm_NN by_IN Dhillon_NNP et_FW al._FW =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Their_PRP$ approach_NN creates_VBZ ,_, simultaneously_RB ,_, clusters_NNS of_IN rows_NNS -LRB-_-LRB- queries_NNS -RRB-_-RRB- and_CC columns_NNS -LRB-_-LRB- documents_NNS -RRB-_-RRB- out_IN of_IN an_DT initial_JJ matrix_NN ,_, with_IN the_DT goal_NN of_IN minimizing_VBG the_DT loss_NN of_IN information_NN ._.
+To_TO improve_VB performance_NN ,_, empt_NN

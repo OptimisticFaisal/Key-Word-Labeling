@@ -1,0 +1,4 @@
+over_IN Λ_NN with_IN fixed_JJ mean_NN and_CC variance_NN to_TO mitigate_VB over-fitting_JJ ._.
+We_PRP find_VBP the_DT setting_NN of_IN Λ_NN that_WDT minimizes_VBZ Equation_NN 5_CD using_VBG limited-memory_JJ BFGS_NN ,_, a_DT gradient_NN ascent_NN method_NN with_IN a_DT second-order_JJ approximation_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+5.3.2_FW MIRA_FW MIRA_NN -LRB-_-LRB- Margin_NN Infused_VBN Relaxed_JJ Algorithm_NN -RRB-_-RRB- is_VBZ a_DT relaxed_VBN ,_, online_JJ maximum_NN margin_NN training_NN algorithm_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+It_PRP iteratively_RB cycles_NNS through_IN the_DT training_NN set_NN and_CC updates_NNS the_DT parameter_NN vector_NN with_IN tw_NN

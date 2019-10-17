@@ -1,0 +1,5 @@
+most_JJS all_DT experiments_NNS APRIORI_NNP with_IN the_DT ascending_VBG order_NN turned_VBD out_RP to_TO be_VB the_DT fastest_JJS ,_, and_CC the_DT one_NN that_WDT used_VBD descending_VBG ordering_VBG was_VBD the_DT slowest_JJS ._.
+Highest_JJS difference_NN -LRB-_-LRB- 6_CD fold_NN -RRB-_-RRB- was_VBD in_IN the_DT case_NN ofretail_NN ._.
+dat_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT experiments_NNS support_VBP the_DT previously_RB stated_VBN ,_, but_CC further_RB unexplained_JJ observation_NN ,_, i.e._FW ascending_VBG order_NN is_VBZ the_DT best_JJS order_NN to_TO use_VB in_IN APRIORI_NNP ._.
+We_PRP have_VBP seen_VBN that_IN a_DT trie_NN that_WDT uses_VBZ descending_VBG order_NN is_VBZ

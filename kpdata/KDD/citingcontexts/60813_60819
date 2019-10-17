@@ -1,0 +1,3 @@
+r_NN the_DT hidden_JJ variables_NNS ._.
+As_IN a_DT result_NN ,_, computing_VBG the_DT assignment_NN of_IN data_NNS points_NNS to_TO cluster_VB representatives_NNS to_TO minimize_VB the_DT objective_JJ function_NN is_VBZ computationally_RB intractable_JJ in_IN any_DT non-trivial_JJ HMRF_NN model_NN =_JJ -_: =[_NN 36_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX exist_VBP several_JJ techniques_NNS for_IN computing_NN cluster_NN assignments_NNS that_IN approximate_JJ the_DT optimal_JJ solution_NN in_IN this_DT framework_NN ,_, e.g._FW ,_, iterated_JJ conditional_JJ modes_NNS -LRB-_-LRB- ICM_NNP -RRB-_-RRB- -LRB-_-LRB- 9_CD ,_, 40_CD -RRB-_-RRB- ,_, belief_NN propagation_NN -LRB-_-LRB- 34_CD ,_, 36_CD -RRB-_-RRB- ,_,

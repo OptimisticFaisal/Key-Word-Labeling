@@ -1,0 +1,3 @@
+he_PRP data_NNS sources_NNS about_IN relationships_NNS among_IN samples_NNS -_: miRNA_NN and_CC miRNAs_NN expression_NN profiles_NNS sharing_VBG the_DT same_JJ set_NN of_IN samples_NNS ._.
+Recent_JJ studies_NNS suggest_VBP the_DT role_NN of_IN miRNA_NN as_IN both_DT oncogenes_NNS and_CC anti-oncogenes_NNS =_SYM -_: =[_NN 11_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN instance_NN ,_, miR15_NN and_CC miR-16_NN have_VBP been_VBN shown_VBN to_TO induce_VB apoptosis_NN by_IN targeting_VBG BCL2_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, acting_VBG as_IN anti-oncogenes_NNS ,_, whereas_IN miR-21_NN targets_VBZ the_DT tumor_NN suppressor_NN gene_NN TPM1_NN and_CC blocks_VBZ apopto839sis_NN ,_, th_DT

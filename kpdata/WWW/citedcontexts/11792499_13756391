@@ -1,0 +1,4 @@
+t_NN a_DT popular_JJ kernel_NN method_NN -LRB-_-LRB- Worton_NNP 1989_CD -RRB-_-RRB- ,_, which_WDT is_VBZ designed_VBN for_IN the_DT purpose_NN of_IN finding_VBG home_NN ranges_NNS of_IN animals_NNS ._.
+For_IN human_JJ movement_NN ,_, we_PRP may_MD use_VB important_JJ location_NN detection_NN methods_NNS in_IN -LRB-_-LRB- Liao_NNP et_FW al._FW 2005_CD ;_: =_JJ -_: =_JJ Zheng_NNP et_FW al._FW 2010_CD -_: =-]_CD ._.
+While_IN computing_VBG the_DT density_NN for_IN each_DT location_NN in_IN a_DT continuous_JJ space_NN is_VBZ computationally_RB expensive_JJ ,_, we_PRP discretize_VBP the_DT space_NN into_IN a_DT regular_JJ w_NN ×_CD h_NN grid_NN and_CC compute_VB the_DT density_NN for_IN each_DT cell_NN ._.
+The_DT grid_NN siz_NN

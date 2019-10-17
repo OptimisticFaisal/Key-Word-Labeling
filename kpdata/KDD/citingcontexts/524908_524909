@@ -1,0 +1,8 @@
+mpled_VBN object_NN is_VBZ the_DT centroid_NN of_IN a_DT partition_NN ;_: hence_RB ,_, we_PRP denote_VBP the_DT s_NN samples_NNS as_IN PA1_NN ._.
+o_NN ,_, ..._: ,_, PAs_NNS ._.
+o_NN respectively_RB ,_, after_IN the_DT partitions_NNS they_PRP represent_VBP ._.
+Besides_IN its_PRP$ centroid_NN ,_, a_DT partition_NN PAi_NNS -LRB-_-LRB- for_IN some_DT i_FW ∈_FW =_SYM -_: =[_NN 1_CD ,_, s_NNS -RRB-_-RRB- -_: =--RRB-_NN includes_VBZ all_PDT the_DT objects_NNS o_NN ∈_NN R_NN that_WDT satisfy_VBP two_CD conditions_NNS :_: 1_CD ._.
+the_DT distance_NN from_IN o_NN to_TO PAi_NNS ._.
+o_NN is_VBZ no_RB more_JJR than_IN r\/2_NN -LRB-_-LRB- i.e._FW ,_, half_PDT the_DT parameter_NN r_NN of_IN outlier_NN definition_NN -RRB-_-RRB- ,_, and_CC 2_CD ._.
+o_NN is_VBZ nearer_IN to_TO PAi_NNS ._.
+o_NN than_IN t_NN

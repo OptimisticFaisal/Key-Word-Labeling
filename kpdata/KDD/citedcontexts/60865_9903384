@@ -1,0 +1,4 @@
+ly_RB ._.
+Finally_RB ,_, each_DT ranking_JJ function_NN will_MD be_VB tailored_VBN to_TO the_DT user_NN training_NN it_PRP ,_, while_IN traditional_JJ query-based_JJ ranking_NN methods_NNS such_JJ as_IN tf_NN \*_NN idf_NN would_MD produce_VB the_DT same_JJ ordering_VBG for_IN any_DT given_VBN query_NN ._.
+Joachims_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: argued_VBD that_IN ,_, ``_`` experience_NN shows_VBZ that_IN users_NNS are_VBP only_RB rarely_RB willing_JJ to_TO give_VB explicit_JJ feedback_NN ._. ''_''
+We_PRP agree_VBP with_IN this_DT point_NN in_IN general_JJ ,_, but_CC experience_NN has_VBZ shown_VBN us_PRP that_IN biomedical_JJ professionals_NNS are_VBP highly_RB

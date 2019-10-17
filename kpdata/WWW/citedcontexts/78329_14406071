@@ -1,0 +1,4 @@
+the_DT absolute_JJ similarity_NN value_NN is_VBZ not_RB consistent_JJ across_IN different_JJ target_NN words_NNS selected_VBN ._.
+We_PRP compare_VBP PMImax_NN with_IN basic_JJ PMI_NN on_IN two_CD other_JJ standard_JJ datasets_NNS :_: Rubenstein-Goodenough_NN -LRB-_-LRB- RG_NN -RRB-_-RRB- -LRB-_-LRB- 47_CD -RRB-_-RRB- and_CC WordSim353_NN =_JJ -_: =[_NN 48_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Among_IN 65_CD word_NN pairs_NNS in_IN the_DT RG_NN dataset_NN we_PRP removed_VBD five_CD with_IN undefined_JJ PMI_NN and_CC PMImax_NN values_NNS ,_, and_CC performed_VBD the_DT experiment_NN on_IN the_DT rest_NN ._.
+WordSim353_NN contains_VBZ 353_CD word_NN pairs_NNS ,_, each_DT of_IN which_WDT is_VBZ scored_VBN by_IN 1_CD

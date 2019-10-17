@@ -1,0 +1,5 @@
+y_NN ontologies_NNS networked_VBN together_RB by_IN mappings_NNS ._.
+In_IN this_DT vision_NN ,_, the_DT Semantic_JJ Web_NN is_VBZ a_DT huge_JJ semantic_JJ peer_VBP data_NNS management_NN system_NN -LRB-_-LRB- PDMS_NN -RRB-_-RRB- ._.
+Some_DT PDMSs_NNS have_VBP been_VBN developped_VBN for_IN the_DT Semantic_JJ Web_NN like_IN Edutella_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, RDFPeers_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, GridVine_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- or_CC SomeOWL_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Edutella_NNP ,_, RDFPeers_NNP and_CC GridVine_NNP use_VBP RDF_NN while_IN SomeOWL_NN uses_VBZ a_DT fragment_NN of_IN OWL_NN ._.
+Edutella_NNP is_VBZ made_VBN of_IN a_DT network_NN of_IN super-peers_NNS ,_, the_DT topology_NN of_IN which_WDT is_VBZ a_DT hype_NN

@@ -1,0 +1,4 @@
+y_NN social_JJ aspects_NNS are_VBP merely_RB secondary_JJ effects_NNS ._.
+The_DT notion_NN of_IN ``_`` following_VBG ''_'' in_IN actual_JJ social_JJ networks_NNS is_VBZ stronger_JJR than_IN in_IN the_DT graph_NN we_PRP derived_VBD from_IN the_DT StackOverflow_NNP dataset_NN ._.
+6_CD ._.
+FUTURE_NNS WORK_VBP Chen_NNP ,_, et_FW al._FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: point_NN out_IN the_DT infeasibility_NN of_IN running_VBG the_DT greedy_JJ algorithm_NN proposed_VBN by_IN Kempe_NNP ,_, et_FW al._FW -LRB-_-LRB- 13_CD -RRB-_-RRB- on_IN very_RB large_JJ datasets_NNS and_CC puts_VBZ forward_JJ degree_NN discount_NN heuristics_NNS which_WDT provide_VBP comparable_JJ results_NNS with_IN com_NN

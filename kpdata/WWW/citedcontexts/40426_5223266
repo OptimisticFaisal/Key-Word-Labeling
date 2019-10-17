@@ -1,0 +1,4 @@
+rue_NN link_NN structure_NN ,_, but_CC ,_, along_IN with_IN slower_JJR convergence_NN ,_, sensitivity_NN issues_NNS begin_VBP to_TO surface_VB in_IN the_DT sense_NN that_IN slightly_RB different_JJ values_NNS for_IN α_NN near_IN 1_CD can_MD produce_VB significantly_RB different_JJ PageRanks_NNP ._.
+15_CD ._.
+=_SYM -_: =_JJ -LRB-_-LRB- KHM03a_NN -RRB-_-RRB- -_: =_SYM -_: The_DT power_NN method_NN can_MD be_VB substantially_RB accelerated_VBN by_IN a_DT quadratic_JJ extrapolation_NN technique_NN similar_JJ to_TO Aitken_NNP 's_POS ∆_NN 2_CD method_NN ,_, and_CC there_EX is_VBZ reason_NN to_TO believe_VB that_IN Google_NNP has_VBZ adopted_VBN this_DT procedure_NN ._.
+17s16_NN ._.

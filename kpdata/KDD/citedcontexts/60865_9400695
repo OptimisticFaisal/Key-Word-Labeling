@@ -1,0 +1,4 @@
+a_DT −_NNP This_NNP means_VBZ that_IN PAMIR_NNP looks_VBZ for_IN W_NN such_JJ that_IN for_IN all_DT k_NN ,_, score_NN FW_NN -LRB-_-LRB- qk_NN ,_, a_DT +_CC k_NN -RRB-_-RRB- should_MD be_VB greater_JJR than_IN FW_NN -LRB-_-LRB- qk_NN ,_, p_NN −_CD k_NN -RRB-_-RRB- by_IN at_IN least_JJS a_DT margin_NN of_IN ǫ_NN ._.
+This_DT criterion_NN is_VBZ inspired_VBN by_IN the_DT ranking_JJ SVM_NN approach_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT has_VBZ successfully_RB been_VBN applied_VBN to_TO text_NN retrieval_NN ._.
+However_RB ,_, ranking-SVM_NN requires_VBZ to_TO solve_VB a_DT quadratic_JJ optimization_NN procedure_NN ,_, which_WDT does_VBZ not_RB scale_VB to_TO handle_VB very_RB large_JJ number_NN of_IN constraints_NNS ._.
+3.4_CD

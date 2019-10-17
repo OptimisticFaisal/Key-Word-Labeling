@@ -1,0 +1,5 @@
+usion_NN detection_NN ._.
+For_IN example_NN ,_, SID_NNP only_RB uses_VBZ the_DT knowledge_NN about_IN well-known_JJ intrusions_NNS -LRB-_-LRB- e.g._FW ,_, Snort_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+For_IN AID_NNP ,_, it_PRP is_VBZ the_DT knowledge_NN about_IN the_DT normal_JJ behaviors_NNS of_IN the_DT computing_NN resources_NNS -LRB-_-LRB- e.g._FW ,_, LERAD_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, MADAM_NNP ID_NNP -LRB-_-LRB- 7_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+In_IN our_PRP$ research_NN ,_, we_PRP try_VBP to_TO use_VB all_PDT the_DT available_JJ knowledge_NN about_IN the_DT behaviors_NNS -LRB-_-LRB- intrusive_JJ and_CC normal_JJ -RRB-_-RRB- in_IN the_DT historical_JJ data_NNS to_TO detect_VB intrusions_NNS ._.
+Our_PRP$ main_JJ contributions_NNS in_IN this_DT paper_NN

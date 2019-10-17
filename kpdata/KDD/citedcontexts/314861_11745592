@@ -1,0 +1,5 @@
+system_NN ,_, and_CC hence_RB extract_VB new_JJ features_NNS for_IN better_JJR named-entity_NN recognition_NN ._.
+In_IN a_DT different_JJ research_NN problem_NN ,_, L._FW Yi_FW et_FW al._FW eliminate_VB the_DT noisy_JJ text_NN from_IN the_DT document_NN before_IN 337performing_VBG data_NNS mining_NN -LRB-_-LRB- =_JJ -_: =_JJ Yi_FW et_FW al._FW ,_, 2003_CD -_: =--RRB-_NN ._.
+Hence_RB ,_, they_PRP do_VBP not_RB try_VB to_TO process_VB noisy_JJ data_NNS ;_: instead_RB ,_, they_PRP remove_VBP it_PRP ._.
+The_DT approach_NN we_PRP propose_VBP in_IN this_DT paper_NN does_VBZ not_RB assume_VB prior_JJ knowledge_NN of_IN the_DT data_NNS source_NN ._.
+Also_RB we_PRP do_VBP not_RB want_VB to_TO eliminate_VB the_DT

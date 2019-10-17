@@ -1,0 +1,5 @@
+infrequent_JJ ,_, due_JJ to_TO the_DT monotonicity_NN of_IN supp_FW τ_FW -LRB-_-LRB- see_VB Property_NNP 1_CD -RRB-_-RRB- ._.
+To_TO index_NN all_DT transactions_NNS for_IN the_DT inner_JJ loop_NN ,_, we_PRP considered_VBD two_CD well_RB known_VBN spatial_JJ indices_NNS ,_, called_VBN kd-tree_NN and_CC range_NN tree_NN respectively_RB =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Next_RB ,_, we_PRP discuss_VBP how_WRB they_PRP work_VBP ,_, their_PRP$ advantages_NNS and_CC disadvantages_NNS ._.
+Notice_NNP that_IN any_DT other_JJ spatial_JJ data_NNS structures_NNS could_MD be_VB used_VBN as_RB well_RB ._.
+We_PRP report_VBP ,_, however_RB ,_, only_RB on_IN kd-trees_NNS and_CC range_NN trees_NNS because_IN

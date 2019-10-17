@@ -1,0 +1,4 @@
+mply_RB generates_VBZ a_DT set_NN of_IN Bootstrap_NN samples_NNS as_IN in_IN Bagging_NNP ,_, generates_VBZ a_DT boosted_VBN classifier_NN for_IN each_DT sample_NN ,_, and_CC combines_VBZ the_DT results_NNS uniformly_RB ._.
+An_DT online_JJ version_NN of_IN a_DT Boosting_VBG algorithm_NN was_VBD presented_VBN in_IN =_JJ -_: =[_NN 141_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT was_VBD shown_VBN to_TO be_VB comparable_JJ in_IN accuracy_NN to_TO Boosting_NNP ,_, while_IN much_RB faster_RBR in_IN terms_NNS of_IN running_VBG time_NN ._.
+Many_JJ more_JJR extensions_NNS are_VBP listed_VBN at_IN the_DT beginning_NN of_IN the_DT present_JJ section_NN ._.
+8_CD Evaluation_NN and_CC Applic_JJ

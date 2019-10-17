@@ -1,0 +1,5 @@
+pets_NNS ._.
+However_RB ,_, it_PRP may_MD prove_VB less_RBR efficient_JJ in_IN identifying_VBG topics_NNS represented_VBN by_IN relatively_RB small_JJ groups_NNS of_IN documents_NNS ._.
+There_EX also_RB exists_VBZ a_DT class_NN of_IN decomposition_NN techniques_NNS based_VBN on_IN random_JJ projections_NNS =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Even_RB though_IN these_DT decompositions_NNS fairly_RB well_RB preserve_VB distances_NNS and_CC similarities_NNS between_IN vectors_NNS ,_, they_PRP are_VBP of_IN little_JJ use_NN in_IN our_PRP$ approach_NN ._.
+The_DT reasons172_NNP S._NNP Osinski_NNP is_VBZ that_IN they_PRP rely_VBP on_IN randomly_RB gene_NN

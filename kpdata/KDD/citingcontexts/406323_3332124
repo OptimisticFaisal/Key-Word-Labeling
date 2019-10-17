@@ -1,0 +1,5 @@
+rs_NNS and_CC pre-classified_JJ under_IN the_DT hierarchy_NN categories_NNS '_POS nodes_NNS -RRB-_-RRB- ,_, are_VBP returned_VBN to_TO the_DT end_NN user_NN ._.
+The_DT idea_NN of_IN enhancing_VBG usage_NN mining_NN by_IN registering_VBG the_DT user_NN behavior_NN in_IN terms_NNS of_IN an_DT ontology_NN is_VBZ described_VBN i_LS =_JJ -_: =_JJ n_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT framework_NN is_VBZ based_VBN on_IN a_DT Web_NN site_NN having_VBG an_DT underlying_JJ ontology_NN ._.
+The_DT Web_NN logs_NNS are_VBP semantically_RB enriched_VBN with_IN ontology_NN concepts_NNS ._.
+Data_NN mining_NN may_MD then_RB be_VB performed_VBN on_IN these_DT semantic_JJ Web_NN logs_NNS to_TO ex_FW

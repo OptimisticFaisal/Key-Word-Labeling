@@ -1,0 +1,4 @@
+all_DT individuals_NNS in_IN a_DT large_JJ digital_JJ library_NN ._.
+2.3_CD Topic_NNP Modeling_NNP Considerable_NNP work_NN has_VBZ been_VBN conducted_VBN for_IN investigating_VBG topic_NN models_NNS or_CC latent_JJ semantic_JJ structures_NNS for_IN text_NN mining_NN ._.
+For_IN example_NN ,_, Hofmann_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ the_DT probabilistic_JJ latent_JJ semantic_JJ indexing_NN -LRB-_-LRB- pLSI_NN -RRB-_-RRB- and_CC applies_VBZ it_PRP to_TO information_NN retrieval_NN -LRB-_-LRB- IR_NN -RRB-_-RRB- ._.
+Blei_NNP et_FW al._FW -LRB-_-LRB- 8_CD -RRB-_-RRB- introduce_VB a_DT three-level_JJ Bayesian_JJ network_NN ,_, called_VBN Latent_JJ Dirichlet_NN Allocation_NN -LRB-_-LRB-

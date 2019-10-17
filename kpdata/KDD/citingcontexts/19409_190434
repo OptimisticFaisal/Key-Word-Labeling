@@ -1,0 +1,4 @@
+tioned_VBN in_IN the_DT text_NN summary_NN ?_.
+In_IN SUMTIME-MOUSAM_NN ,_, we_PRP conducted_VBD an_DT initial_JJ set_NN of_IN knowledge_NN acquisition_NN -LRB-_-LRB- KA_NN -RRB-_-RRB- activities_NNS ,_, based_VBN on_IN working_VBG with_IN experts_NNS and_CC on_IN analyzing_VBG a_DT corpus_NN of_IN human-written_JJ forecasts_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =-[_NN 25_CD -RRB-_-RRB- ._.
+Based_VBN on_IN these_DT activities_NNS ,_, we_PRP decided_VBD to_TO use_VB linear_JJ segmentation_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- for_IN document_NN planning_NN ._.
+That_DT is_VBZ ,_, we_PRP would_MD fit_VB linear_JJ line_NN segments_NNS to_TO the_DT data_NNS using_VBG standard_JJ segmentation_NN algorithms_NNS ,_, and_CC onl_NN

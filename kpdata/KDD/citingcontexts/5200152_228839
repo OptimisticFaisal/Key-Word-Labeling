@@ -1,0 +1,4 @@
+ct_FW i_FW copied_VBN from_IN the_DT original_JJ grid_NN ._.
+Now_RB we_PRP must_MD consider_VB how_WRB to_TO compute_VB the_DT function_NN D_NN -LRB-_-LRB- S_NN ,_, tmin_NN -RRB-_-RRB- ._.
+The_DT standard_JJ method_NN for_IN computing_VBG the_DT space-time_NN scan_VB statistic_NN ,_, proposed_VBN for_IN the_DT retrospective_JJ case_NN by_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: and_CC for_IN the_DT prospective_JJ case_NN by_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, builds_VBZ on_IN the_DT Kulldorff_NNP spatial_JJ scan_VBP statistic_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- given_VBN above_IN ._.
+As_IN in_IN the_DT purely_RB spatial_JJ scan_VBP ,_, this_DT method_NN assumes_VBZ that_IN baselines_NNS bt_FW i_FW are_VBP given_VBN in_IN advance_NN -LRB-_-LRB- e.g_NN

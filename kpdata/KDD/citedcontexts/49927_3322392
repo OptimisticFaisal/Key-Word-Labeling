@@ -1,0 +1,4 @@
+e_LS with_IN n_NN dimension_NN results_VBZ in_IN 2_CD n_NN cuboids_NNS ._.
+Thus_RB ,_, most_JJS work_NN issdedicated_VBN to_TO reduce_VB either_CC the_DT computation_NN time_NN or_CC the_DT final_JJ cube_NN size_NN ,_, such_JJ as_IN efficient_JJ cube_NN computation_NN -LRB-_-LRB- 9_CD ,_, 4_CD ,_, 17_CD ,_, 12_CD -RRB-_-RRB- ,_, cube_NN compression_NN =_JJ -_: =[_NN 13_CD ,_, 10_CD ,_, 15_CD -RRB-_-RRB- ._.
+Th_NN -_: =_JJ -_: ese_NN cost_NN reduction_NN are_VBP all_DT without_IN loss_NN of_IN any_DT information_NN ,_, while_IN some_DT others_NNS like_IN approximation_NN -LRB-_-LRB- 3_CD ,_, 2_CD -RRB-_-RRB- ,_, iceberg_NN cube_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- reduce_VB the_DT costs_NNS by_IN skipping_VBG ``_`` trivial_JJ ''_'' information_NN ._.
+The_DT approaches_NNS without_IN l_NN

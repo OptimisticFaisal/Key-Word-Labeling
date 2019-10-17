@@ -1,0 +1,5 @@
+he_PRP data_NNS is_VBZ maximized_VBN ._.
+The_DT first_JJ update_VBP scheme_NN exactly_RB follows_VBZ the_DT soft-assignment_JJ scheme_NN for_IN learning_VBG mixture_NN models_NNS using_VBG EM_NN ._.
+From_IN the_DT standard_JJ EM_NN framework_NN ,_, the_DT distribution_NN of_IN the_DT hidden_JJ variables_NNS =_JJ -_: =[_NN 23_CD -RRB-_-RRB- is_VBZ g_NN -_: =_JJ -_: iven_VBN by_IN :_: p_NN -LRB-_-LRB- h_NN |_FW xi_FW ,_, Θ_NN -RRB-_-RRB- =_JJ αh_FW fh_FW -LRB-_-LRB- xi_FW |_FW Θ_NN -RRB-_-RRB- Pk_NN l_NN =_JJ 1_CD αl_NN ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB- fl_NN -LRB-_-LRB- xi_FW |_FW Θ_NN -RRB-_-RRB- Our_PRP$ second_JJ update_VBP scheme_NN is_VBZ based_VBN on_IN the_DT widely_RB used_VBN hardassignment_NN heuristic_NN for_IN unsupervised_JJ learning_NN ._.
+In_IN this_DT case_NN ,_, the_DT distribution_NN

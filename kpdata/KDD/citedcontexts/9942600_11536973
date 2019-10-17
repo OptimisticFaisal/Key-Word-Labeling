@@ -1,0 +1,4 @@
+otic_JJ relationship_NN ._.
+We_PRP also_RB demonstrate_VBP a_DT method_NN to_TO perform_VB approximate_JJ inference_NN in_IN the_DT model_NN using_VBG a_DT collapsed_JJ Gibbs_NNP sampler_NN since_IN exact_JJ inference_NN in_IN the_DT joint_JJ model_NN in_IN intractable_JJ ._.
+The_DT Nubbi_NNP model_NN -LRB-_-LRB- =_JJ -_: =_JJ Chang_NNP et_FW al._FW ,_, 2009_CD -_: =--RRB-_NN tackles_VBZ a_DT related_JJ problem_NN where_WRB entity_NN relations_NNS are_VBP discovered_VBN from_IN textual_JJ data_NNS ._.
+The_DT Topic-Link_JJ LDA_NN model_NN -LRB-_-LRB- Liu_NNP et_FW al._FW ,_, 2009_CD -RRB-_-RRB- deals_NNS with_IN another_DT related_JJ problem_NN of_IN modelingBlock-LDA_NN :_: Jointly_RB model_NN

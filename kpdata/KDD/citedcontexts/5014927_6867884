@@ -1,0 +1,3 @@
+complexity_NN and_CC thus_RB it_PRP can_MD not_RB be_VB applied_VBN to_TO large-scale_JJ problems_NNS ._.
+To_TO improve_VB the_DT efficiency_NN of_IN this_DT formulation_NN ,_, a_DT quadratically_RB constrained_VBN quadratic_JJ program_NN -LRB-_-LRB- QCQP_NN -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- formulation_NN was_VBD proposed_VBN in_IN =_JJ -_: =[_NN 70_CD -RRB-_-RRB- -_: =_JJ -_: and_CC it_PRP is_VBZ more_RBR scalable_JJ than_IN the_DT SDP_NN formulations_NNS ._.
+s16_NN 1.7_CD OTHER_NNP LDA_NNP EXTENSIONS_NNP Sparsity_NNP has_VBZ recently_RB received_VBN much_JJ attention_NN for_IN extending_VBG existing_VBG algorithms_NNS to_TO induce_VB sparse_JJ solutions_NNS -LRB-_-LRB- 15_CD ,_, 35_CD ,_, 80_CD -RRB-_-RRB- ._.

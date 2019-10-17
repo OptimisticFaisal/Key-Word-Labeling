@@ -1,0 +1,5 @@
+l_NN combination_NN strategies_NNS for_IN models_NNS trained_VBN using_VBG different_JJ algorithms_NNS and_CC on_IN different_JJ features_NNS ._.
+More_RBR traditional_JJ ensemble-like_JJ methods_NNS such_JJ as_IN a_DT cascade_NN of_IN classifiers_NNS -LRB-_-LRB- 33_CD -RRB-_-RRB- and_CC stacking_VBG classifiers_NNS =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP also_RB been_VBN applied_VBN to_TO spam_VB filtering_VBG ._.
+Most_JJS work_NN on_IN spam_NN filtering_VBG treats_VBZ it_PRP as_IN a_DT regular_JJ text_NN classification_NN problem_NN ._.
+The_DT use_NN of_IN non-content_JJ information_NN has_VBZ been_VBN less_RBR studied_VBN ._.
+Using_VBG the_DT sender_NN in_IN

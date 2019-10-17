@@ -1,0 +1,4 @@
+ther_JJR enlargements_NNS of_IN the_DT window_NN ._.
+In_IN terms_NNS of_IN run-time_NN ,_, the_DT authors_NNS note_VBP that_IN this_DT technique_NN can_MD in_IN general_JJ only_JJ gain_NN efficiency_NN for_IN incremental_JJ algorithm_NN ._.
+In_IN the_DT most_RBS recent_JJ work_NN of_IN Provost_NNP and_CC et_FW al_FW =_JJ -_: =[_NN 36_CD -RRB-_-RRB- -_: =_JJ -_: ,_, they_PRP prompted_VBD a_DT new_JJ procedure_NN named_VBN ``_`` progressive_JJ sampling_NN ''_'' ._.
+The_DT basic_JJ idea_NN is_VBZ when_WRB sample_NN size_NN increases_VBZ the_DT learning_NN accuracy_NN will_MD follow_VB the_DT famous_JJ ``_`` learning_NN curve_NN ''_'' so_IN that_IN there_EX should_MD be_VB a_DT conve_NN

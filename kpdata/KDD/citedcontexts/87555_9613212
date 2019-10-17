@@ -1,0 +1,5 @@
+using_VBG different_JJ cost_NN matrices_NNS in_IN equation_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+MetaCost_NNP is_VBZ a_DT wrapper_NN method_NN that_WDT can_MD be_VB used_VBN with_IN any_DT classification_NN algorithm_NN and_CC reduces_VBZ the_DT variance_NN of_IN the_DT probability_NN estimates_NNS by_IN bootstrapping_VBG -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP ,_, 1999_CD -_: =--RRB-_NN ._.
+MetaCost_NNP reduces_VBZ the_DT variance_NN of_IN probability_NN estimates_NNS ,_, but_CC is_VBZ not_RB designed_VBN to_TO overcome_VB systematic_JJ probability_NN estimation_NN errors_NNS ._.
+4_LS ._.
+The_DT Effect_NN of_IN the_DT Cost_NN Matrix_NNP on_IN the_DT Class-Decision_NNP Boundaries_NNPS I_PRP

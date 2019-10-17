@@ -1,0 +1,6 @@
+t_NN kinds_NNS of_IN transactions_NNS within_IN the_DT same_JJ sequence_NN ._.
+Such_JJ a_DT situation_NN may_MD arise_VB in_IN unsegmented_JJ sequences_NNS from_IN a_DT variety_NN of_IN domains_NNS ._.
+These_DT data_NNS sets_NNS were_VBD constructed_VBN by_IN modifying_VBG a_DT generator_NN discussed_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP will_MD first_RB discuss_VB how_WRB to_TO convert_VB a_DT transaction_NN generated_VBN in_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- into_IN a_DT string_NN format_NN ._.
+Each_DT transaction_NN consisted_VBD of_IN a_DT string_NN of_IN sorted_VBN item_NN ids_NNS from_IN 1_CD to_TO 100_CD ._.
+Each_DT of_IN these_DT item_NN ids_NNS were_VBD randoml_NN

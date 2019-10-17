@@ -1,0 +1,7 @@
+sets_NNS ._.
+1.1_CD Plan_NNP of_IN Action_NNP B_NN C_NN D_NN 1_CD ._.
+So_RB far_RB we_PRP are_VBP limiting_VBG the_DT frequent_JJ itemsets_NNS to_TO be_VB fully_RB dense_JJ -LRB-_-LRB- all_DT values_NNS should_MD be_VB 1_CD -RRB-_-RRB- ._.
+We_PRP can_MD relax_VB this_DT constraintby_NN using_VBG Error_NN Tolerant_JJ Frequent_JJ Closed_JJ Itemsets_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2_CD ._.
+Apply_RB the_DT proposed_VBN algorithm_NN on_IN gene_NN expression_NN data_NNS of_IN Yeast_NN and_CC evaluate_VB the_DT results_NNS ._.
+2_CD A_NNP Bregman_NNP Overlapping_NNP Co-clustering_JJ Algorithm_NN In_IN this_DT section_NN we_PRP propose_VBP a_DT meta_NN algorithm_NN exactly_RB on_IN the_DT

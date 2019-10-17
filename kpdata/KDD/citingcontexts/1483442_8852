@@ -1,0 +1,6 @@
+d_NN discrete_JJ thus_RB developing_VBG a_DT distance_NN metric_NN is_VBZ not_RB straightforward_JJ ._.
+Any_DT MST_NNP developed_VBD will_MD be_VB sensitive_JJ to_TO the_DT metric_NN used_VBN ._.
+Second_RB ,_, the_DT MST_NNP is_VBZ expensive_JJ to_TO find_VB ._.
+Using_VBG Prim_NNP 's_POS algorithm_NN it_PRP is_VBZ O_NN -LRB-_-LRB- N_NN 2_CD -RRB-_-RRB- =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: for_IN N_NN data_NNS instances_NNS ._.
+For_IN our_PRP$ data_NNS sets_NNS N_NN is_VBZ usually_RB very_RB large_JJ thus_RB making_VBG the_DT complexity_NN prohibitive_JJ ._.
+Finally_RB ,_, the_DT above_JJ tests_NNS were_VBD designed_VBN to_TO measure_VB significance_NN and_CC have_VBP no_DT meaningful_JJ interpret_VB

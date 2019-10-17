@@ -1,0 +1,4 @@
+contains_VBZ more_JJR vertices_NNS ._.
+Moreover_RB ,_, all_DT symmetric_JJ functions_NNS can_MD be_VB represented_VBN by_IN graphs_NNS where_WRB the_DT number_NN of_IN nodes_NNS grows_VBZ at_IN most_JJS as_IN the_DT square_NN of_IN the_DT number_NN of_IN input_NN attributes_NNS ._.
+As_IN indicated_VBN by_IN Kohavi_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, these_DT properties_NNS of_IN Boolean_JJ function_NN graphs_NNS can_MD be_VB easily_RB generalized_VBN to_TO oblivious_JJ read-once_NN decision_NN graphs_NNS representing_VBG k-categorization_NN functions_NNS ._.
+Consequently_RB ,_, the_DT ``_`` read-once_NN ''_'' structure_NN of_IN info_NN -_:

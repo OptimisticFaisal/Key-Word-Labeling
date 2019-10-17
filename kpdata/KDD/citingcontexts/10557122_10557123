@@ -1,0 +1,3 @@
+Here_RB the_DT instances_NNS are_VBP the_DT patients_NNS ,_, the_DT classes_NNS are_VBP the_DT diagnoses_NNS ,_, and_CC the_DT features_NNS denote_VBP signal_NN strength_NN as_IN measured_VBN using_VBG different_JJ electrodes_NNS ._.
+In_IN large-scale_JJ gene_NN expression_NN -LRB-_-LRB- microarray_NN -RRB-_-RRB- assays_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, one_CD possible_JJ aim_NN is_VBZ to_TO classify_VB an_DT experimental_JJ condition_NN using_VBG expression_NN changes_NNS only_RB across_IN a_DT `_`` salient_JJ '_'' subset_NN of_IN genes_NNS ._.
+For_IN instance_NN ,_, by_IN observing_VBG a_DT handful_NN of_IN genes_NNS -LRB-_-LRB- features_NNS -RRB-_-RRB- and_CC ranking_VBG them_PRP

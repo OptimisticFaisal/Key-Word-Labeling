@@ -1,0 +1,5 @@
+rmation_NN can_MD then_RB be_VB used_VBN with_IN common_JJ ,_, link-based_JJ ranking_NN algorithms_NNS ,_, such_JJ as_IN PageRank_NNP or_CC HITS_NNP ._.
+The_DT same_JJ authors_NNS also_RB present_VBP their_PRP$ findings_NNS on_IN cloaking_NN and_CC redirection_NN techniques_NNS -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+Ntoulas_FW et_FW al._FW =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: present_VB a_DT technique_NN of_IN detecting_VBG spam_NN pages_NNS by_IN content_NN analysis_NN ._.
+This_DT work_NN only_RB takes_VBZ query_JJ independent_JJ features_NNS into_IN account_NN ,_, while_IN Svore_NNP et_FW al._FW -LRB-_-LRB- 18_CD -RRB-_-RRB- also_RB use_VBP query_JJ dependent_JJ information_NN ._.
+A_DT system_NN t_NN

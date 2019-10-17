@@ -1,0 +1,4 @@
+,_, cross-site_JJ requests_NNS should_MD be_VB of_IN concern_NN to_TO users_NNS of_IN anonymizing_JJ proxies_NNS due_JJ to_TO their_PRP$ potential_NN for_IN de-anonymization_NN ._.
+A_DT solution_NN to_TO cache_NN timing_NN attacks_NNS has_VBZ been_VBN proposed_VBN through_IN cache_NN partitioning_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, the_DT solution_NN implemented_VBN in_IN that_DT work_NN ,_, the_DT Firefox_NNP extension_NN SafeCache_NNP ,_, has_VBZ been_VBN shown_VBN to_TO be_VB easily_RB bypassed_VBN -LRB-_-LRB- 14_CD -RRB-_-RRB- and_CC SafeCache_NNP is_VBZ no_RB longer_RB maintained_VBN ._.
+Krishnamurthy_NNP has_VBZ added_VBN a_DT great_JJ amou_NN

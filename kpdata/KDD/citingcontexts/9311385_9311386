@@ -1,0 +1,4 @@
+lems_NNS separately_RB -RRB-_-RRB- in_IN Figure_NNP 2_CD ._.
+We_PRP can_MD observe_VB that_IN the_DT upper_JJ bound_VBN and_CC lower_JJR bound_VBN are_VBP approaching_VBG to_TO each_DT other_JJ within_IN a_DT small_JJ number_NN of_IN iterations_NNS ._.
+It_PRP follows_VBZ from_IN the_DT theory_NN for_IN min-max_JJ problems_NNS in_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: that_IN the_DT iterative_JJ procedure_NN converges_VBZ to_TO the_DT saddle_NN point_NN of_IN the_DT optimization_NN problems_NNS ._.
+Error_NN rate_NN 5.5_CD 5_CD 4.5_CD 4_CD 3.5_CD 3_CD 1_CD 2_CD 3_CD 4_CD 5_CD Iteration_NN number_NN SVM_NN joint_JJ uSVM_NN joint_JJ Error_NN rate_NN 8_CD 7_CD 6_CD 5_CD 4_CD 1_CD 2_CD 3_CD 4_CD 5_CD It_PRP

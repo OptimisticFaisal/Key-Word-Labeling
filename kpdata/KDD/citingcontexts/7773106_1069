@@ -1,0 +1,4 @@
+f_LS states_NNS ,_, each_DT of_IN which_WDT is_VBZ associated_VBN with_IN a_DT -LRB-_-LRB- generally_RB multidimensional_JJ -RRB-_-RRB- probability_NN distribution_NN ._.
+Transitions_NNS among_IN the_DT states_NNS are_VBP governed_VBN by_IN a_DT set_NN of_IN probabilities_NNS called_VBN transition_NN probabilities_NNS =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN a_DT particular_JJ state_NN an_DT outcome_NN or_CC observation_NN can_MD be_VB generated_VBN ,_, according_VBG to_TO the_DT associated_VBN probability_NN distribution_NN ._.
+The_DT model_NN describes_VBZ a_DT probabilistic_JJ generative_JJ process_NN whereby_WRB a_DT sequence_NN of_IN s_NN

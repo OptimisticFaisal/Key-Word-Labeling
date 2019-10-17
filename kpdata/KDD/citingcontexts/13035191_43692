@@ -1,0 +1,4 @@
+ules_NNS described_VBN in_IN the_DT next_JJ subsection_NN ,_, will_MD be_VB used_VBN to_TO identify_VB body_NN subtrees_NNS ._.
+Several_JJ ways_NNS of_IN approximation_NN of_IN the_DT posterior_JJ probabilities_NNS for_IN SVM_NNP are_VBP proposed_VBN in_IN the_DT literature_NN ._.
+Particularly_RB ,_, Platt_NNP =_SYM -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: approximated_VBD the_DT posterior_JJ probability_NN as_IN follows_VBZ :_: P_NN -LRB-_-LRB- y_NN =_JJ +1_CD |_CD x_NN -RRB-_-RRB- =_JJ y_FW ′_FW p_NN -LRB-_-LRB- x_NN -RRB-_-RRB- =_JJ 1_CD 1_CD +_CC exp_NN -LRB-_-LRB- Ay_FW ′_FW p_NN +_CC B_NN -RRB-_-RRB- ,_, n_NN ∑_CD αiyiK_NN -LRB-_-LRB- xi_NN ,_, x_NN -RRB-_-RRB- +_CC b_NN i_LS =_JJ 1_CD where_WRB A_NN and_CC B_NN are_VBP two_CD parameters_NNS obtained_VBN during_IN the_DT training_NN process_NN ._.
+3.3_CD

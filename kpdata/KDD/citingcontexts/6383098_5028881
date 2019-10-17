@@ -1,0 +1,3 @@
+n_NN be_VB applied_VBN without_IN any_DT calibration_NN ._.
+However_RB ,_, we_PRP gain_VBP a_DT slight_JJ improvement_NN in_IN precision_NN by_IN performing_VBG a_DT fast_JJ approximate_JJ calibration_NN to_TO help_VB select_VB the_DT most_RBS appropriate_JJ threshold_NN ._.
+We_PRP pseudocalibrate_VBP =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: each_DT pixel_FW i_FW in_IN the_DT image_NN by_IN converting_VBG the_DT raw_JJ digital_JJ number_NN ,_, DNi_NNS ,_, to_TO a_DT temperature_NN ,_, Ti_NNP -LRB-_-LRB- Kelvin_NNP -RRB-_-RRB- :_: x_NN =_JJ -LRB-_-LRB- DNi_FW −_FW o_NN ×_CD g_NN -RRB-_-RRB- ×_FW g\/16_FW Ti_NN =_JJ 101.85_CD ×_CD ln_NN -LRB-_-LRB- x_NN -RRB-_-RRB- −_NN 223.3_CD ,_, where_WRB o_NN and_CC g_NN are_VBP the_DT instrument_NN offset_VB and_CC gai_VB

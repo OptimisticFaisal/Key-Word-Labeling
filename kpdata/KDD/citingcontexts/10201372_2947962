@@ -1,0 +1,4 @@
+unlabeled_JJ set_NN ._.
+Particularly_RB ,_, label_NN propagation_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- is_VBZ used_VBN in_IN our_PRP$ approach_NN to_TO propagate_VB information_NN over_IN the_DT belief_NN graph_NN ._.
+Link-based_JJ classification_NN -LRB-_-LRB- i.e._FW ,_, collective_JJ inference_NN ,_, relational_JJ learning_NN -RRB-_-RRB- =_JJ -_: =[_NN 20_CD ,_, 22_CD ,_, 25_CD -RRB-_-RRB- -_: =_SYM -_: utilizes_VBZ the_DT link_NN structure_NN to_TO classify_VB a_DT set_NN of_IN related_JJ instances_NNS simultaneously_RB ._.
+These_DT studies_NNS reveal_VBP that_IN the_DT unlabeled_JJ information_NN ,_, when_WRB used_VBN together_RB with_IN labeled_JJ instances_NNS ,_, can_MD produce_VB consider_VB

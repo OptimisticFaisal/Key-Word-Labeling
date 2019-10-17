@@ -1,0 +1,4 @@
+in_IN languages_NNS like_IN Perl_NNP -LRB-_-LRB- 11_CD -RRB-_-RRB- or_CC Ruby_NNP -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+This_DT would_MD allow_VB the_DT developer_NN to_TO ensure_VB that_IN no_DT untrusted_JJ data_NNS is_VBZ passed_VBN to_TO the_DT sensitive_JJ functions_NNS without_IN prior_RB filtering_VBG ._.
+Static_JJ tainting_NN ,_, as_IN proposed_VBN by_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, can_MD protect_VB applications_NNS before_IN actually_RB running_VBG them_PRP ,_, so_IN the_DT problem_NN could_MD be_VB eliminated_VBN before_IN deploying_VBG the_DT code_NN into_IN a_DT sensitive_JJ environment_NN ._.
+However_RB ,_, due_JJ to_TO the_DT complexity_NN of_IN PHP_NN code_NN ,_, allowing_VBG

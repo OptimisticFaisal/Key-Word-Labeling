@@ -1,0 +1,5 @@
+ve_IN set_NN of_IN operations_NNS ._.
+However_RB ,_, these_DT limitations_NNS can_MD be_VB alleviated_VBN through_IN the_DT use_NN of_IN a_DT network_NN structure_NN index_NN ._.
+A_DT network_NN structure_NN index_NN -LRB-_-LRB- NSI_NN -RRB-_-RRB- is_VBZ a_DT scalable_JJ technique_NN for_IN capturing_VBG graph_NN structure_NN -LRB-_-LRB- =_JJ -_: =_JJ Rattigan_NNP et_FW al._FW ,_, 2006_CD -_: =--RRB-_NN ._.
+The_DT index_NN consists_VBZ of_IN a_DT set_NN of_IN node_NN annotations_NNS combined_VBN with_IN a_DT distance_NN measure_NN ._.
+NSIs_NNS enable_VBP fast_JJ approximation_NN of_IN graph_NN distances_NNS and_CC can_MD be_VB paired_VBN with_IN a_DT search_NN algorithm_NN to_TO efficiently_RB discover_VB

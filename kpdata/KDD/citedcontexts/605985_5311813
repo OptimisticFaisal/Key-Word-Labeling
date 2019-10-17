@@ -1,0 +1,3 @@
+dado_FW por_FW muitos_FW pesquisadores_NNS e_SYM soluções_FW comuns_FW para_FW esse_FW problema_FW incluem_FW técnicas_FW de_FW omissão_FW -LRB-_-LRB- Roth_NNP 1994_CD -RRB-_-RRB- ,_, técnicas_FW de_FW imputação_FW -LRB-_-LRB- Troyanskaya_NNP et_FW al._FW 2001_CD -RRB-_-RRB- e_SYM técnicas_FW de_FW tolerância_FW de_FW dados_FW perdidos_FW -LRB-_-LRB- =_JJ -_: =_JJ Aggarwal_NNP and_CC Parthasarathy_NNP ,_, 2001_CD -_: =-]_CD ._.
+As_IN técnicas_FW de_FW omissão_FW simplesmente_FW excluem_FW os_FW casos_FW que_FW contêm_FW dados_FW perdidos_FW ._.
+Por_NN causa_NN desta_NN simplicidade_NN ,_, elas_NNS são_VBP amplamente_JJ usadas_NNS ,_, mas_FW ,_, por_FW outro_FW lado_FW ,_, podem_FW levar_FW ao_FW mau_FW uso_FW dos_FW dados_FW se_FW há_FW

@@ -1,0 +1,4 @@
+ctions_NNS ._.
+Indeed_RB ,_, most_RBS frequent_JJ pattern_NN mining_NN or_CC association_NN rule_NN mining_NN algorithms_NNS work_VBP on_IN so_RB called_VBN transaction_NN databases_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Not_RB only_RB for_IN itemsets_NNS ,_, but_CC also_RB for_IN more_JJR complex_NN patterns_NNS such_JJ as_IN trees_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, graphs_NNS -LRB-_-LRB- 13_CD ,_, 15_CD ,_, 19_CD -RRB-_-RRB- ,_, or_CC arbitrary_JJ relational_JJ structures_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, databases_NNS consisting_VBG of_IN a_DT set_NN of_IN transactions_NNS are_VBP used_VBN ._.
+For_IN example_NN ,_, in_IN the_DT tree_NN case_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, every_DT transaction_NN in_IN the_DT database_NN contains_VBZ a_DT

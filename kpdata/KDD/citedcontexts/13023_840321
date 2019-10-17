@@ -1,0 +1,4 @@
+N_NN Much_JJ of_IN the_DT focus_NN on_IN time_NN series_NN analysis_NN in_IN the_DT data_NNS mining_NN community_NN has_VBZ been_VBN on_IN indexing_NN -LRB-_-LRB- 1_CD ,_, 3_CD ,_, 25_CD ,_, 27_CD -RRB-_-RRB- ,_, classification_NN -LRB-_-LRB- 8_CD ,_, 14_CD ,_, 20_CD -RRB-_-RRB- ,_, clustering_NN -LRB-_-LRB- 17_CD --_: 19_CD -RRB-_-RRB- ,_, summarization_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, and_CC anomaly_RB detection_NN =_JJ -_: =[_NN 10_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT thesis_NN we_PRP consider_VBP the_DT problem_NN of_IN discovering_VBG unknown_JJ recurring_VBG patterns_NNS within_IN a_DT streaming_NN time_NN series_NN ._.
+We_PRP examine_VBP both_DT uni_NN -_: and_CC multi-variate_JJ time_NN series_NN and_CC focus_VB on_IN real-valued_JJ data_NNS ._.
+Our_PRP$

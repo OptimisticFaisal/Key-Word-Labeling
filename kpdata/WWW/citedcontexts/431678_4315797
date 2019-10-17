@@ -1,0 +1,4 @@
+1_CD ._.
+Introduction_NN And_CC Related_NNP Work_NNP Wireless_NNP LANs_NNS are_VBP becoming_VBG increasingly_RB popular_JJ for_IN providing_VBG real_JJ time_NN service_NN ._.
+Studies_NNS have_VBP shown_VBN that_IN Internet_NN traffic_NN can_MD be_VB periodically_RB busy_JJ under_IN regular_JJ loads_NNS =_JJ -_: =[_NN 1,2,3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, however_RB ,_, protocols_NNS currently_RB in_IN use_NN are_VBP better_RBR suited_VBN to_TO steady_JJ traffic_NN flows_NNS ._.
+Our_PRP$ goal_NN is_VBZ to_TO improve_VB the_DT efficiency_NN of_IN MAC_NNP protocols_NNS -LRB-_-LRB- thus_RB wireless_JJ LANs_NNS -RRB-_-RRB- by_IN providing_VBG a_DT means_NN for_IN adapting_VBG to_TO period_NN

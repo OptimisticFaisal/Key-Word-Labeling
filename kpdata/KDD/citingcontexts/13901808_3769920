@@ -1,0 +1,3 @@
+of_IN reports_NNS viewed_VBN by_IN the_DT users_NNS ._.
+We_PRP assume_VBP those_DT reports_NNS are_VBP interesting_JJ to_TO the_DT current_JJ user_NN ,_, then_RB We_PRP use_VBP the_DT random_JJ walk_NN model_NN to_TO compute_VB the_DT relevance_NN score_NN between_IN reports_NNS as_IN the_DT value_NN of_IN P_NN u_NN -LRB-_-LRB- d_FW |_FW d’_NN -RRB-_-RRB- =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Figure_NN 4_CD shows_VBZ an_DT example_NN of_IN the_DT report_NN graph_NN ,_, where_WRB d_FW i_FW is_VBZ report_NN i_FW ,_, w_NN ij_NN is_VBZ the_DT weight_NN of_IN report_NN i_FW and_CC report_NN j_NN ,_, i_FW ,_, j_NN =_JJ 1,2_CD ,_, ..._: w_NN ij_NN is_VBZ computed_VBN by_IN how_WRB many_JJ attributes_NNS and_CC values_NNS are_VBP commonly_RB shared_VBN

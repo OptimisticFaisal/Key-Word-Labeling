@@ -1,0 +1,4 @@
+tive_JJ genes_NNS into_IN some_DT smaller_JJR groups_NNS ._.
+At_IN the_DT beginning_NN of_IN the_DT first_JJ iteration_NN ,_, the_DT set_NN of_IN candidate_NN informative_JJ genes_NNS contains_VBZ all_PDT the_DT genes_NNS ._.
+The_DT algorithm_NN CAST_NN -LRB-_-LRB- for_IN cluster_NN affinity_NN search_NN technique_NN -RRB-_-RRB- =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ applied_VBN to_TO group_NN genes_NNS and_CC samples_NNS and_CC the_DT Pearson_NNP 's_POS Correlation_NN Coefficient_NN is_VBZ chosen_VBN to_TO calculate_VB the_DT similarity_NN matrix_NN ._.
+1_CD CAST_NN is_VBZ a_DT method_NN specially_RB designed_VBN for_IN grouping_VBG gene_NN expression_NN data_NNS b_NN

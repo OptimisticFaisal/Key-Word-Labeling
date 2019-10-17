@@ -1,0 +1,4 @@
+s_NNS are_VBP designed_VBN to_TO find_VB a_DT good_JJ compromise_NN between_IN privacy_NN protection_NN and_CC knowledge_NN discovery_NN ._.
+A_DT framework_NN for_IN mining_NN association_NN rules_NNS from_IN transactions_NNS consisting_VBG of_IN categorical_JJ items_NNS was_VBD proposed_VBN in_IN =_JJ -_: =[_NN 50_CD ,_, 48_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT approach_NN ,_, the_DT data_NNS are_VBP randomized_VBN to_TO preserve_VB the_DT privacy_NN of_IN individual_JJ transactions_NNS ._.
+The_DT idea_NN behind_IN this_DT approach_NN is_VBZ that_IN some_DT items_NNS in_IN each_DT transaction_NN are_VBP replaced_VBN by_IN new_JJ items_NNS not_RB origi_VB

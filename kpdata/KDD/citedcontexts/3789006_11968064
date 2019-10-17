@@ -1,0 +1,3 @@
+we_PRP present_VBP an_DT LDA_NN based_JJ approach_NN for_IN analyzing_VBG the_DT topical_JJ lead-lag_JJ relationships_NNS across_IN corpora_NN with_IN only_RB textural_JJ and_CC temporal_JJ information_NN ._.
+There_EX are_VBP other_JJ LDA_NNP extensions_NNS for_IN temporal_JJ data_NNS such_JJ as_IN =_JJ -_: =[_NN 1_CD ,_, 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC we_PRP decided_VBD to_TO use_VB basic_JJ LDA_NN mainly_RB because_IN parallelization_NN of_IN LDA_NN is_VBZ well_RB understood_VBN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, and_CC is_VBZ therefore_RB scalable_JJ ,_, while_IN it_PRP is_VBZ less_RBR clear_JJ for_IN the_DT other_JJ models_NNS ._.
+Apart_RB from_IN scalability_NN ,_, the_DT meth_NN

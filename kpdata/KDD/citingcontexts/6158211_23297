@@ -1,0 +1,4 @@
+translate_VB directly_RB to_TO the_DT quantitative_JJ case_NN ._.
+It_PRP is_VBZ therefore_RB necessary_JJ to_TO provide_VB a_DT definition_NN of_IN association_NN rules_NNS for_IN the_DT case_NN of_IN a_DT database_NN containing_VBG quantitative_JJ attributes_NNS ._.
+Srikant_NNP and_CC Agrawal_NNP =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: extended_VBD the_DT categorical_JJ definition_NN to_TO include_VB quantitative_JJ data_NNS ._.
+The_DT basis_NN for_IN their_PRP$ definition_NN is_VBZ to_TO map_VB quantitative_JJ values_NNS into_IN categorical_JJ events_NNS by_IN considering_VBG intervals_NNS of_IN the_DT numeric_JJ values_NNS ._.

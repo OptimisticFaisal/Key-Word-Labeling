@@ -1,0 +1,4 @@
+,_, financial_JJ data_NNS analysis_NN ,_, sensor_NN monitoring_NN ,_, environmental_JJ monitoring_NN ,_, scientific_JJ data_NNS processing_NN -RRB-_-RRB- ._.
+Many_JJ recent_JJ efforts_NNS concentrate_VBP on_IN summarization_NN and_CC pattern_NN discovery_NN in_IN time_NN series_NN data_NNS streams_NNS =_JJ -_: =[_NN 5_CD ,_, 23_CD ,_, 24_CD ,_, 33_CD ,_, 4_CD ,_, 26_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Typical_JJ approaches_NNS for_IN pattern_NN discovery_NN and_CC summarization_NN of_IN time_NN series_NNS rely_VBP on_IN fixed_JJ transforms_VBZ ,_, with_IN a_DT predetermined_JJ set_NN of_IN bases_NNS -LRB-_-LRB- 24_CD ,_, 33_CD -RRB-_-RRB- or_CC approximating_VBG functions_NNS -LRB-_-LRB- 5_CD ,_, 23_CD ,_, 4_CD -RRB-_-RRB- ._.
+For_IN example_NN ,_, the_DT

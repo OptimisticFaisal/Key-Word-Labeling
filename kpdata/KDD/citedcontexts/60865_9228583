@@ -1,0 +1,5 @@
+tillation_NN ._.
+As_IN evaluation_NN measure_NN ,_, we_PRP utilized_VBD NDCG@n_NN -LRB-_-LRB- Normalized_VBN Discounted_JJ Cumulative_JJ Gain_NN -RRB-_-RRB- -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+As_IN baseline_NN methods_NNS for_IN the_DT two_CD tasks_NNS ,_, we_PRP used_VBD several_JJ local_JJ ranking_JJ algorithms_NNS such_JJ as_IN BM25_NN ,_, RankSVM_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: and_CC ListNet_NNP -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+BM25_NN is_VBZ a_DT widely_RB used_VBN non-learning_JJ ranking_NN method_NN ._.
+RankSVM_NN is_VBZ a_DT state-of-the-art_JJ algorithm_NN of_IN the_DT pairwise_JJ approach_NN to_TO learning_VBG to_TO rank_VB ,_, and_CC ListNet_NNP is_VBZ a_DT stateof-the-art_JJ algorithm_NN of_IN

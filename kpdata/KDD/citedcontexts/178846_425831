@@ -1,0 +1,5 @@
+atedly_RB scan_VB a_DT large_JJ amount_NN of_IN the_DT original_JJ database_NN in_IN order_NN to_TO check_VB if_IN a_DT candidate_NN is_VBZ frequent_JJ or_CC not_RB ._.
+This_DT is_VBZ inefficient_JJ and_CC ineffective_JJ ._.
+To_TO overcome_VB this_DT problem_NN ,_, pattern_NN growth_NN based_VBN approaches_NNS =_JJ -_: =[_NN 7_CD ,_, 8_CD ,_, 9_CD ,_, 10_CD -RRB-_-RRB- -_: =_JJ -_: were_VBD developed_VBN ._.
+FP-tree_JJ based_JJ methods_NNS mine_VBP the_DT complete_JJ set_NN of_IN frequent_JJ patterns_NNS using_VBG a_DT divide_NN and_CC conquer_VB method_NN to_TO reduce_VB the_DT search_NN space_NN without_IN generating_VBG all_PDT the_DT candidates_NNS ._.
+An_DT association_NN min_NN

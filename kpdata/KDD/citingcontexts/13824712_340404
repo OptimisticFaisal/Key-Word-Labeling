@@ -1,0 +1,5 @@
+and_CC average_JJ accuracies_NNS of_IN ReCon_NNP +_CC Euclidean_NNP Metric_NNP on_IN Digits-389_NN and_CC Letters-IJLT_NN are_VBP included_VBN ._.
+Similar_JJ phenomena_NNS have_VBP been_VBN observed_VBN in_IN applying_VBG pairwise_JJ constraints_NNS using_VBG various_JJ existing_VBG approaches_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Note_VB that_DT thevarianceofusingSVM-Metric_NN alone_RB is_VBZ lower_JJR due_JJ to_TO its_PRP$ ``_`` saturation_NN ''_'' behavior_NN ._.
+But_CC this_DT is_VBZ at_IN the_DT cost_NN of_IN having_VBG much_RB lower_JJR overall_JJ accuracy_NN ._.
+In_IN real-world_JJ problems_NNS ,_, it_PRP is_VBZ thus_RB important_JJ to_TO

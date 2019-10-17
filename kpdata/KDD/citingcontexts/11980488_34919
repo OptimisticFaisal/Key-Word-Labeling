@@ -1,0 +1,4 @@
+ple_NN as_IN a_DT binary_JJ feature_NN vector_NN ,_, indexed_VBN by_IN the_DT mined_VBN subgraphs_NNS ,_, with_IN values_NNS indicate_VBP the_DT presence_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- or_CC absence_NN -LRB-_-LRB- 0_CD -RRB-_-RRB- of_IN the_DT related_JJ features_NNS ._.
+We_PRP perform_VBP feature_NN selection_NN using_VBG SVM_NNP RFE_NNP and_CC use_VB LibSVM_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: with_IN linear_JJ kernel_NN to_TO construct_VB the_DT best_JJS model_NN ._.
+We_PRP use_VBP 5-fold_RB cross_JJ validation_NN in_IN the_DT training_NN data_NNS set_VBN to_TO select_VB important_JJ parameter_NN C_NN for_IN SVM_NNP ._.
+For_IN COM_NNP ,_, we_PRP set_VBD tp_NN =_JJ 0.3_CD and_CC tn_NN =_JJ 0_CD as_IN proposed_VBN in_IN -LRB-_-LRB- 16_CD

@@ -1,0 +1,4 @@
+rix_NN perturbation_NN -LRB-_-LRB- 6_CD ,_, 5_CD -RRB-_-RRB- ,_, ρ1-to-ρ2_JJ privacy_NN breaching_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, and_CC personalized_VBD breaching_VBG probability_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+In_IN addition_NN to_TO decision_NN trees_NNS ,_, perturbation_NN have_VBP also_RB been_VBN used_VBN in_IN PPDM_NNP to_TO find_VB association_NN rules_NNS =_JJ -_: =[_NN 6_CD ,_, 4_CD ,_, 15_CD ,_, 16_CD -RRB-_-RRB- -_: =_JJ -_: and_CC clustering_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+The_DT well-known_JJ generalization_NN method_NN ,_, K-anonymity_NN ,_, was_VBD first_RB studied_VBN in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- for_IN data_NN disclosure_NN ._.
+Implementations_NNS of_IN k-anonymity_NN include_VBP bottom-up_JJ generalization_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, top-down_JJ s_NN

@@ -1,0 +1,3 @@
+dom_NN Field_NN -LRB-_-LRB- BiMRF_NN -RRB-_-RRB- model_NN to_TO quantitatively_RB evaluate_VB how_WRB much_JJ each_DT feature_NN affects_VBZ the_DT grouping_VBG behavior_NN in_IN online_JJ forums_NNS ,_, as_RB well_RB as_IN their_PRP$ relationships_NNS with_IN each_DT other_JJ ._.
+BiMRF_NN is_VBZ a_DT Markov_NNP random_JJ graph_NN =_JJ -_: =[_NN 4_CD ,_, 25_CD -RRB-_-RRB- -_: =_SYM -_: with_IN edges_NNS and_CC two-stars_NNS as_IN its_PRP$ configuration_NN ,_, and_CC incorporates_VBZ the_DT node-level_JJ features_NNS we_PRP have_VBP described_VBN as_IN in_IN a_DT social_JJ selection_NN model_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+The_DT most_RBS significant_JJ advantage_NN of_IN using_VBG the_DT BiMRF_NN model_NN

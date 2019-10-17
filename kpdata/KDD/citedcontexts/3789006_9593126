@@ -1,0 +1,5 @@
+em_NN of_IN temporal_JJ text_NN mining_NN ._.
+They_PRP presented_VBD a_DT fully_RB automatic_JJ method_NN that_WDT extracts_VBZ subtopics_NNS and_CC creates_VBZ a_DT graph_NN that_WDT shows_VBZ their_PRP$ life_NN cycles_NNS and_CC dependencies_NNS on_IN each_DT other_JJ ._.
+Related_JJ approaches_NNS include_VBP =_JJ -_: =[_NN 23_CD ,_, 26_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Evolutionary_JJ theme_NN pattern_NN discovery_NN is_VBZ related_JJ to_TO topic_NN detection_NN and_CC tracking_NN ,_, specifically_RB first_JJ story_NN detection_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+However_RB ,_, it_PRP is_VBZ more_RBR fine-grained_JJ than_IN TDT_NNP since_IN it_PRP delves_VBZ into_IN a_DT topic_NN 's_POS subs_NNS

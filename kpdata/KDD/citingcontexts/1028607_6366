@@ -1,0 +1,5 @@
+rising_VBG in_IN their_PRP$ training_NN ._.
+Various_JJ training_NN algorithms_NNS have_VBP been_VBN proposed_VBN to_TO speed_VB up_RP the_DT training_NN ,_, including_VBG chunking_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, Osuna_NNP 's_POS decomposition_NN method_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, and_CC Sequential_JJ Minimal_JJ Optimization_NN -LRB-_-LRB- SMO_NN -RRB-_-RRB- =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Although_IN these_DT algorithms_NNS accelerate_VBP the_DT training_NN ,_, they_PRP do_VBP not_RB scale_VB well_RB with_IN the_DT size_NN of_IN the_DT training_NN data_NNS ._.
+Another_DT approach_NN to_TO reducing_VBG the_DT computational_JJ cost_NN is_VBZ to_TO use_VB approximation_NN methods_NNS ._.
+The_DT

@@ -1,0 +1,4 @@
+n_NN matrix_NN factorization_NN has_VBZ been_VBN devoted_VBN to_TO improving_VBG the_DT interpretation_NN of_IN the_DT mining_NN results_NNS ._.
+For_IN example_NN ,_, to_TO address_VB the_DT sparseness_NN issue_NN ,_, the_DT example-based_JJ factorization_NN methods_NNS have_VBP been_VBN proposed_VBN =_JJ -_: =[_NN 15_CD ,_, 37_CD ,_, 38_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+By_IN requiring_VBG the_DT columns_NNS of_IN the_DT factorized_VBN matrix_NN F_NN be_VB to_TO actual_JJ columns_NNS from_IN the_DT original_JJ matrix_NN A_NN ,_, the_DT factorization_NN is_VBZ naturally_RB sparse_JJ and_CC therefore_RB good_JJ for_IN interpretation_NN ._.
+To_TO address_VB the_DT non-n_NN

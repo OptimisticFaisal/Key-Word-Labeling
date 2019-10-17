@@ -1,0 +1,3 @@
+chine_NN learning_NN community_NN the_DT k-means_NN algorithm_NN is_VBZ a_DT time-proven_JJ technique_NN which_WDT groups_NNS together_RB data_NNS points_NNS into_IN clusters_NNS based_VBN on_IN their_PRP$ spatial_JJ locality_NN to_TO one_CD another_DT ._.
+Recent_JJ work_NN by_IN Sanghai_FW et_FW al._FW =_SYM -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBN using_VBG multinomial_JJ mixture_NN models_NNS instead_RB of_IN k-means_NNS for_IN the_DT clustering_NN ._.
+They_PRP reported_VBD results_NNS for_IN 8_CD SPEC_NN benchmarks_NNS and_CC found_VBD that_IN their_PRP$ multinomial_JJ approach_NN resulted_VBD in_IN a_DT similar_JJ error_NN rate_NN

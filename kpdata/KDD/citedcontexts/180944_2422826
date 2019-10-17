@@ -1,0 +1,4 @@
+how_WRB the_DT algorithm_NN may_MD be_VB improved_VBN ,_, or_CC how_WRB data_NNS may_MD be_VB prepared_VBN for_IN use_NN with_IN the_DT algorithm_NN ._.
+Recent_JJ clustering_NN research_NN has_VBZ produced_VBN several_JJ types_NNS of_IN accelerated_VBN k-means_NN algorithms_NNS based_VBN on_IN k-d_NN trees_NNS -LRB-_-LRB- =_JJ -_: =_JJ 15_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC based_VBN on_IN geometric_JJ reasoning_NN with_IN the_DT triangle_NN inequality_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+These_DT accelerations_NNS have_VBP been_VBN applied_VBN to_TO the_DT k-means_NN algorithm_NN and_CC to_TO Gaussian_NNP EM_NNP ,_, but_CC not_RB to_TO an_DT algorithm_NN like_IN KHM_NNP ._.
+5_CD Since_IN KHM_NN ha_NN

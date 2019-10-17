@@ -1,0 +1,4 @@
+n_NN mine_NN itemsets_NNS using_VBG these_DT two_CD constraint_NN categories_NNS in_IN a_DT sequential_JJ fashion_NN -LRB-_-LRB- e.g._FW -LRB-_-LRB- 13_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+DualMiner_NNP was_VBD the_DT first_JJ algorithm_NN able_JJ to_TO interleave_VB both_DT classes_NNS of_IN constraint_NN simultaneously_RB during_IN mining_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Nevertheless_RB ,_, the_DT task_NN of_IN finding_VBG itemsets_NNS that_WDT satisfy_VBP both_DT classes_NNS of_IN constraint_NN is_VBZ still_RB time_NN consuming_NN ._.
+High_JJ performance_NN computation_NN offers_VBZ a_DT potential_JJ solution_NN to_TO this_DT problem_NN ,_, provided_VBN that_IN an_DT

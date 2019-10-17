@@ -1,0 +1,5 @@
+lts_NNS also_RB suggest_VBP the_DT possibility_NN of_IN overfitting_VBG when_WRB the_DT number_NN of_IN iterations_NNS is_VBZ too_RB large_JJ ._.
+This_DT situation_NN is_VBZ analogous_JJ to_TO the_DT problem_NN encountered_VBN by_IN the_DT AdaBoost_NNP algorithm_NN when_WRB applied_VBN to_TO noisy_JJ data_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN future_JJ work_NN ,_, we_PRP will_MD consider_VB using_VBG regularization_NN methods_NNS to_TO handle_VB the_DT overfitting_NN problem_NN ._.
+6_CD ._.
+ACKNOWLEDGMENTS_NNS The_DT work_NN was_VBD partially_RB supported_VBN by_IN IRGP_NN grant_NN #_# 71-4823_CD from_IN the_DT Michigan_NNP State_NNP U_NNP

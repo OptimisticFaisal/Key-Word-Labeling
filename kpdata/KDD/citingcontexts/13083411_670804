@@ -1,0 +1,4 @@
+ques_NNS -RRB-_-RRB- rely_VBP on_IN finding_NN nearest_IN neighbors_NNS in_IN large_JJ graphs_NNS ,_, where_WRB ``_`` nearness_NN ''_'' is_VBZ defined_VBN using_VBG graphtheoretic_JJ measure_NN of_IN similarity_NN ._.
+A_DT widely_RB applied_VBN class_NN of_IN measures_NNS are_VBP based_VBN on_IN random_JJ walks_VBZ on_IN graphs_NNS =_JJ -_: =[_NN 5_CD ,_, 15_CD ,_, 13_CD -RRB-_-RRB- -_: =_JJ -_: ;_: examples_NNS include_VBP personalized_JJ pagerank_NN ,_, hitting_VBG time_NN and_CC commute_NN time_NN ,_, simrank_NN ,_, etc._NN ._.
+Yet_RB ,_, there_EX are_VBP limitations_NNS to_TO what_WP we_PRP can_MD do_VB when_WRB graphs_NNS become_VBP enormous_JJ ._.
+Some_DT algorithms_NNS ,_, such_JJ as_IN streaming_NN algo_NN

@@ -1,0 +1,5 @@
+mber_NN of_IN segments_NNS appearing_VBG in_IN the_DT data_NNS to_TO be_VB k_NN =_JJ 10_CD ,_, and_CC all_PDT the_DT dimensions_NNS have_VBP the_DT same_JJ segment_NN boundaries_NNS ._.
+All_PDT the_DT points_NNS in_IN a_DT segment_NN are_VBP normally_RB distributed_VBN around_IN some_DT randomly_RB picked_VBN mean_NN µ_NN ∈_NN =_JJ -_: =[_NN 9_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD can_MD consider_VB each_DT dimension_NN to_TO correspond_VB to_TO data_NNS coming_VBG from_IN a_DT different_JJ sensor_NN ._.
+We_PRP report_VBP the_DT results_NNS from_IN a_DT dataset_NN that_WDT has_VBZ 1000_CD data_NN points_NNS ,_, and_CC 10_CD dimensions_NNS ._.
+Standard_JJ segmentation_NN methods_NNS

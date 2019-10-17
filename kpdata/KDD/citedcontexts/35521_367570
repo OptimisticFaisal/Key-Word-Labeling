@@ -1,0 +1,3 @@
+ith_JJ several_JJ text_NN classification_NN tasks_NNS ranging_VBG from_IN wellestablished_JJ benchmarks_NNS like_IN Reuters_NNP and_CC 20-newsgroups_JJ to_TO more_RBR noisy_JJ classification_NN tasks_NNS ,_, like_IN the_DT Outdoors_NNP dataset_NN ,_, chosen_VBN from_IN Web_NN directories_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP is_VBZ difficult_JJ to_TO quantify_VB the_DT many_JJ ways_NNS in_IN which_WDT HIClass_NN is_VBZ useful_JJ ._.
+Therefore_RB we_PRP pick_VBP a_DT few_JJ measures_NNS like_IN the_DT benefits_NNS of_IN active_JJ learning_NN with_IN terms_NNS and_CC document_NN to_TO report_VB as_IN performance_NN numbers_NNS ._.

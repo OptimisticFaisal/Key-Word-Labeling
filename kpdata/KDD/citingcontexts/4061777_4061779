@@ -1,0 +1,6 @@
+ameters_NNS as_IN the_DT maximum_NN depth_NN of_IN the_DT tree_NN ,_, the_DT minimum_JJ size_NN of_IN a_DT cluster_NN ,_, and_CC the_DT cluster_NN number_NN preference_NN at_IN each_DT level_NN ._.
+These_DT parameters_NNS make_VBP this_DT approach_NN rather_RB ad_FW hoc_FW ._.
+Comparatively_RB ,_, the_DT work_NN in_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: falls_VBZ into_IN the_DT category_NN of_IN divisive_JJ hierarchical_JJ clustering_NN ._.
+The_DT authors_NNS generate_VBP a_DT taxonomy_NN with_IN each_DT node_NN associated_VBN with_IN a_DT list_NN of_IN categories_NNS ._.
+Each_DT leaf_NN node_NN has_VBZ only_RB one_CD category_NN ._.
+This_DT algorithm_NN

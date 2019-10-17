@@ -1,0 +1,4 @@
+ion_NN research_NN for_IN rule_NN pruning_NN such_JJ as_IN pessimistic_JJ error_NN rate_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- and_CC minimum_JJ description_NN length_NN based_VBN pruning_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+In_IN our_PRP$ work_NN ,_, we_PRP choose_VBP the_DT widely_RB used_VBN chisquare_NN test_NN statistics_NNS for_IN rule_NN pruning_NN ._.
+=_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: introduces_VBZ a_DT technique_NN to_TO remove_VB two_CD types_NNS of_IN redundant_JJ rules_NNS ,_, i.e._FW ,_, simple_JJ and_CC strict_JJ redundancy_NN ._.
+Essentially_RB ,_, a_DT rule_NN is_VBZ redundant_JJ with_IN respect_NN to_TO another_DT rule_NN if_IN the_DT support_NN and_CC confidence_NN of_IN the_DT r_NN

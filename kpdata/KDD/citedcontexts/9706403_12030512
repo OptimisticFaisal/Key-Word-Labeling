@@ -1,0 +1,4 @@
+mproving_VBG Adaptive_NNP Bagging_NNP Methods_NNS for_IN Evolving_NNP Data_NNP Streams_NNP Abstract_NNP ._.
+We_PRP propose_VBP two_CD new_JJ improvements_NNS for_IN bagging_VBG methods_NNS on_IN evolving_VBG data_NNS streams_NNS ._.
+Recently_RB ,_, two_CD new_JJ variants_NNS of_IN Bagging_NNP were_VBD proposed_VBN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: :_: ADWIN_NNP Bagging_NNP and_CC Adaptive-Size_NNP Hoeffding_NNP Tree_NNP -LRB-_-LRB- ASHT_NNP -RRB-_-RRB- Bagging_NNP ._.
+ASHT_NNP Bagging_NNP uses_VBZ trees_NNS of_IN different_JJ sizes_NNS ,_, and_CC ADWIN_NNP Bagging_NNP uses_VBZ ADWIN_NNP as_IN a_DT change_NN detector_NN to_TO decide_VB when_WRB to_TO discard_VB underperformin_NN

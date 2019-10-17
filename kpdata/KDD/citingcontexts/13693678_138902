@@ -1,0 +1,5 @@
+raffic_NN flows_VBZ with_IN some_DT neighbors_NNS -LRB-_-LRB- peers_NNS -RRB-_-RRB- ._.
+We_PRP can_MD construct_VB a_DT communication_NN network_NN of_IN who-talks-towhom_NN from_IN the_DT BGP_NNP -LRB-_-LRB- Border_NNP Gateway_NNP Protocol_NNP -RRB-_-RRB- logs_NNS ._.
+We_PRP use_VBP the_DT the_DT Autonomous_NNP Systems_NNP -LRB-_-LRB- AS_NNP -RRB-_-RRB- dataset_NN from_IN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT dataset_NN contains_VBZ 735_CD daily_JJ instances_NNS which_WDT span_VBP an_DT interval_NN of_IN 785_CD days_NNS from_IN November_NNP 8_CD 1997_CD to_TO January_NNP 2_CD 2000_CD ._.
+In_IN contrast_NN to_TO citation_NN networks_NNS ,_, where_WRB nodes_NNS and_CC edges_NNS only_RB get_VB added_VBN -LRB-_-LRB- not_RB delete_VB

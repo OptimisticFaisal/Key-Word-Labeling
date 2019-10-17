@@ -1,0 +1,4 @@
+pages_NNS are_VBP similar_JJ ,_, we_PRP expect_VBP there_EX to_TO be_VB a_DT high_JJ overlap_VB between_IN their_PRP$ corresponding_JJ sets_NNS of_IN similar_JJ pages_NNS ._.
+Though_IN the_DT scenario_NN is_VBZ a_DT bit_RB different_JJ ,_, a_DT similar_JJ idea_NN underlies_VBZ the_DT computation_NN of_IN SimRank_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT case_NN of_IN SimRank_NNP ,_, two_CD documents_NNS are_VBP similar_JJ if_IN the_DT documents_NNS that_WDT cite_VBP them_PRP are_VBP similar_JJ providing_VBG a_DT recursive_JJ mechanism_NN for_IN computing_NN similarity_NN measure_NN ._.
+In_IN the_DT case_NN of_IN LTRank_NN ,_, similarity_NN is_VBZ c_NN

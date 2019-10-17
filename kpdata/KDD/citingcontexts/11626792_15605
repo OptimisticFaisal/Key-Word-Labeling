@@ -1,0 +1,4 @@
+xponential_JJ constant_NN -LRB-_-LRB- 2_CD d_NN -RRB-_-RRB- where_WRB d_NN is_VBZ the_DT dimensionality_NN of_IN the_DT objects_NNS ._.
+It_PRP is_VBZ well_RB understood_VBN that_IN space\/data_NN partitioning_NN methods_NNS do_VBP not_RB work_VB well_RB beyond_IN dimensionality_NN on_IN the_DT order_NN of_IN eight_CD to_TO ten_CD =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, the_DT time_NN series_NN motifs_NNS that_IN we_PRP are_VBP trying_VBG to_TO maintain_VB can_MD be_VB of_IN any_DT length_NN from_IN hundreds_NNS to_TO thousands_NNS ._.
+Eppstein_NNP actually_RB introduces_VBZ two_CD different_JJ types_NNS of_IN data_NNS structures_NNS in_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, a_DT quadrat_NN

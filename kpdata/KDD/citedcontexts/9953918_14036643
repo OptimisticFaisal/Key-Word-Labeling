@@ -1,0 +1,4 @@
+g_NN users_NNS in_IN terms_NNS of_IN their_PRP$ affinity_NN to_TO defining_VBG characteristics_NNS of_IN segment_NN ,_, such_JJ as_IN a_DT topic_NN or_CC a_DT brand_NN ,_, by_IN essentially_RB learning_VBG a_DT click_VBP prediction_NN model_NN ._.
+Chen_NNP et_FW al_FW also_RB build_VB a_DT click_VBP prediction_NN model_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC they_PRP take_VBP a_DT probabilistic_JJ approach_NN ,_, where_WRB click_VBP and_CC impression_NN counts_NNS are_VBP modelled_VBN under_IN a_DT Poisson_NNP observation_NN model_NN ._.
+3_LS ._.
+BT_NNP USING_NNP CLICK_NNP PREDICTION_NNP Our_NNP approach_NN to_TO BT_NNP assumes_VBZ that_IN the_DT action_NN of_IN c_NN

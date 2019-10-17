@@ -1,0 +1,5 @@
+er_IN difficult_JJ task_NN ._.
+Other_JJ methods_NNS exploiting_VBG information_NN redundancy_NN can_MD be_VB found_VBN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+These_DT systems_NNS generally_RB face_VBP the_DT problem_NN that_IN many_JJ parameters_NNS need_VBP to_TO be_VB specified_VBN for_IN each_DT relation_NN ._.
+LEILA_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: automatically_RB generated_VBN negative_JJ examples_NNS using_VBG information_NN about_IN the_DT cardinality_NN of_IN relations_NNS ._.
+Work_NN conducted_VBN in_IN -LRB-_-LRB- 19_CD -RRB-_-RRB- -LRB-_-LRB- 20_CD -RRB-_-RRB- employed_VBN semi-supervised_JJ learning_NN algorithms_NNS and_CC achieved_VBD good_JJ performance_NN

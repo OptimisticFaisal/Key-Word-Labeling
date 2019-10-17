@@ -1,0 +1,5 @@
+Features_NNP Encode_NNP Data_NNP Figure_NNP 6_CD :_: SGD_NN learning_NN via_IN MapReduce_NNP ._.
+Preprocessing_VBG is_VBZ parallelized_VBN ;_: training_NN is_VBZ sequential_JJ ._.
+The_DT first_JJ of_IN these_DT is_VBZ to_TO use_VB a_DT feature-hashing_JJ approach_NN similar_JJ in_IN spirit_NN to_TO that_DT of_IN =_JJ -_: =[_NN 36_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+If_IN we_PRP think_VBP of_IN w_FW ∈_FW R_NN d_NN as_IN a_DT set_NN of_IN key-value_JJ pairs_NNS where_WRB many_JJ values_NNS are_VBP exactly_RB 0_CD ,_, then_RB it_PRP is_VBZ efficient_JJ to_TO store_VB the_DT non-zero_JJ values_NNS in_IN a_DT hash_JJ map_NN ._.
+Hashing_VBG the_DT keys_NNS ensures_VBZ that_IN the_DT model_NN size_NN will_MD

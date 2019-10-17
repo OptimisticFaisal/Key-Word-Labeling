@@ -1,0 +1,5 @@
+ion_NN error_NN as_IN a_DT function_NN of_IN the_DT number_NN of_IN original_JJ samples_NNS per_IN digit_NN used_VBN in_IN training_NN ._.
+Right_RB figure_NN shows_VBZ the_DT number_NN of_IN support_NN vectors_NNS corresponding_VBG to_TO the_DT optimum_NN of_IN each_DT method_NN ._.
+outwit_VB spam_NN filters_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT context_NN ,_, the_DT spam_NN filter_NN should_MD be_VB invariant_JJ to_TO the_DT ways_NNS in_IN which_WDT a_DT spam_NN authors_NNS will_MD change_VB their_PRP$ style_NN ._.
+One_CD common_JJ mechanism_NN of_IN style_NN alteration_NN is_VBZ the_DT insertion_NN of_IN common_JJ words_NNS ,_, and_CC avoid_VB

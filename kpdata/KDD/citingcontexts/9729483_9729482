@@ -1,0 +1,5 @@
+us_PRP networks_NNS ,_, i.e._FW ,_, networks_NNS consisting_VBG of_IN single_JJ type_NN of_IN objects_NNS ,_, as_IN shown_VBN above_IN ._.
+However_RB ,_, in_IN reality_NN ,_, objects_NNS could_MD be_VB of_IN multiple_JJ types_NNS ,_, forming_VBG a_DT heterogeneous_JJ network_NN ._.
+A_DT recent_JJ algorithm_NN RankClus_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: deals_NNS with_IN bi-typed_JJ heterogeneous_JJ networks_NNS ._.
+Unfortunately_RB ,_, in_IN reality_NN there_RB often_RB exists_VBZ more_JJR than_IN two_CD types_NNS of_IN interacting_VBG objects_NNS in_IN a_DT network_NN ._.
+Among_IN them_PRP ,_, networks_NNS with_IN star_NN network_NN schema_NN -LRB-_-LRB- called_VBN

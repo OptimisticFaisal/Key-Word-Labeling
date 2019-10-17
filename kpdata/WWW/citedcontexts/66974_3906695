@@ -1,0 +1,4 @@
+during_IN heavy_JJ overloads_NNS ._.
+To_TO address_VB this_DT issue_NN ,_, we_PRP propose_VBP very_RB low_JJ overhead_JJ admission_NN control_NN mechanisms_NNS that_WDT can_MD scale_VB to_TO very_RB high_JJ request_NN rates_NNS under_IN overloads_NNS ._.
+Past_JJ work_NN on_IN admission_NN control_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 27_CD -RRB-_-RRB- has_VBZ focused_VBN on_IN the_DT mechanics_NNS of_IN policing_VBG and_CC did_VBD not_RB specifically_RB consider_VB the_DT scalability_NN of_IN these_DT mechanisms_NNS ._.
+In_IN addition_NN to_TO imposing_VBG very_RB low_JJ overheads_NNS ,_, our_PRP$ mechanisms_NNS can_MD preferential_JJ

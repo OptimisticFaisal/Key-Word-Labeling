@@ -1,0 +1,4 @@
+act_NN ,_, we_PRP believe_VBP it_PRP is_VBZ a_DT reasonable_JJ approximation_NN when_WRB the_DT probabilities_NNS are_VBP all_DT small_JJ ,_, as_IN is_VBZ typically_RB the_DT case_NN for_IN marketing_NN domains_NNS ._.
+Linear_JJ models_NNS often_RB perform_VBP well_RB ,_, especially_RB when_WRB data_NNS is_VBZ sparse_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC provide_VB significant_JJ advantages_NNS for_IN computation_NN ._.
+Note_VB that_IN we_PRP are_VBP modeling_NN only_RB positive_JJ interactions_NNS between_IN customers_NNS ,_, which_WDT we_PRP found_VBD in_IN our_PRP$ previous_JJ work_NN to_TO be_VB the_DT most_RBS common_JJ type_NN ._.
+i_FW ij_FW i_FW -LRB-_-LRB- 1_LS -RRB-_-RRB-

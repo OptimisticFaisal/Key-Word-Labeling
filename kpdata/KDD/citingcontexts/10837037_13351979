@@ -1,0 +1,6 @@
+ed_VBN rules_NNS accurately_RB predict_VBP future_JJ changes_NNS in_IN the_DT networks_NNS ._.
+2_CD ._.
+RELATED_NNS WORK_VBP A_DT graph_NN is_VBZ a_DT natural_JJ way_NN to_TO represent_VB biological_JJ networks_NNS ._.
+There_EX are_VBP several_JJ graph_NN mining_NN approaches_NNS to_TO biological_JJ networks_NNS =_JJ -_: =[_NN 10_CD ,_, 11_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT approaches_NNS represent_VBP biological_JJ networks_NNS as_IN graphs_NNS ,_, where_WRB vertices_NNS represent_VBP molecules_NNS and_CC edges_NNS represent_VBP relations_NNS between_IN molecules_NNS ,_, and_CC discover_VB frequent_JJ patterns_NNS in_IN these_DT graphs_NNS ._.
+They_PRP dis_VBP

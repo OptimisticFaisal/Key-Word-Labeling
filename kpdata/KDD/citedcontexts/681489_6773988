@@ -1,0 +1,5 @@
+s_NN on_IN a_DT small_JJ subset_NN of_IN discriminative_JJ features_NNS ,_, known_VBN as_IN feature_NN selection_NN ,_, for_IN building_VBG a_DT reliable_JJ classifier_NN ._.
+Feature_NN selection_NN methods_NNS have_VBP been_VBN widely_RB studied_VBN in_IN gene_NN selection_NN of_IN microarray_NN data_NN =_JJ -_: =[_NN 6_CD ,_, 26_CD ,_, 32_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT methods_NNS are_VBP ,_, however_RB ,_, inefficient_JJ for_IN CGH_NN data_NNS ._.
+This_DT is_VBZ because_IN ,_, unlike_IN ordinary_JJ high-dimensional_JJ data_NNS ,_, adjacent_JJ genomic_JJ intervals_NNS may_MD be_VB correlated_VBN -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+A_DT point-like_JJ genomic_JJ aberration_NN may_MD e_SYM

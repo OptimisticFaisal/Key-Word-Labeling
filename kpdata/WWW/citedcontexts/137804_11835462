@@ -1,0 +1,4 @@
+ular_JJ topics_NNS in_IN which_WDT the_DT search_NN engine_NN users_NNS are_VBP interested_JJ ._.
+HITS_NNS ,_, on_IN the_DT other_JJ hand_NN ,_, works_VBZ on_IN a_DT query-specific_JJ subgraph_NN of_IN the_DT Web_NN ,_, so_IN that_IN the_DT ranking_JJ scores_NNS are_VBP biased_VBN by_IN the_DT issued_VBN query_NN ._.
+Hilltop_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: works_VBZ mostly_RB on_IN popular_JJ topics_NNS and_CC depends_VBZ on_IN a_DT set_NN of_IN expert_NN pages_NNS that_WDT are_VBP identified_VBN to_TO be_VB authoritative_JJ in_IN the_DT query_JJ domain_NN to_TO rank_VB the_DT other_JJ pages_NNS ._.
+Topic-sensitive_JJ PageRank_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- pre-computes_NNS a_DT v_LS

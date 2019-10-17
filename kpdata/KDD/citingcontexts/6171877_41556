@@ -1,0 +1,4 @@
+ese_NN techniques_NNS is_VBZ given_VBN in_IN -LRB-_-LRB- 31_CD -RRB-_-RRB- ._.
+One_CD approach_NN is_VBZ to_TO use_VB sequence_NN analysis_NN to_TO determine_VB anomalies_NNS ._.
+A_DT method_NN of_IN modeling_NN normal_JJ sequences_NNS using_VBG look_NN ahead_RB pairs_NNS and_CC contiguous_JJ sequences_NNS is_VBZ presented_VBN in_IN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC a_DT statistical_JJ method_NN to_TO determine_VB frequent_JJ sequences_NNS in_IN intrusion_NN data_NNS is_VBZ presented_VBN in_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Lee_NNP et_FW al._FW -LRB-_-LRB- 21_CD -RRB-_-RRB- uses_VBZ a_DT decision_NN tree_NN model_NN over_IN normal_JJ data_NNS andsGhosh_NN et_FW al._FW -LRB-_-LRB- 13_CD -RRB-_-RRB- uses_VBZ a_DT neural_JJ netwo_NN

@@ -1,0 +1,4 @@
+on_IN the_DT effectiveness_NN of_IN the_DT page_NN clustering_NN algorithm_NN ._.
+1_LS -RRB-_-RRB- URL-based_JJ :_: Clustering_NN based_VBN on_IN URL-similarity_NN is_VBZ effective_JJ for_IN partitioning_VBG pages_NNS from_IN different_JJ Deep_JJ Web_NN databases_NNS by_IN their_PRP$ point_NN of_IN origin_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC it_PRP is_VBZ not_RB suitable_JJ for_IN focused_JJ extraction_NN of_IN QAPagelets_NNS for_IN a_DT number_NN of_IN reasons_NNS ._.
+First_JJ ,_, different_JJ queries_NNS over_IN a_DT single_JJ Deep_JJ Web_NN database_NN often_RB result_VBP in_IN pages_NNS with_IN similar_JJ URLs_NNS ._.
+Second_JJ ,_, pages_NNS w_NN

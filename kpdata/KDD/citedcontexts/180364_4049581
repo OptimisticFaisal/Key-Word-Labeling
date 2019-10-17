@@ -1,0 +1,4 @@
+r_NN distance_NN functions_NNS defined_VBN using_VBG Lp_NN norms_NNS ._.
+Various_JJ techniques_NNS appeared_VBD in_IN the_DT literature_NN for_IN robust_JJ evaluation_NN of_IN similarity_NN queries_NNS on_IN time-series_JJ databases_NNS when_WRB using_VBG nonmetric_JJ distance_NN functions_NNS =_JJ -_: =[_NN 14_CD ,_, 25_CD ,_, 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT techniques_NNS use_VBP the_DT filter-and-refine_JJ approach_NN where_WRB an_DT approximation_NN of_IN the_DT original_JJ distance_NN that_WDT can_MD be_VB computed_VBN efficiently_RB is_VBZ utilized_VBN in_IN the_DT filtering_VBG step_NN ._.
+Query_FW speedup_FW is_VBZ achieved_VBN by_IN p_NN

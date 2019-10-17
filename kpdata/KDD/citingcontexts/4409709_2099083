@@ -1,0 +1,4 @@
+were_VBD subgraphs_NNS centered_VBN on_IN a_DT target_NN broker_NN and_CC included_VBD information_NN about_IN the_DT broker_NN 's_POS current_JJ and_CC past_JJ employment_NN ._.
+These_DT subgraphs_NNS were_VBD extracted_VBN from_IN the_DT data_NNS using_VBG the_DT visual_JJ query_NN language_NN QGraph_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Queries_NNS in_IN this_DT language_NN allow_VBP for_IN variation_NN in_IN the_DT number_NN and_CC types_NNS of_IN objects_NNS and_CC links_NNS that_WDT form_VBP the_DT subgraphs_NNS and_CC return_NN collections_NNS of_IN all_DT matching_VBG subgraphs_NNS from_IN a_DT database_NN ._.
+Figure_NN 3_CD shows_VBZ an_DT

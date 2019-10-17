@@ -1,0 +1,5 @@
+ed_VBN methods_NNS are_VBP similar_JJ to_TO those_DT proposed_VBN in_IN -LRB-_-LRB- 10_CD ,_, 12_CD -RRB-_-RRB- and_CC can_MD thus_RB be_VB used_VBN for_IN heterogeneous_JJ data_NNS integration_NN ._.
+The_DT problem_NN of_IN kernel_NN learning_NN for_IN discriminant_JJ analysis_NN has_VBZ been_VBN addressed_VBN originally_RB in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Kim_NNP et_FW al._FW -LRB-_-LRB- 10_CD -RRB-_-RRB- formulated_VBN this_DT problem_NN as_IN a_DT semidefinite_NN program_NN -LRB-_-LRB- SDP_NN -RRB-_-RRB- ,_, and_CC hence_RB the_DT globally_RB optimal_JJ solution_NN can_MD be_VB obtained_VBN ._.
+The_DT algorithms_NNS in_IN -LRB-_-LRB- 6_CD ,_, 10_CD -RRB-_-RRB- deal_NN with_IN binary-class_JJ problems_NNS only_RB ._.
+They_PRP

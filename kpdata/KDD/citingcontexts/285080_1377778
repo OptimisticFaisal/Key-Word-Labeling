@@ -1,0 +1,4 @@
+the_DT case_NN ._.
+The_DT probabilistic_JJ model_NN obtained_VBN from_IN it_PRP in_IN the_DT way_NN described_VBN will_MD then_RB be_VB an_DT instance_NN of_IN a_DT dependency_NN network_NN ,_, a_DT generalization_NN of_IN Markov_NNP randomselds_NNS recently_RB proposed_VBN by_IN Heckerman_NNP et_FW al._FW =_SYM -_: =[_NN 17_CD -_: =-]_CD ._.
+Heckerman_NNP et_FW al._FW show_VBP that_IN Gibbs_NNP sampling_NN applied_VBN to_TO such_PDT a_DT network_NN denes_VBZ a_DT joint_JJ distribution_NN from_IN which_WDT all_DT probabilities_NNS of_IN interest_NN can_MD be_VB computed_VBN ._.
+While_IN in_IN our_PRP$ experimental_JJ studies_NNS Gibbs_NNP samp_NN

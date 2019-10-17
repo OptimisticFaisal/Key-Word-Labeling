@@ -1,0 +1,5 @@
+connectivity_NN is_VBZ available_JJ ._.
+It_PRP improves_VBZ the_DT response_NN time_NN but_CC deployment_NN of_IN such_PDT a_DT system_NN will_MD require_VB dedicated_JJ high_JJ performance_NN systems_NNS ._.
+Rhea_NNP et_NNP ._.
+al._FW proposed_VBD a_DT technique_NN called_VBN value-based_JJ caching_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT eliminates_VBZ redundant_JJ data_NNS transfer_NN by_IN breaking_VBG contents_NNS of_IN a_DT page_NN into_IN blocks_NNS and_CC repetitive_JJ requests_NNS for_IN the_DT same_JJ blocks_NNS are_VBP served_VBN by_IN sending_VBG the_DT hash_NN of_IN those_DT blocks_NNS ._.
+This_DT technique_NN improves_VBZ

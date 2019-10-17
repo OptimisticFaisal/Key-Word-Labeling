@@ -1,0 +1,5 @@
+ervice_NN description_NN ._.
+The_DT formal_JJ logics_NNS used_VBN in_IN semantic_JJ reasoner_NN could_MD be_VB logics_NNS developed_VBN for_IN expressing_VBG knowledge_NN and_CC reasoning_NN about_IN concepts_NNS and_CC concept_NN hierarchies_NNS ,_, for_IN example_NN ,_, Description_NN Logic_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT transformation_NN between_IN Description_NN Logic_NN and_CC LL_NN is_VBZ done_VBN by_IN the_DT adapter_NN ._.
+Adapter_NN performs_VBZ translation_NN between_IN LL_NN and_CC the_DT internal_JJ presentation_NN used_VBN by_IN the_DT semantic_JJ reasoner_NN ._.
+A_DT composition_NN process_NN i_FW

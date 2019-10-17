@@ -1,0 +1,4 @@
+ering_VBG frequent_JJ word_NN sequences_NNS in_IN documents_NNS ._.
+In_IN addition_NN ,_, this_DT work_NN can_MD be_VB related_VBN to_TO other_JJ attempts_NNS to_TO discover_VB clusters_NNS using_VBG some_DT kind_NN of_IN summarization_NN of_IN frequent-patterns_NNS ,_, such_JJ as_IN the_DT research_NN in_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3_CD Our_NNP Approach_NNP To_TO identify_VB groups_NNS of_IN genes_NNS based_VBN on_IN the_DT similarity_NN of_IN their_PRP$ EST_NN makeup_NN ,_, we_PRP designed_VBD a_DT new_JJ clustering_NN algorithm_NN based_VBN on_IN frequent-itemsets_NNS and_CC frequency_NN levels_NNS ._.
+It_PRP is_VBZ presented_VBN below_IN :_:

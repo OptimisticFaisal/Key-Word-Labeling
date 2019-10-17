@@ -1,0 +1,4 @@
+imiting_VBG the_DT size_NN of_IN states_NNS maintained_VBN for_IN queries_NNS and_CC -LRB-_-LRB- ii_LS -RRB-_-RRB- by_IN reducing_VBG answer_NN precision_NN ._.
+One_CD of_IN the_DT straightforward_JJ ways_NNS to_TO limit_VB the_DT size_NN of_IN query_JJ states_NNS is_VBZ to_TO put_VB sliding_VBG windows_NNS over_IN input_NN streams_NNS =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =-[_NN 77_CD -RRB-_-RRB- -LRB-_-LRB- 88_CD -RRB-_-RRB- ._.
+In_IN fact_NN ,_, the_DT sliding_VBG window_NN constructs_NNS are_VBP often_RB required_VBN as_RB well_RB by_IN application_NN semantics_NNS in_IN which_WDT the_DT size_NN of_IN window_NN is_VBZ explicitly_RB specified_VBN in_IN the_DT query_NN context_NN ._.
+On_IN 11sthe_CD other_JJ hand_NN ,_, sum_NN

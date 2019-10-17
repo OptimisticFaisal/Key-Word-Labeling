@@ -1,0 +1,4 @@
+n_NN not_RB be_VB inferred_VBN from_IN its_PRP$ randomized_VBN counterpart_NN with_IN probabilities_NNS better_JJR than_IN a_DT pre-defined_JJ threshold_NN ,_, and_CC the_DT data_NNS mining_NN algorithms_NNS are_VBP performed_VBN on_IN the_DT randomized\/distorted_JJ dataset_NN instead_RB -LRB-_-LRB- -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 4_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+In_IN this_DT paper_NN ,_, we_PRP continue_VBP the_DT study_NN of_IN privacy_NN preserving_NN association_NN rule_NN mining_NN problem_NN ._.
+A_DT problem_NN with_IN many_JJ existing_VBG algorithms_NNS is_VBZ that_IN they_PRP treat_VBP all_DT data_NNS attributes_NNS identically_RB ._.
+Tha_NN

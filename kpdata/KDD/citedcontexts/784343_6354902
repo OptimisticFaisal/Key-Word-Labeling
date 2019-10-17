@@ -1,0 +1,4 @@
+ned_VBN using_VBG the_DT refinement_NN algorithm_NN ._.
+Recently_RB ,_, graph_NN partitioning_VBG with_IN an_DT edge_NN cut_NN objective_NN has_VBZ been_VBN shown_VBN to_TO be_VB mathematically_RB equivalent_JJ to_TO an_DT appropriate_JJ weighted_JJ kernel_NN k-means_NN objective_NN function_NN =_JJ -_: =[_NN 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Based_VBN on_IN this_DT equivalence_JJ ,_, the_DT weighted_JJ kernel_NN k-means_NN algorithm_NN has_VBZ been_VBN proposed_VBN for_IN graph_NN partitioning_NN -LRB-_-LRB- 9_CD ,_, 7_CD ,_, 8_CD -RRB-_-RRB- ._.
+Learning_NNP communities_NNS from_IN a_DT graph_NN has_VBZ also_RB been_VBN intensively_RB studied_VBN in_IN the_DT contex_NN

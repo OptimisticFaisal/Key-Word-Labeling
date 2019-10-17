@@ -1,0 +1,5 @@
+-LRB-_-LRB- 8_CD -RRB-_-RRB- proposes_VBZ to_TO generate_VB only_RB frequent_JJ closed_VBN -LRB-_-LRB- i.e._FW non_JJ redundant_JJ -RRB-_-RRB- patterns_NNS ._.
+The_DT algorithms_NNS that_WDT generate_VBP frequent_JJ closed_JJ itemsets_NNS use_VBP either_CC item-based_JJ data_NNS structures_NNS -LRB-_-LRB- 8,9_CD -RRB-_-RRB- or_CC the_DT FP-Tree_JJ structure_NN =_JJ -_: =[_NN 10,11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+III_NNP ._.
+PATRICIA-TREE_FW VS_FW FP-TREE_NN In_IN this_DT section_NN ,_, we_PRP compare_VBP the_DT Patricia-Tree_NNP structure_NN with_IN PF-Tree_NN in_IN order_NN to_TO determine_VB what_WP is_VBZ more_RBR accurate_JJ for_IN different_JJ databases_NNS -LRB-_-LRB- dense_JJ or_CC sparse_JJ -RRB-_-RRB- ._.
+A._FW FP-Tree_FW T_NN

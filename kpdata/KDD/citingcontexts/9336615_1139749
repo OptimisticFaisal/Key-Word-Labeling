@@ -1,0 +1,4 @@
+t_NN the_DT proposed_VBN formulation_NN includes_VBZ several_JJ well-known_JJ algorithms_NNS as_IN special_JJ cases_NNS ._.
+We_PRP begin_VBP by_IN discussing_VBG related_JJ work_NN ._.
+4.1_CD Related_JJ Work_NN Dimensionality_NN Reduction_NN Canonical_JJ correlation_NN analysis_NN -LRB-_-LRB- CCA_NN -RRB-_-RRB- =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: and_CC partial_JJ least_JJS squares_NNS -LRB-_-LRB- PLS_NN -RRB-_-RRB- -LRB-_-LRB- 29_CD ,_, 4_CD -RRB-_-RRB- are_VBP classical_JJ techniques_NNS for_IN modeling_NN relations_NNS between_IN sets_NNS of_IN observed_VBN variables_NNS ._.
+They_PRP both_DT compute_VBP low-dimensional_JJ embedding_NN of_IN sets_NNS of_IN variables_NNS simultaneo_NN

@@ -1,0 +1,5 @@
+ns_NNS ;_: a_DT host_NN only_RB fetches_VBZ raw_JJ chunk_NN data_NNS if_IN no_DT local_JJ copy_NN exists_VBZ ._.
+Silo_NNP uses_VBZ the_DT advanced_JJ programming_NN environment_NN of_IN modern_JJ browsers_NNS to_TO implement_VB an_DT LBFS-like_JJ protocol_NN atop_IN HTTP_NNP ._.
+Value-based_JJ Web_NN Caching_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ a_DT similar_JJ goal_NN ._.
+VBWC_NNP introduces_VBZ two_CD new_JJ proxies_NNS ,_, one_CD inside_IN the_DT network_NN belonging_VBG to_TO an_DT ISP_NN ,_, and_CC another_DT on_IN the_DT client_NN ._.
+The_DT browser_NN issues_NNS web_NN requests_NNS through_IN the_DT local_JJ proxy_NN ,_, and_CC the_DT local_JJ prox_NN

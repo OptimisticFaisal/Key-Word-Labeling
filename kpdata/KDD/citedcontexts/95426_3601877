@@ -1,0 +1,4 @@
+or_CC later_RB ._.
+Recent_JJ proposed_VBN techniques_NNS include_VBP clustering_NN algorithms_NNS when_WRB the_DT objects_NNS arrive_VBP as_IN a_DT stream_NN -LRB-_-LRB- 8_CD ,_, 15_CD -RRB-_-RRB- ,_, computing_NN decision_NN tree_NN classifiers_NNS when_WRB the_DT classification_NN examples_NNS arrive_VBP as_IN a_DT stream_NN =_JJ -_: =[_NN 5_CD ,_, 10_CD ,_, 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, as_RB well_RB as_IN approximate_JJ computing_NN medians_NNS and_CC quantiles_NNS in_IN one_CD pass_NN -LRB-_-LRB- 12_CD ,_, 13_CD ,_, 2_CD -RRB-_-RRB- ._.
+Density_NN estimation_NN is_VBZ a_DT common_JJ and_CC useful_JJ technique_NN to_TO do_VB analysis_NN on_IN data_NNS stream_NN ._.
+Given_VBN a_DT sequence_NN of_IN independent_JJ ran_VBD

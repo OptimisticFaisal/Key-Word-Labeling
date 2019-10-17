@@ -1,0 +1,5 @@
+ness_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, and_CC semantic_JJ privacy_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+We_PRP used_VBD both_CC generalization_NN and_CC bucketization_NN ._.
+We_PRP used_VBD the_DT Adult_NN dataset_NN -LRB-_-LRB- which_WDT has_VBZ been_VBN widely_RB used_VBN in_IN previous_JJ studies_NNS -RRB-_-RRB- from_IN the_DT UCI_NNP Machine_NNP Learning_NNP Repository_NNP =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT data_NN contains_VBZ 45222_CD records_NNS and_CC we_PRP use_VBP seven_CD attributes_NNS of_IN the_DT data_NNS ,_, as_IN described_VBN in_IN Table_NNP 1_CD ._.
+5.1_CD Utility_NNP Loss_NN Uloss_NNP V.S._NNP Privacy_NNP Loss_NN Ploss_NN For_IN each_DT privacy_NN requirement_NN ,_, we_PRP use_VBP the_DT Mondrian_NNP alg_NN

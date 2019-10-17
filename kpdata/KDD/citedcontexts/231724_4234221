@@ -1,0 +1,4 @@
+tion_NN error_NN ,_, in_IN general_JJ ,_, the_DT fraction_NN of_IN training_NN points_NNS controlled_VBN by_IN the_DT adversary_NN must_MD be_VB less_JJR than_IN ɛ_NN \/_: -LRB-_-LRB- 1_CD +_CC ɛ_NN -RRB-_-RRB- ._.
+Dalvi_NNP et_FW al._FW examine_VB the_DT learn-adapt-relearn_JJ cycle_NN from_IN a_DT game-theoretic_JJ point_NN of_IN view_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN their_PRP$ model_NN ,_, the_DT learner_NN has_VBZ a_DT cost_NN for_IN measuring_VBG each_DT feature_NN of_IN the_DT data_NNS and_CC the_DT adversary_NN has_VBZ a_DT cost_NN for_IN changing_VBG each_DT feature_NN in_IN attack_NN points_NNS ._.
+If_IN the_DT adversary_NN and_CC learner_NN have_VBP complete_JJ info_NN

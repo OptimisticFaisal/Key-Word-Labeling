@@ -1,0 +1,4 @@
+collect_VB the_DT component_NN interaction_NN information_NN ._.
+In_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, Chen_NNP et_FW al._FW modified_VBN the_DT JBoss_FW middleware_FW to_TO monitor_VB component_NN interactions_NNS ;_: we_PRP have_VBP used_VBN the_DT same_JJ mechanism_NN in_IN our_PRP$ experiments_NNS ._.
+Aguilera_NNP et_FW al._FW =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT passive_JJ monitoring_NN approach_NN in_IN both_CC RPC-like_JJ systems_NNS and_CC message_NN based_VBN systems_NNS ._.
+Several_JJ commercial_JJ software_NN ,_, such_JJ as_IN HP_NNP 's_POS OpenView_NNP Transaction_NNP Analyzer_NNP ,_, can_MD also_RB be_VB used_VBN to_TO monitor_VB transac_NN

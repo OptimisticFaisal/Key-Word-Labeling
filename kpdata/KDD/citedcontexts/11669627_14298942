@@ -1,0 +1,5 @@
+Kale_NN -LRB-_-LRB- 2009_CD -RRB-_-RRB- construct_NN algorithms_NNS which_WDT use_VBP reward_NN estimators_NNS in_IN order_NN to_TO achieve_VB a_DT worst-case_JJ regret_NN that_WDT depends_VBZ on_IN the_DT variance_NN of_IN the_DT bandit_NN rather_RB than_IN time_NN ._.
+Similarly_RB ,_, the_DT Offset_NNP Tree_NNP algorithm_NN -LRB-_-LRB- =_JJ -_: =_JJ Beygelzimer_NNP &_CC Langford_NNP ,_, 2009_CD -_: =--RRB-_NN can_MD be_VB thought_VBN of_IN as_IN using_VBG a_DT crude_JJ reward_NN estimate_NN for_IN the_DT ``_`` offset_VBN ''_'' ._.
+In_IN both_DT cases_NNS ,_, the_DT algorithms_NNS and_CC estimators_NNS described_VBN here_RB are_VBP substantially_RB more_RBR sophisticated_JJ ._.
+2_CD ._.
+Problem_NNP Definition_NNP and_CC Appro_NNP

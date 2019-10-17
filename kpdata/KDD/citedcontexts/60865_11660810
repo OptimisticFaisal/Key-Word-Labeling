@@ -1,0 +1,5 @@
+ations_NNS ,_, we_PRP use_VBP non-linear_JJ regression_NN with_IN the_DT Random_JJ Forests_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- algorithm_NN 3_CD ,_, to_TO predict_VB performance_NN of_IN queries_NNS and_CC performance_NN differences_NNS respectively_RB ._.
+For_IN the_DT Ranking_NN formulation_NN ,_, we_PRP use_VBP RankSVM_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: 4_CD to_TO learn_VB pair-wise_JJ preferences_NNS ._.
+For_IN all_DT three_CD problem_NN formulations_NNS we_PRP perform_VBP five-fold_JJ cross_NN validation_NN for_IN training_NN and_CC evaluating_VBG the_DT learning_NN models_NNS ._.
+5_CD ._.
+RESULTS_NNS For_IN each_DT formulation_NN ,_, we_PRP report_VBP

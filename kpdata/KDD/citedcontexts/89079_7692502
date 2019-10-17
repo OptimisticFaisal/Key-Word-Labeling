@@ -1,0 +1,4 @@
+memory_NN Markov_NNP chains_NNS ._.
+Numerous_JJ solutions_NNS to_TO the_DT problem_NN of_IN discovering_VBG important_JJ recurrent_JJ motifs_NNS in_IN the_DT fields_NNS of_IN Bioinformatics_NNP and_CC String_NNP Analysis_NNP have_VBP been_VBN previously_RB proposed_VBN -LRB-_-LRB- see_VB e.g._FW -LRB-_-LRB- 37_CD -RRB-_-RRB- -LRB-_-LRB- 6_CD -RRB-_-RRB- =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT references_NNS therein_RB -RRB-_-RRB- ._.
+Work_NN done_VBN in_IN -LRB-_-LRB- 51_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 43_CD -RRB-_-RRB- present_JJ techniques_NNS for_IN learning_VBG variable_JJ memory_NN Markov_NNP chains_NNS from_IN training_NN data_NNS in_IN an_DT unsupervised_JJ manner_NN ._.
+Here_RB ,_, we_PRP extend_VBP the_DT work_NN done_VBN in_IN -LRB-_-LRB- 5_CD

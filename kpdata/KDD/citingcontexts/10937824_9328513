@@ -1,0 +1,4 @@
+erms_NNS and_CC relevant_JJ entities_NNS ,_, the_DT current_JJ year_NN ,_, and_CC the_DT answer_NN type_NN is_VBZ ``_`` person_NN ''_'' ._.
+The_DT desired_VBN answer_NN is_VBZ a_DT list_NN of_IN people_NNS with_IN expertise_NN on_IN this_DT topic_NN ._.
+Gene_NN recommendation_NN ,_, considered_VBN by_IN Arnold_NNP and_CC Cohen_NNP =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, is_VBZ the_DT problem_NN of_IN predicting_VBG ,_, given_VBN past_JJ publishing_NN history_NN ,_, which_WDT genes_NNS an_DT author_NN will_MD publish_VB about_IN over_IN the_DT next_JJ year_NN ._.
+Here_RB the_DT query_NN nodes_NNS are_VBP an_DT author_NN and_CC a_DT year_NN ,_, and_CC the_DT answer_NN type_NN is_VBZ ``_`` gene_NN ''_''

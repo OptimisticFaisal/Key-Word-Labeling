@@ -1,0 +1,6 @@
+based_VBN on_IN Euclidean_JJ distance_NN between_IN query_JJ demand_NN patterns_NNS over_IN time_NN ._.
+They_PRP also_RB propose_VBP a_DT method_NN to_TO detect_VB bursts_NNS in_IN query_NN demand_NN ._.
+But_CC ,_, euclidean_JJ distance_NN is_VBZ brittle_JJ when_WRB comparing_VBG temporal_JJ sequences_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Chein_NN and_CC Immorlica_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- use_VBP correlation_NN coefficient_NN to_TO find_VB similar_JJ queries_NNS with_IN respect_NN to_TO a_DT given_VBN query_NN ._.
+They_PRP also_RB propose_VBP a_DT mapping_NN function_NN which_WDT helps_VBZ in_IN finding_VBG related_JJ queries_NNS in_IN real_JJ time_NN ._.
+L_NN

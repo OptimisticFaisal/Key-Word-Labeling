@@ -1,0 +1,3 @@
+features_NNS in_IN CTR_NN predictors_NNS ._.
+CTR_NN prediction_NN is_VBZ an_DT important_JJ area_NN of_IN research_NN in_IN computational_JJ advertising_NN ,_, in_IN both_CC the_DT areas_NNS of_IN sponsored_VBN search_NN as_RB well_RB as_IN contextual_JJ search_NN ._.
+In_IN sponsored_VBN search_NN -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 21_CD ,_, 22_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, where_WRB CTR_NN is_VBZ commonly_RB modeled_VBN on_IN the_DT level_NN of_IN individual_JJ advertisements_NNS -LRB-_-LRB- unlike_IN our_PRP$ approach_NN ,_, where_WRB the_DT estimation_NN is_VBZ tied_VBN to_TO the_DT query_NN -RRB-_-RRB- ,_, a_DT significant_JJ challenge_NN is_VBZ the_DT CTR_NN estimation_NN and_CC resulting_VBG

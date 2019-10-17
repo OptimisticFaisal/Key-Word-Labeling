@@ -1,0 +1,4 @@
+e_LS emerging_VBG pattern_NN problem_NN is_VBZ MAX-SNP_NN hard_RB ._.
+In_IN order_NN to_TO overcome_VB this_DT issue_NN several_JJ algorithms_NNS were_VBD developed_VBN ,_, which_WDT significantly_RB reduce_VBP the_DT computation_NN time_NN :_: JEPproducer_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, CP-tree_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, FP-tree_NN =_JJ -_: =[_NN 24,25_CD -RRB-_-RRB- -_: =_JJ -_: ,_, classifier_NN based_VBN on_IN local_JJ projected_JJ JEP_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+However_RB ,_, even_RB with_IN those_DT methods_NNS it_PRP is_VBZ still_RB not_RB possible_JJ to_TO search_VB all_DT JEP_NNP 's_POS when_WRB the_DT number_NN of_IN features_NNS exceeds_VBZ few_JJ dozens_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP claim_VBP ,_, t_NN

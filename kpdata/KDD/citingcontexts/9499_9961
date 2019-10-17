@@ -1,0 +1,3 @@
+rs_RB ,_, the_DT Bregman_NNP co-clustering_NN algorithm_NN corresponding_VBG to_TO the_DT relative_JJ entropy-based_JJ cost_NN function_NN automatically_RB seeks_VBZ to_TO find_VB an_DT optimal_JJ -LRB-_-LRB- minimum_JJ length_NN -RRB-_-RRB- lossless_NNS code_VBP for_IN the_DT matrix_NN ._.
+A_DT recent_JJ paper_NN -LRB-_-LRB- =_JJ -_: =_JJ Chakrabarti_NNP et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN follows_VBZ a_DT similar_JJ co-clustering_NN based_VBN approach_NN using_VBG binary_JJ relative_JJ entropy_NN and_CC basis_NN C2_NN for_IN performing_VBG lossless_JJ coding_NN of_IN binary_JJ valued_VBN matrices_NNS ._.
+To_TO demonstrate_VB the_DT effectiveness_NN of_IN the_DT co-cluster_NN

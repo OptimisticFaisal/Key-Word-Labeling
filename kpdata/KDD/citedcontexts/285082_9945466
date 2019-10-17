@@ -1,0 +1,5 @@
+de_IN models_NNS and_CC threshold_NN models_NNS ._.
+The_DT most_RBS basic_JJ models_NNS are_VBP the_DT Independent_NNP Cascade_NNP Model_NNP and_CC the_DT Linear_NNP Threshold_NNP Model_NNP ._.
+The_DT cascade_NN models_NNS are_VBP similar_JJ to_TO the_DT models_NNS of_IN the_DT spread_NN of_IN epidemic_JJ diseases_NNS =_JJ -_: =[_NN 21_CD ,_, 26_CD ,_, 28_CD ,_, 32_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT Independent_NNP Cascade_NNP Model_NNP ,_, each_DT node_NN gets_VBZ a_DT chance_NN to_TO influence_VB each_DT of_IN its_PRP$ inactive_JJ neighbors_NNS with_IN a_DT given_VBN probability_NN of_IN success_NN ._.
+If_IN the_DT transmission_NN is_VBZ successful_JJ ,_, the_DT neighbor_NN will_MD become_VB

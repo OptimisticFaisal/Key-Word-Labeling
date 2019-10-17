@@ -1,0 +1,4 @@
+paratively_RB evaluated_VBN on_IN a_DT number_NN of_IN artificial_JJ and_CC real_JJ world_NN two_CD class_NN problem_NN datasets_NNS ._.
+The_DT GMEB_NN algorithm_NN was_VBD compared_VBN to_TO the_DT linear_JJ SVM_NN -LRB-_-LRB- standard_JJ SVM_NN with_IN linear_JJ kernel_NN -RRB-_-RRB- and_CC the_DT l1_NN SVM_NN classifier_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4.1_CD Experimental_JJ Methodology_NN The_DT algorithms_NNS are_VBP compared_VBN by_IN two_CD criteria_NNS :_: the_DT number_NN of_IN selected_VBN features_NNS and_CC the_DT error_NN rates_NNS ._.
+The_DT weight_NN assigned_VBN by_IN a_DT linear_JJ classifier_NN to_TO a_DT feature_NN j_NN ,_, determines_VBZ w_NN

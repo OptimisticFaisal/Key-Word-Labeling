@@ -1,0 +1,5 @@
+he_PRP bag-of-words_VBZ model_NN for_IN text_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+A_DT simple_JJ but_CC effective_JJ algorithm_NN is_VBZ the_DT Naive_JJ Bayes_NN method_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+For_IN text_NN classification_NN ,_, different_JJ variants_NNS of_IN Naive_JJ Bayes_NNS have_VBP been_VBN used_VBN ,_, but_CC McCallum_NNP and_CC Nigam_NNP =_SYM -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: showed_VBD that_IN the_DT variant_NN based_VBN on_IN the_DT multinomial_JJ model_NN leads_VBZ to_TO better_JJR results_NNS ._.
+For_IN hierarchical_JJ text_NN data_NNS ,_, such_JJ as_IN the_DT topic_NN hierarchies_NNS of_IN Yahoo_NNP !_.
+-LRB-_-LRB- www.yahoo.com_NN -RRB-_-RRB- and_CC the_DT Open_NNP Directory_NNP Project_NNP -LRB-_-LRB- www_NN

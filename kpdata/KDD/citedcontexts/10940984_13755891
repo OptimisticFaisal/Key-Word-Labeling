@@ -1,0 +1,4 @@
+a_DT small_JJ set_NN of_IN influential_JJ users_NNS on_IN the_DT network_NN on_IN the_DT given_VBN topic_NN based_VBN on_IN influence_NN maximization_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Scalable_JJ algorithms_NNS have_VBP been_VBN developed_VBN to_TO solve_VB that_DT problem_NN given_VBN the_DT network_NN diffusion_NN model_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT algorithms_NNS require_VBP the_DT network_NN structure_NN and_CC the_DT influence_NN probability_NN as_IN input_NN ._.
+We_PRP use_VBP the_DT influence_NN analysis_NN results_NNS ruv_VBP to_TO feed_VB the_DT MIA_NNP algorithm_NN in_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, and_CC generate_VB the_DT final_JJ output_NN of_IN se_FW

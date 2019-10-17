@@ -1,0 +1,4 @@
+s_NN from_IN which_WDT to_TO draw_VB our_PRP$ training_NN and_CC test_NN sets_NNS ,_, we_PRP utilized_VBD the_DT QGRAPH_NN language_NN implemented_VBN in_IN PROXIMITY_NN ._.
+QGRAPH_NN is_VBZ a_DT graphical_JJ query_NN language_NN designed_VBN especially_RB for_IN querying_VBG large_JJ network_NN datasets_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT queries_NNS 2_CD http:\/\/kdl.cs.umass.edu\/proximity_NN used_VBN to_TO gather_VB instances_NNS from_IN the_DT database_NN for_IN both_DT reps_NNS and_CC branches_NNS are_VBP shown_VBN in_IN Figure_NNP 7_CD and_CC Figure_NNP 8_CD ,_, respectively_RB ._.
+Each_DT query_NN returns_VBZ a_DT portion_NN o_NN

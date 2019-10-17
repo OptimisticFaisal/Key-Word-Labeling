@@ -1,0 +1,4 @@
+multi_NNS -_: predicate_VB queries_NNS to_TO the_DT appropriate_JJ peers_NNS ._.
+This_DT approach_NN ignores_VBZ RDF\/S_FW schema_FW information_NN during_IN query_NN routing_VBG ,_, while_IN distributed_VBN query_NN processing_NN and_CC execution_NN policies_NNS are_VBP not_RB addressed_VBN ._.
+In_IN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT super-peer_NN like_IN P2P_NN architecture_NN is_VBZ introduced_VBN ,_, which_WDT relies_VBZ on_IN the_DT extension_NN of_IN an_DT existing_VBG RDF\/S_NN store_NN ._.
+Authors_NNS propose_VBP an_DT index_NN structure_NN for_IN all_PDT the_DT property_NN paths_NNS that_WDT can_MD be_VB specified_VBN given_VBN

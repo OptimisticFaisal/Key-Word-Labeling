@@ -1,0 +1,4 @@
+B_NN ,_, πdj_NN is_VBZ the_DT probability_NN of_IN choosing_VBG the_DT j-th_NN topic_NN in_IN document_NN d_NN ,_, and_CC -LCB-_-LRB- δj_FW ,_, d_NN ,_, F_NN ,_, δj_NN ,_, d_NN ,_, P_NN ,_, δj_NN ,_, d_NN ,_, N_NN -RCB-_-RRB- is_VBZ the_DT sentiment_NN coverage_NN of_IN topic_NN j_NN in_IN document_NN d_NN ,_, as_IN defined_VBN in_IN Section_NN 2_CD ._.
+Similar_JJ to_TO existing_VBG work_NN =_JJ -_: =[_NN 28_CD ,_, 16_CD ,_, 15_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP also_RB regularize_VBP this_DT model_NN by_IN fixing_VBG some_DT parameters_NNS ._.
+λB_NN is_VBZ set_VBN to_TO an_DT empirical_JJ constant_NN between_IN 0_CD and_CC 1_CD ,_, which_WDT indicates_VBZ how_WRB much_JJ noise_NN that_IN we_PRP believe_VBP exists_VBZ in_IN the_DT weblog_NN collection_NN ._.
+We_PRP then_RB s_VBZ

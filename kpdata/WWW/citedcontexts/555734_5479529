@@ -1,0 +1,4 @@
+As_IN we_PRP discussed_VBD in_IN Section-1_NN ,_, this_DT work_NN is_VBZ related_JJ to_TO DDL_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, C-OWL_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, E-Connection_NN based_JJ approach_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, P-DL_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, Semantic_JJ Importing_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, and_CC conservative_JJ extension_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Ontology_NN modularization_NN =_JJ -_: =[_NN 15_CD ,_, 16_CD ,_, 8_CD ,_, 13_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ another_DT interesting_JJ problem_NN in_IN this_DT field_NN ._.
+It_PRP attempts_VBZ to_TO partition_NN one_CD ontology_NN and_CC isolate_JJ functional_JJ modules_NNS ._.
+How_WRB to_TO present_VB formal_JJ functional_JJ modules_NNS in_IN a_DT single_JJ ontology_NN by_IN semantic_JJ binding_NN -LRB-_-LRB-

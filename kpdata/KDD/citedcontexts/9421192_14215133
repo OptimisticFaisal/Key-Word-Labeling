@@ -1,0 +1,3 @@
+ion_NN of_IN web_NN pages_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, as_RB well_RB as_IN the_DT fact_NN that_IN many_JJ web_NN pages_NNS are_VBP generated_VBN based_VBN on_IN templates_NNS ,_, which_WDT wrap_VBP data_NNS records_NNS in_IN HTML_NNP tags_NNS ._.
+One_CD early_JJ stream_NN of_IN such_JJ template-based_JJ work_NN is_VBZ wrapper_NN induction_NN =_JJ -_: =[_NN 9,11,12,18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT relies_VBZ on_IN manual_JJ annotation_NN on_IN example_NN pages_NNS of_IN a_DT template_NN and_CC learns_VBZ wrappers_NNS used_VBN for_IN data_NNS extraction_NN from_IN other_JJ pages_NNS of_IN that_DT template_NN ._.
+These_DT methods_NNS can_MD hardly_RB scale_VB up_RP to_TO large_JJ number_NN of_IN

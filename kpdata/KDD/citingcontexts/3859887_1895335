@@ -1,0 +1,4 @@
+-LRB-_-LRB- i.e._FW ,_, gold_NN standard_NN -RRB-_-RRB- as_IN used_VBN in_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+The_DT data_NN has_VBZ 12181_CD sequences_NNS ,_, 1097_CD motifs_NNS ,_, and_CC 3761_CD GO_NN terms_NNS ._.
+We_PRP also_RB use_VBP the_DT same_JJ performance_NN measure_NN as_IN in_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- -LRB-_-LRB- i.e._FW ,_, a_DT variant_NN of_IN Mean_NN reciprocal_JJ rank_NN -LRB-_-LRB- MRR_NN -RRB-_-RRB- =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, notated_VBN as_IN MRR_NN in_IN the_DT following_JJ sections_NNS for_IN convenience_NN -RRB-_-RRB- to_TO evaluate_VB the_DT effectiveness_NN of_IN the_DT SPA_NN technique_NN on_IN the_DT Motif_NN -_: GO_NN term_NN matching_NN problem_NN ._.
+Let_VB G_NN =_JJ -LCB-_-LRB- g1_NN ,_, g2_NN ,_, ..._: ,_, gc_NN -RCB-_-RRB- be_VB a_DT set_NN of_IN GO_NN terms_NNS ._.

@@ -1,0 +1,7 @@
+o_NN solve_VB the_DT optimization_NN problem_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, the_DT constraints_NNS need_VBP to_TO be_VB written_VBN as_IN deterministic_JJ constraints_NNS ._.
+To_TO this_DT end_NN ,_, consider_VB the_DT following_JJ multivariate_JJ generalization_NN of_IN Chebyshev-Cantelli_JJ inequality_NN =_JJ -_: =[_NN 3_CD ,_, 10_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Theorem_NN 1_CD ._.
+Let_VB X_NN be_VB an_DT n_NN dimensional_JJ random_JJ vector_NN ._.
+The_DT mean_NN and_CC covariance_NN of_IN X_NN be_VB μ_FW ∈_FW R_NN n_NN and_CC Σ_NN ∈_NN R_NN n_NN ×_CD n_NN ._.
+Let_VB H_NN -LRB-_-LRB- w_NN ,_, b_NN -RRB-_-RRB- =_JJ -LCB-_-LRB- z_SYM |_FW w_FW ⊤_FW z_SYM -LRB-_-LRB- b_NN ,_, w_NN ,_, z_SYM ∈_CD R_NN n_NN ,_, b_NN ∈_NN R_NN -RCB-_-RRB- be_VB a_DT given_VBN half_NN space_NN ,_, with_IN w_NN ̸_NN =_JJ 0_CD ._.
+Then_RB Prob_NNP -LRB-_-LRB- X_NNP ∈_NNP H_NNP

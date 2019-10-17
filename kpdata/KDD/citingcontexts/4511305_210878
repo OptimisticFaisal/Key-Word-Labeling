@@ -1,0 +1,4 @@
+the_DT remaining_VBG part_NN as_IN the_DT training_NN set_NN ._.
+Given_VBN the_DT visiting_VBG time_NN of_IN a_DT page_NN in_IN the_DT current_JJ session_NN ,_, the_DT model_NN recommends_VBZ three_CD pages_NNS ._.
+We_PRP define_VBP the_DT hit-ratio_JJ metric_JJ and_CC click-soon_JJ metric_NN as_IN proposed_VBN in_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: to_TO evaluate_VB our_PRP$ method_NN :_: Hit-Ratio_NNP :_: A_DT hit_NN is_VBZ declared_VBN if_IN any_DT one_CD of_IN the_DT three_CD recommended_JJ pages_NNS is_VBZ the_DT next_JJ request_NN of_IN the_DT user_NN ._.
+The_DT hit-ratio_NN is_VBZ the_DT number_NN of_IN hits_NNS divided_VBN by_IN the_DT total_JJ number_NN of_IN reco_NN

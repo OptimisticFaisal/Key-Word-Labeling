@@ -1,0 +1,5 @@
+l_NN representation_NN using_VBG dimension_NN reduction_NN methods_NNS ._.
+This_DT representation_NN can_MD be_VB expressed_VBN as_IN a_DT Fourier_NN transform_VB -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, wavelet_NN transform_VBP -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, average_JJ values_NNS in_IN adjacent_JJ windows_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, or_CC bounding_VBG boxes_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Then_RB a_DT distance_NN metric_NN is_VBZ defined_VBN over_IN this_DT approximation_NN ._.
+The_DT low-dimensional_JJ data_NN is_VBZ often_RB stored_VBN in_IN a_DT spatial_JJ data_NN structure_NN ,_, like_IN an_DT R-tree_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+This_DT low-dimensional_JJ expression_NN accelerates_VBZ proc_NN

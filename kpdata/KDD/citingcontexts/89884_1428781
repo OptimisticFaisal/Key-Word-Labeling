@@ -1,0 +1,5 @@
+e_LS triple_JJ -LRB-_-LRB- 0_CD ,_, 0_CD ,_, -LRB-_-LRB- 1_CD ,_, 1_CD -RRB-_-RRB- -RRB-_-RRB- to_TO the_DT new_JJ scope_NN list_NN ._.
+In_IN like_JJ manner_NN ,_, we_PRP test_VBP the_DT other_JJ occurrences_NNS of_IN 2_CD under_IN 1_CD in_IN trees_NNS T1_NN and_CC T2_NN ._.
+Note_VB that_IN for_IN T2_NN there_EX are_VBP three_CD instances_NNS of_IN the_DT candidate_NN pattern_NN :_: s2_NN =_JJ =_JJ -_: =[_NN 2_CD ,_, 2_CD -RRB-_-RRB- ⊂_CD s_NN -_: =_JJ -1_CD =_JJ -LRB-_-LRB- 0_CD ,_, 7_CD -RRB-_-RRB- ,_, s2_NN =_JJ -LRB-_-LRB- 5_CD ,_, 5_CD -RRB-_-RRB- ⊂_CD s1_NN =_JJ -LRB-_-LRB- 0_CD ,_, 7_CD -RRB-_-RRB- ,_, and_CC s2_NN =_JJ -LRB-_-LRB- 5_CD ,_, 5_CD -RRB-_-RRB- ⊂_CD s1_NN =_JJ -LRB-_-LRB- 4_CD ,_, 7_CD -RRB-_-RRB- ._.
+If_IN a_DT new_JJ scope-list_NN occurs_VBZ in_IN at_IN least_JJS minsup_JJ tids_NNS ,_, the_DT pattern_NN is_VBZ considered_VBN frequent_JJ ._.
+Consider_VB the_DT result_NN of_IN extending_VBG class_NN

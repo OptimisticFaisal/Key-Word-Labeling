@@ -1,0 +1,4 @@
+d_NN bandwidth_NN ,_, where_WRB N_NN is_VBZ the_DT size_NN of_IN the_DT global_JJ domain_NN ._.
+This_DT is_VBZ in_IN contrast_NN to_TO our_PRP$ method_NN ,_, which_WDT approximates_VBZ the_DT global_JJ PageRank_NN and_CC scales_NNS linearly_RB with_IN the_DT size_NN of_IN the_DT local_JJ domain_NN ._.
+Wang_NNP and_CC Dewitt_NNP =_SYM -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP a_DT system_NN where_WRB the_DT set_NN of_IN web_NN servers_NNS that_WDT comprise_VBP the_DT global_JJ domain_NN communicate_VBP with_IN each_DT other_JJ to_TO compute_VB their_PRP$ respective_JJ global_JJ PageRanks_NNP ._.
+For_IN a_DT given_VBN web_NN server_NN hosting_VBG n_NN pages_NNS ,_, the_DT com_NN

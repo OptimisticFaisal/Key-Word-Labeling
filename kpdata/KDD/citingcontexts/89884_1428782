@@ -1,0 +1,5 @@
+uctures_NNS -LRB-_-LRB- subgraphs_NNS -RRB-_-RRB- describing_VBG the_DT carcinogenesis_NN of_IN chemical_NN compounds_NNS ._.
+They_PRP reported_VBD that_IN mining_NN beyond_IN 6_CD predicates_NNS was_VBD unfeasible_JJ due_JJ to_TO the_DT complexity_NN of_IN the_DT subgraph_NN patterns_NNS ._.
+The_DT SUBDUE_NNP system_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: also_RB discovers_VBZ graph_NN patterns_NNS using_VBG the_DT Minimum_NNP Description_NN Length_NN principle_NN ._.
+An_DT approach_NN termed_VBN Graph-Based_JJ Induction_NN -LRB-_-LRB- GBI_NN -RRB-_-RRB- was_VBD proposed_VBN in_IN -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, which_WDT uses_VBZ beam_NN search_NN for_IN mining_NN subgraphs_NNS ._.
+However_RB

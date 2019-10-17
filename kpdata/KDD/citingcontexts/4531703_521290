@@ -1,0 +1,7 @@
+recognition_NN of_IN the_DT eleven_NNS steady_JJ state_NN vowels_NNS of_IN British_NNP English_NNP ._.
+Document_NNP Data_NNP Sets_NNP ._.
+We_PRP also_RB used_VBD high-dimensional_JJ document_NN data_NNS sets_NNS in_IN our_PRP$ experiments_NNS ._.
+The_DT data_NNS set_VBD k1b_NN was_VBD from_IN the_DT WebACE_NN project_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Each_DT document_NN corresponds_VBZ to_TO a_DT web_NN page_NN listed_VBN in_IN the_DT subject_JJ hierarchy_NN of_IN Yahoo_NNP !_. ._.
+The_DT la12_NN data_NN set_NN was_VBD obtained_VBN from_IN articles_NNS of_IN the_DT Los_NNP Angeles_NNP Times_NNP that_WDT was_VBD used_VBN in_IN TREC-5_NN -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+The_DT categories_NNS

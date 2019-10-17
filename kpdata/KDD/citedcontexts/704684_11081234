@@ -1,0 +1,4 @@
+ion_NN -LRB-_-LRB- E_NN -RRB-_-RRB- -LCB-_-LRB- A_DT ∧_NN C_NN ∧_NN D_NN -RCB-_-RRB- since_IN Vt_NNP -LRB-_-LRB- E_NN -RRB-_-RRB- evaluates_VBZ to_TO be_VB true_JJ in_IN both_CC the_DT transactions_NNS ._.
+Also_RB ,_, if_IN the_DT min_NN sup_NN is_VBZ 2_CD then_RB E_NN is_VBZ a_DT frequent_JJ boolean_NN expression_NN ._.
+C._NNP Mining_NNP minimal_JJ boolean_NN expressions_NNS using_VBG BLOSOM_JJ BLOSOM_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: allows_VBZ for_IN mining_NN frequent_JJ boolean_JJ AND\/OR\/CNF_NN \/_: DNF_NN expressions_NNS and_CC their_PRP$ minimal_JJ generators_NNS ._.
+The_DT closure_NN operator_NN on_IN partially_RB ordered_VBN set_NN -LRB-_-LRB- P_NN -RRB-_-RRB- is_VBZ a_DT function_NN C_NN :_: P_NN →_CD P_NN such_JJ that_IN C_NN is_VBZ monotone_NN ,_, idempot_NN

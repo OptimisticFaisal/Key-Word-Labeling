@@ -1,0 +1,7 @@
+here_RB are_VBP O_NN -LRB-_-LRB- n_NN 2_CD -RRB-_-RRB- potential_JJ pairs_NNS -LRB-_-LRB- u_NN ,_, v_LS -RRB-_-RRB- ,_, the_DT running_VBG time_NN is_VBZ O_NN -LRB-_-LRB- n_NN 4_CD -RRB-_-RRB- ._.
+In_IN practice_NN the_DT method_NN works_VBZ much_RB faster_RBR ._.
+6_CD ._.
+EXPERIMENTAL_JJ RESULTS_NNS We_PRP tested_VBD the_DT method_NN on_IN a_DT paleontological_JJ dataset_NN stemming_VBG from_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Recall_VB that_IN in_IN a_DT 0-1_CD matrix_NN the_DT rows_NNS correspond_VBP to_TO fossil_JJ discovery_NN sites_NNS and_CC columns_NNS to_TO different_JJ genera_NN ._.
+The_DT number_NN of_IN sites_NNS and_CC genera_NN were_VBD 124_CD and_CC 139_CD ,_, respectively_RB ._.
+Average_JJ number_NN of_IN genera_NN at_IN

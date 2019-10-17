@@ -1,0 +1,4 @@
+unning_VBG for_IN thousands_NNS of_IN images_NNS of_IN large_JJ sites_NNS and_CC one_CD entire_JJ city_NN ._.
+Our_PRP$ system_NN is_VBZ the_DT first_JJ to_TO demonstrate_VB an_DT unstructured_JJ MVS_NN approach_NN at_IN city-scale_NN ._.
+We_PRP propose_VBP an_DT overlapping_VBG view_NN clustering_NN problem_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN which_WDT the_DT goal_NN is_VBZ to_TO decompose_VB the_DT set_NN of_IN input_NN images_NNS into_IN clusters_NNS that_WDT have_VBP small_JJ overlap_VBP ._.
+Overlap_NNP is_VBZ important_JJ for_IN the_DT MVS_NNP problem_NN ,_, as_IN a_DT strict_JJ partition_NN would_MD undersample_VB surfaces_NNS near_IN clust_NN

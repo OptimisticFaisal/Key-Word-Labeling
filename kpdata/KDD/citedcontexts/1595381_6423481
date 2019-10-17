@@ -1,0 +1,5 @@
+n_NN of_IN the_DT SVM_NN ._.
+-LRB-_-LRB- 36_CD -RRB-_-RRB- ,_, temporal_JJ data_NNS mining_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, etc._NN ._.
+However_RB ,_, there_EX has_VBZ been_VBN relatively_RB little_JJ work_NN on_IN visualizing_VBG the_DT results_NNS of_IN SVM_NN algorithm_NN in_IN high_JJ dimensional_JJ spaces_NNS ,_, with_IN a_DT few_JJ notable_JJ exceptions_NNS =_JJ -_: =[_NN 29_CD ,_, 31_CD ,_, 10_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Poulet_NN -LRB-_-LRB- 29_CD ,_, 31_CD -RRB-_-RRB- has_VBZ proposed_VBN approaches_NNS to_TO visualizing_VBG the_DT results_NNS of_IN SVM_NNP ._.
+Here_RB ,_, the_DT quality_NN of_IN the_DT separation_NN is_VBZ examined_VBN by_IN computing_VBG the_DT data_NNS distribution_NN according_VBG to_TO the_DT distance_NN to_TO the_DT separat_NN

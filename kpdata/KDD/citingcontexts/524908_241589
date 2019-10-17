@@ -1,0 +1,6 @@
+object_NN that_WDT has_VBZ less_JJR than_IN k_NN neighbors_NNS ._.
+The_DT above_IN ``_`` distance-based_JJ ''_'' outlier_NN definition_NN is_VBZ proposed_VBN by_IN Knorr_NN and_CC Ng_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, who_WP provide_VBP solid_JJ justification_NN about_IN its_PRP$ usefulness_NN and_CC importance_NN in_IN practice_NN 1_CD =_JJ -_: =[_NN 8_CD ,_, 9_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP are_VBP interested_JJ in_IN generic_JJ solutions_NNS that_WDT utilize_VBP only_RB objects_NNS '_POS mutual_JJ distances_NNS ,_, and_CC do_VBP not_RB place_VB any_DT constraint_NN on_IN data_NNS and_CC the_DT function_NN d_NN -LRB-_-LRB- ._. -RRB-_-RRB-
+,_, apart_RB from_IN the_DT fact_NN that_IN d_NN -LRB-_-LRB- ._. -RRB-_-RRB-
+should_MD be_VB a_DT metric_NN ._.
+S_NN

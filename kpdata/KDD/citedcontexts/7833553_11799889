@@ -1,0 +1,4 @@
+erest_NN in_IN these_DT applications_NNS ._.
+A_DT few_JJ examples_NNS are_VBP graph_NN clustering_NN -LRB-_-LRB- 24_CD ,_, 3_CD ,_, 8_CD -RRB-_-RRB- ,_, computation_NN of_IN different_JJ proximity_NN measures_NNS -LRB-_-LRB- e.g._FW the_DT Katz_NNP measure_NN ,_, escape_NN probability_NN ,_, rooted_JJ page_NN rank_NN -RRB-_-RRB- ,_, link_NN prediction_NN =_JJ -_: =[_NN 17_CD ,_, 20_CD ,_, 29_CD ,_, 28_CD ,_, 26_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC modeling_NN behavior_NN in_IN cellular_JJ networks_NNS -LRB-_-LRB- 2_CD ,_, 22_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ often_RB the_DT case_NN that_IN these_DT graphs_NNS are_VBP massive_JJ in_IN size_NN involving_VBG over_IN hundreds_NNS of_IN millions_NNS of_IN vertices_NNS ._.
+An_DT important_JJ tool_NN for_IN analysis_NN and_CC int_NN

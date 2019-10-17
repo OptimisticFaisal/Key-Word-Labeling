@@ -1,0 +1,4 @@
+e_LS between_IN the_DT time_NN point_NN and_CC the_DT time_NN interval_JJ data_NNS model_NN ._.
+Numerical_JJ time_NN series_NN can_MD be_VB converted_VBN to_TO symbolic_JJ time_NN series_NN or_CC symbolic_JJ interval_JJ time_NN series_NN by_IN segmentation_NN -LRB-_-LRB- 60_CD ;_: 52_CD ;_: 57_CD -RRB-_-RRB- ,_, discretization_NN =_JJ -_: =[_NN 108_CD ;_: 62_CD ;_: 27_CD ;_: 76_CD -RRB-_-RRB- -_: =_JJ -_: or_CC clustering_NN -LRB-_-LRB- 40_CD ;_: 78_CD -RRB-_-RRB- ._.
+Which_WDT one_NN is_VBZ more_RBR appropriate_JJ depends_VBZ on_IN the_DT data_NNS ._.
+If_IN the_DT temporal_JJ process_NN behaves_VBZ rather_RB smooth_JJ and_CC the_DT discretization_NN contains_VBZ many_JJ repetitions_NNS of_IN symbols_NNS SIGKDD_NNP Exploration_NNP

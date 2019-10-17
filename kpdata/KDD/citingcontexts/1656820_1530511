@@ -1,0 +1,4 @@
+tly_RB calculating_VBG every_DT Di_NNP ,_, with_IN the_DT cost_NN of_IN pruning_NN less_JJR than_IN that_DT of_IN the_DT distance_NN computations_NNS that_IN it_PRP is_VBZ removing_VBG ._.
+The_DT most_RBS common_JJ and_CC most_RBS promising_JJ -LRB-_-LRB- 2_CD ,_, p._NN 810_CD -RRB-_-RRB- solutions_NNS are_VBP k-d_JJ tree_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC Elias_NN =_JJ -_: =[_NN 4_CD ,_, 5_CD -RRB-_-RRB- -_: =_JJ -_: methods_NNS ,_, both_DT of_IN which_WDT use_VBP binning_JJ ._.
+The_DT k-d_NN tree_NN is_VBZ a_DT strictly_RB binary_JJ tree_NN in_IN which_WDT each_DT node_NN represents_VBZ a_DT partition_NN of_IN the_DT k-dimensional_JJ space_NN ._.
+The_DT root_NN of_IN the_DT tree_NN represents_VBZ the_DT entire_JJ space_NN ,_, and_CC

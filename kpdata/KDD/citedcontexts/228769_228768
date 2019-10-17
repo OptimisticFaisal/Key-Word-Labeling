@@ -1,0 +1,4 @@
+document_NN clustering_NN -LRB-_-LRB- 38_CD -RRB-_-RRB- ._.
+Beil_NNP ,_, Ester_NNP ,_, and_CC Xu_NNP proposed_VBD two_CD clustering_NN methods_NNS ,_, FTC_NNP -LRB-_-LRB- Frequent_JJ Term-based_JJ Clustering_NN -RRB-_-RRB- and_CC HFTC_NN -LRB-_-LRB- Hierarchical_JJ Frequent_JJ Term-based_JJ Clustering_NN -RRB-_-RRB- ,_, based_VBN on_IN frequent_JJ term_NN sets_VBZ =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Fung_NNP proposed_VBD another_DT hierarchical_JJ document_NN clustering_NN method_NN based_VBN on_IN the_DT frequent_JJ term_NN set_NN ,_, HIFC_NN -LRB-_-LRB- Frequent_JJ Itemset-based_JJ Hierarchical_JJ Clustering_NN -RRB-_-RRB- ,_, to_TO improve_VB the_DT HFTC_NN method_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Hammouda_NNP propose_VBP

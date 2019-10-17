@@ -1,0 +1,4 @@
+ncode_JJ web-based_JJ data_NNS ._.
+Thus_RB ,_, the_DT functionality_NN a_DT querying_VBG language_NN should_MD support_VB the_DT structure_NN and_CC the_DT peculiarities_NNS of_IN the_DT new_JJ paradigms_NNS ._.
+Some_DT query_NN languages_NNS have_VBP been_VBN developed_VBN for_IN RDF\/S_NN -LRB-_-LRB- e.g._FW RQL_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, SquishQL_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, TRIPLE_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- -RRB-_-RRB- ,_, and_CC DAML_NN -LRB-_-LRB- e.g._FW DQL_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, RDQL_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+For_IN querying_VBG OWL_NN semantic_JJ web_NN repositories_NNS ,_, the_DT query_JJ language_NN OWL-QL_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- has_VBZ been_VBN proposed_VBN ,_, which_WDT is_VBZ the_DT successor_NN of_IN the_DT DQL_NN query_NN l_NN

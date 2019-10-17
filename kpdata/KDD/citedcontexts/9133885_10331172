@@ -1,0 +1,5 @@
+ed_VBN to_TO handle_VB two_CD relation_NN types_NNS ._.
+Recently_RB some_DT unsupervised_JJ approaches_NNS have_VBP been_VBN proposed_VBN to_TO deal_VB with_IN graph_NN clustering_NN problems_NNS on_IN multi-relational_JJ domains_NNS -LRB-_-LRB- Long_NNP et_FW al._FW ,_, 2006b_CD ;_: Long_NNP et_FW al._FW ,_, 2006a_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- =_JJ -_: =_JJ Singh_NNP &_CC Gordon_NNP ,_, 2008_CD -_: =--RRB-_NN have_VBP proposed_VBN a_DT collective_JJ matrix_NN factorization_NN based_VBN on_IN minimizing_VBG Bregman_NNP divergences_NNS between_IN the_DT model_NN and_CC the_DT involved_VBN relation_NN matrices_NNS ._.
+3_LS ._.
+Multi-Relational_NNP Matrix_NNP Factorization_NNP Established_NNP mat_NN

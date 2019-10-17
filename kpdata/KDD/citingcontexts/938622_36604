@@ -1,0 +1,4 @@
+ning_JJ methods_NNS with_IN very_RB different_JJ characteristics_NNS -LRB-_-LRB- Ripper_NNP ,_, Q-learning_NN ,_, and_CC time_NN series_NN -RRB-_-RRB- so_IN it_PRP makes_VBZ sense_NN to_TO combine_VB their_PRP$ outputs_NNS ._.
+We_PRP preferred_VBD stacking_VBG to_TO voting_VBG algorithms_NNS such_JJ as_IN weighted_JJ majority_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- o_NN -_: =_JJ -_: r_NN bagging_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- because_IN we_PRP believed_VBD that_IN there_EX were_VBD identifiable_JJ conditions_NNS under_IN which_WDT one_CD method_NN 's_POS model_NN would_MD be_VB more_RBR successful_JJ than_IN another_DT ._.
+See_NNP ,_, for_IN example_NN ,_, the_DT sample_NN rule_NN in_IN Figure_NNP 6_CD ._.
+Standar_NNP

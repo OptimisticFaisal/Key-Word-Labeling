@@ -1,0 +1,5 @@
+GDs_NNS ._.
+Parallel_JJ optimization_NN methods_NNS have_VBP recently_RB attracted_VBN attention_NN as_IN a_DT way_NN to_TO scale_VB up_RP machine_NN learning_NN algorithms_NNS ._.
+Map-Reduce_NNP -LRB-_-LRB- Dean_NNP &_CC Ghemawat_NNP ,_, 2008_CD -RRB-_-RRB- style_NN optimization_NN methods_NNS -LRB-_-LRB- Chu_NNP et_FW al._FW ,_, 2007_CD ;_: =_JJ -_: =_JJ Teo_NNP et_FW al._FW ,_, 2007_CD -_: =--RRB-_NN have_VBP been_VBN successful_JJ early_JJ approaches_NNS ._.
+We_PRP also_RB note_VBP recent_JJ studies_NNS -LRB-_-LRB- Mann_NNP et_FW al._FW ,_, 2009_CD ;_: Zinkevich_NNP et_FW al._FW ,_, 2010_CD -RRB-_-RRB- that_WDT have_VBP parallelized_VBN SGDs_NNS without_IN using_VBG the_DT Map-Reduce_NNP framework_NN ._.
+In_IN our_PRP$ experiments_NNS ,_,

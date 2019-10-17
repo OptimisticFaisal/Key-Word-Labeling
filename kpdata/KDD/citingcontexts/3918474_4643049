@@ -1,0 +1,5 @@
+preserve_VB high_JJ detection_NN rates_NNS ._.
+Previous_JJ cascade_NN classification_NN approaches_NNS are_VBP mostly_RB based_VBN on_IN AdaBoost_NNP -LRB-_-LRB- 10_CD ,_, 20_CD ,_, 11_CD -RRB-_-RRB- ._.
+Cascade_NNP AdaBoost_NNP serves_VBZ as_IN a_DT great_JJ tool_NN for_IN building_VBG real-time_JJ robust_JJ applications_NNS =_JJ -_: =[_NN 22_CD ,_, 24_CD -RRB-_-RRB- -_: =_JJ -_: ,_, especially_RB for_IN object_NN detection_NN systems_NNS ._.
+However_RB ,_, cascade_NN AdaBoost_NN works_VBZ with_IN two_CD implicit_JJ assumptions_NNS :_: 1_CD ._.
+a_DT significant_JJ amount_NN of_IN representative_JJ data_NNS is_VBZ available_JJ for_IN training_VBG the_DT cascade_NN classifie_NN

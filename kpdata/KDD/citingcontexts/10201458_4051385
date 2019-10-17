@@ -1,0 +1,4 @@
+Figure_NN 1_CD -LRB-_-LRB- a_DT -RRB-_-RRB- -RRB-_-RRB- in_IN binary_JJ data_NNS ._.
+Most_JJS common_JJ efforts_NNS to_TO make_VB these_DT techniques_NNS usable_JJ for_IN real-valued_JJ data_NNS include_VBP discretization_NN -LRB-_-LRB- 33_CD ,_, 14_CD ,_, 30_CD -RRB-_-RRB- ,_, binarization_NN -LRB-_-LRB- 4_CD ,_, 12_CD ,_, 11_CD ,_, 23_CD -RRB-_-RRB- ,_, and_CC rank-based_JJ transformations_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, these_DT data_NNS transformation-based_JJ approaches_NNS face_VBP several_JJ challenges_NNS in_IN addressing_VBG the_DT bicluster_NN discovery_NN problem_NN ._.
+Most_RBS importantly_RB ,_, since_IN all_PDT the_DT real_JJ values_NNS constituting_VBG a_DT data_NN set_NN have_VBP be_VB

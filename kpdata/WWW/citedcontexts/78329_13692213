@@ -1,0 +1,4 @@
+easure_NN ,_, which_WDT means_VBZ we_PRP can_MD use_VB the_DT local_JJ approximation_NN algorithm_NN to_TO find_VB semantic_JJ relatedness_NN ._.
+In_IN the_DT second_JJ experiment_NN ,_, we_PRP used_VBD human_JJ judgments_NNS extracted_VBN from_IN the_DT standard_JJ dataset_NN WordSimilarity-353_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, to_TO evaluate_VB the_DT quality_NN of_IN the_DT relatedness_NN measures_NNS on_IN the_DT ODP_NN graph_NN ._.
+This_DT test_NN collection_NN ,_, available_JJ on_IN the_DT web6_NN ,_, contains_VBZ English_JJ word_NN pairs_NNS along_IN with_IN human-assigned_JJ similarity_NN judgments_NNS ._.
+For_IN th_DT

@@ -1,0 +1,5 @@
+ns_IN algorithm_NN is_VBZ easy_JJ to_TO implement_VB and_CC the_DT complexity_NN is_VBZ linear_JJ with_IN the_DT sample_NN size_NN and_CC dimensionality_NN ._.
+Moreover_RB ,_, there_EX are_VBP also_RB several_JJ recent_JJ advances_NNS on_IN scaling_VBG up_RP the_DT -_: means_VBZ algorithm_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Therefore_RB ,_, the_DT -_: means_VBZ algorithm_NN is_VBZ suitable_JJ for_IN use_NN in_IN large_JJ scale_NN problems_NNS ._.
+In_IN the_DT sequel_NN ,_, we_PRP will_MD always_RB use_VB the_DT -_: means_VBZ algorithm_NN for_IN initialization_NN ._.
+In_IN the_DT following_NN ,_, we_PRP further_RB investigate_VB how_WRB t_NN

@@ -1,0 +1,3 @@
+examples_NNS more_JJR Itkely_NNP to_TO be_VB informative_JJ regarding_VBG other_JJ examples_NNS in_IN the_DT space_NN ._.
+Note_VB that_DT weight_NN sampling_NN also_RB is_VBZ employed_VBN in_IN the_DT ,_, ldaBoost_NN algorithm_NN -LRB-_-LRB- Freund_NNP and_CC Shapire_NNP ,_, 1996_CD -RRB-_-RRB- on_IN which_WDT Iyengar_NNP et_FW al._FW -LRB-_-LRB- =_JJ -_: =_JJ Iyengar_NNP et_FW al._FW ,_, 2000_CD -_: =--RRB-_NN base_VBP their_PRP$ active_JJ learning_NN approach_NN ._.
+Their_PRP$ algorithm_NN results_VBZ in_IN an_DT ensemble_NN of_IN classif3ers_NNS where_WRB weight_NN sampling_NN is_VBZ used_VBN both_DT to_TO select_VB examples_NNS from_IN which_WDT successive_JJ classifiers_NNS in_IN the_DT ensemble_NN are_VBP

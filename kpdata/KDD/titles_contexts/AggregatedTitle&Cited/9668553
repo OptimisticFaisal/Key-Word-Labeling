@@ -1,0 +1,7 @@
+Information_NNP theoretic_JJ regularization_NN for_IN semi-supervised_JJ boosting_VBG
+cently_RB ,_, the_DT boosting_VBG algorithm_NN has_VBZ been_VBN successfully_RB extended_VBN to_TO tasks_NNS such_JJ as_IN multi-class_JJ classification_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, multi-label_JJ classification_NN -LRB-_-LRB- 39_CD -RRB-_-RRB- ,_, cost_NN sensitive_JJ learning_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ,_, semi-supervised_JJ learning_NN =_JJ -_: =[_NN 43_CD -RRB-_-RRB- -_: =_JJ -_: ,_, manifold_RB learning_VBG -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, classification_NN with_IN missing-value_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, and_CC transfer_NN learning_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- among_IN others_NNS ._.
+In_IN this_DT paper_NN we_PRP propose_VBP a_DT new_JJ boosting_VBG algorithm_NN where_WRB base_NN learners_NNS have_VBP structure_NN relations_NNS
+categorization_NN as_IN a_DT multi-class_JJ classification_NN problem_NN and_CC hand-written_JJ character_NN recognition_NN as_IN a_DT sequence_NN labeling_NN problem_NN ._.
+Similar_JJ ideas_NNS have_VBP been_VBN successfully_RB applied_VBN to_TO semi-supervised_JJ boosting_VBG =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2_CD Rate_NNP distortion_NN formulation_NN Let_NNP X_NNP be_VB a_DT random_JJ variable_NN over_IN data_NNS sequences_NNS to_TO be_VB labeled_VBN ,_, and_CC Y_NN be_VB a_DT random_JJ variable_NN over_IN corresponding_JJ label_NN sequences_NNS ._.
+All_DT components_NNS ,_, Yi_NNP ,_, of_IN Y_NN are_VBP assumed_VBN to_TO ran_VBD

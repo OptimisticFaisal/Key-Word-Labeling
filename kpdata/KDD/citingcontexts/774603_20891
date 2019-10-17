@@ -1,0 +1,6 @@
+r_NN the_DT same_JJ reason_NN to_TO obtain_VB most_RBS significant_JJ subspace_NN clusters_NNS from_IN massive_JJ datasets_NNS ._.
+Sequential_JJ pattern_NN mining_NN was_VBD introduced_VBN in_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Existing_VBG methods_NNS are_VBP essentially_RB either_CC breath-first_RB such_JJ as_IN GSP_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: or_CC depth-first_NN such_JJ as_IN PrefixSpan_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+PrefixSpan_NNP is_VBZ known_VBN as_IN one_CD of_IN the_DT most_RBS efficient_JJ algorithms_NNS so_RB far_RB ._.
+3_LS ._.
+THE_DT KiWi_FW MINING_FW FRAMEWORK_NN With_IN the_DT objective_NN to_TO discover_VB significant_JJ OPSM_NNP subspace_NN clust_NN

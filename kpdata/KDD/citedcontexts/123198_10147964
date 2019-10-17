@@ -1,0 +1,4 @@
+of_IN causality_NN ._.
+When_WRB sampling_NN for_IN a_DT variable_NN ,_, the_DT sample_NN is_VBZ drawn_VBN from_IN a_DT distribution_NN conditioned_VBN on_IN the_DT parents_NNS of_IN the_DT corresponding_JJ node_NN in_IN the_DT graph_NN ._.
+The_DT basic_JJ idea_NN behind_IN all_DT proposed_VBN topic_NN models_NNS =_JJ -_: =[_NN 39_CD ,_, 12_CD ,_, 86_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ that_IN a_DT document_NN is_VBZ a_DT mixture_NN of_IN several_JJ topics_NNS where_WRB each_DT topic_NN is_VBZ some_DT distribution_NN over_IN words_NNS ._.
+Topics_NNS are_VBP shared_VBN between_IN all_PDT the_DT documents_NNS ,_, but_CC topic_NN proportions_NNS vary_VBP between_IN different_JJ documents_NNS

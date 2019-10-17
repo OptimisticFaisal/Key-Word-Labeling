@@ -1,0 +1,4 @@
+ginal_JJ likelihood_NN or_CC evidence_NN ._.
+The_DT required_JJ conditional_JJ distribution_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- can_MD then_RB be_VB computed_VBN by_IN marginalizing_VBG the_DT joint_JJ probability_NN distribution_NN P_NN -LRB-_-LRB- x_NN i_FW j_FW X_NN ;_: M_NN -RRB-_-RRB- appropriately_RB ._.
+However_RB ,_, as_IN noted_VBN in_IN e.g._FW =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, finding_VBG the_DT maximal_JJ evidence_NN model_NN structure_NN is_VBZ not_RB a_DT feasible_JJ task_NN in_IN practice_NN as_IN the_DT number_NN of_IN possible_JJ Bayesian_JJ network_NN structures_NNS is_VBZ superexponential_JJ ._.
+This_DT means_VBZ that_IN in_IN practical_JJ situations_NNS we_PRP

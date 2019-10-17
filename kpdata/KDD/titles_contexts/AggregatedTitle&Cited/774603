@@ -1,0 +1,10 @@
+Discovering_VBG significant_JJ OPSM_NNP subspace_NN clusters_NNS in_IN massive_JJ gene_NN expression_NN data_NNS
+ten_CD also_RB have_VBP the_DT capability_NN of_IN excluding_VBG noise_NN ._.
+Special_JJ techniques_NNS have_VBP been_VBN developed_VBN for_IN gene_NN expression_NN data_NNS that_WDT treat_VBP similar_JJ genes_NNS as_IN exceptional_JJ case_NN and_CC are_VBP therefore_RB related_JJ to_TO our_PRP$ approach_NN =_JJ -_: =[_NN 8_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT techniques_NNS make_VBP use_NN of_IN specific_JJ properties_NNS of_IN time_NN course_NN gene_NN expression_NN experiments_NNS and_CC are_VBP hence_RB not_RB as_RB general_JJ as_IN the_DT approach_NN discussed_VBN in_IN this_DT paper_NN ._.
+Gene_NN expression_NN data_NNS from_IN yeast_NN cell_NN
+allows_VBZ a_DT probabilistic_JJ acceptance_NN of_IN temporary_JJ disimprovement_NN in_IN fitness_NN scores_NNS ._.
+However_RB ,_, the_DT results_NNS are_VBP often_RB data_NNS dependent_JJ ._.
+An_DT order_NN preserving_NN sub_NN matrix_NN -LRB-_-LRB- OPSM_NN -RRB-_-RRB- has_VBZ been_VBN developed_VBN in_IN Refs_NNS ._.
+-LRB-_-LRB- 33_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC -LRB-_-LRB- 35_CD -RRB-_-RRB- ,_, using_VBG greedy_JJ search_NN heuristic_NN and_CC evolutionary_JJ strategy_NN respectively_RB ._.
+However_RB ,_, there_EX exist_VBP problems_NNS related_VBN to_TO local_JJ optima_NN ,_, consumption_NN of_IN excessive_JJ computational_JJ resources_NNS ,_, or_CC imposition_NN

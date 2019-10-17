@@ -1,0 +1,4 @@
+ve_IN link-based_JJ ranking_JJ algorithms_NNS to_TO be_VB robust_JJ against_IN link_NN spamming_NN ._.
+Various_JJ ranking_JJ algorithms_NNS are_VBP proposed_VBN and_CC tested_VBN on_IN real_JJ web_NN data_NNS in_IN -LRB-_-LRB- 4_CD ,_, 9_CD ,_, 11_CD -RRB-_-RRB- ._.
+There_EX have_VBP also_RB been_VBN some_DT link-based_JJ approaches_NNS =_JJ -_: =[_NN 15_CD ,_, 17_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: that_IN extract_NN link_NN spam_NN using_VBG some_DT graph_NN theoretical_JJ notions_NNS such_JJ as_IN biconnected_JJ components_NNS and_CC commonality_NN of_IN neighbors_NNS ._.
+As_RB far_RB as_IN we_PRP know_VBP ,_, there_EX has_VBZ been_VBN no_DT study_NN investigating_VBG the_DT distribution_NN of_IN l_NN

@@ -1,0 +1,8 @@
+and_CC considered_VBN to_TO be_VB different_JJ features_NNS ._.
+The_DT RequestAct_NNP dataset_NN has_VBZ 70147_CD features_NNS and_CC 518_CD examples_NNS ._.
+The_DT Spam_NNP dataset_NN has_VBZ 3302_CD examples_NNS and_CC 118175_CD features_NNS ._.
+The_DT task_NN is_VBZ to_TO detect_VB spam_NN email_NN messages_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT Scam_NN dataset_NN has_VBZ 3836_CD examples_NNS and_CC 121205_CD features_NNS ._.
+Here_RB we_PRP attempt_VBP to_TO separate_VB ``_`` Scam_NN ''_'' messages_NNS from_IN the_DT others_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+The_DT Reuters_NNP dataset_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- has_VBZ 11367_CD examples_NNS and_CC 30765_CD features_NNS ._.
+We_PRP attempt_VBP to_TO

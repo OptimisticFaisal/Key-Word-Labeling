@@ -1,0 +1,4 @@
+nd_IN each_DT of_IN the_DT matching_JJ vertices_NNS ._.
+The_DT 1-hop_JJ subgraphs_NNS from_IN G2_NN are_VBP then_RB compared_VBN using_VBG a_DT scoring_VBG function_NN -LRB-_-LRB- e.g._FW a_DT graph_NN kernel_NN -RRB-_-RRB- to_TO the_DT 1-hop_JJ subgraph_NN from_IN G1_NN and_CC the_DT maximum_NN scoring_VBG match_NN is_VBZ returned_VBN ._.
+=_SYM -_: =[_NN 35,46_CD -RRB-_-RRB- -_: =_SYM -_: to_TO extract_VB H1_NN and_CC H2_NN ._.
+Briefly_RB ,_, the_DT bicomponent_JJ clusterer_NN searches_NNS for_IN all_DT biconnected_VBN components_NNS -LRB-_-LRB- graphs_NNS that_WDT can_MD not_RB be_VB disconnected_VBN by_IN removing_VBG a_DT single_JJ node\/vertex_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- -RRB-_-RRB- by_IN traversing_VBG a_DT graph_NN in_IN a_DT

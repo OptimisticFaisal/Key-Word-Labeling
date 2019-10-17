@@ -1,0 +1,3 @@
+ttern_JJ mining_NN ,_, Palmer_NNP et_FW al._FW -LRB-_-LRB- 23_CD -RRB-_-RRB- developed_VBD a_DT fast_JJ and_CC scalable_JJ tool_NN ANF_NN to_TO answer_VB various_JJ complex_JJ analytical_JJ queries_NNS from_IN massive_JJ graphs_NNS that_WDT may_MD not_RB be_VB able_JJ to_TO fit_VB into_IN main_JJ memory_NN ._.
+Faloutsos_NNP et_FW al._FW =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: investigated_VBD the_DT problem_NN of_IN fast_JJ discovery_NN of_IN connection_NN subgraphs_NNS which_WDT nicely_RB capture_VBP the_DT relationship_NN between_IN pairs_NNS of_IN nodes_NNS in_IN large_JJ social_JJ networks_NNS graphs_NNS ._.
+In_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, Jeh_NNP and_CC Widom_NNP proposed_VBD the_DT pr_NN

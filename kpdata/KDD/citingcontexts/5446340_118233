@@ -1,0 +1,5 @@
+nds_NNS of_IN volts_NNS -RRB-_-RRB- from_IN substations_NNS to_TO local_JJ transformers_NNS ._.
+sWe_NN compare_VBP the_DT performance_NN of_IN our_PRP$ online_JJ ranking_NN algorithm_NN against_IN two_CD separate_JJ baseline_NN experiments_NNS ._.
+The_DT first_JJ one_CD uses_VBZ the_DT perceptron_NN algorithm_NN =_JJ -_: =[_NN 33_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP chose_VBD the_DT perceptron_NN particularly_RB because_IN it_PRP is_VBZ an_DT online_JJ method_NN that_WDT learns_VBZ directly_RB from_IN the_DT labeled_JJ feeder_NN examples_NNS ,_, as_IN opposed_VBN to_TO using_VBG a_DT meta-learning_JJ approach_NN like_IN ours_PRP ._.
+To_TO generate_VB a_DT ranki_NN

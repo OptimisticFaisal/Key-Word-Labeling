@@ -1,0 +1,4 @@
+αi_NN =_JJ 1_CD ._.
+This_DT would_MD postulate_VB additional_JJ constraints_NNS on_IN the_DT optimization_NN procedures_NNS for_IN Ld_NN -LRB-_-LRB- ϕ_NN ,_, η_NN ,_, λ_NN ,_, σ_NN 2_CD -RRB-_-RRB- with_IN respect_NN to_TO variational_JJ parameter_NN λ_NN ._.
+We_PRP use_VBP posterior_RB constrained_VBN expectation_NN maximization_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: to_TO address_VB this_DT problem_NN ._.
+Gradient-based_JJ searching_VBG algorithm_NN is_VBZ utilized_VBN to_TO -LRB-_-LRB- 9_CD -RRB-_-RRB- find_VBP the_DT optimal_JJ solution_NN :_: -LCB-_-LRB- ˆλ_NN 1_CD =_JJ arg_NN min_NN λ_NN 2δ2_NN -LRB-_-LRB- k_NN ∑_FW λ_FW 2_CD i_LS V_NN ar_NN -LRB-_-LRB- si_NN -RRB-_-RRB- +_CC -LRB-_-LRB- λ_NN T_NN ¯_NN s_VBZ −_CD r_NN -RRB-_-RRB- 2_CD -RRB-_-RRB- +_CC -LRB-_-LRB- 10_CD -RRB-_-RRB- i_LS =_JJ 1_CD 1_CD 2_CD -LRB-_-LRB- λ_FW −_FW µ_FW -RRB-_-RRB- T_NN Σ_NN −_NN 1_CD -RCB-_-RRB-

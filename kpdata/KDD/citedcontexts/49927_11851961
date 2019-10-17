@@ -1,0 +1,4 @@
+puting_VBG exact_JJ answers_NNS ,_, approximate_JJ OLAP_NN results_NNS are_VBP often_RB acceptable_JJ for_IN exploration_NN purposes_NNS ._.
+Among_IN the_DT approximate_JJ techniques_NNS ,_, -LRB-_-LRB- 80_CD ,_, 79_CD -RRB-_-RRB- propose_VBP to_TO reduce_VB the_DT storage_NN overhead_NN using_VBG wavelets_NNS ,_, whereas_IN =_JJ -_: =[_NN 74_CD -RRB-_-RRB- -_: =_SYM -_: employs_VBZ the_DT Gaussian_JJ mixture_NN model_NN to_TO approximate_JJ continuous_JJ dimensions_NNS ._.
+A_DT variant_NN of_IN the_DT OLAP_NNP cube_NN computation_NN problem_NN is_VBZ called_VBN the_DT iceberg_NN queries_NNS -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+By_IN introducing_VBG an_DT iceberg_NN threshold_NN ,_, sparse_JJ

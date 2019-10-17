@@ -1,0 +1,3 @@
+or_CC source_NN code_NN data_NNS ,_, where_WRB the_DT changes_NNS to_TO individual_JJ topics_NNS between_IN time_NN periods_NNS could_MD be_VB dramatic_JJ --_: much_RB more_JJR than_IN a_DT normal_JJ distribution_NN would_MD allow_VB -LRB-_-LRB- see_VB below_IN for_IN details_NNS -RRB-_-RRB- ._.
+The_DT Topics_NNP Over_NNP Time_NNP -LRB-_-LRB- TOT_NN -RRB-_-RRB- =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: approach_NN models_NNS time_NN as_IN a_DT continuous_JJ beta_NN distribution_NN ,_, effectively_RB removing_VBG the_DT penalty_NN on_IN abrupt_JJ changes_NNS from_IN the_DT Dynamic_NNP Topic_NNP Model_NNP ._.
+However_RB ,_, the_DT beta_NN distribution_NN is_VBZ still_RB too_RB inflexible_JJ for_IN sou_NN

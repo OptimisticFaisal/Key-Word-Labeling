@@ -1,0 +1,4 @@
+aces_VBZ whose_WP$ basis_NN vectors_NNS correspond_VBP to_TO actual_JJ data_NNS points_NNS ._.
+They_PRP are_VBP guaranteed_VBN to_TO preserve_VB properties_NNS such_JJ as_IN sparseness_NN or_CC non-negativity_NN and_CC enjoy_VB increasing_VBG popularity_NN in_IN the_DT data_NNS mining_NN community_NN =_JJ -_: =[_NN 12_CD ,_, 13_CD ,_, 17_CD ,_, 20_CD ,_, 31_CD ,_, 35_CD -RRB-_-RRB- -_: =_SYM -_: with_IN important_JJ applications_NNS to_TO fraud_NN detection_NN ,_, fMRI_NN segmentation_NN ,_, collaborative_JJ filtering_VBG ,_, and_CC co-clustering_NN ._.
+But_CC how_WRB do_VBP we_PRP select_VB columns_NNS in_IN Line_NNP 1_CD ?_.
+A_DT prominent_JJ approach_NN is_VBZ based_VBN on_IN the_DT statistical_JJ

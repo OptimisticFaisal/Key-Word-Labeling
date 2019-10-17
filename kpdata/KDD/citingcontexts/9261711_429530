@@ -1,0 +1,6 @@
+ur_IN publicly_RB available_JJ chemical_JJ datasets_NNS :_: EDKB_NN 2_CD ,_, CPDB_NN 3_CD ,_, CAS_NN 4_CD and_CC AIDS_NNP 5_CD ._.
+Links_NNP to_TO these_DT datasets_NNS can_MD be_VB found_VBN in_IN ChemDB_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Table_NNP 1_CD shows_VBZ the_DT summary_NN of_IN the_DT datasets_NNS ._.
+Among_IN them_PRP ,_, the_DT AIDS_NNP dataset_NN =_JJ -_: =[_NN 14_CD ,_, 4_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ by_IN far_RB the_DT largest_JJS both_CC in_IN the_DT number_NN of_IN examples_NNS and_CC the_DT graph_NN size_NN ._.
+EDKB_NN is_VBZ a_DT regression_NN dataset_NN ,_, but_CC the_DT others_NNS are_VBP classification_NN datasets_NNS ._.
+In_IN gPLS_NN ,_, we_PRP solved_VBD classification_NN problems_NNS by_IN regres_NNS

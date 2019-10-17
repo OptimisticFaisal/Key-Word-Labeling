@@ -1,0 +1,4 @@
+ose_NN HDPs_NNS to_TO model_VB musical_JJ styles_NNS ._.
+HDPs_NNS come_VBP from_IN a_DT family_NN of_IN soft-clustering_JJ techniques_NNS for_IN topic_NN detection_NN in_IN documents_NNS ._.
+The_DT first_JJ of_IN these_DT approaches_NNS ,_, probabilistic_JJ latent_JJ semantic_JJ indexing_NN -LRB-_-LRB- pLSI_NN -RRB-_-RRB- ,_, =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, has_VBZ some_DT difficulties_NNS with_IN the_DT generative_JJ semantics_NNS of_IN the_DT model_NN making_VBG it_PRP very_RB difficult_JJ to_TO apply_VB the_DT model_NN to_TO new_JJ data_NNS ._.
+Latent_JJ Dirichlet_NN allocation_NN -LRB-_-LRB- LDA_NN -RRB-_-RRB- -LRB-_-LRB- 2_CD -RRB-_-RRB- was_VBD designed_VBN to_TO correct_VB the_DT generative_NN

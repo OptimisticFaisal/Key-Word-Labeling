@@ -1,0 +1,4 @@
+ent_NN of_IN past_JJ queries_NNS ,_, which_WDT is_VBZ our_PRP$ aim_NN in_IN this_DT work_NN ._.
+Several_JJ authors_NNS have_VBP utilized_VBN document_NN compaction_NN or_CC pruning_NN schemes_NNS for_IN information_NN retrieval_NN tasks_NNS other_JJ than_IN snippet_JJ generation_NN ._.
+De_NNP Moura_NNP et_FW al._FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: use_NN document_NN pruning_NN to_TO retain_VB only_RB the_DT ``_`` novel_JJ ''_'' sentences_NNS in_IN a_DT document_NN ,_, with_IN the_DT pruned_VBN documents_NNS then_RB used_VBD to_TO construct_VB a_DT smaller_JJR -LRB-_-LRB- pruned_VBN -RRB-_-RRB- inverted_JJ index_NN which_WDT supports_VBZ phrase_NN queries_NNS ._.
+Lu_NN and_CC Calla_NN

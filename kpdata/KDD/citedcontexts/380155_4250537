@@ -1,0 +1,6 @@
+ful_NN in_IN data_NN mining_NN ._.
+For_IN example_NN ,_, the_DT most_RBS popular_JJ data_NNS mining_NN tools_NNS --_: CART_NNP and_CC MARS_NNP -LRB-_-LRB- Salford_NNP Systems_NNP 2004_CD -RRB-_-RRB- --_: are_VBP based_VBN on_IN tree_NN methods_NNS ._.
+Various_JJ issues_NNS in_IN building_VBG an_DT ``_`` optimal_JJ ''_'' tree_NN have_VBP been_VBN studied_VBN -LRB-_-LRB- =_JJ -_: =_JJ Buja_NNP and_CC Lee_NNP 2001_CD -_: =--RRB-_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP assume_VBP that_IN a_DT big_JJ and_CC redundant_JJ tree_NN has_VBZ been_VBN built_VBN ._.
+The_DT complexity-penalized_JJ treepruning_NN approach_NN was_VBD described_VBN in_IN Breiman_NNP et_FW al._FW -LRB-_-LRB- 1984_CD -RRB-_-RRB- ._.
+The_DT idea_NN is_VBZ originally_RB rooted_VBN 4sin_FW stati_FW

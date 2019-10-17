@@ -1,0 +1,4 @@
+model_NN ,_, and_CC the_DT process_NN repeats_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, active_JJ learning_NN with_IN membership_NN queries_NNS -LRB-_-LRB- or_CC direct_JJ query_NN construction_NN -RRB-_-RRB- can_MD construct_VB examples_NNS -LRB-_-LRB- without_IN the_DT need_NN of_IN the_DT pool_NN -RRB-_-RRB- and_CC request_NN labels_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Previous_JJ experiments_NNS show_VBP that_IN both_DT of_IN these_DT active_JJ learning_NN methods_NNS reduce_VBP the_DT number_NN of_IN labeled_JJ examples_NNS needed_VBN ,_, compared_VBN with_IN labeling_NN examples_NNS randomly_RB ._.
+The_DT essence_NN of_IN active_JJ learning_NN lies_VBZ in_IN th_DT

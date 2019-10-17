@@ -1,0 +1,5 @@
+roposed_VBN to_TO index_NN multi-dimensional_JJ datasets_NNS ._.
+These_DT approaches_NNS can_MD efficiently_RB support_VB nearest_IN neighbor_NN search_NN for_IN relatively_RB low_JJ dimensional_JJ datasets_NNS -LRB-_-LRB- 3_CD ,_, 4_CD ,_, 5_CD -RRB-_-RRB- ._.
+Recently_RB ,_, most_JJS studies_NNS in_IN index_NN design_NN =_JJ -_: =[_NN 6_CD ,_, 7_CD ,_, 8_CD ,_, 9_CD ,_, 10_CD -RRB-_-RRB- -_: =_JJ -_: focus_NN on_IN high-dimensional_JJ datasets_NNS ._.
+Although_IN most_JJS of_IN these_DT indexing_NN strategies_NNS can_MD insert_VB data_NNS points_NNS dynamically_RB ,_, their_PRP$ performance_NN might_MD be_VB affected_VBN by_IN the_DT inserting_VBG order_NN of_IN the_DT new_JJ data_NN points_NNS ._.
+T_NN

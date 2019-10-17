@@ -1,0 +1,4 @@
+e_LS is_VBZ dominated_VBN by_IN the_DT time_NN to_TO induce_VB CART_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- style_NN regression_NN trees_NNS ._.
+The_DT number_NN of_IN rounds_NNS of_IN boosting_VBG was_VBD set_VBN between_IN 1500_CD and_CC 2000_CD by_IN Li_NNP et_FW al._FW -LRB-_-LRB- 10_CD -RRB-_-RRB- ;_: we_PRP found_VBD this_DT too_RB slow_JJ -LRB-_-LRB- corroborated_VBN elsewhere_RB =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =--RRB-_NN and_CC also_RB unnecessary_JJ for_IN accuracy_NN ._.
+On_IN LETOR_NN more_JJR than_IN 30_CD --_: 40_CD rounds_NNS sometimes_RB hurt_VBP accuracy_NN ,_, so_IN we_PRP set_VBD the_DT number_NN of_IN boosting_VBG rounds_NNS to_TO 30_CD ;_: this_DT only_JJ tips_NNS the_DT scales_NNS against_IN us_PRP wrt_VBD performance_NN ._.
+Even_RB

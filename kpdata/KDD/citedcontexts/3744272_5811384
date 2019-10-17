@@ -1,0 +1,4 @@
+ider_NN dimensions_NNS to_TO be_VB independent_JJ -LRB-_-LRB- the_DT naïve_JJ assumption_NN -RRB-_-RRB- and_CC do_VBP not_RB compute_VB distances_NNS or_CC joint_JJ probabilities_NNS ._.
+One_CD example_NN is_VBZ the_DT multinomial_JJ distribution_NN ,_, often_RB used_VBN in_IN text_NN clustering_NN ._.
+Previous_JJ work_NN =_JJ -_: =[_NN 2_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ used_VBN mixtures_NNS of_IN multinomials_NNS for_IN clustering_NN program_NN traces_NNS ,_, but_CC with_IN little_JJ success_NN ._.
+The_DT multinomial_JJ model_NN does_VBZ not_RB do_VB well_RB at_IN modeling_NN `_`` bursty_NN '_'' behaviors_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, or_CC those_DT behaviors_NNS which_WDT are_VBP rare_JJ

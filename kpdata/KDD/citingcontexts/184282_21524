@@ -1,0 +1,6 @@
+n_NN methods_NNS ._.
+Section_NN 3_CD gives_VBZ the_DT experimental_JJ results_NNS of_IN dimensionality_NN reduction_NN on_IN image_NN data_NNS ,_, and_CC Section_NNP 4_CD on_IN text_NN data_NNS ._.
+Finally_RB ,_, Section_NN 5_CD gives_VBZ a_DT conclusion_NN ._.
+1.1_CD Related_JJ work_NN Papadimitriou_NNP et_FW al._FW =_SYM -_: =[_NN 22_CD -_: =-]_CD use_NN random_JJ projection_NN in_IN the_DT preprocessing_NN of_IN textual_JJ data_NNS ,_, prior_RB to_TO applying_VBG LSI_NNP ._.
+They_PRP present_VBP experimental_JJ results_NNS on_IN an_DT articially_RB generated_VBN set_NN of_IN documents_NNS ._.
+In_IN their_PRP$ approach_NN ,_, the_DT columns_NNS of_IN th_DT

@@ -1,0 +1,5 @@
+performance_NN bottlenecks_NNS inherent_JJ in_IN their_PRP$ parent_NN ._.
+In_IN the_DT recent_JJ years_NNS ,_, efficient_JJ techniques_NNS has_VBZ been_VBN proposed_VBN to_TO overcome_VB the_DT limitations_NNS of_IN the_DT Apriori_NNP ._.
+This_DT includes_VBZ the_DT FP-Growth_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC DiffSets_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT are_VBP both_DT efficient_JJ and_CC scalable_JJ ._.
+However_RB ,_, these_DT modern_JJ techniques_NNS are_VBP constrained_VBN to_TO mining_NN plain_NN vanilla_NN rules_NNS ._.
+In_IN other_JJ words_NNS ,_, these_DT new_JJ algorithms_NNS are_VBP not_RB flexible_JJ in_IN supporting_VBG the_DT mining_NN of_IN

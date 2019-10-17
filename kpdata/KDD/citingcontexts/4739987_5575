@@ -1,0 +1,4 @@
+l_NN information_NN -LRB-_-LRB- 43_CD -RRB-_-RRB- ._.
+We_PRP then_RB selected_VBD the_DT top_JJ 500_CD n-grams_NN ,_, a_DT quantity_NN we_PRP determined_VBD through_IN pilot_NN studies_NNS -LRB-_-LRB- see_VB Section_NNP 6.1_CD -RRB-_-RRB- ,_, and_CC applied_VBD several_JJ learning_VBG methods_NNS ,_, most_JJS of_IN which_WDT are_VBP implemented_VBN in_IN weka_NN =_JJ -_: =[_NN 42_CD -RRB-_-RRB- -_: =_JJ -_: :_: ibk_NN ,_, tfidf_NN ,_, naive_JJ Bayes_NNP ,_, a_DT support_NN vector_NN machine_NN -LRB-_-LRB- svm_NN -RRB-_-RRB- ,_, and_CC a_DT decision_NN tree_NN ._.
+We_PRP also_RB ``_`` boosted_VBD ''_'' the_DT last_JJ three_CD of_IN these_DT learners_NNS ,_, and_CC we_PRP discuss_VBP each_DT of_IN these_DT methods_NNS in_IN the_DT following_JJ sections_NNS ._.
+4.1_CD

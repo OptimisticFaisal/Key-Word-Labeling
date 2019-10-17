@@ -1,0 +1,4 @@
+solve_VB ._.
+To_TO improve_VB the_DT efficiency_NN of_IN the_DT SDP_NNP formulation_NN ,_, we_PRP propose_VBP an_DT equivalent_JJ semi-infinite_JJ linear_NN program_NN -LRB-_-LRB- SILP_NN -RRB-_-RRB- formulation_NN which_WDT can_MD be_VB solved_VBN efficiently_RB using_VBG the_DT column_NN generation_NN technique_NN =_JJ -_: =[_NN 11_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Experimental_JJ results_NNS on_IN a_DT collection_NN of_IN benchmark_JJ data_NNS sets_NNS demonstrate_VBP the_DT effectiveness_NN of_IN the_DT proposed_VBN algorithms_NNS ._.
+The_DT remainder_NN of_IN this_DT paper_NN is_VBZ organized_VBN as_IN follows_VBZ :_: We_PRP review_VBP the_DT basics_NNS of_IN sub_NN

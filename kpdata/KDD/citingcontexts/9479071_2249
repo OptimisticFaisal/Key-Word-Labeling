@@ -1,0 +1,4 @@
+,_, 37_CD ,_, 6_CD ,_, 34_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+In_IN these_DT published_VBN works_NNS ,_, the_DT setting_NN is_VBZ not_RB initially_RB one_CD of_IN network_NN classification_NN ._.
+Rather_RB ,_, these_DT techniques_NNS are_VBP designed_VBN to_TO address_VB semisupervised_JJ learning_NN in_IN a_DT transductive_JJ setting_NN =_JJ -_: =[_NN 33_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC their_PRP$ methods_NNS have_VBP direct_JJ application_NN to_TO certain_JJ instances_NNS of_IN the_DT univariate_JJ network-classification_NN ._.
+All_PDT the_DT above-mentioned_JJ references_NNS induce_VBP graphs_NNS over_IN initially_RB non-graph_JJ data_NNS by_IN connecting_VBG

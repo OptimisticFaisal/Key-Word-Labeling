@@ -1,0 +1,4 @@
+l_NN in_IN terms_NNS of_IN accuracy_NN ,_, although_IN GRF_NN produces_VBZ slightly_RB better_JJR probability_NN rankings_NNS ._.
+Our_PRP$ results_NNS with_IN wvRN_NN +_CC RL_NN and_CC GRF_NN are_VBP consistent_JJ with_IN this_DT conclusion_NN ._.
+The_DT ``_`` ghost_NN edge_NN ''_'' approach_NN of_IN Gallagher_NNP et_FW al._FW =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: combines_VBZ aspects_NNS of_IN both_CC SRL_NN and_CC SSL_NN ,_, and_CC compares_VBZ favorably_RB with_IN both_CC wvRN_NN +_CC RL_NN and_CC GRF_NN ._.
+3_CD Label-Dependent_JJ vs._FW Label-Independent_FW Features_VBZ Relational_JJ classifiers_NNS leverage_NN link_NN structure_NN to_TO improve_VB perf_NN

@@ -1,0 +1,4 @@
+ng_NN We_PRP chose_VBD two_CD learning_NN algorithms_NNS :_: the_DT Ripper_NNP rule-learning_NN algorithm_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC Naïve_NNP Bayes_NNP probabilistic_JJ learning_NN algorithm_NN ._.
+These_DT algorithms_NNS have_VBP been_VBN widely_RB applied_VBN for_IN email_NN classification_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 7_CD ,_, 8_CD ,_, 25_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+To_TO obtain_VB a_DT prediction_NN for_IN each_DT of_IN the_DT 122_CD email_NN messages_NNS ,_, we_PRP performed_VBD a_DT stratified_JJ 5-fold_JJ cross-validation_NN ._.
+Prior_RB to_TO training_NN ,_, each_DT email_JJ message_NN was_VBD preprocessed_VBN to_TO remove_VB headers_NNS and_CC common_JJ ``_`` st_FW

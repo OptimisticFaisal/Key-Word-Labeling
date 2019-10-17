@@ -1,0 +1,4 @@
+a_DT 6.4_CD %_NN gain_NN for_IN precision_NN at_IN 5_CD -LRB-_-LRB- P@5_NN -RRB-_-RRB- ,_, and_CC a_DT 4.8_CD %_NN gain_NN for_IN precision_NN at_IN 10_CD -LRB-_-LRB- P@10_NN -RRB-_-RRB- based_VBN on_IN the_DT standard_JJ test_NN set_NN of_IN TREC_NN 8_CD ._.
+For_IN other_JJ work_NN on_IN graph-based_JJ information_NN retrieval_NN ,_, readers_NNS are_VBP directed_VBN to_TO =_JJ -_: =[_NN 10,11,12,13,14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ research_NN differs_VBZ from_IN prior_JJ work_NN in_IN that_DT our_PRP$ query-independent_JJ document_NN score_NN is_VBZ not_RB graph-based_JJ ._.
+Instead_RB ,_, we_PRP assume_VBP that_IN documents_NNS with_IN a_DT narrow_JJ focus_NN are_VBP more_RBR important_JJ than_IN documents_NNS with_IN a_DT b_NN

@@ -1,0 +1,5 @@
+linear_JJ transformation_NN W_NN ∈_NN Ê_NN m_NN ×_CD l_NN ._.
+Thus_RB ,_, each_DT xi_NN in_IN the_DT m-dimensional_JJ space_NN is_VBZ mapped_VBN to_TO a_DT vector_NN ˆxi_NN in_IN the_DT l-dimensional_JJ space_NN as_IN follows_VBZ :_: xi_FW ∈_FW Ê_NN m_NN →_FW ˆxi_FW =_JJ W_NN T_NN xi_FW ∈_FW Ê_NN l_NN -LRB-_-LRB- l_NN -LRB-_-LRB- m_NN -RRB-_-RRB- ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- It_PRP has_VBZ been_VBN shown_VBN =_JJ -_: =[_NN 8_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: that_IN for_IN most_JJS high-dimensional_JJ data_NNS sets_NNS ,_, almost_RB all_DT low_JJ dimensional_JJ projections_NNS are_VBP nearly_RB normal_JJ ._.
+That_DT is_VBZ ,_, for_IN large_JJ m_NN the_DT projected_VBN data_NNS -LCB-_-LRB- ˆxi_NNS -RCB-_-RRB- n_NN i_LS =_JJ 1_CD is_VBZ expected_VBN to_TO be_VB nearly_RB normal_JJ ._.
+In_IN this_DT case_NN ,_,

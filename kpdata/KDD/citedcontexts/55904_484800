@@ -1,0 +1,4 @@
+ere_NN significant_JJ ,_, the_DT standard_JJ error_NN for_IN these_DT two_CD measures_NNS was_VBD computed_VBN ._.
+5.1_CD Data_NNP sets_VBZ We_PRP performed_VBD the_DT experiments_NNS on_IN two_CD real_JJ datasets_NNS namely_RB the_DT CSLOG_NN dataset_NN created_VBN and_CC used_VBN by_IN Zaki_NNP and_CC Aggarwal_NNP =_SYM -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT Wikipedia_NNP XML_NN dataset_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+The_DT CSLOG_NN dataset_NN consist_VBP of_IN user_NN sessions_NNS of_IN the_DT RPI_NNP CS_NNP website_NN ,_, collected_VBN over_IN a_DT period_NN of_IN three_CD weeks_NNS ._.
+Each_DT user_NN session_NN consists_VBZ of_IN a_DT graph_NN and_CC contained_VBD the_DT we_PRP

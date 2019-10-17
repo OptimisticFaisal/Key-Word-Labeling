@@ -1,0 +1,4 @@
+s_NN to_TO the_DT n_NN best_JJS patterns_NNS according_VBG to_TO E_NN values_NNS -LRB-_-LRB- the_DT n_NN patterns_NNS with_IN the_DT highest_JJS values_NNS -RRB-_-RRB- ._.
+For_IN instance_NN ,_, such_PDT a_DT constraint_NN can_MD be_VB used_VBN to_TO specify_VB that_IN only_RB the_DT n_NN most_RBS frequent_JJ patterns_NNS are_VBP desired_VBN -LRB-_-LRB- see_VB =_JJ -_: =[_NN 7,70,71_CD -RRB-_-RRB- -_: =_SYM -_: for_IN other_JJ examples_NNS -RRB-_-RRB- ._.
+Another_DT kind_NN of_IN primitive_JJ constraint_NN concerns_VBZ the_DT syntactical_JJ restrictions_NNS that_WDT can_MD be_VB defined_VBN on_IN one_CD pattern_NN ._.
+By_IN syntactical_JJ ,_, we_PRP mean_VBP constraints_NNS that_WDT can_MD be_VB checked_VBN without_IN any_DT

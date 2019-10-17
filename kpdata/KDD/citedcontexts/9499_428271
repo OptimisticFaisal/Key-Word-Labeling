@@ -1,0 +1,4 @@
+the_DT results_NNS ._.
+2_CD A_NNP Bregman_NNP Overlapping_NNP Co-clustering_JJ Algorithm_NN In_IN this_DT section_NN we_PRP propose_VBP a_DT meta_NN algorithm_NN exactly_RB on_IN the_DT lines_NNS of_IN the_DT meta_NN co-clustering_NN algorithm_NN which_WDT is_VBZ presented_VBN by_IN Banerjee_NNP et_FW al_FW =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT difference_NN from_IN the_DT original_JJ algorithm_NN is_VBZ that_IN our_PRP$ algorithm_NN will_MD allow_VB overlapping_VBG among_IN the_DT co-clusters_NNS ._.
+In_IN the_DT original_JJ paper_NN ,_, the_DT authors_NNS initially_RB assume_VBP k_NN row_NN clusters_NNS and_CC l_NN column_NN cluster_NN

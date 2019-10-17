@@ -1,0 +1,5 @@
+an_DT implementation_NN of_IN the_DT ubiquitous_JJ c4_NN .5_CD -LRB-_-LRB- 35_CD -RRB-_-RRB- ._.
+During_IN performance_NN ,_, j48_NN assigns_VBZ weights_NNS to_TO each_DT class_NN ,_, and_CC we_PRP used_VBD the_DT weight_NN of_IN the_DT negative_JJ class_NN as_IN the_DT case_NN rating_NN ._.
+4.6_CD Boosted_JJ Classifiers_NNS Boosting_VBG =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT method_NN for_IN combining_VBG multiple_JJ classifiers_NNS ._.
+Researchers_NNS have_VBP shown_VBN that_IN ensemble_NN methods_NNS often_RB improve_VBP performance_NN over_IN single_JJ classifiers_NNS -LRB-_-LRB- 9_CD ,_, 31_CD -RRB-_-RRB- ._.
+Boosting_VBG produces_VBZ a_DT set_NN of_IN weighted_JJ models_NNS by_IN i_FW

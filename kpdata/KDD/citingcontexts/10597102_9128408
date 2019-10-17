@@ -1,0 +1,5 @@
+with_IN the_DT online_NN upper_JJ bound_VBD from_IN Theorem_NNP 4_CD ._.
+In_IN practice_NN NETINF_NN finds_VBZ networks_NNS that_WDT are_VBP at_IN 97_CD %_NN of_IN NP-hard_NN to_TO compute_VB optimal_JJ ._.
+structure_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- -LRB-_-LRB- -LRB-_-LRB- 0.962_CD ,_, 0.107_CD ;_: 0.107_CD ,_, 0.962_CD -RRB-_-RRB- -RRB-_-RRB- and_CC a_DT core-periphery_JJ network_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- -LRB-_-LRB- 0.962_CD ,_, 0.535_CD ;_: 0.535_CD ,_, 0.107_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Notice_NNP that_IN Forest_NNP Fire_NNP generates_VBZ a_DT scale_NN free_JJ network_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+We_PRP then_RB simulate_VBP cascades_NNS on_IN G_NN ∗_NN using_VBG the_DT generative_JJ model_NN defined_VBN in_IN Section_NN 2.1_CD that_WDT is_VBZ parameterized_VBN by_IN

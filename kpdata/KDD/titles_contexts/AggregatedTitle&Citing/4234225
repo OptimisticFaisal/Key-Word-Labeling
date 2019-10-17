@@ -1,0 +1,6 @@
+Density-based_JJ clustering_NN of_IN uncertain_JJ data_NNS
+it_PRP the_DT full_JJ information_NN provided_VBN by_IN these_DT functions_NNS ._.
+The_DT resulting_VBG algorithm_NN FOPTICS_NN helps_VBZ the_DT user_NN to_TO get_VB an_DT overview_NN over_IN a_DT large_JJ set_NN of_IN fuzzy_JJ objects_NNS ._.
+1_CD ._.
+Introduction_NN The_DT standard_JJ OPTICS_NN algorithm_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, like_IN other_JJ data_NNS mining_NN algorithms_NNS ,_, can_MD only_RB analyze_VB uncertain_JJ data_NNS if_IN we_PRP measure_VBP the_DT distance_NN -LRB-_-LRB- similarity_NN -RRB-_-RRB- between_IN uncertain_JJ objects_NNS by_IN one_CD numerical_JJ value_NN ._.
+These_DT single-valued_JJ distance_NN functions_NNS do_VBP

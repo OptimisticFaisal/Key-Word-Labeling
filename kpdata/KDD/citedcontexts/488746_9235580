@@ -1,0 +1,4 @@
+Reinterpretation_NN as_IN a_DT convex_NN relaxation_NN of_IN K-means_NNS In_IN this_DT section_NN we_PRP show_VBP that_IN the_DT semi-norm_JJ ‖_NN WΠ_NN ‖_NN 2_CD c_NN that_IN we_PRP have_VBP designed_VBN earlier_RBR ,_, can_MD be_VB interpreted_VBN as_IN a_DT convex_NN relaxation_NN of_IN K-means_NNS on_IN the_DT tasks_NNS =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Indeed_RB ,_, given_VBN W_NNP ∈_NNP Rd_NNP ×_NNP m_NN ,_, K-means_JJ aims_NNS to_TO decompose_VB it_PRP in_IN the_DT form_NN W_NN =_JJ µE_FW ⊤_FW where_WRB µ_FW ∈_FW Rd_FW ×_FW r_NN are_VBP cluster_NN centers_NNS and_CC E_NN represents_VBZ a_DT partition_NN ._.
+Given_VBN E_NN ,_, µ_NN is_VBZ found_VBN by_IN minimizing_VBG minµ_FW ‖_FW W_NN ⊤_FW −_FW Eµ_FW ⊤_FW ‖_FW 2_CD F_NN ._.
+Th_NN

@@ -1,0 +1,4 @@
+nding_NN ''_'' that_WDT underlies_VBZ our_PRP$ approach_NN ._.
+Such_JJ bounding_VBG applies_VBZ to_TO any_DT kernel_NN machine_NN of_IN the_DT form_NN f_FW -LRB-_-LRB- x_NN -RRB-_-RRB- =_JJ P_NN isi_NN K_NN -LRB-_-LRB- X_NN i_LS ;_: x_LS -RRB-_-RRB- b_NN ,_, including_VBG not_RB only_JJ SVMs_NNS ,_, but_CC also_RB recent_JJ ones_NNS such_JJ as_IN KFD_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, MPM_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- and_CC =_JJ -_: =_JJ PSVM_NN -LRB-_-LRB- 8_CD -_: =-]_CD ._.
+Furthermore_RB ,_, our_PRP$ anytime_RB bounding_VBG is_VBZ applicable_JJ regardless_RB of_IN the_DT task_NN -LRB-_-LRB- e.g._FW classication_NN ,_, regression_NN ,_, etc._NN -RRB-_-RRB- ,_, since_IN this_DT same_JJ kernel_NN machine_NN form_NN is_VBZ common_JJ to_TO all_DT such_JJ uses_NNS ._.
+For_IN 7_CD We_PRP also_RB observe_VBP t_NN

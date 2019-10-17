@@ -1,0 +1,3 @@
+of_IN all_DT predictions_NNS that_WDT are_VBP subject_JJ to_TO a_DT confidence_NN value_NN of_IN x_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Obtaining_VBG more_RBR or_CC less_RBR well_RB calibrated_VBN probability_NN estimates_NNS has_VBZ gained_VBN a_DT lot_NN of_IN attention_NN in_IN the_DT context_NN of_IN classification_NN -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 41,42,56,57_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Here_RB ,_, in_IN the_DT unsupervised_JJ context_NN of_IN outlier_NN detection_NN ,_, we_PRP propose_VBP the_DT first_JJ approach_NN to_TO reconvert_VB plain_JJ outlier_NN scores_NNS roughly_RB into_IN probability_NN estimates_NNS as_IN a_DT motivation_NN for_IN the_DT unification_NN and_CC in_IN

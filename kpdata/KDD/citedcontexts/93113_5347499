@@ -1,0 +1,5 @@
+we_PRP can_MD determine_VB if_IN the_DT rule_NN AB_NNP Þ_NNP CD_NNP holds_VBZ by_IN checking_VBG if_IN -LRB-_-LRB- support_NN -LRB-_-LRB- ABCD_NN -RRB-_-RRB- \/_: support_NN -LRB-_-LRB- AB_NNP -RRB-_-RRB- -RRB-_-RRB- -RRB-_-RRB- minimum_NN confidence_NN ._.
+A_DT number_NN of_IN algorithms_NNS for_IN association_NN rule_NN mining_NN have_VBP been_VBN proposed_VBN in_IN the_DT literature_NN =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 8_CD ,_, 9_CD ,_, 10_CD ,_, 11_CD ,_, 12_CD ,_, 13_CD ,_, 14_CD ,_, 15_CD ,_, 16_CD ,_, 17_CD ,_, 18_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2.1_CD Apriori_NNP Algorithm_NNP Apriori_NNP -LRB-_-LRB- 2_CD -RRB-_-RRB- is_VBZ the_DT very_RB first_JJ efficient_JJ algorithm_NN to_TO mine_VB association_NN rules_NNS ._.
+It_PRP works_VBZ iteratively_RB and_CC makes_VBZ as_IN many_JJ passes_NNS over_IN the_DT database_NN as_IN the_DT length_NN of_IN maximal_JJ itemset_NN ._.
+A_DT

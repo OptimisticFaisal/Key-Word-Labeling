@@ -1,0 +1,4 @@
+o_NN solve_VB the_DT optimization_NN problem_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- in_IN all_DT experiments_NNS ._.
+The_DT performance_NN of_IN the_DT proposed_VBN Clustering_VBG Based_VBN Classifier_NN -LRB-_-LRB- CB-SOCP_NN -RRB-_-RRB- was_VBD compared_VBN to_TO that_DT of_IN SVM_NN -LRB-_-LRB- using_VBG linear_JJ kernel_NN -RRB-_-RRB- implemented_VBN by_IN LIBSVM_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- denoted_VBN by_IN SVM_NN -RRB-_-RRB- 4_CD ._.
+All_DT experiments_NNS were_VBD carried_VBN on_IN Pentium_NNP 4_CD 2.4_CD GHz_NN machines_NNS with_IN 1GB_NN memory_NN ._.
+A_DT `_`` ×_NN '_'' inthe_NN tables_NNS 1,2_CD and_CC 3_CD represents_VBZ the_DT failure_NN of_IN the_DT corresponding_JJ classifier_NN to_TO complete_VB trainin_NN

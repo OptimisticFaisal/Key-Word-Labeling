@@ -1,0 +1,4 @@
+the_DT kernel_NN matrix_NN computed_VBN for_IN all_DT feature-vectors_NNS -LRB-_-LRB- instances_NNS -RRB-_-RRB- in_IN the_DT source_NN or_CC target_NN domain_NN ,_, and_CC is_VBZ the_DT only_JJ parameter_NN to_TO be_VB determined_VBN ._.
+Our_PRP$ approach_NN is_VBZ similar_JJ to_TO the_DT one_NN proposed_VBN by_IN Zhong_NNP et_FW al_FW =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: but_CC unlike_IN their_PRP$ approach_NN ,_, we_PRP do_VBP not_RB use_VB the_DT bisecting_NN means_VBZ algorithm_NN to_TO correct_VB the_DT posterior_JJ distributions_NNS after_IN mapping_NN ._.
+This_DT is_VBZ expected_VBN to_TO be_VB true_JJ according_VBG to_TO our_PRP$ approach_NN ._.
+In_IN our_PRP$ problem_NN ,_,

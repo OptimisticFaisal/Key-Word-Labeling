@@ -1,0 +1,4 @@
+useful_JJ in_IN behavior_NN adaptation_NN because_IN novelty_NN detection_NN can_MD be_VB used_VBN to_TO detects_VBZ new_JJ behavior_NN and_CC then_RB use_VB them_PRP for_IN adaptation_NN ._.
+Here_RB we_PRP discuss_VBP two_CD statistical_JJ methods_NNS for_IN novelty_NN detection_NN ._.
+Yamanishi_NN =_JJ -_: =[_NN 118_CD -RRB-_-RRB- -_: =_JJ -_: present24_NN SmartSifter_NN -LRB-_-LRB- SS_NN -RRB-_-RRB- ,_, an_DT outlier_NN detection_NN system_NN based_VBN on_IN unsupervised_JJ learning_NN of_IN the_DT information_NN source_NN ._.
+Every_DT time_NN a_DT datum_NN is_VBZ input_NN ,_, it_PRP is_VBZ required_VBN to_TO evaluate_VB how_WRB large_JJ the_DT datum_NN has_VBZ devi_VBN

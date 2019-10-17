@@ -1,0 +1,4 @@
+onymization_NN :_: why_WRB do_VBP we_PRP care_VB ?_.
+First_RB ,_, even_RB though_IN in_IN most_JJS cases_NNS node_NN identities_NNS are_VBP anonymized_VBN ,_, there_EX are_VBP a_DT number_NN of_IN instances_NNS where_WRB they_PRP are_VBP public_JJ knowledge_NN ._.
+For_IN example_NN ,_, in_IN academic_JJ social_JJ networks_NNS =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, node_NN identities_NNS and_CC link_NN structure_NN are_VBP public_JJ knowledge_NN ,_, but_CC edge_NN weights_NNS are_VBP sensitive_JJ ._.
+Second_JJ ,_, even_RB in_IN the_DT case_NN where_WRB the_DT node_NN identities_NNS are_VBP anonymized_VBN ,_, edge_NN weight_NN anonymization_NN is_VBZ still_RB im_FW

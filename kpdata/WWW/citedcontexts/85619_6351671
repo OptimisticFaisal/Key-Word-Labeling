@@ -1,0 +1,4 @@
+the_DT victim_NN MR_NN and_CC are_VBP guaranteed_VBN to_TO be_VB present_JJ in_IN the_DT cache_NN with_IN a_DT large_JJ frequency_NN count_NN ._.
+s1568999093_NN 4_CD We_PRP can_MD distinguish_VB between_IN a_DT DoS_NN attack_NN and_CC link_NN congestion_NN using_VBG application_NN level_NN information_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP is_VBZ possible_JJ that_IN our_PRP$ scheme_NN can_MD misclassify_VB bursty_JJ flows_NNS as_IN an_DT attack_NN flow_NN ._.
+In_IN order_NN to_TO avoid_VB such_JJ false_JJ positives_NNS ,_, we_PRP compare_VBP the_DT frequency_NN count_NN of_IN this_DT flow_NN with_IN the_DT frequency_NN counts_NNS of_IN the_DT ot_NN

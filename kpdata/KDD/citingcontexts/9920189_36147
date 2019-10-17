@@ -1,0 +1,4 @@
+more_RBR important_JJ than_IN older_JJR ones_NNS ._.
+Other_JJ systems_NNS perform_VBP clustering_NN or_CC classification_NN based_VBN on_IN the_DT article_NN 's_POS content_NN ,_, computing_VBG such_JJ values_NNS as_IN TF-IDF_NN weights_NNS for_IN tokens_NNS ._.
+A_DT near_JJ neighbor_NN text_NN classifier_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ a_DT document_NN vector_NN space_NN model_NN ._.
+A_DT personalized_JJ multi-document_JJ summarization_NN and_CC recommendation_NN system_NN by_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- recommends_VBZ articles_NNS by_IN suggesting_VBG articles_NNS from_IN the_DT same_JJ clusters_NNS in_IN which_WDT past_JJ intere_NN

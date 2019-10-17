@@ -1,0 +1,4 @@
+rules_NNS meeting_VBG these_DT weak_JJ minimp_NN and_CC min1_NN The_DT data_NNS for_IN this_DT figure_NN was_VBD generated_VBN by_IN a_DT version_NN of_IN Dense-Miner_NNP that_WDT prunes_VBZ any_DT group_NN that_WDT can_MD not_RB lead_VB to_TO a_DT rule_NN on_IN the_DT depicted_VBN support\/confidence_NN border_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT optimization_NN criteria_NNS is_VBZ enforced_VBN during_IN mining_NN using_VBG the_DT confidence_NN and_CC support_NN bounding_VBG techniques_NNS from_IN section_NN 5_CD ._.
+21FIGURE_NN 5_CD ._.
+Execution_NN time_NN and_CC rules_NNS returned_VBD versus_CC minimum_JJ coverage_NN for_IN t_NN

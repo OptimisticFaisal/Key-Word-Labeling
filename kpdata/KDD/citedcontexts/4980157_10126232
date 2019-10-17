@@ -1,0 +1,4 @@
+s._NN Finally_RB ,_, we_PRP propose_VBP a_DT comparison_NN of_IN Exterlog_NNP and_CC TermExtractor_NNP system_NN .2_NN 2_CD Context_NN In_IN the_DT domain_NN of_IN log_NN file_NN analysis_NN ,_, some_DT logs_NNS like_IN network_NN monitoring_NN logs_NNS or_CC web_NN usage_NN logs_NNS are_VBP widely_RB exploited_VBN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =-[_NN 2_CD -RRB-_-RRB- ._.
+These_DT kinds_NNS of_IN logs_NNS are_VBP based_VBN on_IN the_DT management_NN of_IN events_NNS ._.
+That_DT is_VBZ ,_, the_DT computing_NN systems_NNS record_VBP the_DT system_NN events_NNS based_VBN on_IN their_PRP$ occurring_VBG times_NNS ._.
+The_DT contents_NNS of_IN these_DT logs_NNS comply_VBP with_IN norms_NNS acc_NN

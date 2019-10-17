@@ -1,0 +1,5 @@
+rs_NNS ._.
+These_DT access_NN control_NN techniques_NNS are_VBP orthogonal_JJ to_TO the_DT basic_JJ solutions_NNS as_RB well_RB as_IN the_DT solution_NN presented_VBN in_IN this_DT paper_NN ._.
+The_DT use_NN of_IN search_NN engines_NNS to_TO detect_VB information_NN leaks_NNS has_VBZ been_VBN introduced_VBN in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, in_IN our_PRP$ work_NN ,_, the_DT purpose_NN of_IN using_VBG search_NN engines_NNS is_VBZ simply_RB to_TO detect_VB inferences_NNS between_IN keywords_NNS ._.
+The_DT purpose_NN of_IN finding_VBG inferences_NNS between_IN keywords_NNS is_VBZ to_TO discover_VB sensitive_JJ documents_NNS that_IN

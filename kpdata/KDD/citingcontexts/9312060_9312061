@@ -1,0 +1,4 @@
+geneous_JJ data_NNS sources_NNS for_IN unsupervised_JJ feature_NN selection_NN has_VBZ not_RB been_VBN explored_VBN to_TO help_VB biological_JJ investigation_NN ._.
+We_PRP notice_VBP that_IN gene_NN prioritization_NN using_VBG multiple_JJ data_NNS sources_NNS is_VBZ previously_RB studied_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, it_PRP is_VBZ essentially_RB a_DT classification_NN problem_NN in_IN which_WDT genes_NNS are_VBP treated_VBN as_IN instances_NNS and_CC only_RB data_NNS sources_NNS describing_VBG genes_NNS relationships_NNS are_VBP used_VBN ._.
+Therefore_RB despite_IN its_PRP$ significance_NN ,_, gene_NN se_FW

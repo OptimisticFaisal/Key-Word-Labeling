@@ -1,0 +1,5 @@
+epresentation_NN as_RB well_RB as_IN a_DT relevant_JJ support_NN for_IN data_NNS mining_NN ,_, as_IN some_DT properties_NNS can_MD be_VB used_VBN when_WRB generating_VBG candidates_NNS and_CC pruning_NN non_JJ frequent_JJ candidates_NNS ._.
+This_DT approach_NN is_VBZ compared_VBN to_TO existing_VBG works_NNS =_JJ -_: =[_NN 2_CD ,_, 7_CD ,_, 13_CD -RRB-_-RRB- -_: =_JJ -_: and_CC we_PRP show_VBP its_PRP$ interest_NN through_IN experiments_NNS ._.
+This_DT paper_NN is_VBZ organized_VBN as_IN follows_VBZ ._.
+Section_NN 2_CD presents_VBZ related_JJ work_NN ._.
+Section_NN 3_CD presents_VBZ the_DT core_NN of_IN our_PRP$ proposition_NN defining_VBG a_DT new_JJ method_NN to_TO represent_VB tr_NN

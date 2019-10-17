@@ -1,0 +1,5 @@
+is_VBZ varied_VBN up_RP to_TO a_DT factor_NN of_IN 10_CD -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+Our_PRP$ own_JJ experimental_JJ results_NNS have_VBP confirmed_VBN it_PRP ._.
+A_DT number_NN of_IN other_JJ smoothing_NN methods_NNS have_VBP been_VBN used_VBN to_TO address_VB the_DT overfitting_JJ problems_NNS for_IN maximum_NN entropy_NN models_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT smoothing_NN method_NN tries_VBZ to_TO relax_VB the_DT constraint_NN that_IN the_DT model_NN distribution_NN should_MD be_VB exactly_RB the_DT same_JJ as_IN the_DT empirical_JJ distribution_NN on_IN the_DT training_NN data_NNS ._.
+The_DT goodTuring_NN smoothing_NN algorithm_NN -LRB-_-LRB- 14_CD -RRB-_-RRB-

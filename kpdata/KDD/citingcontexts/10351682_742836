@@ -1,0 +1,4 @@
+ion_NN based_VBN approaches_NNS -LRB-_-LRB- 17_CD ,_, 18_CD -RRB-_-RRB- ._.
+An_DT object_NN x_NN ∈_FW Dis_FW an_DT outlier_NN if_IN at_IN least_JJS a_DT fraction_NN p_NN of_IN all_DT data_NNS objects_NNS in_IN D_NN has_VBZ a_DT distance_NN above_IN D_NN from_IN x._JJ Variants_NNS of_IN the_DT distance_NN based_JJ notion_NN of_IN outliers_NNS are_VBP -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, the_DT distancestotheknearest_JJS neighbors_NNS are_VBP used_VBN and_CC the_DT objects_NNS are_VBP ranked_VBN according_VBG to_TO their_PRP$ distances_NNS to_TO their_PRP$ k-th_NN nearest_IN neighbor_NN ._.
+A_DT partition-based_JJ algorithm_NN is_VBZ then_RB used_VBN to_TO ef_VB

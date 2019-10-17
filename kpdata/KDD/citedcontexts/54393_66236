@@ -1,0 +1,5 @@
+em_NN of_IN rule_NN sanitization_NN ._.
+Rather_RB than_IN sharing_VBG the_DT data_NNS ,_, collaborators_NNS prefer_VBP to_TO mine_VB their_PRP$ own_JJ data_NNS and_CC share_VBP the_DT discovered_VBN patterns_NNS ._.
+Let_VB us_PRP consider_VB a_DT motivating_VBG example_NN based_VBN on_IN a_DT case_NN discussed_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Suppose_VB we_PRP have_VBP a_DT server_NN and_CC many_JJ clients_NNS in_IN which_WDT each_DT client_NN has_VBZ a_DT set_NN of_IN sold_VBN items_NNS -LRB-_-LRB- e.g._FW books_NNS ,_, movies_NNS ,_, etc_NN -RRB-_-RRB- ._.
+The_DT clients_NNS want_VBP the_DT server_NN to_TO gather_VB statistical_JJ information_NN about_IN associations_NNS amo_VBP

@@ -1,0 +1,4 @@
+hput_NN ._.
+This_DT overload_NN control_NN process_NN is_VBZ achieved_VBN by_IN having_VBG a_DT cumulative_JJ distribution_NN function_NN -LRB-_-LRB- CDF_NN -RRB-_-RRB- of_IN all_DT incoming_JJ packets_NNS created_VBN and_CC maintained_VBN using_VBG one-pass_JJ quantile_JJ computation_NN techniques_NNS ,_, as_IN in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: --_: -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Next_RB ,_, the_DT discarding_VBG threshold_NN is_VBZ calculated_VBN -LRB-_-LRB- and_CC dynamically_RB adjusted_VBN -RRB-_-RRB- using_VBG the_DT load-shedding_JJ algorithm_NN ,_, as_IN in_IN -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+According_VBG to_TO this_DT algorithm_NN ,_, the_DT congestion_NN level_NN of_IN the_DT victim_NN is_VBZ measure_NN

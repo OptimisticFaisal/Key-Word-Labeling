@@ -1,0 +1,6 @@
+html_FW Path\/poems\/akgun_FW akova\/biyografi_FW ._.
+html_JJ Path\/poems\/akgun_NN akova\/contents_NNS ._.
+html_FW Path\/sair_FW listesi_FW ._.
+html_NN Sequence_NN Mining_NN If_IN our_PRP$ task_NN is_VBZ to_TO perform_VB sequence_NN mining_NN ,_, we_PRP look_VBP for_IN the_DT longest_JJS forward_JJ links_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: in_IN a_DT user_NN session_NN ,_, and_CC generate_VB a_DT new_JJ sequence_NN each_DT time_NN a_DT back_JJ edge_NN is_VBZ traversed_VBN ._.
+We_PRP applied_VBD sequence_NN mining_NN to_TO the_DT LOGML_NN document_NN from_IN the_DT CS_NN web_NN site_NN ._.
+From_IN the_DT 200_CD user_NN sessions_NNS ,_, we_PRP obtain_VBP 8208_CD ma_FW

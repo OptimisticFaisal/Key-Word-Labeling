@@ -1,0 +1,5 @@
+s_NN ,_, blogs_NNS etc._NN ._.
+PHITS_NN -LRB-_-LRB- Hofmann_NN 2001_CD -RRB-_-RRB- models_NNS the_DT documents_NNS and_CC their_PRP$ interconnectivity_NN based_VBN on_IN topic-specific_JJ distributions_NNS ._.
+Further_JJ extensions_NNS include_VBP -LRB-_-LRB- Dietz_NNP ,_, Bickel_NNP ,_, and_CC Scheffer_NNP 2007_CD -RRB-_-RRB- ,_, LinkPLSA-LDA_JJ -LRB-_-LRB- =_JJ -_: =_JJ Nallapati_NNP et_FW al._FW 2008_CD -_: =--RRB-_NN and_CC RTM_NN -LRB-_-LRB- Chang_NNP and_CC Blei_NNP 2009_CD -RRB-_-RRB- ._.
+In_IN addition_NN ,_, some_DT works_NNS consider_VBP the_DT dynamics_NNS of_IN topics_NNS which_WDT include_VBP dynamic_JJ topic_NN model_NN -LRB-_-LRB- Blei_NNP and_CC Lafferty_NNP 2006_CD -RRB-_-RRB- ._.
+Also_RB ,_, recent_JJ efforts_NNS apply_VBP topic_NN modeling_NN on_IN social_JJ

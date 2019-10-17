@@ -1,0 +1,4 @@
+resents_VBZ possible_JJ category_NN labels_NNS ._.
+Normalized_VBN mutual_JJ information_NN is_VBZ also_RB found_VBN in_IN the_DT area_NN of_IN image_NN processing_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, where_WRB it_PRP is_VBZ defined_VBN as_IN H_NN -LRB-_-LRB- x_NN -RRB-_-RRB- +_CC H_NN -LRB-_-LRB- y_NN -RRB-_-RRB- mutual_JJ information_NN as_IN H_NN -LRB-_-LRB- x_NN ,_, y_NN -RRB-_-RRB- ._.
+In_IN our_PRP$ recent_JJ work_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP define_VBP normalized_VBN I_NN -LRB-_-LRB- x_NN ;_: y_NN -RRB-_-RRB- MAX_NN -LCB-_-LRB- I_NN -LRB-_-LRB- x_NN ;_: x_LS -RRB-_-RRB- ,_, I_NN -LRB-_-LRB- y_NN ;_: y_NN -RRB-_-RRB- -RCB-_-RRB- for_IN mining_NN quantitative_JJ correlated_JJ patterns_NNS ._.
+This_DT definition_NN is_VBZ symmetric_JJ ,_, since_IN a_DT correlated_JJ pattern_NN requires_VBZ all_DT attributes_NNS in_IN the_DT pattern_NN be_VB strong_JJ

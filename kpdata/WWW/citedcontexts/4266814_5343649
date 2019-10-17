@@ -1,0 +1,4 @@
+within_IN which_WDT the_DT networks_NNS connections_NNS are_VBP dense_JJ ,_, but_CC between_IN which_WDT they_PRP are_VBP sparser_JJR ,_, shown_VBN in_IN Fig._NNP 1_CD ._.
+We_PRP identify_VBP this_DT property_NN in_IN the_DT SemreX_NN 1_CD ,_, a_DT semantic_JJ peer-to-peer_NN system_NN for_IN reference_NN exchange_NN =_JJ -_: =[_NN 15_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP create_VBP a_DT model_NN to_TO evaluate_VB the_DT community_NN structure_NN property_NN of_IN semantic_JJ overlay_NN networks_NNS ._.
+A_DT heuristic_NN backtrace-greedy_JJ hybrid_NN algorithm_NN is_VBZ designed_VBN to_TO optimize_VB the_DT evaluation_NN value_NN of_IN a_DT given_VBN ove_NN

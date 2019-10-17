@@ -1,0 +1,3 @@
+most_RBS unnoticed_JJ because_IN ,_, unlike_IN their_PRP$ counterparts_NNS in_IN information_NN retrieval_NN ,_, many_JJ researchers_NNS in_IN the_DT database\/data_JJ mining_NN community_NN evaluate_VBP algorithms_NNS without_IN considering_VBG precision\/recall_NN or_CC accuracy_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT work_NN ,_, we_PRP introduce_VBP a_DT distance_NN measure_NN and_CC show_VB its_PRP$ utility_NN with_IN comprehensive_JJ experiments_NNS ._.
+Despite_IN its_PRP$ potential_JJ weakness_NN that_IN it_PRP requires_VBZ some_DT training_NN or_CC human_JJ intervention_NN to_TO achieve_VB its_PRP$

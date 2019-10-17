@@ -1,0 +1,4 @@
+re_NN of_IN the_DT HTML_NNP DOM_NNP of_IN any_DT given_VBN page_NN ._.
+The_DT literature_NN reports_NNS on_IN successful_JJ use_NN of_IN the_DT DOM_NNP structure_NN to_TO identify_VB HTML_NNP layout_NN templates_NNS -LRB-_-LRB- 2,8_CD -RRB-_-RRB- and_CC to_TO partition_NN Web_NN pages_NNS into_IN content-coherent_JJ page_NN units_NNS =_JJ -_: =[_NN 5,28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP follow_VBP a_DT similar_JJ approach_NN to_TO extract_VB link_NN blocks_NNS based_VBN on_IN HTML_NNP DOM_NNP structure_NN ._.
+Our_PRP$ algorithm_NN detects_VBZ link_NN blocks_NNS as_IN a_DT sequence_NN of_IN l_NN or_CC more_JJR hyperlinks_NNS that_WDT share_VBP the_DT same_JJ common_JJ ancestor_NN in_IN the_DT DO_NN

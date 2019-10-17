@@ -1,0 +1,4 @@
+of_IN closed_JJ itemsets_NNS can_MD help_VB us_PRP with_IN this_DT problem_NN ._.
+Closed_JJ itemsets_NNS were_VBD first_RB introduced_VBN in_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC since_IN then_RB they_PRP have_VBP received_VBN a_DT great_JJ deal_NN of_IN attention_NN especially_RB by_IN an_DT algorithmic_JJ point_NN of_IN view_NN =_JJ -_: =[_NN 17_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP are_VBP a_DT concise_JJ and_CC lossless_JJ representation_NN of_IN all_DT frequent_JJ itemsets_NNS ,_, i.e._FW ,_, they_PRP contain_VBP the_DT same_JJ information_NN without_IN redundancy_NN ._.
+Intuitively_RB ,_, a_DT closed_JJ itemset_NN groups_NNS together_RB all_DT its_PRP$ subsets_NNS tha_NN

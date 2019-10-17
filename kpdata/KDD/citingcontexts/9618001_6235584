@@ -1,0 +1,4 @@
+of_IN the_DT four_CD URL_NN data_NNS sets_NNS ._.
+Overall_RB ,_, using_VBG more_JJR features_NNS improves_VBZ classification_NN accuracy_NN ._.
+implemented_VBD a_DT custom_NN optimizer_NN for_IN ℓ1-regularized_JJ logistic_JJ regression_NN in_IN MATLAB_NNP using_VBG multiplicative_JJ updates_NNS =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4.2_CD Feature_NN Comparison_NN Our_PRP$ first_JJ experiments_NNS on_IN URL_NN classification_NN were_VBD designed_VBN to_TO explore_VB the_DT potential_JJ benefits_NNS of_IN considering_VBG large_JJ numbers_NNS of_IN automatically_RB generated_VBN features_NNS as_IN opposed_VBN to_TO smal_VB

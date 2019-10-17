@@ -1,0 +1,4 @@
+across_IN a_DT collection_NN of_IN ``_`` small_JJ ''_'' graphs_NNS or_CC within_IN one_CD ``_`` large_JJ ''_'' graph_NN ._.
+This_DT paper_NN concentrates_VBZ on_IN the_DT first_JJ -LRB-_-LRB- also_RB sometimes_RB referred_VBN to_TO as_IN transaction_NN graph_NN mining_NN -RRB-_-RRB- ._.
+Frequent_JJ sub-graph_JJ mining_NN techniques_NNS =_JJ -_: =[_NN 3,5,6,8,11,12_CD -RRB-_-RRB- -_: =_SYM -_: have_VB parallels_NNS with_IN more_RBR established_JJ frequent_JJ pattern_NN mining_NN techniques_NNS such_JJ as_IN those_DT used_VBN in_IN ,_, for_IN example_NN ,_, Association_NN Rule_NN Mining_NN -LRB-_-LRB- ARM_NN -RRB-_-RRB- ._.
+Thus_RB ,_, in_IN common_JJ with_IN other_JJ forms_NNS of_IN frequent_JJ pattern_NN mining_NN ,_,

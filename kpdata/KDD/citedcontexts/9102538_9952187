@@ -1,0 +1,4 @@
+d_NN -RRB-_-RRB- was_VBD implemented_VBN using_VBG a_DT trust_NN region_NN Newton_NNP method_NN that_WDT has_VBZ been_VBN proved_VBN on_IN high_JJ dimensional_JJ data_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+The_DT method_NN is_VBZ based_VBN on_IN a_DT sequential_JJ dual_JJ method_NN suitable_JJ for_IN large_JJ scale_NN multi-class_JJ problems_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT reduces_VBZ the_DT time_NN involved_VBN in_IN the_DT training_NN process_NN ._.
+The_DT logistic_JJ regression_NN implementation_NN used_VBN in_IN these_DT experiments_NNS is_VBZ available_JJ on_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+For_IN the_DT training_NN phase_NN of_IN LOGRES_NN ,_, we_PRP perform_VBP a_DT 5-fold_JJ cro_NN

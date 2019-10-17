@@ -1,0 +1,5 @@
+using_VBG single-linkage_JJ ,_, complete-linkage_JJ and_CC UPGMA_NNP aggregating_VBG policies_NNS ._.
+sResearch_NNP Track_NNP Paper_NNP First_NNP of_IN all_DT ,_, our_PRP$ clustering_NN model_NN can_MD be_VB regarded_VBN as_IN an_DT integration_NN of_IN K-means_NNS and_CC boolean_NN factor_NN analysis_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP shares_VBZ the_DT alternating_VBG optimization_NN procedure_NN common_JJ to_TO K-means_JJ type_NN algorithms_NNS ._.
+The_DT procedure_NN for_IN feature_NN assignment_NN can_MD be_VB thought_VBN as_IN an_DT approximation_NN of_IN boolean_NN factor_NN analysis_NN ._.
+Our_PRP$ clustering_NN

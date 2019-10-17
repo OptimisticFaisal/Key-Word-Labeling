@@ -1,0 +1,3 @@
+ary_RB ,_, enabling_VBG a_DT query_JJ optimizer_NN to_TO smartly_RB select_VB its_PRP$ data_NN access_NN methods_NNS ._.
+Similar_JJ benefits_NNS are_VBP provided_VBN by_IN a_DT schema_NN ,_, however_RB ,_, summaries_NNS apply_VBP even_RB in_IN the_DT frequent_JJ case_NN when_WRB schemas_NNS are_VBP not_RB available_JJ =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+•_RB We_PRP show_VBP how_WRB to_TO use_VB the_DT result_NN of_IN the_DT static_JJ analysis_NN to_TO lift_VB one_CD of_IN the_DT outstanding_JJ performance_NN hurdles_NNS in_IN the_DT processing_NN of_IN physical_JJ plans_NNS for_IN structural_JJ pattern_NN matching_NN ,_, a_DT crucial_JJ operation_NN in_IN

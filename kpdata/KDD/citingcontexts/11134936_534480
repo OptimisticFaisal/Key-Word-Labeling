@@ -1,0 +1,4 @@
+nduces_FW broader\/narrower_FW relations_NNS using_VBG betweenness_NN centrality_NN and_CC set_NN theory_NN ._.
+Other_JJ works_NNS apply_VBP clustering_NN techniques_NNS to_TO tags_NNS ,_, and_CC use_VB their_PRP$ cooccurrence_NN statistics_NNS to_TO produce_VB conceptual_JJ hierarchies_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Heymann_NNP and_CC Garcia-Molina_NNP -LRB-_-LRB- 7_CD -RRB-_-RRB- use_VBP centrality_NN in_IN the_DT similarity_NN graph_NN of_IN tags_NNS ._.
+The_DT tag_NN with_IN the_DT highest_JJS centrality_NN is_VBZ considered_VBN more_RBR abstract_JJ than_IN one_CD with_IN a_DT lower_JJR centrality_NN ;_: thus_RB it_PRP should_MD be_VB merg_NN

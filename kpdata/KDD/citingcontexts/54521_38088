@@ -1,0 +1,4 @@
+directed_VBN graphical_JJ models_NNS -RRB-_-RRB- with_IN the_DT local_JJ parent_NN structure_NN in_IN the_DT form_NN of_IN decision_NN trees_NNS ._.
+Learning_VBG the_DT optimal_JJ structure_NN of_IN a_DT Bayesian_JJ network_NN was_VBD shown_VBN to_TO be_VB NP-hard_JJ under_IN fairly_RB general_JJ assumptions_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, so_IN the_DT application_NN of_IN heuristic_NN search_NN algorithms_NNS is_VBZ appropriate_JJ ._.
+A_DT Bayesian_JJ score_NN is_VBZ derived_VBN in_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- for_IN a_DT network_NN structure_NN containing_VBG decision_NN graphs_NNS ._.
+A_DT greedy_JJ search_NN algorithm_NN is_VBZ then_RB used_VBN to_TO sea_NN

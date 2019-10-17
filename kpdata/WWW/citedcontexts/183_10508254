@@ -1,0 +1,4 @@
+echanism_NN is_VBZ needed_VBN to_TO keep_VB track_NN of_IN a_DT trader_NN 's_POS reputation_NN ,_, considering_VBG its_PRP$ behavior_NN in_IN the_DT past_NN ,_, such_JJ as_IN cheating_NN ,_, freeriding_NN ,_, or_CC running_VBG malicious_JJ attacks_NNS ._.
+There_EX are_VBP trust_NN mechanisms_NNS like_IN EigenTrust_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: or_CC NICE_JJ -LRB-_-LRB- 12_CD -RRB-_-RRB- which_WDT are_VBP able_JJ to_TO aggregate_JJ such_JJ information_NN in_IN an_DT efficient_JJ way_NN ._.
+The_DT trust_NN metric_NN is_VBZ needed_VBN to_TO be_VB able_JJ to_TO exclude_VB misbehaving_VBG traders_NNS from_IN the_DT system_NN ._.
+For_IN a_DT P2P-based_JJ solution_NN it_PRP is_VBZ add_VB

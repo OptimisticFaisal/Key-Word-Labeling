@@ -1,0 +1,4 @@
+be_VB interpreted_VBN as_IN prediction_NN strength_NN ._.
+It_PRP has_VBZ been_VBN shown_VBN that_IN these_DT scores_NNS could_MD be_VB successfully_RB calibrated_VBN to_TO posterior_JJ class_NN probability_NN in_IN case_NN of_IN support_NN vector_NN machine_NN -LRB-_-LRB- SVM_NN -RRB-_-RRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC naive_JJ Bayes_NNS =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_JJ -_: classifiers_NNS ._.
+The_DT results_NNS indicate_VBP that_IN the_DT output_NN from_IN such_JJ classifiers_NNS can_MD be_VB interpreted_VBN as_IN a_DT monotonically_RB increasing_VBG function_NN of_IN the_DT posterior_JJ class_NN probabilities_NNS ._.
+It_PRP follows_VBZ that_IN h_NN -LRB-_-LRB- x_NN -RRB-_-RRB- \/_: g_NN -LRB-_-LRB- x_NN -RRB-_-RRB- can_MD b_SYM

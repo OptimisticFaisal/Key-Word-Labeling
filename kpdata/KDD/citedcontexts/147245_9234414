@@ -1,0 +1,6 @@
+ow_NN of_IN objects_NNS or_CC a_DT fixed_VBN learning_NN rate_NN ._.
+Within_IN the_DT detect-and-retrain_JJ strategy_NN group_NN ,_, changes_NNS are_VBP detected_VBN explicitly_RB -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Ensembles_NNS of_IN classifiers_NNS for_IN changing_VBG environments_NNS have_VBP also_RB been_VBN considered_VBN =_JJ -_: =[_NN 4_CD ,_, 7_CD ,_, 9_CD ,_, 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, mostly_RB following_VBG the_DT constant-update_JJ strategy_NN ._.
+Which_WDT method_NN will_MD be_VB adequate_JJ for_IN a_DT particular_JJ problem_NN depends_VBZ on_IN the_DT types_NNS and_CC frequencies_NNS of_IN the_DT changes_NNS ._.
+These_DT are_VBP rarely_RB known_VBN in_IN advance_NN ._.
+Hence_RB ,_, t_NN

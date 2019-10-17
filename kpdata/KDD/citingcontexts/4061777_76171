@@ -1,0 +1,5 @@
+n_NN facing_VBG a_DT large_JJ taxonomy_NN ._.
+Hierarchies_NNS can_MD also_RB be_VB used_VBN to_TO assign_VB different_JJ misclassification_NN costs_NNS ._.
+Recently_RB ,_, new_JJ hierarchical_JJ classification_NN based_VBN on_IN margin_NN theory_NN and_CC kernel_NN methods_NNS are_VBP introduced_VBN =_JJ -_: =[_NN 6_CD ,_, 19_CD ,_, 3_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT concomitant_NN of_IN these_DT methods_NNS '_POS superior_JJ performance_NN is_VBZ their_PRP$ unbearable_JJ computational_JJ cost_NN for_IN training_NN ._.
+However_RB ,_, we_PRP notice_VBP that_IN all_PDT the_DT previous_JJ works_NNS paid_VBD little_JJ attention_NN to_TO the_DT quality_NN of_IN the_DT t_NN

@@ -1,0 +1,5 @@
+experiments_NNS ._.
+Then_RB ,_, we_PRP demonstrate_VBP the_DT scalability_NN of_IN the_DT three_CD algorithms_NNS ._.
+Our_PRP$ reported_VBD running_VBG times_NNS are_VBP averages_NNS from_IN multiple_JJ runs_NNS ._.
+In_IN our_PRP$ experiments_NNS ,_, we_PRP use_VBP both_CC real_JJ -LRB-_-LRB- gazelle_NN from_IN Blue_NNP Martini_NNP =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =--RRB-_NN and_CC synthetic_JJ -LRB-_-LRB- IBM_NNP Quest_NNP -LRB-_-LRB- 2_CD -RRB-_-RRB- -RRB-_-RRB- datasets_NNS ._.
+We_PRP transform_VBP these_DT deterministic_JJ datasets_NNS to_TO probabilistic_JJ form_NN in_IN a_DT way_NN similar_JJ to_TO -LRB-_-LRB- 1,4,18,12_CD -RRB-_-RRB- ;_: we_PRP assign_VBP prob-Mining_JJ Sequential_JJ Patterns_NN from_IN Probabilistic_NNP

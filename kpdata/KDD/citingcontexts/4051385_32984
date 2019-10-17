@@ -1,0 +1,4 @@
+ramework_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, however_RB ,_, is_VBZ not_RB adequate_JJ to_TO deal_VB with_IN numerical_JJ data_NNS directly_RB ._.
+Most_JJS previous_JJ approaches_NNS to_TO association_NN rule_NN mining_NN for_IN numerical_JJ attributes_NNS were_VBD based_VBN on_IN discretization_NN ,_, see_VBP for_IN example_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Discretization_NNP ,_, however_RB ,_, has_VBZ serious_JJ disadvantages_NNS ._.
+First_RB of_IN all_DT it_PRP always_RB incurs_VBZ an_DT information_NN loss_NN ,_, since_IN values_NNS falling_VBG in_IN the_DT same_JJ bucket_NN become_VBP indistinguishable_JJ and_CC small_JJ differences_NNS in_IN attri_NN

@@ -1,0 +1,4 @@
+se_FW positive_JJ rate_NN with_IN different_JJ classification_NN thresholds_NNS ,_, see_VBP figure_NN 4_CD ._.
+The_DT area_NN under_IN the_DT ROC_NN curve_NN is_VBZ equivalent_JJ to_TO the_DT probability_NN that_IN a_DT positive_JJ data_NN point_NN will_MD be_VB ranked_VBN above_IN a_DT negative_JJ point_NN =_JJ -_: =[_NN 5_CD ,_, 2_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Figure_NNP 5_CD :_: ROC_NN Curve_NN of_IN Boosted_JJ Naive_JJ Bayes_NNS compared_VBN to_TO it_PRP MILBoost_NN version_NN for_IN sensitive_JJ content_NN detection_NN ._.
+The_DT corresponding_JJ curves_NNS using_VBG decision_NN trees_NNS shows_VBZ similar_JJ performance_NN Table_NNP 1_CD shows_VBZ the_DT

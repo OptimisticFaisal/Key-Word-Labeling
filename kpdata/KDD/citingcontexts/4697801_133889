@@ -1,0 +1,4 @@
+from_IN statistics_NNS fit_VBP into_IN this_DT framework_NN ._.
+However_RB ,_, there_EX has_VBZ been_VBN little_JJ attention_NN to_TO the_DT problem_NN of_IN extending_VBG such_JJ tests_NNS to_TO multidimensional_JJ data_NNS ._.
+Methods_NNS such_JJ as_IN outlier_NN detection_NN apply_VB to_TO such_JJ data_NN =_JJ -_: =[_NN 6_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC they_PRP do_VBP not_RB detect_VB a_DT mismatch_NN in_IN distribution_NN among_IN data_NNS sets_NNS ;_: they_PRP check_VBP for_IN single_JJ points_NNS that_WDT are_VBP not_RB in-keeping_JJ with_IN the_DT baseline_NN distribution_NN ._.
+Some_DT work_NN from_IN data_NNS mining_NN is_VBZ relevant_JJ to_TO desc_VB

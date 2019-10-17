@@ -1,0 +1,4 @@
+ns_RB ,_, and_CC EachMovie_NNP ._.
+Table_NNP 3_CD shows_VBZ the_DT normalized_VBN mean_NN absolute_JJ error_NN of_IN item-based_JJ CF_NN and_CC maximum_NN margin_NN matrix_NN factorization_NN -LRB-_-LRB- MMMF_NN -RRB-_-RRB- ,_, the_DT best_JJS algorithm_NN among_IN ten_CD tested_VBN machine_NN learning_VBG approaches_NNS in_IN =_JJ -_: =[_NN 17_CD ,_, 24_CD -RRB-_-RRB- -_: =_JJ -_: ,_, according_VBG to_TO the_DT weak_JJ and_CC strong_JJ generalization_NN tests_NNS with_IN the_DT MovieLens_NNP and_CC the_DT EachMovie_NNP data_NNS ._.
+The_DT results_NNS of_IN MMMF_NN are_VBP copied_VBN from_IN -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+More_JJR motivations_NNS and_CC details_NNS of_IN the_DT weak_JJ and_CC strong_JJ validat_NN

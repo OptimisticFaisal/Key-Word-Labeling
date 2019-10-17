@@ -1,0 +1,6 @@
+roaches_VBZ Let_NNP us_PRP briefly_RB summarize_VBP some_DT other_JJ techniques_NNS ._.
+Interested_JJ reader_NN should_MD consider_VB the_DT appropriate_JJ additional_JJ reading_NN ._.
+Horting_VBG ._.
+Horting_NNP is_VBZ a_DT graph-theoretic_JJ approach_NN to_TO collaborative_VB filtering_VBG =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP involves_VBZ building_VBG a_DT directed_JJ graph_NN in_IN which_WDT vertices_NNS represent_VBP users_NNS and_CC edges_NNS denote_VBP the_DT degree_NN of_IN similarity_NN between_IN them_PRP ._.
+If_IN we_PRP want_VBP to_TO predict_VB user_NN u_NN 's_POS rating_NN of_IN item_NN i_LS ,_, we_PRP need_VBP to_TO find_VB a_DT dir_NN

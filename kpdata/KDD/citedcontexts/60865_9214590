@@ -1,0 +1,3 @@
+ta_NN naturally_RB reflects_VBZ current_JJ users_NNS '_POS needs_NNS and_CC the_DT documents_NNS currently_RB available_JJ ._.
+Although_IN some_DT researchers_NNS have_VBP transformed_VBN usage_NN data_NNS into_IN relevance_NN judgments_NNS ,_, or_CC used_VBD it_PRP to_TO generate_VB features_NNS -LRB-_-LRB- e.g._FW =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =_JJ -_: ;_: Radlinski_NNP &_CC Joachims_NNP ,_, 2005_CD ;_: Agichtein_NNP et_FW al._FW ,_, 2006_CD -RRB-_-RRB- ,_, we_PRP go_VBP one_CD step_NN further_RBR by_IN directly_RB optimizing_VBG a_DT usage-based_JJ metric_NN ._.
+Second_RB ,_, we_PRP propose_VBP an_DT online_JJ learning_NN approach_NN for_IN learning_VBG from_IN usage_NN data_NNS ._.

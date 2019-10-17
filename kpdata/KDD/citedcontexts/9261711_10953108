@@ -1,0 +1,3 @@
+f_LS mining_NN discriminative_JJ patterns_NNS as_IN features_NNS in_IN classification_NN is_VBZ very_RB expensive_JJ ,_, several_JJ efficient_JJ algorithms_NNS have_VBP been_VBN proposed_VBN to_TO rectify_VB this_DT problem_NN ,_, such_JJ as_IN DDPMine_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, corrmine_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, and_CC gPLS_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+DDPMine_NN obtains_VBZ its_PRP$ efficiency_NN by_IN iteratively_JJ pruning_NN the_DT input_NN dataset_NN thereby_RB potentially_RB losing_VBG important_JJ information_NN ._.
+Other_JJ methods_NNS ,_, such_JJ as_IN gBoost_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, are_VBP either_CC memory_NN efficient_JJ or_CC computati_NNS

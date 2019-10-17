@@ -1,0 +1,4 @@
+nk_IN iteration_NN starts_VBZ with_IN simrank0_NN -LRB-_-LRB- u_NN ,_, v_LS -RRB-_-RRB- =_JJ 1_CD for_IN u_NN =_JJ v_LS and_CC simrank0_NN -LRB-_-LRB- u_NN ,_, v_LS -RRB-_-RRB- =_JJ 0_CD for_IN u_NN =_JJ v._CC The_DT SimRank_NN score_NN between_IN u_NN and_CC v_LS is_VBZ defined_VBN as_IN limk_FW →_FW ∞_FW simrankk_NN -LRB-_-LRB- u_NN ,_, v_LS -RRB-_-RRB- ,_, the_DT proof_NN of_IN convergence_NN can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Figure_NN 4_CD plots_NNS the_DT curves_NNS of_IN PageSim_NNP and_CC SimRank_NNP ._.
+For_IN the_DT curve_NN of_IN PageSim_NNP ,_, we_PRP set_VBD r_NN =_JJ 3_CD and_CC d_NN =_JJ 0.5_CD ._.
+Across_IN all_DT T_NN ,_, the_DT average_JJ improvement_NN of_IN PageSim_NNP over_IN SimRank_NNP under_IN the_DT cosine_JJ TFIDF_NN measure_NN is_VBZ

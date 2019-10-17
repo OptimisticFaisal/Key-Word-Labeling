@@ -1,0 +1,3 @@
+the_DT embedding_NN of_IN social_JJ network_NN data_NNS in_IN latent_JJ Euclidean_JJ spaces_NNS -LRB-_-LRB- Hoff_NNP ,_, Raftery_NNP ,_, and_CC Handcock_NNP ,_, 2002_CD -RRB-_-RRB- ._.
+In_IN the_DT area_NN of_IN Web_NN graphs_NNS ,_, computer_NN scientists_NNS have_VBP proposed_VBN a_DT number_NN of_IN algorithms_NNS -LRB-_-LRB- such_JJ as_IN HITS_NN -LRB-_-LRB- =_JJ -_: =_JJ Kleinberg_NNP ,_, 1999_CD -_: =--RRB-_NN and_CC PageRank_NN -LRB-_-LRB- Brin_NNP and_CC Page_NNP ,_, 1998_CD ;_: Page_NNP et_FW al_FW ,_, 1998_CD -RRB-_-RRB- -RRB-_-RRB- for_IN automatically_RB determining_VBG the_DT ``_`` importance_NN ''_'' of_IN Web_NN pages_NNS ._.
+Virtually_RB all_DT of_IN these_DT techniques_NNS focus_VBP on_IN global_JJ measures_NNS of_IN node_NN importance_NN in_IN th_DT

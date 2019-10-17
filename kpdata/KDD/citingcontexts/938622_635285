@@ -1,0 +1,4 @@
+led_VBN interval_NN ,_, extracts_VBZ the_DT pricing_NN data_NNS ,_, and_CC stores_NNS the_DT result_NN in_IN a_DT database_NN ._.
+We_PRP built_VBD our_PRP$ flight_NN data_NNS collection_NN agent_NN using_VBG AgentBuilder_NNP 1_CD for_IN wrapping_VBG web_NN sites_NNS and_CC Theseus_NNP for_IN executing_VBG the_DT agent_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+AgentBuilder_NNP exploits_VBZ machine_NN learning_NN technology_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- that_WDT enables_VBZ the_DT system_NN to_TO automatically_RB learn_VB extraction_NN rules_NNS that_WDT reliably_RB convert_VBP information_NN presented_VBN on_IN web_NN pages_NNS into_IN XML_NN ._.
+Once_RB the_DT sys_NNS

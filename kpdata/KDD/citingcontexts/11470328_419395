@@ -1,0 +1,4 @@
+-RRB-_-RRB- ,_, they_PRP further_RB improve_VBP the_DT prediction_NN quality_NN ._.
+The_DT graph_NN features_NNS presented_VBN in_IN Section_NN 6_CD are_VBP inspired_VBN by_IN Liben-Nowell_NNP and_CC Kleinberg_NNP 's_POS work_NN but_CC they_PRP are_VBP adapted_VBN to_TO probabilistic_JJ graphs_NNS ._.
+Taskar_NNP et_FW al._FW =_SYM -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: apply_VB link_NN prediction_NN to_TO a_DT social_JJ network_NN of_IN universities_NNS ._.
+They_PRP rely_VBP on_IN machine_NN learning_NN techniques_NNS and_CC use_VB personal_JJ information_NN of_IN users_NNS -LRB-_-LRB- music_NN ,_, books_NNS ,_, etc._NN -RRB-_-RRB- to_TO increase_VB the_DT accuracy_NN of_IN predictions_NNS ._.

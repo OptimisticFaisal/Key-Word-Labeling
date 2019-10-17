@@ -1,0 +1,5 @@
+d_NN ''_'' the_DT last_JJ three_CD of_IN these_DT learners_NNS ,_, and_CC we_PRP discuss_VBP each_DT of_IN these_DT methods_NNS in_IN the_DT following_JJ sections_NNS ._.
+4.1_CD Instance-based_JJ Learner_NNP One_CD of_IN the_DT simplest_JJS learning_NN methods_NNS is_VBZ the_DT instance-based_JJ -LRB-_-LRB- ib_NN -RRB-_-RRB- learner_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Its_PRP$ concept_NN description_NN is_VBZ a_DT collection_NN of_IN training_NN examples_NNS or_CC instances_NNS ._.
+Learning_NNP ,_, therefore_RB ,_, is_VBZ the_DT addition_NN of_IN new_JJ examples_NNS to_TO the_DT collection_NN ._.
+To_TO classify_VB an_DT unknown_JJ instance_NN ,_, the_DT performance_NN el_NN

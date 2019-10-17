@@ -1,0 +1,5 @@
+ue_IN they_PRP represent_VBP ,_, marketing_NN uses_VBZ the_DT Lifetime_NNP Value_NNP -LRB-_-LRB- LTV_NNP -RRB-_-RRB- indicator_NN that_WDT gives_VBZ an_DT economic_JJ estimation_NN of_IN the_DT total_JJ value_NN to_TO be_VB gained_VBN while_IN the_DT customer_NN is_VBZ still_RB active_JJ ._.
+This_DT indicator_NN is_VBZ defined_VBN in_IN =_JJ -_: =[_NN 42_CD -RRB-_-RRB- -_: =_SYM -_: by_IN +_CC ∞_NN :_: LTV_NNP =_JJ ∫_NN S_NN -LRB-_-LRB- -RRB-_-RRB- -LRB-_-LRB- -RRB-_-RRB- t_NN v_LS t_NN D_NN -LRB-_-LRB- -RRB-_-RRB- t_NN dt_NN where_WRB the_DT three_CD factors_NNS are_VBP :_: 0_CD 1_CD ._.
+The_DT customer_NN 's_POS value_NN over_IN time_NN v_LS -LRB-_-LRB- -RRB-_-RRB- t_NN for_IN t_NN ≥_NN 0_CD ,_, where_WRB t_NN is_VBZ time_NN and_CC t_NN =_JJ 0_CD is_VBZ the_DT present_JJ ._.
+2_CD ._.
+The_DT length_NN of_IN service_NN -LRB-_-LRB- LOS_NNP -RRB-_-RRB- mode_NN

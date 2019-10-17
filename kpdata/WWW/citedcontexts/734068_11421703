@@ -1,0 +1,3 @@
+to_TO accelerate_VB the_DT computations_NNS ._.
+Langville_NNP and_CC Meyer_NNP proposed_VBD -LRB-_-LRB- 12_CD -RRB-_-RRB- some_DT reordering_NN of_IN the_DT algorithm_NN steps_NNS that_WDT should_MD increase_VB the_DT speed_NN in_IN the_DT calculation_NN of_IN the_DT ranks_NNS ._.
+Other_JJ studies_NNS ,_, such_JJ as_IN the_DT one_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: of_IN Boldi_NNP ,_, Santini_NNP and_CC Vigna_NNP at_IN the_DT University_NNP of_IN Milan_NNP ,_, studied_VBD how_WRB the_DT behavior_NN of_IN the_DT PageRank_NNP algorithm_NN changes_NNS according_VBG to_TO the_DT damping_VBG factor_NN α_NN ,_, giving_VBG also_RB a_DT demonstration_NN of_IN how_WRB the_DT k-th_FW itera_FW

@@ -1,0 +1,5 @@
+confident_JJ rules_NNS that_WDT does_VBZ not_RB contain_VB redundant_JJ information_NN ._.
+As_IN in_IN most_JJS mining_NN problems_NNS ,_, the_DT search_NN space_NN for_IN finding_VBG progressive_JJ confident_JJ rules_NNS is_VBZ enormous_JJ ._.
+Many_JJ algorithms_NNS use_VBP the_DT apriori_JJ property_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: to_TO prune_VB the_DT search_NN space_NN ._.
+The_DT apriori_JJ property_NN states_NNS that_IN if_IN a_DT pattern_NN satisfies_VBZ the_DT mining_NN requirement_NN ,_, so_RB do_VB all_DT its_PRP$ sub-patterns_NNS ._.
+However_RB ,_, this_DT property_NN does_VBZ not_RB hold_VB for_IN progressive_JJ confident_JJ r_NN

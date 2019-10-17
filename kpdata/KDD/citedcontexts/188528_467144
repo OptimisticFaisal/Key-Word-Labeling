@@ -1,0 +1,4 @@
+is_VBZ called_VBN Local_NNP Outlier_NNP Factor_NN LOF_NN and_CC is_VBZ assigned_VBN to_TO each_DT object_NN ._.
+The_DT computation_NN of_IN LOFs_NNS ,_, however_RB ,_, is_VBZ expensive_JJ and_CC it_PRP must_MD be_VB done_VBN for_IN each_DT object_NN ._.
+To_TO reduce_VB the_DT computational_JJ load_NN ,_, Jin_NNP et_FW al._FW in_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT new_JJ method_NN to_TO determine_VB only_RB the_DT top-n_JJ local_JJ outliers_NNS that_WDT avoids_VBZ the_DT computation_NN of_IN LOFs_NNS for_IN most_JJS objects_NNS if_IN n_NN ≪_NN N_NN ,_, where_WRB N_NN is_VBZ the_DT data_NN set_NN size_NN ._.
+Distance-based_JJ outlier_NN detection_NN has_VBZ been_VBN

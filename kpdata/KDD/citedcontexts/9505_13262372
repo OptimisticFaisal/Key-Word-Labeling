@@ -1,0 +1,4 @@
+een_NN groups_NNS of_IN words_NNS with_IN similar_JJ meanings_NNS ._.
+The_DT most_RBS straightforward_JJ way_NN to_TO obtain_VB these_DT groups_NNS is_VBZ through_IN unsupervised_JJ distributional_JJ clustering_NN within_IN each_DT language_NN separately_RB ._.
+We_PRP use_VBP co-clustering_JJ -LRB-_-LRB- =_JJ -_: =_JJ Dhillon_NNP et_FW al._FW ,_, 2003_CD -_: =--RRB-_CD to_TO simultaneously_RB obtain_VB groups_NNS of_IN terms_NNS and_CC contexts_NNS ,_, with_IN the_DT same_JJ number_NN of_IN term_NN clusters_NNS in_IN each_DT language_NN and_CC the_DT same_JJ number_NN of_IN context_NN clusters_NNS in_IN each_DT language_NN ._.
+This_DT way_NN ,_, the_DT cluster-level_JJ co_NN

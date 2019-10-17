@@ -1,0 +1,4 @@
+objects_NNS may_MD not_RB have_VB attributes_NNS that_WDT indicate_VBP such_JJ information_NN ._.
+But_CC the_DT links_NNS between_IN different_JJ types_NNS of_IN objects_NNS can_MD indicate_VB the_DT relationships_NNS between_IN objects_NNS ._.
+This_DT problem_NN can_MD be_VB solved_VBN by_IN SimRank_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN which_WDT the_DT similarity_NN between_IN two_CD objects_NNS is_VBZ recursively_RB defined_VBN as_IN the_DT average_JJ similarity_NN between_IN objects_NNS linked_VBN with_IN them_PRP ._.
+For_IN example_NN ,_, the_DT similarity_NN between_IN two_CD authors_NNS is_VBZ the_DT average_JJ similari_NN

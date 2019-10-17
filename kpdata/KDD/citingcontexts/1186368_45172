@@ -1,0 +1,6 @@
+cations_NNS of_IN the_DT GPlag_NN approach_NN to_TO software_NN industry_NN ._.
+Finally_RB ,_, Section_NN 8_CD concludes_VBZ this_DT study_NN ._.
+2_CD ._.
+BACKGROUND_NN A_NN program_NN dependence_NN graph_NN -LRB-_-LRB- PDG_NN -RRB-_-RRB- is_VBZ a_DT graph_NN representation_NN of_IN the_DT source_NN code_NN of_IN a_DT procedure_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Basic_JJ statements_NNS ,_, like_IN variable_JJ declarations_NNS ,_, assignments_NNS ,_, and_CC procedure_NN calls_NNS ,_, are_VBP represented_VBN by_IN program_NN vertices_NNS in_IN PDGs_NNS ._.
+Each_DT vertex_NN has_VBZ one_CD and_CC only_RB one_CD type_NN ,_, and_CC several_JJ important_JJ types_NNS are_VBP li_FW

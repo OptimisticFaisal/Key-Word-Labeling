@@ -1,0 +1,5 @@
+cal_JJ and_CC global_JJ links_NNS ._.
+Recently_RB ,_, Apostolico_NN and_CC Drovandi_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- introduced_VBD a_DT BFS-based_JJ method_NN ._.
+Their_PRP$ approach_NN also_RB encodes_VBZ the_DT gaps_NNS between_IN links_NNS ,_, but_CC uses_VBZ a_DT more_RBR general_JJ setting_NN ._.
+Buehrer_NN and_CC Chellapilla_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: used_VBD a_DT data_NN mining_NN approach_NN to_TO tackle_VB the_DT problem_NN of_IN compressing_VBG Web_NN graphs_NNS ._.
+Using_VBG frequent_JJ item-set_JJ mining_NN techniques_NNS they_PRP mined_VBD the_DT complete_JJ bipartite_JJ subgraphs_NNS and_CC replaced_VBD the_DT edges_NNS of_IN those_DT subg_NN

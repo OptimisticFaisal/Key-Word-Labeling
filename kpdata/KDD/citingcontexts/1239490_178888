@@ -1,0 +1,5 @@
+ase_NN throughput_NN as_RB well_RB ._.
+We_PRP have_VBP experimented_VBN with_IN the_DT idea_NN of_IN using_VBG the_DT weight_NN updating_VBG rule_NN as_IN a_DT way_NN of_IN reusing_VBG old_JJ classifiers_NNS ._.
+The_DT same_JJ method_NN can_MD also_RB be_VB used_VBN for_IN ``_`` foreign_JJ knowledge_NN import_NN ''_'' ._.
+Chan_NNP =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: used_VBN meta-learning_JJ to_TO import_VB classifiers_NNS from_IN foreign_JJ sites_NNS to_TO improve_VB accuracy_NN on_IN the_DT local_JJ site_NN ._.
+The_DT on-line_JJ AdaBoost_NNP algorithm_NN can_MD be_VB used_VBN in_IN this_DT situation_NN ,_, where_WRB the_DT imported_VBN hypotheses_NNS can_MD be_VB t_NN

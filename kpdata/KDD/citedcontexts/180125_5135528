@@ -1,0 +1,4 @@
+a_DT signature_NN of_IN fraud_NN ._.
+The_DT operations_NNS of_IN retrieving_VBG ,_, updating_VBG ,_, scoring_VBG and_CC storing_VBG signatures_NNS computed_VBN from_IN massive_JJ streams_NNS of_IN data_NNS have_VBP been_VBN given_VBN efficient_JJ expressions_NNS in_IN the_DT programming_NN language_NN of_IN =_JJ -_: =_JJ -LRB-_-LRB- Cortes00_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT ideas_NNS can_MD be_VB adapted_VBN for_IN sensor_NN networks_NNS to_TO provide_VB small_JJ signatures_NNS of_IN both_CC the_DT sensed_VBN data_NNS as_RB well_RB as_IN variables_NNS relating_VBG to_TO the_DT mechanics_NNS of_IN its_PRP$ collection_NN and_CC processing_NN ._.
+The_DT resulting_VBG meth_NN

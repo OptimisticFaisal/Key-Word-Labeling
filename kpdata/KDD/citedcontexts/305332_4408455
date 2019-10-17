@@ -1,0 +1,4 @@
+ficient_JJ association-rule_JJ mining_NN ._.
+1.1_CD ._.
+Motivation_NN The_DT issue_NN of_IN domain_NN 's_POS cardinality_NN ,_, mainly_RB motivated_VBN by_IN biological_JJ applications_NNS ,_, has_VBZ been_VBN considered_VBN recently_RB for_IN the_DT problem_NN of_IN mining_NN closed_VBD patterns_NNS =_JJ -_: =[_NN 5,6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT introduced_VBD the_DT concept_NN of_IN row_NN enumeration_NN ._.
+Nevertheless_RB ,_, to_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN ,_, the_DT problem_NN of_IN mining_NN -LRB-_-LRB- regular_JJ -RRB-_-RRB- association_NN rules_NNS from_IN databases_NNS having_VBG both_CC a_DT very_RB large_JJ number_NN of_IN items_NNS

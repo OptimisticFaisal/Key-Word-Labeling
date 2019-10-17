@@ -1,0 +1,4 @@
+t_NN belong_VBP to_TO the_DT same_JJ real-world_JJ entity_NN ._.
+Entity_NN retrieval_NN is_VBZ related_JJ to_TO the_DT entity_NN matching_NN ,_, a.k.a._FW tuple_FW matching_NN ,_, problem_NN ,_, which_WDT has_VBZ been_VBN studied_VBN extensively_RB in_IN the_DT database_NN and_CC AI_NN communities_NNS -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 36_CD ,_, 8_CD ,_, 24_CD ,_, 39_CD ,_, 5_CD ,_, 23_CD ,_, 4_CD ,_, 33_CD ,_, 18_CD ,_, 20_CD ,_, 16_CD ,_, 29_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+But_CC the_DT two_CD problems_NNS differ_VBP in_IN important_JJ aspects_NNS ._.
+Entity_NN matching_NN decides_VBZ if_IN two_CD given_VBN tuples_NNS refer_VBP to_TO the_DT same_JJ real-world_JJ entity_NN ,_, whereas_IN entity_NN retrieval_NN retrieves_VBZ all_DT tuples_NNS -LRB-_-LRB- or_CC data_NNS fragments_NNS i_LS

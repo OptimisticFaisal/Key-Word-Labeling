@@ -1,0 +1,5 @@
+versions_NNS of_IN the_DT Adult_NN dataset_NN ._.
+Reported_VBN results_NNS on_IN the_DT SOR_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, SMO_NN -LRB-_-LRB- 31_CD -RRB-_-RRB- and_CC SVM_NN agent_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- are_VBP from_IN -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+F_NN -LRB-_-LRB- esults_NNS for_IN LSVM_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- resuks_NNS were_VBD computed_VBN here_RB using_VBG ``_`` 1ocopl_NN ''_'' ,_, whereas_IN SSVM_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- =_JJ -_: =_JJ and_CC F_NN -LRB-_-LRB- LP_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP from_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+The_DT SMO_NN experiments_NNS were_VBD run_VBN on_IN a_DT 266_CD MHz_NN Pentium_NN II_CD processor_NN under_IN Windows_NNP NT_NNP 4_CD using_VBG Microsoft_NNP 's_POS Visual_JJ C_NN +_CC +_CC 5.0_CD compiler_NN ._.
+The_DT SOl_FW :[_FW experiments_NNS were_VBD run_VBN on_IN a_DT 200_CD MHz_NN Pentium_FW Pro_FW wit_NN

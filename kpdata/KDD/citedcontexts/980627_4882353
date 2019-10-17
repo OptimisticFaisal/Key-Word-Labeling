@@ -1,0 +1,5 @@
+known_JJ workflow_NN model_NN ,_, through_IN some_DT of_IN the_DT logs_NNS -LRB-_-LRB- with_IN added_VBN proprieties_NNS -RRB-_-RRB- generated_VBN by_IN this_DT model_NN ,_, mine_VB back_RP the_DT original_JJ model_NN ._.
+In_IN addition_NN ,_, a_DT probabilistic_JJ workflow_NN mining_NN algorithm_NN is_VBZ presented_VBN in_IN -LRB-_-LRB- =_JJ -_: =_JJ Silva_NNP et_FW al._FW 2005_CD -_: =-]_CD ._.
+The_DT algorithm_NN learns_VBZ a_DT workflow_NN graph_NN based_VBN on_IN a_DT probability_NN model_NN used_VBN to_TO define_VB a_DT sequential_JJ order_NN between_IN two_CD tasks_NNS ._.
+A_DT closer_RB related_JJ example_NN is_VBZ the_DT genetic_JJ mining_NN -LRB-_-LRB- de_FW Medeiros_FW et_FW al._FW 2006_CD -RRB-_-RRB- ._.
+Gen_NN

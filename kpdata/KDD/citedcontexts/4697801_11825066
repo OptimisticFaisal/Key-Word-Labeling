@@ -1,0 +1,5 @@
+sketches_NNS based_VBN techniques_NNS can_MD be_VB used_VBN ._.
+Another_DT widely_RB used_VBN approach_NN is_VBZ non-parametric_JJ change_NN detection_NN ._.
+It_PRP has_VBZ few_JJ parameters_NNS to_TO set_VB ,_, but_CC must_MD specify_VB when_WRB to_TO call_VB a_DT change_NN significant_JJ as_IN did_VBD in_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT approach_NN proposed_VBN in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- detects_VBZ changes_NNS by_IN analyzing_VBG the_DT trend_NN of_IN data_NNS ._.
+Data_NN density_NN estimated_VBN by_IN Kernel_NNP density_NN estimation_NN -LRB-_-LRB- KDE_NN -RRB-_-RRB- and_CC changes_NNS of_IN data_NNS density_NN estimated_VBN by_IN Velocity_NN density_NN estim_NN

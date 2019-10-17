@@ -1,0 +1,5 @@
+s_NN complete_JJ -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+However_RB ,_, server_NN side_NN data_NNS is_VBZ the_DT most_RBS common_JJ source_NN of_IN data_NNS for_IN web_NN mining_NN ,_, as_IN it_PRP is_VBZ easy_JJ to_TO collect_VB ._.
+Unfortunately_RB ,_, raw_JJ server_NN side_NN data_NNS contains_VBZ much_JJ noise_NN and_CC is_VBZ usually_RB incomplete_JJ =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Therefore_RB ,_, research_NN has_VBZ focused_VBN on_IN pre-processing_JJ server_NN side_NN data_NNS to_TO improve_VB it_PRP 's_POS quality_NN ._.
+The_DT pre-processing_NN is_VBZ an_DT essential_JJ step_NN but_CC one_CD that_WDT consumes_VBZ a_DT large_JJ proportion_NN of_IN the_DT processing_NN time_NN in_IN

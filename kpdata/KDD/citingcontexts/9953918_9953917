@@ -1,0 +1,4 @@
+orithms_NNS of_IN fitting_NN the_DT Poisson_NNP regression_NN model_NN using_VBG Hadoop_NNP MapReduce_NNP framework_NN ._.
+Our_PRP$ focus_NN ,_, however_RB ,_, is_VBZ to_TO elaborate_VB on_IN various_JJ innovations_NNS in_IN addressing_VBG practical_JJ challenges_NNS in_IN large-scale_JJ learning_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4.1_CD Data_NNP Reduction_NNP and_CC Information_NNP Loss_NN Most_RBS practical_JJ learning_NN algorithms_NNS with_IN web-scale_JJ data_NNS are_VBP IO-bound_JJ and_CC particularly_RB scan-bound_JJ ._.
+In_IN the_DT context_NN of_IN BT_NNP ,_, one_CD needs_VBZ to_TO preprocess_VB 20-30_CD terabytes_NNS

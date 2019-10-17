@@ -1,0 +1,5 @@
+largest_JJS number_NN of_IN uncolored_JJ adjacent_JJ vertices_NNS ._.
+DSATUR_NNP has_VBZ a_DT cubic_JJ runtime_NN complexity_NN ._.
+In_IN the_DT past_JJ few_JJ decades_NNS ,_, numerous_JJ rule_NN learners_NNS have_VBP been_VBN developed_VBN ,_, such_JJ as_IN the_DT famous_JJ AQ_NN family_NN ,_, CN2_NN and_CC RIPPER_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS of_IN them_PRP follow_VBP a_DT separate-and-conquer_JJ approach_NN ,_, which_WDT originated_VBD from_IN AQ_NNP and_CC still_RB enjoys_VBZ popularity_NN ._.
+The_DT approach_NN searches_VBZ for_IN a_DT rule_NN that_WDT covers_VBZ a_DT part_NN of_IN the_DT given_JJ -LRB-_-LRB- positive_JJ -RRB-_-RRB- examples_NNS ,_, remov_NN

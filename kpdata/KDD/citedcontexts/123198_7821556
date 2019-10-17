@@ -1,0 +1,3 @@
+l_NN concepts_NNS from_IN a_DT protein-related_JJ corpus_NN -LRB-_-LRB- 33_CD -RRB-_-RRB- ._.
+Depending_VBG on_IN the_DT addressed_VBN generative_NN process_NN ,_, the_DT LDA_NNP framework_NN has_VBZ been_VBN extended_VBN e._FW g._FW to_TO model_VB the_DT dependencies_NNS between_IN authors_NNS ,_, topics_NNS and_CC documents_NNS =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_JJ -_: or_CC the_DT dependencies_NNS between_IN author_NN and_CC recipients_NNS -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+Further_JJ approaches_NNS include_VBP the_DT modeling_NN of_IN images_NNS and_CC their_PRP$ corresponding_JJ captions_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- as_RB well_RB as_IN the_DT modeling_NN of_IN dependencies_NNS between_IN topics_NNS a_DT

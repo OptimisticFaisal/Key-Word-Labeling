@@ -1,0 +1,5 @@
+ty_NN estimates_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, the_DT proposed_VBN MDL-based_JJ calibration_NN mechanism_NN provides_VBZ higher_JJR calibration_NN degrees_NNS than_IN Curtailment_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- -LRB-_-LRB- for_IN DTs_NNS -RRB-_-RRB- ,_, simple_JJ binning_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- -LRB-_-LRB- for_IN NB_NN -RRB-_-RRB- ,_, and_CC Isotonic_JJ Regression_NN =_JJ -_: =[_NN 30,19_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- for_IN LAC_NN -RRB-_-RRB- ._.
+5.1.2_NN ._.
+Results_NNS We_PRP start_VBP our_PRP$ analysis_NN by_IN evaluating_VBG each_DT classifier_NN in_IN terms_NNS of_IN its_PRP$ ability_NN for_IN estimating_VBG the_DT actual_JJ accuracy_NN ._.
+Fig._NN 5_CD shows_VBZ the_DT actual_JJ accuracy_NN and_CC the_DT accuracy_NN estimates_VBZ f_SYM

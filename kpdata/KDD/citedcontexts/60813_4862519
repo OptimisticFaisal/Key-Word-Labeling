@@ -1,0 +1,3 @@
+solving_VBG the_DT constrained_VBN version_NN of_IN the_DT corresponding_JJ normalized_VBN cut_NN problem_NN ,_, with_IN smoothness_NN of_IN cluster_NN labels_NNS explicitly_RB incorporated_VBN in_IN the_DT formulation_NN -LRB-_-LRB- 279_CD -RRB-_-RRB- ._.
+Hidden_NNP Markov_NNP random_JJ field_NN was_VBD used_VBN in_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: for_IN k-means_NN clustering_NN with_IN constraints_NNS ._.
+Constraints_NNS have_VBP also_RB been_VBN used_VBN for_IN metric-learning_NN -LRB-_-LRB- 274_CD -RRB-_-RRB- ;_: in_IN fact_NN ,_, the_DT problems_NNS of_IN metric-learning_NN and_CC k-means_NN clustering_NN with_IN constraints_NNS were_VBD considered_VBN si_IN

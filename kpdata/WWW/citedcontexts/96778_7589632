@@ -1,0 +1,4 @@
+U._NNP A_NNP ranked_VBD list_NN r_NN of_IN items_NNS i1_NN ..._: in_IN drawn_VBN from_IN a_DT universe_NN U_NN of_IN items_NNS is_VBZ an_DT ordered_VBN subset_NN S_NNP ⊆_NNP U_NNP with_IN each_DT i_FW ∈_FW S_NN ,_, such_JJ that_IN r_NN =_JJ -LRB-_-LRB- i1_FW ≥_FW i2_FW ≥_FW ..._: ≥_FW in_FW -RRB-_-RRB- ._.
+-LRB-_-LRB- Here_RB ,_, we_PRP draw_VBP heavily_RB on_IN the_DT notation_NN of_IN of_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._. -RRB-_-RRB-
+For_IN each_DT item_NN i_FW ∈_FW S_NN ,_, r_NN -LRB-_-LRB- i_LS -RRB-_-RRB- shows_VBZ the_DT ranking_NN of_IN item_NN i_FW in_IN the_DT ranked_VBN list_NN r._NN Note_VBP that_IN the_DT optimal_JJ ranking_NN is_VBZ 1_CD ,_, rankings_NNS are_VBP always_RB positive_JJ ,_, and_CC higher_JJR rank_NN shows_VBZ lower_JJR preference_NN in_IN the_DT list_NN ._.
+The_DT

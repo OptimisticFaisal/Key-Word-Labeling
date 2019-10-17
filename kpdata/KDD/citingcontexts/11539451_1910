@@ -1,0 +1,5 @@
+\/_: 2_CD ,_, 1_CD -RCB-_-RRB- ._.
+Please_VB note_NN that_IN the_DT induction_NN in_IN the_DT proof_NN of_IN Lemma_NN 1_CD also_RB gives_VBZ an_DT algorithm_NN to_TO find_VB an_DT optimal_JJ MP1_NN linearization_NN of_IN a_DT graph_NN G._NNP Since_IN the_DT complexity_NN of_IN finding_VBG an_DT Eulerian_JJ path_NN is_VBZ O_NN -LRB-_-LRB- |_NN E_NN -LRB-_-LRB- G_NN -RRB-_-RRB- |_NN -RRB-_-RRB- =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, finding_VBG an_DT optimal_JJ MP1_NN linearization_NN of_IN a_DT graph_NN G_NN is_VBZ also_RB of_IN the_DT same_JJ complexity_NN ._.
+Example_NN 6_CD ._.
+In_IN Figure_NNP 2_CD ,_, ¯_NN G2_NN has_VBZ 6_CD vertices_NNS of_IN odd_JJ degrees_NNS ,_, namely_RB v1_NN ,_, v2_NN ,_, v4_NN ,_, v5_NN ,_, v7_NN and_CC v8_NN ._.
+Therefore_RB ,_, the_DT lower_JJR b_NN

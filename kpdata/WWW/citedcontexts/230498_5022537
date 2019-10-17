@@ -1,0 +1,4 @@
+arning_VBG approaches_NNS with_IN common_JJ text_NN features_NNS to_TO classify_VB movie_NN reviews_NNS from_IN IMDB_NNP ._.
+In_IN 2003_CD ,_, Dave_NNP et_NNP al_NNP designed_VBD a_DT classifier_NN based_VBN on_IN information_NN retrieval_NN techniques_NNS for_IN feature_NN extraction_NN and_CC scoring_VBG =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN 2004_CD ,_, Mullen_NNP and_CC Collier_NNP integrated_VBD PMI_NNP values_NNS ,_, Osgood_NNP semantic_JJ factors_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC some_DT syntactic_JJ relations_NNS into_IN the_DT features_NNS of_IN SVM_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Pang_NNP and_CC Lee_NNP proposed_VBD another_DT machine_NN learning_NN method_NN based_VBN

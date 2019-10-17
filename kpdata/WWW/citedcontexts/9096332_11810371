@@ -1,0 +1,6 @@
+res_NNS such_JJ as_IN ease_NN of_IN use_NN and_CC high_JJ fault-tolerance_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, and_CC it_PRP has_VBZ been_VBN widely_RB adopted_VBN in_IN the_DT industry_NN ._.
+The_DT technical_JJ contribution_NN in_IN this_DT demo_NN is_VBZ the_DT non-trivial_JJ generalization_NN of_IN our_PRP$ PPJoin_NN algorithm_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: into_IN the_DT MapReduce_NNP framework_NN ._.
+2_CD ._.
+SYSTEM_NNP OVERVIEW_NNP In_IN this_DT section_NN ,_, we_PRP describe_VBP the_DT proposed_VBN system_NN MapDupReducer_NNP ._.
+First_RB ,_, we_PRP give_VBP the_DT architecture_NN of_IN MapDupReducer_NNP ._.
+Then_RB ,_, we_PRP present_VBP the_DT technical_JJ suppo_NN

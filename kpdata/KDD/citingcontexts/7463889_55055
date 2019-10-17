@@ -1,0 +1,4 @@
+less_JJR than_IN three_CD web_NN pages_NNS ._.
+Each_DT company_NN can_MD now_RB be_VB represented_VBN as_IN a_DT document_NN in_IN a_DT fixed_JJ vocabulary_NN ,_, which_WDT we_PRP convert_VBP into_IN word_NN vectors_NNS using_VBG the_DT bag-of-words_JJ representation_NN with_IN TF-IDF_NN term_NN weighting_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO examine_VB relevant_JJ terms_NNS ,_, we_PRP rank-ordered_VBD the_DT 20,687_CD unique_JJ terms_NNS from_IN the_DT Rational_JJ data_NNS set_VBN using_VBG χ_NN 2_CD scores_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+The_DT 20_CD -LRB-_-LRB- stemmed_VBN -RRB-_-RRB- terms_NNS that_WDT are_VBP most_RBS discriminative_JJ in_IN identifying_VBG positive_JJ examp_NN

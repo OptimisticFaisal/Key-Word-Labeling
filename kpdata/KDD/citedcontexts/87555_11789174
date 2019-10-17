@@ -1,0 +1,5 @@
+010_CD ,_, Association_NNP for_IN the_DT Advancement_NNP of_IN Artificial_NNP Intelligence_NNP -LRB-_-LRB- www.aaai.org_NN -RRB-_-RRB- ._.
+All_DT rights_NNS reserved_VBN ._.
+quired_VBN ._.
+Consequently_RB ,_, many_JJ of_IN the_DT training_NN examples_NNS may_MD remain_VB unlabeled_JJ ._.
+Cost-sensitive_JJ learning_NN -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP 1999_CD -_: =_JJ -_: ;_: Fan_NN et_FW al._FW 1999_CD ;_: Elkan_NNP 2001_CD ;_: Ting_NNP 2002_CD ;_: Zadrozny_NNP ,_, Langford_NNP ,_, and_CC Abe_NN 2003_CD ;_: Zhou_NNP and_CC Liu_NNP 2006b_CD ;_: 2006a_CD ;_: Masnadi-Shirazi_NNP and_CC Vasconcelos_NNP 2007_CD ;_: Lozano_NNP and_CC Abe_NNP 2008_CD -RRB-_-RRB- aims_VBZ to_TO make_VB the_DT optimal_JJ decision_NN mini_NNS

@@ -1,0 +1,4 @@
+ain_FW clickstream_FW and_CC purchase_NN data_NNS of_IN a_DT legwear_NN and_CC legcare_NN web_NN retailer_NN ,_, see_VB -LRB-_-LRB- Kohavi_NNP et_FW al._FW ,_, 2000_CD -RRB-_-RRB- for_IN details_NNS ._.
+Retail_NNP contains_VBZ the_DT -LRB-_-LRB- anonymized_VBN -RRB-_-RRB- retail_JJ market_NN basket_NN data_NNS from_IN a_DT Belgian_JJ retail_JJ store_NN -LRB-_-LRB- =_JJ -_: =_JJ Brijs_FW et_FW al._FW ,_, 1999_CD -_: =--RRB-_NN ._.
+Accidents_NNS contains_VBZ -LRB-_-LRB- anonymized_VBN -RRB-_-RRB- traffic_NN accident_NN data_NNS -LRB-_-LRB- Geurts_NNP et_FW al._FW ,_, 2003_CD -RRB-_-RRB- ._.
+The_DT datasets_NNS T10I4D100K_NN and_CC T10I4D100K_NN have_VBP been_VBN generated_VBN using_VBG an_DT IBM_NNP generator_NN from_IN the_DT Almaden_NNP Quest_NNP research_NN group_NN ._.

@@ -1,0 +1,3 @@
+oad_NN is_VBZ significantly_RB reduced_VBN by_IN the_DT use_NN of_IN small_JJ subsets_NNS of_IN the_DT original_JJ data_NN sets_NNS ._.
+Our_PRP$ approach_NN to_TO obtaining_VBG a_DT -LRB-_-LRB- soft_JJ -RRB-_-RRB- assignment_NN is_VBZ essentially_RB based_VBN on_IN a_DT non-negative_JJ matrix_NN factorization_NN -LRB-_-LRB- see_VB e.g._FW =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =--RRB-_NN of_IN the_DT aggregated_JJ co-association_NN matrix_NN such_JJ that_IN one_CD obtains_VBZ estimates_NNS for_IN class-posteriors_NNS and_CC class-likelihoods_NNS ._.
+In_IN contrast_NN to_TO previous_JJ approaches_NNS that_WDT also_RB employ_VBP the_DT aggregated_JJ co-association_NN

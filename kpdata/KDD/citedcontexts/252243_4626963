@@ -1,0 +1,4 @@
+is_VBZ a_DT sequence_NN of_IN words_NNS from_IN a_DT vocabulary_NN set_NN V_NN =_JJ -LCB-_-LRB- w1_NN ,_, ..._: ,_, w_NNP |_NNP V_NNP |_NNP -RCB-_-RRB- ._.
+In_IN information_NN retrieval_NN and_CC text_NN mining_NN ,_, it_PRP is_VBZ quite_RB common_JJ to_TO use_VB a_DT word_NN distribution_NN to_TO model_NN topics_NNS ,_, subtopics_NNS ,_, or_CC themes_NNS in_IN text_NN =_JJ -_: =[_NN 3_CD ,_, 12_CD ,_, 1_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Following_VBG -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, we_PRP define_VBP a_DT theme_NN as_IN follows_VBZ :_: Definition_NN 1_CD -LRB-_-LRB- Theme_NN -RRB-_-RRB- A_DT theme_NN in_IN a_DT text_NN collection_NN C_NN is_VBZ a_DT probabilistic_JJ distribution_NN of_IN words_NNS characterizing_VBG a_DT semantically_RB coherent_JJ topic_NN or_CC subtopic_NN ._.
+F_NN

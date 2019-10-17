@@ -1,0 +1,5 @@
+es_NNS ._.
+Then_RB ,_, we_PRP specify_VBP various_JJ Web_NN Services_NNP that_WDT constitute_VBP the_DT WebMail_NNP family_NN ._.
+Finally_RB ,_, we_PRP specify_VBP various_JJ orchestrations_NNS of_IN the_DT WebMail_NNP family_NN using_VBG abbreviated_JJ BPEL_NN process_NN specifications_NNS as_IN done_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4.1_CD Message_NN Types_VBZ Message_NN types_NNS define_VBP the_DT protocol_NN used_VBN for_IN communication_NN ,_, i.e._FW ,_, service_NN interfaces_NNS are_VBP understood_VBN in_IN terms_NNS of_IN their_PRP$ input_NN and_CC output_NN messages_NNS ._.
+Here_RB ,_, we_PRP limit_VBP the_DT types_NNS of_IN transport_NN

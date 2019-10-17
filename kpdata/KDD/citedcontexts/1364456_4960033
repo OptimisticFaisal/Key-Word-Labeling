@@ -1,0 +1,4 @@
+d._VB The_DT length_NN of_IN these_DT short_JJ patterns_NNS can_MD be_VB out_IN of_IN the_DT interesting_JJ range_NN of_IN the_DT consensus_NN patterns_NNS ._.
+Similarity_NN search_NN techniques_NNS aim_VBP at_IN searching_VBG for_IN a_DT query_NN string_NN in_IN a_DT database_NN of_IN sequences_NNS ,_, e.g._FW ,_, =_JJ -_: =[_NN 1_CD ,_, 3_CD ,_, 5_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Several_JJ data_NNS structures_NNS are_VBP developed_VBN for_IN searching_VBG string_NN and_CC sequence_NN data_NNS ,_, e.g._FW ,_, suffix_NN trees_NNS ,_, e.g._FW ,_, -LRB-_-LRB- 28_CD ,_, 29_CD -RRB-_-RRB- ,_, and_CC suffix_NN arrays_NNS ,_, e.g._FW ,_, -LRB-_-LRB- 27_CD ,_, 29_CD -RRB-_-RRB- ._.
+While_IN these_DT techniques_NNS and_CC data_NNS structures_NNS are_VBP re_IN

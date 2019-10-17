@@ -1,0 +1,4 @@
+large_JJ class_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- till_IN the_DT numbers_NNS of_IN samples_NNS in_IN both_DT classes_NNS are_VBP approximately_RB equal_JJ ._.
+In_IN weighting_NN methods_NNS ,_, the_DT misclassification_NN costs_NNS of_IN the_DT two_CD classes_NNS are_VBP adjusted_VBN to_TO achieve_VB a_DT better_JJR performance_NN =_JJ -_: =[_NN 12_CD ,_, 13_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Japkowicz_NNP and_CC Stephen_NNP -LRB-_-LRB- 15_CD -RRB-_-RRB- present_VBP a_DT thorough_JJ survey_NN and_CC conducted_VBD a_DT comparative_JJ study_NN on_IN these_DT methods_NNS for_IN imbalanced_JJ data_NNS classification_NN problems_NNS ._.
+They_PRP concluded_VBD that_IN in_IN most_JJS cases_NNS they_PRP studied_VBD ,_, t_NN

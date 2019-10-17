@@ -1,0 +1,4 @@
+web_NN page\/document_NN is_VBZ frequently_RB utilized_VBN as_IN a_DT topic_NN feature_NN of_IN that_DT web_NN page\/document_NN in_IN the_DT literature_NN ._.
+A_DT web_NN page_NN topic_NN can_MD be_VB captured_VBN using_VBG the_DT TF_NN \/_: IDF_NN methodology_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- or_CC by_IN other_JJ techniques_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 39_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ goal_NN is_VBZ to_TO exploit_VB entities_NNS and_CC relationships_NNS for_IN disambiguation_NN ._.
+However_RB ,_, unlike_IN the_DT problem_NN settings_NNS of_IN many_JJ disambiguation_NN methods_NNS ,_, which_WDT work_VBP off_RP a_DT normalized_VBN database_NN ,_, e.g._FW ,_, -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 15_CD -RRB-_-RRB-

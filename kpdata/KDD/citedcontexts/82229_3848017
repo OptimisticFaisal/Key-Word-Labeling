@@ -1,0 +1,4 @@
+s_NN is_VBZ already_RB sufficient_JJ for_IN SpADe_NN to_TO have_VB better_JJR performance_NN than_IN the_DT other_JJ distance_NN measures_NNS in_IN most_JJS cases_NNS ._.
+5.3_CD ._.
+Accuracy_NN of_IN SpADe_FW 5.3.1_FW Accuracy_NN in_IN full_JJ sequence_NN matching_NN Like_IN in_IN many_JJ other_JJ studies_NNS =_JJ -_: =[_NN 10_CD ,_, 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, one_CD nearest_JJS neighbor_NN classification_NN -LRB-_-LRB- 1NN_NN -RRB-_-RRB- is_VBZ used_VBN to_TO test_VB the_DT accuracy_NN of_IN distances_NNS under_IN full_JJ sequence_NN matching_NN ._.
+In_FW 1NN_FW classification_NN ,_, for_IN each_DT sequence_NN in_IN the_DT testing_NN dataset_NN ,_, we_PRP predict_VBP its_PRP$ labe_NN

@@ -1,0 +1,4 @@
+rithms_NNS ,_, Measurement_NNP Keywords_NNPS Active_JJ inference_NN ,_, Collective_JJ classification_NN ,_, Network_NNP structure_NN indices_NNS 1_CD ._.
+INTRODUCTION_NN Collective_JJ classification_NN is_VBZ a_DT fundamental_JJ approach_NN to_TO inference_NN in_IN relational_JJ data_NN =_JJ -_: =[_NN 2_CD ,_, 16_CD ,_, 23_CD ,_, 13_CD ,_, 17_CD ,_, 8_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Traditional_JJ algorithms_NNS classify_VBP data_NNS instances_NNS individually_RB ,_, without_IN regard_NN to_TO the_DT relationships_NNS or_CC statistical_JJ dependencies_NNS that_WDT are_VBP prevalent_JJ in_IN relational_JJ data_NNS sets_NNS ._.
+In_IN contrast_NN ,_, algorithms_NNS that_WDT

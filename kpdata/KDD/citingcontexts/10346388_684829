@@ -1,0 +1,4 @@
+treats_VBZ it_PRP as_IN a_DT regular_JJ text_NN classification_NN problem_NN ._.
+The_DT use_NN of_IN non-content_JJ information_NN has_VBZ been_VBN less_RBR studied_VBN ._.
+Using_VBG the_DT sender_NN information_NN -LRB-_-LRB- i.e._FW ,_, the_DT IP_NNP address_NN sending_VBG the_DT mail_NN -RRB-_-RRB- is_VBZ first_RB studied_VBN in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT analyzes_VBZ the_DT whole_JJ SMTP_NN path_NN and_CC uses_VBZ it_PRP to_TO enhance_VB the_DT filter_NN ._.
+Personalized_VBN email_NN spam_NN filtering_VBG has_VBZ typically_RB been_VBN viewed_VBN as_IN training_VBG a_DT model_NN that_WDT fits_VBZ better_RBR individual_JJ user_NN 's_POS mail_NN distribu_NN

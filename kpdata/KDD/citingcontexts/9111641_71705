@@ -1,0 +1,5 @@
+ll_NN parameters_NNS are_VBP set_VBN default_NN by_IN the_DT software_NN ._.
+The_DT Spectral_JJ Classifier_NN -LRB-_-LRB- SC_NN -RRB-_-RRB- is_VBZ implemented_VBN according_VBG to_TO -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+CoCC_NN uses_VBZ the_DT same_JJ initialization_NN and_CC parameters_NNS in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+KDE_NNP is_VBZ implemented_VBN according_VBG to_TO =_JJ -_: =[_NN 29_CD ,_, 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4.4_CD Experimental_JJ Results_NNS 4.4.1_CD Performance_NNP By_IN comparing_VBG with_IN the_DT traditional_JJ supervised_JJ classifier_NN ,_, it_PRP is_VBZ observed_VBN that_IN the_DT cross-domain_JJ data_NNS present_VBP much_JJ difficulty_NN in_IN classification_NN ,_, where_WRB SVM_NN -LRB-_-LRB- tr_NN

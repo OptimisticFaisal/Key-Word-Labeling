@@ -1,0 +1,4 @@
+tered_VBN separately_RB ,_, and_CC the_DT average_NN of_IN their_PRP$ results_NNS is_VBZ viewed_VBN as_IN the_DT clustering_NN result_NN for_IN the_DT whole_JJ dataset_NN ._.
+4.3_CD Evaluation_NN Metrics_NNS Cluster_NN quality_NN is_VBZ evaluated_VBN by_IN three_CD metrics_NNS ,_, purity_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, F-score_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC normalized_VBD mutual_JJ information_NN -LRB-_-LRB- NMI_NN -RRB-_-RRB- -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Purity_NN assumes_VBZ that_IN all_DT samples_NNS of_IN a_DT cluster_NN are_VBP predicted_VBN to_TO be_VB members_NNS of_IN the_DT actual_JJ dominant_JJ class_NN for_IN that_DT cluster_NN ._.
+F-score_NN combines_VBZ the_DT information_NN

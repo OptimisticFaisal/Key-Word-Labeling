@@ -1,0 +1,6 @@
+e_LS same_JJ group_NN as_IN the_DT exemplar_NN -LRB-_-LRB- a_DT value_NN of_IN 1_CD means_VBZ immediate_JJ conversion_NN ;_: we_PRP used_VBD 0.58_CD -RRB-_-RRB- ._.
+Figure_NN 6_CD :_: Two_CD spatial_JJ subgroupsImplementation_NN ._.
+The_DT APOLO_NN system_NN is_VBZ written_VBN in_IN Java_NNP 1.6_CD ._.
+It_PRP uses_VBZ the_DT JUNG_NNP library_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: for_IN visualizing_VBG the_DT network_NN ._.
+The_DT network_NN data_NNS is_VBZ stored_VBN in_IN an_DT SQLite_NN 1_CD embedded_JJ database_NN ,_, for_IN its_PRP$ cross-platform_JJ portability_NN ._.
+One_CD of_IN our_PRP$ goals_NNS is_VBZ to_TO offer_VB APOLO_NNP as_IN a_DT sensemaking_NN tool_NN that_WDT work_VBP on_IN a_DT w_NN

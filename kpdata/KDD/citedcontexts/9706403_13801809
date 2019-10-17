@@ -1,0 +1,6 @@
+emaining_VBG ones_NNS ._.
+Testing_VBG is_VBZ done_VBN using_VBG a_DT holdout_NN data_NN with_IN 825_CD examples_NNS from_IN the_DT current_JJ concept_NN ._.
+Gradual_JJ drifts_NNS were_VBD simulated_JJ by_IN smooth_JJ transition_NN of_IN b_NN over_IN 1_CD ,_, 000_CD examples_NNS ._.
+Random_NNP RBF_NNP synthetic_JJ data_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT generator_NN can_MD create_VB data_NNS which_WDT contains_VBZ a_DT rigorous_JJ concept_NN change_NN type_NN ._.
+First_RB ,_, a_DT fixed_JJ number_NN of_IN centroinds_NNS are_VBP generated_VBN in_IN feature_NN space_NN ,_, each_DT assigned_VBD a_DT single_JJ class_NN label_NN ,_, weight_NN and_CC stand_NN

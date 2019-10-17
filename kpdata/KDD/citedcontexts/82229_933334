@@ -1,0 +1,6 @@
+ering_VBG ._.
+1_CD ._.
+INTRODUCTION_NN The_DT previous_JJ decade_NN has_VBZ seen_VBN hundreds_NNS of_IN papers_NNS on_IN time_NN series_NN similarity_NN search_NN ,_, which_WDT is_VBZ the_DT task_NN of_IN finding_VBG a_DT time_NN series_NN that_WDT is_VBZ most_RBS similar_JJ to_TO a_DT particular_JJ query_NN sequence_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT work_NN ,_, we_PRP pose_VBP the_DT new_JJ problem_NN of_IN finding_VBG the_DT sequence_NN that_WDT is_VBZ least_JJS similar_JJ to_TO all_DT other_JJ sequences_NNS ._.
+We_PRP call_VBP such_JJ sequences_NNS time_NN series_NN discords_NNS ._.
+Figure_NN 1_CD gives_VBZ a_DT visual_JJ intuition_NN of_IN a_DT time_NN s_NN

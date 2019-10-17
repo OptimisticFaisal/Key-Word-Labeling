@@ -1,0 +1,4 @@
+K_NNP −_NNP means_VBZ ITCC_NNP ECC_NNP FE_NNP 0.5_CD 0.45_CD 0.4_CD CP_NNP FC_NNP TNMF_NNP K_NNP −_NNP means_VBZ ITCC_NNP ECC_NNP FE_NNP DBLP_NNP Dataset_NNP 0.3_CD 0.2_CD 0.1_CD Accuracy_NNP 0.35_CD 0.3_CD 0_CD DBLP_NNP CSTR_NNP Artist_NNP BBS_NNP 0.25_CD Figure_NNP 3_CD :_: NMI_NN results_NNS on_IN four_CD datasets_NNS 0.2_CD Co-clustering_NN -LRB-_-LRB- ITCC_NN -RRB-_-RRB- =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC Euclidean_JJ Co-clustering_JJ algorithm_NN -LRB-_-LRB- ECC_NN -RRB-_-RRB- -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+These_DT methods_NNS do_VBP not_RB make_VB use_NN of_IN knowledge_NN in_IN the_DT word_NN space_NN ._.
+•_CD Two_CD simple_JJ methods_NNS of_IN incorporating_VBG prior_JJ knowledge_NN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Feature_NNP Ensemble_NNP -LRB-_-LRB- FE_NNP -RRB-_-RRB- :_: In_IN th_DT

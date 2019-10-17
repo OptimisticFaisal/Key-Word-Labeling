@@ -1,0 +1,3 @@
+heuristic_NN in_IN that_IN they_PRP attempt_VBP to_TO find_VB rules_NNS that_WDT are_VBP predictive_JJ ,_, but_CC make_VBP no_DT guarantees_NNS on_IN the_DT predictiveness_NN or_CC the_DT completeness_NN of_IN the_DT returned_VBN rule_NN set_NN -LRB-_-LRB- e.g._FW decision_NN tree_NN and_CC covering_VBG algorithms_NNS =_JJ -_: =[_NN 9,15_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+A_DT third_JJ class_NN of_IN rule_NN mining_NN algorithms_NNS ,_, which_WDT are_VBP the_DT subject_NN of_IN this_DT paper_NN ,_, identify_VBP only_RB the_DT most_RBS interesting_JJ ,_, or_CC optimal_JJ ,_, rules_NNS according_VBG to_TO some_DT interestingness_NN metric_NN -LRB-_-LRB- 12,18,20,24_CD -RRB-_-RRB- ._.
+Optimized_VBN

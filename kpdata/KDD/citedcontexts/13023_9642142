@@ -1,0 +1,5 @@
+similar_JJ problems_NNS ._.
+For_IN instance_NN ,_, -LRB-_-LRB- 12_CD -RRB-_-RRB- utilizes_VBZ auto_NN regression_NN models_NNS to_TO detect_VB outliers_NNS and_CC change_NN points_NNS in_IN non-stationary_JJ data_NNS ._.
+A_DT closely_RB related_JJ problem_NN is_VBZ the_DT detection_NN of_IN outliers_NNS and_CC anomalies_NNS =_JJ -_: =[_NN 8_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, Shahabi_FW et_FW al._FW introduce_VB a_DT wavelet-based_JJ approach_NN to_TO detect_VB outliers_NNS in_IN time_NN series_NN over_IN different_JJ window_NN sizes_NNS ._.
+Keogh_NNP et_FW al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- introduce_VBP a_DT technique_NN to_TO detect_VB anomalous_JJ patterns_NNS in_IN time_NN s_NN

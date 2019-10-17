@@ -1,0 +1,4 @@
+use_VB we_PRP do_VBP not_RB entirely_RB rely_VB on_IN the_DT y_NN given_VBN in_IN the_DT training_NN set_NN ,_, but_CC instead_RB find_VB the_DT y_NN that_WDT minimizes_VBZ the_DT loss_NN ._.
+We_PRP compared_VBD the_DT results_NNS of_IN our_PRP$ method_NN and_CC two_CD standard_JJ methods_NNS for_IN ranking_NN :_: ranking_JJ SVM_NN =_JJ -_: =[_NN 10_CD ,_, 8_CD -RRB-_-RRB- -_: =_JJ -_: and_CC RankBoost_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- -LRB-_-LRB- the_DT baselines_NNS for_IN OHSUMED_NN are_VBP shown_VBN in_IN -LRB-_-LRB- 13_CD -RRB-_-RRB- -RRB-_-RRB- and_CC used_VBD NDCG_NNP as_IN the_DT performance_NN criterion_NN ._.
+We_PRP report_VBP the_DT aggregate_JJ performance_NN in_IN Figure_NNP 1_CD ._.
+As_IN can_MD be_VB seen_VBN from_IN the_DT figure_NN ,_, the_DT result_NN

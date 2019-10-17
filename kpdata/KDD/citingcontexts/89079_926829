@@ -1,0 +1,5 @@
+covery_NN of_IN motifs_NNS ._.
+These_DT are_VBP referred_VBN to_TO as_IN primitive_JJ shapes_NNS in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC frequent_JJ patterns_NNS in_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+•_CD Several_JJ time_NN series_NN classification_NN algorithms_NNS work_VBP by_IN constructing_VBG typical_JJ prototypes_NNS of_IN each_DT class_NN =_JJ -_: =[_NN 22_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT prototypes_NNS may_MD be_VB considered_VBN motifs_NNS ._.
+•_CD Many_JJ time_NN series_NN anomaly\/interestingness_NN detection_NN algorithms_NNS essentially_RB consist_VBP of_IN modeling_NN normal_JJ behavior_NN with_IN a_DT set_NN of_IN typical_JJ shapes_NNS -LRB-_-LRB- which_WDT we_PRP see_VBP

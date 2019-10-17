@@ -1,0 +1,5 @@
+spond_NN to_TO an_DT upward_JJ trend_NN or_CC a_DT downward_JJ trend_NN of_IN arbitrary_JJ angles_NNS ._.
+These_DT ``_`` degenerate_JJ motifs_NNS ''_'' are_VBP unlikely_JJ to_TO be_VB of_IN interest_NN to_TO anyone_NN ,_, and_CC in_IN any_DT case_NN ,_, are_VBP trivial_JJ to_TO enumerate_VB with_IN a_DT simple_JJ algorithm_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP will_MD therefore_RB exclude_VB them_PRP from_IN further_JJ consideration_NN ._.
+This_DT can_MD easily_RB be_VB achieved_VBN at_IN the_DT feature_NN extraction_NN stage_NN ,_, when_WRB using_VBG sliding_VBG windows_NNS to_TO extract_VB the_DT subsequences_NNS ._.
+As_IN the_DT window_NN is_VBZ moved_VBN

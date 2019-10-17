@@ -1,0 +1,5 @@
+s_NN of_IN the_DT concerned_JJ class_NN ._.
+Then_RB ,_, sampling_NN methods_NNS allow_VBP over-representing_VBG the_DT minority_NN class_NN or_CC under-representing_JJ the_DT majority_NN class_NN -LRB-_-LRB- 11_CD ,_, 14_CD -RRB-_-RRB- ._.
+Some_DT wrapper_NN methods_NNS as_IN MetaCost_NNP have_VBP also_RB been_VBN proposed_VBN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP produce_VBP several_JJ instances_NNS of_IN a_DT classifier_NN through_IN bootstrap_NN ,_, re-label_VBP each_DT example_NN by_IN votes_NNS and_CC build_VB another_DT model_NN using_VBG the_DT new_JJ labels_NNS ,_, ._.
+Finally_RB ,_, the_DT methods_NNS closer_RBR to_TO the_DT one_NN proposed_VBN in_IN thi_NN

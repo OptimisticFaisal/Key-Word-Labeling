@@ -1,0 +1,4 @@
+SA_NNP anne.denton@ndsu.edu_NNP We_PRP use_VBP profile_JJ hidden_JJ Markov_NNP models_NNS -LRB-_-LRB- HMMs_NNS -RRB-_-RRB- as_IN an_DT example_NN of_IN a_DT scientific_JJ model_NN ._.
+In_IN bioinformatics_NNS ,_, profile_NN HMMs_NNS are_VBP used_VBN to_TO identify_VB the_DT presence_NN of_IN protein_NN functional_JJ domains_NNS =_JJ -_: =[_NN 11_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT output_NN of_IN each_DT HMM_NN can_MD be_VB viewed_VBN as_IN a_DT Boolean_JJ attribute_NN indicating_VBG whether_IN protein_NN domain_NN X_NN is_VBZ found_VBN or_CC not_RB ._.
+The_DT collection_NN of_IN HMM_NN predictions_NNS ,_, based_VBN on_IN a_DT set_NN of_IN known_JJ protein_NN domains_NNS ,_, is_VBZ suitab_NN

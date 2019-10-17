@@ -1,0 +1,4 @@
+parts_NNS :_: 90_CD %_NN of_IN the_DT records_NNS for_IN constructing_VBG UGPs_NNS and_CC 10_CD %_NN for_IN evaluating_VBG the_DT accuracy_NN rate_NN of_IN the_DT recommendations_NNS ._.
+3.2_CD Clustering_NNP Pousadas_NNP Transactional_NNP Data_NNP In_IN our_PRP$ work_NN ,_, we_PRP choose_VBP the_DT CLOPE_NN algorithm_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: for_IN clustering_VBG Pousadas_NNPS transactional_JJ data_NNS ._.
+CLOPE_NN is_VBZ fast_JJ ,_, scalable_JJ ,_, and_CC memory_NN saving_NN in_IN clustering_NN large_JJ ,_, sparse_JJ transactional_JJ databases_NNS with_IN high_JJ dimensions_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+CLOPE_NN groups_NNS transactional_JJ data_NNS b_NN

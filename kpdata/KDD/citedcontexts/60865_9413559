@@ -1,0 +1,4 @@
+rom_NN explicit_JJ ratings_NNS which_WDT optimize_VBP parameters_NNS towards_IN a_DT targeted_VBN NDCG_NN of_IN 1_CD ._.
+This_DT indeed_RB indicates_VBZ the_DT challenge_NN of_IN deducing_VBG relevance_NN assessments_NNS from_IN clicks_NNS ,_, which_WDT suffers_VBZ from_IN result_NN position_NN bias_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC noisy_JJ user_NN click_VBP behavior_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- ._.
+Table_NNP 11_CD shows_VBZ the_DT results_NNS of_IN using_VBG the_DT parameter_NN settings_NNS learned_VBN by_IN relying_VBG on_IN implicit_JJ user_NN feedback_NN on_IN our_PRP$ test_NN set_NN ._.
+Similarly_RB as_IN with_IN explicit_JJ learning_NN ,_, our_PRP$ s_NN

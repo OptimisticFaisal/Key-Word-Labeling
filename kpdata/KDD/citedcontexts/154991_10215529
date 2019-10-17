@@ -1,0 +1,4 @@
+o_NN cluster_NN lowfrequency_NN predicates_VBZ ._.
+In_IN our_PRP$ experiments_NNS assigning_VBG SP_NN to_TO verb-object_JJ pairs_NNS ,_, we_PRP cluster_VBP all_DT verbs_NNS that_WDT have_VBP less_JJR than_IN 250_CD positive_JJ examples_NNS ,_, using_VBG clusters_NNS generated_VBN by_IN the_DT CBC_NN algorithm_NN -LRB-_-LRB- =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =--RRB-_NN ._.
+For_IN example_NN ,_, the_DT low-frequency_JJ verbs_NNS incarcerate_VBP ,_, parole_NN ,_, and_CC court-martial_NN are_VBP all_DT mapped_VBN to_TO the_DT same_JJ partition_NN ,_, while_IN more-frequent_JJ verbs_NNS like_IN arrest_NN and_CC execute_VB each_DT have_VBP their_PRP$ own_JJ partition_NN ._.
+Ab_NN

@@ -1,0 +1,3 @@
+imum_FW entropy_FW recommendation_NN system_NN introduced_VBN in_IN this_DT paper_NN ._.
+Maximum_NNP entropy_NN model_NN is_VBZ a_DT powerful_JJ statistical_JJ model_NN which_WDT has_VBZ been_VBN widely_RB applied_VBN in_IN many_JJ domains_NNS such_JJ as_IN statistical_JJ language_NN learning_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, information_NN retrieval_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC text_NN mining_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+The_DT goal_NN of_IN a_DT maximum_NN entropy_NN model_NN is_VBZ to_TO find_VB a_DT probability_NN distribution_NN which_WDT satisfies_VBZ all_PDT the_DT constraints_NNS in_IN the_DT observed_VBN data_NNS while_IN maintaining_VBG m_NN

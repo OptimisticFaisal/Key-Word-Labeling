@@ -1,0 +1,6 @@
+search_NN for_IN documents_NNS ._.
+Zobel_NNP and_CC Mofat_NNP present_VBP no_RB less_JJR than_IN one_CD million_CD possibilities_NNS to_TO compute_VB such_JJ ranking_JJ functions_NNS -LRB-_-LRB- 47_CD -RRB-_-RRB- ._.
+Other_JJ approaches_NNS based_VBN on_IN Support_NN Vector_NNP Machine_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- have_VBP been_VBN proposed_VBN =_JJ -_: =[_NN 4_CD ,_, 15_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: to_TO discover_VB the_DT best_JJS search_NN function_NN ._.
+Furthermore_RB ,_, Veloso_NNP et_FW al._FW -LRB-_-LRB- 41_CD -RRB-_-RRB- find_VBP patterns_NNS -LRB-_-LRB- or_CC rules_NNS -RRB-_-RRB- associating_VBG document_NN features_NNS using_VBG Association_NNP Rules_NNP ._.
+Later_RB those_DT rules_NNS are_VBP used_VBN to_TO rank_VB documents_NNS ._.
+In_IN

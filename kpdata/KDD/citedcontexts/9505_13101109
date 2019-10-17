@@ -1,0 +1,4 @@
+ti-level_JJ partitioning_VBG techniques_NNS in_IN greater_JJR detail_NN in_IN §_NN 3_CD ._.
+Cross-Association_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- partitions_NNS the_DT graph_NN so_RB as_IN to_TO maximize_VB information_NN compression_NN ,_, but_CC is_VBZ limited_JJ to_TO bi-partite_JJ structures_NNS ._.
+Co-clustering_NN =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: trys_VBZ to_TO maximize_VB mutual_JJ information_NN ,_, but_CC like_IN k-means_NN ,_, requires_VBZ a_DT priori_FW information_NN on_IN the_DT number_NN of_IN clusters_NNS ._.
+More_RBR generally_RB in_IN terms_NNS of_IN clique_NN extraction_NN ,_, -LRB-_-LRB- 15_CD -RRB-_-RRB- trys_VBZ to_TO extract_VB quasi-cliques_NNS from_IN g_NN

@@ -1,0 +1,4 @@
+l_NN classification_NN problem_NN ._.
+Still_RB ,_, in_IN order_NN to_TO effectively_RB use_VB machine_NN learning_NN algorithms_NNS in_IN this_DT scenario_NN ,_, the_DT correct_JJ treatment_NN of_IN censored_VBN data_NNS is_VBZ crucial_JJ ._.
+Simply_RB omitting_VBG the_DT censored_VBN observations_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: or_CC treating_VBG them_PRP as_IN non-recurring_JJ samples_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- both_CC obviously_RB bias_NN the_DT resulting_VBG model_NN and_CC should_MD be_VB avoided_VBN ._.
+Zupan_NNP et_FW al._FW -LRB-_-LRB- 20_CD -RRB-_-RRB- used_VBN Kaplan-Meier_NNP estimates_NNS of_IN event_NN probability_NN as_IN target_NN values_NNS durin_VBP

@@ -1,0 +1,4 @@
+centroids_NNS of_IN clusters_NNS and_CC including_VBG affiliated_JJ papers_NNS ._.
+Traditionally_RB ,_, relational_JJ clustering_NN methods_NNS often_RB use_VBP both_DT link_NN analysis_NN and_CC graph_NN partition_NN to_TO locate_VB communities_NNS -LRB-_-LRB- 5_CD ,_, 8_CD ,_, 9_CD ,_, 10_CD -RRB-_-RRB- ._.
+Random_NNP walks_VBZ =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, for_IN instance_NN ,_, are_VBP utilized_VBN on_IN a_DT weighted_JJ directed_JJ graph_NN to_TO update_VB the_DT weights_NNS of_IN inter-cluster_JJ edges_NNS and_CC intracluster_NN edges_NNS in_IN order_NN to_TO distinguish_VB clusters_NNS ._.
+Relation-based_JJ clustering_NN methods_NNS can_MD ef_VB

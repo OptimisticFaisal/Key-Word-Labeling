@@ -1,0 +1,3 @@
+paper_NN ._.
+Descriptions_NNS number_NN of_IN vertices_NNS in_IN G_NN number_NN of_IN edges_NNS in_IN G_NN number_NN of_IN seeds_NNS to_TO be_VB selected_VBN number_NN of_IN rounds_NNS of_IN simulations_NNS in_IN Algorithms_NNP 1_CD ,_, 2_CD ,_, and_CC 3_CD number_NN of_IN iterations_NNS in_IN the_DT Cohen_NNP 's_POS algorithm_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: used_VBN in_IN Algorithm_NNP 3_CD ._.
+propagation_NN probability_NN in_IN the_DT IC_NN model_NN degree_NN of_IN vertex_NN v_LS in_IN G_NN number_NN of_IN neighbors_NNS of_IN vertex_NN v_LS already_RB selected_VBN as_IN seeds_NNS Algorithm_NNP 1_CD GeneralGreedy_NN -LRB-_-LRB- G_NN ,_, k_NN -RRB-_-RRB- 1_CD :_: initialize_VB S_NN =_JJ ∅_CD and_CC

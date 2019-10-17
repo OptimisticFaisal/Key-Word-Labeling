@@ -1,0 +1,7 @@
+e_LS changes_NNS ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- presents_VBZ a_DT general_JJ framework_NN for_IN measuring_VBG changes_NNS or_CC differences_NNS in_IN two_CD models_NNS -LRB-_-LRB- e.g._FW ,_, two_CD sets_NNS of_IN association_NN rules_NNS from_IN two_CD datasets_NNS -RRB-_-RRB- ._.
+The_DT framework_NN does_VBZ not_RB mine_VB fundamental_JJ changes_NNS ._.
+=_SYM -_: =[_NN 4_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: study_VB the_DT maintenance_NN of_IN discovered_VBN association_NN rules_NNS ._.
+The_DT techniques_NNS aim_VBP to_TO incrementally_RB update_VB the_DT rules_NNS when_WRB data_NNS tuples_NNS are_VBP deleted_VBN or_CC inserted_VBN ._.
+They_PRP do_VBP not_RB mine_VB explicit_JJ changes_NNS ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- proposes_VBZ a_DT

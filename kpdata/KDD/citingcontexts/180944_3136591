@@ -1,0 +1,3 @@
+g_NN massive-scale_JJ model_NN selection_NN ,_, and_CC in_IN datasets_NNS with_IN a_DT large_JJ number_NN of_IN attributes_NNS and_CC records_NNS -LRB-_-LRB- see_VB also_RB -LRB-_-LRB- 10_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+An_DT extreme_JJ example_NN is_VBZ the_DT data_NN which_WDT is_VBZ gathered_VBN in_IN the_DT Sloan_NNP Digital_NNP Sky_NNP Survey_NNP -LRB-_-LRB- SDSS_NNP -RRB-_-RRB- =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB M_NN is_VBZ about_IN 500_CD and_CC R_NN is_VBZ in_IN the_DT millions_NNS ._.
+We_PRP show_VBP that_IN kd-trees_NNS can_MD be_VB used_VBN to_TO reduce_VB the_DT number_NN of_IN nearestneighbor_NN queries_NNS in_IN k-means_NN by_IN using_VBG the_DT fact_NN that_IN their_PRP$ nodes_NNS can_MD represent_VB a_DT large_JJ n_NN

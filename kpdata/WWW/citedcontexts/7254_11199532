@@ -1,0 +1,3 @@
+how_WRB the_DT revision_NN log_NN of_IN a_DT single_JJ entity_NN ,_, of_IN a_DT single_JJ ontology_NN or_CC of_IN the_DT complete_JJ workspace_NN ,_, which_WDT may_MD span_VB multiple_JJ ontologies_NNS ._.
+Changes_NNS in_IN the_DT ontology_NN can_MD be_VB annotated_JJ based_VBN on_IN the_DT Annotea_NNP framework_NN =_JJ -_: =[_NN 60_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC are_VBP external_JJ to_TO the_DT annotated_JJ resource_NN ,_, i.e._FW changes_NNS in_IN the_DT ontology_NN are_VBP annotated_JJ and_CC published_VBN on_IN an_DT Annotea_NNP server_NN ._.
+Collaborators_NNS can_MD retrieve_VB annotated_JJ changes_NNS from_IN the_DT Annotea_NNP server_NN and_CC up_RB

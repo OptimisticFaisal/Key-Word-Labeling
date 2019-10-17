@@ -1,0 +1,4 @@
+date_NN ._.
+proximity_NN measurements_NNS on_IN static_JJ graphs_NNS include_VBP the_DT sink-augmented_JJ delivered_VBN current_JJ -LRB-_-LRB- FMT04_NN -RRB-_-RRB- ,_, cycle_NN free_JJ effective_JJ conductance_NN -LRB-_-LRB- KNV06_NN -RRB-_-RRB- ,_, survivable_JJ network_NN -LRB-_-LRB- GMS93_NN -RRB-_-RRB- ,_, and_CC direction-aware_JJ proximity_NN =_JJ -_: =_JJ -LRB-_-LRB- TKF07_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+Although_IN we_PRP focus_VBP on_IN random_JJ walk_NN with_IN restart_VB in_IN this_DT paper_NN ,_, our_PRP$ fast_JJ algorithms_NNS can_MD be_VB easily_RB adapted_VBN to_TO other_JJ random_JJ walk_NN based_VBN measurements_NNS ,_, such_JJ as_IN -LRB-_-LRB- FMT04_NN ,_, TKF07_NN -RRB-_-RRB- ._.
+Also_RB ,_, there_EX are_VBP a_DT lot_NN of_IN appli_NNS

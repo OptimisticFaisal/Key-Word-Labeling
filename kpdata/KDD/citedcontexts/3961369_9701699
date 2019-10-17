@@ -1,0 +1,5 @@
+lity_NN of_IN the_DT anonymized_VBN data_NNS ._.
+Various_JJ metrics_NNS have_VBP been_VBN proposed_VBN in_IN the_DT literature_NN ._.
+Metrics_NNS that_WDT are_VBP relevant_JJ in_IN our_PRP$ setting_NN include_VBP the_DT Discernability_NNP Metric_NNP -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, and_CC the_DT Normalized_JJ Certainty_NN Penalty_NN =_JJ -_: =[_NN 39_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT Discernability_NNP Metric_NNP measures_VBZ the_DT size_NN of_IN equivalence_JJ classes_NNS ,_, or_CC partitions_NNS ,_, in_IN the_DT anonymization_NN ._.
+This_DT is_VBZ not_RB directly_RB applicable_JJ to_TO the_DT k_NN m_NN -_: anonymity_NN model_NN ,_, to_TO which_WDT we_PRP want_VBP to_TO compare_VB our_PRP$

@@ -1,0 +1,4 @@
+h_NN emphasize_VBP the_DT effect_NN of_IN particular_JJ representative_JJ topic_NN keywords_NNS to_TO increase_VB the_DT importance_NN of_IN certain_JJ web_NN pages_NNS ._.
+Those_DT are_VBP used_VBN to_TO generate_VB query-specific_JJ importance_NN scores_NNS ._.
+Alternatively_RB ,_, SimRank_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: computes_VBZ a_DT purely_RB structural_JJ score_NN that_WDT is_VBZ independent_JJ of_IN domain-specific_JJ information_NN ._.
+The_DT SimRank_NNP score_NN is_VBZ a_DT structure_NN similarity_NN measure_NN between_IN pairs_NNS of_IN pages_NNS in_IN the_DT web_NN graph_NN with_IN the_DT intuition_NN t_NN

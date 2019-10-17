@@ -1,0 +1,5 @@
+sed_VBN on_IN their_PRP$ content_NN ._.
+Many_JJ algorithms_NNS have_VBP been_VBN developed_VBN to_TO deal_VB with_IN automatic_JJ text_NN classification_NN ._.
+One_CD of_IN the_DT common_JJ methods_NNS is_VBZ the_DT naive_JJ Bayes_NNP ._.
+Although_IN the_DT naive_JJ Bayes_NNP works_VBZ well_RB in_IN many_JJ studies_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =-[_CD 9_CD -RRB-_-RRB- -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, it_PRP requires_VBZ a_DT large_JJ number_NN of_IN labeled_JJ training_NN documents_NNS for_IN learning_VBG accurately_RB ._.
+In_IN the_DT real_JJ world_NN task_NN ,_, it_PRP is_VBZ very_RB hard_JJ to_TO obtain_VB the_DT large_JJ labeled_JJ documents_NNS ,_, which_WDT are_VBP mostly_RB produced_VBN by_IN h_NN

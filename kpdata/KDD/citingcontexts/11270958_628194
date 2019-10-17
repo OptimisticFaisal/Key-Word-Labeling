@@ -1,0 +1,4 @@
+dia_NN such_JJ as_IN the_DT category_NN ,_, link_NN information_NN ,_, etc._NN ._.
+Moreover_RB ,_, the_DT sampling_NN process_NN can_MD be_VB very_JJ time_NN consuming_NN and_CC the_DT sampled_VBN topics_NNS are_VBP time_NN sensitive_JJ to_TO Wikipedia_NNP snapshots_NNS ._.
+Gabrilovich_NNP and_CC Markovitch_NNP =_SYM -_: =[_NN 2_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP a_DT method_NN to_TO improve_VB text_NN classification_NN performance_NN by_IN enriching_VBG document_NN representation_NN with_IN Wikipedia_NNP concepts_NNS ._.
+The_DT mapping_NN between_IN each_DT document_NN and_CC Wikipedia_NN concepts_NNS is_VBZ achieved_VBN through_IN

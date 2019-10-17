@@ -1,0 +1,6 @@
+verall_NN utilization_NN ._.
+Users_NNS see_VBP latency_NN ,_, not_RB throughput_NN ._.
+In_IN practice_NN ,_, deadlines_NNS are_VBP difficult_JJ to_TO meet_VB ,_, in_IN part_NN due_JJ to_TO the_DT presence_NN of_IN hardware_NN and_CC software_NN failures_NNS ._.
+Besides_IN the_DT obvious_JJ performance_NN hit_NN =_JJ -_: =[_NN 16_CD ,_, 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, failures_NNS often_RB lead_VBP to_TO broken_JJ promises_NNS ._.
+Therefore_RB ,_, this_DT paper_NN pushes_VBZ the_DT following_JJ observation_NN :_: A_DT system_NN that_WDT makes_VBZ unqualified_JJ performance_NN guarantees_NNS is_VBZ lying_VBG ._.
+Any_DT QoS_NN promise_NN must_MD be_VB accompanied_VBN e_SYM

@@ -1,0 +1,7 @@
+er_IN though_IN they_PRP have_VBP the_DT same_JJ behavior_NN ''_'' ._.
+This_DT is_VBZ exactly_RB the_DT problem_NN solved_VBN in_IN this_DT work_NN ._.
+3_LS ._.
+SIMILARITY_NN UNDER_IN UNIFORM_FW SCALING_FW We_PRP start_VBP by_IN briefly_NN revising_VBG the_DT uniform_NN scaling_VBG distance_NN as_IN introduced_VBN in_IN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Suppose_VB that_IN we_PRP have_VBP a_DT query_JJ time_NN series_NN Q_NNP =_JJ -LRB-_-LRB- q1_NN ,_, q2_NN ,_, ..._: ,_, qmq_NN -RRB-_-RRB- and_CC a_DT candidate_NN matching_NN sequence_NN C_NN =_JJ -LRB-_-LRB- c1_NN ,_, c2_NN ,_, ..._: ,_, cmc_NN -RRB-_-RRB- ._.
+Without_IN loss_NN of_IN generality_NN ,_, assume_VBP that_IN mq_FW ≤_FW mc_FW ._.
+A_DT uniformly_RB scaled_VBN v_LS

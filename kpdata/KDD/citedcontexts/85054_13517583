@@ -1,0 +1,3 @@
+-RRB-_-RRB- ,_, where_WRB internal_JJ nodes_NNS -LRB-_-LRB- splitting_NN nodes_NNS -RRB-_-RRB- are_VBP generally_RB associated_VBN with_IN a_DT logical_JJ test_NN on_IN predictor_NN variables_NNS ,_, while_IN leaves_NNS -LRB-_-LRB- i.e._FW bottom_JJ nodes_NNS in_IN the_DT hierarchy_NN -RRB-_-RRB- are_VBP associated_VBN with_IN -LRB-_-LRB- linear_NN -RRB-_-RRB- functions_VBZ =_JJ -_: =[_NN 16,10,19,17,18,2,11,4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT different_JJ tree_NN structure_NN with_IN both_CC regression_NN and_CC splitting_NN nodes_NNS is_VBZ mined_VBN by_IN the_DT system_NN SMOTI_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Regression_NN nodes_NNS perform_VBP straight-line_JJ regression_NN ,_, while_IN splitting_JJ nodes_NNS partition_NN the_DT training_NN

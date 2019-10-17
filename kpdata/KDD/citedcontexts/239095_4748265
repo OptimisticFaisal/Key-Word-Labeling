@@ -1,0 +1,5 @@
+nce_VB Foundation_NNP of_IN China_NNP under_IN the_DT grants_NNS NSFC_NN 60375022_CD and_CC NSFC_NNP 60473040_CD ._.
+sTable_JJ 1_CD ._.
+The_DT contingency_NN table_NN label_NN y_NN =_JJ 0_CD label_NN y_NN =_JJ 1_CD prediction_NN h_NN -LRB-_-LRB- x_NN -RRB-_-RRB- =_JJ 0_CD T_NN p_NN F_NN p_NN prediction_NN h_NN -LRB-_-LRB- x_NN -RRB-_-RRB- =_JJ 1_CD F_NN n_NN T_NN n_NN gramme_NN problem_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 7_CD -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, and_CC using_VBG geometric_JJ algorithms_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Divide-andconquer_JJ principle_NN is_VBZ applied_VBN to_TO scale_VB SVMs_NNS too_RB ._.
+Divide-and-conquer_JJ principle_NN implemented_VBN in_IN serial_NN include_VBP the_DT standard_JJ SVMs_NNS training_NN metho_NN

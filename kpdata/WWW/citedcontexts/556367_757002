@@ -1,0 +1,4 @@
+AND_NNP DATA_NNP ENGINEERING_NNP 29_CD consider_VB how_WRB Piazza_NNP relates_VBZ to_TO the_DT current_JJ Semantic_JJ Web_NN efforts_NNS ._.
+As_IN noted_VBN ,_, most_JJS of_IN the_DT research_NN on_IN the_DT Semantic_JJ Web_NN to_TO date_NN has_VBZ focused_VBN on_IN RDF_NNP as_IN an_DT underlying_JJ data_NN model_NN ._.
+In_IN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Patel-Schneider_NNP and_CC Simeon_NNP note_VBP that_IN there_EX is_VBZ a_DT wide_JJ disconnect_VB between_IN the_DT RDF_NNP world_NN and_CC most_JJS of_IN today_NN 's_POS data_NNS providers_NNS and_CC applications_NNS ._.
+RDF_NNP represents_VBZ everything_NN as_IN a_DT set_NN of_IN classes_NNS and_CC propertie_NN

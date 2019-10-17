@@ -1,0 +1,4 @@
+urred_JJ loss_NN ._.
+This_DT has_VBZ two_CD benefits_NNS :_: firstly_RB ,_, the_DT problem_NN has_VBZ no_DT local_JJ minima_NN ,_, and_CC secondly_RB ,_, the_DT optimization_NN problem_NN is_VBZ continuous_JJ and_CC piecewise_JJ differentiable_NN ,_, which_WDT allows_VBZ for_IN effective_JJ optimization_NN =_JJ -_: =[_NN 17_CD ,_, 19_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT setting_NN ,_, however_RB ,_, exhibits_VBZ a_DT significant_JJ problem_NN :_: the_DT looseness_NN of_IN the_DT convex_NN upper_JJ bounds_NNS can_MD sometimes_RB lead_VB to_TO poor_JJ accuracy_NN ._.
+For_IN binary_JJ classification_NN ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- proposed_VBN to_TO switch_VB from_IN the_DT hinge_NN

@@ -1,0 +1,4 @@
+in_IN DAML-S_NN with_IN the_DT help_NN of_IN class_NN constraints_NNS ._.
+Finally_RB ,_, in_IN Section_NNP 6_CD ,_, we_PRP compare_VBP our_PRP$ approach_NN to_TO the_DT definition_NN of_IN the_DT semantics_NNS of_IN DAML-S_NN with_IN another_DT approach_NN using_VBG situation_NN calculus_NN and_CC Petri_NNP nets_VBZ =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2_CD The_DT DAML-S_NN Ontology_NN The_DT DAML-S_NN ontology_NN consists_VBZ of_IN three_CD parts_NNS :_: a_DT service_NN profile_NN ,_, a_DT process_NN model_NN and_CC a_DT service_NN grounding_NN ._.
+The_DT service_NN profile_NN of_IN a_DT particular_JJ Web_NN service_NN would_MD enable_VB a_DT service_NN -_:

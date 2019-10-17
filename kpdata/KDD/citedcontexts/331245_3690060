@@ -1,0 +1,3 @@
+treatment_NN of_IN rings_NNS solves_VBZ some_DT of_IN these_DT problems_NNS ,_, however_RB starting_VBG the_DT search_NN with_IN single_JJ carbon_NN atoms_NNS still_RB remains_VBZ cumbersome_JJ ._.
+Other_JJ algorithms_NNS that_WDT also_RB use_VBP embedding_VBG lists_NNS have_VBP been_VBN presented_VBN in_IN =_JJ -_: =[_NN 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Whereas_IN the_DT former_JJ --_: FFSM_NN --_: still_RB generates_VBZ some_DT candidate_NN fragments_NNS that_WDT do_VBP not_RB exist_VB in_IN the_DT database_NN ,_, the_DT latter_JJ --_: Gaston_NNP --_: seems_VBZ to_TO be_VB very_RB fast_RB by_IN using_VBG several_JJ refinement_NN steps_NNS during_IN the_DT searc_NN

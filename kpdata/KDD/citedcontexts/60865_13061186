@@ -1,0 +1,7 @@
+This_DT will_MD need_VB substantial_JJ trial_NN and_CC error_NN ._.
+The_DT second_JJ approach_NN is_VBZ to_TO use_VB learning_NN to_TO rank_VB ._.
+This_DT requires_VBZ manually_RB ranked_VBN examples_NNS as_IN the_DT training_NN data_NNS ._.
+We_PRP took_VBD the_DT second_JJ approach_NN and_CC used_VBD SVM_NN rank_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: to_TO perform_VB the_DT ranking_JJ task_NN ._.
+Instead_RB of_IN producing_VBG manual_JJ rankings_NNS as_IN training_NN data_NNS ,_, we_PRP produce_VBP them_PRP automatically_RB ._.
+It_PRP is_VBZ easy_JJ to_TO imagine_VB that_IN there_EX exist_VBP many_JJ flavors_NNS of_IN group_NN spamming_VBG behaviors_NNS ._.
+We_PRP

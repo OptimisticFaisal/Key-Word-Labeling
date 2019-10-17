@@ -1,0 +1,4 @@
+data_NNS that_WDT incurs_VBZ a_DT high_JJ computational_JJ cost_NN on_IN directly_RB solving_VBG the_DT eigenproblem_NN in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+By_IN noticing_VBG that_IN the_DT eigendecomposition_NN of_IN Sw_FW þ_FW I_PRP is_VBZ the_DT sum_NN of_IN the_DT eigendecomposition_NN of_IN Sw_NNP and_CC I_NNP ,_, Ye_NNP and_CC Wang_NNP =_SYM -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: developed_VBD an_DT efficient_JJ algorithm_NN to_TO compute_VB the_DT projective_JJ functions_NNS of_IN RDA_NNP ._.
+The_DT computational_JJ cost_NN of_IN this_DT approach_NN will_MD be_VB comparable_JJ to_TO those_DT of_IN two-stage_JJ PCA+LDA_NN approaches_NNS ._.
+The_DT computation_NN of_IN al_FW

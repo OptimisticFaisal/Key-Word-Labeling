@@ -1,0 +1,4 @@
+elop_JJ efficient_JJ query_NN processing_NN and_CC similarity_NN indexing_NN techniques_NNS for_IN such_JJ data_NNS ._.
+A_DT number_NN of_IN techniques_NNS such_JJ as_IN KDB-Trees_NNS ,_, kd-Trees_NNS ,_, and_CC Grid-Files_NNP are_VBP discussed_VBN in_IN the_DT classical_JJ database_NN literature_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: for_IN indexing_NN multidimensional_JJ data_NNS ._.
+Many_JJ of_IN these_DT techniques_NNS were_VBD initially_RB proposed_VBN in_IN the_DT context_NN of_IN lowdimensional_JJ spatial_JJ applications_NNS ._.
+Starting_VBG with_IN the_DT seminal_JJ work_NN of_IN Guttman_NNP on_IN R-Trees_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_,

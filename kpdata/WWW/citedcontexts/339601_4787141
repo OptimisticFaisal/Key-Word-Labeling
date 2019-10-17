@@ -1,0 +1,4 @@
+,_, formalized_VBN methods_NNS of_IN processing_VBG the_DT format_NN and_CC content_NN of_IN tables_NNS to_TO relevant_JJ reusable_JJ conceptual_JJ ontology_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- or_CC domain-oriented_JJ approach_NN to_TO web_NN data_NNS extraction_NN based_VBN on_IN a_DT tree_NN structure_NN analysis_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Paper_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- presents_VBZ techniques_NNS for_IN supervised_JJ wrapper_NN generation_NN and_CC automated_JJ web_NN information_NN extraction_NN ._.
+The_DT system_NN generates_VBZ wrappers_NNS ,_, which_WDT translate_VBP relevant_JJ pieces_NNS of_IN HTML_NNP pages_NNS into_IN XML_NN ._.
+The_DT n_NN

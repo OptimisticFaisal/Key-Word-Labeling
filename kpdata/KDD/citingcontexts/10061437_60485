@@ -1,0 +1,4 @@
+n_NN diverse_JJ results_NNS ._.
+They_PRP evaluate_VBP their_PRP$ approach_NN on_IN the_DT TREC_NN data_NN set_NN ,_, and_CC show_NN improvement_NN in_IN metrics_NNS including_VBG the_DT %_NN no_DT metric_NN ,_, MRR_NN ,_, and_CC MSL_NNP over_IN approaches_NNS based_VBN on_IN the_DT Probability_NNP Ranking_NNP Principle_NNP =_SYM -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, their_PRP$ approach_NN does_VBZ not_RB specify_VB how_WRB the_DT parameters_NNS that_WDT correspond_VBP to_TO the_DT likelihoods_NNS that_IN documents_NNS arerelevant_JJ to_TO users_NNS are_VBP estimated_VBN ._.
+Experimentally_RB ,_, they_PRP tune_VBP these_DT parameters_NNS for_IN perf_NN

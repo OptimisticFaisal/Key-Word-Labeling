@@ -1,0 +1,4 @@
+he_PRP RELAT1_NN column_NN -LRB-_-LRB- 13_CD in_IN all_DT -RRB-_-RRB- 7_CD ._.
+Each_DT of_IN these_DT data-sets_NNS is_VBZ known_VBN to_TO be_VB difficult_JJ for_IN constraint-based_JJ rule_NN mining_NN algorithms_NNS such_JJ as_IN Apriori_NNP ,_, even_RB when_WRB specifying_VBG a_DT strong_JJ minimum_JJ support_NN constraint_NN =_JJ -_: =[_NN 4,6,8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Experiments_NNS were_VBD performed_VBN on_IN an_DT IBM_NNP IntelliStation_NNP with_IN 400_CD MHZ_NNP Intel_NNP Pentium-II_NNP processor_NN and_CC 128_CD MBytes_NNS of_IN main_JJ memory_NN ._.
+Execution_NN time_NN and_CC the_DT number_NN of_IN rules_NNS returned_VBN by_IN the_DT algorithm_NN appear_VBP in_IN

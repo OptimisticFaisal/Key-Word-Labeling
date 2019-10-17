@@ -1,0 +1,4 @@
+ings_NNS it_PRP is_VBZ often_RB the_DT case_NN the_DT classification_NN --_: concept_NN ‖_NN we_PRP are_VBP trying_VBG to_TO learn_VB may_MD change_VB over_IN time_NN and_CC ,_, in_IN particular_JJ ,_, may_MD change_VB after_IN a_DT classifier_NN is_VBZ induced_VBN ._.
+This_DT problem_NN is_VBZ known_VBN as_IN concept_NN drift_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: and_CC in_IN this_DT paper_NN we_PRP focus_VBP on_IN a_DT specific_JJ type_NN of_IN concept_NN drift_NN where_WRB the_DT class_NN distribution_NN changes_NNS over_IN time_NN ,_, yielding_VBG a_DT distribution_NN mismatch_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- problem_NN ._.
+This_DT problem_NN occurs_VBZ frequently_RB ._.
+For_IN exampl_NN

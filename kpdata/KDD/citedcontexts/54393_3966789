@@ -1,0 +1,4 @@
+strong_JJ privacy_NN and_CC accuracy_NN via_IN a_DT secure_JJ multi-party_JJ computation_NN ,_, but_CC typically_RB suffers_VBZ from_IN its_PRP$ poor_JJ performance_NN ._.
+The_DT statistical_JJ approach_NN has_VBZ been_VBN used_VBN to_TO mine_VB decision_NN trees_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, association_NN rules_NNS =_JJ -_: =[_NN 4_CD ,_, 6_CD ,_, 8_CD ,_, 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC clustering_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, and_CC is_VBZ popular_JJ mainly_RB because_IN of_IN its_PRP$ high_JJ performance_NN ._.
+This_DT paper_NN focuses_VBZ on_IN the_DT statistical_JJ approach_NN to_TO privacy-preserving_JJ decision_NN tree_NN mining_NN ._.
+The_DT notion_NN of_IN privacy-preservin_NN

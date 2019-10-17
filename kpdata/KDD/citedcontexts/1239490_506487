@@ -1,0 +1,3 @@
+fied_VBN ,_, it_PRP is_VBZ too_RB inefficient_JJ to_TO resample_VB the_DT available_JJ data_NNS and_CC learn_VB new_JJ classifiers_NNS ._.
+One_CD solution_NN is_VBZ to_TO rely_VB on_IN the_DT user_NN to_TO specify_VB the_DT number_NN of_IN examples_NNS from_IN the_DT input_NN stream_NN for_IN each_DT base_NN learner_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC this_DT approach_NN assumes_VBZ we_PRP know_VBP a_DT great_JJ deal_NN about_IN the_DT structure_NN of_IN the_DT data_NNS stream_NN and_CC is_VBZ likely_JJ to_TO be_VB impractical_JJ for_IN drifting_VBG concepts_NNS ._.
+There_EX are_VBP on-line_JJ boosting_VBG algorithms_NNS that_WDT reweight_VBP class_NN

@@ -1,0 +1,4 @@
+ch_columns_NNS on_IN line_NN 6_CD ,_, and_CC it_PRP involves_VBZ finding_VBG a_DT solution_NN to_TO a_DT standard_JJ maximum_NN matching_NN problem_NN on_IN bipartite_JJ graphs_NNS ._.
+This_DT problem_NN can_MD be_VB solved_VBN optimally_RB in_IN polynomial_JJ time_NN using_VBG the_DT Hungarian_JJ method_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Greedy_JJ alternatives_NNS also_RB work_VBP well_RB in_IN practice_NN ._.
+3.1.1_CD Solving_VBG X_NN and_CC ˜_NN C_NN The_DT most_RBS straightforward_JJ way_NN of_IN implementing_VBG methods_NNS Solve_X_Given_C_NNP and_CC Solve_NNP __NNP ~_NNP C_Given_X_NNP without_IN the_DT nonnegativity_NN constraint_NN

@@ -1,0 +1,5 @@
+e_LS ,_, all_PDT these_DT three_CD learning_NN tasks_NNS use_VBP the_DT same_JJ background_NN relations_NNS as_IN prepared_VBN in_IN -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Mutagenesis_NN Database_NN ._.
+Our_PRP$ second_JJ experiment_NN -LRB-_-LRB- denoted_VBN as_IN MUT188_NN -RRB-_-RRB- was_VBD conducted_VBN against_IN the_DT Mutagenesis_NN data_NN set_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT benchmark_JJ data_NN set_NN is_VBZ composed_VBN of_IN the_DT structural_JJ descriptions_NNS of_IN 188_CD Regression_NN Friendly_JJ molecules_NNS that_WDT are_VBP to_TO be_VB classified_VBN as_IN mutagenic_JJ or_CC not_RB ._.
+The_DT background_NN relations_NNS consist_VBP of_IN description_NN

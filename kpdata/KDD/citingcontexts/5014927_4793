@@ -1,0 +1,6 @@
+validation_NN ._.
+The_DT methods_NNS proposed_VBN in_IN -LRB-_-LRB- 10_CD ,_, 12_CD -RRB-_-RRB- are_VBP restricted_JJ to_TO binary-class_JJ problems_NNS only_RB ._.
+We_PRP used_VBD a_DT total_NN of_IN five_CD data_NNS sets_NNS for_IN this_DT experiment_NN ._.
+The_DT USPS_NNP handwritten_JJ digits_NNS database_NN was_VBD described_VBN in_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP choose_VBP the_DT first_JJ 3_CD ,_, 6_CD ,_, and_CC 8_CD classes_NNS with_IN 100_CD samples_NNS in_IN each_DT class_NN for_IN the_DT experiments_NNS ._.
+The_DT wine_NN and_CC waveform_NN data_NNS were_VBD obtained_VBN from_IN UCI_NNP Machine_NNP Learning_NNP Repository_NNP and_CC the_DT satimage_NN and_CC segment_NN

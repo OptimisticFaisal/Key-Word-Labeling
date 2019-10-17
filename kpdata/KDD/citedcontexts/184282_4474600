@@ -1,0 +1,4 @@
+one_CD ,_, for_IN example_NN ,_, in_IN -LRB-_-LRB- 53_CD -RRB-_-RRB- ._.
+For_IN larger_JJR collections_NNS it_PRP is_VBZ possible_JJ to_TO reduce_VB the_DT dimensionality_NN either_CC by_IN analyzing_VBG principal_JJ components_NNS or_CC -LRB-_-LRB- in_IN the_DT case_NN of_IN very_RB large_JJ collections_NNS -RRB-_-RRB- by_IN random_JJ projections_NNS =_JJ -_: =[_NN 25_CD ;_: 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT model_NN vector_NN matrix_NN Mt_NN is_VBZ of_IN size_NN m_NN ×_FW d_FW ,_, where_WRB m_NN is_VBZ the_DT number_NN of_IN maps2_NN .3_NN The_DT Self-Organizing_JJ Map_NN 9_CD units_NNS ._.
+The_DT values_NNS of_IN Mt_NN are_VBP updated_VBN in_IN each_DT iteration_NN t._NNP The_NNP matrix_NN U_NN of_IN size_NN m_NN ×_CD m_NN defines_VBZ th_DT

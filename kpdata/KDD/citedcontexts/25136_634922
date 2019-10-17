@@ -1,0 +1,5 @@
+have_VBP been_VBN presented_VBN in_IN -LRB-_-LRB- 5_CD ,_, 10_CD -RRB-_-RRB- ._.
+These_DT provide_VBP solutions_NNS for_IN secure_JJ dotproduct_NN and_CC division_NN ._.
+A_DT fast_JJ protocol_NN with_IN weak_JJ security_NN requirements_NNS has_VBZ been_VBN recommended_VBN for_IN privacy-preserving_JJ data_NNS mining_NN in_IN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Similar_JJ protocols_NNS exist_VBP for_IN many_JJ algorithmic_JJ problems_NNS ,_, e.g._FW binary_JJ search_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- or_CC edit_NN distance_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+3_CD Notation_NNP Let_NNP E_NN -LRB-_-LRB- x_NN -RRB-_-RRB- denote_VBP the_DT encrypted_JJ value_NN of_IN x._NNP Encryption_NNP by_IN Alice_NNP and_CC Bob_NNP is_VBZ denoted_VBN as_IN EA_NN

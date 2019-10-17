@@ -1,0 +1,4 @@
+support_NN vectors_NNS after_IN some_DT straightforward_JJ extensions_NNS to_TO the_DT current_JJ work_NN ._.
+Enhancing_NN the_DT SVM_NN training_NN process_NN with_IN clustering_NN or_CC similar_JJ techniques_NNS has_VBZ been_VBN examined_VBN with_IN several_JJ variations_NNS in_IN -LRB-_-LRB- 34_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 29_CD -RRB-_-RRB- ._.
+Based_VBN on_IN a_DT hierarchical_JJ micro-clustering_JJ algorithm_NN ,_, Yu_FW et_FW al._FW -LRB-_-LRB- 34_CD -RRB-_-RRB- proposed_VBD a_DT scalable_JJ algorithm_NN to_TO train_VB support_NN vector_NN machines_NNS with_IN a_DT linear_JJ kernel_NN ._.
+However_RB ,_, their_PRP$ algorithm_NN currently_RB wo_MD

@@ -1,0 +1,5 @@
+subspace_NN and_CC the_DT number_NN of_IN transactions_NNS supporting_VBG each_DT cluster_NN ._.
+Table_NNP 4.3_CD is_VBZ an_DT example_NN of_IN the_DT input_NN to_TO our_PRP$ data_NNS generator_NN ._.
+This_DT method_NN 49_CD Chapter_NN 5_CD Experiments_NNS 50_CD of_IN data_NNS generation_NN is_VBZ also_RB used_VBN in_IN =_JJ -_: =[_NN 2_CD ,_, 36_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT design_NN of_IN our_PRP$ data_NNS generator_NN resembles_VBZ that_IN in_IN these_DT works_NNS ._.
+We_PRP do_VBP not_RB use_VB hyper-rectangular_JJ data_NNS in_IN most_JJS of_IN the_DT tests_NNS below_IN ,_, because_IN some_DT problems_NNS may_MD arise_VB ._.
+These_DT problems_NNS are_VBP discussed_VBN in_IN S_NN

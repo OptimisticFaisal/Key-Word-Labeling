@@ -1,0 +1,4 @@
+oposed_VBN method_NN can_MD be_VB naturally_RB extended_VBN to_TO other_JJ semi-structured_JJ data_NNS such_JJ as_IN sequences_NNS and_CC trees_NNS where_WRB patterns_NNS such_JJ as_IN frequent_JJ subsequences_NNS and_CC frequent_JJ subtrees_NNS are_VBP widely_RB used_VBN for_IN classification_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+1.1_CD Related_NNP Work_NNP Subgraph_NNP based_VBD supervised_VBN learning_VBG on_IN graphs_NNS has_VBZ recently_RB attracted_VBN extensive_JJ research_NN interest_NN -LRB-_-LRB- 16_CD ,_, 31_CD ,_, 36_CD ,_, 38_CD ,_, 40_CD -RRB-_-RRB- ._.
+For_IN example_NN ,_, Yan_NNP et_NNP ._.
+al_FW -LRB-_-LRB- 40_CD -RRB-_-RRB- proposed_VBN Leap_NNP algorithm_NN with_IN two_CD c_NN

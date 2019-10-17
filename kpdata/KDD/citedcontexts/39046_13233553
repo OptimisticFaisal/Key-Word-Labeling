@@ -1,0 +1,8 @@
+ig_NN ._.
+2_CD :_: A_DT GAC_NN tree_NN built_VBN from_IN 8_CD projects_NNS ._.
+Leaf_NN vertices_NNS are_VBP actual_JJ projects_NNS ._.
+Grey_NNP vertices_NNS are_VBP the_DT median_NN of_IN their_PRP$ children_NNS ._.
+Only_RB the_DT leaf_NN nodes_NNS of_IN this_DT tree_NN hold_VBP effort_NN data_NNS from_IN historical_JJ projects_NNS ._.
+=_SYM -_: =[_NN 44_CD -RRB-_-RRB- -_: =_JJ -_: ,_, databases_NNS -LRB-_-LRB- 45_CD -RRB-_-RRB- bioinformatics_NNS -LRB-_-LRB- 46_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+GAC_NN executes_VBZ bottom-up_JJ by_IN grouping_VBG together_RB at_IN a_DT higher_JJR level_NN -LRB-_-LRB- i_FW +_CC 1_LS -RRB-_-RRB- the_DT closest_JJS pairs_NNS found_VBN at_IN level_JJ i._NN The_DT result_NN is_VBZ a_DT tree_NN like_IN Figure_NNP 2_CD ._.
+GAC_NN is_VBZ ``_`` greedy_JJ ''_'' in_IN

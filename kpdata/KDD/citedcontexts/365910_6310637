@@ -1,0 +1,7 @@
+2007_CD uncertainties_NNS ._.
+Then_RB ,_, if_IN ,_, the_DT problem_NN is_VBZ strictly_RB feasible_JJ and_CC in_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- will_MD be_VB changed_VBN to_TO while_IN the_DT value_NN of_IN remains_NNS unchanged_JJ ._.
+Alternatively_RB ,_, robust_JJ covariance_NN matrix_NN estimation_NN methods_NNS -LRB-_-LRB- such_JJ as_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 14_CD -RRB-_-RRB- -RRB-_-RRB- can_MD also_RB be_VB used_VBN ._.
+III_NNP ._.
+FAMILY_NN OF_IN SINGLE-CLASS_NNP MPMS_NNP If_IN the_DT underlying_VBG data_NNS distribution_NN is_VBZ known_VBN ,_, one_CD no_RB longer_RB needs_VBZ the_DT infimum_NN operator_NN in_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+However_RB ,_, this_DT is_VBZ often_RB impossible_JJ ._.
+Alternat_NN

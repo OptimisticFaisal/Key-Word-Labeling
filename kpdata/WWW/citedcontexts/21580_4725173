@@ -1,0 +1,4 @@
+ge_RB ,_, the_DT cut_NN vertex_NN is_VBZ noted_VBN and_CC set_VBN sets_NNS the_DT cursor_NN to_TO the_DT 2-Color_JJ label_NN of_IN the_DT source_NN of_IN the_DT query_NN ,_, which_WDT is_VBZ the_DT 20_CD th_DT element_NN ._.
+Since_IN its_PRP$ associated_VBN p-expression_NN is_VBZ empty_JJ ,_, no_DT change_NN is_VBZ made_VBN to_TO Result_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Since_IN this_DT element_NN is_VBZ the_DT cut_NN vertex_NN ,_, the_DT result_NN of_IN the_DT query_NN is_VBZ obtained_VBN with_IN a_DT final_JJ concatenation_NN of_IN Result_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- and_CC Result_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+At_IN the_DT end_NN of_IN the_DT Path-Solve_NNP algorithm_NN ,_, Result_NN -LRB-_-LRB- i_LS -RRB-_-RRB- contains_VBZ a_DT pexpre_NN

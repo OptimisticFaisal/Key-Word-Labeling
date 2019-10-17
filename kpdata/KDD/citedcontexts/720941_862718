@@ -1,0 +1,4 @@
+t_NN results_VBZ in_IN more_RBR accurate_JJ predictions_NNS than_IN conditional_JJ inference_NN over_IN each_DT instance_NN independently_RB -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 2_CD ,_, 23_CD ,_, 15_CD -RRB-_-RRB- -RRB-_-RRB- and_CC that_IN the_DT gains_NNS over_IN conditional_JJ models_NNS increase_VBP as_IN autocorrelation_NN increases_VBZ =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Collective_JJ models_NNS improve_VBP classification_NN performance_NN by_IN explicitly_RB representing_VBG the_DT autocorrelation_NN dependencies_NNS in_IN relational_JJ datasets_NNS ._.
+However_RB ,_, this_DT approach_NN has_VBZ a_DT number_NN of_IN weaknesses_NNS ._.
+First_RB ,_, the_DT

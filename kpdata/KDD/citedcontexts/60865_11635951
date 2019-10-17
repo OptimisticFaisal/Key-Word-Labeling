@@ -1,0 +1,4 @@
+res_NNS such_JJ as_IN PageRank_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC some_DT are_VBP based_VBN on_IN both_CC content_NN and_CC connectivity_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+Ranking_JJ algorithms_NNS that_WDT combine_VBP features_NNS have_VBP drawn_VBN a_DT lot_NN of_IN interest_NN ,_, especially_RB algorithms_NNS using_VBG machine_NN learning_NN =_JJ -_: =[_NN 5_CD ,_, 8_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT supervised_JJ methods_NNS use_VBP relevance_NN judgments_NNS from_IN users_NNS to_TO learn_VB new_JJ very_RB effective_JJ ranking_JJ functions_NNS ._.
+Generally_RB ,_, we_PRP have_VBP m_NN features_NNS and_CC training_NN data_NNS containing_VBG relevance_NN judgments_NNS for_IN each_DT pai_NN

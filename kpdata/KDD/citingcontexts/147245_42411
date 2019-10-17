@@ -1,0 +1,4 @@
+ble_NN 6_CD :_: Benefits_NNS -LRB-_-LRB- US_NNP $_$ -RRB-_-RRB- using_VBG Single_JJ Classifiers_NNS and_CC Classifier_NN Ensembles_NNS -LRB-_-LRB- original_JJ stream_NN -RRB-_-RRB- sembles_NNS include_VBP changing_VBG the_DT instances_NNS used_VBN for_IN training_NN through_IN techniques_NNS such_JJ as_IN Bagging_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC Boosting_VBG =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT classifier_NN ensembles_NNS have_VBP several_JJ advantages_NNS over_IN single_JJ model_NN classifiers_NNS ._.
+First_RB ,_, classifier_NN ensembles_NNS offer_VBP a_DT significant_JJ improvement_NN in_IN prediction_NN accuracy_NN -LRB-_-LRB- 12_CD ,_, 24_CD -RRB-_-RRB- ._.
+Second_RB ,_, building_VBG a_DT classi_NN

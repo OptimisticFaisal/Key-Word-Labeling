@@ -1,0 +1,4 @@
+pport_NN -LRB-_-LRB- 3_CD ,_, 5_CD -RRB-_-RRB- ._.
+The_DT second_JJ line_NN focused_VBN on_IN more_RBR expressive_JJ pattern_NN languages_NNS ,_, mostly_RB general_JJ -LRB-_-LRB- connected_JJ -RRB-_-RRB- subgraphs_NNS ,_, and_CC gave_VBD rise_NN to_TO algorithms_NNS for_IN finding_VBG frequent_JJ subgraph_NN patterns_NNS in_IN graph_NN databases_NNS =_JJ -_: =[_NN 4_CD ,_, 6_CD ,_, 11_CD ,_, 12_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT first_JJ of_IN the_DT latter_JJ algorithms_NNS ,_, AGM_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, was_VBD a_DT graph_NN variant_NN of_IN the_DT levelwise_NN search_NN algorithm_NN APriori_NN for_IN mining_NN frequent_JJ itemsets_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+Further_JJ speed-up_NN was_VBD achieved_VBN using_VBG a_DT depth-first_JJ travers_NNS

@@ -1,0 +1,4 @@
+a_DT subclass_NN of_IN general_JJ graphs_NNS are_VBP outerplanar_JJ graphs_NNS ._.
+Outerplanar_JJ graphs_NNS are_VBP graphs_NNS which_WDT can_MD be_VB embedded_VBN in_IN the_DT plane_NN in_IN such_PDT a_DT way_NN that_IN all_DT of_IN their_PRP$ vertices_NNS lie_VBP on_IN the_DT boundary_NN of_IN the_DT outer_JJ face_NN ._.
+-LRB-_-LRB- =_JJ -_: =_JJ Horváth_NNP et_FW al._FW ,_, 2006_CD -_: =--RRB-_NN have_VBP observed_VBN that_IN 94.5_CD %_NN of_IN the_DT molecules_NNS in_IN the_DT NCI_NN 2_CD database_NN are_VBP outerplanar_JJ ._.
+This_DT collection_NN of_IN datasets_NNS contains_VBZ over_IN 250000_CD chemical_NN compounds_NNS which_WDT are_VBP used_VBN extensively_RB for_IN screening_NN purposes_NNS

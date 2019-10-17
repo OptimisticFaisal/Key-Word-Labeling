@@ -1,0 +1,4 @@
+oo_RB high_JJ ,_, the_DT factors_NNS start_VBP to_TO specialize_VB to_TO noise_NN ,_, and_CC hence_RB ,_, the_DT cross-validation_NN error_NN increases_NNS ._.
+Normally_RB ,_, hold-out_JJ set_NN would_MD contain_VB either_CC rows_NNS or_CC columns_NNS ,_, but_CC not_RB both_DT ._.
+Recently_RB ,_, Owen_NNP and_CC Perry_NNP =_SYM -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT method_NN to_TO leave_VB out_RP a_DT sub-matrix_NN ._.
+The_DT method_NN is_VBZ based_VBN on_IN the_DT assumption_NN that_IN the_DT remaining_VBG matrix_NN has_VBZ the_DT same_JJ rank_NN as_IN the_DT original_JJ matrix_NN ,_, as_IN this_DT is_VBZ needed_VBN to_TO fit_VB the_DT factors_NNS to_TO the_DT test_NN

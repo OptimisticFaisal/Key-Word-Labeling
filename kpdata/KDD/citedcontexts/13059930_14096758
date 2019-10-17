@@ -1,0 +1,4 @@
+the_DT already_RB selected_VBN ones_NNS ,_, such_JJ as_IN Maximum_NNP Marginal_JJ Relevance_NN and_CC its_PRP$ applications_NNS in_IN Wan_NNP et_FW al._FW -LRB-_-LRB- 2007b_CD ;_: 2007a_CD -RRB-_-RRB- ._.
+Most_RBS recently_RB diversity_NN rank_NN DivRank_NNP is_VBZ another_DT solution_NN to_TO diversity_NN penalization_NN in_IN -LRB-_-LRB- =_JJ -_: =_JJ Mei_FW et_FW al._FW ,_, 2010_CD -_: =--RRB-_NN ._.
+We_PRP incorporate_VBP DivRank_NNP in_IN our_PRP$ general_JJ ranking_NN framework_NN ,_, which_WDT creates_VBZ a_DT dynamic_JJ M_NN during_IN each_DT iteration_NN ,_, rather_RB than_IN a_DT static_JJ one_CD ._.
+After_IN z_SYM times_NNS of_IN iteration_NN ,_, the_DT matrix_NN M_NN becomes_VBZ :_: M_NN -LRB-_-LRB- z_SYM -RRB-_-RRB- =_JJ µM_NN -LRB-_-LRB- z_SYM −_NN 1_CD

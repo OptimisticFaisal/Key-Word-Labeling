@@ -1,0 +1,3 @@
+closed_VBN itemset_JJ mining_NN ,_, which_WDT mines_NNS only_RB those_DT frequent_JJ itemsets_NNS having_VBG no_DT proper_JJ superset_NN with_IN the_DT same_JJ support_NN ,_, limits_VBZ the_DT number_NN of_IN patterns_NNS produced_VBN without_IN information_NN loss_NN ._.
+It_PRP has_VBZ been_VBN shown_VBN in_IN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: that_IN the_DT closed_JJ itemset_NN mining_NN generates_VBZ orders_NNS of_IN magnitude_NN smaller_JJR result_NN set_VBN than_IN frequent_JJ itemset_NN mining_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP introduce_VBP the_DT concept_NN of_IN confidence_NN closed_VBD correlated_JJ pattern_NN ,_, which_WDT pl_VBP

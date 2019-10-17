@@ -1,0 +1,4 @@
+Markov_NNP models_NNS ,_, Kalman_NNP filters_NNS ,_, and_CC hidden_VBD Markov_NNP models_NNS ._.
+2.2_CD Bayesian_JJ network_NN models_NNS of_IN web_NN behavior_NN One_CD standard_JJ task_NN in_IN web_NN visitor_NN behavior_NN modeling_NN is_VBZ to_TO build_VB a_DT transition_NN model_NN over_IN clicks_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN this_DT task_NN URLs_NNS are_VBP typically_RB categorized_VBN into_IN a_DT small_JJ set_NN of_IN ``_`` pagetypes_NNS ''_'' ,_, perhaps_RB based_VBN on_IN page_NN location_NN within_IN the_DT web_NN site_NN directory_NN structure_NN or_CC on_IN keywords_NNS appearing_VBG in_IN the_DT URL_NN ._.
+A_DT transition_NN

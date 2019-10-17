@@ -1,0 +1,3 @@
+pseudo-labeled_JJ data_NNS are_VBP utilized_VBN in_IN the_DT next_JJ iteration_NN for_IN training_VBG a_DT second_JJ classifier_NN ._.
+This_DT is_VBZ broadly_RB the_DT strategy_NN adopted_VBN by_IN approaches_NNS like_IN SelfNovember_NNP 21_CD ,_, 2007_CD DRAFT_NN 5straining_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, ASSEMBLE_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Semi-supervised_JJ MarginBoost_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+However_RB ,_, a_DT problem_NN with_IN this_DT strategy_NN is_VBZ that_IN the_DT introduction_NN of_IN examples_NNS with_IN predicted_VBN class_NN labels_NNS may_MD only_RB help_VB to_TO increase_VB the_DT classification_NN margin_NN ,_, witho_NN

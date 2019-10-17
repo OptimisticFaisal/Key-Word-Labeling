@@ -1,0 +1,4 @@
+labeled_VBN and_CC unlabeled_JJ data_NNS come_VBP from_IN different_JJ domains_NNS ._.
+There_EX are_VBP several_JJ reasons_NNS for_IN why_WRB it_PRP is_VBZ important_JJ to_TO consider_VB this_DT domain-transfer_JJ learning_NN problem_NN ,_, which_WDT is_VBZ an_DT instance_NN of_IN transfer_NN learning_NN =_JJ -_: =[_NN 27_CD ,_, 30_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+First_RB ,_, the_DT labeled_JJ information_NN is_VBZ often_RB scarce_JJ in_IN a_DT target_NN domain_NN ,_, while_IN a_DT lot_NN of_IN available_JJ labeled_JJ data_NNS may_MD exist_VB from_IN a_DT different_JJ but_CC related_JJ domain_NN ._.
+In_IN this_DT case_NN ,_, it_PRP would_MD be_VB desired_VBN to_TO make_VB maxi_NNS

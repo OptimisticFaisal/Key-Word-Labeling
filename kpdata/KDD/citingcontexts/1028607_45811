@@ -1,0 +1,5 @@
+on_IN between_IN the_DT classes_NNS is_VBZ equivalent_JJ to_TO the_DT minimization_NN of_IN kwk_NN 2_CD L_NN 2_CD with_IN the_DT additional_JJ constraints_NNS y_FW i_FW -LRB-_-LRB- !_.
+w_NN ;_: x_NN i_LS ?_.
++_CC b_LS -RRB-_-RRB- s1_NN to_TO ensure_VB that_IN all_PDT the_DT patterns_NNS in_IN the_DT training_NN set_NN are_VBP classified_VBN correctly_RB =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, in_IN most_JJS cases_NNS perfect_JJ separation_NN is_VBZ impossible_JJ and_CC we_PRP need_VBP to_TO trade_VB errors_NNS on_IN the_DT individual_JJ training_NN patterns_NNS for_IN the_DT maximum_NN margin_NN ._.
+The_DT optimization_NN problem_NN becomes_VBZ minw_NN ;_: bE_NN =_JJ minw_NN ;_: bf_NN 1_CD 2_CD

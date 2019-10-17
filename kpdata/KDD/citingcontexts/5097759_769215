@@ -1,0 +1,4 @@
+ditionally_RB ,_, we_PRP enable_VBP the_DT user_NN to_TO express_VB preferences_NNS independent_JJ of_IN the_DT data_NNS source_NN ._.
+Other_JJ work_NN has_VBZ focused_VBN on_IN learning_VBG the_DT parameters_NNS of_IN string_NN edit_NN distance_NN with_IN encouraging_JJ results_NNS ._.
+Zhu_NNP and_CC Unger_NNP =_SYM -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: apply_VB string_NN edit_NN distances_NNS to_TO the_DT task_NN of_IN merging_JJ database_NN records_NNS ._.
+They_PRP observe_VBP that_IN parameters_NNS can_MD not_RB be_VB optimized_VBN individually_RB due_JJ to_TO the_DT complex_JJ interaction_NN between_IN various_JJ edit_NN cost_NN weights_NNS on_IN

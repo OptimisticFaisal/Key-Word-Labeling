@@ -1,0 +1,3 @@
+IBLINEAR_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, supports_VBZ the_DT training_NN of_IN several_JJ SVM_NN classifiers_NNS ,_, including_VBG a_DT multi-class_JJ SVM_NN ._.
+The_DT multi-class_JJ classifier_NN implementation_NN in_IN LIBLINEAR_NN uses_VBZ a_DT variant_NN of_IN the_DT Sequential_JJ Dual_JJ Method_NN -LRB-_-LRB- SDM_NN -RRB-_-RRB- =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT performs_VBZ better_RBR on_IN large-scale_JJ classification_NN problems_NNS than_IN the_DT one-versus-all_JJ approach_NN ._.
+Large-scale_JJ problems_NNS include_VBP those_DT that_WDT have_VBP numerous_JJ instances_NNS and\/or_CC distinct_JJ classes_NNS ,_, such_JJ as_IN the_DT on_IN

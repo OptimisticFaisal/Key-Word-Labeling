@@ -1,0 +1,5 @@
+does_VBZ Y_NN ._.
+A_DT well-known_JJ application_NN of_IN association_NN rules_NNS is_VBZ in_IN market_NN basket_NN data_NN analysis_NN ._.
+The_DT problem_NN of_IN mining_NN association_NN rules_NNS was_VBD first_RB introduced_VBN by_IN Agrawal_NNP et_FW al._FW in_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, and_CC later_RB broadened_VBN in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT papers_NNS related_VBN to_TO the_DT case_NN of_IN databases_NNS consisting_VBG of_IN categorical_JJ attributes_NNS only_RB -LRB-_-LRB- a_DT categorical_JJ attribute_NN is_VBZ one_CD which_WDT contains_VBZ discrete_JJ ,_, and_CC typically_RB unordered_JJ ,_, data_NNS -RRB-_-RRB- ._.
+Thus_RB the_DT events_NNS X_NN and_CC

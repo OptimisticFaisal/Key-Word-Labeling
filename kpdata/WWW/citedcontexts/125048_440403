@@ -1,0 +1,4 @@
+pects_NNS ,_, we_PRP briefly_RB draw_VBP together_RB some_DT work_NN in_IN the_DT Semantic_JJ Web_NN field_NN relating_VBG to_TO security_NN and_CC trust_NN ._.
+3.3.2_CD Semantic_JJ Web_NN vocabularies_NNS for_IN security_NN and_CC trust_NN The_DT Semantic_JJ Web_NN Publishing_NN Vocabulary_NN -LRB-_-LRB- SWP_NN -RRB-_-RRB- =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ intended_VBN for_IN expressing_VBG provenance_NN meta-information_NN about_IN RDF_NNP graphs_NNS ._.
+SWP_NNP provides_VBZ terms_NNS to_TO indicate_VB whether_IN a_DT graph_NN is_VBZ asserted_VBN or_CC quoted_VBN and_CC to_TO attach_VB digital_JJ signatures_NNS to_TO it_PRP ._.
+The_DT WOT_NNP ,_, or_CC Web_NN O_NN

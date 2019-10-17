@@ -1,0 +1,4 @@
+on_IN an_DT individual_JJ page_NN using_VBG only_RB information_NN local_JJ to_TO the_DT webpage_NN ._.
+Site-level_FW Template_FW Detection_NN ._.
+The_DT problem_NN of_IN extracting_VBG templates_NNS from_IN web_NN pages_NNS was_VBD first_RB introduced_VBN by_IN Bar-Yossef_NN and_CC Rajagopalan_NN =_JJ -_: =_JJ -LRB-_-LRB- BYR02_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP propose_VBP a_DT technique_NN based_VBN on_IN segmentation_NN of_IN the_DT DOM_NNP tree_NN and_CC selection_NN of_IN certain_JJ key_JJ nodes_NNS using_VBG properties_NNS of_IN the_DT content_NN of_IN the_DT node_NN -LRB-_-LRB- such_JJ as_IN 19sthe_NN number_NN of_IN links_NNS within_IN the_DT node_NN -RRB-_-RRB- as_IN cand_NN

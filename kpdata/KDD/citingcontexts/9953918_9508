@@ -1,0 +1,5 @@
+ethod_NN ._.
+Better_NNP yet_RB ,_, we_PRP adapt_VBP a_DT multiplicative_JJ recurrence_NN proposed_VBN 2_CD Depending_VBG on_IN the_DT approach_NN to_TO generating_VBG training_NN examples_NNS -LRB-_-LRB- xi_FW ,_, yi_FW -RRB-_-RRB- ,_, one_CD user_NN could_MD contribute_VB to_TO multiple_JJ examples_NNS ._.
+by_IN Lee_NNP and_CC Seung_NNP =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: to_TO our_PRP$ optimization_NN problem_NN by_IN constraining_VBG w_NN ≥_NN 0_CD ._.
+The_DT multiplicative_JJ update_VBP rule_NN is_VBZ :_: P_NN w_FW ′_FW j_FW ←_FW wj_FW yi_FW i_FW xij_FW λi_FW P_NN i_FW xij_FW ,_, where_WRB λi_NN =_JJ w_FW ⊤_FW xi_FW ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- The_DT assumption_NN of_IN non-negative_JJ weights_NNS is_VBZ intuitive_JJ in_IN

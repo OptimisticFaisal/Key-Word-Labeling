@@ -1,0 +1,4 @@
+labeled_VBN and_CC unlabeled_JJ data_NNS ._.
+They_PRP evaluate_VBP the_DT method_NN using_VBG SVM_NN classifiers_NNS on_IN Reuters-21578_NN ,_, 20Newsgroups_NN ,_, and_CC WebKB_FW corpora_FW ,_, and_CC find_VB significant_JJ improvements_NNS in_IN their_PRP$ classification_NN performance_NN ._.
+In_IN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT technique_NN presented_VBN above_IN is_VBZ combined_VBN with_IN co-training_NN ._.
+The_DT algorithm_NN trains_VBZ two_CD predictors_NNS in_IN parallel_NN ,_, with_IN one_CD predictor_NN labeling_VBG the_DT unlabeled_JJ data_NNS for_IN training_VBG the_DT other_JJ in_FW thesnext_FW round_NN ._.

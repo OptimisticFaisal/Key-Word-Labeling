@@ -1,0 +1,8 @@
+rcraft_NN ._.
+The_DT attributes_NNS describe_VBP the_DT status_NN of_IN the_DT aeroplane_NN ,_, while_IN the_DT goal_NN is_VBZ to_TO predict_VB the_DT control_NN action_NN on_IN the_DT ailerons_NNS of_IN the_DT aircraft_NN ._.
+The_DT data_NN is_VBZ obtained_VBN from_IN trial_NN runs_VBZ in_IN a_DT ight_JJ simulator_NN -LRB-_-LRB- =_JJ -_: =_JJ Camacho_NNP ,_, 2000_CD -_: =--RRB-_NN ._.
+3_LS ._.
+ailerons2_NN :_: A_DT di_FW erent_FW model_NN and_CC a_DT di_FW erent_FW set_NN of_IN attributes_NNS for_IN the_DT same_JJ application_NN as_IN ailerons_NNS ._.
+4_LS ._.
+census16_NN :_: This_DT dataset_NN uses_VBZ data_NNS from_IN the_DT o_NN cial_JJ 1990_CD US_NNP Census_NNP ._.
+The_DT objective_NN is_VBZ to_TO predict_VB

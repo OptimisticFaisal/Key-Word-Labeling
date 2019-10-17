@@ -1,0 +1,6 @@
+change_NN with_IN the_DT passage_NN of_IN time_NN ,_, new_JJ labeling_NN is_VBZ constantly_RB required_VBN ._.
+Consequently_RB ,_, there_EX is_VBZ never_RB enough_JJ training_NN data_NNS ._.
+Moreover_RB ,_, there_EX is_VBZ often_RB inconsistency_NN in_IN the_DT labels_NNS assigned_VBN even_RB by_IN experts_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN our_PRP$ study_NN ,_, we_PRP extract_VBP training_NN data_NNS by_IN mining_NN toolbar_NN and_CC click_VB logs_NNS ._.
+We_PRP collect_VBP queries_NNS posed_VBN to_TO commerce-focused_JJ portals_NNS -LRB-_-LRB- Amazon_NNP ,_, Craigslist_NNP -RRB-_-RRB- as_IN the_DT source_NN of_IN positive_JJ examples_NNS ._.
+We_PRP also_RB mine_VBP ne_NN

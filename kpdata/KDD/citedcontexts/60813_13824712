@@ -1,0 +1,4 @@
+nstraints_NNS to_TO adjust_VB Euclidean_JJ distance_NN by_IN shortest-path_JJ algorithm_NN ._.
+Xing_NN and_CC collaborators_NNS -LRB-_-LRB- 32_CD -RRB-_-RRB- attempted_VBD to_TO learn_VB Mahalanobis_NNP distance_NN using_VBG convex_NN optimization_NN ._.
+The_DT HMRF-KMeans_JJ algorithm_NN proposed_VBN in_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: combines_NNS both_CC constraint_NN satisfaction_NN and_CC metric_JJ learning_NN into_IN a_DT single_JJ probabilistic_JJ framework_NN ._.
+MPCK-Means_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- learns_VBZ an_DT individual_JJ metric_NN for_IN each_DT cluster_NN and_CC allows_VBZ violation_NN of_IN constraints_NNS by_IN imp_NN

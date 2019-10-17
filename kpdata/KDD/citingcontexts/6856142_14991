@@ -1,0 +1,4 @@
+earner_RB achieve_VB better_JJR weighted_JJ accuracy_NN than_IN that_DT attainable_JJ by_IN assigning_VBG all_DT examples_NNS to_TO the_DT negative_JJ class_NN ,_, as_IN we_PRP mentioned_VBD earlier_RBR ._.
+4_LS ._.
+EXPERIMENTAL_JJ EVALUATION_NN We_PRP use_VBP the_DT C4_NN .5_CD decision_NN tree_NN learner_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: as_IN the_DT base_NN classifier_NN learning_NN method_NN ,_, because_IN it_PRP is_VBZ a_DT standard_NN for_IN empirical_JJ comparisons_NNS and_CC it_PRP was_VBD used_VBN as_IN the_DT base_NN learner_NN by_IN Domingos_NNP for_IN the_DT MetaCost_NNP method_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+We_PRP compare_VBP our_PRP$ methods_NNS against_IN

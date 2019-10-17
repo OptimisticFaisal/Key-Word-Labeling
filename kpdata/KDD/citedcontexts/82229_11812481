@@ -1,0 +1,6 @@
+me_PRP axis_NN after_IN normalization_NN ._.
+Normalization_NN of_IN the_DT time_NN series_NN is_VBZ required_VBN to_TO remove_VB offset_VBN and_CC scaling_VBG effects_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+It_PRP has_VBZ been_VBN shown_VBN that_IN comparing_VBG time_NN series_NN that_WDT are_VBP not_RB normalized_VBN is_VBZ meaningless_JJ =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+After_IN normalization_NN the_DT series_NN are_VBP very_RB similar_JJ but_CC not_RB exactly_RB equal_JJ ._.
+The_DT aim_NN of_IN this_DT work_NN is_VBZ to_TO find_VB frequent_JJ patterns_NNS but_CC still_RB be_VB able_JJ to_TO handle_VB noise_NN and_CC other_JJ distortions_NNS in_IN the_DT time_NN series_NN ._.
+K_NN

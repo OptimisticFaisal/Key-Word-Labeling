@@ -1,0 +1,4 @@
+d_NN was_VBD Thorsten_NNP Joachim_NNP 's_POS svm_NN light_NN ._.
+This_DT SVM_NN package_NN was_VBD selected_VBN because_IN it_PRP provides_VBZ the_DT ability_NN both_DT to_TO classify_VB examples_NNS using_VBG traditional_JJ SVMs_NNS and_CC to_TO rank_VB examples_NNS using_VBG pairwise_JJ rank_NN constraints_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT is_VBZ important_JJ in_IN our_PRP$ case_NN because_IN it_PRP provided_VBD a_DT way_NN to_TO require_VB that_IN at_IN least_JJS one_CD sentence_NN per_IN review_NN be_VB output_NN ._.
+It_PRP also_RB allowed_VBD us_PRP to_TO return_VB a_DT sentence_NN that_WDT might_MD not_RB have_VB been_VBN considered_VBN ``_`` good_JJ ''_''

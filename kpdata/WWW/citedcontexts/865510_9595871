@@ -1,0 +1,4 @@
+he_PRP well-formed_JJ representation_NN This_NNP is_VBZ <b>_RB bold_JJ ,_, <i>_JJ bold_JJ italic_NN ,_, </i>_FW </b>_FW <i>_FW italic_JJ ,_, </i>_JJ normal_JJ text_NN ._.
+Based_VBN on_IN the_DT HTML_NNP source_NN ,_, we_PRP have_VBP implemented_VBN a_DT DOM-based_JJ template_NN detection_NN method_NN as_IN described_VBN in_IN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN order_NN to_TO allow_VB Porpoise_NNP to_TO use_VB other_JJ template_NN detection_NN algorithms_NNS ,_, custom_NN implementations_NNS can_MD easily_RB be_VB integrated_VBN ._.
+By_IN setting_VBG the_DT configuration_NN variable_JJ to_TO the_DT fully_RB qualified_VBN class_NN name_NN of_IN the_DT

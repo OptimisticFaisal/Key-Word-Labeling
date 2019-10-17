@@ -1,0 +1,4 @@
+d_NN to_TO be_VB NP-complete_JJ -LRB-_-LRB- Garey_NNP and_CC Johnson_NNP 1979_CD -RRB-_-RRB- -LRB-_-LRB- 36_CD -RRB-_-RRB- ._.
+However_RB ,_, quite_RB a_DT few_JJ heuristics_NNS have_VBP been_VBN proposed_VBN to_TO face_VB this_DT problem_NN with_IN the_DT most_RBS prominent_JJ such_JJ approaches_NNS being_VBG the_DT gSpan_NN -LRB-_-LRB- 37_CD -RRB-_-RRB- ,_, the_DT CloseGraph_NN =_JJ -_: =[_NN 38_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT ADI_NN -LRB-_-LRB- 39_CD -RRB-_-RRB- ._.
+Any_DT of_IN the_DT above_JJ approaches_NNS can_MD be_VB utilized_VBN for_IN extracting_VBG the_DT hypertext_NN configurations_NNS ._.
+Likewise_RB ,_, employing_VBG the_DT same_JJ graph_NN mining_NN techniques_NNS ,_, we_PRP traverse_VBP the_DT second_JJ set_NN of_IN graphs_NNS i_FW

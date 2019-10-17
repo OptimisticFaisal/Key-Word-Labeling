@@ -1,0 +1,5 @@
+n_NN proposed_VBN to_TO handle_VB the_DT problem_NN of_IN concept_NN change_NN in_IN data_NNS streams_NNS ._.
+Some_DT representative_JJ ones_NNS are_VBP introduced_VBN here_RB ._.
+A._NN Single_JJ multi-class_JJ classifier_NN The_DT concept-adapting_NN very_RB fast_JJ decision_NN tree_NN -LRB-_-LRB- CVFDT_NN -RRB-_-RRB- =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT well-known_JJ classifier_NN that_WDT achieves_VBZ efficient_JJ classification_NN in_IN streaming_NN data_NNS ._.
+It_PRP starts_VBZ with_IN a_DT single_JJ leaf_NN and_CC starts_VBZ collecting_VBG labeled_JJ instances_NNS from_IN a_DT data_NN stream_NN ._.
+When_WRB it_PRP has_VBZ enough_JJ data_NNS t_NN

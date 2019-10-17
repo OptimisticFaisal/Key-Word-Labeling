@@ -1,0 +1,4 @@
+ds_JJ are_VBP more_RBR likely_JJ to_TO become_VB cheaters_NNS themselves_PRP ._.
+To_TO understand_VB if_IN the_DT number_NN of_IN cheater_NN friends_NNS has_VBZ any_DT predictive_JJ power_NN on_IN the_DT state_NN of_IN a_DT player_NN ,_, we_PRP used_VBD the_DT framework_NN developed_VBN by_IN Backstrom_NNP et_FW al._FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP first_RB created_VBD a_DT dataset_NN of_IN fair_JJ players_NNS with_IN at_IN least_JJS one_CD cheater_NN friend_NN at_IN the_DT time_NN of_IN our_PRP$ first_JJ crawl_NN ._.
+We_PRP then_RB labeled_VBD the_DT players_NNS from_IN this_DT set_NN who_WP were_VBD marked_VBN as_IN cheaters_NNS by_IN the_DT time_NN of_IN our_PRP$ s_NN

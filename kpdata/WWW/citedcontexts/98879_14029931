@@ -1,0 +1,4 @@
+d_NN using_VBG cross_NN validation_NN ._.
+2.2.2_CD Nearest_NNP Neighbor_NNP Approaches_NNPS -LRB-_-LRB- Item_NN Similarity_NN -RRB-_-RRB- Another_DT content-based_JJ approach_NN that_WDT has_VBZ been_VBN used_VBN is_VBZ based_VBN on_IN a_DT nearest_JJS neighbor_NN approach_NN or_CC nearest_JJS k-neighbors_NNS approach_NN =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN these_DT methods_NNS ,_, we_PRP calculate_VBP the_DT similarity_NN of_IN a_DT previously_RB rated_VBN item_NN to_TO the_DT item_NN in_IN question_NN and_CC then_RB take_VB a_DT weighted_JJ -LRB-_-LRB- by_IN the_DT similarity_NN -RRB-_-RRB- average_NN of_IN the_DT ratings_NNS in_IN the_DT training_NN data_NNS ._.
+There_EX are_VBP s_NNS

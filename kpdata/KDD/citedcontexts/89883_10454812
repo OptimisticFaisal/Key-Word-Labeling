@@ -1,0 +1,4 @@
+sets_NNS are_VBP called_VBN closed_JJ itemsets_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+There_EX are_VBP a_DT number_NN of_IN closed_JJ itemset_NN discovery_NN algorithms_NNS for_IN closed_JJ itemsets_NNS -LRB-_-LRB- 4_CD ,_, 9_CD -RRB-_-RRB- ,_, while_IN only_RB a_DT few_JJ algorithms_NNS are_VBP known_VBN for_IN closed_JJ sequences_NNS and_CC closed_JJ trees_NNS =_JJ -_: =[_NN 2_CD ,_, 14_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP extend_VBP the_DT ppc-extension_NN ,_, which_WDT is_VBZ originally_RB introduced_VBN for_IN closed_JJ itemsets_NNS ,_, for_IN maixmal_JJ sequences_NNS ._.
+Thus_RB ,_, the_DT result_NN of_IN this_DT paper_NN will_MD be_VB a_DT first_JJ step_NN towards_IN efficient_JJ enumeration_NN of_IN maximal_JJ p_NN

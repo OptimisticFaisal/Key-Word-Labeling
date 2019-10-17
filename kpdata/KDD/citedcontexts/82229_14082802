@@ -1,0 +1,4 @@
+rameters_NNS to_TO be_VB set_VBN ,_, and_CC MDL_NN can_MD specify_VB the_DT model_NN ,_, cardinality_NN and_CC dimensionality_NN ,_, whereas_IN other_JJ methods_NNS typically_RB only_RB consider_VB model_NN and\/or_CC dimensionality_NN ._.
+To_TO eliminate_VB the_DT possibility_NN of_IN data_NNS bias_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: we_PRP consider_VBP a_DT ten_CD year-old_JJ instantiation_NN -LRB-_-LRB- 32_CD -RRB-_-RRB- of_IN a_DT classic_JJ benchmark_NN problem_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+In_IN Figure_NNP 7_CD we_PRP show_VBP the_DT classic_JJ DonohoJohnstone_NN block_NN benchmark_NN ._.
+The_DT underlying_JJ model_NN used_VBN to_TO produce_VB it_PRP is_VBZ a_DT twelve_CD

@@ -1,0 +1,5 @@
+sholds_NNS at_IN which_WDT an_DT example_NN 's_POS relabeling_VBG changes_NNS from_IN one_CD class_NN to_TO another_DT -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+The_DT current_JJ version_NN of_IN MetaCost_NNP is_VBZ based_VBN on_IN bagging_NN ._.
+An_DT alternative_JJ method_NN for_IN constructing_VBG model_NN ensembles_NNS is_VBZ boosting_VBG =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Boosting_VBG often_RB achieves_VBZ lower_JJR error_NN rates_NNS than_IN bagging_NN ,_, and_CC using_VBG it_PRP in_IN MetaCost_NNP might_MD produce_VB corresponding_JJ reductions_NNS in_IN cost_NN ._.
+6_CD Conclusion_NN KDD_NN applications_NNS have_VBP often_RB been_VBN hindered_VBN by_IN the_DT lack_NN of_IN

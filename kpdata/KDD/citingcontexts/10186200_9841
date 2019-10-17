@@ -1,0 +1,3 @@
+=_JJ ezik_FW ′_FW ezk_FW ′_FW j_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ezij_JJ k_NN =_JJ 1_CD for_IN k_NN ′_FW ̸_FW =_JJ j._NN The_DT variables_NNS ezik_FW ′_FW and_CC ezk_FW ′_FW j_NN are_VBP therefore_RB similar_JJ to_TO the_DT forward\/backward_NN variables_NNS when_WRB estimating_VBG transition_NN probabilities_NNS in_IN a_DT hidden_JJ Markov_NNP model_NN =_JJ -_: =[_NN 49_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT difference_NN here_RB is_VBZ that_IN we_PRP are_VBP dealing_VBG with_IN general_JJ graphs_NNS and_CC not_RB with_IN acyclic_JJ graphs_NNS -LRB-_-LRB- lattices_NNS -RRB-_-RRB- ,_, as_IN in_IN hidden_JJ Markov_NNP models_NNS ._.
+As_IN stated_VBN earlier_RBR ,_, the_DT directed_JJ dissimilarity_NN between_IN node_NN i_FW and_CC no_DT

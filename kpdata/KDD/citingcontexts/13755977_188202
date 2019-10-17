@@ -1,0 +1,3 @@
+classifier_NN to_TO classify_VB network-only_JJ data_NNS by_IN iteratively_RB assigning_VBG an_DT object_NN to_TO the_DT majority_NN class_NN of_IN its_PRP$ neighbors_NNS ._.
+This_DT idea_NN is_VBZ similar_JJ to_TO the_DT label_NN propagation_NN scheme_NN in_IN graph-based_JJ classification_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, existing_VBG algorithms_NNS mainly_RB work_VBP on_IN homogeneous_JJ networks_NNS and_CC graphs_NNS ,_, and_CC therefore_RB can_MD not_RB easily_RB distinguish_VB between_IN the_DT type_NN differences_NNS among_IN objects_NNS in_IN a_DT heterogeneous_JJ information_NN network_NN

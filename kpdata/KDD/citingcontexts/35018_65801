@@ -1,0 +1,3 @@
+points_NNS to_TO define_VB a_DT cluster_NN ._.
+They_PRP also_RB used_VBD a_DT sampling_NN scheme_NN to_TO reduce_VB I\/O_NN costs_NNS ._.
+Recognizing_VBG that_IN most_JJS clusters_NNS are_VBP defined_VBN on_IN subspaces_NNS rather_RB than_IN the_DT entire_JJ high-dimensional_JJ space_NN ,_, Agrawal_NNP et_FW al._FW =_SYM -_: =_JJ -LRB-_-LRB- AGGR98_NN -RRB-_-RRB- -_: =_SYM -_: presented_VBD a_DT method_NN to_TO build_VB subspace_NN clusters_NNS in_IN a_DT bottom-up_JJ way_NN ,_, using_VBG the_DT property_NN that_IN if_IN a_DT collection_NN of_IN points_NNS form_VBP a_DT cluster_NN in_IN a_DT k-dimensional_JJ space_NN ,_, they_PRP must_MD also_RB form_VB a_DT cluster_NN in_IN all_DT of_IN it_PRP

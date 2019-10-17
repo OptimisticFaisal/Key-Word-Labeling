@@ -1,0 +1,4 @@
+sks_NNS ._.
+For_IN example_NN Amento_NNP et_FW al._FW -LRB-_-LRB- 1_LS -RRB-_-RRB- found_VBD that_IN simple_JJ features_NNS ,_, such_JJ as_IN the_DT number_NN of_IN pages_NNS on_IN a_DT site_NN ,_, performed_VBD as_RB well_RB as_IN PageRank_NNP ._.
+We_PRP will_MD introduce_VB and_CC discuss_VB two_CD solutions_NNS ,_, RankNet_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC fRank_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT follow_VBP a_DT line_NN of_IN research_NN completely_RB different_JJ from_IN PageRank_NNP ,_, Hits_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- or_CC other_JJ similar_JJ ranking_NN algorithms_NNS which_WDT are_VBP based_VBN on_IN link_NN analysis_NN ._.
+In_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- Burges_NNP et_FW al._FW proposed_VBN RankNet_NNP ,_, a_DT probabilis_NN

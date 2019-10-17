@@ -1,0 +1,4 @@
+eir_NN minimum_NN at_IN any_DT rule_NN whose_WP$ confidence_NN is_VBZ equal_JJ to_TO the_DT ``_`` expected_JJ ''_'' confidence_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+More_RBR formally_RB ,_, is_VBZ minimum_JJ when_WRB where_WRB and_CC ._.
+To_TO prove_VB our_PRP$ claims_NNS ,_, we_PRP exploit_VBP two_CD properties_NNS of_IN convex_NN functions_NNS from_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- Convexity_NN of_IN a_DT function_NN implies_VBZ that_IN for_IN an_DT arbitrary_JJ dividing_VBG point_NN of_IN the_DT line_NN segment_NN between_IN two_CD points_NNS and_CC ,_, we_PRP have_VBP ._.
+4_CD ≤_CD t_NN f_LS -LRB-_-LRB- -RRB-_-RRB- r_NN ≤_NN s_VBZ ¬_CD c_NN f_LS -LRB-_-LRB- -RRB-_-RRB- r_NN f_LS -LRB-_-LRB- -RRB-_-RRB- r_NN f_LS -LRB-_-LRB- x_NN ,_, y_NN -RRB-_-RRB- x_NN =_JJ sup_NN -LRB-_-LRB- A_NN -RRB-_-RRB- --_: sup_NN -LRB-_-LRB- A_NN ∪_NN C_NN -RRB-_-RRB- y_NN =_JJ s_NN

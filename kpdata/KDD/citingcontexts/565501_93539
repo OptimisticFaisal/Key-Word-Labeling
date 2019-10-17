@@ -1,0 +1,3 @@
+le-valued_JJ fitness_NN measure_NN are_VBP readily_RB usable_JJ ,_, the_DT population_NN based_JJ search_NN process_NN also_RB presents_VBZ effective_JJ mechanisms_NNS for_IN searching_VBG along_IN multiple_JJ objectives_NNS in_IN parallel_NN ._.
+In_IN the_DT vector-evaluated_JJ GA_NN of_IN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_JJ -_: ,_, sub-populations_NNS are_VBP selected_VBN separately_RB based_VBN on_IN fitness_NN along_IN each_DT of_IN the_DT different_JJ objectives_NNS ;_: reproduction_NN operators_NNS are_VBP then_RB applied_VBN after_IN shuffling_NN all_PDT these_DT sub-populations_NNS ._.
+Such_JJ shuffling_NN is_VBZ ,_,

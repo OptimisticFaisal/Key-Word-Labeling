@@ -1,0 +1,6 @@
+g_NN result_NN ,_, we_PRP ran_VBD each_DT clustering_NN algorithm_NN with_IN both_CC the_DT cosine_NN similarity_NN and_CC the_DT Euclidean_JJ distance_NN measures_NNS ._.
+Entropy_NNP is_VBZ often_RB used_VBN to_TO evaluate_VB clusters_NNS created_VBN by_IN partitional_JJ clustering_NN algorithms_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Let_VB the_DT correct_JJ classification_NN of_IN documents_NNS be_VB C1_NN ..._: Ck_NN ,_, where_WRB each_DT Ci_NNP is_VBZ a_DT class_NN ._.
+This_DT is_VBZ typically_RB produced_VBN by_IN expert_NN opinion_NN ._.
+Next_RB ,_, let_VB C_NN Cl_NN ~_FW ~_FW 1_CD ..._: denotes_VBZ the_DT clusters_NNS ._.
+In_IN a_DT flat_JJ document_NN cluste_NN

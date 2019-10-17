@@ -1,0 +1,4 @@
+s_NNS using_VBG genetic_JJ programming_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+Another_DT approach_NN to_TO CA_NNP is_VBZ to_TO reduce_VB it_PRP to_TO the_DT problem_NN of_IN sponsored_VBN search_NN by_IN extracting_VBG phrases_NNS from_IN a_DT Web_NN page_NN and_CC matching_VBG them_PRP with_IN the_DT bid_NN phrases_NNS of_IN each_DT ad_NN ._.
+In_IN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT system_NN for_IN phrase_NN extraction_NN is_VBZ proposed_VBN ,_, which_WDT uses_VBZ a_DT variety_NN of_IN features_NNS to_TO determine_VB the_DT importance_NN of_IN page_NN phrases_NNS for_IN advertising_NN purposes_NNS ._.
+The_DT system_NN is_VBZ trained_VBN with_IN pages_NNS that_WDT have_VBP been_VBN ann_NN

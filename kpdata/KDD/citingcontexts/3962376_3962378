@@ -1,0 +1,4 @@
+ditional_JJ item_NN sets_NNS have_VBP to_TO be_VB considered_VBN but_CC this_DT process_NN adds_VBZ very_RB little_JJ work_NN to_TO the_DT CMS_NNP algorithm_NN ._.
+It_PRP can_MD be_VB shown_VBN that_IN CMS-ARM_NN has_VBZ a_DT performance_NN that_WDT comes_VBZ close_RB to_TO the_DT Oracle_NNP method_NN described_VBN in_IN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT Oracle_NNP is_VBZ defined_VBN as_IN an_DT algorithm_NN ,_, in_IN which_WDT it_PRP is_VBZ already_RB known_VBN which_WDT itemsets_NNS will_MD be_VB frequent_JJ and_CC the_DT only_JJ processing_NN needed_VBN is_VBZ to_TO count_VB them_PRP ._.
+To_TO see_VB how_WRB far_RB CMS_NNP is_VBZ from_IN the_DT ideal_JJ Oracle_NNP algori_NNS

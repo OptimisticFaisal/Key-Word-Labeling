@@ -1,0 +1,4 @@
+cy_NN -RRB-_-RRB- non-content-bearing_JJ words_NNS ,_, we_PRP represented_VBD the_DT text_NN data_NNS set_VBN as_IN a_DT vector_NN space_NN model_NN ,_, that_DT is_VBZ ,_, we_PRP represented_VBD each_DT problem_NN ticket_NN as_IN a_DT vector_NN of_IN certain_JJ weighted_JJ frequencies_NNS of_IN the_DT remaining_VBG words_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP used_VBD the_DT Ixn_NNP weighting_NN scheme_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+This_DT scheme_NN emphasizes_VBZ words_NNS with_IN high_JJ frequency_NN in_IN a_DT document_NN ,_, and_CC normalizes_VBZ each_DT document_NN vector_NN to_TO have_VB unit_NN Euclidean_JJ norm_NN ._.
+For_IN example_NN ,_, if_IN a_DT document_NN were_VBD

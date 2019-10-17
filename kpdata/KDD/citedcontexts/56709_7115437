@@ -1,0 +1,4 @@
+Many_JJ dimensionality_NN reduction_NN methods_NNS have_VBP been_VBN proposed_VBN to_TO transform_VB high_JJ dimensional_JJ data_NNS to_TO low_JJ dimensional_JJ data_NNS such_JJ that_IN the_DT information_NN of_IN high_JJ dimensional_JJ data_NNS is_VBZ kept_VBN as_RB much_JJ as_IN possible_JJ -LRB-_-LRB- see_VB =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: for_IN a_DT review_NN -RRB-_-RRB- ._.
+The_DT approach_NN of_IN dimensionality_NN reduction_NN can_MD be_VB supervised_VBN or_CC unsupervised_JJ ._.
+Supervised_VBN approach_NN means_VBZ we_PRP know_VBP the_DT class_NN label_NN of_IN data_NNS beforehand_RB ._.
+Linear_JJ discriminant_JJ analysis_NN -LRB-_-LRB- LDA_NN -RRB-_-RRB- is_VBZ

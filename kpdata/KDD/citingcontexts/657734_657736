@@ -1,0 +1,5 @@
+representations_NNS for_IN the_DT compressed_VBN format_NN ._.
+Such_JJ representations_NNS allow_VBP database_NN applications_NNS such_JJ as_IN indexing_NN to_TO operate_VB directly_RB on_IN the_DT reduced_VBN representations_NNS without_IN a_DT first_JJ phase_NN of_IN reconstruction_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT work_NN in_IN -LRB-_-LRB- 8_CD ,_, 13_CD -RRB-_-RRB- adopts_VBZ this_DT approach_NN for_IN similarity-based_JJ image_NN retrieval_NN ._.
+However_RB ,_, traditional_JJ PCA_NNP is_VBZ applicable_JJ only_RB for_IN data_NNS in_IN vectorized_JJ representation_NN ._.
+When_WRB raw_JJ data_NNS -LRB-_-LRB- say_VBP an_DT image_NN -RRB-_-RRB- is_VBZ repr_NN

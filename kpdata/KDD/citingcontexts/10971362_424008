@@ -1,0 +1,5 @@
+nced_JJ training_NN set_NN avoids_VBZ bias_NN towards_IN the_DT majority_NN class_NN as_RB well_RB as_IN improves_VBZ recall_NN on_IN the_DT minority_NN class_NN ._.
+Other_JJ techniques_NNS to_TO handle_VB the_DT class_NN imbalance_NN issue_NN are_VBP also_RB applicable_JJ ,_, including_VBG sampling_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: and_CC ensemble_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+But_CC it_PRP is_VBZ beyond_IN the_DT scope_NN of_IN this_DT paper_NN ._.
+5_CD ._.
+EXPERIMENTS_NNS AND_CC CASE_NN STUDIES_NNS To_TO validate_VB the_DT utility_NN of_IN our_PRP$ proposed_VBN classifier_NN ,_, we_PRP performed_VBD a_DT set_NN of_IN controlled_JJ experiments_NNS on_IN simula_NN

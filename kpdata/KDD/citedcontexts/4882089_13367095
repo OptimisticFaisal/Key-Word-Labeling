@@ -1,0 +1,5 @@
+of_IN temporal_JJ patterns_NNS and_CC their_PRP$ visualization_NN ._.
+Mörchen_NNP 's_POS research_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- shows_VBZ several_JJ unsupervised_JJ learning_NN techniques_NNS for_IN discovery_NN of_IN temporal_JJ patterns_NNS using_VBG symbolic_JJ temporal_JJ data_NNS ._.
+Laxman_NNP and_CC et_FW al._FW =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: introduce_VB an_DT algorithm_NN find_VBP frequent_JJ episodes_NNS in_IN event_NN streams_NNS ._.
+This_DT approach_NN counts_VBZ the_DT number_NN of_IN frequency_NN based_VBN on_IN non-overlapped_JJ occurrences_NNS of_IN the_DT episodes_NNS ._.
+Allen_NNP and_CC et_FW al._FW -LRB-_-LRB- 1_LS -RRB-_-RRB- formalized_VBN tempo_NN

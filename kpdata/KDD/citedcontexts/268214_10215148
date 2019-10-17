@@ -1,0 +1,4 @@
+mples_NNS ._.
+We_PRP currently_RB use_VBP the_DT full_JJ page_NN as_IN the_DT context_NN when_WRB calculating_VBG the_DT scores_NNS in_IN our_PRP$ linkrank_NN algorithm_NN ._.
+Smaller_JJR contexts_NNS such_JJ as_IN paragraphs_NNS ,_, lists_NNS ,_, or_CC tables_NNS have_VBP been_VBN used_VBN successfully_RB by_IN others_NNS =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP have_VBP built_VBN a_DT system_NN based_VBN on_IN the_DT above_JJ principles_NNS ,_, where_WRB candidate_NN pages_NNS are_VBP ranked_VBN by_IN combining_VBG three_CD different_JJ scores_NNS :_: a_DT linkrank_JJ score_NN ,_, a_DT category_NN score_NN ,_, and_CC the_DT initial_JJ search_NN engine_NN similari_NN

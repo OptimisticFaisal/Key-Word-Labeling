@@ -1,0 +1,4 @@
+owever_RB ,_, their_PRP$ methods_NNS mainly_RB use_VBP standard_JJ IR_NN models_NNS -LRB-_-LRB- 6_CD ,_, 23_CD -RRB-_-RRB- or_CC other_JJ similarity-based_JJ functions_NNS -LRB-_-LRB- 36_CD -RRB-_-RRB- to_TO score_VB candidate_NN news_NN ._.
+Prior_JJ work_NN has_VBZ not_RB studied_VBN how_WRB to_TO characterize_VB relatedness_NN ._.
+A_DT recent_JJ work_NN =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: focused_VBN on_IN connecting_VBG two_CD news_NN stories_NNS in_IN two_CD different_JJ time_NN points_NNS through_IN finding_VBG a_DT set_NN of_IN coherent_JJ stories_NNS in_IN the_DT middle_NN ._.
+Their_PRP$ objective_JJ function_NN is_VBZ maximizing_VBG the_DT coherence_NN of_IN the_DT whole_JJ story_NN ch_NN

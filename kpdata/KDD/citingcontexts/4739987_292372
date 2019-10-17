@@ -1,0 +1,4 @@
+d_NN boosted_VBD decision_NN trees_NNS ._.
+In_IN this_DT domain_NN ,_, there_EX is_VBZ an_DT issue_NN of_IN unequal_JJ but_CC unknown_JJ costs_NNS of_IN misclassification_NN error_NN ,_, so_IN we_PRP evaluated_VBD the_DT methods_NNS using_VBG receiver_NN operating_NN characteristic_NN -LRB-_-LRB- roc_NN -RRB-_-RRB- analysis_NN =_JJ -_: =[_NN 40_CD -RRB-_-RRB- -_: =_JJ -_: ,_, using_VBG area_NN under_IN the_DT roc_NN curve_NN as_IN the_DT performance_NN metric_NN ._.
+Ultimately_RB ,_, boosted_VBD decision_NN trees_NNS outperformed_VBD all_DT other_JJ methods_NNS with_IN an_DT area_NN under_IN the_DT curve_NN of_IN 0.996_CD ._.
+We_PRP delivered_VBD mecs_NNS to_TO the_DT mitre_JJ Corp_NNP

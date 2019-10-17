@@ -1,0 +1,4 @@
+s_NN or_CC blank_JJ nodes_NNS to_TO act_VB as_IN identifiers_NNS ._.
+There_EX are_VBP no_DT limitations_NNS with_IN respect_NN to_TO blank_JJ node_NN handling_NN ._.
+For_IN the_DT RDF_NNP model_NN manipulation_NN ,_, we_PRP use_VBP an_DT abstraction_NN layer_NN ,_, RDF2Go_NN 2_CD ,_, which_WDT has_VBZ adaptors_NNS to_TO Jena_NNP =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Sesame_NNP ,_, YARS_NNP and_CC others_NNS ._.
+One_CD of_IN the_DT key_JJ advantages_NNS of_IN using_VBG an_DT RDFReactor_NN generated_VBN API_NNP is_VBZ synchronicity_NN :_: Each_DT method_NN set_NN or_CC add_VB requests_NNS is_VBZ translated_VBN into_IN an_DT add_VB statement_NN operation_NN ,_, each_DT get_VBP or_CC g_NN

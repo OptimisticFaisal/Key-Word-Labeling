@@ -1,0 +1,5 @@
+e_LS local_JJ properties_NNS of_IN particular_JJ groups_NNS in_IN the_DT data_NNS ._.
+Notice_NNP that_IN not_RB all_DT computed_JJ frequent_JJ patterns_NNS have_VBP this_DT property_NN ._.
+These_DT interesting_JJ patterns_NNS are_VBP often_RB called_VBN discriminative_JJ or_CC emerging_VBG patterns_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC are_VBP defined_VBN as_IN patterns_NNS whose_WP$ support_NN increases_VBZ significantly_RB from_IN one_CD class_NN to_TO another_DT ._.
+For_IN emerging_VBG patterns_NNS to_TO be_VB significant_JJ ,_, different_JJ measures_NNS are_VBP used_VBN ._.
+One_CD measure_NN of_IN interest_NN is_VBZ by_IN what_WP

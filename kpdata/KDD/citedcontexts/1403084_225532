@@ -1,0 +1,4 @@
+ithout_NN pre-discretisation_NN and_CC the_DT use_NN of_IN disjunction_NN of_IN nominal_JJ attribute_NN values_NNS increases_VBZ the_DT complexity_NN of_IN the_DT problem_NN dramatically_RB ._.
+Many_JJ of_IN the_DT commonly_RB proposed_VBN algorithms_NNS for_IN rule_NN induction_NN -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 1_CD ,_, 3_CD ,_, 4_CD -RRB-_-RRB- -_: =--RRB-_NN can_MD only_RB discover_VB rules_NNS using_VBG simple_JJ value_NN tests_NNS ._.
+For_IN such_PDT a_DT simple_JJ rule_NN ,_, we_PRP can_MD define_VB some_DT measures_NNS based_VBN on_IN the_DT cardinalities_NNS of_IN the_DT different_JJ sets_NNS defined_VBN by_IN the_DT rule_NN ._.
+Each_DT conjunct_NN defines_VBZ a_DT se_FW

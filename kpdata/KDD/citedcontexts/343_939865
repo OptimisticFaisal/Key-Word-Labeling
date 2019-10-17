@@ -1,0 +1,4 @@
+ransactional_JJ approaches_NNS can_MD not_RB capture_VB a_DT rule_NN like_IN :_: ``_`` If_IN the_DT stock_NN prices_NNS of_IN Microsoft_NNP and_CC IBM_NNP go_VB up_RP ,_, the_DT price_NN of_IN Intel_NNP is_VBZ likely_JJ to_TO go_VB up_RP two_CD days_NNS later_RB ._. ''_''
+Inter-transaction_JJ association_NN rule_NN mining_NN =_JJ -_: =[_NN 6,7,14,17,18,23,24_CD -RRB-_-RRB- -_: =_SYM -_: extends_VBZ the_DT association_NN rules_NNS to_TO describe_VB association_NN relationships_NNS among_IN itemsets_NNS across_IN several_JJ transactions_NNS ._.
+Many_JJ algorithms_NNS for_IN mining_NN inter-transaction_NN association_NN rules_NNS have_VBP been_VBN proposed_VBN ._.
+Lu_NN e_SYM

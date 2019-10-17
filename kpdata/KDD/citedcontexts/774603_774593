@@ -1,0 +1,5 @@
+allows_VBZ a_DT probabilistic_JJ acceptance_NN of_IN temporary_JJ disimprovement_NN in_IN fitness_NN scores_NNS ._.
+However_RB ,_, the_DT results_NNS are_VBP often_RB data_NNS dependent_JJ ._.
+An_DT order_NN preserving_NN sub_NN matrix_NN -LRB-_-LRB- OPSM_NN -RRB-_-RRB- has_VBZ been_VBN developed_VBN in_IN Refs_NNS ._.
+-LRB-_-LRB- 33_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC -LRB-_-LRB- 35_CD -RRB-_-RRB- ,_, using_VBG greedy_JJ search_NN heuristic_NN and_CC evolutionary_JJ strategy_NN respectively_RB ._.
+However_RB ,_, there_EX exist_VBP problems_NNS related_VBN to_TO local_JJ optima_NN ,_, consumption_NN of_IN excessive_JJ computational_JJ resources_NNS ,_, or_CC imposition_NN

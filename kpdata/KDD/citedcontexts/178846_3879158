@@ -1,0 +1,5 @@
+s._JJ Initial_JJ use_NN of_IN closed_JJ itemsets_NNS for_IN association_NN rules_NNS was_VBD studied_VBN in_IN -LRB-_-LRB- 32_CD ,_, 18_CD -RRB-_-RRB- ._.
+Since_IN then_RB many_JJ algorithms_NNS for_IN mining_NN all_PDT the_DT closed_JJ sets_NNS have_VBP been_VBN proposed_VBN ,_, such_JJ as_IN Charm_NN -LRB-_-LRB- 31_CD -RRB-_-RRB- ,_, Closet_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, Closet_NN +_CC =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: Closure_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, Mafia_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC Pascal_NNP -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+More_RBR recent_JJ algorithms_NNS have_VBP been_VBN studied_VBN in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+sTowards_NNP Generic_NNP Pattern_NNP Mining_NNP 17_CD Fig._NNP 5_CD ._.
+Itemset_NNP ,_, Sequence_NN ,_, Tree_NNP and_CC Graph_NNP Mining_NNP :_: Effect_NN of_IN Minimum_NNP Support_NN

@@ -1,0 +1,4 @@
+t_NN for_IN us_PRP is_VBZ the_DT notion_NN of_IN efficiently_RB representing_VBG frequent_JJ itemsets_NNS via_IN a_DT lattice_NN of_IN closed_JJ itemsets_NNS -LRB-_-LRB- 1_CD ,_, 13_CD ,_, 21_CD -RRB-_-RRB- ._.
+More_RBR generally_RB ,_, closed_JJ itemsets_NNS are_VBP a_DT specific_JJ example_NN of_IN condensed_JJ representations_NNS =_JJ -_: =[_NN 2_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, support_NN envelopes_NNS are_VBP not_RB a_DT condensed_JJ representation_NN since_IN it_PRP is_VBZ necessary_JJ to_TO keep_VB the_DT original_JJ matrix_NN if_IN the_DT goal_NN is_VBZ to_TO use_VB support_NN envelopes_NNS to_TO actually_RB find_VB itemsets_NNS ._.
+The_DT idea_NN of_IN error_NN t_NN

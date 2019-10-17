@@ -1,0 +1,7 @@
+R_NN +_CC 1_CD ._.
+One_CD can_MD verify_VB that_IN from_IN our_PRP$ assumptions_NNS we_PRP have_VBP that_IN both_DT of_IN these_DT quantities_NNS are_VBP Θ_NN -LRB-_-LRB- n_NN -RRB-_-RRB- ._.
+Note_VB that_IN the_DT terms_NNS are_VBP not_RB independent_JJ ._.
+Thus_RB ,_, to_TO show_VB concentration_NN ,_, we_PRP will_MD employ_VB Azuma_NNP 's_POS inequality_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN a_DT fixed_VBN a_DT we_PRP define_VBP the_DT -LRB-_-LRB- Doob_NNP 's_POS -RRB-_-RRB- martingale_JJ Xi_NN =_JJ E_NN -LRB-_-LRB- Ya_FW |_FW t1_NN ,_, t2_NN ,_, ..._: ,_, ti_FW -RRB-_-RRB- ._.
+We_PRP have_VBP that_IN X0_NN =_JJ E_NN -LRB-_-LRB- Ya_NN -RRB-_-RRB- and_CC Xℓ_NN =_JJ Ya_NN ._.
+Note_VB that_IN we_PRP have_VBP W_NN +_CC that_IN |_CD Xi_NN −_NN Xi_NN −_NN 1_CD |_FW ≤_FW di_FW +_CC 1_CD ,_, since_IN a_DT node_NN affects_VBZ only_RB itsel_NN

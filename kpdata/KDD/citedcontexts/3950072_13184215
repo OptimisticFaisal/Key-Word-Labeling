@@ -1,0 +1,3 @@
+traces_NNS and_CC thresholds_NNS of_IN minimum_JJ support_NN and_CC confidence_NN ,_, we_PRP guarantee_VBP that_IN all_DT mined_VBN LSCs_NNS are_VBP significant_JJ ,_, and_CC all_DT significant_JJ LSCs_NNS are_VBP mined_VBN -LRB-_-LRB- see_VB -LRB-_-LRB- 10_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+LSC_NN mining_NN extends_VBZ sequential_JJ pattern_NN mining_NN =_JJ -_: =[_NN 2_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Different_JJ from_IN typical_JJ sequential_JJ pattern_NN mining_NN that_IN mines_NNS from_IN sequences_NNS of_IN atomic_JJ symbols_NNS ,_, LSC_NN mining_NN mines_NNS from_IN an_DT event-trace_NN where_WRB each_DT event_NN is_VBZ a_DT triple_JJ consisting_VBG of_IN caller_NN ,_, callee_NN ,_, and_CC the_DT

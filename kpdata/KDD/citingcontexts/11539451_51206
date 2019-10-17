@@ -1,0 +1,4 @@
+hs_NN has_VBZ received_VBN substantial_JJ research_NN interest_NN ._.
+A_DT Web_NN graph_NN typically_RB contains_VBZ a_DT huge_JJ number_NN of_IN Web_NN pages_NNS as_IN vertices_NNS ,_, and_CC an_DT even_RB larger_JJR number_NN of_IN hyperlinks_NNS as_IN directed_JJ edges_NNS ._.
+Adler_NNP and_CC Mitzenmacher_NNP =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: gave_VBD a_DT Web_NN graph_NN compression_NN method_NN by_IN finding_VBG nodes_NNS with_IN similar_JJ sets_NNS of_IN neighbors_NNS ._.
+Randall_NNP et_FW al._FW -LRB-_-LRB- 13_CD -RRB-_-RRB- were_VBD the_DT first_JJ to_TO use_VB the_DT lexicographic_JJ ordering_VBG of_IN URLs_NNS of_IN Web_NN pages_NNS for_IN compressing_VBG the_DT grap_NN

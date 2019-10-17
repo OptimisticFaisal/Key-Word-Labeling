@@ -1,0 +1,4 @@
+suffer_VB the_DT effect_NN of_IN stop_NN words_NNS ._.
+Text_NN classification_NN and_CC clustering_NN is_VBZ a_DT related_JJ area_NN which_WDT categorizes_VBZ documents_NNS into_IN groups_NNS ,_, such_JJ as_IN LSA_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, PLSA_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, and_CC approaches_NNS based_VBN on_IN mutual_JJ information_NN -LRB-_-LRB- MI_NN -RRB-_-RRB- =_JJ -_: =[_NN 1_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Traditional_JJ text_NN segmentation_NN approaches_VBZ usually_RB focused_VBN on_IN single_JJ tasks_NNS ._.
+Multi-task_JJ learning_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- is_VBZ an_DT potential_JJ direction_NN ,_, but_CC most_JJS of_IN previous_JJ multi-task_JJ approaches_NNS focus_VBP on_IN supervised_JJ or_CC semi-sup_JJ

@@ -1,0 +1,3 @@
+in_IN the_DT set_VBN U._NNP Test_NNP points_NNS are_VBP simply_RB ranked_VBN according_VBG to_TO the_DT values_NNS of_IN f_FW for_IN those_DT points_NNS ._.
+Several_JJ ranking_JJ algorithms_NNS ,_, including_VBG RankBoost_NNP -LRB-_-LRB- Freund_NNP et_FW al._FW ,_, 2003_CD ;_: Rudin_NNP et_FW al._FW ,_, 2005_CD -RRB-_-RRB- ,_, SVM-type_JJ ranking_NN -LRB-_-LRB- =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =--RRB-_NN ,_, and_CC other_JJ algorithms_NNS such_JJ as_IN PRank_NN -LRB-_-LRB- Crammer_NNP &_CC Singer_NNP ,_, 2001_CD ;_: Agarwal_NNP &_CC Niyogi_NNP ,_, 2005_CD -RRB-_-RRB- ,_, were_VBD designed_VBN for_IN this_DT setting_NN ._.
+Generalization_NN bounds_NNS have_VBP been_VBN given_VBN in_IN this_DT setting_NN for_IN the_DT pairwise_JJ misrankin_NN

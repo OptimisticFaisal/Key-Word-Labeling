@@ -1,0 +1,5 @@
+on_IN are_VBP relevant_JJ to_TO the_DT query_NN and_CC append_VB the_DT query_NN to_TO these_DT documents_NNS ._.
+However_RB ,_, implicit_JJ clickthrough_JJ data_NNS has_VBZ been_VBN shown_VBN to_TO be_VB biased_VBN as_IN it_PRP is_VBZ relative_JJ to_TO the_DT retrieval_NN function_NN quality_NN and_CC ordering_VBG =_JJ -_: =[_NN 15_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT makes_VBZ its_PRP$ interpretation_NN as_IN absolute_JJ feedback_NN of_IN questionable_JJ accuracy_NN ._.
+Cohen_NNP et_FW al._FW -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC Freund_NNP et_FW al._FW -LRB-_-LRB- 9_CD -RRB-_-RRB- propose_VBP using_VBG log_NN data_NNS to_TO generate_VB relative_JJ preference_NN feedback_NN ._.
+Both_DT approaches_NNS c_NN

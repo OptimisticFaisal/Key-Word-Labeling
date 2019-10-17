@@ -1,0 +1,4 @@
+the_DT process_NN that_WDT stopped_VBD generating_VBG trace_NN records_NNS first_RB ._.
+The_DT more_RBR complex_JJ case_NN is_VBZ when_WRB we_PRP identify_VBP anomalous_JJ processes_NNS with_IN non-fail-stop_JJ behavior_NN by_IN using_VBG a_DT distance-based_JJ outlier_NN detection_NN approach_NN =_JJ -_: =[_NN 4_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Namely_RB ,_, we_PRP compare_VBP per-process_JJ traces_NNS automatically_RB and_CC identify_VB ones_NNS that_WDT appear_VBP substantially_RB different_JJ from_IN the_DT others_NNS ._.
+Our_PRP$ algorithm_NN can_MD work_VB without_IN prior_JJ knowledge_NN of_IN correct_JJ and_CC incorrect_JJ beh_NN

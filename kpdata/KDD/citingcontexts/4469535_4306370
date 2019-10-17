@@ -1,0 +1,4 @@
+-_: risk_NN reps._NN For_IN our_PRP$ purposes_NNS ,_, a_DT tribe_NN is_VBZ a_DT group_NN of_IN reps_NNS that_WDT have_VBP significantly_RB similar_JJ job_NN sequences_NNS within_IN the_DT industry_NN ._.
+The_DT tribe-finding_JJ algorithm_NN is_VBZ described_VBN in_IN more_JJR detail_NN in_IN a_DT separate_JJ paper_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC an_DT overview_NN follows_VBZ ._.
+We_PRP enumerate_VBP all_DT pairs_NNS of_IN reps_NNS in_IN the_DT database_NN that_WDT have_VBP ever_RB worked_VBN together_RB ,_, and_CC for_IN each_DT pair_NN we_PRP record_VBP the_DT jobs_NNS where_WRB they_PRP have_VBP intersected_VBN ._.
+Our_PRP$ task_NN is_VBZ to_TO decide_VB which_WDT

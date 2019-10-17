@@ -1,0 +1,6 @@
+oost_VB for_IN Distributed_VBN ,_, Scalable_NNP and_CC On-Line_NNP Learning_NNP ._.
+In_IN Proceedings_NNP of_IN the_DT Fifth_NNP ACM_NNP SIGKDD_NNP International_NNP Conference_NNP on_IN Knowledge_NNP Discovery_NNP and_CC Data_NNP Mining_NNP ,_, pages_NNS 362_CD --_: 366_CD ,_, San_NNP Diego_NNP ,_, CA_NNP ,_, August_NNP 1999_CD ._.
+=_SYM -_: =[_NN 33_CD -RRB-_-RRB- -_: =_SYM -_: N._NNP Fonseca_NNP ,_, R._NNP Camacho_NNP ,_, and_CC F._NNP Silva_NNP ._.
+A_DT parallel_JJ ILP_NNP algorithm_NN that_WDT incorporates_VBZ incremental_JJ batch_NN learning_NN ._.
+In_IN Parallel_JJ and_CC Distributed_VBN computing_NN for_IN Machine_NNP Learning_NNP ._.
+In_IN conjunction_NN with_IN the_DT 14th_JJ E_NN

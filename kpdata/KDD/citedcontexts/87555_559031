@@ -1,0 +1,4 @@
+mparison_NN with_IN cost-sensitive_JJ classification_NN -LRB-_-LRB- CSC_NNP -RRB-_-RRB- ._.
+Cost-sensitive_JJ classification_NN -LRB-_-LRB- also_RB called_VBN cost-sensitive_JJ learning_NN -RRB-_-RRB- is_VBZ another_DT approach_NN to_TO handling_VBG disparate_JJ kinds_NNS of_IN errors_NNS in_IN classification_NN -LRB-_-LRB- see_VB =_JJ -_: =[_NN 7_CD ,_, 8_CD ,_, 9_CD ,_, 10_CD -RRB-_-RRB- -_: =_JJ -_: and_CC references_NNS therein_RB -RRB-_-RRB- ._.
+Following_VBG classical_JJ Bayesian_JJ decision_NN theory_NN ,_, CSC_NNP modifies_VBZ the_DT standard_JJ `_`` 0-1_NN '_'' loss_NN function_NN to_TO a_DT weighted_JJ Bayes_NNP cost_NN ._.
+Cost-sensitive_JJ classifiers_NNS assume_VBP the_DT relative_JJ costs_NNS for_IN

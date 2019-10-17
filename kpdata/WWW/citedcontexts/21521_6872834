@@ -1,0 +1,3 @@
+not_RB received_VBN as_IN much_JJ attention_NN from_IN research_NN ._.
+Recently_RB ,_, the_DT W3C_NN has_VBZ started_VBN to_TO derive_VB a_DT standard_JJ RDF_NN query_NN language_NN ,_, called_VBN SPARQL_NN -LRB-_-LRB- 65_CD -RRB-_-RRB- ,_, that_DT is_VBZ ,_, visibly_RB influenced_VBN by_IN languages_NNS such_JJ as_IN RDQL_NN -LRB-_-LRB- 58_CD -RRB-_-RRB- ,_, RQL_NN =_JJ -_: =[_NN 43_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC SeRQL_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, aiming_VBG to_TO create_VB a_DT stable_JJ foundation_NN for_IN use_NN ,_, implementation_NN ,_, and_CC research_NN on_IN RDF_NNP databases_NNS and_CC query_NN languages_NNS ._.
+Fundamentally_RB ,_, SPARQL_NN is_VBZ a_DT fairly_RB simple_JJ ,_, first-order-style_JJ query_NN lang_NN

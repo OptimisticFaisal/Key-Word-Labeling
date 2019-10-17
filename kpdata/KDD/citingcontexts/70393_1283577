@@ -1,0 +1,4 @@
+-_: D_NN scatterplots_NNS projected_VBN to_TO the_DT 2-D_NN space_NN using_VBG linear_JJ discriminant_JJ analysis_NN ._.
+Other_JJ visualization_NN techniques_NNS may_MD be_VB applied_VBN ._.
+An_DT interesting_JJ technique_NN is_VBZ the_DT manual_JJ projection_NN method_NN by_IN Cook_NNP and_CC Buja_NNP =_SYM -_: =[_NN 2_CD -_: =-]_NN which_WDT allows_VBZ the_DT user_NN to_TO manually_RB control_VB the_DT projection_NN of_IN data_NNS on_IN to_TO dierent_JJ views_NNS ._.
+It_PRP would_MD also_RB be_VB interesting_JJ to_TO allow_VB the_DT user_NN to_TO cluster_VB data_NNS within_IN clusters_NNS -LRB-_-LRB- hierarchical_JJ clustering_NN -RRB-_-RRB- so_RB as_IN t_NN

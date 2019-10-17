@@ -1,0 +1,4 @@
+re-defined_JJ category_NN achieving_VBG robust_JJ classification_NN accuracy_NN ._.
+For_IN example_NN ,_, web_NN document_NN mining_NN ,_, spatial_JJ data_NNS mining_NN ,_, and_CC user_NN intent_NN analysis_NN involve_VBP classification_NN tasks_NNS as_IN one_CD of_IN the_DT key_JJ components_NNS =_JJ -_: =[_NN 30_CD ,_, 5_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Dealing_VBG with_IN billions_NNS of_IN web_NN documents_NNS ,_, one_CD interesting_JJ task_NN is_VBZ to_TO classify_VB each_DT document_NN into_IN either_CC a_DT spam_NN or_CC not_RB ,_, significantly_RB impacting_VBG the_DT user_NN experience_NN of_IN a_DT web_NN search_NN engine_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+When_WRB con_NN

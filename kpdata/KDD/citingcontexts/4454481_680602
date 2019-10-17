@@ -1,0 +1,4 @@
+e_LS has_VBZ been_VBN a_DT large_JJ body_NN of_IN work_NN on_IN statistical_JJ topic_NN models_NNS -LRB-_-LRB- 11_CD ,_, 4_CD ,_, 28_CD ,_, 22_CD ,_, 9_CD ,_, 2_CD ,_, 3_CD ,_, 16_CD ,_, 18_CD ,_, 19_CD ,_, 14_CD ,_, 24_CD -RRB-_-RRB- ,_, most_JJS of_IN which_WDT uses_VBZ a_DT multinomial_JJ word_NN distribution_NN to_TO represent_VB a_DT topic_NN ._.
+In_IN some_DT recent_JJ work_NN ,_, =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: generalized_VBD the_DT representation_NN of_IN a_DT topic_NN model_NN as_IN a_DT multinomial_JJ distribution_NN over_IN ngrams_NNS ._.
+Such_JJ topics_NNS are_VBP labeled_VBN with_IN either_CC top_JJ words_NNS in_IN the_DT distribution_NN or_CC manually_RB selected_VBN phrases_NNS ._.
+The_DT method_NN w_NN

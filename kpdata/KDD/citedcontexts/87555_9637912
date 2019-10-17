@@ -1,0 +1,5 @@
+the_DT cost_NN of_IN displaying_VBG an_DT irrelevant_JJ item_NN ._.
+One_CD extension_NN to_TO the_DT standard_JJ classifier_NN learning_NN formulation_NN that_WDT has_VBZ received_VBN considerable_JJ attention_NN in_IN the_DT past_JJ few_JJ years_NNS is_VBZ the_DT cost_NN matrix_NN formulation_NN =_JJ -_: =[_NN 2_CD ,_, 4_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT formulation_NN ,_, we_PRP specify_VBP a_DT cost_NN matrix_NN C_NN for_IN the_DT domain_NN in_IN which_WDT we_PRP would_MD like_VB to_TO learn_VB a_DT classifier_NN ._.
+If_IN there_EX are_VBP k_NN classes_NNS ,_, the_DT cost_NN matrix_NN is_VBZ a_DT k_NN ×_CD k_NN matrix_NN of_IN real_JJ values_NNS ._.
+Each_DT entry_NN C_NN -LRB-_-LRB- i_FW ,_,

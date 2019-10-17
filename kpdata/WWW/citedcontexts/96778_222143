@@ -1,0 +1,6 @@
+merged_JJ list_NN has_VBZ 1_CD more_RBR relevant_JJ document_NN than_IN each_DT of_IN the_DT two_CD original_JJ lists_NNS ._.
+It_PRP is_VBZ also_RB clear_JJ that_IN the_DT merged_JJ list_NN is_VBZ more_RBR effective_JJ than_IN the_DT DOC-WO-C_NN list_NN ._.
+Other_JJ merging_JJ algorithms_NNS such_JJ as_IN those_DT in_IN =_JJ -_: =_JJ -LRB-_-LRB- Dwork01_NN -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB employed_VBN ._.
+In_IN fact_NN ,_, we_PRP experiment_NN with_IN the_DT best_JJS algorithm_NN ,_, MC4_NN ,_, in_IN -LRB-_-LRB- Dwork01_NN -RRB-_-RRB- ._.
+It_PRP yields_VBZ 1-2_CD %_NN improvement_NN over_IN the_DT algorithm_NN -LRB-_-LRB- Mont02_NN -RRB-_-RRB- reported_VBN here_RB ,_, but_CC is_VBZ less_RBR efficient_JJ ._.
+Due_JJ to_TO limited_JJ space_NN ,_,

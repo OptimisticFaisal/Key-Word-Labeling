@@ -1,0 +1,5 @@
+Data_NNP Preprocessing_NNP ._.
+All_PDT the_DT co-located_JJ datasets_NNS are_VBP subjected_VBN to_TO a_DT categorization_NN procedure_NN ._.
+Z-score_NN transformation_NN is_VBZ a_DT widely_RB used_VBN method_NN in_IN geospatial_JJ domain_NN ._.
+For_IN example_NN ,_, Tan_NNP and_CC Kumar_NNP et_FW al._FW in_IN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: calculate_VB the_DT z-score_NN of_IN Earth_NNP Science_NNP time_NN series_NN data_NNS by_IN subtracting_VBG off_RP the_DT monthly_JJ mean_NN and_CC dividing_VBG by_IN the_DT monthly_JJ standard_JJ deviation_NN ._.
+However_RB ,_, a_DT closer_JJR examination_NN of_IN the_DT 9_CD datasets_NNS used_VBN in_IN our_PRP$

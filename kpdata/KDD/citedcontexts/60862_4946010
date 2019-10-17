@@ -1,0 +1,5 @@
+se_FW the_DT percent_NN improvement_NN depends_VBZ more_RBR on_IN the_DT structure_NN of_IN the_DT network_NN than_IN the_DT number_NN of_IN objects_NNS ._.
+6_CD Related_NNP Work_NNP Work_NNP in_IN moving_VBG object_NN clustering_NN is_VBZ closely_RB related_JJ to_TO FlowScan_NNP ._.
+Someexamples_NNS include_VBP =_JJ -_: =[_NN 6,2,8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, objects_NNS are_VBP grouped_VBN using_VBG a_DT traditional_JJ clustering_NN algorithm_NN at_IN each_DT time_NN snapshot_NN and_CC then_RB linked_VBN together_RB over_IN time_NN to_TO form_VB moving_VBG clusters_NNS ._.
+The_DT assumption_NN is_VBZ that_IN clusters_NNS will_MD be_VB stable_JJ

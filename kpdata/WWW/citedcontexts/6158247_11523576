@@ -1,0 +1,5 @@
+zation_NN models_NNS ._.
+Diaz_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- use_VBP score_NN regularization_NN to_TO adjust_VB ad-hoc_JJ retrieval_NN scores_NNS from_IN an_DT initial_JJ retrieval_NN ._.
+But_CC those_DT two_CD methods_NNS do_VBP not_RB consider_VB multiple_JJ relationships_NNS between_IN objects_NNS ._.
+Jin_NNP et_FW al._FW =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: present_VB a_DT different_JJ approach_NN for_IN ranking_JJ refinement_NN ,_, which_WDT utilize_VBP the_DT base_NN ranker_NN and_CC feedbacks_NNS from_IN users_NNS to_TO learning_VBG a_DT better_JJR ranking_NN function_NN under_IN a_DT supervised_JJ learning_NN framework_NN ._.
+We_PRP propose_VBP a_DT d_NN

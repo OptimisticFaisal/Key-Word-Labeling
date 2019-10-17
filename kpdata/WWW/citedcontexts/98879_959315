@@ -1,0 +1,4 @@
+approaches_NNS that_IN we_PRP have_VBP discussed_VBN so_RB far_RB ,_, are_VBP usercentric_JJ in_IN the_DT way_NN that_IN they_PRP concentrate_VBP on_IN determining_VBG the_DT user_NN 's_POS neighborhood_NN ._.
+Some_DT researchers_NNS also_RB considered_VBN item-based_JJ collaborative_NN filtering_VBG =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT main_JJ idea_NN is_VBZ to_TO compute_VB item-item_JJ similarities_NNS -LRB-_-LRB- according_VBG to_TO the_DT users_NNS '_POS ratings_NNS -RRB-_-RRB- offline_VBP and_CC make_VBP use_NN of_IN them_PRP in_IN the_DT online_JJ phase_NN ._.
+To_TO predict_VB user_NN u_NN 's_POS rating_NN of_IN item_NN i_FW ,_, the_DT online_JJ algorithm_NN comp_NN

@@ -1,0 +1,4 @@
+mUp_NN under_IN the_DT assumption_NN that_IN the_DT trust_NN network_NN can_MD be_VB approximated_VBN as_IN an_DT expander_NN graph_NN ._.
+Existing_VBG studies_NNS on_IN various_JJ types_NNS of_IN social_JJ networks_NNS have_VBP shown_VBN that_IN social_JJ networks_NNS are_VBP indeed_RB expander-like_JJ =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP specifically_RB prove_VBP bounds_NNS on_IN the_DT expected_VBN attack_NN capacity_NN CA_NNP and_CC the_DT expected_VBN number_NN of_IN votes_NNS collected_VBN if_IN Cmax_JJ honest_JJ users_NNS vote_NN ._.
+This_DT analysis_NN also_RB assumes_VBZ that_IN the_DT trusted_VBN vote_NN collector_NN is_VBZ a_DT

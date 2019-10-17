@@ -1,0 +1,4 @@
+c_NN construct_NN ,_, an_DT evaluation_NN system_NN consists_VBZ of_IN the_DT type_NN of_IN reviewers_NNS and_CC the_DT type_NN of_IN objects_NNS ._.
+A_DT reviewer_NN 0.7_CD 0.3_CD 0.3_CD 0.3_CD 0.6_CD 0.4_CD 0.2_CD 0.9_CD o_NN 1_CD o_NN 2sri_NN may_MD assign_VB to_TO an_DT object_NN oj_IN an_DT evaluation_NN score_NN eij_FW ∈_FW =_SYM -_: =[_NN 0_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB ,_, we_PRP use_VBP the_DT terms_NNS reviewer_NN and_CC object_NN in_IN the_DT general_JJ sense_NN ,_, referring_VBG not_RB to_TO what_WP they_PRP are_VBP ,_, but_CC to_TO their_PRP$ respective_JJ roles_NNS ._.
+It_PRP may_MD well_RB be_VB the_DT case_NN that_IN both_DT reviewers_NNS and_CC objects_NNS are_VBP of_IN the_DT sam_NN

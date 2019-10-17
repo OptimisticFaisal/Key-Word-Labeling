@@ -1,0 +1,4 @@
+probe_NN ,_, and_CC process_VB their_PRP$ feedback_NN to_TO achieve_VB the_DT desired_VBN result_NN ._.
+Let_VB us_PRP first_JJ review_NN passive_NN algorithms_NNS ._.
+Passive_JJ algorithm_NN usually_RB work_VBP by_IN heuristically_RB identifying_VBG clusters_NNS of_IN users_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- -LRB-_-LRB- or_CC products_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =--RRB-_NN in_IN the_DT data_NNS set_NN ,_, and_CC using_VBG past_JJ grades_NNS by_IN users_NNS in_IN a_DT cluster_NN to_TO predict_VB future_JJ grades_NNS by_IN other_JJ users_NNS in_IN the_DT same_JJ cluster_NN ._.
+Singular_JJ Value_NN Decomposition_NN -LRB-_-LRB- SVD_NN -RRB-_-RRB- was_VBD also_RB shown_VBN to_TO be_VB an_DT effective_JJ algebra_NN

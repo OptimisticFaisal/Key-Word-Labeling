@@ -1,0 +1,3 @@
+is_VBZ weighted_JJ voting_NN as_IN in_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, where_WRB the_DT individual_JJ probability_NN predictions_NNS of_IN each_DT class_NN are_VBP summed_VBN ._.
+Another_DT paper_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- proposing_VBG a_DT variant_NN of_IN option_NN trees_NNS on_IN streams_NNS uses_VBZ an_DT approach_NN based_VBN on_IN CVFDT_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: in_IN which_WDT alternating_VBG trees_NNS are_VBP grown_VBN every_DT time_NN a_DT new_JJ splitting_NN test_NN is_VBZ being_VBG found_VBN as_IN better_JJR than_IN the_DT existing_VBG one_CD ._.
+The_DT main_JJ difference_NN is_VBZ that_IN the_DT alternating_VBG trees_NNS are_VBP included_VBN as_IN possible_JJ predict_VBP

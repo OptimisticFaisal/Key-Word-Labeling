@@ -1,0 +1,4 @@
+common_JJ in_IN use_NN in_IN DM_NN ._.
+The_DT linear_JJ models_NNS here_RB specify_VBP a_DT vector_NN of_IN weights_NNS w_NN corresponding_VBG to_TO the_DT attributes_NNS ,_, and_CC each_DT population_NN member_NN represents_VBZ such_PDT a_DT weight_NN vector_NN ._.
+We_PRP restrict_VBP each_DT element_NN of_IN w_NN =_JJ -_: =_JJ -LRB-_-LRB- -1,1_CD -RRB-_-RRB- ,_, since_IN -_: =_SYM -_: the_DT weight_NN vector_NN w_NN scores_NNS and_CC ranks_NNS individuals_NNS similarly_RB to_TO λ_FW w_FW for_IN any_DT λ_FW ∈_FW ℜ_NN ,_, where_WRB ℜ_NN denotes_VBZ real_JJ numbers_NNS ._.
+Tree-structured_JJ representations_NNS in_IN GP_NN allow_VBP models_NNS that_WDT explore_VBP non-linear_JJ relat_NN

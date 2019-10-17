@@ -1,0 +1,4 @@
+ximate_JJ answers_NNS ._.
+They_PRP have_VBP been_VBN used_VBN in_IN many_JJ different_JJ ways_NNS ,_, and_CC a_DT variety_NN of_IN tree_NN search_NN algorithms_NNS and_CC with_IN a_DT variety_NN of_IN ``_`` cached_JJ sufficient_JJ statistics_NNS ''_'' decorating_VBG the_DT internal_JJ leaves_NNS ,_, for_IN example_NN in_IN =_JJ -_: =[_NN 46_CD ,_, 13_CD ,_, 58_CD ,_, 49_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Fast_JJ searches_NNS are_VBP achieved_VBN by_IN skipping_VBG unnecessary_JJ sub-searches_NNS ._.
+However_RB ,_, many_JJ real-world_JJ problems_NNS are_VBP posed_VBN with_IN very_RB large_JJ dimensionalities_NNS that_WDT are_VBP beyond_IN the_DT capability_NN of_IN such_JJ search_NN structures_NNS

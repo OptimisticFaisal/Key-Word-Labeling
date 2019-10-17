@@ -1,0 +1,5 @@
+heuristic_NN algorithm_NN to_TO represent_VB a_DT dense_JJ cluster_NN in_IN grid_NN data_NNS using_VBG a_DT set_NN of_IN rectangles_NNS ._.
+Further_RB ,_, Lakshmanan_NNP et_FW al._FW -LRB-_-LRB- 11_CD -RRB-_-RRB- consider_VBP the_DT situation_NN where_WRB a_DT false_JJ positive_NN is_VBZ allowed_VBN ._.
+Recently_RB ,_, Gao_NNP et_FW al._FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: extend_VB descriptive_JJ data_NNS mining_NN from_IN a_DT clustering_NN description_NN to_TO a_DT discriminative_JJ setting_NN using_VBG a_DT rectangle_NN notation_NN ._.
+Our_PRP$ problem_NN is_VBZ different_JJ from_IN these_DT problems_NNS from_IN several_JJ perspectives_NNS ._.
+First_RB ,_, the_DT

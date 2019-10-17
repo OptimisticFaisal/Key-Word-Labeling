@@ -1,0 +1,4 @@
+set_VBN mining_NN is_VBZ a_DT process_NN of_IN identifying_VBG in_IN a_DT dataset_JJ groupings_NNS of_IN co-appearing_JJ objects_NNS ,_, whose_WP$ frequencies_NNS exceed_VBP a_DT user_NN specified_JJ threshold_NN ._.
+The_DT appeal_NN of_IN constrained_VBN frequent_JJ set_NN mining_NN is_VBZ well_RB known_VBN =_JJ -_: =[_NN 23_CD ,_, 8_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD key_NN problem_NN that_WDT has_VBZ not_RB been_VBN addressed_VBN in_IN previous_JJ work_NN is_VBZ how_WRB to_TO support_VB users_NNS in_IN choosing_VBG and_CC changing_VBG constraint_NN thresholds_NNS and_CC parameters_NNS ._.
+This_DT unsolved_JJ problem_NN makes_VBZ dynamic_JJ constrained_VBN fr_NN

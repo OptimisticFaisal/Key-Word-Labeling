@@ -1,0 +1,4 @@
+networks_NNS requiring_VBG up_RP to_TO several_JJ hours_NNS to_TO calculate_VB the_DT importance_NN of_IN users_NNS ._.
+We_PRP propose_VBP the_DT PageRank_NN linearity_NN theorem_NN to_TO solve_VB the_DT problem_NN of_IN contextsensitive_JJ expertise_NN mining_NN ._.
+The_DT linearity_NN theorem_NN =_JJ -_: =[_NN 10,11_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ defined_VBN as_IN :_: Theorem_NN 1_CD -LRB-_-LRB- Linearity_NN -RRB-_-RRB- ._.
+For_IN any_DT personalization_NN vectors_NNS p1_NN ,_, p2_NN and_CC weights_NNS w1_NN ,_, w2_NN with_IN w1_NN +_CC w2_NN =_JJ 1_CD ,_, the_DT following_JJ equality_NN holds_VBZ :_: PPV_NN -LRB-_-LRB- w1p1_NN +_CC w2p2_NN -RRB-_-RRB- =_JJ w1PPV_NN -LRB-_-LRB- p1_NN -RRB-_-RRB- +_CC w2PPV_NN -LRB-_-LRB- p2_NN -RRB-_-RRB- -LRB-_-LRB- 5_LS -RRB-_-RRB- The_DT above_JJ equal_JJ

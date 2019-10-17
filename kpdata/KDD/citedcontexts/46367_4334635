@@ -1,0 +1,4 @@
+hat_NN data_NNS mining_NN is_VBZ ._.
+Generally_RB ,_, data_NNS mining_NN is_VBZ the_DT process_NN of_IN extracting_VBG useful_JJ and_CC previously_RB unnoticed_JJ models_NNS or_CC patterns_NNS from_IN large_JJ data_NNS stores_NNS -LRB-_-LRB- Bass_NNP 2000_CD ;_: Lee_NNP and_CC Stolfo_NNP 1998_CD ;_: Lee_NNP and_CC Stolfo_NNP 2000_CD ;_: =_JJ -_: =_JJ Lee_NNP et_FW al._FW 1999_CD -_: =_SYM -_: a_DT ;_: Mannila_NNP 2002_CD ;_: Fayyad_NNP et_FW al._FW 1996_CD -RRB-_-RRB- ._.
+Data_NN mining_NN is_VBZ a_DT component_NN of_IN the_DT Knowledge_NNP Discovery_NNP in_IN Databases_NNP -LRB-_-LRB- KDD_NNP -RRB-_-RRB- process_NN -LRB-_-LRB- Carbone_NN 1997_CD ;_: Fayyad_NNP et_FW al._FW 1996_CD -RRB-_-RRB- ._.
+While_IN this_DT paper_NN will_MD address_VB some_DT other_JJ comp_NN

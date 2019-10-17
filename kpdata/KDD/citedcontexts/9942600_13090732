@@ -1,0 +1,3 @@
+erved_VBN text_NN data_NNS ._.
+Topic_NN modeling_NN is_VBZ then_RB used_VBN to_TO infer_VB this_DT structure_NN from_IN the_DT data_NNS by_IN using_VBG Bayesian_JJ inference_NN ._.
+Our_PRP$ approach_NN draws_VBZ from_IN two_CD streams_NNS of_IN prior_JJ extensions_NNS to_TO topic_NN modeling_NN :_: Chang_NNP et_FW al._FW =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: took_VBD topic_NN modeling_NN to_TO the_DT network_NN text_NN analysis_NN level_NN :_: they_PRP perform_VBP topic_NN modeling_NN on_IN the_DT bag_NN of_IN words_NNS that_WDT surround_VBP the_DT pairs_NNS of_IN nodes_NNS in_IN text_NN data_NNS that_WDT form_VBP links_NNS in_IN order_NN to_TO suggest_VB link_NN labels_NNS ._.

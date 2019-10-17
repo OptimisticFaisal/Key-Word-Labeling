@@ -1,0 +1,3 @@
+The_DT NIDDK_NNP database_NN The_DT NIDDK_NN liver_NN transplant_NN database_NN is_VBZ a_DT collection_NN of_IN information_NN from_IN a_DT seven_CD year_NN prospective_JJ study_NN of_IN 1563_CD candidates_NNS for_IN liver_NN transplants_NNS from_IN three_CD different_JJ medical_JJ centers_NNS =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT database_NN consists_VBZ of_IN 88_CD individual_JJ datasets_NNS ,_, linked_VBN by_IN certain_JJ common_JJ key_JJ variables_NNS like_IN the_DT patient_NN ID_NN field_NN that_WDT uniquely_RB specifies_VBZ one_CD of_IN the_DT 1563_CD transplant_NN candidates_NNS ._.
+In_IN addition_NN ,_, since_IN s_NN

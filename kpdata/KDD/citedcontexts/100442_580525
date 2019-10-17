@@ -1,0 +1,4 @@
+chers_NNS at_IN Florida_NNP Institute_NNP of_IN Technology_NNP have_VBP created_VBN an_DT intrusion_NN detection_NN system_NN -LRB-_-LRB- IDS_NNP -RRB-_-RRB- that_WDT is_VBZ nonstationary_JJ and_CC models_NNS probabilities_NNS based_VBN on_IN time_NN since_IN the_DT last_JJ event_NN rather_RB than_IN on_IN average_JJ rate_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT IDS_NNP operates_VBZ on_IN many_JJ of_IN the_DT same_JJ fields_NNS our_PRP$ detector_NN monitors_VBZ and_CC has_VBZ similar_JJ training_NN requirements_NNS to_TO set_VB up_RP initial_JJ thresholds_NNS and_CC baselines_NNS ._.
+The_DT system_NN has_VBZ two_CD components_NNS ,_, PHAD_NNP and_CC ALAD_NNP ._.
+PHA_NN

@@ -1,0 +1,4 @@
+tion_NN is_VBZ satisfied_JJ :_: Lc_NN -LRB-_-LRB- x_NN ∗_NN ,_, α_NN ,_, β_NN -RRB-_-RRB- ≤_NN Lc_NN -LRB-_-LRB- x_NN ∗_NN ,_, α_FW ∗_FW ∗_FW ,_, β_FW ∗_FW ∗_FW -RRB-_-RRB- ≤_CD Lc_NN -LRB-_-LRB- x_NN ,_, α_FW ∗_FW ∗_FW ,_, β_FW ∗_FW ∗_FW -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- for_IN all_DT x_NN ∈_CD NCN_NN -LRB-_-LRB- x_NN ∗_NN -RRB-_-RRB- ,_, α_FW ∈_FW R_NN m_NN ,_, and_CC β_FW ∈_FW R_NN r_NN ._.
+Theorem_NN 1_CD differs_VBZ from_IN the_DT traditional_JJ saddle_NN point_NN -LRB-_-LRB- SP_NN -RRB-_-RRB- condition_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: in_IN a_DT significant_JJ way_NN ._.
+The_DT traditional_JJ SP_NN condition_NN is_VBZ based_VBN on_IN a_DT Lagrangian_JJ function_NN and_CC works_VBZ only_RB for_IN NLPs_NNS with_IN continuous_JJ and_CC differentiable_JJ constraints_NNS ._.
+Further_RB ,_, the_DT SP_NN condition_NN is_VBZ true_JJ at_IN uniqu_NN

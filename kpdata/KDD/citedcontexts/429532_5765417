@@ -1,0 +1,4 @@
+nd_NN chemical_NN compound_NN for_IN example_NN ,_, no_DT mining_NN algorithm_NN ,_, except_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, that_WDT specializes_VBZ in_IN mining_NN closed_JJ and_CC maximal_JJ free_JJ trees_NNS has_VBZ been_VBN proposed_VBN ._.
+Of_IN course_NN ,_, we_PRP can_MD adapt_VB graph_NN mining_NN algorithms_NNS such_JJ as_IN =_JJ -_: =[_NN 7_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, these_DT algorithms_NNS might_MD not_RB always_RB perform_VB well_RB because_IN they_PRP are_VBP designed_VBN to_TO deal_VB with_IN general_JJ graphs_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP an_DT efficient_JJ algorithm_NN CMFreeTreeMiner_NN which_WDT discovers_VBZ both_DT c_NN

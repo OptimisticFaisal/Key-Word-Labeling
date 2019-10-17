@@ -1,0 +1,5 @@
+ed_VBN and_CC unlabeled_JJ data_NNS ._.
+-LRB-_-LRB- 23_CD -RRB-_-RRB- proposes_VBZ a_DT new_JJ lexicographic_JJ order_NN among_IN graphs_NNS and_CC uses_VBZ this_DT to_TO construct_VB a_DT novel_JJ algorithm_NN to_TO mine_VB frequently_RB connected_VBN sub-graphs_NNS efficiently_RB ._.
+TreeMinerH_NN and_CC TreeMinerV_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP algorithms_NNS for_IN efficiently_RB mining_VBG frequent_JJ trees_NNS in_IN a_DT forest_NN of_IN ordered_VBN ,_, rooted_JJ trees_NNS ._.
+TreeFinder_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, on_IN the_DT other_JJ hand_NN ,_, finds_VBZ approximate_JJ patterns_NNS from_IN both_CC ordered_VBN and_CC unordered_JJ trees_NNS ._.
+A_DT comm_NN

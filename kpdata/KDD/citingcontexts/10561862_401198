@@ -1,0 +1,6 @@
+uously_RB updated_VBN ._.
+Bell_NNP and_CC Sleigh_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- use_VBP a_DT novel_JJ encoding_NN to_TO minimize_VB space_NN overhead_NN for_IN allocation_NN sites_NNS ._.
+To_TO minimize_VB the_DT runtime_NN cost_NN ,_, statistical_JJ profiling_NN approaches_NNS have_VBP been_VBN developed_VBN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+Cork_NN =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: combines_VBZ low-overhead_JJ statistic_NN profiling_VBG with_IN type-slicing_NN ._.
+Some_DT profilers_NNS ,_, notably_RB the_DT NetBeans_NNP profiler_NN ,_, use_NN information_NN already_RB kept_VBN by_IN generational_JJ collectors_NNS to_TO determine_VB object_NN age_NN ._.
+Lastly_RB ,_, ha_FW

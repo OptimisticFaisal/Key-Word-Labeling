@@ -1,0 +1,4 @@
+categorization_NN as_IN a_DT multi-class_JJ classification_NN problem_NN and_CC hand-written_JJ character_NN recognition_NN as_IN a_DT sequence_NN labeling_NN problem_NN ._.
+Similar_JJ ideas_NNS have_VBP been_VBN successfully_RB applied_VBN to_TO semi-supervised_JJ boosting_VBG =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2_CD Rate_NNP distortion_NN formulation_NN Let_NNP X_NNP be_VB a_DT random_JJ variable_NN over_IN data_NNS sequences_NNS to_TO be_VB labeled_VBN ,_, and_CC Y_NN be_VB a_DT random_JJ variable_NN over_IN corresponding_JJ label_NN sequences_NNS ._.
+All_DT components_NNS ,_, Yi_NNP ,_, of_IN Y_NN are_VBP assumed_VBN to_TO ran_VBD

@@ -1,0 +1,4 @@
+determine_VB the_DT actual_JJ performance_NN gains_NNS achieved_VBN by_IN one_CD classifier_NN over_IN another_DT using_VBG ROC_NN curves_NNS and_CC these_DT variants_NNS are_VBP unlikely_JJ to_TO help_VB ._.
+We_PRP introduced_VBD an_DT alternative_JJ representation_NN called_VBN cost_NN curves_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT makes_VBZ performance_NN gains_NNS explicit_JJ ._.
+In_IN the_DT rest_NN of_IN the_DT paper_NN ,_, we_PRP show_VBP that_IN even_RB a_DT Bayes_NNP optimal_JJ classifier_NN does_VBZ only_RB marginally_RB better_JJR than_IN a_DT trivial_JJ classifier_NN with_IN severe_JJ imbalance_NN ._.
+Real_JJ classi_NNS

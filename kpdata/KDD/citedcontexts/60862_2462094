@@ -1,0 +1,4 @@
+od_NN for_IN HMM-based_JJ clustering_NN of_IN sequences_NNS ,_, is_VBZ better_RB detailed_VBN in_IN the_DT Section_NNP 3.1_CD ._.
+The_DT first_JJ approach_NN not_RB directly_RB linked_VBN to_TO speech_NN was_VBD presented_VBN by_IN Smyth_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- -LRB-_-LRB- see_VB also_RB the_DT more_RBR general_JJ and_CC more_RBR recent_JJ =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+This_DT approach_NN consists_VBZ in_IN two_CD steps_NNS :_: first_RB ,_, it_PRP devises_VBZ a_DT pairwise_JJ distance_NN between_IN observed_VBN sequences_NNS ,_, by_IN computing_VBG a_DT symmetrized_JJ similarity_NN ._.
+This_DT similarity_NN is_VBZ obtained_VBN by_IN training_VBG an_DT HMM_NN for_IN each_DT

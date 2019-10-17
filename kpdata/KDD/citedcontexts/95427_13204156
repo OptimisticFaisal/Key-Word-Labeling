@@ -1,0 +1,7 @@
+ignals_NNS whether_IN the_DT LED_NN is_VBZ off_IN or_CC on_IN ._.
+Only_RB seven_CD out_IN of_IN 24_CD are_VBP relevant_JJ ._.
+Class_NN label_NN reflects_VBZ the_DT digit_NN displayed_VBN by_IN the_DT relevant_JJ diodes_NNS ._.
+There_EX is_VBZ 10_CD %_NN of_IN class_NN noise_NN added_VBD ._.
+SEA_NN :_: an_DT artificial_JJ dataset_NN -LRB-_-LRB- =_JJ -_: =_JJ Street_NNP and_CC Kim_NNP ,_, 2001_CD -_: =--RRB-_NN commonly_RB used_VBN in_IN stream_NN mining_NN tasks_NNS that_WDT evaluate_VBP time_NN changing_VBG qualities_NNS of_IN data_NNS ._.
+It_PRP is_VBZ a_DT two-class_JJ problem_NN ,_, defined_VBN by_IN three_CD attributes_NNS ,_, where_WRB only_RB two_CD are_VBP relevant_JJ and_CC 10_CD %_NN of_IN noise_NN ._.
+Hyperplane_NN

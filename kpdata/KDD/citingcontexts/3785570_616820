@@ -1,0 +1,6 @@
+oped_VBN in_IN Section_NN 4_CD ._.
+Section_NN 5_CD reports_VBZ the_DT experimental_JJ results_NNS and_CC Section_NN 6_CD gives_VBZ the_DT conclusion_NN ._.
+2_CD ._.
+RELATED_NNS WORK_VBP Recently_RB ,_, some_DT methods_NNS have_VBP been_VBN proposed_VBN to_TO find_VB macroscopic_JJ phenotypes_NNS from_IN samples_NNS =_JJ -_: =[_NN 6_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN these_DT approaches_NNS ,_, samples_NNS are_VBP partitioned_VBN by_IN conventional_JJ clustering_NN methods_NNS ,_, such_JJ as_IN K-means_NNS ,_, self-organizing_JJ maps_NNS -LRB-_-LRB- SOM_NN -RRB-_-RRB- ,_, hierarchical_JJ clustering_NN -LRB-_-LRB- HC_NN -RRB-_-RRB- ,_, or_CC graph_NN based_JJ clustering_NN ._.
+However_RB ,_, these_DT

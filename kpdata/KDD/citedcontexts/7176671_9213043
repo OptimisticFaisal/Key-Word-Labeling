@@ -1,0 +1,4 @@
+the_DT precision_NN and_CC recall_NN curve_NN for_IN the_DT performer_NN class_NN -LRB-_-LRB- which_WDT had_VBD 44_CD instances_NNS -RRB-_-RRB- improved_VBN by_IN 57_CD %_NN after_IN applying_VBG shrinkage_NN from_IN person_NN -LRB-_-LRB- 1201_CD examples_NNS -RRB-_-RRB- ,_, actor_NN -LRB-_-LRB- 8738_CD examples_NNS -RRB-_-RRB- and_CC comedian_NN -LRB-_-LRB- 106_CD examples_NNS -RRB-_-RRB- =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS of_IN this_DT improvement_NN comes_VBZ from_IN increased_VBN recall_NN ,_, but_CC precision_NN gets_VBZ a_DT small_JJ boost_NN as_RB well_RB ._.
+3_LS ._.
+BOOTSTRAPPING_VBG TO_TO THE_DT WEB_NN Even_RB when_WRB Kylin_NNP does_VBZ learn_VB an_DT effective_JJ extractor_NN there_EX are_VBP numerous_JJ cases_NNS

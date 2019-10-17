@@ -1,0 +1,6 @@
+es_IN two_CD segmentations_NNS P_NN and_CC Q_NNP considering_VBG only_RB the_DT distances_NNS between_IN their_PRP$ boundary_NN points_NNS ._.
+Let_VB the_DT boundary_NN points_NNS of_IN P_NN and_CC Q_NNP be_VB -LCB-_-LRB- p0_NN ,_, ..._: ,_, pℓp_NN -RCB-_-RRB- 3_CD The_DT name_NN is_VBZ inspired_VBN by_IN the_DT Earth_NNP Mover_NNP 's_POS Distance_NNP =_SYM -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+and_CC -LCB-_-LRB- q0_NN ,_, ..._: ,_, qℓq_NN -RCB-_-RRB- ._.
+We_PRP define_VBP the_DT Boundary_NNP Mover_NNP 's_POS distance_NN of_IN P_NN with_IN respect_NN to_TO Q_NNP to_TO be_VB DB_NN -LRB-_-LRB- P_NN |_CD Q_NNP -RRB-_-RRB- =_JJ X_NN min_NN qj_FW ∈_FW Q_NNP pi_NNP ∈_NNP P_NN |_NNP pi_NNP −_NNP qj_NNP |_NNP r_NN ._.
+Two_CD natural_JJ choices_NNS for_IN r_NN is_VBZ r_NN =_JJ 1_CD and_CC r_NN =_JJ 2_CD ._.
+For_IN r_NN =_JJ 1_CD the_DT Bou_NN

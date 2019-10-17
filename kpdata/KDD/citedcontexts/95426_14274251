@@ -1,0 +1,4 @@
+-LRB-_-LRB- 2_CD ,_, 10_CD -RRB-_-RRB- ,_, and_CC for_IN detecting_VBG ``_`` burstiness_NN ''_'' in_IN data_NNS -LRB-_-LRB- 12_CD ,_, 14_CD -RRB-_-RRB- ._.
+The_DT definition_NN of_IN change_NN has_VBZ typically_RB involved_VBN fitting_JJ a_DT model_NN to_TO the_DT data_NNS and_CC determining_VBG when_WRB the_DT test_NN data_NNS deviates_VBZ from_IN the_DT built_VBN model_NN =_JJ -_: =[_NN 9_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Other_JJ work_NN has_VBZ used_VBN statistical_JJ outliers_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- and_CC likelihood_NN models_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Robustness_NN of_IN Stream_NNP Mining_NNP Algorithms_NNP 5_CD The_DT paper_NN by_IN Ganti_FW et_FW al._FW -LRB-_-LRB- 7_CD -RRB-_-RRB- uses_VBZ a_DT family_NN of_IN decision_NN tree_NN models_NNS to_TO model_NN data_NNS ,_,

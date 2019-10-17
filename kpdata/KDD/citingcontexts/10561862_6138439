@@ -1,0 +1,4 @@
+ontainers_NNS to_TO identify_VB leaks_NNS -LRB-_-LRB- 33_CD -RRB-_-RRB- ._.
+In_IN the_DT context_NN of_IN languages_NNS with_IN explicit_JJ memory_NN management_NN ,_, several_JJ static_JJ analyses_NNS have_VBP been_VBN developed_VBN that_WDT identify_VBP where_WRB a_DT programmer_NN failed_VBD to_TO deallocate_VB memory_NN =_JJ -_: =[_NN 8_CD ,_, 14,25,32_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Similarly_RB ,_, trace-based_JJ tools_NNS such_JJ as_IN Purify_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- or_CC Valgrind_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- can_MD identify_VB unreachable_JJ objects_NNS in_IN such_JJ environments_NNS ._.
+By_IN comparison_NN ,_, the_DT garbage_NN collected_VBD languages_NNS at_IN which_WDT our_PRP$ analysis_NN aims_NNS do_VBP

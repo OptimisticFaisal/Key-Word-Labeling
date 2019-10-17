@@ -1,0 +1,4 @@
+t_NN among_IN the_DT non-RSN_JJ algorithms_NNS ._.
+Note_VB that_IN since_IN the_DT document_NN vector_NN is_VBZ L2-normalized_JJ ,_, the_DT KM-ED_NN is_VBZ actually_RB based_VBN on_IN von_NNP Mises-Fisher_NNP distribution_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, which_WDT proved_VBD efficient_JJ for_IN document_NN clustering_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP also_RB observe_VBP that_IN for_IN these_DT graphs_NNS ,_, in_IN general_JJ the_DT algorithms_NNS based_VBN on_IN logistic_JJ loss_NN provide_VB better_JJR performance_NN ._.
+The_DT possible_JJ reason_NN is_VBZ that_IN logistic_JJ loss_NN corresponds_VBZ to_TO Bernoulli_NNP distribution_NN wh_NN

@@ -1,0 +1,4 @@
+ranking_JJ methods_NNS ._.
+We_PRP use_VBP a_DT Support_NN Vector_NNP Machine_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- to_TO learn_VB a_DT linear_JJ function_NN of_IN the_DT basic_JJ file_NN features_NNS that_WDT minimizes_VBZ the_DT classification_NN error_NN on_IN our_PRP$ training_NN logger_NN data_NNS ._.
+-LRB-_-LRB- Similarly_RB to_TO ,_, e.g._FW ,_, =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP actually_RB learned_VBD a_DT binary_JJ relation_NN over_IN the_DT candidate_NN answers_NNS ._. -RRB-_-RRB-
+Thus_RB ,_, the_DT feature_NN SVM-75_NN is_VBZ defined_VBN for_IN each_DT user_NN ,_, by_IN using_VBG as_IN training_NN data_NNS four_CD randomly_RB chosen_VBN subsets_NNS of_IN 75_CD %_NN of_IN its_PRP$ log_NN data_NNS ,_, w_NN

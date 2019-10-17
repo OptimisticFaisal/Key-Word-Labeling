@@ -1,0 +1,4 @@
+multiple_JJ ,_, overlapping_VBG clusters_NNS -LRB-_-LRB- 23_CD ,_, 4_CD -RRB-_-RRB- ._.
+Similarly_RB ,_, when_WRB clustering_VBG documents_NNS into_IN topic_NN categories_NNS ,_, documents_NNS may_MD contain_VB multiple_JJ relevant_JJ topics_NNS and_CC an_DT overlapping_VBG clustering_NN might_MD be_VB more_RBR relevant_JJ =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT 20-Newsgroups_NN benchmark_NN dataset_NN ,_, articles_NNS with_IN multiple_JJ topics_NNS are_VBP cross_JJ posted_VBD to_TO multiple_JJ newsgroups_NNS ._.
+Ideally_RB ,_, a_DT clustering_NN algorithm_NN applied_VBN to_TO this_DT data_NN would_MD allow_VB articles_NNS to_TO be_VB assigne_JJ

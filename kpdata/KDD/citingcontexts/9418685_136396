@@ -1,0 +1,4 @@
+ls_NNS is_VBZ a_DT well-studied_JJ problem_NN ,_, and_CC there_EX are_VBP stable_JJ SVM_NN solvers_NNS that_WDT are_VBP suitable_JJ for_IN comparisons_NNS ._.
+Moreover_RB ,_, scaling_VBG up_RP SVM_NN with_IN kernels_NNS to_TO large_JJ datasets_NNS is_VBZ an_DT interesting_JJ research_NN problem_NN on_IN its_PRP$ own_JJ =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN binary_JJ classification_NN the_DT loss_NN function_NN ∆_NN is_VBZ just_RB the_DT zeroone_NN loss_NN ._.
+The_DT feature_NN map_NN Ψ_NN is_VBZ defined_VBN by_IN Ψ_NN -LRB-_-LRB- x_NN ,_, y_NN -RRB-_-RRB- =_JJ yφ_NN -LRB-_-LRB- x_NN -RRB-_-RRB- ,_, where_WRB y_FW ∈_FW -LCB-_-LRB- 1_CD ,_, −_NN 1_CD -RCB-_-RRB- and_CC φ_NN is_VBZ the_DT nonlinear_JJ feature_NN map_NN induced_VBN from_IN a_DT Mercer_NNP kerne_NN

@@ -1,0 +1,4 @@
+herefore_RB the_DT corresponding_JJ clusters_NNS will_MD be_VB either_CC ill_RB determined_VBN or_CC absent_JJ ._.
+Another_DT method_NN of_IN fitting_JJ mixture_NN models_NNS to_TO large_JJ datasets_NNS is_VBZ the_DT Scalable_JJ EM_NN -LRB-_-LRB- SEM_NN -RRB-_-RRB- algorithm_NN of_IN Bradley_NNP ,_, Fayyad_NNP and_CC Reina_NNP =_SYM -_: =[_NN 5_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Their_PRP$ method_NN requires_VBZ only_RB a_DT single_JJ scan_VB of_IN the_DT dataset_NN ._.
+Its_PRP$ main_JJ drawback_NN is_VBZ that_IN it_PRP does_VBZ not_RB offer_VB a_DT way_NN of_IN estimating_VBG the_DT number_NN of_IN groups_NNS or_CC mixture_NN components_NNS ;_: the_DT number_NN of_IN clusters_NNS is_VBZ a_DT param_NN

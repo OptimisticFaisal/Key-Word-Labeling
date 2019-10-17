@@ -1,0 +1,5 @@
+d_NN to_TO every_DT tuple_NN and_CC evaluate_VB attributes_NNS according_VBG to_TO how_WRB well_RB they_PRP predict_VBP these_DT labels_NNS ._.
+Finally_RB ,_, Gravano_NNP et_FW al._FW ,_, use_VBP the_DT TF_NN ._.
+IDF_NN weighting_NN schemes_NNS for_IN approximate_JJ text_NN joins_VBZ within_IN a_DT database_NN system_NN =_JJ -_: =_JJ -LRB-_-LRB- GIKS03_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+6.2_CD Incorporating_VBG Weights_NNS We_PRP consider_VBP both_CC relational_JJ and_CC market-basket_JJ data_NNS with_IN the_DT representations_NNS given_VBN in_IN Section_NN 3.3.1_CD and_CC 3.3.2_CD ,_, respectively_RB ._.
+We_PRP denote_VBP by_IN T_NN the_DT set_NN of_IN tuples_NNS to_TO be_VB clustered_VBN

@@ -1,0 +1,7 @@
+conditions_NNS ._.
+This_DT prevents_VBZ combinatorial_JJ explosion_NN ._.
+Multiple_JJ minimum_NN supports_VBZ give_VB additional_JJ flexibilities_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, which_WDT deal_VBP with_IN skewed_JJ data_NNS and_CC also_RB enable_VBP the_DT system_NN not_RB to_TO generate_VB unwanted_JJ rules_NNS =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT are_VBP useful_JJ in_IN practice_NN ._.
+All_DT these_DT can_MD be_VB done_VBN quite_RB easily_RB in_IN a_DT CAR_NN miner_NN such_JJ as_IN CBA_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- by_IN setting_VBG some_DT parameters_NNS ._.
+We_PRP have_VBP re-implemented_VBN CBA_NNP to_TO accommodate_VB the_DT required_JJ flexibility_NN ._.
+For_IN m_NN

@@ -1,0 +1,4 @@
+een_VB a_DT selected_VBN data_NN point_NN and_CC its_PRP$ nearest_JJS neighbors_NNS in_IN the_DT same_JJ and_CC different_JJ classes_NNS -LRB-_-LRB- as_IN in_IN ReliefF-based_JJ weighting_NN -RRB-_-RRB- -LRB-_-LRB- 6_CD ,_, ?_.
+,_, 24_CD -RRB-_-RRB- or_CC by_IN the_DT distance_NN between_IN support_NN vectors_NNS -LRB-_-LRB- as_IN in_IN SVM-based_JJ weighting_NN -RRB-_-RRB- =_JJ -_: =[_NN 14_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT advantage_NN of_IN such_JJ methods_NNS is_VBZ that_IN optimal_JJ weights_NNS of_IN features_NNS can_MD be_VB estimated_VBN by_IN considering_VBG features_NNS together_RB ._.
+A_DT subset_NN of_IN top-ranked_JJ features_NNS can_MD be_VB selected_VBN based_VBN on_IN a_DT single_JJ pass_NN of_IN weightin_NN

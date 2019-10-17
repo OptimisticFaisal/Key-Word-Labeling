@@ -1,0 +1,4 @@
+∑_NN I_CD -LCB-_-LRB- ˆl_NN -LRB-_-LRB- i_LS -RRB-_-RRB- ̸_NN =_JJ l_NN -LRB-_-LRB- i_LS -RRB-_-RRB- -RCB-_-RRB- i_LS =_JJ 1_CD -RRB-_-RRB- 1\/2_CD ,_, where_WRB ˆl_NN -LRB-_-LRB- i_LS -RRB-_-RRB- is_VBZ the_DT label_NN of_IN object_NN xi_NN predicted_VBN by_IN the_DT classifier_NN ,_, in_IN the_DT setting_NN of_IN 5-level_JJ ratings_NNS ._.
+For_IN the_DT pairwise_JJ approach_NN ,_, the_DT following_JJ result_NN has_VBZ been_VBN obtained_VBN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, 1_CD −_NN MAP_NN -LRB-_-LRB- f_SYM ;_: x_NN ,_, L_NN -RRB-_-RRB- ≤_NN 1_CD −_NN 1_CD ∑_FW √_FW 2_CD i_LS -RRB-_-RRB- ._.
+n1_NN -LRB-_-LRB- L_NN p_NN -LRB-_-LRB- f_SYM ;_: x_NN ,_, L_NN -RRB-_-RRB- +_CC C_NN 2_CD n1_NN +1_NN -RRB-_-RRB- −_NN 1_CD n1_NN -LRB-_-LRB- According_VBG to_TO the_DT above_JJ results_NNS ,_, minimizing_VBG the_DT regression_NN and_CC classification_NN based_JJ pointwise_NN losses_NNS will_MD minimize_VB -LRB-_-LRB- 1_CD −_NN NDCG_NN -RRB-_-RRB- ._.
+No_DT

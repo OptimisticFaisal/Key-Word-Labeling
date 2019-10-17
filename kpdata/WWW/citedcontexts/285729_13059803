@@ -1,0 +1,5 @@
+sum_NN of_IN ranking_JJ vector_NN r_NN does_VBZ not_RB change_VB ._.
+Although_IN p_NN is_VBZ set_VBN as_IN a_DT uniform_JJ vector_NN in_IN VisualRank_NNP as_RB well_RB as_IN normal_JJ PageRank_NNP ,_, it_PRP is_VBZ known_VBN that_IN p_NN can_MD plays_VBZ a_DT bias_NN vector_NN which_WDT affects_VBZ the_DT final_JJ value_NN of_IN r_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2.2_CD GeoVisualRank_NN We_PRP propose_VBP using_VBG a_DT geo-location-based_JJ bias_NN vector_NN in_IN calculation_NN of_IN VisualRank_NNP instead_RB of_IN a_DT uniform_NN damping_VBG vector_NN ._.
+We_PRP call_VBP this_DT as_IN ``_`` GeoVisualRank_NNP ''_'' ._.
+GeoVisualRank_NNP computes_VBZ ranking_VBG

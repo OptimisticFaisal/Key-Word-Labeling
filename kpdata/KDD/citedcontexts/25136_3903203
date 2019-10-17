@@ -1,0 +1,4 @@
+association_NN rules_NNS from_IN transactions_NNS in_IN which_WDT the_DT data_NN has_VBZ been_VBN randomized_VBN to_TO preserve_VB privacy_NN of_IN individual_JJ transactions_NNS ._.
+One_CD problem_NN is_VBZ it_PRP may_MD introduce_VB some_DT false_JJ association_NN rules_NNS ._.
+The_DT authors_NNS ,_, in_IN =_JJ -_: =[_NN 17_CD ,_, 32_CD -RRB-_-RRB- -_: =_JJ -_: ,_, investigated_VBD distributed_VBN privacy_NN preserving_NN association_NN rule_NN mining_NN ._.
+Though_IN this_DT approach_NN can_MD fully_RB preserve_VB privacy_NN ,_, it_PRP works_VBZ only_RB for_IN distributed_VBN environment_NN and_CC needs_VBZ sophisticated_JJ protocols_NNS -LRB-_-LRB- sec_NN

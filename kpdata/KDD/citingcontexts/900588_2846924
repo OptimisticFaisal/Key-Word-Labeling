@@ -1,0 +1,4 @@
+to_TO similar_JJ predictivesdistributions_NNS ,_, when_WRB the_DT corresponding_JJ attribute-value_JJ pairs_NNS are_VBP given_VBN as_IN input_NN to_TO the_DT same_JJ probabilistic_JJ model_NN ._.
+The_DT idea_NN is_VBZ related_JJ to_TO the_DT Bayesian_JJ distance_NN metric_NN suggested_VBN in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: as_IN a_DT method_NN for_IN defining_VBG similarity_NN in_IN the_DT case-based_JJ reasoning_NN framework_NN ._.
+The_DT basic_JJ principles_NNS of_IN the_DT suggested_JJ supervised_JJ Bayesian_JJ data_NNS reduction_NN scheme_NN are_VBP reviewed_VBN in_IN Section_NN 3_CD ._.
+An_DT obvious_JJ drawba_NN

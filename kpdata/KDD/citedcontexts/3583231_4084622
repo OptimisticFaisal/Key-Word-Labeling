@@ -1,0 +1,4 @@
+istic_JJ implication_NN ,_, where_WRB data_NNS are_VBP perturbed_VBN with_IN noise_NN for_IN the_DT release_NN of_IN statistics_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP focus_VBP on_IN privacy-preserving_NN among_IN the_DT intra-party_JJ computation_NN ._.
+The_DT work_NN most_RBS related_JJ to_TO ours_PRP is_VBZ =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB Wright_NNP and_CC Yang_NNP applied_VBD homomorphic_JJ encryption_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- to_TO the_DT Bayesian_JJ networks_NNS induction_NN for_IN the_DT case_NN of_IN two_CD 3s4_CD parties_NNS ._.
+However_RB ,_, the_DT core_NN protocol_NN which_WDT is_VBZ called_VBN Scalar_NNP Product_NNP Protocol_NNP can_MD b_SYM

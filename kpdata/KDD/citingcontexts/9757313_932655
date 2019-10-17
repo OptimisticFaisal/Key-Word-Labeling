@@ -1,0 +1,4 @@
+y_NN noting_VBG that_IN the_DT expected_VBN number_NN of_IN multiple_JJ edges_NNS and_CC self-loops_NNS added_VBN by_IN the_DT nth_NN inserted_VBD node_NN is_VBZ O_NN -LRB-_-LRB- m_NN 3_CD \/_: n_NN 1\/2_CD −_FW ɛ_FW -RRB-_-RRB- ,_, conditioned_VBN on_IN the_DT fact_NN that_IN the_DT highest_JJS degree_NN at_IN that_DT point_NN is_VBZ O_NN -LRB-_-LRB- n_NN 1\/2_CD +_CC ɛ_NN -RRB-_-RRB- whp_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Then_RB ,_, by_IN Markov_NNP 's_POS inequality_NN the_DT claim_NN follows_VBZ ._.
+Also_RB ,_, we_PRP remove_VBP all_DT nodes_NNS of_IN degree_NN -RRB-_-RRB- k_NN ,_, for_IN some_DT constant_JJ k_NN --_: by_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- only_JJ ɛkn_NN edges_NNS and_CC nodes_NNS will_MD be_VB removed_VBN this_DT way_NN ._.
+The_DT resulting_VBG graph_NN will_MD thus_RB

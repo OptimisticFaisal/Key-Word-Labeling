@@ -1,0 +1,4 @@
+tion_NN of_IN process_NN specification_NN at_IN design-time_NN ._.
+During_IN the_DT run-time_NN each_DT local_JJ engine_NN only_RB obtains_VBZ the_DT partial_JJ copy_NN of_IN the_DT whole_JJ process_NN ,_, and_CC executes_VBZ it_PRP at_IN local_JJ site_NN where_WRB the_DT invoked_JJ service_NN resides_VBZ =_JJ -_: =[_NN 19_CD ,_, 20_CD ,_, 21_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Nevertheless_RB ,_, in_IN mobile_JJ code_NN style_NN ,_, the_DT process_NN specification_NN does_VBZ not_RB specify_VB the_DT concrete_JJ service_NN ,_, leaving_VBG it_PRP determined_VBD at_IN runtime_NN ._.
+Both_CC process_NN schema_NN and_CC instance_NN are_VBP dynamically_RB delivered_VBN to_TO t_NN

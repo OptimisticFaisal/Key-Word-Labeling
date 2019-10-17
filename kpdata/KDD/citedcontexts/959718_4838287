@@ -1,0 +1,5 @@
+e_LS query_NN language_NN and_CC document_NN language_NN ._.
+These_DT ratings_NNS are_VBP a_DT form_NN of_IN P_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- sQBE_NN --_: querying_VBG by_IN example_NN ._.
+There_EX are_VBP many_JJ approaches_NNS to_TO user_NN modeling_NN ,_, one_CD of_IN the_DT most_RBS used_VBN is_VBZ collaborative_JJ filtering_VBG method_NN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ method_NN is_VBZ content_NN based_VBN filtering_VBG --_: it_PRP uses_VBZ information_NN about_IN attributes_NNS of_IN objects_NNS ._.
+4.1_CD Learning_NNP Local_NNP Preferences_NNPS In_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 8_CD -RRB-_-RRB- we_PRP have_VBP described_VBN several_JJ techniques_NNS of_IN learning_VBG user_NN 's_POS prefere_NN

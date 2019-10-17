@@ -1,0 +1,4 @@
+pages_NNS without_IN out-links_NNS ,_, called_VBN dangling_JJ nodes_NNS ._.
+Dangling_VBG pages_NNS present_VBP a_DT problem_NN for_IN the_DT mathematical_JJ PageRank_NN formulation_NN ._.
+A_DT review_NN of_IN various_JJ approaches_NNS dealing_VBG with_IN dangling_VBG pages_NNS can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD way_NN to_TO overcome_VB this_DT difficulty_NN ,_, is_VBZ to_TO slightly_RB change_VB the_DT transition_NN matrix_NN P_NN to_TO a_DT truly_RB row-stochastic_JJ matrix_NN where_WRB di_FW =_JJ δ_NN deg_NN -LRB-_-LRB- i_LS -RRB-_-RRB- 0_CD P_NN ′_NN =_JJ P_NN +_CC d_FW ·_FW v_LS T_NN ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- is_VBZ the_DT dangling_JJ page_NN indicator_NN ,_, and_CC

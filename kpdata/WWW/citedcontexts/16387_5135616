@@ -1,0 +1,3 @@
+._.
+We_PRP still_RB require_VBP that_IN all_DT preconditions_NNS of_IN s_NN are_VBP fulfilled_VBN by_IN r._NN This_DT kind_NN of_IN matching_NN between_IN the_DT types_NNS of_IN the_DT inputs_NNS of_IN request_NN r_NN and_CC of_IN service_NN s_NN corresponds_VBZ to_TO the_DT overlap_VBP or_CC intersection_NN match_NN =_JJ -_: =[_NN 5_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Service_NN composition_NN with_IN partial_JJ type_NN matches_NNS combines_VBZ several_JJ partially_RB matching_VBG services_NNS into_IN a_DT composite_JJ service_NN using_VBG a_DT switch_NN that_WDT maps_VBZ each_DT possible_JJ combination_NN of_IN parameter_NN values_NNS from_IN the_DT sp_NN

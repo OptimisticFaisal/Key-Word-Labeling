@@ -1,0 +1,5 @@
+o_NN become_VB inordinately_RB large_JJ ._.
+Furthermore_RB ,_, the_DT size_NN of_IN intermediate_JJ tidsets_NNS generated_VBN for_IN frequent_JJ patterns_NNS can_MD also_RB become_VB very_RB large_JJ to_TO fit_VB into_IN main_JJ memory_NN ._.
+GenMax_NNP uses_VBZ a_DT new_JJ format_NN called_VBN diffsets_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: for_IN fast_JJ frequency_NN testing_NN ._.
+The_DT main_JJ idea_NN of_IN diffsets_NNS is_VBZ to_TO avoid_VB storing_VBG the_DT entire_JJ tidset_NN of_IN each_DT element_NN in_IN the_DT combine_VBP set_NN ._.
+Instead_RB we_PRP keep_VBP track_NN of_IN only_RB the_DT differences_NNS between_IN the_DT tidset_NN of_IN ite_NN

@@ -1,0 +1,3 @@
+ODUCTION_NNP Clustering_NNP techniques_NNS have_VBP been_VBN studied_VBN extensively_RB in_IN statistics_NNS ,_, pattern_NN recognition_NN ,_, and_CC machine_NN learning_NN ._.
+Clustering_NN in_IN high_JJ dimensional_JJ space_NN is_VBZ often_RB problematic_JJ as_IN theoretical_JJ results_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: questioned_VBD the_DT meaning_NN of_IN closest_JJS matching_NN in_IN high_JJ dimensional_JJ spaces_NNS ,_, which_WDT is_VBZ known_VBN as_IN the_DT curse_NN of_IN dimensionality_NN ._.
+Recent_JJ research_NN work_NN -LRB-_-LRB- 16_CD ,_, 1_CD ,_, 2_CD ,_, 3_CD ,_, 6_CD ,_, 11_CD -RRB-_-RRB- has_VBZ focused_VBN on_IN subspace_NN clustering_NN ,_, dis_NN

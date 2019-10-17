@@ -1,0 +1,4 @@
+e_LS sequences_NNS ._.
+Iterative_JJ pattern_NN is_VBZ defined_VBN based_VBN on_IN the_DT semantics_NNS of_IN commonly_RB used_VBN software_NN modeling_NN languages_NNS :_: Message_NN Sequence_NN Chart_NN -LRB-_-LRB- MSC_NN -RRB-_-RRB- -LRB-_-LRB- a_DT standard_NN of_IN International_NNP Telecommunication_NNP Union_NNP -LRB-_-LRB- ITU_NNP -RRB-_-RRB- -RRB-_-RRB- =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: and_CC its_PRP$ extension_NN ,_, Live_JJ Sequence_NN Chart_NN -LRB-_-LRB- LSC_NN -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+Different_JJ from_IN frequent_JJ itemset_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, iterative_JJ pattern_NN takes_VBZ into_IN consideration_NN temporal_JJ orders_NNS in_IN a_DT trace_NN ._.
+The_DT behavior_NN ``_`` allocate_VB followed_VBN by_IN consu_NN

@@ -1,0 +1,4 @@
+MSGS_NN in_IN two_CD ways_NNS :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- using_VBG a_DT supervised_JJ metric_JJ learning_NN algorithm_NN to_TO learn_VB a_DT geometric_JJ pattern_NN on_IN the_DT data_NNS and_CC input_NN the_DT obtained_VBN pattern_NN into_IN MSGS_NN ._.
+In_IN this_DT work_NN we_PRP implement_VBP MSGS-OLDA_NN :_: we_PRP use_VBP OLDA_NN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: to_TO learn_VB a_DT geometric_JJ pattern_NN and_CC feed_VB it_PRP into_IN MSGS-VAR_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Learning_NNP the_DT combination_NN coefficient_NN automatically_RB with_IN a_DT supervised_JJ kernel_NN learning_NN algorithm_NN and_CC input_NN the_DT combined_JJ pattern_NN into_IN MSGS_NN ._.
+In_IN

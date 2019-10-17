@@ -1,0 +1,5 @@
+f_LS this_DT proposalareempiricallydemonstratedonseveralreal-world_JJ 5000 4000 3000 2000_CD 1000_CD Number_NN of_IN rules_NNS dynamic_JJ social_JJ networks_NNS ._.
+A_DT few_JJ works_NNS tackle_VBP the_DT problem_NN of_IN discovering_VBG rules_NNS from_IN these_DT patterns_NNS ._.
+=_SYM -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 3_LS -RRB-_-RRB- propose_VBP to_TO discover_VB descriptive_JJ rules_NNS to_TO qualify_VB the_DT dynamics_NNS of_IN the_DT networks_NNS ._.
+-LRB-_-LRB- 25_CD -RRB-_-RRB- studies_NNS how_WRB a_DT graph_NN is_VBZ structurally_RB transformed_VBN through_IN time_NN ._.
+The_DT proposed_VBN method_NN computes_VBZ graph_NN rewriting_VBG

@@ -1,0 +1,4 @@
+sed_JJ community_NN outlier_NN detection_NN algorithm_NN -LRB-_-LRB- CODA_NN -RRB-_-RRB- with_IN the_DT following_JJ outlier_NN detection_NN methods_NNS :_: •_NNP GLODA_NNP :_: This_DT baseline_NN looks_VBZ at_IN the_DT data_NN values_NNS only_RB ._.
+We_PRP use_VBP the_DT popular_JJ outlier_NN detection_NN algorithm_NN LOF_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: to_TO detect_VB ``_`` global_JJ ''_'' outliers_NNS without_IN taking_VBG the_DT network_NN structure_NN into_IN account_NN ._.
+•_NNP DNODA_NNP :_: This_DT method_NN only_RB considers_VBZ the_DT values_NNS of_IN each_DT object_NN 's_POS direct_JJ neighbors_NNS in_IN the_DT graph_NN ._.
+We_PRP define_VBP the_DT outlier_NN sco_NN

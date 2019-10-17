@@ -1,0 +1,6 @@
+ode_VB overlapping_VBG inside_IN each_DT sector_NN ,_, and_CC the_DT node_NN distance_NN to_TO its_PRP$ center_NN ._.
+Layouting_VBG a_DT sector_NN with_IN n_NN nodes_NNS requires_VBZ O_NN -LRB-_-LRB- n_NN ·_NN log_NN -LRB-_-LRB- n_NN -RRB-_-RRB- -RRB-_-RRB- operations_NNS ._.
+Fig._NN 2_CD -LRB-_-LRB- b_NN -RRB-_-RRB- shows_VBZ the_DT wheel_NN view_NN of_IN the_DT Book-Crossing_JJ dataset_NN =_JJ -_: =_JJ -LRB-_-LRB- ZMKL05_NN -RRB-_-RRB- -_: =_SYM -_: which_WDT breaks_VBZ down_RP ratings_NNS on_IN 270,170_CD books_NNS -LRB-_-LRB- the_DT rows_NNS -RRB-_-RRB- by_IN country_NN -LRB-_-LRB- the_DT columns_NNS -RRB-_-RRB- ._.
+To_TO simplify_VB the_DT view_NN ,_, only_RB eight_CD countries_NNS are_VBP included_VBN -LRB-_-LRB- Fig._FW 2a_FW -RRB-_-RRB- ._.
+The_DT thresholds_NNS are_VBP set_VBN to_TO Tr_NN =_JJ 0.15_CD and_CC Ts_NN =_JJ 12_CD ._.
+The_DT

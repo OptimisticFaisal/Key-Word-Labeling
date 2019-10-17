@@ -1,0 +1,6 @@
+veloping_VBG specialized_JJ domainspecific_JJ record-linkage_NN and_CC data-cleansing_NN tools_NNS ._.
+Three_CD primary_JJ challenges_NNS arise_VBP ._.
+First_RB ,_, it_PRP is_VBZ important_JJ to_TO determine_VB similarity_NN functions_NNS to_TO link_VB two_CD records_NNS as_IN duplicates_NNS =_JJ -_: =[_NN 2_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Such_JJ a_DT similarity_NN function_NN consists_VBZ of_IN two_CD levels_NNS ._.
+First_RB ,_, similarity_NN metrics_NNS need_VBP to_TO be_VB defined_VBN at_IN the_DT level_NN of_IN each_DT field_NN to_TO determine_VB similarity_NN of_IN different_JJ values_NNS ._.
+Next_JJ ,_, field-level_JJ similarity_NN m_NN

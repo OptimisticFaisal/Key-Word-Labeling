@@ -1,0 +1,4 @@
+ase_VB where_WRB no_DT initial_JJ link_NN structure_NN is_VBZ available_JJ ._.
+Several_JJ probabilistic_JJ models_NNS such_JJ as_IN Markov_NNP logic_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, relational_JJ Markov_NNP networks_NNS -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, Markov_NNP random_JJ fields_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, and_CC probabilistic_JJ relational_JJ models_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN used_VBN to_TO efficiently_RB capture_VB the_DT relation_NN in_IN data_NNS ._.
+Unfortunately_RB ,_, these_DT approaches_NNS have_VBP not_RB been_VBN proved_VBN to_TO scale_VB as_IN they_PRP have_VBP been_VBN tested_VBN only_RB on_IN small_JJ data_NNS sets_NNS ._.
+Van_NNP der_NNP Aalst_NNP et_FW al._FW -LRB-_-LRB- 22_CD -RRB-_-RRB- e_SYM

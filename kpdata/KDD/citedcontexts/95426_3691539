@@ -1,0 +1,6 @@
+eams_VBZ Recent_JJ work_NN has_VBZ applied_VBN mining_NN techniques_NNS in_IN streams_NNS context_NN ._.
+The_DT work_NN most_RBS related_JJ to_TO ours_PRP is_VBZ Dependency_NN detection_NN -LRB-_-LRB- 35_CD ,_, 38_CD -RRB-_-RRB- ._.
+Clustering_NN on_IN streams_NNS was_VBD explored_VBN in_IN -LRB-_-LRB- 6_CD ,_, 17_CD -RRB-_-RRB- ,_, and_CC Classification_NN in_IN =_JJ -_: =[_NN 1_CD ,_, 15_CD ,_, 18_CD ,_, 20_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Teng_NNP et_FW al._FW -LRB-_-LRB- 35_CD -RRB-_-RRB- developed_VBD methods_NNS for_IN identifying_VBG temporal_JJ patterns_NNS in_IN data_NNS streams_NNS ._.
+The_DT model_NN is_VBZ based_VBN on_IN the_DT traditional_JJ inter-transaction_JJ association_NN rules_NNS -LRB-_-LRB- 37_CD -RRB-_-RRB- ._.
+The_DT stream_NN is_VBZ divided_VBN into_IN sever_VBP

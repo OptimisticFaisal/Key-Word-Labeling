@@ -1,0 +1,4 @@
+and_CC Sec_NNP ._.
+2.4_CD for_IN more_JJR details_NNS ._. -RRB-_-RRB- ._.
+2.2_CD Related_NNP Work_NNP on_IN Concept_NNP Drift_VB In_IN machine_NN learning_NN ,_, changing_VBG or_CC drifting_VBG concepts_NNS are_VBP often_RB handled_VBN by_IN time_NN windows_NNS of_IN fixed_JJ or_CC adaptive_JJ size_NN on_IN the_DT training_NN data_NN =_JJ -_: =[_NN 36,55,34,23,27,19_CD -RRB-_-RRB- -_: =_JJ -_: or_CC by_IN weighting_NN data_NNS or_CC parts_NNS of_IN the_DT hypothesis_NN according_VBG to_TO their_PRP$ age_NN and\/or_CC utility_NN for_IN the_DT classification_NN task_NN -LRB-_-LRB- 32,50_CD -RRB-_-RRB- ._.
+The_DT latter_JJ approach_NN of_IN weighting_NN examples_NNS has_VBZ already_RB been_VBN used_VBN for_IN informat_NN

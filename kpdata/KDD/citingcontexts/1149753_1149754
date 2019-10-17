@@ -1,0 +1,4 @@
+hed_VBN ._.
+This_DT way_NN of_IN classification_NN has_VBZ been_VBN shown_VBN to_TO be_VB equivalent_JJ to_TO the_DT standard_JJ non-hierarchical_JJ classification_NN over_IN a_DT flat_JJ set_NN of_IN leaf_NN classes_NNS if_IN maximum_JJ likelihood_NN estimates_NNS of_IN all_DT features_NNS are_VBP used_VBN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, hierarchical_JJ classification_NN along_IN with_IN feature_NN selection_NN has_VBZ been_VBN shown_VBN to_TO achieve_VB better_JJR classification_NN results_VBZ than_IN a_DT flat_JJ classifier_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+This_DT is_VBZ because_IN each_DT classifier_NN can_MD now_RB utilize_VB

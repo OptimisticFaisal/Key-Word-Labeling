@@ -1,0 +1,3 @@
+tities_NNS of_IN interest_NN and_CC with_IN these_DT two_CD entities_NNS being_VBG annotated_JJ as_IN the_DT true_JJ relation_NN ,_, get_VB positive_JJ labels_NNS ._.
+6.1.1_CD SVM_NNP Model_NNP Learning_NNP We_PRP used_VBD the_DT publicly_RB available_JJ support_NN vector_NN machine_NN tool_NN SVM_NN light_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT implements_VBZ an_DT efficient_JJ soft_JJ margin_NN optimization_NN algorithm_NN ._.
+In_IN all_DT of_IN our_PRP$ experiments_NNS ,_, we_PRP study_VBD the_DT regularization_NN parameter_NN C_NN that_WDT controls_VBZ the_DT margin_NN width_NN ,_, and_CC the_DT cost-factor_JJ parameter_NN j_NN by_IN

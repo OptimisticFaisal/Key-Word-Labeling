@@ -1,0 +1,5 @@
+n_NN a_DT search_NN task_NN ._.
+Detecting_VBG and_CC exploiting_VBG user_NN feedback_NN has_VBZ been_VBN proposed_VBN for_IN a_DT variety_NN of_IN sub-tasks_NNS of_IN web_NN search_NN ._.
+Joachims_NNP proposed_VBD using_VBG click-through_JJ data_NNS in_IN order_NN to_TO learn_VB good_JJ ranking_JJ functions_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Radlinski_NNP et_FW al._FW use_VBP a_DT multi-armed_JJ bandit_NN algorithm_NN to_TO actively_RB adapt_VB retrieval_NN results_NNS to_TO gather_VB feedback_NN and_CC improve_VB ranking_JJ functions_NNS -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+In_IN the_DT context_NN of_IN search_NN advertising_NN ,_, approaches_NNS focus_VBP

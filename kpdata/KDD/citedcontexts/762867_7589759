@@ -1,0 +1,4 @@
+same_JJ entity_NN -LRB-_-LRB- duplicates_NNS -RRB-_-RRB- ._.
+Record_VB linkage_NN can_MD be_VB used_VBN for_IN data_NNS cleaning_NN -LRB-_-LRB- deduplication_NN -RRB-_-RRB- internally_RB in_IN one_CD database_NN -LRB-_-LRB- survey_NN of_IN several_JJ techniques_NNS in_IN -LRB-_-LRB- 11_CD -RRB-_-RRB- -RRB-_-RRB- and_CC for_IN integrating_VBG data_NNS from_IN multiple_JJ sources_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT contain_VBP extensional_JJ overlap_VBP ._.
+The_DT problem_NN gets_VBZ more_RBR complicated_JJ if_IN schemas_NNS are_VBP unaligned_JJ which_WDT is_VBZ usually_RB the_DT case_NN for_IN schema_NN matching_NN scenarios_NNS ._.
+Record_VB linkage_NN between_IN unaligned_JJ schemas_NNS is_VBZ less_JJR

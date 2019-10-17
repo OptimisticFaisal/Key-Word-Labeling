@@ -1,0 +1,3 @@
+presentative_JJ squashed_JJ data_NNS value_NN ,_, its_PRP$ weight_NN being_VBG the_DT number_NN of_IN points_NNS merged_VBN ._.
+The_DT algorithm_NN requires_VBZ two_CD passes_NNS :_: one_CD to_TO choose_VB the_DT logistic_JJ parameters_NNS and_CC one_CD to_TO cluster_VB and_CC merge_VB ._.
+DuMouchel_NNP et_FW al._FW =_SYM -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: argued_VBD that_IN for_IN any_DT likelihood_NN function_NN that_WDT can_MD be_VB approximated_VBN by_IN a_DT low_JJ order_NN Taylor_NNP series_NN over_IN multivariate_JJ bins_NNS ,_, the_DT squashed_JJ data_NN set_NN can_MD be_VB chosen_VBN by_IN matching_VBG low_JJ order_NN moments_NNS within_IN each_DT bin_NN

@@ -1,0 +1,4 @@
+l_NN where_WRB each_DT segment_NN is_VBZ represented_VBN by_IN a_DT basis_NN function_NN ._.
+Therefore_RB ,_, the_DT number_NN of_IN change_NN points_NNS ,_, their_PRP$ locations_NNS in_IN time_NN ,_, and_CC the_DT basis_NN functions_NNS for_IN each_DT segment_NN must_MD all_DT be_VB determined_VBN ._.
+Ge_NN and_CC Smyth_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT semiMarkov_NN -LRB-_-LRB- Markov_NNP model_NN combined_VBN with_IN a_DT Bayesian_NNP update_VB -RRB-_-RRB- model-based_JJ technique_NN which_WDT uses_VBZ state_NN switching_NN to_TO detect_VB change_NN points_NNS ._.
+Their_PRP$ framework_NN models_NNS individual_JJ segments_NNS using_VBG regress_NN

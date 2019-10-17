@@ -1,0 +1,4 @@
+mum_JJ Rule_NN Set_NN -LRB-_-LRB- MRS_NN -RRB-_-RRB- and_CC Minimum_NNP Clique_NNP Partition_NNP -LRB-_-LRB- MCP_NNP -RRB-_-RRB- problems_NNS ._.
+For_IN the_DT MRS_NNP problem_NN ,_, we_PRP compared_VBD CAG_NN with_IN a_DT popular_JJ rule_NN learner_NN AQ21_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, the_DT latest_JJS release_NN of_IN the_DT famous_JJ AQ_NN family_NN ,_, on_IN UCI_NN datasets_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT series_NN of_IN experiments_NNS ,_, RGB_NNP achieved_VBD about_IN 40_CD %_NN reduction_NN in_IN the_DT number_NN of_IN rules_NNS and_CC 30_CD %_NN reduction_NN in_IN the_DT number_NN of_IN conditions_NNS ._.
+Observation_NN 2_CD and_CC Theorem_NNP 2_CD show_VBP that_IN the_DT MCP_NN problem_NN is_VBZ related_VBN

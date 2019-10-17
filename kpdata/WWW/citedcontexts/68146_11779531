@@ -1,0 +1,5 @@
+is_VBZ ,_, and_CC workflow_NN authorization_NN modeling_NN ._.
+In_IN paper_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, the_DT authors_NNS develop_VBP Petri_NNP Net_NNP semantics_NNS for_IN BPEL_NNP which_WDT support_VBP the_DT translation_NN from_IN BPEL_NNP into_IN Petri_NNP Net_NN and_CC analysis_NN of_IN BPEL_NN processes_NNS ._.
+In_IN paper_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: a_DT framework_NN is_VBZ provided_VBN to_TO analyze_VB interactions_NNS of_IN WS-BPEL_NN ._.
+WS-BPEL_NN are_VBP eventually_RB translated_VBN into_IN PROMELA_NN and_CC LTL_NN formulas_NNS ,_, which_WDT are_VBP then_RB checked_VBN with_IN SPIN_NN ._.
+Based_VBN on_IN model_NN Checker_NNP Bogor_NNP ,_, Bianculli_NNP

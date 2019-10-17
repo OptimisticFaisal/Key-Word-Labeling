@@ -1,0 +1,5 @@
+equency_NN ._.
+Their_PRP$ experimental_JJ results_NNS show_VBP that_IN template_NN elimination_NN improves_VBZ the_DT precision_NN of_IN the_DT search_NN engine_NN Clever_JJ at_IN all_DT levels_NNS of_IN recall_NN ._.
+Another_DT content-based_JJ approach_NN is_VBZ proposed_VBN by_IN Lin_NNP and_CC Ho_NNP =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Their_PRP$ system_NN ,_, InfoDiscover_NNP ,_, partitions_VBZ a_DT web_NN page_NN into_IN several_JJ content_NN blocks_NNS according_VBG <TABLE>_NN tags_NNS ._.
+Terms_NNS are_VBP extracted_VBN as_IN features_NNS and_CC entropy_NN is_VBZ calculated_VBN for_IN each_DT term_NN and_CC block_NN entropy_NN is_VBZ cal_JJ

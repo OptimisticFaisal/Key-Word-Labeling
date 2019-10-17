@@ -1,0 +1,4 @@
+s_NN from_IN frequent_JJ pattern_NN tends_VBZ to_TO produce_VB a_DT large_JJ number_NN of_IN rules_NNS ._.
+Thus_RB ,_, many_JJ post-processing_JJ techniques_NNS have_VBP been_VBN proposed_VBN to_TO summarize_VB ,_, analyze_VB ,_, mine_VB and_CC rank_VB the_DT rules_NNS found_VBN from_IN the_DT mining_NN process_NN =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Thus_RB ,_, an_DT online_JJ mining_NN workbench_NN must_MD support_VB the_DT complete_JJ mining_NN process_NN ,_, as_IN 8opposed_CD to_TO only_RB supporting_VBG the_DT core_NN problem_NN for_IN finding_VBG frequent_JJ patterns_NNS ._.
+Previous_JJ research_NN projects_NNS have_VBP focused_VBN on_IN

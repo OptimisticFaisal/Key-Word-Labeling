@@ -1,0 +1,3 @@
+his_PRP$ setup_NN is_VBZ fairly_RB rare_JJ in_IN the_DT text_NN domain_NN as_IN it_PRP is_VBZ highly_RB inefficient_JJ in_IN many_JJ practical_JJ cases_NNS ._.
+•_FW Eager_FW learning_NN from_IN labeled_JJ features_NNS --_: usually_RB coupled_VBN with_IN learning_VBG from_IN labeled_VBN documents_NNS -LRB-_-LRB- see_VB ,_, e.g._FW =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+•_CD Lazy_JJ learning_NN from_IN labeled_JJ features_NNS --_: an_DT ensemble_NN of_IN decision-stump-like_JJ classifiers_NNS is_VBZ constructed_VBN ,_, each_DT of_IN which_WDT is_VBZ triggered_VBN if_IN a_DT document_NN contains_VBZ a_DT certain_JJ feature_NN ,_, such_JJ as_IN a_DT word_NN or_CC a_DT phrase_NN

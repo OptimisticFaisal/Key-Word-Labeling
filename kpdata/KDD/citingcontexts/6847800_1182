@@ -1,0 +1,3 @@
+priate_JJ notions_NNS of_IN similarity_NN in_IN place_NN ,_, we_PRP can_MD define_VB a_DT class_NN of_IN greedy_JJ algorithms_NNS ,_, iteratively_RB assigning_VBG two_CD groups_NNS the_DT same_JJ color_NN ._.
+Our_PRP$ algorithms_NNS are_VBP based_VBN on_IN the_DT idea_NN of_IN neighbor-joining_JJ clustering_NN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC differ_VBP merely_RB in_IN the_DT order_NN in_IN which_WDT candidate_NN pairs_NNS of_IN groups_NNS are_VBP considered_VBN ._.
+In_IN the_DT most_RBS basic_JJ version_NN of_IN the_DT greedy_JJ algorithm_NN ,_, we_PRP repeatedly_RB select_VBP the_DT pair_NN -LRB-_-LRB- g_NN ,_, g_NN ′_NN -RRB-_-RRB- with_IN the_DT highest_JJS similari_NNS

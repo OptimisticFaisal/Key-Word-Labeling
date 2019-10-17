@@ -1,0 +1,4 @@
+mon_NN to_TO all_DT objects_NNS in_IN the_DT class_NN -LRB-_-LRB- defined_VBN by_IN a_DT specific_JJ value_NN of_IN the_DT output_NN attribute_NN -RRB-_-RRB- ._.
+Such_JJ rules_NNS introduce_VBP a_DT approach_NN to_TO characterizing_VBG classes_NNS of_IN entities_NNS ,_, different_JJ from_IN statistical_JJ methods_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+In_IN many_JJ cases_NNS rules_NNS with_IN high_JJ confidence_NN and_CC low_JJ support_NN are_VBP very_RB interesting_JJ for_IN analysts_NNS ._.
+Our_PRP$ method_NN differs_VBZ from_IN other_JJ algorithms_NNS generating_VBG association_NN rules_NNS because_IN it_PRP allows_VBZ discover_VB weak_JJ pat_NN

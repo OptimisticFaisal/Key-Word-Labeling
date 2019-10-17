@@ -1,0 +1,5 @@
+prediction_NN rule_NN ˆrui_NN =_JJ bui_NN +_CC q_NN T_NN -LRB-_-LRB- i_FW pu_FW -LRB-_-LRB- tui_NN -RRB-_-RRB- +_CC |_NN N_NN -LRB-_-LRB- u_NN -RRB-_-RRB- |_FW −_FW 1_LS -RRB-_-RRB- 2_CD ∑_CD y_NN j_NN ._.
+-LRB-_-LRB- 13_CD -RRB-_-RRB- j_FW ∈_FW N_NN -LRB-_-LRB- u_NN -RRB-_-RRB- Here_RB ,_, the_DT exact_JJ definition_NN of_IN the_DT time-dependent_JJ baseline_NN predictor_NN ,_, bui_NN ,_, follows_VBZ -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+As_IN is_VBZ typical_JJ for_IN a_DT SVD_NN +_CC +_CC model_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP employ_VBP two_CD sets_NNS of_IN static_JJ movie_NN factors_NNS :_: qi_FW ,_, yi_IN ∈_NNP R_NNP f_LS ._.
+The_DT first_JJ set_NN -LRB-_-LRB- the_DT qis_NN -RRB-_-RRB- is_VBZ common_JJ to_TO all_DT factor_NN models_NNS ._.
+The_DT second_JJ set_NN -LRB-_-LRB- the_DT yis_NN -RRB-_-RRB- facilitates_VBZ approximating_VBG a_DT user_NN factor_NN through_IN the_DT set_NN of_IN

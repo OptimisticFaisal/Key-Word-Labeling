@@ -1,0 +1,5 @@
+,_, subsets_NNS of_IN attributes_NNS ._.
+In_IN other_JJ words_NNS ,_, we_PRP propose_VBP to_TO tackle_VB the_DT problem_NN of_IN constructing_VBG a_DT ranking_NN of_IN features_NNS as_IN a_DT preference_NN learning_NN task_NN that_WDT will_MD be_VB finally_RB solved_VBN using_VBG Support_NN Vector_NNP Machines_NNP =_SYM -_: =[_NN 5_CD ,_, 1_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT rest_NN of_IN the_DT paper_NN is_VBZ organized_VBN as_IN follows_VBZ ._.
+In_IN section_NN 2_CD we_PRP present_VBP the_DT formal_JJ framework_NN of_IN the_DT problem_NN and_CC we_PRP describe_VBP the_DT proposed_VBN method_NN to_TO create_VB an_DT attribute_NN ranking_NN ._.
+Throughout_IN this_DT section_NN

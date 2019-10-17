@@ -1,0 +1,4 @@
+99_CD 67_CD a.knobbe@kiminkii.com,_FW e.ho@kiminkii.com_FW exactly_RB that_DT notion_NN ._.
+We_PRP will_MD refer_VB to_TO such_JJ feature_NN sets_NNS of_IN cardinality_NN k_NN as_RB maximally_RB informative_JJ k-itemsets_NNS -LRB-_-LRB- or_CC miki_NN 's_POS -RRB-_-RRB- ._.
+As_IN information_NN theory_NN dictates_VBZ =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT joint_JJ entropy_NN of_IN a_DT set_NN of_IN k_NN binary_JJ features_NNS is_VBZ optimal_JJ when_WRB the_DT distribution_NN of_IN possible_JJ combinations_NNS of_IN binary_JJ values_NNS is_VBZ uniform_JJ ._.
+In_IN other_JJ words_NNS ,_, the_DT database_NN is_VBZ partitioned_VBN into_IN 2_CD k_NN parts_NNS of_IN e_SYM

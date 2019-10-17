@@ -1,0 +1,4 @@
+only_RB one_CD nonzero_JJ entry_NN in_IN the_DT term-by-document_JJ matrix_NN ._.
+sTo_NN overcome_VBD this_DT problem_NN ,_, therefore_RB ,_, we_PRP propose_VBP a_DT novel_JJ application_NN of_IN PARAFAC2_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- as_IN an_DT alternative_NN to_TO LSA_NNP ._.
+PARAFAC2_NN is_VBZ a_DT variant_NN of_IN PARAFAC_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT multi-way_JJ generalization_NN of_IN the_DT SVD_NNP ._.
+The_DT PARAFAC_NN model_NN is_VBZ based_VBN on_IN a_DT `_`` parallel_JJ proportional_JJ profile_NN principle_NN '_'' that_WDT applies_VBZ the_DT same_JJ factors_NNS across_IN a_DT parallel_JJ set_NN of_IN matrices_NNS to_TO minimize_VB a_DT leastsq_NN

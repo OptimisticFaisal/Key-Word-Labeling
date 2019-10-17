@@ -1,0 +1,4 @@
+in_IN several_JJ elements_NNS ._.
+Figure_NN 1_CD shows_VBZ four_CD object_NN blocks_NNS located_JJ in_IN a_DT Web_NN page_NN generated_VBN by_IN Froogle_NNP and_CC five_CD elements_NNS located_JJ in_IN the_DT bottom_JJ block_NN ._.
+With_IN the_DT help_NN of_IN data_NNS record_NN mining_NN techniques_NNS such_JJ as_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP can_MD automatically_RB detect_VB the_DT object_NN blocks_VBZ from_IN a_DT Web_NN page_NN ._.
+2.2_CD Web_NN Object_NNP Extraction_NNP Given_VBD an_DT object_NN block_NN Ei_NN =_JJ -LRB-_-LRB- ei1ei2_FW ·_FW ·_FW ·_FW eiT_FW -RRB-_-RRB- ,_, and_CC its_PRP$ relevant_JJ object_NN schema_NN R_NN -LRB-_-LRB- a1_NN ,_, a2_NN ,_, ..._: ,_, am_VBP -RRB-_-RRB- ,_, we_PRP need_VBP to_TO

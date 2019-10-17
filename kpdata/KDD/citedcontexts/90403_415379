@@ -1,0 +1,5 @@
+g_NN Discriminant_JJ Patterns_NN ._.
+An_DT interesting_JJ application_NN of_IN frequency_NN constraints_NNS concerns_VBZ the_DT search_NN for_IN patterns_NNS that_WDT are_VBP frequent_JJ in_IN one_CD data_NN set_NN and_CC infrequent_JJ in_IN another_DT one_CD ._.
+This_DT has_VBZ been_VBN studied_VBN in_IN =_JJ -_: =[_NN 33_CD -RRB-_-RRB- -_: =_SYM -_: as_IN the_DT emerging_VBG pattern_NN mining_NN task_NN ._.
+More_RBR recently_RB ,_, it_PRP has_VBZ been_VBN studied_VBN within_IN an_DT inductive_JJ logic_NN programming_NN setting_NN in_IN -LRB-_-LRB- 32_CD -RRB-_-RRB- and_CC applied_VBN to_TO molecular_JJ fragment_NN discovery_NN ._.
+Assume_VB a_DT transactional_JJ datab_NN

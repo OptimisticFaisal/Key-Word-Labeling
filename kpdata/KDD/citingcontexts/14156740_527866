@@ -1,0 +1,4 @@
+t_NN algorithm_NN that_WDT has_VBZ the_DT ability_NN to_TO select_VB variables_NNS according_VBG to_TO their_PRP$ ``_`` importance_NN ''_'' ,_, thus_RB leading_VBG to_TO significant_JJ speedups_NNS ._.
+Similar_JJ strategies_NNS has_VBZ been_VBN employed_VBN in_IN Lasso_NN or_CC feature_NN selection_NN problems_NNS =_JJ -_: =[_NN 17_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO illustrate_VB the_DT idea_NN ,_, we_PRP take_VBP a_DT text_NN dataset_NN ''_'' ._.
+Objective_NNP Value_NNP 7.8_CD 7.6_CD 7.4_CD 7.2_CD 7_CD 6.8_CD 6.6_CD 6.4_CD x_CC 104_CD CD_NNP FastHals_NNP 6.2_CD 0_CD 2_CD 4_CD 6_CD 8_CD 10_CD Number_NN of_IN Coordinate_JJ Updates_NNS x_CC 10_CD 7_CD number_NN of_IN updates_NNS 5_CD 4_CD 3_CD 2_CD 1_CD 0_CD

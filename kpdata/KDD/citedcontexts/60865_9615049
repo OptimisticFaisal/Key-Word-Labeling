@@ -1,0 +1,4 @@
+xample_RB ,_, in_IN TREC_NN evaluations_NNS of_IN Question_NNP Answering_NNP systems_NNS ,_, after_IN 2002_CD -LRB-_-LRB- Voo02_NN -RRB-_-RRB- ._.
+3_CD Support_NN Vector_NNP Ranking_NNP Support_NN vector_NN machines_NNS for_IN ordinal_JJ regression_NN were_VBD proposed_VBN by_IN -LRB-_-LRB- HGO00_NN -RRB-_-RRB- and_CC further_RB explored_VBN by_IN =_JJ -_: =_JJ -LRB-_-LRB- Joa02_NN -RRB-_-RRB- -_: =_JJ -_: and_CC more_RBR recently_RB by_IN -LRB-_-LRB- CK05_NN -RRB-_-RRB- ._.
+The_DT approach_NN uses_VBZ pair-based_JJ training_NN ._.
+For_IN convenience_NN let_VB us_PRP write_VB the_DT feature_NN vector_NN for_IN a_DT given_VBN query-document_NN pair_NN as_IN x_NN ≡_NN F_NN -LRB-_-LRB- Q_NNP ,_, D_NNP -RRB-_-RRB- ,_, where_WRB indices_NNS Q_NNP and_CC D_NN on_IN x_NN are_VBP und_JJ

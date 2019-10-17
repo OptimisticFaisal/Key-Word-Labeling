@@ -1,0 +1,4 @@
+e_LS presence_NN and_CC observed_VBN effectiveness_NN of_IN components_NNS thought_VBN to_TO impact_VB web_NN accessibility_NN ._.
+Most_JJS proxy_NN systems_NNS can_MD only_RB record_VB HTTP_NN requests_NNS and_CC can_MD not_RB easily_RB discern_VB user_NN actions_NNS performed_VBN on_IN web_NN pages_NNS =_JJ -_: =[_NN 8_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP used_VBD an_DT enhanced_VBN version_NN of_IN UsaProxy_NNP -LRB-_-LRB- 5_CD -RRB-_-RRB- to_TO record_VB participants_NNS '_POS browsing_NN ._.
+UsaProxy_NNP can_MD record_VB actions_NNS that_WDT are_VBP impossible_JJ to_TO record_VB with_IN a_DT traditional_JJ proxy_NN ,_, such_JJ key_JJ presses_NNS ,_, clicks_VBZ on_IN arbitrar_NN

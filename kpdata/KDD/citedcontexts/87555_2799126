@@ -1,0 +1,6 @@
+ow_IN expected_VBN donation_NN ._.
+In_IN this_DT report_NN we_PRP describe_VBP two_CD models_NNS that_IN we_PRP built_VBD for_IN solving_VBG this_DT problem_NN ._.
+The_DT first_JJ uses_VBZ direct_JJ costsensitive_JJ decision-making_NN ._.
+The_DT second_NN involves_VBZ using_VBG the_DT MetaCost_NN method_NN -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP 1999_CD -_: =--RRB-_NN ._.
+We_PRP first_RB describe_VBP the_DT methods_NNS ,_, then_RB we_PRP discuss_VBP the_DT results_NNS obtained_VBN on_IN a_DT training_NN dataset_NN ,_, and_CC give_VB the_DT prediction_NN of_IN the_DT expected_VBN profit_NN for_IN a_DT validation_NN dataset_NN ._.
+The_DT training_NN dataset_NN has_VBZ 95412_CD re_NN

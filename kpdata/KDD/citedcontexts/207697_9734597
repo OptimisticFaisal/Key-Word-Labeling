@@ -1,0 +1,4 @@
+ted_VBN artificial_JJ SynthA_NN dataset_NN SynthA_NN dataset_NN is_VBZ generated_VBN by_IN a_DT modification_NN of_IN the_DT wellknown_JJ IBM_NNP data_NNS generator_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+As_IN a_DT real_JJ and_CC public_JJ dataset_NN ,_, we_PRP tested_VBD our_PRP$ approach_NN with_IN the_DT open_JJ Retail_NNP dataset_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT distributed_VBN version_NN of_IN Retail_NNP is_VBZ divided_VBN into_IN two_CD parts_NNS storing_VBG short_JJ and_CC long_JJ transactions_NNS to_TO show_VB scenarios_NNS with_IN uneven_JJ data_NNS characteristics_NNS ._.
+Given_VBN the_DT commercial_JJ context_NN of_IN this_DT work_NN ,_, we_PRP were_VBD

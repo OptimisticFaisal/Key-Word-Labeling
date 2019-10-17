@@ -1,0 +1,4 @@
+s_NN using_VBG -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Figure_NN 1_CD describes_VBZ the_DT algorithm_NN in_IN detail_NN ._.
+Note_VB that_IN this_DT divisive_JJ algorithm_NN bears_VBZ some_DT resemblance_NN to_TO the_DT k-means_NN or_CC Lloyd-Max_NN algorithm_NN ,_, which_WDT usually_RB uses_VBZ squared_VBN Euclidean_JJ distances_NNS =_JJ -_: =[_NN 11_CD ,_, 10_CD ,_, 15_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Note_VB that_DT our_PRP$ initialization_NN strategy_NN is_VBZ crucial_JJ to_TO our_PRP$ algorithm_NN ,_, see_VB step_NN 1_CD in_IN Figure_NN 1_CD -LRB-_-LRB- also_RB see_VB -LRB-_-LRB- 8_CD ,_, Section_NNP 5.1_CD -RRB-_-RRB- -RRB-_-RRB- since_IN it_PRP guarantees_VBZ absolute_JJ continuity_NN of_IN each_DT p_NN -LRB-_-LRB- C_NN |_CD wt_JJ -RRB-_-RRB- with_IN at_IN least_JJS one_CD cluste_NN

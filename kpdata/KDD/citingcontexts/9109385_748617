@@ -1,0 +1,4 @@
+lishing_VBG sensitive_JJ information_NN ,_, but_CC hiding_VBG the_DT identity_NN of_IN data_NNS subjects_NNS ._.
+This_DT is_VBZ different_JJ from_IN hiding_VBG sensitive_JJ information_NN in_IN the_DT above_JJ works_NNS ._.
+Privacy_NN models_NNS such_JJ as_IN k-anonymity_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC l-diversity_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: exist_VBP to_TO prevent_VB re-identification_NN attacks_NNS on_IN relational_JJ data_NNS ._.
+The_DT key_NN is_VBZ to_TO form_VB ``_`` equivalence_JJ classes_NNS ''_'' on_IN a_DT quasi-identifier_NN -LRB-_-LRB- QID_NN -RRB-_-RRB- ,_, e.g._FW ,_, -LCB-_-LRB- Sex_NN ,_, Zip_NN ,_, BirthDate_NNP -RCB-_-RRB- ,_, so_IN that_IN the_DT records_NNS in_IN the_DT same_JJ equiv_NN

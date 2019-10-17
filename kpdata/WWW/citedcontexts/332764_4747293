@@ -1,0 +1,4 @@
+ment_NN and_CC upgrading_NN ._.
+Static_JJ analyses_NNS to_TO find_VB SQLCIVs_NNS have_VBP also_RB been_VBN proposed_VBN ,_, but_CC none_NN of_IN them_PRP runs_VBZ without_IN user_NN intervention_NN and_CC can_MD guarantee_VB the_DT absence_NN of_IN SQLCIVs_NNS ._.
+String_NNP analysis-based_JJ techniques_NNS =_JJ -_: =[_NN 3_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: use_VB formal_JJ languages_NNS to_TO characterize_VB conservatively_RB the_DT set_NN of_IN values_NNS a_DT string_NN variable_NN may_MD assume_VB at_IN runtime_NN ._.
+They_PRP do_VBP not_RB track_VB the_DT source_NN of_IN string_NN values_NNS ,_, so_IN they_PRP require_VBP a_DT specification_NN ,_, in_IN the_DT f_SYM

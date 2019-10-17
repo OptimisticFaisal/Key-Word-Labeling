@@ -1,0 +1,4 @@
+th_DT ''_'' and_CC ``_`` D._NNP Smith_NNP ''_'' ,_, refer_VBP to_TO the_DT same_JJ real-world_JJ entity_NN ._.
+This_DT problem_NN arises_VBZ in_IN many_JJ applications_NNS that_WDT integrate_VBP data_NNS from_IN multiple_JJ sources_NNS ._.
+Consequently_RB ,_, numerous_JJ solutions_NNS have_VBP been_VBN developed_VBN -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 19_CD ,_, 13_CD ,_, 24_CD ,_, 10_CD ,_, 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, see_VB -LRB-_-LRB- 23_CD -RRB-_-RRB- for_IN a_DT recent_JJ tutorial_NN -RRB-_-RRB- ._.
+While_IN much_JJ progress_NN has_VBZ been_VBN made_VBN ,_, the_DT current_JJ solutions_NNS have_VBP largely_RB exploited_VBN only_RB information_NN within_IN the_DT mentions_VBZ ,_, and_CC employed_VBD a_DT single_JJ matching_NN solution_NN ,_, hencef_NN

@@ -1,0 +1,4 @@
+ore_NN general_JJ approach_NN presented_VBN below_IN ._.
+To_TO use_VB the_DT cross-entropy_JJ approach_NN to_TO give_VB better_JJR estimates_NNS we_PRP need_VBP additional_JJ information_NN to_TO constrain_VB the_DT distribution_NN ._.
+The_DT frequent_JJ sets_NNS from_IN association_NN rules_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: provide_VBP a_DT way_NN of_IN defining_VBG useful_JJ marginal_JJ information_NN ._.
+Given_VBN a_DT set_NN of_IN attributes_NNS X_NN `_`` R_NN ,_, the_DT frequency_NN f_FW -LRB-_-LRB- X_NN -RRB-_-RRB- of_IN X_NN in_IN r_NN is_VBZ defined_VBN as_IN the_DT fraction_NN of_IN rows_NNS of_IN r_NN that_WDT have_VBP a_DT 1_CD in_IN all_PDT the_DT columns_NNS of_IN X_NN :_: f_LS -LRB-_-LRB- X_NN

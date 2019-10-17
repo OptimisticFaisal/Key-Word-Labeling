@@ -1,0 +1,4 @@
+i_LS ,_, where_WRB C_NN and_CC γ_NN are_VBP the_DT hyperparameters_NNS for_IN the_DT misclassification_NN loss_NN penalty_NN and_CC for_IN regularization_NN respectively_RB ,_, and_CC φ_NN :_: R_NNP →_NNP R_NNP is_VBZ the_DT regression_NN loss_NN penalty_NN ,_, which_WDT we_PRP fixed_VBD as_IN the_DT Huber_NNP function_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: 8_CD in_IN our_PRP$ study_NN ._.
+To_TO solve_VB problem_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, we_PRP used_VBD CVX_NNP ,_, a_DT package_NN for_IN specifying_VBG and_CC solving_VBG convex_NN programs_NNS -LRB-_-LRB- 11_CD ,_, 10_CD -RRB-_-RRB- ._.
+Note_VB that_IN we_PRP can_MD easily_RB apply_VB the_DT kernel_NN trick_NN to_TO this_DT model_NN ,_, as_IN in_IN SVM_NNP ._.
+Furthermore_RB

@@ -1,0 +1,5 @@
+ubsequence_NN matches_NNS ,_, M7_NN and_CC M8_NN ,_, can_MD be_VB shown_VBN to_TO be_VB actual_JJ twig_NN matches_NNS for_IN Q1_NN ._.
+As_IN noted_VBN earlier_RBR ,_, the_DT ancestor_NN check_NN in_IN line_NN 5_CD can_MD traverse_VB till_IN the_DT root_NN node_NN ,_, in_IN worst_JJS case_NN ._.
+Approaches_NNS such_JJ as_IN scoping_NN =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_JJ -_: and_CC range_NN encoding_NN -LRB-_-LRB- 23_CD ,_, 29_CD -RRB-_-RRB- are_VBP known_VBN for_IN making_VBG fast_JJ ancestor_NN checks_NNS ._.
+They_PRP take_VBP O_NN -LRB-_-LRB- 1_LS -RRB-_-RRB- time_NN as_IN we_PRP just_RB need_VBP to_TO check_VB if_IN pt_FW ∈_FW Scope_NN -LRB-_-LRB- mapping_NN -LRB-_-LRB- pq_NN -RRB-_-RRB- -RRB-_-RRB- or_CC not_RB ._.
+However_RB ,_, this_DT seemingly_RB accurate_JJ approach_NN can_MD not_RB

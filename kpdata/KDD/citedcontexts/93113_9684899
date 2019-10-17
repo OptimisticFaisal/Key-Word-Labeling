@@ -1,0 +1,4 @@
+the_DT target_NN rule_NN group_NN ._.
+This_DT leads_VBZ to_TO ineffective_JJ pruning_NN ,_, since_IN pruning_NN is_VBZ usually_RB only_RB plausible_JJ when_WRB sufficient_JJ LBRs_NNS of_IN the_DT target_NN group_NN have_VBP been_VBN discovered_VBN ._.
+On_IN the_DT other_JJ hand_NN ,_, depth-first_JJ search_NN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: on_IN the_DT lattice_NN prevents_VBZ the_DT verification_NN of_IN the_DT LBRs_NNS ,_, since_IN the_DT sub-rules_NNS must_MD be_VB available_JJ during_IN the_DT Apriori_NNP pruning_NN approach_NN based_VBN on_IN Lemma_NNP 3_CD ._.
+To_TO overcome_VB these_DT difficulties_NNS ,_, we_PRP introduce_VBP a_DT novel_JJ

@@ -1,0 +1,5 @@
+log_NN has_VBZ been_VBN analyzed_VBN in_IN some_DT recent_JJ work_NN -LRB-_-LRB- 14_CD ,_, 15_CD ,_, 11_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN ,_, we_PRP add_VBP a_DT spatial_JJ dimension_NN to_TO query_VB log_NN mining_NN ._.
+Compared_VBN to_TO previous_JJ work_NN on_IN mining_NN semantically_RB related_JJ queries_NNS in_IN search_NN logs_NNS =_JJ -_: =[_NN 2_CD ,_, 4_CD ,_, 5_CD ,_, 17_CD ,_, 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP mine_VBP related_JJ queries_NNS in_IN geography_NN ,_, i.e._FW ,_, co-located_JJ queries_NNS ._.
+To_TO discover_VB colocated_JJ query_NN patterns_NNS ,_, we_PRP refer_VBP to_TO the_DT recent_JJ studies_NNS on_IN colocation_NN pattern_NN mining_NN ._.
+It_PRP has_VBZ attracted_VBN much_JJ attention_NN -LRB-_-LRB- 3_CD ,_,

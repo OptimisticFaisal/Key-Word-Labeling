@@ -1,0 +1,5 @@
+t_NN ,_, performance_NN ,_, response_NN time_NN ,_, availability_NN ,_, reliability_NN ,_, throughput_NN ,_, and_CC security_NN ,_, they_PRP are_VBP usually_RB called_VBN QoS_NN parameters_NNS ._.
+Currently_RB ,_, there_EX exist_VBP a_DT QoS_NN broker_NN in_IN most_JJS SOA_NNP framework_NN ,_, as_IN presented_VBN in_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =-[_NN 10_CD -RRB-_-RRB- ._.
+The_DT broker_NN is_VBZ designed_VBN to_TO receive_VB both_CC functional_JJ and_CC nonfunctional_JJ requests_NNS from_IN the_DT client_NN ._.
+It_PRP also_RB plays_VBZ the_DT role_NN in_IN analyzing_VBG QoS_NN parameters_NNS and_CC maintaining_VBG service_NN informations_NNS ._.
+A_DT different_JJ

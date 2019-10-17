@@ -1,0 +1,6 @@
+of_IN a_DT subset_NN of_IN the_DT original_JJ columns_NNS from_IN A_NN ,_, the_DT matrix_NN R_NN is_VBZ the_DT multiplication_NN of_IN two_CD sparse_JJ matrices_NNS and_CC is_VBZ not_RB necessarily_RB sparse_JJ ._.
+In_IN order_NN to_TO further_RB save_VB space_NN ,_, we_PRP can_MD use_VB a_DT randomized_JJ algorithm_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: to_TO approximate_JJ R._NNP This_NNP can_MD be_VB naturally_RB incorporated_VBN into_IN Alg_NN ._.
+1_CD ._.
+However_RB ,_, it_PRP is_VBZ an_DT orthogonal_JJ to_TO what_WP we_PRP are_VBP proposing_VBG in_IN this_DT paper_NN ._.
+For_IN simplicity_NN ,_, we_PRP will_MD use_VB R_NN =_JJ L_NN ′_NN A_NN throughout_IN this_DT paper_NN ._.
+Sin_NNP

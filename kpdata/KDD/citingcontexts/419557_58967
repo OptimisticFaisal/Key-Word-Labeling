@@ -1,0 +1,3 @@
+the_DT sentence_NN would_MD be_VB Fred_NNP please_VB stop_NN by_IN my_PRP$ office_NN this_DT afternoon_NN Person_NN Oth_NNP Oth_NNP Oth_NNP Loc_NNP Loc_NNP Time_NNP Time_NNP A_NNP common_JJ way_NN of_IN constructing_VBG such_PDT a_DT tagging_NN system_NN is_VBZ to_TO learn_VB a_DT mapping_NN from_IN x_NN to_TO y_NN from_IN data_NN =_JJ -_: =[_NN 3_CD ,_, 5_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Typically_RB this_DT data_NN is_VBZ in_IN the_DT form_NN of_IN annotated_JJ documents_NNS ,_, which_WDT can_MD be_VB readily_RB converted_VBN to_TO -LRB-_-LRB- x_NN ,_, y_NN -RRB-_-RRB- pairs_NNS ._.
+Most_JJS methods_NNS for_IN learning_NN taggers_NNS exploit_VBP ,_, in_IN some_DT way_NN ,_, the_DT sequential_JJ nature_NN of_IN the_DT classif_NN

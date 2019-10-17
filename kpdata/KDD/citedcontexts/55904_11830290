@@ -1,0 +1,4 @@
+cated_VBN data_NN collection_NN methods_NNS ,_, there_EX is_VBZ a_DT fast_JJ accumulation_NN of_IN labeled_JJ graph_NN data_NNS ._.
+For_IN example_NN ,_, many_JJ XML_NN documents_NNS are_VBP modeled_VBN as_IN trees_NNS or_CC graphs_NNS and_CC it_PRP is_VBZ important_JJ to_TO build_VB classifiers_NNS for_IN XML_NN data_NN =_JJ -_: =[_NN 45_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN another_DT example_NN ,_, natural_JJ language_NN processing_NN of_IN sentences_NNS usually_RB produces_VBZ a_DT tree_NN -LRB-_-LRB- parsing_VBG tree_NN -RRB-_-RRB- representation_NN of_IN a_DT sentence_NN ._.
+In_IN many_JJ social_JJ science_NN studies_NNS ,_, building_VBG automated_JJ systems_NNS to_TO classi_VB

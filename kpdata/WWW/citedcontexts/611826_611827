@@ -1,0 +1,3 @@
+its_PRP$ including_VBG latency_NN and_CC server_NN load_NN reduction_NN are_VBP important_JJ factors_NNS to_TO consider_VB ,_, issues_NNS such_JJ as_IN engineering_NN complexity_NN as_RB well_RB as_IN security_NN implication_NN are_VBP of_IN even_RB higher_JJR priority_NN ._.
+Our_PRP$ previous_JJ work_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: investigates_VBZ what_WP will_MD be_VB the_DT best_JJS offloading_NN and_CC caching_NN strategies_NNS and_CC their_PRP$ design\/deployment_NN tradeoffs_NNS given_VBN the_DT proxy_NN resources_NNS at_IN the_DT edge_NN of_IN the_DT network_NN ._.
+We_PRP have_VBP shown_VBN that_IN simply_RB caching_VBG dyna_NN

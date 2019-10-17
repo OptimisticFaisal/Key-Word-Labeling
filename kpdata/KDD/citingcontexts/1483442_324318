@@ -1,0 +1,5 @@
+ith_VB these_DT methods_NNS is_VBZ that_IN the_DT notion_NN of_IN a_DT sorted_VBN list_NN does_VBZ not_RB apply_VB in_IN multivariate_JJ data_NNS ._.
+Thus_RB in_IN their_PRP$ basic_JJ form_NN the_DT K-S_NN and_CC W-W_NN tests_NNS are_VBP not_RB useful_JJ for_IN our_PRP$ problems_NNS ._.
+However_RB ,_, Friedman_NNP and_CC Rafsky_NNP =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: generalized_VBD the_DT notion_NN of_IN a_DT sorted_VBN list_NN by_IN using_VBG a_DT minimum_JJ spanning_NN tree_NN -LRB-_-LRB- MST_NN -RRB-_-RRB- ._.
+They_PRP use_VBP order_NN information_NN in_IN the_DT MST_NNP to_TO calculate_VB multivariate_JJ generalizations_NNS of_IN K-S_NN and_CC the_DT W-W_NN tests_NNS ._.
+For_IN the_DT K-S_NN v_LS

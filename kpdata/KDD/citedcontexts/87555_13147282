@@ -1,0 +1,4 @@
+on_IN to_TO fit_VB logistic_JJ regression_NN curves_NNS to_TO the_DT outputs_NNS to_TO allow_VB for_IN precision-recall_JJ analysis_NN ._.
+To_TO minimize_VB false_JJ positives_NNS ,_, while_IN tolerating_VBG false_JJ negatives_NNS ,_, DEviaNT_JJ employs_VBZ the_DT MetaCost_FW metaclassifier_FW -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP ,_, 1999_CD -_: =--RRB-_NN ,_, which_WDT uses_VBZ bagging_VBG to_TO reclassify_VB the_DT training_NN data_NNS to_TO produce_VB a_DT single_JJ cost-sensitive_JJ classifier_NN ._.
+DEviaNT_JJ sets_NNS the_DT cost_NN of_IN a_DT false_JJ positive_NN to_TO be_VB 100_CD times_NNS that_IN of_IN a_DT false_JJ negative_NN ._.
+4_CD Evaluation_NN Th_NN

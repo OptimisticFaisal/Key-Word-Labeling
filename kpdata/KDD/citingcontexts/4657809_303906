@@ -1,0 +1,5 @@
+for_IN discovering_VBG an_DT approximation_NN to_TO the_DT MIL_NN from_IN a_DT database_NN ._.
+The_DT algorithm_NN that_IN we_PRP describe_VBP in_IN this_DT Section_NNP uses_VBZ a_DT technique_NN introduced_VBN by_IN Dorit_NNP Hochbaum_NNP in_IN her_PRP$ work_NN in_IN certain_JJ edge_NN deletion_NN problems_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+6.1_CD The_DT APPROXMILSEARCH_NNP Algorithm_NNP Our_NNP algorithm_NN for_IN finding_VBG a_DT lesson_NN approximating_VBG the_DT MIL_NNP has_VBZ three_CD high-level_JJ steps_NNS ._.
+In_IN the_DT first_JJ step_NN ,_, a_DT bipartite_JJ graph_NN encoding_VBG the_DT database_NN is_VBZ constructed_VBN ._.
+On_IN o_NN

@@ -1,0 +1,4 @@
+of_IN all_DT possible_JJ sequences_NNS of_IN edit_NN operations_NNS required_VBN to_TO produce_VB that_DT string_NN ._.
+The_DT parameters_NNS of_IN this_DT generative_JJ model_NN are_VBP learned_VBN using_VBG the_DT expectation_NN maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- algorithm_NN ._.
+Bilenko_NN and_CC Mooney_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: present_VB a_DT method_NN to_TO learn_VB edit_NN distance_NN based_VBN similarity_NN measures_NNS of_IN each_DT attribute_NN between_IN records_NNS in_IN order_NN to_TO perform_VB deduplication_NN ._.
+They_PRP extend_VBP the_DT work_NN of_IN Ristad_NNP and_CC Yianilos_NNP -LRB-_-LRB- 12_CD -RRB-_-RRB- by_IN accommodatin_NN

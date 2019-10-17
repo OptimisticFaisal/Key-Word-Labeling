@@ -1,0 +1,5 @@
+A_DT distributed_VBN learning_NN framework_NN for_IN heterogeneous_JJ data_NNS sources_NNS
+e_LS general_JJ idea_NN is_VBZ to_TO utilize_VB the_DT existing_VBG clustering_NN structures_NNS of_IN the_DT supporting_JJ cells_NNS to_TO improve_VB the_DT efficiency_NN for_IN data_NNS cube_NN computation_NN at_IN a_DT target_NN cell_NN ._.
+This_DT is_VBZ related_JJ to_TO distributive_JJ computing_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3.3.1_CD Meta-Point_JJ Aggregation_NN -LRB-_-LRB- MP_NN -RRB-_-RRB- A_NN meta-point_NN -LRB-_-LRB- or_CC meta-cluster_NN -RRB-_-RRB- is_VBZ defined_VBN as_IN a_DT center_NN or_CC centroid_NN point_NN that_WDT represents_VBZ a_DT set_NN of_IN similar_JJ individual_JJ points_NNS ._.
+We_PRP introduce_VBP the_DT Meta-Point_JJ aggregation_NN

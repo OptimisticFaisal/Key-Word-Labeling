@@ -1,0 +1,5 @@
+ed_VBN template_NN patterns_NNS used_VBN by_IN a_DT list_NN of_IN data_NNS records_NNS ._.
+Our_PRP$ proposed_VBN algorithm_NN is_VBZ able_JJ to_TO solve_VB both_DT problems_NNS ._.
+Existing_VBG approaches_NNS to_TO solving_VBG these_DT problems_NNS are_VBP based_VBN on_IN string_NN matching_NN or_CC tree_NN matching_NN =_JJ -_: =[_NN 3_CD ,_, 18_CD ,_, 29_CD ,_, 32_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, both_CC these_DT matching_JJ techniques_NNS are_VBP not_RB able_JJ to_TO deal_VB with_IN nested_JJ lists_NNS ._.
+Current_JJ extraction_NN algorithms_NNS either_CC do_VBP not_RB allow_VB nested_JJ lists_NNS or_CC have_VB some_DT heuristics_NNS to_TO detect_VB lists_NNS -LRB-_-LRB- 3_CD ,_, 18_CD ,_, 29_CD ,_, 32_CD -RRB-_-RRB-

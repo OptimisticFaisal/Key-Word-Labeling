@@ -1,0 +1,3 @@
+kyo_FW 4-6-1_FW Komaba_FW Meguro-ku_NN ,_, Tokyo_NNP ,_, JAPAN_NNP toyoda_NN ,_, kitsure@tkl.iis.u-tokyo.ac.jp_NN cific_JJ topic_NN ,_, such_JJ as_IN fan_NN pages_NNS of_IN a_DT baseball_NN team_NN ,_, and_CC official_JJ pages_NNS of_IN computer_NN vendors_NNS ._.
+Some_DT link_NN analysis_NN techniques_NNS =_JJ -_: =[_NN 8_CD ,_, 5_CD ,_, 12_CD ,_, 10_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: consider_VB the_DT Web_NN as_IN a_DT graph_NN ,_, which_WDT nodes_NNS are_VBP web_NN pages_NNS and_CC edges_NNS are_VBP hyperlinks_NNS ,_, and_CC automatically_RB identify_VB such_JJ web_NN communities_NNS by_IN extracting_VBG distinctive_JJ graph_NN structures_NNS ._.
+Web_NN communities_NNS slightly_RB d_SYM

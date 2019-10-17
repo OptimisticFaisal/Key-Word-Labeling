@@ -1,0 +1,5 @@
+o_NN α_NN m_NN i_LS ,_, it_PRP is_VBZ prudent_JJ to_TO use_VB a_DT linked_VBN list_NN data_NNS structure_NN and_CC store_NN only_RB those_DT α_JJ m_NN i_FW which_WDT are_VBP non-zero_JJ ._.
+The_DT following_VBG convergence_NN theorem_NN can_MD be_VB proved_VBN for_IN SDM_NNP ,_, employing_VBG ideas_NNS similar_JJ to_TO those_DT in_IN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Theorem_NNP 2.1_CD Let_NNP α_NN t_NN denote_VBP the_DT α_NN at_IN the_DT end_NN of_IN the_DT t-th_NN loop_NN of_IN Algorithm_NN 2.1_CD ._.
+Any_DT limit_NN point_NN of_IN a_DT convergent_JJ subsequence_NN of_IN -LCB-_-LRB- α_NN t_NN -RCB-_-RRB- is_VBZ a_DT global_JJ minimum_NN of_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Because_IN of_IN space_NN limitation_NN we_PRP omit_VBP t_NN

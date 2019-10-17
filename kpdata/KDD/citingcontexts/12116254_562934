@@ -1,0 +1,3 @@
+his_PRP$ paper_NN is_VBZ that_IN we_PRP learn_VBP a_DT more_RBR general_JJ ranking_NN function_NN than_IN previous_JJ work_NN by_IN associating_VBG query_NN words_NNS with_IN specific_JJ documents_NNS ._.
+This_DT approach_NN has_VBZ been_VBN used_VBN previously_RB to_TO learn_VB to_TO generate_VB abstracts_NNS =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC in_IN document_NN transformation_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, but_CC not_RB to_TO learn_VB ranking_JJ functions_NNS ._.
+Prior_JJ approaches_NNS can_MD not_RB learn_VB to_TO associate_VB ``_`` new_JJ ''_'' documents_NNS with_IN a_DT given_VBN query_NN because_IN they_PRP combine_VBP or_CC re-order_JJ results_NNS obtain_VBP

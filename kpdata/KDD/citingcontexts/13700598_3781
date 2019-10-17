@@ -1,0 +1,4 @@
+below_IN ._.
+3.1_CD Constructing_VBG Closed_JJ Dset_FW Lattice_FW To_TO generate_VB the_DT minimal_JJ redescriptions_NNS ,_, we_PRP need_VBP to_TO construct_VB the_DT lattice_NN of_IN dsets_NNS ._.
+However_RB ,_, current_JJ closed_JJ set_NN mining_NN algorithms_NNS such_JJ as_IN Closet_NN +_CC -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, Mafia_NNP =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC Charm_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- do_VBP not_RB output_NN the_DT lattice_NN explicitly_RB ;_: their_PRP$ output_NN is_VBZ simply_RB a_DT list_NN of_IN all_PDT the_DT closed_VBN sets_NNS found_VBD ._.
+It_PRP is_VBZ possible_JJ to_TO generate_VB the_DT lattice_NN from_IN a_DT collection_NN of_IN closed_JJ sets_NNS C_NN ,_, but_CC unfort_NN

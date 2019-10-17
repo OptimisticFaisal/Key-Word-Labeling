@@ -1,0 +1,4 @@
+l._NN -LRB-_-LRB- 14_CD -RRB-_-RRB- consider_VBP labeled_JJ graphs_NNS with_IN categorical_JJ node_NN and_CC edge_NN attributes_NNS ,_, and_CC the_DT goal_NN is_VBZ to_TO find_VB relatively_RB homogeneous_JJ supernodes_NNS and_CC superedges_NNS ._.
+This_DT approach_NN has_VBZ been_VBN generalized_VBN by_IN Zhang_NNP et_FW al._FW =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: to_TO numerical_JJ node_NN attributes_NNS which_WDT are_VBP then_RB automatically_RB categorized_VBN ._.
+They_PRP also_RB addressed_VBD interactive_JJ drill-down_NN and_CC roll-up_NN operations_NNS on_IN graphs_NNS ._.
+Tian_NNP et_FW al._FW used_VBD both_DT top-down_JJ -LRB-_-LRB- divisive_JJ -RRB-_-RRB- and_CC botto_NN

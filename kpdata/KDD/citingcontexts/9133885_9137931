@@ -1,0 +1,4 @@
+ave_NN that_IN Xij_NN is_VBZ drawn_VBN from_IN the_DT distribution_NN in_IN ψF_NN with_IN natural_JJ parameter_NN -LRB-_-LRB- UV_NN T_NN -RRB-_-RRB- ij_NN ._.
+Decomposable_JJ losses_NNS ,_, which_WDT can_MD be_VB expressed_VBN as_IN the_DT sum_NN of_IN losses_NNS over_IN elements_NNS ,_, follows_VBZ from_IN matrix_NN exchangeability_NN =_JJ -_: =[_NN 2_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT matrix_NN X_NN is_VBZ row-and-column_NN exchangeable_JJ if_IN permuting_VBG the_DT rows_NNS and_CC columns_NNS of_IN X_NN does_VBZ not_RB change_VB the_DT distribution_NN of_IN X_NN ._.
+For_IN example_NN ,_, if_IN X_NN is_VBZ a_DT document-word_JJ matrix_NN of_IN counts_NNS ,_, the_DT relative_JJ position_NN

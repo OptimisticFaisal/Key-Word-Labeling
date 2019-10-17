@@ -1,0 +1,7 @@
+method_NN ._.
+The_DT results_NNS are_VBP summarized_VBN in_IN Table_NNP 1_CD ._.
+Table_NNP 1_CD :_: Classification_NN error_NN rates_NNS ._.
+Euclidean_NNP DTW_NNP Bitmaps_NNPS ECG_NNP 42.25_CD %_NN 16.25_CD %_NN 7.50_CD %_NN We_PRP also_RB considered_VBD a_DT Normal_JJ vs_CC Arrhythmia_NN problem_NN that_WDT appeared_VBD in_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Using_VBG Markov_NNP models_NNS ,_, the_DT authors_NNS reported_VBD an_DT error_NN rate_NN of_IN 2_CD %_NN ._.
+With_IN our_PRP$ technique_NN ,_, under_IN virtually_RB any_DT parameter_NN settings_NNS ,_, we_PRP achieve_VBP 0_CD %_NN error_NN ._.
+We_PRP can_MD achieve_VB perfect_JJ classification_NN using_VBG one_CD neares_NNS

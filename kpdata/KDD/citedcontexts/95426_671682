@@ -1,0 +1,5 @@
+cu.edu_NN ._.
+tw_IN Department_NNP of_IN Computer_NNP Science_NNP National_NNP Chengchi_NNP University_NNP Taipei_NNP ,_, Taiwan_NNP ,_, R.O.C._NNP Among_IN the_DT researches_VBZ toward_IN DSMS_NNP ,_, extending_VBG mining_NN techniques_NNS to_TO data_NNS streams_NNS has_VBZ attracted_VBN much_JJ attention_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =-[_NN 26_CD -RRB-_-RRB- -LRB-_-LRB- 28_CD -RRB-_-RRB- -LRB-_-LRB- 10_CD -RRB-_-RRB- -LRB-_-LRB- 27_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN ,_, we_PRP focus_VBP on_IN the_DT problem_NN of_IN mining_NN frequent_JJ itemsets_NNS over_IN a_DT data_NN stream_NN ._.
+In_IN this_DT problem_NN ,_, a_DT data_NN stream_NN is_VBZ formed_VBN by_IN transactions_NNS arriving_VBG in_IN series_NN ._.
+The_DT support_NN count_NN

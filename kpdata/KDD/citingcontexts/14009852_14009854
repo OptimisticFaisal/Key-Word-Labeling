@@ -1,0 +1,4 @@
+rent_VB from_IN our_PRP$ problem_NN ._.
+The_DT plateau_NN of_IN a_DT time_NN series_NN is_VBZ the_DT time_NN interval_NN in_IN which_WDT the_DT vlaues_NNS are_VBP close_JJ to_TO each_DT other_JJ -LRB-_-LRB- within_IN a_DT given_VBN threshold_NN -RRB-_-RRB- and_CC are_VBP no_RB smaller_JJR than_IN the_DT values_NNS outside_IN the_DT interval_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT plateau_NN problem_NN is_VBZ not_RB concerned_JJ about_IN comparing_VBG different_JJ intervals_NNS ._.
+Our_PRP$ techniques_NNS can_MD be_VB useful_JJ in_IN disease_NN outbreak_NN detection_NN ,_, by_IN identifying_VBG prominent_JJ streaks_NNS in_IN time_NN series_NN of_IN aggregated_JJ di_FW

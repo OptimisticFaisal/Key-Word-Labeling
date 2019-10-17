@@ -1,0 +1,4 @@
+s_NN technique_NN is_VBZ somewhat_RB efficient_JJ ,_, but_CC there_EX exists_VBZ a_DT tradeoff_NN between_IN data_NNS accuracy_NN and_CC privacy_NN protection_NN ._.
+When_WRB the_DT data_NN is_VBZ strongly_RB protected_VBN ,_, the_DT accuracy_NN of_IN the_DT mining_NN results_NNS can_MD not_RB be_VB accurate_JJ =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Cryptography_NN based_VBN techniques_NNS ,_, such_JJ as_IN Secure_NNP Multi-party_JJ Computation_NN -LRB-_-LRB- SMC_NN -RRB-_-RRB- which_WDT was_VBD introduced_VBN in_IN -LRB-_-LRB- 41_CD -RRB-_-RRB- ,_, have_VBP been_VBN widely_RB studied_VBN in_IN PPDM_NNP ._.
+Under_IN this_DT approach_NN ,_, a_DT group_NN of_IN collaborators_NNS want_VBP to_TO comp_VB

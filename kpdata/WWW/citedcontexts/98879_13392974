@@ -1,0 +1,4 @@
+s_NN ,_, see_VB -LRB-_-LRB- 10_CD -RRB-_-RRB- -RRB-_-RRB- ,_, however_RB for_IN the_DT purposes_NNS of_IN this_DT article_NN ,_, we_PRP are_VBP considering_VBG collaborative_JJ filtering_VBG accuracy_NN metrics_NNS ._.
+Examples_NNS of_IN accuracy_NN metrics_NNS include_VBP mean_JJ absolute_JJ error_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, precision_NN and_CC recall_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC the_DT rank_JJ half-life_NN metric_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+When_WRB two_CD experiments_NNS use_VBP different_JJ empirical_JJ evaluation_NN metrics_NNS ,_, then_RB the_DT results_NNS of_IN those_DT metrics_NNS are_VBP very_RB challenging_JJ to_TO synthesize_VB ._.
+For_IN example_NN ,_, one_CD experiment_NN

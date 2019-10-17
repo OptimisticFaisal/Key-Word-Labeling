@@ -1,0 +1,5 @@
+irst_JJ set_NN of_IN observations_NNS ,_, we_PRP can_MD use_VB the_DT qn_NN th_DT sorted_VBD largest_JJS observation_NN to_TO estimate_NN Q1_NN ._.
+More_RBR refined_JJ initial_JJ estimates_NNS can_MD be_VB computed_VBN ,_, though_RB ,_, if_IN similar_JJ data_NNS have_VBP been_VBN monitored_VBN in_IN the_DT past_NN ._.
+-LRB-_-LRB- See_VB =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: for_IN one_CD possibility_NN ._. -RRB-_-RRB-
+2.1_CD The_DT EWMA_NNP Estimate_NNP First_NNP ,_, suppose_VBP there_EX is_VBZ just_RB one_CD set_NN of_IN M_NN measurements_NNS X1_NN ,_, ..._: ,_, XM_NNP from_IN a_DT distribution_NN F_NN ._.
+If_IN nothing_NN is_VBZ assumed_VBN about_IN F_NN ,_, then_RB the_DT best_JJS estimate_NN of_IN the_DT q_NN th_DT

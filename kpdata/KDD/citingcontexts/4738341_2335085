@@ -1,0 +1,5 @@
+els_NNS ._.
+6_CD ._.
+CONCLUSION_NN &_CC FUTURE_NN WORK_VBP The_DT core_NN -LRB-_-LRB- mining_NN -RRB-_-RRB- algorithms_NNS are_VBP now_RB a_DT small_JJ part_NN of_IN the_DT overall_JJ application_NN ,_, being_VBG perhaps_RB 10_CD %_NN of_IN a_DT larger_JJR part_NN ,_, which_WDT itself_PRP is_VBZ only_RB 10_CD %_NN of_IN the_DT whole_NN ._.
+--_: K._NNP Thearling_NNP =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: Supervised_VBN machine_NN learning_VBG for_IN text_NN classification_NN has_VBZ been_VBN around_RP for_IN decades_NNS ._.
+Even_RB so_RB ,_, its_PRP$ adoption_NN for_IN real-world_JJ tasks_NNS is_VBZ severely_RB limited_JJ ,_, partly_RB by_IN its_PRP$ heavy_JJ requirement_NN for_IN labeled_JJ training_NN c_NN

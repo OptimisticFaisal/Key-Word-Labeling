@@ -1,0 +1,5 @@
+rediction_NN ._.
+Experimental_JJ results_NNS of_IN GASEN_NNP confirmed_VBD the_DT conclusion_NN that_IN ensembles_NNS can_MD be_VB pruned_VBN to_TO yield_VB similar_JJ or_CC better_JJR performance_NN ._.
+A_DT similar_JJ approach_NN was_VBD used_VBN to_TO prune_VB ensembles_NNS of_IN decision_NN trees_NNS =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Zhang_NNP et_FW al._FW -LRB-_-LRB- 23_CD -RRB-_-RRB- formulated_VBD the_DT ensemble_NN pruning_NN problem_NN as_IN a_DT quadratic_JJ integer_NN programming_NN problem_NN ,_, which_WDT is_VBZ NP-hard_JJ ._.
+By_IN applying_VBG semi-definite_JJ programming_NN techniques_NNS ,_, approximate_JJ solutions_NNS can_MD be_VB

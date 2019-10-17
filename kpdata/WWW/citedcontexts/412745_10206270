@@ -1,0 +1,4 @@
+tem_NN from_IN query_JJ associations_NNS of_IN documents_NNS with_IN a_DT low_JJ original_JJ rank_NN ._.
+Query_NN associations_NNS are_VBP taken_VBN from_IN a_DT transaction_NN log_NN ,_, while_IN we_PRP extract_VBP them_PRP from_IN reference_NN documents_NNS by_IN query_NN search_NN ._.
+As_IN discussed_VBN in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT terms_NNS used_VBN by_IN users_NNS and_CC the_DT terms_NNS in_IN a_DT corpus_NN are_VBP usually_RB very_RB different_JJ ._.
+Besides_IN query_NN suggestion_NN and_CC query_NN expansion_NN ,_, there_EX are_VBP other_JJ techniques_NNS for_IN user_NN assistance_NN in_IN web_NN search_NN ,_, suchas_FW Resu_FW

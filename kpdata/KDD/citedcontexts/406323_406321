@@ -1,0 +1,4 @@
+implementing_VBG Web_NN personalization_NN as_IN a_DT single_JJ online_NN module_NN that_WDT performs_VBZ user_NN profiling_NN ,_, model_NN updating_VBG ,_, and_CC recommendation_NN building_NN ._.
+sforms_NNS user_NN profiling_NN ,_, model_NN updating_VBG ,_, and_CC recommendation_NN building_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+SUGGEST_NNP is_VBZ designed_VBN to_TO dynamically_RB generate_VB personalized_JJ contents_NNS of_IN potential_JJ interest_NN for_IN users_NNS of_IN large_JJ Web_NN sites_NNS made_VBD up_RP of_IN pages_NNS dynamically_RB generated_VBN ._.
+It_PRP is_VBZ based_VBN on_IN an_DT incremental_JJ personaliza_NN

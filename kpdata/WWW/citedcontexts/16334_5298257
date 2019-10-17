@@ -1,0 +1,4 @@
+combining_VBG static_JJ features_NNS and_CC a_DT query_NN dependent_JJ baseline_NN ranking_NN :_: rank-based_JJ ,_, as_IN a_DT language_NN modelling_NN prior_RB and_CC as_IN a_DT relevance_NN score_NN adjustment_NN ._.
+Rank-based_JJ combination_NN has_VBZ been_VBN used_VBN with_IN some_DT success_NN =_JJ -_: =[_NN 6_CD ,_, 4_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT involves_VBZ turning_VBG the_DT baseline_NN and_CC static_JJ scores_NNS into_IN two_CD rankings_NNS ,_, and_CC combining_VBG based_VBN solely_RB on_IN ranks_NNS ._.
+This_DT has_VBZ the_DT advantage_NN of_IN ignoring_VBG the_DT score_NN distributions_NNS ,_, so_RB for_IN example_NN it_PRP is_VBZ impossib_NN

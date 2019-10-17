@@ -1,0 +1,5 @@
+ernational_JJ Conference_NNP on_IN Very_RB Large_JJ Data_NNP Bases_NNP ,_, September_NNP 13-17_CD ,_, 2010_CD ,_, Singapore_NNP ._.
+Proceedings_NNP of_IN the_DT VLDB_NNP Endowment_NNP ,_, Vol_NNP ._.
+3_CD ,_, No._NN 1_CD Copyright_NN 2010_CD VLDB_NN Endowment_NN 2150-8097\/10_CD \/_: 09_CD ..._: $_$ 10.00_CD ._.
+algorithms_NNS =_JJ -_: =[_NN 1_CD ,_, 4_CD ,_, 8_CD ,_, 9_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN described_VBN ._.
+To_TO guarantee_VB that_IN individual_JJ privacy_NN is_VBZ protected_VBN ,_, the_DT algorithms_NNS ensure_VBP that_IN various_JJ requirements_NNS hold_VBP over_IN the_DT published_VBN data_NNS ,_, such_JJ as_IN ℓ-diversity_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, -LRB-_-LRB- α_NN ,_, k_NN -RRB-_-RRB- -_: anonymity_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_,

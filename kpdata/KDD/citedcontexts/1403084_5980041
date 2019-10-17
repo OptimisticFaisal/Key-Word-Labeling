@@ -1,0 +1,6 @@
+further_JJ action_NN ,_, or_CC simply_RB documenting_VBG and_CC reporting_VBG it_PRP ._.
+In_IN order_NN to_TO measure_VB the_DT level_NN of_IN rules_NNS validness_NN ,_, we_PRP calculate_VBP the_DT percentage_NN of_IN support_NN and_CC confidence_NN of_IN the_DT rules_NNS ._.
+Following_VBG Roberto_NNP et_NNP ._.
+al_FW =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, each_DT rule_NN is_VBZ associated_VBN with_IN its_PRP$ confidence_NN and_CC support_NN ._.
+Confidence_NN denotes_VBZ the_DT strength_NN of_IN a_DT rule_NN and_CC support_NN describes_VBZ the_DT quality_NN of_IN the_DT rule_NN ._.
+It_PRP is_VBZ often_RB desirable_JJ to_TO pay_VB attention_NN to_TO only_RB those_DT

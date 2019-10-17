@@ -1,0 +1,6 @@
+unterbalances_VBZ the_DT quadratic_JJ running_VBG time_NN of_IN average-link_NN to_TO make_VB Buckshot_NNP efficient_JJ :_: O_NN -LRB-_-LRB- K_NN ×_NN T_NN ×_CD n_NN +_CC nlogn_NN -RRB-_-RRB- ._.
+The_DT parameters_NNS K_NN and_CC T_NN are_VBP usually_RB considered_VBN to_TO be_VB small_JJ numbers_NNS ._.
+CBC_NNP is_VBZ a_DT descendent_NN of_IN UNICO_NN =_JJ -_: =_JJ N_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT also_RB uses_VBZ small_JJ and_CC tight_JJ clusters_NNS to_TO construct_VB initial_JJ centroids_NNS ._.
+We_PRP compare_VBP them_PRP in_IN Section_NNP 4.4_CD after_IN presenting_VBG the_DT CBC_NNP algorithm_NN ._.
+3_LS ._.
+WORD_NN SIMILARITY_NN Following_VBG -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, we_PRP represent_VBP each_DT word_NN

@@ -1,0 +1,5 @@
+user_NN ._.
+The_DT hit-ratio_NN which_WDT is_VBZ the_DT number_NN of_IN hits_NNS divided_VBN by_IN the_DT total_JJ number_NN of_IN recommendations_NNS made_VBN by_IN the_DT system_NN is_VBZ 43_CD %_NN for_IN the_DT NASA_NNP data_NN set_NN ._.
+3.2_CD Click-stream_JJ tree_NN model_NN The_DT click-stream_JJ tree_NN model_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: considers_VBZ page_NN access_NN sequences_NNS in_IN addition_NN to_TO visiting_VBG times_NNS ._.
+The_DT user_NN sessions_NNS produced_VBN in_IN the_DT first_JJ step_NN are_VBP clustered_VBN based_VBN on_IN a_DT similarity_NN metric_NN ._.
+Since_IN user_NN sessions_NNS are_VBP ordered_VBN URL_NN requests_NNS ,_, w_NN

@@ -1,0 +1,4 @@
+ferty_NN ,_, 2001_CD -RRB-_-RRB- ._.
+3.2_CD Topic_NNP models_NNS A_DT statistical_JJ topic_NN model_NN represents_VBZ a_DT topic_NN as_IN a_DT distribution_NN over_IN words_NNS ,_, as_IN drawn_VBN from_IN a_DT Dirichlet_NNP prior_RB ._.
+In_IN a_DT simple_JJ topic_NN model_NN such_JJ as_IN Latent_JJ Dirichlet_NN Allocation_NN -LRB-_-LRB- =_JJ -_: =_JJ Blei_NNP et_FW al._FW ,_, 2003_CD -_: =-]_CD ,_, each_DT document_NN has_VBZ a_DT distribution_NN over_IN topics_NNS ._.
+Words_NNS are_VBP generated_VBN by_IN selecting_VBG a_DT topic_NN from_IN the_DT document_NN 's_POS topic_NN distribution_NN ,_, and_CC then_RB selecting_VBG a_DT word_NN from_IN that_DT topic_NN 's_POS distribution_NN over_IN the_DT voca_NN

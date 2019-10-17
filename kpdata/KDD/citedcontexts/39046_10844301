@@ -1,0 +1,4 @@
+graphs_NNS of_IN it_PRP -RRB-_-RRB- and_CC then_RB measure_VB query_NN similarity_NN on_IN the_DT resulting_VBG geometric_JJ space_NN ._.
+The_DT technique_NN is_VBZ general_JJ and_CC it_PRP can_MD be_VB applied_VBN to_TO other_JJ graphs_NNS obtained_VBN from_IN query-logs_NNS ,_, for_IN example_NN ,_, the_DT click_VBP graph_NN =_JJ -_: =[_NN 5_CD ,_, 11_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP use_VBP the_DT resulting_VBG query-similarity_NN measure_NN for_IN a_DT concrete_JJ application_NN ,_, namely_RB for_IN diversifying_VBG query_JJ recommendations_NNS ._.
+Query-recommendation_NN systems_NNS are_VBP provided_VBN by_IN all_DT major_JJ search_NN engines_NNS and_CC the_DT

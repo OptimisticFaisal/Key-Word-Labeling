@@ -1,0 +1,4 @@
+scores_NNS of_IN the_DT patterns_NNS found_VBN from_IN the_DT course_NN data_NNS set_VBN against_IN the_DT scores_NNS of_IN patterns_NNS obtained_VBN form_VBP 10_CD randomized_JJ course_NN data_NNS set_VBP instances_NNS ._.
+For_IN this_DT we_PRP use_VBP the_DT swap_NN randomization_NN method_NN described_VBN in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT method_NN preserves_VBZ the_DT row_NN and_CC column_NN margins_NNS of_IN the_DT given_VBN dataset_NN ,_, but_CC obscures_VBZ the_DT internal_JJ dependencies_NNS of_IN the_DT data_NNS ._.
+The_DT idea_NN is_VBZ that_IN if_IN thesAI_NNP Languages_NNP Artificial_NNP Intelligence_NNP Java_NNP programmin_NN

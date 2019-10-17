@@ -1,0 +1,4 @@
+each_DT term_NN -LRB-_-LRB- image_NN feature_NN ,_, protein_NN entity_NN ,_, and_CC text_NN word_NN -RRB-_-RRB- over_IN the_DT LSI_NNP semantic_JJ space_NN ._.
+These_DT terms_NNS are_VBP then_RB used_VBN to_TO project_VB a_DT new_JJ figure_NN in_IN the_DT testset_NN onto_IN this_DT space_NN using_VBG ``_`` folding_JJ ''_'' as_IN discussed_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Afterwards_RB cosine_NN similarity_NN is_VBZ used_VBN as_IN the_DT distance_NN measure_NN for_IN ranking_NN ._.
+We_PRP evaluated_VBD each_DT ranking_NN using_VBG three_CD measures_NNS :_: the_DT highest_JJS -LRB-_-LRB- low_JJ in_IN value_NN -RRB-_-RRB- rank_NN ,_, average_JJ rank_NN and_CC lowest_JJS rank_NN -LRB-_-LRB- Rank_NNP at_IN 100_CD %_NN

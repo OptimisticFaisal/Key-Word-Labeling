@@ -1,0 +1,4 @@
+measure_NN based_VBN on_IN the_DT angle_NN between_IN vectors_NNS is_VBZ more_RBR appropriate_JJ -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+Consequently_RB ,_, clustering_NN algorithms_NNS that_WDT utilize_VBP distortion_NN measures_NNS appropriate_JJ for_IN directional_JJ data_NNS have_VBP recently_RB been_VBN developed_VBN =_JJ -_: =[_NN 18_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ unified_JJ semi-supervised_JJ clustering_NN framework_NN based_VBN on_IN HMRFs_NNS is_VBZ also_RB applicable_JJ to_TO such_JJ directional_JJ similarity_NN measures_NNS ._.
+To_TO summarize_VB ,_, the_DT proposed_VBN approach_NN aids_VBZ unsupervised_JJ clustering_NN by_IN incorp_NN

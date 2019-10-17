@@ -1,0 +1,4 @@
+p_NN with_IN any_DT temporal_JJ patterns_NNS ._.
+Our_PRP$ idea_NN of_IN making_VBG use_NN of_IN T-Motifs_NN is_VBZ also_RB motivated_VBN by_IN a_DT recent_JJ work_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- on_IN time_NN series_NN classification_NN problem_NN ._.
+Different_NNP from_IN other_JJ time_NN series_NN classification_NN methods_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =-[_NN 21_CD -RRB-_-RRB- -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, Ye_FW et_FW al._FW -LRB-_-LRB- 24_CD -RRB-_-RRB- use_NN shapelets_NNS ,_, which_WDT are_VBP time_NN series_NN subsequences_NNS that_WDT can_MD maximally_RB represent_VB a_DT class_NN ._.
+The_DT pruning_NN rules_NNS developed_VBN in_IN -LRB-_-LRB- 24_CD -RRB-_-RRB- try_VBP to_TO avoid_VB the_DT expensive_JJ time_NN cost_NN to_TO compute_VB the_DT

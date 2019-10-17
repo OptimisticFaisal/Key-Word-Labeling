@@ -1,0 +1,4 @@
+st_NN of_IN seed_NN adjectives_NNS tagged_VBN with_IN positive_JJ or_CC negative_JJ labels_NNS ._.
+Our_PRP$ seed_NN adjective_JJ list_NN is_VBZ also_RB domain_NN independent_JJ ._.
+An_DT effective_JJ technique_NN is_VBZ proposed_VBN to_TO grow_VB this_DT list_NN using_VBG WordNet_NNP ._.
+Turney_NNP 's_POS work_NN in_IN =_JJ -_: =[_NN 42_CD -RRB-_-RRB- -_: =_SYM -_: applies_VBZ a_DT specific_JJ unsupervised_JJ learning_NN technique_NN based_VBN on_IN the_DT mutual_JJ information_NN between_IN document_NN phrases_NNS and_CC the_DT words_NNS ``_`` excellent_JJ ''_'' and_CC ``_`` poor_JJ ''_'' ,_, where_WRB the_DT mutual_JJ information_NN is_VBZ computed_VBN using_VBG statis_NN

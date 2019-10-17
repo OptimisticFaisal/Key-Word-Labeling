@@ -1,0 +1,4 @@
+ment_NN techniques_NNS have_VBP a_DT direct_JJ bearing_NN on_IN the_DT record-linkage_NN problem_NN ._.
+In_IN particular_JJ ,_, techniques_NNS to_TO map_VB arbitrary_JJ similarity_NN spaces_NNS into_IN similarity\/distance-preserving_JJ multidimensional_JJ Euclidean_JJ spaces_NNS =_JJ -_: =[_NN 31_CD ,_, 50_CD ,_, 16_CD ,_, 6_CD ,_, 25_CD ,_, 46_CD ,_, 47_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN developed_VBN ._.
+Furthermore_RB ,_, many_JJ efficient_JJ multidimensional_JJ similarity_NN joins_VBZ have_VBP been_VBN studied_VBN -LRB-_-LRB- 1_CD ,_, 7_CD ,_, 13_CD ,_, 30_CD ,_, 43_CD ,_, 32_CD ,_, 39_CD ,_, 45_CD ,_, 44_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN ,_, we_PRP develop_VBP an_DT efficient_JJ strategy_NN by_IN exploiting_VBG

@@ -1,0 +1,3 @@
+h_NN termed_VBN ``_`` item-based_JJ collaborative_NN filtering_VBG ''_'' ,_, which_WDT first_RB analyzes_VBZ the_DT ``_`` user-item_JJ matrix_NN ''_'' to_TO identify_VB relationships_NNS between_IN different_JJ items_NNS ,_, and_CC then_RB uses_VBZ these_DT to_TO indirectly_RB compute_VB recommen_NN =_JJ -_: =_JJ dations_NNS -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Cl_SYM -_: =_JJ -_: aypool_NN ,_, Gokhale_NNP and_CC Miranda_NNP -LRB-_-LRB- 23_CD -RRB-_-RRB- presented_VBD a_DT system_NN in_IN which_WDT they_PRP do_VBP not_RB ``_`` blend_VB ''_'' content_NN and_CC collaborative_JJ filters_NNS ,_, but_CC instead_RB leave_VB them_PRP entirely_RB separate_JJ ._.
+Their_PRP$ prediction_NN is_VBZ based_VBN on_IN a_DT weighte_NN

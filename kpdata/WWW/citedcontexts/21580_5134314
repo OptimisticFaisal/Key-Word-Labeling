@@ -1,0 +1,5 @@
+RDQL_NN -_: a_DT query_JJ language_NN for_IN Resource_NNP Description_NN Framework_NN -LRB-_-LRB- RDF_NN -RRB-_-RRB- in_IN Jena_NNP model_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Jena_NNP 2_CD is_VBZ a_DT Java_NNP framework_NN for_IN writing_VBG Semantic_JJ Web_NN applications_NNS and_CC supporting_VBG a_DT programmatic_JJ environment_NN for_IN OWL_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Data_NNS held_VBD imported_VBN ontology_NN can_MD be_VB accessed_VBN ,_, retrieved_VBN and_CC modified_VBN using_VBG RDQL_NN query_NN language_NN ._.
+We_PRP use_VBP UML_NNP to_TO model_VB ontology_NN because_IN there_EX is_VBZ a_DT lack_NN of_IN graphical_JJ notation_NN of_IN modelling_NN ontology_NN ._.
+There_EX

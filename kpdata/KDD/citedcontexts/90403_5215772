@@ -1,0 +1,4 @@
+se_FW Emerging_VBG Patterns_NN as_IN a_DT basis_NN to_TO construct_VB such_PDT a_DT model_NN ._.
+Patterns_NN are_VBP conjunctions_NNS of_IN simple_JJ conditions_NNS ,_, where_WRB each_DT conjunct_NN is_VBZ a_DT test_NN of_IN the_DT value_NN of_IN one_CD of_IN the_DT attributes_NNS ._.
+Emerging_VBG Patterns_NN -LRB-_-LRB- EPs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP defined_VBN as_IN multivariate_JJ features_NNS -LRB-_-LRB- i.e._FW ,_, patterns_NNS or_CC itemsets_NNS -RRB-_-RRB- whose_WP$ supports_NNS -LRB-_-LRB- or_CC frequencies_NNS -RRB-_-RRB- change_VBP significantly_RB from_IN one_CD class_NN to_TO another_DT ._.
+Since_IN EPs_NNS capture_VBP the_DT knowledge_NN of_IN sharp_JJ differences_NNS

@@ -1,0 +1,4 @@
+-LRB-_-LRB- or_CC ,_, in_IN general_JJ ,_, the_DT ``_`` out-most_JJ ''_'' layers_NNS of_IN convex_NN hulls_NNS -RRB-_-RRB- ._.
+Ramaswamy_NNP et_FW al._FW -LRB-_-LRB- 14_CD -RRB-_-RRB- present_VBP a_DT definition_NN based_VBN on_IN the_DT distance_NN between_IN an_DT object_NN and_CC its_PRP$ k-th_NN nearest_IN object_NN in_IN the_DT dataset_NN ._.
+Breunig_NNP et_FW al._FW =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP the_DT concept_NN of_IN ``_`` local_JJ outliers_NNS ''_'' ,_, according_VBG to_TO which_WDT an_DT object_NN is_VBZ an_DT outlier_NN if_IN it_PRP demonstrates_VBZ behavior_NN significantly_RB different_JJ from_IN the_DT behavior_NN of_IN its_PRP$ nearby_JJ objects_NNS ._.
+This_DT concept_NN is_VBZ extend_VB

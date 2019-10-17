@@ -1,0 +1,4 @@
+g_NN words_NNS from_IN the_DT corpus_NN treating_VBG these_DT words_NNS as_IN features_NNS and_CC to_TO represent_VB each_DT document_NN insCHAPTER_NN 8_CD ._.
+CONCLUSIONS_NNS 162_CD the_DT corpus_NN as_IN a_DT vector_NN of_IN certain_JJ weighted_JJ word_NN frequencies_NNS in_IN this_DT feature_NN space_NN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Thus_RB ,_, the_DT entire_JJ document_NN collection_NN may_MD be_VB treated_VBN as_IN a_DT word-by-document_JJ matrix_NN ,_, in_IN which_WDT rows_NNS corresponds_VBZ to_TO words_NNS and_CC columns_NNS to_TO documents_NNS ._.
+A_DT subset_NN of_IN the_DT MEDLINE_NN repository_NN 1_CD can_MD be_VB used_VBN to_TO bui_VB

@@ -1,0 +1,6 @@
+ection_NN III_CD ,_, and_CC discuss_VBP the_DT way_NN it_PRP was_VBD implemented_VBN in_IN our_PRP$ case_NN in_IN section_NN IV_CD ._.
+In_IN section_NN V_NN ,_, we_PRP provide_VBP experimental_JJ results_NNS ,_, and_CC in_IN section_NN VI_NNP ,_, we_PRP conclude_VBP the_DT paper_NN ._.
+II_CD ._.
+RELATED_NNS WORK_VBP Domingos_NNP et_FW al._FW =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: applied_VBN social_JJ network_NN analysis_NN for_IN marketing_NN purposes_NNS ._.
+They_PRP considered_VBD customers_NNS as_IN nodes_NNS in_IN a_DT social_JJ network_NN and_CC modeled_VBD their_PRP$ influence_NN on_IN each_DT other_JJ as_IN a_DT Markov_NNP random_JJ field_NN ._.
+Using_VBG the_DT Markov_NNP ran_VBD

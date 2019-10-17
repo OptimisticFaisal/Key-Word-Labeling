@@ -1,0 +1,6 @@
+e_LS used_VBD a_DT number_NN of_IN benchmark_JJ data_NNS sets_NNS that_WDT were_VBD obtained_VBN from_IN different_JJ application_NN domains_NNS ._.
+Some_DT characteristics_NNS of_IN these_DT data_NNS sets_NNS are_VBP shown_VBN in_IN Table_NNP 2_CD ._.
+In_IN the_DT table_NN ,_, CV_NNP --_: Coefficient_NN of_IN Variation_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: --_: shows_VBZ the_DT dispersion_NN of_IN the_DT class_NN distribution_NN for_IN each_DT data_NNS set_VBN ._.
+In_IN general_JJ the_DT larger_JJR the_DT CV_NNP value_NN is_VBZ ,_, the_DT greater_JJR the_DT variability_NN is_VBZ in_IN the_DT data_NNS ._.
+UCI_NNP Data_NNP Sets_NNP ._.
+In_IN our_PRP$ experiments_NNS ,_, we_PRP used_VBD eight_CD

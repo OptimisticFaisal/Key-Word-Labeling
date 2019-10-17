@@ -1,0 +1,4 @@
+t_NN value_NN to_TO each_DT user_NN ._.
+That_DT is_VBZ ,_, A_NNP 's_POS trust_NN in_IN B_NN corresponds_VBZ to_TO a_DT global_JJ trust_NN value_NN in_IN B._NNP By_IN global_JJ ,_, we_PRP mean_VBP a_DT trust_NN value_NN that_WDT is_VBZ accepted_VBN and_CC shared_VBN by_IN all_DT users_NNS ._.
+In_IN peer-to-peer_JJ networks_NNS ,_, EigenTrust_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: assigns_VBZ a_DT global_JJ trust_NN rating_NN to_TO each_DT peer_VB similar_JJ to_TO how_WRB Google_NNP 's_POS PageRank_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ranks_VBZ web_NN pages_NNS ._.
+Global_JJ ratings_NNS are_VBP then_RB used_VBN by_IN peers_NNS to_TO exclude_VB untrustworthy_JJ peers_NNS -LRB-_-LRB- which_WDT send_VBP 1_CD For_IN simplicity_NN 's_POS s_NN

@@ -1,0 +1,5 @@
+DF_NN weights_NNS for_IN the_DT context_NN vector_NN ,_, and_CC use_NN cosine_NN similarity_NN to_TO find_VB words_NNS that_WDT have_VBP similarity_NN above_IN a_DT certain_JJ threshold_NN to_TO the_DT seed_NN dictionary_NN words_NNS ._.
+This_DT is_VBZ similar_JJ in_IN spirit_NN to_TO earlier_JJR literature_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC Google_NNP Sets_NNP 5_CD ._.
+The_DT tool_NN supports_VBZ unigrams_NNS ,_, bigrams_NNS and_CC trigrams_NNS ._.
+Since_IN the_DT analyst_NN uses_VBZ the_DT tool_NN in_IN an_DT on-line_JJ manner_NN ,_, the_DT tool_NN has_VBZ to_TO be_VB efficient_JJ in_IN coming_VBG up_RP with_IN the_DT expanded_VBN dictionary_NN ._.
+Th_NN

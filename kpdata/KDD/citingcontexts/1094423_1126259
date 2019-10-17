@@ -1,0 +1,6 @@
+roach_NN ._.
+This_DT is_VBZ because_IN virtually_RB any_DT learning_NN algorithm_NN can_MD deal_VB with_IN a_DT limited_JJ number_NN of_IN false_JJ samples_NNS ._.
+For_IN Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- ,_, the_DT effect_NN of_IN false_JJ samples_NNS has_VBZ been_VBN analyzed_VBN thoroughly_RB in_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN general_JJ ,_, an_DT SVM_NN is_VBZ highly_RB tolerant_JJ to_TO noise_NN ._.
+There_EX are_VBP also_RB detailed_JJ theoretical_JJ studies_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- on_IN how_WRB the_DT proportion_NN of_IN false_JJ samples_NNS influences_VBZ a_DT PAC-learner_NN ._.
+In_IN essence_NN ,_, the_DT number_NN of_IN required_VBN sa_NN

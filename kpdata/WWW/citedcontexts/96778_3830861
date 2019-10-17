@@ -1,0 +1,4 @@
+their_PRP$ effectiveness_NN without_IN using_VBG human_JJ relevance_NN judgments_NNS ._.
+Combining_VBG different_JJ rankings_NNS using_VBG data_NNS fusion_NN ,_, or_CC selecting_VBG documents_NNS based_VBN on_IN multiple_JJ criteria_NNS is_VBZ also_RB referred_VBN to_TO as_RB rank_VB aggregation_NN -LRB-_-LRB- =_JJ -_: =_JJ Dwork_NNP ,_, Kumar_NNP ,_, Naor_NNP ,_, &_CC Sivakumar_NNP ,_, 2001_CD -_: =--RRB-_NN ._.
+In_IN IR_NNP ,_, data_NNS fusion_NN merges_VBZ the_DT retrieval_NN results_NNS of_IN multiple_JJ systems_NNS and_CC aims_NNS at_IN achieving_VBG a_DT performance_NN better_RBR than_IN all_DT systems_NNS involved_VBN in_IN the_DT process_NN -LRB-_-LRB- Meng_NNP ,_, Yu_NNP ,_, &_CC Liu_NNP ,_, 2002_CD -RRB-_-RRB- ._.
+Data_NN fusion_NN in_IN autom_NN

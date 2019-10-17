@@ -1,0 +1,4 @@
+e_LS Error_NN -LRB-_-LRB- RMSE_NN -RRB-_-RRB- ;_: -LRB-_-LRB- 2_LS -RRB-_-RRB- Ranking_JJ accuracy_NN metrics_NNS measure_VBP the_DT ability_NN to_TO produce_VB an_DT ordered_VBN list_NN of_IN items_NNS that_WDT matches_VBZ how_WRB a_DT user_NN would_MD have_VB ordered_VBN the_DT same_JJ items_NNS ._.
+These_DT include_VBP the_DT top-k_JJ recommendations_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Normalized_VBN Discounted_JJ Cumulative_JJ Gain_NN -LRB-_-LRB- NDCG_NN -RRB-_-RRB- -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Our_PRP$ overall_JJ goal_NN is_VBZ to_TO measure_VB the_DT effectiveness_NN of_IN suggesting_VBG top-ranked_JJ items_NNS to_TO a_DT user_NN ._.
+Besides_IN ,_, the_DT predicted_VBN scores_NNS of_IN recommended_JJ communit_NN

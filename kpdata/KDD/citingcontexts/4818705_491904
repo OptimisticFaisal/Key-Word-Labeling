@@ -1,0 +1,6 @@
+._.
+classification_NN accuracy_NN ._.
+But_CC for_IN time_NN series_NN data_NNS in_IN particular_JJ there_EX is_VBZ rarely_RB some_DT sort_NN of_IN labeling_NN for_IN the_DT time_NN points_NNS available_JJ ._.
+Far_RB more_RBR common_JJ is_VBZ the_DT classification_NN of_IN whole_JJ time_NN series_NN -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 8_CD ,_, 22_CD -RRB-_-RRB- -_: =--RRB-_FW butsa_FW single_JJ label_NN is_VBZ of_IN little_JJ help_NN for_IN the_DT discretization_NN of_IN the_DT numerical_JJ values_NNS ._.
+Recently_RB ,_, the_DT Symbolic_JJ Approximation_NN -LRB-_-LRB- SAX_NN -RRB-_-RRB- has_VBZ been_VBN proposed_VBN in_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+Based_VBN on_IN the_DT Piecewise_NNP Aggregate_NNP Aggregatio_NNP

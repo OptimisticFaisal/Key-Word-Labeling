@@ -1,0 +1,3 @@
+ressing_VBG the_DT graph_NN refers_VBZ to_TO replacing_VBG each_DT instance_NN of_IN the_DT substructure_NN with_IN a_DT new_JJ vertex_NN representing_VBG that_DT substructure_NN ._.
+Each_DT substructure_NN is_VBZ evaluated_VBN using_VBG the_DT Minimum_NNP Description_NN Length_NN heuristic_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT minimum_JJ description_NN length_NN -LRB-_-LRB- or_CC simply_RB ``_`` description_NN length_NN ''_'' -RRB-_-RRB- is_VBZ the_DT lowest_JJS number_NN of_IN bits_NNS needed_VBN to_TO encode_VB a_DT piece_NN of_IN data_NNS ;_: Subdue_NNP contains_VBZ an_DT algorithm_NN that_WDT will_MD approximate_JJ this_DT value_NN for_IN any_DT g_NN

@@ -1,0 +1,4 @@
+ms_NNS that_WDT co-occur_VBP frequently_RB in_IN a_DT database_NN ._.
+This_DT is_VBZ a_DT fundamental_JJ data_NN mining_NN problem_NN with_IN many_JJ applications_NNS ._.
+Since_IN the_DT introduction_NN of_IN this_DT problem_NN by_IN Agrawal_NNP et_FW al._FW -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, a_DT large_JJ number_NN of_IN algorithms_NNS =_JJ -_: =[_NN 2_CD ,_, 3_CD ,_, 14_CD ,_, 12_CD ,_, 7_CD ,_, 30_CD ,_, 34_CD ,_, 15_CD ,_, 21_CD ,_, 25_CD ,_, 33_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN proposed_VBN ._.
+No_DT one_CD algorithm_NN dominates_VBZ :_: previous_JJ research_NN has_VBZ shown_VBN that_IN the_DT performance_NN of_IN these_DT algorithms_NNS is_VBZ very_RB dependent_JJ on_IN input_NN characteristics_NNS -LRB-_-LRB- 13_CD ,_, 19_CD -RRB-_-RRB- ;_: we_PRP have_VBP also_RB found_VBN that_IN the_DT p_NN

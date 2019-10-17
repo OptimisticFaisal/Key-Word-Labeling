@@ -1,0 +1,6 @@
+M_NN is_VBZ adopted_VBN for_IN building_VBG the_DT relational_JJ classifier_NN ._.
+For_IN prediction_NN ,_, relaxation_NN labeling_NN is_VBZ employed_VBN ._.
+•_CD Latent_JJ Group_NN Classifier_NN -LRB-_-LRB- LGC_NN -RRB-_-RRB- ._.
+This_DT classifier_NN follows_VBZ the_DT idea_NN presented_VBN in_IN latent_JJ group_NN model_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+But_CC differently_RB ,_, clustering_NN memberships_NNS are_VBP used_VBN as_IN features_NNS for_IN SVM_NN learning_NN ._.
+We_PRP adopt_VBP a_DT similar_JJ strategy_NN as_IN in_IN -LRB-_-LRB- 13_CD -RRB-_-RRB- by_IN considering_VBG the_DT connections_NNS of_IN each_DT user_NN as_IN features_NNS and_CC using_VBG k-means_NNS with_IN c_NN

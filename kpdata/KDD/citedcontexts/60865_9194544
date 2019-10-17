@@ -1,0 +1,4 @@
+models_NNS in_IN speech_NN recognition_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+The_DT speech_NN application_NN motivated_JJ researchers_NNS to_TO think_VB about_IN smoothing_VBG methods_NNS such_JJ as_IN backoff_NN :_: -LRB-_-LRB- 17_CD ,_, 5_CD ,_, 3_CD ,_, 31_CD -RRB-_-RRB- ._.
+Query_NN suggestions_NNS -LRB-_-LRB- 7_CD ,_, 15_CD ,_, 16_CD ,_, 30_CD -RRB-_-RRB- and_CC personalization_NN =_JJ -_: =[_NN 14_CD ,_, 13_CD ,_, 27_CD ,_, 29_CD ,_, 25_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP somewhat_RB related_JJ topics_NNS ,_, though_IN the_DT connection_NN between_IN those_DT two_CD topics_NNS and_CC backoff_NN smoothing_NN of_IN language_NN models_NNS is_VBZ novel_JJ ._.
+Many_JJ personalized_JJ search_NN techniques_NNS have_VBP been_VBN proposed_VBN ,_, both_DT server-side_NN

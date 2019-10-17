@@ -1,0 +1,4 @@
+regular_JJ changes_NNS in_IN traffic_NN patterns_NNS which_WDT may_MD not_RB be_VB obvious_JJ from_IN volume_NN alone_RB ._.
+For_IN example_NN ,_, the_DT subnet_JJ count_NN fingerprints_NNS provide_VBP valuable_JJ information_NN to_TO distinguish_VB a_DT flash_NN crowd_NN from_IN a_DT DDoS_NN attack_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP is_VBZ hard_JJ for_IN an_DT attacker_NN aiming_VBG to_TO orchestrate_VB a_DT DDoS_NN attack_NN on_IN a_DT single_JJ machine_NN or_CC on_IN the_DT ISP_NN infrastructure_NN to_TO circumvent_VB the_DT above_JJ mechanism_NN ._.
+Since_IN the_DT fingerprints_NNS at_IN each_DT router_NN keep_VB track_NN of_IN

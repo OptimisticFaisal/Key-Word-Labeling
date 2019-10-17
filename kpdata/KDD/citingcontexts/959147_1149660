@@ -1,0 +1,5 @@
+liability_NN engineering_NN for_IN fault-tree_JJ analysis_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- ._.
+However_RB ,_, they_PRP have_VBP received_VBN very_RB little_JJ attention_NN in_IN data_NN mining_NN -LRB-_-LRB- to_TO be_VB discussed_VBN more_RBR in_IN Section_NNP 7_CD -RRB-_-RRB- ._.
+A_DT survey_NN on_IN ZBDD_NN applications_NNS can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+More_RBR formally_RB ,_, a_DT BDD_NNP is_VBZ a_DT canonical_JJ directed_JJ acyclic_JJ graph_NN consisting_VBG of_IN one_CD source_NN node_NN ,_, multiple_JJ internal_JJ nodes_NNS ,_, and_CC two_CD sink_NN nodes_NNS sink-0_NN and_CC sink-1_NN ._.
+Nodes_NNS in_IN a_DT BDD_NNP are_VBP labeled_VBN ,_, and_CC they_PRP are_VBP ord_VBN

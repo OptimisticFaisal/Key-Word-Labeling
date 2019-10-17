@@ -1,0 +1,4 @@
+-RRB-_-RRB- -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+While_IN such_JJ Pareto-based_JJ approaches_NNS are_VBP immune_JJ to_TO nonconvexities_NNS in_IN the_DT tradeoff_NN surface_NN ,_, they_PRP may_MD not_RB ensure_VB a_DT full_JJ exploration_NN along_IN the_DT entire_JJ Pareto-frontier_NN ._.
+Various_JJ niching_JJ techniques_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN proposed_VBN to_TO further_RB enhance_VB Pareto-GAs_NN by_IN fostering_VBG wider_JJR sampling_NN along_IN the_DT non-dominated_JJ frontier_NN -LRB-_-LRB- see_VB -LRB-_-LRB- 7_CD -RRB-_-RRB- for_IN an_DT overview_NN -RRB-_-RRB- ._.
+3.1_CD Pareto-Based_JJ Selection_NN This_DT study_NN uses_VBZ the_DT simple_NN and_CC eleg_NN

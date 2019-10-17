@@ -1,0 +1,4 @@
+,_, we_PRP assume_VBP the_DT aspect_NN ratings_NNS are_VBP latent_JJ ,_, which_WDT is_VBZ a_DT more_RBR general_JJ and_CC more_RBR realistic_JJ scenario_NN ._.
+Summarization_NN is_VBZ a_DT generally_RB useful_JJ technique_NN to_TO combat_VB information_NN overload_NN ._.
+A_DT recent_JJ human_JJ evaluation_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: indicates_VBZ that_IN sentiment_NN informed_JJ summaries_NNS are_VBP strongly_RB preferred_VBN over_IN non-sentiment_JJ baselines_NNS ,_, suggesting_VBG the_DT usefulness_NN of_IN modeling_NN sentiment_NN and_CC aspects_NNS when_WRB summarizing_VBG opinions_NNS ._.
+However_RB ,_, existi_NNS

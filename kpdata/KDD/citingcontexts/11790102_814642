@@ -1,0 +1,4 @@
+deal-with_JJ problems_NNS ,_, and_CC from_IN this_DT perspective_NN Naive_JJ Bayes_NNP classifier_NN looks_VBZ quite_RB attractive_JJ ,_, especially_RB if_IN some_DT of_IN its_PRP$ drawbacks_NNS can_MD be_VB alleviated_VBN ._.
+This_DT was_VBD exactly_RB the_DT goal_NN of_IN several_JJ recent_JJ studies_NNS =_JJ -_: =[_NN 11_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT first_JJ two_CD papers_NNS discuss_VBP approaches_NNS with_IN introducing_VBG dependencies_NNS between_IN features_NNS and_CC performing_VBG clustering_NN prior_RB to_TO classification_NN ._.
+These_DT methods_NNS are_VBP quite_RB a_DT bit_NN more_RBR complex_JJ than_IN the_DT regular_NN

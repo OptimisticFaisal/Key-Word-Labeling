@@ -1,0 +1,4 @@
+fices_NNS to_TO use_VB wavelets_NNS in_IN base_NN b_NN so_IN that_IN the_DT height_NN of_IN the_DT wavelet_NN tree_NN is_VBZ logb_JJ n._NN B_NN −_CD adic_JJ wavelets_NNS were_VBD first_RB introduced_VBN by_IN Heller_NNP -LRB-_-LRB- 11_CD -RRB-_-RRB- as_IN rank_JJ M_NN wavelets_NNS ,_, and_CC are_VBP related_JJ to_TO b_NN −_CD adic_JJ subdivision_NN scheme_NN =_JJ -_: =[_NN 5_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+By_IN choosing_VBG b_NN large_JJ enough_RB ,_, we_PRP can_MD effectively_RB control_VB the_DT height_NN of_IN the_DT tree_NN ._.
+This_DT allows_VBZ us_PRP to_TO limit_VB the_DT worst-case_JJ query_NN cost_NN to_TO a_DT set_NN maximum_NN which_WDT depends_VBZ on_IN the_DT height_NN of_IN the_DT tree_NN ._.
+This_DT base_NN b_NN

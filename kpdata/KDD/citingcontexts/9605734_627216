@@ -1,0 +1,4 @@
+ata_NN set_VBN to_TO eliminate_VB outliers_NNS ,_, and_CC then_RB the_DT remaining_VBG values_NNS were_VBD normalized_VBN by_IN the_DT difference_NN between_IN the_DT remaining_VBG maximum_NN and_CC minimum_NN value_NN ._.
+This_DT results_VBZ in_IN each_DT metric_NN being_VBG rescaled_VBN to_TO the_DT range_NN =_JJ -_: =[_NN 0,1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Popularity_NN metrics_NNS for_IN languages_NNS ,_, keywords_NNS ,_, and_CC categories_NNS were_VBD computed_VBN similarly_RB ,_, but_CC using_VBG the_DT natural_JJ log_NN of_IN the_DT raw_JJ frequencies_NNS ._.
+3.2_CD Bounce_NNP Rate_NNP and_CC Click_NNP Through_IN Rate_NNP As_IN described_VBN above_IN ,_, one_CD t_NN

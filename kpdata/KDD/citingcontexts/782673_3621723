@@ -1,0 +1,5 @@
+fixed-dimensional_JJ vectors_NNS for_IN clustering_NN by_IN the_DT K-means_NNS algorithm_NN ._.
+In_IN our_PRP$ prior_RB published_VBN work_NN on_IN this_DT data_NNS we_PRP have_VBP focused_VBN on_IN parametric_JJ model-based_JJ regression_NN mixtures_NNS with_IN no_DT translation_NN modelling_NN =_JJ -_: =[_NN 13_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT prior_JJ work_NN has_VBZ not_RB addressed_VBN the_DT problem_NN of_IN simultaneously_RB aligning_VBG and_CC clustering_VBG cyclone_NN trajectories_NNS ._.
+As_IN was_VBD shown_VBN earlier_RBR in_IN Figure_NNP 1_CD ,_, this_DT is_VBZ an_DT important_JJ concern_NN ._.
+9.1_CD Dataset_NNP and_CC Experime_NNP

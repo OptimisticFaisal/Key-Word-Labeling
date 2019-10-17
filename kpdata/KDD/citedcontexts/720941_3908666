@@ -1,0 +1,3 @@
+e_LS techniques_NNS exploit_VBP these_DT dependencies_NNS by_IN simultaneously_RB inferring_VBG values_NNS over_IN the_DT entire_JJ dataset_NN and_CC results_VBZ in_IN more_RBR accurate_JJ predictions_NNS than_IN conditional_JJ inference_NN for_IN each_DT instance_NN independently_RB -LRB-_-LRB- =_JJ -_: =_JJ Jensen_NNP et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN ._.
+Collective_JJ inference_NN often_RB requires_VBZ the_DT use_NN of_IN approximate_JJ inference_NN techniques_NNS ,_, which_WDT may_MD introduce_VB variation_NN in_IN model_NN predictions_NNS for_IN a_DT single_JJ instance_NN ._.
+For_IN example_NN ,_, final_JJ predictions_NNS for_IN an_DT inst_NN

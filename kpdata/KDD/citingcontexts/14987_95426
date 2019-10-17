@@ -1,0 +1,4 @@
+The_DT bias-variance_JJ analysis_NN shows_VBZ that_IN VFDTcNB_NN generates_VBZ very_RB stable_JJ predictive_JJ models_NNS concerning_VBG variations_NNS of_IN the_DT training_NN set_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP do_VBP not_RB discuss_VB the_DT problem_NN of_IN timechanging_JJ concepts_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Nevertheless_RB ,_, our_PRP$ extensions_NNS could_MD be_VB applied_VBN to_TO any_DT strategy_NN that_WDT takes_VBZ into_IN account_NN concept_NN drift_NN ._.
+Acknowledgments_NNS :_: The_DT authors_NNS reveal_VBP its_PRP$ gratitude_NN to_TO the_DT financial_JJ support_NN given_VBN by_IN the_DT FEDER_NN -LRB-_-LRB- Pl_NN

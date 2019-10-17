@@ -1,0 +1,4 @@
+be_VB done_VBN in_IN many_JJ ways_NNS ,_, such_JJ as_IN profiling_VBG users_NNS '_POS behavior_NN ,_, looking_VBG for_IN known_JJ fraud_NN patterns_NNS ,_, etc._FW ._.
+The_DT goal_NN is_VBZ to_TO identify_VB fraudulent_JJ activity_NN as_RB soon_RB as_IN possible_JJ without_IN creating_VBG too_RB many_JJ false_JJ alarms_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Calling_VBG activity_NN may_MD be_VB represented_VBN in_IN various_JJ ways_NNS ,_, but_CC is_VBZ usually_RB described_VBN with_IN call_JJ records_NNS ._.
+Each_DT call_NN record_NN is_VBZ a_DT vector_NN of_IN features_NNS ,_, both_DT continuous_JJ -LRB-_-LRB- e.g._FW ,_, CALL_NNP DURATION_NNP -RRB-_-RRB- and_CC discrete_JJ -LRB-_-LRB- e.g._FW ,_, C_NN

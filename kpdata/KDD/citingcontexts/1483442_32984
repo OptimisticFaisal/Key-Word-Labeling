@@ -1,0 +1,4 @@
+gherty_NN ,_, Kohavi_NNP and_CC Sahami_NNP -LRB-_-LRB- 8_CD -RRB-_-RRB- provide_VBP a_DT good_JJ overview_NN of_IN many_JJ algorithms_NNS in_IN this_DT category_NN ._.
+As_IN we_PRP mentioned_VBD previously_RB ,_, these_DT approaches_NNS can_MD miss_VB interactions_NNS of_IN several_JJ variables_NNS ._.
+Srikant_NNP and_CC Agrawal_NNP =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD an_DT approach_NN that_WDT would_MD avoid_VB this_DT limitation_NN ._.
+They_PRP finely_RB divide_VBP each_DT attribute_NN into_IN n_NN basic_JJ intervals_NNS and_CC then_RB attempt_NN to_TO consider_VB all_DT possible_JJ combinations_NNS of_IN consecutive_JJ basic_JJ intervals_NNS ._.

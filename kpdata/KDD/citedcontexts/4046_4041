@@ -1,0 +1,4 @@
+ier_NN ._.
+Procedures_NNS for_IN calibrating_VBG classifiers_NNS have_VBP been_VBN proposed_VBN in_IN different_JJ contexts_NNS :_: In_IN weather_NN prediction_NN tasks_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, in_IN game_NN theory_NN -LRB-_-LRB- 2_CD ,_, 3_CD -RRB-_-RRB- ,_, and_CC more_RBR recently_RB in_IN the_DT context_NN of_IN pattern_NN classification_NN =_JJ -_: =[_NN 4_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Zadrozny_NNP and_CC Elkan_NNP were_VBD also_RB the_DT first_JJ to_TO notice_VB the_DT need_NN of_IN calibrating_VBG classifiers_NNS when_WRB used_VBN as_IN decision_NN making_NN aids_NNS ._.
+Our_PRP$ own_JJ incentive_NN to_TO study_VB calibration_NN came_VBD from_IN applying_VBG probabilistic_JJ based_VBN

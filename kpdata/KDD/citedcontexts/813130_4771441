@@ -1,0 +1,6 @@
+η_NN ._.
+That_DT is_VBZ we_PRP are_VBP in_IN a_DT sense_NN looking_VBG for_IN an_DT element_NN of_IN the_DT family_NN -LCB-_-LRB- f_FW -LRB-_-LRB- θ_NN ;_: ._. -RRB-_-RRB-
+,_, θ_FW ∈_FW Θ1_NN -RCB-_-RRB- that_WDT is_VBZ closest_JJS to_TO F_NN in_IN the_DT so_RB called_VBN Kullback-Leibler_NNP distance_NN ._.
+Now_RB compute_VB n_NN log_NN f_SYM -LRB-_-LRB- ˆ_CD n_NN θ_NN ;_: Xi_NN -RRB-_-RRB- and_CC log_NN g_NN -LRB-_-LRB- ˆη_NN ;_: Xi_NN -RRB-_-RRB- =_JJ -_: =-LRB-_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: i_LS =_JJ 1_CD to_TO see_VB which_WDT one_NN is_VBZ larger_JJR ._.
+But_CC this_DT introduces_VBZ a_DT bias_NN ._.
+Methods_NNS such_JJ as_IN Bayesian_NNP Information_NNP Criterion_NNP and_CC Akaike_NNP Information_NNP Criterion_NNP use_VB bias_NN correction_NN based_VBN on_IN the_DT number_NN of_IN estimated_VBN parame_NN

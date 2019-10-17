@@ -1,0 +1,7 @@
+aracterize_JJ anomalous_JJ attacks_NNS and_CC extract_VB their_PRP$ signatures_NNS ._.
+The_DT new_JJ signatures_NNS are_VBP generated_VBN from_IN anomalies_NNS detected_VBN by_IN ADS_NNPS ._.
+This_DT idea_NN was_VBD inspired_VBN by_IN earlier_JJR works_NNS on_IN weighted_JJ association_NN rules_NNS -LRB-_-LRB- 30_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT new_JJ approach_NN automatically_RB enables_VBZ HIDS_NN to_TO detect_VB similar_JJ anomalous_JJ attacks_NNS in_IN the_DT future_NN ._.
+Fig._NNP 1_CD ._.
+Data_NN mining_NN scheme_NN for_IN network_NN anomaly_NN detection_NN over_IN Internet_NNP connection_NN records_NNS ._.
+3_CD HYBRID_NN IN_IN

@@ -1,0 +1,4 @@
+em_RB have_VB varied_VBN widely_RB ._.
+Some_DT of_IN the_DT more_RBR popular_JJ representations_NNS include_VBP Petri_NNP nets_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, finite_JJ state_NN machines_NNS and_CC Markov_NNP models_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, as_RB well_RB as_IN special-purpose_JJ graphic_JJ formalisms_NNS such_JJ as_IN AND\/OR_NN trees_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: and_CC block_VB diagrams_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+In_IN most_JJS cases_NNS ,_, these_DT graphic_JJ representations_NNS are_VBP also_RB associated_VBN with_IN a_DT corresponding_JJ formal_JJ language_NN that_WDT is_VBZ interpretable_JJ by_IN BPM_NN sequencing_NN middleware_NN ._.
+For_IN an_DT extensive_JJ comp_NN

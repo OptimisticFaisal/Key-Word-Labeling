@@ -1,0 +1,4 @@
+me_PRP and_CC censoring_VBG ,_, but_CC it_PRP still_RB fails_VBZ to_TO make_VB complete_JJ use_NN of_IN all_PDT the_DT available_JJ information_NN ._.
+For_IN instance_NN ,_, it_PRP treats_VBZ two_CD recurred_JJ patients_NNS as_IN the_DT same_JJ regardless_RB of_IN their_PRP$ survival_NN time_NN ._.
+deSilva_FW et_FW al._FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: tried_VBD to_TO train_VB a_DT neural_JJ network_NN by_IN incorporating_VBG both_CC follow-up_JJ time_NN and_CC censorship_NN into_IN a_DT modified_VBN objective_NN function_NN ._.
+The_DT model_NN regresses_VBZ over_IN the_DT survival_NN time_NN ,_, but_CC the_DT error_NN term_NN for_IN censored_VBN sam_NN

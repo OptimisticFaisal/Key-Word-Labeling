@@ -1,0 +1,4 @@
+ficient_JJ θi_NN for_IN the_DT i-th_NN kernel_NN Gi_NN is_VBZ given_VBN by_IN the_DT dual_JJ variable_NN corresponding_VBG to_TO the_DT i-th_NN constraint_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 29_CD -RRB-_-RRB- divided_VBN by_IN ri_NN ._.
+Note_VB that_IN the_DT general-purpose_JJ optimization_NN software_NN packages_NNS like_IN MOSEK_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: also_RB report_VBP the_DT dual_JJ variables_NNS by_IN solving_VBG the_DT dual_JJ problem_NN ._.
+3.4_CD The_DT Main_NNP Algorithm_NNP Based_VBN on_IN the_DT discussion_NN described_VBN above_IN ,_, we_PRP propose_VBP to_TO develop_VB an_DT iterative_JJ algorithm_NN ,_, called_VBN NAML_NNP ,_, for_IN Nonlinear_JJ Ad_NN

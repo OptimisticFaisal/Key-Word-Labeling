@@ -1,0 +1,4 @@
+rough_JJ conceptual_JJ and_CC relational_JJ assertions_NNS in_IN the_DT EventOnt_NNP ontology_NN ._.
+Such_JJ ontology_NN and_CC assertions_NNS are_VBP maintained_VBN in_IN the_DT Events_NNS KB_NN ,_, which_WDT is_VBZ implemented_VBN by_IN means_NNS of_IN the_DT TDB_NNP store_NN of_IN the_DT Jena_NNP framework_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP is_VBZ a_DT high_JJ performance_NN ,_, nontransactional_JJ ,_, ontology_JJ store_NN in_IN RDF_NNP triple_JJ format_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- that_WDT is_VBZ able_JJ to_TO manage_VB a_DT very_RB large_JJ number_NN of_IN these_DT triples_NNS in_IN an_DT efficient_JJ manner_NN ._.
+Apart_RB from_IN dealing_VBG with_IN sensor_NN

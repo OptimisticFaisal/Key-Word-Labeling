@@ -1,0 +1,4 @@
+exploiting_VBG this_DT technique_NN ,_, which_WDT are_VBP valid_JJ for_IN both_CC infinite_JJ and_CC finite_JJ programs_NNS ._.
+One_CD based_VBN on_IN a_DT batch_NN scenario_NN ,_, inspired_VBN by_IN SVMStruct_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, and_CC one_CD based_VBN on_IN an_DT online_JJ setting_NN ,_, inspired_VBN by_IN BMRM\/Pegasos_NN =_JJ -_: =[_NN 15_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3.1_CD A_NN Variant_JJ of_IN SVMStruct_NN The_DT work_NN of_IN -LRB-_-LRB- 16_CD ,_, 10_CD -RRB-_-RRB- on_IN SVMStruct-like_JJ optimization_NN methods_NNS can_MD be_VB used_VBN directly_RB to_TO solve_VB regularized_JJ risk_NN minimization_NN problems_NNS ._.
+The_DT basic_JJ idea_NN is_VBZ to_TO compute_VB gradients_NNS of_IN

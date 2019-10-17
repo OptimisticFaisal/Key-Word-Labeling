@@ -1,0 +1,4 @@
+egularized_VBN logistic_JJ regression_NN The_DT L1_NN regularized_VBD logistic_JJ regression_NN -LRB-_-LRB- L1LR_NN -RRB-_-RRB- was_VBD used_VBN for_IN feature_NN selection_NN ,_, followed_VBN by_IN SVM_NN for_IN prediction_NN ._.
+The_DT implementation_NN of_IN L1LR_NN was_VBD done_VBN using_VBG the_DT SLEP_NN package_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT optimal_JJ regularization_NN parameter_NN λ_FW ∗_FW was_VBD assigned_VBN to_TO be_VB the_DT value_NN that_WDT maximized_VBD the_DT area_NN under_IN the_DT ROC_NNP curve_NN for_IN 10-fold_JJ cross-validation_NN ._.
+The_DT value_NN of_IN λ_FW ∗_FW was_VBD then_RB used_VBN to_TO run_VB L1LR_NN on_IN the_DT enti_NN

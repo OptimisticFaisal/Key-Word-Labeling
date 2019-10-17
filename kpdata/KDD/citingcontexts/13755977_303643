@@ -1,0 +1,4 @@
+ortant_NN in_IN the_DT ranking_JJ process_NN ._.
+The_DT second_JJ term_NN learns_VBZ from_IN the_DT initial_JJ ranking_NN distribution_NN encoded_VBN in_IN the_DT labels_NNS ,_, whose_WP$ contribution_NN is_VBZ weighted_VBN by_IN αi_FW ∈_FW -LRB-_-LRB- 0,1_CD -RRB-_-RRB- ._.
+A_DT similar_JJ strategy_NN has_VBZ been_VBN adopted_VBN in_IN =_JJ -_: =[_NN 13_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: to_TO control_VB the_DT weights_NNS between_IN different_JJ types_NNS of_IN relations_NNS and_CC objects_NNS ._.
+After_IN each_DT iteration_NN ,_, P_NN -LRB-_-LRB- xip_FW |_FW Xi_NN ,_, k_NN -RRB-_-RRB- t_NN is_VBZ normalized_VBN such_JJ that_IN ∑_FW ni_FW p_NN =_JJ 1P_NN -LRB-_-LRB- xip_FW |_FW Xi_NN ,_, k_NN -RRB-_-RRB- t_NN =_JJ 1_CD ,_, ∀_FW i_FW =_JJ 1_CD ,_, ..._: ,_, m_NN ,_, k_NN =_JJ 1_CD ,_, ..._: ,_, K_NN ,_, in_IN order_NN to_TO sta_VB

@@ -1,0 +1,4 @@
+for_IN mining_NN frequent_JJ partial_JJ periodic_JJ patterns_NNS ._.
+In_IN this_DT problem_NN setting_NN ,_, each_DT timestamp_NN corresponds_VBZ to_TO a_DT set_NN of_IN items_NNS ._.
+The_DT goal_NN is_VBZ to_TO find_VB the_DT patterns_NNS that_WDT appear_VBP at_IN least_JJS min_NN sup_NN times_NNS ._.
+Yang_NNP et_FW al._FW =_SYM -_: =[_NN 19_CD ,_, 20_CD ,_, 15_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP a_DT series_NN of_IN works_NNS dealing_VBG with_IN variations_NNS of_IN periodic_JJ pattern_NN mining_NN ,_, such_JJ as_IN asynchronous_JJ patterns_NNS -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, surprising_JJ periodic_JJ patterns_NNS -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, patterns_NNS with_IN gap_NN penalties_NNS -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, and_CC higher_JJR level_NN

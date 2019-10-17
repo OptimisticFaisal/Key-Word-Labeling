@@ -1,0 +1,4 @@
+vering_VBG algorithms_NNS -LRB-_-LRB- 9,15_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+A_DT third_JJ class_NN of_IN rule_NN mining_NN algorithms_NNS ,_, which_WDT are_VBP the_DT subject_NN of_IN this_DT paper_NN ,_, identify_VBP only_RB the_DT most_RBS interesting_JJ ,_, or_CC optimal_JJ ,_, rules_NNS according_VBG to_TO some_DT interestingness_NN metric_NN =_JJ -_: =[_NN 12,18,20,24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Optimized_VBN rule_NN miners_NNS are_VBP particularly_RB useful_JJ in_IN domains_NNS where_WRB a_DT constraint-based_JJ rule_NN miner_NN produces_VBZ too_RB many_JJ rules_NNS or_CC requires_VBZ too_RB much_JJ time_NN ._.
+It_PRP is_VBZ difficult_JJ to_TO come_VB up_RP with_IN a_DT single_JJ metric_NN that_IN q_NN

@@ -1,0 +1,5 @@
+ost_NN models_NNS to_TO achieve_VB its_PRP$ objectives_NNS ._.
+There_EX is_VBZ also_RB work_NN on_IN application_NN deployment_NN and_CC control_NN ,_, including_VBG resource_NN allocation_NN and_CC dynamic_NN provisioning_VBG ,_, that_WDT does_VBZ not_RB exploit_VB virtualization_NN technology_NN =_JJ -_: =[_NN 3_CD ,_, 8_CD ,_, 21_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, this_DT work_NN also_RB treats_VBZ the_DT target_NN applications_NNS as_IN black_JJ boxes_NNS ._.
+The_DT virtualization_NN design_NN problem_NN that_WDT is_VBZ considered_VBN here_RB was_VBD posed_VBN ,_, but_CC not_RB solved_VBN ,_, in_IN our_PRP$ previous_JJ work_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+This_DT paper_NN buil_NN

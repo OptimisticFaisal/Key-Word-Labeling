@@ -1,0 +1,4 @@
+dentify_JJ something_NN novel_JJ or_CC anomalous_JJ without_IN the_DT aid_NN of_IN labeled_JJ data_NNS ._.
+There_EX exist_VBP some_DT semi-supervised_JJ outlier_NN detection_NN approaches_NNS that_WDT take_VBP labeled_JJ examples_NNS as_IN prior_JJ knowledge_NN of_IN label_NN distribution_NN =_JJ -_: =[_NN 33_CD ,_, 28_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP aim_VBP at_IN unsupervised_JJ outlier_NN detection_NN on_IN networked_JJ data_NNS requiring_VBG no_DT labeled_JJ data_NNS ._.
+In_IN recent_JJ years_NNS ,_, many_JJ methods_NNS have_VBP been_VBN developed_VBN to_TO discover_VB clusters_NNS or_CC communities_NNS in_IN networks_NNS

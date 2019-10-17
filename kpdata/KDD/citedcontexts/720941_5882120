@@ -1,0 +1,4 @@
+ted_VBN instances_NNS -LRB-_-LRB- e.g._FW ,_, words_NNS from_IN the_DT hyperlinked_JJ web_NN pages_NNS -RRB-_-RRB- ._.
+Even_RB greater_JJR accuracy_NN increases_NNS can_MD occur_VB when_WRB the_DT class_NN label_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- of_IN the_DT related_JJ web_NN pages_NNS are_VBP used_VBN to_TO derive_VB relevant_JJ relational_JJ features_NNS -LRB-_-LRB- =_JJ -_: =_JJ Jensen_NNP et_FW al._FW 2004_CD -_: =--RRB-_NN ._.
+However_RB ,_, some_DT or_CC all_DT of_IN the_DT class_NN labels_NNS of_IN the_DT related_JJ web_NN pages_NNS are_VBP initially_RB unknown_JJ and_CC need_VBP to_TO be_VB estimated_VBN or_CC inferred_VBN to_TO bootstrap_VB the_DT classification_NN process_NN ._.
+For_IN instance_NN ,_, initial_JJ estimates_NNS

@@ -1,0 +1,4 @@
+e_LS importantly_RB ,_, an_DT admissible_JJ pruning_NN technique_NN that_WDT can_MD prune_VB off_RP more_JJR than_IN 99.9_CD %_NN of_IN the_DT calculations_NNS -LRB-_-LRB- c.f._NN Section_NN 5.1_CD -RRB-_-RRB- ._.
+Our_PRP$ work_NN may_MD also_RB be_VB seen_VBN as_IN a_DT form_NN of_IN a_DT supervised_JJ motif_NN discovery_NN algorithm_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2.1_CD Notation_NNP Table_NNP 1_CD summarizes_VBZ the_DT notation_NN in_IN the_DT paper_NN ;_: we_PRP expand_VBP on_IN the_DT definitions_NNS below_IN ._.
+Table_NNP 1_CD :_: Symbol_NN table_NN Symbol_NN Explanation_NN T_NN ,_, R_NN time_NN series_NN S_NN subsequence_NN m_NN ,_, |_CD T_NN |_JJ length_NN of_IN time_NN series_NN l_NN ,_,

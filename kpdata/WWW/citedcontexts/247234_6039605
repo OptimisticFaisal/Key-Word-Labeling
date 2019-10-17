@@ -1,0 +1,5 @@
+ge_NN ._.
+Both_DT algorithms_NNS are_VBP expensive_JJ because_IN of_IN the_DT number_NN of_IN web_NN pages_NNS involved_VBN in_IN the_DT computation_NN ._.
+In_IN January_NNP 2005_CD ,_, the_DT indexable_JJ Web_NN for_IN search_NN engines_NNS was_VBD estimated_VBN to_TO be_VB more_JJR than_IN 11.5_CD billion_CD pages_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT light_NN of_IN this_DT dramatic_JJ growth_NN of_IN the_DT world-wide_JJ web_NN ,_, it_PRP is_VBZ almost_RB infeasible_JJ to_TO compute_VB PageRank_NNP scores_NNS for_IN the_DT whole_JJ web_NN in_IN memory_NN ._.
+Efficient_JJ centralized_JJ computation_NN of_IN PageRank_NN algorithm_NN ha_NN

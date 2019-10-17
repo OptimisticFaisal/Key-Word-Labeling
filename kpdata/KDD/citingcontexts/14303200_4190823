@@ -1,0 +1,3 @@
+by_IN the_DT user_NN ,_, and_CC whose_WP$ semantics_NNS may_MD not_RB be_VB easy_JJ to_TO grasp_VB ._.
+Likewise_RB ,_, the_DT number_NN of_IN rules_NNS which_WDT obtain_VBP as_IN output_NN is_VBZ often_RB large_JJ ,_, and_CC most_JJS of_IN them_PRP are_VBP redundant_JJ and_CC non-interesting_JJ for_IN decision_NN making_NN -LRB-_-LRB- =_JJ -_: =_JJ García_NNP et_FW al._FW 2007_CD -_: =-]_CD ._.
+There_EX is_VBZ ,_, thus_RB ,_, a_DT clear_JJ need_NN to_TO design_VB and_CC implement_VB parameter-free_JJ data_NNS mining_NN algorithms_NNS addressed_VBD to_TO ``_`` non-experts_NNS ''_'' ,_, and_CC they_PRP must_MD stand_VB reasonably_RB well_RB a_DT comparison_NN with_IN other_JJ ``_`` expert_NN ''_'' -_: oriented_VBN

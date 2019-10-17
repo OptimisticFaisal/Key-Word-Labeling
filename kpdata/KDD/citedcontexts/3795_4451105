@@ -1,0 +1,5 @@
+ificant_JJ ._.
+We_PRP can_MD then_RB use_VB a_DT technique_NN that_WDT removes_VBZ those_DT redundant_JJ and_CC insignificant_JJ associations_NNS and_CC then_RB finds_VBZ a_DT special_JJ subset_NN of_IN the_DT unpruned_JJ associations_NNS to_TO form_VB a_DT summary_NN of_IN the_DT discovered_VBN rules_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Many_JJ discovered_VBN associations_NNS are_VBP redundant_JJ or_CC minor_JJ variations_NNS of_IN others_NNS ._.
+Thus_RB ,_, those_DT spurious_JJ and_CC insignificant_JJ rules_NNS should_MD be_VB removed_VBN ._.
+For_IN example_NN ,_, consider_VB the_DT following_JJ rules_NNS :_: R1_NN :_: EventTypeZdoc_NN

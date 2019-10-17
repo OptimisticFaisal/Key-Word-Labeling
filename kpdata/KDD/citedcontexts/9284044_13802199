@@ -1,0 +1,5 @@
+._.
+This_DT should_MD result_VB in_IN a_DT slight_JJ precision_NN decrease_NN which_WDT may_MD be_VB expected_VBN to_TO affect_VB all_DT recommenders_NNS evenly_RB ._.
+2.5_CD One-Plus-Random_NN methodology_NN A_NN more_RBR elaborate_JJ methodology_NN has_VBZ been_VBN recently_RB proposed_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- ._.
+For_IN each_DT user_NN ,_, a_DT set_NN of_IN highly_RB relevant_JJ items_NNS is_VBZ selected_VBN among_IN those_DT contained_VBN in_IN the_DT test_NN set_NN ,_, that_DT is_VBZ ,_, ._.
+Then_RB ,_, a_DT set_NN of_IN non-relevant_JJ items_NNS is_VBZ created_VBN by_IN randomly_RB selecting_VBG additional_JJ item_NN

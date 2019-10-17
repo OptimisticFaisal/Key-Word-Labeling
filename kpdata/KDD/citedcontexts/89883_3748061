@@ -1,0 +1,4 @@
+dologies_NNS -LRB-_-LRB- e.g._FW ,_, Rule_NNP learning_VBG like_IN -_: DNF_NN and_CC CNF_NN ,_, decision_NN tree_NN ,_, SVM_NN -RRB-_-RRB- and_CC used_VBN in_IN a_DT wide_JJ domains_NNS of_IN applications_NNS -LRB-_-LRB- e.g._FW ,_, automatic_JJ diagnosis_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, classifying_VBG Web_NN pages_NNS and_CC emails_NNS -LRB-_-LRB- 35_CD -RRB-_-RRB- ,_, mining_NN graphs_NNS =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+In_IN any_DT case_NN ,_, it_PRP is_VBZ possible_JJ to_TO transform_VB a_DT dataset_NN in_IN any_DT representation_NN to_TO a_DT binary_JJ feature_NN vector_NN representation_NN ._.
+For_IN our_PRP$ experiments_NNS ,_, we_PRP use_VBP the_DT SPECT_FW dataset_FW from_IN the_DT UCI_NN repository_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+The_DT pr_NN

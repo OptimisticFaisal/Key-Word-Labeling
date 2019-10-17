@@ -1,0 +1,6 @@
+g_NN is_VBZ M._NNP Boughanem_NNP et_FW al._FW -LRB-_-LRB- Eds_NNP ._. -RRB-_-RRB-
+:_: ECIR_NN 2009_CD ,_, LNCS_NN 5478_CD ,_, pp_NN ._.
+776_CD --_: 780_CD ,_, 2009_CD ._.
+c_NN ○_CD Springer-Verlag_NNP Berlin_NNP Heidelberg_NNP 2009Topic_NNP and_CC Trend_NNP Detection_NN in_IN Text_NN Collections_NNS 777_CD discarded_VBN ._.
+Topics_NNS over_IN Time_NN -LRB-_-LRB- TOT_NN -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ an_DT LDA-based_JJ generative_JJ process_NN that_IN models_NNS time_NN jointly_RB with_IN word_NN co-occurence_NN patterns_NNS for_IN topic_NN discovery_NN ._.
+Blei_NNP and_CC Lafferty_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- capture_NN topic_NN dynamics_NNS through_IN defining_VBG an_DT iterative_JJ process_NN tha_NN

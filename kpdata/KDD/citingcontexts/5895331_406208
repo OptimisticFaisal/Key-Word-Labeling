@@ -1,0 +1,4 @@
+restrictive_JJ collusion_NN model_NN ,_, C_NN =_JJ -LCB-_-LRB- -LCB-_-LRB- Pi_NN -RCB-_-RRB- |_FW Pi_FW ∈_NN P_NN -RCB-_-RRB- ._.
+The_DT input_NN of_IN i_FW ,_, xi_FW ,_, is_VBZ a_DT single_JJ bit_NN ,_, and_CC the_DT function_NN the_DT k-TTP_NN evaluates_VBZ is_VBZ the_DT majority_NN vote_NN among_IN the_DT participants_NNS of_IN a_DT provided_VBN set_NN V_NN ._.
+As_IN shown_VBN in_IN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, majority_NN computations_NNS can_MD be_VB used_VBN to_TO implement_VB a_DT distributed_VBN association_NN rule_NN mining_NN algorithm_NN ._.
+Hence_RB ,_, we_PRP describe_VBP a_DT kprivate_JJ majority_NN voting_NN algorithm_NN ,_, and_CC show_VB how_WRB it_PRP can_MD be_VB used_VBN to_TO implement_VB a_DT k_NN -_:

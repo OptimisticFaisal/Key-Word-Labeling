@@ -1,0 +1,5 @@
+e_LS use_NN cross-entropy_JJ for_IN variation_NN of_IN hyperedges_NNS ._.
+Generating_NNP a_DT solution_NN of_IN a_DT population_NN codewords_NNS based_VBN on_IN crossentropy_NN is_VBZ similar_JJ to_TO the_DT idea_NN of_IN building_VBG a_DT global_JJ predictive_JJ model_NN with_IN local_JJ patterns_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, each_DT local_JJ pattern_NN is_VBZ viewed_VBN as_IN a_DT constraint_NN on_IN an_DT a_DT high-order_JJ joint_JJ distribution_NN of_IN interest_NN ._.
+The_DT cross-entropy_NN is_VBZ used_VBN to_TO select_VB a_DT specific_JJ distribution_NN ._.
+Contrary_JJ to_TO this_DT ,_, we_PRP generate_VBP new_JJ

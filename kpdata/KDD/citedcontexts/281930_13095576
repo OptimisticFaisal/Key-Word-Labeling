@@ -1,0 +1,4 @@
+nd_NN application_NN dependent_JJ k_NN as_IN input_NN parameter_NN ._.
+It_PRP is_VBZ difficult_JJ to_TO predict_VB correct_JJ values_NNS for_IN n_NN and_CC k._VB The_DT problem_NN with_IN distance_NN based_JJ approach_NN is_VBZ its_PRP$ high_JJ computational_JJ complexity_NN ._.
+Bay_NN and_CC Schwabcher_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: present_JJ an_DT algorithm_NN which_WDT is_VBZ based_VBN on_IN the_DT nearest-loop_JJ algorithm_NN ,_, using_VBG randomization_NN and_CC pruning_NN rule_NN ,_, with_IN linear_JJ time_NN performance_NN ._.
+However_RB ,_, the_DT algorithm_NN depends_VBZ on_IN the_DT data_NNS ordering_VBG which_WDT can_MD le_FW

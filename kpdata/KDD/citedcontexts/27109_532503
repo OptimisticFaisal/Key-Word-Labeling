@@ -1,0 +1,3 @@
+raph_NN partitioning_NN has_VBZ many_JJ well-established_JJ theoretical_JJ results_NNS ,_, which_WDT makes_VBZ the_DT approach_NN very_RB attractive_JJ ._.
+Recent_JJ literature_NN includes_VBZ in_IN the_DT areas_NNS of_IN image_NN segmentation_NN -LRB-_-LRB- 2_CD ,_, 3_CD -RRB-_-RRB- and_CC document_NN clustering_NN =_JJ -_: =[_NN 4_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Although_IN graph_NN partition_NN problem_NN is_VBZ NPcomplete_NN ,_, which_WDT will_MD make_VB it_PRP computationally_RB unattractive_JJ ,_, recent_JJ results_NNS have_VBP shown_VBN that_IN graph_NN partition_NN can_MD be_VB efficiently_RB computed_VBN by_IN using_VBG spectral_JJ algorith_NN

@@ -1,0 +1,7 @@
+els_NNS with_IN an_DT Expectation-Maximization_NN algorithm_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+The_DT relational_JJ Markov_NNP model_NN -LRB-_-LRB- RMMs_NNS -RRB-_-RRB- makes_VBZ effective_JJ learning_NN possible_JJ in_IN domains_NNS of_IN a_DT very_RB large_JJ and_CC heterogeneous_JJ state_NN space_NN with_IN only_JJ sparse_JJ data_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+H._NNP Dai_NNP ,_, R._NNP Srikant_NNP ,_, and_CC C._NNP Zhang_NNP -LRB-_-LRB- Eds_NNP ._. -RRB-_-RRB-
+:_: PAKDD_NN 2004_CD ,_, LNAI_NN 3056_CD ,_, pp_NN ._.
+549_CD --_: 558_CD ,_, 2004_CD ._.
+©_NNP Springer-Verlag_NNP Berlin_NNP Heidelberg_NNP 2004s550_NNP Q._NNP Huang_NNP et_FW al._FW ._.
+In_IN this_DT paper_NN ,_, we_PRP present_VBP a_DT continuous-time_JJ Markov_NNP mod_NN

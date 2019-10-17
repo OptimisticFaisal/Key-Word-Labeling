@@ -1,0 +1,4 @@
+on_IN Association_NNP -RRB-_-RRB- ,_, which_WDT will_MD be_VB adapted_VBN in_IN our_PRP$ SPARC_NNP algorithm_NN ._.
+Other_JJ important_JJ association-based_JJ classification_NN algorithms_NNS include_VBP ADT_NN -LRB-_-LRB- Association_NN based_VBN Decision_NNP Tree_NNP -RRB-_-RRB- proposed_VBN by_IN K._NNP Wang_NNP et_FW al._FW in_IN =_JJ -_: =_JJ -LRB-_-LRB- WZH00_NN -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC CAEP_NN -LRB-_-LRB- Classification_NN by_IN Aggregating_VBG Emerging_JJ Patterns_NN -RRB-_-RRB- presented_VBN by_IN G._NNP Dong_NNP et_FW al._FW in_IN -LRB-_-LRB- DZWL99_NN -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- LHM98_NN -RRB-_-RRB- ,_, B._NNP Liu_NNP et_FW al._FW first_RB introduced_VBD the_DT CBA_NNP algorithm_NN ._.
+Basically_RB ,_, CBA_NNP is_VBZ a_DT two-step_JJ process_NN

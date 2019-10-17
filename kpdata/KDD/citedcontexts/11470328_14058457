@@ -1,0 +1,4 @@
+visit_NN and_CC check-in_NN at_IN places_NNS ._.
+Standard_JJ link_NN prediction_NN methods_NNS based_VBN on_IN social_JJ features_NNS are_VBP of_IN no_DT use_NN in_IN this_DT scenario_NN ,_, since_IN it_PRP is_VBZ impossible_JJ to_TO compute_VB prediction_NN features_NNS for_IN these_DT isolated_VBN users_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN some_DT sense_NN ,_, this_DT is_VBZ a_DT scenario_NN which_WDT represents_VBZ new_JJ users_NNS of_IN the_DT service_NN :_: they_PRP have_VBP signed_VBN up_RP ,_, they_PRP have_VBP checked-in_JJ in_IN some_DT places_NNS but_CC they_PRP are_VBP not_RB engaging_VBG with_IN other_JJ users_NNS ._.
+Thus_RB ,_, predicting_VBG the_DT

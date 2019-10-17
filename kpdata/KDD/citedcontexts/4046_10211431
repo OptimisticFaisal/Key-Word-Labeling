@@ -1,0 +1,4 @@
+e_LS it_PRP was_VBD shown_VBN that_IN probabilities_NNS estimated_VBN by_IN these_DT algorithms_NNS are_VBP usually_RB far_RB from_IN the_DT observed_VBN ,_, true_JJ probabilities_NNS ._.
+The_DT same_JJ methodology_NN was_VBD used_VBN to_TO show_VB that_IN SVM_NNP algorithms_NNS are_VBP poorly_RB calibrated_VBN -LRB-_-LRB- =_JJ -_: =_JJ Zadrozny_NNP and_CC Elkan_NNP ,_, 2002_CD -_: =-]_CD ,_, and_CC that_IN the_DT distortion_NN very_RB often_RB forms_VBZ a_DT sigmoid_JJ pattern_NN ._.
+Boosting-based_JJ algorithms_NNS were_VBD shown_VBN to_TO produce_VB functions_NNS that_WDT are_VBP poorly_RB calibrated_VBN in_IN -LRB-_-LRB- Niculescu-Mizil_NNP and_CC Caruana_NNP ,_, 2005_CD -RRB-_-RRB- ._.
+Although_IN the_DT

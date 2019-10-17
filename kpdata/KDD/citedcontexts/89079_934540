@@ -1,0 +1,3 @@
+irical_JJ knowledge_NN or_CC similar_JJ to_TO a_DT given_VBN ``_`` query_JJ sequence_NN ''_'' -LRB-_-LRB- 1_CD ,_, 15_CD ,_, 19_CD -RRB-_-RRB- --_: or_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- unsupervised_JJ --_: that_WDT is_VBZ finding_VBG recurrent_JJ patterns_NNS without_IN any_DT prior_JJ knowledge_NN about_IN the_DT regularity_NN of_IN the_DT data_NNS under_IN study_NN =_JJ -_: =[_NN 7_CD ,_, 13_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Lin_NNP et_FW al._FW -LRB-_-LRB- 22_CD -RRB-_-RRB- have_VBP introduced_VBN the_DT notion_NN of_IN ``_`` time-series_JJ motifs_NNS ''_'' considering_VBG the_DT unsupervised_JJ issue_NN of_IN finding_VBG previously_RB unknown_JJ ,_, frequently_RB occurring_VBG patterns_NNS in_IN time-series_NNS ._.
+These_DT specific_JJ patt_NN

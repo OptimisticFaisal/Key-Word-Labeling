@@ -1,0 +1,5 @@
+ob_NN holds_VBZ -LCB-_-LRB- y1_NN ,_, ..._: ,_, yn_NN -RCB-_-RRB- ._.
+In_IN this_DT case_NN ,_, the_DT join_VBP relationship_NN is_VBZ one-to-one_JJ and_CC is_VBZ implicit_JJ by_IN the_DT sequential_JJ ordering_VBG of_IN records_NNS ._.
+A_DT similar_JJ data_NN partition_NN based_VBN on_IN a_DT common_JJ key_JJ identifier_NN is_VBZ assumed_VBN in_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN real_JJ world_NN ,_, it_PRP is_VBZ odd_JJ that_IN the_DT data_NNS owned_VBN by_IN two_CD mutually_RB un-trusted_JJ parties_NNS are_VBP about_IN the_DT exactly_RB same_JJ set_NN of_IN entities_NNS ._.
+In_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, horizontally_RB partitioned_VBN data_NNS is_VBZ considered_VBN where_WRB each_DT party_NN posse_NN

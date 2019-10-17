@@ -1,0 +1,4 @@
+concepts_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+This_DT ``_`` human_JJ in_IN the_DT loop_NN ''_'' approach_NN differs_VBZ from_IN a_DT lot_NN of_IN research_NN in_IN graph_NN mining_NN that_WDT studies_VBZ how_WRB to_TO automatically_RB discover_VB clusters_NNS -LRB-_-LRB- or_CC groupings_NNS -RRB-_-RRB- in_IN graphs_NNS ,_, e.g._FW ,_, Graphcut_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, METIS_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Much_JJ work_NN has_VBZ been_VBN done_VBN on_IN developing_VBG methods_NNS to_TO compute_VB relevance_NN between_IN two_CD nodes_NNS in_IN a_DT network_NN ;_: many_JJ of_IN them_PRP belong_VBP to_TO the_DT class_NN of_IN spreading-activation_NN -LRB-_-LRB- 1_CD ,_, 7_CD ,_, 3_CD -RRB-_-RRB- ._.
+Used_VBN by_IN APOLO_NNP ,_, Belief_NNP Propagati_NNP

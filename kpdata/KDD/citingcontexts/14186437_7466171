@@ -1,0 +1,4 @@
+entiment_NN models_NNS in_IN different_JJ ways_NNS ,_, e.g._FW ,_, using_VBG supervision_NN from_IN sentiment_NN priors_NNS -LRB-_-LRB- 12_CD ,_, 9_CD -RRB-_-RRB- or_CC supervision_NN from_IN labeled_VBN sentences_NNS -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, Titov_NNP and_CC McDonald_NNP extended_VBD their_PRP$ multi-grain_JJ topic_NN model_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: to_TO discover_VB topics_NNS that_WDT are_VBP representative_JJ of_IN ratable_JJ aspects_NNS ._.
+Their_PRP$ regression_NN module_NN requires_VBZ ``_`` ground_JJ truth_NN ''_'' user_NN ratings_NNS on_IN the_DT pre-defined_JJ aspects_NNS ,_, which_WDT are_VBP not_RB always_RB available_JJ ._.
+In_IN contrast_NN ,_, th_DT

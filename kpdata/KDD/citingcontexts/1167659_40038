@@ -1,0 +1,6 @@
+network_NN data_NNS as_RB well_RB as_IN audit_NN logs_NNS ._.
+Network_NNP anomaly_RB detection_NN systems_NNS can_MD warn_VB of_IN attacks_NNS launched_VBN from_IN the_DT outside_NN at_IN an_DT earlier_JJR stage_NN ,_, before_IN the_DT attacks_NNS actually_RB reach_VBP the_DT host_NN ._.
+SNORT_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- and_CC BRO_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP simple_JJ rule-based_JJ systems_NNS ._.
+Rules_NNS can_MD be_VB hand-coded_JJ to_TO restrict_VB access_NN to_TO specific_JJ hosts_NNS and_CC services_NNS ._.
+But_CC manual_JJ updation_NN of_IN rules_NNS is_VBZ deemed_VBN impractical_JJ ._.
+Intrusion_NN detection_NN systems_NNS -LRB-_-LRB- IDSs_NNS -RRB-_-RRB- such_PDT a_DT

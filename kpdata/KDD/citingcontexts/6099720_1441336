@@ -1,0 +1,3 @@
+and_CC Foith_NNP -LRB-_-LRB- 16_CD -RRB-_-RRB- proposed_VBD a_DT method_NN for_IN constructing_VBG a_DT tree_NN from_IN a_DT one-dimensional_JJ time_NN series_NN ,_, essentially_RB by_IN introducing_VBG a_DT branchpoint_NN at_IN each_DT local_JJ minimum_NN and_CC a_DT leaf_NN at_IN each_DT local_JJ maximum_NN -LRB-_-LRB- see_VB also_RB =_JJ -_: =[_NN 58_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+In_IN the_DT context_NN of_IN the_DT applications_NNS here_RB ,_, this_DT approach_NN would_MD yield_VB trees_NNS of_IN enormous_JJ complexity_NN ,_, due_JJ to_TO the_DT ruggedness_NN of_IN the_DT underlying_VBG temporal_JJ data_NNS ,_, with_IN many_JJ local_JJ minima_NNS and_CC maxima_NNS ._.
+The_DT search_NN

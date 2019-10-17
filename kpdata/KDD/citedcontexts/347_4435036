@@ -1,0 +1,5 @@
+he_PRP Most_NNP Interesting_NNP Rules_NNP Lossless_NNP cover_NN ._.
+It_PRP is_VBZ well_RB known_VBN that_IN the_DT whole_JJ set_NN of_IN association_NN rules_NNS contains_VBZ a_DT lot_NN of_IN redundant_JJ rules_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+So_IN several_JJ approaches_NNS propose_VBP to_TO extract_VB a_DT cover_NN of_IN the_DT rules_NNS =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: like_IN the_DT informative_JJ rules_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Such_JJ a_DT rule_NN has_VBZ a_DT minimal_JJ antecedent_JJ and_CC a_DT maximal_JJ consequence_NN ._.
+They_PRP are_VBP lossless_JJ since_IN we_PRP can_MD regenerate_VB the_DT whole_JJ set_NN of_IN rules_NNS according_VBG to_TO both_CC minimal_JJ support_NN and_CC

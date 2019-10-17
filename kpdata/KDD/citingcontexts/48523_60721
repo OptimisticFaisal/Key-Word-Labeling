@@ -1,0 +1,7 @@
+of_IN ASSEMBLE_NNP across_IN di_FW #erent_FW classifier_NN methodologies_NNS ,_, we_PRP performed_VBD experiments_NNS using_VBG decision_NN trees_NNS and_CC neural_JJ networks_NNS ,_, methods_NNS that_WDT have_VBP proven_VBN very_RB e_SYM #ective_JJ in_IN previous_JJ experiments_NNS with_IN ensembles_NNS =_JJ -_: =[_NN 1_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Table_NNP 1_CD :_: Results_NNS for_IN ASSEMBLE_NNP ._.
+AdaBoost_NNP in_IN NIPS_NNP 2001_CD Semi-Supervised_NNP Competition_NNP ._.
+Acc_NNP is_VBZ the_DT test_NN set_NN accuracy_NN and_CC Impr_NN is_VBZ the_DT percentage_NN improvement_NN of_IN ASSEMBLE_NNP ._.
+AdaBoost_NNP over_IN AdaBoost_NNP ._.
+Data_NNP Dim_NNP ._.
+No_DT

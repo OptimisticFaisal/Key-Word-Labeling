@@ -1,0 +1,4 @@
+y._VB The_DT discovery_NN of_IN strong_JJ EPs_NNS -LRB-_-LRB- defined_VBN as_IN those_DT EPs_NNS all_DT of_IN whose_WP$ subsets_NNS are_VBP also_RB EPs_NNS -RRB-_-RRB- can_MD be_VB done_VBN in_IN a_DT way_NN similar_JJ to_TO Apriori_NNP ,_, by_IN using_VBG the_DT subset_NN closure_NN property_NN ._.
+Another_DT method_NN was_VBD introduced_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: for_IN discovering_VBG another_DT special_JJ type_NN of_IN EPs_NNS ,_, called_VBD jumping_VBG EPs_NNS ._.
+Jumping_VBG EPs_NNS are_VBP special_JJ EPs_NNS whose_WP$ supports_NNS increase_VBP abruptly_RB from_IN zero_CD support_NN in_IN one_CD dataset_NN to_TO non-zero_JJ support_NN in_IN another_DT ._.
+In_IN that_DT

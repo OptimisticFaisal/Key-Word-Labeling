@@ -1,0 +1,5 @@
+er_IN the_DT dataset_NN to_TO fill_VB in_IN the_DT probability_NN tables_NNS of_IN the_DT resulting_VBG network_NN ._.
+See_VB -LRB-_-LRB- 4_CD -RRB-_-RRB- for_IN further_JJ details_NNS ._.
+This_DT algorithm_NN is_VBZ somewhat_RB similar_JJ to_TO an_DT algorithm_NN previously_RB used_VBN by_IN Sahami_NNP for_IN classification_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT special_JJ case_NN where_WRB c_NN is_VBZ 1_CD ,_, this_DT algorithm_NN reduces_VBZ to_TO a_DT penalized_VBN version_NN of_IN Chow_NNP and_CC Liu_NNP 's_POS dependency-tree_JJ algorithm_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, and_CC is_VBZ provably_RB optimal_JJ ._.
+While_IN the_DT network_NN chosen_VBN by_IN this_DT greedy_JJ algo_NN

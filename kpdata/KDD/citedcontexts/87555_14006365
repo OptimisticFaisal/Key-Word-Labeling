@@ -1,0 +1,4 @@
+ost_NN of_IN predicting_VBG class_NN i_FW when_WRB the_DT true_JJ class_NN is_VBZ j._VBN From_IN the_DT previous_JJ formula_NN ,_, as_IN we_PRP will_MD see_VB ,_, we_PRP can_MD establish_VB a_DT direct_JJ threshold_NN without_IN having_VBG any_DT extra_JJ data_NNS at_IN hand_NN ._.
+In_IN fact_NN ,_, some_DT existing_VBG works_NNS -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP ,_, 1999_CD -_: =--RRB-_NN have_VBP used_VBN the_DT previous_JJ formula_NN to_TO establish_VB a_DT threshold_NN which_WDT generates_VBZ a_DT model_NN which_WDT is_VBZ cost_NN sensitive_JJ ._.
+One_CD of_IN the_DT most_RBS adequate_JJ ways_NNS to_TO establish_VB a_DT class_NN threshold_NN is_VBZ based_VBN on_IN ROC_NN analysis_NN ._.
+-LRB-_-LRB- Lachi_NN

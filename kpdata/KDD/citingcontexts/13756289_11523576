@@ -1,0 +1,4 @@
+aph-based_JJ semi-supervised_JJ learning_NN -LRB-_-LRB- 33,31,21,32_CD -RRB-_-RRB- ,_, whichusuallyassumeslabelsmoothness_NN over_IN the_DT graph_NN ._.
+These_DT types_NNS of_IN graph_NN regularization_NN methods_NNS have_VBP been_VBN successfully_RB applied_VBN in_IN many_JJ data_NNS mining_NN tasks_NNS =_JJ -_: =[_NN 17_CD ,_, 6_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, the_DT authors_NNS developed_VBD a_DT graphbased_JJ re-ranking_JJ model_NN by_IN regularizing_VBG the_DT smoothness_NN of_IN relevance_NN scores_NNS over_IN the_DT latent_JJ graph_NN ._.
+NetPLSA_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- and_CC LapPLSI_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- explored_VBD graph-based_JJ regularizers_NNS

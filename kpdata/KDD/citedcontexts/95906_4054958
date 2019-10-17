@@ -1,0 +1,4 @@
+to_TO use_VB loglinear_JJ analysis_NN -LRB-_-LRB- section_NN 3.2.3.2_CD -RRB-_-RRB- to_TO examine_VB this_DT ._.
+This_DT idea_NN of_IN using_VBG loglinear_JJ analysis_NN to_TO test_VB the_DT statistical_JJ significance_NN of_IN frequent_JJ itemsets_NNS was_VBD also_RB adopted_VBN by_IN DuMouchel_NN and_CC Pregibon_NN =_JJ -_: =[_NN 101_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Loglinear_JJ analysis_NN ,_, however_RB ,_, uses_VBZ contingency_NN tables_NNS to_TO calculate_VB the_DT multiway_JJ dependencies_NNS ,_, which_WDT are_VBP clearly_RB not_RB given_VBN by_IN the_DT association_NN rule_NN analysis_NN ._.
+Yet_RB ,_, any_DT multi-way_JJ contingency_NN table_NN for_IN a_DT

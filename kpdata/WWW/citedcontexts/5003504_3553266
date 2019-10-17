@@ -1,0 +1,4 @@
+interpolation_NN and_CC extrapolation_NN of_IN that_DT data_NNS ._.
+This_DT in_IN turn_NN allows_VBZ construction_NN of_IN an_DT equation_NN calculating_VBG the_DT maximum_NN population_NN size_NN supported_VBN by_IN an_DT LBS_NN middleware_JJ candidate_NN for_IN a_DT given_VBN application_NN =_JJ -_: =[_NN 8,7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP is_VBZ also_RB straightforward_JJ to_TO calculate_VB TPC-like_JJ composite_JJ performance_NN metrics_NNS such_JJ as_IN \_CD queries_NNS per_IN hour_NN ''_'' -LRB-_-LRB- Qph_NN -RRB-_-RRB- and_CC \_CD dollars_NNS per_IN Qph_NN ''_'' in_IN system_NN cost_NN based_VBN on_IN the_DT benchmark_JJ metrics_NNS ._.
+5_CD Conclusion_NN We_PRP h_NN

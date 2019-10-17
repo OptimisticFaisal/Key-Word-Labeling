@@ -1,0 +1,4 @@
+y_VB the_DT most_RBS probable_JJ links_NNS ._.
+Network_NNP structure_NN learning_NN has_VBZ been_VBN considered_VBN for_IN estimating_VBG the_DT dependency_NN structure_NN of_IN probabilistic_JJ graphical_JJ models_NNS -LRB-_-LRB- 9_CD ,_, 10_CD -RRB-_-RRB- and_CC for_IN estimating_VBG epidemiological_JJ networks_NNS =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN both_DT cases_NNS ,_, the_DT problem_NN is_VBZ formulated_VBN in_IN a_DT probabilistic_JJ framework_NN ._.
+However_RB ,_, since_IN the_DT problem_NN is_VBZ intractable_JJ ,_, heuristic_NN greedy_JJ hill-climbing_NN or_CC stochastic_JJ search_NN that_WDT offer_VBP no_DT performance_NN guaran_NN

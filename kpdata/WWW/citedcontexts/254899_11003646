@@ -1,0 +1,4 @@
+r_NN SQL_NN injections_NNS ,_, which_WDT remain_VBP the_DT main_JJ attack_NN vectors_NNS of_IN PHP_NNP applications_NNS ._.
+Wassermann_NNP and_CC Su_NNP -LRB-_-LRB- 14_CD -RRB-_-RRB- present_JJ work_NN on_IN statically_RB detecting_VBG SQL_NN injections_NNS using_VBG grammar-based_JJ specifications_NNS ._.
+Huang_NNP et_FW al._FW =_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: present_VB a_DT technique_NN to_TO conservatively_RB prevent_VB ,_, rather_RB than_IN detect_VB ,_, similar_JJ attacks_NNS ._.
+They_PRP use_VBP a_DT combination_NN of_IN code_NN instrumentation_NN ,_, to_TO automatically_RB secure_VB PHP_NNP scripts_NNS ,_, and_CC a_DT static_JJ taint_NN analysis_NN ,_, t_NN

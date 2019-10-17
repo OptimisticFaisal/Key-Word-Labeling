@@ -1,0 +1,4 @@
+at_IN aside_RB ,_, it_PRP becomes_VBZ clear_JJ that_IN collaborative_JJ filtering_VBG is_VBZ not_RB sufficient_JJ by_IN itself_PRP ._.
+There_EX exists_VBZ two_CD graph-based_JJ techniques_NNS that_WDT complement_VBP it_PRP :_: spreading_NN activation_NN -LRB-_-LRB- Huang_NNP et_FW al._FW ,_, 2004_CD -RRB-_-RRB- and_CC horting_NN -LRB-_-LRB- =_JJ -_: =_JJ Aggarwal_NNP et_FW al._FW ,_, 1999_CD -_: =--RRB-_NN ._.
+Both_DT reduce_VBP the_DT sparse_JJ rating_NN matrix_NN to_TO a_DT more_RBR dense_JJ matrix_NN by_IN crawling_VBG transitive_JJ relationships_NNS between_IN users_NNS '_POS ratings_NNS and_CC eliminating_VBG users_NNS and_CC items_NNS that_WDT fall_VBP outside_IN the_DT crawl_NN ._.
+While_IN these_DT tech_NN

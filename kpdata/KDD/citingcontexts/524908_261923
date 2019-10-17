@@ -1,0 +1,5 @@
+Aggarwal_NNP and_CC Yu_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- analyze_VB Euclidean_JJ outliers_NNS in_IN high-dimensional_JJ space_NN ,_, whereas_IN Lazarevic_NNP and_CC Kumar_NNP -LRB-_-LRB- 11_CD -RRB-_-RRB- approach_NN this_DT issue_NN with_IN a_DT technique_NN called_VBN ``_`` feature_NN bagging_NN ''_'' ._.
+Finally_RB ,_, Papadimitriou_NNP et_FW al._FW =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: discuss_VB outliers_NNS based_VBN on_IN ``_`` local_JJ correlation_NN integrals_NNS ''_'' ._.
+6_CD ._.
+EXPERIMENTS_NNS The_DT organization_NN of_IN this_DT section_NN is_VBZ as_IN follows_VBZ ._.
+First_RB ,_, we_PRP compare_VBP the_DT proposed_VBN algorithm_NN SNIF_NN against_IN BNL_NNP and_CC CELL_NNP ,_, deploying_VBG t_NN

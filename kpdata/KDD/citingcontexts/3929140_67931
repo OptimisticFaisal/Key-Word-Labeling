@@ -1,0 +1,4 @@
+kernel_NN ˜K_NN obtains_VBZ a_DT better_JJR alignment_NN than_IN the_DT prior_JJ kernel_NN matrix_NN K_NN to_TO the_DT ideal_JJ kernel_NN matrix_NN K_NNP ∗_NNP ,_, if_IN 0_CD ≤_FW β1_FW ≤_FW β2_FW ≤_NN 1_CD ._.
+Moreover_RB ,_, a_DT smaller_JJR β1_NN or_CC β2_NN would_MD induce_VB a_DT higher_JJR alignment_NN score_NN ._.
+PROOF_NN ._.
+In_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, it_PRP has_VBZ been_VBN proven_VBN that_IN a_DT kernel_NN with_IN the_DT following_JJ form_NN has_VBZ a_DT higher_JJR alignment_NN score_NN with_IN the_DT ideal_JJ kernel_NN K_NNP ∗_NNP than_IN the_DT original_JJ kernel_NN K_NN ,_, K_NN =_JJ K_NN +_CC γK_NN ∗_NN ,_, γ_NN -RRB-_-RRB- 0_CD ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- where_WRB we_PRP use_VBP K_NN to_TO distinguish_VB wi_NN

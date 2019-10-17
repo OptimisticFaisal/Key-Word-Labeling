@@ -1,0 +1,4 @@
+ast_NN 1_CD −_NN 1_CD N_NN and_CC thus_RB ,_, which_WDT implies_VBZ that_IN -LRB-_-LRB- 4_LS -RRB-_-RRB- holds_VBZ with_IN 18234_CD ._.
+SIMULATION_NN RESULTS_NNS To_TO demonstrate_VB the_DT effectiveness_NN of_IN the_DT SRM_NN in_IN dimensionality_NN reduction_NN ,_, we_PRP conduct_VBP the_DT experiments_NNS as_IN described_VBN in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Specifically_RB ,_, the_DT dataset_NN consists_VBZ of_IN N_NN =_JJ 1000_CD image_NN windows_NNS of_IN size_NN 50_CD ×_NN 50_CD -LRB-_-LRB- i.e._FW ,_, the_DT original_JJ dimensionality_NN d_NN =_JJ 2500_CD -RRB-_-RRB- ._.
+These_DT image_NN windows_NNS are_VBP chosen_VBN randomly_RB from_IN thirteen_CD 8-bit_JJ grayscale_NN natur_NN

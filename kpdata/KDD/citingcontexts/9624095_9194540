@@ -1,0 +1,4 @@
+the_DT query_NN suggestions_NNS to_TO the_DT searching_VBG history_NN of_IN the_DT user_NN ._.
+Cao_NNP et_FW al._FW -LRB-_-LRB- 6_CD -RRB-_-RRB- look_NN at_IN the_DT past_JJ sequence_NN of_IN queries_NNS issued_VBN by_IN the_DT user_NN while_IN making_VBG a_DT query_JJ recommendation_NN ._.
+In_IN a_DT similar_JJ work_NN Boldi_NNP et_FW al._FW =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: solve_VB an_DT ATSP_NN problem_NN to_TO obtain_VB the_DT sessionization_NN of_IN user_NN history_NN and_CC then_RB use_VB queries_NNS from_IN the_DT same_JJ session_NN to_TO bias_NN query_NN suggestions_NNS ._.
+Chirita_NNP et_FW al._FW -LRB-_-LRB- 9_CD -RRB-_-RRB- expand_VBP a_DT user_NN 's_POS query_NN with_IN terms_NNS collected_VBN

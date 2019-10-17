@@ -1,0 +1,4 @@
+ver_RB ,_, few_JJ consider_VBP the_DT problem_NN of_IN dynamic_JJ provisioning_VBG ._.
+For_IN example_NN ,_, -LRB-_-LRB- 27_CD -RRB-_-RRB- uses_VBZ optimization_NN to_TO determine_VB per-transaction_JJ service_NN times_NNS in_IN a_DT queuing_VBG network_NN when_WRB they_PRP are_VBP not_RB directly_RB measurable_JJ ,_, while_IN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ efficient_JJ search_NN algorithms_NNS and_CC uses_VBZ them_PRP to_TO determine_VB what_WP experiments_NNS to_TO conduct_VB to_TO choose_VB appropriate_JJ application_NN parameters_NNS ._.
+Our_PRP$ approach_NN could_MD also_RB utilize_VB such_JJ search-based_JJ methods_NNS ._.
+Fi_NN

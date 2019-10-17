@@ -1,0 +1,7 @@
+matrix_NN defined_VBN in_IN Equation_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+2_CD ._.
+Ĉ_NN and_CC ˜_NN C_NN are_VBP symmetric_JJ positive_JJ semidefinite_NN ._.
+1_CD The_DT form_NN of_IN normalization_NN is_VBZ commonly_RB used_VBN in_IN spectral_JJ dimension_NN reduction_NN and_CC clustering_NN ,_, e.g._FW Laplacian_JJ Eigenmap_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Basically_RB ,_, the_DT feature_NN vectors_NNS are_VBP adjusted_VBN according_VBG to_TO their_PRP$ nearby_JJ data_NNS density_NN before_IN normalization_NN ._.
+2_CD It_PRP can_MD be_VB verified_VBN that_IN if_IN ¯_CD x_NN ̸_NN =_JJ 0_CD ,_, the_DT proposition_NN still_RB can_MD hold_VB when_WRB γ_NN -LRB-_-LRB- 0_CD -RRB-_-RRB- =_JJ 0_CD ._.
+Also_RB if_IN f_SYM

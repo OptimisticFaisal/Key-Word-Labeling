@@ -1,0 +1,4 @@
+at_IN arrows_NNS denote_VBP equivalent_JJ key_JJ paths_NNS different_JJ ,_, but_CC somehow_RB related_JJ equivalence_JJ classes_NNS ._.
+Again_RB ,_, identification_NN of_IN such_JJ patterns_NNS can_MD be_VB supported_VBN by_IN ontologies_NNS ,_, statistics_NNS and_CC machinelearning_VBG methods_NNS =_JJ -_: =[_NN 10_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN complex_JJ patterns_NNS ,_, the_DT subsumption_NN relation_NN can_MD be_VB inferred_VBN from_IN atomic_JJ patterns_NNS by_IN means_NNS of_IN rules_NNS proved_VBN in_IN Theorem_NNP 1_CD ._.
+The_DT following_VBG inference_NN rules_NNS follow_VBP from_IN Theorem_NNP 1_CD and_CC are_VBP of_IN special_JJ impo_NN

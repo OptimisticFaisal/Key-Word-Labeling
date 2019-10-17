@@ -1,0 +1,3 @@
+ECHNIQUES_NNP Clustering_NNP -LRB-_-LRB- Jain_NNP and_CC Dubes_NNP 1988_CD ;_: Tan_NNP et_FW al._FW 2005_CD -RRB-_-RRB- is_VBZ used_VBN to_TO group_VB similar_JJ data_NNS instances_NNS into_IN clusters_NNS ._.
+Clustering_NN is_VBZ primarily_RB an_DT unsupervised_JJ technique_NN though_IN semi-supervised_JJ clustering_NN -LRB-_-LRB- =_JJ -_: =_JJ Basu_NNP et_FW al._FW 2004_CD -_: =-]_NN has_VBZ also_RB been_VBN explored_VBN lately_RB ._.
+Even_RB though_IN clustering_NN and_CC anomaly_NN detection_NN appear_VBP to_TO be_VB fundamentally_RB different_JJ from_IN each_DT other_JJ ,_, several_JJ clustering_NN based_VBN anomaly_RB detection_NN techniques_NNS have_VBP been_VBN deve_JJ

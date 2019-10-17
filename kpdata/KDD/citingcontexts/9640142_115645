@@ -1,0 +1,6 @@
+ssociations_NNS between_IN them_PRP ._.
+To_TO measure_VB risk_NN by_IN association_NN ,_, we_PRP then_RB use_VBP belief_NN propagation_NN for_IN passing_VBG risk_NN to_TO connected_JJ nodes_NNS ._.
+A_DT detailed_JJ tutorial_NN of_IN belief_NN propagation_NN may_MD be_VB found_VBN in_IN work_NN by_IN Yedidia_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Let_VB us_PRP summarize_VB the_DT procedure_NN ._.
+In_IN a_DT network_NN for_IN a_DT given_VBN task_NN ,_, the_DT true_JJ label_NN for_IN each_DT node_NN vi_LS is_VBZ unknown_JJ ._.
+We_PRP are_VBP ,_, however_RB ,_, given_VBN some_DT local_JJ observations_NNS about_IN the_DT node_NN ,_, which_WDT we_PRP use_VBP as_IN a_DT local_JJ esti_NN

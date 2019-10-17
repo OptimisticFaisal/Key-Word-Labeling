@@ -1,0 +1,4 @@
+t_NN applications_NNS ,_, including_VBG combining_VBG active_JJ learning_NN and_CC semi-supervised_JJ learning_NN under_IN boosting_VBG -LRB-_-LRB- COMB_NN -RRB-_-RRB- for_IN spoken_VBN language_NN understanding_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC adaptive_JJ resampling_VBG approach_NN for_IN image_NN identification_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, there_EX still_RB remains_VBZ some_DT problems_NNS for_IN this_DT type_NN of_IN methods_NNS ._.
+•_CD There_EX lacks_VBZ more_RBR theoretical_JJ analysis_NN for_IN these_DT boosting_VBG based_VBN active_JJ learning_NN methods_NNS ._.
+There_EX is_VBZ no_DT explicit_JJ consistent_JJ objecti_NNS

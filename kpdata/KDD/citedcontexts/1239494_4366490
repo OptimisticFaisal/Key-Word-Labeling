@@ -1,0 +1,7 @@
+atures_NNS ,_, 3_CD discrete_JJ features_NNS -LRB-_-LRB- 0_CD to_TO 255_CD -RRB-_-RRB- ,_, and_CC 44_CD binary_JJ features_NNS ._.
+The_DT distribution_NN of_IN the_DT seven_CD classes_NNS in_IN the_DT data_NNS set_NN is_VBZ shown_VBN in_IN Table_NNP 1_CD ._.
+In_IN our_PRP$ experiments_NNS ,_, we_PRP followed_VBD the_DT train\/test_JJS split_NN used_VBN in_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP randomly_RB chose_VBD 149,982_CD records_NNS for_IN the_DT training_NN set_NN ._.
+The_DT remaining_VBG 431,030_CD records_NNS were_VBD used_VBN for_IN the_DT testing_NN set_NN ._.
+The_DT class_NN distribution_NN in_IN the_DT training_NN set_NN and_CC testing_NN set_NN were_VBD similar_JJ ._.
+2.1_CD Basi_NNS

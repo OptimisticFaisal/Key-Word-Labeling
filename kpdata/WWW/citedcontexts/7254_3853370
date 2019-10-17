@@ -1,0 +1,4 @@
+in_IN annotations_NNS ._.
+Adding_VBG this_DT functionality_NN to_TO a_DT Web_NN client_NN that_WDT can_MD edit_VB and_CC publish_VB complex_JJ documents_NNS enhances_VBZ its_PRP$ collaborative_JJ features_NNS ._.
+It_PRP has_VBZ been_VBN done_VBN in_IN Amaya_NNP by_IN introducing_VBG support_NN for_IN Annotea_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT shared_JJ annotation_NN system_NN based_VBN on_IN a_DT general-purpose_JJ open_JJ RDF_NN infrastructure_NN ._.
+Actually_RB ,_, Annotea_NNP was_VBD first_RB developed_VBN in_IN Amaya_NNP ,_, taking_VBG advantage_NN of_IN its_PRP$ rich_JJ set_NN of_IN features_NNS ,_, before_IN being_VBG implemented_VBN

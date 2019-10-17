@@ -1,0 +1,4 @@
+Graph_NN partitioning_NN has_VBZ been_VBN well_RB studied_VBN in_IN the_DT literature_NN ._.
+The_DT top-performing_JJ methods_NNS include_VBP METIS_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- and_CC spectral_JJ clustering_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+However_RB ,_, these_DT as_RB well_RB as_IN many_JJ other_JJ graph_NN partitioning_VBG methods_NNS =_JJ -_: =[_NN 2_CD ,_, 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: work_NN with_IN the_DT connectivity_NN structure_NN of_IN the_DT graph_NN and_CC can_MD not_RB be_VB directly_RB applied_VBN to_TO attributed_VBN graphs_NNS ._.
+More_RBR importantly_RB ,_, they_PRP require_VBP the_DT number_NN of_IN partitions_NNS and_CC a_DT measure_NN of_IN imbalance_NN between_IN any_DT t_NN

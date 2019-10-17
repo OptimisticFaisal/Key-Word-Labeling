@@ -1,0 +1,4 @@
+d_NN protein-protein_JJ interactions_NNS ._.
+Various_JJ clustering_NN approaches_NNS ,_, including_VBG the_DT graph-based_JJ algorithms_NNS ,_, have_VBP been_VBN developed_VBN to_TO explore_VB interesting_JJ patterns_NNS in_IN those_DT data_NNS sets_NNS ._.
+For_IN example_NN ,_, Hartuv_NNP et_FW al._FW =_SYM -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD an_DT algorithm_NN ,_, HCS_NN ,_, to_TO find_VB groups_NNS of_IN genes_NNS that_WDT have_VBP similar_JJ expression_NN patterns_NNS ._.
+HCS_NN recursively_RB splits_VBZ the_DT weighted_JJ gene_NN graph_NN G_NN into_IN a_DT set_NN of_IN highly_RB connected_VBN components_NNS along_IN the_DT minimum_NN

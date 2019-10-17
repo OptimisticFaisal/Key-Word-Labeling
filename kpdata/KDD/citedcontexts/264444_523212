@@ -1,0 +1,5 @@
+higher_JJR w_NN s_NN ,_, the_DT less_JJR SA-generalization_NN is_VBZ possible_JJ such_JJ that_IN the_DT function_NN of_IN Figure_NNP 5_CD entails_VBZ smaller_JJR overhead_NN ._.
+6_CD ._.
+RELATED_NNS WORK_VBP Since_IN the_DT introduction_NN of_IN k-anonymity_NN in_IN -LRB-_-LRB- 13_CD ,_, 15_CD -RRB-_-RRB- ,_, numerous_JJ algorithms_NNS =_JJ -_: =[_NN 5_CD ,_, 7_CD ,_, 8_CD ,_, 9_CD ,_, 10_CD ,_, 13_CD ,_, 15_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN proposed_VBN to_TO obtain_VB kanonymous_JJ tables_NNS ._.
+These_DT algorithms_NNS can_MD be_VB divided_VBN into_IN two_CD categories_NNS ,_, according_VBG to_TO the_DT constraints_NNS imposed_VBN on_IN generalization_NN ._.
+The_DT first_JJ category_NN employs_VBZ ``_`` full-domain_JJ ge_NN

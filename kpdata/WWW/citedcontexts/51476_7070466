@@ -1,0 +1,5 @@
+updates_NNS among_IN the_DT members_NNS of_IN each_DT subsection_NN ._.
+Bawa_NNP et_NNP al_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- use_VBP term_NN vectors_NNS as_IN metadata_NN about_IN peers_NNS ,_, peers_NNS are_VBP clustered_VBN by_IN topic_NN and_CC queries_NNS are_VBP routed_VBN to_TO clusters_NNS and_CC within_IN clusters_NNS ._.
+Nejdl_NNP et_FW al_FW =_JJ -_: =[_NN 41_CD -RRB-_-RRB- -_: =_SYM -_: describe_VBP super-peers_NNS for_IN routing_VBG queries_NNS in_IN the_DT P2P_NN network_NN ._.
+Super-peers_NNS are_VBP repositories_NNS for_IN RDF_NNP descriptions_NNS of_IN peer_VB content_NN as_RB well_RB as_IN those_DT of_IN neighboring_JJ super-peers_NNS ._.
+Peers_NNS register_VBP with_IN a_DT chose_VBN

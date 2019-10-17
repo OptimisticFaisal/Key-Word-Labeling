@@ -1,0 +1,3 @@
+ches_NNS for_IN recommending_VBG paper_NN citations_NNS using_VBG a_DT variety_NN of_IN engineered_JJ features_NNS ._.
+Probabilistic_JJ models_NNS that_WDT incorporate_VBP textual_JJ content_NN and_CC other_JJ metadata_NNS have_VBP also_RB been_VBN investigated_VBN -LRB-_-LRB- Dietz_NNP et_FW al._FW ,_, 2007_CD ;_: =_JJ -_: =_JJ Nallapati_NNP et_FW al._FW ,_, 2008_CD -_: =--RRB-_NN ._.
+One_CD such_JJ model_NN is_VBZ the_DT Relational_NNP Topic_NNP Model_NNP -LRB-_-LRB- Chang_NNP &_CC Blei_NNP ,_, 2009_CD -RRB-_-RRB- ,_, which_WDT incorporates_VBZ text_NN by_IN defining_VBG the_DT probability_NN of_IN a_DT link_NN between_IN two_CD nodes_NNS to_TO be_VB proportional_JJ to_TO a_DT similarity_NN score_NN between_IN t_NN

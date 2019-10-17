@@ -1,0 +1,4 @@
+iments_NNS in_IN microarray_NN data_NNS ._.
+Additionally_RB ,_, it_PRP is_VBZ possible_JJ that_IN some_DT features_NNS may_MD not_RB be_VB relevant_JJ to_TO any_DT cluster_NN ._.
+Traditional_JJ clustering_NN algorithms_NNS like_IN k-means_NNS or_CC approaches_NNS such_JJ as_IN feature_NN clustering_NN -LRB-_-LRB- =_JJ -_: =_JJ Dhillon_NNP et_FW al._FW ,_, 2003_CD -_: =_SYM -_: a_LS -RRB-_-RRB- do_VBP not_RB allow_VB clusters_NNS existing_VBG in_IN different_JJ subsets_NNS of_IN the_DT feature_NN space_NN to_TO be_VB detected_VBN easily_RB ._.
+Coclustering_VBG simultaneously_RB clusters_NNS the_DT data_NNS along_IN multiple_JJ axes_NNS ,_, e.g._FW ,_, in_IN the_DT case_NN of_IN microarray_NN da_NN

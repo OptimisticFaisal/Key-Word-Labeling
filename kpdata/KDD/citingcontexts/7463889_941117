@@ -1,0 +1,4 @@
+tial_JJ -RRB-_-RRB- web_NN data_NNS ,_, to_TO actively_RB acquire_VB the_DT most_RBS useful_JJ new_JJ web_NN content_NN from_IN which_WDT to_TO learn_VB ._.
+This_DT problem_NN corresponds_VBZ to_TO the_DT Instance-Completion_NNP setting_NN of_IN the_DT active_JJ feature-value_JJ acquisition_NN -LRB-_-LRB- AFA_NN -RRB-_-RRB- task_NN =_JJ -_: =[_NN 11_CD ,_, 19_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN our_PRP$ specific_JJ instantiation_NN of_IN this_DT problem_NN ,_, we_PRP have_VBP complete_JJ firmographic_JJ information_NN for_IN each_DT training_NN instance_NN ,_, along_IN with_IN the_DT class_NN label_NN ._.
+However_RB ,_, we_PRP begin_VBP with_IN a_DT partial_JJ -LRB-_-LRB- possibly_RB empty_JJ -RRB-_-RRB- set_NN

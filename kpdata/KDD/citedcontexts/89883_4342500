@@ -1,0 +1,3 @@
+me_PRP cases_NNS ,_, the_DT trees_NNS are_VBP labeled_VBN ,_, and_CC strong_JJ conditions_NNS are_VBP imposed_VBN on_IN the_DT label_NN patterns_NNS -LRB-_-LRB- such_JJ as_IN nonrepeated_JJ labels_NNS in_IN tree_NN siblings_NNS -LRB-_-LRB- 19_CD -RRB-_-RRB- or_CC nonrepeated_JJ labels_NNS at_IN all_DT in_IN sequences_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Yan_NN and_CC Han_NN =_JJ -_: =[_NN 22,23_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD two_CD algorithms_NNS for_IN mining_NN frequent_JJ and_CC closed_JJ graphs_NNS ._.
+The_DT first_JJ one_CD is_VBZ called_VBN gSpan_NN -LRB-_-LRB- graph-based_JJ Substructure_NN pattern_NN mining_NN -RRB-_-RRB- and_CC discovers_VBZ frequent_JJ graph_NN substructures_NNS without_IN candidate_NN gen_NN

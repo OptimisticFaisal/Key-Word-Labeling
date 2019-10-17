@@ -1,0 +1,5 @@
+output_NN variable_NN is_VBZ predicted_VBN ._.
+In_IN classification_NN ,_, the_DT output_NN variable_NN is_VBZ binary_JJ ._.
+In_IN learning_VBG from_IN graph_NN data_NNS ,_, one_PRP can_MD rely_VB on_IN the_DT similarity_NN measures_NNS derived_VBN from_IN graph_NN alignment_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- or_CC graph_NN kernels_NNS =_JJ -_: =[_NN 10_CD ,_, 23_CD ,_, 6_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, one_CD drawback_NN is_VBZ that_IN the_DT features_NNS used_VBN in_IN learning_NN are_VBP implicitly_RB defined_VBN ,_, and_CC derived_VBN clusters_NNS are_VBP hard_JJ to_TO interpret_VB ._.
+Another_DT approach_NN is_VBZ based_VBN on_IN graph_NN mining_NN ,_, where_WRB a_DT set_NN of_IN small_JJ graphs_NNS

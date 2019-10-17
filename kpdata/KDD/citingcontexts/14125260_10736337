@@ -1,0 +1,4 @@
+etails_NNS on_IN the_DT foregoing_JJ algorithms_NNS ._.
+Generic_JJ algorithms_NNS are_VBP able_JJ to_TO handle_VB all_DT differentiable_JJ loss_NN functions_NNS that_WDT decompose_VBP into_IN summation_NN form_NN ._.
+A_DT simple_JJ approach_NN is_VBZ distributed_VBN gradient_NN descent_NN -LRB-_-LRB- DGD_NN -RRB-_-RRB- =_JJ -_: =[_NN 9_CD ,_, 11_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT distributes_VBZ gradient_NN computation_NN across_IN a_DT compute_VBP cluster_NN ,_, and_CC then_RB performs_VBZ centralized_JJ parameter_NN updates_NNS using_VBG ,_, for_IN example_NN ,_, quasi-Newton_JJ methods_NNS such_JJ as_IN L-BFGS-B_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Partitioned_VBN SGD_NN approa_NN

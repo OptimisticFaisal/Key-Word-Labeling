@@ -1,0 +1,7 @@
+in_IN our_PRP$ experiments_NNS ._.
+Prior_JJ work_NN ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- studied_VBD approximate_JJ frequent_JJ patterns_NNS on_IN noisy_JJ data_NNS ,_, while_IN -LRB-_-LRB- 19_CD -RRB-_-RRB- examined_VBD association_NN rules_NNS on_IN fuzzy_JJ sets_NNS ._.
+The_DT notion_NN of_IN a_DT ``_`` vague_JJ association_NN rule_NN ''_'' was_VBD developed_VBN in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT solutions_NNS were_VBD not_RB developed_VBN on_IN probabilistic_JJ data_NNS models_NNS ._.
+For_IN probabilistic_JJ databases_NNS ,_, -LRB-_-LRB- 9_CD ,_, 2_CD -RRB-_-RRB- derived_VBN patterns_NNS based_VBN on_IN their_PRP$ expected_VBN support_NN counts_NNS ._.
+-LRB-_-LRB- 31_CD ,_, 27_CD -RRB-_-RRB- found_VBD that_IN the_DT use_NN of_IN expected_VBN

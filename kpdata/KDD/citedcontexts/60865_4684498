@@ -1,0 +1,3 @@
+o_NN set_VBD these_DT parameters_NNS using_VBG Ranking_NNP SVM_NNP ._.
+3.2_CD Ranking_NN SVM_NN The_DT problem_NN of_IN ranking_NN ,_, in_IN which_WDT the_DT goal_NN is_VBZ to_TO learn_VB an_DT ordering_VBG over_IN objects_NNS ,_, has_VBZ gained_VBN much_JJ attention_NN in_IN recent_JJ machine_NN learning_NN research_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+Different_JJ from_IN the_DT standard_JJ machine_NN learning_VBG tasks_NNS of_IN classification_NN and_CC metric_JJ regression_NN ,_, Ranking_NN SVM_NN -LRB-_-LRB- a_DT generalization_NN of_IN ordinal_JJ regression_NN SVMs_NNS in_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- -RRB-_-RRB- is_VBZ to_TO predic_JJ variables_NNS of_IN ordinal_JJ sc_NN

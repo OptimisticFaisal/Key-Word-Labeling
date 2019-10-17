@@ -1,0 +1,4 @@
+lyspecifieswhichnodesinfluence_NN whichothernodes_NNS ._.
+Last_JJ ,_, wewilldefine_JJ P_NN -LRB-_-LRB- c_NN |_CD G_NN -RRB-_-RRB- ,_, whichistheprobabilitythat_JJ cascade_NN c_NN occurs_VBZ inanetwork_NN G._NNP Cascade_NNP transmission_NN model_NN ._.
+We_PRP build_VBP on_IN the_DT independent_JJ cascade_NN model_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT posits_VBZ that_IN an_DT infected_JJ node_NN infects_VBZ each_DT of_IN its_PRP$ neighbors_NNS independently_RB with_IN some_DT chosen_JJ probability_NN ._.
+As_IN in_IN this_DT model_NN the_DT time_NN is_VBZ modeled_VBN only_RB implicitly_RB through_IN the_DT epochs_NNS ofthepropagationwe_NN

@@ -1,0 +1,5 @@
+and_CC FSG_NN -LRB-_-LRB- 31_CD -RRB-_-RRB- ._.
+And_CC the_DT second_JJ category_NN takes_VBZ the_DT depthfirst_NN search_NN strategy_NN ,_, which_WDT includes_VBZ gSpan_NN -LRB-_-LRB- 32_CD -RRB-_-RRB- and_CC FFSM_NN -LRB-_-LRB- 33_CD -RRB-_-RRB- ._.
+The_DT third_JJ category_NN works_VBZ by_IN mining_VBG frequent_JJ trees_NNS ,_, for_IN which_WDT SPIN_NN -LRB-_-LRB- 34_CD -RRB-_-RRB- and_CC GASTON_NN =_JJ -_: =[_NN 35_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP the_DT representative_NN ._.
+There_EX are_VBP many_JJ other_JJ existing_VBG graph_NN mining_NN algorithms_NNS ,_, and_CC we_PRP refer_VBP to_TO -LRB-_-LRB- 36_CD -RRB-_-RRB- for_IN a_DT recent_JJ survey_NN ._.
+Frequent_JJ subgraph_JJ mining_NN with_IN approximate_JJ matching_NN capability_NN has_VBZ also_RB been_VBN in_IN

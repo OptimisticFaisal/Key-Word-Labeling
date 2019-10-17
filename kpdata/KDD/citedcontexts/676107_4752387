@@ -1,0 +1,4 @@
+eal-world_JJ problems_NNS ._.
+This_DT issue_NN has_VBZ been_VBN addressed_VBN in_IN the_DT LP_NN and_CC SVM_NN literature_NN over_IN the_DT years_NNS ,_, providing_VBG a_DT wide_JJ array_NN of_IN speed-up_JJ approaches_NNS for_IN optimization_NN problems_NNS in_IN the_DT context_NN of_IN classification_NN =_JJ -_: =[_NN 2_CD ,_, 11_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, the_DT nature_NN of_IN the_DT ranking_JJ problem_NN introduces_VBZ a_DT different_JJ challenge_NN making_VBG traditional_JJ constraint_NN reduction_NN methods_NNS ,_, typically_RB used_VBN in_IN classification_NN problems_NNS ,_, inappropriate_JJ ._.
+In_IN this_DT work_NN we_PRP

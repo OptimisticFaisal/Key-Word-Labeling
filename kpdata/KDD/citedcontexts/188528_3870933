@@ -1,0 +1,4 @@
+efficiently_RB if_IN OPTICS_NN is_VBZ used_VBN to_TO analyze_VB the_DT clustering_NN structure_NN ._.
+A_DT top-n_NN based_VBN local_JJ outliers_NNS mining_NN algorithm_NN which_WDT uses_VBZ the_DT distance_NN bound_VBD of_IN a_DT micro-cluster_NN to_TO estimate_NN density_NN was_VBD presented_VBN in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3_CD Preliminaries_NNPS Before_IN we_PRP introduce_VBP mining_NN algorithms_NNS for_IN the_DT spatial_JJ network_NN outliers_NNS ._.
+Let_VB us_PRP revisit_VB related_JJ concepts_NNS and_CC notions_NNS of_IN spatial_JJ networks_NNS and_CC outliers_NNS ,_, interesting_JJ readers_NNS can_MD see_VB the_DT

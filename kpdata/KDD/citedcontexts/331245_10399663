@@ -1,0 +1,5 @@
+gic_JJ programming_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+However_RB ,_, the_DT vast_JJ majority_NN transfers_VBZ techniques_NNS from_IN frequent_JJ item_NN set_NN mining_NN ._.
+Examples_NNS are_VBP MolFea_NNP -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, FSG_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, MoSS\/MoFa_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, gSpan_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, CloseGraph_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, FFSM_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, and_CC Gaston_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT related_JJ ,_, but_CC slightly_RB different_JJ approach_NN is_VBZ used_VBN in_IN Subdue_NNP -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+The_DT basic_JJ idea_NN is_VBZ to_TO grow_VB subgraphs_NNS into_IN the_DT graphs_NNS of_IN the_DT database_NN ,_, adding_VBG an_DT edge_NN and_CC maybe_RB a_DT node_NN in_IN each_DT step_NN ,_, counting_VBG the_DT numb_JJ

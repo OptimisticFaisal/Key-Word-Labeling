@@ -1,0 +1,5 @@
+._.
+Furthermore_RB ,_, in_IN our_PRP$ approach_NN ,_, the_DT weights_NNS of_IN the_DT different_JJ components_NNS can_MD be_VB adjusted_VBN based_VBN on_IN domain_NN knowledge_NN ._.
+Recently_RB ,_, Aggarwal_NNP has_VBZ argued_VBN for_IN user_NN interaction_NN when_WRB designing_VBG distance_NN functions_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: between_IN points_NNS ._.
+He_PRP presents_VBZ a_DT parametrized_JJ Minkowski_NNP distance_NN metric_NN and_CC a_DT parametrized_JJ cosine_NN similarity_NN metric_NN that_WDT can_MD be_VB tuned_VBN for_IN different_JJ domains_NNS ._.
+He_PRP also_RB proposes_VBZ a_DT framework_NN for_IN automaticall_NN

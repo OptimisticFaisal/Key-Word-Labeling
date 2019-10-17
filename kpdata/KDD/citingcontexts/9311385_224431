@@ -1,0 +1,4 @@
+lution_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP to_TO construct_VB a_DT subspace_NN kernel_NN using_VBG the_DT Hilbert-Schmidt_JJ Independence_NN Criterion_NN -LRB-_-LRB- HSIC_NN -RRB-_-RRB- recently_RB proposed_VBN for_IN measuring_VBG the_DT statistical_JJ dependence_NN of_IN random_JJ variables_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Under_IN HSIC_NNP ,_, an_DT optimal_JJ subspace_NN kernel_NN maximizes_VBZ its_PRP$ dependence_NN with_IN the_DT ideal_JJ kernel_NN constructed_VBN from_IN the_DT class_NN labels_NNS ._.
+We_PRP show_VBP that_IN a_DT globally_RB optimal_JJ subspace_NN kernel_NN can_MD be_VB obtained_VBN efficiently_RB b_NN

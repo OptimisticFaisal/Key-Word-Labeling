@@ -1,0 +1,5 @@
+t_NN from_IN the_DT classic_JJ NER_NN as_IN we_PRP are_VBP only_RB interested_JJ in_IN the_DT product_NN type_NN of_IN entities_NNS ._.
+-LRB-_-LRB- 21_CD -RRB-_-RRB- gave_VBD good_JJ surveys_NNS of_IN existing_VBG NER_NN and_CC general_JJ information_NN extraction_NN algorithms_NNS ._.
+Conditional_JJ random_JJ fields_NNS -LRB-_-LRB- CRF_NN -RRB-_-RRB- =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN shown_VBN to_TO perform_VB the_DT best_JJS so_RB far_RB ._.
+We_PRP will_MD show_VB that_IN the_DT proposed_VBN method_NN outperforms_VBZ CRF_NNP dramatically_RB for_IN our_PRP$ task_NN ._.
+Although_IN the_DT problem_NN of_IN assigning_VBG entities_NNS referred_VBN to_TO in_IN sentences_NNS is_VBZ imp_NN

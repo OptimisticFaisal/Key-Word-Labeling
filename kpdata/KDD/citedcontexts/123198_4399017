@@ -1,0 +1,4 @@
+taken_VBN together_RB ,_, are_VBP closely_RB associated_VBN with_IN an_DT individual_NN ._.
+The_DT closely_RB related_JJ problem_NN of_IN author_NN identification_NN has_VBZ also_RB been_VBN extensively_RB studied_VBN by_IN the_DT machine_NN learning_NN community_NN -LRB-_-LRB- see_VB ,_, for_IN example_NN ,_, =_JJ -_: =[_NN 25_CD ,_, 11_CD ,_, 24_CD ,_, 34_CD ,_, 20_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT techniques_NNS developed_VBD generally_RB rely_VB on_IN a_DT training_NN corpus_NN of_IN documents_NNS and_CC use_VB specific_JJ attributes_NNS like_IN selfcitations_NNS -LRB-_-LRB- 20_CD -RRB-_-RRB- or_CC writing_VBG style_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- to_TO identify_VB authors_NNS ._.
+Our_PRP$ work_NN can_MD be_VB viewed_VBN as_IN ex_FW

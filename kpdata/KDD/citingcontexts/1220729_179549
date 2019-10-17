@@ -1,0 +1,8 @@
+60_CD 80_CD 100_CD Figure_NNP 4_CD :_: Block_NN structure_NN of_IN real_JJ haplotype_NN data_NNS 1_CD ._.
+Daly_NNP et_FW al._FW :_: This_DT is_VBZ the_DT original_JJ algorithm_NN for_IN finding_VBG blocks_NNS used_VBN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+2_CD ._.
+htSNP_NN :_: This_DT is_VBZ a_DT dynamic-programming_JJ algorithm_NN proposed_VBN in_IN =_JJ -_: =[_NN 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT objective_JJ function_NN uses_VBZ the_DT htSNP_NN criterion_NN proposed_VBN in_IN -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+3_LS ._.
+DB_NN :_: This_DT is_VBZ again_RB a_DT dynamic-programming_JJ algorithm_NN ,_, though_IN for_IN a_DT different_JJ optimization_NN criterion_NN ._.
+The_DT algorithm_NN is_VBZ proposed_VBN in_IN -LRB-_-LRB- 3_CD

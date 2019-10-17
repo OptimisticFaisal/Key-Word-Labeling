@@ -1,0 +1,6 @@
+ognized_VBN that_IN the_DT space_NN requirements_NNS of_IN data_NNS cubes_NNS in_IN practice_NN are_VBP often_RB huge_JJ ._.
+Some_DT studies_NNS investigate_VBP partial_JJ materialization_NN of_IN data_NNS cubes_NNS ,_, e.g._FW ,_, -LRB-_-LRB- 11_CD ,_, 3_CD -RRB-_-RRB- ._.
+Example_NN methods_NNS to_TO compress_VB data_NNS cubes_NNS are_VBP =_JJ -_: =[_NN 19_CD ,_, 20_CD ,_, 12_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Moreover_RB ,_, -LRB-_-LRB- 1_CD ,_, 2_CD ,_, 21_CD -RRB-_-RRB- investigate_VBP various_JJ approximation_NN methods_NNS for_IN data_NNS cubes_NNS ._.
+There_EX are_VBP several_JJ major_JJ methods_NNS on_IN computing_NN -LRB-_-LRB- iceberg_NN -RRB-_-RRB- cubes_NNS ._.
+MultiWay_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- is_VBZ an_DT array-based_JJ top-down_JJ approach_NN to_TO comp_VB

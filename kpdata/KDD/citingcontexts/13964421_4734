@@ -1,0 +1,4 @@
+abels_NNS assigned_VBN by_IN the_DT clustering_NN algorithms_NNS as_IN :_: ∑_CD n_NN n_NN i_FW =_JJ 1_CD Acc_NN =_JJ 1_CD δ_NN -LRB-_-LRB- yi_NN ,_, map_NN -LRB-_-LRB- ci_NN -RRB-_-RRB- -RRB-_-RRB- ,_, where_WRB ,_, map_NN -LRB-_-LRB- ·_NN -RRB-_-RRB- is_VBZ a_DT function_NN that_WDT maps_VBZ each_DT cluster_NN index_NN to_TO a_DT class_NN label_NN ,_, which_WDT can_MD be_VB found_VBN by_IN the_DT Hungarian_JJ algorithm_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+ci_NN and_CC yi_NN are_VBP the_DT cluster_NN index_NN of_IN xi_FW and_CC the_DT true_JJ class_NN label_NN ._.
+δ_NN -LRB-_-LRB- a_DT ,_, b_NN -RRB-_-RRB- is_VBZ a_DT function_NN that_WDT equals_VBZ 1_CD when_WRB a_DT equals_VBZ b_NN ,_, and0otherwise_NN ._.
+It_PRP is_VBZ clear_JJ that_IN clustering_NN accuracy_NN discovers_VBZ the_DT one-to-one_JJ relat_NN

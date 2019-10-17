@@ -1,0 +1,4 @@
+how_WRB big_JJ the_DT difference_NN is_VBZ between_IN two_CD distributions_NNS ._.
+We_PRP require_VBP the_DT minimum_JJ difference_NN in_IN support_NN to_TO be_VB greater_JJR than_IN ffi_NN ._.
+STUCCO_NN finds_VBZ these_DT contrast_NN sets_NNS using_VBG search_NN ._.
+It_PRP uses_VBZ a_DT set_VBN enumeration_NN tree_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: to_TO organize_VB the_DT search_NN and_CC it_PRP uses_VBZ many_JJ of_IN the_DT techniques_NNS in_IN -LRB-_-LRB- 6_CD ,_, 19_CD -RRB-_-RRB- such_JJ as_IN dynamic_JJ ordering_VBG of_IN search_NN operators_NNS ,_, candidate_NN groups_NNS and_CC support_NN bounds_NNS in_IN conjunction_NN with_IN pruning_NN rules_NNS geared_VBN for_IN fin_NN

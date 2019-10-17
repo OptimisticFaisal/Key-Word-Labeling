@@ -1,0 +1,3 @@
+n_NN both_CC supervised_JJ and_CC unsupervised_JJ learning_NN ._.
+Supervised_VBN learning_NN methods_NNS typically_RB build_VBP a_DT prediction_NN model_NN for_IN rare_JJ events_NNS based_VBN on_IN labeled_JJ data_NNS -LRB-_-LRB- the_DT training_NN set_NN -RRB-_-RRB- ,_, and_CC use_VB it_PRP to_TO classify_VB each_DT event_NN =_JJ -_: =[_NN 11_CD ,_, 16_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT major_JJ drawbacks_NNS of_IN supervised_JJ data_NNS mining_NN techniques_NNS include_VBP -LRB-_-LRB- 1_LS -RRB-_-RRB- necessity_NN to_TO have_VB labeled_VBN data_NNS ,_, which_WDT can_MD be_VB extremely_RB time_NN consuming_VBG for_IN real_JJ life_NN applications_NNS ,_, and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- inability_NN to_TO detect_VB new_JJ

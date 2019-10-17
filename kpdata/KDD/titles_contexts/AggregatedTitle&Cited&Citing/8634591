@@ -1,0 +1,4 @@
+PROXIMUS_NN :_: a_DT framework_NN for_IN analyzing_VBG very_RB high_JJ dimensional_JJ discrete-attributed_JJ datasets_NNS
+sub-sampling_NN and_CC compression_NN for_IN reducing_VBG the_DT volume_NN of_IN data_NNS these_DT algorithms_NNS must_MD examine_VB ._.
+While_IN serial_JJ techniques_NNS for_IN sub-sampling_NN and_CC compression_NN have_VBP been_VBN developed_VBN and_CC applied_VBN with_IN some_DT success_NN =_JJ -_: =[_NN 15_CD ,_, 24_CD ,_, 32_CD ,_, 36_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT variety_NN of_IN application_NN characteristics_NNS necessitate_VBP the_DT development_NN of_IN corresponding_VBG distributed_VBN formulations_NNS ._.
+These_DT include_VBP :_: •_NNP Data_NNP volume_NN :_: Datasets_NNS often_RB reside_VBP at_IN geographically_RB distributed_VBN loca_NN

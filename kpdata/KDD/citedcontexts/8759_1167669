@@ -1,0 +1,6 @@
+10K_CD Outlying_JJ cluster_NN ,_, other_JJ 5858_CD 3_CD 98_CD 2_CD 2K_NN some_DT scattered_JJ ._.
+Two_CD clusters_NNS ._.
+ftp_NN 4091_CD 3_CD 316_CD 8_CD 1K_NN Scattered_VBN and_CC cluster_NN ._.
+outlying_JJ Table_NNP 1_CD ._.
+Statistical_JJ -LRB-_-LRB- 15_CD -RRB-_-RRB- and_CC data_NN mining_NN outlier_NN detection_NN test_NN datasets_VBZ =_JJ -_: =[_NN 2_CD ,_, 18_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Number_NN of_IN records_NNS =_JJ n_NN ,_, dimensions_NNS =_JJ k_NN ,_, outliers_VBZ =_JJ o._NN We_PRP can_MD observe_VB that_IN outliers_NNS from_IN the_DT statistical_JJ datasets_NNS arise_VBP from_IN measurement_NN errors_NNS or_CC data-entry_JJ errors_NNS ,_, while_IN the_DT outliers_NNS in_IN the_DT selected_VBN

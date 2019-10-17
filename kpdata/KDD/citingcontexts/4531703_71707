@@ -1,0 +1,4 @@
+ensitive_JJ learning_NN scheme_NN which_WDT takes_VBZ the_DT cost_NN matrix_NN into_IN consideration_NN during_IN model_NN building_NN and_CC generates_VBZ a_DT model_NN that_WDT has_VBZ the_DT lowest_JJS cost_NN ._.
+The_DT properties_NNS of_IN a_DT cost_NN matrix_NN had_VBD been_VBN studied_VBN by_IN Elkan_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Margineantu_NNP and_CC Dietterich_NNP -LRB-_-LRB- 24_CD -RRB-_-RRB- examined_VBD various_JJ methods_NNS for_IN incorporating_VBG cost_NN information_NN into_IN the_DT C4_NN .5_FW learningsalgorithm_FW ._.
+Other_JJ cost-sensitive_JJ learning_NN methods_NNS that_WDT are_VBP algorithm-independent_JJ inc_NN

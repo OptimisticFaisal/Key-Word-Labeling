@@ -1,0 +1,6 @@
+-_: tree_NN has_VBZ been_VBN the_DT standard_JJ approach_NN for_IN the_DT indexing_NN ._.
+Techniques_NNS that_WDT have_VBP been_VBN used_VBN for_IN dimensionality_NN reduction_NN include_VBP ,_, among_IN others_NNS ,_, DFT_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- DWT_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- SVD_NN -LRB-_-LRB- 6_CD ,_, 7_CD -RRB-_-RRB- ,_, and_CC PAA_NN -LRB-_-LRB- 8_CD ,_, 9_CD -RRB-_-RRB- ._.
+Keogh_NNP and_CC Kasetty_NNP =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: presented_VBD a_DT comprehensive_JJ overview_NN of_IN the_DT problems_NNS with_IN existing_VBG solutions_NNS ._.
+First_RB ,_, the_DT indexing_NN approaches_NNS do_VBP not_RB scale_VB ._.
+It_PRP is_VBZ intended_VBN they_PRP reside_VBP in_IN main_JJ memory_NN ._.
+They_PRP do_VBP not_RB perform_VB well_RB as_IN externa_NN

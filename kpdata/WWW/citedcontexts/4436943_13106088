@@ -1,0 +1,4 @@
+ich_NN crawls_VBZ only_RB a_DT subset_NN of_IN the_DT Web_NN pertaining_VBG to_TO a_DT specific_JJ topic_NN ._.
+One_CD general_JJ approach_NN is_VBZ to_TO prioritize_VB the_DT pages_NNS to_TO be_VB crawled_VBN using_VBG link-based_JJ or_CC content_JJ similarity-based_JJ page_NN importance_NN measures_VBZ =_JJ -_: =[_NN 2_CD ,_, 10_CD ,_, 15_CD ,_, 29_CD ,_, 42_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Further_JJ improvements_NNS include_VBP reinforcement_NN crawling_VBG -LRB-_-LRB- 33_CD -RRB-_-RRB- and_CC context_NN graph-based_JJ crawling_NN -LRB-_-LRB- 17_CD ,_, 25_CD -RRB-_-RRB- ._.
+Our_PRP$ work_NN differs_VBZ from_IN focused_JJ crawling_NN in_IN that_IN we_PRP need_VBP to_TO crawl_VB all_DT useful_JJ information_NN in_IN social_JJ w_NN

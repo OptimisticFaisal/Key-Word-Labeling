@@ -1,0 +1,4 @@
+estimated_VBN by_IN finite_JJ difference_NN methods_NNS during_IN the_DT process_NN of_IN solving_VBG the_DT original_JJ DAEs_NNS and_CC derived_VBN sensitivity_NN equations_NNS ._.
+Software_NNP such_JJ as_IN DASPK_NN -LRB-_-LRB- in_IN Fortran_NNP -RRB-_-RRB- -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC CVODES_NN -LRB-_-LRB- which_WDT comprises_VBZ the_DT CVODE_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, KINSOL_NN ,_, and_CC IDE_NN software_NN components_NNS in_IN C_NN -RRB-_-RRB- have_VBP in-built_JJ capabilities_NNS to_TO perform_VB sensitivity_NN analysis_NN of_IN DAEs_NNS ._.
+4_LS ._.
+USING_NNP SYSTEMATIC_NNP PROBING_NNP TO_TO IDENTIFY_VB CRNS_NNS Referring_VBG back_RB to_TO the_DT experimental_JJ context_NN

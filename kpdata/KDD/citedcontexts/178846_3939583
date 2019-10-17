@@ -1,0 +1,6 @@
+edundant_NN ._.
+To_TO reduce_VB the_DT number_NN of_IN frequent_JJ patterns_NNS ,_, frequent_JJ closed_JJ pattern_NN -LRB-_-LRB- FCP_NN -RRB-_-RRB- mining_NN algorithms_NNS have_VBP been_VBN proposed_VBN ._.
+A-close_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- uses_VBZ a_DT breadth-first_JJ search_NN to_TO find_VB FCPs_NNS ._.
+CLOSET_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- and_CC CLOSET_NN +_CC =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: adopt_VB a_DT depth-first_NN ,_, feature_NN enumeration_NN strategy_NN ._.
+CLOSET_NN uses_VBZ a_DT frequent_JJ pattern_NN tree_NN for_IN a_DT compressed_VBN representation_NN of_IN the_DT dataset_NN ._.
+CLOSET_NN +_CC ,_, an_DT enhanced_VBN version_NN of_IN CLOSET_NN ,_, uses_VBZ a_DT hybrid_NN tree-proje_NN

@@ -1,0 +1,4 @@
+proach_VB where_WRB the_DT similarity_NN metric_NN is_VBZ learned_VBN ,_, so_IN that_IN tokens_NNS like_IN these_DT get_VBP a_DT low_JJ similarity_NN with_IN the_DT dictionary_NN ._.
+We_PRP contemplate_VBP using_VBG adaptive_JJ similarity_NN measures_NNS ,_, based_VBN on_IN the_DT ideas_NNS introduced_VBN in_IN -LRB-_-LRB- =_JJ -_: =_JJ Bilenko_NNP &_CC Mooney_NNP ,_, 2003_CD -_: =--RRB-_NN ._.
+One_CD issue_NN that_WDT needs_VBZ to_TO be_VB addressed_VBN is_VBZ the_DT lack_NN of_IN ``_`` well_RB defined_VBN ''_'' training_NN examples_NNS ._.
+In_IN -LRB-_-LRB- Bilenko_NNP &_CC Mooney_NNP ,_, 2003_CD -RRB-_-RRB- ,_, the_DT authors_NNS show_VBP how_WRB similarity_NN metrics_NNS can_MD be_VB learned_VBN ,_, assuming_VBG a_DT training_NN set_NN co_NN

@@ -1,0 +1,4 @@
+llected_VBN in_IN two_CD ways_NNS ._.
+One_CD approach_NN relies_VBZ on_IN actively_RB soliciting_VBG training_NN data_NNS by_IN recording_VBG user_NN queries_NNS and_CC then_RB asking_VBG users_NNS to_TO explicitly_RB provide_VB relevance_NN judgments_NNS on_IN retrieved_VBN documents_NNS -LRB-_-LRB- such_JJ as_IN =_JJ -_: =[_NN 7_CD ,_, 13_CD ,_, 22_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Few_JJ users_NNS are_VBP willing_JJ to_TO do_VB this_DT ,_, making_VBG significant_JJ amounts_NNS of_IN such_JJ data_NNS difficult_JJ to_TO obtain_VB ._.
+An_DT alternative_JJ approach_NN is_VBZ to_TO extract_VB implicit_JJ relevance_NN feedback_NN from_IN search_NN engine_NN log_NN files_NNS -LRB-_-LRB- such_PDT a_DT

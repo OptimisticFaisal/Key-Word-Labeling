@@ -1,0 +1,4 @@
+ng_NN rate_NN of_IN 0.15_CD and_CC a_DT momentum_NN value_NN of_IN 0.90_CD ._.
+The_DT datasets_NNS for_IN the_DT experiments_NNS are_VBP breast-cancer-wisconsin_JJ ,_, pima-indiansdiabetes_NNS ,_, and_CC letter-recognition_NN drawn_VBN from_IN the_DT UCI_NNP Machine_NNP Learning_NNP repository_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT number_NN of_IN units_NNS in_IN the_DT hidden_JJ layer_NN for_IN the_DT datasets_NNS was_VBD 5_CD for_IN the_DT breast-cancer_NN and_CC diabetes_NN datasets_NNS and_CC 40_CD in_IN the_DT letter-recognition_NN dataset_NN ._.
+The_DT number_NN of_IN training_NN epochs_NNS was_VBD set_VBN to_TO 20_CD for_IN b_NN

@@ -1,0 +1,4 @@
+and_CC text_NN information_NN retrieval_NN systems_NNS are_VBP based_VBN on_IN inverted_JJ indexes_NNS ,_, and_CC substantial_JJ efforts_NNS have_VBP been_VBN invested_VBN in_IN optimizing_VBG the_DT construction_NN ,_, size_NN ,_, and_CC access_NN speed_NN of_IN these_DT structures_NNS ;_: see_VB ,_, e.g._FW ,_, =_JJ -_: =[_NN 28_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT inverted_JJ index_NN contains_VBZ one_CD inverted_JJ list_NN for_IN each_DT distinct_JJ term_NN -LRB-_-LRB- word_NN -RRB-_-RRB- in_IN the_DT document_NN collection_NN ._.
+Each_DT list_NN consists_VBZ of_IN postings_NNS describing_VBG occurrences_NNS of_IN the_DT term_NN in_IN the_DT collection_NN ._.
+We_PRP assume_VBP

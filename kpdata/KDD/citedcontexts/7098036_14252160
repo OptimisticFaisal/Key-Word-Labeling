@@ -1,0 +1,4 @@
+billions_NNS of_IN nodes_NNS ._.
+Recent_JJ research_NN has_VBZ shown_VBN that_IN out-of-core_JJ processing_NN techniques_NNS ,_, which_WDT make_VBP use_NN of_IN disk-resident_JJ data_NNS structures_NNS ,_, can_MD handle_VB such_JJ large_JJ datasets_NNS in_IN principle_NN ._.
+For_IN example_NN ,_, Buehrer_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ an_DT approach_NN that_WDT uses_VBZ approximate_JJ hash_JJ sorting_NN to_TO initially_RB partition_NN the_DT database_NN ,_, and_CC builds_VBZ the_DT complete_JJ FPtree_NN piece_NN by_IN piece_NN from_IN these_DT partitions_NNS ._.
+However_RB ,_, due_JJ to_TO expensive_JJ disk_NN access_NN

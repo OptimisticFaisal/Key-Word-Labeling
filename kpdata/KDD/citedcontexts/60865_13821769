@@ -1,0 +1,5 @@
+ing_NN parameters_NNS K_NN =_JJ 5_CD ,_, σi_NN =_JJ ∞_NN for_IN all_DT i_FW ,_, yielding_VBG ˆqij_NN =_JJ 0.2_CD for_IN K_NN neighbors_NNS or_CC 0_CD otherwise_RB ._.
+The_DT effect_NN of_IN number_NN of_IN number_NN of_IN neighbors_NNS ,_, K_NN ,_, will_MD be_VB analyzed_VBN in_IN section_NN 6.3.3_CD ._.
+RankBoost_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- and_CC Ranking_NN SVM_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP two_CD commonly_RB used_VBN learning_NN to_TO rank_VB algorithms_NNS ._.
+Semi-supervised_JJ RankBoost_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC Transductive_JJ SVM_NN -LRB-_-LRB- TSVM_NN -RRB-_-RRB- -LRB-_-LRB- 18_CD -RRB-_-RRB- are_VBP semisupervised_JJ variations_NNS of_IN these_DT algorithms_NNS ._.
+TSVM_NN is_VBZ really_RB a_DT classification_NN al_FW

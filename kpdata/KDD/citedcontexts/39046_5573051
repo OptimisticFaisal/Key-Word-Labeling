@@ -1,0 +1,4 @@
+al_FW approaches_NNS at_IN low_JJ thresholds_NNS of_IN similarity_NN ._.
+The_DT combined_JJ approach_NN achieved_VBD an_DT F-measure_NN of_IN more_JJR than_IN 0.9_CD at_IN a_DT threshold_NN of_IN 0.6_CD compared_VBN with_IN 0.8_CD for_IN the_DT individual_JJ approaches_NNS ._.
+Beeferman_NNP and_CC Berger_NNP =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: use_VB a_DT criterion_NN similar_JJ to_TO the_DT feedback-based_JJ approach_NN in_IN an_DT iterative_JJ ,_, agglomerative_JJ clustering_NN of_IN queries_NNS ._.
+Fu_FW et_FW al._FW -LRB-_-LRB- 8_CD -RRB-_-RRB- presented_VBD a_DT comparison_NN of_IN the_DT content-based_JJ approach_NN ,_, the_DT results-based_JJ appr_NN

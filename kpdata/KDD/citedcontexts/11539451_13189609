@@ -1,0 +1,6 @@
+cency_NN queries_NNS ._.
+Aggarwal_NNP et_FW al_FW -LRB-_-LRB- 5_CD -RRB-_-RRB- proposed_VBN using_VBG edge_NN sampling_NN to_TO handle_VB graph_NN connectivity_NN queries_NNS ._.
+Sarkar_NNP et_NNP al_NNP -LRB-_-LRB- 32_CD -RRB-_-RRB- explored_VBD the_DT clustering_NN properties_NNS to_TO proximity_NN queries_NNS on_IN graphs_NNS ._.
+Maserra_FW et_FW al_FW =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT Eulerian_JJ data_NN structure_NN for_IN neighborhood_NN queries_NNS ._.
+Despite_IN of_IN their_PRP$ success_NN ,_, there_EX are_VBP two_CD major_JJ limitations_NNS of_IN these_DT work_NN ._.
+First_RB ,_, all_PDT the_DT indexing_NN techniques_NNS are_VBP designed_VBN for_IN one_CD particula_NN

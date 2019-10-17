@@ -1,0 +1,4 @@
+n_NN words_NNS ,_, the_DT probability_NN that_IN an_DT example_NN x_NN appears_VBZ in_IN the_DT labeled_JJ set_NN is_VBZ zero_CD if_IN y_NN =_JJ 0_CD ._.
+There_EX is_VBZ a_DT subtle_JJ but_CC important_JJ difference_NN between_IN the_DT scenario_NN considered_VBN here_RB ,_, and_CC the_DT scenario_NN considered_VBN in_IN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT scenario_NN here_RB is_VBZ that_IN the_DT training_NN data_NNS are_VBP drawn_VBN randomly_RB from_IN p_NN -LRB-_-LRB- x_NN ,_, y_NN ,_, s_NNS -RRB-_-RRB- ,_, but_CC for_IN each_DT tuple_FW 〈_FW x_NN ,_, y_NN ,_, s_NN 〉_NN that_WDT is_VBZ drawn_VBN ,_, only_RB 〈_CD x_NN ,_, s_NN 〉_NN is_VBZ recorded_VBN ._.
+The_DT scenario_NN of_IN -LRB-_-LRB- 21_CD -RRB-_-RRB- is_VBZ that_IN two_CD training_NN sets_NNS ar_IN

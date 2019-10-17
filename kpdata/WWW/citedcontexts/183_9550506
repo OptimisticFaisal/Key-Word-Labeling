@@ -1,0 +1,3 @@
+s._VB We_PRP discuss_VBP the_DT strengths_NNS and_CC limitations_NNS of_IN existing_VBG reputation_NN systems_NNS in_IN the_DT context_NN of_IN vote_NN aggregation_NN and_CC how_WRB SumUp_NN builds_VBZ upon_IN ideas_NNS from_IN prior_JJ work_NN ._.
+Feedback_NN based_VBD reputations_NNS In_IN EigenTrust_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Credence_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- ,_, each_DT user_NN independently_RB computes_VBZ personalized_JJ reputation_NN values_NNS for_IN all_DT users_NNS based_VBN on_IN past_JJ transactions_NNS or_CC voting_NN histories_NNS ._.
+In_IN EigenTrust_NNP ,_, a_DT user_NN increases_VBZ -LRB-_-LRB- or_CC decreases_NNS -RRB-_-RRB- another_DT

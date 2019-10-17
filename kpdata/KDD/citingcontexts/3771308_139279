@@ -1,0 +1,4 @@
+ch_NN leads_VBZ to_TO less_JJR overfitting_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+Averaging_VBG techniques_NNS have_VBP been_VBN successfully_RB used_VBN on_IN the_DT Perceptron_NNP algorithm_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, but_CC never_RB in_IN other_JJ online_JJ learners_NNS such_JJ as_IN Winnow_NNP ,_, Passive-Aggressive_JJ -LRB-_-LRB- 10_CD -RRB-_-RRB- or_CC ROMMA_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT current_JJ work_NN ,_, we_PRP provide_VBP a_DT detailed_JJ performance_NN comparison_NN on_IN how_WRB averaging_NN affects_VBZ the_DT aforementioned_JJ online_NN learners_NNS when_WRB restricted_JJ to_TO a_DT single_JJ learning_NN pass_NN only_RB ._.
+Results_NNS clearly_RB indicate_VBP

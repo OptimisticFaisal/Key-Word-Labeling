@@ -1,0 +1,4 @@
+._.
+Tag_NN tree_NN or_CC Document_NNP Object_NNP Model_NNP -LRB-_-LRB- http:\/\/www.w3.org\/DOM\/_NN -RRB-_-RRB- provides_VBZ each_DT web_NN page_NN a_DT fine-grained_JJ structure_NN ,_, illustrating_VBG not_RB only_RB the_DT content_NN but_CC also_RB the_DT presentation_NN of_IN the_DT page_NN ._.
+Many_JJ researchers_NNS =_JJ -_: =[_NN 10_CD ,_, 12_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP considered_VBN using_VBG the_DT tag_NN information_NN and_CC dividing_VBG the_DT page_NN based_VBN on_IN the_DT type_NN of_IN the_DT tags_NNS ._.
+Useful_JJ tags_NNS include_VBP <P>_NN -LRB-_-LRB- for_IN paragraph_NN -RRB-_-RRB- ,_, <TABLE>_NN -LRB-_-LRB- for_IN table_NN -RRB-_-RRB- ,_, <UL>_NN -LRB-_-LRB- for_IN list_NN -RRB-_-RRB- ,_, <H1>_FW ~_FW <H6>_NN -LRB-_-LRB- for_IN heading_VBG -RRB-_-RRB- ,_,

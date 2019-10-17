@@ -1,0 +1,6 @@
+tion_NN of_IN cell_NN entity_NN ,_, column_NN type_NN ,_, and_CC relationship_NN labeling_NN ._.
+A._NNP Einstein_NNP mention_NN or_CC reference_NN to_TO said_VBD entity_NN ._.
+These_DT annotation_NN tasks_NNS are_VBP challenging_JJ ._.
+When_WRB annotating_VBG entity_NN mentions_VBZ in_IN free-form_JJ text_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT textual_JJ context_NN provides_VBZ clues_NNS for_IN disambiguation_NN ._.
+In_IN contrast_NN ,_, table_NN cells_NNS referring_VBG to_TO entities_NNS have_VBP negligible_JJ amounts_NNS of_IN additional_JJ text_NN ._.
+Given_VBN each_DT table_NN cell_NN can_MD map_VB to_TO several_JJ entities_NNS -LRB-_-LRB- o_NN

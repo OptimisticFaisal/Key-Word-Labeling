@@ -1,0 +1,4 @@
+tree_NN ;_: and_CC similarly_RB for_IN graphs_NNS ._.
+Frequent_JJ closed_JJ trees_NNS -LRB-_-LRB- or_CC sets_NNS ,_, or_CC graphs_NNS -RRB-_-RRB- give_VBP the_DT same_JJ information_NN about_IN the_DT dataset_NN as_IN the_DT set_NN of_IN all_DT frequent_JJ trees_NNS -LRB-_-LRB- or_CC sets_NNS ,_, or_CC graphs_NNS -RRB-_-RRB- in_IN less_JJR space_NN ._.
+Yan_NN and_CC Han_NN =_JJ -_: =[_NN 19_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD two_CD algorithms_NNS for_IN mining_NN frequent_JJ and_CC closed_JJ graphs_NNS ._.
+The_DT first_JJ one_CD is_VBZ called_VBN gSpan_NN -LRB-_-LRB- graph-based_JJ Substructure_NN pattern_NN mining_NN -RRB-_-RRB- and_CC discovers_VBZ frequent_JJ graph_NN substructures_NNS without_IN candidate_NN gen_NN

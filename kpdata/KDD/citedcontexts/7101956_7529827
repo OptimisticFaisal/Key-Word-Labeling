@@ -1,0 +1,5 @@
+ighborhood_NN formula_NN uses_VBZ a_DT weighted_JJ average_NN of_IN ratings_NNS for_IN the_DT uninformative_JJ neighbors_NNS ._.
+4_LS ._.
+Neighborhood_NN methods_NNS may_MD not_RB work_VB well_RB if_IN variability_NN differs_VBZ substantially_RB among_IN neighbors_NNS ._.
+In_IN a_DT recent_JJ work_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP overcame_VBD most_JJS of_IN these_DT shortcomings_NNS ,_, but_CC the_DT resulting_VBG algorithm_NN was_VBD several_JJ orders_NNS of_IN magnitude_NN slower_JJR than_IN previous_JJ neighborhood-methods_NNS ,_, thereby_RB limiting_VBG its_PRP$ practical_JJ applicability_NN ._.
+In_IN this_DT w_NN

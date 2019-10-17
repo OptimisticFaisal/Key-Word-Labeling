@@ -1,0 +1,5 @@
+e_LS regardless_RB of_IN the_DT value_NN of_IN β_NN ._.
+6_CD Related_JJ work_NN Most_NNP previous_JJ work_NN on_IN link_NN or_CC citation_NN analysis_NN has_VBZ treated_VBN relatedness_NN and_CC importance_NN as_IN independent_JJ measures_NNS ._.
+One_CD exception_NN is_VBZ the_DT work_NN by_IN Ding_NNP et_FW al._FW =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: who_WP pointed_VBD out_RP Table_NNP 3_CD ._.
+Average_JJ K-min_NN distance_NN between_IN the_DT regularized_VBN Laplacian_NN kernels_NNS and_CC HITS_NNS ._.
+β_NN =_JJ 0.0001_CD 0.0005_CD 0.001_CD HITS_NN β_NN =_JJ 0.0001_CD 0.0_CD 1.9_CD 3.9_CD 96.5_CD 0.0005_CD 0.0_CD 3.6_CD 95.9_CD 0.001_CD 0.0_CD 95.9_CD sthe_JJ rel_NN

@@ -1,0 +1,4 @@
+s_NN with_IN N_NN entries_NNS ,_, DTW_NNP would_MD take_VB O_NN -LRB-_-LRB- M_NN 2_CD ·_NN N_NN -RRB-_-RRB- time_NN where_WRB N_NN could_MD be_VB very_RB large_JJ ._.
+To_TO address_VB this_DT problem_NN ,_, several_JJ lower-bound_JJ estimation_NN algorithms_NNS have_VBP been_VBN proposed_VBN for_IN DTW-KNN_NN search_NN in_IN large_JJ corpora_NN =_JJ -_: =[_NN 2_CD ,_, 3_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX are_VBP two_CD basic_JJ ideas_NNS behind_IN lowerbounded_JJ DTW-KNN_NN search_NN ._.
+First_RB ,_, a_DT lower-bound_JJ distance_NN that_WDT underestimates_VBZ the_DT actual_JJ DTW_NN distance_NN is_VBZ computed_VBN between_IN the_DT query_NN pattern_NN and_CC all_DT candidate_NN patter_NN

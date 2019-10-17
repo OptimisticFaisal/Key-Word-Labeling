@@ -1,0 +1,5 @@
+events_NNS as_IN features_NNS ._.
+A_DT simulator_NN proposed_VBN in_IN -LRB-_-LRB- 19_CD -RRB-_-RRB- is_VBZ used_VBN to_TO generate_VB synthetic_JJ traces_NNS following_VBG some_DT real-world_JJ models_NNS ._.
+Real_JJ traces_NNS are_VBP also_RB generated_VBN from_IN programs_NNS belonging_VBG to_TO the_DT Siemens_NNP benchmark_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Furthermore_RB ,_, we_PRP experimented_VBD with_IN a_DT real-life_JJ data_NN race_NN concurrency_NN bug_NN from_IN MySQL_NN server_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+Experiments_NNS demonstrate_VBP the_DT effectiveness_NN of_IN our_PRP$ proposed_VBN discriminative_JJ iterative_JJ pattern-based_JJ classi_NNS

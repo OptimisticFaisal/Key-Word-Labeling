@@ -1,0 +1,4 @@
+series_NN or_CC on_IN searching_VBG for_IN all_PDT the_DT sequences_NNS that_WDT are_VBP similar_JJ to_TO a_DT given_JJ one_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- or_CC -LRB-_-LRB- 12_CD -RRB-_-RRB- propose_VBP indexing_NN all_PDT the_DT time_NN series_NN ,_, using_VBG some_DT sort_NN of_IN spatial_JJ access_NN method_NN ,_, like_IN the_DT R_NN \*_NN trees_NNS proposed_VBN by_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, as_IN an_DT indexing_NN method_NN ._.
+This_DT index_NN will_MD contain_VB the_DT first_JJ coefficients_NNS of_IN the_DT Fourier_NN transform_VB of_IN the_DT series_NN ._.
+Thus_RB ,_, it_PRP will_MD suffice_VB to_TO run_VB through_IN the_DT sequences_NNS to_TO are_VBP close_JJ together_RB in_IN the_DT R_NN \*_NN tree_NN

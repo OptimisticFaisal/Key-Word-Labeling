@@ -1,0 +1,6 @@
+protein_NN functions_NNS -LRB-_-LRB- 18_CD ,_, 9_CD -RRB-_-RRB- ._.
+In_IN these_DT cases_NNS ,_, a_DT good_JJ choice_NN of_IN α_NN is_VBZ the_DT one_NN that_WDT produces_VBZ the_DT web_NN search_NN results_NNS ,_, fitted_JJ functions_NNS ,_, or_CC predictions_NNS under_IN a_DT natural_JJ metric_NN from_IN these_DT applications_NNS ._.
+In_IN ref_NN ._.
+=_SYM -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT authors_NNS suggest_VBP choosing_VBG α_NN =_JJ 0.15_CD for_IN correlated_JJ item_NN discovery_NN in_IN a_DT multimedia_NNS database_NN ._.
+PageRank_NN is_VBZ also_RB often_RB used_VBN as_IN a_DT centrality_NN measure_NN for_IN a_DT graph_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+For_IN these_DT uses_NNS ,_, we_PRP conjecture_NN that_IN

@@ -1,0 +1,5 @@
+gained_VBD its_PRP$ popularity_NN in_IN the_DT recent_JJ years_NNS ,_, due_JJ to_TO -LRB-_-LRB- among_IN other_JJ merits_NNS -RRB-_-RRB- its_PRP$ excellent_JJ I\/O_NN efficiency_NN for_IN read-extensive_JJ analytical_JJ workloads_NNS ._.
+From_IN research_NN community_NN ,_, some_DT representative_JJ works_NNS include_VBP =_JJ -_: =[_NN 33_CD ,_, 3_CD ,_, 2_CD ,_, 18_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT notable_JJ work_NN of_IN column_NN store_NN database_NN from_IN industrial_JJ side_NN is_VBZ HBase_NN -LRB-_-LRB- http:\/\/hbase.apache.org\/_NN -RRB-_-RRB- ._.
+HBase_NN is_VBZ designed_VBN for_IN large_JJ sparse_JJ data_NNS ,_, built_VBN on_IN the_DT top_NN of_IN HADOOP_NN core_NN ._.
+Different_JJ from_IN HBase_NN ,_, our_PRP$ G_NN

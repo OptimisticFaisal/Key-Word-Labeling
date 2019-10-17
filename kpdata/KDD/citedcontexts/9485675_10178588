@@ -1,0 +1,3 @@
+s_VBZ the_DT boosting_VBG weight_NN formula_NN as_IN the_DT re-weighting_JJ scheme_NN ._.
+Some_DT other_JJ methods_NNS base_VBP on_IN dimension_NN reduction_NN ,_, which_WDT usually_RB map_VBP data_NNS to_TO a_DT new_JJ representation_NN facilitating_VBG domain_NN transfer_NN -LRB-_-LRB- -LRB-_-LRB- 10_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Recently_RB ,_, =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ a_DT locally_RB weighted_JJ ensemble_NN framework_NN to_TO combine_VB multiple_JJ models_NNS for_IN transfer_NN learning_NN by_IN dynamically_RB assigning_VBG weights_NNS of_IN a_DT model_NN according_VBG to_TO a_DT model_NN 's_POS predictive_JJ power_NN on_IN each_DT test_NN exampl_NN

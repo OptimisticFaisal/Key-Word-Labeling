@@ -1,0 +1,5 @@
+as_IN follows_VBZ ._.
+First_RB the_DT GA_NN selects_VBZ all_PDT the_DT non-dominated_JJ individuals_NNS -LRB-_-LRB- the_DT Pareto_NNP front_NN -RRB-_-RRB- of_IN the_DT current_JJ population_NN ._.
+These_DT non-dominated_JJ individuals_NNS are_VBP passed_VBN unaltered_JJ to_TO the_DT next_JJ generation_NN by_IN elitism_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Elitism_NNP is_VBZ a_DT common_JJ procedure_NN in_IN GAs_NNS ,_, and_CC it_PRP has_VBZ the_DT advantage_NN of_IN avoiding_VBG that_IN good_JJ individuals_NNS disappear_VBP from_IN the_DT population_NN due_JJ to_TO the_DT stochastic_JJ nature_NN of_IN selection_NN ._.
+Let_VB N_NN be_VB the_DT total_JJ populatio_NN

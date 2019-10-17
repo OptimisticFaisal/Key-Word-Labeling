@@ -1,0 +1,4 @@
+with_IN broad_JJ localizations_NNS may_MD not_RB have_VB a_DT well-known_JJ function_NN and_CC they_PRP may_MD not_RB be_VB well_RB conserved_VBN ._.
+Well-conserved_JJ domains_NNS are_VBP typically_RB easiest_JJS to_TO study_VB experimentally_RB ._.
+To_TO test_VB this_DT we_PRP use_VBP ROC_NN analysis_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: with_IN average_JJ slope_NN as_IN classifier_NN and_CC any_DT one_CD of_IN the_DT main_JJ categories_NNS of_IN experimental_JJ results_NNS as_IN class_NN label_NN ._.
+If_IN slope_NN were_VBD unrelated_JJ to_TO the_DT categories_NNS of_IN the_DT consequent_JJ ,_, the_DT ROC_NNP curve_NN should_MD be_VB a_DT diag_NN

@@ -1,0 +1,3 @@
+be_VB extended_VBN to_TO more_RBR general_JJ SVM_NN problems_NNS with_IN structured_JJ outputs_NNS ,_, such_JJ as_IN taxonomy_NN ,_, multilabel_NN and_CC sequence_NN labeling_NN problems_NNS ._.
+We_PRP note_VBP that_IN ,_, for_IN the_DT structured_JJ outputs_NNS setting_VBG ,_, Tsochantaridis_NNP et_FW al._FW =_SYM -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: mentioned_VBD the_DT sequential_JJ dual_JJ method_NN as_IN a_DT possibility_NN -LRB-_-LRB- see_VB Variant_JJ -LRB-_-LRB- b_NN -RRB-_-RRB- in_IN Algorithm_NN 1_CD of_IN that_DT paper_NN -RRB-_-RRB- ,_, but_CC did_VBD not_RB pursue_VB it_PRP as_IN a_DT potentially_RB fast_JJ method_NN ._.
+In_IN such_JJ extensions_NNS the_DT quadratic_JJ programming_NN

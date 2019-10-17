@@ -1,0 +1,4 @@
+a_DT probabilistic_JJ approach_NN to_TO model_VB the_DT subtopic_JJ themes_NNS and_CC spatiotemporal_JJ theme_NN patterns_NNS simultaneously_RB in_IN weblogs_NNS ._.
+Wang_NNP et_FW al._FW mined_VBN correlated_JJ bursty_NN topic_NN patterns_NNS from_IN coordinated_VBN text_NN streams_NNS in_IN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Blei_NNP and_CC Lafferty_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- employed_VBN state_NN space_NN models_NNS on_IN the_DT natural_JJ parameters_NNS of_IN multinomial_JJ distributions_NNS of_IN topics_NNS and_CC design_VB a_DT dynamic_JJ topic_NN model_NN to_TO model_VB the_DT time_NN evolution_NN of_IN stream_NN ._.
+Iwata_NNP et_NNP al_NNP

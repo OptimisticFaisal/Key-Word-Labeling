@@ -1,0 +1,6 @@
+have_VBP been_VBN proposed_VBN and_CC evaluated_VBN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+Current_JJ state-of-art_JJ approaches_NNS employ_VBP learning_VBG techniques_NNS to_TO automate_VB matcher_NN configuration_NN and_CC combination_NN ._.
+Prior_JJ work_NN has_VBZ considered_VBN a_DT variety_NN of_IN classifiers_NNS =_JJ -_: =[_NN 4_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX are_VBP only_RB a_DT few_JJ approaches_NNS that_WDT consider_VBP parallel_JJ entity_NN resolution_NN ._.
+The_DT authors_NNS of_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- show_VBP how_WRB the_DT match_NN computation_NN can_MD be_VB parallelized_VBN among_IN available_JJ cores_NNS on_IN a_DT single_JJ node_NN ._.
+Parallel_JJ evalu_NN

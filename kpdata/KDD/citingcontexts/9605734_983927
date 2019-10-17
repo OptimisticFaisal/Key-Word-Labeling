@@ -1,0 +1,3 @@
+advertisements_NNS ._.
+Researchers_NNS in_IN computational_JJ advertising_NN have_VBP suggested_VBN various_JJ methods_NNS to_TO address_VB this_DT issue_NN in_IN order_NN to_TO design_VB good_JJ matching_JJ functions_NNS between_IN publisher_NN pages_NNS and_CC ads_NNS ._.
+Broder_NNP et_FW al._FW =_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: found_VBD that_IN while_IN training_VBG a_DT model_NN to_TO predict_VB the_DT relevance_NN of_IN an_DT ad_NN to_TO a_DT publisher_NN page_NN ,_, it_PRP is_VBZ useful_JJ to_TO augment_VB ``_`` syntactic_JJ ''_'' features_NNS obtained_VBN by_IN matching_VBG key-Parsed_JJ Related_JJ Clusters_NNS Categories_NNPS Dist_NNP

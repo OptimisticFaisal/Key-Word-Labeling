@@ -1,0 +1,4 @@
+e_LS amounts_NNS of_IN broad_JJ coverage_NN singletopic_JJ training_NN data_NNS is_VBZ difficult_JJ ._.
+In_IN practice_NN ,_, to_TO build_VB accurate_JJ classifiers_NNS ,_, we_PRP have_VBP to_TO collect_VB large_JJ amounts_NNS of_IN training_NN pages_NNS ,_, pre-clean_JJ and_CC hand-label_JJ the_DT blocks_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT data_NNS labeling_NN process_NN is_VBZ expensive_JJ and_CC unscalable_JJ to_TO many_JJ real-world_JJ concepts_NNS ._.
+1.1_CD Our_PRP$ contribution_NN In_IN this_DT paper_NN we_PRP investigate_VBP different_JJ methods_NNS to_TO train_VB subdocument_NN classifiers_NNS when_WRB only_RB pag_NN

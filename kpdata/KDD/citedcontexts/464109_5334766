@@ -1,0 +1,4 @@
+orking_VBG set_NN for_IN training_VBG a_DT new_JJ machine_NN ._.
+Especially_RB ,_, when_WRB two_CD consecutive_JJ SVMs_NNS have_VBP the_DT same_JJ kernel_NN function_NN ,_, one_CD solution_NN can_MD be_VB reused_VBN directly_RB to_TO seed_NN the_DT search_NN for_IN another_DT machine_NN 's_POS solution_NN ,_, e.g._FW =_JJ -_: =[_NN 84_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, supposed_VBD that_DT training_NN the_DT first_JJ machine_NN SV_NN M1_NN with_IN kernel_NN function_NN K_NN and_CC error_NN penalty_NN C_NN =_JJ C1_NN resulted_VBD optimal_JJ solution_NN αSV_NN M1_NN ._.
+To_TO train_VB anewmachineSV_NN M2_NN with_IN the_DT same_JJ kernel_NN function_NN

@@ -1,0 +1,4 @@
+on_IN graph_NN matching_NN algorithms_NNS ,_, we_PRP refer_VBP the_DT reader_NN to_TO a_DT recent_JJ survey_NN by_IN Gallagher_NNP -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+There_EX has_VBZ been_VBN significant_JJ work_NN on_IN inexact_JJ graph_NN matching_NN -LRB-_-LRB- 18_CD ,_, 21_CD ,_, 10_CD ,_, 22_CD ,_, 5_CD ,_, 1_CD -RRB-_-RRB- ,_, on_IN matching_VBG attributed_VBN graphs_NNS =_JJ -_: =[_NN 21_CD ,_, 18_CD ,_, 10_CD ,_, 3_CD ,_, 22_CD ,_, 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC on_IN matching_NN in_IN the_DT single-graph_JJ setting_NN -LRB-_-LRB- 3_CD ,_, 22_CD ,_, 5_CD ,_, 1_CD -RRB-_-RRB- ._.
+However_RB ,_, there_EX are_VBP relatively_RB few_JJ algorithms_NNS that_WDT combine_VBP the_DT three_CD to_TO tackle_VB inexact_JJ matching_NN in_IN large_JJ ,_, attributed_VBN graphs_NNS -LRB-_-LRB- 6_CD ,_, 22_CD ,_, 5_CD ,_, 1_CD -RRB-_-RRB- ._.
+F_NN

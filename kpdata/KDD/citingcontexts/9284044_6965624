@@ -1,0 +1,6 @@
+icit_NN ratings_NNS ._.
+This_DT vector_NN is_VBZ complemented_VBN by_IN the_DT sum_NN |_NN N_NN -LRB-_-LRB- u_NN -RRB-_-RRB- |_FW −_FW 1_CD ∑_NN 2_CD j_FW ∈_FW N_NN -LRB-_-LRB- u_NN -RRB-_-RRB- yj_NN ,_, which_WDT represents_VBZ the_DT perspective_NN of_IN implicit_JJ feedback_NN ._.
+We_PRP dub_VBP this_DT model_NN ``_`` SVD_NN +_CC +_CC ''_'' ._.
+Similar_JJ models_NNS were_VBD discussed_VBN recently_RB =_JJ -_: =[_NN 3_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Model_NNP parameters_NNS are_VBP learned_VBN by_IN minimizing_VBG the_DT associated_VBN squared_VBD error_NN function_NN through_IN gradient_NN descent_NN ._.
+SVD_NN +_CC +_CC does_VBZ not_RB offer_VB the_DT previously_RB mentioned_VBN benefits_NNS of_IN having_VBG less_JJR parameters_NNS ,_, convenient_JJ

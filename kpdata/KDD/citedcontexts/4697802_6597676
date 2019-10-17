@@ -1,0 +1,5 @@
+ameter_JJR exponential_JJ families_NNS ,_, and_CC Kulldorff_NNP has_VBZ studied_VBN various_JJ -LRB-_-LRB- see_VB -LRB-_-LRB- 26_CD -RRB-_-RRB- -RRB-_-RRB- other_JJ forms_NNS of_IN this_DT statistic_NN ._.
+Many_JJ techniques_NNS exist_VBP for_IN computing_VBG the_DT statistic_NN quickly_RB for_IN anomaly_JJ detection_NN for_IN point_NN sets_VBZ =_JJ -_: =[_NN 30_CD ,_, 25_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+1.2_CD Previous_JJ Algorithmic_JJ Work_NN ._.
+Clustering_NN is_VBZ well-established_JJ as_IN an_DT important_JJ method_NN of_IN informationsextraction_NN from_IN large_JJ data_NNS sets_NNS ._.
+Hard_JJ clustering_NN divides_VBZ data_NNS into_IN disjoint_NN clusters_NNS while_IN soft_JJ cl_NN

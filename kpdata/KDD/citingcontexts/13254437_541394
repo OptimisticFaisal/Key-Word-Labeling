@@ -1,0 +1,3 @@
+torization_NN model_NN along_IN the_DT lines_NNS of_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- which_WDT replaces_VBZ the_DT discrete_JJ set_NN of_IN topics_NNS by_IN a_DT continuous_JJ -LRB-_-LRB- low_JJ dimensional_JJ -RRB-_-RRB- factorization_NN ._.
+•_VB We_PRP could_MD employ_VB a_DT factorization_NN akin_JJ to_TO the_DT Indian_JJ Buffet_NN Process_VBP =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT uses_VBZ a_DT binary_JJ latent_JJ variable_JJ representation_NN instead_RB of_IN a_DT finite_JJ -LRB-_-LRB- sparse_JJ -RRB-_-RRB- set_NN of_IN topics_NNS ._.
+Also_RB ,_, since_IN the_DT model_NN places_VBZ no_DT restriction_NN on_IN the_DT number_NN of_IN domains_NNS it_PRP can_MD personalize_VB over_RB ,_, the_DT model_NN

@@ -1,0 +1,4 @@
+bes_NNS how_WRB we_PRP extract_VBP information_NN from_IN this_DT database_NN and_CC distill_VB it_PRP into_IN feature_NN vectors_NNS for_IN classification_NN ,_, and_CC section_NN 4.2_CD describes_VBZ how_WRB we_PRP classify_VBP these_DT feature_NN vectors_NNS using_VBG support_NN vector_NN machines_NNS =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT training_NN and_CC test_NN sets_NNS of_IN feature_NN vectors_NNS in_IN our_PRP$ experiments_NNS are_VBP available_JJ at_IN http:\/\/www.sysnet_NN ._.
+ucsd.edu\/projects\/exploit-learn\/_NN ._.
+4.1_CD Feature_NN extraction_NN Our_PRP$ database_NN of_IN vulnerabilities_NNS contains_VBZ

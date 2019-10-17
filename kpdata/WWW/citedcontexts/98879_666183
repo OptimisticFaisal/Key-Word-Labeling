@@ -1,0 +1,4 @@
+creased_VBN ._.
+3.2_CD Item-based_JJ Collaborative_JJ Filtering_NN In_IN this_DT section_NN we_PRP will_MD discuss_VB the_DT utility_NN of_IN Item-based_JJ Collaborative_NNP Filtering_NNP ,_, an_DT algorithm_NN proposed_VBN recently_RB in_IN the_DT Recommender_NNP Systems_NNPS literature_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Description_NN of_IN the_DT Experiments_NNS Similarly_RB to_TO classic_JJ Collaborative_NNP Filtering_NNP ,_, Itembased_NNP Filtering_NNP is_VBZ based_VBN on_IN the_DT creation_NN of_IN neighborhoods_NNS ._.
+Unlike_IN classic_JJ Collaborative_NNP Filtering_NNP ,_, those_DT neighbor_NN

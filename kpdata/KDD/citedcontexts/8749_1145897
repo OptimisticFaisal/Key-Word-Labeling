@@ -1,0 +1,4 @@
+d_NN be_VB used_VBN by_IN an_DT investor_NN or_CC an_DT automated_JJ trading_NN system_NN as_IN recommendations_NNS to_TO buy_VB or_CC sell_VB a_DT particular_JJ stock_NN ._.
+Our_PRP$ task_NN is_VBZ a_DT special_JJ case_NN of_IN the_DT Activity_NN Monitoring_NN task_NN introduced_VBN by_IN Fawcett_NNP &_CC Provost_NNP =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT task_NN involves_VBZ monitoring_VBG a_DT stream_NN of_IN data_NNS and_CC issuing_VBG alarms_NNS that_WDT signal_VBP positive_JJ activity_NN in_IN the_DT stream_NN ._.
+In_IN our_PRP$ case_NN ,_, the_DT data_NNS are_VBP news_NN stories_NNS andsnancial_JJ time_NN series_NN ;_: unusual_JJ trends_NNS in_IN the_DT ti_NN

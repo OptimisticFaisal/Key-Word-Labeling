@@ -1,0 +1,4 @@
+king_NN and_CC hybrid_NN learner_NN is_VBZ our_PRP$ default_NN strategy_NN for_IN the_DT Falcon_NNP algorithm_NN ._.
+Evaluation_NN Metrics_NNS :_: The_DT accuracy_NN metric_NN preferred_VBN for_IN classifiers_NNS in_IN the_DT system_NN management_NN domain_NN is_VBZ called_VBN balanced_JJ accuracy_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Suppose_VB there_EX are_VBP N_NN types_NNS of_IN annotations_NNS ,_, and_CC for_IN each_DT annotation_NN Ai_NNP ,_, the_DT classifier_NN makes_VBZ M_NN ′_FW i_FW correct_JJ predictions_NNS for_IN the_DT Mi_NNP instances_NNS in_IN the_DT test_NN data_NNS that_WDT have_VBP annotation_NN Ai_NN ._.
+Then_RB ,_, the_DT balanced_JJ

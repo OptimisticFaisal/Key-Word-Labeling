@@ -1,0 +1,4 @@
+ithms_NNS require_VBP long_JJ processing_NN times_NNS ,_, which_WDT makes_VBZ such_JJ interaction_NN difficult_JJ ._.
+One_CD possible_JJ solution_NN to_TO that_DT problem_NN is_VBZ exploiting_VBG materialized_VBN results_NNS of_IN previous_JJ queries_NNS when_WRB answering_VBG a_DT new_JJ query_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =-[_CD 9_CD -RRB-_-RRB- ._.
+A_DT data_NN mining_NN system_NN should_MD be_VB able_JJ to_TO determine_VB which_WDT materialized_VBD query_JJ results_NNS can_MD be_VB used_VBN to_TO answer_VB the_DT current_JJ query_NN ,_, and_CC then_RB to_TO choose_VB the_DT one_NN leading_VBG to_TO the_DT shortest_JJS response_NN time_NN ._.
+In_IN has_VBZ

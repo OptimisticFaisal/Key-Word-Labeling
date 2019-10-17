@@ -1,0 +1,4 @@
+n_NN of_IN k-nearest_NN neighbor_NN queries_NNS ._.
+In_IN case_NN that_IN X_NN consists_VBZ of_IN vector_NN data_NNS ,_, spatial_JJ index_NN structures_NNS can_MD be_VB used_VBN for_IN the_DT efficient_JJ calculation_NN such_JJ as_IN -LRB-_-LRB- 6,9,17_CD -RRB-_-RRB- ._.
+In_IN case_NN of_IN metric_JJ data_NNS the_DT OMNI_NNP framework_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, or_CC data_NNS structures_NNS like_IN the_DT M-tree_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- can_MD be_VB used_VBN ._.
+Since_IN the_DT computation_NN of_IN the_DT local_JJ representation_NN is_VBZ inherently_RB approximate_JJ ,_, the_DT use_NN of_IN approximative_JJ methods_NNS for_IN k-nearest_NN neighbor_NN queries_NNS such_JJ

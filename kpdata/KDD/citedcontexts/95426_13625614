@@ -1,0 +1,4 @@
+c_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, is_VBZ an_DT extension_NN of_IN VFDT_NNP ,_, with_IN the_DT capacity_NN to_TO work_VB with_IN numeric_JJ attributes_NNS and_CC it_PRP uses_VBZ more_RBR flexible_JJ and_CC powerful_JJ classification_NN techniques_NNS in_IN the_DT leaves_NNS of_IN the_DT decision_NN tree_NN ._.
+The_DT system_NN CVFDT_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: extends_VBZ VFDT_NNP to_TO deal_VB with_IN non_JJ stationary_JJ data_NNS ._.
+CVFDT_NNP learns_VBZ a_DT decision_NN tree_NN and_CC copes_VBZ with_IN concept_NN drift_NN by_IN maintaining_VBG examples_NNS over_IN a_DT window_NN of_IN time_NN and_CC a_DT list_NN of_IN alternative_JJ subtrees_NNS ._.
+When_WRB CVFDT_FW d_FW

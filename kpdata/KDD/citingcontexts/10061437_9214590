@@ -1,0 +1,4 @@
+ng_NN their_PRP$ terminology_NN ,_, the_DT loss_NN function_NN we_PRP propose_VBP is_VBZ one_CD where_WRB utility_NN is_VBZ lost_VBN whenever_WRB no_DT result_NN is_VBZ relevant_JJ ._.
+This_DT is_VBZ related_JJ to_TO the_DT problem_NN of_IN query_NN abandonment_NN ._.
+Radlinksi_NNP ,_, Kleinberg_NNP ,_, and_CC Joachims_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: study_VB the_DT problem_NN of_IN abandonment_NN using_VBG the_DT notion_NN of_IN dependence_NN of_IN a_DT document_NN 's_POS relevance_NN on_IN other_JJ documents_NNS ._.
+Specifically_RB ,_, they_PRP propose_VBP online_JJ learning_NN algorithms_NNS that_WDT learn_VBP a_DT diverse_JJ ranking_NN of_IN doc_NN

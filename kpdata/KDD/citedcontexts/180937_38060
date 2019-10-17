@@ -1,0 +1,5 @@
+is_VBZ makes_VBZ it_PRP very_RB appealing_JJ for_IN dynamic_JJ VLDB_NN ._.
+Some_DT further_JJ tools_NNS can_MD be_VB used_VBN to_TO improve_VB obtained_VBN clusters_NNS ._.
+Data_NNS squashing_VBG techniques_NNS scan_VBP data_NNS to_TO compute_VB certain_JJ data_NNS summaries_NNS -LRB-_-LRB- sufficient_JJ statistics_NNS -RRB-_-RRB- =_JJ -_: =_JJ -LRB-_-LRB- DVJ99_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT obtained_VBN summaries_NNS are_VBP then_RB used_VBN instead_RB of_IN the_DT original_JJ data_NNS for_IN further_JJ clustering_NN ._.
+The_DT pivotal_JJ role_NN here_RB belongs_VBZ to_TO the_DT algorithm_NN BIRCH_NNP -LRB-_-LRB- Balanced_NNP Iterative_NNP Reduction_NNP and_CC Clustering_NNP using_VBG Hier_NNP

@@ -1,0 +1,3 @@
+ave_JJ partial_JJ network_NN information_NN to_TO analyze_VB ._.
+For_IN example_NN ,_, in_IN Figure_NNP 9_CD ,_, given_VBN the_DT weighted_JJ egocentric_JJ subgraph_NN that_IN link_NN e23_NN belongs_VBZ to_TO ,_, what_WP can_MD we_PRP say_VB about_IN the_DT missing_VBG w23_NN ?_.
+Where_WRB the_DT link_NN prediction_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: tries_VBZ to_TO predict_VB between_IN which_WDT unconnected_JJ nodes_NNS a_DT link_NN will_MD form_VB next_JJ ,_, our_PRP$ problem_NN here_RB concerns_VBZ how_WRB to_TO estimate_VB the_DT value_NN of_IN an_DT edge_NN weight_NN ,_, because_IN we_PRP already_RB know_VBP there_EX is_VBZ a_DT link_NN between_IN node_NN 2_CD a_DT

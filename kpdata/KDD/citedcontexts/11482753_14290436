@@ -1,0 +1,4 @@
+wo_MD methods_NNS -LRB-_-LRB- 23_CD ,_, 26_CD -RRB-_-RRB- are_VBP not_RB compared_VBN due_JJ to_TO their_PRP$ problem_NN settings_NNS which_WDT ,_, unlike_IN ours_PRP ,_, assume_VB a_DT few_JJ data_NNS in_IN the_DT target_NN task_NN are_VBP labeled_VBN ._.
+We_PRP use_VBP two_CD metrics_NNS ,_, clustering_NN accuracy_NN -LRB-_-LRB- AC_NN -RRB-_-RRB- -LRB-_-LRB- 24_CD -RRB-_-RRB- and_CC F1-Score_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, to_TO measure_VB the_DT clustering_NN performance_NN ._.
+For_IN each_DT data_NNS set_VBN ,_, we_PRP repeated_VBD the_DT experiments_NNS for_IN 10_CD trails_VBZ ,_, and_CC report_VBP the_DT averages_NNS and_CC standard_JJ deviations_NNS ._.
+Recall_VB that_IN the_DT useful_JJ knowledge_NN from_IN multiple_JJ s_NN

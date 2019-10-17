@@ -1,0 +1,3 @@
+the_DT pattern_NN significance_NN at_IN class_NN and_CC global_JJ levels_NNS ,_, we_PRP use_VBP a_DT common_JJ 2_CD x_CC 2_CD contingency-table-based_JJ interestingness_NN measure_NN ._.
+A_DT recent_JJ study_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- evaluated_VBD most_JJS of_IN the_DT interestingness_NN measures_NNS found_VBN in_IN =_JJ -_: =[_NN 12_CD ,_, 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN the_DT context_NN of_IN hierarchical_JJ document_NN clustering_NN ,_, and_CC reported_VBD that_IN only_RB a_DT small_JJ number_NN of_IN interestingness_NN measures_NNS generalize_VBP well_RB to_TO datasets_NNS with_IN varying_VBG characteristics_NNS ._.
+Coincidently_RB ,_, we_PRP found_VBD

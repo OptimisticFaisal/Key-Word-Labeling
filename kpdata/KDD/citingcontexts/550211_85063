@@ -1,0 +1,4 @@
+we_PRP discuss_VBP some_DT experiments_NNS that_WDT demonstrate_VBP the_DT performance_NN of_IN our_PRP$ online_JJ algorithms_NNS relative_JJ to_TO their_PRP$ batch_NN counterparts_NNS ._.
+For_IN decision_NN trees_NNS ,_, we_PRP have_VBP reimplemented_VBN the_DT lossless_JJ ITI_NNP online_NN algorithm_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: in_IN C_NN +_CC +_CC ;_: batch_NN and_CC online_NN Naive_JJ Bayes_NNP algorithms_NNS are_VBP essentially_RB identical_JJ ._.
+We_PRP ran_VBD these_DT experiments_NNS on_IN Dell_NNP 6350_CD computers_NNS having_VBG 600MHz_NNP Pentium_NNP III_NNP processors_NNS and_CC 2GB_NN of_IN memory_NN ._.
+4.1_CD The_DT Data_NN We_PRP test_VBP

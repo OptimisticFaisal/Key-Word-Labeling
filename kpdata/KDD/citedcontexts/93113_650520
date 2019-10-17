@@ -1,0 +1,4 @@
+ement_NN in_IN the_DT array_NN corresponds_VBZ to_TO a_DT transaction_NN that_WDT contains_VBZ the_DT itemset_NN ._.
+Frequent_JJ itemset_NN mining_NN and_CC candidate_NN frequent_JJ itemset_NN generation_NN are_VBP done_VBN by_IN TID-array_JJ intersections_NNS ._.
+Later_RB ,_, Zaki_NNP and_CC Gouda_NNP =_SYM -_: =[_NN 35_CD -RRB-_-RRB- -_: =_SYM -_: introduced_VBD a_DT technique_NN ,_, called_VBN diffset_NN ,_, for_IN reducing_VBG the_DT memory_NN requirement_NN of_IN TIDarrays_NN ._.
+The_DT diffset_NN technique_NN only_RB keeps_VBZ track_NN of_IN differences_NNS in_IN the_DT TID_NNP 's_POS of_IN candidate_NN itemsets_NNS when_WRB it_PRP is_VBZ generatin_NN

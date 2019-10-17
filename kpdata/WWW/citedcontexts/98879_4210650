@@ -1,0 +1,3 @@
+of_IN user_NN records_NNS ,_, allowing_VBG the_DT online_JJ component_NN of_IN the_DT system_NN to_TO search_VB only_RB within_IN a_DT matching_JJ cluster_NN ._.
+A_DT model-based_JJ variant_NN of_IN collaborative_JJ filtering_VBG is_VBZ known_VBN as_IN item-based_JJ collaborative_NN filtering_VBG =_JJ -_: =[_NN 114_CD -RRB-_-RRB- -_: =_SYM -_: in_IN which_WDT ,_, starting_VBG from_IN the_DT same_JJ user-rating_JJ profile_NN databases_NNS ,_, an_DT item-item_JJ similarity_NN matrix_NN is_VBZ built_VBN offline_JJ ,_, and_CC used_VBN in_IN the_DT prediction_NN phase_NN to_TO generate_VB recommendations_NNS ._.
+Rather_RB than_IN basing_VBG item_NN

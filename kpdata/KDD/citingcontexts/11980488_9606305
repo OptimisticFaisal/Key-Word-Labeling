@@ -1,0 +1,4 @@
+method_NN is_VBZ usually_RB sensitive_JJ to_TO outliers_NNS and_CC errors_NNS in_IN the_DT training_NN data_NNS set_VBP due_JJ to_TO the_DT exponential_JJ loss_NN function_NN ._.
+We_PRP use_VBP logit_JJ loss_NN function_NN that_WDT is_VBZ less_RBR sensitive_JJ to_TO outliers_NNS ._.
+However_RB ,_, as_IN claimed_VBN in_IN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: ,_, any_DT convex_JJ loss_NN function_NN may_MD degenerate_VB to_TO random_JJ guess_NN with_IN a_DT certain_JJ level_NN of_IN random_JJ classification_NN noise_NN ._.
+L2_NN regularization_NN in_IN linear_JJ regression_NN has_VBZ been_VBN shown_VBN to_TO stabilize_VB the_DT learning_NN function_NN

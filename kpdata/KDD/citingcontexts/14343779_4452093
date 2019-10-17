@@ -1,0 +1,4 @@
+is_VBZ desirable_JJ to_TO maximize_VB the_DT impact_NN by_IN focusing_VBG on_IN advertisements_NNS that_WDT have_VBP high_JJ impression_NN counts_NNS ._.
+Algorithm_NN 3_CD Priority_NN Sampling_NN Ads_NNS from_IN a_DT Bin_NNP ._.
+We_PRP use_VBP the_DT following_JJ priority-sampling_JJ algorithm_NN from_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: to_TO select_VB ads_NNS from_IN a_DT given_VBN bin_NN for_IN near-optimally_RB low_JJ variance_NN ._.
+1_CD :_: for_IN each_DT advertisement_NN i_FW with_IN impressions_NNS wi_RB do_VBP 2_CD :_: pick_NN pi_NN uniformly_RB at_IN random_JJ from_IN -LRB-_-LRB- 0_CD ,_, 1_LS -RRB-_-RRB- 3_CD :_: let_VB priority_NN qi_IN =_JJ wi\/pi_NN 4_CD :_: end_NN for_IN 5_CD :_:

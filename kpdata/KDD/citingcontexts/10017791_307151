@@ -1,0 +1,4 @@
+nalized_JJ tag_NN recommender_NN outperforms_VBZ any_DT non-personalized_JJ tag_NN recommender_NN ._.
+Tensor_NNP Factorization_NNP ._.
+While_IN the_DT idea_NN of_IN computing_VBG low_JJ rank_NN approximations_NNS for_IN tensors_NNS has_VBZ already_RB been_VBN used_VBN for_IN many_JJ purposes_NNS =_JJ -_: =[_NN 7_CD ,_, 11_CD ,_, 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, it_PRP has_VBZ just_RB recently_RB been_VBN applied_VBN for_IN the_DT problem_NN of_IN personalized_JJ tag_NN recommendations_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+In_IN this_DT approach_NN ,_, HOSVD_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- is_VBZ applied_VBN for_IN computing_VBG a_DT low_JJ rank_NN approximation_NN of_IN the_DT original_JJ tensor_NN ,_, thro_NN

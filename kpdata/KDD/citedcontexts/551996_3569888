@@ -1,0 +1,4 @@
+e_LS study_NN the_DT problem_NN of_IN clustering_VBG a_DT data_NN stream_NN of_IN categorical_JJ attributes_NNS ._.
+Data_NN streams_NNS of_IN such_JJ nature_NN ,_, e.g._FW ,_, transactions_NNS ,_, database_NN records_NNS ,_, Web_NN logs_NNS ,_, etc._FW ,_, are_VBP becoming_VBG common_JJ in_IN many_JJ organizations_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Yet_RB ,_, clustering_VBG a_DT categorical_JJ data_NN stream_NN remains_VBZ a_DT difficult_JJ problem_NN ._.
+Besides_IN the_DT dimensionality_NN and_CC sparsity_NN issue_NN inherent_JJ in_IN categorical_JJ data_NNS sets_NNS ,_, there_EX are_VBP now_RB additionalsstream-related_JJ constr_NN

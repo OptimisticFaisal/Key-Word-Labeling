@@ -1,0 +1,3 @@
+from_IN N_NN µ_FW d_FW k_NN -LRB-_-LRB- am_VBP :_: am_VBP +_CC L_NN −_NN 1_CD -RRB-_-RRB- ,_, C_NN d_NN k_NN -LRB-_-LRB- am_VBP :_: am_VBP +_CC L_NN −_NN 1_CD -RRB-_-RRB- •_CD generate_VBP offsets_NNS in_IN the_DT measurement_NN space_NN Y_NN d_NN =_JJ ˆ_CD Y_NN d_NN +_CC δ_NN d_NN ._.
+4.2_CD Parameter_NN Estimation_NN We_PRP employ_VBP the_DT expectation_NN maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- algorithm_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: to_TO learn_VB maximum_JJ likelihood_NN estimates_NNS of_IN the_DT model_NN parameters_NNS from_IN the_DT observed_VBN curves_NNS ,_, as_IN is_VBZ usual_JJ for_IN models_NNS with_IN latent_JJ structure_NN ._.
+The_DT algorithm_NN starts_VBZ from_IN a_DT random_JJ initialization_NN of_IN parameter_NN va_NN

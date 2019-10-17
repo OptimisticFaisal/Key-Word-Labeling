@@ -1,0 +1,3 @@
+SimUntil_NN =_JJ TS_NN -LRB-_-LRB- Ui_NN ,_, Uj_NN -RRB-_-RRB- Calculate_VBP DistanceNode_NN =_JJ 1_CD −_FW SimUntil_FW end_NN if_IN 5.4_CD Linguistic_JJ Comparison_NN The_DT Linguistic_JJ comparison_NN module_NN calculates_VBZ the_DT linguistic_JJ similarity_NN between_IN two_CD labels_NNS based_VBN on_IN their_PRP$ names_NNS =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT labels_NNS are_VBP often_RB formed_VBN by_IN a_DT combination_NN of_IN words_NNS and_CC can_MD contain_VB abbreviations_NNS ._.
+To_TO obtain_VB a_DT linguistic_JJ distance_NN between_IN two_CD strings_NNS ,_, we_PRP use_VBP existing_VBG algorithms_NNS :_: NGram_NN ,_, Check_VB synonym_NN ,_, Check_VB abbr_NN

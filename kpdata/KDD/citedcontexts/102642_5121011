@@ -1,0 +1,4 @@
+rithmic_JJ approximation_NN ratio_NN ._.
+I_PRP have_VBP developed_VBN one_CD tool_NN that_IN I_PRP believe_VBP will_MD be_VB necessary_JJ for_IN such_JJ an_DT algorithm_NN ,_, a_DT local_JJ algorithm_NN for_IN the_DT minimum_JJ cut_NN problem_NN ,_, which_WDT is_VBZ based_VBN on_IN work_NN by_IN Flake_NNP and_CC Giles_NNP =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT algorithm_NN produces_VBZ a_DT 2-approximation_NN of_IN the_DT minimum_JJ cut_NN separating_VBG a_DT given_VBN vertex_NN from_IN the_DT rest_NN of_IN the_DT graph_NN ,_, while_IN examining_VBG only_RB twice_RB the_DT number_NN of_IN vertices_NNS in_IN the_DT minimum_JJ cut_NN ._.
+In_IN the_DT longer_JJR

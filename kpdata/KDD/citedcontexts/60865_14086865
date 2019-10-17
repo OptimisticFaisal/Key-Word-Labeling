@@ -1,0 +1,4 @@
+istently_RB showed_VBD better_JJR performance_NN ._.
+Since_IN we_PRP have_VBP several_JJ heterogeneous_JJ features_NNS ,_, it_PRP seems_VBZ inappropriate_JJ to_TO use_VB traditional_JJ information_NN retrieval_NN techniques_NNS ._.
+Instead_RB ,_, we_PRP use_VBP the_DT ranking_JJ SVM_NN algorithm_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: because_IN it_PRP is_VBZ known_VBN to_TO address_VB such_JJ settings_NNS well_RB ._.
+The_DT ranking_JJ SVM_NN learns_VBZ a_DT ranking_JJ function_NN based_VBN on_IN pairwise_JJ labels_NNS by_IN solving_VBG an_DT optimization_NN problem_NN as_IN follows_VBZ :_: min_NN M_NN -LRB-_-LRB- w_NN -RRB-_-RRB- =_JJ w_NN 1_CD 2_CD |_CD |_CD w_NN |_NNP |_NNP 2_CD +_CC C_NN ∑_FW ξij_FW

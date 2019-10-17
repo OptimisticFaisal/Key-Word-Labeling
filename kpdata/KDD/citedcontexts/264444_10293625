@@ -1,0 +1,5 @@
+ation_NN is_VBZ a_DT loss_NN in_IN integrity_NN of_IN the_DT data_NNS set_NN ._.
+A_DT number_NN of_IN algorithms_NNS have_VBP therefore_RB been_VBN proposed_VBN to_TO generalize_VB a_DT data_NN set_VBN to_TO meet_VB the_DT k_NN --_: anonymity_NN property_NN while_IN resulting_VBG in_IN minimum_JJ information_NN loss_NN =_JJ -_: =[_NN 1_CD ,_, 4_CD ,_, 6_CD ,_, 7_CD ,_, 9_CD ,_, 10_CD ,_, 11_CD ,_, 15_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT standard_JJ approach_NN is_VBZ to_TO progressively_RB generalize_VB the_DT data_NNS until_IN it_PRP is_VBZ k_NN --_: anonymous_JJ ._.
+Such_PDT an_DT approach_NN can_MD not_RB guarantee_VB optimality_NN if_IN different_JJ attributes_NNS carry_VBP different_JJ levels_NNS of_IN significance_NN ._.
+F_NN

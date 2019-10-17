@@ -1,0 +1,4 @@
+lly_NN trees_NNS ._.
+To_TO get_VB information_NN about_IN a_DT newly_RB sequenced_VBN RNA_NN ,_, they_PRP compare_VBP it_PRP with_IN known_JJ RNA_NN structures_NNS ,_, looking_VBG for_IN common_JJ topological_JJ patterns_NNS ,_, which_WDT provide_VBP important_JJ clues_NNS to_TO the_DT function_NN of_IN the_DT RNA_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN we_PRP introduce_VBP TreeMiner_NNP ,_, an_DT efficient_JJ algorithm_NN for_IN the_DT problem_NN of_IN mining_NN frequent_JJ subtrees_NNS in_IN a_DT forest_NN -LRB-_-LRB- the_DT database_NN -RRB-_-RRB- ._.
+The_DT key_JJ contributions_NNS of_IN our_PRP$ work_NN are_VBP as_IN follows_VBZ :_: 1_LS -RRB-_-RRB- We_PRP introduce_VBP

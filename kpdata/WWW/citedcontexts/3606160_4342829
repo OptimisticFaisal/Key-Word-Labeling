@@ -1,0 +1,4 @@
+provide_VBP results_NNS useful_JJ for_IN online_JJ decision_NN making_NN ._.
+For_IN generating_VBG the_DT result_NN of_IN a_DT query_NN ,_, data_NNS from_IN multiple_JJ sources_NNS is_VBZ required_VBN ._.
+As_IN a_DT result_NN ,_, the_DT query_NN has_VBZ to_TO be_VB evaluated_VBN either_CC at_IN data_NNS aggregators_NNS =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: or_CC at_IN the_DT client_NN ._.
+In_IN this_DT paper_NN we_PRP assume_VBP existence_NN of_IN data_NNS dissemination_NN network_NN of_IN multiple_JJ data_NNS items_NNS to_TO answer_VB a_DT class_NN of_IN queries_NNS termed_VBN ,_, continuous_JJ incoherency_NN bounded_VBD weighted_JJ aggregation_NN queri_NNS

@@ -1,0 +1,6 @@
+tics_NNS for_IN improving_VBG efficiency_NN Crammer_NNP and_CC Singer_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- employed_VBN two_CD heuristics_NNS to_TO speed_VB up_RP their_PRP$ algorithm_NN ._.
+We_PRP employ_VBP these_DT heuristics_NNS for_IN SDM_NNP too_RB ._.
+We_PRP now_RB discuss_VBP these_DT heuristics_NNS ._.
+Shrinking_VBG ._.
+Shrinking_VBG =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT technique_NN for_IN removing_VBG variables_NNS that_WDT are_VBP not_RB expected_VBN to_TO change_VB ,_, is_VBZ known_VBN to_TO be_VB a_DT very_RB good_JJ way_NN to_TO speed_VB up_RP decomposition_NN methods_NNS for_IN binary_JJ SVMs_NNS ._.
+In_IN the_DT multi-class_JJ case_NN ,_, it_PRP may_MD turn_VB out_RP that_DT fo_NN

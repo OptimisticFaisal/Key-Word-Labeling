@@ -1,0 +1,3 @@
+ady_RB trained_VBN model_NN of_IN the_DT domain_NN ,_, and_CC thus_RB the_DT learning_NN has_VBZ been_VBN done_VBN offline_JJ ,_, but_CC we_PRP have_VBP the_DT option_NN to_TO acquire_VB labels_NNS to_TO seed_NN the_DT classification_NN during_IN inference_NN ._.
+This_DT is_VBZ the_DT setting_VBG Rattigan_NNP et_FW al._FW =_SYM -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: introduced_VBN and_CC referred_VBN to_TO as_IN ``_`` active_JJ inference_NN ._. ''_''
+They_PRP looked_VBD at_IN the_DT relational_JJ network_NN classifier_NN ,_, introduced_VBN by_IN Macskassy_NNP and_CC Provost_NNP -LRB-_-LRB- 14_CD -RRB-_-RRB- in_IN which_WDT there_EX are_VBP no_DT node_NN attributes_VBZ ;_: only_RB labels_NNS are_VBP pro_JJ

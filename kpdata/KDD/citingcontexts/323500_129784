@@ -1,0 +1,3 @@
+ric_JJ single_JJ components_NNS ,_, xi_FW ,_, and_CC particular_JJ single_JJ components_NNS ,_, x5_NN ._.
+Our_PRP$ system_NN uses_VBZ Prolog-terms_NNS ;_: a_DT theory_NN of_IN indexed_VBN Bayesian_JJ networks_NNS ,_, where_WRB indices_NNS are_VBP represented_VBN as_IN Prolog_NNP variables_NNS is_VBZ developed_VBN in_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT conditions_NNS required_VBN on_IN the_DT depends-literals_NNS 2_CD are_VBP as_IN follows_VBZ :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- each_DT term_NN in_IN the_DT second_JJ argument_NN matches_VBZ a_DT term_NN in_IN the_DT rst_JJ argument_NN of_IN some_DT other_JJ depends-literals_NNS ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- any_DT variable_NN in_IN the_DT seco_NN

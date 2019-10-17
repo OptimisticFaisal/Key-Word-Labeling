@@ -1,0 +1,4 @@
+sequences_NNS of_IN latitude_NN ,_, longitude_NN ,_, and_CC intensity_NN tuples_NNS observed_VBN over_IN time_NN ._.
+Clustering_NN is_VBZ usually_RB performed_VBN on_IN just_RB the_DT latitude-longitude_JJ position_NN measurements_NNS over_IN time_NN ._.
+For_IN example_NN ,_, Blender_NNP et_FW al._FW =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: convert_VB the_DT two-dimensional_JJ lat-lon_JJ trajectories_NNS into_IN fixed-dimensional_JJ vectors_NNS for_IN clustering_NN by_IN the_DT K-means_NNS algorithm_NN ._.
+In_IN our_PRP$ prior_RB published_VBN work_NN on_IN this_DT data_NNS we_PRP have_VBP focused_VBN on_IN parametric_JJ model-b_NN

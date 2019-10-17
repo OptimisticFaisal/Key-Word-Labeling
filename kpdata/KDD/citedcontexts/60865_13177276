@@ -1,0 +1,3 @@
+ning-to-rank_JJ methods_NNS are_VBP the_DT state-of-the-art_JJ in_IN document_NN retrieval_NN ._.
+These_DT methods_NNS learn_VBP to_TO rank_VB individual_JJ documents_NNS based_VBN on_IN features_NNS derived_VBN from_IN the_DT query_NN -LRB-_-LRB- e.g._FW ,_, whether_IN it_PRP contains_VBZ a_DT domain_NN name_NN =_JJ -_: =[_NN 56_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, the_DT document_NN -LRB-_-LRB- e.g._FW ,_, its_PRP$ PageRank_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- -RRB-_-RRB- ,_, and_CC 5_CD In_IN an_DT operational_JJ environment_NN ,_, algorithms_NNS can_MD be_VB tested_VBN based_VBN on_IN implicit_JJ user_NN feedback_NN -LRB-_-LRB- clicks_NNS and_CC skips_NNS -RRB-_-RRB- -LRB-_-LRB- 28_CD ,_, 78_CD -RRB-_-RRB- ._.
+9the_NN query-document_NN pair_NN -LRB-_-LRB- e.g._FW ,_, i_FW

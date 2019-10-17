@@ -1,0 +1,5 @@
+of_IN the_DT distribution_NN of_IN 1334_CD dialect_NN features_NNS -LRB-_-LRB- rows_NNS -RRB-_-RRB- across_IN 506_CD municipalities_NNS of_IN Finland_NNP -LRB-_-LRB- columns_NNS -RRB-_-RRB- ._.
+Each_DT municipality_NN is_VBZ additionally_RB characterized_VBN by_IN two_CD spatial_JJ coordinates_VBZ ._.
+The_DT Jester_NNP joke_NN dataset_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: contains_VBZ users_NNS '_POS ratings_NNS of_IN 100_CD jokes_NNS in_IN a_DT real_JJ range_NN -LRB-_-LRB- −_NN 10_CD ,_, 10_CD -RRB-_-RRB- ._.
+We_PRP considered_VBD only_RB users_NNS that_WDT had_VBD rated_VBN all_DT 100_CD jokes_NNS ,_, yielding_VBG 14_CD 116_CD ×_CD 100_CD matrix_NN ._.
+We_PRP made_VBD this_DT matrix_NN nonnegative_JJ via_IN adding_VBG 10_CD to_TO all_DT

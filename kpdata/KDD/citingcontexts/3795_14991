@@ -1,0 +1,5 @@
+r_NN existence_NN may_MD simply_RB be_VB due_JJ to_TO chance_NN rather_RB than_IN true_JJ correlation_NN ._.
+Thus_RB ,_, those_DT spurious_JJ and_CC insignificant_JJ rules_NNS should_MD be_VB removed_VBN ._.
+This_DT is_VBZ similar_JJ to_TO pruning_NN of_IN overfitting_JJ rules_NNS in_IN classification_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Rules_NNS that_WDT are_VBP very_RB specific_JJ -LRB-_-LRB- with_IN many_JJ conditions_NNS -RRB-_-RRB- tend_VBP to_TO overfit_VB the_DT data_NNS and_CC have_VBP little_JJ predictive_JJ power_NN ._.
+Although_IN association_NN rules_NNS are_VBP not_RB normally_RB used_VBN for_IN prediction_NN ,_, rules_NNS that_WDT only_RB captur_VBP

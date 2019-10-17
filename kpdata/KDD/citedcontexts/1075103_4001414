@@ -1,0 +1,3 @@
+rch_NN over_IN each_DT edge_NN type_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, a_DT gradient_NN descent_NN algorithm_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, a_DT hill-climbing_JJ error_NN backpropagation_NN algorithm_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, and_CC a_DT hill-climbing_JJ approximation_NN algorithm_NN adapted_VBN for_IN partial_JJ order_NN preferences_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT common_JJ property_NN of_IN these_DT methods_NNS is_VBZ that_IN they_PRP decompose_VBP the_DT graph_NN walk_NN into_IN single_JJ steps_NNS ,_, thus_RB performing_VBG optimization_NN ``_`` locally_RB ''_'' ._.
+As_IN a_DT case_NN study_NN of_IN these_DT methods_NNS ,_, we_PRP follow_VBP closely_RB in_IN this_DT paper_NN

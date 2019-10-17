@@ -1,0 +1,4 @@
+art_NN algorithms_NNS ._.
+Categories_NNS and_CC Subject_NNP Descriptors_NNP I._NNP 2.6_CD -LRB-_-LRB- Artificial_JJ Intelligence_NNP -RRB-_-RRB- :_: Learning_NNP General_NNP Terms_NNS Algorithms_NNS ,_, Experimentation_NN 1_CD ._.
+INTRODUCTION_NN Spectral_JJ learning_NN methods_NNS such_JJ as_IN normalized_VBN cut_NN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP increasingly_RB being_VBG applied_VBN to_TO many_JJ learning_VBG tasks_NNS such_JJ as_IN document_NN clustering_NN and_CC image_NN segmentation_NN ._.
+Exploiting_VBG the_DT information_NN in_IN the_DT eigenvectors_NNS of_IN a_DT data_NN similarity_NN matrix_NN to_TO find_VB the_DT intrin_NN

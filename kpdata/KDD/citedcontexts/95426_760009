@@ -1,0 +1,4 @@
+lgorithm_NN with_IN the_DT increasing_VBG in_IN the_DT number_NN of_IN levels_NNS used_VBN to_TO result_VB in_IN the_DT final_JJ solution_NN of_IN the_DT divide_NN and_CC conquer_VB algorithm_NN ._.
+This_DT techniques_NNS has_VBZ been_VBN studied_VBN analytically_RB ._.
+Domingos_NNP et_FW al._FW -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP proposed_VBN a_DT general_JJ method_NN for_IN scaling_VBG up_RP machine_NN learning_NN algorithms_NNS ._.
+This_DT method_NN depends_VBZ on_IN determining_VBG an_DT upper_JJ bound_VBN for_IN the_DT learner_NN 's_POS loss_NN as_IN a_DT function_NN in_IN number_NN of_IN examples_NNS in_IN each_DT step_NN of_IN

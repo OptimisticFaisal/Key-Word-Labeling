@@ -1,0 +1,4 @@
+at_IN position_NN j_NN with_IN the_DT input_NN sequence_NN i270_FW i_FW around_IN position_NN j_NN ,_, λi_FW is_VBZ the_DT corresponding_JJ feature_NN weight_NN ,_, and_CC Z_NN -LRB-_-LRB- x_NN -RRB-_-RRB- is_VBZ the_DT normalization_NN factor_NN ._.
+2.7_CD SemiCRFs_NNS with_IN dictionary_NN features_NNS Two_CD recent_JJ papers_NNS -LRB-_-LRB- =_JJ -_: =_JJ Cohen_NNP and_CC Sarawagi_NNP ,_, 2004_CD -_: =_JJ -_: ;_: Sarawagi_NNP and_CC Cohen_NNP ,_, 2004_CD -RRB-_-RRB- compared_VBD a_DT number_NN of_IN methods_NNS for_IN using_VBG dictionaries_NNS with_IN CRF-like_JJ learning_NN methods_NNS ._.
+The_DT best_JJS results_NNS were_VBD obtained_VBN with_IN a_DT new_JJ learning_NN method_NN called_VBN semiCRFs_NNP ._.
+SemiCRFs_NN cons_NNS

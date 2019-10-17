@@ -1,0 +1,4 @@
+operates_VBZ as_IN hybrid_NN between_IN a_DT wrapper_NN and_CC a_DT filter_NN approach_NN ._.
+The_DT filter_NN approach_NN applies_VBZ for_IN each_DT feature_NN a_DT measure_NN of_IN importance_NN that_WDT is_VBZ independent_JJ of_IN the_DT learning_NN algorithm_NN that_WDT will_MD be_VB used_VBN ._.
+Hall_NN =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: provides_VBZ a_DT comparison_NN of_IN filters_NNS and_CC wrappers_NNS ,_, as_RB well_RB as_IN an_DT overview_NN of_IN feature_NN selection_NN ._.
+He_PRP favors_VBZ the_DT filter_NN approach_NN due_JJ to_TO its_PRP$ much_RB higher_JJR scalability_NN ,_, but_CC in_IN his_PRP$ discussion_NN it_PRP is_VBZ mentioned_VBN tha_NN

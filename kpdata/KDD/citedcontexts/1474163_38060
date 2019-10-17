@@ -1,0 +1,5 @@
+-LRB-_-LRB- KSSB90_NN -RRB-_-RRB- ._.
+A_DT blend_VBP of_IN attribute_NN transformations_NNS -LRB-_-LRB- DFT_NNP ,_, Polynomials_NNP -RRB-_-RRB- and_CC indexing_NN technique_NN is_VBZ presented_VBN in_IN -LRB-_-LRB- KCPM01_NN -RRB-_-RRB- ._.
+Other_JJ indices_NNS and_CC numerous_JJ generalizations_NNS exist_VBP -LRB-_-LRB- BBK98_NN -RRB-_-RRB- ,_, -LRB-_-LRB- BKS90_NN -RRB-_-RRB- ,_, -LRB-_-LRB- FRM94_NN -RRB-_-RRB- ,_, -LRB-_-LRB- KH00_NN -RRB-_-RRB- ,_, =_JJ -_: =_JJ -LRB-_-LRB- KCP01_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT major_JJ application_NN of_IN such_JJ data_NNS structures_NNS is_VBZ in_IN nearest_JJS neighbors_NNS search_NN ._.
+Preprocessing_VBG of_IN multimedia_NNS data_NNS that_WDT is_VBZ based_VBN on_IN its_PRP$ embedding_NN in_IN Euclidean_JJ space_NN -LRB-_-LRB- algorithm_NN FastMap_NN -RRB-_-RRB- is_VBZ presented_VBN in_IN F_NN

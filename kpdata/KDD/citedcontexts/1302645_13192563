@@ -1,0 +1,4 @@
+g_NN set_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+Ding_NNP and_CC He_PRP -LRB-_-LRB- 12_CD -RRB-_-RRB- report_VBP that_IN the_DT k-mutual_NN nearest_JJS neighbor_NN -LRB-_-LRB- kMN_NN -RRB-_-RRB- consistency_NN 5_CD can_MD be_VB used_VBN to_TO improve_VB the_DT performance_NN of_IN K-means_NNS algorithm_NN ,_, which_WDT is_VBZ the_DT most_RBS popular_JJ clustering_NN method_NN ._.
+In_IN =_JJ -_: =[_NN 6,18,34,48_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT authors_NNS study_NN applications_NNS of_IN the_DT k-mutual_JJ neighborhood_NN graph_NN 6_CD -LRB-_-LRB- 21_CD -RRB-_-RRB- -LRB-_-LRB- that_WDT can_MD be_VB computed_VBN with_IN MNN_NN retrieval_NN -RRB-_-RRB- for_IN knowledge_NN discovery_NN ._.
+In_IN particular_JJ ,_, the_DT authors_NNS discuss_VBP the_DT application_NN of_IN k-mu_NN

@@ -1,0 +1,5 @@
+ns_NNS ._.
+Both_DT of_IN these_DT limitations_NNS were_VBD addressed_VBN and_CC overcome_VBN in_IN this_DT paper_NN ._.
+Interestingly_RB ,_, the_DT computation_NN of_IN network_NN effect_NN -LRB-_-LRB- see_VB Equation_NN 7_CD -RRB-_-RRB- is_VBZ very_RB similar_JJ to_TO the_DT PageRank_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- algorithm_NN ,_, used_VBN by_IN Google_NNP =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: for_IN determining_VBG important_JJ web_NN pages_NNS ._.
+In_IN PageRank_NNP ,_, a_DT web_NN page_NN is_VBZ valued_VBN highly_RB if_IN many_JJ highly_RB valued_VBN pages_NNS point_VBP to_TO it_PRP ._.
+Similarly_RB ,_, in_IN viral_JJ marketing_NN a_DT customer_NN is_VBZ valued_VBN highly_RB if_IN he_PRP influences_VBZ many_JJ

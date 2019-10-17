@@ -1,0 +1,5 @@
+nnot_NN be_VB easily_RB used_VBN in_IN the_DT context_NN of_IN an_DT on-demand_JJ classifier_NN in_IN an_DT evolving_VBG environment_NN ._.
+The_DT concept_NN drifting_VBG problem_NN in_IN stream_NN data_NNS classification_NN has_VBZ been_VBN addressed_VBN by_IN several_JJ authors_NNS ._.
+Wang_NNP et_FW al._FW =_SYM -_: =[_NN 50_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP proposed_VBN a_DT general_JJ framework_NN for_IN mining_NN concept_NN drifting_VBG data_NNS streams_NNS ._.
+The_DT proposed_VBN technique_NN uses_VBZ weighted_JJ classifier_NN ensembles_NNS to_TO mine_VB data_NNS streams_NNS ._.
+Last_JJ -LRB-_-LRB- 40_CD -RRB-_-RRB- has_VBZ proposed_VBN an_DT online_NN classifica_NN

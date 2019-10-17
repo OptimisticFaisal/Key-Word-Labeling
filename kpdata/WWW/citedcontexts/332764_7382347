@@ -1,0 +1,4 @@
+from_IN untrusted_JJ sources_NNS ._.
+The_DT stringtaint_JJ analysis_NN that_IN we_PRP use_VBP represents_VBZ sets_NNS of_IN string_NN values_NNS with_IN context_NN free_JJ grammars_NNS ,_, and_CC models_NNS the_DT semantics_NNS of_IN string_NN operations_NNS using_VBG finite_JJ state_NN transducers_NNS =_JJ -_: =[_NN 18_CD ,_, 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT second_JJ phase_NN of_IN our_PRP$ approach_NN enforces_VBZ the_DT policy_NN that_WDT generated_VBD web_NN pages_NNS include_VBP no_DT untrusted_JJ scripts_NNS ._.
+In_IN order_NN to_TO generate_VB the_DT right_JJ low-level_JJ description_NN of_IN this_DT high-level_JJ policy_NN ,_, we_PRP must_MD co_VB

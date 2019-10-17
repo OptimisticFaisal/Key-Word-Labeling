@@ -1,0 +1,5 @@
+t_NN a_DT range_NN that_WDT includes_VBZ -LRB-_-LRB- 12_CD ,_, 19_CD -RRB-_-RRB- ._.
+If_IN bias_NN =_JJ 0.5_CD ,_, then_RB the_DT node_NN reports_NNS -LRB-_-LRB- 10.5_CD ,_, 20.5_CD -RRB-_-RRB- to_TO its_PRP$ parent_NN to_TO filter_NN out_RP small_JJ deviations_NNS around_IN the_DT current_JJ position_NN ._.
+Conversely_RB ,_, if_IN bias_NN =_JJ 0_CD ,_, the_DT node_NN reports_VBZ =_JJ -_: =[_NN 12_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: to_TO filter_NN out_IN the_DT maximal_JJ number_NN of_IN updates_NNS of_IN increasing_VBG values_NNS ._.
+Self-Tuning_NNP Error_NNP Budgets_NNPS ._.
+A_DT key_JJ AI_NN policy_NN question_NN is_VBZ how_WRB to_TO divide_VB a_DT given_VBN error_NN budget_NN δroot_NN across_IN the_DT nodes_NNS in_IN an_DT aggregation_NN tr_NN

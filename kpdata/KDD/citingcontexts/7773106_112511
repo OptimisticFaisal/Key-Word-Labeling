@@ -1,0 +1,4 @@
+a_DT network_NN component_NN would_MD help_VB forecast_VB the_DT possible_JJ types_NNS of_IN messages_NNS it_PRP will_MD generate_VB ._.
+These_DT structural_JJ constraints_NNS can_MD be_VB naturally_RB represented_VBN using_VBG naive_JJ Bayes_NNP algorithm_NN and_CC hidden_JJ Markov_NNP models_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT section_NN ,_, we_PRP describe_VBP two_CD approaches_NNS of_IN utilizing_VBG the_DT temporal_JJ information_NN to_TO improve_VB classification_NN performance_NN ._.
+Our_PRP$ experiments_NNS in_IN Section_NNP 5_CD show_VBP that_IN both_DT approaches_NNS greatly_RB improve_VBP the_DT ca_MD

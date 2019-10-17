@@ -1,0 +1,4 @@
+for_IN data_NNS mining_NN and_CC some_DT PCA-based_JJ clustering_NN methods_NNS have_VBP been_VBN developed_VBN in_IN the_DT past_NN -LRB-_-LRB- 13_CD ,_, 14_CD -RRB-_-RRB- ._.
+PCA_NNP has_VBZ also_RB been_VBN extensively_RB applied_VBN extensively_RB in_IN the_DT field_NN of_IN face_NN recognition_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+The_DT authors_NNS in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT supervised_JJ PCA_NN model_NN called_VBN SPPCA_NNP ,_, whereby_WRB they_PRP extended_VBD PCA_NNP to_TO incorporate_VB label\/class_NN information_NN into_IN the_DT projection_NN phase_NN ._.
+Correlation_NN Clustering_NN :_: Correlation_NN clustering_NN aims_VBZ at_IN groupi_NNS

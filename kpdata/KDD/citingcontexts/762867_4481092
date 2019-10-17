@@ -1,0 +1,5 @@
+rmation_NN that_IN ,_, implicitly_RB or_CC explicitly_RB ,_, requires_VBZ knowledge_NN of_IN the_DT resolved_VBN entities_NNS ._.
+For_IN example_NN ,_, we_PRP may_MD query_VB the_DT CiteSeer_NNP database_NN of_IN computer_NN science_NN publications_NNS looking_VBG for_IN books_NNS by_IN `_`` S_NNP Russell_NNP '_POS -LRB-_-LRB- =_JJ -_: =_JJ Pasula_NNP ,_, Marthi_NNP ,_, Milch_NNP ,_, Russell_NNP ,_, &_CC Shpitser_NNP ,_, 2003_CD -_: =--RRB-_NN ._.
+This_DT query_NN would_MD be_VB easy_JJ to_TO answer_VB if_IN all_DT author_NN names_NNS in_IN CiteSeer_NNP were_VBD correctly_RB mapped_VBN to_TO their_PRP$ entities_NNS ._.
+But_CC ,_, unfortunately_RB ,_, this_DT is_VBZ not_RB the_DT case_NN ._.
+According_VBG to_TO CiteSeer_NNP records_NNS ,_, Stuart_NNP Russell_NNP a_DT

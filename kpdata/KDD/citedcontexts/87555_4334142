@@ -1,0 +1,5 @@
+ational_JJ Conference_NNP on_IN Machine_NNP Learning_NNP ,_, Pittsburgh_NNP ,_, PA_NN ,_, 2006_CD ._.
+Copyright_NN 2006_CD by_IN the_DT author_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- \/_: owner_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- ._.
+many_JJ practical_JJ applications_NNS ._.
+There_EX is_VBZ a_DT rich_JJ tradition_NN of_IN cost-sensitive_JJ learning_NN -LRB-_-LRB- Elkan_NNP ,_, 2001_CD ;_: =_JJ -_: =_JJ Domingos_NNP ,_, 1999_CD -_: =--RRB-_NN applied_VBN to_TO independent_JJ and_CC identically_RB distributed_VBN -LRB-_-LRB- IID_NN -RRB-_-RRB- data_NNS for_IN applications_NNS such_JJ as_IN targeted_VBN marketing_NN and_CC fraud_NN &_CC intrusion_NN detection_NN ._.
+These_DT approaches_NNS assume_VBP the_DT traditional_JJ machine_NN learning_NN se_FW

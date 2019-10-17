@@ -1,0 +1,3 @@
+To_TO address_VB this_DT issue_NN ,_, we_PRP propose_VBP very_RB low_JJ overhead_JJ admission_NN control_NN mechanisms_NNS that_WDT can_MD scale_VB to_TO very_RB high_JJ request_NN rates_NNS under_IN overloads_NNS ._.
+Past_JJ work_NN on_IN admission_NN control_NN -LRB-_-LRB- Cherkasova_NNP and_CC Phaal_NNP ,_, 1999_CD ;_: =_JJ -_: =_JJ Elnikety_NNP et_FW al._FW ,_, 2004_CD -_: =_JJ -_: ;_: Verma_NNP and_CC Ghosal_NNP ,_, 2003_CD ;_: Welsh_NNP and_CC Culler_NNP ,_, 2003_CD -RRB-_-RRB- has_VBZ focused_VBN on_IN the_DT mechanics_NNS of_IN policing_VBG and_CC did_VBD not_RB specifically_RB consider_VB the_DT scalability_NN of_IN these_DT mechanisms_NNS ._.
+In_IN addition_NN to_TO imposing_VBG veryAuthor_NN 's_POS

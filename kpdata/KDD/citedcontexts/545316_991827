@@ -1,0 +1,5 @@
+ift_NN would_MD be_VB 2.0_CD ,_, meaning_VBG the_DT top_JJ 50_CD %_NN are_VBP twice_RB as_RB likely_JJ to_TO respond_VB compared_VBN to_TO the_DT overall_JJ average_NN ._.
+Along_IN with_IN lift_NN ,_, the_DT area_NN under_IN a_DT roc_NN curve_NN -LRB-_-LRB- AUC_NN -RRB-_-RRB- has_VBZ also_RB become_VBN a_DT common_JJ way_NN to_TO evaluate_VB models_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, lift_NN and_CC AUC_NN both_DT measure_NN the_DT same_JJ quantity_NN ,_, which_WDT is_VBZ the_DT difference_NN between_IN using_VBG a_DT model_NN and_CC not_RB using_VBG a_DT model_NN ._.
+Therefore_RB ,_, the_DT results_NNS from_IN using_VBG lift_NN or_CC AUC_NN should_MD be_VB very_RB similar_JJ ._.
+One_CD s_NN

@@ -1,0 +1,4 @@
+lynomial_JJ ,_, Gaussian_JJ RBF_NNP and_CC Neural_NNP Network_NNP classifiers_NNS -RRB-_-RRB- ._.
+SVMs_NNS trained_VBN with_IN different_JJ kernel_NN functions_NNS on_IN the_DT same_JJ database_NN have_VBP been_VBN observed_VBN to_TO select_VB almost_RB identical_JJ data_NN subsets_NNS as_IN support_NN vectors_NNS =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3_LS -RRB-_-RRB- SVMs_NNS trained_VBN with_IN different_JJ kernel_NN functions_NNS on_IN the_DT same_JJ database_NN have_VBP given_VBN rise_NN to_TO similar_JJ high_JJ prediction_NN rates_NNS on_IN novel_JJ data_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ thus_RB tempting_JJ to_TO treat_VB SVM_NN training_NN as_IN a_DT form_NN of_IN model_NN

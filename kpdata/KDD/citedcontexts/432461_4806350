@@ -1,0 +1,3 @@
+mplicity_NN and_CC straightforwardness_NN ,_, Centroid_NNP Classifier_NNP has_VBZ proved_VBN to_TO be_VB an_DT effective_JJ and_CC yet_RB robust_JJ method_NN for_IN text_NN categorization_NN ._.
+However_RB ,_, it_PRP is_VBZ often_RB plagued_VBN with_IN inductive_JJ bias_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- or_CC model_NN misfit_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, Centroid_NNP Classifier_NNP makes_VBZ a_DT simple_JJ assumption_NN that_IN a_DT given_VBN document_NN should_MD be_VB assigned_VBN a_DT particular_JJ class_NN if_IN the_DT similarity_NN of_IN this_DT document_NN to_TO the_DT centroid_NN of_IN the_DT class_NN is_VBZ the_DT largest_JJS ._.

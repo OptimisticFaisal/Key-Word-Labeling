@@ -1,0 +1,4 @@
+remely_RB important_JJ ._.
+The_DT problem_NN of_IN detecting_VBG outliers_NNS -LRB-_-LRB- rare_JJ events_NNS -RRB-_-RRB- has_VBZ been_VBN variously_RB called_VBN in_IN different_JJ research_NN communities_NNS :_: novelty_NN detection_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, chance_NN discovery_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, outlier\/anomaly_JJ detection_NN =_JJ -_: =[_NN 3_CD ,_, 5_CD ,_, 10_CD ,_, 19_CD ,_, 27_CD ,_, 36_CD -RRB-_-RRB- -_: =_JJ -_: ,_, exception_NN mining_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- ,_, mining_NN rare_JJ classes_NNS -LRB-_-LRB- 11_CD ,_, 16-18_CD -RRB-_-RRB- ,_, etc._NN ._.
+Data_NN mining_NN techniques_NNS that_WDT have_VBP been_VBN developed_VBN for_IN this_DT problem_NN are_VBP based_VBN on_IN both_CC supervised_JJ and_CC unsupervised_JJ learning_NN ._.
+Supervised_VBN learn_VBP

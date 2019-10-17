@@ -1,0 +1,4 @@
+lity_NN for_IN the_DT cluster_NN memberships_NNS ._.
+One_CD problem_NN with_IN treating_VBG the_DT side_NN information_NN as_IN hard_JJ constraints_NNS is_VBZ that_IN we_PRP may_MD not_RB be_VB able_JJ to_TO find_VB feasible_JJ solutions_NNS that_WDT are_VBP consistent_JJ with_IN all_PDT the_DT constraints_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO overcome_VB this_DT problem_NN ,_, a_DT number_NN of_IN studies_NNS view_VBP the_DT side_NN information_NN as_IN soft_JJ constraints_NNS ._.
+The_DT key_JJ idea_NN is_VBZ to_TO penalize_VB ,_, not_RB to_TO exclude_VB ,_, the_DT cluster_NN assignments_NNS that_WDT are_VBP inconsistent_JJ with_IN the_DT given_VBN

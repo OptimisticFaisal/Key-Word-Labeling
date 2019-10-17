@@ -1,0 +1,4 @@
+ese_NN cases_NNS within_IN the_DT constraints_NNS imposed_VBN by_IN mobile_JJ devices_NNS ._.
+In_IN IR_NNP ,_, many_JJ different_JJ methods_NNS for_IN generating_VBG query_JJ recommendations_NNS and_CC expansions_NNS have_VBP been_VBN pursued_VBN ._.
+Among_IN methods_NNS that_WDT utilize_VBP query_NN logs_NNS ,_, =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: combined_VBN a_DT model_NN of_IN sequential_JJ search_NN behavior_NN with_IN content-based_JJ similarity_NN to_TO recommend_VB related_JJ queries_NNS ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- used_VBD probabilistic_JJ correlations_NNS between_IN query_JJ words_NNS and_CC document_NN words_NNS in_IN the_DT query_NN log_NN

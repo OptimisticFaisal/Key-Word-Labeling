@@ -1,0 +1,6 @@
+to_TO start_VB forwarding_NN a_DT new_JJ moderation_NN ,_, as_IN there_EX is_VBZ not_RB user_NN interaction_NN required_VBN ._.
+The_DT trust_NN issue_NN is_VBZ a_DT big_JJ problem_NN ._.
+Much_JJ effort_NN has_VBZ gone_VBN into_IN the_DT research_NN and_CC development_NN of_IN distributed_VBN trust_NN systems_NNS =_JJ -_: =[_NN 20_CD ,_, 42_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB no_DT peer-to-peer_NN system_NN has_VBZ been_VBN able_JJ to_TO guarantee_VB trust_NN ._.
+We_PRP have_VBP chosen_VBN to_TO enable_VB peers_NNS to_TO block_VB moderations_NNS from_IN certain_JJ moderators_NNS ._.
+This_DT allows_VBZ them_PRP to_TO block_VB moderators_NNS who_WP send_VBP moderation_NN

@@ -1,0 +1,4 @@
+lute_NN expression_NN levels_NNS ._.
+For_IN example_NN ,_, a_DT transcription_NN factor_NN may_MD be_VB able_JJ to_TO perform_VB its_PRP$ function_NN at_IN a_DT very_RB different_JJ concentration_NN from_IN its_PRP$ target_NN genes_NNS ._.
+Recently_RB ,_, order-preserving_JJ submatrixes_NNS -LRB-_-LRB- OPSMs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN introduced_VBN and_CC accepted_VBN as_IN a_DT biologically_RB meaningful_JJ patternbased_JJ subspace_NN cluster_NN model_NN ._.
+An_DT OPSM_NNP ,_, essentially_RB a_DT subspace_NN cluster_NN ,_, is_VBZ a_DT subset_NN of_IN rows_NNS and_CC columns_NNS in_IN a_DT data_NN matrix_NN where_WRB all_DT

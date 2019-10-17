@@ -1,0 +1,4 @@
+o_NN provide_VBP a_DT similarity_NN measure_NN ._.
+Mannila_FW et_FW al._FW discuss_VBP mining_NN of_IN clusters_NNS formed_VBN by_IN a_DT model_NN using_VBG global_JJ techniques_NNS such_JJ as_IN probabilistic_JJ modeling_NN and_CC local_JJ techniques_NNS such_JJ as_IN frequent_JJ itemset_NN mining_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Hollmen_NNP ,_, Seppanen_NNP and_CC Mannila_NNP present_VBP the_DT use_NN of_IN frequent_JJ itemset_JJ mining_NN on_IN clusters_NNS formed_VBN by_IN probabilistic_JJ means_NNS using_VBG Bernoulli_NNP models_NNS in_IN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+Hollmen_FW et_FW al._FW focus_NN on_IN the_DT use_NN of_IN a_DT single_JJ model_NN t_NN

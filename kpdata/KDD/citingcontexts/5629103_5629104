@@ -1,0 +1,4 @@
+VALUATION_NN In_IN this_DT section_NN ,_, we_PRP report_VBP the_DT results_NNS of_IN our_PRP$ experimental_JJ evaluation_NN using_VBG synthetic_NN as_RB well_RB as_IN real_JJ datasets_NNS ._.
+The_DT synthetic_JJ datasets_NNS were_VBD generated_VBN using_VBG the_DT well-known_JJ IBM_NNP data_NNS generator_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: with_IN different_JJ parameter_NN settings_NNS ._.
+The_DT real_JJ dataset_NN records_NNS the_DT purchasing_VBG transactions_NNS of_IN the_DT customers_NNS of_IN a_DT large_JJ Canadian_JJ retailer_NN over_IN a_DT period_NN of_IN several_JJ weeks_NNS ._.
+Since_IN the_DT Customer-Oriented_NNP Catal_NNP

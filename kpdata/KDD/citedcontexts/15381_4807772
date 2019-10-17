@@ -1,0 +1,5 @@
+cterized_VBN E-commerce_NN workload_NN based_VBN on_IN navigation_NN patterns_NNS ._.
+The_DT action_NN of_IN E-commerce_NN customers_NNS is_VBZ captured_VBN using_VBG a_DT Customer_NN Behaviour_NNP Model_NNP Graph_NNP -LRB-_-LRB- CBMG_NNP -RRB-_-RRB- ._.
+A_DT CBMG_NN is_VBZ basically_RB a_DT first-order_JJ Markov_NNP chain_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: with_IN states_NNS representing_VBG what_WP types_NNS of_IN services_NNS a_DT customer_NN may_MD request_VB ._.
+A_DT state_NN can_MD be_VB a_DT single_JJ URL_NN or_CC a_DT group_NN of_IN URLs_NNS providing_VBG similar_JJ services_NNS and_CC having_VBG similar_JJ resource_NN demands_NNS ._.
+Customers_NNS naviga_VBP

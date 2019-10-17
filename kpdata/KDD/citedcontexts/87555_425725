@@ -1,0 +1,4 @@
+ized_VBN learning_NN methods_NNS exist_VBP to_TO tackle_VB such_JJ problems_NNS ._.
+For_IN examIn_NNP Proceedings_NNP of_IN the_DT 19th_JJ Annual_JJ Innovative_JJ Applications_NNS of_IN Artificial_NNP Intelligence_NNP Conference_NNP -LRB-_-LRB- IAAI-07_NN -RRB-_-RRB- ._.
+4_CD ple_NN ,_, the_DT MetaCost_NNP algorithm_NN -LRB-_-LRB- =_JJ -_: =_JJ Domingos_NNP 1999_CD -_: =--RRB-_FW relabels_FW training_NN data_NNS such_JJ that_IN a_DT classifier_NN trained_VBN to_TO minimize_VB classification_NN error_NN on_IN the_DT relabeled_VBN data_NNS will_MD minimize_VB the_DT costs_NNS of_IN misprediction_NN ._.
+However_RB ,_, MetaCost_NNP and_CC other_JJ methods_NNS like_IN it_PRP are_VBP

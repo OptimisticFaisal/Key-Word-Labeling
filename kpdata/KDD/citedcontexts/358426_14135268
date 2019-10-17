@@ -1,0 +1,4 @@
+mental_JJ result_NN shows_VBZ that_IN our_PRP$ algorithm_NN achieves_VBZ high_JJ accuracy_NN and_CC significantly_RB outperforms_VBZ the_DT baseline_NN algorithm_NN ._.
+Related_NNP Work_NNP ._.
+Entity_NNP Matching_NNP has_VBZ been_VBN extensively_RB studied_VBN in_IN different_JJ communities_NNS =_JJ -_: =[_NN 5,6,7,9,11,12,13,14,16,18_CD ,_, 20,21,22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT artificial_JJ intelligence_NN community_NN ,_, machinelearning_VBG based_VBN techniques_NNS -LRB-_-LRB- 5,9,20,21_CD -RRB-_-RRB- usually_RB learned_VBD a_DT classifier_NN -LRB-_-LRB- e.g._FW ,_, decision_NN tree_NN or_CC SVM_NN -RRB-_-RRB- from_IN a_DT given_VBN example_NN set_NN ,_, and_CC used_VBD the_DT classifier_NN to_TO

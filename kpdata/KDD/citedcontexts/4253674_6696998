@@ -1,0 +1,4 @@
+sers_NNS ._.
+In_IN this_DT case_NN ,_, the_DT cost_NN c_NN -LRB-_-LRB- w_NN -RRB-_-RRB- of_IN each_DT observation_NN would_MD vary_VB ,_, and_CC the_DT system_NN would_MD have_VB a_DT constraint_NN on_IN the_DT budget_NN which_WDT can_MD be_VB spent_VBN on_IN observations_NNS ._.
+An_DT algorithm_NN similar_JJ to_TO the_DT one_NN presented_VBN in_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB used_VBN to_TO solve_VB this_DT more_RBR complex_JJ optimization_NN problem_NN ._.
+As_IN discussed_VBN in_IN Section_NN 2_CD ,_, we_PRP can_MD employ_VB more_RBR general_JJ user_NN preferences_NNS ,_, such_JJ as_IN a_DT policy_NN that_WDT asserts_VBZ that_IN each_DT user_NN can_MD be_VB queried_VBN only_RB ℓ_SYM

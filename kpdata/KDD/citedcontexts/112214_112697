@@ -1,0 +1,4 @@
+,_, or_CC postal_JJ mail_NN ._.
+A_DT number_NN of_IN web-based_JJ personalized_JJ recommender_NN systems_NNS have_VBP been_VBN proposed_VBN recently_RB -LRB-_-LRB- Resnick_NNP and_CC Varian_NNP ,_, 1997_CD ;_: Shardanand_NNP and_CC Maes_NNP ,_, 1995_CD ;_: Konstan_NNP et_FW al._FW ,_, 1997_CD ;_: Borchers_NNP et_FW al._FW ,_, 1998_CD ;_: =_JJ -_: =_JJ Aggarwal_NNP et_FW al._FW ,_, 1999_CD -_: =_JJ -_: ;_: Personalization_NNP Summit_NNP ,_, 1999_CD -RRB-_-RRB- ._.
+Personalization_NN works_VBZ by_IN filtering_VBG a_DT candidate_NN set_NN of_IN items_NNS -LRB-_-LRB- such_JJ as_IN products_NNS or_CC web_NN pages_NNS -RRB-_-RRB- through_IN some_DT representation_NN of_IN a_DT personal_JJ profile_NN ._.
+Two_CD main_JJ paradigms_NNS for_IN t_NN

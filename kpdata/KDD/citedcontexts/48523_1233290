@@ -1,0 +1,4 @@
+Even_RB if_IN they_PRP could_MD be_VB re-trained_VBN ,_, we_PRP would_MD need_VB -LRB-_-LRB- perfectly_RB -RRB-_-RRB- labeled_VBN data_NNS to_TO evaluate_VB them_PRP ,_, which_WDT ,_, at_IN this_DT point_NN ,_, we_PRP do_VBP not_RB have_VB ._.
+Although_IN ensemble_NN methods_NNS exploiting_VBG unlabeled_JJ data_NNS has_VBZ been_VBN proposed_VBN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, they_PRP are_VBP not_RB applicable_JJ to_TO our_PRP$ problem_NN ,_, because_IN they_PRP are_VBP based_VBN on_IN boosting_VBG and_CC hence_RB they_PRP re-train_VBP the_DT underlying_VBG weak_JJ classifier_NN ._.
+3_LS ._.
+PROBLEM_NN DEFINITION_NN We_PRP consider_VBP a_DT c-class_NN classification_NN problem_NN

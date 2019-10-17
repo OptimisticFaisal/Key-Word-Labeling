@@ -1,0 +1,6 @@
+y_NN -LRB-_-LRB- SNOMED_NN -RRB-_-RRB- should_MD improve_VB performance_NN ._.
+Furthermore_RB text-mining_JJ research_NN to_TO identify_VB relevant_JJ documents_NNS -LRB-_-LRB- 22_CD -RRB-_-RRB- may_MD help_VB eliminate_VB irrelevant_JJ documents_NNS that_WDT are_VBP mixed_JJ in_IN with_IN doctors_NNS '_POS dictations_NNS ._.
+DISCOTEX_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, like_IN REMIND_NNP ,_, extracts_NNS information_NN from_IN text_NN ,_, and_CC integrates_VBZ it_PRP via_IN data_NN mining_NN ._.
+DISCOTEX_NNP focuses_VBZ on_IN learning_VBG rules_NNS ,_, whereas_IN REMIND_NN uses_VBZ domain_NN knowledge_NN for_IN data_NN mining_NN ._.
+7_CD ._.
+SUMMARY_NN REMIND_NN exploits_VBZ t_NN

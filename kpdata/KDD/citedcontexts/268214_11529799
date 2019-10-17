@@ -1,0 +1,5 @@
+e_LS -RRB-_-RRB- Xpointer_NN +_CC getSubTreesByTag_NN -LRB-_-LRB- String_NNP -RRB-_-RRB- :_: String_NNP algorithm_NN ._.
+For_IN example_NN ,_, some_DT algorithms_NNS create_VBP clusters_NNS from_IN web_NN pages_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- as_IN a_DT first_JJ step_NN ,_, others_NNS separate_JJ DOM_NNP trees_NNS and_CC remove_VB unnecessary_JJ trees_NNS using_VBG =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
++_CC toString_NN -LRB-_-LRB- -RRB-_-RRB- :_: --_: TrainingSet_NNP :_: This_DT structure_NN is_VBZ the_DT one_NN that_WDT contains_VBZ the_DT web_NN pages_NNS used_VBN to_TO train_VB information_NN extractors_NNS creating_VBG extraction_NN rules_NNS ._.
+See_VB 3_CD ._.
+A_DT TrainingSet_NNP is_VBZ a_DT set_NN of_IN Documents_NNS which_WDT is_VBZ

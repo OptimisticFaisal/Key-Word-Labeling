@@ -1,0 +1,5 @@
+ng_NN increase_NN in_IN the_DT quantity_NN of_IN logs_NNS and_CC the_DT difficulty_NN of_IN manual_JJ debugging_NN ._.
+Automated_NNP log_NN analysis_NN is_VBZ increasing_VBG the_DT amount_NN of_IN information_NN that_WDT can_MD be_VB extracted_VBN from_IN logs_NNS ,_, thus_RB increasing_VBG their_PRP$ value_NN =_JJ -_: =[_NN 26_CD ,_, 30_CD ,_, 3_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Hence_RB ,_, log_NN collection_NN and_CC processing_NN is_VBZ increasingly_RB important_JJ ._.
+Scalable_JJ data_NNS processing_NN is_VBZ challenging_JJ and_CC so_IN it_PRP is_VBZ very_RB desirable_JJ to_TO leverage_NN existing_VBG tools_NNS ._.
+MapReduce_NNP is_VBZ emerging_VBG as_IN a_DT standard_NN to_TO

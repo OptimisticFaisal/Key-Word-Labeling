@@ -1,0 +1,4 @@
+and_CC in_IN topic_NN cube_NN -LRB-_-LRB- language_NN model_NN -RRB-_-RRB- is_VBZ query-independent_JJ ._.
+Analysis_NN of_IN Text_NNP Data_NNP with_IN Multiple_JJ Attributes_NNS ._.
+Besides_IN -LRB-_-LRB- 32_CD -RRB-_-RRB- ,_, there_EX are_VBP some_DT other_JJ works_NNS on_IN analyzing_VBG text_NN data_NNS with_IN multiple_JJ attributes_NNS ,_, e.g._FW =_JJ -_: =[_NN 28_CD ,_, 29_CD -RRB-_-RRB- -_: =_JJ -_: ;_: though_IN they_PRP can_MD not_RB be_VB directly_RB applied_VBN in_IN our_PRP$ keyword_JJ search_NN problem_NN -LRB-_-LRB- as_IN the_DT models_NNS they_PRP focus_VBP on_IN are_VBP query-independent_JJ -RRB-_-RRB- ._.
+-LRB-_-LRB- 28_CD -RRB-_-RRB- introduces_VBZ a_DT generative_JJ model_NN of_IN entity_NN relationships_NNS and_CC their_PRP$ attribu_NN

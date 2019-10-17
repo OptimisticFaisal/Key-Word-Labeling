@@ -1,0 +1,4 @@
+experiments_NNS ,_, we_PRP use_VBP a_DT subsets_NNS of_IN the_DT data_NNS collection_NN which_WDT include_VBP the_DT 10_CD most_RBS frequent_JJ categories_NNS among_IN the_DT 135_CD topics_NNS and_CC we_PRP call_VBP it_PRP Reuters-top_JJ 10_CD ._.
+K-dataset_NN :_: The_DT K-dataset_NN was_VBD from_IN WebACE_NN project_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: and_CC it_PRP was_VBD used_VBN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- for_IN document_NN clustering_NN ._.
+The_DT K-dataset_NN contains_VBZ 2340_CD documents_NNS consisting_VBG news_NN articles_NNS from_IN Reuters_NNP new_JJ service_NN via_IN the_DT Web_NN in_IN October_NNP 1997_CD ._.
+These_DT documents_NNS are_VBP divided_VBN into_IN 2_CD

@@ -1,0 +1,4 @@
+ts_NNS chosen_VBN at_IN random_JJ have_VBP a_DT high_JJ probability_NN of_IN being_VBG orthogonal_JJ to_TO each_DT other_JJ ,_, so_IN that_IN a_DT kmeans-based_JJ iterative_JJ update_VBP scheme_NN may_MD get_VB stuck_VBN at_IN a_DT local_JJ minimum_NN at_IN the_DT very_JJ point_NN it_PRP is_VBZ initialized_VBN -LRB-_-LRB- see_VB =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+As_IN a_DT result_NN ,_, kmeansbased_JJ algorithms_NNS suffer_VBP in_IN high-dimensions_NNS ,_, especially_RB when_WRB the_DT number_NN of_IN data_NNS points_NNS available_JJ is_VBZ small_JJ ._.
+This_DT explains_VBZ the_DT performance_NN of_IN fskmeans_NNS and_CC spkmeans_NNS ._.
+Among_IN the_DT vMF-ba_NN

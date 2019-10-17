@@ -1,0 +1,4 @@
+first_JJ approach_NN is_VBZ SVMlight_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, which_WDT is_VBZ an_DT efficient_JJ and_CC scalable_JJ implementation_NN of_IN Support_NN Vector_NNP Machines_NNP for_IN text_NN classification_NN ._.
+The_DT second_JJ approach_NN is_VBZ Naïve_NNP Bayes_NNP using_VBG a_DT multinomial_JJ text_NN model_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP also_RB ran_VBD versions_NNS of_IN the_DT classification_NN algorithms_NNS modified_VBN to_TO deal_VB with_IN the_DT high_JJ imbalance_NN between_IN the_DT positive_JJ and_CC negative_JJ class_NN ._.
+SVM-light_NN provides_VBZ a_DT straightforward_JJ mechanism_NN for_IN dealing_VBG wit_NN

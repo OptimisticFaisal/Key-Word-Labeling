@@ -1,0 +1,4 @@
+duce_VB the_DT complexity_NN and_CC size_NN of_IN large_JJ data_NNS sets_NNS ._.
+Financial_JJ applications_NNS and_CC computer_NN graphics_NNS use_VBP this_DT technique_NN for_IN pattern_NN matching_NN ,_, contour_NN tracing_VBG and_CC boundary_NN analysis_NN ,_, and_CC data_NN compression_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Piecewise_JJ linear_JJ approximation_NN is_VBZ generally_RB run_VBN offline_NN and_CC can_MD be_VB fairly_RB complex_JJ ._.
+While_IN our_PRP$ work_NN is_VBZ also_RB focused_VBN boundary_NN analysis_NN ,_, we_PRP require_VBP an_DT algorithm_NN suitable_JJ for_IN fast_JJ online_JJ analysis_NN of_IN nume_NN

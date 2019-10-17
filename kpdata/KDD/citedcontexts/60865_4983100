@@ -1,0 +1,5 @@
+nce_NN test_NN based_VBN on_IN Kendall_NNP 's_POS rank_JJ correlation_NN method_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+The_DT rank_JJ correlation_NN method_NN is_VBZ briefly_RB described_VBN below_IN ._.
+The_DT details_NNS of_IN the_DT ranking_JJ performance_NN evaluation_NN using_VBG partial_JJ order_NN can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN a_DT robots_NNS ._.
+txt_NN file_NN f_SYM ,_, letma_NN be_VB a_DT bias_NN measure_NN function_NN for_IN all_DT robots_NNS R_NN appearing_VBG in_IN f._NNP Letri_NNP and_CC rj_FW ∈_FW R_NN be_VB two_CD named_VBN robots_NNS in_IN f._NN We_PRP denote_VBP ri_NN -LRB-_-LRB- ma_NN rj_NN if_IN ri_NN is_VBZ ranked_VBN higher_JJR than_IN rj_NN for_IN measure_NN ma_NN

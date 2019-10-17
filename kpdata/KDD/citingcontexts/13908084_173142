@@ -1,0 +1,4 @@
+nly_RB positive_JJ and_CC negative_JJ orientations_NNS ._.
+Unfortunately_RB ,_, dictionaries_NNS and_CC similar_JJ sources_NNS ,_, i.e._FW ,_, WordNet_NNP -LRB-_-LRB- 29_CD -RRB-_-RRB- do_VBP not_RB include_VB semantic_JJ orientation_NN information_NN for_IN each_DT word_NN ._.
+Hatzivassiloglou_NNP and_CC McKeown_NNP =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: use_VB a_DT supervised_JJ learning_NN algorithm_NN to_TO infer_VB the_DT semantic_JJ orientation_NN of_IN adjectives_NNS from_IN constraints_NNS on_IN conjunctions_NNS ._.
+Although_IN their_PRP$ method_NN achieves_VBZ high_JJ precision_NN ,_, it_PRP relies_VBZ on_IN a_DT large_JJ corpus_NN ,_, and_CC n_NN

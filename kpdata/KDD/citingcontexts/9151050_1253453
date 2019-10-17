@@ -1,0 +1,3 @@
+ai_VB et_FW al._FW -LRB-_-LRB- 2_LS -RRB-_-RRB- present_JJ StreamT_NN ,_, a_DT tree_NN online_NN mining_NN algorithm_NN that_WDT uses_VBZ a_DT forgetting_VBG model_NN and_CC is_VBZ able_JJ to_TO maintain_VB a_DT sliding_VBG window_NN ,_, but_CC it_PRP extracts_VBZ only_RB frequent_JJ trees_NNS ,_, not_RB closed_VBN ones_NNS ._.
+Hsieh_NNP et_FW al._FW =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP STMer_NN ,_, an_DT alternative_NN to_TO StreamT_VB to_TO deal_VB with_IN frequent_JJ trees_NNS over_IN data_NNS streams_NNS ,_, but_CC without_IN using_VBG a_DT sliding_VBG window_NN ._.
+In_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, Feng_NNP et_FW al._FW present_JJ SOLARIA_NNP \*_NN ,_, a_DT frequent_JJ closed_JJ XML_NN query_NN pattern_NN m_NN

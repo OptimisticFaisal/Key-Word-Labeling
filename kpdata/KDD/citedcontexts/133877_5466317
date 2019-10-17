@@ -1,0 +1,4 @@
+epth_NN -LRB-_-LRB- b_NN -RRB-_-RRB- In_IN the_DT example_NN shown_VBN in_IN Fig._NNP 1_CD ,_, SW_NNP IP_NNP -LRB-_-LRB- a_DT ,_, b_NN -RRB-_-RRB- =_JJ 2_CD ×_CD 2_CD 4_CD +3_NN =_JJ 0.57_CD ._.
+3.3.3_CD Document_NNP clustering_NN algorithms_NNS There_EX has_VBZ been_VBN considerable_JJ interest_NN in_IN this_DT problem_NN in_IN the_DT information_NN retrieval_NN community_NN =_JJ -_: =[_NN 15,2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ problem_NN is_VBZ more_RBR specific_JJ since_IN we_PRP are_VBP clustering_VBG Web_NN documents_NNS -LRB-_-LRB- 43_CD -RRB-_-RRB- and_CC take_VB links_NNS into_IN account_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+Since_IN we_PRP are_VBP working_VBG with_IN categorical_JJ data_NNS ,_, we_PRP need_VBP a_DT distance_NN or_CC similarity_NN measure_NN and_CC a_DT d_NN

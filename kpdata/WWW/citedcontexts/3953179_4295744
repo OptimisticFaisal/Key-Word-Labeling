@@ -1,0 +1,5 @@
+matches_NNS ._.
+EXALG_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- uses_VBZ equivalence_JJ classes_NNS -LRB-_-LRB- sets_NNS of_IN items_NNS that_WDT occur_VBP with_IN the_DT same_JJ frequency_NN in_IN sibling_NN pages_NNS -RRB-_-RRB- and_CC differentiating_VBG roles_NNS to_TO generate_VB extraction_NN templates_NNS for_IN the_DT sibling_NN pages_NNS ._.
+DEPTA_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: compares_VBZ different_JJ records_NNS in_IN a_DT page_NN instead_RB of_IN sibling_NN pages_NNS and_CC tries_VBZ to_TO find_VB the_DT extraction_NN template_NN for_IN the_DT record_NN ._.
+Our_PRP$ system_NN fundamentally_RB differs_VBZ from_IN these_DT approaches_NNS ._.
+These_DT approaches_NNS focus_VBP

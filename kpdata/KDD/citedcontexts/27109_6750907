@@ -1,0 +1,4 @@
+matrix_NN in_IN which_WDT nearby_JJ rows_NNS and_CC columns_NNS should_MD exhibit_VB similar_JJ behavior_NN ._.
+In_IN sections_NNS 2_CD and_CC 5_CD we_PRP illustrate_VBP these_DT uses_NNS of_IN the_DT singular_JJ vectors_NNS ._.
+The_DT idea_NN of_IN using_VBG the_DT SVD_NN for_IN bi-clustering_NN appears_VBZ in_IN =_JJ -_: =[_NN 3_CD ,_, 9_CD -RRB-_-RRB- -_: =_JJ -_: and_CC has_VBZ close_JJ connections_NNS with_IN Principal_NN Component_NNP Analysis_NNP -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+Dhillon_NNP 's_POS derivation_NN in_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- is_VBZ similar_JJ to_TO ours_PRP in_IN the_DT sense_NN that_IN it_PRP is_VBZ based_VBN in_IN relaxation_NN ,_, but_CC ,_, as_IN it_PRP is_VBZ designed_VBN for_IN document\/word_NN

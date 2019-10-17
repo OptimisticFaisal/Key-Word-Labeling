@@ -1,0 +1,4 @@
+raphs_NNS ,_, the_DT problem_NN of_IN mining_NN frequent_JJ subgraphs_NNS is_VBZ to_TO find_VB all_DT subgraphs_NNS that_WDT are_VBP subgraph_JJ isomorphic_NN with_IN a_DT large_JJ number_NN of_IN example_NN graphs_NNS in_IN the_DT database_NN ._.
+References_NNS to_TO applications_NNS can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 2_CD ,_, 4_CD ,_, 8_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT first_JJ frequent_JJ subgraph_NN miner_NN was_VBD Inokuchi_NNP et_FW al._FW 's_POS AGM_NNP algorithm_NN -LRB-_-LRB- 2000_CD -RRB-_-RRB- ,_, for_IN unconnected_JJ subgraphs_NNS ._.
+The_DT algorithm_NN was_VBD followed_VBN by_IN the_DT FSG_NN algorithm_NN of_IN Kuramochi_NNP and_CC Karypis_NNP -LRB-_-LRB- 7_CD -RRB-_-RRB- -LRB-_-LRB- 2001_CD -RRB-_-RRB- ,_, and_CC an_DT a_DT

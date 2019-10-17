@@ -1,0 +1,5 @@
+objects_NNS ._.
+They_PRP take_VBP a_DT predefined_JJ map_NN and_CC store_VB the_DT position_NN history_NN of_IN an_DT object_NN into_IN the_DT given_VBN map_NN ._.
+As_IN a_DT side_NN effect_NN ,_, the_DT road_NN geometries_NNS of_IN original_JJ maps_NNS are_VBP corrected_VBN according_VBG to_TO the_DT position_NN log_NN ._.
+=_SYM -_: =_JJ -LRB-_-LRB- RLW99_NN -RRB-_-RRB- -_: =_JJ -_: is_VBZ one_CD of_IN the_DT first_JJ approaches_NNS to_TO derive_VB line_NN string_NN features_NNS from_IN GPS_NNP logs_NNS ,_, but_CC it_PRP requires_VBZ an_DT existing_VBG map_NN that_WDT is_VBZ extended_VBN ._.
+Note_VB that_IN the_DT problem_NN of_IN modifying_VBG an_DT existing_VBG map_NN is_VBZ much_RB simpler_JJR becau_NN

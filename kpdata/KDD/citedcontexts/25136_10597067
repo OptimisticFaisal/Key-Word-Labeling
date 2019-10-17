@@ -1,0 +1,4 @@
+variety_NN of_IN data_NNS mining_NN application_NN such_JJ as_IN Naïve_FW Bayes_FW classifier_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, SVM_NN classification_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, decision_NN trees_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- K-means_NNS clustering_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- and_CC Association_NNP Rule_NNP Mining_NNP -LRB-_-LRB- 14,15_CD -RRB-_-RRB- ._.
+Vaidya_NNP and_CC Clifton_NNP =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: gave_VBD a_DT nice_JJ algebraic_JJ solution_NN for_IN vertically_RB partitioned_VBN data_NNS ._.
+However_RB ,_, this_DT solution_NN can_MD leak_NN many_JJ linear_JJ combinations_NNS of_IN each_DT party_NN 's_POS private_JJ data_NNS to_TO other_JJ ._.
+Also_RB ,_, to_TO process_VB one_CD candidate_NN frequent_JJ

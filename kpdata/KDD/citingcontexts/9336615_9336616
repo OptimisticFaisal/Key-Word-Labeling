@@ -1,0 +1,5 @@
+iency_NN of_IN this_DT algorithm_NN in_IN the_DT future_NN ._.
+The_DT data_NNS matrices_NNS in_IN many_JJ applications_NNS such_JJ as_IN the_DT ones_NNS used_VBN in_IN this_DT paper_NN are_VBP sparse_JJ ._.
+Hence_RB ,_, techniques_NNS for_IN computing_VBG the_DT SVD_NN of_IN sparse_JJ matrices_NNS as_IN proposed_VBN in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB employed_VBN to_TO expedite_VB the_DT computation_NN ._.
+We_PRP plan_VBP to_TO apply_VB such_JJ techniques_NNS in_IN our_PRP$ algorithm_NN in_IN the_DT future_NN ._.
+Acknowledgments_NNP This_NNP research_NN is_VBZ sponsored_VBN in_IN part_NN by_IN the_DT Arizona_NNP State_NNP University_NNP and_CC by_IN

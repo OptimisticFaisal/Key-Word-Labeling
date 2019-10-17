@@ -1,0 +1,4 @@
+ns_NNS of_IN filterbotbased_JJ algorithms_NNS -LRB-_-LRB- 11_CD ,_, 21_CD -RRB-_-RRB- and_CC hybrid_NN methods_NNS -LRB-_-LRB- 23_CD ,_, 18_CD ,_, 3_CD -RRB-_-RRB- that_WDT combine_VBP content_NN and_CC a_DT collaborative_JJ filtering_VBG have_VBP also_RB been_VBN proposed_VBN to_TO attack_VB the_DT so-called_JJ cold-start_JJ problem_NN ._.
+Tapestry_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ one_CD of_IN the_DT earliest_JJS recommender_NN systems_NNS ._.
+In_IN this_DT system_NN ,_, each_DT user_NN records_VBZ their_PRP$ opinions_NNS -LRB-_-LRB- annotations_NNS -RRB-_-RRB- of_IN documents_NNS they_PRP read_VBP ,_, and_CC these_DT annotations_NNS are_VBP accessed_VBN by_IN others_NNS '_POS filters_NNS ._.
+GroupLens_NN 4_CD -LRB-_-LRB-

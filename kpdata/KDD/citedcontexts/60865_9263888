@@ -1,0 +1,5 @@
+,_, 20_CD -RRB-_-RRB- ,_, each_DT training_NN example_NN is_VBZ composed_VBN of_IN a_DT set_NN of_IN document_NN features_NNS and_CC its_PRP$ corresponding_JJ rank_NN relative_JJ to_TO a_DT query_NN ._.
+The_DT learning_NN process_NN tries_VBZ to_TO map_VB features_NNS into_IN ranks_NNS ._.
+In_IN the_DT pair-wise_JJ approach_NN =_JJ -_: =[_NN 4_CD ,_, 5_CD ,_, 12_CD ,_, 13_CD ,_, 14_CD ,_, 15_CD ,_, 21_CD ,_, 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, each_DT training_NN example_NN is_VBZ composed_VBN of_IN pairs_NNS of_IN instances_NNS and_CC the_DT preference_NN relation_NN among_IN them_PRP ._.
+In_IN this_DT case_NN ,_, the_DT goal_NN is_VBZ to_TO classify_VB each_DT pair_NN into_IN correctly_RB or_CC incorrectly_RB ranked_VBN categories_NNS ._.
+Final_NNP

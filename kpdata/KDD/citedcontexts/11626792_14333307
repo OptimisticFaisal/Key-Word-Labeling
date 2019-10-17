@@ -1,0 +1,6 @@
+lar_JJ shapes_NNS in_IN a_DT time_NN series_NN ._.
+We_PRP study_VBD the_DT online_JJ topk_NN most_RBS similar_JJ motif_NN discovery_NN problem_NN ._.
+A_DT special_JJ case_NN of_IN this_DT problem_NN corresponding_VBG to_TO k_NN =_JJ 1_CD was_VBD investigated_VBN in_IN the_DT literature_NN by_IN Mueen_NNP and_CC Keogh_NNP =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP generalize_VBP the_DT problem_NN to_TO any_DT k_NN and_CC propose_VBP space-efficient_JJ algorithms_NNS for_IN solving_VBG it_PRP ._.
+We_PRP show_VBP that_IN our_PRP$ algorithms_NNS are_VBP optimal_JJ in_IN term_NN of_IN space_NN ._.
+In_IN the_DT particular_JJ case_NN when_WRB k_NN =_JJ 1_CD ,_, our_PRP$ algorithms_NNS

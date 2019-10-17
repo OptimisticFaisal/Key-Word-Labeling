@@ -1,0 +1,4 @@
+robabilities_NNS -LRB-_-LRB- y_FW |_FW |_FW x_NN -RRB-_-RRB- i_LS p_NN e_SYM needed_VBN when_WRB computing_VBG the_DT gradients_NNS at_IN every_DT iteration_NN ._.
+As_IN the_DT graph_NN in_IN Figure_NNP 3_CD is_VBZ a_DT chordal_JJ graph_NN ,_, we_PRP can_MD efficiently_RB do_VB inference_NN by_IN using_VBG the_DT junction_NN tree_NN algorithm_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN an_DT undirected_JJ graph_NN ,_, this_DT algorithm_NN consists_VBZ of_IN three_CD steps_NNS :_: junction_NN tree_NN construction_NN ,_, initialization_NN ,_, and_CC belief_NN propagation_NN ._.
+It_PRP is_VBZ straightforward_JJ to_TO construct_VB a_DT junction_NN tree_NN for_IN a_DT chordal_NN

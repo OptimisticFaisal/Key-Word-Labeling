@@ -1,0 +1,5 @@
+al_FW Terms_NNS :_: Algorithms_NNPS Keywords_NNPS :_: graph_NN ,_, closed_VBD pattern_NN ,_, connectivity_NN 1_CD ._.
+INTRODUCTION_NN Graphs_NNS are_VBP natural_JJ representations_NNS of_IN complicated_JJ structures_NNS and_CC relationships_NNS among_IN objects_NNS ._.
+Algorithms_NNS proposed_VBN in_IN =_JJ -_: =[_NN 9_CD ,_, 10_CD ,_, 22_CD ,_, 17_CD ,_, 1_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: can_MD find_VB frequent_JJ subgraphs_NNS efficiently_RB in_IN chemical_JJ compound_NN datasets_NNS ._.
+These_DT algorithms_NNS have_VBP been_VBN successfully_RB used_VBN in_IN protein_NN classification_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC graph_NN indexing_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+There_EX exists_VBZ a_DT specific_JJ kind_NN

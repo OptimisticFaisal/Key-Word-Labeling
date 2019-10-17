@@ -1,0 +1,4 @@
+K_NN Of_IN course_NN ,_, the_DT observation_NN that_IN high_JJ latency_NN ,_, low_JJ bandwidth_NN connections_NNS are_VBP problematic_JJ is_VBZ not_RB new_JJ ._.
+There_EX is_VBZ a_DT large_JJ body_NN of_IN work_NN ranging_VBG from_IN tweaking_NN protocols_NNS -LRB-_-LRB- 6_CD ,_, 12_CD ,_, 4_CD ,_, 14_CD ,_, 18_CD ,_, 2_CD ,_, 3_CD -RRB-_-RRB- to_TO caching_NN =_JJ -_: =[_NN 17_CD ,_, 13_CD -RRB-_-RRB- -_: =_JJ -_: and_CC delay_VB tolerant_JJ networking_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Recently_RB ,_, Du_NNP et_FW al._FW -LRB-_-LRB- 10_CD -RRB-_-RRB- analyzed_VBN trace_NN data_NNS from_IN Internet_NNP cafés_NNS and_CC kiosks_NNS in_IN Cambodia_NNP and_CC Ghana_NNP ._.
+A_DT strong_JJ case_NN is_VBZ made_VBN that_IN because_IN of_IN the_DT high_JJ costs_NNS of_IN connecti_NN

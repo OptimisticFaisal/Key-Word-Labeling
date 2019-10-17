@@ -1,0 +1,5 @@
+1998_CD -RRB-_-RRB- generalize_VBP previous_JJ results_NNS to_TO general-case_JJ loss_NN functions_NNS ._.
+Separately_RB ,_, several_JJ algorithms_NNS have_VBP been_VBN proposed_VBN to_TO deal_VB with_IN concept_NN drift_NN -LRB-_-LRB- e.g._FW ,_, Kolter_NNP &_CC Maloof_NNP ,_, 2003_CD ;_: Schlimmer_NNP &_CC Granger_NNP ,_, 1986_CD ;_: =_JJ -_: =_JJ Street_NNP &_CC Kim_NNP ,_, 2001_CD -_: =_JJ -_: ;_: Widmer_NNP &_CC Kubat_NNP ,_, 1996_CD -RRB-_-RRB- ._.
+There_EX has_VBZ also_RB been_VBN theoretical_JJ analysis_NN -LRB-_-LRB- e.g._FW ,_, Helmbold_NNP &_CC Long_NNP ,_, 1994_CD -RRB-_-RRB- ._.
+Expert_NN prediction_NN algorithms_NNS have_VBP been_VBN applied_VBN specifically_RB to_TO the_DT problem_NN of_IN concept_NN drift_NN ._.
+A_DT variant_NN

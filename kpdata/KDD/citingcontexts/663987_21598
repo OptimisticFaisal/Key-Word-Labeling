@@ -1,0 +1,4 @@
+f_LS Time_NNP Series_NNP -RRB-_-RRB- ,_, was_VBD used_VBN for_IN land_NN use_NN classification_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, and_CC a_DT modified_VBN version_NN of_IN a_DT hierarchical_JJ clustering_NN algorithm_NN was_VBD used_VBN for_IN land_NN use_NN segmentation_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+Furthermore_RB ,_, we_PRP also_RB used_VBD the_DT K-means_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: and_CC DBSCAN_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- clustering_NN algorithms_NNS in_IN some_DT of_IN our_PRP$ preliminary_JJ investigations_NNS of_IN Earth_NNP Science_NNP data_NNS ._.
+However_RB ,_, in_IN this_DT work_NN ,_, we_PRP will_MD use_VB our_PRP$ SNN_NNP clustering_NN approach_NN described_VBN in_IN -LRB-_-LRB- 2_CD ,_, 3_CD -RRB-_-RRB- ._.
+This_DT techniqu_NN

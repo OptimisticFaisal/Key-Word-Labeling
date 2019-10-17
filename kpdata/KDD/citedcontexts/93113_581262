@@ -1,0 +1,4 @@
+another_DT one_CD ,_, the_DT associated_VBN nodes_NNS are_VBP mergedssince_NN both_CC the_DT itemsets_NNS surely_RB belong_VBP to_TO the_DT same_JJ equivalence_JJ class_NN ._.
+Itemset_NN tid-lists_NNS are_VBP stored_VBN in_IN each_DT node_NN of_IN the_DT tree_NN by_IN using_VBG the_DT diff-set_JJ technique_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Since_IN different_JJ paths_NNS can_MD however_RB lead_VB to_TO the_DT same_JJ closed_JJ itemset_NN ,_, also_RB in_IN this_DT case_NN a_DT duplicates_VBZ pruning_NN strategy_NN is_VBZ implemented_VBN ._.
+CHARM_NN adopts_VBZ a_DT technique_NN similar_JJ to_TO that_DT of_IN CLOSET_NN ,_, by_IN storing_VBG in_IN t_NN

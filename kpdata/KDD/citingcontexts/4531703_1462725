@@ -1,0 +1,4 @@
+kes_VBZ the_DT cost_NN matrix_NN into_IN consideration_NN during_IN model_NN building_NN and_CC generates_VBZ a_DT model_NN that_WDT has_VBZ the_DT lowest_JJS cost_NN ._.
+The_DT properties_NNS of_IN a_DT cost_NN matrix_NN had_VBD been_VBN studied_VBN by_IN Elkan_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+Margineantu_NNP and_CC Dietterich_NNP =_SYM -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: examined_VBN various_JJ methods_NNS for_IN incorporating_VBG cost_NN information_NN into_IN the_DT C4_NN .5_FW learningsalgorithm_FW ._.
+Other_JJ cost-sensitive_JJ learning_NN methods_NNS that_WDT are_VBP algorithm-independent_JJ include_VBP AdaCost_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, MetaCost_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_,

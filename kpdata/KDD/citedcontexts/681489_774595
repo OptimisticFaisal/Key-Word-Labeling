@@ -1,0 +1,4 @@
+lasses_NNS of_IN samples_NNS ,_, the_DT t-value_NN is_VBZ typically_RB computed_VBN for_IN one_CD class_NN versus_CC all_PDT the_DT other_JJ classes_NNS ._.
+A_DT weakness_NN of_IN using_VBG the_DT t-value_NN to_TO select_JJ genes_NNS is_VBZ the_DT redundancy_NN among_IN the_DT selected_VBN genes_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 60_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 62_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO solve_VB this_DT problem_NN ,_, methods_NNS that_WDT can_MD handle_VB both_CC the_DT gene-class_JJ relevance_NN and_CC the_DT gene-gene_JJ redundancy_NN have_VBP been_VBN proposed_VBN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 60_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 62_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+These_DT methods_NNS typically_RB use_VBP some_DT metric_NN to_TO meas_NNS

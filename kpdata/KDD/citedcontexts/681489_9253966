@@ -1,0 +1,4 @@
+the_DT rank-based_JJ methods_NNS do_VBP not_RB take_VB redundancy_NN into_IN consideration_NN ._.
+In_IN order_NN to_TO remove_VB the_DT redundancy_NN among_IN features_NNS ,_, a_DT MinRedundancy_NN and_CC Max-Relevance_NN -LRB-_-LRB- mRMR_NN -RRB-_-RRB- framework_NN is_VBZ proposed_VBN in_IN -LRB-_-LRB- 25_CD -RRB-_-RRB- ._.
+Yu_NNP and_CC Liu_NNP =_SYM -_: =[_NN 36_CD -RRB-_-RRB- -_: =_SYM -_: also_RB explored_VBD the_DT relationship_NN between_IN feature_NN relevance_NN and_CC redundancy_NN and_CC proposed_VBD a_DT method_NN that_WDT can_MD effectively_RB remove_VB redundant_JJ genes_NNS ._.
+In_IN addition_NN ,_, ReliefF_NN ,_, a_DT widely_RB used_VBN feature_NN subset_NN selection_NN

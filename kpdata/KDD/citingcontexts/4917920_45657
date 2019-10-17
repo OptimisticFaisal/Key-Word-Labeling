@@ -1,0 +1,4 @@
+tric_JJ circuit_NN by_IN treating_VBG the_DT edges_NNS as_IN resistors_NNS whose_WP$ conductance_NN is_VBZ the_DT given_VBN edge_NN weights_NNS ._.
+This_DT way_NN ,_, higher_JJR weight_NN edges_NNS will_MD conduct_VB more_JJR electricity_NN ._.
+Descriptions_NNS are_VBP found_VBN in_IN standard_JJ references_NNS =_JJ -_: =[_NN 3_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+When_WRB dealing_VBG with_IN electric_JJ networks_NNS ,_, a_DT natural_JJ s-t_NN proximity_NN measure_NN is_VBZ found_VBN by_IN setting_VBG the_DT voltage_NN of_IN s_NN to_TO 1_CD ,_, while_IN grounding_VBG t_NN -LRB-_-LRB- so_IN its_PRP$ voltage_NN is_VBZ 0_CD -RRB-_-RRB- and_CC solving_VBG a_DT system_NN of_IN linear_JJ equations_NNS to_TO es_NNS

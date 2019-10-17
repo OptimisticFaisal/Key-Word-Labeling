@@ -1,0 +1,4 @@
+hnique_NN is_VBZ a_DT choice_NN since_IN it_PRP can_MD hide_VB data_NNS from_IN unauthorised_JJ users_NNS ._.
+However_RB ,_, cryptographic_JJ methods_NNS may_MD restrict_VB data_NNS access_NN and_CC exchange_NN too_RB much_RB ._.
+Furthermore_RB ,_, cryptographic_JJ privacy-preserving_JJ methods_NNS =_JJ -_: =[_NN 15_CD ,_, 22_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: usually_RB tailor_VBP some_DT specific_JJ data_NNS mining_NN tasks_NNS ,_, and_CC therefore_RB lose_VBP generality_NN ._.
+Random_JJ perturbation_NN can_MD provide_VB certain_JJ privacy_NN protection_NN -LRB-_-LRB- 5_CD ,_, 4_CD ,_, 18_CD -RRB-_-RRB- ,_, but_CC they_PRP are_VBP suitable_JJ for_IN data_NNS of_IN numerical_JJ attri_NNS

@@ -1,0 +1,3 @@
+scribes_VBZ an_DT equivalent_JJ sampler_NN which_WDT is_VBZ significantly_RB faster_RBR through_IN careful_JJ choice_NN of_IN data_NNS structures_NNS and_CC creative_JJ rearrangement_NN of_IN the_DT conditional_JJ probabilities_NNS ._.
+2.2_CD Dirichlet_NN Multinomial_JJ Regression_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: provides_VBZ an_DT extension_NN to_TO the_DT LDA_NNP model_NN called_VBD the_DT Dirichlet_NNP Multinomial_JJ Regression_NN -LRB-_-LRB- DMR_NN -RRB-_-RRB- model_NN which_WDT allows_VBZ conditioning_NN on_IN arbitrary_JJ document_NN features_NNS ._.
+For_IN instance_NN ,_, we_PRP could_MD learn_VB a_DT topic_NN model_NN whi_NN

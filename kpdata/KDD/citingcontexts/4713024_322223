@@ -1,0 +1,3 @@
+ifficult_NN as_IN the_DT original_JJ problem_NN of_IN finding_VBG outliers_NNS ._.
+This_DT approach_NN can_MD be_VB seen_VBN as_IN inducing_VBG amodel_NN over_IN the_DT normal_JJ data_NNS and_CC using_VBG it_PRP to_TO test_NN points_NNS ._.
+Recently_RB ,_, the_DT field_NN of_IN statistical_JJ learning_NN theory_NN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ developed_VBN alternatives_NNS to_TO induction_NN :_: instead_RB of_IN using_VBG all_PDT the_DT available_JJ points_NNS to_TO induce_VB a_DT model_NN ,_, one_PRP can_MD use_VB the_DT data_NNS -LRB-_-LRB- usually_RB a_DT small_JJ subset_NN of_IN it_PRP -RRB-_-RRB- to_TO estimate_VB unknown_JJ properties_NNS of_IN points_NNS that_IN

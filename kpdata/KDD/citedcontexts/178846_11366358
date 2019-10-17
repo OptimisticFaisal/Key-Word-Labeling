@@ -1,0 +1,7 @@
+ntext_NN ._.
+Some_DT of_IN these_DT have_VBP a_DT question_NN mark_NN indicating_VBG that_IN there_EX are_VBP different_JJ interpretations_NNS possible_JJ ._.
+For_IN example_NN ,_, the_DT Mushroom_NNP data_NN set_NN has_VBZ been_VBN quoted_VBN variously_RB as_IN having_VBG 125_CD -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, 119_CD -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC 120_CD =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: attributes_NNS ._.
+Table_NNP 1_CD ._.
+Some_DT UCI_NNP Repository_NNP Data_NNP Sets_NNS Name_VBP Format_NNP Objs_NNP Atts_NNP Att_NNP Type_NN FCA_NNP Atts_NNP Mushroom_NNP data_NNS only_RB 8124_CD 22_CD Categorical_JJ 125_CD ?_.
+Adult_JJ data_NNS only_RB 48842_CD 14_CD Categorical_JJ ,_, 96_CD ?_.
+Integer_NN MS_NN Web_NN DST_NNP Spa_NNP

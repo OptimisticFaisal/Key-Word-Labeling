@@ -1,0 +1,5 @@
+used_VBN to_TO create_VB the_DT model_NN ,_, and_CC concentrate_NN on_IN the_DT means_NNS for_IN evaluating_VBG it_PRP ,_, given_VBN the_DT campaign_NN objectives_NNS ._.
+A_DT different_JJ approach_NN would_MD be_VB to_TO consider_VB the_DT objectives_NNS while_IN constructing_VBG the_DT model_NN -LRB-_-LRB- -LRB-_-LRB- 1_LS -RRB-_-RRB- and_CC =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Once_RB we_PRP have_VBP a_DT candidate_NN model_NN ,_, we_PRP want_VBP to_TO estimate_VB its_PRP$ expected_VBN performance_NN on_IN unlabeled_JJ data_NNS ._.
+Our_PRP$ standard_JJ model_NN evaluation_NN methodology_NN is_VBZ :_: 1_CD ._.
+Evaluate_VB the_DT models_NNS '_POS performance_NN on_IN an_DT independent_JJ t_NN

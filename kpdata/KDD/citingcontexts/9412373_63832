@@ -1,0 +1,5 @@
+bsumed_VBN in_IN the_DT user_NN query_NN ._.
+The_DT problem_NN ,_, originally_RB stated_VBN and_CC studied_VBN in_IN the_DT paper_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, was_VBD presented_VBN as_IN a_DT variant_NN of_IN the_DT set-cover_NN problem_NN and_CC it_PRP was_VBD solved_VBN adapting_VBG the_DT greedy_JJ algorithm_NN presented_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN we_PRP outline_VBP the_DT limitations_NNS introduced_VBN by_IN the_DT original_JJ approach_NN and_CC extend_VB it_PRP by_IN introducing_VBG a_DT new_JJ global_JJ objective_NN function_NN ._.
+2_CD ._.
+BACKGROUND_NN AND_CC CONTRIBUTION_NN In_IN this_DT Section_NN we_PRP recall_VBP th_DT

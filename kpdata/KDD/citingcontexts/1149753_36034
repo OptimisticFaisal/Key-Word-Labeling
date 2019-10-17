@@ -1,0 +1,4 @@
+lustering_VBG that_DT minimizes_VBZ this_DT objective_JJ function_NN ,_, we_PRP present_VBP a_DT new_JJ divisive_JJ algorithm_NN for_IN clustering_NN words_NNS ._.
+This_DT algorithm_NN is_VBZ reminiscent_JJ of_IN the_DT k-means_NN algorithm_NN but_CC uses_VBZ Kullback_NNP Leibler_NNP divergences_NNS =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: instead_RB of_IN squared_VBN Euclidean_JJ distances_NNS ._.
+We_PRP prove_VBP that_IN our_PRP$ divisive_JJ algorithm_NN monotonically_RB decreases_VBZ the_DT objective_JJ function_NN value_NN ,_, thus_RB converging_VBG to_TO a_DT local_JJ minimum_NN ._.
+We_PRP also_RB show_VBP that_IN our_PRP$ algorithm_NN

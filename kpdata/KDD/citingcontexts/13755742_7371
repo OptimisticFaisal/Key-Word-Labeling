@@ -1,0 +1,4 @@
+at_IN each_DT individual_JJ object_NN and_CC the_DT one_CD in_IN the_DT network_NN should_MD be_VB taken_VBN into_IN account_NN simultaneously_RB ._.
+A_DT naive_JJ solution_NN is_VBZ to_TO first_JJ partition_NN the_DT network_NN into_IN several_JJ communities_NNS using_VBG network_NN information_NN =_JJ -_: =[_NN 24_CD ,_, 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC then_RB within_IN each_DT community_NN ,_, identify_VB outliers_NNS based_VBN on_IN the_DT object_NN information_NN ._.
+This_DT two-stage_JJ algorithm_NN is_VBZ referred_VBN to_TO as_IN Community_NNP Neighbor_NNP Algorithm_NNP -LRB-_-LRB- CNA_NNP -RRB-_-RRB- ._.
+The_DT problem_NN with_IN such_JJ a_DT two-stage_JJ ap_NN

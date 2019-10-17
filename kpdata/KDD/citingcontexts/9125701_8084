@@ -1,0 +1,7 @@
+Storage_NN and_CC Access_NN :_: it_PRP provides_VBZ storage_NN and_CC index_NN for_IN the_DT extracted\/integrated_JJ data_NNS in_IN the_DT RNKB_NN ._.
+Specifically_RB ,_, for_IN storage_NN it_PRP employs_VBZ MySQL_NN and_CC for_IN index_NN ,_, it_PRP employs_VBZ the_DT inverted_JJ file_NN indexing_NN method_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4_LS ._.
+Modeling_NN :_: it_PRP utilizes_VBZ a_DT generative_JJ probabilistic_JJ model_NN to_TO simultaneously_RB model_VB different_JJ types_NNS of_IN information_NN ._.
+It_PRP estimates_VBZ a_DT topic_NN distribution_NN for_IN each_DT type_NN of_IN information_NN ._.
+5_CD ._.
+Search_VB Services_NNPS :_:

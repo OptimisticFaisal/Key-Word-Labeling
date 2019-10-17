@@ -1,0 +1,4 @@
+d_NN ,_, then_RB a_DT different_JJ weighted_JJ sum_NN of_IN variables_NNS is_VBZ with_IN high_JJ probability_NN greater_JJR than_IN a_DT second_JJ threshold_NN ''_'' ._.
+This_DT approach_NN has_VBZ been_VBN shown_VBN to_TO be_VB useful_JJ in_IN detecting_VBG some_DT rules_NNS of_IN gene-expression_NN data_NNS sets_VBZ =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, these_DT association_NN rules_NNS do_VBP not_RB yet_RB uncover_VB continuous_JJ linear_JJ dependencies_NNS ,_, but_CC stick_NN to_TO certain_JJ thresholds_NNS ,_, reflecting_VBG the_DT boundaries_NNS of_IN halfspaces_NNS ._.
+2.3_CD Regression_NN Analysis_NN A_NN task_NN very_RB simi_VBP

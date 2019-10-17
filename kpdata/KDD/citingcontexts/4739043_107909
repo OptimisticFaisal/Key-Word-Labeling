@@ -1,0 +1,6 @@
+s_NN nondifferentiable_JJ and_CC can_MD not_RB be_VB optimized_VBN by_IN gradient-based_JJ methods_NNS ._.
+2.2_CD Maximizing_VBG the_DT concordance_NN index_NN A_NN differentaible_JJ approximation_NN to_TO the_DT step_NN function_NN in_IN Eq_NN ._.
+2_CD has_VBZ been_VBN proposed_VBN by_IN one_CD of_IN us_PRP =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: to_TO directly_RB optimize_VB the_DT AUC_NN during_IN training_NN and_CC thus_RB to_TO improve_VB classifier_NN performance_NN ._.
+In_IN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, several_JJ alternative_JJ approximations_NNS 1_CD We_PRP use_VBP the_DT limited_JJ memory_NN BFGS_NN method_NN in_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+sto_NN Eq_NN ._.
+2_CD are_VBP disc_NN

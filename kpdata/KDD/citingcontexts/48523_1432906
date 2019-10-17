@@ -1,0 +1,6 @@
+._.
+We_PRP plan_VBP to_TO apply_VB ASSEMBLE_NNP to_TO larger_JJR datasets_NNS in_IN order_NN to_TO determine_VB how_WRB well_RB the_DT algorithm_NN scales_NNS for_IN larger_JJR problems_NNS ._.
+ASSEMBLE_NNP should_MD be_VB readily_RB adaptable_JJ to_TO scalable_JJ boosting_VBG algorithms_NNS such_JJ as_IN in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT intersting_JJ open_JJ problem_NN is_VBZ how_WRB to_TO exploit_VB unlabeled_JJ data_NNS in_IN regression_NN problems_NNS ._.
+For_IN classification_NN ASSEMBLE_NNP favors_VBZ ensembles_NNS that_WDT vote_VBP consistently_RB on_IN the_DT unlabeled_JJ data_NNS ._.
+The_DT analogous_JJ strategy_NN

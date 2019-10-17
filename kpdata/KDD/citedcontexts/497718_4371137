@@ -1,0 +1,4 @@
+riety_NN of_IN link-based_JJ similarity_NN measures_NNS ,_, which_WDT use_VBP only_RB the_DT hyperlinks_NNS in_IN the_DT Web_NN ,_, have_VBP been_VBN proposed_VBN for_IN this_DT task_NN ._.
+This_DT includes_VBZ companion_NN algorithm_NN -LRB-_-LRB- DH99_NN -RRB-_-RRB- ,_, cocitation_NN algorithm_NN -LRB-_-LRB- DH99_NN -RRB-_-RRB- ,_, and_CC SimRank_NN =_JJ -_: =_JJ -LRB-_-LRB- JW02_NN -RRB-_-RRB- -_: =_JJ -_: ,_, etc._NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ link-based_JJ similarity_NN measure_NN ,_, called_VBD PageSim_NNP ._.
+Contrast_NN to_TO SimRank_NNP ,_, our_PRP$ method_NN can_MD measure_VB similarity_NN between_IN any_DT two_CD web_NN pages_NNS ,_, whereas_IN SimRank_NNP can_MD not_RB in_IN some_DT

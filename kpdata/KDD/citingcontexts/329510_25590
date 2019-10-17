@@ -1,0 +1,3 @@
+h_NN involves_VBZ many_JJ itemset_JJ lookup_NN actions_NNS whereas_IN the_DT OPUS_NNP IR_NNP approach_NN involves_VBZ many_JJ record_NN lookup_NN actions_NNS ._.
+Aumann_NNP and_CC Lindell_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- propose_VBP that_IN frequent_JJ itemsets_NNS be_VB generated_VBN using_VBG the_DT Apriori_NNP algorithm_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC then_RB impact_NN rules_NNS be_VB generated_VBN for_IN the_DT frequent_JJ itemsets_NNS ._.
+The_DT frequent_JJ itemset_NN approachsrst_NN generates_VBZ all_DT itemsets_NNS fx1_NN ;_: :_: :_: :_: ;_: xn_NN 2_CD ;_: xn_NN 1_CD ;_: xng_NN of_IN size_NN n_NN such_JJ that_IN both_CC fx1_NN ;_: :_: :_: :_: ;_: xn_NN 1_CD g_NN and_CC fx1_NN

@@ -1,0 +1,3 @@
+since_IN a_DT lower_JJR layer_NN is_VBZ required_VBN to_TO decode_VB a_DT higher_JJR layer_NN ._.
+A_DT caching_VBG unit_NN at_IN a_DT proxy_NN can_MD be_VB an_DT operating_NN system_NN block_NN ,_, an_DT entire_JJ layer_NN ,_, a_DT frame_NN -LRB-_-LRB- 50_CD -RRB-_-RRB- ,_, a_DT fixed-size_JJ segment_NN ,_, a_DT segment_NN of_IN different_JJ sizes_NNS =_JJ -_: =[_NN 87_CD -RRB-_-RRB- -_: =_JJ -_: ,_, or_CC a_DT segment_NN whose_WP$ size_NN is_VBZ determined_VBN at_IN runtime_NN based_VBN on_IN a_DT history_NN of_IN access_NN patterns_NNS -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+While_IN most_JJS caching_NN techniques_NNS using_VBG a_DT frame_NN as_IN a_DT caching_NN unit_NN cache_NN consecutive_JJ frames_NNS for_IN the_DT same_JJ video_NN

@@ -1,0 +1,3 @@
+of_IN 200_CD lesions_NNS with_IN even_JJ class_NN distribution_NN is_VBZ used_VBN for_IN the_DT primed_JJ training_NN ._.
+Primed_VBN off-line_JJ training_NN is_VBZ a_DT simple_JJ but_CC effective_JJ technique_NN to_TO improve_VB the_DT predictive_JJ performance_NN of_IN the_DT final_JJ model_NN -LRB-_-LRB- see_VB =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: for_IN an_DT example_NN -RRB-_-RRB- ._.
+We_PRP exploit_VBP the_DT memory_NN management_NN scheme_NN proposed_VBN before_RB for_IN online_JJ Hoeffding_NNP trees_NNS that_WDT dynamically_RB activates_VBZ most_RBS promising_JJ nodes_NNS ,_, for_IN tracking_VBG feature_NN distributions_NNS and_CC a_DT split_JJ att_NN

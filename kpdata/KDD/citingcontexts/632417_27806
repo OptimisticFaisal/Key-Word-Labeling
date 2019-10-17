@@ -1,0 +1,5 @@
+xed_VBD the_DT step_NN size_NN to_TO ɛ_NN at_IN each_DT iteration_NN -LRB-_-LRB- step_NN 2_CD -LRB-_-LRB- e_LS -RRB-_-RRB- -RRB-_-RRB- ._.
+While_IN AdaBoost_NNP uses_VBZ a_DT line_NN search_NN to_TO determine_VB step_NN size_NN ,_, it_PRP can_MD be_VB argued_VBN that_IN a_DT fixed_JJ -LRB-_-LRB- usually_RB ``_`` small_JJ ''_'' -RRB-_-RRB- ɛ_NN step_NN is_VBZ theoretically_RB preferable_JJ -LRB-_-LRB- see_VB =_JJ -_: =[_NN 10_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: for_IN details_NNS -RRB-_-RRB- ._.
+3_LS ._.
+An_DT important_JJ issue_NN in_IN designing_VBG boosting_VBG algorithms_NNS is_VBZ the_DT selection_NN of_IN the_DT loss_NN function_NN C_NN -LRB-_-LRB- ·_NN ,_, ·_NN -RRB-_-RRB- ._.
+Extreme_JJ loss_NN functions_NNS ,_, such_JJ as_IN the_DT exponential_JJ loss_NN of_IN AdaBoost_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, are_VBP not_RB robus_NN

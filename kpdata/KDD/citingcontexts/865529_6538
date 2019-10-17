@@ -1,0 +1,5 @@
+ecise_NN and_CC complete_JJ search_NN capabilities_NNS over_IN their_PRP$ respective_JJ domains_NNS ._.
+One_CD drawback_NN of_IN localized_JJ indexes_NNS is_VBZ the_DT lack_NN of_IN global_JJ information_NN needed_VBN to_TO compute_VB link-based_JJ rankings_NNS ._.
+The_DT PageRank_NNP algorithm_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, has_VBZ proven_VBN to_TO be_VB an_DT effective_JJ such_JJ measure_NN ._.
+In_IN general_JJ ,_, the_DT PageRank_NN of_IN a_DT given_VBN page_NN is_VBZ dependent_JJ on_IN pages_NNS throughout_IN the_DT entire_JJ web_NN graph_NN ._.
+In_IN the_DT context_NN of_IN a_DT localized_JJ search_NN engine_NN ,_, if_IN the_DT PageRa_NN

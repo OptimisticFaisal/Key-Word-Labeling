@@ -1,0 +1,4 @@
+onducting_VBG experiments_NNS to_TO capture_VB temporal_JJ variation_NN is_VBZ outside_IN the_DT scope_NN of_IN this_DT paper_NN ,_, but_CC the_DT interested_JJ reader_NN may_MD look_VB at_IN related_JJ work_NN on_IN how_WRB query_JJ frequencies_NNS vary_VBP -LRB-_-LRB- and_CC correlate_NN -RRB-_-RRB- over_IN time_NN -LRB-_-LRB- eg_FW ._.
+=_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Figure_NN 3_CD shows_VBZ how_WRB the_DT probability_NN a_DT news_NN related_JJ link_NN will_MD receive_VB a_DT click_VB for_IN a_DT given_VBN query_NN is_VBZ affected_VBN by_IN the_DT query_FW word\/click_FW probability_NN score_NN ._.
+The_DT horizontal_JJ axis_NN represent_VBP different_JJ bin_NN

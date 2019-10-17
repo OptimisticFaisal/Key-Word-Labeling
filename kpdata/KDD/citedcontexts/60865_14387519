@@ -1,0 +1,5 @@
+of_IN retrieval_NN tasks_NNS ,_, where_WRB task-specific_JJ ranking_NN criteria_NNS can_MD be_VB easily_RB incorporated_VBN ._.
+2_CD ._.
+RELATED_NNS WORK_VBP Learning-to-rank_JJ algorithms_NNS have_VBP shown_VBN significant_JJ and_CC consistent_JJ success_NN in_IN various_JJ applications_NNS =_JJ -_: =[_NN 20_CD ,_, 13_CD ,_, 25_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Such_JJ machine-learned_JJ ranking_NN algorithms_NNS learn_VBP a_DT ranking_JJ mechanism_NN by_IN optimizing_VBG particular_JJ loss_NN functions_NNS based_VBN on_IN editorial_NN annotations_NNS ._.
+An_DT important_JJ assumption_NN in_IN those_DT learning_VBG methods_NNS is_VBZ that_IN th_DT

@@ -1,0 +1,4 @@
+ically_RB ,_, such_JJ methods_NNS treat_VBP the_DT presence_NN or_CC absence_NN of_IN individual_JJ words_NNS as_IN a_DT high-dimensionalsspace_NN and_CC attempt_NN to_TO find_VB points_NNS in_IN that_DT space_NN that_IN partition_NN the_DT cases_NNS ._.
+-LRB-_-LRB- Some_DT clustering_NN algorithms_NNS ,_, e.g._FW =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, can_MD return_VB overlapping_VBG clusters_NNS ._. -RRB-_-RRB-
+Empirically_RB ,_, this_DT tends_VBZ not_RB to_TO find_VB useful_JJ clusters_NNS in_IN the_DT sort_NN of_IN data_NNS in_IN call_NN logs_NNS ,_, especially_RB when_WRB the_DT number_NN of_IN potential_JJ clusters_NNS becomes_VBZ large_JJ ._.
+It_PRP has_VBZ the_DT fur_NN

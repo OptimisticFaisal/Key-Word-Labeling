@@ -1,0 +1,5 @@
+and_CC G2_NN are_VBP informative_JJ genes_NNS as_IN they_PRP are_VBP consistent_JJ within_IN each_DT phenotype_NN and_CC discriminative_JJ between_IN two_CD phenotypes_NNS ._.
+G3_NN and_CC G4_NN are_VBP non-informative_JJ since_IN they_PRP do_VBP not_RB show_VB difference_NN between_IN phenotypes_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ..._: ..._: ..._: ._. ._.
+4_CD 3.1_CD Two_CD dimensional_JJ linearly_RB separable_JJ data_NNS ._.
+Both_DT classifiers_NNS correctly_RB classify_VBP the_DT data_NNS ,_, but_CC the_DT margin_NN in_IN -LRB-_-LRB- a_DT -RRB-_-RRB- is_VBZ bigger_JJR than_IN the_DT one_CD in_IN -LRB-_-LRB- b_NN -RRB-_-RRB- ._.
+The_DT classifier_NN in_IN -LRB-_-LRB- a_DT

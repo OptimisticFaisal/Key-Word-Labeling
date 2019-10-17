@@ -1,0 +1,6 @@
+review_NN of_IN previous_JJ definitions_NNS of_IN feature_NN relevance_NN ,_, John_NNP ,_, Kohavi_NNP ,_, and_CC Pfleger_NNP classified_VBD features_NNS into_IN three_CD disjoint_NN categories_NNS ,_, namely_RB ,_, strongly_RB relevant_JJ ,_, weakly_RB relevant_JJ ,_, and_CC irrelevant_JJ features_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Let_VB Fi_FW ∈_FW F_NN and_CC Si_NNP =_JJ F_NN −_NN -LCB-_-LRB- Fi_NN -RCB-_-RRB- ._.
+These_DT categories_NNS of_IN relevance_NN can_MD be_VB formalized_VBN as_IN follows_VBZ ._.
+Definition_NN 1_CD ._.
+-LRB-_-LRB- Strong_JJ relevance_NN -RRB-_-RRB- A_NN feature_NN Fi_NN is_VBZ strongly_RB relevant_JJ iff_NN P_NN -LRB-_-LRB- C_NN |_FW Fi_FW ,_, Si_NNP -RRB-_-RRB- =_JJ P_NN -LRB-_-LRB- C_NNP |_NNP Si_NNP -RRB-_-RRB- ._.
+Definiti_NNP

@@ -1,0 +1,7 @@
+e_LS selection_NN as_IN a_DT possible_JJ extension_NN to_TO incremental_JJ SVM_NN ,_, and_CC carry_VB out_RP an_DT empirical_JJ comparison_NN with_IN two_CD other_JJ methods_NNS ._.
+Finally_RB we_PRP conclude_VBP by_IN summing_VBG up_RP thesndings_NNS ._.
+Parts_NNS of_IN this_DT work_NN have_VBP appeared_VBN in_IN =_JJ -_: =[_NN 29_CD ,_, 30_CD ,_, 31_CD -_: =-]_CD ._.
+2_CD Incremental_JJ Learning_NNP and_CC Related_NNP Issues_NNP In_IN this_DT paper_NN we_PRP dene_VBP incremental_JJ learning_NN to_TO have_VB the_DT following_JJ characteristics_NNS :_: 1_CD ._.
+It_PRP takes_VBZ place_NN in_IN multiple_JJ steps_NNS ._.
+2_CD ._.
+Data_NNP is_VBZ divided_VBN in_IN disjoint_NN subse_NN

@@ -1,0 +1,5 @@
+is_VBZ the_DT SWRL_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- initiative_NN ._.
+SWRL_NN is_VBZ a_DT Semantic_JJ Web_NN Rule_NN Language_NN and_CC extends_VBZ the_DT syntax_NN and_CC semantics_NNS of_IN OWL_NN DL_NN with_IN unary\/binary_JJ Datalog_NN RuleML_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, i.e._FW Horn-like_JJ rules_NNS ._.
+This_DT extension_NN is_VBZ undecidable_JJ =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: but_CC lacks_VBZ ,_, nevertheless_RB ,_, interesting_JJ knowledge_NN representation_NN mechanisms_NNS such_JJ as_IN negation_NN as_IN failure_NN ._.
+A_DT reduction_NN from_IN query_JJ problems_NNS to_TO -LRB-_-LRB- un_NN -RRB-_-RRB- satisfiability_NN problems_NNS for_IN DLs_NNS may_MD be_VB found_VBN in_IN -LRB-_-LRB- 29_CD -RRB-_-RRB- ._.
+6_CD Co_NNP

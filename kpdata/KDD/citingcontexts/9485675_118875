@@ -1,0 +1,5 @@
+arning_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+By_IN combining_VBG decisions_NNS from_IN individual_JJ classifiers_NNS ,_, ensembles_NNS can_MD usually_RB reduce_VB variance_NN and_CC achieve_VB higher_JJR accuracy_NN than_IN individual_JJ classifiers_NNS ._.
+Such_JJ methods_NNS include_VBP Bayesian_JJ averaging_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, bagging_NN ,_, boosting_VBG and_CC many_JJ variants_NNS of_IN ensemble_NN approaches_NNS -LRB-_-LRB- 2_CD ,_, 27_CD ,_, 13_CD ,_, 15_CD -RRB-_-RRB- ._.
+Some_DT ensemble_NN methods_NNS assign_VBP weights_NNS locally_RB -LRB-_-LRB- 1_CD ,_, 19_CD -RRB-_-RRB- ,_, but_CC such_JJ weights_NNS are_VBP determined_VBN based_VBN on_IN training_NN data_NNS only_RB ._.
+There_EX h_NN

@@ -1,0 +1,5 @@
+._.
+However_RB ,_, when_WRB the_DT number_NN of_IN processors_NNS grows_VBZ larger_JJR ,_, the_DT sampling_NN technique_NN can_MD greatly_RB improve_VB the_DT performance_NN ._.
+On_IN 64_CD processors_NNS ,_, the_DT performance_NN can_MD be_VB improved_VBN by_IN more_JJR than_IN 50_CD %_NN ._.
+Previous_JJ studies_NNS =_JJ -_: =[_NN 10_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP shown_VBN that_IN a_DT serial_NN closed_VBD sequential-pattern_JJ mining_NN -LRB-_-LRB- CSP_NN -RRB-_-RRB- algorithm_NN may_MD outperform_VB the_DT serial_JJ algorithms_NNS for_IN mining_VBG all_DT sequential-patterns_NNS -LRB-_-LRB- ASP_NN -RRB-_-RRB- by_IN over_IN one_CD order_NN of_IN magnitude_NN ._.
+We_PRP performed_VBD expe_NN

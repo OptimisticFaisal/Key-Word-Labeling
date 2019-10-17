@@ -1,0 +1,9 @@
+Ensemble-index_NN :_: a_DT new_JJ approach_NN to_TO indexing_NN large_JJ databases_NNS
+e_LS index_NN is_VBZ very_RB large_JJ but_CC its_PRP$ pruning_NN power_NN is_VBZ in_IN general_JJ superior_JJ to_TO all_DT other_JJ methods_NNS ._.
+18_CD Combining_VBG all_DT techniques_NNS A_DT very_RB interesting_JJ approach_NN to_TO the_DT problem_NN of_IN indexing_NN time_NN series_NN can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT motivation_NN behind_IN it_PRP is_VBZ that_IN ,_, in_IN general_JJ ,_, the_DT efficiency_NN of_IN all_DT indexing_NN techniques_NNS depends_VBZ only_RB on_IN the_DT fidelity_NN of_IN the_DT approximation_NN in_IN the_DT reduced_VBN dimensionality_NN space_NN and_CC that_IN no_DT single_JJ dimen_NN
+-LRB-_-LRB- KSSB90_NN -RRB-_-RRB- ._.
+A_DT blend_VBP of_IN attribute_NN transformations_NNS -LRB-_-LRB- DFT_NNP ,_, Polynomials_NNP -RRB-_-RRB- and_CC indexing_NN technique_NN is_VBZ presented_VBN in_IN -LRB-_-LRB- KCPM01_NN -RRB-_-RRB- ._.
+Other_JJ indices_NNS and_CC numerous_JJ generalizations_NNS exist_VBP -LRB-_-LRB- BBK98_NN -RRB-_-RRB- ,_, -LRB-_-LRB- BKS90_NN -RRB-_-RRB- ,_, -LRB-_-LRB- FRM94_NN -RRB-_-RRB- ,_, -LRB-_-LRB- KH00_NN -RRB-_-RRB- ,_, =_JJ -_: =_JJ -LRB-_-LRB- KCP01_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT major_JJ application_NN of_IN such_JJ data_NNS structures_NNS is_VBZ in_IN nearest_JJS neighbors_NNS search_NN ._.
+Preprocessing_VBG of_IN multimedia_NNS data_NNS that_WDT is_VBZ based_VBN on_IN its_PRP$ embedding_NN in_IN Euclidean_JJ space_NN -LRB-_-LRB- algorithm_NN FastMap_NN -RRB-_-RRB- is_VBZ presented_VBN in_IN F_NN

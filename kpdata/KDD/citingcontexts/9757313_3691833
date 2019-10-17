@@ -1,0 +1,4 @@
+same_JJ shingle_NN and_CC hence_RB be_VB close_JJ to_TO each_DT other_JJ in_IN a_DT shingle-based_JJ ordering_VBG ._.
+Thus_RB ,_, the_DT properties_NNS of_IN locality_NN and_CC similarity_NN are_VBP captured_VBN by_IN the_DT shingle_NN ordering_VBG heuristic_NN ._.
+-LRB-_-LRB- Gibson_NNP ,_, Kumar_NNP ,_, and_CC Tomkins_NNP =_SYM -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: used_VBD a_DT similar_JJ heuristic_NN ,_, but_CC for_IN identifying_VBG dense_JJ subgraphs_NNS of_IN large_JJ graphs_NNS ._. -RRB-_-RRB-
+4.4_CD Properties_NNPS of_IN shingle_NN ordering_VBG In_IN this_DT section_NN we_PRP show_VBP some_DT theoretical_JJ justification_NN for_IN the_DT shingle_NN ordering_VBG heur_NN

@@ -1,0 +1,4 @@
+s_NN ,_, but_CC either_CC do_VBP not_RB replicate_VB the_DT application_NN data_NNS or_CC cache_NN them_PRP at_IN the_DT replica_NN servers_NNS ._.
+This_DT limits_VBZ the_DT system_NN performance_NN as_IN all_DT write_VBP requests_NNS need_VBP to_TO be_VB forwarded_VBN to_TO a_DT single_JJ remote_JJ location_NN ._.
+In_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: the_DT authors_NNS propose_VBP an_DT application-specific_JJ edge_NN service_NN architecture_NN ,_, where_WRB the_DT application_NN itself_PRP is_VBZ supposed_VBN to_TO take_VB care_NN of_IN its_PRP$ own_JJ replication_NN ._.
+In_IN such_PDT a_DT system_NN ,_, access_NN to_TO the_DT shared_JJ data_NNS is_VBZ abs_FW

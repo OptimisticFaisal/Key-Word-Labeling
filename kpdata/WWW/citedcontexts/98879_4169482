@@ -1,0 +1,3 @@
+ion_NN items_NNS along_IN a_DT set_NN of_IN perspectives_NNS chosen_VBN by_IN the_DT user_NN ._.
+In_IN this_DT paper_NN we_PRP present_VBP a_DT context-sensitive_JJ information_NN personalization_NN strategy_NN that_WDT is_VBZ a_DT hybrid_NN of_IN item-based_JJ Collaborative_JJ Filtering_NN -LRB-_-LRB- CF_NN -RRB-_-RRB- =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Case_NNP Based_VBN Reasoning_NN -LRB-_-LRB- CBR_NN -RRB-_-RRB- methods_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+Information_NNP filtering_VBG via_IN personalized_VBN information_NN is_VBZ achieved_VBN in_IN two_CD phases_NNS :_: In_IN phase_NN I_NN ,_, we_PRP apply_VBP item-based_JJ similarity_NN computation_NN in_IN a_DT CF_NN framework_NN to_TO r_NN

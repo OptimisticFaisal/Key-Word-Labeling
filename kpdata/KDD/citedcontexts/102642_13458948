@@ -1,0 +1,5 @@
+,_, we_PRP skip_VBP Step_NN 1_CD to_TO Step_NN 3_CD ._.
+All_PDT the_DT other_JJ steps_NNS are_VBP the_DT same_JJ as_IN before_RB ._.
+It_PRP is_VBZ worth_JJ mentioning_VBG that_IN in_IN graph_NN mining_NN ,_, researchers_NNS have_VBP developed_VBN algorithms_NNS for_IN detecting_VBG dense_JJ subgraphs_NNS or_CC communities_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =-[_NN 29_CD -RRB-_-RRB- -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+If_IN we_PRP want_VBP to_TO use_VB these_DT approaches_NNS for_IN rare_JJ category_NN detection_NN ,_, it_PRP is_VBZ labor-intensive_JJ to_TO have_VB the_DT oracle_JJ label_NN the_DT whole_JJ subgraph_NN ._.
+Conversely_RB ,_, the_DT problem_NN of_IN picking_VBG representative_JJ vertices_NNS

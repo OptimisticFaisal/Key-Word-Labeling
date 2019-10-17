@@ -1,0 +1,4 @@
+r_NN a_DT given_VBN number_NN of_IN distinct_JJ search_NN topics_NNS ._.
+A_DT similar_JJ idea_NN is_VBZ used_VBN in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, where_WRB the_DT PageRank_NNP computation_NN takes_VBZ into_IN account_NN the_DT content_NN of_IN the_DT pages_NNS and_CC the_DT query_NN terms_NNS the_DT surfer_NN is_VBZ looking_VBG for_IN ._.
+In_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT decomposition_NN of_IN PageRank_NN to_TO basic_JJ components_NNS is_VBZ suggested_VBN that_WDT may_MD be_VB able_JJ to_TO scale_VB the_DT different_JJ PageRank_NN computations_NNS to_TO a_DT bigger_JJR number_NN of_IN topics_NNS or_CC even_RB distinct_JJ users_NNS ._.
+Another_DT approach_NN to_TO we_PRP

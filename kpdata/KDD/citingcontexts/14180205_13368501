@@ -1,0 +1,6 @@
+in_IN a_DT time-efficient_JJ manner_NN ._.
+Thus_RB ,_, we_PRP trade_VBP space_NN for_IN time_NN ._.
+Our_PRP$ contributions_NNS ._.
+We_PRP consider_VBP the_DT general_JJ problem_NN of_IN balanced_JJ allocation_NN in_IN a_DT bipartite_JJ supply-demand_JJ setting_NN ._.
+Our_PRP$ formulation_NN ,_, inspired_VBN by_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, is_VBZ combinatorial_JJ and_CC captures_VBZ the_DT notion_NN of_IN deviation_NN from_IN being_VBG balanced_VBN by_IN a_DT natural_JJ and_CC general_JJ form_NN of_IN a_DT penalty_NN function_NN ._.
+While_IN this_DT formulation_NN admits_VBZ a_DT convex_NN programming_NN solution_NN -LRB-_-LRB- assuming_VBG t_NN

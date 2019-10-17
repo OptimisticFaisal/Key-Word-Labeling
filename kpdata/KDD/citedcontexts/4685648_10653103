@@ -1,0 +1,5 @@
+aining_VBG set_NN ,_, a_DT single_JJ rating_NN is_VBZ withheld_VBN for_IN the_DT test_NN set_NN ._.
+All_DT reported_VBN results_NNS are_VBP averaged_VBN over_IN the_DT same_JJ 3_CD random_JJ train-test_NN splits_VBZ used_VBN in_IN -LRB-_-LRB- Marlin_NNP ,_, 2003_CD ;_: 2004_CD ;_: Rennie_NNP &_CC Srebro_NNP ,_, 2005_CD ;_: DeCoste_NNP ,_, 2006_CD ;_: =_JJ -_: =_JJ Park_NNP &_CC Pennock_NNP ,_, 2007_CD -_: =_JJ -_: ;_: Lawrence_NNP &_CC Urtasun_NNP ,_, 2009_CD -RRB-_-RRB- ._.
+Our_PRP$ Gibbs_NNP samplers_NNS wereMixed_VBD Membership_NN Matrix_NNP Factorization_NNP Figure_NNP 2_CD ._.
+RMSE_NN improvements_NNS over_IN BPMF\/40_NN on_IN the_DT Netflix_NNP Prize_NNP as_IN a_DT function_NN of_IN movie_NN or_CC user_NN rating_NN count_NN ._.
+Le_NNP

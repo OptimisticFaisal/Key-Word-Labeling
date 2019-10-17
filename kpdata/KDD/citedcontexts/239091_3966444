@@ -1,0 +1,4 @@
+luate_VB them_PRP with_IN numerical_JJ attributes_NNS ._.
+In_IN -LRB-_-LRB- 6_CD ,_, 19_CD -RRB-_-RRB- both_CC robustness_NN and_CC reliability_NN of_IN incremental_JJ classifiers_NNS are_VBP evaluated_VBN using_VBG synthetic_JJ data_NNS streams_NNS generated_VBN from_IN a_DT moving_VBG hyperplane_NN ._.
+Similarly_RB to_TO =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP also_RB evaluate_VBP our_PRP$ algorithm_NN as_IN general_JJ purpose_NN classifier_NN using_VBG real_JJ databases_NNS available_JJ at_IN the_DT UCI_NNP repository_NN ._.
+Both_DT experiments_NNS were_VBD conducted_VBN on_IN a_DT PC_NN with_IN CPU_NN 1.7_CD GHz_NNS and_CC 512_CD MB_NN of_IN RAM_NNP running_VBG W_NN

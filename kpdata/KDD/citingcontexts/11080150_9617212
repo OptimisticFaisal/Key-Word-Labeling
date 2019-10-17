@@ -1,0 +1,5 @@
+ampling_VBG performance_NN with_IN a_DT small_JJ memory_NN footprint_NN ._.
+SparseLDA_NN is_VBZ approximately_RB 20_CD times_NNS faster_RBR than_IN highly_RB optimized_VBN traditional_JJ LDA_NN and_CC twice_RB the_DT speedup_NN of_IN previously_RB published_VBN fast_JJ sampling_NN methods_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2_CD ._.
+BACKGROUND_NN A_DT statistical_JJ topic_NN model_NN represents_VBZ the_DT words_NNS in_IN documents_NNS in_IN a_DT collection_NN W_NN as_IN mixtures_NNS of_IN T_NN ``_`` topics_NNS ,_, ''_'' whichare_JJ multinomials_NNS over_IN a_DT vocabulary_NN of_IN size_NN V_NN ._.
+Each_DT document_NN d_NN is_VBZ associa_NN

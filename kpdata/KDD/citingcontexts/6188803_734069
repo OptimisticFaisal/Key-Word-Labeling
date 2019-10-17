@@ -1,0 +1,4 @@
+Keywords_NNP Clickthrough_NNP data_NNS ,_, Web_NN search_NN ,_, Active_JJ exploration_NN ,_, Learning_NNP to_TO rank_VB 1_CD ._.
+INTRODUCTION_NN There_EX has_VBZ recently_RB been_VBN an_DT interest_NN in_IN training_NN search_NN engines_NNS automatically_RB using_VBG machine_NN learning_NN -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 20_CD ,_, 4_CD ,_, 24_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT ideal_JJ training_NN data_NNS would_MD be_VB rankings_NNS of_IN documents_NNS ordered_VBN by_IN relevance_NN for_IN some_DT set_NN of_IN queries_NNS ._.
+In_IN some_DT cases_NNS it_PRP is_VBZ practical_JJ to_TO hire_VB experts_NNS to_TO manually_RB provide_VB relevance_NN information_NN for_IN part_NN

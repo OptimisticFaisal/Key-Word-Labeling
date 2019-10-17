@@ -1,0 +1,6 @@
+s_NN PBKDF2_NN ._.
+9_CD Related_JJ Work_NN Slowing_VBG down_IN hash_JJ functions_NNS ,_, like_IN DPAPI_NNP does_VBZ ,_, is_VBZ a_DT standard_JJ defense_NN ._.
+Many_JJ password_NN management_NN proposals_NNS discuss_VBP how_WRB to_TO slow_VB hash_JJ functions_NNS for_IN slowing_VBG down_RP dictionary_NN attacks_NN =_JJ -_: =[_NN 3_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT methods_NNS are_VBP based_VBN on_IN the_DT assumption_NN that_IN the_DT attacker_NN has_VBZ limited_VBN computing_NN power_NN ._.
+Several_JJ recent_JJ papers_NNS propose_VBP models_NNS for_IN how_WRB humans_NNS generate_VBP passwords_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+These_DT results_NNS apply_VBP their_PRP$ models_NNS

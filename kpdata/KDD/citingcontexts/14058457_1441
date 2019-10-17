@@ -1,0 +1,4 @@
+that_WDT share_VBP many_JJ common_JJ neighbors_NNS are_VBP more_RBR likely_JJ to_TO create_VB a_DT direct_JJ connection_NN ._.
+Thus_RB ,_, given_VBN two_CD users_NNS we_PRP define_VBP common_n_NN as_IN their_PRP$ number_NN of_IN common_JJ neighbors_NNS and_CC overlap_n_NN as_IN their_PRP$ Jaccard_NNP coefficient_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN addition_NN ,_, aa_n_NN is_VBZ their_PRP$ Adamic-Adar_NNP measure_NN based_VBN on_IN the_DT degrees_NNS of_IN the_DT shared_JJ neighbors_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+4.2.3_CD Global_NNP features_NNS Finally_RB ,_, we_PRP define_VBP measures_NNS that_WDT can_MD be_VB adopted_VBN for_IN any_DT pair_NN of_IN users_NNS ,_, as_IN they_PRP

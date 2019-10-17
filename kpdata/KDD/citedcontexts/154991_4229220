@@ -1,0 +1,3 @@
+n_NN of_IN semantic_JJ classes_NNS can_MD take_VB a_DT variety_NN of_IN approaches_NNS ,_, but_CC often_RB uses_VBZ corpus_NN methods_NNS and_CC the_DT Distributional_NNP Hypothesis_NNP -LRB-_-LRB- Harris_NNP 1964_CD -RRB-_-RRB- to_TO automatically_RB cluster_VB similar_JJ entities_NNS into_IN classes_NNS ,_, e.g._FW CBC_NNP -LRB-_-LRB- =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP 2002_CD -_: =--RRB-_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP experiment_NN with_IN two_CD sets_NNS of_IN semantic_JJ classes_NNS ,_, one_CD from_IN WordNet_NNP and_CC one_CD from_IN CBC_NNP ._.
+Another_DT thread_NN related_JJ to_TO our_PRP$ work_NN includes_VBZ extracting_VBG from_IN text_NN corpora_NN paraphrases_NNS -LRB-_-LRB- Barzilay_NNP and_CC

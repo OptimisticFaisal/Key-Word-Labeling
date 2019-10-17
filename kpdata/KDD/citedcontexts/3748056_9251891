@@ -1,0 +1,4 @@
+e_LS ,_, privacy_NN preservation_NN for_IN clustering_NN tasks_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Several_JJ other_JJ recently_RB proposed_VBN privacypreserving_VBG classification_NN techniques_NNS specific_JJ to_TO the_DT data_NNS mining_NN model_NN include_VBP cryptographically_RB private_JJ SVMs_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC wavelet-based_JJ distortion_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+We_PRP are_VBP not_RB aware_JJ of_IN any_DT privacy-preserving_JJ approaches_NNS specific_JJ to_TO Cox_NN regression_NN or_CC survival_NN analysis_NN ._.
+While_IN our_PRP$ approach_NN was_VBD designed_VBN with_IN this_DT setting_NN in_IN mind_NN ,_, w_NN

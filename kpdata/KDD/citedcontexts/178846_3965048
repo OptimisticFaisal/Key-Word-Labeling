@@ -1,0 +1,4 @@
+itemset_NN X_NN is_VBZ maximal_JJ if_IN no_DT frequent_JJ itemset_NN Y_NN exists_VBZ such_JJ that_IN X_NN ⊂_NN Y_NN ._.
+Prominent_JJ methods_NNS that_WDT efficiently_RB exploit_VBP these_DT modifications_NNS to_TO the_DT problem_NN are_VBP MAFIA_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, GenMax_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, CLOSET_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, CLOSET_NN -LRB-_-LRB- +_CC -RRB-_-RRB- =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC CHARM_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Later_RB in_IN the_DT paper_NN ,_, a_DT relationship_NN between_IN the_DT problems_NNS of_IN mining_NN LSPs_NNS in_IN trajectories_NNS and_CC mining_NN CFIs_NNS are_VBP described_VBN ._.
+While_IN CFI_NNP mining_NN methods_NNS can_MD be_VB modified_VBN to_TO find_VB the_DT desired_VBN sol_NN

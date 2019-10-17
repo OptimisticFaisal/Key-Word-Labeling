@@ -1,0 +1,4 @@
+ntly_RB proposed_VBN community_NN measure_NN that_WDT explicitly_RB takes_VBZ the_DT degree_NN distribution_NN into_IN consideration_NN and_CC has_VBZ been_VBN shown_VBN to_TO be_VB an_DT effective_JJ quantity_NN to_TO measure_VB community_NN structure_NN in_IN many_JJ complex_JJ networks_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB ,_, we_PRP briefly_RB review_VBP the_DT concept_NN of_IN modularity_NN ._.
+Consider_VB dividing_VBG the_DT interaction_NN matrix_NN A_NN of_IN n_NN vertices_NNS and_CC m_NN edges_VBZ into_IN k_NN non-overlapping_JJ communities_NNS ._.
+Let_VB si_RB denote_VB the_DT community_NN membership_NN of_IN

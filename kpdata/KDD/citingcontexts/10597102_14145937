@@ -1,0 +1,5 @@
+tic_JJ ._.
+Considering_VBG the_DT hardness_NN of_IN the_DT problem_NN ,_, we_PRP might_MD expect_VB the_DT greedy_JJ algorithm_NN to_TO perform_VB arbitrarily_RB bad_JJ ._.
+However_RB ,_, we_PRP will_MD see_VB that_IN this_DT is_VBZ not_RB the_DT case_NN ._.
+A_DT fundamental_JJ result_NN of_IN Nemhauser_NNP et_FW al._FW =_SYM -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: proves_VBZ that_IN for_IN monotonic_JJ submodular_JJ functions_NNS ,_, the_DT set_VBN ˆ_NN G_NN returnedbythegreedyalgorithmobtainsatleastaconstantfraction_NN of_IN -LRB-_-LRB- 1_CD −_FW 1\/e_FW -RRB-_-RRB- ≈_CD 63_CD %_NN oftheoptimalvalueachievable_JJ using_VBG k_NN edges_NNS ._.
+Moreover_RB ,_, we_PRP can_MD acq_VB

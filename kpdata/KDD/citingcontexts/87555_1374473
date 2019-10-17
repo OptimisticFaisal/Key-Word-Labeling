@@ -1,0 +1,4 @@
+ery_NN poor_NN ._.
+For_IN example_NN ,_, most_JJS decision_NN tree_NN and_CC rule_NN learners_NNS work_VBP by_IN attempting_VBG to_TO drive_VB class_NN probabilities_NNS to_TO zero_CD or_CC one_CD within_IN each_DT lea\/or_NN rule_NN ,_, and_CC the_DT resulting_VBG estimates_NNS are_VBP correspondingly_RB off_RB =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Because_IN of_IN this_DT ,_, and_CC because_IN some_DT classifiers_NNS may_MD not_RB produce_VB class_NN probabilities_NNS ,_, MetaCost_NNP allows_VBZ their_PRP$ use_NN ,_, but_CC does_VBZ not_RB require_VB it_PRP ._.
+A_DT more_RBR robust_JJ and_CC generally-applicable_JJ method_NN for_IN obtaining_VBG cla_NN

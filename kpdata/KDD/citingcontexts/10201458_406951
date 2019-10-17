@@ -1,0 +1,3 @@
+l_NN condition_NN ,_, lie_NN in_IN the_DT range_NN -LRB-_-LRB- −_FW 2,2_FW -RRB-_-RRB- ,_, with_IN a_DT substantial_JJ fraction_NN lying_VBG close_RB to_TO zero_NN ,_, which_WDT denotes_VBZ the_DT inactivity_NN of_IN the_DT corresponding_JJ gene_NN under_IN the_DT corresponding_JJ condition_NN ._.
+We_PRP used_VBD the_DT BicAT_NN tool_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: for_IN implementations_NNS of_IN the_DT ISA_NN and_CC CC_NN biclustering_NN algorithms_NNS ,_, and_CC our_PRP$ own_JJ implementation_NN of_IN the_DT RAP_NN framework_NN for_IN the_DT range_NN support_NN pattern_NN discovery_NN algorithms_NNS ._.
+Also_RB ,_, since_IN the_DT patterns_NNS derived_VBN by_IN

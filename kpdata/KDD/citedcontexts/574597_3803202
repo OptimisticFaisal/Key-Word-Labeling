@@ -1,0 +1,4 @@
+ncludes_NNS only_RB a_DT single_JJ new_JJ data_NNS point_NN at_IN each_DT time_NN step_NN and_CC that_IN it_PRP requires_VBZ setting_VBG a_DT learning_NN rate_NN ._.
+To_TO circumvent_VB the_DT difficulty_NN of_IN incrementally_RB updating_VBG the_DT product_NN of_IN scatter_NN matrices_NNS ,_, Yan_NNP et_FW al._FW =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: used_VBD a_DT modified_VBN criterion_NN by_IN computing_VBG the_DT difference_NN of_IN the_DT between-class_JJ and_CC within-class_JJ scatter_NN matrices_NNS ._.
+However_RB ,_, this_DT may_MD lead_VB to_TO regularization_NN problems_NNS of_IN the_DT two_CD scatter_NN matrices_NNS ._.
+Lin_NNP et_FW al._FW ._.

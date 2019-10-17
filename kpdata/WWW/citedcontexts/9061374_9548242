@@ -1,0 +1,7 @@
+her_PRP$ Snew_NNP can_MD substitute_VB Sold_NNP -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+The_DT approach_NN ensures_VBZ that_IN every_DT service_NN S_NN that_WDT interacts_VBZ properly_RB with_IN Sold_NN also_RB interacts_VBZ properly_RB with_IN Snew_NNP ._.
+A_DT properly_RB interacting_VBG service_NN is_VBZ called_VBN a_DT partner_NN ._.
+In_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP have_VBP applied_VBN these_DT techniques_NNS to_TO WS-BPEL_NN processes_NNS ._.
+However_RB ,_, this_DT approach_NN only_RB covers_VBZ the_DT static_JJ and_CC not_RB the_DT dynamic_JJ business_NN protocol_NN evolution_NN ._.
+A_DT service_NN has_VBZ running_VBG instances_NNS ._.
+In_IN case_NN a_DT servi_NN

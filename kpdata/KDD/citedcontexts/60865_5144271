@@ -1,0 +1,4 @@
+arning_VBG approach_NN ,_, ignoring_VBG the_DT controllable_JJ aspects_NNS of_IN the_DT problem_NN ,_, is_VBZ very_RB similar_JJ to_TO the_DT work_NN of_IN Joachims_NNP who_WP explored_VBD learning_VBG better_JJR ranking_NN functions_NNS using_VBG click_VBP data_NNS in_IN the_DT context_NN of_IN web_NN search_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4_LS ._.
+THE_DT MULTI-ARMED_NNP BANDIT_NNP PROBLEM_NN As_IN it_PRP is_VBZ clear_JJ from_IN previous_JJ discussion_NN the_DT overall_JJ problem_NN involves_VBZ exploration_NN and_CC exploitation_NN at_IN some_DT level_NN ._.
+Exploration_NNP means_VBZ :_: to_TO explore_VB different_JJ arms_NNS -LRB-_-LRB- e.g._FW ,_,

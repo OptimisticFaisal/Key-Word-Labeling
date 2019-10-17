@@ -1,0 +1,3 @@
+fully-supervised_JJ setting_NN ;_: extensions_NNS to_TO unsupervised_JJ settings_NNS have_VBP been_VBN proposed_VBN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, though_IN these_DT are_VBP not_RB easily_RB applicable_JJ here_RB ._.
+Similar_JJ in_IN spirit_NN to_TO the_DT technique_NN we_PRP propose_VBP here_RB is_VBZ BoostCluster_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT uses_VBZ boosting_VBG to_TO return_VB a_DT single-membership_JJ clustering_NN instead_RB of_IN the_DT mixture-of-clusterings_NNS our_PRP$ model_NN produces_VBZ ._.
+Work_NN done_VBN by_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- boosts_VBZ an_DT EM_NN mixture_NN classifier_NN but_CC their_PRP$ focus_NN is_VBZ on_IN learning_VBG

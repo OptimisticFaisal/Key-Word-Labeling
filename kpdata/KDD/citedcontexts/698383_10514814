@@ -1,0 +1,4 @@
+regression_NN functions_NNS ,_, and_CC each_DT segment_NN is_VBZ a_DT state_NN in_IN an_DT HMM_NN ;_: a_DT change_NN in_IN states_NNS corresponds_VBZ to_TO a_DT change_NN point_NN ._.
+A_DT stream-based_JJ approach_NN to_TO change_VB point_NN detection_NN was_VBD proposed_VBN by_IN Yamanishi_NNP and_CC Takeuchi_NNP =_SYM -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT technique_NN reduces_VBZ the_DT problem_NN of_IN change_NN detection_NN in_IN time_NN series_NN into_IN that_DT of_IN outlier_NN detection_NN from_IN time_NN series_NN of_IN moving-averaged_JJ scores_NNS ._.
+Chan_NNP and_CC Mahoney_NNP -LRB-_-LRB- 8_CD -RRB-_-RRB- proposed_VBD a_DT technique_NN called_VBN box_NN

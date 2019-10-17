@@ -1,0 +1,4 @@
+f_LS interest_NN from_IN Web_NN documents_NNS ._.
+Several_JJ machine_NN learning_NN methods_NNS have_VBP been_VBN developed_VBN for_IN automatic_JJ wrapper_NN generation_NN by_IN learning_VBG extraction_NN models_NNS from_IN training_NN examples_NNS and_CC achieve_VB promising_JJ results_NNS =_JJ -_: =[_NN 11_CD ,_, 12_CD ,_, 13_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+All_DT these_DT methods_NNS suffer_VBP from_IN one_CD common_JJ shortcoming_NN in_IN that_IN the_DT learned_VBN wrapper_NN can_MD only_RB extract_VB the_DT attributes_NNS specified_VBN in_IN the_DT training_NN examples_NNS ._.
+For_IN example_NN ,_, if_IN we_PRP just_RB annotate_VBP the_DT start_NN time_NN ,_,

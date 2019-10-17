@@ -1,0 +1,4 @@
+ce_NN process_NN ._.
+The_DT path_NN summary_NN is_VBZ easy_JJ to_TO construct_NN ,_, concise_NN ,_, and_CC very_RB useful_JJ for_IN XQuery_NN processing_NN ,_, especially_RB for_IN variable_JJ binding_NN ._.
+Interestingly_RB ,_, 40_CD %_NN of_IN the_DT XML_NN documents_NNS found_VBN on_IN the_DT Web_NN have_VBP a_DT DTD_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC about_IN 1_CD %_NN have_VBP an_DT XML_NN Schema_NN ;_: without_IN schemas_NNS ,_, path_NN summaries_NNS still_RB apply_VBP ._.
+Techniques_NNS for_IN input_NN skipping_VBG in_IN structural_JJ joins_VBZ on_IN pre_JJ were_VBD described_VBN using_VBG B_NN +_CC -_: tree_NN indexes_NNS -LRB-_-LRB- 29_CD ,_, 10_CD -RRB-_-RRB- ,_, chained_JJ stacks_NNS -LRB-_-LRB-

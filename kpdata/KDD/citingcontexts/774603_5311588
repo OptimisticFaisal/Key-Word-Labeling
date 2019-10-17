@@ -1,0 +1,4 @@
+g_NN -RRB-_-RRB- the_DT gene_NN identifiers_NNS in_IN the_DT cluster_NN data_NNS were_VBD mapped_VBN to_TO protein_NN identifiers_NNS compatible_JJ with_IN GO_NN ._.
+Each_DT cluster_NN of_IN protein_NN IDs_NNS was_VBD then_RB submitted_VBN to_TO the_DT High-Throughput_NNP GoMiner_NNP command-line_JJ interface_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Statistically_RB over-represented_JJ GO_NN terms_NNS were_VBD defined_VBN using_VBG a_DT Fisher_NNP 's_POS exact_JJ test_NN and_CC corrected_VBN for_IN multiple_JJ testing_NN by_IN false_JJ discovery_NN rate_NN detection_NN -LRB-_-LRB- 100_CD permutations_NNS -RRB-_-RRB- ._.
+The_DT second_JJ method_NN uses_VBZ the_DT o_NN

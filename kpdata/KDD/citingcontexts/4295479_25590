@@ -1,0 +1,4 @@
+ATED_NNS WORK_VBP There_EX is_VBZ a_DT plethora_NN of_IN algorithms_NNS proposed_VBN in_IN the_DT literature_NN to_TO address_VB the_DT issue_NN of_IN discovering_VBG frequent_JJ itemsets_NNS ._.
+The_DT most_RBS important_JJ ,_, and_CC at_IN the_DT basis_NN of_IN many_JJ other_JJ approaches_NNS ,_, is_VBZ apriori_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT property_NN that_WDT is_VBZ at_IN the_DT heart_NN of_IN apriori_NN and_CC forms_VBZ the_DT foundation_NN of_IN most_JJS algorithms_NNS simply_RB states_VBZ that_IN for_IN an_DT itemset_NN to_TO be_VB frequent_JJ all_DT its_PRP$ subsets_NNS have_VBP to_TO be_VB frequent_JJ ._.
+This_DT anti-monotone_NN prop_VB

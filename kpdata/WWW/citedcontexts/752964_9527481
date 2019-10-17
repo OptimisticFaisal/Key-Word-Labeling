@@ -1,0 +1,4 @@
+on_IN of_IN recommendation_NN algorithms_NNS through_IN top-N_JJ measures_NNS has_VBZ been_VBN addressed_VBN before_IN -LRB-_-LRB- 12_CD ,_, 13_CD -RRB-_-RRB- ._.
+All_DT of_IN these_DT approaches_NNS rely_VBP on_IN the_DT use_NN of_IN the_DT well-known_JJ precision_NN and_CC recall_NN measures_NNS ._.
+Ziegler_NNP et_FW al._FW show_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: that_IN evaluating_VBG recommender_NN algorithms_NNS through_IN top-N_JJ lists_NNS measures_NNS does_VBZ not_RB map_VB directly_RB to_TO the_DT user_NN 's_POS utility_NN function_NN ._.
+However_RB ,_, it_PRP does_VBZ address_VB some_DT of_IN the_DT limitations_NNS of_IN the_DT more_RBR commonly_RB accepte_VB

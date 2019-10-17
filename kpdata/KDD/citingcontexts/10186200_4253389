@@ -1,0 +1,4 @@
+sed_VBN on_IN the_DT matrix-forest_JJ theorem_NN ._.
+Interestingly_RB ,_, this_DT quantity_NN ,_, called_VBD the_DT ``_`` regularized_VBN Laplacian_JJ kernel_NN ''_'' -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, defines_VBZ a_DT kernel_NN matrix_NN and_CC is_VBZ related_JJ to_TO the_DT Laplacian_JJ matrix_NN of_IN the_DT graph_NN ._.
+Ito_NNP et_FW al._FW =_SYM -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: further_RB propose_VBP the_DT modified_VBN regularized_JJ Laplacian_NN kernel_NN ,_, an_DT extension_NN of_IN the_DT regularized_VBN Laplacian_NN kernel_NN ,_, by_IN introducing_VBG a_DT new_JJ parameter_NN controlling_VBG importance_NN and_CC relatedness_NN ._.
+Moreover_RB ,_, in_IN -LRB-_-LRB- 25_CD ,_, 5_CD

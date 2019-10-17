@@ -1,0 +1,3 @@
+one_CD of_IN the_DT most_RBS popular_JJ probabilistic_JJ text_NN modeling_NN techniques_NNS and_CC has_VBZ inspired_VBN research_NN ranging_VBG from_IN text_NN classification_NN and_CC clustering_NN -LRB-_-LRB- Phan_NNP et_FW al._FW ,_, 2008_CD -RRB-_-RRB- ,_, information_NN discovery_NN -LRB-_-LRB- Mei_NN et_FW al._FW ,_, 2007_CD ;_: =_JJ -_: =_JJ Titov_NNP and_CC McDonald_NNP ,_, 2008_CD -_: =--RRB-_NN to_TO information_NN retrieval_NN -LRB-_-LRB- Wei_NNP and_CC Croft_NNP ,_, 2006_CD -RRB-_-RRB- ._.
+In_IN this_DT model_NN ,_, each_DT topic_NN is_VBZ represented_VBN by_IN a_DT set_NN of_IN words_NNS and_CC each_DT word_NN corresponds_VBZ with_IN a_DT weight_NN to_TO measure_VB its_PRP$ contribution_NN to_TO the_DT topic_NN ._.
+Wei_NN and_CC C_NN

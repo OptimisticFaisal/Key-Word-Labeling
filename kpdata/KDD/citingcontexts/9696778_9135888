@@ -1,0 +1,3 @@
+based_VBN on_IN personal_JJ social_JJ networks_NNS ._.
+In_IN addition_NN ,_, they_PRP only_RB focused_VBD on_IN social_JJ associations_NNS ,_, not_RB taking_VBG any_DT textual_JJ features_NNS into_IN account_NN in_IN the_DT modeling_NN and_CC the_DT prediction_NN of_IN importance_NN ._.
+Minkov_NNP et_FW al._FW =_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: used_VBN automatically-induced_JJ graphs_NNS to_TO associate_JJ senders_NNS ,_, email_NN folders_NNS and_CC messages_NNS ,_, and_CC a_DT random-walk_JJ algorithm_NN -LRB-_-LRB- e.g._FW ,_, a_DT PageRank_NN like_IN method_NN -RRB-_-RRB- to_TO leverage_NN the_DT associations_NNS in_IN predicting_VBG folders_NNS and_CC r_NN

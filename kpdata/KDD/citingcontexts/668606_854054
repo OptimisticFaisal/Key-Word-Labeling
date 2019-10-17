@@ -1,0 +1,3 @@
+te_IN Algorithm_NNP avoids_VBZ unnecessary_JJ recomputation_NN by_IN remembering_VBG what_WP has_VBZ already_RB been_VBN matched_VBN from_IN cycle_NN to_TO cycle_NN and_CC then_RB computing_VBG only_RB the_DT changes_NNS necessary_JJ for_IN the_DT newly_RB added_VBN or_CC newly_RB removed_VBN facts_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN a_DT result_NN ,_, the_DT computational_JJ complexity_NN per_IN iteration_NN drops_NNS to_TO O_NN -LRB-_-LRB- RFP_NN -RRB-_-RRB- ,_, or_CC linear_NN in_IN the_DT size_NN of_IN the_DT fact_NN base_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+Saving_VBG the_DT state_NN of_IN the_DT system_NN may_MD consume_VB considerable_JJ memory_NN ,_, but_CC this_DT trade-o_NN

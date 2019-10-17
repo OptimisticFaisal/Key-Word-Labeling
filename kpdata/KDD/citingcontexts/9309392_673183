@@ -1,0 +1,5 @@
+tently_RB well_RB regardless_RB of_IN the_DT degree_NN of_IN local_JJ consistency_NN in_IN the_DT data_NN set_NN ._.
+2_CD ._.
+RELATED_NNS WORK_VBP In_IN recent_JJ years_NNS ,_, there_EX has_VBZ been_VBN a_DT great_JJ deal_NN of_IN work_NN on_IN models_NNS for_IN learning_NN and_CC inference_NN in_IN relational_JJ data_NN =_JJ -_: =[_NN 7_CD ,_, 10_CD ,_, 11_CD ,_, 16_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN within-network_JJ classification_NN tasks_NNS where_WRB we_PRP have_VBP sparse_JJ labels_NNS ,_, we_PRP categorize_VBP the_DT previous_JJ work_NN into_IN two_CD main_JJ groups_NNS :_: collective_JJ classification_NN and_CC graph-based_JJ semi-supervised_JJ learning_NN ._.
+Collect_VB

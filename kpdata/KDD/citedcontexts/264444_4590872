@@ -1,0 +1,3 @@
+of_IN the_DT method_NN used_VBN to_TO evaluate_VB query_NN results_NNS ,_, these_DT results_NNS must_MD be_VB computed_VBN based_VBN on_IN the_DT set_NN of_IN all_DT partitions_NNS ,_, the_DT set_NN W_NN ,_, that_WDT may_MD contain_VB a_DT satisfying_JJ record_NN ._.
+2.4_CD Query_NNP Workload_NNP Bias_NNP Recent_JJ works_NNS =_JJ -_: =[_NN 9_CD ,_, 11_CD ,_, 20_CD ,_, 31_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP considered_VBN incorporating_VBG target_NN query_NN workloads_NNS into_IN the_DT anonymization_NN of_IN a_DT data_NN set_NN ._.
+We_PRP can_MD also_RB tailor_VB a_DT spatial_JJ index_NN to_TO take_VB advantage_NN of_IN advanced_JJ knowledge_NN of_IN the_DT types_NNS of_IN workload_NN that_IN wil_NN

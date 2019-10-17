@@ -1,0 +1,3 @@
+:_: frequent_JJ access_NN trees_NNS from_IN a_DT database_NN of_IN web_NN logs_NNS ,_, where_WRB each_DT record_NN corresponds_VBZ to_TO the_DT entire_JJ forward_JJ access_NN of_IN a_DT user_NN ,_, are_VBP explored_VBN in_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+--_: Classification_NN and_CC clustering_NN :_: the_DT work_NN presented_VBN in_IN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ a_DT frequent_JJ treemining_JJ algorithm_NN to_TO extract_VB frequent_JJ substructures_NNS from_IN XML_NN data_NNS ,_, and_CC subsequently_RB classifies_VBZ the_DT data_NNS according_VBG to_TO its_PRP$ structure_NN ._.
+s_NN --_: Database_NN indexing_NN :_: in_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- a_DT frequent_JJ treemini_NN

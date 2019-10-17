@@ -1,0 +1,4 @@
+has_VBZ been_VBN the_DT most_RBS common_JJ method_NN ._.
+Recent_JJ methods_NNS follow_VBP the_DT Alternating_NNP Nonnegative_NNP Least_NNP Squares_NNPS -LRB-_-LRB- ANLS_NN -RRB-_-RRB- framework_NN suggested_VBN by_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+This_DT framework_NN has_VBZ been_VBN proved_VBN to_TO converge_VB to_TO stationary_JJ points_NNS by_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: as_RB long_RB as_IN one_PRP can_MD solve_VB each_DT nonnegative_JJ least_JJS square_JJ sub-problem_NN exactly_RB ._.
+Among_IN existing_VBG methods_NNS ,_, -LRB-_-LRB- 18_CD -RRB-_-RRB- proposes_VBZ a_DT projected_JJ gradient_NN method_NN ,_, -LRB-_-LRB- 11_CD -RRB-_-RRB- uses_VBZ an_DT active_JJ set_NN method_NN ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- applies_VBZ a_DT projected_VBN

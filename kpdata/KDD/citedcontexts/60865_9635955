@@ -1,0 +1,4 @@
+les_FW of_IN a_DT commercial_JJ Web_NN search_NN engine_NN ._.
+A_DT query_NN session_NN contains_VBZ a_DT query_NN issued_VBN by_IN a_DT user_NN and_CC a_DT rank_JJ list_NN of_IN -LRB-_-LRB- top-10_JJ -RRB-_-RRB- links_NNS browsed_VBN by_IN the_DT same_JJ user_NN -LRB-_-LRB- with_IN or_CC without_IN click_VBP -RRB-_-RRB- ._.
+Following_VBG the_DT notations_NNS in_IN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT query_NN session_NN is_VBZ represented_VBN by_IN a_DT triplet_NN -LRB-_-LRB- q_NN ,_, r_NN ,_, c_NN -RRB-_-RRB- consisting_VBG of_IN the_DT query_FW q_FW ,_, the_DT ranking_JJ r_NN presented_VBN to_TO the_DT user_NN ,_, and_CC the_DT set_VBN c_NN of_IN links_NNS -LRB-_-LRB- documents_NNS -RRB-_-RRB- the_DT user_NN clicked_VBD on_RP ._.
+Figure_NN 1_CD shows_VBZ a_DT query_NN s_NN

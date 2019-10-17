@@ -1,0 +1,4 @@
+.28_CD 0.3_CD -LRB-_-LRB- d_NN -RRB-_-RRB- HomeLocation_NN =_JJ L.A._NNP CountysSchoolType_NN =_JJ publicsAdmit_NN =_JJ Yes_NNP Figure_NNP 5_CD :_: UCI_NN Applicants_NNS 1993-1998_CD ._.
+Expected_VBN values_NNS are_VBP shown_VBN by_IN the_DT dotted_VBN lines_NNS ._.
+5_CD Related_NNP Work_NNP Chakrabarti_NNP ,_, Sarawagi_NNP ,_, and_CC Dom_NNP =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: tackle_VB the_DT related_JJ problem_NN of_IN finding_VBG surprising_JJ temporal_JJ patterns_NNS in_IN market_NN basket_NN data_NNS ._.
+They_PRP use_VBP a_DT Minimum_NNP Description_NN Length_NN approach_NN where_WRB surprising_JJ patterns_NNS are_VBP those_DT with_IN long_JJ encoding_NN costs_NNS ._.

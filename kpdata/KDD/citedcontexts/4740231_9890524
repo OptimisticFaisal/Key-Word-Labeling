@@ -1,0 +1,4 @@
+ry_NN to_TO solve_VB this_DT problem_NN ,_, investigators_NNS have_VBP tried_VBN techniques_NNS such_JJ as_IN re-sampling_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- or_CC altering_VBG the_DT fitness_NN metric_NN ._.
+One_CD metric_NN that_WDT has_VBZ been_VBN shown_VBN to_TO be_VB highly_RB successful_JJ is_VBZ balanced_JJ error\/accuracy_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT metric_NN has_VBZ been_VBN shown_VBN to_TO solve_VB the_DT class_NN imbalance_NN problem_NN for_IN another_DT approach_NN designed_VBN to_TO detect_VB epistasis_NN --_: Multifactor_JJ Dimensionality_NN Reduction_NN -LRB-_-LRB- MDR_NN -RRB-_-RRB- -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+We_PRP assessed_VBD the_DT performance_NN of_IN GENN_NN

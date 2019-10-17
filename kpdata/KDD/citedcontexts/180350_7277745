@@ -1,0 +1,4 @@
+sed_JJ clustering_NN of_IN sample-tracking_JJ profiles_NNS ._.
+It_PRP is_VBZ indeed_RB wellknown_JJ that_IN Euclidean_JJ distance_NN ,_, sensitive_JJ to_TO distortions_NNS on_IN the_DT time_NN axis_NN ,_, fails_VBZ to_TO produce_VB a_DT correct_JJ measure_NN of_IN similarity_NN for_IN time_NN series_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN an_DT alternative_NN to_TO the_DT standard_JJ Euclidean_JJ distance_NN ,_, a_DT different_JJ metric_NN can_MD be_VB introduced_VBN ,_, inspired_VBN by_IN a_DT classical_JJ technique_NN employed_VBN in_IN speech_NN recognition_NN ,_, called_VBN Dynamic_NNP Time_NNP Warping_NNP -LRB-_-LRB- DTW_NNP -RRB-_-RRB- ._.
+This_DT

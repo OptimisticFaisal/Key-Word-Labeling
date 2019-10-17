@@ -1,0 +1,3 @@
+rse_NN and_CC high-dimensional_JJ data_NNS ,_, it_PRP turns_VBZ out_RP to_TO be_VB beneficial_JJ to_TO employ_VB co-clustering_NN or_CC simultaneously_RB clustering_VBG both_DT dimensions_NNS of_IN the_DT table_NN by_IN exploiting_VBG the_DT clear_JJ duality_NN between_IN rows_NNS and_CC columns_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Within_IN our_PRP$ bigraph_JJ model_NN ,_, the_DT co-clustering_NN problem_NN can_MD be_VB solved_VBN by_IN constructing_VBG vertex_NN graph_NN partitions_NNS ._.
+Finding_VBG a_DT globally_RB optimal_JJ solution_NN to_TO such_PDT a_DT graph_NN partitioning_NN problem_NN is_VBZ NPcomplete_NN ;_: how_WRB

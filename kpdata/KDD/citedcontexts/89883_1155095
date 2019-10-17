@@ -1,0 +1,4 @@
+firstly_RB an_DT algorithm_NN that_WDT finds_VBZ frequent_JJ subgraphs_NNS in_IN a_DT single_JJ graph_NN setting_NN and_CC secondly_RB a_DT modality_NN to_TO find_VB rules_NNS and_CC meta-rules_NNS between_IN the_DT discovered_VBN subgraphs_NNS ._.
+The_DT searched_VBN structures_NNS are_VBP closed_VBN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: and_CC disjunct_JJ subgraphs_NNS ._.
+One_CD aim_NN of_IN this_DT study_NN is_VBZ to_TO use_VB the_DT discovered_VBN symbols_NNS for_IN classification_NN and_CC indexation_NN of_IN document_NN images_NNS when_WRB a_DT supervised_JJ approach_NN is_VBZ not_RB at_IN hand_NN ._.
+The_DT relations_NNS found_VBD betw_NN

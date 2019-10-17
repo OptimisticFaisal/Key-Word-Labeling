@@ -1,0 +1,6 @@
+ant_NN ._.
+The_DT objective_NN of_IN this_DT work_NN is_VBZ to_TO contribute_VB for_IN this_DT subject_NN ._.
+We_PRP focus_VBP in_IN one_CD of_IN the_DT inductive_JJ learning_NN methods_NNS in_IN predictive_JJ data_NNS mining_NN and_CC knowledge_NN discovery_NN :_: decision_NN trees_NNS ._.
+The_DT system_NN VFDTc_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT incremental_JJ algorithm_NN decision_NN tree_NN ,_, was_VBD the_DT departure_NN system_NN for_IN this_DT work_NN ._.
+Here_RB we_PRP present_VBP a_DT new_JJ method_NN ,_, called_VBN SR_NN -LRB-_-LRB- Sequencial_JJ Regularization_NN -RRB-_-RRB- ._.
+This_DT new_JJ method_NN was_VBD implemented_VBN in_IN the_DT VFDTc_NN syste_NN

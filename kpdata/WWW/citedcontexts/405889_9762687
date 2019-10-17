@@ -1,0 +1,5 @@
+ified_VBN cases_NNS for_IN labeling_NN ._.
+Co-Testing_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- is_VBZ an_DT active_JJ learning_NN technique_NN for_IN multi-view_JJ learning_NN tasks_NNS ._.
+There_EX are_VBP many_JJ works_NNS addressing_VBG ontology_JJ matching_NN with_IN user_NN interaction_NN ,_, like_IN GLUE_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, APFELi_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 28_CD -RRB-_-RRB- ,_, etc._NN ._.
+Nevertheless_RB ,_, the_DT annotation_NN step_NN is_VBZ time-consuming_JJ and_CC expensive_JJ ,_, and_CC users_NNS are_VBP usually_RB not_RB patient_JJ enough_RB to_TO label_VB thousands_NNS of_IN concept_NN pairs_NNS for_IN the_DT relevance_NN feedback_NN ._.
+So_RB our_PRP$ approach_NN

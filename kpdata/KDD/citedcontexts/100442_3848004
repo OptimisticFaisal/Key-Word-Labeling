@@ -1,0 +1,4 @@
+me_PRP way_NN as_IN a_DT virus_NN scanner_NN by_IN search1_NN ing_NN for_IN a_DT known_JJ identity_NN or_CC signature_NN for_IN each_DT specific_JJ intrusion_NN event_NN ._.
+In_IN contrast_NN ,_, an_DT anomaly_JJ detection_NN system_NN such_JJ as_IN SPADE_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ,_, NIDES_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, ADAM_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, or_CC PHAD_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: builds_VBZ a_DT model_NN of_IN normal_JJ traffic_NN and_CC detects_VBZ deviations_NNS from_IN the_DT normal_JJ model_NN ._.
+A_DT large_JJ departure_NN of_IN any_DT traffic_NN from_IN the_DT normal_JJ model_NN is_VBZ likely_JJ to_TO be_VB anomalous_JJ ._.
+An_DT extensive_JJ review_NN of_IN various_JJ approac_NN

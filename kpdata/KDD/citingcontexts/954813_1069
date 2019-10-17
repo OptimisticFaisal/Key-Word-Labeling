@@ -1,0 +1,3 @@
+ined_VBN by_IN a_DT CRF_NN in_IN Equation_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC the_DT parameters_NNS Λ_NN ,_, the_DT most_RBS probable_JJ labeling_NN sequence_NN can_MD be_VB obtained_VBN as_IN Y_NN ∗_NN =_JJ argmaxP_NN -LRB-_-LRB- Y_NN |_NN X_NN ;_: Λ_NN -RRB-_-RRB- ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- Y_NN which_WDT can_MD be_VB efficiently_RB calculated_VBN using_VBG the_DT Viterbi_NNP algorithm_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT marginal_JJ probability_NN of_IN states_NNS at_IN each_DT position_NN in_IN the_DT sequence_NN can_MD be_VB computed_VBN by_IN a_DT dynamic_JJ programming_NN inference_NN procedure_NN similar_JJ to_TO the_DT forward-backward_JJ procedure_NN for_IN HMM_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+We_PRP can_MD define_VB

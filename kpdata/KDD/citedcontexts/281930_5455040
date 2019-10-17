@@ -1,0 +1,4 @@
+is_VBZ a_DT major_JJ problem_NN for_IN many_JJ real_JJ databases_NNS where_WRB there_EX are_VBP often_RB millions_NNS of_IN records_NNS ._.
+To_TO overcome_VB this_DT problem_NN ,_, some_DT new_JJ approaches_NNS have_VBP been_VBN developed_VBN to_TO enhance_VB the_DT complexity_NN to_TO become_VB semi-linear_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2_LS -RRB-_-RRB- Density_NN Based_VBD This_DT was_VBD proposed_VBN by_IN Breunig_NNP ,_, et_FW al._FW -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+It_PRP relies_VBZ on_IN the_DT Local_NNP Outlier_NNP Factor_NN -LRB-_-LRB- LOF_NN -RRB-_-RRB- ,_, which_WDT is_VBZ the_DT average_NN of_IN the_DT ratios_NNS of_IN the_DT density_NN of_IN example_NN p_NN and_CC the_DT density_NN of_IN its_PRP$ nearest_JJS

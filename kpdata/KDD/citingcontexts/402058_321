@@ -1,0 +1,4 @@
+nd_NN edge_NN contains_VBZ a_DT label_NN to_TO identify_VB its_PRP$ type_NN ,_, which_WDT need_MD not_RB be_VB unique_JJ ._.
+The_DT methods_NNS for_IN graph-based_JJ anomaly_NN detection_NN presented_VBN in_IN this_DT paper_NN are_VBP part_NN of_IN ongoing_JJ research_NN involving_VBG the_DT Subdue_NNP system_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT is_VBZ a_DT graph-based_JJ data_NN mining_NN project_NN that_WDT has_VBZ been_VBN developed_VBN at_IN the_DT University_NNP of_IN Texas_NNP at_IN Arlington_NNP ._.
+At_IN its_PRP$ core_NN ,_, Subdue_NNP is_VBZ an_DT algorithm_NN for_IN detecting_VBG repetitive_JJ patterns_NNS -LRB-_-LRB- substructures_NNS -RRB-_-RRB- withi_NNS

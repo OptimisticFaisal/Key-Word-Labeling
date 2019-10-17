@@ -1,0 +1,4 @@
+sed_JJ algorithms_NNS influences_VBZ their_PRP$ performance_NN ._.
+Improving_NN pruning_NN with_IN FREQSAT_NN might_MD result_VB in_IN a_DT higher_JJR success_NN rate_NN for_IN these_DT algorithms_NNS ._.
+Other_JJ complexity_NN results_VBZ in_IN frequent_JJ set_NN mining_NN include_VBP -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_JJ -_: ,_, settling_VBG complexity_NN issues_NNS in_IN the_DT context_NN of_IN mining_NN maximally_RB frequent_JJ itemsets_NNS ._.
+8_CD Summary_NN and_CC Conclusion_NN The_DT complexity_NN of_IN different_JJ variants_NNS of_IN the_DT the_DT FREQSAT-problem_NN ,_, where_WRB extra_JJ characteristics_NNS

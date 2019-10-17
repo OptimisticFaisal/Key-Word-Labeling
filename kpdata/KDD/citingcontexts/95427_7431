@@ -1,0 +1,5 @@
+its_PRP$ ._.
+Filtered_VBN in_IN this_DT way_NN ,_, the_DT data_NNS set_NN contains_VBZ 10,835_CD -LRB-_-LRB- 33.1_CD %_NN -RRB-_-RRB- positive_JJ examples_NNS ,_, and_CC 296_CD binary_JJ features_NNS ._.
+Thesrst_NN and_CC third_JJ data_NNS sets_NNS are_VBP publicly_RB available_JJ from_IN the_DT UCI_NNP machine_NN learning_NN repository_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN all_DT cases_NNS ,_, the_DT ensemble_NN methods_NNS were_VBD compared_VBN to_TO the_DT results_NNS of_IN constructing_VBG single_JJ decision_NN trees_NNS on_IN the_DT entire_JJ training_NN set_NN ._.
+Data_NN sets_NNS were_VBD therefore_RB chosen_VBN to_TO be_VB large_JJ enough_RB to_TO reliably_RB test_VB

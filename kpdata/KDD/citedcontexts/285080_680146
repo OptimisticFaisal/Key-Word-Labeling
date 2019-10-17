@@ -1,0 +1,5 @@
+t_NN can_MD be_VB viewed_VBN as_IN link_NN mining_NN ._.
+Kautz_NNP et_FW al._FW -LRB-_-LRB- 26_CD -RRB-_-RRB- constructed_VBN social_JJ networks_NNS from_IN Internet_NNP data_NNS and_CC used_VBD the_DT networks_NNS to_TO guide_VB users_NNS to_TO experts_NNS who_WP can_MD answer_VB their_PRP$ questions_NNS ._.
+Domingos_NNP and_CC Richarson_NNP =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: modeled_VBD the_DT potential_JJ value_NN of_IN a_DT customer_NN ,_, based_VBN on_IN their_PRP$ network_NN connections_NNS ._.
+Others_NNS have_VBP proposed_VBN generative_JJ probabilistic_JJ models_NNS for_IN linked_VBN data_NNS ._.
+Cohn_NNP and_CC Hofmann_NNP -LRB-_-LRB- 7_CD -RRB-_-RRB- proposed_VBD a_DT probabilistic_JJ mode_NN

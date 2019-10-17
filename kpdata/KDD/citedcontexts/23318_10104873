@@ -1,0 +1,5 @@
+tudies_NNS on_IN synthetic_JJ data_NNS to_TO validate_VB our_PRP$ method_NN ._.
+The_DT Bayesian_JJ model_NN under_IN consideration_NN is_VBZ the_DT mixture_NN of_IN transition_NN models_NNS ._.
+Mixture_NN of_IN transition_NN models_NNS have_VBP been_VBN used_VBN to_TO model_VB user_NN visiting_VBG website_NN =_JJ -_: =[_NN 2_CD ,_, 18_CD ,_, 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, unsupervised_JJ training_NN of_IN robots_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC the_DT dynamics_NNS of_IN a_DT military_JJ scenario_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+Transition_NN models_NNS are_VBP useful_JJ in_IN describing_VBG time_NN series_NNS which_WDT have_VBP only_RB finite_JJ number_NN of_IN states_NNS ._.
+The_DT observations_NNS of_IN

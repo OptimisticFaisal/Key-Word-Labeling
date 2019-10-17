@@ -1,0 +1,8 @@
+ve_NN methods_NNS ._.
+To_TO test_VB their_PRP$ scalability_NN ,_, we_PRP further_RB compare_VBP their_PRP$ performances_NNS on_IN large_JJ sparse_JJ datasets_NNS ._.
+We_PRP use_VBP the_DT following_JJ sparse_JJ datasets_NNS :_: 1_CD ._.
+Yahoo-News_NNS -LRB-_-LRB- K-Series_NNS -RRB-_-RRB- :_: A_DT news_NN articles_NNS dataset_VBP ._.
+2_CD ._.
+RCV1_NN =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: :_: An_DT archive_NN of_IN newswire_NN stories_NNS from_IN Reuters_NNP Ltd._NNP ._.
+The_DT original_JJ dataset_NN has_VBZ 781,265_CD documents_NNS and_CC 47,236_CD features_NNS ._.
+Following_VBG the_DT preprocessing_NN in_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, we_PRP choose_VBP data_NNS from_IN 15_CD random_JJ categories_NNS and_CC eli_NNS

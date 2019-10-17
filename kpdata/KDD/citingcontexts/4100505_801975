@@ -1,0 +1,4 @@
+ainly_RB studied_VBN as_IN a_DT graph_NN problem_NN ._.
+Flake_NNP et_FW al._FW -LRB-_-LRB- 7_CD -RRB-_-RRB- defined_VBN communities_NNS as_IN dense_JJ subgraphs_NNS and_CC proposed_VBN algorithms_NNS for_IN identifying_VBG communities_NNS by_IN using_VBG a_DT maximum_NN flow\/minimum_NN cut_NN framework_NN ._.
+Ino_FW et_FW al._FW =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBN different_JJ algorithms_NNS based_VBN on_IN ideas_NNS similar_JJ to_TO that_DT of_IN Flake_NNP ._.
+These_DT studies_NNS extract_VBP communities_NNS from_IN a_DT static_JJ -LRB-_-LRB- aggregated_JJ -RRB-_-RRB- graph_NN and_CC miss_VB the_DT details_NNS on_IN the_DT dynamic_JJ behavior_NN about_IN the_DT commun_NN

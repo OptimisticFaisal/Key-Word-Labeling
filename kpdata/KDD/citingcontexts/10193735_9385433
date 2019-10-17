@@ -1,0 +1,5 @@
+where_WRB Pt_NN -LRB-_-LRB- x_NN ,_, y_NN -RRB-_-RRB- and_CC Ps_NN -LRB-_-LRB- x_NN ,_, y_NN -RRB-_-RRB- are_VBP similar_JJ and_CC knowledge_NN can_MD be_VB transferred_VBN ._.
+Much_JJ work_NN has_VBZ been_VBN proposed_VBN to_TO solve_VB transfer_NN learning_NN problem_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+By_IN definition_NN ,_, P_NN -LRB-_-LRB- x_NN ,_, y_NN -RRB-_-RRB- =_JJ r_NN -LRB-_-LRB- y_NN |_CD x_NN -RRB-_-RRB- q_NN -LRB-_-LRB- x_NN -RRB-_-RRB- ._.
+Some_DT work_NN ,_, such_JJ as_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, assumes_VBZ that_IN conditional_JJ probabilities_NNS rt_NN -LRB-_-LRB- y_NN |_CD x_NN -RRB-_-RRB- andrs_NNS -LRB-_-LRB- y_FW |_FW x_LS -RRB-_-RRB- aresimilar_NN in_IN regions_NNS of_IN the_DT latent_JJ space_NN where_WRB marginal_JJ distribution_NN qt_NN -LRB-_-LRB- x_NN -RRB-_-RRB- and_CC qs_NN -LRB-_-LRB- x_NN -RRB-_-RRB- of_IN corresponding_JJ examples_NNS are_VBP close_JJ ._.
+Other_JJ works_NNS ,_, such_JJ

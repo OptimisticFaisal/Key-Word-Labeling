@@ -1,0 +1,6 @@
+matrix_NN ._.
+Hence_RB total_JJ parallel_JJ time_NN is_VBZ given_VBN by_IN Tp_NN =_JJ O_NN -LRB-_-LRB- mns_NN m_NN +_CC n_NN +_CC p_NN p_NN kl_NN +_CC -LRB-_-LRB- kl_NN +_CC k_NN +_CC l_NN -RRB-_-RRB- log_NN p_NN -RRB-_-RRB- ._.
+And_CC total_JJ serial_JJ time_NN is_VBZ Ts_NN =_JJ O_NN -LRB-_-LRB- mns_NN +_CC -LRB-_-LRB- m_NN +_CC n_NN -RRB-_-RRB- kl_NN -RRB-_-RRB- ._.
+4.5_CD Performance_NNP and_CC Scalability_NNP Analysis_NNP Speedup_NNP Speedup_NNP =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ defined_VBN as_IN the_DT ratio_NN of_IN execution_NN time_NN on_IN a_DT single_JJ processor_NN to_TO the_DT execution_NN time_NN for_IN an_DT identical_JJ dataset_NN on_IN p_NN processors_NNS ._.
+We_PRP study_VBD the_DT speedup_NN behavior_NN when_WRB the_DT problem_NN size_NN n_NN is_VBZ varied_JJ ._.
+We_PRP inc_VBP

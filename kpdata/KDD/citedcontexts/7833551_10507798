@@ -1,0 +1,4 @@
+formation_NN measured_VBN by_IN the_DT snapshot_NN quality_NN ._.
+Within_IN this_DT framework_NN ,_, they_PRP designed_VBD two_CD specific_JJ algorithms_NNS :_: evolutionary_JJ k-mean_NN and_CC evolutionary_JJ agglomerative_JJ hierarchical_JJ clustering_NN ._.
+Later_RB ,_, Chi_NNP et_FW al._FW =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBN two_CD evolutionary_JJ spectral_JJ clustering_NN algorithms_NNS PCM_NNP and_CC PCQ_NNP ,_, by_IN incorporating_VBG the_DT temporal_JJ smoothness_NN to_TO regularize_VB a_DT cost_NN function_NN ._.
+These_DT methods_NNS significantly_RB advance_VBP the_DT evolutionary_JJ clus_NN

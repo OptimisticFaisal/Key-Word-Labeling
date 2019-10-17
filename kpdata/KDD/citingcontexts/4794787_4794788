@@ -1,0 +1,3 @@
+derstanding_VBG the_DT application_NN domain_NN ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- data_NN preprocessing_NN ,_, -LRB-_-LRB- 3_LS -RRB-_-RRB- data_NN mining_NN ,_, -LRB-_-LRB- 4_LS -RRB-_-RRB- post-processing_JJ ,_, and_CC -LRB-_-LRB- 5_LS -RRB-_-RRB- applying_VBG discovered_VBN knowledge_NN ,_, where_WRB each_DT step_NN requires_VBZ many_JJ decisions_NNS being_VBG made_VBN by_IN the_DT user_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO find_VB implicit_JJ but_CC potentially_RB useful_JJ patterns\/models_NNS from_IN large_JJ databases_NNS ,_, one_PRP can_MD not_RB expect_VB just_RB to_TO push_VB a_DT large_JJ amount_NN of_IN data_NNS into_IN a_DT KDD_NNP system_NN without_IN the_DT user_NN 's_POS participation_NN ._.
+In_IN other_JJ words_NNS

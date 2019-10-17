@@ -1,0 +1,4 @@
+than_IN clustering_NN in_IN high-dimensional_JJ spaces_NNS ._.
+The_DT correct_JJ clustering_NN can_MD often_RB be_VB determined_VBN even_RB by_IN simple_JJ visual_JJ inspection_NN ._.
+In_IN the_DT automated_JJ case_NN applying_VBG an_DT EM_NN -LRB-_-LRB- Expectation_NN Maximization_NN -RRB-_-RRB- algorithm_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: for_IN fitting_JJ b_NN Gaussian_JJ distributions_NNS on_IN the_DT data_NN works_VBZ well_RB in_IN most_JJS cases_NNS ._.
+If_IN the_DT set_NN X_NN consists_VBZ of_IN b_NN sufficiently_RB dense_JJ subsets_NNS that_WDT lie_VBP on_IN manifolds_NNS of_IN different_JJ dimension_NN ,_, which_WDT are_VBP sufficiently_RB s_NN

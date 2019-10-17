@@ -1,0 +1,5 @@
+chnique_NN under_IN different_JJ experimental_JJ settings_NNS and_CC com265_NNP Copyright_NNP ©_NNP by_IN SIAM_NNP ._.
+Unauthorized_JJ reproduction_NN of_IN this_DT article_NN is_VBZ prohibited_VBN ._.
+pare_VB it_PRP with_IN three_CD main_JJ existing_VBG methods_NNS ,_, namely_RB S-EM_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, PEBL_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Roc-SVM_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+Both_CC Roc-SVM_NN and_CC S-EM_NN are_VBP available_JJ on_IN the_DT Web_NN as_IN a_DT part_NN of_IN the_DT LPU_NN system_NN -LRB-_-LRB- http:\/\/www.cs.uic.edu\/~liub\/LPU\/LPUdownload.html_NN -RRB-_-RRB- ._.
+We_PRP implemented_VBD PEBL_NNP ourselves_PRP as_IN it_PRP is_VBZ not_RB publicly_RB av_IN

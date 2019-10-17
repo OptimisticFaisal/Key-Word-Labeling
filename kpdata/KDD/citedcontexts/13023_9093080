@@ -1,0 +1,4 @@
+significant_JJ ''_'' the_DT itemset_NN is_VBZ considered_VBN to_TO be_VB ._.
+More_JJR details_NNS on_IN the_DT different_JJ ways_NNS for_IN computing_VBG the_DT p-value_NN of_IN a_DT given_VBN pattern_NN are_VBP given_VBN in_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 5_CD -RRB-_-RRB- ;_: we_PRP summarize_VBP 336_CD the_DT approach_NN here_RB briefly_RB ._.
+See_VB =_SYM -_: =[_NN 19_CD ,_, 20_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: for_IN other_JJ approaches_NNS ._.
+Let_VB pi_NN be_VB the_DT marginal_JJ probability_NN of_IN an_DT item_NN i_FW ,_, i.e._FW ,_, the_DT fraction_NN of_IN rows_NNS in_IN the_DT database_NN that_WDT contain_VBP item_NN i._NN Then_RB the_DT probability_NN that_IN an_DT itemset_NN I_PRP is_VBZ contained_VBN in_IN a_DT transac_NN

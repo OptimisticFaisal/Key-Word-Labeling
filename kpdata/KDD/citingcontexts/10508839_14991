@@ -1,0 +1,5 @@
+training_NN examples_NNS ._.
+This_DT means_VBZ that_IN a_DT larger_JJR tree_NN -LRB-_-LRB- that_WDT fits_VBZ the_DT training_NN examples_NNS better_RBR -RRB-_-RRB- predicts_VBZ worse_JJR compared_VBN to_TO a_DT small_JJ tree_NN ._.
+We_PRP have_VBP implemented_VBN post_NN pruning_NN similar_JJ to_TO the_DT postpruning_NN in_IN C4_NN .5_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: in_IN our_PRP$ cost-sensitive_JJ decision_NN tree_NN -LRB-_-LRB- but_CC our_PRP$ post-pruning_JJ is_VBZ guided_VBN by_IN minimum_JJ total_JJ misclassification_NN cost_NN -RRB-_-RRB- ._.
+The_DT CSTree_NN has_VBZ two_CD distinctive_JJ advantages_NNS ._.
+The_DT first_JJ one_CD is_VBZ that_IN there_EX is_VBZ no_DT need_NN for_IN sam_NN

@@ -1,0 +1,5 @@
+ags_RB ,_, Hearst_NNP patterns_NNS search-engine_JJ statistics_NNS ,_, and_CC WordNet_NNP mappings_NNS ._.
+These_DT features_NNS are_VBP combined_VBN using_VBG statistical-relational_JJ machine_NN learning_NN ,_, specifically_RB joint_JJ inference_NN over_IN Markov_NNP logic_NN networks_NNS =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, extending_VBG -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+Figure_NN 3_CD shows_VBZ KOG_NNP 's_POS architecture_NN ._.
+First_RB ,_, its_PRP$ schema_NN cleaner_NN scans_VBZ the_DT infobox_NN system_NN to_TO merge_VB duplicate_VB classes_NNS and_CC attributes_NNS ,_, and_CC infer_VB the_DT type_NN signature_NN of_IN each_DT attribute_NN ._.
+Then_RB ,_,

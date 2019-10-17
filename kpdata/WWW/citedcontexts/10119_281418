@@ -1,0 +1,3 @@
+inite_VB State_NNP Process_VB -LRB-_-LRB- FSP_NN -RRB-_-RRB- models_NNS and_CC compiled_VBN into_IN a_DT Labeled_VBN Transition_NN System_NN -LRB-_-LRB- LTS_NN -RRB-_-RRB- in_IN inferring_VBG the_DT correctness_NN of_IN the_DT Web_NN service_NN compositions_NNS which_WDT are_VBP specified_VBN using_VBG message_NN sequence_NN charts_NNS ._.
+In_IN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Web_NN services_NNS are_VBP verified_VBN using_VBG a_DT Petri_NNP Net_NNP model_NN generated_VBN from_IN a_DT DAML-S_NN description_NN of_IN a_DT service_NN ._.
+One_CD common_JJ pattern_NN of_IN the_DT above_JJ attempts_NNS is_VBZ that_IN they_PRP adapt_VBP static_JJ verification_NN techniques_NNS and_CC the_DT

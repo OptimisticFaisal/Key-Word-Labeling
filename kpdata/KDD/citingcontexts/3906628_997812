@@ -1,0 +1,4 @@
+gorithms_NNS are_VBP not_RB able_JJ to_TO capture_VB local_JJ data_NNS correlations_NNS and_CC find_VB clusters_NNS of_IN correlated_JJ objects_NNS since_IN the_DT principal_JJ axes_NNS of_IN correlated_JJ data_NNS are_VBP arbitrarily_RB oriented_VBN ._.
+Pattern-based_JJ clustering_NN methods_NNS =_JJ -_: =[_NN 24_CD ,_, 21_CD ,_, 16_CD ,_, 15_CD -RRB-_-RRB- -_: =_JJ -_: aim_NN at_IN finding_VBG groups_NNS of_IN objects_NNS that_WDT exhibit_VBP a_DT similar_JJ trend_NN in_IN a_DT subset_NN of_IN attributes_NNS ._.
+This_DT problem_NN is_VBZ also_RB known_VBN as_IN coclustering_NN or_CC biclustering_NN -LRB-_-LRB- 12_CD ,_, 7_CD -RRB-_-RRB- ._.
+In_IN contrast_NN to_TO correlation_NN clustering_NN ,_, pat_NN

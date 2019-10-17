@@ -1,0 +1,6 @@
+n_NN developed_VBD to_TO extract_VB meaningful_JJ subsequences_NNS from_IN gene_NN sequences_NNS ._.
+These_DT subsequences_NNS are_VBP expected_VBN to_TO be_VB related_JJ to_TO observable_JJ behavior_NN in_IN the_DT proteins_NNS ._.
+While_IN some_DT model_NN techniques_NNS are_VBP computational_JJ =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, most_JJS are_VBP based_VBN on_IN biological_JJ knowledge_NN of_IN which_WDT sequences_NNS are_VBP similar_JJ -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Many_JJ involve_VBP model_NN parameters_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+In_IN the_DT model-building_NN process_NN ,_, parameters_NNS are_VBP set_VBN to_TO optimize_VB performance_NN ._.
+Our_PRP$ approac_NN

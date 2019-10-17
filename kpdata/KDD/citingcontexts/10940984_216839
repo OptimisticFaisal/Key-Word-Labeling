@@ -1,0 +1,4 @@
+at_IN most_JJS 10_CD −_CD 4_CD in_IN L1_NN norm_NN ._.
+•_NNP Random_NNP :_: As_IN a_DT baseline_NN comparison_NN ,_, simply_RB select_JJ k_NN random_JJ vertices_NNS in_IN the_DT graph_NN ._.
+We_PRP ignore_VBP other_JJ centrality_NN measures_NNS ,_, such_JJ as_IN distance_NN centrality_NN and_CC betweenness_NN centrality_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: as_IN heuristics_NNS ,_, since_IN we_PRP have_VBP shown_VBN in_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- that_IN distance_NN centrality_NN is_VBZ very_RB slow_JJ and_CC has_VBZ very_RB poor_JJ influence_NN spread_NN ,_, while_IN betweenness_NN centrality_NN would_MD be_VB much_RB slower_JJR than_IN distance_NN centrality_NN ._.
+To_TO obta_VB

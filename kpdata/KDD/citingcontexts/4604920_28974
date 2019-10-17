@@ -1,0 +1,5 @@
+sliding_VBG window_NN to_TO deal_VB with_IN this_DT problem_NN ._.
+3_LS ._.
+TECHNIQUES_NNS FOR_IN MAINTAINING_NNP MEDIAN_NNP MEDIAN_NNP is_VBZ a_DT holistic_JJ function_NN which_WDT ``_`` has_VBZ no_DT constant_NN bound_VBD on_IN the_DT size_NN of_IN the_DT storage_NN needed_VBN to_TO describe_VB a_DT subaggregate_NN ''_'' =_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP is_VBZ obvious_JJ that_IN MEDIAN_NNP can_MD not_RB be_VB maintained_VBN just_RB by_IN storing_VBG the_DT final_JJ aggregation_NN result_VBP from_IN a_DT set_NN of_IN tuples_NNS ._.
+One_CD naive_JJ approach_NN to_TO maintaining_VBG MEDIAN_NN value_NN can_MD be_VB figured_VBN out_RP as_RB follows_VBZ :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- fo_NN

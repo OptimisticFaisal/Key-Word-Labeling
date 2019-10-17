@@ -1,0 +1,3 @@
+discovered_VBN from_IN a_DT data_NN set_NN can_MD be_VB made_VBN manageable_JJ ._.
+Also_RB ,_, note_VBP that_IN ,_, in_IN addition_NN to_TO support_NN ,_, a_DT number_NN of_IN additional_JJ measures_NNS have_VBP been_VBN proposed_VBN to_TO determine_VB the_DT interestingness_NN of_IN association_NN patterns_NNS =_JJ -_: =[_NN 49_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2.2_CD Hyperclique_NN Patterns_NN A_NN hyperclique_NN pattern_NN -LRB-_-LRB- 61_CD -RRB-_-RRB- is_VBZ a_DT type_NN of_IN frequent_JJ pattern_NN that_WDT contains_VBZ items_NNS that_WDT are_VBP strongly_RB associated_VBN with_IN each_DT other_JJ over_IN the_DT supporting_JJ transaction_NN ,_, and_CC are_VBP quite_RB spar_JJ

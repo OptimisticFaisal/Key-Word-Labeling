@@ -1,0 +1,4 @@
+riants_NNS ._.
+We_PRP created_VBD the_DT rewrite_VBP rules_NNS and_CC associated_VBN weights_NNS manually_RB for_IN the_DT current_JJ system_NN ,_, although_IN it_PRP may_MD be_VB possible_JJ to_TO learn_VB query-to-answer_JJ reformulations_NNS and_CC weights_NNS -LRB-_-LRB- e.g._FW see_VB Agichtein_NNP et_FW al._FW =_SYM -_: =[_NN 4_CD -RRB-_-RRB- ;_: Radev_FW et_FW -_: =_SYM -_: al._FW -LRB-_-LRB- 17_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+The_DT rewrites_NNS generated_VBN by_IN our_PRP$ system_NN are_VBP simple_JJ string-based_JJ manipulations_NNS ._.
+For_IN instance_NN ,_, some_DT question_NN types_NNS involve_VBP query_NN rewrites_VBZ with_IN possible_JJ verb_NN movement_NN ;_: the_DT verb_NN ``_`` is_VBZ ''_'' in_IN

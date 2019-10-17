@@ -1,0 +1,5 @@
+t_NN ,_, lookahead_NN information_NN ,_, purity_NN measures_NNS ,_, etc._FW ._.
+Our_PRP$ approach_NN is_VBZ similar_JJ ,_, but_CC applies_VBZ to_TO frequent_JJ itemsets_NNS and_CC association_NN rules_NNS ,_, instead_RB of_IN decision_NN trees_NNS ._.
+Some_DT methods_NNS for_IN visualizing_VBG patterns_NNS exist_VBP =_JJ -_: =[_NN 4_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT visualizers_NNS present_VBP the_DT output_NN of_IN mining_NN algorithms_NNS in_IN a_DT compact_JJ and_CC graphical_JJ format_NN ,_, and_CC allow_VB to_TO further_JJ filter_NN the_DT output_NN using_VBG queries_NNS ._.
+They_PRP do_VBP not_RB provide_VB means_NNS to_TO mine_VB the_DT database_NN inte_NN

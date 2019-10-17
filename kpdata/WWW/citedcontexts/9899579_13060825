@@ -1,0 +1,5 @@
+tions_NNS ,_, simulate_VBP user_NN events_NNS and_CC infer_VB model_NN automatically_RB ._.
+In_IN comparison_NN ,_, our_PRP$ technique_NN is_VBZ static_JJ and_CC focusing_VBG specifically_RB on_IN problems_NNS caused_VBN by_IN asynchronous_JJ calls_NNS ._.
+JavaScript_NNP Analysis_NNP ._.
+Recent_JJ works_NNS =_JJ -_: =[_NN 21_CD ,_, 18_CD -RRB-_-RRB- -_: =_JJ -_: survey_NN the_DT use_NN of_IN JS_NNP ,_, including_VBG dynamic_JJ features_NNS and_CC their_PRP$ impact_NN on_IN security_NN concerns_NNS ._.
+Several_JJ works_NNS apply_VBP static_JJ analysis_NN to_TO identifythevulnerabilitiesincludingDrive-byDownloadand_JJ Cross_NN Site_NN Script_NN

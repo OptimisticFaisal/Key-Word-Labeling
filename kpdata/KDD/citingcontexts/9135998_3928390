@@ -1,0 +1,4 @@
+bilistic_JJ model-based_JJ methods_NNS to_TO pick_VB relevant_JJ titles_NNS ._.
+Among_IN the_DT methods_NNS used_VBN are_VBP word_NN and_CC n-gram_NN probabilities_NNS ,_, relevance_NN scores_NNS ,_, or_CC a_DT singular_JJ value_NN or_CC HITS_NN decomposition_NN of_IN the_DT sentence-word_JJ matrix_NN =_JJ -_: =[_NN 7_CD ,_, 3_CD ,_, 8_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Extra_JJ information_NN such_JJ as_IN web_NN page_NN clickthrough_JJ rates_NNS are_VBP also_RB used_VBN ,_, but_CC only_RB to_TO modify_VB the_DT relevance_NN scores_NNS for_IN words_NNS and_CC phrases_NNS already_RB present_JJ in_IN the_DT text_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+While_IN many_JJ of_IN these_DT approaches_NNS pe_VBP

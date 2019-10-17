@@ -1,0 +1,6 @@
+sed_VBN in_IN this_DT paper_NN ._.
+All_DT previously_RB mentioned_VBN works_NNS do_VBP not_RB discuss_VB the_DT reuse_NN of_IN results_NNS acquired_VBN from_IN earlier_JJR queries_NNS within_IN a_DT session_NN ._.
+Nag_NN et_FW al._FW proposed_VBD the_DT use_NN of_IN a_DT knowledge_NN cache_NN for_IN this_DT purpose_NN =_JJ -_: =[_NN 20_CD -_: =-]_CD ._.
+Several_JJ caching_NN strategies_NNS were_VBD studied_VBN for_IN dierent_JJ cache_NN sizes_NNS ._.
+However_RB ,_, their_PRP$ work_NN only_RB considers_VBZ mining_NN sessions_NNS of_IN queries_NNS where_WRB only_JJ constraints_NNS on_IN the_DT support_NN of_IN the_DT itemsets_NNS are_VBP allowed_VBN ._.
+No_DT

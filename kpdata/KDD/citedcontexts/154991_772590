@@ -1,0 +1,3 @@
+clustering_NN -LRB-_-LRB- e.g._FW ,_, EM_NN -RRB-_-RRB- ,_, but_CC non-hierarchical_JJ hard-clustering_NN is_VBZ prevalent_JJ -LRB-_-LRB- for_IN a_DT good_JJ discussion_NN ,_, see_VB -LRB-_-LRB- Maedche_NNP and_CC Staab_NNP 2002_CD ;_: Manning_NNP and_CC Schuetze_NNP ,_, 1999_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+3_CD The_DT best_JJS of_IN the_DT clustering_NN algorithms_NNS in_IN -LRB-_-LRB- =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =--RRB-_NN achieves_VBZ an_DT F_NN of_IN about_RB 60_CD %_NN ._.
+While_IN the_DT vectorial_JJ representations_NNS used_VBN in_IN this_DT work_NN do_VBP capture_VB relational_JJ information_NN ,_, the_DT relations_NNS in_IN question_NN are_VBP purely_RB syntactic_JJ --_: subject_NN ,_, object_NN ,_, adjunct_NN ,_, noun_NN mod_NN

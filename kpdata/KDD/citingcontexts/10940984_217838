@@ -1,0 +1,4 @@
+a_DT simple_JJ greedy_JJ algorithm_NN shown_VBN as_IN Algorithm_NN 1_CD ._.
+The_DT algorithm_NN iteratively_RB selects_VBZ new_JJ seed_NN u_NN that_WDT maximizes_VBZ the_DT incremental_JJ change_NN of_IN f_FW into_IN the_DT seed_NN set_NN S_NN until_IN k_NN seeds_NNS are_VBP selected_VBN ._.
+It_PRP is_VBZ shown_VBN in_IN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: that_IN the_DT algorithm_NN guarantees_VBZ the_DT approximation_NN ratio_NN f_SYM -LRB-_-LRB- S_NN -RRB-_-RRB- \/_: f_LS -LRB-_-LRB- S_NN ∗_NN -RRB-_-RRB- ≥_NN 1_CD −_FW 1\/e_FW ,_, where_WRB S_NN is_VBZ the_DT output_NN of_IN the_DT greedy_JJ algorithm_NN and_CC S_NN ∗_NN is_VBZ the_DT optimal_JJ solution_NN ._.
+In_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, it_PRP is_VBZ shown_VBN that_IN function_NN σI_NN -LRB-_-LRB- ·_NN -RRB-_-RRB- i_LS

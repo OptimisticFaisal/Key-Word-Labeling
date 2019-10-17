@@ -1,0 +1,4 @@
+re_VB as_RB well_RB as_IN corresponding_JJ annotations_NNS based_VBN on_IN a_DT complicated_JJ generative_JJ process_NN ._.
+The_DT model_NN complexity_NN and_CC scalability_NN hinder_VBP its_PRP$ application_NN to_TO group_NN profiling_NN in_IN large-scale_JJ networks_NNS ._.
+Chang_NNP et_FW al._FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP NUBBI_NNP -LRB-_-LRB- Networks_NNP Uncovered_NNP By_IN Bayesian_NNP Inference_NNP -RRB-_-RRB- to_TO infer_VB descriptions_NNS of_IN its_PRP$ entities_NNS and_CC of_IN relationships_NNS between_IN these_DT entities_NNS from_IN a_DT text_NN corpora_NN ._.
+The_DT probabilistic_JJ topic_NN model_NN assumes_VBZ t_NN

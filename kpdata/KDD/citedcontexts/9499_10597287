@@ -1,0 +1,4 @@
+in_IN the_DT form_NN of_IN mutual_JJ information_NN ._.
+1_CD Introduction_NN Co-clustering_NN is_VBZ a_DT widely_RB used_VBN approach_NN to_TO the_DT analysis_NN of_IN data_NNS matrices_NNS by_IN simultaneous_JJ clustering_NN of_IN ``_`` similar_JJ ''_'' rows_NNS and_CC columns_NNS of_IN the_DT data_NNS matrix_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- we_PRP identified_VBD two_CD types_NNS of_IN problems_NNS that_WDT are_VBP often_RB solved_VBN by_IN co-clustering_NN ._.
+The_DT first_JJ is_VBZ discriminative_JJ prediction_NN of_IN the_DT missing_VBG matrix_NN entries_NNS and_CC the_DT second_JJ is_VBZ estimation_NN of_IN a_DT joint_JJ probab_NN

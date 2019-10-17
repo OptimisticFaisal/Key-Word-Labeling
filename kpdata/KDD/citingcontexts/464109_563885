@@ -1,0 +1,5 @@
+to_TO machine_NN learning_NN ._.
+Recent_JJ work_NN has_VBZ established_VBN SVM_NNP 's_POS as_IN providing_VBG state-of-the-art_JJ performance_NN on_IN classification_NN and_CC regression_NN tasks_NNS across_IN a_DT variety_NN of_IN real-world_JJ applications_NNS -LRB-_-LRB- e.g._FW see_VB -LRB-_-LRB- lo_NN -RRB-_-RRB- and_CC =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP focus_VBP on_IN SVM_NNP 's_POS for_IN binary_JJ classification_NN -LRB-_-LRB- l_NN -RRB-_-RRB- ._.
+In_IN binary_JJ classification_NN ,_, each_DT label_NN is_VBZ valued_VBN either_CC ``_`` +_CC l_NN ''_'' or_CC ``_`` -_: l_NN ''_'' ,_, indicating_VBG either_CC a_DT positive_JJ or_CC negative_JJ example_NN ,_, respectively_RB ._.
+L_NN

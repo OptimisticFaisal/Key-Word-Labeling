@@ -1,0 +1,5 @@
+he_PRP aforementioned_JJ argument_NN to_TO bound_VBD the_DT prefactor_NN in_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- by_IN 2ǫκA_NN ,_, which_WDT concludes_VBZ the_DT proof_NN ._.
+6_CD ._.
+EMPIRICAL_JJ RESULTS_NNS In_IN this_DT section_NN ,_, we_PRP describe_VBP our_PRP$ empirical_JJ evaluations_NNS on_IN three_CD datasets_NNS :_: TechTC-100_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ;_: 20-Newsgroups_NNS -LRB-_-LRB- 1,2,21_CD -RRB-_-RRB- ;_: and_CC Reuters_NNP RCV2_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+We_PRP compare_VBP several_JJ sampling-based_JJ feature_NN selection_NN strategies_NNS to_TO feature_VB selection_NN methods_NNS commonly_RB used_VBN in_IN Information_NNP Retrieval_NNP -LRB-_-LRB- IR_NNP -RRB-_-RRB- ._.
+Our_PRP$ aim_NN is_VBZ to_TO

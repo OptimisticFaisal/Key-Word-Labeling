@@ -1,0 +1,5 @@
+there_EX are_VBP no_DT distinguished_JJ pair_NN topics_NNS ;_: all_DT words_NNS are_VBP explained_VBN by_IN the_DT topics_NNS associated_VBN with_IN individuals_NNS ._.
+We_PRP use_VBP the_DT bootstrap_NN method_NN to_TO create_VB held-out_JJ data_NNS sets_NNS and_CC compute_VB predictive_JJ probability_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Figure_NN 4_CD shows_VBZ the_DT average_JJ predictive_JJ log_NN likelihood_NN for_IN the_DT three_CD approaches_NNS ._.
+The_DT results_NNS for_IN Nubbi_NNP are_VBP plotted_VBN as_IN a_DT function_NN of_IN the_DT total_JJ number_NN of_IN topics_NNS K_NN =_JJ Kθ_NN +_CC Kψ_NN ._.
+The_DT results_NNS for_IN LDA_NN and_CC auth_NN

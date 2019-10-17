@@ -1,0 +1,4 @@
+tem_NN is_VBZ shown_VBN in_IN Figure_NNP 1_CD and_CC we_PRP briefly_RB describe_VBP the_DT the_DT different_JJ components_NNS below_IN ._.
+2.1_CD Locating_NNP and_CC Organizing_NNP Web_NN Forms_NNP The_NNP ACHE_NNP Focused_NNP Crawler_NNP To_TO locate_VB forms_NNS on_IN the_DT Web_NN ,_, we_PRP use_VBP the_DT ACHE_NNP crawler_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+ACHE_NNP uses_VBZ the_DT contents_NNS of_IN pages_NNS to_TO focus_VB the_DT crawl_NN on_IN a_DT given_VBN topic_NN ,_, and_CC it_PRP also_RB prioritizes_VBZ links_NNS that_WDT are_VBP more_RBR likely_JJ to_TO lead_VB to_TO pages_NNS that_WDT contain_VBP searchable_JJ forms_NNS ._.
+ACHE_NNP automatically_RB improves_VBZ it_PRP

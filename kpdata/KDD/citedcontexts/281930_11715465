@@ -1,0 +1,3 @@
+to_TO detect_VB outliers_NNS in_IN real_JJ time_NN on_IN data_NNS streams_NNS ._.
+For_IN the_DT static_JJ case_NN ,_, it_PRP is_VBZ well_RB known_VBN that_IN very_RB simple_JJ distance-based_JJ outlier_NN detection_NN methods_NNS can_MD be_VB competitive_JJ or_CC superior_JJ to_TO more_RBR complex_JJ methods_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, just_RB in_IN the_DT context_NN of_IN time_NN series_NN data_NNS ,_, a_DT recent_JJ extensive_JJ empirical_JJ study_NN compared_VBD nine_CD different_JJ methods_NNS on_IN nineteen_CD different_JJ problems_NNS ,_, and_CC found_VBD that_IN ``_`` -LRB-_-LRB- distance-based_JJ outlier_NN detec_NN

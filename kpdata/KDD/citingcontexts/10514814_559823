@@ -1,0 +1,4 @@
+on_IN methodology_NN essentially_RB works_VBZ with_IN annual_JJ sums_NNS of_IN NDVI_NNP for_IN a_DT given_VBN land_NN location_NN ._.
+The_DT difference_NN between_IN consecutive_JJ years_NNS is_VBZ then_RB computed_VBN ;_: this_DT is_VBZ equivalent_JJ to_TO applying_VBG first-order_JJ differencing_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: to_TO the_DT time_NN series_NN of_IN annual_JJ sums_NNS ._.
+The_DT resulting_VBG differences_NNS are_VBP assumed_VBN to_TO follow_VB an_DT approximately_RB normal_JJ distribution_NN with_IN µ_NN =_JJ 0_CD ,_, which_WDT represents_VBZ that_IN no_DT change_NN has_VBZ occurred_VBN ._.
+This_DT is_VBZ justifiable_FW i_FW

@@ -1,0 +1,3 @@
+tion_NN points_NNS in_IN the_DT grid_NN with_IN some_DT sort_NN of_IN interpolation_NN algorithm_NN -LRB-_-LRB- the_DT figures_NNS in_IN the_DT paper_NN were_VBD obtained_VBN using_VBG a_DT linear_JJ interpolation_NN algorithm_NN -RRB-_-RRB- ._.
+An_DT implementation_NN of_IN these_DT ideas_NNS in_IN the_DT R_NN language_NN 2_CD =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB obtained_VBN at_IN the_DT following_JJ web_NN site_NN :_: http:\/\/www.liacc.up.pt\/~ltorgo\/KDD05\/RECsurf.R_NN 2_CD http:\/\/www.r-project.org_NN 4_CD ._.
+USING_VBG REC_NN SURFACES_NNS FOR_IN MODEL_NNP COMPARISONS_NNP This_NNP section_NN describes_VBZ some_DT example_NN us_PRP

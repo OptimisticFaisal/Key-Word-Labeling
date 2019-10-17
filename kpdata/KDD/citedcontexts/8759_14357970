@@ -1,0 +1,4 @@
+local_JJ approximation_NN of_IN the_DT density_NN function_NN ,_, and_CC -LRB-_-LRB- c_LS -RRB-_-RRB- the_DT discriminative_JJ approach_NN which_WDT directly_RB estimates_VBZ the_DT decision_NN function_NN ._.
+In_IN -LRB-_-LRB- a_DT -RRB-_-RRB- ,_, the_DT normal_JJ samples_NNS are_VBP typically_RB modeled_VBN as_IN a_DT Gaussian_JJ mixture_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, or_CC learned_VBN using_VBG artificial_JJ neural_JJ networks_NNS -LRB-_-LRB- ANN_NN -RRB-_-RRB- -LRB-_-LRB- 3_CD ,_, 11_CD -RRB-_-RRB- ._.
+Notable_JJ methods_NNS for_IN -LRB-_-LRB- b_NN -RRB-_-RRB- include_VBP Local_NNP Outlier_NNP Factor_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, Distance-based_JJ Outlier_NNP detection_NN -LRB-_-LRB- 13_CD ,_, 14_CD -RRB-_-RRB- ,_, and_CC Discord_NNP Discovery_NNP -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Examples_NNS o_NN

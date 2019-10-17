@@ -1,0 +1,3 @@
+-RRB-_-RRB- ,_, is_VBZ a_DT form_NN of_IN grid-based_JJ clustering_NN -LRB-_-LRB- where_WRB the_DT space_NN is_VBZ divided_VBN in_IN cells_NNS by_IN a_DT grid_NN ;_: other_JJ techniques_NNS that_WDT use_VBP grid-based_JJ clustering_NN are_VBP STING_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- ,_, WaveCluster_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- and_CC Hierarchical_JJ Grid_NNP Clustering_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT main_JJ idea_NN behind_IN FC_NN is_VBZ to_TO group_NN points_NNS in_IN a_DT cluster_NN in_IN such_PDT a_DT way_NN that_IN none_NN of_IN the_DT points_NNS in_IN the_DT cluster_NN changes_VBZ the_DT cluster_NN 's_POS fractal_JJ dimension_NN radically_RB ._.
+FC_NN also_RB combines_VBZ connectness_NN ,_, closene_NN

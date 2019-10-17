@@ -1,0 +1,5 @@
+ch_NN Z_NN =_JJ -LCB-_-LRB- -LRB-_-LRB- i_LS ,_, j_NN -RRB-_-RRB- :_: V_NN ij_FW ̸_FW =_JJ 0_CD -RCB-_-RRB- ._.
+Such_JJ decompositions_NNS naturally_RB arise_VBP when_WRB zeros_NNS represent_VBP missing_VBG data_NNS as_IN in_IN the_DT case_NN of_IN recommender_NN systems_NNS ._.
+Our_PRP$ algorithms_NNS can_MD handle_VB other_JJ decompositions_NNS as_RB well_RB ;_: see_VB =_JJ -_: =[_NN 10_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2_CD Matrix_NNP Factorization_NNP with_IN Stochastic_NNP Gradient_NNP Descent_NNP The_DT goal_NN of_IN SGD_NNP is_VBZ to_TO find_VB the_DT value_NN θ_FW ∗_FW ∈_FW ℜ_NN k_NN -LRB-_-LRB- k_NN ≥_NN 1_CD -RRB-_-RRB- that_WDT minimizes_VBZ a_DT given_JJ loss_NN L_NN -LRB-_-LRB- θ_NN -RRB-_-RRB- ._.
+The_DT algorithm_NN makes_VBZ use_NN of_IN noisy_JJ observations_NNS ˆ_CD L_NN ′_NN -LRB-_-LRB-

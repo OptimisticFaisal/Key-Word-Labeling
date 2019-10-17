@@ -1,0 +1,4 @@
+s_NN at_IN query_NN time_NN enables_VBZ considerable_JJ architectural_JJ simplicity_NN at_IN this_DT point_NN ._.
+The_DT Feta_NNP Engine_NNP is_VBZ essentially_RB a_DT set_NN of_IN canned_VBN RDQL_NN queries_NNS accessible_JJ via_IN a_DT web_NN services_NNS interface_NN ._.
+We_PRP currently_RB use_VBP Jena_NNP =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: as_IN our_PRP$ implementation_NN backend_RB as_IN its_PRP$ query_NN engine_NN provides_VBZ support_NN for_IN RDF_NN -LRB-_-LRB- S_NN -RRB-_-RRB- entailment_NN ._.
+The_DT canned_VBN queries_NNS that_IN we_PRP currently_RB support_VBP include_VBP :_: --_: An_DT operation_NN that_WDT accepts_VBZ input_NN of_IN a_DT given_VBN semantic_JJ t_NN

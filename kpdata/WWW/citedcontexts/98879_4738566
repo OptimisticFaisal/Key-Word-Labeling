@@ -1,0 +1,4 @@
+of_IN users_NNS increases_NNS ._.
+Item-based_JJ collaborative_JJ filtering_VBG algorithms_NNS improve_VB scalability_NN by_IN focusing_VBG on_IN the_DT similarity_NN among_IN items_NNS using_VBG user_NN ratings_NNS rather_RB than_IN on_IN the_DT similarity_NN among_IN users_NNS themselves_PRP =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT recommender_NN system_NN proposed_VBN in_IN this_DT paper_NN can_MD be_VB viewed_VBN as_IN collaborative_JJ filtering_VBG that_WDT incorporates_VBZ content_NN feature_NN ,_, such_JJ as_IN item_NN launch_NN time_NN ._.
+Using_VBG Time_NNP Information_NNP :_: Two_CD kinds_NNS of_IN time_NN informat_NN

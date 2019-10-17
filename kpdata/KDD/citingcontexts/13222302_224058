@@ -1,0 +1,6 @@
+the_DT information_NN overloaded_VBD problem_NN by_IN identifying_VBG user_NN interests_NNS and_CC providing_VBG personalized_JJ suggestions_NNS ._.
+In_IN general_JJ ,_, there_EX are_VBP three_CD ways_NNS to_TO develop_VB recommender_NN systems_NNS ._.
+The_DT first_JJ one_CD is_VBZ contentbased_VBN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP suggests_VBZ items_NNS which_WDT are_VBP similar_JJ to_TO those_DT a_DT given_VBN user_NN has_VBZ liked_VBN in_IN the_DT past_NN ._.
+The_DT second_JJ way_NN is_VBZ based_VBN on_IN collaborative_JJ filtering_VBG ._.
+In_IN other_JJ words_NNS ,_, recommendations_NNS are_VBP made_VBN according_VBG to_TO the_DT tastes_NNS

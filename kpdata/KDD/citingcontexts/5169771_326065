@@ -1,0 +1,5 @@
+umber_NN of_IN the_DT pairwise_JJ distance_NN comparisons_NNS ._.
+The_DT results_NNS point_VBP out_RP the_DT much_RB better_JJR pruning_NN capability_NN of_IN the_DT locality_NN preserving_NN hashing_VBG ,_, compared_VBN to_TO the_DT popular_JJ triangular_JJ inequality_NN ._.
+For_IN comparison_NN ,_, =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: reports_NNS that_IN the_DT triangular_JJ inequality_NN prunes_NNS between_IN 50_CD %_NN -70_CD %_NN distance_NN computations_NNS ,_, which_WDT we_PRP exceed_VBP here_RB notably_RB ._.
+This_DT ,_, however_RB ,_, comes_VBZ at_IN the_DT price_NN of_IN a_DT possibility_NN for_IN some_DT false_JJ dismissals_NNS ._.
+The_DT sp_NN

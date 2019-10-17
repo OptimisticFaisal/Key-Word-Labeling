@@ -1,0 +1,6 @@
+nging_VBG from_IN chemometrics_NNS -LRB-_-LRB- 36_CD -RRB-_-RRB- to_TO image_NN analysis_NN -LRB-_-LRB- 39_CD -RRB-_-RRB- ._.
+Recently_RB ,_, they_PRP have_VBP been_VBN applied_VBN to_TO datacentric_JJ problems_NNS including_VBG analysis_NN of_IN clickthrough_JJ data_NNS using_VBG an_DT alternate_JJ decomposition_NN known_VBN as_IN Tucker_NNP =_SYM -_: =[_NN 37_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC chatroom_NN analysis_NN comparing_VBG different_JJ tensor_NN decompositions_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+3_LS ._.
+Problem_NNP Setting_NNP &_CC Evaluation_NN 3.1_CD ._.
+HITS_NNS We_PRP briefly_RB review_VBP the_DT HITS_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- method_NN ._.
+Let_VB n_NN denote_VB the_DT number_NN of_IN pages_NNS in_IN our_PRP$ web_NN -LRB-_-LRB- su_NN

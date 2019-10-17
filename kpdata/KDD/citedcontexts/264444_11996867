@@ -1,0 +1,4 @@
+te_IN level_NN generalization_NN and_CC tuple_NN level_NN suppression_NN has_VBZ been_VBN widely_RB studied_VBN in_IN the_DT literature_NN and_CC has_VBZ been_VBN proved_VBN to_TO be_VB computationally_RB hard_RB -LRB-_-LRB- 5_CD --_: 7_CD -RRB-_-RRB- ._.
+As_IN a_DT consequence_NN ,_, both_CC exact_JJ -LRB-_-LRB- 2_CD ,_, 8,9_CD -RRB-_-RRB- and_CC heuristic_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: algorithms_NNS have_VBP been_VBN proposed_VBN for_IN its_PRP$ solution_NN ._.
+Note_VB that_IN the_DT computational_JJ complexity_NN of_IN such_JJ exact_JJ algorithms_NNS is_VBZ exponential_JJ in_IN the_DT number_NN of_IN attributes_NNS composing_VBG the_DT quasi-identifier_NN ._.
+Therefore_RB ,_, i_FW

@@ -1,0 +1,4 @@
+research_NN studies_NNS in_IN mining_NN user_NN access_NN patterns_NNS for_IN predicting_VBG Web_NN page_NN accesses_NNS have_VBP focused_VBN only_RB on_IN consecutive_JJ sequential_JJ access_NN of_IN Web_NN pages_NNS ._.
+These_DT methods_NNS are_VBP based_VBN on_IN the_DT notion_NN of_IN Markov_NNP model_NN =_JJ -_: =[_NN 3_CD ,_, 12_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT ability_NN to_TO predict_VB the_DT next_JJ request_NN from_IN a_DT given_VBN Web_NN page_NN is_VBZ limited_VBN to_TO the_DT following_JJ adjacent_JJ Web_NN pages_NNS determined_VBN by_IN their_PRP$ access_NN probabilities_NNS ._.
+By_IN applying_VBG association_NN rule_NN mining_NN ,_, our_PRP$ method_NN

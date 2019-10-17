@@ -1,0 +1,5 @@
+anguage-independentdataset_NN ._.
+Recent_JJ link-based_JJ similarity_NN algorithms_NNS iterate_VBP some_DT equations_NNS expressing_VBG basic_JJ intuitions_NNS about_IN similarity_NN preferences_NNS ._.
+SimRank_NNP recursively_RB refines_VBZ the_DT cocitation_NN measure_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT algorithm_NN of_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- follows_VBZ the_DT philosophy_NN of_IN HITS_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- claiming_VBG that_IN related_JJ pages_NNS form_VBP a_DT dense_JJ bipartite_JJ subgraph_NN within_IN the_DT link_NN structure_NN ._.
+Additional_JJ similarity_NN metrics_NNS for_IN the_DT web_NN graph_NN are_VBP pr_NN

@@ -1,0 +1,3 @@
+n_NN context_NN where_WRB the_DT goal_NN is_VBZ to_TO maximize_VB predictive_JJ accuracy_NN ._.
+For_IN example_NN ,_, discretizing_VBG continuous_JJ attributes_NNS for_IN the_DT naive_JJ Bayesian_JJ classifier_NN can_MD greatly_RB improve_VB accuracy_NN over_IN a_DT normal_JJ approximation_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN Knowledge_NNP Discovery_NNP we_PRP often_RB analyze_VBP the_DT data_NNS in_IN an_DT exploratory_JJ fashion_NN where_WRB the_DT emphasis_NN is_VBZ not_RB on_IN predictive_JJ accuracy_NN but_CC rather_RB on_IN finding_VBG previously_RB unknown_JJ and_CC insightful_JJ patterns_NNS in_IN the_DT da_NN

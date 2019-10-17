@@ -1,0 +1,9 @@
+tegers_NNS ,_, where_WRB each_DT integer_NN represents_VBZ an_DT item_NN ._.
+Table_NNP 1_CD describes_VBZ the_DT properties_NNS of_IN the_DT problem_NN instances_NNS ._.
+We_PRP acknowledge_VBP in_IN particular_JJ the_DT authors_NNS who_WP made_VBD available_JJ the_DT accidents_NNS ._.
+dat_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, retail_JJ ._.
+dat_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: and_CC webdocs_NNS ._.
+dat_NN datasets_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+System_NNP ._.
+The_DT system_NN used_VBN for_IN conducting_VBG the_DT experiments_NNS is_VBZ a_DT 2.8_CD GHz_NN Intel_NNP Core_NNP i7_NNP running_VBG the_DT Mac_NNP OS_NNP X_NNP operating_VBG system_NN version_NN 10.6.3_CD under_IN a_DT light_JJ load_NN ._.
+This_DT system_NN ha_IN

@@ -1,0 +1,4 @@
+e_LS the_DT threshold_NN does_VBZ not_RB affect_VB the_DT model_NN definition_NN as_IN such_JJ ,_, the_DT models_NNS themselves_PRP do_VBP not_RB have_VB to_TO be_VB reconstructed_VBN ._.
+2.3_CD Related_NNP Work_NNP HMMs_NNS have_VBP been_VBN extensively_RB studied_VBN in_IN combination_NN with_IN clustering_NN =_JJ -_: =[_NN 26_CD ,_, 16_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN these_DT approaches_NNS ,_, HMMs_NNS are_VBP used_VBN to_TO provide_VB a_DT similarity_NN measure_NN ._.
+Mannila_FW et_FW al._FW discuss_VBP mining_NN of_IN clusters_NNS formed_VBN by_IN a_DT model_NN using_VBG global_JJ techniques_NNS such_JJ as_IN probabilistic_JJ modeling_NN and_CC local_JJ techn_NN

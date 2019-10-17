@@ -1,0 +1,6 @@
+s_NNS used_VBN to_TO refer_VB to_TO the_DT longest_JJS patterns_NNS ._.
+We_PRP call_VBP a_DT repeat_NN left_VBD maximal_JJ -LRB-_-LRB- right_JJ maximal_JJ -RRB-_-RRB- if_IN extending_VBG the_DT repeat_NN to_TO the_DT left_NN -LRB-_-LRB- right_NN -RRB-_-RRB- will_MD not_RB result_VB in_IN a_DT new_JJ repeat_NN for_IN all_DT repeat_NN occurrences_NNS -LRB-_-LRB- see_VB Ref_NNP ._.
+=_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+We_PRP say_VBP that_IN a_DT repeat_NN is_VBZ maximal_JJ if_IN it_PRP is_VBZ both_DT left_RB maximal_JJ and_CC right_RB maximal_JJ ._.
+A_DT formal_JJ definition_NN is_VBZ given_VBN as_IN follows_VBZ :_: Definition_NN ._.
+Given_VBN an_DT input_NN string_NN S_NN ,_, we_PRP define_VBP maximal_JJ repeat_NN a_DT as_IN a_DT substring_NN

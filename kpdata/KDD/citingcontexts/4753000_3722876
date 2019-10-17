@@ -1,0 +1,5 @@
+to_TO be_VB created_VBN ._.
+Therefore_RB it_PRP is_VBZ imperative_JJ that_IN a_DT significant_JJ portion_NN of_IN the_DT calculations_NNS is_VBZ carried_VBN out_RP with_IN a_DT more_RBR efficient_JJ algorithm_NN ._.
+There_EX are_VBP quicker_JJR alternatives_NNS to_TO Singular_JJ Value_NN Decomposition_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: such_JJ as_IN G.E._NNP -LRB-_-LRB- Gaussian_JJ Elimination_NN -RRB-_-RRB- or_CC Cholesky_NNP Decomposition_NNP if_IN the_DT matrix_NN R_NN is_VBZ Singular_JJ Positive_JJ Definite_NN ._.
+We_PRP use_VBP G.E._NNP with_IN full_JJ pivoting_NN ._.
+One_CD problem_NN that_WDT needs_VBZ to_TO be_VB addressed_VBN when_WRB using_VBG G.E._NNP is_VBZ

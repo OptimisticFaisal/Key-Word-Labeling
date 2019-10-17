@@ -1,0 +1,4 @@
+mproving_VBG performance_NN is_VBZ to_TO use_VB variablesize_NN instead_RB of_IN fixed-size_JJ blocks_NNS ._.
+In_IN particular_JJ ,_, we_PRP evaluate_VBP the_DT use_NN of_IN Karp-Rabin_JJ fingerprints_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- to_TO determine_VB the_DT block_NN boundaries_NNS ,_, inspired_VBN by_IN recent_JJ work_NN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 34_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- that_WDT uses_VBZ these_DT techniques_NNS in_IN other_JJ scenarios_NNS ._.
+This_DT is_VBZ done_VBN by_IN moving_VBG a_DT small_JJ window_NN -LRB-_-LRB- e.g._FW ,_, of_IN size_NN 20_CD bytes_NNS -RRB-_-RRB- over_IN each_DT file_NN ._.
+For_IN each_DT byte_NN position_NN of_IN the_DT window_NN ,_, we_PRP hash_VBP the_DT conten_NN

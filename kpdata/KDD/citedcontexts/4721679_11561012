@@ -1,0 +1,4 @@
+formation_NN ._.
+These_DT applications_NNS are_VBP commonly_RB characterized_VBN by_IN the_DT unbounded_JJ data_NN streams_NNS they_PRP generate_VBP -LRB-_-LRB- or_CC receive_VB -RRB-_-RRB- ,_, and_CC the_DT need_NN to_TO analyze_VB them_PRP in_IN a_DT continuous_JJ manner_NN over_IN limited_JJ computing_NN resources_NNS =_JJ -_: =[_NN 2,4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT makes_VBZ it_PRP imperative_JJ to_TO design_NN algorithms_NNS that_WDT compute_VBP the_DT answer_NN in_IN a_DT continuous_JJ fashion_NN with_IN only_RB one_CD scan_VB of_IN the_DT data_NNS stream_NN ,_, whilst_IN operating_VBG under_IN the_DT resource_NN limitations_NNS ._.
+Among_IN various_JJ da_NN

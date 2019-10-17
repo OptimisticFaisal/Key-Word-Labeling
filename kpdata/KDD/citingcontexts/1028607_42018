@@ -1,0 +1,4 @@
+number_NN and_CC location_NN of_IN the_DT points_NNS in_IN the_DT parameter_NN space_NN to_TO evaluate_VB the_DT likelihoods_NNS at_IN ,_, and_CC the_DT number_NN of_IN squashed_JJ data_NNS points_NNS to_TO ensure_VB a_DT sufficiently_RB good_JJ approximation_NN ._.
+Various_JJ factorial_JJ designs_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: in_IN the_DT parameter_NN space_NN are_VBP suggested_VBN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+While_IN this_DT method_NN is_VBZ universal_JJ ,_, as_IN we_PRP noted_VBD above_IN ,_, for_IN SVMs_NNS we_PRP can_MD sample_NN the_DT values_NNS of_IN w_NN from_IN the_DT prior_JJ distribution_NN in_IN equation_NN 4_CD ._.
+The_DT choice_NN of_IN the_DT int_NN

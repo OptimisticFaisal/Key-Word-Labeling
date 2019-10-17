@@ -1,0 +1,4 @@
+with_IN greater_JJR suspicion_NN than_IN a_DT randomly_RB chosen_VBN negative_JJ example_NN ._.
+Moreover_RB ,_, this_DT probability_NN of_IN correct_JJ ranking_NN is_VBZ the_DT same_JJ quantity_NN estimated_VBN by_IN the_DT non-parametric_JJ Wilcoxon_NNP statistic_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Deng_NNP et_FW al._FW =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: demonstrated_VBD that_IN the_DT assumption_NN that_IN the_DT gene_NN expression_NN data_NNS follows_VBZ the_DT Gaussian_JJ -LRB-_-LRB- normal_JJ -RRB-_-RRB- distribution_NN often_RB does_VBZ not_RB hold_VB true_JJ in_IN real_JJ world_NN data_NNS ._.
+Therefore_RB ,_, a_DT non-parametric_JJ test_NN like_IN Wilcoxon_NNP r_NN

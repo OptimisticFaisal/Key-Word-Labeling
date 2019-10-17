@@ -1,0 +1,4 @@
+ffered_VBN by_IN squashSMO_NN and_CC boost-SMO_NN might_MD be_VB even_RB more_RBR significant_JJ for_IN non-linear_JJ SVMs_NNS that_WDT take_VBP much_RB longer_JJR to_TO train_VB ._.
+Several_JJ authors_NNS have_VBP studied_VBN the_DT question_NN of_IN feature_NN selection_NN for_IN SVMs_NNS -LRB-_-LRB- see_VB ,_, e.g._FW =_JJ -_: =_JJ -LRB-_-LRB- BO98_NN -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT main_JJ idea_NN is_VBZ to_TO interpret_VB the_DT norm_NN of_IN w_NN as_IN a_DT norm_NN in_IN L_NN 1_CD space_NN and_CC reduce_VB the_DT training_NN task_NN to_TO linear_JJ programming_NN optimization_NN problem_NN ._.
+We_PRP think_VBP that_IN squashing_NN might_MD offer_VB a_DT principled_JJ way_NN to_TO d_NN

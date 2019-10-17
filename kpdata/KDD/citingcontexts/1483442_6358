@@ -1,0 +1,5 @@
+is_VBZ the_DT result_NN of_IN the_DT method_NN we_PRP are_VBP proposing_VBG in_IN this_DT paper_NN ._.
+However_RB algorithms_NNS that_WDT do_VBP not_RB consider_VB more_JJR than_IN one_CD feature_NN will_MD fail_VB ._.
+For_IN example_NN ,_, Fayyad_NNP and_CC Irani_NNP 's_POS recursive_JJ minimum_JJ entropy_NN approach_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: will_MD not_RB realize_VB that_IN there_EX is_VBZ an_DT interaction_NN between_IN X1_NN ,_, X2_NN ,_, and_CC the_DT class_NN ._.
+It_PRP finds_VBZ both_CC X1_NN and_CC X2_NN irrelevant_JJ and_CC ignores_VBZ them_PRP ._.
+Our_PRP$ approach_NN to_TO this_DT problem_NN is_VBZ to_TO finely_RB partition_NN each_DT continuous_JJ

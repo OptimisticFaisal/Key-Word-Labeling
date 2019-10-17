@@ -1,0 +1,4 @@
+onger_NN constraint_NN posed_VBN by_IN their_PRP$ definitions_NNS based_VBN on_IN k_NN consecutive_JJ timestamps_NNS ._.
+Second_RB ,_, although_IN the_DT problem_NN is_VBZ defined_VBN using_VBG the_DT similar_JJ form_NN of_IN frequent_JJ pattern_NN mining_NN -LRB-_-LRB- 1_CD ,_, 11_CD -RRB-_-RRB- ,_, none_NN of_IN previous_JJ work_NN =_JJ -_: =[_NN 1_CD ,_, 11_CD ,_, 25_CD ,_, 23_CD ,_, 19_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: solves_VBZ exactly_RB the_DT same_JJ problem_NN as_IN finding_VBG swarms_NNS ._.
+Because_IN in_IN the_DT typical_JJ frequent_JJ pattern_NN mining_NN problem_NN ,_, the_DT input_NN is_VBZ a_DT set_NN of_IN transactions_NNS and_CC each_DT transaction_NN contains_VBZ a_DT set_NN of_IN items_NNS ._.
+However_RB ,_, th_DT

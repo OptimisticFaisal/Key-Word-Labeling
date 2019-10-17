@@ -1,0 +1,5 @@
+le_DT and_CC benign_JJ traffic_NN ._.
+To_TO use_VB more_JJR features_NNS of_IN traffic_NN ,_, Mahoney_NNP presented_VBD several_JJ methods_NNS in_IN his_PRP$ paper_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+They_PRP are_VBP PHAD_NNP ,_, ALAD_NNP ,_, LERAD_NNP ,_, and_CC NETAD_NN -LRB-_-LRB- 4_CD ,_, 9_CD ,_, and_CC 10_CD -RRB-_-RRB- ._.
+PHAD_NN -LRB-_-LRB- Packet_NN Header_NNP Anomaly_NNP Detector_NNP -RRB-_-RRB- =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT system_NN that_WDT learns_VBZ the_DT normal_JJ range_NN of_IN values_NNS for_IN 33_CD fields_NNS of_IN the_DT Ethernet_NNP ,_, IP_NNP ,_, TCP_NNP ,_, UDP_NNP ,_, and_CC ICMP_NN protocols_NNS ._.
+It_PRP is_VBZ implemented_VBN by_IN using_VBG simple_JJ nonstationary_JJ models_NNS that_WDT estimate_VBP probabilities_NNS

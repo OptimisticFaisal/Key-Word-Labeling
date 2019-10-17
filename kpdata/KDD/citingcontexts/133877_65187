@@ -1,0 +1,4 @@
+g_NN documents_NNS with_IN the_DT associated_VBN classes_NNS is_VBZ available_JJ in_IN order_NN to_TO provide_VB the_DT supervision_NN to_TO the_DT categorization_NN system_NN ._.
+Several_JJ text_NN classifiers_NNS have_VBP recently_RB been_VBN proposed_VBN ,_, such_JJ as_IN those_DT discussed_VBN in_IN =_JJ -_: =[_NN 2_CD ,_, 4_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT classifiers_NNS have_VBP shown_VBN excellent_JJ results_NNS on_IN document_NN collections_NNS such_JJ as_IN the_DT Reuters_NNP dataset_NN or_CC the_DT US_NNP patent_NN database_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC to_TO a_DT somewhat_RB lesser_JJR extent_NN on_IN the_DT web_NN with_IN the_DT Y_NN ahoo_NN !_.
+taxonomy_NN ._.

@@ -1,0 +1,4 @@
+airwise_JJ constraints_NNS are_VBP used_VBN in_IN defining_VBG optimization_NN criteria_NNS for_IN a_DT desired_VBN metric_NN ._.
+Klein_NNP et_FW al._FW -LRB-_-LRB- 21_CD -RRB-_-RRB- used_VBD constraints_NNS to_TO adjust_VB Euclidean_JJ distance_NN by_IN shortest-path_JJ algorithm_NN ._.
+Xing_NN and_CC collaborators_NNS =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: attempted_VBN to_TO learn_VB Mahalanobis_NNP distance_NN using_VBG convex_NN optimization_NN ._.
+The_DT HMRF-KMeans_JJ algorithm_NN proposed_VBN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- combines_VBZ both_CC constraint_NN satisfaction_NN and_CC metric_JJ learning_NN into_IN a_DT single_JJ probabilistic_JJ fram_NN

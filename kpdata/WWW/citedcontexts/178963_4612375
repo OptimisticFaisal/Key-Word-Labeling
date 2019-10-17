@@ -1,0 +1,4 @@
+compass_VBZ any_DT type_NN of_IN information_NN that_WDT is_VBZ of_IN interest_NN ._.
+Some_DT learning_VBG algorithms_NNS have_VBP been_VBN reported_VBN such_JJ as_IN decision_NN trees_NNS ,_, maximum_NN entropy_NN models_NNS and_CC hidden_JJ markov_NN models_NNS ._.
+Sekine_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC Bennett_NNP et_FW al._FW =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: both_DT implemented_VBD their_PRP$ token_JJ identification_NN systems_NNS using_VBG decision_NN trees_NNS ._.
+Their_PRP$ decision_NN trees_NNS are_VBP based_VBN on_IN almost_RB identical_JJ features_NNS ,_, ssuch_NN as_IN part-of-speech_NN ,_, character_NN type_NN information_NN and_CC special_JJ d_NN

@@ -1,0 +1,5 @@
+gnificant_JJ work_NN on_IN assigning_VBG labels_NNS to_TO query_VB clusters_NNS ;_: for_IN example_NN ,_, Pasca_NNP and_CC Van_NNP Durme_NNP -LRB-_-LRB- 18_CD -RRB-_-RRB- use_VBP correlations_NNS in_IN query_NN logs_NNS and_CC web_NN documents_NNS to_TO create_VB and_CC label_VB query_NN clusters_NNS ._.
+Finally_RB ,_, Fuxman_NNP et_FW al._FW =_SYM -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: use_VB a_DT pre-defined_JJ taxonomy_NN of_IN concepts_NNS to_TO learn_VB a_DT mapping_NN from_IN query_NN to_TO concept_NN ._.
+This_DT mapping_NN is_VBZ then_RB used_VBN to_TO recommend_VB related_JJ queries_NNS in_IN the_DT context_NN of_IN sponsored_VBN search_NN ._.
+Differences_NNS in_IN Our_NNP Work_NNP ._.
+As_IN

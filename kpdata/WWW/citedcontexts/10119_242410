@@ -1,0 +1,4 @@
+s_NN is_VBZ not_RB adapted_VBN for_IN ordinary_JJ users_NNS of_IN the_DT web_NN ._.
+3.4_CD Petri_NNP Nets_NNPS and_CC Planification_NNP The_DT main_JJ weakness_NN of_IN SWS_NN models_NNS is_VBZ their_PRP$ lack_NN of_IN real_JJ operational_JJ semantics_NNS ._.
+To_TO this_DT purpose_NN ,_, several_JJ attempts_NNS such_JJ as_IN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: try_VB to_TO use_VB Petri_NNP nets_NNS to_TO specify_VB the_DT execution_NN semantics_NNS of_IN SWS_NNP ._.
+However_RB ,_, we_PRP believe_VBP that_IN the_DT specification_NN still_RB fails_VBZ in_IN some_DT important_JJ points_NNS ,_, namely_RB ,_, the_DT SWS_NNP composition_NN must_MD work_VB at_IN the_DT implemen_NN

@@ -1,0 +1,4 @@
+r_NN ,_, their_PRP$ performance_NN is_VBZ largely_RB influenced_VBN by_IN the_DT types_NNS of_IN features_NNS used_VBN ._.
+The_DT common_JJ types_NNS of_IN features_NNS include_VBP contextual_JJ -LRB-_-LRB- Lin_NNP ,_, 1998_CD -RRB-_-RRB- ,_, co-occurrence_NN -LRB-_-LRB- Yang_NNP and_CC Callan_NNP ,_, 2008_CD -RRB-_-RRB- ,_, and_CC syntactic_JJ dependency_NN -LRB-_-LRB- =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =_JJ -_: ;_: Pantel_NNP and_CC Ravichandran_NNP ,_, 2004_CD -RRB-_-RRB- ._.
+So_RB far_RB there_EX is_VBZ no_DT systematic_JJ study_NN on_IN which_WDT features_NNS are_VBP the_DT best_JJS for_IN automatic_JJ taxonomy_NN induction_NN under_IN various_JJ conditions_NNS ._.
+This_DT paper_NN presents_VBZ a_DT metric-based_JJ taxon_NN

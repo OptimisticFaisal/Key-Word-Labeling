@@ -1,0 +1,4 @@
+y_NN -LRB-_-LRB- 93_CD -RRB-_-RRB- ,_, while_IN Li_NNP and_CC Cheriton_NNP construct_VBP a_DT system_NN using_VBG invalidation_NN messages_NNS delivered_VBN via_IN multicast_NN -LRB-_-LRB- 94_CD -RRB-_-RRB- ._.
+Deolasee_FW et_FW al._FW have_VBP designed_VBN protocols_NNS that_WDT attempt_VBP to_TO satisfy_VB user_NN timeliness_NN requirements_NNS =_JJ -_: =[_NN 95_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Some_DT of_IN these_DT techniques_NNS are_VBP evaluated_VBN by_IN Mikhailov_NNP and_CC Wills_NNP -LRB-_-LRB- 96_CD -RRB-_-RRB- ._.
+Very_RB few_JJ of_IN the_DT above_JJ techniques_NNS purport_VBP to_TO offer_VB strong_JJ consistency_NN --_: indeed_RB providing_VBG this_DT is_VBZ difficult_JJ without_IN the_DT use_NN of_IN a_DT locki_NN

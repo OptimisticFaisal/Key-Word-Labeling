@@ -1,0 +1,5 @@
+list_NN of_IN URLs_NNS fed_VBN to_TO the_DT dynamic_JJ ranker_NN ._.
+There_EX are_VBP two_CD main_JJ categories_NNS of_IN ranking_JJ algorithms_NNS ._.
+A_DT popular_JJ scheme_NN is_VBZ based_VBN on_IN learning_VBG pairwise_JJ preferences_NNS ,_, including_VBG RankNet_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, LambdaRank_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, RankSVM_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, RankBoost_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, GBRank_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, and_CC FRank_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+Both_DT LambdaRank_NNP and_CC RankNet_NNP used_VBD neural_JJ nets_NNS ._.
+1_CD RankNet_NNP used_VBD a_DT cross-entropy_JJ type_NN of_IN loss_NN function_NN and_CC LambdaRank_NN used_VBD a_DT gradient_NN based_VBN on_IN NDCG_NN smoothed_VBD b_NN

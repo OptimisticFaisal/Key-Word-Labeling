@@ -1,0 +1,4 @@
+b_NN to_TO measure_VB server_NN capacity_NN ._.
+Some_DT use_VBP application_NN level_NN metric_NN as_IN threshold_NN for_IN performing_VBG admission_NN control_NN ,_, such_JJ as_IN the_DT length_NN of_IN the_DT web_NN server_NN request_NN queue_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, or_CC the_DT incoming_JJ traffic_NN density_NN =_JJ -_: =[_NN 2_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Application_NN level_NN data_NNS structures_NNS do_VBP not_RB necessary_JJ reflect_VBP the_DT actual_JJ load_NN in_IN the_DT server_NN ;_: a_DT small_JJ number_NN of_IN heavy_JJ requests_NNS could_MD cause_VB server_NN overload_NN ._.
+Others_NNS monitor_VBP server_NN system_NN level_NN metrics_NNS ,_, su_FW

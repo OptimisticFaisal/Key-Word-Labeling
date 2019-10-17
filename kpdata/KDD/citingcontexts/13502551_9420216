@@ -1,0 +1,4 @@
+ent_JJ model_NN with_IN the_DT expanded_VBN queries_NNS ._.
+For_IN each_DT URL_NN ,_, although_IN its_PRP$ exact_JJ content_NN information_NN is_VBZ not_RB included_VBN in_IN the_DT query_NN log_NN ,_, it_PRP can_MD be_VB represented_VBN as_IN a_DT document_NN by_IN the_DT aggregation_NN of_IN connected_JJ queries_NNS =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+t_NN ∈_FW q_FW Algorithm_NN 1_CD Generalized_NNP Co-HITS_NNP Algorithm_NNP Input_NNP :_: Given_VBN a_DT query_FW q_FW and_CC the_DT bipartite_JJ graph_NN Perform_NNP :_: 1_CD ._.
+Calculate_VB the_DT initial_JJ ranking_NN scores_NNS based_VBN on_IN the_DT statistical_JJ language_NN model_NN and_CC extract_VB the_DT

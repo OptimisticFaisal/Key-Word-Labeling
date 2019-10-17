@@ -1,0 +1,3 @@
+el-based_JJ systems_NNS ,_, e.g._FW ,_, -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+The_DT graph-theoretic_JJ techniques_NNS rely_VBP on_IN a_DT graphical_JJ model_NN of_IN the_DT system_NN ,_, which_WDT describes_VBZ the_DT propagation_NN for_IN each_DT specific_JJ fault_NN ,_, with_IN examples_NNS including_VBG dependency_NN graph_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, codebook_NN technique_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, and_CC belief-network_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+These_DT techniques_NNS suffer_VBP from_IN two_CD main_JJ drawbacks_NNS :_: first_RB ,_, they_PRP require_VBP accurate_JJ dependency_NN information_NN amongst_IN network_NN entities_NNS ,_, which_WDT is_VBZ usually_RB not_RB

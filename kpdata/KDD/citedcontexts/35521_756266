@@ -1,0 +1,4 @@
+classifier_NN -LRB-_-LRB- NB-AS_NN -RRB-_-RRB- is_VBZ proposed_VBN and_CC its_PRP$ improvements_NNS are_VBP justified_JJ ._.
+Recently_RB ,_, several_JJ studies_NNS -LRB-_-LRB- 2_CD --_: 5_CD -RRB-_-RRB- have_VBP shown_VBN that_IN Support_NN Vector_NNP Machine_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- achieves_VBZ better_JJR classification_NN accuracy_NN on_IN average_NN ._.
+In_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT cross-training_JJ SVM_NN -LRB-_-LRB- SVMCT_NN -RRB-_-RRB- approach_NN is_VBZ proposed_VBN to_TO improve_VB the_DT accuracy_NN by_IN extracting_VBG the_DT implicit_JJ relationships_NNS between_IN the_DT source_NN and_CC the_DT destination_NN catalogs_NNS ._.
+However_RB ,_, SVM-CT_NN outperforms_VBZ SVM_NNP in_IN

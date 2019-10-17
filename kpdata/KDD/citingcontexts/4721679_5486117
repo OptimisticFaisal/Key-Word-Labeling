@@ -1,0 +1,5 @@
+am_VB system_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+Many_JJ recent_JJ data_NNS stream_NN clustering_NN algorithms_NNS are_VBP based_VBN on_IN CluStream_NNP 's_POS two-phase_JJ framework_NN ._.
+Wang_NNP et_FW al._FW proposed_VBD an_DT improved_JJ offline_JJ component_NN using_VBG an_DT incomplete_JJ partitioning_VBG strategy_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Extensions_NNS of_IN this_DT work_NN including_VBG clustering_NN multiple_JJ data_NN streams_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, parallel_JJ data_NN streams_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, and_CC distributed_VBN data_NNS steams_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, and_CC applications_NNS of_IN data_NNS stream_NN mining_NN -LRB-_-LRB- 11_CD ,_, 15_CD ,_, 13_CD -RRB-_-RRB- ._.
+A_DT number_NN of_IN l_NN

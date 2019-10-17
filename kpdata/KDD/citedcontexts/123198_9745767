@@ -1,0 +1,4 @@
+roper_NN levels_NNS of_IN granularity_NN ._.
+Topic_JJ modeling_NN methods_NNS have_VBP received_VBN considerable_JJ attention_NN in_IN recent_JJ machine_NN learning_NN research_NN ,_, among_IN which_WDT the_DT LDA_NN -LRB-_-LRB- Latent_JJ Dirichlet_NNP Allocation_NNP ,_, -LRB-_-LRB- 1_LS -RRB-_-RRB- -RRB-_-RRB- ,_, its_PRP$ modifications_NNS =_JJ -_: =[_NN 4_CD ,_, 5_CD ,_, 6_CD ,_, 8_CD ,_, 9_CD -RRB-_-RRB- -_: =_JJ -_: and_CC CTM_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- are_VBP representative_JJ of_IN Bayesian_JJ graphical_JJ models_NNS ._.
+These_DT methods_NNS describe_VBP the_DT probabilistic_JJ generation_NN process_NN of_IN data_NNS ._.
+Both_CC LDA_NN and_CC CTM_NN focus_NN on_IN the_DT modeling_NN of_IN data_NNS collections_NNS with_IN singl_NN

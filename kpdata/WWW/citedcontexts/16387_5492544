@@ -1,0 +1,5 @@
+ic_JJ way_NN ._.
+Also_RB ,_, the_DT user_NN could_MD browse_VB the_DT whole_JJ list_NN of_IN selected_VBN Services_NNP and_CC select_VB the_DT one_NN that_WDT interests_VBZ him_PRP the_DT most_JJS ._.
+Various_JJ techniques_NNS for_IN automating_VBG the_DT selection_NN of_IN services_NNS have_VBP been_VBN explored_VBN -LRB-_-LRB- =_JJ -_: =[_NN 41_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 52_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Usually_RB some_DT ranking_JJ algorithm_NN is_VBZ employed_VBN to_TO order_VB the_DT services_NNS and_CC then_RB the_DT first_JJ ranked_VBN service_NN is_VBZ automatically_RB selected_VBN ._.
+2.3_CD Composition_NNP Service_NNP composition_NN can_MD be_VB defined_VBN as_IN :_: ``_`` Assembly_NN o_NN

@@ -1,0 +1,4 @@
+pends_VBZ on_IN at_IN least_JJS two_CD elements_NNS of_IN P_NN ._.
+The_DT second_JJ reason_NN is_VBZ that_IN it_PRP is_VBZ not_RB easy_JJ to_TO construct_VB a_DT good_JJ set_NN of_IN operations_NNS that_WDT would_MD allow_VB one_CD to_TO do_VB heuristic_NN search_NN over_IN the_DT set_NN of_IN all_DT partial_JJ orders_NNS ._.
+In_IN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: the_DT approach_NN used_VBN was_VBD limited_VBN to_TO constructing_VBG series-parallel_JJ partial_JJ orders_NNS ,_, and_CC still_RB the_DT set_NN of_IN operations_NNS is_VBZ more_RBR complex_JJ than_IN one_PRP would_MD wish_VB ._.
+5sFor_VB these_DT reasons_NNS we_PRP did_VBD not_RB develop_VB an_DT algorithm_NN

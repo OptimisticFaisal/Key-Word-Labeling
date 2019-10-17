@@ -1,0 +1,3 @@
+and_CC provide_VB heavyweight_JJ solutions_NNS that_WDT can_MD be_VB adapted_VBN to_TO navigation_NN ,_, e.g._FW the_DT SEAL_NN framework_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Moreover_RB ,_, there_EX are_VBP other_JJ Semantic_JJ Web_NN navigation_NN tools_NNS that_WDT generate_VBP non-HTML_JJ views_NNS ,_, e.g._FW Haystack_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: generates_VBZ text_NN views_NNS and_CC -LRB-_-LRB- 14_CD -RRB-_-RRB- graphical_JJ representations_NNS ._.
+In_IN many_JJ cases_NNS the_DT shown_VBN metadata_NN fragment_NN is_VBZ augmented_VBN with_IN triples_NNS that_WDT have_VBP the_DT described_VBN resource_NN as_IN object_NN ,_, i.e._FW reverse_JJ triples_NNS that_WDT do_VBP n_NN

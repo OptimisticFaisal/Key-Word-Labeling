@@ -1,0 +1,3 @@
+lementation_NN of_IN our_PRP$ storytelling_NN algorithm_NN hinges_VBZ on_IN data_NNS structures_NNS for_IN fast_JJ estimation_NN of_IN overlaps_VBZ ._.
+This_DT problem_NN has_VBZ been_VBN studied_VBN by_IN the_DT database_NN community_NN in_IN various_JJ guises_NNS ,_, e.g._FW ,_, similarity_NN search_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: and_CC set_NN joins_VBZ on_IN similarity_NN predicates_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Specific_JJ solutions_NNS advocate_VBP the_DT use_NN of_IN signature_NN trees_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, hierarchical_JJ bitmap_NN indices_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, and_CC locality_NN sensitive_JJ hashing_VBG -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, especially_RB the_DT technique_NN

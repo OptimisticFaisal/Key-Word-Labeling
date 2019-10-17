@@ -1,0 +1,5 @@
+g_NN concern_NN for_IN personalized_JJ search_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Second_JJ ,_, both_CC the_DT computation_NN of_IN personalization_NN and_CC the_DT storage_NN of_IN the_DT user_NN profile_NN are_VBP done_VBN at_IN the_DT client_NN side_NN so_IN that_IN the_DT server_NN load_NN is_VBZ reduced_VBN dramatically_RB =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX have_VBP been_VBN many_JJ works_NNS studying_VBG user_NN query_NN logs_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- or_CC query_NN dynamics_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+UCAIR_NN makes_VBZ direct_JJ use_NN of_IN a_DT user_NN 's_POS query_JJ history_NN to_TO benefit_VB the_DT same_JJ user_NN immediately_RB in_IN the_DT same_JJ search_NN session_NN ._.
+UCAI_NN

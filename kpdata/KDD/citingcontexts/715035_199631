@@ -1,0 +1,4 @@
+applicability_NN of_IN algorithm_NN CURE_NN ._.
+2.1.2_CD Partitional_NNP Clustering_NNP Algorithms_NNPS The_DT k-means_NN algorithm_NN is_VBZ one_CD popular_JJ partitional_JJ algorithm_NN for_IN data_NNS clustering_NN ._.
+Several_JJ algorithms_NNS ,_, such_JJ as_IN CLARA_NN and_CC CLARANS_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, are_VBP variations_NNS of_IN the_DT k-means_NN algorithm_NN ._.
+However_RB ,_, these_DT clustering_NN algorithms_NNS suffer_VBP from_IN the_DT tendency_NN of_IN resulting_VBG in_IN local_JJ minimum_NN and_CC are_VBP likely_JJ to_TO obtain_VB different_JJ clustering_NN results_NNS with_IN differ_VBP

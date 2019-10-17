@@ -1,0 +1,4 @@
+ghborhood-based_JJ method_NN slower_JJR than_IN previous_JJ methods_NNS ,_, where_WRB all_DT weights_NNS -LRB-_-LRB- or_CC similarities_NNS -RRB-_-RRB- could_MD have_VB been_VBN precomputed_VBN ._.
+A_DT related_JJ approach_NN that_WDT vastly_RB improves_VBZ running_VBG time_NN is_VBZ described_VBN in_IN a_DT newer_JJR work_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3.3_CD Integrating_VBG user-user_JJ similarities_NNS The_DT fact_NN that_IN we_PRP tailor_VBP the_DT computation_NN of_IN the_DT interpolation_NN weights_NNS to_TO the_DT given_VBN rui_NN query_NN opens_VBZ another_DT opportunity_NN ._.
+We_PRP can_MD weight_VB all_DT users_NNS by_IN their_PRP$ similar_JJ

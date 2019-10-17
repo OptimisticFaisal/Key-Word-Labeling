@@ -1,0 +1,5 @@
+Pseudo_NNP Queries_NNPS ._.
+Previous_JJ research_NN has_VBZ investigated_VBN methods_NNS for_IN extracting_VBG implicit_JJ queries_NNS for_IN contextual_JJ advertising_NN -LRB-_-LRB- 3_CD ,_, 27_CD ,_, 39_CD -RRB-_-RRB- and_CC the_DT automatic_JJ generation_NN of_IN titles_NNS and_CC quick-links_NNS for_IN web_NN pages_NNS =_JJ -_: =[_NN 12_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT goal_NN of_IN both_DT tasks_NNS is_VBZ to_TO extract_VB short_JJ phrases_NNS that_WDT are_VBP relevant_JJ to_TO a_DT given_VBN web_NN page_NN ._.
+Such_JJ approaches_NNS extract_VBP important_JJ phrases_NNS from_IN various_JJ sources_NNS ,_, including_VBG high_JJ tf_NN ._.
+idf_NN terms_NNS within_IN a_DT page_NN ,_, t_NN

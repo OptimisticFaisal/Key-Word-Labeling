@@ -1,0 +1,4 @@
+ge_NN body_NN of_IN work_NN on_IN algorithms_NNS for_IN inferring_VBG trust_NN in_IN social_JJ networks_NNS ._.
+While_IN designed_VBN for_IN peer-to-peer_JJ systems_NNS rather_RB than_IN social_JJ networks_NNS ,_, one_CD of_IN the_DT most_RBS widely_RB cited_VBN trust_NN algorithms_NNS is_VBZ EigenTrust_NNP -LRB-_-LRB- =_JJ -_: =_JJ Kamvar_NNP ,_, Schlosser_NNP ,_, &_CC Garcia-Molina_NNP ,_, 2004_CD -_: =--RRB-_NN ._.
+It_PRP considers_VBZ trust_NN as_IN a_DT function_NN of_IN corrupt_JJ vs._CC valid_JJ files_NNS that_IN that_IN a_DT peer_VBP provides_VBZ ._.
+A_DT peer_VBP maintains_VBZ information_NN about_IN the_DT trustworthiness_NN of_IN peers_NNS with_IN which_WDT it_PRP has_VBZ interacted_VBN based_VBN on_IN the_DT 4spr_NN

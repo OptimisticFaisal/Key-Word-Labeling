@@ -1,0 +1,4 @@
+-_: like_IN algorithm_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- for_IN finding_VBG range_NN support_NN patterns_NNS from_IN a_DT data_NN set_NN ._.
+In_IN our_PRP$ implementation_NN ,_, we_PRP made_VBD the_DT pattern_NN search_NN more_RBR efficient_JJ by_IN representing_VBG the_DT set_NN of_IN items_NNS and_CC itemsets_NNS as_IN a_DT prefix_NN tree_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Also_RB ,_, we_PRP generated_VBD only_RB the_DT closed_VBN itemsets_NNS -LRB-_-LRB- 41_CD -RRB-_-RRB- as_IN the_DT final_JJ output_NN of_IN our_PRP$ pattern_NN discovery_NN algorithm_NN ,_, since_IN they_PRP represent_VBP a_DT lossless_JJ compression_NN of_IN the_DT full_JJ set_NN of_IN frequent_JJ patterns_NNS ._.
+We_PRP refer_VBP th_DT

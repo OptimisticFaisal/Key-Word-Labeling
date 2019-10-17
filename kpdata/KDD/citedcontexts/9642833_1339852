@@ -1,0 +1,3 @@
+pular_JJ products_NNS at_IN any_DT time_NN instance_NN from_IN a_DT large_JJ collection_NN of_IN objects_NNS over_IN a_DT long_JJ time_NN period_NN ._.
+Note_VB that_DT top-k_NN -LRB-_-LRB- t_NN -RRB-_-RRB- queries_NNS should_MD not_RB be_VB confused_VBN with_IN similarity_NN search_NN in_IN time_NN series_NN or_CC trajectories_NNS =_JJ -_: =[_NN 12_CD ,_, 14,37_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT latter_JJ case_NN ,_, one_CD is_VBZ interested_JJ in_IN retrieving_VBG the_DT k_NN most_RBS similar_JJ functions_NNS fi_VBP to_TO a_DT query_NN function_NN ,_, where_WRB the_DT similarity_NN is_VBZ measured_VBN over_IN the_DT entire_JJ time_NN domain_NN of_IN the_DT function_NN using_VBG for_IN exampl_NN

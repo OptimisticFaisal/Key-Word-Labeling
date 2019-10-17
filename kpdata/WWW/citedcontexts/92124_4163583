@@ -1,0 +1,4 @@
+._.
+SWRL_NN is_VBZ a_DT Semantic_JJ Web_NN Rule_NN Language_NN and_CC extends_VBZ the_DT syntax_NN and_CC semantics_NNS of_IN the_DT ontology_JJ language_NN OWL_NN DL_NN with_IN unary\/binary_JJ Datalog_FW RuleML_FW -LRB-_-LRB- 36_CD -RRB-_-RRB- ,_, i.e._FW ,_, Horn-like_JJ rules_NNS ._.
+This_DT extension_NN is_VBZ undecidable_JJ =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: but_CC lacks_VBZ ,_, nevertheless_RB ,_, interesting_JJ knowledge_NN representation_NN mechanisms_NNS such_JJ as_IN negation_NN as_IN failure_NN ._.
+5_CD Conclusions_NNS and_CC directions_NNS for_IN further_JJ research_NN In_IN order_NN to_TO solve_VB the_DT lack_NN of_IN modularity_NN in_IN ans_NNS

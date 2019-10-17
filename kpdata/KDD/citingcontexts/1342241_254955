@@ -1,0 +1,6 @@
+ent_JJ time_NN periods_NNS ._.
+Moreover_RB ,_, we_PRP introduce_VBP statistical_JJ procedures_NNS to_TO find_VB various_JJ statistically_RB interesting_JJ rules_NNS ._.
+Only_RB using_VBG ups_NNS and_CC downs_NNS to_TO express_VB the_DT change_NN of_IN a_DT rule_NN lacks_VBZ statistical_JJ foundation_NN ._.
+=_SYM -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ an_DT index_NN for_IN retrieval_NN of_IN association_NN rules_NNS stored_VBN in_IN a_DT relational_JJ database_NN ._.
+The_DT purpose_NN is_VBZ to_TO retrieve_VB rules_NNS containing_VBG a_DT given_VBN subset_NN of_IN items_NNS in_IN their_PRP$ LHS_NNP or_CC RHS_NNP ._.
+Rule-QL_NN is_VBZ more_JJR expressi_NN

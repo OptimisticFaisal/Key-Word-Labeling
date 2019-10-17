@@ -1,0 +1,4 @@
+ender_JJR systems_NNS ,_, in_IN this_DT paper_NN we_PRP are_VBP simply_RB exploring_VBG the_DT utility_NN of_IN this_DT new_JJ proximity_NN measure_NN ._.
+More_RBR comprehensive_JJ techniques_NNS for_IN building_NN recommender_NN systems_NNS for_IN the_DT Netflix_NNP dataset_NN are_VBP described_VBN in_IN =_JJ -_: =[_NN 24_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Table_NNP 1_CD show_VBP some_DT basic_JJ statistics_NNS about_IN the_DT datasets_NNS ,_, along_IN with_IN some_DT average_JJ features_NNS for_IN proximity_NN graphs_NNS calculated_VBN on_IN a_DT random_JJ sample_NN of_IN pairs_NNS from_IN each_DT dataset_NN ._.
+Some_DT interesting_JJ features_NNS emerg_VBP

@@ -1,0 +1,4 @@
+er_RB ,_, and_CC the_DT negative_JJ constraint_NN is_VBZ one_CD that_WDT specifies_VBZ that_IN two_CD instances_NNS must_MD belong_VB to_TO different_JJ clusters_NNS ._.
+These_DT instance-level_JJ constraints_NNS have_VBP been_VBN used_VBN in_IN learning_VBG distance\/dissimilarity_NN measures_NNS =_JJ -_: =[_NN 3,4,7,10,18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, modifying_VBG objective_JJ criteria_NNS for_IN cluster_NN evaluation_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, and_CC improving_VBG optimization_NN procedures_NNS -LRB-_-LRB- 2_CD ,_, 16_CD ,_, 17_CD -RRB-_-RRB- ._.
+The_DT constraints_NNS come_VBP naturally_RB in_IN the_DT context_NN of_IN music_NN applications_NNS ._.
+For_IN example_NN ,_, constrai_NN

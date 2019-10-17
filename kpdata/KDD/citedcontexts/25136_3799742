@@ -1,0 +1,6 @@
+urnal_NN of_IN Computer_NNP Systems_NNPS Science_NNP and_CC Engineering_NNP ,_, Vol_NNP ._.
+21_CD ,_, No._NN 1_CD ,_, 2006_CD ,_, pp_NN ._.
+47_CD --_: 52_CD ._.
+sitself_NN is_VBZ non-binary_JJ ,_, it_PRP is_VBZ binary_JJ scalar_NN products_NNS that_WDT are_VBP typically_RB required_VBN -RRB-_-RRB- ._.
+Examples_NNS include_VBP association_NN rules_NNS =_JJ -_: =_JJ -LRB-_-LRB- VC02_NN -RRB-_-RRB- -_: =_JJ -_: ,_, naive_JJ Bayes_NNP classifiers_NNS -LRB-_-LRB- VC04_NN -RRB-_-RRB- ,_, Bayesian_JJ networks_NNS -LRB-_-LRB- WY04_NN ,_, MSK04_NN ,_, YW05_NN -RRB-_-RRB- ,_, and_CC kmeans_NNS clustering_NN -LRB-_-LRB- JW05_NN -RRB-_-RRB- ._.
+Our_PRP$ results_NNS show_VBP that_IN the_DT total_JJ running_NN time_NN needed_VBN is_VBZ quite_RB high_JJ ,_, but_CC it_PRP becomes_VBZ feasible_JJ if_IN cer_NN

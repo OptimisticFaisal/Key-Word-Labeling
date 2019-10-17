@@ -1,0 +1,5 @@
+type_NN ._.
+The_DT first_JJ approach_NN is_VBZ to_TO do_VB probability_NN density_NN estimation_NN ,_, but_CC this_DT is_VBZ well-known_JJ to_TO be_VB a_DT very_RB difficult_JJ task_NN for_IN high-dimensional_JJ data_NNS ._.
+The_DT second_JJ approach_NN is_VBZ to_TO use_VB a_DT so-called_JJ one-class_JJ SVM_NN =_JJ -_: =[_NN 16_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT aim_NN of_IN these_DT methods_NNS is_VBZ to_TO model_VB a_DT region_NN that_WDT contains_VBZ most_JJS of_IN the_DT available_JJ positive_JJ examples_NNS ._.
+Unfortunately_RB ,_, the_DT outcome_NN of_IN these_DT methods_NNS is_VBZ sensitive_JJ to_TO the_DT values_NNS chosen_VBN for_IN tuning_NN paramete_NN

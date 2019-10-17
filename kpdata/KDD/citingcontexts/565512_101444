@@ -1,0 +1,4 @@
+rates_NNS ,_, TS_NN percentiles_NNS do_VBP not_RB correspond_VB to_TO percentiles_NNS in_IN the_DT FP_NN ._.
+It_PRP is_VBZ therefore_RB necessary_JJ to_TO translate_VB the_DT percentiles_NNS from_IN the_DT TS_NN to_TO the_DT FP_NN and_CC we_PRP call_VBP this_DT procedure_NN the_DT ``_`` Inverse_JJ Transformation_NN ''_'' ._.
+=_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: introduce_VB a_DT similar_JJ issue_NN -_: they_PRP account_VBP for_IN the_DT differences_NNS between_IN the_DT training-set_JJ consideration_NN test-set_NN distributions_NNS when_WRB measuring_VBG error_NN rate_NN ._.
+The_DT following_JJ quantities_NNS are_VBP given_VBN prior_RB to_TO perfo_VB

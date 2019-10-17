@@ -1,0 +1,3 @@
+input_NN attributes_NNS in_IN graph-based_JJ representations_NNS of_IN Boolean_JJ functions_NNS ,_, called_VBN ``_`` function_NN graphs_NNS ''_'' ,_, has_VBZ proven_VBN to_TO be_VB very_RB useful_JJ for_IN automatic_JJ verification_NN of_IN logic_NN design_NN ,_, especially_RB in_IN hardware_NN ._.
+Bryant_NNP =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ shown_VBN that_IN each_DT Boolean_NNP function_NN has_VBZ a_DT unique_JJ -LRB-_-LRB- up_RB to_TO isomorphism_NN -RRB-_-RRB- reduced_VBD function_NN graph_NN representation_NN ,_, while_IN any_DT other_JJ function_NN graph_NN denoting_VBG the_DT same_JJ function_NN contains_VBZ more_JJR vertices_NNS ._.
+Moreover_RB

@@ -1,0 +1,4 @@
+le_FW ,_, we_PRP observed_VBD that_IN users_NNS searching_VBG for_IN the_DT ``_`` Lexis_NNP Nexis_NNP ''_'' repository_NN often_RB first_RB search_VB for_IN ``_`` Lexis_NNP Nexus_NNP ''_'' by_IN mistake_NN ._.
+As_IN users_NNS search_NN ,_, it_PRP is_VBZ well_RB documented_VBN that_IN they_PRP often_RB reformulate_VBP their_PRP$ queries_NNS =_JJ -_: =[_NN 3_CD ,_, 8_CD ,_, 18_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Previous_JJ work_NN has_VBZ attempted_VBN to_TO predict_VB query_NN reformulations_NNS ,_, but_CC to_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN these_DT reformulations_NNS have_VBP never_RB been_VBN used_VBN to_TO learn_VB better_JJR retrieval_NN functions_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP refer_VBP t_NN

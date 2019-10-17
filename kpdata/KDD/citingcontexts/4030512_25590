@@ -1,0 +1,4 @@
+data_NNS sequence_NN is_VBZ addressed_VBN ._.
+The_DT discovery_NN of_IN multiple_JJ partial_JJ periodical_JJ patterns_NNS that_WDT do_VBP not_RB appear_VB in_IN every_DT periodic_JJ segment_NN was_VBD first_RB studied_VBN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+A_DT version_NN of_IN the_DT well-known_JJ Apriori_NNP algorithm_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: was_VBD adapted_VBN for_IN the_DT problem_NN of_IN finding_VBG patterns_NNS of_IN the_DT form_NN \*_SYM AB_NNP \*\*_SYM C_NN ,_, where_WRB A_NN ,_, B_NN ,_, and_CC C_NN are_VBP specific_JJ symbols_NNS -LRB-_-LRB- e.g._FW ,_, event_NN types_NNS -RRB-_-RRB- and_CC \*_NN could_MD be_VB any_DT symbol_NN -LRB-_-LRB- T_NN =_JJ 6_CD ,_, in_IN this_DT example_NN -RRB-_-RRB- ._.
+This_DT pattern_NN may_MD not_RB

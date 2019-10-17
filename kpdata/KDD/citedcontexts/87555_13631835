@@ -1,0 +1,5 @@
+ute_NN costs_NNS -RRB-_-RRB- ,_, active_JJ learning_NN costs_NNS ,_, computation_NN cost_NN ,_, human-computer_JJ interaction_NN cost_NN ,_, and_CC so_RB on_RB ._.
+Most_JJS previous_JJ works_NNS on_IN cost-sensitive_JJ learning_NN only_RB consider_VBP minimizing_VBG misclassification_NN costs_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 5_CD ,_, 20_CD ,_, 6_CD ,_, 18_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+A_DT few_JJ works_NNS do_VBP attempt_NN to_TO minimize_VB the_DT sum_NN of_IN 638Research_NNP Track_NNP Paper_NNP misclassification_NN costs_NNS and_CC attribute_NN costs_NNS -LRB-_-LRB- 21_CD ,_, 4_CD ,_, 24_CD ,_, 11_CD -RRB-_-RRB- ._.
+However_RB ,_, these_DT works_NNS do_VBP not_RB consider_VB data_NN acquisition_NN cost_NN ._.
+That_DT

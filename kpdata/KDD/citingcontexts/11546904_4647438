@@ -1,0 +1,4 @@
+ed_VBN approach_NN ._.
+-LRB-_-LRB- 17_CD -RRB-_-RRB- applies_VBZ a_DT clustering-based_JJ approach_NN to_TO differentiate_VB latent_JJ social_JJ dimensions_NNS from_IN social_JJ network_NN ,_, but_CC does_VBZ not_RB study_VB about_IN the_DT semantic_JJ meaning_NN related_VBN to_TO the_DT extracted_VBN dimensions_NNS ._.
+=_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: learns_VBZ semantic_JJ relationship_NN in_IN a_DT supervised_JJ way_NN ,_, treating_VBG links_NNS as_IN features_NNS and_CC requiring_VBG labeled_JJ pairs_NNS as_IN training_NN data_NNS ._.
+Since_IN it_PRP is_VBZ difficult_JJ to_TO find_VB universal_JJ features_NNS that_WDT are_VBP useful_JJ in_IN every_DT do_VBP

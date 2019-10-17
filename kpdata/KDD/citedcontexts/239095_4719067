@@ -1,0 +1,4 @@
+this_DT paper_NN ,_, we_PRP present_VBP an_DT algorithm_NN that_WDT can_MD classify_VB large-scale_JJ text_NN data_NNS with_IN high_JJ classification_NN quality_NN and_CC fast_JJ training_NN speed_NN ._.
+Our_PRP$ method_NN is_VBZ based_VBN on_IN a_DT novel_JJ extension_NN of_IN the_DT proximal_JJ SVM_NN mode_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Previous_JJ studies_NNS on_IN proximal_JJ SVM_NN have_VBP focused_VBN on_IN classification_NN for_IN low_JJ dimensional_JJ data_NNS and_CC did_VBD not_RB consider_VB the_DT unbalanced_JJ data_NN cases_NNS ._.
+Such_JJ methods_NNS will_MD meet_VB difficulties_NNS when_WRB classifying_VBG unbalanc_NN

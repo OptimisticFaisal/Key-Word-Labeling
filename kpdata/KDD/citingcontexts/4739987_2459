@@ -1,0 +1,5 @@
+r_NN naive_JJ Bayes_NNS were_VBD poor_JJ in_IN comparison_NN to_TO theirs_JJ ._.
+We_PRP again_RB attribute_VBP this_DT to_TO the_DT differences_NNS in_IN data_NN extraction_NN methods_NNS ._.
+Naive_JJ Bayes_NNS is_VBZ well_RB known_VBN to_TO be_VB sensitive_JJ to_TO conditionally_RB dependent_JJ attributes_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP used_VBD overlapping_VBG byte_NN sequences_NNS as_IN attributes_NNS ,_, so_IN there_EX were_VBD many_JJ that_WDT were_VBD conditionally_RB dependent_JJ ._.
+Indeed_RB ,_, after_IN analyzing_VBG decision_NN trees_NNS produced_VBN by_IN j48_NN ,_, we_PRP found_VBD evidence_NN that_IN overlapping_VBG seq_NN

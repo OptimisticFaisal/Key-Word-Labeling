@@ -1,0 +1,3 @@
+ibm_NN 's_POS T.J._NNP Watson_NNP Research_NNP Center_NNP have_VBP investigated_VBN neural_JJ networks_NNS for_IN virus_NN detection_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- and_CC have_VBP incorporated_VBN a_DT similar_JJ approach_NN for_IN detecting_VBG boot-sector_JJ viruses_NNS into_IN ibm_NN 's_POS Anti-Virus_NNP software_NN =_JJ -_: =[_NN 41_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+More_RBR recently_RB ,_, instead_RB of_IN focusing_VBG on_IN boot-sector_JJ viruses_NNS ,_, Schultz_NNP et_FW al._FW -LRB-_-LRB- 37_CD -RRB-_-RRB- used_VBD data_NN mining_NN methods_NNS ,_, such_JJ as_IN naive_JJ Bayes_NNP ,_, to_TO detect_VB malicious_JJ code_NN ._.
+The_DT authors_NNS collected_VBD 4,301_CD programs_NNS for_IN the_DT W_NN

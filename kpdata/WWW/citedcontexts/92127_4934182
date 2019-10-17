@@ -1,0 +1,4 @@
+ider_VB larger_JJR fragments_NNS of_IN first-order_JJ logic_NN as_IN ontology_NN languages_NNS ._.
+One_CD reason_NN is_VBZ the_DT ability_NN to_TO add_VB ``_`` rules_NNS ''_'' to_TO the_DT ontology_NN ,_, as_IN in_IN languages_NNS like_IN SWRL_NN -LRB-_-LRB- HB_NN +_CC 04_CD -RRB-_-RRB- ._.
+An_DT example_NN for_IN a_DT rule_NN is_VBZ the_DT statement_NN =_JJ -_: =_JJ -LRB-_-LRB- GHVD03_NN -RRB-_-RRB- -_: =_JJ -_: :_: individuals_NNS who_WP live_VBP and_CC work_VBP at_IN the_DT same_JJ location_NN are_VBP home_NN workers_NNS ._.
+This_DT can_MD be_VB expressed_VBN as_IN a_DT Horn_NNP rule_NN -LRB-_-LRB- clause_NN -RRB-_-RRB- homeWorker_NN -LRB-_-LRB- x_NN -RRB-_-RRB- ←_NN work_NN -LRB-_-LRB- x_NN ,_, y_NN -RRB-_-RRB- ∧_CD live_JJ -LRB-_-LRB- x_NN ,_, z_SYM -RRB-_-RRB- ∧_FW loc_FW -LRB-_-LRB- y_NN ,_, w_NN -RRB-_-RRB- ∧_FW loc_FW -LRB-_-LRB- z_SYM ,_, w_NN -RRB-_-RRB- ,_, but_CC is_VBZ not_RB expressible_JJ in_IN cu_NN

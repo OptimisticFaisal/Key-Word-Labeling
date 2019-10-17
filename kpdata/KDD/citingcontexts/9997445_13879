@@ -1,0 +1,4 @@
+team_NN size_NN and_CC communication_NN cost_NN -RRB-_-RRB- could_MD be_VB taken_VBN into_IN account_NN simultaneously_RB by_IN defining_VBG the_DT problem_NN as_IN a_DT bi-objective_JJ optimization_NN problem_NN ._.
+In_IN such_JJ cases_NNS the_DT goal_NN is_VBZ to_TO find_VB Pareto-optimal_JJ solutions_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Note_VB that_IN a_DT solution_NN is_VBZ called_VBN Pareto-optimal_JJ if_IN there_EX does_VBZ not_RB exist_VB another_DT solution_NN that_WDT is_VBZ better_JJR in_IN both_DT objectives_NNS ._.
+For_IN many_JJ problems_NNS ,_, the_DT set_NN of_IN Pareto-optimal_JJ solutions_NNS is_VBZ exponential_JJ to_TO the_DT

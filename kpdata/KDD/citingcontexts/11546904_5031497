@@ -1,0 +1,4 @@
+entities_NNS are_VBP presented_VBN in_IN multiple_JJ relations_NNS ._.
+Semantic_JJ Role_NN Labeling_VBG is_VBZ a_DT broadly_RB employed_VBN text_NN mining_NN technique_NN ,_, as_IN it_PRP allows_VBZ for_IN the_DT addition_NN of_IN structured_JJ semantic_JJ information_NN to_TO plain_JJ text_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+=_SYM -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: applies_VBZ Natural_NNP Language_NNP Processing_NNP to_TO extract_VB protein-protein_JJ relationships_NNS from_IN rich-annotated_JJ corpus_NN in_IN biomedical_JJ domain_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- proposes_VBZ a_DT general_JJ framework_NN for_IN syntax-based_JJ relation_NN mining_NN and_CC ach_NN

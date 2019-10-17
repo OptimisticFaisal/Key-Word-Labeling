@@ -1,0 +1,4 @@
+dels_NNS built_VBN from_IN different_JJ sites_NNS ,_, and_CC privacy_NN preserving_NN techniques_NNS including_VBG decision_NN tree_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- and_CC association_NN rule_NN mining_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+Those_DT for_IN vertically_RB partitioned_VBN data_NNS include_VBP association_NN rule_NN mining_NN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: and_CC k-means_NN clustering_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- ._.
+None_NN of_IN these_DT methods_NNS consider_VBP heterogeneous_JJ databases_NNS and_CC challenges_NNS in_IN such_JJ settings_NNS ._.
+There_EX is_VBZ also_RB a_DT large_JJ body_NN of_IN work_NN on_IN schema_NN matching_NN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 6_CD ,_, 8_CD ,_, 16_CD -RRB-_-RRB- ,_, see_VB -LRB-_-LRB- 24_CD -RRB-_-RRB-

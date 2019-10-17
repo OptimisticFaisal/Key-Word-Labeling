@@ -1,0 +1,3 @@
+ces_IN the_DT burstiness_NN of_IN terms_NNS during_IN certain_JJ periods_NNS of_IN time_NN as_IN an_DT additional_JJ dimension_NN for_IN topic_NN detection_NN ,_, and_CC models_NNS the_DT temporal_JJ extension_NN of_IN relevant_JJ terms_NNS using_VBG a_DT weighted_JJ finite_JJ state_NN automaton_NN ._.
+=_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: use_NN co-occurrence_NN patterns_NNS and_CC their_PRP$ local_JJ distribution_NN in_IN time_NN to_TO detect_VB topics_NNS over_IN time_NN ._.
+By_IN their_PRP$ approach_NN ,_, every_DT topic_NN is_VBZ represented_VBN by_IN a_DT co-occurrence_JJ set_NN of_IN terms_NNS representative_NN of_IN a_DT certain_JJ p_NN

@@ -1,0 +1,5 @@
+i_LS the_DT value_NN x_NN i_FW is_VBZ updated_VBN by_IN ∑_FW ˆx_FW j_FW xi_FW ←_FW ‖_FW x_NN i_FW −_FW ˆx_FW j_FW ‖_FW j_FW ∑_FW j_FW 1_CD ‖_CD x_NN i_FW −_FW ˆx_FW j_FW ‖_FW ._.
+This_DT algorithm_NN is_VBZ guaranteed_VBN to_TO converge_VB to_TO the_DT optimal_JJ solution_NN -LRB-_-LRB- 27_CD ,_, 31_CD -RRB-_-RRB- ,_, and_CC in_IN most_JJS settings_NNS converges_VBZ quadratically_RB =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Other_JJ Norms_NNS and_CC Distances_NNS ._.
+If_IN Err_NN -LRB-_-LRB- δ_NN -RRB-_-RRB- =_JJ |_FW δ_FW |_FW p_NN ,_, 1_CD -LRB-_-LRB- p_NN -LRB-_-LRB- 2_CD ,_, then_RB an_DT iterative_JJ algorithm_NN along_IN the_DT same_JJ lines_NNS as_IN the_DT Weiszfeld_NNP algorithm_NN can_MD be_VB used_VBN to_TO minimize_VB g_NN -LRB-_-LRB- x_NN -RRB-_-RRB- optimally_RB -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+In_IN practice_NN ,_, this_DT is_VBZ

@@ -1,0 +1,3 @@
+ween_JJ community_NN membership_NN and_CC the_DT groups_NNS implied_VBN by_IN links_NNS we_PRP borrowed_VBD the_DT well_RB known_VBN concepts_NNS of_IN must-link_JJ and_CC cannot-link_JJ edges_NNS used_VBN in_IN the_DT semi-supervised_JJ and_CC constraint-based_JJ clustering_NN literature_NN =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 4_CD ,_, 3_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP defined_VBD a_DT must-linked_JJ node_NN pair_NN as_IN either_CC complete_JJ or_CC incomplete_JJ and_CC a_DT cannot-linked_JJ node_NN pair_NN as_IN pure_JJ or_CC impure_JJ ._.
+A_DT complete_JJ node_NN pair_NN is_VBZ one_CD where_WRB the_DT linked_VBN nodes_NNS belong_VBP to_TO the_DT same_JJ community_NN ._.

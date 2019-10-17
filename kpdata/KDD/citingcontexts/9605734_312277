@@ -1,0 +1,4 @@
+means_VBZ that_IN we_PRP assign_VBP weights_NNS of_IN 1_CD to_TO all_DT items_NNS in_IN the_DT term_NN vector_NN ._.
+To_TO avoid_VB zero_NN probabilities_NNS ,_, we_PRP smoothed_VBD the_DT probability_NN distributions_NNS P_NN and_CC Q_NNP -LRB-_-LRB- i.e._FW the_DT term_NN vectors_NNS -RRB-_-RRB- using_VBG Good-Turing_JJ discounting_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: before_IN computing_VBG the_DT divergence_NN ._.
+We_PRP also_RB computed_VBD a_DT normalized_VBN version_NN of_IN KLD_NNP whose_WP$ range_NN is_VBZ -LRB-_-LRB- 0,1_CD -RRB-_-RRB- ,_, with_IN the_DT maximum_NN KLD_NNP as_IN the_DT normalization_NN factor_NN ._.
+4.4_CD Evaluation_NN Given_IN a_DT feature_NN mapping_NN x_NN -LRB-_-LRB- q_NN ,_, c_NN ,_, p_NN -RRB-_-RRB- a_DT

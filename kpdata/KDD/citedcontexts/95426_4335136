@@ -1,0 +1,5 @@
+ning_JJ decision_NN trees_NNS ._.
+The_DT change_NN detection_NN strategy_NN is_VBZ embedded_VBN in_IN the_DT learning_NN algorithm_NN ,_, and_CC used_VBN to_TO revise_VB parts_NNS of_IN the_DT model_NN ,_, hence_RB not_RB easily_RB applicable_JJ to_TO other_JJ learning_VBG methods_NNS ._.
+Domingos_NNP et_FW al._FW =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: use_VB the_DT ``_`` monitoring_NN ''_'' strategy_NN in_IN their_PRP$ CVFDTssystem_NN for_IN decision-tree_JJ induction_NN ._.
+Very_RB roughly_RB ,_, each_DT example_NN is_VBZ stored_VBN in_IN the_DT node_NN it_PRP reaches_VBZ ._.
+When_WRB the_DT error_NN rate_NN at_IN any_DT given_VBN node_NN seems_VBZ to_TO degrade_VB ,_, n_NN

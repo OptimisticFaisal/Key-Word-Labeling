@@ -1,0 +1,4 @@
+onserved_JJ subgraphs_NNS in_IN protein_NN contact_NN maps_NNS can_MD reveal_VB evolutionarily_RB significant_JJ patterns_NNS of_IN chemical_NN bonds_NNS and_CC interactions_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+A_DT number_NN of_IN techniques_NNS have_VBP been_VBN developed_VBN to_TO find_VB frequent_JJ subgraphs_NNS =_JJ -_: =[_NN 7_CD ,_, 8_CD ,_, 9_CD ,_, 10_CD ,_, 11_CD ,_, 12_CD ,_, 13_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: in_IN a_DT transactional_JJ database_NN ,_, i.e._FW ,_, a_DT large_JJ collection_NN of_IN graphs_NNS ._.
+However_RB ,_, the_DT usefulness_NN of_IN frequent_JJ subgraph_JJ mining_NN is_VBZ limited_VBN by_IN two_CD factors_NNS :_: 1_CD ._.
+Not_RB all_DT frequent_JJ subgraphs_NNS are_VBP statistically_RB signifi_NNS

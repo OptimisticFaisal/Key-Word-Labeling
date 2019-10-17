@@ -1,0 +1,5 @@
+thm_NN to_TO consider_VB prohibitively_RB many_JJ candidate_NN trees_NNS ._.
+Another_DT possibility_NN is_VBZ to_TO try_VB combining_VBG all_DT pairs_NNS of_IN trees_NNS ,_, which_WDT takes_VBZ quadratic_JJ time_NN in_IN the_DT number_NN of_IN trees_NNS ._.
+Instead_RB ,_, we_PRP use_VBP the_DT approach_NN of_IN Zaki_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Briefly_RB ,_, a_DT tree_NN is_VBZ represented_VBN as_IN a_DT string_NN by_IN traversing_VBG it_PRP depth-first_JJ in_IN preorder_NN ,_, recording_VBG the_DT attribute_NN in_IN each_DT node_NN ,_, and_CC −_NN 1_CD when_WRB backtracking_VBG ._.
+For_IN example_NN ,_, the_DT tree_NN in_IN Figure_NNP 1_CD would_MD be_VB encode_VB

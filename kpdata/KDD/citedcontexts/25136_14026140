@@ -1,0 +1,5 @@
+data_NNS publisher_NN provided_VBD their_PRP$ privacy_NN is_VBZ preserved_VBN ._.
+Distributed_VBN privacy-preserving_JJ data_NNS mining_NN algorithms_NNS ._.
+These_DT works_NNS focus_VBP on_IN data_NNS anonymization_NN of_IN vertically_RB or_CC horizontally_RB partitioned_VBN databases_NNS ._.
+=_SYM -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: presents_VBZ a_DT two-party_JJ framework_NN that_WDT generates_VBZ k-anonymous_JJ data_NNS from_IN two_CD vertically_RB partitioned_VBN sources_NNS without_IN disclosing_VBG data_NNS from_IN one_CD site_NN to_TO the_DT other_JJ ._.
+Horizontal_JJ partitioned_VBN databases_NNS have_VBP been_VBN c_NN

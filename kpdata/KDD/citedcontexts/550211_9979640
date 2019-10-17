@@ -1,0 +1,5 @@
+d_NN access_NN to_TO the_DT entire_JJ dataset_NN at_IN once_RB ,_, i.e._FW ,_, it_PRP performs_VBZ batch_NN learning_NN ._.
+However_RB ,_, this_DT is_VBZ clearly_RB impractical_JJ for_IN very_RB large_JJ datasets_NNS that_WDT can_MD not_RB be_VB loaded_VBN into_IN memory_NN all_DT at_IN once_RB ._.
+Some_DT recent_JJ work_NN -LRB-_-LRB- =_JJ -_: =_JJ Oza_NNP and_CC Russell_NNP ,_, 2001_CD -_: =_JJ -_: ;_: Oza_NNP ,_, 2001_CD -RRB-_-RRB- applies_VBZ ensemble_NN learning_VBG to_TO such_JJ large_JJ datasets_NNS ._.
+In_IN particular_JJ ,_, this_DT work_NN develops_VBZ online_JJ versions_NNS of_IN bagging_VBG and_CC boosting_VBG ._.
+That_DT is_VBZ ,_, whereas_IN standard_JJ bagging_NN and_CC boosting_VBG require_VBP at_IN leas_NNS

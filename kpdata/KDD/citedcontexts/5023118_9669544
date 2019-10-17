@@ -1,0 +1,4 @@
+._.
+Here_RB we_PRP only_RB study_VBD the_DT facts_NNS that_WDT are_VBP either_CC the_DT properties_NNS of_IN objects_NNS -LRB-_-LRB- e.g._FW ,_, weights_NNS of_IN laptop_NN computers_NNS -RRB-_-RRB- ,_, or_CC the_DT relationships_NNS between_IN two_CD objects_NNS -LRB-_-LRB- e.g._FW ,_, authors_NNS of_IN books_NNS -RRB-_-RRB- ._.
+We_PRP propose_VBP TruthFinder_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, an_DT approach_NN for_IN finding_VBG the_DT true_JJ facts_NNS and_CC trustworthy_JJ web_NN sites_NNS ._.
+TruthFinder_NNP is_VBZ based_VBN on_IN the_DT following_JJ principle_NN :_: Afact_NNP is_VBZ likely_JJ to_TO be_VB true_JJ if_IN it_PRP is_VBZ provided_VBN by_IN trustworthy_JJ web_NN sites_NNS -LRB-_-LRB- especially_RB i_LS

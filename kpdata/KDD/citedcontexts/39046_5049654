@@ -1,0 +1,4 @@
+m_NN the_DT root_NN of_IN the_DT tree_NN to_TO a_DT node_NN identifies_VBZ the_DT subtree_NN rooted_VBN at_IN that_DT node_NN ._.
+Using_VBG an_DT XPathstyle_NN notation_NN ,_, we_PRP may_MD refer_VB to_TO the_DT subtree_NN rooted_VBN at_IN the_DT grayshaded_JJ table_NN node_NN in_IN Figure_NNP 1_CD ashtml\/body\/table_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- ._.
+-_: =_SYM -_: In_IN the_DT context_NN of_IN the_DT Deep_JJ Web_NN ,_, the_DT content-rich_JJ regions_NNS in_IN a_DT dynamically-generated_JJ web_NN page_NN are_VBP the_DT ones_NNS that_WDT contain_VBP direct_JJ answers_NNS to_TO a_DT user_NN 's_POS query_NN ._.
+We_PRP refer_VBP to_TO these_DT regions_NNS as_IN the_DT QA-Pagelets_NNS ._.

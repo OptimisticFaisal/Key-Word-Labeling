@@ -1,0 +1,4 @@
+e_LS Fiduccia-Mattheyses_NNP \_NNP smoothing_VBG ''_'' -LRB-_-LRB- 23_CD ,_, 11_CD -RRB-_-RRB- ._.
+Another_DT avenue_NN to_TO explore_VB would_MD be_VB multivelel_JJ methods_NNS for_IN bipartite_JJ graph_NN partitioning_NN that_WDT minimize_VBP the_DT normalized-cut_JJ criterion_NN ._.
+The_DT current_JJ Metis_NNP sof_NN =_JJ -_: =_JJ tware_NN -LRB-_-LRB- 20_CD -_: =-]_NN has_VBZ important_JJ drawbacks_NNS :_: -LRB-_-LRB- i_LS -RRB-_-RRB- it_PRP returns_VBZ almost_RB equal_JJ sized_VBN clusters_NNS ,_, -LRB-_-LRB- ii_LS -RRB-_-RRB- it_PRP optimizes_VBZ a_DT dierent_JJ objective_NN function_NN and_CC -LRB-_-LRB- iii_LS -RRB-_-RRB- it_PRP seems_VBZ to_TO accept_VB only_JJ integer_NN edge-weights_NNS ._.
+For_IN web_NN documents_NNS ,_, biparti_NNS

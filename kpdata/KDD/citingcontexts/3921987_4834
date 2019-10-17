@@ -1,0 +1,4 @@
+g_NN the_DT Bayes_NNP 's_POS rule_NN and_CC Pr_NN -LRB-_-LRB- d_NN |_NN C_NN -RRB-_-RRB- given_VBN by_IN MC_NNP ._.
+Markov_NNP chain_NN models_NNS could_MD be_VB in_IN fixed_JJ order\/memory_NN or_CC variable_JJ order\/memory_NN ._.
+Markov_NNP chain_NN models_NNS in_IN fixed_JJ order_NN n_NN are_VBP usually_RB called_VBN n-gram_NN language_NN models_NNS =_JJ -_: =[_NN 20_CD ,_, 50_CD -RRB-_-RRB- -_: =_SYM -_: in_IN the_DT field_NN of_IN natural_JJ language_NN processing_NN ._.
+The_DT n-gram_NN language_NN modeling_NN technique_NN has_VBZ been_VBN used_VBN extensively_RB in_IN speech_NN recognition_NN for_IN decades_NNS -LRB-_-LRB- 32_CD -RRB-_-RRB- ,_, and_CC recently_RB in_IN information_NN retrieval_NN -LRB-_-LRB- 48_CD ,_, 36_CD ,_, 70_CD

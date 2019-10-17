@@ -1,0 +1,4 @@
+parallel_NN on_IN GPU_NNP ._.
+A_DT sorting_NN algorithm_NN on_IN GPUs_NNS with_IN applications_NNS to_TO frequency_NN counting_NN and_CC histogram_NN construction_NN is_VBZ discussed_VBN in_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- which_WDT essentially_RB recreates_VBZ sorting_NN networks_NNS on_IN the_DT GPU_NNP ._.
+Li_NNP et_FW al._FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: present_VB a_DT `_`` cut-and-stitch_JJ '_'' algorithm_NN for_IN approximate_JJ learning_NN of_IN Kalman_NNP filters_NNS ._.
+Although_IN this_DT is_VBZ not_RB a_DT GPU_NNP solution_NN per_FW se_FW ,_, we_PRP point_VBP out_RP that_IN our_PRP$ proposed_VBN approach_NN shares_NNS with_IN this_DT work_NN the_DT difficul_NN

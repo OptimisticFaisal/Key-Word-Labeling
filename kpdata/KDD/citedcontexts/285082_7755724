@@ -1,0 +1,5 @@
+I_PRP |_VBP ._.
+This_DT follows_VBZ from_IN the_DT fact_NN that_IN the_DT negative_JJ posterior_JJ entropy_NN in_IN this_DT case_NN is_VBZ a_DT submodular_JJ function_NN ._.
+The_DT following_VBG result_NN is_VBZ proved_VBN in_IN -LRB-_-LRB- 1_CD ,_, 4_CD -RRB-_-RRB- and_CC has_VBZ been_VBN applied_VBN to_TO Machine_NNP Learning_NNP problems_NNS in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Let_VB f_LS be_VB a_DT nonnegative_JJ function_NN over_IN the_DT power_NN set_NN of_IN -LCB-_-LRB- 1_CD ,_, ..._: ,_, n_NN -RCB-_-RRB- ._.
+Suppose_VB that_DT f_FW is_VBZ monotone_NN in_IN that_DT f_FW -LRB-_-LRB- I_CD ∪_NN -LCB-_-LRB- j_NN -RCB-_-RRB- -RRB-_-RRB- ≥_FW f_FW -LRB-_-LRB- I_NN -RRB-_-RRB- for_IN all_DT I_NN ,_, j_NN ,_, furthermore_RB submodular_JJ ,_, i.e._FW f_FW -LRB-_-LRB- I1_NN ∪_NN -LCB-_-LRB- j_NN -RCB-_-RRB- -RRB-_-RRB- −_FW f_FW -LRB-_-LRB- I1_NN -RRB-_-RRB- ≥_FW f_FW -LRB-_-LRB- I2_NN ∪_NN -LCB-_-LRB- j_NN -RCB-_-RRB-

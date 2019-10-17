@@ -1,0 +1,4 @@
+iers_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Given_VBN integer_NN parameters_NNS k_NN and_CC γ_NN ,_, the_DT kth-NN_JJ outliers_NNS are_VBP the_DT top_JJ γ_NN points_NNS whose_WP$ distance_NN to_TO its_PRP$ kth-NN_NN is_VBZ greatest_JJS ._.
+Sampling_NN has_VBZ been_VBN considered_VBN before_RB as_IN an_DT option_NN for_IN detecting_VBG outliers_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC never_RB along_IN with_IN a_DT rigorous_JJ treatment_NN of_IN the_DT effect_NN on_IN result_NN quality_NN ._.
+If_IN the_DT user_NN is_VBZ able_JJ to_TO tolerate_VB some_DT rigorously-measured_JJ inaccuracy_NN ,_, our_PRP$ algorithm_NN can_MD give_VB arbitrarily_RB fast_JJ response_NN times_NNS

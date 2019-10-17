@@ -1,0 +1,5 @@
+es_NNS and_CC similar_JJ URLs_NNS ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- describes_VBZ a_DT collaborative_JJ query_NN system_NN that_WDT helps_VBZ users_NNS with_IN query_NN formulation_NN by_IN finding_VBG previously_RB submitted_VBN similar_JJ queries_NNS through_IN mining_NN web_NN logs_NNS ._.
+Similar_JJ works_NNS include_VBP =_JJ -_: =[_NN 24_CD ,_, 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT works_NNS which_WDT aim_VBP to_TO mine_VB important_JJ queries_NNS from_IN query_JJ logs_NNS have_VBP similar_JJ goal_NN to_TO us_PRP ._.
+However_RB ,_, they_PRP focus_VBP on_IN keywordbased_JJ queries_NNS in_IN web_NN searches_NNS ,_, which_WDT is_VBZ different_JJ from_IN our_PRP$ work_NN in_IN terms_NNS of_IN bot_NN

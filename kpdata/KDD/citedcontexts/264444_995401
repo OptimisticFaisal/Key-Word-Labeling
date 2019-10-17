@@ -1,0 +1,4 @@
+e_LS NP-hard_NN ,_, even_RB when_WRB one_NN considers_VBZ only_RB cell_NN suppression_NN -LRB-_-LRB- 1,9_CD -RRB-_-RRB- ._.
+The_DT k-anonymity_NN problem_NN has_VBZ recently_RB drawn_VBN considerable_JJ interest_NN from_IN research_NN community_NN ,_, and_CC a_DT number_NN of_IN algorithms_NNS have_VBP been_VBN proposed_VBN =_JJ -_: =[_NN 3,4,6,7,8,12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Current_JJ solutions_NNS ,_, however_RB ,_, suffer_VBP from_IN high_JJ information_NN loss_NN mainly_RB due_JJ to_TO reliance_NN on_IN pre-defined_JJ generalization_NN hierarchies_NNS -LRB-_-LRB- 4,6,7,12_CD -RRB-_-RRB- or_CC total_JJ order_NN -LRB-_-LRB- 3,8_CD -RRB-_-RRB- imposed_VBN on_IN each_DT attribute_NN domain_NN ._.
+We_PRP di_FW

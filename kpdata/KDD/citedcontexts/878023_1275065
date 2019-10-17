@@ -1,0 +1,5 @@
+on_IN improving_VBG the_DT road_NN centerlines_NNS on_IN commercial_JJ digital_JJ maps_NNS and_CC augmenting_VBG the_DT maps_NNS with_IN the_DT number_NN of_IN lanes_NNS and_CC lane_NN positions_NNS ._.
+There_EX is_VBZ only_RB space_NN for_IN a_DT short_JJ summary_NN of_IN these_DT algorithms_NNS here_RB ,_, but_CC =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: presents_VBZ them_PRP in_IN much_RB greater_JJR detail_NN ._.
+Detection_NN of_IN stop_NN signs_NNS and_CC traffic_NN lights_NNS is_VBZ covered_VBN in_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+2.1_CD Input_NN We_PRP have_VBP collected_VBN raw_JJ position_NN traces_NNS from_IN highly_RB heterogeneous_JJ sources_NNS ._.
+We_PRP have_VBP used_VBN GPS_NNS

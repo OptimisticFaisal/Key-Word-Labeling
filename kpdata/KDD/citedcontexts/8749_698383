@@ -1,0 +1,4 @@
+002_CD ACM_NNP 1-58113-567-X_NNP \/_: 02\/0007_CD ..._: $_$ 5.00_CD ._.
+become_VB one_CD of_IN the_DT issues_NNS receiving_VBG scant_JJ attention_NN in_IN data_NNS mining_NN ,_, vhich_NN is_VBZ recognized_VBN as_IN event_NN change_NN detection_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC closely_RB related_JJ to_TO activity_NN monitoring_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Let_VB us_PRP illustrate_VB these_DT issues_NNS by_IN using_VBG netsyork_JJ access_NN log_NN analysis_NN as_IN an_DT example_NN ._.
+Suppose_VB that_IN you_PRP have_VBP a_DT data_NN stream_NN of_IN network_NN access_NN logs_NNS ,_, each_DT of_IN which_WDT is_VBZ specified_VBN by_IN numerical_JJ variables_NNS incl_VBP

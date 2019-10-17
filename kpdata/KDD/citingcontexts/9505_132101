@@ -1,0 +1,5 @@
+higher_JJR classication_NN accuracies_NNS than_IN -LRB-_-LRB- 1_CD ,_, 19_CD -RRB-_-RRB- ._.
+All_DT these_DT algorithms_NNS were_VBD proposed_VBN for_IN one-sided_JJ clustering_NN ._.
+An_DT agglomerative_JJ hard_JJ clustering_NN version_NN of_IN the_DT Information_NNP Bottleneck_NNP algorithm_NN was_VBD used_VBN in_IN -LRB-_-LRB- =_JJ -_: =_JJ 18_CD -RRB-_-RRB- -_: =_SYM -_: to_TO cluster_VB documents_NNS after_IN clustering_NN words_NNS ._.
+The_DT work_NN in_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- extended_VBD the_DT above_JJ work_NN to_TO repetitively_RB cluster_VB documents_NNS and_CC then_RB words_NNS ._.
+However_RB ,_, both_DT these_DT papers_NNS use_VBP heuristic_NN procedures_NNS and_CC cluster_NN

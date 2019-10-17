@@ -1,0 +1,4 @@
+he_PRP problem_NN ,_, influence_NN maximization_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, is_VBZ to_TO find_VB a_DT subset_NN of_IN influential_JJ individuals_NNS -LRB-_-LRB- as_IN seeds_NNS -RRB-_-RRB- such_JJ that_IN they_PRP can_MD eventually_RB influence_VB the_DT largest_JJS number_NN of_IN people_NNS in_IN a_DT social_JJ network_NN ._.
+Some_DT greedy_JJ =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =-[_NN 10_CD -RRB-_-RRB- and_CC heuristic_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_CD -RRB-_-RRB- methods_NNS are_VBP proposed_VBN to_TO effectively_RB and_CC efficiently_RB solve_VB this_DT problem_NN ._.
+There_EX are_VBP some_DT important_JJ variations_NNS to_TO tackle_VB different_JJ real-world_JJ requirements_NNS ._.
+Leskovec_NNP et_FW al._FW -LRB-_-LRB- 6_CD -RRB-_-RRB- p_NN

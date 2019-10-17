@@ -1,0 +1,3 @@
+indicating_VBG that_IN our_PRP$ refinement_NN makes_VBZ the_DT similarity_NN measures_NNS closer_RBR to_TO their_PRP$ true_JJ values_NNS ._.
+1_CD Introduction_NN In_IN recent_JJ years_NNS ,_, co-clustering_NN has_VBZ been_VBN intensively_RB studied_VBN in_IN the_DT machine_NN learning_NN community_NN =_JJ -_: =[_NN 1_CD ,_, 8_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN coclustering_NN ,_, the_DT data_NNS to_TO be_VB clustered_VBN involve_VBP objects_NNS of_IN different_JJ types_NNS that_WDT are_VBP related_JJ to_TO each_DT other_JJ ,_, for_IN example_NN ,_, documents_NNS and_CC terms_NNS in_IN a_DT corpus_NN ,_, customers_NNS and_CC items_NNS in_IN collaborative_JJ filter_NN

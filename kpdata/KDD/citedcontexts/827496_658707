@@ -1,0 +1,6 @@
+s_NN of_IN changes_NNS in_IN the_DT model_NN ._.
+High_JJ score_NN indicates_VBZ high_JJ possibility_NN of_IN being_VBG an_DT outlier_NN ._.
+This_DT approach_NN has_VBZ been_VBN combined_VBN with_IN a_DT supervised-based_JJ learning_NN approach_NN to_TO obtain_VB general_JJ patterns_NNS for_IN outlier_NN -LRB-_-LRB- =_JJ -_: =_JJ Yamanishi_NNP and_CC Takeuchi_NNP ,_, 2001_CD -_: =--RRB-_NN ._.
+The_DT main_JJ problem_NN with_IN this_DT method_NN is_VBZ that_IN it_PRP assumes_VBZ that_IN the_DT underlying_VBG data_NNS distribution_NN is_VBZ known_VBN a_DT prior_JJ ._.
+However_RB ,_, for_IN many_JJ applications_NNS ,_, it_PRP is_VBZ an_DT impractical_JJ assumption_NN ._.
+And_CC ,_, the_DT cost_NN for_IN fitti_NNS

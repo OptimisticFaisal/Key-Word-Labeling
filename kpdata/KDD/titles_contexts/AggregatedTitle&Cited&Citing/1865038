@@ -1,0 +1,10 @@
+The_DT IOC_NNP algorithm_NN :_: efficient_JJ many-class_JJ non-parametric_JJ classification_NN for_IN high-dimensional_JJ data_NNS
+those_DT objects_NNS from_IN the_DT database_NN ,_, the_DT query_NN needs_VBZ to_TO be_VB compared_VBN to_TO fewer_JJR objects_NNS in_IN order_NN to_TO be_VB classified_VBN ._.
+Approaches_NNS that_WDT speed_VBP up_RP classification_NN without_IN reducing_VBG the_DT database_NN size_NN are_VBP described_VBN in_IN =_JJ -_: =[_NN 52_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 53_CD -RRB-_-RRB- ._.
+In_IN those_DT approaches_NNS ,_, tree-based_JJ index_NN structures_NNS are_VBP constructed_VBN separately_RB for_IN each_DT class_NN ._.
+When_WRB it_PRP becomes_VBZ clear_JJ ,_, during_IN search_NN ,_, that_IN a_DT specific_JJ class_NN can_MD not_RB achieve_VB a_DT majority_NN of_IN k-nearest_NN n_NN
+an_DT only_JJ deal_NN with_IN the_DT binary_JJ class_NN case_NN ._.
+Our_PRP$ third_JJ method_NN ,_, IOC_NNP -LRB-_-LRB- standing_VBG for_IN the_DT International_NNP Olympic_NNP Committee_NNP -RRB-_-RRB- ,_, can_MD apply_VB to_TO the_DT case_NN of_IN m_NN classes_NNS where_WRB m_NN ,_, the_DT number_NN of_IN classes_NNS ,_, is_VBZ greater_JJR than_IN 2_CD =_JJ -_: =[_NN 40_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+IOC_NNP assumes_VBZ a_DT slightly_RB different_JJ processing_NN of_IN the_DT datapoints_NNS in_IN the_DT neighborhood_NN of_IN the_DT query_NN ._.
+This_DT allows_VBZ it_PRP to_TO search_VB a_DT set_NN of_IN metric-trees_NNS ,_, one_CD for_IN each_DT class_NN ._.
+During_IN the_DT searches_NNS it_PRP is_VBZ possible_JJ

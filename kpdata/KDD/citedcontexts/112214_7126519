@@ -1,0 +1,5 @@
+chers_NNS have_VBP used_VBN a_DT variety_NN of_IN synthetic_JJ data_NNS generation_NN techniques_NNS to_TO test_VB collaborative_JJ filtering_VBG algorithms_NNS ,_, but_CC the_DT datasets_NNS used_VBN to_TO test_VB some_DT algorithms_NNS are_VBP inappropriate_JJ for_IN evaluation_NN of_IN others_NNS ._.
+=_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =-[_NN 3_CD -RRB-_-RRB- The_DT data_NNS generated_VBD to_TO evaluate_VB this_DT algorithm_NN is_VBZ based_VBN on_IN simple_JJ features_NNS ._.
+Some_DT number_NN of_IN features_NNS F_NN is_VBZ chosen_VBN ._.
+Each_DT item_NN is_VBZ assigned_VBN random_JJ values_NNS in_IN range_NN -LRB-_-LRB- 0_CD ,_, 1_LS -RRB-_-RRB- for_IN each_DT feature_NN ._.
+Users_NNS are_VBP then_RB

@@ -1,0 +1,4 @@
+odel_NN assumption_NN or_CC automatically_RB learned_VBN from_IN data_NNS ._.
+Many_JJ multi-task_NNS and_CC transfer_NN learning_NN methods_NNS make_VBP some_DT prior_JJ assumptions_NNS ._.
+For_IN example_NN ,_, the_DT latent_JJ data_NN representation_NN is_VBZ shared_VBN by_IN different_JJ tasks_NNS =_JJ -_: =[_NN 4_CD ,_, 1_CD -RRB-_-RRB- -_: =_JJ -_: or_CC the_DT learning_NN models_NNS in_IN different_JJ tasks_NNS have_VBP similar_JJ model_NN parameters_NNS -LRB-_-LRB- 9_CD ,_, 14_CD -RRB-_-RRB- ._.
+Obviously_RB ,_, learning_VBG the_DT task_NN relationships_NNS from_IN data_NNS automatically_RB is_VBZ the_DT more_RBR favorable_JJ option_NN because_IN the_DT model_NN assu_NN

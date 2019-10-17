@@ -1,0 +1,5 @@
+trieving_VBG the_DT metadata_NN of_IN documents_NNS ._.
+In_IN this_DT architecture_NN the_DT RDF_NNP Data_NNP Query_NNP Language_NN -LRB-_-LRB- RDQL_NN -RRB-_-RRB- -LRB-_-LRB- RDQL_NN ,_, 2004_CD -RRB-_-RRB- was_VBD used_VBN to_TO retrieve_VB the_DT metadata_NN of_IN documents_NNS ._.
+We_PRP also_RB used_VBD a_DT search_NN semantic_JJ tool_NN like_IN JENA_NNP -LRB-_-LRB- =_JJ -_: =_JJ Carroll_NNP et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN in_IN order_NN to_TO search_VB RDF_NNP expressions_NNS ._.
+Thirdly_RB ,_, the_DT ``_`` OntologyAgent_NNP ''_'' provides_VBZ an_DT overall_JJ knowledge_NN of_IN the_DT e-fashion_NN ontology_NN so_RB offer_VBP answering_VBG queries_NNS about_IN this_DT domain_NN and_CC its_PRP$ structure_NN ._.
+The_DT bulk_NN of_IN t_NN

@@ -1,0 +1,4 @@
+vertically_RB partitioned_VBN data_NNS ._.
+The_DT construction_NN of_IN a_DT single_JJ classifier_NN from_IN vertically_RB distributed_VBN data_NNS has_VBZ been_VBN applied_VBN to_TO a_DT number_NN of_IN techniques_NNS ,_, for_IN example_NN decision_NN trees_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC k-means_NN clustering_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT approach_NN ,_, the_DT focus_NN lies_VBZ on_IN secure_JJ computation_NN ,_, where_WRB as_RB little_JJ as_IN possible_JJ about_IN local_JJ data_NNS is_VBZ disclosed_VBN to_TO other_JJ sites_NNS ._.
+Secure_VB sum_NN and_CC secure_JJ product_NN computation_NN increase_VBP the_DT computational_JJ

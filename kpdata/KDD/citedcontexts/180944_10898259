@@ -1,0 +1,5 @@
+he_PRP difference_NN of_IN data_NN access_NN patterns_NNS ,_, and_CC we_PRP are_VBP safe_JJ to_TO use_VB a_DT Euclidean_JJ distance_NN based_VBN clustering_NN algorithm_NN such_JJ as_IN k-means_NN for_IN clustering_NN ._.
+We_PRP choose_VBP k-means_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC use_VBP an_DT efficient_JJ variant_NN of_IN it_PRP =_JJ -_: =[_NN 27_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: 2_CD ._.
+We_PRP abbreviate_VBP Euclidean_JJ distance_NN as_IN distance_NN in_IN the_DT following_NN ._.
+The_DT CBV_NN of_IN a_DT normal_JJ user_NN session_NN is_VBZ expected_VBN to_TO be_VB close_RB to_TO one_CD of_IN the_DT learned_VBN cluster_NN centers_NNS ,_, Clustnorm_NNP ._.
+Although_IN Clustnorm_NN is_VBZ not_RB

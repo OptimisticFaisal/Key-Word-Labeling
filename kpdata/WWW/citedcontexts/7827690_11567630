@@ -1,0 +1,4 @@
+harmonic_JJ functions_NNS classifier_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- is_VBZ ''_'' essentially_RB identical_JJ ''_'' to_TO wvRN_VB except_IN with_IN a_DT principled_JJ semantics_NNS and_CC exact_JJ inference_NN ._.
+Many_JJ other_JJ recent_JJ semi-supervised_JJ learning_NN methods_NNS use_VBP a_DT similar_JJ approach_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+We_PRP compare_VBP MultiRankWalk_NNP 's_POS performance_NN with_IN Zhu_NNP and_CC Macskassy_NNP 's_POS algorithm_NN on_IN the_DT five_CD network_NN datasets_NNS using_VBG different_JJ seed_NN preferences_NNS ._.
+Due_JJ to_TO space_NN limitations_NNS ,_, we_PRP show_VBP only_RB the_DT macro-average_NN

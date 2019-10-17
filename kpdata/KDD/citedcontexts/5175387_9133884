@@ -1,0 +1,4 @@
+eral_JJ Bregman_NNP divergences_NNS ,_, the_DT trilinear_JJ form_NN can_MD be_VB minimized_VBN by_IN alternating_VBG projections_NNS with_IN iterative_JJ majorization_NN for_IN the_DT projection_NN -LRB-_-LRB- 42_CD -RRB-_-RRB- ._.
+A_DT similar_JJ formulation_NN in_IN terms_NNS of_IN log-likelihoods_NNS uses_VBZ EM_NN =_JJ -_: =[_NN 43_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Banerjee_NNP et_FW al._FW propose_VBP a_DT model_NN for_IN Bregman_NNP clustering_NN in_IN matrices_NNS and_CC tensors_NNS -LRB-_-LRB- 12,44_CD -RRB-_-RRB- ,_, which_WDT is_VBZ based_VBN on_IN Bregman_NNP information_NN instead_RB of_IN divergence_NN ._.
+While_IN the_DT above_JJ approaches_NNS generalize_VBP matrix_NN co-c_NN

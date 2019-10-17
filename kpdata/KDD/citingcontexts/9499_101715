@@ -1,0 +1,4 @@
+t_NN q_NN -LRB-_-LRB- X_NN ,_, Y_NN -RRB-_-RRB- has_VBZ a_DT number_NN of_IN desirable_JJ properties_NNS ._.
+For_IN instance_NN ,_, given_VBN the_DT row_NN ,_, column_NN and_CC co-cluster_NN marginals_NNS ,_, it_PRP is_VBZ the_DT unique_JJ distribution_NN that_WDT satisfies_VBZ certain_JJ consistency_NN criteria_NNS -LRB-_-LRB- Csiszár_NNP ,_, 1991_CD ;_: =_JJ -_: =_JJ Shore_NNP and_CC Johnson_NNP ,_, 1980_CD -_: =--RRB-_NN ._.
+In_IN Section_NNP 4_CD ,_, we_PRP also_RB demonstrate_VBP that_IN it_PRP is_VBZ the_DT optimal_JJ approximation_NN to_TO the_DT original_JJ distribution_NN p_NN in_IN terms_NNS of_IN KL-divergence_NN among_IN all_DT multiplicative_JJ combinations_NNS of_IN the_DT preserved_JJ marginals_NNS ._.
+It_PRP

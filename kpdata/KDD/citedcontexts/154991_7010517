@@ -1,0 +1,4 @@
+ted_VBN by_IN ∆_NN ._.
+For_IN example_NN ,_, for_IN text_NN documents_NNS the_DT features_NNS might_MD be_VB a_DT mutual_JJ information_NN measure_NN based_VBN on_IN associations_NNS of_IN occurrences_NNS of_IN Ngrams_NNP among_IN documents_NNS in_IN the_DT corpus_NN ,_, as_IN in_IN -LRB-_-LRB- Lin_NNP and_CC Pantel_NNP ,_, 2002_CD ,_, =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =-]_CD ,_, or_CC they_PRP may_MD be_VB simple_JJ word-frequency_NN counts_NNS ._.
+For_IN computer_NN network_NN flows_VBZ ,_, the_DT features_NNS might_MD be_VB packet_NN interarrival_JJ times_NNS ,_, packet_NN sizes_NNS ,_, or_CC header_NN flag_NN indications_NNS ._.
+Next_RB ,_, we_PRP want_VBP to_TO Denoise_VB the_DT curr_NN

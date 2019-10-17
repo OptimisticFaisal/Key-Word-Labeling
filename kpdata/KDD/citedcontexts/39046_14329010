@@ -1,0 +1,4 @@
+tively_RB small_JJ data_NNS set_VBN of_IN clicked_VBN queries_NNS -LRB-_-LRB- of_IN about_IN 30k_NN queries_NNS -RRB-_-RRB- ,_, so_IN the_DT approach_NN does_VBZ not_RB provide_VB coverage_NN of_IN rare_JJ queries_NNS ._.
+We_PRP have_VBP experimented_VBN with_IN various_JJ clustering_NN approaches_NNS internally_RB -LRB-_-LRB- such_JJ as_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, but_CC have_VBP not_RB found_VBN any_DT that_WDT provided_VBD significant_JJ improvements_NNS ._.
+In_IN addition_NN ,_, assigning_VBG new_JJ and_CC rare_JJ queries_NNS to_TO clusters_NNS at_IN run_NN time_NN is_VBZ not_RB straightforward_JJ and_CC can_MD be_VB computationally_RB expensive_JJ ._.
+Rare_JJ

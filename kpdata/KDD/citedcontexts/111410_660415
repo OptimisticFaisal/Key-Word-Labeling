@@ -1,0 +1,5 @@
+nd_NN links_NNS ._.
+In_IN the_DT page_NN set_NN ,_, those_DT features_NNS form_VBP a_DT feature-document_JJ matrix_NN with_IN weights_NNS in_IN matrix_NN entries_NNS ._.
+The_DT feature_NN weight_NN is_VBZ calculated_VBN based_VBN on_IN the_DT calculation_NN of_IN feature_NN frequency_NN in_IN the_DT page_NN set_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Then_RB ,_, Shannon_NNP 's_POS information_NN entropy_NN -LRB-_-LRB- 34_CD -RRB-_-RRB- is_VBZ applied_VBN to_TO calculate_VB the_DT feature_NN entropy_NN based_VBN on_IN the_DT feature-document_JJ matrix_NN ._.
+By_IN definition_NN ,_, the_DT entropy_NN E_NN can_MD be_VB expressed_VBN as_IN Pn_FW i1_FW pi_NN log_NN pi_NN ,_, where_WRB pi_NN

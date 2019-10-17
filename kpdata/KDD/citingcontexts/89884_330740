@@ -1,0 +1,5 @@
+ree_NN mining_NN ._.
+Graph_NN mining_NN algorithms_NNS are_VBP likely_JJ to_TO be_VB overly_RB general_JJ -LRB-_-LRB- thus_RB not_RB efficient_JJ -RRB-_-RRB- for_IN tree_NN mining_NN ._.
+Our_PRP$ approach_NN utilizes_VBZ the_DT tree_NN structure_NN for_IN efficient_JJ enumeration_NN ._.
+The_DT work_NN by_IN Dehaspe_FW et_FW al_FW =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: describes_VBZ a_DT level-wise_JJ Inductive_JJ Logic_NN Programming_VBG based_VBN technique_NN to_TO mine_VB frequent_JJ substructures_NNS -LRB-_-LRB- subgraphs_NNS -RRB-_-RRB- describing_VBG the_DT carcinogenesis_NN of_IN chemical_NN compounds_NNS ._.
+They_PRP reported_VBD that_IN mining_NN beyond_IN 6_CD p_NN

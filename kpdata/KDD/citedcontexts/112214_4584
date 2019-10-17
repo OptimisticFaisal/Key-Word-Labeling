@@ -1,0 +1,4 @@
+ommon_NN items_NNS before_IN one_CD user_NN can_MD serve_VB as_IN a_DT predictor_NN for_IN another_DT ._.
+Experiments_NNS showed_VBD that_IN this_DT approach_NN significantly_RB outperformed_VBD previous_JJ collaborative_JJ filtering_VBG algorithms_NNS ._.
+Recently_RB Aggarwal_NNP et_FW al_FW =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: invented_VBD a_DT new_JJ graph-theoretic_JJ approach_NN to_TO collaborative_VB filtering_VBG that_DT appears_VBZ to_TO avoid_VB some_DT of_IN the_DT limitations_NNS of_IN previous_JJ algorithms_NNS ._.
+In_IN particular_JJ ,_, it_PRP can_MD compute_VB more_RBR accurate_JJ recommendations_NNS gi_IN

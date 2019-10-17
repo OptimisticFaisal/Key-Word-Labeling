@@ -1,0 +1,5 @@
+better_JJR phrase_NN extraction_NN method_NN could_MD benefit_VB topic_NN labeling_NN as_IN a_DT better_JJR preprocessing_NN procedure_NN ._.
+Text_NN summarization_NN aims_VBZ at_IN extracting\/generating_JJ sentence_NN summaries_NNS for_IN one\/multiple_JJ documents_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT summary_NN can_MD be_VB as_RB short_JJ as_IN titles_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+However_RB ,_, no_DT existing_VBG work_NN has_VBZ been_VBN done_VBN for_IN summarizing_VBG a_DT multinomial_JJ distribution_NN of_IN words_NNS ,_, or_CC a_DT statistical_JJ topic_NN model_NN ._.
+Since_IN most_JJS topic_NN models_NNS assume_VBP

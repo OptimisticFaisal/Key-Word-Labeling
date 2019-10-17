@@ -1,0 +1,3 @@
+words_NNS :_: k-Means_NN clustering_NN ,_, constraints_NNS ._.
+1_CD Introduction_NN and_CC Motivation_NN The_DT k-Means_NN clustering_NN algorithm_NN is_VBZ a_DT ubiquitous_JJ technique_NN in_IN data_NN mining_NN due_JJ to_TO its_PRP$ simplicity_NN and_CC ease_NN of_IN use_NN -LRB-_-LRB- see_VB for_IN example_NN ,_, =_JJ -_: =[_NN 6_CD ,_, 10_CD ,_, 16_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+It_PRP is_VBZ well_RB known_VBN that_IN k-Means_NN converges_VBZ to_TO a_DT local_JJ minimum_NN of_IN the_DT vector_NN quantization_NN error_NN and_CC hence_RB must_MD be_VB restarted_VBN many_JJ times_NNS ,_, a_DT computationally_RB very_RB expensive_JJ task_NN when_WRB dealing_VBG with_IN the_DT large_JJ

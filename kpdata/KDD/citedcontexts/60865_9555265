@@ -1,0 +1,4 @@
+mplemented_VBN in_IN the_DT search_NN engine_NN ._.
+Furthermore_RB ,_, the_DT set_VBN c_NN of_IN clicked_VBN links_NNS depends_VBZ on_IN both_CC the_DT query_FW q_FW and_CC the_DT presented_VBN ranking_NN r._NN A_NN user_NN is_VBZ more_RBR likely_JJ to_TO click_VB first_RB on_IN a_DT link_NN if_IN it_PRP is_VBZ relevant_JJ to_TO q_NN =_JJ -_: =[_NN 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+While_IN the_DT overall_JJ dependency_NN is_VBZ desirable_JJ and_CC interesting_JJ for_IN analysis_NN ,_, the_DT dependency_NN of_IN the_DT clicks_NNS on_IN the_DT presented_VBN ranking_NN r_NN may_MD be_VB actually_RB detrimental_JJ ._.
+In_IN particular_JJ ,_, a_DT user_NN is_VBZ less_RBR likely_JJ to_TO c_NN

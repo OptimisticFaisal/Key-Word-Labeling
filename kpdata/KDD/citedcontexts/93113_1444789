@@ -1,0 +1,4 @@
+representations_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, transaction_NN trimming_VBG ,_, and_CC transaction_NN hashing_VBG -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+In_IN the_DT later_JJ stages_NNS ,_, more_RBR efficient_JJ solutions_NNS were_VBD made_VBN leading_VBG to_TO several_JJ well-known_JJ algorithms_NNS such_JJ as_IN VIPER_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, DiffSets_VBZ =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: and_CC MAFIA_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+In_IN each_DT case_NN ,_, these_DT new_JJ algorithms_NNS are_VBP characterized_VBN by_IN novel_JJ techniques_NNS to_TO support_VB counting_NN ,_, or_CC powerful_JJ pruning_NN strategies_NNS ._.
+The_DT second_JJ group_NN is_VBZ prominently_RB represented_VBN by_IN the_DT FP-Grow_NN

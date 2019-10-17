@@ -1,0 +1,5 @@
+on_IN articles_NNS -LRB-_-LRB- resp_NN ._.
+webpages_NNS -RRB-_-RRB- based_VBN on_IN some_DT known_JJ preferences_NNS ._.
+This_DT corresponds_VBZ to_TO transductive_JJ preference_NN learning_NN ._.
+We_PRP compare_VBP the_DT XPGP_NN model_NN with_IN standard_JJ GP_NN -LRB-_-LRB- Chu_NNP &_CC Ghahramani_NNP ,_, 2005_CD -RRB-_-RRB- and_CC SVM_NN models_NNS -LRB-_-LRB- =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =--RRB-_NN ._.
+For_IN GP-based_JJ approaches_NNS ,_, we_PRP use_VBP Gaussian_JJ kernels_NNS to_TO compute_VB the_DT covariance_NN matrixes_NNS on_IN entity_NN attributes_NNS ,_, and_CC use_VB two_CD different_JJ graph_NN kernels_NNS to_TO obtain_VB correlations_NNS on_IN relations_NNS :_: one_CD is_VBZ regularized_VBN

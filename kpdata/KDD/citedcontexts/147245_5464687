@@ -1,0 +1,4 @@
+rticular_JJ is_VBZ a_DT hot_JJ topic_NN ._.
+The_DT use_NN of_IN multiple_JJ model_NN -LRB-_-LRB- ensemble_NN -RRB-_-RRB- techniques_NNS over_IN single_JJ models_NNS is_VBZ also_RB gaining_VBG acceptance_NN due_JJ to_TO their_PRP$ increased_VBN performance_NN ,_, efficiency_NN and_CC potential_NN for_IN parallelization_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX are_VBP clear_JJ parallels_NNS between_IN the_DT hierarchical_JJ model_NN presented_VBN here_RB and_CC bagging_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+In_IN a_DT data_NN stream_NN context_NN there_EX is_VBZ no_DT need_NN to_TO sample_NN with_IN replacement_NN as_IN there_EX is_VBZ not_RB a_DT limited_JJ supply_NN of_IN data_NNS

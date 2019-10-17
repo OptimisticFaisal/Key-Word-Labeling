@@ -1,0 +1,5 @@
+mprove_NN results_VBZ in_IN different_JJ application_NN areas_NNS ._.
+Some_DT of_IN these_DT areas_NNS include_VBP GPS_NN lane_NN finding_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, video_NN and_CC image_NN indexing_NN -LRB-_-LRB- 2_CD ,_, 3_CD -RRB-_-RRB- ,_, robot_NN navigation_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, image_NN segmentation_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, and_CC text_NN categorization_NN =_JJ -_: =[_NN 6_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT constraints_NNS are_VBP considered_VBN to_TO increase_VB cluster_NN purity_NN ,_, decrease_NN convergence_NN time_NN ,_, and_CC reduce_VB error_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+The_DT method_NN in_IN which_WDT the_DT constraints_NNS are_VBP acquired_VBN depends_VBZ on_IN the_DT application_NN itself_PRP ._.
+For_IN ex_FW

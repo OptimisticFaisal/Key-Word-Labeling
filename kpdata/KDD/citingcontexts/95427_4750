@@ -1,0 +1,4 @@
+independent_JJ of_IN each_DT other_JJ -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+In_IN recent_JJ years_NNS ,_, a_DT great_JJ deal_NN of_IN attention_NN in_IN the_DT machine_NN learning_NN community_NN has_VBZ been_VBN directed_VBN toward_IN methods_NNS such_JJ as_IN Bagging_NNP and_CC Boosting_NNP ._.
+Breiman_NNP 's_POS Bagging_NNP algorithm_NN =_JJ -_: =[_NN 4_CD -_: =-]_CD is_VBZ a_DT variation_NN of_IN the_DT bootstrap_NN method_NN that_WDT resamples_VBZ the_DT data_NN points_NNS with_IN replacement_NN to_TO construct_VB a_DT collection_NN of_IN different_JJ training_NN sets_NNS ._.
+The_DT resulting_VBG classiers_NNS are_VBP combined_VBN with_IN voting_NN tosnd_NN th_DT

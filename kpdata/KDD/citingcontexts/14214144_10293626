@@ -1,0 +1,4 @@
+e_LS as_IN quasi-identifiers_NNS -LRB-_-LRB- QI_NN -RRB-_-RRB- ._.
+Separately_RB ,_, each_DT attribute_NN value_NN applies_VBZ to_TO a_DT large_JJ number_NN of_IN individuals_NNS in_IN the_DT data_NNS ,_, but_CC taken_VBN collectively_RB they_PRP are_VBP often_RB sufficient_JJ to_TO uniquely_RB identify_VB an_DT individual_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN syntactic_JJ approaches_NNS to_TO anonymization_NN ,_, the_DT objective_NN is_VBZ to_TO modify_VB the_DT input_NN data_NNS by_IN various_JJ operations_NNS so_IN that_IN it_PRP achieves_VBZ a_DT given_VBN property_NN ._.
+The_DT modifications_NNS may_MD be_VB to_TO coarsen_VB attributes_NNS -LRB-_-LRB- repla_NN

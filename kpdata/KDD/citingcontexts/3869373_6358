@@ -1,0 +1,4 @@
+re_NN -LRB-_-LRB- e.g._FW see_VB -LRB-_-LRB- 22_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+The_DT algorithm_NN performs_VBZ discretization_NN of_IN continuous_JJ input_NN attributes_VBZ ``_`` on-the-fly_JJ ''_'' by_IN using_VBG an_DT approach_NN ,_, which_WDT is_VBZ similar_JJ to_TO the_DT information-theoretic_JJ heuristic_NN of_IN Fayyad_NNP and_CC Irani_NNP =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: :_: recursively_RB finding_VBG a_DT binary_JJ partition_NN of_IN an_DT input_NN attribute_NN that_WDT minimizes_VBZ the_DT conditional_JJ entropy_NN of_IN the_DT target_NN attribute_NN ._.
+However_RB ,_, the_DT stopping_VBG criterion_NN we_PRP are_VBP using_VBG is_VBZ different_JJ from_IN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Rath_NN

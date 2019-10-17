@@ -1,0 +1,4 @@
+nstrate_VB a_DT significant_JJ improvement_NN over_IN a_DT baseline_NN that_WDT only_RB relies_VBZ on_IN database_NN records_NNS during_IN training_NN ._.
+For_IN the_DT baseline_NN we_PRP implemented_VBD an_DT enhanced_VBN version_NN of_IN the_DT state-ofthe-art_JJ system_NN presented_VBN in_IN -LRB-_-LRB- =_JJ -_: =_JJ Agichtein_NNP &_CC Ganti_NNP 2004_CD -_: =--RRB-_NN ._.
+We_PRP generate_VBP ``_`` pseudo_NN ''_'' -_: textual_JJ records_NNS from_IN a_DT database_NN by_IN artificially_RB concatenating_VBG fields_NNS in_IN the_DT order_NN in_IN which_WDT they_PRP may_MD appear_VB in_IN the_DT real-world_NN ._.
+Furthermore_RB ,_, real-world_JJ noise_NN -LRB-_-LRB- e.g._FW spelling_NN erro_NN

@@ -1,0 +1,4 @@
+re_VB each_DT node_NN is_VBZ connected_VBN to_TO its_PRP$ k_NN nearest_IN neighbors_NNS under_IN the_DT transition_NN probability_NN measure_NN and_CC the_DT edges_NNS can_MD be_VB weighed_VBN by_IN the_DT transition_NN matrices_NNS ._.
+It_PRP has_VBZ been_VBN shown_VBN to_TO be_VB effective_JJ when_WRB k_NN =_JJ 10_CD in_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Then_RB ,_, the_DT matrix_NN ˆW_NN is_VBZ constructed_VBN with_IN maximum_NN 50,000_CD -LRB-_-LRB- 5_CD ,_, 000_CD ×_CD 10_CD -RRB-_-RRB- entries_NNS ._.
+After_IN normalization_NN ,_, we_PRP can_MD obtain_VB the_DT matrix_NN ˆ_FW S._FW Fortunately_RB ,_, the_DT matrix_NN is_VBZ usually_RB very_RB sparse_JJ ,_, and_CC the_DT complexity_NN ti_IN

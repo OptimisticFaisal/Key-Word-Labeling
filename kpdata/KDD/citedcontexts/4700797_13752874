@@ -1,0 +1,5 @@
+ng_NN a_DT kernel-density_JJ method_NN ._.
+We_PRP will_MD introduce_VB this_DT method_NN in_IN detail_NN in_IN a_DT later_JJ section_NN and_CC compare_VB it_PRP with_IN our_PRP$ proposed_VBN sampling_NN method_NN ._.
+Another_DT sampling_NN based_JJ approach_NN is_VBZ the_DT work_NN of_IN Wu_NNP and_CC Jermaine_NNP =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT idea_NN is_VBZ that_IN for_IN each_DT point_NN in_IN the_DT dataset_NN ,_, a_DT random_JJ sample_NN set_NN of_IN size_NN α_NN is_VBZ drawn_VBN and_CC the_DT kth-nearest_JJ neighbor_NN distance_NN from_IN the_DT point_NN to_TO its_PRP$ sample_NN is_VBZ calculated_VBN ._.
+The_DT outliers_NNS are_VBP reported_VBN as_IN

@@ -1,0 +1,3 @@
+iterion_NN is_VBZ then_RB used_VBN to_TO select_VB a_DT unique_JJ estimate_NN PM_NN -LRB-_-LRB- x_NN Q_NNP -RRB-_-RRB- from_IN the_DT set_VBN P_NN of_IN all_DT plausible_JJ ones_NNS satisfying_VBG the_DT constraints_NNS ._.
+If_IN the_DT constraints_NNS are_VBP consistent_JJ the_DT target_NN distribution_NN exists_VBZ ,_, is_VBZ unique_JJ =_JJ -_: =[_NN 5_CD ,_, 26_CD -RRB-_-RRB- -_: =_JJ -_: and_CC can_MD be_VB found_VBN in_IN an_DT iterative_JJ fashion_NN using_VBG an_DT algorithm_NN known_VBN as_IN iterative_JJ scaling_NN -LRB-_-LRB- IS_VBZ -RRB-_-RRB- -LRB-_-LRB- 11_CD ,_, 10_CD -RRB-_-RRB- ._.
+The_DT constraints_NNS generated_VBN by_IN the_DT itemsets_NNS are_VBP consistent_JJ by_IN definition_NN since_IN the_DT empirical_JJ distri_NN

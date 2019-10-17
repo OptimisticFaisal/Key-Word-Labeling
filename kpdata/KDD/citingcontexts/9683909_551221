@@ -1,0 +1,5 @@
+mainly_RB focus_VB on_IN mining_NN high-support_JJ ,_, high-confidence_JJ rules_NNS and_CC building_VBG a_DT rule-based_JJ classifier_NN ._.
+Prediction_NN is_VBZ made_VBN based_VBN on_IN the_DT top_NN ranked_VBD rule_NN or_CC multiple_JJ rules_NNS ._.
+A_DT recent_JJ work_NN on_IN top-k_NN rule_NN mining_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: discovers_VBZ top-k_NN covering_VBG rule_NN groups_NNS for_IN highdimensional_JJ gene_NN expression_NN profiles_NNS ._.
+A_DT classifier_NN RCBT_NN is_VBZ constructed_VBN from_IN the_DT top-k_NN covering_VBG rule_NN groups_NNS and_CC achieves_VBZ very_RB high_JJ accuracy_NN ._.
+Harmony_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- i_LS

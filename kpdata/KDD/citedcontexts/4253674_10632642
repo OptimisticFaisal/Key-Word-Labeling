@@ -1,0 +1,3 @@
+ces_NNS ,_, resulting_VBG in_IN a_DT small_JJ fraction_NN of_IN the_DT original_JJ size_NN ._.
+Our_PRP$ experiments_NNS show_VBP that_IN preprocessing_VBG greatly_RB reduces_VBZ running_VBG times_NNS both_DT for_IN the_DT saa_NN approach_NN and_CC two_CD greedy_JJ baselines_NNS adapted_VBN from_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP apply_VBP our_PRP$ model_NN to_TO a_DT sustainability_NN problem_NN that_WDT is_VBZ part_NN of_IN an_DT ongoing_JJ collaboration_NN with_IN The_DT Conservation_NNP Fund_NNP to_TO optimize_VB the_DT conservation_NN of_IN land_NN to_TO assist_VB in_IN the_DT recovery_NN of_IN the_DT Red-cockaded_JJ

@@ -1,0 +1,5 @@
+disadvantage_NN of_IN this_DT method_NN is_VBZ that_IN it_PRP learns_VBZ a_DT very_RB small_JJ subset_NN of_IN all_PDT the_DT possible_JJ rules_NNS ._.
+We_PRP have_VBP used_VBN this_DT method_NN as_IN one_CD of_IN the_DT baseline_NN methods_NNS for_IN comparison_NN of_IN our_PRP$ algorithms_NNS ._.
+Balderas_FW et_FW al._FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: mine_JJ hidden_JJ association_NN rules_NNS ,_, or_CC rules_NNS that_WDT are_VBP not_RB common_JJ ,_, but_CC confident_JJ ._.
+Such_JJ rules_NNS are_VBP assumed_VBN to_TO represent_VB the_DT rare_JJ anomaly_JJ class_NN ._.
+WSARE_NN developed_VBN by_IN Wong_NNP et_FW al._FW -LRB-_-LRB- 30_CD -RRB-_-RRB- also_RB uses_VBZ rules_NNS to_TO identify_VB

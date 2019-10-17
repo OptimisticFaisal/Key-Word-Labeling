@@ -1,0 +1,6 @@
+te_IN a_DT specific_JJ extractor_NN for_IN that_DT template_NN ._.
+Given_VBN a_DT news_NN page_NN P_NN ,_, the_DT similarity_NN between_IN P_NN and_CC every_DT existing_VBG wrapper_NN is_VBZ calculated_VBN using_VBG 1352Figure_NN 17_CD :_: The_DT extracted_VBN news_NN article_NN ._.
+thetreeeditdistance_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: asthesimilaritymeasure_NN ._.
+The_DT most_RBS similar_JJ wrapper_NN is_VBZ then_RB selected_VBN to_TO extract_VB text_NN passages_NNS from_IN P_NN ._.
+Last_JJ ,_, some_DT simple_JJ rules_NNS are_VBP used_VBN to_TO find_VB the_DT title_NN and_CC the_DT body_NN among_IN these_DT texts_NNS ._.
+This_DT template-lev_NN

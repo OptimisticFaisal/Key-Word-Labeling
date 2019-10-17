@@ -1,0 +1,5 @@
+itializing_VBG Ga._NNP ._.
+One_CD way_NN of_IN initializing_VBG Ga_NNP is_VBZ to_TO derive_VB the_DT consistency_NN graph_NN Gc_NN for_IN -LRB-_-LRB- X_NN ,_, t_NN -RRB-_-RRB- first_RB then_RB find_VB a_DT maximal_JJ independent_JJ set_NN IS_VBZ of_IN Gc_NN using_VBG some_DT known_JJ heuristic_NN ,_, e.g.,sGreedy-IS_NN introduced_VBN in_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+With_IN IS_VBZ obtained_VBN ,_, we_PRP let_VBD Va_NNP =_JJ IS_VBZ ,_, Ua_NN =_JJ Vc_FW \_FW IS_VBZ ,_, and_CC -LRB-_-LRB- u_NN ,_, v_LS -RRB-_-RRB- ∈_FW Ea_FW if_IN and_CC only_RB if_IN u_FW ∈_FW Ua_NN ,_, v_LS ∈_NNP Va_NNP and_CC -LRB-_-LRB- u_NN ,_, v_LS -RRB-_-RRB- ∈_FW Ec_FW ._.
+In_IN some_DT cases_NNS ,_, e._NN g_NN ,_, for_IN the_DT MCP_NNP problem_NN ,_, Gc_NN is_VBZ identical_JJ to_TO the_DT input_NN graph_NN ._.
+In_IN other_JJ cas_NNS

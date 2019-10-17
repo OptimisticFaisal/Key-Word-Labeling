@@ -1,0 +1,3 @@
+ents_NNS of_IN the_DT children_NNS of_IN the_DT target_NN ,_, respectively_RB ._.
+2.1_CD Directed_NNP Graphical_NNP Model_NNP We_PRP are_VBP interested_JJ in_IN the_DT case_NN that_IN all_DT relevant_JJ variables_NNS in_IN our_PRP$ graphical_JJ model_NN ,_, i.e._FW ,_, predictors_NNS in_IN the_DT Markov_NNP blanket_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: of_IN the_DT target_NN can_MD be_VB disjointly_RB partitioned_VBN into_IN these_DT three_CD categories_NNS with_IN no_DT dependencies_NNS other_JJ than_IN the_DT ones_NNS specified_VBN above_IN ._.
+The_DT reason_NN we_PRP focus_VBP on_IN this_DT class_NN of_IN configurations_NNS is_VBZ because_IN they_PRP r_SYM

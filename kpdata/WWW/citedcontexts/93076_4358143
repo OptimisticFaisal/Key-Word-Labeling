@@ -1,0 +1,4 @@
+edges_NNS ._.
+However_RB ,_, this_DT definition_NN does_VBZ not_RB account_VB for_IN dangling_VBG nodes_NNS -LRB-_-LRB- i.e._FW ,_, nodes_NNS without_IN any_DT outgoing_JJ edges_NNS -RRB-_-RRB- --_: which_WDT are_VBP shown_VBN to_TO form_VB a_DT significant_JJ portion_NN of_IN the_DT Web_NN graph_NN crawled_VBN by_IN search_NN engines_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT nodes_NNS are_VBP treated_VBN by_IN making_VBG a_DT random_JJ jump_NN whenever_WRB the_DT random_JJ walk_NN enters_VBZ a_DT dangling_JJ node_NN ._.
+Under_IN this_DT model_NN ,_, with_IN D_NN ⊆_NN V_NN denoting_VBG the_DT set_NN of_IN dangling_VBG nodes_NNS ,_, the_DT modified_VBN lower_RBR bound_VBN for_IN PageRan_NN

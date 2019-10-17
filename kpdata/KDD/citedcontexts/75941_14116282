@@ -1,0 +1,5 @@
+an_DT important_JJ problem_NN in_IN the_DT data_NNS mining_NN area_NN ._.
+Association_NN rule_NN mining_NN algorithms_NNS often_RB produce_VBP a_DT large_JJ number_NN of_IN rules_NNS ._.
+Various_JJ interestingness_NN measures_NNS have_VBP been_VBN proposed_VBN to_TO select_JJ rules_NNS ._.
+Tan_NNP et_FW al._FW =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Geng_NNP et_FW al._FW -LRB-_-LRB- 9_CD -RRB-_-RRB- surveyed_VBN various_JJ measures_NNS proposed_VBN in_IN the_DT literature_NN ._.
+Many_JJ of_IN the_DT measures_NNS are_VBP defined_VBN based_VBN on_IN support_NN and_CC confidence_NN of_IN rules_NNS ,_, and_CC they_PRP reflect_VBP domain_NN significance_NN of_IN rules_NNS inste_VBP

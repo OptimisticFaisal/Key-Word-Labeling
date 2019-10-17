@@ -1,0 +1,4 @@
+evaluate_VB an_DT instantiation_NN of_IN our_PRP$ algorithm_NN with_IN high_JJ level_NN topic_NN model-based_JJ features_NNS ,_, which_WDT we_PRP refer_VBP to_TO as_IN TDN+LDA_NN ._.
+We_PRP define_VBP our_PRP$ set_NN of_IN features_NNS as_IN topics_NNS from_IN a_DT latent_JJ Dirichlet_NN allocation_NN -LRB-_-LRB- LDA_NN -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Blei_NNP et_FW al._FW ,_, 2003_CD -_: =--RRB-_NN topic_NN model_NN learned_VBD on_IN the_DT noun_NN phrases_NNS and_CC named_VBN entities_NNS described_VBN above_IN ._.
+We_PRP take_VBP the_DT weight_NN of_IN each_DT feature_NN to_TO be_VB the_DT fraction_NN of_IN words_NNS in_IN the_DT corpus_NN assigned_VBN to_TO that_DT topic_NN ._.
+As_IN described_VBN in_IN Secti_NNP

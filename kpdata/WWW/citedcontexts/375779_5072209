@@ -1,0 +1,3 @@
+ing_JJ SVM_NN to_TO take_VB into_IN account_NN two_CD essential_JJ factors_NNS for_IN IR_NNP :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- to_TO have_VB high_JJ accuracy_NN on_IN the_DT topranked_JJ documents_NNS ,_, and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- to_TO avoid_VB training_VBG a_DT biased_VBN model_NN towards_IN queries_NNS with_IN many_JJ relevant_JJ documents_NNS ._.
+=_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: used_VBN SVM_NNP and_CC Ranking_NNP SVM_NNP to_TO address_VB definition_NN search_NN where_WRB the_DT retrieved_VBN definitional_JJ excerpts_NNS of_IN a_DT term_NN are_VBP ranked_VBN according_VBG to_TO their_PRP$ likelihood_NN of_IN being_VBG good_JJ definitions_NNS ._.
+-LRB-_-LRB- 28_CD -RRB-_-RRB- extended_VBD the_DT wellstu_NN

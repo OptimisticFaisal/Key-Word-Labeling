@@ -1,0 +1,4 @@
+etworks_NNS learned_VBD on_IN the_DT first_JJ three_CD tasks_NNS -LRB-_-LRB- 4inputs-2adjones_NNS ,_, 8inputs-2adj-ones_NNS ,_, and_CC 8inputs-3adj-ones_NNS -RRB-_-RRB- ._.
+The_DT middle_JJ box_NN shows_VBZ 4_CD of_IN the_DT 18_CD subnetworks_NNS ,_, extracted_VBN by_IN the_DT graph-mining_JJ algorithm_NN CloseGraph_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT appear_VBP in_IN at_IN least_JJS two_CD of_IN the_DT networks_NNS on_IN the_DT left_NN ._.
+These_DT would_MD constitute_VB the_DT ``_`` meanings_NNS ''_'' for_IN symbolic_JJ communication_NN ._.
+The_DT right_JJ box_NN shows_VBZ the_DT network_NN learned_VBD for_IN the_DT 12inputs2adj-ones_JJ task_NN ,_, in_IN

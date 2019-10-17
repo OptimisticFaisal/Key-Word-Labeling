@@ -1,0 +1,3 @@
+ars_FW in_FW -LRB-_-LRB- 1_CD ,_, 2_CD -RRB-_-RRB- ._.
+Zhou_NNP et_FW al._FW -LRB-_-LRB- 69_CD -RRB-_-RRB- used_VBD the_DT regularized_VBN normalized_VBD Laplacian_JJ matrix_NN defined_VBN in_IN -LRB-_-LRB- 14_CD -RRB-_-RRB- in_IN the_DT context_NN of_IN semisupervised_JJ classification_NN of_IN labeled_JJ nodes_NNS of_IN a_DT directed_JJ graph_NN while_IN Chen_NNP et_FW al._FW =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: used_VBD the_DT same_JJ kernel_NN matrix_NN ,_, but_CC this_DT time_NN unnormalized_JJ ,_, for_IN directed_JJ graph_NN embedding_NN ._.
+Zhao_NNP et_FW al._FW -LRB-_-LRB- 68_CD -RRB-_-RRB- propose_VBP a_DT directed_JJ contextual_JJ distance_NN and_CC define_VB a_DT directed_JJ graph_NN from_IN which_WDT the_DT Laplacian_JJ mat_NN

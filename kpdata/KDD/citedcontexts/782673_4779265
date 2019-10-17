@@ -1,0 +1,6 @@
+ods_NNS exist_VBP to_TO automate_VB this_DT process_NN if_IN desired_VBN ._.
+Dance_NNP motion_NN could_MD be_VB segmented_JJ using_VBG motion_NN beat_NN analysis_NN -LRB-_-LRB- KPS03_NN -RRB-_-RRB- ._.
+More_RBR general_JJ motions_NNS could_MD be_VB segmented_JJ using_VBG annotation_NN -LRB-_-LRB- AFO03_NN -RRB-_-RRB- or_CC curve_NN clustering_NN =_JJ -_: =_JJ -LRB-_-LRB- CGMS03_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+4_LS ._.
+Algorithm_NN Description_NN Given_IN a_DT control_JJ motion_NN x_NN with_IN T_NN frames_NNS ,_, our_PRP$ goal_NN is_VBZ to_TO generate_VB an_DT appropriate_JJ target_NN motion_NN ._.
+This_DT is_VBZ achieved_VBN by_IN selecting_VBG a_DT sequence_NN of_IN appropriate_JJ target_NN segments_NNS from_IN th_DT

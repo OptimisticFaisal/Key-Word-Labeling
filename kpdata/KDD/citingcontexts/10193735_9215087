@@ -1,0 +1,5 @@
+number_NN of_IN labeled_JJ data_NNS ._.
+That_DT is_VBZ ,_, we_PRP obtain_VBP ℓ_NN =_JJ βm_FW labeled_VBN data_NNS from_IN the_DT target-domain_NN and_CC o_NN =_JJ -LRB-_-LRB- 1_CD −_FW β_FW -RRB-_-RRB- m_NN from_IN the_DT source-domain_NN independently_RB ._.
+Consider_VB the_DT ideal_JJ labeling_NN function_NN f_FW ∗_FW :_: X_NN →_NN Y_NN ,_, whereY_NN =_JJ =_JJ -_: =[_NN 0_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN a_DT hypothesis_NN h_NN :_: X_NN →_NN Y_NN ,_, the_DT probability_NN of_IN h_NN disagreeing_VBG with_IN f_FW ∗_FW according_VBG to_TO the_DT target_NN domain_NN distribution_NN qt_NN -LRB-_-LRB- x_NN -RRB-_-RRB- can_MD be_VB defined_VBN as_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- ɛt_NN -LRB-_-LRB- h_NN ,_, f_FW ∗_FW -RRB-_-RRB- =_JJ Ex_FW ∼_FW qt_FW -LRB-_-LRB- x_NN -RRB-_-RRB- -LRB-_-LRB- |_CD h_NN -LRB-_-LRB- x_NN -RRB-_-RRB- −_FW f_FW ∗_NN -LRB-_-LRB- x_NN -RRB-_-RRB- |_CD -RRB-_-RRB- ._.
+This_DT is_VBZ also_RB

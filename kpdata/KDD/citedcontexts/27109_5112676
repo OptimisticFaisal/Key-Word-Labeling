@@ -1,0 +1,5 @@
+problem_NN of_IN summarizing_VBG preferences_NNS of_IN all_DT users_NNS via_IN clustering_NN ,_, and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- the_DT problem_NN of_IN finding_VBG an_DT optimal_JJ navigational_JJ tree_NN for_IN a_DT query_NN ._.
+The_DT clustering_NN problem_NN :_: A_DT co-clustering_JJ method_NN was_VBD proposed_VBN in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: to_TO cluster_VB documents_NNS and_CC keywords_NNS ._.
+We_PRP could_MD apply_VB this_DT method_NN to_TO co-cluster_NN data_NNS and_CC queries_NNS in_IN the_DT query_JJ history_NN ._.
+However_RB ,_, each_DT query_NN is_VBZ assigned_VBN to_TO just_RB one_CD cluster_NN ._.
+In_IN our_PRP$ settings_NNS ,_, the_DT same_JJ query_NN

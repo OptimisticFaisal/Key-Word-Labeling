@@ -1,0 +1,4 @@
+r_NN restaurant_NN reviews_NNS ._.
+In_IN this_DT application_NN ,_, the_DT goal_NN is_VBZ to_TO correctly_RB classify_VB reviews_NNS as_IN ``_`` positive_JJ ''_'' or_CC ``_`` negative_JJ ._. ''_''
+Opinion_NN classifiers_NNS have_VBP achieved_VBN accuracy_NN levels_NNS as_RB high_JJ as_IN 88_CD %_NN for_IN product_NN reviews_NNS -LRB-_-LRB- =_JJ -_: =_JJ Dave_NNP et_FW al._FW ,_, 2003_CD -_: =--RRB-_CD and_CC 82_CD %_NN for_IN movie_NN reviews_NNS -LRB-_-LRB- Pang_NNP et_FW al._FW ,_, 2002_CD -RRB-_-RRB- ._.
+However_RB ,_, Finn_NNP and_CC Kushmerick_NNP -LRB-_-LRB- 2006_CD -RRB-_-RRB- found_VBD that_IN an_DT opinion_NN classifier_NN trained_VBN on_IN movie_NN reviews_NNS was_VBD not_RB effective_JJ in_IN predicting_VBG the_DT polarity_NN of_IN restauran_NN

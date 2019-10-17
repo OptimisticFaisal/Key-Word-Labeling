@@ -1,0 +1,3 @@
+rom_VB a_DT Gaussian_JJ mixture_NN ,_, and_CC we_PRP would_MD hope_VB that_IN model-based_JJ clustering_NN would_MD do_VB well_RB ._.
+4.4_CD Example_NN 2_CD The_DT data_NNS in_IN this_DT example_NN were_VBD obtained_VBN by_IN estimating_VBG each_DT group_NN density_NN by_IN a_DT kernel_NN density_NN estimate_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: and_CC then_RB sampling_NN from_IN this_DT estimate_NN ,_, again_RB generating_VBG 20_CD times_NNS the_DT number_NN of_IN observations_NNS in_IN the_DT group_NN ._.
+We_PRP used_VBD a_DT Gaussian_JJ kernel_NN with_IN the_DT same_JJ covariance_NN matrix_NN as_IN the_DT corresponding_JJ group_NN scaled_VBN by_IN

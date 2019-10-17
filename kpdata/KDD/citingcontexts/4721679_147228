@@ -1,0 +1,4 @@
+stics_NNS of_IN stream_NN data_NNS ._.
+Movingwindow_NN techniques_NNS are_VBP proposed_VBN to_TO partially_RB address_VB this_DT problem_NN -LRB-_-LRB- 2_CD ,_, 4_CD -RRB-_-RRB- ._.
+Another_DT recent_JJ data_NNS stream_NN clustering_NN paradigm_NN proposed_VBN by_IN Aggarwal_NNP et_FW al._FW uses_VBZ a_DT two-phase_JJ scheme_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT consists_VBZ of_IN an_DT online_JJ component_NN that_WDT processes_VBZ raw_JJ data_NNS stream_NN and_CC produces_VBZ summary_NN statistics_NNS and_CC an_DT offline_JJ component_NN that_WDT uses_VBZ the_DT summary_NN data_NNS to_TO generate_VB clusters_NNS ._.
+Strategies_NNS for_IN dividing_VBG

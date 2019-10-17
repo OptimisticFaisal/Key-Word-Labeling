@@ -1,0 +1,3 @@
+ted_VBN keywords_NNS based_VBN on_IN a_DT variety_NN of_IN sources_NNS -LRB-_-LRB- query_NN reformulations_NNS in_IN user_NN sessions_NNS ,_, ad_NN campaign_NN co-occurrence_NN ,_, etc._NN -RRB-_-RRB- ,_, and_CC rank_VB them_PRP using_VBG a_DT combination_NN of_IN supervised_JJ data_NNS and_CC clickthrough_JJ feedback_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =-[_NN 31_CD -RRB-_-RRB- ._.
+Figure_NN 3_CD :_: Sample_VB fragment_NN of_IN the_DT keyword_JJ graph_NN Because_IN of_IN the_DT overlap_VBP in_IN ad_NN inventory_NN between_IN keywords_NNS due_JJ to_TO approximate_JJ matching_NN ,_, the_DT profile_NN utility_NN function_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- is_VBZ submodular_JJ :_: when_WRB a_DT k_NN

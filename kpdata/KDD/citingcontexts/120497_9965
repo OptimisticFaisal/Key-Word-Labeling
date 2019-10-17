@@ -1,0 +1,4 @@
+xt_NN analysis_NN ,_, and_CC text_NN clustering_NN in_IN particular_JJ ._.
+It_PRP has_VBZ been_VBN experimentally_RB shown_VBN that_IN in_IN order_NN to_TO remove_VB the_DT bias_NN arising_VBG due_JJ to_TO the_DT length_NN of_IN a_DT document_NN ,_, it_PRP often_RB helps_VBZ to_TO normalize_VB the_DT data_NN vectors_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Further_RB ,_, the_DT spkmeans_NNS algorithm_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, that_WDT performs_VBZ kmeans_NNS using_VBG cosine_NN similarity_NN instead_RB of_IN Euclidean_JJ distortion_NN ,_, has_VBZ been_VBN found_VBN to_TO empirically_RB outperform_VB several_JJ other_JJ schemes_NNS ._.
+sThere_NN are_VBP quite_RB a_DT

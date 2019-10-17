@@ -1,0 +1,5 @@
+o_NN two_CD algorithms_NNS from_IN prior_JJ work_NN ;_: the_DT grid_NN algorithm_NN NM-Grid_NN of_IN Neill_NNP and_CC Moore_NNP -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, and_CC the_DT approximation_NN algorithm_NN Approx-Linear_NNP of_IN Agarwal_NNP et_FW al._FW -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+Code_NNP for_IN NM-Grid_NN was_VBD provided_VBN by_IN the_DT authors_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Their_PRP$ code_NN is_VBZ a_DT black_JJ box_NN that_WDT solves_VBZ the_DT maximum_NN discrepancy_NN problem_NN and_CC then_RB runs_VBZ N_NN randomization_NN tests_NNS ._.
+It_PRP only_RB returns_VBZ a_DT range_NN if_IN it_PRP is_VBZ statistically_RB significant_JJ ._.
+In_IN order_NN to_TO compare_VB their_PRP$ algor_NN

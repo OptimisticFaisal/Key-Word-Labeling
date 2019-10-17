@@ -1,0 +1,5 @@
+tiating_VBG characteristics_NNS between_IN classes_NNS of_IN data_NNS ._.
+EPs_NNS have_VBP been_VBN 9_CD useful_JJ :_: we_PRP have_VBP used_VBN EPs_NNS to_TO build_VB very_RB powerful_JJ classifiers_NNS ,_, including_VBG the_DT Mushroom_NN dataset_NN ,_, which_WDT are_VBP more_RBR accurate_JJ than_IN C4_NN .5_NN and_CC CBA_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP believe_VBP that_IN they_PRP are_VBP useful_JJ in_IN many_JJ other_JJ applications_NNS ._.
+These_DT patterns_NNS can_MD be_VB large_JJ in_IN size_NN ,_, and_CC may_MD have_VB very_RB small_JJ support_NN -LRB-_-LRB- e.g._FW a_DT trend_NN at_IN the_DT forming_VBG stage_NN -RRB-_-RRB- ._.
+We_PRP observed_VBD that_IN naive_JJ algorithm_NN

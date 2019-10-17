@@ -1,0 +1,4 @@
+unks_NNS that_WDT maintains_VBZ a_DT fixed-size_JJ committee_NN ._.
+In_IN each_DT iteration_NN it_PRP attempts_VBZ to_TO identify_VB a_DT committee_NN member_NN that_WDT should_MD be_VB replaced_VBN by_IN the_DT model_NN built_VBN from_IN the_DT most_RBS recent_JJ chunk_NN of_IN data_NNS ._.
+Oza_NNP and_CC Russell_NNP =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP incremental_JJ versions_NNS of_IN bagging_VBG and_CC boosting_VBG that_WDT require_VBP the_DT underlying_VBG weak_JJ learner_NN to_TO be_VB incremental_JJ ._.
+The_DT method_NN is_VBZ of_IN limited_JJ use_NN for_IN large_JJ datasets_NNS if_IN the_DT underlying_VBG incremental_JJ learning_NN

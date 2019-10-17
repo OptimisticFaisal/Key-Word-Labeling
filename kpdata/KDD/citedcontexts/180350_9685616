@@ -1,0 +1,5 @@
+ting_NN ,_, where_WRB a_DT small_JJ section_NN of_IN one_CD spectrum_NN maps_VBZ onto_IN a_DT large_JJ section_NN of_IN another_DT ._.
+This_DT has_VBZ already_RB been_VBN employed_VBN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Data_NN abstraction_NN :_: This_DT performs_VBZ DTW_NNP on_IN a_DT reduced_VBN representation_NN of_IN time_NN series_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN particular_JJ ,_, a_DT very_RB important_JJ algorithm_NN towards_IN faster_JJR DTW_NNP algorithm_NN based_VBN on_IN iterative_JJ data_NNS abstraction_NN ,_, named_VBN FastDTW_NN ,_, was_VBD proposed_VBN in_IN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ an_DT accurate_JJ approximation_NN of_IN DTW_NNP ,_, which_WDT has_VBZ a_DT l_NN

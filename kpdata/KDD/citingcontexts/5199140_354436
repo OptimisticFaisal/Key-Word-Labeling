@@ -1,0 +1,3 @@
+enumerating_VBG communities_NNS from_IN a_DT crawl_NN of_IN the_DT web_NN ,_, where_WRB a_DT community_NN is_VBZ defined_VBN to_TO be_VB a_DT dense_JJ bipartite_JJ subgraph_NN ;_: an_DT algorithm_NN to_TO do_VB trawling_VBG via_IN pruning_NN and_CC the_DT a_FW priori_FW algorithm_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- was_VBD presented_VBN in_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT network_NN flow_NN approach_NN to_TO identifying_VBG web_NN communities_NNS was_VBD given_VBN by_IN Flake_NNP et_FW al._FW -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Local_JJ search_NN methods_NNS were_VBD used_VBN to_TO identify_VB communities_NNS satisfying_VBG certain_JJ special_JJ properties_NNS in_IN the_DT work_NN of_IN -LRB-_-LRB- 18_CD

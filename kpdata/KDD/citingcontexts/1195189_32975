@@ -1,0 +1,4 @@
+ther_RB limit_VB the_DT minimum_JJ support_NN to_TO be_VB 100_CD %_NN nor_CC require_VB the_DT input_NN graphs_NNS to_TO be_VB relational_JJ ._.
+While_IN the_DT problem_NN becomes_VBZ more_RBR general_JJ ,_, it_PRP gets_VBZ more_RBR tough_JJ ._.
+As_IN we_PRP will_MD see_VB later_RB ,_, the_DT downward-closure_JJ property_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: no_RB longer_RB holds_VBZ ,_, devising_VBG some_DT effective_JJ search_NN space_NN pruning_NN techniques_NNS is_VBZ especially_RB challenging_JJ ._.
+By_IN fully_RB exploring_VBG some_DT properties_NNS of_IN quasicliques_NNS ,_, we_PRP propose_VBP several_JJ novel_JJ optimization_NN technique_NN

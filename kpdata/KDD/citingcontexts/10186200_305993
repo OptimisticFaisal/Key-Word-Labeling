@@ -1,0 +1,4 @@
+ix_RB ,_, are_VBP introduced_VBN in_IN -LRB-_-LRB- 27_CD ,_, 56_CD -RRB-_-RRB- ._.
+The_DT defined_VBN kernel_NN matrices_NNS are_VBP computed_VBN through_IN a_DT power_NN series_NN of_IN the_DT adjacency_NN matrix_NN of_IN the_DT graph_NN ;_: they_PRP are_VBP therefore_RB closely_RB related_JJ to_TO graph_NN regularization_NN models_NNS =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Moreover_RB ,_, some_DT authors_NNS recently_RB considered_VBN similarity_NN measures_NNS based_VBN on_IN random-walk_JJ or_CC electrical_JJ concepts_NNS ._.
+For_IN instance_NN ,_, Harel_NNP &_CC Koren_NNP -LRB-_-LRB- 24_CD -RRB-_-RRB- investigated_VBD the_DT possibility_NN of_IN clustering_NN data_NNS according_VBG

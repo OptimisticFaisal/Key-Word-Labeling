@@ -1,0 +1,4 @@
+ategy_NN ._.
+Section_NN 4_CD presents_VBZ the_DT main_JJ contributions_NNS of_IN the_DT paper_NN ,_, while_IN the_DT last_JJ section_NN concludes_VBZ the_DT exposition_NN ,_, presenting_VBG the_DT lessons_NNS learned_VBD ._.
+2_CD ._.
+LEARNING_NNP FROM_NNP DATA_NNP STREAMS_NNP G._NNP Hulten_NNP and_CC P._NNP Domingos_NNP =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: identify_VB desirable_JJ properties_NNS of_IN learning_VBG systems_NNS for_IN efficient_JJ mining_NN continuous_JJ ,_, high-volume_JJ ,_, open-ended_JJ data_NNS streams_NNS :_: •_CD require_VBP small_JJ constant_JJ time_NN per_IN data_NN example_NN ;_: •_CD use_NN fix_NN amount_NN of_IN main_JJ memor_NN

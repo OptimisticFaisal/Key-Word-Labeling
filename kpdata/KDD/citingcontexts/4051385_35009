@@ -1,0 +1,5 @@
+data_NNS ._.
+not_RB use_VB discretization_NN can_MD be_VB found_VBN in_IN -LRB-_-LRB- 2_CD ,_, 15_CD -RRB-_-RRB- ._.
+However_RB the_DT case_NN considered_VBN in_IN those_DT works_NNS involves_VBZ discrete_JJ attributes_NNS in_IN the_DT antecedent_JJ and_CC a_DT single_JJ numerical_JJ attribute_NN in_IN the_DT consequent_JJ ._.
+In_IN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: an_DT interesting_JJ definition_NN of_IN support_NN for_IN continuous_JJ data_NNS is_VBZ presented_VBN which_WDT does_VBZ not_RB require_VB discretization_NN ._.
+It_PRP is_VBZ defined_VBN as_IN the_DT sum_NN over_IN all_DT transactions_NNS of_IN the_DT squared_VBN minimum_NN over_IN all_DT itemset_NN 's_VBZ a_DT

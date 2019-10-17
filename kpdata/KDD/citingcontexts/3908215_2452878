@@ -1,0 +1,5 @@
+tching_NN ,_, which_WDT is_VBZ very_RB important_JJ in_IN our_PRP$ work_NN ,_, since_IN not_RB all_DT test_NN values_NNS are_VBP available_JJ for_IN all_DT prototype_NN designs_NNS ._.
+Furthermore_RB ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- is_VBZ not_RB concerned_VBN with_IN visualization_NN ._.
+In_IN our_PRP$ work_NN ,_, we_PRP use_VBP edit_NN distance_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: in_IN the_DT similarity_NN matching_NN ._.
+In_IN our_PRP$ visualization_NN ,_, we_PRP allow_VBP the_DT user_NN to_TO specify_VB a_DT query_NN shape_NN either_CC by_IN indicating_VBG an_DT example_NN data_NN point_NN or_CC by_IN explicitly_RB specifying_VBG the_DT shape_NN of_IN interest_NN ._.
+The_DT system_NN c_NN

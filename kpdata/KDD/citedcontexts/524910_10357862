@@ -1,0 +1,5 @@
+ution_NN density_NN estimate_NN is_VBZ used_VBN in_IN context_NN of_IN LOCI-based_JJ on-line_JJ outlier_NN detection_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+This_DT approach_NN uses_VBZ Epanechnikov_NNP kernels_NNS with_IN fixed_VBN bandwidths_NNS throughout_IN the_DT whole_JJ data_NN set_NN ._.
+Lazarevic_NNP and_CC Kumar_NNP =_SYM -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: introduce_VB a_DT novel_JJ feature_NN bagging_VBG approach_NN to_TO detection_NN outliers_NNS ._.
+It_PRP combines_VBZ results_NNS from_IN multiple_JJ outlier_NN detection_NN algorithms_NNS that_WDT are_VBP applied_VBN using_VBG different_JJ set_NN of_IN features_NNS ._.
+Many_JJ of_IN the_DT earlier_JJR

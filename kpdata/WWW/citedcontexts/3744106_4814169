@@ -1,0 +1,4 @@
+it_PRP finds_VBZ the_DT appropriate_JJ cluster_NN of_IN the_DT query_NN and_CC computes_VBZ the_DT rank_JJ score_NN for_IN each_DT query_NN of_IN that_DT cluster_NN ._.
+The_DT queries_NNS of_IN the_DT cluster_NN being_VBG suggested_VBN are_VBP ordered_VBN with_IN respect_NN to_TO their_PRP$ rank_NN scores_NNS ._.
+In_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT different_JJ solution_NN has_VBZ been_VBN proposed_VBN for_IN query_NN clustering_NN ,_, where_WRB two_CD methods_NNS have_VBP been_VBN combined_VBN together_RB to_TO reach_VB a_DT more_RBR comprehensive_JJ solution_NN ._.
+The_DT users_NNS '_POS sequential_JJ search_NN behavior_NN is_VBZ considered_VBN

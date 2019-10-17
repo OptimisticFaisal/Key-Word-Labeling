@@ -1,0 +1,3 @@
+imization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- algorithm_NN for_IN estimating_VBG the_DT parameters_NNS of_IN a_DT generative_JJ model_NN based_VBN on_IN string_NN edit_NN distance_NN with_IN affine_NN gaps_NNS ._.
+The_DT other_JJ string_NN similarity_NN measure_NN employs_VBZ a_DT Support_NN Vector_NNP Machine_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: to_TO obtain_VB a_DT similarity_NN estimate_NN based_VBN on_IN the_DT vector-space_JJ model_NN of_IN text_NN ._.
+The_DT characterbased_JJ distance_NN is_VBZ best_RB suited_VBN for_IN shorter_JJR strings_NNS with_IN minor_JJ variations_NNS ,_, while_IN the_DT measure_NN based_VBN on_IN vector-space_NN

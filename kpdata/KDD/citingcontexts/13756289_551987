@@ -1,0 +1,4 @@
+based_VBN on_IN a_DT simple_JJ and_CC unbiased_JJ propagation_NN method_NN ,_, and_CC ignore_VB the_DT underlying_VBG latent_JJ topics_NNS associated_VBN with_IN the_DT network_NN in_IN most_JJS cases_NNS ._.
+This_DT work_NN is_VBZ also_RB related_JJ to_TO graph-based_JJ semi-supervised_JJ learning_NN =_JJ -_: =[_NN 33,31,21,32_CD -RRB-_-RRB- -_: =_JJ -_: ,_, whichusuallyassumeslabelsmoothness_NN over_IN the_DT graph_NN ._.
+These_DT types_NNS of_IN graph_NN regularization_NN methods_NNS have_VBP been_VBN successfully_RB applied_VBN in_IN many_JJ data_NNS mining_NN tasks_NNS -LRB-_-LRB- 17_CD ,_, 6_CD ,_, 10_CD -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, the_DT authors_NNS developed_VBD a_DT g_NN

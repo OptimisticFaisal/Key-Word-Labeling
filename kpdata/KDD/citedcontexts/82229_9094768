@@ -1,0 +1,4 @@
+es_NNS as_IN the_DT training_NN examples_NNS ,_, and_CC the_DT other_JJ 300_CD instances_NNS as_IN the_DT testing_NN examples_NNS ._.
+We_PRP set_VBD p0_NN =_JJ 0.95_CD ,_, w_NN =_JJ 3_CD ,_, s0_NN =_JJ 10_CD %_NN ,_, k_NN =_JJ 30_CD ,_, and_CC the_DT maximal_JJ length_NN of_IN features_NNS as_IN 20_CD to_TO obtain_VB the_DT results_NNS in_IN Table_NNP 3_CD ._.
+=_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: shows_VBZ that_IN ,_, for_IN time_NN series_NN classification_NN ,_, one-nearest-neighbor_NN -LRB-_-LRB- 1NN_NN -RRB-_-RRB- with_IN Euclidean_JJ distance_NN is_VBZ very_RB difficult_JJ to_TO beat_VB ._.
+In_IN Table_NNP 3_CD ,_, the_DT results_NNS of_IN 1NN_NN classification_NN with_IN Euclidean_JJ distance_NN using_VBG t_NN

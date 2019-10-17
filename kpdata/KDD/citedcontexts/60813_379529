@@ -1,0 +1,4 @@
+-LRB-_-LRB- K-Means_NNS in_IN our_PRP$ case_NN -RRB-_-RRB- ,_, the_DT resulting_VBG clustering_NN satisfies_VBZ the_DT given_VBN constraints_NNS ._.
+The_DT problem_NN of_IN semi-supervised_JJ clustering_NN comes_VBZ up_RP in_IN many_JJ domains_NNS ,_, and_CC has_VBZ inspired_VBN many_JJ recently_RB proposed_VBN algorithms_NNS =_JJ -_: =[_NN 22_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- we_PRP have_VBP presented_VBN a_DT framework_NN for_IN incorporating_VBG user_NN constraints_NNS to_TO the_DT clustering_NN result_NN ._.
+We_PRP stress_VBP ,_, however_RB ,_, that_IN the_DT choice_NN of_IN the_DT clustering_NN algorithm_NN used_VBN is_VBZ orthogonal_JJ to_TO the_DT rest_NN of_IN ou_NN

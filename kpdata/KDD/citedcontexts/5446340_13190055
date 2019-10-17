@@ -1,0 +1,4 @@
+e_LS types_NNS of_IN electrical_JJ components_NNS ._.
+To_TO predict_VB feeder_NN failures_NNS ,_, we_PRP developed_VBD several_JJ machine_NN learning_NN and_CC data_NN mining_NN systems_NNS to_TO rank_VB the_DT feeders_NNS according_VBG to_TO their_PRP$ susceptibility_NN to_TO failure_NN ._.
+MartaRank_NN =_JJ -_: =[_NN 3_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: and_CC ODDS_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- are_VBP two_CD online_JJ machine_NN learning_NN and_CC data_NN mining-based_JJ feeder_NN ranking_NN systems_NNS for_IN preventive_JJ maintenance_NN ._.
+MartaRank_NNP employs_VBZ Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- ,_, RankBoost_NNP ,_, Martingale_NNP Boosting_NNP ,_,

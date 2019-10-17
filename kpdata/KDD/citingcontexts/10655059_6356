@@ -1,0 +1,3 @@
+line_NN approach_NN ,_, in_IN which_WDT we_PRP take_VBP the_DT overall_JJ rating_NN of_IN review_NN as_IN the_DT aspect_NN ratings_NNS for_IN the_DT review_NN to_TO train_VB a_DT supervised_JJ model_NN ._.
+We_PRP implement_VBP this_DT method_NN using_VBG the_DT Support_NN Vector_NNP Regression_NN -LRB-_-LRB- SVR_NN -RRB-_-RRB- model_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: and_CC name_VB it_PRP as_IN SVR-O_NN ._.
+Besides_IN ,_, as_IN an_DT upper-bound_JJ ,_, we_PRP also_RB test_VBP a_DT fully_RB supervised_VBN algorithm_NN SVR-A_NN ,_, i.e._FW SVR_NNP model_NN fed_NN with_IN the_DT aspect_NN ratings_NNS in_IN the_DT ground-truth_NN for_IN training_NN ,_, and_CC compare_VB it_PRP with_IN wha_NN

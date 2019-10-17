@@ -1,0 +1,5 @@
+ress_NN inconsistency_NN is_VBZ to_TO derive_VB a_DT maximum_JJ subset_NN of_IN consistent_JJ constraints_NNS from_IN the_DT given_VBN inconsistent_JJ constraints_NNS ._.
+This_DT reduces_VBZ to_TO the_DT Maximum_NNP Triplet_NNP Consistency_NN problem_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- and_CC its_PRP$ approximations_NNS =_JJ -_: =[_NN 27_CD ,_, 28_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Also_RB ,_, metric_JJ learning_NN approaches_NNS can_MD be_VB used_VBN as_IN a_DT subroutine_NN to_TO filter_NN noisy_JJ constraints_NNS ._.
+We_PRP plan_VBP to_TO explore_VB a_DT more_RBR effective_JJ way_NN to_TO combine_VB our_PRP$ framework_NN with_IN existing_VBG metric_JJ learning_NN studies_NNS ._.
+Ackn_NN

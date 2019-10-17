@@ -1,0 +1,4 @@
+itional_JJ frequent_JJ itemset_NN mining_NN methods_NNS and_CC our_PRP$ uncertain_JJ itemset_NN identification_NN algorithms_NNS ._.
+In_IN particular_JJ ,_, we_PRP propose_VBP a_DT probabilistic_JJ frequent_JJ itemset_NN mining_NN approach_NN based_VBN on_IN the_DT Apriori_NNP algorithm_NN -LRB-_-LRB- =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Like_IN Apriori_NNP ,_, our_PRP$ method_NN iteratively_RB generates_VBZ the_DT probabilistic_JJ frequent_JJ itemsets_NNS using_VBG a_DT bottomup_NN strategy_NN ._.
+Each_DT iteration_NN is_VBZ performed_VBN in_IN two_CD steps_NNS ,_, a_DT join_VBP step_NN for_IN generating_VBG new_JJ candidates_NNS and_CC

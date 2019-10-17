@@ -1,0 +1,3 @@
+chniques_NNS There_EX is_VBZ a_DT large_JJ body_NN of_IN related_JJ work_NN for_IN browsing_VBG in_IN disconnected_VBN mode_NN that_WDT attempts_VBZ to_TO solve_VB similar_JJ problems_NNS using_VBG various_JJ techniques_NNS ._.
+Rhea_NNP proposed_VBD a_DT technique_NN called_VBN value-based_JJ caching_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT eliminates_VBZ redundant_JJ data_NNS transfer_NN by_IN breaking_VBG contents_NNS of_IN a_DT page_NN into_IN blocks_NNS and_CC repetitive_JJ requests_NNS for_IN same_JJ blocks_NNS are_VBP served_VBN by_IN sending_VBG hash_NN of_IN those_DT blocks_NNS ._.
+This_DT technique_NN uses_VBZ low_JJ bandwidt_NN

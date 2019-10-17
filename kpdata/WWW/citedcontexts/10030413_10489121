@@ -1,0 +1,5 @@
+or_CC implicitly_RB by_IN joining_VBG communities_NNS ._.
+When_WRB the_DT number_NN of_IN communities_NNS grows_VBZ over_IN time_NN ,_, finding_VBG an_DT interesting_JJ community_NN to_TO join_VB can_MD be_VB time_NN consuming_NN ._.
+We_PRP use_VBP PLDA_NNP to_TO model_VB users_NNS '_POS community_NN membership_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+On_IN a_DT matrix_NN formed_VBN by_IN users_NNS as_IN rows_NNS and_CC communities_NNS as_IN columns_NNS ,_, all_DT values_NNS in_IN user-community_NN cells_NNS are_VBP initially_RB unknown_JJ ._.
+When_WRB a_DT user_NN joins_VBZ a_DT community_NN ,_, the_DT corresponding_JJ user-community_NN cell_NN is_VBZ set_VBN

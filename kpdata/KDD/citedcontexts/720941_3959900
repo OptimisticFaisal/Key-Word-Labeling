@@ -1,0 +1,4 @@
+escribe_VB below_IN ._.
+More_RBR generally_RB ,_, network_NN data_NNS allow_VBP the_DT use_NN of_IN the_DT features_NNS of_IN a_DT node_NN 's_POS neighbors_NNS ,_, although_IN that_DT must_MD be_VB done_VBN with_IN care_NN to_TO avoid_VB greatly_RB increasing_VBG estimation_NN variance_NN and_CC thereby_RB error_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Macskassy_NNP and_CC Provost_NNP -LRB-_-LRB- 13_CD -RRB-_-RRB- investigated_VBD a_DT simple_JJ univariate_JJ classifier_NN ,_, the_DT weightedvote_JJ relational_JJ neighbor_NN -LRB-_-LRB- wvRN_NN -RRB-_-RRB- ._.
+They_PRP instantiated_VBD node_NN priors_NNS simply_RB by_IN the_DT marginal_JJ class_NN frequency_NN in_IN the_DT train_NN

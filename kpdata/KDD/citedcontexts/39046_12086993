@@ -1,0 +1,5 @@
+ywords_NNS from_IN vision-based_JJ segments_NNS of_IN Web_NN pages_NNS to_TO deal_VB with_IN the_DT multiple_JJ topics_NNS residing_VBG problem_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Another_DT kind_NN of_IN solution_NN to_TO textual_JJ query_NN suggestion_NN is_VBZ to_TO mine_VB similar_JJ queries_NNS from_IN search_NN logs_NNS =_JJ -_: =[_NN 6_CD ,_, 20_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT mined_VBN queries_NNS are_VBP then_RB used_VBN as_IN the_DT suggestion_NN for_IN each_DT other_JJ ._.
+The_DT basic_JJ assumption_NN is_VBZ that_IN two_CD queries_NNS are_VBP similar_JJ to_TO each_DT other_JJ if_IN they_PRP share_VBP a_DT large_JJ number_NN of_IN clicked_VBN URLs_NNS ._.
+For_IN example_NN ,_, Beefer_NNP

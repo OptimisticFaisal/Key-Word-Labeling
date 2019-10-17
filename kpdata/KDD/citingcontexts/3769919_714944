@@ -1,0 +1,4 @@
+tric_JJ network_NN ,_, applying_VBG +1_CD voltage_NN to_TO one_CD query_NN node_NN and_CC setting_VBG the_DT other_JJ query_NN node_NN 0_CD voltage_NN ,_, their_PRP$ method_NN proposes_VBZ to_TO choose_VB the_DT subgraph_NN which_WDT delivers_VBZ maximum_NN current_JJ between_IN the_DT query_NN nodes_NNS ._.
+In_IN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT authors_NNS further_RB apply_VBP the_DT delivered_VBN current_JJ based_VBN method_NN to_TO multi-relational_JJ graph_NN ._.
+However_RB ,_, the_DT delivered_VBN current_JJ criterion_NN can_MD only_RB deal_VB with_IN pairwise_JJ sourcesResearch_NN Track_NNP Paper_NNP queries_NNS ._.
+More_JJR

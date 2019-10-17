@@ -1,0 +1,3 @@
+AG_NNP ,_, the_DT maximization_NN can_MD be_VB done_VBN independently_RB for_IN each_DT node_NN without_IN creating_VBG any_DT cycles_NNS ._.
+This_DT proposition_NN is_VBZ a_DT special_JJ case_NN of_IN the_DT more_RBR general_JJ maximum_NN spanning_NN tree_NN -LRB-_-LRB- MST_NN -RRB-_-RRB- problem_NN in_IN directed_JJ graphs_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT important_JJ fact_NN now_RB is_VBZ that_IN we_PRP can_MD find_VB the_DT best_JJS propagation_NN tree_NN T_NN in_IN time_NN O_NN -LRB-_-LRB- |_CD G_NN |_NN -RRB-_-RRB- linear_NN in_IN the_DT number_NN of_IN edges_NNS by_IN simply_RB selecting_VBG an_DT incoming_JJ edge_NN of_IN highest_JJS weight_NN for_IN each_DT node_NN -LRB-_-LRB- Figure_NN 2_CD -LRB-_-LRB- c_NN -RRB-_-RRB- -RRB-_-RRB-

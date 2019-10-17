@@ -1,0 +1,5 @@
+GS-B_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Partitioned_VBN SGD_NN approaches_NNS make_VBP use_NN of_IN a_DT similar_JJ idea_NN :_: SGD_NNP is_VBZ run_VBN independently_RB and_CC in_IN parallel_JJ onpartitions_NNS of_IN the_DT dataset_NN ,_, and_CC parameters_NNS are_VBP averaged_VBN after_IN each_DT pass_NN over_IN the_DT data_NNS -LRB-_-LRB- PSGD_NN =_JJ -_: =[_NN 11_CD ,_, 18_CD -RRB-_-RRB- -_: =--RRB-_NN or_CC once_RB at_IN the_DT end_NN -LRB-_-LRB- ISGD_NN -LRB-_-LRB- 17_CD ,_, 18_CD ,_, 21_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+These_DT approaches_NNS have_VBP not_RB been_VBN applied_VBN to_TO matrix_NN factorization_NN before_RB ._.
+Similarly_RB to_TO L-BFGS-B_NN ,_, they_PRP exhibit_VBP slow_JJ convergence_NN in_IN practice_NN -LRB-_-LRB- see_VB Sec_NNP ._.
+7_CD -RRB-_-RRB- and_CC need_VBP

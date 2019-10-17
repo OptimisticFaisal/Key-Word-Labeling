@@ -1,0 +1,5 @@
+nts_NNS ._.
+k-privacy_NN is_VBZ defined_VBN in_IN terms_NNS of_IN k-TTP_NN --_: a_DT powerful_JJ ,_, yet_RB natural_JJ novel_JJ generalization_NN of_IN the_DT trusted_VBN third_JJ party_NN model_NN ._.
+k-TTP_NN captures_VBZ practical_JJ privacy_NN measures_NNS which_WDT are_VBP accepted_VBN by_IN HMOs_NNS today_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Using_VBG k-privacy_NN ,_, we_PRP can_MD implement_VB efficient_JJ cryptographically_RB secure_JJ primitives_NNS that_WDT do_VBP not_RB require_VB all-to-all_JJ communication_NN ,_, and_CC are_VBP thus_RB practical_JJ for_IN real-world_JJ large-scale_JJ distributed_VBN systems_NNS ._.
+A_DT

@@ -1,0 +1,5 @@
+sentation_NN theory_NN ._.
+3_LS ._.
+In_IN many_JJ applications_NNS ,_, it_PRP is_VBZ desirable_JJ to_TO allow_VB the_DT users_NNS expressing_VBG not_RB only_RB structured_JJ preference_NN information_NN ,_, but_CC also_RB direct_JJ rankings_NNS between_IN pairs_NNS of_IN concrete_JJ items_NNS -LRB-_-LRB- e.g._FW ,_, see_VBP =_JJ -_: =[_NN 26_CD ,_, 5_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._. -RRB-_-RRB-
+We_PRP consider_VBP the_DT computational_JJ consequences_NNS of_IN supporting_VBG both_DT general_JJ statements_NNS of_IN preference_NN and_CC such_JJ pair-wise_JJ item_NN rankings_NNS ._.
+On_IN the_DT positive_JJ side_NN ,_, we_PRP show_VBP that_IN such_PDT an_DT extension_NN can_MD be_VB straight_JJ

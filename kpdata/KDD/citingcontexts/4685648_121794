@@ -1,0 +1,4 @@
+system_NN called_VBN MovieLens_NNP 5_CD -LRB-_-LRB- 11_CD ,_, 26_CD ,_, 27_CD -RRB-_-RRB- ._.
+Fab_NNP -LRB-_-LRB- 2_CD -RRB-_-RRB- is_VBZ the_DT first_JJ hybrid_NN recommender_NN system_NN ,_, which_WDT use_VBP a_DT combination_NN of_IN content-based_JJ and_CC collaborative_JJ filtering_VBG techniques_NNS for_IN web_NN recommendations_NNS ._.
+Tango_NNP =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: provides_VBZ online_JJ news_NN recommendations_NNS and_CC Jester_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- provides_VBZ recommendations_NNS of_IN jokes_NNS ._.
+Page_NNP et_FW al._FW -LRB-_-LRB- 19_CD -RRB-_-RRB- and_CC Kleinberg_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- first_RB proposed_VBD a_DT new_JJ concept_NN of_IN document_NN relevance_NN ,_, often_RB called_VBN document_NN a_DT

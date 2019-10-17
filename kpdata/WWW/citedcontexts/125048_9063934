@@ -1,0 +1,5 @@
+Gene_NNP Ontology_NNP data_NNS -LRB-_-LRB- see_VB 2.1.3_CD -RRB-_-RRB- ,_, we_PRP need_VBP more_RBR powerful_JJ storage_NN solutions_NNS than_IN for_IN the_DT other_JJ use_NN cases_NNS ._.
+To_TO avoid_VB reification_NN ,_, we_PRP now_RB use_VBP native_JJ quad_NN stores_NNS ,_, which_WDT provide_VBP a_DT context_NN URI_NNP for_IN each_DT triple_RB =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP use_VBP the_DT context_NN URI_NNP to_TO address_VB models_NNS more_RBR efficiently_RB ._.
+RDF2Go_NN has_VBZ the_DT ability_NN to_TO access_VB parts_NNS of_IN a_DT quad_NN model_NN at_IN runtime_NN as_IN a_DT triple_JJ model_NN ._.
+This_DT simplifies_VBZ RDF_NNP handling_NN in_IN SemVersion_NNP significant_JJ

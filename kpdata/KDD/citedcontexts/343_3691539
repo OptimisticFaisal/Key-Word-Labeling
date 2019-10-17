@@ -1,0 +1,4 @@
+per-edges_NNS ,_, and_CC hyper-cliques_NNS need_VBP to_TO be_VB found_VBN in_IN a_DT hyper-graph_NN of_IN frequent_JJ items_NNS ._.
+Several_JJ variations_NNS of_IN the_DT classical_JJ association_NN mining_NN have_VBP been_VBN proposed_VBN ._.
+Mining_NN inter-transaction_NN association_NN rules_NNS =_JJ -_: =[_NN 37_CD -RRB-_-RRB- -_: =_JJ -_: searches_NNS for_IN associations_NNS between_IN item-sets_NNS that_WDT belong_VBP to_TO different_JJ transactions_NNS performed_VBN by_IN the_DT same_JJ user_NN in_IN a_DT given_VBN time_NN span_NN ._.
+The_DT antecedent_JJ of_IN a_DT rule_NN can_MD belong_VB to_TO transactions_NNS that_WDT happened_VBD af_IN

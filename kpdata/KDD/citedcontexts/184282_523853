@@ -1,0 +1,6 @@
+der_NN of_IN hundreds_NNS or_CC thousands_NNS ._.
+It_PRP may_MD even_RB be_VB a_DT continuous_JJ stream_NN of_IN data_NNS in_IN some_DT domains_NNS ._.
+It_PRP is_VBZ thus_RB not_RB feasible_JJ to_TO use_VB each_DT and_CC every_DT instance_NN on_IN the_DT curve_NN for_IN mining_NN ._.
+Thus_RB dimensionality_NN reduction_NN =_JJ -_: =[_NN 5_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: with_IN minimal_JJ information_NN loss_NN is_VBZ needed_VBN ._.
+The_DT application_NN of_IN AutoDomainMine_NN is_VBZ primarily_RB in_IN the_DT Heat_NNP Treating_NNP domain_NN ._.
+Its_PRP$ goal_NN is_VBZ to_TO enhance_VB a_DT system_NN called_VBN QuenchMiner_NNP -LRB-_-LRB- 4_CD -RRB-_-RRB- that_WDT does_VBZ predictive_JJ analys_NNS

@@ -1,0 +1,4 @@
+rning_NN of_IN random_JJ walk_NN models_NNS ._.
+Nie_NN et_FW al._FW -LRB-_-LRB- 20_CD -RRB-_-RRB- use_VBP simulated_JJ annealing_NN to_TO perform_VB local_JJ search_NN over_IN each_DT edge_NN type_NN ,_, which_WDT is_VBZ only_RB applicable_JJ when_WRB the_DT number_NN of_IN parameters_NNS is_VBZ very_RB small_JJ ._.
+Diligenti_NNP et_FW al._FW =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: optimize_VB relation_NN weights_NNS using_VBG back-propagation_NN ,_, which_WDT has_VBZ linear_JJ convergence_NN ,_, therefore_RB requires_VBZ many_JJ iterations_NNS to_TO reach_VB convergence_NN ._.
+Agarwal_NNP et_FW al._FW -LRB-_-LRB- 1_LS -RRB-_-RRB- applied_VBD efficient_JJ second_JJ order_NN optimization_NN

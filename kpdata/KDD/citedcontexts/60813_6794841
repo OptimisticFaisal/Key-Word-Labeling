@@ -1,0 +1,4 @@
+accounting_VBG for_IN possible_JJ flows_NNS that_WDT have_VBP no_DT known_JJ labels_NNS ._.
+The_DT result_NN of_IN the_DT learning_NN is_VBZ a_DT set_NN of_IN clusters_NNS ,_, some_DT mapped_VBD to_TO the_DT different_JJ flow_NN types_NNS ._.
+This_DT method_NN ,_, referred_VBN to_TO as_IN semi-supervised_JJ learning_NN =_JJ -_: =[_NN 3_CD ,_, 10_CD ,_, 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, has_VBZ received_VBN considerable_JJ attention_NN ,_, recently_RB ,_, in_IN the_DT machine_NN learning_NN community_NN ._.
+We_PRP note_VBP that_IN our_PRP$ application_NN of_IN semi-supervised_JJ learning_NN is_VBZ novel_JJ in_IN that_IN we_PRP leave_VBP some_DT of_IN the_DT clusters_NNS unlabelled_JJ ._.

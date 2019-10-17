@@ -1,0 +1,6 @@
+t_NN P_NN =_JJ I_NN ,_, where_WRB I_PRP is_VBZ the_DT d_FW ×_FW d_FW identity_NN matrix_NN ._.
+Hence_RB ,_, the_DT data_NN is_VBZ not_RB transformed_VBN in_IN this_DT case_NN ._.
+RP_NN :_: The_DT data_NN is_VBZ first_RB projected_VBN into_IN a_DT lower_JJR dimensional_JJ space_NN using_VBG the_DT Random_JJ Projection_NN -LRB-_-LRB- RP_NN -RRB-_-RRB- method_NN -LRB-_-LRB- =_JJ -_: =_JJ Bingham_NNP and_CC Mannila_NNP ,_, 2001_CD -_: =--RRB-_NN ._.
+Dimensionality_NN of_IN the_DT target_NN space_NN was_VBD set_VBN at_IN d_FW ′_FW =_JJ log_NN n_NN ɛ2log_NN 1_CD ɛ_NN ,_, as_IN prescribed_VBN in_IN -LRB-_-LRB- Bingham_NNP and_CC Mannila_NNP ,_, 2001_CD -RRB-_-RRB- ._.
+We_PRP use_VBP the_DT projection_NN matrix_NN constructed_VBN by_IN RP_NN as_IN P_NN ._.
+ɛ_NN was_VBD set_VBN to_TO 0.25_CD for_IN the_DT e_SYM

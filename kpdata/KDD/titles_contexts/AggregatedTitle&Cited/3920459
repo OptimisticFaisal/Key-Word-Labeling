@@ -1,0 +1,4 @@
+Clustering_VBG pair-wise_JJ dissimilarity_NN data_NNS into_IN partially_RB ordered_VBN sets_NNS
+lly_RB ordered_VBN clustering_NN -RRB-_-RRB- clusters_NNS data_NNS into_IN PoSets_NNP -LRB-_-LRB- partially_RB ordered_VBN sets_NNS -RRB-_-RRB- by_IN finding_VBG all_DT clique_JJ clusters_NNS for_IN all_DT possible_JJ diameters_NNS W_NN -LRB-_-LRB- D_NN -RRB-_-RRB- where_WRB D_NN is_VBZ the_DT maximal_JJ dissimilarity_NN in_IN a_DT dissimilarity_NN matrix_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+PoClustering_NNP is_VBZ a_DT generalization_NN of_IN both_CC heierarchical_JJ and_CC pyramidal_JJ clustering_NN that_WDT allows_VBZ overlaps_VBZ between_IN clusters_NNS such_JJ that_IN a_DT PoCluster_NN P_NN is_VBZ defined_VBN as_IN P_NN =_JJ -LCB-_-LRB- cliqueset_JJ δ_NN -LRB-_-LRB- d_NN -RRB-_-RRB- |_FW ∀_FW d_FW ∈_FW W_NN -LRB-_-LRB- D_NN -RRB-_-RRB- -RCB-_-RRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+PoCluste_NN

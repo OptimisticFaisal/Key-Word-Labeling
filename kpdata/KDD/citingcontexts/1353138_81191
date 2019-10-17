@@ -1,0 +1,3 @@
+e_LS very_RB large_JJ samples_NNS to_TO recognize_VB small_JJ dierences_NNS in_IN utility_NN ,_, even_RB if_IN the_DT actual_JJ dierences_NNS between_IN hypotheses_NNS to_TO be_VB compared_VBN are_VBP very_RB large_JJ ._.
+This_DT problem_NN is_VBZ addressed_VBN by_IN sequential_JJ sampling_NN methods_NNS -LRB-_-LRB- 4_CD =_JJ -_: =_JJ ,_, 19_CD -_: =-]_CD -LRB-_-LRB- that_WDT have_VBP also_RB been_VBN referred_VBN to_TO as_IN adaptive_JJ sampling_NN methods_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+The_DT idea_NN of_IN sequential_JJ sampling_NN is_VBZ that_IN when_WRB a_DT dierence_NN between_IN two_CD frequencies_NNS is_VBZ very_RB large_JJ after_IN only_RB a_DT few_JJ examples_NNS ,_, then_RB we_PRP c_SYM

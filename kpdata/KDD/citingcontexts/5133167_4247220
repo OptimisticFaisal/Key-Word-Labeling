@@ -1,0 +1,5 @@
+convergence_NN can_MD be_VB tested_VBN ,_, for_IN instance_NN by_IN inspecting_VBG the_DT eigenvalues_NNS or_CC eigenvectors_NNS of_IN the_DT square_JJ matrix_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+In_IN that_DT case_NN ,_, eigenvalues_NNS or_CC eigenvectors_NNS may_MD be_VB determined_VBN using_VBG other_JJ methods_NNS such_JJ as_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Experimentally_RB ,_, convergence_NN can_MD be_VB observed_VBN as_IN stable_JJ B_NN values_NNS -LRB-_-LRB- after_IN normalization_NN -RRB-_-RRB- across_IN consecutive_JJ iterations_NNS ._.
+Convergence_NN for_IN C_NN can_MD be_VB similarly_RB argued_VBN ._.
+Normalization_NN Before_IN each_DT iteration_NN ,_, th_DT

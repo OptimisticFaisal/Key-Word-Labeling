@@ -1,0 +1,4 @@
+fs_NN -LRB-_-LRB- γ_NN -RRB-_-RRB- -RRB-_-RRB- \/_: Zs_NNS where_WRB Zs_NN =_JJ P_NN γ_FW ′_FW ∈_FW Γs_FW exp_FW -LRB-_-LRB- w_FW ⊤_FW fs_FW -LRB-_-LRB- γ_FW ′_FW -RRB-_-RRB- -RRB-_-RRB- ,_, is_VBZ the_DT partition_NN function_NN -LRB-_-LRB- hence_RB the_DT log_NN in_IN the_DT sense_NN probability_NN feature_NN above_IN -RRB-_-RRB- ._.
+We_PRP call_VBP exp_NN -LRB-_-LRB- w_FW ⊤_FW fs_FW -LRB-_-LRB- ·_NN -RRB-_-RRB- -RRB-_-RRB- the_DT node_NN potential_NN of_IN s_NN ,_, using_VBG graphical_JJ model_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: terminology_NN ._.
+We_PRP train_VBP w_NN using_VBG a_DT max-margin_JJ technique_NN ._.
+Given_VBN ground_NN truth_NN assignment_NN γ_NN ∗_NN s_VBZ ∈_FW Γs_FW ,_, we_PRP want_VBP w_FW ⊤_FW fs_FW -LRB-_-LRB- γ_FW ∗_FW s_NNS -RRB-_-RRB- to_TO be_VB larger_JJR than_IN any_DT other_JJ w_NN ⊤_FW fs_FW -LRB-_-LRB- γ_NN -RRB-_-RRB- ,_, with_IN a_DT margin_NN ;_: this_DT gives_VBZ us_PRP the_DT usual_JJ SV_NN

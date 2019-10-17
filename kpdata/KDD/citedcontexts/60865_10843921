@@ -1,0 +1,4 @@
+-_: scale_NN labeled_JJ data_NNS for_IN the_DT classification_NN task_NN at_IN hand_NN ._.
+Related_JJ ,_, but_CC not_RB directly_RB relevant_JJ ,_, is_VBZ the_DT line_NN of_IN work_NN on_IN mining_NN search_NN engine_NN query_NN logs_NNS to_TO obtain_VB training_NN data_NNS for_IN learning_VBG ranking_JJ models_NNS =_JJ -_: =[_NN 1_CD ,_, 8_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Their_PRP$ task_NN is_VBZ different_JJ and_CC the_DT source_NN of_IN the_DT training_NN data_NN is_VBZ closely_RB tied_VBN to_TO the_DT task_NN at_IN hand_NN ._.
+In_IN particular_JJ ,_, the_DT click_VBP logs_NNS collected_VBN through_IN the_DT usage_NN of_IN the_DT ranker_NN is_VBZ utilized_VBN to_TO provide_VB implic_JJ

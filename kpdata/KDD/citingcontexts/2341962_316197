@@ -1,0 +1,4 @@
+22_CD ,_, 37_CD ,_, 44_CD -RRB-_-RRB- or_CC to_TO some_DT other_JJ principle_NN ,_, such_JJ as_IN structural_JJ risk_NN minimization_NN -LRB-_-LRB- 45_CD -RRB-_-RRB- ._.
+Note_VB that_IN we_PRP find_VBP exactly_RB this_DT type_NN of_IN formulation_NN in_IN the_DT case_NN d_NN =_JJ 2_CD ,_, 3_CD in_IN scattered_JJ data_NNS approximation_NN methods_NNS ,_, see_VBP =_JJ -_: =[_NN 1_CD ,_, 31_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB the_DT regularization_NN term_NN is_VBZ usually_RB physically_RB motivated_JJ ._.
+2.1_CD Discretization_NN We_PRP now_RB restrict_VBP the_DT problem_NN to_TO a_DT finite_JJ dimensional_JJ subspace_NN VN_NNP ∈_NNP V_NNP ._.
+The_DT function_NN f_FW is_VBZ then_RB replaced_VBN by_IN fN_NN =_JJ N_NN ∑_FW αjϕ_FW

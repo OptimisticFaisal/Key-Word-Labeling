@@ -1,0 +1,4 @@
+distinguishing_VBG sets_NNS ,_, and_CC the_DT maximal_JJ distinguishing_JJ set_NN ._.
+2_CD Related_JJ work_NN Emerging_VBG patterns_NNS were_VBD first_RB introduced_VBN by_IN Dong_NNP and_CC Li_NNP in_IN order_NN to_TO capture_VB significant_JJ changes_NNS and_CC differences_NNS between_IN datasets_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Specifically_RB ,_, an_DT emerging_VBG pattern_NN is_VBZ an_DT itemset_NN whose_WP$ ratio_NN of_IN support_NN in_IN one_CD dataset_NN over_IN another_DT dataset_NN is_VBZ larger_JJR than_IN a_DT given_VBN threshold_NN ._.
+Our_PRP$ work_NN differs_VBZ significantly_RB from_IN emerging_VBG patterns_NNS in_IN

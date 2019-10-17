@@ -1,0 +1,4 @@
+6_CD ._.
+With_IN the_DT initial_JJ particle_NN distribution_NN component_NN the_DT complete_JJ running_VBG time_NN of_IN the_DT algorithm_NN is_VBZ O_NN -LRB-_-LRB- |_NN P_NN |_CD +_CC |_CD P_NN |_CD k_NN -RRB-_-RRB- ._.
+The_DT particle-swarm_JJ algorithm_NN ,_, as_IN used_VBN in_IN this_DT context_NN ,_, is_VBZ a_DT relative-rank_JJ algorithm_NN -LRB-_-LRB- =_JJ -_: =_JJ White_NNP &_CC Smyth_NNP ,_, 2003_CD -_: =_JJ -_: ;_: Rodriguez_NNP &_CC Bollen_NNP ,_, 2005_CD -RRB-_-RRB- ._.
+The_DT set_NN of_IN nodes_NNS in_IN N_NN are_VBP ranked_VBN relative_JJ to_TO Q._NNP This_NNP is_VBZ similar_JJ ,_, though_IN a_DT more_RBR general_JJ case_NN of_IN finding_VBG the_DT primary_JJ eigenvector_NN of_IN the_DT network_NN where_WRB the_DT set_NN of_IN nodes_NNS in_IN N_NN a_DT

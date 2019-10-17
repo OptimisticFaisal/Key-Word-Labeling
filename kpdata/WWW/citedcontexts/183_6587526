@@ -1,0 +1,4 @@
+wnload_NN performance_NN by_IN selecting_VBG high_JJ performing_VBG peers_NNS ._.
+Thus_RB ,_, past_NN work_NN relies_VBZ mainly_RB on_IN peer_VB reputation_NN based_VBN on_IN performance_NN measures_NNS of_IN peers_NNS ,_, rather_RB than_IN object_NN reputation_NN as_IN we_PRP propose_VBP ._.
+Eigentrust_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: computes_VBZ a_DT single_JJ performance_NN score_NN for_IN each_DT peer_VBP ,_, reflecting_VBG their_PRP$ past_JJ behavior_NN in_IN pairwise_JJ interactions_NNS ._.
+Although_IN the_DT protocol_NN is_VBZ distributed_VBN ,_, it_PRP ultimately_RB relies_VBZ on_IN a_DT fixed_JJ set_NN of_IN trusted_VBN nodes_NNS

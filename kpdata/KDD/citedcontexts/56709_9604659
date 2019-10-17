@@ -1,0 +1,8 @@
+ues_NNS to_TO the_DT diagonal_JJ elements_NNS of_IN Sw_NNP ,_, asSwþ_NNP I_NNP ,_, for_IN some_DT -RRB-_-RRB- 0_CD ._.
+In_IN -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, Ye_NNP and_CC Wang_NNP proposed_VBD an_DT efficient_JJ algorithm_NN to_TO compute_VB the_DT solution_NN of_IN RLDA_NN ._.
+3_LS ._.
+SRDA_NNP ,_, our_PRP$ approach_NN proposed_VBN in_IN this_DT paper_NN ._.
+4_LS ._.
+IDR\/QR_NN =_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_JJ -_: ,_, an_DT LDA_NN variation_NN in_IN which_WDT QR_NN decomposition_NN is_VBZ applied_VBN rather_RB than_IN SVD_NNP ._.
+Thus_RB ,_, IDR\/QR_NN is_VBZ very_RB efficient_JJ ._.
+TABLE_NN 5_CD Computational_JJ Time_NN on_IN PIE_NN -LRB-_-LRB- Seconds_NNS -RRB-_-RRB- We_PRP compute_VBP the_DT closed-form_JJ solution_NN of_IN SRDA_NN -LRB-_-LRB- by_IN sol_NN

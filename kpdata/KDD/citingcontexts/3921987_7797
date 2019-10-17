@@ -1,0 +1,4 @@
+._.
+Wee_NNP Sun_NNP Lee_NNP Department_NNP of_IN Computer_NNP Science_NNP and_CC Singapore-MIT_NNP Alliance_NNP National_NNP University_NNP of_IN Singapore_NNP Singapore_NNP 117543_CD leews@comp.nus.edu.sg_NN 1_CD ._.
+INTRODUCTION_NN Text_NN classification_NN -LRB-_-LRB- or_CC categorization_NN -RRB-_-RRB- =_JJ -_: =[_NN 27_CD ,_, 54_CD -RRB-_-RRB- -_: =_SYM -_: via_IN machine_NN learning_NN -LRB-_-LRB- 44_CD -RRB-_-RRB- is_VBZ a_DT fundamental_JJ technique_NN for_IN information_NN organization_NN and_CC management_NN ._.
+Traditionally_RB machine_NN learning_VBG methods_NNS for_IN text_NN classification_NN treat_VB every_DT document_NN as_IN a_DT bag_NN of_IN words_NNS

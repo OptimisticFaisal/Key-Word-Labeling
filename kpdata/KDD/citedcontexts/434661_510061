@@ -1,0 +1,7 @@
+attern_NN extraction_NN ._.
+Then_RB ,_, we_PRP can_MD consider_VB two_CD contrasting_VBG approaches_NNS from_IN this_DT matrix_NN ._.
+One_CD is_VBZ the_DT approach_NN to_TO analyze_VB a_DT row_NN of_IN this_DT matrix_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC the_DT other_JJ is_VBZ the_DT approach_NN to_TO analyze_VB column_NN of_IN it_PRP =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT section_NN defines_VBZ two_CD approaches_NNS that_WDT detect_VBP editing_NN patterns_NNS in_IN video_NN stream_NN ._.
+1_CD ._.
+Extraction_NN of_IN patterns_NNS from_IN a_DT multi-symbol_JJ stream_NN shown_VBN in_IN Fig._NNP 3_CD ._.
+This_DT is_VBZ the_DT approach_NN based_VBN on_IN column_NN analysis_NN ._.

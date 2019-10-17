@@ -1,0 +1,4 @@
+entation_NN of_IN the_DT domain_NN model_NN forms_VBZ the_DT basis_NN for_IN the_DT second_JJ variant_NN of_IN concept-to-concept_JJ similarity_NN computation_NN ._.
+This_DT approach_NN builds_VBZ on_IN the_DT algorithms_NNS for_IN estimating_VBG relative_JJ importance_NN in_IN networks_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Such_JJ algorithms_NNS are_VBP used_VBN to_TO compute_VB the_DT quantitative_JJ measure_NN of_IN node_NN similarity_NN with_IN respect_NN to_TO a_DT given_VBN node_NN -LRB-_-LRB- or_CC set_NN of_IN nodes_NNS -RRB-_-RRB- ._.
+We_PRP employ_VBP PageRank_NN with_IN Priors_NNS in_IN particular_JJ ,_, successfully_RB used_VBN in_IN cat_NN

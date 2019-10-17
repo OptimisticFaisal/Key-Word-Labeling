@@ -1,0 +1,8 @@
+and_CC 47,236_CD features_NNS ._.
+Following_VBG the_DT preprocessing_NN in_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, we_PRP choose_VBP data_NNS from_IN 15_CD random_JJ categories_NNS and_CC eliminate_VB unused_JJ features_NNS ._.
+However_RB ,_, our_PRP$ data_NNS is_VBZ much_RB larger_JJR than_IN the_DT one_CD used_VBN in_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+3_LS ._.
+MNIST_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: :_: A_DT collection_NN of_IN hand-written_JJ digits_NNS ._.
+The_DT statistics_NNS of_IN the_DT datasets_NNS are_VBP summarized_VBN in_IN Table_NNP 4_CD ._.
+We_PRP set_VBD k_NN according_VBG to_TO the_DT number_NN of_IN categories_NNS for_IN each_DT datasets_NNS ._.
+We_PRP run_VBP GCD_NNP and_CC FastHals_NNP with_IN our_PRP$ C_NN im_NN

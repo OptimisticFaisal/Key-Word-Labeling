@@ -1,0 +1,4 @@
+ng_NN ._.
+As_IN there_EX are_VBP no_DT known_JJ indexing\/motif_NN discovery_NN algorithms_NNS for_IN MDL_NNP ,_, we_PRP avail_NN ourselves_PRP of_IN two_CD fast_JJ external_JJ modules_NNS that_WDT use_VBP Euclidean_JJ distance_NN for_IN motif_NN discovery_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- and_CC nearest_JJS neighbor_NN search_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Using_VBG Euclidean_JJ distance_NN as_IN a_DT fast_JJ proxy_NN for_IN MDL_NN is_VBZ possible_JJ because_IN they_PRP are_VBP highly_RB correlated_VBN when_WRB both_DT are_VBP small_JJ -LRB-_-LRB- details_NNS omitted_VBN for_IN brevity_NN -RRB-_-RRB- ._.
+V._NNP EXPERIMENTAL_NNP RESULTS_NNS We_PRP begin_VBP by_IN stating_VBG our_PRP$ exp_NN

@@ -1,0 +1,5 @@
+icographic_JJ ordering_VBG ,_, Raghavan_NNP and_CC Garcia-Molina_NNP -LRB-_-LRB- 12_CD -RRB-_-RRB- decomposed_VBD a_DT Web_NN graph_NN into_IN a_DT hierarchical_JJ structure_NN ._.
+They_PRP used_VBD the_DT notion_NN of_IN S-node_NN to_TO capture_VB the_DT locality_NN property_NN of_IN Web_NN graphs_NNS ._.
+Suel_NN and_CC Yuan_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: also_RB used_VBD the_DT structural_JJ decomposition_NN technique_NN in_IN some_DT sense_NN by_IN distinguishing_VBG between_IN local_JJ and_CC global_JJ links_NNS ._.
+Recently_RB ,_, Apostolico_NN and_CC Drovandi_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- introduced_VBD a_DT BFS-based_JJ method_NN ._.
+Their_PRP$ approach_NN al_FW

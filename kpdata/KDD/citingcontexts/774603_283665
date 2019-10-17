@@ -1,0 +1,3 @@
+,_, containing_VBG the_DT longest_JJS terminals_NNS of_IN the_DT search_NN tree_NN -LRB-_-LRB- space_NN -RRB-_-RRB- ._.
+Note_VB that_IN the_DT search_NN space_NN for_IN pattern_NN mining_NN can_MD generally_RB be_VB organized_VBN in_IN a_DT tree_NN structure_NN ,_, e.g._FW ,_, Rymon_NNP 's_POS generic_JJ set_NN enumeration_NN tree_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: for_IN frequents_VBZ #_# rows_NNS λ_NN 2_CD Pareto_NNP front_NN feasible_JJ region_NN significant_JJ region_NN twig_NN region_NN #_# columns_NNS Pareto_NNP front_NN :_: the_DT monotonically_RB descending_VBG line_NN containing_VBG all_DT non-dominated_JJ solutions_NNS ._.
+feasible_JJ region_NN :_:

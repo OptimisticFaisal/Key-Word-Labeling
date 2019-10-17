@@ -1,0 +1,4 @@
+s_NNS not_RB provide_VBP any_DT performance_NN guarantees_NNS ._.
+More_RBR importantly_RB ,_, the_DT choice_NN of_IN the_DT subset_NN is_VBZ often_RB based_VBN on_IN knowledge_NN of_IN the_DT entire_JJ data_NNS matrix_NN ,_, an_DT unrealistic_JJ assumption_NN in_IN our_PRP$ setting_NN ._.
+A_DT good_JJ example_NN is_VBZ =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB the_DT subset_NN is_VBZ chosen_VBN by_IN partitioning_VBG the_DT data_NNS space_NN using_VBG k-means_NN or_CC random_JJ projection_NN trees_NNS ._.
+Note_VB that_IN this_DT algorithm_NN is_VBZ not_RB relevant_JJ when_WRB we_PRP do_VBP not_RB have_VB a-priori_NN access_NN to_TO the_DT entire_JJ dataset_NN

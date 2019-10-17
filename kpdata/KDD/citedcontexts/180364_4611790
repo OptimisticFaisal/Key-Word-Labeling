@@ -1,0 +1,5 @@
+t_NN of_IN X_NN -LRB-_-LRB- with_IN value_NN 6_CD -RRB-_-RRB- should_MD only_RB correspond_VB to_TO the_DT fifth_JJ element_NN of_IN Y_NN -LRB-_-LRB- of_IN value_NN 3_CD -RRB-_-RRB- ,_, as_IN shown_VBN in_IN Fig._NNP 3_CD -LRB-_-LRB- b_NN -RRB-_-RRB- ._.
+Another_DT distance_NN measure_NN ,_, the_DT longest_JJS common_JJ subsequence_NN -LRB-_-LRB- LCSS_NN -RRB-_-RRB- ,_, has_VBZ been_VBN used_VBN in_IN sequences_NNS =_JJ -_: =[_NN 27,28_CD -RRB-_-RRB- -_: =_SYM -_: to_TO deal_VB with_IN the_DT alignment_NN and_CC outliers_NNS problems_NNS ._.
+Given_VBN a_DT query_NN and_CC a_DT target_NN Fig._NNP 3_CD ._.
+Time_NN series_NN alignment_NN with_IN -LRB-_-LRB- a_LS -RRB-_-RRB- DTW_NN and_CC -LRB-_-LRB- b_LS -RRB-_-RRB- MVM_NNP ._.
+Author_NN 's_POS personal_JJ copy_NN series_NN ,_, LCSS_NNP determines_VBZ their_PRP$ longest_JJS commo_NN

@@ -1,0 +1,4 @@
+antic_JJ frameworks_NNS for_IN accessing_VBG and_CC manipulating_VBG documents_NNS in_IN RDF_NNP and_CC RDFS_NNP ._.
+There_EX are_VBP several_JJ RDF\/RDFS-based_JJ reasoners_NNS and_CC repositories_NNS ,_, such_JJ as_IN OWLIM_NNP ,_, Minerva_NNP ,_, Sesame_NNP ,_, Jena_NNP ,_, Joseki_NNP ,_, Kowari_NNP and_CC 3store_NN =_JJ -_: =[_NN 17_CD ,_, 19_CD ,_, 20_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+While_IN most_JJS of_IN the_DT repositories_NNS are_VBP based_VBN on_IN triples_NNS ,_, some_DT of_IN them_PRP additionally_RB implement_VB -LRB-_-LRB- scalable_JJ -RRB-_-RRB- inferencing_NN for_IN RDF\/RDFS_NN documents_NNS ,_, or_CC alternatively_RB for_IN OWL-Lite_NN -LRB-_-LRB- SHIF_NN -LRB-_-LRB- D_NN -RRB-_-RRB- description_NN logic_NN -RRB-_-RRB- ._.
+Unl_NN

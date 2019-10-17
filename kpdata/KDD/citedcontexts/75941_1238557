@@ -1,0 +1,4 @@
+erns_FW α_FW and_CC β_NN to_TO a_DT real_JJ value_NN such_JJ that_IN R_NN -LRB-_-LRB- α_NN ,_, β_NN -RRB-_-RRB- is_VBZ the_DT redundancy_NN between_IN them_PRP ._.
+Redundancy_NN measures_VBZ the_DT extent_NN by_IN which_WDT two_CD patterns_NNS are_VBP similar_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP use_VBP a_DT variant_NN of_IN the_DT Jaccard_NNP measure_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: to_TO measure_VB the_DT redundancy_NN between_IN different_JJ features_NNS ._.
+P_NN -LRB-_-LRB- α_NN ,_, β_NN -RRB-_-RRB- R_NN -LRB-_-LRB- α_NN ,_, β_NN -RRB-_-RRB- =_JJ ×_CD min_NN -LRB-_-LRB- S_NN -LRB-_-LRB- α_NN -RRB-_-RRB- ,_, S_NN -LRB-_-LRB- β_NN -RRB-_-RRB- -RRB-_-RRB- P_NN -LRB-_-LRB- α_NN -RRB-_-RRB- +_CC P_NN -LRB-_-LRB- β_NN -RRB-_-RRB- −_NN P_NN -LRB-_-LRB- α_NN ,_, β_NN -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- According_VBG to_TO the_DT redundancy_NN definition_NN ,_, we_PRP use_VBP the_DT closed_JJ frequent_JJ patterns_NNS -LRB-_-LRB- 27_CD

@@ -1,0 +1,6 @@
+i_LS =_JJ 1_CD cixiyi_NNS ,_, for_IN public_JJ constants_NNS ci_FW ._.
+-LRB-_-LRB- See_VB e.g._FW -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, where_WRB they_PRP describe_VBP a_DT protocol_NN that_WDT achieves_VBZ O_NN -LRB-_-LRB- tK_NN -RRB-_-RRB- communication_NN complexity_NN ,_, K_NN the_DT security_NN parameter_NN ._.
+Other_JJ implementations_NNS can_MD be_VB found_VBN in_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 27_CD -RRB-_-RRB- ._. -RRB-_-RRB-
+-_: Bigger_JJR Than_IN N_NNP Protocol_NNP -LRB-_-LRB- BTNP_NNP -RRB-_-RRB- ._.
+Alice_NNP and_CC Bob_NNP each_DT hold_VBP a_DT value_NN in_IN ZN_NNP ._.
+This_DT protocol_NN determines_VBZ if_IN the_DT sum_NN of_IN their_PRP$ values_NNS -LRB-_-LRB- considered_VBN as_IN a_DT sum_NN in_IN Z_NN ,_, not_RB ZN_NN -RRB-_-RRB- is_VBZ bigger_JJR than_IN N._NNP -_: To_TO Binary_VB

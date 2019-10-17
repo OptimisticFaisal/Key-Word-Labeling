@@ -1,0 +1,5 @@
+-RRB-_-RRB- combination_NN space_NN as_IN search_NN space_NN ._.
+Due_JJ to_TO the_DT exponential_JJ number_NN of_IN column_NN combinations_NNS ,_, this_DT method_NN is_VBZ usually_RB not_RB suitable_JJ for_IN very_RB high_JJ dimensional_JJ data_NNS ._.
+Recently_RB ,_, a_DT row_NN enumeration-based_JJ method_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ proposed_VBN to_TO handle_VB this_DT kind_NN of_IN very_RB high_JJ dimensional_JJ data_NNS ._.
+Based_VBN on_IN this_DT work_NN ,_, several_JJ algorithms_NNS have_VBP been_VBN developed_VBN to_TO find_VB frequent_JJ closed_JJ patterns_NNS or_CC classification_NN rules_NNS -LRB-_-LRB- 5_CD ,_, 6_CD ,_, 7_CD ,_, 8_CD -RRB-_-RRB- ._.
+As_IN the_DT

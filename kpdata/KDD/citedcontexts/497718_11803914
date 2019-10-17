@@ -1,0 +1,4 @@
+paper_NN ._.
+2_CD Preliminaries_NNPS In_IN this_DT section_NN ,_, we_PRP briefly_RB introduce_VBP the_DT fundamental_JJ concepts_NNS ,_, and_CC formulate_VB the_DT basic_JJ problem_NN of_IN SimRank_NN similarity_NN scoring_VBG on_IN undirected_JJ graphs_NNS ._.
+More_JJR details_NNS can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 2,1,7_CD -RRB-_-RRB- -_: =_JJ -.282_CD W._NNP Yu_NNP ,_, X._NNP Lin_NNP ,_, and_CC J._NNP Le_NNP 2.1_CD Problem_NNP Statement_NNP Assume_VB an_DT undirected_JJ web_NN graph_NN G_NN =_JJ -LRB-_-LRB- V_NN ,_, E_NN -RRB-_-RRB- ,_, whereVis_VBZ the_DT set_NN of_IN vertices_NNS representing_VBG web_NN documents_NNS ,_, and_CC E_NN is_VBZ the_DT set_NN of_IN edges_NNS ._.
+Each_DT edge_NN -LRB-_-LRB- p_NN ,_, q_NN -RRB-_-RRB- ∈_NN E_NN be_VB

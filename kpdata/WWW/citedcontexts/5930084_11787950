@@ -1,0 +1,4 @@
+s_NN with_IN keywords_NNS ._.
+As_IN shown_VBN in_IN Figure_NNP 2_CD ,_, given_VBN a_DT web_NN document_NN ,_, the_DT ``_`` most_RBS important_JJ ''_'' words_NNS -LRB-_-LRB- both_DT wrt_FW tf_FW as_RB well_RB as_IN tf_FW ×_FW idf_FW -RRB-_-RRB- of_IN the_DT document_NN are_VBP generally_RB covered_VBN by_IN the_DT vocabulary_NN of_IN user-generated_JJ tags_NNS =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT means_VBZ that_IN the_DT set_NN of_IN user-generated_JJ tags_NNS has_VBZ the_DT comparable_JJ expression_NN capability_NN as_IN the_DT plain_JJ English_NNP words_NNS for_IN web_NN documents_NNS ._.
+Li_NNP et_FW al._FW -LRB-_-LRB- 30_CD -RRB-_-RRB- found_VBD that_IN most_JJS of_IN the_DT missed_VBN keywords_NNS are_VBP misspe_JJ

@@ -1,0 +1,5 @@
+._.
+Most_JJS of_IN them_PRP actually_RB screen_NN -LRB-_-LRB- and_CC some_DT explicitly_RB store_NN ,_, e.g._FW ,_, -LRB-_-LRB- 22_CD -RRB-_-RRB- -RRB-_-RRB- the_DT frequent_JJ free_JJ sets_NNS associated_VBN to_TO a_DT closed_JJ one_CD as_IN a_DT sufficient_JJ condition_NN for_IN pruning_NN the_DT search_NN space_NN ._.
+We_PRP refer_VBP the_DT reader_NN to_TO =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: for_IN a_DT survey_NN ._.
+5_CD ._.
+EXPERIMENTAL_JJ RESULTS_NNS We_PRP have_VBP experimented_VBN the_DT RegularMine_NN procedure_NN on_IN standard_JJ dense_JJ -LRB-_-LRB- pumsb_JJ ,_, census_NN ,_, mushroom_NN ,_, chess_NN -RRB-_-RRB- and_CC sparse_JJ -LRB-_-LRB- BMS-Webview_JJ 1_CD ,_, BMS-Webview_NN 2_CD ,_, T10I4D100K_NN ,_, T10I8D100_NN

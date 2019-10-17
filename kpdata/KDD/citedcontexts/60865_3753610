@@ -1,0 +1,3 @@
+starting_VBG point_NN ,_, and_CC pick_VB the_DT parameter_NN setting_NN that_WDT achieves_VBZ the_DT maximal_JJ AP_NN ._.
+3.2_CD Perceptron-based_JJ Training_NN This_DT section_NN first_RB formulates_VBZ the_DT ranking_JJ problem_NN under_IN the_DT framework_NN of_IN ordinal_JJ regression_NN =_JJ -_: =[_NN 14_CD ,_, 12_CD -RRB-_-RRB- -_: =_JJ -_: ;_: then_RB presents_VBZ a_DT loss_NN function_NN which_WDT is_VBZ closely_RB associated_VBN with_IN AP_NN ,_, and_CC a_DT perceptronbased_JJ algorithm_NN to_TO optimize_VB the_DT parameter_NN setting_NN with_IN respect_NN to_TO the_DT loss_NN function_NN ._.
+The_DT ranking_JJ problem_NN in_IN IR_NNP can_MD

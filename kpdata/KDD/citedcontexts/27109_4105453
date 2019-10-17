@@ -1,0 +1,4 @@
+and_CC pointed_VBD out_RP that_IN the_DT multinomial_JJ PCA_NN model_NN -LRB-_-LRB- or_CC discrete_JJ PCA_NN -RRB-_-RRB- takes_VBZ clustering_NN and_CC projection_NN as_IN two_CD extreme_JJ cases_NNS ._.
+Another_DT closely_RB related_JJ work_NN is_VBZ the_DT so-called_JJ two-sided_JJ clustering_NN ,_, like_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT aims_VBZ to_TO clustering_NN words_NNS and_CC documents_NNS simultaneously_RB ._.
+In_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- it_PRP is_VBZ implicitly_RB assumed_VBN a_DT one-to-one_JJ correspondence_NN between_IN the_DT two_CD sides_NNS of_IN clusters_NNS ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- is_VBZ a_DT probabilistic_JJ model_NN for_IN discrete_JJ

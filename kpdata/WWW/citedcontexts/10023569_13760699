@@ -1,0 +1,4 @@
+multiservice_JJ Web_NN applications_NNS ,_, where_WRB Web_NN applications_NNS are_VBP not_RB only_RB constructed_VBN as_IN a_DT sequence_NN of_IN tiers_NNS but_CC can_MD also_RB consist_VB of_IN multiple_JJ services_NNS interacting_VBG with_IN each_DT otherin_NN a_DT directed_JJ acyclic_JJ graph_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT works_NNS however_RB assume_VBP that_IN the_DT underlying_JJ provisioning_VBG machines_NNS are_VBP homogeneous_JJ ._.
+This_DT is_VBZ a_DT reasonable_JJ assumption_NN in_IN mediumscale_JJ environments_NNS such_JJ as_IN cluster_NN computers_NNS ._.
+However_RB ,_, in_IN Cloud_NNP computi_NNS

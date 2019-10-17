@@ -1,0 +1,5 @@
+as_IN follows_VBZ ._.
+First_RB the_DT GA_NN selects_VBZ all_PDT the_DT non-dominated_JJ individuals_NNS -LRB-_-LRB- the_DT Pareto_NNP front_NN -RRB-_-RRB- of_IN the_DT current_JJ population_NN ._.
+These_DT non-dominated_JJ individuals_NNS are_VBP passed_VBN unaltered_JJ to_TO the_DT next_JJ generation_NN by_IN elitism_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Let_VB N_NN be_VB the_DT population_NN size_NN ,_, and_CC let_VB Nelit_NNP be_VB the_DT number_NN of_IN individuals_NNS reproduced_VBN by_IN elitism_NN ,_, where_WRB Nelit_NN d_NN -LRB-_-LRB- N_NN \/_: 2_CD -RRB-_-RRB- ._. ._.
+Then_RB the_DT other_JJ N_NN -_: Nelit_JJ individuals_NNS to_TO reproduce_VB are_VBP chosen_VBN by_IN performing_VBG N_NN -_:

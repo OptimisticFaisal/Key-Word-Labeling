@@ -1,0 +1,5 @@
+zi_NN -RRB-_-RRB- -RRB-_-RRB- +_CC λ_FW |_FW |_FW f_FW |_FW |_FW 2_CD K_NN ,_, -LRB-_-LRB- 1_LS -RRB-_-RRB- where_WRB V_NN -LRB-_-LRB- ._.
+,_, ._. -RRB-_-RRB-
+is_VBZ a_DT loss_NN function_NN ,_, |_FW |_FW f_FW |_FW |_FW K_NN is_VBZ a_DT norm_NN in_IN a_DT RKHS_NN H_NN defined_VBN by_IN the_DT positive_JJ definite_JJ function_NN K_NN ,_, d_NN is_VBZ the_DT number_NN of_IN data_NNS points_NNS ,_, and_CC λ_NN is_VBZ a_DT regularization_NN parameter_NN =_JJ -_: =[_NN 12,34_CD ,_, 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Under_IN general_JJ conditions_NNS -LRB-_-LRB- 30_CD -RRB-_-RRB- ,_, any_DT f_FW ∈_FW H_NN minimizing_VBG -LRB-_-LRB- 1_LS -RRB-_-RRB- admits_VBZ a_DT representation_NN of_IN the_DT form_NN :_: f_LS -LRB-_-LRB- q_NN -RRB-_-RRB- =_JJ dX_NN xiK_NN -LRB-_-LRB- q_NN ,_, zi_NN -RRB-_-RRB- ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- i_LS =_JJ 1_CD for_IN some_DT set_NN of_IN coefficients_NNS xi_VBP ,_, i_FW =_JJ -LCB-_-LRB- 1_CD ,_, ..._: ,_, d_NN -RCB-_-RRB- ._.
+Thus_RB ,_, the_DT optimization_NN

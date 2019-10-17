@@ -1,0 +1,5 @@
+ssary_NN and_CC in_IN any_DT case_NN infeasible_JJ in_IN the_DT case_NN of_IN really_RB large_JJ networks_NNS such_JJ as_IN the_DT WWW_NNP ._.
+-LRB-_-LRB- The_DT fastest_JJS complete_JJ algorithms_NNS can_MD currently_RB deal_VB with_IN networks_NNS containing_VBG up_RB to_TO maybe_RB a_DT few_JJ millions_NNS of_IN nodes_NNS =_JJ -_: =[_NN 14_CD ,_, 19_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._. -RRB-_-RRB-
+In_IN many_JJ cases_NNS it_PRP would_MD be_VB sufficient_JJ to_TO know_VB the_DT relevant_JJ cluster_NN of_IN a_DT given_VBN source_NN node_NN ,_, or_CC maybe_RB a_DT group_NN of_IN nodes_NNS ._.
+Some_DT recent_JJ papers_NNS ,_, such_JJ as_IN -LRB-_-LRB- 24_CD ,_, 26_CD -RRB-_-RRB- address_NN also_RB this_DT more_RBR limited_JJ goal_NN ._.
+In_IN -LRB-_-LRB- 24_CD

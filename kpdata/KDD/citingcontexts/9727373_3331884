@@ -1,0 +1,3 @@
+transactions_NNS of_IN ACC_NNP using_VBG a_DT minSup_NN =_JJ 500_CD and_CC τ_NN =_JJ 0.1_CD ._.
+Figure_NN 10_CD -LRB-_-LRB- a_DT -RRB-_-RRB- shows_VBZ the_DT result_NN of_IN IP_NNP ._.
+Note_VB that_IN the_DT frequentness_NN probability_NN of_IN the_DT resulting_VBG itemsets_NNS is_VBZ monotonically_JJ de4_NN The_DT accidents_NNS dataset_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: was_VBD derived_VBN from_IN the_DT Frequent_JJ Itemset_NNP Mining_NNP Dataset_NNP Repository_NNP -LRB-_-LRB- http:\/\/fimi.cs.helsinki.fi\/data\/_NN -RRB-_-RRB- Runtime_NN -LRB-_-LRB- ms_NN -RRB-_-RRB- 2500 2000 1500 1000_CD 500_CD 0_CD Dynamic_NNP +_CC P_NN Dynamic_NNP 0_CD 0.1_CD 0.2_CD 0.3_CD 0.4_CD 0.5_CD 0.6_CD 0.7_CD 0.8_CD 0.9_CD 1_CD Min_NN

@@ -1,0 +1,5 @@
+he_PRP second_JJ dataset_NN contains_VBZ the_DT other_JJ entities_NNS ._.
+Secondly_RB ,_, we_PRP partition_NN the_DT entities_NNS of_IN the_DT two_CD datasets_NNS into_IN sub-populations_NNS according_VBG to_TO their_PRP$ demographics_NNS ._.
+Thirdly_RB ,_, we_PRP discover_VBP candidate_NN association_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: and_CC sequential_JJ patterns_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- in_IN T_NN of_IN each_DT sub-population_NN ._.
+The_DT events_NNS within_IN a_DT fixed_JJ sized_VBN time_NN window_NN prior_RB to_TO the_DT target_NN event_NN are_VBP used_VBN for_IN pattern_NN discovery_NN ._.
+Fourthly_RB ,_, we_PRP explore_VBP corresponding_JJ T_NN of_IN

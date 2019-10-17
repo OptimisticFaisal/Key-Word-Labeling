@@ -1,0 +1,4 @@
+emi-supervised_JJ clustering_NN employs_VBZ both_CC unlabeled_JJ and_CC supervised_JJ data_NNS to_TO obtain_VB a_DT partitioning_NN that_WDT conforms_VBZ more_RBR closely_RB with_IN the_DT user_NN 's_POS preferences_NNS ._.
+Several_JJ recent_JJ papers_NNS have_VBP discussed_VBN this_DT problem_NN =_JJ -_: =[_NN 17_CD ,_, 8_CD ,_, 1_CD ,_, 19_CD ,_, 2_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Typically_RB ,_, the_DT supervision_NN has_VBZ the_DT form_NN of_IN labeled_JJ data_NNS or_CC pairwise_JJ constraints_NNS ._.
+A_DT constraint_NN on_IN a_DT pair_NN of_IN points_NNS specifies_VBZ whether_IN the_DT two_CD points_NNS belong_VBP to_TO the_DT same_JJ cluster_NN -LRB-_-LRB- must-link_NN -RRB-_-RRB- ,_, or_CC not_RB -LRB-_-LRB- can_MD

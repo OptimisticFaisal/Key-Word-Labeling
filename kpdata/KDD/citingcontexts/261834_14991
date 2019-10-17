@@ -1,0 +1,5 @@
+e_LS -LRB-_-LRB- or_CC an_DT exception_NN rule_NN -RRB-_-RRB- here_RB because_IN for_IN different_JJ data_NNS mining_NN tasks_NNS it_PRP may_MD be_VB defined_VBN differently_RB -LRB-_-LRB- see_VB Section_NNP 4_CD and_CC 5_CD -RRB-_-RRB- ._.
+4_LS ._.
+REPRESENTING_NNP DECISION_NNP TREES_NNP USING_NNP GSE_NNP PATTERNS_NNP Decision_NNP tree_NN construction_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT popular_JJ method_NN for_IN building_VBG classification_NN models_NNS ._.
+In_IN this_DT section_NN ,_, we_PRP use_VBP GSE_NN patterns_NNS to_TO organize_VB and_CC summarize_VB the_DT knowledge_NN embedded_VBN in_IN a_DT decision_NN tree_NN ._.
+The_DT GSE_NNP representation_NN can_MD also_RB be_VB ex_FW

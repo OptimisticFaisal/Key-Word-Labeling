@@ -1,0 +1,4 @@
+artitions_NNS of_IN the_DT same_JJ data_NNS set_VBN into_IN a_DT single_JJ individual_JJ clustering_NN solution_NN ._.
+Ensembles_NNS of_IN partitionings_NNS are_VBP believed_VBN to_TO improve_VB robustness_NN and_CC scalability_NN of_IN the_DT clustering_NN process_NN -LRB-_-LRB- as_IN stated_VBN e.g._NNP in_IN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+This_DT is_VBZ also_RB motivated_VBN by_IN experiences_NNS made_VBN in_IN supervised_JJ settings_NNS where_WRB ensemble_NN methods_NNS have_VBP been_VBN successfully_RB employed_VBN to_TO increase_VB the_DT robustness_NN of_IN the_DT final_JJ classification_NN rule_NN ._.
+One_CD prominent_JJ r_NN

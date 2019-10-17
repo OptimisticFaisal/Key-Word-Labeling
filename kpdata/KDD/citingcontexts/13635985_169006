@@ -1,0 +1,3 @@
+k_NN are_VBP the_DT mj_JJ data_NN points_NNS that_WDT belong_VBP to_TO j_VB th_DT cluster_NN ._.
+As_IN the_DT formulation_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- involves_VBZ only_RB the_DT dot_NN products_NNS of_IN the_DT data_NNS points_NNS ,_, it_PRP can_MD be_VB extended_VBN to_TO arbitrary_JJ feature_NN spaces_NNS by_IN using_VBG Mercer_NNP kernels_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Assuming_VBG that_IN the_DT given_VBN dataset_NN is_VBZ linearly_RB separable_JJ ,_, one_PRP can_MD write_VB an_DT equivalent_NN of_IN the_DT hard-margin_JJ classifier_NN for_IN the_DT 2_CD The_DT same_JJ constraint_NN can_MD be_VB derived_VBN more_RBR rigorously_RB using_VBG optimization_NN theor_NN

@@ -1,0 +1,4 @@
+hms_NNS to_TO NASA_NNP valve_NN data_NN set_NN ._.
+The_DT data_NN consists_VBZ of_IN a_DT set_NN of_IN normal_JJ valve_NN opening_VBG and_CC closing_VBG currents_NNS another_DT set_NN of_IN abnormal_JJ opening_NN and_CC closing_NN sequences_NNS ._.
+Also_RB for_IN aerospace_NN applications_NNS ,_, Chiu_NNP et_FW al._FW =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: developed_VBD algorithms_NNS for_IN finding_VBG repeated_JJ subsequences_NNS of_IN time_NN series_NN ,_, which_WDT they_PRP call_VBP Motifs_NNPS ._.
+They_PRP tested_VBD their_PRP$ algorithms_NNS on_IN the_DT space_NN shuttle_NN telemetry_NN signals_NNS and_CC they_PRP showed_VBD robust_JJ performance_NN ._.

@@ -1,0 +1,6 @@
+ls_NNS ._.
+The_DT authors_NNS demonstrate_VBP that_IN the_DT temporal_JJ order_NN of_IN calls_NNS is_VBZ more_RBR promising_JJ to_TO analyze_VB than_IN statement_NN coverage_NN only_RB ._.
+However_RB ,_, AMPLE_NNP only_RB derives_VBZ relatively_RB coarsegrained_VBN class-level_JJ localisations_NNS ._.
+=_SYM -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: also_RB deals_VBZ with_IN sequences_NNS ,_, but_CC presents_VBZ a_DT failure-detection_JJ approach_NN ._.
+This_DT is_VBZ ,_, it_PRP does_VBZ not_RB localize_VB defects_NNS ,_, but_CC decides_VBZ whether_IN an_DT execution_NN is_VBZ correct_JJ or_CC not_RB ._.
+In_IN general_JJ ,_, the_DT usage_NN of_IN call_NN sequence_NN

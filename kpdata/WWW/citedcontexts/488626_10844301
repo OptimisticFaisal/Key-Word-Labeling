@@ -1,0 +1,5 @@
+d_NN Church_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- use_VBP a_DT computation_NN of_IN hitting_VBG time_NN for_IN ranking_JJ related_JJ queries_NNS ._.
+Query_JJ recommendation_NN based_VBN on_IN query_NN reformulations_NNS ._.
+Many_JJ effective_JJ approaches_NNS focus_VB on_IN the_DT analysis_NN of_IN user_NN query_NN sessions_NNS =_JJ -_: =[_NN 12_CD ,_, 33_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Fonseca_NNP et_FW al._FW -LRB-_-LRB- 12_CD -RRB-_-RRB- propose_VBP a_DT query_JJ recommendation_NN system_NN based_VBN on_IN association_NN rules_NNS applied_VBN to_TO query_VB logs_NNS ._.
+Zhang_NNP and_CC Nasraoui_NNP -LRB-_-LRB- 33_CD -RRB-_-RRB- represent_VBP each_DT user_NN session_NN by_IN a_DT complete_JJ graph_NN where_WRB consecutive_JJ

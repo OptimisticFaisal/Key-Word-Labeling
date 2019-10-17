@@ -1,0 +1,4 @@
+ner_NN obtains_NNS from_IN the_DT reconstructed_VBN aggregate_NN distribution_NN was_VBD included_VBN in_IN the_DT problem_NN formulation_NN ._.
+3.3.2_CD Reconstruction-Based_JJ Techniques_NNS for_IN Binary_NNP and_CC Categorical_NNP Data_NNP The_DT work_NN presented_VBN in_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: deal_NN with_IN binary_JJ and_CC categorical_JJ data_NNS in_IN the_DT context_NN of_IN association_NN rule_NN mining_NN ._.
+Both_DT papers_NNS consider_VBP randomization_NN techniques_NNS that_WDT offer_VBP privacy_NN while_IN they_PRP maintain_VBP high_JJ utility_NN for_IN the_DT data_NN set_NN ._.
+s4_NN

@@ -1,0 +1,5 @@
+as_IN we_PRP will_MD see_VB in_IN Section_NNP 5_CD ._.
+We_PRP propose_VBP a_DT technique_NN to_TO solve_VB the_DT problem_NN based_VBN on_IN sequential_JJ pattern_NN mining_NN and_CC natural_JJ language_NN processing_NN -LRB-_-LRB- NLP_NN -RRB-_-RRB- ._.
+The_DT second_JJ problem_NN is_VBZ similar_JJ to_TO pronoun_VB resolution_NN =_JJ -_: =[_NN 3_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: in_IN NLP_NNP ,_, which_WDT identifies_VBZ what_WP each_DT pronoun_NN in_IN a_DT sentence_NN refers_VBZ to_TO ._.
+Pronoun_NN resolution_NN is_VBZ still_RB a_DT major_JJ challenge_NN ._.
+The_DT accuracy_NN of_IN the_DT current_JJ state-of-the-art_JJ systems_NNS is_VBZ only_RB about_RB 60-70_CD %_NN on_IN wellfor_NN

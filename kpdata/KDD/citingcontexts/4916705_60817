@@ -1,0 +1,5 @@
+d_NN according_VBG to_TO the_DT pairwise_JJ constraints_NNS ._.
+In_IN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, the_DT authors_NNS proposed_VBN to_TO modify_VB the_DT similarity_NN matrix_NN by_IN linearly_RB combining_VBG the_DT original_JJ similarity_NN matrix_NN with_IN the_DT pairwise_JJ constraints_NNS ._.
+Klein_NNP et_FW al._FW =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBN to_TO modify_VB the_DT similarity_NN matrix_NN by_IN propagating_VBG the_DT pairwise_JJ constraints_NNS through_IN the_DT nearest_JJS neighbors_NNS ._.
+3_LS ._.
+BOOSTING_NNP CLUSTERING_NNP Let_NNP X_NN =_JJ -LRB-_-LRB- x1_NN ,_, ..._: ,_, xn_NN -RRB-_-RRB- denote_VBP the_DT collection_NN of_IN examples_NNS to_TO be_VB

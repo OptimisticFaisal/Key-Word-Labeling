@@ -1,0 +1,5 @@
+zk_NN 's_POS ._.
+Note_VB that_IN the_DT k-means_NN algorithm_NN is_VBZ easy_JJ to_TO implement_VB and_CC the_DT complexity_NN is_VBZ linear_JJ with_IN the_DT sample_NN size_NN and_CC dimension_NN ._.
+There_EX are_VBP also_RB several_JJ recent_JJ advances_NNS on_IN scaling_VBG up_RP the_DT k-means_NN algorithm_NN -LRB-_-LRB- =_JJ -_: =_JJ Pelleg_NNP &_CC Moore_NNP ,_, 1999_CD -_: =_JJ -_: ;_: Elkan_NNP ,_, 2003_CD ;_: Kanungo_NNP et_FW al._FW ,_, 2002_CD -RRB-_-RRB- ._.
+Therefore_RB ,_, the_DT k-means-based_JJ sampling_NN strategy_NN is_VBZ suitable_JJ for_IN solving_VBG largescale_JJ problems_NNS in_IN this_DT context_NN ._.
+The_DT complete_JJ weighted_JJ Nyström_NNP method_NN for_IN approximating_VBG

@@ -1,0 +1,4 @@
+ng_NN when_WRB the_DT training_NN set_NN is_VBZ noisy_JJ ._.
+Other_JJ noisy_JJ tolerant_JJ boosting_VBG algorithms_NNS include_VBP AdaBoostReg_NNP -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, AveBoost2_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, et_FW al._FW ._.
+To_TO satisfy_VB the_DT requirement_NN of_IN rapid_JJ developing_VBG distributed_VBN applications_NNS ,_, Fan_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Lazarevic_NNP -LRB-_-LRB- 10_CD -RRB-_-RRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- proposed_VBD the_DT distributed_VBN versions_NNS of_IN boosting_VBG for_IN parallel_NN and_CC distributed_VBN data_NNS mining_NN ._.
+The_DT distributed_VBN boosting_VBG algorithms_NNS put_VBD more_JJR efforts_NNS on_IN the_DT disjoint_JJ partitions_NNS of_IN the_DT d_NN

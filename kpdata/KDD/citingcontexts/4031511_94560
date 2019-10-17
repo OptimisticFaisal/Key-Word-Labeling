@@ -1,0 +1,3 @@
+ined_VBD that_DT show_NN to_TO what_WP extent_NN heuristic_NN decision_NN trees_NNS can_MD be_VB considered_VBN optimal_JJ -LRB-_-LRB- 14_CD ,_, 6_CD ,_, 23_CD -RRB-_-RRB- ._.
+Still_RB ,_, the_DT idea_NN of_IN exhaustively_RB finding_VBG optimal_JJ decision_NN trees_NNS under_IN certain_JJ constraints_NNS was_VBD also_RB studied_VBN =_JJ -_: =[_NN 2_CD ,_, 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC only_RB for_IN much_RB smaller_JJR datasets_NNS and_CC smaller_JJR types_NNS of_IN trees_NNS than_IN studied_VBN in_IN this_DT paper_NN ._.
+Recently_RB -LRB-_-LRB- 4_CD -RRB-_-RRB- presented_VBD a_DT dynamic_JJ programming_NN algorithm_NN that_WDT is_VBZ quite_RB similar_JJ to_TO DL8_NN and_CC its_PRP$ early_JJ ancestors_NNS ._.

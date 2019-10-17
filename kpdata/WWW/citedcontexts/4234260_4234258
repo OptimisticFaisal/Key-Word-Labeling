@@ -1,0 +1,4 @@
+running_VBG within_IN the_DT same_JJ memory_NN space_NN ,_, access_NN to_TO the_DT structure_NN with_IN chunks_NNS of_IN code_NN is_VBZ quick_JJ ,_, as_IN it_PRP also_RB functions_VBZ as_IN a_DT cache_NN ._.
+An_DT important_JJ principle_NN is_VBZ the_DT separation_NN of_IN data_NNS processing_NN and_CC formatting_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT wpart_JJ syntax_NN forces_VBZ a_DT strict_JJ separation_NN of_IN the_DT model_NN and_CC the_DT view_NN in_IN applications_NNS ._.
+This_DT allows_VBZ web_NN designers_NNS to_TO focus_VB on_IN creating_VBG HTML_NNP markup_NN ,_, while_IN the_DT Erlang_NNP developers_NNS can_MD focus_VB on_IN the_DT back-e_NN

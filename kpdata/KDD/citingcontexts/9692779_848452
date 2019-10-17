@@ -1,0 +1,6 @@
+and_CC Wikify_NNP !_.
+,_, sacrifices_NNS recall_VBP for_IN high_JJ precision_NN ._.
+For_IN the_DT spots_NNS picked_VBN by_IN M&W_NN for_IN labeling_NN ,_, even_RB random_JJ disambiguation_NN achieves_VBZ an_DT F1_NN score_NN of_IN 0.53_CD ._.
+Cucerzan_NNP 's_POS algorithm_NN ._.
+To_TO our_PRP$ knowledge_NN ,_, Cucerzan_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: was_VBD the_DT first_JJ to_TO recognize_VB general_JJ interdependence_NN between_IN entity_NN labels_NNS in_IN the_DT context_NN of_IN Wikipedia_NNP annotations_NNS ._.
+He_PRP represents_VBZ each_DT entity_NN γ_NN as_IN a_DT high-dimensional_JJ feature_NN vector_NN g_NN -LRB-_-LRB- γ_NN -RRB-_-RRB- ,_, and_CC expressed_VBD

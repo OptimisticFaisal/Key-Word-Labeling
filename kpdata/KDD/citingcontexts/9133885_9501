@@ -1,0 +1,4 @@
+where_WRB A_DT ◦_NN B_NN is_VBZ the_DT matrix_NN dot_NN product_NN tr_NN -LRB-_-LRB- A_NN T_NN B_NN -RRB-_-RRB- =_JJ P_NN ij_FW AijBij_FW and_CC F_NN ∗_NN is_VBZ the_DT convex_JJ dual_JJ F_NN ∗_NN -LRB-_-LRB- µ_NN -RRB-_-RRB- =_JJ sup_NN θ_NN ∈_CD dom_NN F_NN -LRB-_-LRB- 〈_FW θ_FW ,_, µ_FW 〉_FW −_FW F_NN -LRB-_-LRB- θ_NN -RRB-_-RRB- -RRB-_-RRB- ._.
+If_IN F_NN ∗_NN is_VBZ differentiable_JJ ,_, this_DT is_VBZ equivalent_JJ to_TO the_DT standard_JJ definition_NN =_JJ -_: =[_NN 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, except_IN that_IN the_DT standard_JJ definition_NN uses_VBZ arguments_NNS Z_NN and_CC ∇_NN F_NN ∗_NN -LRB-_-LRB- Y_NN -RRB-_-RRB- instead_RB of_IN Z_NN and_CC Y_NN ._.
+If_IN F_NN decomposes_VBZ into_IN a_DT sum_NN over_IN components_NNS of_IN Z_NN ,_, we_PRP can_MD define_VB a_DT weighted_JJ ~_NN ajit\/cmf_NN ._.
+A_DT longer_JJR version_NN of_IN the_DT p_NN

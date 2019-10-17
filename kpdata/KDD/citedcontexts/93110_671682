@@ -1,0 +1,5 @@
+one_CD with_IN a_DT sufficient_JJ support_NN count_NN ._.
+Mining_NNP frequent_JJ itemsets_NNS in_IN static_JJ databases_NNS has_VBZ been_VBN widely_RB studied_VBN over_IN the_DT last_JJ decade_NN ._.
+Many_JJ methods_NNS such_JJ as_IN Apriori_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, FP-growth_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, and_CC OpportuneProject_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN proposed_VBN ._.
+In_IN addition_NN ,_, the_DT methods_NNS that_WDT incrementally_RB mine_VBP frequent_JJ itemsets_NNS in_IN dynamic_JJ databases_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- -LRB-_-LRB- 22_CD -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- have_VBP been_VBN presented_VBN as_RB well_RB ._.
+In_IN these_DT methods_NNS ,_, all_PDT the_DT frequent_JJ itemsets_NNS and_CC th_DT

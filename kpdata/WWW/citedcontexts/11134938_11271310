@@ -1,0 +1,3 @@
+enhancing_VBG item_NN search_NN -LRB-_-LRB- 3_CD ,_, 4_CD ,_, 18_CD -RRB-_-RRB- ,_, enhancingitem_NN recommendation_NN -LRB-_-LRB- 10_CD ,_, 19_CD ,_, 20_CD -RRB-_-RRB- ,_, uncovering_VBG user-induced_JJ relations_NNS among_IN items_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, clustering_NN users_NNS in_IN communities_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC automatic_JJ ontology_NN generation_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3_CD Associative_JJ Recommendation_NN We_PRP have_VBP essentially_RB modeled_VBN the_DT tag_NN recommendation_NN task_NN as_IN a_DT multi-label_JJ classification_NN problem_NN ._.
+In_IN this_DT case_NN ,_, we_PRP have_VBP as_IN input_NN the_DT training_NN data_NNS -LRB-_-LRB- referred_VBN to_TO as_IN D_NN -RRB-_-RRB- ,_, whi_NN

@@ -1,0 +1,5 @@
+whether_IN the_DT category_NN corresponding_VBG to_TO yi_NN was_VBD bought_VBN or_CC not_RB -RRB-_-RRB- ._.
+We_PRP experimented_VBD with_IN two_CD kinds_NNS of_IN machine_NN learning_NN methods_NNS to_TO perform_VB this_DT task_NN ._.
+First_RB we_PRP trained_VBD decision_NN trees_NNS -LRB-_-LRB- specifically_RB using_VBG C4_NN .5_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =--RRB-_NN to_TO predict_VB each_DT class_NN label_NN ._.
+Next_RB we_PRP tried_VBD several_JJ linear_JJ methods_NNS -LRB-_-LRB- Perceptron_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, Winnow_NNP -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, and_CC Naive_JJ Bayes_NNS -RRB-_-RRB- to_TO learn_VB each_DT class_NN ._.
+These_DT linear_JJ methods_NNS offer_VBP several_JJ advantages_NNS in_IN a_DT real-world_JJ se_FW

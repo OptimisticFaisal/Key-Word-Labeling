@@ -1,0 +1,4 @@
+Research_NN on_IN machine_NN learning_NN methods_NNS for_IN anomaly_NN detection_NN has_VBZ been_VBN pursued_VBN to_TO complement_VB signaturebased_JJ intrusion_NN detection_NN systems_NNS -LRB-_-LRB- e.g._FW anti-virus_JJ -RRB-_-RRB- ._.
+These_DT studies_NNS mostly_RB focused_VBD on_IN wired_VBN networks_NNS =_JJ -_: =[_NN 23_CD ,_, 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, not_RB wireless_JJ networks_NNS ._.
+A_DT technique_NN to_TO detect_VB mobile_JJ phone_NN cloning_NN fraud_NN was_VBD proposed_VBN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, where_WRB patterns_NNS of_IN fraud_NN were_VBD learned_VBN and_CC adapted_VBN to_TO user_NN call_NN behavior_NN ._.
+Our_PRP$ technique_NN differs_VBZ in_IN that_DT onl_NN

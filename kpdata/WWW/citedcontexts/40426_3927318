@@ -1,0 +1,4 @@
+to_TO the_DT stochastic_JJ transition_NN matrix_NN ._.
+The_DT matrix_NN corresponds_VBZ to_TO the_DT web_NN link_NN graph_NN ;_: in_IN making_VBG stochastic_JJ ,_, there_EX are_VBP standard_JJ techniques_NNS for_IN dealing_VBG with_IN web_NN pages_NNS with_IN no_DT outgoing_JJ links_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Furthermore_RB ,_, the_DT web_NN graph_NN has_VBZ been_VBN empirically_RB shown_VBN to_TO contain_VB many_JJ irreducible_JJ closed_JJ subsets_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, so_IN that_IN Theorem_NNP 2_CD holds_VBZ for_IN the_DT matrix_NN used_VBN by_IN Google_NNP ._.
+Theorem_NN 1_CD has_VBZ implications_NNS for_IN the_DT rate_NN

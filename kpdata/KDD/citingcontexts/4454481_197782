@@ -1,0 +1,4 @@
+t_NN collection_NN ._.
+Thus_RB it_PRP could_MD be_VB applied_VBN to_TO any_DT text_NN mining_NN problems_NNS ,_, in_IN which_WDT a_DT multinomial_JJ distribution_NN of_IN word_NN is_VBZ involved_VBN ._.
+sIn_NN some_DT tasks_NNS ,_, such_JJ as_IN topic_NN modeling_NN and_CC many_JJ information_NN retrieval_NN tasks_NNS =_JJ -_: =[_NN 8_CD ,_, 27_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT multinomial_JJ word_NN distribution_NN is_VBZ explicit_JJ ._.
+In_IN other_JJ tasks_NNS ,_, however_RB ,_, a_DT multinomial_JJ word_NN distribution_NN may_MD not_RB be_VB directly_RB available_JJ ;_: in_IN such_JJ tasks_NNS ,_, we_PRP can_MD also_RB apply_VB our_PRP$ method_NN by_IN extracting_VBG a_DT multi_NNS

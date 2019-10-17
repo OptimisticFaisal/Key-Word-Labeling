@@ -1,0 +1,3 @@
+chosen_VBN to_TO use_VB a_DT relational_JJ Bayes_NNP classifier_NN -LRB-_-LRB- RBC_NN -RRB-_-RRB- -LRB-_-LRB- 16_CD -RRB-_-RRB- for_IN its_PRP$ simplicity_NN and_CC to_TO avoid_VB any_DT confounding_JJ effects_NNS due_JJ to_TO feature_NN selection_NN ._.
+However_RB ,_, other_JJ relational_JJ classifiers_NNS may_MD also_RB be_VB used_VBN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 17_CD ,_, 6_CD ,_, 15_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, provided_VBN that_IN they_PRP can_MD handle_VB weighted_JJ instances_NNS during_IN learning_NN and_CC inference_NN ._.
+3.1_CD Graph_NN summarization_NN A_NN simple_JJ and_CC efficient_JJ way_NN to_TO model_VB temporally-varying_JJ relational_JJ networks_NNS is_VBZ to_TO transform_VB a_DT

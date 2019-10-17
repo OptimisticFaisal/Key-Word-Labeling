@@ -1,0 +1,4 @@
+tomation_NN model_NN based_VBN on_IN HMM_NNP ._.
+Instead_RB of_IN the_DT exponential_JJ density_NN function_NN in_IN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, we_PRP define_VBP the_DT emission_NN probability_NN by_IN a_DT Poisson_NNP distribution_NN ,_, since_IN Poisson_NNP is_VBZ much_RB more_RBR natural_JJ to_TO model_NN word_NN counts_VBZ =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, i.e._FW ,_, P_NN -LRB-_-LRB- xk_FW |_FW λk_FW -RRB-_-RRB- =_JJ λx_NN k_NN k_NN e_SYM −_FW λ_FW k_NN xk_NN !_.
+whereλk_NN is_VBZ the_DT expected_JJ number_NN of_IN messages_NNS at_IN timek_NN ,_, which_WDT also_RB stands_VBZ for_IN the_DT hidden_JJ state_NN at_IN time_NN tk_NN ._.
+The_DT transition_NN probability_NN from_IN any_DT state_NN to_TO another_DT is_VBZ defi_NN

@@ -1,0 +1,5 @@
+se_FW Applications_NNS --_: Data_NN mining_NN 1_CD ._.
+INTRODUCTION_NN In_IN set_NN mining_NN the_DT goal_NN is_VBZ find_VB conjunctions_NNS -LRB-_-LRB- or_CC disjunctions_NNS -RRB-_-RRB- of_IN terms_NNS that_WDT meet_VBP all_DT user_NN specified_JJ constraints_NNS ._.
+For_IN example_NN ,_, in_IN Association_NNP Rule_NNP Mining_NNP =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: a_DT common_JJ step_NN is_VBZ to_TO find_VB all_DT itemsets_NNS that_WDT have_VBP support_NN greater_JJR than_IN a_DT threshold_NN ._.
+Set_NN mining_NN is_VBZ a_DT fundamental_JJ operation_NN of_IN data_NNS mining_NN ._.
+In_IN addition_NN to_TO association_NN rule_NN mining_NN ,_, many_JJ other_JJ large_JJ classe_NN

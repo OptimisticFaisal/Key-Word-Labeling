@@ -1,0 +1,6 @@
+onal_JJ properties_NNS ._.
+Methods_NNS have_VBP been_VBN developed_VBN to_TO push_VB various_JJ constraints_NNS deep_JJ into_IN the_DT mining_NN ._.
+Some_DT special_JJ cases_NNS of_IN preference-based_JJ frequent_JJ pattern_NN mining_NN have_VBP been_VBN studied_VBN recently_RB ._.
+For_IN example_NN ,_, -LRB-_-LRB- =_JJ -_: =_JJ Bayardo_NNP &_CC Agrawal_NNP ,_, 1999_CD -_: =--RRB-_NN proposes_VBZ mining_NN the_DT most_RBS interesting_JJ rules_NNS ._.
+-LRB-_-LRB- Fu_FW et_FW al._FW ,_, 2000_CD -RRB-_-RRB- studies_NNS mining_VBG the_DT top-k_NN frequent_JJ itemsets_NNS ._.
+In_IN -LRB-_-LRB- Han_NNP et_FW al._FW ,_, 2002_CD -RRB-_-RRB- ,_, an_DT efficient_JJ algorithm_NN for_IN mining_VBG the_DT top-k_NN frequent_JJ closed_JJ itemsets_NNS

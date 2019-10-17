@@ -1,0 +1,4 @@
+aracterization_NN of_IN classes_NNS ,_, SAGE_NN data_NNS ._.
+1_CD Introduction_NN The_DT characterization_NN of_IN classes_NNS and_CC classification_NN are_VBP significant_JJ fields_NNS of_IN research_NN in_IN data_NNS mining_NN and_CC machine_NN learning_NN ._.
+Initially_RB introduced_VBN in_IN =_JJ -_: =_JJ -LRB-_-LRB- DL99_NN -RRB-_-RRB- -_: =_JJ -_: ,_, emerging_VBG patterns_NNS -LRB-_-LRB- EPs_NNS -RRB-_-RRB- are_VBP those_DT patterns_NNS whose_WP$ frequency_NN strongly_RB varies_VBZ between_IN two_CD data_NNS sets_NNS -LRB-_-LRB- i.e._FW ,_, two_CD classes_NNS -RRB-_-RRB- ._.
+The_DT ratio_NN between_IN both_DT frequencies_NNS is_VBZ called_VBN a_DT growth_NN rate_NN ,_, and_CC we_PRP are_VBP intereste_NN

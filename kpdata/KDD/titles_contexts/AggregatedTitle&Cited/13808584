@@ -1,0 +1,10 @@
+Friendship_NN and_CC mobility_NN :_: user_NN movement_NN in_IN location-based_JJ social_JJ networks_NNS
+s_NN as_IN a_DT dynamic_JJ Gaussian_JJ mixture_NN ,_, a_DT generative_JJ approach_NN postulating_VBG that_IN each_DT check-in_NN is_VBZ induced_VBN from_IN the_DT vicinity_NN of_IN either_CC a_DT person_NN 's_POS home_NN ,_, work_NN ,_, or_CC is_VBZ a_DT result_NN of_IN social_JJ influence_NN of_IN one_NN 's_POS friends_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+By_IN contrast_NN ,_, our_PRP$ location_NN model_NN is_VBZ inherently_RB discrete_JJ ,_, which_WDT allows_VBZ us_PRP to_TO predict_VB the_DT exact_JJ location_NN rather_RB than_IN a_DT sample_NN from_IN a_DT generally_RB high-variance_JJ continuous_JJ distribution_NN ;_: operates_VBZ at_IN a_DT finer_NN
+y_NN across_IN regions_NNS ?_.
+3_LS ._.
+What_WP is_VBZ a_DT good_JJ model_NN for_IN human_JJ mobility_NN ?_.
+Can_MD we_PRP discover_VB patterns_NNS in_IN users_NNS '_POS usage_NN of_IN micro-blogging_JJ services_NNS ._.
+There_EX exists_VBZ a_DT considerable_JJ body_NN of_IN research_NN addressing_VBG these_DT issues_NNS =_JJ -_: =[_NN 12_CD ,_, 15_CD ,_, 7_CD ,_, 5_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, the_DT analysis_NN of_IN data_NNS still_RB poses_VBZ a_DT considerable_JJ challenge_NN due_JJ to_TO its_PRP$ size_NN and_CC due_JJ to_TO the_DT integration_NN of_IN a_DT range_NN of_IN different_JJ attributes_NNS ._.
+To_TO our_PRP$ knowledge_NN this_DT is_VBZ the_DT first_JJ paper_NN to_TO address_VB

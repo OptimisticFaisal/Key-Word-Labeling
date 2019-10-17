@@ -1,0 +1,5 @@
+._.
+In_IN other_JJ words_NNS ,_, there_EX are_VBP only_RB two_CD kinds_NNS of_IN operations_NNS in_IN our_PRP$ system_NN and_CC we_PRP do_VBP not_RB consider_VB the_DT update_VBP operation_NN ._.
+For_IN the_DT simplicity_NN of_IN deletion_NN ,_, we_PRP assume_VBP the_DT XML_NN data_NNS in_IN our_PRP$ system_NN have_VB keys_NNS -LRB-_-LRB- see_VB =_JJ -_: =[_NN 4_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: for_IN reference_NN -RRB-_-RRB- ,_, which_WDT will_MD make_VB our_PRP$ discussion_NN more_RBR practical_JJ ._.
+Otherwise_RB ,_, even_RB for_IN relational_JJ data_NNS model_NN ,_, it_PRP is_VBZ quite_RB difficult_JJ to_TO discuss_VB the_DT deletions_NNS without_IN the_DT primary_JJ keys_NNS ._.
+In_IN example_NN 1_CD ,_, the_DT ke_NN

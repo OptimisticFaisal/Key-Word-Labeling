@@ -1,0 +1,4 @@
+ining_VBG all_DT frequent_JJ trees_NNS from_IN a_DT graph_NN ,_, and_CC then_RB reconstructing_VBG all_DT maximal_JJ subgraphs_NNS from_IN the_DT mined_VBN trees_NNS ._.
+Zeng_NNP et_FW al._FW looked_VBD at_IN the_DT problem_NN of_IN dense_JJ graphs_NNS by_IN mining_VBG the_DT properties_NNS of_IN quasi-cliques_NNS -LRB-_-LRB- =_JJ -_: =_JJ Zeng_NNP et_FW al._FW 2006_CD -_: =-]_CD ._.
+Using_VBG a_DT system_NN called_VBN Cocain_NNP ,_, they_PRP propose_VBP several_JJ optimization_NN techniques_NNS for_IN pruning_NN the_DT unpromising_JJ and_CC redundant_JJ search_NN spaces_NNS ._.
+To_TO help_VB combat_VB the_DT subgraph_JJ isomorphism_NN issue_NN ,_, Gudes_NNP et_FW al._FW propo_FW

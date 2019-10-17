@@ -1,0 +1,4 @@
+f_LS potential_JJ candidates_NNS ._.
+As_IN we_PRP can_MD see_VB in_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, there_EX are_VBP two_CD type_NN of_IN methods_NNS ,_, lattice-based_JJ methods_NNS ,_, such_JJ as_IN MaxEclat_NNP or_CC Pincer-Search_NNP -LRB-_-LRB- 28_CD ,_, 17_CD -RRB-_-RRB- ,_, and_CC treebased_JJ methods_NNS ,_, such_JJ as_IN MaxMiner_NN or_CC DepthProject_NN =_JJ -_: =[_NN 7_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, all_PDT this_DT algorithm_NN are_VBP applicable_JJ to_TO datasets_NNS belonging_VBG to_TO non-temporal_JJ domains_NNS ._.
+The_DT aim_NN of_IN this_DT paper_NN is_VBZ to_TO propose_VB a_DT new_JJ algorithm_NN named_VBN TSET_NN MAX_NN for_IN mining_NN frequent_JJ maximal_JJ sequences_NNS fro_NN

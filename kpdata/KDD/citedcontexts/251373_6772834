@@ -1,0 +1,4 @@
+on_IN codes_NNS -RRB-_-RRB- produce_VBP terascale_NN data_NNS sets_NNS over_IN the_DT spatio-temporal_JJ space_NN ._.
+In_IN order_NN to_TO discover_VB new_JJ information_NN from_IN such_JJ large-scale_JJ data_NNS sets_NNS ,_, scientists_NNS need_VBP efficient_JJ and_CC effective_JJ modeling_NN techniques_NNS =_JJ -_: =[_NN 1_CD ,_, 6_CD ,_, 8_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT paper_NN describes_VBZ a_DT simple_NN yet_RB effective_JJ multivariate_JJ clustering_NN algorithm_NN for_IN large-scale_JJ scientific_JJ simulation_NN data_NNS in_IN mesh_NN format_NN ._.
+Mesh_VB data_NNS sets_NNS usually_RB Center_NNP for_IN Applied_NNP Scientific_NNP Computin_NNP

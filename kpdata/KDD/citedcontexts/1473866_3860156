@@ -1,0 +1,5 @@
+l_NN probabilistic_JJ models_NNS ._.
+Results_NNS which_WDT are_VBP better_JJR than_IN the_DT ones_NNS achieved_VBN by_IN supervised_JJ techniques_NNS are_VBP presented_VBN ._.
+Another_DT approach_NN is_VBZ to_TO train_VB distance_NN measures_NNS used_VBN for_IN approximate_JJ string_NN comparisons_NNS ._.
+=_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: presents_VBZ a_DT framework_NN for_IN improving_VBG duplicate_VB detection_NN using_VBG trainable_JJ measures_NNS of_IN textual_JJ similarity_NN ._.
+The_DT authors_NNS argue_VBP that_IN both_DT at_IN the_DT character_NN and_CC word_NN level_NN there_EX are_VBP differences_NNS in_IN importance_NN

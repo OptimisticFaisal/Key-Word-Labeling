@@ -1,0 +1,4 @@
+ph_NN mining_NN in_IN the_DT single-graph_JJ setting_NN ._.
+The_DT empirical_JJ evaluation_NN by_IN the_DT latter_JJ shows_NNS that_IN their_PRP$ method_NN outperforms_VBZ that_IN of_IN Cook_NNP and_CC Holder_NNP in_IN terms_NNS of_IN runtime_NN on_IN a_DT number_NN of_IN real_JJ data_NNS sets_NNS ._.
+Pei_FW et_FW al._FW =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: take_VB on_RP a_DT somewhat_RB different_JJ graph_NN mining_NN task_NN ._.
+Their_PRP$ goal_NN is_VBZ to_TO discover_VB quasi-clique_JJ patterns_NNS across_IN multiple_JJ related_JJ graph_NN data_NN sets_NNS -LRB-_-LRB- e.g._FW ,_, groups_NNS of_IN customers_NNS with_IN similar_JJ behavior_NN across_IN markets_NNS

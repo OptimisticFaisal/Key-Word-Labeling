@@ -1,0 +1,4 @@
+a_DT block_NN ,_, such_JJ that_IN the_DT resulting_VBG error_NN s_NN −_CD s_NN is_VBZ never_RB greater_JJR than_IN MSe_NN ._.
+4.4_CD Closed_JJ Patterns_NN Since_IN there_EX may_MD be_VB a_DT large_JJ number_NN of_IN frequent_JJ itemsets_NNS ,_, we_PRP will_MD consider_VB so-called_JJ closed_JJ itemsets_NNS instead_RB =_JJ -_: =[_NN 22_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT closed_JJ itemset_NN is_VBZ a_DT frequent_JJ itemset_NN which_WDT has_VBZ only_RB proper_JJ supersets_NNS with_IN smaller_JJR support_NN than_IN itself_PRP ._.
+In_IN can_MD the_DT shown_VBN that_IN the_DT set_NN of_IN closed_JJ itemsets_NNS of_IN S_NN contains_VBZ the_DT same_JJ information_NN as_IN the_DT se_FW

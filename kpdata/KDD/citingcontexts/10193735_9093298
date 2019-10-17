@@ -1,0 +1,4 @@
+hose_NN source-domain_JJ data_NNS whose_WP$ conditional_JJ probability_NN is_VBZ similar_JJ to_TO target-domain_NN ._.
+To_TO achieve_VB this_DT ,_, we_PRP introduce_VBP a_DT cluster_NN method_NN ,_, Bisecting_VBG K-means_NNS ,_, with_IN a_DT self-adapting_JJ modification_NN as_IN adopted_VBN from_IN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP propose_VBP two_CD criteria_NNS to_TO control_VB self-adapting_JJ cluster_NN process_NN ._.
+If_IN the_DT sum_NN of_IN squared_VBN error_NN of_IN two_CD sub-clusters_NNS is_VBZ smaller_JJR than_IN that_DT of_IN the_DT whole_JJ cluster_NN ,_, then_RB the_DT cluster_NN is_VBZ to_TO be_VB splitted_VBN into_IN t_NN

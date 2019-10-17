@@ -1,0 +1,4 @@
+ate_VBD the_DT mining_NN of_IN interesting_JJ patterns_NNS from_IN microarray_NN matrices_NNS ._.
+For_IN example_NN ,_, various_JJ clustering_NN algorithms_NNS can_MD identify_VB the_DT co-expressed_VBN genes_NNS showing_VBG coherent_JJ patterns_NNS during_IN the_DT time-series_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 17_CD ,_, 12_CD ,_, 15_CD ,_, 8_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Moreover_RB ,_, both_DT supervised_JJ or_CC unsupervised_JJ approaches_NNS are_VBP proposed_VBN to_TO partition_NN the_DT samples_NNS into_IN homogeneous_JJ groups_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 4_CD ,_, 14_CD ,_, 9_CD ,_, 16_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Additionally_RB ,_, statistical_JJ approaches_NNS have_VBP been_VBN proposed_VBN to_TO

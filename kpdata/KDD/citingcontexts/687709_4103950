@@ -1,0 +1,6 @@
+static_JJ ._.
+We_PRP are_VBP interested_JJ in_FW sparse_FW ,_, streams_NNS of_IN tensors_NNS ,_, like_IN the_DT IP_NNP traffic_NN matrices_NNS over_IN time_NN ._.
+Stream_NNP and_CC Graph_NNP Mining_NNP :_: Data_NNP streams_NNS have_VBP been_VBN extensively_RB studied_VBN in_IN recent_JJ years_NNS ._.
+A_DT recent_JJ surveys_NNS =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP discussed_VBN many_JJ data_NNS streams_NNS algorithms_NNS ._.
+Among_IN them_PRP ,_, Papadimitriou_NNP et_FW al._FW -LRB-_-LRB- 25_CD -RRB-_-RRB- proposes_VBZ an_DT online_JJ algorithm_NN that_WDT summarizes_VBZ the_DT multiple_JJ streams_NNS incrementally_RB ._.
+Our_PRP$ STA_NNP algorithm_NN has_VBZ a_DT similar_JJ fla_NN

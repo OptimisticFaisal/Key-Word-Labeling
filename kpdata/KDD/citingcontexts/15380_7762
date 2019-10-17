@@ -1,0 +1,3 @@
+ion_NN reducing_VBG linear_JJ projection_NN ,_, such_JJ as_IN Singular_JJ Value_NN Decomposition_NN -LRB-_-LRB- SVD_NN -RRB-_-RRB- to_TO generate_VB a_DT reduced_VBN latent_JJ space_NN representation_NN ._.
+Probabilistic_JJ latent_JJ semantic_JJ analysis_NN -LRB-_-LRB- PLSA_NN -RRB-_-RRB- models_NNS ,_, proposed_VBN by_IN Hofmann_NN =_JJ -_: =[_NN 14_CD ,_, 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, provide_VBP a_DT probabilistic_JJ approach_NN for_IN the_DT discovery_NN of_IN latent_JJ variables_NNS which_WDT is_VBZ more_RBR flexible_JJ and_CC has_VBZ a_DT more_RBR solid_JJ statistical_JJ foundation_NN than_IN the_DT standard_JJ LSA_NN ._.
+The_DT basis_NN of_IN PLSA_NN is_VBZ a_DT model_NN often_RB re_VBP

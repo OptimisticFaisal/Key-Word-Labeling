@@ -1,0 +1,4 @@
+e_LS generated_VBN using_VBG the_DT IBM\/Quest_JJS data_NNS generator_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, which_WDT has_VBZ been_VBN widely_RB used_VBN for_IN evaluating_VBG association_NN rule_NN mining_NN algorithms_NNS ._.
+The_DT data_NNS sets_NNS generated_VBN are_VBP then_RB fed_VBN into_IN CBA\/DBII_NN data_NNS mining_NN system_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: to_TO generate_VB association_NN rules_NNS ._.
+Finally_RB ,_, contingency_NN tables_NNS are_VBP constructed_VBN using_VBG Microsoft_NNP Excel_NNP ,_, and_CC the_DT chi-square_JJ statistical_JJ tests_NNS are_VBP conducted_VBN on_IN the_DT association_NN rules_NNS generated_VBN ._.
+The_DT synthetic_NN

@@ -1,0 +1,4 @@
+protein_NN ._.
+3_CD For_IN simplicity_NN ,_, we_PRP assume_VBP that_IN all_DT sources_NNS utilize_VBP the_DT same_JJ proteinid_NN to_TO identify_VB proteins_NNS ._.
+If_IN the_DT available_JJ sources_NNS do_VBP not_RB share_VB common_JJ keys_NNS ,_, we_PRP can_MD use_VB record_NN linkage_NN techniques_NNS ,_, such_JJ as_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, to_TO materialize_VB a_DT source_NN that_WDT provides_VBZ mapping_NN between_IN the_DT keys_NNS of_IN different_JJ sources_NNS ._.
+Transducer_NN Protein_NN DipProtein_NN HSProtein_NN Membrane_NN Protein_NN MMProtein_NN Protein_NN Locations_NNS Protein_NN Protein-Protein_NNP Inte_NNP

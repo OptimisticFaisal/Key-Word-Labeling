@@ -1,0 +1,4 @@
+ng_NN X_NN 's_POS left_JJ child_NN in_IN place_NN of_IN X._NNP Figure_NNP 7_CD :_: The_DT recursive_JJ algorithm_NN for_IN multiple_JJ tree_NN track_NN initiation_NN ._.
+The_DT use_NN of_IN multiple_JJ trees_NNS has_VBZ previously_RB been_VBN explored_VBN for_IN efficiently_RB answering_VBG spatial_JJ queries_NNS =_JJ -_: =[_NN 5_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, this_DT work_NN has_VBZ so_RB far_RB been_VBN restricted_VBN to_TO simple_JJ spatial_JJ proximity_NN queries_NNS on_IN points_NNS ._.
+Hjaltason_NNP and_CC Samet_NNP introduced_VBD a_DT multiple_JJ tree_NN method_NN to_TO efficiently_RB answer_VB spatial_JJ join_VBP queries_NNS in_IN datab_NN

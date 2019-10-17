@@ -1,0 +1,4 @@
+data_NNS mining_NN ,_, Boolean_JJ factorizations_NNS have_VBP found_VBN application_NN in_IN ,_, e.g._FW ,_, finding_VBG roles_NNS for_IN access_NN control_NN -LRB-_-LRB- 33_CD ,_, 36_CD -RRB-_-RRB- ._.
+The_DT Asso_NNP algorithm_NN to_TO solve_VB BMF_NN was_VBD proposed_VBN by_IN Miettinen_NNP et_FW al._FW -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Later_RB ,_, Lu_FW et_FW al._FW =_SYM -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT heuristic_NN based_VBN on_IN a_DT mixedinteger-programming_JJ formulation_NN ._.
+Independently_RB ,_, Belohlavek_NNP and_CC Vychodil_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- gave_VBD an_DT algorithm_NN for_IN computing_VBG the_DT Boolean_JJ rank_NN of_IN a_DT matrix_NN based_VBN on_IN solving_VBG the_DT Set_NN

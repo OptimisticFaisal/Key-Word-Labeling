@@ -1,0 +1,3 @@
+e_LS empirical_JJ Horn_NNP approximation_NN -RRB-_-RRB- can_MD always_RB be_VB computed_VBN ._.
+In_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, the_DT following_NN is_VBZ proved_VBN :_: if_IN deterministic_JJ association_NN rules_NNS are_VBP computed_VBN from_IN data_NNS according_VBG to_TO the_DT published_VBN lattice-theoretic_JJ methods_NNS =_JJ -_: =[_NN 9_CD ,_, 10_CD ,_, 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT rules_NNS obtained_VBN axiomatize_RB exactly_RB the_DT minimal_JJ Horn_NNP upper_JJ bound_VBD of_IN the_DT propositional_JJ theory_NN given_VBN by_IN the_DT data_NNS ._.
+These_DT lattice-theoretic_JJ methods_NNS are_VBP actually_RB described_VBN in_IN terms_NNS of_IN concept_NN lattices_NNS

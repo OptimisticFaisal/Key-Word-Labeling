@@ -1,0 +1,4 @@
+ed_VBN to_TO train_VB the_DT ranking_JJ function_NN ._.
+Previous_JJ work_NN shows_VBZ that_IN learning_VBG to_TO rank_NN has_VBZ certain_JJ advantages_NNS when_WRB compared_VBN with_IN the_DT traditional_JJ approaches_NNS ._.
+Many_JJ methods_NNS have_VBP been_VBN proposed_VBN including_VBG Ranking_JJ SVM_NN =_JJ -_: =[_NN 15_CD ,_, 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, RankBoost_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, RankNet_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, ListNet_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, AdaRank_NN -LRB-_-LRB- 34_CD -RRB-_-RRB- ,_, MHR_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, and_CC FRank_NN -LRB-_-LRB- 31_CD -RRB-_-RRB- ._.
+Existing_VBG technologies_NNS on_IN learning_VBG to_TO rank_VB are_VBP limited_VBN to_TO one_CD setting_NN of_IN ranking_NN ,_, namely_RB ranking_NN based_VBN on_IN content_NN inf_NN

@@ -1,0 +1,5 @@
+ey_NN do_VBP not_RB support_VB learnable_JJ proximity_NN scores_NNS ,_, type_NN containment_NN or_CC selftuning_NN indexes_NNS that_WDT exploit_VBP the_DT query_JJ distribution_NN ._.
+Earlier_JJR IR_NN systems_NNS have_VBP exploited_VBN query_NN skew_VB in_IN index-pruning_JJ -LRB-_-LRB- 9_CD -RRB-_-RRB- and_CC caching_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: to_TO achieve_VB impressive_JJ reduction_NN of_IN IR_NN index_NN sizes_NNS and_CC query_NN times_NNS ,_, but_CC do_VBP not_RB consider_VB queries_NNS involving_VBG a_DT type_NN hierarchy_NN ._.
+2_CD ._.
+SYSTEM_NNP ARCHITECTURE_NNP Figure_NNP 1_CD shows_VBZ our_PRP$ system_NN architecture_NN ._.
+The_DT system_NN in_IN

@@ -1,0 +1,4 @@
+papers_NNS to_TO provide_VB a_DT quantitative_JJ evaluation_NN of_IN the_DT LRT_NNP method_NN by_IN comparing_VBG with_IN citations_NNS ._.
+The_DT first_JJ corpus_NN is_VBZ the_DT full-text_JJ proceedings_NNS of_IN the_DT Neural_NNP Information_NNP Processing_NNP Systems_NNP -LRB-_-LRB- NIPS_NNP -RRB-_-RRB- conference_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: from_IN 1987-2000_CD ,_, with_IN a_DT timestamp_NN of_IN the_DT publication_NN year_NN ._.
+NIPS_NNP has_VBZ 1955_CD documents_NNS ,_, with_IN 74731_CD terms_NNS -LRB-_-LRB- features_NNS -RRB-_-RRB- ._.
+We_PRP manually_RB constructed_VBD the_DT graph_NN of_IN 1512_CD intra-corpus_JJ citations_NNS ,_, but_CC only_RB compare_VB to_TO c_NN

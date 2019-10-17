@@ -1,0 +1,4 @@
+from_IN the_DT training_NN set_NN of_IN labeled_JJ documents_NNS -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+In_IN our_PRP$ work_NN ,_, we_PRP use_VBP naive_JJ Bayes_NNS as_IN our_PRP$ classification_NN approach_NN as_IN it_PRP is_VBZ among_IN the_DT most_RBS successful_JJ known_JJ algorithms_NNS for_IN learning_VBG in_IN text_NN categorization_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+System_NN log_NN files_NNS usually_RB have_VBP a_DT large_JJ size_NN of_IN vocabulary_NN and_CC most_JJS of_IN the_DT system_NN log_NN messages_NNS contain_VBP a_DT freeformat_NN 1024-byte_JJ ASCII_NN description_NN of_IN the_DT event_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Basically_RB Naive_JJ Bayes_NNP assumes_VBZ that_IN th_DT

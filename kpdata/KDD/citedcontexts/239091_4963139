@@ -1,0 +1,4 @@
+grants_VBZ NSFC_NNP 60375022_NNP and_CC NSFC_NNP 60473040.sClass-incremental_JJ learning_NN -LRB-_-LRB- C-IL_NN -RRB-_-RRB- ;_: and_CC Attribute-incremental_JJ learning_NN -LRB-_-LRB- A-IL_NN -RRB-_-RRB- ._.
+However_RB ,_, C-IL_NN and_CC A-IL_NN have_VBP not_RB been_VBN received_VBN much_JJ attention_NN so_RB far_RB ._.
+Syed_VBN et_FW al._FW =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: introduced_VBD two_CD types_NNS of_IN incremental_JJ learning_NN methdos_NNS :_: instance_NN learning_NN ,_, which_WDT uses_VBZ one_CD example_NN at_IN a_DT time_NN ,_, and_CC block_NN by_IN block_NN learning_NN ,_, which_WDT uses_VBZ a_DT suitable-size_JJ subset_NN of_IN samples_NNS at_IN a_DT time_NN ._.
+Polikar_NN

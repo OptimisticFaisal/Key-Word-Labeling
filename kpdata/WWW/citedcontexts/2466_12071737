@@ -1,0 +1,6 @@
+s_VBZ the_DT first_JJ aerologist_NN in_IN USA_NNP ?_. '_''
+type_NN of_IN answer_NN will_MD be_VB '_'' a_DT person_NN '_'' ._.
+But_CC if_IN a_DT question_NN is_VBZ asked_VBN with_IN `_`` What_WP '_'' ,_, exact_JJ type_NN of_IN answer_NN is_VBZ not_RB specified_VBN ._.
+Because_IN the_DT answer_NN may_MD be_VB definition_NN ,_, number_NN or_CC title_NN ._.
+=_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: For_IN correct_JJ answer_NN extraction_NN ,_, some_DT patterns_NNS should_MD be_VB defined_VBN for_IN system_NN to_TO find_VB exact_JJ type_NN of_IN answer_NN and_CC then_RB sends_VBZ to_TO document_VB processing_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- -LRB-_-LRB- 5_CD -RRB-_-RRB- B._NNP Reformulation_NNP component_NN Question_NN reformulation_NN -LRB-_-LRB-

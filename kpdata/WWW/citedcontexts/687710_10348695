@@ -1,0 +1,4 @@
+ing_NN from_IN chemometrics_NNS -LRB-_-LRB- 27_CD -RRB-_-RRB- to_TO image_NN analysis_NN -LRB-_-LRB- 32_CD -RRB-_-RRB- ._.
+Recently_RB ,_, they_PRP have_VBP been_VBN applied_VBN to_TO data-centric_JJ problems_NNS including_VBG analysis_NN of_IN click-through_JJ data_NNS ,_, using_VBG an_DT alternate_JJ decomposition_NN known_VBN as_IN Tucker_NNP =_SYM -_: =[_NN 28_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC chatroom_NN analysis_NN comparing_VBG different_JJ tensor_NN decompositions_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+Tao_NNP et_FW al._FW -LRB-_-LRB- 29_CD -RRB-_-RRB- do_VBP supervised_VBN learning_VBG on_IN a_DT low-rank_JJ PARAFAC-like_JJ decomposition_NN of_IN their_PRP$ data_NNS ._.
+Liu_NNP et_FW al._FW -LRB-_-LRB- 24_CD -RRB-_-RRB- consider_VBP a_DT Tucker_NNP

@@ -1,0 +1,4 @@
+._.
+More_RBR specifically_RB ,_, co-clustering_NN looks_VBZ to_TO simultaneously_RB cluster_VB instance_NN rows_NNS and_CC feature_NN columns_NNS by_IN iteratively_RB transferring_VBG knowledge_NN from_IN the_DT rows_NNS to_TO the_DT columns_NNS -LRB-_-LRB- and_CC vice-versa_NN -RRB-_-RRB- ._.
+Cross-training_NN =_SYM -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: exploits_VBZ mappings_NNS between_IN classes_NNS across_IN related_JJ but_CC non-identical_JJ classification_NN tasks_NNS to_TO overcome_VB lack_NN of_IN training_NN data_NNS in_IN any_DT individual_JJ task_NN ._.
+Multi-task_JJ learning_NN aims_VBZ to_TO improve_VB generalization_NN fo_NN

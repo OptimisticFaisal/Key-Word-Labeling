@@ -1,0 +1,3 @@
+for_IN a_DT 7-day_JJ outbreak_NN ._.
+The_DT tradeoff_NN between_IN the_DT false_JJ positive_JJ rate_NN and_CC average_JJ days_NNS to_TO detection_NN for_IN a_DT given_VBN method_NN can_MD be_VB visualized_VBN as_IN an_DT Activity_NNP Monitoring_NN Operating_NNP Characteristic_NNP -LRB-_-LRB- AMOC_NNP -RRB-_-RRB- curve_NN -LRB-_-LRB- =_JJ -_: =_JJ Fawcett_NNP &_CC Provost_NNP ,_, 1999_CD -_: =--RRB-_NN ,_, or_CC we_PRP can_MD compare_VB detection_NN times_NNS for_IN a_DT fixed_JJ false_JJ positive_JJ rate_NN such_JJ as_IN 1_CD false_JJ positive_NN per_IN month_NN ._.
+In_IN either_DT case_NN ,_, a_DT lower_JJR detection_NN time_NN for_IN a_DT given_VBN false_JJ positive_JJ rate_NN corresponds_VBZ to_TO improved_VBN

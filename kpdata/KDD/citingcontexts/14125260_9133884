@@ -1,0 +1,5 @@
+column_NN j_NN of_IN matrix_NN A_NN ,_, respectively_RB ._.
+Many_JJ loss_NN functions_NNS used_VBN in_IN practice_NN --_: such_JJ as_IN squared_VBN loss_NN ,_, generalized_VBN Kullback-Leibler_NN divergence_NN -LRB-_-LRB- GKL_NN -RRB-_-RRB- ,_, and_CC Lp_NN regularization_NN --_: can_MD be_VB decomposed_VBN in_IN such_JJ a_DT manner_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Note_VB that_IN a_DT given_VBN loss_NN function_NN L_NN can_MD potentially_RB be_VB decomposed_VBN in_IN multiple_JJ ways_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP focus_VBP primarily_RB on_IN the_DT class_NN of_IN nonzero_NN decompositions_NNS ,_, in_IN which_WDT Z_NN =_JJ -LCB-_-LRB- -LRB-_-LRB- i_LS ,_, j_NN -RRB-_-RRB- :_: V_NN ij_FW ̸_FW =_JJ 0_CD -RCB-_-RRB- ._.
+As_IN me_PRP

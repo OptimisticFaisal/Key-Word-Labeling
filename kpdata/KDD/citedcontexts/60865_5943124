@@ -1,0 +1,5 @@
+as_IN its_PRP$ label_NN ._.
+Three_CD different_JJ training_NN approaches_NNS were_VBD employed_VBN ,_, based_VBN on_IN support_NN vector_NN machines_NNS ._.
+The_DT SV_NN M_NN light_JJ implementation_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- was_VBD used_VBN for_IN this_DT task_NN ._.
+•_NNP Ranking_NNP SVM_NNP :_: The_DT goal_NN of_IN a_DT ranking_JJ SVM_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ to_TO learn_VB a_DT function_NN from_IN preference_NN examples_NNS ,_, so_IN that_IN it_PRP orders_VBZ a_DT new_JJ set_NN of_IN examples_NNS as_RB accurately_RB as_IN possible_JJ ._.
+Such_JJ ranking_NN problems_NNS naturally_RB occur_VBP in_IN applications_NNS like_IN search_NN engines_NNS andsrecom_NN

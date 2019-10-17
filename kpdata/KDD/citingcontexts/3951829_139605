@@ -1,0 +1,3 @@
+e_LS series_NN :_: the_DT discovery_NN of_IN time_NN series_NN windows_NNS having_VBG high_JJ Pearson_NNP correlations_NNS ._.
+We_PRP call_VBP this_DT problem_NN windowed_VBD correlation_NN ._.
+In_IN contrast_NN to_TO the_DT considerable_JJ recent_JJ body_NN of_IN work_NN on_IN massive_JJ data_NNS streams_NNS =_JJ -_: =[_NN 31_CD ,_, 32_CD ,_, 33_CD -RRB-_-RRB- -_: =_SYM -_: where_WRB the_DT assumption_NN is_VBZ that_IN data_NNS can_MD be_VB read_VBN once_RB and_CC is_VBZ not_RB stored_VBN ,_, we_PRP assume_VBP an_DT initial_JJ filtering_VBG step_NN must_MD be_VB completed_VBN in_IN one_CD pass_NN ,_, but_CC a_DT second_JJ pass_NN may_MD search_VB for_IN data_NNS in_IN a_DT well-organized_JJ and_CC

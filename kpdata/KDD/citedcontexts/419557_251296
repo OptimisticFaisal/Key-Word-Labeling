@@ -1,0 +1,4 @@
+non-Markovian_JJ --_: i.e._FW ,_, the_DT distance-based_JJ segment_NN features_NNS can_MD not_RB be_VB decomposed_VBN into_IN sums_NNS of_IN local_JJ features_NNS ._.
+More_JJR detail_NN on_IN the_DT distance_NN metrics_NNS ,_, feature_NN sets_NNS ,_, and_CC datasets_NNS above_IN can_MD be_VB found_VBN elsewher_NN =_JJ -_: =_JJ e_LS -LRB-_-LRB- 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP also_RB extended_VBD the_DT semi-CRF_JJ algorithm_NN to_TO construct_NN ,_, on_IN the_DT fly_NN ,_, an_DT internal_JJ segment_NN dictionary_NN of_IN segments_NNS labeled_VBN as_IN entities_NNS in_IN the_DT training_NN data_NNS ._.
+To_TO make_VB measurements_NNS on_IN training_NN data_NNS similar_JJ t_NN

@@ -1,0 +1,5 @@
+presented_VBN in_IN Section_NN 6_CD and_CC 7_CD ,_, respectively_RB ._.
+Finally_RB ,_, Section_NNP 8_CD will_MD conclude_VB the_DT paper_NN with_IN discussions_NNS of_IN some_DT possible_JJ future_JJ work_NN ._.
+2_CD Related_NNP Work_NNP 2.1_CD Markov_NNP Chains_NNP Finite_NNP mixtures_NNS of_IN Markov_NNP chains_NNS =_JJ -_: =[_NN 23_CD ,_, 29_CD ,_, 5_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN proposed_VBN for_IN clustering_NN time_NN series_NN ._.
+The_DT expectation-maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- algorithm_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- is_VBZ used_VBN to_TO learn_VB the_DT mixing_VBG coefficients_NNS as_RB well_RB as_IN the_DT parameters_NNS of_IN the_DT component_NN models_NNS ._.
+The_DT number_NN o_NN

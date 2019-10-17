@@ -1,0 +1,4 @@
+gorithm_NN CMFreeTreeMiner_NN ._.
+CMFreeTreeMiner_NN employs_VBZ the_DT canonical_JJ form_NN presented_VBN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, a_DT depth-first\/breadth-first_JJ enumeration_NN method_NN which_WDT is_VBZ similar_JJ to_TO that_DT employed_VBN in_IN a_DT frequent_JJ graph_NN miner_NN Gaston_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC the_DT pruning_NN techniques_NNS based_VBN on_IN the_DT occurrence-match_JJ -LRB-_-LRB- 7_CD ,_, 3_CD -RRB-_-RRB- ._.
+s_NN •_CD position_NN 4_CD :_: similar_JJ to_TO position_NN 3_CD ._.
+•_NN position_NN 5_CD :_: Let_VB qr_RB be_VB a_DT first_JJ node_NN on_IN the_DT spine_NN in_IN the_DT path_NN from_IN v_LS to_TO r._VB Similar_JJ to_TO position_NN

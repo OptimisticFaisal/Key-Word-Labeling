@@ -1,0 +1,4 @@
+s_NN while_IN the_DT semantic-based_JJ similarity_NN values_NNS are_VBP computed_VBN from_IN the_DT structure_NN of_IN the_DT dual_JJ graph_NN ._.
+We_PRP shall_MD elaborate_VB on_IN these_DT two_CD metrics_NNS in_IN Section_NN 4_CD ._.
+Based_VBN on_IN the_DT state-of-the-art_JJ graph_NN cut_NN algorithm_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT two_CD similarity_NN measures_NNS ,_, a_DT two-phase_JJ graph_NN cut_NN algorithm_NN is_VBZ proposed_VBN to_TO partition_NN the_DT dual_JJ graph_NN ._.
+Firstly_RB ,_, the_DT dual_JJ graph_NN is_VBZ cut_VBN into_IN subgraphs_NNS that_WDT correspond_VBP to_TO groups_NNS of_IN semantically_RB relat_NN

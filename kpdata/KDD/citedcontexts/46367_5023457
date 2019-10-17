@@ -1,0 +1,3 @@
+program_NN to_TO both_CC normal_JJ connection_NN data_NNS and_CC intrusion_NN data_NNS ,_, then_RB compare_VB the_DT resulting_VBG patterns_NNS to_TO find_VB the_DT ``_`` intrusion_NN only_RB ''_'' patterns_NNS ._.
+The_DT details_NNS of_IN the_DT pattern_NN comparison_NN algorithm_NN is_VBZ described_VBN in_IN -LRB-_-LRB- =_JJ -_: =_JJ Lee_NNP et_FW al._FW ,_, 1999_CD -_: =--RRB-_NN ._.
+Briefly_RB ,_, since_IN the_DT number_NN of_IN patterns_NNS may_MD be_VB very_RB large_JJ and_CC there_EX are_VBP rarely_RB exactly_RB matched_VBN patterns_NNS from_IN two_CD data_NNS sets_NNS ,_, this_DT algorithm_NN uses_VBZ a_DT heuristic_NN ,_, in_IN the_DT form_NN of_IN domain-specific_JJ ``_`` order_NN of_IN i_FW

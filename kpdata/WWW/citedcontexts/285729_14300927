@@ -1,0 +1,5 @@
+a_DT stable_JJ assignment_NN of_IN page_NN importance_NN is_VBZ obtained_VBN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- used_VBD a_DT bipartite_JJ graph_NN to_TO model_VB the_DT process_NN of_IN news_NN generation_NN and_CC built_VBD a_DT model_NN to_TO rank_VB the_DT news_NN articles_NNS and_CC the_DT sources_NNS that_WDT generate_VBP them_PRP ._.
+=_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: used_VBD a_DT set_NN of_IN biased_VBN initial_JJ restart_VB probability_NN vectors_NNS in_IN computing_VBG PageRank_NNP ._.
+They_PRP attempted_VBD to_TO capture_VB a_DT more_RBR accurate_JJ importance_NN score_NN with_IN respect_NN to_TO a_DT particular_JJ topic_NN ._.
+In_IN order_NN to_TO consider_VB ind_NN

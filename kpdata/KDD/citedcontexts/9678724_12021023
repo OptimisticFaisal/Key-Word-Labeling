@@ -1,0 +1,6 @@
+ect_NN to_TO quality_NN ._.
+both_CC parallel_NN and_CC serial_NN achieve_VBP very_RB small_JJ error_NN and_CC are_VBP similar_JJ to_TO each_DT other_JJ ._.
+Note_VB the_DT reconstruction_NN by_IN CAS_NN is_VBZ very_RB close_JJ to_TO that_DT by_IN sequential_JJ EM_NN algorithm_NN ._.
+More_JJR discussion_NN is_VBZ in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+V._NNP CONCLUSION_NN AND_CC FUTURE_NN WORK_VBP In_IN this_DT paper_NN ,_, we_PRP present_VBP fast_JJ algorithms_NNS on_IN mining_NN coevolving_VBG time_NN series_NN ,_, with_IN or_CC without_IN missing_VBG values_NNS ._.
+Our_PRP$ algorithms_NNS could_MD mine_VB meaningful_JJ patterns_NNS effectively_RB an_DT

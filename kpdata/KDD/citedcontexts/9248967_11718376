@@ -1,0 +1,4 @@
+form_NN -LRB-_-LRB- 2.1_CD -RRB-_-RRB- ._.
+Via_NNP the_DT methods_NNS of_IN Rudelson_NNP and_CC Vershynin_NNP -LRB-_-LRB- 116_CD -RRB-_-RRB- ,_, they_PRP showed_VBD that_IN sampling_NN columns_NNS according_VBG to_TO their_PRP$ leverage_NN scores_NNS is_VBZ likely_JJ to_TO produce_VB the_DT required_JJ submatrix_NN -LRB-_-LRB- 50,51_CD -RRB-_-RRB- ._.
+Subsequent_JJ work_NN =_JJ -_: =[_NN 17,18_CD -RRB-_-RRB- -_: =_JJ -_: showed_VBD that_IN postprocessing_VBG the_DT sampled_VBN columns_NNS with_IN a_DT rank-revealing_JJ QR_NN algorithm_NN can_MD reduce_VB the_DT number_NN of_IN output_NN columns_NNS required_VBN -LRB-_-LRB- 2.1_CD -RRB-_-RRB- ._.
+The_DT argument_NN in_IN -LRB-_-LRB- 17_CD -RRB-_-RRB- explicitly_RB decouples_VBZ the_DT linear_JJ algebrai_NNS

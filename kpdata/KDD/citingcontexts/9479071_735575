@@ -1,0 +1,4 @@
+at_IN a_DT network_NN need_NN to_TO be_VB undirected_JJ and\/or_CC unweighted_JJ ._.
+This_DT has_VBZ not_RB been_VBN imposed_VBN on_IN the_DT definition_NN and_CC computation_NN of_IN betweenness_NN centrality_NN ._.
+Betweenness_NN measures_VBZ the_DT degree_NN of_IN brokerage_NN -LRB-_-LRB- or_CC mediation_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =--RRB-_NN for_IN each_DT node_NN in_IN the_DT graph_NN ,_, meaning_VBG that_IN it_PRP measures_VBZ how_WRB much_JJ information_NN is_VBZ propagated_VBN through_IN each_DT node_NN ._.
+In_IN graph-based_JJ semi-supervised_JJ learning_NN ,_, we_PRP often_RB propagate_VBP label_NN information_NN through_IN the_DT n_NN

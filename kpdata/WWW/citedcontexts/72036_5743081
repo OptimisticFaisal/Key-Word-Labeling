@@ -1,0 +1,5 @@
+al_FW effort_NN is_VBZ tedious_JJ ,_, boring_JJ ,_, error-prone_JJ and_CC requires_VBZ a_DT high_JJ level_NN of_IN expertise_NN ._.
+Recently_RB ,_, several_JJ wrapper_NN learning_NN approaches_NNS are_VBP proposed_VBN for_IN automatically_RB learning_VBG wrappers_NNS from_IN training_NN examples_NNS =_JJ -_: =[_NN 2_CD ,_, 4_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Wrapper_NN learning_NN systems_NNS significantly_RB reduce_VB the_DT amount_NN of_IN human_JJ effort_NN in_IN constructing_VBG wrappers_NNS ._.
+Consider_VB a_DT Web_NN page_NN shown_VBN in_IN Figure_NNP 1_CD collected_VBN from_IN a_DT Web_NN site_NN under_IN the_DT book_NN domain_NN 1_CD ._.
+To_TO learn_VB

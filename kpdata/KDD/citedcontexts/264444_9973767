@@ -1,0 +1,4 @@
+umber_NN obtained_VBD using_VBG these_DT statistics_NNS to_TO guide_VB selection_NN ._. -RRB-_-RRB-
+We_PRP evaluate_VBP how_WRB varying_VBG δ_NN affects_VBZ the_DT cost_NN of_IN anonymizing_VBG the_DT dataset_NN -LRB-_-LRB- w.r.t._NN utility_NN of_IN the_DT dataset_NN -RRB-_-RRB- ,_, as_IN determined_VBN by_IN the_DT Loss_NN Metric_NNP -LRB-_-LRB- LM_NNP -RRB-_-RRB- =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT Discernibility_NNP Metric_NNP -LRB-_-LRB- DM_NN -RRB-_-RRB- -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+We_PRP only_RB present_VBP results_NNS on_IN LM_NNP since_IN the_DT DM_NN results_NNS were_VBD almost_RB identical_JJ ._.
+The_DT LM_NNP cost_NN for_IN a_DT given_VBN generalized_JJ data_NNS value_NN v_LS ∗_CD from_IN an_DT atomic_JJ domain_NN of_IN size_NN |_NN A_NN |_NN

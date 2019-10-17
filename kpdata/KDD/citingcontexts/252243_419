@@ -1,0 +1,4 @@
+the_DT theme_NN word_NN distributions_NNS and_CC a_DT background_NN word_NN distribution_NN ._.
+Words_NNS in_IN the_DT same_JJ document_NN share_VBP the_DT same_JJ mixing_VBG weights_NNS ._.
+The_DT model_NN can_MD be_VB estimated_VBN using_VBG the_DT Expectation_NN Maximization_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- algorithm_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: to_TO obtain_VB the_DT theme_NN word_NN distributions_NNS ._.
+Specifically_RB ,_, let_VB θ1_NN ,_, ..._: ,_, θk_NN be_VB k_NN theme_NN unigram_JJ language_NN models_NNS -LRB-_-LRB- i.e._FW ,_, word_NN distributions_NNS -RRB-_-RRB- and_CC θB_NN be_VB a_DT background_NN model_NN for_IN the_DT whole_JJ collection_NN C._NN A_NN document_NN

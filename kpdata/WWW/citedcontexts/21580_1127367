@@ -1,0 +1,4 @@
+cus_NN is_VBZ on_IN the_DT N3-like_JJ statements_NNS introduced_VBN in_IN the_DT usual_JJ L_NN ATEX_NN commands_NNS and_CC on_IN the_DT commands_NNS pointing_VBG to_TO the_DT rhetorical_JJ structure_NN of_IN the_DT document_NN ._.
+Using_VBG the_DT Syntax_NNP Analyzer_NNP in_IN combination_NN with_IN Jena_NNP 's_POS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: N3_NN to_TO RDF_NNP transformer_NN ,_, the_DT result_NN of_IN this_DT step_NN is_VBZ the_DT creation_NN of_IN the_DT appropriate_JJ instances_NNS of_IN the_DT ontologies_NNS ,_, in_IN RDF_NNP format_NN ._.
+Final_JJ PDF_NN document_NN compilation_NN ._.
+This_DT final_JJ step_NN has_VBZ as_IN input_NN the_DT L_NN ATEX_FW i_FW

@@ -1,0 +1,5 @@
+n_NN be_VB seen_VBN as_IN a_DT form_NN of_IN lossy_JJ database_NN compression_NN ._.
+A_DT significant_JJ body_NN of_IN recent_JJ work_NN in_IN the_DT database_NN literature_NN has_VBZ examined_VBN methods_NNS for_IN the_DT lossy_JJ compression_NN of_IN databases_NNS ,_, and_CC especially_RB data_NNS cubes_NNS -LRB-_-LRB- =_JJ -_: =_JJ Barbara_NNP 1997_CD -_: =--RRB-_NN ._.
+However_RB ,_, data_NN squashing_NN has_VBZ a_DT somewhat_RB different_JJ goal_NN ._.
+Lossy_NNP data_NNS cube_NN compression_NN can_MD be_VB judged_VBN acceptable_JJ if_IN aggregate_JJ queries_NNS over_IN ranges_NNS of_IN the_DT data_NNS cube_NN have_VBP a_DT small_JJ error_NN ._.
+Data_NNS squashing_VBG is_VBZ a_DT

@@ -1,0 +1,5 @@
+nnects_NNS from_IN the_DT FTP_NNP server_NN ._.
+This_DT is_VBZ a_DT bug_NN as_IN the_DT corresponding_JJ CVS_NN scenarios_NNS -LRB-_-LRB- e.g._FW ,_, file_NN upload_NN ,_, deletion_NN ,_, etc._NN -RRB-_-RRB- are_VBP not_RB performed_VBN atomically_RB and_CC some_DT method_NN calls_NNS are_VBP omitted_VBN ._.
+It_PRP has_VBZ been_VBN studied_VBN in_IN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: that_IN programmers_NNS often_RB make_VBP mistakes_NNS on_IN the_DT exceptional_JJ control_NN flow_NN path_NN ,_, i.e._FW ,_, those_DT involving_VBG error_NN handler_NN like_IN try_NN ..._: catch_NN ..._: finally_RB ._.
+X11_NN Windowing_NNP Protocol_NNP ._.
+Next_RB ,_, we_PRP experimented_VBD with_IN a_DT model_NN d_NN

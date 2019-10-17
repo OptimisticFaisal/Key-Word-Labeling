@@ -1,0 +1,4 @@
+inding_VBG the_DT most_RBS influential_JJ vertices_NNS may_MD help_VB to_TO devise_VB effective_JJ control_NN strategies_NNS ._.
+Maximising_VBG influence_NN is_VBZ a_DT NP-hard_JJ combinatorial_JJ optimisation_NN and_CC was_VBD first_RB proposed_VBN by_IN Domingos_NNP and_CC Richardson_NNP in_IN =_JJ -_: =[_NN 2_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP solve_VBP the_DT more_RBR general_JJ case_NN in_IN which_WDT activations_NNS are_VBP given_VBN by_IN real_JJ numbers_NNS and_CC there_EX is_VBZ a_DT varying_VBG cost_NN of_IN activating_VBG each_DT vertex_NN at_IN the_DT start_NN of_IN the_DT process_NN ._.
+Such_JJ a_DT setup_NN has_VBZ applications_NNS in_IN word_NN

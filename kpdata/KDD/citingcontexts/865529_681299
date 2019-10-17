@@ -1,0 +1,3 @@
+om_NN over_IN 3,200_CD different_JJ universities_NNS ;_: coordinating_VBG such_PDT a_DT system_NN among_IN a_DT large_JJ number_NN of_IN sites_NNS can_MD be_VB very_RB difficult_JJ ._.
+Gan_NNP ,_, Chen_NNP ,_, and_CC Suel_NNP propose_VBP a_DT method_NN for_IN estimating_VBG the_DT PageRank_NN of_IN a_DT single_JJ page_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT uses_VBZ only_RB constant_JJ bandwidth_NN ,_, computation_NN ,_, and_CC space_NN ._.
+Their_PRP$ approach_NN relies_VBZ on_IN the_DT availability_NN of_IN a_DT remote_JJ connectivity_NN server_NN that_WDT can_MD supply_VB the_DT set_NN of_IN inlinks_NNS to_TO a_DT given_VBN page_NN ,_, an_DT assumption_NN

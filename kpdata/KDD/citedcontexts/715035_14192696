@@ -1,0 +1,7 @@
+aset_NN ._.
+Standard_JJ clustering_NN algorithms_NNS can_MD be_VB applied_VBN over_IN this_DT summary_NN dataset_NN ._.
+Final_JJ clustering_NN is_VBZ obtained_VBN by_IN mapping_VBG the_DT representatives_NNS to_TO the_DT original_JJ set_NN of_IN points_NNS ._.
+This_DT approach_NN is_VBZ taken_VBN by_IN CSM_NN =_JJ -_: =[_NN 75_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Another_DT approach_NN is_VBZ to_TO ``_`` intelligently_RB ''_'' reduce_VB the_DT dataset_NN size_NN ._.
+With_IN a_DT significantly_RB smaller_JJR dataset_NN ,_, even_RB computationally_RB expensive_JJ algorithms_NNS can_MD be_VB applied_VBN ._.
+Reducing_VBG the_DT dataset_NN size_NN in_IN a_DT princip_NN

@@ -1,0 +1,3 @@
+ta_NN for_IN improving_VBG the_DT prediction_NN accuracy_NN ,_, using_VBG multi-relational_JJ matrix_NN factorization_NN -LRB-_-LRB- MRMF_NN -RRB-_-RRB- and_CC a_DT weighted_JJ MRMF_NN ._.
+This_DT approach_NN has_VBZ shown_VBN to_TO be_VB successful_JJ in_IN recommender_NN systems_NNS -LRB-_-LRB- Lippert_NNP et_FW al._FW 2008_CD ;_: =_JJ -_: =_JJ Singh_NNP and_CC Gordon_NNP 2008_CD -_: =-]_CD ,_, however_RB ,_, using_VBG it_PRP in_IN educational_JJ data_NNS mining_NN ,_, especially_RB in_IN predicting_VBG student_NN performance_NN is_VBZ still_RB a_DT new_JJ topic_NN ._.
+Our_PRP$ main_JJ contributions_NNS are_VBP summarized_VBN as_IN the_DT following_NN :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- We_PRP propose_VBP a_DT new_JJ approac_NN

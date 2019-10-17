@@ -1,0 +1,5 @@
+Also_RB ,_, the_DT clustering_NN will_MD be_VB negatively_RB impacted_VBN by_IN overlapping_VBG dependent_JJ variables_NNS ._.
+3.1.2_CD Fung_NNP et_FW al._FW ._.
+Fung_NNP et_FW al._FW extract_NN non-overlapping_JJ rules_NNS by_IN constructing_VBG hypercubes_NNS with_IN axis-parallel_JJ surfaces_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT approach_NN is_VBZ similar_JJ to_TO the_DT one_CD discussed_VBN previously_RB ,_, but_CC requires_VBZ no_DT computationally_RB expensive_JJ clustering_NN ._.
+Instead_RB ,_, the_DT algorithm_NN transforms_VBZ the_DT problem_NN to_TO a_DT simpler_JJR ,_, equivalent_JJ variant_NN and_CC con_NN

@@ -1,0 +1,3 @@
+for_IN a_DT sufficiently_RB large_JJ number_NN of_IN datasets_NNS what_WP their_PRP$ true_JJ optimum_NN under_IN given_VBN constraints_NNS is_VBZ ._.
+This_DT would_MD allow_VB us_PRP to_TO gain_VB deeper_JJR insight_NN in_IN the_DT predictive_JJ behavior_NN of_IN decision_NN trees_NNS ._.
+For_IN instance_NN ,_, =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: reported_VBD that_IN for_IN small_JJ ,_, mostly_RB artificial_JJ datasets_NNS ,_, small_JJ decision_NN trees_NNS are_VBP not_RB always_RB preferable_JJ in_IN terms_NNS of_IN generalization_NN ability_NN ,_, while_IN -LRB-_-LRB- 29_CD -RRB-_-RRB- showed_VBD that_IN when_WRB learning_VBG rules_NNS ,_, exhaustive_JJ searchin_NN

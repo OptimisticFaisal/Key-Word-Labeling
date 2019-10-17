@@ -1,0 +1,4 @@
+easing_VBG interest_NN ._.
+Parthasarathy_NNP et_FW al._FW -LRB-_-LRB- 2_CD -RRB-_-RRB- develop_VBP parallel_JJ algorithms_NNS for_IN mining_NN terabytes_NNS of_IN data_NNS for_IN frequent_JJ itemsets_NNS ,_, demonstrating_VBG a_DT near-linear_JJ scale-up_NN on_IN up_IN to_TO 48_CD nodes_NNS ._.
+Reinhardt_NN and_CC Karypis_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: used_VBN OpenMP_NN to_TO parallelize_VB the_DT discovery_NN of_IN frequent_JJ patterns_NNS in_IN large_JJ graphs_NNS ,_, showing_VBG excellent_JJ speedup_NN of_IN up_IN to_TO 30_CD processors_NNS ._.
+Cong_NNP et_FW al._FW -LRB-_-LRB- 7_CD -RRB-_-RRB- develop_VBP the_DT Par-CSP_JJ algorithm_NN that_WDT detects_VBZ closed_JJ sequ_NN

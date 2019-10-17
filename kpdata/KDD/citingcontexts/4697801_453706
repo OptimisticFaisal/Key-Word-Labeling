@@ -1,0 +1,5 @@
+rder_JJR Taylor_NNP expansions_NNS ._.
+We_PRP did_VBD not_RB find_VB any_DT method_NN in_IN the_DT the_DT literature_NN that_WDT associates_VBZ different_JJ bandwidth_NN for_IN each_DT kernel_NN for_IN more_JJR than_IN three_CD dimensional_JJ datasets_NNS ._.
+The_DT method_NN proposed_VBN by_IN Comaniciu_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: allows_VBZ for_IN variable_JJ bandwidth_NN but_CC assumes_VBZ that_IN the_DT range_NN of_IN data_NNS scales_NNS is_VBZ known_VBN and_CC chooses_VBZ the_DT bandwidth_NN that_WDT is_VBZ the_DT most_RBS stable_JJ across_IN scales_NNS for_IN each_DT data_NN point_NN ._.
+8_CD ._.
+CONCLUSION_NN We_PRP have_VBP described_VBN a_DT

@@ -1,0 +1,5 @@
+uality_NN of_IN HMM_NN was_VBD better_JJR than_IN that_DT of_IN Persist_NN without_IN noise_NN ,_, but_CC degraded_VBD rapidly_RB when_WRB outliers_NNS were_VBD added_VBN ._.
+HMM_NN models_NNS are_VBP also_RB harder_JJR to_TO interpret_VB than_IN the_DT result_NN of_IN binning_VBG methods_NNS like_IN Persist_NNP ._.
+In_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: EM_NN like_IN algorithms_NNS for_IN the_DT discovery_NN of_IN recurring_VBG states_NNS in_IN time_NN series_NN are_VBP presented_VBN ._.
+An_DT initial_JJ guess_NN of_IN the_DT number_NN of_IN segments_NNS is_VBZ required_VBN ,_, however_RB ._.
+This_DT will_MD be_VB very_RB difficult_JJ for_IN long_JJ time_NN serie_NN

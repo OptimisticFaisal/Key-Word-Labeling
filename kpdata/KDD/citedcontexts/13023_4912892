@@ -1,0 +1,3 @@
+RELATED_NNS WORK_VBP There_EX has_VBZ been_VBN a_DT significant_JJ amount_NN of_IN prior_JJ work_NN in_IN both_DT data_NNS mining_NN and_CC statistics_NNS on_IN finding_VBG surprising_JJ patterns_NNS ,_, outliers_NNS ,_, and_CC change_NN --_: points_NNS in_IN time_NN series_NN ._.
+For_IN example_NN ,_, Keogh_NNP et_FW al._FW =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: described_VBD a_DT technique_NN that_WDT represents_VBZ a_DT realvalued_JJ time-series_NNS by_IN quantizing_VBG into_IN it_PRP a_DT finite_JJ set_NN of_IN symbols_NNS and_CC then_RB uses_VBZ a_DT Markov_NNP model_NN to_TO detect_VB surprising_JJ patterns_NNS in_IN the_DT symbol_NN sequence_NN ._.
+Guralni_NNP

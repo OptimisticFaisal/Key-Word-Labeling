@@ -1,0 +1,5 @@
+Script_NN code_NN that_WDT might_MD be_VB embedded_VBN to_TO that_DT page_NN ._.
+Attacks_NNS of_IN this_DT type_NN are_VBP called_VBN Man-In-The-Middle_NNP -LRB-_-LRB- MITM_NNP -RRB-_-RRB- attacks_NNS ._.
+Even_RB protection_NN on_IN the_DT HTTP_NN layer_NN is_VBZ not_RB always_RB enough_RB ._.
+It_PRP can_MD be_VB ineffective_JJ itself_PRP =_JJ -_: =[_NN 35_CD -RRB-_-RRB- -_: =_JJ -_: and_CC it_PRP can_MD be_VB only_RB used_VBN to_TO guarantee_VB transport_NN layer_NN security_NN ._.
+It_PRP is_VBZ not_RB suitable_JJ for_IN ensuring_VBG application_NN layer_NN integrity_NN -LRB-_-LRB- i.e._FW ,_, has_VBZ the_DT embedded_JJ JavaScript_NNP code_NN changed_VBD after_IN the_DT trusted_VBN author_NN wro_NN

@@ -1,0 +1,4 @@
+imally_RB ''_'' describes_VBZ the_DT training_NN data_NNS are_VBP generated_VBN and_CC their_PRP$ p_NN =_JJ P_NN -LRB-_-LRB- ¬_CD C_NN |_NN A_NN -RRB-_-RRB- is_VBZ estimated_VBN ,_, where_WRB C_NN ,_, though_IN expected_VBN ,_, is_VBZ not_RB observed_VBN when_WRB A_NN is_VBZ observed_VBN ._.
+An_DT estimate_NN for_IN novel_JJ events_NNS from_IN data_NNS compression_NN =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ used_VBN :_: p_NN =_JJ P_NN -LRB-_-LRB- NovelEvent_NN -RRB-_-RRB- =_JJ r_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- n_NN where_WRB n_NN is_VBZ the_DT total_JJ number_NN of_IN observed_VBN events_NNS and_CC r_NN is_VBZ the_DT number_NN of_IN unique_JJ observed_JJ events_NNS ._.
+A_DT sample_NN network_NN anomaly_NN rule_NN for_IN LERAD_NN is_VBZ :_: SrcIp_NN =_JJ 128.1.2.3_CD D_NN

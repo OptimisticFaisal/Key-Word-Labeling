@@ -1,0 +1,4 @@
+e_LS instances_NNS of_IN a_DT discovered_VBN interaction-pattern_NN represent_VBP multiple_JJ executions_NNS of_IN a_DT single_JJ user_NN task_NN ._.
+Based_VBN on_IN these_DT examples_NNS ,_, the_DT user_NN task_NN can_MD be_VB modeled_VBN using_VBG a_DT demonstrational-programming_JJ approach_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT resulting_VBG model_NN ,_, reviewed_VBN and_CC elaborated_VBN by_IN the_DT user_NN ,_, specifies_VBZ the_DT information_NN exchange_NN between_IN the_DT user_NN and_CC the_DT legacy_NN application_NN while_IN performing_VBG the_DT subject_NN task_NN ._.
+This_DT model_NN is_VBZ ,_, in_IN effect_NN ,_,

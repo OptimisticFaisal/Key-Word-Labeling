@@ -1,0 +1,5 @@
+eights_NNS for_IN the_DT edges_NNS that_WDT connect_VBP two_CD nodes_NNS ._.
+We_PRP need_VBP to_TO compute_VB all-pairs_JJ shortest-paths_NNS to_TO get_VB the_DT centrality_NN measure_NN for_IN all_DT nodes_NNS ._.
+However_RB ,_, we_PRP note_VBP that_IN there_EX are_VBP efficient_JJ ways_NNS for_IN computing_VBG this_DT =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN fact_NN ,_, the_DT all-pairs_JJ shortest-path_JJ computation_NN can_MD be_VB done_VBN in_IN O_NN -LRB-_-LRB- nE_NN -RRB-_-RRB- time_NN ,_, where_WRB E_NN is_VBZ the_DT number_NN of_IN edges_NNS and_CC n_NN is_VBZ the_DT number_NN of_IN nodes_NNS in_IN the_DT graph_NN ._.
+We_PRP will_MD not_RB include_VB the_DT algorithm_NN here_RB ,_, but_CC refe_NN

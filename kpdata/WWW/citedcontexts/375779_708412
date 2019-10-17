@@ -1,0 +1,4 @@
+lanes_NNS ,_, Ranking_NNP SVM_NNP 1_CD ._.
+INTRODUCTION_NN Ranking_NN is_VBZ the_DT central_JJ problem_NN for_IN many_JJ IR_NNP applications_NNS ._.
+These_DT include_VBP document_NN retrieval_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, collaborative_JJ filtering_VBG -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, key_JJ term_NN extraction_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, expert_NN finding_NN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_JJ -_: ,_, important_JJ email_NN routing_VBG -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, sentiment_NN analysis_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, product_NN rating_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, and_CC anti_JJ web_NN spam_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+In_IN the_DT task_NN ,_, given_VBN a_DT set_NN of_IN instances_NNS ,_, we_PRP make_VBP use_NN of_IN a_DT ranking_JJ model_NN -LRB-_-LRB- function_NN -RRB-_-RRB- to_TO calculate_VB the_DT sc_NN

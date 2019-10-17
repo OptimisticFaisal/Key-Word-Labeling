@@ -1,0 +1,4 @@
+blivious_JJ transfer_NN protocol_NN ,_, a_DT powerful_JJ tool_NN developed_VBN by_IN secure_JJ multi-party_JJ computation_NN -LRB-_-LRB- SMC_NN -RRB-_-RRB- research_NN ._.
+The_DT techniques_NNS based_VBN on_IN SMC_NNP for_IN efficiently_RB dealing_VBG with_IN large_JJ data_NNS sets_NNS have_VBP been_VBN addressed_VBN in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, a_DT secure_JJ protocol_NN for_IN multi-party_JJ computation_NN of_IN boolean_JJ vector_NN product_NN with_IN a_DT commodity_NN server_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- was_VBD developed_VBN ._.
+Randomization_NN approaches_NNS were_VBD firstly_RB proposed_VBN by_IN Agrawal_NNP and_CC Srikant_NNP in_IN -LRB-_-LRB-

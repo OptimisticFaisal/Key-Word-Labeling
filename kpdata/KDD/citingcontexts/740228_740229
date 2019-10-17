@@ -1,0 +1,5 @@
+of_IN LBMA_NNP to_TO TAN_NNP induction_NN in_IN 4.3_CD ._.
+We_PRP empirically_RB evaluate_VBP the_DT results_NNS of_IN our_PRP$ improvements_NNS in_IN Section_NNP 5_CD ,_, to_TO finish_VB up_RP pointing_VBG some_DT conclusions_NNS in_IN Section_NN 6_CD ._.
+A_DT longer_JJR version_NN of_IN this_DT paper_NN is_VBZ available_JJ =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2_CD Learning_NNP Bayesian_NNP Networks_NNP Let_NNP U_NN =_JJ -LCB-_-LRB- X1_NN ,_, ..._: ,_, Xn_NN -RCB-_-RRB- be_VB a_DT set_NN of_IN discrete_JJ random_JJ variables_NNS ._.
+A_DT bayesian_JJ network_NN is_VBZ an_DT annotated_JJ directed_JJ acyclic_JJ graph_NN that_WDT encodes_VBZ a_DT joint_JJ probability_NN distribution_NN o_NN

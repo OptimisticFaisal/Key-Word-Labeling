@@ -1,0 +1,4 @@
+r_NN fraud_NN detection_NN ,_, they_PRP noted_VBD that_IN the_DT cost_NN and_CC amount_NN of_IN fraud_NN varies_VBZ over_IN time_NN and_CC location_NN ._.
+This_DT was_VBD one_CD motivation_NN for_IN their_PRP$ research_NN into_IN ROC_NN analysis_NN ._.
+Our_PRP$ own_JJ experience_NN with_IN imbalanced_JJ classes_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: dealt_VBN with_IN the_DT detection_NN of_IN oil_NN spills_NNS and_CC the_DT number_NN of_IN non-spills_NNS far_RB outweighed_VBD the_DT number_NN of_IN spills_NNS ._.
+Not_RB only_RB were_VBD the_DT classes_NNS imbalanced_JJ ,_, the_DT distribution_NN of_IN spills_NNS versus_CC non-spills_NNS in_IN our_PRP$ expe_NN

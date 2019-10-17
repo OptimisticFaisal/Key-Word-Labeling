@@ -1,0 +1,4 @@
+ucas_NN has_VBZ done_VBN a_DT wonderful_JJ job_NN ._.
+-LRB-_-LRB- d_LS -RRB-_-RRB- Figure_NNP 2_CD :_: Snippets_NNS of_IN Movie_NN Reviews_NNS from_IN IMDB_NNP An_NNP equally_RB important_JJ and_CC well-researched_JJ task_NN over_IN unstructured_JJ document_NN collections_NNS is_VBZ that_DT of_IN document_NN categorization_NN =_JJ -_: =[_NN 11_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT involves_VBZ automatically_RB tagging_VBG documents_NNS in_IN a_DT collection_NN with_IN labels_NNS from_IN a_DT pre-defined_JJ label_NN set_NN ._.
+In_IN our_PRP$ movie_NN example_NN ,_, it_PRP is_VBZ desirable_JJ to_TO automatically_RB organize_VB all_DT reviews_NNS according_VBG to_TO the_DT g_NN

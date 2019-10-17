@@ -1,0 +1,3 @@
+ty_NN between_IN query-page_JJ pairs_NNS can_MD be_VB propagated_VBN at_IN the_DT next_JJ recursion_NN ._.
+It_PRP has_VBZ been_VBN proved_VBN that_IN the_DT value_NN of_IN S_NN s_NN k_NN ,_, which_WDT is_VBZ based_VBN on_IN the_DT value_NN of_IN S_NN s_NN k_NN −_NN 1_CD ,_, is_VBZ non-decreasing_JJ and_CC will_MD converge_VB eventually_RB =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN our_PRP$ approach_NN ,_, we_PRP start_VBP with_IN S_NN s_NN 0_CD :_: S_NN s_NN 0_CD =_JJ α_NN if_IN a_DT and_CC b_NN are_VBP connected_VBN via_IN a_DT query_JJ edge_NN β_NN if_IN a_DT and_CC b_NN are_VBP connected_VBN via_IN a_DT page_NN edge_NN 0_CD otherwise_RB 4.2_CD Evolution_NN based_VBN Graph_NNP and_CC Similarity_NNP Simila_NNP

@@ -1,0 +1,4 @@
+RLs_NNS and_CC not_RB their_PRP$ words_NNS -RRB-_-RRB- and_CC in_IN that_IN we_PRP target_VBP search_NN relevance_NN rather_RB than_IN related_JJ query_NN suggestion_NN ._.
+Additionally_RB ,_, our_PRP$ aggregation_NN is_VBZ driven_VBN by_IN weights_NNS derived_VBN from_IN user_NN clicks_NNS ._.
+Beeferman_NNP and_CC Berger_NNP =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: present_VB a_DT clustering_NN of_IN queries_NNS that_WDT are_VBP derived_VBN from_IN a_DT query_NN log_NN by_IN viewing_VBG queries_NNS and_CC clicked_VBD upon_IN URLs_NNS as_IN a_DT bipartite_JJ graph_NN ._.
+While_IN they_PRP claim_VBP the_DT content-independent_JJ nature_NN of_IN their_PRP$ algorithm_NN is_VBZ

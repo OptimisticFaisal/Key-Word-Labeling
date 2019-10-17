@@ -1,0 +1,3 @@
+body_NN of_IN a_DT rule_NN can_MD be_VB empty_JJ ._.
+Definite_NNP Horn_NNP clauses_NNS are_VBP the_DT basis_NN for_IN logic_NN programs_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, which_WDT have_VBP been_VBN used_VBN as_IN the_DT basis_NN for_IN the_DT rule_NN layer_NN of_IN the_DT Semantic_JJ Web_NN and_CC specified_VBN in_IN the_DT RuleML_NN effort_NN -LRB-_-LRB- =_JJ -_: =[_NN 4_CD ,_, 5_CD -RRB-_-RRB- -_: =--RRB-_NN as_RB well_RB as_IN in_IN the_DT recent_JJ OWL_NN Rules_NNS Draft_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Definite_NNP Horn_NNP clauses_NNS can_MD be_VB easily_RB extended_VBN to_TO include_VB negation_NN as_IN failure_NN ,_, restricted_JJ versions_NNS of_IN classical_JJ negation_NN ,_, and_CC additional_JJ constraint_NN handli_NNS

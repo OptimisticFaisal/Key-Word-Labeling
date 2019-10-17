@@ -1,0 +1,4 @@
+for_IN the_DT first_JJ two_CD approaches_NNS -LRB-_-LRB- A_DT \*_NN and_CC NR_NN \*_NN -RRB-_-RRB- ._.
+For_IN attribute_NN similarity_NN ,_, we_PRP use_VBP the_DT Soft_JJ TF-IDF_NN with_IN Jaro-Winkler_NN similarity_NN for_IN names_NNS ,_, which_WDT has_VBZ been_VBN shown_VBN to_TO perform_VB the_DT best_JJS for_IN namebased_JJ resolution_NN -LRB-_-LRB- =_JJ -_: =_JJ Bilenko_NNP ,_, Mooney_NNP ,_, Cohen_NNP ,_, Ravikumar_NNP ,_, &_CC Fienberg_NNP ,_, 2003_CD -_: =--RRB-_NN ,_, and_CC TF-IDF_NN similarity_NN for_IN the_DT other_JJ textual_JJ attributes_NNS ._.
+The_DT average_JJ F1_NN scores_NNS over_IN all_DT queries_NNS are_VBP shown_VBN in_IN Table_NNP 1_CD for_IN each_DT algorithm_NN in_IN the_DT two_CD datasets_NNS ._.
+It_PRP shows_VBZ that_IN RC-ER_NN improves_VBZ accuracy_NN sig_NN

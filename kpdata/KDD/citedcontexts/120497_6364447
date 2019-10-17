@@ -1,0 +1,4 @@
+f_FW vMF_FW distributions_NNS ,_, as_IN described_VBN above_IN ._.
+For_IN estimating_VBG the_DT parameters_NNS of_IN a_DT Gaussian_JJ mixture_NN ,_, the_DT EM_NNP algorithm_NN is_VBZ widely_RB used_VBN for_IN its_PRP$ numerical_JJ stability_NN and_CC simplicity_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Recently_RB ,_, Banerjee_NNP et_FW al._FW =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD two_CD variants_NNS -LRB-_-LRB- called_VBN the_DT hard-assignment_NN scheme_NN and_CC the_DT soft-assignment_JJ scheme_NN -RRB-_-RRB- of_IN the_DT EM_NNP algorithm_NN for_IN estimating_VBG the_DT parameters_NNS of_IN a_DT mixture_NN of_IN vMF_NN distributions_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP adopt_VBP B_NN

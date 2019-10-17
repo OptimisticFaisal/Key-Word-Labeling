@@ -1,0 +1,3 @@
+-LRB-_-LRB- or_CC non-linear_JJ ,_, for_IN that_DT matter_NN -RRB-_-RRB- regression_NN model_NN is_VBZ inappropriate_JJ for_IN this_DT data_NN ._.
+The_DT model_NN described_VBN in_IN this_DT section_NN is_VBZ essentially_RB identical_JJ to_TO one_CD used_VBN for_IN clustering_NN trajectories_NNS in_IN video_JJ streams_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, though_IN their_PRP$ objective_NN is_VBZ primarily_RB clustering_NN ,_, where_WRB ours_PRP is_VBZ primarily_RB regression_NN ._.
+2_LS -RRB-_-RRB- Parameter_NN estimation_NN :_: If_IN we_PRP knew_VBD which_WDT training_NN points_VBZ to_TO assign_VB to_TO which_WDT mixture_NN component_NN ,_, then_RB the_DT maximum_NN l_NN

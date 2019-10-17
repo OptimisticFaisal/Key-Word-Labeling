@@ -1,0 +1,7 @@
+nd_FW y_FW can_MD be_VB inferred_VBN through_IN the_DT extended_JJ graph_NN ._.
+Generic_JJ simRank_NN ._.
+In_IN the_DT above_JJ extended_JJ graph_NN ,_, we_PRP use_VBP the_DT concept_NN that_IN ``_`` two_CD objects_NNS are_VBP similar_JJ if_IN they_PRP are_VBP similar_JJ to_TO two_CD similar_JJ objects_NNS ''_'' ._.
+JehandWidom_NN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: suggestedagenericmetriccalledSimRank_NN which_WDT captures_VBZ this_DT notion_NN recursively_RB ._.
+The_DT simRank_NN score_NN is_VBZ the_DT fixed_JJ point_NN of_IN the_DT following_JJ recursive_JJ equation_NN ._.
+simRank_NN -LRB-_-LRB- x_NN ,_, y_NN -RRB-_-RRB- =_JJ -LCB-_-LRB- 1_CD if_IN x_NN =_JJ y_FW γ_FW ._.
+∑_FW ∑_FW a_DT ∈_NN Γ_NN -LRB-_-LRB- x_NN -RRB-_-RRB- b_NN ∈_NN Γ_NN -LRB-_-LRB- y_NN -RRB-_-RRB-

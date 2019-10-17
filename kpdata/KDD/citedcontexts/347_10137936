@@ -1,0 +1,4 @@
+dard_JJ association_NN rule_NN mining_NN are_VBP also_RB present_JJ here_RB ,_, and_CC are_VBP worse_JJR due_JJ to_TO the_DT relational_JJ multiplication_NN factor_NN -LRB-_-LRB- the_DT different_JJ keys_NNS and_CC the_DT different_JJ relations_NNS -RRB-_-RRB- ._.
+We_PRP extend_VBP the_DT notion_NN of_IN closed_JJ itemsets_NNS =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: to_TO our_PRP$ multi-relational_JJ setting_NN .13_CD Definition_NN 8_CD ._.
+An_DT itemset_NN I_PRP is_VBZ called_VBN closed_JJ if_IN for_IN all_DT supersets_NNS I_PRP ′_VBP of_IN I_PRP there_EX exists_VBZ a_DT key_JJ K_NN such_JJ that_IN supp_NN -LRB-_-LRB- I_NN ′_NN K_NN -RRB-_-RRB- -LRB-_-LRB- supp_NN -LRB-_-LRB- IK_NN -RRB-_-RRB- ._.
+The_DT closure_NN of_IN an_DT itemset_NN is_VBZ defi_VBN

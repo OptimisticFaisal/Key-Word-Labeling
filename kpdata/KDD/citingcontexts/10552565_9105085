@@ -1,0 +1,6 @@
+hen_NN used_VBN to_TO classify_VB previously_RB unseen_JJ examples_NNS -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Many_JJ software_NN packages_NNS are_VBP available_JJ for_IN fitting_JJ models_NNS of_IN this_DT form_NN ;_: for_IN the_DT results_NNS in_IN this_DT paper_NN ,_, we_PRP used_VBD the_DT LIBLINEAR_NN implementation_NN of_IN SVMs_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+5_CD ._.
+EVALUATION_NN In_IN this_DT section_NN we_PRP present_VBP our_PRP$ experimental_JJ results_NNS using_VBG SVMs_NNS for_IN vulnerability_NN classification_NN ._.
+We_PRP consider_VBP several_JJ different_JJ scenarios_NNS ._.
+We_PRP first_RB evaluate_VBP the_DT prediction_NN accuracy_NN in_IN a_DT

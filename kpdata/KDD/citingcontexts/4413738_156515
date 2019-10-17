@@ -1,0 +1,4 @@
+into_IN this_DT table_NN ._.
+While_IN this_DT strategy_NN yields_VBZ optimal_JJ results_NNS when_WRB searching_VBG for_IN paths_NNS ,_, in_IN many_JJ cases_NNS it_PRP may_MD be_VB infeasible_JJ in_IN terms_NNS of_IN annotation_NN complexity_NN --_: the_DT Floyd-Warshall_NNP algorithm_NN runs_VBZ in_IN O_NN -LRB-_-LRB- n_NN 3_CD -RRB-_-RRB- =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, while_IN more_RBR complex_JJ approaches_NNS using_VBG fast_JJ matrix_NN multiplication_NN can_MD reduce_VB the_DT exponent_NN to_TO 2.376_CD -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Furthermore_RB ,_, APSP_NN requires_VBZ O_NN -LRB-_-LRB- n_NN 2_CD -RRB-_-RRB- to_TO store_VB the_DT distances_NNS themselves_PRP ._.
+Although_IN APSP_NN may_MD seem_VB triv_NN

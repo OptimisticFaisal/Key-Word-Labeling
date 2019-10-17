@@ -1,0 +1,4 @@
+ons_NNS of_IN SVD_NN analysis_NN ,_, most_JJS of_IN which_WDT are_VBP well-known_JJ ._.
+For_IN example_NN ,_, SVD_NNP finds_VBZ the_DT strongest_JJS patterns_NNS best_RB since_IN its_PRP$ goal_NN is_VBZ to_TO provide_VB the_DT best_JJS rank_NN k_NN approximation_NN to_TO a_DT matrix_NN ,_, 1_CD ≤_CD k_NN ≤_NN rank_NN -LRB-_-LRB- data_NN matrix_NN -RRB-_-RRB- =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Thus_RB ,_, slightly_RB weaker_JJR patterns_NNS may_MD not_RB `_`` show_VB up_RP '_'' as_RB well_RB as_IN the_DT stronger_JJR patterns_NNS ._.
+For_IN this_DT reason_NN --_: as_RB well_RB as_IN the_DT orthogonality_NN constraint_NN described_VBN below_IN --_: only_RB the_DT first_JJ few_JJ SVD_NN vectors_NNS are_VBP typicall_NN

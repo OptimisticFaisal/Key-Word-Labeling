@@ -1,0 +1,4 @@
+ertain_JJ time_NN point_NN ._.
+With_IN the_DT latest_JJS advances_NNS in_IN the_DT microarray_NN technology_NN ,_, the_DT expression_NN levels_NNS of_IN a_DT set_NN of_IN genes_NNS under_IN a_DT set_NN of_IN samples_NNS can_MD be_VB monitored_VBN synchronically_RB during_IN a_DT series_NN of_IN time_NN points_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Different_JJ from_IN the_DT previous_JJ gene-time_JJ or_CC genesample_JJ microarray_NN data_NNS sets_NNS ,_, these_DT new_JJ data_NNS sets_NNS have_VBP three_CD types_NNS of_IN variables_NNS :_: genes_NNS ,_, samples_NNS and_CC time_NN ._.
+We_PRP call_VBP such_JJ data_NNS gene-sample-time_NN microarray_NN da_NN

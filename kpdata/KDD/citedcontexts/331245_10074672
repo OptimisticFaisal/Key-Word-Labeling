@@ -1,0 +1,4 @@
+ce_NN of_IN a_DT sequence_NN per_IN EFG_NN could_MD potentially_RB discard_VB many_JJ other_JJ executions_NNS of_IN the_DT same_JJ region_NN ._.
+This_DT is_VBZ not_RB dissimilar_JJ to_TO the_DT methodologies_NNS employed_VBN in_IN some_DT algorithms_NNS that_WDT search_VBP for_IN frequent_JJ subgraphs_NNS =_JJ -_: =[_NN 16_CD ,_, 39_CD ,_, 14_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN addition_NN ,_, the_DT data_NNS sequences_NNS mined_VBN by_IN GSP_NN are_VBP all_DT total_JJ orderings_NNS ;_: they_PRP do_VBP not_RB have_VB the_DT edgeweighted_VBN topological_JJ structure_NN present_JJ in_IN EFGs_NNS ._.
+In_IN GSP_NNP ,_, each_DT occurrence_NN of_IN a_DT candidate_NN sequence_NN is_VBZ weig_NN

@@ -1,0 +1,5 @@
+c_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Various_JJ data_NNS mining_NN methods_NNS have_VBP been_VBN used_VBN to_TO generate_VB models_NNS of_IN usage_NN patterns_NNS ._.
+Models_NNS based_VBN on_IN association_NN rules_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, clustering_NN algorithms_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, sequential_JJ analysis_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- and_CC Markov_NNP Models_NNS =_JJ -_: =[_NN 2_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN well_RB studied_VBN in_IN the_DT literature_NN ._.
+All_DT these_DT models_NNS are_VBP predominantly_RB based_VBN on_IN usage_NN information_NN from_IN weblogs_NNS alone_RB ._.
+They_PRP are_VBP not_RB easily_RB extensible_JJ to_TO include_VB other_JJ pieces_NNS of_IN information_NN that_IN

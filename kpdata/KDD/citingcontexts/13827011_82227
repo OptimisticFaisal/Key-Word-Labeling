@@ -1,0 +1,6 @@
+Table_NNP 1_CD :_: The_DT accuracies_NNS of_IN different_JJ algorithms_NNS on_IN the_DT two_CD test_NN sets_NNS ._.
+measures_NNS ._.
+We_PRP also_RB considered_VBD DTW_NNP with_IN the_DT Sakoe-Chiba_NNP band_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, as_IN it_PRP has_VBZ been_VBN shown_VBN to_TO outperform_VB classic_JJ DTW_NN on_IN many_JJ datasets_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT results_NNS are_VBP shown_VBN in_IN table_NN 1_CD ._.
+It_PRP is_VBZ interesting_JJ to_TO consider_VB why_WRB Logical_JJ Shapelets_NNS generalize_VBP the_DT new_JJ data_NNS the_DT best_JJS ._.
+We_PRP conjecture_NN that_IN it_PRP is_VBZ the_DT ability_NN of_IN Logical_JJ Shapelets_NNS to_TO extract_VB just_RB the_DT

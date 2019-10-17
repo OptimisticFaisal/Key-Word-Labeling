@@ -1,0 +1,5 @@
+ues_NNS per_IN class_NN ,_, P_NN -LRB-_-LRB- xi_FW |_FW c_NN -RRB-_-RRB- ._.
+Tohaverobust_JJ estimators_NNS of_IN these_DT probabilities_NNS ,_, we_PRP require_VBP a_DT minimum_JJ number_NN of_IN training_NN examples_NNS covered_VBN by_IN the_DT rule_NN 3_CD ._.
+Figure_NN 1_CD plots_NNS the_DT evolution_NN of_IN the_DT prequential_JJ error_NN -LRB-_-LRB- =_JJ -_: =_JJ Gama_NNP et_FW al._FW ,_, 2009_CD -_: =--RRB-_NN for_IN the_DT LED_NNP and_CC Waveform_NNP datasets_NNS ._.
+The_DT VFDRNB_NNP exhibit_VBP much_RB more_RBR powerful_JJ predicting_VBG capabilities_NNS than_IN VFDR_NNP ,_, especially_RB in_IN case_NN of_IN noisy_JJ data_NNS ,_, as_IN in_FW LED_FW dataset_NN ._.
+Another_DT observation_NN is_VBZ that_IN VFDRNB_FW ex_FW

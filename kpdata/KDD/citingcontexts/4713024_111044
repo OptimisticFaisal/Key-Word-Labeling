@@ -1,0 +1,4 @@
+to_TO avoid_VB the_DT costly_JJ computation_NN of_IN the_DT K-nearest_JJ neighbors_NNS of_IN each_DT data_NNS point_NN ._.
+The_DT technique_NN is_VBZ based_VBN on_IN transforming_VBG the_DT d-dimensional_NN points_NNS into_IN one-dimensional_JJ points_NNS lying_VBG on_IN a_DT Hilbert_NN or_CC zcurve_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT transformation_NN guarantees_VBZ that_IN two_CD points_NNS that_WDT are_VBP close_JJ in_IN the_DT curve_NN are_VBP also_RB close_JJ in_IN the_DT d_NN space_NN ._.
+However_RB ,_, two_CD points_NNS in_IN the_DT d_NN space_NN are_VBP not_RB necessarily_RB close_VB in_IN the_DT Hilbert_NNP curve_NN ,_, so_IN it_PRP is_VBZ n_NN

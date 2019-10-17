@@ -1,0 +1,4 @@
+g_NN versus_CC post-processing_JJ constraints_NNS on_IN the_DT number_NN of_IN evaluations_NNS of_IN P_NN -LRB-_-LRB- -RRB-_-RRB- and_CC Q_NNP -LRB-_-LRB- -RRB-_-RRB- ._.
+Due_JJ to_TO the_DT lack_NN of_IN space_NN we_PRP could_MD not_RB depicts_VBZ all_PDT our_PRP$ results_NNS in_IN this_DT work_NN ._.
+We_PRP compared_VBD our_PRP$ algorithm_NN with_IN Dualminer_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT is_VBZ the_DT only_RB known_JJ algorithm_NN to_TO effectively_RB mine_VB both_DT types_NNS of_IN constraints_NNS at_IN the_DT same_JJ time_NN ._.
+Based_VBN on_IN its_PRP$ authors_NNS '_POS recommendations_NNS ,_, we_PRP built_VBD the_DT Dualminer_NNP framework_NN on_IN top_NN of_IN the_DT MAFIA_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- imple_NN

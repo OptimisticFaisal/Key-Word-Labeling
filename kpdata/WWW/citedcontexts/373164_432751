@@ -1,0 +1,4 @@
+-LRB-_-LRB- 16_CD -RRB-_-RRB- reports_VBZ the_DT importance_NN of_IN text_NN passages_NNS that_WDT are_VBP more_RBR responsive_JJ to_TO particular_JJ user_NN needs_NNS than_IN full_JJ documents_NNS ._.
+A_DT similar_JJ reasoning_NN is_VBZ used_VBN in_IN a_DT recently_RB proposed_VBN method_NN for_IN static_JJ index_NN pruning_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT indexes_NNS `_`` significant_JJ sentences_NNS '_POS ,_, i.e._FW phrases_NNS appearing_VBG in_IN similar_JJ contexts_NNS ._.
+Redundancy_NN ._.
+A_DT key_JJ k_NN is_VBZ semantically_RB adequate_JJ for_IN a_DT document_NN d_NN if_IN there_EX is_VBZ a_DT high_JJ probability_NN that_IN a_DT user_NN produces_VBZ k_NN

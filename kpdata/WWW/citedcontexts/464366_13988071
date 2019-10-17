@@ -1,0 +1,5 @@
+nal_JJ large_JJ database_NN according_VBG to_TO a_DT representative_JJ workload_NN using_VBG a_DT single_JJ node_NN ._.
+Ganymed_JJ -LRB-_-LRB- 18_CD -RRB-_-RRB- uses_VBZ a_DT novel_JJ scheduling_NN algorithm_NN that_WDT separates_VBZ update_VB and_CC read-only_JJ queries_NNS using_VBG multiple_JJ nodes_NNS ._.
+GlobeDB_NN =_SYM -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: offers_VBZ a_DT different_JJ approach_NN for_IN edge_NN servers_NNS to_TO handle_VB data_NNS distribution_NN ._.
+Their_PRP$ system_NN automatically_RB partitions_VBZ and_CC replicates_VBZ the_DT database_NN through_IN a_DT wide_JJ area_NN network_NN using_VBG multiple_JJ nodes_NNS ._.
+3_CD Propose_NN

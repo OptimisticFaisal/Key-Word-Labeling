@@ -1,0 +1,3 @@
+ethod_NN for_IN recommending_VBG products_NNS to_TO customers_NNS with_IN applications_NNS to_TO both_CC on-line_JJ and_CC surface_NN mail_NN promotional_JJ offers_NNS ._.
+Our_PRP$ method_NN differs_VBZ from_IN previous_JJ work_NN in_IN collaborative_JJ filtering_VBG -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC imputation_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN that_IN we_PRP assume_VBP probabilities_NNS are_VBP conditionally_RB independent_JJ ._.
+This_DT assumption_NN ,_, which_WDT is_VBZ also_RB made_VBN in_IN Nave_NNP Bayes_NNP -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, enables_VBZ us_PRP to_TO pre-compute_JJ probabilities_NNS and_CC store_VB them_PRP in_IN main_JJ memory_NN ,_, enabling_VBG

@@ -1,0 +1,4 @@
+sources_NNS to_TO alleviate_VB the_DT information_NN sparsity_NN problem_NN of_IN a_DT single_JJ source_NN ._.
+Several_JJ other_JJ algorithms_NNS have_VBP been_VBN proposed_VBN to_TO model_NN publication_NN and_CC email_NN data_NNS 1_CD ._.
+For_IN instance_NN ,_, the_DT author-topic_JJ -LRB-_-LRB- AT_NNP -RRB-_-RRB- model_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: employs_VBZ two_CD factors_NNS in_IN characterizing_VBG a_DT document_NN :_: the_DT document_NN 's_POS authors_NNS and_CC topics_NNS ._.
+Modeling_VBG both_DT factors_NNS as_IN variables_NNS within_IN a_DT Bayesian_JJ network_NN allows_VBZ the_DT AT_NNP model_NN to_TO group_VB the_DT words_NNS used_VBN in_IN a_DT docu_NN

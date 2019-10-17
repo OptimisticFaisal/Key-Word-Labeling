@@ -1,0 +1,5 @@
+hood_NN ._.
+Outliers_NNS are_VBP objects_NNS that_WDT tend_VBP to_TO have_VB high_JJ LOF_NN values_NNS ._.
+The_DT LOF_NN algorithm_NN is_VBZ able_JJ to_TO detect_VB all_DT forms_NNS of_IN outliers_NNS including_VBG those_DT that_WDT could_MD not_RB be_VB detected_VBN by_IN the_DT distance-based_JJ algorithms_NNS ._.
+In_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT micro-clusterbased_JJ algorithm_NN for_IN finding_VBG top-n_JJ local_JJ outliers_NNS is_VBZ proposed_VBN ._.
+The_DT pruning_NN of_IN the_DT clusters_NNS based_VBN on_IN the_DT computed_JJ bounds_NNS reduces_VBZ the_DT number_NN of_IN LOF_NN value_NN computations_NNS but_CC it_PRP still_RB relies_VBZ

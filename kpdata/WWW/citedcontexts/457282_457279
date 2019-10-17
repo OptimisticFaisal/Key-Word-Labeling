@@ -1,0 +1,4 @@
+riodic_JJ ''_'' and_CC ``_`` cumulative_JJ ''_'' events_NNS ,_, e.g._FW ,_, in_IN the_DT SNOOP_NNP event_NN algebra_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- of_IN the_DT ``_`` Sentinel_NNP ''_'' active_JJ database_NN system_NN ._.
+Richer_JJR forms_NNS of_IN composite_JJ events_NNS have_VBP also_RB been_VBN described_VBN for_IN XChange_NN -LRB-_-LRB- see_VB Chapter_NN 2_CD -RRB-_-RRB- ._.
+=_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: considers_VBZ a_DT special_JJ kind_NN of_IN composite_JJ events_NNS on_IN XML_NN data_NNS that_WDT are_VBP formed_VBN by_IN XML_NN update_VBP operation_NN events_NNS ,_, dealing_VBG e.g._FW with_IN updates_NNS concerning_VBG different_JJ subtrees_NNS of_IN an_DT element_NN ._.
+Example_NN 3.11_CD -LRB-_-LRB- Cumulativ_NN

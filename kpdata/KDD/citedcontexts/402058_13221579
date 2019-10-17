@@ -1,0 +1,6 @@
+on-friendly_JJ property_NN -LRB-_-LRB- i.e._FW ,_, nonnegativity_NN -RRB-_-RRB- to_TO graph_NN anomaly_NN detection_NN ._.
+Anomaly_JJ Detection_NN ._.
+Noble_NNP et_FW al_FW was_VBD among_IN the_DT first_JJ to_TO detect_VB abnormal_JJ sub-graphs_NNS using_VBG MDL_NN -LRB-_-LRB- minimum_NN description_NN length_NN -RRB-_-RRB- criteria_NNS =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Follow-up_JJ work_NN along_IN this_DT criteria_NNS includes_VBZ -LRB-_-LRB- 7_CD ,_, 16_CD -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, the_DT authors_NNS proposed_VBN using_VBG ego-net_NN to_TO detect_VB abnormal_JJ nodes_NNS on_IN weighted_JJ graphs_NNS ._.
+In_IN -LRB-_-LRB- 36_CD -RRB-_-RRB- ,_, the_DT authors_NNS proposed_VBN using_VBG proximity_NN to_TO detect_VB a_DT

@@ -1,0 +1,3 @@
+or_CC all_DT parameters_NNS of_IN the_DT model_NN ,_, we_PRP obtain_VBP point_NN estimates_NNS of_IN the_DT parameters_NNS and_CC the_DT hyperparameters_NNS using_VBG a_DT Gibbs_NNP sampling_NN approach_NN ._.
+This_DT is_VBZ commonly_RB done_VBN for_IN models_NNS with_IN hyperparameters_NNS ,_, e.g._FW ,_, as_IN in_IN =_JJ -_: =[_NN 28_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT algorithm_NN iterates_VBZ between_IN updating_VBG the_DT parameters_NNS of_IN the_DT model_NN -LRB-_-LRB- cluster_NN means_NNS ,_, covariance_NN matrices_NNS ,_, time_NN shift_NN and_CC component_NN probabilities_NNS -RRB-_-RRB- given_VBN current_JJ values_NNS of_IN 10_CD -LRB-_-LRB- 10_CD -RRB-_-RRB- sthe_JJ hyperparameters_NNS ,_,

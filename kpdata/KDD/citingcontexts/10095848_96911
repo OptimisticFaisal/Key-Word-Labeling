@@ -1,0 +1,4 @@
+et_CC ,_, acquire_VBP the_DT value_NN for_IN it_PRP ,_, and_CC repeat_VB the_DT process_NN until_IN the_DT budget_NN is_VBZ exhausted_VBN -LRB-_-LRB- Algorithm_NN 1_CD -RRB-_-RRB- ._.
+Note_VB that_IN the_DT value_NN calculation_NN at_IN step_NN 7_CD is_VBZ essentially_RB an_DT expected_JJ value_NN of_IN information_NN calculation_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: and_CC it_PRP requires_VBZ running_VBG the_DT inference_NN procedure_NN for_IN each_DT possible_JJ label_NN ._.
+Algorithm_NN 1_CD :_: Approximate_JJ inference_NN and_CC greedy_JJ acquisition_NN -LRB-_-LRB- AIGA_NN -RRB-_-RRB- algorithm_NN ._.
+Input_NN :_: G_NN --_: the_DT test_NN graph_NN ,_, CM_NN --_: the_DT learned_VBN collec_NN

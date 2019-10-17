@@ -1,0 +1,5 @@
+but_CC still_RB plausible_JJ alternative_NN ._.
+To_TO solve_VB this_DT problem_NN we_PRP implemented_VBD a_DT version_NN of_IN the_DT general_JJ concept_NN of_IN abstraction_NN smoothing_NN introduced_VBN in_IN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+5.1_CD ._.
+Abstraction_NNP Smoothing_NNP Over_NNP Objects_NNS Inspired_VBN by_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: we_PRP used_VBD a_DT relational_JJ model_NN of_IN object_NN similarity_NN ,_, but_CC unlike_IN the_DT full_JJ power_NN of_IN that_DT work_NN ,_, we_PRP used_VBD a_DT single_JJ hierarchical_JJ object_NN relation_NN rather_RB than_IN a_DT lattice_NN ._.
+The_DT hierarchy_NN that_IN we_PRP used_VBD was_VBD mined_VBN with_IN

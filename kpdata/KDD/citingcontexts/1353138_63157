@@ -1,0 +1,4 @@
+range_NN of_IN possible_JJ values_NNS of_IN measured_JJ performance_NN dierences_NNS ._.
+^_FW f_FW -LRB-_-LRB- h1_NN ;_: Q_NNP i_LS -RRB-_-RRB- ^_FW f_FW -LRB-_-LRB- h2_NN ;_: Q_NNP i_LS -RRB-_-RRB- is_VBZ a_DT random_JJ variable_NN with_IN mean_NN value_NN f_SYM -LRB-_-LRB- h1_NN -RRB-_-RRB- f_LS -LRB-_-LRB- h2_NN -RRB-_-RRB- and_CC bounded_VBD range_NN ._.
+We_PRP can_MD use_VB the_DT Hoe_VB ding_JJ inequality_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- to_TO bound_VBD the_DT chance_NN that_IN an_DT arbitrary_JJ -LRB-_-LRB- bounded_VBN -RRB-_-RRB- random_JJ variable_NN takes_VBZ a_DT value_NN which_WDT is_VBZ far_RB away_RB from_IN its_PRP$ mean_NN value_NN ._.
+When_WRB X_NN is_VBZ a_DT random_JJ variable_NN with_IN expectation_NN E_NN -LRB-_-LRB- X_NN -RRB-_-RRB- and_CC range_NN at_IN most_JJS and_CC the_DT samp_NN

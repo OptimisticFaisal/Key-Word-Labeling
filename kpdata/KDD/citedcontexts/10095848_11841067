@@ -1,0 +1,4 @@
+get_VB the_DT best_JJS performance_NN on_IN the_DT remaining_VBG ones_NNS ._.
+Rattigan_NNP et_FW al._FW -LRB-_-LRB- 25_CD -RRB-_-RRB- queries_VBZ the_DT instances_NNS that_WDT are_VBP structurally_RB important_JJ ,_, e.g._FW highly_RB connected_VBN instances_NNS ,_, central_JJ instances_NNS ,_, etc._FW ._.
+Bilgic_NNP and_CC Getoor_NNP =_SYM -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: build_VB a_DT classifier_NN that_WDT can_MD predict_VB which_WDT instances_NNS might_MD be_VB misclassified_VBN and_CC query_VB a_DT central_JJ instance_NN only_RB if_IN it_PRP is_VBZ predicted_VBN as_IN misclassified_VBN ._.
+Even_RB though_IN these_DT methods_NNS have_VBP been_VBN quite_RB successful_JJ

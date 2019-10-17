@@ -1,0 +1,4 @@
+forbothtrainingandtesting_VBG canbecomeadifficultpracticalissue_NN ._.
+Malicioussiteshavedemonstrated_VBN the_DT ability_NN to_TO ``_`` cloak_VB ''_'' the_DT content_NN of_IN their_PRP$ Web_NN pages_NNS ,_, i.e._FW ,_, serving_VBG different_JJ content_NN to_TO different_JJ clients_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN example_NN ,_, a_DT malicious_JJ server_NN may_MD send_VB benign_JJ versions_NNS of_IN a_DT page_NN to_TO honeypot_VB IP_NNP addresses_NNS that_WDT belong_VBP to_TO security_NN practitioners_NNS ,_, but_CC send_VBP malicious_JJ versions_NNS to_TO other_JJ clients_NNS ._.
+Nonetheless_RB ,_, we_PRP show_VBP

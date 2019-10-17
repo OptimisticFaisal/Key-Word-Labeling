@@ -1,0 +1,5 @@
+model_NN with_IN k_NN non-empty_JJ clusters_NNS ._.
+These_DT include_VBP the_DT situation_NN when_WRB the_DT value_NN of_IN k_NN is_VBZ know_VB a_DT priori_FW and_CC applications_NNS in_IN which_WDT the_DT cluster_NN model_NN is_VBZ utilized_VBN as_IN a_DT compressed_VBN version_NN of_IN a_DT specific_JJ dataset_NN =_JJ -_: =[_NN 1_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT remaining_VBG portion_NN of_IN the_DT paper_NN is_VBZ organized_VBN as_IN follows_VBZ ._.
+Section_NN 2_CD formalizes_VBZ the_DT constrained_VBN clustering_NN optimization_NN problem_NN and_CC outlines_VBZ the_DT algorithm_NN computing_VBG a_DT locally_RB optimal_JJ solution_NN ._.
+The_DT

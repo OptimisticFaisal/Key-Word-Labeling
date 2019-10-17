@@ -1,0 +1,3 @@
+ure_NN selection_NN in_IN clustering_NN can_MD be_VB roughly_RB fallen_VBN into_IN two_CD categories_NNS :_: the_DT feature_NN filter_NN approaches_NNS and_CC the_DT wrapper_NN approaches_NNS ._.
+The_DT feature_NN filter_NN approaches_NNS ,_, e.g._FW principal_JJ component_NN analysis_NN -LRB-_-LRB- PCA_NN -RRB-_-RRB- =_JJ -_: =[_NN 2_CD ,_, 3_CD ,_, 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, try_VB to_TO pick_VB out_RP the_DT most_RBS influential_JJ subset_NN of_IN features_NNS ,_, which_WDT reflects_VBZ the_DT characteristics_NNS of_IN the_DT original_JJ data_NN set_NN ._.
+Such_PDT an_DT approach_NN may_MD significantly_RB reduce_VB the_DT dimensionality_NN ,_, but_CC the_DT clustering_NN

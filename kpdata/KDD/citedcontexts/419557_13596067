@@ -1,0 +1,9 @@
+e_LS transformations_NNS -LRB-_-LRB- 13,14_CD -RRB-_-RRB- Info_NNP ._.
+Extraction_NN -LRB-_-LRB- for_IN Annotation_NNP -RRB-_-RRB- Conditional_NNP Random_NNP Fields_NNP -LRB-_-LRB- Simple_JJ Tagger_NN -RRB-_-RRB- Datamold_NN \/_: CRAM_NN -LRB-_-LRB- 15,16_CD -RRB-_-RRB- Require_VB all_DT tokens_NNS to_TO receive_VB label_NN \/_: no_DT junk_NN NER_NN with_IN Dictionary_NNP =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: Whole_JJ segments_NNS receive_VBP same_JJ label_NN --_: attributes_NNS ca_MD n't_RB be_VB interruptedOutline_NN 1_CD ._.
+Introduction_NN 2_CD ._.
+Alignment_NN 3_CD ._.
+Extraction_NN 4_CD ._.
+Results_NNS 5_CD ._.
+Discussion_NN 6_CD ._.
+Related_NNP Work_NNP 7_CD ._.
+ConclusionConclusion_NNP Annotate_NNP

@@ -1,0 +1,4 @@
+ild_NN node_NN ._.
+This_DT process_NN repeats_VBZ recursively_RB until_IN a_DT node_NN contains_VBZ examples_NNS of_IN the_DT same_JJ class_NN ,_, at_IN which_WDT point_NN ,_, it_PRP stores_VBZ the_DT class_NN label_NN ._.
+Most_JJS implementations_NNS use_VBP the_DT gain_NN ratio_NN for_IN attribute_NN selection_NN =_JJ -_: =[_NN 35_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT measure_NN based_VBN on_IN the_DT information_NN gain_NN ._.
+In_IN an_DT effort_NN to_TO reduce_VB overtraining_NN ,_, most_JJS implementations_NNS also_RB prune_VBP induced_VBN decision_NN trees_NNS by_IN removing_VBG subtrees_NNS that_WDT are_VBP likely_JJ to_TO perform_VB poorly_RB on_IN test_NN da_NN

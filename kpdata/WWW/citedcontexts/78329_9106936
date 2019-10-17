@@ -1,0 +1,3 @@
+e_LS accuracy_NN of_IN the_DT constructed_VBN thesauri_NNS ._.
+In_IN the_DT first_JJ experiment_NN ,_, the_DT accuracy_NN of_IN an_DT association_NN thesaurus_NN extracted_VBN by_IN each_DT of_IN the_DT four_CD methods_NNS was_VBD evaluated_VBN by_IN the_DT ``_`` WordSimilarity353_NN test_NN collection_NN ''_'' =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT has_VBZ often_RB been_VBN used_VBN in_IN previous_JJ Wikipedia_NNP researches_VBZ -LRB-_-LRB- 4_CD ,_, 6_CD -RRB-_-RRB- ._.
+The_DT test_NN collection_NN contains_VBZ 353_CD word_NN pairs_NNS and_CC these_DT pairs_NNS havebeen_VBP judged_VBN by_IN 13-16_CD testers_NNS to_TO produce_VB a_DT single_JJ relatedness_NN score_NN ._.

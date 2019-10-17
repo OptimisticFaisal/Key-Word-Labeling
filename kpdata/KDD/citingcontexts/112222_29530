@@ -1,0 +1,5 @@
+il_NN promotions_NNS ._.
+Keywords_NNP Imputation_NNP ,_, cross-sell_JJ ,_, collaborative_JJ filtering_VBG ,_, recommendation_NN 1_CD ._.
+INTRODUCTION_NNP Most_NNP customer_NN recommendation_NN algorithms_NNS can_MD be_VB understood_VBN as_IN performing_VBG some_DT kind_NN of_IN imputation_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- ._.
+Some_DT of_IN -_: =_JJ -_: the_DT customer_NN 's_POS interests_NNS are_VBP known_VBN because_IN they_PRP have_VBP entered_VBN ``_`` star_NN ratings_NNS ''_'' or_CC have_VBP bought_VBN a_DT product_NN ,_, but_CC most_JJS are_VBP not_RB ._.
+The_DT problem_NN of_IN deciding_VBG what_WP product_NN to_TO recommend_VB next_RB involves_VBZ findin_NN

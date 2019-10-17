@@ -1,0 +1,5 @@
+rresponding_VBG quantities_NNS of_IN the_DT algorithm_NN for_IN the_DT next_JJ C_NN value_NN ._.
+This_DT is_VBZ a_DT standard_JJ seeding_NN technique_NN that_WDT improves_VBZ efficiency_NN ,_, and_CC is_VBZ also_RB used_VBN in_IN the_DT EG_NN method_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Stochastic_JJ gradient_NN descent_NN methods_NNS =_JJ -_: =[_NN 22_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB applied_VBN to_TO the_DT online_JJ version_NN of_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- and_CC they_PRP are_VBP known_VBN to_TO achieve_VB steady_JJ state_NN test_NN performance_NN quite_RB fast_RB ._.
+We_PRP have_VBP not_RB evaluated_VBN SDM_NN against_IN these_DT methods_NNS ._.
+However_RB ,_, our_PRP$ evaluation_NN in_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- sho_NN

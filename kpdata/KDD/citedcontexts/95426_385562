@@ -1,0 +1,5 @@
+ertain_NN number_NN of_IN input_NN points_NNS has_VBZ been_VBN processed_VBN ,_, there_EX is_VBZ no_DT need_NN to_TO update_VB the_DT tree_NN further_RB ._.
+The_DT VFDT_NN system_NN is_VBZ guaranteed_VBN to_TO be_VB asymptotically_RB optimal_JJ for_IN static_JJ distributions_NNS -LRB-_-LRB- 6,7_CD -RRB-_-RRB- ._.
+Hulten_NNP et_FW al._FW =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: extend_VB VFDT_NN to_TO Concept-adapting_JJ VFDT_NN to_TO cope_VB with_IN changing_VBG environment_NN ._.
+Naive_JJ Bayes_NNS ._.
+In_IN the_DT Naive_JJ Bayes_NNP model_NN ,_, the_DT class-conditional_JJ probabilities_NNS are_VBP updated_VBN with_IN each_DT new_JJ x._NN For_IN simplicity_NN ,_, suppose_VB

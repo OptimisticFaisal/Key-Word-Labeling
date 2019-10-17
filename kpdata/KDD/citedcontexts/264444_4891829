@@ -1,0 +1,4 @@
+e_LS operations_NNS ._.
+Typically_RB ,_, the_DT cost_NN associated_VBN with_IN suppression_NN is_VBZ higher_JJR than_IN generalization_NN ,_, since_IN it_PRP leads_VBZ to_TO a_DT greater_JJR loss_NN of_IN information_NN ._.
+A_DT number_NN of_IN cost_NN metrics_NNS have_VBP been_VBN proposed_VBN in_IN literature_NN =_JJ -_: =[_NN 13_CD ,_, 1_CD ,_, 2_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT capture_VBP various_JJ notions_NNS of_IN information_NN loss_NN ,_, ranging_VBG from_IN application_NN specific_JJ measures_NNS to_TO very_RB generic_JJ ones_NNS ._.
+Generalization_NN techniques_NNS in_IN anonymization_NN can_MD be_VB classified_VBN into_IN two_CD categories_NNS -LRB-_-LRB- 3_CD

@@ -1,0 +1,4 @@
+d_NN ,_, the_DT story_NN is_VBZ flagged_VBN as_IN a_DT new_JJ event_NN and_CC a_DT new_JJ profile_NN is_VBZ created_VBN using_VBG the_DT document_NN vector_NN of_IN the_DT news_NN story_NN ._.
+Otherwise_RB ,_, the_DT news_NN story_NN is_VBZ used_VBN to_TO update_VB the_DT existing_VBG profiles_NNS ._.
+Other_JJ work_NN ,_, such_JJ as_IN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: ,_, add_VB simple_JJ semantics_NNS of_IN locations_NNS ,_, names_NNS ,_, and_CC temporal_JJ information_NN to_TO the_DT traditional_JJ term_NN frequency_NN vectors_NNS used_VBN in_IN previous_JJ work_NN ._.
+Although_IN we_PRP make_VBP use_NN of_IN a_DT similar_JJ single-pass_JJ clustering_NN algorithm_NN

@@ -1,0 +1,3 @@
+architecture_NN in_IN terms_NNS of_IN high-level_JJ modules_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+But_CC code_NN is_VBZ scarcely_RB structured_VBN and_CC often_RB includes_VBZ ``_`` dead_JJ ''_'' or_CC obsolete_JJ fragments_NNS and_CC ``_`` glue_NN ''_'' code_NN of_IN incremental_JJ updates_NNS or_CC ``_`` ignorant_JJ s_NN =_JJ -_: =_JJ urgeries_NNS ''_'' -LRB-_-LRB- 22_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT violate_VBP the_DT original_JJ software_NN architecture_NN ._.
+Even_RB when_WRB the_DT code_NN is_VBZ fairly_RB well_RB structured_VBN ,_, the_DT models_NNS produced_VBN by_IN code_NN analysis_NN consist_VBP of_IN modules_NNS that_WDT correspond_VBP closely_RB to_TO the_DT syntactic_JJ constru_NN

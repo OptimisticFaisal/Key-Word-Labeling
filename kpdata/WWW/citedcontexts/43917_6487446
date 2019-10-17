@@ -1,0 +1,5 @@
+ying_JJ subscription_NN ,_, an_DT equivalent_JJ subset_NN of_IN the_DT Query_NNP Exchange_NNP Language_NN -LRB-_-LRB- QEL_NN -RRB-_-RRB- has_VBZ been_VBN used_VBN -LRB-_-LRB- see_VB -LRB-_-LRB- 22_CD -RRB-_-RRB- for_IN details_NNS -RRB-_-RRB- ._.
+QEL_NN is_VBZ a_DT Dataloginspired_JJ RDF_NN query_NN language_NN that_WDT is_VBZ used_VBN in_IN the_DT Edutella_NN P2P_NN network_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+sCHAPTER_NN 2_CD ._.
+CAPABILITIES_NNS 10_CD Figure_NNP 2.2_CD :_: Subscription_NN Poset_NN Example_NN 2.4_CD Subscription_NN Posets_NNS On_IN a_DT super-peer_JJ side_NN subscriptions_NNS are_VBP stored_VBN in_IN a_DT so-called_JJ Poset_NNP structure_NN ._.
+A_DT partially_RB ordered_VBN set_NN -LRB-_-LRB- or_CC po_NN

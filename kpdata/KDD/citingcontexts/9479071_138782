@@ -1,0 +1,4 @@
+rality_NN metrics_NNS within_IN each_DT cluster_NN to_TO find_VB central_JJ nodes_NNS in_IN the_DT cluster_NN to_TO label_NN ._.
+4.3.1_FW Betweenness_FW Centrality_NN Graph_NN betweenness_NN centrality_NN is_VBZ perhaps_RB one_CD of_IN the_DT most_RBS prominent_JJ measures_NNS of_IN centrality_NN =_JJ -_: =[_NN 1_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP measures_VBZ the_DT degree_NN to_TO which_WDT a_DT node_NN in_IN the_DT network_NN is_VBZ in_IN a_DT position_NN of_IN brokerage_NN by_IN summing_VBG up_RP the_DT fractions_NNS of_IN shortest_JJS paths_NNS between_IN other_JJ pairs_NNS of_IN vertices_NNS that_WDT pass_VBP through_IN it_PRP ._.
+This_DT is_VBZ theref_NN

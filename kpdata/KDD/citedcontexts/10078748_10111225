@@ -1,0 +1,4 @@
+,_, u_NN on_IN the_DT edges_NNS are_VBP given_VBN as_IN input_NN ._.
+In_IN this_DT paper_NN instead_RB we_PRP study_VBP how_WRB this_DT probabilities_NNS can_MD be_VB produced_VBN by_IN mining_VBG past_JJ influence_NN cascades_NNS ,_, or_CC in_IN other_JJ terms_NNS ,_, the_DT past_JJ behavior_NN of_IN users_NNS ._.
+Tang_NNP et_FW al._FW =_SYM -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: introduce_VB the_DT problem_NN of_IN topic-based_JJ social_JJ influence_NN analysis_NN ._.
+Given_VBN a_DT social_JJ network_NN and_CC a_DT topic_NN distribution_NN for_IN each_DT user_NN ,_, the_DT problem_NN is_VBZ to_TO find_VB topic-specific_JJ subnetworks_NNS ,_, and_CC topic-specific_JJ in_IN

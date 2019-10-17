@@ -1,0 +1,19 @@
+Collaborative_JJ crawling_NN :_: mining_NN user_NN experiences_NNS for_IN topical_JJ resource_NN discovery_NN
+o_NN lists_NNS ,_, requires_VBZ prior_JJ specific_JJ permission_NN and\/or_CC a_DT fee_NN ._.
+SIGKDD_FW ’02_FW Edmonton_NNP ,_, Alberta_NNP ,_, Canada_NNP Copyright_NNP 2002_CD ACM_NNP 1-58113-567-X_NNP \/_: 02\/0007_CD ..._: $_$ 5.00_CD ._.
+source_NN discovery_NN is_VBZ the_DT technique_NN of_IN focused_JJ crawling_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT essential_JJ idea_NN in_IN focused_JJ crawling_NN is_VBZ that_IN there_EX is_VBZ a_DT short_JJ range_NN topical_JJ locality_NN on_IN the_DT web_NN ._.
+This_DT locality_NN maybeused_VBN in_IN order_NN to_TO design_VB e_SYM ective_JJ techniques_NNS for_IN resource_NN discovery_NN by_IN starting_VBG a_DT
+aracteristics_NNS in_IN a_DT web_NN page_NN are_VBP defined_VBN as_IN the_DT dominant_JJ classes_NNS in_IN the_DT taxonomy_NN which_WDT are_VBP related_JJ to_TO it_PRP ._.
+In_IN order_NN to_TO achieve_VB this_DT goal_NN ,_, we_PRP implemented_VBD a_DT classifier_NN system_NN similar_JJ to_TO that_DT described_VBN in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT classifier_NN system_NN was_VBD capable_JJ of_IN predicting_VBG the_DT classes_NNS most_RBS related_JJ to_TO a_DT given_VBN web_NN page_NN ._.
+We_PRP found_VBD the_DT kmax_NN =_JJ 5_CD most_RBS closely_RB related_JJ classes_NNS to_TO the_DT page_NN using_VBG the_DT nearest_JJS neighbor_NN classifier_NN of_IN
+o_NN lists_NNS ,_, requires_VBZ prior_JJ specific_JJ permission_NN and\/or_CC a_DT fee_NN ._.
+SIGKDD_FW '02_FW Edmonton_NNP ,_, Alberta_NNP ,_, Canada_NNP Copyright_NNP 2002_CD ACM_NNP 1-58113-567-X_NNP \/_: 02\/0007_CD ..._: $_$ 5.00_CD ._.
+source_NN discovery_NN is_VBZ the_DT technique_NN of_IN focused_JJ crawling_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT essential_JJ idea_NN in_IN focused_JJ crawling_NN is_VBZ that_IN there_EX is_VBZ a_DT short_JJ range_NN topical_JJ locality_NN on_IN the_DT web_NN ._.
+This_DT locality_NN may_MD be_VB used_VBN in_IN order_NN to_TO design_VB effective_JJ techniques_NNS for_IN resource_NN discovery_NN by_IN startin_NN
+the_DT web_NN in_IN order_NN to_TO mine_VB significant_JJ patterns_NNS ._.
+We_PRP will_MD achieve_VB this_DT goal_NN by_IN utilizing_VBG the_DT logs_NNS of_IN user_NN access_NN behavior_NN on_IN public_JJ domain_NN proxies_NNS ._.
+An_DT example_NN of_IN such_PDT a_DT public-domain_NN proxy_NN is_VBZ the_DT Squid_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: proxy_JJ cache_NN ,_, which_WDT is_VBZ a_DT set_NN of_IN large_JJ hierarchical_JJ caches_NNS on_IN the_DT web_NN which_WDT is_VBZ capable_JJ of_IN improving_VBG the_DT latency_NN performances_NNS of_IN different_JJ geographical_JJ regions_NNS ._.
+The_DT access_NN patterns_NNS of_IN these_DT systems_NNS are_VBP

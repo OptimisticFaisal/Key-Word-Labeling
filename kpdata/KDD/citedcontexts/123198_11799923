@@ -1,0 +1,6 @@
+thods_NNS -LRB-_-LRB- Blei_NNP et_FW al._FW 2003_CD -RRB-_-RRB- ,_, Gibbs_NN sampling_NN -LRB-_-LRB- Griffiths_NNP and_CC Steyvers_NNP ACM_NNP Transactions_NNS on_IN Knowledge_NNP Discovery_NNP from_IN Data_NNP ,_, Vol_NNP ._.
+V_NN ,_, No._NN ._.
+N_NN ,_, March_NNP 2010_CD ._.
+A_DT Combination_NN Approach_NN to_TO Web_NN User_NN Profiling_NNP ·_NNP 21_CD 2004_CD -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Steyvers_FW et_FW al._FW 2004_CD -_: =-]_CD ,_, and_CC expectation_NN propagation_NN -LRB-_-LRB- Griffiths_NNP and_CC Steyvers_NNP 2004_CD -RRB-_-RRB- -LRB-_-LRB- Minka_NNP 2003_CD -RRB-_-RRB- ._.
+We_PRP choose_VBP Gibbs_NNP sampling_NN for_IN its_PRP$ ease_NN of_IN implementation_NN ._.
+Additionally_RB ,_, instead_RB of_IN estimating_VBG the_DT model_NN parameters_NNS directly_RB ,_, w_NN

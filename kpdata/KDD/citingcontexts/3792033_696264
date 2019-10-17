@@ -1,0 +1,4 @@
+languages_NNS for_IN KDD_NNP processes_NNS have_VBP also_RB been_VBN developed_VBN in_IN research_NN on_IN KDD_NNP over_IN grids_NNS ;_: see_VB -LRB-_-LRB- 3_CD -RRB-_-RRB- for_IN an_DT overview_NN of_IN this_DT area_NN ._.
+Two_CD XML-based_JJ languages_NNS being_VBG developed_VBN in_IN this_DT context_NN are_VBP DPML_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC DSCL_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT XML-based_JJ syntax_NN used_VBN by_IN Yale_NNP is_VBZ suitable_JJ for_IN distributed_VBN processing_NN as_RB well_RB ;_: this_DT is_VBZ a_DT direction_NN for_IN future_JJ work_NN ._.
+Finally_RB ,_, the_DT new_JJ PMML_NN version_NN 3.0_CD 10_CD -LRB-_-LRB- 14_CD -RRB-_-RRB- includes_VBZ facilities_NNS to_TO model_NN data_NNS tra_NN

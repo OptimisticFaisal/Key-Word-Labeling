@@ -1,0 +1,4 @@
+limited_VBN version_NN of_IN local_JJ recoding_NN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- model_NN the_DT problem_NN as_IN clustering_NN and_CC propose_VBP a_DT constant_JJ factor_NN approximation_NN of_IN the_DT optimal_JJ solution_NN ,_, but_CC the_DT bound_VBN only_RB holds_VBZ for_IN the_DT Euclidean_JJ distance_NN metric_NN ._.
+=_SYM -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP agglomerative_JJ and_CC divisive_JJ recursive_JJ clustering_NN algorithms_NNS ,_, which_WDT attempt_VBP to_TO minimize_VB the_DT NCP_NN metric_NN ._.
+Our_PRP$ problem_NN is_VBZ not_RB suitable_JJ for_IN multidimensional_JJ recoding_NN ,_, because_IN the_DT dimensionality_NN of_IN

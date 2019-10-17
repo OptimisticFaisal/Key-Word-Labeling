@@ -1,0 +1,5 @@
+us_PRP statistical_JJ framework_NN by_IN Fellegi_NNP and_CC Sunter_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Winkler_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- provides_VBZ an_DT overview_NN of_IN systems_NNS for_IN record_NN linkage_NN ._.
+There_EX is_VBZ a_DT substantial_JJ literature_NN on_IN record_NN linkage_NN within_IN the_DT KDD_NNP community_NN -LRB-_-LRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, etc._NN -RRB-_-RRB- ._.
+Recently_RB ,_, Pasula_NNP et_FW al._FW proposed_VBD a_DT multi-relational_JJ approach_NN to_TO the_DT related_JJ problem_NN of_IN reference_NN matching_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+This_DT approach_NN is_VBZ based_VBN on_IN directed_JJ graphi15s16_NN F-mea_NN

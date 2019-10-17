@@ -1,0 +1,3 @@
+-LRB-_-LRB- 1.2_CD -RRB-_-RRB- -RRB-_-RRB- ,_, still_RB the_DT derived_VBN algorithm_NN can_MD be_VB utilized_VBN with_IN any_DT distance_NN function_NN which_WDT may_MD not_RB necessarily_RB be_VB a_DT metric_JJ ,_, such_JJ as_IN the_DT dynamic_JJ time_NN warping_NN -LRB-_-LRB- equation_NN -LRB-_-LRB- 1.3_CD -RRB-_-RRB- -RRB-_-RRB- or_CC the_DT uniform_JJ scaling_NN distance_NN =_JJ -_: =[_NN 112_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN computing_NN Dist_NN -LRB-_-LRB- C_NN ,_, M_NN -RRB-_-RRB- we_PRP expect_VBP that_IN the_DT arguments_NNS have_VBP been_VBN normalized_VBN to_TO have_VB mean_JJ zero_NN and_CC a_DT standard_JJ deviation_NN of_IN one_CD ._.
+Throughout_IN the_DT empirical_JJ evaluation_NN of_IN the_DT chapter_NN we_PRP assume_VBP that_IN all_DT sub_NN

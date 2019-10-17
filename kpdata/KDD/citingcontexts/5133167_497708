@@ -1,0 +1,3 @@
+s_NN these_DT are_VBP the_DT ends_NNS targeted_VBN by_IN IR_NN -LRB-_-LRB- see_VB Section_NNP 3_CD -RRB-_-RRB- ._.
+5.3.1_CD Measures_NNS of_IN Comparison_NN For_IN comparing_VBG two_CD ranked_VBN lists_NNS ,_, we_PRP use_VBP three_CD similarity_NN functions_NNS originally_RB proposed_VBD to_TO compare_VB various_JJ permutations_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, with_IN some_DT adaptations_NNS for_IN our_PRP$ needs_NNS ._.
+sreviewers_NNS objects_NNS 10_CD %_NN 20_CD %_NN 30_CD %_NN 10_CD %_NN 20_CD %_NN 30_CD %_NN Overlap_NNP 0.64_CD 0.71_CD 0.76_CD 0.73_CD 0.78_CD 0.88_CD Kendall_NNP 0.75_CD 0.70_CD 0.77_CD 0.84_CD 0.84_CD 0.82_CD Spearman_NNP 0.67_CD 0.60_CD 0.68_CD 0.73_CD 0.73_CD 0.72_CD Tabl_NN

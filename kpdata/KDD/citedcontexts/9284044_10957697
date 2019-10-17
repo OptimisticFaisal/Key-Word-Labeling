@@ -1,0 +1,4 @@
+AND_NNP &_CC MUSICLAND_NNP Many_JJ recommender_NN systems_NNS rely_VBP on_IN knowledge_NN about_IN how_WRB items_NNS are_VBP related_JJ to_TO each_DT other_JJ through_IN a_DT similarity_NN measure_NN ._.
+Similarity_NN can_MD be_VB explicitly_RB calculated_VBN as_IN in_IN the_DT neighborhood_NN model_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, or_CC implicitly_RB used_VBN as_IN in_IN the_DT factorization_NN model_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Recommendations_NNS are_VBP then_RB made_VBN by_IN selecting_VBG items_NNS that_WDT are_VBP most_RBS similar_JJ to_TO those_DT that_IN the_DT user_NN has_VBZ already_RB sampled_VBN ._.
+While_IN this_DT provides_VBZ a_DT useful_JJ

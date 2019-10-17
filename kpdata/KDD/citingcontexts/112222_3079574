@@ -1,0 +1,7 @@
+le_DT of_IN revenues_NNS ,_, percentages_NNS of_IN spending_NN ,_, or_CC page_NN hits_NNS ._.
+We_PRP will_MD use_VB binary_JJ profiles_NNS in_IN this_DT article_NN because_IN this_DT is_VBZ what_WP we_PRP have_VBP used_VBN in_IN our_PRP$ experiments_NNS reported_VBN later_RB ._.
+Collaborative_JJ filtering_VBG systems_NNS =_JJ -_: =[_NN 8,9,16_CD -RRB-_-RRB- -_: =_SYM -_: implement_VB a_DT nearest_JJS neighbor_NN variant_NN of_IN the_DT above_JJ strategy_NN ._.
+The_DT donor_NN set_NN is_VBZ restricted_JJ to_TO the_DT k_NN closest_JJS matching_JJ customer_NN profiles_NNS to_TO a_DT candidate_NN ._.
+D_NN =_JJ lowest_JJS -LRB-_-LRB- k_NN -RRB-_-RRB- |_CD x_NN s1_NN ._. ._.
+N_NN ,_, x_NN d1_NN ._. ._.
+N_NN |_NN +_CC =_JJ D_NN d_NN dj_FW sj_FW x_NN k_NN

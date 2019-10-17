@@ -1,0 +1,4 @@
+rently_RB this_DT is_VBZ work_NN in_IN progress_NN --_: we_PRP already_RB have_VBP a_DT recommender_NN for_IN tags_NNS implemented_VBN which_WDT works_VBZ pretty_RB well_RB and_CC currently_RB we_PRP 're_VBP integrating_VBG it_PRP into_IN the_DT system_NN ._.
+It_PRP is_VBZ based_VBN on_IN collaborative_JJ filtering_VBG =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN common_JJ in_IN most_JJS folksonomy_JJ systems_NNS ,_, resources_NNS in_IN BibSonomy_NNP are_VBP sorted_VBN by_IN date_NN and_CC listed_VBN in_IN descending_VBG order_NN ,_, newest_JJS resources_NNS first_RB ._.
+But_CC often_RB a_DT ranking_NN by_IN relevance_NN might_MD be_VB more_RBR appropriate_JJ ,_, es_NNS

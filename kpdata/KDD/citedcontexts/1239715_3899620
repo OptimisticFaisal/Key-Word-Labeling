@@ -1,0 +1,4 @@
+an_DT be_VB quickly_RB and_CC effectively_RB approximated_VBN by_IN examining_VBG simple_JJ attributes_NNS of_IN the_DT queue_NN of_IN waiting_VBG instances_NNS ._.
+There_EX are_VBP no_DT known_JJ existing_VBG methods_NNS for_IN classifying_VBG sequences_NNS of_IN time_NN sensitive_JJ instances_NNS ._.
+=_SYM -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: study_VB a_DT sequential_JJ CSC_NNP problem_NN where_WRB the_DT cost_NN of_IN each_DT instance_NN is_VBZ dependent_JJ on_IN the_DT labels_NNS assigned_VBN to_TO prior_JJ instances_NNS ._.
+Reinforcement_NN learning_NN is_VBZ used_VBN to_TO minimize_VB costs_NNS over_IN a_DT sequence_NN of_IN interacting_VBG

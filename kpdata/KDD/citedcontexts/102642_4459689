@@ -1,0 +1,4 @@
+ed_IN an_DT O_NN -LRB-_-LRB- m_NN 2_CD n_NN -RRB-_-RRB- time_NN -LRB-_-LRB- 36_CD ,_, 133_CD -RRB-_-RRB- algorithm_NN that_WDT iteratively_RB removes_VBZ edges_NNS with_IN highest_JJS betweenness_NN centrality_NN indices_NNS -LRB-_-LRB- 79_CD -RRB-_-RRB- in_IN order_NN to_TO identify_VB communities_NNS ._.
+An_DT algorithm_NN using_VBG maximum_NN flow_NN is_VBZ proposed_VBN in_IN =_JJ -_: =[_NN 76_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Kumar_NNP et_FW al._FW -LRB-_-LRB- 117_CD ,_, 115_CD -RRB-_-RRB- used_VBD heuristic_NN rules_NNS to_TO find_VB bipartite_JJ subgraphs_NNS in_IN the_DT web_NN ._.
+Gibson_NNP et_FW al._FW -LRB-_-LRB- 83_CD -RRB-_-RRB- used_VBD the_DT HITS_NN algorithm_NN -LRB-_-LRB- 106_CD -RRB-_-RRB- to_TO locate_VB pages_NNS that_WDT centered_VBD around_RB authoritative_JJ sites_NNS in_IN the_DT

@@ -1,0 +1,4 @@
+y_NN scores_NNS for_IN every_DT pair_NN of_IN data_NNS instances_NNS 111of_VBP every_DT modality_NN must_MD be_VB calculated_VBN -RRB-_-RRB- ,_, which_WDT are_VBP computationally_RB infeasible_JJ in_IN many_JJ other_JJ multi-modal_JJ applications_NNS ._.
+Bipartite_JJ spectral_JJ graph_NN partitioning_VBG =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ useful_JJ for_IN co-clustering_VBG two_CD modalities_NNS such_JJ as_IN documents_NNS and_CC words_NNS ._.
+Gao_NNP et_FW al._FW -LRB-_-LRB- 47_CD -RRB-_-RRB- extend_VBP this_DT method_NN to_TO handle_VB one_CD more_JJR modality_NN ._.
+In_IN their_PRP$ tripartite_JJ graph_NN model_NN ,_, nodes_NNS are_VBP arranged_VBN in_IN three_CD la_DT

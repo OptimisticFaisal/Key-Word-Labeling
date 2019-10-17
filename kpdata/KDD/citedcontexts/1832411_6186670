@@ -1,0 +1,3 @@
+trees_NNS proposed_VBN in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- also_RB create_VB subtrees_NNS that_WDT can_MD be_VB processed_VBN independently_RB ,_, but_CC require_VBP an_DT initial_JJ construction_NN of_IN an_DT FP-tree_NN that_WDT must_MD be_VB retained_VBN in_IN primary_JJ memory_NN for_IN efficient_JJ processing_NN ._.
+In_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT method_NN is_VBZ described_VBN for_IN building_VBG COFI-trees_NNS from_IN an_DT inverted_JJ database_NN structure_NN called_VBN ``_`` Inverted_NNP Matrix_NNP ''_'' ._.
+In_IN this_DT structure_NN ,_, each_DT item_NN is_VBZ represented_VBN by_IN a_DT row_NN of_IN the_DT matrix_NN which_WDT lists_VBZ all_DT transac_NN

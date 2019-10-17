@@ -1,0 +1,4 @@
+etterly_RB et_FW al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- used_VBD statistical_JJ analysis_NN to_TO detect_VB link_NN spam_NN ._.
+Features_NNS like_IN in-degrees_NNS and_CC out-degrees_NNS are_VBP used_VBN to_TO conduct_VB the_DT analysis_NN ,_, and_CC outliers_NNS are_VBP marked_JJ as_IN spam_NN candidates_NNS ._.
+Wu_NNP and_CC Davison_NNP =_SYM -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT supervised_JJ learning_NN algorithm_NN which_WDT starts_VBZ with_IN a_DT seed_NN set_NN of_IN link_NN spam_NN pages_NNS ,_, and_CC then_RB identifies_VBZ other_JJ link_NN spam_NN pages_NNS using_VBG links_NNS to_TO and_CC from_IN the_DT seed_NN set_NN ._.
+Recently_RB ,_, Gyöngyi_NNP et_FW al._FW -LRB-_-LRB- 7_CD -RRB-_-RRB-

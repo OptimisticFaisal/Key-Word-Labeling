@@ -1,0 +1,5 @@
+and_CC a_DT n_NN ×_CD m_NN feature_NN counts_VBZ matrix_NN X_NN ,_, i.e._FW ,_, D_NN =_JJ -LRB-_-LRB- Y_NN X_NN -RRB-_-RRB- ._.
+The_DT MLE_NN of_IN W_NN can_MD be_VB regarded_VBN as_IN the_DT solution_NN to_TO an_DT NMF_NN problem_NN Y_NN ⊤_FW ≈_FW W_NN X_NN ⊤_NN where_WRB the_DT quality_NN of_IN factorization_NN is_VBZ measured_VBN by_IN data_NN log_NN likelihood_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Since_IN both_CC Y_NN and_CC X_NN are_VBP given_VBN ,_, we_PRP directly_RB apply_VBP the_DT multiplicative_JJ algorithm_NN in_IN -LRB-_-LRB- 11_CD -RRB-_-RRB- to_TO compute_VB W_NN thus_RB yielding_VBG our_PRP$ recurrence_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+The_DT computational_JJ performance_NN of_IN the_DT multiplicative_JJ update_VBP

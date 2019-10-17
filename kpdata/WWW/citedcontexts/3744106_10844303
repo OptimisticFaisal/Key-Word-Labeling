@@ -1,0 +1,5 @@
+._.
+Not_RB only_RB do_VBP DC_NN and_CC SQ_NN use_VBP the_DT same_JJ building_NN blocks_NNS as_IN our_PRP$ method_NN ,_, but_CC also_RB represent_VBP the_DT two_CD most_RBS common_JJ approaches_NNS to_TO clustering_NN queries_NNS -LRB-_-LRB- document-based_JJ -LRB-_-LRB- 3_CD ,_, 5_CD ,_, 6_CD ,_, 10_CD ,_, 12_CD ,_, 20_CD ,_, 26_CD -RRB-_-RRB- and_CC session-based_JJ =_JJ -_: =[_NN 7_CD ,_, 8_CD ,_, 9_CD ,_, 11_CD ,_, 13_CD ,_, 15_CD ,_, 25_CD ,_, 27_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+We_PRP begin_VBP by_IN looking_VBG at_IN cluster_NN statistics_NNS ,_, and_CC then_RB present_VBP the_DT results_NNS of_IN a_DT user_NN study_NN of_IN their_PRP$ quality_NN ._.
+We_PRP then_RB study_VBD the_DT trade-off_NN between_IN producing_VBG large_JJ clusters_NNS and_CC more_RBR cohesive_JJ clusters_NNS ._.
+La_NN

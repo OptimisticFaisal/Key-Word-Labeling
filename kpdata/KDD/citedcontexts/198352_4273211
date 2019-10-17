@@ -1,0 +1,3 @@
+ny_IN unknown_JJ properties_NNS of_IN an_DT instance_NN ._.
+Other_JJ results_NNS seeking_VBG to_TO reduce_VB the_DT sample_NN complexity_NN for_IN learning_NN include_VBP decision_NN theoretic_JJ subsampling_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, on-line_JJ stopping_VBG rules_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, progressive_JJ sampling_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC active_JJ feature_NN value_NN acquisition_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+We_PRP note_VBP that_IN these_DT techniques_NNS differ_VBP from_IN our_PRP$ approach_NN because_IN we_PRP place_VBP a_DT firm_JJ budget_NN on_IN the_DT learner_NN 's_POS ability_NN to_TO acquire_VB information_NN ,_, while_IN these_DT approach_NN

@@ -1,0 +1,4 @@
+references_NNS ._.
+This_DT framework_NN could_MD potentially_RB make_VB our_PRP$ probabilistic_JJ model_NN cleaner_NN ,_, although_IN it_PRP would_MD need_VB to_TO be_VB heavily_RB constrained_VBN to_TO reduce_VB the_DT number_NN of_IN parameters_NNS required_VBN ._.
+Lahiri_NNP and_CC Berger-Wolf_NNP =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: introduce_VB an_DT algorithm_NN for_IN dynamic_JJ graphs_NNS that_WDT predicts_VBZ future_JJ interactions_NNS -LRB-_-LRB- edges_NNS -RRB-_-RRB- at_IN each_DT time_NN step_NN based_VBN on_IN patterns_NNS of_IN interactions_NNS at_IN previous_JJ time_NN steps_NNS ._.
+With_IN an_DT appropriate_JJ mapping_NN of_IN our_PRP$ bran_NN

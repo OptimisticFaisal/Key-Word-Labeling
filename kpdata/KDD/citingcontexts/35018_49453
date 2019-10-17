@@ -1,0 +1,3 @@
+umptions_NNS over_IN market-basket_JJ type_NN data_NNS quickly_RB shows_VBZ that_IN this_DT probability_NN is_VBZ very_RB small_JJ ._.
+For_IN example_NN ,_, for_IN p_NN =_JJ 0.15_CD ,_, ε_NN =_JJ 0.2_CD ,_, κ_NN =_JJ 0.01_CD ,_, N_NN =_JJ 1,000,000_CD ,_, D_NN =_JJ 500_CD and_CC r_NN =_JJ 5_CD ,_, using_VBG Stirling_NNP 's_POS approximation_NN =_JJ -_: =_JJ -LRB-_-LRB- GKP89_NN -RRB-_-RRB- -_: =_SYM -_: for_IN the_DT combinatorial_JJ terms_NNS one_PRP obtains_VBZ that_IN the_DT probability_NN of_IN finding_VBG an_DT ETI_NN with_IN 5_CD items_NNS by_IN chance_NN is_VBZ approximately_RB 10_CD -9300_CD -LRB-_-LRB- for_IN r_NN =_JJ 10_CD items_NNS this_DT probability_NN drops_VBZ down_RP to_TO 10_CD -43,000_CD -RRB-_-RRB- ._.
+Hence_RB the_DT

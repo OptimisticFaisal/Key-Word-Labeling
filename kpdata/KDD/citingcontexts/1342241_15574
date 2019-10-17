@@ -1,0 +1,5 @@
+per_IN ._.
+Let_VB R1_NN ,_, R2_NN ,_, ..._: ,_, Rn_NN be_VB rulebases_NNS -LRB-_-LRB- which_WDT are_VBP also_RB called_VBN rule_NN sets_NNS -RRB-_-RRB- ._.
+To_TO be_VB specific_JJ ,_, we_PRP assume_VBP that_IN each_DT rulebase_NN contains_VBZ association_NN rules_NNS defined_VBN on_IN some_DT set_NN of_IN transactions_NNS T_NN over_IN the_DT itemset_NN I_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, our_PRP$ approach_NN is_VBZ not_RB limited_VBN to_TO association_NN rules_NNS and_CC can_MD also_RB be_VB applied_VBN to_TO a_DT broader_JJR set_NN of_IN rules_NNS ._.
+The_DT vocabulary_NN of_IN the_DT rule-based_JJ calculus_NN RC_NN is_VBZ defined_VBN over_IN •_FW Rulebases_FW R1_NN ,_, R_NN 2_CD ,_, ..._: ,_, R_NN n._NN

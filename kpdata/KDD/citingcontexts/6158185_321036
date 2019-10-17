@@ -1,0 +1,6 @@
+monotonic_JJ property_NN ._.
+Liu_NNP et_FW al._FW propose_VBP to_TO integrate_VB classification_NN and_CC association_NN rule_NN mining_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+A_DT new_JJ classifier_NN calledCBA_NN is_VBZ built_VBN on_IN top_NN of_IN the_DT discovered_VBN association_NN rules_NNS in_IN the_DT database_NN ._.
+In_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT authors_NNS study_VBP the_DT sequence_NN classification_NN problem_NN ._.
+They_PRP first_RB mine_VBP frequent_JJ sequences_NNS with_IN restrictions_NNS such_JJ as_IN longest_JJS length_NN and_CC maximal_JJ itemset_NN size_NN ._.
+They_PRP then_RB use_VBP them_PRP in_IN the_DT classification_NN ._.

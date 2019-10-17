@@ -1,0 +1,4 @@
+ction_NN of_IN kernels_NNS ._.
+Yang_NNP et_FW al._FW -LRB-_-LRB- 30_CD -RRB-_-RRB- proposed_VBD a_DT local_JJ distance_NN metric_JJ algorithm_NN that_WDT is_VBZ designed_VBN to_TO address_VB the_DT problem_NN of_IN distance_NN metric_JJ learning_NN for_IN multi-modal_JJ data_NNS distributions_NNS ._.
+Golderberg_NNP et_FW al._FW =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: presented_VBD the_DT neighborhood_NN component_NN analysis_NN algorithm_NN that_WDT learns_VBZ a_DT local_JJ distance_NN metric_NN by_IN extending_VBG the_DT nearest_JJS neighbor_NN classifier_NN ._.
+Weinberger_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- presented_VBD a_DT large_JJ margin_NN nearest-neighbor_JJ cl_NN

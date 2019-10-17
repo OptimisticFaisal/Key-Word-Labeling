@@ -1,0 +1,4 @@
+licit_JJ workflow_NN process_NN models_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Generally_RB ,_, a_DT process_NN is_VBZ a_DT set_NN of_IN tasks_NNS to_TO be_VB accomplished_VBN ,_, where_WRB every_DT task_NN might_MD have_VB pre-requisites_NNS within_IN the_DT process_NN that_WDT have_VBP to_TO be_VB fulfilled_VBN before_IN execution_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Process_VB models_NNS are_VBP typical_JJ representations_NNS of_IN process_NN instances_NNS and_CC they_PRP specify_VBP the_DT casual_JJ ,_, sequential_JJ as_RB well_RB as_IN dependency_NN relationships_NNS among_IN tasks_NNS ._.
+In_IN practice_NN ,_, process_NN models_NNS I_PRP are_VBP crucial_JJ in_IN

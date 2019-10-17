@@ -1,0 +1,4 @@
+on_IN ,_, such_JJ as_IN the_DT kernel_NN manipulation_NN ,_, can_MD make_VB these_DT assumptions_NNS plausible_JJ ._.
+A_DT suitable_JJ kernel_NN is_VBZ able_JJ to_TO map_VB the_DT input_NN space_NN into_IN a_DT convenient_JJ feature_NN space_NN where_WRB a_DT linear_JJ boundary_NN can_MD be_VB easily_RB found_VBN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Importantly_RB ,_, this_DT also_RB sheds_VBZ light_NN on_IN transfer_NN learning_NN ._.
+First_RB ,_, a_DT suitable_JJ kernel_NN ,_, such_JJ as_IN Gaussian_JJ kernel_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, can_MD make_VB different_JJ input_NN data_NNS form_VBP similar_JJ marginal_JJ distribution_NN in_IN the_DT kernel_NN space_NN ._.

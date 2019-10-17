@@ -1,0 +1,4 @@
+consider_VB two_CD snapshots_NNS of_IN the_DT Twitter_NNP social_JJ network_NN ,_, from_IN July_NNP 2009_CD -LRB-_-LRB- Time_NN 1_CD -RRB-_-RRB- ,_, and_CC April_NNP 2010_CD -LRB-_-LRB- Time_NN 2_CD -RRB-_-RRB- ._.
+The_DT Time_NNP 1_CD snapshot_NN is_VBZ derived_VBN from_IN complete_JJ Twitter_NNP social_JJ network_NN as_IN collected_VBN by_IN Kwak_NNP et_FW al._FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT snapshot_NN was_VBD used_VBN to_TO extract_VB the_DT ego-centric_JJ network_NN data_NNS for_IN the_DT seed_NN nodes_NNS in_IN S_NN ,_, and_CC the_DT followers_NNS Fs_NNP for_IN each_DT node_NN ._.
+The_DT Time_NNP 2_CD snapshot_NN was_VBD collected_VBN directly_RB using_VBG the_DT Twitter_NNP API_NNP ,_, and_CC was_VBD

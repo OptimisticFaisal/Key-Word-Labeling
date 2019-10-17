@@ -1,0 +1,4 @@
+ss_RB ,_, with_IN an_DT orthogonality_NN constraint_NN on_IN the_DT shared_JJ factors_NNS ._.
+Principal_NN components_NNS analysis_NN ,_, which_WDT factors_VBZ a_DT doubly_RB centered_JJ matrix_NN under_IN squared_VBN loss_NN ,_, has_VBZ also_RB been_VBN extended_VBN to_TO the_DT three-factor_JJ schema_NN =_JJ -_: =[_NN 38_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT extension_NN of_IN pLSI_NN to_TO two_CD related_JJ matrices_NNS ,_, pLSI-pHITS_NN ,_, consists_VBZ of_IN two_CD pLSI_NN models_NNS that_WDT share_VBP latent_JJ variables_NNS -LRB-_-LRB- 39_CD -RRB-_-RRB- ._.
+While_IN our_PRP$ choice_NN of_IN a_DT bilinear_JJ form_NN UV_NN T_NN is_VBZ common_JJ ,_, it_PRP is_VBZ not_RB the_DT only_JJ option_NN ._.

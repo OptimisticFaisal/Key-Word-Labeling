@@ -1,0 +1,6 @@
+ate_VBD the_DT rank_NN Ri_NN ._.
+In_IN general_JJ the_DT rank_NN can_MD be_VB different_JJ on_IN each_DT mode_NN or_CC can_MD change_VB over_IN time_NN ._.
+The_DT idea_NN is_VBZ to_TO keep_VB `_`` the_DT 2_CD smallest_JJS rank_NN Ri_NN such_JJ that_IN the_DT energy_NN ratio_NN Si_NNP F_NN X_NN F_NN ,_, is_VBZ above_IN the_DT threshold_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN all_DT experiments_NNS ,_, we_PRP set_VBD the_DT threshold_NN as_IN 0.9_CD unless_IN mentioned_VBN otherwise_RB ._.
+Complexity_NN :_: The_DT space_NN consumption_NN for_IN incremental_JJ algorithm_NN is_VBZ QM_FW i_FW =_JJ 1_CD Ni_NN +_CC PM_FW i_FW =_JJ 1_CD Ni_FW ×_FW Ri_FW +_CC PM_FW i_FW =_JJ 1_CD Ri_NN ._.
+The_DT dominant_JJ factor_NN i_FW

@@ -1,0 +1,5 @@
+ed_IN the_DT memory_NN capability_NN of_IN a_DT common_JJ PC_NN ._.
+Moreover_RB ,_, the_DT training_NN corpus_NN for_IN practical_JJ application_NN is_VBZ usually_RB much_RB larger_JJR ._.
+ksSome_NN solutions_NNS have_VBP been_VBN proposed_VBN to_TO speed_VB up_RP the_DT clustering_NN on_IN large_JJ corpus_NN =_JJ -_: =[_NN 7,8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+All_DT of_IN these_DT methods_NNS are_VBP based_VBN on_IN the_DT knowledge_NN of_IN the_DT concrete_JJ form_NN of_IN sample_NN and_CC some_DT properties_NNS of_IN the_DT data_NNS set_NN ._.
+For_IN example_NN ,_, some_DT techniques_NNS need_VBP to_TO know_VB the_DT dimensionality_NN and_CC value_NN range_NN of_IN th_DT

@@ -1,0 +1,3 @@
+kages_NNS by_IN Harrell_NNP -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, the_DT idea_NN has_VBZ recently_RB been_VBN picked_VBN up_RP and_CC the_DT nomograms_NNS have_VBP been_VBN used_VBN much_RB to_TO present_VB probabilistic_JJ classification_NN models_NNS in_IN ,_, for_IN instance_NN ,_, clinical_JJ medicine_NN and_CC oncology_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+A_DT naïve_JJ Bayesian_JJ classifier_NN can_MD too_RB be_VB visualized_VBN in_IN the_DT form_NN of_IN a_DT nomogram_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+The_DT nomograms_NNS for_IN support_NN vector_NN machines_NNS that_WDT we_VBP inFigure_NN 1_CD :_: A_DT nomogram_NN of_IN the_DT SVM_NNP model_NN that_WDT predicts_VBZ the_DT probab_NN

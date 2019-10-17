@@ -1,0 +1,4 @@
+ly_RB focused_VBN on_IN extending_VBG the_DT relational_JJ model_NN to_TO handle_VB uncertainty_NN ._.
+Efforts_NNS range_VBP from_IN SQL_FW query_FW evaluation_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, to_TO ranking_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, topk_NN queries_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, and_CC mining_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN many_JJ contexts_NNS ,_, graphs_NNS are_VBP more_RBR suited_VBN than_IN relational_JJ tables_NNS to_TO model_VB and_CC analyze_VB the_DT data_NNS :_: nodes_NNS in_IN the_DT graph_NN represent_VBP entities_NNS and_CC edges_NNS represent_VBP relationships_NNS between_IN pairs_NNS of_IN entities_NNS ._.
+Inco_NNP

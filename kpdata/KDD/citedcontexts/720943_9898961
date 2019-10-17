@@ -1,0 +1,4 @@
+arning_NN and_CC disjoint-inference_NN methods_NNS ._.
+These_DT include_VBP relational_JJ probability_NN trees_NNS -LRB-_-LRB- RPTs_NNS -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, relational_JJ Bayesian_JJ classifiers_NNS -LRB-_-LRB- RBCs_NNS -RRB-_-RRB- -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, structural_JJ logistic_JJ regression_NN -LRB-_-LRB- SLR_NN -RRB-_-RRB- -LRB-_-LRB- 17_CD -RRB-_-RRB- -RRB-_-RRB- and_CC ACORA_NN models_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT methods_NNS use_VBP the_DT observed_VBN attributes_NNS of_IN related_JJ instances_NNS during_IN learning_NN and_CC inference_NN ,_, but_CC they_PRP do_VBP not_RB use_VB the_DT class_NN labels_NNS of_IN related_JJ instances_NNS ._.
+This_DT enables_VBZ application_NN of_IN the_DT models_NNS in_IN dis_NN

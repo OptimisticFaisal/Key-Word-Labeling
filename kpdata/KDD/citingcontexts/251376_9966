@@ -1,0 +1,6 @@
+ing_NN on_IN the_DT same_JJ line_NN and_CC moved_VBD them_PRP apart_RB along_IN the_DT line_NN by_IN adding_VBG a_DT constant_JJ -LRB-_-LRB- i_FW \_FW Theta_NNP c_NN -RRB-_-RRB- ,_, 1sisq_NN ,_, to_TO the_DT first_JJ coordinate_NN of_IN all_PDT the_DT vectors_NNS in_IN the_DT ith_JJ group_NN ._.
+c_NN was_VBD a_DT tunable_JJ parameter_NN ._.
+We_PRP used_VBD CURE_NN =_JJ -_: =_JJ -LRB-_-LRB- GRS98_NN -RRB-_-RRB- -_: =_SYM -_: to_TO adjust_VB the_DT clusters_NNS so_IN that_IN they_PRP were_VBD not_RB too_RB far_RB apart_RB ._.
+Specifically_RB ,_, c_NN was_VBD chosen_VBN to_TO be_VB the_DT minimum_JJ value_NN ,_, by_IN which_WDT CURE_NN can_MD just_RB separate_VB the_DT q_NN clusters_NNS ._.
+In_IN our_PRP$ case_NN ,_, c_NN =_JJ 1.15_CD ._.
+Once_RB the_DT first_JJ q_NN

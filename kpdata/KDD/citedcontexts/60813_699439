@@ -1,0 +1,5 @@
+,_, see_VBP Figure_NNP 1_CD ._.
+Traditional_JJ clustering_NN ,_, Figure_NNP 1_CD ._.
+a_DT ,_, focuses_VBZ on_IN finding_VBG tight_JJ clusters_NNS and_CC would_MD generally_RB produce_VB a_DT clustering_NN with_IN four_CD clusters_NNS A_NN ,_, B_NN ,_, C_NN ,_, and_CC D._NNP Semi-supervised_JJ clustering_NN algorithms_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Figure_NNP 1_CD ._.
+b_NN ,_, not_RB only_RB focus_VB on_IN obtaining_VBG tight_JJ clusters_NNS but_CC also_RB on_IN satisfying_JJ constraints_NNS with_IN respect_NN to_TO assmall_VB set_NN of_IN pre-classified_JJ objects_NNS ._.
+Objects_NNS belonging_VBG to_TO different_JJ classes_NNS should_MD belong_VB

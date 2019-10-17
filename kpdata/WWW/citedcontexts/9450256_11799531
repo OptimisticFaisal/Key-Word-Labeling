@@ -1,0 +1,4 @@
+isolating_VBG application-data_NN from_IN protocol_NN overhead_NN ,_, better_JJR control_NN in_IN respect_NN to_TO outgoing_JJ data_NNS can_MD be_VB guaranteed_VBN ._.
+--_: Shriram_NNP Krishnamurthi_NNP presented_VBD work_NN on_IN control_NN flow_NN enforcement_NN in_IN Web_NN applications_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT presented_VBN technique_NN is_VBZ built_VBN around_IN the_DT correlation_NN between_IN client-side_JJ events_NNS and_CC resulting_VBG HTTP_NN requests_NNS ._.
+Through_IN an_DT analysis_NN of_IN the_DT behavior_NN of_IN the_DT application_NN this_DT correlation_NN can_MD be_VB establ_VBN

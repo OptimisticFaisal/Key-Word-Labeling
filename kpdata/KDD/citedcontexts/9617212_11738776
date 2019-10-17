@@ -1,0 +1,5 @@
+r_NN the_DT LDA_NNP model_NN are_VBP the_DT number_NN of_IN topics_NNS K_NNP and_CC Dirichlet_NNP priors_NNS α_NN and_CC β_NN ._.
+We_PRP experimented_VBD with_IN topics_NNS K_NN :_: -LRB-_-LRB- 600_CD −_CD 1400_CD -RRB-_-RRB- ,_, again_RB with_IN step_NN size_NN 200_CD ._.
+We_PRP fixed_VBD β_NN to_TO 0.01_CD and_CC tested_VBN two_CD values_NNS for_IN α_NN :_: 2_CD 50_CD K_NN -LRB-_-LRB- =_JJ -_: =_JJ Porteous_NNP et_FW al._FW ,_, 2008_CD -_: =--RRB-_NN and_CC K_NN -LRB-_-LRB- Griffiths_NNP and_CC Steyvers_NNP ,_, 2004_CD -RRB-_-RRB- ._.
+We_PRP used_VBD Gibbs_NNP sampling_NN on_IN the_DT ``_`` document_NN collection_NN ''_'' obtained_VBN from_IN the_DT input_NN matrix_NN and_CC estimated_VBD the_DT sense_NN distributions_NNS as_IN described_VBN in_IN Section_NN 4_CD ._.
+We_PRP ran_VBD the_DT c_NN

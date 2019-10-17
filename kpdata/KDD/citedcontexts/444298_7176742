@@ -1,0 +1,5 @@
+rdet_NN ,_, and_CC J.-F_NN ._.
+Boulicaut_JJ fault-tolerant_JJ property_NN is_VBZ not_RB anti-monotonic_JJ while_IN this_DT is_VBZ needed_VBN to_TO achieve_VB tractability_NN ._.
+Therefore_RB ,_, -LRB-_-LRB- 18_CD -RRB-_-RRB- provides_VBZ a_DT greedy_JJ algorithm_NN leading_VBG to_TO an_DT incomplete_JJ computation_NN ._.
+=_SYM -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: revisits_VBZ this_DT work_NN and_CC it_PRP looks_VBZ for_IN an_DT anti-monotonic_JJ constraint_NN such_JJ that_IN a_DT level-wise_JJ algorithm_NN can_MD provide_VB every_DT set_NN whose_WP$ density_NN of_IN one_CD values_NNS is_VBZ greater_JJR than_IN δ_FW in_FW at_IN least_JJS σ_NN situations_NNS ._.
+Anti-mo_JJ

@@ -1,0 +1,4 @@
+ore_NN ,_, the_DT similarity_NN metric_NN we_PRP propose_VBP in_IN this_DT paper_NN capture_NN both_CC the_DT sequentiality_NN and_CC the_DT time_NN information_NN of_IN user_NN sessions_NNS where_WRB all_DT of_IN the_DT previous_JJ models_NNS lack_VBP the_DT time_NN information_NN ._.
+The_DT methods_NNS in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: cluster_NN user_NN sessions_NNS based_VBN on_IN a_DT similarity_NN metric_NN between_IN each_DT session_NN ._.
+Our_PRP$ method_NN for_IN clustering_NN has_VBZ a_DT similar_JJ basic_JJ idea_NN ._.
+However_RB ,_, our_PRP$ similarity_NN metric_NN is_VBZ different_JJ from_IN these_DT metric_NN since_IN it_PRP con_VB

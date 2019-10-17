@@ -1,0 +1,5 @@
+solution_NN -LRB-_-LRB- BB_NN LIN_NNP -RRB-_-RRB- for_IN one_CD particular_JJ class_NN of_IN bipartite_JJ graphs_NNS ._.
+Our_PRP$ method_NN achieves_VBZ up_IN to_TO 1,800_CD x_NN speedup_NN with_IN light_JJ pre-computational_JJ and_CC storage_NN cost_NN ,_, without_IN suffering_VBG quality_NN loss_NN ._.
+Discussions_NNS ._.
+In_IN =_JJ -_: =_JJ -LRB-_-LRB- TFGER07_NN -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP also_RB explored_VBD another_DT proximity_NN definition_NN -LRB-_-LRB- DAP_NN -RRB-_-RRB- in_IN order_NN to_TO leverage_NN the_DT edge_NN directionality_NN ,_, which_WDT is_VBZ based_VBN on_IN escape_NN probability_NN augmented_VBD with_IN a_DT universal_JJ sink_NN ._.
+There_RB ,_, we_PRP also_RB two_CD fast_JJ soluti_NNS

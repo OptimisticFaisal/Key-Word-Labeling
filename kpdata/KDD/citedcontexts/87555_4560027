@@ -1,0 +1,4 @@
+has_VBZ never_RB been_VBN made_VBN in_IN the_DT literature_NN ._.
+Indirect_JJ methods_NNS try_VBP to_TO model_VB the_DT expected_VBN cost_NN of_IN the_DT labeling_NN and_CC assign_VB labels_NNS that_WDT minimize_VBP the_DT expected_VBN cost_NN ._.
+Examples_NNS of_IN this_DT approach_NN 5sinclude_FW MetaCost_FW =_SYM -_: =[_NN 5_CD -RRB-_-RRB- and_CC d_NN -_: =_JJ -_: irect_JJ cost-sensitive_JJ decision_NN making_NN -LRB-_-LRB- 25_CD -RRB-_-RRB- -LRB-_-LRB- ``_`` direct_JJ ''_'' here_RB does_VBZ not_RB have_VB the_DT same_JJ meaning_NN -RRB-_-RRB- ._.
+This_DT is_VBZ exactly_RB equivalent_JJ to_TO modeling_NN the_DT function_NN Qss_NNP ¡_NNP a_DT $_$ and_CC then_RB choosing_VBG the_DT action_NN that_WDT maximizes_VBZ

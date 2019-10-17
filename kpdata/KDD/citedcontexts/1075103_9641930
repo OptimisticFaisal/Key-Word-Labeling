@@ -1,0 +1,6 @@
+ptimal_JJ ._.
+This_DT suggests_VBZ the_DT goal_NN of_IN learning_VBG edge_NN weights_NNS for_IN a_DT particular_JJ class_NN of_IN queries_NNS ._.
+Several_JJ researchers_NNS have_VBP suggested_VBN schemes_NNS for_IN adjusting_VBG the_DT set_NN of_IN edge_NN weights_NNS using_VBG hill-climbing_JJ methods_NNS =_JJ -_: =[_NN 39_CD ,_, 100_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT group_NN of_IN methods_NNS can_MD be_VB adjusted_VBN from_IN infinite_JJ to_TO finite_JJ graph_NN walks_VBZ ._.
+We_PRP have_VBP adapted_VBN an_DT error_NN backpropagation_NN gradient_NN descent_NN algorithm_NN -LRB-_-LRB- 39_CD -RRB-_-RRB- for_IN tuning_NN the_DT graph_NN weights_NNS in_IN our_PRP$ framework_NN ._.
+A_DT d_NN

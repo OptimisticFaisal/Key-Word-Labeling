@@ -1,0 +1,3 @@
+rds_NNS generated_VBN by_IN such_JJ patterns_NNS ,_, while_IN minimizing_VBG the_DT false_JJ positive_JJ rate_NN and_CC avoiding_VBG detection_NN of_IN irrelevant_JJ anomalies_NNS due_JJ to_TO noise_NN ._.
+Much_JJ of_IN this_DT chapter_NN has_VBZ been_VBN adapted_VBN from_IN our_PRP$ paper_NN in_IN KDD_NNP 2008_CD -LRB-_-LRB- =_JJ -_: =_JJ Das_FW et_FW al._FW ,_, 2008_CD -_: =-]_CD ._.
+3.2_CD Anomaly_NNP Pattern_NNP Detection_NN Our_NNP proposed_VBD method_NN can_MD be_VB thought_VBN of_IN as_IN generalizing_VBG two_CD lines_NNS of_IN previous_JJ research_NN :_: the_DT use_NN of_IN standard_JJ anomaly_JJ detection_NN methods_NNS to_TO detect_VB individually_RB anomalous_JJ re_NN

@@ -1,0 +1,4 @@
+._.
+They_PRP empirically_RB demonstrate_VBP the_DT efficiency_NN and_CC the_DT interest_NN of_IN their_PRP$ proposal_NN on_IN several_JJ real-world_JJ dynamic_JJ social_JJ networks_NNS ._.
+By_IN showing_VBG that_IN dynamic_JJ graphs_NNS can_MD be_VB represented_VBN as_IN ternary_JJ relations_NNS ,_, =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: describes_VBZ a_DT constraint-based_JJ mining_NN approach_NN to_TO discover_VB maximal_JJ cliques_NNS that_WDT are_VBP preserved_VBN over_IN almost-contiguous_JJ timestamps_NNS ._.
+The_DT constraints_NNS are_VBP pushed_VBN into_IN a_DT closed_VBN n-ary_NN pattern_NN mining_NN algorithm_NN ._.

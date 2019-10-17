@@ -1,0 +1,3 @@
+s_NNS provide_VBP non-hierarchical_JJ relations_NNS ,_, e.g._FW ,_, by_IN using_VBG ID\/IDREF_NN links_NNS or_CC via_IN XLink_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+Similar_JJ to_TO the_DT proposal_NN for_IN an_DT integrated_VBN data_NN model_NN and_CC -LRB-_-LRB- model-theoretic_JJ -RRB-_-RRB- Semantics_NNS of_IN XML_NN and_CC RDF_NN presented_VBN in_IN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT query_JJ language_NN for_IN both_CC standard_JJ and_CC Semantic_JJ Web_NN must_MD be_VB able_JJ to_TO query_VB any_DT such_JJ data_NNS in_IN a_DT natural_JJ way_NN ._.
+In_IN particular_JJ ,_, an_DT abstraction_NN of_IN the_DT various_JJ linking_VBG mechanisms_NNS is_VBZ desirable_JJ for_IN easy_JJ query_NN

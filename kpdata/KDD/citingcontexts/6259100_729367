@@ -1,0 +1,4 @@
+pproximate_NN summary_NN to_TO the_DT end-user_NN ._.
+Choosing_VBG an_DT appropriate_JJ k_NN for_IN a_DT given_VBN domain_NN is_VBZ usually_RB not_RB easy_JJ and_CC there_EX are_VBP no_DT theoretical_JJ guarantees_NNS on_IN the_DT level_NN of_IN approximation_NN for_IN a_DT given_VBN k._NNP Afrati_NNP et_FW al._FW =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: use_NN K_NN itemsets_NNS to_TO recover_VB a_DT collection_NN of_IN frequent_JJ itemsets_NNS ._.
+Like_IN maximal_JJ itemsets_NNS the_DT method_NN can_MD not_RB recover_VB the_DT frequency_NN information_NN from_IN the_DT summary_NN ._.
+Recently_RB Yan_NNP et_FW al._FW -LRB-_-LRB- 17_CD -RRB-_-RRB- proposed_VBN pattern_NN prof_NN

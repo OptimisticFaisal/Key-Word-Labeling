@@ -1,0 +1,4 @@
+lready_NN matched_VBN by_IN keywords_NNS selected_VBN earlier_RBR ._.
+Limits_NNS on_IN profile_NN size_NN entail_VBP that_IN the_DT particular_JJ submodular_JJ optimization_NN problem_NN to_TO which_WDT profile_NN construction_NN can_MD be_VB reduce_VB is_VBZ budgeted_VBN maximum_JJ coverage_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ NPhard_NN ._.
+However_RB ,_, it_PRP can_MD be_VB solved_VBN approximately_RB using_VBG the_DT greedy_JJ algorithm_NN of_IN Nemhauser_NNP et_FW al._FW -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, which_WDT is_VBZ guaranteed_VBN to_TO produce_VB a_DT solution_NN that_WDT is_VBZ -LRB-_-LRB- ⁄_NN -RRB-_-RRB- optimal_JJ ._.
+The_DT algorithm_NN proceeds_VBZ

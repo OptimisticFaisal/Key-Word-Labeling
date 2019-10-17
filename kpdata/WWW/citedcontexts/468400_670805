@@ -1,0 +1,4 @@
+of_IN the_DT graph_NN ,_, and_CC entity-relationship_NN graphs_NNS that_WDT capture_VBP ,_, for_IN example_NN ,_, bibliographic_JJ data_NNS such_JJ as_IN DBLP_NNP or_CC Citeseer_NNP ._.
+Such_JJ settings_NNS have_VBP led_VBN to_TO new_JJ forms_NNS of_IN ObjectRank_NNP ,_, PopRank_NNP ,_, or_CC EntityRank_NNP measures_VBZ =_JJ -_: =[_NN 2_CD ,_, 3_CD ,_, 9_CD ,_, 11_CD ,_, 32_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+ObjectRank_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- resembles_VBZ our_PRP$ approach_NN because_IN it_PRP is_VBZ also_RB inspired_VBN by_IN HITS_NN ,_, but_CC it_PRP does_VBZ not_RB address_VB Web_NN data_NNS at_IN all_DT ._.
+EntityRank_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- addresses_VBZ the_DT ranking_NN of_IN entities_NNS extracted_VBN from_IN Web_NN pages_NNS ,_, but_CC it_PRP

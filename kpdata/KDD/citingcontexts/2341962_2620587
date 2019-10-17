@@ -1,0 +1,5 @@
+s_NN in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+The_DT combination_NN technique_NN is_VBZ only_RB one_CD of_IN the_DT various_JJ methods_NNS to_TO solve_VB problems_NNS on_IN sparse_JJ grids_NNS ._.
+Note_VB that_IN there_EX exist_VBP also_RB finite_JJ difference_NN -LRB-_-LRB- 24_CD ,_, 38_CD -RRB-_-RRB- and_CC Galerkin_NNP finite_JJ element_NN approaches_VBZ =_JJ -_: =[_NN 2_CD ,_, 8_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT work_VBP directly_RB in_IN the_DT hierarchical_JJ product_NN basis_NN on_IN the_DT sparse_JJ grid_NN ._.
+But_CC the_DT combination_NN technique_NN is_VBZ conceptually_RB much_RB simpler_JJR and_CC easier_JJR to_TO implement_VB ._.
+Moreover_RB it_PRP allows_VBZ to_TO reuse_VB standard_JJ solv_NN

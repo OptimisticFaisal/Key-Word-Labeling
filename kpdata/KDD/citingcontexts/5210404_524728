@@ -1,0 +1,4 @@
+emerging_VBG mining_NN applications_NNS such_JJ as_IN time_NN series_NN analysis_NN other_JJ error_NN measures_NNS -LRB-_-LRB- e.g._FW ℓ_FW ∞_FW ,_, weighted_JJ ℓ2_NN etc._NN -RRB-_-RRB- have_VBP been_VBN considered_VBN recently_RB ._.
+It_PRP would_MD be_VB impossible_JJ to_TO conduct_VB a_DT thorough_JJ review_NN ,_, however_RB =_JJ -_: =[_NN 13_CD ,_, 19_CD ,_, 1_CD ,_, 18_CD ,_, 7_CD ,_, 6_CD ,_, 4_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: and_CC pointers_NNS therein_RB serve_VBP as_IN excellent_JJ starting_NN points_NNS ._.
+In_IN this_DT paper_NN we_PRP consider_VBP the_DT following_JJ problem_NN :_: Problem_NNP 1_CD ._.
+Given_VBN a_DT set_NN of_IN n_NN numbers_NNS X_NN =_JJ x1_NN ,_, ..._: ,_, xn_NN ,_, find_VBP a_DT synopsis_NN vector_NN Z_NN with_IN at_IN most_JJS

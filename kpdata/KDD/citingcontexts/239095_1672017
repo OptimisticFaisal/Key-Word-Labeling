@@ -1,0 +1,5 @@
+ttributes_NNS -RRB-_-RRB- created_VBN using_VBG David_NNP Musicant_NNP 's_POS NDC_NNP Data_NNP Generator_NNP -LRB-_-LRB- 29_CD -RRB-_-RRB- ._.
+sThe_FW Spiral_FW dataset_NN proposed_VBN by_IN Alexis_NNP Wieland_NNP of_IN the_DT MITRE_NNP Corporation_NNP and_CC available_JJ from_IN the_DT CMU_NNP Artificial_NNP Intelligence_NNP Repository_NNP =_SYM -_: =[_NN 37_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP outline_VBP our_PRP$ computational_JJ results_NNS now_RB in_IN five_CD groups_NNS as_IN follows_VBZ ._.
+1_CD ._.
+Table_NNP 1_CD :_: Comparison_NN of_IN seven_CD different_JJ methods_NNS on_IN the_DT Adult_JJ dataset_NN In_IN this_DT experiment_NN we_PRP compared_VBD the_DT performance_NN of_IN seven_CD dif_NN

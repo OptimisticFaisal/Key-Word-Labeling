@@ -1,0 +1,4 @@
+document_NN d._NN There_EX exist_VBP a_DT wide_JJ variety_NN of_IN algorithms_NNS for_IN text_NN classification_NN ,_, ranging_VBG from_IN the_DT simple_JJ but_CC effective_JJ Naive_JJ Bayes_NNS algorithm_NN to_TO the_DT more_RBR computationally_RB demanding_VBG Support_NN Vector_NNP Machines_NNP =_SYM -_: =[_NN 24_CD ,_, 10_CD ,_, 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT common_JJ ,_, and_CC often_RB overwhelming_JJ ,_, characteristic_JJ of_IN text_NN data_NNS is_VBZ its_PRP$ extremely_RB high_JJ dimensionality_NN ._.
+Typically_RB the_DT document_NN vectors_NNS are_VBP formed_VBN using_VBG a_DT vector-space_JJ or_CC bag-ofwords_JJ model_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Even_RB a_DT mo_NN

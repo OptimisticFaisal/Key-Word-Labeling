@@ -1,0 +1,5 @@
+._.
+e._RB ,_, they_PRP give_VBP the_DT same_JJ results_NNS as_IN a_DT tree_NN learned_VBN using_VBG all_PDT the_DT data_NNS in_IN a_DT centralized_JJ setting_NN ._.
+Approximate_JJ algorithms_NNS for_IN parallel_JJ learning_NN of_IN trees_NNS on_IN streaming_NN data_NNS have_VBP also_RB been_VBN recently_RB proposed_VBN =_JJ -_: =[_NN 2_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+MapReduce_NNP in_IN Machine_NNP Learning_NNP :_: In_IN recent_JJ years_NNS ,_, some_DT learning_NN algorithms_NNS have_VBP been_VBN implemented_VBN using_VBG the_DT MapReduce_NNP framework_NN ._.
+Chu_NNP et_FW al._FW -LRB-_-LRB- 11_CD -RRB-_-RRB- give_VBP an_DT excellent_JJ overview_NN of_IN how_WRB different_JJ popular_JJ lear_NN

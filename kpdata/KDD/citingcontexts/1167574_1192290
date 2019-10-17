@@ -1,0 +1,5 @@
+alies_NNS in_IN spacecraft_NN systems_NNS for_IN a_DT long_JJ time_NN ._.
+It_PRP constantly_RB monitors_VBZ some_DT important_JJ time_NN series_NN in_IN the_DT telemetry_NN data_NNS and_CC checks_NNS whether_IN the_DT value_NN is_VBZ within_IN the_DT pre-defined_JJ upper_JJ and_CC lower_JJR limits_NNS ._.
+Ref_NN ._.
+=_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT method_NN of_IN automatically_RB computing_VBG limit_NN values_NNS using_VBG autoregressive_JJ model_NN ._.
+Though_IN the_DT limit-checking_NN has_VBZ an_DT advantage_NN that_IN it_PRP is_VBZ simple_JJ enough_RB to_TO be_VB applied_VBN to_TO any_DT types_NNS of_IN spacecraft_NN ,_, it_PRP

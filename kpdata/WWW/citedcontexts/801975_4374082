@@ -1,0 +1,4 @@
+s_NN and_CC Web_NN document_NN classification_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Both_DT applications_NNS require_VBP a_DT similarity_NN measure_NN ,_, which_WDT is_VBZ computed_VBN by_IN either_CC the_DT textual_JJ content_NN of_IN pages_NNS or_CC the_DT hyperlink_NN structure_NN or_CC both_DT ._.
+As_IN in_IN previous_JJ work_NN =_JJ -_: =[_NN 6_CD ,_, 9_CD ,_, 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP focus_VBP on_IN similarities_NNS solely_RB determined_VBN by_IN hyperlink_NN structure_NN of_IN the_DT Web_NN graph_NN ._.
+Common_NNP Neighbors_NNP Common_NNP neighbor_NN model_NN is_VBZ based_VBN on_IN the_DT idea_NN that_IN two_CD pages_NNS are_VBP more_RBR similar_JJ if_IN they_PRP have_VBP more_JJR comm_NN

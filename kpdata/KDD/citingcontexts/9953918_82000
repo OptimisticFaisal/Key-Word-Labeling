@@ -1,0 +1,4 @@
+session_NN lasts_VBZ less_JJR than_IN one_CD hour_NN ._.
+Theoretically_RB ,_, for_IN a_DT large_JJ window_NN and_CC hence_RB large_JJ target_NN event_NN counts_NNS ,_, the_DT assumed_JJ Poisson_NNP approaches_VBZ a_DT Gaussian_NNP with_IN a_DT same_JJ mean_NN and_CC may_MD suffer_VB from_IN overdispersion_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN online_JJ prediction_NN on_IN the_DT other_JJ hand_NN ,_, one_CD typically_RB estimates_VBZ target_NN counts_NNS in_IN a_DT window_NN of_IN several_JJ minutes_NNS -LRB-_-LRB- time_NN interval_NN between_IN successive_JJ ad_NN servings_NNS -RRB-_-RRB- ._.
+Suppose_VB that_IN the_DT number_NN of_IN sliding_VBG window_NN

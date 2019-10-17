@@ -1,0 +1,6 @@
+ibility_NN of_IN privacy-preservation_NN by_IN using_VBG techniques_NNS to_TO perturb_VB sensitive_JJ values_NNS in_IN data_NNS ._.
+•_NNP Data_NNP swapping_VBG ._.
+Attribute_NN values_NNS are_VBP interchanged_VBN in_IN a_DT way_NN that_WDT maintains_VBZ the_DT results_NNS of_IN statistical_JJ queries_NNS -LRB-_-LRB- =_JJ -_: =_JJ Evfimievski_NNP et_FW al._FW ,_, 2002_CD -_: =--RRB-_NN ._.
+•_CD The_DT elimination_NN of_IN unnecessary_JJ groupings_NNS ._.
+By_IN assigning_VBG unique_JJ identifiers_NNS randomly_RB ;_: they_PRP serve_VBP only_RB as_IN unique_JJ identifiers_NNS ._.
+This_DT prevents_VBZ meaningful_JJ groupings_NNS based_VBN on_IN these_DT identifiers_NNS yet_RB does_VBZ n_NN

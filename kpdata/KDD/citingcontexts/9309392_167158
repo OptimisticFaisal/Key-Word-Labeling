@@ -1,0 +1,6 @@
+eight_CD features_NNS based_VBN on_IN their_PRP$ predictiveness_NN ._.
+We_PRP achieved_VBD better_JJR results_NNS using_VBG an_DT ensemble_NN of_IN LR_NN models_NNS we_PRP refer_VBP to_TO as_IN logForest_NN ._.
+The_DT logForest_NN model_NN is_VBZ inspired_VBN by_IN Breiman_NNP 's_POS Random_NNP Forest_NNP classifier_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP use_VBP a_DT bag_NN of_IN LR_NN classifiers_NNS ,_, where_WRB each_DT is_VBZ given_VBN a_DT subset_NN of_IN log_NN -LRB-_-LRB- M_NN -RRB-_-RRB- +_CC 1_CD of_IN the_DT M_NN total_JJ features_NNS ._.
+For_IN this_DT study_NN ,_, our_PRP$ logForest_NN model_NN uses_VBZ 500_CD LR_NN classifiers_NNS ._.
+GhostEdgeL_NN divides_VBZ ghost_NN edges_NNS into_IN s_NN

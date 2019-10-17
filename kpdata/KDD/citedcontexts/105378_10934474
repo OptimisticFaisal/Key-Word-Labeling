@@ -1,0 +1,5 @@
+reshold_NN is_VBZ low_JJ ._.
+Out_IN of_IN these_DT patterns_NNS most_JJS are_VBP not_RB required_VBN in_IN data_NN mining_NN tasks_NNS ._.
+To_TO avoid_VB these_DT useless_JJ or_CC redundant_JJ patterns_NNS ,_, new_JJ types_NNS of_IN patterns_NNS were_VBD introduced_VBN ,_, namely_RB maximal_JJ frequent_JJ itemsets_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 6_CD -RRB-_-RRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, and_CC closed_VBD frequent_JJ itemsets_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+All_PDT the_DT above_JJ methods_NNS do_VBP not_RB consider_VB time_NN stamps_NNS associated_VBN with_IN the_DT transactions_NNS ._.
+So_RB ,_, the_DT above_JJ methods_NNS do_VBP not_RB reveal_VB the_DT dynamic_JJ behavior_NN of_IN the_DT patter_NN

@@ -1,0 +1,4 @@
+t_NN objective_NN ._.
+Recently_RB ,_, graph_NN partitioning_VBG with_IN an_DT edge_NN cut_NN objective_NN has_VBZ been_VBN shown_VBN to_TO be_VB mathematically_RB equivalent_JJ to_TO an_DT appropriate_JJ weighted_JJ kernel_NN k-means_NN objective_NN function_NN -LRB-_-LRB- Dhillon_NNP et_FW al._FW ,_, 2004_CD ;_: =_JJ -_: =_JJ Dhillon_NNP et_FW al._FW ,_, 2005_CD -_: =--RRB-_NN ._.
+The_DT assumption_NN behind_IN the_DT graph_NN partitioning_VBG formulation_NN is_VBZ that_IN since_IN the_DT nodes_NNS within_IN a_DT cluster_NN are_VBP similar_JJ to_TO each_DT other_JJ ,_, they_PRP form_VBP a_DT dense_JJ subgraph_NN ._.
+However_RB ,_, in_IN general_JJ this_DT is_VBZ not_RB true_JJ for_IN rel_NN

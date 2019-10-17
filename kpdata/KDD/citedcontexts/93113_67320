@@ -1,0 +1,5 @@
+rate_NN many_JJ possible_JJ subsets_NNS ._.
+3_LS -RRB-_-RRB- It_PRP uses_VBZ a_DT fast_JJ hash-based_JJ approach_NN to_TO eliminate_VB non-closed_JJ itemsets_NNS during_IN subsumption_NN checking_NN ._.
+CHARM_NN also_RB utilizes_VBZ a_DT novel_JJ vertical_JJ data_NNS representation_NN called_VBD diffset_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, recently_RB proposed_VBN by_IN us_PRP ,_, for_IN fast_JJ frequency_NN computations_NNS ._.
+Diffsets_NNS keep_VBP track_NN of_IN differences_NNS in_IN the_DT tids_NNS of_IN a_DT candidate_NN pattern_NN from_IN its_PRP$ prefix_NN pattern_NN ._.
+Diffsets_NNS drastically_RB cut_VBD down_RB -LRB-_-LRB- by_IN orders_NNS of_IN m_NN

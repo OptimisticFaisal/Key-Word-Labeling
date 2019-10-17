@@ -1,0 +1,3 @@
+e_LS probability_NN of_IN class_NN yi_NN -LRB-_-LRB- estimated_VBN by_IN the_DT relative_JJ frequency_NN in_IN the_DT training_NN data_NNS -RRB-_-RRB- ._.
+In_IN first_JJ experimental_JJ studies_NNS ,_, this_DT approach_NN has_VBZ been_VBN compared_VBN to_TO state-ofthe-art_JJ ranking_NN methods_NNS such_JJ as_IN SVMRank_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT ,_, instead_RB of_IN decomposing_VBG the_DT original_JJ problem_NN into_IN a_DT set_NN of_IN small_JJ binary_JJ classification_NN problems_NNS ,_, transforms_VBZ it_PRP into_IN a_DT single_JJ ,_, large_JJ classification_NN problem_NN ._.
+The_DT results_NNS suggest_VBP that_IN LPC_NN is_VBZ compe_NN

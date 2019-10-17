@@ -1,0 +1,3 @@
+dance-based_JJ approach_NN ,_, require_VBP tight_JJ integration_NN with_IN the_DT database_NN to_TO ensure_VB timely_JJ propagation_NN of_IN updates_NNS and_CC are_VBP usually_RB targeted_VBN towards_IN workloads_NNS that_WDT do_VBP not_RB require_VB strict_JJ consistency_NN ._.
+Gao_NNP et_FW al._FW =_SYM -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP using_VBG a_DT distributed_VBN object_NN replication_NN architecture_NN where_WRB the_DT data_NN store_NN 's_POS consistency_NN requirements_NNS are_VBP adapted_VBN on_IN a_DT per-application_JJ basis_NN ._.
+These_DT solutions_NNS require_VBP substantial_JJ developer_NN resou_NN

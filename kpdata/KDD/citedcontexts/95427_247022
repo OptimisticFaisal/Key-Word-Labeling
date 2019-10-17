@@ -1,0 +1,5 @@
+ept_NN drift_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+Therefore_RB ,_, classical_JJ classification_NN algorithms_NNS must_MD be_VB replaced_VBN by_IN ,_, or_CC modified_VBN into_IN ,_, incremental_JJ algorithms_NNS that_WDT are_VBP fast_JJ and_CC light_JJ and_CC gracefully_RB adapt_VB to_TO changes_NNS in_IN data_NN statistics_NNS =_JJ -_: =[_NN 17,18,5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Related_NNP Works_NNP ._.
+Because_IN of_IN their_PRP$ good_JJ performance_NN and_CC intuitive_JJ appeal_NN ,_, decision_NN tree_NN classifiers_NNS and_CC nearest_JJS neighborhood_NN classifiers_NNS have_VBP been_VBN widely_RB used_VBN in_IN traditional_JJ data_NNS mining_NN tasks_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+For_IN

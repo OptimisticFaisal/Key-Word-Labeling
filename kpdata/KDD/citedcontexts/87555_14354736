@@ -1,0 +1,4 @@
+estimated_VBN probability_NN ._.
+Instead_RB of_IN costs_NNS ,_, the_DT expected_VBN utility_NN could_MD also_RB be_VB modeled_VBN ,_, or_CC both_DT ,_, utility_NN and_CC costs_NNS ._.
+While_IN in_IN supervised_JJ scenarios_NNS classifiers_NNS can_MD be_VB optimized_VBN w.r.t._IN a_DT certain_JJ cost_NN model_NN =_JJ -_: =[_NN 15_CD ,_, 56_CD -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN the_DT unsupervised_JJ scenario_NN of_IN outlier_NN detection_NN ,_, the_DT assumed_JJ cost-model_NN can_MD not_RB be_VB used_VBN to_TO fit_VB or_CC train_VB the_DT algorithm_NN but_CC only_RB to_TO evaluate_VB its_PRP$ results_NNS ._.
+It_PRP should_MD be_VB noted_VBN ,_, though_RB ,_, that_IN while_IN calibr_NN

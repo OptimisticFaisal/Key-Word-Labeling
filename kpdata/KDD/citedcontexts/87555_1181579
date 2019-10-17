@@ -1,0 +1,4 @@
+Street_NNP ,_, Second_NNP Floor_NNP -_: Press_NNP Building_NNP ,_, Chicago_NNP ,_, IL_NN 60637_CD ._.
+Bianca_NNP Zadrozny_NNP ,_, John_NNP Langfords_NNP ,_, Naoki_NNP Abe_NNP Mathematical_NNP Sciences_NNP Department_NNP IBM_NNP T._NNP J._NNP Watson_NNP Research_NNP Center_NNP Yorktown_NNP Heights_NNP ,_, NY_NNP 10598_CD class_NN =_JJ -_: =[_NN 2_CD ,_, 19_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT requires_VBZ estimating_NN class_NN membership_NN probabilities_NNS and_CC ,_, in_IN the_DT case_NN where_WRB costs_NNS are_VBP nondeterministic_JJ ,_, also_RB requires_VBZ estimating_VBG expected_VBN costs_NNS -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+The_DT third_JJ category_NN concerns_NNS methods_NNS for_IN conve_NN

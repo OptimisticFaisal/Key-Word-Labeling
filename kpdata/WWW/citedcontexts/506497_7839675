@@ -1,0 +1,4 @@
+t_NN topic_NN models_NNS ._.
+The_DT first_JJ limitation_NN pertains_NNS to_TO scalability_NN which_WDT is_VBZ indicated_VBN by_IN the_DT fact_NN that_IN most_JJS previous_JJ works_NNS use_VBP topic_NN models_NNS for_IN representing_VBG documents_NNS in_IN medium-size_JJ corpora_NN -LRB-_-LRB- less_JJR than_IN 2GB_NN -RRB-_-RRB- =_JJ -_: =[_NN 3_CD ,_, 5_CD ,_, 7_CD ,_, 10_CD ,_, 19_CD ,_, 21_CD ,_, 23_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT challenge_NN is_VBZ that_IN the_DT inference_NN algorithms_NNS for_IN the_DT models_NNS require_VBP many_JJ scans_NNS over_IN a_DT corpus_NN ._.
+When_WRB the_DT corpus_NN can_MD not_RB fit_VB into_IN internal_JJ memory_NN ,_, the_DT algorithms_NNS require_VBP many_JJ external_JJ memory_NN operation_NN

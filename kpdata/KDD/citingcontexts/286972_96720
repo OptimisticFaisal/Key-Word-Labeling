@@ -1,0 +1,4 @@
+r_NN approach_NN to_TO K-Means_NNS ,_, by_IN iterating_VBG on_IN the_DT process_NN of_IN estimating_VBG the_DT parameters_NNS of_IN k_NN Gaussian_JJ distributions_NNS ,_, optimizing_VBG the_DT probability_NN that_IN the_DT mixture_NN of_IN Gaussian_JJ distributions_NNS ts_IN the_DT data_NNS ._.
+CLARANS_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, is_VBZ the_DT rst_NN method_NN designed_VBN for_IN large_JJ data_NNS sets_NNS ._.
+CLARANS_NN k_NN medoids_NNS ,_, assigns_VBZ points_NNS to_TO the_DT nearest_JJS medoid_NN and_CC follows_VBZ an_DT iterative_JJ procedure_NN to_TO optimize_VB a_DT distance_NN function_NN ._.
+CLARANS_NNP has_VBZ ,_, however_RB ,_, a_FW la_FW

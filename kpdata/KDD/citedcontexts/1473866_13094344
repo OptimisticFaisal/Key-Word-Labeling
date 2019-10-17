@@ -1,0 +1,4 @@
+ng_NN techniques_NNS are_VBP not_RB appropriate_JJ ._.
+One_CD way_NN of_IN avoiding_VBG the_DT need_NN for_IN training_NN data_NNS is_VBZ to_TO define_VB a_DT distance_NN metric_NN for_IN records_NNS which_WDT does_VBZ not_RB need_VB tuning_NN through_IN training_NN data_NNS ._.
+Distance-based_JJ approaches_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, that_WDT conflate_VBP each_DT record_NN in_IN one_CD big_JJ field_NN may_MD ignore_VB important_JJ information_NN that_WDT can_MD be_VB used_VBN for_IN duplicate_VB detection_NN ._.
+A_DT simple_JJ approach_NN is_VBZ to_TO measure_VB the_DT distance_NN between_IN individual_JJ fields_NNS ,_, using_VBG th_DT

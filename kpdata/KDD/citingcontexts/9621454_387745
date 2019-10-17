@@ -1,0 +1,4 @@
+Fig._NN 1_CD -RRB-_-RRB- and_CC topic_NN modeling_NN ,_, as_IN illustrated_VBN as_IN Fig._NNP 1_CD ._.
+The_DT pipeline_NN begins_VBZ by_IN finding_VBG all_DT figure-captions_NNS pairs_NNS ._.
+Each_DT caption_NN is_VBZ then_RB processed_VBN to_TO identify_VB biological_JJ entities_NNS -LRB-_-LRB- e.g._FW ,_, names_NNS of_IN proteins_NNS -RRB-_-RRB- =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT The_DT second_JJ step_NN in_IN caption_NN processing_NN is_VBZ to_TO identify_VB pointers_NNS from_IN the_DT caption_NN that_WDT refer_VBP to_TO a_DT specific_JJ panel_NN in_IN the_DT figure_NN ,_, and_CC the_DT caption_NN is_VBZ broken_VBN into_IN ``_`` scopes_NNS ''_'' so_IN that_IN terms_NNS can_MD be_VB linked_VBN

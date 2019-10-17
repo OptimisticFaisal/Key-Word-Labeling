@@ -1,0 +1,4 @@
+n_NN Matching_NN and_CC Normal_JJ Profiling_NN With_IN the_DT rules_NNS mining_NN from_IN the_DT traffic_NN data_NNS ,_, we_PRP use_VBP the_DT following_VBG algorithm_NN to_TO detect_VB significant_JJ deviations_NNS from_IN normal_JJ profile_NN ._.
+Lee_NNP 's_POS encoding_JJ scheme_NN of_IN associations_NNS =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: was_VBD incorporated_VBN into_IN our_PRP$ system_NN ._.
+To_TO compare_VB association_NN rules_NNS ,_, we_PRP calculate_VBP the_DT difference_NN between_IN the_DT encoding_NN of_IN two_CD associations_NNS involved_VBN ._.
+However_RB ,_, we_PRP did_VBD not_RB use_VB Lee_NNP 's_POS pattern_NN matching_NN algorithm_NN

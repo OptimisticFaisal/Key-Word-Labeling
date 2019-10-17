@@ -1,0 +1,5 @@
+t_NN al._FW -LRB-_-LRB- 8_CD -RRB-_-RRB- extended_VBD the_DT Web_NN graph_NN compression_NN framework_NN -LRB-_-LRB- 4_CD ,_, 5_CD -RRB-_-RRB- by_IN Boldi_NNP and_CC Vigna_NNP -LRB-_-LRB- the_DT BV_NN schema_NN -RRB-_-RRB- to_TO compress_VB social_JJ networks_NNS ._.
+The_DT central_JJ idea_NN is_VBZ to_TO introduce_VB an_DT ordering_VBG based_VBN on_IN Jaccard_NNP coefficient_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+By_IN integrating_VBG this_DT ordering_VBG into_IN the_DT BV_NN schema_NN ,_, they_PRP introduced_VBD a_DT compression_NN schema_NN for_IN social_JJ networks_NNS ._.
+They_PRP further_RB exploited_VBD the_DT reciprocal_JJ edges_NNS ._.
+However_RB ,_, one_CD drawback_NN is_VBZ that_IN their_PRP$ method_NN can_MD

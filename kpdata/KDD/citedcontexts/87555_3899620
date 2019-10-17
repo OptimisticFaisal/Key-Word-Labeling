@@ -1,0 +1,4 @@
+L_NN -LRB-_-LRB- cl_NN -LRB-_-LRB- l_NN -RRB-_-RRB- |_FW f_FW -RRB-_-RRB- -LRB-_-LRB- 1_LS -RRB-_-RRB- l_NN ∈_NN L_NN There_EX has_VBZ been_VBN a_DT significant_JJ volume_NN of_IN work_NN on_IN the_DT problem_NN of_IN minimizing_VBG MC_NNP costs_NNS :_: some_DT general_JJ methods_NNS are_VBP the_DT 40_CD weighted_JJ boosting_VBG algorithm_NN of_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, and_CC the_DT MetaCost_NNP algorithm_NN of_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2.2_CD Attribute_NNP measurement_NN costs_VBZ The_DT action_NN of_IN measuring_VBG an_DT attribute_NN fi_NN is_VBZ indicated_VBN as_IN m_NN -LRB-_-LRB- fi_NN -RRB-_-RRB- ._.
+This_DT action_NN may_MD incur_VB a_DT deterministic_JJ cost_NN :_: CM_NN -LRB-_-LRB- m_NN -LRB-_-LRB- fi_NN -RRB-_-RRB- -RRB-_-RRB- ._.
+We_PRP assume_VBP the_DT value_NN of_IN a_DT measured_JJ attribute_NN is_VBZ c_NN

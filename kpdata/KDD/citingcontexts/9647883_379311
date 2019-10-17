@@ -1,0 +1,4 @@
+is_VBZ important_JJ when_WRB searching_VBG for_IN DSLR_NNP cameras_NNS and_CC weight_NN for_IN compact_JJ cameras_NNS ._.
+As_IN a_DT result_NN ,_, similarity_NN notions_NNS also_RB vary_VBP significantly_RB in_IN different_JJ clusters_NNS ._.
+This_DT problem_NN ,_, known_VBN as_IN subspace_NN clustering_NN =_JJ -_: =[_NN 4_CD ,_, 6_CD ,_, 8_CD ,_, 2_CD ,_, 3_CD ,_, 21_CD ,_, 23_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, has_VBZ been_VBN actively_RB studied_VBN ._.
+Specifically_RB ,_, these_DT algorithms_NNS search_VBP through_IN possible_JJ subspaces_NNS ,_, and_CC then_RB determine_VB a_DT subspace_NN that_WDT best_RB presents_VBZ the_DT ``_`` local_JJ similarity_NN ''_'' of_IN objects_NNS ,_, though_IN search_NN and_CC sel_NN

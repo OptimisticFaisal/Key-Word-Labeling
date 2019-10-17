@@ -1,0 +1,5 @@
+t_NN algorithm_NN for_IN high-dimensional_JJ data_NNS ._.
+Several_JJ tree-based_JJ accelerations_NNS have_VBP also_RB been_VBN proposed_VBN ,_, such_JJ as_IN Moore_NNP 's_POS anchors_NNS hierarchy_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, which_WDT is_VBZ effective_JJ in_IN high_JJ dimensions_NNS ,_, and_CC k-d_NN tree_NN algorithms_VBZ =_JJ -_: =[_NN 17_CD ,_, 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT are_VBP very_RB fast_RB on_IN lowdimensional_JJ data_NNS ._.
+In_IN this_DT paper_NN we_PRP present_VBP a_DT new_JJ method_NN of_IN accelerating_VBG Lloyd_NNP 's_POS algorithm_NN which_WDT builds_VBZ on_IN Elkan_NNP 's_POS algorithm_NN ._.
+130_CD Copyright_NNP ©_NNP by_IN SIAM_NNP ._.
+Unauthorized_JJ reproduct_NN

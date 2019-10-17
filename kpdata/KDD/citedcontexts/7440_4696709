@@ -1,0 +1,4 @@
+none_NN of_IN them_PRP address_VBP privacy_NN preserving_NN clustering_NN on_IN horizontally_RB partitioned_VBN data_NNS ._.
+Clifton_NNP and_CC Vaidya_NNP propose_VBP a_DT secure_JJ multi-party_JJ computation_NN of_IN k-means_NN algorithm_NN on_IN vertically_RB partitioned_VBN data_NNS in_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+More_RBR recent_JJ work_NN in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- by_IN Kruger_NNP et_FW al._FW proposes_VBZ a_DT privacy_NN preserving_NN ,_, sdistributed_VBN k-means_NN protocol_NN on_IN horizontally_RB partitioned_VBN data_NNS ._.
+We_PRP primarily_RB focus_VB on_IN hierarchical_JJ clustering_NN methods_NNS in_IN this_DT

@@ -1,0 +1,5 @@
+keep_VB track_NN of_IN resources_NNS in_IN the_DT Annotation_NNP as_RB well_RB as_IN their_PRP$ archived_JJ representation_NN ._.
+2_CD ._.
+RELATED_NNS WORK_VBP Web_NN annotations_NNS are_VBP an_DT active_JJ research_NN field_NN ._.
+This_DT include_VBP projects_NNS such_JJ as_IN the_DT W3C_NN project_NN Annotea_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT uses_VBZ an_DT RDF_NN based_JJ annotation_NN schema_NN for_IN describing_VBG metadata_NN ._.
+Annotea_NNP stores_VBZ the_DT annotation_NN metadata_NN either_CC locally_RB or_CC in_IN an_DT annotation_NN server_NN ,_, but_CC it_PRP needs_VBZ a_DT special_JJ client_NN that_WDT reads_VBZ the_DT annota_NN

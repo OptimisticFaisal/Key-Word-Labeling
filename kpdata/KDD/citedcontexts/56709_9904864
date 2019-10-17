@@ -1,0 +1,4 @@
+tilizing_VBG special_JJ representations_NNS of_IN the_DT pooled_JJ scatter_NN matrix_NN and_CC between-class_JJ scatter_NN matrix_NN ._.
+A_DT similar_JJ general_JJ approach_NN has_VBZ been_VBN used_VBN in_IN the_DT development_NN of_IN efficient_JJ approximate_JJ algorithms_NNS for_IN LDA_NN =_JJ -_: =[_NN 2_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, the_DT challenge_NN of_IN developing_VBG an_DT efficient_JJ general_JJ implementation_NN methodology_NN for_IN LDA_NNP still_RB remains_VBZ ._.
+It_PRP is_VBZ well_RB known_VBN that_IN LDA_NN is_VBZ equivalent_JJ to_TO a_DT least_JJS mean_NN squared_VBD error_NN procedure_NN in_IN the_DT bin_NN

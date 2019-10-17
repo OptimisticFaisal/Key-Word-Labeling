@@ -1,0 +1,5 @@
+ew_NN has_VBZ uniform_JJ domains_NNS ._.
+But_CC ,_, it_PRP may_MD lose_VB more_JJR information_NN ,_, compared_VBN with_IN local_JJ recoding_NN -LRB-_-LRB- which_WDT will_MD be_VB discussed_VBN next_JJ -RRB-_-RRB- ,_, because_IN it_PRP suffers_VBZ from_IN over-generalization_NN ._.
+Under_IN the_DT scheme_NN of_IN local_JJ recoding_NN =_JJ -_: =[_NN 14_CD ,_, 13_CD ,_, 1_CD ,_, 10_CD ,_, 6_CD ,_, 5_CD ,_, 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, values_NNS may_MD be_VB generalized_VBN to_TO different_JJ levels_NNS in_IN the_DT domain_NN ._.
+For_IN example_NN ,_, Table_NNP 3_CD is_VBZ a_DT -LRB-_-LRB- 0.5_CD ,_, 2_LS -RRB-_-RRB- anonymous_JJ table_NN by_IN local_JJ recoding_NN ._.
+In_IN fact_NN ,_, one_PRP can_MD say_VB that_IN local_JJ recoding_NN is_VBZ a_DT more_RBR general_JJ model_NN and_CC

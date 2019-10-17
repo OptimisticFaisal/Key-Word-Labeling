@@ -1,0 +1,3 @@
+and_CC their_PRP$ signs_NNS ,_, with_IN high_JJ accuracy_NN and_CC that_IN it_PRP outperforms_VBZ several_JJ other_JJ baselines_NNS ._.
+1_CD Introduction_NN Mining_NN sentiment_NN from_IN text_NN has_VBZ a_DT wide_JJ range_NN of_IN applications_NNS from_IN mining_NN product_NN reviews_NNS on_IN the_DT Web_NN -LRB-_-LRB- =_JJ -_: =_JJ Morinaga_NNP et_FW al._FW ,_, 2002_CD -_: =_JJ -_: ;_: Turney_NNP and_CC Littman_NNP ,_, 2003_CD -RRB-_-RRB- to_TO analyzing_VBG political_JJ speeches_NNS -LRB-_-LRB- Thomas_NNP et_FW al._FW ,_, 2006_CD -RRB-_-RRB- ._.
+Automatic_NNP methods_NNS for_IN sentiment_NN mining_NN are_VBP very_RB important_JJ because_IN manual_JJ extraction_NN of_IN them_PRP is_VBZ very_RB costly_JJ ,_, and_CC ineff_NN

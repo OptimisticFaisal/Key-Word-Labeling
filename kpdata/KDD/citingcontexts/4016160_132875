@@ -1,0 +1,3 @@
+o_NN coefficients_NNS only_RB for_IN the_DT variables_NNS in_IN the_DT neighborhood_NN ._.
+The_DT Lasso_NNP algorithm_NN for_IN linear_JJ regression_NN is_VBZ an_DT incremental_JJ algorithm_NN that_WDT embodies_VBZ a_DT method_NN of_IN variable_JJ selection_NN using_VBG the_DT L1-penalty_JJ term_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+That_DT is_VBZ ,_, its_PRP$ output_NN ,_, w_NN ,_, minimizes_VBZ the_DT sum_NN of_IN the_DT average_NN squared_VBD error_NN of_IN regressing_VBG for_IN y_NN ,_, plus_CC a_DT constant_JJ times_NNS the_DT L1-norm_NN of_IN the_DT coefficients_NNS ,_, namely_RB ,_, w_NN =_JJ arg_NN min_NN 1_CD n_NN -LRB-_-LRB- x_NN ,_, y_NN -RRB-_-RRB- ∈_NN S_NN |_CD w_NN ·_CD x_CC −_CD y_NN |_NN

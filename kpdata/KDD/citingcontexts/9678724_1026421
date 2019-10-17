@@ -1,0 +1,4 @@
+rning_VBG algorithms_NNS on_IN multicore_NN ?_.
+There_EX are_VBP already_RB several_JJ papers_NNS on_IN distributed_VBN computation_NN for_IN data_NN mining_NN operations_NNS ._.
+For_IN example_NN ,_, ``_`` cascade_NN SVMs_NNS ''_'' were_VBD proposed_VBN to_TO parallelize_VB Support_NN Vector_NNP Machines_NNP =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Other_JJ articles_NNS use_VBP Google_NNP 's_POS map-reduce_JJ techniques_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- on_IN multi-core_JJ machines_NNS to_TO design_VB efficient_JJ parallel_JJ learning_NN algorithms_NNS for_IN a_DT set_NN of_IN standard_JJ machine_NN learning_VBG algorithms\/models_NNS such_JJ as_IN naïve_JJ B_NN

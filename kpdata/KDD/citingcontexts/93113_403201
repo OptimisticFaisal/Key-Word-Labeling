@@ -1,0 +1,6 @@
+Each_DT search_NN would_MD take_VB O_NN -LRB-_-LRB- |_CD M_NN |_NN -RRB-_-RRB- time_NN in_IN the_DT worst_JJS case_NN ._.
+Note_VB that_IN some_DT of_IN the_DT best_JJS algorithms_NNS for_IN dynamic_JJ subset_NN testing_NN run_VBN in_IN amortized_JJ time_NN O_NN -LRB-_-LRB- √_CD s_NN log_NN s_NNS -RRB-_-RRB- per_IN operation_NN in_IN a_DT sequence_NN of_IN s_NN operations_NNS =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN dense_JJ domains_NNS we_PRP have_VBP millions_NNS of_IN maximal_JJ frequent_JJ itemsets_NNS ,_, and_CC the_DT number_NN of_IN subset_NN checking_NN operations_NNS performed_VBN would_MD be_VB at_IN least_JJS that_IN much_JJ ._.
+Can_MD we_PRP do_VB better_JJR ?_.
+The_DT answer_NN is_VBZ ,_, yes_UH !_.
+The_DT time_NN bou_NN

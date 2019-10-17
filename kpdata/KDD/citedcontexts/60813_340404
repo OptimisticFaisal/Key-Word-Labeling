@@ -1,0 +1,4 @@
+rid_JJ approach_NN that_WDT uses_VBZ both_DT techniques_NNS :_: --_: COP-KMeans_JJ -LRB-_-LRB- CKM_NN -RRB-_-RRB- performs_VBZ hard_JJ constraint_NN satisfaction_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+--_: PC-KMeans_NN -LRB-_-LRB- PKM_NN -RRB-_-RRB- performs_VBZ soft_JJ constraint_NN satisfaction_NN -LRB-_-LRB- permits_VBZ some_DT constraints_NNS to_TO be_VB violated_VBN -RRB-_-RRB- =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+--_: M-KMeans_NN -LRB-_-LRB- MKM_NN -RRB-_-RRB- performs_VBZ metric_JJ learning_NN from_IN constraints_NNS ,_, but_CC does_VBZ not_RB require_VB that_IN the_DT constraints_NNS be_VB satisfied_VBN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+--_: MPC-KMeans_NN -LRB-_-LRB- MPKM_NN -RRB-_-RRB- is_VBZ a_DT hybrid_NN approach_NN ,_, performing_VBG both_CC soft_JJ constraint_NN sati_NNS

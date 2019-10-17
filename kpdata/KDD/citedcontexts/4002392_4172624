@@ -1,0 +1,4 @@
+age_NN we_PRP may_MD be_VB able_JJ to_TO limit_VB the_DT number_NN of_IN short_JJ ,_, initial_JJ associations_NNS that_IN we_PRP have_VBP to_TO consider_VB by_IN using_VBG information_NN from_IN later_JJ time_NN steps_NNS ._.
+This_DT idea_NN forms_VBZ the_DT basis_NN of_IN multiple_JJ tree_NN search_NN algorithms_NNS =_JJ -_: =[_NN 7_CD ,_, 8_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Multiple_JJ tree_NN methods_NNS explicitly_RB search_VBP for_IN the_DT entire_JJ set_NN of_IN points_NNS at_IN once_RB by_IN searching_VBG over_IN combinations_NNS of_IN tree_NN nodes_NNS ._.
+In_IN standard_JJ single_JJ tree_NN algorithms_NNS ,_, the_DT search_NN tries_VBZ to_TO find_VB individual_JJ poi_NN

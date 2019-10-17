@@ -1,0 +1,3 @@
+er_IN preprocessing_VBG the_DT image_NN data_NNS to_TO some_DT suitable_JJ form_NN for_IN mining_NN ._.
+Existing_VBG works_NNS adapted_VBD data_NN mining_NN algorithms_NNS such_JJ as_IN association_NN rule_NN mining_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, clustering_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC classification_NN techniques_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 11_CD -RRB-_-RRB- to_TO generate_VB patterns_NNS based_VBN on_IN pixel_NN level_NN or_CC object_NN level_NN features_NNS ._.
+While_IN these_DT approaches_NNS can_MD discover_VB hidden_JJ relationships_NNS among_IN appearance_NN features_NNS in_IN the_DT images_NNS ,_, they_PRP ignore_VBP the_DT patterns_NNS rel_NN

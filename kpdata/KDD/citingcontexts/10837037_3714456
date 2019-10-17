@@ -1,0 +1,4 @@
+ertex_NN labels_NNS ,_, because_IN each_DT vertex_NNS label_VBP usually_RB denotes_VBZ the_DT name_NN of_IN the_DT molecule_NN ._.
+Because_IN the_DT maximum_NN common_JJ subgraph_NN problem_NN in_IN graphs_NNS with_IN unique_JJ vertex_NN labels_NNS is_VBZ known_VBN to_TO have_VB quadratic_JJ complexity_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, discovery_NN of_IN the_DT graph_NN rewriting_VBG rules_NNS is_VBZ still_RB feasible_JJ ._.
+However_RB ,_, there_EX will_MD be_VB a_DT tradeoff_NN between_IN exactness_NN and_CC computation_NN time_NN when_WRB analyzing_VBG very_RB large_JJ graphs_NNS ._.
+4.4_CD Evaluation_NN Metrics_NNS We_PRP use_VBP two_CD

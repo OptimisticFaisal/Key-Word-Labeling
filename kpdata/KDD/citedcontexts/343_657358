@@ -1,0 +1,5 @@
+ori_NN and_CC EH-Apriori_NN ._.
+They_PRP are_VBP both_DT Apriorilike_JJ algorithms_NNS ._.
+It_PRP is_VBZ used_VBN the_DT hashing_VBG technique_NN for_IN counting_NN 2-itemsets_NNS in_IN EH-Apriori_NN ,_, so_IN the_DT efficiency_NN of_IN EH-Apriori_NN is_VBZ higher_JJR than_IN E-Apriori_NN ._.
+Tung_NNP et_FW al._FW =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: presented_VBD an_DT algorithm_NN ,_, FITI_NNP -LRB-_-LRB- Fist_NNP Intra_NNP Then_RB Inter_NNP -RRB-_-RRB- ,_, in_IN which_WDT first_RB mine_VBP the_DT intra-transactional_JJ association_NN rules_NNS ,_, and_CC then_RB mine_VB the_DT inter-transactional_JJ association_NN rules_NNS ._.
+Dong_NNP et_FW al._FW -LRB-_-LRB- 12_CD -RRB-_-RRB- presente_VBP

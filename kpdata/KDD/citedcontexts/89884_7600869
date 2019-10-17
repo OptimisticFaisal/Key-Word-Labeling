@@ -1,0 +1,4 @@
+ent_NN patterns_NNS ._.
+Different_NNP from_IN Chopper_NNP and_CC XSpanner_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, PrefixTreeESpan_NN does_VBZ not_RB need_VB a_DT checking_NN process_NN ._.
+Our_PRP$ performance_NN study_NN shows_VBZ that_IN PrefixTreeESpan_NNP outperforms_VBZ Apriori-like_JJ algorithm_NN :_: TreeMiner_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC pattern-growth_NN algorithms_NNS :_: Chopper_NN ,_, XSpanner_NN ._.
+1_CD Introduction_NN Mining_NN frequent_JJ structural_JJ patterns_NNS from_IN a_DT large_JJ tree_NN database_NN -LRB-_-LRB- 2_CD ,_, 4_CD ,_, 6_CD -RRB-_-RRB- and_CC a_DT graph_NN database_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- is_VBZ a_DT new_JJ subject_NN in_IN frequent_JJ patt_NN

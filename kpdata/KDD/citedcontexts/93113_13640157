@@ -1,0 +1,4 @@
+es_IN the_DT vertical_JJ TID-lists_NN of_IN frequent_JJ -LRB-_-LRB- k-1_JJ -RRB-_-RRB- itemsets_NNS to_TO find_VB the_DT frequent_JJ k-itemsets_NNS by_IN intersecting_VBG these_DT TID-lists_NNS and_CC computing_VBG their_PRP$ resulting_VBG supports_NNS ._.
+Mafia_NNP -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, AIM_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, mining_NN using_VBG diffsets_NNS =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP similar_JJ approaches_NNS in_IN using_VBG the_DT vertical_JJ data_NN format_NN ._.
+However_RB ,_, all_PDT these_DT methods_NNS have_VBP advantages_NNS and_CC disadvantages_NNS that_WDT make_VBP one_CD suitable_JJ for_IN specific_JJ databases_NNS and_CC computing_NN platforms_NNS ._.
+Hence_RB ,_, hy_NN

@@ -1,0 +1,7 @@
+from_IN 13_CD popular_JJ websites_NNS ._.
+On_IN each_DT website_NN the_DT results_NNS for_IN between_IN 1_CD and_CC 4_CD queries_NNS were_VBD collected_VBN ._.
+The_DT search_NN results_NNS were_VBD then_RB partitioned_VBN into_IN data_NNS records_NNS using_VBG the_DT MDR_NN tool_NN developed_VBN by_IN Liu_NNP et_NNP ._.
+al_FW =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Eight_CD sites_NNS -LRB-_-LRB- 24_CD queries_NNS -RRB-_-RRB- were_VBD chosen_VBN as_IN a_DT training_NN set_NN ._.
+This_DT set_NN contained_VBD :_: Bed_NNP ,_, Bath_NNP &_CC Beyond_NNP ,_, Epicurious_NNP ,_, Google_NNP ,_, Jet_NNP Blue_NNP ,_, Metro_NNP North_NNP Schedule_NNP ,_, RIT_NNP Course_NNP Schedule_NNP ,_, Tiger_NNP Direct_NNP ,_, and_CC Zagats_NNPS ._.
+The_DT

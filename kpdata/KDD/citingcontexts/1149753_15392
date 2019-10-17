@@ -1,0 +1,5 @@
+racy_JJ using_VBG Naive_JJ Bayes_NNS ._.
+Similar_JJ results_NNS have_VBP been_VBN reported_VBN for_IN SVMs_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Two_CD other_JJ dimensionality\/feature_JJ reduction_NN schemes_NNS are_VBP used_VBN in_IN latent_JJ semantic_JJ indexing_NN -LRB-_-LRB- LSI_NNP -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC its_PRP$ probabilistic_JJ version_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Typically_RB these_DT methods_NNS have_VBP been_VBN applied_VBN in_IN the_DT unsupervised_JJ setting_NN and_CC as_IN shown_VBN in_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, LSI_NNP results_VBZ in_IN lower_JJR classification_NN accuracies_NNS than_IN feature_NN clustering_NN ._.
+We_PRP now_RB list_VBP the_DT main_JJ contributions_NNS

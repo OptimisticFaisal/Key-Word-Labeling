@@ -1,0 +1,4 @@
+the_DT proceedings_NNS paper_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Although_IN modelling_NN has_VBZ been_VBN done_VBN extensively_RB for_IN other_JJ complex_JJ networks_NNS such_JJ as_IN the_DT web_NN graph_NN -LRB-_-LRB- see_VB -LRB-_-LRB- 6_CD -RRB-_-RRB- -RRB-_-RRB- ,_, models_NNS of_IN OSNs_NNS have_VBP only_RB recently_RB been_VBN introduced_VBN -LRB-_-LRB- such_JJ as_IN those_DT in_IN =_JJ -_: =[_NN 14_CD ,_, 27_CD ,_, 30_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT central_JJ idea_NN behind_IN the_DT ILT_NNP model_NN is_VBZ what_WP sociologists_NNS call_VBP transitivity_NN :_: if_IN u_NN is_VBZ a_DT friend_NN of_IN v_LS ,_, and_CC v_LS is_VBZ a_DT friend_NN of_IN w_NN ,_, then_RB u_NN is_VBZ a_DT friend_NN of_IN w_NN -LRB-_-LRB- see_VB ,_, for_IN example_NN ,_, -LRB-_-LRB- 18_CD ,_, 36_CD ,_, 38_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+In_IN its_PRP$ simples_NNS

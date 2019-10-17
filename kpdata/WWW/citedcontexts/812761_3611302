@@ -1,0 +1,4 @@
+he_PRP type_NN safety_NN of_IN this_DT conversion_NN can_MD not_RB always_RB be_VB guaranteed_VBN statically_RB ._.
+At_IN runtime_NN ,_, sXML_NN fragments_NNS known_VBN to_TO correspond_VB to_TO one_CD type_NN must_MD be_VB verified_VBN with_IN respect_NN to_TO another_DT ._.
+As_IN another_DT example_NN ,_, in_IN XJ_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT language_NN that_WDT integrates_VBZ XML_NN into_IN Java_NNP ,_, XML_NN variables_NNS of_IN a_DT type_NN may_MD be_VB updated_VBN and_CC then_RB cast_VBD to_TO another_DT type_NN ._.
+A_DT compiler_NN for_IN such_JJ a_DT language_NN does_VBZ not_RB have_VB access_NN to_TO the_DT documents_NNS that_WDT are_VBP to_TO be_VB re_FW

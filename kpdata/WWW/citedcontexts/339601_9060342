@@ -1,0 +1,4 @@
+single_JJ DOM_NNP tree_NN elements_NNS are_VBP supposed_VBN to_TO achieve_VB and_CC declares_VBZ identically_RB formated_VBN DOM_NN sub-trees_NNS to_TO be_VB template_NN generated_VBN ._.
+A_DT similar_JJ but_CC slightly_RB more_RBR flexible_JJ solution_NN is_VBZ presented_VBN by_IN Reis_NNP et_FW al._FW in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+They_PRP introduce_VBP the_DT top_JJ down_JJ tree_NN mapping_NN algorithm_NN RTDM_NN to_TO calculate_VB a_DT tree_NN edit_NN distance_NN between_IN two_CD DOM_NNP trees_NNS ._.
+The_DT RTDM_NNP tree_NN edit_NN distance_NN is_VBZ used_VBN as_RB well_RB to_TO perform_VB a_DT cluster_NN analysis_NN in_IN order_NN to_TO

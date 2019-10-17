@@ -1,0 +1,8 @@
+et_CC is_VBZ reported_VBN in_IN Section_NNP 5_CD ._.
+Section_NN 6_CD concludes_VBZ the_DT paper_NN ._.
+2_CD ._.
+RELATED_NNS WORK_VBP Most_JJS of_IN the_DT OLAP_NN methods_NNS focus_VBP on_IN relational_JJ data_NNS ._.
+Recently_RB ,_, OLAP_NNP has_VBZ been_VBN extended_VBN to_TO other_JJ data_NNS ._.
+In_IN particular_JJ ,_, Lo_FW et_FW al._FW =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: extended_JJ OLAP_NN to_TO S-OLAP_NN on_IN sequence_NN data_NNS ,_, which_WDT is_VBZ highly_RB related_JJ to_TO our_PRP$ study_NN ._.
+In_IN S-OLAP_NN ,_, a_DT user_NN defines_VBZ a_DT pattern_NN template_NN of_IN interest_NN ._.
+For_IN example_NN ,_, template_NN 〈_CD XY_NN Y_NN X_NN 〉_NN captures_VBZ a_DT round_JJ trip_NN by_IN trave_NN

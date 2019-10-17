@@ -1,0 +1,6 @@
+e_LS category_NN ``_`` money_NN ''_'' -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+The_DT 20newsgroup_NN dataset_NN -LRB-_-LRB- 18_CD ,_, 19_CD -RRB-_-RRB- has_VBZ 5000_CD examples_NNS and_CC 43468_CD features_NNS ,_, and_CC the_DT problem_NN is_VBZ classifying_VBG newsgroups_NNS posts_NNS according_VBG to_TO one_CD of_IN the_DT topics_NNS ._.
+The_DT MovieReviews_NNP dataset_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ 1400_CD examples_NNS and_CC 34944_CD features_NNS ._.
+In_IN this_DT problem_NN we_PRP try_VBP to_TO associate_VB a_DT positive_JJ or_CC negative_JJ sentiment_NN with_IN a_DT movie_NN review_NN ._.
+The_DT Webmaster_NNP dataset_NN has_VBZ 582_CD examples_NNS and_CC 1406_CD features_NNS ._.
+The_DT task_NN is_VBZ t_NN

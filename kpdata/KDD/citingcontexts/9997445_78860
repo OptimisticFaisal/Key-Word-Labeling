@@ -1,0 +1,7 @@
+hms_NNS for_IN solving_VBG the_DT classical_JJ Steiner_NNP Tree_NNP problem_NN ._.
+The_DT pseudocode_NN of_IN the_DT algorithm_NN we_PRP use_VBP for_IN our_PRP$ experiments_NNS is_VBZ given_VBN in_IN Algorithm_NN 3_CD ._.
+We_PRP call_VBP this_DT algorithm_NN the_DT SteinerTree_NNP ._.
+The_DT algorithm_NN is_VBZ due_JJ to_TO =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC is_VBZ Algorithm_NNP 3_CD The_DT SteinerTree_NN algorithm_NN ._.
+Input_NN :_: Graph_NN G_NN -LRB-_-LRB- X_NN ,_, E_NN -RRB-_-RRB- ;_: required_VBN nodes_NNS X0_NN and_CC Steiner_NN nodes_NNS X_NN \_NN X0_NN ._.
+Output_NN :_: Team_NNP X0_NN ⊆_NN X_NN ′_FW ⊆_FW X_NN and_CC subgraph_NN G_NN -LRB-_-LRB- X_NN ′_NN -RRB-_-RRB- ._.
+1_CD :_: X_NN ′_FW ←_FW v_LS ,_, where_WRB v_LS is_VBZ a_DT random_JJ nod_NN

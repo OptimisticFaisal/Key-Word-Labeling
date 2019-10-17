@@ -1,0 +1,7 @@
+ce_NN and_CC is_VBZ well_RB structured_VBN -LRB-_-LRB- e.g._FW employing_VBG RDF_NN or_CC XML_NN -RRB-_-RRB- ._.
+The_DT most_JJS web_NN sources_NNS are_VBP HTML-based_JJ and_CC thus_RB offer_VBP no_DT structured_JJ output_NN ._.
+Result_NN extraction_NN is_VBZ the_DT focus_NN of_IN numerous_JJ related_JJ works_NNS ,_, e.g._FW -LRB-_-LRB- CMM01_NN -RRB-_-RRB- ,_, =_JJ -_: =_JJ -LRB-_-LRB- CHJ02_NN -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- Cha01_NN -RRB-_-RRB- or_CC -LRB-_-LRB- WL03_NN -RRB-_-RRB- ._.
+-LRB-_-LRB- LRNST02_NN -RRB-_-RRB- gives_VBZ a_DT good_JJ overview_NN on_IN this_DT issue_NN ._.
+We_PRP follow_VBP a_DT grammar-based_JJ paradigm_NN -LRB-_-LRB- Kab03_NN -RRB-_-RRB- ._.
+In_IN the_DT MIWeb_NN system_NN we_PRP defined_VBD the_DT grammar_NN manually_RB ._.
+In_IN future_NN we_PRP want_VBP to_TO generate_VB it_PRP au_IN

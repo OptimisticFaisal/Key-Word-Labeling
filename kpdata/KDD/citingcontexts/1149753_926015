@@ -1,0 +1,4 @@
+not_RB lead_VB to_TO any_DT difficulty_NN -LRB-_-LRB- indeed_RB in_IN an_DT implementation_NN we_PRP can_MD handle_VB such_JJ ``_`` infinity_NN problems_NNS ''_'' without_IN an_DT extra_JJ ``_`` if_IN ''_'' condition_NN thanks_NNS to_TO the_DT handling_NN of_IN ``_`` infinity_NN ''_'' in_IN the_DT IEEE_NN floating_VBG point_NN standard_NN =_JJ -_: =[_NN 14_CD ,_, 1_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+We_PRP now_RB discuss_VBP the_DT computational_JJ complexity_NN of_IN our_PRP$ algorithm_NN ._.
+Step_NN 3_CD of_IN each_DT iteration_NN requires_VBZ the_DT KL-divergence_NN to_TO be_VB computed_VBN for_IN every_DT pair_NN ,_, p_NN -LRB-_-LRB- C_NN |_CD wt_JJ -RRB-_-RRB- and_CC p_NN -LRB-_-LRB- C_NN |_NN W_NN j_NN -RRB-_-RRB- ._.
+This_DT is_VBZ the_DT most_RBS computational_JJ

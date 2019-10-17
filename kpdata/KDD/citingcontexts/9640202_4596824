@@ -1,0 +1,4 @@
+to_TO this_DT problem_NN is_VBZ sparse_JJ in_IN the_DT sense_NN that_IN many_JJ entries_NNS in_IN x_NN will_MD be_VB set_VBN to_TO zero_VB ._.
+Recently_RB ,_, many_JJ algorithms_NNS for_IN solving_VBG the_DT lasso_NN problem_NN have_VBP been_VBN proposed_VBN such_JJ as_IN the_DT coordinate_JJ descent_NN algorithm_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4_LS ._.
+A_DT LOCAL_NNP REGULARIZATION_NNP FORMULATION_NNP Given_IN the_DT bag-of-words_NNS and_CC the_DT sparse_JJ coding_NN representations_NNS of_IN image_NN groups_NNS ,_, we_PRP develop_VBP a_DT framework_NN for_IN annotating_VBG the_DT gene_NN expression_NN pattern_NN images_NNS in_IN this_DT s_NN

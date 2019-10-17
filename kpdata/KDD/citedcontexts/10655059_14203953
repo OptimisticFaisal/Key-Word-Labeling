@@ -1,0 +1,5 @@
+sed_VBN on_IN whether_IN its_PRP$ aspect_NN is_VBZ ``_`` positive_JJ ''_'' or_CC ``_`` negative_JJ ''_'' ._.
+Rating_NNP Prediction_NNP and_CC Decomposition_NNP ._.
+In_IN recent_JJ years_NNS ,_, there_EX has_VBZ been_VBN work_NN in_IN trying_VBG to_TO decompose_VB reviews_NNS to_TO make_VB aspect_NN based_JJ rating_NN predictions_NNS =_JJ -_: =[_NN 30_CD ,_, 13_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT line_NN of_IN work_NN is_VBZ closely_RB related_JJ to_TO ours_PRP as_IN ,_, once_IN we_PRP obtain_VBP ratings_NNS on_IN different_JJ aspects_NNS ,_, we_PRP would_MD be_VB able_JJ to_TO rank_VB entities_NNS based_VBN on_IN their_PRP$ ratings_NNS in_IN the_DT aspects_NNS interesting_JJ to_TO a_DT user_NN ._.
+5_CD http_NN :_: \/_: \/_:

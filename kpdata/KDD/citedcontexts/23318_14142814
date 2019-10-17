@@ -1,0 +1,5 @@
+ethod_VB the_DT users_NNS are_VBP partitioned_VBN into_IN clusters_NNS with_IN each_DT cluster_NN containing_VBG similar_JJ navigation_NN patterns_NNS ._.
+Clusters_NNS are_VBP created_VBN using_VBG first_JJ order_NN Markov_NNP models_NNS with_IN the_DT Expectation_NN Maximization_NN algorithm_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT advantage_NN of_IN the_DT proposed_VBN method_NN is_VBZ the_DT linear_JJ scaling_NN for_IN both_DT users_NNS and_CC clusters_NNS ._.
+2725J_NN ._.
+Isabella_NNP et_NNP al_NNP ,_, \/_: -LRB-_-LRB- IJCSIT_NN -RRB-_-RRB- International_NNP Journal_NNP of_IN Computer_NNP Science_NNP and_CC Information_NNP Technologies_NNP ,_, Vol_NNP ._.

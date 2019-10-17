@@ -1,0 +1,5 @@
+empirical_JJ Bayes_NNP ,_, which_WDT consists_VBZ of_IN finding_NN as_IN the_DT value_NN that_WDT maximizes_VBZ the_DT likelihood_NN P_NN -LRB-_-LRB- D_NN |_NN -RRB-_-RRB- ._.
+A_DT very_RB nice_JJ overview_NN of_IN this_DT approach_NN that_WDT corresponds_VBZ to_TO regularized_VBN logistic_JJ regression_NN is_VBZ given_VBN in_IN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, we_PRP did_VBD not_RB pursue_VB this_DT approach_NN in_IN our_PRP$ study_NN because_IN the_DT preliminary_JJ results_NNS suggest_VBP that_IN CV_NN is_VBZ a_DT more_RBR robust_JJ approach_NN ._.
+Let_VB us_PRP now_RB discuss_VBP how_WRB to_TO obtain_VB rMAP_NN ._.
+The_DT optimization_NN problem_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- i_LS

@@ -1,0 +1,5 @@
+NASA_NNP 's_POS space_NN program_NN ._.
+5.3_CD Benefit_NNP of_IN Relation_NNP Graph_NNP :_: Movie_NN Categories_NNS ._.
+This_DT experiment_NN illustrates_VBZ the_DT utility_NN of_IN clustering_NN over_IN the_DT relation_NN graph_NN structure_NN ._.
+We_PRP consider_VBP the_DT IMDB-EachMovie_JJ dataset_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT has_VBZ movies_NNS with_IN descriptions_NNS from_IN the_DT IMDB_NN dataset_NN -LRB-_-LRB- actors_NNS ,_, genre_NN ,_, etc._NN -RRB-_-RRB- and_CC corresponding_JJ user_NN ratings_NNS from_IN the_DT EachMovie_NNP dataset_NN ._.
+We_PRP create_VBP a_DT subset_NN of_IN 100_CD movies_NNS on_IN which_WDT 39031_CD users_NNS have_VBP p_NN

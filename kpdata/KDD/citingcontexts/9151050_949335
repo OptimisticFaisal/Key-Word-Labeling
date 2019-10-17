@@ -1,0 +1,5 @@
+equent_NN labeled_VBD induced_VBN subtrees_NNS without_IN first_RB discovering_VBG all_DT frequent_JJ subtrees_NNS ._.
+CMTreeMiner_NN shares_VBZ many_JJ features_NNS with_IN CloseGraph_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+A_DT lot_NN of_IN research_NN work_NN exist_VBP on_IN XML_NN pattern_NN mining_NN ._.
+Asai_NNP et_FW al._FW =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: present_JJ StreamT_NN ,_, a_DT tree_NN online_NN mining_NN algorithm_NN that_WDT uses_VBZ a_DT forgetting_VBG model_NN and_CC is_VBZ able_JJ to_TO maintain_VB a_DT sliding_VBG window_NN ,_, but_CC it_PRP extracts_VBZ only_RB frequent_JJ trees_NNS ,_, not_RB closed_VBN ones_NNS ._.
+Hsieh_NNP et_FW al._FW -LRB-_-LRB- 10_CD -RRB-_-RRB- propose_VBP

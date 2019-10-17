@@ -1,0 +1,4 @@
+P_NN =_JJ -LCB-_-LRB- Y_NN |_CD Y_NN ∈_NN C_NN ∧_NN X_NN ⊂_NN Y_NN -RCB-_-RRB- ._.
+The_DT minimal_JJ elements_NNS in_IN P_NN form_VBP the_DT ``_`` immediate_JJ ''_'' supersets_NNS or_CC parents_NNS of_IN X_NN in_IN the_DT closed_JJ dset_NN lattice_NN ._.
+This_DT approach_NN leads_VBZ to_TO a_DT very_RB efficient_JJ algorithm_NN ,_, which_WDT we_PRP call_VBP CHARM-L_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Table_NNP 2_CD :_: Non-redundant_JJ redescriptions_NNS ._.

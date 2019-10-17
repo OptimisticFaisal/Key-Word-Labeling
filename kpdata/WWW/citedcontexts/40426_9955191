@@ -1,0 +1,4 @@
+Google_NNP chooses_VBZ c_NN =_JJ 0.85_CD ,_, which_WDT insures_VBZ a_DT good_JJ rate_NN of_IN convergence_NN ._.
+Anyway_RB ,_, since_IN the_DT computation_NN of_IN the_DT PageRank_NN vector_NN can_MD take_VB several_JJ days_NNS ,_, various_JJ methods_NNS for_IN their_PRP$ acceleration_NN have_VBP been_VBN proposed_VBN =_JJ -_: =[_NN 12_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT vector_NN ˜r_NN =_JJ limc_FW →_FW 1_CD rc_NN is_VBZ uniquely_RB determined_VBN as_IN the_DT limit_NN ,_, when_WRB c_NN tends_VBZ to_TO 1_CD ,_, of_IN the_DT family_NN of_IN vectors_NNS rc_NN ._.
+However_RB ,_, it_PRP is_VBZ just_RB one_CD of_IN the_DT infinitely_RB many_JJ solutions_NNS of_IN P_NN T_NN r_NN =_JJ r_NN ,_, r_NN ≥_NN 0_CD ,_, -LRB-_-LRB- r_NN ,_, e_LS -RRB-_-RRB- =_JJ

@@ -1,0 +1,5 @@
+ased_VBN data_NN mining_NN approaches_NNS since_IN the_DT mid_JJ 1990_CD 's_POS ._.
+Considerable_JJ work_NN has_VBZ gone_VBN into_IN closed_JJ itemset_NN mining_NN -LRB-_-LRB- 25_CD ,_, 35_CD -RRB-_-RRB- ._.
+The_DT exponential_JJ size_NN of_IN frequent_JJ subgraphs_NNS has_VBZ to_TO led_VBN to_TO an_DT interest_NN in_IN closed_JJ graphs_NNS =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT is_VBZ a_DT much_RB smaller_JJR set_NN as_IN compared_VBN to_TO the_DT set_NN of_IN frequent_JJ graphs_NNS ._.
+An_DT even_RB smaller_JJR set_NN is_VBZ the_DT set_NN of_IN maximal_JJ frequent_JJ subgraphs_NNS ._.
+-LRB-_-LRB- 32_CD -RRB-_-RRB- presents_VBZ theoretical_JJ evidence_NN that_IN thesproblem_NN of_IN mining_NN maxi_NNS

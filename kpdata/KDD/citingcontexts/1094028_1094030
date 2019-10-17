@@ -1,0 +1,5 @@
+he_PRP selected_VBD features_NNS ._.
+This_DT is_VBZ in_IN fact_NN the_DT inverse_NN from_IN our_PRP$ approach_NN which_WDT returns_VBZ a_DT non-redundant_JJ feature_NN set_NN ,_, but_CC relevancy_NN does_VBZ not_RB apply_VB ,_, due_JJ to_TO its_PRP$ unsupervised_JJ nature_NN ._.
+Alternative_JJ approaches_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =-[_NN 22_CD -RRB-_-RRB- do_VBP address_NN redundancy_NN ,_, and_CC are_VBP thus_RB feature_NN subset_NN selection_NN methods_NNS rather_RB than_IN feature_NN selection_NN methods_NNS ._.
+Most_JJS of_IN these_DT approaches_NNS work_VBP in_IN a_DT supervised_JJ setting_NN ._.
+They_PRP come_VBP in_IN two_CD varieties_NNS :_: filt_NN

@@ -1,0 +1,4 @@
+ing_NN is_VBZ different_JJ from_IN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Rather_RB than_IN searching_VBG for_IN a_DT minimum_JJ description_NN length_NN -LRB-_-LRB- minimum_JJ number_NN of_IN bits_NNS for_IN encoding_VBG the_DT training_NN data_NNS -RRB-_-RRB- ,_, we_PRP make_VBP use_NN of_IN a_DT standard_JJ statistical_JJ likelihood-ratio_JJ test_NN =_JJ -_: =[_NN 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT search_NN for_IN the_DT best_JJS partition_NN of_IN a_DT continuous_JJ attribute_NN is_VBZ dynamic_JJ :_: it_PRP is_VBZ performed_VBN each_DT time_NN a_DT candidate_NN input_NN attribute_NN is_VBZ considered_VBN for_IN selection_NN ._.
+Each_DT hidden_JJ node_NN in_IN the_DT network_NN is_VBZ associat_NN

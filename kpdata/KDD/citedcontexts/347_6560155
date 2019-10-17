@@ -1,0 +1,3 @@
+ithms_NNS as_IN used_VBN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC also_RB our_PRP$ Opus_NNP algorithm_NN are_VBP not_RB scalable_JJ enough_RB to_TO mine_VB a_DT large_JJ amount_NN of_IN example_NN code_NN ._.
+We_PRP are_VBP currently_RB implementing_VBG an_DT efficient_JJ algorithm_NN based_VBN on_IN frequent_JJ closed_JJ itemsets_NNS =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+sRule_NN pruning_NN :_: While_IN the_DT three_CD pruning_NN techniques_NNS presented_VBN in_IN section_NN 3_CD significantly_RB decrease_VB the_DT number_NN of_IN rules_NNS that_WDT do_VBP not_RB contribute_VB to_TO the_DT understanding_NN of_IN a_DT framework_NN ,_, we_PRP identified_VBD the_DT need_NN

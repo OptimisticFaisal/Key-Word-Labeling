@@ -1,0 +1,5 @@
+s_NN topic_NN -RRB-_-RRB- ._.
+The_DT proposals_NNS mainly_RB fall_VBP on_IN extensions_NNS of_IN SQL-style_JJ syntax_NN for_IN handling_VBG the_DT graph_NN based_VBN RDF_NNP structure_NN ._.
+In_IN this_DT line_NN the_DT most_RBS representative_JJ languages_NNS are_VBP SquishQL_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- ,_, SPARQL_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- and_CC RQL_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Moreover_RB ,_, there_EX are_VBP some_DT languages_NNS based_VBN on_IN extensions_NNS of_IN XPath_NN ,_, XSLT_NN and_CC XQuery_NN languages_NNS ._.
+In_IN this_DT line_NN the_DT most_RBS representative_JJ languages_NNS are_VBP XQuery_NN for_IN RDF_NNP -LRB-_-LRB- the_DT Syntactic_JJ Web_NN Approach_NN -RRB-_-RRB- -LRB-_-LRB- 31_CD -RRB-_-RRB- ,_, RDF_NN T_NN

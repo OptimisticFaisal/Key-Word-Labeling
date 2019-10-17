@@ -1,0 +1,5 @@
+8_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+Time_NN series_NN clustering_NN is_VBZ a_DT difficult_JJ field_NN where_WRB numerous_JJ papers_NNS propose_VBP algorithms_NNS that_WDT work_VBP well_RB with_IN artificial_JJ data_NNS but_CC they_PRP are_VBP not_RB efficient_JJ in_IN realworld_NN dataset_NN problems_NNS =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Time_NN series_NN clustering_NN using_VBG Hidden_NNP Markov_NNP Models_NNS is_VBZ proposed_VBN in_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+Some_DT approaches_NNS perform_VBP clustering_NN using_VBG k-Means_NN algorithm_NN with_IN Euclidean_JJ distance_NN measure_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+A_DT time_NN series_NN clus_NNS

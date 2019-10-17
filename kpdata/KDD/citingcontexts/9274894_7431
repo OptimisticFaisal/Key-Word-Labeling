@@ -1,0 +1,3 @@
+utions_NNS being_VBG modeled_VBN ,_, and_CC so_RB we_PRP shift_VBP to_TO an_DT empirical_JJ analysis_NN based_VBN on_IN experiments_NNS with_IN benchmark_JJ data_NNS sets_NNS ._.
+To_TO investigate_VB the_DT questions_NNS above_IN ,_, we_PRP present_VBP experiments_NNS on_IN 12_CD real-world_JJ datasets_NNS from_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 36_CD -RRB-_-RRB- ._.
+These_DT datasets_NNS were_VBD chosen_VBN because_IN they_PRP are_VBP classification_NN problems_NNS with_IN a_DT moderate_JJ number_NN of_IN examples_NNS ,_, allowing_VBG the_DT development_NN of_IN Data_NNP Set_NNP #Attributes_NNP #Examples_NNP Pos_NNP Neg_NNP bmg_VBD 41 2417 547_CD 18_CD

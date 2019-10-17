@@ -1,0 +1,5 @@
+Thus_RB ,_, many_JJ outlier_NN detection_NN algorithms_NNS are_VBP designed_VBN to_TO accommodate_VB the_DT special_JJ property_NN of_IN the_DT given_VBN spatial_JJ data_NNS ._.
+Shekhar_NNP et_FW al._FW introduced_VBD a_DT method_NN for_IN detecting_VBG spatial_JJ outliers_NNS in_IN graph_NN data_NNS set_VBD =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Zhao_NNP et_FW al._FW proposed_VBD a_DT wavelet-based_JJ approach_NN to_TO detect_VB region_NN outliers_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+Cheng_NNP and_CC Li_NNP developed_VBD a_DT multi-scale_JJ approach_NN to_TO detect_VB spatial-temporal_JJ outliers_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Adam_NNP et_FW al._FW proposed_VBD an_DT algorithm_NN

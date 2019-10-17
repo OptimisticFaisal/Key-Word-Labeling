@@ -1,0 +1,4 @@
+ures_VBZ the_DT relevance_NN of_IN the_DT node_NN v_LS with_IN respect_NN to_TO the_DT query_NN 〈_FW q_FW ,_, p_NN 〉_NN ._.
+We_PRP construct_VBP the_DT scoring_VBG function_NN as_IN a_DT linear_JJ combination_NN of_IN a_DT number_NN of_IN features_NNS ,_, the_DT weights_NNS of_IN which_WDT are_VBP learned_VBN by_IN using_VBG RankSVM_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Let_NNP dv_NNP denote_VB the_DT page_NN whose_WP$ score_NN we_PRP are_VBP computing_VBG ._.
+The_DT features_NNS we_PRP use_VBP are_VBP BM25_NN ,_, the_DT Jaccard_NNP coefficient_NN between_IN the_DT context_NN document_NN dp_NN and_CC dv_NN ,_, the_DT Jaccard_NNP coefficient_NN between_IN the_DT successors_NNS of_IN p_NN

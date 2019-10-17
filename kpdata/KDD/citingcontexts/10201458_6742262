@@ -1,0 +1,4 @@
+d_LS -RRB-_-RRB- Figure_NNP 1_CD :_: Types_NNS of_IN biclusters_NNS -LRB-_-LRB- 22_CD -RRB-_-RRB- :_: -LRB-_-LRB- a_LS -RRB-_-RRB- Constant_JJ value_NN biclusters_NNS -LRB-_-LRB- b_NN -RRB-_-RRB- Constant_JJ row_NN biclusters_NNS -LRB-_-LRB- c_NN -RRB-_-RRB- Coherent_JJ value_NN biclusters_NNS -LRB-_-LRB- additive_JJ model_NN -RRB-_-RRB- -LRB-_-LRB- d_NN -RRB-_-RRB- Coherent_JJ evolution_NN biclusters_NNS ._.
+integrated_VBN data_NNS sets_VBZ =_JJ -_: =[_NN 36_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Interestingly_RB ,_, each_DT of_IN these_DT biclustering_VBG algorithms_NNS can_MD be_VB viewed_VBN from_IN a_DT conceptual_JJ perspective_NN according_VBG to_TO the_DT classification_NN of_IN biclusters_NNS shown_VBN in_IN Figure_NNP 1_CD ._.
+For_IN instance_NN ,_, while_IN SAMBA_NN and_CC co-clu_NN

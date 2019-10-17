@@ -1,0 +1,4 @@
+ch_NN are_VBP described_VBN in_IN detail_NN in_IN the_DT experiment_NN section_NN ._.
+Related_NNP Work_NNP Stream_NNP mining_NN is_VBZ related_JJ to_TO time_NN series_NN analyses_NNS and_CC forecasting_NN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- -RRB-_-RRB- ,_, which_WDT is_VBZ based_VBN on_IN discovering_VBG patterns_NNS and_CC periodicity_NN =_JJ -_: =[_NN 3_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Traditional_JJ generative_JJ time_NN series_NN models_NNS include_VBP auto-regressive_JJ -LRB-_-LRB- AR_NN -RRB-_-RRB- models_NNS and_CC their_PRP$ generalizations_NNS -LRB-_-LRB- ARMA_FW etc._FW -RRB-_-RRB- ._.
+They_PRP can_MD be_VB used_VBN for_IN forecasting_NN ,_, but_CC usually_RB they_PRP fail_VBP in_IN streaming_NN environments_NNS

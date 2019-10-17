@@ -1,0 +1,3 @@
+ms_NNS to_TO users_NNS where_WRB only_RB social_JJ information_NN is_VBZ available_JJ ,_, but_CC no_DT previous_JJ direct_JJ interactions_NNS with_IN items_NNS has_VBZ been_VBN recorded_VBN ,_, i.e._FW the_DT cold-start_JJ problem_NN ._.
+This_DT problem_NN has_VBZ been_VBN approached_VBN by_IN Tang_NNP and_CC Liu_NNP =_SYM -_: =[_NN 14_CD -RRB-_-RRB- -_: =-[_NN 15_CD -RRB-_-RRB- ,_, who_WP extract_VBP user_NN features_NNS from_IN social_JJ networks_NNS and_CC use_VB them_PRP as_IN predictors_NNS of_IN a_DT multi-label_JJ classifier_NN that_WDT predicts_VBZ whether_IN each_DT of_IN the_DT items_NNS is_VBZ interesting_JJ to_TO a_DT given_VBN user_NN ._.
+One_CD of_IN the_DT most_JJS prom_NN

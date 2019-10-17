@@ -1,0 +1,5 @@
+d_NN clustering_NN algorithms_NNS for_IN document_NN clustering_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Buckshot_NN and_CC fractionation_NN were_VBD developed_VBN in_IN -LRB-_-LRB- 27_CD -RRB-_-RRB- ._.
+Greedy_JJ heuristic_NN methods_NNS are_VBP used_VBN in_IN the_DT hierarchical_JJ frequent_JJ term-based_JJ clustering_NN algorithm_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: to_TO perform_VB hierarchical_JJ document_NN clustering_NN by_IN using_VBG frequent_JJ itemsets_NNS ._.
+We_PRP should_MD note_VB here_RB that_IN frequent_JJ itemsets_NNS are_VBP also_RB referred_VBN to_TO as_IN associations_NNS -LRB-_-LRB- undirected_JJ association_NN rules_NNS -RRB-_-RRB- ._.
+3_CD Background_NN -_: C_NN

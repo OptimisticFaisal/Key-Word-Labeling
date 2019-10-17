@@ -1,0 +1,4 @@
+ions_NNS is_VBZ due_JJ to_TO its_PRP$ hard_JJ membership_NN function_NN ._.
+However_RB ,_, the_DT hard_JJ membership_NN function_NN makes_VBZ possible_JJ many_JJ computational_JJ optimizations_NNS that_WDT do_VBP not_RB affect_VB accuracy_NN of_IN the_DT algorithm_NN ,_, such_JJ as_IN using_VBG kd-trees_NNS =_JJ -_: =[_NN 55_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT second_JJ important_JJ function_NN is_VBZ the_DT data_NN weight_NN function_NN ._.
+A_DT weight_NN function_NN w_NN -LRB-_-LRB- xi_NN -RRB-_-RRB- defines_VBZ how_WRB much_JJ influence_NN data_NNS point_NN xi_RB has_VBZ in_IN recomputing_VBG the_DT center_NN parameters_NNS in_IN the_DT next_JJ iteration_NN ,_, with_IN the_DT c_NN

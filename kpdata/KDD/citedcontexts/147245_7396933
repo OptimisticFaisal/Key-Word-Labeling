@@ -1,0 +1,4 @@
+arner_NN from_IN all_DT previously_RB labeled_VBN examples_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, as_IN the_DT concepts_NNS of_IN the_DT data_NNS streams_NNS evolve_VBP ,_, aggregating_VBG all_DT labeled_VBN instances_NNS may_MD reduce_VB the_DT learner_NN performances_NNS instead_RB of_IN adding_VBG help_NN =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP present_VBP here_RB our_PRP$ recent_JJ research_NN efforts_NNS in_IN addressing_VBG these_DT challenges_NNS ._.
+In_IN short_JJ ,_, we_PRP propose_VBP a_DT classifier_NN ensembling_VBG based_VBN active_JJ learning_NN framework_NN ,_, with_IN an_DT objective_NN of_IN maximizing_VBG the_DT predicti_NN

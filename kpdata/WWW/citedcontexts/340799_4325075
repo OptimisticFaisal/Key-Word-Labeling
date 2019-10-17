@@ -1,0 +1,4 @@
+who_WP share_VBP that_IN name_NN ._.
+This_DT formulation_NN is_VBZ appropriate_JJ ,_, but_CC care_NN must_MD be_VB taken_VBN in_IN defining_VBG the_DT appropriate_JJ measure_NN of_IN correctness_NN ._.
+A_DT number_NN of_IN metrics_NNS for_IN evaluating_VBG such_JJ clusterings_NNS have_VBP been_VBN defined_VBN =_JJ -_: =[_NN 11_CD ,_, 13_CD ,_, 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT are_VBP either_RB explicitly_RB based_VBN on_IN ,_, or_CC track_NN closely_RB ,_, an_DT analog_NN of_IN F-measure_NN ._.
+In_IN this_DT analog_NN ,_, the_DT precision_NN is_VBZ the_DT probability_NN over_IN all_DT references_NNS that_IN co-clustered_JJ references_NNS are_VBP the_DT same_JJ per_IN

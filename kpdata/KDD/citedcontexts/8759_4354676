@@ -1,0 +1,6 @@
+ories_NNS ._.
+The_DT first_JJ category_NN is_VBZ distribution-based_JJ ,_, where_WRB a_DT standard_JJ distribution_NN is_VBZ used_VBN to_TO fit_VB the_DT dataset_NN ._.
+Outliers_NNS are_VBP defined_VBN based_VBN on_IN the_DT probability_NN distribution_NN ._.
+Yamanishi_NNP ,_, Takeuchi_NNP and_CC Williams_NNP =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: used_VBD a_DT Gaussian_JJ mixture_NN model_NN to_TO present_VB the_DT normal_JJ behaviors_NNS and_CC each_DT datum_NN is_VBZ given_VBN a_DT score_NN on_IN the_DT basis_NN of_IN changes_NNS in_IN the_DT model_NN ._.
+High_JJ score_NN indicates_VBZ high_JJ possibility_NN of_IN being_VBG an_DT outlier_NN ._.
+This_DT app_NN

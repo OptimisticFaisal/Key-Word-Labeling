@@ -1,0 +1,5 @@
+meter_NN values_NNS in_IN DBSCAN_NNP ._.
+The_DT majority_NN of_IN previous_JJ research_NN has_VBZ been_VBN focused_VBN on_IN clustering_NN of_IN point_NN data_NNS ._.
+The_DT most_RBS similar_JJ work_NN to_TO ours_PRP is_VBZ the_DT trajectory_JJ clustering_NN algorithm_NN proposed_VBN by_IN Gaffney_NNP et_FW al._FW =_SYM -_: =[_NN 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP is_VBZ based_VBN on_IN probabilistic_JJ modeling_NN of_IN a_DT set_NN of_IN trajectories_NNS ._.
+Formally_RB ,_, the_DT probability_NN density_NN function_NN of_IN observed_VBN trajectories_NNS is_VBZ a_DT mixture_NN density_NN :_: P_NN -LRB-_-LRB- yj_FW |_FW xj_FW ,_, θ_NN -RRB-_-RRB- =_JJ K_NN k_NN fk_NN -LRB-_-LRB- yj_FW |_FW xj_FW ,_, θk_NN -RRB-_-RRB- wk_NN ,_, where_WRB f_SYM

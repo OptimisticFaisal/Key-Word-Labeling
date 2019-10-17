@@ -1,0 +1,3 @@
+e_LS labeled_JJ examples_NNS of_IN anomalies_NNS ._.
+We_PRP previously_RB applied_VBD several_JJ unsupervised_JJ anomaly_JJ detection_NN algorithms_NNS to_TO historical_JJ data_NNS from_IN the_DT Space_NNP Shuttle_NNP Main_NNP Engine_NNP -LRB-_-LRB- 15_CD ,_, 16_CD -RRB-_-RRB- ._.
+These_DT algorithms_NNS included_VBD Orca_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT uses_VBZ a_DT nearest-neighbor_JJ approach_NN ,_, defining_VBG a_DT point_NN to_TO be_VB an_DT anomaly_NN if_IN its_PRP$ nearest_JJS neighbors_NNS in_IN feature_NN space_NN are_VBP far_RB away_RB from_IN it_PRP ,_, GritBot_NNP ,_, a_DT commercial_JJ product_NN from_IN RuleQuest_NNP Research_NNP -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_,

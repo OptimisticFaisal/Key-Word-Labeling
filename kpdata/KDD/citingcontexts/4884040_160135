@@ -1,0 +1,5 @@
+derived_VBN from_IN a_DT latent_JJ class_NN model_NN ._.
+A_DT twosided_JJ clustering_NN model_NN is_VBZ proposed_VBN for_IN collaborative_JJ filtering_VBG by_IN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+Information-theory_JJ based_VBN co-clustering_NN has_VBZ also_RB attracted_VBN attention_NN in_IN the_DT literature_NN ._.
+=_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: extends_VBZ the_DT information_NN bottleneck_NN -LRB-_-LRB- IB_NN -RRB-_-RRB- framework_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- to_TO repeatedly_RB cluster_VB documents_NNS and_CC then_RB words_NNS ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- proposes_VBZ a_DT co-clustering_JJ algorithm_NN to_TO maximize_VB the_DT mutual_JJ information_NN between_IN the_DT clustered_VBN

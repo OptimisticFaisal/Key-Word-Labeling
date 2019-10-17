@@ -1,0 +1,4 @@
+by_IN scanning_VBG the_DT dataset_NN even_RB fewer_JJR times_NNS ._.
+3.1_CD Fundamental_JJ Theoretical_JJ Facts_NNS Let_VBP us_PRP randomly_RB sample_NN s_NN objects_NNS from_IN R._NNP To_TO allow_VB rigorous_JJ analysis_NN ,_, we_PRP follow_VBP the_DT strategy_NN of_IN ``_`` sampling_NN with_IN replacement_NN ''_'' =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Specifically_RB ,_, each_DT random_JJ sample_NN is_VBZ taken_VBN independently_RB from_IN all_PDT the_DT objects_NNS in_IN R_NN ,_, i.e._FW ,_, it_PRP is_VBZ possible_JJ that_IN multiple_JJ samples_NNS happen_VBP to_TO be_VB the_DT same_JJ object_NN ._.
+We_PRP use_VBP the_DT sample_NN set_VBN to_TO build_VB s_NN partition_NN

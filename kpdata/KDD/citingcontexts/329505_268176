@@ -1,0 +1,5 @@
+abases_NNS on_IN real_JJ datasets_NNS ._.
+All_DT experiments_NNS were_VBD run_VBN on_IN a_DT linux_NN machine_NN with_IN an_DT AMD_NNP Opteron_NNP 844_CD -LRB-_-LRB- 1.8_CD GHz_NNS -RRB-_-RRB- CPU_NNP and_CC 8_CD GB_NN RAM_NNP ._.
+We_PRP use_VBP two_CD real_JJ datasets_NNS from_IN the_DT commonly_RB used_VBN UCI_NNP machine_NN learning_NN repository_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Table_NNP 3_CD lists_VBZ the_DT name_NN ,_, the_DT number_NN of_IN transactions_NNS ,_, the_DT number_NN of_IN attributes_NNS ,_, and_CC the_DT maximum_NN number_NN of_IN base_NN intervals_NNS after_IN the_DT discretization_NN ,_, of_IN each_DT dataset_NN ._.
+The_DT number_NN of_IN quantitative_JJ attribute_NN

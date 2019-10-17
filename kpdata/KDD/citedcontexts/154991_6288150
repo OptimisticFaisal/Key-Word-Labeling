@@ -1,0 +1,4 @@
+lt_NN in_IN different_JJ solutions_NNS to_TO word_NN sense_NN learning_NN ._.
+One_CD interpretation_NN strategy_NN is_VBZ to_TO treat_VB a_DT word_NN sense_NN as_IN a_DT set_NN of_IN synonyms_NNS like_IN synset_NN in_IN WordNet_NNP ._.
+The_DT committee_NN based_VBD word_NN sense_NN discovery_NN algorithm_NN -LRB-_-LRB- =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =--RRB-_NN followed_VBD this_DT strategy_NN ,_, which_WDT treated_VBD senses_NNS as_IN clusters_NNS of_IN words_NNS occurring_VBG in_IN similar_JJ contexts_NNS ._.
+Their_PRP$ algorithm_NN initially_RB discovered_VBD tight_JJ clusters_NNS called_VBD committees_NNS by_IN grouping_VBG top_JJ n_NN words_NNS similar_JJ

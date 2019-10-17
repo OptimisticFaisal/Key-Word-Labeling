@@ -1,0 +1,5 @@
+ulkarni_NNS and_CC Pedersen_NNP ,_, 2005_CD ;_: Mei_NNP et_FW al._FW ,_, 2007_CD -RRB-_-RRB- ._.
+There_EX are_VBP a_DT good_JJ discussions_NNS of_IN automatic_JJ labeling_NN in_IN -LRB-_-LRB- Mei_NNP et_FW al._FW ,_, 2007_CD -RRB-_-RRB- ,_, and_CC -LRB-_-LRB- Treeratpituk_NNP and_CC Callan_NNP ,_, 2006_CD -RRB-_-RRB- ._.
+Frequent_JJ Term-Based_JJ Text_NN Clustering_NN ,_, see_VB -LRB-_-LRB- =_JJ -_: =_JJ Beil_NNP et_FW al._FW ,_, 2002_CD -_: =--RRB-_NN ,_, constructs_NNS text_NN clusters_NNS by_IN considering_VBG sets_NNS of_IN frequent_JJ terms\/words_NNS ._.
+The_DT texts_NNS that_WDT contain_VBP the_DT words_NNS of_IN such_PDT a_DT set_NN forms_VBZ a_DT cluster_NN ._.
+The_DT result_NN is_VBZ a_DT clustering_NN with_IN clusters_NNS and_CC corresponding_JJ desc_NN

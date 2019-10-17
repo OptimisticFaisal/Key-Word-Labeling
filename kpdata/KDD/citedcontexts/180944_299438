@@ -1,0 +1,4 @@
+real_JJ world_NN applications_NNS 4_CD ._.
+4_CD Due_JJ to_TO the_DT partitioning_VBG nature_NN ,_, faster_JJR algorithms\/implementations_NNS have_VBP been_VBN designed_VBN for_IN KM_NNP using_VBG trees_NNS to_TO do_VB spatial_JJ partition_NN of_IN either_CC the_DT centers_NNS or_CC the_DT data_NNS -LRB-_-LRB- GG92_NN -RRB-_-RRB- ,_, =_JJ -_: =_JJ -LRB-_-LRB- PM99_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+p_NN =_JJ 2_CD p_NN =_JJ 2.5_CD p_NN =_JJ 3_CD p_NN =_JJ 3.5_CD p_NN =_JJ 4_CD 5_CD 10_CD 15_CD 20_CD 25_CD -LRB-_-LRB- 24_CD -RRB-_-RRB- 7sSpace_NN complexity_NN of_IN KHM_NN is_VBZ NxD_NN for_IN data_NNS points_NNS ,_, KxD_NN for_IN the_DT K_NN centers_NNS and_CC KxD_NN +2_CD \*_NN K_NN for_IN temporary_JJ storage_NN ._.
+The_DT temporary_JJ storage_NN requirement_NN tends_VBZ to_TO be_VB

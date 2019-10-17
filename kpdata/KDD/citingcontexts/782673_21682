@@ -1,0 +1,4 @@
+ure_NN EM_NN Align_NN ,_, M_NN =_JJ ±_CD 2_CD 0.08_CD 2_CD 3_CD 4_CD 5_CD 6_CD 8_CD 10_CD 15_CD 20_CD 25_CD 30_CD 35_CD 40_CD 45_CD 50_CD #_# of_IN clusters_NNS Figure_NNP 3_CD :_: Within-cluster_JJ mean_JJ variance_NN -LRB-_-LRB- out-ofsample_NN -RRB-_-RRB- for_IN methods_NNS with_IN and_CC without_IN time-shifts_NNS on_IN gene_NN expression_NN data_NNS ._.
+=_SYM -_: =[_NN 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Specifically_RB ,_, we_PRP use_VBP the_DT alpha_NN arrest_NN data_NNS that_WDT captures_VBZ gene_NN expression_NN levels_NNS at_IN 7_CD minute_NN intervals_NNS for_IN two_CD consecutive_JJ cell_NN cycles_NNS ,_, for_IN a_DT total_NN of_IN 17_CD measurements_NNS per_IN gene_NN -LRB-_-LRB- Figure_NN 2_CD -RRB-_-RRB- ._.
+There_EX are_VBP n_NN

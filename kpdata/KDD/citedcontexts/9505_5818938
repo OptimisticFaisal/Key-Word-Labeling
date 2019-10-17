@@ -1,0 +1,4 @@
+ient_JJ algorithms_NNS can_MD provide_VB good_JJ partitions_NNS but_CC suffer_VBP from_IN the_DT lack_NN of_IN explicit_JJ cluster_NN characterization_NN ._.
+This_DT has_VBZ motivated_VBN the_DT research_NN on_IN conceptual_JJ clustering_NN ,_, e.g._FW ,_, the_DT co-clustering_NN approaches_VBZ =_JJ -_: =[_NN 1,2,3,4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Co-clustering_JJ goal_NN is_VBZ to_TO compute_VB bi-clusters_NNS ,_, i.e._FW ,_, associations_NNS of_IN -LRB-_-LRB- possibly_RB overlapping_VBG -RRB-_-RRB- sets_NNS of_IN objects_NNS with_IN sets_NNS of_IN properties_NNS ._.
+An_DT example_NN of_IN an_DT interesting_JJ bi-partition_NN in_IN r_NN is_VBZ -LCB-_-LRB- -LCB-_-LRB- -LCB-_-LRB- t1_NN ,_, t3_NN ,_, t4_NN -RCB-_-RRB- ,_, -LCB-_-LRB- g_NN

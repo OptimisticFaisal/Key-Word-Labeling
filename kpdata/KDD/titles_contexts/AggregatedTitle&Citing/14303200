@@ -1,0 +1,8 @@
+Towards_IN parameter-free_JJ data_NNS mining_NN
+est_NN of_IN our_PRP$ knowledge_NN ,_, yacaree_NN -LRB-_-LRB- Balcázar_NN 2011_CD -RRB-_-RRB- is_VBZ the_DT first_JJ parameter-free_JJ association_NN miner_NN implemented_VBD ._.
+Here_RB ,_, we_PRP compare_VBP this_DT system_NN with_IN other_JJ three_CD well-known_JJ association_NN rule_NN miners_NNS :_: the_DT Apriori_NNP -LRB-_-LRB- =_JJ -_: =_JJ Agrawal_NNP and_CC Srikant_NNP 1994_CD -_: =-]_CD and_CC Predictive_NNP Apriori_NNP -LRB-_-LRB- Scheffer_NNP 2001_CD -RRB-_-RRB- tools_NNS from_IN Weka_NNP ,_, and_CC Borgelt_NNP 's_POS Apriori_NNP implementation_NN -LRB-_-LRB- Borgelt_NN 2003_CD -RRB-_-RRB- ._.
+2_CD ._.
+MAIN_JJ RESULTS_NNS Yacaree_NN is_VBZ a_DT parameter-free_JJ algorithm_NN which_WDT mines_NNS frequent_JJ closed_JJ itemset_NN
+by_IN the_DT user_NN ,_, and_CC whose_WP$ semantics_NNS may_MD not_RB be_VB easy_JJ to_TO grasp_VB ._.
+Likewise_RB ,_, the_DT number_NN of_IN rules_NNS which_WDT obtain_VBP as_IN output_NN is_VBZ often_RB large_JJ ,_, and_CC most_JJS of_IN them_PRP are_VBP redundant_JJ and_CC non-interesting_JJ for_IN decision_NN making_NN -LRB-_-LRB- =_JJ -_: =_JJ García_NNP et_FW al._FW 2007_CD -_: =-]_CD ._.
+There_EX is_VBZ ,_, thus_RB ,_, a_DT clear_JJ need_NN to_TO design_VB and_CC implement_VB parameter-free_JJ data_NNS mining_NN algorithms_NNS addressed_VBD to_TO ``_`` non-experts_NNS ''_'' ,_, and_CC they_PRP must_MD stand_VB reasonably_RB well_RB a_DT comparison_NN with_IN other_JJ ``_`` expert_NN ''_'' -_: oriented_VBN

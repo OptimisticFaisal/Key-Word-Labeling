@@ -1,0 +1,5 @@
+art_NN of_IN speech_NN tagging_NN -RRB-_-RRB- on_IN the_DT same_JJ observation_NN sequence_NN ._.
+The_DT difference_NN is_VBZ that_IN our_PRP$ data_NNS are_VBP hierarchical_JJ trees_NNS and_CC the_DT data_NNS in_IN -LRB-_-LRB- 28_CD -RRB-_-RRB- are_VBP sequences_NNS ._.
+-LRB-_-LRB- 26_CD -RRB-_-RRB- uses_VBZ Hierarchical_JJ Hidden_NNP Markov_NNP models_NNS -LRB-_-LRB- HHMMs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: to_TO extract_VB relation_NN instances_NNS from_IN biomedical_JJ articles_NNS ._.
+Our_PRP$ work_NN differs_VBZ from_IN this_DT one_CD in_IN two_CD key_JJ aspects_NNS ._.
+First_RB ,_, as_IN discriminative_JJ models_NNS HCRFs_NNS have_VBP the_DT flexibility_NN to_TO incorporate_VB arbitrary_JJ and_CC non_JJ -_:

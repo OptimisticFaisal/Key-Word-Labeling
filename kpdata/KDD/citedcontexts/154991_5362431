@@ -1,0 +1,3 @@
+t_NN it_PRP represents_VBZ for_IN domains_NNS of_IN applicationssuch_NN as_IN Natural_NNP Language_NNP Processing_NNP or_CC Bioinformatics_NNP ._.
+PoBOC_NN -LRB-_-LRB- Pole-Based_JJ Overlapping_JJ Clustering_NN -RRB-_-RRB- -LRB-_-LRB- Cleuziou_NNP et_FW al._FW ,_, 2004_CD -RRB-_-RRB- and_CC CBC_NN -LRB-_-LRB- Clustering_NN By_IN Committees_NNS -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =--RRB-_NN are_VBP two_CD clustering_NN algorithms_NNS suitable_JJ for_IN the_DT word_NN clustering_NN task_NN ._.
+They_PRP both_DT proceed_VBP by_IN first_RB constructing_VBG tight_JJ clusters_NNS 9_CD and_CC then_RB assigning_VBG residual_JJ objects_NNS to_TO their_PRP$ most_RBS similar_JJ tight_JJ clusters_NNS

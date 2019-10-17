@@ -1,0 +1,6 @@
+using_VBG an_DT approach_NN equivalent_JJ to_TO LCSS_NN ._.
+Their_PRP$ emphasis_NN ,_, however_RB ,_, is_VBZ on_IN feature_NN vectors_NNS extracted_VBN from_IN images_NNS ._.
+A_DT recent_JJ work_NN that_WDT proposes_VBZ a_DT method_NN to_TO cluster_VB trajectory_JJ data_NNS is_VBZ due_JJ to_TO Gaffney_NNP and_CC Smyth_NNP =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Their_PRP$ method_NN is_VBZ a_DT model-based_JJ approach_NN that_WDT seems_VBZ to_TO suffer_VB from_IN a_DT scalability_NN problem_NN ._.
+Also_RB ,_, it_PRP assumes_VBZ a_DT model_NN of_IN movement_NN ,_, which_WDT is_VBZ not_RB easy_JJ to_TO determine_VB in_IN real_JJ data_NNS sets_NNS ._.
+In_IN fact_NN ,_, it_PRP is_VBZ what_WP we_PRP

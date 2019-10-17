@@ -1,0 +1,4 @@
+nising_VBG frequent_JJ episodes_NNS in_IN event_NN collections_NNS ,_, where_WRB episode_NN is_VBZ defined_VBN as_IN a_DT collection_NN of_IN events_NNS that_WDT occur_VBP at_IN given_VBN intervals_NNS of_IN time_NN in_IN a_DT given_VBN partial_JJ order_NN ._.
+The_DT A_NN priori_FW property_NN is_VBZ also_RB used_VBN in_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT case_NN ,_, however_RB ,_, it_PRP is_VBZ used_VBN to_TO prune_VB infrequent_JJ patterns_NNS ._.
+In_IN this_DT paper_NN ,_, patterns_NNS of_IN any_DT length_NN are_VBP detected_VBN ,_, while_IN the_DT pruning_NN of_IN infrequent_JJ patterns_NNS succeeds_VBZ in_IN providing_VBG a_DT very_RB high_JJ efficie_NN

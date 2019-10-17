@@ -1,0 +1,5 @@
+k_NN ,_, m_NN ∼_NNP Unif_NNP ._.
+Our_PRP$ intuition_NN stems_VBZ from_IN the_DT fact_NN that_IN different_JJ features_NNS have_VBP different_JJ ranges_NNS ._.
+However_RB ,_, we_PRP place_VBP an_DT inverse_NN prior_RB over_IN the_DT variance_NN to_TO penalize_VB large_JJ variances_NNS :_: σ_NN 2_CD k_NN ,_, m_NN ∝_NN 1_CD \/_: σ_NN 2_CD k_NN ,_, m_NN -LRB-_-LRB- see_VB =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: chapter_NN 3.2_CD -RRB-_-RRB- ._.
+The_DT reason_NN for_IN this_DT choice_NN stems_VBZ from_IN the_DT noise_NN introduced_VBN during_IN calculation_NN of_IN the_DT image_NN features_NNS ._.
+Without_IN this_DT prior_JJ ,_, a_DT maximum_NN likelihood_NN -LRB-_-LRB- ML_NN -RRB-_-RRB- estimation_NN of_IN σ_NN 2_CD in_IN a_DT given_VBN topic_NN is_VBZ

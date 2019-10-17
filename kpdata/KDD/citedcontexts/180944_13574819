@@ -1,0 +1,4 @@
+e_LS vocabulary_NN ,_, clustering_NN methods_NNS ,_, and_CC early_JJ or_CC late_JJ fusion_NN of_IN filter_NN responses_NNS ._.
+The_DT clustering_NN method_NN that_IN we_PRP applied_VBD is_VBZ an_DT implementation_NN of_IN the_DT k-means_NN clustering_NN algorithm_NN by_IN D._NNP Pelleg_NNP and_CC A._NNP More_RBR =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN was_VBD stated_VBN before_RB ,_, the_DT results_NNS of_IN k-means_NN clustering_NN depend_VBP heavily_RB on_IN the_DT initialization_NN ._.
+It_PRP is_VBZ not_RB guaranteed_VBN that_IN k-means_NN clustering_NN will_MD locate_VB the_DT optimal_JJ clustering_NN ,_, i.e._FW the_DT clustering_NN tha_NN

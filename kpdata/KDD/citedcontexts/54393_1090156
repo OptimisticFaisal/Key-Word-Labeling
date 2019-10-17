@@ -1,0 +1,5 @@
+se_FW of_IN perturbation_NN and_CC k-anonymity_NN ._.
+These_DT are_VBP as_IN follows_VBZ :_: •_FW In_FW perturbation_NN ,_, we_PRP add_VBP noise_NN to_TO the_DT original_JJ data_NNS ._.
+Reconstructed_JJ distributions_NNS are_VBP then_RB used_VBN to_TO perform_VB the_DT privacy_NN preserving_NN data_NNS mining_NN =_JJ -_: =[_NN 4_CD ,_, 6_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT perturbation_NN method_NN has_VBZ the_DT advantage_NN that_IN it_PRP can_MD be_VB performed_VBN at_IN data_NNS collection_NN time_NN ._.
+This_DT is_VBZ because_IN the_DT behavior_NN of_IN the_DT other_JJ records_NNS does_VBZ not_RB need_VB to_TO be_VB used_VBN during_IN the_DT perturbation_NN process_NN

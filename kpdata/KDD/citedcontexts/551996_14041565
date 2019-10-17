@@ -1,0 +1,3 @@
+t_NN from_IN all_DT of_IN runs_NNS ,_, not_RB just_RB those_DT newly_RB explored_VBN in_IN the_DT current_JJ iteration_NN --_: this_DT way_NN we_PRP get_VBP better_JJR information_NN as_IN iTree_NN progresses_VBZ ._.
+We_PRP then_RB cluster_VBP these_DT runs_NNS using_VBG Weka_NNP 's_POS -LRB-_-LRB- 16_CD -RRB-_-RRB- implementation_NN of_IN CLOPE_NN =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT clustering_NN algorithm_NN that_IN groups_NNS together_RB similar_JJ transactional_JJ data_NN records_NNS with_IN high_JJ dimensionality_NN ._.
+As_IN input_NN to_TO CLOPE_NN ,_, we_PRP represent_VBP each_DT line_NN as_IN a_DT boolean_JJ attribute_NN set_VBN to_TO true_JJ if_IN covered_VBN in_IN a_DT

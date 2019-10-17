@@ -1,0 +1,6 @@
+Mining_NNP sequential_JJ patterns_NNS from_IN probabilistic_JJ databases_NNS
+ses_NNS ,_, measures_NNS like_IN expected_VBN support_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC probabilistic_JJ frequentness_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- have_VBP been_VBN used_VBN ._.
+An_DT expected_JJ support_NN based_VBN approach_NN for_IN mining_NN sequential_JJ patterns_NNS in_IN probabilistic_JJ databases_NNS was_VBD proposed_VBN in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB ,_, we_PRP focus_VBP on_IN probabilistic_JJ frequent_JJ sequential_JJ patterns_NNS ._.
+Definition_NN 1_CD ._.
+Given_VBN a_DT probabilistic_JJ database_NN D_NN p_NN and_CC its_PRP$ set_NN of_IN possible_JJ worlds_NNS PW_NN -LRB-_-LRB- D_NN p_NN -RRB-_-RRB- ,_, the_DT support_NN probability_NN for_IN a_DT sequence_NN s_NN is_VBZ de_IN

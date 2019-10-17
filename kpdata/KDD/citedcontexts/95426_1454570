@@ -1,0 +1,4 @@
+used_VBN for_IN risk_NN factors_NNS '_POS assessment_NN and_CC decision-making_JJ support_NN ._.
+Most_RBS statistical_JJ and_CC Machine_NNP Lerning\/Data_NNP Mining_NNP algorithms_NNS assume_VBP that_IN the_DT data_NN is_VBZ a_DT random_JJ sample_NN drawn_VBN from_IN a_DT stationary_JJ distribution_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Unfortunately_RB ,_, many_JJ of_IN the_DT databases_NNS available_JJ for_IN mining_NN today_NN violate_VBP this_DT assumption_NN ._.
+They_PRP were_VBD gathered_VBN over_IN months_NNS or_CC years_NNS ,_, and_CC the_DT underlying_VBG processes_NNS generating_VBG them_PRP may_MD have_VB changed_VBN during_IN

@@ -1,0 +1,3 @@
+ng_NN popularity_NN of_IN XML_NN in_IN databases_NNS ._.
+There_EX are_VBP three_CD categories_NNS of_IN methods_NNS for_IN mining_NN frequent_JJ subtrees_NNS ._.
+The_DT first_JJ -LRB-_-LRB- and_CC by_IN far_RB the_DT most_RBS common_JJ -RRB-_-RRB- category_NN of_IN algorithms_NNS are_VBP based_VBN on_IN enumeration_NN trees_NNS :_: In_IN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Zaki_NNP presented_VBD an_DT algorithm_NN ,_, TreeMiner_NNP ,_, to_TO discover_VB all_DT frequent_JJ embedded_JJ subtrees_NNS ,_, i.e._FW ,_, those_DT subtrees_NNS that_WDT preserve_VBP ancestor-descendant_JJ relationships_NNS ,_, in_IN a_DT forest_NN or_CC a_DT database_NN of_IN rooted_JJ ordered_VBN

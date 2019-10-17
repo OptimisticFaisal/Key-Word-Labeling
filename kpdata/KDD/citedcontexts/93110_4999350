@@ -1,0 +1,3 @@
+he_PRP performance_NN of_IN our_PRP$ algorithm_NN was_VBD studied_VBN in_IN two_CD stages_NNS ._.
+First_RB ,_, the_DT algorithm_NN that_WDT executes_VBZ at_IN each_DT node_NN was_VBD compared_VBN against_IN other_JJ significant_JJ sequential_JJ algorithms_NNS including_VBG OpportuneProject_NN -LRB-_-LRB- OP_NN -RRB-_-RRB- =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, FP-Growth_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC the_DT best_JJS available_JJ implementation_NN of_IN Apriori_NNP -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, using_VBG a_DT number_NN of_IN widely_RB used_VBN dense_JJ test_NN datasets_NNS ._.
+Then_RB the_DT performance_NN of_IN parallel_JJ execution_NN of_IN our_PRP$ algorithm_NN was_VBD studied_VBN on_IN the_DT

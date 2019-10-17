@@ -1,0 +1,4 @@
+Research_NN on_IN burst_NN detection_NN has_VBZ largely_RB focused_VBN on_IN effectively_RB determining_VBG a_DT burst_NN in_IN the_DT general_JJ behavior_NN of_IN an_DT entity_NN ._.
+Various_JJ methods_NNS for_IN modeling_NN the_DT general_JJ temporal_JJ behavior_NN have_VBP been_VBN proposed_VBN =_JJ -_: =[_NN 9_CD ,_, 15_CD ,_, 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, some_DT of_IN which_WDT are_VBP extensions_NNS of_IN the_DT seminal_JJ work_NN by_IN Kleinberg_NNP -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Bursts_NNS are_VBP typically_RB detected_VBN by_IN examining_VBG the_DT divergence_NN from_IN a_DT background_NN model_NN ._.
+Existing_VBG techniques_NNS differ_VBP in_IN supporting_JJ evidenc_NN

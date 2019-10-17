@@ -1,0 +1,4 @@
+``_`` flat-world_JJ ''_'' view_NN may_MD not_RB be_VB sufficient_JJ ._.
+How_WRB should_MD we_PRP summarize_VB such_JJ high_JJ dimensional_JJ and_CC multi-aspect_JJ streams_NNS ?_.
+Some_DT of_IN the_DT recent_JJ developments_NNS are_VBP along_IN these_DT lines_NNS such_JJ as_IN Dynamic_NNP Tensor_NNP Analysis_NNP =_SYM -_: =[_NN 142_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Window-based_JJ Tensor_NNP Analysis_NNP -LRB-_-LRB- 141_CD -RRB-_-RRB- ,_, which_WDT incrementalize_VBP the_DT standard_JJ offline_JJ tensor_NN decompositions_NNS such_JJ as_IN Tensor_NNP PCA_NNP -LRB-_-LRB- Tucker_NNP 2_CD -RRB-_-RRB- and_CC Tucker_NNP ._.
+However_RB ,_, existing_VBG literature_NN adopts_VBZ the_DT same_JJ model_NN fo_NN

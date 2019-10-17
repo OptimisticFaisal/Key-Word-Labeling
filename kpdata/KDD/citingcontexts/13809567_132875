@@ -1,0 +1,5 @@
+goL1_NN rithm_NN for_IN feature_NN selection_NN ._.
+L1_NN regularization_NN has_VBZ the_DT beneficial_JJ effect_NN of_IN regularizing_VBG model_NN coefficients_NNS -LRB-_-LRB- as_IN in_IN L2_NN regularization_NN -RRB-_-RRB- ,_, but_CC yields_NNS sparse_VBP models_NNS that_WDT are_VBP more_RBR easily_RB interpretable_JJ =_JJ -_: =[_NN 27_CD ,_, 32_CD ,_, 35_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT model_NN has_VBZ a_DT regularization_NN parameter_NN that_WDT controls_VBZ the_DT ``_`` sparseness_NN ''_'' of_IN the_DT weights_NNS ._.
+Consequently_RB ,_, the_DT features_NNS with_IN nonzero_JJ weights_NNS are_VBP selected_VBN for_IN prediction_NN ._.
+3.3.3_CD Conservative_JJ mean_NN feature_NN

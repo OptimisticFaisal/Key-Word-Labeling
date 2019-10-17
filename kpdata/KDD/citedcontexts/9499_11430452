@@ -1,0 +1,5 @@
+esults_NNS will_MD be_VB comparable_JJ ._.
+There_EX is_VBZ vast_JJ literature_NN on_IN clustering_NN using_VBG both_CC iterative_JJ and_CC streaming_NN algorithms_NNS ._.
+Iterative_JJ methods_NNS ,_, such_JJ as_IN spectral_JJ -LRB-_-LRB- 18_CD ,_, 104_CD ,_, 20_CD -RRB-_-RRB- ,_, or_CC information_NN theoretic_JJ clustering_NN =_JJ -_: =[_NN 106_CD ,_, 19_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP generally_RB too_RB slow_JJ for_IN large_JJ datasets_NNS ._.
+A_DT faster_JJR alternative_NN is_VBZ to_TO use_VB methods_NNS which_WDT make_VBP either_CC a_DT single-pass_NN -LRB-_-LRB- a_DT streaming_NN algorithm_NN -RRB-_-RRB- or_CC a_DT small_JJ number_NN of_IN passes_NNS over_IN the_DT data_NNS ._.
+Streaming_VBG clusteri_NNS

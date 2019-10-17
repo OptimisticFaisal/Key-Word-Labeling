@@ -1,0 +1,6 @@
+of_IN this_DT idea_NN is_VBZ computationally_RB intractable_JJ ._.
+To_TO reduce_VB the_DT computational_JJ overhead_NN of_IN the_DT methodology_NN we_PRP limit_VBP the_DT search_NN to_TO the_DT clusters_NNS contained_VBN in_IN a_DT hierarchical_JJ clustering_NN solution_NN ,_, or_CC dendrogram_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Figure_NN 1_CD overviews_NNS the_DT proposed_VBN clustering_NN method_NN ._.
+First_RB ,_, we_PRP use_VBP a_DT hierarchical_JJ algorithm_NN to_TO generate_VB the_DT collection_NN dendrogram_NN ._.
+We_PRP detail_NN the_DT hierarchical_JJ algorithm_NN used_VBN in_IN Section_NNP 2.2_CD ._.
+From_IN the_DT de_FW

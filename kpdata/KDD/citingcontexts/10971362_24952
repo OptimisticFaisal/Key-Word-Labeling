@@ -1,0 +1,5 @@
+died_VBD in_IN -LRB-_-LRB- 5_CD ,_, 20_CD -RRB-_-RRB- ._.
+A_DT common_JJ security_NN concern_NN is_VBZ intrusion_NN where_WRB valuable_JJ system_NN resources_NNS are_VBP utilized_VBN by_IN unauthorized_JJ system_NN or_CC party_NN ._.
+An_DT example_NN of_IN valuable_JJ system_NN resources_NNS is_VBZ privileged_JJ system_NN call_NN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT system_NN call_NN can_MD be_VB ``_`` dangerous_JJ ''_'' when_WRB used_VBN inappropriately_RB ._.
+We_PRP model_VBP a_DT potential_JJ intrusion_NN by_IN adding_VBG an_DT extra_JJ transition_NN corresponding_VBG to_TO a_DT misuse_NN of_IN a_DT privileged_JJ system_NN call_NN to_TO the_DT X11_NN Windowing_NN Pr_NN

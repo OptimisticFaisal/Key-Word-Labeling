@@ -1,0 +1,4 @@
+and_CC noisy_JJ industrial_JJ dataset_NN ._.
+Below_NNP -RRB-_-RRB- a_DT zoom-in_NN reveals_VBZ just_RB how_WRB similar_JJ the_DT three_CD occurrences_NNS are_VBP to_TO each_DT other_JJ There_EX exists_VBZ a_DT vast_JJ body_NN of_IN work_NN on_IN efficiently_RB locating_VBG known_JJ patterns_NNS in_IN time_NN series_NN =_JJ -_: =[_NN 1_CD ,_, 6_CD ,_, 12_CD ,_, 23_CD ,_, 35_CD ,_, 36_CD ,_, 37_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB ,_, however_RB ,_, we_PRP must_MD be_VB able_JJ to_TO discover_VB motifs_NNS without_IN any_DT prior_JJ knowledge_NN about_IN the_DT regularities_NNS of_IN the_DT data_NNS under_IN study_NN ._.
+The_DT obvious_JJ ,_, nested-loop_JJ ,_, brute_JJ force_NN approach_NN to_TO motif_NN discovery_NN would_MD

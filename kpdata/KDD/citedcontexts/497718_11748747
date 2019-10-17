@@ -1,0 +1,4 @@
+back_RB to_TO node_NN vx_NN -LRB-_-LRB- restart_VB -RRB-_-RRB- ._.
+Thus_RB ,_, the_DT relevance_NN score_NN of_IN node_NN vx_NN with_IN respect_NN to_TO node_NN vy_NN is_VBZ defined_VBN as_IN the_DT steady-state_JJ probability_NN rvx_NN ,_, vy_NN that_IN the_DT random_JJ walker_NN will_MD finally_RB stay_VB at_IN node_NN vy_NN ._.
+SimRank_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: also_RB computes_VBZ a_DT global_JJ similarity_NN measure_NN based_VBN on_IN the_DT structural_JJ context_NN of_IN a_DT network_NN that_WDT says_VBZ ``_`` two_CD objects_NNS are_VBP similar_JJ if_IN they_PRP are_VBP related_JJ to_TO similar_JJ objects_NNS ''_'' ._.
+Recently_RB ,_, Clauset_NNP et_FW al._FW -LRB-_-LRB- 3_CD -RRB-_-RRB- propose_VBP

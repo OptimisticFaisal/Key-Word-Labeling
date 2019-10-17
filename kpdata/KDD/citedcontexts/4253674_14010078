@@ -1,0 +1,4 @@
+uting_VBG the_DT spread_NN of_IN a_DT given_VBN seed_NN set_NN carries_VBZ over_RP to_TO our_PRP$ setting_NN ._.
+To_TO mitigate_VB this_DT ,_, we_PRP employ_VBP Monte_NNP Carlo_NNP simulation_NN for_IN estimating_VBG the_DT spread_NN ._.
+Finally_RB ,_, we_PRP adapt_VBP the_DT CELF_NN algorithm_NN of_IN Leskovec_NNP et_FW al._FW =_SYM -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT idea_NN behind_IN CELF_NN is_VBZ that_IN the_DT marginal_JJ gain_NN of_IN a_DT node_NN can_MD not_RB increase_VB in_IN subsequent_JJ iterations_NNS -LRB-_-LRB- due_JJ to_TO submodularity_NN -RRB-_-RRB- and_CC thus_RB the_DT spread_NN of_IN seed_NN sets_NNS is_VBZ computed_VBN in_IN a_DT lazy_JJ forward_JJ manner_NN ,_, speedi_NN

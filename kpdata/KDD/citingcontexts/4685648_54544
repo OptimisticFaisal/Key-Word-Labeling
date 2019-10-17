@@ -1,0 +1,4 @@
+,_, and_CC developed_VBD the_DT PageRank_NNP and_CC HITS_NNP algorithms_NNS ,_, respectively_RB ,_, for_IN better_JJR precision_NN in_IN web_NN search_NN ._.
+Both_DT algorithms_NNS analyze_VBP the_DT link_NN structure_NN of_IN the_DT Web_NN to_TO calculate_VB document_NN authorities_NNS ._.
+Haveliwala_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBN topicsensitive_JJ PageRank_NNP ,_, which_WDT generates_VBZ multiple_JJ document_NN authorities_NNS biased_VBN to_TO each_DT specific_JJ topic_NN for_IN better_JJR document_NN ranking_NN ._.
+Note_VB that_DT our_PRP$ approach_NN is_VBZ different_JJ from_IN general_JJ web_NN search_NN

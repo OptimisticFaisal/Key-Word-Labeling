@@ -1,0 +1,3 @@
+documents_NNS represent_VBP the_DT same_JJ entity_NN ._.
+This_DT straightforward_JJ modelling_NN of_IN the_DT problem_NN results_VBZ in_IN a_DT classification_NN problem_NN --_: as_IN has_VBZ been_VBN done_VBN by_IN several_JJ other_JJ authors_NNS -LRB-_-LRB- Cohen_NNP ,_, Ravikumar_NNP ,_, &_CC Fienberg_NNP 2003_CD ;_: =_JJ -_: =_JJ Bilenko_NNP &_CC Mooney_NNP 2003_CD -_: =--RRB-_NN --_: allowing_VBG us_PRP to_TO compare_VB our_PRP$ results_NNS with_IN these_DT ._.
+This_DT is_VBZ a_DT standard_JJ pairwise_JJ classification_NN task_NN ,_, under_IN a_DT supervised_JJ learning_NN protocol_NN ;_: our_PRP$ main_JJ contribution_NN in_IN this_DT part_NN is_VBZ to_TO show_VB how_WRB relational_JJ -LRB-_-LRB-

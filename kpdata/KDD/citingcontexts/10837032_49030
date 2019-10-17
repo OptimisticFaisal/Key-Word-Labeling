@@ -1,0 +1,3 @@
+e_LS threading_NN ,_, synchronization_NN ,_, and_CC consistent_JJ memory_NN models_NNS make_VBP shared_JJ memory_NN parallel_JJ programming_NN difficult_JJ ._.
+We_PRP address_VBP these_DT issues_NNS using_VBG a_DT naturally_RB parallel_JJ programming_NN model_NN called_VBN dataflow_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT essence_NN of_IN which_WDT is_VBZ computation_NN organized_VBN by_IN the_DT flow_NN of_IN data_NNS through_IN a_DT graph_NN of_IN operators_NNS ._.
+We_PRP compose_VBP these_DT graphs_NNS using_VBG standard_JJ operators_NNS designed_VBN to_TO tune_VB their_PRP$ parallelism_NN to_TO available_JJ resou_NN

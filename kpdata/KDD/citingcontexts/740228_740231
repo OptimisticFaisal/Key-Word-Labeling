@@ -1,0 +1,4 @@
+er_IN competing_VBG models_NNS ._.
+In_IN order_NN to_TO handle_VB the_DT first_JJ of_IN these_DT problems_NNS ,_, we_PRP propose_VBP LBMA_NNP ,_, an_DT heuristic_NN approach_NN to_TO approximate_JJ BMA_NNP ._.
+The_DT idea_NN is_VBZ similar_JJ in_IN spirit_NN to_TO the_DT Occam_NNP 's_POS Window_NNP method_NN described_VBN in_IN =_JJ -_: =[_NN 5_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO apply_VB LBMA_NNP we_PRP should_MD have_VB an_DT heuristic_NN h_NN -LRB-_-LRB- M_NN ,_, S_NN -RRB-_-RRB- such_JJ that_IN h_NN -LRB-_-LRB- M_NN ,_, S_NN -RRB-_-RRB- ≈_NN P_NN -LRB-_-LRB- M_NN |_NN S_NN -RRB-_-RRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- In_IN order_NN to_TO approximate_JJ the_DT summation_NN in_IN Equation_NN 9_CD ,_, and_CC given_VBN that_IN we_PRP have_VBP h_NN -LRB-_-LRB- M_NN ,_, S_NN -RRB-_-RRB- ,_, we_PRP define_VBP our_PRP$ set_NN of_IN interesti_NNS

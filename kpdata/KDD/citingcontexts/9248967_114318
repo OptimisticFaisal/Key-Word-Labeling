@@ -1,0 +1,4 @@
+h_NN can_MD then_RB include_VB smaller_JJR subcategories_NNS ._.
+Gabrilovich_NNP and_CC Markovitch_NNP constructed_VBD a_DT benchmark_JJ set_NN of_IN term-document_JJ matrices_NNS from_IN ODP_NNP ,_, called_VBN TechTC_NN -LRB-_-LRB- Technion_NNP Repository_NNP of_IN Text_NNP Categorization_NNP Datasets_NNPS =_SYM -_: =[_NN 21_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, which_WDT they_PRP made_VBD publicly_RB available_JJ ._.
+Each_DT matrix_NN of_IN the_DT TechTC_FW dataset_FW consists_VBZ of_IN a_DT total_NN of_IN 150_CD to_TO 200_CD documents_NNS from_IN two_CD different_JJ ODP_NN categories_NNS ._.
+The_DT category_NN that_IN each_DT document_NN belongs_VBZ to_TO was_VBD a_DT

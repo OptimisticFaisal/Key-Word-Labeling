@@ -1,0 +1,4 @@
+s_NNS have_VBP been_VBN proposed_VBN for_IN learning_VBG with_IN concept_NN change_NN -LRB-_-LRB- 1_CD --_: 5_CD -RRB-_-RRB- ._.
+However_RB ,_, in_IN most_JJS cases_NNS ,_, the_DT algorithms_NNS are_VBP based_VBN on_IN heuristics_NNS and_CC applicable_JJ to_TO a_DT limited_JJ set_NN of_IN problems_NNS ._.
+Boosting_VBG algorithm_NN proposed_VBN in_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ each_DT new_JJ data_NNS batch_NN to_TO train_VB an_DT additional_JJ classifier_NN and_CC to_TO recalculate_VB the_DT weights_NNS for_IN the_DT existing_VBG classifiers_NNS ._.
+These_DT weights_NNS are_VBP recalculated_VBN instead_RB of_IN updated_VBN ,_, thus_RB discarding_VBG the_DT influenc_NN

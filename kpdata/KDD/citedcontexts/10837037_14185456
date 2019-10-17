@@ -1,0 +1,5 @@
+fine_RB ,_, in_IN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, induced_VBD subgraph_NN subsequence_NN ._.
+This_DT novel_JJ class_NN of_IN subgraph_JJ subsequence_NN enables_VBZ to_TO efficiently_RB mine_VB frequent_JJ patterns_NNS from_IN graph_NN sequences_NNS containing_VBG long_JJ sequences_NNS and_CC large_JJ graphs_NNS ._.
+In_IN =_JJ -_: =[_NN 37_CD -RRB-_-RRB- -_: =_JJ -_: ,_, You_PRP et_FW al._FW study_NN how_WRB a_DT graph_NN is_VBZ structurally_RB transformed_VBN through_IN time_NN ._.
+They_PRP compute_VBP graph_NN rewriting_VBG rules_NNS that_WDT describe_VBP the_DT evolution_NN of_IN two_CD consecutive_JJ graphs_NNS ._.
+These_DT rules_NNS are_VBP then_RB abstracted_VBN into_IN

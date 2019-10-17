@@ -1,0 +1,5 @@
+as_IN a_DT state-of-art_NN integrated_VBN ``_`` two-step_JJ ''_'' approach_NN PatClass_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- for_IN frequent_JJ itemsets_NNS mining_NN ._.
+At_IN the_DT time_NN of_IN final_JJ copy_NN preparation_NN ,_, a_DT heuristic-based_JJ method_NN to_TO directly_RB mine_VB frequent_JJ itemsets_NNS DDPMine_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ just_RB published_VBN ._.
+A_DT comparison_NN on_IN performance_NN is_VBZ discussed_VBN at_IN the_DT end_NN of_IN Section_NN 4_CD ._.
+For_IN each_DT dataset_NN ,_, the_DT results_NNS reported_VBN below_IN are_VBP the_DT average_NN of_IN 5-fold_JJ CV_NN ._.
+3.1_CD Itemset_NNP Mining_NNP The_DT main_JJ concerns_NNS on_IN

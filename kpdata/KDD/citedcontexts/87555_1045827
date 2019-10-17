@@ -1,0 +1,4 @@
+on_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Most_JJS of_IN the_DT research_NN addressing_VBG this_DT problem_NN can_MD be_VB classified_VBN into_IN three_CD categories_NNS ._.
+One_CD consists_VBZ of_IN assigning_VBG distinct_JJ costs_NNS to_TO the_DT classification_NN errors_NNS for_IN positive_JJ and_CC negative_JJ examples_NNS =_JJ -_: =[_NN 4_CD ,_, 7_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT second_NN is_VBZ to_TO resample_VB the_DT original_JJ training_NN set_NN ,_, either_CC by_IN over-sampling_VBG the_DT minority_NN class_NN -LRB-_-LRB- 3_CD ,_, 11_CD -RRB-_-RRB- and\/or_CC undersampling_VBG the_DT majority_NN class_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- until_IN the_DT classes_NNS are_VBP approximately_RB equally_RB repre_JJ

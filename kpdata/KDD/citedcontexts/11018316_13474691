@@ -1,0 +1,4 @@
+training_NN SVMs_NNS have_VBP been_VBN evolving_VBG from_IN being_VBG scalable_JJ to_TO thousands_NNS of_IN examples_NNS to_TO being_VBG scalable_JJ to_TO millions_NNS ._.
+Nevertheless_RB ,_, current_JJ state-of-the-art_JJ sequential_JJ linear_JJ SVM_NN solvers_NNS are_VBP relatively_RB slow_JJ -LRB-_-LRB- =_JJ -_: =[_NN 3_CD ,_, 19_CD -RRB-_-RRB- -_: =--RRB-_NN if_IN they_PRP are_VBP trained_VBN over_IN tens_NNS of_IN millions_NNS of_IN high-dimensional_JJ examples_NNS ._.
+The_DT scalability_NN of_IN the_DT state-of-the-art_JJ sequential_JJ solvers_NNS of_IN nonlinear_JJ SVM_NN is_VBZ even_RB worse_JJR -LRB-_-LRB- -LRB-_-LRB- 15_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+The_DT scalability_NN of_IN sequentia_NN

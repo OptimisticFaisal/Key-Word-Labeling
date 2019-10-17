@@ -1,0 +1,3 @@
+models_NNS of_IN console_NN logs_NNS :_: as_IN a_DT collection_NN of_IN English_JJ terms_NNS -LRB-_-LRB- Stearley_NNP ,_, 2004_CD ;_: Vaarandi_NNP ,_, 2004_CD ;_: Splunk_NNP ,_, 2008_CD -RRB-_-RRB- or_CC as_IN a_DT single_JJ sequence_NN of_IN repeating_VBG events_NNS -LRB-_-LRB- Hellerstein_NNP et_FW al._FW ,_, 2002_CD ;_: Ma_NNP &_CC Hellerstein_NNP ,_, 2001_CD ;_: =_JJ -_: =_JJ Yamanishi_NNP &_CC Maruyama_NNP ,_, 2005_CD -_: =_JJ -_: ;_: Lim_NNP et_FW al._FW ,_, 2008_CD -RRB-_-RRB- ._.
+These_DT methods_NNS ,_, however_RB ,_, do_VBP not_RB perform_VB well_RB in_IN large-scale_JJ systems_NNS with_IN multiple_JJ independent_JJ processes_NNS that_WDT generate_VBP interleaved_JJ logs_NNS ._.
+We_PRP instead_RB model_VBP console_NN logs_NNS as_IN a_DT number_NN of_IN

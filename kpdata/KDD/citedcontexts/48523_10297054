@@ -1,0 +1,4 @@
+sed_VBD that_DT measures_VBZ the_DT ANN_NNP 's_POS confidence_NN in_IN each_DT class_NN ._.
+The_DT heuristic_NN chosen_VBN for_IN this_DT paper_NN is_VBZ the_DT F-measure_NN ._.
+The_DT F-measure_NN for_IN class_NN k_NN is_VBZ determined_VBN as_IN follows_VBZ :_: F_NN -_: measurek_NN =_JJ 2_CD ×_FW Recallk_FW ×_FW P_NN recisionk_NN =_JJ -_: =-LRB-_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: Recallk_NN +_CC P_NN recisionk_NN where_WRB TruePositivesk_NN Recallk_NN =_JJ -LRB-_-LRB- 3_LS -RRB-_-RRB- TruePositivesk_NN +_CC F_NN alseNegativesk_NN and_CC TruePositivesk_NN P_NN recisionk_NN =_JJ ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- TruePositivesk_NN +_CC F_NN alseP_NN ositivesk_NN Recall_VB is_VBZ a_DT measure_NN of_IN how_WRB often_RB a_DT

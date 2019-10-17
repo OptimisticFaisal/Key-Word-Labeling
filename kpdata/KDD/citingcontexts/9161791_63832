@@ -1,0 +1,4 @@
+Ti_FW ×_FW Ii_NN ._.
+The_DT process_NN continues_VBZ until_IN CDB_NN completely_RB covers_VBZ DB_NN -LRB-_-LRB- R_NN =_JJ DB_NN -RRB-_-RRB- ._.
+It_PRP has_VBZ been_VBN proved_VBN that_IN the_DT approximation_NN ratio_NN of_IN this_DT algorithm_NN is_VBZ ln_NN -LRB-_-LRB- k_NN -RRB-_-RRB- +_CC 1_CD ,_, where_WRB k_NN is_VBZ the_DT number_NN of_IN hyperrectangles_NNS in_IN CDB_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Clearly_RB ,_, this_DT algorithm_NN is_VBZ not_RB a_DT feasible_JJ solution_NN for_IN the_DT minimal_JJ database_NN covering_VBG problem_NN due_JJ to_TO the_DT exponential_JJ number_NN of_IN candidate_NN hyperrectangles_NNS in_IN C_NN ,_, which_WDT in_IN the_DT worst_JJS case_NN is_VBZ in_IN the_DT order_NN

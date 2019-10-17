@@ -1,0 +1,3 @@
+ion_NN ,_, we_PRP propose_VBP a_DT novel_JJ learning_NN formulation_NN that_WDT extracts_VBZ an_DT uncorrelated_JJ subspace_NN kernel_NN to_TO reduce_VB redundant_JJ information_NN in_IN a_DT subspace_NN kernel_NN ._.
+Following_VBG the_DT idea_NN from_IN multiple_JJ kernel_NN learning_NN -LRB-_-LRB- MKL_NN -RRB-_-RRB- =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP extend_VBP the_DT proposed_VBN formulations_NNS to_TO the_DT case_NN when_WRB multiple_JJ kernels_NNS are_VBP available_JJ and_CC need_VBP to_TO be_VB combined_VBN ._.
+For_IN example_NN ,_, when_WRB we_PRP employ_VBP the_DT Gaussian_JJ kernel_NN for_IN classification_NN ,_, we_PRP need_VBP to_TO estimate_VB t_NN

@@ -1,0 +1,4 @@
+ribution_NN of_IN protein_NN entities_NNS Ωk_NN ,_, and_CC a_DT gaussian_JJ distribution_NN over_IN every_DT image_NN feature_NN s_NN ,_, -LRB-_-LRB- µk_NN ,_, s_NN ,_, σk_NN ,_, s_NNS -RRB-_-RRB- ._.
+Given_VBN these_DT topics_NNS ,_, a_DT graphical_JJ model_NN is_VBZ defined_VBN that_WDT generates_VBZ figure_JJ f_FW given_VBN these_DT topics_NNS -LRB-_-LRB- see_VB =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: for_IN a_DT full_JJ description_NN -RRB-_-RRB- ._.
+There_EX are_VBP two_CD main_JJ steps_NNS involved_VBN in_IN building_VBG our_PRP$ topic_NN model_NN :_: inference_NN and_CC learning_NN ._.
+In_IN learning_NN ,_, given_VBN a_DT set_NN of_IN figures_NNS ,_, the_DT goal_NN is_VBZ to_TO learn_VB the_DT set_NN of_IN topics_NNS -LRB-_-LRB- βk_NN ,_, Ωk_NN ,_, -LCB-_-LRB- µ_NN

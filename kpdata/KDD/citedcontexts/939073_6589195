@@ -1,0 +1,3 @@
+Since_IN the_DT default_NN rule_NN classifies_VBZ to_TO the_DT class_NN with_IN the_DT highest_JJS frequency_NN ,_, any_DT tuple_NN that_WDT does_VBZ not_RB satisfy_VB mined_VBN rules_NNS is_VBZ classified_VBN to_TO this_DT class_NN ._.
+8s2_FW .1.2_FW Association-based_JJ Decision_NNP Trees_NNP -LRB-_-LRB- ADT_NN -RRB-_-RRB- ADT_NN =_JJ -_: =[_NN 36_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ to_TO first_RB mine_VB all_DT CARs_NNS without_IN a_DT support_NN threshold_NN and_CC uses_VBZ these_DT rules_NNS to_TO build_VB a_DT decision-tree_NN like_IN structure_NN called_VBN Association-based_JJ Decision_NN Tree_NN -LRB-_-LRB- ADT_NN -RRB-_-RRB- ._.
+This_DT ADT_NN is_VBZ then_RB pruned_VBN using_VBG te_NN

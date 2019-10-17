@@ -1,0 +1,5 @@
+ly_RB high_JJ minimum_JJ support_NN values_NNS -LRB-_-LRB- minSup_NN -RRB-_-RRB- ._.
+In_IN preliminary_JJ experiments_NNS ,_, this_DT leads_VBZ to_TO the_DT discovery_NN of_IN very_RB small_JJ substructures_NNS ,_, i.e._FW ,_, with_IN a_DT maximum_NN of_IN two_CD nodes_NNS only_RB ._.
+Further_RB ,_, the_DT CloseGraph_NNP algorithm_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ not_RB helpful_JJ in_IN our_PRP$ case_NN ._.
+This_DT is_VBZ because_IN there_EX rarely_RB are_VBP closed_JJ graphs_NNS -LRB-_-LRB- with_IN exactly_RB the_DT same_JJ support_NN -RRB-_-RRB- which_WDT offer_VBP pruning_NN opportunities_NNS ._.
+In_IN preliminary_JJ experiments_NNS ,_, CloseGraph_NNP even_RB increased_VBD the_DT

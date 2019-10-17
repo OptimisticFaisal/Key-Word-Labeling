@@ -1,0 +1,5 @@
+age_NN of_IN the_DT overall_JJ structure_NN ._.
+With_IN Z-order_NN ,_, T2_NN .5_NN D_NN can_MD give_VB the_DT user_NN an_DT impression_NN that_IN trees_NNS are_VBP drawn_VBN in_IN a_DT 3D_NN space_NN ._.
+The_DT user_NN can_MD easily_RB change_VB the_DT active_JJ wide_JJ path_NN by_IN choosing_VBG another_DT node_NN in_IN focus_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP have_VBP experimented_VBN T2_NN .5_NN D_NN with_IN various_JJ real_JJ and_CC artificial_JJ datasets_NNS ._.
+It_PRP has_VBZ been_VBN verified_VBN that_IN T2_NN .5_NN D_NN can_MD handle_VB well_RB trees_NNS with_IN more_JJR than_IN 20,000_CD nodes_NNS ,_, '_'' and_CC more_JJR than_IN 1,000_CD nodes_NNS can_MD be_VB displayed_VBN t_NN

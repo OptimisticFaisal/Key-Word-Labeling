@@ -1,0 +1,4 @@
+ion_NN can_MD be_VB reduced_VBN to_TO be_VB linear_JJ with_IN the_DT number_NN of_IN nonzero_JJ matrix_NN elements_NNS ._.
+4.2_CD Statistical_JJ Language_NN Model_NNP Using_VBG language_NN models_NNS for_IN information_NN retrieval_NN has_VBZ been_VBN studied_VBN extensively_RB in_IN recent_JJ years_NNS =_JJ -_: =[_NN 23_CD ,_, 27_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO determine_VB the_DT probability_NN of_IN a_DT query_NN given_VBN a_DT document_NN ,_, we_PRP infer_VBP a_DT document_NN model_NN θd_NN for_IN each_DT document_NN in_IN a_DT collection_NN ._.
+With_IN query_FW q_FW as_IN input_NN ,_, retrieved_VBN documents_NNS are_VBP ranked_VBN based_VBN on_IN the_DT probabili_NN

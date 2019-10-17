@@ -1,0 +1,5 @@
+Section_NN 5_CD we_PRP evaluate_VBP our_PRP$ approach_NN using_VBG groups_NNS of_IN experiments_NNS ._.
+We_PRP summarize_VBP our_PRP$ contributions_NNS in_IN the_DT last_JJ section_NN ._.
+2_CD ._.
+RELATED_NNS WORK_VBP There_EX are_VBP statistics-based_JJ -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, distance-based_JJ -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, deviation-based_JJ =_JJ -_: =[_NN 7,10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, depth-based_JJ -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC density-based_JJ -LRB-_-LRB- 9_CD -RRB-_-RRB- algorithms_NNS for_IN detecting_VBG outliers_NNS ._.
+The_DT statistical_JJ approach_NN to_TO outlier_NN detection_NN assumes_VBZ a_DT distribution_NN or_CC probability_NN model_NN for_IN the_DT given_VBN data_NN set_NN and_CC then_RB ide_VB

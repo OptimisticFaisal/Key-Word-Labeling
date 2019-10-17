@@ -1,0 +1,4 @@
+4_CD ,_, 28_CD ,_, 32_CD -RRB-_-RRB- ._.
+Dhillon_NNP expressed_VBD the_DT co-clustering_JJ problem_NN in_IN the_DT framework_NN of_IN spectral_JJ clustering_NN by_IN considering_VBG bipartite_JJ graph_NN structures_NNS where_WRB edge_NN strengths_NNS are_VBP computed_VBN from_IN co-occurrence_JJ matrices_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+More_RBR recently_RB ,_, this_DT has_VBZ been_VBN extended_VBN from_IN bipartite_JJ graphs_NNS to_TO multipartite_JJ graphs_NNS in_IN order_NN to_TO include_VB additional_JJ modalities_NNS and_CC has_VBZ been_VBN applied_VBN to_TO image_NN and_CC text_NN data_NNS -LRB-_-LRB- 13_CD ,_, 25_CD -RRB-_-RRB- ._.
+Alternatively_RB ,_, one_CD

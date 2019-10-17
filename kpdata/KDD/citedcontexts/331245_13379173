@@ -1,0 +1,4 @@
+.2_NN ._.
+Mining_NN of_IN Topology_FW Graph_FW By_IN mining_VBG the_DT topology_NN graph_NN ,_, our_PRP$ method_NN extracts_NNS frequent_JJ patterns_NNS of_IN the_DT subgraphs_NNS as_IN candidates_NNS of_IN the_DT semantic_JJ elements_NNS ._.
+Our_PRP$ method_NN uses_VBZ GASTON_NNP graph_NN mining_NN algorithm_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT works_VBZ efficiently_RB ,_, especially_RB for_IN sparse_JJ graphs_NNS ._.
+Since_IN the_DT number_NN of_IN the_DT edges_NNS in_IN the_DT topology_NN graphs_NNS are_VBP generally_RB much_RB less_JJR than_IN the_DT possible_JJ number_NN of_IN edges_NNS ,_, this_DT algorithm_NN works_VBZ very_RB fast_RB ._.

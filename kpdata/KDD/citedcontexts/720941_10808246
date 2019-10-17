@@ -1,0 +1,3 @@
+s_NN ,_, with_IN autocorrelation_NN of_IN 0.75_CD ,_, and_CC low_JJ linkage_NN ._.
+Since_IN collective_JJ inference_NN in_IN general_JJ ,_, and_CC the_DT RDN_NNP specifically_RB ,_, have_VBP been_VBN shown_VBN to_TO exploit_VB relational_JJ autocorrelation_NN and_CC linkage_NN in_IN relational_JJ data_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP investigate_VBP the_DT effects_NNS of_IN increasing_VBG both_DT levels_NNS on_IN the_DT various_JJ fusion_NN methods_NNS ._.
+We_PRP varied_VBD the_DT autocorrelation_NN level_NN at_IN 0.25_CD and_CC 0.75_CD using_VBG 3_CD sources_NNS ,_, each_DT with_IN low_JJ linkage_NN and_CC 10_CD %_NN labeled_JJ data_NNS ._.

@@ -1,0 +1,3 @@
+-LRB-_-LRB- 16_CD -RRB-_-RRB- can_MD be_VB easily_RB adapted_VBN to_TO approximate_JJ the_DT support_NN of_IN all_DT frequent_JJ subgraphs_NNS within_IN some_DT error_NN bound_VBD ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- In_IN some_DT applications_NNS such_JJ as_IN discovering_VBG structure_NN motifs_NNS in_IN a_DT group_NN of_IN homology_NN proteins_NNS =_JJ -_: =[_NN 8_CD ,_, 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, maximal_JJ frequent_JJ subgraphs_NNS are_VBP the_DT subgraphs_NNS of_IN most_JJS interest_NN since_IN they_PRP encode_VBP the_DT maximal_JJ structure_NN commonalities_NNS within_IN the_DT group_NN ._.
+Our_PRP$ mining_NN method_NN is_VBZ based_VBN on_IN a_DT novel_JJ graph_NN mining_NN framework_NN in_IN

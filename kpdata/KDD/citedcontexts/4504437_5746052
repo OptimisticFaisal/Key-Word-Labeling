@@ -1,0 +1,5 @@
+In_IN addition_NN ,_, we_PRP use_VBP the_DT word_NN index_NN -LRB-_-LRB- inverted_JJ index_NN -RRB-_-RRB- not_RB the_DT q-gram_NN ._.
+Word_NN index_NN has_VBZ already_RB been_VBN used_VBN by_IN existing_VBG functions_NNS ,_, e.g._FW ,_, searching_VBG ,_, and_CC there_EX is_VBZ no_DT additional_JJ cost_NN to_TO create_VB it_PRP ._.
+Forman_NNP et_FW al._FW =_SYM -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: used_VBN document_NN chunking_VBG and_CC sliding_VBG windows_NNS to_TO find_VB similar_JJ documents_NNS in_IN a_DT large_JJ document_NN repository_NN ._.
+That_DT method_NN is_VBZ similar_JJ to_TO the_DT q-gram_NN ideas_NNS ._.
+In_IN their_PRP$ approach_NN ,_, a_DT document_NN is_VBZ divided_VBN into_IN several_JJ

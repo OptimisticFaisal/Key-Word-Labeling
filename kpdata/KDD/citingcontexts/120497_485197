@@ -1,0 +1,4 @@
+ep_NN of_IN EM_NNP -RCB-_-RRB- for_IN h_NN =_JJ 1_CD to_TO k_NN do_VBP µ_NN h_NN ←_CD P_NN x_NN ∈_CD X_NN h_NN x_NN P_NN x_NN ∈_CD X_NN h_NN x_NN end_NN for_IN until_IN convergence_NN competitive_JJ learning_NN that_WDT implicitly_RB prevents_VBZ the_DT formation_NN of_IN null_JJ clusters_NNS ,_, a_DT well-known_JJ problem_NN in_IN regu_NN =_JJ -_: =_JJ lar_JJ kmeans_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+5_CD ._.
+EXPERIMENTAL_JJ RESULTS_NNS In_IN this_DT section_NN we_PRP briefly_RB describe_VBP the_DT datasets_NNS and_CC experimental_JJ methodology_NN used_VBN ._.
+Then_RB ,_, we_PRP discuss_VBP the_DT performance_NN of_IN the_DT four_CD algorithms_NNS under_IN consideration_NN on_IN the_DT various_JJ

@@ -1,0 +1,3 @@
+recently_RB emerged_VBD as_IN a_DT powerful_JJ method_NN for_IN dimensionality_NN reduction_NN ._.
+The_DT accuracy_NN obtained_VBN after_IN the_DT dimensionality_NN has_VBZ been_VBN reduced_VBN using_VBG random_JJ projection_NN is_VBZ almost_RB as_RB good_JJ as_IN the_DT original_JJ accuracy_NN =_JJ -_: =[_NN 85_CD ,_, 1_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT key_JJ idea_NN of_IN random_JJ projection_NN arises_VBZ from_IN the_DT Johnson-Lindenstrauss_JJ lemma_NN -LRB-_-LRB- 75_CD -RRB-_-RRB- :_: ``_`` if_IN points_NNS in_IN a_DT vector_NN space_NN are_VBP projected_VBN onto_IN a_DT randomly_RB selected_VBN subspace_NN of_IN suitably_RB high_JJ dimension_NN ,_, then_RB the_DT

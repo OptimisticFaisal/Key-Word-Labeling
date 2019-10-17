@@ -1,0 +1,9 @@
+ring_VB an_DT internship_NN ._.
+Financially_RB supported_VBN by_IN ANR-07-BLAN-0328-01_NN GAIA_NN -LRB-_-LRB- Computational_JJ Information_NN Geometry_NN and_CC Applications_NNS -RRB-_-RRB- and_CC DIGITEO_NN GAS_NN 2008-16D_NN -LRB-_-LRB- Geometric_JJ Algorithms_NNPS &_CC Statistics_NNPS -RRB-_-RRB- 10_CD ._.
+REFERENCES_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: A._NNP Bar-Hillel_NNP ,_, T._NNP Hertz_NNP ,_, N._NNP Shental_NNP ,_, and_CC D._NNP Weinshall_NNP ._.
+Learning_VBG a_DT mahalanobis_NN metric_NN from_IN equivalence_JJ constraints_NNS ._.
+J._NNP Mach_NNP ._.
+Learn_VB ._.
+Res._NNP ,_, 6:937_NNP --_: 965_CD ,_, 2005_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- L._NNP Bregman_NNP ._.
+The_DT relaxation_NN method_NN of_IN find_VB

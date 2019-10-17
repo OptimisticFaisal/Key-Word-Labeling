@@ -1,0 +1,3 @@
+uses_VBZ Naive_JJ Bayes_NNS ._.
+EM_NNP has_VBZ also_RB been_VBN used_VBN with_IN k-means_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, which_WDT can_MD be_VB considered_VBN as_IN a_DT centroid-based_JJ method_NN ,_, but_CC for_IN clustering_NN rather_RB than_IN for_IN classification_NN ,_, under_IN the_DT name_NN of_IN constrained_VBN k-means_NN =_JJ -_: =[_NN 1_CD ,_, 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP propose_VBP the_DT combination_NN of_IN EM_NN with_IN a_DT centroid-based_JJ method_NN for_IN TC_NNP ,_, which_WDT works_VBZ according_VBG to_TO the_DT following_VBG algorithm_NN ,_, after_IN choosing_VBG one_CD of_IN the_DT formulas_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- to_TO -LRB-_-LRB- 4_CD -RRB-_-RRB- to_TO calculate_VB each_DT class_NN 's_POS centro_NN

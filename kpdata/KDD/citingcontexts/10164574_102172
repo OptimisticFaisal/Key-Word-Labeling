@@ -1,0 +1,4 @@
+training_NN data_NNS in_IN any_DT individual_JJ task_NN ._.
+Multi-task_JJ learning_NN aims_VBZ to_TO improve_VB generalization_NN for_IN a_DT learning_NN task_NN by_IN using_VBG higher_JJR order_NN domain_NN knowledge_NN from_IN related_JJ tasks_NNS ._.
+It_PRP has_VBZ been_VBN used_VBN for_IN clustering_NN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: where_WRB similarity_NN measures_NNS are_VBP tweaked_VBN according_VBG to_TO those_DT in_IN related_JJ clustering_NN tasks_NNS ,_, and_CC in_IN neural_JJ networks_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Our_PRP$ proposed_VBN model_NN for_IN joint_JJ entity_NN identification_NN and_CC document_NN categorization_NN is_VBZ simi_NN

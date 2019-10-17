@@ -1,0 +1,4 @@
+ontrary_JJ ,_, β1_NN =_JJ β2_NN =_JJ 0_CD would_MD overfit_VB the_DT training_NN dataset_NN ._.
+We_PRP hence_RB add_VBP two_CD penalty_NN terms_NNS CDβ1_NN and_CC CSβ2_NN to_TO control_VB the_DT alignment_NN degree_NN ._.
+This_DT strategy_NN is_VBZ similar_JJ to_TO that_DT used_VBN in_IN Support_NN Vector_NNP Machines_NNP =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT limits_VBZ the_DT length_NN of_IN weight_NN vector_NN w_NN 2_CD in_IN projected_VBN space_NN P_NN to_TO combat_VB the_DT overfitting_NN problem_NN ._.
+The_DT constrained_VBN optimization_NN problem_NN above_IN can_MD be_VB solved_VBN by_IN considering_VBG the_DT corresponding_JJ Lagra_NNP

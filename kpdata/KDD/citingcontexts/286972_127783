@@ -1,0 +1,3 @@
+ned_VBN ._.
+K-means_NNS was_VBD initially_RB devised_VBN as_IN an_DT in-memory_JJ algorithm_NN ,_, but_CC variants_NNS of_IN it_PRP have_VBP been_VBN recently_RB devised_VBN for_IN large_JJ detasets_NNS that_WDT do_VBP not_RB t_NN in_IN main_JJ memory_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+The_DT Expectation_NN Maximization_NN algorithm_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: follows_VBZ a_DT similar_JJ approach_NN to_TO K-Means_NNS ,_, by_IN iterating_VBG on_IN the_DT process_NN of_IN estimating_VBG the_DT parameters_NNS of_IN k_NN Gaussian_JJ distributions_NNS ,_, optimizing_VBG the_DT probability_NN that_IN the_DT mixture_NN of_IN Gaussian_JJ distributions_NNS ts_IN t_NN

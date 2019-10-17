@@ -1,0 +1,4 @@
+inally_RB ,_, pages_NNS are_VBP ranked_VBN by_IN this_DT unified_JJ score_NN ._.
+Experiments_NNS show_VBP that_IN Topic-sensitive_JJ PageRank_NNP has_VBZ better_JJR performance_NN than_IN PageRank_NNP in_IN generating_VBG better_JJR response_NN lists_NNS to_TO a_DT given_VBN query_NN ._.
+Jeh_NN and_CC Widom_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: specialize_VB the_DT global_JJ notion_NN of_IN importance_NN that_IN PageRank_NNP provides_VBZ to_TO create_VB personalized_JJ views_NNS of_IN importance_NN by_IN introducing_VBG the_DT idea_NN of_IN preference_NN sets_NNS ._.
+The_DT rankings_NNS of_IN results_NNS can_MD then_RB be_VB biased_VBN acc_NN

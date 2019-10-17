@@ -1,0 +1,4 @@
+then_RB applying_VBG voting_NN to_TO classify_VB new_JJ examples_NNS will_MD allow_VB an_DT accurate_JJ model_NN to_TO be_VB built_VBN on_IN a_DT single_JJ computer_NN ._.
+Others_NNS have_VBP suggested_VBN that_IN in_IN very_RB large_JJ data_NNS sets_VBZ many_JJ of_IN the_DT examples_NNS will_MD be_VB redundant_JJ =_JJ -_: =[_NN 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT context_NN of_IN the_DT above_JJ work_NN ,_, the_DT use_NN of_IN subsets_NNS or_CC perhaps_RB a_DT single_JJ well-chosen_JJ subset_NN for_IN training_NN may_MD be_VB the_DT right_JJ approach_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP consider_VBP the_DT case_NN where_WRB either_CC all_PDT the_DT data_NNS -LRB-_-LRB- of_IN

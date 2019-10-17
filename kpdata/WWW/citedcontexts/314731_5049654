@@ -1,0 +1,4 @@
+ent-rich_JJ regions_NNS in_IN a_DT dynamically-generated_JJ web_NN page_NN are_VBP the_DT ones_NNS that_WDT contain_VBP direct_JJ answers_NNS to_TO a_DT user_NN 's_POS query_NN ._.
+We_PRP refer_VBP to_TO these_DT regions_NNS as_IN the_DT QA-Pagelets_NNS ._.
+The_DT term_NN pagelet_NN was_VBD first_RB introduced_VBN i_LS =_JJ -_: =_JJ n_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- -_: =_SYM -_: to_TO describe_VB a_DT region_NN of_IN a_DT web_NN page_NN that_WDT is_VBZ distinct_JJ in_IN terms_NNS of_IN its_PRP$ subject_JJ matter_NN or_CC its_PRP$ content_NN ._.
+In_IN THOR_NNP ,_, we_PRP use_VBP the_DT term_NN QA-Pagelet_JJ to_TO refer_VB to_TO a_DT subtree_NN in_IN the_DT tag_NN tree_NN of_IN a_DT page_NN that_IN :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- is_VBZ dyn_NN

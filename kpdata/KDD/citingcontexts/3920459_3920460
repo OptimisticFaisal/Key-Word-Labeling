@@ -1,0 +1,4 @@
+be_VB viewed_VBN as_IN categorizations_NNS or_CC taxonomies_NNS if_IN the_DT clusters_NNS form_VBP a_DT hierarchy_NN of_IN data_NNS partitions_NNS ._.
+Classification_NN ontologies_NNS are_VBP an_DT important_JJ tool_NN in_IN biology_NN ._.
+Biological_JJ ontologies_NNS ,_, such_JJ as_IN Gene_NNP Ontology_NNP =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- GO_NN -RRB-_-RRB- ,_, are_VBP carefully_RB curated_VBN and_CC encapsulate_VB both_DT functional_JJ knowledge_NN and_CC important_JJ relationships_NNS between_IN genes_NNS ._.
+The_DT class-subclass_JJ relationships_NNS in_IN GO_NN are_VBP neither_CC a_DT simple_JJ tree_NN ,_, nor_CC a_DT lattice_NN struct_NN

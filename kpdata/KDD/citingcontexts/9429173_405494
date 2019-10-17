@@ -1,0 +1,4 @@
+sented_VBN patterns_NNS in_IN time_NN series_NN ;_: however_RB ,_, each_DT work_NN considered_VBD a_DT different_JJ definition_NN of_IN pattern_NN ._.
+In_IN previous_JJ work_NN ,_, we_PRP unified_VBD and_CC formalized_VBD the_DT problem_NN by_IN defining_VBG the_DT concept_NN of_IN ``_`` time_NN series_NN motif_NN ''_'' =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+VizTree_NNP provides_VBZ a_DT straightforward_JJ way_NN to_TO identify_VB motifs_NNS ._.
+Since_IN the_DT thickness_NN of_IN a_DT branch_NN denotes_VBZ the_DT frequency_NN of_IN the_DT subsequences_NNS having_VBG the_DT same_JJ ,_, corresponding_JJ strings_NNS ,_, we_PRP can_MD identify_VB approxima_NN

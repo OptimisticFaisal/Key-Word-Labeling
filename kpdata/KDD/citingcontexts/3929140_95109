@@ -1,0 +1,5 @@
+ser_NN ._.
+At_IN first_JJ it_PRP might_MD seem_VB that_IN capturing_VBG nonlinear_JJ relationships_NNS among_IN contextual_JJ information_NN can_MD suffer_VB from_IN high_JJ computational_JJ complexity_NN ._.
+DAlign_NN avoids_VBZ this_DT concern_NN by_IN employing_VBG the_DT kernel_NN trick_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT kernel_NN trick_NN lets_VBZ us_PRP generalize_VB distance-based_JJ algorithms_NNS to_TO operate_VB in_IN the_DT projected_VBN space_NN -LRB-_-LRB- defined_VBN next_JJ -RRB-_-RRB- ,_, usually_RB nonlinearly_RB related_JJ to_TO the_DT input_NN space_NN ._.
+The_DT input_NN space_NN -LRB-_-LRB- denoted_VBN as_IN I_PRP -RRB-_-RRB- is_VBZ the_DT

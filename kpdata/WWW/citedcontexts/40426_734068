@@ -1,0 +1,3 @@
+close_RB to_TO 1_CD ._.
+The_DT Power_NNP Method_NNP converges_VBZ more_RBR and_CC more_RBR slowly_RB -LRB-_-LRB- 9_CD -RRB-_-RRB- as_IN α_FW →_FW 1_CD −_NN ,_, a_DT fact_NN that_WDT also_RB influences_VBZ the_DT other_JJ methods_NNS used_VBN to_TO compute_VB PageRank_NNP -LRB-_-LRB- which_WDT are_VBP ,_, after_IN all_DT ,_, variants_NNS of_IN the_DT Power_NN Method_NN =_JJ -_: =[_NN 17_CD ,_, 7_CD ,_, 6_CD ,_, 15_CD ,_, 11_CD ,_, 10_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Indeed_RB ,_, the_DT number_NN of_IN iterations_NNS required_VBN could_MD in_IN general_JJ be_VB bounded_VBN using_VBG the_DT separation_NN between_IN the_DT first_JJ and_CC the_DT second_JJ eigenvalue_NN ,_, but_CC unfortunately_RB the_DT separation_NN can_MD be_VB abysmally_RB small_JJ if_IN α_NN

@@ -1,0 +1,5 @@
+._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- proposed_VBD a_DT method_NN to_TO learn_VB a_DT mixture_NN of_IN SVM_NN in_IN parallel_NN ._.
+Both_DT of_IN them_PRP adopted_VBD the_DT idea_NN of_IN splitting_JJ dataset_NN into_IN small_JJ subsets_NNS ,_, training_NN SVM_NN on_IN each_DT ,_, and_CC then_RB combining_VBG those_DT SVMs_NNS ._.
+Chang_NNP et_FW al._FW =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD PSVM_NNP to_TO train_VB SVMs_NNS on_IN distributed_VBN computers_NNS through_IN approximate_JJ factorization_NN of_IN the_DT kernel_NN matrix_NN ._.
+There_EX is_VBZ an_DT attempt_NN to_TO use_VB Google_NNP 's_POS Map-Reduce_NNP -LRB-_-LRB- 8_CD -RRB-_-RRB- to_TO parallelize_VB a_DT set_NN of_IN learning_VBG algori_NNS

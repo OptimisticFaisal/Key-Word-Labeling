@@ -1,0 +1,3 @@
+has_VBZ been_VBN suggested_VBN that_IN post-induction_JJ document-specific_JJ feature_NN selection_NN tends_VBZ to_TO outperform_VB traditional_JJ documentindependent_JJ approaches_NNS in_IN applications_NNS with_IN low_JJ tolerance_NN for_IN false_JJ positive_JJ errors_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP show_VBP that_IN these_DT benefits_NNS can_MD be_VB improved_VBN by_IN making_VBG document-specific_JJ feature_NN selection_NN part_NN of_IN the_DT induction_NN process_NN ._.
+We_PRP also_RB extend_VBP the_DT concept_NN of_IN local_JJ sparsity_NN control_NN to_TO the_DT area_NN of_IN term_NN weig_NN

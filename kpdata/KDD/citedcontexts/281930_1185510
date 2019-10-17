@@ -1,0 +1,4 @@
+transformed_VBN into_IN a_DT relational_JJ selection_NN ._.
+The_DT resulting_VBG query_NN can_MD then_RB be_VB processed_VBN without_IN modification_NN to_TO the_DT database_NN engine_NN ._.
+•_FW In_FW outlier_NN detection_NN for_IN data_NNS mining_NN ,_, the_DT state-of-the-art_JJ algorithm_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: prunes_VBZ points_NNS from_IN the_DT outlier_NN candidate_NN set_VBN when_WRB it_PRP has_VBZ been_VBN determined_VBN that_IN there_EX are_VBP too_RB many_JJ points_NNS that_WDT are_VBP close_JJ to_TO the_DT candidate_NN ._.
+If_IN it_PRP were_VBD possible_JJ to_TO accurately_RB guess_VB the_DT distance_NN to_TO a_DT poin_NN

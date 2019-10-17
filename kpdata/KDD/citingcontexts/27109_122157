@@ -1,0 +1,5 @@
+lete_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+But_CC many_JJ heuristic_NN methods_NNS exist_VBP that_WDT are_VBP able_JJ tosnd_NN a_DT local_JJ minimum_NN to_TO this_DT problem_NN ._.
+Most_RBS eective_JJ among_IN the_DT earlier_JJR heuristics_NNS are_VBP the_DT Kernighan-Lin_NNP -LRB-_-LRB- KL_NNP -RRB-_-RRB- -LRB-_-LRB- 23_CD -RRB-_-RRB- and_CC the_DT Fiduccia-Mattheyses_NNS -LRB-_-LRB- FM_NN -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ 11_CD -RRB-_-RRB- -_: =_JJ -_: algorithms_NNS ._.
+However_RB ,_, these_DT algorithms_NNS employ_VBP heuristics_NNS that_WDT search_VBP in_IN the_DT local_JJ vicinity_NN of_IN given_VBN initial_JJ partitionings_NNS and_CC hence_RB ,_, have_VBP a_DT tendency_NN to_TO get_VB stuck_VBN in_IN local_JJ minima_NN ._.
+3.1_CD Spectral_JJ Graph_NN Bi_NN

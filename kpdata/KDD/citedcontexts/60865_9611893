@@ -1,0 +1,5 @@
+large_JJ problems_NNS ._.
+1_CD ._.
+Introduction_NN Ranking_NN or_CC sometimes_RB referred_VBN as_IN ordinal_JJ regression_NN ,_, is_VBZ a_DT statistical_JJ learning_NN problem_NN which_WDT gained_VBD much_JJ attention_NN recently_RB -LRB-_-LRB- Cohen_NNP et_FW al._FW ,_, 1998_CD ;_: Herbrich_NNP et_FW al._FW ,_, 1999_CD ;_: =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =--RRB-_NN ._.
+This_DT problem_NN learns_VBZ from_IN relative_JJ comparisons_NNS like_IN ``_`` A_DT ranks_NNS lower_JJR than_IN B_NN ''_'' or_CC ``_`` C_NN ranks_VBZ higher_JJR than_IN D_NN ''_'' ._.
+The_DT goal_NN is_VBZ to_TO learn_VB an_DT explicit_JJ or_CC implicit_JJ function_NN which_WDT gives_VBZ ranks_NNS over_IN an_DT sampling_NN space_NN

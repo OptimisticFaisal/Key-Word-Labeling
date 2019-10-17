@@ -1,0 +1,4 @@
+..._: $_$ 5.00_CD ._.
+Junsong_NNP Yuan_NNP ,_, Ying_NNP Wu_NNP ,_, Ming_NNP Yang_NNP Northwestern_NNP University_NNP EECS_NNP Department_NNP 2145_CD Sheridan_NNP Road_NNP ,_, Evanston_NNP ,_, IL_NN ,_, 60208_CD -LCB-_-LRB- j-yuan,yingwu,m-yang4}@northwestern.edu_NN 864_CD mining_NN -LRB-_-LRB- FIM_NN -RRB-_-RRB- and_CC its_PRP$ extensions_NNS =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 21_CD -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- have_VBP been_VBN extensively_RB studied_VBN ._.
+However_RB ,_, a_DT highly_RB repetitive_JJ pattern_NN may_MD not_RB be_VB informative_JJ or_CC semantically_RB meaningful_JJ ._.
+Therefore_RB a_DT more_RBR important_JJ task_NN is_VBZ to_TO extract_VB informative_JJ and_CC potential_JJ

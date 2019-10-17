@@ -1,0 +1,4 @@
+mize_VB and_CC evaluate_VB it_PRP regardless_RB of_IN the_DT underlying_VBG full-text_JJ language_NN ._.
+In_IN particular_JJ ,_, XFT_NNP can_MD also_RB accommodate_VB NEXI_NN -LRB-_-LRB- 48_CD -RRB-_-RRB- and_CC XQFT_NNP ,_, for_IN which_WDT we_PRP did_VBD the_DT first_JJ complete_JJ reference_NN implementation_NN ,_, GalaTex_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: 1_CD ._.
+For_IN the_DT next_JJ steps_NNS we_PRP want_VBP to_TO dive_NN deeper_JJR into_IN foundational_JJ problems_NNS such_JJ as_IN deciding_VBG semantic_JJ equivalence_JJ of_IN two_CD fulltext_JJ expressions_NNS ._.
+We_PRP target_VBP optimizations_NNS based_VBN on_IN full-text_JJ query_NN rewritings_NNS

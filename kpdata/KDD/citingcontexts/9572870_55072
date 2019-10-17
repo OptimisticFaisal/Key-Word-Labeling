@@ -1,0 +1,4 @@
+o_NN both_DT methods_NNS -RRB-_-RRB- ._.
+In_IN some_DT situations_NNS one_PRP may_MD have_VB no_DT information_NN -LRB-_-LRB- e.g._FW ,_, unlabeled_JJ examples_NNS -RRB-_-RRB- about_IN future_JJ changes_NNS in_IN class_NN distribution_NN but_CC still_RB wants_VBZ to_TO maximize_VB classifier_NN performance_NN on_IN future_JJ data_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT approach_NN in_IN this_DT case_NN is_VBZ not_RB to_TO adapt_VB to_TO changing_VBG conditions_NNS ,_, but_CC rather_RB to_TO build_VB a_DT --_: robust_JJ ‖_NN classifier_NN that_WDT performs_VBZ well_RB under_IN a_DT wide_JJ variety_NN of_IN situations_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+In_IN fact_NN ,_, this_DT desire_NN for_IN classi_NNS

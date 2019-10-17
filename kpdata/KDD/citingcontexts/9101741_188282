@@ -1,0 +1,4 @@
+oach_NN is_VBZ to_TO assign_VB weights_NNS somehow_RB to_TO the_DT unlabeled_JJ examples_NNS ,_, and_CC then_RB to_TO train_VB a_DT classifier_NN with_IN the_DT unlabeled_JJ examples_NNS interpreted_VBN as_IN weighted_JJ negative_JJ examples_NNS ._.
+This_DT approach_NN is_VBZ used_VBN for_IN example_NN by_IN =_JJ -_: =[_NN 8_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT first_JJ approach_NN can_MD be_VB viewed_VBN as_IN a_DT special_JJ case_NN of_IN the_DT second_JJ approach_NN ,_, where_WRB each_DT weight_NN is_VBZ either_CC 0_CD or_CC 1_CD ._.
+The_DT second_JJ approach_NN is_VBZ similar_JJ to_TO the_DT method_NN we_PRP suggest_VBP in_IN Section_NN 3_CD above_IN ,_, with_IN three_CD

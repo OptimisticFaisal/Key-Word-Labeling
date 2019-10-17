@@ -1,0 +1,4 @@
+feature_NN vector_NN after_IN principal_JJ component_NN analysis_NN ._.
+Then_RB kmeans_NNS algorithm_NN is_VBZ used_VBN to_TO cluster_VB these_DT visual_JJ features_NNS into_IN a_DT visual_JJ item_NN codebook_NN Ω_NN ._.
+We_PRP select_VBP two_CD categories_NNS from_IN the_DT Caltech_NNP 101_CD database_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: for_IN the_DT experiments_NNS :_: faces_NNS -LRB-_-LRB- 435_CD images_NNS from_IN 23_CD persons_NNS -RRB-_-RRB- and_CC cars_NNS -LRB-_-LRB- 123_CD images_NNS of_IN different_JJ cars_NNS -RRB-_-RRB- ._.
+We_PRP set_VBD the_DT parameters_NNS for_IN MIM_NNP as_IN :_: θ_NN =_JJ 1_CD |_CD DI_NNP |_NNP ,_, where_WRB |_FW DI_FW |_NN 4_CD is_VBZ the_DT total_JJ number_NN of_IN images_NNS ,_, and_CC τ_NN is_VBZ ass_NN

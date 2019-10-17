@@ -1,0 +1,5 @@
+ot_NN only_RB is_VBZ concordant_JJ with_IN the_DT ordering_VBG of_IN the_DT training_NN set_NN -LRB-_-LRB- i.e._FW ,_, partial_JJ orders_NNS -RRB-_-RRB- but_CC also_RB generalize_VBP well_RB beyond_IN the_DT training_NN set_NN ._.
+sachieving_VBG a_DT high_JJ accuracy_NN with_IN fewer_JJR examples_NNS in_IN many_JJ applications_NNS =_JJ -_: =[_NN 12_CD ,_, 13_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, they_PRP are_VBP restricted_JJ to_TO classification_NN problems_NNS and_CC do_VBP not_RB extend_VB to_TO ranking_JJ problems_NNS ._.
+-LRB-_-LRB- Section_NN 6_CD discusses_VBZ this_DT in_IN detail_NN ._. -RRB-_-RRB-
+We_PRP propose_VBP an_DT SVM_NN selective_JJ sampling_NN technique_NN for_IN learning_VBG ranki_NNS

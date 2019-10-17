@@ -1,0 +1,3 @@
+cently_RB ,_, the_DT approach_NN based_VBN on_IN search_NN space_NN pruning_NN has_VBZ been_VBN shown_VBN to_TO be_VB able_JJ to_TO dramatically_RB speed_VB up_RP the_DT process_NN of_IN epistasis_NN detection_NN without_IN compromising_VBG the_DT optimality_NN of_IN the_DT results_NNS ._.
+FastANOVA_NN -LRB-_-LRB- =_JJ -_: =_JJ Zhang_NNP et_FW al._FW ,_, 2008_CD -_: =--RRB-_NN and_CC FastChi_NNP -LRB-_-LRB- Zhang_NNP et_FW al._FW ,_, PSB2009_NN -RRB-_-RRB- are_VBP specifically_RB designed_VBN for_IN ANOVA_NNP test_NN and_CC chi-square_JJ test_NN respectively_RB ._.
+The_DT COE_NNP algorithm_NN -LRB-_-LRB- Zhang_NNP et_FW al._FW ,_, RECOMB2009_NN -RRB-_-RRB- is_VBZ a_DT more_RBR general_JJ approach_NN that_WDT is_VBZ applica_NN

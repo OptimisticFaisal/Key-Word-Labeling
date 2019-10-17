@@ -1,0 +1,4 @@
+We_PRP also_RB study_VBD person_NN name_NN extraction_NN from_IN the_DT email_JJ message_NN corpus_NN ._.
+The_DT CSpace_NN corpus_NN we_PRP used_VBD in_IN this_DT paper_NN contains_VBZ 216_CD email_NN messages_NNS collected_VBN from_IN a_DT management_NN course_NN at_IN Carnegie_NNP Mellon_NNP University_NNP =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT feature_NN sets_NNS and_CC relational_JJ templates_NNS for_IN named_VBN entity_NN extraction_NN are_VBP the_DT same_JJ as_IN the_DT previous_JJ work_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+The_DT relational_JJ template_NN will_MD retrieve_VB the_DT predictions_NNS for_IN the_DT adjacent_JJ words_NNS -LRB-_-LRB- with_IN window_NN

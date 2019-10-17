@@ -1,0 +1,4 @@
+he_PRP understandability_VBD point_NN of_IN view_NN ,_, simpler_JJR models_NNS provide_VBP more_RBR compact_JJ and_CC concise_JJ descriptions_NNS that_WDT are_VBP easier_JJR to_TO comprehend_VB ._.
+Decision_NN trees_NNS can_MD be_VB used_VBN to_TO extract_VB a_DT set_NN of_IN mutually_RB exclusive_JJ rules_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT optimal_JJ decision_NN tree_NN problem_NN has_VBZ been_VBN studied_VBN to_TO induct_VB a_DT perfect_JJ tree_NN that_WDT correctly_RB classifies_VBZ all_PDT the_DT given_VBN examples_NNS with_IN some_DT objective_NN optimized_VBN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 16_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+While_IN various_JJ objectives_NNS have_VBP

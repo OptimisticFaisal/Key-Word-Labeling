@@ -1,0 +1,5 @@
+-RRB-_-RRB- ,_, and_CC extending_VBG this_DT to_TO the_DT adversarial_JJ case_NN is_VBZ an_DT important_JJ item_NN for_IN future_JJ work_NN ._.
+3_LS ._.
+COST-SENSITIVE_NNP LEARNING_NNP In_IN this_DT paper_NN ,_, we_PRP will_MD focus_VB on_IN naive_JJ Bayes_NNS as_IN the_DT classifier_NN to_TO be_VB made_VBN adversary-aware_JJ =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Naive_JJ Bayes_NNS is_VBZ attractive_JJ because_IN of_IN its_PRP$ simplicity_NN ,_, efficiency_NN ,_, and_CC excellent_JJ performance_NN in_IN a_DT wide_JJ range_NN of_IN applications_NNS ,_, including_VBG adversarial_JJ ones_NNS like_IN spam_NN detection_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+Naive_JJ Bayes_NNP estimates_NNS

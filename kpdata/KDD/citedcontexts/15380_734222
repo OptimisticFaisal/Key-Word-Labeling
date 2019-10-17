@@ -1,0 +1,4 @@
+elated_VBN probabilistic_JJ model_NN was_VBD developped_VBN independently_RB by_IN Hofmann_NNP -LRB-_-LRB- 23_CD -RRB-_-RRB- as_IN Probabilistic_JJ Latent_JJ Semantic_JJ Analysis_NN -LRB-_-LRB- PLSA_NN -RRB-_-RRB- ._.
+It_PRP was_VBD used_VBN extensively_RB for_IN analyzing_VBG textual_JJ data_NNS in_IN various_JJ contexts_NNS ,_, e.g._FW ,_, =_JJ -_: =[_NN 23_CD ,_, 15_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Some_DT connections_NNS between_IN NMF_NNP and_CC PLSA_NNP were_VBD suggested_VBN by_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- in_IN the_DT context_NN of_IN multinomial_JJ PCA_NN models_NNS ,_, and_CC a_DT close_JJ relationship_NN was_VBD exhibited_VBN in_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+The_DT extension_NN to_TO arrays_NNS with_IN more_JJR that_IN two_CD dimen_NNS

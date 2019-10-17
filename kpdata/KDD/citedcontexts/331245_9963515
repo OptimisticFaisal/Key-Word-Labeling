@@ -1,0 +1,3 @@
+graph_NN representation_NN of_IN data_NNS ._.
+Several_JJ approaches_NNS to_TO graph-based_JJ data_NNS mining_NN identify_VBP frequently_RB occurring_VBG subgraphs_NNS in_IN graph_NN transactions_NNS ,_, that_DT is_VBZ ,_, those_DT subgraphs_NNS meeting_VBG a_DT minimum_JJ level_NN of_IN support_NN =_JJ -_: =[_NN 13_CD ,_, 14_CD ,_, 22_CD ,_, 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP distinguish_VBP graph-based_JJ relational_JJ learning_NN -LRB-_-LRB- GBRL_NN -RRB-_-RRB- from_IN graphbased_JJ data_NNS mining_NN in_IN that_DT GBRL_NN focuses_VBZ on_IN identifying_VBG novel_JJ ,_, but_CC not_RB necessarily_RB most_RBS frequent_JJ ,_, patterns_NNS in_IN a_DT graph_NN representation_NN of_IN

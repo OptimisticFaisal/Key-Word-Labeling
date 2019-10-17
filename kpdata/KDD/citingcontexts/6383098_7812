@@ -1,0 +1,4 @@
+wo_MD distinct_JJ ``_`` steps_NNS ''_'' in_IN the_DT profile_NN -LRB-_-LRB- near_IN lines_NNS 5000_CD and_CC 11000_CD -RRB-_-RRB- ._.
+We_PRP analyzed_VBD all_DT 42_CD such_JJ trimodal_JJ images_NNS to_TO identify_VB the_DT temperatures_NNS of_IN each_DT of_IN their_PRP$ components_NNS using_VBG the_DT k-means_NN clustering_NN algorithm_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN each_DT image_NN ,_, we_PRP clustered_VBD all_DT of_IN the_DT pixels_NNS with_IN k_NN =_JJ 3_CD and_CC identified_VBD the_DT mean_NN temperature_NN for_IN each_DT component_NN ._.
+Although_IN there_EX is_VBZ some_DT overlap_VBP between_IN the_DT components_NNS ,_, there_EX is_VBZ a_DT clear_JJ separation_NN i_FW

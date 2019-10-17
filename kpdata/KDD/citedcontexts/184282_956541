@@ -1,0 +1,4 @@
+._.
+Many_JJ other_JJ weighting_NN schemes_NNS are_VBP possible_JJ ,_, see_VB e.g._FW -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+The_DT resulting_VBG very_RB high_JJ dimensional_JJ space_NN was_VBD then_RB mapped_VBN into_IN vector_NN space_NN of_IN dimension_NN 50_CD ,_, using_VBG the_DT random_JJ projection_NN method_NN proposed_VBN in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT process_NN 15_CD γsdistance_NN evaluations_NNS 10000_CD 1000_CD HC_NN UHC_NN PHC_NN UPHC_NN UPHC_NN -LRB-_-LRB- apprx_NN -RRB-_-RRB- 100_CD 10_CD 20_CD 30_CD 40_CD 50_CD r_NN distance_NN evaluations_NNS 10000_CD 1000_CD HC_NN AHC_NN 10_CD AHC_NN 100_CD AHC_NN 1000_CD UHC_NN PHC_NN 100_CD UPHC_NN -LRB-_-LRB- apprx_NN -RRB-_-RRB- 10_CD 20_CD 30_CD 40_CD 50_CD

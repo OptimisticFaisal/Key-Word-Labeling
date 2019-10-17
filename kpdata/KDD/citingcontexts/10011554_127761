@@ -1,0 +1,5 @@
+hree_CD event_NN types_NNS -LCB-_-LRB- A_NN ,_, B_NN ,_, C_NN -RCB-_-RRB- and_CC it_PRP spans_VBZ timeline_NN -LRB-_-LRB- 1_CD ,_, 30_CD -RRB-_-RRB- that_WDT consists_VBZ of_IN 30_CD discrete_JJ timestamps_NNS ._.
+Figure_NN 1_CD -LRB-_-LRB- b_NN -RRB-_-RRB- shows_VBZ the_DT actual_JJ segmental_JJ grouping_NN that_IN our_PRP$ method_NN finds_VBZ ._.
+Three_CD segments_NNS are_VBP identified_VBN :_: =_JJ -_: =[_NN 1_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 12_CD ,_, 20_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 21_CD ,_, 30_CD -RRB-_-RRB- ._.
+Within_IN each_DT segment_NN the_DT events_NNS are_VBP grouped_VBN into_IN two_CD groups_NNS ;_: event_NN types_NNS with_IN similar_JJ frequency_NN of_IN appearance_NN within_IN a_DT segment_NN are_VBP grouped_VBN together_RB ._.
+In_IN the_DT first_JJ segment_NN ,_, the_DT t_NN

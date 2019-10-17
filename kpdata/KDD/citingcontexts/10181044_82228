@@ -1,0 +1,4 @@
+sed_VBN for_IN analysis_NN of_IN real_JJ time_NN series_NN before_RB ,_, for_IN e.g._FW see_VB -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 25_CD -RRB-_-RRB- ._.
+For_IN time_NN series_NN indexing_NN ,_, earlier_JJR works_NNS have_VBP used_VBN the_DT Fourier_NN transform_VB ,_, wavelets_NNS ,_, or_CC piece-wise_JJ linear_JJ approximations_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- -LRB-_-LRB- 17_CD -RRB-_-RRB- =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+1_CD This_DT can_MD be_VB considered_VBN as_IN a_DT first_JJ step_NN towards_IN identifying_VBG the_DT source_NN of_IN an_DT anomaly_NN ,_, which_WDT is_VBZ a_DT much_RB harder_JJR problem_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Table_NNP 1_CD :_: BGP-updates_JJ snippet_NN ;_: Washington_NNP Router_NNP time_NN peerAS_FW originAS_FW prefix_NN

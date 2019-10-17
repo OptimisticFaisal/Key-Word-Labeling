@@ -1,0 +1,4 @@
+to_TO distinguish_VB between_IN multivariate_JJ levels_NNS of_IN quality_NN of_IN the_DT information_NN ._.
+Another_DT simple_JJ solution_NN is_VBZ just_RB treat_VB it_PRP as_IN a_DT ranking_JJ problem_NN and_CC use_VB existing_VBG ranking_JJ algorithms_NNS to_TO rank_VB all_DT documents_NNS -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 5_CD ,_, 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, etc._NN -RRB-_-RRB- ._.
+Then_RB we_PRP can_MD select_VB only_RB the_DT first_JJ element_NN from_IN the_DT sorted_VBN list_NN ._.
+However_RB ,_, because_IN ranking_JJ models_NNS optimize_VBP for_IN all_DT ranks_NNS ,_, the_DT model_NN may_MD sacrifice_VB accuracy_NN of_IN the_DT top_JJ rank_NN for_IN the_DT sake_NN of_IN overal_NN

@@ -1,0 +1,4 @@
+the_DT KL-distance_JJ criterion_NN is_VBZ limited_VBN to_TO streams_NNS with_IN no_DT or_CC mild_JJ concept_NN drifting_VBG only_RB ,_, since_IN concept_NN drifts_NNS also_RB enlarge_VBP the_DT KL-distance_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP apply_VBP the_DT instance-based_JJ pruning_NN technique_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: to_TO data_NNS streams_NNS with_IN conceptual_JJ drifts_NNS ._.
+q_NN is_VBZ defined_VBN as_IN D_NN -LRB-_-LRB- p_NN |_CD |_CD q_NN -RRB-_-RRB- =_JJ ∑_CD x_CC 5.2_CD Instance_NN Based_VBN Pruning_VBG Cost-sensitive_JJ applications_NNS usually_RB provide_VBP higher_JJR error_NN tolerance_NN ._.
+For_IN instance_NN ,_, in_IN credit_NN card_NN fraud_NN

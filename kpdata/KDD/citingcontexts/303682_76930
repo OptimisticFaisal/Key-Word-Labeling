@@ -1,0 +1,4 @@
+meters_NNS πg_NN ,_, µ_NN g_NN ,_, and_CC Σg_NN by_IN maximum_NN likelihood_NN ,_, using_VBG the_DT EM-algorithm_NN -LRB-_-LRB- 9_CD ,_, Chapter_NNP 2.8_CD -RRB-_-RRB- ._.
+There_EX are_VBP many_JJ ways_NNS of_IN estimating_NN G_NN -LRB-_-LRB- 9_CD ,_, Chapter_NNP 6_CD -RRB-_-RRB- ,_, e.g._FW by_IN maximizing_VBG the_DT Bayesian_NNP Information_NNP Criterion_NNP -LRB-_-LRB- BIC_NNP -RRB-_-RRB- =_JJ -_: =[_NN 11_CD ,_, 5_CD -RRB-_-RRB- -_: =_JJ -_: :_: ˆG_NN =_JJ argmax_NN G_NN -LRB-_-LRB- 2_CD ×_NN L_NN -LRB-_-LRB- G_NN -RRB-_-RRB- −_CD r_NN log_NN -LRB-_-LRB- n_NN -RRB-_-RRB- -RRB-_-RRB- ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Here_RB ,_, L_NN -LRB-_-LRB- G_NN -RRB-_-RRB- is_VBZ the_DT log-likelihood_NN of_IN the_DT best_JJS G_NN component_NN model_NN ,_, r_NN is_VBZ the_DT number_NN of_IN parameters_NNS of_IN the_DT model_NN and_CC n_NN is_VBZ the_DT number_NN of_IN observations_NNS ._.
+While_IN attrac_NN

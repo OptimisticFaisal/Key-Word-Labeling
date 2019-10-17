@@ -1,0 +1,4 @@
+puts_VBZ and_CC outputs_VBZ only_RB ._.
+4_CD CASE_NN STUDY_NN :_: FINITE_NNP ELEMENT_NNP SOLVER_NNP 4.1_CD The_DT Finite_JJ Element_NN Method_NN The_DT finite_JJ element_NN method_NN was_VBD introduced_VBN in_IN the_DT late_JJ 1960_CD 's_POS for_IN solving_VBG problems_NNS in_IN mechanical_JJ engineering_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- =_JJ -_: =[_NN 40_CD -RRB-_-RRB- -_: =_JJ -_: and_CC quickly_RB became_VBD a_DT powerful_JJ tool_NN for_IN solving_VBG differential_JJ equations_NNS in_IN mathematics_NN ,_, physics_NN and_CC engineering_NN sciences_NNS -LRB-_-LRB- 28_CD -RRB-_-RRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+The_DT method_NN consists_VBZ of_IN two_CD stages_NNS ._.
+The_DT first_JJ stage_NN is_VBZ finding_VBG a_DT ``_`` f_SYM

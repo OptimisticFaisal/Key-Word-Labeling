@@ -1,0 +1,9 @@
+Quantifying_VBG trends_NNS accurately_RB despite_IN classifier_NN error_NN and_CC class_NN imbalance_NN
+nd-effects_NNS ._.
+Note_VB that_IN this_DT work_NN addresses_VBZ changes_NNS in_IN the_DT class_NN distribution_NN but_CC not_RB general_JJ concept_NN drift_NN ,_, where_WRB the_DT definition_NN of_IN what_WP counts_VBZ as_RB positive_JJ may_MD gradually_RB or_CC suddenly_RB change_VB arbitrarily_RB =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+When_WRB trending_VBG over_IN time_NN ,_, concept_NN drift_NN is_VBZ often_RB implicated_VBN ,_, and_CC can_MD be_VB difficult_JJ to_TO cope_VB with_IN ._.
+Ideally_RB the_DT quantifier_NN used_VBN on_IN each_DT bin_NN is_VBZ given_VBN a_DT training_NN set_NN appropriate_JJ to_TO the_DT class_NN concept_NN in_IN eff_NN
+ions_NNS ._.
+To_TO our_PRP$ knowledge_NN ,_, ours_PRP is_VBZ the_DT first_JJ work_NN to_TO empirically_RB compare_VB and_CC determine_VB machine_NN learning_NN methods_NNS that_WDT excel_VBP in_IN estimating_VBG the_DT class_NN distribution_NN ._.
+This_DT paper_NN extends_VBZ our_PRP$ recent_JJ publication_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: with_IN superior_JJ methods_NNS ,_, as_RB well_RB as_IN a_DT more_RBR focused_JJ experiment_NN protocol_NN ._.
+Of_IN course_NN ,_, once_RB accurate_JJ and_CC robust_JJ methods_NNS are_VBP established_VBN for_IN estimating_VBG the_DT distribution_NN ,_, they_PRP can_MD be_VB used_VBN as_IN a_DT subroutine_NN for_IN

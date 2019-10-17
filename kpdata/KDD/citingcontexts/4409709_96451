@@ -1,0 +1,5 @@
+xt_IN year_NN ,_, even_RB though_IN past_JJ behavior_NN has_VBZ been_VBN relatively_RB benign_JJ ._.
+4.1_CD Relational_NNP Probability_NNP Trees_NNP We_PRP use_VBP relational_JJ probability_NN trees_NNS -LRB-_-LRB- RPTs_NNS -RRB-_-RRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- for_IN this_DT task_NN ._.
+RPTs_NNS extend_VBP probability_NN estimation_NN trees_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: to_TO a_DT relational_JJ setting_NN ._.
+Due_JJ to_TO their_PRP$ selectivity_NN and_CC intuitive_JJ representation_NN of_IN knowledge_NN ,_, tree_NN models_NNS are_VBP often_RB easily_RB interpretable_JJ ._.
+This_DT makes_VBZ RPTs_NNS an_DT attractive_JJ modeling_NN approach_NN for_IN NASD_NNP exami_NNS

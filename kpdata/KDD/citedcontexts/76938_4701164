@@ -1,0 +1,3 @@
+that_IN the_DT use_NN of_IN a_DT block_NN diagonal_JJ kernel_NN matrix_NN is_VBZ not_RB an_DT option_NN in_IN the_DT current_JJ 2_CD Several_JJ studies_NNS focused_VBD on_IN finding_VBG sparse_JJ solutions_NNS of_IN Equation_NN 5.8_CD or_CC optimization_NN problems_NNS similar_JJ to_TO Equation_NN 5.8_CD -LRB-_-LRB- =_JJ -_: =_JJ Bennett_NNP et_FW al._FW ,_, 2002_CD -_: =_JJ -_: ,_, Girosi_NNP ,_, 1998_CD ,_, Smola_NNP and_CC Schölkopf_NNP ,_, 2000_CD ,_, Zhu_NNP and_CC Hastie_NNP ,_, 2001_CD -RRB-_-RRB- ._.
+65ssetting_NN ,_, since_IN it_PRP would_MD prohibit_VB generalizing_VBG across_IN label_NN sequences_NNS that_WDT differ_VBP in_IN as_RB little_JJ as_IN a_DT single_JJ micro-label_NN ._.
+The_DT kernel_NN f_SYM

@@ -1,0 +1,5 @@
+mean_VB ._.
+This_DT will_MD introduce_VB an_DT additional_JJ type_NN I_CD -LRB-_-LRB- false_JJ positive_JJ -RRB-_-RRB- error_NN ,_, that_WDT must_MD be_VB quantified_VBN ._.
+In_IN order_NN to_TO define_VB an_DT estimator_NN V_NN such_JJ that_IN Pr_NN ˆ_NN σ_NN 2_CD -RRB-_-RRB- V_NN ˜_NN =_JJ β_NN ,_, we_PRP use_VBP the_DT bootstrap_FW percentile_FW method_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Rather_RB than_IN constructing_VBG a_DT two-tailed_JJ confidence_NN interval_NN ,_, we_PRP need_VBP only_RB compute_VB the_DT one-sided_JJ -LRB-_-LRB- 1_CD −_FW β_FW -RRB-_-RRB- upper_JJ confidence_NN limit_NN on_IN σ_NN 2_CD and_CC then_RB use_VB this_DT upper_JJ limit_NN as_IN the_DT estimator_NN of_IN σ_NN 2_CD ._.
+Algorithm_NN

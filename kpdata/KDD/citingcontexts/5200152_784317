@@ -1,0 +1,5 @@
+of_IN time_NN series_NN analysis_NN ._.
+We_PRP discuss_VBP these_DT considerations_NNS in_IN detail_NN below_IN ._.
+3_LS ._.
+SPACE-TIME_NNP SCAN_NNP STATISTICS_NNP One_CD of_IN the_DT most_RBS important_JJ statistical_JJ tools_NNS for_IN cluster_NN detection_NN is_VBZ the_DT spatial_JJ scan_VBP statistic_NN =_JJ -_: =[_NN 15_CD ,_, 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT method_NN searches_VBZ over_IN a_DT given_VBN set_NN of_IN spatial_JJ regions_NNS ,_, finding_VBG those_DT regions_NNS which_WDT maximize_VBP a_DT likelihood_NN ratio_NN statistic_NN and_CC thus_RB are_VBP most_RBS likely_JJ to_TO be_VB generated_VBN under_IN the_DT alternative_JJ hypothesis_NN

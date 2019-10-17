@@ -1,0 +1,3 @@
+the_DT probability_NN of_IN click_VB ._.
+The_DT goal_NN of_IN the_DT algorithm_NN is_VBZ to_TO predict_VB the_DT unknown_JJ responses_NNS in_IN the_DT matrix_NN R._NNP Based_VBN on_IN a_DT common_JJ family_NN of_IN Collaborative_NNP Filtering_NNP approaches_NNS ,_, termed_VBN ``_`` neighborhood_NN methods_NNS ''_'' =_SYM -_: =[_NN 4_CD ,_, 13_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, our_PRP$ method_NN first_RB computes_VBZ similarities_NNS between_IN queries_NNS and_CC then_RB computes_VBZ a_DT prediction_NN of_IN the_DT response_NN between_IN a_DT query_NN and_CC a_DT new_JJ ad_NN based_VBN on_IN how_WRB similar_JJ queries_NNS responded_VBD to_TO the_DT same_JJ ad_NN ._.
+Breese_NNP et_NNP al_NNP

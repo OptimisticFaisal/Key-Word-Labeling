@@ -1,0 +1,5 @@
+g_NN problem_NN can_MD sometimes_RB be_VB transformed_VBN into_IN an_DT accuracy_NN maximizing_VBG one_CD ._.
+However_RB ,_, in_IN many_JJ cases_NNS neither_CC costs_NNS nor_CC class_NN distributions_NNS are_VBP known_VBN exactly_RB ,_, and_CC both_DT can_MD change_VB over_IN time_NN and_CC over_IN contexts_NNS =_JJ -_: =[_NN 9_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN conditions_NNS change_VBP ,_, a_DT high_JJ accuracy_NN rule_NN set_NN may_MD produce_VB sub-optimal_JJ classifications_NNS ._.
+Data_NN mining_NN that_WDT uses_VBZ rules_NNS for_IN real_JJ world_NN classification_NN tasks_NNS will_MD eventually_RB face_VB these_DT problems_NNS ._.
+One_CD way_NN t_NN

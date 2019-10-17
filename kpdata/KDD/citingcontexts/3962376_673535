@@ -1,0 +1,4 @@
+les_FW of_IN the_DT form_NN A_NN →_NN C_NN the_DT sets_NNS A_NN ,_, C_NN ⊆_NN X_NN have_VBP to_TO be_VB non-overlapping_JJ and_CC the_DT rules_NNS have_VBP to_TO exceed_VB the_DT given_VBN thresholds_NNS on_IN the_DT rule_NN evaluation_NN criteria_NNS ._.
+Further_JJ constraints_NNS have_VBP been_VBN introduced_VBN into_IN ARM_NN =_JJ -_: =[_NN 27_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: to_TO eliminated_VBN unwanted_JJ results_NNS and_CC offer_NN special_NN means_VBZ to_TO perform_VB additional_JJ pruning_NN of_IN the_DT itemset_NN search_NN space_NN ._.
+Two_CD types_NNS of_IN rule_NN constraints_NNS are_VBP useful_JJ when_WRB dealing_VBG with_IN models_NNS ._.
+We_PRP constrain_VBP rules_NNS

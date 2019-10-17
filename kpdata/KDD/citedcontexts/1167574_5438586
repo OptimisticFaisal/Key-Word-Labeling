@@ -1,0 +1,3 @@
+i_FW et_FW al._FW describe_VBP an_DT innovative_JJ unsupervised_JJ anomaly_NN detection_NN algorithm_NN that_WDT learns_VBZ causal_JJ relationships_NNS among_IN the_DT variables_NNS ,_, and_CC then_RB signals_VBZ an_DT anomaly_RB when_WRB these_DT causal_JJ relationships_NNS are_VBP violated_VBN =_JJ -_: =[_NN 33_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Learning_VBG these_DT causal_JJ relationships_NNS is_VBZ another_DT way_NN to_TO explicitly_RB make_VB use_NN of_IN time_NN ._.
+They_PRP apply_VBP this_DT algorithm_NN to_TO data_NNS from_IN a_DT simulation_NN of_IN an_DT unmanned_JJ orbital_JJ transfer_NN vehicle_NN during_IN the_DT process_NN of_IN a_DT

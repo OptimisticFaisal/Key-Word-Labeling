@@ -1,0 +1,4 @@
+c_NN related_JJ to_TO string_VB similarity_NN search_NN ._.
+While_IN traditional_JJ auto-completion_JJ functionality_NN only_RB supports_VBZ prefix_NN search_NN ,_, some_DT new_JJ studies_NNS have_VBP enabled_VBN auto-completion_NN based_VBN on_IN edit_NN distance_NN by_IN using_VBG tries_NNS =_JJ -_: =[_NN 7_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Approximate_JJ edit_NN distance_NN search_NN is_VBZ another_DT research_NN direction_NN in_IN the_DT literature_NN of_IN computer_NN algorithms_NNS ._.
+Ostrovsky_NNP and_CC Rabani_NNP -LRB-_-LRB- 17_CD -RRB-_-RRB- proved_VBD that_IN edit_NN distance_NN can_MD be_VB probabilistically_RB well_RB preserved_VBN b_NN

@@ -1,0 +1,4 @@
+of_IN the_DT form_NN premises_NNS →_VBP conclusion_NN of_IN the_DT dependency_NN rules_NNS and_CC the_DT form_NN dimensions_NNS →_VBP measure_NN of_IN the_DT cubes_NNS ._.
+Several_JJ papers_NNS use_VBP lattices_NNS along_IN OLAP_NNP ,_, often_RB for_IN supporting_VBG the_DT precomputation_NN of_IN OLAP_FW cubes_FW =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Casali_NNP et_FW al._FW -LRB-_-LRB- 4_CD -RRB-_-RRB- show_VBP a_DT method_NN to_TO organize_VB cubes_NNS in_IN a_DT closed_JJ cube_NN lattice_NN ,_, to_TO improve_VB the_DT computation_NN of_IN aggregations_NNS ._.
+Medina_NNP and_CC Nourine_NNP -LRB-_-LRB- 15_CD -RRB-_-RRB- create_VBP a_DT concept_NN lattice_NN ,_, where_WRB each_DT concept_NN is_VBZ a_DT set_NN

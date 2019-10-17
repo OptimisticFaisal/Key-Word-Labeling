@@ -1,0 +1,4 @@
+e_LS misclassi_FW ed_FW points_NNS in_IN the_DT training_NN set_NN and_CC then_RB combine_VB the_DT predictions_NNS of_IN several_JJ classi_NNS ers_NNPS ._.
+Various_JJ explanations_NNS have_VBP beenput_VBN forth_RB for_IN the_DT classi_JJ cation_NN accuracies_NNS achieved_VBN by_IN these_DT techniques_NNS =_JJ -_: =[_NN 26_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Adaptive_JJ resampling_VBG methods_NNS like_IN boosting_VBG are_VBP also_RB useful_JJ in_IN selecting_VBG relevant_JJ examples_NNS even_RB though_IN their_PRP$ original_JJ goal_NN was_VBD to_TO improve_VB the_DT performance_NN of_IN weak_JJ learning_NN algorithms_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+The_DT applicat_NN

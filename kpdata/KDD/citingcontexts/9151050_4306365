@@ -1,0 +1,4 @@
+labeling_NN of_IN V_NN ′_NN is_VBZ preserved_VBN in_IN t._NNP This_NNP notation_NN can_MD be_VB extended_VBN to_TO sets_NNS of_IN trees_NNS A_DT ≼_NN B_NN :_: for_IN all_DT t_NN ∈_NN A_NN ,_, there_EX is_VBZ some_DT t_NN ′_FW ∈_FW B_NN for_IN which_WDT t_NN ≼_CD t_NN ′_NN ._.
+We_PRP represent_VBP each_DT tree_NN using_VBG natural_JJ representations_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT natural_JJ representation_NN of_IN a_DT tree_NN is_VBZ a_DT sequence_NN over_IN a_DT countably_RB infinite_JJ alphabet_NN ,_, namely_RB ,_, the_DT set_NN of_IN natural_JJ numbers_NNS ._.
+This_DT encoding_NN basically_RB corresponds_VBZ to_TO a_DT preorder_NN traversal_NN of_IN t_NN ,_, where_WRB eac_NN

@@ -1,0 +1,3 @@
+orithms_NNS ,_, Experimentation_NN ,_, Performance_NNP Keywords_NNPS :_: parallel_JJ algorithms_NNS ,_, load_NN balancing_NN ,_, sampling_NN 1_CD ._.
+INTRODUCTION_NN The_DT objective_NN of_IN sequential_JJ pattern_NN mining_NN is_VBZ to_TO discover_VB frequent_JJ subsequences_NNS in_IN dataset_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Sequential_JJ pattern_NN mining_NN has_VBZ numerous_JJ applications_NNS ,_, including_VBG the_DT discovery_NN of_IN motifs_NNS in_IN DNA_NN sequences_NNS ,_, the_DT analysis_NN of_IN web_NN log_NN and_CC customer_NN shopping_NN sequences_NNS ,_, the_DT study_NN of_IN XML_NN query_NN access_NN patter_NN

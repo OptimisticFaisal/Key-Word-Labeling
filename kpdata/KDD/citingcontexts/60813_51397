@@ -1,0 +1,4 @@
+to_TO learn_VB a_DT Mahalanobis_NNP distance_NN using_VBG convex_NN optimization_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Spectral_JJ learning_NN is_VBZ another_DT recent_JJ method_NN that_WDT utilizes_VBZ supervision_NN to_TO transform_VB the_DT clustering_NN distance_NN measure_NN using_VBG spectral_JJ methods_NNS =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+All_DT these_DT distance_NN learning_NN techniques_NNS for_IN clustering_NN train_NN the_DT distance_NN measure_NN first_RB using_VBG only_JJ supervised_JJ data_NNS ,_, and_CC then_RB perform_VB clustering_NN on_IN the_DT unsupervised_JJ data_NNS ._.
+In_IN contrast_NN ,_, our_PRP$ method_NN integ_NN

@@ -1,0 +1,3 @@
+tion_NN performance_NN efficiency_NN is_VBZ described_VBN here_RB by_IN the_DT second_JJ efficient_JJ estimation_NN method_NN in_IN terms_NNS of_IN the_DT error_NN rate_NN ,_, the_DT precision_NN and_CC the_DT recall_NN ._.
+The_DT algorithm_NN includes_VBZ the_DT learning_NN ranking_NN functions_VBZ =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT learn_VBP a_DT function_NN from_IN preference_NN examples_NNS ,_, so_IN that_IN it_PRP orders_VBZ a_DT new_JJ set_NN of_IN objects_NNS as_RB accurately_RB as_IN possible_JJ ._.
+It_PRP also_RB handles_VBZ several_JJ hundred-thousands_NNS of_IN training_NN examples_NNS and_CC many_JJ thousands_NNS o_NN

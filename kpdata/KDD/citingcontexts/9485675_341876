@@ -1,0 +1,4 @@
+mble_JJ methods_NNS assign_VBP weights_NNS locally_RB -LRB-_-LRB- 1_CD ,_, 19_CD -RRB-_-RRB- ,_, but_CC such_JJ weights_NNS are_VBP determined_VBN based_VBN on_IN training_NN data_NNS only_RB ._.
+There_EX has_VBZ not_RB been_VBN much_JJ work_NN on_IN ensemble_NN methods_NNS to_TO address_VB the_DT transfer_NN learning_NN problem_NN ._.
+In_IN =_JJ -_: =[_NN 11_CD ,_, 26_CD -RRB-_-RRB- -_: =_JJ -_: ,_, it_PRP is_VBZ assumed_VBN that_IN the_DT training_NN and_CC the_DT test_NN examples_NNS are_VBP generated_VBN from_IN a_DT mixture_NN of_IN different_JJ models_NNS ,_, and_CC the_DT test_NN distribution_NN has_VBZ different_JJ mixture_NN coefficients_NNS than_IN the_DT training_NN distribution_NN ._.
+I_PRP

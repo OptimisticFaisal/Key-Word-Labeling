@@ -1,0 +1,5 @@
+wardly_RB applied_VBN to_TO sequential_JJ search_NN logs_NNS ._.
+Instead_RB ,_, we_PRP use_VBP a_DT suffix-tree_JJ index_NN ._.
+Moreover_RB ,_, we_PRP develop_VBP a_DT distributed_VBN suffix_NN tree_NN construction_NN and_CC maintenance_NN method_NN under_IN the_DT MapReduce_NNP programming_NN model_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Last_JJ ,_, we_PRP demonstrate_VBP the_DT feasibility_NN and_CC potential_NN of_IN a_DT search_NN log_NN analysis_NN infrastructure_NN through_IN a_DT systematic_JJ empirical_JJ study_NN ._.
+We_PRP extracted_VBD from_IN a_DT major_JJ commercial_JJ search_NN engine_NN a_DT search_NN log_NN conta_NN

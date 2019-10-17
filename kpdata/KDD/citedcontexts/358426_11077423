@@ -1,0 +1,4 @@
+pproach_NN ,_, assuming_VBG that_IN all_DT labels_NNS of_IN fitness_NN cases_NNS are_VBP known_VBN beforehand_RB ,_, the_DT method_NN presented_VBN here_RB knows_VBZ only_RB the_DT labels_NNS of_IN a_DT few_JJ examples_NNS in_IN the_DT training_NN set_NN ,_, as_IN detailed_VBN in_IN Section_NNP IV_NNP ._.
+Both_DT -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, on_IN the_DT other_JJ hand_NN ,_, used_VBD active_JJ learning_NN together_RB with_IN semi-supervised_JJ approaches_NNS to_TO reduce_VB the_DT num-Fig_NN ._.
+1_CD ._.
+function_NN Example_NN of_IN an_DT AGP_NN individual_NN representing_VBG a_DT multi-attribute_JJ ber_NN of_IN pairs_NNS labeled_VBN

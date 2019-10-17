@@ -1,0 +1,4 @@
+tities_NNS playing_VBG the_DT role_NN of_IN attributes_NNS ._.
+In_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, Guo_NNP et_FW al._FW give_VB a_DT nice_JJ semi-supervised_JJ approach_NN to_TO extract_VB entities_NNS from_IN queries_NNS while_IN ensuring_VBG that_IN the_DT model_NN topics_NNS and_CC pre-defined_JJ classes_NNS align_VBP ._.
+In_IN =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: the_DT approach_NN learns_VBZ a_DT topic-model_NN using_VBG click-through_JJ data_NNS under_IN some_DT supervision_NN from_IN humans_NNS and_CC uses_VBZ the_DT model_NN to_TO resolve_VB ambiguities_NNS among_IN named_VBN entities_NNS ._.
+In_IN another_DT related_JJ work_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- a_DT weakly-sup_NN

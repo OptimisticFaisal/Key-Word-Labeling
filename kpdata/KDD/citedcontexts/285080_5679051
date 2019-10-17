@@ -1,0 +1,6 @@
+,_, ``_`` diffusion_NN of_IN innovations_NNS ''_'' -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, or_CC ``_`` spread_NN of_IN influence_NN ''_'' -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Given_VBN such_JJ a_DT system_NN ,_, a_DT natural_JJ question_NN emerges_VBZ :_: If_IN we_PRP wish_VBP to_TO maximize_VB the_DT size_NN of_IN a_DT cascade_NN ,_, which_WDT subset_NN of_IN nodes_NNS should_MD we_PRP target_VB ?_.
+=_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: Answers_NNS to_TO this_DT question_NN have_VBP applications_NNS in_IN marketing_NN ,_, politics_NNS ,_, economics_NNS ,_, epidemiology_NN ,_, and_CC computer_NN networking_NN ._.
+2_CD ._.
+Modeling_NN Cascades_VBZ 2.1_CD ._.
+Local_JJ Influence_NN Let_NNP G_NNP be_VB a_DT directed_JJ graph_NN representing_VBG a_DT

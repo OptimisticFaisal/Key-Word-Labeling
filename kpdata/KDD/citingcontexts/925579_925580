@@ -1,0 +1,4 @@
+he_PRP principal_JJ eigenvectors_NNS of_IN the_DT co-citation_NN matrix_NN A_NN T_NN A_NN and_CC the_DT bibliographic_JJ coupling_NN matrix_NN AA_NN T_NN ,_, respectively_RB ._.
+We_PRP make_VBP two_CD technical_JJ remarks_NNS on_IN HITS_NNS for_IN later_JJ discussions_NNS ._.
+Remark_NN 1_CD ._.
+It_PRP is_VBZ known_VBN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: that_IN the_DT HITS_NN score_NN of_IN a_DT node_NN i_FW equals_VBZ the_DT limit_NN as_IN n_NN →_FW ∞_FW of_IN c_NN -LRB-_-LRB- n_NN -RRB-_-RRB- i_LS \/_: c_NN -LRB-_-LRB- n_NN -RRB-_-RRB- up_IN to_TO scaling_NN ,_, where_WRB c_NN -LRB-_-LRB- n_NN -RRB-_-RRB- i_FW is_VBZ the_DT number_NN of_IN paths_NNS of_IN length_NN n_NN emanating_VBG from_IN i_LS in_IN the_DT graphs_NNS induced_VBN by_IN ATA_NN or_CC AAT_NN ,_, and_CC c_NN

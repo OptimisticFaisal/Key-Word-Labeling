@@ -1,0 +1,5 @@
+ine_NN outliers_NNS once_RB all_PDT the_DT data_NNS records_NNS -LRB-_-LRB- samples_NNS -RRB-_-RRB- are_VBP present_JJ in_IN the_DT dataset_NN ._.
+We_PRP refer_VBP to_TO these_DT algorithms_NNS as_IN static_JJ outlier_NN detection_NN algorithms_NNS ._.
+In_IN contrast_NN ,_, incremental_JJ outlier_NN detection_NN techniques_NNS =_JJ -_: =[_NN 38_CD ,_, 39_CD ,_, 41_CD -RRB-_-RRB- -_: =_SYM -_: identify_VB outliers_NNS as_RB soon_RB as_IN new_JJ data_NNS record_NN appears_VBZ in_IN the_DT dataset_NN ._.
+Incremental_JJ outlier_NN detection_NN was_VBD also_RB used_VBN within_IN more_RBR general_JJ framework_NN of_IN activity_NN monitoring_NN -LRB-_-LRB- 38_CD -RRB-_-RRB- ._.
+In_IN addition_NN ,_, Domingos_NNP and_CC H_NN

@@ -1,0 +1,4 @@
+n_NN SVM_NN was_VBD compared_VBN with_IN the_DT standard_JJ OVO_NN SVM_NN ._.
+5.1_CD RBF_NN kernel_NN vs._CC DTW_NN kernel_NN An_DT extensive_JJ survey_NN has_VBZ demonstrated_VBN that_IN DTW_NN and_CC Euclidean_JJ norm_NN are_VBP among_IN the_DT most_RBS suitable_JJ measures_NNS for_IN sequence_NN matching_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Euclidean_JJ norm_NN is_VBZ used_VBN in_IN the_DT RBF_NN 2_CD xi_FW −_FW xj_FW kernel_NN ,_, that_DT is_VBZ ,_, K_NN -LRB-_-LRB- Xi_NN ,_, Xj_NN -RRB-_-RRB- =_JJ exp_NN -LRB-_-LRB- −_CD σ2_NN -RRB-_-RRB- ._.
+Similarly_RB ,_, DTW_NNP has_VBZ been_VBN proposed_VBN to_TO be_VB used_VBN in_IN the_DT kernel_NN ,_, that_DT is_VBZ ,_, DT_NN W_NN -LRB-_-LRB- Xi_NN ,_, Xj_NN -RRB-_-RRB- K_NN -LRB-_-LRB- xi_NN ,_, xj_NN -RRB-_-RRB- =_JJ exp_NN -LRB-_-LRB- −_FW σ2_FW -RRB-_-RRB- -LRB-_-LRB- 2_CD ,_, 13_CD -RRB-_-RRB- ._.

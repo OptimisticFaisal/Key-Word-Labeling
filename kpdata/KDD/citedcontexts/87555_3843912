@@ -1,0 +1,4 @@
+oint_NN using_VBG the_DT Threshold_NNP method_NN ._.
+This_DT view_NN of_IN ROC_NN curve_NN plotting_VBG allows_VBZ using_VBG other_JJ methods_NNS for_IN making_VBG ML_NN algorithms_NNS cost-sensitive_JJ ._.
+For_IN instance_NN ,_, one_PRP can_MD use_VB techniques_NNS as_IN Stratification_NN or_CC MetaCost_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: applied_VBN to_TO a_DT ML_NN algorithm_NN for_IN inducing_VBG a_DT set_NN of_IN classifiers_NNS for_IN a_DT range_NN of_IN class_NN and_CC cost_NN conditions_NNS ,_, and_CC then_RB linking_VBG the_DT obtained_VBN -LRB-_-LRB- FP_NN ,_, TP_NN -RRB-_-RRB- points_NNS to_TO form_VB a_DT ROC_NN curve_NN ._.
+This_DT is_VBZ the_DT basis_NN of_IN the_DT method_NN

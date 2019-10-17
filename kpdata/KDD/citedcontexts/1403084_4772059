@@ -1,0 +1,5 @@
+y_NN rules_NNS ._.
+This_DT is_VBZ a_DT drawback_NN for_IN optimal_JJ rule_NN sets_NNS containing_VBG k-largest_NN rules_NNS ._.
+The_DT problem_NN of_IN not_RB reasonably_RB covering_VBG the_DT data_NNS set_NN exists_VBZ in_IN other_JJ optimal_JJ rule_NN sets_NNS ,_, such_JJ as_IN the_DT SC_NN optimality_NN rule_NN set_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: and_CC rule_NN sets_NNS defined_VBN by_IN all_DT confidence_NN and_CC bond_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+In_IN an_DT SC_NN optimality_NN rule_NN set_NN ,_, a_DT rule_NN with_IN higher_JJR confidence_NN and_CC support_NN excludes_VBZ another_DT rule_NN with_IN lower_JJR confidence_NN and_CC support_NN ._.
+When_WRB the_DT record_NN

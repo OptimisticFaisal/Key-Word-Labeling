@@ -1,0 +1,6 @@
+from_IN other_JJ clusters_NNS are_VBP declared_VBN as_IN '_'' global_JJ '_'' outliers_NNS ._.
+FindCBLOF_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- uses_VBZ squeezer_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- to_TO determine_VB the_DT Cluster-Based_NNP Local_NNP Outlier_NNP Factor_NN -LRB-_-LRB- CBLOF_NN -RRB-_-RRB- for_IN each_DT data_NN point_NN ._.
+Similar_JJ to_TO it_PRP ,_, Barbara_NNP et_NNP ._.
+al_FW =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: introduced_VBD an_DT approach_NN which_WDT is_VBZ based_VBN on_IN Transductive_NNP Confidence_NNP Machines_NNP ._.
+One_CD of_IN the_DT main_JJ problems_NNS of_IN DBSCAN_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- is_VBZ that_IN it_PRP can_MD not_RB deal_VB with_IN clusters_NNS of_IN different_JJ densities_NNS ._.
+A_DT recent_JJ clustering_NN alg_NN

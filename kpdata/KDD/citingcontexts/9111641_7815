@@ -1,0 +1,5 @@
+in_IN S_NN is_VBZ represented_VBN by_IN a_DT feature_NN vector_NN using_VBG Vector_NNP Space_NNP Model_NNP ._.
+Each_DT feature_NN represents_VBZ a_DT term_NN ,_, whichisweightedbyitstf-idf_JJ value_NN ._.
+Feature_NN selection_NN is_VBZ carried_VBN out_RP by_IN thresholding_VBG Document_NNP Frequency_NN =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN our_PRP$ experiments_NNS ,_, Document_NNP Frequency_NNP threshold_NN is_VBZ set_VBN to_TO 3_CD ,_, and_CC the_DT final_JJ result_NN is_VBZ not_RB sensitive_JJ to_TO it_PRP ._.
+The_DT cosine_NN similarity_NN measure_NN x_NN i_FW ·_FW x_NN j_NN |_CD x_NN i_FW |_FW |_FW x_NN j_NN |_CD is_VBZ adopted_VBN when_WRB constructing_VBG the_DT similari_NN

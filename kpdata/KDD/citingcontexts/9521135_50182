@@ -1,0 +1,4 @@
+averaged_VBD over_IN 100_CD runs_NNS ._.
+The_DT performance_NN of_IN k-means_NNS can_MD vary_VB significantly_RB depending_VBG on_IN the_DT initialization_NN method_NN ._.
+Recently_RB a_DT variety_NN of_IN approaches_NNS have_VBP been_VBN proposed_VBN for_IN the_DT initialization_NN of_IN k-means_NN =_JJ -_: =[_NN 22_CD ,_, 1_CD ,_, 31_CD ,_, 25_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP chose_VBD to_TO study_VB three_CD initialization_NN methods_NNS ,_, based_VBN on_IN their_PRP$ documented_JJ favorable_JJ performance_NN -LRB-_-LRB- 6_CD ,_, 30_CD ,_, 31_CD ,_, 25_CD -RRB-_-RRB- ,_, as_RB well_RB as_IN their_PRP$ relatively_RB straightforward_JJ implementation_NN :_: the_DT Hartigan-Wong_JJ algorit_NN

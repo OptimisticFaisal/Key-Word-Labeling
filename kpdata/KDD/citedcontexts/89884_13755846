@@ -1,0 +1,6 @@
+eature_JJ set_NN and_CC previous_JJ feature_NN sets_NNS ._.
+Our_PRP$ proposed_VBN feature_NN set_NN of_IN k-ee_NN can_MD be_VB considered_VBN as_IN a_DT variation_NN of_IN tree_NN patterns_NNS ._.
+In_IN data_NN mining_NN domain_NN ,_, there_EX have_VBP been_VBN several_JJ studies_NNS on_IN tree_NN pattern_NN mining_NN =_JJ -_: =[_NN 33_CD ,_, 9_CD ,_, 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+TreeMiner_NN -LRB-_-LRB- 33_CD -RRB-_-RRB- is_VBZ one_CD of_IN the_DT pioneer_NN of_IN mining_NN frequent_JJ tree_NN patterns_NNS ._.
+CMTreeMiner_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- mined_VBD closed_JJ and_CC maximal_JJ frequent_JJ tree_NN patterns_NNS together_RB ._.
+For_IN tree_NN classification_NN ,_, rule-based_JJ classifiers_NNS -LRB-_-LRB- XRul_NN

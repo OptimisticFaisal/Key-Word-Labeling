@@ -1,0 +1,3 @@
+ith_NN XML_NN and_CC other_JJ formats_NNS ,_, as_RB well_RB as_IN for_IN algorithms_NNS and_CC applications_NNS not_RB originally_RB developed_VBN to_TO work_VB with_IN XML_NN data_NNS sources_NNS ._.
+In_IN effect_NN ,_, we_PRP can_MD observe_VB that_IN algorithms_NNS like_IN the_DT ones_NNS shown_VBN in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: do_VBP not_RB take_VB advantage_NN of_IN loosely_RB coupling_NN ,_, since_IN they_PRP have_VBP to_TO scan_VB several_JJ times_NNS the_DT full_JJ document_NN and_CC are_VBP specifically_RB designed_VBN to_TO work_VB with_IN XML_NN data_NNS sources_NNS ._.
+For_IN example_NN ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- presents_VBZ an_DT algorithm_NN

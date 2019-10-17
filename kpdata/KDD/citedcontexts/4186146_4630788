@@ -1,0 +1,5 @@
+-LRB-_-LRB- Garey_NNP &_CC Johnson_NNP ,_, 1979_CD -RRB-_-RRB- ._.
+However_RB ,_, quite_RB a_DT few_JJ heuristics_NNS have_VBP been_VBN proposed_VBN to_TO face_VB this_DT problem_NN ._.
+The_DT most_RBS prominent_JJ approaches_NNS include_VBP gSpan_NN -LRB-_-LRB- Yan_NNP &_CC Han_NNP ,_, 2002_CD -RRB-_-RRB- ,_, CloseGraph_NNP -LRB-_-LRB- Yan_NNP &_CC Han_NNP ,_, 2003_CD -RRB-_-RRB- and_CC ADI_NN -LRB-_-LRB- =_JJ -_: =_JJ Wang_NNP et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN ._.
+Any_DT of_IN the_DT above_JJ approaches_NNS can_MD be_VB utilized_VBN to_TO perform_VB the_DT extraction_NN of_IN the_DT hypertext_NN configurations_NNS ._.
+Likewise_RB ,_, employing_VBG the_DT same_JJ graph_NN mining_NN techniques_NNS ,_, we_PRP traverse_VBP the_DT second_JJ set_NN of_IN graphs_NNS in_IN

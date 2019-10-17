@@ -1,0 +1,5 @@
+t_NN users_NNS ._.
+With_IN index_NN -LRB-_-LRB- or_CC list_NN -RRB-_-RRB- caching_NN ,_, a_DT search_NN engine_NN maintains_VBZ the_DT inverted_JJ lists_NNS of_IN frequently_RB queried_VBN search_NN terms_NNS in_IN main_JJ memory_NN ._.
+These_DT studies_NNS can_MD be_VB taxonomized_VBN into_IN those_DT that_IN either_CC consider_VB =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: or_CC do_VB not_RB consider_VB the_DT cost_NN of_IN a_DT query_NN -LRB-_-LRB- 25_CD ,_, 29_CD ,_, 17_CD ,_, 8_CD ,_, 1_CD -RRB-_-RRB- ._.
+The_DT former_JJ is_VBZ most_RBS relevant_JJ because_IN its_PRP$ concept_NN of_IN query_JJ execution_NN time_NN is_VBZ identical_JJ to_TO our_PRP$ concept_NN of_IN DBMS_NN execution_NN time_NN -LRB-_-LRB- cost_NN -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_,

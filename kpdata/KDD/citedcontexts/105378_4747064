@@ -1,0 +1,4 @@
+not_RB take_VB advantage_NN of_IN the_DT gapped_JJ structure_NN X1_NN ∗_FW ·_FW ·_FW ·_FW ∗_FW Xk_NN for_IN pattern_NN pruning_NN and_CC pattern_NN matching_NN ._.
+Mining_NNP long_JJ patterns_NNS was_VBD examined_VBN for_IN set-valued_JJ transactions_NNS where_WRB each_DT item_NN occurs_VBZ at_IN most_RBS once_RB =_JJ -_: =[_NN 1_CD ,_, 7_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT idea_NN is_VBZ to_TO lookahead_VB longest_JJS patterns_NNS first_RB ,_, by_IN extending_VBG the_DT current_JJ pattern_NN with_IN all_DT ``_`` remaining_VBG items_NNS ''_'' -LRB-_-LRB- 1_CD ,_, 7_CD ,_, 3_CD -RRB-_-RRB- ._.
+For_IN sequential_JJ patterns_NNS ,_, since_IN an_DT item_NN can_MD occur_VB repeatedly_RB in_IN a_DT pattern_NN ,_, ther_NN

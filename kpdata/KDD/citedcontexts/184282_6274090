@@ -1,0 +1,3 @@
+the_DT method_NN from_IN being_VBG used_VBN in_IN many_JJ cases_NNS with_IN high-dimensional_JJ data_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP consider_VBP two_CD methods_NNS for_IN dimensionality_NN reduction_NN ,_, principal_JJ component_NN analysis_NN -LRB-_-LRB- PCA_NN -RRB-_-RRB- and_CC random_JJ projection_NN -LRB-_-LRB- RP_NN -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Bingham_NNP and_CC Mannila_NNP ,_, 2001_CD -_: =_JJ -_: ;_: Fradkin_NNP and_CC Madigan_NNP ,_, 2003_CD ;_: Fern_NNP and_CC Brodley_NNP ,_, 2003_CD ;_: Kaski_NNP ,_, 1998_CD -RRB-_-RRB- ._.
+We_PRP investigate_VBP which_WDT of_IN these_DT is_VBZ most_RBS suited_VBN for_IN being_VBG used_VBN in_IN conjunction_NN with_IN nearest_JJS neighbor_NN classification_NN when_WRB dealing_VBG with_IN two_CD

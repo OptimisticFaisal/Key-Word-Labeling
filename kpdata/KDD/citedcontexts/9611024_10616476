@@ -1,0 +1,4 @@
+ze_NN by_IN learning_VBG algorithms_NNS ._.
+Despite_IN the_DT combinatorial_JJ difficulties_NNS of_IN ranking_JJ problems_NNS ,_, there_EX are_VBP now_RB several_JJ algorithmic_JJ techniques_NNS for_IN optimizing_VBG various_JJ ranking_JJ evaluation_NN measures_NNS -LRB-_-LRB- Joachims_NNP ,_, 2005_CD ;_: =_JJ -_: =_JJ Chakrabarti_NNP et_FW al._FW ,_, 2008_CD -_: =_JJ -_: ;_: Volkovs_NNP &_CC Zemel_NNP ,_, 2009_CD -RRB-_-RRB- ._.
+In_IN the_DT present_JJ work_NN ,_, we_PRP seek_VBP to_TO bridge_VB the_DT gap_NN between_IN metric_JJ learning_NN and_CC ranking_NN ._.
+By_IN adapting_VBG techniques_NNS from_IN information_NN retrieval_NN ,_, we_PRP derive_VBP a_DT general_JJ metric_JJ learning_NN alg_NN

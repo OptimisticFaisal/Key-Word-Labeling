@@ -1,0 +1,4 @@
+oach_NN which_WDT incorporates_VBZ partial_JJ label_NN information_NN into_IN the_DT conventional_JJ margin-based_JJ learning_NN framework_NN ._.
+First_RB ,_, we_PRP review_VBP the_DT margin-based_JJ learning_NN framework_NN for_IN the_DT multiclass_JJ classification_NN problem_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Then_RB we_PRP extend_VBP the_DT learning_VBG framework_NN to_TO include_VB partial_JJ label_NN information_NN ._.
+In_IN our_PRP$ experiment_NN with_IN a_DT variety_NN of_IN data_NNS sets_NNS ,_, partial_JJ labels_NNS not_RB only_RB 1_CD Here_RB we_PRP want_VBP to_TO make_VB a_DT distinction_NN between_IN partia_NN

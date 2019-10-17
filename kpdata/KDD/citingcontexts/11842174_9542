@@ -1,0 +1,5 @@
+._.
+For_IN example_NN ,_, ``_`` Bill_Gates_NNS ''_'' ``_`` William_NNP H._NNP Gates_NNP ''_'' and_CC ``_`` William_NNP Gates_NNP III_NNP ._. ''_''
+all_DT refer_VBP to_TO the_DT same_JJ person_NN ._.
+The_DT problem_NN of_IN mapping_NN entity_NN surface_NN forms_NNS to_TO entities_NNS has_VBZ been_VBN studied_VBN in_IN various_JJ domains_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =--RRB-_NN ;_: a_DT detailed_JJ discussion_NN of_IN such_JJ techniques_NNS is_VBZ beyond_IN the_DT scope_NN of_IN the_DT paper_NN ._.
+Henceforth_NNP ,_, we_PRP as275Entities_VBZ E_NN Set_NN of_IN existing_VBG corpora_NN L_NN Entities_NNS E_NN Set_NN of_IN n-gram_NN features_NNS over_IN C_NN E1_NN :_: Bill_Gates_NN E2_NN :_: Juli_NN

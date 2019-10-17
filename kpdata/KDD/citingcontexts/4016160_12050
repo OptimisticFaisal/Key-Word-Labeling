@@ -1,0 +1,5 @@
+wise_JJ ._.
+4_LS ._.
+Return_NN -LRB-_-LRB- G_NN causal_JJ feature_NN -RRB-_-RRB- One_CD question_NN that_WDT arises_VBZ is_VBZ how_WRB to_TO set_VB the_DT parameter_NN λ_NN ._.
+In_IN this_DT paper_NN we_PRP tried_VBD two_CD methods_NNS ._.
+The_DT first_JJ -LRB-_-LRB- lasso_JJ time_NN series_NN -RRB-_-RRB- uses_VBZ the_DT generalized_JJ cross_NN validation_NN score_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- a_DT popular_JJ tool_NN for_IN calculating_VBG the_DT parameters_NNS of_IN regularized_VBN linear_JJ regression_NN -RRB-_-RRB- to_TO select_VB a_DT set_NN of_IN candidate_NN features_NNS ,_, and_CC does_VBZ another_DT round_NN of_IN linear_JJ regression_NN to_TO select_VB the_DT most_RBS significant_JJ subs_NNS

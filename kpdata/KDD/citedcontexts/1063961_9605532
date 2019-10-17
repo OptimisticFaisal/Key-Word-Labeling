@@ -1,0 +1,6 @@
+tract_NN and_CC integrate_VB opinions_NNS ._.
+scribe_NN this_DT step_NN in_IN more_JJR detail_NN in_IN the_DT next_JJ section_NN ._.
+4_LS ._.
+SEMI-SUPERVISED_NNP PLSA_NNP FOR_IN OPINION_NNP INTEGRATION_NNP Probabilistic_NNP latent_JJ semantic_JJ analysis_NN -LRB-_-LRB- PLSA_NN -RRB-_-RRB- -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC its_PRP$ extensions_NNS =_JJ -_: =[_NN 21_CD ,_, 13_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP recently_RB been_VBN applied_VBN to_TO many_JJ text_NN mining_NN problems_NNS with_IN promising_JJ results_NNS ._.
+Our_PRP$ work_NN adds_VBZ to_TO this_DT line_NN yet_RB another_DT novel_JJ use_NN of_IN such_JJ models_NNS for_IN opinion_NN integration_NN ._.
+As_IN in_IN most_JJS topic_NN models_NNS ,_, our_PRP$ g_NN

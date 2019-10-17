@@ -1,0 +1,5 @@
+e_LS feature_NN learning_NN in_IN some_DT sense_NN ._.
+4_LS ._.
+EXPERIMENTS_NNS 4.1_CD Datasets_NNPS We_PRP have_VBP evaluated_VBN the_DT performance_NN of_IN the_DT proposed_VBN method_NN on_IN two_CD sentiment_NN dataset_NN ,_, Amazon_NNP and_CC TripAdvisor_NNP that_WDT were_VBD introduced_VBN by_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_JJ -_: ,_, respectively_RB ._.
+The_DT Amazon_NNP dataset_NN contains_VBZ customer_NN reviews_NNS of_IN 25_CD various_JJ categories_NNS including_VBG apparel_NN ,_, automotive_JJ ,_, baby_NN ,_, DVDs_NNS ,_, electronics_NNS ,_, magazines_NNS ,_, tools_NNS and_CC hardware_NN ,_, etc._NN ._.
+The_DT TripAdvisor_NNP data_NNS s_NN

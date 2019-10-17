@@ -1,0 +1,4 @@
+nerating_VBG distinct_JJ samples_NNS at_IN each_DT site_NN ._.
+We_PRP then_RB merge_VBP these_DT samples_NNS to_TO finally_RB train_VB a_DT classifier_NN on_IN the_DT resulting_VBG sample_NN ._.
+The_DT literature_NN in_IN data_NN mining_NN is_VBZ filled_VBN with_IN various_JJ sampling_NN algorithms_NNS -LRB-_-LRB- 3_LS -RRB-_-RRB- =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 4_LS -RRB-_-RRB- ,_, which_WDT can_MD be_VB grouped_VBN ,_, with_IN respect_NN to_TO how_WRB the_DT samples_NNS are_VBP formed_VBN ,_, to_TO form_VB three_CD distinct_JJ families_NNS :_: static_JJ ,_, dynamic_JJ and_CC active_JJ sampling_NN ._.
+Static_JJ Sampling_NN refers_VBZ to_TO a_DT sampling_NN that_WDT is_VBZ performed_VBN wit_NN

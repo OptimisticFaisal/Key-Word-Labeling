@@ -1,0 +1,4 @@
+we_PRP assess_VBP the_DT performance_NN of_IN our_PRP$ techniques_NNS for_IN mining_NN emerging_VBG patterns_NNS and_CC disjunctive_JJ emerging_VBG patterns_NNS ._.
+Our_PRP$ algorithms_NNS were_VBD implemented_VBN in_IN C_NN +_CC +_CC using_VBG the_DT ZBDD_NN library_NN functions_NNS in_IN the_DT CUDD_NNP package_NN =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_JJ -_: and_CC EXTRA_JJ library_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+All_DT experiments_NNS were_VBD conducted_VBN on_IN a_DT IBM_NNP eServer_FW pSeries_FW 650_CD -LRB-_-LRB- eight_CD POWER4_NN +_CC 1.45_CD GHz_NNP CPU_NNP ,_, 16_CD GB_NNP RAM_NNP -RRB-_-RRB- running_VBG AIX_NNP 5L_NN 5.2_CD with_IN a_DT cpu-time_JJ limit_NN 100,000_CD seconds_NNS ._.
+The_DT ordering_VBG used_VBN

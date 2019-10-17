@@ -1,0 +1,3 @@
+ntially_RB relaxes_VBZ the_DT distance_NN in_IN the_DT already_RB dense_JJ areas_NNS -LRB-_-LRB- small_JJ variance_NN -RRB-_-RRB- ,_, and_CC hence_RB in_IN practice_NN it_PRP does_VBZ not_RB penalize_VB the_DT search_NN performance_NN ,_, which_WDT is_VBZ primarily_RB impacted_VBN by_IN the_DT areas_NNS of_IN large_JJ variance_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Additionally_RB ,_, we_PRP can_MD observe_VB that_IN the_DT preprocessing_VBG time_NN required_VBN for_IN segmenting_VBG the_DT trajectories_NNS is_VBZ kept_VBN in_IN very_RB realistic_JJ levels_NNS ._.
+The_DT MBR_NNP generation_NN time_NN is_VBZ shown_VBN in_IN Figure_NNP 12_CD as_IN a_DT function_NN of_IN the_DT

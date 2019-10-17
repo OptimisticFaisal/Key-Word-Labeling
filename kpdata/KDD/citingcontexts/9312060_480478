@@ -1,0 +1,4 @@
+quation_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+However_RB in_IN the_DT first_JJ case_NN ,_, the_DT explicit_JJ expression_NN of_IN genes_NNS is_VBZ unavailable_JJ ,_, therefore_RB in_IN the_DT case_NN we_PRP can_MD not_RB obtain_VB Cg_NN directly_RB ._.
+To_TO handle_VB the_DT issue_NN ,_, we_PRP propose_VBP to_TO calculate_VB an_DT embedding_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: from_IN a_DT given_VBN affinity_NN matrix_NN W_NN or_CC kernel_NN matrix_NN K_NN and_CC use_VB the_DT obtained_VBN embedding_NN to_TO construct_VB Cg_NN with_IN Equation_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+Specifically_RB ,_, given_VBN an_DT affinity_NN matrix_NN W_NN ,_, we_PRP propose_VBP to_TO construct_VB commute_NN time_NN emb_NN

@@ -1,0 +1,5 @@
+rity_NN ,_, we_PRP need_VBP to_TO consider_VB a_DT family_NN A_NN of_IN subsets_NNS of_IN P_NN ._.
+Many_JJ families_NNS of_IN A_NN have_VBP been_VBN used_VBN ,_, often_RB those_DT determined_VBN by_IN inclusion_NN in_IN certain_JJ shapes_NNS :_: circles_NNS and_CC ellipses_NNS -LRB-_-LRB- 70_CD ,_, 72_CD -RRB-_-RRB- ,_, axis-aligned_JJ rectangles_NNS =_JJ -_: =[_NN 90_CD ,_, 40_CD -RRB-_-RRB- -_: =_JJ -_: ,_, connected_JJ components_NNS -LRB-_-LRB- 94_CD -RRB-_-RRB- ._.
+We_PRP call_VBP the_DT subsets_NNS R_NN ⊂_NN P_NN where_WRB R_NNP ∈_NNP A_NNP a_DT range_NN ._.
+And_CC the_DT set_NN -LRB-_-LRB- P_NN ,_, A_NN -RRB-_-RRB- is_VBZ indeed_RB a_DT range_NN space_NN in_IN the_DT sense_NN defined_VBN for_IN ε-samples_NNS ._.
+For_IN much_JJ of_IN the_DT computational_JJ aspects_NNS of_IN this_DT

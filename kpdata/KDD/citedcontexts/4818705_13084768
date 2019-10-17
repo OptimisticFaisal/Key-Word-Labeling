@@ -1,0 +1,4 @@
+f_LS levels_NNS is_VBZ not_RB the_DT best_JJS solution_NN ._.
+We_PRP can_MD use_VB different_JJ clustering_NN techniques_NNS to_TO determine_VB appropriate_JJ levels_NNS ._.
+k-Means_NN clustering_NN -LRB-_-LRB- MacQueen_NNP ,_, 1967_CD -RRB-_-RRB- ,_, SAX_NNP -LRB-_-LRB- Lin_NNP et_FW al._FW ,_, 2003_CD -RRB-_-RRB- and_CC Gaussian_JJ Mixture_NN Models_NNS -LRB-_-LRB- =_JJ -_: =_JJ Morchen_NNP and_CC Ultsch_NNP ,_, 2005_CD -_: =-]_CD are_VBP candidate_NN techniques_NNS that_WDT could_MD be_VB evaluated_VBN for_IN this_DT purpose_NN ._.
+•_NN While_IN in_IN our_PRP$ Bayesian_JJ network_NN methods_NNS we_PRP exclusively_RB deal_VBP with_IN categorical_JJ valued_VBN attributes_NNS ,_, we_PRP can_MD easily_RB generalize_VB them_PRP to_TO ha_VB

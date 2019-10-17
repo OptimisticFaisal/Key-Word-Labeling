@@ -1,0 +1,4 @@
+y_NN detection_NN focuses_VBZ on_IN pointbased_JJ anomalies_NNS ._.
+A_DT common_JJ way_NN to_TO detect_VB point-based_JJ anomalies_NNS is_VBZ to_TO first_RB identify_VB anomalous_JJ points_NNS and_CC then_RB find_VB their_PRP$ aggregations_NNS using_VBG scanning_NN or_CC segmentation_NN methods_NNS =_JJ -_: =[_NN 2_CD ,_, 3_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT paradigm_NN clearly_RB does_VBZ not_RB work_VB well_RB for_IN distribution-based_JJ anomalies_NNS ,_, where_WRB the_DT individual_JJ points_NNS are_VBP normal_JJ ._.
+To_TO handle_VB distribution-based_JJ anomalies_NNS ,_, we_PRP can_MD design_VB features_NNS for_IN groups_NNS and_CC then_RB

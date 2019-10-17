@@ -1,0 +1,4 @@
+ning_JJ process_NN that_WDT is_VBZ able_JJ to_TO select_VB a_DT subset_NN of_IN classifiers_NNS for_IN each_DT problem_NN domain_NN ._.
+There_EX has_VBZ been_VBN some_DT research_NN work_NN on_IN subset_NN selection_NN for_IN ensemble_NN optimization_NN ,_, sometimes_RB called_VBN ensemble_NN pruning_NN =_JJ -_: =[_NN 17_CD ,_, 8_CD ,_, 21_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, most_JJS of_IN the_DT algorithms_NNS invented_VBD so_RB far_RB are_VBP some_DT kind_NN of_IN greedy_JJ search_NN ,_, which_WDT picks_VBZ classifiers_NNS sequentially_RB based_VBN on_IN some_DT quality_NN measurements_NNS ._.
+Here_RB ,_, we_PRP use_VBP a_DT newly_RB invented_VBN method_NN to_TO selec_VB

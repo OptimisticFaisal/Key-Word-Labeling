@@ -1,0 +1,4 @@
+a_DT special_JJ case_NN of_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- by_IN setting_VBG l_NN -LRB-_-LRB- x_NN -RRB-_-RRB- =_JJ 1_CD 2_CD ‖_CD x_CC −_CD v_LS ‖_NN 2_CD ._.
+It_PRP can_MD be_VB verified_VBN that_IN the_DT approximate_JJ solution_NN xi_FW +1_FW in_FW -LRB-_-LRB- 4_CD -RRB-_-RRB- is_VBZ given_VBN by_IN xi_FW +1_FW =_JJ π_NN λ1_NN \/_: Li_NNP λ2_NNP \/_: Li_NNP -LRB-_-LRB- si_FW −_FW 1_CD Li_NNP l_NN ′_NN -LRB-_-LRB- si_NN -RRB-_-RRB- -RRB-_-RRB- ._.
+Recently_RB ,_, it_PRP has_VBZ been_VBN shown_VBN in_IN =_JJ -_: =[_NN 10_CD ,_, 14_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: that_IN ,_, the_DT efficient_JJ computation_NN of_IN the_DT proximal_JJ operator_NN is_VBZ key_JJ to_TO many_JJ sparse_JJ learning_NN algorithms_NNS -LRB-_-LRB- 15_CD ,_, Section_NN 2_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- v_LS -RRB-_-RRB- in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- for_IN a_DT given_JJ v._CC Next_JJ ,_, we_PRP focus_VBP on_IN the_DT efficient_JJ computation_NN of_IN π_FW λ1_FW λ2_NN 3_CD ._.

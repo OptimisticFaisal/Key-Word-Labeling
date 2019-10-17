@@ -1,0 +1,4 @@
+ided_VBD into_IN two_CD -LRB-_-LRB- i_LS -RRB-_-RRB- Quality_NNP measures_NNS -LRB-_-LRB- ii_LS -RRB-_-RRB- Performance_NNP measures_NNS ,_, for_IN datasets_NNS with_IN weighted_JJ settings_NNS ._.
+Both_CC synthetic_JJ and_CC real_JJ datasets_NNS are_VBP used_VBN in_IN experiments_NNS ._.
+Data_NN sets_NNS are_VBP obtained_VBN as_IN follows_VBZ :_: retail_JJ -LRB-_-LRB- =_JJ -_: =_JJ Brijs_FW et_FW al._FW ,_, 1999_CD -_: =--RRB-_NN ,_, T10I4D100K_NN -LRB-_-LRB- Dataset_NN 2_CD -RRB-_-RRB- ,_, Poker_NNP Hand_NNP -LRB-_-LRB- Merz_NNP &_CC Murph_NNP ,_, 1998_CD -RRB-_-RRB- ,_, Connect-4_NN -LRB-_-LRB- Merz_NNP &_CC Murph_NNP ,_, 1998_CD -RRB-_-RRB- ,_, Connect_NNP -LRB-_-LRB- Merz_NNP &_CC Murph_NNP ,_, 1998_CD ;_: DataSet_NNP 1_LS -RRB-_-RRB- ,_, Pumsb_NN -LRB-_-LRB- Dataset_NN 2_CD -RRB-_-RRB- and_CC Pumsb_NNP Star_NNP -LRB-_-LRB- Dataset_NNP 2_CD -RRB-_-RRB- ._.
+Table_NNP 8_CD characterises_NNS

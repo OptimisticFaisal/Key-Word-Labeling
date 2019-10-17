@@ -1,0 +1,5 @@
+non-trivial_JJ improvement_NN over_IN the_DT base_NN algorithm_NN ._.
+2_CD ._.
+BACKGROUND_NN AND_CC RELATED_NNS WORK_VBP Outlier_NNP detection_NN algorithms_NNS are_VBP typically_RB evaluated_VBN using_VBG the_DT detection_NN rate_NN ,_, the_DT false_JJ alarm_NN rate_NN ,_, and_CC the_DT ROC_NN curves_NNS =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN order_NN to_TO define_VB these_DT metrics_NNS ,_, let_VB 's_POS look_NN at_IN a_DT confusion_NN matrix_NN ,_, shown_VBN in_IN Table_NNP 1_CD ._.
+In_IN the_DT outlier_NN detection_NN problem_NN ,_, assuming_VBG class_NN ``_`` C_NN ''_'' as_IN the_DT outlier_NN or_CC the_DT rare_JJ class_NN of_IN the_DT interest_NN ,_, and_CC ``_`` NC_NNP ''_''

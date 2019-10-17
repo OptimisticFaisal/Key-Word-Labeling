@@ -1,0 +1,3 @@
+and_CC feature_NN selection_NN ,_, that_WDT combines_VBZ classifier_NN wrapping_NN -LRB-_-LRB- using_VBG the_DT training_NN material_NN internally_RB to_TO test_VB experimental_JJ variants_NNS -RRB-_-RRB- -LRB-_-LRB- Kohavi_NNP and_CC John_NNP ,_, 1997_CD -RRB-_-RRB- with_IN progressive_JJ sampling_NN of_IN training_NN material_NN -LRB-_-LRB- =_JJ -_: =_JJ Provost_NNP et_FW al._FW ,_, 1999_CD -_: =--RRB-_NN ._.
+We_PRP start_VBP with_IN a_DT large_JJ pool_NN of_IN experiments_NNS ,_, each_DT with_IN a_DT unique_JJ combination_NN of_IN input_NN features_NNS and_CC algorithmic_JJ parameter_NN settings_NNS ._.
+In_IN the_DT first_JJ step_NN ,_, each_DT attempted_VBN setting_NN is_VBZ applied_VBN to_TO a_DT small_JJ amoun_NN

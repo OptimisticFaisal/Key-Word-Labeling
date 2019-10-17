@@ -1,0 +1,4 @@
+y_NN is_VBZ this_DT Problem_NNP Hard_NNP ?_.
+Here_RB we_PRP explicitly_RB state_VBP why_WRB this_DT problem_NN does_VBZ not_RB lend_VB itself_PRP to_TO simple_JJ or_CC ``_`` off-the-shelf_JJ ''_'' solutions_NNS ._.
+The_DT issues_NNS are_VBP well_RB known_VBN in_IN the_DT general_JJ context_NN of_IN dynamic_JJ closest_JJS pair_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC are_VBP worth_JJ restating_VBG here_RB ._.
+Assume_VB that_IN we_PRP have_VBP identified_VBN the_DT motif_NN pair_NN in_IN a_DT window_NN W._NN We_PRP know_VBP the_DT exact_JJ locations_NNS of_IN the_DT two_CD occurrences_NNS of_IN the_DT motif_NN ,_, and_CC their_PRP$ exact_JJ Euclidean_JJ distance_NN D._NNP If_IN w_NN

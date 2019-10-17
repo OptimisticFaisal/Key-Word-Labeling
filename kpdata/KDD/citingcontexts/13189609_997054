@@ -1,0 +1,5 @@
+multiple_JJ different_JJ types_NNS of_IN queries_NNS simultaneously_RB and_CC is_VBZ naturally_RB applicable_JJ to_TO the_DT distributed_VBN computing_NN environment_NN ._.
+Finally_RB ,_, there_EX are_VBP works_NNS on_IN indexing_NN many_JJ small_JJ graphs_NNS using_VBG frequent_JJ subgraph_NN =_JJ -_: =[_NN 37_CD ,_, 39_CD -RRB-_-RRB- -_: =_JJ -_: or_CC significant_JJ graph_NN patterns_NNS -LRB-_-LRB- 38_CD -RRB-_-RRB- ,_, which_WDT is_VBZ quite_RB different_JJ from_IN our_PRP$ setting_NN where_WRB we_PRP have_VBP one_CD large_JJ graph_NN ._.
+Graph_NN Queries_NNS ._.
+There_EX are_VBP numerous_JJ different_JJ queries_NNS on_IN graphs_NNS ._.
+To_TO name_VB a_DT few_JJ ,_, graph-level_JJ

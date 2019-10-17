@@ -1,0 +1,4 @@
+s_VBZ a_DT function_NN of_IN rank_NN ,_, so_IN that_IN V_NN -LRB-_-LRB- p_NN ,_, a_DT -RRB-_-RRB- =_JJ I_NN -LRB-_-LRB- R_NN -LRB-_-LRB- p_NN ,_, a_DT -RRB-_-RRB- -RRB-_-RRB- for_IN some_DT function_NN I_CD -LRB-_-LRB- r_NN -RRB-_-RRB- ._.
+We_PRP believe_VBP this_DT model_NN serves_VBZ as_IN a_DT reasonable_JJ first-order_JJ approximation_NN of_IN true_JJ user_NN behavior_NN -LRB-_-LRB- the_DT same_JJ model_NN was_VBD adopted_VBN in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT function_NN I_CD -LRB-_-LRB- r_NN -RRB-_-RRB- can_MD be_VB estimated_VBN by_IN monitoring_VBG user_NN behavior_NN and_CC fitting_JJ a_DT curve_NN ._.
+For_IN example_NN ,_, AltaVista_NNP usage_NN logs_NNS analyzed_VBN in_IN -LRB-_-LRB- 11_CD ,_, 15_CD -RRB-_-RRB- reveal_VBP that_IN the_DT following_JJ relationship_NN holds_VBZ quite_RB closely_RB

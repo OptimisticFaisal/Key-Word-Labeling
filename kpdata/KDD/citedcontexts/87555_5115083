@@ -1,0 +1,5 @@
+number_NN of_IN classification_NN errors_NNS -RRB-_-RRB- and_CC to_TO minimize_VB expected_JJ costs_NNS of_IN attributes_NNS ._.
+Classifiers_NNS sensitive_JJ only_RB to_TO misclassification_NN costs_NNS ._.
+This_DT problem_NN setting_NN assumes_VBZ that_IN all_DT data_NNS is_VBZ provided_VBN at_IN once_RB =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, therefore_RB there_EX are_VBP no_DT costs_NNS for_IN measuring_VBG attributes_NNS and_CC only_RB misclassification_NN costs_NNS matter_NN ._.
+The_DT objective_NN is_VBZ to_TO minimize_VB the_DT expected_VBN misclassification_NN costs_NNS ._.
+Classifiers_NNS sensitive_JJ to_TO both_DT attr_NN

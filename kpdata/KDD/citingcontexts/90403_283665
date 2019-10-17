@@ -1,0 +1,3 @@
+t_NN these_DT look-ahead_JJ itemsets_NNS are_VBP large_JJ ,_, we_PRP know_VBP that_IN all_DT sub-itemsets_NNS of_IN these_DT large_JJ itemsets_NNS are_VBP large_JJ and_CC hence_RB there_EX is_VBZ no_DT need_NN to_TO find_VB their_PRP$ counts_NNS ._.
+It_PRP uses_VBZ the_DT set-enumeration_NN trees_NNS -LRB-_-LRB- SE-trees_NNS -RRB-_-RRB- of_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- as_IN the_DT fr_NN -_: =_JJ -_: amework_NN for_IN this_DT ``_`` look-ahead_JJ ''_'' search_NN strategy_NN ._.
+4_CD Border-based_JJ discovery_NN of_IN emerging_VBG patterns_NNS Our_PRP$ border-based_JJ algorithms_NNS can_MD discover_VB all_DT EPs_NNS in_IN the_DT BCDG_NN rectangle_NN of_IN Figure_NNP 1_CD ,_, and_CC they_PRP do_VBP t_NN

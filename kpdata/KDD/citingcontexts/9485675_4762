@@ -1,0 +1,4 @@
+ngle_JJ source_NN of_IN information_NN and_CC try_VB to_TO learn_VB a_DT global_JJ single_JJ model_NN that_WDT adapts_VBZ well_RB to_TO the_DT test_NN set_NN ._.
+Constructing_VBG a_DT good_JJ ensemble_NN of_IN classifiers_NNS has_VBZ been_VBN an_DT active_JJ research_NN area_NN in_IN supervised_JJ learning_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+By_IN combining_VBG decisions_NNS from_IN individual_JJ classifiers_NNS ,_, ensembles_NNS can_MD usually_RB reduce_VB variance_NN and_CC achieve_VB higher_JJR accuracy_NN than_IN individual_JJ classifiers_NNS ._.
+Such_JJ methods_NNS include_VBP Bayesian_JJ averaging_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, baggi_NN

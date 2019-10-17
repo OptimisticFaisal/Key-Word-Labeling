@@ -1,0 +1,4 @@
+re_IN 1_CD ._.
+We_PRP will_MD refer_VB to_TO this_DT algorithm_NN as_IN MultiRankWalk_NNP ,_, as_IN it_PRP creates_VBZ multiple_JJ rankings_NNS using_VBG random_JJ walks_VBZ from_IN seed_NN instances_NNS ._.
+This_DT method_NN is_VBZ similar_JJ to_TO some_DT previously_RB described_VBN methods_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ;_: though_IN the_DT lack_NN of_IN experimental_JJ results_NNS and_CC comparison_NN to_TO other_JJ methods_NNS in_IN prior_JJ work_NN makes_VBZ it_PRP difficult_JJ to_TO assess_VB its_PRP$ effectiveness_NN on_IN real_JJ network_NN datasets_NNS ._.
+Given_VBN :_: A_DT graph_NN G_NN =_JJ -LRB-_-LRB- V_NN ,_, E_NN -RRB-_-RRB- ,_, correspondin_NN

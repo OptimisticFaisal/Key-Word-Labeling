@@ -1,0 +1,4 @@
+al_FW graph_NN partitioning_VBG approaches_NNS :_: There_EX are_VBP other_JJ ways_NNS to_TO partition_NN these_DT graphs_NNS ,_, e.g._FW normalized_VBD cut_VBN using_VBG the_DT Fiedler_NNP vector_NN -LRB-_-LRB- eigenvector_NN corresponding_VBG to_TO the_DT second_JJ smallest_JJS generalized_JJ eigenvalue_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+BAM_NNP uses_VBZ the_DT top_JJ left_NN and_CC right_JJ singular_JJ vectors_NNS ._.
+Norm-cut_JJ looks_NNS at_IN both_CC interand_JJ intra-partition_JJ properties_NNS while_IN our_PRP$ algorithm_NN is_VBZ thought_VBN to_TO target_VB the_DT tightness_NN of_IN the_DT partition_NN in_IN question_NN ._.
+sIncr_NN

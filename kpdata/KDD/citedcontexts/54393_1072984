@@ -1,0 +1,4 @@
+our_PRP$ constructions_NNS ._.
+Another_DT line_NN of_IN research_NN has_VBZ focused_VBN on_IN statistical_JJ privacy_NN in_IN databases_NNS ,_, typically_RB achieved_VBN by_IN randomly_RB perturbing_VBG individual_JJ data_NNS entries_NNS while_IN preserving_VBG some_DT global_JJ properties_NNS =_JJ -_: =[_NN 4,2,5,3,26,12,17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT survey_NN can_MD be_VB found_VBN in_IN -LRB-_-LRB- 36_CD -RRB-_-RRB- ._.
+The_DT proofs_NNS of_IN security_NN in_IN this_DT framework_NN are_VBP statistical_JJ rather_RB than_IN cryptographic_JJ in_IN nature_NN ,_, and_CC typically_RB permit_VBP some_DT leakage_NN of_IN information_NN ,_, while_IN supporting_VBG more_JJR e_SYM

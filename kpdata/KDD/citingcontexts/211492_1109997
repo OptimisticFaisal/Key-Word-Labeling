@@ -1,0 +1,5 @@
+ach_NN yields_VBZ an_DT efficient_JJ construction_NN of_IN decision_NN trees_NNS that_WDT have_VBP a_DT small_JJ size_NN ,_, but_CC a_DT high_JJ accuracy_NN ._.
+1_CD ._.
+INTRODUCTION_NN Classification_NN is_VBZ one_CD of_IN the_DT major_JJ tasks_NNS of_IN data_NN mining_NN ._.
+The_DT goal_NN of_IN classification_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ to_TO assign_VB a_DT new_JJ object_NN to_TO a_DT class_NN from_IN a_DT given_VBN set_NN of_IN classes_NNS based_VBN on_IN the_DT attribute_NN values_NNS of_IN this_DT object_NN ._.
+Furthermore_RB ,_, classification_NN is_VBZ based_VBN on_IN some_DT discovered_VBN model_NN which_WDT forms_VBZ an_DT important_JJ p_NN

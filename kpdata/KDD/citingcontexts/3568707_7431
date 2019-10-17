@@ -1,0 +1,4 @@
+ted_VBN using_VBG Weka_NNP 's_POS implementation_NN of_IN all_PDT these_DT existing_VBG algorithms_NNS and_CC FCBF_NN is_VBZ also_RB implemented_VBN in_FW Weka_FW environment_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+All_DT together_RB 10_CD data_NNS sets_NNS are_VBP selected_VBN from_IN the_DT UCI_NNP Machine_NNP Learning_NNP Repository_NNP =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT UCI_NNP KDD_NNP Archive_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+A_DT summary_NN of_IN data_NNS sets_NNS is_VBZ presented_VBN in_IN Table_NNP 1_CD ._.
+For_IN each_DT data_NNS set_VBN ,_, we_PRP run_VBP FCBF_NN ,_, CFS-SF_NN ,_, and_CC ReliefF_NN to_TO obtain_VB a_DT set_NN of_IN selected_VBN features_NNS from_IN each_DT algorithm_NN ,_, and_CC record_NN t_NN

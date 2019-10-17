@@ -1,0 +1,3 @@
+suring_VBG the_DT relationship_NN among_IN these_DT factors_NNS ._.
+Section_NN 3_CD describes_VBZ the_DT cost-sensitive_JJ version_NN of_IN the_DT RIPPER_NN rule_NN learning_NN algorithm_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- which_WDT produces_VBZ low_JJ computational_JJ cost_NN detection_NN rules_NNS ,_, a_DT MetaCost_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: procedure_NN that_WDT can_MD be_VB used_VBN to_TO minimize_VB damage_NN costs_NNS and_CC response_NN costs_NNS ,_, and_CC our_PRP$ experiments_NNS in_IN using_VBG these_DT algorithms_NNS ._.
+Section_NN 4_CD describes_VBZ our_PRP$ rule_NN translation_NN system_NN ,_, and_CC the_DT experiments_NNS in_FW implemen_FW

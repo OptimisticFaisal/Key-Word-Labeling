@@ -1,0 +1,3 @@
+approach_NN to_TO large-scale_JJ classication_NN is_VBZ to_TO improve_VB the_DT storage_NN eciency_NN of_IN the_DT induction_NN algorithm_NN ,_, allowing_VBG its_PRP$ use_NN on_IN much_JJ larger_JJR problems_NNS ._.
+This_DT approach_NN is_VBZ exempli_FW ed_FW by_IN the_DT work_NN of_IN Gehrke_NNP et_FW al._FW -LRB-_-LRB- =_JJ -_: =_JJ 12_CD -_: =-]_NN who_WP developed_VBD a_DT decision_NN tree_NN algorithm_NN with_IN dramatically_RB improved_VBN eciency_NN ._.
+Their_PRP$ BOAT_NN algorithm_NN builds_VBZ an_DT initial_JJ tree_NN on_IN a_DT subset_NN of_IN the_DT data_NNS and_CC renes_NNS it_PRP iteratively_RB as_IN new_JJ data_NNS are_VBP read_VBN ,_, conclud_NN

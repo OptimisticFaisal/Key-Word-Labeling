@@ -1,0 +1,19 @@
+Distributed_VBN data_NNS mining_NN in_IN a_DT chain_NN store_NN database_NN of_IN short_JJ transactions_NNS
+e_LS ,_, FL_NN ,_, November_NNP 2003_CD ._.
+-LRB-_-LRB- 43_CD -RRB-_-RRB- Lawrence_NNP O._NNP Hall_NNP ,_, Nitesh_NNP Chawla_NNP ,_, Kevin_NNP W._NNP Bowyer_NNP ,_, and_CC W._NNP Philip_NNP Kegelmeyer_NNP ._.
+Learning_NNP Rules_NNPS from_IN Distributed_VBN Data_NN ._.
+Large-Scale_JJ Parallel_JJ Data_NNP Mining_NNP ,_, 1729:211_CD --_: 220_CD ,_, July_NNP 2003_CD ._.
+=_SYM -_: =[_NN 44_CD -RRB-_-RRB- -_: =_SYM -_: D._NNP E._NNP Hershberger_NNP and_CC H._NNP Kargupta_NNP ._.
+Distributed_VBN Multivariate_JJ Regression_NN Using_VBG Wavelet-Based_JJ Collective_NNP Data_NNP Mining_NNP ._.
+Journal_NN of_IN Parallel_JJ and_CC Distributed_VBN Computing_NNP ,_, 61_CD -LRB-_-LRB- 3_CD -RRB-_-RRB- :372_CD --_: 400_CD ,_, 2001_CD ._.
+-LRB-_-LRB- 45_CD -RRB-_-RRB- R._NNP Jin_NNP and_CC
+oost_VB for_IN Distributed_VBN ,_, Scalable_NNP and_CC On-Line_NNP Learning_NNP ._.
+In_IN Proceedings_NNP of_IN the_DT Fifth_NNP ACM_NNP SIGKDD_NNP International_NNP Conference_NNP on_IN Knowledge_NNP Discovery_NNP and_CC Data_NNP Mining_NNP ,_, pages_NNS 362_CD --_: 366_CD ,_, San_NNP Diego_NNP ,_, CA_NNP ,_, August_NNP 1999_CD ._.
+=_SYM -_: =[_NN 33_CD -RRB-_-RRB- -_: =_SYM -_: N._NNP Fonseca_NNP ,_, R._NNP Camacho_NNP ,_, and_CC F._NNP Silva_NNP ._.
+A_DT parallel_JJ ILP_NNP algorithm_NN that_WDT incorporates_VBZ incremental_JJ batch_NN learning_NN ._.
+In_IN Parallel_JJ and_CC Distributed_VBN computing_NN for_IN Machine_NNP Learning_NNP ._.
+In_IN conjunction_NN with_IN the_DT 14th_JJ E_NN
+nnot_NN be_VB closed_VBN ,_, and_CC -LCB-_-LRB- b_LS -RCB-_-RRB- →_NN -LCB-_-LRB- d_NN ,_, e_LS -RCB-_-RRB- is_VBZ subsumed_VBN to_TO -LCB-_-LRB- b_NN ,_, c_NN -RCB-_-RRB- →_NN -LCB-_-LRB- d_NN ,_, e_LS -RCB-_-RRB- ._.
+DATA_NNP MINING_NNP 39sExtensions_NNS to_TO association_NN mining_NN •_CD sequential_JJ pattern_NN mining_NN -LRB-_-LRB- AS95b_NN -RRB-_-RRB- :_: ⋆_CD episodes_NNS mining_NN -LRB-_-LRB- MTV97_NN -RRB-_-RRB- ⋆_CD causality_NN rule_NN mining_NN =_JJ -_: =_JJ -LRB-_-LRB- LLCY02_NN -RRB-_-RRB- -_: =_JJ -_: :_: a_DT sequence_NN of_IN triggering_NN events_NNS and_CC a_DT sequence_NN of_IN consequential_JJ events_NNS with_IN a_DT time_NN constraints_NNS ._.
+•_CD general_JJ frequent_JJ pattern_NN mining_NN does_VBZ not_RB assume_VB ordering_VBG between_IN basic_JJ items_NNS ._.
+⋆_NN in_IN regular_JJ text_NN ,_, wor_NN

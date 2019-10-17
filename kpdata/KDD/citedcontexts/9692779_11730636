@@ -1,0 +1,4 @@
+ck_IN this_DT corpora_NN ,_, we_PRP instead_RB leverage_NN Wikipedia_NNP as_IN a_DT knowledge_NN base_NN ._.
+Other_JJ research_NN has_VBZ proceeded_VBN in_IN this_DT direction_NN ,_, leveraging_VBG Wikipedia_NNP as_IN the_DT knowledge_NN base_NN for_IN entity_NN disambiguation_NN -LRB-_-LRB- and_CC labeling_NN -RRB-_-RRB- =_JJ -_: =[_NN 11_CD ,_, 13_CD ,_, 14_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP hope_VBP to_TO incorporate_VB such_JJ methods_NNS ,_, though_IN the_DT noisy_JJ ,_, ungrammatical_JJ nature_NN of_IN Tweets_NNS may_MD prove_VB diffi-cult_JJ for_IN them_PRP ._.
+We_PRP note_VBP a_DT key_JJ difference_NN is_VBZ that_IN none_NN of_IN these_DT approaches_NNS are_VBP leveraged_JJ to_TO deter_VB

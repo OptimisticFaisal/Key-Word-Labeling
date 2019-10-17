@@ -1,0 +1,4 @@
+uirement_NN that_IN a_DT sub-matrix_NN determined_VBN by_IN the_DT frequent_JJ itemset_NN consists_VBZ entirely_RB of_IN 1s_NNS ,_, and_CC allow_VB it_PRP instead_RB to_TO contain_VB a_DT large_JJ fraction_NN of_IN 1s_NNS -LRB-_-LRB- and_CC a_DT small_JJ fraction_NN of_IN 0s_NNS -RRB-_-RRB- ,_, e.g._FW ,_, the_DT ``_`` presence_NN ''_'' signal_NN =_JJ -_: =[_NN 6_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT requirement_NN is_VBZ evidently_RB a_DT necessary_JJ condition_NN ,_, but_CC it_PRP is_VBZ not_RB sufficient_JJ to_TO define_VB a_DT sub-matrix_NN of_IN interest_NN ._.
+To_TO see_VB why_WRB this_DT is_VBZ the_DT case_NN ,_, consider_VB the_DT matrix_NN shown_VBN in_IN Figure_NNP 3_CD ._.
+The_DT matrix_NN in_IN Fi_NN

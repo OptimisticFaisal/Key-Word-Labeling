@@ -1,0 +1,3 @@
+-LRB-_-LRB- A1_NN -RRB-_-RRB- denotes_VBZ a_DT function_NN from_IN V_NN -LRB-_-LRB- A1_NN -RRB-_-RRB- k_NN to_TO V_NN -LRB-_-LRB- A1_NN -RRB-_-RRB- ._.
+Such_JJ multi-set_JJ operators_NNS include_VBP simple_JJ set_NN operators_NNS such_JJ as_IN intersection_NN and_CC union_NN and_CC more_RBR complex_JJ aggregation_NN operators_NNS modeling_NN value_NN distributions_NNS =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+By_IN applying_VBG an_DT aggregation_NN operator_NN after_IN a_DT multi-set_JJ operator_NN ,_, we_PRP can_MD derive_VB attributes_NNS from_IN multiple_JJ multi-valued_JJ attributes_NNS and_CC include_VBP them_PRP into_IN the_DT probabilistic_JJ dependency_NN specification_NN of_IN a_DT P_NN

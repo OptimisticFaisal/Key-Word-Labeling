@@ -1,0 +1,5 @@
+sampler_NN is_VBZ to_TO sample_NN the_DT topic_NN of_IN each_DT new_JJ word_NN from_IN a_DT uniform_JJ distribution_NN ._.
+However_RB ,_, this_DT results_VBZ in_IN slow_JJ convergence_NN ._.
+A_DT more_RBR effective_JJ way_NN of_IN initializing_VBG the_DT sampler_NN is_VBZ to_TO perform_VB online_JJ sampling_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+That_DT is_VBZ ,_, the_DT topic_NN of_IN each_DT new_JJ word_NN is_VBZ sampled_VBN by_IN conditioning_NN on_IN all_PDT the_DT words_NNS seen_VBN so_RB far_RB ._.
+This_DT procedure_NN is_VBZ easy_JJ when_WRB performed_VBN on_IN a_DT single_JJ machine_NN ,_, but_CC is_VBZ extremely_RB complex_JJ to_TO implement_VB in_IN a_DT dis_NN

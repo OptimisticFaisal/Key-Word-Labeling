@@ -1,0 +1,4 @@
+raph_NN ._.
+The_DT normalized_VBN aggregate_NN size_NN is_VBZ computed_VBN using_VBG Equation_NN 5_CD ._.
+We_PRP can_MD then_RB weight_VB each_DT pattern_NN using_VBG Equation_NN 6_CD ._.
+-LRB-_-LRB- |_CD g_NN |_FW |_FW n_NN |_NN -RRB-_-RRB- size_NN -LRB-_-LRB- g_NN j_NN -RRB-_-RRB- =_JJ |_FW i_FW j_NN |_CD m_NN |_NNP ik_NNP |_NNP k_NN =_JJ 1_CD ∗_CD j_NN ∗_CD j_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- size_NN -LRB-_-LRB- g_NN j_NN -RRB-_-RRB- w_NN -LRB-_-LRB- g_NN -RRB-_-RRB- =_JJ -_: =-LRB-_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: j_NN =_JJ m_NN i_FW =_JJ 1_CD size_NN -LRB-_-LRB- g_NN -RRB-_-RRB- For_IN the_DT patterns_NNS described_VBN above_RB ,_, the_DT normalized_VBN aggregate_NN sizes_NNS would_MD be_VB calculated_VBN using_VBG Equation_NN 5_CD as_IN follows_VBZ :_: is5200_NN size_NN -LRB-_-LRB- g1_NN -RRB-_-RRB- =_JJ ∗_NN 5200_CD +_CC 6800_CD +_CC 6000_CD 6800_CD size_NN -LRB-_-LRB- g_NN 2_CD -RRB-_-RRB- =_JJ ∗_NN 52_CD

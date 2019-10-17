@@ -1,0 +1,8 @@
+AGR_NNP Program_NNP -LRB-_-LRB- DOD_NNP AFRL_NNP award_NN no._NN ._.
+FA8650-07-C-7702_NN -RRB-_-RRB- ._.
+Fig._NNP 1_CD ._.
+Typical_JJ outdoor_JJ navigation_NN scenario_NN -LRB-_-LRB- left_NN -RRB-_-RRB- ._.
+Terrain_NN classification_NN on_IN same_JJ image_NN using_VBG proposed_VBN technique_NN with_IN 20_CD models_NNS -LRB-_-LRB- right_NN -RRB-_-RRB- ._.
+literature_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, though_IN not_RB in_IN the_DT context_NN of_IN this_DT particular_JJ problem_NN ._.
+Our_PRP$ previous_JJ work_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- frames_NNS this_DT problem_NN as_IN a_DT supervised_JJ Machine_NNP Learning_NNP problem_NN ._.
+For_IN each_DT image_NN acquired_VBN from_IN the_DT robot_NN 's_POS vision_NN

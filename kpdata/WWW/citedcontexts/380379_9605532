@@ -1,0 +1,6 @@
+this_DT section_NN ._.
+Recently_RB there_EX has_VBZ been_VBN a_DT lot_NN of_IN work_NN in_IN opinion_NN mining_NN and_CC summarization_NN especially_RB on_IN customer_NN reviews_NNS ._.
+In_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, sentiment_NN classifiers_NNS are_VBP built_VBN from_IN some_DT training_NN corpus_NN ._.
+Some_DT papers_NNS =_JJ -_: =[_NN 8_CD ,_, 7_CD ,_, 10_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: further_JJ mine_JJ product_NN features_NNS from_IN reviews_NNS on_IN which_WDT the_DT reviewers_NNS have_VBP expressed_VBN their_PRP$ opinions_NNS ._.
+Zhuang_NNP and_CC others_NNS focused_VBD on_IN movie_NN review_NN mining_NN and_CC summarization_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- presented_VBD a_DT prototype_NN sys_NN

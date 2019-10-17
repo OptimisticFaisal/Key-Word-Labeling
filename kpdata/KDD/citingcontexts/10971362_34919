@@ -1,0 +1,7 @@
+in_IN step_NN 1_CD using_VBG Algorithm_NN 2_CD ._.
+Then_RB represent_VBP the_DT trace_NN database_NN T_NN DB_NN in_IN the_DT feature_NN space_NN of_IN the_DT selected_VBN iterative_JJ patterns_NNS ._.
+3_LS ._.
+Train_NN a_DT classifier_NN from_IN the_DT trace_NN database_NN T_NN DB_NN ._.
+In_IN this_DT study_NN ,_, LIBSVM_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: with_IN probability_NN estimates_NNS is_VBZ used_VBN as_IN the_DT classification_NN model_NN ._.
+The_DT iterative_JJ pattern-based_JJ classification_NN framework_NN is_VBZ described_VBN in_IN Algorithm_NNP 3_CD ._.
+Algorithm_NN 3_CD Iterative_JJ Pattern-based_JJ Classification_NN Pr_NN

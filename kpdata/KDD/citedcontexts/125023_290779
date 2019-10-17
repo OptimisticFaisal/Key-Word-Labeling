@@ -1,0 +1,4 @@
+or_CC all_DT operating_VBG points_NNS ._.
+One_CD set_NN of_IN points_NNS A_NN is_VBZ dominated_VBN by_IN another_DT B_NN when_WRB each_DT point_NN in_IN A_NN is_VBZ dominated_VBN by_IN some_DT point_NN B_NN and_CC no_DT point_NN in_IN B_NN is_VBZ dominated_VBN by_IN a_DT point_NN in_IN A._NN Cost_NN curves_NNS were_VBD introduced_VBN in_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Performance_NNP -LRB-_-LRB- expected_VBN cost_NN normalized_VBD to_TO be_VB between_IN 0_CD and_CC 1_CD -RRB-_-RRB- is_VBZ plotted_VBN on_IN the_DT y-axis_NN ._.
+Operating_NN points_NNS are_VBP plotted_VBN on_IN the_DT x-axis_NN after_IN being_VBG normalized_VBN to_TO be_VB between_IN 0_CD and_CC 1_CD by_IN combining_VBG the_DT parame_NN

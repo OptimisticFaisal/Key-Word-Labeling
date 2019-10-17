@@ -1,0 +1,4 @@
+that_IN the_DT potential_JJ downsides_NNS ,_, in_IN particular_JJ change_NN in_FW abort_FW rate_NN of_IN update_VB transactions_NNS ,_, are_VBP limited_JJ ._.
+1_CD ._.
+Introduction_NN There_EX is_VBZ increasing_VBG interest_NN in_IN replicating_VBG the_DT generation_NN of_IN dynamic_JJ Web_NN content_NN =_JJ -_: =[_NN 2_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: for_IN many_JJ Web_NN services_NNS to_TO achieve_VB efficiency_NN and_CC fault_NN tolerance_NN ._.
+The_DT user_NN 's_POS request_NN is_VBZ executed_VBN on_IN a_DT ``_`` nearby_JJ ''_'' replica_NN ,_, thereby_RB avoiding_VBG long_JJ roundtrip_NN delays_NNS and_CC distributing_VBG the_DT load_NN over_IN the_DT replic_JJ

@@ -1,0 +1,4 @@
+are_VBP of_IN roughly_RB the_DT same_JJ size_NN .9_CD ._.
+RELATED_NNS WORK_VBP The_DT ideas_NNS and_CC techniques_NNS presented_VBN in_IN this_DT paper_NN are_VBP related_VBN to_TO a_DT variety_NN of_IN research_NN areas_NNS such_JJ as_IN concurrent_JJ systems_NNS -LRB-_-LRB- 26_CD ,_, 27_CD -RRB-_-RRB- ,_, web_NN service_NN composition_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, software_NN architectures_NNS -LRB-_-LRB- 36_CD ,_, 27_CD -RRB-_-RRB- ,_, etc._NN ._.
+A_DT complete_JJ survey_NN of_IN all_PDT these_DT threads_NNS is_VBZ not_RB intended_VBN here_RB ,_, and_CC instead_RB ,_, we_PRP focus_VBP on_IN comparing_VBG our_PRP$ work_NN with_IN the_DT most_RBS relevant_JJ research_NN thrusts_NNS ._.
+Feature_NN intera_NN

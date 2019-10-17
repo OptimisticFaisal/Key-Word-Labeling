@@ -1,0 +1,5 @@
+._.
+We_PRP call_VBP this_DT method_NN SVMs_NNS with_IN heterogeneous_JJ feature_NN kernels_NNS -LRB-_-LRB- denoted_VBN SVM-HF_NN -RRB-_-RRB- ._.
+The_DT complete_JJ pseudo-code_NN is_VBZ shown_VBN in_IN Figure_NNP 1_CD ._.
+This_DT approach_NN is_VBZ directly_RB related_JJ to_TO our_PRP$ previous_JJ work_NN on_IN Cross-Training_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- whe_NN -_: =_SYM -_: re_IN label_NN mappings_NNS between_IN two_CD different_JJ taxonomies_NNS help_VBP in_IN building_VBG better_JJR classification_NN models_NNS for_IN each_DT of_IN the_DT taxonomies_NNS ._.
+1_CD :_: Represent_VB each_DT document_NN as_IN a_DT vector_NN d_NN in_IN term_NN space_NN and_CC d_NN =_JJ 1_CD 2_CD :_: B_NN

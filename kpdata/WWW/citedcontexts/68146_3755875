@@ -1,0 +1,4 @@
+alization_NN of_IN Web_NN Service_NNP Choreography_NNP Interface_NNP -LRB-_-LRB- WSCI_NNP -RRB-_-RRB- using_VBG a_DT process_NN algebra_NN approach_NN -LRB-_-LRB- CCS_NN -RRB-_-RRB- ,_, and_CC discussed_VBD the_DT benefits_NNS of_IN such_JJ formalization_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+X._NNP Fu_NNP et_FW al._FW gave_VBD a_DT translation_NN from_IN BPEL_NN to_TO Promela_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Pi4SOA_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- is_VBZ a_DT tool_NN for_IN designing_VBG WS-CDL_NN choreography_NN with_IN a_DT nice_JJ graphical_JJ user_NN interface_NN ,_, and_CC supports_VBZ projection_NN from_IN WS-CDL_NN to_TO BPEL_NNP or_CC Java_NNP ._.
+It_PRP has_VBZ a_DT text-based_JJ simulator_NN which_WDT is_VBZ relatively_RB di_FW

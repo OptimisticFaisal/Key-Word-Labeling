@@ -1,0 +1,4 @@
+hold_NN ._.
+Although_IN we_PRP use_VBP the_DT coordinate_JJ ascent_NN algorithm_NN primarily_RB for_IN its_PRP$ simplicity_NN and_CC efficiency_NN ,_, any_DT other_JJ learning_NN to_TO rank_VB approach_NN that_WDT estimates_VBZ the_DT parameters_NNS for_IN linear_JJ models_NNS -LRB-_-LRB- such_JJ as_IN RankSVM_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: or_CC RankNet_NNP -LRB-_-LRB- 7_CD -RRB-_-RRB- -RRB-_-RRB- can_MD be_VB used_VBN to_TO optimize_VB the_DT quality-biased_JJ ranking_NN function_NN in_IN Equation_NN 3_CD ._.
+3_LS ._.
+QUALITY_NN FEATURES_NNS In_IN this_DT section_NN ,_, we_PRP focus_VBP on_IN the_DT set_NN of_IN features_NNS L_NN that_WDT was_VBD used_VBN to_TO assign_VB a_DT document_NN qu_NN

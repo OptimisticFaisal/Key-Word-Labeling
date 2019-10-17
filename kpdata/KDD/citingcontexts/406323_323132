@@ -1,0 +1,5 @@
+axonomy_NN could_MD be_VB found_VBN ,_, the_DT one_NN used_VBN in_IN our_PRP$ experiments_NNS was_VBD created_VBN manually_RB by_IN a_DT domain-expert_NN -LRB-_-LRB- the_DT Web_NN administrator_NN -RRB-_-RRB- ._.
+A_DT fraction_NN of_IN this_DT taxonomy_NN is_VBZ included_VBN in_IN Figure_NNP 3_CD ._.
+Moreover_RB ,_, we_PRP used_VBD WordNet_NN =_JJ -_: =[_NN 1_CD ,_, 40_CD -RRB-_-RRB- -_: =_SYM -_: as_IN thesaurus_NN ._.
+WordNet_NNP provides_VBZ a_DT set_NN of_IN senses_NNS for_IN each_DT keyword_NN it_PRP contains_VBZ ._.
+In_IN order_NN to_TO find_VB the_DT closest_JJS term_NN in_IN our_PRP$ ontology_NN for_IN a_DT keyword_JJ k_NN that_WDT describes_VBZ a_DT document_NN ,_, we_PRP compute_VBP the_DT Wu_NNP &_CC Palmer_NNP si_FW

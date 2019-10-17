@@ -1,0 +1,4 @@
+d_LS a_DT classifier_NN to_TO test_VB our_PRP$ ability_NN to_TO distinguish_VB between_IN our_PRP$ conditions_NNS on_IN a_DT single_JJ trial_NN basis_NN ._.
+8We_NN implemented_VBD a_DT weighted_JJ k-nearest-neighbor_NN classifier_NN with_IN a_DT Dynamic_NNP Time_NNP Warping_NNP distance_NN metric_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN each_DT of_IN the_DT 45_CD experiment_NN tasks_NNS ,_, we_PRP averaged_VBD together_RB the_DT channel_NN readings_NNS on_IN the_DT left_JJ side_NN -LRB-_-LRB- L2_NN ,_, L3_NN ,_, L4_NN -RRB-_-RRB- and_CC on_IN the_DT right_JJ side_NN -LRB-_-LRB- R2_NN ,_, R3_NN ,_, R4_NN -RRB-_-RRB- of_IN the_DT brain_NN ._.
+The_DT result_NN was_VBD four_CD time_NN series_NN representing_VBG

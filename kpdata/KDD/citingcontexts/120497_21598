@@ -1,0 +1,3 @@
+tering_JJ ,_, directional_JJ data_NNS ,_, mixtures_NNS ,_, von_NNP Mises-Fisher_NNP ,_, EM_NNP 1_CD ._.
+INTRODUCTION_NN Clustering_NN or_CC segmentation_NN of_IN data_NNS is_VBZ a_DT fundamental_JJ data_NN analysis_NN step_NN that_WDT has_VBZ been_VBN widely_RB studied_VBN across_IN various_JJ disciplines_NNS =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, several_JJ large_JJ datasets_NNS that_WDT are_VBP being_VBG acquired_VBN from_IN scientific_JJ domains_NNS ,_, as_RB well_RB as_IN the_DT world_NN wide_JJ web_NN ,_, have_VBP a_DT variety_NN of_IN complex_JJ characteristics_NNS that_WDT severely_RB challenge_VBP traditional_JJ methods_NNS

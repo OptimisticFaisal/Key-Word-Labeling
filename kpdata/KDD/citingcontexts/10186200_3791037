@@ -1,0 +1,4 @@
+unities_NNS ,_, outliers_NNS ,_, important_JJ nodes_NNS ,_, etc._FW ._.
+This_DT paper_NN proposes_VBZ such_PDT a_DT measure_NN of_IN dissimilarity_NN between_IN nodes_NNS ,_, together_RB with_IN algorithms_NNS for_IN computing_VBG it_PRP ,_, by_IN applying_VBG and_CC extending_VBG ideas_NNS that_WDT appeared_VBD in_IN =_JJ -_: =[_NN 52_CD -RRB-_-RRB- -_: =_SYM -_: in_IN the_DT context_NN of_IN routing_VBG ._.
+The_DT proposed_VBN measure_NN will_MD be_VB called_VBN the_DT randomized_VBN shortest-path_NN -LRB-_-LRB- RSP_NN -RRB-_-RRB- dissimilarity_NN and_CC has_VBZ three_CD interesting_JJ properties_NNS ._.
+First_RB ,_, it_PRP has_VBZ a_DT clear_JJ ,_, intuitive_JJ ,_, interpretation_NN

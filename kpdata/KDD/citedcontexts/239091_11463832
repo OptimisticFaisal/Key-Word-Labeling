@@ -1,0 +1,6 @@
+ected_VBN user_NN data_NNS ._.
+It_PRP is_VBZ straightforward_JJ and_CC efficient_JJ ._.
+Prior_JJ data_NNS may_MD be_VB expunged_VBN and_CC the_DT support_NN vectors_NNS computed_VBN from_IN that_DT data_NNS are_VBP retained_VBN and_CC used_VBN to_TO compute_VB a_DT new_JJ update_VB model_NN using_VBG the_DT new_JJ data_NN =_JJ -_: =[_NN 19_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT update_VBP time_NN complexity_NN is_VBZ therefore_RB equivalent_JJ to_TO the_DT train_NN time_NN complexity_NN ._.
+Updating_VBG the_DT Hellinger_NNP distance-based_JJ model_NN can_MD be_VB done_VBN in_IN constant_JJ time_NN ._.
+The_DT newly_RB computed_VBN Hellinger_NNP score_NN is_VBZ compa_NN

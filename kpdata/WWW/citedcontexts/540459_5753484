@@ -1,0 +1,3 @@
+content_NN ._.
+Based_VBN on_IN this_DT observation_NN ,_, several_JJ researchers_NNS have_VBP recently_RB proposed_VBN techniques_NNS that_IN leverage_NN the_DT structural_JJ similarities_NNS of_IN pages_NNS from_IN large_JJ Web_NN sites_NNS to_TO automatically_RB derive_VB Web_NN wrappers_NNS =_JJ -_: =[_NN 8,9,29,28_CD -RRB-_-RRB- -_: =_JJ -_: ,_, i.e._FW ,_, programs_NNS that_WDT extract_VBP data_NNS from_IN HTML_NNP pages_NNS ,_, and_CC transform_VB them_PRP into_IN a_DT machine_NN processable_JJ format_NN ,_, typically_RB in_IN XML_NN ._.
+These_DT techniques_NNS take_VBP a_DT small_JJ set_NN of_IN sample_NN pages_NNS that_WDT exhibit_VBP a_DT common_JJ temp_NN

@@ -1,0 +1,4 @@
+is_VBZ computationally_RB unfeasible_JJ ._.
+Thus_RB ,_, there_EX has_VBZ been_VBN recent_JJ interest_NN in_IN mining_NN maximal_JJ frequent_JJ patterns_NNS in_IN these_DT ''_'' hard_RB ''_'' dense_JJ databases_NNS ._.
+Another_DT recent_JJ promising_JJ direction_NN is_VBZ to_TO mine_VB only_JJ closed_JJ sets_NNS =_JJ -_: =[_NN 9_CD ,_, 11_CD -RRB-_-RRB- -_: =_JJ -_: ;_: a_DT set_NN is_VBZ closed_VBN if_IN it_PRP has_VBZ no_DT superset_NN with_IN the_DT same_JJ frequency_NN ._.
+Nevertheless_RB ,_, for_IN some_DT of_IN the_DT dense_JJ datasets_NNS we_PRP consider_VBP in_IN this_DT paper_NN ,_, even_RB the_DT set_NN of_IN all_DT closed_VBN patterns_NNS would_MD grow_VB to_TO be_VB too_RB large_JJ ._.

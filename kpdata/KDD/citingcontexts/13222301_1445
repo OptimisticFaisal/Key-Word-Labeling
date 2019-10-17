@@ -1,0 +1,5 @@
+th_DT restart_VB -LRB-_-LRB- 37_CD -RRB-_-RRB- ,_, SimRank_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, etc._NN ._.
+Because_IN of_IN its_PRP$ generality_NN and_CC wide_JJ applicability_NN ,_, we_PRP choose_VBP Personalized_NNP PageRank_NNP as_IN the_DT starting_VBG point_NN of_IN our_PRP$ method_NN ._.
+Other_JJ ranking_JJ methods_NNS on_IN graphs_NNS include_VBP HITS_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, electricity-based_JJ methods_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, etc._NN ._.
+There_EX also_RB exist_VBP a_DT lot_NN of_IN work_NN to_TO speed-up_VB the_DT computation_NN of_IN personalized_JJ PageRank_NN ,_, such_JJ as_IN -LRB-_-LRB- 37_CD ,_, 33_CD ,_, 13_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ worth_JJ pointing_VBG out_RP that_IN all_PDT these_DT fast_JJ algorithm_NN

@@ -1,0 +1,4 @@
+formance_NN ._.
+There_EX are_VBP also_RB some_DT work_NN on_IN finding_VBG densely_RB connected_JJ subgraphs_NNS from_IN one_CD single_JJ graph_NN or_CC from_IN a_DT graph_NN database_NN ._.
+The_DT connectivity_NN of_IN a_DT subgraph_NN can_MD be_VB measured_VBN by_IN the_DT size_NN of_IN its_PRP$ minimum_JJ cut_NN =_JJ -_: =[_NN 16_CD ,_, 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, edge_NN density_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- or_CC by_IN other_JJ measures_NNS ._.
+Hartuv_NNP and_CC Shamir_NNP -LRB-_-LRB- 16_CD -RRB-_-RRB- proposed_VBD an_DT algorithm_NN called_VBN HCS_NN which_WDT recursively_RB splits_VBZ the_DT weighted_JJ graph_NN into_IN a_DT set_NN of_IN highly_RB connected_VBN components_NNS along_IN the_DT minimum_NN

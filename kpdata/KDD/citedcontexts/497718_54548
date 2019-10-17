@@ -1,0 +1,4 @@
+lgorithms_NNS are_VBP developed_VBN -LRB-_-LRB- not_RB similarity_NN functions_NNS -RRB-_-RRB- and_CC is_VBZ thus_RB only_RB peripherally_RB related_JJ to_TO our_PRP$ work_NN ._.
+Jeh_NNP and_CC Widow_NNP propose_VBP a_DT distance_NN function_NN between_IN nodes_NNS of_IN a_DT graphs_NNS that_WDT is_VBZ based_VBN on_IN random_JJ walks_VBZ =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT distance_NN between_IN nodes_NNS u_NN and_CC v_LS is_VBZ measured_VBN using_VBG two_CD random_JJ web_NN surfer_NN ,_, one_CD at_IN u_NN and_CC the_DT other_JJ at_IN v._CC In_IN lock-step_NN ,_, the_DT surfers_NNS randomly_RB surf_NN the_DT web_NN ._.
+The_DT expected_JJ number_NN of_IN steps_NNS until_IN they_PRP meet_VBP

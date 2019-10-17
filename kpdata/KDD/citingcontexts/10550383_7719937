@@ -1,0 +1,5 @@
+ng_NN a_DT soft_JJ view_NN of_IN constraints_NNS does_VBZ not_RB compromise_VB the_DT locality_NN of_IN the_DT mined_VBN clusters_NNS ._.
+5.2_CD Finding_NNP Alternative_NNP Clusterings_NNPS We_PRP investigate_VBP alternative_JJ clustering_NN using_VBG the_DT Portait_NNP dataset_NN as_IN studied_VBN in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT dataset_NN comprises_VBZ 324_CD images_NNS of_IN three_CD people_NNS each_DT in_IN three_CD different_JJ poses_VBZ and_CC 36_CD illuminations_NNS ._.
+Pre-processing_NN involves_VBZ dimensionality_NN reduction_NN to_TO a_DT grid_NN of_IN 64_CD ×_CD 49_CD pixels_NNS ._.
+The_DT goal_NN of_IN findin_NN

@@ -1,0 +1,4 @@
+apt_JJ to_TO the_DT new_JJ data_NNS immediately_RB for_IN topic_NN tracking_NN ,_, and_CC it_PRP is_VBZ impractical_JJ to_TO prepare_VB sufficient_JJ memory_NN capacity_NN to_TO store_VB all_DT past_JJ data_NNS ._.
+Online_JJ inference_NN algorithms_NNS for_IN topic_NN models_NNS have_VBP been_VBN proposed_VBN =_JJ -_: =[_NN 1_CD ,_, 4_CD ,_, 7_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Singular_JJ value_NN decomposition_NN -LRB-_-LRB- SVD_NN -RRB-_-RRB- is_VBZ used_VBN for_IN analyzing_VBG multiscale_JJ patterns_NNS in_IN streaming_NN data_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- as_RB well_RB as_IN topic_NN models_NNS ._.
+However_RB ,_, since_IN SVD_NNP assumes_VBZ Gaussian_JJ noise_NN ,_, it_PRP is_VBZ inappropriate_JJ for_IN discre_NN

@@ -1,0 +1,4 @@
+nal_JJ classifiers_NNS can_MD not_RB perform_VB very_RB well_RB when_WRB the_DT training_NN data_NNS space_NN is_VBZ very_RB limited_JJ ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT new_JJ approach_NN to_TO expand_VB the_DT training_NN data_NN space_NN -LRB-_-LRB- ETDS_NN -RRB-_-RRB- using_VBG emerging_VBG patterns_NNS -LRB-_-LRB- EPs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: and_CC genetic_JJ methods_NNS -LRB-_-LRB- GMs_NNS -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+EPs_NNS are_VBP those_DT itemsets_NNS whose_WP$ supports_NNS in_IN one_CD class_NN are_VBP significantly_RB higher_JJR than_IN their_PRP$ supports_NNS in_IN the_DT other_JJ classes_NNS ._.
+GMs_NNS are_VBP evolutionary_JJ methods_NNS that_WDT incorporate_VBP comp_NN

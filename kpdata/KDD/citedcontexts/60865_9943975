@@ -1,0 +1,4 @@
+els_NNS to_TO real_JJ values_NNS ._.
+4.2.2_FW Pairwise_FW approach_NN Several_JJ pairwise_JJ ranking_NN algorithms_NNS were_VBD tested_VBN on_IN LETOR_NN ,_, including_VBG Ranking_NNP SVM_NNP ,_, RankBoost_NNP ,_, and_CC FRank_NN ._.
+The_DT basic_JJ idea_NN of_IN Ranking_NNP SVM_NNP -LRB-_-LRB- Herbrich_NNP et_FW al._FW 1999_CD ;_: =_JJ -_: =_JJ Joachims_NNP 2002_CD -_: =--RRB-_NN is_VBZ to_TO formalize_VB learning_NN to_TO rank_VB as_IN a_DT problem_NN of_IN binary_JJ classification_NN on_IN document_NN pairs_NNS ,_, and_CC then_RB to_TO solve_VB the_DT classification_NN problem_NN using_VBG Support_NN Vector_NNP Machines_NNP ._.
+The_DT public_JJ tool_NN of_IN SVMlight_NN was_VBD

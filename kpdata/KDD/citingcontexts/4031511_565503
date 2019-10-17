@@ -1,0 +1,3 @@
+predictive_JJ behavior_NN of_IN decision_NN trees_NNS ._.
+For_IN instance_NN ,_, -LRB-_-LRB- 19_CD -RRB-_-RRB- reported_VBD that_IN for_IN small_JJ ,_, mostly_RB artificial_JJ datasets_NNS ,_, small_JJ decision_NN trees_NNS are_VBP not_RB always_RB preferable_JJ in_IN terms_NNS of_IN generalization_NN ability_NN ,_, while_IN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_JJ -_: showed_VBD that_IN when_WRB learning_VBG rules_NNS ,_, exhaustive_JJ searching_VBG and_CC overfitting_VBG are_VBP orthogonal_JJ ._.
+An_DT efficient_JJ algorithm_NN for_IN learning_VBG decision_NN trees_NNS under_IN constraints_NNS allows_VBZ us_PRP to_TO investigate_VB these_DT observations_NNS

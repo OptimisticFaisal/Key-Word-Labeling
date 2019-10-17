@@ -1,0 +1,6 @@
+lassification_NN to_TO analyze_VB email_NN con-tent_JJ -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Abu-Nimeh_NNP et_FW al._FW compare_VBP different_JJ classifiers_NNS over_IN a_DT corpus_NN of_IN phishing_NN emails_NNS ,_, using_VBG as_IN features_NNS the_DT frequency_NN of_IN the_DT 43_CD most-popular_JJ words_NNS inthecorpus_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Kolarietal_JJ ._.
+useURLsfoundwithinablogpageasfeaturestodeterminewhetherthepageisspam_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+Theyusea_NNP ``_`` bag-of-words_NNS ''_'' representationof_JJ URL_NN tokens_NNS ,_, and_CC we_PRP useasimilar_JJ setof_NN features_NNS ._.
+6.3_CD Non-Machine_NNP LearningApp_NNP

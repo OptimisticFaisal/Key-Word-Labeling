@@ -1,0 +1,4 @@
+we_PRP use_VBP the_DT BitMatrix_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, a_DT method_NN we_PRP have_VBP been_VBN developing_VBG for_IN multimedia_NNS database_NN applications_NNS ._.
+The_DT BitMatrix_NNP method_NN follows_VBZ a_DT data_NN approximation_NN approach_NN in_IN the_DT spirit_NN of_IN the_DT VA-File_JJ -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC IGrid_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, partitioning_VBG each_DT dimension_NN D_NN of_IN the_DT search_NN space_NN in_IN kD_NN ranges_NNS ._.
+A_DT partition_NN of_IN a_DT dimension_NN D_NN is_VBZ aset_NN of_IN ranges_NNS with_IN chosen_JJ upper_JJ and_CC lower_JJR bounds_NNS ._.
+The_DT partitioning_VBG scheme_NN is_VBZ used_VBN to_TO obtain_VB bitmap_FW si_FW

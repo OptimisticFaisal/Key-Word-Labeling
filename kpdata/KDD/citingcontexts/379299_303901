@@ -1,0 +1,4 @@
+one_CD and_CC only_RB one_CD cluster_NN ._.
+The_DT other_JJ branch_NN of_IN subspace_NN clustering_NN algorithms_NNS exhaustively_RB go_VBP through_IN all_DT subspaces_NNS potentially_RB containing_VBG clusters_NNS and_CC cluster_NN in_IN each_DT subspace_NN in_IN a_DT bottom-up_JJ fashion_NN =_JJ -_: =[_NN 3_CD ,_, 16_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Compared_VBN with_IN partition-based_JJ algorithms_NNS ,_, one_CD drawback_NN of_IN exhaustive_JJ subspace_NN clustering_NN is_VBZ that_IN its_PRP$ complexity_NN is_VBZ exponentially_RB asymptotic_JJ to_TO the_DT dimensionality_NN of_IN the_DT data_NNS space_NN ._.
+In_IN addition_NN ,_, it_PRP c_SYM

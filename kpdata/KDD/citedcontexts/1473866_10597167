@@ -1,0 +1,6 @@
+ilarity_NN functions_NNS is_VBZ given_VBN in_IN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+The_DT probabilistic_JJ pairwise_JJ decision_NN model_NN predicts_VBZ the_DT probability_NN that_IN two_CD objects_NNS are_VBP equivalent_JJ P_NN -LRB-_-LRB- x_NN ≡_CD y_NN -RRB-_-RRB- ._.
+This_DT step_NN is_VBZ also_RB called_VBN learning_VBG a_DT similarity_NN measure_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT predictions_NNS are_VBP based_VBN on_IN the_DT pairwise_JJ features_NNS ._.
+A_DT probabilistic_JJ classifier_NN can_MD be_VB used_VBN for_IN this_DT step_NN -LRB-_-LRB- 5_CD ,_, 19_CD -RRB-_-RRB- ._.
+At_IN last_JJ the_DT collective_JJ decision_NN model_NN utilizes_VBZ the_DT likelihood_NN of_IN pairwise_JJ decisions_NNS

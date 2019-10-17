@@ -1,0 +1,5 @@
+focus_NN has_VBZ changed_VBN from_IN object-oriented_JJ -LRB-_-LRB- 1995_CD -RRB-_-RRB- to_TO stream_NN -LRB-_-LRB- 2004_CD -RRB-_-RRB- ._.
+8_CD ._.
+RELATED_NNS WORK_VBP Tensor_NNP and_CC Multilinear_NNP Analysis_NNP :_: Tensor_NNP algebra_NN and_CC multilinear_JJ analysis_NN have_VBP been_VBN applied_VBN successfully_RB in_IN many_JJ domains_NNS =_JJ -_: =[_NN 5_CD ,_, 17_CD ,_, 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Powerful_JJ tools_NNS have_VBP been_VBN proposed_VBN ,_, including_VBG Tucker_NNP decomposition_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- ,_, parallel_JJ factor_NN analysis_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- or_CC canonical_JJ decomposition_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, and_CC bilinear_JJ PCA_NN ._.
+Tensors_NNS have_VBP been_VBN recently_RB used_VBN in_IN machine_NN vis_FW

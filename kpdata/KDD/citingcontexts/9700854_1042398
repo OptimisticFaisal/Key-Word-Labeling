@@ -1,0 +1,4 @@
+ose_NN in_IN the_DT training_NN data_NNS ._.
+Previous_JJ work_NN on_IN semi-supervised_JJ classification_NN have_VBP shown_VBN that_IN combining_VBG labeled_JJ and_CC unlabeled_JJ data_NNS with_IN different_JJ distributions_NNS may_MD degrade_VB the_DT performance_NN of_IN a_DT classifier_NN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP encountered_VBD a_DT similar_JJ problem_NN when_WRB applying_VBG the_DT semi-supervised_JJ HMMR_NN method_NN to_TO climate_NN data_NNS ._.
+To_TO address_VB this_DT problem_NN ,_, we_PRP developed_VBD an_DT approach_NN that_WDT will_MD transform_VB the_DT data_NNS set_VBN in_IN a_DT way_NN that_IN align_NN

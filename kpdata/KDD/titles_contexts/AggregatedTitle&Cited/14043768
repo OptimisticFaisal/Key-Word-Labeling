@@ -1,0 +1,6 @@
+Mining_NNP closed_VBD episodes_NNS with_IN simultaneous_JJ events_NNS
+X_NN ⊂_NN Y_NN and_CC both_CC X_NN and_CC Y_NN are_VBP frequent_JJ episodes_NNS ._.
+Specific_JJ algorithms_NNS were_VBD given_VBN for_IN the_DT case_NN of_IN parallel_NN and_CC serial_NN episodes_NNS ,_, but_CC no_DT algorithm_NN for_IN detecting_VBG general_JJ episodes_NNS was_VBD provided_VBN ._.
+Tatti_NNP and_CC Cule_NNP =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: extend_VB the_DT definition_NN of_IN an_DT episode_NN to_TO be_VB able_JJ to_TO depict_VB simultaneous_JJ events_NNS ._.
+They_PRP provide_VBP an_DT algorithm_NN for_IN generating_VBG all_DT frequent_JJ episodes_NNS ,_, but_CC no_DT association_NN rules_NNS ._.
+Mannila_FW et_FW al._FW also_RB propose_VBP Min_NN

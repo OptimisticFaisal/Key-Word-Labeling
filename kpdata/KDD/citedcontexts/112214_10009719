@@ -1,0 +1,3 @@
+to_TO several_JJ recent_JJ papers_NNS mentioned_VBN in_IN the_DT introduction_NN ,_, which_WDT explicitly_RB use_VBP spreading_NN activation_NN to_TO build_VB recommender_NN systems_NNS ,_, we_PRP can_MD a_DT few_JJ other_JJ examples_NNS of_IN using_VBG various_JJ graph-based_JJ approaches_NNS ._.
+In_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT authors_NNS presented_VBD a_DT theoretic_JJ approach_NN where_WRB users_NNS are_VBP modeled_VBN as_IN nodes_NNS in_IN a_DT directed_JJ graph_NN and_CC the_DT directed_JJ links_NNS represent_VBP how_WRB representative_JJ is_VBZ a_DT user_NN of_IN another_DT user_NN 's_POS behavior_NN ._.
+In_IN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, the_DT

@@ -1,0 +1,5 @@
+putation_NN ._.
+A_DT generalized_JJ approach_NN for_IN K-way_NN graph_NN clustering_NN was_VBD presented_VBN in_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+The_DT computation_NN cost_NN of_IN these_DT algorithms_NNS is_VBZ at_IN least_JJS quadratic_JJ with_IN respect_NN to_TO the_DT input_NN data_NN size_NN ._.
+Dhillon_NNP et_NNP al_NNP in_IN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: gave_VBD an_DT information_NN theoretic_JJ biclustering_NN -LRB-_-LRB- Co-Clustering_NN -RRB-_-RRB- algorithm_NN ._.
+They_PRP treat_VBP the_DT -LRB-_-LRB- normalized_VBN -RRB-_-RRB- non-negative_JJ contingency_NN table_NN as_IN a_DT joint_JJ probability_NN distribution_NN between_IN two_CD discrete_JJ random_JJ variab_NN

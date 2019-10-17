@@ -1,0 +1,4 @@
+while_IN retaining_VBG execution_NN of_IN the_DT application_NN as_IN a_DT whole_NN ._.
+A_DT migrationcan_NN be_VB triggered_VBN by_IN an_DT abnormal_JJ event_NN of_IN system_NN health_NN status_NN such_JJ as_IN reported_VBN by_IN IPMI_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- or_CC other_JJ failure_NN prediction_NN models_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ design_NN also_RB enables_VBZ direct_JJ user_NN intervention_NN to_TO trigger_VB a_DT migration_NN ,_, such_JJ as_IN for_IN loadbalancing_NN or_CC system_NN maintenance_NN purposes_NNS ._.
+Once_RB a_DT migration_NN is_VBZ triggered_VBN ,_, coordinated_VBN actions_NNS are_VBP taken_VBN by_IN all_DT

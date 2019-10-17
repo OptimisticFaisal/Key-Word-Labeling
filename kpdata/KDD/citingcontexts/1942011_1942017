@@ -1,0 +1,4 @@
+ariables_NNS ._.
+For_IN categorical_JJ target_NN variables_NNS ,_, naïve_JJ Bayes_NNP modeling_NN with_IN forward_JJ stepwise_JJ feature_NN selection_NN is_VBZ employed_VBN ._.
+The_DT detailed_JJ technical_JJ descriptions_NNS of_IN these_DT algorithms_NNS appear_VBP in_IN separate_JJ papers_NNS =_JJ -_: =_JJ -LRB-_-LRB- 9_CD ,_, 10_CD -RRB-_-RRB- ._.
+In_IN -_: =_JJ -_: the_DT case_NN of_IN the_DT IBM_NNP Underwriting_NN Profitability_NNP Analysis_NNP ™_NNP -LRB-_-LRB- IBM_NNP UPA_NNP ™_NNP -RRB-_-RRB- application_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, joint_JJ Poisson\/Log-Normal_JJ statistical_JJ models_NNS are_VBP constructed_VBN for_IN each_DT segment_NN to_TO simultaneously_RB model_VB both_DT the_DT

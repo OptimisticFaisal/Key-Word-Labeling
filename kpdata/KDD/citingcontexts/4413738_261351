@@ -1,0 +1,4 @@
+approach_NN that_WDT does_VBZ not_RB rely_VB on_IN selection_NN of_IN landmark_NN nodes_NNS ._.
+-LRB-_-LRB- 26_CD -RRB-_-RRB- This_DT concept_NN has_VBZ recently_RB been_VBN explored_VBN theoretically_RB as_IN a_DT technique_NN for_IN distance_NN estimation_NN and_CC nearest_JJS neighbor_NN searches_NNS by_IN Slivkins_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Krauthgamer_NNP -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+However_RB ,_, it_PRP is_VBZ unclear_JJ how_WRB accurately_RB any_DT of_IN these_DT strategies_NNS perform_VBP on_IN domains_NNS other_JJ than_IN the_DT Internet_NN or_CC for_IN the_DT purposes_NNS of_IN approximating_VBG network_NN statistics_NNS ._.
+Additionally_RB ,_, o_NN

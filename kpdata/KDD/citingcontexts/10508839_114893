@@ -1,0 +1,4 @@
+ling_IN the_DT data_NNS sets_NNS ._.
+Previous_JJ work_NN -LRB-_-LRB- see_VB ,_, e.g._FW ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- -RRB-_-RRB- has_VBZ indicated_VBN that_IN over-sampling_VBG the_DT minority_NN class_NN can_MD cause_VB overfitting_NN ,_, and_CC may_MD not_RB be_VB helpful_JJ to_TO improve_VB predictive_JJ performance_NN ._.
+Other_JJ research_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: shows_VBZ that_IN keeping_VBG all_DT examples_NNS of_IN the_DT rare_JJ class_NN ,_, and_CC under-sampling_JJ the_DT majority_NN class_NN to_TO be_VB about_IN the_DT same_JJ as_IN the_DT rare_JJ class_NN performs_VBZ well_RB measured_VBN by_IN AUC_NN ._.
+Thus_RB ,_, we_PRP will_MD use_VB this_DT simple_JJ strategy_NN ._.

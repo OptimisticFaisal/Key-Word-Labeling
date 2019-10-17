@@ -1,0 +1,5 @@
+d_NN with_IN a_DT list_NN of_IN categories_NNS ._.
+Each_DT leaf_NN node_NN has_VBZ only_RB one_CD category_NN ._.
+This_DT algorithm_NN basically_RB uses_VBZ two_CD centroids_NNS of_IN categories_NNS which_WDT are_VBP furthest_JJS as_IN the_DT initial_JJ seeds_NNS and_CC then_RB applies_VBZ Spherical_JJ K-Means_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: with_IN k_NN =_JJ 2_CD to_TO divide_VB the_DT cluster_NN into_IN 2_CD sub-clusters_NNS ._.
+Each_DT category_NN is_VBZ assigned_VBN to_TO one_CD sub-cluster_NN if_IN most_JJS of_IN its_PRP$ documents_NNS belong_VBP to_TO the_DT sub-cluster_NN -LRB-_-LRB- its_PRP$ ratio_NN exceeds_VBZ a_DT predefined_JJ parameter_NN -RRB-_-RRB- ._.
+Other_JJ

@@ -1,0 +1,4 @@
+er_RB ,_, explicit_JJ feedback_NN is_VBZ not_RB always_RB available_JJ ._.
+Thus_RB ,_, recommenders_NNS can_MD infer_VB user_NN preferences_NNS from_IN the_DT more_RBR abundant_JJ implicit_JJ feedback_NN ,_, which_WDT indirectly_RB reflect_VBP opinion_NN through_IN observing_VBG user_NN behavior_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Types_NNS of_IN implicit_JJ feedback_NN include_VBP purchase_NN history_NN ,_, browsing_VBG history_NN ,_, search_NN patterns_NNS ,_, or_CC even_RB mouse_NN movements_NNS ._.
+For_IN example_NN ,_, a_DT user_NN that_WDT purchased_VBD many_JJ books_NNS by_IN the_DT same_JJ author_NN probably_RB likes_VBZ that_IN

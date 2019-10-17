@@ -1,0 +1,4 @@
+of_IN ore_NN -_: frameryork_NN through_IN simulation_NN and_CC experimental_JJ applications_NNS to_TO real_JJ stock_NN market_NN data_NN analysis_NN ._.
+1.2_CD Related_NNP Work_NNP Outlier_NNP detection_NN for_IN non-stationary_JJ sources_NNS has_VBZ been_VBN considered_VBN in_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN vhich_JJ adaptive_JJ outlier_NN detection_NN algorithms_NNS have_VBP been_VBN proposed_VBN ._.
+However_RB ,_, they_PRP did_VBD not_RB make_VB any_DT explicit_JJ statistical_JJ modeling_NN so_IN that_DT time_NN series_NN data_NNS can_MD be_VB dealt_VBN vith_NN ._.
+We_PRP employ_VBP the_DT AR_NN model_NN to_TO

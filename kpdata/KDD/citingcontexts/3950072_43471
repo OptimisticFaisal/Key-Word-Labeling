@@ -1,0 +1,4 @@
+will_MD not_RB be_VB sufficient_JJ ._.
+Usually_RB ,_, a_DT set_NN of_IN test_NN cases_NNS satisfying_VBG certain_JJ code_NN coverage_NN -LRB-_-LRB- i.e._FW ,_, every_DT statements_NNS are_VBP executed_VBN -RRB-_-RRB- or_CC branch_NN coverage_NN -LRB-_-LRB- i.e._FW ,_, every_DT branch_NN decision_NN is_VBZ taken_VBN -RRB-_-RRB- criterion_NN -LRB-_-LRB- c.f._NN ,_, =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =--RRB-_NN is_VBZ required_VBN to_TO test_VB the_DT correctness_NN of_IN a_DT software_NN system_NN ._.
+Running_VBG this_DT test_NN suite_NN over_IN an_DT instrumented_JJ software_NN will_MD generate_VB the_DT desired_VBN traces_NNS ._.
+To_TO mine_VB software_NN temporal_JJ patterns_NNS having_VBG the_DT above_JJ

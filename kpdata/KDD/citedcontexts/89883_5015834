@@ -1,0 +1,5 @@
+phs_NNS such_JJ that_IN graphs_NNS that_WDT do_VBP not_RB contain_VB important_JJ and_CC highly_RB conserved_VBN nodes_NNS are_VBP excluded_VBN ._.
+This_DT leads_VBZ to_TO the_DT problem_NN of_IN frequent_JJ subgraph_JJ mining_NN ,_, for_IN which_WDT a_DT number_NN of_IN approaches_NNS have_VBP been_VBN described_VBN =_JJ -_: =[_NN 17_CD ,_, 19_CD ,_, 25_CD ,_, 28_CD ,_, 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT are_VBP typically_RB extensions_NNS of_IN the_DT apriori-algorithm_NN for_IN frequent_JJ subset_NN mining_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC operate_VBP similarly_RB ._.
+Yet_RB ,_, such_JJ approaches_NNS are_VBP computationally_RB quite_RB demanding_VBG ._.
+In_IN particular_JJ ,_, for_IN large_JJ struc_NN

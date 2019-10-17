@@ -1,0 +1,4 @@
+zation_NN techniques_NNS to_TO achieve_VB the_DT privacy_NN requirements_NNS ._.
+One_CD popular_JJ approach_NN to_TO anonymize_VB the_DT data_NNS is_VBZ generalization_NN and_CC suppression_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+In_IN generalization_NN ,_, some_DT generalization_NN schemes_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 22_CD -RRB-_-RRB- have_VBP the_DT consistency_NN property_NN ,_, which_WDT means_VBZ multiple_JJ occurrences_NNS of_IN the_DT same_JJ value_NN are_VBP always_RB generalized_VBN in_IN the_DT same_JJ way_NN ,_, i.e._FW ,_, they_PRP are_VBP replaced_VBN with_IN the_DT same_JJ value_NN ._.
+A_DT serious_JJ defect_NN of_IN

@@ -1,0 +1,4 @@
+between_IN data_NNS points_NNS from_IN the_DT same_JJ class_NN under_IN the_DT metric_NN is_VBZ small_JJ ._.
+The_DT metric_NN improves_VBZ the_DT separability_NN of_IN the_DT data_NNS and_CC enhances_VBZ the_DT performance_NN of_IN classifiers_NNS ,_, such_JJ as_IN K-Nearest-Neighbor_NN -LRB-_-LRB- K-NN_NN -RRB-_-RRB- ._.
+In_IN =_JJ -_: =[_NN 9_CD ,_, 19_CD ,_, 37_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT linear_JJ projection_NN is_VBZ performed_VBN to_TO learn_VB the_DT distance_NN metric_NN for_IN clustering_NN ,_, which_WDT assumes_VBZ linear_JJ separability_NN of_IN the_DT data_NNS as_IN in_IN -LRB-_-LRB- 26_CD ,_, 32_CD -RRB-_-RRB- ._.
+However_RB ,_, many_JJ real-world_JJ applications_NNS may_MD involve_VB data_NNS wit_NN

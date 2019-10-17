@@ -1,0 +1,5 @@
+gies_NNS is_VBZ established_VBN ._.
+Most_JJS product_NN and_CC pricing_NN data_NNS is_VBZ stored_VBN today_NN in_IN relational_JJ databases_NNS and_CC can_MD be_VB easily_RB reused_VBN on_IN the_DT Semantic_JJ Web_NN ._.
+There_EX are_VBP different_JJ approaches_NNS to_TO map_VB relational_JJ data_NNS into_IN RDF_NN =_JJ -_: =[_NN 15_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+After_IN the_DT mapping_NN ,_, the_DT RDF_NNP data_NN is_VBZ published_VBN using_VBG standard_JJ Web_NN servers_NNS like_IN Apache_NNP or_CC specialized_JJ query_NN interfaces_NNS as_IN in_IN -LRB-_-LRB- 12_CD ,_, 22_CD -RRB-_-RRB- ._.
+All_PDT the_DT published_VBN information_NN will_MD be_VB accessed_VBN by_IN potential_JJ buyers_NNS

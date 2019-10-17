@@ -1,0 +1,7 @@
+tem_NN ._.
+Sesame_NNP supports_VBZ RDF\/RDF_NN Schema_NN inference_NN ,_, but_CC is_VBZ an_DT incomplete_JJ reasoner_NN for_IN OWL_NNP Lite_NNP ._.
+Nevertheless_RB ,_, it_PRP has_VBZ been_VBN used_VBN on_IN a_DT wide_JJ number_NN of_IN Semantic_JJ Web_NN projects_NNS ._.
+Sesame_NNP can_MD evaluate_VB queries_NNS in_IN RQL_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: ,_, SeRQL_NN -LRB-_-LRB- 45_CD -RRB-_-RRB- ,_, and_CC RDQL_NN -LRB-_-LRB- 31_CD -RRB-_-RRB- ._.
+We_PRP evaluate_VBP two_CD implementations_NNS of_IN Sesame_NNP ,_, main_JJ memory-based_JJ and_CC database-based_JJ ._.
+Partial_JJ OWL_NNP Lite_NNP Reasoning_NN KAON_NN -LRB-_-LRB- 39_CD -RRB-_-RRB- is_VBZ an_DT ontology_JJ management_NN infrastructure_NN ._.
+It_PRP provides_VBZ

@@ -1,0 +1,3 @@
+and_CC not_RB on_IN the_DT relative_JJ order_NN in_IN which_WDT they_PRP appear_VBP ._.
+It_PRP has_VBZ been_VBN shown_VBN that_IN the_DT number_NN of_IN distinct_JJ references_NNS in_IN a_DT segment_NN of_IN a_DT trace_NN increases_VBZ with_IN the_DT size_NN of_IN the_DT segment_NN ,_, even_RB for_IN very_RB large_JJ traces_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Thus_RB ,_, to_TO compare_VB different_JJ traces_NNS ,_, we_PRP need_VBP to_TO normalize_VB H_NN -LRB-_-LRB- X_NN -RRB-_-RRB- for_IN the_DT number_NN of_IN distinct_JJ objects_NNS referenced_VBD ;_: the_DT appropriate_JJ normalization_NN is_VBZ the_DT largest_JJS possible_JJ value_NN of_IN H_NN -LRB-_-LRB- X_NN -RRB-_-RRB- ,_, which_WDT is_VBZ log2_NNP N._NNP Henc_NNP

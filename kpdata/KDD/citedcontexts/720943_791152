@@ -1,0 +1,5 @@
+g_NN -RRB-_-RRB- benign_JJ cases_NNS ._.
+In_IN order_NN to_TO obtain_VB a_DT varied_JJ set_NN of_IN rules_NNS ,_, we_PRP ran_VBD Aleph_NNP using_VBG every_DT positive_JJ example_NN in_IN each_DT fold_NN served_VBD as_IN a_DT seed_NN for_IN the_DT search_NN ._.
+We_PRP avoid_VBP the_DT rule_NN overfitting_NN found_VBN by_IN other_JJ authors_NNS =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: by_IN doing_VBG breadth-first_JJ search_NN for_IN rules_NNS and_CC by_IN having_VBG a_DT minimal_JJ limit_NN on_IN coverage_NN ._.
+Each_DT seed_NN generated_VBD anywhere_RB from_IN zero_NN to_TO tens_NNS of_IN thousands_NNS of_IN rules_NNS ._.
+We_PRP post_VBP processed_VBN the_DT rules_NNS using_VBG a_DT greedy_JJ alg_NN

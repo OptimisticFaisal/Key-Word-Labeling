@@ -1,0 +1,3 @@
+d_NN Subject_NNP Descriptors_NNP H._NNP 2.8_CD -LRB-_-LRB- Database_NNP Management_NNP -RRB-_-RRB- :_: Database_NN Applications_NNS --_: Data_NNP Mining_NNP General_NNP Terms_NNS Algorithms_NNPS Keywords_NNPS collaborative_JJ filtering_VBG ,_, recommender_NN systems_NNS 1_CD ._.
+INTRODUCTION_NNP Recommender_NNP systems_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP programs_NNS and_CC algorithms_NNS that_WDT measure_VBP the_DT user_NN interest_NN in_IN given_VBN items_NNS or_CC products_NNS to_TO provide_VB personalized_JJ recommendations_NNS for_IN items_NNS that_WDT will_MD suit_VB the_DT user_NN 's_POS taste_NN ._.
+More_RBR broadly_RB ,_, recommender_NN syst_NN

@@ -1,0 +1,4 @@
+es_NNS -LRB-_-LRB- 5_CD ,_, 6_CD ,_, 2_CD -RRB-_-RRB- ._.
+Although_IN existing_VBG algorithms_NNS for_IN mining_NN quasi-cliques_NNS from_IN a_DT set_NN of_IN graphs_NNS generate_VBP the_DT complete_JJ result_NN ,_, they_PRP have_VBP not_RB fully_RB exploited_VBN the_DT pruning_NN power_NN of_IN the_DT minimum_JJ degree_NN constraint_NN =_JJ -_: =[_NN 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP an_DT efficient_JJ algorithm_NN called_VBN Quick_NNP to_TO mine_VB quasicliques_NNS ,_, which_WDT uses_VBZ several_JJ effective_JJ pruning_NN techniques_NNS based_VBN on_IN the_DT degree_NN of_IN the_DT vertices_NNS ._.
+These_DT pruning_NN techniques_NNS can_MD

@@ -1,0 +1,4 @@
+provide_VB further_JJ reduction_NN of_IN monitoring_NN data_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+In_IN the_DT context_NN of_IN attack_NN detection_NN ,_, three_CD approaches_NNS should_MD be_VB mentioned_VBN ._.
+Mahoney_NNP et_FW al._FW developed_VBD a_DT self-learning_JJ system_NN for_IN traffic_NN classification_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Conti_NNP et_FW al._FW analyzed_VBN fingerprints_NNS of_IN attack_NN tools_NNS -LRB-_-LRB- 4_LS -RRB-_-RRB- These_DT studies_NNS open_VBP a_DT new_JJ research_NN field_NN for_IN signature-based_JJ traffic_NN analysis_NN using_VBG flow_NN data_NNS ._.
+3_CD Lab_NN Environment_NNP Honeypot_NNP lab_NN --_: For_IN our_PRP$ tests_NNS

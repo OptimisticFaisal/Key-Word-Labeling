@@ -1,0 +1,3 @@
+reconstruction_NN schemes_NNS for_IN these_DT co-clustering_JJ algorithms_NNS ?_.
+We_PRP show_VBP that_IN alternate_JJ minimization_NN based_VBN co-clustering_JJ algorithms_NNS work_VBP for_IN a_DT large_JJ class_NN of_IN distortion_NN measures_NNS called_VBN Bregman_NNP divergences_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT include_VBP squared_VBN Euclidean_JJ distance_NN ,_, KL-divergence_NN ,_, Itakura-Saito_JJ distance_NN ,_, etc._NN ,_, as_IN special_JJ cases_NNS ._.
+Further_RB ,_, we_PRP demonstrate_VBP that_IN for_IN a_DT given_VBN co-clustering_NN ,_, a_DT large_JJ variety_NN of_IN approximation_NN mode_NN

@@ -1,0 +1,4 @@
+th_DT the_DT previous_JJ clustering_NN result_NN ._.
+This_DT temporal_JJ smoothing_NN allows_VBZ us_PRP to_TO control_VB the_DT balance_NN between_IN temporal_JJ noise_NN and_CC true_JJ concept_NN drift_NN of_IN temporal_JJ patterns_NNS ._.
+Several_JJ evolutionary_JJ clustering_NN methods_NNS =_JJ -_: =[_NN 5_CD ,_, 21_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN proposed_VBN under_IN the_DT temporal_JJ smoothness_NN framework_NN ._.
+Especially_RB ,_, FacetNet_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- has_VBZ several_JJ advanced_JJ features_NNS such_JJ as_IN allowing_VBG attachment\/detachment_NN of_IN nodes_NNS and_CC explicitly_RB handling_VBG general_JJ dyn_NN

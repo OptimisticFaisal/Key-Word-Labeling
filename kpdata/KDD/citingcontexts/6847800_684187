@@ -1,0 +1,5 @@
+saugment_NN the_DT heuristic_NN by_IN enumerating_VBG all_DT or_CC many_JJ maximal_JJ matchings_NNS ,_, and_CC choosing_VBG from_IN among_IN them_PRP based_VBN on_IN the_DT actual_JJ coloring_NN cost_NN ._.
+The_DT enumeration_NN can_MD be_VB done_VBN efficiently_RB ,_, in_IN time_NN O_NN -LRB-_-LRB- n_NN -RRB-_-RRB- per_IN matching_NN =_JJ -_: =[_NN 37_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT bipartite_JJ matching_NN heuristic_NN intuitively_RB aims_VBZ to_TO minimize_VB i-costs_NNS ,_, but_CC does_VBZ not_RB take_VB g-costs_NNS into_IN account_NN as_IN much_JJ ._.
+Thus_RB ,_, it_PRP tends_VBZ to_TO perform_VB well_RB with_IN fairly_RB stable_JJ community_NN membership_NN ._.
+However_RB

@@ -1,0 +1,6 @@
+-RRB-_-RRB- 2_CD -LRB-_-LRB- 0_CD 1_CD -RRB-_-RRB- ._.
+The_DT join_VBP of_IN L_NN -LRB-_-LRB- 1_CD ;_: 0_CD -RRB-_-RRB- \_CD L_NN -LRB-_-LRB- 2_CD ;_: 0_CD -RRB-_-RRB- leads_VBZ to_TO an_DT out-scope_JJ test_NN ._.
+We_PRP need_VBP to_TO test_VB for_IN disjoint_JJ scopes_NNS ,_, with_IN s_NN 1s2_NN ,_, which_WDT have_VBP the_DT same_JJ match_NN label_NN ._.
+For_IN example_NN we_PRP find_VBP that_IN s_NN 1_CD =_JJ -LRB-_-LRB- 3_CD ;_: 3_LS -RRB-_-RRB- and_CC s_NN 2_CD =_JJ =_JJ -_: =[_NN 4_CD ;_: 4_LS -RRB-_-RRB- -_: =_SYM -_: satisfy_VB these_DT condition_NN ._.
+Thus_RB we_PRP add_VBP the_DT triple_JJ -LRB-_-LRB- 0_CD ;_: -LRB-_-LRB- 4_CD ;_: 4_LS -RRB-_-RRB- ;_: 03_CD -RRB-_-RRB- to_TO L_NN -LRB-_-LRB- 2_CD ;_: 0_CD -RRB-_-RRB- 2_CD -LRB-_-LRB- 0_CD 1_CD -RRB-_-RRB- ._.
+For_IN each_DT pair_NN of_IN scopes_NNS s_NN 1_CD and_CC s_NN 2_CD that_WDT satisfy_VBP the_DT three_CD conditions_NNS ,_, we_PRP add_VBP an_DT entry_NN to_TO the_DT new_JJ candidate_NN 's_POS scope_NN

@@ -1,0 +1,3 @@
+dditionally_RB ,_, we_PRP only_RB need_VBP to_TO examine_VB rules_NNS among_IN adjacent_JJ closed_JJ sets_NNS in_IN the_DT lattice_NN ,_, since_IN the_DT others_NNS may_MD be_VB inferred_VBN through_IN transitivity_NN ._.
+For_IN a_DT rigorous_JJ proof_NN of_IN the_DT preceeding_VBG two_CD statements_NNS ,_, see_VBP =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN a_DT given_VBN edge_NN of_IN the_DT lattice_NN ,_, each_DT direction_NN will_MD produce_VB two_CD rules_NNS ;_: the_DT direction_NN from_IN superset_NN to_TO subset_NN will_MD produce_VB a_DT rule_NN with_IN 100_CD %_NN confidence_NN ,_, while_IN the_DT reverse_JJ direction_NN will_MD produce_VB a_DT rul_NN

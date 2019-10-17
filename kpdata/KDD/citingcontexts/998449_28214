@@ -1,0 +1,4 @@
+,_, 31_CD -RRB-_-RRB- ._.
+A_DT great_JJ deal_NN of_IN the_DT published_VBN work_NN follows_VBZ the_DT same_JJ paradigm_NN of_IN training_NN a_DT Spam_NNP classifier_NN given_VBN examples_NNS of_IN Spam_NNP emails_NNS ._.
+For_IN example_NN ,_, Naïve_NNP Bayes_NNP models_NNS to_TO detect_VB Spam_NNP was_VBD first_RB introduced_VBN by_IN =_JJ -_: =[_NN 36_CD -RRB-_-RRB- -_: =_SYM -_: with_IN a_DT Bernoulli_NNP word_NN vector_NN model_NN ._.
+SVM-based_JJ spam_NN detection_NN models_NNS -LRB-_-LRB- 21_CD ,_, 24_CD -RRB-_-RRB- and_CC boosting_VBG spam_NN models_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- were_VBD compared_VBN in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC genetic_JJ algorithms_NNS versus_CC Naïve_JJ Bayes_NNS were_VBD introduced_VBN and_CC evaluated_VBN

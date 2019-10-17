@@ -1,0 +1,7 @@
+d_NN to_TO describe_VB the_DT rules_NNS ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- extends_VBZ this_DT technique_NN to_TO includesFigure_NN 1_CD ._.
+Customers_NNS ,_, books_NNS and_CC their_PRP$ authors_NNS ._.
+-LRB-_-LRB- Arrows_NNS denote_VBP 1-many_JJ relationships_NNS -RRB-_-RRB- single-feature_JJ aggregation_NN functions_NNS ._.
+The_DT approach_NN of_IN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ virtual_JJ features_NNS to_TO summarize_VB tuples_NNS not_RB contained_VBN in_IN the_DT target_NN table_NN ._.
+It_PRP relies_VBZ on_IN discretization_NN resulting_VBG in_IN information_NN loss_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB- proposes_VBZ a_DT probabilistic_JJ model_NN to_TO learn_VB cluster_NN labels_NNS

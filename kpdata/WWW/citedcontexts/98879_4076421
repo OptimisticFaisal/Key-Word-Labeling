@@ -1,0 +1,3 @@
+sed_JJ algorithm_NN is_VBZ user-user_JJ k-nearest_NN neighbor_NN algorithm_NN ._.
+Model_NNP based_VBN algorithms_NNS include_VBP methods_NNS based_VBN on_IN rating_NN matrix_NN decomposition_NN :_: for_IN example_NN SVD_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, MMMF_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, and_CC other_JJ methods_NNS like_IN item-item_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Bayes-networks_JJ -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, personality_NN diagnosis_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Collaborative_JJ filtering_VBG research_NN has_VBZ been_VBN addressing_VBG many_JJ areas_NNS including_VBG prediction_NN accuracy_NN ,_, scalability_NN ,_, cold_JJ start_NN problem_NN ,_, robustness_NN and_CC recomme_NN

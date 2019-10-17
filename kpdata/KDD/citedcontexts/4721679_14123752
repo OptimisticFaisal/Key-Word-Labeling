@@ -1,0 +1,5 @@
+mmarization_NN efficiency_NN ,_, cluster_NN matching_NN efficiency_NN and_CC matching_JJ quality_NN ._.
+2_CD ._.
+RELATED_NNS WORK_VBP The_DT concept_NN of_IN density-basedclustering_NN was_VBD first_RB proposed_VBN in_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+It_PRP has_VBZ drawn_VBN significant_JJ research_NN attention_NN =_JJ -_: =[_NN 7_CD ,_, 16_CD ,_, 17_CD ,_, 12_CD ,_, 3_CD ,_, 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, because_IN of_IN its_PRP$ capability_NN of_IN identifying_VBG clusters_NNS with_IN arbitrary_JJ shapes_NNS and_CC specified_VBN density_NN ._.
+Previous_JJ work_NN mainly_RB studied_VBD how_WRB to_TO efficiently_RB extract_VB such_JJ clusters_NNS in_IN static_JJ -LRB-_-LRB- 8_CD ,_, 7_CD ,_, 12_CD -RRB-_-RRB- or_CC streaming_NN

@@ -1,0 +1,7 @@
+if_IN |_NNP A_NNP ∩_NNP B_NNP |_NNP is_VBZ greater_JJR than_IN |_NNP A_NNP ∩_NNP C_NNP |_NNP or_CC |_NNP B_NNP ∩_NNP C_NNP |_NNP ._.
+THEOREM_NN 1_CD ._.
+The_DT maximal_JJ matching_NN problem_NN as_IN stated_VBN above_IN is_VBZ NP-hard_JJ ._.
+Proof_NN By_IN reduction_NN from_IN maximal_JJ bipartite_JJ -LRB-_-LRB- k_NN ,_, ∗_NN -RRB-_-RRB- -_: clique_NN in_IN a_DT bipartite_JJ graph_NN ._.
+=_SYM -_: =[_NN 37_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Fortunately_RB ,_, there_EX are_VBP a_DT number_NN of_IN heuristics_NNS that_WDT can_MD be_VB employed_VBN to_TO map_VB locations_NNS based_VBN on_IN semantic_JJ information_NN available_JJ within_IN programs_NNS ._.
+We_PRP describe_VBP below_IN heuristics_NNS that_WDT match_VBP the_DT attribute_NN set_NN

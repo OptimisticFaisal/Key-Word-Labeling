@@ -1,0 +1,4 @@
+this_DT task_NN ,_, since_IN it_PRP would_MD allow_VB discovering_VBG useful_JJ deletion_NN sequences_NNS by_IN developing_VBG a_DT stochastic_JJ model_NN based_VBN on_IN the_DT gaps_NNS created_VBN when_WRB computing_VBG minimum-cost_JJ alignments_NNS ._.
+Substructure_NN discovery_NN methods_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: could_MD also_RB be_VB used_VBN to_TO identify_VB useful_JJ edit_NN operation_NN sequences_NNS that_WDT include_VBP different_JJ edit_NN operations_NNS ._.
+7_CD ._.
+CONCLUSIONS_NNS Duplicate_VBP detection_NN is_VBZ an_DT important_JJ problem_NN in_IN data_NNS cleaning_NN ,_, and_CC an_DT adaptive_JJ app_NN

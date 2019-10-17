@@ -1,0 +1,4 @@
+matic_JJ -RRB-_-RRB- tuning_NN of_IN specific_JJ ranking_JJ functions_NNS ._.
+Previous_JJ work_NN estimates_VBZ the_DT weights_NNS through_IN regression_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Recent_JJ work_NN on_IN this_DT ranking_JJ problem_NN attempts_NNS to_TO directly_RB optimize_VB the_DT ordering_VBG of_IN the_DT objects_NNS =_JJ -_: =[_NN 3_CD ,_, 22_CD ,_, 32_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN discussed_VBN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, there_EX are_VBP generally_RB two_CD ways_NNS to_TO utilize_VB the_DT explored_VBN social_JJ features_NNS for_IN dynamic_JJ ranking_NN of_IN web_NN pages_NNS :_: -LRB-_-LRB- a_LS -RRB-_-RRB- treating_VBG the_DT social_JJ actions_NNS as_IN independent_JJ evidence_NN for_IN ranking_JJ result_NN

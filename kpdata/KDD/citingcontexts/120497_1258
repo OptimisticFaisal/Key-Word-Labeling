@@ -1,0 +1,4 @@
+uristic_JJ or_CC a_DT discriminatory_JJ approach_NN -LRB-_-LRB- 15_CD ,_, 1_CD ,_, 16_CD -RRB-_-RRB- ._.
+Perhaps_RB the_DT most_RBS noteworthy_JJ generative_JJ approach_NN for_IN clustering_VBG high-dimensional_JJ data_NNS is_VBZ to_TO use_VB mixtures_NNS of_IN Gaussians_NNP -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Certain_JJ other_JJ works_NNS such_JJ as_IN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: use_VB a_DT generative_JJ model_NN from_IN the_DT exponential_JJ family_NN and_CC have_VBP been_VBN explicitly_RB developed_VBN for_IN modeling_NN text_NN ._.
+The_DT spkmeans_NNS algorithm_NN for_IN clustering_NN normalized_VBD data_NNS was_VBD proposed_VBN in_IN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, while_IN the_DT connecti_NN

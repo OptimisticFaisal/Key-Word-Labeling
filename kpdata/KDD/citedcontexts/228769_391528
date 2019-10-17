@@ -1,0 +1,6 @@
+apping_NN clusters_NNS ,_, as_IN documents_NNS can_MD be_VB assigned_VBN to_TO more_JJR than_IN one_CD cluster_NN or_CC topic_NN ._.
+Frequent_JJ Term_NN Set_NN -LRB-_-LRB- FTS_NN -RRB-_-RRB- clustering_NN is_VBZ a_DT state_NN of_IN the_DT art_NN approach_NN to_TO text_NN clustering_NN that_WDT can_MD deal_VB with_IN these_DT problems_NNS =_JJ -_: =[_NN 3,4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT general_JJ idea_NN of_IN FTS_NN clustering_NN is_VBZ based_VBN on_IN mining_NN frequent_JJ items_NNS sets_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Each_DT document_NN is_VBZ modeled_VBN as_IN a_DT set_NN of_IN terms_NNS ._.
+FTS_NNS are_VBP subsets_NNS of_IN terms_NNS that_WDT co-occur_VBP in_IN many_JJ documents_NNS ._.
+Formally_RB ,_, this_DT ca_MD

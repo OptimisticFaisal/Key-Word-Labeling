@@ -1,0 +1,5 @@
+the_DT similarity_NN between_IN two_CD vertices_NNS in_IN a_DT graph_NN for_IN community_NN detection_NN ._.
+Other_JJ studies_NNS which_WDT use_VBP random_JJ walk_NN with_IN restarts_NNS include_VBP connection_NN subgraph_JJ discovery_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC center-piece_FW subgraph_FW discovery_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Liu_NNP et_FW al._FW -LRB-_-LRB- 14_CD -RRB-_-RRB- proposed_VBN to_TO use_VB random_JJ walk_NN with_IN restart_VB to_TO discover_VB subgraphs_NNS that_WDT exhibit_VBP significant_JJ changes_NNS in_IN evolving_VBG networks_NNS ._.
+7_CD ._.
+CONCLUSIONS_NNS In_IN this_DT paper_NN ,_, we_PRP solve_VBP the_DT problem_NN of_IN graph_NN clus_NNS

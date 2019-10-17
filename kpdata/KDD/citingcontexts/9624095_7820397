@@ -1,0 +1,5 @@
+ies_NNS in_IN any_DT sequence_NN were_VBD more_JJR than_IN 10_CD minutes_NNS apart_RB 4_CD ._.
+Each_DT such_JJ sequence_NN was_VBD defined_VBN to_TO be_VB an_DT user_NN session_NN ._.
+While_IN user_NN session_NN segmentation_NN can_MD be_VB improved_VBN with_IN more_RBR sophisticated_JJ algorithms_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, this_DT simple_JJ low-cost_JJ heuristic_NN performed_VBN adequately_RB for_IN our_PRP$ purposes_NNS ._.
+Given_VBN user_NN sessions_NNS ,_, we_PRP needed_VBD to_TO extract_VB query_NN reformulations_NNS ._.
+A_DT query_NN reformulation_NN was_VBD defined_VBN as_IN the_DT following_JJ sequence_NN of_IN

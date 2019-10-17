@@ -1,0 +1,5 @@
+addressed_VBN for_IN the_DT construction_NN of_IN decision_NN trees_NNS -LRB-_-LRB- 20_CD ,_, 21_CD -RRB-_-RRB- ._.
+Our_PRP$ work_NN follows_VBZ the_DT same_JJ approach_NN ._.
+Prior_JJ work_NN has_VBZ also_RB addressed_VBN association_NN rule_NN mining_NN -LRB-_-LRB- 31_CD ,_, 16_CD -RRB-_-RRB- ,_, clustering_NN -LRB-_-LRB- 19_CD ,_, 28_CD -RRB-_-RRB- ,_, and_CC classification_NN =_JJ -_: =[_NN 7_CD ,_, 29_CD ,_, 33_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Yu_NNP and_CC Vaidya_NNP -LRB-_-LRB- 36_CD -RRB-_-RRB- develop_VBP a_DT privacy_NN preserving_VBG linear_JJ SVM_NN classification_NN algorithm_NN ._.
+Since_IN their_PRP$ method_NN is_VBZ based_VBN on_IN the_DT optimization_NN formulation_NN of_IN the_DT proximal_JJ SVM_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, it_PRP is_VBZ limited_JJ to_TO linear_JJ cla_NN

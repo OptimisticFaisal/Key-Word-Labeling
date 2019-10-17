@@ -1,0 +1,3 @@
+d_NN `_`` probabilistically_RB safe_JJ '_'' since_IN the_DT closest_JJS tuples_NNS in_IN the_DT database_NN will_MD be_VB retrieved_VBN with_IN high_JJ probability_NN ._.
+This_DT is_VBZ also_RB efficient_JJ since_IN only_RB a_DT small_JJ number_NN of_IN matches_NNS needs_VBZ to_TO be_VB performed_VBN ._.
+Swoosh_NN -LRB-_-LRB- =_JJ -_: =_JJ Benjelloun_NNP ,_, Garcia-Molina_NNP ,_, Su_NNP ,_, &_CC Widom_NNP ,_, 2005_CD -_: =--RRB-_NN has_VBZ recently_RB been_VBN proposed_VBN as_IN a_DT generic_JJ entity_NN resolution_NN framework_NN that_WDT considers_VBZ resolving_VBG and_CC merging_VBG duplicates_NNS as_IN a_DT database_NN operator_NN and_CC the_DT goal_NN is_VBZ to_TO minimize_VB the_DT number_NN of_IN record-level_NN and_CC

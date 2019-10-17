@@ -1,0 +1,5 @@
+sult_NN obtained_VBD automatically_RB into_IN the_DT intended_JJ result_NN ._.
+Accuracy_NN =_JJ Recall_VB ×_NN -LRB-_-LRB- 2_CD −_NN 1_CD -RRB-_-RRB- -LRB-_-LRB- 1_LS -RRB-_-RRB- P_NN recision_NN 2.2_CD Calculation_NN of_IN Compound_NN Similarity_NN The_DT work_NN closest_JJS to_TO ours_PRP is_VBZ probably_RB that_DT of_IN Marc_NNP Ehrig_NNP et_FW al._FW =_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN APFEL_NNP weights_NNS for_IN each_DT feature_NN is_VBZ calculated_VBN using_VBG Decision_NNP Trees_NNP ._.
+The_DT user_NN only_RB has_VBZ to_TO provide_VB some_DT ontologies_NNS with_IN known_JJ correct_JJ alignments_NNS ._.
+The_DT learned_VBN decision_NN tree_NN is_VBZ used_VBN for_IN aggregation_NN an_DT

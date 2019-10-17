@@ -1,0 +1,3 @@
+on_IN systems_NNS ,_, which_WDT attempt_VBP to_TO learn_VB a_DT discrete_JJ function_NN given_VBN examples_NNS of_IN its_PRP$ inputs_NNS and_CC outputs_NNS ,_, this_DT problem_NN takes_VBZ the_DT form_NN of_IN changes_NNS in_IN the_DT target_NN function_NN over_IN time_NN ,_, and_CC is_VBZ known_VBN as_IN concept_NN drift_NN =_JJ -_: =[_NN 6_CD ,_, 8_CD ,_, 14_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT section_NN we_PRP review_VBP some_DT methods_NNS for_IN dealing_VBG with_IN concept_NN drift_NN ._.
+2.1_CD Drifting_VBG concepts_NNS Recently_RB ,_, several_JJ systems_NNS have_VBP been_VBN developed_VBN that_WDT employ_VBP Machine_NNP Learning_NNP methods_NNS in_IN real_JJ life_NN applicati_NNS

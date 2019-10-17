@@ -1,0 +1,4 @@
+nes_NNS ._.
+Term_NN weighting_NN ,_, extensively_RB used_VBN in_IN the_DT vector_NN space_NN model_NN for_IN document_NN clustering_NN ,_, is_VBZ carried_VBN out_RP using_VBG several_JJ methods_NNS ,_, such_JJ as_IN raw_JJ term_NN frequency_NN ,_, or_CC algorithms_NNS belonging_VBG to_TO the_DT Tf_NN \*_NN Idf_NN family_NN =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Raw_NN term_NN frequency_NN is_VBZ based_VBN on_IN the_DT term_NN statistics_NNS within_IN a_DT document_NN and_CC is_VBZ the_DT simpler_JJR way_NN of_IN assigning_VBG weights_NNS to_TO terms_NNS ._.
+Tf_NN \*_NN Idf_NN is_VBZ a_DT method_NN used_VBN for_IN collections_NNS of_IN documents_NNS ,_, i.e._FW documents_NNS that_IN h_NN

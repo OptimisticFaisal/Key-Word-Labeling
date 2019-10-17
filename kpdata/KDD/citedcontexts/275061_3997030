@@ -1,0 +1,4 @@
+y_NN for_IN link_NN prediction_NN in_IN a_DT recommendation_NN context_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Several_JJ studies_NNS also_RB employed_VBD other_JJ relational_JJ probabilistic_JJ graphical_JJ models_NNS -LRB-_-LRB- e.g._FW ,_, relational_JJ Markov_NNP network_NN -RRB-_-RRB- for_IN the_DT link_NN prediction_NN problem_NN =_JJ -_: =[_NN 5_CD ,_, 23_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Propescul_NNP and_CC Ungar_NNP -LRB-_-LRB- 21_CD -RRB-_-RRB- applied_VBD the_DT structural_JJ logistic_JJ regression_NN model_NN for_IN building_NN link_NN prediction_NN models_NNS ._.
+Relational_JJ learning_NN link_NN prediction_NN models_NNS typically_RB assume_VBP a_DT richly_RB structured_JJ relatio_NN

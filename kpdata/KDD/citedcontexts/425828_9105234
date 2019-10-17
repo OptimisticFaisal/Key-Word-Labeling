@@ -1,0 +1,4 @@
+the_DT problem_NN of_IN mining_NN Weighted_JJ Association_NN Rules_NNS -LRB-_-LRB- WARs_NNS -RRB-_-RRB- ._.
+As_IN a_DT consequence_NN ,_, a_DT number_NN of_IN alternative_JJ Weighted_NNP Association_NNP Rule_NNP Mining_NNP -LRB-_-LRB- WARM_NNP -RRB-_-RRB- sapproaches_NNS have_VBP been_VBN developed_VBN over_IN the_DT past_JJ decade_NN ,_, such_JJ as_IN =_JJ -_: =[_NN 11_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT special_JJ case_NN of_IN WAR_NN can_MD be_VB introduced_VBN as_IN the_DT ``_`` one-sum_JJ ''_'' WAR_NN ,_, where_WRB each_DT rule_NN item_NN is_VBZ associated_VBN with_IN a_DT weighting_NN score_NN between_IN 0_CD and_CC 1_CD ,_, and_CC the_DT sum_NN of_IN all_DT rule_NN item_NN scores_NNS is_VBZ 1_CD ._.
+A_DT one-sum_JJ WAR_NN can_MD n_NN

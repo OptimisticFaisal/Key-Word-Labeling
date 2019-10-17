@@ -1,0 +1,5 @@
+days_NNS of_IN networked_JJ storage_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+IP_NNP telephony_NN security_NN has_VBZ also_RB been_VBN scrutinized_VBN ._.
+However_RB this_DT has_VBZ only_RB been_VBN done_VBN for_IN specific_JJ protocols_NNS ,_, not_RB for_IN complete_JJ systems_NNS -LRB-_-LRB- 48_CD -RRB-_-RRB- ._.
+Most_RBS other_JJ work_NN in_IN web_NN security_NN =_JJ -_: =[_NN 13_CD ,_, 24_CD ,_, 4_CD ,_, 17_CD ,_, 25_CD ,_, 28_CD ,_, 43_CD ,_, 32_CD ,_, 36_CD ,_, 40_CD ,_, 53_CD ,_, 46_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ focused_VBN on_IN web_NN servers_NNS on_IN the_DT open_JJ Internet_NNP ,_, as_IN opposed_VBN to_TO devices_NNS on_IN private_JJ intranets_NNS ,_, which_WDT are_VBP the_DT topic_NN of_IN this_DT work_NN ._.
+11_CD Conclusion_NN We_PRP present_VBP WebDroid_NNP the_DT first_JJ web_NN application_NN framework_NN th_DT

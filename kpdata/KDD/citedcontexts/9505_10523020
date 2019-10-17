@@ -1,0 +1,4 @@
+array_NN platforms_NNS ,_, that_WDT measure_VBP the_DT same_JJ system_NN ._.
+This_DT task_NN has_VBZ been_VBN classically_RB solved_VBN by_IN Canonical_JJ Correlation_NN Analysis_NN -LRB-_-LRB- CCA_NN -RRB-_-RRB- -LRB-_-LRB- 8,9_CD -RRB-_-RRB- ,_, or_CC more_RBR recently_RB by_IN other_JJ methods_NNS that_WDT maximize_VBP mutual_JJ information_NN =_JJ -_: =[_NN 4,5,16,18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Mutual_JJ information_NN measures_VBZ deviation_NN from_IN independence_NN and_CC is_VBZ hence_RB arguably_RB a_DT very_RB good_JJ objective_NN function_NN for_IN finding_VBG dependencies_NNS ._.
+Unfortunately_RB it_PRP is_VBZ defined_VBN for_IN distributions_NNS and_CC not_RB data_NNS sets_NNS

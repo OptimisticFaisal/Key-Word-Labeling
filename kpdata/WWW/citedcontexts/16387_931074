@@ -1,0 +1,5 @@
+ses_VBZ the_DT Matching_NNP Engine_NNP to_TO find_VB out_RP whether_IN there_EX exist_VBP any_DT subsumption_NN relations_NNS in_IN the_DT request_NN ._.
+The_DT semantic_JJ matching_JJ mechanism_NN of_IN Matching_NNP Engine_NNP is_VBZ derived_VBN from_IN previous_JJ work_NN on_IN semantic_JJ matching_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+The_DT basic_JJ algorithm_NN of_IN the_DT match_NN function_NN is_VBZ given_VBN below_IN :_: Match_NNP -LRB-_-LRB- expression_NN ,_, Multi-AgentOrganizationDescriptions_NNS -RRB-_-RRB- -LCB-_-LRB- degreeOfMatch_NN =_JJ expression_NN ._.
+getOperation_NN -LRB-_-LRB- -RRB-_-RRB- ;_: request_NN =_JJ expression_NN ._.
+getValue_NN -LRB-_-LRB- -RRB-_-RRB- ;_: m_NN

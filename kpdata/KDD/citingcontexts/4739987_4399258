@@ -1,0 +1,5 @@
+binary_JJ file_NN ._.
+The_DT authors_NNS formed_VBD training_NN examples_NNS by_IN treating_VBG the_DT strings_NNS as_IN binary_JJ attributes_NNS that_WDT were_VBD either_RB present_JJ in_IN or_CC absent_JJ from_IN a_DT given_VBN executable_JJ ._.
+The_DT third_JJ method_NN used_VBD the_DT hexdump_JJ utility_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ similar_JJ to_TO the_DT unix_JJ octal_JJ dump_NN -LRB-_-LRB- od_NN -_: x_LS -RRB-_-RRB- command_NN ._.
+This_DT printed_VBD the_DT contents_NNS of_IN the_DT executable_JJ file_NN as_IN a_DT sequence_NN of_IN hexadecimal_JJ numbers_NNS ._.
+As_IN with_IN the_DT printable_JJ strings_NNS ,_, the_DT authors_NNS used_VBD two-by_JJ

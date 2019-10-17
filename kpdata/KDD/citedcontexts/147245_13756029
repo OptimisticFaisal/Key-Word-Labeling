@@ -1,0 +1,5 @@
+er_IN the_DT training_NN data_NNS ._.
+In_IN order_NN to_TO cope_VB with_IN concept-drift_NN ,_, a_DT classifier_NN must_MD be_VB continuously_RB updated_VBN to_TO be_VB consistent_JJ with_IN the_DT most_RBS recent_JJ concept_NN ._.
+ActMiner_NNP applies_VBZ a_DT hybrid_JJ batch-incremental_JJ process_NN =_JJ -_: =[_NN 2_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: to_TO solve_VB the_DT infinite_JJ length_NN and_CC concept-drift_JJ problems_NNS ._.
+It_PRP divides_VBZ the_DT data_NNS stream_NN into_IN equal_JJ sized_VBN chunks_NNS and_CC trains_VBZ a_DT classification_NN model_NN from_IN each_DT chunk_NN ._.
+An_DT ensemble_NN of_IN M_NN such_JJ models_NNS is_VBZ used_VBN to_TO

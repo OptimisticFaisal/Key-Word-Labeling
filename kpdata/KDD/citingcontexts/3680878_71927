@@ -1,0 +1,5 @@
+rch_NN tasks_NNS ,_, and_CC Section_NN 5_CD concludes_VBZ this_DT article_NN ._.
+2_CD ._.
+ALGORITHM_NN DEVELOPED_VBN In_IN this_DT section_NN we_PRP describe_VBP the_DT algorithm_NN that_IN we_PRP developed_VBD ._.
+Our_PRP$ key_JJ finding_NN is_VBZ that_IN a_DT machine-learning_JJ algorithm_NN called_VBN Winnow_NNP =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT weighted-majority_JJ type_NN of_IN algorithm_NN ,_, works_VBZ very_RB well_RB as_IN the_DT core_NN component_NN of_IN an_DT IDS_NNP ._.
+This_DT algorithm_NN operates_VBZ by_IN taking_VBG weighted_JJ votes_NNS from_IN a_DT pool_NN of_IN individual_JJ prediction_NN methods_NNS ,_, continually_RB adj_NN

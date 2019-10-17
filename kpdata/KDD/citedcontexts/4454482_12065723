@@ -1,0 +1,6 @@
+een_VB a_DT pair_NN of_IN entities_NNS can_MD be_VB computed_VBN by_IN the_DT following_VBG equation_NN ._.
+Sim1_NN -LRB-_-LRB- ei_NN ,_, ej_NN -RRB-_-RRB- =_JJ p_NN -LRB-_-LRB- ei_FW |_FW ej_FW -RRB-_-RRB- \/_: 2_CD +_CC p_NN -LRB-_-LRB- ej_FW |_FW ei_FW -RRB-_-RRB- \/_: 2_CD ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- where_WRB p_NN -LRB-_-LRB- ei_FW |_FW ej_FW -RRB-_-RRB- is_VBZ obtained_VBN using_VBG latent_JJ topic_NN k_NN by_IN :_: p_NN -LRB-_-LRB- ei_FW |_FW ej_FW -RRB-_-RRB- =_JJ ∑_CD p_NN -LRB-_-LRB- ei_FW |_FW k_NN -RRB-_-RRB- p_NN -LRB-_-LRB- k_NN |_CD ej_NN -RRB-_-RRB- ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- k_NN In_IN =_JJ -_: =[_NN 7_CD ,_, 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Eq_NN ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- was_VBD used_VBN to_TO compute_VB similarity_NN between_IN social_JJ entities_NNS that_WDT appear_VBP in_IN newspaper_NN articles_NNS ;_: however_RB ,_, we_PRP believe_VBP that_IN this_DT similarity_NN computation_NN has_VBZ some_DT problems_NNS ._.
+One_CD of_IN the_DT problems_NNS is_VBZ that_IN

@@ -1,0 +1,7 @@
+following_VBG three_CD categories_NNS ._.
+1_CD ._.
+String-based_JJ :_: Each_DT statement_NN is_VBZ treated_VBN as_IN a_DT string_NN ,_, and_CC a_DT program_NN is_VBZ represented_VBN as_IN a_DT sequence_NN of_IN strings_NNS ._.
+Two_CD programs_NNS are_VBP compared_VBN to_TO find_VB sequences_NNS of_IN same_JJ strings_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Because_IN blanks_NNS and_CC comments_NNS are_VBP discarded_VBN ,_, this_DT kind_NN of_IN algorithms_NNS are_VBP robust_JJ to_TO format_NN alteration_NN ,_, but_CC fragile_JJ to_TO identifier_NN renaming_NN ._.
+2_CD ._.
+AST-based_JJ :_: A_DT program_NN is_VBZ first_RB parsed_VBN into_IN an_DT abstract_JJ synta_NN

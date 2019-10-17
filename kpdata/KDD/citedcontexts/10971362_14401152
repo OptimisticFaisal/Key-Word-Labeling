@@ -1,0 +1,4 @@
+features_NNS have_VBP better_RBR discriminative_JJ power_NN than_IN 1_CD The_DT terms_NNS ''_'' pattern_NN ''_'' and_CC ''_'' itemset_NN ''_'' are_VBP used_VBN interchangeably_RB in_IN this_DT paper_NN ._.
+August_NNP 19_CD ,_, 2010_CD DRAFT3_NN the_DT individual_JJ features_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 47_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 30_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+More_RBR importantly_RB ,_, as_IN discussed_VBN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, discriminative_JJ pattern_NN mining_NN can_MD provide_VB insights_NNS beyond_IN classification_NN models_NNS ._.
+For_IN example_NN ,_, for_IN biomarker_NN discovery_NN from_IN case-control_JJ data_NNS -LRB-_-LRB- e.g._FW disease_NN vs._NN

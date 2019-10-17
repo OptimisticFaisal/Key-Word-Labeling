@@ -1,0 +1,3 @@
+Online_JJ multiscale_JJ dynamic_JJ topic_NN models_NNS
+Blei_NNP and_CC Lafferty_NNP -LRB-_-LRB- 3_CD -RRB-_-RRB- employed_VBN state_NN space_NN models_NNS on_IN the_DT natural_JJ parameters_NNS of_IN multinomial_JJ distributions_NNS of_IN topics_NNS and_CC design_VB a_DT dynamic_JJ topic_NN model_NN to_TO model_VB the_DT time_NN evolution_NN of_IN stream_NN ._.
+Iwata_NNP et_FW al._FW =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD an_DT online_JJ topic_NN model_NN for_IN sequentially_RB analyzing_VBG the_DT time_NN evolution_NN of_IN topics_NNS in_IN document_NN collections_NNS ,_, in_IN which_WDT current_JJ topic-specific_JJ distributions_NNS over_IN words_NNS are_VBP assumed_VBN to_TO be_VB generated_VBN ba_IN

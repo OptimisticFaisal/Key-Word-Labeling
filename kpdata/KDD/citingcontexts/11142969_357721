@@ -1,0 +1,4 @@
+n_NN evaluating_VBG narratives_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- may_MD be_VB useful_JJ for_IN our_PRP$ purposes_NNS ._.
+For_IN event_NN tracking_NN ,_, some_DT efforts_NNS have_VBP been_VBN made_VBN to_TO classify_VB news_NN stories_NNS into_IN broad_JJ categories_NNS using_VBG pattern_NN matching_NN and_CC machine_NN learning_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, these_DT methods_NNS assume_VBP the_DT labels_NNS are_VBP known_VBN in_IN advance_NN ,_, and_CC thus_RB are_VBP not_RB applicable_JJ ._.
+Event_NN detection_NN -LRB-_-LRB- 9_CD ,_, 19_CD -RRB-_-RRB- deals_NNS with_IN discovering_VBG new_JJ events_NNS ,_, but_CC does_VBZ not_RB attempt_VB to_TO string_VB different_JJ events_NNS

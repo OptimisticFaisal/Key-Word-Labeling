@@ -1,0 +1,3 @@
+e._VB Our_PRP$ initial_JJ evaluation_NN of_IN LGMs_NNS is_VBZ on_IN out-of-sample_JJ classification_NN tasks_NNS ,_, where_WRB the_DT test_NN set_NN is_VBZ nearly_RB disjoint_JJ from_IN the_DT training_NN set_NN ._.
+This_DT is_VBZ in_IN contrast_NN to_TO recent_JJ work_NN on_IN in-sample_JJ classification_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: where_WRB the_DT test_NN set_NN links_VBZ back_RB into_IN the_DT training_NN set_NN and_CC it_PRP is_VBZ possible_JJ to_TO improve_VB performance_NN without_IN generalizing_VBG about_IN group_NN properties_NNS ._.
+When_WRB the_DT test_NN set_NN is_VBZ nearly_RB disjoint_JJ ,_, it_PRP is_VBZ necessary_JJ to_TO bot_VB

@@ -1,0 +1,4 @@
+w_NN that_IN the_DT algorithm_NN uses_VBZ linear_JJ time_NN in_IN the_DT number_NN of_IN tuples_NNS of_IN the_DT input_NN database_NN ._.
+1_CD Introduction_NN The_DT problem_NN of_IN discovering_VBG functional_JJ dependencies_NNS -LRB-_-LRB- FDs_NNS -RRB-_-RRB- from_IN relational_JJ databases_NNS has_VBZ been_VBN studied_VBN =_JJ -_: =_JJ -LRB-_-LRB- KMRS92_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+Although_IN FDs_NNS are_VBP the_DT most_RBS important_JJ dependencies_NNS in_IN database_NN design_NN ,_, FDs_NNS are_VBP not_RB prevalent_JJ in_IN data_NN mining_NN ._.
+This_DT may_MD be_VB attributed_VBN to_TO the_DT fact_NN that_IN FDs_NNS other_JJ than_IN those_DT known_VBN at_IN design_NN time_NN ,_, are_VBP fair_JJ

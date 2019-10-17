@@ -1,0 +1,5 @@
+bset_NN also_RB is_VBZ frequent_JJ ._.
+Though_IN superset_JJ frequency_NN pruning_NN reduces_VBZ the_DT search_NN time_NN dramatically_RB ,_, MaxMiner_NNP still_RB needs_VBZ many_JJ passes_NNS to_TO get_VB all_DT long_JJ patterns_NNS ._.
+DepthProject_NN by_IN Agarwal_NNP ,_, Aggrawal_NNP ,_, and_CC Prasad_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: also_RB mines_NNS only_RB long_JJ patterns_NNS ._.
+It_PRP performs_VBZ a_DT mixed_JJ depth-first\/breadth-first_NN traversal_NN of_IN the_DT itemset_NN lattice_NN ._.
+In_IN the_DT algorithm_NN ,_, both_CC subset_NN infrequency_NN pruning_NN and_CC superset_NN frequency_NN pruning_NN are_VBP use_NN

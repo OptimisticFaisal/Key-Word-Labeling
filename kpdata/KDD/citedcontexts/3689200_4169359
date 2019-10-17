@@ -1,0 +1,3 @@
+0.04_CD 0.02_CD 0_CD Light_NNP Temp_NNP Humid_NNP Volt_NNP 20_CD 40_CD 60_CD period_NN 80_CD 100_CD -LRB-_-LRB- a_DT -RRB-_-RRB- Relative_JJ error_NN rate_NN onChlorine_NN -LRB-_-LRB- b_NN -RRB-_-RRB- Relative_JJ error_NN rate_NN onMotes_NNP Figure_NNP 7_CD :_: Accuracy_NN drops_VBZ slowly_RB as_IN the_DT update_VBP period_NN increases_NNS ._.
+Guha_NNP et_FW al._FW =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: study_NN on_IN discovering_VBG correlations_NNS among_IN multiple_JJ streams_NNS ,_, by_IN first_RB doing_VBG dimensionality_NN reduction_NN with_IN random_JJ projections_NNS ,_, and_CC then_RB periodically_RB computing_VBG the_DT SVD_NNP ._.
+However_RB ,_, the_DT method_NN incurs_VBZ high_JJ ove_NN

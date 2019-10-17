@@ -1,0 +1,6 @@
+._.
+Let_VB us_PRP return_VB to_TO our_PRP$ previous_JJ example_NN in_IN Figure_NNP 1_CD ._.
+-LCB-_-LRB- A_NN ,_, ∗_NN ,_, B_NN -RCB-_-RRB- is_VBZ a_DT continuity_NN with_IN four_CD matches_NNS D1_NN ,_, D2_NN ,_, D3_NN ,_, and_CC D4_NN ._.
+Inter-transaction_JJ association_NN rules_NNS can_MD be_VB mined_VBN by_IN the_DT FITI_NNP algorithm_NN proposed_VBN in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+FITI_NNP consists_VBZ of_IN two_CD phases_NNS :_: intra-transaction_JJ and_CC inter-transaction_JJ itemsets_NNS mining_NN ._.
+Similar_JJ to_TO Apriori-like_JJ algorithms_NNS ,_, FITI_NNP could_MD generate_VB a_DT huge_JJ number_NN of_IN candidates_NNS and_CC require_VB several_JJ scans_NNS ov_IN

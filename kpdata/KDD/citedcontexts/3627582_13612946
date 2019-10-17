@@ -1,0 +1,4 @@
+Mann-Whitney_NNP U_NNP Test_NNP -LRB-_-LRB- also_RB known_VBN as_IN Wilcoxon_NNP Rank_NNP sum_NN -RRB-_-RRB- ,_, a_DT non-parametric_JJ statistical_JJ test_NN ._.
+Not_RB employing_VBG any_DT distributional_JJ assumptions_NNS makes_VBZ it_PRP especially_RB useful_JJ for_IN small_JJ sample_NN size_NN ,_, noisy_JJ datasets_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, such_JJ as_IN gene_NN expression_NN microarrays_NNS ._.
+3.2_CD Weighted_NNP Distance_NNP Metrics_NNPS :_: For_IN computing_VBG the_DT distance_NN between_IN two_CD instances_NNS ,_, we_PRP modify_VBP the_DT standard_JJ distance_NN measure_NN using_VBG the_DT AUC_NN scores_NNS as_IN weights_NNS ._.
+Conside_NN

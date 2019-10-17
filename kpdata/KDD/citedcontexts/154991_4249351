@@ -1,0 +1,4 @@
+not_RB have_VB those_DT -LRB-_-LRB- Case_NNP 2_CD -RRB-_-RRB- ._.
+For_IN a_DT word_NN in_IN Case_NNP 2_CD ,_, we_PRP use_VBP a_DT clustering_NN algorithms_VBZ CBC_NNP -LRB-_-LRB- Clustering_NNP By_IN Committee_NNP -RRB-_-RRB- to_TO predict_VB the_DT closest_JJS -LRB-_-LRB- most_RBS reasonable_JJ -RRB-_-RRB- frame_NN of_IN undefined_JJ word_NN from_IN existing_VBG frames_NNS ._.
+CBC_NN -LRB-_-LRB- =_JJ -_: =_JJ Pantel_NNP and_CC Lin_NNP ,_, 2002_CD -_: =--RRB-_NN was_VBD developed_VBN based_VBN on_IN the_DT distributional_JJ hypothesis_NN -LRB-_-LRB- Harris_NNP ,_, 1954_CD -RRB-_-RRB- that_IN words_NNS which_WDT occur_VBP in_IN the_DT same_JJ contexts_NNS tend_VBP to_TO be_VB similar_JJ ._.
+Using_VBG CBC_NNP ,_, for_IN example_NN ,_, our_PRP$ clustering_NN module_NN computes_VBZ lexical_JJ sim_NN

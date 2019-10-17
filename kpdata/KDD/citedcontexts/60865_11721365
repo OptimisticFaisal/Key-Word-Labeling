@@ -1,0 +1,4 @@
+KOrd_NN -LRB-_-LRB- argument_NN -RRB-_-RRB- 7,8_CD FEnc_NN -LRB-_-LRB- argument_NN ,_, entity_NN -RRB-_-RRB- 8_CD Paths_NNS -LRB-_-LRB- N_NN -RRB-_-RRB- 8_CD setting_VBG the_DT feature_NN weights_NNS based_VBN on_IN annotated_JJ training_NN data_NNS ._.
+Many_JJ machine_NN learning_NN algorithms_NNS that_WDT have_VBP been_VBN applied_VBN to_TO document_VB ranking_NN =_JJ -_: =[_NN 4_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP well_RB suited_VBN to_TO this_DT task_NN ._.
+In_IN this_DT work_NN we_PRP use_VBP an_DT efficient_JJ ,_, online_JJ linear_JJ rank_NN learner_NN ,_, the_DT Committee_NNP Perceptron_NNP -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+The_DT Committee_NNP Perceptron_NNP algorithm_NN is_VBZ a_DT generalization_NN of_IN previous_JJ Perceptron_NNP

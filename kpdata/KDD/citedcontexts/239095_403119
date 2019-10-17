@@ -1,0 +1,4 @@
+imbalance_NN in_IN the_DT number_NN of_IN representatives_NNS in_IN each_DT class_NN ,_, we_PRP modify_VBP the_DT diagonal_JJ elements_NNS of_IN the_DT kernel_NN matrices_NNS as_IN suggested_VBN by_IN Veropoulos_NNP ,_, Campbell_NNP and_CC Cristianini_NNP -LRB-_-LRB- 1999_CD -RRB-_-RRB- ._.
+We_PRP used_VBD the_DT Proximal_JJ SVM_NN -LRB-_-LRB- =_JJ -_: =_JJ Fung_NNP and_CC Mangasarian_NNP 2001_CD -_: =--RRB-_NN to_TO perform_VB the_DT actual_JJ SVM_NN classification_NN ._.
+Gaussian_NNP Naïve_NNP Bayesian_NNP Network_NNP Analysis_NNP Two_CD separate_JJ GNBNs_NNS were_VBD constructed_VBN ,_, GNBNh_NN and_CC GNBNa_NN ._.
+GNBNh_NN was_VBD trained_VBN on_IN Dh_FW ∪_FW Dd_NN and_CC was_VBD used_VBN to_TO classify_VB whether_IN

@@ -1,0 +1,6 @@
+ique_NN label_NN ._.
+Unlabeled_JJ trees_NNS are_VBP trees_NNS in_IN which_WDT each_DT vertex_NN has_VBZ no_DT label_NN ,_, or_CC there_EX is_VBZ a_DT unique_JJ label_NN for_IN all_DT vertices_NNS ._.
+A_DT comprehensive_JJ introduction_NN to_TO the_DT algorithms_NNS on_IN unlabeled_JJ trees_NNS can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+To_TO the_DT best_JJS of_IN our_PRP$ knowledge_NN this_DT is_VBZ the_DT first_JJ approach_NN defined_VBN for_IN mining_NN frequent_JJ closed_JJ trees_NNS in_IN streaming_NN data_NNS that_WDT evolve_VBP with_IN time_NN ._.
+3_LS ._.
+PRELIMINARIES_NN Patterns_NN are_VBP graphs_NNS ,_, composed_VBN by_IN a_DT labeled_VBN

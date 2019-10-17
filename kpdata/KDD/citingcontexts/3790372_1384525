@@ -1,0 +1,3 @@
+there_EX are_VBP many_JJ tuples_NNS that_WDT satisfy_VBP them_PRP -RRB-_-RRB- may_MD lead_VB to_TO prohibitive_JJ costs_NNS in_IN terms_NNS of_IN bandwidth_NN or_CC fees_NNS to_TO be_VB paid_VBN per_IN returned_VBN tuple_NN ._.
+Researchers_NNS have_VBP proposed_VBN automated_JJ approaches_NNS to_TO query_VB relaxation_NN =_JJ -_: =[_NN 12_CD ,_, 9_CD ,_, 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC the_DT existing_VBG algorithms_NNS have_VBP a_DT major_JJ limitation_NN :_: the_DT knowledge_NN used_VBN in_IN the_DT query_JJ relaxation_NN process_NN is_VBZ acquired_VBN offline_JJ ,_, independently_RB of_IN the_DT failing_VBG query_NN to_TO be_VB relaxed_VBN ._.
+We_PRP introduce_VBP here_RB an_DT on_IN

@@ -1,0 +1,4 @@
+DB_NN scan_VB ._.
+•_CD the_DT FP-Growth\/Apriori_NN debate_NN :_: ``_`` Real_NNP World_NNP Performance_NNP of_IN Association_NNP Rule_NNP Algorithms_NNPS ''_'' -LRB-_-LRB- ZKM01_NN -RRB-_-RRB- DATA_NNP MINING_NN 34sAnother_NN representation_NN of_IN a_DT dataset_FW •_FW vertical_JJ tidset_NN and_CC vertical_JJ bitvectors_NNS =_JJ -_: =_JJ -LRB-_-LRB- ZG03_NN -RRB-_-RRB- -_: =_SYM -_: ⋆_CD frequent_JJ patterns_NNS can_MD be_VB counted_VBN via_IN tidset_NN intersections_NNS ._.
+⋆_NN reduces_VBZ the_DT number_NN of_IN I\/O_NN operations_NNS ._.
+tid_NN items_NNS 1_CD a_DT ,_, c_NN ,_, t_NN ,_, w_NN 2_CD c_NN ,_, d_NN ,_, w_NN 3_CD a_DT ,_, c_NN ,_, t_NN ,_, w_NN 4_CD a_DT ,_, c_NN ,_, d_NN ,_, w_NN 5_CD a_DT ,_, c_NN ,_, d_NN ,_, t_NN ,_, w_NN 6_CD c_NN ,_, d_NN ,_, t_NN a_DT c_NN d_NN t_NN w_NN 1_CD 1_CD

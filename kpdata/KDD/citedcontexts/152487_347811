@@ -1,0 +1,4 @@
+level_NN ,_, i.e._FW ,_, instead_RB of_IN a_DT global_JJ minimum_JJ support_NN value_NN ,_, we_PRP use_VBP a_DT class_NN specific_JJ support_NN value_NN min_NN sup_NN -LRB-_-LRB- c_NN i_LS -RRB-_-RRB- ._.
+This_DT process_NN is_VBZ repeated_VBN until_IN all_DT frequent_JJ sequences_NNS have_VBP been_VBN enumerated_VBN ._.
+In_IN recent_JJ work_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: we_PRP showed_VBD how_WRB to_TO use_VB the_DT mined_VBN sequences_NNS for_IN feature_NN extraction_NN and_CC selection_NN in_IN temporal_JJ domains_NNS ,_, by_IN selecting_VBG the_DT sequences_NNS highly_RB predictive_JJ of_IN a_DT class_NN ._.
+These_DT features_NNS were_VBD input_NN to_TO standard_JJ class_NN

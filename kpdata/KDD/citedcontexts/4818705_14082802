@@ -1,0 +1,3 @@
+ed_VBN with_IN a_DT piecewise_JJ constant_JJ model_NN -LRB-_-LRB- APCA_NN -RRB-_-RRB- ,_, not_RB a_DT piecewise_JJ linear_JJ model_NN -LRB-_-LRB- PLA_NN -RRB-_-RRB- or_CC Fourier_NN representation_NN -LRB-_-LRB- DFT_NN -RRB-_-RRB- ._.
+B._NNP AN_DT EXAMPLE_NNP APPLICATION_NNP IN_IN PHYSIOLOGY_NN The_DT Muscle_NN dataset_NN studied_VBN by_IN Mörchen_NN and_CC Ultsch_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: describes_VBZ the_DT muscle_NN activation_NN of_IN a_DT professional_JJ inline_NN speed_NN skater_NN ._.
+The_DT authors_NNS calculated_VBD the_DT muscle_NN activation_NN from_IN the_DT original_JJ EMG_NN -LRB-_-LRB- Electromyography_NN -RRB-_-RRB- measurements_NNS by_IN taking_VBG the_DT logarithm_NN of_IN th_DT

@@ -1,0 +1,4 @@
+e_LS first_JJ that_IN if_IN the_DT matrix_NN C_NN is_VBZ given_VBN ,_, then_RB finding_VBG the_DT matrix_NN X_NN that_WDT minimizes_VBZ CX_NN -LRB-_-LRB- A_NN ,_, k_NN ,_, C_NN ,_, X_NN -RRB-_-RRB- can_MD be_VB done_VBN in_IN polynomial_JJ time_NN by_IN setting_VBG X_NN =_JJ C_NN †_NN ,_, where_WRB C_NNP †_NNP is_VBZ the_DT Moore_NNP --_: Penrose_FW pseudoinverse_FW 2_CD of_IN C_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT analogous_JJ result_NN for_IN nonnegative_JJ X_NN is_VBZ given_VBN in_IN the_DT next_JJ proposition_NN ._.
+Proposition_NN 4_CD ._.
+Given_VBN a_DT matrix_NN A_NN ∈_NN R_NN m_NN ×_CD n_NN +_CC ,_, an_DT integer_NN k_NN ,_, and_CC an_DT m_NN ×_CD k_NN matrix_NN C_NN of_IN k_NN columns_NNS of_IN A_NN ,_, the_DT matrix_NN X_NN ∈_NN R_NN k_NN ×_CD n_NN +_CC mini_NNS

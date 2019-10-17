@@ -1,0 +1,4 @@
+est_NN neighbor_NN assignment_NN was_VBD used_VBN to_TO assign_VB the_DT initial_JJ pseudo-class_JJ labels_NNS ._.
+While_IN the_DT above_JJ algorithm_NN is_VBZ potentially_RB applicable_JJ to_TO any_DT supervised_JJ learning_NN method_NN ,_, we_PRP used_VBD limited_JJ depth_NN decision_NN trees_NNS =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: in_IN the_DT competition_NN ._.
+The_DT depth_NN of_IN the_DT decision_NN trees_NNS was_VBD set_VBN to_TO a_DT level_NN that_WDT minimizes_VBZ the_DT AdaBoost_NNP training_NN error_NN ._.
+The_DT rationale_NN behind_IN using_VBG decision_NN trees_NNS was_VBD to_TO show_VB that_IN semisupervised_JJ approach_NN c_NN

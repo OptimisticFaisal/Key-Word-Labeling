@@ -1,0 +1,4 @@
+e_LS positive_JJ examples_NNS -LRB-_-LRB- percentage_NN of_IN negative_JJ examples_NNS misclassified_VBN as_IN positive_JJ -RRB-_-RRB- ._.
+One_CD advantage_NN of_IN this_DT formalization_NN is_VBZ to_TO naturally_RB accommodate_VB ill-balanced_JJ distributions_NNS and_CC cost-sensitive_JJ learning_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT ROC_NNP curve_NN depicts_VBZ the_DT tradeoff_NN between_IN both_DT objectives_NNS achieved_VBN by_IN a_DT learning_NN algorithm_NN and_CC represented_VBN in_IN the_DT False_JJ Positive_JJ ,_, True_JJ Positive_JJ plane_NN -LRB-_-LRB- Fig._NN 1_CD -RRB-_-RRB- ._.
+The_DT ideal_JJ hypothesis_NN corresponds_VBZ to_TO p_NN

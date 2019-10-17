@@ -1,0 +1,4 @@
+e_LS of_IN these_DT techniques_NNS varies_VBZ depending_VBG on_IN the_DT characteristics_NNS of_IN the_DT datasets_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+•_NNP Category_NNP 2_CD -LRB-_-LRB- ``_`` uncooperative_JJ ''_'' -RRB-_-RRB- :_: In_IN the_DT general_JJ case_NN ,_, such_JJ regularities_NNS are_VBP absent_JJ ._.
+However_RB ,_, sketch-based_JJ approaches_NNS =_JJ -_: =[_NN 11_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: can_MD still_RB give_VB a_DT substantial_JJ data_NN reduction_NN ._.
+These_DT are_VBP based_VBN on_IN the_DT idea_NN of_IN taking_VBG the_DT inner_JJ product_NN of_IN each_DT time_NN series_NN window_NN ,_, considered_VBN as_IN a_DT vector_NN ,_, with_IN a_DT set_NN of_IN random_JJ vectors_NNS -LRB-_-LRB- or_CC equivalently_RB ,_,

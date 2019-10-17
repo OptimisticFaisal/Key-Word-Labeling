@@ -1,0 +1,5 @@
+arametric_JJ density_NN estimation_NN -LRB-_-LRB- 12_CD ,_, 13_CD -RRB-_-RRB- ._.
+As_IN we_PRP show_VBP in_IN the_DT presented_VBN experimental_JJ results_NNS ,_, an_DT accurate_JJ bandwidth_NN estimation_NN in_IN not_RB crucial_JJ in_IN our_PRP$ approach_NN ._.
+It_PRP is_VBZ also_RB possible_JJ to_TO use_VB variable_JJ bandwidth_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+6_CD ._.
+SPECIFIC_JJ DETAILS_NNS OF_IN THE_DT M_NN STEP_NN In_IN equation_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- of_IN Section_NN 2_CD it_PRP was_VBD shown_VBN that_IN minimizing_VBG the_DT Kullback_NNP Leibler_NNP Divergence_NNP in_IN the_DT parameters_NNS Θ_NN amounts_VBZ to_TO maximizing_VBG the_DT weighted_JJ marginal_JJ density_NN W_NN

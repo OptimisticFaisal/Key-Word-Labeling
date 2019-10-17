@@ -1,0 +1,4 @@
+explained_VBN in_IN Section_NNP 5_CD ._.
+4_CD Local_NNP Bayesian_NNP Model_NNP Averaging_VBG The_DT second_JJ shortcoming_NN in_IN the_DT TAN_NN induction_NN algorithm_NN of_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- is_VBZ that_DT uncertainty_NN in_IN model_NN selection_NN is_VBZ ignored_VBN ._.
+Bayesian_JJ model_NN averaging_NN -LRB-_-LRB- BMA_NN -RRB-_-RRB- =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: provides_VBZ a_DT coherent_JJ mechanism_NN for_IN accounting_NN for_IN uncertainty_NN in_IN modelling_NN ._.
+4.1_CD Bayesian_NNP Model_NNP Averaging_NNP A_NNP coherent_JJ approach_NN to_TO solve_VB the_DT classification_NN problem_NN is_VBZ calculating_VBG the_DT probability_NN of_IN each_DT

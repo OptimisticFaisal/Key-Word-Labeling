@@ -1,0 +1,4 @@
+er_RB ,_, there_EX does_VBZ not_RB exist_VB such_PDT a_DT goodness_NN measure_NN for_IN the_DT graph_NN data_NNS in_IN the_DT literature_NN ._.
+Most_JJS of_IN the_DT existing_VBG works_NNS for_IN diversified_JJ ranking_NN on_IN graphs_NNS are_VBP based_VBN on_IN some_DT heuristics_NNS ._.
+The_DT only_JJ exception_NN is_VBZ =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB the_DT authors_NNS made_VBD an_DT important_JJ step_NN towards_IN this_DT goal_NN by_IN providing_VBG some_DT optimization_NN explanations_NNS ,_, which_WDT is_VBZ achieved_VBN by_IN defining_VBG a_DT time-varying_JJ objective_NN function_NN at_IN each_DT iteration_NN ._.
+But_CC still_RB ,_,

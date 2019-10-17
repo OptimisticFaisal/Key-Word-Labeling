@@ -1,0 +1,4 @@
+yesian_JJ Network_NNP is_VBZ not_RB limited_VBN we_PRP perceive_VBP it_PRP as_IN an_DT improvement_NN on_IN the_DT original_JJ Sparse_NNP Candidate_NNP algorithm_NN ._.
+Sampling_NN was_VBD proposed_VBN as_IN one_CD of_IN the_DT techniques_NNS to_TO speed_VB up_RP modelling_NN in_IN massive_JJ datasets_NNS in_IN -LRB-_-LRB- =_JJ -_: =_JJ Hulten_NNP &_CC Domingos_NNP ,_, 2002_CD -_: =_JJ -_: ;_: Pelleg_NNP &_CC Moore_NNP ,_, 2002_CD -RRB-_-RRB- ._.
+Though_IN an_DT interesting_JJ direction_NN it_PRP seems_VBZ to_TO be_VB orthogonal_JJ to_TO our_PRP$ approach_NN ._.
+The_DT idea_NN of_IN augmenting_VBG Bayes_NNP Nets_NNPS with_IN high_JJ mutual_JJ information_NN edges_NNS is_VBZ based_VBN on_IN the_DT fact_NN that_IN such_JJ

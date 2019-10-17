@@ -1,0 +1,4 @@
+ple_NN algorithm_NN that_WDT makes_VBZ use_NN of_IN the_DT existing_VBG support-closed_JJ pattern_NN generator_NN ._.
+CCFilter_NN consists_VBZ of_IN the_DT following_JJ two_CD steps_NNS :_: First_JJ ,_, get_VB the_DT complete_JJ set_NN of_IN SCPs_NNS using_VBG the_DT previous_JJ proposed_VBN algorithms_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- ._.
+-_: =_JJ -_: Second_JJ ,_, check_VB each_DT itemset_NN and_CC its_PRP$ all_DT possible_JJ subsets_NNS in_IN the_DT resulting_VBG set_NN whether_IN it_PRP is_VBZ confidence-closed_JJ ._.
+If_IN its_PRP$ confidence_NN satisfies_VBZ min_NN α_NN and_CC it_PRP has_VBZ no_DT proper_JJ superset_NN with_IN the_DT same_JJ confidence_NN

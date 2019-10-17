@@ -1,0 +1,6 @@
+anslation_NN ._.
+We_PRP employ_VBP undirected_JJ graphs_NNS with_IN typed_VBN nodes_NNS and_CC edges_NNS ._.
+Node_NN types_NNS represent_VBP parts_NNS of_IN speech_NN -LRB-_-LRB- POS_NN -RRB-_-RRB- ;_: edge_NN types_NNS represent_VBP different_JJ kinds_NNS of_IN relations_NNS ._.
+We_PRP use_VBP a_DT modified_VBN version_NN of_IN SimRank_NNP -LRB-_-LRB- =_JJ -_: =_JJ Jeh_NNP and_CC Widom_NNP ,_, 2002_CD -_: =--RRB-_NN as_IN a_DT similarity_NN measure_NN for_IN our_PRP$ experiments_NNS -LRB-_-LRB- see_VB Section_NNP 4_CD for_IN details_NNS -RRB-_-RRB- ._.
+SimRank_NNP is_VBZ based_VBN on_IN the_DT idea_NN that_IN two_CD nodes_NNS are_VBP similar_JJ if_IN their_PRP$ neighbors_NNS are_VBP similar_JJ ._.
+We_PRP apply_VBP this_DT notion_NN of_IN similarity_NN ac_NN

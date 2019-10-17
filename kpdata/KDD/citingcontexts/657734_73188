@@ -1,0 +1,6 @@
+listed_VBN in_IN Table_NNP 1_CD ._.
+3_LS ._.
+PRINCIPAL_JJ COMPONENT_JJ ANALYSIS_NN Principal_NN Component_NN Analysis_NN -LRB-_-LRB- PCA_NN -RRB-_-RRB- is_VBZ one_CD of_IN the_DT bestknown_JJ methods_NNS for_IN dimension_NN reduction_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+PCA_NNP was_VBD first_RB applied_VBN to_TO reconstruct_VB human_JJ faces_NNS in_IN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN the_DT context_NN of_IN image_NN compression_NN ._.
+The_DT Eigenface_NNP technique_NN was_VBD developed_VBN in_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+Assume_VB that_IN the_DT n_NN images_NNS in_IN the_DT dataset_NN are_VBP originally_RB represented_VBN in_IN matrix_NN form_NN as_IN Ai_FW ∈_FW IR_NN r_NN ×_CD c_NN ,_, for_IN i_LS =_JJ 1_CD ,_, ·_FW ·_FW

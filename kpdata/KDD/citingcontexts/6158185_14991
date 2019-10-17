@@ -1,0 +1,4 @@
+rule_NN is_VBZ to_TO predict_VB a_DT future_JJ state_NN of_IN an_DT object_NN based_VBN on_IN its_PRP$ past_JJ state_NN sequence_NN ._.
+In_IN this_DT section_NN ,_, we_PRP describe_VBP how_WRB progressive_JJ confident_JJ rules_NNS can_MD be_VB utilized_VBN in_IN three_CD representative_JJ classifiers_NNS C4_NN .5_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Support_NN Vector_NNP Machine_NNP -LRB-_-LRB- SVM_NNP -RRB-_-RRB- -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC Bayes_NNP Classifier_NNP -LRB-_-LRB- BC_NNP -RRB-_-RRB- -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+We_PRP download_VBP C4_NN .5_NN ,_, SVM_NN and_CC BC_NN from_IN websites_NNS -LRB-_-LRB- 3_CD ,_, 16_CD ,_, 2_CD -RRB-_-RRB- ,_, respectively_RB ._.
+All_DT three_CD classifiers_NNS C4_NN .5_NN ,_, SVM_NN and_CC BC_NN require_VBP input_NN objects_NNS bein_VBP

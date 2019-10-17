@@ -1,0 +1,3 @@
+search_NN directions_NNS have_VBP been_VBN pursued_VBN :_: i_LS -RRB-_-RRB- designing_VBG complex_JJ feature_NN representations_NNS to_TO remedy_VB feature_NN sparseness_NN ,_, and_CC ii_LS -RRB-_-RRB- leveraging_VBG unlabeled_JJ data_NNS to_TO compensate_VB for_IN the_DT limited_JJ amounts_NNS of_IN labeled_JJ data_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT latter_JJ approaches_NNS are_VBP often_RB collectively_RB referred_VBN to_TO as_IN semi-supervised_JJ learning_NN -LRB-_-LRB- SSL_NN -RRB-_-RRB- ._.
+We_PRP wish_VBP to_TO draw_VB a_DT distinction_NN between_IN SSL_NN and_CC our_PRP$ approach_NN of_IN automatically_RB extracting_VBG large_JJ amounts_NNS of_IN la_DT

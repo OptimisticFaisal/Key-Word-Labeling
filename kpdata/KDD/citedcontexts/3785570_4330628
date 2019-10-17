@@ -1,0 +1,3 @@
+statistical_JJ properties_NNS ,_, and_CC different_JJ subset_NN of_IN genes_NNS are_VBP selected_VBN and_CC used_VBN for_IN clustering_NN such_JJ that_IN different_JJ statistical_JJ properties_NNS can_MD be_VB represented_VBN ._.
+Our_PRP$ clustering_NN is_VBZ similar_JJ to_TO the_DT approach_NN in_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC we_PRP are_VBP using_VBG hierarchical_JJ clusters_NNS to_TO reflect_VB groups_NNS of_IN samples_NNS using_VBG different_JJ subsets_NNS of_IN genes_NNS at_IN different_JJ levels_NNS ._.
+Gene_NN selection_NN for_IN sample_NN clustering_NN is_VBZ the_DT problem_NN of_IN feature_NN selection_NN -LRB-_-LRB- 12_CD

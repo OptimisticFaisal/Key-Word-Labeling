@@ -1,0 +1,4 @@
+by_IN lots_NNS of_IN graphs_NNS in_IN D_NN ,_, but_CC unlikely_RB contained_VBN by_IN a_DT query_NN graph_NN ._.
+This_DT kind_NN of_IN subgraph_JJ features_NNS are_VBP called_VBN contrast_NN features_NNS -LRB-_-LRB- or_CC contrast_NN subgraphs_NNS -RRB-_-RRB- ._.
+The_DT term_NN has_VBZ been_VBN used_VBN by_IN emerging_VBG pattern_NN mining_NN =_JJ -_: =[_NN 5_CD ,_, 23_CD -RRB-_-RRB- -_: =_SYM -_: in_IN a_DT different_JJ context_NN ,_, where_WRB it_PRP is_VBZ defined_VBN as_IN patterns_NNS that_WDT are_VBP frequent_JJ in_IN positive_JJ data_NNS but_CC not_RB frequent_JJ in_IN negative_JJ data_NNS ._.
+In_IN this_DT paper_NN ,_, the_DT concept_NN serves_VBZ a_DT different_JJ objective_NN function_NN ,_, which_WDT w_NN

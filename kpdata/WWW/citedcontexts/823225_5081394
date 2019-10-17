@@ -1,0 +1,4 @@
+By_IN presenting_VBG a_DT formal_JJ semantic_JJ model_NN of_IN OWL-S_NN ,_, many_JJ Object-Z_NN and_CC Z_NN tools_NNS can_MD be_VB used_VBN for_IN checking_NN ,_, validating_VBG and_CC verifying_VBG the_DT OWL-S_NN model_NN ._.
+For_IN example_NN ,_, in_IN our_PRP$ previous_JJ work_NN ,_, we_PRP have_VBP applied_VBN Z\/EVES_NN =_JJ -_: =[_NN 7_CD ,_, 6_CD -RRB-_-RRB- -_: =_JJ -_: and_CC AA_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- separately_RB to_TO reason_NN over_IN Web_NN ontologies_NNS ._.
+We_PRP also_RB applied_VBD an_DT Object-Z_NN type_NN checker_NN to_TO validate_VB an_DT OWL-S_NN model_NN ._.
+Instead_RB of_IN developing_VBG new_JJ techniques_NNS and_CC tools_NNS ,_, reusing_VBG existing_VBG tools_NNS provid_VB

@@ -1,0 +1,4 @@
+datasets_NNS ._.
+For_IN example_NN ,_, it_PRP has_VBZ been_VBN widely_RB acknowledged_VBN in_IN the_DT image\/video_JJ retrieval_NN domain_NN that_IN a_DT query_NN concept_NN is_VBZ typically_RB a_DT nonlinear_JJ combination_NN of_IN perceptual_JJ features_NNS -LRB-_-LRB- color_NN ,_, texture_NN ,_, and_CC shape_NN -RRB-_-RRB- =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN we_PRP propose_VBP performing_VBG a_DT nonlinear_JJ transformation_NN on_IN the_DT feature_NN space_NN to_TO gain_VB greater_JJR flexibility_NN for_IN mapping_NN features_NNS to_TO semantics_NNS ._.
+We_PRP name_VBP our_PRP$ method_NN distance-function_NN alignment_NN -LRB-_-LRB- DAl_NN

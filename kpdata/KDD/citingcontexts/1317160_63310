@@ -1,0 +1,5 @@
+d_NN three_CD non-steady_JJ workloads_NNS ._.
+The_DT arrival_NN rates_NNS during_IN prime_JJ time_NN for_IN the_DT non-steady_JJ workloads_NNS was_VBD around_RB five_CD times_NNS greater_JJR than_IN the_DT normal_JJ rate_NN --_: based_VBN on_IN statistics_NNS reported_VBN by_IN Little_NNP and_CC Venkates_NNP =_SYM -_: =_JJ h_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP simulated_JJ both_CC gradual_JJ as_RB well_RB as_IN sudden_JJ increases_NNS in_IN arrival_NN rate_NN ._.
+We_PRP also_RB used_VBD a_DT workload_NN with_IN hourly_JJ spikes_NNS in_IN arrival_NN rate_NN during_IN primetime_NN ._.
+This_DT type_NN of_IN workload_NN is_VBZ based_VBN on_IN the_DT belief_NN that_IN

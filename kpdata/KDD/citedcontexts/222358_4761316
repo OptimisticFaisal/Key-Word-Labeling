@@ -1,0 +1,4 @@
+erver_NN 1_CD ._.
+INTRODUCTION_NN The_DT problem_NN of_IN user_NN access_NN prediction_NN on_IN the_DT Web_NN has_VBZ drawn_VBN extensive_JJ research_NN attention_NN recently_RB ._.
+It_PRP is_VBZ found_VBN useful_JJ in_IN many_JJ applications_NNS like_IN Web_NN caching_NN and_CC prefetching_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 11_CD ,_, 6_CD ,_, 17_CD -RRB-_-RRB- -_: =--RRB-_NN and_CC page_NN recommending_VBG system_NN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 3_CD ,_, 16_CD -RRB-_-RRB- -RRB-_-RRB- ,_, just_RB to_TO name_VB a_DT few_JJ ._.
+The_DT dramatic_JJ increase_NN of_IN Web_NN traffic_NN has_VBZ resulted_VBN in_IN wide-spread_JJ use_NN of_IN large_JJ caching_NN proxy_NN servers_NNS as_IN critical_JJ Internet_NN infrastruct_NN

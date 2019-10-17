@@ -1,0 +1,6 @@
+xpect_VB it_PRP to_TO work_VB well_RB in_IN practice_NN ._.
+5.1_CD Hardness_NN Theorem_NNP 5.1_CD ._.
+MinQueryAbandonment_NN -LRB-_-LRB- k_NN -RRB-_-RRB- is_VBZ NP-hard_JJ ._.
+Proof_NN ._.
+We_PRP show_VBP this_DT via_IN a_DT reduction_NN from_IN the_DT Minimum_NNP k-Spanning_NN Tree_NN which_WDT is_VBZ known_VBN to_TO be_VB NP-hard_JJ -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT problem_NN instance_NN of_IN the_DT Minimum_NNP k-spanning_NN tree_NN consists_VBZ of_IN a_DT graph_NN G_NN =_JJ -LRB-_-LRB- V_NN ,_, E_NN -RRB-_-RRB- ,_, an_DT integer_NN k_NN ≤_FW |_FW V_NN |_NN ,_, and_CC a_DT weight_NN function_NN w_NN :_: E_NNP →_NNP N._NNP The_NNP optimal_JJ solution_NN is_VBZ a_DT k-spanning_NN tree_NN ,_, i.e._FW ,_, a_DT subtree_JJ T_NN o_NN

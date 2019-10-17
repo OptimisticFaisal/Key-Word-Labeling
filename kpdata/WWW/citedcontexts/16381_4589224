@@ -1,0 +1,5 @@
+._.
+It_PRP extracts_VBZ concepts_NNS and_CC instances_NNS from_IN semi-structured_JJ data_NNS over_IN source_NN interface_NN and_CC data_NN pages_NNS ,_, while_IN KYLIN_NN handles_VBZ both_CC semi-structured_JJ and_CC unstructured_JJ data_NNS in_IN Wikipedia_NNP ._.
+The_DT SemTag_NNP and_CC Seeker_NNP =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: systems_NNS perform_VBP automated_JJ semantic_JJ tagging_NN of_IN large_JJ corpora_NN ._.
+They_PRP use_VBP the_DT TAP_NN knowledge_NN base_NN -LRB-_-LRB- 27_CD -RRB-_-RRB- as_IN the_DT standard_JJ ontology_NN ,_, and_CC use_VB it_PRP to_TO match_VB instances_NNS on_IN the_DT Web_NN ._.
+In_IN contrast_NN ,_, KYLIN_NN does_VBZ n't_RB assume_VB

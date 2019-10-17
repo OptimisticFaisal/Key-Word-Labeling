@@ -1,0 +1,5 @@
+h_NN constraints_NNS into_IN the_DT loading_VBG process_NN ,_, which_WDT has_VBZ not_RB been_VBN well_RB studied_VBN yet_RB ._.
+1_CD ._.
+Introduction_NN Recent_JJ studies_NNS show_VBP pattern-growth_NN method_NN is_VBZ one_CD of_IN the_DT most_RBS effective_JJ methods_NNS for_IN frequent_JJ pattern_NN mining_NN =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 4_CD ,_, 5_CD ,_, 8_CD ,_, 7_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+As_IN a_DT divide-and-conquer_JJ method_NN ,_, this_DT method_NN partitions_NNS -LRB-_-LRB- projects_NNS -RRB-_-RRB- the_DT database_NN into_IN partitions_NNS recursively_RB ,_, but_CC does_VBZ not_RB generate_VB candidate_NN sets_NNS ._.
+This_DT method_NN also_RB makes_VBZ use_NN of_IN Apriori_JJ property_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- :_:

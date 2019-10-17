@@ -1,0 +1,6 @@
+larity_NN measures_NNS 1_CD ._.
+Introduction_NN A_NN new_JJ evolutionary_JJ clustering_NN technique_NN is_VBZ proposed_VBN ._.
+This_DT method_NN represents_VBZ an_DT evolutionary_JJ variant_NN of_IN the_DT incremental_JJ clustering_NN technique_NN ._.
+Incremental_JJ clustering_NN -LRB-_-LRB- IC_NN -RRB-_-RRB- =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT powerful_JJ clustering_NN method_NN that_WDT is_VBZ of_IN great_JJ interest_NN mainly_RB because_IN the_DT number_NN of_IN clusters_NNS is_VBZ not_RB specified_VBN ._.
+This_DT feature_NN is_VBZ very_RB important_JJ in_IN the_DT field_NN of_IN unsupervised_JJ learning_NN ._.
+Therefore_RB ,_, inst_NN

@@ -1,0 +1,6 @@
+ately_RB difficult_JJ examples_NNS ._.
+After_IN each_DT new_JJ model_NN is_VBZ constructed_VBN ,_, the_DT dataset_NN is_VBZ reweighted_VBN using_VBG all_DT of_IN the_DT models_NNS so_RB far_RB ._.
+This_DT algorithm_NN can_MD be_VB parallelized_VBN in_IN a_DT style_NN that_IN ,_, by_IN now_RB ,_, should_MD be_VB familiar_JJ =_JJ -_: =[_NN 23_CD ,_, 24_CD ,_, 46_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Each_DT processor_NN executes_VBZ the_DT sequential_JJ algorithm_NN on_IN its_PRP$ own_JJ piece_NN of_IN the_DT dataset_NN ._.
+However_RB ,_, once_RB every_DT processor_NN has_VBZ built_VBN its_PRP$ model_NN ,_, these_DT are_VBP exchanged_VBN with_IN all_DT of_IN the_DT other_JJ processors_NNS ._.
+The_DT reweigh_NN

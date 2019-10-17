@@ -1,0 +1,4 @@
+om_IN ``_`` coldstart_NN problem_NN ,_, ''_'' in_IN which_WDT it_PRP can_MD not_RB generate_VB accurate_JJ recommendations_NNS without_IN enough_JJ initial_JJ ratings_NNS from_IN users_NNS ._.
+Recent_JJ works_NNS alleviate_VBP this_DT problem_NN by_IN introducing_VBG pseudo_JJ users_NNS that_IN rate_NN items_NNS =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: and_CC imputing_VBG estimated_VBN rating_NN data_NNS using_VBG some_DT imputation_NN technique_NN -LRB-_-LRB- 39_CD -RRB-_-RRB- ._.
+Content-based_JJ filtering_VBG -LRB-_-LRB- 5_CD ,_, 2_CD ,_, 27_CD -RRB-_-RRB- is_VBZ also_RB widely_RB used_VBN in_IN recommender_NN systems_NNS ._.
+This_DT approach_NN provides_VBZ recommendations_NNS by_IN compa_NN

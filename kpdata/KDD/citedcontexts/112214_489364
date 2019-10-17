@@ -1,0 +1,5 @@
+r_NN studying_VBG privacy_NN issues_NNS ._.
+Note_VB that_DT nearest_JJS neighbor_NN algorithms_NNS -LRB-_-LRB- e.g._FW ,_, GroupLens_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, LikeMinds_NNP ,_, and_CC Firefly_NNP -RRB-_-RRB- use_VBP an_DT implicit_JJ hammock_NN sequence_NN of_IN length_NN 1_CD ._.
+The_DT `_`` horting_NN '_'' algorithm_NN of_IN Aggarwal_NNP et_FW al._FW =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ sequences_NNS of_IN explicit_JJ hammock-like_JJ jumps_NNS ._.
+Our_PRP$ model_NN completely_RB ignores_VBZ accuracy_NN of_IN predicted_VBN values_NNS of_IN ratings_NNS ,_, and_CC instead_RB focuses_VBZ on_IN the_DT parameters_NNS of_IN hammock_NN width_NN and_CC path_NN length_NN ._.
+This_DT is_VBZ be_VB

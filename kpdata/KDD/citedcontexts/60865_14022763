@@ -1,0 +1,5 @@
+correlations_NNS between_IN them_PRP leads_VBZ to_TO significant_JJ performance_NN gains_NNS in_IN retrieval_NN and_CC ranking_NN ._.
+2_CD ._.
+Related_NNP Work_NNP An_NNP approach_NN that_WDT has_VBZ proved_VBN extremely_RB successful_JJ for_IN document_NN retrieval_NN is_VBZ learning_VBG to_TO rank_VB =_JJ -_: =[_NN 12_CD ,_, 7_CD ,_, 18_CD ,_, 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB a_DT ranking_JJ function_NN is_VBZ learned_VBN ,_, given_VBN either_CC the_DT pairwise_JJ preference_NN relations_NNS or_CC relevance_NN levels_NNS of_IN the_DT training_NN examples_NNS ._.
+Similar_JJ methods_NNS have_VBP also_RB been_VBN proposed_VBN for_IN ranking_JJ images_NNS ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Sev_NN

@@ -1,0 +1,4 @@
+arrange_VB the_DT remaining_VBG patterns_NNS in_IN a_DT tree_NN structure_NN so_IN that_IN a_DT user_NN can_MD start_VB quickly_RB from_IN a_DT small_JJ set_NN of_IN representative_JJ patterns_NNS ._.
+The_DT patterns_NNS delivered_VBN by_IN the_DT existing_VBG top-k_NN mining_NN algorithms_NNS such_JJ as_IN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP the_DT most_RBS frequent_JJ closed_JJ itemsets_NNS ,_, but_CC not_RB distinct_JJ ones_NNS ._.
+Users_NNS often_RB prefer_VBP distinct_JJ patterns_NNS with_IN little_RB overlap_VBP for_IN interactive_JJ exploration_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP intend_VBP to_TO solve_VB the_DT pattern_NN inter_NN

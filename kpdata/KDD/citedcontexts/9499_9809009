@@ -1,0 +1,3 @@
+lgorithms_NNS have_VBP adopted_VBN different_JJ error_NN functions_NNS ,_, such_JJ as_IN minimum_JJ mutual_JJ information_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, sum-squared_JJ distance_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, and_CC code_NN length_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+A_DT general_JJ co-clustering_NN framework_NN based_VBN on_IN Bregman_NNP divergence_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ been_VBN proposed_VBN ,_, which_WDT covers_VBZ the_DT entire_JJ exponential_JJ family_NN ._.
+For_IN example_NN ,_, in_IN Figure_NNP 4_CD ,_, given_VBN the_DT 4_CD ×_NN 5_CD input_NN matrix_NN A_NN ,_, the_DT goal_NN is_VBZ to_TO find_VB r_NN and_CC c_NN such_JJ that_IN after_IN permutation_NN according_VBG to_TO r_NN and_CC c_NN ,_,

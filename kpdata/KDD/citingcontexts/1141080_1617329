@@ -1,0 +1,3 @@
+space_NN partitioning_VBG methods_NNS on_IN uniformly_RB distributed_VBN data_NNS when_WRB the_DT dimensionality_NN is_VBZ larger_JJR than_IN 610_CD ._.
+1_CD This_DT behavior_NN has_VBZ been_VBN validated_VBN with_IN empirical_JJ testing_NN for_IN significantly_RB lower_JJR dimensionalities_NNS =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Consequently_RB ,_, a_DT technique_NN called_VBN the_DT VA-File_JJ -LRB-_-LRB- 6_CD -RRB-_-RRB- was_VBD proposed_VBN which_WDT assumes_VBZ that_IN a_DT sequential_JJ scan_VB is_VBZ inevitable_JJ and_CC tries_VBZ to_TO build_VB an_DT index_NN by_IN compressing_VBG the_DT time_NN required_VBN for_IN this_DT sequential_JJ scan_VB

@@ -1,0 +1,4 @@
+mensions_NNS of_IN a_DT given_VBN model_NN is_VBZ the_DT Bayes_NNP Information_NNP Criterion_NNP -LRB-_-LRB- BIC_NNP -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+From_IN all_DT possible_JJ model_NN dimensions_NNS ,_, BIC_NNP chooses_VBZ the_DT one_NN that_WDT maximizes_VBZ the_DT model_NN log_NN likelihood_NN function_NN ._.
+Calinski_NN and_CC Harabasz_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBN maximizing_VBG the_DT ratio_NN of_IN inter_NN -LRB-_-LRB- or_CC between_IN -RRB-_-RRB- and_CC intra_NN -LRB-_-LRB- or_CC within_IN -RRB-_-RRB- cluster_NN distances_NNS as_IN a_DT means_NN for_IN estimating_VBG k._NNP This_NNP last_JJ method_NN was_VBD empirically_RB shown_VBN to_TO be_VB the_DT most_RBS efficient_JJ -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+However_RB ,_,

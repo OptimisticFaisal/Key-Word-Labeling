@@ -1,0 +1,5 @@
+other_JJ words_NNS in_IN its_PRP$ segment_NN ._.
+In_IN the_DT previous_JJ LRR_NN model_NN ,_, such_JJ segmentation_NN is_VBZ fixed_VBN once_RB the_DT set_NN of_IN aspect_NN keywords_NNS is_VBZ determined_VBN ._.
+It_PRP would_MD be_VB also_RB interesting_JJ to_TO compare_VB LARAM_NN with_IN sLDA_NN introduced_VBN in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+sLDA_NN is_VBZ a_DT topic_NN modeling_NN based_VBN regression_NN method_NN ,_, which_WDT aims_VBZ at_IN modeling_NN the_DT labeled_JJ data_NNS in_IN the_DT projected_JJ latent_JJ topic_NN space_NN ._.
+One_CD obvious_JJ difference_NN between_IN LARAM_NN and_CC sLDA_NN is_VBZ that_IN sLDA_NN is_VBZ designed_VBN

@@ -1,0 +1,3 @@
+ich_RB allow_VB the_DT joint_JJ probability_NN distribution_NN for_IN a_DT data_NN vector_NN to_TO be_VB factorized_VBN as_IN a_DT product_NN of_IN simple_JJ conditional_JJ probabilities_NNS ._.
+Techniques_NNS for_IN learning_VBG such_JJ models_NNS from_IN sample_NN data_NNS are_VBP discussed_VBN in_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD of_IN the_DT main_JJ advantages_NNS of_IN the_DT Bayesian_JJ network_NN model_NN is_VBZ the_DT fact_NN that_IN with_IN certain_JJ technical_JJ assumptions_NNS it_PRP is_VBZ possible_JJ to_TO marginalize_VB -LRB-_-LRB- integrate_VB -RRB-_-RRB- over_IN all_DT parameter_NN instantiations_NNS in_IN order_NN to_TO p_NN

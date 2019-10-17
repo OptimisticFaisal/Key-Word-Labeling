@@ -1,0 +1,3 @@
+of_IN M_NN rows_NNS in_IN N_NN columns_NNS ,_, a_DT co-clustering_JJ algorithm_NN generates_VBZ co-clusters_NNS i.e._FW a_DT subset_NN of_IN rows_NNS which_WDT exhibit_VBP similar_JJ behavior_NN across_IN a_DT subset_NN of_IN columns_NNS ,_, or_CC vice-versa_NN ._.
+A_DT pioneer_NN work_NN is_VBZ described_VBN in_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB a_DT collection_NN of_IN text_NN data_NNS is_VBZ modelled_VBN as_IN a_DT bipartite_JJ graph_NN between_IN documents_NNS and_CC words_NNS ,_, thus_RB reducing_VBG the_DT clustering_NN problem_NN to_TO a_DT graph_NN partitioning_VBG problem_NN ._.
+A_DT similar_JJ approach_NN applied_VBN to_TO mult_VB

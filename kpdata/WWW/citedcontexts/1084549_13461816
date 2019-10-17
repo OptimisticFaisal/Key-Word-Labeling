@@ -1,0 +1,4 @@
+QoS_NN parameters_NNS using_VBG NS-2_NN simulations_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+A._NN Simulation_NN Setup_NN We_PRP performed_VBD intensive_JJ simulations_NNS to_TO study_VB the_DT performance_NN of_IN K-overlay_NN in_IN order_NN to_TO quantify_VB the_DT overall_JJ QoS_NN parameters_NNS against_IN P2Cast_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN P2Cast_NN peers_NNS are_VBP organized_VBN in_IN a_DT tree_NN structure_NN ,_, where_WRB each_DT peer_VBP receive_VB the_DT requested_VBN stream_NN and_CC forwards_RB the_DT streams_NNS to_TO other_JJ peers_NNS ._.
+In_IN P2Cast_NN ,_, peers_NNS are_VBP distributed_VBN into_IN sessions_NNS according_VBG to_TO t_NN

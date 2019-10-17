@@ -1,0 +1,4 @@
+aturally_RB require_VBP multiple_JJ rulebases_NNS or_CC at_IN least_JJS a_DT join_VB of_IN a_DT rulebase_NN with_IN itself_PRP ._.
+Some_DT examples_NNS of_IN such_JJ queries_NNS are_VBP :_: •_CD In_IN a_DT rulebase_NN of_IN newly_RB discovered_VBN rules_NNS ,_, find_VB exceptions_NNS -LRB-_-LRB- unexpected_JJ refinements_NNS =_JJ -_: =[_NN 20,25_CD -RRB-_-RRB- -_: =--RRB-_NN for_IN the_DT set_NN of_IN previously_RB discovered_VBN rules_NNS -LRB-_-LRB- stored_VBN in_IN a_DT separate_JJ rulebase_NN -RRB-_-RRB- ._.
+•_RB Find_VB minimal_JJ rules_NNS in_IN a_DT rulebase_NN ._.
+A_DT minimal_JJ rule_NN is_VBZ a_DT most_RBS general_JJ rule_NN :_: its_PRP$ left-hand-side_NN -LRB-_-LRB- LHS_NN -RRB-_-RRB- and_CC right-hand-side_NN -LRB-_-LRB- R_NN

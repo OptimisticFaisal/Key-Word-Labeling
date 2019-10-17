@@ -1,0 +1,5 @@
+of_IN all_DT frequent_JJ closed_JJ itemset_NN ._.
+Any_DT maximal_JJ frequent_JJ itemset_NN X_NN is_VBZ a_DT frequent_JJ closed_JJ itemset_NN since_IN no_DT nontrivial_JJ superset_NN of_IN X_NN is_VBZ frequent_JJ ._.
+Thus_RB we_PRP have_VBP MFI_NNP ⊆_FW FCI_FW ⊆_FW FI_NN ._.
+In_IN last_JJ five_CD years_NNS a_DT number_NN of_IN all_DT =_JJ -_: =[_NN 2_CD ,_, 8_CD ,_, 9_CD ,_, 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, maximal_JJ -LRB-_-LRB- 4_CD ,_, 6_CD -RRB-_-RRB- and_CC closed_VBN -LRB-_-LRB- 10_CD ,_, 14_CD -RRB-_-RRB- itemset_JJ mining_NN algorithms_NNS are_VBP proposed_VBN ._.
+The_DT basic_JJ strategy_NN of_IN mining_NN frequent_JJ itemset_NN by_IN all_PDT these_DT algorithms_NNS is_VBZ divided_VBN into_IN two_CD main_JJ approaches_NNS :_: Candidate-genera_NN

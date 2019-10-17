@@ -1,0 +1,4 @@
+g_NN time_NN intervals_NNS ._.
+For_IN example_NN ,_, at_IN any_DT time_NN an_DT unnoticed_JJ DDoS_NN attack_NN may_MD be_VB altering_VBG the_DT distribution_NN of_IN IP_NNP address_NN prefixes_NNS in_IN the_DT traffic_NN ;_: this_DT is_VBZ not_RB a_DT rare_JJ occurrence_NN in_IN actual_JJ measurement_NN studies_NNS =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT suggests_VBZ the_DT need_NN for_IN a_DT higher_JJR threshold_NN for_IN accepting_VBG a_DT model_NN ,_, to_TO reduce_VB its_PRP$ susceptibility_NN to_TO outliers_NNS by_IN demonstrating_VBG temporal_JJ stability_NN ._.
+In_IN a_DT data_NN stream_NN context_NN such_JJ as_IN IP_NNP traffic_NN modelin_NN

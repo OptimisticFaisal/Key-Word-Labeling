@@ -1,0 +1,3 @@
+system_NN in_IN -LRB-_-LRB- 38_CD -RRB-_-RRB- favors_VBZ ensembles_NNS with_IN diverse_JJ members_NNS since_IN it_PRP has_VBZ been_VBN empirically_RB shown_VBN that_IN having_VBG a_DT diverse_JJ set_NN of_IN models_NNS benefits_NNS predictive_JJ accuracy_NN ._.
+Additionally_RB ,_, the_DT work_NN of_IN Klinkenberg_NNP et_FW al._FW =_SYM -_: =[_NN 24_CD ,_, 22_CD ,_, 23_CD ,_, 25_CD ,_, 35_CD -RRB-_-RRB- -_: =_SYM -_: describes_VBZ and_CC compares_VBZ several_JJ strategies_NNS for_IN dealing_VBG with_IN concept_NN drift_NN such_JJ as_IN selecting_VBG base_NN learners_NNS adaptively_RB ,_, selecting_NN window_NN size_NN adaptively_RB ,_, selecting_VBG examples_NNS adaptively_RB ,_, etc._NN ._.
+Our_PRP$ solution_NN

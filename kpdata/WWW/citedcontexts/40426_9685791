@@ -1,0 +1,4 @@
+method_NN ._.
+Once_RB again_RB ,_, as_IN in_IN Section_NNP 5.1_CD ,_, the_DT size_NN of_IN the_DT document_NN collection_NN under_IN consideration_NN may_MD be_VB huge_JJ ,_, in_IN which_WDT case_NN ,_, each_DT iteration_NN is_VBZ very_RB costly_JJ ,_, sometimes_RB taking_VBG several_JJ hours_NNS to_TO a_DT few_JJ days_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC hence_RB ,_, early_RB stopping_VBG is_VBZ desirable_JJ ._.
+The_DT page_NN rank_NN vectors_NNS produced_VBN by_IN consecutive_JJ iterations_NNS are_VBP compared_VBN to_TO see_VB if_IN near_JJ convergence_NN is_VBZ attained_VBN ._.
+In_IN some_DT instances_NNS ,_, the_DT computation_NN is_VBZ performed_VBN

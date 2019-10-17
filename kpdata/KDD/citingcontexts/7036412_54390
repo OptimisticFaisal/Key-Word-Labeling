@@ -1,0 +1,3 @@
+ith_JJ statistical_JJ techniques_NNS for_IN reconstructing_VBG distributions_NNS from_IN the_DT perturbed_VBN responses_NNS -LRB-_-LRB- 37_CD -RRB-_-RRB- ._.
+Different_JJ random_JJ perturbation_NN methods_NNS have_VBP been_VBN proposed_VBN and_CC applied_VBN in_IN different_JJ data_NNS mining_NN algorithms_VBZ =_JJ -_: =[_NN 2_CD ,_, 1_CD ,_, 12_CD ,_, 28_CD ,_, 11_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Random_JJ perturbation_NN is_VBZ very_RB efficient_JJ ,_, but_CC in_IN general_JJ it_PRP can_MD induce_VB a_DT tradeoff_NN between_IN privacy_NN of_IN respondents_NNS and_CC accuracy_NN of_IN the_DT data_NNS mining_NN result_NN :_: the_DT more_JJR privacy_NN each_DT respondent_NN has_VBZ ,_, the_DT less_JJR a_DT

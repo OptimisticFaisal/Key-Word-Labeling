@@ -1,0 +1,4 @@
+se_FW semantics_NNS ._.
+Our_PRP$ idea_NN is_VBZ inspired_VBN from_IN natural_JJ language_NN processing_NN ,_, where_WRB the_DT semantics_NNS of_IN a_DT word_NN can_MD be_VB inferred_VBN from_IN its_PRP$ context_NN ,_, and_CC words_NNS sharing_VBG similar_JJ contexts_NNS tend_VBP to_TO be_VB semantically_RB similar_JJ =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Specifically_RB ,_, by_IN defining_VBG and_CC analyzing_VBG the_DT context_NN of_IN a_DT pattern_NN ,_, we_PRP can_MD find_VB strong_JJ context_NN indicators_NNS and_CC use_VB them_PRP to_TO represent_VB the_DT meanings_NNS of_IN a_DT pattern_NN ._.
+Second_RB ,_, we_PRP also_RB want_VBP to_TO extract_VB the_DT data_NNS

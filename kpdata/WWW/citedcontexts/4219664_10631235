@@ -1,0 +1,6 @@
+with_IN the_DT functionality_NN of_IN some_DT web_NN sites_NNS ._.
+5_CD ._.
+Attacks_NNS through_IN side_NN channels_NNS ._.
+Sites_NNS can_MD track_VB users_NNS through_IN side_NN channels_NNS ,_, such_JJ as_IN the_DT cache_NN timing_NN channel_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, the_DT ``_`` visited_VBN links_NNS ''_'' feature_NN of_IN browsers_NNS =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: and_CC so_RB on_RB ._.
+It_PRP is_VBZ difficult_JJ to_TO defend_VB these_DT vectors_NNS without_IN browser_NN customization_NN ,_, which_WDT is_VBZ impractical_JJ for_IN publishers_NNS to_TO deploy_VB ._.
+2.3_CD Related_NNP Work_NNP Privacy_NNP and_CC behavioral_JJ targeting_NN A_NN few_JJ recent_JJ approac_NN

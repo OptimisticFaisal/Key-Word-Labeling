@@ -1,0 +1,5 @@
+nt_NN values_NNS ,_, we_PRP obtain_VBP several_JJ well-known_JJ algorithms_NNS ._.
+•_FW α_FW =_JJ 0_CD :_: When_WRB the_DT regularization_NN parameter_NN α_NN =_JJ 0_CD ,_, it_PRP can_MD be_VB seen_VBN from_IN Eq_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- that_IN this_DT formulation_NN is_VBZ equivalent_JJ to_TO the_DT classical_JJ ridge_NN regression_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_FW ridge_FW regression_NN ,_, the_DT multiple_JJ labels_NNS are_VBP decoupled_VBN ,_, and_CC the_DT solution_NN to_TO each_DT label_NN can_MD be_VB obtained_VBN independently_RB by_IN solving_VBG a_DT system_NN of_IN linear_JJ equations_NNS ._.
+In_IN this_DT case_NN ,_, no_DT shared_JJ information_NN is_VBZ e_SYM

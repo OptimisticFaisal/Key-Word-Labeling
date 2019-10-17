@@ -1,0 +1,4 @@
+ington_RB ,_, USA_NNP ._.
+Copyright_NN 2004_CD ACM_NNP 1-58113-888-1_CD \/_: 04\/0008_CD ..._: $_$ 5.00_CD ._.
+Sunita_NNP Sarawagi_NNP ∗_NNP IIT_NNP Bombay_NNP Mumbai-400076_NNP India_NNP sunita@iitb.ac.in_NN identifying_VBG personal_JJ names_NNS and_CC company_NN names_NNS in_IN newswire_NN text_NN -LRB-_-LRB- e.g._FW =_JJ -_: =_JJ ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, identifying_VBG gene_NN and_CC protein_NN names_NNS in_IN biomedical_JJ publications_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 7_CD ,_, 20_CD -RRB-_-RRB- -RRB-_-RRB- ,_, and_CC identifying_VBG titles_NNS and_CC authors_NNS in_IN on-line_JJ publications_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 25_CD ,_, 29_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Named_VBN entity_NN recognition_NN is_VBZ an_DT important_JJ

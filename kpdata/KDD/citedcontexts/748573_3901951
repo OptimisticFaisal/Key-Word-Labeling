@@ -1,0 +1,4 @@
+proposed_VBN to_TO hide_VB association_NN rules_NNS ._.
+Although_IN our_PRP$ approach_NN is_VBZ also_RB based_VBN on_IN hiding_NN sensitive_JJ association_NN rules_NNS ,_, there_EX are_VBP several_JJ differences_NNS ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Our_PRP$ goal_NN is_VBZ to_TO hide_VB sensitive_JJ entries_NNS -LRB-_-LRB- the_DT same_JJ with_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, and_CC we_PRP use_VBP hiding_VBG association_NN rules_NNS as_IN an_DT intermediate_JJ step_NN ,_, while_IN ARH_NN 's_POS goal_NN is_VBZ to_TO hide_VB rules_NNS ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Most_JJS ARH_NN works_NNS are_VBP dealing_VBG with_IN transactional_JJ data_NNS with_IN values_NNS of_IN 1_CD and_CC 0_CD ,_, while_IN we_PRP are_VBP dealing_VBG w_NN

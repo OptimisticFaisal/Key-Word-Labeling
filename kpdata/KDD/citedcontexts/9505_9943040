@@ -1,0 +1,4 @@
+ers_NNPS log_NN -LRB-_-LRB- LC_NN -RRB-_-RRB- ,_, and_CC -LRB-_-LRB- 5_LS -RRB-_-RRB- co-clustering_NN using_VBG the_DT same_JJ answers_NNS log_NN -LRB-_-LRB- CC_NN -RRB-_-RRB- ._.
+The_DT results_NNS are_VBP for_IN top-10_JJ answers_NNS and_CC top-30_JJ answers_NNS ._.
+Notice_NNP that_IN the_DT LC_NN method_NN is_VBZ more_RBR scalable_JJ than_IN the_DT co-clustering_JJ method_NN of_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: and_CC used_VBN by_IN -LRB-_-LRB- 5_CD ,_, 6_CD -RRB-_-RRB- ._.
+For_IN large_JJ number_NN of_IN processors_NNS P_NN =_JJ 128_CD ,_, an_DT interesting_JJ advantage_NN of_IN the_DT LC-URL_NN alternative_NN is_VBZ that_IN it_PRP makes_VBZ clustering_NN of_IN document_NN URLs_NNS ,_, which_WDT means_VBZ that_IN it_PRP does_VBZ not_RB depend_VB of_IN any_DT

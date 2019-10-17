@@ -1,0 +1,4 @@
+ons_NNS ._.
+This_DT algorithm_NN strongly_RB relies_VBZ on_IN a_DT linguistic_JJ analysis_NN of_IN the_DT labels_NNS contained_VBN in_IN the_DT classifications_NNS ._.
+The_DT main_JJ difference_NN between_IN this_DT algorithm_NN and_CC other_JJ approaches_NNS to_TO schema_NN matching_NN such_JJ as_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 4_LS -RRB-_-RRB- is_VBZ that_IN in_IN order_NN to_TO interpret_VB a_DT node_NN of_IN a_DT hierarchy_NN we_PRP do_VBP not_RB limit_VB ourselves_PRP to_TO a_DT linguistic_JJ analysis_NN of_IN its_PRP$ labels_NNS ._.
+Instead_RB ,_, we_PRP extend_VBP this_DT analysis_NN by_IN considering_VBG the_DT implicit_JJ informa_NN

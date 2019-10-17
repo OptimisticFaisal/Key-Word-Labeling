@@ -1,0 +1,5 @@
+o_NN using_VBG LSI_NNP and_CC SOM_NNP ._.
+Kleinberg_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- and_CC Indyk_NNP and_CC Motwani_NNP -LRB-_-LRB- 14_CD -RRB-_-RRB- use_VBP random_JJ projections_NNS in_IN nearest-neighbor_JJ search_NN in_IN a_DT high_JJ dimensional_JJ Euclidean_JJ space_NN ,_, and_CC also_RB present_JJ theoretical_JJ insights_NNS ._.
+Dasgupta_NN =_JJ -_: =[_NN 6_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ used_VBN random_JJ projections_NNS in_IN learning_VBG high-dimensional_JJ Gaussian_JJ mixture_NN models_NNS ._.
+Other_JJ applications_NNS of_IN random_JJ projection_NN include_VBP e.g._FW -LRB-_-LRB- 4_CD ,_, 28_CD -RRB-_-RRB- ._.
+The_DT problems_NNS of_IN dimensionality_NN reduction_NN and_CC similarity_NN

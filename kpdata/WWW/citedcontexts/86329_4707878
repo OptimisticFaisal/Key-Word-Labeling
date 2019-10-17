@@ -1,0 +1,4 @@
+t_NN some_DT web_NN resources_NNS change_VBP frequently_RB -LRB-_-LRB- though_IN not_RB specifically_RB XML_NN resources_NNS -RRB-_-RRB- ._.
+Nguyen_NNP et_FW al._FW -LRB-_-LRB- 23_CD -RRB-_-RRB- describe_VBP how_WRB to_TO detect_VB changes_NNS in_IN XML_NN documents_NNS that_WDT are_VBP accessible_JJ via_IN the_DT web_NN -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+Dyreson_NNP et_FW al._FW =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: describe_VBP how_WRB a_DT web_NN server_NN can_MD capture_VB some_DT of_IN the_DT versions_NNS of_IN a_DT time-varying_JJ document_NN ._.
+Yu_NNP and_CC Popa_NNP provide_VBP an_DT algorithm_NN to_TO convert_VB either_CC a_DT list_NN of_IN changes_NNS or_CC just_RB the_DT original_JJ and_CC altered_JJ schema_NN to_TO

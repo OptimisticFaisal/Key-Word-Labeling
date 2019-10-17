@@ -1,0 +1,3 @@
+covering_VBG communities_NNS among_IN social_JJ actors_NNS ._.
+Well_RB known_VBN graph-theoretic_JJ methods_NNS include_VBP spectral_JJ graph_NN partitioning_NN -LRB-_-LRB- 58_CD ,_, 13_CD -RRB-_-RRB- ,_, hierarchical_JJ community_NN discovery_NN -LRB-_-LRB- 79_CD -RRB-_-RRB- ,_, and_CC clustering3_NN based_VBN on_IN random_JJ walks_VBZ =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Spectral_JJ graph_NN partitioning_NN is_VBZ a_DT classic_JJ spectral_JJ method_NN based_VBN on_IN the_DT Laplacian_NN of_IN the_DT graph_NN adjacency_NN matrix_NN -LRB-_-LRB- 58_CD ,_, 13_CD -RRB-_-RRB- ,_, with_IN a_DT characteristic_JJ focus_NN on_IN the_DT design_NN of_IN cost_NN functions_NNS for_IN partitioning_VBG g_NN

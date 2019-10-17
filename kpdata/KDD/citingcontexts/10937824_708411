@@ -1,0 +1,4 @@
+and_CC top-k_NN sampling_NN -LRB-_-LRB- taking_VBG top-k_JJ negative_JJ entities_NNS -RRB-_-RRB- ,_, but_CC none_NN of_IN them_PRP gives_VBZ better_JJR result_NN ._.
+Actually_RB ,_, exponential_JJ and_CC top-k_JJ sampling_NN produce_VBP very_RB poor_JJ results_NNS ._.
+This_DT confirms_VBZ experience_NN with_IN the_DT LETOR_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: judgment_NN collection_NN ,_, which_WDT uses_VBZ BM25_NN as_IN weak_JJ ranker_NN and_CC uses_NNS topk_VBP pooling_VBG ._.
+If_IN not_RB enough_RB negative_JJ samples_NNS from_IN low_JJ score_NN range_NN are_VBP sampled_VBN ,_, the_DT learned_VBN model_NN becomes_VBZ negatively_RB correlated_VBN to_TO the_DT weak_JJ

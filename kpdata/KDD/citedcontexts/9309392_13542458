@@ -1,0 +1,4 @@
+inference_NN ._.
+Collective_JJ inference_NN allows_VBZ to_TO infer_VB various_JJ interrelated_JJ values_NNS simultaneously_RB ._.
+It_PRP is_VBZ used_VBN in_IN network_NN learning_VBG since_IN it_PRP permits_VBZ to_TO estimate_VB neighboring_JJ labels_NNS which_WDT influence_VBP one_CD another_DT =_JJ -_: =[_NN 12_CD ,_, 9_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Since_IN exact_JJ inference_NN is_VBZ known_VBN to_TO be_VB an_DT NP-hard_JJ problem_NN and_CC there_EX is_VBZ no_DT guarantee_NN that_IN data_NNS network_NN satisfy_VBP the_DT conditions_NNS that_WDT make_VBP exact_JJ inference_NN tractable_JJ for_IN collective_JJ learning_NN ,_, most_JJS of_IN the_DT re_NN

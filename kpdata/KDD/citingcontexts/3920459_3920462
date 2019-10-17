@@ -1,0 +1,4 @@
+c_NN similarity_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- was_VBD introduced_VBN to_TO measure_VB the_DT similarity_NN between_IN two_CD concepts_NNS in_IN the_DT WordNet_NNP ._.
+Similar_JJ measures_NNS were_VBD also_RB applied_VBN to_TO determine_VB the_DT dissimilarity_NN between_IN a_DT pair_NN of_IN genes_NNS in_IN Gene_NNP Ontology_NNP =_SYM -_: =[_NN 20_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT following_VBG are_VBP a_DT few_JJ widely_RB adopted_VBN measures_NNS ._.
+Guided_VBN by_IN the_DT intuition_NN that_IN the_DT similarity_NN between_IN a_DT pair_NN of_IN concepts_NNS may_MD be_VB assessed_VBN by_IN ''_'' the_DT extent_NN to_TO which_WDT they_PRP share_VBP information_NN ''_'' ,_, Resnik_NNP define_VB

@@ -1,0 +1,4 @@
+nsions_NNS ._.
+By_IN iteratively_RB updating_VBG ,_, our_PRP$ clustering_NN method_NN performs_VBZ an_DT implicit_JJ adaptive_JJ feature_NN selection_NN at_IN each_DT iteration_NN and_CC has_VBZ some_DT common_JJ ideas_NNS with_IN adaptive_JJ feature_NN selection_NN methods_NNS ._.
+Ding_NNP et_FW al._FW =_SYM -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: propose_VBP an_DT adaptive_JJ dimension_NN reduction_NN clustering_NN algorithm_NN ._.
+The_DT basic_JJ idea_NN is_VBZ to_TO adaptively_RB update_VB the_DT initial_JJ feature_NN selection_NN based_VBN on_IN intermediate_JJ results_NNS during_IN the_DT clustering_NN process_NN and_CC the_DT

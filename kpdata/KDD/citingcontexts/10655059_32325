@@ -1,0 +1,3 @@
+converting_VBG words_NNS into_IN lower_JJR cases_NNS ;_: 2_LS -RRB-_-RRB- removing_VBG punctuations_NNS ,_, stop_NN words_NNS defined_VBN in_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, and_CC the_DT terms_NNS occurring_VBG less_JJR than_IN 5_CD times_NNS in_IN the_DT corpus_NN ;_: 3_LS -RRB-_-RRB- stemming_VBG each_DT word_NN to_TO its_PRP$ root_NN with_IN Porter_NNP Stemmer_NNP =_SYM -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Since_IN we_PRP only_RB have_VBP ground-truth_JJ aspect_NN ratings_NNS on_IN the_DT pre-defined_JJ 7_CD aspects_NNS ,_, we_PRP have_VBP to_TO ensure_VB the_DT same_JJ aspects_NNS are_VBP used_VBN in_IN our_PRP$ prediction_NN ._.
+Therefore_RB ,_, we_PRP manually_RB select_VBP a_DT few_JJ seed_NN words_NNS for_IN each_DT pr_NN

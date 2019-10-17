@@ -1,0 +1,4 @@
+a_DT matrix_NN of_IN the_DT dimensionality_NN of_IN the_DT number_NN of_IN classes_NNS ._.
+Let_VB us_PRP discuss_VB the_DT following_JJ two_CD cases_NNS :_: Ontologies_NNS for_IN Structured_NNP Estimation_NNP :_: For_IN hierarchical_JJ labels_NNS ,_, e.g._FW whenever_WRB we_PRP deal_VBP with_IN an_DT ontology_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP can_MD use_VB a_DT decomposition_NN of_IN the_DT coefficient_NN vector_NN along_IN the_DT hierarchy_NN of_IN categories_NNS ._.
+Let_VB d_NN denote_VB the_DT depth_NN of_IN the_DT hierarchy_NN tree_NN ,_, and_CC assume_VB that_IN each_DT leaf_NN of_IN this_DT tree_NN corresponds_VBZ to_TO a_DT label_NN ._.
+W_NN

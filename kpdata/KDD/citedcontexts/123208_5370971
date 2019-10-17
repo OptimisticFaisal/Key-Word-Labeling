@@ -1,0 +1,5 @@
+by_IN taking_VBG the_DT i-th_JJ row_NN vector_NN of_IN the_DT matrix_NN as_IN the_DT score_NN vector_NN for_IN the_DT i-th_NN node_NN ._.
+Given_VBN the_DT ranking_NN induced_VBN by_IN the_DT i-th_JJ row_NN vector_NN ,_, we_PRP call_VBP the_DT i-th_NN node_NN as_IN the_DT root_NN node_NN of_IN this_DT ranking_NN ._.
+Following_VBG =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP use_VBP the_DT minimizing_VBG Kendall_NN -LRB-_-LRB- K-min_NN -RRB-_-RRB- distance_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- between_IN the_DT top-10_JJ items_NNS to_TO evaluate_VB the_DT -LRB-_-LRB- dis_NN -RRB-_-RRB- similarity_NN of_IN rankings_NNS ._.
+A_DT small_JJ K-min_NN distance_NN means_VBZ the_DT two_CD top-10_JJ rankings_NNS are_VBP similar_JJ ._.
+It_PRP is_VBZ equal_JJ

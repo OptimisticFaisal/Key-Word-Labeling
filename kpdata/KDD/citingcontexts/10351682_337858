@@ -1,0 +1,4 @@
+a_DT driven_JJ ._.
+However_RB ,_, these_DT methods_NNS are_VBP not_RB really_RB robust_JJ ,_, since_IN mean_NN and_CC standard_JJ deviation_NN are_VBP rather_RB sensitive_JJ to_TO outliers_NNS and_CC the_DT potential_JJ outliers_NNS are_VBP still_RB considered_VBN for_IN the_DT computation_NN step_NN ._.
+In_IN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT more_RBR robust_JJ estimation_NN of_IN the_DT mean_NN and_CC the_DT standard_JJ deviation_NN is_VBZ proposed_VBN in_IN order_NN to_TO tackle_VB this_DT problem_NN ._.
+Depth_NN based_JJ approaches_NNS organize_VBP data_NNS objects_NNS in_IN convex_FW hull_FW layers_NNS expecting_VBG outliers_NNS fro_NN

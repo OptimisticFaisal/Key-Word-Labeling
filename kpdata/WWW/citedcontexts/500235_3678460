@@ -1,0 +1,4 @@
+le_DT that_IN the_DT document_NN is_VBZ included_VBN in_IN the_DT other_JJ ._.
+Web_NN pages_NNS are_VBP typically_RB composed_VBN of_IN fragments_NNS ,_, either_CC static_JJ ones_NNS -LRB-_-LRB- e.g._FW ,_, logo_NN images_NNS -RRB-_-RRB- ,_, or_CC dynamic_JJ -LRB-_-LRB- e.g._FW ,_, personalized_JJ product_NN promotions_NNS ,_, local_JJ weather_NN -RRB-_-RRB- =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+When_WRB targeting_VBG pages_NNS for_IN a_DT similarity_NN based_VBN ``_`` grouping_VBG ''_'' ,_, the_DT test_NN for_IN similarity_NN should_MD be_VB on_IN the_DT fragment_NN of_IN interest_NN and_CC not_RB the_DT entire_JJ page_NN ._.
+Bloom_NNP filters_NNS ,_, when_WRB applied_VBN to_TO similarity_NN detection_NN ,_, ha_FW

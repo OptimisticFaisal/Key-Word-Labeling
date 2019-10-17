@@ -1,0 +1,4 @@
+arty_JJ computation_NN was_VBD first_RB investigated_VBN by_IN Yao_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- and_CC was_VBD later_RB generalized_VBN to_TO multiparty_JJ computation_NN ._.
+The_DT seminal_JJ paper_NN by_IN Goldreich_NNP proves_VBZ that_IN there_EX exists_VBZ a_DT secure_JJ solution_NN for_IN any_DT functionality_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT approach_NN used_VBN is_VBZ as_IN follows_VBZ :_: the_DT function_NN f_SYM to_TO be_VB computed_VBN is_VBZ first_RB represented_VBN as_IN a_DT combinatorial_JJ circuit_NN ,_, and_CC then_RB the_DT parties_NNS run_VBP a_DT short_JJ protocol_NN for_IN every_DT gate_NN in_IN the_DT circuit_NN ._.
+Every_DT partici_NN

@@ -1,0 +1,4 @@
+standard_JJ deviation_NN is_VBZ proposed_VBN in_IN order_NN to_TO tackle_VB this_DT problem_NN ._.
+Depth_NN based_JJ approaches_NNS organize_VBP data_NNS objects_NNS in_IN convex_FW hull_FW layers_NNS expecting_VBG outliers_NNS from_IN data_NNS objects_NNS with_IN shallow_JJ depth_NN values_NNS only_RB =_JJ -_: =[_NN 30_CD ,_, 26_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT approaches_NNS from_IN computer_NN graphics_NNS are_VBP infeasible_JJ for_IN data_NNS spaces_NNS of_IN high_JJ dimensionality_NN due_JJ to_TO the_DT inherent_JJ exponential_JJ complexity_NN of_IN computing_NN convex_NN hulls_NNS ._.
+Deviation-based_JJ outlier_NN detection_NN

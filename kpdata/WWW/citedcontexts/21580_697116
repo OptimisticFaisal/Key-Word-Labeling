@@ -1,0 +1,8 @@
+nce_NN Visualizer_NNP and_CC Algernon_NNP ._.
+Jena_NNP and_CC Protégé-OWL_NNP Plugin_NNP act_VBP as_IN the_DT interface_NN between_IN the_DT Provenance_NNP Visualizer_NNP and_CC the_DT SWRL_NN ._.
+OWL_NN files_NNS ,_, and_CC between_IN Algernon_NNP and_CC the_DT SWRL_NN ._.
+OWL_NN files_NNS ,_, respectively_RB ._.
+Jena_NNP =_SYM -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, developed_VBN by_IN HP_NNP Labs_NNPS ,_, provides_VBZ the_DT programmatic_JJ environment_NN for_IN RDF_NNP ,_, RDFS_NNP and_CC OWL_NNP ._.
+Jena_NNP supports_VBZ SPARQL_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- which_WDT is_VBZ used_VBN to_TO query_VB the_DT SWRL_NNP ._.
+OWL_NN files_NNS ._.
+The_DT Protégé-OWL_NNP Plugin_NNP was_VBD used_VBN to_TO generate_VB the_DT

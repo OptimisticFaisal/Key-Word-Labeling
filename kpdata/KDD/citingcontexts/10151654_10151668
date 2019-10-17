@@ -1,0 +1,4 @@
+m_NN regarding_VBG the_DT most_JJS 's_POS ustainable_JJ '_'' configurations_NNS of_IN the_DT chiller_NN ensemble_NN under_IN a_DT particular_JJ load_NN ._.
+There_EX are_VBP several_JJ sustainability_NN metrics_NNS ,_, such_JJ as_IN ,_, power_NN consumed_VBN ,_, carbon_NN footprint_NN ,_, and_CC exergy_JJ loss_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Note_VB that_IN typically_RB optimizing_VBG a_DT sustainability_NN metric_JJ ,_, such_JJ as_IN power_NN consumed_VBN ,_, also_RB minimizes_VBZ the_DT total_JJ cost_NN of_IN operation_NN ._.
+Algorithm_NN 1_CD Counting_VBG occurrences_NNS of_IN serial_JJ episodes_NNS with_IN inter-event_JJ time_NN

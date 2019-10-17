@@ -1,0 +1,5 @@
+tion_NN problem_NN ,_, where_WRB the_DT class_NN labels_NNS are_VBP either_RB active_JJ or_CC inactive_JJ ._.
+The_DT active_JJ class_NN is_VBZ very_RB rare_JJ compared_VBN with_IN the_DT inactive_JJ class_NN ._.
+Another_DT dataset_NN is_VBZ obtained_VBN from_IN the_DT AIDS_NNP anti-viral_JJ screen_NN program_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT screening_JJ tests_NNS are_VBP evaluated_VBN in_IN one_CD of_IN the_DT following_JJ three_CD categories_NNS :_: confirmed_VBN active_JJ -LRB-_-LRB- CA_NNP -RRB-_-RRB- ,_, confirmed_VBD moderately_RB active_JJ -LRB-_-LRB- CM_NN -RRB-_-RRB- and_CC confirmed_VBD inactive_JJ -LRB-_-LRB- CI_NN -RRB-_-RRB- ._.
+Both_DT CA_NNP and_CC CM_NN classes_NNS are_VBP extremely_RB

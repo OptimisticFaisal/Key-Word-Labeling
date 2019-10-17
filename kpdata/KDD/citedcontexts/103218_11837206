@@ -1,0 +1,4 @@
+igns_NNS of_IN possible_JJ threats_NNS -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+A_DT well-known_JJ problem_NN with_IN intrusion_NN detection_NN systems_NNS is_VBZ their_PRP$ propensity_NN to_TO trigger_VB thousands_NNS of_IN alerts_VBZ per_IN day_NN ,_, the_DT overwhelming_JJ majority_NN of_IN which_WDT are_VBP actually_RB benign_JJ =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Floods_NNS of_IN alerts_VBZ overwhelm_VB human_JJ analysts_NNS and_CC result_VBP in_IN important_JJ events_NNS being_VBG lost_VBN in_IN the_DT noise_NN ._.
+One_CD way_NN to_TO circumvent_VB this_DT is_VBZ to_TO look_VB for_IN deviations_NNS in_IN the_DT aggregate_JJ behavior_NN of_IN alerts_VBZ from_IN normal_JJ

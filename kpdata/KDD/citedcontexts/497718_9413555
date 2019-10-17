@@ -1,0 +1,5 @@
+n_NN the_DT queryclick_NN graph_NN ._.
+The_DT basic_JJ concept_NN they_PRP use_VBP is_VBZ similar_JJ to_TO cocitation_NN :_: two_CD queries_NNS are_VBP related_VBN if_IN they_PRP reference_VBP the_DT same_JJ document_NN ._.
+For_IN scoring_VBG the_DT query_NN rewrites_VBZ ,_, they_PRP use_VBP a_DT variant_NN of_IN SimRank_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ a_DT generalized_JJ measure_NN of_IN cocitation_NN ._.
+White_NNP et_FW al._FW -LRB-_-LRB- 29_CD ,_, 30_CD -RRB-_-RRB- the_DT query_NN rewrites_VBZ observed_VBN in_IN a_DT query_NN log_NN are_VBP used_VBN to_TO generate_VB query_NN recommendation_NN ._.
+Given_VBN an_DT input_NN query_NN ,_, they_PRP generate_VBP a_DT set_NN of_IN

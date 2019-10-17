@@ -1,0 +1,4 @@
+ubgradient_JJ heuristic_NN ,_, followed_VBN by_IN a_DT singular_JJ value_NN decomposition_NN to_TO enforce_VB the_DT rank_NN constraints_NNS ._.
+Many_JJ techniques_NNS have_VBP been_VBN proposed_VBN for_IN performing_VBG spherical_JJ MDS_NN ._.
+Among_IN them_PRP are_VBP majorization_NN methods_NNS -LRB-_-LRB- =_JJ -_: =[_NN 33_CD -RRB-_-RRB- -_: =_JJ -_: and_CC SMACOF-Q_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- -RRB-_-RRB- ,_, a_DT multiresolution_JJ approach_NN due_JJ to_TO Elad_NNP ,_, Keller_NNP and_CC Kimmel_NNP -LRB-_-LRB- 16_CD -RRB-_-RRB- and_CC an_DT approach_NN based_VBN on_IN computing_VBG the_DT classical_JJ MDS_NN and_CC renormalizing_NN -LRB-_-LRB- 34_CD -RRB-_-RRB- ._.
+Embeddings_NNS that_IN guarantee_NN bounded_VBD error_NN

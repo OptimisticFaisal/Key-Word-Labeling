@@ -1,0 +1,4 @@
+nstructs_VBZ a_DT ranking_NN on_IN them_PRP ._.
+The_DT best_JJS ranking_NN subset_NN will_MD be_VB selected_VBN ,_, i.e._FW the_DT subset_NN with_IN the_DT highest_JJS value_NN of_IN C._NNP To_TO search_VB the_DT view_NN feature_NN space_NN ,_, the_DT CVV_NN method_NN uses_VBZ the_DT best_JJS first_JJ search_NN strategy_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT strategy_NN has_VBZ successfully_RB been_VBN applied_VBN to_TO many_JJ feature_NN selection_NN strategies_NNS -LRB-_-LRB- 12_CD ,_, 14_CD -RRB-_-RRB- ._.
+The_DT best_JJS search_NN strategy_NN initiates_VBZ with_IN an_DT empty_JJ set_NN of_IN features_NNS ,_, and_CC keeps_VBZ expanding_VBG with_IN one_CD more_JJR feature_NN

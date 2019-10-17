@@ -1,0 +1,4 @@
+elet_NN domain_NN ,_, all_DT but_CC 1_CD the_DT largest_JJS magnitude_NN coefficients_NNS are_VBP set_VBN to_TO ,_, and_CC the_DT remaining_VBG coefficients_NNS are_VBP 6_CD quantized_VBN to_TO ._.
+The_DT feature_NN vector_NN as_IN described_VBN is_VBZ quite_RB 293_CD ;_: :_: large_JJ ,_, ,_, so_RB random_JJ projection_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: using_VBG random_JJ 1728341_CD unit-length_JJ vectors_NNS is_VBZ used_VBN to_TO reduce_VB the_DT dimensionality_NN of_IN the_DT feature_NN vector_NN to_TO dimensions_NNS ._.
+The_DT average_NN of_IN each_DT color_NN channel_NN -LRB-_-LRB- the_DT ranges_NNS were_VBD =_JJ -LRB-_-LRB- -RRB-_-RRB- ,_, -LRB-_-LRB- ?_.
+-LRB-_-LRB- 5_CD ,_, and_CC #_# @_SYM 7AB1_CD #_# @_SYM 7AB1_CD -LRB-_-LRB-

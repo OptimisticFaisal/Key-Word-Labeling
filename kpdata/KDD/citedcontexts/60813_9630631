@@ -1,0 +1,4 @@
+nt_NN Analysis_NN -LRB-_-LRB- PCA_NN -RRB-_-RRB- method_NN ._.
+Learning_VBG an_DT optimal_JJ distance_NN metric_NN :_: Semi-supervised_JJ clustering_NN assumes_VBZ that_IN we_PRP dispose_VBP the_DT user_NN feedback_NN in_IN the_DT form_NN of_IN either_CC direct_JJ item_NN labels_NNS or_CC item_NN -LRB-_-LRB- dis_NN -_: -RRB-_-RRB- similarities_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Using_VBG this_DT feedback_NN ,_, the_DT better_JJR clustering_NN can_MD be_VB achieved_VBN by_IN adjusting_VBG the_DT underlying_VBG distance_NN metric_NN ,_, thus_RB allowing_VBG to_TO capture_VB the_DT user_NN 's_POS view_NN of_IN which_WDT items_NNS should_MD be_VB put_VBN together_RB or_CC apart_RB ._.
+The_DT o_NN

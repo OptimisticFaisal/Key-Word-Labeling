@@ -1,0 +1,4 @@
+eives_NNS ._.
+However_RB ,_, this_DT strategy_NN is_VBZ quite_RB expensive_JJ in_IN computation_NN and_CC may_MD not_RB be_VB feasible_JJ for_IN a_DT Web_NN mail_NN system_NN that_WDT has_VBZ hundreds_NNS of_IN millions_NNS user_NN accounts_NNS ._.
+Instead_RB of_IN creating_VBG new_JJ training_NN data_NNS ,_, Segal_NN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT method_NN to_TO combine_VB a_DT globally_RB trained_JJ model_NN with_IN a_DT model_NN trained_VBN using_VBG only_JJ personal_JJ email_NN ._.
+While_IN the_DT globally_RB trained_JJ spam_NN filter_NN always_RB outperforms_VBZ the_DT locally_RB trained_JJ one_CD ,_, the_DT combined_VBN a_DT

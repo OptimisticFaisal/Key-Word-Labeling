@@ -1,0 +1,5 @@
+mbine_NN predictions_NNS from_IN multiple_JJ learned_VBN models_NNS ._.
+Pruning_NN is_VBZ an_DT approach_NN to_TO reduce_VB overfitting_VBG the_DT training_NN data_NNS ._.
+After_IN learning_VBG a_DT decision_NN tree_NN and_CC converting_VBG each_DT path_NN in_IN the_DT tree_NN into_IN rules_NNS ,_, Quinlan_NNP =_SYM -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: removes_VBZ conditions_NNS from_IN the_DT antecedent_JJ of_IN a_DT rule_NN if_IN the_DT estimated_VBN accuracy_NN improves_VBZ ._.
+Furnkranz_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- has_VBZ a_DT review_NN of_IN various_JJ rule_NN pruning_NN techniques_NNS ._.
+For_IN rule_NN learning_NN algorithms_NNS ,_, many_JJ studies_NNS demonst_VBP

@@ -1,0 +1,5 @@
+d_NN maximum_NN facility_NN location_NN ,_, set_VBN buying_NN ,_, banner_NN ad_NN allocation_NN problem_NN with_IN guaranteed_VBN delivery_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, viral_JJ marketing_NN in_IN social_JJ networks_NNS -LRB-_-LRB- 14_CD ,_, 17_CD -RRB-_-RRB- ,_, and_CC optimal_JJ sensor_NN installation_NN for_IN outbreak_NN detection_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+See_NNP Appendix_NNP A_NNP for_IN the_DT complete_JJ definitions_NNS ._.
+For_IN this_DT class_NN of_IN problems_NNS ,_, we_PRP first_RB present_VBP a_DT hardness_NN result_NN and_CC then_RB give_VB tight_JJ greedy_JJ and_CC LP-based_JJ algorithms_NNS ._.
+Theorem_NNP 2.7_CD ._.
+Let_VB sig_NN =_JJ -LCB-_-LRB- -LRB-_-LRB- qi_FW ,_, αi_FW -RRB-_-RRB- -RCB-_-RRB- be_VB a_DT

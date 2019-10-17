@@ -1,0 +1,6 @@
+ion_NN ,_, each_DT data_NNS case_NN becomes_VBZ a_DT transaction_NN ._.
+An_DT existing_VBG association_NN rulemining_NN algorithm_NN can_MD be_VB applied_VBN to_TO the_DT dataset_NN ._.
+Discretization_NN of_IN continuous_JJ attributes_NNS will_MD not_RB be_VB discussed_VBN in_IN this_DT paper_NN -LRB-_-LRB- see_VB =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+In_IN traditional_JJ association_NN rule_NN mining_NN ,_, any_DT item_NN can_MD appear_VB on_IN the_DT left-hand-side_NN or_CC the_DT right-hand-side_NN of_IN a_DT rule_NN ._.
+For_IN scoring_VBG ,_, we_PRP have_VBP a_DT fixed_VBN class_NN attribute_NN with_IN two_CD classes_NNS ._.
+Thus_RB ,_, we_PRP are_VBP only_RB

@@ -1,0 +1,5 @@
+nking_NN assigns_VBZ a_DT real_JJ number_NN to_TO each_DT pair_NN of_IN pages_NNS ,_, and_CC thus_RB ,_, for_IN each_DT one_CD given_VBN page_NN ,_, determines_VBZ a_DT total_JJ order_NN relative_JJ to_TO the_DT given_VBN page_NN ._.
+Common_JJ Neighbors_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, Jaccard_NNP 's_POS Coefficient_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, and_CC SimRank_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: belong_VBP to_TO Relative_JJ Ranking_NN ._.
+All_PDT the_DT mentioned_VBN ranking_NN algorithms_NNS are_VBP established_VBN on_IN a_DT graph_NN ,_, and_CC will_MD be_VB established_VBN on_IN a_DT random_JJ graph_NN ._.
+For_IN our_PRP$ convenience_NN ,_, we_PRP first_RB give_VB some_DT notations_NNS ._.
+Throughout_IN t_NN

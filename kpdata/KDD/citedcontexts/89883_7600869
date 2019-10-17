@@ -1,0 +1,5 @@
+Apriori-like_JJ algorithm_NN :_: TreeMiner_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, and_CC pattern-growth_NN algorithms_NNS :_: Chopper_NN ,_, XSpanner_NN ._.
+1_CD Introduction_NN Mining_NN frequent_JJ structural_JJ patterns_NNS from_IN a_DT large_JJ tree_NN database_NN -LRB-_-LRB- 2_CD ,_, 4_CD ,_, 6_CD -RRB-_-RRB- and_CC a_DT graph_NN database_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT new_JJ subject_NN in_IN frequent_JJ pattern_NN mining_NN ._.
+Many_JJ mining_NN subtree_NN pattern_NN algorithms_NNS have_VBP been_VBN presented_VBN ._.
+Generally_RB speaking_VBG ,_, these_DT algorithms_NNS can_MD be_VB broadly_RB classified_VBN into_IN three_CD categories_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+The_DT

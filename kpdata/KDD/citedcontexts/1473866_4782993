@@ -1,0 +1,5 @@
+Duplicates_NNS are_VBP often_RB picked_VBN using_VBG a_DT similarity_NN measure_NN ._.
+Such_JJ measures_NNS can_MD be_VB defined_VBN manually_RB ,_, but_CC for_IN strings_NNS suitable_JJ similarity_NN measures_NNS can_MD be_VB learned_VBN automatically_RB using_VBG support_NN vector_NN machines_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT improves_VBZ the_DT detection_NN accuracy_NN ._.
+Searching_NN the_DT WHO_WP drug_NN safety_NN database_NN for_IN duplicates_NNS is_VBZ one_CD example_NN of_IN difficult_JJ duplicate_VBP detection_NN ._.
+-LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+Since_IN duplicates_NNS are_VBP hard_JJ to_TO detect_VB in_IN first_JJ place_NN

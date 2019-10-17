@@ -1,0 +1,4 @@
+of_IN a_DT certain_JJ kernel_NN feature_NN space_NN ._.
+Subspace_NN kernel_NN learning_NN that_WDT finds_VBZ such_PDT a_DT lowdimensional_JJ subspace_NN for_IN effective_JJ pattern_NN discovery_NN has_VBZ received_VBN considerable_JJ attention_NN recently_RB -LRB-_-LRB- 13_CD ,_, 16_CD ,_, 17_CD ,_, 26_CD -RRB-_-RRB- ._.
+In_IN =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT discriminative_JJ subspace_NN kernel_NN learning_NN algorithm_NN was_VBD proposed_VBN to_TO find_VB a_DT low-dimensional_JJ subspace_NN of_IN the_DT kernel_NN feature_NN space_NN ._.
+Kernel_NNP Target_NN Alignment_NN -LRB-_-LRB- KTA_NN -RRB-_-RRB- -LRB-_-LRB- 6_CD -RRB-_-RRB- was_VBD employed_VBN as_IN the_DT learning_NN criter_NN

@@ -1,0 +1,5 @@
+d_NN 11_CD hours_NNS in_IN the_DT d-linear_NN case_NN ._.
+For_IN higher_JJR dimensions_NNS the_DT factor_NN will_MD be_VB even_RB larger_JJR ._.
+3.3_CD 10-dimensional_JJ problems_NNS 3.3.1_CD Forest_NNP cover_NN type_NN The_DT forest_NN cover_NN type_NN dataset_NN comes_VBZ from_IN the_DT UCI_NNP KDD_NNP Archive_NNP =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, it_PRP was_VBD also_RB used_VBN in_IN -LRB-_-LRB- 30_CD -RRB-_-RRB- ,_, where_WRB an_DT approach_NN similar_JJ to_TO ours_PRP was_VBD followed_VBN ._.
+It_PRP consists_VBZ of_IN cartographic_JJ variables_NNS for_IN 30_CD x_CC 30_CD meter_NN cells_NNS and_CC a_DT forest_NN cover_NN type_NN is_VBZ to_TO be_VB predicted_VBN ._.
+The_DT 12_CD originally_RB

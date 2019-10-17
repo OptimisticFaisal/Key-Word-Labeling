@@ -1,0 +1,4 @@
+odes_NNS ._.
+In_IN the_DT theory_NN community_NN ,_, the_DT notion_NN of_IN kspanner_NN refers_VBZ to_TO a_DT sparse_JJ subgraph_NN that_WDT maintains_VBZ the_DT distances_NNS in_IN the_DT original_JJ graph_NN up_IN to_TO a_DT factor_NN of_IN k._NN The_DT problem_NN is_VBZ to_TO find_VB the_DT sparsest_JJS k-spanner_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN pathfinder_NN networks_NNS -LRB-_-LRB- 26_CD ,_, 29_CD -RRB-_-RRB- the_DT approach_NN is_VBZ to_TO select_VB weighted_JJ edges_NNS that_WDT do_VBP not_RB violate_VB the_DT triangular_JJ inequality_NN ._.
+Moreover_RB ,_, Fung_NNP et_FW al._FW -LRB-_-LRB- 35_CD -RRB-_-RRB- study_NN cut-sparsifiers_NNS ,_, i.e._FW subsets_NNS of_IN edges_NNS that_IN p_NN

@@ -1,0 +1,3 @@
+goal_NN -RRB-_-RRB- ,_, we_PRP 're_VBP done_VBN ,_, otherwise_RB continue_VBP ;_: As_IN the_DT above_JJ pseudocode_NN suggests_VBZ ,_, we_PRP have_VBP found_VBN that_IN filtering_VBG the_DT output_NN using_VBG a_DT genre_NN screener_NN yields_VBZ higher-quality_JJ results_NNS -LRB-_-LRB- this_DT finding_NN is_VBZ in_IN keeping_VBG with_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Genre_NN screening_NN is_VBZ based_VBN on_IN term_NN vectors_NNS ._.
+We_PRP combine_VBP terms_NNS associated_VBN with_IN a_DT result_NN --_: including_VBG its_PRP$ title_NN terms_NNS ,_, URL_NN ,_, and_CC ``_`` snippet_NN ''_'' terms_NNS --_: into_IN a_DT result_NN term_NN vector_NN which_WDT we_PRP then_RB compare_VBP against_IN

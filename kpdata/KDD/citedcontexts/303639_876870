@@ -1,0 +1,4 @@
+space_NN ,_, which_WDT respects_VBZ the_DT triangle_NN inequality_NN ._.
+We_PRP consider_VBP arbitrary_JJ weighted_JJ networks_NNS whose_WP$ induced_VBD distance_NN measure_NN does_VBZ not_RB necessarily_RB satisfy_VB the_DT triangle_NN inequality_NN ._.
+More_RBR recent_JJ studies_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 36_CD ,_, 33_CD ,_, 2_CD ,_, 8_CD ,_, 30_CD ,_, 4_CD ,_, 5_CD -RRB-_-RRB- -_: =--RRB-_NN address_NN the_DT general_JJ scenario_NN of_IN networks_NNS with_IN arbitrary_JJ pairwise_JJ similarity_NN weights_NNS ._.
+These_DT algorithms_NNS substantially_RB differ_VBP from_IN ours_PRP ,_, because_IN they_PRP do_VBP not_RB rank_VB clusters_NNS and_CC are_VBP not_RB guaranteed_VBN to_TO outp_VB

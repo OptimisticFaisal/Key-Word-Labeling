@@ -1,0 +1,4 @@
+,_, our_PRP$ framework_NN could_MD be_VB built_VBN on_IN top_NN of_IN such_PDT an_DT inductive_JJ database_NN implementation_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+Most_RBS similar_JJ to_TO the_DT system_NN presented_VBN here_RB is_VBZ the_DT framework_NN for_IN mining_NN decision_NN trees_NNS proposed_VBN by_IN Ankerst_NNP et_FW al._FW =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT user_NN and_CC computer_NN work_NN together_RB in_IN this_DT system_NN such_JJ that_IN in_IN each_DT step_NN either_CC the_DT user_NN or_CC the_DT computer_NN can_MD make_VB the_DT decision_NN for_IN a_DT new_JJ split_NN ._.
+The_DT computer_NN also_RB provides_VBZ extra_JJ computational_JJ power_NN

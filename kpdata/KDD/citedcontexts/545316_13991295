@@ -1,0 +1,5 @@
+graphs_NNS are_VBP best_RB printed_VBN in_IN color_NN ._.
+three_CD times_NNS more_RBR event-related_JJ queries_NNS in_IN this_DT set_NN of_IN queries_NNS than_IN in_IN a_DT 0.01-fraction_JJ random_JJ sample_NN of_IN the_DT queries_NNS ._.
+Lift_VB measures_NNS the_DT precision_NN at_IN a_DT given_VBN threshold_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, albeit_RB scaled_VBD such_JJ that_IN it_PRP can_MD be_VB larger_JJR than_IN 1_CD ._.
+Table_NNP 3_CD shows_VBZ the_DT average_JJ precision_NN and_CC lift_NN obtained_VBN by_IN the_DT system_NN when_WRB attempting_VBG to_TO identify_VB term-matched_JJ queries_NNS in_IN the_DT popular_JJ queries_NNS ._.
+The_DT lift_NN

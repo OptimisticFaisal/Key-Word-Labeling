@@ -1,0 +1,5 @@
+ch_RB ,_, namely_RB an_DT Ngram_NNP model_NN for_IN capturing_VBG the_DT user_NN navigation_NN behavior_NN patterns_NNS ._.
+The_DT Ngram_NNP model_NN assumes_VBZ that_IN the_DT last_JJ N_NN pages_NNS browsed_VBD affect_VB the_DT probability_NN of_IN identifying_VBG the_DT next_JJ page_NN to_TO be_VB visited_VBN ._.
+=_SYM -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: uses_VBZ Probabilistic_JJ Latent_JJ Semantic_JJ Analysis_NN -LRB-_-LRB- PLSA_NN -RRB-_-RRB- to_TO discover_VB the_DT navigation_NN patterns_NNS ._.
+Using_VBG PLSA_NN the_DT hidden_JJ semantic_JJ relationships_NNS among_IN users_NNS and_CC between_IN users_NNS and_CC Web_NN pages_NNS can_MD be_VB detected_VBN ._.
+In_IN -LRB-_-LRB- 2_CD

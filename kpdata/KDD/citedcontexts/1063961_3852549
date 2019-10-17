@@ -1,0 +1,5 @@
+s_NN between_IN the_DT two_CD languages_NNS ._.
+To_TO evaluate_VB the_DT results_NNS quantitatively_RB ,_, we_PRP select_VBP a_DT sample_NN of_IN representative_JJ topics_NNS from_IN English_NNP by_IN performing_VBG word_NN clustering_NN using_VBG the_DT simple_JJ mixture_NN model_NN presented_VBN in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP generated_VBD 30_CD clusters_NNS in_IN this_DT way_NN ._.
+¡_FW sWe_FW then_RB take_VB the_DT top_JJ 5_CD English_JJ documents_NNS from_IN the_DT three_CD randomly_RB chosen_VBN clusters_NNS ,_, to_TO generate_VB 15_CD seed_NN English_JJ documents_NNS ._.
+For_IN each_DT English_NNP document_NN ,_, we_PRP use_VBP the_DT

@@ -1,0 +1,6 @@
+ion_NN ._.
+Furthermore_RB ,_, the_DT conditional_JJ distribution_NN of_IN A1_NN given_VBN |_NNP S_NNP ′_NNP |_NNP converges_VBZ to_TO the_DT normal_JJ distribution_NN ._.
+Several_JJ data-driven_JJ methods_NNS have_VBP been_VBN proposed_VBN for_IN kernel_NN bandwidth_NN selection_NN ._.
+The_DT plug-in_JJ rule_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: seems_VBZ to_TO be_VB the_DT most_RBS widely_RB used_VBN ._.
+This_DT method_NN assumes_VBZ fixed_JJ bandwidth_NN for_IN all_PDT the_DT kernels_NNS and_CC is_VBZ not_RB suitable_JJ when_WRB data_NN exhibits_VBZ local_JJ scale_NN variations_NNS ._.
+The_DT optimal_JJ bandwidth_NN selection_NN methods_NNS propos_NNS

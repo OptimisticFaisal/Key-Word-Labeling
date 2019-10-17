@@ -1,0 +1,4 @@
+3.2_CD The_DT Disagreement_NN distance_NN In_IN this_DT section_NN we_PRP formally_RB define_VBP the_DT notion_NN of_IN distance_NN between_IN two_CD segmentations_NNS ._.
+Our_PRP$ distance_NN function_NN is_VBZ based_VBN on_IN similar_JJ distance_NN functions_NNS proposed_VBN for_IN clustering_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: and_CC ranking_JJ -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+The_DT intuition_NN for_IN the_DT distance_NN function_NN is_VBZ drawn_VBN from_IN the_DT discrete_JJ case_NN ._.
+Given_VBN two_CD discrete_JJ timeline_NN segmentations_NNS ,_, the_DT disagreement_NN distance_NN is_VBZ the_DT total_JJ number_NN of_IN pairs_NNS of_IN points_NNS t_NN

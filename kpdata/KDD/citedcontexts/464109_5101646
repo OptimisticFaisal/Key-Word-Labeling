@@ -1,0 +1,6 @@
+the_DT minimum_NN bounding_VBG hypersphere_NN in_IN projected_VBN space_NN ._.
+To_TO do_VB so_RB efficiently_RB ,_, we_PRP leverage_NN information_NN available_JJ from_IN the_DT classification_NN stage_NN ._.
+Specifically_RB ,_, we_PRP use_VBP the_DT alphaseeding_NN technique_NN outlined_VBN in_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+•_NNP Stage_NNP 2_CD :_: Aggregate_JJ instances_NNS into_IN groups_NNS ._.
+Details_NNS of_IN techniques_NNS applied_VBN -LRB-_-LRB- Membership_NN detection_NN and_CC Partitioning_NN -RRB-_-RRB- are_VBP discussed_VBN below_IN ._.
+Alpha_NNP Seeding_NNP :_: The_DT learning_VBG algorithm_NN to_TO determine_VB R_NN typically_RB

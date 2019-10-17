@@ -1,0 +1,3 @@
+tic_JJ factor_NN graph_NN model_NN ,_, which_WDT takes_VBZ a_DT research_NN publication_NN network_NN as_IN input_NN and_CC models_NNS the_DT advisor-advisee_JJ relationship_NN mining_NN problem_NN using_VBG a_DT jointly_RB likelihood_NN objective_JJ function_NN has_VBZ been_VBN developed_VBN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP successfully_RB mines_NNS advisor-advisee_JJ hidden_JJ roles_NNS in_IN theDBLP_NN database_NN with_IN high_JJ accuracy_NN ._.
+Such_JJ mechanism_NN can_MD be_VB further_RB developed_VBN to_TO discover_VB hierarchical_JJ relationships_NNS among_IN objects_NNS under_IN differe_NN

@@ -1,0 +1,3 @@
+s_VBZ some_DT others_NNS require_VBP more_RBR sophisticated_JJ designs_NNS -LRB-_-LRB- e.g._FW ,_, neural_JJ networks_NNS or_CC support_NN vector_NN machines_NNS -RRB-_-RRB- because_IN a_DT natural_JJ metaphor_NN simply_RB does_VBZ not_RB exist_VB ._.
+One_CD example_NN of_IN model_NN visualization_NN is_VBZ ``_`` Nomograms_NNP ''_'' =_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- Figure_NNP 4_CD -RRB-_-RRB- ,_, where_WRB the_DT output_NN of_IN a_DT classification_NN or_CC regression_NN algorithm_NN -LRB-_-LRB- e.g._FW ,_, SVM_NN -RRB-_-RRB- is_VBZ presented_VBN in_IN a_DT way_NN to_TO understand_VB the_DT relationship_NN between_IN dimensions_NNS and_CC target_NN variable_NN ._.
+Figure_NN 4_CD --_: Nomogram_NNP v_LS

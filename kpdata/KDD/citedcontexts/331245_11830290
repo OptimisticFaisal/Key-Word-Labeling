@@ -1,0 +1,5 @@
+t_NN patterns_NNS in_IN the_DT projected_JJ space_NN ,_, and_CC finally_RB reconstruct_VB all_DT frequent_JJ patterns_NNS in_IN the_DT graph_NN space_NN ._.
+We_PRP call_VBP this_DT strategy_NN progressive_JJ mining_NN ._.
+Algorithms_NNS in_IN this_DT category_NN include_VBP SPIN_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- and_CC GASTON_NN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+2.2_CD Graph_NN Classification_NN In_IN graph_NN classification_NN ,_, each_DT graph_NN is_VBZ associated_VBN with_IN a_DT target_NN value_NN and_CC the_DT task_NN is_VBZ to_TO estimate_VB a_DT good_JJ function_NN that_IN 1_CD ._.
+The_DT term_NN occur_VBP is_VBZ formally_RB defined_VBN using_VBG subgraph_FW i_FW

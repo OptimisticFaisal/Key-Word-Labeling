@@ -1,0 +1,3 @@
+c_NN coupling_NN and_CC SimRank_NN can_MD be_VB used_VBN to_TO determine_VB the_DT similarity_NN of_IN objects_NNS -LRB-_-LRB- e.g._FW web_NN pages_NNS -RRB-_-RRB- ,_, which_WDT are_VBP based_VBN on_IN the_DT citation_NN patterns_NNS of_IN documents_NNS and_CC the_DT similarity_NN of_IN structural_JJ context_NN respectively_RB =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =-[_NN 11_CD -RRB-_-RRB- ._.
+Moreover_RB ,_, the_DT Companion_NNP algorithm_NN derived_VBN from_IN HITS_NN -LRB-_-LRB- Hyperlink-Induced_JJ Topic_NN Selection_NN -RRB-_-RRB- is_VBZ proposed_VBN for_IN finding_VBG related_JJ pages_NNS by_IN exploiting_VBG links_NNS and_CC their_PRP$ order_NN on_IN a_DT page_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+sThis_NN conducts_VBZ

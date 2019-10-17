@@ -1,0 +1,5 @@
+the_DT state-of-art_JJ algorithms_NNS ._.
+Keywords_NNS data_NNS mining_NN ,_, clustering_NN ,_, categorical_JJ data_NNS ,_, scalability_NN 1_CD ._.
+INTRODUCTION_NN Clustering_NN is_VBZ an_DT important_JJ data_NN mining_NN technique_NN that_IN groups_NNS together_RB similar_JJ data_NN records_NNS =_JJ -_: =[_NN 12_CD ,_, 14_CD ,_, 4_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Recently_RB ,_, more_JJR attention_NN has_VBZ been_VBN put_VBN on_IN clustering_NN categorical_JJ data_NNS -LRB-_-LRB- 10_CD ,_, 8_CD ,_, 6_CD ,_, 5_CD ,_, 7_CD ,_, 13_CD -RRB-_-RRB- ,_, where_WRB records_NNS are_VBP made_VBN up_RP of_IN non-numerical_JJ attributes_NNS ._.
+Transactional_JJ data_NNS ,_, like_IN market_NN basket_NN data_NNS and_CC web_NN

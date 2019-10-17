@@ -1,0 +1,4 @@
+fore_NN feature_NN generation_NN phase_NN ._.
+E_NN #_# -_: cient_JJ clustering_NN algorithms_NNS can_MD be_VB used_VBN for_IN document_NN clustering_NN based_VBN on_IN the_DT regularities_NNS characteristic_JJ of_IN citation_NN structure_NN in_IN corpora_NN of_IN scientific_JJ publications_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT original_JJ database_NN schema_NN contains_VBZ several_JJ entities_NNS which_WDT can_MD be_VB clustered_VBN based_VBN on_IN a_DT number_NN of_IN alternative_JJ criteria_NNS ._.
+Each_DT many-to-many_JJ relation_NN in_IN the_DT original_JJ schema_NN presented_VBN above_RB can_MD produce_VB

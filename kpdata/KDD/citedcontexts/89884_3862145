@@ -1,0 +1,5 @@
+2edge_FW RSTs_FW level-wise_NN ,_, from_IN which_WDT 3-edge_JJ RSTs_NNS are_VBP obtained_VBN ,_, and_CC so_RB on_RB ._.
+Figure_NN 8_CD -LRB-_-LRB- a_DT -RRB-_-RRB- shows_VBZ a_DT 2-edge_JJ RST_NN R_NN and_CC the_DT set_NN of_IN corresponding_VBG 3-edge_JJ RSTs_NNS obtained_VBN based_VBN on_IN the_DT G-QPT_NN in_IN Figure_NNP 7_CD ._.
+The_DT method_NN in_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: do_VBP not_RB use_VB schema_NN information_NN to_TO guide_VB the_DT generation_NN of_IN candidate_NN subtrees_NNS ._.
+As_IN a_DT result_NN ,_, a_DT large_JJ number_NN of_IN candidate_NN trees_NNS will_MD be_VB produced_VBN ,_, including_VBG unnecessary_JJ and_CC invalid_JJ trees_NNS ._.
+Figure_NN 8_CD -LRB-_-LRB- b_NN -RRB-_-RRB- show_VBP

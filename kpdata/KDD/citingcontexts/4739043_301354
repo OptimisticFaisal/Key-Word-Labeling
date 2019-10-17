@@ -1,0 +1,4 @@
+ty_NN of_IN the_DT event_NN occurring_VBG within_IN a_DT specific_JJ time_NN ._.
+However_RB ,_, in_IN general_JJ ,_, the_DT reliability_NN of_IN the_DT Cox_NNP model_NN deteriorates_VBZ if_IN the_DT number_NN of_IN features_NNS is_VBZ greater_JJR than_IN the_DT number_NN of_IN events_NNS divided_VBN by_IN 10_CD or_CC 20_CD =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN our_PRP$ application_NN ,_, it_PRP is_VBZ expensive_JJ and_CC difficult_JJ to_TO collect_VB the_DT patient_NN data_NNS ,_, and_CC the_DT data_NNS set_NN consists_VBZ of_IN only_RB 130_CD patients_NNS ,_, each_DT of_IN which_WDT is_VBZ represented_VBN by_IN a_DT vector_NN of_IN 25_CD features_NNS ._.
+We_PRP have_VBP seen_VBN t_NN

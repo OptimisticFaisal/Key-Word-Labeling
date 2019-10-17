@@ -1,0 +1,3 @@
+from_IN heterogeneous_JJ social_JJ networks_NNS is_VBZ rather_RB limited_JJ 2_CD ._.
+Treating_VBG heterogeneous_JJ graphs_NNS the_DT same_JJ as_IN homogeneous_JJ ones_NNS leads_VBZ to_TO difficulty_NN in_IN normalization_NN since_IN different_JJ edge_NN types_NNS may_MD be_VB incomparable_JJ =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, observations_NNS of_IN real-world_JJ networks_NNS often_RB indicate_VBP diverse_JJ network_NN structures_NNS ,_, many_JJ of_IN which_WDT can_MD be_VB modeled_VBN as_IN heterogeneous_JJ networks_NNS of_IN social_JJ actors_NNS and_CC the_DT other_JJ node_NN types_NNS such_JJ as_IN docum_NN

@@ -1,0 +1,4 @@
+support_NN is_VBZ not_RB easily_RB fitted_VBN in_IN the_DT eval-function_NN provided_VBD there_RB ._.
+-LRB-_-LRB- Next_JJ to_TO this_DT framework_NN Steinbach_NNP also_RB provides_VBZ a_DT couple_NN of_IN example_NN functions_NNS ._. -RRB-_-RRB-
+Our_PRP$ work_NN also_RB has_VBZ some_DT relation_NN with_IN research_NN done_VBN in_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: concerning_VBG weighted_JJ association_NN rule_NN mining_NN where_WRB different_JJ items_NNS have_VBP different_JJ weights_NNS ._.
+Consecutive_JJ support_NN can_MD be_VB seen_VBN as_IN weighted_JJ patterns_NNS based_VBN on_IN distance_NN between_IN transactions_NNS that_WDT contain_VBP them_PRP

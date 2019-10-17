@@ -1,0 +1,4 @@
+rithms_NNS and_CC show_VBP that_IN they_PRP are_VBP up_RB to_TO two_CD orders_NNS of_IN magnitude_NN faster_RBR than_IN user-based_JJ algorithms_NNS ._.
+As_IN described_VBN above_IN ,_, Eigentaste_NN 2.0_CD is_VBZ well-suited_JJ to_TO the_DT cold-start_JJ situation_NN for_IN new_JJ users_NNS ._.
+Park_NNP et_FW al._FW =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: use_NN filterbots_NNS ,_, bots_NNS that_WDT algorithmically_RB rate_NN items_NNS based_VBN on_IN item_NN or_CC user_NN attributes_NNS ,_, to_TO handle_VB cold-start_JJ situations_NNS ._.
+Schein_NNP et_FW al._FW -LRB-_-LRB- 15_CD -RRB-_-RRB- discuss_VBP methods_NNS for_IN dealing_VBG with_IN the_DT cold-start_JJ problem_NN for_IN

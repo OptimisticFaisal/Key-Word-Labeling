@@ -1,0 +1,4 @@
+blem_NN in_IN Figure_NNP 1_CD ._.
+Finally_RB ,_, an_DT alternative_NN to_TO explicit_JJ discretization_NN is_VBZ to_TO use_VB range_NN tests_NNS -LRB-_-LRB- -RRB-_-RRB- ,_, ,_, -LRB-_-LRB- ,_, -RRB-_-RRB- ._.
+This_DT approach_NN is_VBZ usually_RB taken_VBN in_IN optimized_VBN rule_NN mining_NN -LRB-_-LRB- Fukuda_NNP et_FW al._FW ,_, 1996_CD ;_: Yoda_NNP et_FW al._FW ,_, 1997_CD ;_: =_JJ -_: =_JJ Brin_NNP et_FW al._FW ,_, 1999_CD -_: =_JJ -_: ;_: Rastogi_NNP &_CC Shim_NNP ,_, 1998_CD ;_: Rastogi_NNP &_CC Shim_NNP ,_, 1999_CD -RRB-_-RRB- where_WRB the_DT goal_NN is_VBZ not_RB to_TO nd_VB a_DT set_NN of_IN rules_NNS that_WDT characterize_VBP the_DT data_NNS but_CC rather_RB to_TO nd_VB a_DT single_JJ rule_NN that_WDT is_VBZ optimal_JJ according_VBG to_TO a_DT metric_NN ._.
+Because_IN of_IN the_DT

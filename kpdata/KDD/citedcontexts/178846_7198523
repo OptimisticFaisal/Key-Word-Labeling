@@ -1,0 +1,4 @@
+ATTERNS_NNP ,_, ASSOCIATIONS_NNP ,_, AND_NNP CORRELATIONS_NNP 9_CD ._.
+-LRB-_-LRB- Implementation_NN project_NN -RRB-_-RRB- Implement_NN three_CD closed_VBD frequent_JJ itemset_JJ mining_NN methods_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- A-Close_NN -LRB-_-LRB- PBTL99_NN -RRB-_-RRB- -LRB-_-LRB- based_VBN on_IN an_DT extension_NN of_IN Apriori_NN -LRB-_-LRB- AS94b_NN -RRB-_-RRB- -RRB-_-RRB- ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- CLOSET_NN +_CC =_JJ -_: =_JJ -LRB-_-LRB- WHP03_NN -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- based_VBN on_IN an_DT extension_NN of_IN FP-growth_NN -LRB-_-LRB- HPY00_NN -RRB-_-RRB- -RRB-_-RRB- ,_, and_CC -LRB-_-LRB- 3_LS -RRB-_-RRB- CHARM_NN -LRB-_-LRB- ZH02_NN -RRB-_-RRB- -LRB-_-LRB- based_VBN on_IN an_DT extension_NN of_IN Eclat_NN -LRB-_-LRB- Zak00_NN -RRB-_-RRB- -RRB-_-RRB- ._.
+Compare_VB their_PRP$ performance_NN with_IN various_JJ kinds_NNS of_IN large_JJ data_NNS sets_NNS ._.
+Write_VB a_DT report_NN to_TO answer_VB

@@ -1,0 +1,5 @@
+s_NN input_NN units_NNS ,_, e.g._FW ,_, -LRB-_-LRB- 7_CD -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+Existing_VBG solutions_NNS to_TO page_NN segmentation_NN fall_NN into_IN two_CD categories_NNS ._.
+The_DT first_JJ class_NN is_VBZ based_VBN on_IN some_DT non-visual_JJ cues_NNS such_JJ as_IN HTML_NNP DOM_NNP tags_NNS ,_, content_NN ,_, links_NN ,_, etc_NN ,_, e.g._FW -LRB-_-LRB- 1_LS -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =-[_CD 5_CD -RRB-_-RRB- -LRB-_-LRB- 6_CD -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Methods_NNS of_IN this_DT class_NN often_RB achieve_VBP low_JJ accuracy_NN because_IN of_IN overlooking_VBG visual_JJ cues_NNS ._.
+The_DT second_JJ class_NN suggests_VBZ an_DT opposite_JJ solution_NN ,_, e.g._FW ,_, -LRB-_-LRB- 3_CD -RRB-_-RRB- proposed_VBD a_DT purely_RB vision-based_JJ method_NN ,_,

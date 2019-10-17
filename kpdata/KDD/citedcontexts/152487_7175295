@@ -1,0 +1,4 @@
+using_VBG partition_NN properties_NNS and_CC discernability_NN matrix_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Rough_JJ sets_NNS have_VBP many_JJ applications_NNS in_IN KDD_NNP among_IN them_PRP ,_, feature_NN selection_NN ,_, data_NNS reduction_NN ,_, and_CC discretization_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 17_CD -RRB-_-RRB- -_: -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+Rough_JJ sets_NNS can_MD be_VB used_VBN to_TO find_VB subsets_NNS of_IN relevant_JJ -LRB-_-LRB- indispensable_JJ -RRB-_-RRB- features_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Combining_VBG rough_JJ sets_NNS theory_NN with_IN a_DT known_JJ classifier_NN yields_VBZ a_DT wrapper_NN feature_NN selection_NN method_NN since_IN i_FW

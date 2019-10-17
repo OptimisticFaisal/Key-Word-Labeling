@@ -1,0 +1,4 @@
+to_TO compute_VB two_CD matrices_NNS L_NNP ∈_NNP IR_NNP r_NN ×_NN ℓ1_NN and_CC R_NN ∈_FW IR_FW c_NN ×_FW ℓ2_FW with_IN orthonormal_JJ columns_NNS ,_, such_JJ that_IN the_DT variance_NN var_NN -LRB-_-LRB- L_NN ,_, R_NN -RRB-_-RRB- is_VBZ maximum_JJ ._.
+Unfortunately_RB ,_, there_EX is_VBZ no_DT closed_JJ form_NN solution_NN to_TO the_DT maximization_NN problem_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT main_JJ observation_NN ,_, which_WDT leads_VBZ to_TO an_DT iterative_JJ algorithm_NN for_IN GPCA_NNP ,_, is_VBZ stated_VBN in_IN the_DT following_JJ theorem_NN :_: =_JJ #_# cents_NNS 358_CD Theorem_NNP 4.1_CD ._.
+Let_NNP L_NNP ,_, R_NNP be_VB the_DT matrices_NNS maximizing_VBG the_DT variance_NN var_NN -LRB-_-LRB- L_NN ,_, R_NN -RRB-_-RRB- =_JJ 1_CD n_NN i_LS =_JJ 1_CD

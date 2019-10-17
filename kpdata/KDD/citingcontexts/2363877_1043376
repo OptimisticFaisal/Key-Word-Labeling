@@ -1,0 +1,3 @@
+presented_VBD a_DT dynamic_JJ programming_NN algorithm_NN for_IN computing_VBG the_DT optimized_VBN support_NN rule_NN and_CC whose_WP$ complexity_NN is_VBZ O_NN -LRB-_-LRB- n_NN 2_CD k_NN -RRB-_-RRB- ,_, where_WRB n_NN is_VBZ the_DT number_NN of_IN values_NNS in_IN the_DT domain_NN of_IN the_DT uninstantiated_JJ attribute_NN ._.
+In_IN =_JJ -_: =_JJ -LRB-_-LRB- RS98_NN -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP considered_VBD a_DT different_JJ formulation_NN of_IN the_DT optimized_VBN support_NN problem_NN which_WDT we_PRP showed_VBD to_TO be_VB NP-hard_JJ even_RB for_IN the_DT case_NN of_IN one_CD uninstantiated_JJ attribute_NN ._.
+The_DT optimized_VBN support_NN problem_NN described_VBN in_IN -LRB-_-LRB- RS_NN

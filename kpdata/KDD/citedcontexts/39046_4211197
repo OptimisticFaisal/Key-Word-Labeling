@@ -1,0 +1,3 @@
+._.
+Some_DT query_JJ clustering_NN methods_NNS have_VBP attacked_VBN this_DT problem_NN by_IN clustering_VBG ``_`` session_NN data_NNS ''_'' ,_, containing_VBG multiple_JJ queries_NNS and_CC click-through_JJ information_NN from_IN a_DT single_JJ user_NN interaction_NN ._.
+Beeferman_NNP and_CC Burger_NNP =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: mined_VBN a_DT log_NN of_IN 500,000_CD click-through_JJ records_NNS from_IN the_DT Lycos_FW ™_FW search_NN engine_NN and_CC used_VBD a_DT bipartite-graph_JJ algorithm_NN to_TO discover_VB latent_JJ relationships_NNS between_IN queries_NNS based_VBN on_IN common_JJ click-through_JJ document_NN

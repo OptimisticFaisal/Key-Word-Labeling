@@ -1,0 +1,5 @@
+._.
+Keywords_NNS :_: Classification_NN ,_, clustering_NN ,_, data_NN transformations_NNS ,_, performance_NN ,_, Naive_JJ Bayes_NNS ,_, mixture_NN of_IN multinomials_NNS ._.
+1_CD ._.
+INTRODUCTION_NN Naive_JJ Bayes_NNP classifier_NN has_VBZ been_VBN a_DT subject_NN of_IN multiple_JJ research_NN studies_NNS =_JJ -_: =[_NN 2_CD ,_, 5_CD -RRB-_-RRB- -_: =_JJ -_: and_CC almost_RB on_IN every_DT occasion_NN it_PRP was_VBD noted_VBN that_IN the_DT Naive_JJ Bayes_NNS '_POS performance_NN can_MD be_VB jeopardized_VBN by_IN several_JJ independent_JJ problems_NNS ._.
+These_DT include_VBP the_DT imbalance_NN of_IN training_NN documents_NNS in_IN classes_NNS ,_, mismatch_NN

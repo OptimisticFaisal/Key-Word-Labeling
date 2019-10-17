@@ -1,0 +1,4 @@
+oduct_NN to_TO be_VB computed_VBN with_IN no_DT pointer-redirects_NNS -LRB-_-LRB- as_IN occur_VBP with_IN linked-list_JJ implementations_NNS -RRB-_-RRB- ,_, excellent_JJ memory_NN locality_NN ,_, and_CC using_VBG only_JJ comparison_NN and_CC increment_NN operators_NNS ._.
+Alpha_NNP Seeding_NNP ._.
+As_IN reported_VBN by_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, alpha_NN seeding_NN can_MD speed_VB up_RP the_DT training_NN time_NN of_IN that_DT is_VBZ SVMs_NNS considerably_RB ._.
+The_DT main_JJ idea_NN is_VBZ that_IN starting_VBG with_IN a_DT good_JJ initial_JJ guess_NN α_FW ′_FW i_FW close_RB to_TO the_DT optimal_JJ value_NN αi_NN for_IN each_DT example_NN xi_FW dramatical_FW

@@ -1,0 +1,6 @@
+h_NN the_DT nearest_JJS neighbor_NN ._.
+However_RB ,_, in_IN larger_JJR datasets_NNS one_CD is_VBZ more_RBR likely_JJ to_TO find_VB a_DT close_JJ match_NN without_IN the_DT need_NN to_TO warp_NN ._.
+As_IN DTW_NN warps_VBZ less_JJR and_CC less_JJR ,_, it_PRP degenerates_VBZ to_TO simple_JJ ED_NN ._.
+This_DT was_VBD first_RB noted_VBN in_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: and_CC later_RB confirmed_VBN in_IN -LRB-_-LRB- 17_CD -RRB-_-RRB- and_CC elsewhere_RB ._.
+For_IN completeness_NN ,_, we_PRP will_MD show_VB a_DT demonstration_NN of_IN this_DT effect_NN ._.
+We_PRP measured_VBD the_DT classification_NN accuracy_NN of_IN both_DT DTW_NNP and_CC ED_NNP on_IN increasingly_RB large_JJ datasets_NNS con_VBP

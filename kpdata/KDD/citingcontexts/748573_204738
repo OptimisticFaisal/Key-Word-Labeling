@@ -1,0 +1,6 @@
+tuple_NN t_NN containing_VBG z._NN 4_CD ._.
+MINING_NN ALL_NN ADVERSARIAL_JJ RULES_NNS We_PRP will_MD mine_VB all_DT adversarial_JJ rules_NNS in_IN a_DT depth-first_JJ search_NN framework_NN ._.
+The_DT complete_JJ set_NN of_IN itemsets_NNS can_MD be_VB enumerated_VBN using_VBG a_DT set_VBN enumeration_NN tree_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT set_VBN enumeration_NN tree_NN employs_VBZ a_DT total_JJ order_NN on_IN the_DT set_NN of_IN all_DT items_NNS ._.
+Each_DT itemset_NN is_VBZ treated_VBN as_IN a_DT string_NN such_JJ that_IN all_DT items_NNS in_IN the_DT itemset_NN are_VBP sorted_VBN in_IN the_DT total_JJ order_NN ._.
+Then_RB ,_, an_DT itemset_NN X_NN is_VBZ an_DT a_DT

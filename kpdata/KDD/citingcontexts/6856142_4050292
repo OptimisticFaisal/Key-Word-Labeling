@@ -1,0 +1,4 @@
+ing_NN falls_VBZ into_IN three_CD main_JJ categories_NNS ._.
+The_DT first_JJ category_NN is_VBZ concerned_VBN with_IN making_VBG particular_JJ classifier_NN learners_NNS cost-sensitive_JJ ,_, including_VBG methods_NNS specific_JJ for_IN decision_NN trees_NNS -LRB-_-LRB- 14_CD ,_, 4_CD -RRB-_-RRB- ,_, neural_JJ networks_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: and_CC support_NN vector_NN machines_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+The_DT second_JJ category_NN uses_VBZ Bayes_NNP risk_NN theory_NN to_TO assign_VB each_DT example_NN to_TO its_PRP$ lowest_JJS expected_VBN cost_NN class_NN -LRB-_-LRB- 8_CD ,_, 18_CD -RRB-_-RRB- ._.
+This_DT requires_VBZ classifiers_NNS to_TO output_NN class_NN membership_NN pro_NN

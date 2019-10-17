@@ -1,0 +1,4 @@
+s\/classifier\/learning_NN algorithm_NN ._.
+Therefore_RB ,_, the_DT Area_NNP Under_IN the_DT ROC_NN curve_NN -LRB-_-LRB- AUC_NN -RRB-_-RRB- does_VBZ not_RB depend_VB on_IN the_DT imbalance_NN of_IN the_DT training_NN set_VBN -LRB-_-LRB- Kolcz_NNP et_FW al._FW ,_, 2003_CD -RRB-_-RRB- ,_, as_IN opposed_VBN to_TO other_JJ measures_NNS such_JJ as_IN F_NN score_NN -LRB-_-LRB- =_JJ -_: =_JJ Caruana_NNP &_CC Niculescu-Mizil_NNP ,_, 2004_CD -_: =--RRB-_NN ._.
+The_DT ROC_NNP curve_NN also_RB shows_VBZ the_DT misclassification_NN rates_NNS achieved_VBD depending_VBG on_IN the_DT error_NN cost_NN coefficients_NNS -LRB-_-LRB- Domingos_NNP ,_, 1999_CD -RRB-_-RRB- ._.
+For_IN these_DT reasons_NNS ,_, -LRB-_-LRB- Bradley_NNP ,_, 1997_CD -RRB-_-RRB- argues_VBZ the_DT comparison_NN of_IN the_DT ROC_NN curves_NNS a_DT

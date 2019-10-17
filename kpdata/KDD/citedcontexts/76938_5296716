@@ -1,0 +1,4 @@
+his_PRP$ approach_NN is_VBZ f_LS -LRB-_-LRB- x_NN -RRB-_-RRB- =_JJ Kp_NN -LRB-_-LRB- x_NN ,_, xj_NN -RRB-_-RRB- ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- p_NN p_NN j_NN αp_FW j_FW Previous_JJ kernel_NN methods_NNS have_VBP employed_VBN similar_JJ strategies_NNS to_TO improve_VB generalization_NN and_CC reduce_VB training_NN and_CC prediction_NN computational_JJ costs_NNS ._.
+MARKING_VBG =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: optimized_VBD a_DT heterogeneous_JJ kernel_NN using_VBG a_DT gradient_NN descent_NN algorithm_NN in_IN function_NN space_NN ._.
+GSVC_NN and_CC POKER_NN -LRB-_-LRB- 14_CD ,_, 13_CD -RRB-_-RRB- grew_VBD mixtures_NNS of_IN kernelsfunctions_NNS from_IN a_DT family_NN of_IN RBF_NN kernels_NNS ,_, but_CC they_PRP were_VBD designed_VBN t_NN

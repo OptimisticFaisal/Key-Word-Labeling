@@ -1,0 +1,3 @@
+Second_RB ,_, the_DT probability_NN estimates_NNS also_RB provide_VBP a_DT more_RBR robust_JJ approach_NN for_IN developing_VBG an_DT ensemble_NN outlier_NN detection_NN framework_NN than_IN methods_NNS based_VBN on_IN aggregating_VBG the_DT relative_JJ rankings_NNS of_IN outlier_NN scores_NNS =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Finally_RB ,_, the_DT probability_NN estimates_NNS are_VBP useful_JJ to_TO determine_VB the_DT uncertainties_NNS in_IN outlier_NN prediction_NN ._.
+Obtaining_VBG calibrated_VBN probability_NN estimates_NNS from_IN supervised_JJ classifiers_NNS such_JJ as_IN support_NN vector_NN mach_NN

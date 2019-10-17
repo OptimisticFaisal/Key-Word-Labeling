@@ -1,0 +1,3 @@
+not_RB describe_VB the_DT rich_JJ interactions_NNS among_IN host_NN groups_NNS ._.
+In_IN addition_NN ,_, information-theoretic_JJ co-clustering_NN methods_NNS perform_VBP simultaneous_JJ clustering_NN over_IN rows_NNS and_CC columns_NNS of_IN a_DT specific_JJ matrix_NN ._.
+For_IN example_NN ,_, =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: obtains_VBZ such_JJ co-clustering_NN by_IN minimizing_VBG the_DT loss_NN of_IN mutual_JJ information_NN between_IN a_DT low-rank_JJ approximation_NN and_CC the_DT original_JJ matrix_NN ,_, while_IN -LRB-_-LRB- 27_CD -RRB-_-RRB- achieves_VBZ this_DT goal_NN by_IN minimizing_VBG the_DT codelength_NN for_IN the_DT or_CC

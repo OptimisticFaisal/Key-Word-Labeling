@@ -1,0 +1,4 @@
+ivided_VBN into_IN three_CD exclusive_JJ sub-subsets_NNS :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- the_DT ones_NNS having_VBG samples_NNS a_DT and_CC b_NN ;_: -LRB-_-LRB- 2_LS -RRB-_-RRB- the_DT ones_NNS having_VBG samples_NNS a_DT and_CC c_NN but_CC no_DT b_NN ;_: and_CC -LRB-_-LRB- 3_LS -RRB-_-RRB- -LCB-_-LRB- a_DT ,_, d_NN -RCB-_-RRB- ._.
+The_DT tree_NN shown_VBN in_IN Figure_NNP 2_CD is_VBZ called_VBN a_DT set_NN enumeration_NN tree_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: with_IN respect_NN to_TO -LCB-_-LRB- a_DT ,_, b_NN ,_, c_NN ,_, d_NN -RCB-_-RRB- ._.
+It_PRP provides_VBZ a_DT conceptual_JJ tool_NN to_TO enumerate_VB the_DT complete_JJ set_NN of_IN combinations_NNS systematically_RB ._.
+We_PRP can_MD conduct_VB a_DT recursive_JJ ,_, depth-first_JJ search_NN of_IN the_DT sample_NN set_NN enumeration_NN

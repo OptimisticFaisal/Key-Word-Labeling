@@ -1,0 +1,4 @@
+description_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, the_DT possible_JJ worlds_NNS are_VBP constrained_VBN by_IN rules_NNS that_WDT are_VBP defined_VBN on_IN the_DT tuples_NNS in_IN order_NN to_TO incorporate_VB object_NN -LRB-_-LRB- tuple_NN -RRB-_-RRB- correlations_NNS ._.
+The_DT ULDB_NN model_NN proposed_VBN in_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, which_WDT is_VBZ used_VBN in_IN Trio_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, supports_VBZ uncertain_JJ tuples_NNS with_IN alternative_JJ instances_NNS which_WDT are_VBP called_VBN x-tuples_NNS ._.
+Relations_NNS in_IN ULDB_NN are_VBP called_VBN x-relations_NNS containing_VBG a_DT set_NN of_IN x-tuples_NN ._.
+Each_DT x-tuple_NN corresponds_VBZ to_TO a_DT set_NN of_IN tuple_FW inst_FW

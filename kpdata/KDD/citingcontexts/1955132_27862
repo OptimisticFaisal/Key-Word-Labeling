@@ -1,0 +1,5 @@
+e_LS proof_NN of_IN Theorem_NNP 1_CD can_MD be_VB found_VBN in_IN -LRB-_-LRB- WN98_NN ,_, Cal99_NN -RRB-_-RRB- ._.
+Our_PRP$ notion_NN of_IN roll-up_JJ lattice_NN extends_VBZ and_CC generalizes_VBZ several_JJ earlier_JJR proposals_NNS found_VBN in_IN the_DT literature_NN ._.
+Our_PRP$ notion_NN is_VBZ more_RBR general_JJ than_IN the_DT one_CD in_IN =_JJ -_: =_JJ -LRB-_-LRB- HRU96_NN -RRB-_-RRB- -_: =_JJ -_: ,_, because_IN the_DT same_JJ attribute_NN can_MD appear_VB more_JJR than_IN once_RB in_IN a_DT lattice_NN element_NN ._.
+This_DT extension_NN is_VBZ natural_JJ and_CC useful_JJ in_IN OLAP_NNP applications_NNS ._.
+Dimensionality_NN reduction_NN -LRB-_-LRB- GCB_NN +_CC 97_CD -RRB-_-RRB- is_VBZ embedded_VBN naturally_RB in_IN our_PRP$

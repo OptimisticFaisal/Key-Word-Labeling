@@ -1,0 +1,4 @@
+references_NNS ._.
+We_PRP then_RB discuss_VBP results_NNS of_IN an_DT observational_JJ study_NN of_IN user_NN behavior_NN using_VBG MovieLens_NNP forums_NNS with_IN movie_NN linking_VBG ._.
+SYSTEM_NNP OVERVIEW_NNP MovieLens_NNP uses_VBZ an_DT automated_JJ collaborative_JJ filtering_VBG algorithm_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: to_TO generate_VB movie_NN recommendations_NNS ._.
+Users_NNS rate_VBP movies_NNS and_CC view_NN movie_NN recommendations_NNS through_IN a_DT search_NN interface_NN ,_, which_WDT also_RB displays_VBZ a_DT limited_JJ amount_NN of_IN information_NN about_IN each_DT movie_NN -LRB-_-LRB- e.g._FW actors_NNS ,_, dire_JJ

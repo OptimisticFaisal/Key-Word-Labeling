@@ -1,0 +1,4 @@
+is_VBZ computed_VBN according_VBG to_TO its_PRP$ relative_JJ performance_NN with_IN respect_NN to_TO the_DT other_JJ models_NNS in_IN M_NN using_VBG the_DT formula_NN li_NN =_JJ sbest_FW −_FW si_FW ._.
+This_DT loss_NN sbest_FW −_FW sworst_FW function_NN normalizes_VBZ the_DT losses_NNS of_IN experts_NNS to_TO the_DT range_NN =_JJ -_: =[_NN 0_CD ,_, 1_CD -RRB-_-RRB- -_: =_JJ -_: and_CC could_MD be_VB used_VBN with_IN any_DT -LRB-_-LRB- even_RB unbounded_JJ -RRB-_-RRB- performance_NN metric_NN ,_, which_WDT in_IN our_PRP$ case_NN is_VBZ given_VBN by_IN formula_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+5_CD ._.
+RESULTS_NNS In_IN this_DT section_NN ,_, we_PRP present_VBP various_JJ experiments_NNS with_IN the_DT goal_NN of_IN studying_VBG and_CC eva_NN

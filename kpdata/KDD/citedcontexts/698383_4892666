@@ -1,0 +1,3 @@
+The_DT problem_NN of_IN change_NN detection_NN has_VBZ been_VBN studied_VBN for_IN a_DT long_JJ time_NN ,_, and_CC various_JJ methods_NNS such_JJ as_IN CUSUM_NN -LRB-_-LRB- cumulated_JJ summation_NN -RRB-_-RRB- -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, wavelet_NN analysis_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, inflection_NN point_NN search_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, and_CC Gaussian_JJ mixtures_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN proposed_VBN ._.
+These_DT existing_VBG methods_NNS ,_, however_RB ,_, are_VBP not_RB applicable_JJ to_TO our_PRP$ task_NN without_IN using_VBG ad_FW hoc_FW tuning_NN for_IN individual_JJ signals_NNS ._.
+Similarly_RB ,_, time-series_JJ correlation_NN methods_NNS based_VBN on_IN these_DT techn_NN

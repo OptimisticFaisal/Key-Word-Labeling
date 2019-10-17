@@ -1,0 +1,4 @@
+O_NN Robot_NN :_: Surface_NN Detection_NN The_DT SONY_NNP AIBO_NNP Robot_NNP is_VBZ a_DT small_JJ ,_, dog-shaped_JJ ,_, quadruped_JJ robot_NN that_WDT comes_VBZ equipped_VBN with_IN multiple_JJ sensors_NNS ,_, including_VBG a_DT tri-axial_JJ accelerometer_NN ._.
+We_PRP consider_VBP a_DT dataset_NN created_VBN by_IN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: where_WRB measurements_NNS of_IN the_DT accelerometer_NN are_VBP collected_VBN ._.
+In_IN the_DT experimental_JJ setting_NN ,_, the_DT robot_NN walked_VBD on_IN two_CD different_JJ surfaces_NNS :_: carpet_NN and_CC cement_NN ._.
+For_IN simplicity_NN we_PRP consider_VBP only_RB the_DT X-axis_NN readings_NNS ._.

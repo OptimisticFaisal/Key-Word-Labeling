@@ -1,0 +1,4 @@
+cting_VBG a_DT minimum_JJ subset_NN F_NN ∗_NN such_JJ that_IN P_NN -LRB-_-LRB- T_NN |_NN F_NN ∗_NN -RRB-_-RRB- is_VBZ equal_JJ or_CC as_RB close_JJ as_IN possible_JJ to_TO P_NN -LRB-_-LRB- T_NN |_NN F_NN -RRB-_-RRB- ,_, where_WRB P_NN -LRB-_-LRB- T_NN |_NN F_NN ∗_NN -RRB-_-RRB- is_VBZ the_DT posterior_JJ probability_NN distribution_NN of_IN the_DT target_NN given_VBN the_DT feature_NN values_NNS in_IN F_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP call_VBP such_JJ a_DT minimum_NN subset_NN F_NN ∗_VBP an_DT optimal_JJ subset_NN ._.
+The_DT feature_NN selection_NN method_NN used_VBN in_IN this_DT paper_NN is_VBZ Redundancy_NN Based_VBN Filter_NNP -LRB-_-LRB- RBF_NNP -RRB-_-RRB- ._.
+The_DT basic_JJ idea_NN is_VBZ using_VBG the_DT concept_NN of_IN redundant_JJ cover_NN to_TO deter_VB

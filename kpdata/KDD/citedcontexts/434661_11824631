@@ -1,0 +1,3 @@
+odic_JJ with_IN period_NN k_NN if_IN there_EX are_VBP a_DT sufficient_JJ number_NN of_IN subsequences_NNS whose_WP$ combined_JJ length_NN exceeds_VBZ some_DT user-specified_JJ support_NN such_JJ that_IN the_DT event_NN is_VBZ exactly_RB periodic_JJ in_IN each_DT subsequence_NN with_IN period_NN k_NN =_JJ -_: =[_NN 4_CD ,_, 11_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT is_VBZ usually_RB reffered_VBN to_TO as_IN ``_`` partial_JJ periodicity_NN ''_'' ._.
+What_WP makes_VBZ discovering_VBG partial_JJ periodicity_NN difficult_JJ is_VBZ that_DT noise_NN in_IN the_DT form_NN of_IN extra_JJ events_NNS that_WDT are_VBP not_RB part_NN of_IN the_DT periodic_JJ sequence_NN can_MD si_VB

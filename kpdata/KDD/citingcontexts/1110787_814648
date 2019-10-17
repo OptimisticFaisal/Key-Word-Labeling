@@ -1,0 +1,4 @@
+rom_VB the_DT intersection_NN of_IN all_PDT these_DT constraints_NNS ,_, a_DT probability_NN distribution_NN with_IN the_DT highest_JJS entropy_NN can_MD be_VB learned_VBN ._.
+Recently_RB ,_, we_PRP have_VBP seen_VBN applications_NNS of_IN maximum_NN entropy_NN in_IN Web_NN recommendation_NN systems_NNS =_JJ -_: =[_NN 12_CD ,_, 18_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN these_DT systems_NNS ,_, only_RB statistics_NNS from_IN users_NNS '_POS navigation_NN or_CC rating_NN data_NNS are_VBP used_VBN as_IN features_NNS to_TO train_VB a_DT maximum_NN entropy_NN model_NN ._.
+Therefore_RB ,_, the_DT advantage_NN of_IN integrating_VBG multiple_JJ knowledge_NN sources_NNS is_VBZ n_NN

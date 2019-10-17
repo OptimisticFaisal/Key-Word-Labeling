@@ -1,0 +1,4 @@
+es_FW in_FW egonet_FW ._.
+3.3.2_CD Change-Point_JJ Detection_NN The_DT flow_NN of_IN the_DT method_NN used_VBN in_IN this_DT work_NN to_TO find_VB changepoints_NNS in_IN the_DT behavior_NN of_IN nodes_NNS is_VBZ illustrated_VBN in_IN Figure_NNP 1_CD ._.
+This_DT method_NN is_VBZ similar_JJ to_TO Ide_NN and_CC Kashima_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC differs_VBZ in_IN the_DT construction_NN of_IN the_DT ``_`` dependency_NN ''_'' matrix_NN C._NNP We_PRP explain_VBP our_PRP$ methodology_NN in_IN more_JJR detail_NN next_RB ._.
+Here_RB ,_, the_DT data_NNS we_PRP have_VBP looks_NNS like_IN the_DT 3-D_JJ T_NN xF_NN xN_NN tensor_NN on_IN the_DT top_NN left_VBD corner_NN of_IN Figur_NNP

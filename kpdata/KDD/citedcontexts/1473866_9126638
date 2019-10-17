@@ -1,0 +1,3 @@
+statistically_RB linking_VBG references_NNS across_IN multiple_JJ databases_NNS ,_, referred_VBD to_TO variously_RB as_IN record_NN linkage_NN ,_, consolidation_NN or_CC object_NN identification_NN -LRB-_-LRB- Fellegi_NNP and_CC Sunter_NNP 1969_CD ;_: Winkler_NNP 1994_CD ;_: Tejada_NNP et_FW al._FW 2001_CD ;_: =_JJ -_: =_JJ Bilenko_NNP and_CC Mooney_NNP 2003_CD -_: =--RRB-_NN ._.
+The_DT challenge_NN here_RB is_VBZ to_TO build_VB this_DT technology_NN into_IN a_DT practical_JJ architecture_NN for_IN large-scale_JJ information_NN repositories_NNS ._.
+We_PRP have_VBP developed_VBN an_DT integrated_VBN EntityBase_NN system_NN that_WDT supports_VBZ the_DT statistica_NN

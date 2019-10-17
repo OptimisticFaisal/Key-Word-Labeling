@@ -1,0 +1,5 @@
+al_FW data_NNS ._.
+In_IN particular_JJ ,_, we_PRP will_MD demonstrate_VB the_DT utility_NN of_IN our_PRP$ representation_NN on_IN the_DT classic_JJ data_NN mining_NN tasks_NNS of_IN clustering_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- ,_, classification_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, indexing_NN -LRB-_-LRB- 2_CD ,_, 20_CD ,_, 30_CD ,_, 63_CD -RRB-_-RRB- ,_, and_CC anomaly_RB detection_NN =_JJ -_: =[_NN 14_CD ,_, 34_CD ,_, 54_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT rest_NN of_IN this_DT paper_NN is_VBZ organized_VBN as_IN follows_VBZ ._.
+Section_NN 2_CD briefly_NN discusses_VBZ background_NN material_NN on_IN time_NN series_NN data_NNS mining_NN and_CC related_JJ work_NN ._.
+Section_NN 3_CD introduces_VBZ our_PRP$ novel_JJ symbolic_JJ approach_NN ,_, and_CC dis_NN

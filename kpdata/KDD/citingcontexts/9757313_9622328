@@ -1,0 +1,3 @@
+ges_NNS are_VBP nodes_NNS ,_, hyperlinks_NNS are_VBP directed_JJ edges_NNS -RRB-_-RRB- is_VBZ a_DT special_JJ variant_NN of_IN a_DT social_JJ network_NN ,_, in_IN that_IN we_PRP have_VBP a_DT network_NN of_IN pages_NNS rather_RB than_IN of_IN people_NNS ._.
+It_PRP is_VBZ known_VBN that_IN the_DT Web_NN graph_NN is_VBZ highly_RB compressible_JJ =_JJ -_: =[_NN 6_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Particularly_RB impressive_JJ results_NNS have_VBP been_VBN obtained_VBN by_IN Boldi_NNP and_CC Vigna_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, who_WP exploit_VBP lexicographic_JJ locality_NN in_IN the_DT Web_NN graph_NN :_: when_WRB pages_NNS are_VBP ordered_VBN lexicographically_RB by_IN URL_NN ,_, proximal_JJ pages_NNS have_VBP s_NN

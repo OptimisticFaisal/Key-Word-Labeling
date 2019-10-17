@@ -1,0 +1,4 @@
+periments_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 4_LS -RRB-_-RRB- ._.
+This_DT trick_NN slightly_RB increased_VBD the_DT program_NN speed_NN without_IN affecting_VBG the_DT performance_NN ._.
+5_CD http:\/\/www.csie.ntu.edu.tw\/∼cjlin\/libsvm\/_NN 6_CD LibSVM_NN uses_VBZ the_DT one-vs-one_JJ ensemble_NN method_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: for_IN mutual-exclusive_JJ multi-class_JJ classification_NN tasks_NNS ,_, i.e._FW ,_, in_IN experiments_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 4_LS -RRB-_-RRB- ._.
+7_CD http:\/\/www.daviddlewis.com\/resources\/testcollections\/_NN reuters21578_NN \/_: Figure_NNP 4_CD :_: The_DT log_NN -LRB-_-LRB- rank_NN -RRB-_-RRB- ∼_CD log_NN -LRB-_-LRB- frequ_NN

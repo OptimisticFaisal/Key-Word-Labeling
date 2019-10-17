@@ -1,0 +1,4 @@
+and_CC stored_VBD into_IN a_DT database_NN by_IN using_VBG an_DT R-tree_NN or_CC any_DT of_IN its_PRP$ variants_NNS ._.
+Dynamic_NNP time_NN warping_NN -LRB-_-LRB- DTW_NN -RRB-_-RRB- and_CC longest_JJS common_JJ subsequence_NN -LRB-_-LRB- LCSS_NN -RRB-_-RRB- were_VBD extended_VBN for_IN similarity_NN measures_NNS of_IN multi-attribute_JJ data_NNS in_IN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Before_IN the_DT exact_JJ LCSS_NN or_CC DTW_NN was_VBD performed_VBN ,_, sequences_NNS were_VBD segmented_JJ into_IN MBRs_NNS to_TO be_VB stored_VBN in_IN an_DT R-tree_NN ._.
+Based_VBN on_IN the_DT MBR_NNP intersections_NNS ,_, similarity_NN estimates_NNS were_VBD computed_VBN to_TO prune_VB irrelevant_JJ seque_NN

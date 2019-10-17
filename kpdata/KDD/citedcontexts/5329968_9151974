@@ -1,0 +1,6 @@
+bset_NN of_IN those_DT on_IN sites_NNS with_IN greater_JJR species_NNS richness_NN ._.
+If_IN this_DT holds_VBZ without_IN exception_NN ,_, then_RB the_DT presence-absence_JJ matrix_NN is_VBZ said_VBN to_TO be_VB fully_RB nested_JJ ._.
+This_DT definition_NN is_VBZ equivalent_JJ to_TO a_DT chain_NN graph_NN ._.
+See_VB =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: for_IN more_JJR references_NNS on_IN nestedness_NN and_CC its_PRP$ applications_NNS ._.
+In_IN this_DT paper_NN we_PRP consider_VBP the_DT problem_NN of_IN transforming_VBG an_DT input_NN bipartite_JJ graph_NN G_NN -LRB-_-LRB- U_NN ,_, V_NN ,_, E_NN -RRB-_-RRB- to_TO a_DT chain_NN graph_NN by_IN edge_NN additions_NNS ._.
+There_EX are_VBP two_CD nat_NN

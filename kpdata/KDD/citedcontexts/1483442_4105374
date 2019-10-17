@@ -1,0 +1,5 @@
+statistics-based_JJ according_VBG to_TO whether_IN intervals_NNS are_VBP selected_VBN using_VBG metrics_NNS based_VBN on_IN error_NN on_IN the_DT training_NN data_NNS ,_, entropy_NN of_IN the_DT intervals_NNS ,_, or_CC some_DT statistical_JJ measure_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Univariate_FW vs._FW Multivariate_JJ -LRB-_-LRB- =_JJ -_: =_JJ Bay_NNP ,_, 2000_CD -_: =--RRB-_NN ._.
+Methods_NNS that_WDT discretize_VBP each_DT attribute_NN in_IN isolation_NN are_VBP univariate_JJ ._.
+Methods_NNS that_WDT take_VBP into_IN consideration_NN relationships_NNS among_IN attributes_NNS during_IN discretization_NN are_VBP multivariate_JJ ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Split_FW vs._FW Merge_FW -LRB-_-LRB-

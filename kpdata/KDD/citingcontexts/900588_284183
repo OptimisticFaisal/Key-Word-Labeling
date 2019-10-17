@@ -1,0 +1,4 @@
+h-dimensional_NN data_NNS ,_, and_CC give_VB several_JJ examples_NNS of_IN visualizations_NNS obtained_VBN by_IN using_VBG the_DT suggested_JJ scheme_NN with_IN probabilistic_JJ Bayesian_JJ network_NN models_NNS ._.
+1_CD ._.
+INTRODUCTION_NN Multidimensional_JJ scaling_NN -LRB-_-LRB- see_VB ,_, e.g._FW ,_, =_JJ -_: =[_NN 3_CD ,_, 2_CD -RRB-_-RRB- -_: =--RRB-_NN is_VBZ a_DT data_NN compression_NN or_CC data_NN reduction_NN task_NN where_WRB the_DT goal_NN is_VBZ to_TO replace_VB the_DT original_JJ high-dimensional_JJ data_NN vectors_NNS with_IN much_RB shorter_JJR vectors_NNS ,_, while_IN losing_VBG as_IN little_JJ information_NN as_IN possible_JJ ._.
+Intuit_NNP

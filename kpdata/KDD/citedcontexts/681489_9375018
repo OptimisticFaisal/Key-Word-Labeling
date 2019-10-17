@@ -1,0 +1,4 @@
+e_LS performance_NN when_WRB a_DT small_JJ feature_NN set_NN is_VBZ selected_VBN ._.
+Filter_NNP methods_NNS select_VBP features_NNS based_VBN on_IN discriminant_JJ criteria_NNS that_WDT rely_VBP on_IN the_DT characteristics_NNS of_IN data_NNS ,_, independent_JJ of_IN any_DT classification_NN algorithm_NN =_JJ -_: =[_NN 7_CD ,_, 38_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Filter_NNP methods_NNS are_VBP limited_VBN in_IN scoring_VBG the_DT predictive_JJ power_NN of_IN combined_JJ features_NNS ,_, and_CC thus_RB have_VBP shown_VBN to_TO be_VB less_RBR powerful_JJ in_IN predictive_JJ accuracy_NN as_IN compared_VBN to_TO wrapper_NN methods_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+The_DT classification_NN

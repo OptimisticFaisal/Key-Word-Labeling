@@ -1,0 +1,4 @@
+ies_NNS on_IN -LRB-_-LRB- covered_VBN by_IN -RRB-_-RRB- exactly_RB one_CD path_NN in_IN P._NNP The_NNP Minimum_NNP Path_NNP Cover_NNP problem_NN is_VBZ to_TO find_VB a_DT path_NN cover_NN with_IN the_DT minimum_JJ number_NN of_IN paths_NNS ._.
+The_DT decision_NN version_NN of_IN the_DT problem_NN on_IN general_JJ graphs_NNS is_VBZ NPcomplete_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, on_IN directed_JJ acyclic_JJ graphs_NNS -LRB-_-LRB- DAGs_NNS -RRB-_-RRB- ,_, the_DT problem_NN can_MD be_VB solved_VBN in_IN polynomial_JJ time_NN via_IN a_DT reduction_NN to_TO the_DT matching_NN problem_NN in_IN bipartite_JJ graphs_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Equivalently_RB ,_, the_DT problem_NN is_VBZ to_TO find_VB the_DT max_NN

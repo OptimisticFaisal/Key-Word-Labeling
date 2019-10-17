@@ -1,0 +1,3 @@
+e_LS ,_, there_EX has_VBZ been_VBN research_NN on_IN mining_NN multi-level_JJ association_NN rules_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, onMining_NN Association_NNP Rules_NNP from_IN Tabular_NNP Data_NNP Guided_VBN by_IN Maximal_JJ Frequent_JJ Itemsets_NNS 5_CD selecting_VBG the_DT right_JJ interestingness_NN measure_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, on_IN synthesizing_VBG high_JJ frequency_NN rules_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, etc._NN ._.
+Association_NN rule_NN mining_NN techniques_NNS often_RB produce_VBP a_DT large_JJ number_NN of_IN rules_NNS that_WDT are_VBP hard_JJ to_TO comprehend_VB without_IN further_JJ processing_NN ._.
+Many_JJ techniques_NNS -LRB-_-LRB- 10_CD ,_,

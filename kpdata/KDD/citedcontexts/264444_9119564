@@ -1,0 +1,6 @@
+for_IN building_VBG classification_NN models_NNS either_RB ._.
+Other_JJ methods_NNS are_VBP required_VBN for_IN data_NN anonymization_NN for_IN classification_NN utility_NN ._.
+Many_JJ previous_JJ studies_NNS aiming_VBG at_IN classification_NN utility_NN have_VBP been_VBN done_VBN ._.
+Iyengar_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ firstly_RB proposed_VBN an_DT optimization_NN approach_NN to_TO minimize_VB class_NN impurity_NN in_IN data_NNS generalization_NN ._.
+The_DT optimization_NN has_VBZ been_VBN shown_VBN impractical_JJ for_IN medium_NN and_CC large_JJ data_NNS sets_NNS ._.
+Wang_NNP et_FW al._FW have_VBP proposed_VBN

@@ -1,0 +1,4 @@
+rst_NN at_IN coarse_JJ resolutions_NNS -LRB-_-LRB- large_JJ regions_NNS -RRB-_-RRB- ,_, then_RB at_IN successively_RB finer_JJ resolutions_NNS -LRB-_-LRB- smaller_JJR regions_NNS -RRB-_-RRB- as_IN necessary_JJ ._.
+This_DT suggests_VBZ that_IN a_DT hierarchical_JJ ,_, space-partitioning_JJ data_NNS structure_NN such_JJ as_IN kd-trees_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, mrkd-trees_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, or_CC quadtrees_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- may_MD be_VB useful_JJ in_IN speeding_VBG up_RP our_PRP$ search_NN ._.
+However_RB ,_, our_PRP$ desire_NN for_IN an_DT exact_JJ solution_NN makes_VBZ it_PRP difficult_JJ to_TO apply_VB these_DT data_NNS structures_NNS to_TO our_PRP$ problem_NN ._.
+In_IN a_DT kd-tree_NN ,_, e_SYM

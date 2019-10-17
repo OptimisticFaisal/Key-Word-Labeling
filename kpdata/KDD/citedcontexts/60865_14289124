@@ -1,0 +1,3 @@
+usually_RB leads_VBZ to_TO intractable_JJ optimization_NN problems_NNS ._.
+For_IN instance_NN ,_, some_DT popular_JJ surrogate_JJ losses_NNS are_VBP based_VBN on_IN pairwise_JJ comparisons_NNS -LRB-_-LRB- Weston_NNP &_CC Watkins_NNP ,_, 1999_CD ;_: Herbrich_NNP et_FW al._FW ,_, 2000_CD ;_: Freund_NNP et_FW al._FW ,_, 2003_CD ;_: =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =--RRB-_NN ;_: they_PRP are_VBP defined_VBN as_IN convex_NN upper_JJ bounds_NNS on_IN the_DT pairwise_JJ disagreement_NN ,_, an_DT evaluation_NN metric_NN which_WDT counts_VBZ the_DT number_NN of_IN misordered_JJ pairs_NNS of_IN items_NNS in_IN the_DT predicted_VBN ranking_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP address_VBP t_NN

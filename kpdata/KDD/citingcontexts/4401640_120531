@@ -1,0 +1,5 @@
+A_DT :_: ℜ_NN D_NN →_NN ℜ_NN d_NN that_WDT relates_VBZ any_DT point_NN in_IN the_DT original_JJ space_NN to_TO its_PRP$ low_JJ dimensional_JJ counterpart_NN ._.
+When_WRB A_NN is_VBZ a_DT linear_JJ transformation_NN ,_, this_DT can_MD be_VB thought_VBN of_IN as_IN learning_VBG a_DT Mahalanobis_NNP distance_NN -LRB-_-LRB- e.g._FW ,_, see_VBP =_JJ -_: =[_NN 18_CD ,_, 12_CD ,_, 16_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Sec_NN ._.
+1.2_CD describes_VBZ the_DT connection_NN and_CC differences_NNS between_IN the_DT formulation_NN introduced_VBN in_IN this_DT paper_NN ,_, the_DT above_JJ ,_, and_CC other_JJ related_JJ methods_NNS ._.
+1.1_CD Specifying_VBG distance_NN relationships_NNS as_IN side_JJ information_NN I_PRP

@@ -1,0 +1,4 @@
+our_PRP$ CTR_NN ._.
+We_PRP also_RB assume_VBP that_IN we_PRP can_MD estimate_VB CTR_NNP accurately_RB even_RB for_IN new_JJ ads_NNS ._.
+In_IN practice_NN ,_, accurately_RB estimating_VBG clickthrough_JJ rate_NN given_VBN limited_JJ actual_JJ click_VBP data_NNS is_VBZ a_DT hard_JJ problem_NN -LRB-_-LRB- see_VB ,_, for_IN example_NN ,_, =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Therefore_RB ,_, we_PRP define_VBP the_DT relevance_NN of_IN an_DT ad_NN in_IN slot_NN i_LS as_IN its_PRP$ actual_JJ clickthrough_JJ rate_NN ,_,

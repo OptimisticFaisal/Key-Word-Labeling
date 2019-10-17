@@ -1,0 +1,4 @@
+data_NNS tagging_VBG is_VBZ a_DT problem_NN ,_, especially_RB in_IN systems_NNS with_IN many_JJ existing_VBG documents_NNS and_CC a_DT large_JJ metadata_JJ term_NN vocabulary_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+There_EX are_VBP several_JJ existing_VBG tools_NNS available_JJ ._.
+For_IN example_NN ,_, one_CD such_JJ tool_NN ,_, Annotea_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: builds_VBZ on_IN semantic_JJ web_NN technologies_NNS ._.
+The_DT task_NN of_IN annotating_VBG existing_VBG documents_NNS with_IN metadata_NN is_VBZ challenging_JJ and_CC non-trivial_JJ because_IN it_PRP is_VBZ hard_JJ to_TO be_VB thorough_JJ and_CC consistant_JJ ,_, and_CC the_DT task_NN is_VBZ both_DT dema_NN

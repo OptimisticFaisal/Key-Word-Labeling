@@ -1,0 +1,5 @@
+tterns_NNS rather_RB than_IN an_DT automata_NN ._.
+These_DT patterns_NNS are_VBP intuitive_JJ and_CC commonly_RB found_VBN in_IN software_NN documentations_NNS ,_, such_JJ as_IN :_: 1_CD ._.
+Resource_NNP Locking_NNP Protocol_NNP :_: 〈_CD lock_NN ,_, unlock_NN 〉_NN 2_CD ._.
+Telecommunication_NNP Protocol_NNP -LRB-_-LRB- c.f._NNP ,_, =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =--RRB-_NN :_: 〈_NN off_IN hook_NN ,_, dial_NN tone_NN on_IN ,_, dial_NN tone_NN off_RB ,_, seizure_NN int_NN ,_, ring_NN tone_NN ,_, answer_NN ,_, connection_NN on_IN 〉_NN 3_CD ._.
+Java_NNP Authentication_NNP and_CC Authorization_NNP Service_NNP -LRB-_-LRB- JAAS_NNP -RRB-_-RRB- Authorization_NN Enforcer_NN Strategy_NN Pattern_NN -LRB-_-LRB- c.f._NN ,_, -LRB-_-LRB- 28_CD -RRB-_-RRB- -RRB-_-RRB- :_:

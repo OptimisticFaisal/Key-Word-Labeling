@@ -1,0 +1,6 @@
+formation_NN ._.
+There_EX are_VBP other_JJ alert_JJ correlation_NN techniques_NNS ._.
+Some_DT approaches_NNS cluster_NN alerts_VBZ on_IN the_DT basis_NN of_IN the_DT similarities_NNS between_IN the_DT alert_JJ attributes_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 7,29_CD -RRB-_-RRB- -RRB-_-RRB- ,_, or_CC hierarchies_NNS of_IN concepts_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 17,18_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Some_DT others_NNS correlate_VBP alerts_VBZ by_IN matching_NN alerts_VBZ against_IN known_JJ attack_NN scenarios_NNS ,_, using_VBG languages_NNS such_JJ as_IN STATL_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- and_CC LAMBDA_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+These_DT methods_NNS are_VBP potentially_RB complementary_JJ to_TO our_PRP$ approach_NN ._.
+Our_PRP$ a_DT

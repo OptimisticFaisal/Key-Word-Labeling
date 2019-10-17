@@ -1,0 +1,6 @@
+ons_NNS of_IN the_DT iteration_NN block_NN would_MD yield_VB the_DT exact_JJ minimizer_NN of_IN f_FW -LRB-_-LRB- β_NN -RRB-_-RRB- !_.
+-LRB-_-LRB- This_DT involves_VBZ solving_VBG p_NN -LRB-_-LRB- p_NN +_CC 1_LS -RRB-_-RRB- line_NN minimization_NN problems_NNS to_TO obtain_VB the_DT minimizer_NN of_IN a_DT quadratic_JJ function_NN ._. -RRB-_-RRB-
+We_PRP refer_VBP the_DT reader_NN to_TO =_JJ -_: =[_NN 3_CD ,_, 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: for_IN proofs_NNS and_CC elaborations_NNS ._.
+1_CD Powell_NNP 's_POS original_JJ algorithm_NN used_VBD the_DT coordinate_JJ axis_NN vectors_NNS -LCB-_-LRB- e1_NN ,_, e2_NN ,_, ..._: ,_, ep_NN -RCB-_-RRB- as_IN the_DT basis_NN ._.
+Brent_NNP -LRB-_-LRB- 3_LS -RRB-_-RRB- shows_VBZ that_IN an_DT arbitrary_JJ orthogonal_JJ basis_NN also_RB suffices_VBZ ._.
+679_CD Note_NN In_IN

@@ -1,0 +1,3 @@
+ver_NN groups_NNS among_IN the_DT entities_NNS and_CC topics_NNS among_IN the_DT corresponding_JJ text_NN ._.
+Zhang_NNP et_FW al._FW -LRB-_-LRB- 22_CD -RRB-_-RRB- introduced_VBD a_DT model_NN to_TO incorporate_VB LDA_NNP into_IN a_DT community_NN detection_NN process_NN ._.
+Similar_JJ work_NN can_MD be_VB found_VBN in_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: Related_VBN to_TO this_DT work_NN ,_, where_WRB we_PRP need_VBP to_TO obtain_VB topic_NN mixture_NN for_IN both_DT messages_NNS and_CC authors_NNS ,_, Rosen-Zvi_NNP et_FW al._FW -LRB-_-LRB- 16_CD -RRB-_-RRB- introduced_VBD an_DT author-topic_JJ model_NN ,_, which_WDT can_MD flexibly_RB model_VB authors_NNS and_CC their_PRP$ correspon_NN

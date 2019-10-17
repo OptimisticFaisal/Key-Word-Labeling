@@ -1,0 +1,4 @@
+ate_VBD ._.
+The_DT proposed_VBN algorithm_NN for_IN solving_VBG the_DT formulation_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- finds_VBZ a_DT globally_RB optimal_JJ solution_NN and_CC achieves_VBZ the_DT optimal_JJ convergence_NN rate_NN among_IN all_DT first-order_JJ methods_NNS ._.
+Note_VB that_IN recent_JJ works_NNS in_IN =_JJ -_: =[_NN 12_CD ,_, 14_CD ,_, 37_CD -RRB-_-RRB- -_: =_SYM -_: consider_VB the_DT problem_NN of_IN decomposing_VBG a_DT given_VBN matrix_NN into_IN its_PRP$ underlying_JJ sparse_JJ component_NN and_CC low-rank_JJ component_NN in_IN a_DT different_JJ setting_NN :_: they_PRP study_VBP the_DT theoretical_JJ condition_NN under_IN which_WDT such_JJ two_CD compon_NN

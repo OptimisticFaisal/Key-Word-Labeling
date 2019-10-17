@@ -1,0 +1,4 @@
+ts_NNS ._.
+However_RB ,_, even_RB though_IN the_DT ``_`` lazy-forward_JJ ''_'' optimization_NN is_VBZ significant_JJ ,_, it_PRP still_RB takes_VBZ hours_NNS to_TO find_VB 50_CD most_RBS influential_JJ nodes_NNS in_IN a_DT network_NN with_IN a_DT few_JJ tens_NNS of_IN thousands_NNS of_IN nodes_NNS ,_, as_IN shown_VBN in_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+In_IN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Kimura_NNP and_CC Saito_NNP propose_VBP shortest-path_JJ based_VBN influence_NN cascade_NN models_NNS and_CC provide_VB efficient_JJ algorithms_NNS to_TO compute_VB influence_NN spread_VBN under_IN these_DT models_NNS ._.
+The_DT key_JJ differences_NNS between_IN their_PRP$ work_NN and_CC ours_PRP

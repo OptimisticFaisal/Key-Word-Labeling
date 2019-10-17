@@ -1,0 +1,3 @@
+aseline_NN algorithms_NNS in_IN Section_NN 4.1_CD ,_, then_RB proposes_VBZ our_PRP$ clustering_NN algorithm_NN in_IN Section_NN 4.2_CD ._.
+4.1_CD Baselines_NNS As_IN a_DT basis_NN for_IN all_DT algorithms_NNS ,_, we_PRP adopt_VBP a_DT bottom-up_JJ agglomerative_JJ hierarchial_JJ clustering_NN method_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB every_DT object_NN initially_RB corresponds_VBZ to_TO a_DT singleton_NN cluster_NN ,_, then_RB iteratively_RB merged_VBN into_IN k_NN clusters_NNS ._.
+In_IN particular_JJ ,_, we_PRP consider_VBP two_CD baseline_JJ algorithms_NNS ,_, using_VBG co-occurrence_NN and_CC feature-based_JJ si_NNS

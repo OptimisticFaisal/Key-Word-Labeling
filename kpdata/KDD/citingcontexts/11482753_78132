@@ -1,0 +1,5 @@
+thods_NNS :_: SVM_NN ,_, Transductive_JJ SVM_NN ,_, and_CC CDSC_NN as_IN presented_VBN in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+They_PRP represent_VBP supervised_JJ classification_NN ,_, semi-supervised_JJ classification_NN ,_, and_CC a_DT recent_JJ domain_NN adaptation_NN method_NN respectively_RB ._.
+SVM_NN and_CC TSVM_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP implemented_VBN by_IN 1_CD SVM_NN light_NN and_CC the_DT parameters_NNS are_VBP all_DT set_NN as_IN default_NN in_IN the_DT package_NN ._.
+The_DT parameters_NNS setting_VBG in_IN CDSC_NNP is_VBZ the_DT same_JJ as_IN those_DT reported_VBN in_IN the_DT paper_NN ._.
+For_IN those_DT three_CD comparison_NN algorith_NN

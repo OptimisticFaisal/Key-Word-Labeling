@@ -1,0 +1,4 @@
+fication_NN -LRB-_-LRB- Dumais_NNP et_FW al._FW ,_, 1998_CD ;_: Joachims_NNP ,_, 1998_CD ;_: McCallum_NNP and_CC Nigam_NNP ,_, 1998_CD ;_: Sandler_NNP ,_, 2005_CD ;_: Keerthi_NNP ,_, 2005_CD ;_: Joachims_NNP ,_, 2005_CD ;_: Gabrilovich_NNP and_CC Markovitch_NNP ,_, 2005_CD ;_: Carvalho_NNP and_CC Cohen_NNP ,_, 2005_CD ;_: Rooney_NNP et_FW al._FW ,_, 2006_CD ;_: =_JJ -_: =_JJ Zhang_NNP and_CC Lee_NNP ,_, 2006_CD -_: =--RRB-_NN ._.
+In_IN our_PRP$ experiment_NN ,_, stop_NN words_NNS were_VBD not_RB eliminated_VBN ,_, and_CC title_NN words_NNS were_VBD not_RB distinguished_VBN with_IN body_NN words_NNS ._.
+We_PRP selected_VBD top_JJ 300_CD features_NNS based_VBN on_IN mutual_JJ information_NN with_IN class_NN labels_NNS ._.
+The_DT mutual_JJ inf_NN

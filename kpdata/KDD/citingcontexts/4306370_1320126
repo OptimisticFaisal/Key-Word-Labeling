@@ -1,0 +1,5 @@
+lexible_JJ definitions_NNS of_IN similarity_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Econometrics_NNP has_VBZ a_DT related_JJ concept_NN called_VBN cointegration_NN :_: two_CD time_NN series_NN X_NN and_CC Y_NN -LRB-_-LRB- e.g._FW ,_, of_IN stock_NN prices_NNS -RRB-_-RRB- may_MD be_VB cointegrated_VBN if_IN Xt_NN is_VBZ useful_JJ for_IN predicting_VBG Yt_NN +1_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, in_IN these_DT fields_NNS ,_, time_NN series_NN are_VBP traditionally_RB numerical_JJ ._.
+Furthermore_RB ,_, in_IN our_PRP$ task_NN we_PRP wish_VBP to_TO find_VB sequences_NNS that_WDT are_VBP not_RB just_RB similar_JJ ,_, but_CC also_RB anomalous_JJ ._.
+Anomaly_RB detection_NN ,_, often_RB applied_VBN

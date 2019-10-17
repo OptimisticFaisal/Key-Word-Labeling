@@ -1,0 +1,4 @@
+efits_NNS ,_, and_CC where_WRB it_PRP is_VBZ not_RB realistic_JJ to_TO assume_VB that_IN the_DT user_NN will_MD have_VB time_NN or_CC expertise_NN to_TO manually_RB verify_VB the_DT matches_NNS ._.
+A_DT wealth_NN of_IN techniques_NNS have_VBP also_RB been_VBN developed_VBN to_TO match_VB data_NNS instances_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 4_CD ,_, 20_CD ,_, 1_CD ,_, 25_CD ,_, 10_CD ,_, 14_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+We_PRP currently_RB employ_VBP the_DT solution_NN proposed_VBN in_IN -LRB-_-LRB- 10_CD -RRB-_-RRB- because_IN it_PRP is_VBZ directly_RB implementable_JJ using_VBG SQL_NN queries_NNS in_IN databases_NNS ,_, and_CC thus_RB can_MD be_VB naturally_RB and_CC quickly_RB folded_VBD into_IN our_PRP$ solution_NN ._.
+5_CD HeteroClass_NN

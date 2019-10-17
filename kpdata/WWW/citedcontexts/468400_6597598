@@ -1,0 +1,4 @@
+It_PRP is_VBZ thus_RB important_JJ to_TO consider_VB the_DT problem_NN of_IN learning_VBG how_WRB to_TO better_JJR rank_NN graph_NN nodes_NNS ._.
+Previous_JJ researchers_NNS have_VBP described_VBN schemes_NNS for_IN adjusting_VBG the_DT parameters_NNS θ_NN using_VBG gradient_NN descent-like_JJ methods_NNS =_JJ -_: =[_NN 12_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP suggest_VBP an_DT alternative_JJ approach_NN of_IN learning_VBG to_TO re-order_VB an_DT initial_JJ ranking_NN ._.
+This_DT reranking_NN approach_NN has_VBZ been_VBN used_VBN in_IN the_DT past_NN for_IN meta-search_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC also_RB several_JJ natural-language_NN

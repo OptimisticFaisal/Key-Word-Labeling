@@ -1,0 +1,8 @@
+for_IN each_DT feature_NN according_VBG to_TO Eq_NN ._.
+-LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+5_CD :_: return_VB the_DT top_JJ d_NN features_NNS according_VBG to_TO their_PRP$ MCFS_NN scores_NNS ._.
+canuseLanczosalgorithmtocomputethetopK_NN eigenvectors_NNS of_IN eigen-problem_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- within_IN O_NN -LRB-_-LRB- KNp_NN -RRB-_-RRB- time_NN =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+•_NNP The_NNP LARs_NNPS algorithm_NN can_MD solve_VB the_DT L1-regularize_JJ regression_NN problem_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- with_IN cardinality_NN constraint_NN -LRB-_-LRB- cardi_NN -LRB-_-LRB- ak_NN -RRB-_-RRB- =_JJ d_NN -RRB-_-RRB- in_IN O_NN -LRB-_-LRB- d_NN 3_CD +_CC Nd_NN 2_CD -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+Thus_RB ,_, we_PRP need_VBP O_NN -LRB-_-LRB- Kd_NN 3_CD +_CC NKd_NN 2_CD -RRB-_-RRB- to_TO solve_VB the_DT K_NN regre_NN

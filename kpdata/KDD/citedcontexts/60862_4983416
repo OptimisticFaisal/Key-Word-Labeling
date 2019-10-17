@@ -1,0 +1,5 @@
+cluster_NN ``_`` centroids_NNS ''_'' ._.
+Centroid-based_JJ clustering_NN algorithms_NNS are_VBP often_RB more_RBR efficient_JJ than_IN similarity-based_JJ clustering_NN algorithms_NNS -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+Regular_JJ k-means_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- and_CC EM_NN -LRB-_-LRB- Expectation_NN Maximization_NN -RRB-_-RRB- clustering_NN =_JJ -_: =[_NN 2_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: belong_VBP to_TO this_DT category_NN ._.
+We_PRP choose_VBP centroid-based_JJ approaches_NNS over_IN similarity-based_JJ ones_NNS due_JJ to_TO efficiency_NN ._.
+Similarity-based_JJ algorithms_NNS usually_RB have_VBP a_DT complexity_NN of_IN at_IN least_JJS O_NN -LRB-_-LRB- N_NN 2_CD -RRB-_-RRB- -LRB-_-LRB- for_IN computing_VBG the_DT

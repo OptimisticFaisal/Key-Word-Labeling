@@ -1,0 +1,6 @@
+f_LS the_DT original_JJ AdaBoost_NNP algorithm_NN have_VBP become_VBN popular_JJ in_IN recent_JJ literature_NN ._.
+This_DT even_RB includes_VBZ the_DT Boosting_VBG Feature_NN Selection_NN -LRB-_-LRB- BFS_NN -RRB-_-RRB- algorithm_NN -LRB-_-LRB- 41_CD -RRB-_-RRB- ,_, AdaBoost_NNP ._.
+R_NN -LRB-_-LRB- 42_CD -RRB-_-RRB- ,_, AveBoost_NN -LRB-_-LRB- 43_CD -RRB-_-RRB- ,_, and_CC Online_NNP Boosting_NNP =_SYM -_: =[_NN 44_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+3.2.1_FW AdaBoost_FW ._.
+Ml_NNP Explained_NNP AdaBoost_NNP ._.
+M1_NN was_VBD developed_VBN to_TO boost_VB the_DT performance_NN of_IN weak_JJ learner_NN classifiers_NNS by_IN generating_VBG various_JJ weak_JJ classification_NN hypotheses_NNS ,_, and_CC combining_VBG them_PRP through_IN weighted_JJ m_NN

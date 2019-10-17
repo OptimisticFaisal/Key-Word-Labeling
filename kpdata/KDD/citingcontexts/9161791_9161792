@@ -1,0 +1,4 @@
+way_NN to_TO reduce_VB the_DT number_NN of_IN frequent_JJ itemsets_NNS since_IN many_JJ of_IN the_DT frequent_JJ itemsets_NNS can_MD be_VB recognized_VBN as_IN the_DT variants_NNS of_IN a_DT true_JJ frequent_JJ itemset_NN ._.
+This_DT in_IN general_JJ is_VBZ referred_VBN to_TO as_IN pattern_NN summarization_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =-[_NN 14_CD -RRB-_-RRB- ._.
+Most_JJS of_IN the_DT efforts_NNS in_IN error-tolerant_JJ frequent_JJ itemsets_NNS can_MD be_VB viewed_VBN as_IN finding_VBG dense_JJ hyperrectangles_NNS with_IN certain_JJ constraints_NNS ._.
+The_DT support_NN envelope_NN notation_NN proposed_VBN by_IN Steinbach_NNP et_FW al._FW -LRB-_-LRB- 16_CD -RRB-_-RRB- a_DT

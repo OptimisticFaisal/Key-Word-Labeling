@@ -1,0 +1,5 @@
+,_, DNS_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+A_DT host-based_JJ anomaly_NN detector_NN can_MD detect_VB some_DT attacks_NNS -LRB-_-LRB- for_IN example_NN ,_, inside_JJ attacks_NNS -RRB-_-RRB- that_WDT do_VBP not_RB generate_VB network_NN traffic_NN ._.
+Host_NN based_VBN anomaly_RB detection_NN generally_RB uses_VBZ system_NN call_NN sequences_NNS =_JJ -_: =[_NN 10_CD ,_, 32_CD ,_, 33_CD -RRB-_-RRB- -_: =_JJ -_: and_CC have_VBP been_VBN represented_VBN using_VBG finite_JJ state_NN automata_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- and_CC neural_JJ networks_NNS -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+Other_JJ features_NNS used_VBN include_VBP system_NN call_NN arguments_NNS -LRB-_-LRB- 21_CD ,_, 30_CD ,_, 4_CD -RRB-_-RRB- and_CC call_NN stack_VBP information_NN -LRB-_-LRB- 8_CD ,_, 13_CD -RRB-_-RRB- ._.
+Associating_VBG weig_NN

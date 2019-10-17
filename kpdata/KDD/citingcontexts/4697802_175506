@@ -1,0 +1,7 @@
+ms_IN We_PRP now_RB present_VBP an_DT algorithm_NN that_WDT finds_VBZ an_DT additive_JJ ǫ_NN approximation_NN to_TO the_DT maximum_NN linear_JJ discrepancy_NN ._.
+It_PRP is_VBZ based_VBN upon_IN a_DT sampling_NN approach_NN related_JJ to_TO the_DT construction_NN of_IN ǫnets_NNS and_CC ǫ-approximations_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Theorem_NNP 6.5_CD ._.
+Consider_VB a_DT set_NN of_IN points_NNS S_NN in_IN the_DT plane_NN ._.
+Let_NNP R_NNP be_VB a_DT set_NN of_IN axis-aligned_JJ rectangles_NNS ._.
+An_DT ǫ-approximation_NN is_VBZ a_DT subset_NN A_NN of_IN S_NN such_JJ that_IN ,_, for_IN any_DT R_NNP ∈_NNP R_NNP ,_, ˛_NNP |_NNP S_NNP ∩_NNP R_NNP |_NNP |_NNP S_NNP |_NNP −_NNP |_NNP A_NNP ∩_NNP R_NNP |_NNP |_NNP A_NNP |_FW ˛_FW -LRB-_-LRB- ǫ_NN ._.
+W_NN

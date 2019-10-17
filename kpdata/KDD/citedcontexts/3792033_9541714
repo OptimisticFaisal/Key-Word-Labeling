@@ -1,0 +1,7 @@
+tion_NN ._.
+•_FW Open-source_FW data_NN mining_NN systems_NNS ._.
+Several_JJ well_RB known_VBN open-source_JJ data_NNS mining_NN systems_NNS provide_VBP plugins_NNS to_TO allow_VB access_NN to_TO WEKA_NNP 's_POS algorithms_NNS ._.
+The_DT Konstanz_NNP Information_NNP Miner_NNP -LRB-_-LRB- KNIME_NNP -RRB-_-RRB- and_CC RapidMiner_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP two_CD such_JJ systems_NNS ._.
+The_DT R_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- statistical_JJ computing_NN environment_NN also_RB provides_VBZ an_DT interface_NN to_TO WEKA_NNP through_IN the_DT RWeka_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- package_NN ._.
+•_NNP Scientific_NNP workflow_NN environment_NN ._.
+The_DT Kepler_NNP Weka_NNP project_NN integr_NN

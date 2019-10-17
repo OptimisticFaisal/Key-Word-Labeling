@@ -1,0 +1,4 @@
+ently_RB pushed_VBN and_CC second_JJ to_TO filter_NN the_DT resulting_VBG set_NN of_IN patterns_NNS by_IN the_DT other_JJ constraints_NNS ._.
+However_RB ,_, this_DT naïve_JJ filtering_VBG approach_NN fails_VBZ due_JJ to_TO the_DT huge_JJ number_NN of_IN patterns_NNS ._.
+Existing_VBG scalable_JJ techniques_NNS =_JJ -_: =[_NN 20_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP limited_VBN to_TO particular_JJ kinds_NNS of_IN constraints_NNS -LRB-_-LRB- closed_JJ patterns_NNS ,_, δ-free_NN patterns_NNS -RRB-_-RRB- ._.
+In_IN this_DT paper_NN we_PRP apply_VBP a_DT more_RBR general_JJ framework_NN which_WDT is_VBZ based_VBN on_IN a_DT rich_JJ declarative_JJ language_NN of_IN primitivebased_JJ cons_NNS

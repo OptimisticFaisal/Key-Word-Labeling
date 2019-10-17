@@ -1,0 +1,3 @@
+hat_NN had_VBD been_VBN proposed_VBN by_IN many_JJ researchers_NNS and_CC they_PRP reported_VBD on_IN the_DT performance_NN impact_NN of_IN these_DT protocols_NNS in_IN a_DT sports_NNS event_NN Web_NN site_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+There_EX also_RB exists_VBZ a_DT combination_NN of_IN client-pull_NN and_CC server-push_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP believe_VBP that_IN these_DT cache_NN consistency_NN management_NN protocols_NNS can_MD be_VB applied_VBN to_TO Web_NN services_NNS middleware_NN and_CC these_DT technologies_NNS are_VBP orthogonal_JJ to_TO our_PRP$ optimization_NN regarding_VBG the_DT cached_JJ data_NNS representat_NN

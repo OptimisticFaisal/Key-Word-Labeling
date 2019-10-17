@@ -1,0 +1,4 @@
+initial_JJ partition_NN from_IN constraints_NNS rather_RB than_IN randomly_RB -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Constraints_NNS can_MD also_RB be_VB used_VBN to_TO train_VB a_DT classifier_NN which_WDT can_MD then_RB extrapolate_VB whether_IN unseen_JJ pairs_NNS of_IN samples_NNS are_VBP in_IN the_DT same_JJ cluster_NN or_CC not_RB =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT approach_NN is_VBZ similar_JJ to_TO our_PRP$ approach_NN in_IN that_IN the_DT clustering_NN step_NN uses_VBZ a_DT learned_VBN function_NN between_IN pairs_NNS rather_RB than_IN a_DT pre-defined_JJ metric_NN on_IN the_DT sample_NN space_NN ._.
+8.3.3_CD Ensemble_NN Clustering_VBG Another_DT res_NNS

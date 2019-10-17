@@ -1,0 +1,4 @@
+tree_NN or_CC neural_JJ network_NN and_CC use_VB it_PRP to_TO classify_VB examples_NNS ._.
+1_CD Ensemble_NN learning_NN algorithms_NNS combine_VBP the_DT predictions_NNS of_IN multiple_JJ base_NN models_NNS ,_, each_DT of_IN which_WDT is_VBZ learned_VBN using_VBG a_DT traditional_JJ algorithm_NN ._.
+Bagging_VBG =_JJ -_: =[_NN 3_CD -_: =-]_NN and_CC Boosting_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- are_VBP well-known_JJ ensemble_NN learning_NN algorithms_NNS that_WDT have_VBP been_VBN shown_VBN to_TO be_VB very_RB eective_JJ in_IN improving_VBG generalization_NN performance_NN compared_VBN to_TO the_DT individual_JJ base_NN models_NNS ._.
+Theoretical_JJ analy_NN

@@ -1,0 +1,6 @@
+the_DT Mst-Tf_NN problem_NN ._.
+We_PRP have_VBP picked_VBN the_DT EnhancedSteiner_NNP algorithm_NN because_IN it_PRP is_VBZ simple_JJ ,_, intuitive_JJ and_CC works_VBZ well_RB in_IN practice_NN ._.
+The_DT best_JJS approximation_NN ratio_NN achieved_VBN by_IN an_DT algorithm_NN is_VBZ O_NN -LRB-_-LRB- log_NN 3_CD n_NN log_NN k_NN -RRB-_-RRB- =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN a_DT review_NN of_IN some_DT recent_JJ approximation_NN algorithms_NNS for_IN the_DT Gst_NN problem_NN see_VBP -LRB-_-LRB- 6_CD ,_, 8_CD ,_, 10_CD -RRB-_-RRB- and_CC references_NNS therein_RB ._.
+6_CD ._.
+EXPERIMENTAL_JJ EVALUATION_NN In_IN this_DT section_NN we_PRP evaluate_VBP the_DT proposed_VBN algorithms_NNS for_IN the_DT

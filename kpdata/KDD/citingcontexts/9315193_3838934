@@ -1,0 +1,5 @@
+e_LS column_NN space_NN of_IN L._NN Based_VBN on_IN the_DT orthogonality_NN property_NN of_IN the_DT projection_NN ,_, we_PRP have_VBP δ_NN =_JJ ‖_FW res_FW ‖_NN 2_CD =_JJ res_FW ′_FW -LRB-_-LRB- res_NN +_CC LML_NN ′_NN A_NN -LRB-_-LRB- :_: ,_, ik2_NN -RRB-_-RRB- -RRB-_-RRB- =_JJ res_FW ′_FW A_NN -LRB-_-LRB- :_: ,_, ik_NN -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- Now_RB ,_, applying_VBG the_DT Sherman-Morrison_NNP lemma_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: to_TO the_DT matrix_NN ˜L_FW ′_FW ˜L_NN in_IN the_DT form_NN of_IN eq_NN ._.
+1_CD ,_, based_VBN on_IN eq_NN ._.
+2_CD ,_, we_PRP can_MD verify_VB that_IN ˜M_NN =_JJ -LRB-_-LRB- ˜L_FW ′_FW ˜L_NN -RRB-_-RRB- −_NN 1_CD holds_VBZ ,_, which_WDT completes_VBZ the_DT proof_NN of_IN `_`` P3_NN '_'' ._.
+Next_RB ,_, let_VB us_PRP prove_VB `_`` P1_NN '_'' in_IN Theorem_NNP 1_CD by_IN induction_NN ._.
+Again_RB ,_, the_DT

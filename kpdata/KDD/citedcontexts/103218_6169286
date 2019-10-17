@@ -1,0 +1,4 @@
+e_LS key_JJ resources_NNS in_IN the_DT ID_NNP task_NN ._.
+Unfortunately_RB ,_, the_DT number_NN of_IN alerts_VBZ that_WDT are_VBP triggered_VBN by_IN the_DT IDS_NNP can_MD be_VB overwhelming_JJ ,_, especially_RB with_IN large_JJ heterogeneous_JJ networks_NNS ,_, with_IN a_DT false_JJ alarm_NN rate_NN up_IN to_TO 99_CD %_NN -LRB-_-LRB- =_JJ -_: =_JJ Julisch_NNP &_CC Dacier_NNP ,_, 2002_CD -_: =--RRB-_NN ._.
+This_DT adds_VBZ to_TO cognitive_JJ workload_NN ,_, as_IN engineers_NNS must_MD reduce_VB the_DT number_NN of_IN alerts_VBZ to_TO a_DT manageable_JJ level_NN while_IN ensuring_VBG that_IN true_JJ intrusions_NNS are_VBP not_RB missed_VBN ._.
+Specifically_RB ,_, the_DT monitoring_NN phase_NN requires_VBZ

@@ -1,0 +1,4 @@
+osed_VBD an_DT nearest_JJS neighbor_NN classifiers_NNS based_VBN online_JJ learning_NN scheme_NN and_CC examined_VBD the_DT issues_NNS of_IN incremental_JJ updating_VBG of_IN system_NN parameters_NNS and_CC instance_NN selection_NN ._.
+Mixture_NN models_NNS were_VBD employed_VBN in_IN -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: to_TO generate_VB adaptive_JJ probabilistic_JJ models_NNS and_CC detect_VB anomalies_NNS within_IN a_DT dataset_NN ._.
+Cannady_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- demonstrated_VBD the_DT use_NN of_IN a_DT reinforcement_NN learning_NN method_NN that_WDT uses_VBZ feedback_NN from_IN the_DT protected_JJ system_NN ._.
+Fan_NN

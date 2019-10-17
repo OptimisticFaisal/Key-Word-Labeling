@@ -1,0 +1,4 @@
+by_IN restricting_VBG Rank_NNP -LRB-_-LRB- X_NN -RRB-_-RRB- =_JJ t_NN ,_, t_NN -LRB-_-LRB- =_JJ min_NN -LRB-_-LRB- K_NN −_NN 1_CD ,_, m_NN -RRB-_-RRB- ,_, the_DT general_JJ model_NN can_MD lead_VB to_TO the_DT one-Side_JJ low_JJ dimensional_JJ clustering_NN -LRB-_-LRB- 35_CD -RRB-_-RRB- ._.
+We_PRP can_MD also_RB put_VB non-negative_JJ constraints_NNS on_IN both_CC A_NN and_CC X_NN for_IN other_JJ variations_NNS =_JJ -_: =[_NN 38_CD ,_, 32_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+4.1.2_CD Iterative_JJ Feature_NN and_CC Data_NN Clustering_NN When_WRB X_NN is_VBZ identity_NN matrix_NN and_CC if_IN we_PRP allow_VBP entries_NNS of_IN A_NN and_CC B_NN to_TO be_VB any_DT positive_JJ values_NNS ,_, this_DT leads_VBZ to_TO the_DT cluster_NN model_NN described_VBN in_IN -LRB-_-LRB- 23_CD -RRB-_-RRB- ._.
+The_DT objective_NN f_SYM

@@ -1,0 +1,4 @@
+orward_NN search_NN ,_, backward_RB search_NN and_CC session_NN retrieval_NN ._.
+Importantly_RB ,_, many_JJ data-driven_JJ applications_NNS are_VBP based_VBN on_IN mining_NN frequent_JJ sequences_NNS ._.
+Moreover_RB ,_, different_JJ from_IN traditional_JJ sequential_JJ pattern_NN mining_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT finds_VBZ the_DT complete_JJ set_NN of_IN sequential_JJ patterns_NNS ,_, a_DT data-driven_JJ application_NN typically_RB relies_VBZ on_IN the_DT top-k_NN query_NN sequences_NNS related_VBN to_TO a_DT given_VBN query_NN sequence_NN s._NN Definition_NN 1_CD -LRB-_-LRB- Forward_RB search_NN -RRB-_-RRB- ._.
+In_IN a_DT s_NN

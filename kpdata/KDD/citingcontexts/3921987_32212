@@ -1,0 +1,4 @@
+he_PRP more_RBR suitable_JJ to_TO be_VB taken_VBN as_IN a_DT feature_NN ._.
+The_DT last_JJ two_CD criteria_NNS -LRB-_-LRB- -_: p_NN and_CC -_: q_NN -RRB-_-RRB- aim_NN at_IN removing_VBG highly_RB redundant_JJ features_NNS ._.
+In_IN fact_NN ,_, the_DT probability_NN P_NN r_NN -LRB-_-LRB- SGv_FW |_FW SGu_FW -RRB-_-RRB- is_VBZ proportional_JJ to_TO the_DT mutual_JJ information_NN =_JJ -_: =[_NN 12_CD ,_, 46_CD -RRB-_-RRB- -_: =_SYM -_: between_IN SGv_NNP and_CC SGu_NNP ,_, while_IN the_DT probability_NN P_NN r_NN -LRB-_-LRB- SGv_FW |_FW SGs_NNS -LRB-_-LRB- v_LS -RRB-_-RRB- -RRB-_-RRB- is_VBZ proportional_JJ to_TO the_DT mutual_JJ information_NN -LRB-_-LRB- 12_CD ,_, 46_CD -RRB-_-RRB- between_IN SGv_NNS and_CC SGs_NNS -LRB-_-LRB- v_LS -RRB-_-RRB- ._.
+If_IN two_CD substring_JJ groups_NNS have_VBP a_DT high_JJ mutual_JJ information_NN ,_, it_PRP should_MD

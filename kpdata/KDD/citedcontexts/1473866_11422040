@@ -1,0 +1,4 @@
+e_LS order_NN in_IN which_WDT the_DT tokens_NNS occur_VBP ._.
+The_DT tf_NN --_: idf_JJ weighting_NN scheme_NN is_VBZ useful_JJ for_IN similarity_NN computations_NNS because_IN it_PRP attempts_VBZ to_TO give_VB tokens_NNS weights_NNS that_WDT are_VBP proportional_JJ to_TO the_DT tokens_NNS '_POS relative_JJ importance_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT simplicity_NN of_IN the_DT tf_NN --_: idf_JJ weighting_NN scheme_NN makes_VBZ it_PRP a_DT technique_NN used_VBN in_IN advanced_JJ text_NN classification_NN ,_, text_NN filtering_VBG or_CC the_DT tracking_NN opinions_NNS ._.
+The_DT tf-idf_JJ score_NN gives_VBZ more_JJR weight_NN to_TO terms_NNS that_WDT are_VBP

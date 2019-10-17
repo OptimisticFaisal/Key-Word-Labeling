@@ -1,0 +1,4 @@
+what_WP are_VBP good_JJ criteriatoconciselyrepresentalargecollectionoffrequentitemsets_NNS ,_, andhowcanonefindtheoptimalrepresentationsefficiently_RB ?_.
+Recently_RB ,_, several_JJ approaches_NNS have_VBP been_VBN proposed_VBN to_TO tackle_VB this_DT issue_NN =_JJ -_: =[_NN 2,28,24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Twokeycriteriabeingemployedforevaluating_VBG the_DT concise_JJ representation_NN of_IN itemsets_NNS are_VBP the_DT coverage_NN criterion_NN and_CC frequency_NN criterion_NN ._.
+Generally_RB speaking_VBG ,_, the_DT coverage_NN criterion_NN assumes_VBZ the_DT concise_JJ rep_NN

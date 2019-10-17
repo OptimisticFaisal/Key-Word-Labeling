@@ -1,0 +1,4 @@
+related_JJ patterns_NNS in_IN multiple_JJ text_NN streams_NNS -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+These_DT methods_NNS generally_RB do_VBP not_RB consider_VB the_DT network_NN structures_NNS ._.
+Recently_RB ,_, incorporating_VBG network_NN regularization_NN in_IN topic_NN modeling_NN has_VBZ been_VBN proposed_VBN -LRB-_-LRB- 25_CD -RRB-_-RRB- =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+-LRB-_-LRB- 19_CD -RRB-_-RRB- uses_VBZ a_DT harmonic_JJ function_NN to_TO enforce_VB the_DT constraint_NN that_IN topic_NN distribution_NN on_IN neighboring_JJ nodes_NNS should_MD be_VB similar_JJ ,_, and_CC -LRB-_-LRB- 25_CD -RRB-_-RRB- defines_VBZ a_DT Markov_NNP Random_NNP Field_NNP on_IN the_DT graph_NN to_TO model_VB the_DT influence_NN bet_NN

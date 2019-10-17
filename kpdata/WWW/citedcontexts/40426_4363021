@@ -1,0 +1,4 @@
+loyed_VBN ,_, for_IN each_DT node_NN i_FW ,_, its_PRP$ rank_NN is_VBZ calculated_VBN as_IN follows_VBZ :_: Rk_NN -LRB-_-LRB- i_LS -RRB-_-RRB- =_JJ -LRB-_-LRB- j_FW ∈_FW ini_FW m_NN ∈_FW outj_FW d_NN W_NN -LRB-_-LRB- j_NN ,_, m_NN -RRB-_-RRB- ∗_NN W_NN -LRB-_-LRB- j_NN ,_, i_LS -RRB-_-RRB- ∗_FW Rk_FW −_NN 1_CD -LRB-_-LRB- j_NN -RRB-_-RRB- -RRB-_-RRB- +_CC mink_NN 4_CD ._.
+Between_IN every_DT fifth_JJ iteration_NN The_DT algorithm_NN uses_VBZ quadratic_JJ extrapolation_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: between_IN every_DT fifth_JJ iteration_NN to_TO speed_VB up_RP convergence_NN ._.
+s5_NN ._.
+End_NN of_IN iterations_NNS After_IN each_DT iteration_NN ,_, the_DT l1_NN norm_NN of_IN the_DT residual_JJ is_VBZ calculated_VBN ,_, which_WDT is_VBZ the_DT summation_NN of_IN the_DT absolute_JJ change_NN of_IN each_DT valu_NN

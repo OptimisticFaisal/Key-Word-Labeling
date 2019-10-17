@@ -1,0 +1,4 @@
+ern-features_NNS can_MD be_VB more_RBR accurate_JJ and_CC more_RBR understandable_JJ than_IN the_DT original_JJ feature_NN set_NN -LRB-_-LRB- 2_CD ,_, 3_CD -RRB-_-RRB- ._.
+Pattern-based_JJ classification_NN has_VBZ been_VBN adapted_VBN to_TO work_VB on_IN data_NNS with_IN complex_JJ structures_NNS such_JJ as_IN sequences_NNS =_JJ -_: =[_NN 12_CD ,_, 9_CD ,_, 15_CD ,_, 6_CD ,_, 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC graphs_NNS -LRB-_-LRB- 17_CD ,_, 18_CD ,_, 16_CD -RRB-_-RRB- ,_, where_WRB discriminative_JJ frequent_JJ patterns_NNS are_VBP taken_VBN as_IN features_NNS to_TO build_VB high_JJ quality_NN classifiers_NNS ._.
+These_DT approaches_NNS can_MD be_VB grouped_VBN into_IN two_CD settings_NNS :_: binary_JJ or_CC numerical_JJ ._.
+Binar_NN

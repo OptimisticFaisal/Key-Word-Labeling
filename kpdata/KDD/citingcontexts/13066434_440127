@@ -1,0 +1,4 @@
+-LRB-_-LRB- log_NN n_NN -RRB-_-RRB- ._.
+An_DT exhaustive_JJ survey_NN of_IN the_DT different_JJ methods_NNS for_IN dimensionality_NN reduction_NN is_VBZ beyond_IN the_DT scope_NN of_IN this_DT paper_NN -_: the_DT reader_NN is_VBZ directed_VBN to_TO the_DT survey_NN by_IN Indyk_NNP and_CC Matousek_NNP for_IN more_JJR information_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT Johnson-Lindenstrauss_NNP lemma_NN can_MD be_VB extended_VBN to_TO data_NNS lying_VBG on_IN manifolds_NNS ._.
+Any_DT manifold_NN M_NN with_IN ``_`` linearization_NN dimension_NN ''_'' k_NN -LRB-_-LRB- a_DT measure_NN of_IN its_PRP$ complexity_NN -RRB-_-RRB- can_MD be_VB embedded_VBN into_IN a_DT O_NN -LRB-_-LRB- -LRB-_-LRB- 1_CD \/_: ɛ_NN 2_CD -RRB-_-RRB- k_NN log_NN -LRB-_-LRB- kn_NN -RRB-_-RRB- -RRB-_-RRB-

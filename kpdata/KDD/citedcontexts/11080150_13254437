@@ -1,0 +1,4 @@
+the_DT topic_NN -_: -RRB-_-RRB- word_NN distributions_NNS -LRB-_-LRB- low_JJ β_NN 's_POS allow_VB more_JJR variability_NN of_IN words_NNS across_IN topics_NNS -RRB-_-RRB- ._.
+The_DT typical_JJ inference_NN procedure_NN used_VBN is_VBZ the_DT collapsed_JJ Gibbs_NNP Sampler_NNP described_VBN in_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- where_WRB θ_NN is_VBZ integrated_VBN out_RP ._.
+=_SYM -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: describes_VBZ an_DT equivalent_JJ sampler_NN which_WDT is_VBZ significantly_RB faster_RBR through_IN careful_JJ choice_NN of_IN data_NNS structures_NNS and_CC creative_JJ rearrangement_NN of_IN the_DT conditional_JJ probabilities_NNS ._.
+2.2_CD Dirichlet_NNP Multinomial_NNP Regressi_NNP

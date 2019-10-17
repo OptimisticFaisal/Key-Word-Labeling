@@ -1,0 +1,6 @@
+is_VBZ hard_JJ to_TO quantify_VB ._.
+We_PRP use_VBP our_PRP$ application_NN experiences_NNS to_TO show_VB that_IN users_NNS like_IN the_DT proposed_VBN technique_NN due_JJ to_TO its_PRP$ intuitive_JJ representation_NN ._.
+Table_NNP 1_CD shows_VBZ the_DT average_JJ results_NNS over_IN the_DT 20_CD datasets_NNS ._.
+See_VB =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: for_IN the_DT detailed_JJ results_NNS ._.
+The_DT first_JJ column_NN gives_VBZ the_DT average_JJ number_NN of_IN leaves_NNS in_IN the_DT decision_NN trees_NNS produced_VBN by_IN C4_NN .5_CD -LRB-_-LRB- after_IN pruning_NN -RRB-_-RRB- for_IN the_DT 20_CD datasets_NNS ._.
+The_DT second_JJ column_NN gives_VBZ the_DT average_JJ number_NN of_IN

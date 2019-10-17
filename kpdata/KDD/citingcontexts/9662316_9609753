@@ -1,0 +1,3 @@
+lassifiers_NNS only_RB captures_VBZ the_DT local_JJ dependency_NN based_VBN on_IN the_DT Markov_NNP assumption_NN ._.
+To_TO capture_VB the_DT long-distance_JJ autocorrelation_NN ,_, latent_JJ group_NN model_NN -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, and_CC nonparametric_JJ infinite_JJ hidden_JJ relational_JJ model_NN =_JJ -_: =[_NN 37_CD -RRB-_-RRB- -_: =_SYM -_: assume_VB generative_JJ models_NNS such_JJ that_IN the_DT link_NN -LRB-_-LRB- and_CC actor_NN attributes_NNS -RRB-_-RRB- are_VBP generated_VBN based_VBN on_IN the_DT actors_NNS '_POS latent_JJ cluster_NN membership_NN ._.
+But_CC the_DT complexity_NN and_CC high_JJ computational_JJ cost_NN for_IN inference_NN hinders_VBZ i_FW

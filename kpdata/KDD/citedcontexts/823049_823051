@@ -1,0 +1,4 @@
+e_LS algorithm_NN introduced_VBD there_RB required_VBN only_RB one_CD database_NN pass_NN and_CC was_VBD applicable_JJ not_RB only_RB for_IN expanded_JJ but_CC also_RB for_IN reduced_VBN database_NN ._.
+Along_IN with_IN the_DT itemsets_NNS ,_, a_DT negative_JJ border_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- was_VBD maintained_VBN ._.
+sIn_NN =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: the_DT issue_NN of_IN interactive_JJ mining_NN of_IN association_NN rules_NNS was_VBD addressed_VBN and_CC the_DT concept_NN of_IN knowledge_NN cache_NN was_VBD introduced_VBN ._.
+The_DT cache_NN was_VBD designed_VBN to_TO hold_VB frequent_JJ itemsets_NNS that_WDT were_VBD discovered_VBN while_IN proce_NN

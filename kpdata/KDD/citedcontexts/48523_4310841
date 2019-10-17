@@ -1,0 +1,5 @@
+-LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+Nevertheless_RB ,_, for_IN the_DT proof_NN to_TO hold_VB one_NN still_RB has_VBZ to_TO use_VB the_DT strong_JJ assumption_NN of_IN view-independence_NN -LRB-_-LRB- Equation_NN 1.1_CD -RRB-_-RRB- ._.
+Another_DT example_NN for_IN the_DT use_NN of_IN unlabeled_JJ examples_NNS in_IN boosting_VBG can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Before_IN delving_NN into_IN the_DT theoretical_JJ benefits_NNS of_IN agreement_NN ,_, we_PRP present_VBP a_DT short_JJ introduction_NN to_TO boosting_VBG ._.
+1.2_CD Boosting_VBG The_DT basic_JJ idea_NN behind_IN boosting_VBG is_VBZ to_TO iteratively_RB combine_VB relatively_RB simple_JJ hypoth_NN

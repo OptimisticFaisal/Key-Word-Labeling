@@ -1,0 +1,4 @@
+age_NN result_NN pre-fetching_JJ if_IN the_DT model_NN predicts_VBZ the_DT user_NN will_MD want_VB more_JJR search_NN results_NNS ._.
+Other_JJ authors_NNS tackle_VBP the_DT problem_NN of_IN clustering_NN user_NN activity_NN to_TO present_VB a_DT synthesis_NN of_IN the_DT observed_VBN user_NN behavior_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ work_NN differs_VBZ in_IN that_IN we_PRP build_VBP generic_JJ models_NNS of_IN user_NN activity_NN using_VBG unsupervised_JJ Bayesian_NNP Networks_NNP ,_, that_WDT can_MD then_RB be_VB applied_VBN to_TO solve_VB a_DT specific_JJ task_NN ._.
+Schematically_RB ,_, when_WRB users_NNS interact_VBP with_IN a_DT s_NN

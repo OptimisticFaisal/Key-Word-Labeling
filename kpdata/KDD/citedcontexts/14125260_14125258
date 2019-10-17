@@ -1,0 +1,3 @@
+impact_NN of_IN extreme_JJ biases_NNS and_CC very_RB large_JJ distances_NNS ._.
+This_DT optimization_NN problem_NN can_MD be_VB solved_VBN efficiently_RB using_VBG stochastic_JJ gradient_NN descent_NN or_CC alternating_VBG least_JJS squares_NNS methods_NNS ,_, even_RB on_IN large_JJ data_NNS sets_VBZ =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+On_IN each_DT data_NNS set_VBD we_PRP investigated_VBD ,_, we_PRP determined_VBD the_DT parameters_NNS d_NN and_CC

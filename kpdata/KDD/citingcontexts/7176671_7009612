@@ -1,0 +1,4 @@
+obox_NN ontology_NN and_CC uses_VBZ it_PRP to_TO help_VB training_NN CRF_NN extractors_NNS by_IN shrinkage_NN ._.
+OTHER_NNP WIKIPEDIA-BASED_NNP SYSTEMS_NNP :_: Dakka_NNP and_CC Cucerzan_NNP trained_VBD a_DT classifier_NN to_TO label_VB Wikipedia_NNP pages_NNS with_IN standard_JJ named_VBN entity_NN tags_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Auer_NNP and_CC Lehmann_NNP developed_VBD the_DT DBpedia_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- system_NN which_WDT extracts_VBZ information_NN from_IN existing_VBG infoboxes_NNS within_IN articles_NNS and_CC encapsulate_VB them_PRP in_IN a_DT semantic_JJ form_NN for_IN query_NN ._.
+In_IN contrast_NN ,_, Kylin_FW populates_FW i_FW

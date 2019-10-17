@@ -1,0 +1,3 @@
+98_CD r2l_NN binary_JJ SVMs_NNS RIPPER_NN PNrule_FW COG-OS_FW rare_JJ class_NN 0.262_CD 0.360_CD 0.230_CD 0.496_CD huge_JJ class_NN 0.991_CD 0.992_CD N\/A_NN 0.993_CD total_JJ 0.983_CD 0.984_CD N\/A_NN 0.986_CD Note_NN :_: ``_`` N\/A_NN ''_'' means_VBZ results_NNS were_VBD not_RB provided_VBN by_IN the_DT source_NN paper_NN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Table_NNP 10_CD :_: Classification_NN Accuracies_NNS by_IN COG_NN with_IN Different_JJ Classifiers_NNS ._.
+Data_NNP Set_NNP #clusters_NNP Classifier_NNP SVMs_NNS BMR_NN C4_NN .5_CD RIPPER_NN letter_NN N\/A_VBD 0.851_CD 0.750_CD 0.862_CD 0.839_CD 2_CD 0.872_CD 0.762_CD 0.846_CD 0.821_CD 4_CD 0.923_CD 0.812_CD 0_CD

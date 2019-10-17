@@ -1,0 +1,4 @@
+as_IN relational_JJ data_NNS mining_NN or_CC bioinformatics_NNS ._.
+In_IN the_DT field_NN of_IN classification_NN from_IN structured_JJ data_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, there_EX are_VBP three_CD common_JJ ways_NNS of_IN dealing_VBG with_IN this_DT kind_NN of_IN representation_NN :_: relational_JJ rule_NN learning_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, kernel_NN approaches_NNS -LRB-_-LRB- 3_CD ,_, 4_CD -RRB-_-RRB- or_CC propositionalisation_NN -LRB-_-LRB- 5_CD --_: 7_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN we_PRP use_VBP propositionalisation_NN to_TO generate_VB attribute-value_JJ representations_NNS of_IN varying_VBG complexity_NN for_IN Multiple_JJ Sequence_NN Alignment_NN ._.
+T_NN

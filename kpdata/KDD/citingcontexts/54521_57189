@@ -1,0 +1,6 @@
+expense_NN of_IN potentially_RB much_RB higher_JJR offline_JJ computational_JJ investments_NNS ._.
+ffl_NN Memory_NN ._.
+This_DT parameter_NN refers_VBZ to_TO the_DT complexity_NN of_IN the_DT learned_VBN model_NN PM_NN -LRB-_-LRB- for_IN example_NN ,_, its_PRP$ minimum_JJ description_NN length_NN in_IN bits_NNS =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+We_PRP can_MD expect_VB more_RBR complex_JJ models_NNS to_TO generate_VB more_RBR accurate_JJ predictions_NNS but_CC also_RB to_TO be_VB more_RBR expensive_JJ in_IN terms_NNS of_IN online_JJ time_NN ._.
+ffl_NN Error_NN ._.
+Let_NNP -LRB-_-LRB- Q_NNP -RRB-_-RRB- denote_VBP the_DT probability_NN that_IN a_DT particular_JJ query_NN Q_NNP is_VBZ

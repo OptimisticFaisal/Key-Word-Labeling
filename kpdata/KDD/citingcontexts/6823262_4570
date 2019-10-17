@@ -1,0 +1,5 @@
+anization_NN of_IN the_DT posted_VBN article_NN are_VBP ignored_VBN ._.
+In_IN all_PDT our_PRP$ experiments_NNS ,_, we_PRP first_RB select_VBP the_DT top_JJ 1000_CD words_NNS by_IN mutual_JJ information_NN with_IN class_NN labels_NNS ._.
+The_DT feature_NN selection_NN is_VBZ done_VBN with_IN the_DT rainbow_NN package_NN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Datasets_NNS #_# documents_NNS #_# class_NN CSTR_NN 476_CD 4_CD WebKB4_NN 4199_CD 4_CD WebKB_NN 8,280_CD 7_CD Reuters-top_JJ 10_CD 2,900_CD 10_CD K-dataset_NN 2,340_CD 20_CD Table_NNP 5_CD :_: Document_NNP DataSets_NNP Descriptions_NNPS ._.
+6.3.2_CD Experimental_JJ Results_NNS In_IN our_PRP$ experiments_NNS ,_,

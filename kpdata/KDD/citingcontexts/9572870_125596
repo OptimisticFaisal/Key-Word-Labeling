@@ -1,0 +1,4 @@
+estimated_VBN class_NN distribution_NN of_IN the_DT new_JJ data_NNS ._.
+Many_JJ appropriate_JJ sampling_NN methods_NNS exist_VBP -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, such_JJ as_IN oversampling_VBG and_CC undersampling_VBG ,_, as_RB well_RB as_IN more_RBR advanced_JJ methods_NNS which_WDT make_VBP better_JJR use_NN of_IN the_DT data_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Since_IN our_PRP$ learning_NN task_NN involves_VBZ labeled_JJ and_CC unlabeled_JJ data_NNS ,_, semisupervised_JJ learning_NN methods_NNS -LRB-_-LRB- 4_CD ,_, 20_CD -RRB-_-RRB- are_VBP relevant_JJ ._.
+The_DT results_NNS thus_RB far_RB for_IN the_DT SSL-based_JJ methods_NNS have_VBP not_RB been_VBN very_RB promising_JJ ,_, probab_NN

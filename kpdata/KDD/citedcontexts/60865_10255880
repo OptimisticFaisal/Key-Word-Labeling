@@ -1,0 +1,4 @@
+=_JJ c._NN -LRB-_-LRB- 2_CD -RRB-_-RRB- This_NNP corresponds_VBZ to_TO the_DT widely_RB studied_VBN rank_NN learning_NN or_CC preference_NN learning_NN problem_NN in_IN the_DT machine_NN learning_NN literature_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+This_DT problem_NN can_MD be_VB converted_VBN into_IN a_DT binary_JJ classification_NN problem_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Rearranging_VBG Eq_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- ,_, we_PRP get_VBP :_: w_NN T_NN -LRB-_-LRB- xc_FW −_FW xi_FW -RRB-_-RRB- -RRB-_-RRB- 0_CD ∀_FW i_FW ∈_NN F_NN ;_: i_FW ̸_FW =_JJ c._NN -LRB-_-LRB- 3_CD -RRB-_-RRB- The_DT optimum_JJ value_NN of_IN w_NN could_MD be_VB found_VBN by_IN defining_VBG a_DT suitable_JJ loss_NN function_NN that_WDT penalizes_VBZ values_NNS of_IN w_NN T_NN -LRB-_-LRB- xc_FW −_FW xi_FW -RRB-_-RRB- that_WDT are_VBP lower_JJR th_DT

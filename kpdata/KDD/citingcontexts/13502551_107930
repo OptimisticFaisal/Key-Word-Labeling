@@ -1,0 +1,5 @@
+W_NN =_JJ β_FW ·_FW W_NN vu_NN -LRB-_-LRB- -RRB-_-RRB- X_NN F_NN =_JJ Y_NN β_NN =_JJ -LRB-_-LRB- 1_CD −_NN λr_NN -RRB-_-RRB- \/_: λr_NN ,_, −_FW fj_FW 2_CD √_NN +_CC µ_FW djj_FW ∥_FW β_FW ·_NN W_NN uv_NN W_NN vv_NN -RRB-_-RRB- m_NN +_CC n_NN ∑_FW i_FW =_JJ 1_CD ∥_FW ∥_FW ∥_NN 0_CD fi_FW −_FW f_FW ∥_FW i_FW 2_CD -LRB-_-LRB- 12_CD -RRB-_-RRB- where_WRB X_NN and_CC Y_NN are_VBP the_DT score_NN vectors_NNS for_IN U_NN and_CC V_NN respectively_RB ._.
+Differentiating_VBG Eq_NN ._.
+-LRB-_-LRB- 12_CD -RRB-_-RRB- =_JJ -_: =[_NN 30_CD ,_, 32_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP have_VBP dR_FW ∣_FW dF_NN F_NN =_JJ F_NN ∗_NN =_JJ F_NN ∗_FW −_FW SF_NN ∗_NN +_CC µ_NN -LRB-_-LRB- F_NN ∗_FW −_FW F_NN 0_CD -RRB-_-RRB- =_JJ 0_CD ,_, -LRB-_-LRB- 13_CD -RRB-_-RRB- where_WRB S_NN =_JJ D_NN −_NN 1_CD 2_CD WD_FW −_FW 1_CD 2_CD ,_, then_RB Eq_NN ._.
+-LRB-_-LRB- 13_CD -RRB-_-RRB- can_MD be_VB transformed_VBN into_IN F_NN ∗_FW −_FW 1_CD 1_CD +_CC µ_NN SF_NN ∗_FW −_FW µ_NN 1_CD +_CC µ_NN F_NN 0_CD =_JJ 0_CD ._.
+-LRB-_-LRB- 14_CD -RRB-_-RRB- After_IN simplifying_VBG ,_, a_DT closed_VBN

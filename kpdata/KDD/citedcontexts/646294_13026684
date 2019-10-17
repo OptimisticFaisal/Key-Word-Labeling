@@ -1,0 +1,5 @@
+ow_NN ._.
+A_DT social_JJ community_NN in_IN the_DT network_NN is_VBZ a_DT set_NN of_IN nodes_NNS such_JJ that_IN they_PRP are_VBP relatively_RB well_RB connected_VBN to_TO each_DT other_JJ and_CC much_RB less_RBR connected_JJ to_TO the_DT other_JJ nodes_NNS in_IN the_DT network_NN ._.
+Some_DT previous_JJ work_NN -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =--RRB-_NN discovers_VBZ communities_NNS in_IN a_DT network_NN ._.
+In_IN this_DT application_NN ,_, the_DT connection_NN weights_NNS on_IN edges_NNS in_IN graphs_NNS should_MD be_VB considered_VBN ._.
+We_PRP extend_VBP the_DT algorithm_NN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- to_TO discover_VB communities_NNS in_IN the_DT weighted_JJ graph_NN

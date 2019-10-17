@@ -1,0 +1,5 @@
+ng_NN in_IN an_DT undesirable_JJ way_NN ._.
+Our_PRP$ approach_NN is_VBZ not_RB dependent_JJ on_IN the_DT availability_NN of_IN source_NN code_NN and_CC precise_JJ documented_JJ specification_NN ._.
+It_PRP follows_VBZ a_DT recent_JJ trend_NN of_IN dynamic_JJ analysis_NN and_CC specification_NN mining_NN =_JJ -_: =[_NN 5_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Dynamic_NNP analysis_NN approaches_NNS analyze_VBP software_NN execution_NN traces_NNS which_WDT can_MD be_VB collected_VBN by_IN various_JJ instrumentation_NN methods_NNS ,_, c.f._FW ,_, -LRB-_-LRB- 5_CD ,_, 20_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ complementary_JJ to_TO static_JJ analysis_NN ,_, i.e._FW ,_, analysis_NN of_IN prog_NN

@@ -1,0 +1,4 @@
+een_NN applied_VBN to_TO survival_NN analysis_NN ._.
+There_EX are_VBP two_CD types_NNS of_IN approaches_NNS to_TO using_VBG neural_JJ networks_NNS for_IN survival_NN data_NNS ._.
+The_DT first_JJ type_NN models_NNS the_DT hazard_NN or_CC survival_NN function_NN as_IN a_DT neural_JJ network_NN structure_NN ._.
+In_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT authors_NNS construct_VBP the_DT survival_NN curve_NN by_IN a_DT hazard_NN function_NN modeled_VBN by_IN a_DT neural_JJ network_NN ,_, for_IN which_WDT the_DT ith_NN output_NN is_VBZ the_DT estimated_VBN hazard_NN at_IN the_DT discretized_JJ time_NN interval_JJ i._NNP Biganzoli_NNP et_FW al._FW -LRB-_-LRB- 1_LS -RRB-_-RRB- u_NN

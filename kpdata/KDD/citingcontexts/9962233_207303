@@ -1,0 +1,3 @@
+However_RB ,_, while_IN subtopic_JJ retrieval_NN is_VBZ query-based_JJ ,_, we_PRP intend_VBP to_TO cover_VB all_PDT the_DT popular_JJ stories_NNS being_VBG discussed_VBN in_IN the_DT blogosphere_NN ._.
+Two_CD common_JJ approaches_NNS to_TO personalization_NN are_VBP collaborative_JJ filtering_VBG -LRB-_-LRB- =_JJ -_: =_JJ Linden_NNP et_FW al._FW ,_, 2003_CD -_: =_JJ -_: ;_: Das_NNP et_FW al._FW ,_, 2007_CD -RRB-_-RRB- and_CC content-based_JJ filtering_VBG ._.
+In_IN collaborative_JJ filtering_VBG ,_, user_NN preferences_NNS are_VBP learned_VBN in_IN a_DT content-agnostic_JJ manner_NN by_IN correlating_VBG the_DT user_NN 's_POS past_JJ activity_NN with_IN data_NNS from_IN the_DT entire_NN

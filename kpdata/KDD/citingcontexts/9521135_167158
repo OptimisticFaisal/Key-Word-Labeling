@@ -1,0 +1,3 @@
+ad_NN ,_, to_TO provide_VB a_DT rough_JJ upper_JJ bound_VBN ,_, we_PRP treat_VBP the_DT clustering_NN problem_NN as_IN a_DT classification_NN problem_NN and_CC present_JJ results_NNS from_IN a_DT state-of-the-art_JJ classification_NN algorithm_NN ,_, the_DT Random_JJ Forests_NNS -LRB-_-LRB- RF_NN -RRB-_-RRB- algorithm_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT results_NNS suggest_VBP that_IN the_DT data_NNS reduction_NN in_IN KASP_NN and_CC RASP_NN have_VBP not_RB seriously_RB degraded_VBD the_DT clustering_NN accuracy_NN ._.
+We_PRP also_RB performed_VBD a_DT further_JJ comparison_NN of_IN k-means_NN and_CC our_PRP$ methods_NNS in_IN which_WDT we_PRP incr_VBP

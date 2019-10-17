@@ -1,0 +1,4 @@
+ctive_JJ criterion_NN for_IN evaluation_NN of_IN clustering_NN performance_NN :_: How_WRB well_RB does_VBZ a_DT clustering_NN algorithm_NN run_NN on_IN unlabeled_JJ data_NNS aid_VBP a_DT classification_NN algorithm_NN ?_.
+The_DT accuracy_NN is_VBZ quantified_VBN using_VBG the_DT PAC-MDL_NN bound_VBD =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: in_IN a_DT semisupervised_JJ setting_NN ._.
+Clustering_NN algorithms_NNS which_WDT naturally_RB separate_VBP the_DT data_NNS according_VBG to_TO -LRB-_-LRB- hidden_JJ -RRB-_-RRB- labels_NNS with_IN a_DT small_JJ number_NN of_IN clusters_NNS perform_VBP well_RB ._.
+A_DT simple_JJ extension_NN of_IN the_DT argument_NN lead_NN

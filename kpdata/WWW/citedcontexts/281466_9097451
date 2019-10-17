@@ -1,0 +1,5 @@
+DML_NNP be_VB generated_VBN ,_, but_CC are_VBP not_RB hardwired_VBN and_CC can_MD be_VB edited_VBN at_IN design-time_NN ._.
+We_PRP believe_VBP these_DT features_NNS allow_VBP persistent_JJ XML_NN programming_NN to_TO be_VB accessible_JJ to_TO a_DT larger_JJR developer_NN audience_NN ._.
+Tools_NNS such_JJ as_IN XJ_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: and_CC LINQ-to-XML_NN offer_VBP an_DT XPathlike_JJ interface_NN to_TO loosely-typed_JJ XML_NN objects_NNS in_IN a_DT programming_NN environment_NN ._.
+These_DT tools_NNS are_VBP also_RB limited_VBN to_TO manipulating_VBG XML_NN in_IN memory_NN ._.
+Our_PRP$ work_NN was_VBD introduced_VBN at_IN the_DT XML_NN '_''

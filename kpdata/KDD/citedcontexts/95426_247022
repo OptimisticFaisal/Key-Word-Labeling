@@ -1,0 +1,4 @@
+itional_JJ data_NNS mining_NN tasks_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+For_IN data_NNS streams_NNS ,_, several_JJ decision_NN tree_NN classifiers_NNS have_VBP been_VBN proposed_VBN --_: either_CC as_IN single_JJ decision_NN trees_NNS ,_, or_CC as_IN ensembles_NNS of_IN such_JJ trees_NNS ._.
+In_IN particular_JJ ,_, VFDT_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC CVFDT_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: represent_VBP well-known_JJ algorithms_NNS for_IN building_VBG single_JJ decision_NN tree_NN classifiers_NNS ,_, respectively_RB ,_, on_IN stationary_JJ ,_, and_CC timechanging_VBG data_NNS streams_NNS ._.
+These_DT algorithms_NNS employ_VBP a_DT criterion_NN based_VBN on_IN Hoeffding_NNP bound_VBD

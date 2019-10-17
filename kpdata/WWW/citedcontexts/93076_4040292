@@ -1,0 +1,4 @@
+n_NN probabilities_NNS ._.
+sIt_NN would_MD be_VB natural_JJ to_TO determine_VB the_DT rank_NN of_IN each_DT source_NN using_VBG a_DT PageRank-style_JJ iterative_JJ calculation_NN over_IN the_DT Web_NN source_NN transition_NN matrix_NN ,_, much_RB like_IN in_IN Equation_NN 1_CD -LRB-_-LRB- and_CC suggested_VBN in_IN =_JJ -_: =[_NN 4_CD ,_, 16_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+In_IN such_PDT a_DT ranking_JJ model_NN ,_, the_DT source_NN view_NN provides_VBZ a_DT first_JJ step_NN towards_IN mitigating_VBG the_DT influence_NN of_IN a_DT Web_NN spammer_NN ._.
+In_IN the_DT ideal_JJ scenario_NN ,_, all_DT of_IN the_DT pages_NNS under_IN the_DT control_NN of_IN a_DT Web_NN spammer_NN would_MD be_VB

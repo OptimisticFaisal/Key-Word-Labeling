@@ -1,0 +1,4 @@
+ty_NN of_IN the_DT color_NN ._.
+-LRB-_-LRB- a_DT -RRB-_-RRB- Original_JJ sequence_NN ,_, -LRB-_-LRB- b_LS -RRB-_-RRB- Translation_NN ,_, -LRB-_-LRB- c_NN -RRB-_-RRB- Rotation_NNP ,_, -LRB-_-LRB- d_NN -RRB-_-RRB- Scaling_NNP ,_, -LRB-_-LRB- e_LS -RRB-_-RRB- Transformation_NN including_VBG -LRB-_-LRB- b_NN -RRB-_-RRB- ,_, -LRB-_-LRB- c_NN -RRB-_-RRB- ,_, -LRB-_-LRB- d_NN -RRB-_-RRB- and_CC deformation_NN lems_NNS in_IN medical_JJ image_NN registration_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, and_CC geometric_JJ hashing_VBG =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Inspired_VBN by_IN the_DT work_NN of_IN Cohen_NNP and_CC Guibas_NNP -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, we_PRP use_VBP the_DT turning_VBG angle_NN transformation_NN as_IN our_PRP$ invariant_JJ matching_NN signature_NN ._.
+The_DT work_NN of_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- deals_NNS with_IN planar_NN lines_NNS -LRB-_-LRB- and_CC not_RB trajectories_NNS -RRB-_-RRB- ,_, where_WRB the_DT x_NN

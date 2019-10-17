@@ -1,0 +1,4 @@
+itemset_NN Q_NNP ⊇_NNP P_NN that_WDT can_MD satisfy_VB T_NN -LRB-_-LRB- P_NN -RRB-_-RRB- =_JJ T_NN -LRB-_-LRB- Q_NNP -RRB-_-RRB- ,_, we_PRP say_VBP P_NN is_VBZ closed_VBN ._.
+For_IN any_DT itemset_NN P_NN and_CC Q_NNP ,_, T_NN -LRB-_-LRB- P_NN ∪_NN Q_NNP -RRB-_-RRB- =_JJ T_NN -LRB-_-LRB- P_NN -RRB-_-RRB- ∩_CD T_NN -LRB-_-LRB- Q_NNP -RRB-_-RRB- ,_, and_CC if_IN P_NN ⊆_CD Q_NNP then_RB T_NN -LRB-_-LRB- Q_NNP -RRB-_-RRB- ⊆_CD T_NN -LRB-_-LRB- P_NN -RRB-_-RRB- ._.
+In_IN this_DT paper_NN we_PRP apply_VBP the_DT modified_VBN FP-growth_NN algorithm_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: to_TO implement_VB the_DT closed_JJ FIM_NN ._.
+As_IN FP-tree_NN has_VBZ a_DT prefix-tree_JJ structure_NN and_CC can_MD store_VB compressed_VBN information_NN of_IN frequent_JJ itemset_NN ,_, it_PRP can_MD quickly_RB discover_VB all_PDT the_DT closed_JJ frequent_JJ sets_NNS from_IN transaction_NN dat_NN

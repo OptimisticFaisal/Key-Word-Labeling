@@ -1,0 +1,5 @@
+feature_NN selection_NN problem_NN ._.
+ℓ1-norm_NN regularized_VBD maximum_NN likelihood_NN estimation_NN -LRB-_-LRB- MLE_NN -RRB-_-RRB- is_VBZ among_IN the_DT most_RBS popular_JJ approaches_NNS to_TO selecting_NN features_NNS in_IN CRFs_NNS -LRB-_-LRB- or_CC MRFs_NNS in_IN general_JJ -RRB-_-RRB- and_CC has_VBZ shown_VBN great_JJ promise_NN =_JJ -_: =[_NN 1_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT sparsity_NN of_IN the_DT ℓ1-norm_NN regularized_VBN MLE_NNP is_VBZ due_JJ to_TO the_DT singularity_NN of_IN the_DT ℓ1-norm_NN at_IN the_DT origin_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+Another_DT important_JJ problem_NN we_PRP consider_VBP is_VBZ the_DT structure_NN learning_NN of_IN MRFs_NNS ._.
+As_IN the_DT variety_NN and_CC s_NN

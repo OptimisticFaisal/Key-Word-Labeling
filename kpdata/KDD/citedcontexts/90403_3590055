@@ -1,0 +1,4 @@
+to_TO remove_VB the_DT reduntant_JJ minimal_JJ generators_NNS ._.
+For_IN example_NN ,_, we_PRP compared_VBD with_IN the_DT postprocessing_VBG approach_NN which_WDT combines_VBZ the_DT Charm_NN algorithm_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- for_IN closed_VBN itemset_NN mining_NN ,_, and_CC the_DT Border-Diff_NNP algorithm_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: for_IN mining_VBG the_DT minimal_JJ generators_NNS from_IN the_DT closed_VBN itemsets_NNS ._.
+First_RB ,_, the_DT Charm_NNP algorithm_NN is_VBZ used_VBN to_TO compute_VB the_DT closed_JJ itemsets_NNS satisfying_VBG given_VBN support_NN threshold_NN ._.
+-LRB-_-LRB- We_PRP used_VBD our_PRP$ own_JJ implementation_NN of_IN th_DT

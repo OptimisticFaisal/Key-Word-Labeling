@@ -1,0 +1,4 @@
+with_IN the_DT network_NN event_NN rate_NN ._.
+We_PRP devise_VBP a_DT novel_JJ structure_NN ,_, signature_NN matching_NN tree_NN Ts_NN ,_, which_WDT enables_VBZ efficient_JJ correlation_NN of_IN relevant_JJ evidences_NNS ._.
+Our_PRP$ design_NN follows_VBZ the_DT one-pass_JJ clustering_NN philosophy_NN ,_, =_JJ -_: =[_NN 11_CD ,_, 25_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT endows_VBZ Ts_NNS with_IN high_JJ throughput_NN and_CC scalability_NN ._.
+4.3.1_CD Basic_JJ Structures_NNS and_CC Operations_NNP T_NN f_SYM s_NN Ts_NN is_VBZ a_DT hierarchical_JJ structure_NN ,_, with_IN the_DT highest_JJS level_NN containing_VBG |_NN F_NN |_CD buckets_NNS ,_, each_DT corresponding_VBG to_TO

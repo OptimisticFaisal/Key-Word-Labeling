@@ -1,0 +1,4 @@
+icate_VB pathologically_RB poor_JJ search_NN performance_NN ._.
+r_LS i_LS =_JJ 1_CD We_PRP evaluate_VBP the_DT NSIs_NNS from_IN Section_NN 2_CD on_IN synthetic_JJ graphs_NNS of_IN 10,000_CD nodes_NNS generated_VBN using_VBG three_CD models_NNS :_: random_JJ networks_NNS as_IN defined_VBN by_IN Erdős_NNP and_CC Rényi_NNP =_SYM -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, rewired_JJ lattices_NNS defined_VBN by_IN Watts_NNP and_CC Strogatz_NNP -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, and_CC the_DT Forest_NNP Fire_NNP graph_NN model_NN recently_RB introduced_VBN by_IN Leskovic_JJ -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- See_VB Appendix_NN A_NN for_IN more_JJR detail_NN on_IN the_DT network_NN generation_NN procedures_NNS ._. -RRB-_-RRB-
+In_IN F_NN

@@ -1,0 +1,4 @@
+t_NN node_NN is_VBZ associated_VBN with_IN a_DT value_NN -LRB-_-LRB- class_NN -RRB-_-RRB- in_IN the_DT domain_NN of_IN a_DT target_NN attribute_NN ._.
+The_DT target_NN layer_NN has_VBZ no_DT equivalent_NN in_IN decision_NN trees_NNS ,_, but_CC a_DT similar_JJ concept_NN of_IN category_NN nodes_NNS is_VBZ used_VBN in_IN decision_NN graphs_NNS =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+If_IN the_DT IFN_NN model_NN is_VBZ aimed_VBN at_IN predicting_VBG the_DT values_NNS of_IN a_DT continuous_JJ target_NN attribute_NN ,_, the_DT target_NN nodes_NNS represent_VBP disjoint_NN intervals_NNS in_IN the_DT attribute_NN range_NN ._.
+There_EX is_VBZ no_DT limit_NN as_IN to_TO the_DT maximum_NN number_NN

@@ -1,0 +1,4 @@
+arping_NN -LRB-_-LRB- DTW_NN -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- has_VBZ been_VBN used_VBN for_IN trajectory_NN similarity_NN ._.
+Furthermore_RB ,_, trajectory_NN similarity_NN measures_NNS have_VBP been_VBN developed_VBN based_VBN on_IN longest_JJS common_JJ subsequences_NNS -LRB-_-LRB- LCSS_NN -RRB-_-RRB- -LRB-_-LRB- 22_CD -RRB-_-RRB- ,_, dynamic_JJ time_NN warping_NN -LRB-_-LRB- DTW_NN -RRB-_-RRB- =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC edit_NN distance_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+These_DT measures_NNS all_DT differ_VBP in_IN nature_NN to_TO the_DT average_JJ distance_NN at_IN corresponding_JJ times_NNS ._.
+DTW_NN ,_, edit_NN distance_NN ,_, and_CC LCSS_NN do_VBP not_RB require_VB to_TO match_VB points_NNS at_IN corresponding_JJ times_NNS ,_, but_CC all_DT

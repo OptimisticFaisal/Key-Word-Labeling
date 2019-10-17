@@ -1,0 +1,5 @@
+ubset_NN ,_, the_DT association_NN between_IN SNPs_NNS and_CC the_DT phenotypes_NNS are_VBP searched_VBN ._.
+These_DT methods_NNS are_VBP not_RB complete_JJ since_IN the_DT SNPs_NNS with_IN weak_JJ marginal_JJ effects_NNS may_MD not_RB be_VB selected_VBN in_IN the_DT first_JJ place_NN ._.
+Genetic_JJ algorithm_NN =_JJ -_: =[_NN 5_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ been_VBN applied_VBN in_IN finding_VBG SNP-pairs_NNS for_IN quantitative_JJ phenotypes_NNS ._.
+These_DT methods_NNS can_MD not_RB guarantee_VB to_TO find_VB the_DT optimal_JJ solution_NN ._.
+Feature_NN selection_NN methods_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- have_VBP been_VBN proposed_VBN to_TO address_VB the_DT proble_NN

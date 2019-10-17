@@ -1,0 +1,4 @@
+is_VBZ a_DT classical_JJ and_CC much_JJ studied_VBN algorithmic_JJ problem_NN ._.
+Karzanov_NNP developed_VBD the_DT notion_NN of_IN preflow_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC Goldberg_NNP invented_VBD the_DT preflow-push_JJ algorithm_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, which_WDT works_VBZ better_RBR in_IN this_DT respect_NN ._.
+Flake_NNP et_FW al_FW =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: use_VB a_DT modified_VBN version_NN of_IN the_DT preflowpush_JJ algorithm_NN on_IN the_DT Web_NN graph_NN in_IN a_DT similar_JJ way_NN as_IN we_PRP do_VBP ,_, for_IN identifying_VBG Web_NN communities_NNS ._.
+Beside_IN the_DT purpose_NN ,_, our_PRP$ approach_NN differs_VBZ in_IN the_DT on-line_JJ adaptation_NN of_IN

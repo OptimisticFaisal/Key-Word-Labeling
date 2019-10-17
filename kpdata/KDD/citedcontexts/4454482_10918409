@@ -1,0 +1,4 @@
+e_LS conditionally_RB independent_JJ LDA_NN -LRB-_-LRB- CI-LDA_NN -RRB-_-RRB- which_WDT assumes_VBZ separate_JJ sets_NNS of_IN topics_NNS for_IN words_NNS and_CC tags_NNS ._.
+This_DT assumption_NN tends_VBZ to_TO loosen_VB the_DT coupling\/correlations_NNS between_IN the_DT word_NN topics_NNS and_CC the_DT tag_NN topics_NNS =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Another_DT issues_NNS is_VBZ that_IN exact_JJ inference_NN in_IN such_JJ models_NNS is_VBZ intractable_JJ and_CC therefore_RB approximations_NNS are_VBP needed_VBN which_WDT require_VBP using_VBG Markov_NNP Chain_NNP Monte_NNP Carlo_NNP ,_, or_CC variational_JJ methods_NNS ._.
+In_IN contrast_NN ,_, our_PRP$ CC_NN

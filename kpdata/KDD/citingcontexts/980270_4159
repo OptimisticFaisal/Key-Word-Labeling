@@ -1,0 +1,4 @@
+ssors_NNS ,_, where_WRB each_DT processor_NN is_VBZ assigned_VBN a_DT unique_JJ rank_NN between_IN 0_CD and_CC P-1_NN and_CC has_VBZ an_DT individual_JJ local_JJ memory_NN ._.
+The_DT processors_NNS communicate_VBP with_IN each_DT other_JJ by_IN using_VBG MPI_NNP -LRB-_-LRB- Message-Passing_NNP Interface_NNP -RRB-_-RRB- library_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT EM_NNP algorithm_NN starts_VBZ by_IN using_VBG the_DT naive_JJ Bayes_NNP classifier_NN to_TO initialize_VB the_DT parameters_NNS ._.
+The_DT E_NN -_: and_CC M-step_NN are_VBP iterated_VBN until_IN the_DT change_NN of_IN log_NN Pc_NN -LRB-_-LRB- Θ_NN |_NN D_NN ;_: Z_NN -RRB-_-RRB- is_VBZ less_JJR than_IN some_DT predefined_VBN threshold_NN ._.

@@ -1,0 +1,5 @@
+xd_RB occur_VB often_RB ,_, and_CC small_JJ if_IN not_RB ._.
+Order_NN of_IN message-passing_NN does_VBZ not_RB matter_VB ,_, provided_VBN all_DT messages_NNS are_VBP passed_VBN in_IN each_DT iteration_NN ._.
+We_PRP also_RB normalize_VBP mij_NN -LRB-_-LRB- xc_NN -RRB-_-RRB- to_TO avoid_VB numerical_JJ underflow_NN ,_, as_IN discussed_VBN in_IN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, so_IN each_DT edge_NN 's_POS message_NN vector_NN sums_NNS to_TO one_CD :_: P_NN c_NN mij_NN -LRB-_-LRB- xc_NN -RRB-_-RRB- =_JJ 1_CD ._.
+Convergence_NN occurs_VBZ when_WRB the_DT maximum_NN change_NN between_IN any_DT message_NN between_IN time_NN ticks_NNS is_VBZ less_JJR than_IN some_DT value_NN -LRB-_-LRB- in_IN our_PRP$ experiments_NNS 10_CD −_CD 6_CD -RRB-_-RRB- ._.
+Con_NN

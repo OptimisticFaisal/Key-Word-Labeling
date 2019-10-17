@@ -1,0 +1,4 @@
+computational_JJ efficiency_NN ._.
+Use_NN of_IN a_DT grid_NN structure_NN allows_VBZ us_PRP to_TO evaluate_VB any_DT rectangular_JJ region_NN in_IN constant_JJ time_NN ,_, independent_JJ of_IN the_DT size_NN of_IN the_DT region_NN ,_, using_VBG the_DT well-known_JJ ``_`` cumulative_JJ counts_NNS ''_'' trick_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Additionally_RB ,_, we_PRP can_MD gain_VB huge_JJ computational_JJ speedups_NNS by_IN applying_VBG the_DT ``_`` fast_RB spatial_JJ scan_VBP ''_'' algorithm_NN -LRB-_-LRB- 4-6_CD -RRB-_-RRB- ,_, as_IN we_PRP discuss_VBP below_IN ._.
+3_LS -RRB-_-RRB- Choose_VB models_NNS of_IN the_DT data_NNS under_IN H0_NN -LRB-_-LRB- the_DT null_JJ hypothesis_NN of_IN no_DT clust_NN

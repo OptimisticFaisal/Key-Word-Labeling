@@ -1,0 +1,4 @@
+ported_VBN by_IN different_JJ GVFS_NN sessions_NNS ;_: in_IN -LRB-_-LRB- b_NN -RRB-_-RRB- ,_, the_DT executions_NNS use_VBP the_DT same_JJ dataset_NN and_CC share_VBP the_DT same_JJ session_NN ._.
+9storage_NN allocation_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Automatic_NNP replica_NN generation_NN and_CC distribution_NN are_VBP developed_VBN in_IN CDN_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: and_CC peerto-peer_JJ storage_NN system_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- ._.
+Compared_VBN to_TO these_DT systems_NNS ,_, this_DT paper_NN considers_VBZ autonomic_JJ storage_NN and_CC replica_NN management_NN in_IN the_DT context_NN of_IN supporting_VBG dynamic_JJ Grid-wide_JJ file_NN systems_NNS which_WDT provide_VBP

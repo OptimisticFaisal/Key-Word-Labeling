@@ -1,0 +1,4 @@
+-RCB-_-RRB- ._.
+If_IN si_FW is_VBZ significantly_RB different_JJ from_IN the_DT data_NNS of_IN vi_LS 's_POS direct_JJ neighbors_NNS ,_, it_PRP is_VBZ considered_VBN an_DT outlier_NN ._.
+•_CD CNA_NNP :_: In_IN this_DT approach_NN ,_, we_PRP partition_NN the_DT graph_NN into_IN K_NN communities_NNS using_VBG clustering_NN algorithms_NNS =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC define_VB outliers_NNS as_IN the_DT objects_NNS that_WDT have_VBP significantly_RB different_JJ values_NNS compared_VBN with_IN the_DT other_JJ objects_NNS in_IN the_DT same_JJ community_NN ._.
+Therefore_RB ,_, the_DT outlier_NN score_NN is_VBZ calculated_VBN in_IN the_DT same_JJ way_NN as_IN in_IN Eq_NN

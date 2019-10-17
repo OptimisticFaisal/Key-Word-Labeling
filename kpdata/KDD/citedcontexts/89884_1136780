@@ -1,0 +1,4 @@
+page_NN ._.
+A_DT method_NN for_IN automatically_RB recognizing_VBG the_DT structures_NNS in_IN HTML_NNP pages_NNS is_VBZ needed_VBN in_IN that_DT case_NN -LRB-_-LRB- Cohen_NNP ,_, 2003b_CD -RRB-_-RRB- ._.
+In_IN this_DT case_NN ,_, tree_NN mining_NN alogorithms_NNS for_IN finding_VBG frequent_JJ subtrees_NNS such_JJ as_IN Treeminer_NN -LRB-_-LRB- =_JJ -_: =_JJ Zaki_NNP ,_, 2002_CD -_: =--RRB-_NN could_MD be_VB applied_VBN instead_RB of_IN the_DT general_JJ association_NN rule_NN mining_NN algorithms_NNS for_IN discovering_VBG frequent_JJ terms_NNS or_CC bags_NNS in_IN the_DT current_JJ implementation_NN of_IN DiscoTEX_NN ._.
+Changes_NNS to_TO the_DT system_NN should_MD be_VB relativel_NN

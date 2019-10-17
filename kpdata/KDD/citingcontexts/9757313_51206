@@ -1,0 +1,3 @@
+Adler_NNP and_CC Mitzenmacher_NNP introduced_VBD the_DT idea_NN of_IN finding_VBG pages_NNS with_IN similar_JJ sets_NNS of_IN neighbors_NNS in_IN the_DT context_NN of_IN compressing_VBG Web_NN graphs_NNS ,_, and_CC obtained_VBD some_DT hardness_NN results_NNS for_IN compression_NN in_IN this_DT context_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Randall_NNP et_FW al._FW -LRB-_-LRB- 22_CD -RRB-_-RRB- suggested_VBD lexicographic_JJ ordering_VBG as_IN a_DT way_NN to_TO obtain_VB good_JJ Web_NN graph_NN compression_NN ,_, utilizing_VBG both_CC similarity_NN and_CC locality_NN ._.
+Raghavan_NNP and_CC Garcia-Molina_NNP -LRB-_-LRB- 21_CD -RRB-_-RRB- considered_VBN a_DT hierarchical_JJ

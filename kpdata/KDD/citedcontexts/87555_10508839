@@ -1,0 +1,5 @@
+methods_NNS measured_VBN by_IN the_DT maximum_JJ total_JJ profit_NN in_IN two_CD realworld_NN datasets_NNS -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+The_DT third_JJ approach_NN ,_, called_VBN ``_`` Relabeling_NNP ''_'' ,_, relabels_VBZ the_DT classes_NNS of_IN instances_NNS by_IN applying_VBG the_DT minimum_NN expected_VBD cost_NN criterion_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+MetaCost_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- belongs_VBZ to_TO this_DT approach_NN ._.
+MetaCost_NNP uses_VBZ bagging_VBG as_IN the_DT ensemble_NN method_NN ._.
+The_DT forth_RB approach_NN ,_, called_VBN ``_`` Weighting_NNP ''_'' -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, induces_VBZ costsensitivity_NN by_IN integrating_VBG the_DT instances_NNS '_POS weights_NNS direct_VBP

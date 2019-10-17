@@ -1,0 +1,4 @@
+-LRB-_-LRB- MDL_NN -RRB-_-RRB- for_IN frequent_JJ pattern_NN mining_NN ._.
+As_IN in_IN our_PRP$ previous_JJ papers_NNS ,_, we_PRP restrict_VBP ourselves_PRP to_TO frequent_JJ item_NN set_NN mining_NN ,_, although_IN the_DT methodology_NN easily_RB extends_VBZ to_TO other_JJ kinds_NNS of_IN patterns_NNS and_CC data_NNS types_NNS ,_, see_VBP =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN our_PRP$ first_JJ paper_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- we_PRP attacked_VBD the_DT well-known_JJ frequent_JJ item_NN set_NN explosion_NN at_IN low_JJ support_NN thresholds_NNS using_VBG MDL_NN ._.
+We_PRP introduced_VBD the_DT KRIMP_NNP algorithm_NN that_WDT selects_VBZ that_IN subset_NN of_IN all_DT frequent_JJ item_NN se_FW

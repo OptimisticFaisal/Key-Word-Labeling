@@ -1,0 +1,4 @@
+ges_NNS have_VBP been_VBN pre-labeled_JJ with_IN ground_NN truth_NN values_NNS ,_, and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- all_PDT the_DT images_NNS have_VBP equal_JJ difficulty_NN ._.
+As_IN we_PRP show_VBP in_IN this_DT paper_NN ,_, modeling_NN image_NN difficulty_NN may_MD be_VB very_RB important_JJ in_IN some_DT cases_NNS ._.
+Sheng_NNP ,_, et_FW al_FW =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: examine_VB how_WRB to_TO identify_VB which_WDT images_NNS of_IN an_DT image_NN dataset_NN to_TO label_VB again_RB in_IN order_NN to_TO reduce_VB uncertainty_NN in_IN the_DT posterior_JJ probabilities_NNS of_IN latent_JJ class_NN labels_NNS ._.
+Dawid_NNP and_CC Skene_NNP -LRB-_-LRB- 5_CD -RRB-_-RRB- developed_VBD a_DT method_NN to_TO

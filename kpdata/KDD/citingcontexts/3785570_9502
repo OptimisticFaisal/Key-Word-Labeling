@@ -1,0 +1,4 @@
+samples_NNS ,_, the_DT gene_NN filtering_VBG processes_NNS are_VBP non-invertible_JJ ._.
+The_DT deterministic_JJ filtering_VBG will_MD cause_VB samples_NNS to_TO be_VB grouped_VBN based_VBN on_IN the_DT local_JJ decisions_NNS ._.
+Sub-space_JJ clustering_NN have_VBP been_VBN studied_VBN extensively_RB =_JJ -_: =[_NN 1_CD ,_, 5_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: to_TO find_VB subsets_NNS of_IN objects_NNS such_JJ that_IN the_DT objects_NNS appear_VBP as_IN a_DT cluster_NN in_IN a_DT sub-space_NN formed_VBN by_IN a_DT subset_NN of_IN the_DT attributes_NNS ._.
+Although_IN the_DT subspace_NN clustering_NN problem_NN may_MD appear_VB similar_JJ to_TO the_DT phenotype_NN

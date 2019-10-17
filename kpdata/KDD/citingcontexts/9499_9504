@@ -1,0 +1,5 @@
+ial_JJ case_NN of_IN the_DT proposed_VBN principle_NN for_IN I-divergence_NN since_IN the_DT entropy_NN of_IN a_DT joint_JJ distribution_NN is_VBZ negatively_RB related_JJ to_TO the_DT Bregman_NNP information_NN -LRB-_-LRB- Example_NN 1_CD ._.
+B_NN -RRB-_-RRB- ._.
+In_IN fact_NN ,_, even_RB the_DT least_JJS squares_NNS principle_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: can_MD be_VB obtained_VBN as_IN a_DT special_JJ case_NN when_WRB the_DT Bregman_NNP divergence_NN is_VBZ squared_VBN Euclidean_JJ distance_NN ._.
+The_DT following_VBG theorem_NN characterizes_VBZ the_DT solution_NN to_TO the_DT minimum_JJ Bregman_NNP information_NN problem_NN -LRB-_-LRB- 2.6_CD -RRB-_-RRB- ._.
+For_IN a_DT p_NN

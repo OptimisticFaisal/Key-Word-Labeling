@@ -1,0 +1,4 @@
+on_IN the_DT original_JJ partial_JJ label_NN problem_NN is_VBZ bounded_VBN by_IN k_NN times_NNS the_DT importance-weighted_JJ multiclass_JJ regret_NN -LRB-_-LRB- see_VB the_DT appendix_NN -RRB-_-RRB- ._.
+When_WRB reduced_VBN to_TO binary_JJ classification_NN using_VBG the_DT standard_JJ all-pairs_JJ reduction_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP get_VBP a_DT bound_VBN of_IN k_NN -LRB-_-LRB- k_NN −_NN 1_CD -RRB-_-RRB- times_NNS the_DT binary_JJ regret_NN ._.
+Other_JJ multiclass_NNS to_TO binary_JJ reductions_NNS can_MD improve_VB the_DT dependence_NN on_IN k_NN ,_, but_CC they_PRP all_DT yield_VBP worse_JJR results_NNS than_IN our_PRP$ approach_NN ._.
+Our_PRP$ contribution_NN We_PRP prese_VBP

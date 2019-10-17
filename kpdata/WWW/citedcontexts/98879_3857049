@@ -1,0 +1,4 @@
+movies_NNS ._.
+1_CD http:\/\/www.cs.umn.edu\/research\/GroupLens\/data\/.sSOCA_NN 5.1_CD Recommendation_NN algorithm_NN We_PRP used_VBD the_DT standard_JJ user-based_JJ collaborative_JJ recommendation_NN algorithm_NN using_VBG k-nearest-neighbor_NN prediction_NN =_JJ -_: =[_NN 7,20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT algorithm_NN assumes_VBZ there_EX is_VBZ a_DT single_JJ user\/item_NN pair_NN for_IN which_WDT a_DT prediction_NN is_VBZ sought_VBN ._.
+In_IN our_PRP$ experiments_NNS this_DT is_VBZ generally_RB the_DT pushed_VBN item_NN ,_, since_IN we_PRP are_VBP primarily_RB interested_JJ in_IN the_DT impact_NN that_IN at_IN

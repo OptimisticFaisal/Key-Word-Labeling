@@ -1,0 +1,5 @@
+recent_JJ construction_NN of_IN -LRB-_-LRB- 22_CD -RRB-_-RRB- ._.
+Computing_NNP the_DT Hamming_NNP distance_NN ._.
+Protocols_NNS for_IN computing_VBG the_DT scalar_JJ product_NN of_IN vectors_NNS -LRB-_-LRB- which_WDT is_VBZ equal_JJ to_TO the_DT Hamming_JJ distance_NN if_IN the_DT alphabet_NN is_VBZ binary_JJ -RRB-_-RRB- were_VBD suggested_VBN in_IN =_JJ -_: =[_NN 34,14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT protocols_NNS are_VBP based_VBN on_IN the_DT use_NN of_IN homomorphic_JJ encryption_NN ,_, and_CC are_VBP only_RB secure_JJ against_IN semi-honest_JJ adversaries_NNS ._.
+-LRB-_-LRB- Our_PRP$ HDOT_NN protocol_NN for_IN binary_JJ alphabets_NNS and_CC semi-honest_JJ adversaries_NNS borrows_VBZ its_PRP$ f_SYM

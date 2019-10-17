@@ -1,0 +1,4 @@
+riables_NNS based_VBN on_IN its_PRP$ subsets_NNS by_IN using_VBG iterative_JJ proportional_JJ fitting_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+4_CD Evaluation_NN We_PRP evaluated_VBD STUCCO_NN on_IN two_CD datasets_NNS :_: the_DT Adult_JJ Census_NNP data_NNS from_IN the_DT UCI_NNP Repository_NNP of_IN Machine_NNP Learning_NNP Databases_NNPS =_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- originally_RB from_IN the_DT US_NNP Census_NNP Bureau_NNP -RRB-_-RRB- ,_, and_CC UCI_NNP Admissions_NNP Data_NNP ._.
+We_PRP will_MD first_RB present_VB pruning_NN results_NNS ,_, and_CC then_RB we_PRP will_MD show_VB practical_JJ results_NNS with_IN examples_NNS of_IN mined_VBN deviations_NNS ._.
+The_DT Adult_JJ Census_NNP dat_NN

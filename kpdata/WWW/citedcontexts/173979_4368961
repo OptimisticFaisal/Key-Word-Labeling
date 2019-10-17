@@ -1,0 +1,4 @@
+ost_NN likely_JJ to_TO be_VB correct_JJ ._.
+This_DT approach_NN is_VBZ similar_JJ to_TO the_DT base_NN approach_NN of_IN our_PRP$ system_NN ._.
+Recent_JJ work_NN has_VBZ shown_VBN that_IN the_DT Web_NN can_MD effectively_RB be_VB used_VBN as_IN a_DT general_JJ knowledge_NN database_NN for_IN questionanswering_VBG =_JJ -_: =[_NN 9_CD ,_, 11_CD ,_, 22_CD -RRB-_-RRB- -_: =_JJ -_: and_CC other_JJ related_JJ tasks_NNS ._.
+Fallman_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- presents_VBZ a_DT spelling_NN and_CC grammar_NN checking_NN tool_NN that_WDT uses_VBZ the_DT Google_NNP search_NN engine_NN as_IN its_PRP$ source_NN of_IN information_NN ,_, allowing_VBG it_PRP to_TO handle_VB names_NNS as_RB well_RB as_RB informal_JJ as_IN

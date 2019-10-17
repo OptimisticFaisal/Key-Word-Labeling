@@ -1,0 +1,4 @@
+e_LS four_CD most_RBS popular_JJ feature_NN extraction_NN techniques_NNS that_WDT have_VBP been_VBN used_VBN for_IN time_NN series_NN data_NNS mining_NN ._.
+Figure_NN 3.1_CD shows_VBZ these_DT techniques_NNS in_IN action_NN ._.
+We_PRP refer_VBP the_DT interested_JJ reader_NN to_TO works_NNS by_IN Keogh_NNP et_FW al._FW =_SYM -_: =[_NN 29_CD ,_, 37_CD -RRB-_-RRB- -_: =_SYM -_: for_IN a_DT more_RBR extensive_JJ survey_NN of_IN feature_NN extraction_NN techniques_NNS ._.
+For_IN the_DT purposes_NNS of_IN our_PRP$ experimentation_NN ,_, all_DT techniques_NNS will_MD need_VB to_TO reduce_VB a_DT time_NN 22Original_JJ Data_NN Fourier_NN Daubechies-4_NN Wavelet_NNP PAA_NNP Bott_NNP

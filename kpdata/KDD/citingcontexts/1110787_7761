@@ -1,0 +1,4 @@
+._.
+First_RB ,_, we_PRP discover_VBP statistics_NNS from_IN users_NNS '_POS navigation_NN data_NNS and_CC use_VB them_PRP as_IN one_CD set_NN of_IN constraints_NNS ._.
+Secondly_RB ,_, for_IN content_NN information_NN ,_, we_PRP use_VBP a_DT new_JJ approach_NN based_VBN on_IN Latent_JJ Dirichlet_NNP Allocation_NNP -LRB-_-LRB- LDA_NNP -RRB-_-RRB- =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: to_TO discover_VB the_DT hidden_JJ semantic_JJ relationships_NNS among_IN visited_VBN or_CC rated_VBN items_NNS and_CC specify_VB another_DT set_NN of_IN constraints_NNS based_VBN on_IN these_DT item_NN association_NN patterns_NNS ._.
+The_DT LDA_NNP model_NN is_VBZ a_DT proven_JJ approach_NN that_WDT can_MD

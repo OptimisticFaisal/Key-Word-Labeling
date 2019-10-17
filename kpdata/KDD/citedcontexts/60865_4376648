@@ -1,0 +1,5 @@
+P_NN problem_NN can_MD be_VB rewritten_VBN in_IN the_DT required_JJ form_NN ,_, the_DT corresponding_JJ ``_`` kernel_NN ''_'' does_VBZ not_RB satisfy_VB condition_NN 1_CD -RRB-_-RRB- ._.
+Similarly_RB ,_, this_DT is_VBZ also_RB the_DT case_NN with_IN the_DT ranking_JJ SVM_NN commonly_RB used_VBN in_IN information_NN retrieval_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- Section_NN IV-B_NN -RRB-_-RRB- ._.
+Likewise_RB ,_, there_EX are_VBP kernel_NN methods_NNS whose_WP$ QPs_NNS simply_RB can_MD not_RB be_VB written_VBN into_IN the_DT required_JJ form_NN ._.
+One_CD such_JJ example_NN is_VBZ SVR_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- as_IN will_MD be_VB discussed_VBN in_IN Section_NN III-A_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP pro_JJ

@@ -1,0 +1,4 @@
+trieved_VBN ._.
+Similarly_RB ,_, the_DT recall_NN is_VBZ the_DT percentage_NN of_IN the_DT total_JJ relevant_JJ documents_NNS in_IN a_DT database_NN retrieved_VBN by_IN the_DT k-nearest_NN neighbor_NN search_NN ._.
+4.1_CD Comparison_NN of_IN Similarity_NN Measures_NNS According_VBG to_TO Reference_NNP =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, two_CD dataset_NN were_VBD used_VBN for_IN the_DT validation_NN and_CC both_DT of_IN them_PRP are_VBP available_JJ from_IN the_DT Internet_NNP ._.
+The_DT first_JJ one_CD is_VBZ the_DT database_NN of_IN SVC2004_NN -LRB-_-LRB- Signature_NNP Verification_NNP Conference_NNP 2004_CD -RRB-_-RRB- which_WDT contains_VBZ 40_CD sets_NNS of_IN

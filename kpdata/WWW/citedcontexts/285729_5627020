@@ -1,0 +1,4 @@
+he_PRP uniform_JJ distribution_NN 1_CD n1_NN ._.
+PageRank_NN vectors_NNS whose_WP$ starting_JJ vectors_NNS are_VBP concentrated_VBN on_IN a_DT smaller_JJR set_NN of_IN vertices_NNS are_VBP often_RB called_VBN personalized_JJ PageRank_NN vectors_NNS ._.
+These_DT were_VBD introduced_VBN by_IN Haveliwala_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC have_VBP been_VBN used_VBN to_TO provide_VB personalized_JJ search_NN ranking_NN and_CC context-sensitive_JJ search_NN -LRB-_-LRB- 2_CD ,_, 4_CD ,_, 6_CD -RRB-_-RRB- ._.
+We_PRP will_MD consider_VB PageRank_NNP vectors_NNS whose_WP$ starting_JJ vectors_NNS are_VBP equal_JJ to_TO the_DT indicator_NN function_NN 1v_NN for_IN

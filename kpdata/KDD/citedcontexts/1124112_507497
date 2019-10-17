@@ -1,0 +1,5 @@
+arch_NN in_IN multimedia_NNS databases_NNS is_VBZ presented_VBN ._.
+Some_DT of_IN these_DT are_VBP applicable_JJ as_IN components_NNS in_IN the_DT LearnMet_NNP metric_NN ._.
+However_RB ,_, they_PRP do_VBP not_RB learn_VB a_DT single_JJ metric_JJ encompassing_NN various_JJ distance_NN types_NNS ._.
+Tri-plots_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: provide_VBP a_DT tool_NN for_IN multidimensional_JJ data_NNS mining_NN using_VBG intrinsic_JJ dimensionality_NN ,_, cross_NN correlations_NNS and_CC cumulative_JJ distribution_NN functions_NNS of_IN pair-wise_JJ distances_NNS between_IN n-dimensional_JJ objects_NNS ._.
+Tri-plot_NN

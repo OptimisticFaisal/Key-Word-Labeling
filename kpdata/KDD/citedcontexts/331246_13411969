@@ -1,0 +1,4 @@
+ry_NN and_CC tags_NNS are_VBP selected_VBN from_IN the_DT highest_JJS likelihood_NN category_NN ._.
+Other_JJ approaches_NNS to_TO learn_VB visual_JJ and_CC tag_NN correspondence_NN include_VBP Kernel_NNP Canonical_JJ Correlation_NN Analysis_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC random_JJ walks_VBZ with_IN restarts_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+While_IN many_JJ advanced_JJ models_NNS have_VBP been_VBN proposed_VBN ,_, most_JJS of_IN the_DT existing_VBG research_NN has_VBZ used_VBN reasonably_RB well_RB annotated_JJ datasets_NNS such_JJ as_IN Corel_NNP ._.
+Annotation_NN noise_NN in_IN real_JJ world_NN datasets_NNS such_JJ as_IN Flickr_NNP present_VBP

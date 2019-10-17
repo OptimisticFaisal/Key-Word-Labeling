@@ -1,0 +1,4 @@
+of_IN the_DT content_NN and_CC graph_NN information_NN as_IN they_PRP treat_VBP the_DT content_NN and_CC graph_NN information_NN individually_RB ._.
+The_DT regularization_NN framework_NN we_PRP proposed_VBD is_VBZ closely_RB related_JJ to_TO graph-based_JJ semi-supervised_JJ learning_NN =_JJ -_: =[_NN 32_CD ,_, 30_CD ,_, 25_CD ,_, 31_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT usually_RB assume_VBP label_NN smoothness_NN over_IN the_DT graph_NN ._.
+Mei_FW et_FW al._FW -LRB-_-LRB- 17_CD -RRB-_-RRB- extend_VBP the_DT graph_NN harmonic_JJ function_NN -LRB-_-LRB- 32_CD -RRB-_-RRB- to_TO multiple_JJ classes_NNS ._.
+However_RB ,_, our_PRP$ work_NN is_VBZ different_JJ from_IN theirs_PRP ,_, as_IN their_PRP$ tasks_NNS are_VBP main_JJ

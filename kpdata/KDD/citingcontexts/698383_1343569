@@ -1,0 +1,4 @@
+time_NN series_NN data_NNS for_IN the_DT purpose_NN of_IN detecting_VBG outliers_NNS and_CC change_NN points_NNS ._.
+The_DT AR_NN model_NN is_VBZ one_CD of_IN the_DT most_RBS typical_JJ statistical_JJ models_NNS for_IN time_NN series_NN ,_, vhich_NN has_VBZ extensively_RB been_VBN explored_VBN -LRB-_-LRB- see_VB e.g._FW ,_, -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 13_CD -RRB-_-RRB- -RRB-_-RRB- in_IN statistics_NNS ._.
+Most_JJS existing_VBG algorithms_NNS of_IN estimating_NN parameters_NNS for_IN the_DT AIR_NNP model_NN are_VBP designed_VBN under_IN the_DT assumption_NN that_IN the_DT data_NNS source_NN is_VBZ stationary_JJ ._.
+One_CD approach_NN to_TO dealing_VBG with_IN non-station_NN

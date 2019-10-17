@@ -1,0 +1,3 @@
+methods_NNS ._.
+1_CD Introduction_NN A_NN number_NN of_IN machine_NN learning_NN and_CC data_NN mining_NN tasks_NNS involve_VBP computing_VBG similarity_NN between_IN pairs_NNS of_IN instances_NNS ._.
+For_IN example_NN ,_, in_IN record_NN linkage_NN -LRB-_-LRB- also_RB known_VBN as_IN object_NN identification_NN =_JJ -_: =[_NN 39_CD -RRB-_-RRB- -_: =_JJ -_: ,_, de-duplication_NN -LRB-_-LRB- 35_CD -RRB-_-RRB- ,_, entity_NN matching_NN -LRB-_-LRB- 11_CD ,_, 37_CD ,_, 2_CD -RRB-_-RRB- and_CC identity_NN uncertainty_NN -LRB-_-LRB- 33_CD ,_, 25_CD -RRB-_-RRB- -RRB-_-RRB- ,_, similarity_NN must_MD be_VB computed_VBN between_IN record_NN pairs_NNS to_TO identify_VB groups_NNS of_IN records_NNS that_WDT refer_VBP to_TO the_DT same_JJ underlying_VBG

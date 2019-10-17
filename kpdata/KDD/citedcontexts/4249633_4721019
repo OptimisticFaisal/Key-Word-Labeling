@@ -1,0 +1,3 @@
+sults_NNS than_IN achievable_JJ with_IN an_DT individual_JJ classifier_NN -LRB-_-LRB- Dietterich_NNP ,_, 2000_CD ;_: Larkey_NNP and_CC Croft_NNP ,_, 1996_CD -RRB-_-RRB- ._.
+Some_DT propose_VBP combining_VBG very_RB strong_JJ classifiers_NNS -LRB-_-LRB- i.e._FW ,_, with_IN low_JJ error_NN rates_NNS -RRB-_-RRB- -LRB-_-LRB- Provost_NNP and_CC Fawcett_NNP ,_, 2000_CD ;_: =_JJ -_: =_JJ Zheng_NNP et_FW al._FW ,_, 2004_CD -_: =--RRB-_NN assuming_VBG that_IN weak_JJ classifiers_NNS -LRB-_-LRB- high_JJ false_JJ positives_NNS -RRB-_-RRB- will_MD not_RB combine_VB as_RB well_RB ,_, or_CC will_MD require_VB too_RB many_JJ rounds_NNS of_IN training_NN to_TO achieve_VB low_JJ error_NN rates_NNS ._.
+Measuring_VBG the_DT ``_`` competence_NN ''_'' of_IN each_DT classifier_NN

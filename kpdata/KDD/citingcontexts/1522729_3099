@@ -1,0 +1,3 @@
+uch_VB a_DT model_NN would_MD typically_RB be_VB useless_JJ for_IN compression_NN ,_, since_IN it_PRP would_MD usually_RB require_VB as_IN much_JJ space_NN as_IN D_NN itself_PRP ._.
+What_WDT kinds_NNS of_IN probabilistic_JJ models_NNS might_MD be_VB useful_JJ for_IN compression_NN ?_.
+Bayesian_JJ networks_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, also_RB commonly_RB known_VBN as_IN belief_NN networks_NNS ,_, are_VBP a_DT popular_JJ class_NN of_IN probabilistic_JJ models_NNS that_WDT work_VBP well_RB in_IN conjunction_NN with_IN compression_NN ,_, although_IN they_PRP are_VBP primarily_RB used_VBN for_IN data_NN analysis_NN and_CC decision-ma_NN

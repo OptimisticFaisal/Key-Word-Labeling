@@ -1,0 +1,5 @@
+s_NN -LRB-_-LRB- 0.25_CD -RRB-_-RRB- '_'' ._.
+Table_NNP 2_CD :_: Four_NNP Datasets_NNP Data_NNP Num_NNP of_IN Avg_NNP ._.
+Conf_NNP ._.
+Num_NN of_IN items_NNS sets_VBZ transactions_NNS level_NN 1_CD 2217_CD 20_CD 0.5_CD 2_CD 5188_CD 20_CD 0.5_CD 3_CD 5029_CD 40_CD 0.5_CD 4_CD 5096_CD 40_CD 0.75_CD Once_IN the_DT data_NNS sets_NNS are_VBP generated_VBN ,_, the_DT CBA_NN system_NN =_JJ -_: =[_NN 12_CD ,_, 14_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ used_VBN to_TO generate_VB association_NN rules_NNS that_WDT satisfy_VBP the_DT given_VBN minsup_NN and_CC minconf_NN ._.
+3.2_CD Experimental_JJ Results_NNS and_CC Chi-Square_NNP Test_NNP First_NNP ,_, we_PRP discuss_VBP the_DT effects_NNS of_IN minsup_NN and_CC minconf_NN on_IN the_DT numbers_NNS of_IN lar_NN

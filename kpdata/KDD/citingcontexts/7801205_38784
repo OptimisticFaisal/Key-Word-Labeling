@@ -1,0 +1,6 @@
+rtain_NN errors_NNS across_IN the_DT range_NN of_IN the_DT target_NN variable_NN ._.
+2_CD ._.
+REGRESSION_NN ERROR_NN CHARACTERISTIC_NN -LRB-_-LRB- REC_NN -RRB-_-RRB- CURVES_FW Bi_FW and_CC Bennet_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- have_VBP presented_VBN REC_NN curves_NNS ._.
+These_DT curves_NNS play_VBP a_DT role_NN similar_JJ to_TO ROC_NN curves_NNS -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 2_CD ,_, 3_CD ,_, 4_CD -RRB-_-RRB- -_: =--RRB-_NN in_IN classification_NN tasks_NNS ,_, but_CC for_IN regression_NN problems_NNS ._.
+They_PRP provide_VBP a_DT graphical_JJ description_NN of_IN the_DT cumulative_JJ distribution_NN function_NN of_IN the_DT error_NN of_IN a_DT model_NN ,_, i.e._FW D_NN -LRB-_-LRB- ɛ_NN -RRB-_-RRB- =_JJ P_NN -LRB-_-LRB- ε_FW ≤_FW ɛ_FW -RRB-_-RRB- ._.
+The_DT authors_NNS describ_VBP

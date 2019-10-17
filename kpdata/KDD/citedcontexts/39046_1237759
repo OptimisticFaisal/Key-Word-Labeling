@@ -1,0 +1,4 @@
+e_LS better_JJR than_IN calculating_VBG similarities_NNS using_VBG the_DT query_JJ term_NN vector_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+This_DT idea_NN was_VBD subsequently_RB applied_VBN to_TO the_DT Web_NN -LRB-_-LRB- 2_CD ,_, 3_CD -RRB-_-RRB- ._.
+Others_NNS have_VBP used_VBN query_JJ click-through_JJ data_NNS to_TO relate_VB queries_NNS and_CC documents_NNS =_JJ -_: =[_NN 1_CD ,_, 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Recently_RB ,_, Jeh_NNP and_CC Widom_NNP -LRB-_-LRB- 5_CD -RRB-_-RRB- proposed_VBD a_DT generalized_JJ technique_NN to_TO incrementally_RB calculate_VB the_DT similarities_NNS -LRB-_-LRB- based_VBN on_IN a_DT bipartite_JJ graph_NN structure_NN -RRB-_-RRB- of_IN all_DT pairs_NNS of_IN objects_NNS -LRB-_-LRB- not_RB necessarily_RB of_IN the_DT same_JJ t_NN

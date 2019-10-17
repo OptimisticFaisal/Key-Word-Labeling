@@ -1,0 +1,8 @@
+xtensions_NNS of_IN our_PRP$ algorithm_NN in_IN Section_NN 8_CD ._.
+Section_NN 9_CD presents_VBZ experimental_JJ results_NNS ._.
+The_DT conclusion_NN is_VBZ drawn_VBN in_IN Section_NNP 10_CD ._.
+2_CD Related_JJ Work_NN Discovering_VBG sequential_JJ patterns_NNS was_VBD first_RB introduced_VBN in_IN -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT input_NN data_NNS is_VBZ a_DT set_NN of_IN sequences_NNS ,_, called_VBN data-sequences_NNS ._.
+Each_DT data-sequence_NN is_VBZ a_DT list_NN of_IN transactions_NNS ._.
+Typically_RB there_EX is_VBZ a_DT transaction_NN time_NN associated_VBN with_IN each_DT transaction_NN ._.
+A_DT sequential_JJ patter_NN

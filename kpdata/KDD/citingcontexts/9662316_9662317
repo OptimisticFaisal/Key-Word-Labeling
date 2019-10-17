@@ -1,0 +1,5 @@
+tive_JJ learning_NN ._.
+This_DT step_NN is_VBZ critical_JJ as_IN the_DT classifier_NN will_MD determine_VB which_WDT dimensions_NNS are_VBP relevant_JJ to_TO a_DT class_NN label_NN ._.
+In_IN our_PRP$ case_NN ,_, we_PRP pick_VBP one-vs-rest_JJ linear_JJ SVM_NN due_JJ to_TO its_PRP$ simplicity_NN and_CC scalability_NN =_JJ -_: =[_NN 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+More_RBR powerful_JJ methods_NNS like_IN structural_JJ SVM_NN -LRB-_-LRB- 34_CD -RRB-_-RRB- can_MD also_RB be_VB applied_VBN ._.
+Prediction_NN is_VBZ easy_JJ once_IN the_DT classifier_NN is_VBZ ready_JJ ,_, since_IN the_DT latent_JJ social_JJ dimensions_NNS have_VBP been_VBN calculated_VBN for_IN unlabeled_JJ data_NNS in_IN Ste_NN

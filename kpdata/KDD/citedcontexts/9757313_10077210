@@ -1,0 +1,4 @@
+orks_NNS ,_, Web_NN graphs_NNS ,_, and_CC inverted_JJ indexes_NNS follow_VBP well-known_JJ properties_NNS such_JJ as_IN clustering_NN of_IN the_DT matrix_NN ,_, uneven_JJ distribution_NN of_IN 1s_NNS across_IN rows_NNS and\/or_CC columns_NNS ,_, similarity_NN across_IN rows_NNS and\/or_CC columns_NNS ,_, etc._NN =_JJ -_: =[_NN 6_CD ,_, 1_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT space_NN tH0_NN -LRB-_-LRB- S_NN -RRB-_-RRB- achieved_VBN in_IN Thm_NNP ._.
+2_CD can_MD indeed_RB be_VB improved_VBN upon_IN certain_JJ regularities_NNS ._.
+The_DT wavelet_NN tree_NN of_IN S_NN ,_, when_WRB bitmaps_NNS are_VBP compressed_VBN with_IN local_JJ encoding_NN methods_NNS -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, achieves_VBZ locality_NN in_IN the_DT en_IN

@@ -1,0 +1,4 @@
+sed_JJ pattern_NN is_VBZ that_IN given_VBN a_DT set_NN of_IN records_NNS ,_, there_EX is_VBZ at_IN most_JJS one_CD closed_JJ pattern_NN which_WDT can_MD cover_VB these_DT records_NNS ._.
+This_DT property_NN can_MD be_VB used_VBN for_IN the_DT record-based_JJ expansion_NN search_NN in_IN the_DT biology_NN data_NNS sets_VBZ =_JJ -_: =[_NN 18_CD ,_, 59_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT closed_JJ pattern_NN mining_NN helps_VBZ to_TO reduce_VB the_DT number_NN of_IN rules_NNS in_IN the_DT result_NN but_CC does_VBZ not_RB lose_VB any_DT information_NN ._.
+However_RB ,_, this_DT method_NN only_RB merges_VBZ patterns_NNS with_IN perfect_JJ correlations_NNS and_CC is_VBZ too_RB strict_JJ i_FW

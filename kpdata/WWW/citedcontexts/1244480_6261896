@@ -1,0 +1,5 @@
+with_IN veryslittle_JJ overhead_NN compared_VBN to_TO binary_JJ message_NN formats_NNS ._.
+•_NNP Millau_NNP ._.
+Millau_NNP is_VBZ a_DT system_NN that_WDT implements_VBZ an_DT XML_NN compression_NN algorithm_NN based_VBN on_IN the_DT WAP_NNP binary_JJ XML_NN format_NN -LRB-_-LRB- Girardot_NNP &_CC Sundaresan_NNP 2000_CD ,_, =_JJ -_: =_JJ Sundaresan_NNP &_CC Moussa_NNP 2001_CD -_: =--RRB-_NN ._.
+It_PRP provides_VBZ both_DT DOM_NNP and_CC SAX_NNP programming_NN interfaces_NNS for_IN encoding_VBG and_CC decoding_VBG XML_NN documents_NNS directly_RB to_TO and_CC from_IN the_DT compressed_VBN binary_JJ form_NN ._.
+8_CD Comparison_NN of_IN SOAP_NNP and_CC FIX_NNP When_WRB evaluating_VBG web_NN service_NN

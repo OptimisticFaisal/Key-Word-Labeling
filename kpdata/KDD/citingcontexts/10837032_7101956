@@ -1,0 +1,4 @@
+ze_IN 2007_CD was_VBD awarded_VBN to_TO Team_NNP Korbell_NNP for_IN achieving_VBG an_DT RMSE_NN of_IN 0.8712_CD ._.
+Team_NNP Korbell_NNP used_VBD a_DT neighborhood-based_JJ technique_NN which_WDT combines_VBZ k-nearest-neighbors_NNS -LRB-_-LRB- kNN_NN -RRB-_-RRB- and_CC low-rank_JJ matrix_NN factorization_NN ._.
+Koren_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: reported_VBD that_IN ,_, in_IN terms_NNS of_IN runtime_NN ,_, correlation_NN based_VBN methods_NNS possess_VBP a_DT significant_JJ advantage_NN over_IN SVD_NNP based_VBN methods_NNS ._.
+Koren_NNP proposed_VBD a_DT method_NN for_IN pre-computing_JJ shrunk_VBN correlations_NNS based_VBN on_IN which_WDT movi_NN

@@ -1,0 +1,5 @@
+Publication_NN Crawler_NN Profile_NN Extraction_NN Homepage_NN \/_: introducing_VBG page_NN Researcher_NN names_NNS Google_NNP API_NNP Returned_NNP docs_NNPS Classification_NN Model_NNP Web_NN Fig._NNP 3_CD ._.
+Approach_NN overview_NN ._.
+on_IN Hidden_NNP Markov_NNP Random_NNP Fields_NNP -LRB-_-LRB- HMRFs_NNS -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =_JJ Basu_NNP et_FW al._FW 2004_CD -_: =-]_CD ._.
+The_DT reasons_NNS we_PRP use_VBP the_DT two_CD models_NNS are_VBP :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- Such_PDT a_DT model_NN can_MD describe_VB the_DT dependencies_NNS between_IN information_NN ,_, thus_RB can_MD improve_VB the_DT accuracy_NN of_IN profile_NN extraction_NN and_CC name_NN disambiguation_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- For_IN profi_NNS

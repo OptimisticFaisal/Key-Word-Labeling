@@ -1,0 +1,4 @@
+ies_NNS to_TO have_VB similar_JJ attribute_NN values_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+When_WRB the_DT links_NNS are_VBP specified_VBN in_IN source_NN data_NNS ,_, they_PRP can_MD be_VB used_VBN to_TO infer_VB large-scale_JJ structure_NN ,_, for_IN instance_NN at_IN the_DT level_NN of_IN groups_NNS or_CC communities_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, in_IN other_JJ cases_NNS ,_, the_DT links_NNS themselves_PRP must_MD first_RB be_VB inferred_VBN ,_, whether_IN by_IN preprocessing_VBG to_TO extract_VB real-world_JJ entities_NNS -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, or_CC by_IN modeling_NN their_PRP$ interactions_NNS ._.
+In_IN this_DT work_NN ,_, we_PRP identify_VBP fine-g_NN

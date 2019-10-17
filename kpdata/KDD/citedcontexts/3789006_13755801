@@ -1,0 +1,4 @@
+ework_NN ,_, which_WDT contains_VBZ bursty_JJ topics_NNS only_RB and_CC uses_VBZ a_DT mixture_NN of_IN unigram_JJ models_NNS ._.
+Topic_NNP Over_NNP Time_NNP TOT_NNP is_VBZ an_DT LDA-style_JJ generative_JJ model_NN to_TO extract_VB the_DT evolutionary_JJ topic_NN patterns_NNS in_IN timestamped_JJ documents_NNS =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN our_PRP$ model_NN LPTA_NN ,_, we_PRP model_VBP background_NN topics_NNS ,_, bursty_JJ topics_NNS as_RB well_RB as_IN periodic_JJ topics_NNS ._.
+Compared_VBN with_IN TOT_NN ,_, LPTA_NN focuses_VBZ on_IN recurring_VBG periodic_JJ topic_NN patterns_NNS instead_RB of_IN the_DT evolution_NN of_IN the_DT topics_NNS ._.

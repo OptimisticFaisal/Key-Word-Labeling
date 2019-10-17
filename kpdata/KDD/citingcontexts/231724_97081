@@ -1,0 +1,4 @@
+numbers_NNS of_IN personnel_NNS and_CC expensive_JJ equipment_NN ,_, raising_VBG privacy_NN issues_NNS ,_, and_CC imposing_VBG costs_NNS on_IN millions_NNS of_IN individuals_NNS and_CC transactions_NNS ._. -RRB-_-RRB-
+We_PRP used_VBD the_DT following_JJ two_CD datasets_NNS in_IN our_PRP$ experiments_NNS :_: Ling-Spam_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_JJ -_: :_: This_DT corpus_NN contains_VBZ the_DT legitimate_JJ discussions_NNS on_IN a_DT linguistics_NNS mailing_NN list_NN and_CC the_DT spam_NN mails_NNS received_VBN by_IN the_DT list_NN ._.
+There_EX are_VBP 2412_CD non-spam_JJ messages_NNS and_CC 481_CD spam_NN ones_NNS ._.
+Thus_RB ,_, around_IN 16.6_CD %_NN of_IN the_DT c_NN

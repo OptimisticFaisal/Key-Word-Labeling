@@ -1,0 +1,5 @@
+re_IN the_DT first_JJ to_TO use_VB pairwise_JJ preference_NN labels_NNS to_TO learn_VB ranking_JJ functions_NNS ._.
+They_PRP took_VBD an_DT ordinal_JJ regression_NN approach_NN using_VBG an_DT SVM_NN model_NN ._.
+This_DT model_NN is_VBZ well_RB known_VBN in_IN the_DT IR_NNP literature_NN as_IN the_DT RankingSVM_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB it_PRP was_VBD used_VBN in_IN a_DT scenario_NN where_WRB only_RB preference_NN labels_NNS were_VBD available_JJ in_IN the_DT training_NN data_NNS ,_, derived_VBN from_IN clickthrough_JJ logs_NNS ._.
+RankNet_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- is_VBZ a_DT probabilistic_JJ model_NN for_IN pairwise_JJ preferences_NNS ._.
+The_DT a_DT

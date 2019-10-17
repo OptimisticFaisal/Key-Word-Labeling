@@ -1,0 +1,4 @@
+stantiated_VBN numeric_JJ attributes_NNS ._.
+Thus_RB ,_, unlike_IN -LRB-_-LRB- FMMT96a_NN -RRB-_-RRB- and_CC -LRB-_-LRB- FMMT96b_NN -RRB-_-RRB- ,_, that_WDT only_RB compute_VBP a_DT single_JJ optimal_JJ region_NN ,_, our_PRP$ generalized_JJ rules_NNS enable_VBP upto_NN k_NN optimal_JJ regions_NNS to_TO be_VB computed_VBN ._.
+Furthermore_RB ,_, unlike_IN =_JJ -_: =_JJ -LRB-_-LRB- RS99_NN -RRB-_-RRB- -_: =_JJ -_: ,_, in_IN which_WDT we_PRP only_RB addressed_VBD the_DT optimized_VBN support_NN problem_NN ,_, in_IN this_DT paper_NN ,_, we_PRP focus_VBP on_IN the_DT optimized_VBN gain_NN problem_NN and_CC consider_VB both_CC the_DT one_CD and_CC two_CD attribute_NN cases_NNS ._.
+In_IN addition_NN ,_, for_IN rules_NNS containing_VBG a_DT

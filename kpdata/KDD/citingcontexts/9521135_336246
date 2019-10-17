@@ -1,0 +1,5 @@
+ng_NN is_VBZ to_TO partition_NN the_DT data_NNS into_IN m_NN disjoint_NN classes_NNS such_JJ that_IN each_DT xi_NN belongs_VBZ to_TO one_CD and_CC only_RB one_CD class_NN ._.
+Different_JJ spectral_JJ clustering_NN algorithms_NNS formalize_VBP this_DT partitioning_VBG problem_NN in_IN different_JJ ways_NNS =_JJ -_: =[_NN 33_CD ,_, 27_CD ,_, 29_CD ,_, 39_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN the_DT current_JJ paper_NN we_PRP adopt_VBP the_DT normalized_VBN cuts_NNS -LRB-_-LRB- Ncut_NN -RRB-_-RRB- formulation_NN -LRB-_-LRB- 33_CD -RRB-_-RRB- ._.
+1_CD Define_VB W_NN -LRB-_-LRB- V1_NN ,_, V2_NN -RRB-_-RRB- =_JJ ∑_FW i_FW ∈_FW V1_NN ,_, j_FW ∈_FW V2_NN aij_NN for_IN two_CD -LRB-_-LRB- possibly_RB overlapping_VBG -RRB-_-RRB- subsets_NNS V1_NN and_CC V2_NN of_IN V_NN ._.
+Let_VB V_NN =_JJ 1_CD We_PRP use_VBP Ncut_NNP only_RB for_IN

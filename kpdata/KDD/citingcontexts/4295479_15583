@@ -1,0 +1,4 @@
+ern_VB Tree_NNP ,_, which_WDT is_VBZ a_DT prefix_NN tree_NN representing_VBG sub-transactions_NNS pertaining_VBG to_TO a_DT given_VBN minimum_NN support_NN threshold_NN ._.
+This_DT data_NN structure_NN compressing_VBG the_DT transactional_JJ data_NNS was_VBD contributed_VBN by_IN Han_NNP et_FW al._FW in_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT tree_NN structure_NN we_PRP use_VBP ,_, called_VBN HFP-tree_NN is_VBZ a_DT variation_NN of_IN the_DT original_JJ FP-tree_NN ._.
+However_RB ,_, we_PRP will_MD start_VB introducing_VBG the_DT original_JJ FP-tree_NN before_IN discussing_VBG the_DT differences_NNS with_IN our_PRP$ data_NNS structure_NN ._.

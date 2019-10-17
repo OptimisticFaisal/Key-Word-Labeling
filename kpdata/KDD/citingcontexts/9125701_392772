@@ -1,0 +1,5 @@
+27_CD -RRB-_-RRB- propose_VBP a_DT method_NN for_IN name_NN disambiguation_NN based_VBN on_IN hierarchical_JJ clustering_NN ._.
+However_RB ,_, this_DT kind_NN of_IN methods_NNS can_MD not_RB capture_VB the_DT relationships_NNS either_RB ._.
+Two_CD supervised_JJ methods_NNS are_VBP proposed_VBN by_IN Han_NNP et_FW al._FW =_SYM -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN each_DT given_VBN name_NN ,_, the_DT methods_NNS learn_VBP a_DT specific_JJ classification_NN model_NN from_IN the_DT training_NN data_NNS and_CC use_VBP the_DT model_NN to_TO predict_VB whether_IN a_DT new_JJ paper_NN is_VBZ authored_VBN by_IN a_DT specific_JJ author_NN with_IN the_DT name_NN ._.
+However_RB

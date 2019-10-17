@@ -1,0 +1,3 @@
+e_LS general_JJ case_NN ,_, it_PRP may_MD be_VB solved_VBN in_IN incremental_JJ polynomial_JJ time_NN when_WRB considering_VBG classes_NNS of_IN graphs_NNS for_IN which_WDT subgraph_JJ isomorphism_NN may_MD be_VB solved_VBN in_IN polynomial_JJ time_NN ,_, such_JJ as_IN trees_NNS or_CC outerplanar_JJ graphs_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP address_VBP the_DT problem_NN of_IN computing_VBG canonical_JJ representations_NNS of_IN combinatorial_JJ maps_NNS which_WDT may_MD be_VB used_VBN to_TO efficiently_RB search_VB for_IN a_DT map_NN in_IN a_DT database_NN ._.
+This_DT work_NN is_VBZ related_JJ to_TO -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, whic_JJ

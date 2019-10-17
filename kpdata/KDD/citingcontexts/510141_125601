@@ -1,0 +1,5 @@
+move_VB a_DT huge_JJ number_NN of_IN rules_NNS with_IN no_DT loss_NN of_IN accuracy_NN -LRB-_-LRB- see_VB -LRB-_-LRB- 21_CD -RRB-_-RRB- for_IN more_JJR details_NNS -RRB-_-RRB- ._.
+It_PRP also_RB improves_VBZ the_DT efficiency_NN of_IN scoring_VBG ._.
+Our_PRP$ pruning_NN function_NN uses_VBZ the_DT pessimistic_JJ error_NN rate_NN based_VBN method_NN in_IN C4_NN .5_NN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Note_VB that_IN the_DT error_NN rate_NN of_IN a_DT rule_NN is_VBZ 1_CD --_: `_`` the_DT confidence_NN of_IN the_DT rule_NN '_'' ._.
+The_DT technique_NN prunes_VBZ a_DT rule_NN as_IN follows_VBZ :_: If_IN rule_NN r_NN 's_POS estimated_VBN error_NN rate_NN is_VBZ higher_JJR than_IN the_DT estimated_VBN error_NN rate_NN of_IN rule_NN r_NN −_NN -LRB-_-LRB-

@@ -1,0 +1,5 @@
+are_VBP numerous_JJ and_CC can_MD be_VB grouped_VBN into_IN five_CD general_JJ categories_NNS ._.
+The_DT first_JJ is_VBZ distribution-based_JJ ,_, where_WRB outliers_NNS are_VBP observations_NNS which_WDT deviate_VBP from_IN a_DT standard_JJ distribution_NN -LRB-_-LRB- e.g._FW ,_, Normal_JJ ,_, Poisson_NNP ,_, etc._NN -RRB-_-RRB- =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Outlier_NN detection_NN can_MD also_RB be_VB depth-based_JJ which_WDT relies_VBZ on_IN the_DT computation_NN of_IN different_JJ layers_NNS of_IN k-d_FW convex_FW hulls_NNS ._.
+In_IN depth-based_JJ methods_NNS ,_, outliers_NNS are_VBP objects_NNS in_IN the_DT outer_JJ layer_NN of_IN these_DT hulls_NNS ._.
+The_DT

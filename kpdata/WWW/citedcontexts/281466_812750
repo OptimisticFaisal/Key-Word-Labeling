@@ -1,0 +1,5 @@
+s_VBZ an_DT extended_JJ type_NN system_NN to_TO cover_VB essentially_RB the_DT EBNF-part_NN of_IN XSD_NN ._.
+4_LS ._.
+Create_VB a_DT language_NN cocktail_NN such_JJ that_IN typed_VBN XML_NN is_VBZ deeply_RB embedded_JJ into_IN -LRB-_-LRB- amalgamated_VBN with_IN -RRB-_-RRB- an_DT OO_NN language_NN :_: The_DT development_NN of_IN XJ_NN =_JJ -_: =[_NN 26,25,9,28_CD -RRB-_-RRB- -_: =_SYM -_: adopts_VBZ this_DT strategy_NN ._.
+That_DT is_VBZ ,_, XJ_NNP amalgamates_VBZ the_DT Java_NNP and_CC XSD_NNP type_NN systems_NNS ;_: XML_NN and_CC XPath_NN are_VBP embedded_VBN into_IN Java_NNP and_CC its_PRP$ type_NN system_NN ;_: XML_NN trees_NNS are_VBP represented_VBN as_IN DOM_NNP trees_NNS at_IN runtime_NN ._.
+Other_JJ work_NN on_IN

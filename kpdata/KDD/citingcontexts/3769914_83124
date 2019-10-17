@@ -1,0 +1,6 @@
+walk_NN with_IN restart_VB is_VBZ the_DT iterative_JJ method_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, which_WDT is_VBZ simple_JJ and_CC accurate_JJ ._.
+However_RB ,_, it_PRP is_VBZ slow_JJ for_IN large_JJ graphs_NNS ._.
+In_IN existing_VBG literature_NN ,_, there_EX are_VBP many_JJ fast\/approximate_JJ solutions_NNS ,_, e.g._FW ,_, BlockRank_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, Fingerprintbased_JJ method_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, B_Lin_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- ,_, etc._NN ._.
+It_PRP should_MD be_VB pointed_VBN out_RP that_IN these_DT methods_NNS are_VBP orthogonal_JJ to_TO G-Ray_NN --_: i.e._FW ,_, we_PRP can_MD choose_VB any_DT of_IN them_PRP ._.
+In_IN this_DT paper_NN ,_, we_PRP use_VBP a_DT hybrid_NN strategy_NN ._.
+Specific_JJ

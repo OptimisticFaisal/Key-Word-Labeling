@@ -1,0 +1,4 @@
+pt_NN drift_NN mostly_RB occurs_VBZ in_IN huge_JJ amounts_NNS of_IN data_NNS arriving_VBG in_IN the_DT form_NN of_IN stream_NN ._.
+To_TO overcome_VB this_DT drawback_NN ,_, an_DT evaluation_NN of_IN the_DT change_NN detection_NN algorithms_NNS was_VBD performed_VBN using_VBG the_DT dataset_JJ SEA_NN concepts_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT benchmark_JJ problem_NN for_IN concept_NN drift_NN ._.
+Figure_NN 2_CD shows_VBZ the_DT error_NN rate_NN -LRB-_-LRB- computed_VBN using_VBG a_DT naive-Bayes_JJ classifier_NN -RRB-_-RRB- ,_, which_WDT presents_VBZ three_CD drifts_NNS ._.
+The_DT drifts_NNS and_CC the_DT corresponding_JJ detections_NNS are_VBP also_RB repr_JJ

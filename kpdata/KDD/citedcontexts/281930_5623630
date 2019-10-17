@@ -1,0 +1,9 @@
+ors_NNS -LRB-_-LRB- o_NN -RRB-_-RRB- |_FW ≤_FW k_NN ,_, Report_NNP o_NN as_IN DB_NN -LRB-_-LRB- k_NN ,_, D_NN -RRB-_-RRB- outlier_NN ._.
+Pakdd_NN 2006_CD ,_, Singapore_NNP --_: p._NN 28\/5sNested_VBD Loop_NNP with_IN Randomization_NN and_CC Pruning_VBG The_DT fastest_JJS known_JJ distance-based_JJ algorithm_NN for_IN DB_NN k_NN n_NN is_VBZ due_JJ to_TO Bay_NN and_CC Schwabacher_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- Expected_VBN Running_VBG Time_NN of_IN O_NN -LRB-_-LRB- N_NN -RRB-_-RRB- -RRB-_-RRB- It_PRP is_VBZ variation_NN on_IN the_DT Nested-Loop_NNP algorithm_NN ._.
+1_CD ._.
+Randomize_VB the_DT data_NNS ._.
+2_CD ._.
+Partition_NN the_DT data_NN D_NN into_IN blocks_NNS ._.
+3_LS ._.
+Compare_VB each_DT point_NN in_IN the_DT block_NN to_TO every_DT point_NN in_IN D._NNP 4_CD ._.
+Ke_NNP

@@ -1,0 +1,4 @@
+I_PRP does_VBZ not_RB perform_VB well_RB in_IN practice_NN ,_, as_IN we_PRP show_VBP in_IN Section_NN 3_CD ._.
+2.3_CD LANDMARKS_NN Previous_JJ work_NN in_IN network_NN path_NN finding_NN has_VBZ utilized_VBN a_DT system_NN of_IN network_NN landmarks_NNS to_TO efficiently_RB navigate_VB graph_NN structure_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+With_IN this_DT technique_NN ,_, we_PRP randomly_RB designate_VB a_DT small_JJ number_NN of_IN nodes_NNS in_IN the_DT network_NN to_TO serve_VB as_IN navigational_JJ beacons_NNS ._.
+Then_RB ,_, we_PRP annotate_VBP nodes_NNS in_IN the_DT graph_NN by_IN flooding_VBG out_RP from_IN each_DT landmark_NN and_CC record_NN

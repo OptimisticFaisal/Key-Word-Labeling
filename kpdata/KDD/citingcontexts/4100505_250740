@@ -1,0 +1,4 @@
+basis_NN tensor_NN B_NN to_TO be_VB computed_VBN ._.
+This_DT should_MD not_RB be_VB a_DT bottleneck_NN ,_, for_IN there_EX exist_VBP very_RB efficient_JJ algorithms_NNS for_IN graph_NN partitioning_NN ._.
+As_IN an_DT example_NN ,_, there_EX exists_VBZ a_DT greedy_JJ algorithm_NN for_IN optimal_JJ modularity_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: that_WDT is_VBZ essentially_RB linear_JJ in_IN the_DT size_NN of_IN the_DT graph_NN ._.
+Second_JJ ,_, in_IN the_DT updating_VBG equations_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, the_DT most_JJS time_NN and_CC memory_NN consuming_NN parts_NNS are_VBP B_NN T_NN A_NN and_CC B_NN T_NN B._FW However_RB ,_, this_DT should_MD not_RB be_VB a_DT serious_JJ

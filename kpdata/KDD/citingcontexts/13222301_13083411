@@ -1,0 +1,5 @@
+int_NN of_IN our_PRP$ method_NN ._.
+Other_JJ ranking_JJ methods_NNS on_IN graphs_NNS include_VBP HITS_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, electricity-based_JJ methods_NNS -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, etc._NN ._.
+There_EX also_RB exist_VBP a_DT lot_NN of_IN work_NN to_TO speed-up_VB the_DT computation_NN of_IN personalized_JJ PageRank_NN ,_, such_JJ as_IN =_JJ -_: =[_NN 37_CD ,_, 33_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP is_VBZ worth_JJ pointing_VBG out_RP that_IN all_PDT these_DT fast_JJ algorithms_NNS can_MD be_VB naturally_RB plugged_VBN into_IN the_DT proposed_VBN DRAGON_NNP to_TO gain_VB further_JJ savings_NNS in_IN computational_JJ time_NN ._.
+103410_CD 20_CD 30_CD 40_CD 50_CD 60_CD 70_CD 80_CD 90_CD 100_CD 1_CD 1_CD 1_CD 1_CD A_NN

@@ -1,0 +1,4 @@
+ty_RB ,_, sometimes_RB called_VBN document_NN relevance_NN ,_, denotes_VBZ the_DT document_NN 's_POS similarity_NN or_CC relevance_NN to_TO the_DT given_VBN query_NN ._.
+Document_NNP authority_NN denotes_VBZ the_DT importance_NN of_IN a_DT document_NN in_IN the_DT given_VBN document_NN set_NN ._.
+PageRank_NN =_SYM -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: measures_VBZ global_JJ importance_NN of_IN documents_NNS on_IN the_DT Web_NN while_IN HITS_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- measures_VBZ local_JJ authorities_NNS and_CC hubs_NNS in_IN the_DT base-set_JJ documents_NNS extracted_VBN by_IN the_DT given_VBN query_NN ._.
+However_RB ,_, even_RB though_IN item_NN authority_NN and_CC

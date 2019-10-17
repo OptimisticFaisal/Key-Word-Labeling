@@ -1,0 +1,4 @@
+handwriting_NN recognition_NN is_VBZ explained_VBN ._.
+They_PRP use_VBP XSLT_NNP to_TO translate_VB XPEN_NNP into_IN the_DT Scalable_NNP Vector_NNP Graphics_NNP -LRB-_-LRB- SVG_NNP -RRB-_-RRB- format_NN for_IN visualisation_NN and_CC the_DT processing_NN of_IN XPEN_NN using_VBG a_DT programming_NN language_NN via_IN DOM_NNP ._.
+=_SYM -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: introduces_VBZ an_DT incremental_JJ transformation_NN framework_NN for_IN the_DT editing_NN of_IN XML_NN documents_NNS through_IN one_CD or_CC many_JJ of_IN the_DT document_NN 's_POS rendered_VBN presentations_NNS ,_, in_IN an_DT interactive_JJ authoring_NN system_NN ._.
+To_TO achieve_VB this_DT ,_,

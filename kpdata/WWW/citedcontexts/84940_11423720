@@ -1,0 +1,3 @@
+c_NN arrangement_NN ,_, network_NN compression_NN 1_CD Introduction_NN Finding_VBG a_DT suitable_JJ compressed_VBN representation_NN of_IN large-scale_JJ networks_NNS is_VBZ intensively_RB studied_VBN in_IN both_CC practical_JJ and_CC theoretical_JJ branches_NNS of_IN data_NNS mining_NN =_JJ -_: =[_NN 12_CD ,_, 2_CD ,_, 11_CD ,_, 5_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN particular_JJ ,_, the_DT success_NN of_IN applying_VBG some_DT of_IN the_DT recently_RB proposed_VBN compression_NN schemes_NNS -LRB-_-LRB- 11_CD ,_, 5_CD ,_, 3_CD -RRB-_-RRB- strongly_RB depends_VBZ on_IN the_DT ``_`` compression-friendly_JJ ''_'' arrangement_NN of_IN network_NN nodes_NNS ._.
+Usually_RB ,_, the_DT goal_NN of_IN

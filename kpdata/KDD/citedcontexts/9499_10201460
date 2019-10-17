@@ -1,0 +1,4 @@
+as_RB recently_RB received_VBD significant_JJ attention_NN in_IN algorithm_NN development_NN and_CC applications_NNS ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, and_CC -LRB-_-LRB- 12_CD -RRB-_-RRB- applied_JJ co-clustering_NN to_TO text_NN mining_NN ,_, bioinformatics_NNS and_CC recommendation_NN systems_NNS respectively_RB ._.
+=_SYM -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: proposed_VBD a_DT generalized_JJ Bregman_NNP co-clustering_NN algorithm_NN by_IN considering_VBG co-clustering_NN as_IN a_DT matrix_NN approximation_NN problem_NN ._.
+While_IN these_DT techniques_NNS work_VBP reasonably_RB on_IN real_JJ data_NNS ,_, one_CD important_JJ restriction_NN i_FW

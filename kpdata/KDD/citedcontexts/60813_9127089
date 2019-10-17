@@ -1,0 +1,3 @@
+-RRB-_-RRB- If_IN ``_`` Andrew_NNP Mark_NNP ''_'' and_CC ``_`` Fernando_NNP Mulford_NNP ''_'' also_RB coauthor_VBZ one_CD paper_NN ,_, then_RB we_PRP say_VBP pi_NN and_CC pj_NN have_VBP a_DT 2CoAuthor_NN relationship_NN ._.
+2.2_CD Our_NNP Approach_NNP The_DT proposed_VBN framework_NN is_VBZ based_VBN on_IN Hidden_NNP Markov_NNP Random_NNP Fields_NNP =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT can_MD be_VB used_VBN to_TO model_VB dependencies_NNS between_IN observations_NNS -LRB-_-LRB- here_RB each_DT paper_NN can_MD be_VB viewed_VBN as_IN an_DT observation_NN -RRB-_-RRB- ._.
+Then_RB for_IN each_DT disambiguation_NN task_NN ,_, we_PRP propose_VBP using_VBG the_DT Bayesian_JJ Information_NN Criterion_NN

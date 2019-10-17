@@ -1,0 +1,5 @@
+es_NNS are_VBP given_VBN ,_, which_WDT is_VBZ not_RB realistic_JJ in_IN practice_NN ._.
+Due_JJ to_TO a_DT large_JJ number_NN of_IN links_NNS in_IN a_DT typical_JJ Web_NN page_NN ,_, automatically_RB identifying_VBG links_NNS that_WDT point_VBP to_TO detailed_JJ information_NN pages_NNS is_VBZ a_DT non-trivial_JJ task_NN ._.
+=_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: proposes_VBZ a_DT string_NN matching_NN method_NN ._.
+However_RB ,_, its_PRP$ results_NNS are_VBP weak_JJ as_IN shown_VBN in_IN -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+Another_DT assumption_NN that_IN most_JJS current_JJ systems_NNS make_VBP is_VBZ that_IN the_DT relevant_JJ information_NN of_IN a_DT data_NN record_NN is_VBZ contained_VBN in_IN

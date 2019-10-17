@@ -1,0 +1,4 @@
+ges_NNS when_WRB the_DT weights_NNS are_VBP set_VBN ._.
+First_JJ -LRB-_-LRB- stage_NN 1_CD -RRB-_-RRB- ,_, we_PRP apply_VBP RankSVM_NN to_TO learn_VB feature_NN weights_NNS based_VBN on_IN the_DT training_NN data_NNS collected_VBN using_VBG Amazon_NNP Mechanical_JJ Turk_NNP ._.
+RankSVM_NN was_VBD originally_RB proposed_VBN by_IN Joachims_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: to_TO learn_VB how_WRB to_TO weight_VB features_NNS from_IN a_DT set_NN of_IN subjective_JJ ordering_VBG constraints_NNS inferred_VBN from_IN user_NN click-through_JJ data_NNS to_TO improved_JJ ranking_NN ._.
+At_IN the_DT development_NN stage_NN ,_, we_PRP did_VBD not_RB have_VB any_DT click-through_JJ da_NN

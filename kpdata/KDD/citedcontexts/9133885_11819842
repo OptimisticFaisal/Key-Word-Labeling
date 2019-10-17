@@ -1,0 +1,4 @@
+ethods_NNS ._.
+The_DT model-based_JJ methods_NNS benefit_VBP from_IN the_DT statistical_JJ and_CC machine_NN learning_NN techniques_NNS ,_, and_CC view_NN CF_NN as_IN a_DT missing-value_JJ prediction_NN problem_NN through_IN matrix_NN factorization_NN -LRB-_-LRB- Srebro_NNP and_CC Jaakkola_NNP 2003_CD ;_: =_JJ -_: =_JJ Singh_NNP and_CC Gordon_NNP 2008_CD -_: =--RRB-_NN ._.
+However_RB ,_, most_JJS of_IN these_DT methods_NNS only_RB modeled_VBD two-party_JJ relations_NNS in_IN matrix_JJ forms_NNS ._.
+In_IN contrast_NN ,_, we_PRP model_VBP the_DT three-party_JJ relations_NNS in_IN a_DT tensor_NN ;_: and_CC beyond_IN standard_JJ tensor_NN decomposition_NN -LRB-_-LRB- Lathauwer_NNP ,_, Mo_NNP

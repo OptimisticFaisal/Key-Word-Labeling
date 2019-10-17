@@ -1,0 +1,4 @@
+ot_NN graph_NN As_IN ,_, we_PRP want_VBP to_TO identify_VB dense_JJ subgraphs_NNS where_WRB blogs_NNS communicate_VBP with_IN each_DT other_JJ ._.
+We_PRP can_MD apply_VB a_DT graph_NN partitioning_VBG algorithm_NN ,_, such_JJ as_IN Shi_NNP 's_POS normalized_VBN cut_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- or_CC Newman_NNP 's_POS optimal_JJ modularity_NN =_JJ -_: =[_NN 18_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+After_IN removing_VBG insignificant_JJ subgraphs_NNS -LRB-_-LRB- e.g._FW ,_, a_DT subgraph_NN with_IN only_RB a_DT couple_NN of_IN nodes_NNS -RRB-_-RRB- ,_, we_PRP have_VBP ms_NNS graphs_NNS Bs1_NN ,_, ..._: ,_, Bsms_NNP ._.
+We_PRP call_VBP them_PRP basis_NN subgraphs_NNS since_IN we_PRP will_MD define_VB a_DT community_NN as_IN a_DT linear_NN

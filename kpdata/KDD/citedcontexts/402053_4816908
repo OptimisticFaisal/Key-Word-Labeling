@@ -1,0 +1,4 @@
+arge_NN ,_, high_JJ dimensional_JJ datasets_NNS ,_, or_CC data_NNS coming_VBG from_IN continuous_JJ streams_NNS ._.
+In_IN the_DT field_NN of_IN data_NNS mining_NN ,_, several_JJ works_NNS have_VBP studied_VBN how_WRB to_TO detect_VB changes_NNS of_IN data_NNS distributions_NNS over_IN streams_NNS and_CC sequences_NNS =_JJ -_: =[_NN 1_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, more_RBR often_RB than_IN not_RB ,_, change_NN detection_NN only_RB serves_VBZ to_TO trigger_VB a_DT costly_JJ learning_NN process_NN ,_, and_CC the_DT change_NN itself_PRP is_VBZ not_RB used_VBN to_TO mend_VB the_DT current_JJ prediction_NN model_NN directly_RB ._.
+Recently_RB ,_, several_JJ wo_MD

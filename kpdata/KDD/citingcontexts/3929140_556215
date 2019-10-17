@@ -1,0 +1,3 @@
+imization_NN problem_NN whose_WP$ objective_JJ function_NN is_VBZ to_TO minimize_VB the_DT rank_NN of_IN the_DT weighting_NN matrix_NN A._NN However_RB ,_, it_PRP induces_VBZ an_DT NP-Hard_JJ problem_NN by_IN directly_RB minimizing_VBG rank_NN -LRB-_-LRB- A_NN -RRB-_-RRB- ,_, the_DT so-called_JJ zero-norm_NN problem_NN in_IN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Since_IN minimizing_VBG the_DT trace_NN of_IN a_DT matrix_NN tends_VBZ to_TO give_VB a_DT low-rank_JJ solution_NN when_WRB the_DT matrix_NN is_VBZ symmetric_JJ -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, we_PRP approximate_JJ the_DT rank_NN of_IN a_DT matrix_NN by_IN its_PRP$ trace_NN ._.
+Moreover_RB ,_, since_IN rank_NN -LRB-_-LRB- AA_NN T_NN -RRB-_-RRB- =_JJ rank_NN -LRB-_-LRB- AA_NN T_NN

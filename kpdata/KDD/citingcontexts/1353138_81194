@@ -1,0 +1,3 @@
+H_NN one_CD of_IN the_DT elements_NNS with_IN maximal_JJ value_NN of_IN an_DT instance-averaging_JJ utility_NN function_NN f_SYM ,_, or_CC all_DT elements_NNS with_IN an_DT f-value_NN above_IN a_DT user-given_JJ threshold_NN -LRB-_-LRB- e.g._FW ,_, all_DT association_NN rules_NNS with_IN sucient_JJ support_NN -RRB-_-RRB- =_JJ -_: =[_NN 5_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+With_IN instance-averaging_JJ utility_NN functions_NNS ,_, the_DT quality_NN of_IN a_DT hypothesis_NN h_NN is_VBZ the_DT average_NN across_IN all_DT instances_NNS in_IN a_DT dataset_NN D_NN of_IN an_DT instance_NN utility_NN function_NN finst_NN ._.
+Many_JJ discovery_NN problems_NNS ,_, however_RB ,_,

@@ -1,0 +1,5 @@
+itoring_NN ,_, -LRB-_-LRB- 14_CD -RRB-_-RRB- collected_VBD 22_CD ,_, 170_CD business_NN news_NN stories_NNS from_IN the_DT web_NN between_IN 4\/1\/1999_CD and_CC 8\/4\/1999_CD ._.
+Following_VBG a_DT prior_JJ study_NN ,_, we_PRP placed_VBD an_DT edge_NN between_IN two_CD companies_NNS if_IN they_PRP appeared_VBD together_RB in_IN a_DT story_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT weight_NN of_IN an_DT edge_NN is_VBZ the_DT number_NN of_IN such_JJ cooccurrences_NNS found_VBN in_IN the_DT complete_JJ corpus_NN ._.
+The_DT resulting_VBG network_NN comprises_VBZ 1798_CD companies_NNS that_WDT cooccurred_VBD with_IN at_IN least_JJS one_CD other_JJ company_NN ._.
+To_TO classify_VB a_DT

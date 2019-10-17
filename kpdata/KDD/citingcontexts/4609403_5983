@@ -1,0 +1,4 @@
+pler_NN than_IN U-trees_NNS as_IN every_DT node_NN has_VBZ at_IN most_JJS one_CD parent_NN ._.
+The_DT best_JJS D-tree_NN can_MD be_VB computed_VBN fast_RB even_RB for_IN very_RB large_JJ data_NNS sets_NNS ._.
+They_PRP have_VBP also_RB been_VBN called_VBN Bayes_NNP trees_NNS ,_, Markov_NNP trees_NNS -LRB-_-LRB- 21_CD -RRB-_-RRB- ,_, dependence_NN trees_NNS =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, andChow-Liutrees_NNS -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, butanimportantdistinctionisthat_NN we_PRP do_VBP not_RB attempt_VB to_TO model_VB the_DT complete_JJ joint_JJ distribution_NN but_CC to_TO find_VB interesting_JJ local_JJ patterns_NNS ._.
+In_IN other_JJ words_NNS ,_, a_DT Dtree_NNP is_VBZ the_DT Chow-Liu_NNP tree_NN

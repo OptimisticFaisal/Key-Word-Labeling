@@ -1,0 +1,5 @@
+11\/08_CD ..._: $_$ 10.00_CD ._.
+Inderjit_NNP S._NNP Dhillon_NNP Dept._NNP of_IN Computer_NNP Science_NNP University_NNP of_IN Texas_NNP at_IN Austin_NNP Austin_NNP ,_, TX_NNP 78712-1188_CD ,_, USA_NN inderjit@cs.utexas.edu_NN 1_CD ._.
+INTRODUCTION_NN Non-negative_JJ matrix_NN factorization_NN -LRB-_-LRB- NMF_NN -RRB-_-RRB- -LRB-_-LRB- =_JJ -_: =[_NN 20_CD ,_, 14_CD -RRB-_-RRB- -_: =--RRB-_NN is_VBZ a_DT popular_JJ matrix_NN decomposition_NN method_NN for_IN finding_VBG non-negative_JJ representations_NNS of_IN data_NNS ._.
+NMF_NN has_VBZ proved_VBN useful_JJ in_IN dimension_NN reduction_NN of_IN image_NN ,_, text_NN ,_, and_CC signal_NN data_NNS ._.
+Given_VBN a_DT matrix_NN V_NN ∈_NN R_NN m_NN ×_CD n_NN ,_, V_NN

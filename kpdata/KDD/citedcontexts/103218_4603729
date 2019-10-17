@@ -1,0 +1,4 @@
+,_, West_NNP Point_NNP ,_, NY_NNP generated_VBN by_IN an_DT IDS_NNP can_MD be_VB overwhelming_JJ ,_, and_CC the_DT number_NN of_IN false_JJ positives_NNS may_MD be_VB extremely_RB high_JJ ._.
+IDSs_NNS can_MD trigger_VB thousands_NNS of_IN alerts_VBZ per_IN day_NN ,_, up_RB to_TO 99_CD %_NN of_IN which_WDT are_VBP false_JJ positives_NNS =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Differentiating_VBG the_DT large_JJ number_NN of_IN false_JJ positives_NNS from_IN the_DT true_JJ malicious_JJ activity_NN is_VBZ a_DT daunting_JJ task_NN that_WDT relies_VBZ heavily_RB on_IN the_DT knowledge_NN and_CC experience_NN of_IN the_DT human_JJ analyst_NN ._.
+The_DT output_NN from_IN many_JJ

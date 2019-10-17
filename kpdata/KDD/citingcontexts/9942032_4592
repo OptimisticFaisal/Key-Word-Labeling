@@ -1,0 +1,5 @@
+work_NN graphs_NNS ._.
+A_DT possible_JJ alternative_NN is_VBZ to_TO use_VB heuristics_NNS ._.
+In_IN sociology_NN literature_NN ,_, degree_NN and_CC other_JJ centrality-based_JJ heuristics_NNS are_VBP commonly_RB used_VBN to_TO estimate_VB the_DT influence_NN of_IN nodes_NNS in_IN social_JJ networks_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Degree_NN is_VBZ frequently_RB used_VBN for_IN selecting_VBG seeds_NNS in_IN influence_NN maximization_NN ._.
+Experimental_JJ results_NNS in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- showed_VBD that_IN selecting_VBG vertices_NNS with_IN maximum_NN degrees_NNS as_IN seeds_NNS results_VBZ in_IN larger_JJR influence_NN spread_NN t_NN

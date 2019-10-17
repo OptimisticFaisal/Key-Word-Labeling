@@ -1,0 +1,4 @@
+s_NNS are_VBP added_VBN to_TO the_DT training_NN set_NN and_CC a_DT classier_JJR generated_VBN using_VBG this_DT larger_JJR training_NN set_NN ._.
+This_DT iterative_JJ process_NN continues_VBZ until_IN the_DT training_NN set_NN reaches_VBZ a_DT speci_FW ed_FW size_NN ._.
+This_DT method_NN is_VBZ generalized_VBN in_IN =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: by_IN using_VBG two_CD classi_NNS ers_NNPS ,_, the_DT rst_NN one_CD to_TO determine_VB the_DT degree_NN of_IN uncertainty_NN and_CC the_DT second_JJ one_CD to_TO do_VB the_DT classi_NN cation_NN ._.
+In_IN this_DT work_NN ,_, a_DT probabilistic_JJ classi_NN er_NN was_VBD chosen_VBN for_IN the_DT rst_NN task_NN based_VBN on_IN e_SYM

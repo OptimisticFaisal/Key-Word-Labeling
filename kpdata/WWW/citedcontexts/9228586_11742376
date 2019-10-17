@@ -1,0 +1,6 @@
+ovide_VB valuable_JJ information_NN for_IN learning_VBG to_TO rank_VB ._.
+Unfortunately_RB ,_, few_JJ work_NN has_VBZ fully_RB exploredthem_VBN in_IN a_DT unified_JJ way_NN ._.
+For_IN example_NN ,_, only_RB click_VBP logs_NNS were_VBD used_VBN to_TO derive_VB surrogate_JJ relevance_NN labels_NNS in_IN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+=_SYM -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: and_CC -LRB-_-LRB- 21_CD -RRB-_-RRB- explored_VBD document_NN pairwise_JJ relationship_NN to_TO regularize_VB the_DT document_NN ranking_NN scores_NNS ._.
+-LRB-_-LRB- 24_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 15_CD -RRB-_-RRB- used_VBD the_DT concatenated_VBN two_CD document_NN feature_NN vectors_NNS as_IN pairwise_JJ features_NNS ._.
+One_CD limitation_NN of_IN th_DT

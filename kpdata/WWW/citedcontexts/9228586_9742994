@@ -1,0 +1,4 @@
+ates_VBZ evidence_NN across_IN snippets_NNS i_LS ,_, j_NN only_RB if_IN xi_NN ,_, xj_NN match_NN exactly_RB ._.
+This_DT fails_VBZ in_IN the_DT face_NN of_IN close_JJ but_CC not_RB identical_JJ quantities_NNS in_IN dominant_JJ clusters_NNS ._.
+Next_RB we_PRP adapt_VBP a_DT graph_NN Laplacian_NN smoothing_NN technique_NN =_JJ -_: =[_NN 12_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: that_IN balances_NNS between_IN individual_JJ snippet_NN score_NN evidence_NN w_FW ⊤_FW zi_FW and_CC quantity_NN proximity_NN ,_, say_VB ,_, |_FW xi_FW −_FW xj_FW |_FW ._.
+This_DT formulation_NN can_MD not_RB ignore_VB quantity_NN proximity_NN among_IN irrelevant_JJ snippets_NNS ,_, and_CC gives_VBZ only_JJ modes_NNS

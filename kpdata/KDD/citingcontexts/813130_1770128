@@ -1,0 +1,4 @@
+th_DT sorted_VBN observations_NNS otherwise_RB ,_, where_WRB #x_NN #_# is_VBZ the_DT greatest_JJS integer_NN in_IN x_NN -LRB-_-LRB- Pfanzagl_NNP ,_, 1974_CD -RRB-_-RRB- ._.
+This_DT sample_NN quantile_VBD #_# Q_NNP n_NN is_VBZ biased_VBN ,_, but_CC its_PRP$ bias_NN is_VBZ usually_RB smaller_JJR than_IN its_PRP$ standard_JJ error_NN if_IN M_NN is_VBZ large_JJ -LRB-_-LRB- =_JJ -_: =_JJ David_NNP ,_, 1981_CD -_: =--RRB-_NN ._.
+If_IN M_NN is_VBZ small_JJ ,_, then_RB #_# Q_NNP n_NN tends_VBZ to_TO be_VB badly_RB biased_VBN ,_, but_CC it_PRP can_MD still_RB be_VB a_DT reasonable_JJ initial_JJ estimate_NN of_IN Q_NNP if_IN the_DT incremental_JJ estimate_NN can_MD recover_VB from_IN bad_JJ starting_VBG values_NNS ._.
+If_IN a_DT large_JJ number_NN M_NN of_IN o_NN

@@ -1,0 +1,5 @@
+randomization_NN tests_NNS ._.
+However_RB ,_, often_RB they_PRP are_VBP not_RB well-suited_JJ for_IN assessing_VBG complex_JJ results_NNS of_IN data_NN mining_NN ,_, such_JJ as_IN clusterings_NNS or_CC pattern_NN sets_NNS ._.
+In_IN this_DT paper_NN we_PRP consider_VBP the_DT use_NN of_IN swap_NN randomization_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: for_IN assessing_VBG data_NNS mining_NN results_VBZ on_IN 0_CD --_: 1_CD datasets_NNS ._.
+The_DT basic_JJ idea_NN of_IN swap_NN randomization_NN is_VBZ as_IN follows_VBZ ._.
+Given_VBN the_DT dataset_NN D_NN ,_, create_VB random_JJ datasets_NNS with_IN the_DT same_JJ row_NN and_CC column_NN margins_NNS D_NN ,_, run_VBP the_DT data_NNS

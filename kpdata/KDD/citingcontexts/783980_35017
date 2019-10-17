@@ -1,0 +1,4 @@
+way_NN to_TO address_VB this_DT issue_NN is_VBZ to_TO require_VB that_IN the_DT fraction_NN of_IN an_DT item_NN involved_VBN in_IN an_DT association_NN pattern_NN meets_VBZ some_DT minimum_JJ threshold_NN ._.
+-LRB-_-LRB- This_DT is_VBZ formally_RB defined_VBN by_IN the_DT notion_NN of_IN a_DT hyperclique_NN pattern_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._. -RRB-_-RRB-
+It_PRP is_VBZ straightforward_JJ to_TO add_VB such_PDT a_DT constraint_NN to_TO the_DT computation_NN of_IN support_NN envelopes_NNS ._.
+In_IN other_JJ words_NNS ,_, given_VBN a_DT specified_JJ fraction_NN f_FW between_IN 0_CD and_CC 1_CD ,_, we_PRP eliminate_VBP an_DT item_NN Table_NNP 9_CD :_: Support_NN boundary_NN

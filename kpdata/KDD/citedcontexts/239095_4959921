@@ -1,0 +1,4 @@
+hyper_JJ plane_NN and_CC closest_JJS data_NNS points_NNS -LRB-_-LRB- support_NN vectors_NNS -RRB-_-RRB- ._.
+To_TO maximize_VB the_DT margin_NN denoted_VBN by_IN 1_CD |_CD |_CD w_NN |_NNP |_NNP while_IN minimizing_VBG the_DT error_NN ,_, the_DT standard_JJ SVM_NN solution_NN is_VBZ formulated_VBN into_IN the_DT following_JJ primal_JJ program_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: :_: min_NN w_NN ,_, y_NN Fig._NNP 3_CD ._.
+15_CD measurements_NNS 1_CD 2_CD w_NN ′_CD w_NN +_CC νe_FW ′_FW y_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- s.t._NN D_NN -LRB-_-LRB- Aw_UH −_FW eγ_FW -RRB-_-RRB- +_CC y_FW ≥_FW e_LS and_CC y_FW ≥_FW 0_CD -LRB-_-LRB- 3_CD -RRB-_-RRB- which_WDT minimizes_VBZ the_DT reciprocal_JJ of_IN the_DT margin_NN -LRB-_-LRB- w_NN ′_CD w_NN -RRB-_-RRB- andthe_NN error_NN -LRB-_-LRB- e_SYM ′_FW y_FW -RRB-_-RRB- ._.
+An_DT m_NN ×_CD n_NN matrix_NN A_NN represents_VBZ m_NN dat_NN

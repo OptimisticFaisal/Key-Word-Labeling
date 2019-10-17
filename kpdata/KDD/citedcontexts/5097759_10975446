@@ -1,0 +1,3 @@
+nable_JJ string_NN edit-distance_NN between_IN attribute_NN values_NNS to_TO find_VB strings_NNS for_IN each_DT attribute_NN with_IN the_DT least_JJS distance_NN to_TO other_JJ values_NNS in_IN the_DT cluster_NN ._.
+This_DT differs_VBZ from_IN the_DT system_NN presented_VBN in_IN Culotta_NNP et_FW al._FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: :_: our_PRP$ system_NN finds_VBZ canonical_JJ values_NNS for_IN each_DT attribute_NN separately_RB ,_, whereas_IN in_IN -LRB-_-LRB- 8_CD -RRB-_-RRB- the_DT canonical_JJ entity_NN must_MD match_VB exactly_RB one_CD of_IN the_DT existing_VBG mentions_VBZ ._.
+Let_NNP D_NNP :_: vi_LS ×_FW vj_FW ↦_FW →_FW R_NN +_CC be_VB the_DT string_NN edit_FW distan_FW

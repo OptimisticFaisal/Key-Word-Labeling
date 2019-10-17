@@ -1,0 +1,5 @@
+ntent_JJ information_NN ._.
+For_IN a_DT given_VBN query_NN q_NN ,_, the_DT relevance_NN scores_NNS of_IN the_DT entities_NNS can_MD be_VB calculated_VBN using_VBG a_DT text_NN relevance_NN function_NN f_SYM ,_, such_JJ as_IN the_DT vector_NN space_NN model_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC the_DT statistical_JJ language_NN model_NN =_JJ -_: =[_NN 23_CD ,_, 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT initial_JJ relevance_NN scores_NNS x_NN 0_CD i_LS and_CC y_NN 0_CD j_NN are_VBP respectively_RB defined_VBN by_IN x_NN 0_CD i_LS =_JJ f_FW -LRB-_-LRB- q_NN ,_, ui_NN -RRB-_-RRB- ,_, and_CC y_NN 0_CD j_NN =_JJ f_FW -LRB-_-LRB- q_NN ,_, vj_NN -RRB-_-RRB- for_IN ui_NN and_CC vj_NN ._.
+3_LS ._.
+GENERALIZED_VBN CO-HITS_JJ ALGORITHM_NN Given_IN a_DT query_FW q_FW and_CC the_DT above_JJ informat_NN

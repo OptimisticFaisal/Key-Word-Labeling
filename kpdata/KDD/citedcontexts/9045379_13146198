@@ -1,0 +1,3 @@
+ngs_NNS of_IN the_DT Fifteenth_NNP Conference_NNP on_IN Computational_NNP Natural_NNP Language_NNP Learning_NNP ,_, pages_NNS 247_CD --_: 256_CD ,_, Portland_NNP ,_, Oregon_NNP ,_, USA_NNP ,_, 23_CD --_: 24_CD June_NNP 2011_CD ._.
+c_NN ○_CD 2011_CD Association_NNP for_IN Computational_NNP Linguisticsalso_NNP been_VBN proposed_VBN -LRB-_-LRB- =_JJ -_: =_JJ Davis_NNP and_CC Dhillon_NNP ,_, 2008_CD -_: =--RRB-_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT new_JJ projection_NN learning_NN framework_NN ,_, Similarity_NNP Learning_NNP via_IN Siamese_NNP Neural_NNP Network_NNP -LRB-_-LRB- S2Net_NN -RRB-_-RRB- ,_, to_TO discriminatively_RB learn_VB the_DT concept_NN vector_NN representations_NNS of_IN input_NN text_NN obj_NN

@@ -1,0 +1,5 @@
+es_NNS for_IN improved_VBN segmentation_NN ._.
+Their_PRP$ results_NNS indicate_VBP that_IN Datamold_NNP consistently_RB performs_VBZ better_JJR than_IN the_DT rule-base_NN system_NN Rapier_NNP ._.
+An_DT automatic_JJ system_NN that_WDT only_RB uses_VBZ external_JJ databases_NNS is_VBZ presented_VBN in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT authors_NNS describe_VBP attribute_NN recognition_NN models_NNS -LRB-_-LRB- ARMs_NNS -RRB-_-RRB- ,_, based_VBN on_IN HMMs_NNS ,_, which_WDT capture_VBP the_DT characteristics_NNS of_IN the_DT values_NNS stored_VBN in_IN large_JJ reference_NN tables_NNS ._.
+The_DT topology_NN for_IN an_DT ARM_NN consists_VBZ of_IN the_DT thr_NN

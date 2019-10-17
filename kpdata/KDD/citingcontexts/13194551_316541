@@ -1,0 +1,3 @@
+bset_NN of_IN the_DT columns_NNS ,_, R_NN a_DT subset_NN of_IN the_DT rows_NNS ,_, and_CC U_NN is_VBZ a_DT mixing_VBG matrix_NN ,_, is_VBZ called_VBN the_DT CUR_NN decomposition_NN ._.
+The_DT CX_NN and_CC CUR_NN decompositions_NNS have_VBP received_VBN increasing_VBG attention_NN in_IN the_DT data-analysis_JJ community_NN =_JJ -_: =[_NN 2_CD ,_, 5_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD of_IN their_PRP$ advantages_NNS is_VBZ that_IN they_PRP are_VBP very_RB space_NN efficient_JJ since_IN they_PRP preserve_VBP data_NNS sparsity_NN :_: if_IN the_DT input_NN matrix_NN is_VBZ sparse_JJ then_RB so_RB are_VBP C_NNP and_CC R._NNP At_IN the_DT same_JJ time_NN ,_, CX_NN and_CC CUR_NN decompositions_NNS give_VBP a_DT

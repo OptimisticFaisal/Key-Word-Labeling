@@ -1,0 +1,5 @@
+s_NN of_IN δ_NN -LRB-_-LRB- q_NN ,_, C_NN ,_, C_NN ′_NN -RRB-_-RRB- on_IN a_DT random_JJ sample_NN ._.
+We_PRP consider_VBP the_DT following_JJ three_CD tests_NNS ,_, which_WDT will_MD also_RB serve_VB as_IN the_DT baseline_NN methods_NNS in_IN our_PRP$ empirical_JJ evaluation_NN ._.
+The_DT simplest_JJS test_NN ,_, and_CC the_DT one_NN previously_RB used_VBN in_IN =_JJ -_: =[_NN 12_CD ,_, 13_CD ,_, 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, is_VBZ the_DT Binomial_NNP Sign_NNP Test_NNP -LRB-_-LRB- see_VB e.g._FW -LRB-_-LRB- 16_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+It_PRP counts_VBZ how_WRB often_RB the_DT sign_NN of_IN δi_FW is_VBZ positive_JJ ,_, i.e._FW S_NN =_JJ ∑_CD n_NN i_LS =_JJ 1_CD -LRB-_-LRB- Δi_NN -RRB-_-RRB- 0_CD -RRB-_-RRB- ._.
+This_DT sum_NN S_NN is_VBZ a_DT binomial_JJ random_JJ variable_NN ,_, and_CC the_DT null_JJ hypothesis_NN is_VBZ that_IN the_DT un_NN

@@ -1,0 +1,5 @@
+assignment_NN is_VBZ indicated_VBN by_IN a_DT CATEGORY_NN tag_NN ._.
+The_DT LATIMES_NN collection_NN is_VBZ the_DT Los_NNP Angeles_NNP Times_NNP subset_NN of_IN the_DT TREC-5_NN collection_NN ._.
+The_DT categories_NNS correspond_VBP to_TO the_DT newspaper_NN desk_NN that_WDT generated_VBD the_DT article_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT REUTERS_NNP collection_NN is_VBZ the_DT by_IN now_RB classic_JJ Reuters-21578_NN text_NN categorization_NN collection_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Similar_JJ to_TO previous_JJ work_NN we_PRP used_VBD the_DT ModApte_NNP split_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, but_CC ,_, since_IN our_PRP$ algorithm_NN is_VBZ unsupervised_JJ ,_, we_PRP us_PRP

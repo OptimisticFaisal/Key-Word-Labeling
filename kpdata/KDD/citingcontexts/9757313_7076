@@ -1,0 +1,5 @@
+-_: theoretically_RB optimal_JJ -LRB-_-LRB- or_CC nearly_RB so_RB -RRB-_-RRB- ._.
+Also_RB note_VBP that_IN if_IN the_DT term_NN inside_IN the_DT summation_NN were_VBD just_RB |_FW π_FW -LRB-_-LRB- u_NN -RRB-_-RRB- −_FW π_FW -LRB-_-LRB- v_LS -RRB-_-RRB- |_CD ,_, then_RB this_DT is_VBZ the_DT well-known_JJ minimum_JJ linear_JJ arrangement_NN -LRB-_-LRB- MLINA_NN -RRB-_-RRB- problem_NN ._.
+MLINA_NN is_VBZ NP-hard_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ;_: little_RB ,_, however_RB ,_, is_VBZ known_VBN about_IN its_PRP$ approximability_NN ._.
+The_DT best_JJS algorithm_NN -LRB-_-LRB- 23_CD -RRB-_-RRB- approximates_VBZ MLINA_NN to_TO O_NN -LRB-_-LRB- √_CD log_NN n_NN log_NN log_NN n_NN -RRB-_-RRB- and_CC this_DT algorithm_NN is_VBZ not_RB practical_JJ for_IN large_JJ graphs_NNS ._.
+From_IN the_DT standpoint_NN of_IN

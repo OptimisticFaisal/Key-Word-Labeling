@@ -1,0 +1,5 @@
+rging_VBG and_CC processing_VBG it_PRP with_IN new_JJ incoming_JJ data_NNS ._.
+Keywords_NNS support_VBP vector_NN machines_NNS ,_, data_NNS classification_NN ,_, data_NNS selection_NN ,_, concave_NN minimization_NN ,_, linear_JJ programming_NN 1_CD ._.
+INTRODUCTION_NN Support_NN vector_NN machines_NNS =_JJ -_: =[_NN 20_CD ,_, 8_CD ,_, 3_CD ,_, 7_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP powerful_JJ tools_NNS for_IN data_NNS classification_NN ._.
+Classification_NN is_VBZ achieved_VBN by_IN a_DT linear_JJ or_CC nonlinear_JJ separating_VBG surface_NN in_IN the_DT input_NN space_NN of_IN the_DT dataset_NN ._.
+The_DT separating_VBG surface_NN depends_VBZ only_RB on_IN a_DT subset_NN o_NN

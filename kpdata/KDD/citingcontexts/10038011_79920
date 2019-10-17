@@ -1,0 +1,3 @@
+TRANSFORM_VB We_PRP begin_VB by_IN reviewing_VBG the_DT classic_JJ generalized_JJ Hough_NNP Transform_NNP algorithm_NN and_CC then_RB introduce_VB our_PRP$ modifications_NNS and_CC extensions_NNS ._.
+3.1_CD Classic_NNP Generalized_NNP Hough_NNP Transform_NNP The_NNP Hough_NNP transform_VB -LRB-_-LRB- 11_CD -RRB-_-RRB- =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT useful_JJ method_NN for_IN twodimensional_JJ shape_NN detection_NN ,_, but_CC it_PRP is_VBZ limited_JJ to_TO analytic_JJ curves_NNS ._.
+It_PRP was_VBD generalized_VBN to_TO detect_VB arbitrary_JJ shapes_NNS in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- -LRB-_-LRB- 15_CD -RRB-_-RRB- ;_: however_RB ,_, these_DT works_NNS did_VBD not_RB explicitly_RB encode_VB a_DT

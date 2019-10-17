@@ -1,0 +1,4 @@
+ncluding_VBG maximal_JJ frequent_JJ patterns_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, top-k_JJ frequent_JJ patterns_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, top-k_NN redundancy-aware_NN patterns_NNS -LRB-_-LRB- 26_CD -RRB-_-RRB- ,_, profile_NN patterns_NNS -LRB-_-LRB- 32_CD -RRB-_-RRB- ,_, δ-cover_NN compressed_VBD patterns_NNS -LRB-_-LRB- 31_CD -RRB-_-RRB- ,_, and_CC regression-based_JJ summarization_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT techniques_NNS have_VBP been_VBN developed_VBN for_IN categorical_JJ datasets_NNS where_WRB a_DT notion_NN of_IN similarity_NN between_IN the_DT items_NNS does_VBZ not_RB exist_VB ._.
+The_DT datasets_NNS we_PRP wish_VBP to_TO explore_VB with_IN ESTATE_NN are_VBP ordinal_JJ ._.
+We_PRP exploit_VBP the_DT ex_FW

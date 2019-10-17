@@ -1,0 +1,4 @@
+er_RB ,_, the_DT vast_JJ majority_NN transfers_NNS techniques_NNS developed_VBD originally_RB for_IN frequent_JJ item_NN set_NN mining_NN ._.
+Examples_NNS include_VBP MolFea_NN -LRB-_-LRB- 32_CD -RRB-_-RRB- ,_, FSG_NN -LRB-_-LRB- 34_CD -RRB-_-RRB- ,_, MoSS\/MoFa_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, gSpan_NN -LRB-_-LRB- 50_CD -RRB-_-RRB- ,_, CloseGraph_NN -LRB-_-LRB- 51_CD -RRB-_-RRB- ,_, FFSM_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ,_, and_CC Gaston_NN =_JJ -_: =[_NN 39_CD ,_, 40_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT related_JJ ,_, but_CC slightly_RB different_JJ approach_NN is_VBZ used_VBN in_IN Subdue_NNP -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, which_WDT is_VBZ geared_VBN towards_IN graph_NN compression_NN with_IN common_JJ subgraphs_NNS rather_RB than_IN frequent_JJ subgraph_JJ mining_NN ._.
+An_DT overview_NN of_IN several_JJ method_NN

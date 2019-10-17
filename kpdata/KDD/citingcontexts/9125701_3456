@@ -1,0 +1,6 @@
+rresponding_VBG sequence_NN of_IN tags_NNS by_IN using_VBG a_DT trained_JJ tagging_NN model_NN ._.
+Each_DT tag_NN corresponds_VBZ to_TO a_DT property_NN defined_VBN in_IN Figure_NNP 2_CD ,_, e.g._FW ,_, `_`` Position_NN '_'' ._.
+In_IN this_DT paper_NN ,_, we_PRP make_VBP use_NN of_IN Conditional_NNP Random_NNP Fields_NNP -LRB-_-LRB- CRFs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: as_IN the_DT tagging_VBG model_NN ._.
+Next_RB we_PRP describe_VBP the_DT steps_NNS -LRB-_-LRB- a_DT -RRB-_-RRB- and_CC -LRB-_-LRB- b_LS -RRB-_-RRB- in_IN detail_NN ._.
+-LRB-_-LRB- a_DT -RRB-_-RRB- We_PRP identify_VBP tokens_NNS in_IN the_DT Web_NN page_NN using_VBG heuristics_NNS ._.
+We_PRP define_VBP five_CD types_NNS of_IN tokens_NNS :_: `_`` standard_JJ word_NN '_'' ,_, `_`` special_JJ word_NN '_'' ,_, `_`` -LRB-_-LRB- ima_NN

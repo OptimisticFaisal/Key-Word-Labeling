@@ -1,0 +1,3 @@
+he_PRP model_NN described_VBN in_IN this_DT paper_NN ._.
+Note_VB that_IN ,_, for_IN the_DT experiments_NNS reported_VBN here_RB ,_, we_PRP will_MD only_RB be_VB making_VBG binary_JJ distinctions_NNS of_IN preferred\/non-preferred_JJ realizations_NNS ,_, although_IN the_DT approach_NN presented_VBN in_IN -LRB-_-LRB- =_JJ -_: =_JJ Joachims_NNPS ,_, 2002_CD -_: =--RRB-_NN is_VBZ formulated_VBN for_IN the_DT more_RBR general_JJ case_NN of_IN learning_VBG ordinal_JJ ranking_JJ functions_NNS ._.
+Finally_RB ,_, given_VBN a_DT linear_JJ SVM_NN ,_, we_PRP score_VBP and_CC select_JJ realizations_NNS in_IN the_DT same_JJ way_NN as_IN we_PRP did_VBD with_IN the_DT MaxEnt_NN

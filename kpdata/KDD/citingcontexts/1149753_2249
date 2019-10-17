@@ -1,0 +1,5 @@
+ngly_RB good_JJ classification_NN performance_NN ,_, especially_RB on_IN text_NN data_NNS ._.
+Plausible_JJ reasons_NNS for_IN the_DT success_NN of_IN Naive_JJ Bayes_NNS have_VBP been_VBN explored_VBN in_IN -LRB-_-LRB- 9_CD ,_, 12_CD -RRB-_-RRB- ._.
+4.2_CD Support_NN Vector_NNP Machines_NNP Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- SVMs_NNS -RRB-_-RRB- =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP inductive_JJ learning_VBG schemes_NNS for_IN solving_VBG the_DT two_CD class_NN pattern_NN recognition_NN problem_NN ._.
+Recently_RB SVMs_NNS have_VBP been_VBN shown_VBN to_TO give_VB good_JJ results_NNS for_IN text_NN categorization_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+The_DT method_NN is_VBZ defined_VBN over_IN a_DT vec_NN

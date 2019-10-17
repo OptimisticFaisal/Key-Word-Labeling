@@ -1,0 +1,4 @@
+se_FW are_VBP the_DT GPS_NNP receiver_NN and_CC a_DT 3-DOF_NN orientation_NN tracker_NN ._.
+The_DT GPS_NNP receiver_NN provides_VBZ the_DT AR_NN platform_NN with_IN real-time_JJ position_NN data_NNS in_IN the_DT global_JJ space_NN in_IN the_DT form_NN of_IN 2slongitude_NN ,_, latitude_NN ,_, and_CC altitude_NN -LRB-_-LRB- =_JJ -_: =_JJ Rogers_NNP et_FW al._FW 1999_CD -_: =_JJ -_: ,_, Roberts_NNP et_FW al._FW 2002_CD ,_, Dodson_NNP et_FW al._FW 2002_CD -RRB-_-RRB- ._.
+The_DT global_JJ position_NN of_IN the_DT virtual_JJ object_NN -LRB-_-LRB- s_NNS -RRB-_-RRB- can_MD be_VB read_VBN from_IN an_DT existing_VBG database_NN file_NN ._.
+Knowing_VBG these_DT two_CD point_NN locations_NNS ,_, the_DT relative_JJ distance_NN and_CC the_DT co_NN

@@ -1,0 +1,4 @@
+o_NN the_DT initial_JJ node_NN A_NN ,_, the_DT sequence_NN of_IN points_NNS selected_VBN is_VBZ a_DT random_JJ walk_NN with_IN restart_VB -LRB-_-LRB- RWR_NN -RRB-_-RRB- on_IN this_DT graph_NN ._.
+RWR_NN has_VBZ many_JJ applications_NNS including_VBG neighborhood_NN formulation_NN ,_, automatic_JJ image_NN captioning_NN ,_, etc._NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP are_VBP particularly_RB interested_JJ in_IN assigning_VBG relevance_NN values_NNS to_TO categorical_JJ data_NNS in_IN relational_JJ databases_NNS ._.
+We_PRP can_MD then_RB generate_VB useful_JJ ranked_VBD lists_NNS of_IN entities_NNS based_VBN on_IN this_DT relevance_NN

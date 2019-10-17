@@ -1,0 +1,5 @@
+r_NN training_NN and_CC 1\/3_CD for_IN testing_NN ._.
+Figure_NN 1_CD shows_VBZ the_DT error_NN rates_NNS -LRB-_-LRB- in_IN %_NN -RRB-_-RRB- of_IN Offset-Tree_NNP plotted_VBD against_IN the_DT error_NN rates_NNS of_IN Regression_NN -LRB-_-LRB- left_NN -RRB-_-RRB- and_CC Importance-Weighting_NN -LRB-_-LRB- right_NN -RRB-_-RRB- ._.
+Decision_NN trees_NNS -LRB-_-LRB- J48_NN in_IN Weka_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =--RRB-_NN were_VBD used_VBN as_IN a_DT base_NN binary_JJ learning_NN algorithm_NN for_IN both_DT Offset-Tree_NNP and_CC Importance-Weighting_NNP ._.
+For_IN the_DT regression_NN approach_NN ,_, we_PRP learned_VBD a_DT separate_JJ regressor_NN for_IN each_DT of_IN the_DT k_NN choices_NNS ._.
+-LRB-_-LRB- A_DT single_JJ regress_NN

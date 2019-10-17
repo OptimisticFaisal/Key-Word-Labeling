@@ -1,0 +1,5 @@
+for_IN many_JJ important_JJ applications_NNS ,_, such_JJ as_IN PCA_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- and_CC LSI_NNP -LRB-_-LRB- 23_CD ,_, 6_CD -RRB-_-RRB- ,_, and_CC has_VBZ been_VBN used_VBN as_IN a_DT compression_NN technique_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+It_PRP has_VBZ also_RB been_VBN applied_VBN as_IN correlation_NN detection_NN routine_NN for_IN streaming_NN settings_NNS =_JJ -_: =[_NN 16_CD ,_, 24_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, these_DT approaches_NNS all_RB implicitly_RB assume_VB dense_JJ matrices_NNS ._.
+For_IN sparse_JJ matrices_NNS ,_, the_DT diagonalization_NN and_CC SVD_NN are_VBP computed_VBN by_IN the_DT iterative_JJ methods_NNS such_JJ as_IN Lanczos_NN algorithm_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+Recently_RB ,_, Drine_NN

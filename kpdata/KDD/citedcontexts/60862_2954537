@@ -1,0 +1,4 @@
+of_IN making_VBG the_DT model_NN too_RB specific_JJ ._.
+The_DT smaller_JJR the_DT number_NN of_IN states_NNS the_DT higher_JJR the_DT danger_NN of_IN making_VBG one_CD model_NN indistinguishable_JJ from_IN any_DT other_JJ learned_VBN model_NN ._.
+An_DT expectationmaximisation_NN -LRB-_-LRB- EM_NN -RRB-_-RRB- algorithm_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ employed_VBN to_TO fit_VB a_DT number_NN of_IN Gaussian_JJ probability_NN distributions_NNS -LRB-_-LRB- the_DT states_NNS -RRB-_-RRB- to_TO an_DT activity_NN landscape_NN created_VBN from_IN the_DT set_NN of_IN all_DT trajectory_JJ positions_NNS in_IN the_DT Training_NN dataset_NN ._.
+This_DT learning_VBG phase_NN i_FW

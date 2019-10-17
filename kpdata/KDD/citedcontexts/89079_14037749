@@ -1,0 +1,5 @@
+ffect_VB on_IN classification_NN performance_NN in_IN our_PRP$ tests_NNS ._.
+4.2_CD Trace_NNP Classification_NN Techniques_NNS We_PRP evaluated_VBD three_CD methods_NNS for_IN trace_NN classification_NN :_: length_NN matching_NN ,_, cross_NN correlation_NN ,_, and_CC motif_NN identification_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+All_DT three_CD methods_NNS are_VBP insensitive_JJ to_TO phase_NN artifacts_NNS ,_, making_VBG them_PRP strong_JJ candidates_NNS for_IN operating_VBG on_IN unfiltered_JJ AC_NN data_NNS ._.
+Length_NN ._.
+Using_VBG page_NN load_NN time_NN as_IN an_DT identifying_VBG feature_NN is_VBZ a_DT simple_JJ approach_NN t_NN

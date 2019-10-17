@@ -1,0 +1,6 @@
+wn_FW in_FW -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, a_DT simulated-annealing_JJ approach_NN is_VBZ suggested_VBN to_TO direct_VB the_DT search_NN in_IN the_DT space_NN of_IN possible_JJ partitions_NNS of_IN the_DT input_NN points_NNS ._.
+A_DT tree_NN structure_NN with_IN su_FW cient_FW statistics_NNS is_VBZ presented_VBN in_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP is_VBZ used_VBN to_TO identify_VB outliers_NNS and_CC speed_NN computations_NNS ._.
+However_RB ,_, the_DT calculated_JJ clusters_NNS are_VBP approximations_NNS ,_, and_CC depend_VBP on_IN many_JJ parameters_NNS ._.
+Note_VB that_IN although_IN the_DT starting_VBG centers_NNS can_MD be_VB selected_VBN ar_IN

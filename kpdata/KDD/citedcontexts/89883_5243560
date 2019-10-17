@@ -1,0 +1,6 @@
+n和Han在文献_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- 中提出的算法gSpan是典型的深度优先算法_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, 频繁子_FW 图G是通过对其父亲子图G_FW ′_FW 增加一条新的频繁边而得到的_NN ._.
+与枚举所有潜在子图不同_NN ,_, gSpan方法保存一个频繁_NN 子图G的子图同构列表_NN ,_, 这样做的好处是能够减少制约效率的同构测试次数_NN ._.
+不过_NN ,_, gSpan并不能避免子图同构测_NN 试_NN ,_, 边的扩展算法复杂性也很高_NN ,_, 达到了O_NN -LRB-_-LRB- 2_CD n_NN -RRB-_-RRB- ,_, 使总的时间复杂性高达O_NN -LRB-_-LRB- 2_CD n_NN ·_NN 2_CD n_NN -RRB-_-RRB- ._.
+在文献_NN =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: 中_NN ,_, Yan等人又提出了挖_NN 掘频繁闭图集的CloseSpan算法_NN ,_, 虽然它在边的扩展与结果集的剪枝中采用了一些优化方法以减少计算时间_NN ,_, 但_NN 总体的时间复杂性依然为O_NN -LRB-_-LRB- 2_CD n_NN ·_NN 2_CD n_NN -RRB-_-RRB- ._.
+Huan和Wang在文献_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- 中提出了另一种频繁模式挖掘算法FFSM_NN ,_, 将图的描_FW 述巧妙地转化为标准邻接矩阵_FW -LRB-_-LRB- canonical_JJ adjacent_JJ matrix_NN ,_, 简称CAM_NN -RRB-_-RRB- ._.
+这样_NN ,_, FFSM不但将子图同构问题转化成了_NN 对_NN

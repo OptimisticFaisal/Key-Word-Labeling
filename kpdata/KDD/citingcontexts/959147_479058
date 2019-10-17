@@ -1,0 +1,4 @@
+hing_NN characteristics_NNS and_CC contrasts_VBZ between_IN classes_NNS of_IN data_NNS is_VBZ an_DT important_JJ objective_NN in_IN data_NN mining_NN ._.
+Such_JJ patterns_NNS are_VBP very_RB useful_JJ for_IN human_JJ experts_NNS and_CC can_MD also_RB be_VB used_VBN to_TO build_VB powerful_JJ classifiers_NNS =_JJ -_: =[_NN 18_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT new_JJ technique_NN for_IN mining_NN contrast_NN patterns_NNS in_IN high_JJ dimensional_JJ space_NN ._.
+It_PRP is_VBZ able_JJ to_TO mine_VB both_DT simple_NN contrasts_VBZ ,_, such_JJ as_IN emerging_VBG patterns_NNS -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC also_RB more_RBR complex_JJ types_NNS

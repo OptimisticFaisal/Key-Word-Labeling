@@ -1,0 +1,3 @@
+lding_VBG a_DT large_JJ potential_NN for_IN overfitting_NN ._.
+Due_JJ to_TO its_PRP$ efficiency_NN and_CC flexibility_NN ,_, PLSA_NN has_VBZ been_VBN widely_RB used_VBN in_IN many_JJ research_NN fields_NNS ,_, including_VBG collaborative_JJ filtering_VBG -LRB-_-LRB- 11_CD -RRB-_-RRB- and_CC web_NN information_NN retrieval_NN =_JJ -_: =[_NN 24_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Blei_NNP et_FW al._FW later_RB introduced_VBD a_DT Bayesian_JJ hierarchical_JJ model_NN ,_, Latent_JJ Dirichlet_NNP Allocation_NNP -LRB-_-LRB- LDA_NNP -RRB-_-RRB- -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, in_IN which_WDT each_DT document_NN has_VBZ its_PRP$ own_JJ topic_NN distribution_NN ,_, drawn_VBN from_IN a_DT conjugate_NN Dirichlet_NNP prior_RB that_IN

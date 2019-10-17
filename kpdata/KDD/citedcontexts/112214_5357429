@@ -1,0 +1,6 @@
+aking_VBG ._.
+For_IN example_NN ,_, customer_NN segmentation_NN can_MD be_VB readily_RB achieved_VBN via_IN the_DT use_NN of_IN cluster_NN models_NNS ._.
+Various_JJ methods_NNS have_VBP been_VBN proposed_VBN in_IN the_DT literature_NN ,_, including_VBG cluster_NN models_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, dependency_NN models_NNS =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, classifer_NN models_NNS -LRB-_-LRB- 19_CD -RRB-_-RRB- and_CC subspace_NN methods_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+III_NNP ._.
+LATENT_JJ CLASS_NN MODELS_NNS The_DT latent_JJ class_NN model_NN -LRB-_-LRB- LCM_NN -RRB-_-RRB- is_VBZ a_DT statistical_JJ model_NN under_IN the_DT family_NN of_IN mixture_NN models_NNS ._.
+Hofmann_NNP et_FW al._FW adopted_VBD it_PRP for_IN modeli_NNS

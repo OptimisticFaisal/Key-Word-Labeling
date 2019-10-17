@@ -1,0 +1,3 @@
+ic_JJ data_NNS ,_, e.g._FW ,_, traffic_NN or_CC routing_VBG data_NNS ,_, for_IN anomaly_JJ detection_NN ._.
+For_IN example_NN ,_, in_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, BGP_NN update_VBP messages_NNS are_VBP clustered_VBN along_IN three_CD dimensions_NNS ,_, time_NN ,_, prefix_NN ,_, and_CC views_NNS to_TO detect_VB network_NN disruptions_NNS ;_: in_IN =_JJ -_: =[_NN 14_CD ,_, 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, multivariate_JJ analysis_NN is_VBZ applied_VBN to_TO model_VB normal_JJ networktraffic_NN and_CC detect_VB deviations_NNS ;_: in_IN -LRB-_-LRB- 24_CD -RRB-_-RRB- ,_, a_DT wavelet-based_JJ clustering_NN algorithm_NN is_VBZ used_VBN to_TO detect_VB abnormal_JJ routing_VBG behavior_NN ._.
+Nevertheless_RB ,_, targe_NN

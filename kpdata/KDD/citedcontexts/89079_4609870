@@ -1,0 +1,4 @@
+we_PRP compare_VBP in_IN search_NN of_IN possible_JJ motifs_NNS ,_, anomalies_NNS or_CC trends_NNS ._.
+Our_PRP$ approach_NN is_VBZ based_VBN on_IN the_DT algorithm_NN for_IN probabilistic_JJ discovery_NN of_IN approximately_RB repeated_VBN subsequences_NNS ,_, that_IN some_DT of_IN us_PRP introduced_VBN in_IN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT algorithm_NN first_RB obtains_VBZ a_DT lower_JJR dimensional_JJ representation_NN of_IN the_DT subsequences_NNS to_TO be_VB compared_VBN ,_, and_CC then_RB uses_VBZ a_DT set_NN of_IN hash_JJ functions_NNS to_TO project_VB them_PRP into_IN different_JJ classes_NNS of_IN equivalence_JJ ._.
+The_DT ch_NN

@@ -1,0 +1,9 @@
+Large-scale_JJ matrix_NN factorization_NN with_IN distributed_VBN stochastic_JJ gradient_NN descent_NN
+impact_NN of_IN extreme_JJ biases_NNS and_CC very_RB large_JJ distances_NNS ._.
+This_DT optimization_NN problem_NN can_MD be_VB solved_VBN efficiently_RB using_VBG stochastic_JJ gradient_NN descent_NN or_CC alternating_VBG least_JJS squares_NNS methods_NNS ,_, even_RB on_IN large_JJ data_NNS sets_VBZ =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+On_IN each_DT data_NNS set_VBD we_PRP investigated_VBD ,_, we_PRP determined_VBD the_DT parameters_NNS d_NN and_CC
+lementations_NNS include_VBP Vowpal_NNP Wabbit_NNP at_IN Yahoo_NNP !_.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, and_CC in_IN large-scale_JJ learning_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ._.
+IGD_NNP has_VBZ also_RB been_VBN employed_VBN for_IN specific_JJ algorithms_NNS ,_, notably_RB Gemulla_NNP et_NNP al_NNP recently_RB used_VBD it_PRP for_IN matrix_NN factorization_NN =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+What_WP distinguishes_VBZ our_PRP$ work_NN is_VBZ that_IN we_PRP have_VBP observed_VBN that_IN IGD_NN forms_VBZ the_DT basis_NN of_IN a_DT systems_NNS abstraction_NN that_WDT is_VBZ well_RB suited_VBN for_IN in-RDBMS_NN processing_NN ._.
+As_IN a_DT result_NN ,_, our_PRP$ technical_JJ focus_NN is_VBZ on_IN optimizatio_NN

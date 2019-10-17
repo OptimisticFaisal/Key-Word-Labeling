@@ -1,0 +1,4 @@
+rs_NNS ._.
+Clustering_NN on_IN graphs_NNS ,_, often_RB called_VBN graph_NN partition_NN ,_, aims_VBZ at_IN partitioning_VBG a_DT given_VBN graph_NN into_IN a_DT set_NN of_IN subgraphs_NNS based_VBN on_IN different_JJ criteria_NNS ,_, such_JJ as_IN minimum_JJ cut_NN ,_, min-max_JJ cut_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- and_CC normalized_VBD cut_NN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Spectral_JJ clustering_NN -LRB-_-LRB- 7_CD ,_, 18_CD -RRB-_-RRB- provides_VBZ an_DT efficient_JJ method_NN to_TO get_VB graph_NN partitions_NNS which_WDT is_VBZ in_IN fact_NN an_DT NP-hard_JJ problem_NN ._.
+Rather_RB than_IN investigate_VB the_DT global_JJ structure_NN like_IN spectral_JJ clustering_NN ,_, several_JJ d_NN

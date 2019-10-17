@@ -1,0 +1,4 @@
+tting_VBG these_DT data_NNS ._.
+If_IN an_DT outlier_NN is_VBZ a_DT long_JJ segmental_JJ outlier_NN ,_, we_PRP can_MD detect_VB it_PRP by_IN comparing_VBG its_PRP$ similarity_NN with_IN the_DT neighboring_JJ nodes_NNS ,_, given_VBN the_DT nature_NN that_IN environmental_JJ data_NNS are_VBP spatially_RB correlated_VBN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Similarity_NN is_VBZ measured_VBN by_IN Dynamic_NNP Time_NNP Warping_NNP -LRB-_-LRB- DTW_NNP -RRB-_-RRB- distance_NN ,_, which_WDT can_MD capture_VB the_DT shape_NN similarity_NN in_IN the_DT elastic_JJ shifting_VBG sensing_VBG series_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+The_DT sensing_VBG series_NN are_VBP routed_VBN as_RB before_RB to_TO the_DT sink_NN ,_,

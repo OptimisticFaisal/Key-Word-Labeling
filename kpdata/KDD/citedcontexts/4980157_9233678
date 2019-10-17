@@ -1,0 +1,4 @@
+data_NNS in_IN an_DT enterprise_NN network_NN -LRB-_-LRB- 8_CD ,_, 12_CD -RRB-_-RRB- ._.
+Yamanishi_NNP et_FW al._FW model_NN syslog_NN sequences_NNS as_IN a_DT mixture_NN of_IN Hidden_NNP Markov_NNP Models_NNS -LRB-_-LRB- HMM_NN -RRB-_-RRB- ,_, in_IN order_NN to_TO find_VB messages_NNS that_WDT are_VBP likely_JJ to_TO be_VB related_JJ to_TO critical_JJ failures_NNS =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Lim_NNP et_FW al._FW analyzed_VBD a_DT large_JJ scale_NN enterprise_NN telephony_NN system_NN log_NN with_IN multiple_JJ heuristic_NN filters_NNS to_TO find_VB messages_NNS related_VBN to_TO actual_JJ failures_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+Treating_VBG a_DT log_NN as_IN a_DT single_JJ time_NN series_NN ,_, however_RB ,_, d_NN

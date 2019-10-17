@@ -1,0 +1,6 @@
+e_LS classes_NNS of_IN instances_NNS by_IN applying_VBG the_DT minimum_NN expected_VBD cost_NN criterion_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+MetaCost_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- belongs_VBZ to_TO this_DT approach_NN ._.
+MetaCost_NNP uses_VBZ bagging_VBG as_IN the_DT ensemble_NN method_NN ._.
+The_DT forth_RB approach_NN ,_, called_VBN ``_`` Weighting_NNP ''_'' =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_JJ -_: ,_, induces_VBZ costsensitivity_NN by_IN integrating_VBG the_DT instances_NNS '_POS weights_NNS directly_RB into_IN the_DT classifier_NN building_NN process_NN ._.
+It_PRP works_VBZ when_WRB the_DT base_NN learners_NNS can_MD accept_VB weights_NNS directly_RB ._.
+This_DT method_NN does_VBZ not_RB rely_VB on_IN

@@ -1,0 +1,4 @@
+t_NN assumed_VBD that_IN each_DT of_IN them_PRP are_VBP preferred_VBN over_IN all_DT of_IN the_DT other_JJ talks_NNS and_CC no_DT ordering_VBG is_VBZ imposed_VBN on_IN them_PRP ._.
+There_EX is_VBZ a_DT Support_NN Vector_NNP Machine_NNP algorithm_NN ,_, Ranking_NNP SVM_NNP ,_, that_WDT can_MD solve_VB this_DT kind_NN of_IN problem_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT basic_JJ idea_NN is_VBZ to_TO order_NN items_NNS by_IN projecting_VBG their_PRP$ feature_NN vectors_NNS onto_IN a_DT common_JJ ``_`` weight_NN vector_NN ''_'' in_IN the_DT feature_NN space_NN ._.
+Ranking_NNP SVM_NNP will_MD find_VB the_DT weight_NN vector_NN that_WDT minimizes_VBZ the_DT number_NN of_IN discorda_NN

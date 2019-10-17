@@ -1,0 +1,4 @@
+β_NN and_CC γ_NN are_VBP hyper-parameters_NNS ._.
+We_PRP used_VBD α_NN =_JJ 0.01_CD ,_, β_NN =_JJ 0.1_CD N_NN and_CC γ_NN =_JJ 0.1_CD Z_NN in_IN all_PDT the_DT experiments_NNS described_VBN in_IN Section_NN 4_CD ._.
+We_PRP estimate_VBP parameters_NNS Ψ_NN by_IN maximizing_VBG the_DT posterior_JJ p_NN -LRB-_-LRB- Ψ_NN |_NN C_NN -RRB-_-RRB- using_VBG the_DT EM_NN algorithm_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT conditional_JJ expectation_NN of_IN the_DT complete-data_JJ log_NN likelihood_NN with_IN priors_NNS is_VBZ represented_VBN as_IN follows_VBZ :_: =_JJ +_CC Q_NNP -LRB-_-LRB- Ψ_NNP |_FW ˆ_FW Ψ_NN -RRB-_-RRB- NX_NN Mn_NN X_NN ZX_NN P_NN -LRB-_-LRB- z_SYM |_CD n_NN ,_, m_NN ;_: ˆ_NNP Ψ_NNP -RRB-_-RRB- log_NN P_NN -LRB-_-LRB- z_SYM |_FW xn_FW ,_, Φ_NN -RRB-_-RRB- P_NN -LRB-_-LRB- wnm_FW |_FW z_SYM ,_, Θ_NN -RRB-_-RRB- n_NN =_JJ 1_CD m_NN =_JJ 1_CD z_SYM =_JJ 1_CD NX_NNP ZX_NNP ZX_NNP log_NN p_NN

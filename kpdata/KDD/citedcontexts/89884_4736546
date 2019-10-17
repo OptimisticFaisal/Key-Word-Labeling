@@ -1,0 +1,5 @@
+d_NN and_CC maintain_VB such_JJ statistics_NNS in_IN TreeLattice_NNP ._.
+s4_NNP .1_NNP Building_NNP the_DT Statistics_NNPS We_PRP rely_VBP on_IN the_DT lattice-based_JJ framework_NN for_IN enumerating_VBG all_DT occurred_VBD subtree_JJ patterns_NNS as_IN described_VBN in_IN Freqt_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC TreeMiner_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP build_VBP the_DT statistics_NNS in_IN a_DT level-wise_JJ fashion_NN ._.
+In_IN other_JJ words_NNS ,_, we_PRP collect_VBP the_DT occurrence_NN statistics_NNS of_IN -_: subtrees_NNS first_RB ,_, ©_NN thens-subtrees_NNS ,_, -_: subtrees_NNS ,_, and_CC so_RB on_RB ._.
+Since_IN the_DT number_NN of_IN all_DT possible_JJ s_NNS

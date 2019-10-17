@@ -1,0 +1,3 @@
+time_NN series_NN forecasting_NN ._.
+The_DT framework_NN is_VBZ implemented_VBN using_VBG Hidden_NNP Markov_NNP Model_NNP Regression_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, a_DT stochastic_JJ model_NN that_WDT has_VBZ been_VBN successfully_RB applied_VBN to_TO various_JJ domains_NNS ,_, including_VBG speech_NN recognition_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: and_CC climate_NN modeling_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+2.2_CD Hidden_NNP Markov_NNP Model_NNP Regression_NN -LRB-_-LRB- HMMR_NN -RRB-_-RRB- In_IN Hidden_NNP Markov_NNP Model_NNP Regression_NN ,_, a_DT time_NN series_NN is_VBZ assumed_VBN to_TO be_VB generated_VBN by_IN a_DT doubly_RB stochastic_JJ process_NN ,_, where_WRB the_DT response_NN vari_NN

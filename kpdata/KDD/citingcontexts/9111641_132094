@@ -1,0 +1,4 @@
+luster_NN similarity_NN and_CC maximizing_VBG the_DT intra-cluster_JJ connection_NN ._.
+Several_JJ criteria_NNS were_VBD proposed_VBN to_TO quantify_VB the_DT objective_JJ function_NN ,_, such_JJ as_IN Ratio_NNP Cut_NNP -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, Normalized_VBN Cut_NNP -LRB-_-LRB- NCut_NN -RRB-_-RRB- -LRB-_-LRB- 28_CD -RRB-_-RRB- ,_, Min-Max_NNP Cut_NNP -LRB-_-LRB- MCut_NN -RRB-_-RRB- =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Using_VBG graph_NN theory_NN terminology_NN ,_, the_DT data_NNS are_VBP modeled_VBN as_IN vertices_NNS and_CC the_DT edges_NNS are_VBP valued_VBN using_VBG the_DT similarity_NN of_IN the_DT endpoints_NNS ._.
+We_PRP denote_VBP V_NN as_IN the_DT universe_NN of_IN all_DT examples_NNS and_CC V_NN =_JJ A_NN ∪_NN B_NN where_WRB -LCB-_-LRB- A_NN ,_, B_NN

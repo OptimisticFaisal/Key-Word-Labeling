@@ -1,0 +1,3 @@
+ules_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, each_DT rule_NN has_VBZ a_DT confidence_NN value_NN and_CC a_DT support_NN value_NN --_: the_DT confidence_NN value_NN estimates_NNS predictiveness_NN ,_, while_IN the_DT support_NN value_NN approximates_VBZ belief_NN ._.
+Many_JJ learning_NN algorithms_NNS ,_, including_VBG RIPPER_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: and_CC CN2_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, use_NN predictiveness_NN to_TO formulate_VB rules_NNS during_IN the_DT learning_NN -LRB-_-LRB- training_NN -RRB-_-RRB- process_NN and\/or_CC provide_VB confidence_NN values_NNS for_IN their_PRP$ predictions_NNS during_IN the_DT prediction_NN -LRB-_-LRB- test_NN -RRB-_-RRB- process_NN ._.
+Ensemble_NN methods_NNS

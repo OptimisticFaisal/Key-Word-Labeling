@@ -1,0 +1,3 @@
+nd_NN allows_VBZ the_DT removal_NN of_IN redundant_JJ data_NNS ._.
+This_DT dependence_NN on_IN a_DT small_JJ subset_NN of_IN a_DT given_VBN dataset_NN ,_, which_WDT often_RB leads_VBZ to_TO an_DT improved_JJ classifier_NN ,_, can_MD be_VB utilized_VBN in_IN an_DT incremental_JJ approach_NN such_JJ as_IN chunking_NN =_JJ -_: =[_NN 3_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: where_WRB a_DT small_JJ fraction_NN of_IN the_DT data_NN is_VBZ maintained_VBN before_IN merging_VBG and_CC processing_VBG it_PRP with_IN new_JJ incoming_JJ data_NNS ._.
+For_IN the_DT sake_NN of_IN simplicity_NN and_CC getting_VBG basic_JJ ideas_NNS across_IN we_PRP shall_MD confine_VB ourselves_PRP here_RB to_TO

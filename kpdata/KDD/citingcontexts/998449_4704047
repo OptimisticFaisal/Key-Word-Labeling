@@ -1,0 +1,7 @@
+y_NN cluster_NN in_IN any_DT class_NN ._.
+This_DT is_VBZ similar_JJ to_TO a_DT K-nearest_JJ neighbor_NN algorithm_NN ._.
+This_DT distance_NN is_VBZ then_RB converted_VBN into_IN a_DT confidence_NN score_NN and_CC outputted_VBD as_IN a_DT predicted_VBN score_NN ._.
+For_IN more_JJR details_NNS please_VBP refer_VB to_TO =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT end_NN result_NN is_VBZ a_DT measure_NN of_IN how_WRB unusual_JJ or_CC familiar_JJ a_DT URL_NN may_MD be_VB in_IN an_DT email_JJ message_NN given_VBN the_DT user_NN 's_POS prior_JJ history_NN of_IN emails_NNS with_IN embedded_JJ URL_NN 's_POS ._.
+5_CD ._.
+Combining_VBG Classifiers_NNS The_DT goal_NN of_IN Model_NNP combi_NNS

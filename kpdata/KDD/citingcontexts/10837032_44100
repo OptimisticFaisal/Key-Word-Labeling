@@ -1,0 +1,4 @@
+or_CC clipping_JJ predictions_NNS ._.
+The_DT underlying_JJ idea_NN of_IN SVD_NNP is_VBZ to_TO represent_VB features_NNS in_IN a_DT transformed_VBN space_NN where_WRB the_DT individual_JJ features_NNS are_VBP uncorrelated_JJ ._.
+The_DT SVD-based_JJ approach_NN for_IN dimensionality_NN reduction_NN ,_, =_JJ -_: =[_NN 3_CD ,_, 17_CD -RRB-_-RRB- -_: =_SYM -_: condenses_VBZ most_JJS of_IN the_DT information_NN in_IN a_DT dataset_NN to_TO a_DT few_JJ dimensions_NNS determined_VBN by_IN the_DT top_JJ eigenvectors_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+This_DT approach_NN has_VBZ two_CD drawbacks_NNS ;_: it_PRP is_VBZ computationally_RB expensive_JJ and_CC does_VBZ not_RB perform_VB well_RB

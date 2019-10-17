@@ -1,0 +1,5 @@
+introduced_VBN in_IN some_DT document_NN spread_VBN through_IN the_DT corpus_NN over_IN time_NN ._.
+At_IN first_JJ glance_NN ,_, one_CD might_NN think_VBP that_IN similarity_NN ,_, as_IN captured_VBN by_IN information_NN retrieval_NN metrics_NNS like_IN TFIDF_NN cosine_NN similarity_NN -LRB-_-LRB- see_VB e.g._FW =_SYM -_: =[_NN 32_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, provides_VBZ the_DT full_JJ picture_NN of_IN influence_NN ._.
+However_RB ,_, this_DT is_VBZ not_RB the_DT case_NN ._.
+On_IN the_DT one_CD hand_NN ,_, similarity_NN can_MD occur_VB without_IN influence_NN ._.
+First_RB ,_, if_IN a_DT document_NN d_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- introduces_VBZ an_DT idea_NN that_WDT is_VBZ picked_VBN up_RP in_IN do_VB

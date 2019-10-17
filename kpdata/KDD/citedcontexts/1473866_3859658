@@ -1,0 +1,3 @@
+are_VBP compared_VBN using_VBG various_JJ similarity_NN functions_NNS applied_VBN to_TO selected_VBN record_NN attributes_NNS ._.
+These_DT functions_NNS can_MD be_VB as_RB simple_JJ as_IN an_DT exact_JJ string_NN or_CC a_DT numerical_JJ comparison_NN ,_, can_MD take_VB variations_NNS into_IN account_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, or_CC they_PRP can_MD be_VB specialised_VBN for_IN attributes_NNS that_WDT contain_VBP dates_NNS ,_, times_NNS ,_, or_CC even_RB geographic_JJ locations_NNS ._.
+Each_DT comparison_NN returns_VBZ a_DT numerical_JJ similarity_NN value_NN -LRB-_-LRB- called_VBN matching_NN weight_NN -RRB-_-RRB- ,_, often_RB in_IN normalised_JJ

@@ -1,0 +1,3 @@
+rences_NNS to_TO improve_VB 622sQuery-time_NNP Entity_NNP Resolution_NNP resolution_NN accuracy_NN -LRB-_-LRB- Bhattacharya_NNP &_CC Getoor_NNP ,_, 2004_CD ;_: Singla_NNP &_CC Domingos_NNP ,_, 2004_CD ;_: Dong_NNP ,_, Halevy_NNP ,_, &_CC Madhavan_NNP ,_, 2005_CD ;_: Ananthakrishna_NNP ,_, Chaudhuri_NNP ,_, &_CC Ganti_NNP ,_, 2002_CD ;_: =_JJ -_: =_JJ Kalashnikov_NNP ,_, Mehrotra_NNP ,_, &_CC Chen_NNP ,_, 2005_CD -_: =--RRB-_NN ._.
+This_DT improvement_NN is_VBZ made_VBN possible_JJ by_IN resolving_VBG related_JJ references_NNS or_CC records_NNS jointly_RB ,_, rather_RB than_IN independently_RB ._.
+Intuitively_RB ,_, this_DT corresponds_VBZ to_TO the_DT notion_NN that_IN figuring_VBG out_RP that_IN two_CD records_NNS refer_VBP

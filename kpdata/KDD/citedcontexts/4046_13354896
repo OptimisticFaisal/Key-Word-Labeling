@@ -1,0 +1,3 @@
+n._NN Although_IN the_DT sigmoid_NN only_RB has_VBZ two_CD degrees_NNS of_IN freedom_NN ,_, one_PRP can_MD see_VB more_RBR flexible_JJ schemes_NNS are_VBP unlikely_JJ to_TO improve_VB calibration_NN much_RB ._.
+This_DT may_MD be_VB why_WRB no_DT real_JJ benefit_NN was_VBD seen_VBN using_VBG isotonic_JJ regression_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: There_EX is_VBZ one_CD data_NN set_NN ,_, LetterK_NN ,_, that_WDT shows_VBZ a_DT large_JJ difference_NN in_IN expected_VBN cost_NN ._.
+This_DT is_VBZ an_DT extremely_RB imbalanced_JJ domain_NN and_CC by_IN training_VBG the_DT classifier_NN on_IN a_DT balanced_JJ data_NN set_NN ,_, the_DT black_JJ curves_NNS in_IN Figur_NNP

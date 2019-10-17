@@ -1,0 +1,5 @@
+le_FW ._.
+Expert_NN classifiers_NNS are_VBP considered_VBN to_TO be_VB concepts_NNS within_IN the_DT concept_NN drift_NN framework_NN ._.
+The_DT experts_NNS are_VBP hence_RB trained_VBN only_RB on_IN instances_NNS of_IN play_NN that_WDT reside_VBP within_IN one_CD of_IN the_DT sliding_VBG windows_NNS ._.
+As_IN with_IN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT set_NN of_IN classification_NN experts_NNS are_VBP kept_VBN for_IN each_DT window_NN and_CC experts_NNS are_VBP ranked_VBN according_VBG to_TO their_PRP$ ability_NN to_TO correctly_RB classify_VB new_JJ match_NN instances_NNS as_IN they_PRP are_VBP added_VBN to_TO a_DT window_NN ._.
+Final_JJ classificati_NNS

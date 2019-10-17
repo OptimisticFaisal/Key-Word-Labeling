@@ -1,0 +1,3 @@
+itemset_NN P_NN appears_VBZ frequently_RB ,_, then_RB all_DT of_IN its_PRP$ sub-sets_JJ P_NN ′_FW ⊂_FW P_NN will_MD also_RB appear_VB frequently_RB ,_, i.e._FW frq_FW -LRB-_-LRB- P_NN -RRB-_-RRB- -RRB-_-RRB- θ_FW ⇒_FW frq_NN -LRB-_-LRB- P_NN ′_NN -RRB-_-RRB- -RRB-_-RRB- θ_NN ._.
+To_TO eliminate_VB this_DT redundancy_NN ,_, we_PRP tend_VBP to_TO discover_VB closed_JJ frequent_JJ itemsets_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT number_NN of_IN closed_JJ frequent_JJ itemsets_NNS can_MD be_VB much_RB less_JJR than_IN the_DT frequent_JJ itemsets_NNS ,_, and_CC they_PRP compress_VBP information_NN of_IN frequent_JJ itemsets_NNS in_IN a_DT lossless_JJ form_NN ,_, i.e._FW the_DT full_JJ list_NN of_IN frequent_JJ itemsets_NNS F_NN =_JJ

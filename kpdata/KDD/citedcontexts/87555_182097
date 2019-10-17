@@ -1,0 +1,4 @@
+learning_VBG problem_NN ,_, we_PRP must_MD allow_VB different_JJ significance_NN levels_NNS to_TO be_VB specified_VBN for_IN each_DT possible_JJ classification_NN of_IN an_DT object_NN because_IN the_DT penalty_NN of_IN misclassification_NN is_VBZ not_RB the_DT same_JJ among_IN all_DT classes_NNS =_JJ -_: =[_NN 27,28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT problem_NN can_MD be_VB viewed_VBN as_IN a_DT conditional_JJ inference_NN ._.
+We_PRP extend_VBP our_PRP$ method_NN to_TO label_VB conditional_JJ CP_NN to_TO address_VB it_PRP ,_, which_WDT can_MD also_RB be_VB seen_VBN as_IN one_CD version_NN of_IN Mondrian_JJ CP_NN -LRB-_-LRB- MCP_NN -RRB-_-RRB- -LRB-_-LRB- 3,29_CD -RRB-_-RRB- ._.
+An_DT important_JJ asp_NN

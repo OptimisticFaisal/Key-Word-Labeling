@@ -1,0 +1,4 @@
+ferent_JJ from_IN graph_NN to_TO graph_NN ._.
+Therefore_RB ,_, those_DT frequent_JJ graph_NN pattern_NN mining_NN algorithms_NNS can_MD not_RB be_VB extended_VBN to_TO mine_VB cross-graph_JJ quasi-cliques_NNS ._.
+In_IN addition_NN to_TO frequent_JJ graph_NN pattern_NN mining_NN ,_, Palmer_NNP et_FW al._FW =_SYM -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: developed_VBD a_DT fast_JJ and_CC scalable_JJ tool_NN ANF_NN to_TO answer_VB various_JJ complex_JJ analytical_JJ queries_NNS from_IN massive_JJ graphs_NNS that_WDT may_MD not_RB be_VB able_JJ to_TO fit_VB into_IN main_JJ memory_NN ._.
+Faloutsos_NNP et_FW al._FW -LRB-_-LRB- 13_CD -RRB-_-RRB- investigated_VBD the_DT problem_NN of_IN

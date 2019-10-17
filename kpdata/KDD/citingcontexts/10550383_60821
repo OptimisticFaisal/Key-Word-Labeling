@@ -1,0 +1,5 @@
+clustering_NN results_NNS ?_.
+-LRB-_-LRB- Section_NN 5.5_CD -RRB-_-RRB- 5.1_CD Constrained_VBN Clustering_NN In_IN constrained_VBN clustering_NN ,_, we_PRP are_VBP given_VBN a_DT single_JJ dataset_NN D_NN with_IN instance_NN level_NN constraints_NNS such_JJ as_IN must-link_JJ and_CC mustnot-link_JJ constraints_NNS =_JJ -_: =[_NN 7_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP can_MD model_VB such_JJ problems_NNS in_IN our_PRP$ relational_JJ context_NN as_IN shown_VBN in_IN Fig._NNP 4_CD -LRB-_-LRB- a_DT -RRB-_-RRB- ,_, -LRB-_-LRB- b_NN -RRB-_-RRB- ,_, and_CC -LRB-_-LRB- c_LS -RRB-_-RRB- ._.
+We_PRP create_VBP two_CD copies_NNS of_IN D_NN into_IN D1_NN and_CC D2_NN ._.
+In_IN the_DT case_NN with_IN only_JJ must-link_NN -LRB-_-LRB- ML_NN -RRB-_-RRB- constraints_NNS -LRB-_-LRB- Fig._NN 4_CD -LRB-_-LRB- a_DT -RRB-_-RRB- -RRB-_-RRB- ,_, su_FW

@@ -1,0 +1,4 @@
+Sampling_NN :_: The_DT ability_NN to_TO actively_RB select_VB the_DT most_RBS useful_JJ training_NN samples_NNS is_VBZ an_DT important_JJ aspect_NN of_IN building_VBG an_DT efficient_JJ classifier_NN ._.
+Boosting_VBG and_CC bagging_VBG are_VBP being_VBG increasingly_RB used_VBN for_IN this_DT purpose_NN =_JJ -_: =[_NN 5,10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Boosting_VBG uses_VBZ all_DT instances_NNS of_IN the_DT datasets_NNS at_IN each_DT iteration_NN ,_, but_CC associates_VBZ a_DT weight_NN for_IN each_DT sample_NN ._.
+Bagging_NNP ,_, on_IN the_DT other_JJ hand_NN ,_, takes_VBZ the_DT available_JJ training_NN samples_NNS and_CC generates_VBZ a_DT new_JJ sample_NN se_FW

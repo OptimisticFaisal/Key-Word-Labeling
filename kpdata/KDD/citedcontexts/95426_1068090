@@ -1,0 +1,4 @@
+iques_NNS save_VBP the_DT expensive_JJ CPU_NNP time_NN by_IN performing_VBG minimal_JJ changes_NNS in_IN the_DT structure_NN of_IN the_DT current_JJ classification_NN model_NN ._.
+We_PRP also_RB compare_VBP the_DT performance_NN of_IN our_PRP$ incremental_JJ methods_NNS to_TO the_DT CVFDT_NNP algorithm_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT is_VBZ designed_VBN at_IN mining_NN non-stationary_JJ data_NN streams_NNS as_RB well_RB ._.
+2_CD ._.
+Related_JJ work_NN In_IN the_DT case_NN of_IN non-stationary_JJ data_NNS streams_NNS ,_, the_DT optimal_JJ situation_NN is_VBZ to_TO have_VB KDD_NNP systems_NNS that_WDT operate_VBP continuously_RB ,_, c_NN

@@ -1,0 +1,4 @@
+etermine_VB the_DT target_NN set_NN of_IN metadata_NN records_NNS to_TO locate_VB resources_NNS for_IN ._.
+In_IN our_PRP$ bootstrapping_NN process_NN ,_, we_PRP merge_VBP the_DT DBLP_NN metadata_NN with_IN the_DT CiteSeer_FW metadata_FW -LRB-_-LRB- lines_NNS 5-12_CD -RRB-_-RRB- in_IN a_DT noisy_JJ ,_, approximate_JJ text_NN join_VB =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Each_DT CiteSeer_NNP and_CC DBLP_NNP record_NN consists_VBZ of_IN fielded_VBN data_NNS ,_, of_IN which_WDT only_RB title_NN ,_, author_NN and_CC year_NN are_VBP used_VBN to_TO determine_VB record_NN linkage_NN ._.
+Normally_RB ,_, record_NN linkage_NN requires_VBZ all_DT O_NN -LRB-_-LRB- nm_NN -RRB-_-RRB- pairs_NNS of_IN records_NNS to_TO be_VB

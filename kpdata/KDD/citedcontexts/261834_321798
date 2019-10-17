@@ -1,0 +1,4 @@
+,_, by_IN definition_NN ,_, interesting_JJ ._.
+In_IN data_NN mining_NN research_NN ,_, most_RBS current_JJ approaches_NNS for_IN dealing_VBG with_IN the_DT issue_NN of_IN finding_VBG interesting_JJ rules_NNS employ_VBP a_DT post-analysis_JJ module_NN at_IN the_DT back-end_JJ of_IN a_DT mining_NN system_NN =_JJ -_: =[_NN 8_CD ,_, 9_CD ,_, 10_CD ,_, 11_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+This_DT module_NN uses_VBZ the_DT user_NN 's_POS input_NN knowledge_NN to_TO help_VB him\/her_NN identify_VB interesting_JJ rules_NNS ._.
+However_RB ,_, post-analysis_NN can_MD not_RB find_VB the_DT type_NN of_IN interesting_JJ rules_NNS studied_VBN in_IN this_DT paper_NN because_IN they_PRP are_VBP not_RB in_IN

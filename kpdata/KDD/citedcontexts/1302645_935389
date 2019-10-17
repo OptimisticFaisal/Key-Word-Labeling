@@ -1,0 +1,3 @@
+ustering_VBG Overview_NNP Clustering_NNP is_VBZ a_DT natural_JJ grouping_NN or_CC unsupervised_JJ classification_NN of_IN data_NNS into_IN groups_NNS -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Most_JJS clustering_NN algorithms_NNS use_VBP one_CD or_CC a_DT combination_NN of_IN the_DT following_JJ techniques_NNS :_: graph-based_JJ =_JJ -_: =[_NN 5_CD ,_, 9_CD ,_, 10_CD ,_, 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, density-based_JJ -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, model-based_JJ methods_NNS using_VBG either_CC a_DT statistical_JJ approach_NN or_CC a_DT neural_JJ network_NN approach_NN ,_, or_CC optimization_NN of_IN a_DT clustering_NN criterion_NN function_NN ._.
+Constructing_VBG cluster_NN boundaries_NNS is_VBZ anothe_NN

@@ -1,0 +1,5 @@
+for_IN its_PRP$ resampling_NN scheme_NN ._.
+Unlike_IN MetaCost_NNP ,_, it_PRP requires_VBZ repeating_VBG all_DT runs_VBZ every_DT time_NN the_DT cost_NN matrix_NN changes_NNS ._.
+It_PRP has_VBZ only_RB been_VBN tested_VBN in_IN a_DT single_JJ domain_NN -LRB-_-LRB- credit-card_NN fraud_NN detection_NN -RRB-_-RRB- ._.
+Ting_NN and_CC Zheng_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP proposed_VBN a_DT cost-sensitive_JJ variant_NN of_IN boosting_VBG -LRB-_-LRB- an_DT ensemble_NN method_NN -RRB-_-RRB- for_IN decision_NN trees_NNS ._.
+It_PRP is_VBZ significant_JJ here_RB because_IN it_PRP should_MD be_VB easily_RB adaptable_JJ to_TO other_JJ error-based_JJ learners_NNS ,_, and_CC like_IN MetaCo_NN

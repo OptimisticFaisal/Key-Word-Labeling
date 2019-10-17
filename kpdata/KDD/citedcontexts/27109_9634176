@@ -1,0 +1,4 @@
+at_IN the_DT low-rank_JJ matrix_NN representation_NN remains_VBZ accurate_JJ while_IN F_NN gives_VBZ row_NN clusters_NNS and_CC G_NN gives_VBZ column_NN clusters_NNS ._.
+This_DT form_NN gives_VBZ a_DT good_JJ framework_NN for_IN simultaneously_RB clustering_VBG the_DT rows_NNS and_CC columns_NNS of_IN X_NN =_JJ -_: =[_NN 6_CD ,_, 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT important_JJ special_JJ case_NN is_VBZ that_IN the_DT input_NN X_NN contains_VBZ a_DT matrix_NN of_IN pairwise_JJ similarities_NNS :_: X_NN =_JJ X_NN T_NN =_JJ W_NN ._.
+In_IN this_DT case_NN ,_, F_NN =_JJ G_NN =_JJ H_NN ,_, S_NN =_JJ I._NNP This_NNP reduces_VBZ to_TO the_DT SNMF_NN :_: min_NN H_NN ≥_NN 0_CD ‖_NN X_NN −_NN HHT_NN ‖_NN 2_CD ,_, s.t._NN H_NN T_NN H_NN =_JJ

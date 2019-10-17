@@ -1,0 +1,4 @@
+pplications_NNS such_JJ as_IN pattern_NN discovery_NN in_IN chemical_JJ informatics_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- and_CC bioinformatics_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, efficient_JJ stor1_NN age_NN of_IN semi-structured_JJ databases_NNS -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, efficient_JJ indexing_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, and_CC web_NN information_NN management_NN =_JJ -_: =[_NN 22_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD important_JJ issue_NN in_IN efficient_JJ graph_NN databases_NNS mining_NN is_VBZ handling_VBG the_DT huge_JJ number_NN of_IN recurring_VBG patterns_NNS ._.
+The_DT phenomenon_NN is_VBZ well_RB understood_VBN in_IN mining_NN ``_`` long_JJ ''_'' frequent_JJ itemsets_NNS ._.
+Given_VBN a_DT frequent_JJ item_NN

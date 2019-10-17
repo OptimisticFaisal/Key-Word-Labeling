@@ -1,0 +1,4 @@
+lysis_NN Our_PRP$ model_NN is_VBZ applied_VBN to_TO the_DT task_NN of_IN review_NN analysis_NN ._.
+Traditionally_RB ,_, the_DT task_NN of_IN identifying_VBG the_DT properties_NNS of_IN a_DT product_NN from_IN review_NN texts_NNS has_VBZ been_VBN cast_VBN as_IN an_DT extraction_NN problem_NN -LRB-_-LRB- Hu_NNP &_CC Liu_NNP ,_, 2004_CD ;_: =_JJ -_: =_JJ Liu_NNP ,_, Hu_NNP ,_, &_CC Cheng_NNP ,_, 2005_CD -_: =_JJ -_: ;_: Popescu_NNP ,_, Nguyen_NNP ,_, &_CC Etzioni_NNP ,_, 2005_CD -RRB-_-RRB- ._.
+For_IN example_NN ,_, Hu_NNP and_CC Liu_NNP -LRB-_-LRB- 2004_CD -RRB-_-RRB- employ_VBP association_NN mining_NN to_TO identify_VB noun_NN phrases_NNS that_WDT express_VBP key_JJ portions_NNS of_IN product_NN reviews_NNS ._.
+The_DT polarity_NN of_IN the_DT extracted_VBN phras_NNS

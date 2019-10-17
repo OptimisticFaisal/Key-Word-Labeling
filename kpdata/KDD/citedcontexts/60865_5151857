@@ -1,0 +1,4 @@
+search_NN area_NN in_IN machine_NN learning_NN community_NN ._.
+Several_JJ ranking_JJ algorithms_NNS have_VBP been_VBN proposed_VBN in_IN recent_JJ years_NNS including_VBG ordinal_JJ regression_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, perception_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ,_, RankNet_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, RankBoost_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- and_CC Ranking_NN SVM_NN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Some_DT has_VBZ been_VBN successfully_RB used_VBN in_IN information_NN retrieval_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+Considering_VBG that_IN SVM_NN classifier_NN is_VBZ used_VBN in_IN the_DT classification-based_JJ summarization_NN ,_, we_PRP choose_VBP Ranking_NNP SVM_NNP as_IN the_DT ranking_JJ algorithm_NN :_: 1_CD

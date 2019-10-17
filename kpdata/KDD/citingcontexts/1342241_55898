@@ -1,0 +1,6 @@
+ing_VBG some_DT running_VBG information_NN about_IN the_DT scanned_VBN rules_NNS ._.
+It_PRP is_VBZ similar_JJ to_TO that_DT in_IN relational_JJ databases_NNS ._.
+The_DT GROUP_NNP BY_NN operation_NN can_MD be_VB implemented_VBN using_VBG sorting_NN or_CC hashing_VBG as_IN in_IN relational_JJ databases_NNS -LRB-_-LRB- see_VB =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: for_IN more_JJR details_NNS -RRB-_-RRB- ._.
+5.3_CD ._.
+Queries_NNS Involving_VBG Multiple_JJ Variables_NNS As_IN was_VBD pointed_VBN out_RP in_IN Section_NNP 4_CD ,_, queries_NNS in_IN Rule-QL_NN can_MD involve_VB multiple_JJ rulebases_NNS and_CC multiple_JJ variables_NNS defined_VBN over_IN these_DT rulebases_NNS ._.
+Th_NN

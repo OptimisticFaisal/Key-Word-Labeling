@@ -1,0 +1,4 @@
+ickly_RB using_VBG the_DT Apriori_NNP property_NN ._.
+On_IN the_DT application_NN side_NN ,_, max-patterns_NNS are_VBP used_VBN in_IN a_DT few_JJ interesting_JJ and_CC challenging_JJ data_NNS mining_NN tasks_NNS ._.
+For_IN example_NN ,_, using_VBG max-patterns_NNS ,_, we_PRP can_MD find_VB emerging_VBG patterns_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT are_VBP patterns_NNS frequent_JJ in_IN the_DT positive_JJ samples_NNS and_CC infrequent_JJ in_IN the_DT negative_JJ samples_NNS ._.
+Emerging_VBG patterns_NNS can_MD be_VB used_VBN to_TO Fig._NNP 1_CD A_NN transaction_NN database_NN 123PADS_NN :_: a_DT simple_NN yet_RB effective_JJ pattern-awa_NN

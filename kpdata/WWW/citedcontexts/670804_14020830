@@ -1,0 +1,4 @@
+s_NN ,_, projects_NNS etc_NN and_CC edges_NNS represented_VBD explicit_JJ or_CC probabilistic_JJ relationships_NNS obtained_VBN by_IN parsing_VBG unstructured_JJ text_NN ._.
+A_DT proximity-based_JJ query_NN language_NN supported_VBD queries_NNS on_IN the_DT graph_NN ._.
+In_IN follow-up_JJ work_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, they_PRP used_VBD a_DT PageRank-like_JJ method_NN to_TO improve_VB the_DT query_JJ execution_NN performance_NN ._.
+Minkov_NNP and_CC Cohen_NNP -LRB-_-LRB- 22_CD -RRB-_-RRB- also_RB used_VBD ER_NN graphs_NNS to_TO model_VB personal_JJ information_NN ,_, and_CC used_VBD finite_JJ graph_NN walks_VBZ to_TO induce_VB a_DT measure_NN

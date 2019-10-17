@@ -1,0 +1,6 @@
+s_NN results_NNS are_VBP understandable_JJ ._.
+However_RB ,_, a_DT lot_NN of_IN data_NN mining_NN methods_NNS have_VBP not_RB achieved_VBN this_DT goal_NN yet_RB ._.
+For_IN example_NN ,_, it_PRP is_VBZ difficult_JJ to_TO interpret_VB results_NNS from_IN neural_JJ networks_NNS ._.
+Decision_NN tree_NN ,_, typified_VBN by_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ,_, can_MD be_VB extended_VBN to_TO rules_NNS -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, and_CC their_PRP$ results_NNS are_VBP more_RBR straightforward_JJ to_TO interpret_VB ._.
+They_PRP have_VBP been_VBN used_VBN to_TO solve_VB classification_NN problems_NNS in_IN medical_JJ data_NN analysis_NN -LRB-_-LRB- 10_CD ,_, 19_CD -RRB-_-RRB- ._.
+However_RB ,_, C4_NN .5_NN does_VBZ not_RB

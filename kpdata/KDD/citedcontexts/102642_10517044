@@ -1,0 +1,5 @@
+y._VB The_DT algorithm_NN maintains_VBZ clusters_NNS of_IN high_JJ quality_NN in_IN presence_NN of_IN insertion_NN and_CC deletion_NN -LRB-_-LRB- update_VB -RRB-_-RRB- of_IN edges_NNS ._.
+The_DT algorithm_NN is_VBZ motivated_VBN by_IN the_DT minimum-cut_JJ tree_NN based_VBN partitioning_VBG algorithm_NN of_IN -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP takes_VBZ O_NN -LRB-_-LRB- k_NN 3_CD -RRB-_-RRB- time_NN for_IN each_DT update_VBP processing_NN ,_, where_WRB k_NN is_VBZ the_DT maximum_JJ size_NN of_IN any_DT cluster_NN ._.
+This_DT is_VBZ the_DT worst_JJS case_NN time_NN complexity_NN ,_, and_CC in_IN general_JJ update_VBP time_NN taken_VBN is_VBZ much_RB less_JJR ._.
+The_DT clusters_NNS sati_VBP

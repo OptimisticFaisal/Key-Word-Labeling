@@ -1,0 +1,5 @@
+the_DT shortest_JJS dependency_NN path_NN from_IN the_DT Wikipedia_NNP sentence_NN with_IN the_DT pair_NN of_IN entity_NN words_NNS ,_, as_IN shown_VBN in_IN the_DT left_JJ side_NN of_IN Fig._NNP 1_CD ._.
+2_CD ._.
+Dependency_NN pattern_NN generation_NN ._.
+We_PRP use_VBP a_DT frequent_JJ tree-mining_JJ algorithm_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: to_TO generate_VB sub-paths_NNS as_IN dependency_NN patterns_NNS from_IN the_DT shortest_JJS dependency_NN path_NN ,_, as_IN shown_VBN in_IN the_DT right_JJ side_NN of_IN Fig._NNP 1_CD ._.
+3.3_CD Feature_NN Clustering_NN A_NN semantic_JJ relation_NN can_MD be_VB expressed_VBN using_VBG more_JJR than_IN one_CD p_NN

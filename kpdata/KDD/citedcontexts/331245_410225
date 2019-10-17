@@ -1,0 +1,4 @@
+iques_NNS developed_VBD originally_RB for_IN frequent_JJ item_NN set_NN mining_NN ._.
+1_CD Examples_NNS of_IN algorithms_NNS developed_VBN in_IN this_DT way_NN include_VBP MolFea_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- ,_, FSG_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, MoSS\/MoFa_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ,_, gSpan_NN -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, CloseGraph_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, FFSM_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, and_CC Gaston_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT related_JJ approach_NN is_VBZ used_VBN in_IN Subdue_NNP -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+The_DT basic_JJ idea_NN of_IN these_DT approaches_NNS is_VBZ to_TO grow_VB subgraphs_NNS into_IN the_DT graphs_NNS of_IN the_DT database_NN ,_, adding_VBG an_DT edge_NN and_CC maybe_RB a_DT node_NN in_IN each_DT step_NN ,_, counting_VBG the_DT number_NN o_NN

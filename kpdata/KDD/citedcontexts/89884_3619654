@@ -1,0 +1,7 @@
+erimentation_NN ._.
+Keywords_NNS :_: XML_NN ,_, data_NN mining_NN ._.
+1_CD ._.
+INTRODUCTION_NN Recently_RB ,_, there_EX has_VBZ been_VBN increasing_VBG research_NN efforts_NNS to_TO mine_VB XML_NN data_NNS ._.
+Existing_VBG work_NN on_IN mining_NN XML_NN data_NNS includes_VBZ frequent_JJ substructure_NN mining_NN =_JJ -_: =[_NN 6_CD ,_, 7_CD ,_, 9_CD ,_, 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, classification_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- and_CC association_NN rule_NN mining_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- ._.
+Among_IN these_DT ,_, the_DT frequent_JJ substructure_NN mining_NN is_VBZ the_DT most_RBS well_RB researched_VBN topic_NN ._.
+The_DT basic_JJ idea_NN is_VBZ to_TO extract_VB substructures_NNS -LRB-_-LRB- subtrees_NNS or_CC subgraph_NN

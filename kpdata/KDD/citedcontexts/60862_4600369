@@ -1,0 +1,10 @@
+n._NN ''_'' ◆_NNP Unhelpful_NNP given_VBN history_NN ._.
+-LRB-_-LRB- Rossi_NNP et_FW al._FW ,_, 1996_CD -RRB-_-RRB- ◆_CD Not_RB available_JJ to_TO most_RBS online_JJ retailers_NNS ._.
+■_NNP Model_NNP can_MD only_RB be_VB fit_VBN with_IN MCMC_NN ._.
+■_NNP Fraction_NNP of_IN missing_VBG information_NN is_VBZ very_RB high_JJ ._.
+-LRB-_-LRB- Slow_NNP MCMC_NNP mixing_VBG -RRB-_-RRB- 2_CD ._.
+-LRB-_-LRB- =_JJ -_: =_JJ Cadez_NNP ,_, Gaffney_NNP ,_, and_CC Smyth_NNP ,_, 2000_CD -_: =--RRB-_FW ■_FW Finite_FW mixture_NN of_IN Markov_NNP chains_NNS ._.
+■_CD Not_RB flexible_JJ enough_RB ._.
+■_NN Requires_VBZ many_JJ ``_`` clusters_NNS ''_'' in_IN the_DT mixture_NN ._.
+■_NN Fails_VBZ to_TO model_VB repeat_NN visits_NNS by_IN same_JJ customer_NN ._.
+9_CD \/_: 38sOverview_NN Introduction_NN Model_NNP The_NNP Model_NNP Aug_NNP

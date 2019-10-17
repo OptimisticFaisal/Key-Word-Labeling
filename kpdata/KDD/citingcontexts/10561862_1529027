@@ -1,0 +1,4 @@
+in_IN each_DT of_IN these_DT areas_NNS ._.
+5.1_CD Memory_NN Leak_NN Detection_NN Tools_NNS One_CD of_IN the_DT first_JJ systems_NNS to_TO debug_VB leaks_NNS exploited_VBD visualization_NN ,_, allowing_VBG a_DT user_NN to_TO interactively_RB focus_VB on_IN suspected_JJ problem_NN areas_NNS in_IN the_DT heap_NN =_JJ -_: =[_NN 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_RBS recent_JJ existing_VBG leak_NN detection_NN tools_NNS use_VBP temporal_JJ information_NN ,_, including_VBG object_NN age_NN and_CC staleness_NN ,_, that_WDT is_VBZ obtained_VBN by_IN monitoring_VBG a_DT program_NN as_IN it_PRP runs_VBZ ._.
+For_IN instance_NN ,_, IBM_NNP 's_POS Leakbot_NN -LRB-_-LRB- 21_CD --_: 23_CD -RRB-_-RRB- acqui_NNS

@@ -1,0 +1,3 @@
+n_NN cost_NN -LRB-_-LRB- Bayes_NN risk_NN -RRB-_-RRB- ._.
+This_DT framework_NN is_VBZ appropriate_JJ when_WRB false_JJ positives_NNS and_CC false_JJ negatives_NNS carry_VBP different_JJ penalties_NNS ,_, and_CC was_VBD the_DT subject_NN of_IN most_JJS early_JJ research_NN on_IN cost-sensitive_JJ classification_NN -LRB-_-LRB- see_VB =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC references_NNS therein_RB -RRB-_-RRB- ._.
+The_DT second_JJ variant_NN ,_, example-dependent_JJ cost-sensitive_JJ classification_NN ,_, is_VBZ a_DT generalization_NN of_IN the_DT classdependent_JJ cost_NN problem_NN ,_, and_CC is_VBZ the_DT relevant_JJ framework_NN for_IN thi_NN

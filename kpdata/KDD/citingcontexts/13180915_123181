@@ -1,0 +1,4 @@
+n._VB It_PRP is_VBZ very_RB possible_JJ that_IN some_DT features_NNS are_VBP correlated_VBN ._.
+And_CC the_DT combination_NN of_IN several_JJ ``_`` weak_JJ ''_'' features_NNS 1_CD can_MD better_RB differentiate_VB different_JJ clusters_NNS ._.
+Several_JJ supervised_JJ feature_NN selection_NN algorithms_NNS =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN designed_VBN to_TO address_VB this_DT issue_NN ._.
+Thus_RB ,_, the_DT advantage_NN of_IN using_VBG a_DT L1-regularized_JJ regressionmodeltofindthesubsetoffeaturesinsteadofevaluating_VBG the_DT contribution_NN of_IN each_DT feature_NN independently_RB is_VBZ c_NN

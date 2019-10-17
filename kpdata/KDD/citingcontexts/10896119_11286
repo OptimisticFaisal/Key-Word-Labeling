@@ -1,0 +1,3 @@
+DUCTION_NN Recent_JJ technological_JJ innovations_NNS have_VBP allowed_VBN us_PRP to_TO collect_VB massive_JJ amounts_NNS of_IN data_NNS with_IN a_DT large_JJ number_NN of_IN features_NNS ._.
+One_CD of_IN the_DT key_JJ issues_NNS in_IN such_JJ data_NNS analysis_NN is_VBZ the_DT curse_NN of_IN dimensionality_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, i.e._FW ,_, an_DT enormous_JJ number_NN of_IN samples_NNS is_VBZ required_VBN to_TO perform_VB accurate_JJ prediction_NN on_IN problems_NNS with_IN large_JJ numbers_NNS of_IN features_NNS ._.
+Dimensionality_NN reduction_NN ,_, which_WDT extracts_VBZ a_DT small_JJ number_NN of_IN features_NNS by_IN remo_NN

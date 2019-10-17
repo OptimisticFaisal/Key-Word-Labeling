@@ -1,0 +1,5 @@
+port_NN restrictions_NNS on_IN class_NN properties_NNS ,_, which_WDT suits_VBZ our_PRP$ notion_NN of_IN policy_NN ._.
+For_IN the_DT description_NN of_IN policies_NNS we_PRP use_VBP several_JJ aspects_NNS of_IN the_DT DL_NN formalism_NN reflecting_VBG different_JJ ways_NNS of_IN restricting_NN properties_NNS =_JJ -_: =_JJ -LRB-_-LRB- LH03_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT property_NN can_MD be_VB restricted_VBN to_TO a_DT fixed_JJ value_NN ,_, a_DT set_NN of_IN possible_JJ values_NNS or_CC a_DT value_NN range_NN ._.
+Furthermore_RB ,_, it_PRP can_MD be_VB either_CC mandatory_JJ or_CC facultative_JJ as_RB well_RB as_IN single-valued_JJ or_CC multiple-valued_JJ ._.
+Sev1_NN Sub_NN

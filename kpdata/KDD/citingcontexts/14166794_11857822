@@ -1,0 +1,5 @@
+l_NN overview_NN Figure_NNP 2_CD :_: MIME_NN Views_NNS 5_CD ._.
+ILLUSTRATIVE_JJ SCENARIO_NN In_IN this_DT section_NN we_PRP give_VBP a_DT demonstration_NN of_IN the_DT capabilities_NNS of_IN our_PRP$ tool_NN using_VBG the_DT stemmed_VBN version_NN of_IN the_DT ICDM_NN Abstracts_NNS dataset_VBN by_IN Tijl_NNP De_NNP Bie_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT database_NN contains_VBZ 4976_CD items_NNS over_IN 859_CD transactions_NNS ._.
+Each_DT transaction_NN represents_VBZ an_DT abstract_JJ of_IN a_DT paper_NN that_WDT was_VBD published_VBN between_IN 2001_CD and_CC 2008_CD ._.
+We_PRP start_VBP by_IN loading_VBG the_DT dataset_NN in_IN memory_NN using_VBG t_NN

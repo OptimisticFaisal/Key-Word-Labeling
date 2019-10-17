@@ -1,0 +1,4 @@
+on_IN fixed_JJ or_CC manually_RB tuned_VBN distance_NN metrics_NNS ._.
+In_IN recent_JJ years_NNS ,_, there_EX have_VBP been_VBN several_JJ attempts_NNS to_TO make_VB pairwise_JJ classifiers_NNS automatically_RB from_IN labeled_VBN training_NN data_NNS using_VBG machine_NN learning_NN techniques_NNS =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 11_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS of_IN them_PRP are_VBP based_VBN on_IN string_NN edit_NN distance_NN or_CC common_JJ features_NNS between_IN two_CD examples_NNS ._.
+These_DT methods_NNS are_VBP effective_JJ when_WRB two_CD instances_NNS from_IN the_DT same_JJ class_NN have_VBP many_JJ common_JJ features_NNS like_IN two_CD variant_NN

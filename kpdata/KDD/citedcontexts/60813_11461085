@@ -1,0 +1,4 @@
+labels_NNS with_IN complicated_JJ correlations_NNS ._.
+This_DT goes_VBZ beyond_IN previous_JJ approaches_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- that_WDT can_MD only_RB handle_VB hundreds_NNS of_IN labels_NNS at_IN most_JJS ._.
+Our_PRP$ work_NN is_VBZ inspired_VBN by_IN the_DT work_NN from_IN semi-supervised_JJ clustering_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB both_CC must-link_JJ and_CC cannot-link_JJ constraints_NNS are_VBP provided_VBN to_TO restrict_VB the_DT data_NNS clustering_NN process_NN within_IN a_DT Markov_NNP Random_NNP Field_NNP framework_NN ._.
+In_IN terms_NNS of_IN functionality_NN ,_, the_DT closest_JJS works_NNS to_TO ours_JJ der_NN

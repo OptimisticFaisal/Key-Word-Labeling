@@ -1,0 +1,4 @@
+listwise_NN techniques_NNS are_VBP obtained_VBN with_IN a_DT loss_NN function_NN that_WDT optimally_RB resembles_VBZ the_DT evaluation_NN measure_NN ._.
+In_IN that_DT respect_NN ,_, it_PRP would_MD be_VB interesting_JJ to_TO experiment_NN with_IN the_DT lesser_JJR known_JJ algorithm_NN SV_NN M_NN mrr_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+5.2_CD The_DT effect_NN of_IN data_NNS imbalance_NN As_IN pointed_VBN out_RP in_IN the_DT machine_NN learning_NN literature_NN -LRB-_-LRB- see_VB Section_NNP 2.3_CD -RRB-_-RRB- ,_, classifiers_NNS are_VBP in_IN general_JJ sensitive_JJ to_TO data_NN imbalance_NN ._.
+Table_NNP 3_CD shows_VBZ that_IN especially_RB pointwise_JJ

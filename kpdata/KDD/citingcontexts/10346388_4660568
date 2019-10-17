@@ -1,0 +1,4 @@
+approaches_NNS have_VBP been_VBN claimed_VBN more_RBR effective_JJ than_IN rule-based_JJ systems_NNS and_CC have_VBP been_VBN used_VBN extensively_RB -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+Linear_JJ classifiers_NNS ,_, such_JJ as_IN naive_JJ Bayes_NNS -LRB-_-LRB- 28_CD ,_, 23_CD -RRB-_-RRB- ,_, logistic_JJ regression_NN -LRB-_-LRB- 13_CD ,_, 33_CD -RRB-_-RRB- and_CC linear_JJ SVMs_NNS =_JJ -_: =[_NN 10_CD ,_, 30_CD -RRB-_-RRB- -_: =_JJ -_: ,_, are_VBP especially_RB popular_JJ for_IN this_DT task_NN due_JJ to_TO their_PRP$ ability_NN to_TO handle_VB large_JJ feature_NN spaces_NNS efficiently_RB ._.
+Various_JJ model_NN combination_NN methods_NNS have_VBP also_RB been_VBN explored_VBN ._.
+For_IN example_NN ,_, Hershkop_NNP and_CC Stolfo_NNP -LRB-_-LRB- 15_CD -RRB-_-RRB-

@@ -1,0 +1,5 @@
+classification_NN -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC soft-decay_JJ decremental_JJ learning_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+Proximal_JJ SVMs_NNS has_VBZ also_RB been_VBN shown_VBN to_TO perform_VB at_IN a_DT similar_JJ level_NN of_IN accuracy_NN as_IN regular_JJ SVMs_NNS and_CC at_IN the_DT same_JJ time_NN being_VBG significantly_RB faster_RBR =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+sIn_NN this_DT paper_NN we_PRP propose_VBP and_CC compare_VBP two_CD parallelization_JJ approaches_NNS of_IN the_DT Incremental_JJ SVM_NN classifier_NN ._.
+The_DT algorithms_NNS presented_VBN are_VBP based_VBN on_IN heaps_NNS of_IN CPUs_NNS represented_VBN as_IN tree_NN topologies_NNS ._.
+2_CD Backgroun_NN

@@ -1,0 +1,4 @@
+text_NN mining_NN problems_NNS ,_, such_JJ as_IN ,_, text_NN classication_NN ,_, better_JJR query_NN retrieval_NN ,_, etc._NN ._.
+Some_DT fascinating_JJ aspects_NNS of_IN this_DT bipartite_JJ graph_NN are_VBP that_IN the_DT vertex_NN degrees_NNS for_IN the_DT words_NNS follow_VBP the_DT Zipf_NNP distribution_NN -LRB-_-LRB- =_JJ -_: =_JJ 43_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC subgraphs_NNS appear_VBP to_TO have_VB a_DT self-similar_JJ or_CC fractal_JJ nature_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ._.
+As_IN future_JJ work_NN ,_, we_PRP intend_VBP to_TO study_VB various_JJ properties_NNS of_IN these_DT graphs_NNS ._.
+In_IN addition_NN ,_, we_PRP feel_VBP that_IN our_PRP$ co-clustering_JJ algorithm_NN will_MD be_VB

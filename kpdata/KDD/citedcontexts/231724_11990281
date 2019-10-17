@@ -1,0 +1,4 @@
+the_DT same_JJ lines_NNS in_IN our_PRP$ model_NN ,_, but_CC also_RB complement_VBP it_PRP with_IN positive_JJ and_CC negative_JJ results_NNS regarding_VBG randomized_JJ mechanisms_NNS ._.
+In_IN learning_VBG theory_NN there_EX is_VBZ some_DT work_NN on_IN learning_NN in_IN noisy_JJ settings_NNS -LRB-_-LRB- see_VB ,_, e.g._FW ,_, =_JJ -_: =[_NN 7_CD ,_, 2_CD ,_, 3_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+These_DT papers_NNS investigate_VBP situations_NNS where_WRB the_DT noise_NN is_VBZ random_JJ or_CC adversarial_JJ ._.
+While_IN this_DT line_NN of_IN work_NN is_VBZ related_JJ to_TO the_DT learning-theoretic_JJ interpretation_NN of_IN the_DT current_JJ paper_NN ,_, our_PRP$ assumption_NN is_VBZ tha_NN

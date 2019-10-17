@@ -1,0 +1,5 @@
+ure_NN in_IN these_DT networks_NNS ._.
+1_CD Introduction_NN Most_NNP of_IN the_DT existing_VBG models_NNS of_IN information_NN propagation_NN in_IN social_JJ networks_NNS focus_VBP on_IN understanding_VBG the_DT role_NN of_IN peer_VB influence_NN on_IN the_DT observed_VBN propagation_NN patterns_NNS ._.
+=_SYM -_: =[_NN 2,3,6,8,13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP use_VBP the_DT term_NN peer_VB models_NNS to_TO collectively_RB refer_VB to_TO all_DT such_JJ information-propagationmodels_NNS ._.
+In_IN peer_VB models_NNS ,_, as_IN more_JJR neighbors_NNS -LRB-_-LRB- or_CC peers_NNS -RRB-_-RRB- of_IN a_DT node_NN adopt_VB an_DT information_NN item_NN ,_, it_PRP becomes_VBZ more_JJR probabl_NN

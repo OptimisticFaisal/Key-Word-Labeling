@@ -1,0 +1,5 @@
+nterested_VBN in_IN rules_NNS that_WDT are_VBP fully_RB satisfied_VBN ,_, but_CC also_RB in_IN rules_NNS that_WDT are_VBP highly_RB satisfied_JJ ._.
+We_PRP now_RB introduce_VBP a_DT relaxed_VBN notion_NN of_IN satisfaction_NN by_IN adapting_VBG the_DT classical_JJ notions_NNS of_IN support_NN and_CC confidence_NN =_JJ -_: =_JJ -LRB-_-LRB- AIS93_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+Let_NNP R_NNP be_VB a_DT relation_NN over_IN the_DT scheme_NN S._NNP Let_NNP P_NN !_.
+Q_NNP be_VB a_DT RUD_NNP over_IN S._NNP The_NNP confidence_NN of_IN P_NN !_.
+Q_NNP is_VBZ the_DT conditional_JJ probability_NN that_IN two_CD tuples_NNS that_WDT are_VBP randomly_RB selected_VBN from_IN R_NN without_IN replacement_NN ,_, are_VBP Q_NNP -_:

@@ -1,0 +1,4 @@
+shifted_VBN hinge_NN function_NN on_IN all_DT order_NN preferences_NNS :_: p_NN ∑_CD r_NN -LRB-_-LRB- f_LS -RRB-_-RRB- =_JJ wq_FW max_FW -LRB-_-LRB- dq_FW −_FW -LRB-_-LRB- f_LS -LRB-_-LRB- xiq_NN -RRB-_-RRB- −_FW f_FW -LRB-_-LRB- xjq_NN -RRB-_-RRB- -RRB-_-RRB- ,0_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 5_LS -RRB-_-RRB- q_NN =_JJ 1_CD We_PRP note_VBP that_IN order_NN preferences_NNS have_VBP been_VBN used_VBN in_IN ranking_JJ problems_NNS -LRB-_-LRB- 19_CD ,_, 20_CD ,_, 21_CD ,_, 22_CD -RRB-_-RRB- ;_: in_IN particular_JJ =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: employed_VBN a_DT similar_JJ shifted_VBN hinge_NN function_NN for_IN ranking_NN ._.
+However_RB they_PRP have_VBP not_RB been_VBN used_VBN in_IN regression_NN before_RB ._.
+For_IN c_NN -LRB-_-LRB- -RRB-_-RRB- in_IN -LRB-_-LRB- 4_CD -RRB-_-RRB- we_PRP use_VBP the_DT ǫ-insensitive_JJ loss_NN c_NN -LRB-_-LRB- y_NN ,_, f_LS -RRB-_-RRB- =_JJ |_FW y_FW −_FW f_FW |_FW ǫ_FW in_IN support_NN vector_NN regressio_NN

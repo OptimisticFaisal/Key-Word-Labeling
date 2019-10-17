@@ -1,0 +1,4 @@
+sible_NN for_IN subsequent_JJ statistical_JJ analysis_NN ._.
+Much_JJ of_IN our_PRP$ information_NN about_IN vulnerabilities_NNS is_VBZ contained_VBN in_IN text_NN fields_NNS ._.
+We_PRP derive_VBP binary_JJ features_NNS using_VBG a_DT bag-of-words_JJ representation_NN for_IN each_DT text_NN field_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Essentially_RB ,_, these_DT features_NNS record_VBP whether_IN or_CC not_RB particular_JJ tokens_NNS -LRB-_-LRB- e.g._FW ,_, ``_`` buffer_NN ''_'' ,_, ``_`` heap_NN ''_'' ,_, ``_`` DNS_NNP ''_'' -RRB-_-RRB- appear_VBP in_IN specific_JJ text_NN fields_NNS -LRB-_-LRB- e.g._FW ,_, ``_`` title_NN ''_'' ,_, ``_`` solution_NN ''_'' ,_, ``_`` product_NN name_NN ''_'' -RRB-_-RRB- associated_VBN with_IN each_DT vu_NN

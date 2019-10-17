@@ -1,0 +1,4 @@
+metrics_NNS were_VBD made_VBN ._.
+Accurate_JJ similarity_NN computations_NNS require_VBP adapting_VBG string_NN similarity_NN metrics_NNS for_IN each_DT field_NN of_IN the_DT database_NN with_IN respect_NN to_TO the_DT particular_JJ data_NN domain_NN ._.
+Trainable_JJ similarity_NN measures_NNS =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: were_VBD suggested_VBN instead_RB of_IN hand-tuning_VBG a_DT distance_NN metric_JJ for_IN each_DT field_NN ._.
+The_DT problem_NN of_IN identifying_VBG duplicate_VB records_NNS in_IN databases_NNS was_VBD originally_RB identified_VBN by_IN Newcombe_NNP -LRB-_-LRB- 1_LS -RRB-_-RRB- as_IN record_NN linkage_NN in_IN the_DT co_NN

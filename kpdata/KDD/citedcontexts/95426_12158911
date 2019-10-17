@@ -1,0 +1,5 @@
+main_JJ approaches_NNS -_: single_JJ model_NN classification_NN ,_, and_CC ensemble_NN classification_NN ._.
+Single_JJ model_NN classification_NN techniques_NNS incrementally_RB update_VBP their_PRP$ model_NN with_IN new_JJ data_NNS to_TO cope_VB with_IN the_DT evolution_NN of_IN stream_NN =_JJ -_: =[_NN 2,5,6,7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT techniques_NNS usually_RB require_VBP complex_JJ operations_NNS to_TO modify_VB the_DT internal_JJ structure_NN of_IN the_DT model_NN ._.
+Besides_IN ,_, in_IN these_DT algorithms_NNS ,_, only_RB the_DT most_RBS recent_JJ data_NNS is_VBZ used_VBN to_TO update_VB the_DT model_NN ._.
+Thus_RB ,_, contribu_NN

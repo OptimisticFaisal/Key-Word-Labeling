@@ -1,0 +1,4 @@
+difficulty_NN :_: -LRB-_-LRB- 9_CD -RRB-_-RRB- cites_VBZ the_DT need_NN for_IN enriching_VBG triples_NNS to_TO describe_VB event_NN data_NNS ,_, and_CC a_DT number_NN of_IN authors_NNS want_VBP to_TO use_VB RDF_NNP for_IN describing_VBG RDF_NNP documents_NNS ,_, for_IN example_NN for_IN reasoning_NN about_IN provenance_NN and_CC trust_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+RDF_NN -LRB-_-LRB- S_NN -RRB-_-RRB- allows_VBZ some_DT form_NN of_IN adding_VBG information_NN to_TO existing_VBG triples_NNS ._.
+Trivially_RB ,_, we_PRP can_MD replace_VB each_DT of_IN the_DT nodes_NNS in_IN a_DT triple_JJ by_IN a_DT node_NN carrying_VBG more_JJR information_NN and_CC point_NN to_TO the_DT original_JJ node_NN ._.
+In_IN RDFS_NN

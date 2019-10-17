@@ -1,0 +1,4 @@
+ring_NN in_IN this_DT context_NN provides_VBZ a_DT useful_JJ tool_NN for_IN exploring_VBG this_DT data_NN set_NN ._.
+Figure_NN 1.4_CD depicts_VBZ another_DT set_NN of_IN trajectories_NNS tracking_VBG the_DT center_NN of_IN a_DT person_NN 's_POS hand_NN as_IN it_PRP moves_VBZ through_IN a_DT short_JJ video_NN scene_NN -LRB-_-LRB- =_JJ -_: =_JJ Gaffney_NNP &_CC Smyth_NNP ,_, 1999_CD -_: =--RRB-_NN ._.
+The_DT x-axis_NN is_VBZ time_NN while_IN the_DT y-axis_NN is_VBZ the_DT vertical_JJ location_NN in_IN pixel_NN coordinates_VBZ of_IN the_DT centroid_NN of_IN a_DT person_NN 's_POS moving_VBG hand_NN -LRB-_-LRB- relative_JJ to_TO a_DT fixed_JJ coordinate_JJ frame_NN -RRB-_-RRB- ._.
+The_DT solid_JJ and_CC dotted_VBN lines_NNS repres_NNS

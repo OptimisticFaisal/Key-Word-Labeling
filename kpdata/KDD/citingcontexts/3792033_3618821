@@ -1,0 +1,4 @@
+mantics_NNS ;_: this_DT allows_VBZ to_TO nest_NN operators_NNS like_IN in_IN Yale_NNP ,_, though_IN Yale_NNP uses_VBZ procedural_JJ semantics_NNS ._.
+Similarly_RB ,_, modeling_NN languages_NNS for_IN KDD_NNP processes_NNS have_VBP also_RB been_VBN developed_VBN in_IN research_NN on_IN KDD_NNP over_IN grids_NNS ;_: see_VB =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: for_IN an_DT overview_NN of_IN this_DT area_NN ._.
+Two_CD XML-based_JJ languages_NNS being_VBG developed_VBN in_IN this_DT context_NN are_VBP DPML_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC DSCL_NN -LRB-_-LRB- 2_CD -RRB-_-RRB- ._.
+The_DT XML-based_JJ syntax_NN used_VBN by_IN Yale_NNP is_VBZ suitable_JJ for_IN distributed_VBN processing_NN as_RB well_RB ;_: this_DT

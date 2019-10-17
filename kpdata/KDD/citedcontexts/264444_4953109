@@ -1,0 +1,4 @@
+n_NN algorithms_NNS have_VBP been_VBN proposed_VBN ∗_NNP This_NNP material_NN is_VBZ based_VBN upon_IN work_NN supported_VBN by_IN the_DT National_NNP Science_NNP Foundation_NNP under_IN Grant_NNP No._NNP 0428168_CD ._.
+1_CD A._NN Erhan_NNP Nergiz_NNP Bilkent_NNP University_NNP anergiz@ug.bilkent.edu.tr_NN =_JJ -_: =[_NN 14_CD ,_, 7_CD ,_, 8_CD ,_, 9_CD ,_, 4_CD ,_, 10_CD ,_, 3_CD ,_, 5_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT algorithms_NNS assume_VBP each_DT private_JJ entity_NN is_VBZ stored_VBN as_IN one_CD row_NN in_IN a_DT single_JJ attribute-value_JJ table_NN ._.
+When_WRB information_NN about_IN a_DT private_JJ entity_NN is_VBZ contained_VBN in_IN multiple_JJ tables_NNS ,_, and_CC not_RB easily_RB represente_VB

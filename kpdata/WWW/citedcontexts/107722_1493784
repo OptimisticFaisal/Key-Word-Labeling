@@ -1,0 +1,5 @@
+for_IN all_DT documents_NNS ,_, possibly_RB with_IN a_DT tunable_JJ parameter_NN ._.
+However_RB ,_, our_PRP$ earlier_JJR work_NN advocated_VBD the_DT simultaneous_JJ use_NN of_IN multiple_JJ strategies_NNS ._.
+A_DT number_NN of_IN systems_NNS select_VBP strategies_NNS on_IN a_DT perdocument_NN basis_NN ._.
+In_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT authors_NNS propose_VBP a_DT protocol_NN that_WDT dynamically_RB adapts_VBZ between_IN variants_NNS of_IN push_NN and_CC pull_NN strategies_NNS on_IN a_DT per-document_JJ basis_NN ._.
+Similarly_RB ,_, in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- proposes_VBZ an_DT adaptive_JJ lease_NN proto8_NN col_NN that_WDT switches_VBZ dyn_NN

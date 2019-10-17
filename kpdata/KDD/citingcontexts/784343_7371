@@ -1,0 +1,5 @@
+clustering_NN problem_NN ._.
+The_DT problem_NN of_IN graph_NN clustering_NN has_VBZ been_VBN studied_VBN for_IN decades_NNS ,_, and_CC a_DT number_NN of_IN different_JJ approaches_NNS have_VBP been_VBN proposed_VBN ._.
+Spectral_JJ methods_NNS have_VBP been_VBN widely_RB used_VBN for_IN graph_NN clustering_NN =_JJ -_: =[_NN 2_CD ,_, 6_CD ,_, 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT algorithms_NNS use_VBP the_DT eigenvectors_NNS of_IN a_DT graph_NN affinity_NN matrix_NN ,_, or_CC a_DT matrix_NN derived_VBN from_IN the_DT affinity_NN matrix_NN ,_, to_TO partition_NN the_DT graph_NN ._.
+Various_JJ spectral_JJ algorithms_NNS have_VBP been_VBN developed_VBN for_IN a_DT number_NN o_NN

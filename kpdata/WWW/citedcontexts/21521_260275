@@ -1,0 +1,4 @@
+-RRB-_-RRB- is_VBZ a_DT query_JJ language_NN for_IN RDF_NNP proposed_VBN by_IN the_DT developers_NNS of_IN the_DT popular_JJ Jena_NNP Java_NNP RDF_NNP toolkit_NN -LRB-_-LRB- 24_CD -RRB-_-RRB- ._.
+RDQL_NN operates_VBZ at_IN the_DT RDF_NNP triple_JJ level_NN ,_, without_IN taking_VBG RDF_NNP Schema_NNP information_NN into_IN account_NN -LRB-_-LRB- like_IN RQL_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: does_VBZ -RRB-_-RRB- and_CC without_IN providing_VBG inferencing_NN capabilities_NNS ._.
+As_IN such_JJ ,_, it_PRP is_VBZ the_DT type_NN of_IN lowlevel_JJ RDF_NN query_NN language_NN that_IN we_PRP want_VBP RDFPeers_NNS to_TO support_VB well_RB ._.
+It_PRP is_VBZ our_PRP$ intuition_NN that_IN it_PRP is_VBZ possible_JJ to_TO translat_VB

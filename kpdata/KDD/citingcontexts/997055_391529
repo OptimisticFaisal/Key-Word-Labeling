@@ -1,0 +1,4 @@
+stic_JJ model_NN 1_CD ._.
+INTRODUCTION_NNP Mining_NNP frequent_JJ patterns_NNS is_VBZ an_DT important_JJ data_NN mining_NN problem_NN with_IN broad_JJ applications_NNS ,_, including_VBG association_NN rule_NN mining_NN ,_, indexing_NN ,_, classification_NN ,_, and_CC clustering_NN -LRB-_-LRB- see_VB e.g._FW ,_, =_JJ -_: =[_NN 2_CD ,_, 27_CD ,_, 26_CD ,_, 8_CD ,_, 15_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Recent_JJ studies_NNS on_IN frequent-pattern_JJ mining_NN ∗_NNP This_NNP work_NN was_VBD supported_VBN in_IN part_NN by_IN the_DT U.S._NNP National_NNP Science_NNP Foundation_NNP NSF_NNP IIS-02-09199_NN and_CC IIS-03-08215_NN ._.
+Any_DT opinions_NNS ,_, findings_NNS ,_, and_CC conclusions_NNS or_CC rec_NN

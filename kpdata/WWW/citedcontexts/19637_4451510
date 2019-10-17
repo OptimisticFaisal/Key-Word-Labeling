@@ -1,0 +1,4 @@
+or_CC authority_NN scores_NNS ,_, and_CC the_DT other_JJ converging_VBG to_TO its_PRP$ weighted_JJ out-degree_NN ,_, for_IN hub_NN scores_NNS ._.
+The_DT approach_NN resembles_VBZ popularity_NN ranking_NN ,_, which_WDT was_VBD also_RB investigated_VBN by_IN Chakrabarti_NNP -LRB-_-LRB- 12_CD -RRB-_-RRB- and_CC Borodin_NNP et_FW al._FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, it_PRP does_VBZ not_RB incorporate_VB any_DT iterative_JJ reinforcement_NN and_CC is_VBZ still_RB vulnerable_JJ to_TO some_DT forms_NNS of_IN the_DT TKC_NN effect_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- ._.
+Zhang_NNP et_FW al._FW -LRB-_-LRB- 29_CD -RRB-_-RRB- discovered_VBD that_IN colluding_VBG users_NNS amplify_VB their_PRP$ PageRank_NN sc_NN

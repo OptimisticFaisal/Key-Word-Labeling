@@ -1,0 +1,5 @@
+._.
+,_, -LRB-_-LRB- 33_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 1_LS -RRB-_-RRB- -RRB-_-RRB- ,_, currently_RB in_IN practice_NN the_DT approach_NN followed_VBD is_VBZ the_DT Alternating_NNP Least_NNP Squares_NNP ,_, which_WDT involves_VBZ the_DT computationally_RB expensive_JJ SVD_NNP ._.
+To_TO speed_VB up_RP tensor_NN decompositions_NNS ,_, randomized_VBN algorithms_NNS =_JJ -_: =[_NN 12_CD ,_, 29_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP appeared_VBN in_IN the_DT recent_JJ years_NNS ._.
+This_DT family_NN of_IN randomized_VBN algorithms_NNS are_VBP generalizations_NNS of_IN fast_JJ low_JJ rank_NN approximation_NN methods_NNS -LRB-_-LRB- 9_CD ,_, 28_CD ,_, 11_CD -RRB-_-RRB- ,_, adapted_VBD appropriately_RB to_TO the_DT multiway_JJ case_NN ._.
+In_IN this_DT pap_NN

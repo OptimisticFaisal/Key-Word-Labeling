@@ -1,0 +1,6 @@
+sure_JJ -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+As_IN the_DT decision_NN tree_NN classifier_NN is_VBZ a_DT well-known_JJ algorithm_NN ,_, we_PRP omit_VBP its_PRP$ discussion_NN ._.
+We_PRP refer_VBP the_DT interested_JJ reader_NN to_TO -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+We_PRP used_VBD the_DT decision_NN tree_NN implementation_NN from_IN the_DT Rapidminer_NN tool_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT estimation_NN of_IN classification_NN performance_NN was_VBD done_VBN using_VBG a_DT stratified_JJ k-fold_NN cross-validation_NN approach_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- with_IN k_NN =_JJ 20_CD ._.
+8_CD Performance_NNP Evaluation_NN The_DT results_NNS achieved_VBN by_IN applying_VBG the_DT error_NN propag_NN

@@ -1,0 +1,4 @@
+the_DT past_JJ n_NN gradients_NNS -LRB-_-LRB- n_NN is_VBZ user_NN defined_VBN -RRB-_-RRB- ._.
+LBFGS_NN is_VBZ known_VBN to_TO perform_VB well_RB on_IN continuously_RB differentiable_JJ problems_NNS ,_, such_JJ as_IN logistic_JJ regression_NN ,_, least-meansquares_JJ problems_NNS ,_, or_CC conditional_JJ random_JJ fields_NNS =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+But_CC ,_, if_IN the_DT functions_NNS are_VBP not_RB continuously_RB differentiable_JJ -LRB-_-LRB- e.g._FW ,_, the_DT hinge_NN loss_NN and_CC its_PRP$ variants_NNS -RRB-_-RRB- then_RB LBFGS_NN may_MD fail_VB ._.
+Empirically_RB ,_, we_PRP observe_VBP that_IN LBFGS_NN does_VBZ converge_VB well_RB even_RB for_IN the_DT hinge_NN losses_NNS

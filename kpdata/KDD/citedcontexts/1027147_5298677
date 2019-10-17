@@ -1,0 +1,4 @@
+academic_JJ research_NN projects_NNS have_VBP used_VBN more_RBR capable_JJ specialized_JJ Myrinet\/Infiniband_NN NICs_NNS ._.
+For_IN example_NN ,_, projects_NNS involving_VBG payload_NN caching_NN on_IN routers_NNS and_CC firewalls_NNS -LRB-_-LRB- 20_CD -RRB-_-RRB- and_CC NIC-based_JJ intrusion_NN detection_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP used_VBN these_DT specialized_JJ NICs_NNS ._.
+These_DT projects_NNS are_VBP actually_RB designed_VBN for_IN ,_, and_CC best_RB suited_VBN for_IN ,_, commodity_NN Ethernet_NNP networks_NNS ,_, not_RB high_JJ performance_NN supercomputing_VBG interconnects_NNS ._.
+Using_VBG the_DT gigabit_NN Ethe_NN

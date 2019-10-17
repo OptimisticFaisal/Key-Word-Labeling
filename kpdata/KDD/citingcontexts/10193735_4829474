@@ -1,0 +1,5 @@
+and_CC test_NN data_NNS must_MD follow_VB the_DT same_JJ -LRB-_-LRB- but_CC unknown_JJ -RRB-_-RRB- distribution_NN ._.
+The_DT difference_NN between_IN training_NN and_CC test_NN distributions_NNS can_MD be_VB classified_VBN into_IN two_CD types_NNS :_: covariate_NN shift_NN and_CC functional_JJ relation_NN change_NN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Covariate_JJ shift_NN is_VBZ related_JJ to_TO the_DT marginal_JJ distribution_NN q_NN -LRB-_-LRB- x_NN -RRB-_-RRB- ,_, while_IN functional_JJ relation_NN is_VBZ related_JJ to_TO the_DT conditional_JJ probability_NN r_NN -LRB-_-LRB- y_NN |_CD x_NN -RRB-_-RRB- ._.
+Our_PRP$ approach_NN to_TO dealing_VBG with_IN this_DT problem_NN is_VBZ as_IN follows_VBZ ._.
+The_DT

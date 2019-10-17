@@ -1,0 +1,4 @@
+ature_NN to_TO improve_VB the_DT accuracy_NN of_IN Spam_NNP filters_NNS ._.
+The_DT prior_JJ generation_NN of_IN rule-based_JJ Spam_NNP filters_NNS have_VBP failed_VBN for_IN many_JJ reasons_NNS not_RB least_JJS of_IN which_WDT is_VBZ the_DT error_NN prone_JJ methods_NNS of_IN string_NN matching_NN algorithms_VBZ =_JJ -_: =[_NN 7_CD ,_, 18_CD ,_, 31_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT great_JJ deal_NN of_IN the_DT published_VBN work_NN follows_VBZ the_DT same_JJ paradigm_NN of_IN training_NN a_DT Spam_NNP classifier_NN given_VBN examples_NNS of_IN Spam_NNP emails_NNS ._.
+For_IN example_NN ,_, Naïve_NNP Bayes_NNP models_NNS to_TO detect_VB Spam_NNP was_VBD first_RB introduced_VBN by_IN -LRB-_-LRB- 36_CD -RRB-_-RRB-

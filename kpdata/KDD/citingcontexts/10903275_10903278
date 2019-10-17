@@ -1,0 +1,7 @@
+constrained_VBN optimization_NN problem_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+Note_VB that_IN the_DT projected_VBN gradient_NN scheme_NN belongs_VBZ to_TO the_DT category_NN of_IN first-order_JJ methods_NNS and_CC has_VBZ demonstrated_VBN good_JJ scalability_NN in_IN many_JJ optimization_NN problems_NNS =_JJ -_: =[_NN 11_CD ,_, 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT objective_JJ function_NN in_IN Eq_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- is_VBZ non-smooth_JJ and_CC the_DT feasible_JJ domain_NN is_VBZ non-trivial_JJ ._.
+For_IN simplicity_NN ,_, we_PRP denote_VBP Eq_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- as_IN min_NN T_NN f_FW -LRB-_-LRB- T_NN -RRB-_-RRB- +_CC g_NN -LRB-_-LRB- T_NN -RRB-_-RRB- subject_JJ to_TO T_NN ∈_CD M_NN ,_, -LRB-_-LRB- 6_CD -RRB-_-RRB- where_WRB the_DT functions_NNS f_FW -LRB-_-LRB- T_NN -RRB-_-RRB- and_CC g_NN -LRB-_-LRB- T_NN

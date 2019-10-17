@@ -1,0 +1,4 @@
+etes_VBZ heart_NN disease_NN ,_, ''_'' 3_CD Note_NN that_IN customer_NN churn_VBP is_VBZ more_RBR complex_JJ than_IN the_DT simple_JJ change_NN in_IN rank_NN that_IN we_PRP use_VBP here_RB ,_, taking_VBG into_IN consideration_NN customer_NN loyalty_NN and_CC human_JJ decision_NN processes_NNS over_IN time_NN ._.
+See_VB =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: for_IN an_DT example_NN of_IN these_DT more_RBR comprehensive_JJ treatments_NNS of_IN churn_VB ._.
+diabetes_NN stroke_NN ,_, and_CC ``_`` diabetes_NN stroke_NN ''_'' -RRB-_-RRB- but_CC for_IN computing_VBG the_DT churn_VBP ,_, we_PRP only_RB use_VBP the_DT 8_CD query_NN variants_NNS without_IN quotation_NN marks_NNS ._.
+Table_NNP 4_CD

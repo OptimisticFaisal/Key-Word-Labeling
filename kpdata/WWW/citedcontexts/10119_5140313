@@ -1,0 +1,4 @@
+service_NN with_IN the_DT test_NN case_NN as_IN a_DT service_NN request_NN sent_VBN to_TO service_NN provider_NN ._.
+Techniques_NNS for_IN tseting_VBG web_NN services_NNS :_: Most_JJS work_NN on_IN testing_NN web_NN services_NNS is_VBZ primarily_RB model-based_JJ verification_NN ._.
+Narayanan_NNP et_FW al_FW =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: exploited_VBN DAML-S_NN ontology_NN to_TO provide_VB an_DT semantic_JJ markup_NN of_IN web_NN services_NNS and_CC test_NN web_NN services_NNS by_IN simulating_VBG their_PRP$ execution_NN under_IN different_JJ input_NN conditions_NNS ._.
+Foster_NNP et_FW al_FW -LRB-_-LRB- 8_CD -RRB-_-RRB- presented_VBD a_DT formal_JJ appro_NN

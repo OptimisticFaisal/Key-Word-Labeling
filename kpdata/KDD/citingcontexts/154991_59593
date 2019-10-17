@@ -1,0 +1,4 @@
+the_DT probability_NN that_IN a_DT randomly_RB selected_VBN noun_NN refers_VBZ to_TO an_DT instance_NN of_IN s_NN or_CC any_DT synset_NN below_IN it_PRP ._.
+These_DT probabilities_NNS are_VBP not_RB included_VBN in_IN WordNet_NNP ._.
+We_PRP use_VBP the_DT frequency_NN counts_NNS of_IN synsets_NNS in_IN the_DT SemCor_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: corpus_NN to_TO estimate_VB them_PRP ._.
+Since_IN SemCor_NNP is_VBZ a_DT fairly_RB small_JJ corpus_NN -LRB-_-LRB- 200K_NN 1_CD WordNet_NNP also_RB contains_VBZ other_JJ semantic_JJ relationships_NNS such_JJ as_IN meronyms_NNS -LRB-_-LRB- part-whole_JJ relationships_NNS -RRB-_-RRB- and_CC antonyms_NNS ,_, however_RB we_PRP do_VBP not_RB u_VB

@@ -1,0 +1,4 @@
+e_LS independent_JJ cascade_NN model_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- associates_VBZ a_DT fixed_JJ spreading_NN probability_NN per_IN graph_NN edge_NN and_CC allows_VBZ each_DT node_NN to_TO attempt_VB infecting_VBG another_DT node_NN only_RB once_RB ._.
+Further_JJ studies_NNS have_VBP generalized_VBN these_DT models_NNS =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN all_DT of_IN the_DT work_NN ,_, the_DT propagation_NN model_NN 's_POS parameters_NNS are_VBP either_CC constant_JJ or_CC drawn_VBN from_IN distributions_NNS ._.
+In_IN our_PRP$ approach_NN ,_, we_PRP find_VBP the_DT optimal_JJ parameter_NN values_NNS by_IN training_VBG the_DT model_NN on_IN actual_JJ informat_NN

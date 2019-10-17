@@ -1,0 +1,3 @@
+to_TO their_PRP$ expected_VBN P@10_NN or_CC expected_VBN MAP_NN -LRB-_-LRB- maximizing_VBG Kendall_NNP 's_POS -_: τ_NN between_IN estimated_VBN and_CC actual_JJ order_NN -RRB-_-RRB- ,_, in_IN which_WDT case_NN a_DT more_RBR suitable_JJ optimization_NN strategy_NN is_VBZ to_TO modify_VB the_DT above_JJ equation_NN as_IN suggested_VBN in_IN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT idea_NN is_VBZ that_IN a_DT linear_JJ weight_NN vector_NN will_MD maximize_VB Kendall_NNP 's_POS τ_NN ,_, if_IN for_IN each_DT query_FW i_FW which_WDT is_VBZ ranked_VBN higher_JJR than_IN query_FW j_FW ,_, we_PRP enforce_VBP the_DT constraint_NN c_NN T_NN ·_NN hi_UH -RRB-_-RRB- c_NN T_NN ·_FW hj_FW ._.
+This_DT constraint_NN can_MD be_VB rewri_VBN

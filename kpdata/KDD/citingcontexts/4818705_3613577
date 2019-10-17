@@ -1,0 +1,5 @@
+ersistence_NN 1_CD ._.
+INTRODUCTION_NN Many_JJ time_NN series_NN data_NNS mining_NN algorithms_NNS work_VBP on_IN symbolic_JJ time_NN series_NN ._.
+For_IN numeric_JJ time_NN series_NN they_PRP usually_RB perform_VBP unsupervised_JJ discretization_NN as_IN a_DT preprocessing_VBG step_NN ,_, e.g._FW =_JJ -_: =[_NN 6_CD ,_, 12_CD ,_, 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT choice_NN of_IN the_DT method_NN and_CC the_DT accompanying_JJ parameters_NNS are_VBP rarely_RB justified_JJ ,_, however_RB ._.
+For_IN the_DT discovery_NN of_IN knowledge_NN that_WDT is_VBZ interpretable_JJ and_CC useful_JJ to_TO the_DT expert_NN ,_, it_PRP is_VBZ of_IN great_JJ importance_NN that_IN

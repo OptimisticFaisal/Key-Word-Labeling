@@ -1,0 +1,7 @@
+the_DT variables_NNS ._.
+The_DT null_JJ model_NN is_VBZ gener-ated_JJ empirically_RB via_IN a_DT randomization_NN of_IN the_DT original_JJ dataset_NN ._.
+This_DT method_NN is_VBZ generally_RB accepted_VBN as_IN a_DT way_NN to_TO allow_VB a_DT statistical_JJ test_NN on_IN significance_NN of_IN results_NNS =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Our_PRP$ randomization_NN is_VBZ done_VBN as_IN follows_VBZ ._.
+For_IN each_DT example_NN e_SYM ,_, we_PRP repeat_VBP the_DT following_NN ._.
+For_IN each_DT attribute_NN A_NN of_IN e_LS ,_, e._NN A_NN ,_, we_PRP extract_VBP randomly_RB another_DT example_NN e_SYM ′_NN and_CC swap_NN e.A_NN with_IN e_SYM ′_CD ._.
+A._NN If_IN a_DT missing_VBG valu_NN

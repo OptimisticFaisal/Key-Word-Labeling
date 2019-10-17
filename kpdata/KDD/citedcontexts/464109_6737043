@@ -1,0 +1,4 @@
+trained_VBN in_IN a_DT previous_JJ iteration_NN can_MD be_VB used_VBN as_IN a_DT seed_NN ,_, and_CC so_RB only_RB a_DT single_JJ model_NN needs_VBZ to_TO be_VB trained_VBN from_IN the_DT beginning_NN ._.
+Note_VB that_IN unlike_IN the_DT ``_`` alphaseeding_NN ''_'' approach_NN used_VBN in_IN support_NN vector_NN machines_NNS =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_JJ -_: ,_, the_DT seed_NN and_CC current_JJ models_NNS need_MD not_RB be_VB trained_VBN on_IN the_DT same_JJ data_NNS and_CC may_MD have_VB completely_RB different_JJ kernel_NN functions_NNS as_IN only_RB the_DT output_NN of_IN the_DT seed_NN model_NN is_VBZ used_VBN ._.
+2.2_CD ._.
+Approximate_NNP Leave-One-Out_NNP Cross_NNP

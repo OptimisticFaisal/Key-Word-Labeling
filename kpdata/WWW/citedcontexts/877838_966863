@@ -1,0 +1,3 @@
+relabel_VB the_DT site_NN and_CC run_VB the_DT labeled_JJ examples_NNS through_IN Stalker_NN to_TO relearn_VB the_DT wrapper_NN ._.
+3_CD Interactive_JJ Planning_NNP of_IN a_DT Trip_NN We_PRP developed_VBD a_DT general_JJ ,_, interactive_JJ ,_, constraint-based_JJ planner_NN ,_, called_VBN Heracles_NNP -LRB-_-LRB- =_JJ -_: =_JJ Knoblock_NNP et_FW al._FW 2001_CD -_: =--RRB-_NN ,_, which_WDT we_PRP then_RB applied_VBD to_TO the_DT problem_NN of_IN planning_NN travel_NN ._.
+The_DT resulting_VBG system_NN integrates_VBZ a_DT wide_JJ variety_NN of_IN travel_NN related_JJ data_NNS from_IN web_NN sources_NNS to_TO provide_VB the_DT data_NNS that_IN travelers_NNS need_VBP to_TO plan_VB a_DT tri_NN

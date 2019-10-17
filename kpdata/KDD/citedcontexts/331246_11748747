@@ -1,0 +1,4 @@
+a_DT graph_NN can_MD be_VB used_VBN for_IN link_NN prediction_NN -LRB-_-LRB- friend_NN recommendation_NN -RRB-_-RRB- ._.
+The_DT computation_NN of_IN the_DT shortest_JJS path_NN between_IN two_CD nodes_NNS ,_, can_MD be_VB made_VBN using_VBG any_DT well-known_JJ shortest_JJS path_NN algorithm_NN -LRB-_-LRB- 4_CD ,_, 6_CD -RRB-_-RRB- ._.
+RWR_NN algorithm_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- Random_NNP Walk_VB with_IN Restart_NN algorithm_NN -RRB-_-RRB- is_VBZ based_VBN on_IN a_DT Markov-chain_JJ model_NN of_IN random_JJ walk_NN through_IN a_DT graph_NN ._.
+RWR_NN considers_VBZ a_DT random_JJ walker_NN that_WDT starts_VBZ from_IN node_NN vx_NN who_WP chooses_VBZ randomly_RB among_IN the_DT available_JJ e_SYM

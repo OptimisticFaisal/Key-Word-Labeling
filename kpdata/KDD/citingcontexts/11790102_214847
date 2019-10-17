@@ -1,0 +1,4 @@
+entropy_NN classifiers_NNS are_VBP not_RB going_VBG to_TO have_VB as_RB big_JJ a_DT problem_NN handling_VBG multiple_JJ classes_NNS as_IN SVMs_NNS ,_, but_CC they_PRP are_VBP probably_RB even_RB slower_JJR than_IN SVMs_NNS if_IN trained_VBN with_IN a_DT commonly_RB used_VBN generalized_JJ iterative_JJ scaling_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX has_VBZ been_VBN also_RB work_VBP on_IN speeding_VBG up_RP the_DT training_NN of_IN maximum_NN entropy_NN models_NNS ._.
+However_RB ,_, even_RB with_IN these_DT speed_NN ups_NNS ,_, the_DT algorithms_NNS are_VBP still_RB far_RB from_IN the_DT simplicity_NN and_CC speed_NN of_IN naive_JJ Bayes_NNS ._.
+Thus_RB ,_, t_NN

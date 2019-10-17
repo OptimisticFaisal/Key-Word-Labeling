@@ -1,0 +1,4 @@
+-RRB-_-RRB- weigh_VBP the_DT instances_NNS on_IN the_DT source_NN side_NN ,_, migratorylogit_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- adopts_VBZ the_DT target_NN models_NNS to_TO decide_VB the_DT importance_NN of_IN instances_NNS automatically_RB ._.
+We_PRP finally_RB discuss_VBP tagging_VBG on_IN Web_NN pages_NNS or_CC blog_NN posts_NNS ._.
+PTAG_NN =_SYM -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT system_NN that_WDT predicts_VBZ appropriate_JJ tags_NNS for_IN given_VBN Web_NN pages_NNS ._.
+Because_IN this_DT prediction_NN is_VBZ based_VBN on_IN the_DT user_NN 's_POS personal_JJ repository_NN ,_, and_CC other_JJ users_NNS '_POS tags_NNS are_VBP not_RB referred_VBN to_TO ,_, there_EX is_VBZ no_DT need_NN to_TO cons_NNS

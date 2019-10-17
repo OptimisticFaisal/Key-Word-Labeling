@@ -1,0 +1,5 @@
+remaining_VBG data_NNS points_NNS with_IN probability_NN proportional_JJ to_TO its_PRP$ distance_NN squared_VBD to_TO the_DT point_NN 's_POS closest_JJS cluster_NN center_NN ._.
+There_EX is_VBZ another_DT clustering_NN algorithms_NNS based_VBN on_IN regression_NN mixture_NN model_NN ._.
+Authors_NNS in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, use_VBP the_DT Expectation_NN Maximization_NN algorithm_NN -LRB-_-LRB- EMalgorithm_NN -RRB-_-RRB- -LRB-_-LRB- 14_CD -RRB-_-RRB- to_TO determine_VB the_DT cluster_NN memberships_NNS ._.
+Another_DT interesting_JJ approach_NN that_WDT detects_VBZ periodic_JJ patterns_NNS is_VBZ proposed_VBN in_IN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+In_IN this_DT paper_NN ,_, th_DT

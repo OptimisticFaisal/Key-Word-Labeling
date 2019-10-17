@@ -1,0 +1,5 @@
+vent_VB ._.
+Formally_RB ,_, TDT_NN consist_VBP of_IN five_CD separate_JJ tasks_NNS :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- topic_NN tracking_NN ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- first_JJ story_NN detection_NN ,_, -LRB-_-LRB- 3_LS -RRB-_-RRB- topic_NN detection_NN ,_, -LRB-_-LRB- 4_LS -RRB-_-RRB- topic_NN linkage_NN ,_, and_CC -LRB-_-LRB- 5_LS -RRB-_-RRB- story_NN segmentation_NN -LRB-_-LRB- 6_CD -RRB-_-RRB- ._.
+Many_JJ TDT_NN systems_NNS ,_, like_IN -LRB-_-LRB- 19_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC -LRB-_-LRB- 21_CD -RRB-_-RRB- are_VBP simply_RB a_DT modification_NN of_IN a_DT single_JJ pass_NN clustering_NN algorithm_NN ._.
+They_PRP compare_VBP a_DT news_NN story_NN against_IN a_DT set_NN of_IN profile_NN vectors_NNS kept_VBD in_IN memory_NN ._.
+If_IN the_DT story_NN does_VBZ not_RB match_VB any_DT of_IN the_DT profiles_NNS b_NN

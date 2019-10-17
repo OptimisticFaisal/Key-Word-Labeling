@@ -1,0 +1,4 @@
+owever_RB ,_, can_MD not_RB easily_RB be_VB cast_VBN in_IN this_DT framework_NN ._.
+Firstly_RB ,_, it_PRP is_VBZ often_RB more_RBR natural_JJ for_IN a_DT user_NN to_TO ask_VB for_IN the_DT n_NN best_JJS solutions_NNS instead_RB of_IN the_DT single_JJ best_JJS or_CC all_DT hypotheses_NNS above_IN a_DT threshold_NN -LRB-_-LRB- see_VB e.g._FW ,_, =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Secondly_RB ,_, many_JJ popular_JJ utility_NN measures_NNS can_MD not_RB be_VB expressed_VBN as_IN an_DT averaging_NN utility_NN function_NN ._.
+This_DT is_VBZ the_DT case_NN ,_, e.g._FW ,_, for_IN all_DT functions_NNS that_WDT combine_VBP coverage_NN and_CC distributional_JJ properties_NNS of_IN a_DT hypo_NN

@@ -1,0 +1,4 @@
+grown_VBN in_IN extending_VBG the_DT frequent_JJ item_NN set_NN paradigm_NN to_TO more_RBR expressive_JJ pattern_NN types_NNS such_JJ as_IN graphs_NNS ,_, trees_NNS and_CC sequences_NNS ._.
+Special_JJ attention_NN has_VBZ been_VBN devoted_VBN to_TO semi-structured_JJ and_CC tree-structured_JJ data_NN =_JJ -_: =[_NN 3_CD ,_, 5_CD ,_, 7_CD ,_, 2_CD ,_, 6_CD ,_, 1_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Most_JJS of_IN these_DT approaches_NNS aim_VBP at_IN finding_VBG all_DT frequent_JJ trees_NNS in_IN a_DT forest_NN of_IN trees_NNS ._.
+They_PRP differ_VBP in_IN the_DT algorithms_NNS and_CC implementation_NN details_NNS ,_, and_CC more_RBR importantly_RB also_RB in_IN the_DT underlying_JJ notion_NN of_IN tree_NN

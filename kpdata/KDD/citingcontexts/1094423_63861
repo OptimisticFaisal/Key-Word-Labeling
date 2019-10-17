@@ -1,0 +1,7 @@
+l_NN analysis_NN of_IN the_DT pattern_NN matching_NN approach_NN ._.
+1.2_CD Related_NNP Work_NNP There_EX are_VBP numerous_JJ Information_NN Extraction_NN -LRB-_-LRB- IE_NN -RRB-_-RRB- approaches_NNS ._.
+Some_DT focus_NN on_IN unary_JJ relations_NNS -LRB-_-LRB- e.g._FW on_IN extracting_VBG all_DT cities_NNS from_IN a_DT given_VBN text_NN =_JJ -_: =[_NN 13_CD ,_, 7_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+In_IN this_DT paper_NN we_PRP pursue_VBP the_DT more_RBR general_JJ binary_JJ relations_NNS ._.
+Some_DT systems_NNS are_VBP designed_VBN to_TO discover_VB new_JJ binary_JJ relations_NNS -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+However_RB ,_, in_IN our_PRP$ setting_NN ,_, the_DT target_NN relation_NN is_VBZ given_VBN ._.
+Some_DT systems_NNS are_VBP r_NN

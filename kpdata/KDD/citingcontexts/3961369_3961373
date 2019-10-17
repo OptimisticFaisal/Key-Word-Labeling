@@ -1,0 +1,4 @@
+lem_NN of_IN k-anonymization_NN and_CC focus_VB on_IN two_CD interesting_JJ issues_NNS :_: anonymization_NN using_VBG heuristic_NN local_JJ recoding_NN and_CC utility-based_JJ anonymization_NN ._.
+1.1_CD Global_NNP and_CC Local_NNP Anonymization_NNP Many_JJ recent_JJ methods_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 4_CD ,_, 6_CD ,_, 7_CD -RRB-_-RRB- -_: =--RRB-_NN use_NN either_CC global_JJ recoding_NN or_CC constrained_VBN local_JJ recoding_NN ._.
+Global_JJ recoding_NN maps_VBZ a_DT given_VBN value_NN in_IN a_DT single_JJ domain_NN to_TO another_DT one_CD globally_RB ._.
+In_IN constrained_VBN local_JJ recoding_NN ,_, the_DT data_NNS space_NN is_VBZ partitioned_VBN

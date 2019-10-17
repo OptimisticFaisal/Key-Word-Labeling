@@ -1,0 +1,4 @@
+entity_NN resolution_NN ,_, compared_VBN to_TO their_PRP$ nonrecursive_JJ counterparts_NNS ._.
+Another_DT body_NN of_IN related_JJ work_NN uses_VBZ frequent_JJ sub-graphs_NNS as_IN structural_JJ features_NNS for_IN classification_NN of_IN graphs_NNS -LRB-_-LRB- 18_CD ,_, 8_CD -RRB-_-RRB- and_CC anomaly_RB detection_NN =_JJ -_: =[_NN 26_CD ,_, 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT methods_NNS ,_, however_RB ,_, assume_VBP that_IN the_DT nodes_NNS in_IN given_VBN graphs_NNS have_VBP labels_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, our_PRP$ feature_NN extraction_NN procedures_NNS exploit_VBP the_DT structure_NN of_IN the_DT graphs_NNS ,_, without_IN any_DT assumption_NN on_IN the_DT ava_NN

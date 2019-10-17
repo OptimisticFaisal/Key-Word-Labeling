@@ -1,0 +1,5 @@
+s_NN for_IN learning_VBG Bayesian_JJ networks_NNS ._.
+The_DT first_JJ algorithm_NN uses_VBZ a_DT form_NN of_IN stochastic_JJ hillclimbing_NN over_IN possible_JJ network_NN structures_NNS using_VBG the_DT Bayesian_NNP Information_NNP Criterion_NNP as_IN its_PRP$ scoring_VBG function_NN ._.
+ADTrees_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: are_VBP used_VBN to_TO speed_VB up_RP this_DT search_NN by_IN decreasing_VBG the_DT amount_NN of_IN time_NN necessary_JJ to_TO calculate_VB the_DT dataset_NN statistics_NNS required_VBN for_IN the_DT search_NN ._.
+The_DT second_JJ algorithm_NN takes_VBZ two_CD sweeps_NNS through_IN the_DT dataset_NN ._.
+In_IN

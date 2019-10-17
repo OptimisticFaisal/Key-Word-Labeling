@@ -1,0 +1,3 @@
+at_IN any_DT algorithm_NN that_IN constructs_NNS an_DT RRQR_NN factorization_NN of_IN a_DT matrix_NN A_NN with_IN provable_JJ guarantees_NNS also_RB provides_VBZ provable_JJ guarantees_NNS for_IN the_DT CSSP_NN ._.
+Table_NNP 1_CD summarizes_VBZ existing_VBG results_NNS -LRB-_-LRB- see_VB also_RB a_DT survey_NN in_IN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+Within_IN the_DT theoretical_JJ computer_NN science_NN community_NN ,_, much_JJ work_NN has_VBZ followed_VBN that_IN of_IN Frieze_NNP ,_, Kannan_NNP ,_, and_CC Vempala_NNP -LRB-_-LRB- 20_CD -RRB-_-RRB- on_IN selecting_VBG a_DT small_JJ subset_NN of_IN representative_JJ columns_NNS of_IN A_NN ,_, forming_VBG a_DT matrix_NN C_NN ,_, su_FW

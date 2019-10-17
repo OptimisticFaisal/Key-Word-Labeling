@@ -1,0 +1,4 @@
+ure_NN and_CC in_IN similarity_NN metrics_NNS ._.
+Popular_NNP similarity_NN metrics_NNS include_VBP Minkowski_NNP distance_NN -LRB-_-LRB- see_VB Keogh_NNP et_FW al._FW ,_, 2001_CD -RRB-_-RRB- ,_, compression-based_JJ metrics_NNS -LRB-_-LRB- see_VB Keogh_NNP et_FW al._FW ,_, 2004_CD -RRB-_-RRB- and_CC dynamic_JJ time_NN warping_NN metrics_NNS -LRB-_-LRB- see_VB =_JJ -_: =_JJ Vlachos_NNP et_FW al._FW ,_, 2003_CD -_: =--RRB-_NN -RRB-_-RRB- ._.
+Often_RB ,_, a_DT technique_NN for_IN reduction_NN of_IN the_DT dimensionality_NN of_IN the_DT problem_NN is_VBZ employed_VBN ,_, such_JJ as_IN discrete_JJ Fourier_NN transform_VBP see_VB Agrawal_NNP et_FW al._FW ,_, 1993_CD and_CC Faloutsos_NNP et_FW al._FW ,_, 1994_CD -RRB-_-RRB- ._.
+String_NNP indexes_NNS usually_RB s_VBZ

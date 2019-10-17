@@ -1,0 +1,4 @@
+training_NN phase_NN ,_, where_WRB models_NNS are_VBP learned_VBN from_IN past_JJ data_NNS ,_, and_CC a_DT testing_NN phase_NN ,_, where_WRB models_NNS are_VBP applied_VBN on_IN the_DT future_JJ data_NNS ._.
+Recently_RB ,_, much_JJ work_NN focuses_VBZ on_IN mining_NN evolving_VBG data_NNS -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 3_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 7_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Evolving_VBG data_NNS ,_, or_CC data_NNS with_IN changing_VBG class_NN distribution_NN ,_, blurs_VBZ the_DT boundary_NN between_IN the_DT training_NN and_CC the_DT testing_NN phases_NNS ._.
+Because_IN data_NN 's_POS class_NN distribution_NN is_VBZ no_DT longer_RBR stationary_JJ ,_, mod_NN

@@ -1,0 +1,3 @@
+cluster_NN more_RBR efficiently_RB by_IN building_VBG a_DT kd-tree_NN over_IN the_DT data_NNS 's_POS feature_NN space_NN and_CC then_RB traversing_VBG that_DT tree_NN to_TO assign_VB clusters_NNS to_TO groups_NNS of_IN items_NNS at_IN a_DT time_NN -LRB-_-LRB- Alsabti_NNP et_FW al._FW ,_, 1998_CD ;_: Kanungo_NNP et_FW al._FW ,_, 1999_CD ;_: =_JJ -_: =_JJ Pelleg_NNP &_CC Moore_NNP ,_, 1999_CD -_: =--RRB-_NN ._.
+The_DT binary_JJ kd-tree_NN is_VBZ a_DT hierarchical_JJ data_NN structure_NN that_WDT starts_VBZ with_IN a_DT cell_NN covering_VBG the_DT entire_JJ data_NNS set_NN and_CC successively_RB splits_VBZ the_DT feature_NN space_NN into_IN smaller_JJR cells_NNS ._.
+We_PRP refer_VBP to_TO the_DT tree_NN node_NN and_CC

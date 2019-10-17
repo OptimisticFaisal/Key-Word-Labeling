@@ -1,0 +1,4 @@
+owing_VBG ,_, we_PRP review_VBP some_DT of_IN the_DT previous_JJ work_NN on_IN automatic_JJ classification_NN based_VBN image_NN retrieval_NN ._.
+Yu_NNP and_CC Wolf_NNP presented_VBD a_DT one-dimensional_JJ Hidden_NNP Markov_NNP Model_NNP -LRB-_-LRB- HMM_NNP -RRB-_-RRB- for_IN indoor\/outdoor_JJ scene_NN classification_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT image_NN is_VBZ first_RB divided_VBN into_IN horizontal_JJ -LRB-_-LRB- or_CC vertical_JJ -RRB-_-RRB- segments_NNS and_CC each_DT segment_NN is_VBZ further_RB divided_VBN into_IN blocks_NNS ._.
+Color_NN histograms_NNS of_IN blocks_NNS are_VBP used_VBN to_TO train_VB HMM_NNP 's_POS for_IN a_DT preset_JJ standard_JJ set_NN of_IN clus_NN

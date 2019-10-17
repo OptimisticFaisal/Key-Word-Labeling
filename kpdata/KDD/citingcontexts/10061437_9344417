@@ -1,0 +1,3 @@
+2_CD Evaluation_NN Metrics_NNS --_: MAP_NN and_CC MRR_NN We_PRP evaluate_VBP the_DT performance_NN of_IN our_PRP$ algorithm_NN and_CC that_DT of_IN MMR_NNP on_IN two_CD widely-studied_JJ metrics_NNS ,_, viz._NN ,_, the_DT mean_JJ average_JJ precision_NN -LRB-_-LRB- MAP_NN -RRB-_-RRB- ,_, and_CC the_DT mean_JJ reciprocal_JJ rank_NN -LRB-_-LRB- MRR_NN -RRB-_-RRB- =_JJ -_: =[_NN 20_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP observe_VBP that_IN even_RB though_IN these_DT metrics_NNS explicitly_RB do_VBP n't_RB measure_VB diversity_NN ,_, they_PRP do_VBP assigns_VBZ value_NN to_TO any_DT result_NN set_NN containing_VBG at_IN least_JJS one_CD relevant_JJ document_NN ._.
+The_DT ``_`` average_JJ precision_NN at_IN k_NN ''_'' of_IN an_DT or_CC

@@ -1,0 +1,9 @@
+ndex_FW j_FW ∈_NN -LRB-_-LRB- n_NN -RRB-_-RRB- ._.
+The_DT indexing_NN function_NN returns_NNS index_NN -LRB-_-LRB- x_NN ,_, j_NN -RRB-_-RRB- =_JJ xj_NN ._.
+Definition_NN 2_CD -LRB-_-LRB- Multi-Party_JJ Set_NN Disjointness_NN -RRB-_-RRB- ._.
+There_EX are_VBP t_NN players_NNS P1_NN ,_, ..._: ,_, Pt_NN ._.
+Pi_NN has_VBZ an_DT n_NN bit_NN string_NN x_NN i_LS ._.
+The_DT tparty_NN set_VBD disjointness_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_SYM -_: function_NN returns_NNS disjn_NN ,_, t_NN -LRB-_-LRB- x_NN 1_CD ,_, ..._: ,_, x_NN t_NN V_NN -RRB-_-RRB- =_JJ t_NN i_FW =_JJ 1_CD xij_NN ._.
+W_NN n_NN j_NN =_JJ 1_CD Theorem_NNP 6.1_CD ._.
+For_IN any_DT 0_CD -LRB-_-LRB- δ_NN -LRB-_-LRB- 1\/4_CD ,_, C_NN 1-way_JJ δ_NN -LRB-_-LRB- indexn_NN -RRB-_-RRB- =_JJ Ω_NN -LRB-_-LRB- n_NN -RRB-_-RRB- ._.
+The_DT result_NN remains_VBZ true_JJ for_IN instances_NNS -LRB-_-LRB- x_NN ,_, j_NN -RRB-_-RRB- where_WRB x_NN has_VBZ exactly_RB n\/2_JJ e_SYM

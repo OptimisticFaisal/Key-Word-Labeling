@@ -1,0 +1,3 @@
+gonal_JJ vectors_NNS ._.
+For_IN this_DT reason_NN creating_VBG extremely_RB sparse_JJ vectors_NNS with_IN only_RB 1_CD :_: s_NN and_CC −_NN 1_CD :_: s_NN would_MD produce_VB approximately_RB sparse_JJ vectors_NNS ,_, given_VBN that_IN the_DT dimensionality_NN of_IN the_DT vectors_NNS is_VBZ sufficiently_RB large_JJ ._.
+=_SYM -_: =[_NN 14_CD -RRB-_-RRB- -_: =_SYM -_: Xt_FW ×_FW dRd_NN ×_CD k_NN =_JJ ˜_FW Xt_FW ×_FW k_NN -LRB-_-LRB- 5.1_CD -RRB-_-RRB- Bingham_NNP and_CC Mannila_NNP tested_VBD the_DT performance_NN of_IN random_JJ projection_NN in_IN comparison_NN to_TO other_JJ dimension_NN reduction_NN techniques_NNS ,_, such_JJ as_IN SVD_NNP ,_, in_IN different_JJ applications_NNS ,_, image_NN processing_NN

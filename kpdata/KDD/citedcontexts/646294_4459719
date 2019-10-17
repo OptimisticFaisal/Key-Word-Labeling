@@ -1,0 +1,4 @@
+d_NN using_VBG the_DT co-occurrence_NN relationship_NN among_IN tokens_NNS ._.
+-LRB-_-LRB- Step_NN 2_CD -RRB-_-RRB- Once_IN the_DT contexts_NNS of_IN entities_NNS are_VBP captured_VBN and_CC represented_VBN as_IN context_NN graphs_NNS ,_, their_PRP$ similarity_NN can_MD be_VB properly_RB modeled_VBN using_VBG Quasi-Clique_NN =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+A_DT connected_JJ graph_NN G_NN is_VBZ asAlgorithm_NN 1_CD :_: distQC_NN Input_NN :_: A_DT grouped-entity_NN e_SYM ,_, an_DT ER_NN method_NN M_NN ,_, and_CC three_CD parameters_NNS -LRB-_-LRB- α_NN ,_, γ_NN and_CC S_NN -RRB-_-RRB- ._.
+Output_NN :_: k_NN variant_NN grouped-entities_NNS ,_, ev_NN -LRB-_-LRB- ∈_NN E_NN -RRB-_-RRB- ,_, such_JJ that_IN ev_FW ∼_FW e._FW 1_CD Using_VBG M_NN ,_,

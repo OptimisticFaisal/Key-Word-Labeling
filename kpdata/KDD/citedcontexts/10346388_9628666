@@ -1,0 +1,3 @@
+sts_NNS beyond_IN a_DT standard_JJ global_JJ filtering_VBG system_NN ,_, and_CC -LRB-_-LRB- 3_LS -RRB-_-RRB- do_VBP not_RB require_VB complete_JJ feedback_NN from_IN each_DT user_NN ._.
+To_TO satisfy_VB these_DT requirements_NNS we_PRP propose_VBP using_VBG the_DT partitioned_VBN logistic_JJ regression_NN -LRB-_-LRB- PLR_NN -RRB-_-RRB- model_NN -LRB-_-LRB- =_JJ -_: =_JJ Chang_NNP et_FW al._FW ,_, 2008_CD -_: =--RRB-_NN that_WDT learns_VBZ content_NN and_CC user_NN models_NNS separately_RB ._.
+While_IN users_NNS share_VBP the_DT same_JJ content_NN model_NN trained_VBN on_IN all_DT mail_NN ,_, the_DT user_NN model_NN can_MD be_VB built_VBN ef-ficiently_RB using_VBG only_RB a_DT few_JJ statistics_NNS of_IN the_DT messages_NNS re_VBP

@@ -1,0 +1,6 @@
+Journal_NNP and_CC DBLP_NNP ._.
+Some_DT of_IN our_PRP$ evolution_NN metrics_NNS are_VBP influenced_VBN by_IN their_PRP$ work_NN ._.
+However_RB ,_, they_PRP define_VBP conferences_NNS in_IN DBLP_NN as_IN clusters_NNS while_IN we_PRP have_VBP typed-clusters_NNS obtained_VBN using_VBG NetClus_NNP ._.
+Leskovec_NNP et_FW al._FW =_SYM -_: =[_NN 8_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 9_CD -RRB-_-RRB- present_VBP a_DT detailed_JJ study_NN of_IN network_NN evolution_NN ._.
+However_RB ,_, they_PRP do_VBP not_RB deal_VB with_IN clustering_NN of_IN these_DT graphs_NNS or_CC study_NN of_IN the_DT evolution_NN of_IN clusters_NNS ._.
+Tang_NNP et_FW al._FW -LRB-_-LRB- 16_CD -RRB-_-RRB- study_NN community_NN evolution_NN in_IN a_DT mu_NN

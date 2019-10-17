@@ -1,0 +1,5 @@
+ge_IN modeling-based_JJ retrieval_NN model_NN ._.
+Agichtein_NNP et_FW al._FW -LRB-_-LRB- 3_CD -RRB-_-RRB- present_VBP a_DT supervised_JJ approach_NN to_TO mining_NN user_NN interaction_NN and_CC contentbased_JJ lexical_JJ features_NNS to_TO identify_VB high_JJ quality_NN content_NN in_IN CQA_NNP ._.
+Bian_NNP et_FW al._FW =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_SYM -_: develop_VB a_DT ranking_JJ system_NN to_TO retrieve_VB relevant_JJ and_CC high-quality_JJ answers_NNS ._.
+Most_JJS models_NNS above_RB do_VBP not_RB explicitly_RB integrate_VB content_NN quality_NN and_CC user_NN reputation_NN information_NN into_IN the_DT ranking_JJ process_NN ._.
+Hong_NNP an_DT

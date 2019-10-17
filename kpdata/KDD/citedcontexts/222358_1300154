@@ -1,0 +1,3 @@
+aluable_JJ for_IN various_JJ Web_NN applications_NNS intended_VBN for_IN characterizing_VBG the_DT Web_NN structure_NN -LRB-_-LRB- 11_CD ,_, 2_CD -RRB-_-RRB- ,_, improving_VBG searching_VBG on_IN the_DT Web_NN -LRB-_-LRB- 10_CD ,_, 15_CD ,_, 17_CD -RRB-_-RRB- ,_, and_CC optimizing_VBG the_DT Web_NN performance_NN via_IN caching_NN and_CC prefetching_NN =_JJ -_: =[_NN 4_CD ,_, 12_CD ,_, 18_CD ,_, 21_CD ,_, 25_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT dramatic_JJ increase_NN of_IN HTTP_NN traffic_NN on_IN the_DT Internet_NNP has_VBZ resulted_VBN in_IN wide-spread_JJ use_NN of_IN large_JJ proxy_NN servers_NNS as_IN critical_JJ Internet_NNP infrastructure_NN components_NNS ._.
+Web_NN access_NN logs_NNS collected_VBN at_IN these_DT proxy_NN

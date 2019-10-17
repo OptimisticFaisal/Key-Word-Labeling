@@ -1,0 +1,4 @@
+own_JJ to_TO be_VB very_RB effective_JJ in_IN improving_VBG generalization_NN performance_NN compared_VBN to_TO the_DT individual_JJ base_NN models_NNS ._.
+Theoretical_JJ analysis_NN of_IN boosting_VBG 's_POS performance_NN supports_VBZ these_DT results_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+In_IN previous_JJ work_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- =_SYM -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, we_PRP developed_VBD online_JJ versions_NNS of_IN bagging_VBG and_CC boosting_VBG ._.
+Online_JJ learning_NN algorithms_NNS process_VBP each_DT training_NN example_NN once_RB ``_`` on_IN arrival_NN ''_'' without_IN the_DT need_NN for_IN storage_NN and_CC reprocessing_NN ,_, and_CC maintain_VB a_DT curre_NN

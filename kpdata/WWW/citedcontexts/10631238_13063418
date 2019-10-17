@@ -1,0 +1,4 @@
+bution_NN network_NN -LRB-_-LRB- MDN_NN -RRB-_-RRB- ._.
+In_IN this_DT paper_NN ,_, we_PRP define_VBP a_DT MDN_NN to_TO be_VB a_DT collection_NN of_IN drive-by_JJ downloads_NNS that_WDT serve_VBP the_DT same_JJ malicious_JJ objective_NN such_JJ as_IN distributing_VBG related_JJ malware_NN executables_NNS ._.
+Several_JJ methods_NNS =_JJ -_: =[_NN 2_CD ,_, 6_CD ,_, 8_CD ,_, 9_CD ,_, 10_CD ,_, 20_CD -RRB-_-RRB- -_: =_SYM -_: have_VBP been_VBN proposed_VBN to_TO detect_VB drive-by_JJ download_NN attacks_NNS and_CC are_VBP described_VBN in_IN detail_NN in_IN Section_NN 2_CD ._.
+Most_JJS of_IN these_DT methods_NNS -LRB-_-LRB- 2_CD ,_, 6_CD ,_, 9_CD ,_, 10_CD ,_, 20_CD -RRB-_-RRB- depend_VBP on_IN the_DT malicious_JJ webpage_NN content_NN returned_VBN by_IN servers_NNS us_PRP

@@ -1,0 +1,4 @@
+is_VBZ interested_JJ in_IN summarizing_VBG XML_NN documents_NNS of_IN which_WDT structure_NN is_VBZ only_RB one_CD part_NN and_CC the_DT data_NNS the_DT other_JJ ._.
+Other_JJ approaches_NNS to_TO representing_VBG XML_NN data_NNS in_IN a_DT concise_JJ manner_NN include_VBP compression_NN -LRB-_-LRB- for_IN example_NN ,_, =_JJ -_: =[_NN 4_CD -RRB-_-RRB- -_: =--RRB-_NN and_CC statistical_JJ summaries_NNS -LRB-_-LRB- for_IN example_NN ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+However_RB ,_, the_DT many_JJ tools_NNS for_IN compression_NN focus_NN on_IN efficient_JJ query_NN processing_NN and_CC not_RB on_IN the_DT readability_NN for_IN the_DT end-user_NN ._.
+And_CC statistical_JJ summaries_NNS are_VBP u_NN

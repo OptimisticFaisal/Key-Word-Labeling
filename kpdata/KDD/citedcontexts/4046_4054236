@@ -1,0 +1,3 @@
+osted_VBN Naive_JJ Bayes_NNS -LRB-_-LRB- Elkan_NNP ,_, 1997_CD -RRB-_-RRB- ,_, we_PRP compared_VBD our_PRP$ reduction_NN to_TO the_DT minimum_NN expected_VBD cost_NN approach_NN after_IN calibration_NN of_IN the_DT probability_NN estimates_NNS produced_VBN by_IN the_DT learner_NN ,_, as_IN done_VBN by_IN Zadrozny_NNP and_CC Elkan_NNP -LRB-_-LRB- =_JJ -_: =_JJ Zadrozny_NNP &_CC Elkan_NNP ,_, 2002_CD -_: =--RRB-_NN ._.
+We_PRP applied_VBD the_DT methods_NNS to_TO seven_CD UCI_NN multiclass_JJ datasets_NNS ._.
+Since_IN these_DT datasets_NNS do_VBP not_RB have_VB costs_NNS associated_VBN with_IN them_PRP ,_, we_PRP generated_VBD artificial_JJ costs_NNS in_IN the_DT same_JJ manner_NN that_WDT was_VBD done_VBN in_IN the_DT MetaCost_NN

@@ -1,0 +1,4 @@
+cations_NNS ._.
+These_DT techniques_NNS include_VBP static_JJ code_NN analysis_NN -LRB-_-LRB- 9_CD ,_, 14_CD ,_, 33_CD --_: 35_CD -RRB-_-RRB- ,_, dynamic_JJ tainting_NN -LRB-_-LRB- 23_CD ,_, 24_CD ,_, 27_CD -RRB-_-RRB- ,_, combination_NN of_IN dynamic_JJ tainting_NN and_CC static_JJ analysis_NN -LRB-_-LRB- 32_CD -RRB-_-RRB- ,_, prevention_NN by_IN construction_NN or_CC by_IN design_NN =_JJ -_: =[_NN 8_CD ,_, 13_CD ,_, 29_CD ,_, 36_CD -RRB-_-RRB- -_: =_JJ -_: and_CC enforcement_NN mechanisms_NNS executing_VBG within_IN the_DT browser_NN -LRB-_-LRB- 1_CD ,_, 7_CD ,_, 10_CD ,_, 31_CD -RRB-_-RRB- ._.
+Some_DT of_IN these_DT techniques_NNS have_VBP been_VBN commercialized_VBN and_CC can_MD be_VB found_VBN in_IN today_NN 's_POS development_NN toolsets_NNS ._.
+An_DT example_NN is_VBZ Microsoft_NNP 's_POS F_NN

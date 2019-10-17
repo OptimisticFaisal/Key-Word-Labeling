@@ -1,0 +1,5 @@
+the_DT overfitting_NN problem_NN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT new_JJ constrained_VBN formulations_NNS for_IN CRF_NN training_NN to_TO help_VB overcome_VB the_DT overfitting_NN problem_NN ,_, inspired_VBN by_IN the_DT idea_NN of_IN cross-validation_NN ._.
+Cross-validation_NN =_SYM -_: =[_NN 9_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ often_RB used_VBN to_TO estimate_VB the_DT accuracy_NN of_IN a_DT classifier_NN and_CC to_TO select_VB models_NNS ._.
+We_PRP propose_VBP to_TO use_VB cross-validation_NN in_IN a_DT novel_JJ way_NN as_IN a_DT measure_NN to_TO address_NN overfitting_NN ._.
+Constraintsprescribing_VBG the_DT differe_NN

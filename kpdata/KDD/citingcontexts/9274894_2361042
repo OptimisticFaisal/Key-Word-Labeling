@@ -1,0 +1,4 @@
+ng_NN learning_NN -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 7_CD ,_, 8_CD ,_, 30_CD -RRB-_-RRB- -RRB-_-RRB- ._.
+Active_JJ learning_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- focuses_VBZ on_IN the_DT problem_NN of_IN costly_JJ label_NN acquisition_NN ,_, although_IN often_RB the_DT cost_NN is_VBZ not_RB made_VBN explicit_JJ ._.
+Active_JJ learning_NN -LRB-_-LRB- cf._VBP ,_, optimal_JJ experimental_JJ design_NN =_JJ -_: =[_NN 33_CD -RRB-_-RRB- -_: =--RRB-_NN uses_VBZ the_DT existing_VBG model_NN to_TO help_VB select_VB additional_JJ data_NNS for_IN which_WDT to_TO acquire_VB labels_NNS -LRB-_-LRB- 1_CD ,_, 14_CD ,_, 23_CD -RRB-_-RRB- ._.
+The_DT usual_JJ problem_NN setting_VBG for_IN active_JJ learning_NN is_VBZ in_IN direct_JJ contrast_NN to_TO the_DT setting_NN we_PRP consider_VBP for_IN rep_NN

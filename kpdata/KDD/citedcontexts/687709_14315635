@@ -1,0 +1,5 @@
+ions_NNS and_CC their_PRP$ applications_NNS can_MD be_VB found_VBN in_IN -LRB-_-LRB- Kolda_NNP &_CC Bader_NNP ,_, 2009_CD -RRB-_-RRB- ._.
+Recently_RB ,_, -LRB-_-LRB- Sutskever_NNP et_FW al._FW ,_, 2009_CD -RRB-_-RRB- introduced_VBD the_DT Bayesian_JJ Clustered_FW Tensor_FW Factorization_NN -LRB-_-LRB- BCTF_NN -RRB-_-RRB- and_CC applied_VBD it_PRP to_TO relational_JJ data_NNS ._.
+-LRB-_-LRB- =_JJ -_: =_JJ Sun_NNP et_FW al._FW ,_, 2006_CD -_: =--RRB-_NN presents_VBZ methods_NNS for_IN dynamic_NN and_CC streaming_NN tensor_NN analysis_NN ._.
+These_DT methods_NNS are_VBP used_VBN to_TO analyze_VB network_NN traffic_NN and_CC bibliographic_JJ data_NNS ._.
+-LRB-_-LRB- Franz_NNP et_FW al._FW ,_, 2009_CD -RRB-_-RRB- use_VBP CP_NN to_TO rank_VB relational_JJ data_NNS that_WDT is_VBZ give_VB

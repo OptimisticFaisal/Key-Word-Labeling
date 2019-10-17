@@ -1,0 +1,4 @@
+1.3_CD Using_VBG Traditional_JJ Rule_NNP Mining_NNP Systems_NNPS It_PRP is_VBZ easy_JJ to_TO think_VB of_IN ways_NNS to_TO use_VB classic_JJ data_NNS mining_NN algorithms_NNS to_TO mine_VB patterns_NNS from_IN the_DT data_NNS ._.
+For_IN example_NN ,_, it_PRP is_VBZ possible_JJ to_TO use_VB association_NN rule_NN mining_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: to_TO find_VB associations_NNS or_CC use_VB a_DT decision_NN tree_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- to_TO find_VB failure_NN patterns_NNS ._.
+However_RB ,_, these_DT algorithms_NNS are_VBP inadequate_JJ for_IN this_DT task_NN for_IN the_DT following_JJ reasons_NNS :_: 1_CD ._.
+Due_JJ to_TO the_DT large_JJ number_NN of_IN variables_NNS -LRB-_-LRB- m_NN

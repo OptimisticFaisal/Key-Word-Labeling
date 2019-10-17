@@ -1,0 +1,4 @@
+work_NN is_VBZ motivated_VBN by_IN the_DT fact_NN ,_, that_IN transaction_NN data_NNS is_VBZ often_RB noisy_JJ ._.
+The_DT strict_JJ definition_NN of_IN support_NN ,_, requiring_VBG all_DT items_NNS of_IN an_DT itemset_NN to_TO be_VB present_JJ in_IN a_DT transaction_NN ,_, is_VBZ relaxed_VBN -LRB-_-LRB- Pei_NNP et_FW al._FW ,_, 2001_CD ;_: =_JJ -_: =_JJ Yang_NNP et_FW al._FW ,_, 2001_CD -_: =_JJ -_: ;_: Seppänen_NNP and_CC Mannila_NNP ,_, 2004_CD ;_: Afrati_NNP et_FW al._FW ,_, 2004_CD ;_: Yan_NNP et_FW al._FW ,_, 2005_CD -RRB-_-RRB- ._.
+All_DT these_DT approaches_NNS have_VBP one_CD thing_NN in_IN common_JJ -_: they_PRP report_VBP false_JJ information_NN and_CC thus_RB violate_VBP the_DT Gricean_JJ maxim_NN of_IN quality_NN ._.
+They_PRP

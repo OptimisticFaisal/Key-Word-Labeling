@@ -1,0 +1,4 @@
+to_TO converge_VB is_VBZ of_IN the_DT order_NN log_NN c_NN nnz_NN -LRB-_-LRB- P_NN -RRB-_-RRB- ,_, where_WRB nnz_NN -LRB-_-LRB- P_NN -RRB-_-RRB- is_VBZ the_DT number_NN of_IN non-zero_JJ elements_NNS of_IN the_DT matrix_NN P_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- ._.
+We_PRP note_VBP that_IN the_DT relative_JJ error_NN decreases_VBZ uniformly_RB for_IN all_DT pages_NNS ._.
+Several_JJ proposals_NNS =_JJ -_: =[_NN 8_CD ,_, 11_CD ,_, 12_CD ,_, 14_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- see_VB also_RB an_DT extensive_JJ survey_NN paper_NN -LRB-_-LRB- 13_CD -RRB-_-RRB- -RRB-_-RRB- have_VBP recently_RB been_VBN put_VBN forward_RB to_TO accelerate_VB the_DT power_NN iteration_NN algorithm_NN ._.
+In_IN contrast_NN ,_, here_RB we_PRP study_VBP Monte_NNP Carlo_NNP -LRB-_-LRB- MC_NNP -RRB-_-RRB- type_NN methods_NNS for_IN the_DT PageRank_NN computa_NN

@@ -1,0 +1,5 @@
+s_NNS having_VBG 600MHz_NNP Pentium_NNP III_NNP processors_NNS and_CC 2GB_NN of_IN memory_NN ._.
+4.1_CD The_DT Data_NN We_PRP tested_VBD our_PRP$ algorithms_NNS on_IN several_JJ UCI_NN datasets_NNS -LRB-_-LRB- 2_CD -RRB-_-RRB- ,_, two_CD datasets_NNS -LRB-_-LRB- Census_NNP Income_NNP and_CC Forest_NNP Covertype_NNP -RRB-_-RRB- from_IN the_DT UCI_NNP KDD_NNP archive_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC three_CD synthetic_JJ datasets_NNS ._.
+We_PRP give_VBP their_PRP$ sizes_NNS and_CC numbers_NNS of_IN attributes_NNS and_CC classes_NNS in_IN Table_NNP 1_CD ._.
+All_DT three_CD of_IN our_PRP$ synthetic_JJ datasets_NNS have_VBP two_CD classes_NNS ._.
+The_DT prior_JJ probability_NN of_IN each_DT class_NN is_VBZ 0.5_CD ,_,

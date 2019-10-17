@@ -1,0 +1,5 @@
+rative_JJ filtering_VBG systems_NNS consider_VB two_CD users_NNS similar_JJ when_WRB their_PRP$ ratings_NNS tend_VBP to_TO agree_VB ._.
+Pearson_NNP correlation_NN and_CC cosine_NN similarity_NN are_VBP two_CD popular_JJ methods_NNS for_IN computing_NN agreement_NN between_IN sets_NNS of_IN ratings_NNS =_JJ -_: =[_NN 27_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, Pearson_NNP correlation_NN considers_VBZ only_JJ items_NNS both_DT users_NNS have_VBP rated_VBN ._.
+This_DT can_MD lead_VB to_TO spurious_JJ correlations_NNS between_IN users_NNS who_WP have_VBP rated_VBN only_RB a_DT few_JJ common_JJ items_NNS ._.
+Cosine_NN similarity_NN uses_VBZ all_DT of_IN th_DT

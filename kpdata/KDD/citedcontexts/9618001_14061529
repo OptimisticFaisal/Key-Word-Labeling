@@ -1,0 +1,5 @@
+harder_JJR to_TO detect_VB ._.
+Our_PRP$ detection_NN methods_NNS make_VBP use_NN of_IN URL_NN properties_NNS to_TO detect_VB malicious_JJ pages_NNS without_IN necessarily_RB crawling_VBG the_DT pages_NNS ._.
+In_IN this_DT respect_NN ,_, our_PRP$ work_NN is_VBZ similar_JJ to_TO previous_JJ work_NN by_IN Ma_NNP et_FW al._FW =_SYM -_: =[_NN 13_CD ,_, 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, where_WRB they_PRP build_VBP a_DT binary_JJ classifier_NN to_TO identify_VB email_JJ spam_NN URLs_NNS without_IN crawling_VBG the_DT corresponding_JJ pages_NNS ._.
+The_DT classifier_NN uses_VBZ training_NN data_NNS from_IN spam_NN emails_NNS ._.
+The_DT SEO_NNP attacks_VBZ we_PRP study_NN are_VBP very_RB new_JJ a_DT

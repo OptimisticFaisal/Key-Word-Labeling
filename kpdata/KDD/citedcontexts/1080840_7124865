@@ -1,0 +1,4 @@
+that_IN there_EX are_VBP broad_JJ variations_NNS in_IN musical_JJ structure_NN and_CC sound_NN ._.
+Even_RB if_IN this_DT is_VBZ recognized_VBN for_IN music_NN genre_NN classification_NN ,_, where_WRB different_JJ feature_NN sets_NNS are_VBP used_VBN for_IN determining_VBG class_NN likelihood_NN -LRB-_-LRB- eg_FW ._.
+=_SYM -_: =[_NN 7_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, no_DT song-level_JJ feature_NN model_NN optimization_NN is_VBZ performed_VBN ._.
+We_PRP think_VBP that_IN by_IN modelling_VBG each_DT song_NN with_IN an_DT optimal_JJ number_NN of_IN components_NNS significantly_RB improves_VBZ classification_NN 122sNumber_NN of_IN Occurences_NNS 20_CD 15_CD

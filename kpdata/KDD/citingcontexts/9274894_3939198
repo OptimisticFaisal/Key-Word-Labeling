@@ -1,0 +1,3 @@
+of_IN occurrences_NNS of_IN this_DT label_NN in_IN Li_NNP ._.
+These_DT weighted_JJ replicas_NNS can_MD be_VB used_VBN in_IN different_JJ ways_NNS by_IN different_JJ learning_NN algorithms_NNS ,_, e.g._FW ,_, in_IN algorithms_NNS that_WDT take_VBP weights_NNS directly_RB -LRB-_-LRB- such_JJ as_IN cost-sensitive_JJ tree_NN =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, or_CC in_IN techniques_NNS like_IN naive_JJ Bayes_NNS that_WDT naturally_RB incorporate_VBP uncertain_JJ labels_NNS ._.
+Moreover_RB ,_, any_DT importance-weighted_JJ classification_NN problem_NN can_MD be_VB reduced_VBN to_TO a_DT uniform-weighted_JJ classification_NN problem_NN -LRB-_-LRB-

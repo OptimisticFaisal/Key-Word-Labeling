@@ -1,0 +1,5 @@
+a_DT also_RB includes_VBZ a_DT version_NN of_IN the_DT data_NNS for_IN the_DT FOIL_NN system_NN ._.
+A_DT slightly_RB different_JJ graph-based_JJ approach_NN seeks_VBZ only_RB frequent_JJ patterns_NNS ,_, not_RB necessarily_RB high-compression_JJ patterns_NNS ._.
+One_CD such_JJ system_NN is_VBZ GASTON_NN =_JJ -_: =[_NN 2,11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Recently_RB ,_, these_DT frequent_JJ graph_NN mining_NN systems_NNS have_VBP been_VBN used_VBN to_TO generate_VB features_NNS for_IN Support_NN Vector_NNP Machines_NNP -LRB-_-LRB- SVMs_NNS -RRB-_-RRB- ._.
+SVMs_NNS have_VBP also_RB been_VBN directly_RB applied_VBN to_TO graph-based_JJ relational_JJ learning_NN through_IN

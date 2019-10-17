@@ -1,0 +1,4 @@
+._.
+For_IN comparisons_NNS we_PRP used_VBD Kendall_NNP 's_POS τ_NN ,_, a_DT classical_JJ nonparametric_JJ correlation_NN index_NN that_WDT has_VBZ recently_RB received_VBN much_JJ attention_NN within_IN the_DT web_NN community_NN for_IN its_PRP$ possible_JJ applications_NNS to_TO rank_VB aggregation_NN =_JJ -_: =[_NN 13_CD ,_, 14_CD ,_, 15_CD ,_, 16_CD -RRB-_-RRB- -_: =_JJ -_: and_CC for_IN determining_VBG the_DT convergence_NN speed_NN in_IN the_DT computation_NN of_IN PageRank_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+Here_RB we_PRP follow_VBP exactly_RB the_DT definition_NN given_VBN in_IN -LRB-_-LRB- 16_CD -RRB-_-RRB- ._.
+In_IN Figure_NNP 2_CD we_PRP show_VBP the_DT values_NNS of_IN Kendall_NNP 's_POS τ_NN -LRB-_-LRB- in_IN dependence_NN of_IN α_NN -RRB-_-RRB-

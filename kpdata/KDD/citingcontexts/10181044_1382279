@@ -1,0 +1,5 @@
+across_IN multiple_JJ bin_NN sizes_NNS b_NN -LRB-_-LRB- aggregation_NN times_NNS -RRB-_-RRB- as_IN we_PRP do_VBP not_RB a_DT priori_FW know_VB where_WRB a_DT clothesline_NN would_MD exist_VB ._.
+-LRB-_-LRB- Compare_VB Figures_NNS 2_CD -LRB-_-LRB- a_DT -RRB-_-RRB- and_CC -LRB-_-LRB- b_LS -RRB-_-RRB- -RRB-_-RRB- ._.
+For_IN a_DT given_VBN bin_NN size_NN ,_, we_PRP use_VBP the_DT median_NN filtering_VBG approach_NN =_JJ -_: =[_NN 24_CD -RRB-_-RRB- -_: =_SYM -_: for_IN identifying_VBG unusually_RB frequent_JJ update_VBP values_NNS ._.
+This_DT involves_VBZ using_VBG a_DT sliding_VBG window_NN over_IN the_DT marginals_NNS plot_NN and_CC plotting_VBG the_DT median_JJ value_NN over_IN this_DT window_NN ._.
+In_IN the_DT resulting_VBG plot_NN we_PRP choose_VBP those_DT po_FW

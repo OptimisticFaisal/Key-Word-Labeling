@@ -1,0 +1,4 @@
+-LRB-_-LRB- 25_CD -RRB-_-RRB- and_CC -LRB-_-LRB- 26_CD -RRB-_-RRB- are_VBP based_VBN on_IN only_RB one_CD linear_JJ constraint_NN ._.
+For_IN convergence_NN to_TO the_DT optimum_NN ,_, the_DT updates_NNS must_MD touch_VB upon_IN all_PDT the_DT constraints_NNS following_VBG a_DT schedule_NN known_VBN as_IN relaxation_NN control_NN -LRB-_-LRB- Bregman_NNP ,_, 1967_CD ;_: =_JJ -_: =_JJ Bauschke_NNP and_CC Borowein_NNP ,_, 1997_CD -_: =--RRB-_NN ._.
+For_IN simplicity_NN ,_, we_PRP consider_VBP updates_NNS based_VBN on_IN a_DT cyclic_JJ ordering_VBG of_IN the_DT constraints_NNS ,_, where_WRB all_DT constraints_NNS are_VBP considered_VBN one_CD after_IN the_DT other_JJ ._.
+The_DT cyclic_JJ ordering_VBG schedule_NN is_VBZ sufficient_JJ to_TO guarantee_VB

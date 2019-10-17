@@ -1,0 +1,5 @@
+single_JJ map_NN ,_, which_WDT corresponds_VBZ to_TO a_DT snapshot_NN in_IN our_PRP$ work_NN ._.
+Recently_RB ,_, Xiong_NNP et_FW al._FW proposed_VBD an_DT approach_NN to_TO discover_VB collocation_NN patterns_NNS for_IN extended_VBN spatial_JJ objects_NNS including_VBG line-strings_NNS and_CC polygons_NNS =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN each_DT object_NN ,_, they_PRP identify_VBP its_PRP$ neighborhood_NN and_CC then_RB consider_VB objects_NNS that_WDT have_VBP overlapped_VBN neighborhood_NN as_IN candidate_NN collocation_NN patterns_NNS ._.
+This_DT is_VBZ similar_JJ to_TO the_DT Clique_NNP SOAPs_NNS in_IN this_DT article_NN ._.
+Ho_NNP

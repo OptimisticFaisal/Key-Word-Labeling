@@ -1,0 +1,4 @@
+t_NN less_JJR than_IN 0.01_CD %_NN -RRB-_-RRB- in_IN the_DT west_JJ coast_NN store_NN ._.
+Finding_VBG Signature_NN Itemsets_NNS for_IN Network_NNP Intrusion_NNP :_: In_IN a_DT signature_NN detection_NN system_NN ,_, frequent_JJ itemsets_NNS can_MD serve_VB as_IN the_DT patterns_NNS to_TO signal_VB well-known_JJ attacks_NN =_JJ -_: =[_NN 28_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Suppose_VB a_DT tcpdump_NN dataset_NN contains_VBZ the_DT TCP_NNP packet_NN information_NN of_IN several_JJ different_JJ network_NN intrusion_NN attacks_NNS ._.
+We_PRP can_MD split_VB the_DT available_JJ data_NNS into_IN several_JJ datasets_NNS ,_, with_IN one_CD dataset_NN corresponding_VBG to_TO

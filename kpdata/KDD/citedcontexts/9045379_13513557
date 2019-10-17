@@ -1,0 +1,4 @@
+measure_NN relational_JJ similarity_NN is_VBZ two-fold_JJ ._.
+First_JJ ,_, Mahalanobis_JJ distance_NN can_MD be_VB learned_VBN from_IN a_DT few_JJ data_NNS points_NNS ,_, and_CC efficient_JJ algorithms_NNS that_WDT can_MD scale_VB well_RB to_TO high-dimensional_JJ feature_NN spaces_NNS are_VBP known_VBN =_JJ -_: =[_NN 13_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Second_RB ,_, unlike_IN Euclidean_JJ distance_NN ,_, Mahalanobis_NNP distance_NN does_VBZ not_RB assume_VB that_IN features_NNS are_VBP independent_JJ ._.
+This_DT is_VBZ particularly_RB important_JJ for_IN relational_JJ similarity_NN measures_NNS because_IN semantic_JJ relations_NNS ar_IN

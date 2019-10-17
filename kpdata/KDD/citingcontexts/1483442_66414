@@ -1,0 +1,4 @@
+any_DT range_NN containing_VBG the_DT interval_NN ;_: e.g._FW ,_, if_IN age_NN -LRB-_-LRB- 20,30_CD -RRB-_-RRB- meets_VBZ the_DT minimum_JJ support_NN constraints_NNS then_RB so_RB will_MD age_VB -LRB-_-LRB- 20,31_CD -RRB-_-RRB- ,_, age_NN -LRB-_-LRB- 20,40_CD -RRB-_-RRB- and_CC so_RB on_RB ._.
+This_DT can_MD result_VB in_IN a_DT huge_JJ number_NN of_IN rules_NNS ._.
+Miller_NNP and_CC Yang_NNP =_SYM -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: note_NN that_IN Srikant_NNP and_CC Agrawal_NNP 's_POS solution_NN may_MD combine_VB ranges_NNS that_WDT are_VBP not_RB meaningful_JJ and_CC can_MD result_VB in_IN unintuitive_JJ groupings_NNS ._.
+They_PRP present_VBP an_DT alternative_JJ approach_NN based_VBN on_IN clustering_VBG the_DT data_NNS and_CC then_RB

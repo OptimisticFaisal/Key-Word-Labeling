@@ -1,0 +1,5 @@
+-_: in_IN ''_'' ,_, and_CC so_RB the_DT non-stay-in_JJ ones_NNS will_MD all_DT be_VB pruned_VBN out_RP if_IN the_DT support_NN threshold_NN is_VBZ not_RB small_JJ enough_RB ._.
+To_TO solve_VB this_DT problem_NN ,_, we_PRP employ_VBP the_DT Association-based_JJ Decision_NN Tree_NN -LRB-_-LRB- ADT_NN -RRB-_-RRB- technique_NN proposed_VBN in_IN =_JJ -_: =[_NN 17_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN ADT_NN ,_, the_DT support_NN threshold_NN is_VBZ no_RB longer_RB used_VBN ._.
+Only_RB the_DT set_NN of_IN confident_JJ rules_NNS ,_, C_NN ,_, is_VBZ mined_VBN ._.
+These_DT rules_NNS are_VBP then_RB used_VBN to_TO build_VB a_DT decision_NN tree_NN such_JJ that_IN for_IN each_DT non-default_JJ rule_NN r_NN in_IN C_NN ,_, the_DT pare_NN

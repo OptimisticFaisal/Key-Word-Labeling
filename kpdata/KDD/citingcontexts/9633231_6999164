@@ -1,0 +1,4 @@
+aring_VBG to_TO an_DT average_NN of_IN only_RB 2_CD −_CD 4_CD %_NN accuracy_NN when_WRB testing_NN on_IN unseen_JJ data_NNS ._.
+One_CD existing_VBG approach_NN to_TO address_VB the_DT overfitting_JJ problem_NN of_IN CRFs_NNS is_VBZ to_TO include_VB a_DT regularization_NN term_NN in_IN the_DT objective_JJ function_NN =_JJ -_: =[_NN 16_CD ,_, 19_CD -RRB-_-RRB- -_: =_SYM -_: to_TO penalize_VB large_JJ weight_NN vectors_NNS ._.
+A_DT major_JJ problem_NN with_IN this_DT approach_NN is_VBZ that_IN ,_, the_DT regularization_NN factor_NN which_WDT controls_VBZ the_DT penalty_NN strength_NN is_VBZ hard_JJ to_TO control_VB ._.
+A_DT randomly_RB selected_VBN regularization_NN fact_NN

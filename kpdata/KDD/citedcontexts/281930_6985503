@@ -1,0 +1,3 @@
+Lozano_NNP et_FW al._FW -LRB-_-LRB- 22_CD -RRB-_-RRB- propose_VBP two_CD algorithms_NNS for_IN parallel_JJ mining_NN of_IN distance_NN and_CC density_NN based_JJ outliers_NNS ._.
+The_DT distance_NN based_VBN algorithm_NN is_VBZ a_DT parallel_JJ modification_NN of_IN Bay_NNP 's_POS randomized_VBN nested_JJ loop_NN algorithm_NN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC the_DT density_NN based_VBN version_NN is_VBZ a_DT modification_NN of_IN the_DT popular_JJ local_JJ outlier_NN factor_NN -LRB-_-LRB- LOF_NN -RRB-_-RRB- algorithm_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+Both_DT parallel_JJ variants_NNS proceed_VBP in_IN a_DT similar_JJ fashion_NN :_: First_NNP the_DT data_NNS space_NN is_VBZ partitioned_VBN acro_NN

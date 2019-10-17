@@ -1,0 +1,4 @@
+larms_NNS of_IN intrusions_NNS ,_, based_VBN on_IN anomalies_NNS in_IN behavior_NN ._.
+Since_IN traces_NNS of_IN actual_JJ computer_NN intrusions_NNS are_VBP rare_JJ and_CC difficult_JJ to_TO obtain_VB ,_, we_PRP chose_VBD a_DT variant_NN of_IN this_DT task_NN common_JJ in_IN computer_NN intrusion_NN research_NN =_JJ -_: =[_NN 6_CD ,_, 10_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT variant_NN ,_, the_DT goal_NN is_VBZ to_TO predict_VB ,_, based_VBN on_IN commands_NNS typed_VBN ,_, when_WRB the_DT user_NN of_IN a_DT given_VBN account_NN is_VBZ not_RB the_DT actual_JJ legitimate_JJ user_NN ._.
+With_IN such_PDT a_DT task_NN ,_, typically_RB one_CD user_NN at_IN a_DT time_NN is_VBZ chosen_VBN to_TO be_VB t_NN

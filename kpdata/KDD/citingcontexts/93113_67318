@@ -1,0 +1,4 @@
+hat_NN maximal_JJ sets_NNS do_VBP not_RB have_VB this_DT property_NN ,_, since_IN subset_NN counts_NNS are_VBP not_RB available_JJ ._.
+Methods_NNS for_IN mining_NN closed_VBD sets_NNS include_VBP the_DT Apriori-based_JJ A-Close_NN method_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, the_DT Closet_NNP algorithm_NN based_VBN on_IN FP-trees_NN =_JJ -_: =[_NN 13_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Charm_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+Most_JJS of_IN the_DT previous_JJ work_NN on_IN association_NN mining_NN has_VBZ utilized_VBN the_DT traditional_JJ horizontal_JJ transactional_JJ database_NN format_NN ._.
+However_RB ,_, a_DT number_NN of_IN vertical_JJ mining_NN algorithms_NNS have_VBP been_VBN propos_NNS

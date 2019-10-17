@@ -1,0 +1,6 @@
+that_WDT minimizes_VBZ S_NN -LRB-_-LRB- μ_NN -RRB-_-RRB- +_CC A_NN -LRB-_-LRB- μ_NN -RRB-_-RRB- ._.
+A_DT -LRB-_-LRB- μ_NN -RRB-_-RRB- represents_VBZ the_DT approximation_NN error_NN ,_, and_CC S_NN -LRB-_-LRB- μ_NN -RRB-_-RRB- represents_VBZ the_DT sample_NN error_NN ._.
+They_PRP correspond_VBP to_TO classic_JJ bias_NN and_CC variance_NN tradeoff_NN ._.
+The_DT detail_NN of_IN the_DT proof_NN can_MD be_VB found_VBN in_IN =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT kernelized_VBN version_NN of_IN the_DT theorem_NN can_MD be_VB similarly_RB derived_VBN ._.
+3.2_CD Bounding_NNP Distributions_NNPS First_NNP ,_, we_PRP will_MD show_VB that_IN under_IN some_DT suitable_JJ conditions_NNS ,_, the_DT data_NNS in_IN a_DT Gaussian_JJ RKHS_NN induced_VBN by_IN a_DT kernel_NN fu_NN

@@ -1,0 +1,5 @@
+possibly_RB due_JJ to_TO the_DT perceived_VBN complexity_NN of_IN optimizing_VBG for_IN AUC_NN ._.
+However_RB ,_, it_PRP is_VBZ possible_JJ to_TO optimize_VB for_IN AUC_NN even_RB on_IN very_RB large_JJ datasets_NNS -LRB-_-LRB- 30_CD -RRB-_-RRB- ._.
+To_TO do_VB this_DT ,_, we_PRP begin_VBP with_IN the_DT pairwise_JJ SVMRank_NN framework_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Consider_VB a_DT binary_JJ classification_NN scenario_NN with_IN training_NN set_VBN -LCB-_-LRB- -LRB-_-LRB- xi_FW ,_, yi_FW -RRB-_-RRB- -RCB-_-RRB- ,_, andletP_NN =_JJ -LCB-_-LRB- i_LS :_: yi_NN =_JJ 1_CD -RCB-_-RRB- and_CC N_NN =_JJ -LCB-_-LRB- i_LS :_: yi_IN =_JJ 0_CD -RCB-_-RRB- ._.
+The_DT empirical_JJ AUC_NN of_IN a_DT linear_JJ classifier_NN with_IN weight_NN w_NN is_VBZ Â_NN =_JJ 1_CD ∑_FW |_FW N_NN |_FW |_FW P_NN |_FW ∑_FW i_FW ∈_FW P_NN j_FW ∈_FW N_NN

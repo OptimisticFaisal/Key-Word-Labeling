@@ -1,0 +1,3 @@
+different_JJ levels_NNS of_IN matchings_NNS :_: Exact_JJ matching_NN -LRB-_-LRB- ClassRealSpecies_NNP ≡_NNP ClassQuerySpecies_NNP -RRB-_-RRB- ,_, PlugIn_NN matching_NN -LRB-_-LRB- ClassRealSpecies_NNP ⊑_NNP ClassQuerySpecies_NNP -RRB-_-RRB- andSubsume_NN matching_NN -LRB-_-LRB- ClassRealSpecies_NNP ⊒_NNP ClassQuerySpecies_NNP -RRB-_-RRB- =_JJ -_: =[_NN 26_CD ,_, 3_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Actually_RB there_EX is_VBZ another_DT possible_JJ species_NN list_NN ,_, which_WDT is_VBZ not_RB covered_VBN by_IN the_DT above_JJ three_CD kinds_NNS of_IN matchings_NNS ,_, that_DT is_VBZ ,_, Intersecting_JJ matching_NN -LRB-_-LRB- ¬_CD -LRB-_-LRB- ClassRealSpecies_NNP ⊓_NNP ClassQuerySpecies_NNP ⊑_NNP ⊥_NNP -RRB-_-RRB- -RRB-_-RRB- ._.
+For_IN example_NN ,_, i_FW

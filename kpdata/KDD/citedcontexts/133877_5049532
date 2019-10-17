@@ -1,0 +1,4 @@
+ed_VBN categories_NNS of_IN documents_NNS contain_VBP many_JJ of_IN the_DT same_JJ features_NNS ,_, i.e._FW words_NNS ,_, it_PRP is_VBZ not_RB easy_JJ for_IN traditional_JJ unsupervised_JJ clustering_NN methods_NNS to_TO organise_VB documents_NNS based_VBN on_IN their_PRP$ pre-classified_JJ categories_NNS =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT example_NN of_IN different_JJ decisions_NNS by_IN document_NN clustering_NN and_CC classification_NN is_VBZ illustrated_VBN in_IN Fig._NNP 1_CD ._.
+There_EX are_VBP nine_CD documents_NNS which_WDT are_VBP pre-classified_JJ as_IN two_CD categories_NNS ._.
+Documents_NNS pre-classified_JJ as_IN

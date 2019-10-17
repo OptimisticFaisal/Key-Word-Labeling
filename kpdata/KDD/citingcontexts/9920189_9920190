@@ -1,0 +1,3 @@
+ore_NN to_TO address_VB this_DT shortcoming_NN by_IN extending_VBG the_DT traditional_JJ Rocchio_NNP algorithm_NN by_IN using_VBG multiple_JJ profile_NN vectors_NNS instead_RB of_IN one_CD ._.
+This_DT is_VBZ a_DT similar_JJ technique_NN used_VBN in_IN topic_NN detection_NN and_CC tracking_NN -LRB-_-LRB- TDT_NN -RRB-_-RRB- =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC applied_VBD to_TO an_DT online_JJ personalized_JJ news_NN recommendation_NN setting_NN ._.
+Unlike_IN in_IN a_DT TDT_NN environment_NN ,_, where_WRB all_DT new_JJ topics_NNS are_VBP identified_VBN and_CC continually_RB tracked_VBN by_IN identifying_VBG their_PRP$ related_JJ articles_NNS ,_, ide_NN

@@ -1,0 +1,4 @@
+cus_NN on_IN efficient_JJ text_NN clustering_NN ,_, the_DT proposed_VBN algorithm_NN is_VBZ suitable_JJ for_IN any_DT kind_NN of_IN high-dimensional_JJ data_NNS with_IN Zipf_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- distribution_NN ._.
+Especially_RB on_IN the_DT Web_NN ,_, data_NNS frequently_RB show_VBP this_DT characteristic_NN =_JJ -_: =[_NN 11_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN such_JJ data_NNS ,_, our_PRP$ approach_NN allows_VBZ scaling_VBG up_RP K-Means_JJ computation_NN by_IN just_RB adding_VBG more_JJR computing_NN nodes_NNS ._.
+The_DT approach_NN does_VBZ not_RB only_RB apply_VB to_TO loosely_RB coupled_VBN P2P_NN networks_NNS ,_, but_CC also_RB to_TO computing_NN cluster_NN

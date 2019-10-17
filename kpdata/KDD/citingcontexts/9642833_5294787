@@ -1,0 +1,4 @@
+mining_NN of_IN truly_RB massive_JJ datasets_NNS ,_, with_IN millions_NNS of_IN time_NN series_NN ,_, occupying_VBG up_RP to_TO a_DT terabyte_NN of_IN disk_NN space_NN ._.
+Our_PRP$ approach_NN is_VBZ based_VBN on_IN a_DT modification_NN of_IN the_DT SAX_NNP representation_NN to_TO allow_VB extensible_JJ hashing_VBG =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN essence_NN ,_, we_PRP show_VBP how_WRB we_PRP can_MD modify_VB SAX_NNP to_TO be_VB a_DT multiresolution_JJ representation_NN ,_, similar_JJ in_IN spirit_NN to_TO wavelets_NNS ._.
+It_PRP is_VBZ this_DT multiresolution_JJ property_NN that_WDT allows_VBZ us_PRP to_TO index_NN time_NN series_NN with_IN zero_CD ove_NN

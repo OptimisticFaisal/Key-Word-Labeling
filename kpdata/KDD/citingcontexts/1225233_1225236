@@ -1,0 +1,4 @@
+mograms_NNS ,_, all_DT experiments_NNS were_VBD performed_VBN within_IN the_DT Orange_NNP toolkit_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+We_PRP employed_VBD LIBSVM_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- with_IN default_NN settings_NNS for_IN training_VBG the_DT SVM_NN classifiers_NNS ,_, and_CC iteratively_RB re-weighted_JJ least_JJS squares_NNS fitting_NN =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: of_IN the_DT logistic_JJ regression_NN model_NN ,_, as_IN implemented_VBN in_IN the_DT Orange_NNP extensions_NNS package_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- ._.
+We_PRP experimented_VBD on_IN 16_CD well-known_JJ UCI_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- data_NNS sets_NNS with_IN a_DT binary_JJ outcome_NN ._.
+For_IN data_NNS sets_NNS with_IN more_JJR than_IN 1000_CD ex_FW

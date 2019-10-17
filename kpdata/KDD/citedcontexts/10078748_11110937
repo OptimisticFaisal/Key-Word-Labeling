@@ -1,0 +1,4 @@
+n_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- -RRB-_-RRB- or_CC slower_JJR -LRB-_-LRB- as_IN shown_VBN in_IN our_PRP$ tests_NNS -RRB-_-RRB- than_IN the_DT optimized_VBN greedy_JJ algorithm_NN ._.
+Several_JJ studies_NNS design_NN machine_NN learning_VBG algorithms_NNS to_TO extract_VB influence_NN cascade_NN model_NN parameters_NNS from_IN real_JJ datasets_NNS -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 14_CD -RRB-_-RRB- ,_, which_WDT can_MD be_VB used_VBN to_TO generate_VB influence_NN graphs_NNS studied_VBN in_IN this_DT paper_NN ._.
+II_CD ._.
+LINEAR_JJ THRESHOLD_NN MODEL_NN AND_CC THE_DT GREEDY_JJ ALGORITHM_NN FOR_IN INFLUENCE_NNP MAXIMIZATION_NNP Following_VBG the_DT definition_NN in_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- ,_, we_PRP d_NN

@@ -1,0 +1,3 @@
+rmance_NN issues_NNS in_IN the_DT time_NN domain_NN ,_, though_IN some_DT authors_NNS also_RB considered_VBN other_JJ issues_NNS such_JJ as_IN supporting_VBG non_JJ Euclidean_JJ distance_NN measures_NNS -LRB-_-LRB- 5_CD ,_, 13_CD ,_, 14_CD -RRB-_-RRB- and_CC allowing_VBG queries_NNS time_NN series_NN of_IN different_JJ lengths_NNS =_JJ -_: =[_NN 13_CD ,_, 14_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+There_EX is_VBZ another_DT popular_JJ dissimilarity_NN metric_NN called_VBD the_DT ``_`` time_NN warping_NN ''_'' distance_NN ._.
+From_IN the_DT indexing_NN viewpoint_NN ,_, this_DT metric_NN presents_VBZ two_CD major_JJ challenges_NNS :_: -LRB-_-LRB- a_LS -RRB-_-RRB- it_PRP does_VBZ not_RB lead_VB to_TO any_DT natural_JJ indexing_NN

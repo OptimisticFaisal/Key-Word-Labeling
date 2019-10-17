@@ -1,0 +1,5 @@
+data_NNS set_VBD -RRB-_-RRB- ._.
+We_PRP first_JJ sample_NN 1000_CD points_NNS from_IN the_DT distribution_NN associated_VBN with_IN the_DT data_NNS set_NN ,_, and_CC then_RB learn_VB two_CD different_JJ kernel_NN models_NNS from_IN those_DT 1000_CD points_NNS ._.
+The_DT first_JJ is_VBZ learned_VBN using_VBG Scott_NNP 's_POS rule_NN -LRB-_-LRB- =_JJ -_: =_JJ Scott_NNP 1992_CD -_: =-]_NN ,_, which_WDT is_VBZ a_DT standard_JJ ,_, uniform_JJ bandwidth_NN selection_NN method_NN ._.
+The_DT second_NN is_VBZ learned_VBN using_VBG the_DT EM_NN algorithm_NN described_VBN above_IN ._.
+We_PRP then_RB sample_NN 1000_CD additional_JJ points_NNS from_IN the_DT two_CD KDEs_NNS ,_, resulting_VBG in_IN three_CD ,_, 1_CD

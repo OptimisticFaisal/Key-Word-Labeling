@@ -1,0 +1,5 @@
+ks_IN Figure_NNP 1_CD :_: Graphical_JJ structure_NN of_IN the_DT vlHMM_NN ._.
+Modeling_NN query_NN contexts_NNS by_IN mining_NN search_NN sessions_NNS is_VBZ a_DT fundamental_JJ and_CC challenging_JJ problem_NN ._.
+Although_IN some_DT progress_NN has_VBZ been_VBN made_VBN by_IN the_DT previous_JJ studies_NNS =_JJ -_: =[_NN 6_CD ,_, 15_CD ,_, 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, most_JJS of_IN them_PRP only_RB consider_VBP correlations_NNS within_IN query_NN pairs_NNS ._.
+Such_JJ a_DT method_NN can_MD not_RB capture_VB well_RB the_DT contexts_NNS exemplified_VBN in_IN Example_NNP 1_CD which_WDT are_VBP carried_VBN by_IN a_DT series_NN of_IN queries_NNS and_CC clicks_NNS ._.
+Moreover_RB ,_, eac_NN

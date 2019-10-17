@@ -1,0 +1,4 @@
+er-communities_NNS in_IN the_DT Web_NN computationally_RB more_RBR efficient_JJ ,_, in_IN the_DT spirit_NN of_IN -LRB-_-LRB- KRRT99_NN -RRB-_-RRB- ._.
+Finally_RB ,_, in_IN -LRB-_-LRB- FR05_NN -RRB-_-RRB- ,_, the_DT authors_NNS apply_VBP similar_JJ techniques_NNS to_TO produce_VB indices_NNS of_IN page_NN similarity_NN that_WDT extend_VBP SimRank_NN =_JJ -_: =_JJ -LRB-_-LRB- JW02_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN -LRB-_-LRB- DELIS-TR-564_NN -RRB-_-RRB- we_PRP consider_VBP some_DT applications_NNS that_WDT motivate_VBP the_DT potential_JJ utility_NN of_IN estimating_VBG the_DT local_JJ clustering_NN coefficient_NN in_IN massive_JJ graphs_NNS ._.
+Our_PRP$ first_JJ application_NN involves_VBZ spam_NN detection_NN :_: w_NN

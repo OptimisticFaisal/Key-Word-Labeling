@@ -1,0 +1,4 @@
+esearch_JJ topics_NNS in_IN data_NN mining_NN ._.
+In_IN recent_JJ years_NNS ,_, growing_VBG attention_NN has_VBZ been_VBN paid_VBN to_TO mining_NN techniques_NNS from_IN multivariate_JJ time_NN series_NN data_NNS ,_, which_WDT are_VBP naturally_RB represented_VBN as_IN a_DT stream_NN of_IN weighted_JJ graphs_NNS =_JJ -_: =[_NN 7_CD ,_, 11_CD ,_, 13_CD ,_, 12_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN such_PDT a_DT graph_NN ,_, each_DT node_NN corresponds_VBZ to_TO each_DT time_NN series_NN ,_, and_CC each_DT edge_NN is_VBZ weighted_VBN by_IN the_DT -LRB-_-LRB- dis_NN -RRB-_-RRB- similarity_NN between_IN a_DT pair_NN of_IN time_NN series_NN ._.
+One_CD of_IN the_DT typical_JJ tasks_NNS of_IN stream_NN mining_NN is_VBZ change_NN -LRB-_-LRB- or_CC an_DT

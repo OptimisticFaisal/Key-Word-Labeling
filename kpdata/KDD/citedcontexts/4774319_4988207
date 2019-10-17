@@ -1,0 +1,7 @@
+,_, 算法不需要维护候选模式_NN ._.
+文献_NN -LRB-_-LRB- 64_CD -RRB-_-RRB- 中实验证_FW 实_FW ,_, BIDE比CloSpan更为有效_NN ._.
+相关的研究还有Tzvetkov等人提出Top-K闭合序列模式挖掘算法TSP_NN -LRB-_-LRB- top-k_NN closed_VBD sequential_JJ patterns_NNS mining_NN -RRB-_-RRB- -LRB-_-LRB- 65_CD -RRB-_-RRB- 以及Cong等人提出并行闭合序列模式挖掘算法Par-CSP_NN -LRB-_-LRB- parallel_NN closed_VBD sequential_JJ pattern_NN mining_NN -RRB-_-RRB- =_JJ -_: =[_NN 66_CD -RRB-_-RRB- -_: =_JJ -_: 等_NN ._.
+这些方法的基本思想和算法策略可以根据生物序列数据的特点进行改进并应用于生物序_FW 列模式挖掘研究中_FW ._.
+对结果模式的压缩可在一定程度上有效去除冗余_NN ,_, 提高模式集的可用性_NN ._.
+特殊类型的序列模式_NN --_: --_: 串联重复序列_CD -LRB-_-LRB- tandem_JJ repeats_NNS -RRB-_-RRB- ._.
+生物由于进化等目的对基因进行复制产生大_FW 量重复序列_FW ,_, 研究表明_NN ,_, 重复序列并不是没有任何功能的_NN ,_, 只是更多的功能目前尚未发现_NN ,_, 并且是非常重要_FW 的_FW -LRB-_-LRB- 67_CD -RRB-_-RRB- .2003_NN

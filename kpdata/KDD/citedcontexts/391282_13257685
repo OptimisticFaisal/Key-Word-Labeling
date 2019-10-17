@@ -1,0 +1,3 @@
+is_VBZ provided_VBN at_IN the_DT process_NN level_NN ,_, thereby_RB encapsulating_VBG most_JJS of_IN the_DT process_NN context_NN ,_, including_VBG open_JJ file_NN descriptors_NNS ,_, which_WDT are_VBP beyond_IN the_DT MPI_NNP runtime_NN layer_NN ._.
+Proactive_NNP FT_NNP relies_VBZ on_IN failure_NN predictors_NNS =_JJ -_: =[_NN 29_CD ,_, 14_CD ,_, 15_CD -RRB-_-RRB- -_: =_JJ -_: ,_, whose_WP$ accuracy_NN still_RB has_VBZ to_TO be_VB further_RB developed_VBN ._.
+Yet_RB ,_, reactive_JJ FT_NNP is_VBZ still_RB a_DT requirement_NN for_IN HPC_NN systems_NNS ,_, and_CC our_PRP$ solution_NN improves_VBZ reactive_JJ FT_NNP ,_, optionally_RB complemented_VBN by_IN proactive_JJ support_NN ,_, at_IN red_JJ

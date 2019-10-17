@@ -1,0 +1,3 @@
+Among_IN the_DT many_JJ possible_JJ approaches_NNS to_TO address_VB scalability_NN ,_, one_CD of_IN them_PRP concerns_VBZ the_DT use_NN of_IN logic_NN programming_NN for_IN this_DT purpose_NN ._.
+This_DT can_MD be_VB traced_VBN back_RB to_TO the_DT work_NN on_IN Description_NN Logic_NNP Programs_NNP -LRB-_-LRB- DLP_NNP -RRB-_-RRB- =_JJ -_: =[_NN 4_CD ,_, 23_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT are_VBP a_DT naive_JJ Horn_NNP fragment_NN of_IN OWL_NN DL_NN ._.
+3_CD Along_IN the_DT same_JJ lines_NNS lies_VBZ the_DT OWL_NN DL-fragment_NN Horn-SHIQ_NN -LRB-_-LRB- 7_CD ,_, 16_CD ,_, 11_CD -RRB-_-RRB- ,_, which_WDT is_VBZ based_VBN on_IN the_DT transformation_NN algorithms_NNS implemented_VBN in_IN the_DT KAON2-system_NN 4_CD -LRB-_-LRB- 1_CD

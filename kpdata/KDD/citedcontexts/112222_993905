@@ -1,0 +1,3 @@
+s_NN of_IN the_DT user-based_JJ recommendation_NN ,_, several_JJ studies_NNS developed_VBD and_CC evaluated_VBD Ntop_NNP item-based_JJ recommendation_NN algorithms_NNS such_JJ as_IN cosinebased_JJ similarity_NN and_CC conditional_JJ probability-based_JJ similarity_NN -LRB-_-LRB- 28_CD -RRB-_-RRB- ,_, =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+After_IN splitting_NN the_DT product_NN images_NNS of_IN three_CD different_JJ shopping_NN malls_NNS into_IN training_NN and_CC testing_NN set_NN ,_, we_PRP applied_VBD two_CD item-based_JJ similarity_NN algorithms_NNS and_CC third_JJ heuristic_NN function_NN -LRB-_-LRB- Eq_NN ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- -RRB-_-RRB- to_TO compute_VB

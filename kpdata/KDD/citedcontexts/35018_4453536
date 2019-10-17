@@ -1,0 +1,3 @@
+untered_JJ in_IN data_NN mining_NN ;_: examples_NNS include_VBP market_NN basket_NN data_NNS ,_, Web_NN log_NN data_NNS ,_, and_CC text_NN data_NNS in_IN bag-of-words_JJ format_NN ._.
+Ways_NNP to_TO represent_VB patterns_NNS in_IN binary_JJ matrices_NNS include_VBP error-tolerant_JJ frequent_JJ itemsets_NNS =_JJ -_: =[_NN 57_CD -RRB-_-RRB- -_: =_JJ -_: ,_, dense_JJ itemsets_NNS -LRB-_-LRB- 58_CD -RRB-_-RRB- ,_, geometric_JJ and_CC combinatorial_JJ tiles_NNS -LRB-_-LRB- 59_CD -RRB-_-RRB- ,_, alpha\/beta_NN concepts_NNS -LRB-_-LRB- 60_CD -RRB-_-RRB- ,_, and_CC conjunctive_JJ clusters_NNS -LRB-_-LRB- 61_CD -RRB-_-RRB- ._.
+Some_DT of_IN the_DT pattern_NN representations_NNS listed_VBN above_RB can_MD be_VB directly_RB viewed_VBN as_IN axis_NN -_:

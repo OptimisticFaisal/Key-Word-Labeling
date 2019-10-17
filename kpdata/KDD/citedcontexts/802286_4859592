@@ -1,0 +1,4 @@
+ate_VBD PM_NNP -LRB-_-LRB- Q_NNP -RRB-_-RRB- with_IN the_DT time_NN and_CC memory_NN taken_VBN to_TO calculate_VB it_PRP ._.
+In_IN previous_JJ work_NN we_PRP have_VBP introduced_VBN a_DT maximum_NN entropy_NN Markov_NNP random_JJ field_NN -LRB-_-LRB- maxent\/MRF_NN -RRB-_-RRB- approach_NN for_IN building_VBG PM_NNP -LRB-_-LRB- Q_NNP -RRB-_-RRB- for_IN selectivity_NN estimation_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: and_CC further_RB extended_VBD these_DT results_NNS in_IN -LRB-_-LRB- 15_CD ,_, 16_CD -RRB-_-RRB- ._.
+The_DT query_NN selectivity_NN estimation_NN problem_NN for_IN binary_JJ data_NNS can_MD be_VB formally_RB defined_VBN as_IN follows_VBZ ._.
+Let_VB R_NN =_JJ -LCB-_-LRB- A1_NN ,_, ..._: ,_, Ak_NN -RCB-_-RRB- be_VB a_DT table_NN header_NN with_IN k_NN 0\/1_CD valued_VBD a_DT

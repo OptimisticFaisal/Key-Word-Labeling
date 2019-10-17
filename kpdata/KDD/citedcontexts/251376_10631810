@@ -1,0 +1,4 @@
+composition_NN step_NN of_IN classical_JJ MDS_NN can_MD be_VB prohibitively_RB expensive_JJ ._.
+Several_JJ algorithms_NNS have_VBP been_VBN proposed_VBN to_TO approximate_JJ classical_JJ MDS_NN on_IN large_JJ data_NNS sets_NNS ,_, including_VBG FastMap_NNP ,_, MetricMap_NNP ,_, and_CC Landmark_NNP MDS_NN =_JJ -_: =[_NN 16_CD ,_, 41_CD ,_, 14_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+These_DT three_CD algorithms_NNS were_VBD later_RB unified_VBN by_IN showing_VBG that_IN they_PRP all_DT apply_VBP the_DT Nyström_NNP method_NN to_TO approximate_JJ the_DT spectral_JJ decomposition_NN ,_, albeit_IN in_IN slightly_RB different_JJ ways_NNS -LRB-_-LRB- 45_CD ,_, 31_CD -RRB-_-RRB- ._.
+For_IN Landmark_NNP MDS_NN --_:

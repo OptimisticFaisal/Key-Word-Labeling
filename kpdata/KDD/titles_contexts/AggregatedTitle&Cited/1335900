@@ -1,0 +1,11 @@
+Single-shot_JJ detection_NN of_IN multiple_JJ categories_NNS of_IN text_NN using_VBG parametric_JJ mixture_NN models_NNS
+st_RB ,_, we_PRP use_VBP the_DT entire_JJ data_NN sets_NNS ;_: for_IN MediaMill_NNP ,_, we_PRP generate_VBP several_JJ subsets_NNS by_IN randomly_RB sampling_NN 8000_CD data_NN points_NNS with_IN different_JJ numbers_NNS of_IN labels_NNS ._.
+References_NNS and_CC Science_NNP are_VBP Yahoo_NNP webpages_NNS data_NN sets_VBZ =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_JJ -_: :_: we_PRP preprocess_VBP the_DT data_NNS sets_NNS following_VBG the_DT same_JJ procedures_NNS in_IN -LRB-_-LRB- 15_CD -RRB-_-RRB- ._.
+All_DT of_IN the_DT benchmark_JJ data_NN sets_NNS are_VBP normalized_VBN and_CC their_PRP$ statistics_NNS are_VBP summarized_VBN in_IN Table_NNP 1_CD ._.
+Note_VB that_IN in_IN our_PRP$ multi-task_JJ learning_NN
+ific_JJ permission_NN and\/or_CC a_DT fee_NN ._.
+KDD_NNP '_POS 08_CD ,_, August_NNP 24_CD --_: 27_CD ,_, 2008_CD ,_, Las_NNP Vegas_NNP ,_, Nevada_NNP ,_, USA_NNP ._.
+Copyright_NN 2008_CD ACM_NNP 978-1-60558-193-4_CD \/_: 08\/08_CD ..._: $_$ 5.00_CD ._.
+problem_NN in_IN many_JJ domains_NNS ._.
+For_IN example_NN ,_, in_IN web_NN page_NN categorization_NN =_JJ -_: =[_NN 27_CD ,_, 19_CD ,_, 28_CD -RRB-_-RRB- -_: =_JJ -_: ,_, a_DT web_NN page_NN can_MD be_VB assigned_VBN to_TO multiple_JJ topics_NNS ._.
+In_IN gene_NN and_CC protein_NN function_NN prediction_NN -LRB-_-LRB- 6_CD ,_, 25_CD -RRB-_-RRB- ,_, multiple_JJ functional_JJ labels_NNS are_VBP associated_VBN with_IN each_DT gene_NN and_CC protein_NN ,_, since_IN an_DT individual_JJ gene_NN or_CC prot_NN

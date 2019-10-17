@@ -1,0 +1,4 @@
+dentifier_NN token_JJ can_MD be_VB given_VBN to_TO the_DT user_NN and_CC the_DT sensor_NN attached_VBN to_TO the_DT object_NN ._.
+Once_RB the_DT identifier_NN has_VBZ been_VBN picked_VBN up_RP ,_, it_PRP is_VBZ converted_VBN to_TO a_DT URL_NN -LRB-_-LRB- if_IN it_PRP is_VBZ n't_RB one_CD already_RB -RRB-_-RRB- using_VBG a_DT ``_`` resolution_NN servi_NN =_JJ -_: =_JJ ce_NN ''_'' -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+The_DT URL_NN -_: =_JJ -_: is_VBZ dereferenced_VBN and_CC the_DT resulting_VBG web_NN resource_NN -LRB-_-LRB- the_DT ``_`` web_NN presence_NN ''_'' of_IN the_DT physical_JJ object_NN -RRB-_-RRB- is_VBZ rendered_VBN on_IN the_DT PDA_NNP 's_POS web_NN browser_NN ._.
+We_PRP call_VBP our_PRP$ identification_NN technology_NN ``_`` physical_JJ hyperlinks_NNS ''_'' b_NN

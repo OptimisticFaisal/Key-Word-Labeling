@@ -1,0 +1,4 @@
+ained_VBN quadratic_JJ programming_NN problem_NN ._.
+The_DT standard_JJ SMO_NN algorithm_NN solves_VBZ the_DT dual_JJ of_IN problem_NN 2_CD and_CC 3_CD by_IN decomposing_VBG it_PRP into_IN the_DT smaller_JJR problems_NNS that_WDT can_MD be_VB solved_VBN analytically_RB ._.
+SMO_NN is_VBZ provably_RB optimal_JJ =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Several_JJ authors_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 16_CD ,_, 14_CD -RRB-_-RRB- -RRB-_-RRB- have_VBP shown_VBN that_IN the_DT right_JJ side_NN of_IN Equation_NN 2_CD can_MD be_VB treated_VBN as_IN a_DT log-posterior_NN on_IN the_DT parameters_NNS w_NN and_CC b_NN ,_, with_IN the_DT first_JJ term_NN corresponding_VBG to_TO a_DT prior_JJ on_IN w_NN and_CC the_DT s_NN

@@ -1,0 +1,5 @@
+accept_VB linear_JJ ranking_JJ functions_NNS ,_, f_FW is_VBZ represented_VBN by_IN a_DT hyperplane_NN able_JJ to_TO separate_VB increasing_JJ or_CC positive_JJ differences_NNS -LRB-_-LRB- like_IN v_LS --_: u_NN when_WRB v_LS -RRB-_-RRB- u_NN -RRB-_-RRB- from_IN decreasing_VBG or_CC negative_JJ differences_NNS -LRB-_-LRB- like_IN u_NN --_: v_LS -RRB-_-RRB- ;_: see_VB =_JJ -_: =[_NN 2_CD ,_, 3_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP will_MD employ_VB an_DT SVM_NN classifier_NN :_: SVM_NN light_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+Clustering_NN of_IN preference_NN criteria_NNS In_IN this_DT paper_NN we_PRP present_VBP a_DT new_JJ algorithm_NN for_IN clustering_NN preference_NN criteria_NNS ._.
+This_DT is_VBZ a_DT useful_JJ task_NN ._.
+For_IN instance_NN ,_, i_FW

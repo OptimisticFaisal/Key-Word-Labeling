@@ -1,0 +1,4 @@
+ation_NN Theoretic_NNP Model_NNP Informative_JJ elements_NNS are_VBP modeled_VBN in_IN SIfT_NN using_VBG an_DT information_NN theoretic_JJ measure_NN called_VBN mutual_JJ information_NN ._.
+Similar_JJ columns_NNS are_VBP discovered_VBN using_VBG a_DT clustering_NN algorithm_NN called_VBD CBC_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN any_DT clustering_NN application_NN ,_, the_DT critical_JJ step_NN is_VBZ representing_VBG the_DT data_NNS such_JJ that_IN elements_NNS group_NN together_RB according_VBG to_TO our_PRP$ desired_VBN output_NN ._.
+For_IN example_NN ,_, if_IN we_PRP want_VBP to_TO cluster_VB medical_JJ patients_NNS accor_NN

@@ -1,0 +1,6 @@
+ngly_RB ,_, in_IN many_JJ applications_NNS ,_, some_DT missing_JJ values_NNS may_MD not_RB be_VB explicitly_RB represented_VBN as_IN such_JJ ,_, but_CC instead_RB appear_VBP as_IN potentially_RB valid_JJ data_NN values_NNS ._.
+Such_JJ missing_JJ values_NNS are_VBP known_VBN as_IN disguised_JJ missing_JJ data_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Example_NN 1_CD -LRB-_-LRB- Disguised_VBN missing_VBG values_NNS -RRB-_-RRB- ._.
+Consider_VB the_DT situation_NN where_WRB a_DT customer_NN fills_VBZ in_IN an_DT online_JJ application_NN form_NN of_IN a_DT frequent_JJ flyer_NN program_NN ._.
+Attribute_JJ gender_NN has_VBZ two_CD choices_NNS :_: male_NN or_CC female_NN ._.
+A_DT sys_NNS

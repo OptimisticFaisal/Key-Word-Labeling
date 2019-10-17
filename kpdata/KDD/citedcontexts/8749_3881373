@@ -1,0 +1,3 @@
+a_DT single_JJ change_NN detection_NN model_NN ,_, we_PRP build_VBP a_DT large_JJ number_NN of_IN models_NNS in_IN order_NN to_TO handle_VB complex_JJ ,_, heterogeneous_JJ data_NNS ,_, one_CD for_IN each_DT cell_NN in_IN a_DT multi-dimensional_JJ data_NN cube_NN ._.
+The_DT paper_NN by_IN Fawcett_NNP and_CC Provost_NNP =_SYM -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ a_DT similar_JJ goal_NN --_: detecting_VBG unusual_JJ activity_NN in_IN large_JJ data_NNS sets_NNS --_: but_CC uses_VBZ a_DT much_RB different_JJ approach_NN ._.
+Their_PRP$ approach_NN is_VBZ to_TO introduce_VB operating_VBG characteristic_JJ style_NN measures_NNS in_IN order_NN to_TO identify_VB un_NN

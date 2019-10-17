@@ -1,0 +1,5 @@
+n_NN every_DT edge_NN from_IN u_NN to_TO v_LS based_VBN on_IN the_DT posted_VBN and_CC liked_VBN objects_NNS ._.
+We_PRP can_MD further_RB use_VB the_DT result_NN to_TO find_VB a_DT small_JJ set_NN of_IN influential_JJ users_NNS on_IN the_DT network_NN on_IN the_DT given_VBN topic_NN based_VBN on_IN influence_NN maximization_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Scalable_JJ algorithms_NNS have_VBP been_VBN developed_VBN to_TO solve_VB that_DT problem_NN given_VBN the_DT network_NN diffusion_NN model_NN -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+These_DT algorithms_NNS require_VBP the_DT network_NN structure_NN and_CC the_DT influence_NN probability_NN as_IN input_NN ._.
+We_PRP use_VBP the_DT

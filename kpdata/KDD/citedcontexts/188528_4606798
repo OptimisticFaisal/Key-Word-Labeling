@@ -1,0 +1,5 @@
+ns_NNS of_IN the_DT dataset_NN ._.
+These_DT can_MD be_VB basically_RB categorized_VBN into_IN distance-based_JJ schemes_NNS -LRB-_-LRB- 2_CD ,_, 5_CD ,_, 23_CD ,_, 24_CD ,_, 28_CD -RRB-_-RRB- andsCapabilities_NNS of_IN outlier_NN detection_NN schemes_NNS ,_, framework_NN and_CC methodologies_NNS 3_CD density-based_JJ schemes_NNS =_JJ -_: =[_NN 8_CD ,_, 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+1_CD Distance-based_JJ schemes_NNS are_VBP originated_VBN from_IN the_DT proposal_NN in_IN -LRB-_-LRB- 23_CD -RRB-_-RRB- ,_, called_VBN DB_NN -LRB-_-LRB- n_NN ,_, v_LS -RRB-_-RRB- -_: outliers_NNS ,_, where_WRB n_NN and_CC v_LS are_VBP parameters_NNS ._.
+Let_NNP D_NNP be_VB the_DT dataset_NN ._.
+For_IN any_DT p_NN ∈_NN D_NN and_CC any_DT positive_JJ value_NN v_LS ,_, defineNv_NN -LRB-_-LRB- p_NN -RRB-_-RRB- =_JJ

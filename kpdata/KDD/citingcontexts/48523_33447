@@ -1,0 +1,5 @@
+iated_VBN with_IN unlabeled_JJ data_NNS points_NNS ._.
+While_IN the_DT strategy_NN is_VBZ in_IN general_JJ applicable_JJ to_TO many_JJ di_FW #erent_FW margin_NN cost_NN functions_NNS ,_, we_PRP focus_VBP on_IN the_DT one_CD used_VBN in_IN AdaBoost_NNP ._.
+Let_VB the_DT base_NN classifiers_NNS be_VB f_FW j_FW -LRB-_-LRB- x_NN -RRB-_-RRB- :_: R_NN n_NN #_# =_JJ -_: =[_NN 1_CD ,_, -1_CD -RRB-_-RRB- -_: =_SYM -_: where_WRB f_FW j_FW is_VBZ the_DT jth_NN classifier_NN in_IN the_DT ensemble_NN ._.
+Let_VB the_DT labeled_JJ training_NN data_NNS ,_, L_NN ,_, be_VB the_DT n-dimensional_JJ points_NNS x1_NN ,_, ..._: ,_, x_CC #_# with_IN know_VBP labels_NNS ,_, y1_NN ,_, ..._: ,_, y_NN #_# ._.
+For_IN now_RB assume_VBP the_DT problem_NN has_VBZ two_CD

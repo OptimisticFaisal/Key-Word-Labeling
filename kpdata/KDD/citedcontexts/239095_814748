@@ -1,0 +1,3 @@
+lows_NNS us_PRP to_TO solve_VB problems_NNS with_IN millions_NNS of_IN points_NNS by_IN merely_RB inverting_VBG much_RB smaller_JJR matrices_NNS of_IN the_DT order_NN of_IN n._NNP This_NNP approach_NN has_VBZ been_VBN used_VBN by_IN various_JJ algorithms_NNS such_JJ as_IN ASVM_NN -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, LSVM_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ,_, and_CC PSVM_NN =_JJ -_: =[_NN 11_CD -_: =-]_CD ,_, as_RB well_RB as_IN in_IN an_DT interior_JJ point_NN approach_NN by_IN Ferris_NNP and_CC Munson_NNP -LRB-_-LRB- 10_CD -RRB-_-RRB- ._.
+Burges_NNP also_RB used_VBD an_DT active_JJ set_NN method_NN for_IN support_NN vector_NN machines_NNS for_IN classication_NN -LRB-_-LRB- 3_CD -RRB-_-RRB- ._.
+We_PRP note_VBP that_IN an_DT active_JJ set_NN computational_JJ

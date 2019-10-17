@@ -1,0 +1,5 @@
+is_VBZ due_JJ to_TO the_DT fact_NN that_IN Ni_NN is_VBZ at_IN once_RB rewritten_VBN as_IN Xi_NN ,_, -LRB-_-LRB- X1_NN \_CD Xi_NN -RRB-_-RRB- −_NN ,_, ..._: ,_, -LRB-_-LRB- Xi_NN −_NN 1_CD \_CD Xi_NN -RRB-_-RRB- −_NN -LRB-_-LRB- C_NN \_NN Xi_NN -RRB-_-RRB- ⋆_NN ._.
+A_DT total_JJ order_NN considering_VBG first_JJ itemset_NN size_NN and_CC then_RB lexicographic_JJ ordering_VBG was_VBD introduced_VBN in_IN =_JJ -_: =[_NN 8_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+It_PRP formalizes_VBZ our_PRP$ intuitions_NNS ,_, and_CC it_PRP is_VBZ adopted_VBN in_IN the_DT RegularMine_NNP algorithm_NN ._.
+Definition_NN 4.13_CD ._.
+Let_VB ≼_CD be_VB a_DT total_JJ order_NN over_IN items_NNS ,_, and_CC let_VB ≼_CD l_NN be_VB the_DT lexicographic_JJ ordering_VBG induced_VBN by_IN ≼_NN over_IN itemsets_NNS ._.

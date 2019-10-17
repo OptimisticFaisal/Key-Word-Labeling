@@ -1,0 +1,3 @@
+ubset_NN ,_, the_DT HDILR_NN method_NN outperforms_VBZ HDLR_NN for_IN low_JJ recall_NN values_NNS ,_, yet_CC it_PRP achieves_VBZ slightly_RB worse_JJR precision_NN for_IN higher_JJR recall_NN values_NNS ._.
+5.3_CD Software_NNP Analysis_NNP We_PRP now_RB present_VBP results_NNS from_IN the_DT Clarify_NNP system_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT attempt_VBP to_TO improve_VB software_NN error_NN messaging_VBG via_IN nearest_JJS neighbor_NN software_NN support_NN ._.
+The_DT basis_NN of_IN the_DT Clarify_NNP system_NN lies_VBZ in_IN the_DT fact_NN that_IN modern_JJ software_NN design_NN promotes_VBZ modularity_NN and_CC abstracti_NNS

@@ -1,0 +1,4 @@
+to_TO help_VB users_NNS interpret_VB the_DT frequent_JJ patterns_NNS ._.
+The_DT context_NN information_NN for_IN a_DT pattern_NN tends_VBZ to_TO be_VB ignored_VBN ._.
+Recently_RB ,_, researchers_NNS develop_VBP new_JJ techniques_NNS to_TO approximate_JJ ,_, summarize_VB a_DT frequent_JJ pattern_NN set_NN =_JJ -_: =[_NN 1_CD ,_, 21_CD -RRB-_-RRB- -_: =_JJ -_: ,_, or_CC mine_NN compressed_VBD frequent_JJ pattern_NN sets_NNS -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+Although_IN they_PRP explored_VBD some_DT kind_NN of_IN context_NN information_NN ,_, none_NN of_IN the_DT work_NN can_MD provide_VB in-depth_JJ semantic_JJ annotations_NNS for_IN frequent_JJ patterns_NNS as_IN we_PRP do_VBP in_IN o_NN

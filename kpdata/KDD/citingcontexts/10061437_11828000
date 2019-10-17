@@ -1,0 +1,5 @@
+minimizing_VBG the_DT probability_NN that_IN none_NN of_IN the_DT returned_VBN results_NNS is_VBZ relevant_JJ to_TO the_DT user_NN ._.
+This_DT can_MD be_VB seen_VBN as_IN an_DT instantiation_NN of_IN the_DT general_JJ risk_NN minimization_NN framework_NN proposed_VBN by_IN Zhai_NNP and_CC Lafferty_NNP in_IN =_JJ -_: =[_NN 22_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Using_VBG their_PRP$ terminology_NN ,_, the_DT loss_NN function_NN we_PRP propose_VBP is_VBZ one_CD where_WRB utility_NN is_VBZ lost_VBN whenever_WRB no_DT result_NN is_VBZ relevant_JJ ._.
+This_DT is_VBZ related_JJ to_TO the_DT problem_NN of_IN query_NN abandonment_NN ._.
+Radlinksi_NNP ,_, Kleinberg_NNP ,_, and_CC Joac_NNP

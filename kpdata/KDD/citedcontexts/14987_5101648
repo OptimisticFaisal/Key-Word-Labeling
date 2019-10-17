@@ -1,0 +1,4 @@
+4_CD presents_VBZ our_PRP$ experimental_JJ results_NNS ,_, while_IN Section_NNP 5_CD concludes_VBZ with_IN a_DT summary_NN of_IN the_DT paper_NN ._.
+2_CD ._.
+Related_JJ Work_NN Several_JJ incremental_JJ learning_NN algorithms_NNS have_VBP been_VBN developed_VBN for_IN data_NNS stream_NN classification_NN =_JJ -_: =[_NN 9_CD ,_, 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Domingos_NNP and_CC Hulten_NNP have_VBP proposed_VBN an_DT online_JJ decision_NN tree_NN algorithm_NN known_VBN as_IN VFDT_NNP ,_, which_WDT employs_VBZ a_DT statistical_JJ principle_NN known_VBN as_IN Hoeffding_NN bound_VBD to_TO provide_VB guarantees_NNS on_IN its_PRP$ asymptotic_JJ similarity_NN t_NN

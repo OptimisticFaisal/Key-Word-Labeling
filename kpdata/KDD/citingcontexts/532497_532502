@@ -1,0 +1,4 @@
+The_DT first_JJ column_NN of_IN W_NN -LRB-_-LRB- except_IN W_NN 11_CD -RRB-_-RRB- can_MD be_VB regarded_VBN as_IN the_DT representation_NN of_IN ω_NN ._.
+SDP_NN is_VBZ a_DT hot_JJ research_NN field_NN -LRB-_-LRB- 21_CD -RRB-_-RRB- in_IN recent_JJ years_NNS ,_, and_CC many_JJ fast_JJ iterative_JJ algorithms_NNS have_VBP been_VBN designed_VBN to_TO solve_VB it_PRP -LRB-_-LRB- 13_CD -RRB-_-RRB- =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =-[_NN 17_CD -RRB-_-RRB- ._.
+For_IN example_NN ,_, an_DT interior-point_JJ method_NN SDPA_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- was_VBD implemented_VBN in_IN -LRB-_-LRB- 9_CD -RRB-_-RRB- for_IN solving_VBG the_DT standard_JJ form_NN SDP_NN and_CC its_PRP$ dual_JJ problem_NN ._.
+We_PRP could_MD use_VB it_PRP to_TO compute_VB an_DT efficient_JJ solution_NN to_TO the_DT optimizatio_NN

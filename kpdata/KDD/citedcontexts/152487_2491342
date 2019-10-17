@@ -1,0 +1,4 @@
+ccess_NN is_VBZ much_RB smaller_JJR ._.
+1_CD Problem_NNP Setting_VBG The_DT problem_NN of_IN finding_VBG frequent_JJ sets_NNS is_VBZ a_DT basic_JJ component_NN of_IN several_JJ standard_JJ data_NNS mining_NN algorithms_NNS such_JJ as_IN association_NN rules_NNS -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC episodic_JJ data_NNS analysis_NN =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+We_PRP assume_VBP that_IN the_DT data_NNS are_VBP given_VBN as_IN a_DT binary_JJ array_NN whose_WP$ n_NN rows_NNS represent_VBP objects_NNS ,_, and_CC whose_WP$ m_NN columns_NNS represent_VBP attributes_NNS ._.
+A_DT 1_CD in_IN the_DT array_NN at_IN position_NN -LRB-_-LRB- i_FW ;_: j_NN -RRB-_-RRB- denotes_VBZ that_WDT object_VBP i_FW has_VBZ attribute_NN

@@ -1,0 +1,5 @@
+attributes_NNS -LRB-_-LRB- information_NN -RRB-_-RRB- contributing_VBG to_TO the_DT target_NN concepts_NNS to_TO be_VB learned_VBN ._.
+As_IN an_DT example_NN ,_, consider_VB the_DT loan_NN problem_NN ,_, as_IN shown_VBN in_IN Figure_NNP 1_CD ,_, sResearch_NNP Track_NNP Poster_NNP from_IN the_DT PKDD_NNP 99_CD discovery_NN challenge_NN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB a_DT banking_NN database_NN which_WDT consists_VBZ of_IN eight_CD relations_NNS is_VBZ depicted_VBN ._.
+Each_DT relation_NN describes_VBZ the_DT different_JJ characteristics_NNS of_IN a_DT client_NN ._.
+For_IN example_NN ,_, the_DT Client_NNP relation_NN contains_VBZ a_DT customer_NN 's_POS age_NN ,_,

@@ -1,0 +1,3 @@
+parameters_NNS is_VBZ very_RB small_JJ ._.
+Diligenti_NNP et_FW al._FW -LRB-_-LRB- 10_CD -RRB-_-RRB- optimize_VBP relation_NN weights_NNS using_VBG back-propagation_NN ,_, which_WDT has_VBZ linear_JJ convergence_NN ,_, therefore_RB requires_VBZ many_JJ iterations_NNS to_TO reach_VB convergence_NN ._.
+Agarwal_NNP et_FW al._FW =_SYM -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: applied_VBD efficient_JJ second_JJ order_NN optimization_NN procedure_NN with_IN preference_NN labels_NNS of_IN pairs_NNS of_IN entities_NNS ;_: however_RB ,_, instead_RB of_IN using_VBG real_JJ relevance_NN data_NNS ,_, document_NN orderings_NNS generated_VBN from_IN artificially_RB manipu_FW

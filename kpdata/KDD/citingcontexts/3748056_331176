@@ -1,0 +1,3 @@
+ssifier_NN learning_NN and_CC kernel_NN methods_NNS ,_, improving_VBG the_DT classification_NN results_VBZ in_IN theory_NN and_CC practice_NN ,_, and_CC extending_VBG the_DT applicability_NN of_IN the_DT linear_JJ classification_NN techniques_NNS to_TO virtually_RB any_DT kind_NN of_IN data_NN =_JJ -_: =_JJ -LRB-_-LRB- STC04_NN -RRB-_-RRB- -_: =_SYM -_: ._.
+Support_NN ⋆_NNP Short_NNP version_NN published_VBN in_IN KDD_NNP 2006sVector_NNP Machines_NNP -LRB-_-LRB- SVMs_NNS -RRB-_-RRB- -LRB-_-LRB- Vap00_NN -RRB-_-RRB- are_VBP the_DT most_RBS well-known_JJ kernelized_VBN maximum_NN margin_NN classifiers_NNS ._.
+The_DT Kernel_NNP Perceptron_NNP algorithm_NN is_VBZ a_DT kernelized_VBN version_NN of_IN

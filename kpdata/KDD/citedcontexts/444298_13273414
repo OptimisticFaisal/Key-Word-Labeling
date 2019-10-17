@@ -1,0 +1,4 @@
+msets_NNS and_CC approximate_JJ bicliques_NNS ,_, respectively_RB ._.
+A_DT number_NN of_IN different_JJ error-tolerant_JJ frequent_JJ itemset_NN mining_NN algorithms_NNS have_VBP been_VBN proposed_VBN in_IN the_DT literature_NN -LRB-_-LRB- Pei_NN et_FW al._FW ,_, 2001_CD ,_, 2002_CD ;_: Yang_NNP et_FW al._FW ,_, 2001_CD ;_: =_JJ -_: =_JJ Seppänen_NNP and_CC Mannila_NNP ,_, 2004_CD -_: =_JJ -_: ;_: Liu_NNP et_FW al._FW ,_, 2005_CD ,_, 2006_CD -RRB-_-RRB- ._.
+Most_JJS are_VBP based_VBN on_IN criteria_NNS that_WDT require_VBP the_DT average_NN of_IN the_DT identified_VBN submatrices_NNS to_TO be_VB greater_JJR than_IN a_DT user_NN specified_JJ threshold_NN τ_NN ._.
+One_CD can_MD readily_RB adapt_VB the_DT first_JJ moment_NN arg_NN

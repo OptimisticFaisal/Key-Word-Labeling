@@ -1,0 +1,4 @@
+,_, intrusion_NN detection_NN ,_, etc._NN ._.
+Detecting_VBG anomalies_NNS in_IN network_NN traffic_NN data\/audit_NN logs_NNS is_VBZ actually_RB in_IN urgent_JJ need_NN for_IN computer_NN security_NN ._.
+Most_JJS popular_JJ approaches_NNS to_TO anomaly_JJ detection_NN are_VBP outlier_JJR detection_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: ,_, -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 15_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 22_CD -RRB-_-RRB- and_CC change-point_JJ detection_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 11_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+The_DT former_JJ is_VBZ to_TO detect_VB data_NNS largely_RB deviated_VBN from_IN a_DT statistical_JJ regularity_NN of_IN the_DT overall_JJ data_NNS ,_, while_IN the_DT latter_JJ is_VBZ to_TO find_VB a_DT time_NN point_NN when_WRB

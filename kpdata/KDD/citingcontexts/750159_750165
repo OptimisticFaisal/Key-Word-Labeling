@@ -1,0 +1,5 @@
+esponse_JJ time_NN of_IN a_DT request_NN that_WDT triggers_VBZ the_DT wake-up_NN ._.
+Existing_VBG commodity_NN PCs_NNS and_CC the_DT Microsoft_NNP Windows_NNP operating_VBG system_NN support_NN power_NN management_NN ._.
+Windows_NNP PCs_NNS in_IN a_DT sleep_NN state_NN can_MD use_VB Wake_NNP on_IN LAN_NNP -LRB-_-LRB- WOL_NNP -RRB-_-RRB- =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: Ethernet_NN NICs_NNS to_TO trigger_VB a_DT wake-up_NN of_IN the_DT PC_NN ._.
+WOL_NNP 10\/100-Mbps_NNP Ethernet_NNP NICs_NNS are_VBP readily_RB available_JJ at_IN retail_JJ prices_NNS of_IN about_IN US_NNP $_$ 6_CD in_IN mid-2003_NN ._.
+Figure_NN 3_CD shows_VBZ a_DT WOL_NNP NIC_NNP ,_, which_WDT has_VBZ three_CD functions_NNS :_: 1_CD ._.

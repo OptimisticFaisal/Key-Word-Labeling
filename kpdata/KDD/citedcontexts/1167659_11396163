@@ -1,0 +1,4 @@
+potentially_RB be_VB increased_VBN as_RB well_RB ,_, if_IN the_DT consequent_JJ attribute_NN value_NN -LRB-_-LRB- -RRB-_-RRB- in_IN the_DT tuple_NN is_VBZ not_RB already_RB present_JJ in_IN the_DT rule_NN ._.
+is_VBZ the_DT rule_NN 's_POS validation_NN set_NN performance_NN ,_, calculated_VBN from_IN mutual_JJ information_NN -LRB-_-LRB- =_JJ -_: =_JJ Tandon_NNP &_CC Chan_NNP ,_, 2007_CD -_: =--RRB-_NN ._.
+LERAD_NN is_VBZ composed_VBN of_IN four_CD main_JJ steps_NNS shown_VBN in_IN the_DT pseudocode_NN in_IN Fig._NNP 1_CD ._.
+Rule_NN generation_NN -LRB-_-LRB- st._NN 1_CD -RRB-_-RRB- picks_VBZ antecedent_JJ and_CC consequent_JJ attributes_NNS based_VBN on_IN similarities_NNS of_IN tuples_NNS randomly_RB chosen_VBN from_IN the_DT s_NN

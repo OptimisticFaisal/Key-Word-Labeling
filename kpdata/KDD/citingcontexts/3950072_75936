@@ -1,0 +1,5 @@
+1000s_NNS -RRB-_-RRB- and_CC the_DT average_JJ number_NN of_IN events_NNS in_IN the_DT maximal_JJ sequences_NNS ._.
+We_PRP experimented_VBD with_IN the_DT dataset_NN D5C20N10S20_NN ._.
+We_PRP also_RB experimented_VBD on_IN click_VB stream_NN dataset_NN -LRB-_-LRB- i.e._FW ,_, Gazelle_NNP dataset_NN -RRB-_-RRB- from_IN KDD_NNP Cup_NNP 2000_CD =_SYM -_: =[_NN 19_CD -RRB-_-RRB- -_: =_SYM -_: which_WDT was_VBD also_RB used_VBN to_TO evaluate_VB CloSpan_NNP -LRB-_-LRB- 31_CD -RRB-_-RRB- and_CC BIDE_NN -LRB-_-LRB- 29_CD -RRB-_-RRB- ._.
+It_PRP contains_VBZ 29369_CD sequences_NNS with_IN an_DT average_JJ length_NN of_IN 3_CD and_CC a_DT maximum_JJ length_NN of_IN 651_CD ._.
+To_TO evaluate_VB our_PRP$ algorithm_NN performance_NN on_IN mining_NN from_IN p_NN

@@ -1,0 +1,8 @@
+istributions_NNS ._.
+Here_RB is_VBZ a_DT formal_JJ description_NN of_IN data_NNS generation_NN :_: 1_CD ._.
+Some_DT unknown_JJ distribution_NN D_NN -LRB-_-LRB- x_NN ,_, r_NN -RRB-_-RRB- generates_VBZ a_DT feature_NN vector_NN x_NN and_CC a_DT vector_NN r_NN =_JJ -LRB-_-LRB- r1_NN ,_, r2_NN ,_, ..._: ,_, rk_NN -RRB-_-RRB- ,_, where_WRB for_IN i_FW ∈_FW -LCB-_-LRB- 1_CD ,_, ..._: ,_, k_NN -RCB-_-RRB- ,_, ri_FW ∈_FW =_SYM -_: =[_NN 0_CD ,_, 1_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ the_DT reward_NN of_IN the_DT i-th_JJ action_NN ._.
+2_CD ._.
+The_DT offline_JJ policy_NN chooses_VBZ an_DT action_NN a_DT uniformly_RB at_IN random_JJ ._.
+3_LS ._.
+The_DT reward_NN ra_NN is_VBZ revealed_VBN ._.
+The_DT goal_NN is_VBZ to_TO learn_VB a_DT policy_NN π_NN -LRB-_-LRB- x_NN -RRB-_-RRB- for_IN choosing_VBG action_NN a_DT given_VBN x_NN ,_, with_IN t_NN

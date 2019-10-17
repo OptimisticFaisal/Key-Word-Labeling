@@ -1,0 +1,6 @@
+nteracts_NNS with_IN users_NNS ,_, responds_VBZ to_TO their_PRP$ requests_NNS ,_, and_CC collects_VBZ feedback_NN ._.
+3_LS ._.
+ALGORITHMS_NNP Figure_NNP 2_CD :_: Amazon_NNP image_NN information_NN network_NN ._.
+with_IN three_CD types_NNS of_IN nodes_NNS -LRB-_-LRB- images_NNS VI_NNP ,_, groups_NNS VG_NNS and_CC tags_NNS VT_NN -RRB-_-RRB- ._.
+SimRank_NN =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ one_CD of_IN the_DT most_RBS popular_JJ algorithms_NNS for_IN evaluating_VBG object_NN similarity_NN in_IN information_NN networks_NNS ._.
+It_PRP calculates_VBZ the_DT similarity_NN between_IN objects_NNS based_VBN on_IN the_DT intuition_NN that_IN two_CD objects_NNS are_VBP similar_JJ if_IN the_DT

@@ -1,0 +1,4 @@
+rvices_NNS in_IN an_DT asynchronous_JJ fashion_NN ._.
+A_DT global_JJ watcher_NN is_VBZ developed_VBN to_TO keep_VB track_NN of_IN messages_NNS being_VBG exchanged_VBN in_IN the_DT composition_NN to_TO detect_VB whether_IN a_DT specified_VBN goal_NN service_NN is_VBZ realizable_JJ ._.
+Subsequently_RB in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: the_DT authors_NNS use_VBP Spin_VB model_NN checker_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- to_TO verify_VB whether_IN a_DT composition_NN correctly_RB replicates_VBZ the_DT required_JJ goal_NN ._.
+The_DT message_NN passing_NN framework_NN is_VBZ extended_VBN in_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- which_WDT uses_VBZ satisfiability_NN of_IN propositio_NN

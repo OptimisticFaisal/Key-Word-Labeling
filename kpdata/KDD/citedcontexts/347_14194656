@@ -1,0 +1,4 @@
+imum_NN support_NN -LRB-_-LRB- line_NN 7_CD -RRB-_-RRB- ._.
+The_DT 381_CD resultant_JJ rules_NNS are_VBP eventually_RB stored_VBN in_IN the_DT table_NN called_VBN ``_`` RulesStage_NNP ''_'' -LRB-_-LRB- see_VB line_NN 1_CD -RRB-_-RRB- ._.
+3.2.5_CD Step_NN 3_CD :_: Post-processing_VBG The_DT previous_JJ query_NN has_VBZ generated_VBN many_JJ redundant_JJ rules_NNS =_JJ -_: =[_NN 29_CD -RRB-_-RRB- -_: =_JJ -_: :_: for_IN each_DT different_JJ antecedent_JJ ,_, all_DT rules_NNS have_VBP the_DT same_JJ support_NN and_CC 100_CD %_NN confidence_NN ._.
+Notice_NNP ,_, however_RB ,_, that_IN as_IN we_PRP are_VBP looking_VBG for_IN all_DT gene_NN groups_NNS that_WDT are_VBP overexpressed_VBN according_VBG to_TO a_DT given_VBN stage_NN ,_, it_PRP

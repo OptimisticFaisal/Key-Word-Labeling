@@ -1,0 +1,3 @@
+in_IN all_DT experiments_NNS and_CC forα_NN ,_, we_PRP adopt_VBP the_DT commonly_RB used50\/T_JJ heuristics_NNS where_WRB T_NN is_VBZ the_DT number_NN of_IN topics_NNS ._.
+In_IN our_PRP$ experiments_NNS ,_, we_PRP use_VBP Collapsed_NNP Gibbs_NNP Sampling_NNP -LRB-_-LRB- 5_CD -RRB-_-RRB- with_IN speed-up_NN techniques_NNS introduced_VBN in_IN =_JJ -_: =[_NN 20_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT can_MD be_VB scaled_VBN to_TO our_PRP$ large_JJ dataset_NN ._.
+4.4_CD Topic_JJ Modeling_NN In_IN this_DT section_NN ,_, we_PRP mainly_RB study_VBD two_CD questions_NNS :_: 1_LS -RRB-_-RRB- whether_IN different_JJ training_NN schemes_NNS cause_VBP the_DT model_NN to_TO learn_VB different_JJ topics_NNS from_IN the_DT

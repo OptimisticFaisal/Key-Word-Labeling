@@ -1,0 +1,4 @@
+borhoods_NNS are_VBP selected_VBN as_IN initial_JJ clusters_NNS using_VBG the_DT clustering_NN distortion_NN measure_NN ._.
+Farthest-first_JJ traversal_NN is_VBZ a_DT good_JJ heuristic_NN for_IN initialization_NN in_IN prototype-based_JJ partitional_JJ clustering_NN algorithms_NNS =_JJ -_: =[_NN 23_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT goal_NN in_IN farthest-first_JJ traversal_NN is_VBZ to_TO find_VB K_NN points_NNS that_WDT are_VBP maximally_RB separated_VBN from_IN each_DT other_JJ in_IN terms_NNS of_IN a_DT given_VBN distance_NN function_NN ._.
+In_IN our_PRP$ case_NN ,_, we_PRP apply_VBP a_DT weighted_JJ variant_NN of_IN farthest-firs_NNS

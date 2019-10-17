@@ -1,0 +1,4 @@
+file_NN is_VBZ found_VBN Si_NNP ∈_NNP R_NNP ,_, thatis_VBZ any_DT individual_JJ Si_NNP such_JJ that_IN it_PRP covers_VBZ D_NN more_JJR ,_, the_DT algorithm_NN terminates_VBZ ._.
+For_IN ALN_NNP a_DT polynomial_JJ algorithm_NN -LRB-_-LRB- findIrred_NN -RRB-_-RRB- -LRB-_-LRB- 5_CD -RRB-_-RRB- canbeusedtofindirreducible_JJ solutions_NNS for_IN a_DT CAP_NN ,_, and_CC in_IN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: the_DT tractable_JJ rankPotential_NN has_VBZ been_VBN defined_VBN to_TO rank_VB concepts_NNS ._.
+Using_VBG calls_NNS to_TO such_JJ algorithms_NNS ,_, GREEDYsolveCCoP_NN can_MD be_VB solved_VBN in_IN polynomial_JJ time_NN ,_, too_RB ._.
+Obviously_RB we_PRP are_VBP not_RB claiming_VBG that_IN we_PRP solve_VBP a_DT cov_NN

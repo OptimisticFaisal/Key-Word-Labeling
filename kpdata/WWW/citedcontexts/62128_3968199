@@ -1,0 +1,4 @@
+4.4_CD ._.
+7_CD Scalable_JJ Applications_NNS in_IN P2P_NN Grids_NNS and_CC P2P_NN Systems_NNP This_NNP section_NN presents_VBZ three_CD real-world_JJ DAT_NNP applications_NNS in_IN Grid_NNP resource_NN monitoring_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- ,_, P2P_NN reputation_NN system_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- -LRB-_-LRB- 35_CD -RRB-_-RRB- ,_, and_CC P2P_NN RDF_NN repository_NN =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =-[_NN 21_CD -RRB-_-RRB- ._.
+We_PRP also_RB briefly_RB discuss_VB other_JJ DAT_NNP applications_NNS in_IN distributed_VBN worm_NN containment_NN -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC wide-area_JJ network_NN monitoring_NN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+7.1_CD P2P_NN Grid_NNP Resource_NNP Monitoring_VBG Grid_NNP computing_NN on_IN a_DT large_JJ scale_NN requires_VBZ

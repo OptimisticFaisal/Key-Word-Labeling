@@ -1,0 +1,3 @@
+fficulties_NNS ,_, the_DT presence_NN of_IN dynamically_RB changing_VBG content_NN ,_, and_CC the_DT need_NN for_IN trained_JJ expert_JJ human_JJ raters_NNS ._.
+Dalvi_NNP et_FW al._FW attempt_NN to_TO learn_VB classifiers_NNS in_IN adversarial_JJ situations_NNS by_IN modeling_NN the_DT adversaries_NNS =_JJ -_: =[_NN 7_CD -RRB-_-RRB- -_: =_JJ -_: ,_, but_CC accurately_RB modeling_NN motivated_JJ adversaries_NNS is_VBZ problematic_JJ in_IN real-world_JJ settings_NNS ._.
+Lowd_NNP and_CC Meek_NNP point_VBP out_RP that_IN in_IN a_DT publicly-facing_JJ system_NN ,_, adversaries_NNS may_MD attempt_VB to_TO reverse-engineer_VB the_DT model_NN v_LS

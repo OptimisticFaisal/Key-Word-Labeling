@@ -1,0 +1,4 @@
+ial_JJ amount_NN of_IN noise_NN resulting_VBG in_IN reduced_VBN recommendation_NN accuracy_NN ._.
+Recently_RB ,_, a_DT new_JJ class_NN of_IN item-based_JJ CF_NN algorithms_NNS has_VBZ been_VBN proposed_VBN to_TO deal_VB with_IN the_DT scalability_NN problems_NNS in_IN user-based_JJ CF_NN algorithms_NNS =_JJ -_: =[_NN 23_CD ,_, 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Item-based_JJ CF_NN algorithms_NNS avoid_VBP the_DT bottleneck_NN in_IN user-user_JJ computations_NNS by_IN first_RB considering_VBG the_DT relationships_NNS among_IN items_NNS ._.
+Rather_RB than_IN finding_VBG user_NN neighbors_NNS ,_, the_DT system_NN tries_VBZ to_TO find_VB k_NN similar_JJ ite_NN

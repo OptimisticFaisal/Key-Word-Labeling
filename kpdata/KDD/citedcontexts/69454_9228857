@@ -1,0 +1,4 @@
+The_DT problem_NN is_VBZ closely_RB related_JJ to_TO schema_NN matching_NN that_WDT takes_VBZ two_CD schemas_NNS as_IN input_NN and_CC produces_VBZ a_DT set_NN of_IN attribute_NN correspondences_NNS between_IN them_PRP -LRB-_-LRB- 1_LS -RRB-_-RRB- ._.
+Schema_NN matching_NN has_VBZ been_VBN extensively_RB studied_VBN -LRB-_-LRB- e.g._FW =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 3_CD ,_, 4_CD ,_, 5_CD ,_, 6_CD ,_, 7_CD ,_, 8_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+These_DT approaches_NNS exploit_VBP different_JJ features_NNS of_IN schemas_NNS ,_, including_VBG structural_JJ and_CC linguistic_JJ features_NNS and_CC data_NNS types_NNS ,_, etc_FW to_TO match_VB attributes_NNS between_IN schemas_NNS ._.
+Schema_NN matching_NN is_VBZ inherently_RB uncertain_JJ

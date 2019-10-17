@@ -1,0 +1,5 @@
+s_NNS involved_VBN in_IN inductive_JJ concept_NN learning_NN ._.
+Two_CD costs_NNS ,_, misclassification_NN and_CC test_NN ,_, are_VBP particularly_RB relevant_JJ to_TO this_DT paper_NN ._.
+Several_JJ researches_VBZ have_VBP considered_VBN misclassification_NN costs_NNS but_CC not_RB test_NN costs_NNS =_JJ -_: =[_NN 9,10,20_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Other_JJ papers_NNS focus_VBP on_IN the_DT cost_NN of_IN tests_NNS ,_, but_CC fail_VBP to_TO take_VB into_IN account_NN misclassification_NN costs_NNS ._.
+Yang_NNP and_CC Honavar_NNP -LRB-_-LRB- 45_CD -RRB-_-RRB- offer_VBP a_DT new_JJ subset_NN feature_NN selection_NN method_NN that_WDT employs_VBZ a_DT genetic_JJ algorithm_NN as_IN

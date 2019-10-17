@@ -1,0 +1,4 @@
+LC_NN case_NN provided_VBN by_IN National_NNP Institute_NNP of_IN Justice_NNP -LRB-_-LRB- NIJ_NNP -RRB-_-RRB- ._.
+The_DT documents_NNS are_VBP first_RB converted_VBN to_TO digital_JJ format_NN under_IN OCR_NNP ,_, and_CC then_RB key_JJ entities_NNS are_VBP tagged_VBN in_IN the_DT documents_NNS using_VBG a_DT BBN_NNP developed_JJ IE_NN tool_NN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT tagged_VBN documents_NNS are_VBP represented_VBN as_IN XML_NN files_NNS ._.
+The_DT tagged_VBN key_JJ entities_NNS include_VBP person_NN names_NNS ,_, organization_NN names_NNS ,_, financial_JJ transaction_NN times_NNS and_CC dates_NNS ,_, location_NN addresses_NNS ,_, as_RB well_RB as_IN transaction_NN

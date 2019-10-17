@@ -1,0 +1,4 @@
+ered_VBN adequate_JJ if_IN it_PRP causes_VBZ all_DT mutated_VBN -LRB-_-LRB- incorrect_JJ -RRB-_-RRB- versions_NNS of_IN the_DT program_NN to_TO fail_VB ._.
+The_DT idea_NN of_IN testing_NN programs_NNS by_IN injecting_VBG simulated_JJ faults_NNS into_IN the_DT code_NN is_VBZ further_RB extended_VBN in_IN -LRB-_-LRB- 38_CD -RRB-_-RRB- ._.
+Another_DT paper_NN =_JJ -_: =[_NN 39_CD -RRB-_-RRB- -_: =_SYM -_: presents_VBZ a_DT family_NN of_IN strategies_NNS for_IN automated_JJ generation_NN of_IN test_NN cases_NNS from_IN Boolean_JJ specifications_NNS ._.
+However_RB ,_, as_IN indicated_VBN by_IN -LRB-_-LRB- 38_CD -RRB-_-RRB- ,_, modern_JJ software_NN systems_NNS are_VBP too_RB large_JJ to_TO be_VB tested_VBN by_IN the_DT white-box_NN

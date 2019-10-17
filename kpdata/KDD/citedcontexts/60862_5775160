@@ -1,0 +1,4 @@
+ysis_NN is_VBZ hard_JJ to_TO perform_VB '_'' by_IN hand_NN '_'' ._.
+Several_JJ attempts_NNS have_VBP been_VBN made_VBN to_TO learn_VB the_DT click_VBP behavior_NN of_IN a_DT web_NN surfer_NN ,_, most_RBS notably_RB by_IN probabilistic_JJ clustering_NN of_IN individuals_NNS with_IN mixtures_NNS of_IN Markov_NNP chains_NNS =_JJ -_: =[_NN 1_CD ,_, 12_CD ,_, 13_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB ,_, the_DT availability_NN of_IN a_DT prior_JJ categorization_NN of_IN web_NN pages_NNS was_VBD assumed_VBN ;_: clickstreams_NNS are_VBP modelled_VBN by_IN a_DT transition_NN matrix_NN between_IN page_NN categories_NNS ._.
+However_RB ,_, manual_JJ categorization_NN can_MD be_VB cumbersome_JJ

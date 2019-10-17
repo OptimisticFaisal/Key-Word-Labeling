@@ -1,0 +1,4 @@
+a_DT clustering_NN task_NN constrained_VBN by_IN a_DT given_VBN taxonomy_NN ._.
+There_EX are_VBP other_JJ initiatives_NNS dealing_VBG with_IN the_DT hierarchical_JJ unsupervised_JJ training_NN ,_, such_JJ as_IN the_DT idea_NN of_IN hierarchical_JJ supervised_JJ clustering_NN promoted_VBN in_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_JJ -_: ,_, which_WDT however_RB still_RB needs_VBZ a_DT small_JJ set_NN of_IN labeled_JJ examples_NNS in_IN advance_NN ,_, and_CC the_DT model_NN autonomously_RB determines_VBZ the_DT taxonomy_NN ._.
+An_DT approach_NN satisfying_VBG almost_RB all_DT task_NN requirements_NNS is_VBZ proposed_VBN in_IN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+In_IN

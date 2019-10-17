@@ -1,0 +1,4 @@
+of_IN a_DT terminology_NN ,_, check_NN whether_IN T0_NN and_CC T1_NN are_VBP logically_RB different_JJ in_IN the_DT sense_NN that_IN they_PRP do_VBP not_RB imply_VB the_DT same_JJ dependencies_NNS between_IN Σ-terms_NNS ._.
+There_EX are_VBP various_JJ approaches_NNS to_TO these_DT problems_NNS ;_: see_VB ,_, e.g._FW ,_, =_JJ -_: =[_NN 7_CD ,_, 15_CD ,_, 3_CD ,_, 4_CD -RRB-_-RRB- -_: =_SYM -_: for_IN module_NN extraction_NN and_CC -LRB-_-LRB- 14_CD -RRB-_-RRB- for_IN an_DT algorithm_NN comparing_VBG ontology_NN versions_NNS ._.
+In_IN this_DT paper_NN ,_, we_PRP consider_VBP two_CD logic-based_JJ approaches_NNS ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- A_DT semantic_JJ approach_NN according_VBG to_TO which_WDT two_CD terminologies_NNS imply_VBP

@@ -1,0 +1,4 @@
+ion_NN between_IN the_DT original_JJ data_NNS distribution_NN and_CC the_DT randomly_RB perturbed_VBN data_NNS distribution_NN ._.
+Evfimievski_NNP et_FW al._FW presented_VBD another_DT measure_NN called_VBN ``_`` privacy_NN breaches_NNS ''_'' to_TO quantify_VB the_DT preservation_NN of_IN privacy_NN =_JJ -_: =[_NN 10_CD ,_, 11_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Intuitively_RB ,_, a_DT privacy_NN breach_NN level_NN is_VBZ the_DT probability_NN that_IN a_DT property_NN of_IN the_DT original_JJ data_NN record_NN is_VBZ revealed_VBN given_VBN the_DT randomized_VBN data_NN record_NN ._.
+They_PRP showed_VBD that_IN privacy_NN breaches_NNS can_MD occur_VB even_RB when_WRB

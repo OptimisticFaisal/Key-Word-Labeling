@@ -1,0 +1,4 @@
+derlying_VBG association_NN rules_NNS -LRB-_-LRB- 2_CD ,_, 3_CD -RRB-_-RRB- ._.
+Moreover_RB ,_, the_DT patterns_NNS defined_VBN for_IN correlation_NN -LRB-_-LRB- 6_CD ,_, 7_CD -RRB-_-RRB- ,_, causality_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ,_, sequential_JJ patterns_NNS -LRB-_-LRB- 4_CD -RRB-_-RRB- ,_, episodes_NNS -LRB-_-LRB- 13_CD -RRB-_-RRB- ,_, constrained_VBN frequent_JJ sets_NNS -LRB-_-LRB- 11_CD ,_, 14_CD ,_, 19_CD -RRB-_-RRB- ,_, long_JJ patterns_NNS =_JJ -_: =[_NN 1_CD ,_, 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, closed_VBN sets_NNS -LRB-_-LRB- 16_CD -RRB-_-RRB- ,_, and_CC many_JJ other_JJ important_JJ data_NNS mining_NN tasks_NNS have_VBP the_DT same_JJ basic_JJ form_NN ._.
+In_IN all_PDT these_DT cases_NNS ,_, we_PRP have_VBP instances_NNS of_IN the_DT following_JJ abstract_JJ problem_NN ._.
+Given_VBN a_DT collection_NN P_NN of_IN atomic_JJ pattern_NN

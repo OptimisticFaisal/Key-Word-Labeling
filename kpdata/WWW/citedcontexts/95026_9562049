@@ -1,0 +1,4 @@
+wever_NN ,_, clustering_NN algorithms_NNS are_VBP difficult_JJ to_TO evaluate_VB ._.
+Manual_JJ evaluations_NNS of_IN cluster_NN quality_NN are_VBP time_NN consuming_VBG and_CC usually_RB not_RB well_RB suited_VBN for_IN comparing_VBG across_IN many_JJ different_JJ algorithms_NNS or_CC settings_NNS =_JJ -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Several_JJ previous_JJ studies_NNS instead_RB use_VBP an_DT automated_JJ evaluation_NN metric_NN based_VBN on_IN comparing_VBG an_DT algorithm_NN 's_POS output_NN with_IN a_DT hierarchical_JJ web_NN directory_NN -LRB-_-LRB- 31_CD ,_, 28_CD -RRB-_-RRB- ._.
+Such_JJ evaluations_NNS are_VBP driven_VBN by_IN the_DT intuition_NN

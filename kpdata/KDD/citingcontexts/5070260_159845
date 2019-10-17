@@ -1,0 +1,5 @@
+ion_NN of_IN the_DT data_NN values_NNS in_IN -LRB-_-LRB- bi_FW ,_, ei_FW -RRB-_-RRB- ._.
+1_CD 2B_NN −_NN 1_CD numbers_NNS suffice_VBP to_TO represent_VB a_DT B-bucket_NN histogram_NN -LRB-_-LRB- since_IN ∀_FW i_FW ,_, 1_CD -LRB-_-LRB- i_FW ≤_FW B_NN ,_, bi_NN =_JJ ei_FW −_FW 1_CD +1_NN and_CC the_DT edges_NNS are_VBP fixed_VBN -RRB-_-RRB- ._.
+Initial_JJ work_NN on_IN histograms_NNS focused_VBN on_IN heuristics_NNS =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+An_DT O_NN -LRB-_-LRB- n_NN 2_CD B_NN -RRB-_-RRB- dynamic_JJ programming_NN algorithm_NN that_WDT assigns_VBZ optimal_JJ bucket_NN boundaries_NNS for_IN the_DT Euclidean_JJ -LRB-_-LRB- L2_NN -RRB-_-RRB- error_NN metric_NN -LRB-_-LRB- O_NN -LRB-_-LRB- n_NN 3_CD B_NN -RRB-_-RRB- for_IN other_JJ metrics_NNS -RRB-_-RRB- was_VBD presented_VBN 2_CD in_IN -LRB-_-LRB- 17_CD -RRB-_-RRB- ._.
+The_DT basic_JJ idea_NN behind_IN it_PRP is_VBZ

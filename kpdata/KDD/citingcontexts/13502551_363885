@@ -1,0 +1,4 @@
+ext_NN search_NN and_CC authority_NN ranking_NN ._.
+In_IN addition_NN ,_, PopRank_NN -LRB-_-LRB- 19_CD -RRB-_-RRB- is_VBZ developed_VBN to_TO extend_VB PageRank_NNP models_NNS to_TO integrate_VB heterogenous_JJ relationships_NNS between_IN objects_NNS ._.
+Another_DT approach_NN suggested_VBN by_IN Minkov_NNP et_FW al._FW =_SYM -_: =[_NN 18_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ been_VBN used_VBN to_TO improve_VB an_DT initial_JJ ranking_NN on_IN graph_NN walks_VBZ in_IN entity-relation_JJ networks_NNS ._.
+However_RB ,_, those_DT methods_NNS does_VBZ not_RB make_VB full_JJ use_NN of_IN the_DT content_NN and_CC graph_NN information_NN as_IN they_PRP treat_VBP the_DT content_NN an_DT

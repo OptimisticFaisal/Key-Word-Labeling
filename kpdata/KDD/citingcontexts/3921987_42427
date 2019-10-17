@@ -1,0 +1,5 @@
+tion_NN algorithm_NN and_CC its_PRP$ time_NN complexity_NN analysis_NN -LRB-_-LRB- in_IN section_NN 3.4_CD -RRB-_-RRB- ._.
+3.1_CD Data_NN Structure_NN Definition_NN 1_CD ._.
+-LRB-_-LRB- 21_CD -RRB-_-RRB- Consider_VB a_DT string_NN S_NN of_IN n_NN characters_NNS :_: S_NN =_JJ c1c2_NN ..._: cn_NN ._.
+The_DT suffix_NN tree_NN T_NN for_IN S_NN is_VBZ a_DT compacted_JJ trie_NN =_JJ -_: =[_NN 34_CD -RRB-_-RRB- -_: =_SYM -_: that_IN stores_NNS all_DT suffixes_NNS of_IN S._NNP Specifically_RB ,_, T_NN is_VBZ a_DT rooted_JJ directed_JJ tree_NN with_IN exactly_RB n_NN leaves_NNS numbered_VBD 1_CD to_TO n._RB Let_VB r_NN denote_VB the_DT root_NN of_IN T_NN ._.
+Each_DT internal_JJ node_NN other_JJ than_IN r_NN has_VBZ at_IN Figure_NNP 2_CD :_: The_DT suffi_NN

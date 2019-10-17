@@ -1,0 +1,3 @@
+the_DT features_NNS used_VBN ._.
+2_CD Related_NNP Work_NNP Cost-sensitive_JJ regression_NN and_CC cost-sensitive_JJ classification_NN in_IN non-sequential_JJ decision_NN making_NN ,_, supervised_JJ learning_NN settings_NNS have_VBP been_VBN widely_RB studied_VBN ,_, for_IN example_NN in_IN =_JJ -_: =[_NN 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+While_IN -LRB-_-LRB- 7_CD -RRB-_-RRB- addresses_VBZ one_CD aspect_NN of_IN cost-sensitive_JJ sequential_JJ decision-making_NN ,_, it_PRP should_MD be_VB noted_VBN that_IN in_IN their_PRP$ special_JJ case_NN ,_, cost_NN is_VBZ only_RB associated_VBN with_IN actions_NNS --_: not_RB with_IN observing_VBG state_NN features_NNS --_:

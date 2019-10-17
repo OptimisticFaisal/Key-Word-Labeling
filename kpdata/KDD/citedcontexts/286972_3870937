@@ -1,0 +1,4 @@
+ermore_RB ,_, the_DT outlier-ness_JJ criteria_NNS are_VBP often_RB implicit_JJ and_CC can_MD not_RB easily_RB be_VB inferred_VBN from_IN the_DT clustering_NN procedures_NNS ._.
+An_DT intriguing_JJ clustering_NN algorithm_NN using_VBG the_DT fractal_JJ dimension_NN has_VBZ been_VBN suggested_VBN by_IN =_JJ -_: =[_NN 14_CD -RRB-_-RRB- -_: =_JJ -_: ;_: however_RB it_PRP has_VBZ not_RB been_VBN demonstrated_VBN on_IN real_JJ datasets_NNS ._.
+Depth_NN based_VBN This_NNP is_VBZ based_VBN on_IN computational_JJ geometry_NN and_CC finds_VBZ different_JJ layers_NNS of_IN k-d_FW convex_FW hulls_NNS -LRB-_-LRB- 7_CD -RRB-_-RRB- ._.
+Points_NNS in_IN the_DT outer_JJ layer_NN are_VBP potential_JJ

@@ -1,0 +1,4 @@
+,_, temperature_NN changes_NNS -RRB-_-RRB- in_IN spatial_JJ regions_NNS ._.
+In_IN general_JJ ,_, there_EX is_VBZ limited_JJ work_NN on_IN spatiotemporal_JJ data_NNS mining_NN ,_, which_WDT has_VBZ been_VBN treated_VBN as_IN a_DT generalization_NN of_IN pattern_NN mining_NN in_IN time-series_JJ data_NNS -LRB-_-LRB- e.g._FW ,_, see_VBP =_JJ -_: =[_NN 14_CD ,_, 9_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+The_DT locations_NNS of_IN objects_NNS or_CC the_DT changes_NNS of_IN natural_JJ phenomena_NNS over_IN time_NN are_VBP mapped_VBN to_TO sequences_NNS of_IN values_NNS ._.
+For_IN instance_NN ,_, we_PRP can_MD divide_VB the_DT map_NN into_IN spatial_JJ regions_NNS and_CC replace_VB the_DT location_NN of_IN the_DT ob_NN

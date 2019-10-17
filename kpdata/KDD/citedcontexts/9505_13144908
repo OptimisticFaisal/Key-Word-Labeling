@@ -1,0 +1,4 @@
+he_PRP normalized_VBD cut_NN measure_NN modified_VBN to_TO satisfy_VB the_DT balance_NN constraint_NN ._.
+We_PRP note_VBP that_IN such_JJ bipartite_JJ graph_NN partitioning_VBG problems_NNS can_MD be_VB approached_VBN using_VBG either_CC the_DT ℓ2_NN metric_NN -LRB-_-LRB- 20_CD -RRB-_-RRB- or_CC KL-divergence_NN metric_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+7_CD Experiments_NNS In_IN this_DT section_NN ,_, we_PRP perform_VBP several_JJ experiments_NNS to_TO compare_VB the_DT Fourier_NN approach_NN ,_, information_NN approach_NN and_CC the_DT proposed_VBN hybrid_NN approach_NN ._.
+We_PRP use_VBP the_DT Delta3D_NN game_NN engine_NN to_TO generate_VB simul_NN

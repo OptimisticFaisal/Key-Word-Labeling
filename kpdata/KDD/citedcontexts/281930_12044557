@@ -1,0 +1,4 @@
+outliers_NNS or_CC abnormalities_NNS ._.
+There_EX are_VBP several_JJ existing_VBG approaches_NNS for_IN the_DT identification_NN of_IN surprise_NN events_NNS in_IN waveforms_NNS based_VBN on_IN unsupervised_JJ machine-learning_JJ techniques_NNS -LRB-_-LRB- 16_CD --_: 19_CD -RRB-_-RRB- ._.
+Bay_NN and_CC Schwabacher_NN =_JJ -_: =[_NN 16_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Schwabacher_NNP -LRB-_-LRB- 17_CD -RRB-_-RRB- described_VBD an_DT unsupervised_JJ method_NN that_WDT works_VBZ on_IN both_CC discrete_JJ and_CC continuous_JJ data_NNS streams_NNS ._.
+This_DT method_NN is_VBZ based_VBN on_IN the_DT nearestneighbor_JJ approach_NN but_CC uses_VBZ a_DT novel_JJ pruning_NN rule_NN to_TO ob_VB

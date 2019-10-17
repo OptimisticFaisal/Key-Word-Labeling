@@ -1,0 +1,4 @@
+1_LS -RRB-_-RRB- to_TO recognize_VB static_JJ signs_NNS for_IN a_DT 10-sign_JJ vocabulary_NN with_IN an_DT 84.66_CD %_NN accuracy_NN achieved_VBN ._.
+Dynamic_NNP Time_NNP Warping_NNP -LRB-_-LRB- DTW_NNP -RRB-_-RRB- and_CC Longest_NNP Common_NNP SubSequence_NN -LRB-_-LRB- LCSS_NN -RRB-_-RRB- distances_NNS are_VBP used_VBN for_IN similarity_NN measures_NNS in_IN -LRB-_-LRB- =_JJ -_: =_JJ Vlachos_NNP et_FW al._FW 2003_CD -_: =-]_CD ._.
+Both_CC DTW_NN and_CC LCSS_NN have_VBP a_DT computational_JJ complexity_NN of_IN O_NN -LRB-_-LRB- wd_NN -LRB-_-LRB- m_NN +_CC n_NN -RRB-_-RRB- -RRB-_-RRB- ,_, where_WRB w_NN is_VBZ the_DT size_NN of_IN a_DT matching_NN window_NN ,_, d_NN is_VBZ the_DT number_NN of_IN dimensions_NNS ,_, and_CC m_NN and_CC n_NN are_VBP the_DT lengths_NNS of_IN two_CD data_NNS sequences_NNS ._.
+If_IN m_NN a_DT

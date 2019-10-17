@@ -1,0 +1,4 @@
+tion_NN recently_RB -LRB-_-LRB- 13_CD ,_, 16_CD ,_, 17_CD ,_, 26_CD -RRB-_-RRB- ._.
+In_IN -LRB-_-LRB- 25_CD -RRB-_-RRB- ,_, a_DT discriminative_JJ subspace_NN kernel_NN learning_NN algorithm_NN was_VBD proposed_VBN to_TO find_VB a_DT low-dimensional_JJ subspace_NN of_IN the_DT kernel_NN feature_NN space_NN ._.
+Kernel_NNP Target_NN Alignment_NN -LRB-_-LRB- KTA_NN -RRB-_-RRB- =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_JJ -_: was_VBD employed_VBN as_IN the_DT learning_NN criterion_NN ,_, resulting_VBG in_IN a_DT complex_JJ nonlinear_JJ optimization_NN problem_NN ,_, for_IN which_WDT the_DT conjugate_NN gradient_NN algorithm_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- was_VBD applied_VBN to_TO compute_VB a_DT locally_RB optimal_JJ solution_NN ._.
+In_IN th_DT

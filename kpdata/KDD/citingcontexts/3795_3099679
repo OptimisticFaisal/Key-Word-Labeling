@@ -1,0 +1,6 @@
+elated_VBN work_NN includes_VBZ correlation_NN rule_NN mining_NN in_IN -LRB-_-LRB- 5_CD -RRB-_-RRB- ._.
+It_PRP uses_VBZ chi-square_JJ test_NN to_TO measure_VB the_DT correlation_NN ._.
+A_DT correlation_NN rule_NN is_VBZ a_DT set_NN of_IN correlated_JJ items_NNS ._.
+It_PRP does_VBZ not_RB perform_VB pruning_NN or_CC summarization_NN ._.
+=_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: introduces_VBZ a_DT technique_NN for_IN clustering_NN association_NN rules_NNS ._.
+It_PRP mainly_RB deals_VBZ with_IN generation_NN of_IN numeric_JJ associations_NNS ,_, i.e._FW ,_, how_WRB to_TO join_VB the_DT adjacent_JJ intervals_NNS to_TO produce_VB more_RBR general_JJ rules_NNS and_CC fewer_JJR rule_NN

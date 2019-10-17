@@ -1,0 +1,4 @@
+most_RBS widely_RB used_VBN ._.
+This_DT method_NN assumes_VBZ fixed_JJ bandwidth_NN for_IN all_PDT the_DT kernels_NNS and_CC is_VBZ not_RB suitable_JJ when_WRB data_NN exhibits_VBZ local_JJ scale_NN variations_NNS ._.
+The_DT optimal_JJ bandwidth_NN selection_NN methods_NNS proposed_VBN by_IN Silverman_NNP =_SYM -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: and_CC Wand_NNP and_CC Jones_NNP -LRB-_-LRB- 20_CD -RRB-_-RRB- are_VBP of_IN limited_JJ practical_JJ use_NN for_IN multidimensional_JJ data_NNS as_IN the_DT derivation_NN of_IN asymptotics_NNS involves_VBZ multivariate_JJ derivatives_NNS and_CC higher_JJR order_NN Taylor_NNP expansions_NNS ._.
+We_PRP did_VBD not_RB find_VB a_DT

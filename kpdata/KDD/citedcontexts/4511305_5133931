@@ -1,0 +1,3 @@
+s_VBZ the_DT percentage_NN of_IN all_DT accesses_NNS that_WDT are_VBP satisfied_VBN by_IN the_DT data_NNS in_IN the_DT cache_NN ._.
+Recently_RB ,_, hit_NN ratio_NN has_VBZ been_VBN used_VBN in_IN the_DT Web_NN mining_NN domain_NN to_TO measure_VB the_DT performance_NN of_IN Web_NN page_NN recommendation_NN systems_NNS -LRB-_-LRB- =_JJ -_: =_JJ Gunduz_NNP &_CC Ozsu_NNP ,_, 2003_CD -_: =_JJ -_: ;_: Manavoglu_NNP ,_, Pavlov_NNP ,_, &_CC Giles_NNP ,_, 2003_CD -RRB-_-RRB- ._.
+Given_VBN a_DT test_NN sequence_NN of_IN requests_NNS ,_, a_DT hit_NN is_VBZ declared_VBN if_IN what_WP the_DT system_NN recommends_VBZ on_IN the_DT basis_NN of_IN a_DT subsequence_NN 1862_CD JOURNAL_NN OF_IN THE_DT AMERICAN_NNP SOCIETY_NNP FOR_IN INFORMATI_NN

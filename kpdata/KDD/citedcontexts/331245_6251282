@@ -1,0 +1,4 @@
+set_VBN ._.
+The_DT embedding_VBG list_NN reduces_VBZ the_DT search_NN space_NN of_IN a_DT task_NN at_IN the_DT expense_NN of_IN maintaining_VBG increased_VBN state_NN ._.
+We_PRP compared_VBD the_DT performance_NN of_IN three_CD algorithms_NNS ,_, one_CD that_WDT always_RB maintains_VBZ the_DT state_NN -LRB-_-LRB- gaston_NN =_JJ -_: =[_NN 15_CD -RRB-_-RRB- -_: =--RRB-_NN ,_, one_CD that_WDT never_RB maintains_VBZ the_DT state_NN -LRB-_-LRB- gSpan_NN -LRB-_-LRB- 26_CD -RRB-_-RRB- -RRB-_-RRB- and_CC one_CD that_WDT adaptively_RB maintains_VBZ state_NN -LRB-_-LRB- ours_JJ -RRB-_-RRB- ._.
+Notably_RB our_PRP$ adaptive_JJ algorithm_NN is_VBZ always_RB the_DT most_RBS efficient_JJ and_CC when_WRB operating_VBG on_IN smaller_JJR number_NN of_IN c_NN

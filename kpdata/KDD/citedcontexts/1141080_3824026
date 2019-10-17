@@ -1,0 +1,4 @@
+ded_VBD dependent_JJ on_IN the_DT query_NN ._.
+The_DT BOND_NN system_NN developed_VBN by_IN de_IN Vries_NNP et_FW al._FW -LRB-_-LRB- 10_CD -RRB-_-RRB- uses_VBZ a_DT branch-and-bound_JJ algorithm_NN so_IN that_IN data_NNS in_IN later_JJ dimensions_NNS can_MD be_VB discarded_VBN ._.
+Finally_RB ,_, the_DT Aggarwal_NNP and_CC Yu_NNP 's_POS iGrid_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT bitmap_JJ index_NN of_IN Cha_NN -LRB-_-LRB- 12_CD -RRB-_-RRB- work_NN with_IN vertically_RB decomposed_VBN features_NNS and_CC use_VB only_RB the_DT part_NN of_IN each_DT dimension_NN close_RB to_TO the_DT query_NN point_NN to_TO generate_VB a_DT similarity_NN value_NN ._.
+It_PRP is_VBZ this_DT idea_NN that_IN we_PRP have_VBP

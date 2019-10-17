@@ -1,0 +1,3 @@
+eatures_NNS were_VBD discretized_VBN in_IN advance_NN ,_, the_DT CoIL_NN competition_NN could_MD not_RB serve_VB as_IN a_DT test_NN of_IN discretization_NN methods_NNS ._.
+The_DT predictive_JJ accuracy_NN of_IN a_DT naive_JJ Bayesian_JJ classifier_NN can_MD often_RB be_VB improved_VBN by_IN boosting_VBG =_JJ -_: =[_NN 3_CD -RRB-_-RRB- -_: =_JJ -_: ,_, and_CC by_IN adding_VBG new_JJ attributes_NNS derived_VBN from_IN combinations_NNS of_IN existing_VBG attributes_NNS ._.
+Both_DT boosting_VBG and_CC derived_VBN attributes_NNS are_VBP ways_NNS of_IN relaxing_VBG the_DT conditional_JJ independence_NN assumptions_NNS that_WDT constitute_VBP the_DT

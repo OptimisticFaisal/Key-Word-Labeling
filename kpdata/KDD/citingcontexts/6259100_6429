@@ -1,0 +1,5 @@
+-_: derivable_JJ patterns_NNS ._.
+This_DT serves_VBZ as_IN the_DT profile_JJ summary_NN of_IN the_DT dataset_NN ._.
+Subsequently_RB the_DT list_NN of_IN frequent_JJ itemsets_NNS and_CC associated_VBN counts_NNS can_MD be_VB computed_VBN using_VBG standard_JJ probabilistic_JJ inference_NN methods_NNS =_JJ -_: =[_NN 13_CD ,_, 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT resultant_JJ profile_NN summary_NN can_MD be_VB thought_VBN of_IN as_IN generalizedsnon-derivable_JJ patterns_NNS ._.
+This_DT is_VBZ a_DT very_RB nice_JJ property_NN considering_VBG that_IN in_IN many_JJ cases_NNS ,_, non-derivable_JJ patterns_NNS are_VBP already_RB able_JJ to_TO offer_VB a_DT

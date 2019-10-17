@@ -1,0 +1,5 @@
+e_LS with_IN the_DT power_NN law_NN ._.
+One_CD limitation_NN is_VBZ that_IN the_DT dynamic_JJ sampling_NN requires_VBZ the_DT learning_VBG algorithm_NN to_TO be_VB incremental_JJ ._.
+Progressive_JJ Sampling_NN :_: The_DT progressive_JJ sampling_NN was_VBD first_RB proposed_VBN by_IN Provost_NNP et_FW al_FW =_JJ -_: =[_NN 45_CD -RRB-_-RRB- -_: =_SYM -_: for_IN scaling_VBG up_RP inductive_JJ algorithms_NNS ._.
+Basically_RB it_PRP uses_VBZ the_DT idea_NN similar_JJ to_TO the_DT dynamic_JJ sampling_NN ,_, but_CC it_PRP does_VBZ not_RB require_VB the_DT algorithm_NN to_TO be_VB incremental_JJ ._.
+It_PRP starts_VBZ learning_VBG with_IN a_DT small_JJ sample_NN ,_, and_CC p_NN

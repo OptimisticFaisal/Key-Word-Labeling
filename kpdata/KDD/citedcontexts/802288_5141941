@@ -1,0 +1,4 @@
+h_NN real-valued_JJ data_NNS except_IN through_IN prior_JJ discretization_NN -LRB-_-LRB- 2,3_CD -RRB-_-RRB- ._.
+Even_RB in_IN those_DT cases_NNS where_WRB real-valued_JJ data_NNS are_VBP acceptable_JJ ,_, multi-variate_JJ data_NNS typically_RB are_VBP not_RB -LRB-_-LRB- 4_CD -RRB-_-RRB- ._.
+The_DT algorithms_NNS also_RB tend_VBP to_TO be_VB batch_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: ,_, rather_RB than_IN incremental_JJ ,_, which_WDT poses_VBZ problems_NNS when_WRB the_DT datasets_NNS are_VBP large_JJ or_CC come_VB from_IN a_DT high-volume_JJ stream_NN ._.
+Finally_RB ,_, there_EX are_VBP often_RB assumptions_NNS about_IN the_DT number_NN or_CC temporal_JJ extent_NN of_IN patterns_NNS that_IN

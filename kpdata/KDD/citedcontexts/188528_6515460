@@ -1,0 +1,4 @@
+thods_NNS ,_, so_IN that_IN they_PRP are_VBP only_JJ by-products_NNS which_WDT are_VBP not_RB cared_VBN about_IN ._.
+In_IN recent_JJ years_NNS ,_, outliers_NNS themselves_PRP draw_VBP much_JJ attention_NN ,_, and_CC outlier_NN detection_NN is_VBZ studied_VBN intensively_RB by_IN the_DT data_NNS mining_NN community_NN =_JJ -_: =[_NN 18_CD ,_, 19_CD ,_, 8_CD ,_, 23_CD ,_, 9_CD ,_, 16_CD ,_, 26_CD ,_, 1_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Distance-based_JJ outlier_NN detection_NN is_VBZ to_TO find_VB data_NNS that_WDT are_VBP sparse_JJ within_IN the_DT hyper-sphere_JJ having_VBG given_VBN radius_NN -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+Researchers_NNP also_RB developed_VBD efficient_JJ algorithms_NNS for_IN mining_NN distance-based_JJ outliers_NNS ,_,

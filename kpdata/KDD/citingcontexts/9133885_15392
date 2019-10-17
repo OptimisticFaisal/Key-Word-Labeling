@@ -1,0 +1,3 @@
+column_NN in_IN V_NN -LRB-_-LRB- and_CC vice-versa_NN -RRB-_-RRB- ._.
+If_IN the_DT prediction_NN link_NN and_CC loss_NN correspond_VBP to_TO a_DT Bernoulli_NNP distribution_NN ,_, then_RB margin_NN losses_NNS are_VBP special_JJ cases_NNS of_IN biases_NNS ;_: -LRB-_-LRB- iv_LS -RRB-_-RRB- methods_NNS based_VBN on_IN plate_NN models_NNS ,_, such_JJ as_IN pLSI_NN =_JJ -_: =[_NN 19_CD -RRB-_-RRB- -_: =_JJ -_: ,_, can_MD be_VB placed_VBN in_IN our_PRP$ framework_NN just_RB as_RB well_RB as_IN methods_NNS that_IN factor_NN data_NN matrices_NNS ._.
+While_IN these_DT features_NNS can_MD be_VB added_VBN to_TO collective_JJ matrix_NN factorization_NN ,_, we_PRP focus_VBP primarily_RB on_IN relational_JJ issues_NNS herein_RB

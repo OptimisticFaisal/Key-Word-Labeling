@@ -1,0 +1,5 @@
+itial_JJ parameter_NN values_NNS θ0_NN ._.
+Sensor_NN placement_NN for_IN outbreak_NN detection_NN ._.
+Another_DT class_NN of_IN examples_NNS are_VBP outbreak_NN detection_NN problems_NNS on_IN graphs_NNS ,_, such_JJ as_IN contamination_NN detection_NN in_IN water_NN distribution_NN networks_NNS =_JJ -_: =[_NN 8_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+Here_RB ,_, we_PRP are_VBP given_VBN a_DT graph_NN G_NN =_JJ -LRB-_-LRB- V_NN ,_, E_NN -RRB-_-RRB- ,_, and_CC a_DT phenomenon_NN spreading_NN dynamically_RB over_IN the_DT graph_NN ._.
+We_PRP define_VBP a_DT set_NN of_IN intrusion_NN scenarios_NNS I_PRP ;_: each_DT scenario_NN i_FW ∈_FW I_NN models_NNS an_DT outbreak_NN -LRB-_-LRB- e.g._FW ,_, spreading_NN of_IN con_NN

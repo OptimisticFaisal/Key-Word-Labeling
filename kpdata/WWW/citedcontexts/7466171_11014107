@@ -1,0 +1,4 @@
+ioned_VBN in_IN the_DT document_NN ._.
+However_RB ,_, since_IN these_DT models_NNS are_VBP unsupervised_JJ ,_, they_PRP afford_VBP no_DT method_NN of_IN linking_VBG the_DT latent_JJ topics_NNS to_TO external_JJ observed_VBN representations_NNS of_IN the_DT properties_NNS of_IN interest_NN ._.
+Recent_JJ work_NN =_JJ -_: =[_NN 4_CD ,_, 30_CD -RRB-_-RRB- -_: =_SYM -_: has_VBZ extended_VBN the_DT latent_JJ topic_NN framework_NN to_TO model_VB a_DT document_NN 's_POS labels_NNS or_CC numerical_JJ rankings_NNS jointly_RB with_IN its_PRP$ words_NNS ._.
+This_DT allows_VBZ these_DT methods_NNS to_TO use_VB the_DT topic_NN modelling_NN framework_NN for_IN label_NN prediction_NN

@@ -1,0 +1,3 @@
+statistics_NNS ,_, achieving_VBG high_JJ prediction_NN accuracy_NN ._.
+The_DT popularity_NN of_IN a_DT new_JJ video_NN can_MD be_VB inferred_VBN by_IN learning_VBG users_NNS '_POS preferences_NNS on_IN similar_JJ videos_NNS published_VBN earlier_RBR ,_, such_JJ as_IN using_VBG collaborative_JJ filtering_VBG =_JJ -_: =[_NN 6_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP a_DT novel_JJ regression_NN model_NN to_TO infer_VB user_NN demands_NNS for_IN new_JJ videos_NNS ,_, which_WDT has_VBZ a_DT strong_JJ physical_JJ explanation_NN based_VBN on_IN the_DT video_NN release_NN time_NN and_CC diurnal_JJ access_NN behavior_NN of_IN Intern_NNP

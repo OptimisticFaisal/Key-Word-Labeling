@@ -1,0 +1,8 @@
+MENTAL_JJ RESULTS_NNS In_IN this_DT section_NN ,_, two_CD data_NNS sets_NNS T10_NN ._.
+I4_NN ._.
+D1000K_NN and_CC T5_NN ._.
+I4_NN ._.
+D1000KAB_NN are_VBP used_VBN to_TO evaluate_VB the_DT performance_NN of_IN the_DT estDec_NN method_NN ._.
+Each_DT data_NNS set_NN is_VBZ generated_VBN by_IN the_DT same_JJ method_NN as_IN described_VBN in_IN =_JJ -_: =[_NN 10_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT total_JJ number_NN of_IN items_NNS is_VBZ 1,000_CD ._.
+In_IN all_DT experiments_NNS ,_, the_DT transactions_NNS of_IN each_DT data_NNS set_VBN are_VBP looked_VBN up_IN one_CD by_IN one_CD in_IN sequence_NN to_TO simulate_VB the_DT environment_NN of_IN an_DT online_JJ data_NN stream_NN ._.
+In_IN addition_NN ,_, e_SYM

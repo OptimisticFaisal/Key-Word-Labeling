@@ -1,0 +1,5 @@
+nd_NN index_NN selection_NN trade_NN reduced_VBD querycost_JJ byadditional_JJ disk_NN space_NN -LRB-_-LRB- 51_CD -RRB-_-RRB- ._.
+For_IN example_NN ,_, compression_NN techniques_NNS have_VBP been_VBN used_VBN to_TO compress_VB keys_NNS in_IN a_DT B-tree_JJ index_NN 15s_NNS -LRB-_-LRB- 20_CD -RRB-_-RRB- ._.
+View_NNP compression_NN was_VBD studied_VBN in_IN =_JJ -_: =[_NN 59_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+However_RB ,_, there_EX has_VBZ been_VBN no_DT investigation_NN of_IN the_DT relationship_NN of_IN compression_NN and_CC vertical_JJ partitioning_NN ,_, which_WDT is_VBZ a_DT technique_NN to_TO divide_VB the_DT table_NN into_IN partitions_NNS to_TO improve_VB I\/O_NN performance_NN ._.
+We_PRP investi_VBP

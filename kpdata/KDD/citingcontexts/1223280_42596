@@ -1,0 +1,6 @@
+s_NN to_TO evaluate_VB performance_NN with_IN synthetic_JJ data_NNS sets_NNS ._.
+Section_NN 5_CD discusses_VBZ related_JJ work_NN ._.
+Section_NN 6_CD provides_VBZ general_JJ conclusions_NNS and_CC directions_NNS for_IN future_JJ work_NN ._.
+2_CD ._.
+DEFINITIONS_NNS The_DT basic_JJ input_NN for_IN K-means_NN =_JJ -_: =[_NN 2_CD ,_, 6_CD -RRB-_-RRB- -_: =_JJ -_: is_VBZ a_DT data_NN set_NN Y_NN containing_VBG n_NN points_NNS in_IN d_NN dimensions_NNS ,_, Y_NN =_JJ -LCB-_-LRB- y1_NN ,_, y2_NN ,_, ..._: ,_, yn_NN -RCB-_-RRB- ,_, and_CC k_NN ,_, the_DT desired_VBN number_NN of_IN clusters_NNS ._.
+The_DT output_NN are_VBP three_CD matrices_NNS W_NN ,_, C_NN ,_, R_NN ,_, containing_VBG k_NN weights_NNS ,_, k_NN means_NN and_CC k_NN varian_NN

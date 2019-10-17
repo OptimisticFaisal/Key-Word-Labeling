@@ -1,0 +1,4 @@
+ity_NN measures_NNS were_VBD enhanced_VBN through_IN the_DT combined_JJ use_NN of_IN co-citation_NN and_CC cocoupling_NN ._.
+Recently_RB ,_, many_JJ research_NN efforts_NNS have_VBP discussed_VBN how_WRB to_TO use_VB multiple_JJ features_NNS to_TO measure_VB the_DT similarity_NN of_IN web_NN objects_NNS =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =-[_NN 17_CD -RRB-_-RRB- -LRB-_-LRB- 18_CD -RRB-_-RRB- ._.
+The_DT main_JJ problem_NN with_IN these_DT approaches_NNS is_VBZ that_IN the_DT mutual_JJ reinforcement_NN over_IN different_JJ features_NNS is_VBZ ignored_VBN ._.
+In_IN this_DT paper_NN ,_, we_PRP propose_VBP an_DT iterative_JJ method_NN to_TO fuse_NN content_NN and_CC citation_NN similar_JJ

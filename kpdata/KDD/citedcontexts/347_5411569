@@ -1,0 +1,4 @@
+mining_NN efficiency_NN ._.
+A_DT possible_JJ solution_NN to_TO reduce_VB the_DT number_NN of_IN itemsets_NNS mined_VBN is_VBZ to_TO mine_VB FCIs_NNS -LRB-_-LRB- 37_CD -RRB-_-RRB- instead_RB 34sof_JJ FIs_NNS ._.
+The_DT set_NN of_IN FCIs_NNS is_VBZ a_DT complete_JJ and_CC non-redundant_JJ representation_NN of_IN the_DT set_NN of_IN FIs_NNS =_JJ -_: =[_NN 46_CD -RRB-_-RRB- -_: =_JJ -_: and_CC the_DT former_JJ is_VBZ often_RB orders_NNS of_IN magnitude_NN smaller_JJR than_IN the_DT latter_JJ ._.
+This_DT significant_JJ reduction_NN in_IN the_DT size_NN of_IN the_DT result_NN set_NN leads_VBZ to_TO faster_JJR speed_NN and_CC less_JJR memory_NN consumption_NN in_IN computing_VBG FCIs_NNS than_IN

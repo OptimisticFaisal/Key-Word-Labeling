@@ -1,0 +1,6 @@
+ber_NN of_IN true_JJ negatives_NNS ._.
+Finally_RB ,_, precision_NN is_VBZ defined_VBN as_IN p_NN =_JJ a_DT \/_: -LRB-_-LRB- a_DT +_CC c_NN -RRB-_-RRB- and_CC recall_NN as_IN r_NN =_JJ a_DT \/_: -LRB-_-LRB- a_DT +_CC b_NN -RRB-_-RRB- ._.
+The_DT basic_JJ learning_NN algorithm_NN for_IN each_DT method_NN is_VBZ an_DT SVM_NN with_IN a_DT linear_JJ kernel_NN as_IN implemented_VBN in_IN libSVM_NN =_JJ -_: =[_NN 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN approach_NN -LRB-_-LRB- ii_LS -RRB-_-RRB- we_PRP use_VBP Platt_NNP scaling_VBG to_TO get_VB probability_NN estimates_NNS which_WDT are_VBP then_RB adjusted_VBN using_VBG Lemma_NNP 1_CD ._.
+For_IN approach_NN -LRB-_-LRB- iii_LS -RRB-_-RRB- we_PRP run_VBP libSVM_NN twice_RB ._.
+The_DT first_JJ run_NN uses_VBZ Platt_NNP scaling_VBG to_TO get_VB probability_NN

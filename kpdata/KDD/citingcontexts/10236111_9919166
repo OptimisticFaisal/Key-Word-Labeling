@@ -1,0 +1,6 @@
+n_NN developed_VBD -LRB-_-LRB- 16_CD ,_, 19_CD -RRB-_-RRB- ._.
+These_DT methods_NNS are_VBP not_RB well_RB adapted_VBN to_TO genome-wide_JJ association_NN study_NN ._.
+To_TO avoid_VB exhaustively_RB enumerating_VBG the_DT search_NN space_NN ,_, a_DT common_JJ approach_NN is_VBZ to_TO break_VB the_DT problem_NN into_IN two_CD steps_NNS =_JJ -_: =[_NN 8_CD ,_, 10_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+First_RB ,_, a_DT subset_NN of_IN important_JJ SNPs_NNS are_VBP selected_VBN ._.
+Second_JJ ,_, within_IN the_DT selected_VBN subset_NN ,_, the_DT association_NN between_IN SNPs_NNS and_CC the_DT phenotypes_NNS are_VBP searched_VBN ._.
+These_DT methods_NNS are_VBP not_RB complete_JJ since_IN the_DT SNPs_NNS with_IN w_NN

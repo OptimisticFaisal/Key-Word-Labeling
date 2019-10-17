@@ -1,0 +1,4 @@
+Existing_VBG clustering_NN algorithms_NNS applicable_JJ to_TO microarray_NN data_NN analysis_NN can_MD be_VB classified_VBN into_IN either_CC full_JJ space_NN clustering_NN algorithms_NNS -LRB-_-LRB- e.g._FW ,_, -LRB-_-LRB- 10_CD ,_, 11_CD ,_, 23_CD ,_, 25_CD -RRB-_-RRB- -RRB-_-RRB- ,_, or_CC subspace_NN clustering_NN algorithms_NNS -LRB-_-LRB- e.g._FW ,_, =_JJ -_: =[_NN 1_CD ,_, 2_CD ,_, 3_CD ,_, 14_CD ,_, 27_CD ,_, 28_CD ,_, 29_CD -RRB-_-RRB- -_: =--RRB-_NN ._.
+In_IN this_DT section_NN ,_, we_PRP briefly_RB survey_VBP some_DT representative_JJ methods_NNS ._.
+Many_JJ classical_JJ clustering_NN algorithms_NNS are_VBP full-space_JJ clustering_NN algorithms_NNS ._.
+Some_DT widely_RB used_VBN approaches_NNS include_VBP Kmeans_NNP algorithms_NNS -LRB-_-LRB- 25_CD -RRB-_-RRB-

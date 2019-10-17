@@ -1,0 +1,4 @@
+or_CC monitoring_VBG stock_NN price_NN ,_, network_NN bandwidth_NN usage_NN ,_, foreign_JJ currency_NN exchange_NN rate_NN ,_, holiday_NN effect_NN ,_, and_CC so_RB on_RB ._.
+This_DT issue_NN is_VBZ referred_VBN to_TO as_IN data_NNS evolution_NN ,_, time-changing_JJ data_NNS ,_, or_CC conceptdrifting_VBG data_NN =_JJ -_: =[_NN 1_CD ,_, 13_CD ,_, 17_CD ,_, 26_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+1.1_CD Motivation_NN The_DT distribution_NN change_NN over_IN data_NNS streams_NNS has_VBZ great_JJ impact_NN on_IN most_JJS stream_NN mining_NN algorithms_NNS ._.
+A_DT data_NN stream_NN mining_NN model_NN built_VBN previously_RB may_MD not_RB be_VB efficient_JJ or_CC accurate_JJ when_WRB the_DT data_NNS

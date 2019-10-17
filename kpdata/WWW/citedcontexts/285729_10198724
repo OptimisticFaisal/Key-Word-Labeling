@@ -1,0 +1,4 @@
+entical_JJ to_TO Personalized_VBN PageRank_NN -LRB-_-LRB- 20_CD ,_, Section_NNP 6_CD -RRB-_-RRB- with_IN the_DT personalization_NN vector_NN set_VBN to_TO b_NN ,_, except_IN that_IN the_DT links_NNS are_VBP reversed_VBN ._.
+In_IN fact_NN ,_, BadRank_NNP can_MD be_VB considered_VBN a_DT variant_NN of_IN Topic-Sensitive_JJ PageRank_NN =_JJ -_: =[_NN 12_CD -RRB-_-RRB- -_: =_JJ -_: and_CC TrustRank_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- ._.
+If_IN α_NN =_JJ 0.85_CD ,_, the_DT random_JJ surfer_NN will_MD walk_VB backwards_RB over_IN inbound_JJ links_NNS 85_CD %_NN of_IN the_DT time_NN and_CC then_RB jump_VB to_TO a_DT random_JJ page_NN in_IN B_NN the_DT other_JJ 15_CD %_NN of_IN the_DT time_NN ._.
+Another_DT way_NN to_TO think_VB of_IN this_DT i_FW

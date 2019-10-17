@@ -1,0 +1,4 @@
+orts_NNS transactions_NNS ,_, locking_VBG ,_, and_CC recovery_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Another_DT merit_NN of_IN this_DT embedded_JJ database_NN is_VBZ that_IN it_PRP is_VBZ linked_VBN -LRB-_-LRB- at_IN compile-time_NN or_CC run-time_NN -RRB-_-RRB- into_IN an_DT application_NN and_CC act_VBP as_IN its_PRP$ persistent_JJ storage_NN manager_NN ._.
+=_SYM -_: =[_NN 11_CD -RRB-_-RRB- -_: =_SYM -_: In_IN our_PRP$ system_NN ,_, a_DT total_JJ training_NN statistic_NN DB_NN is_VBZ established_VBN ,_, which_WDT contains_VBZ the_DT frequency_NN and_CC file_NN numbers_NNS that_IN a_DT word_NN appeared_VBD in_IN each_DT class_NN and_CC all_PDT the_DT training_NN set_NN ._.
+During_IN the_DT same_JJ process_NN ,_, a_DT smal_NN

@@ -1,0 +1,4 @@
+tructure_NN of_IN BGP_NN traffic_NN ._.
+Furthermore_RB ,_, Feldmann_NNP et_FW al._FW -LRB-_-LRB- 5_CD -RRB-_-RRB- present_JJ methods_NNS to_TO detect_VB various_JJ BGP_NN anomalies_NNS that_WDT affect_VBP inter-domain_JJ routing_VBG ._.
+Work_NNP closely_RB related_JJ to_TO our_PRP$ own_JJ is_VBZ presented_VBN by_IN Teoh_NNP et_FW al._FW =_SYM -_: =[_NN 22_CD -RRB-_-RRB- -_: =_JJ -_: and_CC employs_VBZ statistical_JJ and_CC visualization_NN methods_NNS to_TO diagnose_VB BGP_NN anomalies_NNS ._.
+Our_PRP$ work_NN differs_VBZ in_IN that_IN they_PRP focus_VBP on_IN novel_JJ visualization_NN methods_NNS to_TO detect_VB BGP_NN anomalies_NNS rather_RB than_IN data_NNS mining_NN techniq_NN

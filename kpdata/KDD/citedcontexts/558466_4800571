@@ -1,0 +1,4 @@
+in_IN this_DT paper_NN it_PRP is_VBZ our_PRP$ goal_NN to_TO implement_VB different_JJ levels_NNS of_IN ``_`` cooperation_NN ''_'' between_IN user_NN and_CC computer_NN ,_, as_IN described_VBN below_IN ._.
+A_DT similar_JJ approach_NN was_VBD adopted_VBN by_IN Ankerst_NNP in_IN handling_VBG classification_NN tasks_NNS -LRB-_-LRB- =_JJ -_: =_JJ Ankerst_FW et_FW al._FW 1999_CD -_: =-]_CD ._.
+Level_NN 0_CD --_: Based_VBN on_IN different_JJ heuristics_NNS -LRB-_-LRB- to_TO be_VB defined_VBN -RRB-_-RRB- the_DT computer_NN sets_VBZ and_CC changes_VBZ the_DT support_NN and_CC confidence_NN levels_NNS during_IN algorithm_NN execution_NN ._.
+The_DT user_NN interacts_VBZ with_IN the_DT visualization_NN ,_, but_CC ca_MD

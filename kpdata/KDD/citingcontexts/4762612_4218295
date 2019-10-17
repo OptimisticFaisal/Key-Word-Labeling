@@ -1,0 +1,4 @@
+o_NN form_NN the_DT final_JJ classification_NN model_NN ._.
+These_DT three_CD key_JJ steps_NNS are_VBP discussed_VBN ,_, in_IN detail_NN ,_, in_IN the_DT following_JJ sections_NNS ._.
+The_DT work_NN presented_VBN here_RB extends_VBZ our_PRP$ earlier_JJR Multi-view_JJ Classification_NN -LRB-_-LRB- MVC_NN -RRB-_-RRB- algorithm_NN =_JJ -_: =[_NN 11_CD -RRB-_-RRB- -_: =_JJ -_: ,_, by_IN the_DT introduction_NN of_IN -LRB-_-LRB- 1_LS -RRB-_-RRB- a_DT new_JJ method_NN for_IN constructing_VBG multiple_JJ views_NNS and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- a_DT novel_JJ view_NN validation_NN strategy_NN which_WDT identifies_VBZ a_DT set_NN of_IN uncorrelative_JJ views_NNS ._.
+3.1_CD View_NNP Construction_NNP The_NNP View_NNP Constru_NNP

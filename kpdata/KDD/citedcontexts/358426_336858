@@ -1,0 +1,5 @@
+._.
+Introduction_NN Record_NNP linkage_NN is_VBZ the_DT means_NN of_IN combining_VBG information_NN from_IN a_DT variety_NN of_IN computerized_JJ files_NNS ._.
+It_PRP is_VBZ also_RB referred_VBN to_TO as_IN data_NN cleaning_NN -LRB-_-LRB- McCallum_NNP and_CC Wellner_NNP 2003_CD -RRB-_-RRB- or_CC object_NN identification_NN -LRB-_-LRB- =_JJ -_: =_JJ Tejada_NNP et_FW al._FW 2002_CD -_: =--RRB-_NN ._.
+The_DT basic_JJ methods_NNS compare_VBP name_NN and_CC address_NN information_NN across_IN pairs_NNS of_IN files_NNS to_TO determine_VB those_DT pairs_NNS of_IN records_NNS that_WDT are_VBP associated_VBN with_IN the_DT same_JJ entity_NN ._.
+An_DT entity_NN might_MD be_VB a_DT business_NN ,_, a_DT person_NN ,_, o_NN

@@ -1,0 +1,5 @@
+obabilities_NNS for_IN every_DT example_NN ._.
+It_PRP would_MD also_RB be_VB interesting_JJ to_TO do_VB an_DT ROC_NN analysis_NN of_IN MetaCost_NNP ,_, by_IN varying_VBG the_DT probability_NN thresholds_NNS at_IN which_WDT an_DT example_NN 's_POS relabeling_VBG changes_NNS from_IN one_CD class_NN to_TO another_DT =_JJ -_: =[_NN 21_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+The_DT current_JJ version_NN of_IN MetaCost_NNP is_VBZ based_VBN on_IN bagging_NN ._.
+An_DT alternative_JJ method_NN for_IN constructing_VBG model_NN ensembles_NNS is_VBZ boosting_VBG -LRB-_-LRB- 19_CD -RRB-_-RRB- ._.
+Boosting_VBG often_RB achieves_VBZ lower_JJR error_NN rates_NNS than_IN bagging_NN ,_, and_CC using_VBG it_PRP in_IN

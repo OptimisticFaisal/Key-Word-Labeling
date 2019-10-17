@@ -1,0 +1,5 @@
+ase_VB its_PRP$ membership_NN in_IN others_NNS clusters_NNS ._.
+Examples_NNS of_IN matrix_NN and_CC relational_JJ co-clustering_NN include_VBP pLSI_NN ,_, pLSI-pHITS_NN ,_, the_DT symmetric_JJ block_NN models_NNS of_IN Long_NNP et_NNP ._.
+al._FW -LRB-_-LRB- 23_CD ,_, 24_CD ,_, 25_CD -RRB-_-RRB- ,_, and_CC Bregman_NNP tensor_NN clustering_NN =_JJ -_: =[_NN 5_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- which_WDT can_MD handle_VB higher_JJR arity_NN relations_NNS -RRB-_-RRB- ._.
+Matrix_NNP analogs_NNS of_IN factor_NN analysis_NN place_NN no_DT stochastic_JJ constraint_NN on_IN the_DT parameters_NNS ._.
+Collective_JJ matrix_NN factorization_NN has_VBZ been_VBN presented_VBN using_VBG matrix_NN factor_NN

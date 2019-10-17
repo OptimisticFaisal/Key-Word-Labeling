@@ -1,0 +1,3 @@
+ntial_JJ data_NNS ,_, the_DT problem_NN is_VBZ actually_RB a_DT little_RB more_RBR complex_JJ in_IN form_NN than_IN the_DT multivariate_JJ case_NN sketched_VBN in_IN Section_NN 2_CD ._.
+We_PRP use_VBP the_DT same_JJ approach_NN as_IN used_VBN with_IN ``_`` trigger-models_NNS ''_'' in_IN natural_JJ language_NN =_JJ -_: =_JJ modeling_NN -LRB-_-LRB- 9_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN full_JJ details_NNS see_VBP -LRB-_-LRB- 6_CD -RRB-_-RRB- ,_, where_WRB we_PRP also_RB show_VBP that_IN each_DT iteration_NN of_IN the_DT iterative_JJ scaling_VBG algorithm_NN scales_NNS roughly_RB as_IN NC_NN where_WRB N_NN is_VBZ the_DT length_NN of_IN the_DT training_NN sequence_NN and_CC C_NN is_VBZ the_DT total_JJ number_NN of_IN c_NN

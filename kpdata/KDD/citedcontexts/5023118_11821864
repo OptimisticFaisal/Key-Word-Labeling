@@ -1,0 +1,4 @@
+graph_NN is_VBZ irreducible_JJ if_IN there_EX exists_VBZ a_DT path_NN from_IN any_DT node_NN to_TO any_DT node_NN ._.
+Using_VBG the_DT second_JJ strategy_NN mentioned_VBN above_RB by_IN adding_VBG dummy_NN edges_NNS to_TO make_VB A_DT stochastic_JJ ,_, ensures_VBZ that_IN A_NN is_VBZ also_RB irreducible_JJ ._.
+As_IN in_IN =_JJ -_: =[_NN 10,36,67_CD -RRB-_-RRB- -_: =_JJ -_: ,_, iFinder_NNP adopts_VBZ an_DT iterative_JJ method_NN to_TO compute_VB the_DT influence_NN scores_NNS of_IN blog_NN posts_NNS ._.
+iFinder_NN starts_VBZ with_IN little_JJ knowledge_NN and_CC with_IN each_DT iteration_NN tries_VBZ to_TO improve_VB the_DT knowledge_NN about_IN the_DT influence_NN of_IN t_NN

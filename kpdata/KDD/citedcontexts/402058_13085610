@@ -1,0 +1,4 @@
+ocus_NN on_IN outlier_NN detection_NN ,_, as_IN the_DT connectivity_NN structure_NN revealed_VBD by_IN the_DT ShatterPlots_NNP ._.
+Autopart_NN -LRB-_-LRB- 11_CD -RRB-_-RRB- finds_VBZ outlier_NN edges_NNS in_IN a_DT general_JJ graph_NN ;_: however_RB ,_, we_PRP need_VBP to_TO detect_VB outliers_NNS nodes_NNS ._.
+Noble_NNP and_CC Cook_NNP =_SYM -_: =[_NN 36_CD -RRB-_-RRB- -_: =_JJ -_: study_NN anomaly_NN detection_NN on_IN general_JJ graph_NN with_IN labeled_JJ nodes_NNS ;_: however_RB ,_, their_PRP$ goal_NN is_VBZ to_TO identify_VB abnormal_JJ substructure_NN in_IN the_DT graph_NN ,_, not_RB the_DT abnormal_JJ nodes_NNS ._.
+Aggarwal_NNP and_CC Yu_NNP -LRB-_-LRB- 2_CD -RRB-_-RRB- propose_VBP algorithms_NNS to_TO f_SYM

@@ -1,0 +1,4 @@
+tical_JJ result_NN that_WDT relates_VBZ the_DT number_NN of_IN samples_NNS required_VBN ,_, the_DT bound_VBN on_IN the_DT accuracy_NN ,_, and_CC the_DT probability_NN of_IN meeting_VBG the_DT bound_VBN ._.
+The_DT basic_JJ approach_NN from_IN Domingos_NNP et_FW al._FW has_VBZ also_RB been_VBN extended_VBN by_IN others_NNS =_JJ -_: =[_NN 7_CD ,_, 15_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+One_CD of_IN the_DT disadvantages_NNS of_IN an_DT algorithm_NN that_WDT only_RB achieves_VBZ a_DT probabilistic_JJ bound_VBN is_VBZ that_IN there_EX are_VBP no_DT guarantees_NNS from_IN the_DT results_NNS obtained_VBN from_IN a_DT particular_JJ application_NN of_IN the_DT algorithm_NN ._.
+For_IN exampl_NN

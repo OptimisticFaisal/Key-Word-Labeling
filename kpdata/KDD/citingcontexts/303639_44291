@@ -1,0 +1,4 @@
+s_NN it_PRP can_MD belong_VB to_TO is_VBZ k_NN ,_, we_PRP first_RB generate_VBP a_DT n_NN cents_NNS k_NN binary_JJ membership_NN matrix_NN M_NN from_IN a_DT Rayleigh_NNP distribution_NN using_VBG rejection_NN sampling_NN ._.
+For_IN each_DT point_NN ,_, we_PRP first_JJ sample_NN a_DT value_NN from_IN a_DT Rayleigh_NNP distribution_NN =_JJ -_: =[_NN 32_CD -RRB-_-RRB- -_: =_SYM -_: with_IN a_DT mean_NN of_IN 2_CD ._.
+The_DT actual_JJ number_NN of_IN processes_NNS p_NN for_IN the_DT point_NN is_VBZ obtained_VBN by_IN adding_VBG 1_CD to_TO the_DT sample_NN value_NN ,_, so_IN that_IN the_DT mean_JJ number_NN of_IN processes_NNS to_TO which_WDT a_DT point_NN is_VBZ assigned_VBN is_VBZ effectively_RB 3_CD ._.
+Note_VB

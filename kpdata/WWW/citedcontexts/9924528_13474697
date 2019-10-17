@@ -1,0 +1,4 @@
+g_NN the_DT otherwise_RB nonlinear_JJ SVM_NN problem_NN into_IN linear_JJ SVM_NN ._.
+2_CD Review_NNP of_IN Minwise_NNP Hashing_NNP and_CC b-Bit_NNP Minwise_NNP Hashing_NNP Minwise_NNP hashing_VBG -LRB-_-LRB- 6,7_CD -RRB-_-RRB- has_VBZ been_VBN successfully_RB applied_VBN to_TO a_DT wide_JJ range_NN of_IN real-world_JJ problems_NNS =_JJ -_: =[_NN 4,6,7_CD ,_, 9_CD ,_, 10_CD ,_, 12_CD ,_, 15_CD ,_, 16_CD ,_, 30_CD -RRB-_-RRB- -_: =_JJ -_: ,_, for_IN efficiently_RB computing_VBG set_NN similarities_NNS ._.
+Minwise_NNP hashing_VBG mainly_RB works_VBZ well_RB with_IN binary_JJ data_NNS ,_, which_WDT can_MD be_VB viewed_VBN either_CC as_IN 0\/1_CD vectors_NNS or_CC as_IN sets_NNS ._.
+Given_VBN two_CD sets_NNS ,_, S1_NN ,_, S2_NN ⊆_NN Ω_NN =_JJ -LCB-_-LRB- 0_CD ,_, 1_CD ,_, 2_CD ,_, ..._: ,_, D_NN −_NN

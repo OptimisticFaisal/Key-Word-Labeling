@@ -1,0 +1,4 @@
+d_NN learning_NN algorithms_NNS is_VBZ an_DT interesting_JJ issue_NN to_TO be_VB investigated_VBN in_IN future_JJ work_NN ._.
+Ensemble_NN learning_NN techniques_NNS -LRB-_-LRB- 12_CD -RRB-_-RRB- ,_, in_IN particular_JJ ,_, Boosting_NNP ,_, have_VBP already_RB been_VBN introduced_VBN into_IN semi-supervised_JJ learning_NN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_JJ -_: -LRB-_-LRB- 9_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ evident_JJ that_IN the_DT working_VBG style_NN of_IN tri-training_NN exhibits_VBZ a_DT new_JJ way_NN to_TO exploit_VB ensemble_NN techniques_NNS in_IN this_DT area_NN ._.
+However_RB ,_, in_IN its_PRP$ current_JJ form_NN ,_, such_JJ an_DT exploitation_NN is_VBZ very_RB limited_JJ because_IN th_DT

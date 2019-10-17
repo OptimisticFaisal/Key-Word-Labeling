@@ -1,0 +1,4 @@
+every_DT itemset_NN ,_, its_PRP$ expected_JJ support_NN is_VBZ computed_VBN and_CC those_DT for_IN which_WDT it_PRP exceeds_VBZ a_DT minimum_NN threshold_NN are_VBP reported_VBN as_IN frequent_JJ ._.
+The_DT second_JJ one_CD is_VBZ called_VBN frequentness_NN probability_NN and_CC it_PRP was_VBD introduced_VBN in_IN =_JJ -_: =[_NN 2_CD -RRB-_-RRB- -_: =_SYM -_: ._.
+For_IN a_DT particular_JJ itemset_NN ,_, it_PRP takes_VBZ into_IN consideration_NN the_DT probability_NN distribution_NN of_IN the_DT support_NN and_CC it_PRP gives_VBZ its_PRP$ probability_NN of_IN being_VBG frequent_JJ at_IN a_DT given_VBN minimum_NN support_NN threshold_NN ._.
+The_DT existing_VBG me_PRP

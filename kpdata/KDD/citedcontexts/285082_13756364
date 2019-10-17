@@ -1,0 +1,4 @@
+h_NN communities_NNS ._.
+For_IN example_NN ,_, Domingos_NNP and_CC Richardson_NNP -LRB-_-LRB- 7_CD ,_, 14_CD -RRB-_-RRB- first_RB propose_VBP the_DT the_DT influence_NN maximization_NN problem_NN ,_, in_IN which_WDT the_DT goal_NN is_VBZ to_TO find_VB a_DT few_JJ ``_`` influential_JJ ''_'' members_NNS of_IN the_DT network_NN ._.
+Kempe_NNP et_FW al._FW =_SYM -_: =[_NN 10_CD -RRB-_-RRB- -_: =_SYM -_: formalize_VB the_DT problem_NN in_IN discrete_JJ optimization_NN and_CC propose_VBP three_CD cascade_NN models_NNS for_IN influence_NN propagation_NN ._.
+However_RB ,_, in_IN these_DT works_NNS ,_, the_DT influence_NN between_IN individual_JJ users_NNS is_VBZ supposed_VBN to_TO be_VB available_JJ ,_,
